@@ -1,0 +1,225 @@
+---
+title: "\"[Updated] 2024 Approved  From Stillness to Stirring  Tips for Bouncing Text\""
+date: 2024-06-05 21:22:26
+updated: 2024-06-06 10:40:21
+tags:
+  - ai video
+  - ai youtube
+categories:
+  - ai
+  - youtube
+description: "\"This Article Describes [Updated] 2024 Approved: From Stillness to Stirring: Tips for Bouncing Text\""
+excerpt: "\"This Article Describes [Updated] 2024 Approved: From Stillness to Stirring: Tips for Bouncing Text\""
+keywords: "Stirring Text Strategies,Dynamic Writing Techniques,Engaging Content Creation,Active Language Use,Vivid Written Words,Invigorating Prose Ideas,Energizing Narrative Tips"
+thumbnail: https://www.lifewire.com/thmb/dlXSXWUVnvtFpXfW22z68Mqdr1g=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/TwitterVideoDownload-5b605aaac9e77c002c3a42f3.jpg
+---
+
+## From Stillness to Stirring: Tips for Bouncing Text
+
+# How to Create Animated Bouncing Text
+
+![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
+
+##### Liza Brown
+
+ Mar 27, 2024• Proven solutions
+
+Earlier, you learned how to have a **[bounce text effect in Adobe After Effects](https://tools.techidaily.com/wondershare/filmora/download/)**. However, because AE is a complex application and has a steep learning curve, this section explains the two alternative ways to get the same effect on your existing video footage.
+
+## Method 1: How to Create Bouncing Text in Filmora Video Editor?
+
+When talking about [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/), the application is populated with several presets for texts and titles, animations, effects, filters, and much more.
+
+These pre-built templates not only make your task easier, they also save your decent amount of time that you would spend while working with After Effects or any other similar app that requires you to build things from scratch.
+
+You can follow the instructions given below to **add animated bounce text** to any of your video footages with Filmora:
+
+#### Step 1: Add a Footage to Timeline
+
+Launch Wondershare Filmora on your Windows or Mac PC. By default, the [aspect ratio](https://tools.techidaily.com/wondershare/filmora/download/) of the project is set to 16:9\. Click anywhere inside the **Media** window at the upper-left section, and select and import footage you want to add bounce text to.
+
+#### Step 2: Insert Text and Add Bounce Effect
+
+Click **Titles** from the standard toolbar at the top, and click and drag your preferred title template from the Library to the timeline. In case you don’t want any specific animation or style on the title, you can use the default title.
+
+In the timeline, double-click the title you just added, use the upper-left section to edit the text, go to the **Animation** tab from the left pane, scroll down the list, and double-click the **Up Down 1** or **Up Down 2** preset to apply the bounce effect to the credits. Click **OK** to save the changes and to get back to the main window.
+
+![Create Bouncing Text video Filmora9](https://images.wondershare.com/filmora/article-images/add-up-down-animation-to-bounce.jpg)
+
+**Step 3: Add Shake Filters**
+
+Go to **Effects** from the standard toolbar, expand the **Filters** category from the left pane, and click **Shake**. From the Library window, click and drag your preferred shake filter to the timeline. Here, I will choose Mild.
+
+![Shake filters in Filmora9](https://images.wondershare.com/filmora/article-images/shake-filter.jpg)
+
+You can customize the default effect by double-clicking the shake filter in the timeline, using the sliders in the upper-left area of the interface to make necessary adjustments, and then clicking **OK** to save the changes and to get back to the previous interface.
+
+![Mild Shake filters adjust](https://images.wondershare.com/filmora/article-images/mild-shake-filter-adjust.jpg)
+
+**Step 4: Export the Final Output**
+
+Click **EXPORT** from the top of the interface, go to the **Local** tab in the **Export** box, choose your preferred output format from the list in the left, make required customizations from the right pane, and click **EXPORT** from the bottom-right corner to export the video.
+
+![Filmora9 Export Options](https://images.wondershare.com/filmora/article-images/export-filmora9-video.jpg)
+
+Now, you can add the bouncing text video and the background video to the timeline, and then place the bouncing text video above the background video track.
+
+Double click the text track, go to the **Chroma Key** effect, select the **Color Picker** tool, and click anywhere in the Preview window to get things right. Finally, export the entire project to your preferred output format as explained in **Step 4**.
+
+As explained before, Wondeshare Filmora makes the entire process of creating and adding **bounce text** effect pretty simple. With all the pre-build templates, and the versatility of the options that can be used to customize those presets, you can come up with the effects that are usually obtained when you start generating them from the scratch.
+
+[![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
+
+## Method 2: Generate Animated Bouncing Texts Online
+
+If you don’t want any heavy and resource-intensive app on your PC merely for some special text effects, you can try any of the online solutions instead. The benefit of using any such web app is that all the processing is done on site’s server, and it is only a web browser and an Internet connection that you need to have at your side.
+
+Some most trusted websites to generate **bounce text** are listed below:
+
+#### 1\. ENGFTO
+
+Website: <https://engfto.com/index/create%5Fanimated%5Fbouncing%5Ftext/0-26>
+
+![Create Animated Bouncing Text with ENGFTO](https://images.wondershare.com/filmora/article-images/engfto-create-animated-bouncing-text.jpg)
+
+You can follow the instructions given below to use Engfto to generate bouncing text for your footages:
+
+**Step 1: Get to the Animated Bouncing Text Page**
+
+Launch your favorite web browser, and go to the link given above to get to the Engfto’s animated bouncing text page.
+
+**Step 2: Customize Text and Preferences**
+
+Modify the values in the fields under the **SIZE AREA** and **TEXT** sections to customize the text area, the text itself, its size, and font. Next, adjust the values in the fields under the **EFFECT PARAMETERS** section to get the required bounce effect. Also, use the fields under the **BACKGROUND** section to either change the background color, or pick a background image from your PC.
+
+**Step 3: Obtain the Animated Text**
+
+Click the **SAVE GIF ANIMATION** button from the lower section of the page to download the animated text to your PC.
+
+#### 2\. Loading.io
+
+The instructions given below explain how to use Loading.io to get animated **bounce text** effect for your footages:
+
+**Step 1: Get to the Loading.io Webpage**
+
+Launch your favorite web browser and go to <https://loading.io/animation/text/>.
+
+**Step 2: Customize the Text and Choose Animation Effect**
+
+![Create Animated Bouncing Text with Loading.io](https://images.wondershare.com/filmora/article-images/create-bouncing-text-with-loadingio.jpg)
+
+Use the options available on the webpage to type your text, and change its font, color, background, transparency level etc. Select **Bounce** (or any of its variants) from the **Animation** drop-down list, and adjust the speed using the **Speed** slider.
+
+**Step 3: Obtain the Text**
+
+Click your preferred option from next to the **Download As** section to download the animated text to your PC.
+
+**Note:** Regardless of the web solution you choose to generate and obtain animated **bounce text**, you will still need a post-production tool to add the downloaded text to your footage.
+
+**Conclusion**
+
+Generating **bounce text** effect is much simpler when you use Wondershare Filmora or any of the online solutions as explained in Method 2\. While the former gives you more flexibility when it comes to customizations, the latter doesn’t require any app to be installed on your PC. In addition, many times the web apps offer their services for free, and therefore they are preferred by the novice users who are not much into post-production processes.
+
+![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
+
+Liza Brown
+
+Liza Brown is a writer and a lover of all things video.
+
+Follow @Liza Brown
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+## Learning Leaders: Most Influential Edu Tutorials YT
+
+# Top 10 Educational YouTube Channels
+
+![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
+
+##### Richard Bennett
+
+ Mar 27, 2024• Proven solutions
+
+There are many benefits that come with using [educational YouTube channels](https://tools.techidaily.com/wondershare/filmora/download/) to study and learn for both students and teachers. Video has a transformative way of learning which has been proven to encourage flipped classroom models where students have a chance to digest the lecture content at their pace, besides delving deeper into the content during class time. Below is a short preview of the specific benefits that using YouTube has for teachers and their students-:
+
+* YouTube videos inspire and engage students in ways not possible with traditional lecturing methods.
+* Using educational YouTube channels assists in mastery learning in instances where technical or complex topics are being studied.
+* YouTube learning facilitate thinking and problem solving amongst the students
+* Educational YouTube channels provide a vast resource for research on a myriad of subjects and topics
+* Videos can be downloaded and accessed with great convenience, whether online or offline.
+* They enable the teachers to reach millions of potential students in different countries across the globe.
+* The engaging nature of videos makes them to be a more effective way of learning
+* Educational YouTube channels can be used to create an archive of free learning resources which both the students and teachers can access without having to pay.
+
+## Top 10 Educational YouTube Channels
+
+Below are the top ten educational YouTube channels that both students and teachers will find useful-:
+
+#### 1.[Massachusetts Institute of Technology Channel](https://www.youtube.com/user/MIT)
+
+Massachusetts Institute of Technology is one of the most premier higher learning centers in the world and so it is justifiable for it to have one of the best educational YouTube channels in the internet. The channel avails a wide variety of educational videos, cutting across various disciplines and anyone can access them without paying any tuition fees.
+
+#### 2. [The University of California, Berkeley](https://www.youtube.com/user/UCBerkeley)
+
+The University of California, Berkeley is another top public research and teaching institution in the United States and it also has one of the best educational YouTube channels in the internet. Just like the MIT channel, UC channel avails thousands of quality educational videos cutting across a plethora of subjects. All the materials are available to the general public for free and they are systematically arranged to help you progress from one level to another. However, UC Berkelyey course content on its channel is unavailable from 2017, March 15\. And the UC Berkeley's Webcast and Legacy Course Capture Content is available to UC Berkeley community members with an active CalNet and bConnected (Google) identity now.
+
+#### 3. [TechnoBuffalo](https://www.youtube.com/channel/UCR0AnNR7sViH3TWMJl5jyxw)
+
+TechnoBuffalo is one of the most comprehensive YouTube educational channels dedicated to everything that deals with electronics. It presents reviews on various electronic products, besides showing the workings of the various products. It also has practical videos as well as first look videos on the latest technology and gadgets.
+
+#### 4.[ASAP Science](https://www.youtube.com/user/AsapSCIENCE)
+
+Just as the name suggests, ASAP Science is a science-themed educational YouTube channels. It primarily shows videos on the practical application of science in our everyday life. Within the channel, learners will find strange and interesting videos teaching different ways on how science impact on the day to day lives of people.
+
+#### 5. [Sick Science](https://www.youtube.com/user/SteveSpanglerScience)
+
+This is a leading educational YouTube channels for those interested in intriguing scientific experiments and demonstrations. The videos in this channel are clearly and thoroughly explained and they cover a wide variety of topics. One thing that you will find amazing about this channel is that most of the experiments are very safe and can be done by anyone at home.
+
+#### 6. [BBC Earth](https://www.youtube.com/user/BBCEarth)
+
+BBC Earth is some of the few educational YouTube channels dedicated to promoting different education programs, especially those that are usually shown on BBC Earth television channel. The nature of the content of the videos in this channel includes research, nature and natural history videos, with some dating back to fifty years ago.
+
+#### 7. [Veritasium](https://www.youtube.com/user/1veritasium)
+
+Veritasium is an educational YouTube channel where complex issues are dissected in consumable content to help those interested in learning. The channel has partnered with some of the big brands to bring more educational content and offer a great deal of useful information to their subscribers.
+
+#### 8. [SmarterEveryday](https://www.youtube.com/user/destinws2)
+
+With 3.1 million subscribers, there is no doubt that SmarterEveryday is amongst the top educational YouTube channels you will ever come across. The channel is created and run by an engineer whose goal is to educate people by exploring the world through scientific demonstrations then explaining his processes and findings on the channel.
+
+#### 9. [The Game Theorists](https://www.youtube.com/user/MatthewPatrick13)
+
+This educational YouTube channel is all about video games where it tries to separate the fact from the fiction in the development of the video games, especially the science behind the development of the cars seen in the video games.
+
+#### 10.[Speak English with Misterduncan](https://www.youtube.com/user/duncaninchina)
+
+This is an awesome educational YouTube channels for anyone who is interested in learning English as a second language. Most of the videos contained in the channel teach about definitions of words, idioms as well as silent letters. What student find most amazing in this channel is the subtitles at the end of the screen to aid learning more about spelling and pronunciation of what is being taught.
+
+#### Conclusion
+
+YouTube has become a beloved educational resource for both students and teachers across the globe. It makes the process of teaching and learning so simple that most people no longer find learning to be an arduous task it used to be in the past. Besides, there are a plethora of educational YouTube channels with hundreds of high quality educational materials available to the general public for free. Irrespective of your interest of study, you can always find several educational YouTube channels to use in your learning journey.
+
+If you are a YouTube or want to make a tutorial by your own, we recommend you to try [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/), which is easy to use yet powerful enough, it also allows you to record the PC screen which is very practical for tutorial video making.
+
+[![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
+
+![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
+
+Richard Bennett
+
+Richard Bennett is a writer and a lover of all things video.
+
+Follow @Richard Bennett
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>

@@ -1,6 +1,6 @@
-# TechiDaily
+# Eaxpv Info Site
 
-Welcome to [https://android-transfer.techidaily.com](https://android-transfer.techidaily.com)
+Welcome to [https://eaxpv-info.techidaily.com](https://eaxpv-info.techidaily.com)
 
 ## Publish
 
