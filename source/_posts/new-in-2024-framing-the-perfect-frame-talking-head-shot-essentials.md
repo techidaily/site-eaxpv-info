@@ -1,7 +1,7 @@
 ---
 title: "\"[New] In 2024, Framing the Perfect Frame  Talking-Head Shot Essentials\""
-date: 2024-06-03 14:37:53
-updated: 2024-06-06 10:49:11
+date: 2024-06-06T14:59:06.558Z
+updated: 2024-06-07T14:59:06.558Z
 tags:
   - ai video
   - ai youtube
@@ -11,7 +11,7 @@ categories:
 description: "\"This Article Describes [New] In 2024, Framing the Perfect Frame: Talking-Head Shot Essentials\""
 excerpt: "\"This Article Describes [New] In 2024, Framing the Perfect Frame: Talking-Head Shot Essentials\""
 keywords: "\"Perfect Frames,Headshot Basics,Talking-Head Focus,Essential Shooting,Professional Portraits,Frame Techniques,Direct Gaze Shots\""
-thumbnail: https://www.lifewire.com/thmb/nqCzIT810A_0M2HVQPuWncpLSlk=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/victor-carvalho-DuK8VqdVsMg-unsplash-de3e8df0517b4524a5bb76fb0dc2156e.jpg
+thumbnail: https://thmb.techidaily.com/246d0000b4a8f8f8e29a0c282b538c53c7dcabe9e936ddda4c95b0a712854944.jpg
 ---
 
 ## Framing the Perfect Frame: Talking-Head Shot Essentials
@@ -118,120 +118,23 @@ Follow @Richard Bennett
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
-##### Richard Bennett
-
- Mar 27, 2024• Proven solutions
-
-Sound effects can add a lot of excitement to your videos. Sometimes they are even used for comedic effect. For example, you might use a fake slap sound in a slapstick comedy sketch. Other times sound effects can be more subtle. You might want to add city noises to the background of your video to help set your scene, or a droning sound to build suspense. A lot of the most popular [free sound effects](https://tools.techidaily.com/wondershare/filmora/download/) are related to the genres of science fiction or action.
-
-* [**Part 1: Three Types of Sound Effects**](#part1)
-* [**Part 2: Royalty-Free Sound Effects for Your YouTube Videos**](#part2)
-* [**Part 3: Free Sound Effects and Music in Filmora**](#part3)
-
-## Part 1: Three Types of Sound Effects
-
-### 1\. Without License
-
-When you want to download sound effects for YouTube, the licensed ones cannot be used, but there are a few that do not hold a license and can be easily downloaded from the website. The quality might be poor to some extent, but you may use the sound effects without a license in any product or video.
-
-### 2\. Creative Commons License
-
-The sound effects under the [CC license](https://en.wikipedia.org/wiki/Creative%5FCommons%5Flicense) need to be checked for their type. There are some vlog sound effects that can be used for personal projects free but not for commercial ones. There are a few sound effects that might just require attribution or credit to the creator and cannot be modified in any way.
-
-### 3\. Royalty-free license
-
-You may download sound effects for YouTube by purchasing the licensed sound effects that a professional offers. When you purchase it, you will get high-quality sound, and you may use it on one or more projects, irrespective of personal or commercial types.
-
-Where can you get free sound effects and edit audios at the same time? Just try Filmora for free!
-
-[![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
-
-## Part 2: Royalty-Free Sound Effects for Your YouTube Videos
-
-This article will introduce you to the six best sites to find royalty-free sound effects and explain their terms of use.
-
-### 1.[YouTube Audio Library – Free!](https://studio.youtube.com/channel/)
-
-![sound effects on youtube](https://images.wondershare.com/filmora/article-images/sound-effects-YouTube.JPG)
-
-Besides royalty-free music, the YouTube Audio Library also has sound effects that you can download for free. The sound effects in YouTube's library are organized into categories. You can select a category, i.e 'sci-fi', from the drop-down menu next to the search bar and browse through just the types of sounds you are interested in. You can also favorite sounds you like so you can find them again easily.
-
-The sound effects you download from YouTube's library can be used as many times as you like and in as many different projects. Monetizing your videos will not impact your ability to use these sound effects either. Some other sources of sound effects have different rules about monetizing or using sound effects in multiple projects.
-
-### 2.[Freesound – Free!](https://freesound.org/)
-
-![freesound](https://images.wondershare.com/filmora/article-images/sound-effects-Freesound-logo.JPG)
-
-Freesound.org is a huge database of royalty-free sound effects and other audio files. All downloads are free, but there are conditions for using some of the sounds on Freesound. There are three different Creative Commons licenses uses on Freesound and which one applies to the sound effect you want depends on the user who posted it.
-
-The three licenses used on Freesound are **Zero**, **Attribution**, and **Attribution-Noncommercial.**
-
-**Zero (cc0)**: you can do anything you want with these sound effects except claim that you created them. You can make money off of them and you do not have to credit the original creator.
-
-**Attribution (by)**: you should credit the creator of the sound. Usually, this means adding a 'Sound effect by Username on Freesound' line in the description of your video. So long as you credit the artists you can do anything with these sounds, even monetize the videos you use them in.
-
-**Attribution-Noncommercial (by –nc)**: you must credit the creators of these sound effects and you cannot make money off of them. This means that you cannot monetize a video in which you used these sound effects.
-
-Freesound is a social site where you can talk to the creators of the sounds you want to download. If you are planning to monetize a video that uses an Attribution-Noncommercial sound effect you can always ask the artist for permission.
-
-I've also found a YouTube video that explains the Creative Commons in detail. You can watch it below.
-
-### 3.[AudioJungle - $1 and Up](https://audiojungle.net/)
-
-![audiojungle](https://images.wondershare.com/filmora/article-images/sound-effects-AudioJungle.JPG)
-
-AudioJungle.net has a wide selection of royalty-free sound effects available for prices as low as $1\. Sound effects costing more than $10 tend to either be longer or include whole sets of sounds. You can filter the sounds on AudioJungle by category, tags, and price while you browse.
-
-There are two different licenses you can purchase on AudioJungle, SFX Single Use, and SFX Multi-Use. The prices displayed are all for the Single Use license. The Multi-Use license costs more.
-
-The main difference between the two licenses on AudioJungle is how many projects you can use your sound effect in. If you purchase a sound under a Single-Use license you can only use it in one project. You can use it as many times as you want within that project, and you can even make money off of that project, but you cannot use it again in a second project unless you repurchase it. While it is more expensive, the Multi-Use license gives you unlimited use of your download.
-
-If you decide to use sound effects from any of these sites then please make sure to read their more detailed legal information.
-
-### 4.[Free Sound Effects](https://www.freesoundeffects.com/free-sounds/airplane-10004/)
-
-![Free Sound Effects](https://images.wondershare.com/filmora/article-images/Free-Sound-Effects.JPG)
-
-The Free Sound Effects lets you access free as well as licensed sound effects. If you want to download sound effects for YouTube videos, the legally licensed soundtracks with high-quality effects can be selected from the Pro Sound Effects sections. These are royalty-free sound effects.
-
-It requires a one-time fee and you get access to use the sound effects as many times you want for your projects. But, if you are not really serious and just creating videos out of fun, you may also try the free sound effects like animals, applause, cars, etc. to ensure good vlog sound effects that can give life to your vlog.
-
-### 5.[Soundsnap](https://www.soundsnap.com/)
-
-![Soundsnap](https://images.wondershare.com/filmora/article-images/Soundsnap.JPG)
-
-Whether you wish to spice up your games videos or make the notification alerts hilarious, the Soundsnap app lets you download some of the most amazing sound effects. It is the best platform to search and also share the free vlog sound effects or loops legally. Soundsnap offers original sound effects created by the users and not the edited or mixed sounds that you find in usual commercial libraries. It features above 200,000 loops and sound effects created by expert and knowledgeable music producers and sound engineers.
-
-### 6.[PacDV Free Sound Effects](http://www.pacdv.com/sounds/)
-
-![PacDV Free Sound Effects](https://images.wondershare.com/filmora/article-images/PacDV-Free-Sound-Effects.JPG)
-
-Now, you may create vlog sound effects from this royalty-free library of sounds produced by film students, multimedia developers, sound designers, music producers, etc. On the PacDV Free Sound Effects site, you can find free sound clips that have been used in a number of films, television programs, and videos.
-
-You may definitely enjoy downloading sound effects for YouTube from this site completely free but cannot sell it or re-license it to anyone for your benefit. It must be used by you for your video only. The sound clips must not be put on site for download or link to other sound files.
-
-## Part 3: Get Free Sound Effects for YouTube Video in Filmora
-
-If you’re using the Filmora video editor to produce YouTube videos, then you have a free sound effect library already. You can find them in the Audio library (shown below).
-
-![ Filmora9 Audio Library](https://images.wondershare.com/filmora/article-images/filmora9-sound-effects-audio-library.jpg)
-
-There are currently 25 different sound effects available, varying from animal, machine, people, sci-fi, and ambiance. After adding the sound effect to the timeline, you can [change the speed](https://tools.techidaily.com/wondershare/filmora/download/) to make the sound sounds fun.
-
-[![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
-
-![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
-
-Richard Bennett
-
-Richard Bennett is a writer and a lover of all things video.
-
-Follow @Richard Bennett
-
-
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-7571918770474297"
-     data-ad-slot="8358498916"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-10-fastest-growing-youtube-channels-to-inspire-you/"><u>[New] 2024 Approved  10 Fastest Growing YouTube Channels to Inspire You</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-fearless-filming-mastering-your-first-10-clips-for-2024/"><u>[Updated] Fearless Filming  Mastering Your First 10 Clips for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-choose-best-free-youtube-video-editor-apps-on-ios/"><u>[Updated] 2024 Approved  How to Choose Best-Free YouTube Video Editor Apps on iOS</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-going-against-the-tide-of-tradition-innovative-techniques-for-yt-rewinds/"><u>[New] 2024 Approved  Going Against the Tide of Tradition  Innovative Techniques for YT Rewinds</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-green-filming-gurus-on-yt-transform-your-set-with-greenscreens-for-2024/"><u>[New] Green Filming Gurus on YT  Transform Your Set with Greenscreens for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-hourly-high-stakes-views-yts-1-to-10-rankings/"><u>[New] In 2024, Hourly High-Stakes Views  YT's #1 to #10 Rankings</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-channel-confidence-tips-for-trending-on-youtube/"><u>[New] In 2024, Channel Confidence  Tips for Trending on YouTube</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-guffaws-galore-compiled-list-of-10-funniest-youtube-short-videos/"><u>[New] 2024 Approved  Guffaws Galore  Compiled List of 10 Funniest YouTube Short Videos</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-discover-yourself-in-android-top-15-life-like-simulators/"><u>[New] In 2024, Discover Yourself in Android  Top 15 Life-Like Simulators</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-oneplus-nord-ce-3-lite-5g-drfone-by-drfone-virtual/"><u>In 2024, 9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your OnePlus Nord CE 3 Lite 5G | Dr.fone</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-in-2024-avidemux-essentials-cropping-trimming-and-perfecting-your-video-edits/"><u>Updated In 2024, Avidemux Essentials Cropping, Trimming, and Perfecting Your Video Edits</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-gamers-delight-selecting-the-top-10-hddsssds-for-2024/"><u>[New] Gamer's Delight  Selecting the Top 10 HDDs/SSDs for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-reviving-the-past-top-5-desktop-friendly-gb-emulation-software/"><u>[New] In 2024, Reviving the Past  Top 5 Desktop-Friendly GB Emulation Software</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/proven-ways-to-fix-there-was-a-problem-parsing-the-package-on-honor-x50i-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Proven Ways to Fix There Was A Problem Parsing the Package on Honor X50i | Dr.fone</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-2024-approved-acoustic-detox-the-best-programs-for-minimizing-environmental-audio-interference/"><u>Updated 2024 Approved Acoustic Detox The Best Programs for Minimizing Environmental Audio Interference</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-crafting-a-connected-collection-across-applications/"><u>[Updated] Crafting a Connected Collection Across Applications</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-does-life360-notify-when-you-log-out-on-apple-iphone-13-drfone-by-drfone-virtual-ios/"><u>In 2024, Does Life360 Notify When You Log Out On Apple iPhone 13? | Dr.fone</u></a></li>
+</ul></div>

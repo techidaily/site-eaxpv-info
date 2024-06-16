@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] High-Ranking Videos  YouTube’s Everlasting Classics for 2024\""
-date: 2024-06-06 20:34:53
-updated: 2024-06-07 12:42:44
+date: 2024-06-06T14:08:00.511Z
+updated: 2024-06-07T14:08:00.511Z
 tags:
   - ai video
   - ai youtube
@@ -11,7 +11,7 @@ categories:
 description: "\"This Article Describes [Updated] High-Ranking Videos: YouTube’s Everlasting Classics for 2024\""
 excerpt: "\"This Article Describes [Updated] High-Ranking Videos: YouTube’s Everlasting Classics for 2024\""
 keywords: "\"Classic YouTube Videos,Top Rated Vids,High-Ranked Video Tips,Evergreen YouTube Content,Best YouTube History,Viral Video Strategies,Timeless Video Success\""
-thumbnail: https://www.lifewire.com/thmb/tEMnnUjKAHz6RxWmsp5GZiTQbVc=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/using-amazon-alexa-app-for-echo-dot-3rd-generation_t20_YELgBm-03cb8e88e0644a5a949e0ef9e69cfde7.jpg
+thumbnail: https://thmb.techidaily.com/865ed323eb71130c7276babe580275f4674927ba17ed6f4bfafe6ec23c46bab1.jpg
 ---
 
 ## High-Ranking Videos: YouTube’s Everlasting Classics
@@ -162,60 +162,25 @@ Follow @Richard Bennett
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
-##### Richard Bennett
-
- Mar 27, 2024• Proven solutions
-
-By captioning your YouTube videos you help to make them accessible to more potential viewers. Subtitles are useful to viewers who have hearing impairments, whose first language is different from yours, or who are unable to watch your video with sound. Closed captioning can also be useful for you as a YouTuber because it helps with your SEO, or search engine optimization. Practicing better SEO can get your videos ranked higher in search results. Google and YouTube both index subtitles and transcripts much like they do your video’s description, unless you use automated captions.
-
-This article will first explain how you can turn on subtitles for the videos you watch and then walk you through adding captions to your own videos.
-
-## How To Turn On Captions on YouTube
-
-In order for you to be able to view subtitles for a YouTube video the uploader of the video will need to have added them, unless you change your account settings to display automatic captions.
-
-![captions](https://images.wondershare.com/filmora/article-images/captions-how-to-turn-on.JPG)
-
-To toggle subtitles on and off click on the Closed Captioning icon in the bottom right of your video player.
-
-If the creator of the video has not added captions then you can enable automatic captions by going into your **Account Settings** and selecting **Playback**. Check the box next to **Always Show Captions**, and then check   **Show Automatic Captions by Speech Recognition**. These captions may be flawed, but you will still be able to see the more accurate user submitted captions on videos that have them. The **Always Show Captions** feature may be useful not only to the hearing impaired, but to users who do not speak the same language as the video producer.
-
-If you want to change the language of the subtitles click on the settings icon (the one that looks like a gear) next to the closed captioning icon and choose your language next to   **Subtitles/CC** . If the language you want is not there select **Auto-Translate**  and then pick a language. Google Translate will be used to generate subtitles in your chosen language.
-
-## Adding YouTube Captions in 4 Steps
-
-1\. Go to **Video Manager** in your **Creator Studio** and then look at your videos. Decide which one you want to add captions to.
-
-2\. Click on the drop-down menu next to the video you want to add captions to and choose **Subtitles and CC**.
-
-3\. Select **Add New** **Subtitles or CC**.
-
-4\. Choose whether to create your captions, upload a file that has them, transcribe your video, use automatic captioning, or use captioning software.
-
-**Create Subtitles or Closed Captions** will allow you to create your subtitles on YouTube.
-
-**Upload A File** allows you to upload a pre-made subtitle file from your computer. Supported file types include SubRip (.srt) and SubViewer (.sbv). You cannot use a word or PDF document for your subtitles.
-
-**Transcribe and Set Timings** is where you can type a transcript of your video and set timings to sync it to your video. This differs from Create Subtitles or Closed Captions in that your transcript is all typed in to one text field.
-
-**Use Automatic Captioning** will automatically use speech recognition technology to create captions. You can edit these auto-generated captions later if there are mistakes.
-
-**Use Captioning Software or Services** is what you choose if you want to use a program or service to create the subtitles for your video.
-
-The easiest way to add subtitles to your videos is to use **Automatic Captioning**. However, Automatic Captioning is imperfect and may result in your viewers getting a sloppy, skewed, interpretation of your video. Automatic captions are also not indexed by YouTube and Google the way subtitles you create or upload are. This means that they will not have any value to your SEO strategy. If you do not input your own captions or transcript you are missing out on an opportunity for better search engine rankings. Automatic Captions are great if you do not have time to input subtitles and need a temporary solution, though.
-
-![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
-
-Richard Bennett
-
-Richard Bennett is a writer and a lover of all things video.
-
-Follow @Richard Bennett
-
-
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-7571918770474297"
-     data-ad-slot="8358498916"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-free-video-embedding-for-dynamic-online-articles/"><u>[New] In 2024, Free Video Embedding for Dynamic Online Articles</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-gain-more-followers-masterful-youtube-marketing-techniques/"><u>[Updated] 2024 Approved  Gain More Followers  Masterful YouTube Marketing Techniques</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-from-passion-to-prominence-the-creators-quest-for-2024/"><u>[Updated] From Passion to Prominence  The Creator's Quest for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-crafting-captivating-edu-videos-essential-techniques-and-tips-for-youtube-success-for-2024/"><u>[New] Crafting Captivating Edu-Videos  Essential Techniques and Tips for YouTube Success for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-get-hooked-to-these-top-20-youtube-musical-havens/"><u>[New] 2024 Approved  Get Hooked to These Top 20 YouTube Musical Havens</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-8-free-online-video-editors-for-youtube-for-2024/"><u>[Updated] 8 Free Online Video Editors for YouTube for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-foremost-youtube-networks-for-news-enthusiasts/"><u>[Updated] 2024 Approved  Foremost YouTube Networks for News Enthusiasts</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-unleash-creativity-the-best-9-camera-accessories-for-vloggers-and-more/"><u>[Updated] Unleash Creativity  The Best 9 Camera Accessories for Vloggers and More</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-twitchs-stage-to-youtube-writers-guide-to-cross-platform-content/"><u>[New] In 2024, From Twitch's Stage to YouTube’ Writers Guide to Cross-Platform Content</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-discover-retro-your-path-to-facebook-archives/"><u>[New] In 2024, Discover Retro  Your Path to Facebook Archives</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-use-special-features-virtual-location-on-xiaomi-civi-3-disney-100th-anniversary-edition-drfone-by-drfone-virtual-android/"><u>How To Use Special Features - Virtual Location On Xiaomi Civi 3 Disney 100th Anniversary Edition? | Dr.fone</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/unlock-free-images-for-business-top-resources-revealed-for-2024/"><u>Unlock Free Images for Business Top Resources Revealed for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-how-to-elevate-your-youtube-videos-popularity-through-persistent-cc-licensing/"><u>[Updated] How to Elevate Your YouTube Video's Popularity Through Persistent CC Licensing</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-remove-phone-number-from-your-apple-id-from-your-iphone-13-pro-by-drfone-ios/"><u>How To Remove Phone Number From Your Apple ID from Your iPhone 13 Pro?</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/top-5-best-free-avi-video-rotators-for-2024/"><u>Top 5 Best Free AVI Video Rotators for 2024</u></a></li>
+<li><a href="https://review-topics.techidaily.com/possible-ways-to-recover-deleted-files-from-motorola-edge-40-by-fonelab-android-recover-data/"><u>Possible ways to recover deleted files from Motorola Edge 40</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-vivo-v27-pro-location-without-installing-software-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Vivo V27 Pro Location without Installing Software? | Dr.fone</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-elevating-your-instagram-highlights-with-exquisite-photography/"><u>[New] Elevating Your Instagram Highlights with Exquisite Photography</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/updated-beginning-your-blog-journey-for-financial-gain/"><u>[Updated] Beginning Your Blog Journey for Financial Gain</u></a></li>
+</ul></div>

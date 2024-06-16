@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  From Watch List to Download  YouTube Playlist in Minutes\""
-date: 2024-06-03 22:22:17
-updated: 2024-06-06 12:11:28
+date: 2024-06-06T14:27:06.449Z
+updated: 2024-06-07T14:27:06.449Z
 tags:
   - ai video
   - ai youtube
@@ -130,92 +130,23 @@ Follow @Richard Bennett
 
 ![](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
-##### Richard Bennett
-
- Oct 26, 2023• Proven solutions
-
-[0](#commentsBoxSeoTemplate)
-
-If you’re a musician who wants the world to hear your music, getting your music on YouTube is a must! By uploading your work onto the world’s most popular video platform, you talent has the potential to reach millions of listeners. Here are fifteen YouTube video ideas you can use to share your music.
-
-## Polish Your YouTube Music Videos with Filmora
-
-[Filmora](https://tools.techidaily.com/wondershare/filmora/download/) features plentiful video and audio editing tools, which allows you to cut out unwanted clips, [remove the background noise](https://tools.techidaily.com/wondershare/filmora/download/), change the video and audio speed. The tutorial below shows you [how to create a split-screen video with fun](https://tools.techidaily.com/wondershare/filmora/download/) with the split-screen presets in Filmora.
-
-[![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
-
-#### 1. Live Performance
-
-Raw talent that is unedited and uncut can make a huge impact on your audience. In the above video, William Singe and Alex Aiono perform a live mashup from beginning to end without stopping. This kind of all-in-one-take performance is even more impressive when it is flawless. If you’ve got what it takes to perform your music from beginning to end without stopping, try recording yourself doing a live performance.
-
-#### 2. Cover A Classic Song
-
-Although you might gain a lot of views in the short-run by covering a popular song that is currently in the top charts, you may find that your views will drop significantly in a few years when the song loses its relevance in pop culture. On the other hand, classic songs are timeless and performing them may even pleasantly evoke nostalgia to many listeners. In the video above, Daniela Andrade and HanByul Kang beautifully cover the 1934 jazz classic “Stars Fell on Alabama.” Do you have any favorite old classics?
-
-#### 3. Cover a Popular Song With Your Own Lyrics
-
-As mentioned above, covering a popular song that is currently in the top charts can bring in a lot of views. But since many people do just straight covers of songs, you’ll find yourself competing for views against many other musicians if you do the same. Creatively rewriting the lyrics of the song you choose to cover is one way you can set your cover apart from all the others out there. In the above video, the performer creatively sings a cover of MAGIC!’s “Rude” from the perspective of the father in the song.
-
-#### 4. Cover a Popular Song In a Different Genre
-
-Another way to set your cover apart from all the other many covers out there is to change up the genre. Whether or not everyone likes the genre you choose, it’s still undoubtedly interesting to hear a familiar song in such a different way. Postmodern Jukebox transforms a lot of current songs into old genres of music. Check out their jazzy version of Meghan Trainor’s “All About That Bass.”
-
-#### 5. Show Your Musical Adaptability Through Many Genres
-
-Professional musicians mostly adhere to fewer genres of music so that they don’t leave their listeners confused about who they are as a musician. This, at times, can get quite predictable and boring. Switching between multiple genres can be refreshingly interesting, especially if it’s many genres in one video. Rapper Mac Lethal explores 27 styles of rap in the above video.
-
-#### 6. Cover a Popular Song With a Musical Instrument (Or With Several If You Know How To Play More Than One)
-
-If you cover a popular song with a musical instrument, you not only have the potential to gain many views from people searching up your song, but you also have the potential to gain many views from people searching up your instrument. In the above video, Lily Liu performs “See You Again” on her Zither/Guzheng.
-
-#### 7. Play Your Musical Instrument In a Unique Way
-
-In much of the same way that performing a familiar song in a different genre can be refreshingly interesting, playing a familiar musical instrument in a different way can have the same effect. The above video is a YouTube classic video featuring Greg Pattillo playing his flute while simultaneously beatboxing.
-
-#### 8. Cover a Popular Song Using Odd (Non-Musical) Objects
-
-Since music is a combination of notes, you can practically create music out of anything that has a pitch, which is everything that makes a sound. With the power of editing and pitch manipulation, you can create fascinating instrumental covers like Andrew Huang’s 99 Red Balloons.
-
-#### 9. Transform Non-Melodic Speech Into Music
-
-There’s a lot you can do with music creation when you have access to software pitch manipulation. One of those things you can do is transform non-melodic speech into music. In the above video, many different clips of Donald Trump have been edited together to recreate Camila Cabello’s hit song “Havana.”
-
-#### 10. Produce a Remix
-
-Most of the ideas we mention in this list have to do with taking something already existing and transforming it into something new. Similarly, a remix is a transformative musical piece. But rather than performing your music in a different and interesting way, remixing involves producing digital music using music production software. In the above video, C2C remixes Stevie Wonder’s “Superstition.”
-
-#### 11. Produce a Mashup
-
-Unlike a medley where you perform one song and then move onto the next in a sequential manner, in a mashup you blend parts and fragments of songs together in a non-sequential manner, oftentimes overlapping parts that belong to different songs (vocals from one song over the instrumental of another song). In order to do this in a way that ends up not sounding like a jumbled mess, you need to make sure all the parts you’re mixing together are not only in the same tempo, but also in the same key. My mashups have been shared all over the world.
-
-#### 12. Make An Acapella Arrangement
-
-Most songs on the radio have all kinds of different sounds going on that it can be difficult to just appreciate and enjoy the sound of the human voice. Acapella arrangements, on the other hand, attempt to recreate music with just the voice. Your own voice is a musical instrument that you can use in so many different ways to make all kinds of unique sounds. Mike Tompkins is someone who has made his mark on YouTube as an acapella musician.
-
-#### 13. Impersonate Celebrities
-
-If you’re a musician who also happens to be good at doing impersonations of celebrities, recording yourself performing a song in different voices that others are familiar with can be a huge hit. In the above video, Yanina Chiesa performs a medley of songs featuring 15 different celebrity singers.
-
-#### 14. Music Tutorial
-
-YouTube is the go-to place for many people who want to learn how to do something, including music. In the above video, Anna-Maria Hefele explains how polyphonic overtone singing works.
-
-#### 15. Make A Song So Bad, It Just Might Go Viral
-
-Making music that’s so bad that it goes viral is not as easy as you might think. When it comes to bad quality material, there’s probably more of those on YouTube than there is good quality material. Your music will have to be extra bad in order to stand out among the competition. Rebecca Black's “Friday” is a notable example of this last YouTube video idea.
-
-![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
-
-Richard Bennett
-
-Richard Bennett is a writer and a lover of all things video.
-
-Follow @Richard Bennett
-
-
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-7571918770474297"
-     data-ad-slot="8358498916"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-free-editing-powerhouses-top-9-simplified-video-tools/"><u>[New] 2024 Approved  Free Editing Powerhouses  Top 9 Simplified Video Tools</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-start-your-affordable-webinar-journey-with-youtube/"><u>[Updated] Start Your Affordable Webinar Journey with YouTube</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-trim-perfect-clearing-thin-lines-on-youtube/"><u>[Updated] Trim Perfect  Clearing Thin Lines on YouTube</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-an-in-depth-look-at-video-apps-for-iphone-and-android-users-for-2024/"><u>[Updated] An In-Depth Look at Video Apps for iPhone & Android Users for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-how-to-craft-standout-videos-mastery-of-youtube-thumbnail-dimensions-for-2024/"><u>[New] How to Craft Standout Videos  Mastery of YouTube Thumbnail Dimensions for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-fusing-genres-a-youtube-music-strategy/"><u>[New] 2024 Approved  Fusing Genres  A YouTube Music Strategy</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-film-fanatics-dream-the-ultimate-list-of-free-movies-streaming-on-youtube-for-2024/"><u>[Updated] Film Fanatics' Dream – The Ultimate List of Free Movies Streaming on YouTube for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-finding-the-balance-adding-videos-to-text-on-a-budget/"><u>[Updated] In 2024, Finding the Balance  Adding Videos to Text on a Budget</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-unlocking-your-potential-for-higher-instagram-video-visibility-for-2024/"><u>[New] Unlocking Your Potential for Higher Instagram Video Visibility for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/flashcapture-critique-plus-backup-software/"><u>FlashCapture Critique + Backup Software</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-vivo-y100a-phone-with-broken-screen-by-drfone-android/"><u>How to Unlock Vivo Y100A Phone with Broken Screen</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-youtube-video-trapping-best-practices-explored/"><u>2024 Approved  YouTube Video Trapping  Best Practices Explored</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-live-your-dreams-insights-into-the-panasonic-hx-a1-cam/"><u>[New] Live Your Dreams  Insights Into the Panasonic HX-A1 Cam</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-primewave-riders-most-fancied-and-binge-watched-originals-on-twitter-for-2024/"><u>[New] PrimeWave Riders  Most Fancied & Binge-Watched Originals on Twitter for 2024</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/what-pokemon-evolve-with-a-dawn-stone-for-realme-narzo-n55-drfone-by-drfone-virtual-android/"><u>What Pokémon Evolve with A Dawn Stone For Realme Narzo N55? | Dr.fone</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/final-cut-pro-aspect-ratio-tutorial-a-step-by-step-guide-for-2024/"><u>Final Cut Pro Aspect Ratio Tutorial A Step-by-Step Guide for 2024</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-why-your-whatsapp-location-is-not-updating-and-how-to-fix-on-motorola-moto-g34-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Why Your WhatsApp Location is Not Updating and How to Fix On Motorola Moto G34 5G | Dr.fone</u></a></li>
+</ul></div>

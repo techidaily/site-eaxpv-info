@@ -1,7 +1,7 @@
 ---
 title: "\"[New] In 2024, Gear Up Yourself  Selecting Prime Lenses for Successful Vlogging\""
-date: 2024-06-03 11:19:14
-updated: 2024-06-06 10:56:44
+date: 2024-06-06T16:26:47.527Z
+updated: 2024-06-07T16:26:47.527Z
 tags:
   - ai video
   - ai youtube
@@ -11,7 +11,7 @@ categories:
 description: "\"This Article Describes [New] In 2024, Gear Up Yourself: Selecting Prime Lenses for Successful Vlogging\""
 excerpt: "\"This Article Describes [New] In 2024, Gear Up Yourself: Selecting Prime Lenses for Successful Vlogging\""
 keywords: "Prime Lens Selection,Top Vlogging Lenses,Essential Vlog Gear,Successful Vlogging,Prime Camera Lenses,Professional Vlogger Equipment,Quality Vlog Cameras"
-thumbnail: https://www.lifewire.com/thmb/PS-19CkMFLFse0EjPIWu03Pcq6c=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/search-engine-351ff5faf905482b83bed0702b6f8976.png
+thumbnail: https://thmb.techidaily.com/db39cf974b891a971b269fa1b5c545ac5598c4412d012bd826ff7f5dff9de440.png
 ---
 
 ## Gear Up Yourself: Selecting Prime Lenses for Successful Vlogging
@@ -162,68 +162,25 @@ Follow @Richard Bennett
 
 ![](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
-##### Richard Bennett
-
- Nov 01, 2022• Proven solutions
-
-[0](#commentsBoxSeoTemplate)
-
-There are a lot of ways you can make money by posting makeup, beauty, or fashion videos on YouTube. These are all industries that understand the value of quality social media content.
-
- In the video above, [beauty YouTuber](https://tools.techidaily.com/wondershare/filmora/download/) Gena M explains all the ways there are to make money posting makeup and fashion videos on YouTube. Gena’s most important piece of advice for other beauty vloggers is, to be honest. There is nothing wrong with making money from affiliates or sponsors, so long as you only associate with and recommend products you would actually buy.
-
-Here’s more advice on how you can make money from your makeup videos:
-
-## Sponsorships
-
-If you are truly passionate about makeup or fashion then you probably have a few favorite brands. Even if you have never really thought about a brand as your favorite, chances are you purchase one or two types of lip gloss – or any other product – over others on a regular basis.
-
-Wouldn’t it be nice if a company whose product you already love and use in your videos would start paying you just to mention them?
-
-There are sites called influencer marketing platforms – the most popular one is FameBit – where you can find brands that are looking for creators just like you to work with them on marketing campaigns. Brands post what they are looking for, and you send them proposals for what kinds of videos you want to make for them.
-
-Sometimes, creating branded content can be as easy as drawing attention to the brand of the eyeliner you use in a few of your tutorials.
-
-Other times, brands may want you to say specific things or include logos in your videos.
-
-Make sure to incorporate any brand messages or product placement you agree to do in ways that will feel natural to your viewers. You should let them know that you have a sponsor, and then incorporate the branded content in ways that do not take away from their enjoyment of your videos.
-
-## Ad Revenue
-
-Monetizing your videos and earning ad revenue is one of the primary ways beauty vloggers, and all other YouTubers, make money. It takes a long time to earn more than the pocket change from ads, but so long as you keep growing your audience your revenue will keep going up.
-
-Pay attention to the estimated revenue reports to see which of your videos are earning the most money from ads (they won’t always be your most popular videos). By making more videos on similar topics you will be able to make more money.
-
-## Affiliate Links
-
-By becoming an Amazon affiliate, or joining the affiliate program of another online store, you can make money by including links to products in the descriptions of your video or in your related blog posts.
-
-For example, if you talk about your new curling iron in a hair tutorial then you can include a special link to it on Amazon. If any of your viewers follow that link and buy it, you earn a percentage of the purchase.
-
-Even better – if that person keeps shopping, or even skips the curling iron and buys something else, you earn a percentage of any purchase they make on Amazon for a certain period of time.
-
-Affiliate links are mostly used by bloggers, not YouTubers, but you can still include them in the descriptions of your videos (not YouTube Cards or annotations though). It is not a bad idea for you to create blog posts to accompany your videos and post your affiliate links. Blogs are a great way to generate traffic to your videos.
-
-## Gifts
-
-Sometimes companies might just give you stuff.
-
-As your following gets bigger, brands might start sending you samples of their products in the hopes that you will fall in love with them and mention, review, or use them in your videos. This is not the same as a sponsorship because the brand is not paying you for a specific kind of message.
-
-Receiving these kinds of gifts is not the same as getting paid, but it can certainly save you money on makeup.
-
-![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
-
-Richard Bennett
-
-Richard Bennett is a writer and a lover of all things video.
-
-Follow @Richard Bennett
-
-
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-7571918770474297"
-     data-ad-slot="8358498916"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-fiscal-landmarks-understanding-mr-beasts-financial-growth/"><u>[Updated] In 2024, Fiscal Landmarks  Understanding Mr. Beast’s Financial Growth</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-transferring-youtube-shorts-from-pcandroid-or-ios/"><u>[Updated] 2024 Approved  How-To  Transferring YouTube Shorts From PC/Android or iOS</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-idea-to-impact-top-8-online-courses-for-new-creators/"><u>[Updated] In 2024, From Idea to Impact  Top 8 Online Courses for New Creators</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-the-essential-guide-to-youtube-edits-with-premiere-pro/"><u>[New] The Essential Guide to YouTube Edits with Premiere Pro</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-boost-your-youtube-revenue-from-mobile-a-comprehensive-guide/"><u>[Updated] In 2024, How to Boost Your YouTube Revenue From Mobile - A Comprehensive Guide</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-empty-screens-to-thriving-content-why-no-one-watched-your-video/"><u>[New] In 2024, From Empty Screens to Thriving Content  Why No One Watched Your Video</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-gain-command-over-youtubes-video-playback-speed-for-2024/"><u>[Updated] Gain Command Over YouTube's Video Playback Speed for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-from-barely-seen-to-highly-engaged-the-journey-of-youtube-short-success-for-2024/"><u>[New] From Barely Seen to Highly Engaged  The Journey of YouTube Short Success for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-digital-domination-rise-from-thousands-to-a-million-on-youtube/"><u>[Updated] 2024 Approved  Digital Domination  Rise From Thousands to a Million on YouTube</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-pixel-perfect-windows-recorder-free/"><u>In 2024, Pixel Perfect Windows Recorder, Free</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-the-final-act-of-severing-tiktok-ties-temporarily-for-2024/"><u>[Updated] The Final Act of Severing TikTok Ties Temporarily for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-become-a-meme-wizard-with-these-9gag-strategies/"><u>[Updated] Become a Meme Wizard with These 9GAG Strategies</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-top-15-augmented-reality-games-like-pokemon-go-to-play-on-nokia-c32-drfone-by-drfone-virtual-android/"><u>In 2024, Top 15 Augmented Reality Games Like Pokémon GO To Play On Nokia C32 | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-mastering-podcasts-the-comprehensive-iphone-download-method/"><u>2024 Approved  Mastering Podcasts  The Comprehensive iPhone Download Method</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-i-transferred-messages-from-motorola-moto-g14-to-iphone-12xs-max-in-seconds-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How I Transferred Messages from Motorola Moto G14 to iPhone 12/XS (Max) in Seconds | Dr.fone</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/acoustic-enhancement-strategies-cutting-down-background-noise-in-audio-recordings-both-offline-and-online-for-2024/"><u>Acoustic Enhancement Strategies Cutting Down Background Noise in Audio Recordings, Both Offline & Online for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-free-windows-software-perfect-tv-recording-techniques-for-2024/"><u>[New] Free Windows Software  Perfect TV Recording Techniques for 2024</u></a></li>
+<li><a href="https://techidaily.com/what-you-need-to-know-to-improve-your-poco-c65-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>What You Need To Know To Improve Your Poco C65 Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-superior-skills-for-video-preservation-devices/"><u>[New] In 2024, Superior Skills for Video Preservation Devices</u></a></li>
+</ul></div>

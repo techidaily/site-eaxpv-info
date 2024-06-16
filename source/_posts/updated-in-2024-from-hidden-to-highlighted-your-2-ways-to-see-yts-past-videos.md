@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] In 2024, From Hidden to Highlighted  Your 2 Ways to See YT's Past Videos\""
-date: 2024-06-04 20:41:28
-updated: 2024-06-06 10:44:27
+date: 2024-06-06T15:40:34.789Z
+updated: 2024-06-07T15:40:34.789Z
 tags:
   - ai video
   - ai youtube
@@ -11,7 +11,7 @@ categories:
 description: "\"This Article Describes [Updated] In 2024, From Hidden to Highlighted: Your 2 Ways to See YT's Past Videos\""
 excerpt: "\"This Article Describes [Updated] In 2024, From Hidden to Highlighted: Your 2 Ways to See YT's Past Videos\""
 keywords: "YouTube History Viewing,Watching Old YouTube Videos,YouTube Video Archive Access,Past YouTube Content Exploration,Hidden YouTube Archives,Revisit YT Previous Videos,Retrieve Deleted YouTube Videos"
-thumbnail: https://www.lifewire.com/thmb/FFBWrSKUv10PDo1VV6r976n9RLQ=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/linksys-default-password-list-2619153-5fccecc7c0b04133b2202a1fa9e8d37a.png
+thumbnail: https://thmb.techidaily.com/75e496d7d03af882c809a7273c9e1eb1d9baeae9a3a5a4a6ed566b778061c9ff.png
 ---
 
 ## From Hidden to Highlighted: Your 2 Ways to See YT's Past Videos
@@ -150,93 +150,26 @@ Follow @Richard Bennett
 
 ![](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
-##### Richard Bennett
-
- Oct 26, 2023• Proven solutions
-
-[0](#commentsBoxSeoTemplate)
-
-When it comes to sensitivity to light, no consumer-level camera sensor comes close in performance to the human eye. Many newbies to videography, though, don’t think about this when they use their camera indoors and discover that their recorded footage appears too dark.
-
-If you want to use your camera indoors as many YouTubers do, you’ll need to have extra light. But the solution is not as simple as surrounding yourself with lamps that are all randomly placed.
-
-Below, I’ll go into detail on how you can set up your lighting equipment to make your YouTube videos look good.
-
-| Table of Contents [Using Light You Already Have](#USING-LIGHT-YOU-ALREADY-HAVE) [Window Lighting](#Window-Lighting)[Home Lighting](#Home-Lighting) [Home Studio Lighting](#HOME-STUDIO-LIGHTING) [Light Control](#Light-Control)[3-Point Lighting](#Three-Point-Lighting)[4-Point Lighting](#four-point-lighting) |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-
-## Part 1: Using Light You Already Have
-
-Most beginner YouTubers light their videos with what they already have. That’s what I did to start as well. In the past, my video recording space consisted of natural sunlight coming from my window and ceiling light for times when the sunlight wasn’t strong enough.
-
-### 1.  Window Lighting
-
-The best thing about window lighting is that it’s free. The worst thing about it is that it’s uncontrollable. The amount of light you get in your video can vary with all the changes in the weather.
-
-Window lighting for me was especially difficult to work with because I live in a very rainy and cloudy city, Vancouver, Canada, where we pretty much just get three months of good sun.
-
-![  YouTube Video Lighting ](https://images.wondershare.com/filmora/article-images/window-lighting-comparison.jpg)
-
-Above are two freeze frames from one of Daniel's past window-lit vlogs. Although these two frames are both from the same vlog, you can see that the image on the right looks brighter due to clearer skies at that moment. These varying amounts of light is what you will have to deal with if you choose to light your YouTube video with window lighting.
-
-### 2. Home Lighting
-
-Home lighting is another source of light that many new YouTubers use. In the past, when my window light wasn’t strong enough to light my video recording space, I would turn on the ceiling light.
-
-![Mixed Lighting](https://images.wondershare.com/filmora/article-images/home-lighting-for-youtube-videos.jpg)
-
-Notice how the color of Daniel's skin looks much more orange here (above) than the color of the skin in the two side-by-side window lighting examples? The side of the face also appears to look bluer. This all happened because he mixed up different color temperatures shining out of the two lights (cooler window light and warmer ceiling light).
-
-Most home lighting is warmer in its color temperature. If you want to use your home lights without everything being orange-tinted, you’ll need to switch out your light bulbs for daytime LED light bulbs.
-
-Ceiling lights are also typically situated in the center of a room in order to light an entire room evenly. This is not likely to be the best location for your filming video. Since the ceiling light was directly above the face in the above example, you can see harder shadows beneath his cheeks.
-
-## Part 2: Home Studio Lighting
-
-If you rather not deal with all the window and home lighting challenges, you can set up studio lighting in your home.
-
-### 1. Light Control
-
-The first thing you’ll want to do to set up studio lighting in your home is to pick a room to film in and eliminate as much external lighting as you can. Use blinds, curtains, towels, or any thick fabric to block sunlight from shining into your room.
-
-### 2. 3-Point Lighting
-
-The most common setup for studio lighting is 3-point lighting. For this kind of lighting you’ll need three lights: a key light, a fill light, and a back light (also called a hair light).
-
-![3-Point Lighting](https://images.wondershare.com/filmora/article-images/youtube-lighting-3-point-lighting.jpg)
-
-Out of the three lights, the key light should be the brightest. When it is positioned to the left of you (as shown in the diagram above) your right side will have shadows.
-
-To minimize the shadows on your right side, use a weaker light as a fill light. You don’t want your fill light to completely eliminate all your shadows or else your shot will look flat.
-
-Lastly, a backlight positioned behind you can give an appealing highlight to the ends of your head and even help to separate your hair from blending into your background if both happen to be dark.
-
-### 3. 4-Point Lighting
-
-As a YouTuber, you may not only want yourself to be seen optimally with proper lighting, but you may also want your background to be seen optimally, especially if you’ve taken the time to decorate it for your audience.
-
-What you’ll need to ensure that your background is sufficiently lit is 4-point lighting setup. The 4-point lighting setup is the same as a 3-point lighting setup, but with an additional light shining at your background.
-
-For more information on lighting equipment, check out my [Top 17 Video Lighting Equipment For YouTubers](https://www.filmora.io/community-blog/top-17-video-lighting-equipment-for-youtubers-440.html).
-
-### Touch Up YouTube Videos with Filmora
-
-[Filmora](https://tools.techidaily.com/wondershare/filmora/download/) is one of the best video editing software for YouTube beginners to start the YouTube channel. So, if you find the lighting isn't perfect after recording, you can use the Auto Color Enhancement feature in Filmora to adjust the color with one-click. Or, you can change the white balance, Light, color, and HSL manually. Filmora also features some presets and [LUTs templates](https://tools.techidaily.com/wondershare/filmora/download/), which allows you to apply pre-programmed effects to video for color correction faster.
-
-[![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
-
-![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
-
-Richard Bennett
-
-Richard Bennett is a writer and a lover of all things video.
-
-Follow @Richard Bennett
-
-
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-7571918770474297"
-     data-ad-slot="8358498916"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-harness-the-power-of-youtube-studio-for-ultimate-edits/"><u>[Updated] In 2024, Harness the Power of YouTube Studio for Ultimate Edits</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-convert-youtube-to-igtv-videos-3-ways-for-2024/"><u>[Updated] How to Convert YouTube to IGTV Videos? [3 Ways] for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-unique-conversation-starters-for-streaming/"><u>[Updated] Unique Conversation Starters for Streaming</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-much-does-youtube-pay-for-1-million-views/"><u>[New] 2024 Approved  How Much Does YouTube Pay for 1 Million Views?</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-from-chaos-to-order-youtube-playlists-unveiled-for-2024/"><u>[Updated] From Chaos to Order  YouTube Playlists Unveiled for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-frosty-ambiance-cozy-cinematics-best-bgs-ideas-for-2024/"><u>[Updated] Frosty Ambiance, Cozy Cinematics  Best Bgs Ideas for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-idea-to-execution-creating-youtube-trailers-in-filmora/"><u>[Updated] In 2024, From Idea to Execution  Creating YouTube Trailers in Filmora</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-find-hotspots-for-online-video-dialogue/"><u>[Updated] In 2024, Find Hotspots for Online Video Dialogue</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-gaming-channel-evolution-best-14-video-ideas-on-youtube-for-2024/"><u>[New] Gaming Channel Evolution  Best 14 Video Ideas on YouTube for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-convert-youtube-videos-seamlessly-into-avi/"><u>[New] In 2024, How to Convert YouTube Videos Seamlessly Into AVI</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/from-creation-to-apple-your-podcasts-journey-for-2024/"><u>From Creation to Apple  Your Podcast's Journey for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-the-complete-playbook-for-instagram-revenue-generation/"><u>[New] The Complete Playbook for Instagram Revenue Generation</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/mastery-of-live-sharing-youtube-edition/"><u>Mastery of Live Sharing  YouTube Edition</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-contacts-files-from-samsung-galaxy-f34-5g-by-fonelab-android-recover-contacts/"><u>How To  Restore Missing Contacts Files from Samsung Galaxy F34 5G.</u></a></li>
+<li><a href="https://animation-videos.techidaily.com/new-2024-approved-how-to-send-and-add-snapchat-gifs-100-the-easy-way/"><u>New 2024 Approved How to Send and Add Snapchat GIFs 100 The Easy Way</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-backtrack-innovation-box/"><u>2024 Approved  Backtrack Innovation Box</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/pro-game-documentation-capturing-roblox-experiences-with-a-mac-in-focus/"><u>Pro Game Documentation  Capturing Roblox Experiences with a Mac in Focus</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-the-quick-content-crusade-youtubes-shortform-versus-tiktoks-trendsetting/"><u>In 2024, The Quick Content Crusade  YouTube's Shortform Versus TikTok’s Trendsetting</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/new-designing-your-perfect-tiktok-end-screen-for-2024/"><u>[New] Designing Your Perfect TikTok End Screen for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-2024-approved-exclusive-couples-spaces-on-discord-platform/"><u>[New] 2024 Approved  Exclusive Couple's Spaces on Discord Platform</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: "[New] How to Upload YouTube Shorts Video From Computer and Mobile for 2024"
-date: 2024-06-04 15:13:23
-updated: 2024-06-07 10:10:22
+date: 2024-06-06T15:02:18.750Z
+updated: 2024-06-07T15:02:18.750Z
 tags:
   - ai video
   - ai youtube
@@ -11,7 +11,7 @@ categories:
 description: "This Article Describes [New] How to Upload YouTube Shorts Video From Computer and Mobile for 2024"
 excerpt: "This Article Describes [New] How to Upload YouTube Shorts Video From Computer and Mobile for 2024"
 keywords: "\"YouTuber's Guide to Shorts Videos,Upload Shorts: PC/Mobile Tips,Creating YouTube Shorts Easily,Share Shorts From Computer,Mobile Video Uploads for Shorts,How to Post YouTube Shorts,Directly Upload Shorts Content\""
-thumbnail: https://www.lifewire.com/thmb/6JkPT4dEHwpn6oTv-PezQuUw_Ms=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/carpower-56fee3423df78c7d9e441d4f.jpg
+thumbnail: https://thmb.techidaily.com/4f902a43927aa6bf193e9d8b7e9fe3404a519e31c80aea16a8f7ebda50148e4a.jpg
 ---
 
 ## How to Upload YouTube Shorts Video From Computer and Mobile?
@@ -155,62 +155,26 @@ Follow @Richard Bennett
 
 ![](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
-##### Richard Bennett
-
- Nov 01, 2022• Proven solutions
-
-[0](#commentsBoxSeoTemplate)
-
-Do you like the animated elements in Wondershare Filmora? Do you want to learn how to make your own?
-
-A little while ago, we posted a list of YouTube channels where you could [get free green screen effects](https://tools.techidaily.com/wondershare/filmora/download/). All of these effects consisted of animations on green backgrounds. To use them, you pull the clip into the PIP track of your Filmora project and use the green screen feature to make the background transparent. It’s pretty easy.
-
-In this post, we’re going to kick things up a bit. Here is a list of places where you can get free lessons on creating your own animated video effects.
-
-**Animated Video Effect Courses:**
-
-[Mt. Mograph](#mtmograph)
-
-[Richard Harrington on Lynda](#lynda)
-
-[Bloop Animation](#bloop)
-
-[Video Copilot](#videocopilot)
-
- ![Video Animation](https://images.wondershare.com/filmora/article-images/animated-video-effects.png)
-
- All of these resources will teach Adobe After Effects, or a similar paid software. If you do not have access to Adobe After Effects, you might want to check out our post on [affordable animation software for video creators](https://www.filmora.io/community-blog/free-or-cheap-animation-software-for-video-creators-122.html).
-
-## **[Mt. Mograph](https://www.youtube.com/channel/UCSUSgx9qc%5FNydrOL59xbJIA)**
-
-On this YouTube channel, motion graphics specialist Matt offers free animation tutorials using a variety of programs including Adobe After Effects and Cinema 4D. His lessons are for a range of skill levels, from beginner to advanced. If you are just starting out then Mt.Mograph is a great resource.
-
-## **[Richard Harrington on Lynda](https://www.lynda.com/Rich-Harrington/120-1.html)**
-
-Lynda isn’t free, but the 10-day free trial period is definitely long enough for you to watch this two-hour course.
-
-What’s great about this course is that it assumes you have no animation experience, and it walks you through the main thing a lot of YouTubers want to learn animation for – creating an animated logo.
-
-## **[Bloop Animation](https://www.bloopanimation.com/)**
-
- Most of the video animation courses on this site are paid, but they have a lot of cool free tutorials as well. The focus is more on animating figures/cartoons than video effects, but if you have any interest in animation more generally then this is a great place to start learning. They even have a free ebook you can download which is targeted at beginners.
-
-## **[Video Copilot](http://www.videocopilot.net/)**
-
-This site has a huge number of free After Effects tutorials. There are basic introductory lessons, and really advanced classes on creating custom cinematic FX, like explosions. There’s even a playlist on title design, which will be useful for anyone looking to create an intro sequence for their videos.
-
-![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
-
-Richard Bennett
-
-Richard Bennett is a writer and a lover of all things video.
-
-Follow @Richard Bennett
-
-
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-7571918770474297"
-     data-ad-slot="8358498916"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-charting-a-course-essential-equipment-for-youtube-enthusiasts/"><u>[New] In 2024, Charting a Course  Essential Equipment for YouTube Enthusiasts</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-guidelines-to-erase-youtube-recordings-on-pc/"><u>[Updated] 2024 Approved  Guidelines to Erase YouTube Recordings on PC</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-zero-to-hero-your-first-time-streaming-to-youtube/"><u>[New] In 2024, From Zero to Hero  Your First Time Streaming to Youtube</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-game-masters-and-youtube-earning-strategies/"><u>[Updated] In 2024, Game Masters & YouTube Earning Strategies</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-finding-your-footprint-in-the-world-of-youtube-comments-for-2024/"><u>[Updated] Finding Your Footprint in the World of YouTube Comments for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-get-free-stock-footage-from-these-4-youtube-channels-for-2024/"><u>[New] Get Free Stock Footage From These 4 YouTube Channels for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-global-giga-viewers-worlds-favorite-youtube-stars/"><u>[New] In 2024, Global Giga-Viewers  World's Favorite YouTube Stars</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-securing-a-slot-in-youtube-finding-your-market/"><u>[Updated] Securing a Slot in YouTube  Finding Your Market</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-get-hooked-easy-ways-to-loop-any-youtube-video/"><u>[New] 2024 Approved  Get Hooked  Easy Ways to Loop Any YouTube Video</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-no-cash-to-youtube-wealth-unlocking-earnings-at-the-500-subs-level/"><u>[Updated] 2024 Approved  From No Cash to YouTube Wealth  Unlocking Earnings at the 500 Subs Level</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-commanding-the-screen-top-10-women-gamers-yt-for-2024/"><u>[New] Commanding the Screen  Top 10 Women Gamers YT for 2024</u></a></li>
+<li><a href="https://techidaily.com/how-to-update-apple-iphone-8-to-the-latest-iosipados-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Update Apple iPhone 8 to the Latest iOS/iPadOS Version? | Dr.fone</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-gif-galore-how-to-seamlessly-share-emojis-and-animations-on-instagram/"><u>2024 Approved  GIF Galore  How to Seamlessly Share Emojis & Animations on Instagram</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-cinematic-color-grading-and-editing-in-final-cut-pro-x-a-comprehensive-guide-for-2024/"><u>Updated Cinematic Color Grading and Editing in Final Cut Pro X A Comprehensive Guide for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-recognizing-unseen-snaps-on-social-network/"><u>[New] 2024 Approved  Recognizing Unseen Snaps on Social Network</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-record-video-with-logitech-webcam-guide/"><u>[Updated] 2024 Approved  Record Video with Logitech Webcam [Guide]</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-creating-professional-level-xbox-screen-recordings/"><u>[Updated] 2024 Approved  Creating Professional-Level Xbox Screen Recordings</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/quick-strategies-logging-lectures-in-ppt-for-2024/"><u>Quick Strategies  Logging Lectures in PPT for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/master-curves-transforming-photos-in-ps/"><u>Master Curves  Transforming Photos in PS</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-exclusive-mac-screen-snapper-free/"><u>[New] In 2024, Exclusive Mac Screen Snapper - Free</u></a></li>
+</ul></div>

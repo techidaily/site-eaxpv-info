@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  Figures Unveiled! Exploring YouTube's Curious Numbers (2017)\""
-date: 2024-06-04 10:41:58
-updated: 2024-06-06 10:10:53
+date: 2024-06-06T15:39:17.997Z
+updated: 2024-06-07T15:39:17.997Z
 tags:
   - ai video
   - ai youtube
@@ -11,7 +11,7 @@ categories:
 description: "\"This Article Describes [Updated] 2024 Approved: Figures Unveiled! Exploring YouTube's Curious Numbers (2017)\""
 excerpt: "\"This Article Describes [Updated] 2024 Approved: Figures Unveiled! Exploring YouTube's Curious Numbers (2017)\""
 keywords: "YouTube View Counts Analysis,Video Popularity Metrics,Content Engagement Figures,YouTube Data Insights,Curious Viewer Statistics,Charting YouTube Trends,Social Media Watch Numbers"
-thumbnail: https://www.lifewire.com/thmb/f7Llre5jK_RT1_RmnGWprGiKFwo=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/Byte-4de5ae614d4846359420990391e4ebb9.jpg
+thumbnail: https://thmb.techidaily.com/bedf5c8b53d1004ac14c8188bc2b10e8fa9f12bcacb4dbb73e923d456dfdfac8.jpg
 ---
 
 ## Figures Unveiled! Exploring YouTube's Curious Numbers (2017)
@@ -75,70 +75,23 @@ Follow @Richard Bennett
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
-##### Richard Bennett
-
- Mar 27, 2024• Proven solutions
-
-There are a lot of reasons why you might want to use footage recorded from the screen of your apple device in your YouTube videos. Some people like to make YouTube tutorials about iPhone or iPad apps, others like to share their gaming experiences, and some need to use footage taken from their devices for presentations. Even if you do not think these kinds of videos suit your vlog, screen recording is a useful tool to have on your belt. You never know when one of your subscribers is going to ask you about your favorite mobile games.
-
-Basically, there are three ways to record YouTube video on iPhone/iPad, including the built-in screen recorder (if you have [updated to iOS 11](https://support.apple.com/ios/update)), connecting iPhone to Mac and the last, some third party screen recorder. In this article, you will learn the three powerful methods one by one.
-
-* [**Part1: Recording your iPhone screen in iOS 11**](#part1)
-* [**Part2: Wired Using QuickTime on your Mac**](#part2)
-* [**Part3: Wirelessly Using AirPlay and Reflector**](#part3)
-
-**Note:** We resolutely oppose all forms of copyright-infringing downloads. This tutorial is only for downloading YouTube videos/audio materials from your own channel.
-
-## 1\. Recording your iPhone screen in [iOS 11](https://www.apple.com/lae/ios/ios-11/)
-
-You can find more information in this article: [How to Record iPhone/iPad’s Screen in iOS 11](https://tools.techidaily.com/wondershare/filmora/download/) \>>
-
-[![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
-
-## 2\. Wired Using QuickTime on your Mac
-
-If you have a Mac then you already have all the software you need.
-
-**Step 1**: Connect your tablet or smartphone to your computer using a USB port, and then open QuickTime on your Mac. In QuickTime select ‘File’ and ‘New Movie Recording’. A recording window will pop up.
-
-**Step 2**: In the recording window there will be a red ‘record’ button. Next to that button there will be an arrow. Click the arrow and a menu of recording options will appear. In the section where it says ‘Camera’ select your iPhone or iPad. In this menu you can also choose whether or not to record audio from your device, such sound effects from games.
-
-**Step 3**: Once you are finished in this menu click record to begin recording the screen of your device. Click ‘stop’ when you are finished recording.
-
-Although you can download a version of QuickTime for PC, the PC version does not have a screen recording option. If you have a PC you will need to use the second method.
-
-## 3\. Wirelessly Using AirPlay and Reflector(For Mac or PC!)
-
-If you either prefer to do things wirelessly or own a PC then you will need to use a slightly more round-about method. Rather than recording directly from your iPhone you will be mirroring your device’s interface onto your computer screen and then recording it there.
-
-**Step 1**: First, you will need to download a third party mirroring app. Reflector is the popular choice. You can download Reflector at [Airsquirrels.com](http://www.airsquirrels.com/).Next, you need to have Apple’s Airplay on your device. Make sure Reflector that your computer and device are connected to the same wifi network.
-
-**Step 2**: Open Reflector on your PC. Initially it will tell you there is no device connected.
-
-**Step 3**: Open AirPlay on your device and make sure mirroring is turned on. Your computer’s name will show up as a receiver option. Select it.
-
-**Step 4**: This will cause the display of your smartphone or tablet to pop up on your computer screen. Once your device is being mirrored on your computer, record your computer screen.
-
-You can record your Mac or PC screen using Filmora Video Editor. Using Filmora you can crop out and record only your iPhone display instead of your entire computer screen. You can download the latest version of Filmora Video Editor at Filmora.wondershare.com.
-
-If you have a Mac you can also record your computer screen in QuickTime following the same steps listed above, until it comes time to choose your camera. Then you record your desktop instead of your device. There are a few different screen recording programs you can download for PC.
-
-## Conclusion
-
-After reading the three ways to record YouTube on iPhone/iPad, I am sure you want to give it a try. If you have any questions, please let us know!
-
-![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
-
-Richard Bennett
-
-Richard Bennett is a writer and a lover of all things video.
-
-Follow @Richard Bennett
-
-
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-7571918770474297"
-     data-ad-slot="8358498916"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/updated-find-friends-in-fandoms-forums-for-2024/"><u>[Updated] Find Friends in Fandom's Forums for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-how-to-create-gifs-from-youtube-videos-for-2024/"><u>[New] How to Create GIFs From YouTube Videos for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-from-youtube-to-studio-quality-free-converters-for-wav-format-for-2024/"><u>[New] From YouTube to Studio Quality  Free Converters for WAV Format for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-highest-rated-smartphone-camera-and-recording-apps-iphone-vs-android-for-2024/"><u>[Updated] Highest Rated Smartphone Camera & Recording Apps  IPhone vs Android for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-raw-footage-to-final-cut-chroma-mastery/"><u>[New] 2024 Approved  From Raw Footage to Final Cut  Chroma Mastery</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-viewers-to-profits-an-authoritative-guide-on-youtube-revenue-and-popularity-analysis/"><u>[Updated] 2024 Approved  From Viewers to Profits  An Authoritative Guide on YouTube Revenue and Popularity Analysis</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-from-youtube-watch-parties-to-home-auditory-archives-for-2024/"><u>[New] From YouTube Watch Parties to Home Auditory Archives for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-make-video-thumbnails-for-youtube-for-2024/"><u>[Updated] How to Make Video Thumbnails for YouTube for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/terminate-discord-access-dual-devices/"><u>Terminate Discord Access - Dual Devices</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-in-2024-the-fcpx-fix-it-handbook-solving-common-problems/"><u>Updated In 2024, The FCPX Fix-It Handbook Solving Common Problems</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/explore-youtube-for-an-endless-stream-of-anime-pleasure-for-2024/"><u>Explore YouTube for an Endless Stream of Anime Pleasure for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-revel-in-the-best-virtual-playgrounds/"><u>[Updated] Revel in the Best Virtual Playgrounds</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/in-2024-how-to-share-youtube-video-on-zoom/"><u>In 2024, How to Share YouTube Video on Zoom?</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-mastering-zero-cost-online-seminars-youtube-edition/"><u>2024 Approved  Mastering Zero-Cost Online Seminars  YouTube Edition</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-5-tutorials-on-how-to-transfer-photos-from-apple-iphone-se-2020-to-new-iphone-drfone-by-drfone-transfer-from-ios/"><u>In 2024, 5 Tutorials on How to Transfer Photos From Apple iPhone SE (2020) to New iPhone | Dr.fone</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/new-2024-approved-navigating-audacity-setup-on-chrome-os-devices-for-beginners/"><u>New 2024 Approved Navigating Audacity Setup on Chrome OS Devices for Beginners</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/updated-editing-excellence-sports-videos-that-stand-out/"><u>[Updated] Editing Excellence  Sports Videos That Stand Out</u></a></li>
+</ul></div>

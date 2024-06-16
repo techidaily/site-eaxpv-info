@@ -1,7 +1,7 @@
 ---
 title: "[New] How to Use Google Trends to Come up with Video Ideas [Easy Guide] for 2024"
-date: 2024-06-04 16:10:31
-updated: 2024-06-07 12:51:41
+date: 2024-06-06T15:47:42.569Z
+updated: 2024-06-07T15:47:42.569Z
 tags:
   - ai video
   - ai youtube
@@ -11,7 +11,7 @@ categories:
 description: "This Article Describes [New] How to Use Google Trends to Come up with Video Ideas [Easy Guide] for 2024"
 excerpt: "This Article Describes [New] How to Use Google Trends to Come up with Video Ideas [Easy Guide] for 2024"
 keywords: "Google Trends Strategy,Video Idea Generation,Easy Trend Research,Content Planning Basics,Insights for Videos,Idea Sourcing Guide,Trends in Video Creation"
-thumbnail: https://www.lifewire.com/thmb/MuZMHmwhxFrWH7FmeTrY3OrTs0s=/180x120/filters:no_upscale():max_bytes(150000):strip_icc()/TechLeaders_GettyImages-1145150936_CROPPED2-ee3a30f68b494acf8196f46f29680b70.jpg
+thumbnail: https://thmb.techidaily.com/b30e132a57c74da538cd27310069cce3986f42cbd47e2bf72282d9f64808baa3.jpg
 ---
 
 ## How to Use Google Trends to Come up with Video Ideas [Easy Guide]
@@ -145,82 +145,25 @@ Follow @Richard Bennett
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
-##### Richard Bennett
-
- Mar 27, 2024• Proven solutions
-
-When you first started your vlog you likely looked for tips from well-established vloggers. Something that may have been surprising was the amount of equipment it takes to run a successful vlog. Besides your camera you need equipment for stabilizing it, for lighting your shots, and for recording better audio than your camera is capable of. If you still don't know which camera to use, this article will tell you the [best cameras for YouTube](https://tools.techidaily.com/wondershare/filmora/download/).
-
-Do not be overwhelmed! There are loads of affordable options for YouTube equipment. There are even some tricks you can use to get by without some pieces of equipment until you are ready to make the investment.
-
-Here are examples of some of the best YouTube equipment. Watch for the 'Free Option!' at the bottom of every section!
-
-#### 1\. Stabilizers for YouTube
-
-**Selfie Stick:** A lot of vloggers like to record from their phones, and selfie sticks make great stabilizers. You can put one end on the ground and use your selfie stick similarly to a monopod. Selfie sticks are also very affordable. The Cazbe Selfie Stick is only about $40\. If you want to be a bit more sophisticated about your smartphone video then you might consider the KumbaCam 3 Axis Smart Phone Stabilizer, which is described as a 'selfie stick on steroids'. It is a pricier option at $350.
-
-![youtube equipment](https://images.wondershare.com/filmora/article-images/youtube-equipment01.jpg)
-
-**Tripod:** A tripod is what most people think of when they think of stabilizing their cameras. Tripods come in different weights and sizes, and there are even tripods specifically for smartphones. There is a wide range of pricing for tripods. Mid-range is about $50.
-
-![youtube equipment](https://images.wondershare.com/filmora/article-images/youtube-equipment02.JPG)
-
-**Free Option! Any Available Surface:** Kitchen tables. Desks. Park benches. Trees. Your friend's shoulder, if you ask nicely. Anything you can rest your camera on top of can be used to record a steady video.
-
-#### 2\. Lighting for YouTube Videos
-
-**Softbox Lights:** These are the kinds of lights that were probably used to take your school photos. They create soft, diffused, light and can be fairly affordable. The LimoStudio 700W Photography Softbox Lighting Kit is $167, and that is about the average.
-
-![youtube equipment](https://images.wondershare.com/filmora/article-images/youtube-equipment03.jpg)
-
-**LED Panel Light:** LED panels produce high quality light. Prices vary. The Aputure Amaran AL-528S LED Video Light costs $358 (with stand). There are also LED panel lights which can be mounted onto your camera, like the Julius Studio NEW 160 LED 160 Dimmable Ultra High Power Panel Light which costs $111.
-
-![youtube equipment](https://images.wondershare.com/filmora/article-images/youtube-equipment04.jpg)
-
-**Free Option! The Sun:** Natural light is always powerful enough to make your videos look great. Consider recording outside, or near a window in your house.
-
-#### 3\. Audio Equipment for YouTube
-
-**Snoball:** A Blue Snoball USB mic is an extremely affordable option at $60, although it does not have good range. You have to stay close to your computer if you use a Snoball.
-
-![youtube equipment](https://images.wondershare.com/filmora/article-images/youtube-equipment05.JPG)
-
-**Shotgun:** You can get a shotgun mic to attach to your camera at a fairly decent price. The RØDE Video Shotgun Mic is only $140\. You will not be able to stray far from your camera as it works best when you are close to it.
-
-![youtube equipment](https://images.wondershare.com/filmora/article-images/youtube-equipment06.JPG)
-
-**MP3 Recorder:** A very high quality voice recorder is one way to record great audio and still be able to move freely. The Roland R-05 WAVE/MP3 Recorder is a great choice at $200.
-
-![youtube equipment](https://images.wondershare.com/filmora/article-images/youtube-equipment07.jpg)
-
- **LAV System:** A lavalier, or lapel, mic system is a lot of vloggers' favorite way to record dialogue because the mics are small and clip right on to your clothing. This is a more expensive option. The Sony LAV Wireless Mic System is $600.
-
-![youtube equipment](https://images.wondershare.com/filmora/article-images/youtube-equipment08.JPG)
-
- **Free Option! Audacity:**  Audacity is free audio recording/editing software that is popular with vloggers. If you do not have access to an external mic then you might be able to increase the quality of your sound recording using Audacity. You can download the latest version of Audacity for free from Audacityteam.org
-
-#### 4\. Editing Your YouTube Videos
-
-**[Filmora Video Editor:](https://tools.techidaily.com/wondershare/filmora/download/)** Filmora is a great program for beginners, but it is also powerful enough to satisfy more experienced vloggers. Filmora has both advanced tools like green screen or picture-in-picture, and a lot of fun features like filters, animated titles, and overlays.
-
-[![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
-
-**Adobe Premiere Pro:** Premiere is professional grade software that boasts an 'industry-leading video production toolset'. You can get Premiere Pro as part of the single-app Creative Cloud plan for $19.99 a month.
-
-**Free Option! [Filmora:](https://tools.techidaily.com/wondershare/filmora/download/)** Filmora's mobile app, Filmora, is available for free for a limited time for both Android and iPhone. It has a ton of features, and a really intuitive interface designed specifically for the mobile format.
-
-![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
-
-Richard Bennett
-
-Richard Bennett is a writer and a lover of all things video.
-
-Follow @Richard Bennett
-
-
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-7571918770474297"
-     data-ad-slot="8358498916"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-how-to-seamlessly-upload-videos-onto-youtubes-platform-for-2024/"><u>[New] How to Seamlessly Upload Videos Onto YouTube's Platform for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-how-can-you-make-outstanding-youtube-outro-in-2024/"><u>[Updated] How Can You Make Outstanding YouTube Outro, In 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-11-fitness-youtube-video-ideas-to-keep-you-and-your-viewers-moving/"><u>[New] In 2024, 11 Fitness YouTube Video Ideas to Keep You and Your Viewers Moving</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-insert-youtube-links-for-an-engaging-ppt-experience/"><u>[Updated] How to Insert YouTube Links for an Engaging PPT Experience</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-how-to-avoid-and-reverse-strikes-on-your-youtube-channel-for-2024/"><u>[New] How to Avoid and Reverse Strikes on Your YouTube Channel for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-stand-out-innovations-for-haul-video-creators/"><u>[New] 2024 Approved  How to Stand Out  Innovations for Haul Video Creators</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-from-global-reach-to-engagement-deciphering-igtv-and-youtubes-strategies-for-2024/"><u>[Updated] From Global Reach to Engagement  Deciphering IGTV & YouTube’s Strategies for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-growth-hackers-guide-the-ultimate-list-of-top-strategies-to-retain-youtube-viewers-for-2024/"><u>[New] Growth Hackers Guide  The Ultimate List of Top Strategies to Retain YouTube Viewers for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-gain-more-views-beginners-guide-to-youtube-seo/"><u>[New] 2024 Approved  Gain More Views  Beginner’s Guide to YouTube SEO</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/explore-and-expand-top-7-services-turning-your-digital-creations-into-crypto-assets/"><u>Explore and Expand  Top 7 Services Turning Your Digital Creations Into Crypto Assets</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-2024-approved-time-bending-brilliance-the-ultimate-slow-motion-video-makers/"><u>New 2024 Approved Time Bending Brilliance The Ultimate Slow Motion Video Makers</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/updated-chilly-ambiance-ideal-winter-bgs-for-videos/"><u>[Updated] Chilly Ambiance  Ideal Winter BGs for Videos</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-11-tips-to-make-product-ad-videos-for-2024/"><u>New 11 Tips to Make Product Ad Videos for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-in-2024-smallscreen-capture-critique-plus-options/"><u>[New] In 2024, SmallScreen Capture Critique + Options</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-use-snapchat-location-spoofer-to-protect-your-privacy-on-realme-v30-drfone-by-drfone-virtual-android/"><u>How to use Snapchat Location Spoofer to Protect Your Privacy On Realme V30? | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/pushing-boundaries-with-vr-choosing-your-ultimate-game-platform/"><u>Pushing Boundaries with VR  Choosing Your Ultimate Game Platform</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-flawless-frame-capturer-kit-for-2024/"><u>[Updated] Flawless Frame Capturer Kit for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-easy-recording-studio-for-win10-desktops/"><u>2024 Approved  Easy Recording Studio for Win10 Desktops</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/updated-live-chat-with-woocommerce-leading-into-the-live-selling-world-for-2024/"><u>Updated Live Chat With WooCommerce Leading Into the Live Selling World for 2024</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Filmmaking Made Simple  Crafting an Impactful YouTube Subscribe Button for 2024\""
-date: 2024-06-03 16:27:38
-updated: 2024-06-06 10:58:28
+date: 2024-06-06T15:02:32.369Z
+updated: 2024-06-07T15:02:32.369Z
 tags:
   - ai video
   - ai youtube
@@ -11,7 +11,7 @@ categories:
 description: "\"This Article Describes [Updated] Filmmaking Made Simple: Crafting an Impactful YouTube Subscribe Button for 2024\""
 excerpt: "\"This Article Describes [Updated] Filmmaking Made Simple: Crafting an Impactful YouTube Subscribe Button for 2024\""
 keywords: "\"Video Production Basics,Create Engaging Buttons,Subscription Promotion,Effective Video Marketing,Simple Filmmaking Tips,YouTube Button Design,Impactful Call-to-Action\""
-thumbnail: https://www.lifewire.com/thmb/mo3PVltV9cij2dihrE4RjLuVh3k=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/how-to-tell-how-old-your-computer-is-5212230-6-5689d0e2960347bdb8ef419191d713f2.jpg
+thumbnail: https://thmb.techidaily.com/3f0dd2ba23afb65e6bd0d3f90edabc5ca5d9604be85f232f57f9da3d1c3125e2.jpg
 ---
 
 ## Filmmaking Made Simple: Crafting an Impactful YouTube Subscribe Button
@@ -101,85 +101,26 @@ Follow @Richard Bennett
 
 ![](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
-##### Richard Bennett
-
- Oct 26, 2023• Proven solutions
-
-[0](#commentsBoxSeoTemplate)
-
-In order to properly market your page on YouTube for sharing across social media, it is essential that you find your YouTube channel URL. How else can you share your channel? In this article, we are trying to give you a thorough understanding of the YouTube Channel URL and tell you how to get the custom channel URL.
-
-## Types of YouTube Channel URL
-
-**ID-based URL**
-
-YouTube channel URL of this type is based on your channel ID, which consists of numbers and letters. This is the URL of the universal form. For example, "youtube.com/channel/specific YouTube channel ID".
-
-You can **find the YouTube channel URL** of this kind by the following steps.
-
-1. Sign in to Youtube.com and click on your profile icon.
-2. Select Your Channel.
-3. Find the URL on the address bar of your browser. This is exactly the ID-based URL or the standard URL of your channel.
-
-**Legacy username URL**
-
-Legacy username URL was used by YouTube in the past. If you created your channel in the early days of YouTube, the URL for your channel might contain the username at the end. Although YouTube doesn't apply username to forming channel URL anymore, you can still use this URL to direct to Your channel. But you should note that the exiting username can't be changed even if you have changed your channel name. For example, "youtube.com/channel/specific YouTube channel ID".
-
-You can share the short form of the username URL with the "**/user**" being left out, such as "youtube.com/specific YouTube channel ID". But this may not be available if someone claimed to a custom URL whose short form is the same with the short form of your username URL.
-
-**Custom URL**
-
-This is a shorter and more easy-to-remember URL that is generated on the basis of your current display name, legacy username, or your linked and verified domain. You can claim for the custom URL if your channel meets certain qualifications.
-
-The custom URL looks like this, "youtube.com/c/display name, legacy username, or your linked and verified domain". You can also share this URL in its shorter form by leaving out the "**/c**", for example, "youtube.com/customed part".
-
-## **How to Get a Custom URL for your YouTube Channel**
-
-To qualify for a custom URL – one which includes your channel name instead of a random sequence of letters, your channel needs to meet the following standards.
-
-* Be at least 30 days old
-* Have at least 100 subscribers
-* Use a photo for the channel icon
-* Have uploaded channel art
-
-As long as your account meets these eligibility standards, then you can go over the following steps to claim a custom URL for your YouTube channel.
-
-   1. Start by signing into YouTube.
-   2. Click on your profile image on the top right of the screen.
-   3. Find the "settings" and click on it.
-   4. Select "Advanced settings".
-   5. Click on the link anchored with the word "here".
-   6. The "Get a custom URL" box will then pop out. You can select one from the approved options. You may need to add a suffix to make the URL of your channel to be unique.
-   7. Read the "Terms of use" carefully and then click on the **change URL**.
-
-Custom YouTube channel URLs are easier for your fans to remember, but once you have one, you can never change it. Your existing subscribers will automatically redirect to your new URL if they try to get to your channel through the old URL.
-
-## Where to Find Your **Custom URL Once You Successfully Claimed for It?**
-
-After you successfully get the custom URL, you may want to know where you can find the custom URL and therefore you can share it anywhere you like. The way to find your custom URL is exactly the same as how you created it. You can get back to the "Advanced settings" by following the above-mentioned steps. You'll find the custom URL lies right there under your user ID and channel ID.
-
-Who read this article also read:
-
-[Good YouTube Names Generators + How to Brainstorm>>](https://tools.techidaily.com/wondershare/filmora/download/)
-
-[How to Make a YouTube Subscribe Link - Easy!>>](https://tools.techidaily.com/wondershare/filmora/download/)
-
-If you want to find a video editing solution that empowers your imagination and creativity yet takes less effort, please try this robust and user-friendly video editing software **Wondershare Filmora**. It provides special effects, stock photo & video, sound library, etc., which will definitely enhance your productivity and helps to make money by making videos much accessible.
-
-[![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
-
-![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
-
-Richard Bennett
-
-Richard Bennett is a writer and a lover of all things video.
-
-Follow @Richard Bennett
-
-
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-7571918770474297"
-     data-ad-slot="8358498916"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-gain-insight-into-your-contents-success-via-youtube-rankers/"><u>[Updated] 2024 Approved  Gain Insight Into Your Content's Success via YouTube Rankers</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-enhance-your-profile-with-free-imagery-for-2024/"><u>[New] Enhance Your Profile with Free Imagery for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-shorts-to-mp4-a-step-by-step-tutorial/"><u>[Updated] 2024 Approved  From Shorts to MP4  A Step-by-Step Tutorial</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-much-money-do-youtubers-make-per-view/"><u>[Updated] 2024 Approved  How Much Money Do YouTubers Make Per View</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-free-safe-steps-to-extract-audio-from-youtube-videos/"><u>[New] 2024 Approved  Free, Safe Steps to Extract Audio From YouTube Videos</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-getting-the-most-out-of-live-sports-on-youtube-tv/"><u>[Updated] 2024 Approved  Getting the Most Out of Live Sports on YouTube TV</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-navigating-the-best-video-formats-for-your-youtube-channel/"><u>[New] Navigating the Best Video Formats for Your YouTube Channel</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-fast-track-the-worlds-top-8-burgeoning-video-hubs-on-youtube-for-2024/"><u>[Updated] Fast-Track  The World's Top 8 Burgeoning Video Hubs on YouTube for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-font-power-boosters-secrets-to-stellar-video-thumbnails-for-2024/"><u>[New] Font Power Boosters  Secrets to Stellar Video Thumbnails for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-cutting-edge-techniques-for-ios-users-uploading-videos-to-youtube/"><u>[Updated] In 2024, Cutting-Edge Techniques for iOS Users Uploading Videos to YouTube</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/under-the-hood-inside-knowledge-for-instagram-story-enthusiasts-for-2024/"><u>Under the Hood  Inside Knowledge for Instagram Story Enthusiasts for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-avoiding-pitfalls-securing-your-skype-recordings-in-obs/"><u>[New] 2024 Approved  Avoiding Pitfalls  Securing Your Skype Recordings in OBS</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-step-up-your-podcast-game-with-expert-guidance-on-zooming-into-quality/"><u>[New] In 2024, Step Up Your Podcast Game with Expert Guidance on Zooming Into Quality</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/new-mastering-the-most-effective-7-tiktok-techniques-for-fame-for-2024/"><u>[New] Mastering the Most Effective 7 TikTok Techniques for Fame for 2024</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-3-ways-for-android-pokemon-go-spoofing-on-nubia-z50s-pro-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways for Android Pokemon Go Spoofing On Nubia Z50S Pro | Dr.fone</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/becoming-an-economic-force-a-guide-to-earning-on-youtube/"><u>Becoming an Economic Force  A Guide to Earning on YouTube</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-unveiling-vidas-power-for-film-and-video-professionals/"><u>[Updated] Unveiling Vida's Power for Film and Video Professionals</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-mastering-sports-viewership-in-the-digital-age/"><u>2024 Approved  Mastering Sports Viewership in the Digital Age</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/the-ultimate-playbook-of-igtv-mastery-top-10-branding-techniques/"><u>The Ultimate Playbook of IGTV Mastery  Top 10 Branding Techniques</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-best-online-vimeo-video-downloaders/"><u>[New] In 2024, Best Online Vimeo Video Downloaders</u></a></li>
+</ul></div>

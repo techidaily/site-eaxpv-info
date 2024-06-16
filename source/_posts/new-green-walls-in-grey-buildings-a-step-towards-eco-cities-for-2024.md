@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Green Walls in Grey Buildings  A Step Towards Eco-Cities for 2024\""
-date: 2024-06-04 18:16:56
-updated: 2024-06-07 10:56:32
+date: 2024-06-06T15:30:26.998Z
+updated: 2024-06-07T15:30:26.998Z
 tags:
   - ai video
   - ai youtube
@@ -11,7 +11,7 @@ categories:
 description: "\"This Article Describes [New] Green Walls in Grey Buildings: A Step Towards Eco-Cities for 2024\""
 excerpt: "\"This Article Describes [New] Green Walls in Grey Buildings: A Step Towards Eco-Cities for 2024\""
 keywords: "\"Green Walls,Eco Cities,Urban Renewal,Sustainable Design,Environmentally Friendly Buildings,Living Architecture,Eco-Friendly Structures\""
-thumbnail: https://www.lifewire.com/thmb/XTn22vUEhR1g5hO3UkHHYfR8z14=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/tesla-bot-f6353f76ae214924916445da1da620ca.png
+thumbnail: https://thmb.techidaily.com/13887af25c31ebc0af7fa01bee84ac625b343ea776763c2dea469f5e646eb4f7.png
 ---
 
 ## Green Walls in Grey Buildings: A Step Towards Eco-Cities
@@ -130,74 +130,21 @@ Follow @Richard Bennett
 
 ![](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
-##### Richard Bennett
-
- Oct 26, 2023• Proven solutions
-
-[0](#commentsBoxSeoTemplate)
-
-YouTube is forever recommending videos for you whether it's in your dashboard or next to the video you're already watching. In theory, these recommendations are based on your viewing habits and you're only directed to videos you're interested in.
-
-Except we all know that’s not always what happens.
-
-YouTube’s recommendations are based on more than just what you’ve watched and searched for, and sometimes even the data on that can get skewed over time. Not all your searches reflect your real tastes, and as your search history builds up the algorithm can start having trouble with all that data.
-
-Here’s what you can do about it:
-
-1. [**Manage Your Watch History**](#manage)
-2. [**Tell YouTube You Aren’t Interested**](#notinterested)
-3. [**But Why Does It Recommend Stuff I Don’t Like?**](#butwhy)
-
-## Manage Your Watch History
-
-![Manage Watch History](https://images.wondershare.com/filmora/article-images/manage-watch-history.jpg)
-
-Scroll to the bottom of any page on YouTube and you will see a button marked **History** with an hourglass icon. To access this feature using a mobile device, go to the **Account** tab and tap **History**.
-
-You will be able to completely clear your watch history, remove specific videos from it, or pause your history while you look at videos you don’t want a record of you visiting. By taking control of your history, you can make sure nothing you looked up on a random whim is reflected in your recommendations.
-
-If you are being recommended more things you aren’t interested in than things you are, you might want to clear your history completely and start fresh. Maybe your tastes have changed since YouTube started keeping track of them.
-
-## Tell YouTube You Aren’t Interested
-
-![Tell YouTube Not Interested](https://images.wondershare.com/filmora/article-images/tell-youtube-not-interested.jpg)
-
-Based on your watch history, YouTube knows what you like. However, they have no way of automatically collecting data on what kinds of videos you’d rather not see.
-
-What they do have is a system for you to flag recommendations you don’t like.
-
-Hover over the thumbnail of a video you don’t want to be recommended to you and a small icon that looks like three stacked dots will appear next to the title. Click on that, and then click **Not Interested**.
-
-When you tell YouTube you aren’t interested in certain videos they use that data to adjust what they recommend for you.
-
-## But Why Does It Recommend Stuff I Don’t Like?
-
-Your search/watch history is not the only thing that determines what YouTube recommends for you. Nobody outside of Google knows exactly how the algorithm works, but we do know one of the major factors influencing it is to watch **time**.
-
-Watch time refers to how a video effects the session time of a viewer. If a video has proven it can keep viewers on YouTube for longer it is more likely to get recommended, even if it isn't closely related to the interests of individual viewers. The ultimate goal of the algorithm is to keep you on the site longer. Part of that is recommending things, surely, you'll be interested in, and part of that is trying to get you interested in things that'll keep you around.
-
-  A video that is simply watched for longer, because it is engaging and can hold viewers’ attention for a long time, will have a high watch time. So will a video that is short, but which leads into a playlist which holds peoples’ attention. If a video is a frequent session starter – people see it outside of YouTube (i.e. in a Google search) and get to the site through it – then its watch time will be high because it is given credit for all of the time viewers are spending on YouTube watching other videos after they get there.
-
-The only way to stop certain types of videos from being recommended for you is to take advantage of the ‘not interested’ feature.
-
- Are you usually happy with YouTube's recommended videos?
-
-## What video editing software did YouTube suggested videos are used?
-
-[![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
-
-![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
-
-Richard Bennett
-
-Richard Bennett is a writer and a lover of all things video.
-
-Follow @Richard Bennett
-
-
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-7571918770474297"
-     data-ad-slot="8358498916"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/updated-transforming-youtube-videos-bars-free-vision/"><u>[Updated] Transforming YouTube Videos  Bars-Free Vision</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-building-a-billion-dollar-brand-on-youtube-jake-paul/"><u>[Updated] 2024 Approved  Building a Billion-Dollar Brand on Youtube (Jake Paul)</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-transforming-youtubers-into-titans-with-key-insights-from-the-hub/"><u>[Updated] Transforming YouTubers Into Titans with Key Insights From the Hub</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-video-content-to-cash-flow-youtubes-profit-mechanics/"><u>[Updated] 2024 Approved  From Video Content to Cash Flow  YouTube's Profit Mechanics</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-from-hidden-gems-to-hit-videos-strategies-for-success-for-2024/"><u>[Updated] From Hidden Gems to Hit Videos  Strategies for Success for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-free-mcb-theme-images-templates-and-more/"><u>[Updated] In 2024, Free MCB Theme Images, Templates & More</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-harnessing-the-power-of-color-difference-keying-methods/"><u>[New] 2024 Approved  Harnessing the Power of Color Difference Keying Methods</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-favorite-frames-socials-1-8-vids/"><u>[Updated] In 2024, Favorite Frames  Social's #1-#8 Vids</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-14-pro-to-other-iphone-15-pro-max-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 14 Pro To Other iPhone 15 Pro Max devices? | Dr.fone</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-2024-approved-strikingly-successful-nicknames-a-must-have-list-for-disco-channels/"><u>[Updated] 2024 Approved  Strikingly Successful Nicknames  A Must-Have List for Disco Channels</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-best-vivo-y100i-power-5g-pattern-lock-removal-tools-remove-android-pattern-lock-without-losing-data-by-drfone-android/"><u>In 2024, Best Vivo Y100i Power 5G Pattern Lock Removal Tools Remove Android Pattern Lock Without Losing Data</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-cutting-costs-without-compromising-on-youtube-intros-quality-for-2024/"><u>[New] Cutting Costs without Compromising on YouTube Intros Quality for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-are-reviews-on-merchandise-streamed-for-cash/"><u>In 2024, Are Reviews on Merchandise Streamed for Cash?</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/unique-content-creation-the-ultimate-guide-to-6-video-types-for-2024/"><u>Unique Content Creation  The Ultimate Guide to 6 Video Types for 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/full-guide-to-fix-itoolab-anygo-not-working-on-xiaomi-redmi-note-12-4g-drfone-by-drfone-virtual-android/"><u>Full Guide to Fix iToolab AnyGO Not Working On Xiaomi Redmi Note 12 4G | Dr.fone</u></a></li>
+</ul></div>

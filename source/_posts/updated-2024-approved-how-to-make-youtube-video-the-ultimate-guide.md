@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  How to Make YouTube Video  The Ultimate Guide\""
-date: 2024-06-06 22:34:41
-updated: 2024-06-07 10:59:30
+date: 2024-06-06T13:40:14.878Z
+updated: 2024-06-07T13:40:14.878Z
 tags:
   - ai video
   - ai youtube
@@ -11,7 +11,7 @@ categories:
 description: "\"This Article Describes [Updated] 2024 Approved: How to Make YouTube Video: The Ultimate Guide\""
 excerpt: "\"This Article Describes [Updated] 2024 Approved: How to Make YouTube Video: The Ultimate Guide\""
 keywords: "YouTube Looping Tips,Video Replay Techniques,Looping Media Videos,Mastery in YouTube Loops,Ultimate Playback Guide,2024 Loop Strategies,Efficient Video Recaps"
-thumbnail: https://www.lifewire.com/thmb/chsI3SooU_IsFYskK8_W__r_-OY=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/sites-to-watch-free-tv-shows-online-3486367-fd026082f1ff45e4930d1f828c3af7af.png
+thumbnail: https://thmb.techidaily.com/c7f6e1d56c05b1571f57a7f9b04e195b30e35f1ef9fbc6554b9991ddbdbae23c.png
 ---
 
 ## How to Make YouTube Video: The Ultimate Guide
@@ -153,101 +153,25 @@ Follow @Richard Bennett
 
 ![](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
-##### Richard Bennett
-
- Oct 26, 2023• Proven solutions
-
-[0](#commentsBoxSeoTemplate)
-
-When you’re trying to grow a channel on YouTube it can feel like equipment is a barrier, but it shouldn’t be. If you can’t afford a high-end tripod, for example, there are loads of ways to get by without one.
-
-### DIY Your Video with Wondershare Filmora
-
-Wondershare Filmora has the best video stabilization tool is your videos have a bad frame or were recorded in dim lights. If a video is shot in bad weather or unfriendly situation where you don’t have all the equipment required for a quality recording, Wondershare Filmora can help you in the background to edit your videos like a pro. And it has all the relevant tools like effects, transitions, background removal, overlays, and background music that could turn your normal video to a professional one.
-
-[![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
-
-Here are 3 of our favorite DIY tripods.
-
-### **DIY smartphone tripod using binder clips or hair clips**
-
-You’re a solo operation and your best camera is on your phone. That’s pretty common.
-
-If you have a DSLR then you can set it down on any stable surface while filming yourself, but your phone can’t stand up by itself. It needs something or someone to hold it. Do you just accept that and shoot everything as a selfie?
-
-No. No, you don’t, because there are common household items that can help you out of this problem. For this DIY tripod, you need either **2 binder clips** or **2 ‘claw clips’** (also called ‘hair jaws’).
-
-Hold your phone in landscape mode (horizontally, so it’s long rather than tall) and attach clips to the bottom corners. If you are worried about scratching your screen, fold up some paper to place between your clip and your phone.
-
-Here it is with binder clips:
-
-![binder clips](https://images.wondershare.com/filmora/article-images/binder-clips.jpg)
-
-And here it is with hair clips:
-
-![hair clips](https://images.wondershare.com/filmora/article-images/hair-clips.jpg)
-
-Now you can set your smartphone upon any stable surface, like a table or a stack of books.
-
- _Here are some more cool ideas!_
-
-### **DIY adjustable tripod using books and a towel**
-
-You’ve probably heard a million times that you can stabilize your camera by sitting it down on any stable surface – on your desk, on a stack of books, up in a tree, etc. This is very true!
-
-But if you can use any stable surface, why do people buy tripods?
-
-Because it isn’t convenient to rearrange your furniture whenever you want to make a video, and also because tripods are adjustable. You can change their height, you can use them to pan or tilt, and it’s pretty easy to move them a bit forwards or backward while you’re setting up your shot.
-
-To get similar functions from the ‘any stable surface’ solution you can use a **table**, a **stack of books**, and a **towel**.
-
-1. Set up the area where you’re going to sit while you’re filming on one end of the table.
-2. Put the towel down over the approximate spot you want your camera to be.
-3. Stack your books on top of the towel.
-4. Put your camera on top of the books.
-
-Now if your camera isn’t up high enough, or is too high, you can adjust it just by adding or taking away books. If you want to move it closer or farther away from you, just pull the towel forwards or backward.
-
-### **DIY gripping ‘Gorillapod’ using wire and tape**
-
-Gorillapod’s are cool because you can use them like normal tripods, carry them around like selfie sticks, or attach them to things like fences and posts. Here’s how you can make something similar using **wire**, **electrical tape** or **duct tape**, and a **1/4 bolt**.
-
-Your wire should be fairly stiff and you’ll need three pieces the same length, which should be at least 10 inches. Old clothes hangers work well. This needs to be something strong enough to support the weight of your camera, but soft enough that it’s not impossible for you to bend.
-
- ![wire and type](https://images.wondershare.com/filmora/article-images/wire-and-type.jpg)
-
-_All of your supplies plus the finished product._
-
-**Readying your legs**
-
-**_Step 1:_** Bend 2 inches at one end of each wire into a ‘U’ shape. You will probably need pliers for this.
-
-**_Step 2:_** Pick up one of your pieces of wire and wrap one end with electrical tape. Go around 5-10 times (to prevent it from coming undone at the end) and then, without cutting your tape, start moving up and wrapping the rest of your wire. Stop before your ‘U’ section.
-
-Repeat this with the other two wires.
-
- **Attaching your legs**
-
-_**Step 1:**_ Place the ‘U’ section of a leg against your bolt. The bolt’s threading should be pointing away from the leg. Now, use your tape to attach them. Wind it around 2 or 3 times, then repeat the process with both of the other legs individually.
-
-_**Step 2:**_ After all the legs are attached, wrap some more tape around all 3 as tightly as you can.
-
- Your camera will mount onto the bolt! You’ll be able to use this as a normal table-top tripod or use the flexible legs to grab onto different things like a Gorillapod. _Read more at_ [_Instructables_.](http://www.instructables.com/id/Pocket-Tripod/)
-
-_Note: make sure the bolt is a fit for your camera before you get too far into this process._
-
-![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
-
-Richard Bennett
-
-Richard Bennett is a writer and a lover of all things video.
-
-Follow @Richard Bennett
-
-
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-7571918770474297"
-     data-ad-slot="8358498916"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-first-steps-in-the-digital-dollar-youtube-earning-hacks/"><u>[Updated] In 2024, First Steps in the Digital Dollar - YouTube Earning Hacks</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-free-explore-youtubes-9-premium-full-length-christmas-flicks/"><u>[Updated] 2024 Approved  Free  Explore YouTube's 9 Premium Full-Length Christmas Flicks</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-follow-your-favorites-top-6-mobile-apps-for-downloading-youtube-beats-for-2024/"><u>[Updated] Follow Your Favorites  Top 6 Mobile Apps for Downloading YouTube Beats for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-gain-ground-by-generating-earnings-on-your-youtube-channel-like-ajay-for-2024/"><u>[Updated] Gain Ground by Generating Earnings on Your Youtube Channel Like Ajay for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-enhance-engagement-with-effective-yt-summary-writing-for-2024/"><u>[New] Enhance Engagement with Effective YT Summary Writing for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-convert-youtube-to-mp4-safely-step-by-step-guide/"><u>[Updated] In 2024, How to Convert YouTube to MP4 Safely? [Step by Step Guide]</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-hashtag-heroes-the-ultimate-list-for-popularizing-your-youtube-snippets-for-2024/"><u>[Updated] Hashtag Heroes  The Ultimate List for Popularizing Your YouTube Snippets for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-harmonizing-your-music-a-youtube-playlist-journey/"><u>[New] 2024 Approved  Harmonizing Your Music  A YouTube Playlist Journey</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-fitness-forward-6-video-concepts-to-energize-your-online-community-for-2024/"><u>[Updated] Fitness Forward  6 Video Concepts to Energize Your Online Community for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-definitive-manual-on-hand-based-tracking/"><u>[New] The Definitive Manual on Hand-Based Tracking</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-exploring-various-ways-to-earn-on-youtube/"><u>In 2024, Exploring Various Ways to Earn on YouTube</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-in-2024-the-best-free-video-editing-programs-for-rookies/"><u>Updated In 2024, The Best Free Video Editing Programs for Rookies</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-lock-apps-on-vivo-y36-to-protect-your-individual-information-by-drfone-android/"><u>In 2024, How to Lock Apps on Vivo Y36 to Protect Your Individual Information</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-navigating-the-zoom-interface-a-focus-on-windows-10/"><u>[New] Navigating the Zoom Interface  A Focus on Windows 10</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-how-to-effortlessly-share-vimeo-video-on-instagram/"><u>2024 Approved  How to Effortlessly Share Vimeo Video on Instagram</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/in-2024-comprehensive-review-evolution-of-digital-entertainment/"><u>In 2024, Comprehensive Review  Evolution of Digital Entertainment</u></a></li>
+<li><a href="https://change-location.techidaily.com/the-best-ispoofer-alternative-to-try-on-samsung-galaxy-z-flip-5-drfone-by-drfone-virtual-android/"><u>The Best iSpoofer Alternative to Try On Samsung Galaxy Z Flip 5 | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-to-bypass-google-frp-on-magic-6-pro-by-drfone-android-unlock-remove-google-frp/"><u>How To Bypass Google FRP on Magic 6 Pro</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-4-ways-to-trace-realme-11x-5g-location-drfone-by-drfone-virtual-android/"><u>In 2024, Top 4 Ways to Trace Realme 11X 5G Location | Dr.fone</u></a></li>
+</ul></div>

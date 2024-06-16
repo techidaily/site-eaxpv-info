@@ -1,7 +1,7 @@
 ---
 title: "[Updated] How to Animate and Make Your Own Effects for 2024"
-date: 2024-06-06 20:42:27
-updated: 2024-06-07 11:59:26
+date: 2024-06-06T14:20:39.302Z
+updated: 2024-06-07T14:20:39.302Z
 tags:
   - ai video
   - ai youtube
@@ -11,7 +11,7 @@ categories:
 description: "This Article Describes [Updated] How to Animate and Make Your Own Effects for 2024"
 excerpt: "This Article Describes [Updated] How to Animate and Make Your Own Effects for 2024"
 keywords: "\"Animated Effects Tips,DIY Visual Effects Guide,Create Custom Animations,Learn Animation Tricks,Making Own VFX Effects,Self-Made Movie Magic,Produce Personalized Animations\""
-thumbnail: https://www.lifewire.com/thmb/NDRJDKRnbGaIn0aAuDiPaTuttRM=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/vlogger_HeroImages_Getty-5a529982b39d0300376c3826.jpg
+thumbnail: https://thmb.techidaily.com/8952485f60295f3d1e3d2e7fb384d7f4849fc0ba1ac13c5b58f754ed696cbd0a.jpg
 ---
 
 ## Bring Imagination to Life: Self-Animated Artistry
@@ -85,98 +85,23 @@ Follow @Richard Bennett
 
 ![](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
-##### Richard Bennett
-
- Oct 26, 2023• Proven solutions
-
-[0](#commentsBoxSeoTemplate)
-
-YouTube Annotations and Cards are both tools for linking viewers to your other videos or to off-YouTube webpages. Two of the major differences between them are:
-
-Annotations are not clickable on mobile devices.
-
-You cannot choose the size or positioning of Cards.
-
-This article will teach you about both Cards and Annotations and discuss the best uses for each of them.
-
-**Part 1: Annotations**
-
-Annotations are messages that float overtop of your videos in the YouTube player. Usually, annotations are clickable and take users to other content created by you.
-
-**Section 1: Types of Annotations**
-
-There are five types of YouTube annotations:
-
-**Notes** are colored boxes placed over the top of your videos.
-
-**Speech Bubbles** look like dialogue boxes in a comic strip. They have tails that you can adjust so it looks like one of the people in your video is saying what is written in the annotation.
-
-**Spotlights** have a subtle border and are completely clear inside. Your text only appears when a viewer’s cursor hovers over top of these annotations.
-
-**Labels** are like spotlights except that viewers do not have to hover over them for your text to be visible.
-
-Any of these annotations can be used to link viewers to other videos, or as subscribe links. You can also add a simple **Title** to your video through the Annotations menu.
-
-**Section 2: How to Use Annotations**
-
-\*Note: the above video mentions Pause annotations, which are no longer available.
-
-Here are two of the best uses for annotations:
-
-**Clickable End Cards / Outros**
-
-One of the best ways you can use spotlight annotations is to create clickable end cards for your videos.
-
-When your video finishes playing the YouTube player will display a selection of suggested videos that might direct viewers away from your channel. You can keep more of these viewers watching your content by creating your own ‘suggested videos’ card and putting it at the end of your videos.
-
-Put thumbnails of two or three of your other videos on your end card, or use ‘picture-in-picture’ to actually imbed footage from them. Then, after you upload your video, go in and place clickable spotlight annotations over top of your video thumbnails.
-
-This is one use for annotations that cannot be duplicated with cards.
-
-**Promoting Your Videos**
-
-You should not wait until the end of your video to start linking viewers to other content. Many viewers will click away before they see your end card because your video is not exactly what they were looking for. By placing note or speech bubble annotations occasionally throughout your videos you can catch some of these people before they click off of your channel.
-
-This works especially well if you link to videos on similar subjects to the one you are annotating.
-
-Instead of just linking to another video of yours, try to link to that video on a playlist. Once a viewer is on a playlist your videos will auto-play after each other, which is good for both your view count and watch time.
-
-You can also use the newer YouTube Cards for this, but Annotations might still be a better choice because viewers only need to click once vs. twice for Cards.
-
-Try both and see which performs best for your channel. It might be in your best interest to keep on using both as they target different audiences – Cards are clickable on mobile devices, for example, but Annotations are not.
-
-#### **Part 2: YouTube Cards**
-
-YouTube Cards are newer than annotations and a lot of people believe they will one day replace Annotations. While there are benefits to Cards – like embedding images to represent your links – you cannot choose the shape, size, or placement of them. This means they have limited uses.
-
-When viewers click on a Card they are shown additional information and a thumbnail representing the page they will be taken to if they choose to click again. This extra step could be either help viewers decide to click your links or give them a second chance to decide they would rather not.
-
-**Section 1: When to Use Cards**
-
-A linked Annotation is simply a call to action viewers can click on. A Card is a call to action as well, but instead of taking the viewer directly to where its link leads when it is clicked a Card opens up into a larger version of itself with a thumbnail image.
-
-Crowdfunding pages (Patreon is a great choice for video creators), charity fundraising pages, and merchandise stores are all examples of links that benefit from the format of YouTube Cards.
-
-When you link a viewer to a non-YouTube page you break up their session time, which negatively impacts your watch time and SEO ranking. You want to make sure that the viewers you are directing away from YouTube are the ones most likely to convert after they leave. By ‘convert’ we mean to contribute to your Patreon campaign, donate to the charity you are promoting, or buy some of your merchandise.
-
-Giving viewers more information and a thumbnail through a Card can help ensure the most interested viewers are the ones clicking your links.
-
-If you want to find a video editing solution that empowers your imagination and creativity yet takes less effort, please try this robust and user-friendly video editing software Filmora, which is equipped with its own footage stock **_[Wondershare Filmstock](https://www.filmstocks.com/?fs%5Fchannel=ws)_** and will definitely enhance your productivity and helps you to make money by making videos much easier.
-
-[![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
-
-![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
-
-Richard Bennett
-
-Richard Bennett is a writer and a lover of all things video.
-
-Follow @Richard Bennett
-
-
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-7571918770474297"
-     data-ad-slot="8358498916"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/updated-greening-the-grid-paving-the-way-for-sustainable-metropolises-for-2024/"><u>[Updated] Greening the Grid  Paving the Way for Sustainable Metropolises for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-passion-to-prominence-the-creators-quest/"><u>[Updated] In 2024, From Passion to Prominence  The Creator's Quest</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-guide-youtube-to-mp4-ensuring-data-security/"><u>[New] In 2024, Guide  YouTube to MP4 - Ensuring Data Security</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-from-speech-to-text-a-complete-free-workshop-on-youtube-transcription-for-2024/"><u>[New] From Speech to Text  A Complete, FREE Workshop on YouTube Transcription for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-what-are-youtube-tags-and-how-can-you-find-great-tags-for-your-videos-in-2024/"><u>[New] What Are YouTube Tags and How Can You Find Great Tags For Your Videos, In 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-getting-more-out-of-youtube-top-8-mobile-downloader-tips/"><u>[New] 2024 Approved  Getting More Out of YouTube  Top 8 Mobile Downloader Tips</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-finalcut-pro-101-crafting-professional-youtube-edits/"><u>[Updated] 2024 Approved  FinalCut Pro 101  Crafting Professional YouTube Edits</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-trim-youtube-videos-like-a-pro/"><u>[New] 2024 Approved  How to Trim YouTube Videos Like a Pro</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/in-2024-the-ultimate-guide-to-using-shotcut-to-rotate-videos/"><u>In 2024, The Ultimate Guide to Using Shotcut To Rotate Videos</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-bring-your-message-alive-how-to-send-gifs-via-snapchat/"><u>[New] In 2024, Bring Your Message Alive  How to Send Gifs via Snapchat</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-how-to-use-vlc-for-professional-screen-recording-for-2024/"><u>[New] How to Use VLC for Professional Screen Recording for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-quick-steps-installing-snapchat-on-macos-for-2024/"><u>[New] Quick Steps  Installing Snapchat on macOS for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/camguard-elite-mesh-patch/"><u>CamGuard Elite Mesh Patch</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-decoding-youtube-income-how-much-does-each-1000-viewer-earn-in-2024/"><u>[Updated] Decoding YouTube Income  How Much Does Each 1,000 Viewer Earn, In 2024</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/9-mind-blowing-tricks-to-hatch-eggs-in-pokemon-go-without-walking-on-zte-nubia-z60-ultra-drfone-by-drfone-virtual-android/"><u>9 Mind-Blowing Tricks to Hatch Eggs in Pokemon Go Without Walking On ZTE Nubia Z60 Ultra | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-cartooncraft-detailed-24-app-audit/"><u>2024 Approved  CartoonCraft  Detailed '24 App Audit</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-2024-approved-quick-fix-guide-resolving-auditory-import-problems-in-premiere-pro-2023/"><u>Updated 2024 Approved Quick-Fix Guide Resolving Auditory Import Problems in Premiere Pro 2023</u></a></li>
+</ul></div>

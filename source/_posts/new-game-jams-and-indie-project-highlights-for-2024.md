@@ -1,7 +1,7 @@
 ---
 title: "[New] Game Jams and Indie Project Highlights for 2024"
-date: 2024-06-04 19:46:24
-updated: 2024-06-06 12:25:19
+date: 2024-06-06T14:31:01.623Z
+updated: 2024-06-07T14:31:01.623Z
 tags:
   - ai video
   - ai youtube
@@ -11,7 +11,7 @@ categories:
 description: "This Article Describes [New] Game Jams and Indie Project Highlights for 2024"
 excerpt: "This Article Describes [New] Game Jams and Indie Project Highlights for 2024"
 keywords: "Gaming Jams Insights,Indie Game Spotlights,Game Jam Showcase,Indie Project Focus,Creative Gaming Events,Independent Games Highlight,Game Development Unveils"
-thumbnail: https://www.lifewire.com/thmb/GsSLeuSHg3JVDhu1cfPMNnanHmY=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/nothing-phone-update-a48070f52beb4a9d8c8792a6e44bb927.jpg
+thumbnail: https://thmb.techidaily.com/99216a5fd24020f4e914206166919d3aff0939ed370c089abccf39caae51dc78.jpg
 ---
 
 ## Game Jams and Indie Project Highlights
@@ -148,67 +148,22 @@ Follow @Richard Bennett
 
 ![](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
-##### Richard Bennett
-
- Oct 26, 2023• Proven solutions
-
-[0](#commentsBoxSeoTemplate)
-
-A green screen is a fun way to create different backgrounds for your videos, but that isn’t all you can use it for. Using a chroma key tool, like the [one in **Filmora**](https://tools.techidaily.com/wondershare/filmora/download/), you can add animations and transitions into your videos.
-
-Say, for example, that you want to make a video where you’re hanging out with a CGI alien. All you need is an alien green screen effect – an animated alien against a green background. In Filmora, you drag that alien effect into your PIP track and switch the green background to transparent.
-
-[![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
-
-Your alien buddy will be overlaid over your main clip, which will make it look like he is there with you. Sound like fun?
-
-Here are 4 YouTube channels where you can get green screen effects and animations for free.
-
-* [Green Screen Animation](#animation)
-* [BestGreenScreen](#best)
-* [Bestofgreenscreen](#bestof)
-* [All Design Creative](#alldesign)
-
-![YouTube Green Screen Stock Footage](https://images.wondershare.com/filmora/article-images/free-green-screen-effects.jpg)
-
-## [GREEN SCREEN ANIMATION](https://www.youtube.com/channel/UCk7DcAEWN8dna2A%5FKYSSslQ/featured)
-
-This YouTube channel posts something new every day. Their effects include overlays, transitions, titles, and animations. Everything is free, but they do request that you link back to them in your video description if you monetize.
-
-At GREEN SCREEN ANIMATION you will find lots of corporate and tech-industry effects, but they also have playlists of effects for makeup videos, military-themed effects, and animations inspired by movies (among other things).
-
-## [BestGreenScreen](https://www.youtube.com/user/bestgreenscreen/featured)
-
-This channel specializes in action and sci-fi effects. Zombies, spaceships, and bullets are among their specialties, and many of their effects are inspired by movies like Star Wars. If you’re not into that kind of thing, they also have some nice overlays of things like mist or moving clouds. BestGreenScreen posts multiple times a week.
-
-## [bestofgreenscreen](https://www.youtube.com/user/bestofgreenscreen/featured)
-
-Bestofgreenscreen hasn’t posted anything new in a long time, but there is a huge existing catalog of free effects. There are a lot of action/military-themed effects (like explosions), as well as sci-fi and fantasy-themed things like dragons.
-
-Beyond that, there are a lot of animals and nature-themed effects.
-
-## [ALLDesignCreative](https://www.youtube.com/user/alldesigncreative)
-
-Here you’ll find things like fog, ripples, waves, and falling flowers – in short, overlays. There are lots of cool overlays included in Filmora, or available through our effects store, and if you go hunting through this and other free green screens/chroma key effect channels you can find even more.
-
-**Note:** to obtain most of these effects, you will need to use a service that allows you to save/download YouTube videos.
-
-One of the easiest ways to save videos is by using Save From. Just go to the watch page for the video and type ‘ss’ in front of YouTube in the address bar (so your address looks like **<http://www.ssyoutube>**). You will be taken to a page where you can download the video for free, so long as you don’t want it in HD. You have to pay for the service if you want a higher quality clip, but most of these green screen effects will look fine in 720p.
-
-Have you made anything cool recently using a green screen? We'd love to see it, share it in the comments.
-
-![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
-
-Richard Bennett
-
-Richard Bennett is a writer and a lover of all things video.
-
-Follow @Richard Bennett
-
-
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-7571918770474297"
-     data-ad-slot="8358498916"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-script-to-screen-building-a-youtube-trailer-in-filmora/"><u>[New] 2024 Approved  From Script to Screen  Building a YouTube Trailer in Filmora</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-gaining-clarity-on-your-youtube-audiences-behavior-for-2024/"><u>[Updated] Gaining Clarity on Your YouTube Audience's Behavior for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-share-your-4k-videos-with-the-world-via-youtube/"><u>[Updated] 2024 Approved  How to Share Your 4K Videos with the World via YouTube</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-hashtags-that-elevate-your-channels-visibility-and-value/"><u>[Updated] In 2024, Hashtags that Elevate Your Channels' Visibility & Value</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/2024-approved-youtube-equipment-starter-guide-for-beginners/"><u>2024 Approved  YouTube Equipment Starter Guide For Beginners</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-formulating-an-easy-to-use-youtube-subscriber-link/"><u>[New] In 2024, Formulating an Easy-to-Use YouTube Subscriber Link</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-free-frameworks-amplify-your-youtube-vision/"><u>[Updated] In 2024, Free Frameworks  Amplify Your YouTube Vision</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-professional-obs-edits-the-ultimate-top-5-guide/"><u>2024 Approved  Professional OBS Edits  The Ultimate Top 5 Guide</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-y78plus-t1-edition-pictures-an-easy-method-explained-by-fonelab-android-recover-pictures/"><u>How to Restore Deleted Y78+ (T1) Edition Pictures  An Easy Method Explained.</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-unveiling-the-power-of-vivacut/"><u>2024 Approved  Unveiling the Power of VivaCut</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-2024-approved-voicelinkpro-sync-your-soundscapes-with-ease-in-the-latest-of-premiere-pro-2023-iteration/"><u>Updated 2024 Approved VoiceLinkPro Sync Your Soundscapes with Ease in the Latest of Premiere Pro 2023 Iteration</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/in-2024-enhancing-engagement-through-youtube-advertising/"><u>In 2024, Enhancing Engagement Through YouTube Advertising</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/can-you-play-mp4-on-motorola-by-aiseesoft-video-converter-play-mp4-on-android/"><u>Can you play MP4 on Motorola ?</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-capture-and-share-the-discord-live-stream-method/"><u>[New] Capture and Share  The Discord Live Stream Method</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-cinematic-clarity-hub-query-responses/"><u>[Updated] Cinematic Clarity Hub  Query Responses</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-vector-editing-revolution-post-acid-pro-era/"><u>In 2024, Vector Editing Revolution  Post-ACID Pro Era</u></a></li>
+</ul></div>

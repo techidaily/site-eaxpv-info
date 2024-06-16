@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] In 2024, Hidden Gems on YouTube  Understanding 'Unlisted' Videos\""
-date: 2024-06-05 17:17:20
-updated: 2024-06-07 10:55:45
+date: 2024-06-06T13:48:11.072Z
+updated: 2024-06-07T13:48:11.072Z
 tags:
   - ai video
   - ai youtube
@@ -11,7 +11,7 @@ categories:
 description: "\"This Article Describes [Updated] In 2024, Hidden Gems on YouTube: Understanding 'Unlisted' Videos\""
 excerpt: "\"This Article Describes [Updated] In 2024, Hidden Gems on YouTube: Understanding 'Unlisted' Videos\""
 keywords: "Hidden YouTube Content,Unlisted Video Guide,Explore Unseen YT,Untitled YT Clips,Unlisted,Secret YT Videos,Accessing Hidden YT"
-thumbnail: https://www.lifewire.com/thmb/YPMhKL59WGdTUpxCrpaB_OS--cc=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-set-up-speech-to-text-on-android-0-928c48ab121248f9aa543a136d971f9a.jpg
+thumbnail: https://thmb.techidaily.com/2e5cadcabaa5bc146e9286cd6ccf5e30c43742afdff538e1080a5add013b39bf.jpg
 ---
 
 ## Hidden Gems on YouTube: Understanding 'Unlisted' Videos
@@ -145,70 +145,23 @@ Follow @Richard Bennett
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
-##### Richard Bennett
-
- Mar 27, 2024• Proven solutions
-
-A common problem for new YouTubers and Vlogers is that they cannot get through a recording without feeling like they have messed up and need to restart. It can be extremely discouraging at first. More experienced vloggers know that mistakes happen and they are no reason to stop recording. Instead of trying to record a perfect clip it is common for vloggers to remove errors from their videos in editing using jump cuts.
-
-## How To Use Jump Cuts in Your Vlog
-
-#### 1\. What is a Jump Cut?
-
-A jump cut is when you jump from one part of your clip to a later part of that same clip, cutting out the section in-between.
-
-In movies or tv shows jump cuts can be distracting. In vlogs it is the exact opposite; jump cuts are used to remove distractions. It is not strange for a YouTube video to contain a lot of jump cuts. If you go and re-watch a video by your favorite vlogger you will probably notice that every once in a while the vlogger is suddenly sitting differently or that something else has suddenly changed. That is a jump cut, and chances are you did not even think twice about it when you first watched the video.
-
-#### 2\. When to use Jump Cuts in your Youtube Video
-
-There are a lot of things you might want to take out of your clips using jump cuts. Here are some examples:
-
-**Repetition**: You may have had to repeat yourself because you misspoke. Or, you might watch your clip back and realize that two sections you intended – perhaps even scripted – are very similar and you only need one.
-
-**Off-Topic Tangents**: Once you get comfortable talking to the camera it is easy to find yourself getting off-topic while recording. These tangents might be funny or feel important, but you should still cut them out of your final video. Rather than scrapping them completely, though, consider giving your tangent its very own video. Successful vloggers post new videos frequently, after all.
-
-**Silence**: Use jump cuts to take out any pauses in your video. Every period of silence is an opportunity for viewers to get distracted and decide to click on something else. Adding music to the background of your video can help with shorter pauses, but cutting out any silence is still a good way to go.
-
-In the video tutorial below, we will share with you some practical and creative jump cuts tips that you can try in video editing. And most of the jump cuts are done with the cutting features in [Filmora](https://tools.techidaily.com/wondershare/filmora/download/). You can download the free trial version below by clicking the Free Download button based on your system.
-
-[![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
-
-#### 3\. How to Make Jump Cuts in Vlog & YouTube Videos
-
-You can make jump cuts in almost every editing program, from free software like Windows Movie Maker to professional programs like Adobe Premiere. Remember no matter which video editing software you are using to edit your videos with jump cut, you need to ensure that the software can scroll through your video clips and audio files frame-by-frame. And some video editors may only allow you to scroll video footage frame by frame. This tutorial is for Filmora Video Editor (Now upgraded to Filmora), but many of the same steps will apply to other software.
-
-[![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
-
-You may also like: [How to trim and cut videos in Windows Movie Maker for Free](https://tools.techidaily.com/wondershare/filmora/download/)
-
-Open up Filmora Video Editor and add a clip into the timeline. Watch it through, and then revisit sections where you think you might want to make cuts.
-
-Find a place in your clip that has silence and use the scissors icon to cut your clip into two. Then start playing your clip and pause as soon as you hear sound.
-
-Make sure your clip is selected, and then go back frame by frame until you hear nothing.
-
-Use the scissors icon to make another cut. You will now have three clips; one before the silence, the silent pause, and the section where sound starts again. Delete the quiet middle clip.
-
-#### 4\. Keep video shorter for more views
-
-The videos that get the most views on YouTube are an average of three minutes long. People will use the length of a video as a reason not to click on it. Viewers are also more likely to get distracted and stop watching longer videos before they are over. That does not mean you should not take as long as you need to properly explain your ideas, just that you should be careful your video is not longer than it needs to be. It is common for youtubers to use only about a third of the clip they record. The rest is removed using jump cuts.
-
-Filmora video editor will help you to be more creative in video editing and saving your time at the same time. Download and leave a comment below about how do you like it.
-
-[![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
-
-![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
-
-Richard Bennett
-
-Richard Bennett is a writer and a lover of all things video.
-
-Follow @Richard Bennett
-
-
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-7571918770474297"
-     data-ad-slot="8358498916"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-blurry-to-bold-crafting-powerful-youtube-previews/"><u>[Updated] In 2024, From Blurry to Bold  Crafting Powerful YouTube Previews</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-future-of-online-gaming-earnings/"><u>[New] In 2024, Future of Online Gaming Earnings</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-free-tribe-50-branding-banners-ready-to-unleash/"><u>[New] 2024 Approved  Free Tribe  50 Branding Banners Ready to Unleash</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/social-media-video-trends-for-smbs-for-2024/"><u>Social Media Video Trends for SMBs for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-find-my-playlist-on-youtube/"><u>[New] In 2024, How to Find My Playlist on YouTube</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-finding-and-exploring-your-own-music-selection-zone-on-youtube-for-2024/"><u>[Updated] Finding and Exploring Your Own Music Selection Zone on Youtube for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/your-story-your-stage-youtube-video-mastery-for-2024/"><u>Your Story, Your Stage  YouTube Video Mastery for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-getting-more-out-of-youtube-top-8-mobile-downloader-tips/"><u>[Updated] 2024 Approved  Getting More Out of YouTube  Top 8 Mobile Downloader Tips</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-easy-steps-to-make-glitch-effect-with-filmora-for-2024/"><u>New Easy Steps to Make Glitch Effect with Filmora for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/twitter-image-resolution-standards/"><u>Twitter Image Resolution Standards</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-streamline-media-storage-with-3-tactics/"><u>[Updated] Streamline Media Storage with 3 Tactics</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/sound-symphony-music-within-whatsapp-statuses/"><u>Sound Symphony  Music Within WhatsApp Statuses</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/elevate-views-prime-seo-equipment-for-videos/"><u>Elevate Views  Prime SEO Equipment for Videos</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-respectful-approach-to-enhancing-your-tiktok-presence/"><u>[New] Respectful Approach to Enhancing Your TikTok Presence</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-in-2024-enhance-vfx-quality-best-tiktok-watermark-removers/"><u>[Updated] In 2024, Enhance VFX Quality  Best TikTok Watermark Removers</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-bebops-visionary-feathered-future-examined/"><u>2024 Approved  Bebop's Visionary Feathered Future Examined</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-demystifying-the-instagram-selfie-process/"><u>2024 Approved  Demystifying the Instagram Selfie Process</u></a></li>
+</ul></div>

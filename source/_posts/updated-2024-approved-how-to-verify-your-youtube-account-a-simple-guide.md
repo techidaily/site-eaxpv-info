@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  How to Verify Your YouTube Account - a Simple Guide\""
-date: 2024-06-06 21:19:49
-updated: 2024-06-07 11:48:22
+date: 2024-06-06T14:31:43.761Z
+updated: 2024-06-07T14:31:43.761Z
 tags:
   - ai video
   - ai youtube
@@ -11,7 +11,7 @@ categories:
 description: "\"This Article Describes [Updated] 2024 Approved: How to Verify Your YouTube Account - a Simple Guide\""
 excerpt: "\"This Article Describes [Updated] 2024 Approved: How to Verify Your YouTube Account - a Simple Guide\""
 keywords: "\"YouTube Account Verification,Authenticate YouTube ID,YT Login Checking Process,Ensure YouTube Legitimacy,Confirm User YouTube ID,Validate YouTube Sign-Up,Secure Your YouTube Profile\""
-thumbnail: https://www.lifewire.com/thmb/mQGqL0eWRfBieVMGM5ZlJAtwh3c=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-use-a-mobile-boarding-pass-eb61458058f44011ad7ed012566127e4.jpg
+thumbnail: https://thmb.techidaily.com/aefba9f0ac6f593076f657b0dfeebc66593ffd1b9ade996e1956601a5424d0a8.jpg
 ---
 
 ## Streamlined Approach to Validate Your YT Identity
@@ -73,93 +73,26 @@ Follow @Richard Bennett
 
 ![](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
-##### Richard Bennett
-
- Oct 26, 2023• Proven solutions
-
-[0](#commentsBoxSeoTemplate)
-
-When it comes to sensitivity to light, no consumer-level camera sensor comes close in performance to the human eye. Many newbies to videography, though, don’t think about this when they use their camera indoors and discover that their recorded footage appears too dark.
-
-If you want to use your camera indoors as many YouTubers do, you’ll need to have extra light. But the solution is not as simple as surrounding yourself with lamps that are all randomly placed.
-
-Below, I’ll go into detail on how you can set up your lighting equipment to make your YouTube videos look good.
-
-| Table of Contents [Using Light You Already Have](#USING-LIGHT-YOU-ALREADY-HAVE) [Window Lighting](#Window-Lighting)[Home Lighting](#Home-Lighting) [Home Studio Lighting](#HOME-STUDIO-LIGHTING) [Light Control](#Light-Control)[3-Point Lighting](#Three-Point-Lighting)[4-Point Lighting](#four-point-lighting) |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-
-## Part 1: Using Light You Already Have
-
-Most beginner YouTubers light their videos with what they already have. That’s what I did to start as well. In the past, my video recording space consisted of natural sunlight coming from my window and ceiling light for times when the sunlight wasn’t strong enough.
-
-### 1.  Window Lighting
-
-The best thing about window lighting is that it’s free. The worst thing about it is that it’s uncontrollable. The amount of light you get in your video can vary with all the changes in the weather.
-
-Window lighting for me was especially difficult to work with because I live in a very rainy and cloudy city, Vancouver, Canada, where we pretty much just get three months of good sun.
-
-![  YouTube Video Lighting ](https://images.wondershare.com/filmora/article-images/window-lighting-comparison.jpg)
-
-Above are two freeze frames from one of Daniel's past window-lit vlogs. Although these two frames are both from the same vlog, you can see that the image on the right looks brighter due to clearer skies at that moment. These varying amounts of light is what you will have to deal with if you choose to light your YouTube video with window lighting.
-
-### 2. Home Lighting
-
-Home lighting is another source of light that many new YouTubers use. In the past, when my window light wasn’t strong enough to light my video recording space, I would turn on the ceiling light.
-
-![Mixed Lighting](https://images.wondershare.com/filmora/article-images/home-lighting-for-youtube-videos.jpg)
-
-Notice how the color of Daniel's skin looks much more orange here (above) than the color of the skin in the two side-by-side window lighting examples? The side of the face also appears to look bluer. This all happened because he mixed up different color temperatures shining out of the two lights (cooler window light and warmer ceiling light).
-
-Most home lighting is warmer in its color temperature. If you want to use your home lights without everything being orange-tinted, you’ll need to switch out your light bulbs for daytime LED light bulbs.
-
-Ceiling lights are also typically situated in the center of a room in order to light an entire room evenly. This is not likely to be the best location for your filming video. Since the ceiling light was directly above the face in the above example, you can see harder shadows beneath his cheeks.
-
-## Part 2: Home Studio Lighting
-
-If you rather not deal with all the window and home lighting challenges, you can set up studio lighting in your home.
-
-### 1. Light Control
-
-The first thing you’ll want to do to set up studio lighting in your home is to pick a room to film in and eliminate as much external lighting as you can. Use blinds, curtains, towels, or any thick fabric to block sunlight from shining into your room.
-
-### 2. 3-Point Lighting
-
-The most common setup for studio lighting is 3-point lighting. For this kind of lighting you’ll need three lights: a key light, a fill light, and a back light (also called a hair light).
-
-![3-Point Lighting](https://images.wondershare.com/filmora/article-images/youtube-lighting-3-point-lighting.jpg)
-
-Out of the three lights, the key light should be the brightest. When it is positioned to the left of you (as shown in the diagram above) your right side will have shadows.
-
-To minimize the shadows on your right side, use a weaker light as a fill light. You don’t want your fill light to completely eliminate all your shadows or else your shot will look flat.
-
-Lastly, a backlight positioned behind you can give an appealing highlight to the ends of your head and even help to separate your hair from blending into your background if both happen to be dark.
-
-### 3. 4-Point Lighting
-
-As a YouTuber, you may not only want yourself to be seen optimally with proper lighting, but you may also want your background to be seen optimally, especially if you’ve taken the time to decorate it for your audience.
-
-What you’ll need to ensure that your background is sufficiently lit is 4-point lighting setup. The 4-point lighting setup is the same as a 3-point lighting setup, but with an additional light shining at your background.
-
-For more information on lighting equipment, check out my [Top 17 Video Lighting Equipment For YouTubers](https://www.filmora.io/community-blog/top-17-video-lighting-equipment-for-youtubers-440.html).
-
-### Touch Up YouTube Videos with Filmora
-
-[Filmora](https://tools.techidaily.com/wondershare/filmora/download/) is one of the best video editing software for YouTube beginners to start the YouTube channel. So, if you find the lighting isn't perfect after recording, you can use the Auto Color Enhancement feature in Filmora to adjust the color with one-click. Or, you can change the white balance, Light, color, and HSL manually. Filmora also features some presets and [LUTs templates](https://tools.techidaily.com/wondershare/filmora/download/), which allows you to apply pre-programmed effects to video for color correction faster.
-
-[![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
-
-![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
-
-Richard Bennett
-
-Richard Bennett is a writer and a lover of all things video.
-
-Follow @Richard Bennett
-
-
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-7571918770474297"
-     data-ad-slot="8358498916"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/updated-focus-on-the-essentials-the-compreenas-for-removing-youtube-channels-for-2024/"><u>[Updated] Focus on the Essentials  The Compreenas for Removing Youtube Channels for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-freedom-from-popups-discover-the-top-7-android-adblock-apps/"><u>[New] In 2024, Freedom From Popups? Discover the Top 7 Android AdBlock Apps</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-hands-on-tips-for-masterful-video-edits-with-youtube-studio-for-2024/"><u>[New] Hands-On Tips for Masterful Video Edits with YouTube Studio for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-make-an-impression-with-youtube-clips-step-by-step-into-the-world-of-gif-making/"><u>[Updated] Make an Impression With YouTube Clips  Step-by-Step Into the World of Gif Making</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-growth-gamble-buying-popularity-or-authentic-audience-expansion-in-2024/"><u>[New] Growth Gamble  Buying Popularity or Authentic Audience Expansion, In 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-flawless-online-invitation-crafting-youtube-subscription-buttons/"><u>[Updated] 2024 Approved  Flawless Online Invitation  Crafting YouTube Subscription Buttons</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-use-creative-commons-copyright-licenses-in-2024/"><u>[Updated] How to Use Creative Commons Copyright Licenses, In 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-gamer-friendly-video-capture-apps/"><u>[New] 2024 Approved  Gamer-Friendly Video Capture Apps</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-get-rid-of-youtube-distractions-ad-blocking-on-chrome-firefox-and-ios/"><u>[New] In 2024, Get Rid of YouTube Distractions  Ad-Blocking on Chrome, Firefox & iOS</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-google-meet-live-streaming-for-beginners-stepwise-guide-to-youtube/"><u>[Updated] 2024 Approved  Google Meet Live-Streaming for Beginners  Stepwise Guide to YouTube</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-creating-engaging-facebook-covers-best-practices-unveiled-for-2024/"><u>[New] Creating Engaging Facebook Covers  Best Practices Unveiled for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/2024-approved-os-x-mavericks-the-ultimate-mp4-file-editor/"><u>2024 Approved OS X Mavericks The Ultimate MP4 File Editor</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/in-2024-unlock-the-full-potential-of-your-fb-timeline/"><u>In 2024, Unlock the Full Potential of Your FB Timeline</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-fb-content-takedown-what-are-your-rights-and-recourse/"><u>[New] 2024 Approved  FB Content Takedown  What Are Your Rights and Recourse?</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-youtube-banner-tactics-dos-and-donts-for-optimal-visibility/"><u>[Updated] YouTube Banner Tactics  Dos and Don'ts for Optimal Visibility</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-unveiling-hidden-spaces-discovering-your-yt-comments/"><u>2024 Approved  Unveiling Hidden Spaces  Discovering Your YT Comments</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/recommended-best-applications-for-mirroring-your-vivo-y100-5g-screen-drfone-by-drfone-android/"><u>Recommended Best Applications for Mirroring Your Vivo Y100 5G Screen | Dr.fone</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-unleashing-creativity-with-vn-video-editor-on-pc-a-review/"><u>New Unleashing Creativity with VN Video Editor on PC A Review</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-a-collection-of-the-most-engrossing-amusing-ig-accounts/"><u>[Updated] In 2024, A Collection of The Most Engrossing, Amusing IG Accounts</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-compile-the-best-6-leading-apps-for-fb-lite-video-downloads/"><u>[Updated] Compile the Best  6 Leading Apps for FB Lite Video Downloads</u></a></li>
+</ul></div>

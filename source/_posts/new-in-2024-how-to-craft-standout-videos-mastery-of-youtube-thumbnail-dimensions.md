@@ -1,7 +1,7 @@
 ---
 title: "\"[New] In 2024, How to Craft Standout Videos  Mastery of YouTube Thumbnail Dimensions\""
-date: 2024-06-04 12:26:15
-updated: 2024-06-07 12:36:28
+date: 2024-06-06T15:46:36.155Z
+updated: 2024-06-07T15:46:36.155Z
 tags:
   - ai video
   - ai youtube
@@ -11,7 +11,7 @@ categories:
 description: "\"This Article Describes [New] In 2024, How to Craft Standout Videos: Mastery of YouTube Thumbnail Dimensions\""
 excerpt: "\"This Article Describes [New] In 2024, How to Craft Standout Videos: Mastery of YouTube Thumbnail Dimensions\""
 keywords: "\"Video Mastery Guide,YouTube Thumbnails Art,Crafting Engaging Trailers,Thumbnail Design Tips,Standout Video Techniques,YouTube Brand Identity,Eye-Catching Thumbprints\""
-thumbnail: https://www.lifewire.com/thmb/3zMdgx5u-I1b9AlTuItMhiE6wWQ=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/erik-lucatero-VcOwZMahmCQ-unsplash-7714083297a048f3848156a836a80b13.jpg
+thumbnail: https://thmb.techidaily.com/b46b34fd5ad4244a5b3542fda6e0ba281358e5c36628241992e02c966a06886d.jpg
 ---
 
 ## How to Craft Standout Videos: Mastery of YouTube Thumbnail Dimensions
@@ -156,74 +156,25 @@ Follow @Richard Bennett
 
 ![](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
-##### Richard Bennett
-
- Oct 26, 2023• Proven solutions
-
-[0](#commentsBoxSeoTemplate)
-
-YouTube is forever recommending videos for you whether it's in your dashboard or next to the video you're already watching. In theory, these recommendations are based on your viewing habits and you're only directed to videos you're interested in.
-
-Except we all know that’s not always what happens.
-
-YouTube’s recommendations are based on more than just what you’ve watched and searched for, and sometimes even the data on that can get skewed over time. Not all your searches reflect your real tastes, and as your search history builds up the algorithm can start having trouble with all that data.
-
-Here’s what you can do about it:
-
-1. [**Manage Your Watch History**](#manage)
-2. [**Tell YouTube You Aren’t Interested**](#notinterested)
-3. [**But Why Does It Recommend Stuff I Don’t Like?**](#butwhy)
-
-## Manage Your Watch History
-
-![Manage Watch History](https://images.wondershare.com/filmora/article-images/manage-watch-history.jpg)
-
-Scroll to the bottom of any page on YouTube and you will see a button marked **History** with an hourglass icon. To access this feature using a mobile device, go to the **Account** tab and tap **History**.
-
-You will be able to completely clear your watch history, remove specific videos from it, or pause your history while you look at videos you don’t want a record of you visiting. By taking control of your history, you can make sure nothing you looked up on a random whim is reflected in your recommendations.
-
-If you are being recommended more things you aren’t interested in than things you are, you might want to clear your history completely and start fresh. Maybe your tastes have changed since YouTube started keeping track of them.
-
-## Tell YouTube You Aren’t Interested
-
-![Tell YouTube Not Interested](https://images.wondershare.com/filmora/article-images/tell-youtube-not-interested.jpg)
-
-Based on your watch history, YouTube knows what you like. However, they have no way of automatically collecting data on what kinds of videos you’d rather not see.
-
-What they do have is a system for you to flag recommendations you don’t like.
-
-Hover over the thumbnail of a video you don’t want to be recommended to you and a small icon that looks like three stacked dots will appear next to the title. Click on that, and then click **Not Interested**.
-
-When you tell YouTube you aren’t interested in certain videos they use that data to adjust what they recommend for you.
-
-## But Why Does It Recommend Stuff I Don’t Like?
-
-Your search/watch history is not the only thing that determines what YouTube recommends for you. Nobody outside of Google knows exactly how the algorithm works, but we do know one of the major factors influencing it is to watch **time**.
-
-Watch time refers to how a video effects the session time of a viewer. If a video has proven it can keep viewers on YouTube for longer it is more likely to get recommended, even if it isn't closely related to the interests of individual viewers. The ultimate goal of the algorithm is to keep you on the site longer. Part of that is recommending things, surely, you'll be interested in, and part of that is trying to get you interested in things that'll keep you around.
-
-  A video that is simply watched for longer, because it is engaging and can hold viewers’ attention for a long time, will have a high watch time. So will a video that is short, but which leads into a playlist which holds peoples’ attention. If a video is a frequent session starter – people see it outside of YouTube (i.e. in a Google search) and get to the site through it – then its watch time will be high because it is given credit for all of the time viewers are spending on YouTube watching other videos after they get there.
-
-The only way to stop certain types of videos from being recommended for you is to take advantage of the ‘not interested’ feature.
-
- Are you usually happy with YouTube's recommended videos?
-
-## What video editing software did YouTube suggested videos are used?
-
-[![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
-
-![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
-
-Richard Bennett
-
-Richard Bennett is a writer and a lover of all things video.
-
-Follow @Richard Bennett
-
-
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-7571918770474297"
-     data-ad-slot="8358498916"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-content-creator-to-earnings-expert-on-youtube/"><u>[Updated] In 2024, From Content Creator to Earnings Expert on YouTube</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-guide-to-10-top-ranked-entrepreneurial-youtube-platforms/"><u>[New] 2024 Approved  Guide to 10 Top-Ranked Entrepreneurial YouTube Platforms</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-global-scoreboard-the-premier-six-of-video-downloads/"><u>[New] In 2024, Global Scoreboard  The Premier Six of Video Downloads</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-get-your-hand-on-the-latest-50-youtube-promo-banners/"><u>[Updated] 2024 Approved  Get Your Hand on the Latest 50 YouTube Promo Banners</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-youtube-policies-versus-creative-commons-a-comparative-study/"><u>[New] Youtube Policies Versus Creative Commons  A Comparative Study</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-safeguard-your-videos-in-the-age-of-youtube/"><u>[New] In 2024, How to Safeguard Your Videos in the Age of YouTube</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-make-a-memorable-impact-with-youtubes-minis/"><u>[Updated] 2024 Approved  How to Make a Memorable Impact with Youtube's Minis</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-first-rate-screen-recorders-for-youtube-enthusiasts-for-2024/"><u>[New] First-Rate Screen Recorders for YouTube Enthusiasts for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-free-mcb-theme-images-templates-and-more/"><u>[New] 2024 Approved  Free MCB Theme Images, Templates & More</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/2024-approved-ten-simple-steps-to-acquire-igtv-media/"><u>2024 Approved  Ten Simple Steps to Acquire IGTV Media</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-fix-pokemon-go-route-not-working-on-oppo-reno-11f-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Pokemon Go Route Not Working On Oppo Reno 11F 5G? | Dr.fone</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-2024-approved-quick-fix-guide-resolving-auditory-import-problems-in-premiere-pro-2023/"><u>New 2024 Approved Quick-Fix Guide Resolving Auditory Import Problems in Premiere Pro 2023</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-6-appsservices-to-trace-any-lava-blaze-pro-5g-location-by-mobile-number-drfone-by-drfone-virtual-android/"><u>Top 6 Apps/Services to Trace Any Lava Blaze Pro 5G Location By Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-ultimate-powerdirector-24-review-a-comprehensive-dive-for-2024/"><u>The Ultimate PowerDirector '24 Review  A Comprehensive Dive for 2024</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-in-2024-how-to-add-audio-to-video-in-android/"><u>Updated In 2024, How to Add Audio to Video in Android</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-catchemall-celebrate-national-pokemon-day-with-virtual-location-on-vivo-s18-pro-drfone-by-drfone-virtual-android/"><u>In 2024, CatchEmAll Celebrate National Pokémon Day with Virtual Location On Vivo S18 Pro | Dr.fone</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-unveiling-the-money-map-a-3-step-guide-for-calculating-your-youtube-income/"><u>2024 Approved  Unveiling the Money Map  A 3-Step Guide for Calculating Your YouTube Income</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/the-real-strategy-behind-instagram-reels-for-2024/"><u>The Real Strategy Behind Instagram Reels for 2024</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/new-in-2024-crossing-the-line-guesting-in-friends-tiktok-shows/"><u>[New] In 2024, Crossing the Line  Guesting in Friends' TikTok Shows</u></a></li>
+</ul></div>

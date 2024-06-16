@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  From Passive Viewers to Earnings  YouTube's Monetization Mastery\""
-date: 2024-06-03 23:10:35
-updated: 2024-06-06 11:49:40
+date: 2024-06-06T14:15:28.575Z
+updated: 2024-06-07T14:15:28.575Z
 tags:
   - ai video
   - ai youtube
@@ -11,7 +11,7 @@ categories:
 description: "\"This Article Describes [New] 2024 Approved: From Passive Viewers to Earnings: YouTube's Monetization Mastery\""
 excerpt: "\"This Article Describes [New] 2024 Approved: From Passive Viewers to Earnings: YouTube's Monetization Mastery\""
 keywords: "YouTuber Earnings,Video Monetize,Online Ad Income,YouTube Revenue,Viewers Make Money,Earning From Videos,Profit Through Streams"
-thumbnail: https://www.lifewire.com/thmb/A1hfnW-9b0eVXXkLwD_6ei9mr2I=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/AE-lock-572ece975f9b58c34c0a2492.jpg
+thumbnail: https://thmb.techidaily.com/e086106512b2e9d753e081998408f58f33739fa1f0e7070951ebc50a7e45bfdb.jpg
 ---
 
 ## From Passive Viewers to Earnings: YouTube's Monetization Mastery
@@ -210,85 +210,23 @@ Follow @Richard Bennett
 
 ![](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
-##### Richard Bennett
-
- Oct 26, 2023• Proven solutions
-
-[0](#commentsBoxSeoTemplate)
-
-In order to properly market your page on YouTube for sharing across social media, it is essential that you find your YouTube channel URL. How else can you share your channel? In this article, we are trying to give you a thorough understanding of the YouTube Channel URL and tell you how to get the custom channel URL.
-
-## Types of YouTube Channel URL
-
-**ID-based URL**
-
-YouTube channel URL of this type is based on your channel ID, which consists of numbers and letters. This is the URL of the universal form. For example, "youtube.com/channel/specific YouTube channel ID".
-
-You can **find the YouTube channel URL** of this kind by the following steps.
-
-1. Sign in to Youtube.com and click on your profile icon.
-2. Select Your Channel.
-3. Find the URL on the address bar of your browser. This is exactly the ID-based URL or the standard URL of your channel.
-
-**Legacy username URL**
-
-Legacy username URL was used by YouTube in the past. If you created your channel in the early days of YouTube, the URL for your channel might contain the username at the end. Although YouTube doesn't apply username to forming channel URL anymore, you can still use this URL to direct to Your channel. But you should note that the exiting username can't be changed even if you have changed your channel name. For example, "youtube.com/channel/specific YouTube channel ID".
-
-You can share the short form of the username URL with the "**/user**" being left out, such as "youtube.com/specific YouTube channel ID". But this may not be available if someone claimed to a custom URL whose short form is the same with the short form of your username URL.
-
-**Custom URL**
-
-This is a shorter and more easy-to-remember URL that is generated on the basis of your current display name, legacy username, or your linked and verified domain. You can claim for the custom URL if your channel meets certain qualifications.
-
-The custom URL looks like this, "youtube.com/c/display name, legacy username, or your linked and verified domain". You can also share this URL in its shorter form by leaving out the "**/c**", for example, "youtube.com/customed part".
-
-## **How to Get a Custom URL for your YouTube Channel**
-
-To qualify for a custom URL – one which includes your channel name instead of a random sequence of letters, your channel needs to meet the following standards.
-
-* Be at least 30 days old
-* Have at least 100 subscribers
-* Use a photo for the channel icon
-* Have uploaded channel art
-
-As long as your account meets these eligibility standards, then you can go over the following steps to claim a custom URL for your YouTube channel.
-
-   1. Start by signing into YouTube.
-   2. Click on your profile image on the top right of the screen.
-   3. Find the "settings" and click on it.
-   4. Select "Advanced settings".
-   5. Click on the link anchored with the word "here".
-   6. The "Get a custom URL" box will then pop out. You can select one from the approved options. You may need to add a suffix to make the URL of your channel to be unique.
-   7. Read the "Terms of use" carefully and then click on the **change URL**.
-
-Custom YouTube channel URLs are easier for your fans to remember, but once you have one, you can never change it. Your existing subscribers will automatically redirect to your new URL if they try to get to your channel through the old URL.
-
-## Where to Find Your **Custom URL Once You Successfully Claimed for It?**
-
-After you successfully get the custom URL, you may want to know where you can find the custom URL and therefore you can share it anywhere you like. The way to find your custom URL is exactly the same as how you created it. You can get back to the "Advanced settings" by following the above-mentioned steps. You'll find the custom URL lies right there under your user ID and channel ID.
-
-Who read this article also read:
-
-[Good YouTube Names Generators + How to Brainstorm>>](https://tools.techidaily.com/wondershare/filmora/download/)
-
-[How to Make a YouTube Subscribe Link - Easy!>>](https://tools.techidaily.com/wondershare/filmora/download/)
-
-If you want to find a video editing solution that empowers your imagination and creativity yet takes less effort, please try this robust and user-friendly video editing software **Wondershare Filmora**. It provides special effects, stock photo & video, sound library, etc., which will definitely enhance your productivity and helps to make money by making videos much accessible.
-
-[![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
-
-![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
-
-Richard Bennett
-
-Richard Bennett is a writer and a lover of all things video.
-
-Follow @Richard Bennett
-
-
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-7571918770474297"
-     data-ad-slot="8358498916"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-gourmet-guides-leading-food-vloggers-online-for-2024/"><u>[New] Gourmet Guides  Leading Food Vloggers Online for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-run-a-sports-youtube-chain-on-macos/"><u>[New] In 2024, How to Run a Sports YouTube Chain on MacOS</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-ordinary-to-extraordinary-elevate-youtube-thumbnails-with-backgrounds/"><u>[New] In 2024, From Ordinary to Extraordinary  Elevate YouTube Thumbnails with Backgrounds</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-how-to-add-captions-to-youtube-videos-for-2024/"><u>[New] How To Add Captions to YouTube Videos for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-game-development-behind-the-scenes/"><u>[New] In 2024, Game Development Behind-the-Scenes</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-gain-free-photo-footage-via-essential-4-youtube-picks/"><u>[Updated] 2024 Approved  Gain Free Photo Footage via Essential 4 YouTube Picks</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-how-to-fix-the-youtube-shorts-not-showing-up-issue-in-2024/"><u>[New] How to Fix the YouTube Shorts Not Showing Up Issue, In 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-get-noticed-on-youtube-the-ultimate-list-of-freefire-tag-tips/"><u>[Updated] 2024 Approved  Get Noticed on YouTube  The Ultimate List of FreeFire Tag Tips</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/top-10-affordable-online-communication-apps-for-video-calls-for-2024/"><u>Top 10 Affordable Online Communication Apps for Video Calls for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-smooth-transitions-in-photography-mastering-face-focused-motion-blur-in-picsart/"><u>[New] Smooth Transitions in Photography  Mastering Face-Focused Motion Blur in Picsart</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-innovative-approaches-to-combine-yt-videos-with-ppt-formats/"><u>[New] Innovative Approaches to Combine YT Videos with PPT Formats</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-unplugged-fun-your-guide-to-the-best-indoor-android-games-for-2024/"><u>[Updated] Unplugged Fun  Your Guide to the Best Indoor Android Games for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-the-ultimate-check-comparing-bandicams-performance-to-competitors/"><u>[Updated] The Ultimate Check  Comparing Bandicam's Performance to Competitors</u></a></li>
+<li><a href="https://howto.techidaily.com/fixes-for-apps-keep-crashing-on-samsung-galaxy-a54-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixes for Apps Keep Crashing on Samsung Galaxy A54 5G | Dr.fone</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/best-discord-alternatives-you-should-try/"><u>Best Discord Alternatives You Should Try</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/all-about-factory-reset-what-is-it-and-what-it-does-to-your-samsung-galaxy-f34-5g-drfone-by-drfone-reset-android-reset-android/"><u>All About Factory Reset, What Is It and What It Does to Your Samsung Galaxy F34 5G? | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-unlock-realme-c53-phone-password-without-factory-reset-full-guide-here-by-drfone-android/"><u>In 2024, Unlock Realme C53 Phone Password Without Factory Reset Full Guide Here</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Crafting Visuals  The Science of YouTube Banners & Thumbnails for 2024\""
-date: 2024-06-03 13:42:39
-updated: 2024-06-04 11:18:49
+date: 2024-06-06T16:21:25.543Z
+updated: 2024-06-07T16:21:25.543Z
 tags:
   - ai video
   - ai youtube
@@ -11,7 +11,7 @@ categories:
 description: "\"This Article Describes [Updated] Crafting Visuals: The Science of YouTube Banners & Thumbnails for 2024\""
 excerpt: "\"This Article Describes [Updated] Crafting Visuals: The Science of YouTube Banners & Thumbnails for 2024\""
 keywords: "\"YouTuber Visuals,Video Banner Art,Thumbnail Design,YouTube Promotion,Engaging Video Cover,Videography Marketing,Image-Based Branding\""
-thumbnail: https://www.lifewire.com/thmb/cVhsk1KZzN-XhDKwUIawjXmHYNA=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-1136013780-d3927e7c6e964d4ca357aae0781afb99.jpg
+thumbnail: https://thmb.techidaily.com/3b240b43c93d639302106c546caada2668474e961bc69741ec2bb6713c7a134f.jpg
 ---
 
 ## Crafting Visuals: The Science of YouTube Banners & Thumbnails
@@ -78,3 +78,30 @@ Richard Bennett
 Richard Bennett is a writer and a lover of all things video.
 
 Follow @Richard Bennett
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-how-to-get-more-video-views-on-youtube-for-2024/"><u>[New] How To Get More Video Views on YouTube for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-the-essential-guide-to-youtube-edits-with-premiere-pro/"><u>[New] The Essential Guide to YouTube Edits with Premiere Pro</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-free-youtube-endings-that-stand-out-ranked-for-2024/"><u>[Updated] Free YouTube Endings That Stand Out - Ranked for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-enhancing-follows-into-genuine-subscriptions/"><u>[Updated] 2024 Approved  Enhancing Follows Into Genuine Subscriptions</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-from-raw-footage-to-polished-highlights-for-2024/"><u>[New] From Raw Footage to Polished Highlights for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-free-and-uncomplicated-youtube-image-extractor-tools-reviewed/"><u>[Updated] In 2024, Free and Uncomplicated YouTube Image Extractor Tools Reviewed</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-filmmakers-toolkit-making-compelling-youtube-trailers/"><u>[Updated] In 2024, Filmmaker's Toolkit  Making Compelling YouTube Trailers</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/2024-approved-the-triumvirate-of-premium-mp3-sound-enhancement-services-online/"><u>2024 Approved The Triumvirate of Premium MP3 Sound Enhancement Services Online</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-explore-the-globe-in-one-frame-iphone-360-video-guide/"><u>[New] Explore the Globe in One Frame  IPhone 360 Video Guide</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/a-comprehensive-list-of-the-best-10-low-cost-video-production-schools-on-youtube-for-2024/"><u>A Comprehensive List of the Best 10 Low-Cost Video Production Schools on YouTube for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-ultimate-shoppers-list-select-box-personalization-sites/"><u>In 2024, Ultimate Shopper's List  Select Box Personalization Sites</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/2024-approved-best-free-audio-cutters-online/"><u>2024 Approved Best Free Audio Cutters Online</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-zte-blade-a73-5g-by-drfone-android/"><u>In 2024, AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your ZTE Blade A73 5G</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-unraveling-the-imovie-video-edge-policy/"><u>2024 Approved  Unraveling the iMovie Video Edge Policy</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-techniques-to-transfer-data-from-vivo-s18e-to-iphone-15141312-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Techniques to Transfer Data from Vivo S18e to iPhone 15/14/13/12 | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/instagram-visuals-to-audio-step-by-step-guide/"><u>Instagram Visuals to Audio  Step-by-Step Guide</u></a></li>
+</ul></div>
+
+<ins class="adsbygoogle"
+      style="display:block"
+      data-ad-client="ca-pub-7571918770474297"
+      data-ad-slot="8358498916"
+      data-ad-format="auto"
+      data-full-width-responsive="true"></ins>

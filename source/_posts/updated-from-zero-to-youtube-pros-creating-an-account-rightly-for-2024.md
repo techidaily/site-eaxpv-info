@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] From Zero to YouTube Pros  Creating an Account Rightly for 2024\""
-date: 2024-06-04 15:37:11
-updated: 2024-06-06 11:26:24
+date: 2024-06-06T13:54:13.527Z
+updated: 2024-06-07T13:54:13.527Z
 tags:
   - ai video
   - ai youtube
@@ -11,7 +11,7 @@ categories:
 description: "\"This Article Describes [Updated] From Zero to YouTube Pros: Creating an Account Rightly for 2024\""
 excerpt: "\"This Article Describes [Updated] From Zero to YouTube Pros: Creating an Account Rightly for 2024\""
 keywords: "YouTuber Basics,Video Creator Guide,YouTube Signup Tips,Channel Formatting Tricks,Content Marketing Strategies,Streamlining Account Setup,Professionalizing Your Channels"
-thumbnail: https://www.lifewire.com/thmb/XUH2PwYnQnxL2aJCYqzrM26jUr0=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/Four_Types_Of-AI-ddd77c84af074c66987f6e8e6cdfa0a0.jpeg
+thumbnail: https://thmb.techidaily.com/61e5e75a143019f7f7c8689be3de97fce55d395ac791171ba491fd10d2883ba4.jpeg
 ---
 
 ## From Zero to YouTube Pros: Creating an Account Rightly
@@ -105,60 +105,22 @@ Follow @Richard Bennett
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
-##### Richard Bennett
-
- Mar 27, 2024• Proven solutions
-
-By captioning your YouTube videos you help to make them accessible to more potential viewers. Subtitles are useful to viewers who have hearing impairments, whose first language is different from yours, or who are unable to watch your video with sound. Closed captioning can also be useful for you as a YouTuber because it helps with your SEO, or search engine optimization. Practicing better SEO can get your videos ranked higher in search results. Google and YouTube both index subtitles and transcripts much like they do your video’s description, unless you use automated captions.
-
-This article will first explain how you can turn on subtitles for the videos you watch and then walk you through adding captions to your own videos.
-
-## How To Turn On Captions on YouTube
-
-In order for you to be able to view subtitles for a YouTube video the uploader of the video will need to have added them, unless you change your account settings to display automatic captions.
-
-![captions](https://images.wondershare.com/filmora/article-images/captions-how-to-turn-on.JPG)
-
-To toggle subtitles on and off click on the Closed Captioning icon in the bottom right of your video player.
-
-If the creator of the video has not added captions then you can enable automatic captions by going into your **Account Settings** and selecting **Playback**. Check the box next to **Always Show Captions**, and then check   **Show Automatic Captions by Speech Recognition**. These captions may be flawed, but you will still be able to see the more accurate user submitted captions on videos that have them. The **Always Show Captions** feature may be useful not only to the hearing impaired, but to users who do not speak the same language as the video producer.
-
-If you want to change the language of the subtitles click on the settings icon (the one that looks like a gear) next to the closed captioning icon and choose your language next to   **Subtitles/CC** . If the language you want is not there select **Auto-Translate**  and then pick a language. Google Translate will be used to generate subtitles in your chosen language.
-
-## Adding YouTube Captions in 4 Steps
-
-1\. Go to **Video Manager** in your **Creator Studio** and then look at your videos. Decide which one you want to add captions to.
-
-2\. Click on the drop-down menu next to the video you want to add captions to and choose **Subtitles and CC**.
-
-3\. Select **Add New** **Subtitles or CC**.
-
-4\. Choose whether to create your captions, upload a file that has them, transcribe your video, use automatic captioning, or use captioning software.
-
-**Create Subtitles or Closed Captions** will allow you to create your subtitles on YouTube.
-
-**Upload A File** allows you to upload a pre-made subtitle file from your computer. Supported file types include SubRip (.srt) and SubViewer (.sbv). You cannot use a word or PDF document for your subtitles.
-
-**Transcribe and Set Timings** is where you can type a transcript of your video and set timings to sync it to your video. This differs from Create Subtitles or Closed Captions in that your transcript is all typed in to one text field.
-
-**Use Automatic Captioning** will automatically use speech recognition technology to create captions. You can edit these auto-generated captions later if there are mistakes.
-
-**Use Captioning Software or Services** is what you choose if you want to use a program or service to create the subtitles for your video.
-
-The easiest way to add subtitles to your videos is to use **Automatic Captioning**. However, Automatic Captioning is imperfect and may result in your viewers getting a sloppy, skewed, interpretation of your video. Automatic captions are also not indexed by YouTube and Google the way subtitles you create or upload are. This means that they will not have any value to your SEO strategy. If you do not input your own captions or transcript you are missing out on an opportunity for better search engine rankings. Automatic Captions are great if you do not have time to input subtitles and need a temporary solution, though.
-
-![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
-
-Richard Bennett
-
-Richard Bennett is a writer and a lover of all things video.
-
-Follow @Richard Bennett
-
-
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-7571918770474297"
-     data-ad-slot="8358498916"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-funny-faces-crafting-7-cheeky-youtube-comedy-videos/"><u>[Updated] 2024 Approved  Funny Faces  Crafting 7 Cheeky YouTube Comedy Videos</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-assemble-a-personalized-youtube-music-list/"><u>[New] In 2024, How to Assemble a Personalized YouTube Music List</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-growth-galore-strategies-for-surpassing-yield-with-youtube-mobile-audiences/"><u>[Updated] 2024 Approved  Growth Galore  Strategies for Surpassing Yield with YouTube Mobile Audiences</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-locate-your-youtube-fanbase/"><u>[Updated] In 2024, How to Locate Your YouTube Fanbase</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-efficient-ways-to-clean-your-youtube-watch-later-playlist/"><u>[New] 2024 Approved  Efficient Ways to Clean Your YouTube Watch Later Playlist</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-convert-youtube-to-mp3-in-3-ways-safe/"><u>[New] 2024 Approved  How to Convert YouTube to MP3 in 3 Ways [Safe]</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-monetizing-content-understanding-youtubes-cpm/"><u>[Updated] Monetizing Content  Understanding YouTube's CPM</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-kinemaster-advanced-perfecting-visual-continuity/"><u>2024 Approved  Kinemaster Advanced  Perfecting Visual Continuity</u></a></li>
+<li><a href="https://location-fake.techidaily.com/5-hassle-free-solutions-to-fake-location-on-find-my-friends-of-itel-p55t-drfone-by-drfone-virtual-android/"><u>5 Hassle-Free Solutions to Fake Location on Find My Friends Of Itel P55T | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-to-bypass-asus-rog-phone-8-frp-in-3-different-ways-by-drfone-android/"><u>How To Bypass Asus ROG Phone 8 FRP In 3 Different Ways</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-corrupted-pdf-v12-file-when-manual-method-fails-stellar-by-stellar-guide/"><u>How to repair corrupted PDF v1.2 file when manual method fails | Stellar</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-the-ultimate-collection-of-top-ranked-cost-free-youtube-short-video-downloader-apps/"><u>[Updated] The Ultimate Collection of Top-Ranked, Cost-Free YouTube Short Video Downloader Apps</u></a></li>
+<li><a href="https://location-social.techidaily.com/does-find-my-friends-work-on-samsung-galaxy-f04-drfone-by-drfone-virtual-android/"><u>Does find my friends work on Samsung Galaxy F04 | Dr.fone</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-leveraging-obs-for-smooth-streaming-mac-and-pc-users-guide/"><u>[Updated] In 2024, Leveraging OBS for Smooth Streaming  Mac & PC Users' Guide</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/theta-s-reviewed-detailed-performance-insights/"><u>Theta S Reviewed  Detailed Performance Insights</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-mastering-youtube-frames-top-5-cost-free-techniques/"><u>[Updated] Mastering YouTube Frames  Top 5 Cost-Free Techniques</u></a></li>
+</ul></div>

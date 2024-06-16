@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  Best 16 YouTube Intro Makers to Bring You More Views\""
-date: 2024-06-06 22:25:32
-updated: 2024-06-07 10:52:43
+date: 2024-06-06T15:14:04.342Z
+updated: 2024-06-07T15:14:04.342Z
 tags:
   - ai video
   - ai youtube
@@ -331,93 +331,26 @@ Follow @Richard Bennett
 
 ![](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
-##### Richard Bennett
-
- Oct 26, 2023• Proven solutions
-
-[0](#commentsBoxSeoTemplate)
-
-When it comes to sensitivity to light, no consumer-level camera sensor comes close in performance to the human eye. Many newbies to videography, though, don’t think about this when they use their camera indoors and discover that their recorded footage appears too dark.
-
-If you want to use your camera indoors as many YouTubers do, you’ll need to have extra light. But the solution is not as simple as surrounding yourself with lamps that are all randomly placed.
-
-Below, I’ll go into detail on how you can set up your lighting equipment to make your YouTube videos look good.
-
-| Table of Contents [Using Light You Already Have](#USING-LIGHT-YOU-ALREADY-HAVE) [Window Lighting](#Window-Lighting)[Home Lighting](#Home-Lighting) [Home Studio Lighting](#HOME-STUDIO-LIGHTING) [Light Control](#Light-Control)[3-Point Lighting](#Three-Point-Lighting)[4-Point Lighting](#four-point-lighting) |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-
-## Part 1: Using Light You Already Have
-
-Most beginner YouTubers light their videos with what they already have. That’s what I did to start as well. In the past, my video recording space consisted of natural sunlight coming from my window and ceiling light for times when the sunlight wasn’t strong enough.
-
-### 1.  Window Lighting
-
-The best thing about window lighting is that it’s free. The worst thing about it is that it’s uncontrollable. The amount of light you get in your video can vary with all the changes in the weather.
-
-Window lighting for me was especially difficult to work with because I live in a very rainy and cloudy city, Vancouver, Canada, where we pretty much just get three months of good sun.
-
-![  YouTube Video Lighting ](https://images.wondershare.com/filmora/article-images/window-lighting-comparison.jpg)
-
-Above are two freeze frames from one of Daniel's past window-lit vlogs. Although these two frames are both from the same vlog, you can see that the image on the right looks brighter due to clearer skies at that moment. These varying amounts of light is what you will have to deal with if you choose to light your YouTube video with window lighting.
-
-### 2. Home Lighting
-
-Home lighting is another source of light that many new YouTubers use. In the past, when my window light wasn’t strong enough to light my video recording space, I would turn on the ceiling light.
-
-![Mixed Lighting](https://images.wondershare.com/filmora/article-images/home-lighting-for-youtube-videos.jpg)
-
-Notice how the color of Daniel's skin looks much more orange here (above) than the color of the skin in the two side-by-side window lighting examples? The side of the face also appears to look bluer. This all happened because he mixed up different color temperatures shining out of the two lights (cooler window light and warmer ceiling light).
-
-Most home lighting is warmer in its color temperature. If you want to use your home lights without everything being orange-tinted, you’ll need to switch out your light bulbs for daytime LED light bulbs.
-
-Ceiling lights are also typically situated in the center of a room in order to light an entire room evenly. This is not likely to be the best location for your filming video. Since the ceiling light was directly above the face in the above example, you can see harder shadows beneath his cheeks.
-
-## Part 2: Home Studio Lighting
-
-If you rather not deal with all the window and home lighting challenges, you can set up studio lighting in your home.
-
-### 1. Light Control
-
-The first thing you’ll want to do to set up studio lighting in your home is to pick a room to film in and eliminate as much external lighting as you can. Use blinds, curtains, towels, or any thick fabric to block sunlight from shining into your room.
-
-### 2. 3-Point Lighting
-
-The most common setup for studio lighting is 3-point lighting. For this kind of lighting you’ll need three lights: a key light, a fill light, and a back light (also called a hair light).
-
-![3-Point Lighting](https://images.wondershare.com/filmora/article-images/youtube-lighting-3-point-lighting.jpg)
-
-Out of the three lights, the key light should be the brightest. When it is positioned to the left of you (as shown in the diagram above) your right side will have shadows.
-
-To minimize the shadows on your right side, use a weaker light as a fill light. You don’t want your fill light to completely eliminate all your shadows or else your shot will look flat.
-
-Lastly, a backlight positioned behind you can give an appealing highlight to the ends of your head and even help to separate your hair from blending into your background if both happen to be dark.
-
-### 3. 4-Point Lighting
-
-As a YouTuber, you may not only want yourself to be seen optimally with proper lighting, but you may also want your background to be seen optimally, especially if you’ve taken the time to decorate it for your audience.
-
-What you’ll need to ensure that your background is sufficiently lit is 4-point lighting setup. The 4-point lighting setup is the same as a 3-point lighting setup, but with an additional light shining at your background.
-
-For more information on lighting equipment, check out my [Top 17 Video Lighting Equipment For YouTubers](https://www.filmora.io/community-blog/top-17-video-lighting-equipment-for-youtubers-440.html).
-
-### Touch Up YouTube Videos with Filmora
-
-[Filmora](https://tools.techidaily.com/wondershare/filmora/download/) is one of the best video editing software for YouTube beginners to start the YouTube channel. So, if you find the lighting isn't perfect after recording, you can use the Auto Color Enhancement feature in Filmora to adjust the color with one-click. Or, you can change the white balance, Light, color, and HSL manually. Filmora also features some presets and [LUTs templates](https://tools.techidaily.com/wondershare/filmora/download/), which allows you to apply pre-programmed effects to video for color correction faster.
-
-[![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
-
-![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
-
-Richard Bennett
-
-Richard Bennett is a writer and a lover of all things video.
-
-Follow @Richard Bennett
-
-
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-7571918770474297"
-     data-ad-slot="8358498916"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-fresh-inspirations-for-streaming-topics/"><u>[New] In 2024, Fresh Inspirations for Streaming Topics</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-fast-track-to-short-video-treasure-troves-free-access/"><u>[Updated] In 2024, Fast Track to Short Video Treasure Troves (Free Access)</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-from-wanderlusts-to-web-presence-your-strategy-for-professional-blogging-success-for-2024/"><u>[Updated] From Wanderlusts To Web Presence  Your Strategy for Professional Blogging Success for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-free-to-fortune-unlocking-youtubes-earnings-at-the-500-subscriber-level/"><u>[Updated] In 2024, From Free to Fortune  Unlocking YouTube's Earnings at the 500 Subscriber Level</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-turning-your-youtube-shorts-into-earnings-what-you-need-and-how-much/"><u>[Updated] Turning Your YouTube Shorts Into Earnings  What You Need & How Much?</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-best-iphone-and-android-photo-and-video-capture-applications-reviewed/"><u>[Updated] 2024 Approved  Best iPhone & Android Photo & Video Capture Applications Reviewed</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-financial-insights-for-vids-how-much-do-youtubers-earn-per-sponsorship/"><u>[New] In 2024, Financial Insights for Vids  How Much Do YouTubers Earn Per Sponsorship?</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-fine-tune-youtube-video-pacing-desktopmobile/"><u>[New] In 2024, Fine-Tune YouTube Video Pacing - Desktop/Mobile</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-mix-text-and-video-on-a-shoestring-budget-for-2024/"><u>[Updated] How to Mix Text & Video on a Shoestring Budget for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-football-vids-premier-insights-into-youtube-tracks-for-2024/"><u>[Updated] Football Vids  Premier Insights Into YouTube Tracks for 2024</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/in-2024-rapid-method-for-silencing-audio-in-audacity-essential-tips/"><u>In 2024, Rapid Method for Silencing Audio in Audacity Essential Tips</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-in-2024-soundwave-shift-step-by-step-mp3-to-mp4-audio-file-transformation/"><u>Updated In 2024, Soundwave Shift Step-by-Step MP3 to MP4 Audio File Transformation</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-videos-on-xiaomi-redmi-12-by-fonelab-android-recover-video/"><u>How to restore wiped videos on Xiaomi Redmi 12</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-etsy-listing-image-ratio-advice-for-2024/"><u>[New] Etsy Listing Image Ratio Advice for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-pixel-pizzazz-top-10-screenshot-sticker-enhancers-for-iphonesandroids/"><u>2024 Approved  Pixel Pizzazz  Top 10 Screenshot Sticker Enhancers for iPhones/Androids</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-streamlining-success-strategies-for-daily-vlog-authenticity/"><u>In 2024, Streamlining Success  Strategies for Daily Vlog Authenticity</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-in-2024-unleash-your-creativity-13-windows-movie-maker-alternatives/"><u>New In 2024, Unleash Your Creativity 13 Windows Movie Maker Alternatives</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-easy-guide-how-to-bypass-xiaomi-redmi-13c-frp-android-10111213-by-drfone-android/"><u>In 2024, Easy Guide How To Bypass Xiaomi Redmi 13C FRP Android 10/11/12/13</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/unlock-the-full-potential-of-snapshots-on-iphones-for-2024/"><u>Unlock the Full Potential of Snapshots on iPhones for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-stay-on-top-the-essential-guide-to-fbs-latest-video-tracks/"><u>[Updated] Stay on Top  The Essential Guide to FB's Latest Video Tracks</u></a></li>
+</ul></div>

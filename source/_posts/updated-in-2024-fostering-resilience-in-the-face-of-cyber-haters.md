@@ -1,7 +1,7 @@
 ---
 title: "[Updated] In 2024, Fostering Resilience in the Face of Cyber Haters"
-date: 2024-06-05 18:49:45
-updated: 2024-06-06 10:47:32
+date: 2024-06-06T13:57:33.446Z
+updated: 2024-06-07T13:57:33.446Z
 tags:
   - ai video
   - ai youtube
@@ -11,7 +11,7 @@ categories:
 description: "This Article Describes [Updated] In 2024, Fostering Resilience in the Face of Cyber Haters"
 excerpt: "This Article Describes [Updated] In 2024, Fostering Resilience in the Face of Cyber Haters"
 keywords: "Cyber Hate Resilience,Online Negativity Growth,Digital Abuse Recovery,Cyberbullying Strength,Resilient Internet Use,Haters Online Defense,Digital Toughness Tips"
-thumbnail: https://www.lifewire.com/thmb/7qDbbPuSLzuZN4zFzJ05A8TCM0k=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/panos-sakalakis-525108-unsplash-5c76011f46e0fb00019b8cda.jpg
+thumbnail: https://thmb.techidaily.com/1b4d426689bd18514a96cb95968cc5a755b1ea7a22bc00e9feef5b8e8bfa78d1.jpg
 ---
 
 ## Fostering Resilience in the Face of Cyber Haters
@@ -73,80 +73,23 @@ Follow @Richard Bennett
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
-##### Richard Bennett
-
- Mar 27, 2024• Proven solutions
-
-One of the best things you can do for your video quality is to ensure you have great lighting. Viewers find poor lighting distracting and it's hard for them to see how great your content is if they are busy thinking about why your video is so dark. By creating a great lighting set up you can ensure that the people watching your videos are only thinking about how much they're enjoying them.
-
-Going outside and using natural light is the cheapest way to get a lot of light for your videos. If your vlog is not suited to the great outdoors then you need to get more strategic. You can turn on all the lights in your living room and still end up with a dark, grainy, video.
-
-## Video Lighting Basics: Three Point Lighting
-
-![ Lighting for YouTube Video](https://images.wondershare.com/filmora/article-images/three-point-lighting.jpg)
-
-The most common technique of lighting a scene is called **three-point lighting**. It involves three different sources of light in the shot and is used by portrait photographers, which is also a great method for lighting your vlog.
-
-The brightest source of light is also known as the **key light** which need to be high quality. A window will work, but if you do not have access to one where you are filming then consider an LED panel light or a softbox light like the ones used in portrait photography.
-
-This first light will create a dramatic shadow across half of your face. You want to reduce this shadow, but not get rid of it completely.
-
-Rather than setting up another light source on the opposite side of the camera, put up a reflector to bounce some light back onto your face. This reflector is called your **'Fill Light'**.
-
-The **fill light** is less bright than the primary source of light and it is placed on the side opposite to the key light. Its purpose is to reduce shadows produced by the key light and the reflector will need to be mounted on a stand.
-
-The final step to creating three point lighting is to set up another light behind you. This is your 'Backlight', and it will help you stand out from your background. **Backlight or Hair light** is always placed behind and above the subject to create separation between the subject in the shot and the background. This basic lighting technique can be applied in almost every scene you shoot, which is why it is important to keep an open mind and to continue experimenting with possible light setups.
-
-### Watch Video! Top Lighting Tips for Vlogging
-
-## Lightning Tips for Aspiring YouTube Videographers
-
-Becoming the master of light will take some time and practice, so it is crucial to remain curious and anxious to learn new tricks throughout that process if you want to continually become better. These tips will help you make the first steps on that journey.
-
-#### 1\.  Focus Your Key Light
-
-Try to focus your Key Light so that it lights only you and not your background. Do this by mounting anything that can cast a shadow onto your Key Light to control the area where the light hits. If you are using a window for your Key Light then you can use a curtain. If you use a softbox light then your light will already be somewhat focused.
-
-#### 2\. Use Natural Lighting
-
-The light provided by the Sun is still the best light source, you can have in your video. The trouble is that natural light changes quickly, which makes it highly unpredictable. The best way to deal with this challenge is to come prepared to the set and to get the shot you want as quickly as you can.
-
-#### 3\.  Try DIY Lightning
-
-Literally, anything from candles to LED light bulbs can serve as a source of light in a shot. You just need to pay attention to the light temperature, because warmer light sources may highlight reds and yellows that can make your footage look less realistic.
-
-#### 4\. Use Lightning Kits
-
-This is by far the best option if you want to be in complete control of the light on your set. You can adjust the intensity of the lights, use filters, diffusers and all sorts of other accessories to create the light that flatters the subjects of your videos. The only downside is that you'll have to spend a considerable amount of money if you want to have a professional lighting kit.
-
-#### 5\.  Set up reflectors
-
-Sets of reflectors are often under $50, so they are fairly affordable. However, some vloggers choose to forgo purchasing reflectors and make their own out of tinfoil.
-
-![lighting tips](https://images.wondershare.com/filmora/article-images/lighting-tips01.JPG)
-
-If your strong main light is too hard on your eyes then you can use a translucent 'reflector' to soften it. Set your translucent reflector, or other screen, up in front of your main light to diffuse it.
-
-If you are hosting a **beauty vlog** then you might consider a slightly different set up. Instead of having your main light off to one side set it up directly in front of you so your entire face is lit evenly. It is still a good idea to use fill lights in this set up to give you some dimension, and a backlight is even more essential for helping you stand out from the background. The even light hitting your face will also make you look flat if you do not use a backlight.
-
-![lighting tips](https://images.wondershare.com/filmora/article-images/lighting-tips02.JPG)
-
-If you are using all of the lighting options available to you and your video still looks too dark then you can try brightening it by **opening up the aperture of your camera** lens/setting a lower f-stop. Letting more light into your camera can help your footage look brighter, although you also run the risk of making things look overexposed/ washed out if you are not careful.
-
-If you are stuck shooting in **low light conditions** it is best to use a lens with a wider aperture/lower f-stop. This will make the best of the light you do have.
-
-![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
-
-Richard Bennett
-
-Richard Bennett is a writer and a lover of all things video.
-
-Follow @Richard Bennett
-
-
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-7571918770474297"
-     data-ad-slot="8358498916"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/updated-crafting-winning-titles-and-tags-for-your-youtube-videos-for-2024/"><u>[Updated] Crafting Winning Titles & Tags for Your YouTube Videos for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/in-2024-why-you-shouldnt-trust-your-eyes-when-it-comes-to-youtube-views/"><u>In 2024, Why You Shouldn't Trust Your Eyes When It Comes to YouTube Views</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-foremost-guide-to-youtube-equipment-for-rookies-for-2024/"><u>[Updated] Foremost Guide to YouTube Equipment for Rookies for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-efficiently-convert-youtube-to-desktop-format/"><u>[New] In 2024, Efficiently Convert YouTube to Desktop Format</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/the-5-key-players-to-triple-your-youtube-views-for-2024/"><u>The 5 Key Players to Triple Your YouTube Views for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-formulating-final-fact-finding-flourishes/"><u>[Updated] In 2024, Formulating Final Fact-Finding Flourishes</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-decoding-digital-dollars-an-effective-triple-step-process-to-determine-your-subscriber-profits/"><u>[Updated] In 2024, Decoding Digital Dollars  An Effective Triple Step Process to Determine Your Subscriber Profits</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-top-15-funny-youtube-channels-to-watch-when-youre-bored-for-2024/"><u>[New] Top 15 Funny YouTube Channels to Watch When You're Bored for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/mastering-speech-to-text-conversion-with-ms-word/"><u>Mastering Speech-to-Text Conversion with MS Word</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-exploring-the-dynamics-of-profit-distribution-in-video-shorts/"><u>[New] Exploring the Dynamics of Profit Distribution in Video Shorts</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-precision-techniques-for-efficient-keying-processes/"><u>2024 Approved  Precision Techniques for Efficient Keying Processes</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-easy-to-follow-guide-to-mobile-recording-snapchat-edition/"><u>[Updated] 2024 Approved  Easy-to-Follow Guide to Mobile Recording  Snapchat Edition</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/new-low-cost-mac-mp3-enhancer-tool-for-2024/"><u>New Low-Cost Mac MP3 Enhancer Tool for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-capturing-android-sounds-without-root-access-guide/"><u>2024 Approved  Capturing Android Sounds Without Root Access [Guide]</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-2024-approved-the-art-of-sound-integration-a-detailed-tutorial-on-video-audio-addition/"><u>Updated 2024 Approved The Art of Sound Integration A Detailed Tutorial on Video Audio Addition</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/in-2024-visuals-matter-on-tiktok-a-guide-to-altering-your-display/"><u>In 2024, Visuals Matter on TikTok  A Guide to Altering Your Display</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/craft-your-creative-identity-mastering-instagram-photowatermarking/"><u>Craft Your Creative Identity  Mastering Instagram Photowatermarking</u></a></li>
+</ul></div>

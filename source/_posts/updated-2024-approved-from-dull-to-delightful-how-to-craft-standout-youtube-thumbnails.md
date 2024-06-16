@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  From Dull to Delightful  How To Craft Standout YouTube Thumbnails\""
-date: 2024-06-05 18:19:28
-updated: 2024-06-06 10:12:28
+date: 2024-06-06T14:50:37.864Z
+updated: 2024-06-07T14:50:37.864Z
 tags:
   - ai video
   - ai youtube
@@ -11,7 +11,7 @@ categories:
 description: "\"This Article Describes [Updated] 2024 Approved: From Dull to Delightful: How To Craft Standout YouTube Thumbnails\""
 excerpt: "\"This Article Describes [Updated] 2024 Approved: From Dull to Delightful: How To Craft Standout YouTube Thumbnails\""
 keywords: "YT Thumbnail Design,Engaging Video Thumbnails,Boosting View Counts,Attractive YouTube Titles,Enhancing Video Visibility,Captivating Video Screenshots,Striking Image Titles"
-thumbnail: https://www.lifewire.com/thmb/5owBLzwnt_3v9IE_c1lfqXviKB8=/540x405/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-1322139186-40ca0a58cede45ecb6d18fb76538658b.jpg
+thumbnail: https://thmb.techidaily.com/2b0e79e191f0ed82f151a5598b1f3bbb7dbdcce948e1ec31321e7ff03bc36bee.jpg
 ---
 
 ## From Dull to Delightful: How To Craft Standout YouTube Thumbnails
@@ -99,75 +99,26 @@ Follow @Richard Bennett
 
 ![](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
-##### Richard Bennett
-
- Nov 01, 2022• Proven solutions
-
-[0](#commentsBoxSeoTemplate)
-
-Mirrorless cameras are great for vloggers wanting a powerful camera without the weight and size of a DSLR camera. As mirrorless cameras are becoming better with all the advancements in camera technology, more and more DSLR camera vloggers are switching over to vlogging with a mirrorless camera. Below is our list and review of the eight best mirrorless cameras for vlogging.
-
- | Table of Contents [What To Look For In A Vlogging Camera](#what-to-look-for-in-a-vlogging-camera)[The 8 Best Mirrorless Cameras For Vlogging (2018)](#the-8-best-mirrorless-cameras-for-vlogging-2018) [Best Daily Mirrorless Camera For Vlogging](#Best-daily-mirrorless-camera-for-vlogging)[Best Entry-Level Mirrorless Camera For Vlogging](#Best-entry-level-mirrorless-camera-for-vlogging)[Best Mid-Range Mirrorless Camera For Vlogging](#Best-mid-range-mirrorless-camera-for-vlogging)[Best Professional Mirrorless Camera For Vlogging](#Best-professional-mirrorless-camera-for-vlogging) |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-
-## WHAT TO LOOK FOR IN A VLOGGING CAMERA
-
-1\. Fully **articulated screen** (flip screen)
-
-2\. Good **continual autofocus** while recording video
-
-3\. Good focus priority through **face recognition**
-
-4\. Touch **to focus**
-
-5\. Good **low-light performance**
-
-6\. **external mic jack**, **hot/cold shoe** bracket
-
-7\. **optical image stabilization**
-
-8\. good **battery life**
-
-Check out my full list of [10 Things To Look For In A Vlogging Camera](https://tools.techidaily.com/wondershare/filmora/download/) to understand the importance of these camera features.
-
-## THE 8 BEST MIRRORLESS CAMERAS FOR VLOGGING (2018)
-
- | Camera                | Release Date                                                                                            | Sensor Size   | Flip Screen               | Mic Port          | Price   |        |
-| --------------------- | ------------------------------------------------------------------------------------------------------- | ------------- | ------------------------- | ----------------- | ------- | ------ |
-| CanonEOSM50           | ![Mirrorless Cameras 1](https://images.wondershare.com/filmora/article-images/mirrorless-cameras-1.png) | February2018  | APS-C(22.3 x 14.9 mm)     | Fully Articulated | **Yes** | $-    |
-| PanasonicLumixDC-GH5S | ![Mirrorless Cameras 2](https://images.wondershare.com/filmora/article-images/mirrorless-cameras-2.png) | January2018   | Four Thirds(19.2 x 13 mm) | Fully Articulated | **Yes** | $$$  |
-| SonyAlphaa7R III      | ![Mirrorless Cameras 3](https://images.wondershare.com/filmora/article-images/mirrorless-cameras-3.png) | October2017   | Full Frame(35.9 x 24 mm)  | **Tilting**       | **Yes** | $$$ |
-| CanonEOSM100          | ![Mirrorless Cameras 4](https://images.wondershare.com/filmora/article-images/mirrorless-cameras-4.png) | August2017    | APS-C(22.3 x 14.9 mm)     | Flip Up           | **No**  | $     |
-| CanonEOSM6            | ![Mirrorless Cameras 5](https://images.wondershare.com/filmora/article-images/mirrorless-cameras-5.png) | February2017  | APS-C(22.3 x 14.9 mm)     | Flip Up           | **Yes** | $-    |
-| SonyAlphaa6500        | ![Mirrorless Cameras 6](https://images.wondershare.com/filmora/article-images/mirrorless-cameras-6.png) | October2016   | APS-C(23.5 x 15.6 mm)     | **Tilting**       | **Yes** | $$-   |
-| PanasonicLumixDMC-G85 | ![Mirrorless Cameras 7](https://images.wondershare.com/filmora/article-images/mirrorless-cameras-7.png) | September2016 | Four Thirds(17.3 x 13 mm) | Fully Articulated | **Yes** | $-    |
-| PanasonicLumixDMC-G7  | ![Mirrorless Cameras 8](https://images.wondershare.com/filmora/article-images/mirrorless-cameras-8.png) | May2015       | Four Thirds(17.3 x 13 mm) | Fully Articulated | **Yes** | $     |
-
- | ![Mirrorless Cameras 1](https://images.wondershare.com/filmora/article-images/mirrorless-cameras-1.png) | Best daily mirrorless camera for vlogging: Canon EOS M50 The Canon EOS M50 is Canon's first mirrorless camera that comes equipped with both a fully-articulated screen and an external microphone jack. It came out only a few months ago and is already considered one of the best mirrorless cameras for vlogging. The M50 is also the only camera on our list that you can buy at a prosumer's budget that shoots 4K video. Yes, the Sony a7R III and Panasonic GH5S also shoot 4K video, but they are much more expensive. With Canon's new DIGIC 8 Image Processor, the camera's dual-pixel autofocusing system will perform even better.  **PROS** _\- Can shoot UHD 4K videos at 23.98 fps_ _\- Has a 2.36m-dot OLED electronic viewfinder_   **CONS** _\- No image stabilization_ _\- Battery life could be longer_                                                                                                                                                                                                                       |
-| ------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![Mirrorless Cameras 4](https://images.wondershare.com/filmora/article-images/mirrorless-cameras-4.png) | Best entry-level mirrorless camera for vlogging: Canon EOS M100 The Canon EOS M100 is a small, but powerful mirrorless camera for vlogging. This camera can shoot full HD 1080p videos at 60 fps. It cannot shoot 4K video, unfortunately. It uses its DIGIC 7 Image Processor and dual-pixel autofocusing system to ensure that your vlogs are always in focus. The M100 provides great ISO sensitivity options - it can reach up to ISO 25600. With its built-in Wi-Fi with NFC, you can transfer your media seamlessly to a computer.  **PROS** _\- Affordable_ _\- Great connectivity options_   **CONS** _\- Lacks advanced video recording features_ _\- No viewfinder_                                                                                                                                                                                                                                                                                                                                                                     |
-| ![Mirrorless Cameras 1](https://images.wondershare.com/filmora/article-images/mirrorless-cameras-1.png) | Best mid-range mirrorless camera for vlogging: Canon EOS M50 The Canon EOS M50 wins this category as well in our books. It is the only camera on our list that shoots 4K video that is priced much lower than the Sony a7R III and the Panasonic GH7S. In case you missed it, check out my review on the [Canon EOS M50](#Best-daily-mirrorless-camera-for-vlogging).                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
-| ![Mirrorless Cameras 2](https://images.wondershare.com/filmora/article-images/mirrorless-cameras-2.png) | Best professional mirrorless camera for vlogging: Panasonic Lumix DC-GH5S Originally, Panasonic had released it's GH5 as a hybrid camera that handles both photography and videography well. In response to hearing customers' interest in a more video-focused camera, Panasonic came up with the GH5S. In our list of the top mirrorless cameras, the Panasonic GH5S and the Sony a7R III are the two professional mirrorless cameras that can record 4K video. Between the two, though, the GH5S wins as the best professional mirrorless camera for vlogging because it sports a fully-articulated screen. Its micro four-thirds sensor is smaller than the a7R III's full-frame sensor. Even with a smaller sensor, though, the GH5S is made to still autofocus well in low lighting conditions. Another amazing feature is its ability to record 240 fps slow-motion video at full HD 1080p.  **PROS** _\- ISO sensitivity goes up to 204800_ _\- High video bit rates_   **CONS** _\- Expensive_ _\- The camera body weighs about 1.5 lbs_ |
-
-Want to compare even more cameras? Check out...
-
-[12 Best Vlogging Cameras (2018)](https://tools.techidaily.com/wondershare/filmora/download/)  
-[Top 11 Cheap Vlogging Cameras (2018)](https://filmora.wondershare.com/youtube/top-11-cheap-vlogging-cameras.html)  
-[7 Best DSLR Cameras For Vlogging (2018)](https://tools.techidaily.com/wondershare/filmora/download/)  
-[12 Best Vlogging Cameras With A Flip Screen (2018)](https://tools.techidaily.com/wondershare/filmora/download/)
-
-![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
-
-Richard Bennett
-
-Richard Bennett is a writer and a lover of all things video.
-
-Follow @Richard Bennett
-
-
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-7571918770474297"
-     data-ad-slot="8358498916"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-fixed-shorts-no-more-hidden-content/"><u>[New] In 2024, Fixed Shorts - No More Hidden Content</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-live-demos-to-online-sharing-mastering-idevice-screenshots-for-video-content/"><u>[New] 2024 Approved  From Live Demos to Online Sharing  Mastering iDevice Screenshots for Video Content</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-make-every-minute-count-for-view-growth-with-youtube-shorts-for-2024/"><u>[Updated] How to Make Every Minute Count for View Growth with YouTube Shorts for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-vision-to-visual-impact-youtube-trailers-via-filmora/"><u>[Updated] In 2024, From Vision to Visual Impact  YouTube Trailers via Filmora</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-free-tools-and-tricks-creating-compelling-youtube-video-ads/"><u>[Updated] In 2024, Free Tools and Tricks  Creating Compelling YouTube Video Ads</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-fullscape-synergy-the-smart-mcn-picking-game/"><u>[Updated] 2024 Approved  FullScape Synergy  The Smart MCN Picking Game</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-film-substitutes-to-stream-top-7-picks/"><u>[New] 2024 Approved  Film Substitutes to Stream - Top 7 Picks</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-guide-to-supercharged-video-engagement-with-youtube-notes-for-2024/"><u>[Updated] Guide to Supercharged Video Engagement with YouTube Notes for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-feast-your-eyes-on-9-whole-film-winter-wonders-no-charge/"><u>[Updated] 2024 Approved  Feast Your Eyes on 9 Whole-Film Winter Wonders  No Charge</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-find-your-digital-companion-the-top-6-youtube-personality-puzzles-for-2024/"><u>[New] Find Your Digital Companion  The Top 6 YouTube Personality Puzzles for 2024</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-use-google-assistant-on-your-lock-screen-of-vivo-v29e-phone-by-drfone-android/"><u>In 2024, How to Use Google Assistant on Your Lock Screen Of Vivo V29e Phone</u></a></li>
+<li><a href="https://techidaily.com/all-things-you-need-to-know-about-wipe-datafactory-reset-for-xiaomi-redmi-note-12r-drfone-by-drfone-reset-android-reset-android/"><u>All Things You Need to Know about Wipe Data/Factory Reset For Xiaomi Redmi Note 12R | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-merging-youtube-soundtracks-to-cinematic-scenes/"><u>[Updated] Merging YouTube Soundtracks to Cinematic Scenes</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-extensive-analysis-samsungs-immersive-sphere-technology/"><u>[Updated] Extensive Analysis  Samsung's Immersive Sphere Technology</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-transformative-tools-unveiling-top-6-nft-platforms-for-artists/"><u>[New] Transformative Tools  Unveiling Top 6 NFT Platforms For Artists</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-navigating-virtual-language-basics/"><u>[Updated] Navigating Virtual Language Basics</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/top-10-fingerprint-lock-apps-to-lock-your-vivo-s18-pro-phone-by-drfone-android/"><u>Top 10 Fingerprint Lock Apps to Lock Your Vivo S18 Pro Phone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/ultimate-guide-to-free-pptp-vpn-for-beginners-on-lava-blaze-2-pro-drfone-by-drfone-virtual-android/"><u>Ultimate Guide to Free PPTP VPN For Beginners On Lava Blaze 2 Pro | Dr.fone</u></a></li>
+<li><a href="https://ai-topics.techidaily.com/new-in-2024-what-is-ai-pixel-art-generator/"><u>New In 2024, What Is AI Pixel Art Generator?</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/2024-approved-top-video-editing-apps-for-mac/"><u>2024 Approved Top Video Editing Apps for Mac</u></a></li>
+</ul></div>

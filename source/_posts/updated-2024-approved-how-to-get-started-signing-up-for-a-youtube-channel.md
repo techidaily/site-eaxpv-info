@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  How to Get Started  Signing Up for a YouTube Channel\""
-date: 2024-06-04 14:50:52
-updated: 2024-06-07 11:59:42
+date: 2024-06-06T14:10:34.870Z
+updated: 2024-06-07T14:10:34.870Z
 tags:
   - ai video
   - ai youtube
@@ -11,7 +11,7 @@ categories:
 description: "\"This Article Describes [Updated] 2024 Approved: How to Get Started: Signing Up for a YouTube Channel\""
 excerpt: "\"This Article Describes [Updated] 2024 Approved: How to Get Started: Signing Up for a YouTube Channel\""
 keywords: "YouTube Channel Launch,Create YouTube Channels,Setup YouTube Channel,Begin YouTube Content,Join YouTube Community,Start YouTube Journey,Sign Up for YouTube Channel"
-thumbnail: https://www.lifewire.com/thmb/148wBqPpjXn0-KZhehDaf2JE3WI=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/samsung-soundbar-subwoofer-72a39b9f0ae940a18fee4962607a62e4.jpg
+thumbnail: https://thmb.techidaily.com/b6dbcc18e11dc426bd1e06a708ba47abaebc27e7bce0a9cec47bbc5c1d004931.jpg
 ---
 
 ## How to Get Started: Signing Up for a YouTube Channel
@@ -105,83 +105,22 @@ Follow @Richard Bennett
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
-##### Richard Bennett
-
- Mar 27, 2024• Proven solutions
-
-The traditional annotation’s features are replaced by its successor YouTube Cards and End Screen. The annotations performed poorly on mobile and thus, the new changes are for good. The annotations had become outdated and were completely unbefitting. On the contrary, the YouTube cards and end screen offers great access to both desktop and mobiles with easier and faster implementation. Are you still looking for Annotations? Stop your search and try considering YouTube end screen. In this article, learn how to use Youtube end screen and cards.
-
-* [**Part1: Why You Need to Add End Screens To Videos**](#part1)
-* [**Part2: How To Use Youtube End Screen**](#part2)
-* [**Part3: How To Use Youtube Cards**](#part3)
-
-[Wondershare Filmstock Gaming Video Editing Skils](https://images.wondershare.com/filmora/article-images/learn-gaming-video-editing-skills-banner.png)](https://filmstock.wondershare.com/creative-theme-game?source%5Fchannel=seo%5Farticle&spm=rs.filmora%5Fweb)
-
-## Part 1: Why You Need to Add End Screens and Cards to Videos
-
-There are several reasons that make the YouTube end screen and cards a great tool when added to the videos. The new channel builtin features, donation choices, embedded polls and more are some of the best interactive and powerful features of YouTube end screen that’s when added to the video can drive in users to your channel. It is a strong tool to build viewership of your channel. When you use YouTube end screen at the end of the video, it helps in directing the users to other channels, playlists, and videos and also helps in promoting crowdfunding campaigns, merchandise and website. The YouTube end screen is a part of the video and to have an end screen on your video, it must be around 25seconds long.
-
-## Part 2: How To Use Youtube End Screen
-
-Do you wish to add YouTube end screen to your video? Just follow the steps and get going.
-
-* Go to Creator Studio and check the left side to find the Video Manager, click on it.
-* Wherever you wish to add the end screen on the video, click on it.
-* Click End Screen & Annotations at the top.
-* From end screen and annotations, you can add or configure elements.
-* Check how the end screen will appear to the visitors.
-* Click on blue color add element’s button to find four options available there:
-
-**Playlist or Videos**\- This element allows to play the suggested video on the same tab when the user clicks on it.
-
-**Subscribe**\- This allows the users to quickly subscribe to the channel. You may change the appearance of the icon and how your brand name looks.
-
-**Channel**\- Click on this element to promote other YouTube Channel. You may also customize it with a message.
-
-**Link**\- This element helps in sending the users directly to your website. Although, Google has restricted other link addition in the video. In order to add, you must have an Adsense account and permit monetization.
-
-## Part 3: How To Use Youtube Cards
-
-YouTube Cards is more interactive. Users can add images and other linkes. Here are the steps.
-
-* Click on the "Video Manager" tab.
-* If you want to add cards, Click "Edit" tab under it. Then click “cards”.
-* Choose the cards type you want to make on "Add Card" drop down menu.
-* Click “create” button. Select the timeline. In the end, apply.
-
-### The types of YouTube cards
-
-* **Video or playlist**: links to other videos/the complete palylist on YouTube related or non-related to that specific videolinks to further purchase websites or specific product.
-* **Channel**: promote another YouTube channel, one of the most common methods to collaborate with other YouTubers
-* **Poll**: Encourage viewers to participate in a poll (vote)
-* **Link**: links to a website which compliments whatever content is in the video.
-
-### 4 Tips for Using YouTube Cards
-
-**1\.** You might be used to pointing to the part of your screen where you intend to put an annotation, but when you use YouTube Cards they might switch locations depending on what device a viewer is watching on.
-
-**2.** Use three or less cards per video. Viewers are more likely to click your cards if there are fewer of them, and more likely to start ignoring them if it seems like they’re always popping up. Also, do not have all three of these cards appear at once and make people choose between them. Stagger them throughout your video.
-
-**3.** Your cards should be related to what you are saying in your vlog. Avoid posting completely random links in the middle of your video because a viewer who clicks on them will get confused. You can post any type of link you want at the very end of your video, though.
-
- **4.** The end of your video is always a great place to link viewers to another of your videos, whether you use a card or an end screen. If somebody liked your video enough to watch until the end they’ll probably welcome a chance to consume similar content.
-
-## Conclusion
-
-Now, that you are aware how to add YouTube end screen to your video, make use of the amazing features of YouTube end screen and cards and let driving in traffic to your site be easy and fruitful.
-
-![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
-
-Richard Bennett
-
-Richard Bennett is a writer and a lover of all things video.
-
-Follow @Richard Bennett
-
-
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-7571918770474297"
-     data-ad-slot="8358498916"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-stand-out-yt-thumbnail-size-and-engagement-strategies/"><u>[Updated] 2024 Approved  How to Stand Out  YT Thumbnail Size and Engagement Strategies</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-get-more-eyeballs-perfect-your-youtube-description-templates-for-viewer-attraction-for-2024/"><u>[Updated] Get More Eyeballs  Perfect Your YouTube Description Templates for Viewer Attraction for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-from-concept-to-cut-tape-imovie-steps-for-optimizing-youtube-edits-for-2024/"><u>[New] From Concept to Cut-Tape  IMovie Steps for Optimizing YouTube Edits for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-manual-for-crafting-youtube-playlists/"><u>[Updated] 2024 Approved  How-To Manual for Crafting YouTube Playlists</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-harness-youtubes-power-25-steps-to-prominence-and-recognition/"><u>[Updated] 2024 Approved  Harness YouTube's Power  25 Steps to Prominence and Recognition</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-favorites-to-featured-the-journey-to-a-unique-youtube-list/"><u>[New] In 2024, From Favorites to Featured  The Journey to a Unique YouTube List</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-how-frequent-uploads-can-skyro-cookie-sales-on-your-youtube-channel-for-2024/"><u>[New] How Frequent Uploads Can Skyro Cookie Sales on Your YouTube Channel for 2024</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-remove-flashlight-from-apple-iphone-14-plus-lock-screen-drfone-by-drfone-ios/"><u>In 2024, How To Remove Flashlight From Apple iPhone 14 Plus Lock Screen | Dr.fone</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-premium-desktop-and-mobile-video-call-platforms-zoom-replacements/"><u>[New] In 2024, Premium Desktop & Mobile Video Call Platforms (Zoom Replacements)</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-full-disclosure-on-nero-audiomanipulation-kit-features/"><u>Updated Full Disclosure on Nero AudioManipulation Kit Features</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-leveraging-eco-friendly-visual-effects-revolutionizing-online-video-content/"><u>2024 Approved  Leveraging Eco-Friendly Visual Effects  Revolutionizing Online Video Content</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/the-best-ispoofer-alternative-to-try-on-asus-rog-phone-8-drfone-by-drfone-virtual-android/"><u>The Best iSpoofer Alternative to Try On Asus ROG Phone 8 | Dr.fone</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/new-enchanting-viewers-the-art-of-crafting-engaging-youtube-description-templates/"><u>[New] Enchanting Viewers  The Art of Crafting Engaging YouTube Description Templates</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-tackling-problems-with-instagrams-video-feature/"><u>[Updated] In 2024, Tackling Problems with Instagram's Video Feature</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-3-ways-to-track-oppo-a38-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Track Oppo A38 without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-2024-approved-strategic-steps-to-determine-a-unique-tiktok-hashtag/"><u>[Updated] 2024 Approved  Strategic Steps to Determine a Unique TikTok Hashtag</u></a></li>
+</ul></div>

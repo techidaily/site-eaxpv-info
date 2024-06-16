@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] From Beauty Brows to Perfect Portraits  Crafting Your Cosmetic Chanel for 2024\""
-date: 2024-06-04 14:33:30
-updated: 2024-06-06 10:36:34
+date: 2024-06-06T15:24:33.798Z
+updated: 2024-06-07T15:24:33.798Z
 tags:
   - ai video
   - ai youtube
@@ -11,7 +11,7 @@ categories:
 description: "\"This Article Describes [Updated] From Beauty Brows to Perfect Portraits: Crafting Your Cosmetic Chanel for 2024\""
 excerpt: "\"This Article Describes [Updated] From Beauty Brows to Perfect Portraits: Crafting Your Cosmetic Chanel for 2024\""
 keywords: "Beauty Brows Makeover,Perfect Portrait Tips,Cosmetics Chanel Guide,Brow Enhancement Secrets,Flawless Photo Retouching,Chanel Cosmetic Expertise,Professional Beauty Editing"
-thumbnail: https://www.lifewire.com/thmb/pTgecUKE6R2Q1aR9lgv5fM3H1vc=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/003_how-to-turn-on-airplay-on-a-mac-5188718-69fe4c2832ec436b87d513c4ff042e27.jpg
+thumbnail: https://thmb.techidaily.com/79265524b64a96a355aa9c66ef040a78b4c61cd77b813b963d28880dc313d729.jpg
 ---
 
 ## From Beauty Brows to Perfect Portraits: Crafting Your Cosmetic Chanel
@@ -83,83 +83,23 @@ Follow @Richard Bennett
 
 ![](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
-##### Richard Bennett
-
- Oct 26, 2023• Proven solutions
-
-[0](#commentsBoxSeoTemplate)
-
-YouTube is a great platform you can use not only to share your gifts and talents with the world but also to share who you are as a person. No matter how many followers you may currently have, you are an amazing person just as you are with a unique story. Here are ten [YouTube video ideas](https://tools.techidaily.com/wondershare/filmora/download/) to share your personal story.
-
-* [Channel Trailer](#one)
-* [My YouTube Story](#two)
-* [Draw My Life](#three)
-* [Snapchat/Instagram Stories Q&A](#four)
-* [Never Have I Ever Q&A](#five)
-* [Get Ready With me Q&A](#six)
-* [My Depression/Anxiety or Mental Health Story](#seven)
-* [Narrated Autobiopic](#eight)
-* [25 Facts About Me](#nine)
-* [YouTube Live/Webinar](#ten)
-
-### 1\.  Channel Trailer
-
-Before posting any videos on your channel, it can be a great idea to [create a “Channel Trailer”](https://tools.techidaily.com/wondershare/filmora/download/) summarizing who you are and what your channel is all about.
-
-YouTuber Shameless Maya does an excellent job of this. She created a visually appealing and engaging 1-2 minute channel trailer that explains exactly what her channel is all about. Feel free to be as creative as you want to be.
-
-###  2\.  My YouTube Story
-
-On Monday, May 17th, 2010, YouTube celebrated its fifth anniversary. In celebration of hitting their five-year mark, YouTube launched a “My YouTube Story” campaign, which featured fifteen YouTubers sharing how YouTube has changed their lives. Each of these videos would end with “What’s your YouTube story? Tell us by uploading a video.” Ever since that campaign, many YouTubers have shared their YouTube story, including me! After I had been on YouTube for two years, I felt it was time for me to share my own YouTube story with the world. Sharing your story is not only an opportunity for your viewers to get to know you but a way to inspire other creators to start their channels as well. We all have our reasons for why we started, so why not share them?
-
-### 3\.  Draw My Life
-
-“Draw My Life” is a popular video where YouTubers share their life stories through a unique series of drawings. Often YouTubers use a white dry erase board and markers so they can erase and redraw the series of their life events. Mr. Kate provides a great example of this as she is a talented artist and DIY’er. The great thing about this is you don’t have to be an artist or a great drawer. It’s a fun way to be creative and tell your story.
-
-### 4\.  Snapchat/Instagram Stories Q&A
-
-Who isn’t on Snapchat, Instagram, or both these days? Over the past year, I’ve seen YouTubers get creative by asking their viewers to send snaps asking questions they will answer on a Q & A video on their channel. This video idea is great because it involves live viewer participation and a chance for viewers to be seen or noticed on their favorite Youtuber’s channels. Beauty guru stars Manny MUA and Jeffrey Star did a great example of this as a collaboration.
-
-### 5\.  Never Have I Ever Q & A
-
-Who hasn’t played the “Never Have I Ever” game?! Playing this game as a Q & A is a great way for viewers to get to know you better with some juicy and shocking details about yourself they otherwise wouldn’t know. It’s also a great way to play and collaborate with another YouTuber. Often, the questions will be split and you have to watch both YouTubers’ videos to find out all the details. Highly popular beauty YouTuber Desi Perkins does a great example of this while playing the game with her sister in law.
-
-### 6\.  Get Ready With Me Q & A
-
-Get ready with me Q & As are some of my favorite videos to watch because it’s nice to see YouTubers strip-down bare-faced to do their makeup and answer popular questions. It often feels like two old friends sitting down to chat. Jenn, I'm doing a great example of this when she took to twitter asking viewers to ask her questions she would answer on her channel. Not only did she answer the questions but she gave a detailed makeup tutorial and explanation of the products she used as a 2 for 1\. Even if your channel has nothing to do with makeup or fashion, some viewers can still be intrigued to learn more about your fashion and makeup style.
-
-### 7\.  My Depression/Anxiety or Mental Health Story
-
-Behind all their smiles and outrageous on-camera personas, there are a lot of YouTubers who are dealing with depression and anxiety. Beauty and fashion YouTuber Alyssa Forever not only shared her story on how she dealt with her depression but gave tips and ways to be happier. If you are facing depression, anxiety, or some other mental illness, it can give others hope if you share your story.
-
-### 8\.  Narrated Autobiopic
-
-Narrated Autobiopic videos are a great way to share your story or advice in a cinematic way. You can be as creative as you want to be. YouTuber Evelyn From the Internets posted a narrated autobiopic called “For People Who Feel Behind In Life” that comically introduces her story.
-
-### 9\.  25 Facts About Me Tag
-
-This is probably one of the easiest ways to share things about yourself when starting as a YouTuber or even if you’re a veteran. Viewers are always looking to learn more interesting things about you so you are more relatable. I’ve been a fan of Vasseur Beauty for a few years now and was surprised by many of the things she shared about herself.
-
-### 10\.  YouTube Live/Webinar
-
-YouTube live videos are probably the best ways to interact and share your story with viewers. Viewers can ask questions on the spot. YouTuber Roberto Blake shares great live videos on how to improve your videos and things he’s learned through personal experience.
-
-## Custom Your Video with Excellent Video Editor
-
-[![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
-
-![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
-
-Richard Bennett
-
-Richard Bennett is a writer and a lover of all things video.
-
-Follow @Richard Bennett
-
-
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-7571918770474297"
-     data-ad-slot="8358498916"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-zero-to-hero-your-first-time-streaming-to-youtube/"><u>[New] 2024 Approved  From Zero to Hero  Your First Time Streaming to Youtube</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-flawless-online-invitation-crafting-youtube-subscription-buttons/"><u>[New] In 2024, Flawless Online Invitation  Crafting YouTube Subscription Buttons</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-avoiding-illegal-content-youtube-to-mp4-transfer-safely/"><u>[Updated] 2024 Approved  Avoiding Illegal Content  YouTube to MP4 Transfer Safely</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-top-10-free-stock-footage-websites-you-should-know/"><u>[New] In 2024, Top 10 Free Stock Footage Websites You Should Know</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-grasp-a-wider-audience-by-multistreaming-on-youtube-and-twitch/"><u>[Updated] 2024 Approved  How to Grasp a Wider Audience by Multistreaming on Youtube and Twitch?</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-from-raw-to-refined-tailoring-youtube-videos-with-premiere-pro-for-2024/"><u>[Updated] From Raw to Refined  Tailoring YouTube Videos with Premiere Pro for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-from-idea-to-execution-creating-youtube-trailers-in-filmora-for-2024/"><u>[Updated] From Idea to Execution  Creating YouTube Trailers in Filmora for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-gain-insight-into-your-contents-success-via-youtube-rankers/"><u>[New] 2024 Approved  Gain Insight Into Your Content's Success via YouTube Rankers</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-your-itel-p55-5g-location-on-life360-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>How to Change Your Itel P55 5G Location on life360 Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/slack-vs-discord-debate-optimal-team-collaboration-platforms-for-2024/"><u>Slack Vs. Discord Debate  Optimal Team Collaboration Platforms for 2024</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-change-your-sim-pin-code-on-your-honor-magic-6-phone-by-drfone-android/"><u>How To Change Your SIM PIN Code on Your Honor Magic 6 Phone</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/discover-the-ideal-release-windows-on-youtube-for-2024/"><u>Discover the Ideal Release Windows on YouTube for 2024</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/forgot-pattern-lock-heres-how-you-can-unlock-realme-c51-pattern-lock-screen-by-drfone-android/"><u>Forgot Pattern Lock? Heres How You Can Unlock Realme C51 Pattern Lock Screen</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/maximize-video-reach-in-youtubes-seo-arena/"><u>Maximize Video Reach in YouTube's SEO Arena</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/mastering-youtube-live-imagery-a-comprehensive-overview/"><u>Mastering YouTube Live Imagery  A Comprehensive Overview</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/top-15-trusty-and-gratis-instagram-follower-finder-tools-for-both-systems/"><u>Top 15 Trusty & Gratis Instagram Follower Finder Tools for Both Systems</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/innovative-methods-to-utilize-dynamic-images-on-ios-for-2024/"><u>Innovative Methods to Utilize Dynamic Images on iOS for 2024</u></a></li>
+</ul></div>

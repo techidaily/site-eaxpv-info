@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  Framework  Developing Transformative Lifestyle Broadcasts\""
-date: 2024-06-05 22:16:56
-updated: 2024-06-06 12:43:15
+date: 2024-06-06T15:17:48.330Z
+updated: 2024-06-07T15:17:48.330Z
 tags:
   - ai video
   - ai youtube
@@ -11,7 +11,7 @@ categories:
 description: "\"This Article Describes [New] 2024 Approved: Framework: Developing Transformative Lifestyle Broadcasts\""
 excerpt: "\"This Article Describes [New] 2024 Approved: Framework: Developing Transformative Lifestyle Broadcasts\""
 keywords: "\"Life-Changing Shows,Lifestyle Programming,Transformative TV Series,Evolving Viewership Content,Innovative Broadcast Designs,Dynamic Media Formats,Visionary Show Development\""
-thumbnail: https://www.lifewire.com/thmb/erzKASgx244zh90-Q9CR1bmJcrQ=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/anthem-speaker-set-menu-examples-aaa-58f8bed43df78ca159779250.jpg
+thumbnail: https://thmb.techidaily.com/d1af8070250ed0fc44c0eb3bb732f040d9be0391dec23043dea2f82d9170e773.jpg
 ---
 
 ## Framework: Developing Transformative Lifestyle Broadcasts
@@ -142,83 +142,22 @@ Follow @Richard Bennett
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
-##### Richard Bennett
-
- Mar 27, 2024• Proven solutions
-
- In this article, we are going to show you how important it is to add subtitle and closed captions in your YouTube video, and how to add them.
-
----
-
- The best video editor for YouTubers - [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/), not only allows you to cut, crop, rotate, reverse videos, but also offers your advanced features like PIP, Green Screen, or audio mixing. What's more, you can find lots of effects for Fashion, gaming, education, tutorial, sports, etc. Check this article to know more.
-
-[![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
-
----
-
-## Why subtitle and closed captions are important for YouTube videos?
-
-* Forced closed captions and subtitles actually help the viewers to understand the content in your video if the audio quality of your video is bad, muffled or barely audible. Reading makes it easier for them to understand.
-* This also helps people with hearing impairments. People with troubled ears can still watch and understand your content.
-* It's a great aid to such videos which have been recorded in other foreign languages that you don't understand. Hence it will increase the number of viewers all around the world.
-* They both are generally added for easy accessibility to the viewers who wish to watch in sound sensitive environments.
-
- So, here we are going to show you two ways to add subtittles to video: directly or uploading caption or transcript files
-
-## Adding subtitles and closed captions manually
-
- To add subtitles and closed captions to your YouTube video, fisrt, you should sign in to your YouTube account. On left right below 'Home' you will find 'My Channel'. It will direct you to your personal YouTube page. On the top, right next to your subscribers lays the 'Video manager', giving you the list of your uploaded videos.
-
- Select the video and click on edit to get a drop down menu. Click on subtitles and CC. This will take you to the subtitling interface. To the right of video select 'add new subtitles' and then 'create new subtitles'. Select the subtitle language. Play the video to listen to the content and type down in the box. Click on '+' button once you are done.
-
- This will create a subtitle timeline right beneath the video. You can manage by dragging and expanding the subtitle duration according to the audio of the video. The subtitle will appear at the bottom of the video screen. Click 'publish' once done.
-
- An interruption might occur with appearing of subtitles in accordance with video. Hence a lot precision is required while doing so.
-
-## Uploading Caption or Transcript Files automatically
-
- To upload Caption or Transcript Files to YouTube Videos you first need to create a format on a text editor. For windows use Notepad and for Mac you may use TextEdit. Create a format of putting the number of subtitle first, time stamp and then text of the subtitle. For example
-
-#### 1\
-
- 00:02:34:12 using a format of (hour : minute : second : millisecond)
-
-#### 2\. \*text\*
-
- This is the sample text for first subtitle at zero hours, two minutes, thirty four seconds and twelve milliseconds. Once done with this. Go to file, select 'save as'. Write the file name with an extension of .srt and select 'All files' for type of file. Click encoding menu and select UTF-8\. Once saved, sign in to your YouTube account.
-
- On left right below 'Home' you will find 'My Channel'. It will direct you to your personal YouTube page. On the top, right next to your subscribers lays the 'Video manager', giving you the list of your uploaded videos.
-
- Select the video and click on edit to get a drop down menu. Click on subtitles and CC. Go to 'add subtitles' and then 'upload a file'. A pop-up menu will appear select 'subtitles file'. Click upload. The file will send subtitles to your video.
-
- This will create a subtitle timeline right beneath the video. You can manage by dragging and expanding the subtitle duration according to the audio of the video. The subtitle will appear at the bottom of the video screen. Click 'publish' once done.
-
-## 3 Best Tools for add/managing video Subtitles/CC
-
-#### 1\.  Amara
-
- Amara is a smart video editor which helps insert captions and subtitles to videos. It also helps in transcribing the videos. It takes help of crowd sourcing to subtitle any YouTube video. They take help from viewers to subtitle the videos. By making crowd subtitling available for any YouTube creator, they are allowing them to reach more viewers in more languages
-
-#### 2\.  DIY Captions
-
- DIY captions help you to transcribe the YouTube videos, if not in most accurate manner, then in a little easier way. All you have to do is just paste the URL of the YouTube video and it will provide you all the subtitles. These may not be accurate but will provide you major base material which can be tweaked a bit here and there and is far better than making all the subtitles starting from scratch.
-
-#### 3  Subtitles for YouTube
-
- Subtitles for YouTube is a Google Chrome extension which provides subtitles for YouTube videos. For this you will have to provide a subtitle file with .srt extension. The attractive feature of this is that you won't have to download the video and still run the subtitles on it. This is very much helpful for people who work on YouTube or watch movies without subtitles.
-
-![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
-
-Richard Bennett
-
-Richard Bennett is a writer and a lover of all things video.
-
-Follow @Richard Bennett
-
-
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-7571918770474297"
-     data-ad-slot="8358498916"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-guidelines-for-authoritative-life-lesson-videos/"><u>[New] In 2024, Guidelines for Authoritative Life Lesson Videos</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-sculpt-perfect-images-on-youtube-with-right-dimensions-for-2024/"><u>[Updated] How to Sculpt Perfect Images on YouTube with Right Dimensions for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-fresh-alternative-films-to-dive-into-7-favorites/"><u>[Updated] 2024 Approved  Fresh Alternative Films to Dive Into, #7 Favorites</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-harness-youtubes-potential-with-these-top-5-video-marketing-techniques-for-2024/"><u>[Updated] Harness YouTube’s Potential with These #Top 5 Video Marketing Techniques for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/the-8-best-authentic-youtube-growth-tactics-for-2024/"><u>The 8 Best Authentic Youtube Growth Tactics for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-hashtag-hacks-for-amplifying-gamer-content-for-2024/"><u>[Updated] Hashtag Hacks for Amplifying Gamer Content for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-harvesting-hits-and-heads-how-to-profit-from-your-youtube-presence-without-ads-for-2024/"><u>[New] Harvesting Hits and Heads  How to Profit From Your YouTube Presence Without Ads for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-facts-about-gif-background-you-didnt-know/"><u>New Facts About GIF Background You Didnt Know</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-top-5-samsung-galaxy-m54-5g-bypass-frp-tools-for-pc-that-actually-work-by-drfone-android/"><u>In 2024, Top 5 Samsung Galaxy M54 5G Bypass FRP Tools for PC That Actually Work</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-pokemon-go-no-gps-signal-heres-every-possible-solution-on-samsung-galaxy-s24-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, Pokemon Go No GPS Signal? Heres Every Possible Solution On Samsung Galaxy S24 Ultra | Dr.fone</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/in-2024-unraveling-the-favorites-15-top-rated-books-in-booktoks-limelight/"><u>In 2024, Unraveling the Favorites  15 Top-Rated Books in BookTok’s Limelight</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-the-essential-guide-to-win-compatible-tiktok-editing-software-for-2024/"><u>[Updated] The Essential Guide to Win-Compatible TikTok Editing Software for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-navigating-the-market-of-dronescopic-stabilizers/"><u>[Updated] Navigating the Market of Dronescopic Stabilizers</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-saving-your-best-on-instagram-a-comprehensive-guide/"><u>[Updated] 2024 Approved  Saving Your Best on Instagram  A Comprehensive Guide</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-stepping-down-sounds-audacity-fading-techniques/"><u>[New] Stepping Down Sounds  Audacity Fading Techniques</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/zooming-in-with-confidence-a-kinemaster-cinematographers-handbook/"><u>Zooming in with Confidence  A Kinemaster Cinematographer's Handbook</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  From Individualist to Institutional Influence in the YouTube Universe\""
-date: 2024-06-05 12:31:43
-updated: 2024-06-06 11:52:39
+date: 2024-06-06T15:20:05.737Z
+updated: 2024-06-07T15:20:05.737Z
 tags:
   - ai video
   - ai youtube
@@ -11,7 +11,7 @@ categories:
 description: "\"This Article Describes [Updated] 2024 Approved: From Individualist to Institutional Influence in the YouTube Universe\""
 excerpt: "\"This Article Describes [Updated] 2024 Approved: From Individualist to Institutional Influence in the YouTube Universe\""
 keywords: "YouTuber Evolution,Content Platform Impact,Video Creator Rise,Online Brand Expansion,Digital Influence Growth,Media Industry Shift,Community Engagement Strategy"
-thumbnail: https://www.lifewire.com/thmb/azVHGPb5O3ftkdcS2_b0mPiIevE=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/001_streaming-apps-available-on-switch-80529bd1ebb941258c56e0c44ad66671.jpg
+thumbnail: https://thmb.techidaily.com/8398659134dc24374c71d0ed649ae9e802ceefac033bb56636ce9acb89582f53.jpg
 ---
 
 ## From Individualist to Institutional Influence in the YouTube Universe
@@ -119,50 +119,26 @@ Follow @Richard Bennett
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
-##### Richard Bennett
-
- Mar 27, 2024• Proven solutions
-
-You use YouTube to watch videos, post your own content, and build up a following. That is how YouTube works for you. This article is about how YouTube works technically. There are a lot of steps which occur between you clicking 'upload' and a viewer clicking 'play'. Understanding this process can be useful to YouTubers because it can help shed light on where problems may be occurring when you have issues uploading or watching videos. Generally when there is a problem it is on your end and there are multiple simple things you can do to fix it.
-
-This article will explain what goes on behind the scenes when you upload a video, where that video really goes, and what happens when somebody clicks play.
-
-## How Does YouTube Work
-
-#### 1\. What Happens When You Upload?
-
-When you upload a video your computer or device packages it into IP packets. Packets are fragments of information containing both data from your video and the address you are sending it to, in this case YouTube. The packets are encoded into radio signals which are sent through a wifi or cellular network. Your video travels through switches and routers on the internet until they reach YouTube's servers. Your video is then reassembled and stored.
-
-If uploading takes a long time for you it probably has nothing to do with YouTube; there is a lot that needs to happen for your video to even get there. How long the upload process takes depends on a number of factors including how many devices share your internet connection, how strong your wifi signal is, and the age of your router. If your uploads are taking too long consider compressing your videos before you upload them. You can also try uploading from your college campus or public libraries as institutions like these tend to have fast internet speeds.
-
-#### 2\. Where is Your Video Stored?
-
-![how youtube works](https://images.wondershare.com/filmora/article-images/how-youtube-works.JPG)
-
-As it is owned by Google YouTube uses Google's 'Bigtable', a compressed data storage system which allows it to store the 500+ hours of video uploaded to its servers every minute. Bigtable is software, though, not hardware. YouTube and Google both have massive amounts of data and it needs to be physically housed somewhere.
-
-![videos uploaded to youtube](https://images.wondershare.com/filmora/article-images/videos-uploaded-to-youtube.jpg)
-
-Google has Modular Data Centers all over the world where it keeps its servers. These centers could cost as much as $600 million dollars each and consume huge amounts of electricity. There are six of them in the United States, three in Europe, two in Asia, and one is South America.
-
-#### 3\. What Happens When Someone Watches Your Video?
-
-When a viewer clicks on your video their computer sends an encoded request through the internet to YouTube's servers. After YouTube receives the play request it chooses which format to play the video in based on the viewer's browser. Your video is again turned into packets, which are again sent as radio signals over the internet to your viewer. Your viewer's computer or device reforms the packets into your video and their browser plays it.
-
-If videos take a long time to load for you then there are a few things you can do to speed them up. First, consider changing the channel of your wifi router. Most people stay on the channel their router was set to when they first got it and so there is a good chance you and your neighbors are all on the same channel. This causes your networks to interfere with each other. You can also delete the temporary files on your computer. Besides helping you stream video faster this will free up storage space. Another thing you can do is make sure there are as few devices connected to your network as possible while you are watching videos. Besides mobile phones and laptops you may have appliances, like coffee machines and refrigerators, which are wifi enabled. Disconnect them temporarily and it will help your videos to load faster.
-
-![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
-
-Richard Bennett
-
-Richard Bennett is a writer and a lover of all things video.
-
-Follow @Richard Bennett
-
-
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-7571918770474297"
-     data-ad-slot="8358498916"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/updated-from-raw-footage-to-final-cut-youtube-studio-edition-for-2024/"><u>[Updated] From Raw Footage to Final Cut  YouTube Studio Edition for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-growth-hacks-for-youtubers-short-form-content-boosting-view-counts-effectively/"><u>[New] In 2024, Growth Hacks for YouTuber's Short Form Content  Boosting View Counts Effectively</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-clicks-to-cash-how-jake-paul-leveraged-youtube/"><u>[Updated] In 2024, From Clicks to Cash  How Jake Paul Leveraged YouTube</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-get-a-youtube-video-trending/"><u>[New] In 2024, How to Get a YouTube Video Trending</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-achieve-professional-level-audio-quality-on-youtube/"><u>[Updated] 2024 Approved  How to Achieve Professional-Level Audio Quality on YouTube</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-zero-to-hero-your-first-time-streaming-to-youtube/"><u>[Updated] 2024 Approved  From Zero to Hero  Your First Time Streaming to Youtube</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-free-aesthetic-essentials-for-youtube-artistry-for-2024/"><u>[New] Free Aesthetic Essentials for YouTube Artistry for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-from-good-to-great-elevate-reactions-in-youtube-videos-with-these-3-strategies-for-2024/"><u>[Updated] From Good to Great  Elevate Reactions in YouTube Videos with These 3 Strategies for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-going-against-the-flow-youtube-video-opposites/"><u>[New] In 2024, Going Against the Flow  YouTube Video Opposites</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-shuffle-youtube-playlist-for-2024/"><u>[Updated] How to Shuffle YouTube Playlist for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/shatter-the-illusion-true-viewers-of-your-insta-posts-revealed-for-2024/"><u>Shatter the Illusion  True Viewers of Your Insta Posts Revealed for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/in-2024-boost-engagement-with-effective-video-loops-on-instagram/"><u>In 2024, Boost Engagement with Effective Video Loops on Instagram</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-navigate-nature-androids-animated-adventure-series/"><u>[New] 2024 Approved  Navigate Nature  Android’s Animated Adventure Series</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-fanbase-titans-the-10-most-subscribed-youtube-creators/"><u>[Updated] In 2024, Fanbase Titans  The 10 Most Subscribed YouTube Creators</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-9-realme-gt-5-pro-monitoring-apps-for-parental-controls-drfone-by-drfone-virtual-android/"><u>In 2024, Top 9 Realme GT 5 Pro Monitoring Apps for Parental Controls | Dr.fone</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-in-2024-top-10-mobile-tools-for-mastering-melodies-ios-vs-android-edition/"><u>New In 2024, Top 10 Mobile Tools for Mastering Melodies IOS Vs. Android Edition</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-the-best-free-video-editing-software-virtualdub-review-and-top-competitors/"><u>New The Best Free Video Editing Software Virtualdub Review and Top Competitors</u></a></li>
+<li><a href="https://fake-location.techidaily.com/does-airplane-mode-turn-off-gps-location-on-apple-iphone-xs-max-drfone-by-drfone-virtual-ios/"><u>Does Airplane Mode Turn off GPS Location On Apple iPhone XS Max? | Dr.fone</u></a></li>
+<li><a href="https://ai-topics.techidaily.com/the-power-of-ai-thumbnail-generators/"><u>The Power of AI Thumbnail Generators</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-boost-your-creative-edge-on-instagram-with-more-free-filters/"><u>[Updated] In 2024, Boost Your Creative Edge on Instagram with More Free Filters</u></a></li>
+</ul></div>

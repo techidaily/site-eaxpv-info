@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  Gain Cost-Free Visuals From Selective 4 YouTube Feeds\""
-date: 2024-06-04 19:19:50
-updated: 2024-06-06 10:20:44
+date: 2024-06-06T14:50:19.747Z
+updated: 2024-06-07T14:50:19.747Z
 tags:
   - ai video
   - ai youtube
@@ -11,7 +11,7 @@ categories:
 description: "\"This Article Describes [New] 2024 Approved: Gain Cost-Free Visuals From Selective 4 YouTube Feeds\""
 excerpt: "\"This Article Describes [New] 2024 Approved: Gain Cost-Free Visuals From Selective 4 YouTube Feeds\""
 keywords: "\"Free YouTube Visuals Guide,Selective Content Creation,FREE Video Insights Analysis,DIY YouTube Engagement Boost,Cost-Free Visual Strategies,Save Money with YouTube Feeds,Easy YouTube Content Acquisition\""
-thumbnail: https://www.lifewire.com/thmb/8AsY02NhTdqGmesvxZL0xH5m_u8=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-932007804-c6377c1eabd346b28f376de9bbf2e441.jpg
+thumbnail: https://thmb.techidaily.com/fb8053ac7214659fa378f042df998d4365da978dd3a640439d6ee68045b0a185.jpg
 ---
 
 ## Gain Cost-Free Visuals From Selective 4 YouTube Feeds
@@ -87,70 +87,25 @@ Follow @Richard Bennett
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
-##### Richard Bennett
-
- Mar 27, 2024• Proven solutions
-
-There are a lot of reasons why you might want to use footage recorded from the screen of your apple device in your YouTube videos. Some people like to make YouTube tutorials about iPhone or iPad apps, others like to share their gaming experiences, and some need to use footage taken from their devices for presentations. Even if you do not think these kinds of videos suit your vlog, screen recording is a useful tool to have on your belt. You never know when one of your subscribers is going to ask you about your favorite mobile games.
-
-Basically, there are three ways to record YouTube video on iPhone/iPad, including the built-in screen recorder (if you have [updated to iOS 11](https://support.apple.com/ios/update)), connecting iPhone to Mac and the last, some third party screen recorder. In this article, you will learn the three powerful methods one by one.
-
-* [**Part1: Recording your iPhone screen in iOS 11**](#part1)
-* [**Part2: Wired Using QuickTime on your Mac**](#part2)
-* [**Part3: Wirelessly Using AirPlay and Reflector**](#part3)
-
-**Note:** We resolutely oppose all forms of copyright-infringing downloads. This tutorial is only for downloading YouTube videos/audio materials from your own channel.
-
-## 1\. Recording your iPhone screen in [iOS 11](https://www.apple.com/lae/ios/ios-11/)
-
-You can find more information in this article: [How to Record iPhone/iPad’s Screen in iOS 11](https://tools.techidaily.com/wondershare/filmora/download/) \>>
-
-[![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
-
-## 2\. Wired Using QuickTime on your Mac
-
-If you have a Mac then you already have all the software you need.
-
-**Step 1**: Connect your tablet or smartphone to your computer using a USB port, and then open QuickTime on your Mac. In QuickTime select ‘File’ and ‘New Movie Recording’. A recording window will pop up.
-
-**Step 2**: In the recording window there will be a red ‘record’ button. Next to that button there will be an arrow. Click the arrow and a menu of recording options will appear. In the section where it says ‘Camera’ select your iPhone or iPad. In this menu you can also choose whether or not to record audio from your device, such sound effects from games.
-
-**Step 3**: Once you are finished in this menu click record to begin recording the screen of your device. Click ‘stop’ when you are finished recording.
-
-Although you can download a version of QuickTime for PC, the PC version does not have a screen recording option. If you have a PC you will need to use the second method.
-
-## 3\. Wirelessly Using AirPlay and Reflector(For Mac or PC!)
-
-If you either prefer to do things wirelessly or own a PC then you will need to use a slightly more round-about method. Rather than recording directly from your iPhone you will be mirroring your device’s interface onto your computer screen and then recording it there.
-
-**Step 1**: First, you will need to download a third party mirroring app. Reflector is the popular choice. You can download Reflector at [Airsquirrels.com](http://www.airsquirrels.com/).Next, you need to have Apple’s Airplay on your device. Make sure Reflector that your computer and device are connected to the same wifi network.
-
-**Step 2**: Open Reflector on your PC. Initially it will tell you there is no device connected.
-
-**Step 3**: Open AirPlay on your device and make sure mirroring is turned on. Your computer’s name will show up as a receiver option. Select it.
-
-**Step 4**: This will cause the display of your smartphone or tablet to pop up on your computer screen. Once your device is being mirrored on your computer, record your computer screen.
-
-You can record your Mac or PC screen using Filmora Video Editor. Using Filmora you can crop out and record only your iPhone display instead of your entire computer screen. You can download the latest version of Filmora Video Editor at Filmora.wondershare.com.
-
-If you have a Mac you can also record your computer screen in QuickTime following the same steps listed above, until it comes time to choose your camera. Then you record your desktop instead of your device. There are a few different screen recording programs you can download for PC.
-
-## Conclusion
-
-After reading the three ways to record YouTube on iPhone/iPad, I am sure you want to give it a try. If you have any questions, please let us know!
-
-![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
-
-Richard Bennett
-
-Richard Bennett is a writer and a lover of all things video.
-
-Follow @Richard Bennett
-
-
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-7571918770474297"
-     data-ad-slot="8358498916"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-how-to-make-a-memorable-impact-with-youtubes-minis-for-2024/"><u>[New] How to Make a Memorable Impact with Youtube's Minis for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-finding-the-middle-ground-working-and-youtube-for-2024/"><u>[Updated] Finding the Middle Ground  Working & YouTube for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-free-tribe-50-branding-banners-ready-to-unleash/"><u>[New] In 2024, Free Tribe  50 Branding Banners Ready to Unleash</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-growth-in-focus-building-a-foundation-of-youtube-backlinks/"><u>[Updated] 2024 Approved  Growth in Focus  Building a Foundation of YouTube Backlinks</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/transform-concepts-to-successful-youtube-titles-for-2024/"><u>Transform Concepts to Successful YouTube Titles for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-ignite-curiosity-with-a-personal-touch-anime-subscribe-buttons-for-filmmakers-filmora/"><u>[Updated] Ignite Curiosity with a Personal Touch - Anime Subscribe Buttons for Filmmakers (Filmora)</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-getting-the-most-out-of-live-sports-on-youtube-tv/"><u>[New] 2024 Approved  Getting the Most Out of Live Sports on YouTube TV</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-11-free-youtube-playlist-downloadersonlinepcandroidios/"><u>[New] 2024 Approved  11 FREE YouTube Playlist Downloaders[Online/PC/Android/iOS)</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-fortnite-thumbnail-blitz-a-30-second-guide/"><u>[New] In 2024, Fortnite Thumbnail Blitz  A 30-Second Guide</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-analyzing-best-days-for-highest-audience-retention/"><u>2024 Approved  Analyzing Best Days for Highest Audience Retention</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-unlock-social-media-8-free-fb-extractors/"><u>[New] 2024 Approved  Unlock Social Media  8 FREE FB Extractors</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-2024-seamlessly-fuse-videos-using-blend-modes/"><u>In 2024, Seamlessly Fuse Videos Using Blend Modes</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-masterful-social-media-monitoring-expert-selection-of-analytics-software-for-2024/"><u>[New] Masterful Social Media Monitoring  Expert Selection of Analytics Software for 2024</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-change-your-sim-pin-code-on-your-motorola-moto-g-stylus-2023-phone-by-drfone-android/"><u>How To Change Your SIM PIN Code on Your Motorola Moto G Stylus (2023) Phone</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/caught-the-viral-vibe-here-are-amazons-30-hot-tiktok-deals-for-2024/"><u>Caught the Viral Vibe? Here Are Amazon’s 30 Hot TikTok Deals for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/unveiling-effective-routes-to-share-srt-content-on-pinterest-and-reddit/"><u>Unveiling Effective Routes to Share SRT Content on Pinterest & Reddit</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/2024-approved-efficient-video-cutting-techniques-to-boost-your-content/"><u>2024 Approved  Efficient Video Cutting Techniques to Boost Your Content</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-the-most-useful-tips-for-pokemon-go-ultra-league-on-apple-iphone-14-pro-drfone-by-drfone-virtual-ios/"><u>In 2024, The Most Useful Tips for Pokemon Go Ultra League On Apple iPhone 14 Pro | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-unveil-the-leading-10-hidden-story-viewers/"><u>[New] Unveil the Leading 10 Hidden Story Viewers</u></a></li>
+</ul></div>

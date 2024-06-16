@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  Fast Track  A Step by Step Guide for Swiftly Deleting Comments on YouTube\""
-date: 2024-06-03 16:24:37
-updated: 2024-06-06 11:37:25
+date: 2024-06-06T16:26:45.855Z
+updated: 2024-06-07T16:26:45.855Z
 tags:
   - ai video
   - ai youtube
@@ -11,7 +11,7 @@ categories:
 description: "\"This Article Describes [Updated] 2024 Approved: Fast Track: A Step by Step Guide for Swiftly Deleting Comments on YouTube\""
 excerpt: "\"This Article Describes [Updated] 2024 Approved: Fast Track: A Step by Step Guide for Swiftly Deleting Comments on YouTube\""
 keywords: "Quick YT Comment Removal,Efficient YouTube Delete Steps,Rapid Comment Elimination Tips,Speedy Comment Cleanup Guide,Faster Comment Deletion Hacks,Swift YT Comment Clearance,Accelerated Comment Removal Procedures"
-thumbnail: https://www.lifewire.com/thmb/rg6M4Q7Oa_3NTNWoHlMyVHD_ibw=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/ScreenShot2021-05-11at11.47.30AM-9172bd4627dc455493a4099398f1cf2c.png
+thumbnail: https://thmb.techidaily.com/c91ef4997081e65543be4ed1e14a92e0b1b11ea3fa4aac3ca09a237127556c70.png
 ---
 
 ## Fast Track: A Step by Step Guide for Swiftly Deleting Comments on YouTube
@@ -147,83 +147,25 @@ Follow @Richard Bennett
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
-##### Richard Bennett
-
- Mar 27, 2024• Proven solutions
-
-The traditional annotation’s features are replaced by its successor YouTube Cards and End Screen. The annotations performed poorly on mobile and thus, the new changes are for good. The annotations had become outdated and were completely unbefitting. On the contrary, the YouTube cards and end screen offers great access to both desktop and mobiles with easier and faster implementation. Are you still looking for Annotations? Stop your search and try considering YouTube end screen. In this article, learn how to use Youtube end screen and cards.
-
-* [**Part1: Why You Need to Add End Screens To Videos**](#part1)
-* [**Part2: How To Use Youtube End Screen**](#part2)
-* [**Part3: How To Use Youtube Cards**](#part3)
-
-[Wondershare Filmstock Gaming Video Editing Skils](https://images.wondershare.com/filmora/article-images/learn-gaming-video-editing-skills-banner.png)](https://filmstock.wondershare.com/creative-theme-game?source%5Fchannel=seo%5Farticle&spm=rs.filmora%5Fweb)
-
-## Part 1: Why You Need to Add End Screens and Cards to Videos
-
-There are several reasons that make the YouTube end screen and cards a great tool when added to the videos. The new channel builtin features, donation choices, embedded polls and more are some of the best interactive and powerful features of YouTube end screen that’s when added to the video can drive in users to your channel. It is a strong tool to build viewership of your channel. When you use YouTube end screen at the end of the video, it helps in directing the users to other channels, playlists, and videos and also helps in promoting crowdfunding campaigns, merchandise and website. The YouTube end screen is a part of the video and to have an end screen on your video, it must be around 25seconds long.
-
-## Part 2: How To Use Youtube End Screen
-
-Do you wish to add YouTube end screen to your video? Just follow the steps and get going.
-
-* Go to Creator Studio and check the left side to find the Video Manager, click on it.
-* Wherever you wish to add the end screen on the video, click on it.
-* Click End Screen & Annotations at the top.
-* From end screen and annotations, you can add or configure elements.
-* Check how the end screen will appear to the visitors.
-* Click on blue color add element’s button to find four options available there:
-
-**Playlist or Videos**\- This element allows to play the suggested video on the same tab when the user clicks on it.
-
-**Subscribe**\- This allows the users to quickly subscribe to the channel. You may change the appearance of the icon and how your brand name looks.
-
-**Channel**\- Click on this element to promote other YouTube Channel. You may also customize it with a message.
-
-**Link**\- This element helps in sending the users directly to your website. Although, Google has restricted other link addition in the video. In order to add, you must have an Adsense account and permit monetization.
-
-## Part 3: How To Use Youtube Cards
-
-YouTube Cards is more interactive. Users can add images and other linkes. Here are the steps.
-
-* Click on the "Video Manager" tab.
-* If you want to add cards, Click "Edit" tab under it. Then click “cards”.
-* Choose the cards type you want to make on "Add Card" drop down menu.
-* Click “create” button. Select the timeline. In the end, apply.
-
-### The types of YouTube cards
-
-* **Video or playlist**: links to other videos/the complete palylist on YouTube related or non-related to that specific videolinks to further purchase websites or specific product.
-* **Channel**: promote another YouTube channel, one of the most common methods to collaborate with other YouTubers
-* **Poll**: Encourage viewers to participate in a poll (vote)
-* **Link**: links to a website which compliments whatever content is in the video.
-
-### 4 Tips for Using YouTube Cards
-
-**1\.** You might be used to pointing to the part of your screen where you intend to put an annotation, but when you use YouTube Cards they might switch locations depending on what device a viewer is watching on.
-
-**2.** Use three or less cards per video. Viewers are more likely to click your cards if there are fewer of them, and more likely to start ignoring them if it seems like they’re always popping up. Also, do not have all three of these cards appear at once and make people choose between them. Stagger them throughout your video.
-
-**3.** Your cards should be related to what you are saying in your vlog. Avoid posting completely random links in the middle of your video because a viewer who clicks on them will get confused. You can post any type of link you want at the very end of your video, though.
-
- **4.** The end of your video is always a great place to link viewers to another of your videos, whether you use a card or an end screen. If somebody liked your video enough to watch until the end they’ll probably welcome a chance to consume similar content.
-
-## Conclusion
-
-Now, that you are aware how to add YouTube end screen to your video, make use of the amazing features of YouTube end screen and cards and let driving in traffic to your site be easy and fruitful.
-
-![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
-
-Richard Bennett
-
-Richard Bennett is a writer and a lover of all things video.
-
-Follow @Richard Bennett
-
-
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-7571918770474297"
-     data-ad-slot="8358498916"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-bright-beginnings-on-youtube-launching-and-revenue-strategies-for-2024/"><u>[New] Bright Beginnings on YouTube  Launching and Revenue Strategies for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-from-novice-to-pro-unboxing-video-expertise-for-2024/"><u>[New] From Novice to Pro  Unboxing Video Expertise for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-gain-momentum-with-these-strategies-for-trending-youtubers/"><u>[New] In 2024, Gain Momentum with These Strategies for Trending YouTubers</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-ban-unwanted-youtube-recommended-titles/"><u>[Updated] In 2024, Ban Unwanted YouTube Recommended Titles</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-get-free-views-on-youtube-2-easy-ways/"><u>[New] 2024 Approved  How to Get Free Views on YouTube [2 Easy Ways]</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-25-ultimate-android-and-ios-downloading-tools-reviewed/"><u>[Updated] In 2024, 25 Ultimate Android & iOS Downloading Tools Reviewed</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-how-to-quickly-clip-and-save-your-favorite-youtube-sections-for-2024/"><u>[New] How to Quickly Clip and Save Your Favorite YouTube Sections for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-wrapping-up-with-impactful-endings/"><u>[New] Wrapping Up with Impactful Endings</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-conference-call-to-youtube-stream-how-to-broadcast-google-meet/"><u>[Updated] In 2024, From Conference Call to YouTube Stream - How To Broadcast Google Meet</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-master-the-art-of-editing-on-sierra-with-1-5-tools/"><u>[New] Master the Art of Editing on Sierra with #1-#5 Tools</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/go-from-camera-to-cellphone-vt-adjustments-in-fcpx-for-2024/"><u>Go From Camera to Cellphone  VT Adjustments in FCPX for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-essential-steps-to-designing-exceptional-youtube-thumbnails-for-2024/"><u>[Updated] Essential Steps to Designing Exceptional YouTube Thumbnails for 2024</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-vertical-video-victory-the-top-tip-for-resizing-like-a-pro-for-2024/"><u>Updated Vertical Video Victory The Top Tip for Resizing Like a Pro for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/a-swift-journey-to-using-ez-grabber-like-a-pro/"><u>A Swift Journey to Using EZ Grabber Like a Pro</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-fix-oem-unlock-missing-on-vivo-t2-pro-5g-by-drfone-android/"><u>How To Fix OEM Unlock Missing on Vivo T2 Pro 5G?</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-farm-fun-quest-the-leading-10-farm-themed-gaming-titles/"><u>[New] 2024 Approved  Farm Fun Quest  The Leading 10 Farm-Themed Gaming Titles</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-chromecast-without-limits-how-to-stream-uncompatible-video-formats/"><u>New In 2024, Chromecast Without Limits How to Stream Uncompatible Video Formats</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-unveiling-the-secrets-of-superior-tunefab-recordings-for-2024/"><u>[New] Unveiling the Secrets of Superior Tunefab Recordings for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-how-to-decide-on-video-frames-per-second-comparing-30-vs-60/"><u>[Updated] 2024 Approved  How to Decide on Video Frames Per Second? Comparing 30 Vs. 60</u></a></li>
+</ul></div>
