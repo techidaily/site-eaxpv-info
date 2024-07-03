@@ -1,0 +1,279 @@
+---
+title: "\"[New] In 2024, How to Craft Eye-Catching YouTubes End Titles\""
+date: 2024-06-06T15:22:53.582Z
+updated: 2024-06-07T15:22:53.582Z
+tags:
+  - ai video
+  - ai youtube
+categories:
+  - ai
+  - youtube
+description: "\"This Article Describes [New] In 2024, How to Craft Eye-Catching YouTubes End Titles\""
+excerpt: "\"This Article Describes [New] In 2024, How to Craft Eye-Catching YouTubes End Titles\""
+keywords: "\"Engaging YouTube Titles,Hooky Video Headlines,Title Strategies for Videos,Crafting YouTube Sum-Ups,Captivating Video Endings,YouTuber Tactics in Titles,Effective Video Closing Lines\""
+thumbnail: https://thmb.techidaily.com/9530a6a7ae2d76ba480cbada332a623fd47509bd2903fa4cfebcaa0c3ca3de95.jpg
+---
+
+## How to Craft Eye-Catching YouTubes End Titles
+
+# How to Create YouTube Intros & End Cards - Free and Easy
+
+![](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
+
+##### Shanoon Cox
+
+ Oct 26, 2023• Proven solutions
+
+[0](#commentsBoxSeoTemplate)
+
+[Part 1: Intros](#part1)
+
+[Elements of an Intro](#elements)
+
+[Top Intro Sites](#top)
+
+[Creating an Intro in Filmora](#creating)
+
+[Part 2: End Cards](#part2)
+
+[Elements of an End Card](#element)
+
+[How To Make an End Card](#how-to)
+
+## Part1: Intros
+
+#### Elements of an Intro
+
+Intros should only last about five seconds, and that can be cut down to two or three if you have a larger following.
+
+When your intro video is longer than five seconds viewers are more likely to click away. The first 15 seconds of a video is when viewers are most likely to decide to click on one of the recommended videos, or go back to their search results and choose something else. The odds of them leaving within these first 15 seconds are greater if you do not get right to the main point of your video. That is why long intro sequences are bad for your watch time.
+
+Whether it is better to put your intro at the very beginning of your video, or after you introduce your topic, will depend on your viewers. You may want to try it both ways and then look at your retention report (found in your YouTube Creator Studio under Analytics) to see which works best for you.
+
+#### [Top Intro Sites](https://tools.techidaily.com/wondershare/filmora/download/)
+
+There are a few different sites where you can download animated intros, customized to include your username or logo. Here are two of the best:
+
+**FlixPress.com**
+
+This is probably the most popular intro site. There are a lot of great animated intros available for under $5, or even for free.
+
+**IntroMaker.net**
+
+This is another site with really professional looking intros for $5\. They only have two free options, though.
+
+#### Creating an Intro in Filmora
+
+You can create a simple intro card in **Filmora**.
+
+[![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
+
+1. Choose your background. You may want to use a short clip as your intro, or you may just want a colored background.
+2. Drag your clip or background into the video track of your timeline and trim it down to five seconds.
+3. If you have a logo, import it into Filmora and drag it into your picture-in-picture track.
+4. With your logo selected, click on the Green Screen icon. In the pop-up, select the background of your logo to make it transparent. For this to work your logo cannot be the same color as its background.
+5. Click on the editing icon with your logo selected and choose an animation.
+6. Go to the Text/Titles menu and choose an animated title that suits your channel. Drag it into your text track and edit it to include your name.
+7. The last piece of your intro is sound. You can choose a song from Filmora’s library and cut it down to five seconds, or import your sound effect.
+8. Export your video and save it for use in all of your other videos.
+
+## Part 2: End Cards
+
+When your video ends, YouTube will recommend a selection of videos users may want to watch next. Often, these recommendations will not include more of your videos.
+
+To keep viewers on your channel, you can create your End Card which recommends other content you have created.
+
+#### Elements of an End Card
+
+An end card includes clips from two or three of your videos, muted, and shrunk down to thumbnail-size. Using spotlight annotations you can make these thumbnails click-able.
+
+It is also important that your end card includes multiple calls to action. A call to action is meant to spur a viewer to some kind of action. Writing ‘Check out this video’ above one of your thumbnails is a call to action.
+
+You should also have a subscribe link somewhere in your end card, ideally a very noticeable button with a proven call to action like ‘Subscribe Now!’.
+
+Some creators will leave their end cards at that and play music overtop, but it can be even more effective to include a voiceover where you ask viewers to subscribe and watch your other videos.
+
+#### [How To Make an End Card](https://tools.techidaily.com/wondershare/filmora/download/)
+
+1. Choose a static background. You may want to download an end card template or create one in a drawing program. If you do, make sure to include calls to action like ‘Watch more!’ and ‘Subscribe’.
+2. Drag your background into your timeline at the end of your video.
+3. Import two or three of your previous videos and drag them into your picture in picture tracks. Each clip should be on its track.
+4. Trim the clips in your picture in picture track down to the same length as your end card.
+5. Shrink your clips down to thumbnail-size by dragging their corners in the preview window.
+6. Position your clips so they are spaced evenly by dragging them in the preview screen.
+7. Mute your clips.
+8. If your background does not include any calls to action, choose a title from the **Text/Titles** menu in Filmora and create at least two – one asking viewers to subscribe, and one asking them to watch your suggested videos.
+9. Export your video from Filmora and upload it to YouTube.
+10. Go to your **Video Manager** and select **Annotations** in the drop-down menu next to your video.
+11. Go to your end card in the previewer, as that is where you want to add your annotations.
+12. Click **Add Annotation** and add a spotlight annotation to your video. Stretch it over one of your thumbnails and then check the Link box under your Annotation’s timing. Insert a link to the video you are previewing.
+13. Repeat for any other thumbnails. For your subscribe button, change where it said ‘Video’ to ‘Subscribe’ and enter your channel URL.
+14. Click **Apply Changes**.
+
+![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
+
+Shanoon Cox
+
+Shanoon Cox is a writer and a lover of all things video.
+
+Follow @Shanoon Cox
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+## Youtube's Link-Trimming Winners: Select the Top 5 Apps
+
+# Top 5 YouTube Link Shortener You Must Try in 2024
+
+![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
+
+##### Liza Brown
+
+ Mar 27, 2024• Proven solutions
+
+Being one of the largest video-sharing platforms, Youtube is used throughout the world to share and find all kinds of material and content in form of videos. Because of its huge community, the videos of Youtube are shared on all platforms throughout the internet. If you are the one who often shares Youtube links with others then you must know how important it is to keep the links as short as possible. There are so many reasons for avoiding long links while sharing Youtube links with others. Whether it's a blog, social media platform, or a chat, keeping the Youtube link while sharing it can positively impact the viewer. Several Youtube link shorteners can help you shorten the links and make them worthy of sharing. In this article, we will list down Top 5 Youtube link shorteners to help you choose the best. But before moving towards link shorteners, let's discuss the benefit of using Youtube link shorteners.
+
+---
+
+## Why should we use Youtube Link Shorteners?
+
+One of the vital reasons to use Youtube Link Shortener is to increase the click-throughs and shares. Short links are more prone to getting clicks and shares because they look simple and professional as compare to long and stuffy links. If we compare both the links, the short version, and the long version, we will clearly see the difference. The short links look more beautiful and attractive as compare to the long ones. Which means it can attract more people to click and share.
+
+Another big advantage of shortened links is their usability of social platforms such as Facebook, Instagram, LinkedIn, and others. These links take small space as well as help in making your post look appealing to the viewers.
+
+---
+
+#### 1\. Y2U
+
+**_Platform:_**[_Website_](https://y2u.be/)
+
+**_Price:_** _Free_
+
+![y2u-poster](https://images.wondershare.com/y2u-poster.jpg)
+
+Y2U is a web-based platform that helps its user to convert long Youtube links into small and shareable links. It is a simple and easy-to-use Youtube link shortener. It converts the link into three forms, a short link, a very short link, and a QR code. You can use any of these links to share it with your friends or share it on social media platforms such as Facebook and Instagram Bios. It only requires you to paste a Youtube video link directly into this platform and click shorten URL. It allows the users to make their URL worthy to be shared on blogs, Twitter, and chats.
+
+**Features**
+
+* Simple and User-Friendly Interface
+* Free to use Youtube link shortener
+* Convert links to QR codes
+* Make your links share-worthy
+
+#### 2\. Bitly
+
+**_Platform:_**[_Website_](https://bitly.com/)
+
+**_Price:_** _Free - $199_
+
+![bitly-poster](https://images.wondershare.com/bitly-poster.jpg)
+
+Bitly is more than just a simple Youtube link shortener. It contains a wide range of features and options to help its users brand their links, customize them, Analyze the results, and more. One of the best things about Bitly is its ability to track down each link that is shortened using this platform. It provides you with a full analysis of the links and how they are performing. You can use the basic features like the Youtube link shortening and data related to links for free. But it has other options as well that can be acquired by paying a small portion of the money to the platform. This marvelous platform worths each penny you spend on it. It not only makes the links short but also makes them look beautiful and attractive to the viewer.
+
+**Features**
+
+* Shorten your links with Traceability
+* Analyze how your link is performing
+* Count the number of clicks a particular link is getting
+* Analyze the demographics of the clicks
+
+#### 3\. RB.GY
+
+**_Platform:_** [_Website_](https://free-url-shortener.rb.gy/)
+
+**_Price:_** _Free - $9_
+
+![rbgy-poster](https://images.wondershare.com/rbgy-poster.jpg)
+
+RG.GY is an amazing and simple Youtube link shortener that allows you to make the long and ugly Youtube link look small, attractive, and appealing. It also allows you to track down the links that you shorten using RB.GY. These short links can be used on blogs, SMS, social media platforms, emails, and ads for better results and increased click-throughs. If you are a brand and want your links to resemble and showcase your brand when you share them, then this platform can help you achieve this goal. It provides its users with branded domain for $2/year only. These branded links provide 39% more click-through rates than simply shortened links.
+
+**Features**
+
+* Create your own Branded and Short Youtube Links
+* Increase the click-through rate by 39%
+* Make your Youtube links look attractive
+* Availability of both, Free and Paid version
+
+#### 4\. Short.io
+
+**_Platform:_** [_Website_](https://short.io/)
+
+**_Price:_** _Free - $150_
+
+![shortio-poster](https://images.wondershare.com/shortio-poster.jpg)
+
+Short.io is a powerful and effective Youtube link shortener and link tacker. It provides its users with a wide range of facilities to shorten their links and track everything related to their links. It lets you check the number of clicks your link is getting, from which source you are getting a large number of clicks, the location of the one clicking it, and much more to be excited about. This platform allows you to add a chrome extension into your chrome browser to make the process of shortening and tracking the links easy and smooth. Its free version lets you access all the basic features. If you want to access more powerful and effective features, you have to subscribe to any packages ranging from $20 to $150, depending upon your requirements.
+
+**Features**
+
+* Powerful Youtube link shortener
+* Wide range of features
+* Track your link performance throughout the internet
+
+#### 5\. Hyper Host
+
+**_Platform:_** [_Website_](https://hyperhost.ua/tools/en/surli)
+
+**_Price:_** _Free_
+
+![hyper-host-poster](https://images.wondershare.com/hyper-host-poster.jpg)
+
+Hyper Host is the simplest and easy-to-use Youtube link shortener. You don't have to sign up or provide any kind of information in order to use it. It allows you to shorten the links and helps you track the clicks on your links with their links statistics. It provides its user with a wide range of useful information such as the location of the click, which browser was used to access the link, and what was the operating system that brought you the click. It is a completely free-to-use platform.
+
+**Features**
+
+* User-friendly Interface
+* Make your links attractive and small
+* Analyze your links
+* Track country, browser, and operating system
+
+---
+
+#### Conclusion
+
+In this world of digitalization, every brand must have an online presence and Youtube is one of the biggest and most important Videos sharing platforms to utilize. All the above Youtube link shorteners are the best tools that you can find on the internet that will help you shorten the links and make Youtube links branded. Each tool has its own benefits and features. Choose any of these platforms based upon your requirement and need.
+
+[![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
+
+![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
+
+Liza Brown
+
+Liza Brown is a writer and a lover of all things video.
+
+Follow @Liza Brown
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-gourmet-guide-culinary-video-production-for-2024/"><u>[New] Gourmet Guide  Culinary Video Production for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-harnessing-the-potential-of-youtube-shorts-advertising/"><u>[Updated] 2024 Approved  Harnessing the Potential of YouTube Shorts Advertising</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-zero-to-hero-creating-an-online-gaming-empire/"><u>[New] In 2024, From Zero to Hero  Creating an Online Gaming Empire</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-trend-analysis-through-infographics/"><u>[Updated] Trend Analysis Through Infographics</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-get-just-the-essentials-from-youtube-videos-for-2024/"><u>[Updated] How to Get Just the Essentials From YouTube Videos for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-craft-top-quality-youtube-thumbnails-fast/"><u>[New] In 2024, How To Craft Top Quality YouTube Thumbnails Fast</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-fresh-film-views-ranked-alternatives-1-7/"><u>[Updated] In 2024, Fresh Film Views  Ranked Alternatives #1-7</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-from-raw-to-refined-expert-techniques-for-youtube-content-creators-for-2024/"><u>[Updated] From Raw to Refined  Expert Techniques for YouTube Content Creators for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-from-hidden-to-highlighted-your-2-ways-to-see-yts-past-videos-for-2024/"><u>[New] From Hidden to Highlighted  Your 2 Ways to See YT's Past Videos for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-20-must-have-graduation-songs-for-slideshow-for-2024/"><u>Updated 20 Must-Have Graduation Songs for Slideshow for 2024</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-2024-approved-resize-your-video-in-minutes-a-quick-tutorial/"><u>New 2024 Approved Resize Your Video in Minutes A Quick Tutorial</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-transforming-industries-via-vr/"><u>In 2024, Transforming Industries via VR</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-best-of-the-best-28-video-to-gif-converter-options/"><u>In 2024, Best of the Best 28 Video to GIF Converter Options</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/new-laugh-outloud-a-curation-of-the-funniest-tiktok-videos-and-joke-threads/"><u>[New] Laugh Outloud  A Curation of the Funniest TikTok Videos and Joke Threads</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-your-nokia-g310-screen-to-pc-with-chromecast-drfone-by-drfone-android/"><u>In 2024, How to Mirror Your Nokia G310 Screen to PC with Chromecast | Dr.fone</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-in-2024-effortless-conversion-selecting-the-ideal-youtube-to-mp4-software/"><u>Updated In 2024, Effortless Conversion Selecting the Ideal YouTube to MP4 Software</u></a></li>
+<li><a href="https://android-frp.techidaily.com/lava-blaze-2-5g-adb-format-tool-for-pc-vs-other-unlocking-tools-which-one-is-the-best-by-drfone-android/"><u>Lava Blaze 2 5G ADB Format Tool for PC vs. Other Unlocking Tools Which One is the Best?</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-effortless-techniques-to-share-igtv-in-stories/"><u>[New] Effortless Techniques to Share IGTV in Stories</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/a-complete-guide-to-help-you-record-audio-on-iphone/"><u>A Complete Guide to Help You Record Audio on iPhone</u></a></li>
+</ul></div>

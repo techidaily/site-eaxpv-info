@@ -1,0 +1,247 @@
+---
+title: "\"[Updated] In 2024, How to Create YouTube Intros & End Cards - Free and Easy\""
+date: 2024-06-06T15:34:09.035Z
+updated: 2024-06-07T15:34:09.035Z
+tags:
+  - ai video
+  - ai youtube
+categories:
+  - ai
+  - youtube
+description: "\"This Article Describes [Updated] In 2024, How to Create YouTube Intros & End Cards - Free and Easy\""
+excerpt: "\"This Article Describes [Updated] In 2024, How to Create YouTube Intros & End Cards - Free and Easy\""
+keywords: "YouTubE Intro Design,Video Card Creation,Free Video Intros,DIY Intro Cards,Easy End Credits,YouTube Video Edits,Customization for Videos"
+thumbnail: https://thmb.techidaily.com/4f902a43927aa6bf193e9d8b7e9fe3404a519e31c80aea16a8f7ebda50148e4a.jpg
+---
+
+## Master the Art of Budget-Friendly YouTubes Intros and Ends
+
+# How to Create YouTube Intros & End Cards - Free and Easy
+
+![](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
+
+##### Shanoon Cox
+
+ Oct 26, 2023• Proven solutions
+
+[0](#commentsBoxSeoTemplate)
+
+[Part 1: Intros](#part1)
+
+[Elements of an Intro](#elements)
+
+[Top Intro Sites](#top)
+
+[Creating an Intro in Filmora](#creating)
+
+[Part 2: End Cards](#part2)
+
+[Elements of an End Card](#element)
+
+[How To Make an End Card](#how-to)
+
+## Part1: Intros
+
+#### Elements of an Intro
+
+Intros should only last about five seconds, and that can be cut down to two or three if you have a larger following.
+
+When your intro video is longer than five seconds viewers are more likely to click away. The first 15 seconds of a video is when viewers are most likely to decide to click on one of the recommended videos, or go back to their search results and choose something else. The odds of them leaving within these first 15 seconds are greater if you do not get right to the main point of your video. That is why long intro sequences are bad for your watch time.
+
+Whether it is better to put your intro at the very beginning of your video, or after you introduce your topic, will depend on your viewers. You may want to try it both ways and then look at your retention report (found in your YouTube Creator Studio under Analytics) to see which works best for you.
+
+#### [Top Intro Sites](https://tools.techidaily.com/wondershare/filmora/download/)
+
+There are a few different sites where you can download animated intros, customized to include your username or logo. Here are two of the best:
+
+**FlixPress.com**
+
+This is probably the most popular intro site. There are a lot of great animated intros available for under $5, or even for free.
+
+**IntroMaker.net**
+
+This is another site with really professional looking intros for $5\. They only have two free options, though.
+
+#### Creating an Intro in Filmora
+
+You can create a simple intro card in **Filmora**.
+
+[![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
+
+1. Choose your background. You may want to use a short clip as your intro, or you may just want a colored background.
+2. Drag your clip or background into the video track of your timeline and trim it down to five seconds.
+3. If you have a logo, import it into Filmora and drag it into your picture-in-picture track.
+4. With your logo selected, click on the Green Screen icon. In the pop-up, select the background of your logo to make it transparent. For this to work your logo cannot be the same color as its background.
+5. Click on the editing icon with your logo selected and choose an animation.
+6. Go to the Text/Titles menu and choose an animated title that suits your channel. Drag it into your text track and edit it to include your name.
+7. The last piece of your intro is sound. You can choose a song from Filmora’s library and cut it down to five seconds, or import your sound effect.
+8. Export your video and save it for use in all of your other videos.
+
+## Part 2: End Cards
+
+When your video ends, YouTube will recommend a selection of videos users may want to watch next. Often, these recommendations will not include more of your videos.
+
+To keep viewers on your channel, you can create your End Card which recommends other content you have created.
+
+#### Elements of an End Card
+
+An end card includes clips from two or three of your videos, muted, and shrunk down to thumbnail-size. Using spotlight annotations you can make these thumbnails click-able.
+
+It is also important that your end card includes multiple calls to action. A call to action is meant to spur a viewer to some kind of action. Writing ‘Check out this video’ above one of your thumbnails is a call to action.
+
+You should also have a subscribe link somewhere in your end card, ideally a very noticeable button with a proven call to action like ‘Subscribe Now!’.
+
+Some creators will leave their end cards at that and play music overtop, but it can be even more effective to include a voiceover where you ask viewers to subscribe and watch your other videos.
+
+#### [How To Make an End Card](https://tools.techidaily.com/wondershare/filmora/download/)
+
+1. Choose a static background. You may want to download an end card template or create one in a drawing program. If you do, make sure to include calls to action like ‘Watch more!’ and ‘Subscribe’.
+2. Drag your background into your timeline at the end of your video.
+3. Import two or three of your previous videos and drag them into your picture in picture tracks. Each clip should be on its track.
+4. Trim the clips in your picture in picture track down to the same length as your end card.
+5. Shrink your clips down to thumbnail-size by dragging their corners in the preview window.
+6. Position your clips so they are spaced evenly by dragging them in the preview screen.
+7. Mute your clips.
+8. If your background does not include any calls to action, choose a title from the **Text/Titles** menu in Filmora and create at least two – one asking viewers to subscribe, and one asking them to watch your suggested videos.
+9. Export your video from Filmora and upload it to YouTube.
+10. Go to your **Video Manager** and select **Annotations** in the drop-down menu next to your video.
+11. Go to your end card in the previewer, as that is where you want to add your annotations.
+12. Click **Add Annotation** and add a spotlight annotation to your video. Stretch it over one of your thumbnails and then check the Link box under your Annotation’s timing. Insert a link to the video you are previewing.
+13. Repeat for any other thumbnails. For your subscribe button, change where it said ‘Video’ to ‘Subscribe’ and enter your channel URL.
+14. Click **Apply Changes**.
+
+![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
+
+Shanoon Cox
+
+Shanoon Cox is a writer and a lover of all things video.
+
+Follow @Shanoon Cox
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+## 10 Best YouTube Makeup Artists You Must Have Heard
+
+# 10 Best YouTube Makeup Artists You Should Follow
+
+![](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
+
+##### Richard Bennett
+
+ Oct 26, 2023• Proven solutions
+
+[0](#commentsBoxSeoTemplate)
+
+While some love to wear makeup, some don’t. Quite a lot of times you would find a meme, making fun of the ones belonging to the prior category. To all of them, we would like to say, **“STOP JUDGING WOMEN!”** It’s a matter of choice and there’s nothing to shy away from. You would be surprised to know that a lot of them are earning their daily bread today by sharing hacks to nail the latest makeup trend. Okay, we agree that it’s not quite the year for experimenting with new looks. But with the gloom all around, a little makeup and a brief selfie session for your Instagram might make you feel good for a change. Also, with so much time, you might make up your mind on perfecting your skills and launch your makeup tutorial channel someday.
+
+No matter what summoned you to this write-up today, find here some of the **best YouTube makeup artists** you must have heard before. Cut short the troubles of filtering through a whole list of them as we have compiled it on your behalf. So, without beating around the bush, let’s proceed.
+
+* [Part 1: Top 10 YouTube Makeup Artists](#part1)
+* [Part 2: How to Prepare Before Making Your First Makeup Video?](#part2)
+
+## Top 10 YouTube Makeup Artists
+
+Here’s a rundown of our shortlisted ones in no particular order.
+
+#### 1\.  Rachel Claire Levin
+
+This internet personality is widely known for her YouTube channel RCLBeauty101\. A native of Philadelphia, who joined this channel on Dec 14, 2010, has successfully amassed 14.6M subscribers from all over the world. And why not? After all, her channel features diverse videos on life hacks, skits, comedy, and associated things besides DIY makeup tutorials. As of July 2020, the YouTube channel has already gathered 3.71 billion video views, indicating how quickly she’s reaching out to people seeking beauty advice.
+
+#### 2\.  Jeffree Star
+
+Jeffree Star, who is renowned on YouTube as ‘jeffreestar’, is a multi-talented internet personality. This fashion-obsessed influencer had embarked on his journey as a makeup artist on February 15, 2006\. Since then, he has been creating and sharing videos on collabs, life, music, reviews, and makeup of course. His channel has been immensely popular and has amassed 17.4M subscribers with video views soaring to over 2.35 billion. You would be surprised to know that he’s also the founder of Jeffree Star Cosmetics, which was launched in November 2014\. Sharing beauty tips and tutorials have risen on his channel ever since the very onset of his company.
+
+#### 3\.  Nikkie de Jager
+
+And how can we ever forget about the Dutch beauty vlogger, who owns a YouTube channel by the name NikkieTutorials? She’s a YouTube sensation with about 13.5M subscribers and over 1.33 billion views. Success touched her feet in 2015 when she released “The Power of Makeup” YouTube video and inspired people to disclose theirs with and without makeup faces. Her channel features stars like Drew Barrymore and Kim Kardashian, all of which have together contributed to the popularity of her YouTube channel.
+
+#### 4\.  Wayne Goss
+
+The YouTube channel of Wayne Goss is all about beauty tips to improve makeup skills, honest reviews on brands, and a guide for all those aspiring to be a makeup artist. What launched on August 5, 2008, today enjoys 3.79M subscribers and over 508 million video views. The best part about watching makeup tutorials on his channel is that he breaks down even the most complicated looks into easy and manageable segments, simplifying the learning for all.
+
+#### 5\.  Desi Perkins
+
+Desi Perkins’ humble entry into the YouTube community happened on August 18, 2013, when she posted a tutorial titled ‘Soft Warm Sultry Eye’ and since then she’s been taking over the channel by storm. A specialist in wedding, party and casual makeup styles, her rise to fame was mostly due to two of her videos ‘Husband Does My Makeup’ and ‘Eyebrow Tutorial’. Today she captures the attention of almost 3.34M subscribers and 250M views.
+
+#### 6\.  Zoe Elizebeth Sugg
+
+Also known by Zoella, the YouTube channel of Zoe Sugg was an outcome of her success as a blogger, which prompted her to initiate her career and join YouTube on September 4, 2012\. Ever since she has ingrained her position among the top beauty influencers and internet fashionistas. Her collaboration with some of the best beauty brands like ColourPop has further facilitated her to rise to loftier heights of success. Today, her YouTube channel enjoys 4.81M subscribers and over 870M views.
+
+#### 7\.  Tati Westbrook
+
+She’s a gorgeous, successful beauty influencer and an OG beauty YouTuber, who stepped on board on November 8, 2010\. Makeup lovers shall find tutorials, life vlogs, unbiased product reviews, and makeup challenges on her channel, which was renamed ‘Tati’ from ‘GlamLifeGuru’ on November 7, 2010\. She also shares tips on Drugstore & Luxury Beauty Products on two days of the week. All this and much more has helped her win a staggering 9.28M subscribers and 1.4 billion views on YouTube.
+
+#### 8\.  Michelle Phan
+
+Calling her simply an entrepreneur and a voice actress would be an understatement because she’s a notable YouTuber and an American makeup artist, who joined the YouTube community on July 9, 2006\. Her YouTube channel ‘Michelle Phan’ features a repertoire of transformative beauty tutorials and reviews on beauty products. She might have gone on a break for 3 long years between 2016 and 2019 but has still managed to earn 8.89M subscribers and 1.03 billion views. Watch her videos to learn about essential beauty tips.
+
+#### 9\.  Bunny Meyer
+
+This paranormal experience sharer turned YouTube makeup artist, invaded the platform on December 3, 2010, under the channel grav3yardgirl. Her jovial personality and quirks are a reason why viewers, otherwise addressed as the ‘Swamp Family’ love to visit her channel. Apart from teaching unusual beauty makeup hacks, she posts reviews on cosmetic products. Her bizarre approach and successful collaboration with Tarte Cosmetics have helped this Swamp Queen to amass 8.35M subscribers and 1.56 billion views on YouTube.
+
+#### 10\.  Huda Kattan
+
+One of the best YouTube makeup artists you must have heard is Huda Kattan, an Iraqi-American YouTuber, who has her line of cosmetic products under the brand name Huda Beauty. Besides being a founder and CEO of the company, she features beauty hacks and DIY makeup tutorials on her YouTube channel by the same name. Her influence on people with beauty tips has helped her to win 4.04M subscribers and 175M views. If you are feeling bored at home, check out this at-home beauty solution featuring a DIY Eyelash Extension Hack from the video above.
+
+## How to Prepare Before Making Your First Makeup Video?
+
+We assume all this must have stimulated the hidden desire in you to film your first makeup video. There's nothing to get nervous about when you have expert tips on how to shoot a perfect makeup tutorial:
+
+1. Make sure you sit facing a window from where the sun is shining through so that it provides a soft natural glow to your face.
+2. Ensure there's a continuous stream of light, which hardly flickers or distorts. Set up a ring light to mimic the natural light.
+3. To justify the colors of your work and make them pop on your skin, surround yourself with LED luminosity attached with reflectors to disperse the rays evenly throughout the room. This shall keep away the shadows from swallowing you.
+4. Assure quality audio by upgrading to camera mics or simply switch to a reliable audio software for getting the work done.
+5. Edit out the awkward moments from the shoot, add interesting transitions and effects by narrowing down to a reliable video editing software. Filmora can be a wonderful tool to fine-tune your video, add endless effects, remove background noise (if any) and provide you with full 4K support. And the best thing about it is that it's free for beginners!
+
+### Custom Your Makeup Videos with Excellent Video Editing Tool
+
+[![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
+
+### Wrapping Up
+
+All you have to do is subscribe to the channels of all the compiled YouTube makeup artists for real-time updates. Believe it or not, but they have inspired many to launch their own YouTube channels and share a fresh perspective with the viewers. Of them, quite a few have already been a hit among the audience. Remember, there are many struggling to perfect their looks and hunting for beauty hacks. If you can cater to them through easy-to-follow makeup tutorials, then you can be a ‘star’ in the world of the Internet. And someday, you will probably make us proud while writing about you in the columns of our articles.
+
+![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
+
+Richard Bennett
+
+Richard Bennett is a writer and a lover of all things video.
+
+Follow @Richard Bennett
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-boost-your-views-with-premium-youtube-rank-watchers-for-2024/"><u>[New] Boost Your Views with Premium YouTube Rank Watchers for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-fresh-alternative-films-to-dive-into-7-favorites/"><u>[Updated] 2024 Approved  Fresh Alternative Films to Dive Into, #7 Favorites</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-guide-to-securely-copying-youtube-music-tracks-safely/"><u>[Updated] In 2024, Guide to Securely Copying YouTube Music Tracks Safely</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-fixing-problematic-youtube-shorts-thumbnails-display/"><u>[New] In 2024, Fixing Problematic YouTube Shorts Thumbnails Display</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-harmony-haven-our-selection-of-the-top-20-musical-channels-on-youtube/"><u>[New] In 2024, Harmony Haven  Our Selection of the Top 20 Musical Channels on YouTube</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-send-hidden-youtube-videos-using-google-login/"><u>[New] 2024 Approved  How to Send Hidden YouTube Videos Using Google Login</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-glam-up-video-images-integrating-shimmering-neons/"><u>[Updated] 2024 Approved  Glam up Video Images  Integrating Shimmering Neons</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-video-to-animation-easy-youtube-gif-creation-tips/"><u>[New] In 2024, From Video to Animation  Easy YouTube GIF Creation Tips</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-highest-rated-smartphone-camera-and-recording-apps-iphone-vs-android/"><u>[Updated] 2024 Approved  Highest Rated Smartphone Camera & Recording Apps  IPhone vs Android</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-harmonic-hits-top-rated-dj-template-downloads/"><u>[Updated] 2024 Approved  Harmonic Hits  Top-Rated DJ Template Downloads</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/dive-into-fb-360-videos-recording-and-sharing-secrets-for-2024/"><u>Dive Into FB 360 Videos  Recording and Sharing Secrets for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/detailed-digest-the-compreeved-review-of-bublcam-360/"><u>Detailed Digest  The Compreeved Review of Bublcam 360</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/exploring-the-best-youtube-extractors-for-android-devices/"><u>Exploring the Best YouTube Extractors for Android Devices</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-in-2024-who-are-tiktoks-gaming-visionaries/"><u>[New] In 2024, Who Are TikTok’s Gaming Visionaries?</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/finding-the-best-free-subtitle-conversion-services/"><u>Finding the Best Free Subtitle Conversion Services</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/a-step-by-step-review-of-using-showmore-for-video-capture-for-2024/"><u>A Step-by-Step Review of Using ShowMore for Video Capture for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-get-your-favorite-facebook-tracks-in-mp3-best-converters/"><u>Updated 2024 Approved Get Your Favorite Facebook Tracks in MP3 Best Converters</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/in-2024-exploring-originality-how-to-uncover-roots-of-instagram-visuals/"><u>In 2024, Exploring Originality  How to Uncover Roots of Instagram Visuals</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-top-motion-detection-apps-for-mobile-devices/"><u>New Top Motion Detection Apps for Mobile Devices</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-ultimate-guide-5-top-earning-instagram-strategies/"><u>[New] Ultimate Guide  5 Top-Earning Instagram Strategies</u></a></li>
+</ul></div>

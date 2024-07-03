@@ -1,0 +1,343 @@
+---
+title: "\"[New] In 2024, Hilarious YouTube Moments  Top 10 Quirky Short Film Concepts\""
+date: 2024-06-06T14:52:42.741Z
+updated: 2024-06-07T14:52:42.741Z
+tags:
+  - ai video
+  - ai youtube
+categories:
+  - ai
+  - youtube
+description: "\"This Article Describes [New] In 2024, Hilarious YouTube Moments: Top 10 Quirky Short Film Concepts\""
+excerpt: "\"This Article Describes [New] In 2024, Hilarious YouTube Moments: Top 10 Quirky Short Film Concepts\""
+keywords: "\"Hilarious YT Moments,Funny Comedy Films,Quirky Movie Ideas,Laughter YouTube Videos,Cutie Short Film Concepts,Chuckle-Inducing Tactics,Amusing Cinematic Themes\""
+thumbnail: https://thmb.techidaily.com/eda53d482272507886f33101cf7c17fbcff2ff9c0e3000602465b544e6ae7c53.jpg
+---
+
+## Hilarious YouTube Moments: Top 10 Quirky Short Film Concepts
+
+# The 10 Funniest YouTube Shorts Video Ideas in 2024
+
+![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
+
+##### Shanoon Cox
+
+ Feb 20, 2024• Proven solutions
+
+YouTube is a well-known brand for videos globally. This time, it comes with its extension feature with YouTube Shorts. It is a short video version of 15 to 60 seconds duration using a short camera present in the YouTube application and your smartphone. So, you can use YouTube Shorts ideas for watching and creating those funny and interesting short videos right from your mobile camera with ease.
+
+![filmora](https://images.wondershare.com/filmora/youtube-shorts-ideas-1.jpg)
+
+That sounds great, doesn’t it? Let’s move ahead to get a good grab over some funny, engaging, and eye-catching ideas to have YouTube Shorts videos here. No need for a lengthy tutorial to become the real YouTube Shorts champion with the following tips. Let’s roll on, guys!
+
+## Part 1: Top 10 Funny YouTube Shorts Video Ideas
+
+Your wait gets over here. Yes, you heard it right. If you are eager to explore the world of YouTube Shorts Channel and some funny ideas, take a big leap towards your journey.
+
+Then the right platform with a plethora of pictures is covered hereunder the following points. That will spark your mind with the right way that you must be looking around to get a base under the YouTube user world. And gain popularity among them by trending your videos.
+
+#### Idea 1: Talk the Dream
+
+Yeah! The first idea looks so catchy. Everyone holds some dreams. And if you have such beautiful dreams that you would like to share with your loved ones. Then YouTube Shorts ideas are the right platform full of views, likes, and lovers from around the world. Just give a thrust to it.
+
+![filmora](https://images.wondershare.com/filmora/youtube-shorts-ideas-2.jpg)
+
+Also, you can discuss different sorts of dreams that the human genre has been dreaming of for years. You can even add a flavor of future dreams that will open up the space of excellent speculation one can think of.
+
+#### Idea 2: Story Timeline Series
+
+Who doesn’t love the stories? Everyone is somewhat fond of listening to different kinds of stories. And, if you can trim those long stories into small ones or can create some short stories. Then, you can make the best YouTube Shorts stories ideas that will go a long way, not only kids but unique and exciting stories loved by all.
+
+![filmora](https://images.wondershare.com/filmora/youtube-shorts-ideas-3.jpg)
+
+So, pen down some compelling stories that do not need long writing work. But, like a comic strip, you need to create and join such a series under YouTube Shorts ideas.
+
+#### Idea 3: Picture Story
+
+Pictures are a unique way to express feelings, especially when those funny pictures come with background voices, music, etc., it will create a different audio/visual effect.
+
+![filmora](https://images.wondershare.com/filmora/youtube-shorts-ideas-4.jpg)
+
+Using different online software, you can enhance the pictures or modify the background voice. Such a combination under YouTube Shorts Video ideas brings a different aura to your channel.
+
+#### Idea 4: Daily Experiences
+
+Life is indeed full of surprises, events, and glory. Then, why not tailor some of its moments under best YouTube Shorts ideas. These experiences vary from your home, neighbor, society, college, office, or anywhere.
+
+![filmora](https://images.wondershare.com/filmora/youtube-shorts-ideas-5.jpg)
+
+You need to keep your judging eyes open to catch all the moments, and you can also note it down to make a series so as not to miss any exciting experience.
+
+Living every moment creates a wonder. Let others also make a part of this journey and inspire them to build your YouTube shorts ideas.
+
+#### Idea 5: Experimentation
+
+If experimenting with chemicals or anything that surrounds you makes you out of the world, then there is the chance that you can come out as YouTube Shorts ideas Star. By just showing how one chemical, when mixed with another, creates something new and marvelous to see, look or feel.
+
+![filmora](https://images.wondershare.com/filmora/youtube-shorts-ideas-6.jpg)
+
+Just review all your collection of experiments you did and combine them under YouTube Shorts Channel ideas. And make a big bust with such chemical/physical experiments.
+
+#### Idea 6: Funny Competition
+
+Competition creates a zeal to lead, and if you add some flavor to it. Then, people will love to take part in it. So, waiting for what? Just come out with YouTube Shorts funny Video Competition ideas to grab the audience to watch the videos and become active participants.
+
+![filmora](https://images.wondershare.com/filmora/youtube-shorts-ideas-7.jpg)
+
+Funny competition can vary from a weird hairstyle, odd season festival celebration, or anything that you think of interesting, different, and eye-catching.
+
+#### Idea 7: Quirky Music
+
+The dripping sound of water, raindrops, flowing trees, and blowing air make some distinct sound. So, look around to find your inspiration to make some quirky sound, whether the musical instrument or can create your kind of instrument such as tumbler, glass, bowl, etc. And see the natural flow of music that resides all around us.
+
+![filmora](https://images.wondershare.com/filmora/youtube-shorts-ideas-8.jpg)
+
+Just give it a try and dance with the music you create with all the worldwide listeners of YouTube Shorts Channel with this idea.
+
+#### Idea 8: Mimic Cartoon character
+
+Kids love cartoons, but the hidden fact is that everyone enjoys watching cartoon or cartoon characters to a certain extent. Then why not try mimicking some cartoon characters. If you are a fun-loving person, and in your life, you mimic any person’s character, then try mimicking cartoon characters under YouTube Short Video ideas.
+
+![filmora](https://images.wondershare.com/filmora/youtube-shorts-ideas-9.jpg)
+
+Mixing some comedy flavor to life will add more fun and enjoyment to all those seeking funny moments to reflect their days. Come on; show up your humor with this unique style.
+
+#### Idea 9: Funny act with pets
+
+Pets are the favorite of those who own them. They are excellent; they play, dance, and do different kinds of fun activities. Have you ever noticed that, if not, they must take notice now?
+
+![filmora](https://images.wondershare.com/filmora/youtube-shorts-ideas-10.jpg)
+
+You will be surprised to see how much fun-loving these cute pets are—so, geared up to capture the funny acts of pets through YouTube Shorts ideas. It will bring a smile to everyone’s face.
+
+#### Idea 10: Talent showcase
+
+Everybody holds some unique talent. You just need to identify it. If you have some talent, then showcasing talent ideas for YouTube Shorts will apt you. The whole world is waiting to see something unique that only you can do. So, shred your shyness and let the world see how talented you are.
+
+![filmora](https://images.wondershare.com/filmora/youtube-shorts-ideas-11.jpg)
+
+Here, you got to know about the top 10 funny ideas for YouTube Shorts videos. Choose the one that fits you and start creating YouTube Shorts Channel with these ideas.
+
+Wait, there is much more than these best YouTube Shorts ideas. Yes, you heard that right! The following paragraph will lead you to get some important tips, with the help of which you can raise YouTube Short Videos views. So, without waiting anymore, move on to the next paragraph to get a glimpse of it.
+
+## Part 2: Tips to Get More Views for Your YouTube Shorts Videos
+
+Creating ideas for YouTube Shorts videos alone is not sufficient to grab more views. Some specific golden rules or tips will leap while catching more views to the YouTube Short Videos while applying the above ideas. Let’s understand them.
+
+#### 1\. Correct hashtag - #shorts
+
+Using the right Hashtag for the YouTube Shorts videos is a must, reflecting that the video posted is specifically for YouTube Shorts, not the routine videos. And the right one is #shorts.
+
+#### 2\. Keeping user choices in mind/Follow what’s trending
+
+One of the vital rules for any work is user choices. So, if you are planning for the best YouTube Shorts ideas and their implementation effectively, you must take care of user choices and post videos accordingly. That will give a pace to the YouTube Shorts videos views.
+
+#### 3\. Edit videos
+
+Before posting YouTube Shorts videos, utilize some video editor present online to edit, trim, modify the video to provide an excellent visual experience. Check the voice quality; remove any distractions as much as possible.
+
+#### 4\. Detailed description
+
+To get the correct user base and good views, you must provide detailed information under the description section. It helps the platform and the viewers understand your YouTube Shorts Channel and get attached to it accordingly.
+
+#### 5\. Create playlist
+
+If your YouTube Shorts Video Channel contains a series of videos, you can create a playlist to get all the video series under the same playlist. That will help to ease out the searching videos under the same playlist.
+
+#### 6\. Be regular
+
+Regularity is a must to gain more and more views with each day passing. So, make sure that you keep posting your YouTube Shorts Video ideas constantly and gain more perspectives with time.
+
+#### 7\. Unique content
+
+Do not copy others’ content. Try to create something new, something that belongs to you so that it will instantly catch the viewers' eyes.
+
+#### 8\. Other social media for promotion
+
+You can also take the help of other social media platforms to promote your YouTube Shorts Channel ideas among your friends and known ones. This is something called a World of mouth marketing strategy.
+
+#### Conclusion
+
+With its already acknowledged global presence, YouTube came up with the new exciting add-on with YouTube Shorts Channel ideas this time. That is indeed trending and will spread soon among the user in the coming future. And, if you also want to be a part of this hot startup of this best YouTube Shorts ideas.
+
+Then, indeed, this guide is the pathway. You will get different funny YouTube Shorts Video ideas and tips to get more views on your videos.
+
+Thus, start utilizing these powerful ideas and tips and head towards your YouTube Shorts journey.
+
+![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
+
+Shanoon Cox
+
+Shanoon Cox is a writer and a lover of all things video.
+
+Follow @Shanoon Cox
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+## The Essence of Engaging Live Broadcasts: 360° Video Techniques for Youtube
+
+# How to live streaming 360 video to youtube
+
+![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
+
+##### Richard Bennett
+
+ Mar 27, 2024• Proven solutions
+
+* [Part1.Stream 360 to Youtube via Ricoh Theta S and OBS on PC](#part1)
+* [Part2.Live Stream from Allie 360 Camera to YouTube on Mobile](#part2)
+
+## 1\. Stream 360 to Youtube via Ricoh Theta S and OBS on PC
+
+**Step 1:** First of all you need to get ready with your Ricoh Theta S 360 camera unit.
+
+**Step 2:** Now visit the [official website](https://theta360.com/en/support/download/ ) of Theta 360 in order to download your dedicated live streaming application.
+
+![ official website](https://images.wondershare.com/filmora/article-images/official-website.jpg)
+
+**Step 3:** Get your application and install it on your Mac or PC as per need.
+
+**Step 4:** It is time to plug in to your Ricoh Theta S 360 camera using your PC.
+
+![ Richoh Theta](https://images.wondershare.com/filmora/article-images/richoh-theta.jpg)
+
+**Step 5:** Now select your device ‘Ricoh Theta S’ and then hit Okay.
+
+![ click OK](https://images.wondershare.com/filmora/article-images/click-ok.jpg)
+
+**Step 6:**  You will find option to register to application with your respective device. Select and hit register.
+
+![Click register ](https://images.wondershare.com/filmora/article-images/click-register.jpg)
+
+**Step 7:** As soon as your registration process is complete then un-plug your USB cable.
+
+**Step 8:** It is time to turn the Ricoh Theta device to Live Mode; you simple need to press the top power and lower video button simultaneously to directly switch to the live mode.
+
+![ bottom video](https://images.wondershare.com/filmora/article-images/bottom-video.jpg)
+
+**Step 9:** Once your device enters into Live Stream mode then a Led will start blinking on your device that represents your device is live at this moment.
+
+![led ](https://images.wondershare.com/filmora/article-images/led.jpg)
+
+**Step 10:** Now you need to plug in the USB cable again with your computer.
+
+**Step 11:** Visit the official site of OBS and download your software; install it on your system.
+
+**Step 12:** Go to create scene option and then switch to create sources.
+
+![Create scene ](https://images.wondershare.com/filmora/article-images/create-scene.jpg)
+
+**Step 13:** Select video capture device as your source from drop down menu.
+
+![device as ](https://images.wondershare.com/filmora/article-images/device-as.jpg)
+
+**Step 14:** Now from available list select Theta UVC as your active video capture source.
+
+![Theta UVC ](https://images.wondershare.com/filmora/article-images/theta-uvc.jpg)
+
+**Step 15:** You need to adjust screen as per your requirements.
+
+![screen ](https://images.wondershare.com/filmora/article-images/screen.jpg)
+
+**Step 16:** Now move to YouTube and then hit New Live Events option.
+
+![new live events ](https://images.wondershare.com/filmora/article-images/new-live-events.jpg)
+
+**Step 17:** Complete the basic information.
+
+![basic info ](https://images.wondershare.com/filmora/article-images/basic-info.jpg)
+
+**Step 18:** You need to move to advanced settings now; select 360 live stream option and then create event.
+
+**Step 19:** Now complete the ingesting settings and finally select create new stream option.
+
+![new stream option ](https://images.wondershare.com/filmora/article-images/new-stream-option.jpg)
+
+**Step 20:** As soon as your event is created then you will be able to find your stream name on screen, copy it and simply paste it on OBS window.
+
+![ingesting settings ](https://images.wondershare.com/filmora/article-images/ingesting-settings.jpg)
+
+**Step 21:** It is time to return to OBS settings and then you need to paste that copied name on stream key option.
+
+![paste to obs ](https://images.wondershare.com/filmora/article-images/paste-to-obs.jpg)
+
+**Step 22:** Once all above settings are complete then click start stream option from your OBS window and you will soon be able to find your 360 live on YouTube.
+
+![stream key ](https://images.wondershare.com/filmora/article-images/stream-key.jpg)
+
+![360 live ](https://images.wondershare.com/filmora/article-images/360-live.jpg)
+
+## 2.Live Stream from Allie 360 Camera to YouTube on Mobile
+
+**Step 1:** Get ready with your Allie 360 camera unit.
+
+**Step 2:** Visit YouTube and then hit the option to create your live event.
+
+**Step 3:** It is time to download your Allie Application and then get it installed on your device.
+
+* Prefer to use this link if you are working on iOS: <https://itunes.apple.com/app/allie-home/id1063986074>
+* Android users need to visit: <https://play.google.com/store/apps/details?id=com.icrealtime.allie>
+
+**Step 4:** As soon as you have downloaded your app then simply turn on the Bluetooth, Wi-Fi and air plane mode on your device.
+
+![air plane mode ](https://images.wondershare.com/filmora/article-images/air-plane-mode.jpg)
+
+**Step 5:** Simply open your Allie application and then connect your camera.
+
+![allie app ](https://images.wondershare.com/filmora/article-images/allie-app.jpg)
+
+**Step 6:** Now users need to hit stream icon on screen.
+
+![  icon on ](https://images.wondershare.com/filmora/article-images/icon-on.jpg)
+
+**Step 7:** You will be asked to fill the necessary information about your video. It is also possible to make adjustments regarding video quality. Once you are done with all required settings then hit Submit option.
+
+![click submit ](https://images.wondershare.com/filmora/article-images/click-submit.jpg)
+
+**Step 8:** Soon your video will become live; note that you can also share your live video via SNS platform with other viewers.
+
+![SNS platform ](https://images.wondershare.com/filmora/article-images/sns-platform.jpg)
+
+![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
+
+Richard Bennett
+
+Richard Bennett is a writer and a lover of all things video.
+
+Follow @Richard Bennett
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-charting-the-course-to-youtube-livestream-mastery/"><u>[New] 2024 Approved  Charting the Course to YouTube Livestream Mastery</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-fast-paced-favorites-leading-background-music-in-yt-shorts-for-2024/"><u>[Updated] Fast-Paced Favorites  Leading Background Music in YT Shorts for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-create-impactful-youtube-videos-top-20-font-picks-for-2024/"><u>[New] Create Impactful YouTube Videos  Top 20 Font Picks for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-from-beginners-to-pros-choosing-webcams-for-youtube-live-for-2024/"><u>[New] From Beginners to Pros  Choosing Webcams for YouTube Live for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-getting-your-foot-in-the-channels-door-must-haves-for-2024/"><u>[Updated] Getting Your Foot in the Channel's Door  Must-Haves for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-grasping-the-essence-of-your-youtube-community/"><u>[New] 2024 Approved  Grasping the Essence of Your YouTube Community</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-go-professional-stay-budgeted-top-4-tutorials-on-creating-green-screen-magic-for-cost-free-learning/"><u>[New] In 2024, Go Professional, Stay Budgeted  Top 4 Tutorials on Creating Green Screen Magic for Cost-Free Learning</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-achieve-professional-level-audio-quality-on-youtube/"><u>[Updated] In 2024, How to Achieve Professional-Level Audio Quality on YouTube</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-best-cameras-for-vlogging/"><u>[New] 2024 Approved  Best Cameras for Vlogging</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-snapshot-sophistication-editing-to-dazzle/"><u>[Updated] Snapshot Sophistication  Editing to Dazzle</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-the-ultimate-guide-to-your-first-adobe-presenter-video-for-2024/"><u>[Updated] The Ultimate Guide to Your First Adobe Presenter Video for 2024</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-understanding-hd-video-resolution-a-step-by-step-guide-for-2024/"><u>New Understanding HD Video Resolution A Step-by-Step Guide for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-how-to-cut-video-for-instagram-on-mac-for-2024/"><u>[New] How To Cut Video For Instagram On Mac for 2024</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-after-switching-from-tecno-spark-10-4g-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data After Switching From Tecno Spark 10 4G to Latest Samsung | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-achieving-asmr-bliss-selecting-the-right-mic/"><u>[New] 2024 Approved  Achieving ASMR Bliss  Selecting the Right Mic</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-reset-itunes-backup-password-of-apple-iphone-6-plus-prevention-and-solution-drfone-by-drfone-ios/"><u>In 2024, Reset iTunes Backup Password Of Apple iPhone 6 Plus Prevention & Solution | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/budget-drone-selection-the-ultimate-list-for-(100-for-2024/"><u>Budget Drone Selection  The Ultimate List for <$100 for 2024</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/updated-ai-video-translator-online-for-2024/"><u>Updated AI Video Translator | Online for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-maker-milestones-subscriber-and-interactive-feature-prizes/"><u>[New] Maker Milestones  Subscriber & Interactive Feature Prizes</u></a></li>
+</ul></div>
