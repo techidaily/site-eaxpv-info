@@ -1,7 +1,7 @@
 ---
 title: "\"[New] How to Create Impactful Video Elements  Cards/Annotations for 2024\""
-date: 2024-06-06T13:55:37.737Z
-updated: 2024-06-07T13:55:37.737Z
+date: 2024-07-02T20:09:44.225Z
+updated: 2024-07-03T20:09:44.225Z
 tags:
   - ai video
   - ai youtube
@@ -96,7 +96,7 @@ When you link a viewer to a non-YouTube page you break up their session time, wh
 
 Giving viewers more information and a thumbnail through a Card can help ensure the most interested viewers are the ones clicking your links.
 
-If you want to find a video editing solution that empowers your imagination and creativity yet takes less effort, please try this robust and user-friendly video editing software Filmora, which is equipped with its own footage stock **_[Wondershare Filmstock](https://www.filmstocks.com/?fs%5Fchannel=ws)_** and will definitely enhance your productivity and helps you to make money by making videos much easier.
+If you want to find a video editing solution that empowers your imagination and creativity yet takes less effort, please try this robust and user-friendly video editing software Filmora, which is equipped with its own footage stock **_ [Wondershare Filmstock](https://www.filmstocks.com/?fs%5Fchannel=ws) _** and will definitely enhance your productivity and helps you to make money by making videos much easier.
 
 [![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 

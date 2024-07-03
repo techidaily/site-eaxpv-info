@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] In 2024, Hot Tunes  Essential Background Scores For Viral YT Shorts\""
-date: 2024-06-06T13:53:52.838Z
-updated: 2024-06-07T13:53:52.838Z
+date: 2024-07-02T20:09:44.464Z
+updated: 2024-07-03T20:09:44.464Z
 tags:
   - ai video
   - ai youtube
@@ -131,7 +131,7 @@ That’s it! This will automatically add the selected music for YouTube Shorts, 
 
 ![filmora](https://images.wondershare.com/filmora/youtube-shorts-music-5.jpg)
 
-## Bonus Tip: Add Stunning Edits to Your Videos with [Filmora](https://tools.techidaily.com/wondershare/filmora/download/)
+## Bonus Tip: Add Stunning Edits to Your Videos with Filmora
 
 Now, when you know how to add YouTube Shorts music to any video, you can easily come up with some great content for your channel. Though, if you want to make better edits and make your videos even more interesting, then you can use **Wondershare Filmora**.
 

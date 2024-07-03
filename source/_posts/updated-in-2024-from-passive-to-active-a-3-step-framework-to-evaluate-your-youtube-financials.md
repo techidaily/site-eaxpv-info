@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] In 2024, From Passive to Active  A 3-Step Framework to Evaluate Your YouTube Financials\""
-date: 2024-06-06T15:13:52.708Z
-updated: 2024-06-07T15:13:52.708Z
+date: 2024-07-02T20:09:50.695Z
+updated: 2024-07-03T20:09:50.695Z
 tags:
   - ai video
   - ai youtube
@@ -389,21 +389,21 @@ Checking YouTube income is not a big deal. This article has covered every necess
 The following is a guide to **YouTube collaborations** \- specifically, it's a list of tips for finding and approaching collab partners. Here are videos from 4 YouTubers who have done successful collabs about how they were able to get other creators to work with them.
 
 1. **[Tips from Tech YouTuber Roberto Blake](#blake)**  
-   1. _[Approach people you already have a relationship with](#askfriends)_  
-   2. _[Think about what your potential partner could have to offer your existing subscribers](#offer)_  
-   3. _[Create quality content consistently](#qualitycontent)_
+   1. _ [Approach people you already have a relationship with](#askfriends) _  
+   2. _ [Think about what your potential partner could have to offer your existing subscribers](#offer) _  
+   3. _ [Create quality content consistently](#qualitycontent) _
 2. **[Tips from YouTube Guru Nick Nimmin](#Nimmin)**  
-   1. _[Use the person’s name when you contact them](#usename)_  
-   2. _[Keep it simple](#simple)_  
-   3. _[Have ideas](#ideas)_
+   1. _ [Use the person’s name when you contact them](#usename) _  
+   2. _ [Keep it simple](#simple) _  
+   3. _ [Have ideas](#ideas) _
 3. **[Tips from Freelancer / Lifestyle Vlogger Amy Schmittauer](#schmittauer)**  
-   1. _[Networking is important in finding collab partners](#networking)_  
-   2. _[Don’t stray too far from your other content](#dontstray)_  
-   3. _[Thank the people you work with in your videos](#thankpeople)_
+   1. _ [Networking is important in finding collab partners](#networking) _  
+   2. _ [Don’t stray too far from your other content](#dontstray) _  
+   3. _ [Thank the people you work with in your videos](#thankpeople) _
 4. **[Tips from Lifestyle and Fashion YouTuber MyLifeAsEva](#gutowski)**  
-   1. _[Don’t approach other YouTubers as a ‘fan’](#notafan)_  
-   2. _[Ask questions](#ask)_  
-   3. _[Use Twitter](#twitter)_
+   1. _ [Don’t approach other YouTubers as a ‘fan’](#notafan) _  
+   2. _ [Ask questions](#ask) _  
+   3. _ [Use Twitter](#twitter) _
 
  Also, check out these tips on **[how to grow your channel using collab videos](https://tools.techidaily.com/wondershare/filmora/download/)**.
 

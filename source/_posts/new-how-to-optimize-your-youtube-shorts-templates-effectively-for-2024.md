@@ -1,7 +1,7 @@
 ---
 title: "[New] How to Optimize Your YouTube Shorts Templates Effectively for 2024"
-date: 2024-06-06T16:00:05.160Z
-updated: 2024-06-07T16:00:05.160Z
+date: 2024-07-02T20:09:45.310Z
+updated: 2024-07-03T20:09:45.310Z
 tags:
   - ai video
   - ai youtube
@@ -493,11 +493,11 @@ Place the video you’re reacting to on a video track on the timeline and then a
 
 If you would like to change the on-screen position of the overlay clip, you should simply click on it and drag it to the new location within the preview window.
 
-![Create reaction video with Filmora Picture in Picture feature ](https://images.wondershare.com/filmora/article-images/adjust-reaction-video-size-position.jpg)
+![Create reaction video with Filmora Picture in Picture feature](https://images.wondershare.com/filmora/article-images/adjust-reaction-video-size-position.jpg)
 
 Filmora offers more than sixty motion effects, hundreds of transitions, and visual effects that can make your reaction video more visually appealing to the audience.
 
-![Filmora  compositing with Blending modes ](https://images.wondershare.com/filmora/article-images/compositing-video-9.jpg)
+![Filmora  compositing with Blending modes](https://images.wondershare.com/filmora/article-images/compositing-video-9.jpg)
 
 Moreover, Filmora video editing software offers a variety of blending modes, and it lets you control the opacity of the overlay video so that you can make it more transparent. Whether or not you are going to use these options depends on the footage you’re working with and the demands of a particular project.
 

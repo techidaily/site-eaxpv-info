@@ -1,7 +1,7 @@
 ---
 title: "[New] Eliminating Backlogged Videos From Your YouTube History for 2024"
-date: 2024-06-06T16:19:06.523Z
-updated: 2024-06-07T16:19:06.523Z
+date: 2024-07-02T20:09:50.902Z
+updated: 2024-07-03T20:09:50.902Z
 tags:
   - ai video
   - ai youtube
@@ -62,7 +62,7 @@ Step2 Now, hit the **"Ctrl + Shift + J"** keys on Windows or the **"Command + Op
 
 Step3 Copy and paste the following lines of the script at the end of the line under the Console tab where the cursor is blinking.
 
-setInterval(function () { document.querySelector('#primary button\[aria-label="Action menu"\]').click(); var things = document.evaluate( '//span\[contains(text(),"Remove from")\]', document, null, XPathResult.ORDERED\_NODE\_SNAPSHOT\_TYPE, null ); for (var i = 0; i < things.snapshotLength; i++) { things.snapshotItem(i).click(); } }, 1000);
+setInterval(function () { document.querySelector('#primary button\[aria-label="Action menu"\]').click(); var things = document.evaluate('//span\[contains(text(),"Remove from")\]', document, null, XPathResult.ORDERED\_NODE\_SNAPSHOT\_TYPE, null ); for (var i = 0; i < things.snapshotLength; i++) { things.snapshotItem(i).click(); } }, 1000);
 
 Step4 In the last step, hit the **"Enter"** key to clear the Watch Later Playlist on YouTube. However, the process may take some time, depending on the number of videos in your playlist.
 

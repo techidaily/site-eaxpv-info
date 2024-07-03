@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] From FTP to Feed  The Complete Guide to Uploading to YouTube for 2024\""
-date: 2024-06-06T13:57:00.124Z
-updated: 2024-06-07T13:57:00.124Z
+date: 2024-07-02T20:09:45.117Z
+updated: 2024-07-03T20:09:45.117Z
 tags:
   - ai video
   - ai youtube
@@ -115,7 +115,7 @@ As soon as you have confirmed your video upload, you will find a progress bar on
 
 #### Step 5: Choose your thumbnail
 
-Once your video uploading is complete, it is time to choose a creative thumbnail for your video. The system provides you with three options to choose from automatically, all of which will be screenshots from your video. It is usually better to[upload your own custom thumbnail](https://tools.techidaily.com/wondershare/filmora/download/), as thumbnails are a very important factor in attracting viewers. Hit the “Done” button or use the “Publish” button to finalize your upload.
+Once your video uploading is complete, it is time to choose a creative thumbnail for your video. The system provides you with three options to choose from automatically, all of which will be screenshots from your video. It is usually better to [upload your own custom thumbnail](https://tools.techidaily.com/wondershare/filmora/download/), as thumbnails are a very important factor in attracting viewers. Hit the “Done” button or use the “Publish” button to finalize your upload.
 
 That’s how to upload a video on YouTube! Any questions?
 

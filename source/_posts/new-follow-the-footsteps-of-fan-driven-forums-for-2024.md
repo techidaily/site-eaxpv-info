@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Follow the Footsteps of Fan-Driven Forums for 2024\""
-date: 2024-06-06T15:50:56.298Z
-updated: 2024-06-07T15:50:56.298Z
+date: 2024-07-02T20:09:50.153Z
+updated: 2024-07-03T20:09:50.153Z
 tags:
   - ai video
   - ai youtube
@@ -85,7 +85,7 @@ Everything you have to do now follows the steps below. For the following methods
 * Go to the homepage of YouTube. At the top left corner, Click on the three-lined icon. Click on History next. You will be redirected to your account's history section.
 * At the right corner, choose History type as 'community.' Below that, click on the 'Comments' option. Finally, a new tab would open with all your YouTube comment history.
 
-![  YouTube comment  history search ](https://images.wondershare.com/filmora/article-images/youtube-history-comments-menu.jpg)
+![YouTube comment  history search](https://images.wondershare.com/filmora/article-images/youtube-history-comments-menu.jpg)
 
 By these basic steps, enjoy editing or deleting your comments and replies directly on YouTube!
 
@@ -115,7 +115,7 @@ Did you know you can also customize your comment section as per your need? On th
 * First of all, you need to sign in to YouTube Studio: <http://studio.youtube.com>,
 * From the left bar, select Content, click a video's thumbnail, and click on Show More in video details page.
 
-![  YouTube comment  and rating settings ](https://images.wondershare.com/filmora/article-images/set-up-comment-ratings.jpg)
+![YouTube comment  and rating settings](https://images.wondershare.com/filmora/article-images/set-up-comment-ratings.jpg)
 
 * Under 'Comments and ratings,' select Sort by, and then choose between "Top" and "Newest."
 * Save the changes, and you are done!

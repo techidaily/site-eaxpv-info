@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] In 2024, Earning Through YouTube  Navigating Revenue Without Ads\""
-date: 2024-06-06T16:38:33.804Z
-updated: 2024-06-07T16:38:33.804Z
+date: 2024-07-02T20:09:48.239Z
+updated: 2024-07-03T20:09:48.239Z
 tags:
   - ai video
   - ai youtube
@@ -38,7 +38,7 @@ Over thousands of hours of content are uploaded on YouTube every day and people 
 
 ## **What is the YouTube Partner Program (YPP)?**
 
-[YPP enables YouTubers to make money from an advertisement](https://www.filmora.io/community-blog/youtube-monetization---the-ultimate-guide-to-ad-revenue-422.html)that appears before or during their videos.
+[YPP enables YouTubers to make money from an advertisement](https://www.filmora.io/community-blog/youtube-monetization---the-ultimate-guide-to-ad-revenue-422.html) that appears before or during their videos.
 
 ## **How Much Money Can YouTubers Make from Ads?**
 
@@ -58,7 +58,7 @@ This is a general estimate of how much a YouTuber can make from ads once they qu
 
 For new YouTubers, it is getting harder and harder to get to that point where their sole income can be from YouTube ads. Before they can make a penny, they must first qualify.
 
-#### **Monetization Rules (**[**as of January 2018**](https://techcrunch.com/2018/01/16/youtube-tightens-rukles/)**):**
+#### **Monetization Rules (** **as of January 2018**
 
 \- Creators need 1,000 subscribers and 4,000 hours of view time in 12 months before they can turn on monetization
 
@@ -86,9 +86,9 @@ Here are some examples of products and services you can offer:
 
 \- Channel/brand merchandise
 
- ![YouTuber Jake Paul ](https://images.wondershare.com/filmora/article-images/jack-paul1.jpg)
+ ![YouTuber Jake Paul](https://images.wondershare.com/filmora/article-images/jack-paul1.jpg)
 
-_YouTuber, Jake Paul uses eCommerce platform_ [_Fanjoy_](https://fanjoy.co/collections/)_to sell his merch._
+_YouTuber, Jake Paul uses eCommerce platform_ [_Fanjoy_](https://fanjoy.co/collections/) _to sell his merch._
 
 #### **Services:**
 
@@ -116,7 +116,7 @@ If you are selling a meditation eBook and guided meditation services, type in so
 
 ![meditation](https://images.wondershare.com/filmora/article-images/meditation3.png)
 
-From there, take your possible keywords and put them into a tool such as [Ubersuggest](https://neilpatel.com/ubersuggest/)to find other related keywords. This will help you create discoverable content that will catch the interest of those who will buy what you are selling.
+From there, take your possible keywords and put them into a tool such as [Ubersuggest](https://neilpatel.com/ubersuggest/) to find other related keywords. This will help you create discoverable content that will catch the interest of those who will buy what you are selling.
 
  **2\. Your content must have value:** You cannot start with the Call to Action or try selling to your audience right away. You must first build trust and prove that what you are selling has value.
 
@@ -168,7 +168,7 @@ The average affiliate commission rate is between 5% to 30%, with a lot of variab
 
 ![affiliate links](https://images.wondershare.com/filmora/article-images/affiliat-link8.jpg)
 
-_Travel YouTuber,_ [_Sorelle Amore_](https://www.youtube.com/user/SorelleIAm)_’s affiliate links to her vlogging gears._
+_Travel YouTuber,_ [_Sorelle Amore_](https://www.youtube.com/user/SorelleIAm) _’s affiliate links to her vlogging gears._
 
  Keep in mind that people are most likely going to take recommendations from people they trust. You wouldn’t buy a computer from a nutritionist and you wouldn’t buy vitamins from a gamer, so consider what you are an expert in and what products you have the most authority to speak about.
 
@@ -204,7 +204,7 @@ Here is the list of 4 popular affiliate marketing networks:
 
 \- [PeerFly](https://peerfly.com/)
 
-You can also partner with brands directly as many of them, such as [Sephora](https://www.sephora.com/affiliates)and [Canon](https://shop.usa.canon.com/shop/en/catalog/affiliate-program), will have their own affiliate program.
+You can also partner with brands directly as many of them, such as [Sephora](https://www.sephora.com/affiliates) and [Canon](https://shop.usa.canon.com/shop/en/catalog/affiliate-program), will have their own affiliate program.
 
 ## **3\. Brand Deal or Sponsorships:**
 
@@ -257,7 +257,7 @@ But how can you approach crowdfunding so it doesn’t look like you are begging?
 
 \- **Project-based:**  Is there a special project you have in mind, get support for it. A longer-form video or one that your fans have been wanting for a while, by highlighting this anticipated project, you can get more backing behind it financially.
 
- From Sept-Oct 2011, the YouTube channel Freddiew (aka RocketJump) went on [Kickstarter to crowdfund](https://www.kickstarter.com/projects/freddiew/video-game-high-school)so they can produce a web series called Video Game High School. In 30 days, they were able to surpass their goal of $75,000 with $273,725 and 5,661 backers. The result is a multiple season web series, the first one published onto YouTube in May 2012.
+ From Sept-Oct 2011, the YouTube channel Freddiew (aka RocketJump) went on [Kickstarter to crowdfund](https://www.kickstarter.com/projects/freddiew/video-game-high-school) so they can produce a web series called Video Game High School. In 30 days, they were able to surpass their goal of $75,000 with $273,725 and 5,661 backers. The result is a multiple season web series, the first one published onto YouTube in May 2012.
 
  Without crowdfunding, the project would unlikely have been produced and published for viewers in such a short amount of time.
 
@@ -275,7 +275,7 @@ If you have a pie in the sky goal, you aren’t going to fully leverage the mess
 
 #### **How Does Patreon Work for YouTubers?**
 
-When it comes to crowdfunding for YouTubers, [Patreon](https://www.patreon.com/)is the platform of choice. While other platforms such as Kickstarter or GoFundMe are focused on entrepreneurial pursuits, large projects, or charitable causes, Patreon is designed to support creatives and reward and incentivize donors.
+When it comes to crowdfunding for YouTubers, [Patreon](https://www.patreon.com/) is the platform of choice. While other platforms such as Kickstarter or GoFundMe are focused on entrepreneurial pursuits, large projects, or charitable causes, Patreon is designed to support creatives and reward and incentivize donors.
 
 ## **Key Takeaways:**
 

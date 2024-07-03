@@ -1,7 +1,7 @@
 ---
 title: "[New] How to Brand Your YouTube Channel to Get More Subscribers for 2024"
-date: 2024-06-06T15:17:25.528Z
-updated: 2024-06-07T15:17:25.528Z
+date: 2024-07-02T20:09:45.640Z
+updated: 2024-07-03T20:09:45.640Z
 tags:
   - ai video
   - ai youtube
@@ -277,31 +277,31 @@ Follow @Shanoon Cox
 
 **Step 2:**Once entered inside your account then you need to visit the Go live streaming options and then from drop down menu simply choose Stream Now option.
 
-![live-on-youtube-gaming-with-obs-1 ](https://images.wondershare.com/filmora/article-images/live-on-youtube-gaming-with-obs-1.jpg)
+![live-on-youtube-gaming-with-obs-1](https://images.wondershare.com/filmora/article-images/live-on-youtube-gaming-with-obs-1.jpg)
 
 **Step 3:**It is time to fill the details on screen; put impressive words for your live stream description so that it can grab attention of more viewers. Then select category as ‘Gaming’.
 
-![live-on-youtube-gaming-with-obs-2 ](https://images.wondershare.com/filmora/article-images/live-on-youtube-gaming-with-obs-2.jpg)
+![live-on-youtube-gaming-with-obs-2](https://images.wondershare.com/filmora/article-images/live-on-youtube-gaming-with-obs-2.jpg)
 
 **Step 4:**Now you need to copy the stream key.
 
-![live-on-youtube-gaming-with-obs-3 ](https://images.wondershare.com/filmora/article-images/live-on-youtube-gaming-with-obs-3.jpg)
+![live-on-youtube-gaming-with-obs-3](https://images.wondershare.com/filmora/article-images/live-on-youtube-gaming-with-obs-3.jpg)
 
 **Step 5:**Now open your OBS tool and then select YouTube as your active game streaming service. Users here need to paste that copied streaming key of Step 5 into the space provided on OBS settings page.
 
-![live-on-youtube-gaming-with-obs-4 ](https://images.wondershare.com/filmora/article-images/live-on-youtube-gaming-with-obs-4.jpg)
+![live-on-youtube-gaming-with-obs-4](https://images.wondershare.com/filmora/article-images/live-on-youtube-gaming-with-obs-4.jpg)
 
 **Step 6:**It is time to make your desktop a video source.
 
-![live-on-youtube-gaming-with-obs-5 ](https://images.wondershare.com/filmora/article-images/live-on-youtube-gaming-with-obs-5.jpg)
+![live-on-youtube-gaming-with-obs-5](https://images.wondershare.com/filmora/article-images/live-on-youtube-gaming-with-obs-5.jpg)
 
 **Step 7:**Once all these settings are completed then you need to hit the start streaming option.
 
-![live-on-youtube-gaming-with-obs-6 ](https://images.wondershare.com/filmora/article-images/live-on-youtube-gaming-with-obs-6.jpg)
+![live-on-youtube-gaming-with-obs-6](https://images.wondershare.com/filmora/article-images/live-on-youtube-gaming-with-obs-6.jpg)
 
 **Step 8:**The service may take few seconds to bring your live on YouTube and after this small duration you will be connected to your channel with your streamed content. Then change your url from youtube.com to gaming.youtube.com
 
-![live-on-youtube-gaming-with-obs-7 ](https://images.wondershare.com/filmora/article-images/live-on-youtube-gaming-with-obs-7.jpg)
+![live-on-youtube-gaming-with-obs-7](https://images.wondershare.com/filmora/article-images/live-on-youtube-gaming-with-obs-7.jpg)
 
 **Step 9:**You are all set to be live on your YouTube gaming profile.
 
@@ -315,27 +315,27 @@ Follow @Shanoon Cox
 
 **Step 2:**Once installation process is complete then launch your software.
 
-![live-stream-on-youtube-with-elgato-game-capture-hd-1 ](https://images.wondershare.com/filmora/article-images/live-stream-on-youtube-with-elgato-game-capture-hd-1.jpg)
+![live-stream-on-youtube-with-elgato-game-capture-hd-1](https://images.wondershare.com/filmora/article-images/live-stream-on-youtube-with-elgato-game-capture-hd-1.jpg)
 
 **Step 3:**Now you need to hit the add button on screen and select YouTube from drop down menu.
 
-![live-stream-on-youtube-with-elgato-game-capture-hd-2 ](https://images.wondershare.com/filmora/article-images/live-stream-on-youtube-with-elgato-game-capture-hd-2.jpg)
+![live-stream-on-youtube-with-elgato-game-capture-hd-2](https://images.wondershare.com/filmora/article-images/live-stream-on-youtube-with-elgato-game-capture-hd-2.jpg)
 
 **Step 4:** It is time to sign in with your Google Account.
 
-![live-stream-on-youtube-with-elgato-game-capture-hd-3 ](https://images.wondershare.com/filmora/article-images/live-stream-on-youtube-with-elgato-game-capture-hd-3.jpg)
+![live-stream-on-youtube-with-elgato-game-capture-hd-3](https://images.wondershare.com/filmora/article-images/live-stream-on-youtube-with-elgato-game-capture-hd-3.jpg)
 
 **Step 5:**After sign up process, allow the Elgato Game Capture tool to make connection with your YouTube account.
 
-![live-stream-on-youtube-with-elgato-game-capture-hd-4 ](https://images.wondershare.com/filmora/article-images/live-stream-on-youtube-with-elgato-game-capture-hd-4.jpg)
+![live-stream-on-youtube-with-elgato-game-capture-hd-4](https://images.wondershare.com/filmora/article-images/live-stream-on-youtube-with-elgato-game-capture-hd-4.jpg)
 
 **Step 6:**Soon you will be able to access you account from Elgato platform.
 
-![live-stream-on-youtube-with-elgato-game-capture-hd-5 ](https://images.wondershare.com/filmora/article-images/live-stream-on-youtube-with-elgato-game-capture-hd-5.jpg)
+![live-stream-on-youtube-with-elgato-game-capture-hd-5](https://images.wondershare.com/filmora/article-images/live-stream-on-youtube-with-elgato-game-capture-hd-5.jpg)
 
 **Step 7:**It is time to make adjustments for streaming settings.
 
-![live-stream-on-youtube-with-elgato-game-capture-hd-6 ](https://images.wondershare.com/filmora/article-images/live-stream-on-youtube-with-elgato-game-capture-hd-6.jpg)
+![live-stream-on-youtube-with-elgato-game-capture-hd-6](https://images.wondershare.com/filmora/article-images/live-stream-on-youtube-with-elgato-game-capture-hd-6.jpg)
 
 ### B: Test your Bandwidth and make adjustments for Stream settings
 
@@ -343,23 +343,23 @@ Follow @Shanoon Cox
 
 **Step 1:**Open your browser and then visit the speedtest.net platform. You can also use other similar kind of websites to ensure the speed of your internet. Note that you will find a Bit Rate dial in the live streaming section, here you can make adjustments for bit rates to bring it to desired level.
 
-![live-stream-on-youtube-with-elgato-game-capture-hd-7 ](https://images.wondershare.com/filmora/article-images/live-stream-on-youtube-with-elgato-game-capture-hd-7.jpg)
+![live-stream-on-youtube-with-elgato-game-capture-hd-7](https://images.wondershare.com/filmora/article-images/live-stream-on-youtube-with-elgato-game-capture-hd-7.jpg)
 
 **Step 2:**It is also possible to make customized settings for frame rate and resolution as per need of your stream content.
 
-![live-stream-on-youtube-with-elgato-game-capture-hd-8 ](https://images.wondershare.com/filmora/article-images/live-stream-on-youtube-with-elgato-game-capture-hd-8.jpg)
+![live-stream-on-youtube-with-elgato-game-capture-hd-8](https://images.wondershare.com/filmora/article-images/live-stream-on-youtube-with-elgato-game-capture-hd-8.jpg)
 
 **Step 3:**One can also prefer to archive his streaming.
 
-![live-stream-on-youtube-with-elgato-game-capture-hd-9 ](https://images.wondershare.com/filmora/article-images/live-stream-on-youtube-with-elgato-game-capture-hd-9.jpg)
+![live-stream-on-youtube-with-elgato-game-capture-hd-9](https://images.wondershare.com/filmora/article-images/live-stream-on-youtube-with-elgato-game-capture-hd-9.jpg)
 
 **Step 4:**As soon as you have completed all above settings then you need to hit the stream button on screen.
 
-![live-stream-on-youtube-with-elgato-game-capture-hd-10 ](https://images.wondershare.com/filmora/article-images/live-stream-on-youtube-with-elgato-game-capture-hd-10.jpg)
+![live-stream-on-youtube-with-elgato-game-capture-hd-10](https://images.wondershare.com/filmora/article-images/live-stream-on-youtube-with-elgato-game-capture-hd-10.jpg)
 
 **Step 5:**Soon your software will ask you to select the event that you want to stream, choose your desired event and then press Ok. Soon you will be live on YouTube.
 
-![live-stream-on-youtube-with-elgato-game-capture-hd-11 ](https://images.wondershare.com/filmora/article-images/live-stream-on-youtube-with-elgato-game-capture-hd-11.jpg)
+![live-stream-on-youtube-with-elgato-game-capture-hd-11](https://images.wondershare.com/filmora/article-images/live-stream-on-youtube-with-elgato-game-capture-hd-11.jpg)
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 

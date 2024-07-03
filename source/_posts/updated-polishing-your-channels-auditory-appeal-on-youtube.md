@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Polishing Your Channel's Auditory Appeal on YouTube"
-date: 2024-06-06T16:08:43.108Z
-updated: 2024-06-07T16:08:43.108Z
+date: 2024-07-02T20:09:50.540Z
+updated: 2024-07-03T20:09:50.540Z
 tags:
   - ai video
   - ai youtube
@@ -93,7 +93,7 @@ You may also like: [How to Add Music to YouTube Videos >>](https://tools.techida
 * **Step 2:**Click your profile avatar and select Creator Studio option.
 * **Step 3:** In the left pane, go to **Video Manager** and then click **Videos**. In the Videos list, choose the video that you want to add new audio track, and then select **Audio** from the **Edit** button.
 
-![ YouTube Audio Editing](https://images.wondershare.com/filmora/article-images/add-music-to-youtube-video-2.jpg)
+![YouTube Audio Editing](https://images.wondershare.com/filmora/article-images/add-music-to-youtube-video-2.jpg)
 
 * **Step 4:** Now you can add or replace the audio in your video. Here you will find that there are various songs and audio files you can choose from. Click ADD TO VIDEO and the audio track will be added to the video directly.
 

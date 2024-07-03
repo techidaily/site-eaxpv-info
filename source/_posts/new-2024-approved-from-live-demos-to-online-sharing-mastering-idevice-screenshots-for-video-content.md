@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  From Live Demos to Online Sharing  Mastering iDevice Screenshots for Video Content\""
-date: 2024-06-06T14:36:53.859Z
-updated: 2024-06-07T14:36:53.859Z
+date: 2024-07-02T20:09:43.016Z
+updated: 2024-07-03T20:09:43.016Z
 tags:
   - ai video
   - ai youtube
@@ -34,7 +34,7 @@ Basically, there are three ways to record YouTube video on iPhone/iPad, includin
 
 **Note:** We resolutely oppose all forms of copyright-infringing downloads. This tutorial is only for downloading YouTube videos/audio materials from your own channel.
 
-## 1\. Recording your iPhone screen in [iOS 11](https://www.apple.com/lae/ios/ios-11/)
+## 1\. Recording your iPhone screen in iOS 11
 
 You can find more information in this article: [How to Record iPhone/iPad’s Screen in iOS 11](https://tools.techidaily.com/wondershare/filmora/download/) \>>
 
@@ -107,7 +107,7 @@ YouTube videos, on the other hand, are mostly horizontally oriented. If you atte
 
 ---
 
-## Part 1: Convert YouTube Videos to IGTV Vertical Videos with [Filmora](https://tools.techidaily.com/wondershare/filmora/download/)
+## Part 1: Convert YouTube Videos to IGTV Vertical Videos with Filmora
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
@@ -151,7 +151,7 @@ Pick the **Story (Snap/Insta) or IGTV 9:16 option** and then proceed to **choose
 
 A growing number of IGTV users choose to rotate their videos, instead of resizing them, so if you already have a YouTube video with a 16:9 aspect ratio you can just rotate it and get a video with a 9:16 aspect ratio. Click on the **Rotate**  option and then rotate it **90 degrees clockwise or counterclockwise** and click on the **Create button**. If you opt for this method of creating a vertical video for IGTV, your video will remain the same size, but the viewers will have to hold their phones horizontally in order to view it properly.
 
-**You may also like:** [ How to Convert MKV to MP4 without Losing Quality \[Free Converters Provided\] >>](https://tools.techidaily.com/wondershare/filmora/download/)
+**You may also like:** [How to Convert MKV to MP4 without Losing Quality \[Free Converters Provided\] >>](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ## Part 3: Changing the Aspect Ratio of a YouTube Video with Final Cut Pro
 
