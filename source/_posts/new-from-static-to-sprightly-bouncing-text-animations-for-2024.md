@@ -1,7 +1,7 @@
 ---
 title: "\"[New] From Static to Sprightly  Bouncing Text Animations for 2024\""
-date: 2024-06-06T14:43:35.339Z
-updated: 2024-06-07T14:43:35.339Z
+date: 2024-07-16T03:29:40.464Z
+updated: 2024-07-17T03:29:40.464Z
 tags:
   - ai video
   - ai youtube
@@ -50,10 +50,16 @@ In the timeline, double-click the title you just added, use the upper-left secti
 
 Go to **Effects** from the standard toolbar, expand the **Filters** category from the left pane, and click **Shake**. From the Library window, click and drag your preferred shake filter to the timeline. Here, I will choose Mild.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Shake filters in Filmora9](https://images.wondershare.com/filmora/article-images/shake-filter.jpg)
 
 You can customize the default effect by double-clicking the shake filter in the timeline, using the sliders in the upper-left area of the interface to make necessary adjustments, and then clicking **OK** to save the changes and to get back to the previous interface.
 
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Mild Shake filters adjust](https://images.wondershare.com/filmora/article-images/mild-shake-filter-adjust.jpg)
 
 **Step 4: Export the Final Output**
@@ -68,8 +74,14 @@ Double click the text track, go to the **Chroma Key** effect, select the **Color
 
 As explained before, Wondeshare Filmora makes the entire process of creating and adding **bounce text** effect pretty simple. With all the pre-build templates, and the versatility of the options that can be used to customize those presets, you can come up with the effects that are usually obtained when you start generating them from the scratch.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 [![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Method 2: Generate Animated Bouncing Texts Online
 
 If you don’t want any heavy and resource-intensive app on your PC merely for some special text effects, you can try any of the online solutions instead. The benefit of using any such web app is that all the processing is done on site’s server, and it is only a web browser and an Internet connection that you need to have at your side.
@@ -106,6 +118,9 @@ Launch your favorite web browser and go to <https://loading.io/animation/text/>.
 
 **Step 2: Customize the Text and Choose Animation Effect**
 
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Create Animated Bouncing Text with Loading.io](https://images.wondershare.com/filmora/article-images/create-bouncing-text-with-loadingio.jpg)
 
 Use the options available on the webpage to type your text, and change its font, color, background, transparency level etc. Select **Bounce** (or any of its variants) from the **Animation** drop-down list, and adjust the speed using the **Speed** slider.
@@ -139,6 +154,9 @@ Follow @Liza Brown
 
 # How to Create GIFs from YouTube Videos
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
 ##### Shanoon Cox
@@ -162,6 +180,9 @@ Find out how to create GIFs using FreeGifMaker.me using these steps.
 1. Click on “Load YouTube Video” below the URL space and wait for a few seconds while the tool checks the video source.
 2. After the YouTube video is loaded, finally enter the gif duration, start time and click on the “Make a GIF button” and it will redirect you to the result page.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
+<!-- affiliate ads end -->
 ### 2\.  VEED.IO
 
  VEED is another easy way to make GIFs from YouTube videos. VEED allows you to copy a YouTube video link of your choice and paste it on VEED without any difficulty. VEED not only creates GIFs from YouTube videos but also gives few more facilities like trimming, adding text, cropping to the clip which helps in creating super-cool GIFs. VEED has both free and Pro versions and is a perfect browser software.
@@ -172,6 +193,9 @@ How to use VEED only in 3 steps, know about it below:
 2. For the editing part, you need to trim the part of the video in which you want to make the GIF and crop the GIF. You can easily do that by choosing the canvas size menu available. After that, you can add text, font style, color, and size to your GIF.
 3. In the last step, you just have to download the GIF which you have made in VEED.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 3\.  Kapwing
 
 Kapwing is a great stage for creating GIFs as well as videos and images. Kapwing is one of the most used and liked online video editors available. It provides one single step for all the things to do while creating a GIF – upload, editing, and sharing the file.
@@ -196,6 +220,18 @@ You can create your desirable GIF from YouTube video in 3 easy steps.
 3. Next, you can choose the speed of the video which is optional, and then set the resolution from higher to lower as per your choice.
 4. The final step involves creating the GIF which you can do by clicking on the red button “Create GIF from the video” available below the resolution option and finally the downloading will start after a short waiting on the next page.
 
+<!-- affiliate ads begin -->
+<span id="1793213">
+					<video width="1080" height="1620" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 5\.  Clideo
 
 Clideo is one of the most reliable video converters available online. It can create an animated GIF from YouTube videos without much complication.
@@ -258,3 +294,57 @@ Follow @Shanoon Cox
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-everyday-snaps-to-professional-videos-the-top-9-mobile-filmmaking-gadgets/"><u>[New] 2024 Approved  From Everyday Snaps to Professional Videos - The Top 9 Mobile Filmmaking Gadgets</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-novice-to-expert-setting-up-a-sports-channel-on-mac/"><u>[New] 2024 Approved  From Novice to Expert  Setting up a Sports Channel on Mac</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-ordinary-to-enchantment-crafting-spectacular-backgrounds-on-youtube/"><u>[New] 2024 Approved  From Ordinary to Enchantment  Crafting Spectacular Backgrounds on YouTube</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-playtime-to-peak-time-top-gaming-women-in-the-digital-space/"><u>[New] 2024 Approved  From Playtime to Peak Time  Top Gaming Women in the Digital Space</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-2024-approved-zenful-grooves-top-20-tranquil-country-beats-for-stress-free-dancing-tiktok/"><u>[New] 2024 Approved  Zenful Grooves  Top 20 Tranquil Country Beats for Stress-Free Dancing (TikTok)</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-essential-free-editing-software-rankings-for-2024/"><u>[New] Essential Free Editing Software Rankings for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-integrating-snaps-smoothly-into-your-zoom-schedule/"><u>[New] Integrating Snaps Smoothly Into Your Zoom Schedule</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-top-picks-for-personalizing-mbp-screens-with-skins-for-2024/"><u>[New] Top Picks for Personalizing MBP Screens with Skins for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-formulating-impressive-online-media-introductions/"><u>[Updated] 2024 Approved  Formulating Impressive Online Media Introductions</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-googles-goldmine-a-simplified-three-step-blueprint-for-calculating-subscriber-earning-potential/"><u>[Updated] 2024 Approved  Google's Goldmine  A Simplified Three-Step Blueprint for Calculating Subscriber Earning Potential</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-harmonizing-youtube-production-with-a-9-to-5-routine/"><u>[Updated] 2024 Approved  Harmonizing YouTube Production with a 9-to-5 Routine</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-make-a-youtube-intro-with-best-youtube-intro-makers/"><u>[Updated] 2024 Approved  How to Make a YouTube Intro With Best YouTube Intro Makers</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-skip-the-slip-ups-the-8-must-avoid-mistakes-for-new-youtube-stars/"><u>[Updated] 2024 Approved  How to Skip the Slip-Ups  The 8 Must-Avoid Mistakes for New YouTube Stars</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-innovative-techniques-to-enhance-your-obs-broadcasts-android/"><u>[Updated] 2024 Approved  Innovative Techniques to Enhance Your OBS Broadcasts (Android)</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-flashy-fiddles-short-form-melodic-roles-for-2024/"><u>[Updated] Flashy Fiddles  Short Form Melodic Roles for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-foremost-directors-of-cinematic-harmony-for-2024/"><u>[Updated] Foremost Directors of Cinematic Harmony for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-from-black-and-white-to-color-classic-video-transition-tips-for-2024/"><u>[Updated] From Black-and-White to Color  Classic Video Transition Tips for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-from-raw-footage-to-polished-videos-imovies-role-in-youtube-content-creation-for-2024/"><u>[Updated] From Raw Footage to Polished Videos  IMovie's Role in YouTube Content Creation for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-historical-highlights-topping-the-list-of-learning-yt-sources-for-2024/"><u>[Updated] Historical Highlights  Topping the List of Learning YT Sources for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-how-much-money-do-youtubers-make-per-view-for-2024/"><u>[Updated] How Much Money Do YouTubers Make Per View for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-safely-extract-youtube-audio-a-study-of-3-techniques-for-2024/"><u>[Updated] How to Safely Extract YouTube Audio  A Study of 3 Techniques for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-free-frameworks-amplify-your-youtube-vision/"><u>[Updated] In 2024, Free Frameworks  Amplify Your YouTube Vision</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-free-method-to-record-your-youtube-watching-experience/"><u>[Updated] In 2024, Free Method to Record Your YouTube Watching Experience</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-freeing-up-youtube-footage-borderless-exploration/"><u>[Updated] In 2024, Freeing Up YouTube Footage  Borderless Exploration</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-live-demos-to-online-sharing-mastering-idevice-screenshots-for-video-content/"><u>[Updated] In 2024, From Live Demos to Online Sharing  Mastering iDevice Screenshots for Video Content</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-game-development-behind-the-scenes/"><u>[Updated] In 2024, Game Development Behind-the-Scenes</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-gaming-hits-with-powerful-hashtag-strategies/"><u>[Updated] In 2024, Gaming Hits with Powerful Hashtag Strategies</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-guerrilla-marketing-for-youtube-upping-video-traffic/"><u>[Updated] In 2024, Guerrilla Marketing for YouTube  Upping Video Traffic</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-guide-incorporating-youtube-videos-in-google-slides/"><u>[Updated] In 2024, Guide  Incorporating YouTube Videos in Google Slides</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-guide-to-superior-youtube-commercials/"><u>[Updated] In 2024, Guide to Superior YouTube Commercials</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-high-income-content-makers/"><u>[Updated] In 2024, High-Income Content Makers</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-craft-standout-names-for-your-youtube-channel/"><u>[Updated] In 2024, How to Craft Standout Names for Your YouTube Channel</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-upload-youtube-shorts-video-from-computer-and-mobile/"><u>[Updated] In 2024, How to Upload YouTube Shorts Video From Computer and Mobile?</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-maximizing-snapchat-connectivity-over-time/"><u>[Updated] Maximizing Snapchat Connectivity Over Time</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-secure-social-scale-best-free-insta-followers-on-idevices-for-2024/"><u>[Updated] Secure Social Scale - Best Free, Insta-Followers on iDevices for 2024</u></a></li>
+<li><a href="https://location-fake.techidaily.com/5-easy-ways-to-change-location-on-youtube-tv-on-xiaomi-redmi-note-12-proplus-5g-drfone-by-drfone-virtual-android/"><u>5 Easy Ways to Change Location on YouTube TV On Xiaomi Redmi Note 12 Pro+ 5G | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-samsung-galaxy-f34-5g-drfone-by-drfone-virtual/"><u>9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Samsung Galaxy F34 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/eizos-boundaries-reached-the-cg318-4k-reviewed/"><u>EIZO's Boundaries Reached  The CG318-4K Reviewed</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-many-attempts-to-unlock-iphone-xr-by-drfone-ios/"><u>How Many Attempts To Unlock iPhone XR</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-additional-tips-about-sinnoh-stone-for-vivo-y200-drfone-by-drfone-virtual-android/"><u>In 2024, Additional Tips About Sinnoh Stone For Vivo Y200 | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-can-we-unlock-our-infinix-smart-8-pro-phone-screen-by-drfone-android/"><u>In 2024, How Can We Unlock Our Infinix Smart 8 Pro Phone Screen?</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-new-windows-11-hacks-for-efficiency-experts/"><u>In 2024, New Windows 11 Hacks for Efficiency Experts</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/maximize-iphone-screen-space-with-smaller-videos-for-2024/"><u>Maximize iPhone Screen Space with Smaller Videos for 2024</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-in-2024-macbook-videoleap-download-a-quick-and-simple-process/"><u>New In 2024, MacBook Videoleap Download A Quick and Simple Process</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/pro-audios-essential-guide-to-top-10-free-luts-for-2024/"><u>Pro Audio's Essential Guide to Top 10 Free LUTs for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/seamless-access-track-down-your-latest-facebook-watches/"><u>Seamless Access  Track Down Your Latest Facebook Watches</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/the-ultimate-handbook-for-watching-facebook-livestreams-for-2024/"><u>The Ultimate Handbook for Watching Facebook Livestreams for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-ultimate-roundup-unleashing-the-best-5-online-title-makers-for-2024/"><u>The Ultimate Roundup  Unleashing the Best 5 Online Title Makers for 2024</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/ultimate-guide-to-purchasing-asmr-microphones/"><u>Ultimate Guide to Purchasing ASMR Microphones</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-14-excellent-photo-slideshow-video-editors-for-2024/"><u>Updated 14 Excellent Photo Slideshow Video Editors for 2024</u></a></li>
+</ul></div>

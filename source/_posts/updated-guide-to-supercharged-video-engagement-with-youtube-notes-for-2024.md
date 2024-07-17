@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Guide to Supercharged Video Engagement with YouTube Notes for 2024"
-date: 2024-06-06T14:43:49.171Z
-updated: 2024-06-07T14:43:49.171Z
+date: 2024-07-16T03:30:01.293Z
+updated: 2024-07-17T03:30:01.293Z
 tags:
   - ai video
   - ai youtube
@@ -18,6 +18,9 @@ thumbnail: https://thmb.techidaily.com/a08727f11a7832f787474e1a64a135e87ab43cd2d
 
 # How to Add YouTube Annotations and Cards?
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 ##### Richard Bennett
@@ -45,6 +48,9 @@ The main difference between annotation and cards is their outlook. Cards are mor
 * [Part 1: How to Add YouTube Cards](#part1)
 * [Part 2: How to Add YouTube Annotations](#part2)
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to add YouTube Cards
 
 YouTube **Cards** are similar to annotations but more interactive. They allow the owner of the video to add images and other links. A small box appears, clicking on which will activate the cards.
@@ -63,6 +69,9 @@ YouTube **Cards** are similar to annotations but more interactive. They allow th
 * Once you finish the subsequent information required click create card
 * Select the timeline for the playhead to appear which leads to the card slide
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.wondershare.com/filmora/article-images/add-cards-to-youtube-video.jpg)
 
 * Apply changes and exit
@@ -75,11 +84,17 @@ YouTube Annotation is addition of a text layer, link or hotspots over your video
 * Click edit tab under the video screen shot you want to add the annotation on
 * Click on the "End screen & Annotation" tab
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.wondershare.com/filmora/article-images/add-annotations-to-youtube-video.jpg)
 
 * On the right panel click on "+ Add Element" and select the kind of annotation you want to add
 * Adjust the position of Annotation, you can drag the rectangle to locate it at any position of the video, move the slide to set the start and end time of the annotation
 
+<!-- affiliate ads begin -->
+<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<!-- affiliate ads end -->
 ![](https://images.wondershare.com/filmora/article-images/add-annotation-to-youtube-1.jpg)
 
 * Apply changes
@@ -118,6 +133,9 @@ The best outros also include a subscribe button, which can be created using anno
 
 No matter what kind of annotations you are using, you should never use more than two of them at a time anywhere except for your outro. You should also never place annotations at the very top of your screen, or in the middle at the bottom. If your video is embedding on a separate website then the player will cover annotations at the top of the screen, and ads might cover annotations placed in the bottom-middle of the screen. Keep in mind when using annotations that they will not be visible to users watching your videos on mobile devices. If mobile traffic is very important to you then consider using YouTube Cards.
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 Richard Bennett
@@ -140,3 +158,48 @@ Follow @Richard Bennett
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-5-easy-ways-to-multiply-your-youtube-follower-base/"><u>[New] 2024 Approved  5 Easy Ways to Multiply Your YouTube Follower Base</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-amplify-views-effortlessly-discovering-the-best-20-youtube-techniques/"><u>[New] 2024 Approved  Amplify Views Effortlessly  Discovering the Best 20 YouTube Techniques</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-can-a-brief-subscribe-boost-your-content-viewing/"><u>[New] 2024 Approved  Can a Brief Subscribe Boost Your Content Viewing?</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-dynamic-and-simple-building-a-subscriber-button-for-youtube-using-filmora/"><u>[New] 2024 Approved  Dynamic and Simple  Building a Subscriber Button for YouTube Using Filmora</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-elevate-your-youtube-channel-perfecting-video-scriptwriting-skills/"><u>[New] 2024 Approved  Elevate Your YouTube Channel  Perfecting Video Scriptwriting Skills</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-quick-mac-screenshot-methods-a-comprehensive-list/"><u>[New] 2024 Approved  Quick Mac Screenshot Methods  A Comprehensive List</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-understanding-facebooks-new-policies-and-updates/"><u>[New] 2024 Approved  Understanding Facebook's New Policies and Updates</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-breaking-the-mold-unique-post-vidcon-events-for-2024/"><u>[New] Breaking the Mold  Unique Post-VidCon Events for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-enjoy-a-stream-of-nine-complete-christmas-capsules-on-youtube-for-2024/"><u>[New] Enjoy a Stream of Nine Complete Christmas Capsules on YouTube for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-finding-the-central-node-of-youtube-video-management-for-2024/"><u>[New] Finding the Central Node of YouTube Video Management for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-how-to-integrate-titles-and-descriptions-into-your-youtube-video-for-2024/"><u>[New] How to Integrate Titles and Descriptions Into Your YouTube Video for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-can-youtube-sub4sub-really-enhance-viewing-experience/"><u>[New] In 2024, Can YouTube Sub4Sub Really Enhance Viewing Experience?</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-guided-approach-to-saving-exact-youtube-segments/"><u>[New] In 2024, Guided Approach to Saving Exact YouTube Segments</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-urban-oasis-creation-bridging-concrete-with-wildlife-habitats/"><u>[New] Urban Oasis Creation  Bridging Concrete with Wildlife Habitats</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-hashtag-mastery-enhancing-freefire-gameplay-videos/"><u>[Updated] 2024 Approved  Hashtag Mastery  Enhancing FreeFire Gameplay Videos</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-automatic-cycling-of-videos-on-iphone-ease-for-2024/"><u>[Updated] Automatic Cycling of Videos on iPhone Ease for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-editing-savvy-streamlining-your-youtube-video-lengths-for-2024/"><u>[Updated] Editing Savvy  Streamlining Your YouTube Video Lengths for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-enhancing-visuals-the-role-of-a-tripod-in-video-content-for-2024/"><u>[Updated] Enhancing Visuals  The Role of a Tripod in Video Content for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-from-boring-to-breathtaking-adopt-new-wallpapers-in-win11/"><u>[Updated] From Boring to Breathtaking  Adopt New Wallpapers in Win11</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-use-video-titles-and-youtube-tags-for-2024/"><u>[Updated] How to Use Video Titles and YouTube Tags for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-a-beginners-pathway-building-a-simple-youtube-signup/"><u>[Updated] In 2024, A Beginner’s Pathway  Building a Simple YouTube Signup</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-charting-financial-horizons-the-threefold-technique-for-analyzing-youtube-earning-data/"><u>[Updated] In 2024, Charting Financial Horizons  The Threefold Technique for Analyzing YouTube Earning Data</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-efficiently-shifting-videos-youtube-to-dailymotion-strategy/"><u>[Updated] In 2024, Efficiently Shifting Videos  YouTube to Dailymotion Strategy</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-fix-the-youtube-shorts-not-showing-up-issue/"><u>[Updated] In 2024, How to Fix the YouTube Shorts Not Showing Up Issue?</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-optimizing-engagement-using-cards-and-annotations/"><u>[Updated] Optimizing Engagement  Using Cards and Annotations</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-the-ultimate-blueprint-to-thrive-in-youtubes-gaming-domain-with-hashes/"><u>[Updated] The Ultimate Blueprint to Thrive in YouTube's Gaming Domain with Hashes</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-tips-on-how-to-edit-youtube-channel-description/"><u>[Updated] Tips on How to Edit YouTube Channel Description</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-where-creativity-meets-technology-in-youtube-studio/"><u>[Updated] Where Creativity Meets Technology in YouTube Studio</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-best-toy-quadcopters-reviewed-kids-edition/"><u>2024 Approved  Best Toy Quadcopters Reviewed (Kids Edition)</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/2024-approved-youtube-shorts-fund-how-to-maximize-your-earnings/"><u>2024 Approved  YouTube Shorts Fund  How to Maximize Your Earnings</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/50plus-youtube-channel-names-for-vloggers-100-new-filmora-for-2024/"><u>50+ Youtube Channel Names for Vloggers [100%% New] - Filmora for 2024</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-change-your-sim-pin-code-on-your-motorola-edge-40-phone-by-drfone-android/"><u>In 2024, How To Change Your SIM PIN Code on Your Motorola Edge 40 Phone</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-unleash-your-gopro-footage-a-quik-review-and-top-pc-video-editing-alternatives/"><u>New Unleash Your GoPro Footage A Quik Review and Top PC Video Editing Alternatives</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/premium-360-camera-options-for-social-media-broadcasts-for-2024/"><u>Premium 360° Camera Options for Social Media Broadcasts for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/quick-guide-youtube-videos-for-your-instagram-story-for-2024/"><u>Quick Guide  YouTube Videos for Your Instagram Story for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/strategic-use-of-jump-cuts-for-non-linear-storytelling-for-2024/"><u>Strategic Use of Jump Cuts for Non-Linear Storytelling for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/the-entrepreneurs-blueprint-for-profiting-from-video-content-for-2024/"><u>The Entrepreneur's Blueprint for Profiting From Video Content for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/the-role-of-tags-in-boosting-video-popularity-for-2024/"><u>The Role of Tags in Boosting Video Popularity for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/uncovering-the-truth-behind-4-second-youtube-subscriptions-for-2024/"><u>Uncovering the Truth Behind 4-Second YouTube Subscriptions for 2024</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-2024-approved-cut-and-trim-3gp-files-with-ease-updated-2023/"><u>Updated 2024 Approved Cut and Trim 3GP Files with Ease Updated 2023</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/video-conversion-made-simple-the-best-flv-tools-for-youtube-for-2024/"><u>Video Conversion Made Simple  The Best Flv Tools for YouTube for 2024</u></a></li>
+</ul></div>

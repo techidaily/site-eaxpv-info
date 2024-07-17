@@ -1,7 +1,7 @@
 ---
 title: "[Updated] In 2024, Guide to Quick Eradication of Online YouTube Discussions"
-date: 2024-06-06T14:06:30.752Z
-updated: 2024-06-07T14:06:30.752Z
+date: 2024-07-16T02:34:06.665Z
+updated: 2024-07-17T02:34:06.665Z
 tags:
   - ai video
   - ai youtube
@@ -36,11 +36,14 @@ So how do you delete all YouTube comments? In this how-to blog, we will show you
 * [part 4: Delete Other People's Comments on Others' Channels](#part4)
 * [Part 5: Delete All Your Posted YouTube Comments](#part5)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to Delete YouTube Comments from Desktop?
 
 In this section, we will tell you how you can do it from your desktop.
 
-1. Go to[https://www.youtube.com/](https://www.youtube.com/) from your desktop browser and log in.
+1. Go to [https://www.youtube.com/](https://www.youtube.com/) from your desktop browser and log in.
 2. Once you log in, you need to go to your channel. For this, you can select the My Channel option from the upper-left side of your YouTube home page.
 3. From the list of your videos, select the one you need and scroll down to reach the comment you want to delete.
 4. When you locate the comment, click on the three vertical dots on the right-hand side of the comment. From the drop-down list, click on Remove. The process is complete, and YouTube will remove your comment.
@@ -57,15 +60,18 @@ The steps to deleting someone else’s YouTube comments from your mobile are sim
 4. Once you reach the target comment, click on the three vertical dots at the bottom corner. There should be an option called Remove. Tap on it.
 5. This will create another dialog box on the mobile app where you have to click on Remove again to delete the comment.
 
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How Do You Delete Your Comments from YouTube?
 
 Have you accidentally posted something on a YouTuber’s channel? Are you anxious because you cannot find the comment and delete it?
 
 Fear not. Read on to know how to **delete all comments you posted on someone else’s YouTube channel** from your desktop.
 
-1. Visit[https://www.youtube.com/](https://www.youtube.com/) from your desktop and then sign in YouTube channel.
+1. Visit [https://www.youtube.com/](https://www.youtube.com/) from your desktop and then sign in YouTube channel.
 2. If your YouTube account is not open, tap on Sign in and enter your email and password to log in to your account.
-3. Once there, you need to access your Comment History page. To do this, you can click on the three horizontal lines at the top left corner of your YouTube homepage. Click on History. On the page that opens, click Comments from the panel on the right. It will direct you to your Comment History page. You can also access the YouTube comment history from[here](https://www.youtube.com/feed/history/comment%5Fhistory).
+3. Once there, you need to access your Comment History page. To do this, you can click on the three horizontal lines at the top left corner of your YouTube homepage. Click on History. On the page that opens, click Comments from the panel on the right. It will direct you to your Comment History page. You can also access the YouTube comment history from [here](https://www.youtube.com/feed/history/comment%5Fhistory).
 1. When you reach the Comment History page, you will be able to find all comments you have ever posted. Scroll down to the comment you want to delete.
 2. Click on the three vertical dots that you see beside the target comment. You will find a Delete option. Tap on it, and confirm that you want to delete the comment. That completes the process. No more embarrassing comments!
 
@@ -83,6 +89,9 @@ If it is your video where the comment to be removed is, you can go to My Channel
 1. Once you locate the video, you need to find the comment you want to delete. On the YouTube app, you may need to scroll down for a while to do this.
 2. When you reach it, click on the three vertical dots at the bottom corner of your comment. You should see an option called Delete. Click on that. You need to confirm once more that you want to delete it, and the process will be complete.
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Delete Other People’s Comments on Others’ Channels
 
 Did you see a hate comment on your favorite creator’s video? Sadly, you cannot delete the comment. But, you can report it, and YouTube will hide or take it down.
@@ -101,7 +110,7 @@ To find your History from your desktop, you need to click on the three horizonta
 2. Once you find your target comment, click on the three vertical dots that appear on its right side. You will find the Report option from the pop-up menu. Click on that.
 3. When you tap Report, another dialogue box will appear. From the list of options, choose the most appropriate option, tap on Report at the lower right corner of the pop-up, and complete the process. YouTube will do the rest.
 
-![ Report YouTube comments](https://images.wondershare.com/filmora/article-images/report-youtube-comment.jpg)
+![Report YouTube comments](https://images.wondershare.com/filmora/article-images/report-youtube-comment.jpg)
 
 ## How to Delete All Your Posted YouTube Comments?
 
@@ -110,15 +119,21 @@ You can also delete all comments you ever posted on any YouTube video by hiding 
 1. You need to go to YouTube from your desktop and sign in to your account.
 2. Next, you can either click on the profile icon at the top right corner or the three horizontal lines beside the YouTube logo on your homepage. From the list of options, click Settings.
 
-![   YouTube Settings](https://images.wondershare.com/filmora/article-images/two-ways-settings-youtube-channel.jpg)
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
+<!-- affiliate ads end -->
+![YouTube Settings](https://images.wondershare.com/filmora/article-images/two-ways-settings-youtube-channel.jpg)
 
-1. YouTube will direct you to the Settings page of your account. Choose Advanced Settings from the list on your left. You can also access it from[here](https://www.youtube.com/account%5Fadvanced).
+1. YouTube will direct you to the Settings page of your account. Choose Advanced Settings from the list on your left. You can also access it from [here](https://www.youtube.com/account%5Fadvanced).
 
-![   YouTube Advanced  Settings](https://images.wondershare.com/filmora/article-images/youtube-advanced-settings.jpg)
+![YouTube Advanced  Settings](https://images.wondershare.com/filmora/article-images/youtube-advanced-settings.jpg)
 
 1. Scroll down and select Delete Channel. Clicking it will not delete your account. When you click on Delete Channel, you will get two choices – ‘I want to hide my channel’ and ‘I want to permanently delete my content’. Select the first.
 
-![   YouTube Settings](https://images.wondershare.com/filmora/article-images/remove-youtube-content.jpg)
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![YouTube Settings](https://images.wondershare.com/filmora/article-images/remove-youtube-content.jpg)
 
 1. YouTube will now show you what will happen when you hide your channel. Check all the boxes to confirm that you understand, and then tap on Hide My Channel. YouTube will now delete all comments made by your account.
 
@@ -145,6 +160,44 @@ Follow @Richard Bennett
 
 # Top 12 Real-time YouTube Subscriber Trackers
 
+<!-- affiliate ads begin -->
+<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
+<!-- affiliate ads end -->
 ![](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-tips.techidaily.com/updated-2022s-golden-age-for-ice-dancing-showcases/"><u>[Updated] 2022'S Golden Age for Ice Dancing Showcases</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-zeroes-to-heroes-amplifying-your-youtube-following/"><u>[Updated] 2024 Approved  From Zeroes to Heroes  Amplifying Your Youtube Following</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-hone-your-livestream-skills-on-youtubes-premier-platform/"><u>[Updated] 2024 Approved  Hone Your Livestream Skills on YouTube's Premier Platform</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-fix-the-youtube-shorts-not-showing-up-issue/"><u>[Updated] 2024 Approved  How to Fix the YouTube Shorts Not Showing Up Issue?</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-a-beginners-journey-to-enhanced-gopro-adventures/"><u>[Updated] A Beginner's Journey to Enhanced GoPro Adventures</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-free-guide-perfecting-your-youtube-audio-to-text-conversion-for-2024/"><u>[Updated] Free Guide  Perfecting Your YouTube Audio-to-Text Conversion for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-free-youtube-endings-that-stand-out-ranked-for-2024/"><u>[Updated] Free YouTube Endings That Stand Out - Ranked for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-freeing-up-youtube-footage-borderless-exploration-for-2024/"><u>[Updated] Freeing Up YouTube Footage  Borderless Exploration for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-from-one-off-to-firm-follower-an-ethical-approach-for-2024/"><u>[Updated] From One-Off to Firm Follower  An Ethical Approach for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-game-on-steps-for-crafting-an-influential-online-gamers-channel-for-2024/"><u>[Updated] Game On  Steps for Crafting an Influential Online Gamers' Channel for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-harnessing-google-trends-for-video-concept-generation-for-2024/"><u>[Updated] Harnessing Google Trends for Video Concept Generation for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-hilarious-youtube-moments-top-10-quirky-short-film-concepts-for-2024/"><u>[Updated] Hilarious YouTube Moments  Top 10 Quirky Short Film Concepts for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-forge-strong-content-partnerships-on-youtube-for-2024/"><u>[Updated] How to Forge Strong Content Partnerships on YouTube for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-find-your-perfect-vlog-title-best-free-name-generators/"><u>[Updated] In 2024, Find Your Perfect Vlog Title - Best Free Name Generators</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-free-and-uncomplicated-youtube-image-extractor-tools-reviewed/"><u>[Updated] In 2024, Free and Uncomplicated YouTube Image Extractor Tools Reviewed</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-boring-to-buzzing-three-tactics-for-youtube-reaction-mastery/"><u>[Updated] In 2024, From Boring to Buzzing  Three Tactics for YouTube Reaction Mastery</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-creator-to-business-transforming-your-youtube-experience/"><u>[Updated] In 2024, From Creator to Business  Transforming Your YouTube Experience</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-hits-to-strikes-expert-youtube-studio-editing-strategies/"><u>[Updated] In 2024, From Hits to Strikes  Expert YouTube Studio Editing Strategies</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-passive-viewers-to-earnings-youtubes-monetization-mastery/"><u>[Updated] In 2024, From Passive Viewers to Earnings  YouTube's Monetization Mastery</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-garner-over-a-thousand-viewers-swiftly/"><u>[Updated] In 2024, Garner Over a Thousand Viewers Swiftly</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-create-a-youtube-account/"><u>[Updated] In 2024, How to Create a YouTube Account</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-snap-worthy-success-logging-galaxy-gaming-stories/"><u>[Updated] In 2024, Snap-Worthy Success  Logging Galaxy Gaming Stories</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-spotlight-on-starlets-snippet-for-2024/"><u>[Updated] Spotlight on Starlet's Snippet for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-address-webview-compatibility-for-fb-streaming/"><u>2024 Approved  Address WebView Compatibility for FB Streaming</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-boosting-in-game-charisma-pubg-voice-techniques/"><u>2024 Approved  Boosting In-Game Charisma  PUBG Voice Techniques</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-the-verified-journey-on-social-media-accelerate-followers-with-these-six-tips/"><u>2024 Approved  The Verified Journey on Social Media  Accelerate Followers with These Six Tips</u></a></li>
+<li><a href="https://howto.techidaily.com/asus-rog-phone-7-stuck-on-screen-finding-solutions-for-stuck-on-boot-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Asus ROG Phone 7 Stuck on Screen – Finding Solutions For Stuck on Boot | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-stability-secrets-for-dynamic-photo-shoots/"><u>In 2024, Stability Secrets for Dynamic Photo Shoots</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-essential-guide-to-enhancing-ar-with-lut-knowledge/"><u>In 2024, The Essential Guide to Enhancing AR with LUT Knowledge</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-the-ultimate-guide-to-vivo-x-fold-2-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/"><u>In 2024, The Ultimate Guide to Vivo X Fold 2 Pattern Lock Screen Everything You Need to Know</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-make-movies-without-breaking-the-bank-7-best-low-cost-film-software-for-2024/"><u>New Make Movies Without Breaking the Bank 7 Best Low-Cost Film Software for 2024</u></a></li>
+</ul></div>

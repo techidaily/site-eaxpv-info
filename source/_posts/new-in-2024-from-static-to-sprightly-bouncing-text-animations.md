@@ -1,7 +1,7 @@
 ---
 title: "\"[New] In 2024, From Static to Sprightly  Bouncing Text Animations\""
-date: 2024-06-06T14:11:00.412Z
-updated: 2024-06-07T14:11:00.412Z
+date: 2024-07-16T02:40:49.128Z
+updated: 2024-07-17T02:40:49.128Z
 tags:
   - ai video
   - ai youtube
@@ -18,6 +18,9 @@ thumbnail: https://thmb.techidaily.com/67bd9eb22eb0b577554d0f90d5db30aca97e4f163
 
 # How to Create Animated Bouncing Text
 
+<!-- affiliate ads begin -->
+<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
 
 ##### Liza Brown
@@ -26,6 +29,9 @@ thumbnail: https://thmb.techidaily.com/67bd9eb22eb0b577554d0f90d5db30aca97e4f163
 
 Earlier, you learned how to have a **[bounce text effect in Adobe After Effects](https://tools.techidaily.com/wondershare/filmora/download/)**. However, because AE is a complex application and has a steep learning curve, this section explains the two alternative ways to get the same effect on your existing video footage.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Method 1: How to Create Bouncing Text in Filmora Video Editor?
 
 When talking about [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/), the application is populated with several presets for texts and titles, animations, effects, filters, and much more.
@@ -44,6 +50,9 @@ Click **Titles** from the standard toolbar at the top, and click and drag your p
 
 In the timeline, double-click the title you just added, use the upper-left section to edit the text, go to the **Animation** tab from the left pane, scroll down the list, and double-click the **Up Down 1** or **Up Down 2** preset to apply the bounce effect to the credits. Click **OK** to save the changes and to get back to the main window.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Create Bouncing Text video Filmora9](https://images.wondershare.com/filmora/article-images/add-up-down-animation-to-bounce.jpg)
 
 **Step 3: Add Shake Filters**
@@ -80,6 +89,9 @@ Some most trusted websites to generate **bounce text** are listed below:
 
 Website: <https://engfto.com/index/create%5Fanimated%5Fbouncing%5Ftext/0-26>
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Create Animated Bouncing Text with ENGFTO](https://images.wondershare.com/filmora/article-images/engfto-create-animated-bouncing-text.jpg)
 
 You can follow the instructions given below to use Engfto to generate bouncing text for your footages:
@@ -106,6 +118,9 @@ Launch your favorite web browser and go to <https://loading.io/animation/text/>.
 
 **Step 2: Customize the Text and Choose Animation Effect**
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Create Animated Bouncing Text with Loading.io](https://images.wondershare.com/filmora/article-images/create-bouncing-text-with-loadingio.jpg)
 
 Use the options available on the webpage to type your text, and change its font, color, background, transparency level etc. Select **Bounce** (or any of its variants) from the **Animation** drop-down list, and adjust the speed using the **Speed** slider.
@@ -135,10 +150,25 @@ Follow @Liza Brown
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
+<!-- affiliate ads begin -->
+<span id="1793213">
+					<video width="1080" height="1620" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Behind the Curtains: A Guide to YouTube’s Hidden Videos
 
 # Complete Guide: What Does Unlisted Mean on YouTube
 
+<!-- affiliate ads begin -->
+<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 ##### Richard Bennett
@@ -161,6 +191,9 @@ Whether personal or professional purposes, YouTube is a great platform for shari
 
 The YouTube unlisted meaning is that your video will neither come up in the search results nor on your channel. Only the users who have the link to the video can view it. The link can be shared with anyone and everyone, even with the users who do not have a YouTube account. Many people don't know the [difference between private and unlisted YouTube videos](https://www.quora.com/How-are-private-and-unlisted-YouTube-videos-different). In order to understand what does unlisted mean on YouTube in a detailed way, let’s dive deeper into it and know the difference between public videos, unlisted videos, and private videos.
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 1. What is Unlisted YouTube Video
 
 Between private and public, you can find the unlisted videos. What does unlisted mean on YouTube? An unlisted video does not appear in the search results, suggestions or video tab. If you unlist a new video, your subscribers won’t receive any notification informing about it. You can share an unlisted video with the people you wish to share and the users having a link to the video can see it. It can also be viewed by the friend of friends if they share the link with their friends.
@@ -245,6 +278,9 @@ You can see a message showing “this video is unlisted” on YouTube when you w
 
 Now, that you clearly know what does unlisted mean on YouTube, consider the option while uploading a video. It helps in retaining the privacy of your video.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 Richard Bennett
@@ -262,3 +298,46 @@ Follow @Richard Bennett
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-finalizing-your-video-with-a-bold-statement/"><u>[New] 2024 Approved  Finalizing Your Video with a Bold Statement</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-frameworks-producing-uplifting-life-journey-broadcasts/"><u>[New] 2024 Approved  Frameworks  Producing Uplifting Life Journey Broadcasts</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-frame-to-firm-selecting-your-mcn-partner/"><u>[New] 2024 Approved  From Frame to Firm  Selecting Your MCN Partner</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-raw-footage-to-polished-content-youtube-studio-edition/"><u>[New] 2024 Approved  From Raw Footage to Polished Content  YouTube Studio Edition</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-snappy-narratives-on-the-social-scene/"><u>[New] 2024 Approved  Snappy Narratives on the Social Scene</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-driving-engagement-and-visibility-effective-strategies-for-fb-video-marketing-for-2024/"><u>[New] Driving Engagement and Visibility  Effective Strategies for FB Video Marketing for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-leave-a-lasting-impression-with-your-video-ending/"><u>[New] In 2024, How to Leave a Lasting Impression with Your Video Ending</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-seamlessly-upload-videos-onto-youtubes-platform/"><u>[New] In 2024, How to Seamlessly Upload Videos Onto YouTube's Platform</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-tips-for-youtube-video-shooting/"><u>[New] Tips for YouTube Video Shooting</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-video-to-visual-storytelling-crafting-gifs-with-youtube-content/"><u>[Updated] 2024 Approved  From Video to Visual Storytelling  Crafting GIFs with YouTube Content</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-virality-to-value-ajays-playbook-for-profitable-content-creation/"><u>[Updated] 2024 Approved  From Virality to Value  Ajay’s Playbook for Profitable Content Creation</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-choose-between-youtubers-game-entrance-tutorials-cost-included/"><u>[Updated] 2024 Approved  How to Choose Between Youtubers' Game Entrance Tutorials (Cost Included?)</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-optimally-utilize-a-creative-commons-license/"><u>[Updated] 2024 Approved  How to Optimally Utilize a Creative Commons License</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-upload-youtube-shorts-video-from-computer-and-mobile/"><u>[Updated] 2024 Approved  How to Upload YouTube Shorts Video From Computer and Mobile?</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-use-jump-cuts-in-your-vlog/"><u>[Updated] 2024 Approved  How To Use Jump Cuts in Your Vlog</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-2024-approved-the-ultimate-method-for-facetime-screen-record/"><u>[Updated] 2024 Approved  The Ultimate Method for FaceTime Screen Record</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-discover-comedy-tear-fusion-in-these-highest-rated-memetic-accounts/"><u>[Updated] Discover Comedy-Tear Fusion in These Highest Rated Memetic Accounts</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-flow-and-flourish-with-these-elite-yogis-online-for-2024/"><u>[Updated] Flow & Flourish with These Elite Yogis Online for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-fraudulent-fronts-navigating-the-minefield-of-fake-youtube-viewers-for-2024/"><u>[Updated] Fraudulent Fronts  Navigating the Minefield of Fake YouTube Viewers for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-from-static-to-dynamic-traffic-youtube-backlinks-explained-for-2024/"><u>[Updated] From Static to Dynamic Traffic  YouTube Backlinks Explained for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-gamers-blueprint-for-money-making-for-2024/"><u>[Updated] Gamer’s Blueprint for Money-Making for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-guide-incorporating-youtube-videos-in-google-slides-for-2024/"><u>[Updated] Guide  Incorporating YouTube Videos in Google Slides for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-how-many-viewers-equates-to-profit-decoding-youtubes-earnings-formula-for-2024/"><u>[Updated] How Many Viewers Equates to Profit? Decoding YouTube's Earnings Formula for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-enhance-video-rankings-on-youtube-through-seo-for-2024/"><u>[Updated] How to Enhance Video Rankings on YouTube Through SEO for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-go-viral-on-youtube-with-minimal-effort-for-2024/"><u>[Updated] How to Go Viral on YouTube with Minimal Effort for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-tailor-youtube-thumbnails-for-maximum-impact-for-2024/"><u>[Updated] How to Tailor YouTube Thumbnails for Maximum Impact for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-novice-to-pro-mastering-the-craft-of-yt-shorts/"><u>[Updated] In 2024, From Novice to Pro  Mastering the Craft of YT Shorts</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-future-of-techno-gaming-revenue/"><u>[Updated] In 2024, Future of Techno-Gaming Revenue</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-guide-to-livecasting-google-meet-on-youtube/"><u>[Updated] In 2024, Guide to Livecasting Google Meet on YouTube</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-capitalize-on-youtube-shorts-must-knows-earning-prospects/"><u>[Updated] In 2024, How to Capitalize on Youtube Shorts  Must-Knows, Earning Prospects</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-post-youtube-videos-as-instagram-stories/"><u>[Updated] In 2024, How to Post YouTube Videos as Instagram Stories</u></a></li>
+<li><a href="https://win11.techidaily.com/0x8004def5-on-onedrive-unraveling-windows-11-troubles/"><u>0X8004DEF5 on OneDrive - Unraveling Windows 11 Troubles</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-presentation-mastery-8-top-screen-record-comparisons/"><u>2024 Approved  Presentation Mastery 8  Top Screen Record Comparisons</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-sjcam-s6-legend-action-camera-complete-review/"><u>2024 Approved  SJCam S6 Legend Action Camera Complete Review</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/free-mkv-trimming-software-top-10-picks/"><u>Free MKV Trimming Software Top 10 Picks</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-a-disable-iphone-xr-without-itunes-by-drfone-ios-unlock-ios-unlock/"><u>How to unlock a disable iPhone XR without itunes</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/in-2024-comprehensive-assessment-of-digital-entertainers/"><u>In 2024, Comprehensive Assessment of Digital Entertainers</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-list-of-pokemon-go-joysticks-on-nubia-red-magic-8s-proplus-drfone-by-drfone-virtual-android/"><u>In 2024, List of Pokémon Go Joysticks On Nubia Red Magic 8S Pro+ | Dr.fone</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-discover-the-best-mp3-converter-for-your-mac-for-2024/"><u>New Discover the Best MP3 Converter for Your Mac for 2024</u></a></li>
+</ul></div>

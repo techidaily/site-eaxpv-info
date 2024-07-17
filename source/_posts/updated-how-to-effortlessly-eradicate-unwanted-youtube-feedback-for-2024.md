@@ -1,7 +1,7 @@
 ---
 title: "[Updated] How to Effortlessly Eradicate Unwanted YouTube Feedback for 2024"
-date: 2024-07-02T20:09:51.778Z
-updated: 2024-07-03T20:09:51.778Z
+date: 2024-07-16T03:53:19.647Z
+updated: 2024-07-17T03:53:19.647Z
 tags:
   - ai video
   - ai youtube
@@ -36,6 +36,9 @@ So how do you delete all YouTube comments? In this how-to blog, we will show you
 * [part 4: Delete Other People's Comments on Others' Channels](#part4)
 * [Part 5: Delete All Your Posted YouTube Comments](#part5)
 
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to Delete YouTube Comments from Desktop?
 
 In this section, we will tell you how you can do it from your desktop.
@@ -57,6 +60,9 @@ The steps to deleting someone else’s YouTube comments from your mobile are sim
 4. Once you reach the target comment, click on the three vertical dots at the bottom corner. There should be an option called Remove. Tap on it.
 5. This will create another dialog box on the mobile app where you have to click on Remove again to delete the comment.
 
+<!-- affiliate ads begin -->
+<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How Do You Delete Your Comments from YouTube?
 
 Have you accidentally posted something on a YouTuber’s channel? Are you anxious because you cannot find the comment and delete it?
@@ -69,6 +75,9 @@ Fear not. Read on to know how to **delete all comments you posted on someone els
 1. When you reach the Comment History page, you will be able to find all comments you have ever posted. Scroll down to the comment you want to delete.
 2. Click on the three vertical dots that you see beside the target comment. You will find a Delete option. Tap on it, and confirm that you want to delete the comment. That completes the process. No more embarrassing comments!
 
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
+<!-- affiliate ads end -->
 ## How Do You Delete Your Comments from Your Phone?
 
 Don’t have a desktop handy? This section will tell you how you can delete your comments you posted on your or someone else’s YouTube video from your mobile.
@@ -110,6 +119,9 @@ You can also delete all comments you ever posted on any YouTube video by hiding 
 1. You need to go to YouTube from your desktop and sign in to your account.
 2. Next, you can either click on the profile icon at the top right corner or the three horizontal lines beside the YouTube logo on your homepage. From the list of options, click Settings.
 
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![YouTube Settings](https://images.wondershare.com/filmora/article-images/two-ways-settings-youtube-channel.jpg)
 
 1. YouTube will direct you to the Settings page of your account. Choose Advanced Settings from the list on your left. You can also access it from [here](https://www.youtube.com/account%5Fadvanced).
@@ -126,6 +138,9 @@ You can also delete all comments you ever posted on any YouTube video by hiding 
 
 YouTube can be an unsafe place with unwanted comments everywhere. In this blog, we tried to show how you can get rid of comments on your and on others’ YouTube accounts. The next time you see an offensive comment or post something mistakenly, don’t forget to try our tips and make YouTube a safe platform again.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 Richard Bennett
@@ -145,6 +160,46 @@ Follow @Richard Bennett
 
 # What's YouTube Creative Commons and How to Use it to Make Video
 
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-hot-tunes-essential-background-scores-for-viral-yt-shorts/"><u>[New] 2024 Approved  Hot Tunes  Essential Background Scores For Viral YT Shorts</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-much-income-arises-from-each-snapshot-video/"><u>[New] 2024 Approved  How Much Income Arises From Each Snapshot (Video)</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-trim-youtube-videos-like-a-pro/"><u>[New] 2024 Approved  How to Trim YouTube Videos Like a Pro</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-verify-your-youtube-account/"><u>[New] 2024 Approved  How to Verify Your YouTube Account?</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-2024-approved-visually-dominating-podcast-identities-via-logo-designs/"><u>[New] 2024 Approved  Visually Dominating Podcast Identities via Logo Designs</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-finding-premium-free-music-without-breaking-copyrights-for-2024/"><u>[New] Finding Premium, Free Music Without Breaking Copyrights for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-fostering-fandoms-top-three-storytelling-techniques-for-2024/"><u>[New] Fostering Fandoms  Top Three Storytelling Techniques for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-framework-developing-transformative-lifestyle-broadcasts-for-2024/"><u>[New] Framework  Developing Transformative Lifestyle Broadcasts for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-free-youtube-revenue-predictor-tools-for-2024/"><u>[New] Free YouTube Revenue Predictor Tools for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-how-to-compose-captivating-youtube-intros-for-free-for-2024/"><u>[New] How To Compose Captivating YouTube Intros for FREE for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-how-to-get-your-youtube-video-seen-6-easy-steps-for-2024/"><u>[New] How to Get Your YouTube Video Seen - 6 Easy Steps for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-full-time-careers-meet-video-content-a-harmonious-mix/"><u>[New] In 2024, Full-Time Careers Meet Video Content  A Harmonious Mix</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-graphicgenius-suite/"><u>[New] In 2024, GraphicGenius Suite</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-harnessing-youtubes-true-potential-in-studio/"><u>[New] In 2024, Harnessing YouTube's True Potential in Studio</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-rotate-youtube-videos-by-any-angle/"><u>[New] In 2024, How to Rotate YouTube Videos by Any Angle</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-maximizing-memories-techniques-for-gameplay-recording/"><u>[New] In 2024, Maximizing Memories  Techniques for Gameplay Recording</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-searching-comments-on-youtube-for-2024/"><u>[New] Searching Comments on YouTube for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-filmmaking-made-simple-a-smartphone-guide-to-youtube-thumbnails/"><u>[Updated] 2024 Approved  Filmmaking Made Simple  A Smartphone Guide to YouTube Thumbnails</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-raw-to-radiant-youtubes-art-of-visual-aesthetic/"><u>[Updated] 2024 Approved  From Raw to Radiant  Youtube's Art of Visual Aesthetic</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-guffaw-generation-generating-7-hilarious-video-moments-online/"><u>[Updated] 2024 Approved  Guffaw Generation  Generating 7 Hilarious Video Moments Online</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-go-global-with-music-transform-your-spotify-lists-into-youtube-videos-for-2024/"><u>[Updated] Go Global with Music  Transform Your Spotify Lists Into YouTube Videos for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-cutting-edge-editors-to-craft-engaging-facebook-ad-videos/"><u>[Updated] In 2024, Cutting-Edge Editors to Craft Engaging Facebook Ad Videos</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-a-critical-review-of-the-newest-vegaspro/"><u>2024 Approved  A Critical Review of the Newest VegasPro</u></a></li>
+<li><a href="https://location-fake.techidaily.com/3utools-virtual-location-not-working-on-vivo-v30-fix-now-drfone-by-drfone-virtual-android/"><u>3uTools Virtual Location Not Working On Vivo V30? Fix Now | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-navigating-the-world-of-vsco-editing-features/"><u>In 2024, Navigating the World of VSCO Editing Features</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/innovative-investigation-vll-on-app-standards-for-2024/"><u>Innovative Investigation  VLL on App Standards for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/maximizing-video-reach-sharing-youtube-content-via-facebook-network/"><u>Maximizing Video Reach  Sharing YouTube Content via Facebook Network</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-different-ways-to-trim-video-in-premiere-pro/"><u>New Different Ways To Trim Video In Premiere Pro</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/the-30-best-bots-for-a-lively-discord-server-for-2024/"><u>The 30 Best Bots for a Lively Discord Server for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/twitters-video-guidelines-and-step-by-step-uploading-guide-for-2024/"><u>Twitter's Video Guidelines & Step-by-Step Uploading Guide for 2024</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-2024-approved-unsplash-your-brand-free-commercial-use-image-resources/"><u>Updated 2024 Approved Unsplash Your Brand Free Commercial-Use Image Resources</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/why-does-facebook-suggested-videos-not-showing-up-in-2024/"><u>Why Does Facebook Suggested Videos Not Showing Up, In 2024</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/youtubes-transformation-blueprint-for-igtv-adaptation/"><u>YouTube's Transformation Blueprint for IGTV Adaptation</u></a></li>
+</ul></div>

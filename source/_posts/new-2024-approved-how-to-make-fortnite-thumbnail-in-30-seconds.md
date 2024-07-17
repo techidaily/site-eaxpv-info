@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  How to Make Fortnite Thumbnail in 30 Seconds\""
-date: 2024-06-06T14:53:37.410Z
-updated: 2024-06-07T14:53:37.410Z
+date: 2024-07-16T03:44:35.808Z
+updated: 2024-07-17T03:44:35.808Z
 tags:
   - ai video
   - ai youtube
@@ -18,6 +18,9 @@ thumbnail: https://thmb.techidaily.com/c7779ebd6615899057fd1d41459b53b981bc532c7
 
 # How to Make Fortnite Thumbnail for Free and Easy in 2024
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
 ##### Ollie Mattison
@@ -32,10 +35,16 @@ Filmora has recently introduced a new feature named AI Portrait that uses Artifi
 
 **Step 01:** To start making a Fortnite thumbnail, it is important to have a screenshot of your gameplay. We can make a perfect screenshot using Fortnite Replay Mode. If you have recently played a Fortnite match, you can access its replay under the Career tab. Under the Career tab select Replays.
 
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![make-fortnite-thumbnail-step1](https://images.wondershare.com/filmora/article-images/make-fortnite-thumbnail-step1.jpg)
 
 **Step 02:** If you are using a console, the game will only store 10 recent gameplays, but if you are using a PC, it will store 100 recent gameplays in this section. From all these gameplays, select the one that you want to use for the Thumbnail. Once you choose gameplay, you can control everything in it. The angle, speed, and camera mode.
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![make-fortnite-thumbnail-step2](https://images.wondershare.com/filmora/article-images/make-fortnite-thumbnail-step2.jpg)
 
 **Step 03:** For creating a perfect thumbnail, select "Drone Free Camera" mode from the camera mode located on the bottom right corner of the screen. It will allow us to change the angle the way we want. Choose an angle of your choice and take the screenshot.
@@ -48,10 +57,25 @@ Filmora has recently introduced a new feature named AI Portrait that uses Artifi
 
 **Step 05:** Drag and drop the screenshot into the timeline.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![make-fortnite-thumbnail-step5](https://images.wondershare.com/filmora/article-images/make-fortnite-thumbnail-step5.jpg)
 
 **Step 06:** Now, let's separate the background and character. Go to the Effects, then AI Portrait, select Human Segmentation, and drop it into the screenshot.
 
+<!-- affiliate ads begin -->
+<span id="1793213">
+					<video width="1080" height="1620" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![make-fortnite-thumbnail-step6](https://images.wondershare.com/filmora/article-images/make-fortnite-thumbnail-step6.jpg)
 
 **Step 07:** Filmora will ask you to purchase it, but you can now hit "Try it" to use it.
@@ -60,6 +84,9 @@ Filmora has recently introduced a new feature named AI Portrait that uses Artifi
 
 **Step 08:** It will remove the background of the screenshot.
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![make-fortnite-thumbnail-step8](https://images.wondershare.com/filmora/article-images/make-fortnite-thumbnail-step8.jpg)
 
 **Step 09:** To add a background, go to the media and navigate to "Sample Color." Drag a color of your choice and drop it below the screenshot.
@@ -147,14 +174,23 @@ Sign in to your YouTube (or Google) account. To get access to YouTube Video Edit
 
 Learn more about [Upload MP3 to YouTube](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![youtube video editor](https://images.wondershare.com/images/multimedia/video-editor/youtube-video-editor.jpg "youtube video editor")
 
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Step 2. Add your videos to the timeline
 
 After getting to the editor, all your YouTube videos will appear. If you want to add a clip from the pool of videos into the project, simply drag it onto the timeline or hit the plus icon in the top right hand corner of each clip. You can also add any YouTube videos that were uploaded with a "Creative Commons" license.
 
 To do this, go to the CC tab, find a video and drag it to the timeline.
 
+<!-- affiliate ads begin -->
+<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![youtube video editor](https://images.wondershare.com/images/multimedia/video-editor/import-video-youtube.jpg "youtube video editor")
 
 Looking for best YouTube video editor alternatives? Check this [complete guide here](https://tools.techidaily.com/wondershare/filmora/download/) \>>
@@ -195,6 +231,9 @@ You can also add stunning video filters provided by this editor. To get access t
 
 To add text to video, go to the "Text" tab, tick "Enable text" and enter the text to the text column. Then customize the font, size, color, position of the text as you like.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
 ![youtube video editor](https://images.wondershare.com/topic/video-editing/youtube-video-editor-add-text.png "how to edit a youtube video")
 
 #### #5 Add music to video
@@ -219,8 +258,14 @@ This desktop video editing tool can help you easily complete video editing tasks
 
 Download it now to have a try!
 
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 Richard Bennett
@@ -238,3 +283,41 @@ Follow @Richard Bennett
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-how-to-increase-youtube-traffic-by-a-million-safely-done-for-2024/"><u>[New] How to Increase YouTube Traffic by a Million  Safely Done for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-how-to-tackle-missing-thumbnails-on-youtube-shorts-for-2024/"><u>[New] How to Tackle Missing Thumbnails on YouTube Shorts for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-frameworks-for-compelling-youtube-content-layouts/"><u>[New] In 2024, Frameworks for Compelling YouTube Content Layouts</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-minutes-to-quality-the-stepwise-conversion-of-youtube-shorts/"><u>[New] In 2024, From Minutes to Quality  The Stepwise Conversion of YouTube Shorts</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-gain-traction-with-effective-video-descriptions-and-tagging/"><u>[New] In 2024, Gain Traction with Effective Video Descriptions and Tagging</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-in-2024-uninstall-discord-server-on-all-devices/"><u>[New] In 2024, Uninstall Discord Server on All Devices</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-screensnapper-revisited-apowersofts-latest-pc-tool/"><u>[New] ScreenSnapper Revisited  Apowersoft's Latest PC Tool</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-first-steps-in-digital-content-top-10-easy-to-make-youtube-projects/"><u>[Updated] 2024 Approved  First Steps in Digital Content  Top 10 Easy-to-Make YouTube Projects</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-foremost-guide-to-youtube-equipment-for-rookies/"><u>[Updated] 2024 Approved  Foremost Guide to YouTube Equipment for Rookies</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-idea-to-screen-smartphone-video-creation-tips/"><u>[Updated] 2024 Approved  From Idea to Screen  Smartphone Video Creation Tips</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-selfies-to-subscribers-jake-pauls-online-odyssey/"><u>[Updated] 2024 Approved  From Selfies to Subscribers  Jake Paul’s Online Odyssey</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-history-enthusiasts-guide-to-inspiring-youtube-channels/"><u>[Updated] 2024 Approved  History Enthusiasts' Guide to Inspiring YouTube Channels</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-lost-opportunities-instant-creative-ban/"><u>[Updated] 2024 Approved  Lost Opportunities  Instant Creative Ban</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-beginners-guide-how-to-create-a-youtube-channel-and-make-money-for-2024/"><u>[Updated] Beginners’ Guide  How To Create a YouTube Channel and Make Money for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-framing-perfection-a-filmmakers-guide-to-cinematic-youtube-videos-for-2024/"><u>[Updated] Framing Perfection  A Filmmaker's Guide to Cinematic YouTube Videos for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-fresh-start-strategy-budget-channels-to-purchase-for-2024/"><u>[Updated] Fresh Start Strategy  Budget Channels to Purchase for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-guide-the-ultimate-list-of-video-converters-for-2024/"><u>[Updated] Guide  The Ultimate List of Video Converters for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-guide-youtube-to-mp4-ensuring-data-security-for-2024/"><u>[Updated] Guide  YouTube to MP4 - Ensuring Data Security for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-guide-to-secure-and-cost-free-youtube-music-extraction-for-2024/"><u>[Updated] Guide to Secure and Cost-Free YouTube Music Extraction for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-efficiently-delete-unwanted-video-feedback-for-2024/"><u>[Updated] How to Efficiently Delete Unwanted Video Feedback for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-flashflicker-artist/"><u>[Updated] In 2024, FlashFlicker Artist</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-flipping-the-script-online-video-reversals/"><u>[Updated] In 2024, Flipping the Script  Online Video Reversals</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-framework-developing-transformative-lifestyle-broadcasts/"><u>[Updated] In 2024, Framework  Developing Transformative Lifestyle Broadcasts</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-animate-and-make-your-own-effects/"><u>[Updated] In 2024, How to Animate and Make Your Own Effects</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-build-successful-youtube-advertisements-for-free/"><u>[Updated] In 2024, How to Build Successful YouTube Advertisements for Free?</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-create-impactful-valorant-thumbnails-a-compreayers-guide/"><u>[Updated] In 2024, How to Create Impactful Valorant Thumbnails  A Compreayer's Guide</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-inside-look-freewebcampro-software-overview-for-2024/"><u>[Updated] Inside Look  FreeWebcamPro Software Overview for 2024</u></a></li>
+<li><a href="https://techidaily.com/how-to-easily-hard-reset-my-infinix-note-30i-drfone-by-drfone-reset-android-reset-android/"><u>How to Easily Hard reset my Infinix Note 30i | Dr.fone</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/how-to-fix-the-apple-iphone-14-pro-gps-not-working-issue-drfone-by-drfone-virtual-ios/"><u>How to Fix the Apple iPhone 14 Pro GPS not Working Issue | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-unlock-apple-id-activation-lock-from-iphone-13-by-drfone-ios/"><u>How to Unlock Apple ID Activation Lock From iPhone 13?</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/how-to-use-luts-in-vn-editor-complete-guide-and-best-luts-download-for-2024/"><u>How to Use LUTs in VN Editor – Complete Guide and Best LUTs Download for 2024</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-make-the-most-of-your-iphone-15-pro-max-lock-screen-with-notifications-drfone-by-drfone-ios/"><u>In 2024, How to Make the Most of Your iPhone 15 Pro Max Lock Screen with Notifications? | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-juxtaposing-flight-with-flair-a-bebop-parrot-analysis/"><u>In 2024, Juxtaposing Flight with Flair – A Bebop Parrot Analysis</u></a></li>
+<li><a href="https://extra-information.techidaily.com/mastering-hue-shifts-a-guide-to-efficient-photoshop-corrections/"><u>Mastering Hue Shifts  A Guide to Efficient Photoshop Corrections</u></a></li>
+</ul></div>

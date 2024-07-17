@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  Guidelines for Optimal YouTube Video Brightness\""
-date: 2024-06-06T16:06:24.764Z
-updated: 2024-06-07T16:06:24.764Z
+date: 2024-07-16T05:34:10.774Z
+updated: 2024-07-17T05:34:10.774Z
 tags:
   - ai video
   - ai youtube
@@ -18,6 +18,9 @@ thumbnail: https://thmb.techidaily.com/b918b2416ccc3c3bc24e5dbb4922efd59cd6316c8
 
 # How To Light Your YouTube Video
 
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 ##### Richard Bennett
@@ -45,14 +48,32 @@ The best thing about window lighting is that it’s free. The worst thing about 
 
 Window lighting for me was especially difficult to work with because I live in a very rainy and cloudy city, Vancouver, Canada, where we pretty much just get three months of good sun.
 
-![  YouTube Video Lighting ](https://images.wondershare.com/filmora/article-images/window-lighting-comparison.jpg)
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![YouTube Video Lighting](https://images.wondershare.com/filmora/article-images/window-lighting-comparison.jpg)
 
 Above are two freeze frames from one of Daniel's past window-lit vlogs. Although these two frames are both from the same vlog, you can see that the image on the right looks brighter due to clearer skies at that moment. These varying amounts of light is what you will have to deal with if you choose to light your YouTube video with window lighting.
 
+<!-- affiliate ads begin -->
+<span id="1993652">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 2. Home Lighting
 
 Home lighting is another source of light that many new YouTubers use. In the past, when my window light wasn’t strong enough to light my video recording space, I would turn on the ceiling light.
 
+<!-- affiliate ads begin -->
+<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Mixed Lighting](https://images.wondershare.com/filmora/article-images/home-lighting-for-youtube-videos.jpg)
 
 Notice how the color of Daniel's skin looks much more orange here (above) than the color of the skin in the two side-by-side window lighting examples? The side of the face also appears to look bluer. This all happened because he mixed up different color temperatures shining out of the two lights (cooler window light and warmer ceiling light).
@@ -69,6 +90,9 @@ If you rather not deal with all the window and home lighting challenges, you can
 
 The first thing you’ll want to do to set up studio lighting in your home is to pick a room to film in and eliminate as much external lighting as you can. Use blinds, curtains, towels, or any thick fabric to block sunlight from shining into your room.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
+<!-- affiliate ads end -->
 ### 2. 3-Point Lighting
 
 The most common setup for studio lighting is 3-point lighting. For this kind of lighting you’ll need three lights: a key light, a fill light, and a back light (also called a hair light).
@@ -153,10 +177,16 @@ With time, Filmora brings new and advanced features for its users to equip them 
 
 **Step 05:** If you want to use your custom background, you can import it into the Filmora by clicking import or dragging and dropping it in the media section.
 
+<!-- affiliate ads begin -->
+<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![ai-portrait-thumbnail-step5](https://images.wondershare.com/filmora/article-images/ai-portrait-thumbnail-step5.png)
 
 **Step 06:** Import your video the same way into the media folder of Filmora and drag it into the timeline and place it above your background.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![ai-portrait-thumbnail-step6](https://images.wondershare.com/filmora/article-images/ai-portrait-thumbnail-step6.png)
 
 **Step 07:** Select your footage, go to the Effects tab and click on AI Portraits. It will open up all the effects related to AI Portraits. These AI Portrait features help you separate the human from a background without using a green screen or anything else.
@@ -165,18 +195,39 @@ With time, Filmora brings new and advanced features for its users to equip them 
 
 **Step 08:** Double click on any of these effects to see how they will look like on your footage.
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![ai-portrait-thumbnail-step8](https://images.wondershare.com/filmora/article-images/ai-portrait-thumbnail-step8.png)
 
 **Step 09:** To make a thumbnail for your Youtube, we have to remove the background of your footage first. To do that we have to apply Human Segmentation to the footage first. It will separate the human from the footage. Drag and drop the Human Segmentation effect into the footage in the timeline. Once you drop it into the footage, it will ask you to purchase this feature to export the footage. Since we are not trying to export the footage, we are only creating a thumbnail, click on "Try It". Once the background is removed, you can add other effects as well. Drag and drop the "Human Border" into the footage. It creates an outline around the human in your footage.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![ai-portrait-thumbnail-step9](https://images.wondershare.com/filmora/article-images/ai-portrait-thumbnail-step9.png)
 
 **Step 10:** The effect will be applied to the footage. Now the background has been removed from the footage and ready to be used on your custom background. You can adjust the human accordingly where it looks perfect.
 
+<!-- affiliate ads begin -->
+<span id="1993650">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![ai-portrait-thumbnail-step10](https://images.wondershare.com/filmora/article-images/ai-portrait-thumbnail-step10.png)
 
 **Step 11:** Now it is time to add a title into your thumbnail to highlight what the video is all about. Go to the Titles, and select lower thirds. You can also select any of the titles types which best suits your needs. Drop the title into the timeline above the footage and adjust it accordingly. Now double click on the header to edit and rename it.
 
+<!-- affiliate ads begin -->
+<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![ai-portrait-thumbnail-step11](https://images.wondershare.com/filmora/article-images/ai-portrait-thumbnail-step11.png)
 
 **Step 12:** Once you are satisfied with the final results, click on the Camera icon below the preview screen or press "Ctrl+Alt+S" to take the screenshot.
@@ -208,3 +259,54 @@ Follow @Shanoon Cox
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-explore-beyond-youtube-with-these-top-5-video-tools/"><u>[New] 2024 Approved  Explore Beyond Youtube with These Top 5 Video Tools</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-secure-youtube-channels-audible-content/"><u>[New] 2024 Approved  How to Secure YouTube Channels' Audible Content</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-beyond-boundaries-channel-youtube-for-exciting-green-screens-for-2024/"><u>[New] Beyond Boundaries  Channel Youtube for Exciting Green Screens for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-ideas-to-boost-the-impact-of-fb-video-campaigns/"><u>[New] Ideas to Boost the Impact of FB Video Campaigns</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-invest-in-quality-screen-capture-bandicam-or-camtasia-for-2024/"><u>[New] Invest in Quality Screen Capture  Bandicam or Camtasia for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-streamlined-process-to-download-parts-from-youtube-videos/"><u>[New] Streamlined Process to Download Parts From YouTube Videos</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-7-insider-tips-to-make-money-quickly-on-youtube-shorts/"><u>[Updated] 2024 Approved  7 Insider Tips to Make Money Quickly on YouTube Shorts</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-avoid-monetization-mishaps-essential-youtube-checks/"><u>[Updated] 2024 Approved  Avoid Monetization Mishaps  Essential YouTube Checks</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-clear-up-audio-in-youtube-a-step-by-step-guide/"><u>[Updated] 2024 Approved  Clear Up Audio in YouTube  A Step-by-Step Guide</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-brand-makeover-made-easy-revel-in-our-array-of-over-50-free-online-promotional-artwork/"><u>[Updated] Brand Makeover Made Easy  Revel in Our Array of over 50 Free Online Promotional Artwork!</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-charting-the-course-of-monetization-for-creator-economy-on-youtubeshorts-for-2024/"><u>[Updated] Charting the Course of Monetization for Creator Economy on YouTubeshorts for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-crafting-clicks-top-tags-for-gamers-content-for-2024/"><u>[Updated] Crafting Clicks  Top Tags for Gamers' Content for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-cultivate-creativity-youtubes-top-inspirational-videos-for-2024/"><u>[Updated] Cultivate Creativity  YouTube's Top Inspirational Videos for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-effortless-storytelling-using-pixiz-for-photo-videos/"><u>[Updated] Effortless Storytelling  Using Pixiz for Photo Videos</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-free-youtube-sound-ripper-collection-top-17-extractors-revealed/"><u>[Updated] Free YouTube Sound Ripper Collection  Top 17 Extractors Revealed</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-clip-concoction-station/"><u>[Updated] In 2024, Clip Concoction Station</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-free-film-resource-highlights-where-to-start-your-search/"><u>[Updated] In 2024, Free Film Resource Highlights  Where to Start Your Search</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-top-5-youtube-video-editor-alternatives/"><u>[Updated] In 2024, Top 5 YouTube Video Editor Alternatives</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-maximizing-online-presence-through-youtube-ad-and-image-marketing/"><u>[Updated] Maximizing Online Presence Through YouTube Ad & Image Marketing</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-premium-7-video-gear-ideas-for-captivating-vloggers/"><u>[Updated] Premium 7 Video Gear Ideas for Captivating Vloggers</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-spreading-beauty-wisdom-setting-up-your-vloggers-virtual-space/"><u>[Updated] Spreading Beauty Wisdom  Setting Up Your Vlogger's Virtual Space</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-collective-wisdom-on-easeus-products/"><u>2024 Approved  Collective Wisdom on EaseUS Products</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/2024-approved-youtubes-flawless-beauty-masterclass-skincare-hairdos-and-cosmetics/"><u>2024 Approved  YouTube's Flawless Beauty Masterclass  Skincare, Hairdos & Cosmetics</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/3-smart-and-simple-ways-to-change-home-address-on-apple-iphone-xs-max-drfone-by-drfone-virtual-ios/"><u>3 Smart and Simple Ways to Change Home Address on Apple iPhone XS Max | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/fake-the-location-to-get-around-the-mlb-blackouts-on-poco-m6-pro-5g-drfone-by-drfone-virtual-android/"><u>Fake the Location to Get Around the MLB Blackouts on Poco M6 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-without-jailbreak-on-oppo-a1x-5g-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location without Jailbreak On Oppo A1x 5G | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-revive-your-bricked-tecno-pop-7-pro-in-minutes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Revive Your Bricked Tecno Pop 7 Pro in Minutes | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/how-to-transfer-from-apple-iphone-11-to-samsung-simplified-guide-drfone-by-drfone-transfer-from-ios/"><u>How To Transfer From Apple iPhone 11 to Samsung Simplified Guide | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-2-ways-to-transfer-text-messages-from-lava-storm-5g-to-iphone-1514131211x8-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 2 Ways to Transfer Text Messages from Lava Storm 5G to iPhone 15/14/13/12/11/X/8/ | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-do-you-remove-restricted-mode-on-iphone-8-by-drfone-ios/"><u>In 2024, How Do You Remove Restricted Mode on iPhone 8</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-prime-action-cameras-with-superior-mics/"><u>In 2024, Prime Action Cameras with Superior Mics</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/in-2024-the-insiders-look-at-facebook-video-proportions-and-settings/"><u>In 2024, The Insider's Look at Facebook Video Proportions and Settings</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-top-imei-unlokers-for-iphone-13-pro-and-android-phones-by-drfone-ios/"><u>In 2024, Top IMEI Unlokers for iPhone 13 Pro and Android Phones</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-ultimate-choice-top-android-3d-players/"><u>In 2024, Ultimate Choice  Top Android 3D Players</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-unlocking-made-easy-the-best-10-apps-for-unlocking-your-vivo-v27-pro-device-by-drfone-android/"><u>In 2024, Unlocking Made Easy The Best 10 Apps for Unlocking Your Vivo V27 Pro Device</u></a></li>
+<li><a href="https://video-capture.techidaily.com/leveraging-the-full-visualization-feature-with-google-meets-grids-for-2024/"><u>Leveraging the Full Visualization Feature with Google Meet's Grids for 2024</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-2024-approved-convert-videos-to-gifs-with-ease-28-top-rated-tools/"><u>New 2024 Approved Convert Videos to GIFs with Ease 28 Top-Rated Tools</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-best-audio-converter-applications-that-you-should-try-out-today-here-is-the-list-of-multiple-audio-converter-applications-which-you-can-use-online-or-do/"><u>New Best Audio Converter Applications that You Should Try Out Today Here Is the List of Multiple Audio Converter Applications, Which You Can Use Online or Download on Your Device for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/optimizing-your-music-library-transitioning-from-spotify-to-youtube-music-for-2024/"><u>Optimizing Your Music Library  Transitioning From Spotify To YouTube Music for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/pro-gamers-equipment-showcase-series-for-2024/"><u>Pro Gamer's Equipment Showcase Series for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/seamless-techniques-for-swift-removal-of-your-youtube-comments-for-2024/"><u>Seamless Techniques for Swift Removal of Your Youtube Comments for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/the-experts-guide-to-360-video-conversion-and-youtube-sharing-for-2024/"><u>The Expert's Guide to 360 Video Conversion and YouTube Sharing for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/the-gamers-roadmap-navigating-a-successful-youtube-channel-for-2024/"><u>The Gamers' Roadmap  Navigating a Successful YouTube Channel for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-ultimate-review-of-sns-hdr-vs-top-hdr-applications/"><u>The Ultimate Review of SNS HDR Vs. Top HDR Applications</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/unlock-creativity-in-youtube-production-an-intro-to-wmm-for-2024/"><u>Unlock Creativity in YouTube Production  An Intro to WMM for 2024</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-rotate-your-videos-with-ease-10-top-online-tools-for-2024/"><u>Updated Rotate Your Videos with Ease 10 Top Online Tools for 2024</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-soothing-the-digital-soul-the-leading-web-sites-for-inner-peace-for-2024/"><u>Updated Soothing the Digital Soul The Leading Web Sites for Inner Peace for 2024</u></a></li>
+</ul></div>

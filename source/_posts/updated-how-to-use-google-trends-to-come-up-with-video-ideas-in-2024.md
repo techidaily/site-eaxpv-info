@@ -1,7 +1,7 @@
 ---
 title: "[Updated] How to Use Google Trends to Come up with Video Ideas, In 2024"
-date: 2024-06-06T15:36:17.708Z
-updated: 2024-06-07T15:36:17.708Z
+date: 2024-07-16T04:48:36.443Z
+updated: 2024-07-17T04:48:36.443Z
 tags:
   - ai video
   - ai youtube
@@ -54,6 +54,9 @@ Then click from 'Daily Search Trends' to 'Realtime Search Trends'.
 
 On top you will see two drop-down menus, one is for the category and one is for location.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Google Trends Video Ideas](https://images.wondershare.com/filmora/article-images/google-trends-video-ideas.jpg)
 
 Under **All categories** select the general theme your channel falls under.
@@ -76,6 +79,9 @@ Having something to say doesn’t have to mean having a strong opinion. If you j
 
 Clicking on these results will give you more specific data including how often the topic has been searched recently and links to recent news articles. These can give you a better idea of why it is trending and help you come up with what you want to say.
 
+<!-- affiliate ads begin -->
+<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 3: Battle of the Keywords
 
 Once you have a topic in mind for your next video – whether it came from Google Trends or your own noggin – think about what the most important keyword for that topic might be.
@@ -84,6 +90,9 @@ A [keyword is a word or short phrase](https://www.filmora.io/community-blog/the-
 
 Once you have a keyword in mind, type it into the Explore bar at the top of your page in Google Trends.
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Google Trends Keywords YouTube Video](https://images.wondershare.com/filmora/article-images/explore-topic-in-google-trends.jpg)
 
 What happens after you click **enter** is pretty much magic. Say I want to make a video on how to use Filmora. The first thing I’ll type into that Explore bar is ‘Filmora’.
@@ -92,12 +101,27 @@ What happens after you click **enter** is pretty much magic. Say I want to make 
 
 You can see near the top that this chart represents searches for the topic over the last 5 years, which isn’t necessarily useful (although it is sort of cool that you can see when Filmora was ‘born’). I’m going to narrow that down to results from the U.S in the last week.
 
+<!-- affiliate ads begin -->
+<span id="1997795">
+					<video width="250" height="250" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Google Trends YouTube Video Ideas Filmora](https://images.wondershare.com/filmora/article-images/google-trends-search-term-time-range.jpg)
 
 There, now I can see how the popularity of Filmora as a search term has spiked on specific days and times (if you hover over a spike it tells you the time and day) and plan to post my video at a time that capitalizes on these trends.
 
 Next, what other words do I want to include in my video title? Is this a review, a tutorial, or a how-to? By clicking on my search term Filmora, I can edit it to read ‘filmora review’. Then I can click **\+ Compare** and type in ‘filmora tutorial’ and ‘how to use Filmora’. Google Trends will create a chart comparing the popularity of those 3 terms.
 
+<!-- affiliate ads begin -->
+<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Google Trends Filmora Keywords](https://images.wondershare.com/filmora/article-images/google-trends-search-term-comparison.jpg)
 
 _I also ‘zoomed out’ to 90 days – if I’d only looked at how they compared over the last week my results could have been skewed._
@@ -106,6 +130,9 @@ It’s pretty clear from the chart that ‘filmora review’ is the strongest of
 
 Although, when you do a comparison like this you should also go to YouTube and search for each potential keyword/phrase individually. It might turn out that there is a ton of strong competition for the most popular search term, and not as much for the second or third most popular. Here’s a search for ‘Filmora Review’ on YouTube:
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
+<!-- affiliate ads end -->
 ![YouTube search Filmora Keyword](https://images.wondershare.com/filmora/article-images/google-trends-youtube-keyword-search.jpg)
 
 _If my view of YouTube looks different from yours it’s because I’m using the [VidIQ plugin for Chrome](https://chrome.google.com/webstore/detail/vidiq-vision-for-youtube/pachckjkecffpdphbpmfolblodfkgbhl?hl=en). It’s free and it gives you all kinds of extra info about videos and channels._
@@ -118,10 +145,16 @@ One of the biggest benefits of identifying trends and making videos about them q
 
 Want to make coming up with YouTube video ideas a habit? [This post here](https://www.filmora.io/community-blog/how-to-come-up-with-better-youtube-video-ideas-391.html) will help you develop a process to generate more ideas and properly evaluate them.
 
-## Making Better YouTube Videos with [Filmora](https://tools.techidaily.com/wondershare/filmora/download/)
+<!-- affiliate ads begin -->
+<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## Making Better YouTube Videos with Filmora
 
 As one of the most widely used video editing software among YouTubers, Filmora provides plentiful editing tools, such as cut, trim, [video stabilization](https://tools.techidaily.com/wondershare/filmora/download/), [noise removal](https://tools.techidaily.com/wondershare/filmora/download/), [chroma key compositing](https://tools.techidaily.com/wondershare/filmora/download/), and color grading. Besides, there are royalty-free music track and sound effects available in the built-in Audio library, and title templates and presets, as well as elements and effects. Download the free trial version below and get started now.
 
+<!-- affiliate ads begin -->
+<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 [![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
@@ -219,6 +252,9 @@ Export
 
 Once you are done editing and happy with the outcome, select the Export button to start rendering the video. Here you can choose to publish it on YouTube or save it for other uses.
 
+<!-- affiliate ads begin -->
+<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 3\. YouTube Clip Maker for Android and iPhone
 
 **KineMaster**
@@ -289,6 +325,9 @@ Choose "Record a voiceover" on the Record menu. It would be better to connect a 
 
 All media files recorded are automatically saved in the “Media Library”, in case of further editing, you can drag them to the timeline.
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 2\. How to Make YouTube Clip Online
 
 [**www.youtubetrimmer.com**](http://www.youtubetrimmer.com)
@@ -431,6 +470,9 @@ Step 3:**Share**
 
 You can export your project up to 4k and 60fps. The app saves directly to your camera’s roll besides letting you share to social media.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 4: Related FAQs
 
 ****How to Make a Clip from a YouTube Video** **？**
@@ -555,3 +597,55 @@ YouTubers use several video editors for their work. Some of the most popular edi
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-selfies-to-subscribers-jake-pauls-online-odyssey/"><u>[New] 2024 Approved  From Selfies to Subscribers  Jake Paul’s Online Odyssey</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-vision-to-visual-impact-youtube-trailers-via-filmora/"><u>[New] 2024 Approved  From Vision to Visual Impact  YouTube Trailers via Filmora</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-harmonize-your-favorites-creating-custom-youtube-playlists/"><u>[New] 2024 Approved  Harmonize Your Favorites  Creating Custom YouTube Playlists</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-harnessing-the-power-of-filmora-for-youtube-video-promotions/"><u>[New] 2024 Approved  Harnessing the Power of Filmora for YouTube Video Promotions</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-does-youtube-pay-you/"><u>[New] 2024 Approved  How Does YouTube Pay You?</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-send-hidden-youtube-videos-using-google-login/"><u>[New] 2024 Approved  How to Send Hidden YouTube Videos Using Google Login</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-frame-by-frame-the-smartphone-storytellers-path-to-youtubes-thumbnails-for-2024/"><u>[New] Frame by Frame  The Smartphone Storyteller's Path to YouTubes Thumbnails for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-free-templates-for-dynamic-youtube-channel-closures-for-2024/"><u>[New] Free Templates for Dynamic YouTube Channel Closures for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-free-vs-paid-gaming-entrances-top-12-insights-for-youtube-gamers-for-2024/"><u>[New] Free vs Paid Gaming Entrances  Top 12 Insights for YouTube Gamers for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-from-flickering-camera-lights-to-financial-highlights-for-2024/"><u>[New] From Flickering Camera Lights to Financial Highlights for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-from-live-demos-to-online-sharing-mastering-idevice-screenshots-for-video-content-for-2024/"><u>[New] From Live Demos to Online Sharing  Mastering iDevice Screenshots for Video Content for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-from-vlogs-to-viral-jake-pauls-online-empire-expansion-for-2024/"><u>[New] From Vlogs to Viral  Jake Paul’s Online Empire Expansion for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-global-content-makers-conference-for-2024/"><u>[New] Global Content Makers' Conference for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-how-to-convert-youtube-videos-to-mp3-songs-on-mac-for-2024/"><u>[New] How to Convert YouTube Videos to MP3 Songs on Mac for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-first-steps-into-filmmaking-the-ultimate-guide-for-making-your-first-10-youtube-videos/"><u>[New] In 2024, First Steps Into Filmmaking  The Ultimate Guide for Making Your First 10 YouTube Videos</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-focusing-attention-with-eye-catching-intros-in-imovie/"><u>[New] In 2024, Focusing Attention with Eye-Catching Intros in iMovie</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-footage-to-frame-crafting-youtube-thumbnails-on-mobile-devices/"><u>[New] In 2024, From Footage to Frame  Crafting YouTube Thumbnails on Mobile Devices</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-gamers-galaxy-100plus-spaces-of-play/"><u>[New] In 2024, Gamer's Galaxy  100+ Spaces of Play</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-get-into-the-game-starting-an-apple-powered-sports-network/"><u>[New] In 2024, Get Into the Game  Starting an Apple-Powered Sports Network</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-grasping-your-youtube-popularity-with-precision/"><u>[New] In 2024, Grasping Your YouTube Popularity with Precision</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-guide-to-streamline-yt-playlist-integration-in-htmlcss/"><u>[New] In 2024, Guide to Streamline YT Playlist Integration in HTML/CSS</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-high-paying-creator-status-on-youtube/"><u>[New] In 2024, High-Paying Creator Status on YouTube</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-maximizing-revenue-how-to-monetize-youtube-channel-on-mobile/"><u>[New] In 2024, Maximizing Revenue  How to Monetize YouTube Channel on Mobile</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/nvigorating-channel-content-best-video-concepts-to-inspire-viewers-for-2024/"><u>[New] Invigorating Channel Content  Best Video Concepts to Inspire Viewers for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-navigating-fb-video-conversion-to-professional-quality-mp3s/"><u>[New] Navigating FB Video Conversion to Professional-Quality MP3s</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-transform-your-iphone-footage-filming-and-slowing-down-videos/"><u>[New] Transform Your iPhone Footage  Filming and Slowing Down Videos</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-framing-perfection-a-filmmakers-guide-to-cinematic-youtube-videos/"><u>[Updated] 2024 Approved  Framing Perfection  A Filmmaker's Guide to Cinematic YouTube Videos</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-top-5-effortlessly-converted-gif-to-professional-videos-online/"><u>[Updated] 2024 Approved  Top 5 Effortlessly Converted  GIF to Professional Videos Online</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-achieving-high-quality-videos-with-your-cellphone-webcam-for-2024/"><u>[Updated] Achieving High-Quality Videos with Your Cellphone Webcam for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-cloud-keepers-value-deal-economical-mass-storage/"><u>[Updated] Cloud Keepers' Value Deal  Economical Mass Storage</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-effortlessly-eradicate-unwanted-youtube-feedback/"><u>[Updated] In 2024, How to Effortlessly Eradicate Unwanted YouTube Feedback</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-upload-your-music-to-youtube/"><u>[Updated] In 2024, How to Upload Your Music to YouTube</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-watch-deleted-youtube-videos-online-in-2-ways/"><u>[Updated] In 2024, How to Watch Deleted YouTube Videos Online in 2 Ways</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-perfecting-your-content-understanding-facebook-video-sizes-and-ratios/"><u>[Updated] In 2024, Perfecting Your Content  Understanding Facebook Video Sizes and Ratios</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-unbeatable-bargain-video-content-websites/"><u>[Updated] Unbeatable Bargain Video Content Websites</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-scrutinizing-free2x-tech-for-optimal-webcam-use/"><u>2024 Approved  Scrutinizing Free2X Tech for Optimal Webcam Use</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-the-ultimate-guide-to-picture-purity-erasing-images-excesses/"><u>2024 Approved  The Ultimate Guide to Picture Purity  Erasing Images' Excesses</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/hand-tracking-uncovered-diverse-approaches/"><u>Hand Tracking Uncovered  Diverse Approaches</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/how-to-do-motion-graphics-in-filmora-for-2024/"><u>How to Do Motion Graphics in Filmora for 2024</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-send-and-fake-live-location-on-facebook-messenger-of-your-lava-yuva-2-drfone-by-drfone-virtual-android/"><u>How to Send and Fake Live Location on Facebook Messenger Of your Lava Yuva 2 | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-watch-movies-on-your-ps5-with-sony-pictures-core/"><u>How to Watch Movies on Your PS5 With Sony Pictures Core</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-how-to-get-the-dragon-scale-and-evolution-enabled-pokemon-on-apple-iphone-13-pro-drfone-by-drfone-virtual-ios/"><u>In 2024, How to get the dragon scale and evolution-enabled pokemon On Apple iPhone 13 Pro? | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-remove-forgotten-pin-of-your-infinix-hot-30-5g-by-drfone-android/"><u>In 2024, How to Remove Forgotten PIN Of Your Infinix Hot 30 5G</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/in-2024-the-future-of-video-editing-fast-reliable-and-64-bit-compatible/"><u>In 2024, The Future of Video Editing Fast, Reliable, and 64-Bit Compatible</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-which-pokemon-can-evolve-with-a-moon-stone-for-oneplus-nord-3-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Which Pokémon can Evolve with a Moon Stone For OnePlus Nord 3 5G? | Dr.fone</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-voice-purification-solutions-a-comprehensive-list-for-all-singers-needs-for-2024/"><u>New Voice Purification Solutions A Comprehensive List for All Singers Needs for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-is-virtualdub-still-the-best-choice-a-review-and-comparison-of-top-alternatives-for-2024/"><u>Updated Is Virtualdub Still the Best Choice? A Review and Comparison of Top Alternatives for 2024</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-tunewizard-pro-expertly-organize-your-music-library-across-windowsmac-platforms/"><u>Updated TuneWizard Pro Expertly Organize Your Music Library Across Windows/Mac Platforms</u></a></li>
+</ul></div>

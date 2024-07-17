@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  A Beginner's Guide to Making Attractive Video Thumbnails for Social Media Platforms\""
-date: 2024-06-06T16:10:01.756Z
-updated: 2024-06-07T16:10:01.756Z
+date: 2024-07-16T05:39:34.523Z
+updated: 2024-07-17T05:39:34.523Z
 tags:
   - ai video
   - ai youtube
@@ -38,16 +38,25 @@ Here are 5 easy tips for creating thumbnails that get views.
 
  _Contest now closed._
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Edit Your Videos Before Creating Video Thumbnails
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 1\. Have a Consistent Layout
 
 Your thumbnails all must look like part of the same set. You want viewers to recognize your videos like yours, and they are more likely to do that if you build up a standard layout that they can start associating with you.
 
 An example of a standard layout could be you in the middle of the screen wearing an expression that matches the theme of your video, with your title written underneath your face. Every individual thumbnail would still be different, but you and the text would always be in the same spot.
 
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Consistent Layout](https://images.wondershare.com/filmora/article-images/consistent-layout.jpg)
 
 ## **2\. Use Your Face**
@@ -56,12 +65,18 @@ People feel automatically connected and drawn into images that make eye contact.
 
 Also, if somebody recognizes you in your thumbnail from a previous video of yours, that will go a long way towards making them click.
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 3\. Use Graphics/Emojis that are On Topic
 
 Anybody can take a screenshot of themselves in their video and use it as a thumbnail. To make your thumbnails look polished, consider using small images (like emojis or hearts) to stand out. This will add color and personality to your thumbnail.
 
 Make sure the images you choose are relevant to the topic of your video.
 
+<!-- affiliate ads begin -->
+<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 4\. Make Your Text Huge
 
 If you use text in your thumbnail (you don’t have to) then it should be to add context. For example, if the main image is just you smiling then you might need some text to let viewers know the video is a makeup tutorial.
@@ -78,6 +93,9 @@ A good rule for text is to use only 1-3 words. That way they won’t clutter you
 
 Use these tips to make video thumbnails for YouTube, and tell us what kind of results you get!
 
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 Richard Bennett
@@ -94,3 +112,38 @@ Follow @Richard Bennett
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-mastering-virtual-meetings-best-solutions/"><u>[New] 2024 Approved  Mastering Virtual Meetings  Best Solutions</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-how-to-illuminate-a-guide-to-great-vlog-images-for-2024/"><u>[New] How to Illuminate  A Guide to Great Vlog Images for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-financially-flourishing-online-media-personality/"><u>[New] In 2024, Financially Flourishing Online Media Personality</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-free-frame-perfection-on-youtube-your-ultimate-guidebook/"><u>[New] In 2024, Free Frame Perfection on YouTube - Your Ultimate Guidebook</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-novice-to-pro-mastering-the-craft-of-yt-shorts/"><u>[New] In 2024, From Novice to Pro  Mastering the Craft of YT Shorts</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-gamified-design-making-your-youtube-banner-unforgettable/"><u>[New] In 2024, Gamified Design  Making Your YouTube Banner Unforgettable</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-guide-to-effective-video-capturing-via-screencastify/"><u>[New] In 2024, Guide to Effective Video Capturing via Screencastify</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-halt-youtube-suggested-content-now/"><u>[New] In 2024, Halt YouTube Suggested Content Now</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-harmonize-your-listens-the-complete-path-to-youtube-playlist-making-webmobile/"><u>[New] In 2024, Harmonize Your Listens  The Complete Path to YouTube Playlist Making (Web/Mobile)</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-hasty-thumbnail-crafting-for-fortnite-gameplay/"><u>[New] In 2024, Hasty Thumbnail Crafting for Fortnite Gameplay</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-accelerate-subscriber-count-on-your-channel/"><u>[New] In 2024, How to Accelerate Subscriber Count on Your Channel</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-assemble-a-personalized-youtube-music-list/"><u>[New] In 2024, How to Assemble a Personalized YouTube Music List</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-sculpt-the-perfect-youtube-moniker-tips-and-tricks/"><u>[New] In 2024, How to Sculpt the Perfect YouTube Moniker  Tips & Tricks</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-streamline-the-integration-of-youtube-playlists-into-a-sites-layout/"><u>[New] In 2024, How To Streamline the Integration of YouTube Playlists Into a Site's Layout</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ptimizing-video-content-with-perfect-youtube-titles/"><u>[New] Optimizing Video Content with Perfect YouTube Titles</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-hundreds-to-millions-a-youtube-growth-journey/"><u>[Updated] 2024 Approved  From Hundreds to Millions  A YouTube Growth Journey</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-video-conference-to-youtube-broadcast-google-meet-explained/"><u>[Updated] 2024 Approved  From Video Conference to Youtube Broadcast  Google Meet Explained</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-harness-the-power-of-keywords-top-selection-software-unveiled/"><u>[Updated] 2024 Approved  Harness the Power of Keywords  Top Selection Software Unveiled</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-high-quality-youtube-images-download-without-any-cost/"><u>[Updated] 2024 Approved  High-Quality YouTube Images  Download Without Any Cost</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-add-timestamps-to-youtube-video-to-increase-views/"><u>[Updated] 2024 Approved  How to Add Timestamps to YouTube Video to Increase Views</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-disableremove-youtube-shorts-permanently2/"><u>[Updated] 2024 Approved  How to Disable/Remove YouTube Shorts Permanently?2</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-explore-essential-web-portals-delivering-impeccable-text-effects/"><u>[Updated] Explore Essential Web Portals Delivering Impeccable Text Effects</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-fast-track-to-excellent-valorant-thumbnails-artistry-for-2024/"><u>[Updated] Fast-Track to Excellent Valorant Thumbnails Artistry for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-high-end-hardware-unveiled-by-gaming-influencers-for-2024/"><u>[Updated] High-End Hardware Unveiled by Gaming Influencers for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-ultimate-guide-enjoy-tweets-in-stunning-hd-quality-for-2024/"><u>[Updated] Ultimate Guide  Enjoy Tweets in Stunning HD Quality for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/addressing-lost-extra-screen-in-w11/"><u>Addressing Lost Extra Screen in W11</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-a-step-by-step-guide-to-announcing-a-charity-drive-on-fb/"><u>In 2024, A Step-by-Step Guide to Announcing a Charity Drive on FB</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-in-2024-how-to-perform-mask-tracking-discovering-the-best-methods/"><u>New In 2024, How to Perform Mask Tracking Discovering the Best Methods</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/top-4-sim-location-trackers-to-easily-find-your-lost-poco-c65-device-by-drfone-android/"><u>Top 4 SIM Location Trackers To Easily Find Your Lost Poco C65 Device</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/top-4-ways-for-apple-iphone-6s-to-mac-mirroring-drfone-by-drfone-ios/"><u>Top 4 Ways for Apple iPhone 6s to Mac Mirroring | Dr.fone</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-2024-approved-leveraging-voiceovers-in-microsoft-powerpoint-a-detailed-walkthrough-for-windows-and-mac-operating-systems/"><u>Updated 2024 Approved Leveraging Voiceovers in Microsoft PowerPoint A Detailed Walkthrough for Windows & Mac Operating Systems</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/virtual-havens-of-adventure-but-not-like-gta-for-2024/"><u>Virtual Havens of Adventure (But Not Like GTA) for 2024</u></a></li>
+</ul></div>

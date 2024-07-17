@@ -1,7 +1,7 @@
 ---
 title: "[Updated] In 2024, Harnessing Google Trends for Video Concept Generation"
-date: 2024-06-06T15:25:50.966Z
-updated: 2024-06-07T15:25:50.966Z
+date: 2024-07-16T04:32:59.218Z
+updated: 2024-07-17T04:32:59.218Z
 tags:
   - ai video
   - ai youtube
@@ -34,8 +34,23 @@ Google Trends, of course!
 
 Google Trends is a completely free tool you can use to determine what’s trending on YouTube or in Google’s search engine. Here’s how you can use Google Trends to figure out what’s trending in your niche and make a video before there’s tons of competition.
 
+<!-- affiliate ads begin -->
+<span id="1793213">
+					<video width="1080" height="1620" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 1: Seeing The Big Picture
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![Google Trends YouTube Ideas](https://images.wondershare.com/filmora/article-images/how-to-use-google-trends-to-come-up-with-video-seeing-big-picture.jpg)
 
 _You’ll need to be signed into your Google account to use Google Trends._
@@ -84,6 +99,9 @@ A [keyword is a word or short phrase](https://www.filmora.io/community-blog/the-
 
 Once you have a keyword in mind, type it into the Explore bar at the top of your page in Google Trends.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Google Trends Keywords YouTube Video](https://images.wondershare.com/filmora/article-images/explore-topic-in-google-trends.jpg)
 
 What happens after you click **enter** is pretty much magic. Say I want to make a video on how to use Filmora. The first thing I’ll type into that Explore bar is ‘Filmora’.
@@ -106,6 +124,9 @@ It’s pretty clear from the chart that ‘filmora review’ is the strongest of
 
 Although, when you do a comparison like this you should also go to YouTube and search for each potential keyword/phrase individually. It might turn out that there is a ton of strong competition for the most popular search term, and not as much for the second or third most popular. Here’s a search for ‘Filmora Review’ on YouTube:
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![YouTube search Filmora Keyword](https://images.wondershare.com/filmora/article-images/google-trends-youtube-keyword-search.jpg)
 
 _If my view of YouTube looks different from yours it’s because I’m using the [VidIQ plugin for Chrome](https://chrome.google.com/webstore/detail/vidiq-vision-for-youtube/pachckjkecffpdphbpmfolblodfkgbhl?hl=en). It’s free and it gives you all kinds of extra info about videos and channels._
@@ -118,12 +139,18 @@ One of the biggest benefits of identifying trends and making videos about them q
 
 Want to make coming up with YouTube video ideas a habit? [This post here](https://www.filmora.io/community-blog/how-to-come-up-with-better-youtube-video-ideas-391.html) will help you develop a process to generate more ideas and properly evaluate them.
 
-## Making Better YouTube Videos with [Filmora](https://tools.techidaily.com/wondershare/filmora/download/)
+## Making Better YouTube Videos with Filmora
 
 As one of the most widely used video editing software among YouTubers, Filmora provides plentiful editing tools, such as cut, trim, [video stabilization](https://tools.techidaily.com/wondershare/filmora/download/), [noise removal](https://tools.techidaily.com/wondershare/filmora/download/), [chroma key compositing](https://tools.techidaily.com/wondershare/filmora/download/), and color grading. Besides, there are royalty-free music track and sound effects available in the built-in Audio library, and title templates and presets, as well as elements and effects. Download the free trial version below and get started now.
 
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 [![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 Richard Bennett
@@ -143,6 +170,9 @@ Follow @Richard Bennett
 
 # The 10 Funniest YouTube Shorts Video Ideas in 2024
 
+<!-- affiliate ads begin -->
+<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
 ##### Shanoon Cox
@@ -151,6 +181,9 @@ Follow @Richard Bennett
 
 YouTube is a well-known brand for videos globally. This time, it comes with its extension feature with YouTube Shorts. It is a short video version of 15 to 60 seconds duration using a short camera present in the YouTube application and your smartphone. So, you can use YouTube Shorts ideas for watching and creating those funny and interesting short videos right from your mobile camera with ease.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![filmora](https://images.wondershare.com/filmora/youtube-shorts-ideas-1.jpg)
 
 That sounds great, doesn’t it? Let’s move ahead to get a good grab over some funny, engaging, and eye-catching ideas to have YouTube Shorts videos here. No need for a lengthy tutorial to become the real YouTube Shorts champion with the following tips. Let’s roll on, guys!
@@ -165,6 +198,9 @@ Then the right platform with a plethora of pictures is covered hereunder the fol
 
 Yeah! The first idea looks so catchy. Everyone holds some dreams. And if you have such beautiful dreams that you would like to share with your loved ones. Then YouTube Shorts ideas are the right platform full of views, likes, and lovers from around the world. Just give a thrust to it.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![filmora](https://images.wondershare.com/filmora/youtube-shorts-ideas-2.jpg)
 
 Also, you can discuss different sorts of dreams that the human genre has been dreaming of for years. You can even add a flavor of future dreams that will open up the space of excellent speculation one can think of.
@@ -223,6 +259,9 @@ Just give it a try and dance with the music you create with all the worldwide li
 
 Kids love cartoons, but the hidden fact is that everyone enjoys watching cartoon or cartoon characters to a certain extent. Then why not try mimicking some cartoon characters. If you are a fun-loving person, and in your life, you mimic any person’s character, then try mimicking cartoon characters under YouTube Short Video ideas.
 
+<!-- affiliate ads begin -->
+<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![filmora](https://images.wondershare.com/filmora/youtube-shorts-ideas-9.jpg)
 
 Mixing some comedy flavor to life will add more fun and enjoyment to all those seeking funny moments to reflect their days. Come on; show up your humor with this unique style.
@@ -239,6 +278,9 @@ You will be surprised to see how much fun-loving these cute pets are—so, geare
 
 Everybody holds some unique talent. You just need to identify it. If you have some talent, then showcasing talent ideas for YouTube Shorts will apt you. The whole world is waiting to see something unique that only you can do. So, shred your shyness and let the world see how talented you are.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
 ![filmora](https://images.wondershare.com/filmora/youtube-shorts-ideas-11.jpg)
 
 Here, you got to know about the top 10 funny ideas for YouTube Shorts videos. Choose the one that fits you and start creating YouTube Shorts Channel with these ideas.
@@ -306,3 +348,47 @@ Follow @Shanoon Cox
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-mac-studio-to-youtube-stream-imovie-video-upload-guide/"><u>[New] 2024 Approved  From Mac Studio to YouTube Stream  IMovie Video Upload Guide</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-zero-to-hero-boosting-youtube-view-count-quickly/"><u>[New] 2024 Approved  From Zero to Hero  Boosting YouTube View Count Quickly</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-zero-to-youtube-creating-a-stellar-new-chanel/"><u>[New] 2024 Approved  From Zero to YouTube  Creating a Stellar New Chanel</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-google-meet-broadcast-simplified-youtube-steps/"><u>[New] 2024 Approved  Google Meet Broadcast Simplified  YouTube Steps</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-guidance-for-effortless-addition-of-youtube-playlists-to-your-site/"><u>[New] 2024 Approved  Guidance for Effortless Addition of YouTube Playlists to Your Site</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-become-a-pro-at-snap-ad-development-hacks-and-strategies/"><u>[New] Become a Pro at Snap Ad Development - Hacks and Strategies</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-fiscal-footprint-of-mr-beast-for-2024/"><u>[New] Fiscal Footprint of Mr. Beast for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-flash-clip-content-wizard-for-2024/"><u>[New] Flash Clip Content Wizard for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-from-good-to-great-transformative-tactics-with-studio-for-2024/"><u>[New] From Good to Great  Transformative Tactics with Studio for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-from-struggling-youtuber-to-industry-leader-the-hub-of-creator-studios-wisdom-for-2024/"><u>[New] From Struggling Youtuber to Industry Leader  The Hub of Creator Studio's Wisdom for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-gourmet-giants-culinary-stars-you-must-subscribe-to-for-2024/"><u>[New] Gourmet Giants  Culinary Stars You Must Subscribe To for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-harnessing-viral-power-your-pathway-to-youtube-fame-for-2024/"><u>[New] Harnessing Viral Power  Your Pathway to YouTube Fame for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-rediscovering-archived-discussions-on-reddit-now-for-2024/"><u>[New] Rediscovering Archived Discussions on Reddit Now for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-disableremove-youtube-shorts-permanently2/"><u>[Updated] 2024 Approved  How to Disable/Remove YouTube Shorts Permanently?2</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-best-8-free-4k-uhd-video-player-software-for-windows-pcandmac/"><u>[Updated] Best 8 Free 4K UHD Video Player Software for Windows PC&Mac</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-fast-track-to-excellent-valorant-thumbnails-artistry-for-2024/"><u>[Updated] Fast-Track to Excellent Valorant Thumbnails Artistry for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-high-end-hardware-unveiled-by-gaming-influencers-for-2024/"><u>[Updated] High-End Hardware Unveiled by Gaming Influencers for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-elevate-your-youtube-videos-popularity-through-persistent-cc-licensing-for-2024/"><u>[Updated] How to Elevate Your YouTube Video's Popularity Through Persistent CC Licensing for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-optimize-youtube-submissions-for-extended-films-for-2024/"><u>[Updated] How to Optimize YouTube Submissions for Extended Films for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-start-your-vlog-and-make-money-from-it-for-2024/"><u>[Updated] How to Start Your Vlog and Make Money From It for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-upload-your-music-to-youtube-for-2024/"><u>[Updated] How to Upload Your Music to YouTube for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-fifas-best-players-trendy-videos-on-youtube/"><u>[Updated] In 2024, FIFA's Best Players  Trendy Videos on YouTube</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-fonts-that-make-a-difference-your-20-best-choices/"><u>[Updated] In 2024, Fonts That Make a Difference  Your 20 Best Choices</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-youtube-to-igtv-top-methods-unveiled/"><u>[Updated] In 2024, From YouTube to IGTV  Top Methods Unveiled</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-make-thumbnails-for-youtube-with-mobile-phones/"><u>[Updated] In 2024, How to Make Thumbnails for YouTube With Mobile Phones</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-transform-brainstorms-into-youtube-channel-names/"><u>[Updated] In 2024, How To Transform Brainstorms Into YouTube Channel Names</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-ultimate-youtube-community-guidelines/"><u>[Updated] Ultimate YouTube Community Guidelines</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-unlock-the-power-of-podcasts-15-activities-that-blend-multitasking-and-growth/"><u>2024 Approved  Unlock the Power of Podcasts  15 Activities that Blend Multitasking and Growth</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/complete-review-and-guide-to-techeligible-frp-bypass-and-more-for-honor-x9a-by-drfone-android/"><u>Complete Review & Guide to Techeligible FRP Bypass and More For Honor X9a</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/immortalize-instants-with-ease-dive-into-gratis-cloud-services-and-paid-alternatives-for-2024/"><u>Immortalize Instants with Ease  Dive Into Gratis Cloud Services & Paid Alternatives for 2024</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-techniques-to-transfer-data-from-vivo-y200-to-iphone-15141312-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Techniques to Transfer Data from Vivo Y200 to iPhone 15/14/13/12 | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-whatsapp-messages-on-lava-yuva-3-pro-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track WhatsApp Messages on Lava Yuva 3 Pro Without Them Knowing? | Dr.fone</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-simplifying-cross-platform-video-sharing-between-twitter-and-snapchat/"><u>In 2024, Simplifying Cross-Platform Video Sharing Between Twitter & Snapchat</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/in-2024-the-top-tiktok-flavors-15-viral-dishes-that-have-everyone-buzzing-online/"><u>In 2024, The Top TikTok Flavors  15 Viral Dishes That Have Everyone Buzzing Online</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/in-2024-transform-your-brand-11-free-animated-logo-makers-and-essential-design-tips/"><u>In 2024, Transform Your Brand 11 Free Animated Logo Makers & Essential Design Tips</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-2024-approved-techniques-for-altering-decibel-settings-on-media-playback/"><u>New 2024 Approved Techniques for Altering Decibel Settings on Media Playback</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/1719574042518-stop-the-print-jamming-on-windows-11-now/"><u>Stop the Print Jamming on Windows 11 Now!</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/top-30-androidiphone-apps-for-high-quality-slow-motion-shoots/"><u>Top 30 Android/iPhone Apps for High-Quality Slow Motion Shoots</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-embark-on-a-complimentary-audacity-adventure-capturing-every-note/"><u>Updated Embark on a Complimentary Audacity Adventure Capturing Every Note</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-in-2024-the-ultimate-youtube-thumbnail-cheat-sheet-sizes-designs-and-more/"><u>Updated In 2024, The Ultimate YouTube Thumbnail Cheat Sheet Sizes, Designs, and More</u></a></li>
+</ul></div>

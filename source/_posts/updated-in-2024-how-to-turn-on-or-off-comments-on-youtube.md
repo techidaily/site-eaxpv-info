@@ -1,7 +1,7 @@
 ---
 title: "[Updated] In 2024, How to Turn on or Off Comments on YouTube"
-date: 2024-06-06T15:30:43.923Z
-updated: 2024-06-07T15:30:43.923Z
+date: 2024-07-16T04:40:20.477Z
+updated: 2024-07-17T04:40:20.477Z
 tags:
   - ai video
   - ai youtube
@@ -38,13 +38,25 @@ If you don’t want any comments on any of the videos that you publish, you must
 
 Use your favorite web browser to go to YouTube and sign in to your Google account. Click your profile picture from the top-right corner of the webpage, and click **YouTube Studio** from the menu that appears.
 
-![ Find YouTube Studio options](https://images.wondershare.com/filmora/article-images/find-youtube-studio-option.jpg)
+![Find YouTube Studio options](https://images.wondershare.com/filmora/article-images/find-youtube-studio-option.jpg)
 
 #### Step 2: Go to Channel’s Advanced Settings
 
 From the bottom of the left pane, click the **Settings** icon, click **Channel** from the **Settings** box that comes up next, and go to **Advanced settings** from the right window.
 
-![  YouTube Channel Advanced Settings](https://images.wondershare.com/filmora/article-images/youtube-channel-advanced-settings.jpg)
+<!-- affiliate ads begin -->
+<span id="1993650">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![YouTube Channel Advanced Settings](https://images.wondershare.com/filmora/article-images/youtube-channel-advanced-settings.jpg)
 
 #### Step 3: Turn Off Comments
 
@@ -56,19 +68,28 @@ To turn on comments on **all the videos on your YouTube channel**, you can follo
 
 Use the method explained above to get to the channel’s **Advanced settings** box. Select the **No, set this channel as not made for kids. I never upload content that’s made for kids** radio button. Click **SAVE** to save the changes.
 
-![  Turn on YouTube Channel Comments](https://images.wondershare.com/filmora/article-images/turn-on-channel-comments-advanced-settings.jpg)
+<!-- affiliate ads begin -->
+<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![Turn on YouTube Channel Comments](https://images.wondershare.com/filmora/article-images/turn-on-channel-comments-advanced-settings.jpg)
 
 #### 2\. Define Acceptable Comment Types
 
 Click the **Settings** icon from the bottom of the left pane one more time. On the **Settings** box, go to the **Upload defaults** category from the left pane, and go to **Advanced settings** from the right. From the **Comment visibility** drop-down list under the **Comments** section in the right, choose your preferred comment allowance type, and click **SAVE** to allow the comments on the videos the channel has.
 
-![ Set up YouTube video  Comments visibility](https://images.wondershare.com/filmora/article-images/set-up-youtube-comments-visibilities.jpg)
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![Set up YouTube video  Comments visibility](https://images.wondershare.com/filmora/article-images/set-up-youtube-comments-visibilities.jpg)
 
 #### 3\. Set Comment Allowance for Videos
 
 Back on the **YouTube Studio** page, click **Content** from the left pane. From the right section, check the **Video** box at the top of the list to select all the videos the channel has. Click **Edit** from the column header, and click **Comments** from the menu that comes up. From the **New value** drop-down list, choose your preferred allowance option for the comments, click **UPDATE VIDEOS** from the upper-right area, check the **I understand the implications of this action** box, and click **UPDATE VIDEOS** to allow comments on all the videos of the channel.
 
-![ Turn on or off YouTube content commnets settings](https://images.wondershare.com/filmora/article-images/turn-on-off-channel-content-comments-settings.jpg)
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![Turn on or off YouTube content commnets settings](https://images.wondershare.com/filmora/article-images/turn-on-off-channel-content-comments-settings.jpg)
 
 #### **Additional Info about Comments Options**
 
@@ -108,7 +129,7 @@ Hover the mouse over the target video in the right window, and click the **Detai
 
 From under the **Audience** section in the right window of the **Video details** page, select the **No, it’s not made for kids** radio button. Next, click **SHOW MORE**, scroll down to the **Comments and ratings** section, and choose your preferred privacy option from the **Comment visibility** drop-down list. Click **SAVE** from the upper-right area to save the changes.
 
-![ Turn on or turn off comments for specific youtube video](https://images.wondershare.com/filmora/article-images/turn-on-off-comments-for-specific-youtube-video.jpg)
+![Turn on or turn off comments for specific youtube video](https://images.wondershare.com/filmora/article-images/turn-on-off-comments-for-specific-youtube-video.jpg)
 
 **Note:** To learn **how to disable comments on YouTube** for specific video, you can repeat the above steps, and choose the **Yes, it’s made for kids** radio button from the **Audience** section when you are on the **Video details** page.
 
@@ -126,7 +147,7 @@ At the time of this writing, YouTube doesn’t allow anyone to post a comment on
 
 You can go to **YouTube Studio** \> **Settings** \> **Community**, and on the **Automated Filters** tab in the right window, add the words to block in the **Blocked words** field. You can add multiple words by separating them with commas. To block the comments with links, check the **Block links** box. Click **SAVE** to save the changes.
 
-![ Block YouTube   commnets ](https://images.wondershare.com/filmora/article-images/block-users-youtube-comment.jpg)
+![Block YouTube   commnets](https://images.wondershare.com/filmora/article-images/block-users-youtube-comment.jpg)
 
 #### 4\. If I turn comments off and back on again, will the old comments come back?
 
@@ -140,6 +161,9 @@ That depends on the nature of the comments. For instance, if you modify the sett
 
 It is easy to understand **how to turn on comments on YouTube**. The best thing is, the comments are enabled by default, and if you don’t need them, you can simply disable them by configuring the videos or the entire channel as ‘Made for kids’. If the comments on any video were enabled previously, and are disabled later on, the existing comments automatically disappear. They reappear when the comments on the video are reenabled.
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
 
 Liza Brown
@@ -176,6 +200,9 @@ YouTube is oversaturated. If you do comedy, fashion, gaming, vlogging, or any ot
 3. [How to Start Building Your Brand](#building)
 4. [Being Consistent](#consistent)
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Bonus Tip-Make A Creative YouTube Video with Wondershare Filmora
 
 No Doubt, Filmora is the one of the best tools for newbie editors, vloggers and vine artists as it has all the features and tools they might be looking for. Some features make it the most reliable tool of all times. The split screen presets, royalty-free music, video transitions, filters, text templates, and advanced color tuning, etc are the first and foremost requirement of an editor who is looking ahead to build a personal brand on YouTube channel and earn some money from it.
@@ -184,8 +211,11 @@ No Doubt, Filmora is the one of the best tools for newbie editors, vloggers and 
 
 ## Your Brand is Your Unique Message
 
-Competing on YouTube is all about offering value. Viewers should be able to find something on your channel that they can’t find anywhere else. This doesn’t mean you need to bend over backwards trying to[invent brand new video ideas that nobody has ever tried before](https://www.filmora.io/community-blog/how-to-be-original-on-youtube-289.html) – it just means you need to focus on building your unique brand. That is what will make viewers subscribe to you instead of just watching one of your videos and then clicking away.
+Competing on YouTube is all about offering value. Viewers should be able to find something on your channel that they can’t find anywhere else. This doesn’t mean you need to bend over backwards trying to [invent brand new video ideas that nobody has ever tried before](https://www.filmora.io/community-blog/how-to-be-original-on-youtube-289.html) – it just means you need to focus on building your unique brand. That is what will make viewers subscribe to you instead of just watching one of your videos and then clicking away.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## The Elevator Pitch
 
 If you had 20 seconds – a short elevator ride – to describe your channel in a way that would make someone want to subscribe, what would you say?
@@ -212,6 +242,9 @@ You will notice patterns. There will be things you do in your video that people 
 
 Banners and thumbnails are also a part of your brand. [More on that here](https://www.filmora.io/community-blog/how-to-make-youtube-banners-and-thumbnails-316.html).
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Being Consistent
 
 The key to branding is consistency. People need to be able to set expectations.
@@ -247,3 +280,53 @@ Follow @Shanoon Cox
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-historical-insights-from-youtubes-top-10-vlogs/"><u>[New] 2024 Approved  Historical Insights From YouTube's Top 10 Vlogs</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-effective-is-sponsored-view-count-boosting/"><u>[New] 2024 Approved  How Effective Is Sponsored View Count Boosting?</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-become-a-youtube-partner-you-need-10000-views-now/"><u>[New] 2024 Approved  How to Become a YouTube Partner - You Need 10,000 Views Now</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-enhance-video-rankings-on-youtube-through-seo/"><u>[New] 2024 Approved  How to Enhance Video Rankings on YouTube Through SEO</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-remove-background-noise-from-your-youtube-video/"><u>[New] 2024 Approved  How To Remove Background Noise From Your Youtube Video</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/new-deciphering-the-art-of-personalized-playlist-curation-for-youtube/"><u>[New] Deciphering the Art of Personalized Playlist Curation for YouTube</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-fifas-favorite-footage-charted-on-youtube-for-2024/"><u>[New] FIFA's Favorite Footage  Charted on YouTube for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-from-freezing-points-to-inviting-landscapes-for-2024/"><u>[New] From Freezing Points to Inviting Landscapes for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-hashtag-mastery-pathway-to-6-figure-youtube-impact-for-2024/"><u>[New] Hashtag Mastery  Pathway to 6-Figure Youtube Impact for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-android-audio-capture-techniques-rootless-options/"><u>[New] In 2024, Android Audio Capture Techniques - Rootless Options</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-harnessing-home-content-a-commercialized-vlog-journey/"><u>[New] In 2024, Harnessing Home Content  A Commercialized Vlog Journey</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-high-income-content-makers/"><u>[New] In 2024, High-Income Content Makers</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-download-youtube-tunes-without-risk-for-free/"><u>[New] In 2024, How to Download YouTube Tunes Without Risk for Free</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-surge-in-popularity-the-ultimate-list-of-viral-tiktok-username-suggestions-for-2024/"><u>[New] Surge in Popularity  The Ultimate List of Viral TikTok Username Suggestions for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-10-free-youtube-thumbnail-downloaderssavers-online/"><u>[Updated] 2024 Approved  10 Free YouTube Thumbnail Downloaders/Savers Online</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-effective-is-sponsored-view-count-boosting/"><u>[Updated] 2024 Approved  How Effective Is Sponsored View Count Boosting?</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-render-and-upload-your-youtube-video-faster/"><u>[Updated] 2024 Approved  How to Render and Upload Your YouTube Video Faster?</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-create-endless-video-on-iphone/"><u>[Updated] 2024 Approved  How-To  Create Endless Video on iPhone</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-flawless-soundscape-secrets-to-high-resolution-audio-recording-for-2024/"><u>[Updated] Flawless Soundscape  Secrets to High-Resolution Audio Recording for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-free-screen-recorder-for-androids-seamless-use-for-2024/"><u>[Updated] Free Screen Recorder for Android's Seamless Use for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-from-device-to-platform-a-comprehensive-guide-to-uploading-vids-on-ios-for-2024/"><u>[Updated] From Device to Platform  A Comprehensive Guide to Uploading Vids on iOS for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-get-more-out-of-youtube-with-8-handpicked-download-apps-for-2024/"><u>[Updated] Get More Out of YouTube with 8 Handpicked Download Apps for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-grab-free-video-profile-backgrounds-for-2024/"><u>[Updated] Grab Free Video Profile Backgrounds for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-download-youtube-videos-without-any-software-13-proven-ways-for-2024/"><u>[Updated] How to Download YouTube Videos without Any Software [13 Proven Ways] for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-go-viral-on-youtube-with-impressive-music-reaction-content-for-2024/"><u>[Updated] How to Go Viral on YouTube with Impressive Music Reaction Content for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-record-good-audio-without-a-microphone-in-2024/"><u>[Updated] How to Record Good Audio Without a Microphone, In 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-smoothly-view-youtube-videos-without-borders-for-2024/"><u>[Updated] How to Smoothly View YouTube Videos without Borders for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-innovative-alternatives-for-affordable-camera-screenshots/"><u>[Updated] In 2024, Innovative Alternatives for Affordable Camera Screenshots</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-no-budget-no-problem-the-finest-free-voice-alterer-for-valorant-players/"><u>[Updated] No Budget? No Problem! The Finest Free Voice Alterer for Valorant Players</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/2024-approved-unleash-cinematic-quality-top-rated-1080p-video-editing-tools/"><u>2024 Approved Unleash Cinematic Quality Top-Rated 1080P Video Editing Tools</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/in-2024-facebook-video-glitch-how-to-spot-and-fix/"><u>In 2024, Facebook Video Glitch  How to Spot & Fix</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-fascinating-film-categories-to-lure-viewers/"><u>In 2024, Fascinating Film Categories to Lure Viewers</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-next-gen-gaming-escapades-top-5-psvr-titles-for-the-future/"><u>In 2024, Next-Gen Gaming Escapades  Top 5 PSVR Titles for the Future</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-pokemon-go-cooldown-chart-on-realme-note-50-drfone-by-drfone-virtual-android/"><u>In 2024, Pokémon Go Cooldown Chart On Realme Note 50 | Dr.fone</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-unraveling-the-top-8-premium-free-srt-translation-websites/"><u>In 2024, Unraveling the Top 8 Premium Free SRT Translation Websites</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/incorporating-b-footage-a-filmmakers-guide-for-2024/"><u>Incorporating B-Footage  A Filmmaker's Guide for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/mastering-dpi-settings-with-latest-windows-11-release/"><u>Mastering DPI Settings with Latest Windows 11 Release</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-s-most-popular-video-editing-software-for-mac-users/"><u>New S Most Popular Video Editing Software for Mac Users</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-streamline-your-content-how-to-make-reaction-videos-quickly-with-filmora-for-2024/"><u>New Streamline Your Content How to Make Reaction Videos Quickly with Filmora for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/simple-process-for-preserving-tweets-imagesvideos/"><u>Simple Process for Preserving Tweets' Images/Videos</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/simple-solutions-to-fix-android-systemui-has-stopped-error-for-itel-p55plus-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Simple Solutions to Fix Android SystemUI Has Stopped Error For Itel P55+ | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/stepwise-process-for-clearing-out-ps5-user-info/"><u>Stepwise Process for Clearing Out PS5 User Info</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/unlocking-audio-mastery-with-adobe-audition-advanced-features-critical-insights-and-step-by-step-guides/"><u>Unlocking Audio Mastery with Adobe Audition Advanced Features, Critical Insights & Step-by-Step Guides</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-fast-method-to-match-color-in-photoshop/"><u>Updated Fast Method to Match Color in Photoshop</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-windows-movie-maker-replacement-10-free-video-editors-to-try-for-2024/"><u>Updated Windows Movie Maker Replacement 10 Free Video Editors to Try for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/want-to-uninstall-google-play-service-from-oppo-find-x7-here-is-how-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Want to Uninstall Google Play Service from Oppo Find X7? Here is How | Dr.fone</u></a></li>
+</ul></div>

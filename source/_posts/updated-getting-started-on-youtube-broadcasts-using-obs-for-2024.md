@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Getting Started on YouTube Broadcasts Using OBS for 2024"
-date: 2024-06-06T15:21:58.912Z
-updated: 2024-06-07T15:21:58.912Z
+date: 2024-07-16T04:27:06.626Z
+updated: 2024-07-17T04:27:06.626Z
 tags:
   - ai video
   - ai youtube
@@ -29,65 +29,89 @@ thumbnail: https://thmb.techidaily.com/60aeb73e6646ca7cba89b069f503754c9115c11cb
 * [Part3\. Youtube Events set up](#part3)
 * [Part4\. Video tutorial](#part4)
 
+<!-- affiliate ads begin -->
+
+<!-- affiliate ads end -->
 ## 1\. Stream Now set up
 
 Follow these steps to live stream your impressive videos to YouTube using Stream Now tool:
 
 **Step 1:** First of all you need to login with your account and then move to Creator Studio option directly.
 
-![ creator studio](https://images.wondershare.com/filmora/article-images/creator-studio.jpg)
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![creator studio](https://images.wondershare.com/filmora/article-images/creator-studio.jpg)
 
 **Step 2:** Choose the Video Manager option from top most toolbar.
 
-![video manager ](https://images.wondershare.com/filmora/article-images/video-manager.jpg)
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![video manager](https://images.wondershare.com/filmora/article-images/video-manager.jpg)
 
 **Step 3:** From the drop down menu, simply select Live Streaming option to begin with.
 
-![live streaming ](https://images.wondershare.com/filmora/article-images/live-streaming.jpg)
+![live streaming](https://images.wondershare.com/filmora/article-images/live-streaming.jpg)
 
 **Step 4:** Now hot the steam now option on your screen.
 
-![stream now ](https://images.wondershare.com/filmora/article-images/stream-now.jpg)
+![stream now](https://images.wondershare.com/filmora/article-images/stream-now.jpg)
 
 **Step 5:** Change or Upload your thumbnail as per need.
 
-![thumbnail ](https://images.wondershare.com/filmora/article-images/thumbnail.jpg)
+![thumbnail](https://images.wondershare.com/filmora/article-images/thumbnail.jpg)
 
 **Step 6:** It is time to provide an eye catching title to your video, add description and finally choose category from the drop down menu.
 
-![  category](https://images.wondershare.com/filmora/article-images/category.jpg)
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![category](https://images.wondershare.com/filmora/article-images/category.jpg)
 
 **Step 7:** While using stream option, never forget to click on ‘make archive unlisted when complete’ option so that you can save as well as watch your content on YouTube at later stage.
 
-![make archive ](https://images.wondershare.com/filmora/article-images/make-archive.jpg)
+![make archive](https://images.wondershare.com/filmora/article-images/make-archive.jpg)
 
 **Step 8:** You can monetize your ads as per need.
 
-![Monetizae you ](https://images.wondershare.com/filmora/article-images/monetizae-you.jpg)
+<!-- affiliate ads begin -->
+<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![Monetizae you](https://images.wondershare.com/filmora/article-images/monetizae-you.jpg)
 
 **Step 9:** It also provides options to add cards.
 
-![add your cards ](https://images.wondershare.com/filmora/article-images/add-your-cards.jpg)
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![add your cards](https://images.wondershare.com/filmora/article-images/add-your-cards.jpg)
 
 **Step 10:** Now move to encoder setup and then simply copy and paste these details to your streaming software.
 
-![ encoder setup](https://images.wondershare.com/filmora/article-images/encoder-setup.jpg)
+![encoder setup](https://images.wondershare.com/filmora/article-images/encoder-setup.jpg)
 
 **Step 11:** Now you can set your live chat option as per your requirement.
 
-![ chat accordingly](https://images.wondershare.com/filmora/article-images/chat-accordingly.jpg)
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![chat accordingly](https://images.wondershare.com/filmora/article-images/chat-accordingly.jpg)
 
 **Step 12:** The analysis window will help you to know about how many viewers are connected to your video as well as the message updates will be reflected.
 
-![watching and messages ](https://images.wondershare.com/filmora/article-images/watching-and-messages.jpg)
+![watching and messages](https://images.wondershare.com/filmora/article-images/watching-and-messages.jpg)
 
 **Step 13:** Stream health can be monitored directly.
 
-![stream health ](https://images.wondershare.com/filmora/article-images/stream-health.jpg)
+![stream health](https://images.wondershare.com/filmora/article-images/stream-health.jpg)
 
 **Step 14:** One can also use the social media button for live shares.
 
-![ share via](https://images.wondershare.com/filmora/article-images/share-via.jpg)
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![share via](https://images.wondershare.com/filmora/article-images/share-via.jpg)
 
 ## 2.Set up Your Live Streaming Encoder
 
@@ -97,39 +121,51 @@ As soon as you have completed the above set up then next task is to adjust setti
 
 **Step 2:** Now launch OBS on your device and directly go to settings option.
 
-![ Go to setting](https://images.wondershare.com/filmora/article-images/go-to-setting.jpg)
+![Go to setting](https://images.wondershare.com/filmora/article-images/go-to-setting.jpg)
 
 **Step 3:** It is time to copy the stream key from YouTube and then paste it directly in the specified field of OBS.
 
-![youtube to OBS ](https://images.wondershare.com/filmora/article-images/youtube-to-obs.jpg)
+![youtube to OBS](https://images.wondershare.com/filmora/article-images/youtube-to-obs.jpg)
 
 **Step 4:** Users can now add their sources and scenes.
 
-![add you scenes ](https://images.wondershare.com/filmora/article-images/add-you-scenes.jpg)
+![add you scenes](https://images.wondershare.com/filmora/article-images/add-you-scenes.jpg)
 
 **Step 5:** Once all these settings are done then you can simply hit the option for start streaming and it will bring your content to YouTube directly.
 
-![ click start streaming](https://images.wondershare.com/filmora/article-images/click-start-streaming.jpg)
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![click start streaming](https://images.wondershare.com/filmora/article-images/click-start-streaming.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 3\. Youtube Events set up
 
 Live stream is little different from Stream Now platform as it allows users to schedule the streams as well as a connectivity to Google Hangouts is provided. These easy to follow steps will assist you to handle all settings for your events using Live Stream tool:
 
 **Step 1:** Simply click on the schedule event option on screen.
 
-![schedule ](https://images.wondershare.com/filmora/article-images/schedule.jpg)
+![schedule](https://images.wondershare.com/filmora/article-images/schedule.jpg)
 
 **Step 2:** It is much easier to make settings for basic information as well as audience type. Make some desired changes to SNS platform. If you select the Quick type then it will directly select your webcam and you need not to make additional complicated settings whereas the custom type option provides easy set up options with OBS.
 
-![set the basic ](https://images.wondershare.com/filmora/article-images/set-the-basic.jpg)
+![set the basic](https://images.wondershare.com/filmora/article-images/set-the-basic.jpg)
 
 **Step 3:** The advance settings option works same as that of stream now features and users can adjust most of these settings as per their streaming needs.
 
-![ advance setting](https://images.wondershare.com/filmora/article-images/advance-setting.jpg)
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![advance setting](https://images.wondershare.com/filmora/article-images/advance-setting.jpg)
 
 **Step 4:** Users can turn monetization On or Off as per their preferences.
 
-![ monetization](https://images.wondershare.com/filmora/article-images/monetization.jpg)
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![monetization](https://images.wondershare.com/filmora/article-images/monetization.jpg)
 
 **Step 5:** As soon as you finish all above settings then simply click on the create event option.
 
@@ -137,19 +173,19 @@ Live stream is little different from Stream Now platform as it allows users to s
 
 **Step 6:** One more window will appear on your screen and here you can make adjustment for preferred bit rate. Also put your dedicated stream key with encoder.
 
-![ your bitrate](https://images.wondershare.com/filmora/article-images/your-bitrate.jpg)
+![your bitrate](https://images.wondershare.com/filmora/article-images/your-bitrate.jpg)
 
 **Step 7:** When all above steps are completed then you need to hit the option for save changes so that your tool can act accordingly.
 
-![save changes ](https://images.wondershare.com/filmora/article-images/save-changes.jpg)
+![save changes](https://images.wondershare.com/filmora/article-images/save-changes.jpg)
 
 **Step 8:** Now click on events and here you will be able to find your event. Move to live control room if you want to access complete details about this event and you can easily delete it.
 
-![live control room ](https://images.wondershare.com/filmora/article-images/live-control-room.jpg)
+![live control room](https://images.wondershare.com/filmora/article-images/live-control-room.jpg)
 
 **Step 9:** Users can set privacy terms or simple delete the event that is currently in action.
 
-![set the privacy ](https://images.wondershare.com/filmora/article-images/set-the-privacy.jpg)
+![set the privacy](https://images.wondershare.com/filmora/article-images/set-the-privacy.jpg)
 
 ## Video tutorial
 
@@ -168,6 +204,9 @@ Follow @Richard Bennett
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Keyword Kickstart: The Top 7 Free, User-Friendly Video Tag Extractors Analyzed
 
 # 7 Best Online YouTube Tag Extractors
@@ -175,3 +214,46 @@ Follow @Richard Bennett
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-filmora-tutorials-simple-steps-to-a-dynamic-youtube-subscribe-button/"><u>[New] 2024 Approved  Filmora Tutorials  Simple Steps to a Dynamic YouTube Subscribe Button</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-free-diy-approaches-to-design-your-own-youtube-cards/"><u>[New] 2024 Approved  Free DIY Approaches to Design Your Own YouTube Cards</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-gourmet-guides-leading-food-vloggers-online/"><u>[New] 2024 Approved  Gourmet Guides  Leading Food Vloggers Online</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-haul-video-production-boosting-viewership-and-fun/"><u>[New] 2024 Approved  Haul Video Production  Boosting Viewership and Fun</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-haute-makeup-techniques-step-by-step-youtube-guide/"><u>[New] 2024 Approved  Haute Makeup Techniques  Step-by-Step YouTube Guide</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-add-video-to-text-for-free/"><u>[New] 2024 Approved  How to Add Video to Text for Free</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-run-a-sports-youtube-chain-on-macos/"><u>[New] 2024 Approved  How to Run a Sports YouTube Chain on MacOS</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-wipe-out-your-youtube-buffered-videos/"><u>[New] 2024 Approved  How-To  Wipe Out Your YouTube Buffered Videos</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-fix-noted-shorts-now-shown-prominently-for-2024/"><u>[New] Fix Noted  Shorts Now Shown Prominently for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-focus-on-the-essentials-the-compreenas-for-removing-youtube-channels-for-2024/"><u>[New] Focus on the Essentials  The Compreenas for Removing Youtube Channels for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-from-conference-room-to-youtube-google-meet-broadcasting-for-2024/"><u>[New] From Conference Room to Youtube  Google Meet Broadcasting for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-from-raw-tape-to-broadcast-ready-using-studio-editor-for-2024/"><u>[New] From Raw Tape to Broadcast-Ready  Using Studio Editor for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-from-template-to-trendsetter-gamer-channel-banners-guide-for-2024/"><u>[New] From Template to Trendsetter  Gamer Channel Banners Guide for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-how-to-design-youtube-introductory-videos-two-pathways-for-2024/"><u>[New] How to Design YouTube Introductory Videos  Two Pathways for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-flavorful-friends-top-gastronomy-guides-online/"><u>[New] In 2024, Flavorful Friends  Top Gastronomy Guides Online</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-videos-to-vibrant-gifs-youtube-conversion-techniques/"><u>[New] In 2024, From Videos to Vibrant GIFs  YouTube Conversion Techniques</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-ultimate-guide-to-affordable-online-meetings-plus-desktop-display-for-2024/"><u>[New] Ultimate Guide to Affordable Online Meetings + Desktop Display for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-elite-action-cameras-for-thrill-seekers/"><u>[Updated] 2024 Approved  Elite Action Cameras for Thrill Seekers</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-10-free-youtube-thumbnail-downloaderssavers-online/"><u>[Updated] In 2024, 10 Free YouTube Thumbnail Downloaders/Savers Online</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-frame-by-frame-the-smartphone-storytellers-path-to-youtubes-thumbnails/"><u>[Updated] In 2024, Frame by Frame  The Smartphone Storyteller's Path to YouTubes Thumbnails</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-free-audio-treasures-to-amplify-youtube/"><u>[Updated] In 2024, Free Audio Treasures to Amplify YouTube</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-video-content-to-cash-flow-youtubes-profit-mechanics/"><u>[Updated] In 2024, From Video Content to Cash Flow  YouTube's Profit Mechanics</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-zero-to-youtube-pros-creating-an-account-rightly/"><u>[Updated] In 2024, From Zero to YouTube Pros  Creating an Account Rightly</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-harmony-haven-our-selection-of-the-top-20-musical-channels-on-youtube/"><u>[Updated] In 2024, Harmony Haven  Our Selection of the Top 20 Musical Channels on YouTube</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-convert-youtube-views-into-cash-through-ads/"><u>[Updated] In 2024, How to Convert YouTube Views Into Cash Through Ads</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-make-youtube-animated-subscribe-button-easily-in-filmora/"><u>[Updated] In 2024, How to Make YouTube Animated Subscribe Button Easily in Filmora</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-sonic-skills-mac-recording-tips-for-2024/"><u>[Updated] Sonic Skills  Mac Recording Tips for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-transform-the-virtual-arena-engage-with-ease-during-live-streaming-for-2024/"><u>[Updated] Transform the Virtual Arena  Engage with Ease During Live Streaming for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-trimming-tactics-for-time-strapped-youtubers/"><u>[Updated] Trimming Tactics for Time-Strapped YouTubers</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-fast-forward-freedom-in-snapchat-a-noobs-handbook/"><u>2024 Approved  Fast-Forward Freedom in Snapchat  A Noob’s Handbook</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/action-camera-buying-for-the-absolute-novice-2023-guide-for-2024/"><u>Action Camera Buying for the Absolute Novice - 2023 Guide for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/blueprints-for-constructing-a-high-definition-video-editing-beast/"><u>Blueprints for Constructing a High-Definition Video Editing Beast</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-hilarious-hub-highest-rated-free-meme-archives/"><u>In 2024, Hilarious Hub  Highest-Rated Free Meme Archives</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/in-2024-how-to-download-facebook-status-videos/"><u>In 2024, How to Download Facebook Status Videos?</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-the-updated-method-to-bypass-vivo-v30-frp-by-drfone-android/"><u>In 2024, The Updated Method to Bypass Vivo V30 FRP</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/innovative-slow-motion-mobile-recording-solutions-iphoneandroid/"><u>Innovative Slow Motion Mobile Recording Solutions iPhone/Android</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-the-freebie-frenzy-top-online-video-editors-reviewed/"><u>New 2024 Approved The Freebie Frenzy Top Online Video Editors Reviewed</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-filmora-is-a-great-video-editor-that-many-users-are-making-intro-video-with-it-this-article-will-guide-you-how-to-create-an-intro-video-with-filmora/"><u>Updated Filmora Is a Great Video Editor that Many Users Are Making Intro Video with It. This Article Will Guide You How to Create an Intro Video with Filmora</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-in-2024-8-excellent-online-tools-to-convert-facebook-videos-to-mp3/"><u>Updated In 2024, 8 Excellent Online Tools to Convert Facebook Videos to MP3</u></a></li>
+</ul></div>

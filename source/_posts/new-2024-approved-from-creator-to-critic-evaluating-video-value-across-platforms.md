@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  From Creator to Critic  Evaluating Video Value Across Platforms\""
-date: 2024-06-06T15:53:31.800Z
-updated: 2024-06-07T15:53:31.800Z
+date: 2024-07-16T05:14:40.239Z
+updated: 2024-07-17T05:14:40.239Z
 tags:
   - ai video
   - ai youtube
@@ -26,6 +26,9 @@ thumbnail: https://thmb.techidaily.com/1d89ad9f3797ef5721bb1984cb133f0b9a8205347
 
  Tracking your brand's YouTube metrics is not enough to ensure success in YouTube. Unless you garner deep insights of your competitors. You must be thinking how can you gauge their company insights using YouTube and track the data movement as well. There is nothing to worry about, we have got you covered. We will show you how to analyze your own channel as well as that of your competitors' YouTube analytics. Let's now explore about it!
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
+<!-- affiliate ads end -->
 ## How to analyze your own YouTube channel/video?
 
  It is important to have reliable YouTube analytics tools for your brand, as videos on YouTube are searchable through Google. They contribute to generate organic traffic for you using both Google and YouTube as a medium. YouTube has a default dedicated analytics mechanism to measure how the video fares in YouTube to gain the most out of it.
@@ -50,6 +53,9 @@ thumbnail: https://thmb.techidaily.com/1d89ad9f3797ef5721bb1984cb133f0b9a8205347
 
  The demographics page helps you get YouTube insights, using them you can know the audience in a gender and location specific manner. For local businesses targeting a certain region, YouTube analytics would prove to be a boon. You can also know the geography and device used by the viewers with this feature. Understanding the gender and location of people will help you create dedicated product videos that would be helpful to them.
 
+<!-- affiliate ads begin -->
+<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.wondershare.com/filmora/article-images/youtube-analytics-demographic.jpg)
 
 #### 4\.  Traffic sources
@@ -74,6 +80,9 @@ thumbnail: https://thmb.techidaily.com/1d89ad9f3797ef5721bb1984cb133f0b9a8205347
 
  YouTube insights gauge the audience acceptance for your video by the number of likes and dislikes. Videos with a huge number of like implies that it is loved by people, though, the quality of video can't exactly be defined by the number of likes or dislikes. Even the best quality video created for asking opinions about a certain situation/issue might be good enough but still get dislikes.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.wondershare.com/filmora/article-images/youtube-analytics-likes-and-dislikes.jpg)
 
 #### 8\.  Subscribers
@@ -90,12 +99,18 @@ thumbnail: https://thmb.techidaily.com/1d89ad9f3797ef5721bb1984cb133f0b9a8205347
 
  While considering YouTube Analytics, it is essential to understand that there are annotations to guide viewers to your business site for more content. It is not necessary that the content is video only, it might include a blog post as well. This will let you understand the click through rate and 'close' rates for every annotation. This in turn will assist you in optimizing how to reach your audience and where to place the annotations.
 
+<!-- affiliate ads begin -->
+<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.wondershare.com/filmora/article-images/youtube-analytics-annotations.jpg)
 
 #### 10\.  Comments
 
  Audience engagement on any YouTube video can easily be gauged by using the vital aspect known as comments. Either it touched a chord in their heart, inspired or motivated them, or simply made them smile, the comments will say it all. Sometimes the audience simply taps 'Like' in place of commenting at their convenient.
 
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.wondershare.com/filmora/article-images/youtube-analytics-comments.jpg)
 
 #### 11\.  Cards
@@ -116,6 +131,9 @@ thumbnail: https://thmb.techidaily.com/1d89ad9f3797ef5721bb1984cb133f0b9a8205347
 
 ![](https://images.wondershare.com/filmora/article-images/youtube-analytics-playlists.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## How to analyze your competitors
 
  Although, you can't see the dashboard data of your competitor, there are still some ways to observe and study your competitors' successful videos and from their views, favorites, ratings, and comments find out the driving force behind it.
@@ -124,22 +142,25 @@ thumbnail: https://thmb.techidaily.com/1d89ad9f3797ef5721bb1984cb133f0b9a8205347
 
  Or you can use those analyzing tools below to discover the more stats of your competitors.
 
-#### 1\. [InflueNex](https://www.influenex.com/)
+#### 1\. InflueNex
 
  InflueNex is a helpful influencer marketing tool for Analyzing, searching, and managing YouTubers. With the help of this YouTube analytics tool, you're able to learn your competitors' channels and videos with detailed information.
 
-![InflueNex YouTube Marketing Paltform ](https://images.wondershare.com/filmora/article-images/influenex-youtube-marketing-paltform.jpg)
+![InflueNex YouTube Marketing Paltform](https://images.wondershare.com/filmora/article-images/influenex-youtube-marketing-paltform.jpg)
 
-#### 2\. [Rival IQ](https://www.rivaliq.com/)
+#### 2\. Rival IQ
 
  This YouTube analytics tool helps you increase social media engagement, conduct competitive analysis to track competition, discovers new content ideas for your target audience. You can use it to leverage your foothold in YouTube.
 
-#### 3\. [SocialBlade](https://socialblade.com/)
+#### 3\. SocialBlade
 
  SocialBlade helps you gain YouTube insights and enables you to understand how your rival brands fare. You can learn from them and enhance your own strategy to beat them.
 
  Read More to Get: [5 Methods to Go Frame by Frame on YouTube Video >>](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 Richard Bennett
@@ -161,6 +182,9 @@ Do you want to know how to get more subscribers? Do you want your channel to be 
 
 The most efficient and easy way to do this is by making a YouTube trailer. It will help to attract a new audience and give your channel a more artistic and pleasing approach. Scroll more to get secret tips!
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Part 1\. What is a YouTube trailer?
 
 A YouTube trailer is a short intro video for your channel. What do you do? What is your content? It is a brief video that helps the new audience understand your channel.
@@ -173,7 +197,7 @@ In other words, a YouTube trailer is necessary for your channel. It will give th
 
 ## Part 2\. Don't know where to start?
 
-So you want to create a trailer and need help figuring out where to start? What if there are templates that will help you make your trailer and simplifies your work? Yes! [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/) will make your way easy and give you unlimited effects.
+So you want to create a trailer and need help figuring out where to start? What if there are templates that will help you make your trailer and simplifies your work? Yes ![Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/) will make your way easy and give you unlimited effects.
 
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For Win 7 or later(64-bit)
 
@@ -203,10 +227,16 @@ The trick here is to get the viewers' attention within 5 seconds, so they're int
 
 Make a short intro, depending on the content and your presence on the screen. Again, developing a friendly relationship between the viewers and yourself is beneficial.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
+<!-- affiliate ads end -->
 ![self-introduction example](https://images.wondershare.com/filmora/article-images/2022/12/youtube-trailer-2.gif)
 
 You can add a quick introduction about yourself and your backstory. It will create a sense of personal attachment to the channel and help you engage better with the audience.
 
+<!-- affiliate ads begin -->
+<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.wondershare.com/assets/images-common/icon-note.png)
 
 **Note:** keep in mind to make a short intro. Please don't spend too much time on it. And remember, it's all about the audience.
@@ -221,6 +251,9 @@ One of the easiest ways is to use perfect music. So if you want to know how to s
 
 Here, you should explain to your audience the purpose of your channel and what they can expect from you. At this stage, new potential viewers can get you, whether your goal is to entertain them, teach something specific, or discuss certain topics and how you intend to achieve them.
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![an example of a creative trailer](https://images.wondershare.com/filmora/article-images/2022/12/youtube-trailer-3.jpg)
 
 **Determine the style of your video**
@@ -261,9 +294,12 @@ All the details have been shared on creating an ideal trailer for your YouTube c
 
 Alright! Following the steps mentioned above, you will be able to create a good YouTube trailer that will not only attract more subscribers to your channel. It will also allow them to stay hooked on your new and upcoming content. If you know more tips, share them with us.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 2\. Don't know where to start?
 
-So you want to create a trailer and need help figuring out where to start? What if there are templates that will help you make your trailer and simplifies your work? Yes! [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/) will make your way easy and give you unlimited effects.
+So you want to create a trailer and need help figuring out where to start? What if there are templates that will help you make your trailer and simplifies your work? Yes ![Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/) will make your way easy and give you unlimited effects.
 
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For Win 7 or later(64-bit)
 
@@ -327,6 +363,9 @@ You can refer to the most popular style in your area. Then, making the possibili
 
 Schedules are vital if you want regularly engaging viewers. The audience will be kept track of your activities and be there as soon as you upload your video. Also, new viewers know when to expect new content from you and commit to your goal, so they know your strategy.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![video posts schedules](https://images.wondershare.com/filmora/article-images/2022/12/youtube-trailer-4.jpg)
 
 ##### Step6 Call to action
@@ -365,3 +404,46 @@ Alright! Following the steps mentioned above, you will be able to create a good 
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-foremost-youtube-networks-for-news-enthusiasts/"><u>[New] 2024 Approved  Foremost YouTube Networks for News Enthusiasts</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-concept-to-classroom-a-guide-to-creating-engaging-edu-videos-on-youtube/"><u>[New] 2024 Approved  From Concept to Classroom  A Guide to Creating Engaging Edu-Videos on YouTube</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-guide-to-simplified-gs-yt-cta-implementation/"><u>[New] 2024 Approved  Guide to Simplified GS-YT CTA Implementation</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-create-alluring-haul-and-try-on-videography-a-comprehensive-overview/"><u>[New] 2024 Approved  How to Create Alluring Haul & Try-On Videography  A Comprehensive Overview</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-create-youtube-intros-and-end-cards-free-and-easy/"><u>[New] 2024 Approved  How to Create YouTube Intros & End Cards - Free and Easy</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-forge-strong-content-partnerships-on-youtube/"><u>[New] 2024 Approved  How to Forge Strong Content Partnerships on YouTube</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-make-your-own-youtube-closures-without-spending/"><u>[New] 2024 Approved  How to Make Your Own YouTube Closures Without Spending</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-a-feathery-symphony-bebop-parrot-2-dissected-for-2024/"><u>[New] A Feathery Symphony – Bebop Parrot 2 Dissected for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-exploring-interactive-boundaries-the-vision-of-mixed-reality/"><u>[New] Exploring Interactive Boundaries  The Vision of Mixed Reality</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-from-beat-to-buzz-creating-impact-in-10-seconds-on-youtube-for-2024/"><u>[New] From Beat to Buzz  Creating Impact in 10 Seconds on YouTube for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-from-editing-to-sharing-youtube-mastery-with-adobe-premiere-for-2024/"><u>[New] From Editing to Sharing  YouTube Mastery with Adobe Premiere for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-from-script-to-screen-crafting-your-unique-youtube-tale-for-2024/"><u>[New] From Script to Screen  Crafting Your Unique YouTube Tale for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-gain-traction-with-effective-video-descriptions-and-tagging-for-2024/"><u>[New] Gain Traction with Effective Video Descriptions and Tagging for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-hashtag-wisdom-jumpstart-your-6-figure-youtube-rank-for-2024/"><u>[New] Hashtag Wisdom  Jumpstart Your 6-Figure Youtube Rank for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-secrets-to-designing-impactful-igtv-thumbnails-for-2024/"><u>[New] Secrets to Designing Impactful IGTV Thumbnails for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-securely-store-and-download-linkedin-videos-heres-the-top-6-list/"><u>[New] Securely Store & Download LinkedIn Videos - Here's the Top 6 List</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-genres-to-gems-building-a-personalized-youtube-music-mix-onlinemobile/"><u>[Updated] 2024 Approved  From Genres to Gems  Building a Personalized YouTube Music Mix Online/Mobile</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-gain-insight-into-your-contents-success-via-youtube-rankers/"><u>[Updated] 2024 Approved  Gain Insight Into Your Content's Success via YouTube Rankers</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-go-green-integrate-subscriptions-in-ads/"><u>[Updated] 2024 Approved  Go Green  Integrate Subscriptions in Ads</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-rip-audio-from-youtube-in-3-ways-free-and-safe/"><u>[Updated] 2024 Approved  How to Rip Audio From YouTube in 3 Ways [Free and Safe]</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-size-your-videos-youtubes-best-practices-unveiled/"><u>[Updated] 2024 Approved  How to Size Your Videos  YouTube's Best Practices Unveiled</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-framing-the-perfect-frame-talking-head-shot-essentials-for-2024/"><u>[Updated] Framing the Perfect Frame  Talking-Head Shot Essentials for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-from-shorts-to-mp4-a-step-by-step-tutorial-for-2024/"><u>[Updated] From Shorts to MP4  A Step-by-Step Tutorial for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-hitting-high-notes-enhance-your-youtube-content-with-music-edits-for-2024/"><u>[Updated] Hitting High Notes  Enhance Your YouTube Content with Music Edits for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-build-your-personal-brand-on-youtube-for-2024/"><u>[Updated] How to Build Your Personal Brand on YouTube for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-filmmaker-tips-youtube-trailers-using-filmora/"><u>[Updated] In 2024, Filmmaker Tips  YouTube Trailers Using Filmora</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-fixed-youtubes-missing-minute-media/"><u>[Updated] In 2024, Fixed  YouTube's Missing Minute Media</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-fringe-to-mainstream-highlighting-top-10-gender-balanced-youtubers/"><u>[Updated] In 2024, From Fringe to Mainstream  Highlighting Top 10 Gender-Balanced YouTubers</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-effective-is-sponsored-view-count-boosting/"><u>[Updated] In 2024, How Effective Is Sponsored View Count Boosting?</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-create-video-ads-for-free-in-youtube-video-builder/"><u>[Updated] In 2024, How to Create Video Ads for Free in YouTube Video Builder</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-create-youtube-channel-in-mobile-personal-and-business/"><u>[Updated] In 2024, How to Create YouTube Channel in Mobile [Personal & Business]</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-in-2024-how-to-effectively-use-siri-speech-features-in-tiktok-videos/"><u>[Updated] In 2024, How to Effectively Use Siri Speech Features in TikTok Videos</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-best-3-infinix-note-30-5g-emulator-for-mac-to-run-your-wanted-android-apps-drfone-by-drfone-android/"><u>In 2024, Best 3 Infinix Note 30 5G Emulator for Mac to Run Your Wanted Android Apps | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-how-to-get-the-dragon-scale-and-evolution-enabled-pokemon-on-samsung-galaxy-a05s-drfone-by-drfone-virtual-android/"><u>In 2024, How to get the dragon scale and evolution-enabled pokemon On Samsung Galaxy A05s? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-after-switching-from-realme-narzo-60-pro-5g-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data After Switching From Realme Narzo 60 Pro 5G to Latest Samsung | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/in-2024-pioneering-practices-in-multichannel-video-distribution-fbwhatsapp/"><u>In 2024, Pioneering Practices in Multichannel Video Distribution (FB/WhatsApp)</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-ultimate-windows-recordings-made-simple/"><u>In 2024, Ultimate Windows Recordings Made Simple</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/securely-logging-live-radio-over-the-web-an-instructional-guide-for-2024/"><u>Securely Logging Live Radio Over the Web  An Instructional Guide for 2024</u></a></li>
+<li><a href="https://techidaily.com/will-xperia-10-v-play-avchd-mts-files-by-aiseesoft-video-converter-play-mts-on-android/"><u>Will Xperia 10 V play AVCHD mts files?</u></a></li>
+</ul></div>

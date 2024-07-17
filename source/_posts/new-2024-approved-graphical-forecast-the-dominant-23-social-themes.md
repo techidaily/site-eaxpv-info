@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  Graphical Forecast  The Dominant '23 Social Themes\""
-date: 2024-06-06T14:05:27.292Z
-updated: 2024-06-07T14:05:27.292Z
+date: 2024-07-16T02:32:32.703Z
+updated: 2024-07-17T02:32:32.703Z
 tags:
   - ai video
   - ai youtube
@@ -18,6 +18,9 @@ thumbnail: https://thmb.techidaily.com/cb70e57700d07e1f21d91f89b112cf1e7299f5606
 
 # Infographic - Social Media Trends
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 ##### Richard Bennett
@@ -55,6 +58,9 @@ Follow @Richard Bennett
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Hasty Thumbnail Crafting for Fortnite Gameplay
 
 # How to Make Fortnite Thumbnail for Free and Easy in 2024
@@ -77,6 +83,9 @@ Filmora has recently introduced a new feature named AI Portrait that uses Artifi
 
 **Step 02:** If you are using a console, the game will only store 10 recent gameplays, but if you are using a PC, it will store 100 recent gameplays in this section. From all these gameplays, select the one that you want to use for the Thumbnail. Once you choose gameplay, you can control everything in it. The angle, speed, and camera mode.
 
+<!-- affiliate ads begin -->
+<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![make-fortnite-thumbnail-step2](https://images.wondershare.com/filmora/article-images/make-fortnite-thumbnail-step2.jpg)
 
 **Step 03:** For creating a perfect thumbnail, select "Drone Free Camera" mode from the camera mode located on the bottom right corner of the screen. It will allow us to change the angle the way we want. Choose an angle of your choice and take the screenshot.
@@ -85,6 +94,9 @@ Filmora has recently introduced a new feature named AI Portrait that uses Artifi
 
 **Step 04:** Open Filmora X, make sure to select the 16:9 screen ratio. Import the screenshot using the import button.
 
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![make-fortnite-thumbnail-step4](https://images.wondershare.com/filmora/article-images/make-fortnite-thumbnail-step4.jpg)
 
 **Step 05:** Drag and drop the screenshot into the timeline.
@@ -93,6 +105,9 @@ Filmora has recently introduced a new feature named AI Portrait that uses Artifi
 
 **Step 06:** Now, let's separate the background and character. Go to the Effects, then AI Portrait, select Human Segmentation, and drop it into the screenshot.
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![make-fortnite-thumbnail-step6](https://images.wondershare.com/filmora/article-images/make-fortnite-thumbnail-step6.jpg)
 
 **Step 07:** Filmora will ask you to purchase it, but you can now hit "Try it" to use it.
@@ -105,6 +120,9 @@ Filmora has recently introduced a new feature named AI Portrait that uses Artifi
 
 **Step 09:** To add a background, go to the media and navigate to "Sample Color." Drag a color of your choice and drop it below the screenshot.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![make-fortnite-thumbnail-step9](https://images.wondershare.com/filmora/article-images/make-fortnite-thumbnail-step9.jpg)
 
 **Step 10:** To add titles in the Thumbnail, go to the Titles tab. Here you can find several categories of titles. Find your preferred title and drop it above all the layers. You can choose titles, lower thirds, and other texts depending upon your need and requirement.
@@ -121,6 +139,18 @@ Filmora has recently introduced a new feature named AI Portrait that uses Artifi
 
 **Step 13:** To access the directory where this screenshot is saved, right-click on the screenshot and click on "Reveal in Explorer." It will open the folder that contains all the screenshots you take through Filmora. Your Fortnite Thumbnail is ready to be used on your Youtube videos.
 
+<!-- affiliate ads begin -->
+<span id="1993650">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![make-fortnite-thumbnail-step13](https://images.wondershare.com/filmora/article-images/make-fortnite-thumbnail-step13.jpg)
 
 #### Conclusion
@@ -144,3 +174,38 @@ Follow @Ollie Mattison
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-cutting-edge-techniques-pushing-boundaries-in-youtube-cinematography-for-2024/"><u>[New] Cutting Edge Techniques  Pushing Boundaries in YouTube Cinematography for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-ajeys-youtube-earnings-insight-2023/"><u>[New] In 2024, Ajey's YouTube Earnings Insight - 2023</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-discover-top-10-flv-to-youtube-conversion-tools/"><u>[New] In 2024, Discover Top 10 Flv-to-YouTube Conversion Tools</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-follow-your-favorites-top-6-mobile-apps-for-downloading-youtube-beats/"><u>[New] In 2024, Follow Your Favorites  Top 6 Mobile Apps for Downloading YouTube Beats</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-knowledge-currents-best-yt-for-academic-growth/"><u>[New] Knowledge Currents  Best YT for Academic Growth</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-mastering-mobile-asmr-must-have-apps/"><u>[New] Mastering Mobile ASMR  Must-Have Apps</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-viral-talent-quest-episodes-1-10/"><u>[New] Viral Talent Quest Episodes #1-10</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-capitalizing-on-hairstyle-demonstrations/"><u>[Updated] 2024 Approved  Capitalizing on Hairstyle Demonstrations</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-efficiently-incorporate-youtube-playlists-for-engaging-pages/"><u>[Updated] 2024 Approved  Efficiently Incorporate YouTube Playlists for Engaging Pages</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-essential-video-promo-tips-for-startups-infographic/"><u>[Updated] 2024 Approved  Essential Video Promo Tips for Startups (Infographic)</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-build-and-launch-youtube-video-ads-on-budget-for-2024/"><u>[Updated] Build & Launch YouTube Video Ads on Budget for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-extract-unlimited-photographic-content-from-esteemed-4-video-channels/"><u>[Updated] Extract Unlimited Photographic Content From Esteemed 4 Video Channels</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-bring-imagination-to-life-self-animated-artistry/"><u>[Updated] In 2024, Bring Imagination to Life  Self-Animated Artistry</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-dissecting-revenue-allocation-for-shortform-content-makers/"><u>[Updated] In 2024, Dissecting Revenue Allocation for Shortform Content Makers</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-fast-techniques-for-reordering-youtube-video-queues/"><u>[Updated] In 2024, Fast Techniques for Reordering YouTube Video Queues</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-kitchen-kings-and-queen-top-youtube-gastronomes/"><u>[Updated] Kitchen Kings & Queen  Top YouTube Gastronomes</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-maximize-your-youtube-impact-mastering-the-art-of-influential-channels-branding/"><u>[Updated] Maximize Your YouTube Impact  Mastering the Art of Influential Channels' Branding</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-video-gamings-top-10-capture-card-recommendations/"><u>[Updated] Video Gaming's Top 10 Capture Card Recommendations</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/2024-approved-unleash-creativity-unlimited-samples-of-50-youtube-banners-for-free/"><u>2024 Approved  Unleash Creativity  Unlimited Samples of 50 YouTube Banners for Free!</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/2024-approved-the-ultimate-guide-to-creating-a-photo-video-with-music/"><u>2024 Approved The Ultimate Guide to Creating a Photo Video with Music</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/device-unlock-huawei-nova-y71-by-drfone-android-unlock-android-unlock/"><u>Device unlock  Huawei Nova Y71</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/digital-elites-8-the-speedy-video-channels-for-2024/"><u>Digital Elites 8  The Speedy Video Channels for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhancing-yuzu-fps-on-pc-systems/"><u>Enhancing Yuzu FPS on PC Systems</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/essential-offline-ios-game-list-unplugged-fun-awaits-in-2024/"><u>Essential Offline iOS Game List - Unplugged Fun Awaits, In 2024</u></a></li>
+<li><a href="https://android-location.techidaily.com/fake-android-location-without-rooting-for-your-motorola-razr-40-ultra-drfone-by-drfone-virtual/"><u>Fake Android Location without Rooting For Your Motorola Razr 40 Ultra | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-phone-touchscreen-of-honor-90-lite-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Phone Touchscreen Of Honor 90 Lite | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-sharefake-location-on-whatsapp-for-samsung-galaxy-m34-drfone-by-drfone-virtual-android/"><u>How to Share/Fake Location on WhatsApp for Samsung Galaxy M34 | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/light-up-your-feed-expert-tips-for-instagram-highlights-3-steps/"><u>Light Up Your Feed  Expert Tips for Instagram Highlights (3 Steps)</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/premier-selector-exclusive-app-selection-for-your-videos-for-2024/"><u>Premier Selector  Exclusive App Selection for Your Videos for 2024</u></a></li>
+<li><a href="https://techidaily.com/simple-ways-to-get-lost-videos-back-from-infinix-hot-40i-by-fonelab-android-recover-video/"><u>Simple ways to get lost videos back from Infinix Hot 40i</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/the-game-changer-implementing-custom-gaming-banners-for-2024/"><u>The Game Changer  Implementing Custom Gaming Banners for 2024</u></a></li>
+</ul></div>

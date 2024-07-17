@@ -1,7 +1,7 @@
 ---
 title: "\"[New] The New Face of Collaboration  Video Events Post-VidCon\""
-date: 2024-06-06T16:29:21.530Z
-updated: 2024-06-07T16:29:21.530Z
+date: 2024-07-16T06:08:47.263Z
+updated: 2024-07-17T06:08:47.263Z
 tags:
   - ai video
   - ai youtube
@@ -18,6 +18,9 @@ thumbnail: https://www.lifewire.com/thmb/MjDTenaULco1gu34wPM4hMvRH2g=/540x405/fi
 
 # Beyond VidCon - A Guide to the Most Important YouTube Events
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 ##### Richard Bennett
@@ -36,13 +39,16 @@ Want to meet your favorite creators? Or, do you want to become a better creator 
 6. [Amplify Live (Australia)](#amplify)
 7. [Summer in the City (UK)](#sitc)
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## **The Most Important YouTube Events**
 
 Want to be a youtube creator too? Go and get **Wondershare Filmora**, the video editing software for all creators.
 
 [![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://download.wondershare.com/filmora9-mac%5Ffull718.zip)
 
-#### 1. **[VidCon](http://vidcon.com/)**
+#### 1. ** VidCon
 
 **VidCon US:** June (Anaheim, California)
 
@@ -50,6 +56,9 @@ Want to be a youtube creator too? Go and get **Wondershare Filmora**, the video 
 
 **VidCon Australia:** August/September
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![VidCon-On-Spot](https://images.wondershare.com/filmora/VidCon-On-Spot.jpg)
 
 In 2017 over 30,000 YouTube enthusiasts – from fans to A-list creators – attended VidCon US, and that was thousands of more people than attended in 2016\. It’s hard to imagine that this event – the biggest convention for YouTube and online video – will do anything but grow over the next few years.
@@ -70,7 +79,7 @@ The **Industry Track** is for anyone working in online video or video-adjacent i
 
 You have a two-week window (usually the first half of May) to submit your choices.
 
-#### 2. **[PlayList Live](http://www.playlist-live.com/home.php)**
+#### 2. ** PlayList Live
 
 **Orlando, Florida:** April/May
 
@@ -104,7 +113,7 @@ The **Premium Pass** ($250-$404) grants you standard access plus early access fo
 
 There is also business **Passes** with Merch and Deluxe (Business Deluxe can cost up to $330) options for people working in marketing, publicity, production, etc. These passes include access to an extra day of business and industry-specific programming.
 
-#### 3. **[Beautycon Festivals](https://beautycon.com/)**
+#### 3. ** Beautycon Festivals
 
 **Los Angeles:** July
 
@@ -112,6 +121,9 @@ There is also business **Passes** with Merch and Deluxe (Business Deluxe can cos
 
 **London, UK:** November
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
+<!-- affiliate ads end -->
 ![beautycon-festivals](https://images.wondershare.com/filmora/beautycon-festivals.jpg)
 
 Beautycon is an event meant to highlight innovators in the fields of Beauty, Makeup, and Lifestyle. They bring together online creators, fans, celebrities, and brands for two-day festivals full of fun, panel discussions, shopping, and free samples.
@@ -136,11 +148,14 @@ The final type of pass, the **Two-Day Beauty Insider** ($1999) pass, has everyth
 
 These events are customized to the wherever festival is visiting, so you’re always sure to see the big and rising YouTube stars from your region. Generally, these events include performances and activities as well as a Meet & Greet.
 
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![youtube-fanfest](https://images.wondershare.com/filmora/youtube-fanfest.jpg)
 
 There is not a steady annual schedule for FanFests, but it has visited these cities in the past: Manila, Mumbai, Seoul, Toronto, Sao Paulo, Jakarta, Tokyo, Jeddah, Bangkok, Ho Chi Minh City, Hong Kong, and Washington, DC.
 
-#### 5. **[RTX](https://www.rtxaustin.com/)**
+#### 5. ** RTX
 
 **Austin, Texas:** August
 
@@ -162,7 +177,7 @@ A **Weekend Plus** ($335) pass gets you everything the Weekend pass gets you plu
 
 The **Platinum** pass is the most expensive at $729, and it includes everything the Weekend Plus pass does plus a priority line for panels, priority seating, and an exclusive party.
 
-#### 6. **[Amplify Live](http://www.thisisamplify.com/blog/cool-for-summer-amplifylive-syd-mel-faqs)**
+#### 6. ** Amplify Live
 
 **Sydney, Australia:** April
 
@@ -182,7 +197,7 @@ For VIP access, you can buy a **Deluxe** pass for $125-$150 AUD.
 
 **Platinum Meet & Greet**, $450 AUD: meet all the headliners and get access to an exclusive VIP area, merch pack, and special entry.
 
-#### 7. **[Summer in the City](https://www.sitc-event.co.uk/)**
+#### 7. ** Summer in the City
 
 **London, UK:** August
 
@@ -210,6 +225,9 @@ If you buy your tickets during early bird pricing, the prices will look like thi
 
 Have you ever attended an offline YouTube event? Which one, and how did you like it?
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 Richard Bennett
@@ -226,3 +244,37 @@ Follow @Richard Bennett
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-free-endings-that-wow-ranked-for-you-top-6/"><u>[New] 2024 Approved  Free Endings That Wow - Ranked for You (Top 6)</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-free-online-offer-enjoy-a-gallery-of-50-youtube-banners-now/"><u>[New] 2024 Approved  Free Online Offer  Enjoy a Gallery of 50 YouTube Banners Now</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-hobbies-to-hearts-youtubes-path-to-fame/"><u>[New] 2024 Approved  From Hobbies to Hearts  YouTube's Path to Fame</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-video-to-music-youtube-to-mp3-on-macos/"><u>[New] 2024 Approved  From Video to Music  YouTube to MP3 on MacOS</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-hilarious-youtube-moments-top-10-quirky-short-film-concepts/"><u>[New] 2024 Approved  Hilarious YouTube Moments  Top 10 Quirky Short Film Concepts</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-expert-guide-streaming-and-saving-hulu-seasons-flawlessly/"><u>[New] Expert Guide  Streaming and Saving Hulu Seasons Flawlessly</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-how-many-viewers-to-target-for-a-youtube-earning-journey-for-2024/"><u>[New] How Many Viewers to Target for a YouTube Earning Journey for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-how-to-accelerate-your-youtube-upload-with-effective-rendering-for-2024/"><u>[New] How to Accelerate Your YouTube Upload with Effective Rendering for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-how-to-add-video-to-text-for-free-for-2024/"><u>[New] How to Add Video to Text for Free for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-how-to-upload-youtube-shorts-video-from-computer-and-mobile-for-2024/"><u>[New] How to Upload YouTube Shorts Video From Computer and Mobile for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-fast-lanes-for-jumbled-youtube-playlist-arrangement/"><u>[New] In 2024, Fast Lanes for Jumbled YouTube Playlist Arrangement</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-filmmakers-choice-for-steady-videos/"><u>[New] In 2024, Filmmaker's Choice for Steady Videos</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-raw-footage-to-polished-videos-imovies-role-in-youtube-content-creation/"><u>[New] In 2024, From Raw Footage to Polished Videos  IMovie's Role in YouTube Content Creation</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-youtube-to-excitement-easy-guide-to-making-animated-gifs/"><u>[New] In 2024, From YouTube to Excitement  Easy Guide to Making Animated GIFS</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-globally-renowned-earning-content-creator/"><u>[New] In 2024, Globally Renowned Earning Content Creator</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-harmonizing-your-spotify-queue-with-youtube-music-catalogs/"><u>[New] In 2024, Harmonizing Your Spotify Queue with YouTube Music Catalogs</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-high-definition-ready-enabling-av1-on-youtube/"><u>[New] In 2024, High Definition Ready  Enabling AV1 on YouTube</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-create-a-playlist-on-youtube-a-complete-guide/"><u>[New] In 2024, How to Create a Playlist on Youtube - a Complete Guide</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-go-frame-by-frame-on-youtube-video-5-free-methods/"><u>[New] In 2024, How to Go Frame by Frame on YouTube Video [5 Free Methods]</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-remove-background-noise-from-your-youtube-video/"><u>[New] In 2024, How To Remove Background Noise From Your Youtube Video</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-the-complete-guide-from-recording-to-live-on-facebook-for-2024/"><u>[New] The Complete Guide  From Recording to Live on Facebook for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-capture-every-moment-essential-ways-for-google-meet-recordings/"><u>[Updated] 2024 Approved  Capture Every Moment  Essential Ways for Google Meet Recordings</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/updated-carryminati-the-youtube-money-trail-of-ajey-nagar/"><u>[Updated] CarryMinati  The YouTube Money Trail of Ajey Nagar</u></a></li>
+<li><a href="https://howto.techidaily.com/9-solutions-to-fix-vivo-y100t-system-crash-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Vivo Y100t System Crash Issue | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-pattern-locks-are-unsafe-secure-your-samsung-galaxy-s23-phone-now-with-these-tips-by-drfone-android/"><u>In 2024, Pattern Locks Are Unsafe Secure Your Samsung Galaxy S23 Phone Now with These Tips</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-the-insiders-guide-to-creating-viral-instagram-reels/"><u>In 2024, The Insider’s Guide to Creating Viral Instagram Reels</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/new-2024-approved-translate-videos-like-a-pro-with-subtitle-cat-your-essential-guide/"><u>New 2024 Approved Translate Videos Like a Pro with Subtitle Cat Your Essential Guide</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-practical-guidelines-enhancing-communication-on-discord-through-voxy-voice-alteration-for-2024/"><u>New Practical Guidelines Enhancing Communication on Discord Through Voxy Voice Alteration for 2024</u></a></li>
+<li><a href="https://review-topics.techidaily.com/quickly-remove-google-frp-lock-on-galaxy-s21-fe-5g-2023-by-drfone-android-unlock-remove-google-frp/"><u>Quickly Remove Google FRP Lock on Galaxy S21 FE 5G (2023)</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-avidemux-audio-fix-expert-solutions-for-common-issues/"><u>Updated In 2024, Avidemux Audio Fix Expert Solutions for Common Issues</u></a></li>
+<li><a href="https://techidaily.com/video-file-repair-how-to-fix-corrupted-video-files-of-honor-100-pro-on-windows-by-stellar-video-repair-mobile-video-repair/"><u>Video File Repair - How to Fix Corrupted video files of Honor 100 Pro on Windows?</u></a></li>
+</ul></div>

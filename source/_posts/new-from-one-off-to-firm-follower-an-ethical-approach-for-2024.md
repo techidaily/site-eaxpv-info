@@ -1,7 +1,7 @@
 ---
 title: "\"[New] From One-Off to Firm Follower  An Ethical Approach for 2024\""
-date: 2024-06-06T13:59:22.652Z
-updated: 2024-06-07T13:59:22.652Z
+date: 2024-07-16T02:23:30.172Z
+updated: 2024-07-17T02:23:30.172Z
 tags:
   - ai video
   - ai youtube
@@ -18,6 +18,9 @@ thumbnail: https://thmb.techidaily.com/bbb97d5449382acc8b92ab96bfb70e5ca97a93f11
 
 # How to Get People to Subscribe to Your YouTube Channel
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 ##### Richard Bennett
@@ -52,7 +55,10 @@ Collins Key is one YouTuber who has mastered asking for subscribers early on, an
 
 As you can see, the video starts with a ‘flash forward’ to one of the twins saying the heater is on fire and then a reminder of what’s going to happen later – the heater catching fire – is written in the top left of the screen so it stays on the viewers' mind. This is one way in which the viewer is immediately hooked.
 
-![ how to ask people to subscribe](https://images.wondershare.com/filmora/article-images/ask-people-to-subscribe-by-hook.jpg)
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![how to ask people to subscribe](https://images.wondershare.com/filmora/article-images/ask-people-to-subscribe-by-hook.jpg)
 
 #### Step 2: Get to The Point Quickly
 
@@ -62,10 +68,13 @@ Shortly after, while still in the first 30 seconds of the video, Collins gets ri
 
 It’s only after hooking the viewer in and reiterating the promise of the title that Collins asks viewers to subscribe. The really clever thing about how he asks is that he carves out time in the video for the viewer to comply with his request. He gives 5 seconds and does a countdown.
 
-![ how to ask people to subscribe](https://images.wondershare.com/filmora/article-images/ask-people-to-subscribe-in-perfect-moment.jpg)
+![how to ask people to subscribe](https://images.wondershare.com/filmora/article-images/ask-people-to-subscribe-in-perfect-moment.jpg)
 
 Collins Key has been one of the fastest-growing channels on YouTube. He does not implement this strategy in every video, but it’s not a stretch to think it’s had something to do with his success. Instead of simply asking you to subscribe at the end of the video, he creates a part of the video early on – before people who don’t watch until the end will have clicked away – where you feel as if you’re ‘supposed to’ subscribe.
 
+<!-- affiliate ads begin -->
+<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
+<!-- affiliate ads end -->
 ### Polish Your YouTube Videos with Filmora
 
 Even with the above tricks, you may not get the subscribers as you wish unless you can make sure your videos and contents are of high quality. As YouTube is getting more and more popular and more YouTubers are competing for subscribers, you will need to polish your YouTube videos.
@@ -74,10 +83,16 @@ As one of the most widely used video editing software in YouTube video editing, 
 
 Here is a tutorial video about how to use Filmora to edit your YouTube video. Check it out and try Filmora if you are interested.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 [![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
 That's how you can get more YouTube subscribers by asking the right way. You may follow the instructions and try it yourself. Do not forget to [track your YouTube subscribers in real time](https://tools.techidaily.com/wondershare/filmora/download/) to make necessary adjustments.
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 Richard Bennett
@@ -93,6 +108,9 @@ Follow @Richard Bennett
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Crafting a Cash-Flow Career with Content Creation Like Ajey Nagar
 
 If you have been following the who’s who of YouTube, then Ajey Nagar, also popularly known as CarryMinati is definitely not a new name for you and you must also be well aware of **CarryMinati YouTube income**. And, if you have not heard of this name before, then it is high time to know about this YouTube influencer who is an Asian and Indian sensation.
@@ -213,6 +231,9 @@ AI-based features are the highlight of this software and for your reference, lis
 
 Step1 Launch the installed software on your system and add the media file to the software timeline.
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![wondershare filmora ai portrait 1](https://images.wondershare.com/filmora/article-images/2022/11/youtube-monetization-carryminati-youtube-income-2022-03.jpg)
 
 Step2 Next, go to Effects > Ai Portrait, and the options of the features can be checked here. Click on the thumbnail and the feature can be viewed in the preview window.
@@ -225,6 +246,9 @@ Step3 Drag the selected Portrait to the timeline and from the pop-up window choo
 
 Step4 If further customization is needed, you can even adjust the AI Portrait settings.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
 ![wondershare filmora ai portrait 4](https://images.wondershare.com/filmora/article-images/2022/11/youtube-monetization-carryminati-youtube-income-2022-07.jpg)
 
 Step5 When finally, all the settings are done, click on the Export button to save the file.
@@ -243,12 +267,18 @@ No, till date, CarryMinati aka Ajay Nagar is not married.
 
 Calculating the income from a YouTube video can be a complicated task that depends on several factors like views, likes, ads in the video, and more.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ### 3\. Which actors has Carry Minati interviewed?
 
 Carry Minati has interviewed popular actors like Tom Cruise, Tessa Thompson, Henry Cavil, and others celebrities.
 
 ![carryminati with tom cruise](https://images.wondershare.com/filmora/article-images/2022/11/youtube-monetization-carryminati-youtube-income-2022-09.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Final Words
 
 Gone are the days when only high posts at big-shot companies can bring in money and proving this right is CarryMinati who is not only earning big but has also earned worldwide fans and has created a name for himself. With his comic skits and engaging videos, this popular YouTube influencer is growing and stretching his wings.
@@ -261,6 +291,9 @@ If you too have got inspired and looking forward to starting with some interesti
 
 So, by now we know that CarryMinati aka Ajay Nagar is quite popular on YouTube. But, what does this popularity gets him in terms of money? Yes, this is an interesting question and the answer for this, you can check out in the next part of the topic.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Part 2: CarryMinati YouTube earning and stats
 
 Let’s now deep digger into the financial aspects and other related stats related to CarryMinati. So, if you are eager to know **how much CarryMinati earn from YouTube**, we will give you to the nearest exact figures. Who does not like numbers, they are interesting facts, isn’tead.
@@ -322,6 +355,9 @@ This video is about the Indian Film Industry and the awards given to the stars. 
 
 It is an interesting video of around 17 minutes where Ajay Nagar has acted along with other people to create a fun plot based of PUBG game.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Bonus Tip: How to be a YouTuber and Make Videos like Carryminati
 
 We have learned that CarryMinati has become the name it is, all because of the excellent videos it creates. Though it may sound simple, video creation requires a lot of skills, patience, and the help of expert tools.
@@ -370,10 +406,16 @@ Step5 When finally, all the settings are done, click on the Export button to sav
 
 Below we have answered some hot frequently asked questions about CarryMinati.
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 1\. Is Carry Minati married?
 
 No, till date, CarryMinati aka Ajay Nagar is not married.
 
+<!-- affiliate ads begin -->
+<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 2\. How much CarryMinati earn from 1 video?
 
 Calculating the income from a YouTube video can be a complicated task that depends on several factors like views, likes, ads in the video, and more.
@@ -384,6 +426,9 @@ Carry Minati has interviewed popular actors like Tom Cruise, Tessa Thompson, Hen
 
 ![carryminati with tom cruise](https://images.wondershare.com/filmora/article-images/2022/11/youtube-monetization-carryminati-youtube-income-2022-09.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Final Words
 
 Gone are the days when only high posts at big-shot companies can bring in money and proving this right is CarryMinati who is not only earning big but has also earned worldwide fans and has created a name for himself. With his comic skits and engaging videos, this popular YouTube influencer is growing and stretching his wings.
@@ -408,3 +453,50 @@ If you too have got inspired and looking forward to starting with some interesti
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-best-youtube-live-streaming-software-and-hardware-you-should-know/"><u>[New] 2024 Approved  Best YouTube Live Streaming Software and Hardware You Should Know</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-charting-the-course-to-youtube-livestream-mastery/"><u>[New] 2024 Approved  Charting the Course to YouTube Livestream Mastery</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/024-approved-elevate-your-youtube-presence-with-optimal-post-times/"><u>[New] 2024 Approved  Elevate Your YouTube Presence with Optimal Post Times</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-get-more-video-views-on-youtube/"><u>[New] 2024 Approved  How To Get More Video Views on YouTube</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-uniting-twitter-and-facebook-through-shared-content/"><u>[New] 2024 Approved  Uniting Twitter and Facebook Through Shared Content</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/024-approved-unmatched-youtube-success-10-unique-tips-for-your-shorts/"><u>[New] 2024 Approved  Unmatched YouTube Success  10 Unique Tips for Your Shorts</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-5-best-racing-simulator-games/"><u>[New] 5 Best Racing Simulator Games</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-crafting-video-magic-summit-for-2024/"><u>[New] Crafting Video Magic Summit for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-harnessing-google-trends-for-video-concept-generation-for-2024/"><u>[New] Harnessing Google Trends for Video Concept Generation for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-crafting-your-music-collection-youtube-playlists-guide/"><u>[New] In 2024, Crafting Your Music Collection  YouTube Playlists Guide</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-essential-insights-mastering-youtube-keyword-strategies/"><u>[New] In 2024, Essential Insights  Mastering YouTube Keyword Strategies</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-formulating-a-user-friendly-yt-subscribe-hyperlink/"><u>[New] In 2024, Formulating a User-Friendly YT Subscribe Hyperlink</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-top-10-student-friendly-history-yt-series/"><u>[New] Top 10 Student-Friendly History YT Series</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-unleashing-your-musical-voice-a-compree-play-by-play-guide-for-youtube-playlist-crafting/"><u>[New] Unleashing Your Musical Voice  A Compree Play-by-Play Guide for YouTube Playlist Crafting</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-upgrade-your-videography-with-the-top-10-flv-to-youtube-devices/"><u>[New] Upgrade Your Videography with the Top 10 Flv-to-YouTube Devices</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-10-top-rated-digital-video-cutting-tools/"><u>[Updated] 2024 Approved  10 Top-Rated Digital Video Cutting Tools</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-best-practices-for-youtube-card-implementation-for-2024/"><u>[Updated] Best Practices for YouTube Card Implementation for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-earning-the-big-bucks-as-a-youtube-star-for-2024/"><u>[Updated] Earning the Big Bucks as a YouTube Star for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-free-high-quality-edits-explore-these-9-cloud-apps/"><u>[Updated] In 2024, Free, High-Quality Edits  Explore These 9 Cloud Apps</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-keep-viewers-coming-back-haul-video-tips-and-tricks/"><u>[Updated] In 2024, How to Keep Viewers Coming Back  Haul Video Tips & Tricks</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-search-comments-on-youtube-quickly/"><u>[Updated] In 2024, How to Search Comments on YouTube Quickly?</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-keeping-your-gopro-fogless-for-perfection/"><u>[Updated] In 2024, Keeping Your GoPro Fogless for Perfection</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-score-high-on-youtube-with-these-ranking-factors/"><u>[Updated] Score High on YouTube with These Ranking Factors</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-unlock-7-superb-apps-for-seamless-youtube-live-from-iphone-and-android/"><u>[Updated] Unlock 7 Superb Apps for Seamless YouTube LIVE From iPhone & Android</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-selecting-the-ultimate-gear-for-stellar-4k-production/"><u>2024 Approved  Selecting the Ultimate Gear for Stellar 4K Production</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/an-android-users-journey-to-flawless-audio-visual-integration-for-2024/"><u>An Android Users Journey to Flawless Audio-Visual Integration for 2024</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/in-2024-amplify-views-on-tiktok-with-these-standout-username-concepts/"><u>In 2024, Amplify Views on TikTok with These Standout Username Concepts</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-fake-android-location-without-rooting-for-your-samsung-galaxy-a14-4g-drfone-by-drfone-virtual/"><u>In 2024, Fake Android Location without Rooting For Your Samsung Galaxy A14 4G | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-is-fake-gps-location-spoofer-a-good-choice-on-infinix-note-30-vip-racing-edition-drfone-by-drfone-virtual-android/"><u>In 2024, Is Fake GPS Location Spoofer a Good Choice On Infinix Note 30 VIP Racing Edition? | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-proven-methods-for-sensational-instagram-puzzle-creation/"><u>In 2024, Proven Methods for Sensational Instagram Puzzle Creation</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-strategies-to-enhance-testimonial-credibility-and-impact/"><u>In 2024, Strategies to Enhance Testimonial Credibility and Impact</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-top-7-mac-compatible-videos-viewers/"><u>In 2024, Top 7 Mac-Compatible Videos Viewers</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-unseen-algorithms-powering-youtubes-viewer-statistics/"><u>In 2024, Unseen Algorithms Powering YouTube's Viewer Statistics</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-2024-approved-how-to-record-on-garageband-step-by-step-guide/"><u>New 2024 Approved How to Record on GarageBand? Step by Step Guide</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-best-video-to-live-photos-apps/"><u>New In 2024, Best Video to Live Photos Apps</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/outshine-others-expert-tips-on-making-youtube-shorts-pop-for-2024/"><u>Outshine Others  Expert Tips on Making YouTube Shorts Pop for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/restore-shadows-in-iphone-hdr-footage-using-premiere-pro-techniques/"><u>Restore Shadows in iPhone HDR Footage Using Premiere Pro Techniques</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/safe-audio-conversion-techniques-turning-youtube-to-mp3-easily-and-securely-for-2024/"><u>Safe Audio Conversion Techniques  Turning YouTube to MP3 Easily & Securely for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/step-into-the-spotlight-learning-youtube-vlogger-etiquette-for-2024/"><u>Step Into the Spotlight  Learning YouTube Vlogger Etiquette for 2024</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/strategies-for-apps-that-wont-download-from-play-store-on-oppo-a58-4g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Strategies for Apps That Wont Download From Play Store On Oppo A58 4G | Dr.fone</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/top-10-video-editing-secrets-to-skyrocket-your-channels-for-2024/"><u>Top 10 Video Editing Secrets to Skyrocket Your Channels for 2024</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-the-cream-of-the-crop-top-android-apps-for-2024/"><u>Updated The Cream of the Crop Top Android Apps for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/your-step-by-step-pathway-to-youtube-video-enhancement-for-2024/"><u>Your Step-By-Step Pathway to YouTube Video Enhancement for 2024</u></a></li>
+</ul></div>

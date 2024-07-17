@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  How to Make Your Own YouTube Closures Without Spending\""
-date: 2024-06-06T16:03:48.472Z
-updated: 2024-06-07T16:03:48.472Z
+date: 2024-07-16T05:30:20.349Z
+updated: 2024-07-17T05:30:20.349Z
 tags:
   - ai video
   - ai youtube
@@ -50,7 +50,7 @@ When your intro video is longer than five seconds viewers are more likely to cli
 
 Whether it is better to put your intro at the very beginning of your video, or after you introduce your topic, will depend on your viewers. You may want to try it both ways and then look at your retention report (found in your YouTube Creator Studio under Analytics) to see which works best for you.
 
-#### [Top Intro Sites](https://tools.techidaily.com/wondershare/filmora/download/)
+#### Top Intro Sites
 
 There are a few different sites where you can download animated intros, customized to include your username or logo. Here are two of the best:
 
@@ -77,6 +77,9 @@ You can create a simple intro card in **Filmora**.
 7. The last piece of your intro is sound. You can choose a song from Filmora’s library and cut it down to five seconds, or import your sound effect.
 8. Export your video and save it for use in all of your other videos.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 2: End Cards
 
 When your video ends, YouTube will recommend a selection of videos users may want to watch next. Often, these recommendations will not include more of your videos.
@@ -93,7 +96,7 @@ You should also have a subscribe link somewhere in your end card, ideally a very
 
 Some creators will leave their end cards at that and play music overtop, but it can be even more effective to include a voiceover where you ask viewers to subscribe and watch your other videos.
 
-#### [How To Make an End Card](https://tools.techidaily.com/wondershare/filmora/download/)
+#### How To Make an End Card
 
 1. Choose a static background. You may want to download an end card template or create one in a drawing program. If you do, make sure to include calls to action like ‘Watch more!’ and ‘Subscribe’.
 2. Drag your background into your timeline at the end of your video.
@@ -110,6 +113,9 @@ Some creators will leave their end cards at that and play music overtop, but it 
 13. Repeat for any other thumbnails. For your subscribe button, change where it said ‘Video’ to ‘Subscribe’ and enter your channel URL.
 14. Click **Apply Changes**.
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
 Shanoon Cox
@@ -151,6 +157,9 @@ In this article, I’m going to help you figure that out.
 * [Part 6: Vlogging With a Fast Lens](#VloggingWithAFastLens)
 * [Part 7: Optical Image Stabilization](#OpticalImageStabilization)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ### Three Focal Length Groups: Wide, Standard, Telephoto
 
 There are three main ranges in focal lengths that camera lenses can be categorized into wide, standard, and telephoto.
@@ -189,6 +198,9 @@ As telephoto lenses are even more zoomed in, you’ll need to be even further aw
 
   In the above video, Marcos Rocha compares different focal lengths for talking head videos. Which focal length range do you like the look of?
 
+<!-- affiliate ads begin -->
+<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Crop Factor
 
 Focal lengths in camera lenses are measured in millimeters. You can vlog yourself handheld with a 24mm lens on a camera with a full-frame sensor (the sensor is the piece of hardware inside your camera that turns the light it receives into a digital image). But if you use a 24mm lens on a camera with a smaller sensor, like an APS-C sensor or even smaller Micro 4/3 sensor, more of you will get cropped out (see below).
@@ -197,6 +209,9 @@ Focal lengths in camera lenses are measured in millimeters. You can vlog yoursel
 
  In order to make up for the cropping that occurs, you will need to use a wider lens on cameras with smaller sensors to get the same shot you’d get with a full-frame camera.
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Focal Length Equivalency Table
 
 This table shows you the focal lengths needed to achieve the same shot between cameras with different sensor sizes. In order to take a shot as wide as the shot I took of myself with the 24mm lens on my full-frame camera, I would need a 15mm lens on an APS-C sensor camera or a 12mm lens on a micro 4/3 camera.
@@ -212,12 +227,18 @@ This table shows you the focal lengths needed to achieve the same shot between c
 | Telephoto                   | 100mm      | 63mm  | 50mm      |
 | Telephoto                   | 200mm      | 125mm | 100mm     |
 
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Aperture
 
  ![Camera lenses Aperture](https://images.wondershare.com/filmora/article-images/camera-lenses-aperture.jpg)
 
  The next thing to consider when you’re looking for a lens is the aperture, the hole (often adjustable) within the lens that lets light in. Aperture for camera lenses is measured in f-stops (f/1.4, f/1.8, f/2.0) - the smaller the f-stop number, the larger the aperture (bigger hole letting even more light in).
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  ![Camera lenses Aperture Range](https://images.wondershare.com/filmora/article-images/camera-lenses-aperture-range.png)
 
  Because larger aperture lenses let more light in, they need a shorter time for cameras to compose an image. This is why larger aperture lenses are also called “fast” lenses.
@@ -269,3 +290,75 @@ Follow @Richard Bennett
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://discord-videos.techidaily.com/new-2024-approved-cutting-ties-in-cyberspace-an-exit-strategy-from-discords/"><u>[New] 2024 Approved  Cutting Ties in Cyberspace  An Exit Strategy From Discords</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-iciness-to-comfort-five-warm-backdrops-ideas/"><u>[New] 2024 Approved  From Iciness to Comfort  Five Warm Backdrops Ideas</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-script-to-screen-cutting-edge-video-editing-for-youtubers/"><u>[New] 2024 Approved  From Script to Screen  Cutting-Edge Video Editing for YouTubers</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-gain-traction-on-youtube-surpass-10000-viewer-count-for-affiliate-rewards/"><u>[New] 2024 Approved  Gain Traction on YouTube - Surpass 10,000 Viewer Count for Affiliate Rewards</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-gain-traction-with-effective-video-descriptions-and-tagging/"><u>[New] 2024 Approved  Gain Traction with Effective Video Descriptions and Tagging</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-harnessing-your-creative-potential-an-exhaustive-tutorial-for-youtube-video-submission/"><u>[New] 2024 Approved  Harnessing Your Creative Potential  An Exhaustive Tutorial for YouTube Video Submission</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-elevate-your-youtube-videos-popularity-through-persistent-cc-licensing/"><u>[New] 2024 Approved  How to Elevate Your YouTube Video's Popularity Through Persistent CC Licensing</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-elevate-youtube-rankings-with-optimized-metadata/"><u>[New] 2024 Approved  How to Elevate YouTube Rankings with Optimized Metadata</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-concluding-an-online-journey-in-a-discord-server/"><u>[New] Concluding an Online Journey in a Discord Server</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-experts-selection-best-full-screen-recorders-for-pc-and-mac/"><u>[New] Expert's Selection  Best Full-Screen Recorders for PC and Mac</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-filming-made-easy-selecting-the-right-audio-devices-for-2024/"><u>[New] Filming Made Easy  Selecting the Right Audio Devices for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-formulating-a-channels-automatic-subscribe-purl-for-2024/"><u>[New] Formulating a Channel’s Automatic Subscribe PURL for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-from-scribbles-to-spectacle-personalized-effect-crafting-for-2024/"><u>[New] From Scribbles to Spectacle  Personalized Effect Crafting for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-from-scripted-to-spontaneous-elevating-reactions-for-youtube-success-3-steps-for-2024/"><u>[New] From Scripted to Spontaneous  Elevating Reactions for YouTube Success (3 Steps) for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-from-unorganized-to-organized-music-youtubes-magic-for-2024/"><u>[New] From Unorganized to Organized Music  Youtube's Magic for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-google-meet-go-live-your-youtube-broadcast-companion-for-2024/"><u>[New] Google Meet Go Live - Your YouTube Broadcast Companion for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-green-up-your-cta-game-subscribe-and-screen-for-2024/"><u>[New] Green Up Your CTA Game  Subscribe & Screen for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-how-to-confirm-your-youtube-account-securely-for-2024/"><u>[New] How to Confirm Your YouTube Account Securely for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-find-8-digital-hubs-offering-free-green-screen-elements-and-scenes/"><u>[New] In 2024, Find 8 Digital Hubs Offering Free Green-Screen Elements & Scenes</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-flawless-offline-viewing-your-guide-to-mobile-video-downloads-for-idevices/"><u>[New] In 2024, Flawless Offline Viewing  Your Guide to Mobile Video Downloads for iDevices</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-free-youtube-image-saver-compilation/"><u>[New] In 2024, Free YouTube Image Saver Compilation</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-hidden-gems-to-hit-videos-strategies-for-success/"><u>[New] In 2024, From Hidden Gems to Hit Videos  Strategies for Success</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-youtube-to-insta-a-video-posting-guide/"><u>[New] In 2024, From YouTube to Insta  A Video Posting Guide</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-often-to-post-a-guide-to-youtube-video-upload-patterns-for-success/"><u>[New] In 2024, How Often to Post  A Guide to YouTube Video Upload Patterns for Success</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-avoid-and-reverse-strikes-on-your-youtube-channel/"><u>[New] In 2024, How to Avoid and Reverse Strikes on Your YouTube Channel</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/1717717637639-new-in-2024-how-to-make-collab-videos-and-grow-your-channel/"><u>[New] In 2024, How to Make Collab Videos And Grow Your Channel?</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-precision-and-flexibility-exploring-the-best-10-mac-recording-tools/"><u>[New] Precision and Flexibility  Exploring the Best 10 Mac Recording Tools</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-present-moment-vr-equipment-review/"><u>[New] Present Moment  VR Equipment Review</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-social-network-showdown-2-written-by-a-computer-program-without-understanding-language-or-culture/"><u>[New] Social Network Showdown 2 Written by a Computer Program, without Understanding Language or Culture</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-ultimate-webcams-for-enhanced-podcast-production/"><u>[New] Ultimate Webcams for Enhanced Podcast Production</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-get-free-youtube-music-anytime-with-these-high-performing-splitters/"><u>[Updated] 2024 Approved  Get Free YouTube Music Anytime With These High-Performing Splitters</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-harness-the-power-of-mp4-converting-youtube-shorts/"><u>[Updated] 2024 Approved  Harness the Power of Mp4  Converting YouTube Shorts</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-much-money-can-you-score-with-youtube-short-videos/"><u>[Updated] 2024 Approved  How Much Money Can You Score with YouTube Short Videos?</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-find-your-comments-on-youtube-on-desktopiphoneandroid/"><u>[Updated] 2024 Approved  How to Find Your Comments on YouTube on Desktop/iPhone/Android</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-finding-and-exploring-your-own-music-selection-zone-on-youtube-for-2024/"><u>[Updated] Finding and Exploring Your Own Music Selection Zone on Youtube for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-from-hundreds-to-millions-a-youtube-growth-journey-for-2024/"><u>[Updated] From Hundreds to Millions  A YouTube Growth Journey for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-8-free-online-video-editors-for-youtube/"><u>[Updated] In 2024, 8 Free Online Video Editors for YouTube</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-fifas-favorite-footage-charted-on-youtube/"><u>[Updated] In 2024, FIFA's Favorite Footage  Charted on YouTube</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-finding-peace-in-patience-slowing-down-your-online-video-experience-on-youtube-60-chars-a-bit-long-but-full-of-helpful-info/"><u>[Updated] In 2024, Finding Peace in Patience  Slowing Down Your Online Video Experience on YouTube (60 Chars, a Bit Long but Full of Helpful Info)</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-free-editing-powerhouses-top-9-simplified-video-tools/"><u>[Updated] In 2024, Free Editing Powerhouses  Top 9 Simplified Video Tools</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-global-streaming-giants-face-off-facebook-live-youtube-live-periscope/"><u>[Updated] In 2024, Global Streaming Giants' Face-Off  Facebook Live, YouTube Live, Periscope</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-groan-inducing-humor-in-hits/"><u>[Updated] In 2024, Groan-Inducing Humor in Hits</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-hourly-highlight-reel-1-to-10-on-youtubes-view-chart/"><u>[Updated] In 2024, Hourly Highlight Reel  #1 to #10 on YouTube's View Chart</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-create-an-awesome-valorant-thumbnail-for-youtube-videos/"><u>[Updated] In 2024, How To Create an Awesome Valorant Thumbnail for YouTube Videos</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-premium-devices-for-claymation-films/"><u>[Updated] Premium Devices for Claymation Films</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-transforming-trending-searches-into-video-concepts/"><u>[Updated] Transforming Trending Searches Into Video Concepts</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-trendsetters-tunes-hits-of-the-week-for-yt-shorts-soundtracks/"><u>[Updated] Trendsetters’ Tunes  Hits of the Week for YT Shorts Soundtracks</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-closing-an-outdated-linkedin-profile-a-step-by-step-guide/"><u>2024 Approved  Closing an Outdated LinkedIn Profile  A Step-by-Step Guide</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-precise-methods-for-recording-your-facetime-communication/"><u>2024 Approved  Precise Methods for Recording Your FaceTime Communication</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/approved-the-complete-blueprint-to-tally-your-youtube-growth-and-income/"><u>2024 Approved  The Complete Blueprint to Tally Your YouTube Growth and Income</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/boost-your-exercise-motivation-with-top-20-music-choices/"><u>Boost Your Exercise Motivation with Top 20 Music Choices</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/game-on-select-sandbox-adventures-await/"><u>Game On  Select Sandbox Adventures Await</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-11-best-location-changers-for-oppo-reno-8t-drfone-by-drfone-virtual-android/"><u>In 2024, 11 Best Location Changers for Oppo Reno 8T | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-8-best-apps-for-screen-mirroring-oneplus-ace-2-pc-drfone-by-drfone-android/"><u>In 2024, 8 Best Apps for Screen Mirroring OnePlus Ace 2 PC | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-can-life360-track-or-see-text-messages-what-can-you-do-with-life360-on-oppo-reno-11-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Can Life360 Track Or See Text Messages? What Can You Do with Life360 On Oppo Reno 11 Pro 5G? | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-explore-the-advantages-of-switching-to-macos-11-big-sur/"><u>In 2024, Explore the Advantages of Switching to macOS 11 Big Sur</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-inside-the-world-of-ustream-plus-alternatives/"><u>In 2024, Inside the World of Ustream, Plus Alternatives</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-2024-perfect-presence-how-to-blur-background-on-zoom/"><u>In 2024, Perfect Presence  How to Blur Background on Zoom</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-recommended-best-applications-for-mirroring-your-vivo-y02t-screen-drfone-by-drfone-android/"><u>In 2024, Recommended Best Applications for Mirroring Your Vivo Y02T Screen | Dr.fone</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/in-2024-unleash-your-creativity-top-20-free-adobe-premiere-title-templates/"><u>In 2024, Unleash Your Creativity Top 20 Free Adobe Premiere Title Templates</u></a></li>
+<li><a href="https://extra-information.techidaily.com/iphones-easy-path-to-picture-softness-four-key-steps/"><u>IPhone's Easy Path to Picture Softness (Four Key Steps)</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/mastering-money-with-8-youtube-aspects/"><u>Mastering Money with 8 YouTube Aspects</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-2024-approved-15-top-montage-music-for-different-video-types/"><u>New 2024 Approved 15 Top Montage Music for Different Video Types</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-in-2024-system-requirements-for-running-premiere-pro-how-to-set-up-computer/"><u>New In 2024, System Requirements for Running Premiere Pro How to Set Up Computer</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-unleash-your-creativity-top-apple-video-editing-apps-for-2024/"><u>New Unleash Your Creativity Top Apple Video Editing Apps for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/unbox-the-joy-of-9-premium-complete-christmas-movies-for-free-for-2024/"><u>Unbox the Joy of 9 Premium, Complete Christmas Movies for Free for 2024</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-comprehensive-guide-to-vocaroo-audio-capture-practices-and-substitutes-for-2024/"><u>Updated Comprehensive Guide to Vocaroo Audio Capture Practices and Substitutes for 2024</u></a></li>
+<li><a href="https://techidaily.com/will-redmi-12-5g-play-avchd-mts-files-by-aiseesoft-video-converter-play-mts-on-android/"><u>Will Redmi 12 5G play AVCHD mts files?</u></a></li>
+</ul></div>

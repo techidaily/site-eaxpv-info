@@ -1,7 +1,7 @@
 ---
 title: "\"[New] In 2024, Foundations First  What To Invest In for YouTubing\""
-date: 2024-06-06T14:36:32.224Z
-updated: 2024-06-07T14:36:32.224Z
+date: 2024-07-16T03:19:02.398Z
+updated: 2024-07-17T03:19:02.398Z
 tags:
   - ai video
   - ai youtube
@@ -38,6 +38,9 @@ The smartest way to get started is to go through a list of **necessary equipment
 * [Tripods and Camera Stands](#tripod)
 * [Smartphone Camera Gear](#phone)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
+<!-- affiliate ads end -->
 ## YouTube Cameras
 
 **The short version:** Use whatever you already have, even if it's your phone or webcam. It's nice to have sharp, fine-tuned, 4K footage, but viewers will forgive lower visual quality if your content is good.
@@ -72,6 +75,9 @@ If you have the budget available to get some lighting equipment, you can find so
 
 Another useful piece of lighting equipment to have is a reflector. A reflector is usually a piece of white, silver, or gold fabric stretched over a frame. You can use it to bounce light from one light source back towards yourself (this is a great way to fill shadows cast by your main light). Reflectors tend to be inexpensive, but you can also use white cardboard or tinfoil in place of purchasing a reflector.
 
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Tripods and Camera Stands
 
 **The short version:** You need something to hold your camera. If you mostly film in your own home that can be a desk or a stack of books, but if you make a lot of videos while you're on the go you probably need a tripod or gimbal. Heavier cameras need heavier tripods.
@@ -94,8 +100,14 @@ On the flip side, smartphone cameras typically perform poorly in low light. It i
 
 Another common downside of smartphone cameras is that most of them use digital zoom, which is vastly inferior to optical zoom. If you intend to shoot anything that’s further away than a few feet, you need a clip-on lens that goes on top of the built-in camera. This inexpensive device will give you a lot of freedom to work in space, and allow you to make spectacular shots even without high-end YouTube equipment.
 
+<!-- affiliate ads begin -->
+<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Equipment with Easy-to-Use Video Editor
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
@@ -113,10 +125,54 @@ Follow @Richard Bennett
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
 ## Boost Engagement: Innovative Templates for Your Video Closings
 
 # Free YouTube End Screen Templates
 
+<!-- affiliate ads begin -->
+<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/new-from-capture-to-share-precision-cropping-and-export-tips-for-instagram/"><u>[New] From Capture to Share  Precision Cropping & Export Tips for Instagram</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-free-cash-flow-estimator-apps/"><u>[New] In 2024, Free Cash Flow Estimator Apps</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-fresh-funds-finds-economical-monetization-platforms-for-beginners/"><u>[New] In 2024, Fresh Funds Finds  Economical Monetization Platforms for Beginners</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-clicks-to-cash-the-systematic-triple-pathway-for-youtube-revenue-tracking/"><u>[New] In 2024, From Clicks to Cash  The Systematic Triple Pathway for YouTube Revenue Tracking</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-video-to-visual-storytelling-crafting-gifs-with-youtube-content/"><u>[New] In 2024, From Video to Visual Storytelling  Crafting GIFs with YouTube Content</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-find-your-comments-on-youtube-on-desktopiphoneandroid/"><u>[New] In 2024, How to Find Your Comments on YouTube on Desktop/iPhone/Android</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-step-by-step-guide-to-creating-a-peak-vr-environment/"><u>[New] Step-by-Step Guide to Creating a Peak VR Environment</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-fostering-relationships-not-just-viewers-a-guide-to-subscriptions/"><u>[Updated] 2024 Approved  Fostering Relationships, Not Just Viewers  A Guide to Subscriptions</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-google-meet-on-youtube-streaming-made-easy-step-by-step/"><u>[Updated] 2024 Approved  Google Meet on YouTube  Streaming Made Easy, Step by Step</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-harness-10-tools-to-grab-youtube-images-online/"><u>[Updated] 2024 Approved  Harness 10 Tools to Grab YouTube Images Online</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-harnessing-monetization-potential-with-youtube-ad-strategies/"><u>[Updated] 2024 Approved  Harnessing Monetization Potential with YouTube Ad Strategies</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-the-real-number-of-youtube-views-you-need-to-make-a-living/"><u>[Updated] 2024 Approved  The Real Number of YouTube Views You Need to Make a Living</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-50-free-youtube-banners-come-see-them-all-for-2024/"><u>[Updated] 50 FREE YouTube Banners - Come See Them All for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-flaunt-your-brand-with-ease-the-top-10-youtube-theme-designers-for-2024/"><u>[Updated] Flaunt Your Brand with Ease - The Top 10 YouTube Theme Designers for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-fresh-bgm-leading-lines-in-the-realm-of-yt-shorts-for-2024/"><u>[Updated] Fresh BGM  Leading Lines in the Realm of YT Shorts for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-from-gaming-to-goals-celebrating-the-top-10-ladies-on-youtube-for-2024/"><u>[Updated] From Gaming to Goals  Celebrating the Top 10 Ladies on YouTube for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-gaming-history-told-by-top-video-makers-for-2024/"><u>[Updated] Gaming History Told by Top Video Makers for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-graph-gems-2017s-statistical-youtube-surprises-for-2024/"><u>[Updated] Graph Gems  2017'S Statistical YouTube Surprises for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-accelerate-your-youtube-upload-with-effective-rendering-for-2024/"><u>[Updated] How to Accelerate Your YouTube Upload with Effective Rendering for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-captivate-audience-attention-with-your-yt-shorts-for-2024/"><u>[Updated] How to Captivate Audience Attention with Your YT Shorts for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-choose-between-youtubers-game-entrance-tutorials-cost-included-for-2024/"><u>[Updated] How to Choose Between Youtubers' Game Entrance Tutorials (Cost Included?) For 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-launch-your-first-sporty-video-channel-on-apple-systems-for-2024/"><u>[Updated] How to Launch Your First Sporty Video Channel on Apple Systems for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-rediscover-the-past-watching-youtubes-lost-footage-for-2024/"><u>[Updated] How to Rediscover the Past  Watching Youtube's Lost Footage for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-fostering-collaborations-building-partnerships-to-promote-videos/"><u>[Updated] In 2024, Fostering Collaborations  Building Partnerships to Promote Videos</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-raw-footage-to-highlight-hits/"><u>[Updated] In 2024, From Raw Footage to Highlight Hits</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-hidden-pitfalls-investing-in-fraudulent-subscribers/"><u>[Updated] In 2024, Hidden Pitfalls  Investing in Fraudulent Subscribers</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-embedding-audio-in-instant-storytelling-platforms/"><u>2024 Approved  Embedding Audio in Instant Storytelling Platforms</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/a-comprehensive-guide-to-icloud-unlock-from-apple-iphone-6-plus-online-by-drfone-ios/"><u>A Comprehensive Guide to iCloud Unlock From Apple iPhone 6 Plus Online</u></a></li>
+<li><a href="https://location-social.techidaily.com/does-oneplus-11r-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>Does OnePlus 11R Have Find My Friends? | Dr.fone</u></a></li>
+<li><a href="https://animation-videos.techidaily.com/new-in-2024-15-types-of-cartoon-drawing-styles-examples/"><u>New In 2024, 15 Types of Cartoon Drawing Styles Examples</u></a></li>
+<li><a href="https://location-social.techidaily.com/top-7-skype-hacker-to-hack-any-skype-account-on-your-realme-v30-drfone-by-drfone-virtual-android/"><u>Top 7 Skype Hacker to Hack Any Skype Account On your Realme V30 | Dr.fone</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-low-cost-film-production-software-top-picks-for-beginners/"><u>Updated Low-Cost Film Production Software Top Picks for Beginners</u></a></li>
+<li><a href="https://ai-topics.techidaily.com/updated-top-5-tools-to-convert-text-to-audio-online-for-free-for-2024/"><u>Updated Top 5 Tools to Convert Text to Audio Online for Free for 2024</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/voice-modification-and-removal-techniques-the-best-software-solutions-for-karaoke-and-music-production-for-2024/"><u>Voice Modification & Removal Techniques The Best Software Solutions for Karaoke & Music Production for 2024</u></a></li>
+</ul></div>

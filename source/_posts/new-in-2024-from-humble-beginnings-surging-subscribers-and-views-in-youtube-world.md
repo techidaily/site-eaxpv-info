@@ -1,7 +1,7 @@
 ---
 title: "\"[New] In 2024, From Humble Beginnings  Surging Subscribers & Views in Youtube World\""
-date: 2024-06-06T14:26:49.591Z
-updated: 2024-06-07T14:26:49.591Z
+date: 2024-07-16T03:04:29.309Z
+updated: 2024-07-17T03:04:29.309Z
 tags:
   - ai video
   - ai youtube
@@ -18,6 +18,9 @@ thumbnail: https://thmb.techidaily.com/d31e8723e03acf63385b6b2673e7168286d60ba0c
 
 # Case Study: How to Grow on YouTube to Have Millions of Subs
 
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
 ##### Shanoon Cox
@@ -30,6 +33,9 @@ You’ve probably heard of stories about individuals who managed to find financi
 
 Jesse Ridgway is the owner of the vlog [McJuggerNuggets](https://www.youtube.com/user/McJuggerNuggets), which has grown to over 3.4 million subscribers. He makes enough money to live off of YouTube alone. Here is a case study of how he made his first $10,000 on YouTube:
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Case Study of McJuggerNuggets
 
 ![Case Study McJugger Nuggets](https://images.wondershare.com/filmora/article-images/case-study-mcjugger-nuggets.jpg)
@@ -138,6 +144,9 @@ A YouTube end screen might have the following features:
 
 You may also want to include **social icons and handles** for your accounts on sites like Instagram or Twitter. These won’t be clickable (you’ll need to add them yourself outside of YouTube’s end screen tool), but they’ll still let viewers know where else they can find and follow you.
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 2: YouTube Outro Templates Download
 
 Here are 4 sites where you can download templates for YouTube Outros:
@@ -150,12 +159,18 @@ You can preview your customized outro by clicking Preview Still or Preview Movie
 
 Outros on Tube Arsenal cost $9 for 720P or $13 for 1080p.
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Outro Maker Templates](https://images.wondershare.com/filmora/article-images/outro-maker-template.jpg)
 
 **Outro Maker:** you can get animated end screens/outros from Outro Maker for $2.99 a month (or, if you just need one outro, you can probably finish it during your 7-day free trial).
 
 Outro Maker uses the content already uploaded onto your channel to create your outro, so you will need to link the service with your channel.
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Biteable Outro Template](https://images.wondershare.com/filmora/article-images/biteable-outro-maker-template.jpg)
 
 **Biteable:** the templates you can customize on Biteable are not specifically designed to be YouTube Outros and will not have slots for your end screen elements. The videos start out a lot longer than you’ll want for an end screen (an end screen can’t last longer than 20 seconds), but you can shorten them by deleting all the ‘scenes’ you don’t need and keeping just the one or two you want.
@@ -172,8 +187,23 @@ You can also find free outro templates by searching for them on YouTube! Lots of
 
 Besides downloading outro templates from the website, you can also create it with some [outro makers](https://tools.techidaily.com/wondershare/filmora/download/) or with the video editing software that you are using. [Wondershare Filmora video editor](https://tools.techidaily.com/wondershare/filmora/download/) is the video editor that I used often, it is featured some cool templates and preset for making an outro. I recommend you try it as well.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 [![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<span id="1793213">
+					<video width="1080" height="1620" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 3: How to Use YouTube’s End Screen Feature
 
 Make sure to create a space at the end of your video for the elements of your end screen to sit on top of. Your end screen will not add to the length of your video, it will overlay onto the last 5-20 seconds.
@@ -224,3 +254,64 @@ Follow @Richard Bennett
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-facebook-streaming-made-simple-tips-for-android-and-iphones/"><u>[New] 2024 Approved  Facebook Streaming Made Simple  Tips for Android & iPhones</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-free-youtube-end-screen-templates-plushow-tos/"><u>[New] 2024 Approved  Free YouTube End Screen Templates [+How-Tos]</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-fresh-face-finds-budget-friendly-platforms-to-purchase/"><u>[New] 2024 Approved  Fresh Face Finds  Budget-Friendly Platforms to Purchase</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-free-to-paid-subscriber-count-surpasses-500/"><u>[New] 2024 Approved  From Free to Paid  Subscriber Count Surpasses 500</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-zero-to-hero-in-youtube-traffic/"><u>[New] 2024 Approved  From Zero to Hero in YouTube Traffic</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-frosty-yet-warm-choosing-the-best-winter-backdrops/"><u>[New] 2024 Approved  Frosty Yet Warm  Choosing the Best Winter Backdrops</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-game-masters-youtube-money-hacks/"><u>[New] 2024 Approved  Game Masters  YouTube Money Hacks</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-gear-up-for-greatness-choosing-webcams-for-youtube-excellence/"><u>[New] 2024 Approved  Gear Up for Greatness  Choosing Webcams for YouTube Excellence</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-high-performance-gpu-picks-for-quality-video-streaming/"><u>[New] 2024 Approved  High-Performance GPU Picks for Quality Video Streaming</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-from-fan-to-earner-understanding-view-requirements-for-2024/"><u>[New] From Fan to Earner  Understanding View Requirements for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-from-novice-to-notoriety-steps-for-a-youtube-channel-in-gaming-for-2024/"><u>[New] From Novice to Notoriety  Steps for a YouTube Channel in Gaming for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-get-going-on-youtube-video-upload-tutorial-in-premiere-for-2024/"><u>[New] Get Going on YouTube  Video Upload Tutorial in Premiere for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-high-level-behavior-tips-for-youtube-users-for-2024/"><u>[New] High-Level Behavior Tips for YouTube Users for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-how-to-achieve-professional-level-audio-quality-on-youtube-for-2024/"><u>[New] How to Achieve Professional-Level Audio Quality on YouTube for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-how-to-add-chapters-to-youtube-videos-for-2024/"><u>[New] How to Add Chapters to YouTube Videos for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-first-footsteps-in-youtube-landscape-setting-up-shop-and-earning-profitably/"><u>[New] In 2024, First Footsteps in YouTube Landscape  Setting Up Shop and Earning Profitably</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-getting-started-with-youtube-tv-a-must-read-article/"><u>[New] In 2024, Getting Started with YouTube TV  A Must-Read Article</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-graphicgrind-studio/"><u>[New] In 2024, GraphicGrind Studio</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-go-viral-on-youtube-with-minimal-effort/"><u>[New] In 2024, How to Go Viral on YouTube with Minimal Effort</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ermanent-ousting-technique-for-the-quick-video-feature-for-2024/"><u>[New] Permanent Ousting Technique for the Quick Video Feature for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-the-tech-whizs-guide-to-recording-games-on-win10-for-2024/"><u>[New] The Tech Whiz's Guide to Recording Games on Win10 for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-upload-longer-video-to-youtube-as-you-wished-for-2024/"><u>[New] Upload Longer Video to YouTube As You Wished for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-watch-9-free-full-length-christmas-movies-on-youtube-for-2024/"><u>[New] Watch 9 Free Full Length Christmas Movies On YouTube for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-fine-tune-youtube-video-pacing-desktopmobile/"><u>[Updated] 2024 Approved  Fine-Tune YouTube Video Pacing - Desktop/Mobile</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-concept-to-cut-tape-imovie-steps-for-optimizing-youtube-edits/"><u>[Updated] 2024 Approved  From Concept to Cut-Tape  IMovie Steps for Optimizing YouTube Edits</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-harmony-and-rhythm-discover-the-best-15-youtube-educational-videos/"><u>[Updated] 2024 Approved  Harmony & Rhythm  Discover the Best 15 YouTube Educational Videos</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-securely-extract-and-convert-youtube-audios-as-mp3/"><u>[Updated] 2024 Approved  How To Securely Extract and Convert YouTube Audios as MP3</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-leveraging-obs-for-high-quality-livestreams-youtube-and-twitch/"><u>[Updated] 2024 Approved  Leveraging OBS for High-Quality Livestreams, YouTube & Twitch</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-finding-your-portal-to-youtubes-video-mastery-hub-for-2024/"><u>[Updated] Finding Your Portal to YouTube's Video Mastery Hub for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-flash-vids-unpacked-whats-inside-in-2024/"><u>[Updated] Flash Vids Unpacked  What's Inside, In 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-for-social-media-savants-distinguishing-between-igtv-and-youtube-for-2024/"><u>[Updated] For Social Media Savants  Distinguishing Between IGTV & YouTube for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-free-youtube-download-methods-without-apps-for-2024/"><u>[Updated] Free YouTube Download Methods Without Apps for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-from-blurry-to-bold-crafting-powerful-youtube-previews-for-2024/"><u>[Updated] From Blurry to Bold  Crafting Powerful YouTube Previews for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-from-raw-footage-to-final-cut-youtube-edition-for-2024/"><u>[Updated] From Raw Footage to Final Cut  YouTube Edition for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-insert-youtube-links-for-an-engaging-ppt-experience-for-2024/"><u>[Updated] How to Insert YouTube Links for an Engaging PPT Experience for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-make-a-cool-youtube-video-intro-in-imovie-step-by-step-for-2024/"><u>[Updated] How to Make a Cool YouTube Video Intro in iMovie (Step-by-Step) for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-gain-an-edge-access-these-top-8-sites-for-free-eco-screen-backdrops-and-clips/"><u>[Updated] In 2024, Gain an Edge - Access These Top 8 Sites for FREE Eco-Screen Backdrops and Clips</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-guidelines-to-frame-your-youtube-creation-flow/"><u>[Updated] In 2024, Guidelines to Frame Your YouTube Creation Flow</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-harmonious-hub-choosing-the-best-free-apps-for-your-youtube-music-streams/"><u>[Updated] In 2024, Harmonious Hub  Choosing the Best Free Apps for Your YouTube Music Streams</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-home-studio-heroics-your-path-to-effectful-artistry/"><u>[Updated] In 2024, Home Studio Heroics  Your Path to Effectful Artistry</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-instagrammashup-androidandios-video-tiles/"><u>[Updated] In 2024, InstagramMashup  Android&iOS Video Tiles</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-top-youtube-spotlight-key-influences-on-your-viewership-position/"><u>[Updated] Top YouTube Spotlight  Key Influences on Your Viewership Position</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-troubleshooting-when-youtube-shorts-images-fail-to-display/"><u>[Updated] Troubleshooting  When YouTube Shorts Images Fail To Display</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-turning-your-youtube-views-into-a-screen-capture-made-simple-and-free/"><u>[Updated] Turning Your YouTube Views Into a Screen Capture Made Simple and Free</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-ultimate-guide-to-color-theory-and-practical-application-techniques/"><u>2024 Approved  The Ultimate Guide to Color Theory and Practical Application Techniques</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/creative-channel-themes-get-them-for-free-for-2024/"><u>Creative Channel Themes  Get Them for Free for 2024</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-change-lock-screen-wallpaper-on-vivo-y27s-by-drfone-android/"><u>How to Change Lock Screen Wallpaper on Vivo Y27s</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-change-your-apple-iphone-15-pro-apple-id-on-macbook-by-drfone-ios/"><u>How To Change Your Apple iPhone 15 Pro Apple ID on MacBook</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/immortalizing-sportsmanship-techniques-for-gameplay-videos/"><u>Immortalizing Sportsmanship  Techniques for Gameplay Videos</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-2024-approved-unleash-the-power-of-slow-mo-top-10-video-players/"><u>New 2024 Approved Unleash the Power of Slow Mo Top 10 Video Players</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/sifting-through-inshots-features-for-best-edits/"><u>Sifting Through InShot's Features for Best Edits</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/uniting-skype-and-zoom-for-seamless-video-calls/"><u>Uniting Skype & Zoom for Seamless Video Calls</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-2024-approved-the-ultimate-list-best-royalty-free-laughter-soundtracks-for-your-videos/"><u>Updated 2024 Approved The Ultimate List Best Royalty-Free Laughter Soundtracks for Your Videos</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-the-top-webm-to-mp3-converters-you-need-to-know/"><u>Updated The Top WebM to MP3 Converters You Need to Know</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/updated-what-is-an-ai-video-editor-in-2024/"><u>Updated What Is an AI Video Editor, In 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/utilizing-top-users-to-increase-visibility/"><u>Utilizing Top Users to Increase Visibility</u></a></li>
+<li><a href="https://extra-information.techidaily.com/zooming-into-better-visuals-implementing-video-effects/"><u>Zooming Into Better Visuals  Implementing Video Effects</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: "[New] In 2024, Flipping Currencies Through Cosmetics Content"
-date: 2024-06-06T14:57:38.091Z
-updated: 2024-06-07T14:57:38.091Z
+date: 2024-07-16T03:50:38.196Z
+updated: 2024-07-17T03:50:38.196Z
 tags:
   - ai video
   - ai youtube
@@ -18,6 +18,9 @@ thumbnail: https://thmb.techidaily.com/a4a765e99a54a380752423d8d88b32966a3339aa9
 
 # How to Make Money with a Beauty Channel?
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 ##### Richard Bennett
@@ -32,6 +35,9 @@ There are a lot of ways you can make money by posting makeup, beauty, or fashion
 
 Here’s more advice on how you can make money from your makeup videos:
 
+<!-- affiliate ads begin -->
+<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Sponsorships
 
 If you are truly passionate about makeup or fashion then you probably have a few favorite brands. Even if you have never really thought about a brand as your favorite, chances are you purchase one or two types of lip gloss – or any other product – over others on a regular basis.
@@ -46,6 +52,9 @@ Other times, brands may want you to say specific things or include logos in your
 
 Make sure to incorporate any brand messages or product placement you agree to do in ways that will feel natural to your viewers. You should let them know that you have a sponsor, and then incorporate the branded content in ways that do not take away from their enjoyment of your videos.
 
+<!-- affiliate ads begin -->
+<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Ad Revenue
 
 Monetizing your videos and earning ad revenue is one of the primary ways beauty vloggers, and all other YouTubers, make money. It takes a long time to earn more than the pocket change from ads, but so long as you keep growing your audience your revenue will keep going up.
@@ -70,6 +79,9 @@ As your following gets bigger, brands might start sending you samples of their p
 
 Receiving these kinds of gifts is not the same as getting paid, but it can certainly save you money on makeup.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 Richard Bennett
@@ -101,10 +113,16 @@ Adding a custom thumbnail for YouTube Shorts is the same as adding one for long-
 
 * Open the YouTube mobile app. Click the "Plus" icon at the bottom center > "Create Short." Upload, edit, and post your video.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![creating shorts on youtube app](https://images.wondershare.com/filmora/article-images/shorts-thumbnail-faqs-change-thumbnail-1.jpg)
 
 * Get to your desktop computer or laptop. Open your channel's YouTube Studio.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![opening youtube studio on computer](https://images.wondershare.com/filmora/article-images/shorts-thumbnail-faqs-change-thumbnail-2.JPG)
 
 * On the left navigation menu, click "Content."
@@ -156,6 +174,9 @@ The best thing is that you don't need to transfer the video from your phone to y
 
 Short-form video watchers love filters, transitions, and effects. And Filmora gives you access to all of that. It provides you with fun and amazing filters, effects, transitions, and stamps that can add a wow factor to your short-form video.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Q6\. Do YouTube Shorts Make Money?
 
 Making money from YouTube Shorts was challenging. The platform pays content creators who are doing well through the Creator Fund. However, as Shorts grew, the payout became smaller.
@@ -172,6 +193,9 @@ You can watch Shorts like normal YouTube videos where you can rewind when you wa
 
 * Open a Shorts video on YouTube.
 
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![shorts tab on the youtube website](https://images.wondershare.com/filmora/article-images/shorts-thumbnail-faqs-play-pc-1.JPG)
 
 * Pause the video.
@@ -184,20 +208,32 @@ You can watch Shorts like normal YouTube videos where you can rewind when you wa
 
 * Select the Shorts you just watched. It should be on the top and first on the list.
 
+<!-- affiliate ads begin -->
+<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![playing shorts video like normal video](https://images.wondershare.com/filmora/article-images/shorts-thumbnail-faqs-play-pc-4.JPG)
 
 ### On a Mobile Phone
 
 * Open the YouTube app. Watch a Shorts video.
 
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![watching a shorts video on mobile](https://images.wondershare.com/filmora/article-images/shorts-thumbnail-faqs-play-mobile-1.JPG)
 
 * Like the Shorts video.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![liked a shorts video on mobile](https://images.wondershare.com/filmora/article-images/shorts-thumbnail-faqs-play-mobile-2.JPG)
 
 * Tap "Library"
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![library tab on youtube mobile](https://images.wondershare.com/filmora/article-images/shorts-thumbnail-faqs-play-mobile-3.JPG)
 
 * Scroll down to find "Liked Videos." Click on it.
@@ -208,6 +244,9 @@ You can watch Shorts like normal YouTube videos where you can rewind when you wa
 
 ![watching shorts like normal video mobile](https://images.wondershare.com/filmora/article-images/shorts-thumbnail-faqs-play-mobile-5.JPG)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Conclusion
 
 Unfortunately, custom thumbnails not showing on Shorts does not have a fix yet. So to attract viewers, you must leverage the things in your control. You must title your videos in a way that will make users click the video. Also, adding effects and filters on the video using an editor like Wondershare Filmora can help.
@@ -234,6 +273,9 @@ YouTube also adjusted the requirements to qualify for the YPP. They made it easi
 
 You can watch Shorts like normal YouTube videos where you can rewind when you want to. Follow these steps.
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### On a Desktop Computer
 
 * Open a Shorts video on YouTube.
@@ -250,6 +292,9 @@ You can watch Shorts like normal YouTube videos where you can rewind when you wa
 
 * Select the Shorts you just watched. It should be on the top and first on the list.
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![playing shorts video like normal video](https://images.wondershare.com/filmora/article-images/shorts-thumbnail-faqs-play-pc-4.JPG)
 
 ### On a Mobile Phone
@@ -268,12 +313,18 @@ You can watch Shorts like normal YouTube videos where you can rewind when you wa
 
 * Scroll down to find "Liked Videos." Click on it.
 
+<!-- affiliate ads begin -->
+<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![liked videos section on youtube mobile](https://images.wondershare.com/filmora/article-images/shorts-thumbnail-faqs-play-mobile-4.JPG)
 
 * Select the Shorts video you just watched. It should be at the top of the list.
 
 ![watching shorts like normal video mobile](https://images.wondershare.com/filmora/article-images/shorts-thumbnail-faqs-play-mobile-5.JPG)
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Conclusion
 
 Unfortunately, custom thumbnails not showing on Shorts does not have a fix yet. So to attract viewers, you must leverage the things in your control. You must title your videos in a way that will make users click the video. Also, adding effects and filters on the video using an editor like Wondershare Filmora can help.
@@ -294,3 +345,39 @@ Users can subscribe to Shorts channels. And if they see that your videos are wel
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-building-a-youtubing-brand-from-scratch-with-these-8-courses/"><u>[New] 2024 Approved  Building a YouTubing Brand From Scratch with These 8 Courses</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-channeling-creativity-get-green-screen-tips-from-youtube/"><u>[New] 2024 Approved  Channeling Creativity  Get Green Screen Tips From YouTube</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-beginners-guide-capturing-youtube-videos-as-screencasts-without-payment-for-2024/"><u>[New] Beginner's Guide  Capturing YouTube Videos as Screencasts Without Payment for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-cinematiccapture-easy-screen-recorder-for-win11-pcs/"><u>[New] CinematicCapture  Easy Screen Recorder for Win11 PCs</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-epic-viewership-winners-youtubes-ultimate-list-for-2024/"><u>[New] Epic Viewership Winners  YouTube's Ultimate List for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-boosting-youtube-traffic-perfecting-titles-and-tags-for-max-views/"><u>[New] In 2024, Boosting YouTube Traffic  Perfecting Titles & Tags for Max Views</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-diy-split-screen-video-tutorials-for-youtube-enthusiasts/"><u>[New] In 2024, DIY Split-Screen Video Tutorials for YouTube Enthusiasts</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-virality-to-value-ajays-playbook-for-profitable-content-creation/"><u>[New] In 2024, From Virality to Value  Ajay’s Playbook for Profitable Content Creation</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-the-path-to-popularity-making-videos-go-viral/"><u>[New] The Path to Popularity  Making Videos Go Viral</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-understanding-how-youtube-processes-videos-after-they-are-uploaded/"><u>[New] Understanding How YouTube Processes Videos After They Are Uploaded</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-youtube-soundwaves-flow-into-imovie-effortlessly/"><u>[New] YouTube Soundwaves Flow Into iMovie Effortlessly</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-best-iphone-and-android-photo-and-video-capture-applications-reviewed/"><u>[Updated] 2024 Approved  Best iPhone & Android Photo & Video Capture Applications Reviewed</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-channel-transformation-optimal-video-concepts-to-elevate-creativity/"><u>[Updated] 2024 Approved  Channel Transformation  Optimal Video Concepts to Elevate Creativity</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-deceptions-toll-consequences-of-fake-supporters-in-video-markets/"><u>[Updated] 2024 Approved  Deception's Toll  Consequences of Fake Supporters in Video Markets</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-an-in-depth-look-at-video-apps-for-iphone-and-android-users-for-2024/"><u>[Updated] An In-Depth Look at Video Apps for iPhone & Android Users for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-crafting-intriguing-youtube-intros-without-spending-for-2024/"><u>[Updated] Crafting Intriguing YouTube Intros Without Spending for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-8-best-mirrorless-cameras-vloggers-should-know/"><u>[Updated] In 2024, 8 Best Mirrorless Cameras Vloggers Should Know</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-aesthetic-alignment-for-online-glamour-content/"><u>[Updated] In 2024, Aesthetic Alignment for Online Glamour Content</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-effortless-music-extraction-choose-the-right-apps-for-youtube-and-mp3/"><u>[Updated] In 2024, Effortless Music Extraction  Choose the Right Apps for YouTube & MP3</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-elevate-your-daily-blog-key-practices-and-avoidance-tactics/"><u>[Updated] In 2024, Elevate Your Daily Blog  Key Practices and Avoidance Tactics</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-formulating-final-fact-finding-flourishes/"><u>[Updated] In 2024, Formulating Final Fact-Finding Flourishes</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-finding-the-perfect-pitch-discover-no-cost-voice-alteration-apps/"><u>2024 Approved  Finding the Perfect Pitch  Discover No-Cost Voice Alteration Apps</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-pro-tools-pro-results-elevating-video-quality-in-youtube-editing/"><u>2024 Approved  Pro Tools, Pro Results  Elevating Video Quality in YouTube Editing</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/2024-approved-youtubes-top-5-apps-that-trim-your-long-video-links-down/"><u>2024 Approved  Youtube’s Top 5 Apps That Trim Your Long Video Links Down</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/2024-approved-adaptive-audio-quality-reduction-in-adobe-rushs-2023-version/"><u>2024 Approved Adaptive Audio Quality Reduction in Adobe Rushs 2023 Version</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/achieve-excellence-in-google-meet-hostparticipant-at-no-cost/"><u>Achieve Excellence in Google Meet (Host/Participant) at No Cost</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/beyond-the-leading-films-hidden-cinema-treasures/"><u>Beyond the Leading Films  Hidden Cinema Treasures</u></a></li>
+<li><a href="https://games-able.techidaily.com/inaudible-console-setup-for-xbox-fans/"><u>Inaudible Console Setup for Xbox Fans</u></a></li>
+<li><a href="https://extra-information.techidaily.com/mastering-modern-photographys-dynamic-range-capabilities/"><u>Mastering Modern Photography's Dynamic Range Capabilities</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/one-connected-video-experience-joining-on-youtube-for-2024/"><u>One Connected Video Experience  Joining on YouTube for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/unleash-your-creativity-with-these-20-free-adobe-premiere-title-templates-2023-edition/"><u>Unleash Your Creativity with These 20 Free Adobe Premiere Title Templates (2023 Edition)</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/unveiling-snapchat-video-feeds-from-twitter-for-2024/"><u>Unveiling Snapchat Video Feeds From Twitter for 2024</u></a></li>
+</ul></div>

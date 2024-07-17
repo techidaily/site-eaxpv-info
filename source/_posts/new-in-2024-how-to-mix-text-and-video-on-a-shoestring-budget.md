@@ -1,7 +1,7 @@
 ---
 title: "[New] In 2024, How to Mix Text & Video on a Shoestring Budget"
-date: 2024-06-06T13:35:25.088Z
-updated: 2024-06-07T13:35:25.088Z
+date: 2024-07-16T01:48:23.535Z
+updated: 2024-07-17T01:48:23.535Z
 tags:
   - ai video
   - ai youtube
@@ -18,6 +18,9 @@ thumbnail: https://thmb.techidaily.com/286866a306a63ee3881a3e82bbbdfd6a5621a0735
 
 # How to Add Video to Text
 
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
 
 ##### Liza Brown
@@ -38,22 +41,34 @@ You should start by creating a new slide and adding a textbox to it. Proceed to 
 
 Head over to the Insert tab, select Rectangle from the Shapes menu, and create a rectangular shape over the entire slide. Right-click on the slide and choose the Send to Back option from the menu. In this manner, you will position the rectangle you created behind the textbox.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Add video to text - Powerpoint- insert shape](https://images.wondershare.com/filmora/article-images/insert-rectangle-shape.jpg)
 
 The next step you will have to take is to create the cut-out of the text within the rectangle. Select both the text and shape you placed in the background before clicking on the Format tab that is located near the end of PowerPoint’s ribbon.
 
 Find the Insert Shape option and choose Subtract from the Merge Shapes drop-down menu. The shape of the text in the textbox will be applied to the object in the background, which enables you to add a video to that text.
 
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Add video to text - Powerpoint- substract](https://images.wondershare.com/filmora/article-images/subtract-from-merge-shapes.jpg)
 
 Click on the Insert tab, and then choose the Video option from the Media menu. You can [insert a video](https://tools.techidaily.com/wondershare/filmora/download/) that is stored on a local hard drive or the Internet to PowerPoint. The video will cover the entire slide, so you must right-click on it and select the Send to Back option.
 
 You can then fine-tune the video playback settings from the Playback tab. Preview the results before you move on to the next slide in your presentation, and make necessary adjustments if you don’t like how the video merged with the text.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Part 2: Adding Video to Text in Filmora
 
 Besides presentation software, you can also use video editing software products to add a video to text. Filmora lets you add a video to text in just a few simple steps. You can first make a text video with animation first, and then use the picture in picture feature to add the video to text. Here are the detailed information about how to add a video to text in Filmora.
 
+<!-- affiliate ads begin -->
+<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 [![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
 You should start by creating a new project in Filmora and importing the video you want to add to the text into the project. Click on the Titles tab, and choose the title that matches the visual style of your project.
@@ -99,6 +114,49 @@ Follow @Liza Brown
 
 # Best YouTube Video Promotion Services (Real)
 
+<!-- affiliate ads begin -->
+<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-live-stream-to-high-fidelity-choosing-budget-friendly-wav-tools/"><u>[New] 2024 Approved  From Live Stream to High Fidelity  Choosing Budget-Friendly WAV Tools</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-oven-to-screen-cooking-videos-unveiled/"><u>[New] 2024 Approved  From Oven to Screen  Cooking Videos Unveiled</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-guide-to-streamline-yt-playlist-integration-in-htmlcss/"><u>[New] 2024 Approved  Guide to Streamline YT Playlist Integration in HTML/CSS</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-hashtag-mastery-pathway-to-6-figure-youtube-impact/"><u>[New] 2024 Approved  Hashtag Mastery  Pathway to 6-Figure Youtube Impact</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-clear-the-clutter-blurring-backgrounds-for-engaging-yt/"><u>[New] 2024 Approved  How to Clear the Clutter  Blurring Backgrounds for Engaging YT</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-mergecombinejoin-youtube-flv-videos/"><u>[New] 2024 Approved  How to Merge/Combine/Join YouTube (FLV) Videos</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-safely-increase-your-youtube-fanbase-to-one-million/"><u>[New] 2024 Approved  How to Safely Increase Your YouTube Fanbase To One Million</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-stand-out-yt-thumbnail-size-and-engagement-strategies/"><u>[New] 2024 Approved  How to Stand Out  YT Thumbnail Size and Engagement Strategies</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-fonts-that-make-a-difference-your-20-best-choices-for-2024/"><u>[New] Fonts That Make a Difference  Your 20 Best Choices for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-fresh-face-finds-budget-friendly-platforms-to-purchase-for-2024/"><u>[New] Fresh Face Finds  Budget-Friendly Platforms to Purchase for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-from-average-to-exceptional-discover-the-finest-free-intra-designs-for-2024/"><u>[New] From Average to Exceptional  Discover the Finest Free Intra Designs for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-fueling-inspiration-crafting-engaging-channel-content-for-2024/"><u>[New] Fueling Inspiration  Crafting Engaging Channel Content for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-hone-your-livestream-skills-on-youtubes-premier-platform-for-2024/"><u>[New] Hone Your Livestream Skills on YouTube's Premier Platform for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-harnessing-success-with-freefire-hashtag-tips/"><u>[Updated] 2024 Approved  Harnessing Success with FreeFire Hashtag Tips</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-seamlessly-upload-videos-onto-youtubes-platform/"><u>[Updated] 2024 Approved  How to Seamlessly Upload Videos Onto YouTube's Platform</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-successfully-upload-elongated-youtube-clips/"><u>[Updated] 2024 Approved  How to Successfully Upload Elongated YouTube Clips</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-faster-adjustment-of-youtube-videos-for-mac-pixels-for-2024/"><u>[Updated] Faster Adjustment of YouTube Videos for Mac Pixels for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-guide-eradicating-pending-videos-on-your-youtube-queue-for-2024/"><u>[Updated] Guide  Eradicating Pending Videos on Your YouTube Queue for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-harnessing-online-platforms-beyond-youtube-to-30plus-communities-for-2024/"><u>[Updated] Harnessing Online Platforms  Beyond YouTube to 30+ Communities for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-high-definition-ready-enabling-av1-on-youtube-for-2024/"><u>[Updated] High Definition Ready  Enabling AV1 on YouTube for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-live-stream-to-youtube-with-wirecast-for-2024/"><u>[Updated] How to Live Stream to Youtube with Wirecast for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-good-to-great-elevate-reactions-in-youtube-videos-with-these-3-strategies/"><u>[Updated] In 2024, From Good to Great  Elevate Reactions in YouTube Videos with These 3 Strategies</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-gags-and-grins-techniques-in-parody-production/"><u>[Updated] In 2024, Gags and Grins  Techniques in Parody Production</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-make-a-youtube-subscribe-link-easy/"><u>[Updated] In 2024, How to Make a YouTube Subscribe Link - Easy</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-streamline-the-integration-of-youtube-playlists-into-a-sites-layout/"><u>[Updated] In 2024, How To Streamline the Integration of YouTube Playlists Into a Site's Layout</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-the-essential-user-manual-for-music-licensing-on-insta/"><u>[Updated] In 2024, The Essential User Manual for Music Licensing on Insta</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-streamlining-your-social-media-presence-with-zoom-and-fb-live/"><u>2024 Approved  Streamlining Your Social Media Presence with ZOOM & FB Live</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-surviving-splashes-top-7-action-cam-selection/"><u>2024 Approved  Surviving Splashes  Top 7 Action Cam Selection</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/3-easy-solutions-to-hard-reset-tecno-spark-20c-drfone-by-drfone-reset-android-reset-android/"><u>3 Easy Solutions to Hard Reset Tecno Spark 20C | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/4-ways-to-fix-android-blue-screen-of-death-on-samsung-galaxy-xcover-6-pro-tactical-edition-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Ways to Fix Android Blue Screen of Death On Samsung Galaxy XCover 6 Pro Tactical Edition | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/choosing-prime-top-8-budget-friendly-srt-translator-tools-for-2024/"><u>Choosing Prime  Top 8 Budget-Friendly SRT Translator Tools for 2024</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/does-samsung-galaxy-s21-fe-5g-2023-has-native-hevc-support-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>Does Samsung Galaxy S21 FE 5G (2023) has native HEVC support?</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-audioadvisor-dacast-and-what-it-should-be/"><u>In 2024, AudioAdvisor  DaCast & What It Should Be</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-effective-techniques-for-utilizing-the-voice-memo-on-samsungs-latest-models-for-2024/"><u>Updated Effective Techniques for Utilizing the Voice Memo on Samsungs Latest Models for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/updated-nvidia-geforce-210-supports-win11/"><u>Updated NVIDIA GeForce 210 Supports Win11</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/why-does-the-pokemon-go-battle-league-not-available-on-nubia-red-magic-8s-pro-drfone-by-drfone-virtual-android/"><u>Why does the pokemon go battle league not available On Nubia Red Magic 8S Pro | Dr.fone</u></a></li>
+</ul></div>

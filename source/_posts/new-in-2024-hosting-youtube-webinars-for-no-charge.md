@@ -1,7 +1,7 @@
 ---
 title: "[New] In 2024, Hosting YouTube Webinars for No Charge"
-date: 2024-06-06T15:12:02.869Z
-updated: 2024-06-07T15:12:02.869Z
+date: 2024-07-16T04:12:06.707Z
+updated: 2024-07-17T04:12:06.707Z
 tags:
   - ai video
   - ai youtube
@@ -45,8 +45,14 @@ For Win 7 or later (64-bit)
 
 For macOS 10.12 or later
 
-![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg)Secure Download
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg) Secure Download
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Hosting a Webinar for Free
 
 The world's largest video sharing platform also features broadcasting options that enable its users to schedule events and thus host webinars free of charge. Previously known as the Google Hangouts on Air, the YouTube Live feature is fairly simple to set up, but before you start your first webinar you will need to choose a landing page and a chatbox. If you already have a website you can simply copy and paste the embed link and create a landing page for your webinar, or you can use landing pages software products such as [LeadPages](https://www.leadpages.net/) or [Unbounce](https://unbounce.com/) if you don't have your own online domain. For setting up chatboxes for your webinars we recommend using [Chatroll](https://chatroll.com/) or [RumbleTalk](https://www.rumbletalk.com/) platforms, although you'll have to pay a fee if you choose to chat with your audience using these computer programs. So here's how you can host your first webinar on YouTube for free.
@@ -75,6 +81,9 @@ Hit the Go Live Now button, when you are ready to start your first webinar and e
 
  **Read More to Get :** [10 Best Free Video Hosting Sites for Private/Business Online](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 Max Wales
@@ -90,6 +99,9 @@ Follow @Max Wales
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
+<!-- affiliate ads end -->
 ## Home Studio Heroics: Your Path to Effectful Artistry
 
 # How to Animate and Make Your Own Effects
@@ -122,24 +134,39 @@ In this post, we’re going to kick things up a bit. Here is a list of places wh
 
  All of these resources will teach Adobe After Effects, or a similar paid software. If you do not have access to Adobe After Effects, you might want to check out our post on [affordable animation software for video creators](https://www.filmora.io/community-blog/free-or-cheap-animation-software-for-video-creators-122.html).
 
-## **[Mt. Mograph](https://www.youtube.com/channel/UCSUSgx9qc%5FNydrOL59xbJIA)**
+## ** Mt. Mograph
 
 On this YouTube channel, motion graphics specialist Matt offers free animation tutorials using a variety of programs including Adobe After Effects and Cinema 4D. His lessons are for a range of skill levels, from beginner to advanced. If you are just starting out then Mt.Mograph is a great resource.
 
-## **[Richard Harrington on Lynda](https://www.lynda.com/Rich-Harrington/120-1.html)**
+## ** Richard Harrington on Lynda
 
 Lynda isn’t free, but the 10-day free trial period is definitely long enough for you to watch this two-hour course.
 
 What’s great about this course is that it assumes you have no animation experience, and it walks you through the main thing a lot of YouTubers want to learn animation for – creating an animated logo.
 
-## **[Bloop Animation](https://www.bloopanimation.com/)**
+## ** Bloop Animation
 
  Most of the video animation courses on this site are paid, but they have a lot of cool free tutorials as well. The focus is more on animating figures/cartoons than video effects, but if you have any interest in animation more generally then this is a great place to start learning. They even have a free ebook you can download which is targeted at beginners.
 
-## **[Video Copilot](http://www.videocopilot.net/)**
+<!-- affiliate ads begin -->
+<span id="1793213">
+					<video width="1080" height="1620" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## ** Video Copilot
 
 This site has a huge number of free After Effects tutorials. There are basic introductory lessons, and really advanced classes on creating custom cinematic FX, like explosions. There’s even a playlist on title design, which will be useful for anyone looking to create an intro sequence for their videos.
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 Richard Bennett
@@ -157,3 +184,45 @@ Follow @Richard Bennett
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-final-goodbye-to-youtubes-minis-a-step-by-step-process/"><u>[New] 2024 Approved  Final Goodbye to YouTube's Minis  A Step-by-Step Process</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-fading-to-flourishing-top-strategies-for-overcoming-zero-views/"><u>[New] 2024 Approved  From Fading to Flourishing  Top Strategies for Overcoming Zero Views</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-google-meet-on-youtube-streaming-made-easy-step-by-step/"><u>[New] 2024 Approved  Google Meet on YouTube  Streaming Made Easy, Step by Step</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-harnessing-monetization-potential-with-youtube-ad-strategies/"><u>[New] 2024 Approved  Harnessing Monetization Potential with YouTube Ad Strategies</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-make-your-youtube-moments-come-alive-creating-dynamic-gifs/"><u>[New] 2024 Approved  How to Make Your YouTube Moments Come Alive  Creating Dynamic GIFs</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-from-penniless-to-partnered-a-small-channels-journey-for-2024/"><u>[New] From Penniless to Partnered  A Small Channel's Journey for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-fun-flicks-online-must-see-comedy-streaming-stations-for-2024/"><u>[New] Fun Flicks Online  Must-See Comedy Streaming Stations for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-game-modders-and-tutorial-content-leaders-for-2024/"><u>[New] Game Modders & Tutorial Content Leaders for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-generate-interest-making-your-own-youtube-intros-for-2024/"><u>[New] Generate Interest  Making Your Own YouTube Intros for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-giggles-guidebook-planning-7-funny-video-frameworks-for-2024/"><u>[New] Giggles Guidebook  Planning 7 Funny Video Frameworks for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-growth-gamble-buying-popularity-or-authentic-audience-expansion-for-2024/"><u>[New] Growth Gamble  Buying Popularity or Authentic Audience Expansion for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-harnessing-hdr-in-post-top-4-youtube-guides-with-complimentary-green-screen-effects-for-2024/"><u>[New] Harnessing HDR in Post  Top 4 YouTube Guides with Complimentary Green Screen Effects for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-high-end-sound-pumping-tools-pcs-and-smartphones-for-2024/"><u>[New] High-End Sound Pumping Tools  PCs & Smartphones for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-hit-the-jackpot-of-humor-craft-top-tier-youtube-reaction-videos-3-techniques-for-2024/"><u>[New] Hit the Jackpot of Humor – Craft Top-Tier YouTube Reaction Videos (3 Techniques) for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-how-much-do-you-earn-when-a-million-watch-youtube-in-2024/"><u>[New] How Much Do You Earn When a Million Watch Youtube, In 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-flavorful-funnels-catchy-recipe-channels-that-work/"><u>[New] In 2024, Flavorful Funnels  Catchy Recipe Channels That Work</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-frame-it-right-essential-composition-rules-for-youtube-filmmaking/"><u>[New] In 2024, Frame It Right  Essential Composition Rules for YouTube Filmmaking</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-stir-to-screen-masterful-cooking-videos/"><u>[New] In 2024, From Stir to Screen  Masterful Cooking Videos</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-funny-flicks-compilation-of-chuckle-inducing-short-youtube-videos/"><u>[New] In 2024, Funny Flicks  Compilation of Chuckle-Inducing Short YouTube Videos</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-gamer-tested-streaming-software-picks/"><u>[New] In 2024, Gamer-Tested Streaming Software Picks</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-hacking-the-process-instant-deletion-on-youtube/"><u>[New] In 2024, Hacking the Process  Instant Deletion on Youtube</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-master-vlc-tips-revealing-unknown-features/"><u>[New] Master VLC Tips  Revealing Unknown Features</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-charting-your-course-in-the-realm-of-youtube-shorts/"><u>[Updated] 2024 Approved  Charting Your Course in the Realm of YouTube Shorts</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-all-about-dji-inspire-1-in-depth-analysis/"><u>[Updated] All About  DJI Inspire 1 in Depth Analysis</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-can-you-make-outstanding-youtube-outro/"><u>[Updated] In 2024, How Can You Make Outstanding YouTube Outro?</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-top-10-igtv-channels-you-should-start-following-now-for-2024/"><u>[Updated] Top 10 IGTV Channels You Should Start Following Now for 2024</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-quick-tips-for-embedding-timestamps-into-youtube-videos/"><u>2024 Approved  Quick Tips for Embedding Timestamps Into YouTube Videos</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-simplify-satire-funniest-memes-made-simple/"><u>2024 Approved  Simplify Satire  Funniest Memes Made Simple</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/androids-pinnacle-podcast-platforms-your-essential-six-pack/"><u>Android's Pinnacle Podcast Platforms  Your Essential Six-Pack</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-remove-passcode-from-apple-iphone-xs-complete-guide-by-drfone-ios/"><u>How To Remove Passcode From Apple iPhone XS? Complete Guide</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-5-ways-to-transfer-files-to-your-computer/"><u>In 2024, 5 Ways To Transfer Files To Your Computer</u></a></li>
+<li><a href="https://techidaily.com/repair-damaged-unplayable-video-files-of-a59-5g-by-stellar-video-repair-mobile-video-repair/"><u>Repair damaged, unplayable video files of A59 5G</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ull-time-employees-guide-to-video-content-success-for-2024/"><u>The Full-Time Employee's Guide to Video Content Success for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/unleash-creativity-the-ultimate-selection-of-online-jpg-to-gif-tools-for-2024/"><u>Unleash Creativity  The Ultimate Selection of Online JPG to GIF Tools for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-2024-approved-how-to-make-a-gaming-montage-guide-and-tips/"><u>Updated 2024 Approved How to Make a Gaming Montage - Guide & Tips</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-2024-approved-premiere-pairing-programs-ultimate-beat-match-video-editor-companion-2023/"><u>Updated 2024 Approved Premiere Pairing Programs Ultimate Beat Match Video Editor Companion, 2023</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-enhancing-recordings-with-autotune-on-audacity-detailed-instructions-ready-to-go/"><u>Updated Enhancing Recordings with Autotune on Audacity Detailed Instructions Ready to Go</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-how-to-create-motion-text-effects-for-your-video-for-2024/"><u>Updated How to Create Motion Text Effects for Your Video for 2024</u></a></li>
+</ul></div>

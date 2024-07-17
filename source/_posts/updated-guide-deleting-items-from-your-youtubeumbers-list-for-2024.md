@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Guide  Deleting Items From Your YouTube'umbers List for 2024\""
-date: 2024-06-06T15:29:36.642Z
-updated: 2024-06-07T15:29:36.642Z
+date: 2024-07-16T04:38:40.630Z
+updated: 2024-07-17T04:38:40.630Z
 tags:
   - ai video
   - ai youtube
@@ -58,11 +58,14 @@ Step1 In the first step, launch the [**Google Chrome**](https://www.google.com/i
 
 Step2 Now, hit the **"Ctrl + Shift + J"** keys on Windows or the **"Command + Option+ J"** buttons on Mac to launch the developer mode and open the console window.
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![using script to clear watch later](https://images.wondershare.com/filmora/article-images/2023/03/using-script-to-clear-watch-later.png)
 
 Step3 Copy and paste the following lines of the script at the end of the line under the Console tab where the cursor is blinking.
 
-setInterval(function () { document.querySelector('#primary button\[aria-label="Action menu"\]').click(); var things = document.evaluate( '//span\[contains(text(),"Remove from")\]', document, null, XPathResult.ORDERED\_NODE\_SNAPSHOT\_TYPE, null ); for (var i = 0; i < things.snapshotLength; i++) { things.snapshotItem(i).click(); } }, 1000);
+setInterval(function () { document.querySelector('#primary button\[aria-label="Action menu"\]').click(); var things = document.evaluate('//span\[contains(text(),"Remove from")\]', document, null, XPathResult.ORDERED\_NODE\_SNAPSHOT\_TYPE, null ); for (var i = 0; i < things.snapshotLength; i++) { things.snapshotItem(i).click(); } }, 1000);
 
 Step4 In the last step, hit the **"Enter"** key to clear the Watch Later Playlist on YouTube. However, the process may take some time, depending on the number of videos in your playlist.
 
@@ -74,6 +77,9 @@ You can also replace the number at the end of the script with a lower entry to d
 
 **Note:** It is important to note that experimenting with scripts is only for some. The script above has been confirmed to work, but others still need to be thoroughly checked and could potentially damage your computer. To prevent this from happening, only look for scripts from reliable sources instead of those posted by random people in various forums.
 
+<!-- affiliate ads begin -->
+<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
+<!-- affiliate ads end -->
 ### How To Delete YouTube Watch Later Playlist On YouTube App?
 
 If you are using YouTube on an Android or iOS device, it is possible to clear the Watch Later Playlist by doing the steps below:
@@ -82,10 +88,16 @@ Step1 In the first step, **swipe up** on the Homescreen of your Android device o
 
 Step2 Now, tap the **"Library"** option in the bottom-right corner of the screen and tap **"Watch Later."**
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![accessing the watch later playlist](https://images.wondershare.com/filmora/article-images/2023/03/accessing-the-watch-later-playlist.png)
 
 Step3 Next, tap the three dots (vertical ellipses) icon on the top-right side of the screen and choose the **"Remove Watched Videos"** option to delete them from the playlist.
 
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![clearing watch later on youtube app](https://images.wondershare.com/filmora/article-images/2023/03/clearing-watch-later-on-youtube-app.png)
 
 Step4 If there are still unwatched videos in the playlist, select a video and tap the three dots next to it. Now, tap the **"Remove from Watch Later"** option. Repeat the process to remove all the unwatched videos to clear the playlist.
@@ -98,6 +110,9 @@ Now that you've learned how you can clear the Watch Later playlist on YouTube, y
 
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Bonus Video Tutorial: From a User to a Creator, How To Edit YouTube Videos Like a Pro
 
 Hopefully, you have found the most appropriate solution to clear your YouTube Watcher Later playlist. However, while you are a YouTube user, how can you transfer your character from a user to a creator? In this video era, why not participate in the creation party and be one of them?
@@ -158,6 +173,9 @@ This guide was informative enough to answer most of your queries, and after read
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## The Ultimate Hack: Swiftly Delete Your YouTube Comments
 
 # Deleting YouTube Comments
@@ -184,7 +202,7 @@ So how do you delete all YouTube comments? In this how-to blog, we will show you
 
 In this section, we will tell you how you can do it from your desktop.
 
-1. Go to[https://www.youtube.com/](https://www.youtube.com/) from your desktop browser and log in.
+1. Go to [https://www.youtube.com/](https://www.youtube.com/) from your desktop browser and log in.
 2. Once you log in, you need to go to your channel. For this, you can select the My Channel option from the upper-left side of your YouTube home page.
 3. From the list of your videos, select the one you need and scroll down to reach the comment you want to delete.
 4. When you locate the comment, click on the three vertical dots on the right-hand side of the comment. From the drop-down list, click on Remove. The process is complete, and YouTube will remove your comment.
@@ -201,18 +219,24 @@ The steps to deleting someone else’s YouTube comments from your mobile are sim
 4. Once you reach the target comment, click on the three vertical dots at the bottom corner. There should be an option called Remove. Tap on it.
 5. This will create another dialog box on the mobile app where you have to click on Remove again to delete the comment.
 
+<!-- affiliate ads begin -->
+<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How Do You Delete Your Comments from YouTube?
 
 Have you accidentally posted something on a YouTuber’s channel? Are you anxious because you cannot find the comment and delete it?
 
 Fear not. Read on to know how to **delete all comments you posted on someone else’s YouTube channel** from your desktop.
 
-1. Visit[https://www.youtube.com/](https://www.youtube.com/) from your desktop and then sign in YouTube channel.
+1. Visit [https://www.youtube.com/](https://www.youtube.com/) from your desktop and then sign in YouTube channel.
 2. If your YouTube account is not open, tap on Sign in and enter your email and password to log in to your account.
-3. Once there, you need to access your Comment History page. To do this, you can click on the three horizontal lines at the top left corner of your YouTube homepage. Click on History. On the page that opens, click Comments from the panel on the right. It will direct you to your Comment History page. You can also access the YouTube comment history from[here](https://www.youtube.com/feed/history/comment%5Fhistory).
+3. Once there, you need to access your Comment History page. To do this, you can click on the three horizontal lines at the top left corner of your YouTube homepage. Click on History. On the page that opens, click Comments from the panel on the right. It will direct you to your Comment History page. You can also access the YouTube comment history from [here](https://www.youtube.com/feed/history/comment%5Fhistory).
 1. When you reach the Comment History page, you will be able to find all comments you have ever posted. Scroll down to the comment you want to delete.
 2. Click on the three vertical dots that you see beside the target comment. You will find a Delete option. Tap on it, and confirm that you want to delete the comment. That completes the process. No more embarrassing comments!
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ## How Do You Delete Your Comments from Your Phone?
 
 Don’t have a desktop handy? This section will tell you how you can delete your comments you posted on your or someone else’s YouTube video from your mobile.
@@ -245,7 +269,7 @@ To find your History from your desktop, you need to click on the three horizonta
 2. Once you find your target comment, click on the three vertical dots that appear on its right side. You will find the Report option from the pop-up menu. Click on that.
 3. When you tap Report, another dialogue box will appear. From the list of options, choose the most appropriate option, tap on Report at the lower right corner of the pop-up, and complete the process. YouTube will do the rest.
 
-![ Report YouTube comments](https://images.wondershare.com/filmora/article-images/report-youtube-comment.jpg)
+![Report YouTube comments](https://images.wondershare.com/filmora/article-images/report-youtube-comment.jpg)
 
 ## How to Delete All Your Posted YouTube Comments?
 
@@ -254,18 +278,27 @@ You can also delete all comments you ever posted on any YouTube video by hiding 
 1. You need to go to YouTube from your desktop and sign in to your account.
 2. Next, you can either click on the profile icon at the top right corner or the three horizontal lines beside the YouTube logo on your homepage. From the list of options, click Settings.
 
-![   YouTube Settings](https://images.wondershare.com/filmora/article-images/two-ways-settings-youtube-channel.jpg)
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![YouTube Settings](https://images.wondershare.com/filmora/article-images/two-ways-settings-youtube-channel.jpg)
 
-1. YouTube will direct you to the Settings page of your account. Choose Advanced Settings from the list on your left. You can also access it from[here](https://www.youtube.com/account%5Fadvanced).
+1. YouTube will direct you to the Settings page of your account. Choose Advanced Settings from the list on your left. You can also access it from [here](https://www.youtube.com/account%5Fadvanced).
 
-![   YouTube Advanced  Settings](https://images.wondershare.com/filmora/article-images/youtube-advanced-settings.jpg)
+![YouTube Advanced  Settings](https://images.wondershare.com/filmora/article-images/youtube-advanced-settings.jpg)
 
 1. Scroll down and select Delete Channel. Clicking it will not delete your account. When you click on Delete Channel, you will get two choices – ‘I want to hide my channel’ and ‘I want to permanently delete my content’. Select the first.
 
-![   YouTube Settings](https://images.wondershare.com/filmora/article-images/remove-youtube-content.jpg)
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![YouTube Settings](https://images.wondershare.com/filmora/article-images/remove-youtube-content.jpg)
 
 1. YouTube will now show you what will happen when you hide your channel. Check all the boxes to confirm that you understand, and then tap on Hide My Channel. YouTube will now delete all comments made by your account.
 
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Final Thoughts
 
 YouTube can be an unsafe place with unwanted comments everywhere. In this blog, we tried to show how you can get rid of comments on your and on others’ YouTube accounts. The next time you see an offensive comment or post something mistakenly, don’t forget to try our tips and make YouTube a safe platform again.
@@ -287,3 +320,41 @@ Follow @Richard Bennett
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-web.techidaily.com/024-approved-effortless-guide-never-see-youtube-shorts-again/"><u>[New] 2024 Approved  Effortless Guide  Never See YouTube Shorts Again</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-innovate-transforming-raw-footage-into-youtube-thumbnails-via-smartphones/"><u>[New] 2024 Approved  How to Innovate  Transforming Raw Footage Into YouTube Thumbnails via Smartphones</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-from-zero-to-youtube-pros-creating-an-account-rightly-for-2024/"><u>[New] From Zero to YouTube Pros  Creating an Account Rightly for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-fitness-forward-6-video-concepts-to-energize-your-online-community/"><u>[New] In 2024, Fitness Forward  6 Video Concepts to Energize Your Online Community</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-fostering-self-assurance-against-virtual-hostility/"><u>[New] In 2024, Fostering Self-Assurance Against Virtual Hostility</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-streaming-video-how-to-get-youtube-thumbnail-files-onlineos-wise/"><u>[New] In 2024, From Streaming Video  How to Get YouTube Thumbnail Files Online/OS-Wise</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-views-to-valuables-the-ultimate-video-income-play/"><u>[New] In 2024, From Views to Valuables  The Ultimate Video Income Play</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-cutting-edge-tips-for-using-colored-backdrops-in-video-making-for-2024/"><u>[Updated] Cutting-Edge Tips for Using Colored Backdrops in Video Making for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-fixing-non-appearing-thumbnails-in-youtube-shorts-for-2024/"><u>[Updated] Fixing Non-Appearing Thumbnails in YouTube Shorts for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-from-audio-to-action-mp3-to-youtube-conversion-journey-for-2024/"><u>[Updated] From Audio to Action  MP3-to-YouTube Conversion Journey for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-gamers-ultimate-guide-selecting-the-best-video-card-brands-for-2024/"><u>[Updated] Gamer’s Ultimate Guide  Selecting the Best Video Card Brands for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-growth-in-focus-building-a-foundation-of-youtube-backlinks-for-2024/"><u>[Updated] Growth in Focus  Building a Foundation of YouTube Backlinks for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-harness-the-full-potential-of-your-youtube-content-using-wmm-for-2024/"><u>[Updated] Harness the Full Potential of Your YouTube Content Using WMM for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-harnessing-the-potential-of-youtube-shorts-advertising-for-2024/"><u>[Updated] Harnessing the Potential of YouTube Shorts Advertising for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-acquire-standardized-thumbnails-from-youtube-online-and-desktop-options-for-2024/"><u>[Updated] How To Acquire Standardized Thumbnails From Youtube  Online & Desktop Options for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-see-your-subscribers-on-youtube-for-2024/"><u>[Updated] How to See Your Subscribers on YouTube for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-camera-roll-to-youtube-posting-short-clips-seamlessly/"><u>[Updated] In 2024, From Camera Roll to YouTube  Posting Short Clips Seamlessly</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-guide-to-secure-and-cost-free-youtube-music-extraction/"><u>[Updated] In 2024, Guide to Secure and Cost-Free YouTube Music Extraction</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-often-can-creators-expect-to-be-paid-by-youtube/"><u>[Updated] In 2024, How Often Can Creators Expect to Be Paid by YouTube?</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-the-ultimate-guide-to-switch-game-screencasting/"><u>[Updated] In 2024, The Ultimate Guide to Switch Game Screencasting</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-troubleshooting-techniques-for-optimized-video-shorts/"><u>[Updated] Troubleshooting Techniques for Optimized Video Shorts</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-turbo-charge-your-playlist-exposure-youtube-style/"><u>[Updated] Turbo-Charge Your Playlist Exposure, YouTube Style</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-license-free-meditation-songs-your-ultimate-selection/"><u>2024 Approved  License-Free Meditation Songs – Your Ultimate Selection</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/forgotten-the-voicemail-password-of-vivo-y78t-try-these-fixes-by-drfone-android/"><u>Forgotten The Voicemail Password Of Vivo Y78t? Try These Fixes</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/from-viewer-to-voyager-in-depth-guide-for-captivating-live-tv-on-your-pc-for-2024/"><u>From Viewer to Voyager  In-Depth Guide for Captivating Live TV on Your PC for 2024</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-poco-c51-by-phone-number-drfone-by-drfone-virtual-android/"><u>How to Track Poco C51 by Phone Number | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-5-ways-to-track-oppo-find-x7-ultra-without-app-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Ways to Track Oppo Find X7 Ultra without App | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-whatsapp-messages-on-xiaomi-redmi-note-12-4g-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track WhatsApp Messages on Xiaomi Redmi Note 12 4G Without Them Knowing? | Dr.fone</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-mastering-handheld-shots-no-tripod-necessary/"><u>In 2024, Mastering Handheld Shots  No Tripod Necessary</u></a></li>
+<li><a href="https://facebook.techidaily.com/instagram-20-redux-a-strategic-makeover/"><u>Instagram 2.0 Redux: A Strategic Makeover?</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/instagram-collage-hacks-unveiled/"><u>Instagram Collage Hacks Unveiled</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-the-best-lego-stop-motion-channels-to-follow-for-2024/"><u>New The Best Lego Stop Motion Channels to Follow for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/securing-your-audio-library-the-top-5-steps-for-internet-radio-storage/"><u>Securing Your Audio Library  The Top 5 Steps for Internet Radio Storage</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-crafting-the-ideal-playlist-advanced-methods-for-editing-and-enhancing-mp3-files-for-2024/"><u>Updated Crafting the Ideal Playlist Advanced Methods for Editing and Enhancing MP3 Files for 2024</u></a></li>
+</ul></div>

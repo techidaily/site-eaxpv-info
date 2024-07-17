@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  From Vlogs to Virality  Jake Paul, the Online Phenomenon\""
-date: 2024-06-06T15:54:22.979Z
-updated: 2024-06-07T15:54:22.979Z
+date: 2024-07-16T05:15:57.964Z
+updated: 2024-07-17T05:15:57.964Z
 tags:
   - ai video
   - ai youtube
@@ -42,6 +42,9 @@ For the majority of his years in school, Jake was the class clown. As he got old
 
 But before Jake fully invested his energy into training for the U.S. Navy SEALS, his brother, Logan, convinced him to make videos with him again (by this time, Logan had already built up a large following on Vine, the short-form video hosting service).
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
+<!-- affiliate ads end -->
 ![jake-paul-and-his-brother-logan-paul](https://images.wondershare.com/filmora/article-images/jake-paul-and-his-brother-logan-paul.jpg)
 
 Image resource: [BBC NEWS](https://www.bbc.com/news/av/world-us-canada-42548207/logan-and-jake-paul-the-brothers-dominating-social-media)
@@ -50,6 +53,9 @@ Together with his older brother Logan, Jake also amassed a large following and e
 
 Curious, young, and adventurous, at the age of seventeen, after discussing with his mother, Jake dropped out of high school, put aside his pursuit to join the Navy SEALs, and moved to Los Angeles without much of a plan.
 
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Jake Paul and Disney
 
 Not wasting a single day in L.A., Jake went straight to taking acting and improv classes, growing his social media, and networking with everyone he could meet in the entertainment industry. In 2015, Jake auditioned for Disney Channel's comedy series "Bizaardvark" and successfully landed the role of "Dirk." However, the Disney Channel grew more and more uncomfortable with Jake's growing image as an outrageous teenager. After Jake made it onto the KTLA 5 news for the noise complaints around his mansion, the Disney Channel fired him from Bizaardvark.
@@ -58,6 +64,9 @@ Not wasting a single day in L.A., Jake went straight to taking acting and improv
 
 Image resource:tubefilter.com
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### Team 10
 
 In 2016, with all of his many exciting experiences, Jake put together a humorous and motivational memoir titled "You Gotta Want It." As his own social media channels kept on growing rapidly, Jake launched "**Team 10**," his own influencer management agency comprised of other teen social media influencers. In order to collaborate with one another more easily, they all moved in together to a Beverly Grove mansion that rents for $17,000 USD a month. After Jake publicized his address, the mansion attracted so many fans that neighbors filed multiple noise complaints and even contemplated filing a class-action public nuisance lawsuit against Jake.
@@ -88,12 +97,15 @@ Jake has a very good understanding of who his audience is. He knows that his aud
 
 Jake made a serious commitment to delivering audience-centered content. Jake moved into a house full of other teenagers also committed to content creation, and they all filmed themselves doing pranks and stunts every day.
 
-### Get [the ultimate guide to growing your YouTube subscribers](https://tools.techidaily.com/wondershare/filmora/download/)
+### Get the ultimate guide to growing your YouTube subscribers
 
 Do you want to be a YouTuber? If you desire to be a YouTuber yet not knowing how to edit a video, please try this robust and user-friendly video editing software **Wondershare Filmora**. It provides special effects, stock photo & video, sound library, etc., which will definitely enhance your productivity and helps to make money by making videos much accessible.
 
 [![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 Richard Bennett
@@ -125,6 +137,9 @@ YouTube is a well-known brand for videos globally. This time, it comes with its 
 
 That sounds great, doesn’t it? Let’s move ahead to get a good grab over some funny, engaging, and eye-catching ideas to have YouTube Shorts videos here. No need for a lengthy tutorial to become the real YouTube Shorts champion with the following tips. Let’s roll on, guys!
 
+<!-- affiliate ads begin -->
+<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 1: Top 10 Funny YouTube Shorts Video Ideas
 
 Your wait gets over here. Yes, you heard it right. If you are eager to explore the world of YouTube Shorts Channel and some funny ideas, take a big leap towards your journey.
@@ -135,6 +150,9 @@ Then the right platform with a plethora of pictures is covered hereunder the fol
 
 Yeah! The first idea looks so catchy. Everyone holds some dreams. And if you have such beautiful dreams that you would like to share with your loved ones. Then YouTube Shorts ideas are the right platform full of views, likes, and lovers from around the world. Just give a thrust to it.
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![filmora](https://images.wondershare.com/filmora/youtube-shorts-ideas-2.jpg)
 
 Also, you can discuss different sorts of dreams that the human genre has been dreaming of for years. You can even add a flavor of future dreams that will open up the space of excellent speculation one can think of.
@@ -143,6 +161,9 @@ Also, you can discuss different sorts of dreams that the human genre has been dr
 
 Who doesn’t love the stories? Everyone is somewhat fond of listening to different kinds of stories. And, if you can trim those long stories into small ones or can create some short stories. Then, you can make the best YouTube Shorts stories ideas that will go a long way, not only kids but unique and exciting stories loved by all.
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![filmora](https://images.wondershare.com/filmora/youtube-shorts-ideas-3.jpg)
 
 So, pen down some compelling stories that do not need long writing work. But, like a comic strip, you need to create and join such a series under YouTube Shorts ideas.
@@ -169,6 +190,9 @@ Living every moment creates a wonder. Let others also make a part of this journe
 
 If experimenting with chemicals or anything that surrounds you makes you out of the world, then there is the chance that you can come out as YouTube Shorts ideas Star. By just showing how one chemical, when mixed with another, creates something new and marvelous to see, look or feel.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![filmora](https://images.wondershare.com/filmora/youtube-shorts-ideas-6.jpg)
 
 Just review all your collection of experiments you did and combine them under YouTube Shorts Channel ideas. And make a big bust with such chemical/physical experiments.
@@ -193,6 +217,9 @@ Just give it a try and dance with the music you create with all the worldwide li
 
 Kids love cartoons, but the hidden fact is that everyone enjoys watching cartoon or cartoon characters to a certain extent. Then why not try mimicking some cartoon characters. If you are a fun-loving person, and in your life, you mimic any person’s character, then try mimicking cartoon characters under YouTube Short Video ideas.
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![filmora](https://images.wondershare.com/filmora/youtube-shorts-ideas-9.jpg)
 
 Mixing some comedy flavor to life will add more fun and enjoyment to all those seeking funny moments to reflect their days. Come on; show up your humor with this unique style.
@@ -209,6 +236,18 @@ You will be surprised to see how much fun-loving these cute pets are—so, geare
 
 Everybody holds some unique talent. You just need to identify it. If you have some talent, then showcasing talent ideas for YouTube Shorts will apt you. The whole world is waiting to see something unique that only you can do. So, shred your shyness and let the world see how talented you are.
 
+<!-- affiliate ads begin -->
+<span id="1997795">
+					<video width="250" height="250" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![filmora](https://images.wondershare.com/filmora/youtube-shorts-ideas-11.jpg)
 
 Here, you got to know about the top 10 funny ideas for YouTube Shorts videos. Choose the one that fits you and start creating YouTube Shorts Channel with these ideas.
@@ -276,3 +315,42 @@ Follow @Shanoon Cox
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-efficient-methods-for-sharing-powerful-ppt-in-google-meet-sessions/"><u>[New] 2024 Approved  Efficient Methods for Sharing Powerful PPT in Google Meet Sessions</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-breaking-barriers-youtube-marketing-mastery-for-2024/"><u>[New] Breaking Barriers  YouTube Marketing Mastery for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-economical-audio-devices-for-vloggers-on-a-budget-for-2024/"><u>[New] Economical Audio Devices for Vloggers on a Budget for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-brain-mechanisms-guiding-high-stakes-business-conclusions/"><u>[New] In 2024, Brain Mechanisms Guiding High-Stakes Business Conclusions</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-charting-a-course-essential-equipment-for-youtube-enthusiasts/"><u>[New] In 2024, Charting a Course  Essential Equipment for YouTube Enthusiasts</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-pros-choice-the-best-screen-recorders-for-editing/"><u>[New] Pro's Choice  The Best Screen Recorders for Editing</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-tasteful-tactics-elevating-culinary-channel-monikers/"><u>[New] Tasteful Tactics  Elevating Culinary Channel Monikers</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-ultimate-gaming-queens-top-10-female-youtubers/"><u>[New] Ultimate Gaming Queens  Top 10 Female YouTubers</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-unified-media-playback-on-youtube-flv-files-tutorial/"><u>[New] Unified Media Playback on YouTube  FLV Files Tutorial</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-video-sharing-titans-ranking-vimeo-youtube-and-dailymotion/"><u>[New] Video-Sharing Titans  Ranking Vimeo, YouTube & Dailymotion</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-youtube-intros-unveiled-two-proven-ways-for-impact/"><u>[New] YouTube Intros Unveiled  Two Proven Ways for Impact</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-download-youtube-playlists-with-ease-our-instructions/"><u>[Updated] 2024 Approved  Download YouTube Playlists with Ease - Our Instructions</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-2024-approved-no-price-tag-on-adventure-top-10-gratuitous-online-rpgs/"><u>[Updated] 2024 Approved  No Price Tag On Adventure  Top 10 Gratuitous Online RPGs</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-affordable-advertising-streamlining-channel-sponsorship-partnerships-for-2024/"><u>[Updated] Affordable Advertising  Streamlining Channel-Sponsorship Partnerships for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-how-can-you-make-outstanding-youtube-outro-in-2024/"><u>[Updated] How Can You Make Outstanding YouTube Outro, In 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-creating-a-viral-traction-with-6-strategic-steps-in-youtube-marketing/"><u>[Updated] In 2024, Creating a Viral Traction with 6 Strategic Steps in YouTube Marketing</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-free-film-festivals-at-your-fingertips-top-10-picks-for-viewers/"><u>[Updated] In 2024, Free Film Festivals at Your Fingertips - Top 10 Picks for Viewers</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-leveraging-imovies-power-for-youtube-presence-and-growth/"><u>[Updated] Leveraging IMovie's Power for YouTube Presence and Growth</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-optimized-video-scale-to-mac-aspect-proportion/"><u>[Updated] Optimized Video Scale to Mac Aspect Proportion</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-upgrade-your-view-enabling-youtubes-high-quality-av1-option/"><u>[Updated] Upgrade Your View  Enabling YouTube's High-Quality AV1 Option</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-viral-harmony-essential-soundtracks-for-popular-video-shorts/"><u>[Updated] Viral Harmony  Essential Soundtracks For Popular Video Shorts</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-youtubes-best-practices-for-maximum-impact-thumbnails/"><u>[Updated] YouTube's Best Practices for Maximum Impact Thumbnails</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-structuring-stimulating-podcast-trailers/"><u>2024 Approved  Structuring Stimulating Podcast Trailers</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/2024-approved-watch-youtube-green-screen-videos-and-inspire-your-green-screen-ideas/"><u>2024 Approved  Watch Youtube Green Screen Videos and Inspire Your Green Screen Ideas</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/2024-approved-your-next-best-source-for-world-exploration/"><u>2024 Approved  Your Next-Best Source for World Exploration</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/from-airplay-to-download-effortless-apods-access/"><u>From AirPlay to Download  Effortless APods Access</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-turn-off-google-location-to-stop-tracking-you-on-itel-p55t-drfone-by-drfone-virtual-android/"><u>How to Turn Off Google Location to Stop Tracking You on Itel P55T | Dr.fone</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-the-art-of-making-youtube-thumbnails-on-the-go-mobile/"><u>In 2024, The Art of Making YouTube Thumbnails on the Go (Mobile)</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-the-ultimate-screen-recorder-test-active-vs-top-contenders/"><u>In 2024, The Ultimate Screen Recorder Test  Active vs Top Contenders</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/in-2024-youtube-beginners-guide-to-earning-success/"><u>In 2024, YouTube Beginners' Guide to Earning Success</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-looking-for-windows-movie-maker-on-mac-try-these-top-5-alternatives-for-2024/"><u>New Looking for Windows Movie Maker on Mac? Try These Top 5 Alternatives for 2024</u></a></li>
+<li><a href="https://driver-install.techidaily.com/overcoming-connectivity-issues-hp-deskjet-in-win11/"><u>Overcoming Connectivity Issues: HP Deskjet in Win11</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/productivity-in-duality-employment-and-video-creation-for-2024/"><u>Productivity in Duality  Employment & Video Creation for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/seamless-sound-shift-ultimate-guide-to-video-to-audio-tools-for-2024/"><u>Seamless Sound Shift  Ultimate Guide to Video-to-Audio Tools for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/the-5-key-players-to-triple-your-youtube-views-for-2024/"><u>The 5 Key Players to Triple Your YouTube Views for 2024</u></a></li>
+</ul></div>

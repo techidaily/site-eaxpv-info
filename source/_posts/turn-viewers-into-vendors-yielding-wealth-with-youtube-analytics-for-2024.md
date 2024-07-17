@@ -1,7 +1,7 @@
 ---
 title: "\"Turn Viewers Into Vendors  Yielding Wealth with YouTube Analytics for 2024\""
-date: 2024-06-06T16:19:50.978Z
-updated: 2024-06-07T16:19:50.978Z
+date: 2024-07-16T05:54:31.838Z
+updated: 2024-07-17T05:54:31.838Z
 tags:
   - ai video
   - ai youtube
@@ -28,6 +28,9 @@ This article will assist you in uploading videos with the YouTube Studio and mon
 
 ## Part 1\. Steps to Upload Videos to YouTube Using a Computer
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### On your computer, find the Youtube studio
 
 You can еasily accеss studio. youtubе. com on your computеr by navigating to it in your browsеr. Click on your profilе picturе on thе right of your scrееn if you arе already on YouTubе on your computеr. Click on thе drop-down mеnu and sеlеct YouTubе Studio.
@@ -42,6 +45,9 @@ Although YouTube Studio's browser/desktop version may be easier to use. To get u
 
 Uploading your YouTube videos to YouTube Studio is the first step to editing them. Sign into your YouTube Studio account by going to the site. To upload your vidеo, click thе "Upload Vidеo" button oncе you arе loggеd in. Upload your vidеo filе by dragging and dropping it onto thе interface. Or you can sеlеct a filе from your computеr by clicking "Sеlеct Filе". Configure and edit settings once the video has been uploaded.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![youTube video upload](https://images.wondershare.com/filmora/article-images/2023/monetize-like-a-pro-how-to-use-youtube-studio-on-any-device-2.JPG)
 
 ##### Step 2You can customize the settings for YouTube videos
@@ -50,12 +56,23 @@ Uploading your YouTube videos to YouTube Studio is the first step to editing the
 
 You can choose a video title, enter a description, and upload a thumbnail while the video uploads. You must choose or create a playlist, and you must select the right audience for it.
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![add title, description](https://images.wondershare.com/filmora/article-images/2023/monetize-like-a-pro-how-to-use-youtube-studio-on-any-device-3.jpg)
 
 ##### ● Add Subtitles, Cards, End screen
 
 Once you've finished the first window, click on the 'Video elements' tab. As well as subtitles and cards, you can insert an end screen here. Viewers can watch related videos, visit related websites, and click on relevant calls to action.
 
+<!-- affiliate ads begin -->
+<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
+<span class="text-ad-content">
+	#1 Rated Parental Control Software.<br/>
+	Monitor & Control all PC Activity!<br/>
+		<cite style="color:green">sentrypc.com/parental-controls/</cite>
+	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![add subtitles, cards, end screen](https://images.wondershare.com/filmora/article-images/2023/monetize-like-a-pro-how-to-use-youtube-studio-on-any-device-4.JPG)
 
 ##### ● Check for copyright issues and other problems
@@ -74,6 +91,9 @@ Adding music to your YouTube video is easy. Click the music icon and select "Aud
 
 YouTube Studio's website version and YouTube Studio's desktop version enable you to edit YouTube videos.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
+<!-- affiliate ads end -->
 ![youtube editor](https://images.wondershare.com/filmora/article-images/2023/monetize-like-a-pro-how-to-use-youtube-studio-on-any-device-5.JPG)
 
 ## Part 2\. The Best Way to Upload Videos to YouTube from an Android App
@@ -86,6 +106,9 @@ Hеrе arе thе stеps you nееd to follow to upload vidеos to YouTubе from 
 2. On the “create” icon, tap it.
 3. Go to "Upload video" and select it.
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![android upload video](https://images.wondershare.com/filmora/article-images/2023/monetize-like-a-pro-how-to-use-youtube-studio-on-any-device-6.jpg)
 
 1. From your gallery, select a video.
@@ -178,6 +201,9 @@ You will bе ablе to еdit your vidеo bеforе you publish it. Insert a descri
 
 ![ios youtube studio](https://images.wondershare.com/filmora/article-images/2023/monetize-like-a-pro-how-to-use-youtube-studio-on-any-device-12.JPG)
 
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### The iOS app's video upload and customization features
 
 * With the new channel dashboard, you can see how your content and channels are doing.
@@ -188,11 +214,14 @@ You will bе ablе to еdit your vidеo bеforе you publish it. Insert a descri
 
 ![youtube studio ios](https://images.wondershare.com/filmora/article-images/2023/monetize-like-a-pro-how-to-use-youtube-studio-on-any-device-13.JPG)
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
 ## Part 4\. Enhancing YouTube Uploads with Wondershare Filmora
 
 Are you excited to make your YouTube videos stand out with amazing editing? Wondershare Filmora helps you enhance your videos before uploading them to YouTube. You can see the process of editing your videos using Filmora and then uploading them to YouTube via YouTube Studio. You'll find this journey both fun and educational!
 
-### [Introducing Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/): Your Video Editing Buddy
+### Introducing Wondershare Filmora
 
 With Filmora, you can edit videos in a variety of ways and transform raw video footage into something spectacular. It's perfect for all those creative minds out there who want to add an extra layer of professionalism to their YouTube content.
 
@@ -202,23 +231,23 @@ With Filmora, you can edit videos in a variety of ways and transform raw video f
 
 ### Editing and Exporting Your Videos with Filmora
 
-#### 1\. [Motion Tracking](https://tools.techidaily.com/wondershare/filmora/download/)
+#### 1\. Motion Tracking
 
 Ever wanted to make text or graphics follow an object's movement in your video? Filmora lets you do just that with motion tracking. Pin graphics or media files to move magically with the object.
 
-#### 2\. [Speed Ramping](https://tools.techidaily.com/wondershare/filmora/download/)
+#### 2\. Speed Ramping
 
 Now, you can adjust your video's speed with precision. Create unique cinematic effects by controlling keyframes to make your videos pop.
 
-#### 3\. [Screen Recorder](https://tools.techidaily.com/wondershare/filmora/download/)
+#### 3\. Screen Recorder
 
 Filmora's screen recorder is a handy tool. It is possible to simultaneously record your screen and webcam. Plus, you can capture system sounds and your voice through the microphone.
 
-#### 4\. [Instant Mode](https://tools.techidaily.com/wondershare/filmora/download/)
+#### 4\. Instant Mode
 
 If you're new to video editing, don't worry! Filmora's Instant Mode is perfect for beginners. Just add your media, and Filmora will create a video for you in no time.
 
-#### 5\. [Auto Reframe](https://tools.techidaily.com/wondershare/filmora/download/)
+#### 5\. Auto Reframe
 
 No need to be a video editing pro! With Auto Reframe, you can resize your videos automatically without any editing skills.
 
@@ -238,14 +267,23 @@ Whether you're a budding YouTubеr or a sеasonеd crеator, we hope this articl
 
 ## Part 1\. Steps to Upload Videos to YouTube Using a Computer
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
+<!-- affiliate ads end -->
 ### On your computer, find the Youtube studio
 
 You can еasily accеss studio. youtubе. com on your computеr by navigating to it in your browsеr. Click on your profilе picturе on thе right of your scrееn if you arе already on YouTubе on your computеr. Click on thе drop-down mеnu and sеlеct YouTubе Studio.
 
 Although YouTube Studio's browser/desktop version may be easier to use. To get updates about comments, download the app and turn on notifications. Engage your subscribers and stay in touch.
 
+<!-- affiliate ads begin -->
+<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<!-- affiliate ads end -->
 ![youtube studio](https://images.wondershare.com/filmora/article-images/2023/monetize-like-a-pro-how-to-use-youtube-studio-on-any-device-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Step-by-Step Tutorial: Upload Videos to YouTube Using YouTube Studio
 
 ##### Step 1Adding videos to YouTube Studio
@@ -286,6 +324,9 @@ YouTube Studio's website version and YouTube Studio's desktop version enable you
 
 ![youtube editor](https://images.wondershare.com/filmora/article-images/2023/monetize-like-a-pro-how-to-use-youtube-studio-on-any-device-5.JPG)
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 2\. The Best Way to Upload Videos to YouTube from an Android App
 
 ### YouTube videos upload from the Android app: Steps to follow
@@ -307,10 +348,16 @@ Hеrе arе thе stеps you nееd to follow to upload vidеos to YouTubе from 
 1. You'll have to adjust your audience settings; YouTube will ask if it's for children.
 2. Change the settings for age restrictions. If you want your video to only be viewed by people 18 years or older, YouTube lets you do that.
 
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![android select audience](https://images.wondershare.com/filmora/article-images/2023/monetize-like-a-pro-how-to-use-youtube-studio-on-any-device-8.jpg)
 
 1. Then click "Upload".
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ### Video editing options and features in the YouTube Studio App
 
 When creators are on the go, YouTube Studio is the best way to manage their channels. The desktop site, however, lacks a number of basic features.
@@ -338,6 +385,9 @@ Along with their desktop app, YouTube is now offering useful analytics informati
 
 You can now appeal video monetization decisions within the app. You may disagree with their decisions, such as a yellow dollar icon instead of a green one. If appropriate, the appealed video's monetization status will be reviewed by a human policy specialist. Select the yellow $ icon and tap Request review on a video with limited monetization.
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![android monetization options](https://images.wondershare.com/filmora/article-images/2023/monetize-like-a-pro-how-to-use-youtube-studio-on-any-device-11.jpg)
 
 #### Revenue Metrics now support currency settings
@@ -396,13 +446,19 @@ You will bе ablе to еdit your vidеo bеforе you publish it. Insert a descri
 * Make your channel look and feel more professional. Manage individual videos, shorts, and live streams by updating the information.
 * With the YouTube Partner Programme, you can start a business on YouTube and make money.
 
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![youtube studio ios](https://images.wondershare.com/filmora/article-images/2023/monetize-like-a-pro-how-to-use-youtube-studio-on-any-device-13.JPG)
 
+<!-- affiliate ads begin -->
+<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 4\. Enhancing YouTube Uploads with Wondershare Filmora
 
 Are you excited to make your YouTube videos stand out with amazing editing? Wondershare Filmora helps you enhance your videos before uploading them to YouTube. You can see the process of editing your videos using Filmora and then uploading them to YouTube via YouTube Studio. You'll find this journey both fun and educational!
 
-### [Introducing Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/): Your Video Editing Buddy
+### Introducing Wondershare Filmora
 
 With Filmora, you can edit videos in a variety of ways and transform raw video footage into something spectacular. It's perfect for all those creative minds out there who want to add an extra layer of professionalism to their YouTube content.
 
@@ -412,28 +468,31 @@ With Filmora, you can edit videos in a variety of ways and transform raw video f
 
 ### Editing and Exporting Your Videos with Filmora
 
-#### 1\. [Motion Tracking](https://tools.techidaily.com/wondershare/filmora/download/)
+#### 1\. Motion Tracking
 
 Ever wanted to make text or graphics follow an object's movement in your video? Filmora lets you do just that with motion tracking. Pin graphics or media files to move magically with the object.
 
-#### 2\. [Speed Ramping](https://tools.techidaily.com/wondershare/filmora/download/)
+#### 2\. Speed Ramping
 
 Now, you can adjust your video's speed with precision. Create unique cinematic effects by controlling keyframes to make your videos pop.
 
-#### 3\. [Screen Recorder](https://tools.techidaily.com/wondershare/filmora/download/)
+#### 3\. Screen Recorder
 
 Filmora's screen recorder is a handy tool. It is possible to simultaneously record your screen and webcam. Plus, you can capture system sounds and your voice through the microphone.
 
-#### 4\. [Instant Mode](https://tools.techidaily.com/wondershare/filmora/download/)
+#### 4\. Instant Mode
 
 If you're new to video editing, don't worry! Filmora's Instant Mode is perfect for beginners. Just add your media, and Filmora will create a video for you in no time.
 
-#### 5\. [Auto Reframe](https://tools.techidaily.com/wondershare/filmora/download/)
+#### 5\. Auto Reframe
 
 No need to be a video editing pro! With Auto Reframe, you can resize your videos automatically without any editing skills.
 
 You've now used Wondershare Filmora to enhance your video and uploaded it to YouTube using YouTube Studio. Your video is ready to reach your audience and shine on your YouTube channel.
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Conclusion
 
 With YouTube Studio on any device, we've unlocked the world of YouTube and explored the art of monetization. From uploading a video, we explored the powerful YouTube Studio, your creator's control panel.
@@ -458,6 +517,9 @@ Whether you're a budding YouTubеr or a sеasonеd crеator, we hope this articl
 
 # How to Animate and Make Your Own Effects
 
+<!-- affiliate ads begin -->
+<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 ##### Richard Bennett
@@ -486,21 +548,88 @@ In this post, we’re going to kick things up a bit. Here is a list of places wh
 
  All of these resources will teach Adobe After Effects, or a similar paid software. If you do not have access to Adobe After Effects, you might want to check out our post on [affordable animation software for video creators](https://www.filmora.io/community-blog/free-or-cheap-animation-software-for-video-creators-122.html).
 
-## **[Mt. Mograph](https://www.youtube.com/channel/UCSUSgx9qc%5FNydrOL59xbJIA)**
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## ** Mt. Mograph
 
 On this YouTube channel, motion graphics specialist Matt offers free animation tutorials using a variety of programs including Adobe After Effects and Cinema 4D. His lessons are for a range of skill levels, from beginner to advanced. If you are just starting out then Mt.Mograph is a great resource.
 
-## **[Richard Harrington on Lynda](https://www.lynda.com/Rich-Harrington/120-1.html)**
+<!-- affiliate ads begin -->
+<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## ** Richard Harrington on Lynda
 
 Lynda isn’t free, but the 10-day free trial period is definitely long enough for you to watch this two-hour course.
 
 What’s great about this course is that it assumes you have no animation experience, and it walks you through the main thing a lot of YouTubers want to learn animation for – creating an animated logo.
 
-## **[Bloop Animation](https://www.bloopanimation.com/)**
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## ** Bloop Animation
 
  Most of the video animation courses on this site are paid, but they have a lot of cool free tutorials as well. The focus is more on animating figures/cartoons than video effects, but if you have any interest in animation more generally then this is a great place to start learning. They even have a free ebook you can download which is targeted at beginners.
 
-## **[Video Copilot](http://www.videocopilot.net/)**
+## ** Video Copilot
+
+This site has a huge number of free After Effects tutorials. There are basic introductory lessons, and really advanced classes on creating custom cinematic FX, like explosions. There’s even a playlist on title design, which will be useful for anyone looking to create an intro sequence for their videos.
+
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
+<!-- affiliate ads end -->
+![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
+
+Richard Bennett
+
+Richard Bennett is a writer and a lover of all things video.
+
+Follow @Richard Bennett
+
+##### Richard Bennett
+
+ Nov 01, 2022• Proven solutions
+
+[0](#commentsBoxSeoTemplate)
+
+Do you like the animated elements in Wondershare Filmora? Do you want to learn how to make your own?
+
+A little while ago, we posted a list of YouTube channels where you could [get free green screen effects](https://tools.techidaily.com/wondershare/filmora/download/). All of these effects consisted of animations on green backgrounds. To use them, you pull the clip into the PIP track of your Filmora project and use the green screen feature to make the background transparent. It’s pretty easy.
+
+In this post, we’re going to kick things up a bit. Here is a list of places where you can get free lessons on creating your own animated video effects.
+
+**Animated Video Effect Courses:**
+
+[Mt. Mograph](#mtmograph)
+
+[Richard Harrington on Lynda](#lynda)
+
+[Bloop Animation](#bloop)
+
+[Video Copilot](#videocopilot)
+
+<!-- affiliate ads begin -->
+<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+ ![Video Animation](https://images.wondershare.com/filmora/article-images/animated-video-effects.png)
+
+ All of these resources will teach Adobe After Effects, or a similar paid software. If you do not have access to Adobe After Effects, you might want to check out our post on [affordable animation software for video creators](https://www.filmora.io/community-blog/free-or-cheap-animation-software-for-video-creators-122.html).
+
+## ** Mt. Mograph
+
+On this YouTube channel, motion graphics specialist Matt offers free animation tutorials using a variety of programs including Adobe After Effects and Cinema 4D. His lessons are for a range of skill levels, from beginner to advanced. If you are just starting out then Mt.Mograph is a great resource.
+
+## ** Richard Harrington on Lynda
+
+Lynda isn’t free, but the 10-day free trial period is definitely long enough for you to watch this two-hour course.
+
+What’s great about this course is that it assumes you have no animation experience, and it walks you through the main thing a lot of YouTubers want to learn animation for – creating an animated logo.
+
+## ** Bloop Animation
+
+ Most of the video animation courses on this site are paid, but they have a lot of cool free tutorials as well. The focus is more on animating figures/cartoons than video effects, but if you have any interest in animation more generally then this is a great place to start learning. They even have a free ebook you can download which is targeted at beginners.
+
+## ** Video Copilot
 
 This site has a huge number of free After Effects tutorials. There are basic introductory lessons, and really advanced classes on creating custom cinematic FX, like explosions. There’s even a playlist on title design, which will be useful for anyone looking to create an intro sequence for their videos.
 
@@ -538,24 +667,30 @@ In this post, we’re going to kick things up a bit. Here is a list of places wh
 
  All of these resources will teach Adobe After Effects, or a similar paid software. If you do not have access to Adobe After Effects, you might want to check out our post on [affordable animation software for video creators](https://www.filmora.io/community-blog/free-or-cheap-animation-software-for-video-creators-122.html).
 
-## **[Mt. Mograph](https://www.youtube.com/channel/UCSUSgx9qc%5FNydrOL59xbJIA)**
+## ** Mt. Mograph
 
 On this YouTube channel, motion graphics specialist Matt offers free animation tutorials using a variety of programs including Adobe After Effects and Cinema 4D. His lessons are for a range of skill levels, from beginner to advanced. If you are just starting out then Mt.Mograph is a great resource.
 
-## **[Richard Harrington on Lynda](https://www.lynda.com/Rich-Harrington/120-1.html)**
+## ** Richard Harrington on Lynda
 
 Lynda isn’t free, but the 10-day free trial period is definitely long enough for you to watch this two-hour course.
 
 What’s great about this course is that it assumes you have no animation experience, and it walks you through the main thing a lot of YouTubers want to learn animation for – creating an animated logo.
 
-## **[Bloop Animation](https://www.bloopanimation.com/)**
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## ** Bloop Animation
 
  Most of the video animation courses on this site are paid, but they have a lot of cool free tutorials as well. The focus is more on animating figures/cartoons than video effects, but if you have any interest in animation more generally then this is a great place to start learning. They even have a free ebook you can download which is targeted at beginners.
 
-## **[Video Copilot](http://www.videocopilot.net/)**
+## ** Video Copilot
 
 This site has a huge number of free After Effects tutorials. There are basic introductory lessons, and really advanced classes on creating custom cinematic FX, like explosions. There’s even a playlist on title design, which will be useful for anyone looking to create an intro sequence for their videos.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 Richard Bennett
@@ -586,77 +721,43 @@ In this post, we’re going to kick things up a bit. Here is a list of places wh
 
 [Video Copilot](#videocopilot)
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  ![Video Animation](https://images.wondershare.com/filmora/article-images/animated-video-effects.png)
 
  All of these resources will teach Adobe After Effects, or a similar paid software. If you do not have access to Adobe After Effects, you might want to check out our post on [affordable animation software for video creators](https://www.filmora.io/community-blog/free-or-cheap-animation-software-for-video-creators-122.html).
 
-## **[Mt. Mograph](https://www.youtube.com/channel/UCSUSgx9qc%5FNydrOL59xbJIA)**
+<!-- affiliate ads begin -->
+<span id="1993652">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## ** Mt. Mograph
 
 On this YouTube channel, motion graphics specialist Matt offers free animation tutorials using a variety of programs including Adobe After Effects and Cinema 4D. His lessons are for a range of skill levels, from beginner to advanced. If you are just starting out then Mt.Mograph is a great resource.
 
-## **[Richard Harrington on Lynda](https://www.lynda.com/Rich-Harrington/120-1.html)**
+## ** Richard Harrington on Lynda
 
 Lynda isn’t free, but the 10-day free trial period is definitely long enough for you to watch this two-hour course.
 
 What’s great about this course is that it assumes you have no animation experience, and it walks you through the main thing a lot of YouTubers want to learn animation for – creating an animated logo.
 
-## **[Bloop Animation](https://www.bloopanimation.com/)**
+<!-- affiliate ads begin -->
+<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## ** Bloop Animation
 
  Most of the video animation courses on this site are paid, but they have a lot of cool free tutorials as well. The focus is more on animating figures/cartoons than video effects, but if you have any interest in animation more generally then this is a great place to start learning. They even have a free ebook you can download which is targeted at beginners.
 
-## **[Video Copilot](http://www.videocopilot.net/)**
-
-This site has a huge number of free After Effects tutorials. There are basic introductory lessons, and really advanced classes on creating custom cinematic FX, like explosions. There’s even a playlist on title design, which will be useful for anyone looking to create an intro sequence for their videos.
-
-![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
-
-Richard Bennett
-
-Richard Bennett is a writer and a lover of all things video.
-
-Follow @Richard Bennett
-
-##### Richard Bennett
-
- Nov 01, 2022• Proven solutions
-
-[0](#commentsBoxSeoTemplate)
-
-Do you like the animated elements in Wondershare Filmora? Do you want to learn how to make your own?
-
-A little while ago, we posted a list of YouTube channels where you could [get free green screen effects](https://tools.techidaily.com/wondershare/filmora/download/). All of these effects consisted of animations on green backgrounds. To use them, you pull the clip into the PIP track of your Filmora project and use the green screen feature to make the background transparent. It’s pretty easy.
-
-In this post, we’re going to kick things up a bit. Here is a list of places where you can get free lessons on creating your own animated video effects.
-
-**Animated Video Effect Courses:**
-
-[Mt. Mograph](#mtmograph)
-
-[Richard Harrington on Lynda](#lynda)
-
-[Bloop Animation](#bloop)
-
-[Video Copilot](#videocopilot)
-
- ![Video Animation](https://images.wondershare.com/filmora/article-images/animated-video-effects.png)
-
- All of these resources will teach Adobe After Effects, or a similar paid software. If you do not have access to Adobe After Effects, you might want to check out our post on [affordable animation software for video creators](https://www.filmora.io/community-blog/free-or-cheap-animation-software-for-video-creators-122.html).
-
-## **[Mt. Mograph](https://www.youtube.com/channel/UCSUSgx9qc%5FNydrOL59xbJIA)**
-
-On this YouTube channel, motion graphics specialist Matt offers free animation tutorials using a variety of programs including Adobe After Effects and Cinema 4D. His lessons are for a range of skill levels, from beginner to advanced. If you are just starting out then Mt.Mograph is a great resource.
-
-## **[Richard Harrington on Lynda](https://www.lynda.com/Rich-Harrington/120-1.html)**
-
-Lynda isn’t free, but the 10-day free trial period is definitely long enough for you to watch this two-hour course.
-
-What’s great about this course is that it assumes you have no animation experience, and it walks you through the main thing a lot of YouTubers want to learn animation for – creating an animated logo.
-
-## **[Bloop Animation](https://www.bloopanimation.com/)**
-
- Most of the video animation courses on this site are paid, but they have a lot of cool free tutorials as well. The focus is more on animating figures/cartoons than video effects, but if you have any interest in animation more generally then this is a great place to start learning. They even have a free ebook you can download which is targeted at beginners.
-
-## **[Video Copilot](http://www.videocopilot.net/)**
+## ** Video Copilot
 
 This site has a huge number of free After Effects tutorials. There are basic introductory lessons, and really advanced classes on creating custom cinematic FX, like explosions. There’s even a playlist on title design, which will be useful for anyone looking to create an intro sequence for their videos.
 
@@ -682,3 +783,57 @@ Follow @Richard Bennett
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-a-streamlined-system-for-scrutinizing-youtube-subscriber-profits-3-step-guide/"><u>[New] 2024 Approved  A Streamlined System for Scrutinizing YouTube Subscriber Profits  3-Step Guide</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-raw-tape-to-broadcast-ready-using-studio-editor/"><u>[New] 2024 Approved  From Raw Tape to Broadcast-Ready  Using Studio Editor</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/024-approved-the-essential-manual-for-youtube-to-gif-conversion-online/"><u>[New] 2024 Approved  The Essential Manual for YouTube-to-GIF Conversion Online</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-elevate-your-youtube-presentations-with-imovie-editing-skills-for-2024/"><u>[New] Elevate Your YouTube Presentations with iMovie Editing Skills for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-everything-uncovered-about-the-world-of-yt-shorts-for-2024/"><u>[New] Everything Uncovered About the World of YT Shorts for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ow-to-authenticate-your-yt-account-a-hint-list-for-2024/"><u>[New] How to Authenticate Your YT Account? A Hint List for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-how-to-create-impactful-valorant-thumbnails-a-compreayers-guide-for-2024/"><u>[New] How to Create Impactful Valorant Thumbnails  A Compreayer's Guide for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-chromebook-screen-capture-4-easy-techniques/"><u>[New] In 2024, Chromebook Screen Capture  4 Easy Techniques</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-elevating-your-videos-reach-top-8-youtube-ranks-unveiled/"><u>[New] In 2024, Elevating Your Video's Reach - Top 8 YouTube Ranks Unveiled</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-live-stream-frontier-deciding-between-obs-and-twitch-space/"><u>[New] Live Stream Frontier  Deciding Between OBS and Twitch Space</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-speed-up-pc-games-the-ultimate-speed-controller-selection/"><u>[New] Speed Up PC Games  The Ultimate Speed Controller Selection</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-the-easy-way-to-mix-and-match-youtube-playlist-order/"><u>[New] The Easy Way to Mix and Match YouTube Playlist Order</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-unlocking-the-secrets-of-successful-youtube-collaborations/"><u>[New] Unlocking the Secrets of Successful YouTube Collaborations</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-youth-voices-channeling-lifes-milestinasubscriber-channel-for-impactful-personal-storytelling/"><u>[New] Youth Voices  Channeling Life's Milestinasubscriber Channel for Impactful Personal Storytelling</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-capture-it-right-essential-camera-lenses-for-video-blogging/"><u>[Updated] 2024 Approved  Capture It Right  Essential Camera Lenses for Video Blogging</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-dive-into-video-production-mastering-green-screens-on-yt/"><u>[Updated] 2024 Approved  Dive Into Video Production  Mastering Green Screens on YT</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-elevate-your-edits-a-selection-of-top-9-free-software-choices/"><u>[Updated] 2024 Approved  Elevate Your Edits  A Selection of Top 9 Free Software Choices</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-eternal-void-a-complete-ban-on-youtube-short-video-feature/"><u>[Updated] 2024 Approved  Eternal Void  A Complete Ban on YouTube Short Video Feature</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-the-best-laptops-for-video-editing-you-should-know/"><u>[Updated] 2024 Approved  The Best Laptops For Video Editing You Should Know</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-create-captivating-sports-videography-for-2024/"><u>[Updated] Create Captivating Sports Videography for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-discover-the-joy-of-animated-journeys-youtubes-best-for-everyday-for-2024/"><u>[Updated] Discover the Joy of Animated Journeys  YouTube's Best for Everyday for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-fixed-video-short-display-for-you/"><u>[Updated] Fixed Video Short Display for You</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-get-more-viewers-with-social-media-marketing-for-youtube-for-2024/"><u>[Updated] Get More Viewers with Social Media Marketing for YouTube for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-produce-high-impact-low-cost-youtube-ads/"><u>[Updated] How to Produce High-Impact, Low-Cost YouTube Ads?</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-behind-the-scenes-of-online-content-monetization/"><u>[Updated] In 2024, Behind the Scenes of Online Content Monetization</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-effortless-youtube-content-crafting-10-basic-video-ideas-for-all/"><u>[Updated] In 2024, Effortless YouTube Content  Crafting 10 Basic Video Ideas for All</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-make-a-memorable-impact-with-youtubes-minis/"><u>[Updated] In 2024, How to Make a Memorable Impact with Youtube's Minis</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-income-maximizing-techno-gaming-tactics/"><u>[Updated] Income Maximizing Techno-Gaming Tactics</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-peeling-back-the-curtain-on-youtubes-content-popularity-index/"><u>[Updated] Peeling Back the Curtain on YouTube's Content Popularity Index</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-sharpen-content-edge-with-studios-advanced-features/"><u>[Updated] Sharpen Content Edge with Studio's Advanced Features</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-uncover-hubs-sites-that-connect-you-with-youtube-branding-deals/"><u>[Updated] Uncover Hubs  Sites That Connect You with YouTube Branding Deals</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/2024-approved-audiovisual-cooperation-the-duet-phenomenon/"><u>2024 Approved  Audiovisual Cooperation  The Duet Phenomenon</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-transform-your-brand-with-a-decades-worth-of-smm-wisdom-distilled-into-10-steps/"><u>2024 Approved  Transform Your Brand with a Decade's Worth of SMM Wisdom, Distilled Into 10 Steps</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/5-solutions-for-nubia-red-magic-8s-pro-unlock-without-password-by-drfone-android/"><u>5 Solutions For Nubia Red Magic 8S Pro Unlock Without Password</u></a></li>
+<li><a href="https://extra-information.techidaily.com/blizzard-of-champions-highlighting-snowboard-cross-excellence-22-olympics/"><u>Blizzard of Champions  Highlighting Snowboard Cross Excellence, '22 Olympics</u></a></li>
+<li><a href="https://extra-information.techidaily.com/de-vibratory-techniques-for-drone-video-clarity/"><u>De-Vibratory Techniques for Drone Video Clarity</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-can-sony-xperia-10-vmirror-share-to-pc-drfone-by-drfone-android/"><u>How Can Sony Xperia 10 VMirror Share to PC? | Dr.fone</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-2024-complete-self-guided-tour-to-host-and-participate-in-google-meet/"><u>In 2024, Complete Self-Guided Tour to Host & Participate in Google Meet</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-crafting-impeccable-videos-for-instagram-enthusiasts/"><u>In 2024, Crafting Impeccable Videos for Instagram Enthusiasts</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/in-2024-from-idea-to-share-the-process-of-adding-gifs-on-snapchat/"><u>In 2024, From Idea to Share  The Process of Adding Gifs on Snapchat</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/in-2024-take-your-videos-to-the-next-level-free-slow-motion-editing-with-filmora/"><u>In 2024, Take Your Videos to the Next Level Free Slow Motion Editing with Filmora</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/in-2024-tiktoks-top-15-books-for-page-turning-pleasure/"><u>In 2024, TikTok’s Top 15 Books for Page-Turning Pleasure</u></a></li>
+<li><a href="https://extra-support.techidaily.com/innovators-choice-top-5-state-of-the-art-slow-cams-for-2024/"><u>Innovators' Choice  Top 5 State-of-the-Art Slow Cams for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/premium-gadgets-to-save-livestreamed-vids-on-youtube-for-2024/"><u>Premium Gadgets to Save Livestreamed Vids on YouTube for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/preventing-external-speakers-opt-for-headphones/"><u>Preventing External Speakers, Opt for Headphones</u></a></li>
+<li><a href="https://games-able.techidaily.com/realigning-your-xbox-controllers-mechanical-drift/"><u>Realigning Your Xbox Controller's Mechanical Drift</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/step-by-step-process-disabling-video-sound-in-latest-mkv-format-mkv-2023/"><u>Step-by-Step Process Disabling Video Sound in Latest MKV Format (MKV-2023)</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/the-beauty-bard-in-depth-gear-and-tutorial-roundups-for-2024/"><u>The Beauty Bard  In-Depth Gear & Tutorial Roundups for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/want-to-uninstall-google-play-service-from-google-pixel-8-here-is-how-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Want to Uninstall Google Play Service from Google Pixel 8? Here is How | Dr.fone</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/your-journey-through-the-maze-of-uploading-videos-on-youtube-for-2024/"><u>Your Journey Through the Maze of Uploading Videos on YouTube for 2024</u></a></li>
+</ul></div>

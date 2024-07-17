@@ -1,7 +1,7 @@
 ---
 title: "\"[New] In 2024, Fixed  Eclipsed YouTube Short Video\""
-date: 2024-06-06T13:53:59.734Z
-updated: 2024-06-07T13:53:59.734Z
+date: 2024-07-16T02:15:24.480Z
+updated: 2024-07-17T02:15:24.480Z
 tags:
   - ai video
   - ai youtube
@@ -18,6 +18,9 @@ thumbnail: https://thmb.techidaily.com/fb708f6b02bb2770894398e8943ab9eb4326fec35
 
 # How to Fix the YouTube Shorts Not Showing Up Issue?
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
 
 ##### Liza Brown
@@ -61,6 +64,9 @@ And, you must note that a YouTube Shorts video consists of two criteria as follo
 * The video has to be vertical (portrait-style)
 * The video must be 60 seconds or less
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 2: How to Fix YouTube Shorts Not Showing Up?
 
 Here’s the section covering fixes on YouTube Shorts not showing. Please give it a read and resolve your issue happily!
@@ -71,8 +77,14 @@ As we've already discussed above, check if your YouTube mobile app has the lates
 
 Moreover, the option to upload Shorts is now hidden behind the **+** icon. Tap on the **+** icon and hit the **Create a Short** option.
 
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
+<!-- affiliate ads end -->
 ![filmora](https://images.wondershare.com/filmora/youtube-shorts-not-showing-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Fix 2: Check If Shorts Is Available in Your Country
 
 Now, YouTube Shorts is available globally, but there was a phase when YouTube Shorts was a beta feature. It was only available in India and the US, which could be why you could not view Shorts in the YouTube app.
@@ -83,6 +95,9 @@ As of now, YouTube Shorts is only available on a smartphone because it's still i
 
 You can upload Shorts videos from your laptop. The entire process is similar to uploading a regular video. However, you have to mention #Shorts in the title and description to differentiate it as a Shorts video.
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
+<!-- affiliate ads end -->
 ### Common Fixes to YouTube Shorts Not Working
 
 1. Update the YouTube App to the latest version.
@@ -95,6 +110,9 @@ The fixes above are also applicable if the YouTube Shorts are not showing on iPh
 
 Or, you can try the VPN solution before contacting the YouTube team.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### If Videos Are Not Visible under YouTube Shorts
 
 **Solution 1:** Ensure that you've added #shorts in the title and description. Those who have YouTube Shorts, they can make shorts videos via the Shorts camera. Those who can't access this camera can also upload their current vertical videos that are less than 60 seconds after adding the hashtag #Shorts in the title or description.
@@ -161,6 +179,9 @@ A separate dialog box will display once you have selected the **Auto Reframe** o
 
 There are multiple aspect ratio templates available such as square (1:1), vertical (9:16), standard (4:3), widescreen (16:9), and cinema (21:9). As you are making YouTube Shorts, so you need to select **9:16**.
 
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![filmora](https://images.wondershare.com/filmora/guide/4-select-reframing-aspect-ratio.jpg)
 
 You can adjust the speed of your video in multiple options: keep it at **Auto** or make it **Slow** or **Fast** as per your requirements.
@@ -238,10 +259,16 @@ Follow @Liza Brown
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
+<!-- affiliate ads begin -->
+<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Guide to Supercharged Video Engagement with YouTube Notes
 
 # How to Add YouTube Annotations and Cards?
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 ##### Richard Bennett
@@ -256,6 +283,18 @@ YouTube Cards and Annotations are very useful if you want to encourage your view
 
 Do you want to make your YouTube video more attractive? [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/) is a such video editing software designed for YouTube creator. It not only allows you cut, trim, crop, zoom, reverse, rotate the video clips, but also makes the advanced features like green screen, PIP, tilt-shift and mosaic easy like a piece of cake. With Wondershare Filmora, you can ignite your YouTube videos with over 300 effects like Fashion, Beauty, Block Buster, Travel, etc.
 
+<!-- affiliate ads begin -->
+<span id="1997795">
+					<video width="250" height="250" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ---
@@ -291,6 +330,9 @@ YouTube **Cards** are similar to annotations but more interactive. They allow th
 
 * Apply changes and exit
 
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to add YouTube annotations
 
 YouTube Annotation is addition of a text layer, link or hotspots over your video. They add interactive boxes which link to other websites or videos (any link you want).
@@ -304,6 +346,9 @@ YouTube Annotation is addition of a text layer, link or hotspots over your video
 * On the right panel click on "+ Add Element" and select the kind of annotation you want to add
 * Adjust the position of Annotation, you can drag the rectangle to locate it at any position of the video, move the slide to set the start and end time of the annotation
 
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.wondershare.com/filmora/article-images/add-annotation-to-youtube-1.jpg)
 
 * Apply changes
@@ -359,3 +404,53 @@ Follow @Richard Bennett
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-free-online-editors-the-essential-guide/"><u>[New] 2024 Approved  Free Online Editors  The Essential Guide</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-harnessing-imovies-capabilities-for-youtube-video-perfection/"><u>[New] 2024 Approved  Harnessing iMovie's Capabilities for YouTube Video Perfection</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-highlighting-the-top-video-creation-apps-iphone-android/"><u>[New] 2024 Approved  Highlighting the Top Video Creation Apps (iPhone, Android)</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-create-a-channel-that-dominates-the-business-world/"><u>[New] 2024 Approved  How to Create a Channel that Dominates the Business World</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-mix-text-and-video-on-a-shoestring-budget/"><u>[New] 2024 Approved  How to Mix Text & Video on a Shoestring Budget</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-cyberspace-liberation-overthrowing-hacks-on-facebook/"><u>[New] Cyberspace Liberation  Overthrowing Hacks on Facebook</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-flip-to-fun-converting-youtube-videos-to-playful-download-free-gifs-for-2024/"><u>[New] Flip to Fun  Converting YouTube Videos to Playful, Download-Free GIFs for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-flipping-the-script-turning-online-games-into-channel-gold-for-2024/"><u>[New] Flipping the Script  Turning Online Games Into Channel Gold for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-from-space-to-nature-yts-guide-for-dynamic-green-screen-filmmaking-for-2024/"><u>[New] From Space to Nature  YT's Guide for Dynamic Green Screen Filmmaking for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-from-streaming-video-how-to-get-youtube-thumbnail-files-onlineos-wise-for-2024/"><u>[New] From Streaming Video  How to Get YouTube Thumbnail Files Online/OS-Wise for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-full-vision-media-the-smart-mcn-selection-process-for-2024/"><u>[New] Full Vision Media  The Smart MCN Selection Process for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-harness-youtube-movie-maker-for-impactful-videos-for-2024/"><u>[New] Harness YouTube Movie Maker for Impactful Videos for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-how-to-make-a-youtube-intro-video-2-ways-for-2024/"><u>[New] How to Make A YouTube Intro Video [2 Ways] for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-how-to-trim-youtube-videos-like-a-pro-for-2024/"><u>[New] How to Trim YouTube Videos Like a Pro for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-film-assembly-station/"><u>[New] In 2024, Film Assembly Station</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-flavorful-faves-top-online-chefs-and-culinary-stars/"><u>[New] In 2024, Flavorful Faves  Top Online Chefs & Culinary Stars</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-framecraft-videocutter/"><u>[New] In 2024, FrameCraft VideoCutter</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-free-image-savers-optimizing-video-graphics/"><u>[New] In 2024, FREE Image Savers  Optimizing Video Graphics</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-conference-room-to-youtube-google-meet-broadcasting/"><u>[New] In 2024, From Conference Room to Youtube  Google Meet Broadcasting</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-getting-real-broadcast-your-life-on-youtube-using-obs/"><u>[New] In 2024, Getting Real  Broadcast Your Life on Youtube Using OBS</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-harnessing-imovies-capabilities-for-youtube-video-perfection/"><u>[New] In 2024, Harnessing iMovie's Capabilities for YouTube Video Perfection</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-quick-start-guide-easy-steps-for-effective-video-calling-on-zoom/"><u>[New] Quick Start Guide  Easy Steps for Effective Video Calling on Zoom</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-fast-paced-favorites-leading-background-music-in-yt-shorts/"><u>[Updated] 2024 Approved  Fast-Paced Favorites  Leading Background Music in YT Shorts</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-flavorful-frontier-groundbrenant-title-strategies-for-food-networks/"><u>[Updated] 2024 Approved  Flavorful Frontier  Groundbrenant Title Strategies for Food Networks</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-video-to-music-youtube-to-mp3-on-macos/"><u>[Updated] 2024 Approved  From Video to Music  YouTube to MP3 on MacOS</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-harness-the-power-of-your-mobile-content-on-youtube-starting-now/"><u>[Updated] 2024 Approved  Harness the Power of Your Mobile Content on YouTube, Starting Now</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-create-and-build-a-youtube-channel-today/"><u>[Updated] 2024 Approved  How to Create and Build A YouTube Channel Today</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-make-a-channel-trailer/"><u>[Updated] 2024 Approved  How to Make a Channel Trailer</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-audacity-masterclass-techniques-for-flawless-sound-de-noising-for-2024/"><u>[Updated] Audacity Masterclass  Techniques for Flawless Sound De-Noising for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-from-game-day-to-hollywood-sports-video-success-story-for-2024/"><u>[Updated] From Game Day to Hollywood  Sports Video Success Story for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-how-does-youtube-manage-post-upload-operations-for-2024/"><u>[Updated] How Does YouTube Manage Post-Upload Operations for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-see-your-subscribers-on-youtube-in-2024/"><u>[Updated] How to See Your Subscribers on YouTube, In 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-use-youtube-cards-and-annotations-in-2024/"><u>[Updated] How to Use YouTube Cards and Annotations, In 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-use-youtube-enhancements-for-2024/"><u>[Updated] How to Use YouTube Enhancements for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-finding-the-ideal-format-for-your-youtube-videos/"><u>[Updated] In 2024, Finding the Ideal Format for Your YouTube Videos</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-fixing-non-appearing-thumbnails-in-youtube-shorts/"><u>[Updated] In 2024, Fixing Non-Appearing Thumbnails in YouTube Shorts</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-free-fx-library-to-enhance-youtube-productions/"><u>[Updated] In 2024, Free FX Library to Enhance YouTube Productions</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-guide-to-avoidable-exposure-hiding-objects-and-faces-online/"><u>[Updated] In 2024, Guide to Avoidable Exposure  Hiding Objects and Faces Online</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-make-your-own-youtube-closures-without-spending/"><u>[Updated] In 2024, How to Make Your Own YouTube Closures Without Spending</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-top-8-free-sites-for-accessing-3d-text-psd-images/"><u>[Updated] Top 8 Free Sites for Accessing 3D Text PSD Images</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-the-essential-guide-to-speedy-windows-inspecting/"><u>2024 Approved  The Essential Guide to Speedy Windows Inspecting</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-triumph-over-triviality-amass-a-million-ish-followers-on-ig/"><u>2024 Approved  Triumph Over Triviality  Amass a Million-Ish Followers on IG</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/2024-approved-optimize-image-proportions/"><u>2024 Approved Optimize Image Proportions</u></a></li>
+<li><a href="https://fox-info.techidaily.com/discover-the-top-11-secrets-to-flawless-color-correction/"><u>Discover the Top 11 Secrets to Flawless Color Correction</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-remove-the-two-factor-authentication-from-apple-iphone-12-mini-by-drfone-ios/"><u>In 2024, How To Remove the Two Factor Authentication From Apple iPhone 12 mini</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-master-the-art-of-youtube-thumbnails-in-minutes/"><u>In 2024, Master the Art of YouTube Thumbnails in Minutes</u></a></li>
+</ul></div>

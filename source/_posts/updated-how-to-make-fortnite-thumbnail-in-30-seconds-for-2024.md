@@ -1,7 +1,7 @@
 ---
 title: "[Updated] How to Make Fortnite Thumbnail in 30 Seconds for 2024"
-date: 2024-06-06T15:57:08.909Z
-updated: 2024-06-07T15:57:08.909Z
+date: 2024-07-16T05:20:09.415Z
+updated: 2024-07-17T05:20:09.415Z
 tags:
   - ai video
   - ai youtube
@@ -40,6 +40,9 @@ Filmora has recently introduced a new feature named AI Portrait that uses Artifi
 
 **Step 03:** For creating a perfect thumbnail, select "Drone Free Camera" mode from the camera mode located on the bottom right corner of the screen. It will allow us to change the angle the way we want. Choose an angle of your choice and take the screenshot.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![make-fortnite-thumbnail-step3](https://images.wondershare.com/filmora/article-images/make-fortnite-thumbnail-step3.jpg)
 
 **Step 04:** Open Filmora X, make sure to select the 16:9 screen ratio. Import the screenshot using the import button.
@@ -52,10 +55,16 @@ Filmora has recently introduced a new feature named AI Portrait that uses Artifi
 
 **Step 06:** Now, let's separate the background and character. Go to the Effects, then AI Portrait, select Human Segmentation, and drop it into the screenshot.
 
+<!-- affiliate ads begin -->
+<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![make-fortnite-thumbnail-step6](https://images.wondershare.com/filmora/article-images/make-fortnite-thumbnail-step6.jpg)
 
 **Step 07:** Filmora will ask you to purchase it, but you can now hit "Try it" to use it.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![make-fortnite-thumbnail-step7](https://images.wondershare.com/filmora/article-images/make-fortnite-thumbnail-step7.jpg)
 
 **Step 08:** It will remove the background of the screenshot.
@@ -68,6 +77,9 @@ Filmora has recently introduced a new feature named AI Portrait that uses Artifi
 
 **Step 10:** To add titles in the Thumbnail, go to the Titles tab. Here you can find several categories of titles. Find your preferred title and drop it above all the layers. You can choose titles, lower thirds, and other texts depending upon your need and requirement.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![make-fortnite-thumbnail-step10](https://images.wondershare.com/filmora/article-images/make-fortnite-thumbnail-step10.jpg)
 
 **Step 11:** We can make this Fortnite Thumbnail look more attractive by adding elements such as stickers and icons. Filmora contains a wide range of stickers. To access them, navigate to the Elements tab. Here you can find so many categories of elements. Choose any elements according to your need and drop them in the timeline above all other layers. If you cannot find a suitable sticker, you can download one from the internet and use it by importing it into Filmora.
@@ -76,6 +88,9 @@ Filmora has recently introduced a new feature named AI Portrait that uses Artifi
 
 **Step 12:** Once you are satisfied with the final results, you can take the screenshot of the Thumbnail using the Snapshot icon located below the preview panel. It will create a screenshot in the media panel of Filmora.
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![make-fortnite-thumbnail-step12](https://images.wondershare.com/filmora/article-images/make-fortnite-thumbnail-step12.jpg)
 
 **Step 13:** To access the directory where this screenshot is saved, right-click on the screenshot and click on "Reveal in Explorer." It will open the folder that contains all the screenshots you take through Filmora. Your Fortnite Thumbnail is ready to be used on your Youtube videos.
@@ -86,6 +101,9 @@ Filmora has recently introduced a new feature named AI Portrait that uses Artifi
 
 With Filmora, there are no limits. You can use your imagination to create amazing Fortnite thumbnails or thumbnails for other purposes. This article is just a demo teaching you how you use Filmora X to develop free and astounding thumbnails. Explore other options and elements of Filmora to take your thumbnails to another level.
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
 Ollie Mattison
@@ -101,6 +119,9 @@ Follow @Ollie Mattison
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
+<!-- affiliate ads begin -->
+<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
+<!-- affiliate ads end -->
 ## Cultivating Growth: Selecting the Right Co-Stars for YouTube
 
 # How to Find YouTube Collaboration Partners?
@@ -116,21 +137,21 @@ Follow @Ollie Mattison
 The following is a guide to **YouTube collaborations** \- specifically, it's a list of tips for finding and approaching collab partners. Here are videos from 4 YouTubers who have done successful collabs about how they were able to get other creators to work with them.
 
 1. **[Tips from Tech YouTuber Roberto Blake](#blake)**  
-   1. _[Approach people you already have a relationship with](#askfriends)_  
-   2. _[Think about what your potential partner could have to offer your existing subscribers](#offer)_  
-   3. _[Create quality content consistently](#qualitycontent)_
+   1. _ [Approach people you already have a relationship with](#askfriends) _  
+   2. _ [Think about what your potential partner could have to offer your existing subscribers](#offer) _  
+   3. _ [Create quality content consistently](#qualitycontent) _
 2. **[Tips from YouTube Guru Nick Nimmin](#Nimmin)**  
-   1. _[Use the person’s name when you contact them](#usename)_  
-   2. _[Keep it simple](#simple)_  
-   3. _[Have ideas](#ideas)_
+   1. _ [Use the person’s name when you contact them](#usename) _  
+   2. _ [Keep it simple](#simple) _  
+   3. _ [Have ideas](#ideas) _
 3. **[Tips from Freelancer / Lifestyle Vlogger Amy Schmittauer](#schmittauer)**  
-   1. _[Networking is important in finding collab partners](#networking)_  
-   2. _[Don’t stray too far from your other content](#dontstray)_  
-   3. _[Thank the people you work with in your videos](#thankpeople)_
+   1. _ [Networking is important in finding collab partners](#networking) _  
+   2. _ [Don’t stray too far from your other content](#dontstray) _  
+   3. _ [Thank the people you work with in your videos](#thankpeople) _
 4. **[Tips from Lifestyle and Fashion YouTuber MyLifeAsEva](#gutowski)**  
-   1. _[Don’t approach other YouTubers as a ‘fan’](#notafan)_  
-   2. _[Ask questions](#ask)_  
-   3. _[Use Twitter](#twitter)_
+   1. _ [Don’t approach other YouTubers as a ‘fan’](#notafan) _  
+   2. _ [Ask questions](#ask) _  
+   3. _ [Use Twitter](#twitter) _
 
  Also, check out these tips on **[how to grow your channel using collab videos](https://tools.techidaily.com/wondershare/filmora/download/)**.
 
@@ -166,6 +187,9 @@ When you’re approaching someone for the first time, don’t overwhelm them wit
 
 Don’t make your potential partner do the work of pitching ideas to you. Be open to their ideas, but come up with 1 or 2 ideas of your own you can mention when you approach the creator you want to work with. People will be more likely to say ‘yes’ to a specific idea than to the idea of collaborating in general, if they don’t already know you.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Tips From Freelancer / Lifestyle Vlogger Amy Schmittauer
 
 **[Amy Schmittauer](https://www.youtube.com/user/savvysexysocial/featured)** of Savvy Sexy Social does vlogs, lifestyle videos, and provides tips on being a freelancer. After doing several collabs in one week, she posted this video about how collaborations work best and how you should approach people you might want to work with.
@@ -202,6 +226,9 @@ Twitter is the best place to make YouTube friends, in Eva’s opinion. It’s an
 
  Do you have any of your advice on YouTube collaborations?
 
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Excellent YouTube Video Editor Always Save Your Time
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
@@ -223,3 +250,42 @@ Follow @Richard Bennett
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-script-to-screen-building-a-youtube-trailer-in-filmora/"><u>[New] 2024 Approved  From Script to Screen  Building a YouTube Trailer in Filmora</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-videos-to-vault-ajays-revenue-journey-on-youtube/"><u>[New] 2024 Approved  From Videos to Vault  AJay’s Revenue Journey on YouTube</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-gain-money-on-youtube-understanding-required-number-of-views/"><u>[New] 2024 Approved  Gain Money on YouTube  Understanding Required Number of Views</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-convert-youtubes-audios-to-mp3-safely-step-by-step-guide/"><u>[New] 2024 Approved  How To Convert YouTube's Audios to MP3 Safely - Step-by-Step Guide</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-live-stream-archive-a-users-blueprint-to-downloadability/"><u>[New] 2024 Approved  Live Stream Archive  A User's Blueprint to Downloadability</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-concrete-jungles-to-eco-havens-rethinking-urban-living/"><u>[New] In 2024, From Concrete Jungles to Eco Havens  Rethinking Urban Living</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-gamers-signature-look-essential-template-tips-for-channels/"><u>[New] In 2024, Gamers' Signature Look  Essential Template Tips for Channels</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-guide-to-simplified-gs-yt-cta-implementation/"><u>[New] In 2024, Guide to Simplified GS-YT CTA Implementation</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-high-definition-hardware-unveiled-by-gamers/"><u>[New] In 2024, High-Definition Hardware Unveiled by Gamers</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-retrieve-your-voice-on-youtube-comments/"><u>[New] In 2024, How To Retrieve Your Voice on YouTube (Comments)</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-in-2024-immersive-e-commerce-advancements/"><u>[New] In 2024, Immersive E-Commerce Advancements</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-in-2024-unlock-the-power-of-quick-scrolling-tips-for-tiktok-users/"><u>[New] In 2024, Unlock the Power of Quick Scrolling  Tips for TikTok Users</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-experience-cinematic-adventure-with-intova-edge-x/"><u>[Updated] 2024 Approved  Experience Cinematic Adventure With Intova Edge X</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-finding-the-central-node-of-youtube-video-management/"><u>[Updated] 2024 Approved  Finding the Central Node of YouTube Video Management</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-shots-to-screens-the-importance-of-camera-lenses-in-vlogs/"><u>[Updated] 2024 Approved  From Shots to Screens  The Importance of Camera Lenses in Vlogs</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-harvesting-hits-and-heads-how-to-profit-from-your-youtube-presence-without-ads/"><u>[Updated] 2024 Approved  Harvesting Hits and Heads  How to Profit From Your YouTube Presence Without Ads</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-accelerate-your-youtube-upload-with-effective-rendering/"><u>[Updated] 2024 Approved  How to Accelerate Your YouTube Upload with Effective Rendering</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-analyzing-the-impact-of-burst-on-live-action-shoots/"><u>[Updated] Analyzing the Impact of Burst on Live-Action Shoots</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-financial-insights-for-vids-how-much-do-youtubers-earn-per-sponsorship-for-2024/"><u>[Updated] Financial Insights for Vids  How Much Do YouTubers Earn Per Sponsorship for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-finding-the-sweet-spot-optimal-youtube-video-upload-rates-for-growth-for-2024/"><u>[Updated] Finding the Sweet Spot  Optimal YouTube Video Upload Rates for Growth for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-free-high-quality-edits-explore-these-9-cloud-apps-for-2024/"><u>[Updated] Free, High-Quality Edits  Explore These 9 Cloud Apps for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-graphicgenius-suite-for-2024/"><u>[Updated] GraphicGenius Suite for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-execute-flawless-wirecast-broadcasts-on-youtube-for-2024/"><u>[Updated] How to Execute Flawless WireCast Broadcasts on YouTube for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-pick-a-youtube-channel-name-for-2024/"><u>[Updated] How To Pick a YouTube Channel Name for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-professional-insights-top-5-cloud-based-videographer-tools-for-2024/"><u>[Updated] Professional Insights  Top 5 Cloud-Based Videographer Tools for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-timing-duration-for-a-20mb-high-definition-video/"><u>[Updated] Timing Duration for a 20Mb High-Definition Video</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-transform-your-youtube-sign-up-rate-learn-anime-subscribe-buttons-in-filmora/"><u>[Updated] Transform Your YouTube Sign-Up Rate - Learn Anime Subscribe Buttons in Filmora</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-who-holds-sway-over-youtube-subscribers-in-2024/"><u>[Updated] Who Holds Sway Over YouTube Subscribers, In 2024</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/2024-approved-a-comprehensive-walkthrough-to-record-audio-on-powerpoint-dual-platform-approach-for-pcs-and-macs/"><u>2024 Approved A Comprehensive Walkthrough to Record Audio on PowerPoint Dual Platform Approach for PCs & Macs</u></a></li>
+<li><a href="https://location-fake.techidaily.com/a-detailed-guide-on-faking-your-location-in-mozilla-firefox-on-samsung-galaxy-xcover-7-drfone-by-drfone-virtual-android/"><u>A Detailed Guide on Faking Your Location in Mozilla Firefox On Samsung Galaxy XCover 7 | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/cheap-sky-expeditions-under-500-drone-highlights/"><u>Cheap Sky Expeditions  Under $500 Drone Highlights</u></a></li>
+<li><a href="https://howto.techidaily.com/full-guide-how-to-fix-connection-is-not-private-on-lava-storm-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Full Guide How To Fix Connection Is Not Private on Lava Storm 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-polka-dotted-parakeet-party/"><u>In 2024, Polka-Dotted Parakeet Party</u></a></li>
+<li><a href="https://network-issues.techidaily.com/nvidia-driver-issue-resolved-all-systems-go/"><u>Nvidia Driver Issue Resolved, All Systems Go</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-in-2024-essential-websites-to-foster-new-relationships-online-safely/"><u>Updated In 2024, Essential Websites to Foster New Relationships Online Safely</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  Finding Prominent Comment Spotlights\""
-date: 2024-06-06T15:19:32.097Z
-updated: 2024-06-07T15:19:32.097Z
+date: 2024-07-16T04:23:23.863Z
+updated: 2024-07-17T04:23:23.863Z
 tags:
   - ai video
   - ai youtube
@@ -54,10 +54,16 @@ For instance, you may want to check the following links. The 2 URLs lead you to 
 
 Notice the name "lc" in the first URL- that stands for linked comment. YouTube might include this additional parameter. If a reply comment (HR) gets highlighted, the parent comment gets raised to the top.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ## Part 2: What Does The Highlighted Comment Look Like?
 
 YouTube has been working on improving the navigation of the comment section for videos, and highlighted comments are one of them. These comments appear even above the pinned comments on a video. The label of a highlighted comment is displayed above the commentator's name in a light grey shade.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![YouTube Highlighted Comments](https://images.wondershare.com/filmora/article-images/youtube-highlighted-comments.jpg)
 
 YouTube labels comment replies as well and call it "Highlighted Reply." You can see this tag above the replier's name in the same color tone.
@@ -78,6 +84,9 @@ The ways to acquire the URL or link for a highlighted comment are different for 
 
 Suppose you are a viewer who is going through the comments section of a video. If you want to get the highlighted URL for the comment, simply click on the timestamp (e.g., 2 weeks ago) beside the commentator's username.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![YouTube Highlighted Comments](https://images.wondershare.com/filmora/article-images/youtube-highlighted-comments.jpg)
 
 On the other hand, for a YouTuber, getting access to the comment URL is relatively straightforward. The host will get a notification on his or her registered email-id when a viewer publishes a comment on their posted video. You will find the link to the highlighted comment in the notification
@@ -90,6 +99,9 @@ If you click the notification bell icon, whenever a viewer drops a new comment o
 
 Have you ever wondered why a highlighted comment always shows at the top of the comment list? Both the above options will lead you to the comment thread on YouTube. To help you find the new activity easily, it appears with the highlight tag on it. The purpose is to remind you that you are here for that specific comment.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ## Part 6: How to Remove Highlighted Comments?
 
 Can you, as a video maker, remove highlighted comments on YouTube? The direct answer to this would be a 'No.' It is because based on how you have opened the specific video, YouTube does it automatically.
@@ -104,6 +116,9 @@ Alternatively, you can try out a few temporary solutions.
 
 1. Try logging out from your Google Account and browse YouTube (anonymously). Doing this will ensure that you no longer see any highlighted comments. However, at the same time, this will restrict you from interacting in any way with that video, let alone leaving a comment.
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 7: Tips for Writing a Comment that will be Pinned as a Highlighted Comment?
 
 Many frequently inquire on the internet about how they can improve the chances of getting their comment pinned, as highlighted on YouTube. The secret lies in how you write the statement. We've listed a few pro tips below that can help:
@@ -132,6 +147,9 @@ It can connect you with potential viewers and increase the number of people that
 
 In this article, we have shared facts on YouTube's commonly seen highlighted comment feature. Yet, the term is a heavily misleading one, as far as viewers and Youtuber's are concerned. We have also covered all other aspects and queries related to this term. Here's hoping they clarify all your doubts.
 
+<!-- affiliate ads begin -->
+<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
 
 Liza Brown
@@ -188,6 +206,9 @@ Now that you're ready to sit down and write, here's what you do:
 
 The first step in writing a script is to develop an outline for the story. You might think that it is an unnecessary step, but it’s one of the most important steps to writing a script. The outline serves as a guide that will make the finished product better compared to when you just tried to wing it. One tip on how to write a script for a YouTube video is to have an outline for the beginning, middle, and ending of the video. Once you have all the elements of the story, then you can start with the first draft of the script.
 
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 2\. Set the tone
 
 The tone you pick for the video will depend on your audience. It’s safe to assume that viewers want something that’s unique, informative, and engaging. In some cases, they look for a video that’s personal, and they can relate to it. Humor is also something that you should consider when writing a script.
@@ -218,18 +239,27 @@ While you are scripting and focusing on the information you want to deliver, it�
 
 Remember to refer to your audience as ‘you’, not ‘you guys’ (you are speaking to individual viewers, not a collective) and to include moments of engagement throughout your videos. Ask your viewers questions to keep their minds active, this also encourages them to leave comments.
 
+<!-- affiliate ads begin -->
+<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
+<!-- affiliate ads end -->
 ## After Writing your YouTube Video Script
 
 After writing the script, the next step is to invite a trusted friend or family member to look at the script. Ask them for their feedback and if they have any ideas to add. And don’t forget, be open-minded to feedback
 
 These are the tips to keep in mind when considering how to write a script for a YouTube video.
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Add Subtitles to Your YouTube Video with Wondershare Filmora
 
 Creating subtitles with Wondershare Filmora is very easy and a newbie can easily add relevant texts to the video they are trying to edit with Filmora. You just simply need to launch Wondershare Filmora and import the video that you want to edit. Now, go to the Titles tab and select the template that you want to pick and drag it on the timeline and click Apply. This way you can easily start adding texts and titles to your videos and let the alphabets narrate your story.
 
 [![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 Richard Bennett
@@ -247,3 +277,47 @@ Follow @Richard Bennett
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-filmmakers-lounge-app/"><u>[New] 2024 Approved  Filmmaker's Lounge App</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-free-cash-flow-estimator-apps/"><u>[New] 2024 Approved  Free Cash Flow Estimator Apps</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-idea-to-screen-smartphone-video-creation-tips/"><u>[New] 2024 Approved  From Idea to Screen  Smartphone Video Creation Tips</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-gear-up-essential-asmr-microphones-to-consider/"><u>[New] 2024 Approved  Gear Up  Essential ASMR Microphones to Consider</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-hitting-the-high-scores-with-youtube-gaming-livestreams/"><u>[New] 2024 Approved  Hitting the High Scores with YouTube Gaming Livestreams</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-a-deep-dive-into-streamlining-your-google-podcast-process/"><u>[New] A Deep Dive Into Streamlining Your Google Podcast Process</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-harness-the-full-potential-of-video-tags-in-youtube-for-2024/"><u>[New] Harness the Full Potential of Video Tags in YouTube for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-how-to-be-a-youtube-gamer-for-2024/"><u>[New] How To Be a YouTube Gamer for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-finalcut-pro-elevating-your-youtube-edits-from-good-to-great/"><u>[New] In 2024, FinalCut Pro  Elevating Your YouTube Edits From Good to Great</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-free-7-best-apps-to-go-live-on-youtube-from-iphone-or-android/"><u>[New] In 2024, FREE 7 Best Apps to Go Live on YouTube From iPhone or Android</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-srt-shift-magic-subtitles-subc-conversion-guide/"><u>[New] SRT Shift Magic  Subtitles (SUBC) Conversion Guide</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-free-to-fiscal-determining-view-counts-for-youtube-earnings/"><u>[Updated] 2024 Approved  From Free to Fiscal  Determining View Counts for YouTube Earnings</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-pixels-to-popularity-crafting-engaging-youtube-thumbnails/"><u>[Updated] 2024 Approved  From Pixels to Popularity  Crafting Engaging YouTube Thumbnails</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-guidance-to-youtube-music-mix/"><u>[Updated] 2024 Approved  Guidance to YouTube Music Mix</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-choose-best-free-youtube-video-editor-apps-on-ios/"><u>[Updated] 2024 Approved  How to Choose Best-Free YouTube Video Editor Apps on iOS</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-pick-a-unique-name-for-youtube-channel-filmora/"><u>[Updated] 2024 Approved  How To Pick a Unique Name for YouTube Channel - Filmora</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-youtube-ad-revenue-how-much-do-youtubers-make-per-ad/"><u>[Updated] 2024 Approved  YouTube Ad Revenue  How Much Do YouTubers Make Per Ad?</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-fullview-pacts-the-art-of-media-company-selection-for-2024/"><u>[Updated] FullView Pacts  The Art of Media Company Selection for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-harmonize-your-youtube-presence-with-these-ideal-microphones-for-various-channels-for-2024/"><u>[Updated] Harmonize Your YouTube Presence With These Ideal Microphones for Various Channels for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-embed-youtube-in-google-slides-presentations-for-2024/"><u>[Updated] How to Embed YouTube in Google Slides Presentations for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-make-youtube-animated-subscribe-button-easily-in-filmora-for-2024/"><u>[Updated] How to Make YouTube Animated Subscribe Button Easily in Filmora for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-flavorful-frontier-groundbrenant-title-strategies-for-food-networks/"><u>[Updated] In 2024, Flavorful Frontier  Groundbrenant Title Strategies for Food Networks</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-free-profile-imagery-for-youtubers/"><u>[Updated] In 2024, Free Profile Imagery for YouTubers</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-last-to-first-deconstructing-your-video-watch-list/"><u>[Updated] In 2024, From Last to First  Deconstructing Your Video Watch List</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-recover-hidden-shorts-thumbnails-in-videos/"><u>[Updated] In 2024, How to Recover Hidden Shorts' Thumbnails in Videos</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-remove-background-noise-from-your-youtube-video/"><u>[Updated] In 2024, How To Remove Background Noise From Your Youtube Video</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-laughing-on-tiktok-current-hits-and-personalities-for-2024/"><u>[Updated] Laughing on TikTok  Current Hits & Personalities for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-mastering-youtube-ultimate-guide-to-live-360-degree-streams/"><u>[Updated] Mastering YouTube  Ultimate Guide to Live 360-Degree Streams</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/a-quick-guide-to-itel-s23-frp-bypass-instantly-by-drfone-android/"><u>A Quick Guide to Itel S23 FRP Bypass Instantly</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/capturing-unrooted-audio-4-easy-steps-for-android-for-2024/"><u>Capturing Unrooted Audio  4 Easy Steps for Android for 2024</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-video-files-on-realme-note-50-by-fonelab-android-recover-video/"><u>Complete guide for recovering video files on Realme Note 50</u></a></li>
+<li><a href="https://fox-info.techidaily.com/exploring-sky-vistas-yuneec-breezes-high-def-adventure-for-2024/"><u>Exploring Sky Vistas  Yuneec Breeze's High-Def Adventure for 2024</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/from-chords-to-chart-toppers-essential-musician-focused-youtube-content/"><u>From Chords to Chart-Toppers  Essential Musician-Focused YouTube Content</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-remove-phone-number-from-your-apple-id-from-your-apple-iphone-xs-by-drfone-ios/"><u>How To Remove Phone Number From Your Apple ID from Your Apple iPhone XS?</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-sharefake-gps-on-uber-for-nokia-xr21-drfone-by-drfone-virtual-android/"><u>How to share/fake gps on Uber for Nokia XR21 | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-a-network-locked-realme-11-proplus-phone-by-drfone-android/"><u>How to Unlock a Network Locked Realme 11 Pro+ Phone?</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-3-techniques-to-fix-iphone-hdr-blunders-in-premiere-pro/"><u>In 2024, 3 Techniques to Fix iPhone HDR Blunders in Premiere Pro</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-techniques-to-transfer-data-from-infinix-note-30-vip-racing-edition-to-iphone-15141312-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Techniques to Transfer Data from Infinix Note 30 VIP Racing Edition to iPhone 15/14/13/12 | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/in-2024-the-role-of-motion-leveraging-fb-ads-for-outstanding-roi/"><u>In 2024, The Role of Motion  Leveraging FB Ads for Outstanding ROI</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-the-ultimate-guide-to-free-online-video-stabilization-top-8-tools-and-tips-for-2024/"><u>Updated The Ultimate Guide to Free Online Video Stabilization Top 8 Tools and Tips for 2024</u></a></li>
+</ul></div>

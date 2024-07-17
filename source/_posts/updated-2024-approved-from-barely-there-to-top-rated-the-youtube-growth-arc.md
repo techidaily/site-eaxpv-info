@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  From Barely There to Top Rated  The Youtube Growth Arc\""
-date: 2024-06-06T14:39:57.234Z
-updated: 2024-06-07T14:39:57.234Z
+date: 2024-07-16T03:24:12.014Z
+updated: 2024-07-17T03:24:12.014Z
 tags:
   - ai video
   - ai youtube
@@ -18,6 +18,9 @@ thumbnail: https://thmb.techidaily.com/cf7a08bd282de8a6ab97b6e5d5d8ca10a7266e7f8
 
 # Case Study: How to Grow on YouTube to Have Millions of Subs
 
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
 ##### Shanoon Cox
@@ -30,6 +33,9 @@ You’ve probably heard of stories about individuals who managed to find financi
 
 Jesse Ridgway is the owner of the vlog [McJuggerNuggets](https://www.youtube.com/user/McJuggerNuggets), which has grown to over 3.4 million subscribers. He makes enough money to live off of YouTube alone. Here is a case study of how he made his first $10,000 on YouTube:
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Case Study of McJuggerNuggets
 
 ![Case Study McJugger Nuggets](https://images.wondershare.com/filmora/article-images/case-study-mcjugger-nuggets.jpg)
@@ -84,8 +90,14 @@ Timing and luck are definitely two of the biggest factors in becoming a success 
 
 ## Edit Your Videos with High-Quality Video Editor
 
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
 Shanoon Cox
@@ -101,6 +113,9 @@ Follow @Shanoon Cox
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ## Make Big Bucks Fast with a Focus on YouTube Short Video Creation
 
 YouTube Shorts have grown in popularity since the launch of the platform in 2021\. At first, they offered a way for creators to share their content in a vertical format. However, **YouTube Shorts monetization** is also a great way for creators to earn money. When you monetize YouTube shorts, you increase the potential of earning more income on the platform. In this article, we explore what entails monetized YouTube shorts and how to increase your YT shorts earnings.
@@ -109,6 +124,9 @@ YouTube Shorts have grown in popularity since the launch of the platform in 2021
 
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) [Learn More](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
 ![Wondershare Filmora 12](https://images.wondershare.com/filmora/banner/filmora-latest-product-box.png)
 
 ## **Part 1\. YouTube Shorts Monetization: Eligibility Criteria**
@@ -124,8 +142,14 @@ The easiest way to monetize Shorts on YouTube is to access the fan-funding progr
 * At least 3,000 public watch hours in the last 365 days, or
 * At least 3 million public Shorts views in the last 90 days
 
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![youtube shorts fund](https://images.wondershare.com/filmora/article-images/2023/how-to-make-money-from-youtube-shorts-requirements-and-earning-potential-1.JPG)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### **Eligibility for Monetizing Shorts and Videos**
 
 The other way you can monetize shorts is by accessing ad revenue and fan-funding. With this option, you will generate income from ads that appear between Shorts in addition to interacting with viewers. This is a great option for creators who make long and short videos. The requirements for this include:
@@ -170,6 +194,9 @@ In the top right of the YouTube page, click on your profile picture. From the po
 
 If you are eligible for the YPP, you will see an **Apply** Click on it to go to the next step. If you are not yet eligible, click the **Get Notified** button to be notified once your channel becomes eligible. That’s when you will have the opportunity to finish the application process.
 
+<!-- affiliate ads begin -->
+<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![youtube get notified](https://images.wondershare.com/filmora/article-images/2023/how-to-make-money-from-youtube-shorts-requirements-and-earning-potential-5.JPG)
 
 ##### Step 5
@@ -188,12 +215,18 @@ Link your existing AdSense account if you have one. If not. Click **Start** to s
 
 Wait for YouTube to review and approve your application. The process will normally take a month. Once you are approved for the YPP, go to the Earn section in YouTube Studio. Then accept the Shorts Monetization Module. This will allow you to access ads and other money-making tools on YouTube.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![youtube monetization module](https://images.wondershare.com/filmora/article-images/2023/how-to-make-money-from-youtube-shorts-requirements-and-earning-potential-8.JPG)
 
 The instructions shared above are for applying for the YPP using a computer or desktop. You will still follow the same steps when using a mobile device, but you will do so using the YouTube Studio app.
 
 The money-making feature monetizes Shorts in exciting ways. To start monetizing with Super Thanks fan funding, click Supers on the Earn tab in YouTube Studio. Then click Get Started, and follow the presented prompts. The same process is applicable for Channel Memberships, and other fan-funding options.
 
+<!-- affiliate ads begin -->
+<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
+<!-- affiliate ads end -->
 ## **Part 3\. YouTube Shorts Monetization: A Realistic Look at Earnings Potential**
 
 Monetizing YouTube Shorts has the potential to make decent earnings. Although the amount is not as much as a long-form videos, it is a great way of making money on YouTube quickly. Most YouTube Shorts creators agree that the revenue per thousand views (RPM) for short-form content is currently around $0.05 - $0.07\. This means that for a million Shorts views, you will make $50 - $70.
@@ -226,15 +259,15 @@ The best way to reap big from Shorts YouTube monetization is to make quality vid
 
 The choice of Filmora features you use on your editing projects will depend on your goals. Here are a few favorites to get you started:
 
-### **1\.** [**Auto Reframe**](https://tools.techidaily.com/wondershare/filmora/download/)
+### **1\.** **Auto Reframe**
 
 Before uploading a short-form video on YouTube, you want to make sure it is of the right resolution. The Auto Reframe feature on Filmora allows you to instantly resize your videos while keeping all the important details. You only need to record one video for all platforms, and edit to fit with auto reframe.
 
-### **2\.** **[Text to Speech](https://tools.techidaily.com/wondershare/filmora/download/)**
+### **2\.** ** Text to Speech
 
 Narration is an important aspect of YouTube Shorts. You can tell what is happening in the clip in the simplest way for your audience to understand. The Text to Speech (TTS) feature on Filmora allows you to convert your text files to voice-over. This makes your Shorts video more entertaining and enriched with more elements.
 
-### 3\. [**AI Portrait**](https://tools.techidaily.com/wondershare/filmora/download/)
+### 3\. **AI Portrait**
 
 Just like other vertical social media videos, Shorts require some bit of personalization. You may want to add a bit of elements or filters. The AI Portrait feature automatically removes background with high accuracy to further enhance your videos. It also comes with over 70 portrait and sticker effects to bring out the mood you are going after. Automatically recognize the faces of your subjects and add AR stickers on the go.
 
@@ -255,3 +288,60 @@ YouTube Shorts have become immensely popular. They tend to have a higher ROI and
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-web.techidaily.com/024-approved-channel-command-center-masterminding-visionary-content/"><u>[New] 2024 Approved  Channel Command Center  Masterminding Visionary Content</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-passive-to-profitable-8-beginners-revenue-hacks-for-youtube/"><u>[New] 2024 Approved  From Passive to Profitable  8 Beginner's Revenue Hacks for YouTube</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-get-more-out-of-youtube-with-8-handpicked-download-apps/"><u>[New] 2024 Approved  Get More Out of YouTube with 8 Handpicked Download Apps</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-getting-more-out-of-youtube-top-8-mobile-downloader-tips/"><u>[New] 2024 Approved  Getting More Out of YouTube  Top 8 Mobile Downloader Tips</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-create-a-youtube-channel-today/"><u>[New] 2024 Approved  How to Create A YouTube Channel Today</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-stand-out-innovations-for-haul-video-creators/"><u>[New] 2024 Approved  How to Stand Out  Innovations for Haul Video Creators</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-transform-smartphone-capabilities-into-a-professional-yt-channel/"><u>[New] 2024 Approved  How to Transform Smartphone Capabilities Into a Professional YT Channel</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-fresh-pioneers-8-youtubes-fastest-climbers-for-2024/"><u>[New] Fresh Pioneers 8  YouTube's Fastest Climbers for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-from-basic-to-breakthrough-a-youtube-live-thumbnail-journey-for-2024/"><u>[New] From Basic to Breakthrough  A YouTube Live Thumbnail Journey for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-get-youtube-posters-at-zero-price-top-free-downloading-tool-for-2024/"><u>[New] Get YouTube Posters at Zero Price - Top Free Downloading Tool for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-guide-to-supercharged-video-engagement-with-youtube-notes-for-2024/"><u>[New] Guide to Supercharged Video Engagement with YouTube Notes for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-hasty-guide-from-raw-images-to-high-quality-youtube-thumbnail-art-for-2024/"><u>[New] Hasty Guide  From Raw Images to High-Quality YouTube Thumbnail Art for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-how-much-does-youtube-pay-for-1-million-views-in-2024/"><u>[New] How Much Does YouTube Pay for 1 Million Views, In 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-how-secure-is-subforsup-to-expand-your-youtube-community-safely-for-2024/"><u>[New] How Secure Is Subforsup to Expand Your YouTube Community Safely for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-how-to-render-and-upload-your-youtube-video-faster-in-2024/"><u>[New] How to Render and Upload Your YouTube Video Faster, In 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-celebrating-androids-best-moba-players-today/"><u>[New] In 2024, Celebrating Android's Best MOBA Players Today</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-highlighting-youtubes-creme-de-la-creme-makeup-influencers/"><u>[Updated] 2024 Approved  Highlighting YouTube's Crème De La Crème Makeup Influencers</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-2024-approved-the-art-of-visual-anonymity-in-videos/"><u>[Updated] 2024 Approved  The Art of Visual Anonymity in Videos</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-androids-premier-photographic-tool-is-pickup-at-the-forefront/"><u>[Updated] Android’s Premier Photographic Tool – Is PickUp at the Forefront?</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-creating-captivating-tiktok-outro-sequences/"><u>[Updated] Creating Captivating TikTok Outro Sequences</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-free-online-tools-for-youtube-channel-starters-for-2024/"><u>[Updated] Free Online Tools for YouTube Channel Starters for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-high-income-content-makers-for-2024/"><u>[Updated] High-Income Content Makers for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-hone-your-message-effective-use-of-templates-for-shorts-for-2024/"><u>[Updated] Hone Your Message  Effective Use of Templates for Shorts for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-animate-and-make-your-own-effects-for-2024/"><u>[Updated] How to Animate and Make Your Own Effects for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-flipping-the-script-mobile-filmmaking-and-youtube-thumbnail-tricks/"><u>[Updated] In 2024, Flipping the Script  Mobile Filmmaking & YouTube Thumbnail Tricks</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-frameworks-for-compelling-youtube-content-layouts/"><u>[Updated] In 2024, Frameworks for Compelling YouTube Content Layouts</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-free-youtube-revenue-predictor-tools/"><u>[Updated] In 2024, Free YouTube Revenue Predictor Tools</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-smartphone-stories-to-youtube-success-a-step-by-step-mobile-guide/"><u>[Updated] In 2024, From Smartphone Stories to YouTube Success  A Step-by-Step Mobile Guide</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-zero-to-hundred-hundreders-yt-success-story/"><u>[Updated] In 2024, From Zero to Hundred Hundreders  YT Success Story</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-gain-momentum-with-these-strategies-for-trending-youtubers/"><u>[Updated] In 2024, Gain Momentum with These Strategies for Trending YouTubers</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-gamers-sound-showdown-the-top-5-headset-list/"><u>[Updated] In 2024, Gamers' Sound Showdown  The Top 5 Headset List</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-historical-wisdom-on-youtube-for-students/"><u>[Updated] In 2024, Historical Wisdom on YouTube for Students</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-make-profitable-youtube-ads-for-free/"><u>[Updated] In 2024, How To Make Profitable YouTube Ads for Free?</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-use-a-tripod-for-vlogging/"><u>[Updated] In 2024, How To Use a Tripod for Vlogging</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-step-by-step-guide-to-find-youtube-hidden-videos/"><u>[Updated] In 2024, Step-By-Step Guide to Find YouTube Hidden Videos</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-transfer-tactics-for-seamless-online-video-sharing/"><u>[Updated] Transfer Tactics for Seamless Online Video Sharing</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-transform-your-content-game-with-creator-studio-insight/"><u>[Updated] Transform Your Content Game with Creator Studio Insight</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-ultimate-list-hashtags-for-maximum-video-engagement-in-games-for-2024/"><u>[Updated] Ultimate List  Hashtags for Maximum Video Engagement in Games for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-breaking-into-design-your-strategy-for-career-success/"><u>2024 Approved  Breaking Into Design  Your Strategy for Career Success</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-djis-sky-high-creativity-with-pro-drone-review/"><u>2024 Approved  DJI's Sky-High Creativity with Pro Drone Review</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-navigating-easily-through-trending-youtube-comments/"><u>2024 Approved  Navigating Easily Through Trending YouTube Comments</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-personal-aerial-companions-gps-drones-that-never-stray/"><u>2024 Approved  Personal Aerial Companions - GPS Drones that Never Stray</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/2024-approved-compiling-echoes-and-ambiances-key-sites-for-podcast-soundtracks/"><u>2024 Approved Compiling Echoes and Ambiances Key Sites for Podcast Soundtracks</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/best-photo-and-video-display-apps-for-iphone-series-78-for-2024/"><u>Best Photo & Video Display Apps for iPhone Series 7/8 for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/frame-freezing-banishing-blurry-bites/"><u>Frame Freezing  Banishing Blurry Bites</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/guide-to-capturing-google-voice-chats-for-2024/"><u>Guide to Capturing Google Voice Chats for 2024</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-3-methods-to-mirror-infinix-smart-8-pro-to-roku-drfone-by-drfone-android/"><u>In 2024, 3 Methods to Mirror Infinix Smart 8 Pro to Roku | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-unlock-icloud-activation-lock-and-icloud-account-from-apple-iphone-11-pro-max-by-drfone-ios/"><u>In 2024, How to Unlock iCloud Activation Lock and iCloud Account From Apple iPhone 11 Pro Max?</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/the-top-5-android-apps-that-use-fingerprint-sensor-to-lock-your-apps-on-nubia-red-magic-8s-pro-by-drfone-android/"><u>The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On Nubia Red Magic 8S Pro</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/the-ultimate-guide-to-unlocking-apple-watch-or-iphone-8-plus-from-icloud-by-drfone-ios/"><u>The Ultimate Guide to Unlocking Apple Watch Or iPhone 8 Plus from iCloud</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-brighter-videos-ahead-top-online-and-desktop-brightness-editors-for-2024/"><u>Updated Brighter Videos Ahead Top Online and Desktop Brightness Editors for 2024</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-revamp-your-sound-engineering-installing-and-configuring-lame-mp3-encoder-for-audacity/"><u>Updated Revamp Your Sound Engineering Installing and Configuring Lame MP3 Encoder for Audacity</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-top-rated-mac-mp3-conversion-tools-a-comprehensive-guide/"><u>Updated Top-Rated Mac MP3 Conversion Tools A Comprehensive Guide</u></a></li>
+</ul></div>

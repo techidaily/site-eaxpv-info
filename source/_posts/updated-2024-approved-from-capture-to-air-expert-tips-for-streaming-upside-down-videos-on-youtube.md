@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  From Capture to Air  Expert Tips for Streaming Upside-Down Videos on Youtube\""
-date: 2024-06-06T15:18:05.106Z
-updated: 2024-06-07T15:18:05.106Z
+date: 2024-07-16T04:21:12.244Z
+updated: 2024-07-17T04:21:12.244Z
 tags:
   - ai video
   - ai youtube
@@ -18,6 +18,9 @@ thumbnail: https://thmb.techidaily.com/c2522eefb8fbc96fa570f56849cfdf92d72e221bd
 
 # How to live streaming 360 video to youtube
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 ##### Richard Bennett
@@ -27,37 +30,52 @@ thumbnail: https://thmb.techidaily.com/c2522eefb8fbc96fa570f56849cfdf92d72e221bd
 * [Part1.Stream 360 to Youtube via Ricoh Theta S and OBS on PC](#part1)
 * [Part2.Live Stream from Allie 360 Camera to YouTube on Mobile](#part2)
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 1\. Stream 360 to Youtube via Ricoh Theta S and OBS on PC
 
 **Step 1:** First of all you need to get ready with your Ricoh Theta S 360 camera unit.
 
-**Step 2:** Now visit the [official website](https://theta360.com/en/support/download/ ) of Theta 360 in order to download your dedicated live streaming application.
+**Step 2:** Now visit the [official website](https://theta360.com/en/support/download/) of Theta 360 in order to download your dedicated live streaming application.
 
-![ official website](https://images.wondershare.com/filmora/article-images/official-website.jpg)
+![official website](https://images.wondershare.com/filmora/article-images/official-website.jpg)
 
 **Step 3:** Get your application and install it on your Mac or PC as per need.
 
 **Step 4:** It is time to plug in to your Ricoh Theta S 360 camera using your PC.
 
-![ Richoh Theta](https://images.wondershare.com/filmora/article-images/richoh-theta.jpg)
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
+<!-- affiliate ads end -->
+![Richoh Theta](https://images.wondershare.com/filmora/article-images/richoh-theta.jpg)
 
 **Step 5:** Now select your device ‘Ricoh Theta S’ and then hit Okay.
 
-![ click OK](https://images.wondershare.com/filmora/article-images/click-ok.jpg)
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![click OK](https://images.wondershare.com/filmora/article-images/click-ok.jpg)
 
 **Step 6:**  You will find option to register to application with your respective device. Select and hit register.
 
-![Click register ](https://images.wondershare.com/filmora/article-images/click-register.jpg)
+![Click register](https://images.wondershare.com/filmora/article-images/click-register.jpg)
 
 **Step 7:** As soon as your registration process is complete then un-plug your USB cable.
 
 **Step 8:** It is time to turn the Ricoh Theta device to Live Mode; you simple need to press the top power and lower video button simultaneously to directly switch to the live mode.
 
-![ bottom video](https://images.wondershare.com/filmora/article-images/bottom-video.jpg)
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![bottom video](https://images.wondershare.com/filmora/article-images/bottom-video.jpg)
 
 **Step 9:** Once your device enters into Live Stream mode then a Led will start blinking on your device that represents your device is live at this moment.
 
-![led ](https://images.wondershare.com/filmora/article-images/led.jpg)
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![led](https://images.wondershare.com/filmora/article-images/led.jpg)
 
 **Step 10:** Now you need to plug in the USB cable again with your computer.
 
@@ -65,47 +83,53 @@ thumbnail: https://thmb.techidaily.com/c2522eefb8fbc96fa570f56849cfdf92d72e221bd
 
 **Step 12:** Go to create scene option and then switch to create sources.
 
-![Create scene ](https://images.wondershare.com/filmora/article-images/create-scene.jpg)
+![Create scene](https://images.wondershare.com/filmora/article-images/create-scene.jpg)
 
 **Step 13:** Select video capture device as your source from drop down menu.
 
-![device as ](https://images.wondershare.com/filmora/article-images/device-as.jpg)
+![device as](https://images.wondershare.com/filmora/article-images/device-as.jpg)
 
 **Step 14:** Now from available list select Theta UVC as your active video capture source.
 
-![Theta UVC ](https://images.wondershare.com/filmora/article-images/theta-uvc.jpg)
+![Theta UVC](https://images.wondershare.com/filmora/article-images/theta-uvc.jpg)
 
 **Step 15:** You need to adjust screen as per your requirements.
 
-![screen ](https://images.wondershare.com/filmora/article-images/screen.jpg)
+![screen](https://images.wondershare.com/filmora/article-images/screen.jpg)
 
 **Step 16:** Now move to YouTube and then hit New Live Events option.
 
-![new live events ](https://images.wondershare.com/filmora/article-images/new-live-events.jpg)
+![new live events](https://images.wondershare.com/filmora/article-images/new-live-events.jpg)
 
 **Step 17:** Complete the basic information.
 
-![basic info ](https://images.wondershare.com/filmora/article-images/basic-info.jpg)
+![basic info](https://images.wondershare.com/filmora/article-images/basic-info.jpg)
 
 **Step 18:** You need to move to advanced settings now; select 360 live stream option and then create event.
 
 **Step 19:** Now complete the ingesting settings and finally select create new stream option.
 
-![new stream option ](https://images.wondershare.com/filmora/article-images/new-stream-option.jpg)
+![new stream option](https://images.wondershare.com/filmora/article-images/new-stream-option.jpg)
 
 **Step 20:** As soon as your event is created then you will be able to find your stream name on screen, copy it and simply paste it on OBS window.
 
-![ingesting settings ](https://images.wondershare.com/filmora/article-images/ingesting-settings.jpg)
+<!-- affiliate ads begin -->
+<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![ingesting settings](https://images.wondershare.com/filmora/article-images/ingesting-settings.jpg)
 
 **Step 21:** It is time to return to OBS settings and then you need to paste that copied name on stream key option.
 
-![paste to obs ](https://images.wondershare.com/filmora/article-images/paste-to-obs.jpg)
+![paste to obs](https://images.wondershare.com/filmora/article-images/paste-to-obs.jpg)
 
 **Step 22:** Once all above settings are complete then click start stream option from your OBS window and you will soon be able to find your 360 live on YouTube.
 
-![stream key ](https://images.wondershare.com/filmora/article-images/stream-key.jpg)
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![stream key](https://images.wondershare.com/filmora/article-images/stream-key.jpg)
 
-![360 live ](https://images.wondershare.com/filmora/article-images/360-live.jpg)
+![360 live](https://images.wondershare.com/filmora/article-images/360-live.jpg)
 
 ## 2.Live Stream from Allie 360 Camera to YouTube on Mobile
 
@@ -120,24 +144,30 @@ thumbnail: https://thmb.techidaily.com/c2522eefb8fbc96fa570f56849cfdf92d72e221bd
 
 **Step 4:** As soon as you have downloaded your app then simply turn on the Bluetooth, Wi-Fi and air plane mode on your device.
 
-![air plane mode ](https://images.wondershare.com/filmora/article-images/air-plane-mode.jpg)
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![air plane mode](https://images.wondershare.com/filmora/article-images/air-plane-mode.jpg)
 
 **Step 5:** Simply open your Allie application and then connect your camera.
 
-![allie app ](https://images.wondershare.com/filmora/article-images/allie-app.jpg)
+![allie app](https://images.wondershare.com/filmora/article-images/allie-app.jpg)
 
 **Step 6:** Now users need to hit stream icon on screen.
 
-![  icon on ](https://images.wondershare.com/filmora/article-images/icon-on.jpg)
+![icon on](https://images.wondershare.com/filmora/article-images/icon-on.jpg)
 
 **Step 7:** You will be asked to fill the necessary information about your video. It is also possible to make adjustments regarding video quality. Once you are done with all required settings then hit Submit option.
 
-![click submit ](https://images.wondershare.com/filmora/article-images/click-submit.jpg)
+![click submit](https://images.wondershare.com/filmora/article-images/click-submit.jpg)
 
 **Step 8:** Soon your video will become live; note that you can also share your live video via SNS platform with other viewers.
 
-![SNS platform ](https://images.wondershare.com/filmora/article-images/sns-platform.jpg)
+![SNS platform](https://images.wondershare.com/filmora/article-images/sns-platform.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 Richard Bennett
@@ -160,3 +190,46 @@ Follow @Richard Bennett
 ![](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-free-mindset-audio-selection/"><u>[New] 2024 Approved  Free Mindset Audio Selection</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-free-webinar-creation-and-management-on-youtube/"><u>[New] 2024 Approved  Free Webinar Creation & Management on Youtube</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-screens-to-spreads-the-dos-and-donts-of-live-blogging/"><u>[New] 2024 Approved  From Screens to Spreads  The Do's and Don'ts of Live Blogging</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-get-rid-of-youtube-shorts-a-comprehensible-guide/"><u>[New] 2024 Approved  Get Rid of YouTube Shorts  A Comprehensible Guide</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-design-a-great-gaming-youtube-banner-with-templates/"><u>[New] 2024 Approved  How to Design a Great Gaming YouTube Banner with Templates</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-leave-a-lasting-impression-with-your-video-ending/"><u>[New] 2024 Approved  How to Leave a Lasting Impression with Your Video Ending</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-search-comments-on-youtube-quickly/"><u>[New] 2024 Approved  How to Search Comments on YouTube Quickly?</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-charting-the-course-to-youtube-livestream-mastery-for-2024/"><u>[New] Charting the Course to YouTube Livestream Mastery for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-fast-guide-transforming-images-into-youtube-desktop-thumbnails-for-2024/"><u>[New] Fast Guide  Transforming Images Into YouTube Desktop Thumbnails for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-first-steps-in-filmmaking-essentials-for-new-youtube-talents-for-2024/"><u>[New] First Steps in Filmmaking  Essentials for New YouTube Talents for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-from-recording-to-viewing-a-complete-guide-for-sharing-ultra-hd-on-youtube-for-2024/"><u>[New] From Recording to Viewing  A Complete Guide for Sharing Ultra HD on Youtube for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-get-your-digital-dough-worthy-with-these-50-no-cost-youtube-promo-tools-for-2024/"><u>[New] Get Your Digital Dough Worthy With These 50 No-Cost YouTube Promo Tools for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-harnessing-the-power-of-color-difference-keying-methods-for-2024/"><u>[New] Harnessing the Power of Color Difference Keying Methods for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-high-quality-youtube-images-download-without-any-cost-for-2024/"><u>[New] High-Quality YouTube Images  Download Without Any Cost for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-archive-slideshow-in-high-quality-video-for-2024/"><u>[Updated] Archive Slideshow in High-Quality Video for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-free-youtube-spotlight-with-two-key-approaches-for-2024/"><u>[Updated] Free YouTube Spotlight with Two Key Approaches for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-guerrilla-mic-guide-top-chip-selection-on-a-shoestring-for-2024/"><u>[Updated] Guerrilla Mic Guide  Top Chip Selection on a Shoestring for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-home-studio-heroics-your-path-to-effectful-artistry-for-2024/"><u>[Updated] Home Studio Heroics  Your Path to Effectful Artistry for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-unlock-youtubes-enigmentic-video-cache-for-2024/"><u>[Updated] How to Unlock YouTube’s Enigmentic Video Cache for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-fast-lanes-for-jumbled-youtube-playlist-arrangement/"><u>[Updated] In 2024, Fast Lanes for Jumbled YouTube Playlist Arrangement</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-free-explore-youtubes-9-premium-full-length-christmas-flicks/"><u>[Updated] In 2024, Free  Explore YouTube's 9 Premium Full-Length Christmas Flicks</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-capture-to-share-proven-methods-for-live-360-video-on-youtube/"><u>[Updated] In 2024, From Capture to Share  Proven Methods for Live 360° Video on Youtube</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-passion-to-prominence-the-creators-quest/"><u>[Updated] In 2024, From Passion to Prominence  The Creator's Quest</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-harmonize-your-favorites-creating-custom-youtube-playlists/"><u>[Updated] In 2024, Harmonize Your Favorites  Creating Custom YouTube Playlists</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-hasty-thumbnail-crafting-for-fortnite-gameplay/"><u>[Updated] In 2024, Hasty Thumbnail Crafting for Fortnite Gameplay</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-increase-youtube-traffic-by-a-million-safely-done/"><u>[Updated] In 2024, How to Increase YouTube Traffic by a Million  Safely Done</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-make-your-youtube-moments-come-alive-creating-dynamic-gifs/"><u>[Updated] In 2024, How to Make Your YouTube Moments Come Alive  Creating Dynamic GIFs</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-mastering-video-cover-updates-on-facebook/"><u>[Updated] Mastering Video Cover Updates on Facebook</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-social-media-content-conundrums-finding-elusive-vids-for-2024/"><u>[Updated] Social Media Content Conundrums  Finding Elusive Vids for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-circumventing-video-send-blockages-in-facebook-chat-apps/"><u>2024 Approved  Circumventing Video Send Blockages in Facebook Chat Apps</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/approved-essential-tools-top-8-mirrorless-cams-for-professional-filmmakers/"><u>2024 Approved  Essential Tools  Top 8 Mirrorless Cams For Professional Filmmakers</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-transform-your-channels-look-for-free/"><u>2024 Approved  Transform Your Channel's Look for Free</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/crack-the-code-of-content-discovery-on-facebook-for-2024/"><u>Crack the Code of Content Discovery on Facebook for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/different-methods-to-unlock-your-apple-iphone-14-pro-by-drfone-ios/"><u>Different Methods To Unlock Your Apple iPhone 14 Pro</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/how-to-use-motion-blur-on-video-star-for-2024/"><u>How To Use Motion Blur On Video Star for 2024</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-the-strategic-use-of-tags-a-guide-to-youtube-success/"><u>In 2024, The Strategic Use of Tags  A Guide to YouTube Success</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/the-art-of-synchronizing-video-to-music-techniques/"><u>The Art of Synchronizing Video to Music Techniques</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-2024-approved-the-editors-guide-to-beat-matching-seamless-integration-of-music-and-motion-in-fcpx/"><u>Updated 2024 Approved The Editors Guide to Beat Matching Seamless Integration of Music and Motion in FCPX</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-top-video-editing-apps-for-smartphones-iphone-and-android/"><u>Updated 2024 Approved Top Video Editing Apps for Smartphones IPhone and Android</u></a></li>
+</ul></div>

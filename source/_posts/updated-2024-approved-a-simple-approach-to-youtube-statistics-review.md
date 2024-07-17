@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  A Simple Approach to YouTube Statistics Review\""
-date: 2024-06-06T16:10:18.568Z
-updated: 2024-06-07T16:10:18.568Z
+date: 2024-07-16T05:40:00.782Z
+updated: 2024-07-17T05:40:00.782Z
 tags:
   - ai video
   - ai youtube
@@ -18,6 +18,9 @@ thumbnail: https://thmb.techidaily.com/efe03172267db8e41dde950b174798601940a2258
 
 # How to View YouTube Statistics
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 ##### Richard Bennett
@@ -35,14 +38,32 @@ The information available for each video includes how many new subscribers it at
 * **[Interpreting YouTube Interaction Reports](#interaction)**
 * **[How to View Other People's YouTube Statistics](#otherpeople)**
 
+<!-- affiliate ads begin -->
+<span id="1997795">
+					<video width="250" height="250" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Making Better YouTube Videos with Filmora to Get More Views
 
 As one of the best video editing software for YouTube, [Filmora](https://tools.techidaily.com/wondershare/filmora/download/) provides lots of templates and effects with an intuitive interface, which saves much time. After editing, you can upload the video to YouTube directly when export. Download the free trial version below and start making YouTube videos with Filmora.
 
 [![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 [![Get free YouTube Subscribers Guide Banner](https://images.wondershare.com/filmora/article-images/get-free-youtube-subs-banner.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+
+<!-- affiliate ads end -->
 ## How to View Your YouTube Statistics
 
 In order to view your YouTube Analytics, sign in to your YouTube account and go to your Creator Studio. From there, click into the Analytics tab in the menu on the left of your screen.
@@ -51,6 +72,9 @@ In order to check which of your videos are performing the best, click on **Watch
 
 The two main types of analytics reports are Watch Time Reports and Interaction Reports.
 
+<!-- affiliate ads begin -->
+<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 1. Interpreting YouTube Watch Time Reports
 
 To find **Watch time reports** you just need to log into your Google account, go to the **Creator studio**, click the analytics tab, and then click on **watch time**. You can see the watch time of every video on your channel, which is important data to have because watch time is the most important factor when it comes to ranking your video in search results.
@@ -63,7 +87,7 @@ Alongside watch time you can see the average duration individual viewers are wat
 
 In the watch time reports for individual videos, you will be able to see data on where your views are coming from and which demographics are watching the most. Where your viewers are watching, in terms of desktop or mobile, is also interesting data that is available in this section.
 
-Click here for more tips on[increasing your views](https://www.filmora.io/community-blog/12-proven-ways-to-increase-youtube-views-315.html).
+Click here for more tips on [increasing your views](https://www.filmora.io/community-blog/12-proven-ways-to-increase-youtube-views-315.html).
 
 ### 2. Interpreting YouTube Interaction Reports
 
@@ -89,6 +113,9 @@ Interaction reports can be broken down into several different reports that can h
 
 **7\. 360 heat map reports:** A heat map report works specifically with 360° videos if you are choosing to engage your audience with this type of content. Viewing YouTube video statistics for 360° heat maps will help to show the areas on your video that viewers are most interested in.
 
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to View Other Peoples YouTube Statistics
 
 If you want to check out the statistics of rival YouTube channels ([including the most subscribed channels on YouTube](https://www.filmora.io/community-blog/youtube-subscriber-chart---the-5-most-subscribed-youtube-channels-320.html)), or channels you’re a fan of, try using [Social Blade](http://www.socialblade.com). Social Blade is one of the most trusted sources of YouTube data, and it may actually be easier to check your own basic stats there than in the Creator Studio sometimes due to their simple layout. To get started all you need to do is type the name of any YouTube channel into the search bar. You’ll be able to see reports on daily views, channel growth, and even estimated ad revenue ([learn more about how to view a channel's ad revenue here](https://www.filmora.io/community-blog/youtube-view-calculators---calculate-youtube-money%21-322.html)).
@@ -111,3 +138,47 @@ Follow @Richard Bennett
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-accelerate-your-youtube-channels-growth-to-1kplus/"><u>[New] 2024 Approved  Accelerate Your YouTube Channel's Growth to 1K+</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-fb-share-strategies-for-your-youtube-content/"><u>[New] 2024 Approved  FB Share Strategies for Your YouTube Content</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-find-8-digital-hubs-offering-free-green-screen-elements-and-scenes/"><u>[New] 2024 Approved  Find 8 Digital Hubs Offering Free Green-Screen Elements & Scenes</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-first-steps-to-fame-8-free-courses-for-youtube-novices/"><u>[New] 2024 Approved  First Steps to Fame  8 Free Courses for YouTube Novices</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-flash-vids-unpacked-whats-inside/"><u>[New] 2024 Approved  Flash Vids Unpacked  What's Inside?</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-conference-call-to-online-showcase-google-meet-on-youtube/"><u>[New] 2024 Approved  From Conference Call to Online Showcase  Google Meet on YouTube</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-idea-to-impact-top-8-online-courses-for-new-creators/"><u>[New] 2024 Approved  From Idea to Impact  Top 8 Online Courses for New Creators</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-balance-youtube-with-a-full-time-job/"><u>[New] 2024 Approved  How to Balance YouTube with a Full-Time Job</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-convert-youtube-views-into-cash-through-ads/"><u>[New] 2024 Approved  How to Convert YouTube Views Into Cash Through Ads</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-instantly-design-custom-coverage-for-your-short-videos/"><u>[New] 2024 Approved  How To Instantly Design Custom Coverage For Your Short Videos</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-sculpt-the-perfect-youtube-moniker-tips-and-tricks/"><u>[New] 2024 Approved  How to Sculpt the Perfect YouTube Moniker  Tips & Tricks</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-filmmakers-choice-selecting-perfect-lenses-for-youtube-creation-for-2024/"><u>[New] Filmmaker's Choice  Selecting Perfect Lenses for YouTube Creation for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-free-explore-youtubes-9-premium-full-length-christmas-flicks-for-2024/"><u>[New] Free  Explore YouTube's 9 Premium Full-Length Christmas Flicks for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-frolic-in-fun-the-best-comedy-centric-concepts-for-shorter-videos-for-2024/"><u>[New] Frolic in Fun  The Best Comedy-Centric Concepts for Shorter Videos for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-from-video-views-to-vault-closure-income-insights-for-youtubers-for-2024/"><u>[New] From Video Views to Vault Closure  Income Insights for Youtubers for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-gags-and-grins-techniques-in-parody-production-for-2024/"><u>[New] Gags and Grins  Techniques in Parody Production for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-generating-an-effective-youtube-subscribe-link-for-2024/"><u>[New] Generating an Effective YouTube Subscribe Link for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-harness-high-quality-banners-free-for-content-developers-for-2024/"><u>[New] Harness High-Quality Banners – Free for Content Developers for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-iphone-photography-made-easier-with-these-4-blur-techniques/"><u>[New] IPhone Photography Made Easier with These 4 Blur Techniques</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-spot-real-vs-sham-accounts-in-instagram-life-for-2024/"><u>[New] Spot Real Vs. Sham Accounts in Instagram Life for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-unrivaled-narratives-crafted-in-eight-film-fields/"><u>[New] Unrivaled Narratives Crafted in Eight Film Fields</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-ticking-time-away-with-obs-creating-a-countdown-timer/"><u>[Updated] 2024 Approved  Ticking Time Away with OBS  Creating a Countdown Timer</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-from-lens-to-legacy-building-a-lasting-career-in-travel-blogging-for-2024/"><u>[Updated] From Lens to Legacy  Building a Lasting Career in Travel Blogging for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-getting-started-with-your-youtube-channel-essentials-for-2024/"><u>[Updated] Getting Started with Your YouTube Channel – Essentials for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-harmonize-your-preferences-how-to-create-an-engaging-youtube-playlist-for-2024/"><u>[Updated] Harmonize Your Preferences  How to Create an Engaging YouTube Playlist for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-find-youtube-collaboration-partners-in-2024/"><u>[Updated] How to Find YouTube Collaboration Partners, In 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-make-video-thumbnails-for-youtube-for-2024/"><u>[Updated] How to Make Video Thumbnails for YouTube for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-direct-hit-the-techno-friendly-way-to-upload-your-short-clips/"><u>[Updated] In 2024, Direct Hit  The Techno-Friendly Way to Upload Your Short Clips</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-fixing-the-no-thumbnail-issue-in-youtubes-shorts-videos/"><u>[Updated] In 2024, Fixing the No-Thumbnail Issue in YouTubes Shorts Videos</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-flawless-offline-viewing-your-guide-to-mobile-video-downloads-for-idevices/"><u>[Updated] In 2024, Flawless Offline Viewing  Your Guide to Mobile Video Downloads for iDevices</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-follow-your-favorites-top-6-mobile-apps-for-downloading-youtube-beats/"><u>[Updated] In 2024, Follow Your Favorites  Top 6 Mobile Apps for Downloading YouTube Beats</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-frame-by-frame-building-a-filmmaking-foundation-on-youtube/"><u>[Updated] In 2024, Frame by Frame  Building a Filmmaking Foundation on YouTube</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-free-digital-asset-valuation-tools/"><u>[Updated] In 2024, Free Digital Asset Valuation Tools</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-global-sensations-surpassing-100-million-views-on-youtube-the-yearly-countdown/"><u>[Updated] In 2024, Global Sensations  Surpassing 100 Million Views on YouTube (The Yearly Countdown)</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-grow-your-streams-money-potential-anywhere-on-devices/"><u>[Updated] In 2024, Grow Your Stream's Money Potential Anywhere on Devices</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-turn-your-youtube-snippets-into-memorable-gifs/"><u>[Updated] Turn Your YouTube Snippets Into Memorable GIFs</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-a-step-further-in-animation-innovative-techniques-using-movie-maker/"><u>2024 Approved  A Step Further in Animation  Innovative Techniques Using Movie Maker</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/can-you-unlock-apple-iphone-15-pro-after-forgetting-the-passcode-drfone-by-drfone-ios/"><u>Can You Unlock Apple iPhone 15 Pro After Forgetting the Passcode? | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-remove-passcode-from-iphone-se-complete-guide-by-drfone-ios/"><u>How To Remove Passcode From iPhone SE? Complete Guide</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-effective-approaches-to-capturing-high-def-live-games/"><u>In 2024, Effective Approaches to Capturing High-Def Live Games</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-what-to-use-instead-of-virtualdub-best-video-editing-tools-for-2024/"><u>New What to Use Instead of VirtualDub Best Video Editing Tools for 2024</u></a></li>
+</ul></div>

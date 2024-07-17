@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] In 2024, Framing the Perfect Frame  Talking-Head Shot Essentials\""
-date: 2024-06-06T14:59:26.762Z
-updated: 2024-06-07T14:59:26.762Z
+date: 2024-07-16T03:53:23.566Z
+updated: 2024-07-17T03:53:23.566Z
 tags:
   - ai video
   - ai youtube
@@ -31,11 +31,14 @@ A big part of being a YouTuber involves talking to the camera. How you set up yo
 | Table of Contents [1\. Close Quarters Wide-Angle Vlog Set-Up](#Close-Quarters-Wide-Angle-Vlog-Set-Up)[2\. Medium Vlog Set-Up](#Medium-Vlog-Set-Up)[3\. Two Person Vlog Set-Up](#Two-Person-Vlog-Set-Up)[4\. Long Teleprompter Vlog Set-Up](#Long-Teleprompter-Vlog-Set-Up) |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to Set Up Your Talking Heads Shots for YouTube Video \[Infographic\]
 
 We’ve summarized the key points about setting up talking head style video shots with the Infographic below. It is welcomed to share on social media.
 
-![ Setting up Talking Heads Video Shots for YouTube](https://images.wondershare.com/filmora/article-images/talking-heads-youtube-video-shots-set-up.jpg)
+![Setting up Talking Heads Video Shots for YouTube](https://images.wondershare.com/filmora/article-images/talking-heads-youtube-video-shots-set-up.jpg)
 
 ## How to Set Up Your Talking-Head Shots for YouTube \[4 Ways\]
 
@@ -91,12 +94,21 @@ It is difficult to know whether the movement in his eyes is caused by not being 
 
 Looking to find the right lights for your video recording set? Check out our [Top 17 Video Lighting Equipment For YouTubers](https://www.filmora.io/community-blog/top-17-video-lighting-equipment-for-youtubers-440.html).
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Tips for Making a Talking Head Video Better
 
 To make a talking-head video more interesting, you can add some background music to the video, apply some interesting texts or elements. [Filmora](https://tools.techidaily.com/wondershare/filmora/download/) has built-in royalty-free music tracks and sound effects as well as [text templates](https://tools.techidaily.com/wondershare/filmora/download/), filters and motivating elements. Download the free trial version below and release your creativity.
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 [![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 Richard Bennett
@@ -135,6 +147,9 @@ If you own a YouTube channel or are starting one, even you can do this. Without 
 * [Part 7: Tips for Writing a Comment](#part7)
 * [Part 8: Benefits of Highlighted Comments](#part8)
 
+<!-- affiliate ads begin -->
+<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 1: What Does The Highlighted Comment Mean On YouTube?
 
 Before you get on with highlighting your comments, you must understand what it means exactly. You may follow comments on the videos posted by several YouTubers, but the highlighted ones are always making it to the top of the list.
@@ -160,8 +175,23 @@ YouTube has been working on improving the navigation of the comment section for 
 
 YouTube labels comment replies as well and call it "Highlighted Reply." You can see this tag above the replier's name in the same color tone.
 
+<!-- affiliate ads begin -->
+<span id="1793213">
+					<video width="1080" height="1620" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![YouTube Highlighted Reply](https://images.wondershare.com/filmora/article-images/youtube-highlighted-reply.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 3: How to Make My Comment Highlighted?
 
 Now, making YouTube highlight your comment on a popular video is nothing less than an art. YouTube doesn't make it easy for you. The advantage of getting your comment highlighted on YouTube is limitless.
@@ -188,6 +218,9 @@ If you click the notification bell icon, whenever a viewer drops a new comment o
 
 Have you ever wondered why a highlighted comment always shows at the top of the comment list? Both the above options will lead you to the comment thread on YouTube. To help you find the new activity easily, it appears with the highlight tag on it. The purpose is to remind you that you are here for that specific comment.
 
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 6: How to Remove Highlighted Comments?
 
 Can you, as a video maker, remove highlighted comments on YouTube? The direct answer to this would be a 'No.' It is because based on how you have opened the specific video, YouTube does it automatically.
@@ -202,6 +235,9 @@ Alternatively, you can try out a few temporary solutions.
 
 1. Try logging out from your Google Account and browse YouTube (anonymously). Doing this will ensure that you no longer see any highlighted comments. However, at the same time, this will restrict you from interacting in any way with that video, let alone leaving a comment.
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 7: Tips for Writing a Comment that will be Pinned as a Highlighted Comment?
 
 Many frequently inquire on the internet about how they can improve the chances of getting their comment pinned, as highlighted on YouTube. The secret lies in how you write the statement. We've listed a few pro tips below that can help:
@@ -247,3 +283,55 @@ Follow @Liza Brown
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-videos.techidaily.com/new-2024-approved-bringing-jujutsu-kaisen-characters-to-life-online/"><u>[New] 2024 Approved  Bringing Jujutsu Kaisen Characters to Life Online</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-fiscal-fortitude-the-story-of-mr-beast/"><u>[New] 2024 Approved  Fiscal Fortitude  The Story of Mr. Beast</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-does-t-series-generate-revenue/"><u>[New] 2024 Approved  How Does T-Series Generate Revenue?</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/1715939133096-new-2024-approved-how-to-record-audio-with-audacity-on-mac/"><u>[New] 2024 Approved  How to Record Audio with Audacity on Mac</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-best-emulators-pc-edition-ps1-games/"><u>[New] Best Emulators  PC Edition - PS1 Games</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-fifa-highlights-and-trends-charting-on-youtube-for-2024/"><u>[New] FIFA Highlights & Trends  Charting on YouTube for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-filmmaker-tips-youtube-trailers-using-filmora-for-2024/"><u>[New] Filmmaker Tips  YouTube Trailers Using Filmora for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-from-watcher-to-writer-how-to-set-up-a-sports-channel-on-macos-for-2024/"><u>[New] From Watcher to Writer  How to Set Up a Sports Channel on macOS for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-gaining-traction-effective-seo-techniques-for-youtube-videos-for-2024/"><u>[New] Gaining Traction  Effective SEO Techniques for YouTube Videos for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-google-meet-on-youtube-streaming-made-easy-step-by-step-for-2024/"><u>[New] Google Meet on YouTube  Streaming Made Easy, Step by Step for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-grandview-alliance-how-to-settle-on-a-cms-for-2024/"><u>[New] Grandview Alliance  How to Settle on a CMS for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-how-to-use-creative-commons-copyright-licenses-for-2024/"><u>[New] How to Use Creative Commons Copyright Licenses for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-smile-spark-planner/"><u>[New] In 2024, Smile Spark Planner</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-flow-and-flourish-with-these-elite-yogis-online/"><u>[Updated] 2024 Approved  Flow & Flourish with These Elite Yogis Online</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-for-social-media-savants-distinguishing-between-igtv-and-youtube/"><u>[Updated] 2024 Approved  For Social Media Savants  Distinguishing Between IGTV & YouTube</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-free-thumbnail-downloader-solutions-online/"><u>[Updated] 2024 Approved  Free Thumbnail Downloader Solutions Online</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-camera-clicks-to-youtube-views-mobiles-in-cinematic-success/"><u>[Updated] 2024 Approved  From Camera Clicks to YouTube Views  Mobiles in Cinematic Success</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-harnessing-techniques-from-basic-to-spectaculux/"><u>[Updated] 2024 Approved  Harnessing Techniques  From Basic to Spectaculux</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-safeguard-against-youtube-prohibitions/"><u>[Updated] 2024 Approved  How to Safeguard Against Youtube Prohibitions</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-unlocking-the-mystery-of-storing-instagram-videos-pc-and-mac-users-guide/"><u>[Updated] 2024 Approved  Unlocking the Mystery of Storing Instagram Videos (PC & Mac Users Guide)</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-best-free-android-capture-app-zero-ads-for-2024/"><u>[Updated] Best Free Android Capture App, Zero Ads for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-elite-font-designers-specializing-in-discord-platforms/"><u>[Updated] Elite Font Designers Specializing in Discord Platforms</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-flavorful-frontier-groundbrenant-title-strategies-for-food-networks-for-2024/"><u>[Updated] Flavorful Frontier  Groundbrenant Title Strategies for Food Networks for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-frame-it-right-essential-composition-rules-for-youtube-filmmaking-for-2024/"><u>[Updated] Frame It Right  Essential Composition Rules for YouTube Filmmaking for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-from-novice-to-expert-ascending-with-asmr-video-production-tactics-for-2024/"><u>[Updated] From Novice to Expert  Ascending with ASMR Video Production Tactics for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-game-masters-youtube-money-hacks-for-2024/"><u>[Updated] Game Masters  YouTube Money Hacks for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-generate-laughter-kapwings-meme-creator/"><u>[Updated] Generate Laughter  Kapwing's Meme Creator</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-grand-selection-of-incredibly-affordable-footage-for-2024/"><u>[Updated] Grand Selection of Incredibly Affordable Footage for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-loop-a-video-on-iphone-in-2024/"><u>[Updated] How to Loop A Video on iPhone, In 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-mix-text-and-video-on-a-shoestring-budget-for-2024/"><u>[Updated] How to Mix Text & Video on a Shoestring Budget for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-easily-capturing-iphone-screens-on-the-go/"><u>[Updated] In 2024, Easily Capturing iPhone Screens on the Go</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-ingredients-to-inspiration-cooking-videos/"><u>[Updated] In 2024, From Ingredients to Inspiration  Cooking Videos</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-getting-the-most-out-of-live-sports-on-youtube-tv/"><u>[Updated] In 2024, Getting the Most Out of Live Sports on YouTube TV</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-monetize-your-youtube-shorts-simple-steps/"><u>[Updated] In 2024, How to Monetize Your YouTube Shorts  Simple Steps</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-mixing-video-sequences-with-blend-mode-expertise/"><u>[Updated] Mixing Video Sequences with Blend Mode Expertise</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-secrets-to-storing-and-viewing-digital-television-shows/"><u>2024 Approved  Secrets to Storing and Viewing Digital Television Shows</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-title-genius-a-comprehensive-guide/"><u>2024 Approved  Title Genius  A Comprehensive Guide</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/can-grammar-hinder-fluent-speaking/"><u>Can Grammar Hinder Fluent Speaking?</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-vivo-x-fold-2-bootloader-easily-by-drfone-android/"><u>How to Unlock Vivo X Fold 2 Bootloader Easily</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-8-ways-to-transfer-photos-from-xiaomi-14-to-iphone-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 8 Ways to Transfer Photos from Xiaomi 14 to iPhone Easily | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-how-can-i-get-more-stardust-in-pokemon-go-on-samsung-galaxy-f14-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How can I get more stardust in pokemon go On Samsung Galaxy F14 5G? | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-multiplying-joy-sharing-a-pile-of-photos-and-videos-with-instagram/"><u>In 2024, Multiplying Joy  Sharing a Pile of Photos & Videos with Instagram</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-path-to-richer-textual-design-in-ae/"><u>In 2024, The Path to Richer Textual Design in AE</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-ultimate-guide-for-gopro-professionals/"><u>In 2024, The Ultimate Guide for GoPro Professionals</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-unveiling-tseries-youtube-revenue-strategy/"><u>In 2024, Unveiling TSeries' YouTube Revenue Strategy</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/precision-editing-made-easy-top-5-techniques-for-trimming-and-cutting-vimeo-footage-for-2024/"><u>Precision Editing Made Easy  Top 5 Techniques for Trimming & Cutting Vimeo Footage for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/step-by-step-elevating-your-instagram-engagement-through-hashtags/"><u>Step-by-Step  Elevating Your Instagram Engagement Through Hashtags</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-in-2024-top-picks-for-zero-price-mp3-fusion-technology/"><u>Updated In 2024, Top Picks for Zero-Price MP3 Fusion Technology</u></a></li>
+</ul></div>

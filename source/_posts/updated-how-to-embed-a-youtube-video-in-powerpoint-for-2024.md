@@ -1,7 +1,7 @@
 ---
 title: "[Updated] How to Embed a YouTube Video in PowerPoint for 2024"
-date: 2024-06-06T14:41:40.141Z
-updated: 2024-06-07T14:41:40.141Z
+date: 2024-07-16T03:26:48.701Z
+updated: 2024-07-17T03:26:48.701Z
 tags:
   - ai video
   - ai youtube
@@ -30,12 +30,18 @@ When talking about PowerPoint, it is an efficient and powerful tool to prepare a
 
 That said, here you will learn a couple of methods to **embed YouTube video in PowerPoint**.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to Insert YouTube Video into PowerPoint? (4 Methods)
 
 After understanding the benefits of have a video embedded to your presentation, it is now time to learn **how to add YouTube video to PowerPoint**.
 
 The four most used methods of getting this done are discussed in detailed in the following sections:
 
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Method 1: Using YouTube Video’s URL
 
 Because every YouTube video has a URL (Uniform Resource Locator) that is unique for that particular clip, PowerPoint allows you to use it to embed the footage to any of its slides. The process is simple, and you can follow the steps given below to get this done:
@@ -46,11 +52,14 @@ Open your default web browser, go to the YouTube video you want to embed to Powe
 
 **Step 2: Add URL to PowerPoint**
 
-![ embed YouTube video to PowerPoint ](https://images.wondershare.com/filmora/article-images/embed-youtube-video-via-url.jpg)
+![embed YouTube video to PowerPoint](https://images.wondershare.com/filmora/article-images/embed-youtube-video-via-url.jpg)
 
 Launch PowerPoint if it is not already open, go to the slide you want to embed the YouTube video to, click **Insert** from menu bar present above the Ribbon, click **Video** from the **Media** section at the right end of the Ribbon, click **Online Video** from the list that appears, in the **Enter the URL for the online video** field on the **Online Video** box, paste the URL that you copied earlier, and click **Insert** to **insert YouTube video into PowerPoint**.
 
-![ embed YouTube video to PowerPoint ](https://images.wondershare.com/filmora/article-images/embed-youtube-video-in-powerpoint-via-url-2.jpg)
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![embed YouTube video to PowerPoint](https://images.wondershare.com/filmora/article-images/embed-youtube-video-in-powerpoint-via-url-2.jpg)
 
 **Step 3: Position the Player**
 
@@ -64,7 +73,10 @@ Unlike PowerPoint 2019 that accepts URLs and embed codes in a single URL field, 
 
 Go to the YouTube video you want to embed to your PowerPoint slide, click the **SHARE** icon from the left area under the video player, click the **Embed** icon in the **Share** box, and click **COPY** from the bottom-right corner of the **Embed Video** box that appears next.
 
-![ embed YouTube video code to PowerPoint ](https://images.wondershare.com/filmora/article-images/embed-youtube-video-in-powerpoint-via-embed-code.jpg)
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![embed YouTube video code to PowerPoint](https://images.wondershare.com/filmora/article-images/embed-youtube-video-in-powerpoint-via-embed-code.jpg)
 
 **Step 2: Get to the PowerPoint’s Insert Video Box**
 
@@ -86,6 +98,9 @@ Use the process explained in **Step 2** of **Method 2** to get to the **Insert V
 
 In the **Search YouTube** field next to the **YouTube** option, type the name of the video you want to search on YouTube, press **Enter**, select the video you want to embed, and click **Insert** to **insert YouTube video into PowerPoint**.
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Method 4: Insert Video from PC
 
 Another method to **embed YouTube video in PowerPoint** is by downloading the clip to your PC, and then inserting the footage from there. You can use any free YouTube downloader to obtain a video that is available on YouTube.
@@ -106,6 +121,9 @@ Click the **Video** icon from the **Media** section of the Ribbon, click **Video
 
 Grab any of the six handles of the video you inserted, and drag it inward to decrease the size of the frame. It is advisable to use the corner handle and drag them diagonally to maintain proper aspect ratio of the player’s frame. Next, right-click anywhere inside the frame, click **Format Video** from the context menu, and use the options that appear in the right pane to make necessary adjustments to the clip like color correction, manage brightness and contrast, etc.
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## YouTube Embedding Supported PowerPoint Version Checklist
 
 Depending on the version of Microsoft Office you are using, you may or may not be able to embed a YouTube video in PowerPoint. Also, if your version of PowerPoint allows you to do so, the interface and the options may vary from those you see on your friends’ computer or in some online tutorials.
@@ -162,6 +180,9 @@ Follow @Richard Bennett
 
 # Quick Resize YouTube Videos to Right Aspect Ratio on Mac
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
 
 ##### Liza Brown
@@ -172,6 +193,9 @@ YouTube is one of the demanding platforms with more than [2.3 billion users](htt
 
 So, let's get started with our session on resizing YouTube as per the ideal aspect ratio without further ado.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Part 1: What’s the Right Aspect Ratio of YouTube Videos?
 
 For attracting more audience and increasing engagement on YouTube videos, you have to look at each factor, along with the YouTube video quality. And, you cannot overlook the size of YouTube video among these factors to make it your perfect shot among competitors. Considering the importance of such factors, we've come up with this specific section on introducing you to the correct aspect ratio for YouTube videos.
@@ -251,6 +275,9 @@ It is present before the **Advanced** tab.
 
 Then, adjust the **Advanced** settings, namely the **Tracking Subject** and **Tracking Speed**.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![auto reframe](https://images.wondershare.com/filmora/filmoraX/Guide-Mac/mac-guide-auto-reframe-9.jpg)
 
 **Step 6.** Hit the **Export** tab to save the cropped video.
@@ -259,6 +286,9 @@ Then, adjust the **Advanced** settings, namely the **Tracking Subject** and **Tr
 
 You can also upload the reframed video to Filmora for further editing.
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Conclusion
 
 So, this's all about how to **resize YouTube videos** in its ideal aspect ratio. Right from the beginning, we've discussed the importance of creating YouTube videos in this digital transformation age and further considering the right fit of factors, including the size, length, quality, and aspect ratio of specific YouTube videos. Even though YouTube has the facility to adjust the video automatically, you have to edit in the cropped video, which is possible through integrated editing programs such as the one we've discussed above via Wondershare Filmora for Mac. This video editing software is quite remarkable and offers all the competitive features that both basic and advanced video editors need.
@@ -280,3 +310,46 @@ Follow @Liza Brown
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-elevating-instagram-presence-through-bigger-video-content/"><u>[New] 2024 Approved  Elevating Instagram Presence Through Bigger Video Content</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-gameplay-recording-must-haves/"><u>[New] 2024 Approved  Gameplay Recording Must-Haves</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-harness-the-full-potential-of-your-youtube-content-using-wmm/"><u>[New] 2024 Approved  Harness the Full Potential of Your YouTube Content Using WMM</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-frame-by-frame-verbalizer-for-2024/"><u>[New] Frame by Frame Verbalizer for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-free-banner-templates-and-makers-for-youtube-for-2024/"><u>[New] Free Banner Templates & Makers for YouTube for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-from-capture-to-edit-elevating-your-immersive-video-experience-using-premiere-pro-for-2024/"><u>[New] From Capture to Edit  Elevating Your Immersive Video Experience Using Premiere Pro for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-from-draft-to-edit-essential-film-techniques-via-youtube-for-2024/"><u>[New] From Draft to Edit  Essential Film Techniques via YouTube for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-from-iciness-to-comfort-five-warm-backdrops-ideas-for-2024/"><u>[New] From Iciness to Comfort  Five Warm Backdrops Ideas for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-from-script-to-screen-methods-of-inserting-dialogue-into-online-videos-for-2024/"><u>[New] From Script to Screen  Methods of Inserting Dialogue Into Online Videos for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-from-videos-to-vibrant-gifs-youtube-conversion-techniques-for-2024/"><u>[New] From Videos to Vibrant GIFs  YouTube Conversion Techniques for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-gamers-nexus-1000plus-game-sessions-for-2024/"><u>[New] Gamers' Nexus  1,000+ Game Sessions for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-gaming-for-everyone-accessible-channels-for-2024/"><u>[New] Gaming for Everyone  Accessible Channels for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-how-to-blur-background-of-your-youtube-video-for-2024/"><u>[New] How to Blur Background of Your YouTube Video for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-how-to-safeguard-against-youtube-prohibitions-for-2024/"><u>[New] How to Safeguard Against Youtube Prohibitions for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-how-to-guide-for-effortless-youtube-playlist-downloads-for-2024/"><u>[New] How-To Guide for Effortless YouTube Playlist Downloads for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-grasping-the-essence-of-your-youtube-community/"><u>[New] In 2024, Grasping the Essence of Your YouTube Community</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-retain-video-engagement-sustained-use-of-youtubes-cc-license/"><u>[New] In 2024, How to Retain Video Engagement  Sustained Use of YouTube's CC License</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-great-digital-debate-meta-vs-omni/"><u>[New] The Great Digital Debate  Meta Vs. Omni</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-font-power-boosters-secrets-to-stellar-video-thumbnails/"><u>[Updated] 2024 Approved  Font Power Boosters  Secrets to Stellar Video Thumbnails</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-framing-the-perfect-frame-talking-head-shot-essentials/"><u>[Updated] 2024 Approved  Framing the Perfect Frame  Talking-Head Shot Essentials</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-generating-direct-links-for-automatic-channel-subscription/"><u>[Updated] 2024 Approved  Generating Direct Links for Automatic Channel Subscription</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-grandview-alliance-how-to-settle-on-a-cms/"><u>[Updated] 2024 Approved  Grandview Alliance  How to Settle on a CMS</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-hitting-the-high-scores-with-youtube-gaming-livestreams/"><u>[Updated] 2024 Approved  Hitting the High Scores with YouTube Gaming Livestreams</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-from-budget-channels-to-big-brands-youtube-sponsorships-demystified-for-2024/"><u>[Updated] From Budget Channels to Big Brands  YouTube Sponsorships Demystified for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-from-capture-to-share-proven-methods-for-live-360-video-on-youtube-for-2024/"><u>[Updated] From Capture to Share  Proven Methods for Live 360° Video on Youtube for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-guide-to-swiftly-eliminate-unwanted-youtube-comments-for-2024/"><u>[Updated] Guide to Swiftly Eliminate Unwanted YouTube Comments for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-harnessing-youtube-statistics-to-increase-subscribers-for-2024/"><u>[Updated] Harnessing YouTube Statistics to Increase Subscribers for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-how-can-you-grow-without-buying-views-for-2024/"><u>[Updated] How Can You Grow Without Buying Views for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-how-effective-is-sponsored-view-count-boosting-in-2024/"><u>[Updated] How Effective Is Sponsored View Count Boosting, In 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-backyard-blogs-to-billion-sub-youtube-channel/"><u>[Updated] In 2024, From Backyard Blogs to Billion-Sub YouTube Channel</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-novice-to-pro-simplified-youtube-live-streaming-with-obs/"><u>[Updated] In 2024, From Novice to Pro  Simplified YouTube Live Streaming with OBS</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-get-your-digital-dough-worthy-with-these-50-no-cost-youtube-promo-tools/"><u>[Updated] In 2024, Get Your Digital Dough Worthy With These 50 No-Cost YouTube Promo Tools</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/2024-approved-edit-like-a-pro-top-hd-video-editing-software/"><u>2024 Approved Edit Like a Pro Top HD Video Editing Software</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/a-step-by-step-guide-turning-viral-soundtracks-into-personal-ringtones-for-2024/"><u>A Step-by-Step Guide  Turning Viral Soundtracks Into Personal Ringtones for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-infinite-save-instagram-stories-secret-weapon/"><u>In 2024, Infinite Save  Instagram Stories' Secret Weapon</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-step-by-step-tutorial-how-to-bypass-xiaomi-14-frp-by-drfone-android/"><u>In 2024, Step-by-Step Tutorial How To Bypass Xiaomi 14 FRP</u></a></li>
+<li><a href="https://apple-account.techidaily.com/unlock-apple-id-without-phone-number-from-apple-iphone-14-by-drfone-ios/"><u>Unlock Apple ID without Phone Number From Apple iPhone 14</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-2024-approved-discovering-the-best-10-websites-where-you-can-access-premium-montage-music/"><u>Updated 2024 Approved Discovering the Best 10 Websites Where You Can Access Premium Montage Music</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-in-2024-best-free-video-trimmers-for-windows-10/"><u>Updated In 2024, Best Free Video Trimmers for Windows 10</u></a></li>
+</ul></div>

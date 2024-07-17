@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  From Buffer to Broadcast  Learn How to Convert Your YouTube Viewing Into a Screenshot for Free\""
-date: 2024-06-06T14:43:02.966Z
-updated: 2024-06-07T14:43:02.966Z
+date: 2024-07-16T03:28:52.965Z
+updated: 2024-07-17T03:28:52.965Z
 tags:
   - ai video
   - ai youtube
@@ -18,6 +18,9 @@ thumbnail: https://thmb.techidaily.com/64dd4d70d6e0441ce0215a5b5c562664b1c9c8864
 
 # How To Record Screencast From YouTube For Free
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 ##### Max Wales
@@ -32,6 +35,9 @@ There is a wide range of software tools that can assists you with screencasting 
 
 ![Filmora logo](https://images.wondershare.com/filmora/logo_icon/wondershare-filmora-logo-horizontal.png) ![filmora product interface](https://images.wondershare.com/filmora/images/common/filmora-product-banner.png)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
+<!-- affiliate ads end -->
 ### The All-in-One Screen Recorder & Video Editor
 
 * Record desktop screen, voiceover, and webcam simultaneously
@@ -47,7 +53,10 @@ For Win 7 or later (64-bit)
 
 For macOS 10.12 or later
 
-![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg)Secure Download
+<!-- affiliate ads begin -->
+<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg) Secure Download
 
 ## Recording Screencast Video with YouTube
 
@@ -55,13 +64,19 @@ Step 1: Open YouTube on your computer and sign by using your Google Account. On 
 
 Step 2: On the create an event page, add a title for your screencast video; set privacy terms and then hit “Go Live Now” option.
 
-![YouTube ScreenCast ](https://images.wondershare.com/filmora/article-images/youtube-screencast-events.jpg)
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![YouTube ScreenCast](https://images.wondershare.com/filmora/article-images/youtube-screencast-events.jpg)
 
 Step 3: The Hangout on Air page will get opened. It will allow you to select-deselect webcam recording as well as mic recording.
 
 Step 4: Hit the screen share button from the left toolbox and choose the desktop window that you wish to record. Now press start the Broadcast button to start screen recording. Note that it is a private session that cannot be watched by anyone else.
 
-![YouTube ScreenCast ](https://images.wondershare.com/filmora/article-images/youtube-screencast-hangouts.jpg)
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
+<!-- affiliate ads end -->
+![YouTube ScreenCast](https://images.wondershare.com/filmora/article-images/youtube-screencast-hangouts.jpg)
 
 Step 5: When your video is ready to go to YouTube video dashboard and choose your recent screencast video. Download it to Google Drive and share it with the world.
 
@@ -109,6 +124,9 @@ Follow @Max Wales
 
 # 6 Ways To Increase Audience Retention on YouTube
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 ##### Richard Bennett
@@ -145,12 +163,18 @@ To see an audience retention report log into your YouTube account and go to your
 
 ![](https://images.wondershare.com/filmora/article-images/audience-retention.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Part 3: What is a Good Audience Retention Rate on YouTube?
 
 When you're considering how to increase YouTube audience retention, it can be good to have a goal in mind. Obviously 100 per cent is going to be the Holy Grail of retention rates, but how many videos are actually going to achieve that? It only takes for one person to 'accidentally' click on your video and rapidly click away, or for someone to have to stop for outside reasons, to drag your average down.
 
 According to the YouTube community, a good goal to aim for is around 50 per cent, but as there is a lot which can affect your retention rate, that number may be different for you. Low view numbers sometimes get higher retention rates because it's mainly subscribers watching, whereas channels with millions of views may suffer due to more people abandoning. Rather than setting yourself a golden number, focus instead on increasing your retention rate from wherever it is now, and celebrate your own success instead of measuring yourself against others.
 
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 4: 6 Ways to Increase YouTube Audience Retention
 
 If you're serious about learning how to increase YouTube audience retention, here are five of the best ideas for you:
@@ -202,3 +226,37 @@ Follow @Richard Bennett
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-flavor-leaders-must-watch-culinary-youtube-stars/"><u>[New] 2024 Approved  Flavor Leaders  Must-Watch Culinary YouTube Stars</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-unlocking-the-potential-of-capturing-digital-entertainment/"><u>[New] 2024 Approved  Unlocking the Potential of Capturing Digital Entertainment</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-fluid-fusion-combining-videos-for-a-unified-youtube-presence/"><u>[Updated] 2024 Approved  Fluid Fusion  Combining Videos for a Unified Youtube Presence</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-groundbreaking-insights-into-asmr-recordings/"><u>[Updated] 2024 Approved  Groundbreaking Insights Into ASMR Recordings</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-harness-the-power-of-engagement-boosting-youtube-traffic/"><u>[Updated] 2024 Approved  Harness the Power of Engagement  Boosting YouTube Traffic</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-harness-the-power-of-gs-for-clear-video-ctas/"><u>[Updated] 2024 Approved  Harness the Power of GS for Clear Video CTAs</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-haul-video-crafting-stand-out-in-a-saturated-market/"><u>[Updated] 2024 Approved  Haul Video Crafting  Stand Out in a Saturated Market</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-safely-capture-your-favorite-youtube-audio-for-free/"><u>[Updated] 2024 Approved  How to Safely Capture Your Favorite YouTube Audio for Free</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-filmoras-secrets-to-captivating-youtube-trailers-for-2024/"><u>[Updated] Filmora's Secrets to Captivating YouTube Trailers for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-get-your-favorite-podcasts-and-videos-anytime-on-the-go-with-these-tools-for-2024/"><u>[Updated] Get Your Favorite Podcasts & Videos Anytime, On-the-Go, With These Tools for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-hits-and-tags-mastering-the-language-of-virality-in-youtube-shorts-for-2024/"><u>[Updated] Hits & Tags  Mastering the Language of Virality in YouTube Shorts for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-how-much-money-can-you-make-via-youtube-ad-revenue-and-cpm-rates-for-2024/"><u>[Updated] How Much Money Can You Make via YouTube Ad Revenue and CPM Rates for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-instantly-design-custom-coverage-for-your-short-videos-for-2024/"><u>[Updated] How To Instantly Design Custom Coverage For Your Short Videos for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-foster-viewer-connection-easy-anime-subscribe-buttons-for-youtube-creators/"><u>[Updated] In 2024, Foster Viewer Connection  Easy Anime Subscribe Buttons for YouTube Creators</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-startup-to-stardom-with-youtube-seo-basics/"><u>[Updated] In 2024, From Startup to Stardom with YouTube SEO Basics</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-the-shadows-to-spotlight-rise-in-popularity-with-these-steps-on-youtube/"><u>[Updated] In 2024, From the Shadows to Spotlight  Rise in Popularity with These Steps on YouTube</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-get-started-with-youtube-video-ad-building-without-spending/"><u>[Updated] In 2024, Get Started with YouTube Video Ad Building Without Spending</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-high-revenue-streaming-star-across-the-globe/"><u>[Updated] In 2024, High Revenue Streaming Star Across the Globe</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-make-the-most-of-your-youtube-watches-gif-magic-for-devices/"><u>[Updated] In 2024, How to Make the Most of Your YouTube Watches  GIF Magic for Devices</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-successfully-upload-elongated-youtube-clips/"><u>[Updated] In 2024, How to Successfully Upload Elongated YouTube Clips</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-unique-coverage-awaits-crafting-your-own-custom-youtube-shorts-images/"><u>[Updated] Unique Coverage Awaits  Crafting Your Own Custom YouTube Shorts Images</u></a></li>
+<li><a href="https://blog-min.techidaily.com/2-ways-to-transfer-text-messages-from-infinix-note-30-5g-to-iphone-1514131211x8-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>2 Ways to Transfer Text Messages from Infinix Note 30 5G to iPhone 15/14/13/12/11/X/8/ | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-vivo-y100i-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Vivo Y100i</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/determining-aspect-ratio-a-step-by-step-guide-for-2024/"><u>Determining Aspect Ratio A Step-by-Step Guide for 2024</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-use-face-id-to-pay-for-apple-music-on-iphone-7-by-drfone-ios-unlock-ios-unlock/"><u>How to Use Face ID to Pay for Apple Music on iPhone 7</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-how-to-preserve-your-favorite-tracks-from-youtube-safely-and-for-free/"><u>In 2024, How to Preserve Your Favorite Tracks From YouTube Safely & for Free</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-tips-for-stellar-video-conclusions/"><u>In 2024, Tips for Stellar Video Conclusions</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/in-2024-ultimate-fb-downloading-kit-best-for-ff-browser-users/"><u>In 2024, Ultimate FB Downloading Kit - Best for FF Browser Users</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/uncovering-the-dynamics-of-youtubes-post-upload-system-for-2024/"><u>Uncovering the Dynamics of YouTube's Post-Upload System for 2024</u></a></li>
+<li><a href="https://techidaily.com/unlock-android-phone-if-you-forget-the-spark-20c-password-or-pattern-lock-by-drfone-android-unlock-android-unlock/"><u>Unlock android phone if you forget the Spark 20C password or pattern lock</u></a></li>
+</ul></div>

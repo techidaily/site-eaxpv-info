@@ -1,7 +1,7 @@
 ---
 title: "[New] In 2024, How to Make Fortnite Thumbnail in 30 Seconds"
-date: 2024-06-06T14:27:53.281Z
-updated: 2024-06-07T14:27:53.281Z
+date: 2024-07-16T03:06:05.470Z
+updated: 2024-07-17T03:06:05.470Z
 tags:
   - ai video
   - ai youtube
@@ -32,10 +32,25 @@ Filmora has recently introduced a new feature named AI Portrait that uses Artifi
 
 **Step 01:** To start making a Fortnite thumbnail, it is important to have a screenshot of your gameplay. We can make a perfect screenshot using Fortnite Replay Mode. If you have recently played a Fortnite match, you can access its replay under the Career tab. Under the Career tab select Replays.
 
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![make-fortnite-thumbnail-step1](https://images.wondershare.com/filmora/article-images/make-fortnite-thumbnail-step1.jpg)
 
 **Step 02:** If you are using a console, the game will only store 10 recent gameplays, but if you are using a PC, it will store 100 recent gameplays in this section. From all these gameplays, select the one that you want to use for the Thumbnail. Once you choose gameplay, you can control everything in it. The angle, speed, and camera mode.
 
+<!-- affiliate ads begin -->
+<span id="1997795">
+					<video width="250" height="250" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![make-fortnite-thumbnail-step2](https://images.wondershare.com/filmora/article-images/make-fortnite-thumbnail-step2.jpg)
 
 **Step 03:** For creating a perfect thumbnail, select "Drone Free Camera" mode from the camera mode located on the bottom right corner of the screen. It will allow us to change the angle the way we want. Choose an angle of your choice and take the screenshot.
@@ -44,6 +59,9 @@ Filmora has recently introduced a new feature named AI Portrait that uses Artifi
 
 **Step 04:** Open Filmora X, make sure to select the 16:9 screen ratio. Import the screenshot using the import button.
 
+<!-- affiliate ads begin -->
+<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![make-fortnite-thumbnail-step4](https://images.wondershare.com/filmora/article-images/make-fortnite-thumbnail-step4.jpg)
 
 **Step 05:** Drag and drop the screenshot into the timeline.
@@ -52,10 +70,16 @@ Filmora has recently introduced a new feature named AI Portrait that uses Artifi
 
 **Step 06:** Now, let's separate the background and character. Go to the Effects, then AI Portrait, select Human Segmentation, and drop it into the screenshot.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
+<!-- affiliate ads end -->
 ![make-fortnite-thumbnail-step6](https://images.wondershare.com/filmora/article-images/make-fortnite-thumbnail-step6.jpg)
 
 **Step 07:** Filmora will ask you to purchase it, but you can now hit "Try it" to use it.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
 ![make-fortnite-thumbnail-step7](https://images.wondershare.com/filmora/article-images/make-fortnite-thumbnail-step7.jpg)
 
 **Step 08:** It will remove the background of the screenshot.
@@ -64,6 +88,9 @@ Filmora has recently introduced a new feature named AI Portrait that uses Artifi
 
 **Step 09:** To add a background, go to the media and navigate to "Sample Color." Drag a color of your choice and drop it below the screenshot.
 
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
+<!-- affiliate ads end -->
 ![make-fortnite-thumbnail-step9](https://images.wondershare.com/filmora/article-images/make-fortnite-thumbnail-step9.jpg)
 
 **Step 10:** To add titles in the Thumbnail, go to the Titles tab. Here you can find several categories of titles. Find your preferred title and drop it above all the layers. You can choose titles, lower thirds, and other texts depending upon your need and requirement.
@@ -76,6 +103,18 @@ Filmora has recently introduced a new feature named AI Portrait that uses Artifi
 
 **Step 12:** Once you are satisfied with the final results, you can take the screenshot of the Thumbnail using the Snapshot icon located below the preview panel. It will create a screenshot in the media panel of Filmora.
 
+<!-- affiliate ads begin -->
+<span id="1793213">
+					<video width="1080" height="1620" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![make-fortnite-thumbnail-step12](https://images.wondershare.com/filmora/article-images/make-fortnite-thumbnail-step12.jpg)
 
 **Step 13:** To access the directory where this screenshot is saved, right-click on the screenshot and click on "Reveal in Explorer." It will open the folder that contains all the screenshots you take through Filmora. Your Fortnite Thumbnail is ready to be used on your Youtube videos.
@@ -119,6 +158,9 @@ Create stunning effects with simple clicks.
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 1: What Causes a YouTube Black Screen Error?
 
 As mentioned earlier, although there could be any reason for **videos black on YouTube**, some of the most common ones are listed below:
@@ -147,6 +189,9 @@ As it is with Windows itself, even the graphic card driver must be updated regul
 
 Depending on the root cause of the issue, the solutions to fix the **YouTube video black screen** issue may differ. Nevertheless, some of the most effective remedies are discussed below in detail:
 
+<!-- affiliate ads begin -->
+<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 1\. Web Browser Solution(s)
 
 **Solution 1: Update Your Web Browser**
@@ -241,6 +286,9 @@ Right-click **Start** and go to **Device Manager** from the context menu
 
 Expand the **Display adapters** tree on the **Device Manager** snap-in, and right-click the graphics card from the list and select **Update driver** from the context menu.
 
+<!-- affiliate ads begin -->
+<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![upgrade graphic card to fix YouTube black screen](https://images.wondershare.com/filmora/article-images/upgrade-graphic-card-to-fix-youtube-video-black-screen.jpg)
 
 Click **Search automatically for drivers** from the next screen that appears and follow the on-screen instructions from there to update the graphic card driver.
@@ -261,6 +309,9 @@ Tap it and then select **Clear data and Clear cache**. Relaunch YouTube and see 
 
 ![fix YouTube black screen on Android](https://images.wondershare.com/filmora/article-images/fix-youtube-video-black-screen-android.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### How to Troubleshoot YouTube Black Screen On iOS
 
 **Delete and Reinstall the App**
@@ -284,3 +335,38 @@ There could be several reasons for **YouTube black screen**, and depending on th
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-blog.techidaily.com/0-leading-free-platforms-for-exceptional-youtube-intros-for-2024/"><u>[New] 30 Leading Free Platforms for Exceptional YouTube Intros for 2024</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/new-in-2024-your-tiktok-files-at-a-click-no-extra-fees-or-marks/"><u>[New] In 2024, Your TikTok Files at a Click - No Extra Fees or Marks</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-global-reach-to-engagement-deciphering-igtv-and-youtubes-strategies/"><u>[Updated] 2024 Approved  From Global Reach to Engagement  Deciphering IGTV & YouTube’s Strategies</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-script-to-spectacle-independent-effect-innovation/"><u>[Updated] 2024 Approved  From Script to Spectacle  Independent Effect Innovation</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-zero-to-hero-youtube-setup-growth-and-profit-strategies/"><u>[Updated] 2024 Approved  From Zero to Hero  YouTube Setup, Growth & Profit Strategies</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-future-of-online-gaming-earnings/"><u>[Updated] 2024 Approved  Future of Online Gaming Earnings</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-gameplay-recording-must-haves/"><u>[Updated] 2024 Approved  Gameplay Recording Must-Haves</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-gamer-income-tactics/"><u>[Updated] 2024 Approved  Gamer Income Tactics</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-harnessing-real-time-trends-for-visionary-video-ideas/"><u>[Updated] 2024 Approved  Harnessing Real-Time Trends for Visionary Video Ideas</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-final-goodbye-to-youtubes-minis-a-step-by-step-process-for-2024/"><u>[Updated] Final Goodbye to YouTube's Minis  A Step-by-Step Process for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-free-diy-approaches-to-design-your-own-youtube-cards-for-2024/"><u>[Updated] Free DIY Approaches to Design Your Own YouTube Cards for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-from-script-to-screen-magix-video-pro-xs-production-journey/"><u>[Updated] From Script to Screen  Magix Video Pro X's Production Journey</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-guide-to-livecasting-google-meet-on-youtube-for-2024/"><u>[Updated] Guide to Livecasting Google Meet on YouTube for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-harnessing-monetization-potential-with-youtube-ad-strategies-for-2024/"><u>[Updated] Harnessing Monetization Potential with YouTube Ad Strategies for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-bypass-a-youtube-strike-and-keep-creating-videos-for-2024/"><u>[Updated] How to Bypass a YouTube Strike and Keep Creating Videos for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-safely-increase-your-youtube-fanbase-to-one-million-for-2024/"><u>[Updated] How to Safely Increase Your YouTube Fanbase To One Million for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-seamlessly-upload-youtube-videos-to-facebook-feed-for-2024/"><u>[Updated] How to Seamlessly Upload YouTube Videos to Facebook Feed for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-find-the-perfect-free-video-editor-app-for-iphones-and-ipads/"><u>[Updated] In 2024, Find the Perfect Free Video Editor App for iPhones & iPads</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-flv-video-unification-techniques/"><u>[Updated] In 2024, FLV Video Unification Techniques</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-fostering-self-assurance-against-virtual-hostility/"><u>[Updated] In 2024, Fostering Self-Assurance Against Virtual Hostility</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-lens-to-legacy-building-a-lasting-career-in-travel-blogging/"><u>[Updated] In 2024, From Lens to Legacy  Building a Lasting Career in Travel Blogging</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-green-tactics-for-easy-youtube-cta-conversions/"><u>[Updated] In 2024, Green Tactics for Easy YouTube CTA Conversions</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-guide-clearing-up-youtube-watchlater-stored-list/"><u>[Updated] In 2024, Guide  Clearing Up YouTube Watchlater Stored List</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-upload-videos-to-youtube-a-step-by-step-guide/"><u>[Updated] In 2024, How To Upload Videos to YouTube [a Step-by-Step Guide]</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-get-ready-for-a-lighter-device-experience-top-48-apps-to-cut-down-video-size-on-android/"><u>2024 Approved  Get Ready for a Lighter Device Experience  Top 48 Apps to Cut Down Video Size on Android</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/eating-the-trend-top-food-moments-on-tiktok/"><u>Eating the Trend  Top Food Moments on TikTok</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/filmora-scrn-tutorial-recording-your-desktop-made-easy/"><u>Filmora Scrn Tutorial Recording Your Desktop Made Easy</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-use-allshare-cast-to-turn-on-screen-mirroring-on-htc-u23-pro-drfone-by-drfone-android/"><u>How To Use Allshare Cast To Turn On Screen Mirroring On HTC U23 Pro | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-show-wi-fi-password-on-motorola-edge-2023-by-drfone-android/"><u>In 2024, How to Show Wi-Fi Password on Motorola Edge 2023</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/in-2024-top-rated-imovie-alternatives-for-android-devices/"><u>In 2024, Top-Rated iMovie Alternatives for Android Devices</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/starting-with-telegram-advertising-essential-steps-for-newbies-for-2024/"><u>Starting with Telegram Advertising  Essential Steps for Newbies for 2024</u></a></li>
+</ul></div>

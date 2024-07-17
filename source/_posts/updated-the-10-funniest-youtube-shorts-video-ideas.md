@@ -1,7 +1,7 @@
 ---
 title: "[Updated] The 10 Funniest YouTube Shorts Video Ideas"
-date: 2024-06-06T16:15:04.704Z
-updated: 2024-06-07T16:15:04.704Z
+date: 2024-07-16T05:47:15.042Z
+updated: 2024-07-17T05:47:15.042Z
 tags:
   - ai video
   - ai youtube
@@ -64,6 +64,9 @@ Using different online software, you can enhance the pictures or modify the back
 
 Life is indeed full of surprises, events, and glory. Then, why not tailor some of its moments under best YouTube Shorts ideas. These experiences vary from your home, neighbor, society, college, office, or anywhere.
 
+<!-- affiliate ads begin -->
+<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<!-- affiliate ads end -->
 ![filmora](https://images.wondershare.com/filmora/youtube-shorts-ideas-5.jpg)
 
 You need to keep your judging eyes open to catch all the moments, and you can also note it down to make a series so as not to miss any exciting experience.
@@ -82,6 +85,9 @@ Just review all your collection of experiments you did and combine them under Yo
 
 Competition creates a zeal to lead, and if you add some flavor to it. Then, people will love to take part in it. So, waiting for what? Just come out with YouTube Shorts funny Video Competition ideas to grab the audience to watch the videos and become active participants.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![filmora](https://images.wondershare.com/filmora/youtube-shorts-ideas-7.jpg)
 
 Funny competition can vary from a weird hairstyle, odd season festival celebration, or anything that you think of interesting, different, and eye-catching.
@@ -98,6 +104,9 @@ Just give it a try and dance with the music you create with all the worldwide li
 
 Kids love cartoons, but the hidden fact is that everyone enjoys watching cartoon or cartoon characters to a certain extent. Then why not try mimicking some cartoon characters. If you are a fun-loving person, and in your life, you mimic any person’s character, then try mimicking cartoon characters under YouTube Short Video ideas.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![filmora](https://images.wondershare.com/filmora/youtube-shorts-ideas-9.jpg)
 
 Mixing some comedy flavor to life will add more fun and enjoyment to all those seeking funny moments to reflect their days. Come on; show up your humor with this unique style.
@@ -106,6 +115,9 @@ Mixing some comedy flavor to life will add more fun and enjoyment to all those s
 
 Pets are the favorite of those who own them. They are excellent; they play, dance, and do different kinds of fun activities. Have you ever noticed that, if not, they must take notice now?
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![filmora](https://images.wondershare.com/filmora/youtube-shorts-ideas-10.jpg)
 
 You will be surprised to see how much fun-loving these cute pets are—so, geared up to capture the funny acts of pets through YouTube Shorts ideas. It will bring a smile to everyone’s face.
@@ -114,6 +126,9 @@ You will be surprised to see how much fun-loving these cute pets are—so, geare
 
 Everybody holds some unique talent. You just need to identify it. If you have some talent, then showcasing talent ideas for YouTube Shorts will apt you. The whole world is waiting to see something unique that only you can do. So, shred your shyness and let the world see how talented you are.
 
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![filmora](https://images.wondershare.com/filmora/youtube-shorts-ideas-11.jpg)
 
 Here, you got to know about the top 10 funny ideas for YouTube Shorts videos. Choose the one that fits you and start creating YouTube Shorts Channel with these ideas.
@@ -164,6 +179,9 @@ Then, indeed, this guide is the pathway. You will get different funny YouTube Sh
 
 Thus, start utilizing these powerful ideas and tips and head towards your YouTube Shorts journey.
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
 Shanoon Cox
@@ -180,3 +198,52 @@ Follow @Shanoon Cox
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-focusing-attention-with-eye-catching-intros-in-imovie/"><u>[New] 2024 Approved  Focusing Attention with Eye-Catching Intros in iMovie</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-free-youtube-extractors-a-comprehensible-guide-for-beginners/"><u>[New] 2024 Approved  Free YouTube Extractors  A Comprehensible Guide for Beginners</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-raw-footage-to-youtube-perfection-premiere-pro-techniques/"><u>[New] 2024 Approved  From Raw Footage to YouTube Perfection - Premiere Pro Techniques</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-gamer-guides-and-tips-best-streamers/"><u>[New] 2024 Approved  Gamer Guides and Tips  Best Streamers</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-harness-the-power-of-engagement-boosting-youtube-traffic/"><u>[New] 2024 Approved  Harness the Power of Engagement  Boosting YouTube Traffic</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-much-does-youtube-pay-for-1-million-views/"><u>[New] 2024 Approved  How Much Does YouTube Pay for 1 Million Views?</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-female-gamers-faction-yts-10-stars-for-2024/"><u>[New] Female Gamers Faction  YT's #10 Stars for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-from-absolute-zero-to-huge-audiences-the-10-key-steps-to-boosting-view-count-for-2024/"><u>[New] From Absolute Zero to Huge Audiences  The 10 Key Steps to Boosting View Count for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-from-ftp-to-feed-the-complete-guide-to-uploading-to-youtube-for-2024/"><u>[New] From FTP to Feed  The Complete Guide to Uploading to YouTube for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-from-novice-to-vlogger-your-guide-to-creating-a-youtube-chanel-for-2024/"><u>[New] From Novice to Vlogger  Your Guide to Creating a YouTube Chanel for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-global-youtube-elite-earnings-leader-for-2024/"><u>[New] Global YouTube Elite Earnings Leader for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-going-against-the-flow-youtube-video-opposites-for-2024/"><u>[New] Going Against the Flow  YouTube Video Opposites for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-guiding-you-through-youtubes-view-limitations-for-2024/"><u>[New] Guiding You Through YouTube's View Limitations for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-how-to-add-a-youtube-video-to-google-slides-for-2024/"><u>[New] How to Add a YouTube Video to Google Slides for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-how-to-keep-your-audience-engaged-top-6-strategies-for-higher-youtube-stickiness-for-2024/"><u>[New] How To Keep Your Audience Engaged  Top 6 Strategies for Higher YouTube Stickiness for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-flipping-the-script-turning-online-games-into-channel-gold/"><u>[New] In 2024, Flipping the Script  Turning Online Games Into Channel Gold</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-novice-to-connoisseur-transform-your-sub4sub-experience-now/"><u>[New] In 2024, From Novice to Connoisseur  Transform Your Sub4sub Experience Now</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-grasping-the-greener-side-of-valheim-top-seeds-list/"><u>[New] In 2024, Grasping the Greener Side of Valheim  Top Seeds List</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-growth-catalysts-increasing-audience-engagement-on-youtube/"><u>[New] In 2024, Growth Catalysts  Increasing Audience Engagement on YouTube</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-elevate-youtube-rankings-with-optimized-metadata/"><u>[New] In 2024, How to Elevate YouTube Rankings with Optimized Metadata</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-illuminate-a-guide-to-great-vlog-images/"><u>[New] In 2024, How to Illuminate  A Guide to Great Vlog Images</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-make-money-from-youtube-shorts-requirements-and-earning-potential/"><u>[New] In 2024, How to Make Money From YouTube Shorts  Requirements and Earning Potential</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-2024-approved-discords-best-servers-for-finding-a-mate/"><u>[Updated] 2024 Approved  Discord's Best Servers for Finding a Mate</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-struggling-youtuber-to-industry-leader-the-hub-of-creator-studios-wisdom/"><u>[Updated] 2024 Approved  From Struggling Youtuber to Industry Leader  The Hub of Creator Studio's Wisdom</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-hottest-youtube-music-playback-responses-23/"><u>[Updated] 2024 Approved  Hottest YouTube Music Playback Responses '23</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-add-chapters-to-youtube-videos/"><u>[Updated] 2024 Approved  How to Add Chapters to YouTube Videos</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-from-flickering-camera-lights-to-financial-highlights-for-2024/"><u>[Updated] From Flickering Camera Lights to Financial Highlights for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-from-novice-to-expert-mastering-video-identity-on-youtube-for-2024/"><u>[Updated] From Novice to Expert  Mastering Video Identity on YouTube for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-from-screen-to-share-mastering-youtubes-thumbnail-artistry-for-2024/"><u>[Updated] From Screen to Share  Mastering YouTubes' Thumbnail Artistry for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-guardians-of-the-most-watched-youtube-edition-for-2024/"><u>[Updated] Guardians of the Most Watched  YouTube Edition for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-haul-vlogging-101-a-step-by-step-guide-for-2024/"><u>[Updated] Haul Vlogging 101  A Step-by-Step Guide for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-fix-the-youtube-shorts-not-showing-up-issue-in-2024/"><u>[Updated] How to Fix the YouTube Shorts Not Showing Up Issue, In 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-flv-file-symphony-creating-a-single-youtube-playlist/"><u>[Updated] In 2024, FLV File Symphony  Creating a Single YouTube Playlist</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-free-youtube-download-methods-without-apps/"><u>[Updated] In 2024, Free YouTube Download Methods Without Apps</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-long-winded-to-concise-the-art-of-youtube-trimming/"><u>[Updated] In 2024, From Long-Winded to Concise  The Art of YouTube Trimming</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-youtubes-realm-to-igtvs-domain-3-ways/"><u>[Updated] In 2024, From YouTube's Realm to IGTV's Domain (3 Ways)</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-generating-auto-subscribe-urls-for-youtube-channels/"><u>[Updated] In 2024, Generating Auto Subscribe URLs for YouTube Channels</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-prime-alternatives-the-best-online-learning-platforms-without-udemy/"><u>2024 Approved  Prime Alternatives  The Best Online Learning Platforms without Udemy</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/exploring-freeweb-cam-studios-capabilities/"><u>Exploring FreeWeb Cam Studio's Capabilities</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-data-from-iphone-15-plus-to-other-iphone-15-pro-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone 15 Plus To Other iPhone 15 Pro devices? | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-lock-apps-on-infinix-smart-8-pro-to-protect-your-individual-information-by-drfone-android/"><u>In 2024, How to Lock Apps on Infinix Smart 8 Pro to Protect Your Individual Information</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-remove-an-airtag-from-your-apple-id-account-from-iphone-13-mini-by-drfone-ios/"><u>In 2024, How to Remove an AirTag from Your Apple ID Account From iPhone 13 mini?</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-watch-hulu-outside-us-on-tecno-camon-20-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Watch Hulu Outside US On Tecno Camon 20 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-in-2024-cutting-through-clutter-effective-background-noise-removal-in-imovie/"><u>New In 2024, Cutting Through Clutter Effective Background Noise Removal in iMovie</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-in-2024-stunning-sound-editing-tool-exploring-features-advantages-limitations-and-competitors/"><u>Updated In 2024, Stunning Sound Editing Tool Exploring Features, Advantages, Limitations, and Competitors</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/what-does-enter-puk-code-mean-and-why-did-the-sim-get-puk-blocked-on-lava-yuva-3-pro-device-by-drfone-android/"><u>What Does Enter PUK Code Mean And Why Did The Sim Get PUK Blocked On Lava Yuva 3 Pro Device</u></a></li>
+</ul></div>

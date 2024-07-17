@@ -1,7 +1,7 @@
 ---
 title: "[New] In 2024, Grasp the Art of Steadiness in Photography"
-date: 2024-06-06T15:38:11.519Z
-updated: 2024-06-07T15:38:11.519Z
+date: 2024-07-16T04:51:28.672Z
+updated: 2024-07-17T04:51:28.672Z
 tags:
   - ai video
   - ai youtube
@@ -28,14 +28,23 @@ thumbnail: https://thmb.techidaily.com/4abc1e0d974f64940dfb669b21c754808ce4ab1e9
 
 When you’re trying to grow a channel on YouTube it can feel like equipment is a barrier, but it shouldn’t be. If you can’t afford a high-end tripod, for example, there are loads of ways to get by without one.
 
+<!-- affiliate ads begin -->
+<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### DIY Your Video with Wondershare Filmora
 
 Wondershare Filmora has the best video stabilization tool is your videos have a bad frame or were recorded in dim lights. If a video is shot in bad weather or unfriendly situation where you don’t have all the equipment required for a quality recording, Wondershare Filmora can help you in the background to edit your videos like a pro. And it has all the relevant tools like effects, transitions, background removal, overlays, and background music that could turn your normal video to a professional one.
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 [![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
 Here are 3 of our favorite DIY tripods.
 
+<!-- affiliate ads begin -->
+<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
+<!-- affiliate ads end -->
 ### **DIY smartphone tripod using binder clips or hair clips**
 
 You’re a solo operation and your best camera is on your phone. That’s pretty common.
@@ -48,6 +57,9 @@ Hold your phone in landscape mode (horizontally, so it’s long rather than tall
 
 Here it is with binder clips:
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![binder clips](https://images.wondershare.com/filmora/article-images/binder-clips.jpg)
 
 And here it is with hair clips:
@@ -75,12 +87,18 @@ To get similar functions from the ‘any stable surface’ solution you can use 
 
 Now if your camera isn’t up high enough, or is too high, you can adjust it just by adding or taking away books. If you want to move it closer or farther away from you, just pull the towel forwards or backward.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### **DIY gripping ‘Gorillapod’ using wire and tape**
 
 Gorillapod’s are cool because you can use them like normal tripods, carry them around like selfie sticks, or attach them to things like fences and posts. Here’s how you can make something similar using **wire**, **electrical tape** or **duct tape**, and a **1/4 bolt**.
 
 Your wire should be fairly stiff and you’ll need three pieces the same length, which should be at least 10 inches. Old clothes hangers work well. This needs to be something strong enough to support the weight of your camera, but soft enough that it’s not impossible for you to bend.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
  ![wire and type](https://images.wondershare.com/filmora/article-images/wire-and-type.jpg)
 
 _All of your supplies plus the finished product._
@@ -142,12 +160,18 @@ The entertainment industry is continually taking the world by storm. Lots of imp
 
 03 [YouTube Shorts Music - Things You Need to Know](#part3)
 
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## What are YouTube Shorts?
 
 YouTube Shorts is an app feature in YouTube that was introduced in 2020\. It has so far rolled out in more than 100 countries. It enables both artists and creators to compose short videos to express any feeling. It could be for entertainment or educational purposes. However, the videos are short, not exceeding 60 seconds, with a default length of 15 seconds. You also have the option to record your videos with music to add value to your video.
 
 YouTube Shorts has two main features; a platform to watch short videos and a tool you can use to compose your own short-form videos. To watch the clip, just go to the “Homepage” and find several thumbnails for popular Shorts. Then click on a video and land on the vertical video player to watch the video. Likewise, you can use the thumbs up or down to like or dislike the video. Additionally, you can pause the video and post a comment or share the Shorts with other fans.
 
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Which role does music play in YouTube Shorts?
 
 Music is always soothing to the soul. And using YouTube shorts music is a quick way to boost your video performance. Check below the importance of using music in your Shorts.
@@ -233,6 +257,9 @@ Yes, you can use your audio in YouTube Shorts. Several converter apps are availa
 
 8\. Next, import the music to the video. Just click on the “File” > “Import File” > “Import Video Files” option.
 
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![add audio to youtube shorts](https://images.wondershare.com/filmora/article-images/2021/add-audio-to-video.png)
 
 9\. Click on the “+” icon to add the music to your video.
@@ -275,6 +302,9 @@ YouTube Shorts is a perfect platform to promote your music if you are an artist.
 
 YouTube streaming service is already a popular platform that provides tones of music and video clips. Encompassing Shorts just pushed it at the forefront. The userbase is readily available and any Shorts you post will be widely viewed in over 100 countries. More so, you can extract music from the platform for use on your Shorts videos.
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Conclusion
 
 You can make a great milestone with **YouTube Shorts music** than if you didn’t use any. Music makes your videos catchy and interesting to viewers. Several platforms are available for sourcing music to use on your Shorts. More so, you can use the recommended app, Filmora, to add free music to your videos.
@@ -283,6 +313,9 @@ You can make a great milestone with **YouTube Shorts music** than if you didn’
 
 The entertainment industry is continually taking the world by storm. Lots of improvements are on the rise, especially online. Several apps are now at your fingertip, and you can access lots of videos and music right from your mobile phone. The social media platform has made it easy for millions of users to access information from other creators and editors. From Facebook, Instagram, WhatsApp, and the new kid in the block YouTube Shorts. And being that YouTube streaming service already harbors many users, Shorts has just come at the right time, with ready users at hand. Additionally, YouTube shorts music will spice up your listening experience like never before.
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![what is youtube shorts](https://images.wondershare.com/filmora/article-images/2021/youtube-shorts.png)
 
 #### In this article
@@ -531,10 +564,16 @@ Yes, you can use your audio in YouTube Shorts. Several converter apps are availa
 
 7\. Then click on the “Audio” option from the “Menu” bar and choose music that’s already available on your PC.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![choose audio to add to video](https://images.wondershare.com/filmora/article-images/2021/choose-audio.png)
 
 8\. Next, import the music to the video. Just click on the “File” > “Import File” > “Import Video Files” option.
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![add audio to youtube shorts](https://images.wondershare.com/filmora/article-images/2021/add-audio-to-video.png)
 
 9\. Click on the “+” icon to add the music to your video.
@@ -585,6 +624,9 @@ You can make a great milestone with **YouTube Shorts music** than if you didn’
 
 The entertainment industry is continually taking the world by storm. Lots of improvements are on the rise, especially online. Several apps are now at your fingertip, and you can access lots of videos and music right from your mobile phone. The social media platform has made it easy for millions of users to access information from other creators and editors. From Facebook, Instagram, WhatsApp, and the new kid in the block YouTube Shorts. And being that YouTube streaming service already harbors many users, Shorts has just come at the right time, with ready users at hand. Additionally, YouTube shorts music will spice up your listening experience like never before.
 
+<!-- affiliate ads begin -->
+<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![what is youtube shorts](https://images.wondershare.com/filmora/article-images/2021/youtube-shorts.png)
 
 #### In this article
@@ -595,6 +637,9 @@ The entertainment industry is continually taking the world by storm. Lots of imp
 
 03 [YouTube Shorts Music - Things You Need to Know](#part3)
 
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## What are YouTube Shorts?
 
 YouTube Shorts is an app feature in YouTube that was introduced in 2020\. It has so far rolled out in more than 100 countries. It enables both artists and creators to compose short videos to express any feeling. It could be for entertainment or educational purposes. However, the videos are short, not exceeding 60 seconds, with a default length of 15 seconds. You also have the option to record your videos with music to add value to your video.
@@ -682,6 +727,9 @@ Yes, you can use your audio in YouTube Shorts. Several converter apps are availa
 
 7\. Then click on the “Audio” option from the “Menu” bar and choose music that’s already available on your PC.
 
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![choose audio to add to video](https://images.wondershare.com/filmora/article-images/2021/choose-audio.png)
 
 8\. Next, import the music to the video. Just click on the “File” > “Import File” > “Import Video Files” option.
@@ -746,3 +794,44 @@ You can make a great milestone with **YouTube Shorts music** than if you didn’
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-compact-video-summary-key-insights-unveiled/"><u>[New] 2024 Approved  Compact Video Summary  Key Insights Unveiled</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-going-against-the-tide-of-tradition-innovative-techniques-for-yt-rewinds/"><u>[New] 2024 Approved  Going Against the Tide of Tradition  Innovative Techniques for YT Rewinds</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-harness-youtubes-power-25-steps-to-prominence-and-recognition/"><u>[New] 2024 Approved  Harness YouTube's Power  25 Steps to Prominence and Recognition</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-block-youtube-ads-on-chromefirefoxandroidiphone/"><u>[New] 2024 Approved  How to Block YouTube Ads on Chrome/Firefox/Android/iPhone</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-from-hobby-to-hustle-making-money-with-videos-for-2024/"><u>[New] From Hobby to Hustle  Making Money with Videos for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-from-individualist-to-institutional-influence-in-the-youtube-universe-for-2024/"><u>[New] From Individualist to Institutional Influence in the YouTube Universe for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-dynamic-decibels-the-best-background-sounds-for-yt-shorts/"><u>[New] In 2024, Dynamic Decibels  The Best Background Sounds for YT Shorts</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-free-converters-at-your-fingertenaside-download-and-enjoy-videos-anywhere/"><u>[New] In 2024, Free Converters at Your Fingertenaside  Download & Enjoy Videos Anywhere</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-raw-footage-to-polished-highlights/"><u>[New] In 2024, From Raw Footage to Polished Highlights</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-silent-movies-to-sound-films-a-modern-tutorial/"><u>[New] In 2024, From Silent Movies to Sound Films  A Modern Tutorial</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-snippets-to-stars-the-essence-of-video-musical-success/"><u>[New] In 2024, From Snippets to Stars  The Essence of Video Musical Success</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-video-to-audio-quickly-create-mp3-from-youtube-on-mac/"><u>[New] In 2024, From Video to Audio  Quickly Create MP3 From YouTube on Mac</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-harness-the-power-of-playback-speed-control-in-youtube/"><u>[New] In 2024, Harness the Power of Playback Speed Control in YouTube</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-does-t-series-generate-revenue/"><u>[New] In 2024, How Does T-Series Generate Revenue?</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-does-youtube-count-views-its-not-as-simple-as-you-think/"><u>[New] In 2024, How Does YouTube Count Views? It's Not as Simple as You Think</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-convert-youtube-to-igtv-videos-3-ways/"><u>[New] In 2024, How to Convert YouTube to IGTV Videos? [3 Ways]</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-save-money-with-the-right-youtube-tv-plan/"><u>[New] In 2024, How to Save Money with the Right YouTube TV Plan</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-pixelpilot-studio-direct-access-screen-recorder/"><u>[New] In 2024, PixelPilot Studio  Direct-Access Screen Recorder</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-is-there-a-superior-cameras-marketplace-for-2024/"><u>[New] Is There a Superior Cameras Marketplace for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-global-reach-to-engagement-deciphering-igtv-and-youtubes-strategies/"><u>[Updated] 2024 Approved  From Global Reach to Engagement  Deciphering IGTV & YouTube’s Strategies</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-script-to-spectacle-independent-effect-innovation/"><u>[Updated] 2024 Approved  From Script to Spectacle  Independent Effect Innovation</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-giggle-galore-games-a-guide-to-hilarity-filled-tiktok-quests/"><u>[Updated] Giggle Galore Games  A Guide to Hilarity-Filled TikTok Quests</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/1717708468126-updated-in-2024-how-to-block-youtube-channels-on-computer-and-mobile-phones/"><u>[Updated] In 2024, How to Block Youtube Channels on Computer and Mobile Phones</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-go-frame-by-frame-on-youtube-video-5-methods/"><u>[Updated] In 2024, How to Go Frame by Frame on YouTube Video? [5 Methods]</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-mastering-the-art-of-crafting-engaging-youtube-screen-closures/"><u>[Updated] Mastering the Art of Crafting Engaging YouTube Screen Closures</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-sharpen-your-zoom-skills-with-background-blur-expertise-for-2024/"><u>[Updated] Sharpen Your Zoom Skills with Background Blur Expertise for 2024</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/3-best-tools-to-hard-reset-vivo-y36-drfone-by-drfone-reset-android-reset-android/"><u>3 Best Tools to Hard Reset Vivo Y36 | Dr.fone</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/breaking-tubes-unveiling-top-10-viewed-tweets-on-twitter-for-2024/"><u>Breaking Tubes  Unveiling Top 10 Viewed Tweets on Twitter for 2024</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-remove-forgotten-pin-of-your-samsung-galaxy-z-fold-5-by-drfone-android/"><u>How to Remove Forgotten PIN Of Your Samsung Galaxy Z Fold 5</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-videos-on-tecno-spark-10-4g-by-fonelab-android-recover-video/"><u>How to restore wiped videos on Tecno Spark 10 4G</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-iphone-6s-apples-new-iphone-drfone-by-drfone-ios/"><u>How to Unlock iPhone 6s, Apples New iPhone | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-converting-videos-with-impact-sdr-to-hdr-your-essential-guide/"><u>In 2024, Converting Videos with Impact  SDR to HDR - Your Essential Guide</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-samsung-galaxy-a15-5g-location-on-skout-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Samsung Galaxy A15 5G Location on Skout | Dr.fone</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/in-2024-take-your-instagram-videos-to-the-next-level-optimal-dimensions-and-aspect-ratios/"><u>In 2024, Take Your Instagram Videos to the Next Level Optimal Dimensions and Aspect Ratios</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/the-most-comprehensive-selection-of-audio-recording-software-for-2024/"><u>The Most Comprehensive Selection of Audio Recording Software for 2024</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-unlock-cross-platform-video-editing-run-windows-and-mac-apps-on-chromebook/"><u>Updated Unlock Cross-Platform Video Editing Run Windows & Mac Apps on Chromebook</u></a></li>
+<li><a href="https://howto.techidaily.com/vivo-v27e-not-connecting-to-wi-fi-12-quick-ways-to-fix-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Vivo V27e Not Connecting to Wi-Fi? 12 Quick Ways to Fix | Dr.fone</u></a></li>
+</ul></div>

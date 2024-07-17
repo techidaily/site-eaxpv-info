@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  How to Delete Comments From YouTube with Minimal Hassle\""
-date: 2024-06-06T16:00:48.177Z
-updated: 2024-06-07T16:00:48.177Z
+date: 2024-07-16T05:25:45.109Z
+updated: 2024-07-17T05:25:45.109Z
 tags:
   - ai video
   - ai youtube
@@ -18,6 +18,9 @@ thumbnail: https://thmb.techidaily.com/54fd3e003b786647a6f1d7a89a0a9ff3e56e44f97
 
 # Deleting YouTube Comments
 
+<!-- affiliate ads begin -->
+<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 ##### Richard Bennett
@@ -40,7 +43,7 @@ So how do you delete all YouTube comments? In this how-to blog, we will show you
 
 In this section, we will tell you how you can do it from your desktop.
 
-1. Go to[https://www.youtube.com/](https://www.youtube.com/) from your desktop browser and log in.
+1. Go to [https://www.youtube.com/](https://www.youtube.com/) from your desktop browser and log in.
 2. Once you log in, you need to go to your channel. For this, you can select the My Channel option from the upper-left side of your YouTube home page.
 3. From the list of your videos, select the one you need and scroll down to reach the comment you want to delete.
 4. When you locate the comment, click on the three vertical dots on the right-hand side of the comment. From the drop-down list, click on Remove. The process is complete, and YouTube will remove your comment.
@@ -57,15 +60,18 @@ The steps to deleting someone else’s YouTube comments from your mobile are sim
 4. Once you reach the target comment, click on the three vertical dots at the bottom corner. There should be an option called Remove. Tap on it.
 5. This will create another dialog box on the mobile app where you have to click on Remove again to delete the comment.
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How Do You Delete Your Comments from YouTube?
 
 Have you accidentally posted something on a YouTuber’s channel? Are you anxious because you cannot find the comment and delete it?
 
 Fear not. Read on to know how to **delete all comments you posted on someone else’s YouTube channel** from your desktop.
 
-1. Visit[https://www.youtube.com/](https://www.youtube.com/) from your desktop and then sign in YouTube channel.
+1. Visit [https://www.youtube.com/](https://www.youtube.com/) from your desktop and then sign in YouTube channel.
 2. If your YouTube account is not open, tap on Sign in and enter your email and password to log in to your account.
-3. Once there, you need to access your Comment History page. To do this, you can click on the three horizontal lines at the top left corner of your YouTube homepage. Click on History. On the page that opens, click Comments from the panel on the right. It will direct you to your Comment History page. You can also access the YouTube comment history from[here](https://www.youtube.com/feed/history/comment%5Fhistory).
+3. Once there, you need to access your Comment History page. To do this, you can click on the three horizontal lines at the top left corner of your YouTube homepage. Click on History. On the page that opens, click Comments from the panel on the right. It will direct you to your Comment History page. You can also access the YouTube comment history from [here](https://www.youtube.com/feed/history/comment%5Fhistory).
 1. When you reach the Comment History page, you will be able to find all comments you have ever posted. Scroll down to the comment you want to delete.
 2. Click on the three vertical dots that you see beside the target comment. You will find a Delete option. Tap on it, and confirm that you want to delete the comment. That completes the process. No more embarrassing comments!
 
@@ -101,7 +107,10 @@ To find your History from your desktop, you need to click on the three horizonta
 2. Once you find your target comment, click on the three vertical dots that appear on its right side. You will find the Report option from the pop-up menu. Click on that.
 3. When you tap Report, another dialogue box will appear. From the list of options, choose the most appropriate option, tap on Report at the lower right corner of the pop-up, and complete the process. YouTube will do the rest.
 
-![ Report YouTube comments](https://images.wondershare.com/filmora/article-images/report-youtube-comment.jpg)
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![Report YouTube comments](https://images.wondershare.com/filmora/article-images/report-youtube-comment.jpg)
 
 ## How to Delete All Your Posted YouTube Comments?
 
@@ -110,15 +119,18 @@ You can also delete all comments you ever posted on any YouTube video by hiding 
 1. You need to go to YouTube from your desktop and sign in to your account.
 2. Next, you can either click on the profile icon at the top right corner or the three horizontal lines beside the YouTube logo on your homepage. From the list of options, click Settings.
 
-![   YouTube Settings](https://images.wondershare.com/filmora/article-images/two-ways-settings-youtube-channel.jpg)
+![YouTube Settings](https://images.wondershare.com/filmora/article-images/two-ways-settings-youtube-channel.jpg)
 
-1. YouTube will direct you to the Settings page of your account. Choose Advanced Settings from the list on your left. You can also access it from[here](https://www.youtube.com/account%5Fadvanced).
+1. YouTube will direct you to the Settings page of your account. Choose Advanced Settings from the list on your left. You can also access it from [here](https://www.youtube.com/account%5Fadvanced).
 
-![   YouTube Advanced  Settings](https://images.wondershare.com/filmora/article-images/youtube-advanced-settings.jpg)
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![YouTube Advanced  Settings](https://images.wondershare.com/filmora/article-images/youtube-advanced-settings.jpg)
 
 1. Scroll down and select Delete Channel. Clicking it will not delete your account. When you click on Delete Channel, you will get two choices – ‘I want to hide my channel’ and ‘I want to permanently delete my content’. Select the first.
 
-![   YouTube Settings](https://images.wondershare.com/filmora/article-images/remove-youtube-content.jpg)
+![YouTube Settings](https://images.wondershare.com/filmora/article-images/remove-youtube-content.jpg)
 
 1. YouTube will now show you what will happen when you hide your channel. Check all the boxes to confirm that you understand, and then tap on Hide My Channel. YouTube will now delete all comments made by your account.
 
@@ -145,6 +157,14 @@ Follow @Richard Bennett
 
 # How to Create YouTube Intros & End Cards - Free and Easy
 
+<!-- affiliate ads begin -->
+<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
+<span class="text-ad-content">
+	#1 Rated Parental Control Software.<br/>
+	Monitor & Control all PC Activity!<br/>
+		<cite style="color:green">sentrypc.com/parental-controls/</cite>
+	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
 ##### Shanoon Cox
@@ -167,6 +187,18 @@ Follow @Richard Bennett
 
 [How To Make an End Card](#how-to)
 
+<!-- affiliate ads begin -->
+<span id="1793213">
+					<video width="1080" height="1620" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part1: Intros
 
 #### Elements of an Intro
@@ -177,7 +209,7 @@ When your intro video is longer than five seconds viewers are more likely to cli
 
 Whether it is better to put your intro at the very beginning of your video, or after you introduce your topic, will depend on your viewers. You may want to try it both ways and then look at your retention report (found in your YouTube Creator Studio under Analytics) to see which works best for you.
 
-#### [Top Intro Sites](https://tools.techidaily.com/wondershare/filmora/download/)
+#### Top Intro Sites
 
 There are a few different sites where you can download animated intros, customized to include your username or logo. Here are two of the best:
 
@@ -220,7 +252,7 @@ You should also have a subscribe link somewhere in your end card, ideally a very
 
 Some creators will leave their end cards at that and play music overtop, but it can be even more effective to include a voiceover where you ask viewers to subscribe and watch your other videos.
 
-#### [How To Make an End Card](https://tools.techidaily.com/wondershare/filmora/download/)
+#### How To Make an End Card
 
 1. Choose a static background. You may want to download an end card template or create one in a drawing program. If you do, make sure to include calls to action like ‘Watch more!’ and ‘Subscribe’.
 2. Drag your background into your timeline at the end of your video.
@@ -237,6 +269,9 @@ Some creators will leave their end cards at that and play music overtop, but it 
 13. Repeat for any other thumbnails. For your subscribe button, change where it said ‘Video’ to ‘Subscribe’ and enter your channel URL.
 14. Click **Apply Changes**.
 
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
 Shanoon Cox
@@ -254,3 +289,40 @@ Follow @Shanoon Cox
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-balancing-act-watching-multiple-videos-on-one-screen-for-2024/"><u>[New] Balancing Act  Watching Multiple Videos on One Screen for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-from-stillness-to-stirring-tips-for-bouncing-text-for-2024/"><u>[New] From Stillness to Stirring  Tips for Bouncing Text for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-10-recording-tips-to-record-audio-in-high-quality/"><u>[New] In 2024, 10 Recording Tips to Record Audio in High Quality</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-best-soundshapers-for-content-makers-on-youtube/"><u>[New] In 2024, Best Soundshapers for Content Makers on YouTube</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-keyword-kickstart-the-top-7-free-user-friendly-video-tag-extractors-analyzed/"><u>[New] Keyword Kickstart  The Top 7 Free, User-Friendly Video Tag Extractors Analyzed</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-swift-technique-coding-images-for-youtube-channel-thumbnails/"><u>[New] Swift Technique  Coding Images for YouTube Channel Thumbnails</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-top-14-youtube-titles-to-skyrocket-your-gaming-channels-popularity/"><u>[New] Top 14 YouTube Titles to Skyrocket Your Gaming Channel's Popularity</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-what-is-the-youtube-creator-studio/"><u>[New] What Is the YouTube Creator Studio?</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-your-comprehensible-guide-to-economical-webinars-on-youtube/"><u>[New] Your Comprehensible Guide to Economical Webinars on YouTube</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-direct-from-spotify-to-youtube-best-apps-for-streaming-conversions/"><u>[Updated] 2024 Approved  Direct From Spotify to YouTube  Best Apps for Streaming Conversions</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-fixed-eclipsed-youtube-short-video/"><u>[Updated] 2024 Approved  Fixed  Eclipsed YouTube Short Video</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-micro-videos-whats-the-gist/"><u>[Updated] 2024 Approved  Micro Videos  What's the Gist?</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-best-webcams-for-youtube-livestreaming-for-2024/"><u>[Updated] Best Webcams for YouTube Livestreaming for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-crafting-a-non-ad-revenue-stream-on-youtube-the-self-sustaining-creators-tale-for-2024/"><u>[Updated] Crafting a Non-Ad Revenue Stream on YouTube  The Self-Sustaining Creator’s Tale for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-excellence-in-editing-selecting-the-right-software/"><u>[Updated] Excellence in Editing  Selecting the Right Software</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-from-audio-to-action-mp3-to-youtube-conversion-journey/"><u>[Updated] From Audio to Action  MP3-to-YouTube Conversion Journey</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-authenticate-your-yt-account-a-hint-list/"><u>[Updated] How to Authenticate Your YT Account? A Hint List</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-audio-overhaul-methods-for-content-creators-online/"><u>[Updated] In 2024, Audio Overhaul Methods for Content Creators Online</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-remedies-for-lack-of-display-in-youtube-screens/"><u>[Updated] Remedies for Lack of Display in YouTube Screens</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-secure-your-place-in-the-metaverse-essential-devices-list/"><u>[Updated] Secure Your Place in the Metaverse  Essential Devices List</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-the-complete-process-for-customizing-video-game-channels/"><u>[Updated] The Complete Process for Customizing Video Game Channels</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-troubleshoot-your-instagram-live-solutions-await-for-2024/"><u>[Updated] Troubleshoot Your Instagram Live  Solutions Await for 2024</u></a></li>
+<li><a href="https://android-location.techidaily.com/10-fake-gps-location-apps-on-android-of-your-vivo-x-flip-drfone-by-drfone-virtual/"><u>10 Fake GPS Location Apps on Android Of your Vivo X Flip | Dr.fone</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/2024-approved-visual-branding-in-youtubes-design-tips/"><u>2024 Approved  Visual Branding in YouTubes  Design Tips</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/7-reasons-why-you-should-learn-afrikaans-with-mondly/"><u>7 Reasons Why You Should Learn Afrikaans With Mondly</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/comprehensive-snapshot-service-azs-app-testing-for-2024/"><u>Comprehensive Snapshot Service - AZ's App Testing for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/24-elevate-your-content-in-depth-guide-to-youtube-video-edits/"><u>In 2024, Elevate Your Content  In-Depth Guide to YouTube Video Edits</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/in-2024-speedy-editing-up-speed-your-tiktok-videos-now/"><u>In 2024, Speedy Editing  Up-Speed Your TikTok Videos Now</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/mastering-windows-11-movie-maker-a-step-by-step-guide/"><u>Mastering Windows 11 Movie Maker  A Step-by-Step Guide</u></a></li>
+<li><a href="https://ai-topics.techidaily.com/new-in-2024-how-to-create-funny-talking-avatars-using-oddcast-text-to-speech/"><u>New In 2024, How to Create Funny Talking Avatars Using Oddcast Text to Speech</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/thriving-online-finding-compatible-co-stars-for-youtube-for-2024/"><u>Thriving Online  Finding Compatible Co-Stars for YouTube for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/unlock-youtube-visuals-for-no-charge-best-free-downloader-guide-for-2024/"><u>Unlock YouTube Visuals for No Charge  Best Free Downloader Guide for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/youtube-ready-360-videos-editing-and-sharing-made-simple-for-2024/"><u>YouTube-Ready 360 Videos  Editing & Sharing Made Simple for 2024</u></a></li>
+</ul></div>

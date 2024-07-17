@@ -1,7 +1,7 @@
 ---
 title: "[Updated] From Zero to Hero in YouTube Traffic for 2024"
-date: 2024-06-06T15:06:18.669Z
-updated: 2024-06-07T15:06:18.669Z
+date: 2024-07-16T04:03:30.017Z
+updated: 2024-07-17T04:03:30.017Z
 tags:
   - ai video
   - ai youtube
@@ -50,12 +50,18 @@ Wait, don’t go making the video yet. First, we have to do some research. We ne
 
 Do a quick search on YouTube to see what videos already exist on your topic.
 
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Find Related Videos Sample](https://images.wondershare.com/filmora/article-images/find-related-videos.jpg)
 
 Uh oh… your video will be competing against celebrities like Gordon Ramsay and Jamie Oliver.
 
 Okay, don’t panic! There is a fantastic quote, credited to bestselling author, [Jon Acuff](https://acuff.me/), that goes:
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![fantastic quote](https://images.wondershare.com/filmora/article-images/fantastic-quote-do-not-compare-beginning-to-middle.jpg)
 
 While researching your competition, you will feel overwhelmed, but remember, you are at the beginning, and Gordon Ramsay and Jamie Oliver are not even at their middle, they are way passed the finish line. You still have a long journey to go, so don’t get discouraged, get inspired!
@@ -80,7 +86,7 @@ Now that we’ve decided that we are sticking with the video idea, we are ready 
 
 Come up with as many relevant keywords as you can. Start by entering a keyword into the YouTube search bar. This will tell you what are the most popular searches associated with that keyword:
 
-Once you have an idea of what people are searching for related to your topic, you’ll want to find more relevant keywords. I like to use the free app, [Ubersuggest](https://neilpatel.com/ubersuggest/)to do that.
+Once you have an idea of what people are searching for related to your topic, you’ll want to find more relevant keywords. I like to use the free app, [Ubersuggest](https://neilpatel.com/ubersuggest/) to do that.
 
 ![Find Keywords with Ubersuggest](https://images.wondershare.com/filmora/article-images/keyword-seo-tool-ubersuggest.jpg)
 
@@ -88,7 +94,7 @@ This app gives you a whole list of long-tail keywords, which are 3-4-word phrase
 
 Some you will use to dig deeper in and other you will deem irrelevant to your videos. A good way of determining the value of a keyword is by the stats the application shows.
 
-![ Keywords in Ubersuggest](https://images.wondershare.com/filmora/article-images/find-keywords-with-ubersuggest.jpg)
+![Keywords in Ubersuggest](https://images.wondershare.com/filmora/article-images/find-keywords-with-ubersuggest.jpg)
 
 ####  
 
@@ -156,6 +162,9 @@ Have the specific keywords at the top, followed by more general keywords, and th
 
 **Branded**: Gordon Ramsay scrambled eggs
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 2: Make The Best Darn Video Possible
 
 It doesn’t matter how relevant your keywords are or how epic your title is, if you video sucks (i.e. your viewers click in and leave right away), YouTube will not show it in search.
@@ -204,7 +213,7 @@ Take a look at your competition. If they all look the same, do something differe
 
 Don’t want to pay money for a photo editing software such as Photoshop?
 
-You can use an online service called [Canva](https://www.canva.com/)or download [GIMP](https://www.gimp.org/), an open-source photo editor much like Photoshop, but far less powerful. These will help you get the job done as you are starting out.
+You can use an online service called [Canva](https://www.canva.com/) or download [GIMP](https://www.gimp.org/), an open-source photo editor much like Photoshop, but far less powerful. These will help you get the job done as you are starting out.
 
 Want to know more thumbnail maker? Check our picks of the [best free YouTube thumbnail makers](https://tools.techidaily.com/wondershare/filmora/download/).
 
@@ -244,6 +253,9 @@ If you treat SEO as an afterthought, only after your video is created, you are n
 
 Besides considering YouTube SEO, you should make a good YouTube video as well. Filmora is a powerful video editing software that features lots of templates and effects. Get the free trial version below and have a try today.
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 [![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
 Do you have any questions about SEO? Please leave us a comment below.
@@ -275,6 +287,9 @@ Do you wonder how to turn on **AV1 settings on YouTube**? For your information, 
 
 ##### Step1Go to playback and performance
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![youtube settings](https://images.wondershare.com/filmora/article-images/2022/11/av1-settings-on-youtube-2.jpg)
 
 * To turn on the AV1 settings, go to your YouTube account, after that click "Playback and Performance".
@@ -293,14 +308,23 @@ Now, do you need a reason why you should choose AV1 compared to VP9 and the othe
 
 The main thing is, as mentioned before, AV1 is developed by a consortium of companies founded in 2015\. It is supported by The Alliance for Open Media (AOMedia) such as Amazon, Facebook, Google, Microsoft, and Netflix, and also by web browser developers and semiconductor firms. Aomedia made it clear the algorithm is free-to-use. It means that there are no greedy negotiators that will be dependent on the developers.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
 ![giant techs behind av1](https://images.wondershare.com/filmora/article-images/2022/11/av1-settings-on-youtube-4.jpg)
 
 Also, these days, with a format that provides a much smaller workload for internet providers. Their today focus is, that AV1 can reach the quality but can get the job done with 20% more efficiency. Then, with AV1 encoding, a "standard" 4K movie will be much more accessible than it is now. These are some more reasons why you should choose AV1.
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 1\. Royalty-free
 
 As mentioned before, AV1 is royalty-free. AV1 is such a next-generation of royalty video codec. It means that it is not just free to use, but also free of charge, obligations, or even liability. It is an open and royalty-free video codec that the video platform will not charge to pay royalties to the Moving Picture Experts Group (MPEG), the developer of video codecs.
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![av1 is royalty-free](https://images.wondershare.com/filmora/article-images/2022/11/av1-settings-on-youtube-5.jpg)
 
 When it comes to the group that will ask for the royalty, MPEG is not the only one. There are also other patent groups and companies that can ask for it. Aomedia integrated Google, Mozilla, and Cisco, while they were busy creating their new video codec. However, the three companies joined together to create one codec to beat them all.
@@ -309,6 +333,9 @@ When it comes to the group that will ask for the royalty, MPEG is not the only o
 
 It is said that the AV1 codec is 30% more efficient. According to the tests conducted by Moscow State University, AV1 can outperform AV1 by about 28% in the efficiency of encoding and decoding. As per the performance graph from the Graphics & Media Lab Video Group, MSU below, AV1 can offer the exactly same quality as X264 at 55% of the average bitrate.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![av1 benefit](https://images.wondershare.com/filmora/article-images/2022/11/av1-settings-on-youtube-6.jpg)
 
 AV1 is designed so exclusively to function better than all the other codecs in the market. It is an open-sourced codec with simple patent licensing, and the integration manages to save, as mentioned, up to 30% of the bandwidth for the exactly same image quality. In other words, with AV1, distributors can send streams much faster and cheaper and we can enjoy higher definitions in the same bandwidth.
@@ -319,6 +346,9 @@ AV1 is undoubtedly superior if we compare it to other available video codecs and
 
 There are also three essential improvements, which are simplifying the existing feature (also complete removal) and picking the tool used by VVC/H.266 (It is lack originality but so much work on it) and improvement periodically improvement of an existing tool, it is too few and also not original. We haven't known yet when AV2 will be done completely though, maybe there still be some more essential improvements.
 
+<!-- affiliate ads begin -->
+<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 3: What's the best video editor for YouTubers with AV1 format?
 
 When we talk about YouTube, it feels incomplete if we don't talk about the video editor. So, what is the best video editing software for YouTubers with AV1 format? Yes, it is [Filmora](https://tools.techidaily.com/wondershare/filmora/download/). It is such a great video editing software that allows you to import and edit many video file formats. Filmora also allows users to export AV1 MP4 format video and then can directly upload it to YouTube.
@@ -339,6 +369,9 @@ For today, YouTube encodes all the videos with the VP9 codec, but for some reaso
 
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Part 4: FAQ: Does YouTube use AV1 or VP9?
 
 For today, YouTube encodes all the videos with the VP9 codec, but for some reason displays for low view count videos. AV1 usage also had been pushed to very low view counts. When it comes to cost or quality tradeoffs, AV1 took about 18 times longer to encode than x264.
@@ -357,3 +390,44 @@ For today, YouTube encodes all the videos with the VP9 codec, but for some reaso
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-free-video-embedding-for-dynamic-online-articles/"><u>[New] 2024 Approved  Free Video Embedding for Dynamic Online Articles</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-live-demos-to-online-sharing-mastering-idevice-screenshots-for-video-content/"><u>[New] 2024 Approved  From Live Demos to Online Sharing  Mastering iDevice Screenshots for Video Content</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-fun-frenzy-youtube-writers-of-joyful-entertainment/"><u>[New] 2024 Approved  Fun Frenzy  YouTube’ Writers of Joyful Entertainment</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-hack-the-youtube-timeline-increase-or-decrease-sound/"><u>[New] 2024 Approved  Hack the YouTube Timeline  Increase or Decrease Sound</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-harmonizing-hues-in-online-beauty-videos/"><u>[New] 2024 Approved  Harmonizing Hues in Online Beauty Videos</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-harnessing-the-potential-of-youtube-shorts-advertising/"><u>[New] 2024 Approved  Harnessing the Potential of YouTube Shorts Advertising</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-make-youtube-banners-and-thumbnails/"><u>[New] 2024 Approved  How to Make YouTube Banners and Thumbnails</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-optimize-video-quality-on-youtube-with-size-settings/"><u>[New] 2024 Approved  How to Optimize Video Quality on YouTube with Size Settings</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-watch-deleted-youtube-videos-online-in-2-ways/"><u>[New] 2024 Approved  How to Watch Deleted YouTube Videos Online in 2 Ways</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-fb-share-strategies-for-your-youtube-content-for-2024/"><u>[New] FB Share Strategies for Your YouTube Content for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-finding-your-video-complement-the-process-of-collaborative-pairing-for-2024/"><u>[New] Finding Your Video Complement  The Process of Collaborative Pairing for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-harness-the-power-of-gs-for-clear-video-ctas-for-2024/"><u>[New] Harness the Power of GS for Clear Video CTAs for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-how-to-acquire-standardized-thumbnails-from-youtube-online-and-desktop-options-for-2024/"><u>[New] How To Acquire Standardized Thumbnails From Youtube  Online & Desktop Options for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-how-to-make-a-thumbnail-for-your-youtube-free-easily-for-2024/"><u>[New] How to Make a Thumbnail for Your YouTube Free Easily for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-shortcuts-to-sharing-merging-youtube-and-tiktok-pathways/"><u>[New] In 2024, From Shortcuts to Sharing  Merging YouTube & TikTok Pathways</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-gain-yt-prompts-prowess-with-environmentally-friendly-methods/"><u>[New] In 2024, Gain YT Prompts Prowess with Environmentally Friendly Methods</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-harness-high-quality-banners-free-for-content-developers/"><u>[New] In 2024, Harness High-Quality Banners – Free for Content Developers</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-mapping-out-instagram-departures/"><u>[New] In 2024, Mapping Out Instagram Departures</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-tailoring-youtube-experience-on-the-worlds-largest-social-network-for-2024/"><u>[New] Tailoring YouTube Experience on the World's Largest Social Network for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-flipping-currencies-through-cosmetics-content/"><u>[Updated] 2024 Approved  Flipping Currencies Through Cosmetics Content</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-football-video-analysis-top-youtube-infographics/"><u>[Updated] 2024 Approved  Football Video Analysis  Top YouTube Infographics</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-free-youtube-intros-a-comprehensive-instructional-guide/"><u>[Updated] 2024 Approved  Free YouTube Intros  A Comprehensive Instructional Guide</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-fresh-inspirations-for-streaming-topics/"><u>[Updated] 2024 Approved  Fresh Inspirations for Streaming Topics</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-creator-to-business-transforming-your-youtube-experience/"><u>[Updated] 2024 Approved  From Creator to Business  Transforming Your YouTube Experience</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-cutting-edge-voice-capture-top-recorders-of-2023/"><u>[Updated] In 2024, Cutting-Edge Voice Capture  Top Recorders of 2023</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-transforming-soundtracks-into-professional-podcasts/"><u>2024 Approved  Transforming Soundtracks Into Professional Podcasts</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/approved-ultimate-guide-to-cheap-subtitles-and-downloaders/"><u>2024 Approved  Ultimate Guide to Cheap Subtitles & Downloaders</u></a></li>
+<li><a href="https://fake-location.techidaily.com/full-guide-to-fix-itoolab-anygo-not-working-on-apple-iphone-13-mini-drfone-by-drfone-virtual-ios/"><u>Full Guide to Fix iToolab AnyGO Not Working On Apple iPhone 13 mini | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/hacks-to-do-pokemon-go-trainer-battles-for-honor-x50-drfone-by-drfone-virtual-android/"><u>Hacks to do pokemon go trainer battles For Honor X50 | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-fix-apple-id-verification-code-not-working-on-iphone-se-by-drfone-ios/"><u>How To Fix Apple ID Verification Code Not Working On iPhone SE</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-flash-dead-vivo-y56-5g-safely-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Flash Dead Vivo Y56 5G Safely | Dr.fone</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-collabcanvas-pro-instagram-video-mosaics-unite/"><u>In 2024, CollabCanvas Pro  Instagram Video Mosaics Unite</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-come-up-with-the-best-pokemon-team-on-tecno-pop-8-drfone-by-drfone-virtual-android/"><u>In 2024, How to Come up With the Best Pokemon Team On Tecno Pop 8? | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-step-by-step-guide-to-convert-avis-into-gifs-via-filmora-software/"><u>In 2024, Step-by-Step Guide to Convert AVIs Into GIFs via Filmora Software</u></a></li>
+<li><a href="https://extra-support.techidaily.com/start-with-crypto-and-nfts-your-simple-creation-plan-for-2024/"><u>Start with Crypto & NFTs  Your Simple Creation Plan for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/uniting-fans-anime-opening-songs-showcase/"><u>Uniting Fans  Anime Opening Songs Showcase</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-the-ultimate-guide-to-splitting-videos-in-windows-live-movie-maker-2023-edition/"><u>Updated The Ultimate Guide to Splitting Videos in Windows Live Movie Maker (2023 Edition)</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  How to Swiftly Excise Your Youtube Comment Spam\""
-date: 2024-06-06T14:28:51.066Z
-updated: 2024-06-07T14:28:51.066Z
+date: 2024-07-16T03:07:32.937Z
+updated: 2024-07-17T03:07:32.937Z
 tags:
   - ai video
   - ai youtube
@@ -36,11 +36,14 @@ So how do you delete all YouTube comments? In this how-to blog, we will show you
 * [part 4: Delete Other People's Comments on Others' Channels](#part4)
 * [Part 5: Delete All Your Posted YouTube Comments](#part5)
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to Delete YouTube Comments from Desktop?
 
 In this section, we will tell you how you can do it from your desktop.
 
-1. Go to[https://www.youtube.com/](https://www.youtube.com/) from your desktop browser and log in.
+1. Go to [https://www.youtube.com/](https://www.youtube.com/) from your desktop browser and log in.
 2. Once you log in, you need to go to your channel. For this, you can select the My Channel option from the upper-left side of your YouTube home page.
 3. From the list of your videos, select the one you need and scroll down to reach the comment you want to delete.
 4. When you locate the comment, click on the three vertical dots on the right-hand side of the comment. From the drop-down list, click on Remove. The process is complete, and YouTube will remove your comment.
@@ -63,12 +66,15 @@ Have you accidentally posted something on a YouTuber’s channel? Are you anxiou
 
 Fear not. Read on to know how to **delete all comments you posted on someone else’s YouTube channel** from your desktop.
 
-1. Visit[https://www.youtube.com/](https://www.youtube.com/) from your desktop and then sign in YouTube channel.
+1. Visit [https://www.youtube.com/](https://www.youtube.com/) from your desktop and then sign in YouTube channel.
 2. If your YouTube account is not open, tap on Sign in and enter your email and password to log in to your account.
-3. Once there, you need to access your Comment History page. To do this, you can click on the three horizontal lines at the top left corner of your YouTube homepage. Click on History. On the page that opens, click Comments from the panel on the right. It will direct you to your Comment History page. You can also access the YouTube comment history from[here](https://www.youtube.com/feed/history/comment%5Fhistory).
+3. Once there, you need to access your Comment History page. To do this, you can click on the three horizontal lines at the top left corner of your YouTube homepage. Click on History. On the page that opens, click Comments from the panel on the right. It will direct you to your Comment History page. You can also access the YouTube comment history from [here](https://www.youtube.com/feed/history/comment%5Fhistory).
 1. When you reach the Comment History page, you will be able to find all comments you have ever posted. Scroll down to the comment you want to delete.
 2. Click on the three vertical dots that you see beside the target comment. You will find a Delete option. Tap on it, and confirm that you want to delete the comment. That completes the process. No more embarrassing comments!
 
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
+<!-- affiliate ads end -->
 ## How Do You Delete Your Comments from Your Phone?
 
 Don’t have a desktop handy? This section will tell you how you can delete your comments you posted on your or someone else’s YouTube video from your mobile.
@@ -101,7 +107,10 @@ To find your History from your desktop, you need to click on the three horizonta
 2. Once you find your target comment, click on the three vertical dots that appear on its right side. You will find the Report option from the pop-up menu. Click on that.
 3. When you tap Report, another dialogue box will appear. From the list of options, choose the most appropriate option, tap on Report at the lower right corner of the pop-up, and complete the process. YouTube will do the rest.
 
-![ Report YouTube comments](https://images.wondershare.com/filmora/article-images/report-youtube-comment.jpg)
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![Report YouTube comments](https://images.wondershare.com/filmora/article-images/report-youtube-comment.jpg)
 
 ## How to Delete All Your Posted YouTube Comments?
 
@@ -110,15 +119,15 @@ You can also delete all comments you ever posted on any YouTube video by hiding 
 1. You need to go to YouTube from your desktop and sign in to your account.
 2. Next, you can either click on the profile icon at the top right corner or the three horizontal lines beside the YouTube logo on your homepage. From the list of options, click Settings.
 
-![   YouTube Settings](https://images.wondershare.com/filmora/article-images/two-ways-settings-youtube-channel.jpg)
+![YouTube Settings](https://images.wondershare.com/filmora/article-images/two-ways-settings-youtube-channel.jpg)
 
-1. YouTube will direct you to the Settings page of your account. Choose Advanced Settings from the list on your left. You can also access it from[here](https://www.youtube.com/account%5Fadvanced).
+1. YouTube will direct you to the Settings page of your account. Choose Advanced Settings from the list on your left. You can also access it from [here](https://www.youtube.com/account%5Fadvanced).
 
-![   YouTube Advanced  Settings](https://images.wondershare.com/filmora/article-images/youtube-advanced-settings.jpg)
+![YouTube Advanced  Settings](https://images.wondershare.com/filmora/article-images/youtube-advanced-settings.jpg)
 
 1. Scroll down and select Delete Channel. Clicking it will not delete your account. When you click on Delete Channel, you will get two choices – ‘I want to hide my channel’ and ‘I want to permanently delete my content’. Select the first.
 
-![   YouTube Settings](https://images.wondershare.com/filmora/article-images/remove-youtube-content.jpg)
+![YouTube Settings](https://images.wondershare.com/filmora/article-images/remove-youtube-content.jpg)
 
 1. YouTube will now show you what will happen when you hide your channel. Check all the boxes to confirm that you understand, and then tap on Hide My Channel. YouTube will now delete all comments made by your account.
 
@@ -126,6 +135,9 @@ You can also delete all comments you ever posted on any YouTube video by hiding 
 
 YouTube can be an unsafe place with unwanted comments everywhere. In this blog, we tried to show how you can get rid of comments on your and on others’ YouTube accounts. The next time you see an offensive comment or post something mistakenly, don’t forget to try our tips and make YouTube a safe platform again.
 
+<!-- affiliate ads begin -->
+<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 Richard Bennett
@@ -141,6 +153,9 @@ Follow @Richard Bennett
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
+<!-- affiliate ads begin -->
+<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Leveraging Costless Methods for Integrating Videos Into Writing
 
 # How to Add Video to Text
@@ -165,6 +180,9 @@ You should start by creating a new slide and adding a textbox to it. Proceed to 
 
 Head over to the Insert tab, select Rectangle from the Shapes menu, and create a rectangular shape over the entire slide. Right-click on the slide and choose the Send to Back option from the menu. In this manner, you will position the rectangle you created behind the textbox.
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Add video to text - Powerpoint- insert shape](https://images.wondershare.com/filmora/article-images/insert-rectangle-shape.jpg)
 
 The next step you will have to take is to create the cut-out of the text within the rectangle. Select both the text and shape you placed in the background before clicking on the Format tab that is located near the end of PowerPoint’s ribbon.
@@ -177,14 +195,23 @@ Click on the Insert tab, and then choose the Video option from the Media menu. Y
 
 You can then fine-tune the video playback settings from the Playback tab. Preview the results before you move on to the next slide in your presentation, and make necessary adjustments if you don’t like how the video merged with the text.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ## Part 2: Adding Video to Text in Filmora
 
 Besides presentation software, you can also use video editing software products to add a video to text. Filmora lets you add a video to text in just a few simple steps. You can first make a text video with animation first, and then use the picture in picture feature to add the video to text. Here are the detailed information about how to add a video to text in Filmora.
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 [![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
 You should start by creating a new project in Filmora and importing the video you want to add to the text into the project. Click on the Titles tab, and choose the title that matches the visual style of your project.
 
+<!-- affiliate ads begin -->
+<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
+<!-- affiliate ads end -->
 ![Add video to text - Filmora9](https://images.wondershare.com/filmora/article-images/add-title-effects.jpg)
 
 Set the preferred duration of the title by dragging one of its ends to the left or right after you place it on the timeline, and then double-click on it to customize it. Click on the Advanced button once the Text tab opens and insert the text into the Input Text box.
@@ -224,3 +251,57 @@ Follow @Liza Brown
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-gameplay-recording-must-haves/"><u>[New] 2024 Approved  Gameplay Recording Must-Haves</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-harness-the-full-potential-of-your-youtube-content-using-wmm/"><u>[New] 2024 Approved  Harness the Full Potential of Your YouTube Content Using WMM</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-essential-tips-for-saving-and-recording-on-periscope/"><u>[New] Essential Tips for Saving & Recording on Periscope</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-frame-by-frame-verbalizer-for-2024/"><u>[New] Frame by Frame Verbalizer for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-free-banner-templates-and-makers-for-youtube-for-2024/"><u>[New] Free Banner Templates & Makers for YouTube for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-from-draft-to-edit-essential-film-techniques-via-youtube-for-2024/"><u>[New] From Draft to Edit  Essential Film Techniques via YouTube for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-from-iciness-to-comfort-five-warm-backdrops-ideas-for-2024/"><u>[New] From Iciness to Comfort  Five Warm Backdrops Ideas for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-from-script-to-screen-methods-of-inserting-dialogue-into-online-videos-for-2024/"><u>[New] From Script to Screen  Methods of Inserting Dialogue Into Online Videos for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-from-videos-to-vibrant-gifs-youtube-conversion-techniques-for-2024/"><u>[New] From Videos to Vibrant GIFs  YouTube Conversion Techniques for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-how-to-get-just-the-essentials-from-youtube-videos-for-2024/"><u>[New] How to Get Just the Essentials From YouTube Videos for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-how-to-safeguard-against-youtube-prohibitions-for-2024/"><u>[New] How to Safeguard Against Youtube Prohibitions for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-how-to-guide-for-effortless-youtube-playlist-downloads-for-2024/"><u>[New] How-To Guide for Effortless YouTube Playlist Downloads for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-capture-to-share-essential-steps-for-high-resolution-video-on-youtube/"><u>[New] In 2024, From Capture to Share  Essential Steps for High-Resolution Video on Youtube</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-grasping-the-essence-of-your-youtube-community/"><u>[New] In 2024, Grasping the Essence of Your YouTube Community</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-retain-video-engagement-sustained-use-of-youtubes-cc-license/"><u>[New] In 2024, How to Retain Video Engagement  Sustained Use of YouTube's CC License</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-tunetales-music-and-speech-review/"><u>[New] In 2024, TuneTales  Music and Speech Review</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-the-comprehensible-guide-to-marketing-on-snapchat-for-2024/"><u>[New] The Comprehensible Guide to Marketing on Snapchat for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-3-part-blueprint-to-monitor-and-maximize-your-youtube-profits/"><u>[Updated] 2024 Approved  3-Part Blueprint to Monitor and Maximize Your YouTube Profits</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-font-power-boosters-secrets-to-stellar-video-thumbnails/"><u>[Updated] 2024 Approved  Font Power Boosters  Secrets to Stellar Video Thumbnails</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-framing-the-perfect-frame-talking-head-shot-essentials/"><u>[Updated] 2024 Approved  Framing the Perfect Frame  Talking-Head Shot Essentials</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-generating-direct-links-for-automatic-channel-subscription/"><u>[Updated] 2024 Approved  Generating Direct Links for Automatic Channel Subscription</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-grandview-alliance-how-to-settle-on-a-cms/"><u>[Updated] 2024 Approved  Grandview Alliance  How to Settle on a CMS</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-hitting-the-high-scores-with-youtube-gaming-livestreams/"><u>[Updated] 2024 Approved  Hitting the High Scores with YouTube Gaming Livestreams</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-mastering-youtube-insights-for-channel-expansion/"><u>[Updated] 2024 Approved  Mastering YouTube Insights for Channel Expansion</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-from-budget-channels-to-big-brands-youtube-sponsorships-demystified-for-2024/"><u>[Updated] From Budget Channels to Big Brands  YouTube Sponsorships Demystified for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-from-capture-to-share-proven-methods-for-live-360-video-on-youtube-for-2024/"><u>[Updated] From Capture to Share  Proven Methods for Live 360° Video on Youtube for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-guide-to-swiftly-eliminate-unwanted-youtube-comments-for-2024/"><u>[Updated] Guide to Swiftly Eliminate Unwanted YouTube Comments for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-harnessing-youtube-statistics-to-increase-subscribers-for-2024/"><u>[Updated] Harnessing YouTube Statistics to Increase Subscribers for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-how-can-you-grow-without-buying-views-for-2024/"><u>[Updated] How Can You Grow Without Buying Views for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-how-effective-is-sponsored-view-count-boosting-in-2024/"><u>[Updated] How Effective Is Sponsored View Count Boosting, In 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-evaluating-the-top-video-streaming-apps-for-phones/"><u>[Updated] In 2024, Evaluating the Top Video Streaming Apps for Phones</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-backyard-blogs-to-billion-sub-youtube-channel/"><u>[Updated] In 2024, From Backyard Blogs to Billion-Sub YouTube Channel</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-novice-to-pro-simplified-youtube-live-streaming-with-obs/"><u>[Updated] In 2024, From Novice to Pro  Simplified YouTube Live Streaming with OBS</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-get-your-digital-dough-worthy-with-these-50-no-cost-youtube-promo-tools/"><u>[Updated] In 2024, Get Your Digital Dough Worthy With These 50 No-Cost YouTube Promo Tools</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-two-easy-steps-for-altering-snapchats-audio-effects/"><u>[Updated] Two Easy Steps for Altering Snapchat's Audio Effects</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-a-showcase-of-excellence-the-best-9-platforms-for-accessing-3d-font-innovations/"><u>2024 Approved  A Showcase of Excellence  The Best 9 Platforms for Accessing 3D Font Innovations</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-maximizing-b-roll-creative-uses-and-integration/"><u>2024 Approved  Maximizing B-Roll  Creative Uses and Integration</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-mobile-and-desktop-tips-for-gotomeeting-captures/"><u>2024 Approved  Mobile & Desktop Tips for GoToMeeting Captures</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/a-step-by-step-approach-to-repairing-onedrive-on-windows-11/"><u>A Step-by-Step Approach to Repairing OneDrive on Windows 11</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fix-life360-shows-wrong-location-on-xiaomi-redmi-note-12r-drfone-by-drfone-virtual-android/"><u>How to Fix Life360 Shows Wrong Location On Xiaomi Redmi Note 12R? | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-lock-apps-on-tecno-pop-7-pro-to-protect-your-individual-information-by-drfone-android/"><u>How to Lock Apps on Tecno Pop 7 Pro to Protect Your Individual Information</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-can-i-bypass-a-forgotten-phone-password-of-itel-s23-by-drfone-android/"><u>In 2024, Can I Bypass a Forgotten Phone Password Of Itel S23?</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-fresh-footage-first-episode-insight/"><u>In 2024, Fresh Footage First-Episode Insight</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/innovative-tactics-for-cutting-edge-macro-video-creation-for-2024/"><u>Innovative Tactics for Cutting-Edge Macro Video Creation for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/learn-photo-edits-like-a-pro-lunapic-for-starters-for-2024/"><u>Learn Photo Edits Like a Pro  LunaPic for Starters for 2024</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-in-2024-top-rated-pc-video-editors-for-trimming-and-cutting/"><u>New In 2024, Top-Rated PC Video Editors for Trimming and Cutting</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/shoot-in-slow-motion-essential-gopro-hero-10-techniques/"><u>Shoot in Slow Motion  Essential GoPro Hero 10 Techniques</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/unveiling-the-best-practices-in-cds-ripping-and-burning-with-win-media-for-2024/"><u>Unveiling the Best Practices in Cds Ripping & Burning with Win, Media for 2024</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/unveiling-the-top-20-youtube-music-spaces-for-your-favorite-tunes/"><u>Unveiling the Top 20 YouTube Music Spaces for Your Favorite Tunes</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-revolutionize-your-call-conversations-top-5-applications-for-modifying-skype-vocal-traits/"><u>Updated Revolutionize Your Call Conversations Top 5 Applications for Modifying Skype Vocal Traits</u></a></li>
+</ul></div>

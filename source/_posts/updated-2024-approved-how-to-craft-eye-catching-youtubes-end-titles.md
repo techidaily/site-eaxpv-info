@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  How to Craft Eye-Catching YouTubes End Titles\""
-date: 2024-06-06T15:05:38.001Z
-updated: 2024-06-07T15:05:38.001Z
+date: 2024-07-16T04:02:31.015Z
+updated: 2024-07-17T04:02:31.015Z
 tags:
   - ai video
   - ai youtube
@@ -18,6 +18,9 @@ thumbnail: https://thmb.techidaily.com/7104f2fdb3efe51471cdd88f375c828abb8a0fae8
 
 # How to Create YouTube Intros & End Cards - Free and Easy
 
+<!-- affiliate ads begin -->
+<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
+<!-- affiliate ads end -->
 ![](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
 ##### Shanoon Cox
@@ -40,6 +43,9 @@ thumbnail: https://thmb.techidaily.com/7104f2fdb3efe51471cdd88f375c828abb8a0fae8
 
 [How To Make an End Card](#how-to)
 
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Part1: Intros
 
 #### Elements of an Intro
@@ -50,7 +56,7 @@ When your intro video is longer than five seconds viewers are more likely to cli
 
 Whether it is better to put your intro at the very beginning of your video, or after you introduce your topic, will depend on your viewers. You may want to try it both ways and then look at your retention report (found in your YouTube Creator Studio under Analytics) to see which works best for you.
 
-#### [Top Intro Sites](https://tools.techidaily.com/wondershare/filmora/download/)
+#### Top Intro Sites
 
 There are a few different sites where you can download animated intros, customized to include your username or logo. Here are two of the best:
 
@@ -93,7 +99,7 @@ You should also have a subscribe link somewhere in your end card, ideally a very
 
 Some creators will leave their end cards at that and play music overtop, but it can be even more effective to include a voiceover where you ask viewers to subscribe and watch your other videos.
 
-#### [How To Make an End Card](https://tools.techidaily.com/wondershare/filmora/download/)
+#### How To Make an End Card
 
 1. Choose a static background. You may want to download an end card template or create one in a drawing program. If you do, make sure to include calls to action like ‘Watch more!’ and ‘Subscribe’.
 2. Drag your background into your timeline at the end of your video.
@@ -125,6 +131,9 @@ Follow @Shanoon Cox
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Starting Offright: How to Register With YouTube
 
 # How to Create a YouTube Account
@@ -145,12 +154,18 @@ Once you know for sure that you want to create a YouTube account, and also know 
 
 2\. If you see a Sign In button, click it. If you see your icon click on that, and in the window that pops up select Add Account. Either way, you will be taken into a sign in screen. Under where it asks for your email address it will say Create Account. Click on Create Account.
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![account sign in screen](https://images.wondershare.com/filmora/article-images/account-sign-in-screen.JPG)
 
 3\. In the sign up page you will need to put in your name, email address, and mobile phone number as well as some other personal information. Do not enter your current Gmail address. Enter an alternate email you have created for your vlog, or click on I would like a new Gmail address. This will change your page slightly so that the email field becomes Choose a Username.
 
 ![account new gmail](https://images.wondershare.com/filmora/article-images/account-new-gmail.JPG)
 
+<!-- affiliate ads begin -->
+
+<!-- affiliate ads end -->
 ![account after new gmail](https://images.wondershare.com/filmora/article-images/account-after-new-gmail.JPG)
 
 You will probably need to try a few different usernames before you find one that is not taken.
@@ -161,6 +176,9 @@ You will probably need to try a few different usernames before you find one that
 
 6\. After you finish the form click Next Step and, in the next screen, Continue to YouTube.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Tips on Starting a YouTube Channel
 
 #### 1\. Choose a Topic you Love
@@ -212,3 +230,44 @@ Follow @Richard Bennett
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-finding-your-custom-scored-youtube-tunes-for-2024/"><u>[New] Finding Your Custom-Scored YouTube Tunes for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-gamers-signature-look-essential-template-tips-for-channels-for-2024/"><u>[New] Gamers' Signature Look  Essential Template Tips for Channels for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-how-to-edit-youtube-channel-description-for-2024/"><u>[New] How to Edit YouTube Channel Description for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-how-to-save-money-with-the-right-youtube-tv-plan-for-2024/"><u>[New] How to Save Money with the Right YouTube TV Plan for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-how-to-smoothly-view-youtube-videos-without-borders-in-2024/"><u>[New] How to Smoothly View YouTube Videos without Borders, In 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-script-to-spectacle-independent-effect-innovation/"><u>[New] In 2024, From Script to Spectacle  Independent Effect Innovation</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-vision-to-execution-the-full-spectrum-of-personal-branding-on-youtube/"><u>[New] In 2024, From Vision to Execution  The Full Spectrum of Personal Branding on YouTube</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-get-rid-of-youtube-distractions-ad-blocking-on-chrome-firefox-and-ios/"><u>[New] In 2024, Get Rid of YouTube Distractions  Ad-Blocking on Chrome, Firefox & iOS</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-harmonic-hits-top-rated-dj-template-downloads/"><u>[New] In 2024, Harmonic Hits  Top-Rated DJ Template Downloads</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-finding-yt-comments-tips-for-desktop-iphone-android-users/"><u>[Updated] 2024 Approved  Finding YT Comments  Tips for Desktop, iPhone, Android Users</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-screen-to-speakers-secrets-to-successful-video-sharing/"><u>[Updated] 2024 Approved  From Screen To Speakers  Secrets to Successful Video Sharing</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-guide-to-avoidable-exposure-hiding-objects-and-faces-online/"><u>[Updated] 2024 Approved  Guide to Avoidable Exposure  Hiding Objects and Faces Online</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-highest-rated-smartphone-camera-and-recording-apps-iphone-vs-android/"><u>[Updated] 2024 Approved  Highest Rated Smartphone Camera & Recording Apps  IPhone vs Android</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-watch-deleted-youtube-videos-online-in-2-ways/"><u>[Updated] 2024 Approved  How to Watch Deleted YouTube Videos Online in 2 Ways</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-navigating-daily-life-on-facebook-a-step-by-step-guide/"><u>[Updated] 2024 Approved  Navigating Daily Life on Facebook  A Step-by-Step Guide</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-universal-approach-to-smartphone-mac-and-pc-video-filming/"><u>[Updated] 2024 Approved  Universal Approach to Smartphone, Mac, and PC Video Filming</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-film-substitutes-to-stream-top-7-picks-for-2024/"><u>[Updated] Film Substitutes to Stream - Top 7 Picks for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-from-camera-to-chrome-youtube-shorts-video-upload-guide-for-2024/"><u>[Updated] From Camera to Chrome  YouTube Shorts Video Upload Guide for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-from-youtubes-realm-to-igtvs-domain-3-ways-for-2024/"><u>[Updated] From YouTube's Realm to IGTV's Domain (3 Ways) for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-frosty-ambiance-cozy-cinematics-best-bgs-ideas-for-2024/"><u>[Updated] Frosty Ambiance, Cozy Cinematics  Best Bgs Ideas for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-game-development-behind-the-scenes-for-2024/"><u>[Updated] Game Development Behind-the-Scenes for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-getting-real-broadcast-your-life-on-youtube-using-obs-for-2024/"><u>[Updated] Getting Real  Broadcast Your Life on Youtube Using OBS for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-concept-to-screen-channel-yt-for-pioneering-filmmaking-techniques/"><u>[Updated] In 2024, From Concept to Screen  Channel YT for Pioneering Filmmaking Techniques</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-gain-unlimited-stock-videos-through-essential-4-youtube-sources/"><u>[Updated] In 2024, Gain Unlimited Stock Videos Through Essential 4 YouTube Sources</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-guide-to-modify-comment-accessibility-on-youtube/"><u>[Updated] In 2024, Guide to Modify Comment Accessibility on YouTube</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-guiding-imovie-content-from-home-studio-to-youtube-hub/"><u>[Updated] In 2024, Guiding iMovie Content From Home Studio to YouTube Hub</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-many-viewer-thumbs-up-equals-money-youtube-tips/"><u>[Updated] In 2024, How Many Viewer Thumbs Up Equals Money? YouTube Tips</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-buy-youtube-views-everything-you-need-to-know/"><u>[Updated] In 2024, How to Buy YouTube Views - Everything You Need To Know</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-retrieve-your-voice-on-youtube-comments/"><u>[Updated] In 2024, How To Retrieve Your Voice on YouTube (Comments)</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-techniques-for-ignoring-home-based-educational-media/"><u>2024 Approved  Techniques for Ignoring Home-Based Educational Media</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-visual-harmony-enhancer/"><u>2024 Approved  Visual Harmony Enhancer</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-fix-a-blank-login-screen-in-windows-11-and-11/"><u>How to Fix a Blank Login Screen in Windows 11 & 11</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-2-ways-to-monitor-honor-x9a-activity-drfone-by-drfone-virtual-android/"><u>In 2024, 2 Ways to Monitor Honor X9a Activity | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-praise-in-pixels-the-new-marketing-trend/"><u>In 2024, Praise in Pixels  The New Marketing Trend</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-unlock-vivo-y27s-phone-password-without-factory-reset-full-guide-here-by-drfone-android/"><u>In 2024, Unlock Vivo Y27s Phone Password Without Factory Reset Full Guide Here</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/innovations-arena-top-titles-for-each-vr-headset-for-2024/"><u>Innovation's Arena  Top Titles for Each VR Headset for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/lolkit-rapid-meme-and-image-creation-app-for-2024/"><u>LolKit  Rapid Meme and Image Creation App for 2024</u></a></li>
+</ul></div>

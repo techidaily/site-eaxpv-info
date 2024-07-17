@@ -1,7 +1,7 @@
 ---
 title: "[Updated] In 2024, Beginner's Blueprint for Viral Video SEO"
-date: 2024-06-06T16:12:25.852Z
-updated: 2024-06-07T16:12:25.852Z
+date: 2024-07-16T05:43:12.427Z
+updated: 2024-07-17T05:43:12.427Z
 tags:
   - ai video
   - ai youtube
@@ -80,15 +80,21 @@ Now that we’ve decided that we are sticking with the video idea, we are ready 
 
 Come up with as many relevant keywords as you can. Start by entering a keyword into the YouTube search bar. This will tell you what are the most popular searches associated with that keyword:
 
-Once you have an idea of what people are searching for related to your topic, you’ll want to find more relevant keywords. I like to use the free app, [Ubersuggest](https://neilpatel.com/ubersuggest/)to do that.
+Once you have an idea of what people are searching for related to your topic, you’ll want to find more relevant keywords. I like to use the free app, [Ubersuggest](https://neilpatel.com/ubersuggest/) to do that.
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Find Keywords with Ubersuggest](https://images.wondershare.com/filmora/article-images/keyword-seo-tool-ubersuggest.jpg)
 
 This app gives you a whole list of long-tail keywords, which are 3-4-word phrases which is specific to what your video is about.
 
 Some you will use to dig deeper in and other you will deem irrelevant to your videos. A good way of determining the value of a keyword is by the stats the application shows.
 
-![ Keywords in Ubersuggest](https://images.wondershare.com/filmora/article-images/find-keywords-with-ubersuggest.jpg)
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![Keywords in Ubersuggest](https://images.wondershare.com/filmora/article-images/find-keywords-with-ubersuggest.jpg)
 
 ####  
 
@@ -156,6 +162,9 @@ Have the specific keywords at the top, followed by more general keywords, and th
 
 **Branded**: Gordon Ramsay scrambled eggs
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Part 2: Make The Best Darn Video Possible
 
 It doesn’t matter how relevant your keywords are or how epic your title is, if you video sucks (i.e. your viewers click in and leave right away), YouTube will not show it in search.
@@ -204,7 +213,7 @@ Take a look at your competition. If they all look the same, do something differe
 
 Don’t want to pay money for a photo editing software such as Photoshop?
 
-You can use an online service called [Canva](https://www.canva.com/)or download [GIMP](https://www.gimp.org/), an open-source photo editor much like Photoshop, but far less powerful. These will help you get the job done as you are starting out.
+You can use an online service called [Canva](https://www.canva.com/) or download [GIMP](https://www.gimp.org/), an open-source photo editor much like Photoshop, but far less powerful. These will help you get the job done as you are starting out.
 
 Want to know more thumbnail maker? Check our picks of the [best free YouTube thumbnail makers](https://tools.techidaily.com/wondershare/filmora/download/).
 
@@ -220,6 +229,9 @@ Come on, keep going!
 
 The video is done, the thumbnail is designed, and you have all your title, description, and tags ready to go. This step is easy, upload the video, and fill out the assets, and give yourself a pat on the back.
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Fill Out Your Videos Assets](https://images.wondershare.com/filmora/article-images/creator-stuido-fill-out-video-assets.jpg)
 
 #### Step 11: Add Transcripts
@@ -244,10 +256,16 @@ If you treat SEO as an afterthought, only after your video is created, you are n
 
 Besides considering YouTube SEO, you should make a good YouTube video as well. Filmora is a powerful video editing software that features lots of templates and effects. Get the free trial version below and have a try today.
 
+<!-- affiliate ads begin -->
+<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 [![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
 Do you have any questions about SEO? Please leave us a comment below.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
 Shanoon Cox
@@ -264,3 +282,50 @@ Follow @Shanoon Cox
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-fast-paced-favorites-leading-background-music-in-yt-shorts/"><u>[New] 2024 Approved  Fast-Paced Favorites  Leading Background Music in YT Shorts</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-clicks-to-cash-the-journey-of-youtubes-ajay-nagar/"><u>[New] 2024 Approved  From Clicks to Cash  The Journey of YouTube's Ajay Nagar</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-novice-to-vlogger-professional-video-making-on-mobile-devices/"><u>[New] 2024 Approved  From Novice to Vlogger  Professional Video Making on Mobile Devices</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-raw-to-refined-youtube-thumbnail-creation-for-mobile-users/"><u>[New] 2024 Approved  From Raw to Refined  YouTube Thumbnail Creation for Mobile Users</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-raw-video-to-engaging-youtube-videos-with-sony-vegas-tools/"><u>[New] 2024 Approved  From Raw Video to Engaging YouTube Videos with Sony Vegas Tools</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-gastronomy-gurus-the-elite-of-food-vlogs/"><u>[New] 2024 Approved  Gastronomy Gurus  The Elite of Food Vlogs</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/1717717651923-new-how-to-make-collab-videos-and-grow-your-channel-in-2024/"><u>[New] How to Make Collab Videos And Grow Your Channel, In 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-halt-autoplay-youtube-recommendations/"><u>[Updated] 2024 Approved  Halt Autoplay YouTube Recommendations</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-hosting-youtube-webinars-for-no-charge/"><u>[Updated] 2024 Approved  Hosting YouTube Webinars for No Charge</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-automate-iphones-video-repetition/"><u>[Updated] 2024 Approved  How to Automate iPhone's Video Repetition</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-make-your-shorts-image-visible-again/"><u>[Updated] 2024 Approved  How to Make Your Shorts' Image Visible Again</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/updated-auto-subscribe-url-creation-for-youtube-enthusiasts/"><u>[Updated] Auto Subscribe URL Creation for YouTube Enthusiasts</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-game-jams-and-indie-project-highlights-for-2024/"><u>[Updated] Game Jams and Indie Project Highlights for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-get-your-digital-dough-worthy-with-these-50-no-cost-youtube-promo-tools-for-2024/"><u>[Updated] Get Your Digital Dough Worthy With These 50 No-Cost YouTube Promo Tools for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-harnessing-imovies-capabilities-for-youtube-video-perfection-for-2024/"><u>[Updated] Harnessing iMovie's Capabilities for YouTube Video Perfection for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-high-end-sound-pumping-tools-pcs-and-smartphones-for-2024/"><u>[Updated] High-End Sound Pumping Tools  PCs & Smartphones for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-find-your-niche-and-style-a-starters-guide-for-2024/"><u>[Updated] How to Find Your Niche and Style - a Starter's Guide for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-make-a-youtube-trailer-for-2024/"><u>[Updated] How To Make a YouTube Trailer for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-cutting-edge-techniques-for-game-capture-specialists/"><u>[Updated] In 2024, Cutting-Edge Techniques for Game Capture Specialists</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-free-to-fortune-unlocking-youtubes-earnings-at-the-500-subscriber-level/"><u>[Updated] In 2024, From Free to Fortune  Unlocking YouTube's Earnings at the 500 Subscriber Level</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-hidden-channels-to-the-throne-of-1k-subscribers/"><u>[Updated] In 2024, From Hidden Channels to the Throne of 1K Subscribers</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-raw-footage-to-youtube-a-step-by-step-process-unveiled/"><u>[Updated] In 2024, From Raw Footage to YouTube  A Step-by-Step Process Unveiled</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-youtube-to-excitement-easy-guide-to-making-animated-gifs/"><u>[Updated] In 2024, From YouTube to Excitement  Easy Guide to Making Animated GIFS</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-harnessing-the-power-of-color-difference-keying-methods/"><u>[Updated] In 2024, Harnessing the Power of Color Difference Keying Methods</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-loop-youtube-videos-on-tv/"><u>[Updated] In 2024, How to Loop YouTube Videos on TV</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-pinnacle-racing-experiences-best-of-the-best/"><u>[Updated] In 2024, Pinnacle Racing Experiences  Best of the Best</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-top-10-vr-videos-on-youtube-to-have-immersive-experience/"><u>[Updated] In 2024, Top 10 VR Videos on YouTube to Have Immersive Experience</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-turning-product-analysis-into-income-via-video-platforms/"><u>[Updated] Turning Product Analysis Into Income via Video Platforms</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-ultimate-movie-watchlists-streamlining-screen-time/"><u>[Updated] Ultimate Movie Watchlists  Streamlining Screen Time</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-fundamentals-of-gif-animation-mastery/"><u>2024 Approved  Fundamentals of GIF Animation Mastery</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-instavision-blend-androidplusios-video-tiles/"><u>2024 Approved  InstaVision Blend  Android+iOS Video Tiles</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/breaking-down-the-best-starter-drone-a-syma-x5c-review-for-2024/"><u>Breaking Down the Best Starter Drone – A Syma X5C Review for 2024</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/essential-techniques-for-linking-and-easing-scenes-together/"><u>Essential Techniques for Linking and Easing Scenes Together</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/expert-tips-on-creating-striking-ae-titles-for-2024/"><u>Expert Tips on Creating Striking AE Titles for 2024</u></a></li>
+<li><a href="https://techidaily.com/how-to-perform-hard-reset-on-oppo-find-x6-pro-drfone-by-drfone-reset-android-reset-android/"><u>How to Perform Hard Reset on Oppo Find X6 Pro? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-data-from-iphone-15-pro-using-stellar-data-recovery-for-iphone-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Recover Deleted Data from iPhone 15 Pro using Stellar Data Recovery for iPhone? | Stellar</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-realme-12plus-5g-to-blackberry-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Realme 12+ 5G to BlackBerry | Dr.fone</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/in-2024-find-my-app-troubleshooting-no-location-found-vs-location-not-available-and-how-to-fix-them-on-apple-iphone-xs-max-drfone-by-drfone-virtual-ios/"><u>In 2024, Find My App Troubleshooting No Location Found vs. Location Not Available & How to Fix Them On Apple iPhone XS Max | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-full-tutorial-to-bypass-your-infinix-face-lock-by-drfone-android/"><u>In 2024, Full Tutorial to Bypass Your Infinix Face Lock?</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/pinning-down-content-5-superior-free-video-downloader-tools-for-2024/"><u>Pinning Down Content  5 Superior Free Video Downloader Tools for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/step-into-professional-photoshop-mastering-luts-in-cs6cc-for-2024/"><u>Step Into Professional Photoshop  Mastering LUTs in CS6/CC for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/tiktok-phenomena-the-twitter-top-ten-chart/"><u>TikTok Phenomena  The Twitter Top Ten Chart</u></a></li>
+<li><a href="https://driver-install.techidaily.com/trusted-logitech-cam-firmware/"><u>Trusted Logitech Cam Firmware</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/what-does-jailbreaking-apple-iphone-6-plus-i-do-get-answers-here-drfone-by-drfone-ios/"><u>What Does Jailbreaking Apple iPhone 6 Plus i Do? Get Answers here | Dr.fone</u></a></li>
+</ul></div>

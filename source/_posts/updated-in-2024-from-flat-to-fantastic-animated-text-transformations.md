@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] In 2024, From Flat to Fantastic  Animated Text Transformations\""
-date: 2024-06-06T15:29:38.338Z
-updated: 2024-06-07T15:29:38.338Z
+date: 2024-07-16T04:38:43.029Z
+updated: 2024-07-17T04:38:43.029Z
 tags:
   - ai video
   - ai youtube
@@ -26,6 +26,9 @@ thumbnail: https://thmb.techidaily.com/8357b168f14ad6299dbc663fee70693f53617c625
 
 Earlier, you learned how to have a **[bounce text effect in Adobe After Effects](https://tools.techidaily.com/wondershare/filmora/download/)**. However, because AE is a complex application and has a steep learning curve, this section explains the two alternative ways to get the same effect on your existing video footage.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Method 1: How to Create Bouncing Text in Filmora Video Editor?
 
 When talking about [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/), the application is populated with several presets for texts and titles, animations, effects, filters, and much more.
@@ -44,6 +47,9 @@ Click **Titles** from the standard toolbar at the top, and click and drag your p
 
 In the timeline, double-click the title you just added, use the upper-left section to edit the text, go to the **Animation** tab from the left pane, scroll down the list, and double-click the **Up Down 1** or **Up Down 2** preset to apply the bounce effect to the credits. Click **OK** to save the changes and to get back to the main window.
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Create Bouncing Text video Filmora9](https://images.wondershare.com/filmora/article-images/add-up-down-animation-to-bounce.jpg)
 
 **Step 3: Add Shake Filters**
@@ -80,6 +86,9 @@ Some most trusted websites to generate **bounce text** are listed below:
 
 Website: <https://engfto.com/index/create%5Fanimated%5Fbouncing%5Ftext/0-26>
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Create Animated Bouncing Text with ENGFTO](https://images.wondershare.com/filmora/article-images/engfto-create-animated-bouncing-text.jpg)
 
 You can follow the instructions given below to use Engfto to generate bouncing text for your footages:
@@ -120,6 +129,9 @@ Click your preferred option from next to the **Download As** section to download
 
 Generating **bounce text** effect is much simpler when you use Wondershare Filmora or any of the online solutions as explained in Method 2\. While the former gives you more flexibility when it comes to customizations, the latter doesn’t require any app to be installed on your PC. In addition, many times the web apps offer their services for free, and therefore they are preferred by the novice users who are not much into post-production processes.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
 
 Liza Brown
@@ -157,8 +169,14 @@ Finding sponsorships and negotiating with brands can be tricky. So can integrati
 
 You must have at least 5,000 subscribers to join FameBit.
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Use FameBit to Find YouTube Sponsorship](https://images.wondershare.com/filmora/article-images/use-famebit-find-youtube-sponsorship.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ## How Much Money Can You Make
 
 How much money you can make on FameBit will depend on the deals you can negotiate with brands, and those deals will depend on how many subscribers you have and [how many views you usually receive](https://tools.techidaily.com/wondershare/filmora/download/).
@@ -169,6 +187,9 @@ How much you should charge per view depends on your genre and the nature of your
 
 For example, if you do makeup tutorials then viewers will be used to hearing about your favorites. This makes your 10 000 views more valuable than 10 000 views on a ranting vlog channel whose subscribers are not tuning in to hear about products.
 
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to Make Money With FameBit
 
 #### Finding Sponsorships
@@ -232,3 +253,53 @@ Follow @Richard Bennett
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-decoding-the-fuzziness-in-facebook-videos/"><u>[New] 2024 Approved  Decoding the Fuzziness in Facebook Videos</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-outsmart-youtube-sanctions/"><u>[New] 2024 Approved  How to Outsmart Youtube Sanctions</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-sculpt-perfect-images-on-youtube-with-right-dimensions/"><u>[New] 2024 Approved  How to Sculpt Perfect Images on YouTube with Right Dimensions</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-the-loilo-game-recorder-complete-review/"><u>[New] 2024 Approved  The LoiLo Game Recorder [Complete Review]</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-fixing-popular-youtube-short-snafus-for-2024/"><u>[New] Fixing Popular YouTube Short Snafus for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-fluid-fusion-combining-videos-for-a-unified-youtube-presence-for-2024/"><u>[New] Fluid Fusion  Combining Videos for a Unified Youtube Presence for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-free-themes-for-dynamic-youtuber-profiles-for-2024/"><u>[New] Free Themes for Dynamic YouTuber Profiles for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-from-frames-to-fun-youtube-gifs-creation-made-simple-for-2024/"><u>[New] From Frames to Fun  YouTube GIFs Creation Made Simple for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-from-no-cash-to-youtube-wealth-unlocking-earnings-at-the-500-subs-level-for-2024/"><u>[New] From No Cash to YouTube Wealth  Unlocking Earnings at the 500 Subs Level for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-generating-a-custom-youtube-subscriber-url-for-2024/"><u>[New] Generating a Custom YouTube Subscriber URL for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-graph-gems-2017s-statistical-youtube-surprises-for-2024/"><u>[New] Graph Gems  2017'S Statistical YouTube Surprises for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-guide-incorporating-youtube-videos-in-google-slides-for-2024/"><u>[New] Guide  Incorporating YouTube Videos in Google Slides for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-how-to-stay-on-top-of-youtube-moderation-standards-for-2024/"><u>[New] How to Stay on Top of YouTube Moderation Standards for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-how-to-unlock-youtubes-enigmentic-video-cache-for-2024/"><u>[New] How to Unlock YouTube’s Enigmentic Video Cache for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-how-to-vlog-confidently-like-popular-youtubers-in-2024/"><u>[New] How to Vlog Confidently Like Popular YouTubers, In 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-flair-in-your-makeup-routine-top-tutorial-insights/"><u>[New] In 2024, Flair in Your Makeup Routine  Top Tutorial Insights</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-freeweb-cams-features-uncovered-in-detail/"><u>[New] In 2024, FreeWeb Cam's Features Uncovered in Detail</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-zero-to-hero-your-first-time-streaming-to-youtube/"><u>[New] In 2024, From Zero to Hero  Your First Time Streaming to Youtube</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-google-meet-live-streaming-for-beginners-stepwise-guide-to-youtube/"><u>[New] In 2024, Google Meet Live-Streaming for Beginners  Stepwise Guide to YouTube</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-guiding-imovie-content-from-home-studio-to-youtube-hub/"><u>[New] In 2024, Guiding iMovie Content From Home Studio to YouTube Hub</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-create-animated-bouncing-text/"><u>[New] In 2024, How to Create Animated Bouncing Text</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-make-youtube-animated-subscribe-button-easily-in-filmora/"><u>[New] In 2024, How to Make YouTube Animated Subscribe Button Easily in Filmora</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-master-control-over-instagrams-post-proposals-for-2024/"><u>[New] Master Control Over Instagram's Post Proposals for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-whats-buzzing-the-social-sphere-tiktok-and-twitter-hits-for-2024/"><u>[New] What's Buzzing the Social Sphere? TikTok & Twitter Hits for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-views-to-valuables-the-ultimate-video-income-play/"><u>[Updated] 2024 Approved  From Views to Valuables  The Ultimate Video Income Play</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-get-paid-to-review-products-on-youtube/"><u>[Updated] 2024 Approved  How to Get Paid to Review Products on YouTube</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-navigating-immediate-account-suspension-due-to-copyright-violations/"><u>[Updated] 2024 Approved  Navigating Immediate Account Suspension Due to Copyright Violations</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-free-6-best-youtube-to-mp3-downloader-for-android-for-2024/"><u>[Updated] FREE 6 Best YouTube to MP3 Downloader for Android for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-from-bland-to-brilliant-transform-your-youtube-channels-image-for-2024/"><u>[Updated] From Bland to Brilliant  Transform Your YouTube Channels' Image for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-effortlessly-eradicate-unwanted-youtube-post-comments-for-2024/"><u>[Updated] How to Effortlessly Eradicate Unwanted Youtube Post-Comments for 2024</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-in-2024-discover-the-10-cutestscariest-tiktok-filters-ever/"><u>[Updated] In 2024, Discover the 10 Cutest/Scariest TikTok Filters Ever</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/10-easy-to-use-frp-bypass-tools-for-unlocking-google-accounts-on-honor-100-by-drfone-android/"><u>10 Easy-to-Use FRP Bypass Tools for Unlocking Google Accounts On Honor 100</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-collective-wisdom-on-easeus-products/"><u>2024 Approved  Collective Wisdom on EaseUS Products</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-gopro-innovations-a-side-by-side-exploration/"><u>2024 Approved  GoPro Innovations  A Side-by-Side Exploration</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-the-ultimate-list-of-mac-screen-capture-software/"><u>2024 Approved  The Ultimate List of Mac Screen Capture Software</u></a></li>
+<li><a href="https://driver-install.techidaily.com/audio-excellence-the-updated-scarlett-drives-process/"><u>Audio Excellence: The Updated Scarlett Drives Process</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/clearsnap-guide-how-to-exclude-distracting-picture-borders-for-2024/"><u>ClearSnap Guide  How to Exclude Distracting Picture Borders for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/driver-rollback-successful/"><u>Driver Rollback Successful</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/elite-visual-reporter-designed-for-win11-for-2024/"><u>Elite Visual Reporter, Designed for Win11 for 2024</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-music-from-infinix-note-30-5g-to-ipod-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Music from Infinix Note 30 5G to iPod | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-optimal-focus-techniques-for-videoleap-users/"><u>In 2024, Optimal Focus Techniques for Videoleap Users</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-shooting-for-greatness-iphones-10-vital-composition-guidelines/"><u>In 2024, Shooting for Greatness  IPhone's 10 Vital Composition Guidelines</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-ways-to-stop-parent-tracking-your-gionee-f3-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Ways to stop parent tracking your Gionee F3 Pro | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/keeping-your-virtual-circle-true-not-tainted-by-tricks/"><u>Keeping Your Virtual Circle True, Not Tainted by Tricks</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/key-strategies-to-craft-persuasive-testimonials-that-resonate-for-2024/"><u>Key Strategies to Craft Persuasive Testimonials That Resonate for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/pre-upgrade-essentials-a-comprehensive-guide/"><u>Pre-Upgrade Essentials  A Comprehensive Guide</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: "\"[New] From Script to Screenplay  Expert Video Editing Insights for 2024\""
-date: 2024-06-06T14:44:29.430Z
-updated: 2024-06-07T14:44:29.430Z
+date: 2024-07-16T03:31:02.336Z
+updated: 2024-07-17T03:31:02.336Z
 tags:
   - ai video
   - ai youtube
@@ -88,6 +88,9 @@ With the YouTube video editor, you can quick fix your videos, add audio track of
 
 To cut or split your video, hover over the target clip and hit the scissor icon to cut the clip into pieces. You can also cursor over the edge of your video in the timeline and drag the handle to shorten or trim your video.
 
+<!-- affiliate ads begin -->
+<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![youtube video editor](https://images.wondershare.com/topic/video-editing/youtube-video-editor-split.png "youtube video editor trim video")
 
 #### #2 Change video settings
@@ -96,6 +99,9 @@ YouTube Video Editor also provides the "Quick fixes" function which does a quick
 
 You can just double click the video to enter the "Quick fixes" tab and easily change brightness and contrast, add slow motion and pan zoom effect, and stabilize, audio fix or rotate video.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![youtube video editor](https://images.wondershare.com/topic/video-editing/youtube-video-editor-fix.png "youtube video editor")
 
 #### #3 Add filters
@@ -124,6 +130,9 @@ Another short coming is that you can't edit the audio track at all. If a song is
 
 If several video clips have been added to the timeline, you need transition to make the whole project smoother. To add transition, go to the Transition tab and choose from 16 transition effects.
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![how to use youtube video editor](https://images.wondershare.com/images/multimedia/video-editor/add-transition-youtube.jpg)
 
 YouTube Video Editor is really easy to use, but it only provides some basic video editing functions and is really easy to crash when dealing with large file. If you want to make your video more professional, try [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/).
@@ -177,6 +186,9 @@ If you've decided to make videos in 4K resolution, you'll find information on re
 
 04 [Tips On How To Make Sure The Video You're Uploading Is Of High Quality](#part4)
 
+<!-- affiliate ads begin -->
+<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## What Is The Distinction Between Various Resolutions?
 
 The number of pixels on a screen is referred to as resolution. Low resolution indicates fewer pixels and typically less space, whereas high resolution means more pixels and generally greater space and detail. You probably have a poor resolution if you're using a standard laptop or an old screen.
@@ -242,12 +254,18 @@ Follow the steps below to post your video to YouTube:
 
 3\. Select "Upload video" from the drop-down menu.
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![upload 4k video to youtube](https://images.wondershare.com/filmora/article-images/2021/upload-4k-video-to-youtube-1.jpg)
 
 4\. Drag and drop your video file into the upload box, or select your file from the "Select File" menu and click "Open."
 
 5\. Make a note of the title and description while YouTube is processing your video.
 
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![how to upload 4k video to youtube](https://images.wondershare.com/filmora/article-images/2021/upload-4k-video-to-youtube-2.jpg)
 
 6\. Select a video thumbnail from the options or upload your own and select your "Audience" from the drop-down menu. To manage age restriction settings.
@@ -292,6 +310,9 @@ For Win 7 or later (64-bit)
 
 For macOS 10.12 or later
 
+<!-- affiliate ads begin -->
+<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Conclusion
 
 **●** This is pretty much everything we've gathered to assist you in uploading 4K videos to YouTube. Do not become worried. Your 4K video will be in low resolution when you first publish it. This is due to YouTube's high-resolution processing requiring time. It could take a few hours for your video to be available in 4K mode.
@@ -316,6 +337,9 @@ If you've decided to make videos in 4K resolution, you'll find information on re
 
 04 [Tips On How To Make Sure The Video You're Uploading Is Of High Quality](#part4)
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## What Is The Distinction Between Various Resolutions?
 
 The number of pixels on a screen is referred to as resolution. Low resolution indicates fewer pixels and typically less space, whereas high resolution means more pixels and generally greater space and detail. You probably have a poor resolution if you're using a standard laptop or an old screen.
@@ -381,12 +405,18 @@ Follow the steps below to post your video to YouTube:
 
 3\. Select "Upload video" from the drop-down menu.
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![upload 4k video to youtube](https://images.wondershare.com/filmora/article-images/2021/upload-4k-video-to-youtube-1.jpg)
 
 4\. Drag and drop your video file into the upload box, or select your file from the "Select File" menu and click "Open."
 
 5\. Make a note of the title and description while YouTube is processing your video.
 
+<!-- affiliate ads begin -->
+<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![how to upload 4k video to youtube](https://images.wondershare.com/filmora/article-images/2021/upload-4k-video-to-youtube-2.jpg)
 
 6\. Select a video thumbnail from the options or upload your own and select your "Audience" from the drop-down menu. To manage age restriction settings.
@@ -401,6 +431,9 @@ Follow the steps below to post your video to YouTube:
 
 10\. You can also automatically set it to publish at a later date.
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Tips On How To Make Sure The Video You're Uploading Is Of High Quality
 
 The following are five tips for amateur and top newbie YouTubers who want to improve their videos.
@@ -455,6 +488,9 @@ If you've decided to make videos in 4K resolution, you'll find information on re
 
 04 [Tips On How To Make Sure The Video You're Uploading Is Of High Quality](#part4)
 
+<!-- affiliate ads begin -->
+<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## What Is The Distinction Between Various Resolutions?
 
 The number of pixels on a screen is referred to as resolution. Low resolution indicates fewer pixels and typically less space, whereas high resolution means more pixels and generally greater space and detail. You probably have a poor resolution if you're using a standard laptop or an old screen.
@@ -497,6 +533,9 @@ This sort of resolution, often known as 4Kor UHD (Ultra High Definition), has a 
 
 The resolution of 4K videos is: 3840 x 2160 (or 2160p / simply 4K) is a resolution of 3840 x 2160 pixels.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Why Would You Want To Upload A 4k Video?
 
 YouTube is the second-largest social media site, with approximately 1.9 billion monthly active users. YouTube is where you want to be to access this large audience and promote your brand, with one billion hours of video watched every day on the platform.
@@ -526,6 +565,9 @@ Follow the steps below to post your video to YouTube:
 
 5\. Make a note of the title and description while YouTube is processing your video.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![how to upload 4k video to youtube](https://images.wondershare.com/filmora/article-images/2021/upload-4k-video-to-youtube-2.jpg)
 
 6\. Select a video thumbnail from the options or upload your own and select your "Audience" from the drop-down menu. To manage age restriction settings.
@@ -540,6 +582,9 @@ Follow the steps below to post your video to YouTube:
 
 10\. You can also automatically set it to publish at a later date.
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Tips On How To Make Sure The Video You're Uploading Is Of High Quality
 
 The following are five tips for amateur and top newbie YouTubers who want to improve their videos.
@@ -570,6 +615,14 @@ For Win 7 or later (64-bit)
 
 For macOS 10.12 or later
 
+<!-- affiliate ads begin -->
+<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
+<span class="text-ad-content">
+	#1 Rated Parental Control Software.<br/>
+	Monitor & Control all PC Activity!<br/>
+		<cite style="color:green">sentrypc.com/parental-controls/</cite>
+	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Conclusion
 
 **●** This is pretty much everything we've gathered to assist you in uploading 4K videos to YouTube. Do not become worried. Your 4K video will be in low resolution when you first publish it. This is due to YouTube's high-resolution processing requiring time. It could take a few hours for your video to be available in 4K mode.
@@ -594,6 +647,9 @@ If you've decided to make videos in 4K resolution, you'll find information on re
 
 04 [Tips On How To Make Sure The Video You're Uploading Is Of High Quality](#part4)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## What Is The Distinction Between Various Resolutions?
 
 The number of pixels on a screen is referred to as resolution. Low resolution indicates fewer pixels and typically less space, whereas high resolution means more pixels and generally greater space and detail. You probably have a poor resolution if you're using a standard laptop or an old screen.
@@ -647,6 +703,9 @@ However, for your target audience to watch your videos, you must ensure excellen
 * Even if you recorded in 1080p and upscaled to 4K, you should post in 4K to YouTube for the finest image quality. Recording in 1080p, editing in 1080p, exporting in 4k, and YouTube viewing is sharper in 1080p.
 * With 4K, you get stunning visuals with a resolution of 38402160, which is four times that of Full-HD. That's why visuals appear crisp and lifelike, even on large-screen TVs rather than pixelated. Down-converted 4K to Full-HD photographs have superior quality and resolution than images shot in Full-HD from the start.
 
+<!-- affiliate ads begin -->
+<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## What Is The Best Way To Upload A 4k Video To Youtube?
 
 The YouTube upload process is not complicated, but it does need several steps. You can finally post your video once it has been prepared and converted to MP4 format.
@@ -729,3 +788,42 @@ For macOS 10.12 or later
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-breaking-barriers-youtube-marketing-mastery-for-2024/"><u>[New] Breaking Barriers  YouTube Marketing Mastery for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-channel-specific-audio-excellence-top-156-character-titles-for-yt-sound-solutions-for-2024/"><u>[New] Channel-Specific Audio Excellence  Top 156 Character Titles For YT Sound Solutions for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-economical-audio-devices-for-vloggers-on-a-budget-for-2024/"><u>[New] Economical Audio Devices for Vloggers on a Budget for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-brain-mechanisms-guiding-high-stakes-business-conclusions/"><u>[New] In 2024, Brain Mechanisms Guiding High-Stakes Business Conclusions</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-instagram-story-highlight-a-user-friendly-guide-for-2024/"><u>[New] Instagram Story Highlight  A User-Friendly Guide for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-tasteful-tactics-elevating-culinary-channel-monikers/"><u>[New] Tasteful Tactics  Elevating Culinary Channel Monikers</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-ultimate-gaming-queens-top-10-female-youtubers/"><u>[New] Ultimate Gaming Queens  Top 10 Female YouTubers</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-unified-media-playback-on-youtube-flv-files-tutorial/"><u>[New] Unified Media Playback on YouTube  FLV Files Tutorial</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-video-sharing-titans-ranking-vimeo-youtube-and-dailymotion/"><u>[New] Video-Sharing Titans  Ranking Vimeo, YouTube & Dailymotion</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-youtube-intros-unveiled-two-proven-ways-for-impact/"><u>[New] YouTube Intros Unveiled  Two Proven Ways for Impact</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-download-youtube-playlists-with-ease-our-instructions/"><u>[Updated] 2024 Approved  Download YouTube Playlists with Ease - Our Instructions</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-top-5-display-choices-to-enhance-ps5xbox-playtime/"><u>[Updated] 2024 Approved  Top 5 Display Choices to Enhance PS5/Xbox Playtime</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-affordable-advertising-streamlining-channel-sponsorship-partnerships-for-2024/"><u>[Updated] Affordable Advertising  Streamlining Channel-Sponsorship Partnerships for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-how-can-you-make-outstanding-youtube-outro-in-2024/"><u>[Updated] How Can You Make Outstanding YouTube Outro, In 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-free-film-festivals-at-your-fingertips-top-10-picks-for-viewers/"><u>[Updated] In 2024, Free Film Festivals at Your Fingertips - Top 10 Picks for Viewers</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-ioss-leading-edge-the-top-5-emulators-for-psp-games/"><u>[Updated] IOS's Leading Edge  The Top 5 Emulators for PSP Games</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-leveraging-imovies-power-for-youtube-presence-and-growth/"><u>[Updated] Leveraging IMovie's Power for YouTube Presence and Growth</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-maximize-visibility-with-well-structured-yt-summaries/"><u>[Updated] Maximize Visibility with Well-Structured YT Summaries</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-optimized-video-scale-to-mac-aspect-proportion/"><u>[Updated] Optimized Video Scale to Mac Aspect Proportion</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-upgrade-your-view-enabling-youtubes-high-quality-av1-option/"><u>[Updated] Upgrade Your View  Enabling YouTube's High-Quality AV1 Option</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-viral-harmony-essential-soundtracks-for-popular-video-shorts/"><u>[Updated] Viral Harmony  Essential Soundtracks For Popular Video Shorts</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-youtubes-best-practices-for-maximum-impact-thumbnails/"><u>[Updated] YouTube's Best Practices for Maximum Impact Thumbnails</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-ultimate-checklist-for-ideal-podcast-title-creation/"><u>2024 Approved  The Ultimate Checklist for Ideal Podcast Title Creation</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/2024-approved-watch-youtube-green-screen-videos-and-inspire-your-green-screen-ideas/"><u>2024 Approved  Watch Youtube Green Screen Videos and Inspire Your Green Screen Ideas</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/2024-approved-your-next-best-source-for-world-exploration/"><u>2024 Approved  Your Next-Best Source for World Exploration</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/2024-approved-the-ultimate-list-of-glitch-art-video-editors-for-mobile-devices/"><u>2024 Approved The Ultimate List of Glitch Art Video Editors for Mobile Devices</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/charting-the-differences-in-youtubes-ownership-and-cc-models/"><u>Charting the Differences in YouTube's Ownership and CC Models</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-unlink-your-apple-iphone-12-pro-from-your-apple-id-by-drfone-ios/"><u>In 2024, How To Unlink Your Apple iPhone 12 Pro From Your Apple ID</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-navigating-the-platform-apple-devices-and-youtube-uploads/"><u>In 2024, Navigating the Platform  Apple Devices and YouTube Uploads</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/in-2024-youtube-beginners-guide-to-earning-success/"><u>In 2024, YouTube Beginners' Guide to Earning Success</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/productivity-in-duality-employment-and-video-creation-for-2024/"><u>Productivity in Duality  Employment & Video Creation for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/seamless-sound-shift-ultimate-guide-to-video-to-audio-tools-for-2024/"><u>Seamless Sound Shift  Ultimate Guide to Video-to-Audio Tools for 2024</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/sim-unlock-vivo-t2x-5g-phones-without-code-2-ways-to-remove-android-sim-lock-by-drfone-android/"><u>Sim Unlock Vivo T2x 5G Phones without Code 2 Ways to Remove Android Sim Lock</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/the-5-key-players-to-triple-your-youtube-views-for-2024/"><u>The 5 Key Players to Triple Your YouTube Views for 2024</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-transforming-game-avatars-integrating-morphvox-techniques-for-dynamic-vocal-expression-for-2024/"><u>Updated Transforming Game Avatars Integrating Morphvox Techniques for Dynamic Vocal Expression for 2024</u></a></li>
+</ul></div>

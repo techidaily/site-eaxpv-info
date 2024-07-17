@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  Foundations First  What To Invest In for YouTubing\""
-date: 2024-06-06T14:01:11.400Z
-updated: 2024-06-07T14:01:11.400Z
+date: 2024-07-16T02:26:13.959Z
+updated: 2024-07-17T02:26:13.959Z
 tags:
   - ai video
   - ai youtube
@@ -38,6 +38,9 @@ The smartest way to get started is to go through a list of **necessary equipment
 * [Tripods and Camera Stands](#tripod)
 * [Smartphone Camera Gear](#phone)
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## YouTube Cameras
 
 **The short version:** Use whatever you already have, even if it's your phone or webcam. It's nice to have sharp, fine-tuned, 4K footage, but viewers will forgive lower visual quality if your content is good.
@@ -72,6 +75,9 @@ If you have the budget available to get some lighting equipment, you can find so
 
 Another useful piece of lighting equipment to have is a reflector. A reflector is usually a piece of white, silver, or gold fabric stretched over a frame. You can use it to bounce light from one light source back towards yourself (this is a great way to fill shadows cast by your main light). Reflectors tend to be inexpensive, but you can also use white cardboard or tinfoil in place of purchasing a reflector.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ## Tripods and Camera Stands
 
 **The short version:** You need something to hold your camera. If you mostly film in your own home that can be a desk or a stack of books, but if you make a lot of videos while you're on the go you probably need a tripod or gimbal. Heavier cameras need heavier tripods.
@@ -98,6 +104,9 @@ Another common downside of smartphone cameras is that most of them use digital z
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 Richard Bennett
@@ -127,8 +136,14 @@ In this simple guide, we'll delve into the fundamentals of the **chroma key effe
 
 [Create Video Backgrounds](https://tools.techidaily.com/wondershare/filmora/download/) [Create Video Backgrounds](https://tools.techidaily.com/wondershare/filmora/download/) [Learn Green Screen](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
+<!-- affiliate ads end -->
 ![Wondershare Filmora](https://images.wondershare.com/filmora/banner/filmora-latest-product-box.png)
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## **How Does Chroma Key Work?**
 
 ![green screen shooting](https://images.wondershare.com/filmora/article-images/2024/a-quick-guide-to-chroma-key-background-2.jpg)
@@ -177,6 +192,9 @@ Wardrobe and Set Design
 
 Bright green occurs less naturally in costumes and set designs than other colors, making green the optimal choice for reducing the likelihood of color spill and keying issues. However, if you know your scene will have lots of green, it is probably best to film with a blue screen, so there’s less risk of color spill and less post-production work.
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Setting up Your Own Chroma Key Studio
 
 Setting up your chroma key is convenient and straightforward, but there are some key factors to consider while setting up to ensure maximal performance.
@@ -209,6 +227,9 @@ The optimal distance between the subject and the green screen minimizes color sp
 
 As mentioned before, the choice of costume for Selecting appropriate clothing that doesn't match the chroma key color prevents transparency issues. Subjects also have to be positioned in such a way that there is minimal light interference and reflection. These contribute to a flawless chroma key outcome.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 3 Basic Troubleshooting Strategies
 
 * Color Spill
@@ -239,6 +260,9 @@ In this simple guide, we'll delve into the fundamentals of the **chroma key effe
 
 [Create Video Backgrounds](https://tools.techidaily.com/wondershare/filmora/download/) [Create Video Backgrounds](https://tools.techidaily.com/wondershare/filmora/download/) [Learn Green Screen](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Wondershare Filmora](https://images.wondershare.com/filmora/banner/filmora-latest-product-box.png)
 
 ## **How Does Chroma Key Work?**
@@ -307,6 +331,9 @@ Proper subject and camera placement are necessary to ensure an even color-keying
 
 High-quality cameras are essential every time, especially for chroma keying. Images with better definition are easier to key, so camera quality significantly affects the outcome. Even if your camera isn’t the best, merely shooting well can ensure a clean color-keying process during editing, resulting in professional-looking visuals.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Recording Tips for Chroma Key
 
 * Proper Lighting
@@ -321,6 +348,9 @@ The optimal distance between the subject and the green screen minimizes color sp
 
 As mentioned before, the choice of costume for Selecting appropriate clothing that doesn't match the chroma key color prevents transparency issues. Subjects also have to be positioned in such a way that there is minimal light interference and reflection. These contribute to a flawless chroma key outcome.
 
+<!-- affiliate ads begin -->
+<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<!-- affiliate ads end -->
 ## 3 Basic Troubleshooting Strategies
 
 * Color Spill
@@ -357,3 +387,44 @@ Green screen photography produces excellent results, and its ease of use makes i
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-from-novice-to-notoriety-steps-for-a-youtube-channel-in-gaming-for-2024/"><u>[New] From Novice to Notoriety  Steps for a YouTube Channel in Gaming for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-get-going-on-youtube-video-upload-tutorial-in-premiere-for-2024/"><u>[New] Get Going on YouTube  Video Upload Tutorial in Premiere for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-high-level-behavior-tips-for-youtube-users-for-2024/"><u>[New] High-Level Behavior Tips for YouTube Users for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-how-to-achieve-professional-level-audio-quality-on-youtube-for-2024/"><u>[New] How to Achieve Professional-Level Audio Quality on YouTube for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-how-to-add-chapters-to-youtube-videos-for-2024/"><u>[New] How to Add Chapters to YouTube Videos for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-first-footsteps-in-youtube-landscape-setting-up-shop-and-earning-profitably/"><u>[New] In 2024, First Footsteps in YouTube Landscape  Setting Up Shop and Earning Profitably</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-free-and-secure-3-ways-to-extract-youtube-music-content/"><u>[New] In 2024, Free and Secure  3 Ways to Extract YouTube Music Content</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-free-vs-paid-gaming-entrances-top-12-insights-for-youtube-gamers/"><u>[New] In 2024, Free vs Paid Gaming Entrances  Top 12 Insights for YouTube Gamers</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-convert-youtubes-audios-to-mp3-safely-step-by-step-guide/"><u>[New] In 2024, How To Convert YouTube's Audios to MP3 Safely - Step-by-Step Guide</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-matchmake-for-maximum-viewership-on-youtube/"><u>[New] In 2024, How to Matchmake for Maximum Viewership on YouTube</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-step-into-virtual-entertainment-and-gain-notoriety/"><u>[New] In 2024, How to Step Into Virtual Entertainment and Gain Notoriety</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-step-by-step-guide-to-editing-and-optimizing-instagram-footage/"><u>[New] Step-by-Step Guide to Editing and Optimizing Instagram Footage</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-video-format-mastery-best-practices-for-instagram-for-2024/"><u>[New] Video Format Mastery  Best Practices for Instagram for 2024</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-2024-approved-elevating-your-tiktok-presence-30-unprecedented-pfp-ideas/"><u>[Updated] 2024 Approved  Elevating Your TikTok Presence  30 Unprecedented PFP Ideas</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-financial-face-off-comparing-dailymotion-and-youtube-profitability/"><u>[Updated] 2024 Approved  Financial Face-Off  Comparing Dailymotion & YouTube Profitability</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-first-steps-on-the-path-equipment-for-beginners/"><u>[Updated] 2024 Approved  First Steps on the Path  Equipment for Beginners</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-guide-on-transforming-youtube-videos-into-mp3-using-safe-procedures/"><u>[Updated] 2024 Approved  Guide on Transforming YouTube Videos Into MP3 Using Safe Procedures</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-enhance-channel-rankings-ethically/"><u>[Updated] 2024 Approved  How to Enhance Channel Rankings Ethically?</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-execute-flawless-wirecast-broadcasts-on-youtube/"><u>[Updated] 2024 Approved  How to Execute Flawless WireCast Broadcasts on YouTube</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-fiscal-fortitude-the-story-of-mr-beast-for-2024/"><u>[Updated] Fiscal Fortitude  The Story of Mr. Beast for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-fortune-on-screen-achieving-youtube-earnings-unlinked-from-ads-for-2024/"><u>[Updated] Fortune on Screen  Achieving YouTube Earnings Unlinked From Ads for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-guiding-you-through-youtubes-view-limitations-for-2024/"><u>[Updated] Guiding You Through YouTube's View Limitations for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-fierce-femininity-top-10-ladies-whove-captured-youtube-audiences/"><u>[Updated] In 2024, Fierce Femininity  Top 10 Ladies Who've Captured YouTube Audiences</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-the-insta-archivists-playbook-for-mastery/"><u>[Updated] The Insta Archivist's Playbook for Mastery</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-tech-trial-vlle-outlook-on-apps/"><u>2024 Approved  Tech Trial  VLLE Outlook on Apps</u></a></li>
+<li><a href="https://change-location.techidaily.com/3-ways-for-android-pokemon-go-spoofing-on-samsung-galaxy-s23-ultra-drfone-by-drfone-virtual-android/"><u>3 Ways for Android Pokemon Go Spoofing On Samsung Galaxy S23 Ultra | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/a-guide-realme-11-pro-wireless-and-wired-screen-mirroring-drfone-by-drfone-android/"><u>A Guide Realme 11 Pro Wireless and Wired Screen Mirroring | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/complete-review-and-guide-to-techeligible-frp-bypass-and-more-for-vivo-y27-4g-by-drfone-android/"><u>Complete Review & Guide to Techeligible FRP Bypass and More For Vivo Y27 4G</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/disabling-background-chatter-in-tiktok-videos-three-streamlined-techniques/"><u>Disabling Background Chatter in TikTok Videos Three Streamlined Techniques</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-teleport-your-gps-location-on-realme-c53-drfone-by-drfone-virtual-android/"><u>How To Teleport Your GPS Location On Realme C53? | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-sim-card-on-realme-online-without-jailbreak-by-drfone-android/"><u>How to Unlock SIM Card on Realme online without jailbreak</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/in-2024-ultimate-list-of-public-domain-picture-banks/"><u>In 2024, Ultimate List of Public Domain Picture Banks</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-undetectable-volume-variations-in-garageband-artistry/"><u>In 2024, Undetectable Volume Variations in Garageband Artistry</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/prime-picks-the-best-in-bike-gaming/"><u>Prime Picks  The Best in Bike Gaming</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/simple-guide-turning-favorite-tiktok-beats-into-cellphone-signals-for-2024/"><u>Simple Guide  Turning Favorite TikTok Beats Into Cellphone Signals for 2024</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-expert-recommended-avi-cutters-top-16-for-precise-video-editing-multi-device-for-2024/"><u>Updated Expert-Recommended AVI Cutters Top 16 for Precise Video Editing Multi-Device for 2024</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-how-to-ai-denoise-for-2024/"><u>Updated How to AI DeNoise for 2024</u></a></li>
+</ul></div>

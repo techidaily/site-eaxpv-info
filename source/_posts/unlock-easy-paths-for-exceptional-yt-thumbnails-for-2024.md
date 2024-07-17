@@ -1,7 +1,7 @@
 ---
 title: "Unlock Easy Paths for Exceptional YT Thumbnails for 2024"
-date: 2024-06-06T16:28:46.297Z
-updated: 2024-06-07T16:28:46.297Z
+date: 2024-07-16T06:07:54.756Z
+updated: 2024-07-17T06:07:54.756Z
 tags:
   - ai video
   - ai youtube
@@ -18,6 +18,9 @@ thumbnail: https://thmb.techidaily.com/a6232b975632e43de71e5ab6217eebf552fc53156
 
 # How to Make a Thumbnail for Your YouTube Free Easily
 
+<!-- affiliate ads begin -->
+
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
 ##### Shanoon Cox
@@ -45,6 +48,9 @@ With time, Filmora brings new and advanced features for its users to equip them 
 
 **Step 02:** Make sure that the aspect ratio of your project is 16:9\. To do that, click on a screen-shaped icon below the preview screen and select "Change Project Aspect Ratio."
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![ai-portrait-thumbnail-step2](https://images.wondershare.com/filmora/article-images/ai-portrait-thumbnail-step2.png)
 
 **Step 03:** Change the Aspect Ratio to 16:9 if it is not set to it already. 16:9 aspect ratio is the standard size of Youtube thumbnails that represents the best possible results.
@@ -57,6 +63,9 @@ With time, Filmora brings new and advanced features for its users to equip them 
 
 **Step 05:** If you want to use your custom background, you can import it into the Filmora by clicking import or dragging and dropping it in the media section.
 
+<!-- affiliate ads begin -->
+<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![ai-portrait-thumbnail-step5](https://images.wondershare.com/filmora/article-images/ai-portrait-thumbnail-step5.png)
 
 **Step 06:** Import your video the same way into the media folder of Filmora and drag it into the timeline and place it above your background.
@@ -77,6 +86,9 @@ With time, Filmora brings new and advanced features for its users to equip them 
 
 **Step 10:** The effect will be applied to the footage. Now the background has been removed from the footage and ready to be used on your custom background. You can adjust the human accordingly where it looks perfect.
 
+<!-- affiliate ads begin -->
+<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![ai-portrait-thumbnail-step10](https://images.wondershare.com/filmora/article-images/ai-portrait-thumbnail-step10.png)
 
 **Step 11:** Now it is time to add a title into your thumbnail to highlight what the video is all about. Go to the Titles, and select lower thirds. You can also select any of the titles types which best suits your needs. Drop the title into the timeline above the footage and adjust it accordingly. Now double click on the header to edit and rename it.
@@ -93,8 +105,14 @@ This is how your Youtube thumbnail will look like after applying all the above-m
 
 This article on making a thumbnail for your Youtube is just an idea for you, and you can use your creativity to create amazing thumbnails using other features of Filmora. These cool thumbnails will help you attract more viewers and click, which will ultimately help you grow your Youtube Channel. Unlike all other articles and tutorials that show you how to make a thumbnail for Youtube, this method is free and doesn't need any technical skills to be implemented.
 
+<!-- affiliate ads begin -->
+<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
 Shanoon Cox
@@ -111,3 +129,43 @@ Follow @Shanoon Cox
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-cutting-edge-techniques-for-private-yt-content-dissemination-in-gmail/"><u>[New] 2024 Approved  Cutting-Edge Techniques for Private YT Content Dissemination in Gmail</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-how-to-prevent-thumbnail-absence-in-shorts-uploads-for-2024/"><u>[New] How to Prevent Thumbnail Absence in Shorts Uploads for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-exploring-per-view-money-flow-among-youtubers/"><u>[New] In 2024, Exploring Per-View Money Flow Among YouTubers</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-scribbles-to-spectacle-personalized-effect-crafting/"><u>[New] In 2024, From Scribbles to Spectacle  Personalized Effect Crafting</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-zero-to-cool-video-star-your-mac-youtube-journey-starts-here/"><u>[New] In 2024, From Zero to Cool Video Star  Your Mac Youtube Journey Starts Here</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-going-against-gravity-reversing-your-vids/"><u>[New] In 2024, Going Against Gravity  Reversing Your Vids</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-harnessing-the-power-of-asynchronous-programming-in-javascript/"><u>[New] In 2024, Harnessing the Power of Asynchronous Programming in JavaScript</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-blur-background-of-your-youtube-video-2-easy-ways/"><u>[New] In 2024, How to Blur Background of Your YouTube Video - 2 Easy Ways</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-make-youtube-video-the-ultimate-guide/"><u>[New] In 2024, How to Make YouTube Video  The Ultimate Guide</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-fearless-filming-tackling-ten-common-vlog-anxieties-head-on/"><u>[Updated] 2024 Approved  Fearless Filming  Tackling Ten Common Vlog Anxieties Head-On</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-fundamental-equipment-for-channel-foundations/"><u>[Updated] 2024 Approved  Fundamental Equipment for Channel Foundations</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-green-screen-journey-begins-on-yt-ideas-take-flight/"><u>[Updated] 2024 Approved  Green Screen Journey Begins on YT, Ideas Take Flight</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-harmonize-body-and-mind-through-these-top-10-yogis-videos/"><u>[Updated] 2024 Approved  Harmonize Body and Mind Through These Top 10 Yogis' Videos</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-harness-the-power-of-youtube-shorts-expert-filming-and-editing-techniques/"><u>[Updated] 2024 Approved  Harness the Power of YouTube Shorts  Expert Filming and Editing Techniques</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-hourly-highlight-reel-1-to-10-on-youtubes-view-chart/"><u>[Updated] 2024 Approved  Hourly Highlight Reel  #1 to #10 on YouTube's View Chart</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-integrate-titles-and-descriptions-into-your-youtube-video/"><u>[Updated] 2024 Approved  How to Integrate Titles and Descriptions Into Your YouTube Video</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-fiscally-flourishing-through-film-reviewing-retail-relics-for-2024/"><u>[Updated] Fiscally Flourishing Through Film  Reviewing Retail Relics for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-from-humble-beginnings-to-prodigy-carryminatis-earnings-ajey-for-2024/"><u>[Updated] From Humble Beginnings to Prodigy  CarryMinati's Earnings (Ajey) for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-from-viewers-to-profits-an-authoritative-guide-on-youtube-revenue-and-popularity-analysis-for-2024/"><u>[Updated] From Viewers to Profits  An Authoritative Guide on YouTube Revenue and Popularity Analysis for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-guide-to-getting-1000-subscribers-for-your-youtube-channel-for-2024/"><u>[Updated] Guide to Getting 1000 Subscribers for Your YouTube Channel for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-free-aesthetic-essentials-for-youtube-artistry/"><u>[Updated] In 2024, Free Aesthetic Essentials for YouTube Artistry</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-free-techniques-for-turning-youtube-watching-into-a-screenshot/"><u>[Updated] In 2024, Free Techniques for Turning YouTube Watching Into a Screenshot</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-novice-to-notable-top-course-recommendations-for-youtubers/"><u>[Updated] In 2024, From Novice to Notable  Top Course Recommendations for YouTubers</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-from-youtube-to-tiktok-and-now-vimeo-gifs/"><u>[Updated] In 2024, From YouTube to TikTok, and Now Vimeo-Gifs</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-going-pro-with-gs-effects-exclusive-free-lessons-from-4-premier-video-channels/"><u>[Updated] In 2024, Going Pro with GS Effects  Exclusive Free Lessons From 4 Premier Video Channels</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-pick-a-youtube-channel-name/"><u>[Updated] In 2024, How To Pick a YouTube Channel Name</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-post-a-video-from-youtube-on-instagram/"><u>[Updated] In 2024, How to Post a Video From YouTube on Instagram</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-produce-high-impact-low-cost-youtube-ads/"><u>[Updated] In 2024, How to Produce High-Impact, Low-Cost YouTube Ads?</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-essential-list-of-top-tier-9-mic-recorder-apps/"><u>2024 Approved  Essential List of Top-Tier 9 Mic Recorder Apps</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/essential-steps-to-resolve-rpc-fails-on-windows-os/"><u>Essential Steps to Resolve RPC Fails on Windows OS</u></a></li>
+<li><a href="https://techidaily.com/how-do-i-reset-my-motorola-razr-40-ultra-phone-without-technical-knowledge-drfone-by-drfone-reset-android-reset-android/"><u>How do I reset my Motorola Razr 40 Ultra Phone without technical knowledge? | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/how-to-safely-procure-pure-photography-collections-for-2024/"><u>How to Safely Procure Pure Photography Collections for 2024</u></a></li>
+<li><a href="https://android-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-realme-v30tfrp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your Realme V30TFRP Lock</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/preparation-to-beat-giovani-in-pokemon-go-for-oppo-reno-11-pro-5g-drfone-by-drfone-virtual-android/"><u>Preparation to Beat Giovani in Pokemon Go For Oppo Reno 11 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/streammasters-obs-edition-for-2024/"><u>StreamMasters  OBS Edition for 2024</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-windows-video-editing-adding-mind-blowing-3d-effects-made-easy-for-2024/"><u>Updated Windows Video Editing Adding Mind-Blowing 3D Effects Made Easy for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/why-does-my-photo-booth-videos-keep-freezing-for-2024/"><u>Why Does My Photo Booth Videos Keep Freezing for 2024</u></a></li>
+</ul></div>

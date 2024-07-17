@@ -1,7 +1,7 @@
 ---
 title: "[Updated] In 2024, How to Make Your Own YouTube Closures Without Spending"
-date: 2024-06-06T13:50:23.416Z
-updated: 2024-06-07T13:50:23.416Z
+date: 2024-07-16T02:09:59.840Z
+updated: 2024-07-17T02:09:59.840Z
 tags:
   - ai video
   - ai youtube
@@ -18,6 +18,9 @@ thumbnail: https://thmb.techidaily.com/98a90a980daafb5d4122c6bec488811f000154f10
 
 # How to Create YouTube Intros & End Cards - Free and Easy
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
 ##### Shanoon Cox
@@ -40,6 +43,9 @@ thumbnail: https://thmb.techidaily.com/98a90a980daafb5d4122c6bec488811f000154f10
 
 [How To Make an End Card](#how-to)
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part1: Intros
 
 #### Elements of an Intro
@@ -50,7 +56,7 @@ When your intro video is longer than five seconds viewers are more likely to cli
 
 Whether it is better to put your intro at the very beginning of your video, or after you introduce your topic, will depend on your viewers. You may want to try it both ways and then look at your retention report (found in your YouTube Creator Studio under Analytics) to see which works best for you.
 
-#### [Top Intro Sites](https://tools.techidaily.com/wondershare/filmora/download/)
+#### Top Intro Sites
 
 There are a few different sites where you can download animated intros, customized to include your username or logo. Here are two of the best:
 
@@ -77,6 +83,9 @@ You can create a simple intro card in **Filmora**.
 7. The last piece of your intro is sound. You can choose a song from Filmora’s library and cut it down to five seconds, or import your sound effect.
 8. Export your video and save it for use in all of your other videos.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 2: End Cards
 
 When your video ends, YouTube will recommend a selection of videos users may want to watch next. Often, these recommendations will not include more of your videos.
@@ -93,7 +102,7 @@ You should also have a subscribe link somewhere in your end card, ideally a very
 
 Some creators will leave their end cards at that and play music overtop, but it can be even more effective to include a voiceover where you ask viewers to subscribe and watch your other videos.
 
-#### [How To Make an End Card](https://tools.techidaily.com/wondershare/filmora/download/)
+#### How To Make an End Card
 
 1. Choose a static background. You may want to download an end card template or create one in a drawing program. If you do, make sure to include calls to action like ‘Watch more!’ and ‘Subscribe’.
 2. Drag your background into your timeline at the end of your video.
@@ -110,6 +119,9 @@ Some creators will leave their end cards at that and play music overtop, but it 
 13. Repeat for any other thumbnails. For your subscribe button, change where it said ‘Video’ to ‘Subscribe’ and enter your channel URL.
 14. Click **Apply Changes**.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
 Shanoon Cox
@@ -183,10 +195,21 @@ Although a 2 GB file of a very long will easily upload to YouTube, it will proba
 
  Do you agree that MP4 is the best video format for YouTube, or do you use something else?
 
+<!-- affiliate ads begin -->
+<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
+<span class="text-ad-content">
+	#1 Rated Parental Control Software.<br/>
+	Monitor & Control all PC Activity!<br/>
+		<cite style="color:green">sentrypc.com/parental-controls/</cite>
+	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Create Stunning Videos with a High-Quality Video Editor
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 Richard Bennett
@@ -204,3 +227,49 @@ Follow @Richard Bennett
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-skills.techidaily.com/new-premiere-cinematic-glimpses-series/"><u>[New] Premiere Cinematic Glimpses Series</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-game-developers-top-recording-tools/"><u>[Updated] 2024 Approved  Game Developers' Top Recording Tools</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-capitalize-on-youtube-shorts-must-knows-earning-prospects/"><u>[Updated] 2024 Approved  How to Capitalize on Youtube Shorts  Must-Knows, Earning Prospects</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-top-15-funny-youtube-channels-to-watch-when-youre-bored/"><u>[Updated] 2024 Approved  Top 15 Funny YouTube Channels to Watch When You're Bored</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-all-encompassing-capture-suite-detailed-app-evaluations/"><u>[Updated] All-Encompassing Capture Suite - Detailed App Evaluations</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-fearless-filming-mastering-your-first-10-clips-for-2024/"><u>[Updated] Fearless Filming  Mastering Your First 10 Clips for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-fixed-shorts-no-more-hidden-content-for-2024/"><u>[Updated] Fixed Shorts - No More Hidden Content for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-get-your-hand-on-the-latest-50-youtube-promo-banners-for-2024/"><u>[Updated] Get Your Hand on the Latest 50 YouTube Promo Banners for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-gourmet-gurus-who-you-should-subscribe-to-for-2024/"><u>[Updated] Gourmet Gurus  Who You Should Subscribe To for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-guided-approach-to-saving-exact-youtube-segments-for-2024/"><u>[Updated] Guided Approach to Saving Exact YouTube Segments for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-boost-your-youtube-revenue-from-mobile-a-comprehensive-guide-for-2024/"><u>[Updated] How to Boost Your YouTube Revenue From Mobile - A Comprehensive Guide for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-convert-youtube-videos-seamlessly-into-avi-for-2024/"><u>[Updated] How to Convert YouTube Videos Seamlessly Into AVI for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-use-youtube-analytics-to-grow-your-channel-for-2024/"><u>[Updated] How to Use YouTube Analytics to Grow Your Channel for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-faster-adjustment-of-youtube-videos-for-mac-pixels/"><u>[Updated] In 2024, Faster Adjustment of YouTube Videos for Mac Pixels</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-find-your-way-to-youtube-studio-a-comprehensive-overview/"><u>[Updated] In 2024, Find Your Way to YouTube Studio  A Comprehensive Overview</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-fiscal-footprint-of-the-mr-beast-empire/"><u>[Updated] In 2024, Fiscal Footprint of the Mr. Beast Empire</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-passive-to-active-a-3-step-framework-to-evaluate-your-youtube-financials/"><u>[Updated] In 2024, From Passive to Active  A 3-Step Framework to Evaluate Your YouTube Financials</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-raw-footage-to-polished-perfection-an-essential-youtube-video-editing-guide/"><u>[Updated] In 2024, From Raw Footage to Polished Perfection  An Essential Youtube Video Editing Guide</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-raw-to-refined-mastering-the-art-of-pc-video-editing-on-windows/"><u>[Updated] In 2024, From Raw to Refined  Mastering the Art of PC Video Editing on Windows</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-virality-to-value-ajays-playbook-for-profitable-content-creation/"><u>[Updated] In 2024, From Virality to Value  Ajay’s Playbook for Profitable Content Creation</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-gain-traction-in-the-digital-sphere-explore-the-quintessential-five-youtube-tactics/"><u>[Updated] In 2024, Gain Traction in the Digital Sphere - Explore the Quintessential Five YouTube Tactics</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-gaming-history-told-by-top-video-makers/"><u>[Updated] In 2024, Gaming History Told by Top Video Makers</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-giggle-galore-curating-the-funniest-10-short-form-web-series-ideas/"><u>[Updated] In 2024, Giggle Galore  Curating the Funniest 10 Short-Form Web Series Ideas</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-hacking-youtube-success-peak-audience-engagement-timing/"><u>[Updated] In 2024, Hacking YouTube Success  Peak Audience Engagement Timing</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-harnessing-powerful-tools-for-effective-youtubers-seo/"><u>[Updated] In 2024, Harnessing Powerful Tools for Effective YouTubers' SEO</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-create-animated-bouncing-text-2-ways/"><u>[Updated] In 2024, How to Create Animated Bouncing Text [2 Ways]</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-seamless-time-logging-on-youtube-desktopmobile/"><u>[Updated] Seamless Time Logging on YouTube (Desktop/Mobile)</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/2024-approved-affordable-video-editing-solutions-mac-os-on-tiktok/"><u>2024 Approved  Affordable Video Editing Solutions (Mac OS) on TikTok</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-balancing-width-and-height-for-ultimate-videography/"><u>2024 Approved  Balancing Width and Height for Ultimate Videography</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-how-to-use-android-phones-in-watching-vr-or-360-videos/"><u>2024 Approved  How to Use Android Phones in Watching VR or 360 Videos</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-innovative-video-enhancement-using-vce-22/"><u>2024 Approved  Innovative Video Enhancement Using VCE 2.2</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-top-no-fee-android-chat-apps-rated/"><u>2024 Approved  Top No-Fee Android Chat Apps Rated</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-unlocking-wealth-with-youtube-shorts-ventures/"><u>2024 Approved  Unlocking Wealth with YouTube Shorts Ventures</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-detailed-review-of-doctorsim-unlock-service-for-apple-iphone-11-by-drfone-ios/"><u>In 2024, Detailed Review of doctorSIM Unlock Service For Apple iPhone 11</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/in-2024-icy-illusions-reveling-at-beijings-olympic-event-2022/"><u>In 2024, Icy Illusions  Reveling at Beijing's Olympic Event, 2022</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-premium-after-effects-text-enhancements/"><u>In 2024, Premium After Effects Text Enhancements</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/maximizing-impact-with-googles-podcast-platform/"><u>Maximizing Impact with Google’s Podcast Platform</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/navigating-the-nuances-of-inshot-video-segments/"><u>Navigating the Nuances of Inshot Video Segments</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-noise-cancellation-101-tips-and-tricks-for-final-cut-pro-x-users-for-2024/"><u>New Noise Cancellation 101 Tips and Tricks for Final Cut Pro X Users for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/physical-security-measures-for-2024/"><u>Physical Security Measures for 2024</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/stand-out-with-custom-youtube-imagery/"><u>Stand Out with Custom YouTube Imagery</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-top-6-online-audio-archives-for-high-quality-whoosh-sounds/"><u>Updated Top 6 Online Audio Archives for High-Quality Whoosh Sounds</u></a></li>
+</ul></div>

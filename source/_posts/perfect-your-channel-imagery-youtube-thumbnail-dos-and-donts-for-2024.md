@@ -1,7 +1,7 @@
 ---
 title: "\"Perfect Your Channel Imagery  YouTube Thumbnail Do's & Don'ts for 2024\""
-date: 2024-06-06T16:34:43.456Z
-updated: 2024-06-07T16:34:43.456Z
+date: 2024-07-16T06:16:51.497Z
+updated: 2024-07-17T06:16:51.497Z
 tags:
   - ai video
   - ai youtube
@@ -18,6 +18,18 @@ thumbnail: https://thmb.techidaily.com/e85743b34dfe1708fd7baeaabbf4be530a9d0acc9
 
 # How To Make Good YouTube Banner - Dos and Don’ts
 
+<!-- affiliate ads begin -->
+<span id="1993652">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 ##### Richard Bennett
@@ -39,6 +51,9 @@ Here are the Dos and Don’ts of YouTube Channel Art.
 
 [![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 1: What Kind of Background Should I Use?
 
 #### _DO: High-Quality Photos_
@@ -51,7 +66,10 @@ When choosing great photos for your background, pick ones that are high quality 
 
 Using patterns for the background of your channel banner can help your channel look super creative and stand out from others. However, if you use a pattern that is chaotic and hard on the eyes, you may not attract many subscribers. When using patterns, choose patterns that are not heavy in color and have too many lines or shapes. There should be an evenness to the shapes and negative space within the pattern itself. Try to stay away from patterns that are 3D which can conflict with the viewer’s eyesight and make them dizzy.
 
-![ YouTube Channel Banner Background](https://images.wondershare.com/filmora/article-images/youtube-channel-banner-background.jpg)
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
+<!-- affiliate ads end -->
+![YouTube Channel Banner Background](https://images.wondershare.com/filmora/article-images/youtube-channel-banner-background.jpg)
 
 ## Part 2: Should I Use My Face?
 
@@ -71,7 +89,7 @@ It is always best to use a current photo of yourself. Many times viewers will go
 
 ## Part 3: What Should I Write on My Banner?
 
-![ YouTube Channel Banner writing](https://images.wondershare.com/filmora/article-images/youtube-channel-banner-write.jpg)
+![YouTube Channel Banner writing](https://images.wondershare.com/filmora/article-images/youtube-channel-banner-write.jpg)
 
 #### _Do: Include Your Channel Name_
 
@@ -91,7 +109,10 @@ Social media accounts are important to include in your channel art because we li
 
 Including social media icons in your channel art lets people know where they can find you. Another good reason to include your current social media in your banner is that sometimes you might join a new platform or quit an old one. You may be using Twitter for months and then decide that you like Facebook better. Your current social media handles keep subscribers from having to guess which one to follow you on.
 
-![ YouTube Channel Banner Safe Area](https://images.wondershare.com/filmora/article-images/youtube-channel-banner-safe-area.jpg)
+<!-- affiliate ads begin -->
+<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![YouTube Channel Banner Safe Area](https://images.wondershare.com/filmora/article-images/youtube-channel-banner-safe-area.jpg)
 
 _Make sure everything important fits in the safe area!_
 
@@ -125,12 +146,18 @@ _Joshelle is a YouTuber from Atlanta, GA. She has a YouTube channel called [Elle
 
 Now that you know how to make a good YouTube banner, what will you do next?
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Touch Up YouTube Videos with Filmora
 
-[Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/)features lots of utilities for both video and audio editing. You can change the video speed or change the aspect ratio easily. Besides, there are plentiful filters, elements, effects and overlays built, so you can use them without costing any extra fee.
+[Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/) features lots of utilities for both video and audio editing. You can change the video speed or change the aspect ratio easily. Besides, there are plentiful filters, elements, effects and overlays built, so you can use them without costing any extra fee.
 
 [![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 Richard Bennett
@@ -147,3 +174,51 @@ Follow @Richard Bennett
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-static-to-sprightly-bouncing-text-animations/"><u>[New] 2024 Approved  From Static to Sprightly  Bouncing Text Animations</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-greener-tech-better-ctas-with-subscriptions/"><u>[New] 2024 Approved  Greener Tech, Better CTAs with Subscriptions</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-high-definition-hardware-unveiled-by-gamers/"><u>[New] 2024 Approved  High-Definition Hardware Unveiled by Gamers</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-end-your-youtube-void-top-10-insights-on-igniting-video-interest/"><u>[New] 2024 Approved  How To End Your Youtube Void  Top 10 Insights on Igniting Video Interest</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-insert-youtube-playlists-seamlessly-into-a-website/"><u>[New] 2024 Approved  How to Insert YouTube Playlists Seamlessly Into a Website</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-validate-your-youtube-profile-a-simple-guide/"><u>[New] 2024 Approved  How to Validate Your YouTube Profile? A Simple Guide</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-how-much-money-do-youtubers-make-per-view-for-2024/"><u>[New] How Much Money Do YouTubers Make Per View for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-how-to-craft-powerful-tags-for-maximum-youtube-engagement-for-2024/"><u>[New] How to Craft Powerful Tags for Maximum Youtube Engagement for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-formulating-an-easy-to-use-youtube-subscriber-link/"><u>[New] In 2024, Formulating an Easy-to-Use YouTube Subscriber Link</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-overcome-no-image-problem-in-youtube-shorts/"><u>[New] In 2024, How To Overcome No Image Problem in YouTube Shorts</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-upload-shorts-video-on-youtube/"><u>[New] In 2024, How to Upload Shorts Video on YouTube?</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-flawless-offline-viewing-your-guide-to-mobile-video-downloads-for-idevices/"><u>[Updated] 2024 Approved  Flawless Offline Viewing  Your Guide to Mobile Video Downloads for iDevices</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-fresh-start-strategy-budget-channels-to-purchase/"><u>[Updated] 2024 Approved  Fresh Start Strategy  Budget Channels to Purchase</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-average-to-exceptional-discover-the-finest-free-intra-designs/"><u>[Updated] 2024 Approved  From Average to Exceptional  Discover the Finest Free Intra Designs</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-capturing-moments-to-sharing-them-editing-with-adobe-premiere/"><u>[Updated] 2024 Approved  From Capturing Moments to Sharing Them  Editing with Adobe Premiere</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-concept-to-creation-youtube-trailer-production-via-filmora/"><u>[Updated] 2024 Approved  From Concept to Creation  YouTube Trailer Production via Filmora</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-novice-to-notable-top-course-recommendations-for-youtubers/"><u>[Updated] 2024 Approved  From Novice to Notable  Top Course Recommendations for YouTubers</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-future-fortunes-for-virtual-game-masters/"><u>[Updated] 2024 Approved  Future Fortunes for Virtual Game Masters</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-global-youtube-rich-list-pinnacle/"><u>[Updated] 2024 Approved  Global YouTube Rich List Pinnacle</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-make-a-cool-intro-for-youtube-plusfree-templates/"><u>[Updated] 2024 Approved  How to Make a Cool Intro for YouTube? [+Free Templates]</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-optimize-your-channels-with-youtubes-featured-spotlight/"><u>[Updated] 2024 Approved  How to Optimize Your Channels with YouTube’s Featured Spotlight</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-2024-approved-serene-strums-and-dance-steps-tiktoks-country-playlist/"><u>[Updated] 2024 Approved  Serene Strums and Dance Steps  TikTok's Country Playlist</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-financial-flourishing-yielding-higher-returns-with-mobile-youtube-content-for-2024/"><u>[Updated] Financial Flourishing  Yielding Higher Returns with Mobile YouTube Content for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-future-earning-potential-in-gaming-videos-for-2024/"><u>[Updated] Future Earning Potential in Gaming Videos for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-future-of-online-gaming-earnings-for-2024/"><u>[Updated] Future of Online Gaming Earnings for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-global-youtube-elite-earnings-leader-for-2024/"><u>[Updated] Global YouTube Elite Earnings Leader for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-guidelines-for-successful-twilight-photo-shoots/"><u>[Updated] Guidelines for Successful Twilight Photo Shoots</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-extract-youtube-trailers-and-more-for-2024/"><u>[Updated] How to Extract YouTube Trailers & More for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-sculpt-perfect-images-on-youtube-with-right-dimensions-for-2024/"><u>[Updated] How to Sculpt Perfect Images on YouTube with Right Dimensions for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-five-cozy-seasons-ideal-backgrounds-to-warm-up-videos/"><u>[Updated] In 2024, Five Cozy Seasons  Ideal Backgrounds to Warm Up Videos</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-passion-to-paychecks-your-vlog-venture-guide/"><u>[Updated] In 2024, From Passion to Paychecks  Your Vlog Venture Guide</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-space-to-nature-yts-guide-for-dynamic-green-screen-filmmaking/"><u>[Updated] In 2024, From Space to Nature  YT's Guide for Dynamic Green Screen Filmmaking</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-growth-hurdle-cleared-500-subscribers-win/"><u>[Updated] In 2024, Growth Hurdle Cleared  500 Subscribers Win</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-enhance-your-vlogs-pacing-using-jump-cuts/"><u>[Updated] In 2024, How to Enhance Your Vlog's Pacing Using Jump Cuts</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-transforming-youtube-videos-bars-free-vision/"><u>[Updated] Transforming YouTube Videos  Bars-Free Vision</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-unleash-creativity-with-youtube-list-mix-ups/"><u>[Updated] Unleash Creativity with YouTube List Mix-Ups</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/2024-approved-from-basic-to-brilliant-enhancing-your-lower-thirds-in-fcpx/"><u>2024 Approved From Basic to Brilliant Enhancing Your Lower Thirds in FCPX</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/3-ways-for-android-pokemon-go-spoofing-on-motorola-edge-40-drfone-by-drfone-virtual-android/"><u>3 Ways for Android Pokemon Go Spoofing On Motorola Edge 40 | Dr.fone</u></a></li>
+<li><a href="https://fox-info.techidaily.com/greatest-20-open-source-copy-free-pubg/"><u>Greatest 20 Open Source, Copy-Free PUBG</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/how-to-disableremove-youtube-shorts-permanently2/"><u>How to Disable/Remove YouTube Shorts Permanently?2</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-exit-android-factory-mode-on-samsung-galaxy-m14-4g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Exit Android Factory Mode On Samsung Galaxy M14 4G? | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-vivo-y100-phone-password-without-factory-reset-by-drfone-android/"><u>How to Unlock Vivo Y100 Phone Password Without Factory Reset?</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-expanding-social-footprint-tying-igtv-and-facebook-together/"><u>In 2024, Expanding Social Footprint  Tying IGTV & Facebook Together</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/in-2024-youtube-content-management-for-instagram-profiles/"><u>In 2024, YouTube Content Management for Instagram Profiles</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/mastering-mac-recording-settings-for-snapchat-use-for-2024/"><u>Mastering Mac Recording Settings for Snapchat Use for 2024</u></a></li>
+</ul></div>

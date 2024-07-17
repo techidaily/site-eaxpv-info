@@ -1,7 +1,7 @@
 ---
 title: "[New] In 2024, How To Be a YouTube Gamer"
-date: 2024-06-06T15:05:05.686Z
-updated: 2024-06-07T15:05:05.686Z
+date: 2024-07-16T04:01:42.324Z
+updated: 2024-07-17T04:01:42.324Z
 tags:
   - ai video
   - ai youtube
@@ -89,6 +89,9 @@ Follow @Richard Bennett
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
+<!-- affiliate ads begin -->
+<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Animated Text That Jumps: Master Class with Easy Steps
 
 # How to Create Animated Bouncing Text
@@ -119,6 +122,9 @@ Click **Titles** from the standard toolbar at the top, and click and drag your p
 
 In the timeline, double-click the title you just added, use the upper-left section to edit the text, go to the **Animation** tab from the left pane, scroll down the list, and double-click the **Up Down 1** or **Up Down 2** preset to apply the bounce effect to the credits. Click **OK** to save the changes and to get back to the main window.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Create Bouncing Text video Filmora9](https://images.wondershare.com/filmora/article-images/add-up-down-animation-to-bounce.jpg)
 
 **Step 3: Add Shake Filters**
@@ -129,6 +135,9 @@ Go to **Effects** from the standard toolbar, expand the **Filters** category fro
 
 You can customize the default effect by double-clicking the shake filter in the timeline, using the sliders in the upper-left area of the interface to make necessary adjustments, and then clicking **OK** to save the changes and to get back to the previous interface.
 
+<!-- affiliate ads begin -->
+<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Mild Shake filters adjust](https://images.wondershare.com/filmora/article-images/mild-shake-filter-adjust.jpg)
 
 **Step 4: Export the Final Output**
@@ -143,6 +152,9 @@ Double click the text track, go to the **Chroma Key** effect, select the **Color
 
 As explained before, Wondeshare Filmora makes the entire process of creating and adding **bounce text** effect pretty simple. With all the pre-build templates, and the versatility of the options that can be used to customize those presets, you can come up with the effects that are usually obtained when you start generating them from the scratch.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 [![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ## Method 2: Generate Animated Bouncing Texts Online
@@ -181,6 +193,9 @@ Launch your favorite web browser and go to <https://loading.io/animation/text/>.
 
 **Step 2: Customize the Text and Choose Animation Effect**
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Create Animated Bouncing Text with Loading.io](https://images.wondershare.com/filmora/article-images/create-bouncing-text-with-loadingio.jpg)
 
 Use the options available on the webpage to type your text, and change its font, color, background, transparency level etc. Select **Bounce** (or any of its variants) from the **Animation** drop-down list, and adjust the speed using the **Speed** slider.
@@ -195,6 +210,9 @@ Click your preferred option from next to the **Download As** section to download
 
 Generating **bounce text** effect is much simpler when you use Wondershare Filmora or any of the online solutions as explained in Method 2\. While the former gives you more flexibility when it comes to customizations, the latter doesn’t require any app to be installed on your PC. In addition, many times the web apps offer their services for free, and therefore they are preferred by the novice users who are not much into post-production processes.
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
 
 Liza Brown
@@ -212,3 +230,67 @@ Follow @Liza Brown
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-novice-to-niche-tripling-your-youtube-fans/"><u>[New] 2024 Approved  From Novice to Niche  Tripling Your Youtube Fans</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-ordinary-to-outstanding-crafting-unique-shorts-thumbnails/"><u>[New] 2024 Approved  From Ordinary to Outstanding  Crafting Unique Shorts Thumbnails</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-raw-to-refined-mastering-the-art-of-pc-video-editing-on-windows/"><u>[New] 2024 Approved  From Raw to Refined  Mastering the Art of PC Video Editing on Windows</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-streams-to-statements-decoding-the-3-step-process-for-calculating-youtube-earnings/"><u>[New] 2024 Approved  From Streams to Statements  Decoding the 3-Step Process for Calculating YouTube Earnings</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-global-scoreboard-the-premier-six-of-video-downloads/"><u>[New] 2024 Approved  Global Scoreboard  The Premier Six of Video Downloads</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-harness-youtubes-potential-with-these-top-5-video-marketing-techniques/"><u>[New] 2024 Approved  Harness YouTube’s Potential with These #Top 5 Video Marketing Techniques</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-use-a-tripod-for-vlogging/"><u>[New] 2024 Approved  How To Use a Tripod for Vlogging</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-unleash-your-potential-become-a-broadcasting-pro-on-instagram-using-obs/"><u>[New] 2024 Approved  Unleash Your Potential  Become a Broadcasting Pro on Instagram Using OBS</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-from-plot-to-post-a-detailed-guide-to-writing-youtube-videos-for-2024/"><u>[New] From Plot to Post  A Detailed Guide to Writing YouTube Videos for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-how-to-legally-convert-youtube-videos-to-mp4-format-for-2024/"><u>[New] How to Legally Convert YouTube Videos to MP4 Format for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-in-2024-daredevil-daters-unite-on-discord/"><u>[New] In 2024, Daredevil Daters Unite on Discord</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-find-your-digital-companion-the-top-6-youtube-personality-puzzles/"><u>[New] In 2024, Find Your Digital Companion  The Top 6 YouTube Personality Puzzles</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-individual-to-institutional-growth-in-youtube-space/"><u>[New] In 2024, From Individual to Institutional Growth in YouTube Space</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-streams-to-statements-decoding-the-3-step-process-for-calculating-youtube-earnings/"><u>[New] In 2024, From Streams to Statements  Decoding the 3-Step Process for Calculating YouTube Earnings</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-high-quality-video-capture-for-beginner-creators/"><u>[New] In 2024, High-Quality Video Capture for Beginner Creators</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-achieve-professional-level-audio-quality-on-youtube/"><u>[New] In 2024, How to Achieve Professional-Level Audio Quality on YouTube</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-pick-a-youtube-channel-name/"><u>[New] In 2024, How To Pick a YouTube Channel Name</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-masterclass-picks-professional-webcam-stands/"><u>[New] Masterclass Picks  Professional Webcam Stands</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-unveiling-the-best-mobile-tools-to-pull-videos-from-youtube/"><u>[New] Unveiling the Best Mobile Tools to Pull Videos From YouTube</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-foundations-first-what-to-invest-in-for-youtubing/"><u>[Updated] 2024 Approved  Foundations First  What To Invest In for YouTubing</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-framing-the-perfect-waterway-narrative/"><u>[Updated] 2024 Approved  Framing the Perfect Waterway Narrative</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-ftp-to-feed-the-complete-guide-to-uploading-to-youtube/"><u>[Updated] 2024 Approved  From FTP to Feed  The Complete Guide to Uploading to YouTube</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-script-to-screen-crafting-your-unique-youtube-tale/"><u>[Updated] 2024 Approved  From Script to Screen  Crafting Your Unique YouTube Tale</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-leveraging-phone-capabilities-for-efficient-video-recording/"><u>[Updated] 2024 Approved  Leveraging Phone Capabilities for Efficient Video Recording</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-free-and-secure-3-ways-to-extract-youtube-music-content-for-2024/"><u>[Updated] Free and Secure  3 Ways to Extract YouTube Music Content for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-from-clicks-to-cash-the-systematic-triple-pathway-for-youtube-revenue-tracking-for-2024/"><u>[Updated] From Clicks to Cash  The Systematic Triple Pathway for YouTube Revenue Tracking for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-from-novice-to-connoisseur-transform-your-sub4sub-experience-now-for-2024/"><u>[Updated] From Novice to Connoisseur  Transform Your Sub4sub Experience Now for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-from-raw-footage-to-polished-highlights-for-2024/"><u>[Updated] From Raw Footage to Polished Highlights for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-snip-and-save-from-youtube-the-ultimate-guide-for-2024/"><u>[Updated] How to Snip and Save From YouTube  The Ultimate Guide for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-efficient-mov-editing-and-recording-tutorial-for-windows-11-users/"><u>[Updated] In 2024, Efficient MOV Editing and Recording Tutorial for Windows 11 Users</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-finding-premium-free-music-without-breaking-copyrights/"><u>[Updated] In 2024, Finding Premium, Free Music Without Breaking Copyrights</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-flickering-fonts-2-innovative-text-techniques/"><u>[Updated] In 2024, Flickering Fonts  2 Innovative Text Techniques</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-font-powerhouses-for-captivating-youtube-thumbnails/"><u>[Updated] In 2024, Font Powerhouses for Captivating YouTube Thumbnails</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-blank-canvas-to-biggest-hit-mastering-youtube-thumbnail-sizes/"><u>[Updated] In 2024, From Blank Canvas to Biggest Hit  Mastering YouTube Thumbnail Sizes</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-idea-to-execution-a-comprehensive-youtube-video-guide/"><u>[Updated] In 2024, From Idea to Execution  A Comprehensive YouTube Video Guide</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-growth-gamble-buying-popularity-or-authentic-audience-expansion/"><u>[Updated] In 2024, Growth Gamble  Buying Popularity or Authentic Audience Expansion?</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-harmonize-your-routine-with-these-top-20-youtube-songstars/"><u>[Updated] In 2024, Harmonize Your Routine with These Top 20 YouTube Songstars</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-hidden-treasures-on-youtube-understanding-unlisted-footage/"><u>[Updated] In 2024, Hidden Treasures on YouTube  Understanding 'Unlisted' Footage</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-design-a-great-gaming-youtube-banner-with-templates/"><u>[Updated] In 2024, How to Design a Great Gaming YouTube Banner with Templates</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-stream-to-youtube-facebook-twitch-and-over-30-platforms/"><u>[Updated] In 2024, How to Stream to YouTube, Facebook, Twitch and Over 30 Platforms</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-the-classic-questline-versus-the-dynamic-strategy/"><u>[Updated] The Classic Questline versus the Dynamic Strategy</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-triple-check-for-profitability-guiding-principles-for-measuring-youtube-income/"><u>[Updated] Triple Check for Profitability  Guiding Principles for Measuring YouTube Income</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-trivia-trek-exploring-yts-fascinating-figures-and-infographics/"><u>[Updated] Trivia Trek  Exploring YT's Fascinating Figures and Infographics</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-20-best-non-copyrighted-pubg-montage-thumbnail/"><u>2024 Approved  20 Best Non Copyrighted PUBG Montage Thumbnail</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/behind-the-curtain-how-youtube-tallys-its-views/"><u>Behind the Curtain  How YouTube Tally's Its Views</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/expert-picks-for-the-top-10-open-source-recordings-for-2024/"><u>Expert Picks for the Top 10 Open-Source Recordings for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/from-free-posts-to-fiscal-success-fb-pages-profit-playbook-for-2024/"><u>From Free Posts to Fiscal Success  FB Pages Profit Playbook for 2024</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/from-raw-to-refined-mastering-the-art-of-professional-mp3-file-adjustments-for-2024/"><u>From Raw to Refined Mastering the Art of Professional MP3 File Adjustments for 2024</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/get-noticed-with-a-professional-video-resume-top-4-makers/"><u>Get Noticed with a Professional Video Resume Top 4 Makers</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-vivo-x90s-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Vivo X90S without Losing Data | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-realme-c53-phone-without-pin-by-drfone-android/"><u>How to Unlock Realme C53 Phone without PIN</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/in-2024-facebook-verification-how-to-verify-facebook-page-easily/"><u>In 2024, Facebook Verification  How to Verify Facebook Page Easily</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-fix-apple-id-verification-code-not-working-on-iphone-se-2020-by-drfone-ios/"><u>In 2024, How To Fix Apple ID Verification Code Not Working On iPhone SE (2020)</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-the-best-android-sim-unlock-code-generators-unlock-your-oppo-a78-5g-phone-hassle-free-by-drfone-android/"><u>In 2024, The Best Android SIM Unlock Code Generators Unlock Your Oppo A78 5G Phone Hassle-Free</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-converters-cornerstone-for-srt-transformations/"><u>In 2024, The Converter's Cornerstone for SRT Transformations</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-avidemux-no-sound-error-how-to-fix-it/"><u>New In 2024, Avidemux No Sound Error How to Fix It</u></a></li>
+<li><a href="https://driver-install.techidaily.com/streamline-pc-enhancements-download-windows-11s-touch/"><u>Streamline PC Enhancements - Download Windows 11'S Touch</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-impact-and-innovations-in-vegaspro-a-2019-review-for-2024/"><u>The Impact and Innovations in VegasPro  A 2019 Review for 2024</u></a></li>
+<li><a href="https://apple-account.techidaily.com/troubleshooting-error-connecting-to-the-apple-id-server-on-iphone-7-plus-by-drfone-ios/"><u>Troubleshooting Error Connecting to the Apple ID Server On iPhone 7 Plus</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/ultimate-pixel-realms-unique-alarm-rhythms/"><u>Ultimate Pixel Realms  Unique Alarm Rhythms</u></a></li>
+</ul></div>

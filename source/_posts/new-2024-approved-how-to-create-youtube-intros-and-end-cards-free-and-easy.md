@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  How to Create YouTube Intros & End Cards - Free and Easy\""
-date: 2024-06-06T16:03:46.801Z
-updated: 2024-06-07T16:03:46.801Z
+date: 2024-07-16T05:30:17.513Z
+updated: 2024-07-17T05:30:17.513Z
 tags:
   - ai video
   - ai youtube
@@ -50,7 +50,7 @@ When your intro video is longer than five seconds viewers are more likely to cli
 
 Whether it is better to put your intro at the very beginning of your video, or after you introduce your topic, will depend on your viewers. You may want to try it both ways and then look at your retention report (found in your YouTube Creator Studio under Analytics) to see which works best for you.
 
-#### [Top Intro Sites](https://tools.techidaily.com/wondershare/filmora/download/)
+#### Top Intro Sites
 
 There are a few different sites where you can download animated intros, customized to include your username or logo. Here are two of the best:
 
@@ -77,6 +77,9 @@ You can create a simple intro card in **Filmora**.
 7. The last piece of your intro is sound. You can choose a song from Filmora’s library and cut it down to five seconds, or import your sound effect.
 8. Export your video and save it for use in all of your other videos.
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 2: End Cards
 
 When your video ends, YouTube will recommend a selection of videos users may want to watch next. Often, these recommendations will not include more of your videos.
@@ -93,7 +96,7 @@ You should also have a subscribe link somewhere in your end card, ideally a very
 
 Some creators will leave their end cards at that and play music overtop, but it can be even more effective to include a voiceover where you ask viewers to subscribe and watch your other videos.
 
-#### [How To Make an End Card](https://tools.techidaily.com/wondershare/filmora/download/)
+#### How To Make an End Card
 
 1. Choose a static background. You may want to download an end card template or create one in a drawing program. If you do, make sure to include calls to action like ‘Watch more!’ and ‘Subscribe’.
 2. Drag your background into your timeline at the end of your video.
@@ -137,6 +140,9 @@ For anyone looking to start earning passive income via YouTube, but have the que
 
 * [More FAQs About How Much YouTubers Make](#part4)
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 1: How Often Does YouTube Pay
 
 As mentioned earlier, YouTube pays monthly. It’s usually within the first 10-14 days of a new month (10th day or 14th day of a new month). However, to be able to receive your funds, you must reach the minimum threshold of your local currency as required by YouTube. For example, $100 for content creators within the United States.
@@ -175,8 +181,14 @@ YouTube Affiliate marketing involves a creator reviewing a product like makeup, 
 
 If you get an affiliate link to a product on a platform, you can create a video relating to that product, then in your video description, you’ll add the affiliate link there. So, when anyone purchases the product using your affiliate link, you’ll get your percentage off the price they paid. On average, companies will be willing to pay within 5% to 50% of the purchase price.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 2\. Brand Sponsorship
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![youtube brand spinsorship](https://images.wondershare.com/filmora/article-images/2022/11/does-youtube-pay-monthly-3.jpg)
 
 The fact YouTube is the most used video-playing platform makes it a great spot for businesses and organizations to promote their product or services. So, once you grow your YouTube subscribers to a certain level, you’ll receive emails from companies and brands to partner with you to sponsor their products or service. Honestly, there are lots of brands who will be happy to pay you to promote their products/services,
@@ -185,6 +197,9 @@ Research shows that sponsorship deals are usually within the range of $200 to ov
 
 Also, your YouTube channel data statistics such as total subscribers, average video impressions in the past months, likes, comments, and more are other factors that will determine how much brands will offer you to seal a sponsorship deal.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 3\. Selling Own Products or Services
 
 ![sell products on youtube](https://images.wondershare.com/filmora/article-images/2022/11/does-youtube-pay-monthly-4.jpg)
@@ -193,14 +208,23 @@ Selling your products or services is another great way to monetize your YouTube 
 
 If you don’t have a product, you could charge your viewers for exclusive content, sell online courses for dropshipping, sell cryptocurrency trading e-books, etc. The only thing is you need to have a large following to earn well from this YouTube monetization option.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 4: More FAQs About How Much YouTubers Make
 
 At this point, you should already have a brief idea of how YouTube monetization works. However, if you still want to discover more information, keep reading to check out more FAQs on how much YouTubers make.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 1\. Who is The Richest YouTuber?
 
 The richest YouTuber as of 2021 is Mr. Beast. He has made up to $54 million in revenue from his YouTube channel.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 2\. Do YouTubers Get Paid Well?
 
 The rate at which YouTubers get paid depends on certain factors like the audience they aim for, how frequently they publish the nature of their material, and lots more. As we mentioned in the article, the average pay rate on YouTube is within the range of $0.01 to $0.03 per ad view, while for every 1,000 video views, you could earn $3 to $5\. Also, research shows that the highest-paying YouTube category is the “Make Money Online” category with an average CPM of $13.52.
@@ -223,6 +247,9 @@ As mentioned earlier, YouTube pays monthly. It’s usually within the first 10-1
 
 Also, you must comply with the YouTube monetization policies and not be suspended by YouTube in the past month.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 2: How Does YouTube Pay – Typical Methods Used
 
 Research shows that YouTube’s average pay rate is within the range of $0.01 to $0.03 per ad view. This means for every 1,000 ad views, a YouTuber could earn $18, while for every 1,000 video views, you could earn $3 to $5\. You might ask “Does YouTube pay creators per view?’ Well, the answer is NO, YouTube doesn’t pay creators per view. They pay per monetized view.
@@ -247,6 +274,9 @@ Besides ads, there are other ways to monetize your YouTube channel. You could al
 
 ### 1\. Affiliate Marketing
 
+<!-- affiliate ads begin -->
+<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![youtube affilate marketing](https://images.wondershare.com/filmora/article-images/2022/11/does-youtube-pay-monthly-2.jpg)
 
 You might have come across YouTube videos where the creators talk about their favorite brands and add links to the platform for the brand. Well, that’s a form of affiliate marketing.
@@ -257,6 +287,9 @@ If you get an affiliate link to a product on a platform, you can create a video 
 
 ### 2\. Brand Sponsorship
 
+<!-- affiliate ads begin -->
+<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![youtube brand spinsorship](https://images.wondershare.com/filmora/article-images/2022/11/does-youtube-pay-monthly-3.jpg)
 
 The fact YouTube is the most used video-playing platform makes it a great spot for businesses and organizations to promote their product or services. So, once you grow your YouTube subscribers to a certain level, you’ll receive emails from companies and brands to partner with you to sponsor their products or service. Honestly, there are lots of brands who will be happy to pay you to promote their products/services,
@@ -265,6 +298,9 @@ Research shows that sponsorship deals are usually within the range of $200 to ov
 
 Also, your YouTube channel data statistics such as total subscribers, average video impressions in the past months, likes, comments, and more are other factors that will determine how much brands will offer you to seal a sponsorship deal.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
+<!-- affiliate ads end -->
 ### 3\. Selling Own Products or Services
 
 ![sell products on youtube](https://images.wondershare.com/filmora/article-images/2022/11/does-youtube-pay-monthly-4.jpg)
@@ -281,6 +317,9 @@ At this point, you should already have a brief idea of how YouTube monetization 
 
 The richest YouTuber as of 2021 is Mr. Beast. He has made up to $54 million in revenue from his YouTube channel.
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 2\. Do YouTubers Get Paid Well?
 
 The rate at which YouTubers get paid depends on certain factors like the audience they aim for, how frequently they publish the nature of their material, and lots more. As we mentioned in the article, the average pay rate on YouTube is within the range of $0.01 to $0.03 per ad view, while for every 1,000 video views, you could earn $3 to $5\. Also, research shows that the highest-paying YouTube category is the “Make Money Online” category with an average CPM of $13.52.
@@ -311,3 +350,41 @@ As you can see, there are different ways you could monetize your YouTube channel
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-elevating-your-style-with-youtubes-best-hauls/"><u>[New] 2024 Approved  Elevating Your Style with YouTube's Best Hauls</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-foremost-youtube-networks-for-news-enthusiasts-for-2024/"><u>[New] Foremost YouTube Networks for News Enthusiasts for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-free-and-legal-youtube-downloader-tools-recommendations-for-2024/"><u>[New] Free & Legal YouTube Downloader Tools - Recommendations for 2024</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-from-idea-to-internet-fame-becoming-a-vtuber/"><u>[New] From Idea to Internet Fame  Becoming a VTuber?</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-generating-a-youtube-auto-subscribe-direct-link-for-2024/"><u>[New] Generating a YouTube Auto Subscribe Direct Link for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-get-your-stream-on-point-with-these-top-webcams-for-youtube-for-2024/"><u>[New] Get Your Stream on Point with These Top Webcams for YouTube for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-how-much-could-you-make-on-youtube-snippets-for-2024/"><u>[New] How Much Could You Make on YouTube Snippets for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-how-to-get-thousands-of-youtube-views-in-30-days-for-2024/"><u>[New] How To Get Thousands of YouTube Views in 30 Days for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-how-to-secure-youtube-channels-audible-content-for-2024/"><u>[New] How to Secure YouTube Channels' Audible Content for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-how-to-shuffle-youtube-playlist-for-2024/"><u>[New] How to Shuffle YouTube Playlist for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-free-to-profit-reaching-the-new-500-sub-total/"><u>[New] In 2024, Free to Profit  Reaching the New 500 Sub Total</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-freeing-up-youtube-views-no-more-grey-lines/"><u>[New] In 2024, Freeing Up YouTube Views  No More Grey Lines</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-flip-your-video-collection-in-a-flash/"><u>[New] In 2024, How to Flip Your Video Collection in a Flash</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-make-your-youtube-moments-come-alive-creating-dynamic-gifs/"><u>[New] In 2024, How to Make Your YouTube Moments Come Alive  Creating Dynamic GIFs</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-safely-extract-youtube-audio-a-study-of-3-techniques/"><u>[New] In 2024, How to Safely Extract YouTube Audio  A Study of 3 Techniques</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-top-10-free-stock-footage-websites-you-should-know/"><u>[New] In 2024, Top 10 Free Stock Footage Websites You Should Know</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-dive-into-sound-design-focus-on-auditions-fade-in/"><u>[Updated] 2024 Approved  Dive Into Sound Design  Focus on Audition's Fade In</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-filmmakers-toolkit-making-compelling-youtube-trailers/"><u>[Updated] 2024 Approved  Filmmaker's Toolkit  Making Compelling YouTube Trailers</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-fostering-connection-through-respectful-engagement/"><u>[Updated] 2024 Approved  Fostering Connection Through Respectful Engagement</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-chat-room-to-global-stage-broadcast-google-meet-on-youtube/"><u>[Updated] 2024 Approved  From Chat Room to Global Stage  Broadcast Google Meet on YouTube</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-concept-to-classroom-a-guide-to-creating-engaging-edu-videos-on-youtube/"><u>[Updated] 2024 Approved  From Concept to Classroom  A Guide to Creating Engaging Edu-Videos on YouTube</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-making-dreams-real-steps-towards-becoming-a-vtuber/"><u>[Updated] 2024 Approved  From Making Dreams Real  Steps Towards Becoming a VTuber?</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-harmonizing-horizons-easy-steps-for-sharing-soundtracks/"><u>[Updated] 2024 Approved  Harmonizing Horizons  Easy Steps for Sharing Soundtracks</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-flash-video-insights-guide/"><u>[Updated] Flash Video Insights Guide</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-fostering-connection-through-respectful-engagement-for-2024/"><u>[Updated] Fostering Connection Through Respectful Engagement for 2024</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/2024-approved-cross-platform-video-tutorial-twitter-to-instagram/"><u>2024 Approved  Cross-Platform Video Tutorial  Twitter to Instagram</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-mastering-fast-loading-instagram-media-content/"><u>2024 Approved  Mastering Fast-Loading Instagram Media Content</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-videos-that-stand-out-the-perfect-size-for-insta/"><u>2024 Approved  Videos That Stand Out  The Perfect Size for Insta</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/2024-approved-cataloging-spots-to-purchase-authentic-glass-bashing-noises/"><u>2024 Approved Cataloging Spots to Purchase Authentic Glass-Bashing Noises</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-to-add-digital-signature-to-a-pdf-v14-document-by-ldigisigner-sign-a-pdf-sign-a-pdf/"><u>How to add digital signature to a PDF v1.4 document</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-use-google-assistant-on-your-lock-screen-of-realme-gt-5-phone-by-drfone-android/"><u>How to Use Google Assistant on Your Lock Screen Of Realme GT 5 Phone</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/in-2024-top-tiktok-watermark-erasers-remove-logos-in-seconds/"><u>In 2024, Top TikTok Watermark Erasers Remove Logos in Seconds</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/metaverse-giggles-galore-ingenious-ways-to-craft-memes/"><u>Metaverse Giggles Galore  Ingenious Ways to Craft Memes</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/webcamsecure-silk-screen-sticker-for-2024/"><u>WebCamSecure Silk Screen Sticker for 2024</u></a></li>
+</ul></div>

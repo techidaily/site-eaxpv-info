@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Examining Video Comments on YouTube for 2024"
-date: 2024-06-06T16:21:35.630Z
-updated: 2024-06-07T16:21:35.630Z
+date: 2024-07-16T05:57:08.219Z
+updated: 2024-07-17T05:57:08.219Z
 tags:
   - ai video
   - ai youtube
@@ -18,6 +18,9 @@ thumbnail: https://thmb.techidaily.com/8c3b13a3ac83a5d3d00093c2a17a7909556b01cc1
 
 # How to Search Comments on YouTube Quickly?
 
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 ##### Richard Bennett
@@ -31,6 +34,9 @@ Are you trying to search for something on a document or a web page? You know how
 
 So, if you want to search YouTube comments quickly, what can you do? We will show you in this blog.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 1: Using the Built-in YouTube Studio Feature to Search Comments
 
 How does the built-in YouTube Studio Feature make searching comments on YouTube easier?
@@ -39,7 +45,7 @@ Comments are the best way to interact with subscribers on YouTube. YouTube’s S
 
 If you have a channel, you can use this feature in some simple steps.
 
-1. Visit YouTube[website](https://www.youtube.com/) on your desktop and sign in to your YouTube account.
+1. Visit YouTube [website](https://www.youtube.com/) on your desktop and sign in to your YouTube account.
 2. Go to the top right corner of your homepage, and you will find your profile icon. Click on it and from the drop-down menu, select the YouTube Studio option.
 3. This will take you to the YouTube Studio home page. On the left side, find and click on the Comments option, and then you will see all comments your YouTube channel has received.
 4. You can now click on the Filter icon from the comments section and type in the search term directly. Or, you can click the Search from the options, and type in the words you are looking for.
@@ -57,7 +63,10 @@ Besides the comment search feature, the YouTube Studio also has some in-built se
 
 **Response status:** Filter the comments to which you have responded or haven’t responded to.
 
-![  YouTube Studio comment filter](https://images.wondershare.com/filmora/article-images/youtube-studio-comment-filter-search.jpg)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
+![YouTube Studio comment filter](https://images.wondershare.com/filmora/article-images/youtube-studio-comment-filter-search.jpg)
 
 You can combine these additional filters to narrow your comments search for YouTube.
 
@@ -67,11 +76,11 @@ You can use the YouTube Comment Search browser extension supported by Google Chr
 
 1. First, you need to install this extension. You can click this URL <https://chrome.google.com/webstore/detail/ycs-youtube-comment-searc/pmfhcilikeembgbiadjiojgfgcfbcoaa?hl=en> Or, you can open the Chrome Extensions page, and in the search bar at the top, type in YCS – YouTube Comment Search and press Enter.
 2. Click on the result that appears and then tap on the Add to Chrome button. This will add the extension to your browser.
-3. Once you add the extension, open[YouTube](https://www.youtube.com/) on your browser. Click on the video where you want to search the comments. You will find the YouTube Comment Search extension below it.
+3. Once you add the extension, open [YouTube](https://www.youtube.com/) on your browser. Click on the video where you want to search the comments. You will find the YouTube Comment Search extension below it.
 4. Tap on ‘Load comments’ and wait till the extension loads all the comments on the video.
 5. Now type your keywords, press Enter, and YCS will show all comments having the keyword you typed.
 
-![ YouTube Comment Search Extension](https://images.wondershare.com/filmora/article-images/search-comment-from-specific-user-with-ycs-extension.jpg)
+![YouTube Comment Search Extension](https://images.wondershare.com/filmora/article-images/search-comment-from-specific-user-with-ycs-extension.jpg)
 
 ## Part 3: Using Comments Search for YouTube Extension
 
@@ -79,7 +88,7 @@ If you are looking for an easy method to search YouTube comments, you can use th
 
 How can you use this extension to search YouTube comments? Here is a simple step-by-step tutorial.
 
-1. First, you need to download the extension from[Github](https://github.com/lettapp/ytcs/archive/master.zip). Then, locate the file on your computer and unzip it.
+1. First, you need to download the extension from [Github](https://github.com/lettapp/ytcs/archive/master.zip). Then, locate the file on your computer and unzip it.
 2. Next, you need to install it in the browser. Open your Chrome browser, and from the top right corner, click on the three vertical dots. You will find the Settings option towards the end of the drop-down menu, and then click on it.
 3. When the Settings page opens, select Extensions from the panel on the left side of the webpage. This will take you to a new tab.
 4. On the top right corner of the page, there will be a toggle switch called Developer Mode. Turn it on if it is off.
@@ -105,6 +114,9 @@ Did you post a comment on your favorite celebrity’s video? Do you think it may
 
 YouTube has now added this feature which you can see all the comments you ever posted on YouTube in one place.
 
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### How to Use the Comment History feature to Search Comments?
 
 You can see all the comments you have posted in the Comment History in a few quick steps.
@@ -113,10 +125,13 @@ You can see all the comments you have posted in the Comment History in a few qui
 2. Once you sign in, click on the three horizontal lines at the top left corner of your YouTube page.
 3. Click on the History option and then you will find the option called Comments on the right side of your YouTube History page. Click on it to see all your YouTube comments.
 
-![ YouTube History Comment](https://images.wondershare.com/filmora/article-images/youtube-history-comments-menu.jpg)
+![YouTube History Comment](https://images.wondershare.com/filmora/article-images/youtube-history-comments-menu.jpg)
 
-You can also access the Comments History page directly from[here](https://www.youtube.com/feed/history/comment%5Fhistory).
+You can also access the Comments History page directly from [here](https://www.youtube.com/feed/history/comment%5Fhistory).
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 5: How to Find Out Who Posts the Most Comments on Your YouTube Videos?
 
 If you are a creator on YouTube, the comments section becomes very important. Subscribers comment words of praise, encouragement, and feedback which help you grow. You may want to keep track of your most loyal followers. The best way to know that is by knowing who comments most on your videos.
@@ -138,6 +153,9 @@ YouTube is a global platform to share helpful and entertaining videos. The comme
 
 Find feedback or questions. Report offensive comments. If you are a regular YouTube user, use our tips and tricks to search comments quickly and grow your channel.
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 Richard Bennett
@@ -154,3 +172,39 @@ Follow @Richard Bennett
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-information.techidaily.com/new-blur-the-boundaries-techniques-to-mask-faces-in-photos/"><u>[New] Blur the Boundaries  Techniques to Mask Faces in Photos</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-everlasting-screen-saving-utility/"><u>[New] Everlasting Screen Saving Utility</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-free-access-worlds-biggest-youtube-short-downloaders/"><u>[New] In 2024, Free Access  World’s Biggest YouTube Short Downloaders</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-global-gross-earnings-of-youtube-luminaries/"><u>[New] In 2024, Global Gross Earnings of YouTube Luminaries</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-harness-youtube-opportunities-via-strategic-creator-studio-application/"><u>[New] In 2024, Harness YouTube Opportunities via Strategic Creator Studio Application</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-historical-insights-the-most-relevant-youtube-channels-for-learners/"><u>[New] In 2024, Historical Insights - The Most Relevant YouTube Channels for Learners</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-blur-faces-or-objects-in-youtube-videos/"><u>[New] In 2024, How to Blur Faces or Objects in YouTube Videos</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-make-money-on-youtube/"><u>[New] In 2024, How To Make Money on YouTube</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-capture-your-skype-conversations-on-any-system/"><u>[Updated] 2024 Approved  Capture Your Skype Conversations on Any System</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-fast-revenues-forecasting-toolkit-for-vids/"><u>[Updated] 2024 Approved  Fast Revenues Forecasting Toolkit for Vids</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-fitness-frontiers-youtubes-best-yoga-content/"><u>[Updated] 2024 Approved  Fitness Frontiers - YouTube's Best Yoga Content</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-oven-to-screen-cooking-videos-unveiled/"><u>[Updated] 2024 Approved  From Oven to Screen  Cooking Videos Unveiled</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-wanderlusts-to-web-presence-your-strategy-for-professional-blogging-success/"><u>[Updated] 2024 Approved  From Wanderlusts To Web Presence  Your Strategy for Professional Blogging Success</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-hidden-pitfalls-investing-in-fraudulent-subscribers/"><u>[Updated] 2024 Approved  Hidden Pitfalls  Investing in Fraudulent Subscribers</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-small-scale-streaming-mastery-on-youtube-without-big-subscriber-base/"><u>[Updated] 2024 Approved  Small-Scale Streaming Mastery on YouTube Without Big Subscriber Base</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-finding-free-music-a-producers-handbook-for-2024/"><u>[Updated] Finding Free Music  A Producer's Handbook for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-from-video-conference-to-youtube-broadcast-google-meet-explained-for-2024/"><u>[Updated] From Video Conference to Youtube Broadcast  Google Meet Explained for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-from-zero-to-hero-your-first-time-streaming-to-youtube-for-2024/"><u>[Updated] From Zero to Hero  Your First Time Streaming to Youtube for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-gourmet-guide-culinary-video-production-for-2024/"><u>[Updated] Gourmet Guide  Culinary Video Production for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-harmonizing-youtube-production-with-a-9-to-5-routine-for-2024/"><u>[Updated] Harmonizing YouTube Production with a 9-to-5 Routine for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-hit-the-bottom-finding-your-best-free-youtube-downloader-app-on-android-for-2024/"><u>[Updated] Hit the Bottom - Finding Your Best Free YouTube Downloader App on Android for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-build-successful-youtube-advertisements-for-free-for-2024/"><u>[Updated] How to Build Successful YouTube Advertisements for Free for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-find-youtube-collaboration-partners-for-2024/"><u>[Updated] How to Find YouTube Collaboration Partners for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-loop-videos-on-iphone-for-2024/"><u>[Updated] How to Loop Videos on iPhone for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-fullscape-synergy-the-smart-mcn-picking-game/"><u>[Updated] In 2024, FullScape Synergy  The Smart MCN Picking Game</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-swift-solutions-for-the-windows-10-photos-app-stability-woes/"><u>2024 Approved  Swift Solutions for the Window's 10 Photos App Stability Woes</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-transforming-mobile-devices-into-business-and-personal-video-platforms/"><u>2024 Approved  Transforming Mobile Devices Into Business & Personal Video Platforms</u></a></li>
+<li><a href="https://facebook.techidaily.com/digital-ears-of-phones-spying-for-marketing-reality/"><u>Digital Ears of Phones: Spying for Marketing Reality?</u></a></li>
+<li><a href="https://techidaily.com/hard-resetting-an-sony-xperia-1-v-device-made-easy-drfone-by-drfone-reset-android-reset-android/"><u>Hard Resetting an Sony Xperia 1 V Device Made Easy | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-reset-your-oppo-find-x7-lock-screen-password-by-drfone-android/"><u>How to Reset your Oppo Find X7 Lock Screen Password</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-2024-approved-best-gaming-intro-animation-studios-this-year/"><u>New 2024 Approved Best Gaming Intro Animation Studios This Year</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-future-of-advertising-mastering-metaverse-for-2024/"><u>The Future of Advertising  Mastering Metaverse for 2024</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-10-best-spy-watches-for-your-xiaomi-redmi-note-12t-pro-drfone-by-drfone-virtual-android/"><u>Top 10 Best Spy Watches For your Xiaomi Redmi Note 12T Pro | Dr.fone</u></a></li>
+</ul></div>

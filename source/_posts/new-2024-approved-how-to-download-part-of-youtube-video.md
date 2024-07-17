@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  How to Download Part of YouTube Video?\""
-date: 2024-06-06T15:19:50.686Z
-updated: 2024-06-07T15:19:50.686Z
+date: 2024-07-16T04:23:52.545Z
+updated: 2024-07-17T04:23:52.545Z
 tags:
   - ai video
   - ai youtube
@@ -18,6 +18,9 @@ thumbnail: https://thmb.techidaily.com/03b50fa097007316bd728c0f1505911c6985b5446
 
 # How to Download Part of YouTube Video?
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 ##### Richard Bennett
@@ -33,6 +36,9 @@ Here in this article, you will learn about the most straightforward YouTube vide
 * [Part 1: How to Download a Certain Part of a YouTube Video？](#part1)
 * [Part 2: How to Record YouTube Videos with Filmora?](#part2) \[Video Tutorial\]
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Part 1: How to Download a Certain Part of a YouTube Video？
 
 Below are 6 software that are available to download part of youtube video, find which one fit you much. Watch a video description first!
@@ -61,10 +67,16 @@ You just need to follow the simple steps below to download the part of the YouTu
 
 **Step 2:** Once you paste the link, you need to cut the video part using the slider. You then have to set the start and end times accordingly. You can also choose the “Fade in” or “Fade out” option to give your video smooth finishing. Clideo provides several extensions to download, but if you want to post your video on social media, it’s better to use the MP4 option. After finishing, press the “Cut” button.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Download part of YouTube video with Clideo](https://images.wondershare.com/filmora/article-images/download-part-youtube-video-interface-clideo.jpg)
 
 **Step 3:** You can preview your video and save it on your device as the final step.
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 2\. YT Cutter
 
 It’s a super-easy video cutter that can download a part of any YouTube video in no time. [YT Cutter](https://ytcutter.com/) also allows downloading and trimming the video online. The maximum limit is 1 minute for free account users, but it’s 20 minutes for premium users.
@@ -93,7 +105,7 @@ Check out the simple steps to use Veed below:
 
 Filmora Video Editor
 
-#### Create AI-Generated Video with [Filmora](https://tools.techidaily.com/wondershare/filmora/download/)
+#### Create AI-Generated Video with Filmora
 
 Filmora Discord video editor offers a ChatGPT plug-in and AI tools to enhance your creative vision. Make your idea into reality.
 
@@ -107,10 +119,16 @@ Want to know how it works? Read below:
 
 **Step 1:** You can search for the YouTube video you want to cut and paste the URL on the Hashcut box. Then, click the **START RECORDING** button to add the start timing, and then click the **END RECORDING** button to add the ending timing.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Download part of YouTube video with Hashcut](https://images.wondershare.com/filmora/article-images/hashcut-download-parts-youtube.jpg)
 
 **Step 2:** You can also add stickers and texts as per your choice before saving the part of the YouTube video.
 
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Download part of YouTube video with Hashcut](https://images.wondershare.com/filmora/article-images/hashcut-youtube-download-add-title-sticker.jpg)
 
 **Step 3:** Finally, you can compile multiple clips into a single clip and then hit “**SAVE HASHCUT**” to finish your work.
@@ -143,6 +161,9 @@ Know how to get your work done with Kapwing here!
 
 **Step 3:** When you’re finally done with the cropping and editing, press the “Export Video” button at the top right corner. You can now share and download the shortened video.
 
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 2: How to Record YouTube Videos with Filmora?
 
 [Filmora](https://tools.techidaily.com/wondershare/filmora/download/) is a software editor that is available for both Windows and MacOS. It can give you many editing and recording facilities. Besides, it offers many editing facilities like effects, color match, motion tracking, direct upload to social platforms, and a lot more. You need to follow a few steps to [record YouTube videos](https://tools.techidaily.com/wondershare/filmora/download/) using Filmora and easily save parts of the video.
@@ -159,6 +180,9 @@ You need to follow a few steps to record YouTube videos using Filmora and easily
 
 1. Open Wondershare Filmora and then click the PC Screen button to enter the screen recording interface.
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Download part of YouTube video with Filmora](https://images.wondershare.com/filmora/article-images/pc-screen-recorder-filmora.jpg)
 
 1. In the Wondershare Screen Recorder tool, you can choose to record your full screen or any target window. For example, since we want to record part of the YouTube video, choose target window and then select the browser playing the YouTube video.
@@ -177,6 +201,9 @@ That’s about it! These were some of the best tools to download sections of the
 
 Download segments of the YouTube video effortlessly with a few taps on your phone now!
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
 ![filmora logo](https://neveragain.allstatics.com/2019/assets/icon/logo/filmora-horizontal.svg)
 
 ## A cross-platform for making videos anywhere for all creators
@@ -200,6 +227,9 @@ Download segments of the YouTube video effortlessly with a few taps on your phon
 
 ![filmora12](https://images.wondershare.com/filmora/12-filmora/img/filmora12-01.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 Richard Bennett
@@ -219,6 +249,18 @@ Follow @Richard Bennett
 
 # How to Add Video to Text
 
+<!-- affiliate ads begin -->
+<span id="1997795">
+					<video width="250" height="250" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
 
 ##### Liza Brown
@@ -239,6 +281,9 @@ You should start by creating a new slide and adding a textbox to it. Proceed to 
 
 Head over to the Insert tab, select Rectangle from the Shapes menu, and create a rectangular shape over the entire slide. Right-click on the slide and choose the Send to Back option from the menu. In this manner, you will position the rectangle you created behind the textbox.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Add video to text - Powerpoint- insert shape](https://images.wondershare.com/filmora/article-images/insert-rectangle-shape.jpg)
 
 The next step you will have to take is to create the cut-out of the text within the rectangle. Select both the text and shape you placed in the background before clicking on the Format tab that is located near the end of PowerPoint’s ribbon.
@@ -269,6 +314,9 @@ Proceed to select a font and adjust the text size before deciding if you want to
 
 Now it’s time to add the text video and the background video to the project media library, and then place the two videos one above the other. Since we’re adding video to text, the text video should be placed above the background video.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![Add video to text - Filmora9 Compositing](https://images.wondershare.com/filmora/article-images/compositing-video-9.jpg)
 
 Click on the video that contains text to gain access to the Video tab of the Editor panel and then expand the Compositing menu. Change the Blending Mode to Multiply, and the text in the overlaying video should be filled with the parts of the footage from the video below it.
@@ -298,3 +346,53 @@ Follow @Liza Brown
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-11-free-youtube-audio-rippers-to-download-audio-from-youtube/"><u>[New] 2024 Approved  11 FREE YouTube Audio Rippers to Download Audio From YouTube</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-fifa-highlights-and-trends-charting-on-youtube/"><u>[New] 2024 Approved  FIFA Highlights & Trends  Charting on YouTube</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-hundreds-to-millions-a-youtube-growth-journey/"><u>[New] 2024 Approved  From Hundreds to Millions  A YouTube Growth Journey</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-ideas-to-action-how-to-transform-photos-into-engaging-mobile-videos/"><u>[New] 2024 Approved  From Ideas to Action  How to Transform Photos Into Engaging Mobile Videos</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-fullscape-synergy-the-smart-mcn-picking-game/"><u>[New] 2024 Approved  FullScape Synergy  The Smart MCN Picking Game</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-can-you-make-outstanding-youtube-outro/"><u>[New] 2024 Approved  How Can You Make Outstanding YouTube Outro?</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-secure-is-subforsup-to-expand-your-youtube-community-safely/"><u>[New] 2024 Approved  How Secure Is Subforsup to Expand Your YouTube Community Safely?</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-streamline-the-integration-of-youtube-playlists-into-a-sites-layout/"><u>[New] 2024 Approved  How To Streamline the Integration of YouTube Playlists Into a Site's Layout</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-the-best-binge-worthy-series-on-twittersphere/"><u>[New] 2024 Approved  The Best Binge-Worthy Series on Twittersphere</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-best-practices-for-laptop-based-ppt-presentations-on-google-meet/"><u>[New] Best Practices for Laptop-Based PPT Presentations on Google Meet</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-chaptered-cinema-the-essential-guide-to-vimeo-editing-for-2024/"><u>[New] Chaptered Cinema  The Essential Guide to Vimeo Editing for 2024</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/new-constructing-captivating-youtube-music-selections/"><u>[New] Constructing Captivating YouTube Music Selections</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-empower-yourself-learning-the-ins-and-outs-of-io-screen-recorder-for-2024/"><u>[New] Empower Yourself  Learning the Ins and Outs of IO Screen Recorder for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-find-out-the-best-8-youtube-engagement-tools-for-2024/"><u>[New] Find Out  The Best 8 Youtube Engagement Tools for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-get-more-viewers-with-social-media-marketing-for-youtube-for-2024/"><u>[New] Get More Viewers with Social Media Marketing for YouTube for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-getting-started-with-your-youtube-channel-essentials-for-2024/"><u>[New] Getting Started with Your YouTube Channel – Essentials for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/1717708460135-new-in-2024-how-to-block-youtube-channels-on-computer-and-mobile-phones/"><u>[New] In 2024, How to Block Youtube Channels on Computer and Mobile Phones</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-2024-approved-a-comprehensive-overview-of-adding-roles-in-discord/"><u>[Updated] 2024 Approved  A Comprehensive Overview of Adding Roles in Discord</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-download-pc-sound-logger-x-recorder-app/"><u>[Updated] 2024 Approved  Download Pc Sound Logger - X-Recorder App</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-harmonize-your-youtube-presence-with-these-ideal-microphones-for-various-channels/"><u>[Updated] 2024 Approved  Harmonize Your YouTube Presence With These Ideal Microphones for Various Channels</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-go-viral-on-youtube-with-minimal-effort/"><u>[Updated] 2024 Approved  How to Go Viral on YouTube with Minimal Effort</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-pick-a-youtube-channel-name/"><u>[Updated] 2024 Approved  How To Pick a YouTube Channel Name</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-feast-your-eyes-enjoyment-without-cost-watch-9-christmas-films-online-for-2024/"><u>[Updated] Feast Your Eyes, Enjoyment Without Cost  Watch 9 Christmas Films Online for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-finalcut-pro-elevating-your-youtube-edits-from-good-to-great-for-2024/"><u>[Updated] FinalCut Pro  Elevating Your YouTube Edits From Good to Great for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-from-novice-to-viewer-keeper-top-10-basic-yet-captivating-video-ideas-for-2024/"><u>[Updated] From Novice to Viewer-Keeper  Top 10 Basic Yet Captivating Video Ideas for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-guide-to-embedding-on-screen-text-on-youtube-clips-for-2024/"><u>[Updated] Guide to Embedding On-Screen Text on YouTube Clips for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-live-streaming-360-video-to-youtube-for-2024/"><u>[Updated] How to Live Streaming 360 Video to Youtube for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-seamlessly-incorporate-video-game-banners-for-2024/"><u>[Updated] How to Seamlessly Incorporate Video Game Banners for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-finding-and-exploring-your-own-music-selection-zone-on-youtube/"><u>[Updated] In 2024, Finding and Exploring Your Own Music Selection Zone on Youtube</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-flashy-fiddles-short-form-melodic-roles/"><u>[Updated] In 2024, Flashy Fiddles  Short Form Melodic Roles</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-mac-studio-to-youtube-stream-imovie-video-upload-guide/"><u>[Updated] In 2024, From Mac Studio to YouTube Stream  IMovie Video Upload Guide</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-guide-to-make-your-shorts-thumbnail-pop-up/"><u>[Updated] In 2024, Guide to Make Your Shorts' Thumbnail Pop Up</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-high-fidelity-game-recording-tools/"><u>[Updated] In 2024, High Fidelity Game Recording Tools</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/10-innovative-video-call-platforms-azoom-not-necessary-in-2024/"><u>10 Innovative Video Call Platforms  Azoom Not Necessary, In 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-creme-de-la-cream-of-online-tv-services/"><u>2024 Approved  The Crème De La Cream of Online TV Services</u></a></li>
+<li><a href="https://location-fake.techidaily.com/5-hassle-free-solutions-to-fake-location-on-find-my-friends-of-asus-rog-phone-7-ultimate-drfone-by-drfone-virtual-android/"><u>5 Hassle-Free Solutions to Fake Location on Find My Friends Of Asus ROG Phone 7 Ultimate | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/delete-gmail-account-withwithout-password-on-oneplus-ace-3-by-drfone-android/"><u>Delete Gmail Account With/Without Password On OnePlus Ace 3</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-change-credit-card-from-your-iphone-8-plus-apple-id-and-apple-pay-by-drfone-ios/"><u>How to Change Credit Card from Your iPhone 8 Plus Apple ID and Apple Pay</u></a></li>
+<li><a href="https://techidaily.com/how-to-upgrade-or-downgrade-apple-iphone-7-plus-without-losing-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Upgrade or Downgrade Apple iPhone 7 Plus Without Losing Data? | Dr.fone</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/in-2024-a-comprerans-guide-to-finding-and-joining-exclusive-discords/"><u>In 2024, A Compreran's Guide to Finding and Joining Exclusive Discords</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-hidefake-snapchat-location-on-your-asus-rog-phone-7-drfone-by-drfone-virtual-android/"><u>In 2024, How to Hide/Fake Snapchat Location on Your Asus ROG Phone 7 | Dr.fone</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-unlocking-vanished-videos-watching-youtubes-forgotten-gems-online/"><u>In 2024, Unlocking Vanished Videos  Watching YouTube's Forgotten Gems Online</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/in-2024-video-gamings-top-10-capture-card-recommendations/"><u>In 2024, Video Gaming's Top 10 Capture Card Recommendations</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-will-pokemon-go-ban-the-account-if-you-use-pgsharp-on-oppo-reno-10-proplus-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Will Pokémon Go Ban the Account if You Use PGSharp On Oppo Reno 10 Pro+ 5G | Dr.fone</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-soundcloud-to-mp3-conversion-hacks-get-the-most-out-of-your-music/"><u>Updated 2024 Approved Soundcloud to MP3 Conversion Hacks Get the Most Out of Your Music</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/what-makes-this-mp3-converter-for-windows-article-a-must-read-for-2024/"><u>What Makes This Mp3 Converter for Windows Article a Must-Read for 2024</u></a></li>
+</ul></div>

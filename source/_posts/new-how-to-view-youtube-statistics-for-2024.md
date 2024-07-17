@@ -1,7 +1,7 @@
 ---
 title: "[New] How to View YouTube Statistics for 2024"
-date: 2024-06-06T14:44:10.419Z
-updated: 2024-06-07T14:44:10.419Z
+date: 2024-07-16T03:30:33.998Z
+updated: 2024-07-17T03:30:33.998Z
 tags:
   - ai video
   - ai youtube
@@ -18,6 +18,9 @@ thumbnail: https://thmb.techidaily.com/37f0c7d85b74086e02697b065e94b8850d62fdad3
 
 # How to View YouTube Statistics
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 ##### Richard Bennett
@@ -41,8 +44,14 @@ As one of the best video editing software for YouTube, [Filmora](https://tools.t
 
 [![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 [![Get free YouTube Subscribers Guide Banner](https://images.wondershare.com/filmora/article-images/get-free-youtube-subs-banner.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to View Your YouTube Statistics
 
 In order to view your YouTube Analytics, sign in to your YouTube account and go to your Creator Studio. From there, click into the Analytics tab in the menu on the left of your screen.
@@ -51,6 +60,18 @@ In order to check which of your videos are performing the best, click on **Watch
 
 The two main types of analytics reports are Watch Time Reports and Interaction Reports.
 
+<!-- affiliate ads begin -->
+<span id="1993650">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 1. Interpreting YouTube Watch Time Reports
 
 To find **Watch time reports** you just need to log into your Google account, go to the **Creator studio**, click the analytics tab, and then click on **watch time**. You can see the watch time of every video on your channel, which is important data to have because watch time is the most important factor when it comes to ranking your video in search results.
@@ -63,7 +84,7 @@ Alongside watch time you can see the average duration individual viewers are wat
 
 In the watch time reports for individual videos, you will be able to see data on where your views are coming from and which demographics are watching the most. Where your viewers are watching, in terms of desktop or mobile, is also interesting data that is available in this section.
 
-Click here for more tips on[increasing your views](https://www.filmora.io/community-blog/12-proven-ways-to-increase-youtube-views-315.html).
+Click here for more tips on [increasing your views](https://www.filmora.io/community-blog/12-proven-ways-to-increase-youtube-views-315.html).
 
 ### 2. Interpreting YouTube Interaction Reports
 
@@ -110,10 +131,67 @@ Follow @Richard Bennett
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Procure No-Cost Visual Aids From Prominent 4 Youtube Feeds
 
 # Get Free Stock Footage From These 4 YouTube Channels
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-boosting-engagement-with-effective-youtube-banners-and-thumbnails/"><u>[New] 2024 Approved  Boosting Engagement with Effective YouTube Banners & Thumbnails</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-entry-level-mic-tips-for-youtube-voice-talents/"><u>[New] 2024 Approved  Entry-Level Mic Tips for YouTube Voice Talents</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-crafting-the-ideal-youtube-playlist-an-easy-step-by-step-method-for-2024/"><u>[New] Crafting the Ideal YouTube Playlist  An Easy, Step-by-Step Method for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-critical-review-of-vlcs-capture-tools/"><u>[New] Critical Review of VLC's Capture Tools</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-deep-dive-the-economy-and-impact-of-online-stars-for-2024/"><u>[New] Deep Dive  The Economy and Impact of Online Stars for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-faster-vimeo-viewing-experiences/"><u>[New] Faster Vimeo Viewing Experiences</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-how-to-manual-for-crafting-youtube-playlists-for-2024/"><u>[New] How-To Manual for Crafting YouTube Playlists for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-concealed-visibility-mastering-visual-obscurity-in-videos/"><u>[New] In 2024, Concealed Visibility  Mastering Visual Obscurity in Videos</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-crafting-a-youtube-future-scaling-up-or-staying-independent/"><u>[New] In 2024, Crafting a YouTube Future  Scaling Up or Staying Independent?</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-cutting-edge-youtube-video-editing-techniques-premiere-pro/"><u>[New] In 2024, Cutting Edge YouTube Video Editing Techniques - Premiere Pro</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-funny-faces-crafting-7-cheeky-youtube-comedy-videos/"><u>[New] In 2024, Funny Faces  Crafting 7 Cheeky YouTube Comedy Videos</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-streamlining-video-updates-on-youtube/"><u>[New] Streamlining Video Updates on YouTube</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-top-4-techniques-for-turning-youtube-watchlists-upside-down/"><u>[New] Top 4 Techniques for Turning YouTube Watchlists Upside Down</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-10-leading-non-gamer-screen-recording-alternatives-for-2024/"><u>[Updated] 10 Leading Non-Gamer Screen Recording Alternatives for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-expert-tips-for-eradicating-extra-green-on-youtube-videos-mac/"><u>[Updated] 2024 Approved  Expert Tips for Eradicating Extra Green on YouTube Videos (Mac)</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-finding-your-portal-to-youtubes-video-mastery-hub/"><u>[Updated] 2024 Approved  Finding Your Portal to YouTube's Video Mastery Hub</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-dissecting-youtubes-user-commentary-for-2024/"><u>[Updated] Dissecting YouTubes' User Commentary for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-ignite-curiosity-with-a-personal-touch-anime-subscribe-buttons-for-filmmakers-filmora/"><u>[Updated] Ignite Curiosity with a Personal Touch - Anime Subscribe Buttons for Filmmakers (Filmora)</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-a-novices-choice-ideal-game-recording-and-editing-tools/"><u>[Updated] In 2024, A Novice’s Choice  Ideal Game Recording & Editing Tools</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-essential-audio-enhancement-apps-for-youtubers-videos/"><u>[Updated] In 2024, Essential Audio Enhancement Apps for YouTubers' Videos</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-essential-ios-video-editor-apps-top-10-best-to-know/"><u>[Updated] In 2024, Essential iOS Video Editor Apps  Top 10 Best to Know</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-create-gifs-from-youtube-videos-on-desktop-and-mobile-devices/"><u>[Updated] In 2024, How to Create GIFs From YouTube Videos on Desktop and Mobile Devices</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-integrating-video-content-youtube-and-google-slides/"><u>[Updated] Integrating Video Content  YouTube & Google Slides</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-snapshot-selection-unveiling-the-top-10-camera-lenses/"><u>[Updated] Snapshot Selection  Unveiling the Top 10 Camera Lenses</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-the-pinnacle-selector-your-personal-video-vault/"><u>[Updated] The Pinnacle Selector  Your Personal Video Vault</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-quick-guide-archiving-your-insta-story-content/"><u>2024 Approved  Quick Guide  Archiving Your Insta Story Content</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-smooth-iphone-screen-recording-made-simple/"><u>2024 Approved  Smooth iPhone Screen Recording Made Simple</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/achieving-excellence-in-android-video-production-using-obs/"><u>Achieving Excellence in Android Video Production Using OBS</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/best-value-tech-for-costless-screen-mirroring-for-2024/"><u>Best Value Tech for Costless Screen Mirroring for 2024</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-fix-it-honor-x8b-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix It Honor X8b Wont Turn On | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-lock-apps-on-honor-magic-6-lite-to-protect-your-individual-information-by-drfone-android/"><u>How to Lock Apps on Honor Magic 6 Lite to Protect Your Individual Information</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-xiaomi-redmi-note-12-pro-4g-phone-without-pin-by-drfone-android/"><u>How to Unlock Xiaomi Redmi Note 12 Pro 4G Phone without PIN</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-7-ways-to-unlock-a-locked-oneplus-ace-2v-phone-by-drfone-android/"><u>In 2024, 7 Ways to Unlock a Locked OnePlus Ace 2V Phone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-easy-guide-how-to-bypass-oppo-k11x-frp-android-10111213-by-drfone-android/"><u>In 2024, Easy Guide How To Bypass Oppo K11x FRP Android 10/11/12/13</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-bypass-icloud-activation-lock-on-ipod-and-apple-iphone-12-the-right-way-by-drfone-ios/"><u>In 2024, How To Bypass iCloud Activation Lock On iPod and Apple iPhone 12 The Right Way</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-2024-approved-dual-approaches-to-audio-fades-in-final-cut-pro/"><u>New 2024 Approved Dual Approaches to Audio Fades in Final Cut Pro</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-cutting-the-clutter-techniques-for-isolating-signal-in-remote-audio-broadcasts-for-2024/"><u>New Cutting the Clutter Techniques for Isolating Signal in Remote Audio Broadcasts for 2024</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-in-2024-in-this-article-we-will-show-you-how-to-blur-faces-with-some-of-the-best-video-editing-software-for-free-and-paid/"><u>New In 2024, In This Article, We Will Show You How to Blur Faces with some of the Best Video Editing Software for Free and Paid</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-mastering-video-editing-a-step-by-step-online-tutorial-for-2024/"><u>New Mastering Video Editing A Step-by-Step Online Tutorial for 2024</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-the-best-ways-to-convert-soundcloud-tracks-t/"><u>New The Best Ways to Convert Soundcloud Tracks T</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/piecing-together-attention-grabbing-channel-snippets-for-2024/"><u>Piecing Together Attention-Grabbing Channel Snippets for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/the-compre-written-by-jane-doe-phd-in-cognitive-psychology-and-behavioral-science-for-2024/"><u>The Compre Written By  Jane Doe, PhD in Cognitive Psychology and Behavioral Science for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/the-financial-frontier-acquiring-high-value-youtubes-for-2024/"><u>The Financial Frontier  Acquiring High-Value Youtubes for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/turn-viewers-into-vendors-yielding-wealth-with-youtube-analytics-for-2024/"><u>Turn Viewers Into Vendors  Yielding Wealth with YouTube Analytics for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/unseen-yet-seen-how-to-conceal-faces-and-objects-digitally-for-2024/"><u>Unseen Yet Seen  How to Conceal Faces and Objects Digitally for 2024</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-2024-approved-the-complete-tutorial-on-audible-integration-into-video-editing-using-magix/"><u>Updated 2024 Approved The Complete Tutorial on Audible Integration Into Video Editing Using Magix</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-top-11-voice-modification-gadgets-your-comprehensive-guide/"><u>Updated Top 11 Voice Modification Gadgets Your Comprehensive Guide</u></a></li>
+</ul></div>

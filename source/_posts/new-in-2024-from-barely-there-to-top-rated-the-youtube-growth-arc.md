@@ -1,7 +1,7 @@
 ---
 title: "\"[New] In 2024, From Barely There to Top Rated  The Youtube Growth Arc\""
-date: 2024-06-06T15:25:29.907Z
-updated: 2024-06-07T15:25:29.907Z
+date: 2024-07-16T04:32:26.567Z
+updated: 2024-07-17T04:32:26.567Z
 tags:
   - ai video
   - ai youtube
@@ -18,6 +18,9 @@ thumbnail: https://thmb.techidaily.com/3119c4d644ca38982b7a0f68d251b6e048a299751
 
 # Case Study: How to Grow on YouTube to Have Millions of Subs
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
 ##### Shanoon Cox
@@ -32,6 +35,9 @@ Jesse Ridgway is the owner of the vlog [McJuggerNuggets](https://www.youtube.com
 
 ## Case Study of McJuggerNuggets
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Case Study McJugger Nuggets](https://images.wondershare.com/filmora/article-images/case-study-mcjugger-nuggets.jpg)
 
 Jesse was one of the earliest YouTubers. He started his channel on December 9, 2006\. Jesse never guessed that he would make enough money to live off of the videos he was creating. Here are some of the ways that he monetized his channel:
@@ -82,10 +88,16 @@ Regular research into your target market will help you to create the trendiest n
 
 Timing and luck are definitely two of the biggest factors in becoming a success on YouTube. If you are willing to keep working and don’t get discouraged you will eventually earn profits.
 
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Edit Your Videos with High-Quality Video Editor
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
 Shanoon Cox
@@ -105,6 +117,9 @@ Follow @Shanoon Cox
 
 # 10 YouTube Video Ideas for Sharing Your Personal Story
 
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 ##### Richard Bennett
@@ -140,6 +155,9 @@ On Monday, May 17th, 2010, YouTube celebrated its fifth anniversary. In celebrat
 
 “Draw My Life” is a popular video where YouTubers share their life stories through a unique series of drawings. Often YouTubers use a white dry erase board and markers so they can erase and redraw the series of their life events. Mr. Kate provides a great example of this as she is a talented artist and DIY’er. The great thing about this is you don’t have to be an artist or a great drawer. It’s a fun way to be creative and tell your story.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ### 4\.  Snapchat/Instagram Stories Q&A
 
 Who isn’t on Snapchat, Instagram, or both these days? Over the past year, I’ve seen YouTubers get creative by asking their viewers to send snaps asking questions they will answer on a Q & A video on their channel. This video idea is great because it involves live viewer participation and a chance for viewers to be seen or noticed on their favorite Youtuber’s channels. Beauty guru stars Manny MUA and Jeffrey Star did a great example of this as a collaboration.
@@ -148,10 +166,16 @@ Who isn’t on Snapchat, Instagram, or both these days? Over the past year, I’
 
 Who hasn’t played the “Never Have I Ever” game?! Playing this game as a Q & A is a great way for viewers to get to know you better with some juicy and shocking details about yourself they otherwise wouldn’t know. It’s also a great way to play and collaborate with another YouTuber. Often, the questions will be split and you have to watch both YouTubers’ videos to find out all the details. Highly popular beauty YouTuber Desi Perkins does a great example of this while playing the game with her sister in law.
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 6\.  Get Ready With Me Q & A
 
 Get ready with me Q & As are some of my favorite videos to watch because it’s nice to see YouTubers strip-down bare-faced to do their makeup and answer popular questions. It often feels like two old friends sitting down to chat. Jenn, I'm doing a great example of this when she took to twitter asking viewers to ask her questions she would answer on her channel. Not only did she answer the questions but she gave a detailed makeup tutorial and explanation of the products she used as a 2 for 1\. Even if your channel has nothing to do with makeup or fashion, some viewers can still be intrigued to learn more about your fashion and makeup style.
 
+<!-- affiliate ads begin -->
+<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 7\.  My Depression/Anxiety or Mental Health Story
 
 Behind all their smiles and outrageous on-camera personas, there are a lot of YouTubers who are dealing with depression and anxiety. Beauty and fashion YouTuber Alyssa Forever not only shared her story on how she dealt with her depression but gave tips and ways to be happier. If you are facing depression, anxiety, or some other mental illness, it can give others hope if you share your story.
@@ -189,3 +213,45 @@ Follow @Richard Bennett
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-historical-knowledge-at-your-fingertips-best-yt-history-channels-for-2024/"><u>[New] Historical Knowledge at Your Fingertips  Best YT History Channels for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-how-does-youtube-work-after-a-video-is-uploaded-for-2024/"><u>[New] How Does YouTube Work After a Video Is Uploaded for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-how-to-turn-on-or-off-comments-on-youtube-for-2024/"><u>[New] How to Turn on or Off Comments on YouTube for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-ideal-tech-companion-apps-for-macos-recording/"><u>[New] Ideal Tech Companion Apps for MacOS Recording</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-finding-your-niche-making-money-with-video-content/"><u>[New] In 2024, Finding Your Niche  Making Money with Video Content</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-flawless-footage-with-best-stabilizer-brands/"><u>[New] In 2024, Flawless Footage with Best Stabilizer Brands</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-free-to-fortune-the-500-sub-club/"><u>[New] In 2024, From Free to Fortune  The 500-Sub Club</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-harvest-cost-free-visuals-from-leading-4-youtube-hubs/"><u>[New] In 2024, Harvest Cost-Free Visuals From Leading 4 YouTube Hubs</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-much-money-flows-from-a-million-views-on-youtube/"><u>[New] In 2024, How Much Money Flows From A Million Views On YouTube</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-tailor-youtube-thumbnails-for-maximum-impact/"><u>[New] In 2024, How to Tailor YouTube Thumbnails for Maximum Impact</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-in-2024-transform-your-digital-self-updating-status-and-avatars-on-discord/"><u>[New] In 2024, Transform Your Digital Self  Updating Status & Avatars on Discord</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-slomo-videography-the-complete-app-analysis-for-2024/"><u>[New] SloMo Videography  The Complete App Analysis for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-sync-splice-and-spruce-pro-video-editing-in-one-tool/"><u>[New] Sync, Splice & Spruce  Pro Video Editing in One Tool</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-fostering-engagement-creating-budget-friendly-youtube-intros/"><u>[Updated] 2024 Approved  Fostering Engagement  Creating Budget-Friendly YouTube Intros</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-fresh-bgm-leading-lines-in-the-realm-of-yt-shorts/"><u>[Updated] 2024 Approved  Fresh BGM  Leading Lines in the Realm of YT Shorts</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-live-demos-to-online-sharing-mastering-idevice-screenshots-for-video-content/"><u>[Updated] 2024 Approved  From Live Demos to Online Sharing  Mastering iDevice Screenshots for Video Content</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-gain-yt-prompts-prowess-with-environmentally-friendly-methods/"><u>[Updated] 2024 Approved  Gain YT Prompts Prowess with Environmentally Friendly Methods</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-graphical-forecast-the-dominant-23-social-themes/"><u>[Updated] 2024 Approved  Graphical Forecast  The Dominant '23 Social Themes</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-green-screen-mastery-essential-free-lessons-from-youtubes-best-4-channels/"><u>[Updated] 2024 Approved  Green Screen Mastery  Essential Free Lessons From YouTube's Best 4 Channels</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-first-timer-finds-low-cost-high-return-monetized-youtube-sites-for-2024/"><u>[Updated] First-Timer Finds  Low-Cost, High-Return Monetized YouTube Sites for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-fun-flicks-online-must-see-comedy-streaming-stations-for-2024/"><u>[Updated] Fun Flicks Online  Must-See Comedy Streaming Stations for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-harmonic-haven-best-dj-template-selections-for-2024/"><u>[Updated] Harmonic Haven  Best DJ Template Selections for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-highlighted-viewer-insights-unveiled-for-2024/"><u>[Updated] Highlighted Viewer Insights Unveiled for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-how-to-convert-fast-videos-on-iphone-into-slow-motion-magic-for-2024/"><u>[Updated] How to Convert Fast Videos on iPhone Into Slow Motion Magic for 2024</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-in-2024-beat-the-competition-designing-unforgettable-tiktok-dancing-on-a-mac/"><u>[Updated] In 2024, Beat the Competition  Designing Unforgettable TikTok Dancing on a Mac</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-the-finest-30-screen-recorder-tools-on-ubulinux/"><u>[Updated] In 2024, The Finest 30 Screen Recorder Tools on UbuLinux</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-crafting-your-professional-space-setting-up-an-account-on-ig/"><u>2024 Approved  Crafting Your Professional Space  Setting Up an Account on IG</u></a></li>
+<li><a href="https://howto.techidaily.com/cellular-network-not-available-for-voice-calls-on-infinix-hot-30-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Cellular Network Not Available for Voice Calls On Infinix Hot 30 5G | Dr.fone</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/how-to-achieve-clear-sound-tracks-with-audacity-by-eliminating-noise/"><u>How to Achieve Clear Sound Tracks with Audacity by Eliminating Noise</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-sharefake-location-on-whatsapp-for-honor-90-pro-drfone-by-drfone-virtual-android/"><u>How to Share/Fake Location on WhatsApp for Honor 90 Pro | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-7-top-ways-to-resolve-apple-id-not-active-issue-for-apple-iphone-xs-by-drfone-ios/"><u>In 2024, 7 Top Ways To Resolve Apple ID Not Active Issue For Apple iPhone XS</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-cast-motorola-moto-g14-screen-to-pc-using-wifi-drfone-by-drfone-android/"><u>In 2024, How to Cast Motorola Moto G14 Screen to PC Using WiFi | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-after-switching-from-vivo-x90s-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data After Switching From Vivo X90S to Latest Samsung | Dr.fone</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-the-essential-guide-to-video-spinning-in-vlc-media-player/"><u>In 2024, The Essential Guide to Video Spinning in VLC Media Player</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/optimal-voice-modification-software-for-video-makers-for-2024/"><u>Optimal Voice Modification Software for Video Makers for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/rtx-3080-troubleshooting-resurrect-your-gaming-experience/"><u>RTX 3080 Troubleshooting: Resurrect Your Gaming Experience</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/step-by-step-guide-to-tiktok-sound-as-your-phones-ringtone-for-2024/"><u>Step-by-Step Guide to TikTok Sound as Your Phone's Ringtone for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/unleashing-funimate-on-android-step-by-step-apk-tutorial/"><u>Unleashing Funimate on Android - Step-by-Step APK Tutorial</u></a></li>
+</ul></div>

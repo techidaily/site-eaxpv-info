@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  How to Use Google Trends to Come up with Video Ideas?\""
-date: 2024-06-06T14:00:29.476Z
-updated: 2024-06-07T14:00:29.476Z
+date: 2024-07-16T02:25:11.136Z
+updated: 2024-07-17T02:25:11.136Z
 tags:
   - ai video
   - ai youtube
@@ -34,6 +34,9 @@ Google Trends, of course!
 
 Google Trends is a completely free tool you can use to determine what’s trending on YouTube or in Google’s search engine. Here’s how you can use Google Trends to figure out what’s trending in your niche and make a video before there’s tons of competition.
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 1: Seeing The Big Picture
 
 ![Google Trends YouTube Ideas](https://images.wondershare.com/filmora/article-images/how-to-use-google-trends-to-come-up-with-video-seeing-big-picture.jpg)
@@ -76,6 +79,9 @@ Having something to say doesn’t have to mean having a strong opinion. If you j
 
 Clicking on these results will give you more specific data including how often the topic has been searched recently and links to recent news articles. These can give you a better idea of why it is trending and help you come up with what you want to say.
 
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Part 3: Battle of the Keywords
 
 Once you have a topic in mind for your next video – whether it came from Google Trends or your own noggin – think about what the most important keyword for that topic might be.
@@ -98,6 +104,9 @@ There, now I can see how the popularity of Filmora as a search term has spiked o
 
 Next, what other words do I want to include in my video title? Is this a review, a tutorial, or a how-to? By clicking on my search term Filmora, I can edit it to read ‘filmora review’. Then I can click **\+ Compare** and type in ‘filmora tutorial’ and ‘how to use Filmora’. Google Trends will create a chart comparing the popularity of those 3 terms.
 
+<!-- affiliate ads begin -->
+<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Google Trends Filmora Keywords](https://images.wondershare.com/filmora/article-images/google-trends-search-term-comparison.jpg)
 
 _I also ‘zoomed out’ to 90 days – if I’d only looked at how they compared over the last week my results could have been skewed._
@@ -106,6 +115,9 @@ It’s pretty clear from the chart that ‘filmora review’ is the strongest of
 
 Although, when you do a comparison like this you should also go to YouTube and search for each potential keyword/phrase individually. It might turn out that there is a ton of strong competition for the most popular search term, and not as much for the second or third most popular. Here’s a search for ‘Filmora Review’ on YouTube:
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![YouTube search Filmora Keyword](https://images.wondershare.com/filmora/article-images/google-trends-youtube-keyword-search.jpg)
 
 _If my view of YouTube looks different from yours it’s because I’m using the [VidIQ plugin for Chrome](https://chrome.google.com/webstore/detail/vidiq-vision-for-youtube/pachckjkecffpdphbpmfolblodfkgbhl?hl=en). It’s free and it gives you all kinds of extra info about videos and channels._
@@ -118,7 +130,10 @@ One of the biggest benefits of identifying trends and making videos about them q
 
 Want to make coming up with YouTube video ideas a habit? [This post here](https://www.filmora.io/community-blog/how-to-come-up-with-better-youtube-video-ideas-391.html) will help you develop a process to generate more ideas and properly evaluate them.
 
-## Making Better YouTube Videos with [Filmora](https://tools.techidaily.com/wondershare/filmora/download/)
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## Making Better YouTube Videos with Filmora
 
 As one of the most widely used video editing software among YouTubers, Filmora provides plentiful editing tools, such as cut, trim, [video stabilization](https://tools.techidaily.com/wondershare/filmora/download/), [noise removal](https://tools.techidaily.com/wondershare/filmora/download/), [chroma key compositing](https://tools.techidaily.com/wondershare/filmora/download/), and color grading. Besides, there are royalty-free music track and sound effects available in the built-in Audio library, and title templates and presets, as well as elements and effects. Download the free trial version below and get started now.
 
@@ -143,6 +158,68 @@ Follow @Richard Bennett
 
 # How to Make a Cooking Video in Steps - an Ultimate Guide
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-raw-footage-to-engaging-content-streamlining-video-edits-on-windows/"><u>[New] 2024 Approved  From Raw Footage to Engaging Content  Streamlining Video Edits on Windows</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-gamers-sound-showdown-the-top-5-headset-list/"><u>[New] 2024 Approved  Gamers' Sound Showdown  The Top 5 Headset List</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-get-free-green-screen-effects-from-4-youtube-channels/"><u>[New] 2024 Approved  Get Free Green Screen Effects From 4 YouTube Channels</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-make-fortnite-thumbnail-for-free-and-easy/"><u>[New] 2024 Approved  How to Make Fortnite Thumbnail for Free and Easy</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-rip-audio-from-youtube-in-3-ways-free-and-safe/"><u>[New] 2024 Approved  How to Rip Audio From YouTube in 3 Ways [Free and Safe]</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-unlocking-the-secrets-to-outstanding-documentary-storytelling/"><u>[New] 2024 Approved  Unlocking the Secrets to Outstanding Documentary Storytelling</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-best-screen-recording-tips/"><u>[New] Best Screen Recording Tips</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-enhancing-video-signals-with-youtube-cards-for-2024/"><u>[New] Enhancing Video Signals with YouTube Cards for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-from-concept-to-classroom-a-guide-to-creating-engaging-edu-videos-on-youtube-for-2024/"><u>[New] From Concept to Classroom  A Guide to Creating Engaging Edu-Videos on YouTube for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-full-scope-understanding-online-performance-artists-for-2024/"><u>[New] Full Scope  Understanding Online Performance Artists for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-guide-eradicating-pending-videos-on-your-youtube-queue-for-2024/"><u>[New] Guide  Eradicating Pending Videos on Your YouTube Queue for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-hottest-youtube-music-playback-responses-23-for-2024/"><u>[New] Hottest YouTube Music Playback Responses '23 for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-how-to-convert-youtube-to-mp4-safely-step-by-step-guide-for-2024/"><u>[New] How to Convert YouTube to MP4 Safely? [Step by Step Guide] for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-how-to-live-stream-to-youtube-with-wirecast-in-2024/"><u>[New] How to Live Stream to Youtube with Wirecast, In 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-how-to-record-good-audio-without-a-microphone-for-2024/"><u>[New] How to Record Good Audio Without a Microphone for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-free-profile-imagery-for-youtubers/"><u>[New] In 2024, Free Profile Imagery for YouTubers</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-fresh-topics-to-cover-in-your-vlogs/"><u>[New] In 2024, Fresh Topics to Cover in Your Vlogs</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-hobby-to-career-the-transition-to-youtube-gaming/"><u>[New] In 2024, From Hobby to Career  The Transition to YouTube Gaming</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-future-of-techno-gaming-revenue/"><u>[New] In 2024, Future of Techno-Gaming Revenue</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-gamers-path-to-earnings-on-youtube/"><u>[New] In 2024, Gamer's Path to Earnings on YouTube</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-growing-engagement-ethically-youtube-success-stories/"><u>[New] In 2024, Growing Engagement Ethically  YouTube Success Stories</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-guidelines-to-frame-your-youtube-creation-flow/"><u>[New] In 2024, Guidelines to Frame Your YouTube Creation Flow</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-get-thousands-of-youtube-views-in-30-days/"><u>[New] In 2024, How To Get Thousands of YouTube Views in 30 Days</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-6-effective-ways-to-add-live-facebook-content-online/"><u>[Updated] 2024 Approved  6 Effective Ways to Add Live Facebook Content Online</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-framecraft-videocutter/"><u>[Updated] 2024 Approved  FrameCraft VideoCutter</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-free-templates-for-dynamic-youtube-channel-closures/"><u>[Updated] 2024 Approved  Free Templates for Dynamic YouTube Channel Closures</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-gamers-dream-the-ultimate-compilation-of-best-yt-game-entrances/"><u>[Updated] 2024 Approved  Gamer's Dream  The Ultimate Compilation of Best YT Game Entrances</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-the-workings-of-youtube-after-a-video-is-published/"><u>[Updated] 2024 Approved  The Workings of YouTube After a Video Is Published</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-free-gift-guide-all-about-our-50-unique-youtube-ads-for-you-for-2024/"><u>[Updated] Free Gift Guide  All About Our 50 Unique YouTube Ads for You for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-from-casual-follower-to-dedicated-subscriber-inspirational-journey-for-2024/"><u>[Updated] From Casual Follower to Dedicated Subscriber  Inspirational Journey for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-from-startup-to-success-skyrocketing-youtube-subs-for-2024/"><u>[Updated] From Startup to Success  Skyrocketing Youtube Subs for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-from-vlogger-to-earnest-by-year-end-following-sourav-joshis-examples-for-2024/"><u>[Updated] From Vlogger to Earnest by Year End - Following Sourav Joshi's Examples for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-hits-at-hyperspeed-the-fast-track-to-100-million-views-on-youtube-in-24-for-2024/"><u>[Updated] Hits at Hyperspeed  The Fast Track to 100 Million Views on YouTube in '24 for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-how-much-money-flows-from-a-million-views-on-youtube-for-2024/"><u>[Updated] How Much Money Flows From A Million Views On YouTube for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-flair-and-finesse-in-your-gaming-youtube-channel/"><u>[Updated] In 2024, Flair and Finesse in Your Gaming YouTube Channel</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-flash-vids-unpacked-whats-inside/"><u>[Updated] In 2024, Flash Vids Unpacked  What's Inside?</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-getting-your-foot-in-the-channels-door-must-haves/"><u>[Updated] In 2024, Getting Your Foot in the Channel's Door  Must-Haves</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-growth-hacking-for-youtube-stars-maximizing-fans/"><u>[Updated] In 2024, Growth Hacking for YouTube Stars  Maximizing Fans</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-harmonize-your-listens-the-complete-path-to-youtube-playlist-making-webmobile/"><u>[Updated] In 2024, Harmonize Your Listens  The Complete Path to YouTube Playlist Making (Web/Mobile)</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-create-youtube-channel-in-mobile-with-ease-personal-and-business/"><u>[Updated] In 2024, How to Create YouTube Channel in Mobile with Ease [Personal & Business]</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-make-a-youtube-intro-video-2-ways/"><u>[Updated] In 2024, How to Make A YouTube Intro Video [2 Ways]</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-the-buzz-creation-blueprint-for-marketing-success/"><u>[Updated] In 2024, The Buzz-Creation Blueprint for Marketing Success</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-shared-surface-video-chronicling/"><u>[Updated] Shared Surface Video Chronicling</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-turn-views-into-earnings-monetize-with-more-than-500-subscribers/"><u>[Updated] Turn Views Into Earnings  Monetize with More than 500 Subscribers</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-journey-to-storytelling-gear-selection-guide/"><u>2024 Approved  Journey to Storytelling  Gear Selection Guide</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-the-artisans-approach-to-gathering-stock-visuals-for-use/"><u>2024 Approved  The Artisan's Approach to Gathering Stock Visuals for Use</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-ultimate-list-of-costless-online-editors-for-professionals/"><u>2024 Approved  Ultimate List of Costless Online Editors for Professionals</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/2024-approved-windows-exclusive-silence-extraction-software-reviews/"><u>2024 Approved Windows-Exclusive Silence Extraction Software Reviews</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/5-myths-busted-the-real-power-of-polyglots/"><u>5 Myths Busted: The Real Power of Polyglots</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/delete-gmail-account-withwithout-password-on-itel-a60-by-drfone-android/"><u>Delete Gmail Account With/Without Password On Itel A60</u></a></li>
+<li><a href="https://howto.techidaily.com/full-solutions-to-fix-error-code-920-in-google-play-on-samsung-galaxy-m14-4g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Full Solutions to Fix Error Code 920 In Google Play on Samsung Galaxy M14 4G | Dr.fone</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/harmonizing-visuals-and-soundtracks-with-youtubes-video-editor/"><u>Harmonizing Visuals & Soundtracks with YouTube's Video Editor</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-fix-iphone-se-2020-passcode-not-working-by-drfone-ios/"><u>In 2024, How to Fix iPhone SE (2020) Passcode not Working?</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-network-locked-sim-card-inserted-on-your-xiaomi-redmi-12-phone-unlock-it-now-by-drfone-android/"><u>In 2024, Network Locked SIM Card Inserted On Your Xiaomi Redmi 12 Phone? Unlock It Now</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-sleek-screenscape-top-wallpapers-for-your-device/"><u>In 2024, Sleek Screenscape  Top Wallpapers for Your Device</u></a></li>
+</ul></div>

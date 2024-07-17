@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  How to Host a Webinar on YouTube for Free\""
-date: 2024-06-06T15:22:30.005Z
-updated: 2024-06-07T15:22:30.005Z
+date: 2024-07-16T04:27:53.347Z
+updated: 2024-07-17T04:27:53.347Z
 tags:
   - ai video
   - ai youtube
@@ -18,6 +18,9 @@ thumbnail: https://thmb.techidaily.com/06c74021872dcc3b0ce900f997f142db31fade534
 
 # How to Host a Webinar on YouTube for Free
 
+<!-- affiliate ads begin -->
+<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 ##### Max Wales
@@ -28,6 +31,9 @@ Promoting products, offering educational content or in-depth tutorials on virtua
 
 An alternative solution is available if your budget is tight, but you'd still like to produce a great webinar. We are going to take you through all the steps you'll need to take if you'd like to host a webinar for free and help you spread the word about the products and services you're offering.
 
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Filmora logo](https://images.wondershare.com/filmora/logo_icon/wondershare-filmora-logo-horizontal.png) ![filmora product interface](https://images.wondershare.com/filmora/images/common/filmora-product-banner.png)
 
 ### The All-in-One Screen Recorder & Video Editor
@@ -45,8 +51,14 @@ For Win 7 or later (64-bit)
 
 For macOS 10.12 or later
 
-![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg)Secure Download
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
+![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg) Secure Download
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Hosting a Webinar for Free
 
 The world's largest video sharing platform also features broadcasting options that enable its users to schedule events and thus host webinars free of charge. Previously known as the Google Hangouts on Air, the YouTube Live feature is fairly simple to set up, but before you start your first webinar you will need to choose a landing page and a chatbox. If you already have a website you can simply copy and paste the embed link and create a landing page for your webinar, or you can use landing pages software products such as [LeadPages](https://www.leadpages.net/) or [Unbounce](https://unbounce.com/) if you don't have your own online domain. For setting up chatboxes for your webinars we recommend using [Chatroll](https://chatroll.com/) or [RumbleTalk](https://www.rumbletalk.com/) platforms, although you'll have to pay a fee if you choose to chat with your audience using these computer programs. So here's how you can host your first webinar on YouTube for free.
@@ -94,6 +106,9 @@ Follow @Max Wales
 
 # How to Get More Subscribers on YouTube
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 ##### Richard Bennett
@@ -130,12 +145,21 @@ If you get a video request, try to do it. People like to feel that you are open 
 
 ![get subscriber](https://images.wondershare.com/filmora/article-images/subscriber02.JPG)
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 4. Optimize your title
 
 Try not to underestimate the importance of a great eye-catching title. Include relevant words and phrases that you think people will search for and don’t just hastily add the first title that comes into your head. The better your title is, the more viewers and subscribers you are likely to amass.
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![title](https://images.wondershare.com/filmora/article-images/optimize-title.JPG)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 5. Be Patient
 
 Almost all vlogs grow slowly at first; the first 1000 subscribers take the longest to get. It takes a lot of patience to keep producing content on a regular schedule when it seems like not many people are watching, but you need to stick with it in order to grow.
@@ -148,6 +172,9 @@ You can gain extra drive and momentum by setting yourself attainable goals and e
 
 ![goals](https://images.wondershare.com/filmora/article-images/set-goals.JPG)
 
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 2. Contests can be funny – why not enter one?
 
 One way to increase subscribers is to take part in a contest. A site called Gleam can oversee a contest for you. It’s up to you to choose how you want the contest to work, and you can gain an edge over your competitors by getting people to leave comments, follow you on Instagram, subscribe to your channel and more.
@@ -164,6 +191,9 @@ Don’t waffle on – try to get your clip down to 90 seconds maximum. Include c
 
 ![trailer](https://images.wondershare.com/filmora/article-images/create-killer-youtube-channel-trailer.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
+<!-- affiliate ads end -->
 ### 4. Make a Schedule and Stick To It
 
 You want to vlog at least once a week, and making a schedule will help you keep on top of that. It will also give your subscribers a chance to anticipate your videos and get excited. They are more likely to watch an update they have been expecting than one that was not already on their minds.
@@ -200,12 +230,18 @@ Knowledge is power and, if you want to attract real people to your channel, you 
 
 Also, be especially sure to watch videos from those channels you found in Step 1 and subscribed to in Step 2\. Try to watch at least two minutes of content from those channels whenever they upload.
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 4. Comment thoughtfully. Don’t ask for anything in return
 
 Most YouTubers are delighted to hear someone else's positive opinion or constructive criticism regarding their work. The reason you are watching 2 minutes of content per video in Step 3 is so that you will really have something to say in this step.
 
 If you do make a thoughtful comment, and especially if you use the time stamp of the part of the video you’re referring to, the video creator will know you have watched the video and that you are not just another spammer. Avoid the sub-4-sub strategy, and don't be the person who's always saying 'Subscribe to my channel'. You will be ignored by both the creator and other viewers, and the creator will find you annoying. However, if you comment regularly without asking for anything, the creator and some of their viewers will naturally decide to check out your channel.
 
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 5. Reach out on social media
 
 YouTube is just one out of many channels through which you can reach like-minded people. Facebook, Instagram, Pinterest or any other social network can help you network with other creators and potential subscribers. Create accounts on social networks you find the most suitable for your video category and share links to your videos on these accounts as often as you can. Furthermore, if you try to foster real discussions about topics that are relevant, people who get to know you through these other platforms will probably decide to check out your YouTube channel.
@@ -222,6 +258,9 @@ When you build your presence on YouTube in this way, other creators and their su
 
 Some people might need to watch multiple videos by you before they decide they want to subscribe. If you stop making videos because you did not get any subscribers or comments on your first few then chances are there were people who were paying attention who may have subscribed if you had kept at it.
 
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
@@ -241,3 +280,47 @@ Follow @Richard Bennett
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-discover-variety-50-complimentary-youtube-banners-available/"><u>[New] 2024 Approved  Discover Variety – 50 Complimentary YouTube Banners Available</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-enhancing-video-discoverability-with-effective-titles-and-tags/"><u>[New] 2024 Approved  Enhancing Video Discoverability with Effective Titles & Tags</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/utoplay-youtube-on-mobile-no-distractions/"><u>[New] AutoPlay YouTube on Mobile, No Distractions</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-can-you-receive-a-monthly-check-from-youtube-for-2024/"><u>[New] Can You Receive a Monthly Check From YouTube for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-charting-the-course-to-youtube-fame-strategic-video-release-frequency-for-2024/"><u>[New] Charting the Course to YouTube Fame  Strategic Video Release Frequency for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-asmr-recommendations-for-android-users/"><u>[New] In 2024, ASMR Recommendations for Android Users</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-downloading-with-confidence-your-vrecorder-guide/"><u>[New] In 2024, Downloading with Confidence  Your VRecorder Guide</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-harness-the-power-of-your-mobile-content-on-youtube-starting-now/"><u>[New] In 2024, Harness the Power of Your Mobile Content on YouTube, Starting Now</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-keep-unwanted-content-away-from-your-computer-and-phone/"><u>[New] In 2024, How to Keep Unwanted Content Away From Your Computer and Phone</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-the-art-of-inspiration-crafting-captivating-ig-posts/"><u>[New] In 2024, The Art of Inspiration  Crafting Captivating IG Posts</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-live-video-magic-broadcast-youtube-secrets-using-obs/"><u>[New] Live Video Magic  Broadcast Youtube Secrets Using OBS</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-mastering-the-art-of-sharing-on-reddit-your-complete-guide-for-2024/"><u>[New] Mastering the Art of Sharing on Reddit - Your Complete Guide for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-tackling-the-mystery-of-missing-shorts-video-images/"><u>[New] Tackling the Mystery of Missing Shorts Video Images</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-tutorial-posting-restricted-youtube-to-gmail-accounts/"><u>[New] Tutorial  Posting Restricted YouTube to Gmail Accounts</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-unveiling-the-secrets-to-high-impact-live-streaming-with-wirecast-on-youtube/"><u>[New] Unveiling the Secrets to High-Impact Live Streaming with WireCast on YouTube</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-avoiding-illegal-content-youtube-to-mp4-transfer-safely/"><u>[Updated] 2024 Approved  Avoiding Illegal Content  YouTube to MP4 Transfer Safely</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-end-scenes-unlocked-tutorials-to-enhance-viewing-experience/"><u>[Updated] 2024 Approved  End Scenes Unlocked  Tutorials to Enhance Viewing Experience</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-enhancing-content-strategy-with-targeted-tagging/"><u>[Updated] 2024 Approved  Enhancing Content Strategy with Targeted Tagging</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-fresh-ideas-to-talk-about-in-daily-vlogging/"><u>[Updated] 2024 Approved  Fresh Ideas to Talk About in Daily Vlogging</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-game-up-your-content-with-these-effective-freefire-video-hashtags/"><u>[Updated] 2024 Approved  Game Up Your Content with These Effective FreeFire Video Hashtags</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-charting-the-future-essential-online-stock-yts-for-2024/"><u>[Updated] Charting the Future  Essential Online Stock YTs for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-bring-imagination-to-life-self-animated-artistry/"><u>[Updated] In 2024, Bring Imagination to Life  Self-Animated Artistry</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-capturing-the-best-visuals-in-vlogs/"><u>[Updated] In 2024, Capturing the Best Visuals in Vlogs</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-dissecting-revenue-allocation-for-shortform-content-makers/"><u>[Updated] In 2024, Dissecting Revenue Allocation for Shortform Content Makers</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-mastering-youtube-channel-names-a-complete-list-for-vloggers-keep-it-at-or-below-156-characters/"><u>[Updated] Mastering YouTube Channel Names  A Complete List for Vloggers (Keep It at or Below 156 Characters)</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-raucous-revelations-top-10-scenarios-for-comedy-driven-videography/"><u>[Updated] Raucous Revelations  Top 10 Scenarios for Comedy-Driven Videography</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-shedding-light-techniques-for-improving-youtube-video-quality/"><u>[Updated] Shedding Light  Techniques for Improving YouTube Video Quality</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-step-by-step-guide-to-background-dimming-in-videos/"><u>[Updated] Step-by-Step Guide to Background Dimming in Videos</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-transform-concepts-to-successful-youtube-titles/"><u>[Updated] Transform Concepts to Successful YouTube Titles</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-clear-path-to-crisp-videography-on-a-gopro/"><u>2024 Approved  The Clear Path to Crisp Videography on a GoPro</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-iphones-finest-leading-cost-free-photo-layout-apps-ranked/"><u>In 2024, IPhone's Finest  Leading Cost-Free Photo Layout Apps Ranked</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-quieting-audible-outputs-a-windowsmac-guide/"><u>In 2024, Quieting Audible Outputs  A Windows/Mac Guide</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-celestial-sound-shift-exploring-the-features-user-manuals-and-alternatives-for-star-voice-transformation/"><u>New Celestial Sound Shift Exploring the Features, User Manuals & Alternatives for Star Voice Transformation</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/select-5-high-quality-audio-headphones-for-2024/"><u>Select 5 High-Quality Audio Headphones for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/stepwise-simplification-broadcasting-personal-yt-videos-using-gmail-for-2024/"><u>Stepwise Simplification  Broadcasting Personal YT Videos Using Gmail for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/the-blueprint-for-adhering-to-youtube-community-guidelines-for-2024/"><u>The Blueprint for Adhering to YouTube Community Guidelines for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/the-mathematics-behind-making-money-from-snippets-for-2024/"><u>The Mathematics Behind Making Money From Snippets for 2024</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/the-ultimate-guide-to-realme-narzo-n53-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/"><u>The Ultimate Guide to Realme Narzo N53 Pattern Lock Screen Everything You Need to Know</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/transforming-tiktok-to-pop-with-top-gif-tools-for-2024/"><u>Transforming TikTok to Pop with Top GIF Tools for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/visualslice-software-for-2024/"><u>VisualSlice Software for 2024</u></a></li>
+</ul></div>

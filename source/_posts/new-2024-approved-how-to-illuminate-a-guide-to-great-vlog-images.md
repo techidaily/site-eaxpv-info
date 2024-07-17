@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  How to Illuminate  A Guide to Great Vlog Images\""
-date: 2024-07-02T20:09:48.803Z
-updated: 2024-07-03T20:09:48.803Z
+date: 2024-07-16T04:47:13.287Z
+updated: 2024-07-17T04:47:13.287Z
 tags:
   - ai video
   - ai youtube
@@ -18,6 +18,9 @@ thumbnail: https://thmb.techidaily.com/8ea49d46a7efdbdbce7ce2f715d9bd1879477faba
 
 # Lighting Tips for Vlogging: How to Light
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 ##### Richard Bennett
@@ -28,6 +31,9 @@ One of the best things you can do for your video quality is to ensure you have g
 
 Going outside and using natural light is the cheapest way to get a lot of light for your videos. If your vlog is not suited to the great outdoors then you need to get more strategic. You can turn on all the lights in your living room and still end up with a dark, grainy, video.
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Video Lighting Basics: Three Point Lighting
 
 ![Lighting for YouTube Video](https://images.wondershare.com/filmora/article-images/three-point-lighting.jpg)
@@ -44,8 +50,14 @@ The **fill light** is less bright than the primary source of light and it is pla
 
 The final step to creating three point lighting is to set up another light behind you. This is your 'Backlight', and it will help you stand out from your background. **Backlight or Hair light** is always placed behind and above the subject to create separation between the subject in the shot and the background. This basic lighting technique can be applied in almost every scene you shoot, which is why it is important to keep an open mind and to continue experimenting with possible light setups.
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Watch Video! Top Lighting Tips for Vlogging
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Lightning Tips for Aspiring YouTube Videographers
 
 Becoming the master of light will take some time and practice, so it is crucial to remain curious and anxious to learn new tricks throughout that process if you want to continually become better. These tips will help you make the first steps on that journey.
@@ -76,6 +88,9 @@ If your strong main light is too hard on your eyes then you can use a translucen
 
 If you are hosting a **beauty vlog** then you might consider a slightly different set up. Instead of having your main light off to one side set it up directly in front of you so your entire face is lit evenly. It is still a good idea to use fill lights in this set up to give you some dimension, and a backlight is even more essential for helping you stand out from the background. The even light hitting your face will also make you look flat if you do not use a backlight.
 
+<!-- affiliate ads begin -->
+<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![lighting tips](https://images.wondershare.com/filmora/article-images/lighting-tips02.JPG)
 
 If you are using all of the lighting options available to you and your video still looks too dark then you can try brightening it by **opening up the aperture of your camera** lens/setting a lower f-stop. Letting more light into your camera can help your footage look brighter, although you also run the risk of making things look overexposed/ washed out if you are not careful.
@@ -97,6 +112,9 @@ Follow @Richard Bennett
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
+<!-- affiliate ads end -->
 ## All-Time Highest Chart: YouTube's Premier Video List
 
 # Top 10 Most Viewed Videos on YouTube of All Time
@@ -104,3 +122,51 @@ Follow @Richard Bennett
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-capture-the-magic-our-list-of-top-12-cameras-for-exceptional-vlogs/"><u>[New] 2024 Approved  Capture the Magic  Our List of Top 12 Cameras for Exceptional Vlogs</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-easy-effective-strategy-immediate-clearance-of-unwanted-youtube-comments/"><u>[New] 2024 Approved  Easy, Effective Strategy  Immediate Clearance of Unwanted YouTube Comments</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-finding-the-balance-adding-videos-to-text-on-a-budget/"><u>[New] 2024 Approved  Finding the Balance  Adding Videos to Text on a Budget</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-boosting-channels-growth-strategies-for-effective-trailers-for-2024/"><u>[New] Boosting Channels' Growth  Strategies for Effective Trailers for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-digital-dominion-rise-as-a-youtube-guru-for-2024/"><u>[New] Digital Dominion  Rise as a YouTube Guru for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-discover-the-best-12-free-and-paid-video-game-openings-for-yt-for-2024/"><u>[New] Discover the Best 12 Free and Paid Video Game Openings for YT for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-enhancing-video-quality-with-right-lighting-for-2024/"><u>[New] Enhancing Video Quality with Right Lighting for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-expressiveness-enhancing-youtube-comments-via-emojis-for-2024/"><u>[New] Expressiveness  Enhancing YouTube Comments via Emojis for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-achieving-financial-freedom-joshis-youtube-tactics/"><u>[New] In 2024, Achieving Financial Freedom  Joshi’s YouTube Tactics</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-dissecting-the-financial-lifeblood-of-tseries-via-youtube-engagement/"><u>[New] In 2024, Dissecting the Financial Lifeblood of TSeries via YouTube Engagement</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-enhance-listening-pleasure-constructing-a-youtube-playlist/"><u>[New] In 2024, Enhance Listening Pleasure  Constructing a YouTube Playlist</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-creation-to-consumption-igtv-vs-youtube-explained-for-you/"><u>[New] In 2024, From Creation to Consumption  IGTV Vs. YouTube Explained for You</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-craft-standout-names-for-your-youtube-channel/"><u>[New] In 2024, How to Craft Standout Names for Your YouTube Channel</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-craft-top-quality-youtube-thumbnails-fast/"><u>[New] In 2024, How To Craft Top Quality YouTube Thumbnails Fast</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-instant-animation-from-youtube-videos-to-compelling-gifs/"><u>[New] Instant Animation  From YouTube Videos to Compelling GIFs</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-iphones-guide-to-night-photography-excellence/"><u>[New] IPhone's Guide to Night Photography Excellence</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-top-10-video-editing-secrets-to-skyrocket-your-channels/"><u>[New] Top 10 Video Editing Secrets to Skyrocket Your Channels</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-unlinking-from-youtube-shorts-the-complete-process/"><u>[New] Unlinking From YouTube Shorts - The Complete Process</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-boosting-visuals-mastering-youtubes-video-enhancement-tools/"><u>[Updated] 2024 Approved  Boosting Visuals  Mastering YouTube's Video Enhancement Tools</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-essential-iphone-app-recommendations-for-watermarking-pics/"><u>[Updated] 2024 Approved  Essential iPhone App Recommendations for Watermarking Pics</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-5-second-stories-explained-well-for-2024/"><u>[Updated] 5-Second Stories Explained Well for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-amplify-your-voice-on-youtube-mastery-through-tubebuddy-for-2024/"><u>[Updated] Amplify Your Voice on YouTube - Mastery Through TubeBuddy for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-crafting-a-pro-sports-youtube-feed-on-macos-for-2024/"><u>[Updated] Crafting a Pro Sports YouTube Feed on MacOS for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-frameworks-producing-uplifting-life-journey-broadcasts/"><u>[Updated] Frameworks  Producing Uplifting Life Journey Broadcasts</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-from-script-to-spectacle-independent-effect-innovation-for-2024/"><u>[Updated] From Script to Spectacle  Independent Effect Innovation for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-happy-days-with-anime-discovering-the-best-channels-of-2023-for-2024/"><u>[Updated] Happy Days with Anime  Discovering the Best Channels of 2023 for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-aspect-ratios-unveiled-your-guide-to-stellar-yt-images/"><u>[Updated] In 2024, Aspect Ratios Unveiled  Your Guide to Stellar YT Images</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-best-8-mirrorless-cameras-to-elevate-your-vlogging-game/"><u>[Updated] In 2024, Best 8 Mirrorless Cameras to Elevate Your Vlogging Game</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-mastering-chroma-key-techniques-for-professional-videos/"><u>[Updated] Mastering Chroma Key Techniques for Professional Videos</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-mastering-youtube-metrics-for-effective-content-strategy/"><u>[Updated] Mastering YouTube Metrics for Effective Content Strategy</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-professional-3d-creation-software-for-video-startups/"><u>[Updated] Professional 3D Creation Software for Video Startups</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-streaming-services-face-off-facebook-youtube-and-spaces/"><u>[Updated] Streaming Services Face-Off  FACEbook, YOUTube, & Spaces</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-make-the-most-of-your-iphone-11-pro-max-lock-screen-with-notifications-drfone-by-drfone-ios/"><u>How to Make the Most of Your iPhone 11 Pro Max Lock Screen with Notifications? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-transfer-music-from-nubia-red-magic-8s-proplus-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways to Transfer Music from Nubia Red Magic 8S Pro+ to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-breaking-into-the-periscope-livestream-arena/"><u>In 2024, Breaking Into the Periscope Livestream Arena</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-move-custom-ringtones-from-apple-iphone-se-2020-to-android-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How to Move Custom Ringtones from Apple iPhone SE (2020) to Android? | Dr.fone</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/nixing-the-green-glow-youtubes-mac-solution-manual-for-2024/"><u>Nixing the Green Glow  YouTube's Mac Solution Manual for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/premier-gamers-streaming-software-for-2024/"><u>Premier Gamers' Streaming Software for 2024</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/spike-youtube-engagement-through-strategic-timing/"><u>Spike YouTube Engagement Through Strategic Timing</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/streamline-animated-subscribe-buttons-in-filmora-for-youtube-success-for-2024/"><u>Streamline Animated Subscribe Buttons in Filmora for YouTube Success for 2024</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/tailoring-thumbnails-for-increased-video-engagement-on-youtube/"><u>Tailoring Thumbnails for Increased Video Engagement on YouTube</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/unlocking-income-insights-googles-simplified-three-step-strategy-for-monetizing-youtube-for-2024/"><u>Unlocking Income Insights  Google's Simplified Three-Step Strategy for Monetizing YouTube for 2024</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-in-2024-unleash-your-creativity-the-top-face-swap-apps-for-iphone-and-android-this-year/"><u>Updated In 2024, Unleash Your Creativity The Top Face Swap Apps for iPhone and Android This Year</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/visualize-your-vision-access-no-cost-templates-for-youtube-creators-for-2024/"><u>Visualize Your Vision – Access No-Cost Templates for YouTube Creators for 2024</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: "[New] How to Upload YouTube Shorts Video From Computer and Mobile for 2024"
-date: 2024-06-06T15:02:18.750Z
-updated: 2024-06-07T15:02:18.750Z
+date: 2024-07-16T03:57:35.870Z
+updated: 2024-07-17T03:57:35.870Z
 tags:
   - ai video
   - ai youtube
@@ -18,6 +18,9 @@ thumbnail: https://thmb.techidaily.com/4f902a43927aa6bf193e9d8b7e9fe3404a519e31c
 
 # How to Upload Shorts Video on YouTube? \[2024\]
 
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 ##### Richard Bennett
@@ -46,6 +49,9 @@ Once you have a video recorded using the first two guidelines from the above lis
 
 Launch your favorite web browser on your PC, go to YouTube, make sure to sign in to your YouTube account, click the **Create** (**Camera**) icon from the top-right corner of the web page, click **SELECT FILES** on the **Upload videos** window, and locate, select, and upload a short video from your PC to the portal.
 
+<!-- affiliate ads begin -->
+<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Upload YouTube Shorts Video](https://images.wondershare.com/filmora/article-images/upload-short-videos-interface-on-youtube-pc.jpg)
 
 #### Step 2: Mark the Video as Short
@@ -58,7 +64,7 @@ On the **Details** window that appears, add **#Shorts** in the **Title** or **De
 
 On the **Visibility** window, choose your preferred radio button from under the **Save or publish** section or select **Schedule** to set a different time when the short video should be published automatically. Finally, click **SAVE** to publish the clip as a short video on YouTube from your computer.
 
-![post YouTube Shorts Video  ](https://images.wondershare.com/filmora/article-images/publish-youtube-shorts-video-desktop.jpg)
+![post YouTube Shorts Video](https://images.wondershare.com/filmora/article-images/publish-youtube-shorts-video-desktop.jpg)
 
 To sum up, uploading YouTube Shorts video from desktop has nothing different from uploading regular YouTube video besides the requirements listed at the beginning of this article. If you prefer to [edit videos](https://tools.techidaily.com/wondershare/filmora/download/) for YouTube Shortson a computer, I recommend you to try our video editor [Filmora](https://tools.techidaily.com/wondershare/filmora/download/), which is an ideal solution for YouTubers. Download the free trial version below and get started.
 
@@ -72,16 +78,25 @@ For Win 7 or later (64-bit)
 
 For macOS 10.12 or later
 
+<!-- affiliate ads begin -->
+<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Filmora secure download](https://images.wondershare.com/filmora/images/store/secure.png) Secure Download
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Part 2: How to Upload Short Video on YouTube Mobile App?
 
 The process of **uploading YouTube Shorts** from the mobile app is fairly simple compared to the method used on a computer. While using the app, you can either upload an existing video or shoot a new one from within the program itself then and there, add music and text, and upload it right away. Both these methods are explained below in detail:
 
 **Note:** The guidelines for creating and uploading short videos to YouTube remain the same, regardless of the platform or device you use.
 
+<!-- affiliate ads begin -->
+<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Method 1: Upload an Existing Short Video
 
 **Note:** Make sure to have the target video on the smartphone and that you have downloaded, installed, and signed in to the YouTube app before proceeding.
@@ -110,7 +125,10 @@ Previously, I have introduced [how to record and upload YouTube Shorts videos](h
 
 Please note you will not see the **Create a Short** option if you are outsides of India.
 
-![ Record YouTube Shorts video](https://images.wondershare.com/filmora/article-images/record-create-youtube-short-video-mobile.jpg)
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![Record YouTube Shorts video](https://images.wondershare.com/filmora/article-images/record-create-youtube-short-video-mobile.jpg)
 
 In the YouTube app, tap the **+** (**Add**) button and select **Create** **a Short**. Please note you will not see the **Create a Short** option if you are outsides of India.
 
@@ -132,6 +150,9 @@ On the **Add details** window, enter a name for the video along with the **#Shor
 
 Learning the process of **how to post short videos on YouTube** is fairly simple as long as you have the video recorded in the portrait orientation, it is up to 60 seconds long, and contains the ‘#Shorts’ tag (without quotes) in the title or description. The good thing is, if you don’t have access to the YouTube app on your smartphone, the method for **how to upload short video on YouTube** explained in the first section can be followed while using your desktop computer.
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
@@ -153,6 +174,58 @@ Follow @Richard Bennett
 
 # How to Animate and Make Your Own Effects
 
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-agribuddy-games-celebrating-camaraderie-on-the-farm/"><u>[New] 2024 Approved  AgriBuddy Games  Celebrating Camaraderie on the Farm</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-get-a-cleaner-look-in-your-videos-quickly-and-easily/"><u>[New] 2024 Approved  Get a Cleaner Look in Your Videos Quickly and Easily</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-does-youtube-count-views-its-not-as-simple-as-you-think/"><u>[New] 2024 Approved  How Does YouTube Count Views? It's Not as Simple as You Think</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-does-youtube-manage-post-upload-operations/"><u>[New] 2024 Approved  How Does YouTube Manage Post-Upload Operations?</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-much-money-can-you-make-via-youtube-ad-revenue-and-cpm-rates/"><u>[New] 2024 Approved  How Much Money Can You Make via YouTube Ad Revenue and CPM Rates?</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-choose-between-youtubers-game-entrance-tutorials-cost-included/"><u>[New] 2024 Approved  How to Choose Between Youtubers' Game Entrance Tutorials (Cost Included?)</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-create-a-killer-unboxing-video-a-complete-guide/"><u>[New] 2024 Approved  How to Create a Killer Unboxing Video  A Complete Guide</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-top-10-best-flvto-alternatives-youtube-converter-you-can-try/"><u>[New] 2024 Approved  Top 10 Best Flvto Alternatives YouTube Converter You Can Try</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-fresh-alternative-films-to-dive-into-7-favorites-for-2024/"><u>[New] Fresh Alternative Films to Dive Into, #7 Favorites for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-game-changing-streaming-apps-for-gamers-for-2024/"><u>[New] Game-Changing Streaming Apps for Gamers for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-harnessing-imovies-capabilities-for-youtube-video-perfection-for-2024/"><u>[New] Harnessing iMovie's Capabilities for YouTube Video Perfection for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-maximize-income-a-simplified-3-step-process-for-youtube-revenue-monitoring/"><u>[New] In 2024, How To Maximize Income  A Simplified 3-Step Process for YouTube Revenue Monitoring</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-essential-fb-video-plays-top-10-choices/"><u>[Updated] 2024 Approved  Essential FB Video Plays  Top 10 Choices</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-free-frame-perfection-on-youtube-your-ultimate-guidebook/"><u>[Updated] 2024 Approved  Free Frame Perfection on YouTube - Your Ultimate Guidebook</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-lengthy-video-to-captivating-animation-create-gifs-with-ease/"><u>[Updated] 2024 Approved  From Lengthy Video to Captivating Animation - Create Gifs with Ease</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-gaining-traction-on-youtube-the-successful-sponsorship-roadmap-by-famebit/"><u>[Updated] 2024 Approved  Gaining Traction on YouTube  The Successful Sponsorship Roadmap by FameBit</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-gamer-centric-streaming-tool-selection/"><u>[Updated] 2024 Approved  Gamer-Centric Streaming Tool Selection</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-grow-your-digital-presence-effective-techniques-for-multitasking-on-youtube-and-twitch/"><u>[Updated] 2024 Approved  Grow Your Digital Presence  Effective Techniques for Multitasking on Youtube and Twitch</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-algorithm-changes-shape-your-youtube-visibility/"><u>[Updated] 2024 Approved  How Algorithm Changes Shape Your YouTube Visibility</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/1717717687675-updated-2024-approved-how-to-make-collab-videos-and-grow-your-channel/"><u>[Updated] 2024 Approved  How to Make Collab Videos And Grow Your Channel?</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-search-comments-on-youtube-quickly/"><u>[Updated] 2024 Approved  How to Search Comments on YouTube Quickly?</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-from-videos-to-vibrant-gifs-youtube-conversion-techniques-for-2024/"><u>[Updated] From Videos to Vibrant GIFs  YouTube Conversion Techniques for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-frosty-frameworks-for-warm-video-productions-for-2024/"><u>[Updated] Frosty Frameworks for Warm Video Productions for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-harnessing-viral-power-your-pathway-to-youtube-fame-for-2024/"><u>[Updated] Harnessing Viral Power  Your Pathway to YouTube Fame for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-reverse-a-youtube-playlist-for-2024/"><u>[Updated] How to Reverse a YouTube Playlist for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-gain-more-followers-masterful-youtube-marketing-techniques/"><u>[Updated] In 2024, Gain More Followers  Masterful YouTube Marketing Techniques</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-get-free-youtube-music-anytime-with-these-high-performing-splitters/"><u>[Updated] In 2024, Get Free YouTube Music Anytime With These High-Performing Splitters</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-get-youtube-posters-at-zero-price-top-free-downloading-tool/"><u>[Updated] In 2024, Get YouTube Posters at Zero Price - Top Free Downloading Tool</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-graphical-forecast-the-dominant-23-social-themes/"><u>[Updated] In 2024, Graphical Forecast  The Dominant '23 Social Themes</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-hash-tags-that-catapult-you-to-6k-views-on-youtube/"><u>[Updated] In 2024, Hash Tags That Catapult You to 6K Views on YouTube</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-high-quality-sound-adjustment-apps-for-content-casters/"><u>[Updated] In 2024, High-Quality Sound Adjustment Apps for Content Casters</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-neuroscience-insights-enhance-effective-corporate-governance/"><u>[Updated] In 2024, How Neuroscience Insights Enhance Effective Corporate Governance</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-interactive-techniques-for-periscope-hosts/"><u>[Updated] Interactive Techniques for Periscope Hosts</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-stepping-through-the-art-of-subtle-volume-lowering-in-audacity/"><u>[Updated] Stepping Through the Art of Subtle Volume Lowering in Audacity</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-beyond-wonders-the-unseen-disadvantages-in-vr/"><u>2024 Approved  Beyond Wonders  The Unseen Disadvantages in VR</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/all-you-need-to-know-about-mega-greninja-for-nokia-150-2023-drfone-by-drfone-virtual-android/"><u>All You Need To Know About Mega Greninja For Nokia 150 (2023) | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-reset-a-locked-poco-x5-phone-by-drfone-android/"><u>How to Reset a Locked Poco X5 Phone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-a-complete-guide-to-oem-unlocking-on-vivo-v30-lite-5g-by-drfone-android/"><u>In 2024, A Complete Guide To OEM Unlocking on Vivo V30 Lite 5G</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-oppo-a79-5gwithwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Oppo A79 5Gwith/without a PC</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/leveraging-discords-features-for-high-quality-streaming-for-2024/"><u>Leveraging Discord's Features for High-Quality Streaming for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/mastering-online-persona-transformation-in-discord/"><u>Mastering Online Persona Transformation in Discord</u></a></li>
+<li><a href="https://driver-install.techidaily.com/navigating-issues-with-drivers-on-windows-platforms/"><u>Navigating Issues with Drivers on Windows Platforms</u></a></li>
+<li><a href="https://techidaily.com/sign-txt-file-online-add-signature-to-txt-file-for-free-by-ldigisigner-sign-a-word-sign-a-word/"><u>Sign .txt file Online - Add Signature to .txt file for Free</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/the-exclusive-guide-to-best-4k-screens-for-mac-devotees/"><u>The Exclusive Guide to Best 4K Screens for Mac Devotees</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-redefining-star-sounds-in-depth-look-at-the-latest-vocal-changing-devices-and-methods/"><u>Updated Redefining Star Sounds In-Depth Look at the Latest Vocal Changing Devices & Methods</u></a></li>
+</ul></div>

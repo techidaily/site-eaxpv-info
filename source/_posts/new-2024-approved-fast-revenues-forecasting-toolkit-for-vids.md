@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  Fast Revenues Forecasting Toolkit for Vids\""
-date: 2024-06-06T15:44:47.678Z
-updated: 2024-06-07T15:44:47.678Z
+date: 2024-07-16T05:01:25.643Z
+updated: 2024-07-17T05:01:25.643Z
 tags:
   - ai video
   - ai youtube
@@ -41,6 +41,9 @@ If you're curious about how much money you could make from your channel, or just
 
 Let's take a look at the YouTube Money Calculator now and explore your potential for generating income from your passion for YouTube.
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 1: What's a CPM and How Do YouTube Money Calculators Average It Out?
 
 CPM stands for ‘cost per mille/thousand’ and is the price of a thousand ad impressions (to the advertiser. For the creator, this is the amount of money they make per thousand ad impressions).
@@ -49,6 +52,9 @@ YouTube calculators will never be able to know the CPM for a YouTube channel as 
 
 However, by taking an average of some of the current CPM rates from advertisers on YouTube, calculators are able to average out what a YouTube channel could be making. Keep in mind that, usually, the numbers that they use can be a bit on the high side compared to actual earnings. At times, though, these calculators can be very close.
 
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 2: The Free YouTube Money Calculator
 
 The YouTube Money Calculator is a free calculator tool that allows you to estimate the money obtained from any YouTube video. Calculations are entirely based on the number of views and an average CPM of $2 - $5\. A user just needs to insert the total number of video views that they think they can get or that another channel has to discover how much a person could earn or be earning.
@@ -83,6 +89,9 @@ Some of the best YouTube Money Calculator alternatives available are:
 
 Social Blade delivers a calculation based on a CPM rate between .25 cents and $4 USD. Users need only type in the name of the channel they are interested in and Social Blade will deliver all kinds of information about that channel, like how many subscribers and views it received in the last 30 days. It will also include estimates of monthly and yearly earnings. The revenue results are adjusted based off of the overall size of the channel and the total number of views that they receive each day. You can even scroll down for estimates of daily earnings listed by date.
 
+<!-- affiliate ads begin -->
+<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 2. How Influencer Marketing Hub Calculates YouTube Money
 
 Influencer Marketing Hub is almost like an active infographic that allows a user to very quickly adjust sliders based on the daily video views, active engagement, views per month, and views per year.
@@ -123,6 +132,9 @@ We've all been seduced by the big hitters on YouTube, from PewDiePie to Lilly Si
 
 However, there are other ways to make money on YouTube. It makes sense not to put all your eggs in one basket, so alongside ads and growing your fanbase, we've come up with a number of other ways to [monetize your YouTube channel](https://tools.techidaily.com/wondershare/filmora/download/) and [estimate how much your video can make.](https://www.influenex.com/)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
 Shanoon Cox
@@ -142,6 +154,9 @@ Follow @Shanoon Cox
 
 # 6 Free Software to Convert YouTube to MP3 for iPhone
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
 ##### Ollie Mattison
@@ -173,9 +188,12 @@ The features of this App are –
 * You can import audio or video from Album, camera roll, One Drive, Google Drive, Dropbox, or iCloud.
 * You can open audio files with this App and share them with other Apps as well.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Video to MP3 Converter - YouTube Video Download](https://images.wondershare.com/filmora/article-images/iConv.jpg)
 
-#### 2. [MyMP3](https://itunes.apple.com/us/app/id834818663)
+#### 2. MyMP3
 
 MyMP3 can convert videos available on your device into MP3 quickly. You can save recorded audio into MP3 and WAV format.
 
@@ -188,9 +206,12 @@ The main features of MyMP3 are –
 
 ![myMP3 - App to Download YouTube Video](https://images.wondershare.com/filmora/article-images/myMP3.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 2: YouTube to MP3 converter for iPhone (on Desktop)
 
-#### 1. [Filmora Editor](https://tools.techidaily.com/wondershare/filmora/download/)
+#### 1. Filmora Editor
 
 You can use Filmora as a YouTube music converter which will help in converting without much effort. Filmora is basically a video editing software that can help you [edit videos](https://tools.techidaily.com/wondershare/filmora/download/) in various ways. You can edit any of your video projects with ease when using Filmora. In order to convert Youtube to MP3 in iPhone, you can choose iPhone as the target device while exporting. Let’s check out some amazing features of this software. Or you can learn more from [Wondershare Video Community](https://www.wondershare.com/explore/inspiration.html).
 
@@ -205,11 +226,14 @@ Key Features:
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 [![iOS](https://images.wondershare.com/assets/images-common/badges-apple.svg)](https://app.adjust.com/w06dr6m%5F19za1f6) [![Android](https://images.wondershare.com/assets/images-common/badges-google.svg) ](https://app.adjust.com/w06dr6m%5F19za1f6)
 
 [Try It Free >>](https://tools.techidaily.com/wondershare/filmora/download/)
 
-#### 2. [Freemake Video Downloader](http://www.freemake.com/how%5Fto/convert%5Fyoutube%5Fvideos%5Fto%5Fiphone%5Ffree)
+#### 2. Freemake Video Downloader
 
 Freemake Video Downloader is a YouTube music converter that allows you to save YouTube videos and MP3s on your iPhone. While converting the videos into MP3s you need to specify the destination device (Export to iPod/iPhone), so that the right format can be set for the same.
 
@@ -218,9 +242,12 @@ Features of this application are –
 * You can have the audios exported to iTunes automatically.
 * Simple 3 step process to download and save YouTube videos into your iPhone.
 
+<!-- affiliate ads begin -->
+<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
+<!-- affiliate ads end -->
 ![FreeMake - Download YouTube video on desktop](https://images.wondershare.com/filmora/article-images/freemake-video-converter.jpg)
 
-#### 3. [Any Audio Converter](http://www.any-audio-converter.com/any-audio-converter.php)
+#### 3. Any Audio Converter
 
 Any Audio Converter is an online converter and downloader that allows you to convert YouTube videos to MP3 for iPhone to your desired quality, and size of audio files. This YouTube music converter can convert downloaded videos and music to MP3, WAV, and WMA faster with better quality.
 
@@ -234,7 +261,7 @@ Major features of this audio converter are –
 
 ![any audio converter to convert YouTube video to mp3](https://images.wondershare.com/filmora/article-images/any-audio-converter.png)
 
-#### 4. [Softorino YouTube Converter 2](https://softorino.com/youtube-converter-2/)
+#### 4. Softorino YouTube Converter 2
 
 Softorino YouTube Converter 2 can not only convert YouTube to MP3 for iPhone, but also to MP4 for all iOS devices as well. It is compatible with over 60 top sources.
 
@@ -256,6 +283,9 @@ But there are legal issues you need to consider before joining the conversion tr
 
 There are several ways to do that. The legal and recommended method is to get a YouTube Music Premium subscription. This will enable you to download songs from YouTube and save them on your iPhone for offline consumption. The alternative way involves numerous websites and apps that enable you to convert YouTube videos to mp3 and download them on your iPhone. This approach, however, is illegal and should be avoided.
 
+<!-- affiliate ads begin -->
+<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Final Verdict
 
 After going through the list of YouTube music converters in this article, we have found that Filmora is the ultimate solution for all your video download and audio conversion needs. With its matchless features, this App makes your life simple and melodious. However, it is our suggestion, the final call will be yours. We would like to know which was your choice and how was the experience using it. Thanks, readers for having a glance at this post. We hope you are delighted after reading it and finding what you needed.
@@ -277,3 +307,58 @@ Follow @Ollie Mattison
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/1716069001119-new-2024-approved-explore-android-written-by-dr-jane-smith-a-renowned-psychologist-specializing-in-cognitive-development-and-learning-styles/"><u>[New] 2024 Approved  Explore Android' Written By  Dr. Jane Smith, a Renowned Psychologist Specializing in Cognitive Development and Learning Styles.</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-facebook-finders-playbook-for-quick-reconnaissance/"><u>[New] 2024 Approved  Facebook Finder’s Playbook for Quick Reconnaissance</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-finalcut-pro-elevating-your-youtube-edits-from-good-to-great/"><u>[New] 2024 Approved  FinalCut Pro  Elevating Your YouTube Edits From Good to Great</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-selfie-to-sensation-vloggers-choice-of-top-9-camera-accessories/"><u>[New] 2024 Approved  From Selfie to Sensation  Vloggers' Choice of Top 9 Camera Accessories</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-guide-clearing-up-youtube-watchlater-stored-list/"><u>[New] 2024 Approved  Guide  Clearing Up YouTube Watchlater Stored List</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-guidelines-to-affirm-your-youtube-status/"><u>[New] 2024 Approved  Guidelines to Affirm Your YouTube Status</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-hands-on-tips-for-masterful-video-edits-with-youtube-studio/"><u>[New] 2024 Approved  Hands-On Tips for Masterful Video Edits with YouTube Studio</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-flixfortress-over-a-hundred-channels-of-fortitude-for-2024/"><u>[New] FlixFortress  Over a Hundred Channels of Fortitude for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-framefusion-creator-for-2024/"><u>[New] FrameFusion Creator for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-from-concrete-jungles-to-eco-havens-rethinking-urban-living-for-2024/"><u>[New] From Concrete Jungles to Eco Havens  Rethinking Urban Living for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-gain-an-edge-access-these-top-8-sites-for-free-eco-screen-backdrops-and-clips-for-2024/"><u>[New] Gain an Edge - Access These Top 8 Sites for FREE Eco-Screen Backdrops and Clips for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-how-to-add-captions-to-youtube-videos-for-2024/"><u>[New] How To Add Captions to YouTube Videos for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-how-to-loop-a-video-on-iphone-in-2024/"><u>[New] How to Loop A Video on iPhone, In 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-craftsmanship-in-marvellous-marvel-creation/"><u>[New] In 2024, Craftsmanship in Marvellous Marvel Creation</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-finding-equilibrium-between-professional-life-and-youtubing/"><u>[New] In 2024, Finding Equilibrium Between Professional Life and YouTubing</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-free-youtube-end-screen-resources-enhance-video-impact/"><u>[New] In 2024, Free YouTube End Screen Resources - Enhance Video Impact</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-script-to-screen-the-compreeved-guide-to-youtube-video-edits/"><u>[New] In 2024, From Script to Screen  The Compreeved Guide to YouTube Video Edits</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-get-smart-with-your-youtube-thumbnails-using-a-mac/"><u>[New] In 2024, Get Smart with Your YouTube Thumbnails, Using a Mac</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-hilarious-youtube-moments-top-10-quirky-short-film-concepts/"><u>[New] In 2024, Hilarious YouTube Moments  Top 10 Quirky Short Film Concepts</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-watch-deleted-youtube-videos-online-in-2-ways/"><u>[New] In 2024, How to Watch Deleted YouTube Videos Online in 2 Ways</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-free-audio-treasures-to-amplify-youtube/"><u>[Updated] 2024 Approved  Free Audio Treasures to Amplify YouTube</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-long-to-brief-how-to-shorten-youtube-footage/"><u>[Updated] 2024 Approved  From Long to Brief  How to Shorten YouTube Footage</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-zero-to-hero-crafting-an-authoritative-online-self/"><u>[Updated] 2024 Approved  From Zero to Hero  Crafting an Authoritative Online Self</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-full-time-careers-meet-video-content-a-harmonious-mix/"><u>[Updated] 2024 Approved  Full-Time Careers Meet Video Content  A Harmonious Mix</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-gamers-picks-best-recording-software/"><u>[Updated] 2024 Approved  Gamers' Picks  Best Recording Software</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-get-your-hand-on-the-latest-50-youtube-promo-banners/"><u>[Updated] 2024 Approved  Get Your Hand on the Latest 50 YouTube Promo Banners</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-harmonizing-hit-hits-building-the-perfect-youtube-soundtrack/"><u>[Updated] 2024 Approved  Harmonizing Hit Hits  Building the Perfect YouTube Soundtrack</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-high-level-behavior-tips-for-youtube-users/"><u>[Updated] 2024 Approved  High-Level Behavior Tips for YouTube Users</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-hourly-headliners-the-leading-yt-videos-in-the-last-24-hours/"><u>[Updated] 2024 Approved  Hourly Headliners  The Leading YT Videos in the Last 24 Hours</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-innovate-transforming-raw-footage-into-youtube-thumbnails-via-smartphones/"><u>[Updated] 2024 Approved  How to Innovate  Transforming Raw Footage Into YouTube Thumbnails via Smartphones</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-6-figure-success-starts-with-smart-hashtagging/"><u>[Updated] In 2024, 6-Figure Success Starts with Smart #Hashtagging</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-free-to-learn-4-youtube-channels-unlocking-the-secrets-of-background-substitution/"><u>[Updated] In 2024, Free-to-Learn  4 YouTube Channels Unlocking the Secrets of Background Substitution</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-data-to-drama-utilizing-google-trends-in-video-planning/"><u>[Updated] In 2024, From Data to Drama  Utilizing Google Trends in Video Planning</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-grasp-the-art-of-steadiness-in-photography/"><u>[Updated] In 2024, Grasp the Art of Steadiness in Photography</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-convert-youtube-videos-to-gifs/"><u>[Updated] In 2024, How to Convert YouTube Videos to GIFs</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-quick-tricks-for-creating-a-unique-mac-photo-blend/"><u>[Updated] Quick Tricks for Creating a Unique Mac Photo Blend</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-share-wide-enhancing-instagram-stories-with-youtube-content/"><u>[Updated] Share Wide  Enhancing Instagram Stories With YouTube Content</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unseen-underpinnings-of-user-interface-craftsmanship/"><u>[Updated] Unseen Underpinnings of User Interface Craftsmanship</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-explore-the-finest-cost-free-videocalling-platforms/"><u>2024 Approved  Explore the Finest Cost-Free Videocalling Platforms</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/-topping-video-content-on-youtube-for-2024/"><u>Chart-Topping Video Content on YouTube for 2024</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-fix-oem-unlock-missing-on-poco-m6-pro-5g-by-drfone-android/"><u>How To Fix OEM Unlock Missing on Poco M6 Pro 5G?</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-remove-a-previously-synced-google-account-from-your-vivo-g2-by-drfone-android/"><u>How to Remove a Previously Synced Google Account from Your Vivo G2</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-dotm-file-electronically-by-ldigisigner-sign-a-word-sign-a-word/"><u>How to sign .dotm file electronically</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-efficiently-establish-your-zoom-space/"><u>In 2024, Efficiently Establish Your Zoom Space</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-recommended-best-applications-for-mirroring-your-realme-narzo-n53-screen-drfone-by-drfone-android/"><u>In 2024, Recommended Best Applications for Mirroring Your Realme Narzo N53 Screen | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-the-most-useful-tips-for-pokemon-go-ultra-league-on-oneplus-12r-drfone-by-drfone-virtual-android/"><u>In 2024, The Most Useful Tips for Pokemon Go Ultra League On OnePlus 12R | Dr.fone</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/jake-paul-unveiled-charting-the-path-of-youtube-stardom/"><u>Jake Paul Unveiled  Charting the Path of YouTube Stardom</u></a></li>
+<li><a href="https://techidaily.com/repair-broken-or-corrupt-video-files-of-tecno-by-stellar-video-repair-mobile-video-repair/"><u>Repair broken or corrupt video files of Tecno</u></a></li>
+<li><a href="https://techidaily.com/repair-video-tool-repair-all-your-damaged-video-files-of-vivo-y200e-5g-on-windows-by-stellar-video-repair-mobile-video-repair/"><u>Repair Video Tool - Repair all your damaged video files of Vivo Y200e 5G on Windows</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/tailoring-watch-experience-on-youtube-with-speed-modifications/"><u>Tailoring Watch Experience on YouTube with Speed Modifications</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/unlocking-powerdirector-a-compreran-review-and-tutorial/"><u>Unlocking PowerDirector  A Compreran Review & Tutorial</u></a></li>
+</ul></div>

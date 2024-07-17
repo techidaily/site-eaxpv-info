@@ -1,7 +1,7 @@
 ---
 title: "\"[New] In 2024, Giggles in the Garage  Ingenious Funny Video Concepts for YouTubers\""
-date: 2024-06-06T15:21:46.239Z
-updated: 2024-06-07T15:21:46.239Z
+date: 2024-07-16T04:26:47.642Z
+updated: 2024-07-17T04:26:47.642Z
 tags:
   - ai video
   - ai youtube
@@ -18,6 +18,9 @@ thumbnail: https://thmb.techidaily.com/8e1219109f6e569a973b3c46c3d9e23c1f4eabc6e
 
 # The 10 Funniest YouTube Shorts Video Ideas in 2024
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
 ##### Shanoon Cox
@@ -48,6 +51,9 @@ Also, you can discuss different sorts of dreams that the human genre has been dr
 
 Who doesn’t love the stories? Everyone is somewhat fond of listening to different kinds of stories. And, if you can trim those long stories into small ones or can create some short stories. Then, you can make the best YouTube Shorts stories ideas that will go a long way, not only kids but unique and exciting stories loved by all.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![filmora](https://images.wondershare.com/filmora/youtube-shorts-ideas-3.jpg)
 
 So, pen down some compelling stories that do not need long writing work. But, like a comic strip, you need to create and join such a series under YouTube Shorts ideas.
@@ -74,6 +80,9 @@ Living every moment creates a wonder. Let others also make a part of this journe
 
 If experimenting with chemicals or anything that surrounds you makes you out of the world, then there is the chance that you can come out as YouTube Shorts ideas Star. By just showing how one chemical, when mixed with another, creates something new and marvelous to see, look or feel.
 
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![filmora](https://images.wondershare.com/filmora/youtube-shorts-ideas-6.jpg)
 
 Just review all your collection of experiments you did and combine them under YouTube Shorts Channel ideas. And make a big bust with such chemical/physical experiments.
@@ -90,6 +99,9 @@ Funny competition can vary from a weird hairstyle, odd season festival celebrati
 
 The dripping sound of water, raindrops, flowing trees, and blowing air make some distinct sound. So, look around to find your inspiration to make some quirky sound, whether the musical instrument or can create your kind of instrument such as tumbler, glass, bowl, etc. And see the natural flow of music that resides all around us.
 
+<!-- affiliate ads begin -->
+<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![filmora](https://images.wondershare.com/filmora/youtube-shorts-ideas-8.jpg)
 
 Just give it a try and dance with the music you create with all the worldwide listeners of YouTube Shorts Channel with this idea.
@@ -98,6 +110,9 @@ Just give it a try and dance with the music you create with all the worldwide li
 
 Kids love cartoons, but the hidden fact is that everyone enjoys watching cartoon or cartoon characters to a certain extent. Then why not try mimicking some cartoon characters. If you are a fun-loving person, and in your life, you mimic any person’s character, then try mimicking cartoon characters under YouTube Short Video ideas.
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![filmora](https://images.wondershare.com/filmora/youtube-shorts-ideas-9.jpg)
 
 Mixing some comedy flavor to life will add more fun and enjoyment to all those seeking funny moments to reflect their days. Come on; show up your humor with this unique style.
@@ -179,6 +194,9 @@ Follow @Shanoon Cox
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Overcoming Video Shadows: YouTube Fix Tips
 
 There might be some instances where when you try to play a clip on one of the most popular streaming video sites, you are displayed with a **YouTube black screen**. There could be several reasons behind this.
@@ -251,6 +269,9 @@ Sometimes even the web browser history and caches can also prevent a YouTube vid
 
 After launching the web browser (Google Chrome is used here for example), go to the **Customize and control Google Chrome** menu, and then go to **More tools**, and then select **Clear browsing data**.
 
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![clear google chrome cache](https://images.wondershare.com/filmora/article-images/clear-google-chrome-cache.jpg)
 
 Switch between the **Basic** and **Advanced** tabs on the **Clear browsing data** box to choose the records that you want to delete, and then choose your preferred duration of the records from the **Time range** drop-down list.
@@ -267,6 +288,9 @@ Launch Google Chrome and go to the **Customize and control Google Chrome** menu,
 
 Turn off the switch for each of the installed extensions to check if the issue is fixed.
 
+<!-- affiliate ads begin -->
+<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![disable google chrome extension](https://images.wondershare.com/filmora/article-images/disable-google-chrome-extensions.jpg)
 
 **Note:** If this solution works, you can try enabling the extensions one at a time, and check turning on which one causes **YouTube video black screen**. Once the culprit extension is found, you can click **Remove** to get rid of it altogether.
@@ -283,6 +307,9 @@ If the video is visible on a different web browser, probably the default one tha
 
 • Follow the on-screen instructions from there to remove the web browser from your PC. Next, use Microsoft Edge (or any other browser) to download and install a fresh copy of Google Chrome and see if the issue is fixed
 
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 2\. ISP or Internet Speed Solution(s)
 
 If you are experiencing a slow Internet connection, the issue might be either from your Internet Service Provider’s (ISP’s) side, or on your part. In any case, you can try the following solutions to fix the issue:
@@ -319,6 +346,9 @@ Right-click **Start** and go to **Device Manager** from the context menu
 
 Expand the **Display adapters** tree on the **Device Manager** snap-in, and right-click the graphics card from the list and select **Update driver** from the context menu.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![upgrade graphic card to fix YouTube black screen](https://images.wondershare.com/filmora/article-images/upgrade-graphic-card-to-fix-youtube-video-black-screen.jpg)
 
 Click **Search automatically for drivers** from the next screen that appears and follow the on-screen instructions from there to update the graphic card driver.
@@ -339,6 +369,9 @@ Tap it and then select **Clear data and Clear cache**. Relaunch YouTube and see 
 
 ![fix YouTube black screen on Android](https://images.wondershare.com/filmora/article-images/fix-youtube-video-black-screen-android.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
 ### How to Troubleshoot YouTube Black Screen On iOS
 
 **Delete and Reinstall the App**
@@ -362,3 +395,44 @@ There could be several reasons for **YouTube black screen**, and depending on th
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-info.techidaily.com/new-2024-approved-essential-knowledge-unmarked-photo-accumulation/"><u>[New] 2024 Approved  Essential Knowledge  Unmarked Photo Accumulation</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-fast-fortnite-cover-art-techniques/"><u>[New] 2024 Approved  Fast Fortnite Cover Art Techniques</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-free-guide-recording-youtube-videos-on-screencasts/"><u>[New] 2024 Approved  Free Guide  Recording YouTube Videos on Screencasts</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-free-to-paid-transitioning-your-channel-via-partnership/"><u>[New] 2024 Approved  From Free to Paid  Transitioning Your Channel via Partnership</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-novice-to-content-creator-your-youtube-journey-begins/"><u>[New] 2024 Approved  From Novice to Content Creator  Your YouTube Journey Begins</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-template-to-tutorial-gamers-channel-design/"><u>[New] 2024 Approved  From Template to Tutorial  Gamers' Channel Design</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-gain-yt-prompts-prowess-with-environmentally-friendly-methods/"><u>[New] 2024 Approved  Gain YT Prompts Prowess with Environmentally Friendly Methods</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-guide-to-streamlined-subscription-links-for-video-channels/"><u>[New] 2024 Approved  Guide to Streamlined Subscription Links for Video Channels</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-harmonizing-content-and-platform-youtubes-brief-melodies-explained/"><u>[New] 2024 Approved  Harmonizing Content and Platform  YouTube's Brief Melodies Explained</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-harnessing-video-magic-channel-creation-wizardry/"><u>[New] 2024 Approved  Harnessing Video Magic  Channel Creation Wizardry</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/new-2024-approved-mastering-unique-tiktok-personalities-through-creative-pfp-designs/"><u>[New] 2024 Approved  Mastering Unique TikTok Personalities Through Creative PFP Designs</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-finalcut-pro-elevating-your-youtube-edits-from-good-to-great-for-2024/"><u>[New] FinalCut Pro  Elevating Your YouTube Edits From Good to Great for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-fortune-on-screen-achieving-youtube-earnings-unlinked-from-ads-for-2024/"><u>[New] Fortune on Screen  Achieving YouTube Earnings Unlinked From Ads for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-from-viewer-to-video-voyager-building-strong-backlinks-in-youtube-for-2024/"><u>[New] From Viewer to Video Voyager  Building Strong Backlinks in YouTube for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-grasping-youtube-seo-a-guide-to-keyword-discovery-for-2024/"><u>[New] Grasping YouTube SEO  A Guide to Keyword Discovery for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-leading-audio-transformation-software-listings/"><u>[New] Leading Audio Transformation Software Listings</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-enable-quiet-youtube-bgplay-for-iphone-and-android-for-2024/"><u>[Updated] Enable Quiet YouTube BGPlay for iPhone & Android for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-growth-hackers-guide-the-ultimate-list-of-top-strategies-to-retain-youtube-viewers/"><u>[Updated] In 2024, Growth Hackers Guide  The Ultimate List of Top Strategies to Retain YouTube Viewers</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-guidance-for-effortless-addition-of-youtube-playlists-to-your-site/"><u>[Updated] In 2024, Guidance for Effortless Addition of YouTube Playlists to Your Site</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-guide-to-incorited-visuals-in-text-without-cost/"><u>[Updated] In 2024, Guide to Incorited Visuals in Text Without Cost</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-bypass-a-youtube-strike-and-keep-creating-videos/"><u>[Updated] In 2024, How to Bypass a YouTube Strike and Keep Creating Videos</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-get-started-signing-up-for-a-youtube-channel/"><u>[Updated] In 2024, How to Get Started  Signing Up for a YouTube Channel</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-turn-youtube-shorts-into-a-money-machine-key-requirements-and-income-potential/"><u>[Updated] In 2024, How to Turn YouTube Shorts Into a Money Machine  Key Requirements & Income Potential</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-unlocking-vimeo-mastery-of-tools-software-and-skillful-techniques/"><u>[Updated] In 2024, Unlocking Vimeo  Mastery of Tools, Software & Skillful Techniques</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-safe-mp3-extraction-three-methods-for-youtube-audio-conversion/"><u>[Updated] Safe MP3 Extraction  Three Methods for YouTube Audio Conversion</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-top-pick-of-vocal-transformation-apps-for-youtubers/"><u>[Updated] Top Pick of Vocal Transformation Apps for YouTubers</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-turning-onoff-comments-with-ease-on-youtube-platform/"><u>[Updated] Turning On/Off Comments with Ease on YouTube Platform</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/harnessing-instagram-video-potential-crafting-a-strong-marketing-strategy-for-2024/"><u>Harnessing Instagram Video Potential  Crafting a Strong Marketing Strategy for 2024</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-location-on-tiktok-to-see-more-content-on-your-vivo-x-fold-2-drfone-by-drfone-virtual-android/"><u>How to Change Location on TikTok to See More Content On your Vivo X Fold 2 | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-your-oppo-a79-5g-location-on-life360-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>How to Change Your Oppo A79 5G Location on life360 Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/imovie-clip-integration-into-youtubes-vast-network-for-2024/"><u>IMovie Clip Integration Into YouTube's Vast Network for 2024</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-dose-life360-notify-me-when-someone-checks-my-location-on-poco-c65-drfone-by-drfone-virtual-android/"><u>In 2024, Dose Life360 Notify Me When Someone Checks My Location On Poco C65? | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-expert-instructions-setting-up-wm6/"><u>In 2024, Expert Instructions  Setting Up WM6</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-use-snapchat-location-spoofer-to-protect-your-privacy-on-xiaomi-civi-3-disney-100th-anniversary-edition-drfone-by-drfone-virtual-android/"><u>In 2024, How to use Snapchat Location Spoofer to Protect Your Privacy On Xiaomi Civi 3 Disney 100th Anniversary Edition? | Dr.fone</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-video-editing-software-like-gopro-quik-for-windows-and-mac/"><u>New In 2024, Video Editing Software Like GoPro Quik for Windows and Mac</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reasons-for-infinix-gt-10-pro-stuck-on-boot-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Infinix GT 10 Pro Stuck on Boot Screen and Ways To Fix Them | Dr.fone</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/rt-of-playback-anarchy-youtube-playlists-unordered-again-for-2024/"><u>The Art of Playback Anarchy  YouTube Playlists Unordered Again for 2024</u></a></li>
+</ul></div>

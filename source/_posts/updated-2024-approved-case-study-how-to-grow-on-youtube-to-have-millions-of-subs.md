@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  Case Study  How to Grow on YouTube to Have Millions of Subs\""
-date: 2024-06-06T14:30:36.908Z
-updated: 2024-06-07T14:30:36.908Z
+date: 2024-07-16T03:10:12.924Z
+updated: 2024-07-17T03:10:12.924Z
 tags:
   - ai video
   - ai youtube
@@ -32,6 +32,9 @@ Jesse Ridgway is the owner of the vlog [McJuggerNuggets](https://www.youtube.com
 
 ## Case Study of McJuggerNuggets
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
+<!-- affiliate ads end -->
 ![Case Study McJugger Nuggets](https://images.wondershare.com/filmora/article-images/case-study-mcjugger-nuggets.jpg)
 
 Jesse was one of the earliest YouTubers. He started his channel on December 9, 2006\. Jesse never guessed that he would make enough money to live off of the videos he was creating. Here are some of the ways that he monetized his channel:
@@ -82,10 +85,16 @@ Regular research into your target market will help you to create the trendiest n
 
 Timing and luck are definitely two of the biggest factors in becoming a success on YouTube. If you are willing to keep working and don’t get discouraged you will eventually earn profits.
 
+<!-- affiliate ads begin -->
+<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
+<!-- affiliate ads end -->
 ## Edit Your Videos with High-Quality Video Editor
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
 Shanoon Cox
@@ -127,6 +136,9 @@ For any piece of content on the internet, discoverability is key to exposure. Af
 
 Before we get started, I want to recommend the best video editing software for YouTubers - [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/), an easy to use while powerful video editor that allows you not only to cut, split, crop, resize, reverse your videos, but also offers you multiple video effects specially designed for Fashion, Beauty, Gaming, Travel, Education, etc. Check the video to know more fantastic features:
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ---
@@ -139,6 +151,9 @@ You must know the competition between videos is furious since [500 hours of vide
 
 Using YouTube meta tags wisely can broaden your reach and help new people discover your content. However, don't be tempted to insert irrelevant tags just because you know they are high traffic. You will be found out and penalized as a result. Just as you did with your description, research your keywords, place the most important ones first and use as many as you can.
 
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### What are the three YouTube tag types?
 
 YouTube has three different types of tags and each of them has a specific purpose. The tags are-
@@ -149,6 +164,9 @@ YouTube has three different types of tags and each of them has a specific purpos
 
 **Generic** – The generic tags are the ones that describe the entire video in one or two words. These tags are used in all the videos of yours. These tags are used across your channel for all the videos you post. It is important to have such general constant tags.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 2: How to add YouTube tags and optimize them
 
 The more relevant tags you add, the better it is. The best part is YouTube doesn’t restrict the number of tags but adding all is not possible and adding something irrelevant doesn’t make sense. So, your YouTube video tags must be the smart ones for more views. Educated tagging is what is required.
@@ -185,11 +203,11 @@ Here you can learn some tips when optimizing tags. You can use singular and plur
 * Step 1\. The first thing you need to do is to [sign in to your YouTube account](https://www.lifewire.com/youtube-account-signup-2655499).
 * Step 2\. Then click the Upload button that’s found on the top right corner of the window.
 
-![Find Upload option ](https://images.wondershare.com/filmora/article-images/edit-youtube-video-basic-description-1.jpg)
+![Find Upload option](https://images.wondershare.com/filmora/article-images/edit-youtube-video-basic-description-1.jpg)
 
 * Step 3\. Then select the video that you want to upload. You will be asked to add a title, description, and tags.
 
-![Add title, description and tags ](https://images.wondershare.com/filmora/article-images/edit-youtube-video-basic-description-2.jpg)
+![Add title, description and tags](https://images.wondershare.com/filmora/article-images/edit-youtube-video-basic-description-2.jpg)
 
 * Step 4\. After uploading, you can still edit the YouTube title, description, and tags.
 
@@ -226,6 +244,9 @@ You can see how building awesome YouTube titles can happen organically like this
 * Review your YouTube titles from time to time and update with new keywords as search trends change
 * Avoid clickbait titles or misleading titles as this will affect your view time and subsequently your ranking in search
 
+<!-- affiliate ads begin -->
+<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 2\. Description
 
 Your description is a much longer piece of YouTube meta, so you can really go to town with your YouTube keywords here. You've got up to 5,000 characters to fill in, and we strongly advise that you aim to use every single one. This really is a golden opportunity, not only to get people motivated to watch all of your video, but also to be indexed correctly through well researched YouTube keywords.
@@ -241,6 +262,9 @@ You may have noticed that, on the search page itself, only a small part of the d
 * Add links to products showcased, your social channels, or website as you wish
 * Don't forget to credit any music you've used here
 
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 5: Tips for Tagging YouTube and Writing Title, Description
 
 So, now we've got the basics down, let's move on to some top tips for getting your metadata just right:
@@ -263,8 +287,14 @@ You May Also Like: [YouTube SEO Complete Guide](https://tools.techidaily.com/won
 
 Take some time to perfect your meta on YouTube and see how many more views it helps you get. Let us know if you have any other tips for developing powerful metadata, and how optimizing your meta has worked for you!
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 Richard Bennett
@@ -282,3 +312,42 @@ Follow @Richard Bennett
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://discord-videos.techidaily.com/new-2024-approved-10-best-free-discord-voice-changers-2023-reviews-plusguide/"><u>[New] 2024 Approved  10 Best Free Discord Voice Changers [2023 Reviews +Guide]</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-font-exploration-for-enhanced-youtube-thumbnails-appeal-for-2024/"><u>[New] Font Exploration for Enhanced YouTube Thumbnails' Appeal for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-from-creator-to-critic-evaluating-video-value-across-platforms-for-2024/"><u>[New] From Creator to Critic  Evaluating Video Value Across Platforms for 2024</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-from-video-to-animation-easy-youtube-gif-creation-tips/"><u>[New] From Video to Animation  Easy YouTube GIF Creation Tips</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-harmonizing-hit-hits-building-the-perfect-youtube-soundtrack-for-2024/"><u>[New] Harmonizing Hit Hits  Building the Perfect YouTube Soundtrack for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-feast-of-fame-top-30-show-titles-to-sizzle-viewership/"><u>[New] In 2024, Feast of Fame  Top 30 Show Titles to Sizzle Viewership</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-finding-hashtags-that-amplify-to-6k-views/"><u>[New] In 2024, Finding #Hashtags That Amplify to 6K Views</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-follow-the-footsteps-of-fan-driven-forums/"><u>[New] In 2024, Follow the Footsteps of Fan-Driven Forums</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-concept-to-creation-youtube-trailer-production-via-filmora/"><u>[New] In 2024, From Concept to Creation  YouTube Trailer Production via Filmora</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-novice-to-notable-top-course-recommendations-for-youtubers/"><u>[New] In 2024, From Novice to Notable  Top Course Recommendations for YouTubers</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-project-board-to-public-display-imovie-on-youtube/"><u>[New] In 2024, From Project Board to Public Display  IMovie on YouTube</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-gaining-clarity-on-your-youtube-audiences-behavior/"><u>[New] In 2024, Gaining Clarity on Your YouTube Audience's Behavior</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-growth-acceleration-on-youtube-expert-tips-for-video-partnerships/"><u>[New] In 2024, Growth Acceleration on YouTube  Expert Tips for Video Partnerships</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-history-streams-that-will-transform-your-study-habits/"><u>[New] In 2024, History Streams That Will Transform Your Study Habits</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-enhance-video-rankings-on-youtube-through-seo/"><u>[New] In 2024, How to Enhance Video Rankings on YouTube Through SEO</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-fiscally-flourishing-through-film-reviewing-retail-relics/"><u>[Updated] 2024 Approved  Fiscally Flourishing Through Film  Reviewing Retail Relics</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-virality-to-value-gauge-your-content-against-competing-craftsmen/"><u>[Updated] 2024 Approved  From Virality to Value  Gauge Your Content Against Competing Craftsmen</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-guiding-adding-songs-to-your-yt-channel/"><u>[Updated] 2024 Approved  Guiding  Adding Songs to Your YT Channel</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-hashtags-hack-skyrocket-your-video-popularity/"><u>[Updated] 2024 Approved  Hashtags Hack  Skyrocket Your Video Popularity</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-historical-discoveries-at-your-screen-10-best-educational-youtubers/"><u>[Updated] 2024 Approved  Historical Discoveries at Your Screen - 10 Best Educational YouTubers</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-select-a-youtube-gaming-introduction-maker-free-or-paid-edition/"><u>[Updated] 2024 Approved  How to Select a YouTube Gaming Introduction Maker  Free or Paid Edition</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-simplified-methods-for-google-meet-recordings/"><u>[Updated] 2024 Approved  Simplified Methods for Google Meet Recordings</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-innovative-techniques-to-transform-your-footage-in-gopro-studio/"><u>[Updated] Innovative Techniques to Transform Your Footage in GoPro Studio</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-revolutionizing-fun-vr-applications-unveiled/"><u>[Updated] Revolutionizing Fun  VR Applications Unveiled</u></a></li>
+<li><a href="https://android-location.techidaily.com/9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-poco-m6-5g-drfone-by-drfone-virtual/"><u>9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Poco M6 5G | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/achieve-mastery-in-tracking-fbs-recently-seen-videos/"><u>Achieve Mastery in Tracking Fb’s Recently Seen Videos</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/create-stunning-videos-add-slow-motion-effects-at-no-cost-with-filmora-for-2024/"><u>Create Stunning Videos Add Slow Motion Effects at No Cost with Filmora for 2024</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-location-on-tiktok-to-see-more-content-on-your-apple-iphone-xr-drfone-by-drfone-virtual-ios/"><u>How to Change Location on TikTok to See More Content On your Apple iPhone XR | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-quick-tips-for-setting-up-zoom-on-your-android-phonetablet/"><u>In 2024, Quick Tips for Setting Up Zoom on Your Android Phone/Tablet</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/in-2024-video-storytelling-made-easy-best-ios-collage-apps/"><u>In 2024, Video Storytelling Made Easy Best iOS Collage Apps</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-in-2024-essential-web-destinations-for-free-background-scores-bgm/"><u>New In 2024, Essential Web Destinations for Free Background Scores (BGM)</u></a></li>
+<li><a href="https://network-issues.techidaily.com/1719974660655-restore-clear-views-sayonara-black-screen/"><u>Restore Clear Views, Sayonara Black Screen</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/tackling-social-media-platforms-an-in-depth-look-at-igtv-and-youtube-for-2024/"><u>Tackling Social Media Platforms  An In-Depth Look at IGTV and YouTube for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/unveiling-the-instagram-success-script-for-2024/"><u>Unveiling the Instagram Success Script for 2024</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-in-2024-best-15-apps-and-websites-to-use-to-add-music-to-a-video-with-pros-and-conss/"><u>Updated In 2024, Best 15 Apps & Websites to Use to Add Music to a Video With Pros & Conss</u></a></li>
+</ul></div>

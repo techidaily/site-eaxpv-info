@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] In 2024, Flickering Fonts  2 Innovative Text Techniques\""
-date: 2024-06-06T14:00:48.972Z
-updated: 2024-06-07T14:00:48.972Z
+date: 2024-07-16T02:25:40.296Z
+updated: 2024-07-17T02:25:40.296Z
 tags:
   - ai video
   - ai youtube
@@ -26,6 +26,9 @@ thumbnail: https://thmb.techidaily.com/246a59716ccd46798f84896d6b6802f3ff638286b
 
 Earlier, you learned how to have a **[bounce text effect in Adobe After Effects](https://tools.techidaily.com/wondershare/filmora/download/)**. However, because AE is a complex application and has a steep learning curve, this section explains the two alternative ways to get the same effect on your existing video footage.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ## Method 1: How to Create Bouncing Text in Filmora Video Editor?
 
 When talking about [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/), the application is populated with several presets for texts and titles, animations, effects, filters, and much more.
@@ -106,6 +109,9 @@ Launch your favorite web browser and go to <https://loading.io/animation/text/>.
 
 **Step 2: Customize the Text and Choose Animation Effect**
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Create Animated Bouncing Text with Loading.io](https://images.wondershare.com/filmora/article-images/create-bouncing-text-with-loadingio.jpg)
 
 Use the options available on the webpage to type your text, and change its font, color, background, transparency level etc. Select **Bounce** (or any of its variants) from the **Animation** drop-down list, and adjust the speed using the **Speed** slider.
@@ -157,6 +163,9 @@ Luckily, this article offers YouTube SEO tips to help you create a solid strateg
 
 [**11 Useful YouTube SEO Tips to Help Boost Your Video Ranking**](#part2)
 
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How Does YouTube SEO Work?
 
 YouTube SEO is an excellent way to ensure your videos get more views. The main goal of YouTube SEO is to rank high for specific keywords in search engines. As such, it is crucial to know how YouTube SEO works if you want to boost the ranking of your videos.
@@ -167,12 +176,18 @@ Because search engine bots can't watch YouTube videos, they depend on accompanyi
 
 ### Watch Video: YouTube SEO Tips 2022: Boost Your Video Ranking
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 11 Useful YouTube SEO Tips to Help Boost Your Video Ranking
 
 Want to drive more traffic and increase your video views? Here are eleven YouTube SEO tips that will help you to boost your video ranking.
 
 #### 1\. Conduct Keyword Research First
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![youtube seo tips - conduct keywords reseaerch first](https://images.wondershare.com/filmora/article-images/2021/youtube-seo-tips-1.png)
 
 When it comes to YouTube SEO, keywords are crucial. YouTube uses these keywords to determine the subject of your video, index the content, and then associate it with what users are searching for. As such, you must add them to certain fields, including description, tags, and title, when you are uploading the video file. YouTube will then get this information and use it to rank your video.
@@ -181,6 +196,9 @@ For this reason, you have to know the keywords that best identify your videos an
 
 #### 2\. Use a Good Video Title
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![youtube seo tips - video title](https://images.wondershare.com/filmora/article-images/2021/youtube-seo-tips-2.png)
 
 The title of your video is the first thing other people see, and it's what decides whether or not they watch it. Given how important it is, you'll want to make sure that your title accurately reflects the content of your video and includes all relevant keywords.
@@ -191,6 +209,9 @@ Each time you publish a new video, make sure you embed it on your website or blo
 
 #### 4\. Add Tags To The Video Description
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![youtube seo tips - add tags to video](https://images.wondershare.com/filmora/article-images/2021/youtube-seo-tips-3.png)
 
 When you upload your video, remember to add tags to the "About" section of the page. You can do this by adding some relevant keywords with each tag like you would with blog posts.
@@ -205,6 +226,9 @@ The filename of your video, or the "video URL," can also affect its rankings. In
 
 #### 6\. Add Subtitles and Closed Captions
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
+<!-- affiliate ads end -->
 ![youtube seo tips - add subtitles and closed captions](https://images.wondershare.com/filmora/article-images/2021/youtube-seo-tips-5.png)
 
 Adding subtitles and closed captions to your videos is also a good idea, especially if you want the video's ranking and viewership to improve. Subtitles make it easier for new viewers to understand your videos, especially if your audience comes from different linguistic backgrounds.
@@ -242,3 +266,73 @@ Wondershare's Filmora program allows you to edit your video content with trim, t
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-10-best-history-youtube-channels-for-students-and-history-lovers/"><u>[New] 2024 Approved  10 Best History YouTube Channels for Students & History Lovers</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-novice-to-niche-tripling-your-youtube-fans/"><u>[New] 2024 Approved  From Novice to Niche  Tripling Your Youtube Fans</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-ordinary-to-outstanding-crafting-unique-shorts-thumbnails/"><u>[New] 2024 Approved  From Ordinary to Outstanding  Crafting Unique Shorts Thumbnails</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-raw-to-refined-mastering-the-art-of-pc-video-editing-on-windows/"><u>[New] 2024 Approved  From Raw to Refined  Mastering the Art of PC Video Editing on Windows</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-streams-to-statements-decoding-the-3-step-process-for-calculating-youtube-earnings/"><u>[New] 2024 Approved  From Streams to Statements  Decoding the 3-Step Process for Calculating YouTube Earnings</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-global-scoreboard-the-premier-six-of-video-downloads/"><u>[New] 2024 Approved  Global Scoreboard  The Premier Six of Video Downloads</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-harness-youtubes-potential-with-these-top-5-video-marketing-techniques/"><u>[New] 2024 Approved  Harness YouTube’s Potential with These #Top 5 Video Marketing Techniques</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-use-a-tripod-for-vlogging/"><u>[New] 2024 Approved  How To Use a Tripod for Vlogging</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-twisting-the-norm-your-instagram-video-transformation/"><u>[New] 2024 Approved  Twisting the Norm  Your Instagram Video Transformation</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-from-plot-to-post-a-detailed-guide-to-writing-youtube-videos-for-2024/"><u>[New] From Plot to Post  A Detailed Guide to Writing YouTube Videos for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-how-to-legally-convert-youtube-videos-to-mp4-format-for-2024/"><u>[New] How to Legally Convert YouTube Videos to MP4 Format for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-find-your-digital-companion-the-top-6-youtube-personality-puzzles/"><u>[New] In 2024, Find Your Digital Companion  The Top 6 YouTube Personality Puzzles</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-individual-to-institutional-growth-in-youtube-space/"><u>[New] In 2024, From Individual to Institutional Growth in YouTube Space</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-streams-to-statements-decoding-the-3-step-process-for-calculating-youtube-earnings/"><u>[New] In 2024, From Streams to Statements  Decoding the 3-Step Process for Calculating YouTube Earnings</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-high-quality-video-capture-for-beginner-creators/"><u>[New] In 2024, High-Quality Video Capture for Beginner Creators</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-achieve-professional-level-audio-quality-on-youtube/"><u>[New] In 2024, How to Achieve Professional-Level Audio Quality on YouTube</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-pick-a-youtube-channel-name/"><u>[New] In 2024, How To Pick a YouTube Channel Name</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-instagrams-power-mastering-the-addition-of-video-descriptions/"><u>[New] Instagram's Power  Mastering the Addition of Video Descriptions</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-step-by-step-method-for-extracting-video-portions-from-youtube/"><u>[New] Step-by-Step Method for Extracting Video Portions From YouTube</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-ultimate-list-reddits-most-adored-and-upvoted-stories/"><u>[New] The Ultimate List  Reddit's Most Adored and Upvoted Stories</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-the-ultimate-list-of-firefox-plugins-for-easy-facebook-video-retrieval-2023-edition-for-2024/"><u>[New] The Ultimate List of Firefox Plugins for Easy Facebook Video Retrieval, 2023 Edition for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-foundations-first-what-to-invest-in-for-youtubing/"><u>[Updated] 2024 Approved  Foundations First  What To Invest In for YouTubing</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-framing-the-perfect-waterway-narrative/"><u>[Updated] 2024 Approved  Framing the Perfect Waterway Narrative</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-ftp-to-feed-the-complete-guide-to-uploading-to-youtube/"><u>[Updated] 2024 Approved  From FTP to Feed  The Complete Guide to Uploading to YouTube</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-script-to-screen-crafting-your-unique-youtube-tale/"><u>[Updated] 2024 Approved  From Script to Screen  Crafting Your Unique YouTube Tale</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-focus-on-you-not-the-surroundings-blur-techniques-for-google-meet-success/"><u>[Updated] Focus on You, Not the Surroundings  Blur Techniques for Google Meet Success</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-free-and-secure-3-ways-to-extract-youtube-music-content-for-2024/"><u>[Updated] Free and Secure  3 Ways to Extract YouTube Music Content for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-from-clicks-to-cash-the-systematic-triple-pathway-for-youtube-revenue-tracking-for-2024/"><u>[Updated] From Clicks to Cash  The Systematic Triple Pathway for YouTube Revenue Tracking for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-from-novice-to-connoisseur-transform-your-sub4sub-experience-now-for-2024/"><u>[Updated] From Novice to Connoisseur  Transform Your Sub4sub Experience Now for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-from-raw-footage-to-polished-highlights-for-2024/"><u>[Updated] From Raw Footage to Polished Highlights for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-from-space-to-nature-yts-guide-for-dynamic-green-screen-filmmaking-for-2024/"><u>[Updated] From Space to Nature  YT's Guide for Dynamic Green Screen Filmmaking for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-from-zero-to-hero-youtube-tech-required-for-2024/"><u>[Updated] From Zero to Hero  YouTube Tech Required for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-giggles-galore-celebrating-the-funniest-web-content-creators-for-2024/"><u>[Updated] Giggles Galore  Celebrating the Funniest Web Content Creators for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-go-live-in-style-a-detailed-guide-to-youtubes-full-sphere-videos-for-2024/"><u>[Updated] Go Live in Style  A Detailed Guide to YouTube's Full-Sphere Videos for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-guide-to-structuring-youtube-content-with-separate-chapters-for-2024/"><u>[Updated] Guide to Structuring YouTube Content with Separate Chapters for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-finding-premium-free-music-without-breaking-copyrights/"><u>[Updated] In 2024, Finding Premium, Free Music Without Breaking Copyrights</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-free-gift-guide-all-about-our-50-unique-youtube-ads-for-you/"><u>[Updated] In 2024, Free Gift Guide  All About Our 50 Unique YouTube Ads for You</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-novice-to-narrative-youtube-seo-strategies/"><u>[Updated] In 2024, From Novice to Narrative  YouTube SEO Strategies</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-stream-to-youtube-facebook-twitch-and-over-30-platforms/"><u>[Updated] In 2024, How to Stream to YouTube, Facebook, Twitch and Over 30 Platforms</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-innovative-discussion-themes-for-vloggers/"><u>[Updated] Innovative Discussion Themes for Vloggers</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-kinemasters-comprehensive-insight-into-green-screen-technology-mastery/"><u>[Updated] Kinemaster's Comprehensive Insight Into Green Screen Technology Mastery</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-realms-unite-or-compare-metaverse-vs-omniverse-explored/"><u>[Updated] Realms Unite or Compare? Metaverse Vs. Omniverse Explored</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-romantic-recitals-perfect-love-songs-for-your-proposal-moment/"><u>[Updated] Romantic Recitals  Perfect Love Songs for Your Proposal Moment</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-streamlining-content-delivery-the-definitive-youtube-video-upload-guide-for-2024/"><u>[Updated] Streamlining Content Delivery  The Definitive YouTube Video Upload Guide for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-triple-check-for-profitability-guiding-principles-for-measuring-youtube-income/"><u>[Updated] Triple Check for Profitability  Guiding Principles for Measuring YouTube Income</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-trivia-trek-exploring-yts-fascinating-figures-and-infographics/"><u>[Updated] Trivia Trek  Exploring YT's Fascinating Figures and Infographics</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/2024-approved-boost-your-tiktok-footprint-top-analytics-strategies-reviewed/"><u>2024 Approved  Boost Your TikTok Footprint  Top Analytics Strategies Reviewed</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/2024-approved-creating-viral-haul-videos-a-comprehensible-guide/"><u>2024 Approved  Creating Viral Haul Videos  A Comprehensible Guide</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/2024-approved-expert-online-sound-calibration-services/"><u>2024 Approved Expert Online Sound Calibration Services</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/achieve-visual-harmony-optimal-sizing-for-instagram-videos-for-2024/"><u>Achieve Visual Harmony  Optimal Sizing for Instagram Videos for 2024</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/animation-anthems-of-social-sites/"><u>Animation Anthems of Social Sites</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/cutting-edge-audio-editing-with-sony-vegas-pro-complete-guide-for-2024/"><u>Cutting Edge Audio Editing with Sony Vegas Pro – Complete Guide for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/effective-group-meetings-googles-top-solutions-4-for-2024/"><u>Effective Group Meetings  Google's Top Solutions (#4) for 2024</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/expert-tips-for-snapchats-magic-invisible-hands-make-the-picture-pop/"><u>Expert Tips for Snapchat's Magic  Invisible Hands Make the Picture Pop</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/exploring-premium-gif-software-for-iphone-users-for-2024/"><u>Exploring Premium GIF Software for iPhone Users for 2024</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-changeadd-location-filters-on-snapchat-for-your-oppo-f25-pro-5g-drfone-by-drfone-virtual-android/"><u>How to Change/Add Location Filters on Snapchat For your Oppo F25 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-fix-apple-iphone-7-passcode-not-working-drfone-by-drfone-ios/"><u>How to Fix Apple iPhone 7 Passcode not Working? | Dr.fone</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-digitize-your-movie-library-converting-dvds-to-modern-file-formats/"><u>New 2024 Approved Digitize Your Movie Library Converting DVDs to Modern File Formats</u></a></li>
+<li><a href="https://driver-install.techidaily.com/quick-guide-to-new-drivers-and-updates-hp-model-4630/"><u>Quick Guide to New Drivers & Updates - HP Model 4630</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/secrets-unlocked-becoming-a-leader-in-online-social-media-live-events/"><u>Secrets Unlocked  Becoming a Leader in Online Social Media Live Events</u></a></li>
+<li><a href="https://some-skills.techidaily.com/strategies-to-alleviate-vr-motion-woes-for-2024/"><u>Strategies to Alleviate VR Motion Woes for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/swift-sketches-of-fortnite-game-screenshots-for-2024/"><u>Swift Sketches of Fortnite Game Screenshots for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/tips-for-a-seamless-experience-accessing-youtube-video-comments/"><u>Tips for a Seamless Experience  Accessing YouTube Video Comments</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/ultimate-hd-encoding-devices-for-live-events/"><u>Ultimate HD Encoding Devices for Live Events</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/understanding-and-fixing-memory-detection-problems/"><u>Understanding and Fixing Memory Detection Problems</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-the-premier-selection-of-no-cost-community-driven-windows-audio-development-suites/"><u>Updated The Premier Selection of No-Cost, Community-Driven Windows Audio Development Suites</u></a></li>
+</ul></div>

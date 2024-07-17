@@ -1,7 +1,7 @@
 ---
 title: "[New] How to Create Animated Bouncing Text for 2024"
-date: 2024-06-06T14:38:09.039Z
-updated: 2024-06-07T14:38:09.039Z
+date: 2024-07-16T03:21:28.306Z
+updated: 2024-07-17T03:21:28.306Z
 tags:
   - ai video
   - ai youtube
@@ -50,6 +50,9 @@ In the timeline, double-click the title you just added, use the upper-left secti
 
 Go to **Effects** from the standard toolbar, expand the **Filters** category from the left pane, and click **Shake**. From the Library window, click and drag your preferred shake filter to the timeline. Here, I will choose Mild.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![Shake filters in Filmora9](https://images.wondershare.com/filmora/article-images/shake-filter.jpg)
 
 You can customize the default effect by double-clicking the shake filter in the timeline, using the sliders in the upper-left area of the interface to make necessary adjustments, and then clicking **OK** to save the changes and to get back to the previous interface.
@@ -80,6 +83,9 @@ Some most trusted websites to generate **bounce text** are listed below:
 
 Website: <https://engfto.com/index/create%5Fanimated%5Fbouncing%5Ftext/0-26>
 
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Create Animated Bouncing Text with ENGFTO](https://images.wondershare.com/filmora/article-images/engfto-create-animated-bouncing-text.jpg)
 
 You can follow the instructions given below to use Engfto to generate bouncing text for your footages:
@@ -120,6 +126,9 @@ Click your preferred option from next to the **Download As** section to download
 
 Generating **bounce text** effect is much simpler when you use Wondershare Filmora or any of the online solutions as explained in Method 2\. While the former gives you more flexibility when it comes to customizations, the latter doesn’t require any app to be installed on your PC. In addition, many times the web apps offer their services for free, and therefore they are preferred by the novice users who are not much into post-production processes.
 
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
 
 Liza Brown
@@ -170,6 +179,9 @@ If you are willing to commit to this long term, then it’s the best time in his
 
 ![Filmora logo](https://images.wondershare.com/filmora/logo_icon/wondershare-filmora-logo-horizontal.png) ![filmora product interface](https://images.wondershare.com/filmora/images/common/filmora-product-banner.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### The All-in-One Screen Recorder & Video Editor
 
 * Record desktop screen, voiceover, and webcam simultaneously
@@ -185,7 +197,10 @@ For Win 7 or later (64-bit)
 
 For macOS 10.12 or later
 
-![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg)Secure Download
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg) Secure Download
 
 It’s the best time because you will have so many pioneers and successful creators to draw inspiration and knowledge from. You’ll be standing on the shoulders of giants like PewDiePie, Markiplier, Jacksepticeye, and CinnamonToastKen.
 
@@ -251,7 +266,7 @@ You will enjoy certain steps more than others, but if you are passionate, you wi
 
 ## 2\. Create an Identity
 
-Your personality and your channel will need to go through a little[branding exercise](https://tools.techidaily.com/wondershare/filmora/download/). You need to find what sets yourself apart from all the other gaming channels on the Internet. Ask yourself, and be honest with the answer: Why should anyone care about my channel?
+Your personality and your channel will need to go through a little [branding exercise](https://tools.techidaily.com/wondershare/filmora/download/). You need to find what sets yourself apart from all the other gaming channels on the Internet. Ask yourself, and be honest with the answer: Why should anyone care about my channel?
 
 #### 1. Be Original
 
@@ -289,6 +304,9 @@ This structure can be applied with humor as well as climatic events. If you open
 
 Take a look at this example from YouTuber, Jelly. He does a great job at injecting humor into his first few seconds of video.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 3\. Type of Gaming Videos
 
 There are no rules to making gaming videos. As long as it’s worth watching and you aren’t stealing content, that is all that matters. Nevertheless, there are a few standard types of gaming videos that have been established over the years.
@@ -343,7 +361,7 @@ I don’t recommend blowing your life savings on all the equipment you want. Don
 
 There are ways to work around it, if you don’t currently have the funds. Being a YouTuber is all about being resourceful and creative.
 
-You don’t need professional editing software, there are affordable ones such as [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/)that have all the capabilities.
+You don’t need professional editing software, there are affordable ones such as [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/) that have all the capabilities.
 
 #### 1. Many Games Are Free
 
@@ -359,6 +377,9 @@ If you’re strapped for cash. Start your channel playing free games and work yo
 
 **GIMP**: Probably the closest free product to Photoshop you can find. GIMP will help you perform basic image manipulation. It’s not as user friendly as Photoshop, but you can learn the fundamentals here as you save up for the Creative Cloud subscription plan.
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 5\. Optimization Matters
 
 Gaming is arguably the most popular genre on YouTube. So, how is your little video going to be discovered in this vast sea of gaming content?
@@ -369,17 +390,17 @@ The answer: with a good optimization strategy.
 
 When conceptualizing your next video, consider what your viewers are going to search to find it. This will help you focus your gameplay to meet the demand of this untapped (or more specific) audience.
 
-You can use a plugin called [VidIQ](https://vidiq.com/)to see the keyword score by simply searching for the content you think your viewers are interested in watching.
+You can use a plugin called [VidIQ](https://vidiq.com/) to see the keyword score by simply searching for the content you think your viewers are interested in watching.
 
 If you’re playing Fortnite, and your keyword is simply “Fortnite” you’re using a highly searched term, but the competition is very high as well. The odds of your ranking is incredibly tough as the overall keyword score is 61/100.
 
-![ Optimize Gaming Channel with VidIQ](https://images.wondershare.com/filmora/article-images/optimize-youtube-gaming-seo-with-vidiq-1.jpg)
+![Optimize Gaming Channel with VidIQ](https://images.wondershare.com/filmora/article-images/optimize-youtube-gaming-seo-with-vidiq-1.jpg)
 
 However, if you focus on a more specific aspect of the game to make a video around, such as a character, you can heighten your chance at being discovered.
 
 Take the example below, where I added the keyword “Striker” to the search. Its overall keyword score is 87/100, that’s 26 points better in the keyword score, compared to just “Fortnite.”
 
-![ Optimize Gaming Channel with VidIQ](https://images.wondershare.com/filmora/article-images/optimize-youtube-gaming-seo-with-vidiq-2.jpg)
+![Optimize Gaming Channel with VidIQ](https://images.wondershare.com/filmora/article-images/optimize-youtube-gaming-seo-with-vidiq-2.jpg)
 
 This will help you identify the content you should be making and then use that keyword knowledge to write a good title and a list of 5-15 tags.
 
@@ -410,6 +431,9 @@ Take a look at The Syndicate Project’s thumbnails and how it evokes an intensi
 
 Check out the colorful thumbnails from VanossGaming, where the owl is the mascot of their channel.
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Create Thumbnail for YouTube Channel](https://images.wondershare.com/filmora/article-images/create-awesome-thumbnail-youtube-gaming-2.jpg)
 
 1. Use readable text or emojis
@@ -424,6 +448,9 @@ It’s all about being a part of a YouTube community, and while you can’t inte
 
 Additionally, viewer engagements such as likes and comments have shown to have an indirect effect on your video ranking. That is why you should encourage your viewers to “smash” the like button or join in a conversation by asking them a question in your video.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 6\. Be Cautious of Content Strike and Demonetization
 
 #### 1. Cause for Demonetization
@@ -469,10 +496,16 @@ Beyond all that, it’s about playing games, having a good time, and meeting awe
 
 _What’s stopping you from starting your YouTube gaming channel? Let us know in the comment box below!_
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Best Screen Recorder & Video Editor for Gamers
 
 If you want to record the gameplay and edit it with some text and titles, or creative transitions and effects, I highly recommend you try [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/), which is easy to use yet powerful enough with its editing tools and effects templates. Download the free trial version and get started now.
 
+<!-- affiliate ads begin -->
+<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 [![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
@@ -492,3 +525,46 @@ Follow @Richard Bennett
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-a-filmmakers-approach-to-youtube-splitscreen-videos/"><u>[New] 2024 Approved  A Filmmaker's Approach to YouTube Splitscreen Videos</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-a-world-beyond-men-top-10-inspirational-youtube-stars/"><u>[New] 2024 Approved  A World Beyond Men  Top 10 Inspirational YouTube Stars</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-charting-a-course-youtubes-best-brands/"><u>[New] 2024 Approved  Charting a Course  YouTube's Best Brands</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-video-views-to-vault-closure-income-insights-for-youtubers/"><u>[New] 2024 Approved  From Video Views to Vault Closure  Income Insights for Youtubers</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-a-list-of-the-best-marriage-videos-celebrations-captured-online-8/"><u>[New] In 2024, A List of the Best Marriage Videos - Celebrations Captured Online (8)</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-backtrack-with-flair-ingenious-ways-to-watch-youtube-reverse/"><u>[New] In 2024, Backtrack with Flair  Ingenious Ways to Watch Youtube Reverse</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-top-5-windows-1011-capture-tools-ultimate-list-for-2024/"><u>[New] Top 5 Windows 10/11 Capture Tools  Ultimate List for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-unlocking-your-potential-in-youtube-video-production-scripts/"><u>[New] Unlocking Your Potential in YouTube Video Production Scripts</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-chronic-removal-method-for-youtubes-bite-sized-videos/"><u>[Updated] 2024 Approved  Chronic Removal Method for YouTube's Bite-Sized Videos</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-dividing-opinions-is-mirrorless-better-than-dslr-for-vids/"><u>[Updated] 2024 Approved  Dividing Opinions  Is Mirrorless Better than DSLR for Vids?</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-elevate-content-discovery-the-tubebuddy-way/"><u>[Updated] 2024 Approved  Elevate Content Discovery  The TubeBuddy Way</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-elevate-your-videos-start-with-top-youtube-intro-tips/"><u>[Updated] 2024 Approved  Elevate Your Video's Start with Top YouTube Intro Tips</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-enhancing-clarity-and-comprehensibility-adding-on-screen-captions-in-video-projects/"><u>[Updated] 2024 Approved  Enhancing Clarity & Comprehensibility  Adding On-Screen Captions in Video Projects</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-accurate-and-automatic-video-recording-on-diverse-computing-systems-for-2024/"><u>[Updated] Accurate and Automatic Video Recording on Diverse Computing Systems for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-conquer-your-screen-top-10-simple-youtube-projects-for-all-creators-for-2024/"><u>[Updated] Conquer Your Screen  Top 10 Simple YouTube Projects for All Creators for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-discover-the-joy-of-animated-journeys-youtubes-best-for-everyday-for-2024/"><u>[Updated] Discover the Joy of Animated Journeys  YouTube's Best for Everyday for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-fixed-video-short-display-for-you/"><u>[Updated] Fixed Video Short Display for You</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-free-online-webinar-conduct-with-youtube/"><u>[Updated] Free Online Webinar Conduct with YouTube</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-get-more-viewers-with-social-media-marketing-for-youtube-for-2024/"><u>[Updated] Get More Viewers with Social Media Marketing for YouTube for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-dive-into-gaming-how-to-build-and-prosper-on-youtube/"><u>[Updated] In 2024, Dive Into Gaming  How to Build and Prosper on YouTube</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-income-maximizing-techno-gaming-tactics/"><u>[Updated] Income Maximizing Techno-Gaming Tactics</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-optimizing-tweets-a-guide-to-full-hd-video-experience-for-2024/"><u>[Updated] Optimizing Tweets  A Guide to Full HD Video Experience for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-premier-selector-exclusive-app-selection-for-your-videos/"><u>[Updated] Premier Selector  Exclusive App Selection for Your Videos</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-the-dark-side-of-digital-content-profitability/"><u>[Updated] The Dark Side of Digital Content Profitability</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-unveiling-your-online-income-an-all-encompassing-guide-on-measuring-youtube-growth-and-earnings/"><u>[Updated] Unveiling Your Online Income  An All-Encompassing Guide on Measuring YouTube Growth & Earnings</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/beyond-imagination-the-best-sci-fi-metaverse-films-for-adventurers-for-2024/"><u>Beyond Imagination  The Best Sci-Fi Metaverse Films for Adventurers for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/essential-actions-while-absorbing-audio-tales/"><u>Essential Actions While Absorbing Audio Tales</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/find-out-video-editors-work-smoothly-on-m1-chip/"><u>Find Out Video Editors Work Smoothly on M1 Chip</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-exit-android-factory-mode-on-honor-x50iplus-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Exit Android Factory Mode On Honor X50i+? | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-into-the-next-era-with-2023s-enhanced-samsung-k850u/"><u>In 2024, Into The Next Era with 2023'S Enhanced Samsung K850U</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/in-2024-visibility-restored-for-youtube-shorts-post-update/"><u>In 2024, Visibility Restored for YouTube Shorts Post-Update</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/optimized-windows-10-performance-via-nvidia-210-software-update/"><u>Optimized Windows 10 Performance via NVIDIA 210 Software Update</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/optimizing-video-visibility-with-strategic-tag-selection-for-2024/"><u>Optimizing Video Visibility with Strategic Tag Selection for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/premium-7-dslr-picks-for-ultimate-visual-storytelling-online-for-2024/"><u>Premium 7 DSLR Picks For Ultimate Visual Storytelling Online for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/the-beauty-bard-in-depth-gear-and-tutorial-roundups-for-2024/"><u>The Beauty Bard  In-Depth Gear & Tutorial Roundups for 2024</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-from-silence-to-soundtrack-transforming-video-narratives-using-filmoras-audio-tools-for-2024/"><u>Updated From Silence to Soundtrack Transforming Video Narratives Using Filmoras Audio Tools for 2024</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/updated-top-10-ai-avatar-video-generators/"><u>Updated Top 10 AI Avatar Video Generators</u></a></li>
+<li><a href="https://techidaily.com/what-you-need-to-know-to-improve-your-xiaomi-redmi-k70-pro-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>What You Need To Know To Improve Your Xiaomi Redmi K70 Pro Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/your-journey-through-the-maze-of-uploading-videos-on-youtube-for-2024/"><u>Your Journey Through the Maze of Uploading Videos on YouTube for 2024</u></a></li>
+</ul></div>

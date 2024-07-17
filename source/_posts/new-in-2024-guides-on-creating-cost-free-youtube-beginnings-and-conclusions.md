@@ -1,7 +1,7 @@
 ---
 title: "\"[New] In 2024, Guides on Creating Cost-Free YouTube Beginnings & Conclusions\""
-date: 2024-06-06T16:06:31.506Z
-updated: 2024-06-07T16:06:31.506Z
+date: 2024-07-16T05:34:21.345Z
+updated: 2024-07-17T05:34:21.345Z
 tags:
   - ai video
   - ai youtube
@@ -50,7 +50,7 @@ When your intro video is longer than five seconds viewers are more likely to cli
 
 Whether it is better to put your intro at the very beginning of your video, or after you introduce your topic, will depend on your viewers. You may want to try it both ways and then look at your retention report (found in your YouTube Creator Studio under Analytics) to see which works best for you.
 
-#### [Top Intro Sites](https://tools.techidaily.com/wondershare/filmora/download/)
+#### Top Intro Sites
 
 There are a few different sites where you can download animated intros, customized to include your username or logo. Here are two of the best:
 
@@ -77,6 +77,9 @@ You can create a simple intro card in **Filmora**.
 7. The last piece of your intro is sound. You can choose a song from Filmora’s library and cut it down to five seconds, or import your sound effect.
 8. Export your video and save it for use in all of your other videos.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 2: End Cards
 
 When your video ends, YouTube will recommend a selection of videos users may want to watch next. Often, these recommendations will not include more of your videos.
@@ -93,7 +96,7 @@ You should also have a subscribe link somewhere in your end card, ideally a very
 
 Some creators will leave their end cards at that and play music overtop, but it can be even more effective to include a voiceover where you ask viewers to subscribe and watch your other videos.
 
-#### [How To Make an End Card](https://tools.techidaily.com/wondershare/filmora/download/)
+#### How To Make an End Card
 
 1. Choose a static background. You may want to download an end card template or create one in a drawing program. If you do, make sure to include calls to action like ‘Watch more!’ and ‘Subscribe’.
 2. Drag your background into your timeline at the end of your video.
@@ -110,6 +113,9 @@ Some creators will leave their end cards at that and play music overtop, but it 
 13. Repeat for any other thumbnails. For your subscribe button, change where it said ‘Video’ to ‘Subscribe’ and enter your channel URL.
 14. Click **Apply Changes**.
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
 Shanoon Cox
@@ -129,6 +135,9 @@ Follow @Shanoon Cox
 
 # How to Make a Cooking Video in Steps - an Ultimate Guide
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 ##### Richard Bennett
@@ -156,6 +165,9 @@ Brainstorm this equation - **Main Content + Duration + Light + Sound + Camera + 
 
 Finally, comes the editing and finishing part. Eventually, you’ll need purposive video-editing software to help you work out the video transitions, sound, and visual effects.**Choose a toolkit that is easy to learn** and that you can get comfortable with so that the job of video editing doesn’t take the focus away from the main task of cooking.
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Recipe Videos](https://images.wondershare.com/filmora/article-images/recipe-videos.jpg)
 
 Now, once you have all the essential ingredients to create your video, start practicing. Remember that it is the most natural thing for the first videos to appear amateurish or inept. And that is part of the plan. Don’t be disheartened and keep going.
@@ -200,6 +212,9 @@ There are plenty of options that you can remove background noise, add voiceover,
 
 Once you are satisfied with your content, then go to Export. Choose the format of the video, MOV, MP4, MPG, etc. and whether you wish to publish directly or save to drive.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Tips to Make Your Cooking Videos Stand Out
 
 * Lighting is your best friend. Invest in some quality spotlights or use the best of daylight.
@@ -208,6 +223,9 @@ Once you are satisfied with your content, then go to Export. Choose the format o
 * Keep your video titles relevant and prominent, so that people looking for it can readily find it.
 * Have a scrumptious custom thumbnail.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to Promote Your Cooking Channel on YouTube
 
 * Create an inventory before publishing videos. YouTube vlogging is valued for consistency. If you have a list of 10, 15, 20 videos, then you can have enough time in hand to film your next videos.
@@ -235,3 +253,67 @@ Follow @Richard Bennett
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-guide-the-ultimate-list-of-video-converters/"><u>[New] 2024 Approved  Guide  The Ultimate List of Video Converters</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-optimizing-stardew-valley-fun-a-list-of-the-top-7-mods/"><u>[New] 2024 Approved  Optimizing Stardew Valley Fun  A List of the Top 7 Mods</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-buy-youtube-subscribers-hundreds-of-subscribers-for-5-in-2024/"><u>[New] Buy YouTube Subscribers - Hundreds of Subscribers for $5, In 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-hands-on-guide-to-optimize-your-youtube-channels-with-adsense-for-2024/"><u>[New] Hands-On Guide to Optimize Your YouTube Channels with AdSense for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-how-to-start-a-successful-youtube-gaming-channel-for-2024/"><u>[New] How to Start a Successful YouTube Gaming Channel for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-digital-content-arena-competing-titans-vimeo-youtube-dailymotion/"><u>[New] In 2024, Digital Content Arena  Competing Titans - Vimeo, YouTube, DailyMotion</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-in-2024-elevate-your-content-game-with-professional-facebook-slideshow-techniques/"><u>[New] In 2024, Elevate Your Content Game with Professional Facebook Slideshow Techniques</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-essential-steps-for-starting-a-youtube-channel/"><u>[New] In 2024, Essential Steps for Starting a YouTube Channel</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-finding-your-portal-to-youtubes-video-mastery-hub/"><u>[New] In 2024, Finding Your Portal to YouTube's Video Mastery Hub</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-flixfusion-the-ultimate-gaming-channel-mix/"><u>[New] In 2024, FlixFusion  The Ultimate Gaming Channel Mix</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-future-earning-potential-in-gaming-videos/"><u>[New] In 2024, Future Earning Potential in Gaming Videos</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-in-2024-premier-media-transformer-mp4-)-fb/"><u>[New] In 2024, Premier Media Transformer  MP4 -> FB</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-inside-look-at-youtubes-digital-media-oasis/"><u>[New] Inside Look at YouTube's Digital Media Oasis</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-maximizing-your-marketing-mettle-on-youtube/"><u>[New] Maximizing Your Marketing Mettle on Youtube</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-edu-odyssey-journey-through-top-learning-sites/"><u>[Updated] 2024 Approved  Edu-Odyssey  Journey Through Top Learning Sites</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-creating-on-the-side-balancing-employment-with-youtube-for-2024/"><u>[Updated] Creating on the Side  Balancing Employment with YouTube for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-elevate-your-content-game-with-these-powerful-youtube-shortcuts-for-2024/"><u>[Updated] Elevate Your Content Game with These Powerful YouTube Shortcuts for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-elevating-your-social-signature-top-tips-and-tricks-for-impressive-biographies-on-fb/"><u>[Updated] Elevating Your Social Signature  Top Tips and Tricks for Impressive Biographies on FB</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-expert-tips-for-recording-fan-favorite-sports-games-for-2024/"><u>[Updated] Expert Tips for Recording Fan-Favorite Sports Games for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-find-your-vfx-match-top-8-sites-for-free-high-quality-green-screen-footage/"><u>[Updated] Find Your VFX Match - Top 8 Sites for FREE High Quality Green Screen Footage</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-flv-to-youtubes-master-the-art-of-video-transformation-with-these-top-tools-for-2024/"><u>[Updated] Flv to Youtubes  Master the Art of Video Transformation with These Top Tools for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-from-novice-to-pro-youtube-editing-and-alternatives/"><u>[Updated] From Novice to Pro  YouTube Editing & Alternatives</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-from-vision-to-execution-the-full-spectrum-of-personal-branding-on-youtube/"><u>[Updated] From Vision to Execution  The Full Spectrum of Personal Branding on YouTube</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-budget-conscious-broadcayers-guide-to-cheap-mics/"><u>[Updated] In 2024, Budget-Conscious Broadcayer's Guide to Cheap Mics</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-enrich-your-viewing-habit-with-essential-movie-channels/"><u>[Updated] In 2024, Enrich Your Viewing Habit with Essential Movie Channels</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-absolute-zero-to-huge-audiences-the-10-key-steps-to-boosting-view-count/"><u>[Updated] In 2024, From Absolute Zero to Huge Audiences  The 10 Key Steps to Boosting View Count</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-insiders-guide-maximizing-windows-11-efficiency/"><u>[Updated] Insider's Guide  Maximizing Windows 11 Efficiency</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-key-information-every-asmr-aficionado-should-know/"><u>[Updated] Key Information Every ASMR Aficionado Should Know</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-mastering-filming-techniques-on-tiktok-platforms/"><u>[Updated] Mastering Filming Techniques on TikTok Platforms</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-mirroring-mastery-the-craft-of-comical-mocks/"><u>[Updated] Mirroring Mastery  The Craft of Comical Mocks</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-revenue-rise-at-the-half-million-club-500-subs-count/"><u>[Updated] Revenue Rise at the Half-Million Club  500 Subs Count</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-simplified-sound-conversion-top-6-apps-for-youtube-to-mp3-on-iphone/"><u>[Updated] Simplified Sound Conversion  Top 6 Apps for YouTube to MP3 on iPhone</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-streamline-your-youtube-videos-in-windows-movie-maker/"><u>[Updated] Streamline Your YouTube Videos in Windows Movie Maker</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-the-ultimate-list-innovative-youtube-channel-titles-for-blogging-and-filming-no-more-than-156-characters/"><u>[Updated] The Ultimate List  Innovative Youtube Channel Titles For Blogging & Filming (No More than 156 Characters)</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-unlocking-viewership-on-multiple-channels-youtube-and-friends/"><u>[Updated] Unlocking Viewership on Multiple Channels (YouTube & Friends)</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-unshakeable-video-quality-best-stabilizers/"><u>[Updated] Unshakeable Video Quality - Best Stabilizers</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-imovie-clip-integration-into-youtubes-vast-network/"><u>2024 Approved  IMovie Clip Integration Into YouTube's Vast Network</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-instant-expertise-changing-photos-to-captivating-youtube-thumbnails/"><u>2024 Approved  Instant Expertise  Changing Photos to Captivating YouTube Thumbnails</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-knowledge-hub-leading-educational-youtube-sources/"><u>2024 Approved  Knowledge Hub  Leading Educational YouTube Sources</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/2024-approved-transform-videos-with-easy-to-use-sound-effects/"><u>2024 Approved  Transform Videos with Easy-to-Use Sound Effects!</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/assessing-the-impact-of-purchased-view-count-on-channels/"><u>Assessing the Impact of Purchased View Count on Channels</u></a></li>
+<li><a href="https://windows11.techidaily.com/avoid-unwanted-hibernation-usb-tweaks-for-windows-11/"><u>Avoid Unwanted Hibernation - USB Tweaks for Windows 11</u></a></li>
+<li><a href="https://techidaily.com/best-fixes-for-xiaomi-redmi-note-12-proplus-5g-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Best Fixes For Xiaomi Redmi Note 12 Pro+ 5G Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/breakdown-utilizing-bluescreenview-for-professionals/"><u>Breakdown: Utilizing BlueScreenView for Professionals</u></a></li>
+<li><a href="https://extra-information.techidaily.com/complete-control-over-your-youtube-viewing-experience/"><u>Complete Control Over Your YouTube Viewing Experience</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/frp-hijacker-by-hagard-download-and-bypass-your-tecno-spark-go-2024-frp-locks-by-drfone-android/"><u>FRP Hijacker by Hagard Download and Bypass your Tecno Spark Go (2024) FRP Locks</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-fix-excel-2007-formulas-not-working-properly-step-by-step-guide-stellar-by-stellar-guide/"><u>How to Fix Excel 2007 Formulas Not Working Properly | Step-by-Step Guide | Stellar</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-apple-iphone-se-2020-with-an-apple-watch-and-what-to-do-if-it-doesnt-work-drfone-by-drfone-ios/"><u>How to Unlock Apple iPhone SE (2020) With an Apple Watch & What to Do if It Doesnt Work | Dr.fone</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/in-2024-effortless-youtube-video-to-text-conversion-at-no-cost/"><u>In 2024, Effortless YouTube Video to Text Conversion at No Cost!</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-hacks-to-do-pokemon-go-trainer-battles-for-realme-c67-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Hacks to do pokemon go trainer battles For Realme C67 5G | Dr.fone</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/in-2024-unveiling-t5s-ability-to-capture-excitement-and-adventure/"><u>In 2024, Unveiling T5's Ability to Capture Excitement and Adventure</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-essential-tips-on-acquiring-ideal-instrumental-sounds-for-enhanced-video-experience-for-2024/"><u>New Essential Tips on Acquiring Ideal Instrumental Sounds for Enhanced Video Experience for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/no-imagery-new-firmware-loaded/"><u>No Imagery, New Firmware Loaded</u></a></li>
+<li><a href="https://review-topics.techidaily.com/possible-ways-to-recover-deleted-files-from-vivo-x-fold-2-by-fonelab-android-recover-data/"><u>Possible ways to recover deleted files from Vivo X Fold 2</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/protecting-privacy-during-youtube-to-mp4-conversion-for-2024/"><u>Protecting Privacy During YouTube-to-MP4 Conversion for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/replay-anywhere-instant-guide-to-youtube-video-loops-for-2024/"><u>Replay Anywhere  Instant Guide to YouTube Video Loops for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/the-best-funny-fictional-frequencies-for-2024/"><u>The Best Funny Fictional Frequencies for 2024</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/top-10-fingerprint-lock-apps-to-lock-your-samsung-galaxy-z-flip-5-phone-by-drfone-android/"><u>Top 10 Fingerprint Lock Apps to Lock Your Samsung Galaxy Z Flip 5 Phone</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/understanding-vimeos-unique-value-over-youtube-for-2024/"><u>Understanding Vimeo's Unique Value over YouTube for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/video-based-teaching-methodologies-explained/"><u>Video-Based Teaching Methodologies Explained</u></a></li>
+</ul></div>

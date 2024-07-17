@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  Fostering Self-Assurance Against Virtual Hostility\""
-date: 2024-06-06T14:39:02.042Z
-updated: 2024-06-07T14:39:02.042Z
+date: 2024-07-16T03:22:48.674Z
+updated: 2024-07-17T03:22:48.674Z
 tags:
   - ai video
   - ai youtube
@@ -18,6 +18,9 @@ thumbnail: https://thmb.techidaily.com/0e76410444c7c01d9e8ad4e31c08df5ce8b625bff
 
 # How To Deal with YouTube Trolls and Negative Comments
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 ##### Richard Bennett
@@ -26,6 +29,9 @@ thumbnail: https://thmb.techidaily.com/0e76410444c7c01d9e8ad4e31c08df5ce8b625bff
 
  If you have put a lot of work into your YouTube videos then it only makes sense that you have an emotional investment in them. When someone leaves a mean, negative comment on one of your videos it will likely affect you. It may make you angry, hurt your feelings, or just leave you baffled over how someone could come away from your video with out-of-the-blue opinion the hater has posted. ‘Do not feed the trolls’ is a mantra that can be hard to abide by. This article will explain why you should not engage trolls and how to talk to them if you find yourself doing it anyways.
 
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to Deal with Negative Comments on YouTube
 
 #### 1\. Identifying Trolls / When Is A Troll Not a Troll?
@@ -52,6 +58,9 @@ thumbnail: https://thmb.techidaily.com/0e76410444c7c01d9e8ad4e31c08df5ce8b625bff
 
  You will not get the troll to say they were wrong or apologize so that should never be your goal. What you can do is create a public record of the troll being corrected for others to judge for themselves. If you maintain a calm, unaffected, tone then the troll will find you boring.
 
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 Richard Bennett
@@ -67,10 +76,58 @@ Follow @Richard Bennett
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Sparking Inspiration: Outstanding YouTube Content Themes
 
 # Best YouTube Video Ideas to Spark Inspiration
 
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-harmonizing-your-music-a-youtube-playlist-journey/"><u>[New] In 2024, Harmonizing Your Music  A YouTube Playlist Journey</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-big-should-a-good-thumbnail-be-youtubes-ultimate-guide/"><u>[New] In 2024, How Big Should a Good Thumbnail Be? YouTube's Ultimate Guide</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-stream-google-meet-to-youtube-step-by-step-guide/"><u>[New] In 2024, How To Stream Google Meet to YouTube [Step-by-Step Guide]</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-youtube-seo-guide-for-beginners-who-want-more-views/"><u>[New] In 2024, YouTube SEO Guide for Beginners Who Want More Views</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-film-fans-choice-cutting-edge-youtube-channels/"><u>[Updated] 2024 Approved  Film Fan's Choice  Cutting-Edge YouTube Channels</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-noob-to-pro-selecting-webcams-that-make-a-difference-in-youtube-livestreams/"><u>[Updated] 2024 Approved  From Noob to Pro  Selecting Webcams That Make a Difference in YouTube Livestreams</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-getting-acquainted-with-youtube-tvs-distinctive-features/"><u>[Updated] 2024 Approved  Getting Acquainted with YouTube TV's Distinctive Features</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-get-just-the-essentials-from-youtube-videos/"><u>[Updated] 2024 Approved  How to Get Just the Essentials From YouTube Videos</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-mergecombinejoin-youtube-flv-videos/"><u>[Updated] 2024 Approved  How to Merge/Combine/Join YouTube (FLV) Videos</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-filmmaking-made-simple-a-smartphone-guide-to-youtube-thumbnails-for-2024/"><u>[Updated] Filmmaking Made Simple  A Smartphone Guide to YouTube Thumbnails for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-fixing-the-no-thumbnail-issue-in-youtubes-shorts-videos-for-2024/"><u>[Updated] Fixing the No-Thumbnail Issue in YouTubes Shorts Videos for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-gain-money-on-youtube-understanding-required-number-of-views-for-2024/"><u>[Updated] Gain Money on YouTube  Understanding Required Number of Views for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-guffaw-generation-generating-7-hilarious-video-moments-online-for-2024/"><u>[Updated] Guffaw Generation  Generating 7 Hilarious Video Moments Online for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-convert-youtube-videos-to-gifs-for-2024/"><u>[Updated] How to Convert YouTube Videos to GIFs for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-strategically-use-tags-for-youtube-success-for-2024/"><u>[Updated] How to Strategically Use Tags for YouTube Success for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-ideas-for-making-eye-catching-facebook-video-ads-for-2024/"><u>[Updated] Ideas for Making Eye-Catching Facebook Video Ads for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-essential-scenery-for-engaging-live-feeds/"><u>[Updated] In 2024, Essential Scenery for Engaging Live Feeds</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-fixing-invisible-areas-within-youtube-videos/"><u>[Updated] In 2024, Fixing Invisible Areas Within YouTube Videos</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-casual-follower-to-dedicated-subscriber-inspirational-journey/"><u>[Updated] In 2024, From Casual Follower to Dedicated Subscriber  Inspirational Journey</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-editing-to-sharing-using-premiere-with-youtube/"><u>[Updated] In 2024, From Editing to Sharing  Using Premiere with YouTube</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-hundreds-to-millions-a-youtube-growth-journey/"><u>[Updated] In 2024, From Hundreds to Millions  A YouTube Growth Journey</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-frosty-frameworks-for-warm-video-productions/"><u>[Updated] In 2024, Frosty Frameworks for Warm Video Productions</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-shadows-and-highlights-for-text-depth-in-illustrator/"><u>[Updated] Shadows & Highlights for Text Depth in Illustrator</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-accelerate-your-photo-edits-expert-lunapic-techniques/"><u>2024 Approved  Accelerate Your Photo Edits  Expert LunaPic Techniques</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/2024-approved-lost-footage-on-tiktok-repeat-video-history/"><u>2024 Approved  Lost Footage on TikTok  Repeat Video History</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-the-art-of-video-filming-across-various-computing-platforms/"><u>2024 Approved  The Art of Video Filming Across Various Computing Platforms</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/expert-sound-engineers-to-elevate-live-and-on-demand-streams/"><u>Expert Sound Engineers to Elevate Live and On-Demand Streams</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-disabled-iphone-13ipad-without-computer-drfone-by-drfone-ios/"><u>How to Unlock Disabled iPhone 13/iPad Without Computer | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/how-to-use-pokemon-emerald-master-ball-cheat-on-nubia-z50s-pro-drfone-by-drfone-virtual-android/"><u>How to Use Pokémon Emerald Master Ball Cheat On Nubia Z50S Pro | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-everything-you-need-to-know-about-lock-screen-settings-on-your-vivo-y27-5g-by-drfone-android/"><u>In 2024, Everything You Need to Know about Lock Screen Settings on your Vivo Y27 5G</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/in-2024-how-to-mute-audio-from-video/"><u>In 2024, How to Mute Audio From Video</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-revolutionize-your-gameplay-with-this-gratuitous-voice-alterer/"><u>In 2024, Revolutionize Your Gameplay with This Gratuitous Voice Alterer</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-select-8-dynamic-backgrounds-for-your-mbp/"><u>In 2024, Select 8 Dynamic Backgrounds for Your MBP</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-the-ultimate-list-10-best-video-combining-alternatives/"><u>New The Ultimate List 10 Best Video Combining Alternatives</u></a></li>
+<li><a href="https://location-social.techidaily.com/proven-ways-in-how-to-hide-location-on-life360-for-nokia-c12-drfone-by-drfone-virtual-android/"><u>Proven Ways in How To Hide Location on Life360 For Nokia C12 | Dr.fone</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/the-quintessential-quotient-subscriber-rankings-for-2024/"><u>The Quintessential Quotient  Subscriber Rankings for 2024</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/the-top-10-apple-iphone-11-pro-emualtors-for-windows-mac-and-android-drfone-by-drfone-ios/"><u>The Top 10 Apple iPhone 11 Pro Emualtors for Windows, Mac and Android | Dr.fone</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-aspect-ratio-mastery-5-surprising-facts-about-16x9-calculators-for-2024/"><u>Updated Aspect Ratio Mastery 5 Surprising Facts About 16X9 Calculators for 2024</u></a></li>
+</ul></div>

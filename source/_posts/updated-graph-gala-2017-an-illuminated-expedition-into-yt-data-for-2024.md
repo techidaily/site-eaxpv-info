@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Graph Gala 2017  An Illuminated Expedition Into YT Data for 2024\""
-date: 2024-06-06T15:42:40.404Z
-updated: 2024-06-07T15:42:40.404Z
+date: 2024-07-16T04:58:12.361Z
+updated: 2024-07-17T04:58:12.361Z
 tags:
   - ai video
   - ai youtube
@@ -18,6 +18,9 @@ thumbnail: https://thmb.techidaily.com/4c64599e932018a17c352685488bbe982ee82f5fc
 
 # Infographic - Mind Numbing YouTube Facts,Figures and Statistics
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 ##### Richard Bennett
@@ -73,6 +76,9 @@ Follow @Richard Bennett
 
 # How to Turn on or off Comments on YouTube
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
 
 ##### Liza Brown
@@ -93,13 +99,16 @@ If you don’t want any comments on any of the videos that you publish, you must
 
 Use your favorite web browser to go to YouTube and sign in to your Google account. Click your profile picture from the top-right corner of the webpage, and click **YouTube Studio** from the menu that appears.
 
-![ Find YouTube Studio options](https://images.wondershare.com/filmora/article-images/find-youtube-studio-option.jpg)
+![Find YouTube Studio options](https://images.wondershare.com/filmora/article-images/find-youtube-studio-option.jpg)
 
 #### Step 2: Go to Channel’s Advanced Settings
 
 From the bottom of the left pane, click the **Settings** icon, click **Channel** from the **Settings** box that comes up next, and go to **Advanced settings** from the right window.
 
-![  YouTube Channel Advanced Settings](https://images.wondershare.com/filmora/article-images/youtube-channel-advanced-settings.jpg)
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![YouTube Channel Advanced Settings](https://images.wondershare.com/filmora/article-images/youtube-channel-advanced-settings.jpg)
 
 #### Step 3: Turn Off Comments
 
@@ -111,19 +120,22 @@ To turn on comments on **all the videos on your YouTube channel**, you can follo
 
 Use the method explained above to get to the channel’s **Advanced settings** box. Select the **No, set this channel as not made for kids. I never upload content that’s made for kids** radio button. Click **SAVE** to save the changes.
 
-![  Turn on YouTube Channel Comments](https://images.wondershare.com/filmora/article-images/turn-on-channel-comments-advanced-settings.jpg)
+![Turn on YouTube Channel Comments](https://images.wondershare.com/filmora/article-images/turn-on-channel-comments-advanced-settings.jpg)
 
 #### 2\. Define Acceptable Comment Types
 
 Click the **Settings** icon from the bottom of the left pane one more time. On the **Settings** box, go to the **Upload defaults** category from the left pane, and go to **Advanced settings** from the right. From the **Comment visibility** drop-down list under the **Comments** section in the right, choose your preferred comment allowance type, and click **SAVE** to allow the comments on the videos the channel has.
 
-![ Set up YouTube video  Comments visibility](https://images.wondershare.com/filmora/article-images/set-up-youtube-comments-visibilities.jpg)
+<!-- affiliate ads begin -->
+<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![Set up YouTube video  Comments visibility](https://images.wondershare.com/filmora/article-images/set-up-youtube-comments-visibilities.jpg)
 
 #### 3\. Set Comment Allowance for Videos
 
 Back on the **YouTube Studio** page, click **Content** from the left pane. From the right section, check the **Video** box at the top of the list to select all the videos the channel has. Click **Edit** from the column header, and click **Comments** from the menu that comes up. From the **New value** drop-down list, choose your preferred allowance option for the comments, click **UPDATE VIDEOS** from the upper-right area, check the **I understand the implications of this action** box, and click **UPDATE VIDEOS** to allow comments on all the videos of the channel.
 
-![ Turn on or off YouTube content commnets settings](https://images.wondershare.com/filmora/article-images/turn-on-off-channel-content-comments-settings.jpg)
+![Turn on or off YouTube content commnets settings](https://images.wondershare.com/filmora/article-images/turn-on-off-channel-content-comments-settings.jpg)
 
 #### **Additional Info about Comments Options**
 
@@ -163,10 +175,13 @@ Hover the mouse over the target video in the right window, and click the **Detai
 
 From under the **Audience** section in the right window of the **Video details** page, select the **No, it’s not made for kids** radio button. Next, click **SHOW MORE**, scroll down to the **Comments and ratings** section, and choose your preferred privacy option from the **Comment visibility** drop-down list. Click **SAVE** from the upper-right area to save the changes.
 
-![ Turn on or turn off comments for specific youtube video](https://images.wondershare.com/filmora/article-images/turn-on-off-comments-for-specific-youtube-video.jpg)
+![Turn on or turn off comments for specific youtube video](https://images.wondershare.com/filmora/article-images/turn-on-off-comments-for-specific-youtube-video.jpg)
 
 **Note:** To learn **how to disable comments on YouTube** for specific video, you can repeat the above steps, and choose the **Yes, it’s made for kids** radio button from the **Audience** section when you are on the **Video details** page.
 
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## FAQs About YouTube Comments
 
 #### 1\. Why can’t I comment on the YouTube video?
@@ -181,7 +196,7 @@ At the time of this writing, YouTube doesn’t allow anyone to post a comment on
 
 You can go to **YouTube Studio** \> **Settings** \> **Community**, and on the **Automated Filters** tab in the right window, add the words to block in the **Blocked words** field. You can add multiple words by separating them with commas. To block the comments with links, check the **Block links** box. Click **SAVE** to save the changes.
 
-![ Block YouTube   commnets ](https://images.wondershare.com/filmora/article-images/block-users-youtube-comment.jpg)
+![Block YouTube   commnets](https://images.wondershare.com/filmora/article-images/block-users-youtube-comment.jpg)
 
 #### 4\. If I turn comments off and back on again, will the old comments come back?
 
@@ -195,6 +210,9 @@ That depends on the nature of the comments. For instance, if you modify the sett
 
 It is easy to understand **how to turn on comments on YouTube**. The best thing is, the comments are enabled by default, and if you don’t need them, you can simply disable them by configuring the videos or the entire channel as ‘Made for kids’. If the comments on any video were enabled previously, and are disabled later on, the existing comments automatically disappear. They reappear when the comments on the video are reenabled.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
 
 Liza Brown
@@ -212,3 +230,43 @@ Follow @Liza Brown
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-add-timestamps-youtube-video/"><u>[New] 2024 Approved  How to Add Timestamps YouTube Video?</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-filmora-simplified-guide-to-an-engaging-youtube-anime-subscriber-bar-for-2024/"><u>[New] Filmora  Simplified Guide to an Engaging YouTube Anime Subscriber Bar for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-fixed-youtube-shorts-just-watch-and-enjoy-for-2024/"><u>[New] Fixed YouTube Shorts - Just Watch and Enjoy for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-from-good-to-great-elevate-reactions-in-youtube-videos-with-these-3-strategies-for-2024/"><u>[New] From Good to Great  Elevate Reactions in YouTube Videos with These 3 Strategies for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-how-to-make-a-youtube-trailer-for-2024/"><u>[New] How To Make a YouTube Trailer for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-foremost-10-recording-apps-for-social-media-vids/"><u>[New] In 2024, Foremost 10 Recording Apps for Social Media Vids</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-couch-to-camera-earning-through-personal-vlogging/"><u>[New] In 2024, From Couch-to-Camera  Earning Through Personal Vlogging</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-guide-to-getting-1000-subscribers-for-your-youtube-channel/"><u>[New] In 2024, Guide to Getting 1000 Subscribers for Your YouTube Channel</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-hone-your-livestream-skills-on-youtubes-premier-platform/"><u>[New] In 2024, Hone Your Livestream Skills on YouTube's Premier Platform</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-elevate-your-youtube-videos-popularity-through-persistent-cc-licensing/"><u>[New] In 2024, How to Elevate Your YouTube Video's Popularity Through Persistent CC Licensing</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-premier-android-vocal-mixer-app/"><u>[New] Premier Android Vocal Mixer App</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-top-5-tiktok-fonts-for-higher-engagement-in-23-for-2024/"><u>[New] Top 5 TikTok Fonts for Higher Engagement in '23 for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-find-your-fit-top-10-youtube-channels-for-yogic-health/"><u>[Updated] 2024 Approved  Find Your Fit  Top 10 YouTube Channels for Yogic Health</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-find-your-way-the-insider-guide-to-youtube-video-management-hub/"><u>[Updated] 2024 Approved  Find Your Way  The Insider Guide to YouTube Video Management Hub</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-flipping-scripts-generating-parody-content/"><u>[Updated] 2024 Approved  Flipping Scripts  Generating Parody Content</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-humble-beginnings-to-prodigy-carryminatis-earnings-ajey/"><u>[Updated] 2024 Approved  From Humble Beginnings to Prodigy  CarryMinati's Earnings (Ajey)</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-phone-footage-to-channel-fame-a-seamless-setup-for-your-businesspersonal-brand/"><u>[Updated] 2024 Approved  From Phone Footage to Channel Fame  A Seamless Setup for Your Business/Personal Brand</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-videos-to-vibrant-gifs-youtube-conversion-techniques/"><u>[Updated] 2024 Approved  From Videos to Vibrant GIFs  YouTube Conversion Techniques</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-go-global-with-music-transform-your-spotify-lists-into-youtube-videos/"><u>[Updated] 2024 Approved  Go Global with Music  Transform Your Spotify Lists Into YouTube Videos</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-guide-to-superior-youtube-commercials/"><u>[Updated] 2024 Approved  Guide to Superior YouTube Commercials</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-hot-takes-dailys-most-popular-video-tracks/"><u>[Updated] 2024 Approved  Hot Takes  Daily's Most Popular Video Tracks</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-can-you-grow-without-buying-views/"><u>[Updated] 2024 Approved  How Can You Grow Without Buying Views?</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-clear-black-boards-in-your-youtube-videos/"><u>[Updated] 2024 Approved  How to Clear Black Boards in Your YouTube Videos?</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-incorporating-borders-in-your-next-video-post/"><u>[Updated] In 2024, Incorporating Borders in Your Next Video Post</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-the-2023-dive-into-apeaksofts-video-capture-marvels-for-2024/"><u>[Updated] The 2023 Dive Into Apeaksoft’s Video Capture Marvels for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-leading-edge-1-ranked-4k-gaming-pcs/"><u>2024 Approved  Leading Edge  #1 Ranked 4K Gaming PCs</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-meme-ology-the-science-of-popularizing-video-laughs-on-social-platforms/"><u>2024 Approved  Meme-Ology  The Science of Popularizing Video Laughs on Social Platforms</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/how-to-transform-your-webcam-videos-in-seconds-for-2024/"><u>How to Transform Your WebCam Videos in Seconds for 2024</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-use-special-features-virtual-location-on-xiaomi-redmi-note-12-4g-drfone-by-drfone-virtual-android/"><u>How To Use Special Features - Virtual Location On Xiaomi Redmi Note 12 4G? | Dr.fone</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/in-2024-command-the-stage-of-youtube-with-studio-skills/"><u>In 2024, Command the Stage of YouTube with Studio Skills</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-elite-11-auditorial-capture-devices-overview/"><u>In 2024, Elite #11 Auditorial Capture Devices Overview</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-change-your-sim-pin-code-on-your-vivo-t2-pro-5g-phone-by-drfone-android/"><u>In 2024, How To Change Your SIM PIN Code on Your Vivo T2 Pro 5G Phone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-unveiling-the-spectrum-of-hand-tracking-technologies/"><u>In 2024, Unveiling the Spectrum of Hand Tracking Technologies</u></a></li>
+<li><a href="https://extra-information.techidaily.com/is-sns-hdr-pro-worth-your-investment-a-critical-look/"><u>Is SNS HDR Pro Worth Your Investment  A Critical Look</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-in-2024-top-8-dictation-software-for-windows-mac-and-online/"><u>New In 2024, Top 8 Dictation Software for Windows, Mac, and Online</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/unveiling-the-art-of-excellent-collages-12-edition/"><u>Unveiling the Art of Excellent Collages (#12 Edition)</u></a></li>
+</ul></div>

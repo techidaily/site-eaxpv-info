@@ -1,7 +1,7 @@
 ---
 title: "\"[New] In 2024, How to Transform Your Youtube Vids  A Guide to Softened Screens\""
-date: 2024-06-06T15:41:54.112Z
-updated: 2024-06-07T15:41:54.112Z
+date: 2024-07-16T04:57:04.176Z
+updated: 2024-07-17T04:57:04.176Z
 tags:
   - ai video
   - ai youtube
@@ -35,6 +35,9 @@ Even if your set is clean, there could be things like books behind you, which wi
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 1: How to Blur Background of Your YouTube Video in Shooting Videos
 
 Blurring your background is also how you create a beautiful bokeh lighting effect. Bokeh is when you blur lights in the background of your shot, creating halo-like circles of light. By attaching a filter with a shape cut out to the camera lens, you can even generate bokeh lights in other shapes, like hearts or stars.
@@ -60,36 +63,56 @@ To get a shallow depth of field, make sure your aperture is wide. Do this by set
 
 Creating a bokeh effect is mostly the same, except that it works best when your subject/depth of field is very close to the camera, and you have a light source off in the background. Zoom Lenses do not usually have wide enough apertures to create bokeh backgrounds.
 
-## Blur Video Background in Post-Production with [Wondershare Filmora Video Editor](https://tools.techidaily.com/wondershare/filmora/download/)
+## Blur Video Background in Post-Production with Wondershare Filmora Video Editor
 
 If you need to blur the video background after shooting, you can use some video editing software to add the bokeh effect or the tilt-off effect in post-production. Here, I will show you how to do that in Filmora.
 
 Filmora is one of the most widely used video editing software among YouTubers. Its user-friendly interface and tutorial guide enables green-hands to start video editing quickly. Besides, you can find many free filters, effects, and elements pre-programmed, so you can use them directly without looking for presets and templates somewhere else.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
 ### 1\. Add Bokeh Filter to Video in Filmora
 
 There are about 20 bokeh effects available in filters and overlays. You can find them easily by typing bokeh in the search bar in Effects.
 
 Note: you should select **Included** to see all bokeh effects pre-programmed in Filmora. If you need more visual effects, just go to [the Filmstock](https://tools.techidaily.com/wondershare/filmora/download/) effects store.
 
-![ Filmora Bokeh effect ](https://images.wondershare.com/filmora/article-images/filmora9-bokeh-effect.jpg)
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![Filmora Bokeh effect](https://images.wondershare.com/filmora/article-images/filmora9-bokeh-effect.jpg)
 
 Double click the bokeh effect to preview the result, and if you find the bokeh effect fits the video, just drop it to the track above the video. And the bokeh filter or overlay will be applied to the video automatically.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 2\. Use Tilt-Shift Circle/Linear Effect to Blur Video Background
 
 Filmora features two tilt effects, tilt-shift circle and tilt-shift linear, which allows you to highlight people in the video, blur, and conceal the video background.
 
 Go to the **Effects** tab and then switch to the **Utility** menu under **Included** category.
 
-![ Filmora Tilt-Shift effects ](https://images.wondershare.com/filmora/article-images/tilt-shift-effects.jpg)
+![Filmora Tilt-Shift effects](https://images.wondershare.com/filmora/article-images/tilt-shift-effects.jpg)
 
 Here, I will select the **Tilt-Shift Circle** effect and drop it to the track above the video. Now, you can adjust the size, position, and intensity of the tilt-shift circle effect
 
-![ Filmora Tilt-Shift Circle effect](https://images.wondershare.com/filmora/article-images/apply-tilt-shift-circle-effect.jpg)
+<!-- affiliate ads begin -->
+<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
+<span class="text-ad-content">
+	#1 Rated Parental Control Software.<br/>
+	Monitor & Control all PC Activity!<br/>
+		<cite style="color:green">sentrypc.com/parental-controls/</cite>
+	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![Filmora Tilt-Shift Circle effect](https://images.wondershare.com/filmora/article-images/apply-tilt-shift-circle-effect.jpg)
 
 You see, the video background is blurred, and the people are highlighted. Now it's your turn to download the Filmora video editor and try it yourself.
 
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 [![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
@@ -107,6 +130,9 @@ Follow @Richard Bennett
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Examining Video Sharing Platforms: The Vimeo & YouTube Divide
 
 # Vimeo vs YouTube: Which is Better?
@@ -133,6 +159,9 @@ Please watch the video below for more information:
 
 **YouTube:** When it comes to users YouTube comes out on top with over a billion views each and every month. You are able to interact with your viewers by using the comments and people are able to follow you so that they are notified of new videos and comments. As there is already a huge following on YouTube it’s easy to get a good following if you have great content. It’s harder to control public content which is a downside to using YouTube and there is very little customer support. With the comments being moderated rarely it can cause a distraction from your video. Businesses tend to internally block YouTube video’s which means you won’t get the viewings from people on their lunch breaks.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![vimeo-vs-youtube-communities](https://images.wondershare.com/filmora/article-images/vimeo-vs-youtube-communities.jpg)
 
 **Vimeo:** With higher quality content and no advertisements video owners can quickly build a valid following and gain comments from people that are contributing high value information. You have more detailed analytics which makes it easier to see where you are going wrong should you not have the following you want and you are able to use your own domain. With Google owning YouTube you are unlikely to get the same exposure you would, however the followers tend to be valid giving you a real idea of where you are going right or wrong. Because of the higher quality followers you are less likely to get negative or abusive comments when you use Vimeo, however it is a paid subscription with each tier giving you more space to upload.
@@ -182,3 +211,45 @@ Follow @Ollie Mattison
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-a-comprehensive-review-camera-lenses-for-youtube/"><u>[New] 2024 Approved  A Comprehensive Review  Camera Lenses for YouTube</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-effortless-media-incorporation-youtube-to-slides/"><u>[New] 2024 Approved  Effortless Media Incorporation  YouTube to Slides</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-filmmakers-pathway-youtube-trailer-creation-with-filmora/"><u>[New] 2024 Approved  Filmmaker's Pathway  YouTube Trailer Creation with Filmora</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-get-hooked-to-these-top-20-youtube-musical-havens/"><u>[New] 2024 Approved  Get Hooked to These Top 20 YouTube Musical Havens</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-hands-on-methods-mirror-video-frames-using-vlc/"><u>[New] 2024 Approved  Hands-On Methods  Mirror Video Frames Using VLC</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-boost-views-top-10-free-tools-for-custom-youtube-thumbnails-for-2024/"><u>[New] Boost Views  Top 10 Free Tools for Custom YouTube Thumbnails for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-how-to-skyrocket-likes-on-your-tiktok-unpack-sessions/"><u>[New] How to Skyrocket Likes on Your TikTok Unpack Sessions</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-captivating-viewers-top-10-creative-yt-reaction-tactics/"><u>[New] In 2024, Captivating Viewers  Top 10 Creative YT Reaction Tactics</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-enhance-engagement-select-best-fonts-for-your-thumbnails/"><u>[New] In 2024, Enhance Engagement  Select Best Fonts for Your Thumbnails</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-peak-performance-tools-best-4k-cameras-for-professionals/"><u>[New] Peak Performance Tools  Best 4K Cameras for Professionals</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-structured-approach-to-managing-youtube-videos-a-complete-watch-later-system/"><u>[New] Structured Approach to Managing YouTube Videos  A Complete Watch Later System</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-transforming-raw-footage-expert-pc-editing-tips-for-youtube-creators/"><u>[New] Transforming Raw Footage  Expert PC Editing Tips for YouTube Creators</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-unleash-your-contents-potential-organic-growth-tactics/"><u>[New] Unleash Your Content's Potential  Organic Growth Tactics</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-breaking-the-mold-how-to-create-a-standout-youtube-channel-name/"><u>[Updated] 2024 Approved  Breaking the Mold  How to Create a Standout YouTube Channel Name</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-create-fantastic-youtube-description-with-templates-to-get-more-viewers/"><u>[Updated] 2024 Approved  Create Fantastic YouTube Description With Templates To Get More Viewers</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-demystifying-how-tseries-capitalizes-on-youtube-audience-reach/"><u>[Updated] 2024 Approved  Demystifying How TSeries Capitalizes on YouTube Audience Reach</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-building-a-diverse-content-portfolio-on-youtube-shorts-for-2024/"><u>[Updated] Building a Diverse Content Portfolio on YouTube Shorts for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-12-simple-tricks-to-make-your-youtube-videos-go-viral/"><u>[Updated] In 2024, 12 Simple Tricks to Make Your YouTube Videos Go Viral</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-boosted-audio-visual-experience-choose-av1-on-youtube/"><u>[Updated] In 2024, Boosted Audio-Visual Experience  Choose AV1 on YouTube</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-in-2024-filmmakers-finesse-for-fabulous-tiktok-reactions-with-filmora-pro-tools/"><u>[Updated] In 2024, Filmmaker’s Finesse for Fabulous TikTok Reactions with Filmora Pro Tools</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-revenue-optimization-leveraging-your-youtube-mobile-audience/"><u>[Updated] Revenue Optimization  Leveraging Your YouTube Mobile Audience</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-professional-insights-into-magix-acid-pro-and-alternatives/"><u>2024 Approved  Professional Insights Into Magix ACID Pro and Alternatives</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-streamlining-video-communication-in-laptop-using-whatsapp-desktop/"><u>2024 Approved  Streamlining Video Communication in Laptop Using WhatsApp Desktop</u></a></li>
+<li><a href="https://extra-information.techidaily.com/capture-life-in-motion-top-mobile-cameras-for-steady-videos/"><u>Capture Life in Motion  Top Mobile Cameras for Steady Videos</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-infinix-note-30i-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Infinix Note 30i Location Settings | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-quickly-fix-bluetooth-not-working-on-itel-s23plus-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Quickly Fix Bluetooth Not Working on Itel S23+ | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-a-vivo-s18-pro-phone-that-is-locked-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset a Vivo S18 Pro Phone That Is Locked | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-activate-and-use-life360-ghost-mode-on-samsung-galaxy-z-fold-5-drfone-by-drfone-virtual-android/"><u>In 2024, How To Activate and Use Life360 Ghost Mode On Samsung Galaxy Z Fold 5 | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-maximizing-view-quality-on-team-meetings-in-ms-teams/"><u>In 2024, Maximizing View Quality on Team Meetings in MS Teams</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/in-2024-seeking-solutions-why-no-facebook-videos-pop-up/"><u>In 2024, Seeking Solutions  Why No Facebook Videos Pop Up?</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/in-2024-youtube-mastery-made-simple-the-top-20-must-know-strategies/"><u>In 2024, YouTube Mastery Made Simple  The Top 20 Must-Know Strategies</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/oculus-odyssey-a-journey-through-best-vr-headsets/"><u>Oculus Odyssey  A Journey Through Best VR Headsets</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/premium-selection-the-ultimate-15-video-devices-for-2024/"><u>Premium Selection  The Ultimate 15 Video Devices for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/prime-recording-option-elevate-your-youtube-channel-for-2024/"><u>Prime Recording Option  Elevate Your YouTube Channel for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/superior-gameplay-androids-leading-gba-emulators/"><u>Superior Gameplay  Android's Leading GBA Emulators</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/transformative-techniques-for-capturing-on-iphone/"><u>Transformative Techniques for Capturing on iPhone</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/unlock-creativity-top-8-online-resources-for-beginners-for-2024/"><u>Unlock Creativity  Top 8 Online Resources for Beginners for 2024</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/why-is-ipogo-not-working-on-apple-iphone-12-pro-max-fixed-drfone-by-drfone-virtual-ios/"><u>Why is iPogo not working On Apple iPhone 12 Pro Max? Fixed | Dr.fone</u></a></li>
+</ul></div>

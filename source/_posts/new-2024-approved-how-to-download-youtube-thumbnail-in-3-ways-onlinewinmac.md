@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  How to Download YouTube Thumbnail in 3 Ways [Online/Win/Mac]\""
-date: 2024-06-06T15:36:26.990Z
-updated: 2024-06-07T15:36:26.990Z
+date: 2024-07-16T04:48:51.287Z
+updated: 2024-07-17T04:48:51.287Z
 tags:
   - ai video
   - ai youtube
@@ -32,6 +32,9 @@ A YouTube thumbnail is the minimized edition of a video that a viewer sees first
 * [**4. Warning and Notice**](#part4)
 * [**5. Bonus Tip-Create YouTube Thumbnail for Free**](#part5)
 
+<!-- affiliate ads begin -->
+<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## **1\. How to Download Thumbnail from Your Own YouTube Video?**
 
 If you want to download the thumbnail from your own YouTube video, then all you need to do is:
@@ -39,6 +42,9 @@ If you want to download the thumbnail from your own YouTube video, then all you 
 * Simply open the video manager.
 * You then need to click on the **Edit** button next to the video.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![edit thumbnail](https://images.wondershare.com/filmora/article-images/edit-thumbnail1.jpg)
 
 * Hover your mouse pointer over the thumbnail and some options will show up. Click on **Download image**
@@ -47,6 +53,18 @@ If you want to download the thumbnail from your own YouTube video, then all you 
 
 * The thumbnail image of your video will show up. Right click it, select **Save Images As**, and you will then have to choose the location that you would want to save the file in and that’s about all it takes to download YouTube thumbnails from your videos.
 
+<!-- affiliate ads begin -->
+<span id="1993652">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![save image](https://images.wondershare.com/filmora/article-images/save-image3.jpg)
 
 ## **2\. How to Download YouTube Thumbnail by Online Downloader?**
@@ -74,6 +92,9 @@ You can also download YouTube thumbnail by a direct url. Let us see how it can d
 
 * All the YouTube thumbnails can be accessed using the same URL. You only need to go to the url in the picture below.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![custom url](https://images.wondershare.com/filmora/article-images/go-custom-url7.jpg)
 
 * Copy those random numbers that we said are the video ID and paste them in the part that says ID in the above URL then click on enter.
@@ -82,14 +103,23 @@ You can also download YouTube thumbnail by a direct url. Let us see how it can d
 
 * When the video is open just right-click anywhere in your browser and select save image as to download YouTube thumbnail on your computer. This URL is the one that will give you the best resolution of the video that you want.
 
+<!-- affiliate ads begin -->
+<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
+<!-- affiliate ads end -->
 ![save images](https://images.wondershare.com/filmora/article-images/save-imageas9.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## **4\. Warning and Notice**
 
 If the video belongs to someone else then the copyright belongs to that person. It is common for people to steal other people's work and post it as their own and that is a breach. Even if you are to include a note that indicates the original creator it would still be their work and not yours. You will require having permission from the owner especially if you intend to use it for commercial purposes. Otherwise, you will be infringing on their rights and can be liable for legal action.
 
 YouTube is very strict on works that infringe copyrights and is quick to block or pull-down such videos. If someone notices that you are using their thumbnail or video and reports it YouTube takes it down. It is possible for you to simply contact the owner of the video to ask for the permission with an explanation of the purpose.
 
+<!-- affiliate ads begin -->
+<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## **5\. Bonus Tip-Create YouTube Thumbnail for Free**
 
 There are various ways you can create YouTube thumbnails that captivate the attention of the intended viewers. We are going to look at how to simply do it with Canva that you could use to accomplish the task with perfection. It has a state of the art interface that is easy to use. Here is how:
@@ -104,6 +134,9 @@ There are various ways you can create YouTube thumbnails that captivate the atte
 
 For some of us, switching between different softwares can be troublesome. Then try Filmora! You can not only edit your video, but also create thumbnail with it. Learn how to create a thumbnail for free using Filmora and try out its editing features yourself.
 
+<!-- affiliate ads begin -->
+<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 Note:
@@ -135,6 +168,9 @@ Follow @Richard Bennett
 
 # How to Turn on or off Comments on YouTube
 
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
 
 ##### Liza Brown
@@ -155,13 +191,19 @@ If you don’t want any comments on any of the videos that you publish, you must
 
 Use your favorite web browser to go to YouTube and sign in to your Google account. Click your profile picture from the top-right corner of the webpage, and click **YouTube Studio** from the menu that appears.
 
-![ Find YouTube Studio options](https://images.wondershare.com/filmora/article-images/find-youtube-studio-option.jpg)
+<!-- affiliate ads begin -->
+<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<!-- affiliate ads end -->
+![Find YouTube Studio options](https://images.wondershare.com/filmora/article-images/find-youtube-studio-option.jpg)
 
 #### Step 2: Go to Channel’s Advanced Settings
 
 From the bottom of the left pane, click the **Settings** icon, click **Channel** from the **Settings** box that comes up next, and go to **Advanced settings** from the right window.
 
-![  YouTube Channel Advanced Settings](https://images.wondershare.com/filmora/article-images/youtube-channel-advanced-settings.jpg)
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![YouTube Channel Advanced Settings](https://images.wondershare.com/filmora/article-images/youtube-channel-advanced-settings.jpg)
 
 #### Step 3: Turn Off Comments
 
@@ -173,19 +215,19 @@ To turn on comments on **all the videos on your YouTube channel**, you can follo
 
 Use the method explained above to get to the channel’s **Advanced settings** box. Select the **No, set this channel as not made for kids. I never upload content that’s made for kids** radio button. Click **SAVE** to save the changes.
 
-![  Turn on YouTube Channel Comments](https://images.wondershare.com/filmora/article-images/turn-on-channel-comments-advanced-settings.jpg)
+![Turn on YouTube Channel Comments](https://images.wondershare.com/filmora/article-images/turn-on-channel-comments-advanced-settings.jpg)
 
 #### 2\. Define Acceptable Comment Types
 
 Click the **Settings** icon from the bottom of the left pane one more time. On the **Settings** box, go to the **Upload defaults** category from the left pane, and go to **Advanced settings** from the right. From the **Comment visibility** drop-down list under the **Comments** section in the right, choose your preferred comment allowance type, and click **SAVE** to allow the comments on the videos the channel has.
 
-![ Set up YouTube video  Comments visibility](https://images.wondershare.com/filmora/article-images/set-up-youtube-comments-visibilities.jpg)
+![Set up YouTube video  Comments visibility](https://images.wondershare.com/filmora/article-images/set-up-youtube-comments-visibilities.jpg)
 
 #### 3\. Set Comment Allowance for Videos
 
 Back on the **YouTube Studio** page, click **Content** from the left pane. From the right section, check the **Video** box at the top of the list to select all the videos the channel has. Click **Edit** from the column header, and click **Comments** from the menu that comes up. From the **New value** drop-down list, choose your preferred allowance option for the comments, click **UPDATE VIDEOS** from the upper-right area, check the **I understand the implications of this action** box, and click **UPDATE VIDEOS** to allow comments on all the videos of the channel.
 
-![ Turn on or off YouTube content commnets settings](https://images.wondershare.com/filmora/article-images/turn-on-off-channel-content-comments-settings.jpg)
+![Turn on or off YouTube content commnets settings](https://images.wondershare.com/filmora/article-images/turn-on-off-channel-content-comments-settings.jpg)
 
 #### **Additional Info about Comments Options**
 
@@ -225,7 +267,7 @@ Hover the mouse over the target video in the right window, and click the **Detai
 
 From under the **Audience** section in the right window of the **Video details** page, select the **No, it’s not made for kids** radio button. Next, click **SHOW MORE**, scroll down to the **Comments and ratings** section, and choose your preferred privacy option from the **Comment visibility** drop-down list. Click **SAVE** from the upper-right area to save the changes.
 
-![ Turn on or turn off comments for specific youtube video](https://images.wondershare.com/filmora/article-images/turn-on-off-comments-for-specific-youtube-video.jpg)
+![Turn on or turn off comments for specific youtube video](https://images.wondershare.com/filmora/article-images/turn-on-off-comments-for-specific-youtube-video.jpg)
 
 **Note:** To learn **how to disable comments on YouTube** for specific video, you can repeat the above steps, and choose the **Yes, it’s made for kids** radio button from the **Audience** section when you are on the **Video details** page.
 
@@ -243,7 +285,7 @@ At the time of this writing, YouTube doesn’t allow anyone to post a comment on
 
 You can go to **YouTube Studio** \> **Settings** \> **Community**, and on the **Automated Filters** tab in the right window, add the words to block in the **Blocked words** field. You can add multiple words by separating them with commas. To block the comments with links, check the **Block links** box. Click **SAVE** to save the changes.
 
-![ Block YouTube   commnets ](https://images.wondershare.com/filmora/article-images/block-users-youtube-comment.jpg)
+![Block YouTube   commnets](https://images.wondershare.com/filmora/article-images/block-users-youtube-comment.jpg)
 
 #### 4\. If I turn comments off and back on again, will the old comments come back?
 
@@ -274,3 +316,40 @@ Follow @Liza Brown
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-http.techidaily.com/new-2024-approved-bass-bridges-and-high-beats-understanding-sound-mixing/"><u>[New] 2024 Approved  Bass Bridges & High Beats  Understanding Sound Mixing</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-getting-acquainted-with-youtube-tvs-distinctive-features/"><u>[New] 2024 Approved  Getting Acquainted with YouTube TV's Distinctive Features</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-creating-a-seamless-virtual-workspace-slack-filmora-combo-for-teams/"><u>[New] Creating a Seamless Virtual Workspace  Slack-Filmora Combo for Teams</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-first-steps-launching-a-youtube-channel-for-profit-for-2024/"><u>[New] First Steps  Launching a YouTube Channel for Profit for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-fixing-the-problem-hidden-thumbnails-in-youtube-shorts-for-2024/"><u>[New] Fixing the Problem  Hidden Thumbnails in YouTube Shorts for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-framecraft-videocutter-for-2024/"><u>[New] FrameCraft VideoCutter for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-from-bites-to-blocks-top-10-video-editing-principles-for-2024/"><u>[New] From Bites to Blocks  Top 10 Video Editing Principles for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-from-novice-to-niche-tripling-your-youtube-fans-for-2024/"><u>[New] From Novice to Niche  Tripling Your Youtube Fans for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-finding-storylines-with-google-trends-analysis-techniques/"><u>[New] In 2024, Finding Storylines with Google Trends Analysis Techniques</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-free-profile-imagery-for-youtubers/"><u>[New] In 2024, Free Profile Imagery for YouTubers</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-hobby-to-career-the-transition-to-youtube-gaming/"><u>[New] In 2024, From Hobby to Career  The Transition to YouTube Gaming</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-future-of-techno-gaming-revenue/"><u>[New] In 2024, Future of Techno-Gaming Revenue</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-gamers-path-to-earnings-on-youtube/"><u>[New] In 2024, Gamer's Path to Earnings on YouTube</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-growing-engagement-ethically-youtube-success-stories/"><u>[New] In 2024, Growing Engagement Ethically  YouTube Success Stories</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-guidelines-to-frame-your-youtube-creation-flow/"><u>[New] In 2024, Guidelines to Frame Your YouTube Creation Flow</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-get-thousands-of-youtube-views-in-30-days/"><u>[New] In 2024, How To Get Thousands of YouTube Views in 30 Days</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-content-creators-den/"><u>[Updated] 2024 Approved  Content Creator's Den</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-framecraft-videocutter/"><u>[Updated] 2024 Approved  FrameCraft VideoCutter</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-free-templates-for-dynamic-youtube-channel-closures/"><u>[Updated] 2024 Approved  Free Templates for Dynamic YouTube Channel Closures</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-gamers-dream-the-ultimate-compilation-of-best-yt-game-entrances/"><u>[Updated] 2024 Approved  Gamer's Dream  The Ultimate Compilation of Best YT Game Entrances</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-free-gift-guide-all-about-our-50-unique-youtube-ads-for-you-for-2024/"><u>[Updated] Free Gift Guide  All About Our 50 Unique YouTube Ads for You for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-from-casual-follower-to-dedicated-subscriber-inspirational-journey-for-2024/"><u>[Updated] From Casual Follower to Dedicated Subscriber  Inspirational Journey for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-from-startup-to-success-skyrocketing-youtube-subs-for-2024/"><u>[Updated] From Startup to Success  Skyrocketing Youtube Subs for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-rip-audio-from-youtube-in-3-ways-free-and-safe/"><u>[Updated] In 2024, How to Rip Audio From YouTube in 3 Ways [Free and Safe]</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-watch-deleted-youtube-videos-online-in-2-ways-ultimate-guide/"><u>[Updated] In 2024, How to Watch Deleted YouTube Videos Online in 2 Ways | Ultimate Guide</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-professional-iphone-cinematography-learn-and-apply-top-8-insights/"><u>[Updated] Professional iPhone Cinematography  Learn and Apply Top 8 Insights</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-dos-and-donts-of-interacting-with-youtube-viewers/"><u>2024 Approved  The Do's and Don'ts of Interacting with YouTube Viewers</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/2024-approved-navigating-through-the-leading-free-and-collaborative-windows-audio-processing-applications/"><u>2024 Approved Navigating Through the Leading Free and Collaborative Windows Audio Processing Applications</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/essential-youtube-equipment-for-starting-your-channel-what-do-you-really-need-in-2024/"><u>Essential YouTube Equipment For Starting Your Channel - What Do You Really Need, In 2024</u></a></li>
+<li><a href="https://change-location.techidaily.com/guide-how-to-unbrick-a-bricked-huawei-nova-y71-phone-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Guide How To Unbrick a Bricked Huawei Nova Y71 Phone | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-remove-activation-lock-on-the-iphone-8-plus-without-previous-owner-by-drfone-ios/"><u>How to Remove Activation Lock On the iPhone 8 Plus Without Previous Owner?</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-easiest-guide-how-to-clone-tecno-camon-20-premier-5g-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Easiest Guide How to Clone Tecno Camon 20 Premier 5G Phone? | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-expert-tips-for-drone-racing-enthusiasts-and-premium-fpv-units/"><u>In 2024, Expert Tips for Drone Racing Enthusiasts & Premium FPV Units</u></a></li>
+</ul></div>

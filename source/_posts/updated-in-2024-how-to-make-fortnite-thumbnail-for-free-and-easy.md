@@ -1,7 +1,7 @@
 ---
 title: "[Updated] In 2024, How to Make Fortnite Thumbnail for Free and Easy"
-date: 2024-06-06T15:08:34.365Z
-updated: 2024-06-07T15:08:34.365Z
+date: 2024-07-16T04:06:50.658Z
+updated: 2024-07-17T04:06:50.658Z
 tags:
   - ai video
   - ai youtube
@@ -44,14 +44,23 @@ Filmora has recently introduced a new feature named AI Portrait that uses Artifi
 
 **Step 04:** Open Filmora X, make sure to select the 16:9 screen ratio. Import the screenshot using the import button.
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![make-fortnite-thumbnail-step4](https://images.wondershare.com/filmora/article-images/make-fortnite-thumbnail-step4.jpg)
 
 **Step 05:** Drag and drop the screenshot into the timeline.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![make-fortnite-thumbnail-step5](https://images.wondershare.com/filmora/article-images/make-fortnite-thumbnail-step5.jpg)
 
 **Step 06:** Now, let's separate the background and character. Go to the Effects, then AI Portrait, select Human Segmentation, and drop it into the screenshot.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![make-fortnite-thumbnail-step6](https://images.wondershare.com/filmora/article-images/make-fortnite-thumbnail-step6.jpg)
 
 **Step 07:** Filmora will ask you to purchase it, but you can now hit "Try it" to use it.
@@ -60,6 +69,9 @@ Filmora has recently introduced a new feature named AI Portrait that uses Artifi
 
 **Step 08:** It will remove the background of the screenshot.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![make-fortnite-thumbnail-step8](https://images.wondershare.com/filmora/article-images/make-fortnite-thumbnail-step8.jpg)
 
 **Step 09:** To add a background, go to the media and navigate to "Sample Color." Drag a color of your choice and drop it below the screenshot.
@@ -68,6 +80,9 @@ Filmora has recently introduced a new feature named AI Portrait that uses Artifi
 
 **Step 10:** To add titles in the Thumbnail, go to the Titles tab. Here you can find several categories of titles. Find your preferred title and drop it above all the layers. You can choose titles, lower thirds, and other texts depending upon your need and requirement.
 
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
+<!-- affiliate ads end -->
 ![make-fortnite-thumbnail-step10](https://images.wondershare.com/filmora/article-images/make-fortnite-thumbnail-step10.jpg)
 
 **Step 11:** We can make this Fortnite Thumbnail look more attractive by adding elements such as stickers and icons. Filmora contains a wide range of stickers. To access them, navigate to the Elements tab. Here you can find so many categories of elements. Choose any elements according to your need and drop them in the timeline above all other layers. If you cannot find a suitable sticker, you can download one from the internet and use it by importing it into Filmora.
@@ -86,6 +101,9 @@ Filmora has recently introduced a new feature named AI Portrait that uses Artifi
 
 With Filmora, there are no limits. You can use your imagination to create amazing Fortnite thumbnails or thumbnails for other purposes. This article is just a demo teaching you how you use Filmora X to develop free and astounding thumbnails. Explore other options and elements of Filmora to take your thumbnails to another level.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
 Ollie Mattison
@@ -117,12 +135,27 @@ Follow @Ollie Mattison
 
  If you want to make a teaching video by your own, you should try [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/). Besides the basic video editing features, like trimming, cutting, splitting, rotating, and cropping, it allows you to capture your PC screen, composite a green screen video, blur objects and faces in video and more. What’s more, Filmora is a good choice for making a YouTube intro. Check the video below to see how to make it.
 
+<!-- affiliate ads begin -->
+<span id="1997795">
+					<video width="250" height="250" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 * [Benefits for Using YouTube in Classroom](#part1)
 * [Tips for Teachers Using YouTube in Classroom](#part2)
 * [How to discover the best educational videos on YouTube](#part3)
 
+<!-- affiliate ads begin -->
+<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Benefits for Using YouTube in Classroom
 
  The benefits of using YouTube in the classroom are immense and they include but are not limited to the following:
@@ -180,6 +213,9 @@ Follow @Ollie Mattison
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 Richard Bennett
@@ -197,3 +233,41 @@ Follow @Richard Bennett
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-free-youtube-outro-kings-6-top-suggestions/"><u>[New] 2024 Approved  Free YouTube Outro Kings  6 TOP Suggestions</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-getting-started-on-youtube-broadcasts-using-obs/"><u>[New] 2024 Approved  Getting Started on YouTube Broadcasts Using OBS</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-how-to-do-screen-record-snapchat-on-mobile-phone/"><u>[New] 2024 Approved  How to Do Screen Record Snapchat on Mobile Phone?</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-filmmaking-mastery-youtube-trailer-design-with-filmora-for-2024/"><u>[New] Filmmaking Mastery  YouTube Trailer Design with Filmora for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-free-traffic-on-youtube-tips-that-actually-work-for-2024/"><u>[New] Free Traffic on YouTube  Tips That Actually Work for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/1717722966348-new-in-2024-how-to-see-your-subscribers-on-youtube/"><u>[New] In 2024, How to See Your Subscribers on YouTube?</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-melody-match-maker-audio-ambience-for-videos/"><u>[New] Melody Match-Maker  Audio Ambience For Videos</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-recover-missing-audio-from-tweeted-videos-for-2024/"><u>[New] Recover Missing Audio From Tweeted Videos for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-full-spectrum-review-exploring-digital-performances-evolution/"><u>[Updated] 2024 Approved  Full Spectrum Review  Exploring Digital Performance's Evolution</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-convert-youtube-to-mp3-in-3-ways-safe/"><u>[Updated] 2024 Approved  How to Convert YouTube to MP3 in 3 Ways [Safe]</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-effectively-reduce-your-youtube-video-lengths/"><u>[Updated] 2024 Approved  How To Effectively Reduce Your YouTube Video Lengths</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-stream-to-youtube-facebook-twitch-and-over-30-platforms/"><u>[Updated] 2024 Approved  How to Stream to YouTube, Facebook, Twitch and Over 30 Platforms</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/updated-2024-approved-top-10-free-tiktok-video-editors-compatible-with-macos/"><u>[Updated] 2024 Approved  Top 10 FREE TikTok Video Editors Compatible with MacOS</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-free-mcb-theme-images-templates-and-more-for-2024/"><u>[Updated] Free MCB Theme Images, Templates & More for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-pinpoint-premium-video-keywords-on-youtube-for-2024/"><u>[Updated] How to Pinpoint Premium Video Keywords on YouTube for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-send-hidden-youtube-videos-using-google-login-for-2024/"><u>[Updated] How to Send Hidden YouTube Videos Using Google Login for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-football-video-analysis-top-youtube-infographics/"><u>[Updated] In 2024, Football Video Analysis  Top YouTube Infographics</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-humble-beginnings-surging-subscribers-and-views-in-youtube-world/"><u>[Updated] In 2024, From Humble Beginnings  Surging Subscribers & Views in Youtube World</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-raw-footage-to-polished-videos-imovies-role-in-youtube-content-creation/"><u>[Updated] In 2024, From Raw Footage to Polished Videos  IMovie's Role in YouTube Content Creation</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-harmonizing-cityscapes-and-nature-the-role-of-green-spaces/"><u>[Updated] In 2024, Harmonizing Cityscapes and Nature  The Role of Green Spaces</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-harness-the-power-of-youtube-shorts-expert-filming-and-editing-techniques/"><u>[Updated] In 2024, Harness the Power of YouTube Shorts  Expert Filming and Editing Techniques</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-hasty-guide-from-raw-images-to-high-quality-youtube-thumbnail-art/"><u>[Updated] In 2024, Hasty Guide  From Raw Images to High-Quality YouTube Thumbnail Art</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-add-timestamp-on-youtube-video-link-desktop-and-mobile/"><u>[Updated] In 2024, How to Add Timestamp on YouTube Video Link? [Desktop and Mobile]</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-disableremove-youtube-shorts-permanently/"><u>[Updated] In 2024, How to Disable/Remove YouTube Shorts Permanently?</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-edit-youtube-videos-ultimate-guide/"><u>[Updated] In 2024, How To Edit YouTube Videos [Ultimate Guide]</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/1717725998928-updated-in-2024-how-to-upload-videos-to-youtube-a-step-by-step-guide/"><u>[Updated] In 2024, How To Upload Videos to YouTube  A Step-by-Step Guide</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-three-effective-methods-for-converting-youtube-audio-to-mp3-securely/"><u>[Updated] Three Effective Methods for Converting YouTube Audio to MP3 Securely</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/approved-discover-the-art-of-curating-music-on-youtube-with-our-steps/"><u>2024 Approved  Discover the Art of Curating Music on YouTube with Our Steps</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-mastering-soft-transitions-in-garageband-audio/"><u>2024 Approved  Mastering Soft Transitions in Garageband Audio</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-snapedit-fundamentals-for-amateur-photographers/"><u>2024 Approved  Snapedit Fundamentals for Amateur Photographers</u></a></li>
+<li><a href="https://driver-install.techidaily.com/hacking-fast-fixes-for-m-audio-glitches/"><u>Hacking Fast Fixes for M-Audio Glitches</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-a-beginners-guide-to-creating-impactful-slug-lines/"><u>In 2024, A Beginner's Guide to Creating Impactful Slug Lines</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-the-ratio-calculator-can-help-you-perform-many-computations-of-images-more-conveniently-this-article-teaches-you-everything-about-aspect-ratios-for-/"><u>In 2024, The Ratio Calculator Can Help You Perform Many Computations of Images More Conveniently. This Article Teaches You Everything About Aspect Ratios for Images and Videos. Read on to Learn More</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/top-10-best-screen-recorders-for-pc-and-mac/"><u>Top 10 Best Screen Recorders for PC and Mac</u></a></li>
+</ul></div>

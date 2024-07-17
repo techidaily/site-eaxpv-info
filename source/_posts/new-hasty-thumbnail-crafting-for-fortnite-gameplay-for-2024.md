@@ -1,7 +1,7 @@
 ---
 title: "[New] Hasty Thumbnail Crafting for Fortnite Gameplay for 2024"
-date: 2024-06-06T15:32:36.345Z
-updated: 2024-06-07T15:32:36.345Z
+date: 2024-07-16T04:43:05.375Z
+updated: 2024-07-17T04:43:05.375Z
 tags:
   - ai video
   - ai youtube
@@ -40,6 +40,9 @@ Filmora has recently introduced a new feature named AI Portrait that uses Artifi
 
 **Step 03:** For creating a perfect thumbnail, select "Drone Free Camera" mode from the camera mode located on the bottom right corner of the screen. It will allow us to change the angle the way we want. Choose an angle of your choice and take the screenshot.
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![make-fortnite-thumbnail-step3](https://images.wondershare.com/filmora/article-images/make-fortnite-thumbnail-step3.jpg)
 
 **Step 04:** Open Filmora X, make sure to select the 16:9 screen ratio. Import the screenshot using the import button.
@@ -48,10 +51,16 @@ Filmora has recently introduced a new feature named AI Portrait that uses Artifi
 
 **Step 05:** Drag and drop the screenshot into the timeline.
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![make-fortnite-thumbnail-step5](https://images.wondershare.com/filmora/article-images/make-fortnite-thumbnail-step5.jpg)
 
 **Step 06:** Now, let's separate the background and character. Go to the Effects, then AI Portrait, select Human Segmentation, and drop it into the screenshot.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
 ![make-fortnite-thumbnail-step6](https://images.wondershare.com/filmora/article-images/make-fortnite-thumbnail-step6.jpg)
 
 **Step 07:** Filmora will ask you to purchase it, but you can now hit "Try it" to use it.
@@ -68,6 +77,9 @@ Filmora has recently introduced a new feature named AI Portrait that uses Artifi
 
 **Step 10:** To add titles in the Thumbnail, go to the Titles tab. Here you can find several categories of titles. Find your preferred title and drop it above all the layers. You can choose titles, lower thirds, and other texts depending upon your need and requirement.
 
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![make-fortnite-thumbnail-step10](https://images.wondershare.com/filmora/article-images/make-fortnite-thumbnail-step10.jpg)
 
 **Step 11:** We can make this Fortnite Thumbnail look more attractive by adding elements such as stickers and icons. Filmora contains a wide range of stickers. To access them, navigate to the Elements tab. Here you can find so many categories of elements. Choose any elements according to your need and drop them in the timeline above all other layers. If you cannot find a suitable sticker, you can download one from the internet and use it by importing it into Filmora.
@@ -101,6 +113,9 @@ Follow @Ollie Mattison
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Beyond VidCon - A Guide to the Most Important YouTube Events
 
 # Beyond VidCon - A Guide to the Most Important YouTube Events
@@ -123,13 +138,19 @@ Want to meet your favorite creators? Or, do you want to become a better creator 
 6. [Amplify Live (Australia)](#amplify)
 7. [Summer in the City (UK)](#sitc)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## **The Most Important YouTube Events**
 
 Want to be a youtube creator too? Go and get **Wondershare Filmora**, the video editing software for all creators.
 
+<!-- affiliate ads begin -->
+<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 [![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://download.wondershare.com/filmora9-mac%5Ffull718.zip)
 
-#### 1. **[VidCon](http://vidcon.com/)**
+#### 1. ** VidCon
 
 **VidCon US:** June (Anaheim, California)
 
@@ -137,6 +158,9 @@ Want to be a youtube creator too? Go and get **Wondershare Filmora**, the video 
 
 **VidCon Australia:** August/September
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![VidCon-On-Spot](https://images.wondershare.com/filmora/VidCon-On-Spot.jpg)
 
 In 2017 over 30,000 YouTube enthusiasts – from fans to A-list creators – attended VidCon US, and that was thousands of more people than attended in 2016\. It’s hard to imagine that this event – the biggest convention for YouTube and online video – will do anything but grow over the next few years.
@@ -157,7 +181,7 @@ The **Industry Track** is for anyone working in online video or video-adjacent i
 
 You have a two-week window (usually the first half of May) to submit your choices.
 
-#### 2. **[PlayList Live](http://www.playlist-live.com/home.php)**
+#### 2. ** PlayList Live
 
 **Orlando, Florida:** April/May
 
@@ -165,6 +189,9 @@ You have a two-week window (usually the first half of May) to submit your choice
 
 **Washington DC:** September
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Playlistlive](https://images.wondershare.com/filmora/Playlistlive.jpg)
 
 Playlist Live is a YouTube event for creators and their supporters that has a particular focus on music. Where VidCon is advertised using images of sunshine, crowded convention halls, and speakers, Playlist Live is advertised with images of city skylines, concerts, and fireworks.
@@ -191,7 +218,7 @@ The **Premium Pass** ($250-$404) grants you standard access plus early access fo
 
 There is also business **Passes** with Merch and Deluxe (Business Deluxe can cost up to $330) options for people working in marketing, publicity, production, etc. These passes include access to an extra day of business and industry-specific programming.
 
-#### 3. **[Beautycon Festivals](https://beautycon.com/)**
+#### 3. ** Beautycon Festivals
 
 **Los Angeles:** July
 
@@ -227,7 +254,7 @@ These events are customized to the wherever festival is visiting, so you’re al
 
 There is not a steady annual schedule for FanFests, but it has visited these cities in the past: Manila, Mumbai, Seoul, Toronto, Sao Paulo, Jakarta, Tokyo, Jeddah, Bangkok, Ho Chi Minh City, Hong Kong, and Washington, DC.
 
-#### 5. **[RTX](https://www.rtxaustin.com/)**
+#### 5. ** RTX
 
 **Austin, Texas:** August
 
@@ -249,7 +276,7 @@ A **Weekend Plus** ($335) pass gets you everything the Weekend pass gets you plu
 
 The **Platinum** pass is the most expensive at $729, and it includes everything the Weekend Plus pass does plus a priority line for panels, priority seating, and an exclusive party.
 
-#### 6. **[Amplify Live](http://www.thisisamplify.com/blog/cool-for-summer-amplifylive-syd-mel-faqs)**
+#### 6. ** Amplify Live
 
 **Sydney, Australia:** April
 
@@ -269,7 +296,7 @@ For VIP access, you can buy a **Deluxe** pass for $125-$150 AUD.
 
 **Platinum Meet & Greet**, $450 AUD: meet all the headliners and get access to an exclusive VIP area, merch pack, and special entry.
 
-#### 7. **[Summer in the City](https://www.sitc-event.co.uk/)**
+#### 7. ** Summer in the City
 
 **London, UK:** August
 
@@ -297,6 +324,9 @@ If you buy your tickets during early bird pricing, the prices will look like thi
 
 Have you ever attended an offline YouTube event? Which one, and how did you like it?
 
+<!-- affiliate ads begin -->
+<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 Richard Bennett
@@ -314,3 +344,56 @@ Follow @Richard Bennett
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-captivating-spokesperson-appraisal-8th-analysis/"><u>[New] 2024 Approved  Captivating Spokesperson Appraisal 8Th Analysis</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-correct-disconnected-instagram-stories/"><u>[New] 2024 Approved  Correct Disconnected Instagram Stories</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-add-a-streamline-of-youtube-playlists-on-your-website/"><u>[New] 2024 Approved  How to Add a Streamline of YouTube Playlists on Your Website</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-effectively-upload-ultra-hd-content-on-youtube/"><u>[New] 2024 Approved  How to Effectively Upload Ultra HD Content on YouTube</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-harness-youtubes-creative-commons-in-video-making/"><u>[New] 2024 Approved  How to Harness YouTube's Creative Commons in Video Making</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-going-against-gravity-innovative-ways-to-rewind-youtube-content-for-2024/"><u>[New] Going Against Gravity  Innovative Ways to Rewind YouTube Content for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-guide-to-swiftly-eliminate-unwanted-youtube-comments-for-2024/"><u>[New] Guide to Swiftly Eliminate Unwanted YouTube Comments for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-highest-rated-smartphone-camera-and-recording-apps-iphone-vs-android-for-2024/"><u>[New] Highest Rated Smartphone Camera & Recording Apps  IPhone vs Android for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-holistic-harmony-the-best-online-yoga-channels-for-2024/"><u>[New] Holistic Harmony - The Best Online Yoga Channels for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-how-to-animate-and-make-your-own-effects-for-2024/"><u>[New] How to Animate and Make Your Own Effects for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-how-to-convert-youtube-videos-to-gifs-for-2024/"><u>[New] How to Convert YouTube Videos to GIFs for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-financial-forecasts-in-focus-select-stock-youtube-channels/"><u>[New] In 2024, Financial Forecasts in Focus  Select Stock YouTube Channels</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-free-explore-youtubes-9-premium-full-length-christmas-flicks/"><u>[New] In 2024, Free  Explore YouTube's 9 Premium Full-Length Christmas Flicks</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-in-2024-friendly-facebook-files-top-eight-free-extractors/"><u>[New] In 2024, Friendly Facebook Files - Top Eight Free Extractors</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-harmonic-hub-curating-exceptional-dj-visual-downloads/"><u>[New] In 2024, Harmonic Hub  Curating Exceptional DJ Visual Downloads</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-highly-compensated-online-visionary-creator/"><u>[New] In 2024, Highly Compensated Online Visionary Creator</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-choose-the-best-free-introduction-maker/"><u>[New] In 2024, How to Choose the Best Free Introduction Maker</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-custom-your-youtube-channel-url-super-easy/"><u>[New] In 2024, How to Custom Your YouTube Channel URL – Super Easy</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-download-youtube-thumbnail-in-3-ways-onlinewinmac/"><u>[New] In 2024, How to Download YouTube Thumbnail in 3 Ways [Online/Win/Mac]</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-10-free-youtube-thumbnail-downloaderssavers-online-for-2024/"><u>[Updated] 10 Free YouTube Thumbnail Downloaders/Savers Online for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-free-and-secure-3-ways-to-extract-youtube-music-content/"><u>[Updated] 2024 Approved  Free and Secure  3 Ways to Extract YouTube Music Content</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-video-views-to-vault-closure-income-insights-for-youtubers/"><u>[Updated] 2024 Approved  From Video Views to Vault Closure  Income Insights for Youtubers</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-vimeo-shorts-to-professional-mp4-a-comprehensive-tutorial/"><u>[Updated] 2024 Approved  From Vimeo Shorts to Professional MP4  A Comprehensive Tutorial</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-harness-the-power-of-youtube-video-for-stunning-gif-masterpieces/"><u>[Updated] 2024 Approved  Harness the Power of YouTube Video for Stunning GIF Masterpieces</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-much-wealth-awaits-one-million-youtube-followers/"><u>[Updated] 2024 Approved  How Much Wealth Awaits One Million YouTube Followers?</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-fine-tune-youtube-video-pacing-desktopmobile-for-2024/"><u>[Updated] Fine-Tune YouTube Video Pacing - Desktop/Mobile for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-free-endings-that-wow-ranked-for-you-top-6-for-2024/"><u>[Updated] Free Endings That Wow - Ranked for You (Top 6) for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-fuel-the-spark-essential-themes-for-youtube-success-for-2024/"><u>[Updated] Fuel the Spark  Essential Themes for YouTube Success for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-guffaws-in-grooves-parody-playlist-for-2024/"><u>[Updated] Guffaws in Grooves  Parody Playlist for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-block-youtube-channels-on-computer-and-mobile-phones-for-2024/"><u>[Updated] How to Block YouTube Channels on Computer and Mobile Phones for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-disableremove-youtube-shorts-permanently-for-2024/"><u>[Updated] How to Disable/Remove YouTube Shorts Permanently for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-cutting-edge-techniques-for-excellent-sound-no-mic-included/"><u>[Updated] In 2024, Cutting-Edge Techniques for Excellent Sound, No Mic Included</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-uploading-movies-instagram-guide/"><u>[Updated] In 2024, Uploading Movies  Instagram Guide</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-navigating-the-world-of-ifunny-memes/"><u>[Updated] Navigating the World of iFunny Memes</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-steps-for-successful-extraction-of-fb-content-for-2024/"><u>[Updated] Steps for Successful Extraction of FB Content for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-unlocking-12-steps-fixing-hidden-fb-video-issues/"><u>[Updated] Unlocking 12 Steps  Fixing Hidden FB Video Issues</u></a></li>
+<li><a href="https://location-fake.techidaily.com/10-best-fake-gps-location-spoofers-for-apple-iphone-se-2020-drfone-by-drfone-virtual-ios/"><u>10 Best Fake GPS Location Spoofers for Apple iPhone SE (2020) | Dr.fone</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-gameplay-revolution-elevating-ram-usage-for-minecraft/"><u>2024 Approved  Gameplay Revolution  Elevating Ram Usage for Minecraft</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-innovative-video-edits-leveraging-kinemasters-techniques/"><u>2024 Approved  Innovative Video Edits  Leveraging Kinemaster's Techniques</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-superior-audio-transformation-tools-unleash-voices/"><u>2024 Approved  Superior Audio Transformation Tools  Unleash Voices</u></a></li>
+<li><a href="https://howto.techidaily.com/fixes-for-apps-keep-crashing-on-vivo-v29-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixes for Apps Keep Crashing on Vivo V29 | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-best-ever-film-dialogues-showcase/"><u>In 2024, Best-Ever Film Dialogues Showcase</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/in-2024-eco-filmmaking-simplified-youtubes-green-screen-wonders/"><u>In 2024, Eco-Filmmaking Simplified  YouTube's Green Screen Wonders</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-gps-location-on-itel-p55-5g-easily-and-safely-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change GPS Location on Itel P55 5G Easily & Safely | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-change-itel-a60-lock-screen-password-by-drfone-android/"><u>In 2024, How To Change Itel A60 Lock Screen Password?</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-whatsapp-messages-on-huawei-nova-y91-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track WhatsApp Messages on Huawei Nova Y91 Without Them Knowing? | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-reasons-why-pokemon-gps-does-not-work-on-vivo-v30-lite-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Reasons why Pokémon GPS does not Work On Vivo V30 Lite 5G? | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/recharge-your-space-top-cloud-service-picks-offering-plentiful-free-storage-for-2024/"><u>Recharge Your Space  Top Cloud Service Picks Offering Plentiful, FREE Storage for 2024</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-ubuntu-video-editing-essentials-top-10-free-tools/"><u>Updated Ubuntu Video Editing Essentials Top 10 Free Tools</u></a></li>
+</ul></div>

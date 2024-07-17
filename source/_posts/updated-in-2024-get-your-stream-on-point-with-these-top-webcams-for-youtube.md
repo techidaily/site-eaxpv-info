@@ -1,7 +1,7 @@
 ---
 title: "[Updated] In 2024, Get Your Stream on Point with These Top Webcams for YouTube"
-date: 2024-06-06T15:08:31.836Z
-updated: 2024-06-07T15:08:31.836Z
+date: 2024-07-16T04:06:46.460Z
+updated: 2024-07-17T04:06:46.460Z
 tags:
   - ai video
   - ai youtube
@@ -42,6 +42,9 @@ The quality of the video recording you intend to broadcast live is essential for
 
 **Adjustable Location:** Although the angle from which you are recording a stream may not seem important, poorly framed live streams are more likely to go unnoticed. A webcam that is easily adjustable can grant you the freedom of choosing your shots on every live stream you share online and it will enable you to control each and every detail in the video.
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Filmora logo](https://images.wondershare.com/filmora/logo_icon/wondershare-filmora-logo-horizontal.png) ![filmora product interface](https://images.wondershare.com/filmora/images/common/filmora-product-banner.png)
 
 ### The All-in-One Screen Recorder & Video Editor
@@ -59,15 +62,18 @@ For Win 7 or later (64-bit)
 
 For macOS 10.12 or later
 
-![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg)Secure Download
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg) Secure Download
 
 ### 4 Best Webcams for YouTube Live streaming in 2021
 
 There are thousands of different webcams you can use to record a live stream, but the models featured below are some of the very best currently available on the market.
 
-#### 1. [Logitech 4K Pro webcam](https://www.logitech.com/en-us/product/4k-pro-webcam?crid=34)
+#### 1. Logitech 4K Pro webcam
 
-![ Logitech 4K Pro Webcam ](https://images.wondershare.com/filmora/article-images/logitech-4k-pro-webcam.jpg)
+![Logitech 4K Pro Webcam](https://images.wondershare.com/filmora/article-images/logitech-4k-pro-webcam.jpg)
 
 **OS:** Windows, macOS, Chrome OS
 
@@ -89,9 +95,9 @@ The webcam can perform basic functions, like Skype calls, without the aid of thi
 * Internal software is basic
 * A limited number of programs can capture 4K footage
 
-#### 2. [Logitech HD Pro C920](https://www.logitech.com/en-us/product/c922-pro-stream-webcam)
+#### 2. Logitech HD Pro C920
 
-![ Logitech C920 ](https://images.wondershare.com/filmora/article-images/logitech-c920.jpg)
+![Logitech C920](https://images.wondershare.com/filmora/article-images/logitech-c920.jpg)
 
 **OS:** macOS, Windows
 
@@ -113,9 +119,17 @@ The webcam is equipped with two omnidirectional microphones that can record clea
 * Pricey
 * Works only with OBS and XSplit broadcasting software
 
-#### 3. [Logitech C922 Pro Stream webcam](https://www.logitech.com/en-us/product/c922-pro-stream-webcam)
+#### 3. Logitech C922 Pro Stream webcam
 
-![ Logitech C922 ](https://images.wondershare.com/filmora/article-images/logitech-c922.jpg)
+<!-- affiliate ads begin -->
+<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
+<span class="text-ad-content">
+	#1 Rated Parental Control Software.<br/>
+	Monitor & Control all PC Activity!<br/>
+		<cite style="color:green">sentrypc.com/parental-controls/</cite>
+	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![Logitech C922](https://images.wondershare.com/filmora/article-images/logitech-c922.jpg)
 
 **OS:** Windows, macOS, Xbox, Chrome OS, Android 5.0 or above
 
@@ -137,9 +151,12 @@ The webcam's microphones enable users to record clear audio and reduce the need 
 * Not plug-and-play friendly on Mac devices
 * More expensive than webcams with similar capabilities
 
-#### 4. [Microsoft LifeCam Studio](https://www.microsoft.com/accessories/en-us/products/webcams/lifecam-studio/q2f-00013)
+#### 4. Microsoft LifeCam Studio
 
-![ Microsoft Llifecam Studio ](https://images.wondershare.com/filmora/article-images/microsoft-lifecam-studio.jpg)
+<!-- affiliate ads begin -->
+<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![Microsoft Llifecam Studio](https://images.wondershare.com/filmora/article-images/microsoft-lifecam-studio.jpg)
 
 **OS:** Windows
 
@@ -175,6 +192,9 @@ Afterward, you should give Chrome permission to access your webcam and the micro
 
 Immediately after, the platform will ask you to give a title to your stream and it will let you choose whether or not you want the stream to be public or unlisted. It may be a good idea to create a few unlisted streams before you go public if you are still trying to figure out how this feature works.
 
+<!-- affiliate ads begin -->
+<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![youtube-livestream-settings.jpg](https://images.wondershare.com/filmora/article-images/youtube-livestream-settings.jpg)
 
 Proceed to select the camera and the microphone you intend to use to record the live stream, and you can also click on the Advanced Settings icon if you want to disable chat during the session or to specify that the live stream includes paid promotions.
@@ -236,13 +256,16 @@ So how do you delete all YouTube comments? In this how-to blog, we will show you
 
 In this section, we will tell you how you can do it from your desktop.
 
-1. Go to[https://www.youtube.com/](https://www.youtube.com/) from your desktop browser and log in.
+1. Go to [https://www.youtube.com/](https://www.youtube.com/) from your desktop browser and log in.
 2. Once you log in, you need to go to your channel. For this, you can select the My Channel option from the upper-left side of your YouTube home page.
 3. From the list of your videos, select the one you need and scroll down to reach the comment you want to delete.
 4. When you locate the comment, click on the three vertical dots on the right-hand side of the comment. From the drop-down list, click on Remove. The process is complete, and YouTube will remove your comment.
 
 You also have the option to report the comment or [hide the user from your channel](https://tools.techidaily.com/wondershare/filmora/download/).
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to Delete All YouTube Comments from Mobile?
 
 The steps to deleting someone else’s YouTube comments from your mobile are similar to those from your desktop.
@@ -253,15 +276,18 @@ The steps to deleting someone else’s YouTube comments from your mobile are sim
 4. Once you reach the target comment, click on the three vertical dots at the bottom corner. There should be an option called Remove. Tap on it.
 5. This will create another dialog box on the mobile app where you have to click on Remove again to delete the comment.
 
+<!-- affiliate ads begin -->
+
+<!-- affiliate ads end -->
 ## How Do You Delete Your Comments from YouTube?
 
 Have you accidentally posted something on a YouTuber’s channel? Are you anxious because you cannot find the comment and delete it?
 
 Fear not. Read on to know how to **delete all comments you posted on someone else’s YouTube channel** from your desktop.
 
-1. Visit[https://www.youtube.com/](https://www.youtube.com/) from your desktop and then sign in YouTube channel.
+1. Visit [https://www.youtube.com/](https://www.youtube.com/) from your desktop and then sign in YouTube channel.
 2. If your YouTube account is not open, tap on Sign in and enter your email and password to log in to your account.
-3. Once there, you need to access your Comment History page. To do this, you can click on the three horizontal lines at the top left corner of your YouTube homepage. Click on History. On the page that opens, click Comments from the panel on the right. It will direct you to your Comment History page. You can also access the YouTube comment history from[here](https://www.youtube.com/feed/history/comment%5Fhistory).
+3. Once there, you need to access your Comment History page. To do this, you can click on the three horizontal lines at the top left corner of your YouTube homepage. Click on History. On the page that opens, click Comments from the panel on the right. It will direct you to your Comment History page. You can also access the YouTube comment history from [here](https://www.youtube.com/feed/history/comment%5Fhistory).
 1. When you reach the Comment History page, you will be able to find all comments you have ever posted. Scroll down to the comment you want to delete.
 2. Click on the three vertical dots that you see beside the target comment. You will find a Delete option. Tap on it, and confirm that you want to delete the comment. That completes the process. No more embarrassing comments!
 
@@ -279,6 +305,9 @@ If it is your video where the comment to be removed is, you can go to My Channel
 1. Once you locate the video, you need to find the comment you want to delete. On the YouTube app, you may need to scroll down for a while to do this.
 2. When you reach it, click on the three vertical dots at the bottom corner of your comment. You should see an option called Delete. Click on that. You need to confirm once more that you want to delete it, and the process will be complete.
 
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Delete Other People’s Comments on Others’ Channels
 
 Did you see a hate comment on your favorite creator’s video? Sadly, you cannot delete the comment. But, you can report it, and YouTube will hide or take it down.
@@ -297,7 +326,10 @@ To find your History from your desktop, you need to click on the three horizonta
 2. Once you find your target comment, click on the three vertical dots that appear on its right side. You will find the Report option from the pop-up menu. Click on that.
 3. When you tap Report, another dialogue box will appear. From the list of options, choose the most appropriate option, tap on Report at the lower right corner of the pop-up, and complete the process. YouTube will do the rest.
 
-![ Report YouTube comments](https://images.wondershare.com/filmora/article-images/report-youtube-comment.jpg)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
+![Report YouTube comments](https://images.wondershare.com/filmora/article-images/report-youtube-comment.jpg)
 
 ## How to Delete All Your Posted YouTube Comments?
 
@@ -306,18 +338,24 @@ You can also delete all comments you ever posted on any YouTube video by hiding 
 1. You need to go to YouTube from your desktop and sign in to your account.
 2. Next, you can either click on the profile icon at the top right corner or the three horizontal lines beside the YouTube logo on your homepage. From the list of options, click Settings.
 
-![   YouTube Settings](https://images.wondershare.com/filmora/article-images/two-ways-settings-youtube-channel.jpg)
+![YouTube Settings](https://images.wondershare.com/filmora/article-images/two-ways-settings-youtube-channel.jpg)
 
-1. YouTube will direct you to the Settings page of your account. Choose Advanced Settings from the list on your left. You can also access it from[here](https://www.youtube.com/account%5Fadvanced).
+1. YouTube will direct you to the Settings page of your account. Choose Advanced Settings from the list on your left. You can also access it from [here](https://www.youtube.com/account%5Fadvanced).
 
-![   YouTube Advanced  Settings](https://images.wondershare.com/filmora/article-images/youtube-advanced-settings.jpg)
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![YouTube Advanced  Settings](https://images.wondershare.com/filmora/article-images/youtube-advanced-settings.jpg)
 
 1. Scroll down and select Delete Channel. Clicking it will not delete your account. When you click on Delete Channel, you will get two choices – ‘I want to hide my channel’ and ‘I want to permanently delete my content’. Select the first.
 
-![   YouTube Settings](https://images.wondershare.com/filmora/article-images/remove-youtube-content.jpg)
+![YouTube Settings](https://images.wondershare.com/filmora/article-images/remove-youtube-content.jpg)
 
 1. YouTube will now show you what will happen when you hide your channel. Check all the boxes to confirm that you understand, and then tap on Hide My Channel. YouTube will now delete all comments made by your account.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ### Final Thoughts
 
 YouTube can be an unsafe place with unwanted comments everywhere. In this blog, we tried to show how you can get rid of comments on your and on others’ YouTube accounts. The next time you see an offensive comment or post something mistakenly, don’t forget to try our tips and make YouTube a safe platform again.
@@ -339,3 +377,44 @@ Follow @Richard Bennett
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-fast-track-to-youtube-partner-level-achieve-10k-views/"><u>[New] 2024 Approved  Fast Track to YouTube Partner Level - Achieve 10K Views</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-faster-insights-slower-pace-balancing-youtube-playback-rate/"><u>[New] 2024 Approved  Faster Insights, Slower Pace  Balancing YouTube Playback Rate</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-tape-to-trending-seamless-mp3-to-youtube-transition/"><u>[New] In 2024, From Tape to Trending  Seamless MP3 to YouTube Transition</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-template-to-tutorial-gamers-channel-design/"><u>[New] In 2024, From Template to Tutorial  Gamers' Channel Design</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-funnies-in-a-flash-top-10-quick-and-quirky-video-concepts-for-youtubers/"><u>[New] In 2024, Funnies in a Flash  Top 10 Quick & Quirky Video Concepts for YouTubers</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-get-going-on-youtube-video-upload-tutorial-in-premiere/"><u>[New] In 2024, Get Going on YouTube  Video Upload Tutorial in Premiere</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-historical-deep-dives-from-youtubes-most-impactful-creators/"><u>[New] In 2024, Historical Deep Dives From YouTube's Most Impactful Creators</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-streamline-content-advanced-youtube-video-editing-strategies/"><u>[New] In 2024, Streamline Content  Advanced Youtube Video Editing Strategies</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-gamers-galaxy-100plus-spaces-of-play/"><u>[Updated] 2024 Approved  Gamer's Galaxy  100+ Spaces of Play</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-global-earning-maestro-of-video-content/"><u>[Updated] 2024 Approved  Global Earning Maestro of Video Content</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-go-green-for-effective-ctas-via-subscription/"><u>[Updated] 2024 Approved  Go Green for Effective CTAs via Subscription</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-grab-free-video-profile-backgrounds/"><u>[Updated] 2024 Approved  Grab Free Video Profile Backgrounds</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-get-free-views-on-youtube-2-easy-ways/"><u>[Updated] 2024 Approved  How to Get Free Views on YouTube [2 Easy Ways]</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-make-the-most-of-youtube-tv-offerings/"><u>[Updated] 2024 Approved  How to Make the Most of YouTube TV Offerings</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-save-and-stream-gotomeet-on-desktops-and-phones/"><u>[Updated] 2024 Approved  Save and Stream  GoToMeet on Desktops & Phones</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-8-fastest-growing-youtube-channel-for-2024/"><u>[Updated] 8 Fastest-Growing YouTube Channel for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-aesthetic-alchemy-transforming-youtube-videos-for-2024/"><u>[Updated] Aesthetic Alchemy  Transforming YouTube Videos for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-budget-friendly-twit-to-gif-guide-for-2024/"><u>[Updated] Budget-Friendly Twit-to-GIF Guide for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-from-passive-to-active-a-3-step-framework-to-evaluate-your-youtube-financials-for-2024/"><u>[Updated] From Passive to Active  A 3-Step Framework to Evaluate Your YouTube Financials for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-glam-rific-guide-to-hauls-and-hair-care-for-2024/"><u>[Updated] Glam-Rific Guide to Hauls and Hair Care for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-harnessing-ambiance-with-thoughtful-lighting-for-2024/"><u>[Updated] Harnessing Ambiance with Thoughtful Lighting for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-high-quality-youtube-images-download-without-any-cost-for-2024/"><u>[Updated] High-Quality YouTube Images  Download Without Any Cost for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-finding-the-middle-ground-working-and-youtube/"><u>[Updated] In 2024, Finding the Middle Ground  Working & YouTube</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-filters-to-feeds-optimizing-your-360-video-for-youtube-publishing/"><u>[Updated] In 2024, From Filters to Feeds  Optimizing Your 360 Video for YouTube Publishing</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-video-lessons-to-vivid-engaging-gifs-no-download-needed/"><u>[Updated] In 2024, From Video Lessons to Vivid, Engaging GIFs – No Download Needed</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-spot-and-secure-top-monetization-potential/"><u>[Updated] In 2024, How to Spot and Secure Top Monetization Potential</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-unforgettable-visions-the-top-15-stop-motion-film-classics/"><u>[Updated] Unforgettable Visions  The Top 15 Stop-Motion Film Classics</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-unleashing-revenue-with-review-videos-of-household-items/"><u>[Updated] Unleashing Revenue with Review Videos of Household Items</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/8-safe-and-effective-methods-to-unlock-your-apple-iphone-14-plus-without-a-passcode-by-drfone-ios/"><u>8 Safe and Effective Methods to Unlock Your Apple iPhone 14 Plus Without a Passcode</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-call-logs-from-y100t-by-fonelab-android-recover-call-logs/"><u>How To  Restore Missing Call Logs from Y100t</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/in-2024-do-you-want-your-video-footage-to-resemble-kodak-films-you-can-get-the-old-kodak-film-look-by-searching-for-kodak-2383-lut-free-download-on-the-inte/"><u>In 2024, Do You Want Your Video Footage to Resemble Kodak Films? You Can Get the Old Kodak Film Look by Searching for Kodak 2383 LUT Free Download on the Internet</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-ways-to-trade-pokemon-go-from-far-away-on-realme-12-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Ways to trade pokemon go from far away On Realme 12 Pro 5G? | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/proven-steps-to-conquer-hdr-images-in-ps-for-2024/"><u>Proven Steps to Conquer HDR Images in PS for 2024</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/top-5-xiaomi-redmi-12-5g-bypass-frp-tools-for-pc-that-actually-work-by-drfone-android/"><u>Top 5 Xiaomi Redmi 12 5G Bypass FRP Tools for PC That Actually Work</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-2024-approved-learn-how-to-trimcrop-video-in-microsoft-powerpoint/"><u>Updated 2024 Approved Learn How to Trim/Crop Video in Microsoft PowerPoint</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-the-ultimate-guide-to-slow-motion-video-editing-with-windows-live-movie-maker-for-2024/"><u>Updated The Ultimate Guide to Slow Motion Video Editing with Windows Live Movie Maker for 2024</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-top-rated-free-mov-video-splitters-for-easy-editing/"><u>Updated Top-Rated Free MOV Video Splitters for Easy Editing</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  From Interest to Action  Formulating Video Topics with Google Trends\""
-date: 2024-06-24T07:00:02.730Z
-updated: 2024-06-25T07:00:02.730Z
+date: 2024-07-16T01:53:19.195Z
+updated: 2024-07-17T01:53:19.195Z
 tags:
   - ai video
   - ai youtube
@@ -68,6 +68,9 @@ Once you have narrowed down your results you can just scroll through and pick ou
 
 For example, if you have a gaming channel and you’re looking for a non-gameplay topic to make a video on, you would look under Sci/Tech. If I look under that category today (May 29, 2017) and specify that I want topics trending in the United States then these are my top 5 results:
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Google Trends Category YouTube Video Ideas](https://images.wondershare.com/filmora/article-images/google-trends-categories.jpg)
 
 The first two happen to be about gaming. If you, as a gamer, had any strong reaction to either of these topics – whether it’s that you feel like you’re knowledgeable about them, or that you’re excited by something that’s coming up, or that something made you groan – then that would be a sign that you should make a video. Capitalizing on a trend while also covering a topic you have a lot to say about is always a good move.
@@ -76,6 +79,9 @@ Having something to say doesn’t have to mean having a strong opinion. If you j
 
 Clicking on these results will give you more specific data including how often the topic has been searched recently and links to recent news articles. These can give you a better idea of why it is trending and help you come up with what you want to say.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 3: Battle of the Keywords
 
 Once you have a topic in mind for your next video – whether it came from Google Trends or your own noggin – think about what the most important keyword for that topic might be.
@@ -84,6 +90,9 @@ A [keyword is a word or short phrase](https://www.filmora.io/community-blog/the-
 
 Once you have a keyword in mind, type it into the Explore bar at the top of your page in Google Trends.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Google Trends Keywords YouTube Video](https://images.wondershare.com/filmora/article-images/explore-topic-in-google-trends.jpg)
 
 What happens after you click **enter** is pretty much magic. Say I want to make a video on how to use Filmora. The first thing I’ll type into that Explore bar is ‘Filmora’.
@@ -92,6 +101,9 @@ What happens after you click **enter** is pretty much magic. Say I want to make 
 
 You can see near the top that this chart represents searches for the topic over the last 5 years, which isn’t necessarily useful (although it is sort of cool that you can see when Filmora was ‘born’). I’m going to narrow that down to results from the U.S in the last week.
 
+<!-- affiliate ads begin -->
+<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Google Trends YouTube Video Ideas Filmora](https://images.wondershare.com/filmora/article-images/google-trends-search-term-time-range.jpg)
 
 There, now I can see how the popularity of Filmora as a search term has spiked on specific days and times (if you hover over a spike it tells you the time and day) and plan to post my video at a time that capitalizes on these trends.
@@ -106,6 +118,9 @@ It’s pretty clear from the chart that ‘filmora review’ is the strongest of
 
 Although, when you do a comparison like this you should also go to YouTube and search for each potential keyword/phrase individually. It might turn out that there is a ton of strong competition for the most popular search term, and not as much for the second or third most popular. Here’s a search for ‘Filmora Review’ on YouTube:
 
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![YouTube search Filmora Keyword](https://images.wondershare.com/filmora/article-images/google-trends-youtube-keyword-search.jpg)
 
 _If my view of YouTube looks different from yours it’s because I’m using the [VidIQ plugin for Chrome](https://chrome.google.com/webstore/detail/vidiq-vision-for-youtube/pachckjkecffpdphbpmfolblodfkgbhl?hl=en). It’s free and it gives you all kinds of extra info about videos and channels._
@@ -139,6 +154,9 @@ Follow @Richard Bennett
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Channel Wrap-Up Strategies - Free YouTube End Screens Tutorial
 
 # Free YouTube End Screen Templates
@@ -146,3 +164,49 @@ Follow @Richard Bennett
 ![](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-efficiency-in-action-rapid-removal-of-youtube-discussions/"><u>[New] 2024 Approved  Efficiency in Action  Rapid Removal of YouTube Discussions</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-capture-to-screen-the-complete-process-of-uploading-360-vids-on-youtube/"><u>[New] 2024 Approved  From Capture to Screen  The Complete Process of Uploading 360 Vids on YouTube</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-harnessing-real-time-trends-for-visionary-video-ideas/"><u>[New] 2024 Approved  Harnessing Real-Time Trends for Visionary Video Ideas</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-the-best-of-the-best-unrivaled-business-strategy-games-guide/"><u>[New] 2024 Approved  The Best of the Best  Unrivaled Business Strategy Games' Guide</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-first-steps-in-the-digital-dollar-youtube-earning-hacks-for-2024/"><u>[New] First Steps in the Digital Dollar - YouTube Earning Hacks for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-from-eyeballs-to-earnings-the-price-of-popular-videos-for-2024/"><u>[New] From Eyeballs to Earnings  The Price of Popular Videos for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-grand-selection-of-incredibly-affordable-footage-for-2024/"><u>[New] Grand Selection of Incredibly Affordable Footage for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-guided-approach-to-saving-exact-youtube-segments-for-2024/"><u>[New] Guided Approach to Saving Exact YouTube Segments for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-how-to-create-a-youtube-account-for-2024/"><u>[New] How to Create a YouTube Account for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-how-to-optimize-your-youtube-shorts-templates-effectively-for-2024/"><u>[New] How to Optimize Your YouTube Shorts Templates Effectively for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-2024-approved-avoid-bots-manual-linking-between-spotify-and-discord-works/"><u>[Updated] 2024 Approved  Avoid Bots? Manual Linking Between Spotify & Discord Works</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-from-speech-to-text-a-complete-free-workshop-on-youtube-transcription-for-2024/"><u>[Updated] From Speech to Text  A Complete, FREE Workshop on YouTube Transcription for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-game-up-your-content-with-these-effective-freefire-video-hashtags-for-2024/"><u>[Updated] Game Up Your Content with These Effective FreeFire Video Hashtags for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-gateways-to-googles-advertising-on-youtube-platforms-for-2024/"><u>[Updated] Gateways to Google's Advertising on YouTube Platforms for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-harmonizing-hues-in-online-beauty-videos-for-2024/"><u>[Updated] Harmonizing Hues in Online Beauty Videos for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-build-successful-youtube-advertisements-for-free-in-2024/"><u>[Updated] How to Build Successful YouTube Advertisements for Free, In 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-how-to-elevate-your-social-influence-the-six-step-guide-to-instagram-verified-status/"><u>[Updated] How to Elevate Your Social Influence  The Six-Step Guide to Instagram Verified Status</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-best-cameras-to-amplify-your-yt-presence/"><u>[Updated] In 2024, Best Cameras to Amplify Your YT Presence</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-fb-snapcast-converter/"><u>[Updated] In 2024, FB Snapcast Converter</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-financial-forecasting-in-the-world-of-youtube-snippet-creation/"><u>[Updated] In 2024, Financial Forecasting in the World of YouTube Snippet Creation</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-free-yourself-from-video-edges-on-youtube/"><u>[Updated] In 2024, Free Yourself From Video Edges on YouTube</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-clicks-to-cash-the-journey-of-youtubes-ajay-nagar/"><u>[Updated] In 2024, From Clicks to Cash  The Journey of YouTube's Ajay Nagar</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-gym-goer-to-broadcayer-set-up-a-sports-vlog-on-macos/"><u>[Updated] In 2024, From Gym Goer to Broadcayer  Set Up a Sports Vlog on macOS</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-accelerate-your-youtube-upload-with-effective-rendering/"><u>[Updated] In 2024, How to Accelerate Your YouTube Upload with Effective Rendering</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-find-a-niche-market-on-youtube/"><u>[Updated] In 2024, How to Find A Niche Market on YouTube</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/1717721218120-updated-in-2024-how-to-record-good-audio-without-a-microphone/"><u>[Updated] In 2024, How to Record Good Audio Without a Microphone?</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-transform-your-visual-storytelling-with-no-cost-green-screen-lessons-from-youtubes-best-experts/"><u>[Updated] Transform Your Visual Storytelling with No-Cost Green Screen Lessons From YouTube's Best Experts</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/2024-approved-10-best-windows-movie-makers-of-the-year/"><u>2024 Approved 10 Best Windows Movie Makers of the Year</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/2024-approved-s-best-video-editors-for-4k-proxy-footage-expert-recommendations/"><u>2024 Approved S Best Video Editors for 4K Proxy Footage Expert Recommendations</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/comprehensive-list-of-high-quality-game-entrance-makers-online-for-2024/"><u>Comprehensive List of High-Quality Game Entrance Makers Online for 2024</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/from-stage-to-street-shakespeares-lasting-lexical-staples/"><u>From Stage to Street: Shakespeare’s Lasting Lexical Staples</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-bypass-icloud-by-checkra1n-even-on-iphone-14-pro-max-if-youve-tried-everything-by-drfone-ios/"><u>How To Bypass iCloud By Checkra1n Even On iPhone 14 Pro Max If Youve Tried Everything</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-leave-a-life360-group-on-xiaomi-civi-3-disney-100th-anniversary-edition-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>How To Leave a Life360 Group On Xiaomi Civi 3 Disney 100th Anniversary Edition Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-iphone-12-mini-apples-new-iphone-drfone-by-drfone-ios/"><u>How to Unlock iPhone 12 mini, Apples New iPhone | Dr.fone</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-exploring-the-mechanisms-of-noteworthy-youtube-discussions/"><u>In 2024, Exploring the Mechanisms of Noteworthy YouTube Discussions</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-lift-run-dance-select-the-most-motivating-exercise-tracks/"><u>In 2024, Lift, Run, Dance - Select the Most Motivating Exercise Tracks</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-mastering-slug-lines-for-effective-storytelling/"><u>In 2024, Mastering Slug Lines for Effective Storytelling</u></a></li>
+<li><a href="https://review-topics.techidaily.com/iphone-xr-data-recovery-software-to-recover-lost-ios-data-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>iPhone XR® Data Recovery Software to Recover Lost iOS® Data | Stellar</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/maximizing-impact-video-marketing-on-youtube-for-2024/"><u>Maximizing Impact  Video Marketing on YouTube for 2024</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-2024-approved-elevating-your-video-projects-with-audio-synchronization-in-magix-pro/"><u>New 2024 Approved Elevating Your Video Projects with Audio Synchronization in Magix Pro</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/optimizing-video-calls-a-guide-from-skype-to-zoom-for-2024/"><u>Optimizing Video Calls  A Guide From Skype to Zoom for 2024</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-elevate-your-editing-game-10-best-free-plugins-for-fcpx-for-2024/"><u>Updated Elevate Your Editing Game 10 Best Free Plugins for FCPX for 2024</u></a></li>
+</ul></div>

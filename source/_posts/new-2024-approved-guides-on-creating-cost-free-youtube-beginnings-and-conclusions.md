@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  Guides on Creating Cost-Free YouTube Beginnings & Conclusions\""
-date: 2024-06-06T14:07:10.012Z
-updated: 2024-06-07T14:07:10.012Z
+date: 2024-07-16T02:35:05.943Z
+updated: 2024-07-17T02:35:05.943Z
 tags:
   - ai video
   - ai youtube
@@ -40,6 +40,9 @@ thumbnail: https://thmb.techidaily.com/124b72dbf62c2315133422a27b4166aca8de938c7
 
 [How To Make an End Card](#how-to)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part1: Intros
 
 #### Elements of an Intro
@@ -50,7 +53,7 @@ When your intro video is longer than five seconds viewers are more likely to cli
 
 Whether it is better to put your intro at the very beginning of your video, or after you introduce your topic, will depend on your viewers. You may want to try it both ways and then look at your retention report (found in your YouTube Creator Studio under Analytics) to see which works best for you.
 
-#### [Top Intro Sites](https://tools.techidaily.com/wondershare/filmora/download/)
+#### Top Intro Sites
 
 There are a few different sites where you can download animated intros, customized to include your username or logo. Here are two of the best:
 
@@ -93,7 +96,7 @@ You should also have a subscribe link somewhere in your end card, ideally a very
 
 Some creators will leave their end cards at that and play music overtop, but it can be even more effective to include a voiceover where you ask viewers to subscribe and watch your other videos.
 
-#### [How To Make an End Card](https://tools.techidaily.com/wondershare/filmora/download/)
+#### How To Make an End Card
 
 1. Choose a static background. You may want to download an end card template or create one in a drawing program. If you do, make sure to include calls to action like ‘Watch more!’ and ‘Subscribe’.
 2. Drag your background into your timeline at the end of your video.
@@ -125,6 +128,9 @@ Follow @Shanoon Cox
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Steady as You Go: Camera Stability Without a Tripod
 
 # DIY Tripods| How to Stabilize Your Camera without Buying a Tripod
@@ -143,10 +149,16 @@ When you’re trying to grow a channel on YouTube it can feel like equipment is 
 
 Wondershare Filmora has the best video stabilization tool is your videos have a bad frame or were recorded in dim lights. If a video is shot in bad weather or unfriendly situation where you don’t have all the equipment required for a quality recording, Wondershare Filmora can help you in the background to edit your videos like a pro. And it has all the relevant tools like effects, transitions, background removal, overlays, and background music that could turn your normal video to a professional one.
 
+<!-- affiliate ads begin -->
+<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 [![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
 Here are 3 of our favorite DIY tripods.
 
+<!-- affiliate ads begin -->
+<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### **DIY smartphone tripod using binder clips or hair clips**
 
 You’re a solo operation and your best camera is on your phone. That’s pretty common.
@@ -186,12 +198,18 @@ To get similar functions from the ‘any stable surface’ solution you can use 
 
 Now if your camera isn’t up high enough, or is too high, you can adjust it just by adding or taking away books. If you want to move it closer or farther away from you, just pull the towel forwards or backward.
 
+<!-- affiliate ads begin -->
+<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### **DIY gripping ‘Gorillapod’ using wire and tape**
 
 Gorillapod’s are cool because you can use them like normal tripods, carry them around like selfie sticks, or attach them to things like fences and posts. Here’s how you can make something similar using **wire**, **electrical tape** or **duct tape**, and a **1/4 bolt**.
 
 Your wire should be fairly stiff and you’ll need three pieces the same length, which should be at least 10 inches. Old clothes hangers work well. This needs to be something strong enough to support the weight of your camera, but soft enough that it’s not impossible for you to bend.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
  ![wire and type](https://images.wondershare.com/filmora/article-images/wire-and-type.jpg)
 
 _All of your supplies plus the finished product._
@@ -231,3 +249,53 @@ Follow @Richard Bennett
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-10-free-youtube-thumbnail-downloaderssavers-online-for-2024/"><u>[New] 10 Free YouTube Thumbnail Downloaders/Savers Online for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-football-game-analysis-premier-insights-in-graphs/"><u>[New] 2024 Approved  Football Game Analysis  Premier Insights in Graphs</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-forget-youtube-try-these-top-5-video-editor-options/"><u>[New] 2024 Approved  Forget Youtube? Try These Top 5 Video Editor Options</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-formulating-an-easy-to-use-youtube-subscriber-link/"><u>[New] 2024 Approved  Formulating an Easy-to-Use YouTube Subscriber Link</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-future-fortunes-for-virtual-game-masters/"><u>[New] 2024 Approved  Future Fortunes for Virtual Game Masters</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-global-leaderboard-top-subscribers-by-youtube-star/"><u>[New] 2024 Approved  Global Leaderboard  Top Subscribers by YouTube Star</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-grandview-alliance-how-to-settle-on-a-cms/"><u>[New] 2024 Approved  Grandview Alliance  How to Settle on a CMS</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-animate-and-make-your-own-effects/"><u>[New] 2024 Approved  How to Animate and Make Your Own Effects</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-create-video-ads-for-free-in-youtube-video-builder/"><u>[New] 2024 Approved  How to Create Video Ads for Free in YouTube Video Builder</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-use-google-trends-to-come-up-with-video-ideas/"><u>[New] 2024 Approved  How to Use Google Trends to Come up with Video Ideas?</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-foremost-10-recording-apps-for-social-media-vids-for-2024/"><u>[New] Foremost 10 Recording Apps for Social Media Vids for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-from-studio-to-stage-stream-your-mp3-tunes-on-youtube-for-2024/"><u>[New] From Studio to Stage  Stream Your MP3 Tunes on YouTube for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-historical-insights-the-most-relevant-youtube-channels-for-learners-for-2024/"><u>[New] Historical Insights - The Most Relevant YouTube Channels for Learners for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-how-to-find-youtube-sponsorships-by-using-famebit-for-2024/"><u>[New] How to Find YouTube Sponsorships by Using FameBit for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-individual-tracks-to-albums-building-a-personalized-soundtrack-on-web-and-mobile/"><u>[New] In 2024, From Individual Tracks to Albums  Building a Personalized Soundtrack on Web & Mobile</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-raw-to-radiant-youtubes-art-of-visual-aesthetic/"><u>[New] In 2024, From Raw to Radiant  Youtube's Art of Visual Aesthetic</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-harnessing-youtube-content-for-engaging-animation-gifs/"><u>[New] In 2024, Harnessing YouTube Content for Engaging Animation GIFs</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-quickly-and-easily-share-a-youtube-playlist/"><u>[New] In 2024, How to Quickly And Easily Share A YouTube Playlist</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-watch-9-free-full-length-christmas-movies-on-youtube/"><u>[New] In 2024, Watch 9 Free Full Length Christmas Movies On YouTube</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-2024-approved-explore-nitro-a-deep-dive-into-discords-elite-service/"><u>[Updated] 2024 Approved  Explore Nitro  A Deep Dive Into Discord's Elite Service</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-youtube-to-studio-quality-free-converters-for-wav-format/"><u>[Updated] 2024 Approved  From YouTube to Studio Quality  Free Converters for WAV Format</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-hit-the-jackpot-of-humor-craft-top-tier-youtube-reaction-videos-3-techniques/"><u>[Updated] 2024 Approved  Hit the Jackpot of Humor – Craft Top-Tier YouTube Reaction Videos (3 Techniques)</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-binge-worthy-music-reaction-videos-on-youtube/"><u>[Updated] 2024 Approved  How to Binge-Worthy Music Reaction Videos on YouTube</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-fast-techniques-for-reordering-youtube-video-queues-for-2024/"><u>[Updated] Fast Techniques for Reordering YouTube Video Queues for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-from-youtube-to-insta-a-video-posting-guide-for-2024/"><u>[Updated] From YouTube to Insta  A Video Posting Guide for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-gain-momentum-with-these-strategies-for-trending-youtubers-for-2024/"><u>[Updated] Gain Momentum with These Strategies for Trending YouTubers for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-effortless-online-transformation-ff-vids-to-mp4-in-high-definition/"><u>[Updated] In 2024, Effortless Online Transformation  FF Vids to MP4 in High Definition</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-fortune-on-screen-achieving-youtube-earnings-unlinked-from-ads/"><u>[Updated] In 2024, Fortune on Screen  Achieving YouTube Earnings Unlinked From Ads</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-free-yourself-from-cash-for-sound-the-best-18-audio-crackers-on-youtube/"><u>[Updated] In 2024, Free Yourself From Cash for Sound  The Best 18 Audio Crackers on YouTube</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-harnessing-your-youtube-content-for-financial-rewards/"><u>[Updated] In 2024, Harnessing Your YouTube Content for Financial Rewards</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-high-quality-youtube-images-download-without-any-cost/"><u>[Updated] In 2024, High-Quality YouTube Images  Download Without Any Cost</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-ultimate-4-facebook-film-compiler/"><u>[Updated] In 2024, Ultimate 4 Facebook Film Compiler</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-who-skipped-my-story-unfollowers-scan/"><u>[Updated] In 2024, Who Skipped My Story? Unfollowers Scan</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-top-mac-mkv-players-compilation-for-2024/"><u>[Updated] Top Mac MKV Players Compilation for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-unique-day-to-day-vlog-themes/"><u>[Updated] Unique Day-to-Day Vlog Themes</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-unleash-creativity-with-free-templates-essential-for-video-makers/"><u>[Updated] Unleash Creativity with FREE Templates – Essential for Video Makers</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/best-jest-in-layout-and-edit-suite-for-2024/"><u>Best Jest in Layout & Edit Suite for 2024</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-after-switching-from-vivo-y78plus-t1-edition-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data After Switching From Vivo Y78+ (T1) Edition to Latest Samsung | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-sony-by-drfone-android-unlock-android-unlock/"><u>How to unlock Sony</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/in-2024-10-free-football-streaming-sites-to-bookmark/"><u>In 2024, 10 Free Football Streaming Sites To Bookmark</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-7-ways-to-unlock-a-locked-nokia-xr21-phone-by-drfone-android/"><u>In 2024, 7 Ways to Unlock a Locked Nokia XR21 Phone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-locked-out-of-iphone-11-pro-5-ways-to-get-into-a-locked-iphone-11-pro-drfone-by-drfone-ios/"><u>In 2024, Locked Out of iPhone 11 Pro? 5 Ways to get into a Locked iPhone 11 Pro | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-10-telegram-spy-tools-on-xiaomi-civi-3-disney-100th-anniversary-edition-for-parents-drfone-by-drfone-virtual-android/"><u>In 2024, Top 10 Telegram Spy Tools On Xiaomi Civi 3 Disney 100th Anniversary Edition for Parents | Dr.fone</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/in-2024-use-mobile-phones-to-shoot-a-video-is-very-convenient-compare-with-professional-cameras-in-this-article-well-list-you-some-tips-to-help-capture-a-hi/"><u>In 2024, Use Mobile Phones to Shoot a Video Is Very Convenient Compare with Professional Cameras. In This Article, Well List You some Tips to Help Capture a High-Quality Video on Your Phone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/maximize-your-mobile-podcast-experience-on-iphone/"><u>Maximize Your Mobile Podcast Experience on iPhone</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-streamline-your-workflow-best-audio-converter-software-for-2024/"><u>New Streamline Your Workflow Best Audio Converter Software for 2024</u></a></li>
+</ul></div>

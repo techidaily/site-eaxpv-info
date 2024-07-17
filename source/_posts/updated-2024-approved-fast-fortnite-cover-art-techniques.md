@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  Fast Fortnite Cover Art Techniques\""
-date: 2024-06-06T15:51:40.824Z
-updated: 2024-06-07T15:51:40.824Z
+date: 2024-07-16T05:11:51.250Z
+updated: 2024-07-17T05:11:51.250Z
 tags:
   - ai video
   - ai youtube
@@ -40,6 +40,9 @@ Filmora has recently introduced a new feature named AI Portrait that uses Artifi
 
 **Step 03:** For creating a perfect thumbnail, select "Drone Free Camera" mode from the camera mode located on the bottom right corner of the screen. It will allow us to change the angle the way we want. Choose an angle of your choice and take the screenshot.
 
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![make-fortnite-thumbnail-step3](https://images.wondershare.com/filmora/article-images/make-fortnite-thumbnail-step3.jpg)
 
 **Step 04:** Open Filmora X, make sure to select the 16:9 screen ratio. Import the screenshot using the import button.
@@ -52,18 +55,30 @@ Filmora has recently introduced a new feature named AI Portrait that uses Artifi
 
 **Step 06:** Now, let's separate the background and character. Go to the Effects, then AI Portrait, select Human Segmentation, and drop it into the screenshot.
 
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![make-fortnite-thumbnail-step6](https://images.wondershare.com/filmora/article-images/make-fortnite-thumbnail-step6.jpg)
 
 **Step 07:** Filmora will ask you to purchase it, but you can now hit "Try it" to use it.
 
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
+<!-- affiliate ads end -->
 ![make-fortnite-thumbnail-step7](https://images.wondershare.com/filmora/article-images/make-fortnite-thumbnail-step7.jpg)
 
 **Step 08:** It will remove the background of the screenshot.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![make-fortnite-thumbnail-step8](https://images.wondershare.com/filmora/article-images/make-fortnite-thumbnail-step8.jpg)
 
 **Step 09:** To add a background, go to the media and navigate to "Sample Color." Drag a color of your choice and drop it below the screenshot.
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![make-fortnite-thumbnail-step9](https://images.wondershare.com/filmora/article-images/make-fortnite-thumbnail-step9.jpg)
 
 **Step 10:** To add titles in the Thumbnail, go to the Titles tab. Here you can find several categories of titles. Find your preferred title and drop it above all the layers. You can choose titles, lower thirds, and other texts depending upon your need and requirement.
@@ -72,6 +87,9 @@ Filmora has recently introduced a new feature named AI Portrait that uses Artifi
 
 **Step 11:** We can make this Fortnite Thumbnail look more attractive by adding elements such as stickers and icons. Filmora contains a wide range of stickers. To access them, navigate to the Elements tab. Here you can find so many categories of elements. Choose any elements according to your need and drop them in the timeline above all other layers. If you cannot find a suitable sticker, you can download one from the internet and use it by importing it into Filmora.
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![make-fortnite-thumbnail-step11](https://images.wondershare.com/filmora/article-images/make-fortnite-thumbnail-step11.jpg)
 
 **Step 12:** Once you are satisfied with the final results, you can take the screenshot of the Thumbnail using the Snapshot icon located below the preview panel. It will create a screenshot in the media panel of Filmora.
@@ -80,6 +98,9 @@ Filmora has recently introduced a new feature named AI Portrait that uses Artifi
 
 **Step 13:** To access the directory where this screenshot is saved, right-click on the screenshot and click on "Reveal in Explorer." It will open the folder that contains all the screenshots you take through Filmora. Your Fortnite Thumbnail is ready to be used on your Youtube videos.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![make-fortnite-thumbnail-step13](https://images.wondershare.com/filmora/article-images/make-fortnite-thumbnail-step13.jpg)
 
 #### Conclusion
@@ -137,7 +158,7 @@ Follow @Ollie Mattison
 
  Those are the three main things to keep in mind, but if you are planning on posting directly to YouTube from your phone then you should also make sure you have a mobile app you can use to edit it first.
 
-[Filmora](https://tools.techidaily.com/wondershare/filmora/download/)is a full-feature video editing app available for both Android and iPhone operating systems. With Filmora you can make awesome YouTube videos quickly using Filmora’s one-touch themes, or take a little bit more time personalizing your creation. One-touch themes are sets of related features, like filters and animated titles, which you can apply to your videos all at once. Filmora’s simple interface also makes it easy to apply filters, titles, overlays, transitions, and even royalty free music to your project one at a time.
+[Filmora](https://tools.techidaily.com/wondershare/filmora/download/) is a full-feature video editing app available for both Android and iPhone operating systems. With Filmora you can make awesome YouTube videos quickly using Filmora’s one-touch themes, or take a little bit more time personalizing your creation. One-touch themes are sets of related features, like filters and animated titles, which you can apply to your videos all at once. Filmora’s simple interface also makes it easy to apply filters, titles, overlays, transitions, and even royalty free music to your project one at a time.
 
  After you’ve edited your video in Filmora you can post it directly to YouTube or other social media sites right from the app.
 
@@ -158,3 +179,51 @@ Follow @Richard Bennett
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-foster-viewer-connection-easy-anime-subscribe-buttons-for-youtube-creators/"><u>[New] 2024 Approved  Foster Viewer Connection  Easy Anime Subscribe Buttons for YouTube Creators</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-bite-sized-to-detailed-converting-shorts-to-editable-mp4/"><u>[New] 2024 Approved  From Bite-Sized to Detailed  Converting Shorts to Editable MP4</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-humble-beginnings-to-prodigy-carryminatis-earnings-ajey/"><u>[New] 2024 Approved  From Humble Beginnings to Prodigy  CarryMinati's Earnings (Ajey)</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-noob-to-pro-selecting-webcams-that-make-a-difference-in-youtube-livestreams/"><u>[New] 2024 Approved  From Noob to Pro  Selecting Webcams That Make a Difference in YouTube Livestreams</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-harnessing-online-revenue-multiplatform-studio-use/"><u>[New] 2024 Approved  Harnessing Online Revenue  Multiplatform Studio Use</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/1717714315710-new-2024-approved-how-to-fix-the-green-screen-on-youtube-on-mac/"><u>[New] 2024 Approved  How to Fix the Green Screen on YouTube on Mac</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-fix-the-youtube-shorts-not-showing-up-issue/"><u>[New] 2024 Approved  How to Fix the YouTube Shorts Not Showing Up Issue?</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-profit-from-youtube-shorts-key-requirements-and-possible-returns/"><u>[New] 2024 Approved  How to Profit From YouTube Shorts  Key Requirements & Possible Returns</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-laugh-ledger-comedy-chronicles-from-twitters-best-videos/"><u>[New] 2024 Approved  Laugh Ledger  Comedy Chronicles From Twitter's Best Videos</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-laughter-ledger-twittersphere-tales/"><u>[New] 2024 Approved  Laughter Ledger  Twittersphere Tales</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-fixing-non-appearing-thumbnails-in-youtube-shorts-for-2024/"><u>[New] Fixing Non-Appearing Thumbnails in YouTube Shorts for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-flawless-soundscape-secrets-to-high-resolution-audio-recording-for-2024/"><u>[New] Flawless Soundscape  Secrets to High-Resolution Audio Recording for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-free-online-offer-enjoy-a-gallery-of-50-youtube-banners-now-for-2024/"><u>[New] Free Online Offer  Enjoy a Gallery of 50 YouTube Banners Now for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-giggle-guild-creepy-cybernetic-comedians/"><u>[New] Giggle Guild  Creepy Cybernetic Comedians</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-finest-5-android-image-boosters/"><u>[New] The Finest 5 Android Image Boosters</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-enhance-reach-the-top-10-highlight-strategies-unveiled/"><u>[Updated] 2024 Approved  Enhance Reach  The Top 10 Highlight Strategies Unveiled</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-create-video-ads-for-free-in-youtube-video-builder/"><u>[Updated] 2024 Approved  How to Create Video Ads for Free in YouTube Video Builder</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-free-converters-at-your-fingertenaside-download-and-enjoy-videos-anywhere-for-2024/"><u>[Updated] Free Converters at Your Fingertenaside  Download & Enjoy Videos Anywhere for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-harness-the-power-of-youtube-video-for-stunning-gif-masterpieces-for-2024/"><u>[Updated] Harness the Power of YouTube Video for Stunning GIF Masterpieces for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-harnessing-home-content-a-commercialized-vlog-journey-for-2024/"><u>[Updated] Harnessing Home Content  A Commercialized Vlog Journey for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/1717708483867-updated-how-to-block-youtube-channels-on-computer-and-mobile-phones-for-2024/"><u>[Updated] How to Block Youtube Channels on Computer and Mobile Phones for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-get-just-the-essentials-from-youtube-videos-for-2024/"><u>[Updated] How to Get Just the Essentials From YouTube Videos for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-free-youtube-subtitled-content-download-without-paying/"><u>[Updated] In 2024, Free YouTube Subtitled Content  Download Without Paying</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-go-live-in-style-a-detailed-guide-to-youtubes-full-sphere-videos/"><u>[Updated] In 2024, Go Live in Style  A Detailed Guide to YouTube's Full-Sphere Videos</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-harmonizing-youtube-production-with-a-9-to-5-routine/"><u>[Updated] In 2024, Harmonizing YouTube Production with a 9-to-5 Routine</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-hit-the-jackpot-of-humor-craft-top-tier-youtube-reaction-videos-3-techniques/"><u>[Updated] In 2024, Hit the Jackpot of Humor – Craft Top-Tier YouTube Reaction Videos (3 Techniques)</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-become-a-youtube-partner-you-need-10000-views-now/"><u>[Updated] In 2024, How to Become a YouTube Partner - You Need 10,000 Views Now</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-download-youtube-thumbnail-in-3-ways-onlinewinmac/"><u>[Updated] In 2024, How to Download YouTube Thumbnail in 3 Ways [Online/Win/Mac]</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-effectively-upload-ultra-hd-content-on-youtube/"><u>[Updated] In 2024, How to Effectively Upload Ultra HD Content on YouTube</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-step-into-virtual-entertainment-and-gain-notoriety/"><u>[Updated] In 2024, How to Step Into Virtual Entertainment and Gain Notoriety</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/2024-approved-elite-6-most-watched-shorter-video-repositories/"><u>2024 Approved  Elite 6 Most Watched Shorter Video Repositories</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-google-meetings-archive/"><u>2024 Approved  Google Meetings Archive</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/best-android-data-recovery-retrieve-lost-photos-from-htc-u23-pro-by-fonelab-android-recover-photos/"><u>Best Android Data Recovery - Retrieve Lost Photos from HTC U23 Pro.</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/breathing-life-into-your-phone-the-complete-guide-to-android-audio-customization-for-2024/"><u>Breathing Life Into Your Phone  The Complete Guide to Android Audio Customization for 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/can-life360-track-or-see-text-messages-what-can-you-do-with-life360-on-honor-100-drfone-by-drfone-virtual-android/"><u>Can Life360 Track Or See Text Messages? What Can You Do with Life360 On Honor 100? | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/does-airplane-mode-turn-off-gps-location-on-vivo-v29-drfone-by-drfone-virtual-android/"><u>Does Airplane Mode Turn off GPS Location On Vivo V29? | Dr.fone</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/elevate-your-snaps-the-soundtrack-edition/"><u>Elevate Your Snaps  The Soundtrack Edition</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-any-vivo-v29-pro-phone-password-using-emergency-call-by-drfone-android/"><u>How To Unlock Any Vivo V29 Pro Phone Password Using Emergency Call</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-bypass-the-required-apple-store-verification-for-iphone-14-pro-max-drfone-by-drfone-ios/"><u>In 2024, How To Bypass the Required Apple Store Verification For iPhone 14 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-infinix-hot-40-to-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Infinix Hot 40 To Phone | Dr.fone</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-simplified-methods-to-validate-your-youtube-status/"><u>In 2024, Simplified Methods to Validate Your YouTube Status</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-2024-approved-stop-motion-in-the-cloud-a-comprehensive-guide-to-tools-and-best-practices/"><u>New 2024 Approved Stop Motion in the Cloud A Comprehensive Guide to Tools and Best Practices</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/proven-ways-to-fix-there-was-a-problem-parsing-the-package-on-samsung-galaxy-a15-4g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Proven Ways to Fix There Was A Problem Parsing the Package on Samsung Galaxy A15 4G | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/reasons-for-nokia-c110-stuck-on-boot-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Nokia C110 Stuck on Boot Screen and Ways To Fix Them | Dr.fone</u></a></li>
+</ul></div>

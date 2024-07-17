@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Dissecting Ajey Nagar's 2023 YouTube Economic Landscape for 2024"
-date: 2024-06-24T07:00:02.840Z
-updated: 2024-06-25T07:00:02.840Z
+date: 2024-07-16T06:02:02.009Z
+updated: 2024-07-17T06:02:02.009Z
 tags:
   - ai video
   - ai youtube
@@ -20,10 +20,16 @@ If you have been following the who’s who of YouTube, then Ajey Nagar, also pop
 
 Getting excited, we too!!! So, in this article, we will learn all about who is Ajey Nagar, what is CarryMinati, what makes this man so popular, what is his **CarryMinati monthly income**, his personal life, and much more.
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 1: Who is CarryMinati?
 
 You may wonder who this simple-looking, young boy is, right?
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![ajay nagar aka carryminati](https://images.wondershare.com/filmora/article-images/2022/11/youtube-monetization-carryminati-youtube-income-2022-01.jpg)
 
 Yes, he is one of the India’s biggest YouTuber- Ajey Nagar. He shared a shoulder with Tom Cruise while promoting Mission Impossible 6 in Paris.
@@ -108,6 +114,9 @@ This video is about the Indian Film Industry and the awards given to the stars. 
 
 It is an interesting video of around 17 minutes where Ajay Nagar has acted along with other people to create a fun plot based of PUBG game.
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Bonus Tip: How to be a YouTuber and Make Videos like Carryminati
 
 We have learned that CarryMinati has become the name it is, all because of the excellent videos it creates. Though it may sound simple, video creation requires a lot of skills, patience, and the help of expert tools.
@@ -138,6 +147,9 @@ Step1 Launch the installed software on your system and add the media file to the
 
 Step2 Next, go to Effects > Ai Portrait, and the options of the features can be checked here. Click on the thumbnail and the feature can be viewed in the preview window.
 
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![wondershare filmora ai portrait 2](https://images.wondershare.com/filmora/article-images/2022/11/youtube-monetization-carryminati-youtube-income-2022-05.jpg)
 
 Step3 Drag the selected Portrait to the timeline and from the pop-up window choose to Purchase the additional module. You can check the result by playing the video. If needed multiple AI Portraits can be added to the video.
@@ -168,8 +180,14 @@ Calculating the income from a YouTube video can be a complicated task that depen
 
 Carry Minati has interviewed popular actors like Tom Cruise, Tessa Thompson, Henry Cavil, and others celebrities.
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
+<!-- affiliate ads end -->
 ![carryminati with tom cruise](https://images.wondershare.com/filmora/article-images/2022/11/youtube-monetization-carryminati-youtube-income-2022-09.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Final Words
 
 Gone are the days when only high posts at big-shot companies can bring in money and proving this right is CarryMinati who is not only earning big but has also earned worldwide fans and has created a name for himself. With his comic skits and engaging videos, this popular YouTube influencer is growing and stretching his wings.
@@ -199,6 +217,9 @@ A major part of Ajay Nagar’s income comes from YouTube videos and in addition 
 
 The statistics related to the views and income about CarryMinati are quite interesting and this makes everyone curious about what makes the channel and this person so popular on YouTube. If you too have been curious about the same, head to our next section.
 
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 3: Why is Carry Minati trending on YouTube?
 
 Just like the statistics, the facts related to CarryMinati’s popularity are equally interesting. Every YouTube channel or an influencer who is popular and trending have their own uniqueness and when it comes to CarrayMinati aka Ajay Nagar, there are several factors that makes him a sensation. Shortlisted some of them are as below.
@@ -243,6 +264,9 @@ This video is about the Indian Film Industry and the awards given to the stars. 
 
 It is an interesting video of around 17 minutes where Ajay Nagar has acted along with other people to create a fun plot based of PUBG game.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Bonus Tip: How to be a YouTuber and Make Videos like Carryminati
 
 We have learned that CarryMinati has become the name it is, all because of the excellent videos it creates. Though it may sound simple, video creation requires a lot of skills, patience, and the help of expert tools.
@@ -273,6 +297,9 @@ Step1 Launch the installed software on your system and add the media file to the
 
 Step2 Next, go to Effects > Ai Portrait, and the options of the features can be checked here. Click on the thumbnail and the feature can be viewed in the preview window.
 
+<!-- affiliate ads begin -->
+<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
+<!-- affiliate ads end -->
 ![wondershare filmora ai portrait 2](https://images.wondershare.com/filmora/article-images/2022/11/youtube-monetization-carryminati-youtube-income-2022-05.jpg)
 
 Step3 Drag the selected Portrait to the timeline and from the pop-up window choose to Purchase the additional module. You can check the result by playing the video. If needed multiple AI Portraits can be added to the video.
@@ -281,10 +308,16 @@ Step3 Drag the selected Portrait to the timeline and from the pop-up window choo
 
 Step4 If further customization is needed, you can even adjust the AI Portrait settings.
 
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
+<!-- affiliate ads end -->
 ![wondershare filmora ai portrait 4](https://images.wondershare.com/filmora/article-images/2022/11/youtube-monetization-carryminati-youtube-income-2022-07.jpg)
 
 Step5 When finally, all the settings are done, click on the Export button to save the file.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
+<!-- affiliate ads end -->
 ![wondershare filmora ai portrait 5](https://images.wondershare.com/filmora/article-images/2022/11/youtube-monetization-carryminati-youtube-income-2022-08.jpg)
 
 ## Hot FAQs on CarryMinati
@@ -331,6 +364,9 @@ If you too have got inspired and looking forward to starting with some interesti
 
 # 10 Tips For Shooting Profesional YouTube Videos
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 ##### Richard Bennett
@@ -341,6 +377,109 @@ If you too have got inspired and looking forward to starting with some interesti
 
  These and other useful tips may help you make better videos for your YouTube channel, so let's explore different ways of improving your video making skills.
 
+## 10 Tips for Shooting Better YouTube Videos
+
+ All videographers agree that you shouldn't come to the set unprepared. Everything has to be in its place, no matter how insignificant it may seem, because a tiny detail can completely ruin the shot or even an entire day of work. These tips are going to help you avoid common mistakes, inexperienced video producers often make.
+
+#### 1. Write the Script
+
+ Everything starts with a script, at least in the cinematography world. You don't have to write long, detailed descriptions of all scenes, just make a short note of every scene, what is being said in the shot, on-screen actions, camera positions, and so on. By doing this, you'll save yourself a lot of valuable time, you can then dedicate to other burning issues on the set. Besides, knowing what you are going to say throughout the video so you don't have to improvise all the time is going to help you feel more relaxed in front of a camera.
+
+#### 2. Build the Set (Lighting included)
+
+ Don't leave anything to chance. You should control everything that is going to be in the shot, so avoid working at locations you can't at least partially control. Shooting in studio-like conditions will enable you to carefully select the scenography and to design light so it matches the scene perfectly. The actors must always be clearly visible to the audience, which is why you need to pay attention to where they are located in the shot and how much light you have in that part of the shot.
+
+#### 3. Keep Your Batteries Charged
+
+ There is nothing more frustrating than arriving at the set anxious to start shooting just to find out that the batteries are empty. Charge the batteries at the end of each day on the set, because the chances are that you are going to need them early in the morning. Always have several spare batteries with you, so even if one battery is empty you have the replacement ready. You can also prolong the battery life by switching the camera off when you are not recording.
+
+#### 4. Do a Microphone Check
+
+ Capturing audio with an external microphone drastically increases the quality of the sound in your videos. That's why making absolutely sure that all cables are connected and that the microphone is perfectly placed is paramount if you want to get the sound right. The host or the hosts of the video must be at the right distance from the microphone, usually, the length of their fist with the thumb and pinky finger extended, but this can vary a few inches to either side.
+
+[Check out the best microphone for YouTuber in 2018](https://filmora.wondershare.com/vlogger/best-microphone-for-youtuber-videos.html)
+
+#### 5. Pay Attention to The Shot Composition
+
+ The rule of thirds is a common composition principle used by videographers to create balanced and unified images. The rule suggests that the subjects in a shot should be placed at the intersections of the lines that divide the screen. Most digital cameras have a grid that makes using the rule of thirds quite simple because you can easily see when the subjects in the shot are not positioned correctly.
+
+ This is just one of many shot composition techniques you have at your disposal, and as you gain more experience you'll learn how to combine them and get aesthetically pleasing results.
+
+#### 6. Always Record Videos in Landscape Mode
+
+<!-- affiliate ads begin -->
+<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+[![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
+
+ Posting vertically oriented videos to your YouTube channel will make you look unprofessional because portrait mode is never used for capturing videos. YouTubers who record their videos with Smartphones are more likely to fall into this trap, but all you need to do to avoid this is remember to hold the device horizontally.
+
+ By switching to portrait mode, you'll be cropping the frame in a way, so you might unknowingly end up removing parts of the shot you wanted to record.
+
+ In case that you want to convert your portrait video to landscape, do not miss this article about [How to Convert A Portrait Video to Landscape.](https://filmora.wondershare.com/video-editing-tips/convert-portrait-video-to-landscape.html)
+
+#### 7. Eliminate The Background Noises
+
+ Professional microphones can pick up even the softest sounds, that might prove difficult to remove in the post-production. You can reduce the noise levels in your videos by using shotgun microphones that only capture sounds that come directly into the microphone, or by using the omnidirectional mic to eliminate the wind if you're shooting on an outdoor location.
+
+ Background noises can be particularly unpleasant when recording narration, because the viewers of the video may not want to watch it until the end if they can't hear what the person in the video is saying.
+
+ If it is hard for you to record your YouTube video in quite environment, you can [remove the background noise](https://filmora.wondershare.com/video-editing-tips/remove-background-noise-from-video.html) by using some video editing software. For YouTubers, we recommend you to try [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/) to de-noise. Check the video below about how to remove background noise with one click.
+
+[![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
+
+#### 8. Keep The Shot in Focus
+
+ You can always keep the shot in focus by simply enabling the autofocus feature, but if you do so you won't be able to control where the focus is going to be. Pulling focus manually is an art that takes years to master, and you have to keep practicing it as much as you can in order to become good at it.
+
+ The best way to deal with out of focus shots is to avoid shooting scenes that include a lot of action because you won't have to pull focus that often.
+
+#### 9. Put The Camera on a Tripod
+
+![Camera tripod](https://images.wondershare.com/filmora/article-images/cartoni-omega-professional-tripod-system.jpg)
+
+ The footage you produce should be smooth and free of camera shakes. All video cameras pick up vibrations easily, so even the slightest movement or impact can ruin a shot. Putting the camera on a tripod is one of the best ways to stabilize the shot and avoid camera shaking.
+
+ In addition, a tripod enables you to maintain image stability even when shooting form lower or upper angles, something that cannot be achieved by simply holding the camera.
+
+ We have chosen some of the [best tripods that you can use for starting a YouTube vlogging Video shooting](https://filmora.wondershare.com/youtube-video-editing/how-to-use-tripod-for-vlogging.html). If you are using a 4K camera, here are some [tripods that you can use for your 4K Cameras](https://filmora.wondershare.com/4k/best-tripods-for-4k-camera.html).
+
+#### 10. Find The Best Angle
+
+ Every scene has its perfect angle, you just have to find it. This job is much easier if you have already built the set and adjusted the lighting before approaching the shot selection process because it will allow you to know exactly where the camera should be.
+
+ The camera position depends on a number of factors, including the video's aesthetics or the action that takes place in the shot, and you have to go through this process for each shot in your video.
+
+ **Read More to Get :** [How to Download YouTube Videos without Any Software Easily >>](https://tools.techidaily.com/wondershare/filmora/download/)
+
+**Conclusion**
+
+ Hopefully, the tips we provided in this article are going to help you create better YouTube videos. There are hundreds of tricks you'll have to learn as your skills become more polished, but sometimes just paying attention to the basic rules of videography is more than enough to create a stunning video.
+
+ Leave a comment and let us know which tips helped you the most or tell us which useful tips we failed to mention in this article.
+
+<!-- affiliate ads begin -->
+<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
+
+Richard Bennett
+
+Richard Bennett is a writer and a lover of all things video.
+
+Follow @Richard Bennett
+
+##### Richard Bennett
+
+ Mar 27, 2024• Proven solutions
+
+ We have mentioned before about [the equipment you should have to start your YouTube video shooting](https://tools.techidaily.com/wondershare/filmora/download/), however, being methodical in your approach to the video making process and knowing exactly what and where you are going to stage and record will increase the quality of the content. Focus on the technical aspects of your YouTube video before you actually start shooting and strive to be well prepared for all the challenges a day on the set may bring.
+
+ These and other useful tips may help you make better videos for your YouTube channel, so let's explore different ways of improving your video making skills.
+
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 10 Tips for Shooting Better YouTube Videos
 
  All videographers agree that you shouldn't come to the set unprepared. Everything has to be in its place, no matter how insignificant it may seem, because a tiny detail can completely ruin the shot or even an entire day of work. These tips are going to help you avoid common mistakes, inexperienced video producers often make.
@@ -435,6 +574,9 @@ Follow @Richard Bennett
 
  These and other useful tips may help you make better videos for your YouTube channel, so let's explore different ways of improving your video making skills.
 
+<!-- affiliate ads begin -->
+<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 10 Tips for Shooting Better YouTube Videos
 
  All videographers agree that you shouldn't come to the set unprepared. Everything has to be in its place, no matter how insignificant it may seem, because a tiny detail can completely ruin the shot or even an entire day of work. These tips are going to help you avoid common mistakes, inexperienced video producers often make.
@@ -481,6 +623,9 @@ Follow @Richard Bennett
 
  If it is hard for you to record your YouTube video in quite environment, you can [remove the background noise](https://filmora.wondershare.com/video-editing-tips/remove-background-noise-from-video.html) by using some video editing software. For YouTubers, we recommend you to try [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/) to de-noise. Check the video below about how to remove background noise with one click.
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 #### 8. Keep The Shot in Focus
@@ -529,6 +674,9 @@ Follow @Richard Bennett
 
  These and other useful tips may help you make better videos for your YouTube channel, so let's explore different ways of improving your video making skills.
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 10 Tips for Shooting Better YouTube Videos
 
  All videographers agree that you shouldn't come to the set unprepared. Everything has to be in its place, no matter how insignificant it may seem, because a tiny detail can completely ruin the shot or even an entire day of work. These tips are going to help you avoid common mistakes, inexperienced video producers often make.
@@ -559,100 +707,9 @@ Follow @Richard Bennett
 
 #### 6. Always Record Videos in Landscape Mode
 
-[![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
-
- Posting vertically oriented videos to your YouTube channel will make you look unprofessional because portrait mode is never used for capturing videos. YouTubers who record their videos with Smartphones are more likely to fall into this trap, but all you need to do to avoid this is remember to hold the device horizontally.
-
- By switching to portrait mode, you'll be cropping the frame in a way, so you might unknowingly end up removing parts of the shot you wanted to record.
-
- In case that you want to convert your portrait video to landscape, do not miss this article about [How to Convert A Portrait Video to Landscape.](https://filmora.wondershare.com/video-editing-tips/convert-portrait-video-to-landscape.html)
-
-#### 7. Eliminate The Background Noises
-
- Professional microphones can pick up even the softest sounds, that might prove difficult to remove in the post-production. You can reduce the noise levels in your videos by using shotgun microphones that only capture sounds that come directly into the microphone, or by using the omnidirectional mic to eliminate the wind if you're shooting on an outdoor location.
-
- Background noises can be particularly unpleasant when recording narration, because the viewers of the video may not want to watch it until the end if they can't hear what the person in the video is saying.
-
- If it is hard for you to record your YouTube video in quite environment, you can [remove the background noise](https://filmora.wondershare.com/video-editing-tips/remove-background-noise-from-video.html) by using some video editing software. For YouTubers, we recommend you to try [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/) to de-noise. Check the video below about how to remove background noise with one click.
-
-[![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
-
-#### 8. Keep The Shot in Focus
-
- You can always keep the shot in focus by simply enabling the autofocus feature, but if you do so you won't be able to control where the focus is going to be. Pulling focus manually is an art that takes years to master, and you have to keep practicing it as much as you can in order to become good at it.
-
- The best way to deal with out of focus shots is to avoid shooting scenes that include a lot of action because you won't have to pull focus that often.
-
-#### 9. Put The Camera on a Tripod
-
-![Camera tripod](https://images.wondershare.com/filmora/article-images/cartoni-omega-professional-tripod-system.jpg)
-
- The footage you produce should be smooth and free of camera shakes. All video cameras pick up vibrations easily, so even the slightest movement or impact can ruin a shot. Putting the camera on a tripod is one of the best ways to stabilize the shot and avoid camera shaking.
-
- In addition, a tripod enables you to maintain image stability even when shooting form lower or upper angles, something that cannot be achieved by simply holding the camera.
-
- We have chosen some of the [best tripods that you can use for starting a YouTube vlogging Video shooting](https://filmora.wondershare.com/youtube-video-editing/how-to-use-tripod-for-vlogging.html). If you are using a 4K camera, here are some [tripods that you can use for your 4K Cameras](https://filmora.wondershare.com/4k/best-tripods-for-4k-camera.html).
-
-#### 10. Find The Best Angle
-
- Every scene has its perfect angle, you just have to find it. This job is much easier if you have already built the set and adjusted the lighting before approaching the shot selection process because it will allow you to know exactly where the camera should be.
-
- The camera position depends on a number of factors, including the video's aesthetics or the action that takes place in the shot, and you have to go through this process for each shot in your video.
-
- **Read More to Get :** [How to Download YouTube Videos without Any Software Easily >>](https://tools.techidaily.com/wondershare/filmora/download/)
-
-**Conclusion**
-
- Hopefully, the tips we provided in this article are going to help you create better YouTube videos. There are hundreds of tricks you'll have to learn as your skills become more polished, but sometimes just paying attention to the basic rules of videography is more than enough to create a stunning video.
-
- Leave a comment and let us know which tips helped you the most or tell us which useful tips we failed to mention in this article.
-
-![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
-
-Richard Bennett
-
-Richard Bennett is a writer and a lover of all things video.
-
-Follow @Richard Bennett
-
-##### Richard Bennett
-
- Mar 27, 2024• Proven solutions
-
- We have mentioned before about [the equipment you should have to start your YouTube video shooting](https://tools.techidaily.com/wondershare/filmora/download/), however, being methodical in your approach to the video making process and knowing exactly what and where you are going to stage and record will increase the quality of the content. Focus on the technical aspects of your YouTube video before you actually start shooting and strive to be well prepared for all the challenges a day on the set may bring.
-
- These and other useful tips may help you make better videos for your YouTube channel, so let's explore different ways of improving your video making skills.
-
-## 10 Tips for Shooting Better YouTube Videos
-
- All videographers agree that you shouldn't come to the set unprepared. Everything has to be in its place, no matter how insignificant it may seem, because a tiny detail can completely ruin the shot or even an entire day of work. These tips are going to help you avoid common mistakes, inexperienced video producers often make.
-
-#### 1. Write the Script
-
- Everything starts with a script, at least in the cinematography world. You don't have to write long, detailed descriptions of all scenes, just make a short note of every scene, what is being said in the shot, on-screen actions, camera positions, and so on. By doing this, you'll save yourself a lot of valuable time, you can then dedicate to other burning issues on the set. Besides, knowing what you are going to say throughout the video so you don't have to improvise all the time is going to help you feel more relaxed in front of a camera.
-
-#### 2. Build the Set (Lighting included)
-
- Don't leave anything to chance. You should control everything that is going to be in the shot, so avoid working at locations you can't at least partially control. Shooting in studio-like conditions will enable you to carefully select the scenography and to design light so it matches the scene perfectly. The actors must always be clearly visible to the audience, which is why you need to pay attention to where they are located in the shot and how much light you have in that part of the shot.
-
-#### 3. Keep Your Batteries Charged
-
- There is nothing more frustrating than arriving at the set anxious to start shooting just to find out that the batteries are empty. Charge the batteries at the end of each day on the set, because the chances are that you are going to need them early in the morning. Always have several spare batteries with you, so even if one battery is empty you have the replacement ready. You can also prolong the battery life by switching the camera off when you are not recording.
-
-#### 4. Do a Microphone Check
-
- Capturing audio with an external microphone drastically increases the quality of the sound in your videos. That's why making absolutely sure that all cables are connected and that the microphone is perfectly placed is paramount if you want to get the sound right. The host or the hosts of the video must be at the right distance from the microphone, usually, the length of their fist with the thumb and pinky finger extended, but this can vary a few inches to either side.
-
-[Check out the best microphone for YouTuber in 2018](https://filmora.wondershare.com/vlogger/best-microphone-for-youtuber-videos.html)
-
-#### 5. Pay Attention to The Shot Composition
-
- The rule of thirds is a common composition principle used by videographers to create balanced and unified images. The rule suggests that the subjects in a shot should be placed at the intersections of the lines that divide the screen. Most digital cameras have a grid that makes using the rule of thirds quite simple because you can easily see when the subjects in the shot are not positioned correctly.
-
- This is just one of many shot composition techniques you have at your disposal, and as you gain more experience you'll learn how to combine them and get aesthetically pleasing results.
-
-#### 6. Always Record Videos in Landscape Mode
-
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
  Posting vertically oriented videos to your YouTube channel will make you look unprofessional because portrait mode is never used for capturing videos. YouTubers who record their videos with Smartphones are more likely to fall into this trap, but all you need to do to avoid this is remember to hold the device horizontally.
@@ -723,3 +780,51 @@ Follow @Richard Bennett
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-fire-browser-excellence-premier-facebook-downloaders-and-addons-for-firefox/"><u>[New] 2024 Approved  Fire-Browser Excellence  Premier Facebook Downloaders & Addons for FireFox</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-free-end-credits-maker-the-1-video-closers-guide/"><u>[New] 2024 Approved  Free End Credits Maker - The #1 Video Closers Guide</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-creator-to-critic-evaluating-video-value-across-platforms/"><u>[New] 2024 Approved  From Creator to Critic  Evaluating Video Value Across Platforms</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-global-viewer-count-triumphs-play-button-honors/"><u>[New] 2024 Approved  Global Viewer Count Triumphs  Play Button Honors</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-successfully-upload-elongated-youtube-clips/"><u>[New] 2024 Approved  How to Successfully Upload Elongated YouTube Clips</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-set-the-atmosphere-musical-statuses/"><u>[New] 2024 Approved  Set the Atmosphere  Musical Statuses</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-troubleshooting-stalled-video-sending-on-iphone-and-androids-messenger/"><u>[New] 2024 Approved  Troubleshooting Stalled Video Sending on iPhone and Android's Messenger</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-from-chat-room-to-global-stage-broadcast-google-meet-on-youtube-for-2024/"><u>[New] From Chat Room to Global Stage  Broadcast Google Meet on YouTube for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-gamer-guides-and-tips-best-streamers-for-2024/"><u>[New] Gamer Guides and Tips  Best Streamers for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-guide-to-superior-youtube-commercials-for-2024/"><u>[New] Guide to Superior YouTube Commercials for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-finding-the-right-mic-a-guide-for-multifaceted-yt-channels/"><u>[New] In 2024, Finding the Right Mic  A Guide for Multifaceted YT Channels</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-finding-the-sweet-spot-optimal-youtube-video-upload-rates-for-growth/"><u>[New] In 2024, Finding the Sweet Spot  Optimal YouTube Video Upload Rates for Growth</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-novice-to-vlogger-your-guide-to-creating-a-youtube-chanel/"><u>[New] In 2024, From Novice to Vlogger  Your Guide to Creating a YouTube Chanel</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-much-money-can-you-score-with-youtube-short-videos/"><u>[New] In 2024, How Much Money Can You Score with YouTube Short Videos?</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-make-your-shorts-image-visible-again/"><u>[New] In 2024, How to Make Your Shorts' Image Visible Again</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-in-2024-quickly-amplify-your-tiktok-audience-essential-techniques/"><u>[New] In 2024, Quickly Amplify Your TikTok Audience - Essential Techniques</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-profit-generating-methods-for-successful-vimeo-creators-for-2024/"><u>[New] Profit-Generating Methods for Successful Vimeo Creators for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-fast-track-to-1000-fans-through-captivating-content/"><u>[Updated] 2024 Approved  Fast-Track To 1,000 Fans Through Captivating Content</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-the-shadows-to-spotlight-rise-in-popularity-with-these-steps-on-youtube/"><u>[Updated] 2024 Approved  From the Shadows to Spotlight  Rise in Popularity with These Steps on YouTube</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-growth-hacks-for-youtubers-short-form-content-boosting-view-counts-effectively/"><u>[Updated] 2024 Approved  Growth Hacks for YouTuber's Short Form Content  Boosting View Counts Effectively</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-harnessing-creative-energy-for-impactful-lyric-videos-and-lyric-video-maker/"><u>[Updated] 2024 Approved  Harnessing Creative Energy for Impactful Lyric Videos & Lyric Video Maker</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-execute-a-budget-friendly-youtube-seminar/"><u>[Updated] 2024 Approved  How to Execute a Budget-Friendly Youtube Seminar</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-find-my-playlist-on-youtube/"><u>[Updated] 2024 Approved  How to Find My Playlist on YouTube</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-bringing-bygone-era-filmmaking-to-life-today-for-2024/"><u>[Updated] Bringing Bygone Era Filmmaking to Life Today for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-first-steps-in-digital-content-top-10-easy-to-make-youtube-projects-for-2024/"><u>[Updated] First Steps in Digital Content  Top 10 Easy-to-Make YouTube Projects for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-from-humble-beginnings-to-sponsored-success-channels-blueprint-for-2024/"><u>[Updated] From Humble Beginnings to Sponsored Success  Channels' Blueprint for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-how-to-initiate-your-own-blog-product-analysis-edition/"><u>[Updated] How to Initiate Your Own Blog  Product Analysis Edition</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-download-youtube-thumbnail-in-3-waysonlinewinmac/"><u>[Updated] In 2024, How to Download Youtube Thumbnail in 3 Ways[Online/Win/Mac]</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-trend-driven-infographics-the-leaders-in-23/"><u>[Updated] Trend-Driven Infographics  The Leaders in '23</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-expert-tips-for-streamlining-mov-recordings-on-win10/"><u>2024 Approved  Expert Tips for Streamlining MOV Recordings on Win10</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-skyline-success-on-iphone-top-landscape-shots-techniques/"><u>2024 Approved  Skyline Success on iPhone  Top Landscape Shots Techniques</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/2024-approved-the-editors-edge-advanced-strategies-to-master-in-vimeo-trimming/"><u>2024 Approved  The Editor's Edge  Advanced Strategies to Master in Vimeo Trimming</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-the-ultimate-guide-to-youtube-screen-recording/"><u>2024 Approved  The Ultimate Guide to YouTube Screen Recording</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/2024-approved-unlocking-clearer-listening-the-complete-process-of-audio-level-standardization-in-vlc/"><u>2024 Approved Unlocking Clearer Listening The Complete Process of Audio Level Standardization in VLC</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/5-ways-to-reset-vivo-s18e-without-volume-buttons-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Reset Vivo S18e Without Volume Buttons | Dr.fone</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/bridging-knowledge-gaps-with-ai-assistance/"><u>Bridging Knowledge Gaps With AI Assistance</u></a></li>
+<li><a href="https://fake-location.techidaily.com/complete-tutorial-to-use-gps-joystick-to-fake-gps-location-on-realme-gt-neo-5-drfone-by-drfone-virtual-android/"><u>Complete Tutorial to Use GPS Joystick to Fake GPS Location On Realme GT Neo 5 | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-realme-narzo-n55-location-without-installing-software-drfone-by-drfone-virtual-android/"><u>How to Track Realme Narzo N55 Location without Installing Software? | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-atandt-apple-iphone-6s-with-3-methods-by-drfone-ios/"><u>How to Unlock AT&T Apple iPhone 6s with 3 Methods</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-best-10-mock-location-apps-worth-trying-on-tecno-spark-20-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Best 10 Mock Location Apps Worth Trying On Tecno Spark 20 Pro | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/mastering-chromatics-a-practical-approach-for-2024/"><u>Mastering Chromatics  A Practical Approach for 2024</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-2024-approved-unconventional-chat-services-excellence-list-security-functionality-and-pleasure/"><u>New 2024 Approved Unconventional Chat Services Excellence List Security, Functionality, and Pleasure</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/the-ultimate-guide-how-to-bypass-swipe-screen-to-unlock-on-infinix-hot-30i-device-by-drfone-android/"><u>The Ultimate Guide How to Bypass Swipe Screen to Unlock on Infinix Hot 30i Device</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/windows-7-display-correction-steps/"><u>Windows 7 Display Correction Steps</u></a></li>
+</ul></div>

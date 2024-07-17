@@ -1,7 +1,7 @@
 ---
 title: "[New] How to Insert YouTube Links for an Engaging PPT Experience for 2024"
-date: 2024-06-06T14:32:36.780Z
-updated: 2024-06-07T14:32:36.780Z
+date: 2024-07-16T03:13:12.338Z
+updated: 2024-07-17T03:13:12.338Z
 tags:
   - ai video
   - ai youtube
@@ -36,6 +36,9 @@ After understanding the benefits of have a video embedded to your presentation, 
 
 The four most used methods of getting this done are discussed in detailed in the following sections:
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Method 1: Using YouTube Video’s URL
 
 Because every YouTube video has a URL (Uniform Resource Locator) that is unique for that particular clip, PowerPoint allows you to use it to embed the footage to any of its slides. The process is simple, and you can follow the steps given below to get this done:
@@ -46,16 +49,22 @@ Open your default web browser, go to the YouTube video you want to embed to Powe
 
 **Step 2: Add URL to PowerPoint**
 
-![ embed YouTube video to PowerPoint ](https://images.wondershare.com/filmora/article-images/embed-youtube-video-via-url.jpg)
+![embed YouTube video to PowerPoint](https://images.wondershare.com/filmora/article-images/embed-youtube-video-via-url.jpg)
 
 Launch PowerPoint if it is not already open, go to the slide you want to embed the YouTube video to, click **Insert** from menu bar present above the Ribbon, click **Video** from the **Media** section at the right end of the Ribbon, click **Online Video** from the list that appears, in the **Enter the URL for the online video** field on the **Online Video** box, paste the URL that you copied earlier, and click **Insert** to **insert YouTube video into PowerPoint**.
 
-![ embed YouTube video to PowerPoint ](https://images.wondershare.com/filmora/article-images/embed-youtube-video-in-powerpoint-via-url-2.jpg)
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![embed YouTube video to PowerPoint](https://images.wondershare.com/filmora/article-images/embed-youtube-video-in-powerpoint-via-url-2.jpg)
 
 **Step 3: Position the Player**
 
 Once the video is added to the PowerPoint slide, drag its frame and reposition it to a suitable location.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Method 2: Embed a YouTube Video with Embed Code (For Microsoft PowerPoint 2016)
 
 Unlike PowerPoint 2019 that accepts URLs and embed codes in a single URL field, MS PowerPoint 2016 lets you choose how you want to insert a video. The step-by-step instructions given below explain how this can be done:
@@ -64,7 +73,7 @@ Unlike PowerPoint 2019 that accepts URLs and embed codes in a single URL field, 
 
 Go to the YouTube video you want to embed to your PowerPoint slide, click the **SHARE** icon from the left area under the video player, click the **Embed** icon in the **Share** box, and click **COPY** from the bottom-right corner of the **Embed Video** box that appears next.
 
-![ embed YouTube video code to PowerPoint ](https://images.wondershare.com/filmora/article-images/embed-youtube-video-in-powerpoint-via-embed-code.jpg)
+![embed YouTube video code to PowerPoint](https://images.wondershare.com/filmora/article-images/embed-youtube-video-in-powerpoint-via-embed-code.jpg)
 
 **Step 2: Get to the PowerPoint’s Insert Video Box**
 
@@ -106,6 +115,9 @@ Click the **Video** icon from the **Media** section of the Ribbon, click **Video
 
 Grab any of the six handles of the video you inserted, and drag it inward to decrease the size of the frame. It is advisable to use the corner handle and drag them diagonally to maintain proper aspect ratio of the player’s frame. Next, right-click anywhere inside the frame, click **Format Video** from the context menu, and use the options that appear in the right pane to make necessary adjustments to the clip like color correction, manage brightness and contrast, etc.
 
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## YouTube Embedding Supported PowerPoint Version Checklist
 
 Depending on the version of Microsoft Office you are using, you may or may not be able to embed a YouTube video in PowerPoint. Also, if your version of PowerPoint allows you to do so, the interface and the options may vary from those you see on your friends’ computer or in some online tutorials.
@@ -121,6 +133,9 @@ That said, the following table gives a clear picture of which version of Microso
 | PowerPoint 2010             | No                     | No (Adobe Flash Player Support Discontinued) | No (Adobe Flash Player Support Discontinued) | No                                  |
 | PowerPoint 365/2019 for Mac | Yes                    | No                                           | No                                           | No                                  |
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Frequently Asked Questions About Embedding YouTube Videos in PowerPoint
 
 #### 1\. Why Can’t I Embed a YouTube Video in PowerPoint 2010?
@@ -143,6 +158,9 @@ YouTube videos that you embed to your PowerPoint presentations can’t be played
 
 Although the above sections explain **how to embed a YouTube video in PowerPoint**, the process to do so may vary in different versions of Microsoft Office. Also, depending on what edition of the program you are using, embedding YouTube videos may or may not be supported according to the availability of the add-ins or updates that Microsoft has rolled out for that particular built of the app.
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 Richard Bennett
@@ -162,6 +180,9 @@ Follow @Richard Bennett
 
 # Free YouTube Money Calculators-Calculate YouTube Money
 
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
 ##### Shanoon Cox
@@ -185,6 +206,9 @@ If you're curious about how much money you could make from your channel, or just
 
 Let's take a look at the YouTube Money Calculator now and explore your potential for generating income from your passion for YouTube.
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 1: What's a CPM and How Do YouTube Money Calculators Average It Out?
 
 CPM stands for ‘cost per mille/thousand’ and is the price of a thousand ad impressions (to the advertiser. For the creator, this is the amount of money they make per thousand ad impressions).
@@ -261,6 +285,9 @@ If you've had a go with the YouTube money calculator and are excited about the p
 
 Once you've done all that, YouTube will review your application and decide if you can join the program. Usually, this happens within a matter of seconds, generating confirmation via email. Your account will now have 'Partner Verified' on it, and your chosen ads will start being displayed immediately.
 
+<!-- affiliate ads begin -->
+<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 6: Making Money on YouTube
 
 We've all been seduced by the big hitters on YouTube, from PewDiePie to Lilly Singh, and have imagined that we'll be the next YouTube millionaire. However, the reality is that 99 per cent of those on YouTube are earning peanuts for the effort they put into their channels from these advertising streams.
@@ -284,3 +311,63 @@ Follow @Shanoon Cox
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-frameworks-for-compelling-youtube-content-layouts/"><u>[New] 2024 Approved  Frameworks for Compelling YouTube Content Layouts</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-loop-a-youtube-video-the-ultimate-guide/"><u>[New] 2024 Approved  How to Loop a YouTube Video  The Ultimate Guide</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-the-ultimate-guide-to-youtube-live-streaming/"><u>[New] 2024 Approved  The Ultimate Guide to YouTube Live Streaming</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-find-happiness-in-everyday-life-via-youtubes-anime-hubs-for-2024/"><u>[New] Find Happiness in Everyday Life via YouTube's Anime Hubs for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-finding-the-right-mic-a-guide-for-multifaceted-yt-channels-for-2024/"><u>[New] Finding the Right Mic  A Guide for Multifaceted YT Channels for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-game-masters-youtube-money-hacks-for-2024/"><u>[New] Game Masters  YouTube Money Hacks for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-get-superior-visuals-from-youtube-downloading-thumbnails-free-for-2024/"><u>[New] Get Superior Visuals From YouTube - Downloading Thumbnails Free for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-elevate-your-video-game-with-these-5-youtube-thumbnail-builders/"><u>[New] In 2024, Elevate Your Video Game with These 5 YouTube Thumbnail Builders</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-gain-an-edge-in-views-with-these-5-youtube-thumbnail-creators/"><u>[New] In 2024, Gain an Edge in Views with These 5 YouTube Thumbnail Creators</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-get-clipped-onto-youtube-audio-submission-made-easy/"><u>[New] In 2024, Get Clipped Onto YouTube  Audio Submission Made Easy</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-giggle-genesis-conceptualizing-7-funny-youtube-sessions/"><u>[New] In 2024, Giggle Genesis  Conceptualizing 7 Funny YouTube Sessions</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-handling-haters-strategies-for-content-creators/"><u>[New] In 2024, Handling Haters  Strategies for Content Creators</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-harness-the-power-of-imagery-top-7-free-thumbnail-makers/"><u>[New] In 2024, Harness the Power of Imagery  Top 7 Free Thumbnail Makers</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-harnessing-hdr-in-post-top-4-youtube-guides-with-complimentary-green-screen-effects/"><u>[New] In 2024, Harnessing HDR in Post  Top 4 YouTube Guides with Complimentary Green Screen Effects</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-establish-lasting-content-partnerships-with-youtubers/"><u>[New] In 2024, How to Establish Lasting Content Partnerships with YouTubers</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-searching-comments-on-youtube/"><u>[New] In 2024, Searching Comments on YouTube</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/nveiling-the-top-6-favorite-short-form-video-download-tools/"><u>[New] Unveiling the Top 6 Favorite Short-Form Video Download Tools</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-finding-friends-films-and-snapshots-on-the-social-web/"><u>[Updated] 2024 Approved  Finding Friends’ Films & Snapshots on the Social Web</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-fixing-problematic-youtube-shorts-thumbnails-display/"><u>[Updated] 2024 Approved  Fixing Problematic YouTube Shorts Thumbnails Display</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-novice-to-expert-mastering-video-identity-on-youtube/"><u>[Updated] 2024 Approved  From Novice to Expert  Mastering Video Identity on YouTube</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-twitch-live-to-youtube-watchability-a-comprehensive-tutorial/"><u>[Updated] 2024 Approved  From Twitch Live to YouTube Watchability  A Comprehensive Tutorial</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-gastronomic-genius-ideal-culinary-network-name-strategies/"><u>[Updated] 2024 Approved  Gastronomic Genius  Ideal Culinary Network Name Strategies</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-preserve-your-favorite-tracks-from-youtube-safely-and-for-free/"><u>[Updated] 2024 Approved  How to Preserve Your Favorite Tracks From YouTube Safely & for Free</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-foundational-steps-for-youtube-enthusiasts-for-2024/"><u>[Updated] Foundational Steps for YouTube Enthusiasts for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-from-search-patterns-to-screenplay-crafting-videos-from-google-data/"><u>[Updated] From Search Patterns to Screenplay  Crafting Videos From Google Data</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-from-youtube-watch-parties-to-home-auditory-archives-for-2024/"><u>[Updated] From YouTube Watch Parties to Home Auditory Archives for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-from-zero-to-youtube-pros-creating-an-account-rightly-for-2024/"><u>[Updated] From Zero to YouTube Pros  Creating an Account Rightly for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-generating-a-youtube-auto-subscribe-direct-link-for-2024/"><u>[Updated] Generating a YouTube Auto Subscribe Direct Link for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-get-people-to-subscribe-to-your-youtube-channel-for-2024/"><u>[Updated] How to Get People to Subscribe to Your YouTube Channel for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-make-a-thumbnail-for-your-youtube-free-easily-for-2024/"><u>[Updated] How to Make a Thumbnail for Your YouTube Free Easily for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-transform-your-youtube-vids-a-guide-to-softened-screens-for-2024/"><u>[Updated] How to Transform Your Youtube Vids  A Guide to Softened Screens for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-turn-your-google-meet-into-a-youtube-live-event-for-2024/"><u>[Updated] How To Turn Your Google Meet Into a YouTube Live Event for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-fixing-popular-youtube-short-snafus/"><u>[Updated] In 2024, Fixing Popular YouTube Short Snafus</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-free-video-editing-software-round-up-choose-from-7-options/"><u>[Updated] In 2024, Free Video Editing Software Round-Up  Choose From 7 Options</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-going-against-the-tide-of-tradition-innovative-techniques-for-yt-rewinds/"><u>[Updated] In 2024, Going Against the Tide of Tradition  Innovative Techniques for YT Rewinds</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-highly-compensated-online-visionary-creator/"><u>[Updated] In 2024, Highly Compensated Online Visionary Creator</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-optimize-youtube-tagstitledescription-for-more-views/"><u>[Updated] In 2024, How to Optimize YouTube Tags/Title/Description for More Views</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-top-picks-7-best-live-streaming-apps-to-upgrade-your-youtube-presence-iosandroid/"><u>[Updated] Top Picks  7 Best Live Streaming Apps to Upgrade Your YouTube Presence (iOS/Android)</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-top-picks-for-zero-cost-film-and-photography-resources/"><u>[Updated] Top Picks for Zero-Cost Film and Photography Resources</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-track-your-traffic-the-straightforward-strategy-for-scrutinizing-youtube-earnings/"><u>[Updated] Track Your Traffic  The Straightforward Strategy for Scrutinizing YouTube Earnings</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-trailblaze-your-way-to-success-insights-on-youtube-metrics-with-social-blade/"><u>[Updated] Trailblaze Your Way to Success  Insights on YouTube Metrics with Social Blade</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/2024-approved-navigating-the-world-of-discord-roles/"><u>2024 Approved  Navigating the World of Discord Roles</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-ultimate-guide-to-10-premium-vector-websites/"><u>2024 Approved  Ultimate Guide to 10 Premium Vector Websites</u></a></li>
+<li><a href="https://games-able.techidaily.com/7-strategies-to-maximize-your-fps-in-csgo/"><u>7 Strategies to Maximize Your FPS in CS:GO</u></a></li>
+<li><a href="https://android-frp.techidaily.com/about-asus-rog-phone-8-frp-bypass-by-drfone-android/"><u>About Asus ROG Phone 8 FRP Bypass</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/el-up-your-earning-potential-with-youtube-shorts-strategy-for-2024/"><u>Channel Up Your Earning Potential with YouTube Shorts Strategy for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-compilation-of-the-best-9-multi-platform-video-communication-devices-iosandroid/"><u>In 2024, Compilation of The Best 9 Multi-Platform Video Communication Devices (iOS/Android)</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-honor-magic-v2-to-outlook-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Honor Magic V2 to Outlook | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-use-special-features-virtual-location-on-nokia-g22-drfone-by-drfone-virtual-android/"><u>In 2024, How To Use Special Features - Virtual Location On Nokia G22? | Dr.fone</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-interactive-multiplayer-experiences-online/"><u>In 2024, Interactive Multiplayer Experiences Online</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-ultimate-360-view-camera-analysis/"><u>In 2024, Ultimate 360-View Camera Analysis</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-will-pokemon-go-ban-the-account-if-you-use-pgsharp-on-vivo-v30-lite-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Will Pokémon Go Ban the Account if You Use PGSharp On Vivo V30 Lite 5G | Dr.fone</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-15-best-rock-songs-that-you-should-know/"><u>New 15 Best Rock Songs That You Should Know</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-steady-your-shot-the-best-free-online-video-stabilizers-for-2024/"><u>New Steady Your Shot The Best Free Online Video Stabilizers for 2024</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-voice-creation-made-easy-online-9-free-generators-to-convert-text-for-2024/"><u>New Voice Creation Made Easy Online 9 Free Generators to Convert Text for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-the-ultimate-list-of-neon-text-generators-top-9-picks-for-2024/"><u>Updated The Ultimate List of Neon Text Generators Top 9 Picks for 2024</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  How to Search Comments on YouTube Quickly?\""
-date: 2024-06-06T15:46:43.737Z
-updated: 2024-06-07T15:46:43.737Z
+date: 2024-07-16T05:04:22.384Z
+updated: 2024-07-17T05:04:22.384Z
 tags:
   - ai video
   - ai youtube
@@ -18,6 +18,9 @@ thumbnail: https://thmb.techidaily.com/d7456d8b7faa111d0a43957b4a5dc6a2bd7fa022e
 
 # How to Search Comments on YouTube Quickly?
 
+<!-- affiliate ads begin -->
+<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 ##### Richard Bennett
@@ -39,7 +42,7 @@ Comments are the best way to interact with subscribers on YouTube. YouTube’s S
 
 If you have a channel, you can use this feature in some simple steps.
 
-1. Visit YouTube[website](https://www.youtube.com/) on your desktop and sign in to your YouTube account.
+1. Visit YouTube [website](https://www.youtube.com/) on your desktop and sign in to your YouTube account.
 2. Go to the top right corner of your homepage, and you will find your profile icon. Click on it and from the drop-down menu, select the YouTube Studio option.
 3. This will take you to the YouTube Studio home page. On the left side, find and click on the Comments option, and then you will see all comments your YouTube channel has received.
 4. You can now click on the Filter icon from the comments section and type in the search term directly. Or, you can click the Search from the options, and type in the words you are looking for.
@@ -57,7 +60,7 @@ Besides the comment search feature, the YouTube Studio also has some in-built se
 
 **Response status:** Filter the comments to which you have responded or haven’t responded to.
 
-![  YouTube Studio comment filter](https://images.wondershare.com/filmora/article-images/youtube-studio-comment-filter-search.jpg)
+![YouTube Studio comment filter](https://images.wondershare.com/filmora/article-images/youtube-studio-comment-filter-search.jpg)
 
 You can combine these additional filters to narrow your comments search for YouTube.
 
@@ -67,19 +70,25 @@ You can use the YouTube Comment Search browser extension supported by Google Chr
 
 1. First, you need to install this extension. You can click this URL <https://chrome.google.com/webstore/detail/ycs-youtube-comment-searc/pmfhcilikeembgbiadjiojgfgcfbcoaa?hl=en> Or, you can open the Chrome Extensions page, and in the search bar at the top, type in YCS – YouTube Comment Search and press Enter.
 2. Click on the result that appears and then tap on the Add to Chrome button. This will add the extension to your browser.
-3. Once you add the extension, open[YouTube](https://www.youtube.com/) on your browser. Click on the video where you want to search the comments. You will find the YouTube Comment Search extension below it.
+3. Once you add the extension, open [YouTube](https://www.youtube.com/) on your browser. Click on the video where you want to search the comments. You will find the YouTube Comment Search extension below it.
 4. Tap on ‘Load comments’ and wait till the extension loads all the comments on the video.
 5. Now type your keywords, press Enter, and YCS will show all comments having the keyword you typed.
 
-![ YouTube Comment Search Extension](https://images.wondershare.com/filmora/article-images/search-comment-from-specific-user-with-ycs-extension.jpg)
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![YouTube Comment Search Extension](https://images.wondershare.com/filmora/article-images/search-comment-from-specific-user-with-ycs-extension.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Part 3: Using Comments Search for YouTube Extension
 
 If you are looking for an easy method to search YouTube comments, you can use the Comments Search for YouTube extension. Google Chrome supports this extension that allows you to search comments on YouTube without leaving the website.
 
 How can you use this extension to search YouTube comments? Here is a simple step-by-step tutorial.
 
-1. First, you need to download the extension from[Github](https://github.com/lettapp/ytcs/archive/master.zip). Then, locate the file on your computer and unzip it.
+1. First, you need to download the extension from [Github](https://github.com/lettapp/ytcs/archive/master.zip). Then, locate the file on your computer and unzip it.
 2. Next, you need to install it in the browser. Open your Chrome browser, and from the top right corner, click on the three vertical dots. You will find the Settings option towards the end of the drop-down menu, and then click on it.
 3. When the Settings page opens, select Extensions from the panel on the left side of the webpage. This will take you to a new tab.
 4. On the top right corner of the page, there will be a toggle switch called Developer Mode. Turn it on if it is off.
@@ -113,10 +122,13 @@ You can see all the comments you have posted in the Comment History in a few qui
 2. Once you sign in, click on the three horizontal lines at the top left corner of your YouTube page.
 3. Click on the History option and then you will find the option called Comments on the right side of your YouTube History page. Click on it to see all your YouTube comments.
 
-![ YouTube History Comment](https://images.wondershare.com/filmora/article-images/youtube-history-comments-menu.jpg)
+![YouTube History Comment](https://images.wondershare.com/filmora/article-images/youtube-history-comments-menu.jpg)
 
-You can also access the Comments History page directly from[here](https://www.youtube.com/feed/history/comment%5Fhistory).
+You can also access the Comments History page directly from [here](https://www.youtube.com/feed/history/comment%5Fhistory).
 
+<!-- affiliate ads begin -->
+<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
+<!-- affiliate ads end -->
 ## Part 5: How to Find Out Who Posts the Most Comments on Your YouTube Videos?
 
 If you are a creator on YouTube, the comments section becomes very important. Subscribers comment words of praise, encouragement, and feedback which help you grow. You may want to keep track of your most loyal followers. The best way to know that is by knowing who comments most on your videos.
@@ -153,6 +165,9 @@ Follow @Richard Bennett
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## The Fast Lane to Sharing Playlists Online
 
 YouTube has become the most popular video-sharing platform on the internet, with users from all over the world uploading and watching videos daily. You can find content on just about any topic you can think of on YouTube, making it an excellent resource for entertainment and education.
@@ -179,8 +194,14 @@ Step3 Select your playlist labeled as **"Private."** On the next page, click the
 
 Once the privacy setting has been changed, the **"share"** function will work as intended.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
 ![making youtube playlist public](https://images.wondershare.com/filmora/article-images/2023/03/making-youtube-playlist-public.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How To Share The YouTube Playlist?
 
 If you want to share the playlist on YouTube using your computer or mobile device, read the instructions below carefully:
@@ -197,6 +218,9 @@ This is especially helpful if you have a series of videos that you want viewers 
 
 Step1 Visit the **YouTube website** using a browser on your computer and sign in to your account. Click your **Profile** in the top-right of the screen and select **"Your Channel"** from the drop-down menu, which will take you to your YouTube channel's dashboard.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![accessing youtube channel to share playlist](https://images.wondershare.com/filmora/article-images/2023/03/accessing-youtube-channel-to-share-playlist.png)
 
 Step2 Next, go to the **"Playlist"** tab and click the **"View Full Playlist"** option under your playlist to access it.
@@ -249,6 +273,9 @@ Step3 In the next step, click the **"View Full Playlist"** option under your pre
 
 Step4 In the details section of your YouTube playlist on the playlist page, click the **three dots (ellipsis)** icon and select the **"Collaborate"** option.
 
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![sharing youtube playlist link to collaborate](https://images.wondershare.com/filmora/article-images/2023/03/sharing-youtube-playlist-link-to-collaborate.png)
 
 Step5 A pop-up window will appear on your screen. Toggle on the **"Collaborators can add videos to this playlist"** option to enable it, and the **"Allow new collaborators"** option will appear.
@@ -273,6 +300,9 @@ Step2 On the app's main interface/Home screen, tap the **"Library"** option at t
 
 Step3 Now, scroll down to the **"Playlists"** section and open the playlist you wish to share with your friends.
 
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![sharing youtube playlist from mobile](https://images.wondershare.com/filmora/article-images/2023/03/sharing-youtube-playlist-from-mobile.png)
 
 Step4 In the playlist's details section, tap the **"Share"** icon above the **"Play All"** button. Now, tap the **"Copy"** icon to save the playlist's URL on your clipboard, or use other available options to share the playlist directly.
@@ -307,6 +337,9 @@ We hope you have found the solution to share your YouTube Playlist. Supposing yo
 
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Conclusion
 
 In this comprehensive guide, we've explored why the share function in the playlist is not working and **how to share a YouTube playlist** using your computer and mobile device.
@@ -325,3 +358,38 @@ In this comprehensive guide, we've explored why the share function in the playli
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-web.techidaily.com/024-approved-earning-edge-reached-for-subscribers-above-500/"><u>[New] 2024 Approved  Earning Edge Reached for Subscribers Above 500</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-fiscal-footprint-of-mr-beast/"><u>[New] 2024 Approved  Fiscal Footprint of Mr. Beast</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-freeing-up-youtube-views-no-more-grey-lines/"><u>[New] 2024 Approved  Freeing Up YouTube Views  No More Grey Lines</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-content-maker-to-cash-magnet-youtubes-guide-to-ad-revenue/"><u>[New] 2024 Approved  From Content Maker to Cash Magnet  Youtube's Guide to Ad Revenue</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-scripts-to-subscribers-mastering-the-production-of-engaging-educational-videos-for-youtube/"><u>[New] 2024 Approved  From Scripts to Subscribers  Mastering the Production of Engaging Educational Videos for YouTube</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-historical-insights-top-educational-yt-creators/"><u>[New] 2024 Approved  Historical Insights  Top Educational YT Creators</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-embed-youtube-in-google-slides-presentations/"><u>[New] 2024 Approved  How to Embed YouTube in Google Slides Presentations</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-re-watch-lost-youtube-scenes-online-simple-steps/"><u>[New] 2024 Approved  How to Re-Watch Lost YouTube Scenes Online  Simple Steps</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-how-to-convert-youtube-videos-seamlessly-into-avi-for-2024/"><u>[New] How to Convert YouTube Videos Seamlessly Into AVI for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-how-to-search-comments-on-youtube-quickly-in-2024/"><u>[New] How to Search Comments on YouTube Quickly, In 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-high-quality-sound-adjustment-apps-for-content-casters/"><u>[New] In 2024, High-Quality Sound Adjustment Apps for Content Casters</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-choose-between-youtubers-game-entrance-tutorials-cost-included/"><u>[New] In 2024, How to Choose Between Youtubers' Game Entrance Tutorials (Cost Included?)</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-leave-a-lasting-impression-with-your-video-ending/"><u>[New] In 2024, How to Leave a Lasting Impression with Your Video Ending</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-seamlessly-upload-videos-onto-youtubes-platform/"><u>[New] In 2024, How to Seamlessly Upload Videos Onto YouTube's Platform</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-video-to-visual-storytelling-crafting-gifs-with-youtube-content/"><u>[Updated] 2024 Approved  From Video to Visual Storytelling  Crafting GIFs with YouTube Content</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-virality-to-value-ajays-playbook-for-profitable-content-creation/"><u>[Updated] 2024 Approved  From Virality to Value  Ajay’s Playbook for Profitable Content Creation</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-choose-between-youtubers-game-entrance-tutorials-cost-included/"><u>[Updated] 2024 Approved  How to Choose Between Youtubers' Game Entrance Tutorials (Cost Included?)</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-optimally-utilize-a-creative-commons-license/"><u>[Updated] 2024 Approved  How to Optimally Utilize a Creative Commons License</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-upload-youtube-shorts-video-from-computer-and-mobile/"><u>[Updated] 2024 Approved  How to Upload YouTube Shorts Video From Computer and Mobile?</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-use-jump-cuts-in-your-vlog/"><u>[Updated] 2024 Approved  How To Use Jump Cuts in Your Vlog</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-flow-and-flourish-with-these-elite-yogis-online-for-2024/"><u>[Updated] Flow & Flourish with These Elite Yogis Online for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-fraudulent-fronts-navigating-the-minefield-of-fake-youtube-viewers-for-2024/"><u>[Updated] Fraudulent Fronts  Navigating the Minefield of Fake YouTube Viewers for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-the-quickstep-into-viral-audio-youtubes-short-musical-journey/"><u>[Updated] The Quickstep Into Viral Audio  YouTube's Short Musical Journey</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-trailblazing-tiktok-profile-features-to-become-iconic-for-2024/"><u>[Updated] Trailblazing TikTok Profile Features to Become Iconic for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-expert-tips-control-your-volume-with-precision-on-lumafusion/"><u>2024 Approved  Expert Tips  Control Your Volume with Precision on Lumafusion</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/2024-approved-reviving-old-photos-through-snapchats-memories-feature/"><u>2024 Approved  Reviving Old Photos Through Snapchat's Memories Feature</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/dive-into-high-definition-fb-streaming-in-1080p/"><u>Dive Into High Definition  FB Streaming in 1080P</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-all-you-need-to-know-about-mega-greninja-for-apple-iphone-12-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, All You Need To Know About Mega Greninja For Apple iPhone 12 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/investigating-the-evolution-of-back-and-filter-buttons-in-pt/"><u>Investigating the Evolution of Back & Filter Buttons in PT</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/mastering-likes-tips-for-successful-tiktok-unboxings/"><u>Mastering Likes  Tips for Successful TikTok Unboxings</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-the-best-of-free-top-10-mp4-video-editing-software/"><u>New The Best of Free Top 10 MP4 Video Editing Software</u></a></li>
+</ul></div>

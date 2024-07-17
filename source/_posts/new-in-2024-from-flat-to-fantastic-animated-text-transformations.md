@@ -1,7 +1,7 @@
 ---
 title: "\"[New] In 2024, From Flat to Fantastic  Animated Text Transformations\""
-date: 2024-06-06T14:08:21.141Z
-updated: 2024-06-07T14:08:21.141Z
+date: 2024-07-16T02:36:53.543Z
+updated: 2024-07-17T02:36:53.543Z
 tags:
   - ai video
   - ai youtube
@@ -26,6 +26,9 @@ thumbnail: https://thmb.techidaily.com/65c45785d0c2f42e9363c89b2d70455197811e675
 
 Earlier, you learned how to have a **[bounce text effect in Adobe After Effects](https://tools.techidaily.com/wondershare/filmora/download/)**. However, because AE is a complex application and has a steep learning curve, this section explains the two alternative ways to get the same effect on your existing video footage.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
 ## Method 1: How to Create Bouncing Text in Filmora Video Editor?
 
 When talking about [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/), the application is populated with several presets for texts and titles, animations, effects, filters, and much more.
@@ -68,6 +71,9 @@ Double click the text track, go to the **Chroma Key** effect, select the **Color
 
 As explained before, Wondeshare Filmora makes the entire process of creating and adding **bounce text** effect pretty simple. With all the pre-build templates, and the versatility of the options that can be used to customize those presets, you can come up with the effects that are usually obtained when you start generating them from the scratch.
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 [![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ## Method 2: Generate Animated Bouncing Texts Online
@@ -80,6 +86,9 @@ Some most trusted websites to generate **bounce text** are listed below:
 
 Website: <https://engfto.com/index/create%5Fanimated%5Fbouncing%5Ftext/0-26>
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Create Animated Bouncing Text with ENGFTO](https://images.wondershare.com/filmora/article-images/engfto-create-animated-bouncing-text.jpg)
 
 You can follow the instructions given below to use Engfto to generate bouncing text for your footages:
@@ -106,6 +115,9 @@ Launch your favorite web browser and go to <https://loading.io/animation/text/>.
 
 **Step 2: Customize the Text and Choose Animation Effect**
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![Create Animated Bouncing Text with Loading.io](https://images.wondershare.com/filmora/article-images/create-bouncing-text-with-loadingio.jpg)
 
 Use the options available on the webpage to type your text, and change its font, color, background, transparency level etc. Select **Bounce** (or any of its variants) from the **Animation** drop-down list, and adjust the speed using the **Speed** slider.
@@ -153,10 +165,16 @@ The traditional annotation’s features are replaced by its successor YouTube Ca
 
 [Wondershare Filmstock Gaming Video Editing Skils](https://images.wondershare.com/filmora/article-images/learn-gaming-video-editing-skills-banner.png)](https://filmstock.wondershare.com/creative-theme-game?source%5Fchannel=seo%5Farticle&spm=rs.filmora%5Fweb)
 
+<!-- affiliate ads begin -->
+<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
+<!-- affiliate ads end -->
 ## Part 1: Why You Need to Add End Screens and Cards to Videos
 
 There are several reasons that make the YouTube end screen and cards a great tool when added to the videos. The new channel builtin features, donation choices, embedded polls and more are some of the best interactive and powerful features of YouTube end screen that’s when added to the video can drive in users to your channel. It is a strong tool to build viewership of your channel. When you use YouTube end screen at the end of the video, it helps in directing the users to other channels, playlists, and videos and also helps in promoting crowdfunding campaigns, merchandise and website. The YouTube end screen is a part of the video and to have an end screen on your video, it must be around 25seconds long.
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 2: How To Use Youtube End Screen
 
 Do you wish to add YouTube end screen to your video? Just follow the steps and get going.
@@ -202,10 +220,16 @@ YouTube Cards is more interactive. Users can add images and other linkes. Here a
 
  **4.** The end of your video is always a great place to link viewers to another of your videos, whether you use a card or an end screen. If somebody liked your video enough to watch until the end they’ll probably welcome a chance to consume similar content.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Conclusion
 
 Now, that you are aware how to add YouTube end screen to your video, make use of the amazing features of YouTube end screen and cards and let driving in traffic to your site be easy and fruitful.
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 Richard Bennett
@@ -223,3 +247,39 @@ Follow @Richard Bennett
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-final-thoughts-in-journalistic-styling/"><u>[New] 2024 Approved  Final Thoughts in Journalistic Styling</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-fitness-frontiers-youtubes-best-yoga-content/"><u>[New] 2024 Approved  Fitness Frontiers - YouTube's Best Yoga Content</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-flawless-online-invitation-crafting-youtube-subscription-buttons/"><u>[New] 2024 Approved  Flawless Online Invitation  Crafting YouTube Subscription Buttons</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-basic-to-breakthrough-a-youtube-live-thumbnail-journey/"><u>[New] 2024 Approved  From Basic to Breakthrough  A YouTube Live Thumbnail Journey</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-harness-the-power-of-playback-speed-control-in-youtube/"><u>[New] 2024 Approved  Harness the Power of Playback Speed Control in YouTube</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-much-could-you-make-on-youtube-snippets/"><u>[New] 2024 Approved  How Much Could You Make on YouTube Snippets?</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-deal-with-youtube-trolls-and-negative-comments/"><u>[New] 2024 Approved  How To Deal with YouTube Trolls and Negative Comments</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-financial-forecasting-in-the-world-of-youtube-snippet-creation-for-2024/"><u>[New] Financial Forecasting in the World of YouTube Snippet Creation for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-football-inscriptions-premier-fifa-youtube-insights-for-2024/"><u>[New] Football Inscriptions  Premier FIFA YouTube Insights for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-from-clicks-to-cash-elevating-exposure-economics-for-2024/"><u>[New] From Clicks to Cash  Elevating Exposure Economics for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-from-solo-streamer-to-global-content-powerhouse-for-2024/"><u>[New] From Solo Streamer to Global Content Powerhouse for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-harmonizing-youtube-content-with-audio-files-for-2024/"><u>[New] Harmonizing YouTube Content with Audio Files for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-harnessing-the-power-of-audio-on-your-device-apples-podcast-download-guide/"><u>[New] Harnessing the Power of Audio on Your Device  Apple's Podcast Download Guide</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-how-to-remove-background-noise-from-your-youtube-video-for-2024/"><u>[New] How To Remove Background Noise From Your Youtube Video for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-clicks-to-cash-the-journey-of-youtubes-ajay-nagar/"><u>[New] In 2024, From Clicks to Cash  The Journey of YouTube's Ajay Nagar</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-gain-profit-power-the-secret-of-successful-youtube-marketing-and-500plus/"><u>[New] In 2024, Gain Profit Power  The Secret of Successful Youtube Marketing & 500+</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-gourmet-giants-culinary-stars-you-must-subscribe-to/"><u>[New] In 2024, Gourmet Giants  Culinary Stars You Must Subscribe To</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-insta-marketing-dynamo-crafting-winning-strategies-with-videos-on-social-media-for-2024/"><u>[New] Insta-Marketing Dynamo  Crafting Winning Strategies with Videos on Social Media for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-fixing-the-problem-hidden-thumbnails-in-youtube-shorts/"><u>[Updated] 2024 Approved  Fixing the Problem  Hidden Thumbnails in YouTube Shorts</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-conference-room-to-youtube-google-meet-broadcasting/"><u>[Updated] 2024 Approved  From Conference Room to Youtube  Google Meet Broadcasting</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-2024-approved-steps-to-produce-empowerment-driven-livestreams/"><u>[Updated] 2024 Approved  Steps to Produce Empowerment-Driven Livestreams</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-cross-platform-zoom-meeting-setup-guide/"><u>[Updated] In 2024, Cross-Platform Zoom Meeting Setup Guide</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-unlock-the-power-of-partnerships-youtube-ads-with-a-famebit-edge/"><u>[Updated] In 2024, Unlock the Power of Partnerships  YouTube Ads with a FameBit Edge</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-transform-your-footage-a-complete-youtube-studio-editing-course/"><u>[Updated] Transform Your Footage  A Complete YouTube Studio Editing Course</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/failed-to-play-hevc-files-on-samsung-galaxy-s23-tactical-edition-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>Failed to play HEVC files on Samsung Galaxy S23 Tactical Edition</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/y-heavy-hitters-top-ten-youtube-video-rankings-in-a-day/"><u>Hourly Heavy Hitters  Top Ten YouTube Video Rankings in a Day</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-can-i-get-more-stardust-in-pokemon-go-on-tecno-pova-5-drfone-by-drfone-virtual-android/"><u>How can I get more stardust in pokemon go On Tecno Pova 5? | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-additional-tips-about-sinnoh-stone-for-itel-s23plus-drfone-by-drfone-virtual-android/"><u>In 2024, Additional Tips About Sinnoh Stone For Itel S23+ | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-stream-anything-from-realme-narzo-60-pro-5g-to-apple-tv-drfone-by-drfone-android/"><u>In 2024, How To Stream Anything From Realme Narzo 60 Pro 5G to Apple TV | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/in-2024-the-messenger-maestros-guide-to-capturing-social-media-videos/"><u>In 2024, The Messenger Maestro's Guide to Capturing Social Media Videos</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-why-your-whatsapp-live-location-is-not-updating-and-how-to-fix-on-your-oppo-reno-11-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Why Your WhatsApp Live Location is Not Updating and How to Fix on your Oppo Reno 11 5G | Dr.fone</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/the-hurdles-faced-while-studying-german/"><u>The Hurdles Faced While Studying German</u></a></li>
+</ul></div>

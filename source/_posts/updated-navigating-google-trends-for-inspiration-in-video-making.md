@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Navigating Google Trends for Inspiration in Video Making"
-date: 2024-06-06T16:08:20.495Z
-updated: 2024-06-07T16:08:20.495Z
+date: 2024-07-16T05:37:02.092Z
+updated: 2024-07-17T05:37:02.092Z
 tags:
   - ai video
   - ai youtube
@@ -18,6 +18,9 @@ thumbnail: https://thmb.techidaily.com/637640ea893a93e111b973883d0f05d3166b54a33
 
 # How to Use Google Trends to Come up with Video Ideas \[Easy Guide\]
 
+<!-- affiliate ads begin -->
+<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 ##### Richard Bennett
@@ -36,6 +39,9 @@ Google Trends is a completely free tool you can use to determine what’s trendi
 
 ## Part 1: Seeing The Big Picture
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Google Trends YouTube Ideas](https://images.wondershare.com/filmora/article-images/how-to-use-google-trends-to-come-up-with-video-seeing-big-picture.jpg)
 
 _You’ll need to be signed into your Google account to use Google Trends._
@@ -84,20 +90,32 @@ A [keyword is a word or short phrase](https://www.filmora.io/community-blog/the-
 
 Once you have a keyword in mind, type it into the Explore bar at the top of your page in Google Trends.
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Google Trends Keywords YouTube Video](https://images.wondershare.com/filmora/article-images/explore-topic-in-google-trends.jpg)
 
 What happens after you click **enter** is pretty much magic. Say I want to make a video on how to use Filmora. The first thing I’ll type into that Explore bar is ‘Filmora’.
 
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Google Trends YouTube Video Keywords](https://images.wondershare.com/filmora/article-images/google-trends-search-term.jpg)
 
 You can see near the top that this chart represents searches for the topic over the last 5 years, which isn’t necessarily useful (although it is sort of cool that you can see when Filmora was ‘born’). I’m going to narrow that down to results from the U.S in the last week.
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Google Trends YouTube Video Ideas Filmora](https://images.wondershare.com/filmora/article-images/google-trends-search-term-time-range.jpg)
 
 There, now I can see how the popularity of Filmora as a search term has spiked on specific days and times (if you hover over a spike it tells you the time and day) and plan to post my video at a time that capitalizes on these trends.
 
 Next, what other words do I want to include in my video title? Is this a review, a tutorial, or a how-to? By clicking on my search term Filmora, I can edit it to read ‘filmora review’. Then I can click **\+ Compare** and type in ‘filmora tutorial’ and ‘how to use Filmora’. Google Trends will create a chart comparing the popularity of those 3 terms.
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Google Trends Filmora Keywords](https://images.wondershare.com/filmora/article-images/google-trends-search-term-comparison.jpg)
 
 _I also ‘zoomed out’ to 90 days – if I’d only looked at how they compared over the last week my results could have been skewed._
@@ -118,7 +136,7 @@ One of the biggest benefits of identifying trends and making videos about them q
 
 Want to make coming up with YouTube video ideas a habit? [This post here](https://www.filmora.io/community-blog/how-to-come-up-with-better-youtube-video-ideas-391.html) will help you develop a process to generate more ideas and properly evaluate them.
 
-## Making Better YouTube Videos with [Filmora](https://tools.techidaily.com/wondershare/filmora/download/)
+## Making Better YouTube Videos with Filmora
 
 As one of the most widely used video editing software among YouTubers, Filmora provides plentiful editing tools, such as cut, trim, [video stabilization](https://tools.techidaily.com/wondershare/filmora/download/), [noise removal](https://tools.techidaily.com/wondershare/filmora/download/), [chroma key compositing](https://tools.techidaily.com/wondershare/filmora/download/), and color grading. Besides, there are royalty-free music track and sound effects available in the built-in Audio library, and title templates and presets, as well as elements and effects. Download the free trial version below and get started now.
 
@@ -140,3 +158,49 @@ Follow @Richard Bennett
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-unlocking-igtv-potential-strategies-for-successful-content/"><u>[New] 2024 Approved  Unlocking IGTV Potential  Strategies for Successful Content</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/-time-travelers-guide-to-youtube-queue-watch-from-end-to-start/"><u>[New] A Time Traveler’s Guide to YouTube Queue  Watch From End to Start</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-gamers-blueprint-for-money-making-for-2024/"><u>[New] Gamer’s Blueprint for Money-Making for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-gastronomy-gurus-essential-chefs-to-subscribe-to-for-2024/"><u>[New] Gastronomy Gurus  Essential Chefs to Subscribe To for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-go-professional-stay-budgeted-top-4-tutorials-on-creating-green-screen-magic-for-cost-free-learning-for-2024/"><u>[New] Go Professional, Stay Budgeted  Top 4 Tutorials on Creating Green Screen Magic for Cost-Free Learning for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-guide-for-social-media-savvy-content-sharers-for-2024/"><u>[New] Guide for Social Media Savvy Content Sharers for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-how-to-optimize-video-quality-on-youtube-with-size-settings-for-2024/"><u>[New] How to Optimize Video Quality on YouTube with Size Settings for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-fostering-engagement-creating-budget-friendly-youtube-intros/"><u>[New] In 2024, Fostering Engagement  Creating Budget-Friendly YouTube Intros</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-free-and-legal-youtube-downloader-tools-recommendations/"><u>[New] In 2024, Free & Legal YouTube Downloader Tools - Recommendations</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-free-thumbnail-downloader-solutions-online/"><u>[New] In 2024, Free Thumbnail Downloader Solutions Online</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-bare-walls-to-full-screens-10-fixes-for-no-video-views/"><u>[New] In 2024, From Bare Walls to Full Screens  10 Fixes for No Video Views</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-vimeo-shorts-to-professional-mp4-a-comprehensive-tutorial/"><u>[New] In 2024, From Vimeo Shorts to Professional MP4  A Comprehensive Tutorial</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-zero-to-hero-boosting-youtube-view-count-quickly/"><u>[New] In 2024, From Zero to Hero  Boosting YouTube View Count Quickly</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-getting-the-most-out-of-your-youtube-videos-thumbnails-extraction/"><u>[New] In 2024, Getting the Most Out of Your Youtube Videos  Thumbnails Extraction</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-add-captions-to-youtube-videos/"><u>[New] In 2024, How To Add Captions to YouTube Videos</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/o-1-ranked-youtube-to-text-online-service/"><u>[New] No. 1 Ranked  YouTube To Text Online Service</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-regulatory-guidelines-youtube-video-recording/"><u>[New] Regulatory Guidelines  YouTube Video Recording</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-the-8-best-no-cost-editing-software-for-social-media/"><u>[New] The 8 Best No-Cost Editing Software for Social Media</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-the-ultimate-companion-for-recording-google-video-calls/"><u>[New] The Ultimate Companion for Recording Google Video Calls</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-finding-the-right-mic-a-guide-for-multifaceted-yt-channels/"><u>[Updated] 2024 Approved  Finding the Right Mic  A Guide for Multifaceted YT Channels</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-fine-tuning-focus-on-youtube-threads/"><u>[Updated] 2024 Approved  Fine-Tuning Focus on YouTube Threads</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-foremost-youtube-networks-for-news-enthusiasts/"><u>[Updated] 2024 Approved  Foremost YouTube Networks for News Enthusiasts</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-fullframe-alliance-how-to-choose-your-mcn-strategically/"><u>[Updated] 2024 Approved  FullFrame Alliance  How to Choose Your MCN Strategically</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-growth-hackers-guide-the-ultimate-list-of-top-strategies-to-retain-youtube-viewers/"><u>[Updated] 2024 Approved  Growth Hackers Guide  The Ultimate List of Top Strategies to Retain YouTube Viewers</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-harness-youtube-opportunities-via-strategic-creator-studio-application/"><u>[Updated] 2024 Approved  Harness YouTube Opportunities via Strategic Creator Studio Application</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-edit-youtube-videos-in-final-cut-pro/"><u>[Updated] 2024 Approved  How to Edit YouTube Videos in Final Cut Pro</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-promote-your-youtube-channel-with-high-impact-showcase-techniques/"><u>[Updated] 2024 Approved  How to Promote Your YouTube Channel with High-Impact Showcase Techniques</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-youtube-seo-guide-for-beginners-who-want-more-views/"><u>[Updated] 2024 Approved  YouTube SEO Guide for Beginners Who Want More Views</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-free-tips-embedding-moving-images-in-written-content-for-2024/"><u>[Updated] Free Tips  Embedding Moving Images in Written Content for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-from-raw-feedback-a-critical-review-of-top-video-editors-for-youtube-for-2024/"><u>[Updated] From Raw Feedback  A Critical Review of Top Video Editors for YouTube for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-guide-to-equipment-selection-for-youtube-creators-for-2024/"><u>[Updated] Guide to Equipment Selection for YouTube Creators for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-make-the-most-of-youtube-tv-offerings-for-2024/"><u>[Updated] How to Make the Most of YouTube TV Offerings for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-dynamic-viewership-statistics-platforms/"><u>[Updated] In 2024, Dynamic Viewership Statistics Platforms</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-freeing-up-youtube-views-no-more-grey-lines/"><u>[Updated] In 2024, Freeing Up YouTube Views  No More Grey Lines</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-in-2024-the-ultimate-collection-of-tiktok-emojis-find-your-favorite-7-plus-hidden-gems/"><u>[Updated] In 2024, The Ultimate Collection of TikTok Emojis – Find Your Favorite 7 + Hidden Gems</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-enabling-effortless-playback-of-fb-videos/"><u>2024 Approved  Enabling Effortless Playback of FB Videos</u></a></li>
+<li><a href="https://driver-install.techidaily.com/compatible-printer-jet-pro-8710-software-windows-edition/"><u>Compatible Printer: Jet Pro 8710 Software, Windows Edition</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/country-grooves-and-dances-for-the-relaxed-soul-tiktok-edition/"><u>Country Grooves & Dances for the Relaxed Soul (TikTok Edition)</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/freeze-frame-perfection-the-best-9-apps-to-record-and-save-animation-on-pc/"><u>Freeze Frame Perfection  The Best 9 Apps to Record and Save Animation on PC</u></a></li>
+<li><a href="https://animation-videos.techidaily.com/ideas-of-learning-how-to-send-whatsapp-animated-gifs/"><u>Ideas of Learning How to Send WhatsApp Animated Gifs</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-capture-the-crash-top-surf-cameras-of-2023/"><u>In 2024, Capture the Crash  Top Surf Cameras of 2023</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-ultimate-guide-on-realme-11x-5g-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide on Realme 11X 5G FRP Bypass</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/leading-webcam-models-enhancing-twitchs-viewer-experience-for-2024/"><u>Leading Webcam Models Enhancing Twitch's Viewer Experience for 2024</u></a></li>
+</ul></div>

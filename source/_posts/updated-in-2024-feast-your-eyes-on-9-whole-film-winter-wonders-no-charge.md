@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] In 2024, Feast Your Eyes on 9 Whole-Film Winter Wonders  No Charge\""
-date: 2024-06-06T15:38:54.524Z
-updated: 2024-06-07T15:38:54.524Z
+date: 2024-07-16T04:52:34.075Z
+updated: 2024-07-17T04:52:34.075Z
 tags:
   - ai video
   - ai youtube
@@ -18,6 +18,9 @@ thumbnail: https://www.lifewire.com/thmb/m0kpslEgrnZU3NyfOpkK0bna68A=/400x300/fi
 
 # Watch 9 Free Full Length Christmas Movies On Youtube
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
 ##### Shanoon Cox
@@ -30,6 +33,9 @@ If you are looking for Christmas entertainment this season you may be quick to l
 
 The Nutcracker is a holiday classic that many people seek out every year on the stage. This family ballet classic was filmed by the Pacific Northwest ballet in a huge and lavish version of the production in 1986\. This still stands as one of the best versions of the Nutcracker ever captured on film and you can watch it for free on YouTube. You can find the Nutcracker at :
 
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 2. A smoky mountain Christmas
 
 A Smoky Mountain Christmas is a film from 1986 directed by Harry Winkler and starring Lee Majors and Dolly Parton. The full musical fairy tale can be found online on YouTube and it's about a country singer who is trying to spend a quiet Christmas holiday at home. She suddenly becomes involved with a mysterious mountain man, an evil witch and is forced to protect seven orphans over the holidays. This film can be found at:
@@ -38,6 +44,9 @@ A Smoky Mountain Christmas is a film from 1986 directed by Harry Winkler and sta
 
 This film from 1989 features Jim Varney and his most famous character Ernest in a holiday Christmas movie that is an instant classic. This film is very funny and a favorite amongst some of the Ernest films for many. This Christmas movie from 1989 can be found at:
 
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 4. A Christmas story
 
 A Christmas story has long been one of the favorite Christmas movies for many families. In this film from 1983 we travel back in time to a traditional 1940s Christmas. In this film we follow the nine-year-old Ralphie who is looking for the famous red Ryder BB gun for Christmas and will stop at absolutely nothing to get it. A Christmas story can be found at:
@@ -46,6 +55,9 @@ A Christmas story has long been one of the favorite Christmas movies for many fa
 
 In this film from 1998 we hear the story of the richest kid in the world on Christmas. In this film we see the richest in the world wishing that he had never been born with the wish coming true. Richie needs to find himself a new wishing machine and a way out of the parallel universe he gets stuck in to get back to his family. You can find this film at:
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 6. On the second day of Christmas
 
 This film stars the hulk Mark Ruffalo in one of his earlier roles as a store employee who catches a con woman trying to steal from a department store on Christmas. His character agrees to be responsible for the con woman and her niece over the holidays to prevent them from staying with social services. A romance develops! This 1997 film can be found at:
@@ -58,6 +70,9 @@ Santa who is a film from the year 2000 starring Leslie Nielsen. In this holiday 
 
 In this film from 1984 George C Scott brings to life the role of Ebenezer Scrooge from the perspective of the Charles Dickens novel. This is heavily been regarded as one of the most accurate versions to the Charles Dickens story. Although it may not have all of the special effects of some of the other versions of a Christmas carol this is still one of the favored versions of the story out there. You can watch this 1984 film here:
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 9. Miracle on 34th street
 
 In this recreation of the original film from 1947 this shortened full-length version from 1955 per trade is the classic story of santa on trial. A department store Santa suggests that he's the real santa and goes on trial to prove it. In this version of miracle on 34th Street starring Thomas Mitchell and Macdonald Carey we learn who really believes in Santa Claus. You can find this classic film here:
@@ -95,6 +110,9 @@ If you’re a musician who wants the world to hear your music, getting your musi
 
 [Filmora](https://tools.techidaily.com/wondershare/filmora/download/) features plentiful video and audio editing tools, which allows you to cut out unwanted clips, [remove the background noise](https://tools.techidaily.com/wondershare/filmora/download/), change the video and audio speed. The tutorial below shows you [how to create a split-screen video with fun](https://tools.techidaily.com/wondershare/filmora/download/) with the split-screen presets in Filmora.
 
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 [![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
 #### 1. Live Performance
@@ -174,3 +192,51 @@ Follow @Richard Bennett
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-harness-youtubes-creative-commons-in-video-making/"><u>[New] 2024 Approved  How to Harness YouTube's Creative Commons in Video Making</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-dividing-recordings-top-cam-scrutiny-review-for-2024/"><u>[New] Dividing Recordings  Top Cam Scrutiny Review for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-going-against-gravity-innovative-ways-to-rewind-youtube-content-for-2024/"><u>[New] Going Against Gravity  Innovative Ways to Rewind YouTube Content for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-guide-to-swiftly-eliminate-unwanted-youtube-comments-for-2024/"><u>[New] Guide to Swiftly Eliminate Unwanted YouTube Comments for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-highest-rated-smartphone-camera-and-recording-apps-iphone-vs-android-for-2024/"><u>[New] Highest Rated Smartphone Camera & Recording Apps  IPhone vs Android for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-holistic-harmony-the-best-online-yoga-channels-for-2024/"><u>[New] Holistic Harmony - The Best Online Yoga Channels for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-how-to-animate-and-make-your-own-effects-for-2024/"><u>[New] How to Animate and Make Your Own Effects for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-how-to-convert-youtube-videos-to-gifs-for-2024/"><u>[New] How to Convert YouTube Videos to GIFs for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-financial-forecasts-in-focus-select-stock-youtube-channels/"><u>[New] In 2024, Financial Forecasts in Focus  Select Stock YouTube Channels</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-free-explore-youtubes-9-premium-full-length-christmas-flicks/"><u>[New] In 2024, Free  Explore YouTube's 9 Premium Full-Length Christmas Flicks</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-harmonic-hub-curating-exceptional-dj-visual-downloads/"><u>[New] In 2024, Harmonic Hub  Curating Exceptional DJ Visual Downloads</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-highly-compensated-online-visionary-creator/"><u>[New] In 2024, Highly Compensated Online Visionary Creator</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-choose-the-best-free-introduction-maker/"><u>[New] In 2024, How to Choose the Best Free Introduction Maker</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-custom-your-youtube-channel-url-super-easy/"><u>[New] In 2024, How to Custom Your YouTube Channel URL – Super Easy</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-download-youtube-thumbnail-in-3-ways-onlinewinmac/"><u>[New] In 2024, How to Download YouTube Thumbnail in 3 Ways [Online/Win/Mac]</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-rewind-and-play-an-in-depth-look-at-snapchats-reversal-feature/"><u>[New] In 2024, Rewind & Play  An In-Depth Look at Snapchat's Reversal Feature</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-10-free-youtube-thumbnail-downloaderssavers-online-for-2024/"><u>[Updated] 10 Free YouTube Thumbnail Downloaders/Savers Online for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-breakthrough-practices-in-youtube-video-saving/"><u>[Updated] 2024 Approved  Breakthrough Practices in YouTube Video Saving</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-free-and-secure-3-ways-to-extract-youtube-music-content/"><u>[Updated] 2024 Approved  Free and Secure  3 Ways to Extract YouTube Music Content</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-video-views-to-vault-closure-income-insights-for-youtubers/"><u>[Updated] 2024 Approved  From Video Views to Vault Closure  Income Insights for Youtubers</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-vimeo-shorts-to-professional-mp4-a-comprehensive-tutorial/"><u>[Updated] 2024 Approved  From Vimeo Shorts to Professional MP4  A Comprehensive Tutorial</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-harness-the-power-of-youtube-video-for-stunning-gif-masterpieces/"><u>[Updated] 2024 Approved  Harness the Power of YouTube Video for Stunning GIF Masterpieces</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-much-wealth-awaits-one-million-youtube-followers/"><u>[Updated] 2024 Approved  How Much Wealth Awaits One Million YouTube Followers?</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-facebooks-pathway-to-viral-stardom-explained/"><u>[Updated] Facebook's Pathway to Viral Stardom Explained</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-fine-tune-youtube-video-pacing-desktopmobile-for-2024/"><u>[Updated] Fine-Tune YouTube Video Pacing - Desktop/Mobile for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-free-endings-that-wow-ranked-for-you-top-6-for-2024/"><u>[Updated] Free Endings That Wow - Ranked for You (Top 6) for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-fuel-the-spark-essential-themes-for-youtube-success-for-2024/"><u>[Updated] Fuel the Spark  Essential Themes for YouTube Success for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-guffaws-in-grooves-parody-playlist-for-2024/"><u>[Updated] Guffaws in Grooves  Parody Playlist for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-block-youtube-channels-on-computer-and-mobile-phones-for-2024/"><u>[Updated] How to Block YouTube Channels on Computer and Mobile Phones for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-disableremove-youtube-shorts-permanently-for-2024/"><u>[Updated] How to Disable/Remove YouTube Shorts Permanently for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-elevate-youtube-broadcasts-select-the-right-webcam-for-2024/"><u>[Updated] How to Elevate YouTube Broadcasts  Select the Right Webcam for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-in-2024-transform-sluggish-to-speedy-on-android-vids/"><u>[Updated] In 2024, Transform Sluggish to Speedy on Android Vids</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-flawless-blend-incorporating-linktree-into-your-tiktok-about-section/"><u>2024 Approved  Flawless Blend  Incorporating Linktree Into Your TikTok About Section</u></a></li>
+<li><a href="https://howto.techidaily.com/android-screen-stuck-general-infinix-zero-5g-2023-turbo-partly-screen-unresponsive-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Screen Stuck General Infinix Zero 5G 2023 Turbo Partly Screen Unresponsive | Dr.fone</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/crafting-viral-tiktok-videos-on-desktop-platforms/"><u>Crafting Viral TikTok Videos on Desktop Platforms</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-xiaomi-mix-fold-3-pictures-an-easy-method-explained-by-fonelab-android-recover-pictures/"><u>How to Restore Deleted Xiaomi Mix Fold 3 Pictures  An Easy Method Explained.</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-13-pro-online-here-are-6-easy-ways-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone 13 Pro Online? Here are 6 Easy Ways</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/in-2024-increase-engagement-on-igtv-with-top-notch-titles-and-summaries/"><u>In 2024, Increase Engagement on IGTV with Top-Notch Titles and Summaries</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-2024-approved-insights-from-the-best-ogg-conversion-tools/"><u>New 2024 Approved Insights From the Best OGG Conversion Tools</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-best-20-slideshow-makers-for-winmaconline-review/"><u>New Best 20 Slideshow Makers for Win/Mac/Online Review</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/-form-media-exploration/"><u>Short Form Media Exploration</u></a></li>
+<li><a href="https://driver-install.techidaily.com/swift-acer-driver-enhancements-for-windows-11-users/"><u>Swift Acer Driver Enhancements for Windows 11 Users</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/the-ultimate-exploration-of-discord-stickers-for-2024/"><u>The Ultimate Exploration of Discord Stickers for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-sometimes-it-may-happen-to-you-that-you-are-watching-a-video-that-has-very-low-graphics-or-in-other-words-low-visual-quality-you-might-wish-to-chang/"><u>Updated Sometimes It May Happen to You that You Are Watching a Video that Has Very Low Graphics or, in Other Words, Low Visual Quality. You Might Wish to Change, Instead Improve the Video Quality. Here, AI Upscaling Video Comes to Use</u></a></li>
+</ul></div>

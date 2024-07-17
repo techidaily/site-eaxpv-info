@@ -1,7 +1,7 @@
 ---
 title: "[Updated] How to View YouTube Statistics for 2024"
-date: 2024-06-06T14:33:59.735Z
-updated: 2024-06-07T14:33:59.735Z
+date: 2024-07-16T03:15:16.412Z
+updated: 2024-07-17T03:15:16.412Z
 tags:
   - ai video
   - ai youtube
@@ -18,6 +18,9 @@ thumbnail: https://www.lifewire.com/thmb/xVVsATwTGG9Ab2CnG4SScje4_Qo=/210x138/fi
 
 # How to View YouTube Statistics
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 ##### Richard Bennett
@@ -35,6 +38,9 @@ The information available for each video includes how many new subscribers it at
 * **[Interpreting YouTube Interaction Reports](#interaction)**
 * **[How to View Other People's YouTube Statistics](#otherpeople)**
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
+<!-- affiliate ads end -->
 ### Making Better YouTube Videos with Filmora to Get More Views
 
 As one of the best video editing software for YouTube, [Filmora](https://tools.techidaily.com/wondershare/filmora/download/) provides lots of templates and effects with an intuitive interface, which saves much time. After editing, you can upload the video to YouTube directly when export. Download the free trial version below and start making YouTube videos with Filmora.
@@ -63,7 +69,7 @@ Alongside watch time you can see the average duration individual viewers are wat
 
 In the watch time reports for individual videos, you will be able to see data on where your views are coming from and which demographics are watching the most. Where your viewers are watching, in terms of desktop or mobile, is also interesting data that is available in this section.
 
-Click here for more tips on[increasing your views](https://www.filmora.io/community-blog/12-proven-ways-to-increase-youtube-views-315.html).
+Click here for more tips on [increasing your views](https://www.filmora.io/community-blog/12-proven-ways-to-increase-youtube-views-315.html).
 
 ### 2. Interpreting YouTube Interaction Reports
 
@@ -89,6 +95,9 @@ Interaction reports can be broken down into several different reports that can h
 
 **7\. 360 heat map reports:** A heat map report works specifically with 360° videos if you are choosing to engage your audience with this type of content. Viewing YouTube video statistics for 360° heat maps will help to show the areas on your video that viewers are most interested in.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to View Other Peoples YouTube Statistics
 
 If you want to check out the statistics of rival YouTube channels ([including the most subscribed channels on YouTube](https://www.filmora.io/community-blog/youtube-subscriber-chart---the-5-most-subscribed-youtube-channels-320.html)), or channels you’re a fan of, try using [Social Blade](http://www.socialblade.com). Social Blade is one of the most trusted sources of YouTube data, and it may actually be easier to check your own basic stats there than in the Creator Studio sometimes due to their simple layout. To get started all you need to do is type the name of any YouTube channel into the search bar. You’ll be able to see reports on daily views, channel growth, and even estimated ad revenue ([learn more about how to view a channel's ad revenue here](https://www.filmora.io/community-blog/youtube-view-calculators---calculate-youtube-money%21-322.html)).
@@ -110,10 +119,16 @@ Follow @Richard Bennett
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Make Music Accessible with a Well-Designed YouTube Playlist
 
 # How to Make a Playlist on YouTube
 
+<!-- affiliate ads begin -->
+<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
 
 ##### Liza Brown
@@ -142,10 +157,16 @@ If you are running a Youtube channel and upload videos very often, then it is im
 
 1. In this window, click on "New Playlist" located below your channel's icon.
 
+<!-- affiliate ads begin -->
+<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![how-to-make-a-playlist-on-youtube-for-uploaded-video-step4](https://images.wondershare.com/how-to-make-a-playlist-on-youtube-for-uploaded-video-step4.jpg)
 
 1. Now it will ask you to enter "Playlist Title" and its "Visibility." Name it accordingly and under Visibility, select an appropriate option according to your requirement and hit "Create." Now your playlist is successfully created.
 
+<!-- affiliate ads begin -->
+<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![how-to-make-a-playlist-on-youtube-for-uploaded-video-step5](https://images.wondershare.com/how-to-make-a-playlist-on-youtube-for-uploaded-video-step5.jpg)
 
 1. Whenever you upload a new video on this channel, you can select the playlist you have created. While uploading the video, you can find a section named "Playlists" under the details tab.
@@ -154,10 +175,16 @@ If you are running a Youtube channel and upload videos very often, then it is im
 
 1. Click on the drop-down menu to open select a playlist from the playlists that you have created. Select one and hit "Done."
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![how-to-make-a-playlist-on-youtube-for-uploaded-video-step7](https://images.wondershare.com/how-to-make-a-playlist-on-youtube-for-uploaded-video-step7.jpg)
 
 After uploading the video, it will be added to the playlist that you have selected. You can create as many playlists as you want. There is no restriction on that.
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to make a playlist on Youtube of others' videos
 
 Sometimes you like a video so much that you want to save it for future use or add it to your favorites. In such cases, creating a Youtube playlist is the best option. It will help you arrange the videos according to their type. To make a playlist on Youtube of others' videos, follow the below steps.
@@ -178,6 +205,9 @@ Sometimes you like a video so much that you want to save it for future use or ad
 
 ![how-to-make-a-playlist-on-youtube-of-others-video-step4](https://images.wondershare.com/how-to-make-a-playlist-on-youtube-of-others-video-step4.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Conclusion
 
 Both of these processes of how to make a playlist on Youtube will help you whether you are a content creator or a simple Youtube user. With such a huge video database, it is difficult for users to keep their favorite videos to access them whenever they need them. Making a Youtube playlist can be very beneficial in such cases.
@@ -201,3 +231,49 @@ Follow @Liza Brown
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-3-step-formula-how-to-check-youtube-income/"><u>[New] 2024 Approved  [3-Step Formula] How To Check YouTube Income</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-from-concept-to-screen-channel-yt-for-pioneering-filmmaking-techniques-for-2024/"><u>[New] From Concept to Screen  Channel YT for Pioneering Filmmaking Techniques for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-from-novice-to-narrative-youtube-seo-strategies-for-2024/"><u>[New] From Novice to Narrative  YouTube SEO Strategies for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-from-shorts-to-mp4-a-comprehensive-video-processor-guide-for-2024/"><u>[New] From Shorts to Mp4  A Comprehensive Video Processor Guide for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-guaranteed-safe-approaches-for-turning-youtube-songs-into-mp3-files-for-2024/"><u>[New] Guaranteed Safe Approaches for Turning YouTube Songs Into MP3 Files for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-harmonize-your-listens-the-complete-path-to-youtube-playlist-making-webmobile-for-2024/"><u>[New] Harmonize Your Listens  The Complete Path to YouTube Playlist Making (Web/Mobile) for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-hit-the-play-button-youtubes-best-band-channels-for-2024/"><u>[New] Hit the Play Button! YouTube's Best Band Channels for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-how-to-make-a-striking-yt-preview-with-optimal-thumbnail-sizing-for-2024/"><u>[New] How to Make a Striking YT Preview with Optimal Thumbnail Sizing for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-breaking-down-recordcasts-marketing-claims/"><u>[New] In 2024, Breaking Down RecordCast’s Marketing Claims</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-flavorful-follows-top-food-vloggers-to-track/"><u>[New] In 2024, Flavorful Follows  Top Food Vloggers to Track</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-free-viewing-extravaganza-the-coolest-film-picks-streamed-online/"><u>[New] In 2024, Free Viewing Extravaganza  The Coolest Film Picks Streamed Online</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-fumbling-clips-to-viral-videos-youtube-edits-made-easy-with-sony-vegas/"><u>[New] In 2024, From Fumbling Clips to Viral Videos  YouTube Edits Made Easy with Sony Vegas</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-turn-on-or-off-comments-on-youtube/"><u>[New] In 2024, How to Turn on or Off Comments on YouTube</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-step-by-step-guide-to-find-youtube-hidden-videos/"><u>[New] In 2024, Step-By-Step Guide to Find YouTube Hidden Videos</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-vidma-screen-recorder-review-and-alternatives/"><u>[New] In 2024, Vidma Screen Recorder | Review and Alternatives</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-free-thumbnail-extract-from-youtube-videos-today/"><u>[Updated] 2024 Approved  Free Thumbnail Extract From YouTube Videos Today</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-idea-to-execution-an-essential-guide-to-youtube-shorts-template-design/"><u>[Updated] 2024 Approved  From Idea to Execution  An Essential Guide to YouTube Shorts Template Design</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-guide-to-choosing-ideal-youtube-thumbnail-shapes/"><u>[Updated] 2024 Approved  Guide to Choosing Ideal Youtube Thumbnail Shapes</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-high-ranking-videos-youtubes-everlasting-classics/"><u>[Updated] 2024 Approved  High-Ranking Videos  YouTube’s Everlasting Classics</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-block-youtube-channels-on-computer-and-mobile-phones/"><u>[Updated] 2024 Approved  How to Block YouTube Channels on Computer and Mobile Phones</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-make-killer-youtube-channel-art/"><u>[Updated] 2024 Approved  How to Make Killer YouTube Channel Art</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-turn-on-or-off-comments-on-youtube/"><u>[Updated] 2024 Approved  How to Turn on or Off Comments on YouTube</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-30-best-freefire-tagshashtags-for-youtube-for-2024/"><u>[Updated] 30 Best FreeFire Tags/Hashtags For YouTube for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-fitness-through-yoga-youtube-channel-hits-list-for-2024/"><u>[Updated] Fitness Through Yoga  YouTube Channel Hits List for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-from-newbie-to-pro-your-complete-guide-to-creator-studio-for-2024/"><u>[Updated] From Newbie to Pro  Your Complete Guide to Creator Studio for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-elevate-youtube-rankings-with-optimized-metadata-for-2024/"><u>[Updated] How to Elevate YouTube Rankings with Optimized Metadata for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-locate-your-youtube-fanbase-for-2024/"><u>[Updated] How to Locate Your YouTube Fanbase for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-first-steps-in-the-digital-dollar-youtube-earning-hacks/"><u>[Updated] In 2024, First Steps in the Digital Dollar - YouTube Earning Hacks</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-basics-to-blockbusters-building-an-audience-on-gaming-channels/"><u>[Updated] In 2024, From Basics to Blockbusters  Building an Audience on Gaming Channels</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-scripts-to-screen-making-youtube-splits/"><u>[Updated] In 2024, From Scripts to Screen  Making YouTube Splits</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-speech-to-text-a-complete-free-workshop-on-youtube-transcription/"><u>[Updated] In 2024, From Speech to Text  A Complete, FREE Workshop on YouTube Transcription</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-high-definition-ready-enabling-av1-on-youtube/"><u>[Updated] In 2024, High Definition Ready  Enabling AV1 on YouTube</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-strategically-use-tags-for-youtube-success/"><u>[Updated] In 2024, How to Strategically Use Tags for YouTube Success</u></a></li>
+<li><a href="https://games-able.techidaily.com/access-windows-11-photo-library-for-past-games/"><u>Access Windows 11 Photo Library for Past Games</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-erase-an-iphone-xr-without-apple-id-by-drfone-ios/"><u>How to Erase an iPhone XR without Apple ID?</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-premium-online-streams-convert-youtube-to-mp3-instantly/"><u>In 2024, Premium Online Streams  Convert YouTube to MP3 Instantly</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/in-2024-tiktoks-take-jujutsu-kaisen-challenges-and-laughs/"><u>In 2024, TikTok's Take  Jujutsu Kaisen Challenges and Laughs</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/mastering-android-device-manager-the-ultimate-guide-to-unlocking-your-motorola-g24-power-device-by-drfone-android/"><u>Mastering Android Device Manager The Ultimate Guide to Unlocking Your Motorola G24 Power Device</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-2024-approved-the-zephyrs-silence-pioneering-techniques-for-nullifying-wind-related-audio-anomalies/"><u>New 2024 Approved The Zephyrs Silence Pioneering Techniques for Nullifying Wind-Related Audio Anomalies</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/steps-to-dissociate-audio-elements-in-video-projects-with-adobe-premiere-pro/"><u>Steps to Dissociate Audio Elements in Video Projects with Adobe Premiere Pro</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/streamline-your-slide-show-enable-voice-input-with-powerpoint/"><u>Streamline Your Slide Show  Enable Voice Input with PowerPoint</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/top-strategies-for-high-quality-adobe-recordings/"><u>Top Strategies for High-Quality Adobe Recordings</u></a></li>
+</ul></div>

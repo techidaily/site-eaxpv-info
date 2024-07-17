@@ -1,7 +1,7 @@
 ---
 title: "\"[New] From Shots to Screens  The Importance of Camera Lenses in Vlogs for 2024\""
-date: 2024-06-06T15:34:49.561Z
-updated: 2024-06-07T15:34:49.561Z
+date: 2024-07-16T04:46:23.730Z
+updated: 2024-07-17T04:46:23.730Z
 tags:
   - ai video
   - ai youtube
@@ -56,6 +56,9 @@ With standard lenses or normal lenses, you won’t get the stretched out objects
 
 Out of all the other ranges in focal lengths, telephoto lenses will appear the most zoomed in. This can be beneficial for the shooter who wants to get a closer shot of a scene without having to physically be in close proximity to the scene. Objects that are further away in the background also appear larger and closer than they would appear on wide-angle or standard lenses.
 
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### Vlogging With Each Focal Length Group
 
 You can get your talking head footage using lenses from any of the three focal length groups. Depending on how you plan to vlog most of the time, though, one of the three focal lengths might be more suitable for you.
@@ -101,12 +104,21 @@ This table shows you the focal lengths needed to achieve the same shot between c
 | Telephoto                   | 100mm      | 63mm  | 50mm      |
 | Telephoto                   | 200mm      | 125mm | 100mm     |
 
+<!-- affiliate ads begin -->
+<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Aperture
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  ![Camera lenses Aperture](https://images.wondershare.com/filmora/article-images/camera-lenses-aperture.jpg)
 
  The next thing to consider when you’re looking for a lens is the aperture, the hole (often adjustable) within the lens that lets light in. Aperture for camera lenses is measured in f-stops (f/1.4, f/1.8, f/2.0) - the smaller the f-stop number, the larger the aperture (bigger hole letting even more light in).
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  ![Camera lenses Aperture Range](https://images.wondershare.com/filmora/article-images/camera-lenses-aperture-range.png)
 
  Because larger aperture lenses let more light in, they need a shorter time for cameras to compose an image. This is why larger aperture lenses are also called “fast” lenses.
@@ -115,6 +127,9 @@ Fast lenses are more expensive because they cost more to produce. There’s a lo
 
 But do you even need a fast lens?
 
+<!-- affiliate ads begin -->
+<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
+<!-- affiliate ads end -->
 ### Vlogging With a Fast Lens
 
 #### Pros of Vlogging With a Fast Lens
@@ -141,6 +156,9 @@ If, however, you are shooting most of your vlogs on a tripod, you won’t need a
 
  Looking for ways to set up your talking-head shot for YouTube with any of these lenses? Check out our post on [4 Ways To Set Up Your Talking-Head Shots For YouTube](https://tools.techidaily.com/wondershare/filmora/download/).
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 Richard Bennett
@@ -163,3 +181,60 @@ Follow @Richard Bennett
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-becoming-a-confident-content-creator-youtubes-top-tips/"><u>[New] 2024 Approved  Becoming a Confident Content Creator  YouTube's Top Tips</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-budget-conscious-filmmakers-essential-video-gear-list/"><u>[New] 2024 Approved  Budget-Conscious Filmmaker's Essential Video Gear List</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-delving-into-popular-discussion-threads-on-youtube/"><u>[New] 2024 Approved  Delving Into Popular Discussion Threads on YouTube</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-exclusive-roundup-the-best-video-to-mp3-converters/"><u>[New] 2024 Approved  Exclusive Roundup  The Best Video to Mp3 Converters</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-capture-and-relive-your-favorite-moments-anywhere-anytime-the-best-in-free-video-downloaders-for-youtubes-for-2024/"><u>[New] Capture and Relive Your Favorite Moments Anywhere, Anytime  The Best in Free Video Downloaders for YouTubes for 2024</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-cross-platform-sharing-twitter-videos-on-instagram-highlights-for-2024/"><u>[New] Cross-Platform Sharing  Twitter Videos on Instagram Highlights for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-earn-while-you-entertain-the-content-creators-guide-for-2024/"><u>[New] Earn While You Entertain  The Content Creator's Guide for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-easy-effective-strategy-immediate-clearance-of-unwanted-youtube-comments-for-2024/"><u>[New] Easy, Effective Strategy  Immediate Clearance of Unwanted YouTube Comments for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-ace-your-online-presence-youtubes-studio-command-center/"><u>[New] In 2024, Ace Your Online Presence  YouTube's Studio Command Center</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-analyzing-youtubes-process-for-selective-comment-showcasing/"><u>[New] In 2024, Analyzing YouTube's Process for Selective Comment Showcasing</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-brightening-your-story-with-instagram-highlights-3-methods/"><u>[New] In 2024, Brightening Your Story with Instagram Highlights (3 Methods)</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-deception-navigating-false-subscriber-sells/"><u>[New] In 2024, Deception  Navigating False Subscriber Sells</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-noob-to-pro-selecting-webcams-that-make-a-difference-in-youtube-livestreams/"><u>[New] In 2024, From Noob to Pro  Selecting Webcams That Make a Difference in YouTube Livestreams</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-harmonizing-content-and-platform-youtubes-brief-melodies-explained/"><u>[New] In 2024, Harmonizing Content and Platform  YouTube's Brief Melodies Explained</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-insight-into-t-series-profit-from-youtube-platforms/"><u>[New] Insight Into T-Series Profit From YouTube Platforms</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-mastering-the-underestimated-aspects-of-instagram/"><u>[New] Mastering the Underestimated Aspects of Instagram</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-no-money-no-problem-your-guide-to-free-youtube-ads/"><u>[New] No Money, No Problem! Your Guide to Free YouTube Ads</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-top-rated-shot-recording-gear-for-the-hunter/"><u>[New] Top-Rated Shot-Recording Gear for the Hunter</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-unleash-the-full-potential-of-discord-mastering-message-pinning/"><u>[New] Unleash the Full Potential of Discord  Mastering Message Pinning</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-12-unparalleled-youtube-gamers-intros-revealed-free-or-fee-for-2024/"><u>[Updated] 12 Unparalleled YouTube Gamers' Intros Revealed  Free or Fee for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-becoming-a-filmora-fcc-the-pathway-explained/"><u>[Updated] 2024 Approved  Becoming a Filmora FCC  The Pathway Explained</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-delving-into-t-series-revenue-generation-on-video-platforms/"><u>[Updated] 2024 Approved  Delving Into T-Series' Revenue Generation on Video Platforms</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-elevated-engagement-awards-on-video-realms/"><u>[Updated] 2024 Approved  Elevated Engagement Awards on Video Realms</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-slide-swivel-and-shift-a-step-by-step-manual-to-flipping-images-on-instagram-sites/"><u>[Updated] 2024 Approved  Slide, Swivel and Shift  A Step-by-Step Manual to Flipping Images on Instagram Sites</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-unlocking-the-secret-strategies-of-instagram-influencers/"><u>[Updated] 2024 Approved  Unlocking the Secret Strategies of Instagram Influencers</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-best-8-online-photo-montage-maker/"><u>[Updated] Best 8 Online Photo Montage Maker</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-eliminated-invisible-youtube-micro-videos-for-2024/"><u>[Updated] Eliminated  Invisible YouTube Micro Videos for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-expert-advice-at-your-screen-the-finest-15-stock-channels/"><u>[Updated] Expert Advice at Your Screen  The Finest 15 Stock Channels</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-flip-order-3-easy-steps-to-rewind-youtube-listeners-for-2024/"><u>[Updated] Flip Order  3 Easy Steps to Rewind Youtube Listeners for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-free-minecraft-branding-tools-download-for-2024/"><u>[Updated] Free Minecraft Branding Tools Download for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-use-video-titles-and-youtube-tags-for-2024/"><u>[Updated] How to Use Video Titles and YouTube Tags for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-crafting-engaging-youtube-beginnings-two-methods/"><u>[Updated] In 2024, Crafting Engaging YouTube Beginnings  Two Methods</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-easily-add-subtitles-and-closed-captions-to-youtube-video/"><u>[Updated] In 2024, How to Easily Add Subtitles and Closed Captions to YouTube Video</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-iphoneipad-cutting-edge-free-video-editing-tools-guide/"><u>[Updated] IPhone/iPad  Cutting Edge Free Video Editing Tools Guide</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-polishing-your-channels-auditory-appeal-on-youtube/"><u>[Updated] Polishing Your Channel's Auditory Appeal on YouTube</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-artisans-guide-to-aesthetic-photographic-adjustments/"><u>[Updated] The Artisan's Guide to Aesthetic Photographic Adjustments</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-transforming-google-meet-screens-on-devices-for-2024/"><u>[Updated] Transforming Google Meet Screens on Devices for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-in-depth-analysis-of-yuneecs-typhoon-h-drone-technology/"><u>2024 Approved  In-Depth Analysis of Yuneec's Typhoon H Drone Technology</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/2024-approved-youtube-success-elevating-audience-count/"><u>2024 Approved  YouTube Success  Elevating Audience Count</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-zte-axon-40-lite-to-new-android-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from ZTE Axon 40 Lite to New Android? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-upgrade-iphone-14-pro-max-without-losing-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Upgrade iPhone 14 Pro Max without Losing Data? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-7-top-ways-to-resolve-apple-id-not-active-issue-for-iphone-11-pro-max-drfone-by-drfone-ios/"><u>In 2024, 7 Top Ways To Resolve Apple ID Not Active Issue For iPhone 11 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/in-2024-want-to-join-video-content-creators-who-already-produce-stop-motion-videos-on-instagram-in-this-article-we-are-going-to-show-you-how-to-make-a-stop-/"><u>In 2024, Want to Join Video Content Creators Who Already Produce Stop Motion Videos on Instagram? In This Article We Are Going to Show You How to Make a Stop Motion Video on Instagram with and without the Bui</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/in-this-article-i-will-share-to-you-my-tips-and-experiences-on-how-to-become-a-youtube-vlogger-and-things-you-need-to-consider-being-a-vlogger/"><u>In This Article I Will Share to You My Tips and Experiences on How to Become a YouTube Vlogger and Things You Need to Consider Being a Vlogger</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/music-enhanced-whatsapp-expressions-for-2024/"><u>Music-Enhanced WhatsApp Expressions for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/pro-gamers-audio-gold-5-essential-sound-devices-for-2024/"><u>Pro Gamers' Audio Gold  5 Essential Sound Devices for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/snippet-spectacle-top-hashes-to-trigger-the-viral-spree-on-youtube-for-2024/"><u>Snippet Spectacle  Top Hashes to Trigger the Viral Spree on YouTube for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/spark-interest-everyones-free-with-our-youtube-banner-samples-for-2024/"><u>Spark Interest - Everyone's Free With Our YouTube Banner Samples for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/stepwise-quietening-routine-for-mixes-for-2024/"><u>Stepwise Quietening Routine for Mixes for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/top-10-guide-to-simple-business-channel-launches-on-youtube-for-2024/"><u>Top 10 Guide to Simple Business Channel Launches on YouTube for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-color-lut-in-video-color-grade-your-video/"><u>Updated Color Lut in Video - Color Grade Your Video</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/updated-translate-videos-and-subtitles-with-veedio/"><u>Updated Translate Videos and Subtitles with Veed.io</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/youtubes-elite-annual-showcases-post-vidcon-for-2024/"><u>YouTube's Elite Annual Showcases (Post-VidCon) for 2024</u></a></li>
+</ul></div>

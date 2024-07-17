@@ -1,7 +1,7 @@
 ---
 title: "[New] In 2024, How to Manage YouTube Video Comments for Enhanced Privacy"
-date: 2024-06-06T14:30:04.273Z
-updated: 2024-06-07T14:30:04.273Z
+date: 2024-07-16T03:09:23.410Z
+updated: 2024-07-17T03:09:23.410Z
 tags:
   - ai video
   - ai youtube
@@ -38,13 +38,16 @@ If you don’t want any comments on any of the videos that you publish, you must
 
 Use your favorite web browser to go to YouTube and sign in to your Google account. Click your profile picture from the top-right corner of the webpage, and click **YouTube Studio** from the menu that appears.
 
-![ Find YouTube Studio options](https://images.wondershare.com/filmora/article-images/find-youtube-studio-option.jpg)
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![Find YouTube Studio options](https://images.wondershare.com/filmora/article-images/find-youtube-studio-option.jpg)
 
 #### Step 2: Go to Channel’s Advanced Settings
 
 From the bottom of the left pane, click the **Settings** icon, click **Channel** from the **Settings** box that comes up next, and go to **Advanced settings** from the right window.
 
-![  YouTube Channel Advanced Settings](https://images.wondershare.com/filmora/article-images/youtube-channel-advanced-settings.jpg)
+![YouTube Channel Advanced Settings](https://images.wondershare.com/filmora/article-images/youtube-channel-advanced-settings.jpg)
 
 #### Step 3: Turn Off Comments
 
@@ -56,19 +59,25 @@ To turn on comments on **all the videos on your YouTube channel**, you can follo
 
 Use the method explained above to get to the channel’s **Advanced settings** box. Select the **No, set this channel as not made for kids. I never upload content that’s made for kids** radio button. Click **SAVE** to save the changes.
 
-![  Turn on YouTube Channel Comments](https://images.wondershare.com/filmora/article-images/turn-on-channel-comments-advanced-settings.jpg)
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![Turn on YouTube Channel Comments](https://images.wondershare.com/filmora/article-images/turn-on-channel-comments-advanced-settings.jpg)
 
 #### 2\. Define Acceptable Comment Types
 
 Click the **Settings** icon from the bottom of the left pane one more time. On the **Settings** box, go to the **Upload defaults** category from the left pane, and go to **Advanced settings** from the right. From the **Comment visibility** drop-down list under the **Comments** section in the right, choose your preferred comment allowance type, and click **SAVE** to allow the comments on the videos the channel has.
 
-![ Set up YouTube video  Comments visibility](https://images.wondershare.com/filmora/article-images/set-up-youtube-comments-visibilities.jpg)
+<!-- affiliate ads begin -->
+<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![Set up YouTube video  Comments visibility](https://images.wondershare.com/filmora/article-images/set-up-youtube-comments-visibilities.jpg)
 
 #### 3\. Set Comment Allowance for Videos
 
 Back on the **YouTube Studio** page, click **Content** from the left pane. From the right section, check the **Video** box at the top of the list to select all the videos the channel has. Click **Edit** from the column header, and click **Comments** from the menu that comes up. From the **New value** drop-down list, choose your preferred allowance option for the comments, click **UPDATE VIDEOS** from the upper-right area, check the **I understand the implications of this action** box, and click **UPDATE VIDEOS** to allow comments on all the videos of the channel.
 
-![ Turn on or off YouTube content commnets settings](https://images.wondershare.com/filmora/article-images/turn-on-off-channel-content-comments-settings.jpg)
+![Turn on or off YouTube content commnets settings](https://images.wondershare.com/filmora/article-images/turn-on-off-channel-content-comments-settings.jpg)
 
 #### **Additional Info about Comments Options**
 
@@ -108,7 +117,7 @@ Hover the mouse over the target video in the right window, and click the **Detai
 
 From under the **Audience** section in the right window of the **Video details** page, select the **No, it’s not made for kids** radio button. Next, click **SHOW MORE**, scroll down to the **Comments and ratings** section, and choose your preferred privacy option from the **Comment visibility** drop-down list. Click **SAVE** from the upper-right area to save the changes.
 
-![ Turn on or turn off comments for specific youtube video](https://images.wondershare.com/filmora/article-images/turn-on-off-comments-for-specific-youtube-video.jpg)
+![Turn on or turn off comments for specific youtube video](https://images.wondershare.com/filmora/article-images/turn-on-off-comments-for-specific-youtube-video.jpg)
 
 **Note:** To learn **how to disable comments on YouTube** for specific video, you can repeat the above steps, and choose the **Yes, it’s made for kids** radio button from the **Audience** section when you are on the **Video details** page.
 
@@ -126,7 +135,10 @@ At the time of this writing, YouTube doesn’t allow anyone to post a comment on
 
 You can go to **YouTube Studio** \> **Settings** \> **Community**, and on the **Automated Filters** tab in the right window, add the words to block in the **Blocked words** field. You can add multiple words by separating them with commas. To block the comments with links, check the **Block links** box. Click **SAVE** to save the changes.
 
-![ Block YouTube   commnets ](https://images.wondershare.com/filmora/article-images/block-users-youtube-comment.jpg)
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![Block YouTube   commnets](https://images.wondershare.com/filmora/article-images/block-users-youtube-comment.jpg)
 
 #### 4\. If I turn comments off and back on again, will the old comments come back?
 
@@ -140,6 +152,9 @@ That depends on the nature of the comments. For instance, if you modify the sett
 
 It is easy to understand **how to turn on comments on YouTube**. The best thing is, the comments are enabled by default, and if you don’t need them, you can simply disable them by configuring the videos or the entire channel as ‘Made for kids’. If the comments on any video were enabled previously, and are disabled later on, the existing comments automatically disappear. They reappear when the comments on the video are reenabled.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
 
 Liza Brown
@@ -155,10 +170,16 @@ Follow @Liza Brown
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Video Content Creation Evolution: Choosing Studio Over Beta
 
 # YouTube Creator Studio vs. YouTube Studio (Beta): Which One is Better?
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 ##### Richard Bennett
@@ -179,6 +200,9 @@ As one of the most widely used video editing software in YouTube video editing, 
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Why YouTube Is Getting Rid of Classic Creator Studio?
 
 Data-driven YouTubers have long loved the YouTube Creator Studio. It has supplied so much information that it took this [comprehensive post about Analytics](https://tools.techidaily.com/wondershare/filmora/download/) to highlight all the insights. So why would YouTube change it?
@@ -191,7 +215,7 @@ Undoubtedly, YouTube updated its Creator Studio to offer a tool that enables its
 
 ## Intro to YouTube Studio (Beta)
 
-![ YouTube Studio Beta](https://images.wondershare.com/filmora/article-images/youtube-studio-beta.jpg)
+![YouTube Studio Beta](https://images.wondershare.com/filmora/article-images/youtube-studio-beta.jpg)
 
 YouTube Studio (Beta), for many YouTubers, is now the default. However, for the time being, creators can still switch back to the Classic view (as some of the features are still being built). YouTube’s objective is to receive data of their own by understanding how creators are using the new Studio and gaining feedback to improve upon it.
 
@@ -221,12 +245,18 @@ See data and improvement tips for your latest video. If YouTube identifies a not
 
 YouTube wants you to know how your videos are performing in the first few days. In order for YouTube to determine whether your content is worth sharing, it wants to know how your audience is responding to it right away. This means, the launch of your video matters.
 
+<!-- affiliate ads begin -->
+<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![YouTube Studio Video Analysis](https://images.wondershare.com/filmora/article-images/youtube-studio-beta-recent-video-data.jpg)
 
 #### 3. Video Analysis
 
 In the Classic Creator Studio, you couldn’t get an aggregated view of all the important video data on one dashboard. You would have to click to each set of analytics individually and then dive deeper. This ate up your precious content creation time and made it hard to combine insights. Now with Studio Beta, you can see all the critical data in one spot. Right away, you can see how that video is performing through different factors. This will let you know where audience retention is dropping off or which traffic source is supplying most of the views.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![YouTube Studio Video Analysis](https://images.wondershare.com/filmora/article-images/youtube-studio-beta-video-analysis.jpg)
 
 #### 4. Watch Time Funnel
@@ -268,3 +298,47 @@ Follow @Richard Bennett
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-essential-strategies-for-profitable-youtube-videos/"><u>[New] In 2024, Essential Strategies for Profitable YouTube Videos</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-change-youtube-playback-speed-to-speed-up-or-slow-down-video/"><u>[New] In 2024, How to Change YouTube Playback Speed to Speed Up or Slow Down Video</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-craft-standout-videos-mastery-of-youtube-thumbnail-dimensions/"><u>[New] In 2024, How to Craft Standout Videos  Mastery of YouTube Thumbnail Dimensions</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-maximize-income-a-simplified-3-step-process-for-youtube-revenue-monitoring/"><u>[New] In 2024, How To Maximize Income  A Simplified 3-Step Process for YouTube Revenue Monitoring</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-create-endless-video-on-iphone/"><u>[New] In 2024, How-To  Create Endless Video on iPhone</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-mastering-fb-buzz-creating-share-worthy-content-for-2024/"><u>[New] Mastering FB Buzz  Creating Share-Worthy Content for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-unleashing-your-social-media-potential-pining-on-snapchat-for-2024/"><u>[New] Unleashing Your Social Media Potential  Pining on Snapchat for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-free-frame-perfection-on-youtube-your-ultimate-guidebook/"><u>[Updated] 2024 Approved  Free Frame Perfection on YouTube - Your Ultimate Guidebook</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-lengthy-video-to-captivating-animation-create-gifs-with-ease/"><u>[Updated] 2024 Approved  From Lengthy Video to Captivating Animation - Create Gifs with Ease</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-gaining-traction-on-youtube-the-successful-sponsorship-roadmap-by-famebit/"><u>[Updated] 2024 Approved  Gaining Traction on YouTube  The Successful Sponsorship Roadmap by FameBit</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-gamer-centric-streaming-tool-selection/"><u>[Updated] 2024 Approved  Gamer-Centric Streaming Tool Selection</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-grow-your-digital-presence-effective-techniques-for-multitasking-on-youtube-and-twitch/"><u>[Updated] 2024 Approved  Grow Your Digital Presence  Effective Techniques for Multitasking on Youtube and Twitch</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-algorithm-changes-shape-your-youtube-visibility/"><u>[Updated] 2024 Approved  How Algorithm Changes Shape Your YouTube Visibility</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/1717717687675-updated-2024-approved-how-to-make-collab-videos-and-grow-your-channel/"><u>[Updated] 2024 Approved  How to Make Collab Videos And Grow Your Channel?</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-search-comments-on-youtube-quickly/"><u>[Updated] 2024 Approved  How to Search Comments on YouTube Quickly?</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-best-practices-elevating-your-virtual-identity-on-facebook-for-2024/"><u>[Updated] Best Practices  Elevating Your Virtual Identity on Facebook for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-from-videos-to-vibrant-gifs-youtube-conversion-techniques-for-2024/"><u>[Updated] From Videos to Vibrant GIFs  YouTube Conversion Techniques for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-frosty-frameworks-for-warm-video-productions-for-2024/"><u>[Updated] Frosty Frameworks for Warm Video Productions for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-harnessing-viral-power-your-pathway-to-youtube-fame-for-2024/"><u>[Updated] Harnessing Viral Power  Your Pathway to YouTube Fame for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-reverse-a-youtube-playlist-for-2024/"><u>[Updated] How to Reverse a YouTube Playlist for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-gain-more-followers-masterful-youtube-marketing-techniques/"><u>[Updated] In 2024, Gain More Followers  Masterful YouTube Marketing Techniques</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-get-free-youtube-music-anytime-with-these-high-performing-splitters/"><u>[Updated] In 2024, Get Free YouTube Music Anytime With These High-Performing Splitters</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-get-youtube-posters-at-zero-price-top-free-downloading-tool/"><u>[Updated] In 2024, Get YouTube Posters at Zero Price - Top Free Downloading Tool</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-graphical-forecast-the-dominant-23-social-themes/"><u>[Updated] In 2024, Graphical Forecast  The Dominant '23 Social Themes</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-hash-tags-that-catapult-you-to-6k-views-on-youtube/"><u>[Updated] In 2024, Hash Tags That Catapult You to 6K Views on YouTube</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-high-quality-sound-adjustment-apps-for-content-casters/"><u>[Updated] In 2024, High-Quality Sound Adjustment Apps for Content Casters</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-neuroscience-insights-enhance-effective-corporate-governance/"><u>[Updated] In 2024, How Neuroscience Insights Enhance Effective Corporate Governance</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-manycam-review-is-there-a-better-alternative/"><u>[Updated] In 2024, ManyCam Review  Is There A Better Alternative?</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-quick-guide-to-troubleshoot-instagram-videos/"><u>[Updated] Quick Guide to Troubleshoot Instagram Videos</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-turn-daily-life-into-a-comedy-meme/"><u>[Updated] Turn Daily Life Into a Comedy Meme</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-complete-critique-the-ultimate-review-for-bublcam-360-camera/"><u>2024 Approved  Complete Critique  The Ultimate Review for Bublcam 360 Camera</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/game-console-sound-amplification-and-modifications-for-ps4ps5-for-2024/"><u>Game Console Sound Amplification and Modifications for PS4/PS5 for 2024</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-enable-usb-debugging-on-a-locked-lava-yuva-3-pro-phone-by-drfone-android/"><u>How To Enable USB Debugging on a Locked Lava Yuva 3 Pro Phone</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/in-2024-create-professional-fb-ad-videos-leverage-free-creative-toolkit/"><u>In 2024, Create Professional FB Ad Videos  Leverage Free Creative Toolkit</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-oneplus-nord-ce-3-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How PGSharp Save You from Ban While Spoofing Pokemon Go On OnePlus Nord CE 3 5G? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-lava-agni-2-5g-to-any-ios-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Lava Agni 2 5G to Any iOS Devices | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-revolutionizing-gaming-with-funimate/"><u>In 2024, Revolutionizing Gaming with Funimate</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-pure-visuals-guide-how-to-eliminate-sound-from-mp4-mkv-avi-mov-wmv-videos/"><u>New Pure Visuals Guide How to Eliminate Sound From MP4, MKV, AVI, MOV, WMV Videos</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-2024-approved-cutting-the-cord-tivo-vs-comcast-a-comprehensive-dvr-comparison/"><u>Updated 2024 Approved Cutting the Cord TiVo vs Comcast - A Comprehensive DVR Comparison</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/voiceverse-review-audio-deep-dive-for-2024/"><u>VoiceVerse Review  Audio Deep Dive for 2024</u></a></li>
+</ul></div>

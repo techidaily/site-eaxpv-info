@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  How to Create Animated Bouncing Text [2 Ways]\""
-date: 2024-06-06T15:11:02.363Z
-updated: 2024-06-07T15:11:02.363Z
+date: 2024-07-16T04:10:34.253Z
+updated: 2024-07-17T04:10:34.253Z
 tags:
   - ai video
   - ai youtube
@@ -18,6 +18,9 @@ thumbnail: https://thmb.techidaily.com/359889cca1fac1d0cab50a3e170aa122469e4b901
 
 # How to Create Animated Bouncing Text
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
 
 ##### Liza Brown
@@ -26,6 +29,9 @@ thumbnail: https://thmb.techidaily.com/359889cca1fac1d0cab50a3e170aa122469e4b901
 
 Earlier, you learned how to have a **[bounce text effect in Adobe After Effects](https://tools.techidaily.com/wondershare/filmora/download/)**. However, because AE is a complex application and has a steep learning curve, this section explains the two alternative ways to get the same effect on your existing video footage.
 
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Method 1: How to Create Bouncing Text in Filmora Video Editor?
 
 When talking about [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/), the application is populated with several presets for texts and titles, animations, effects, filters, and much more.
@@ -44,6 +50,9 @@ Click **Titles** from the standard toolbar at the top, and click and drag your p
 
 In the timeline, double-click the title you just added, use the upper-left section to edit the text, go to the **Animation** tab from the left pane, scroll down the list, and double-click the **Up Down 1** or **Up Down 2** preset to apply the bounce effect to the credits. Click **OK** to save the changes and to get back to the main window.
 
+<!-- affiliate ads begin -->
+<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Create Bouncing Text video Filmora9](https://images.wondershare.com/filmora/article-images/add-up-down-animation-to-bounce.jpg)
 
 **Step 3: Add Shake Filters**
@@ -60,6 +69,9 @@ You can customize the default effect by double-clicking the shake filter in the 
 
 Click **EXPORT** from the top of the interface, go to the **Local** tab in the **Export** box, choose your preferred output format from the list in the left, make required customizations from the right pane, and click **EXPORT** from the bottom-right corner to export the video.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Filmora9 Export Options](https://images.wondershare.com/filmora/article-images/export-filmora9-video.jpg)
 
 Now, you can add the bouncing text video and the background video to the timeline, and then place the bouncing text video above the background video track.
@@ -106,6 +118,9 @@ Launch your favorite web browser and go to <https://loading.io/animation/text/>.
 
 **Step 2: Customize the Text and Choose Animation Effect**
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Create Animated Bouncing Text with Loading.io](https://images.wondershare.com/filmora/article-images/create-bouncing-text-with-loadingio.jpg)
 
 Use the options available on the webpage to type your text, and change its font, color, background, transparency level etc. Select **Bounce** (or any of its variants) from the **Animation** drop-down list, and adjust the speed using the **Speed** slider.
@@ -135,6 +150,9 @@ Follow @Liza Brown
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Interactive Engagement: Adding Emojis to Youtubes' Comments
 
 # How to Add Emojis on YouTube Comments
@@ -165,6 +183,9 @@ You can then click the emoji that you’d like to add to the YouTube video direc
 
 ### 2\. Copy and Paste Emojis from Websites
 
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Copy and paste Emojis to YouTube comments](https://images.wondershare.com/filmora/article-images/copy-paste-emoji-to-youtube-comments.jpg)
 
 One of the easiest ways to add emojis to YouTube comments is to copy-paste them from an emoji database. You can right-click on the emoji and then select “copy.”
@@ -193,6 +214,9 @@ If your Mac has a Touch Bar, then you can tap the smile face and then tap an emo
 
 YouTuber Javier Mercedes has made a quick tutorial and introduced many more ways to typing emojis on Mac. Check it below and find the best way based on your preferences.
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 3: How to Add Emoji to YouTube Comments with TubeBuddy?
 
 TubeBuddy is a suite of tools for YouTubers to grow their success. You can access a range of tools, including YouTube comments emojis to improve your visual appeal. It is a free browser extension that you can add to Chrome, Opera, Firefox, and more.
@@ -227,6 +251,9 @@ You can access any list of YouTube comments emojis and select the one you like. 
 
 Now go to your title or description and press “Ctrl” + “V” for Windows and “Command” + “V” for Mac to paste the emoji.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## FAQs about YouTube Video Comments
 
 1. **Are Emojis Harmful to Use for YouTube?**
@@ -266,3 +293,54 @@ Follow @Richard Bennett
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-fresh-topics-to-cover-in-your-vlogs/"><u>[New] 2024 Approved  Fresh Topics to Cover in Your Vlogs</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-content-creation-to-revenue-recognition-the-systematic-3-step-formula-for-youtube-income-examination/"><u>[New] 2024 Approved  From Content Creation to Revenue Recognition  The Systematic 3-Step Formula for YouTube Income Examination</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-global-reach-to-engagement-deciphering-igtv-and-youtubes-strategies/"><u>[New] 2024 Approved  From Global Reach to Engagement  Deciphering IGTV & YouTube’s Strategies</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-get-back-to-pure-content-how-to-block-youtube-ads-on-all-devices/"><u>[New] 2024 Approved  Get Back to Pure Content  How to Block YouTube Ads on All Devices</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-handling-haters-strategies-for-content-creators/"><u>[New] 2024 Approved  Handling Haters  Strategies for Content Creators</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-add-timestamps-youtube-video/"><u>[New] 2024 Approved  How to Add Timestamps YouTube Video?</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-filmora-simplified-guide-to-an-engaging-youtube-anime-subscriber-bar-for-2024/"><u>[New] Filmora  Simplified Guide to an Engaging YouTube Anime Subscriber Bar for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-fixed-youtube-shorts-just-watch-and-enjoy-for-2024/"><u>[New] Fixed YouTube Shorts - Just Watch and Enjoy for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-from-good-to-great-elevate-reactions-in-youtube-videos-with-these-3-strategies-for-2024/"><u>[New] From Good to Great  Elevate Reactions in YouTube Videos with These 3 Strategies for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-how-to-make-a-youtube-trailer-for-2024/"><u>[New] How To Make a YouTube Trailer for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-audience-connection-through-instagram-stories-questions/"><u>[New] In 2024, Audience Connection Through Instagram Stories Questions</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-foremost-10-recording-apps-for-social-media-vids/"><u>[New] In 2024, Foremost 10 Recording Apps for Social Media Vids</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-innovative-house-blueprints-for-snapshot-players-for-2024/"><u>[New] Innovative House Blueprints for Snapshot Players for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-2024-approved-streamers-dilemma-is-vlc-superior-to-mpc/"><u>[Updated] 2024 Approved  Streamer's Dilemma  Is VLC Superior to MPC?</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-the-ultimate-guide-to-optimal-screen-recording/"><u>[Updated] 2024 Approved  The Ultimate Guide to Optimal Screen Recording</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-detecting-my-follower-flight-on-insta-for-2024/"><u>[Updated] Detecting My Follower Flight on Insta for 2024</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/updated-essential-illumination-strategies-for-filming/"><u>[Updated] Essential Illumination Strategies for Filming</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-finding-equilibrium-between-professional-life-and-youtubing-for-2024/"><u>[Updated] Finding Equilibrium Between Professional Life and YouTubing for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-free-video-editing-software-8-options-explored-for-2024/"><u>[Updated] Free Video Editing Software  8 Options Explored for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-getting-started-with-your-new-youtube-premium-account-for-2024/"><u>[Updated] Getting Started with Your New YouTube Premium Account for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-authenticate-your-yt-account-a-hint-list-for-2024/"><u>[Updated] How to Authenticate Your YT Account? A Hint List for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-promote-youtube-videos-without-paying-for-2024/"><u>[Updated] How to Promote YouTube Videos (Without Paying) for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-secure-youtube-channels-audible-content-for-2024/"><u>[Updated] How to Secure YouTube Channels' Audible Content for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-fix-noted-shorts-now-shown-prominently/"><u>[Updated] In 2024, Fix Noted  Shorts Now Shown Prominently</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-flixfortress-over-a-hundred-channels-of-fortitude/"><u>[Updated] In 2024, FlixFortress  Over a Hundred Channels of Fortitude</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-fostering-connection-through-respectful-engagement/"><u>[Updated] In 2024, Fostering Connection Through Respectful Engagement</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-green-screen-mastery-seamless-yt-integration/"><u>[Updated] In 2024, Green Screen Mastery  Seamless YT Integration</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-guide-to-profiting-from-youtube-shorts-key-requirements-and-potential-income/"><u>[Updated] In 2024, Guide to Profiting From YouTube Shorts  Key Requirements & Potential Income</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-hidden-gems-on-youtube-understanding-unlisted-videos/"><u>[Updated] In 2024, Hidden Gems on YouTube  Understanding 'Unlisted' Videos</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-pinpoint-premium-video-keywords-on-youtube/"><u>[Updated] In 2024, How to Pinpoint Premium Video Keywords on YouTube</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-in-2024-the-metaverse-memetic-guide-sparkle-with-satire-and-smiles/"><u>[Updated] In 2024, The Metaverse Memetic Guide - Sparkle with Satire and Smiles</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-unveiling-the-mystery-of-proper-lighting-in-youtube-vids/"><u>[Updated] Unveiling the Mystery of Proper Lighting in YouTube Vids</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/2024-approved-crafting-dynamic-gifs-from-video-an-illustrative-tutorial/"><u>2024 Approved  Crafting Dynamic Gifs From Video  An Illustrative Tutorial</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/2024-approved-digital-deviation-expert-strategies-to-rotate-videos-on-youtube/"><u>2024 Approved  Digital Deviation  Expert Strategies to Rotate Videos on YouTube</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/2024-approved-tips-and-tricks-to-perfectly-use-the-audio-mixer-in-filmora/"><u>2024 Approved Tips & Tricks To Perfectly Use the Audio Mixer in Filmora</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/5-ways-to-restart-samsung-galaxy-f34-5g-without-power-button-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Restart Samsung Galaxy F34 5G Without Power Button | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/edit-and-send-fake-location-on-telegram-for-your-realme-narzo-60-pro-5g-in-3-ways-drfone-by-drfone-virtual-android/"><u>Edit and Send Fake Location on Telegram For your Realme Narzo 60 Pro 5G in 3 Ways | Dr.fone</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/exclusive-list-of-the-premier-mac-screenshots-tools-for-2024/"><u>Exclusive List of the Premier Mac Screenshots Tools for 2024</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-infinix-smart-8-hd-phone-with-broken-screen-by-drfone-android/"><u>How to Unlock Infinix Smart 8 HD Phone with Broken Screen</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-capturing-details-with-intimate-filming-techniques/"><u>In 2024, Capturing Details with Intimate Filming Techniques</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-live-video-showdown-which-is-superior-virusmixwirecast/"><u>In 2024, Live Video Showdown  Which Is Superior, VirusMix/WireCast?</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/24-maximize-traffic-with-these-must-use-freefire-tags-for-videos/"><u>In 2024, Maximize Traffic with These Must-Use FreeFire Tags for Videos</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-optimize-visual-design-top-10-must-have-type-plugins-for-ae/"><u>In 2024, Optimize Visual Design  Top 10 Must-Have Type Plugins for AE</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-the-art-of-background-replacement-in-editing-suite/"><u>In 2024, The Art of Background Replacement in Editing Suite</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-in-2024-how-to-use-obs-chroma-key-withwithout-green-screen/"><u>New In 2024, How to Use OBS Chroma Key With/Without Green Screen</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/the-ultimate-guide-to-aspect-ratio-editing-in-final-cut-pro-for-2024/"><u>The Ultimate Guide to Aspect Ratio Editing in Final Cut Pro for 2024</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/updated-in-2024-creating-ai-videos-with-templates/"><u>Updated In 2024, Creating AI Videos With Templates</u></a></li>
+</ul></div>

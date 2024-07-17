@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  How To Craft Top Quality YouTube Thumbnails Fast\""
-date: 2024-06-06T13:44:43.080Z
-updated: 2024-06-07T13:44:43.080Z
+date: 2024-07-16T02:01:30.635Z
+updated: 2024-07-17T02:01:30.635Z
 tags:
   - ai video
   - ai youtube
@@ -18,6 +18,9 @@ thumbnail: https://www.lifewire.com/thmb/qY6YXPwK45Llx5jtogYGA3wpHHs=/400x300/fi
 
 # How to Make a Thumbnail for Your YouTube Free Easily
 
+<!-- affiliate ads begin -->
+<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
 ##### Shanoon Cox
@@ -57,6 +60,9 @@ With time, Filmora brings new and advanced features for its users to equip them 
 
 **Step 05:** If you want to use your custom background, you can import it into the Filmora by clicking import or dragging and dropping it in the media section.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![ai-portrait-thumbnail-step5](https://images.wondershare.com/filmora/article-images/ai-portrait-thumbnail-step5.png)
 
 **Step 06:** Import your video the same way into the media folder of Filmora and drag it into the timeline and place it above your background.
@@ -73,10 +79,25 @@ With time, Filmora brings new and advanced features for its users to equip them 
 
 **Step 09:** To make a thumbnail for your Youtube, we have to remove the background of your footage first. To do that we have to apply Human Segmentation to the footage first. It will separate the human from the footage. Drag and drop the Human Segmentation effect into the footage in the timeline. Once you drop it into the footage, it will ask you to purchase this feature to export the footage. Since we are not trying to export the footage, we are only creating a thumbnail, click on "Try It". Once the background is removed, you can add other effects as well. Drag and drop the "Human Border" into the footage. It creates an outline around the human in your footage.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
+<!-- affiliate ads end -->
 ![ai-portrait-thumbnail-step9](https://images.wondershare.com/filmora/article-images/ai-portrait-thumbnail-step9.png)
 
 **Step 10:** The effect will be applied to the footage. Now the background has been removed from the footage and ready to be used on your custom background. You can adjust the human accordingly where it looks perfect.
 
+<!-- affiliate ads begin -->
+<span id="1793213">
+					<video width="1080" height="1620" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![ai-portrait-thumbnail-step10](https://images.wondershare.com/filmora/article-images/ai-portrait-thumbnail-step10.png)
 
 **Step 11:** Now it is time to add a title into your thumbnail to highlight what the video is all about. Go to the Titles, and select lower thirds. You can also select any of the titles types which best suits your needs. Drop the title into the timeline above the footage and adjust it accordingly. Now double click on the header to edit and rename it.
@@ -93,6 +114,9 @@ This is how your Youtube thumbnail will look like after applying all the above-m
 
 This article on making a thumbnail for your Youtube is just an idea for you, and you can use your creativity to create amazing thumbnails using other features of Filmora. These cool thumbnails will help you attract more viewers and click, which will ultimately help you grow your Youtube Channel. Unlike all other articles and tutorials that show you how to make a thumbnail for Youtube, this method is free and doesn't need any technical skills to be implemented.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
@@ -114,6 +138,9 @@ Follow @Shanoon Cox
 
 # How To Make Money on YouTube
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 ##### Richard Bennett
@@ -135,6 +162,9 @@ You don't need to have a following of millions to earn money on YouTube though; 
 
 We've discovered that making money on YouTube can be split into two main categories; making money through advertising or making money without ads involved. We've split our article into these two categories to make it easier for you to see what your options are.
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Make money on YouTube with ads
 
 By far the easiest way to start earning money on YouTube is to monetize your channel using ads. Until relatively recently, anyone could enable monetization on their YouTube channel and start earning for every watch of their video. But that all changed in January this year, when Google announced they would be raising the standards required to have ads shown on your channel.
@@ -156,12 +186,18 @@ Sometimes it's actually better to hold off for a while when you're early on in y
 
 1\. Go to your **Account Settings** and, under **Channel**, select **Status and features**.
 
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![monetize creatorstudio](https://images.wondershare.com/filmora/article-images/monetize-creatorstudio.JPG)
 
 2\. Click on **Enable** next to **Monetization**.
 
 3\. In the next screen, click the blue **Enable my Account** button.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![monetize enablescreen](https://images.wondershare.com/filmora/article-images/monetize-enablescreen.JPG)
 
 4\. **The YouTube Partner Program Terms** will pop up. Compared to a lot of the “Terms” you are asked to read and agree to when signing up for things online the Partner Terms are fairly short and readable.
@@ -234,6 +270,9 @@ There are some types of content which are just not a good idea for YouTube. In f
 
 When you're considering how do YouTubers make money, you should recognize that those who make the most money avoid creating content that breaches any of these rules. YouTube does notify you if it feels your video is in breach of 'advertiser friendly' policies, and you'll have the chance to contest the ban, but if you steer clear of dodgy content in the first place you shouldn't run into any issues.
 
+<!-- affiliate ads begin -->
+<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Make money on YouTube without ads
 
 Of course, life is not all about ads, and with YouTube continuing to tighten its criteria around advertising it can be a good idea not to have all your eggs in one basket. Add to this the huge viewership you're going to need in order to make serious money, it's worth investigating other methods of making money on YouTube. Here are some of the best ideas.
@@ -281,3 +320,54 @@ Follow @Richard Bennett
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-filmoras-quick-start-approach-for-youtube-trailers/"><u>[New] 2024 Approved  Filmora's Quick-Start Approach for YouTube Trailers</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-financially-flourishing-online-media-personality/"><u>[New] 2024 Approved  Financially Flourishing Online Media Personality</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-concept-to-completion-crafting-your-youtube-masterpiece/"><u>[New] 2024 Approved  From Concept to Completion  Crafting Your YouTube Masterpiece</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-go-green-integrate-subscriptions-in-ads/"><u>[New] 2024 Approved  Go Green  Integrate Subscriptions in Ads</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-groan-inducing-humor-in-hits/"><u>[New] 2024 Approved  Groan-Inducing Humor in Hits</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-first-steps-into-filmmaking-the-ultimate-guide-for-making-your-first-10-youtube-videos-for-2024/"><u>[New] First Steps Into Filmmaking  The Ultimate Guide for Making Your First 10 YouTube Videos for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-free-yourself-from-video-edges-on-youtube-for-2024/"><u>[New] Free Yourself From Video Edges on YouTube for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-freefire-gaming-guide-maximizing-video-impact-for-2024/"><u>[New] FreeFire Gaming Guide  Maximizing Video Impact for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-how-to-gauge-if-an-mcn-is-right-for-your-youtube-journey-for-2024/"><u>[New] How to Gauge if an MCN Is Right for Your YouTube Journey for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-follow-the-flow-of-forum-fancies/"><u>[New] In 2024, Follow the Flow of Forum Fancies</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-capture-to-air-expert-tips-for-streaming-upside-down-videos-on-youtube/"><u>[New] In 2024, From Capture to Air  Expert Tips for Streaming Upside-Down Videos on Youtube</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-novice-to-expert-mastering-video-identity-on-youtube/"><u>[New] In 2024, From Novice to Expert  Mastering Video Identity on YouTube</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-raw-to-refined-the-ultimate-youtube-studio-editing-journey/"><u>[New] In 2024, From Raw to Refined  The Ultimate YouTube Studio Editing Journey</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-script-to-screen-youtube-video-creation-made-simple/"><u>[New] In 2024, From Script to Screen  YouTube Video Creation Made Simple</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-gourmet-guides-leading-food-vloggers-online/"><u>[New] In 2024, Gourmet Guides  Leading Food Vloggers Online</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-harnessing-technology-the-art-of-capturing-ios-devices-in-media/"><u>[New] In 2024, Harnessing Technology  The Art of Capturing iOS Devices in Media</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-hottest-youtube-music-playback-responses-23/"><u>[New] In 2024, Hottest YouTube Music Playback Responses '23</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-add-timestamps-to-youtube-video-to-increase-views/"><u>[New] In 2024, How to Add Timestamps to YouTube Video to Increase Views</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-absolute-zero-to-audience-peaks-top-10-insights-on-boosting-video-viewership/"><u>[Updated] 2024 Approved  From Absolute Zero to Audience Peaks  Top 10 Insights on Boosting Video Viewership</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-frame-to-firm-selecting-your-mcn-partner/"><u>[Updated] 2024 Approved  From Frame to Firm  Selecting Your MCN Partner</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-generating-auto-subscribe-urls-for-youtube-channels/"><u>[Updated] 2024 Approved  Generating Auto Subscribe URLs for YouTube Channels</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-glam-up-video-images-integrating-shimmering-neons/"><u>[Updated] 2024 Approved  Glam up Video Images  Integrating Shimmering Neons</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-harmony-hunt-uncover-the-most-popular-free-downloader-apps-on-youtube-and-android/"><u>[Updated] 2024 Approved  Harmony Hunt - Uncover the Most Popular Free Downloader Apps on YouTube and Android</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-flipping-currencies-through-cosmetics-content-for-2024/"><u>[Updated] Flipping Currencies Through Cosmetics Content for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-formulating-final-fact-finding-flourishes-for-2024/"><u>[Updated] Formulating Final Fact-Finding Flourishes for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-gamer-friendly-video-capture-apps-for-2024/"><u>[Updated] Gamer-Friendly Video Capture Apps for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-get-free-youtube-music-anytime-with-these-high-performing-splitters-for-2024/"><u>[Updated] Get Free YouTube Music Anytime With These High-Performing Splitters for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-globes-biggest-video-content-mogul-for-2024/"><u>[Updated] Globe’s Biggest Video Content Mogul for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-high-definition-hardware-unveiled-by-gamers-for-2024/"><u>[Updated] High-Definition Hardware Unveiled by Gamers for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-start-a-successful-youtube-gaming-channel-for-2024/"><u>[Updated] How to Start a Successful YouTube Gaming Channel for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-football-film-study-premier-insights-infographic/"><u>[Updated] In 2024, Football Film Study  Premier Insights Infographic</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-for-social-media-savants-distinguishing-between-igtv-and-youtube/"><u>[Updated] In 2024, For Social Media Savants  Distinguishing Between IGTV & YouTube</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-freeze-non-picked-youtube-video-suggestions/"><u>[Updated] In 2024, Freeze Non-Picked YouTube Video Suggestions</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-vision-to-visuals-craft-your-story-with-youtube-editor/"><u>[Updated] In 2024, From Vision to Visuals  Craft Your Story with YouTube Editor</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-make-killer-youtube-channel-art/"><u>[Updated] In 2024, How to Make Killer YouTube Channel Art</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-validate-your-youtube-profile-a-simple-guide/"><u>[Updated] In 2024, How to Validate Your YouTube Profile? A Simple Guide</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-manycam-recorder-review/"><u>[Updated] ManyCam Recorder Review</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-top-6-metaverse-case-studies-for-in-depth-understanding/"><u>[Updated] Top 6 Metaverse Case Studies for In-Depth Understanding</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-top-6-video-tactics-for-captivating-audiences/"><u>[Updated] Top 6 Video Tactics for Captivating Audiences</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/from-beginner-to-pro-the-ultimate-selection-of-8-high-performing-daw-platforms-for-recording-mixing-and-mastering-success-for-2024/"><u>From Beginner to Pro The Ultimate Selection of 8 High-Performing DAW Platforms for Recording, Mixing, and Mastering Success for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-dot-file-document-with-electronic-digital-signature-tutorial-by-ldigisigner-sign-a-word-sign-a-word/"><u>How to Sign .dot file document with Electronic Digital Signature - (Tutorial)</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-11-pro-max-to-other-iphone-11-pro-max-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 11 Pro Max To Other iPhone 11 Pro Max devices? | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-3-things-you-must-know-about-fake-snapchat-location-on-oneplus-open-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Things You Must Know about Fake Snapchat Location On OnePlus Open | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-latest-guide-how-to-bypass-vivo-v29-frp-without-computer-by-drfone-android/"><u>In 2024, Latest Guide How To Bypass Vivo V29 FRP Without Computer</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/in-2024-mastering-sonic-transformation-a-list-of-top-5-audio-alteration-software/"><u>In 2024, Mastering Sonic Transformation A List of Top 5 Audio Alteration Software</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-ultimate-quick-access-handbook-for-rapid-srt-to-text-change/"><u>In 2024, The Ultimate, Quick-Access Handbook for Rapid SRT to Text Change</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-5-car-locator-apps-for-vivo-x-fold-2-drfone-by-drfone-virtual-android/"><u>In 2024, Top 5 Car Locator Apps for Vivo X Fold 2 | Dr.fone</u></a></li>
+</ul></div>

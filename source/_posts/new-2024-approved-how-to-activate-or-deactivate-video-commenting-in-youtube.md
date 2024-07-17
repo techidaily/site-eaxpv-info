@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  How To Activate or Deactivate Video Commenting in YouTube\""
-date: 2024-07-02T20:09:46.831Z
-updated: 2024-07-03T20:09:46.831Z
+date: 2024-07-16T04:31:27.463Z
+updated: 2024-07-17T04:31:27.463Z
 tags:
   - ai video
   - ai youtube
@@ -38,12 +38,18 @@ If you don’t want any comments on any of the videos that you publish, you must
 
 Use your favorite web browser to go to YouTube and sign in to your Google account. Click your profile picture from the top-right corner of the webpage, and click **YouTube Studio** from the menu that appears.
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Find YouTube Studio options](https://images.wondershare.com/filmora/article-images/find-youtube-studio-option.jpg)
 
 #### Step 2: Go to Channel’s Advanced Settings
 
 From the bottom of the left pane, click the **Settings** icon, click **Channel** from the **Settings** box that comes up next, and go to **Advanced settings** from the right window.
 
+<!-- affiliate ads begin -->
+<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
+<!-- affiliate ads end -->
 ![YouTube Channel Advanced Settings](https://images.wondershare.com/filmora/article-images/youtube-channel-advanced-settings.jpg)
 
 #### Step 3: Turn Off Comments
@@ -56,6 +62,9 @@ To turn on comments on **all the videos on your YouTube channel**, you can follo
 
 Use the method explained above to get to the channel’s **Advanced settings** box. Select the **No, set this channel as not made for kids. I never upload content that’s made for kids** radio button. Click **SAVE** to save the changes.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Turn on YouTube Channel Comments](https://images.wondershare.com/filmora/article-images/turn-on-channel-comments-advanced-settings.jpg)
 
 #### 2\. Define Acceptable Comment Types
@@ -90,6 +99,9 @@ Selecting this option holds all the comments from all the users, and waits for y
 
 When this option is selected, no one can post a comment to the video(s) whatsoever.
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 2: Turn on or Turn off Comments for Specific Videos
 
 As you might have noticed, any video that is marked as ‘Made for kids’ doesn’t allow users to post comments. You can exploit this feature to enable or disable commenting on specific YouTube videos as well.
@@ -108,6 +120,9 @@ Hover the mouse over the target video in the right window, and click the **Detai
 
 From under the **Audience** section in the right window of the **Video details** page, select the **No, it’s not made for kids** radio button. Next, click **SHOW MORE**, scroll down to the **Comments and ratings** section, and choose your preferred privacy option from the **Comment visibility** drop-down list. Click **SAVE** from the upper-right area to save the changes.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Turn on or turn off comments for specific youtube video](https://images.wondershare.com/filmora/article-images/turn-on-off-comments-for-specific-youtube-video.jpg)
 
 **Note:** To learn **how to disable comments on YouTube** for specific video, you can repeat the above steps, and choose the **Yes, it’s made for kids** radio button from the **Audience** section when you are on the **Video details** page.
@@ -210,6 +225,9 @@ If you want to know **how to make a parody video** then follow the below steps:
 
 **Conclusion:** Today Youtube is the most prominent platform where people can utilize their video editing skills. Most of the uploaded videos require the skill of video editing at an expert level. The software does not require professional efficiency or any added degrees. It does not require any kind of paid course. With such amazing software and editing tools, youth can learn the skill and can try for employment opportunities in multimedia companies. Video editing is making good career opportunities for multi-media platforms. The youth should engage themselves in some challenging work and gain a good amount of experience.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 Richard Bennett
@@ -227,3 +245,53 @@ Follow @Richard Bennett
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-10-exceptional-educational-sites-a-look-without-udemy/"><u>[New] 10 Exceptional Educational Sites  A Look without Udemy</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/024-approved-a-beginners-pathway-to-effective-video-tag-usage/"><u>[New] 2024 Approved  A Beginner's Pathway to Effective Video Tag Usage</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-driving-social-media-success-with-smart-fb-ad-production/"><u>[New] Driving Social Media Success with Smart FB Ad Production</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-from-casual-follower-to-dedicated-subscriber-inspirational-journey-for-2024/"><u>[New] From Casual Follower to Dedicated Subscriber  Inspirational Journey for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-from-search-patterns-to-screenplay-crafting-videos-from-google-data-for-2024/"><u>[New] From Search Patterns to Screenplay  Crafting Videos From Google Data for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-how-much-money-can-you-score-with-youtube-short-videos-for-2024/"><u>[New] How Much Money Can You Score with YouTube Short Videos for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-how-to-get-paid-to-review-products-on-youtube-for-2024/"><u>[New] How to Get Paid to Review Products on YouTube for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-fearless-filming-mastering-your-first-10-clips/"><u>[New] In 2024, Fearless Filming  Mastering Your First 10 Clips</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-video-lessons-to-visual-gigs-youtube-videos-converted-seamlessly/"><u>[New] In 2024, From Video Lessons to Visual Gigs  YouTube Videos Converted Seamlessly</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-graph-gala-2017-an-illuminated-expedition-into-yt-data/"><u>[New] In 2024, Graph Gala 2017  An Illuminated Expedition Into YT Data</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-guide-to-equipment-selection-for-youtube-creators/"><u>[New] In 2024, Guide to Equipment Selection for YouTube Creators</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-hack-your-way-to-speedy-youtube-video-processing/"><u>[New] In 2024, Hack Your Way to Speedy YouTube Video Processing</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-do-youtube-channels-get-paid-regularly/"><u>[New] In 2024, How Do YouTube Channels Get Paid Regularly?</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-prevent-thumbnail-absence-in-shorts-uploads/"><u>[New] In 2024, How to Prevent Thumbnail Absence in Shorts Uploads</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-rip-audio-from-youtube-in-3-ways-free-and-safe/"><u>[New] In 2024, How to Rip Audio From YouTube in 3 Ways [Free and Safe]</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-seamlessly-integrate-captions-into-youtube-videos/"><u>[New] In 2024, How to Seamlessly Integrate Captions Into YouTube Videos</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-innovation-in-viewing-top-5-webcams-recommended-for-gamers/"><u>[New] In 2024, Innovation in Viewing  Top 5 Webcams Recommended for Gamers</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-ultimate-sites-for-stylish-metallic-3d-text-artistry/"><u>[New] Ultimate Sites for Stylish, Metallic 3D Text Artistry</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-youtube-to-avi-perfect-conversion-tools-revealed/"><u>[Updated] 2024 Approved  From YouTube to AVI  Perfect Conversion Tools Revealed</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-youtubes-realm-to-igtvs-domain-3-ways/"><u>[Updated] 2024 Approved  From YouTube's Realm to IGTV's Domain (3 Ways)</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-guide-to-incorited-visuals-in-text-without-cost/"><u>[Updated] 2024 Approved  Guide to Incorited Visuals in Text Without Cost</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-harness-the-power-of-playback-speed-control-in-youtube/"><u>[Updated] 2024 Approved  Harness the Power of Playback Speed Control in YouTube</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-haul-vlogging-101-a-step-by-step-guide/"><u>[Updated] 2024 Approved  Haul Vlogging 101  A Step-by-Step Guide</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-verify-your-youtube-account/"><u>[Updated] 2024 Approved  How to Verify Your YouTube Account?</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-2024-approved-mastering-luts-for-enhanced-photoshop-images/"><u>[Updated] 2024 Approved  Mastering LUTs for Enhanced Photoshop Images</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-free-and-paid-video-game-opening-mastery-rank-the-best-of-yt-makers-for-2024/"><u>[Updated] Free & Paid Video Game Opening Mastery  Rank the Best of YT Makers for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-from-couch-to-chart-topper-skyrocketing-your-channels-views-for-2024/"><u>[Updated] From Couch to Chart-Topper  Skyrocketing Your Channel's Views for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-fullview-media-collaboration-guidebook-for-2024/"><u>[Updated] FullView Media Collaboration Guidebook for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-hashtags-that-elevate-your-channels-visibility-and-value-for-2024/"><u>[Updated] Hashtags that Elevate Your Channels' Visibility & Value for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-film-swapping-ideas-best-replacements-1-7/"><u>[Updated] In 2024, Film Swapping Ideas  Best Replacements #1-7</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-fresh-pioneers-8-youtubes-fastest-climbers/"><u>[Updated] In 2024, Fresh Pioneers 8  YouTube's Fastest Climbers</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-template-to-tutorial-gamers-channel-design/"><u>[Updated] In 2024, From Template to Tutorial  Gamers' Channel Design</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-gamified-design-making-your-youtube-banner-unforgettable/"><u>[Updated] In 2024, Gamified Design  Making Your YouTube Banner Unforgettable</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-streamlining-time-lapse-photography-with-gopro-software/"><u>[Updated] Streamlining Time-Lapse Photography with GoPro Software</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/2024-approved-a-complete-guide-to-downloading-youtube-videos-to-iphone-or-ipad/"><u>2024 Approved  A Complete Guide to Downloading YouTube Videos to iPhone or iPad</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-scriptwriting-101-for-aspiring-youtube-producers/"><u>2024 Approved  Scriptwriting 101 for Aspiring YouTube Producers</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/2024-approved-effortless-video-ratio-conversion-a-quick-start/"><u>2024 Approved Effortless Video Ratio Conversion A Quick Start</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/expert-tips-building-meme-foundations-for-2024/"><u>Expert Tips  Building Meme Foundations for 2024</u></a></li>
+<li><a href="https://techidaily.com/how-do-i-reset-my-lava-blaze-2-pro-phone-without-technical-knowledge-drfone-by-drfone-reset-android-reset-android/"><u>How do I reset my Lava Blaze 2 Pro Phone without technical knowledge? | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-from-creator-to-consumer-securing-a-spot-on-apples-listings/"><u>In 2024, From Creator to Consumer  Securing a Spot on Apple’s Listings</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-pro-tools-for-netflix-capture-a-mac-guide-of-six-strategies/"><u>In 2024, Pro Tools for Netflix Capture  A Mac Guide of Six Strategies</u></a></li>
+<li><a href="https://games-able.techidaily.com/minimizing-roblox-written-in-swift-ios-memory-management-guide/"><u>Minimizing Roblox' Written in Swift: IOS Memory Management Guide</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-dive-into-sound-design-an-overview-of-fundamental-wave-editor-features/"><u>New Dive Into Sound Design An Overview of Fundamental Wave Editor Features</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/spark-engagement-the-ultimate-list-of-video-text-effects/"><u>Spark Engagement  The Ultimate List of Video Text Effects</u></a></li>
+<li><a href="https://article-posts.techidaily.com/the-ultimate-guide-to-audacitys-professional-tracking-for-2024/"><u>The Ultimate Guide to Audacity's Professional Tracking for 2024</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-youtube-audio-downloader-tips-tricks-and-best-practices/"><u>Updated YouTube Audio Downloader Tips, Tricks, and Best Practices</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  From Zero to Hero in YouTube Traffic\""
-date: 2024-06-06T14:11:24.562Z
-updated: 2024-06-07T14:11:24.562Z
+date: 2024-07-16T02:41:25.025Z
+updated: 2024-07-17T02:41:25.025Z
 tags:
   - ai video
   - ai youtube
@@ -18,6 +18,9 @@ thumbnail: https://thmb.techidaily.com/85be9153d8c81024583588a94ed9e00fc880777ac
 
 # The 12-step YouTube SEO Guide for Beginners Who Want More Views
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
 ##### Shanoon Cox
@@ -38,6 +41,9 @@ Ready?
 
 Let’s Go!
 
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 1: Research Your Topic and Competitors
 
 [Come up with a video idea](https://tools.techidaily.com/wondershare/filmora/download/). Can’t come up with one? Let me help. I heard you can make a mean scrambled egg, why don’t you show the world how you do it?
@@ -50,6 +56,9 @@ Wait, don’t go making the video yet. First, we have to do some research. We ne
 
 Do a quick search on YouTube to see what videos already exist on your topic.
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Find Related Videos Sample](https://images.wondershare.com/filmora/article-images/find-related-videos.jpg)
 
 Uh oh… your video will be competing against celebrities like Gordon Ramsay and Jamie Oliver.
@@ -80,15 +89,27 @@ Now that we’ve decided that we are sticking with the video idea, we are ready 
 
 Come up with as many relevant keywords as you can. Start by entering a keyword into the YouTube search bar. This will tell you what are the most popular searches associated with that keyword:
 
-Once you have an idea of what people are searching for related to your topic, you’ll want to find more relevant keywords. I like to use the free app, [Ubersuggest](https://neilpatel.com/ubersuggest/)to do that.
+Once you have an idea of what people are searching for related to your topic, you’ll want to find more relevant keywords. I like to use the free app, [Ubersuggest](https://neilpatel.com/ubersuggest/) to do that.
 
+<!-- affiliate ads begin -->
+<span id="1997795">
+					<video width="250" height="250" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Find Keywords with Ubersuggest](https://images.wondershare.com/filmora/article-images/keyword-seo-tool-ubersuggest.jpg)
 
 This app gives you a whole list of long-tail keywords, which are 3-4-word phrases which is specific to what your video is about.
 
 Some you will use to dig deeper in and other you will deem irrelevant to your videos. A good way of determining the value of a keyword is by the stats the application shows.
 
-![ Keywords in Ubersuggest](https://images.wondershare.com/filmora/article-images/find-keywords-with-ubersuggest.jpg)
+![Keywords in Ubersuggest](https://images.wondershare.com/filmora/article-images/find-keywords-with-ubersuggest.jpg)
 
 ####  
 
@@ -156,6 +177,9 @@ Have the specific keywords at the top, followed by more general keywords, and th
 
 **Branded**: Gordon Ramsay scrambled eggs
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 2: Make The Best Darn Video Possible
 
 It doesn’t matter how relevant your keywords are or how epic your title is, if you video sucks (i.e. your viewers click in and leave right away), YouTube will not show it in search.
@@ -198,13 +222,16 @@ You could have made a brilliant video, but if you have a poor quality thumbnail 
 
 Your viewers will absolutely judge your video by its cover so it’s important to put some thought into it and not solely rely on the three random thumbnail choices that YouTube picks for you.
 
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Design a Thumbnail](https://images.wondershare.com/filmora/article-images/design-youtube-video-thumbnail.jpg)
 
 Take a look at your competition. If they all look the same, do something different. Add text or a human face (preferably yours) to evoke emotion, as viewers are more likely to click into a video if they see an expressive image.
 
 Don’t want to pay money for a photo editing software such as Photoshop?
 
-You can use an online service called [Canva](https://www.canva.com/)or download [GIMP](https://www.gimp.org/), an open-source photo editor much like Photoshop, but far less powerful. These will help you get the job done as you are starting out.
+You can use an online service called [Canva](https://www.canva.com/) or download [GIMP](https://www.gimp.org/), an open-source photo editor much like Photoshop, but far less powerful. These will help you get the job done as you are starting out.
 
 Want to know more thumbnail maker? Check our picks of the [best free YouTube thumbnail makers](https://tools.techidaily.com/wondershare/filmora/download/).
 
@@ -220,6 +247,9 @@ Come on, keep going!
 
 The video is done, the thumbnail is designed, and you have all your title, description, and tags ready to go. This step is easy, upload the video, and fill out the assets, and give yourself a pat on the back.
 
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Fill Out Your Videos Assets](https://images.wondershare.com/filmora/article-images/creator-stuido-fill-out-video-assets.jpg)
 
 #### Step 11: Add Transcripts
@@ -263,6 +293,9 @@ Follow @Shanoon Cox
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
+<!-- affiliate ads begin -->
+<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Discovering the Top 5 Smarter URL Lengtheners for YouTube
 
 # Top 5 YouTube Link Shortener You Must Try in 2024
@@ -291,6 +324,9 @@ Another big advantage of shortened links is their usability of social platforms 
 
 **_Price:_** _Free_
 
+<!-- affiliate ads begin -->
+<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
+<!-- affiliate ads end -->
 ![y2u-poster](https://images.wondershare.com/y2u-poster.jpg)
 
 Y2U is a web-based platform that helps its user to convert long Youtube links into small and shareable links. It is a simple and easy-to-use Youtube link shortener. It converts the link into three forms, a short link, a very short link, and a QR code. You can use any of these links to share it with your friends or share it on social media platforms such as Facebook and Instagram Bios. It only requires you to paste a Youtube video link directly into this platform and click shorten URL. It allows the users to make their URL worthy to be shared on blogs, Twitter, and chats.
@@ -394,3 +430,61 @@ Follow @Liza Brown
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-apex-list-of-10-unmatched-recorders-for-spotify-playbacks/"><u>[New] 2024 Approved  Apex List of 10 Unmatched Recorders for Spotify Playbacks</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-humble-beginnings-surging-subscribers-and-views-in-youtube-world/"><u>[New] 2024 Approved  From Humble Beginnings  Surging Subscribers & Views in Youtube World</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-zero-to-hero-youtube-intro-wonders-with-imovie/"><u>[New] 2024 Approved  From Zero to Hero  YouTube Intro Wonders with iMovie</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-delete-youtube-comments-effortlessly/"><u>[New] 2024 Approved  How to Delete YouTube Comments Effortlessly?</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-finding-your-voice-on-youtube-a-guide-to-selective-audiences-for-2024/"><u>[New] Finding Your Voice on YouTube  A Guide to Selective Audiences for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-first-steps-in-digital-content-top-10-easy-to-make-youtube-projects-for-2024/"><u>[New] First Steps in Digital Content  Top 10 Easy-to-Make YouTube Projects for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-followers-in-motion-analyzer-for-2024/"><u>[New] Followers in Motion Analyzer for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-forge-partnerships-from-initial-contact-to-final-deal-on-youtube/"><u>[New] Forge Partnerships  From Initial Contact to Final Deal on Youtube</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-from-camera-to-chrome-youtube-shorts-video-upload-guide-for-2024/"><u>[New] From Camera to Chrome  YouTube Shorts Video Upload Guide for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-from-raw-to-refined-your-guide-to-youtube-video-edits-for-2024/"><u>[New] From Raw to Refined  Your Guide to YouTube Video Edits for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-giggle-genesis-conceptualizing-7-funny-youtube-sessions-for-2024/"><u>[New] Giggle Genesis  Conceptualizing 7 Funny YouTube Sessions for 2024</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-how-to-capture-stellar-tiktoks-with-ease-and-flair-for-2024/"><u>[New] How to Capture Stellar TikToks with Ease and Flair for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-how-to-protectively-download-youtube-audio-without-fear-for-2024/"><u>[New] How to Protectively Download YouTube Audio Without Fear for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-dominate-youtube-with-these-strategic-freefire-video-hashtags/"><u>[New] In 2024, Dominate YouTube with These Strategic FreeFire Video Hashtags</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-framemorph-editor/"><u>[New] In 2024, FrameMorph Editor</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-raw-footage-to-youtube-a-step-by-step-process-unveiled/"><u>[New] In 2024, From Raw Footage to YouTube  A Step-by-Step Process Unveiled</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-guidance-for-effortless-addition-of-youtube-playlists-to-your-site/"><u>[New] In 2024, Guidance for Effortless Addition of YouTube Playlists to Your Site</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-live-without-the-temptation-of-youtube-shorts/"><u>[New] In 2024, How To Live Without the Temptation of YouTube Shorts</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-swiftly-excise-your-youtube-comment-spam/"><u>[New] In 2024, How to Swiftly Excise Your Youtube Comment Spam</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-virtual-warrior-written-by-chelsea-boucher-phd-for-2024/"><u>[New] Virtual Warrior' Written by Chelsea Boucher, PhD for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-100plus-gaming-channel-names-for-every-gamer-filmora-for-2024/"><u>[Updated] 100+ Gaming Channel Names for Every Gamer - Filmora for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-free-access-worlds-biggest-youtube-short-downloaders/"><u>[Updated] 2024 Approved  Free Access  World’s Biggest YouTube Short Downloaders</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-raw-footage-to-final-cut-youtube-studio-edition/"><u>[Updated] 2024 Approved  From Raw Footage to Final Cut  YouTube Studio Edition</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-growth-by-numbers-tapping-into-youtube-analytics-power/"><u>[Updated] 2024 Approved  Growth by Numbers  Tapping Into YouTube Analytics Power</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-use-a-tripod-for-vlogging/"><u>[Updated] 2024 Approved  How To Use a Tripod for Vlogging</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-from-bare-walls-to-full-screens-10-fixes-for-no-video-views-for-2024/"><u>[Updated] From Bare Walls to Full Screens  10 Fixes for No Video Views for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-gearing-up-for-youtube-success-cross-platform-strategies-for-2024/"><u>[Updated] Gearing Up for YouTube Success  Cross-Platform Strategies for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-hacks-create-youtube-shorts-thumbnails-that-stand-out-quickly-for-2024/"><u>[Updated] Hacks  Create YouTube Shorts Thumbnails That Stand Out Quickly for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-high-quality-hurdles-navigating-youtubes-policies-for-4k-submissions-for-2024/"><u>[Updated] High-Quality Hurdles  Navigating YouTube's Policies for 4K Submissions for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-how-secure-is-subforsup-to-expand-your-youtube-community-safely-in-2024/"><u>[Updated] How Secure Is Subforsup to Expand Your YouTube Community Safely, In 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-choose-the-best-free-introduction-maker-for-2024/"><u>[Updated] How to Choose the Best Free Introduction Maker for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-get-free-views-on-youtube-2-easy-ways-for-2024/"><u>[Updated] How to Get Free Views on YouTube [2 Easy Ways] for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-10-free-youtube-thumbnail-downloaderssavers-online/"><u>[Updated] In 2024, 10 Free YouTube Thumbnail Downloaders/Savers Online</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-frame-by-frame-the-smartphone-storytellers-path-to-youtubes-thumbnails/"><u>[Updated] In 2024, Frame by Frame  The Smartphone Storyteller's Path to YouTubes Thumbnails</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-free-audio-treasures-to-amplify-youtube/"><u>[Updated] In 2024, Free Audio Treasures to Amplify YouTube</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-video-content-to-cash-flow-youtubes-profit-mechanics/"><u>[Updated] In 2024, From Video Content to Cash Flow  YouTube's Profit Mechanics</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-zero-to-youtube-pros-creating-an-account-rightly/"><u>[Updated] In 2024, From Zero to YouTube Pros  Creating an Account Rightly</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-harmony-haven-our-selection-of-the-top-20-musical-channels-on-youtube/"><u>[Updated] In 2024, Harmony Haven  Our Selection of the Top 20 Musical Channels on YouTube</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-convert-youtube-views-into-cash-through-ads/"><u>[Updated] In 2024, How to Convert YouTube Views Into Cash Through Ads</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-make-youtube-animated-subscribe-button-easily-in-filmora/"><u>[Updated] In 2024, How to Make YouTube Animated Subscribe Button Easily in Filmora</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-the-ideal-outlet-where-to-post-your-videos-for-2024/"><u>[Updated] The Ideal Outlet  Where to Post Your Videos for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/approved-boost-engagement-with-creative-video-titling-and-tagging-techniques/"><u>2024 Approved  Boost Engagement with Creative Video Titling and Tagging Techniques</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-the-lock-screen-on-my-lava-yuva-2-by-drfone-android-unlock-android-unlock/"><u>How to Unlock the Lock Screen on my Lava Yuva 2</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-delete-icloud-account-on-apple-iphone-xs-max-without-password-by-drfone-ios/"><u>In 2024, How to Delete iCloud Account On Apple iPhone XS Max without Password?</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/motorola-moto-e13-screen-unresponsive-heres-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Motorola Moto E13 Screen Unresponsive? Heres How to Fix It | Dr.fone</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-in-2024-the-aiff-converter-handbook-features-reviews-and-comparisons/"><u>New In 2024, The AIFF Converter Handbook Features, Reviews, and Comparisons</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-missing-msvcrt120dll-on-your-computer/"><u>Overcoming Missing Msvcrt120dll on Your Computer</u></a></li>
+<li><a href="https://win11.techidaily.com/protocols-to-enter-windows-administrative-hub/"><u>Protocols to Enter Windows' Administrative Hub</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/safe-no-cost-methods-for-youtube-tracks-extraction-for-2024/"><u>Safe, No-Cost Methods for YouTube Tracks Extraction for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/unique-ways-to-document-your-console-games/"><u>Unique Ways to Document Your Console Games</u></a></li>
+<li><a href="https://animation-videos.techidaily.com/updated-2024-approved-(https-imageswondersharecomfilmoraarticle-imagesfilmora9-website)/"><u>Updated 2024 Approved <Https //images.wondershare.com/filmora/article-images/filmora9-website></u></a></li>
+<li><a href="https://animation-videos.techidaily.com/updated-christmas-is-coming-how-to-find-and-make-animated-christmas-gifs-for-2024/"><u>Updated Christmas Is Coming! How to Find & Make Animated Christmas GIFs for 2024</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-in-2024-embed-audio-elements-in-avid-media-composer/"><u>Updated In 2024, Embed Audio Elements in Avid Media Composer</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-in-2024-tactile-audio-hunt-finding-the-click-and-clack-of-digital-interactions/"><u>Updated In 2024, Tactile Audio Hunt Finding the Click and Clack of Digital Interactions</u></a></li>
+</ul></div>

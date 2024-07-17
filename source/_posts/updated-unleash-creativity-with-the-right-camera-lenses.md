@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Unleash Creativity with the Right Camera Lenses"
-date: 2024-06-06T15:55:07.655Z
-updated: 2024-06-07T15:55:07.655Z
+date: 2024-07-16T05:17:07.027Z
+updated: 2024-07-17T05:17:07.027Z
 tags:
   - ai video
   - ai youtube
@@ -40,6 +40,9 @@ In this article, I’m going to help you figure that out.
 * [Part 6: Vlogging With a Fast Lens](#VloggingWithAFastLens)
 * [Part 7: Optical Image Stabilization](#OpticalImageStabilization)
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Three Focal Length Groups: Wide, Standard, Telephoto
 
 There are three main ranges in focal lengths that camera lenses can be categorized into wide, standard, and telephoto.
@@ -86,6 +89,9 @@ Focal lengths in camera lenses are measured in millimeters. You can vlog yoursel
 
  In order to make up for the cropping that occurs, you will need to use a wider lens on cameras with smaller sensors to get the same shot you’d get with a full-frame camera.
 
+<!-- affiliate ads begin -->
+<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Focal Length Equivalency Table
 
 This table shows you the focal lengths needed to achieve the same shot between cameras with different sensor sizes. In order to take a shot as wide as the shot I took of myself with the 24mm lens on my full-frame camera, I would need a 15mm lens on an APS-C sensor camera or a 12mm lens on a micro 4/3 camera.
@@ -103,10 +109,16 @@ This table shows you the focal lengths needed to achieve the same shot between c
 
 ### Aperture
 
+<!-- affiliate ads begin -->
+<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  ![Camera lenses Aperture](https://images.wondershare.com/filmora/article-images/camera-lenses-aperture.jpg)
 
  The next thing to consider when you’re looking for a lens is the aperture, the hole (often adjustable) within the lens that lets light in. Aperture for camera lenses is measured in f-stops (f/1.4, f/1.8, f/2.0) - the smaller the f-stop number, the larger the aperture (bigger hole letting even more light in).
 
+<!-- affiliate ads begin -->
+<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  ![Camera lenses Aperture Range](https://images.wondershare.com/filmora/article-images/camera-lenses-aperture-range.png)
 
  Because larger aperture lenses let more light in, they need a shorter time for cameras to compose an image. This is why larger aperture lenses are also called “fast” lenses.
@@ -129,6 +141,9 @@ But do you even need a fast lens?
 * Moving subjects more likely to get out of focus when shooting with a large aperture
 * Better continuous autofocus performance needed when shooting moving subjects with a large aperture
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ### Optical Image Stabilization
 
 Finally, you’ll have to decide whether or not you want your lens to have built-in optical image stabilization (OIS).
@@ -141,6 +156,9 @@ If, however, you are shooting most of your vlogs on a tripod, you won’t need a
 
  Looking for ways to set up your talking-head shot for YouTube with any of these lenses? Check out our post on [4 Ways To Set Up Your Talking-Head Shots For YouTube](https://tools.techidaily.com/wondershare/filmora/download/).
 
+<!-- affiliate ads begin -->
+<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 Richard Bennett
@@ -157,3 +175,44 @@ Follow @Richard Bennett
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-fast-tip-mastering-green-screen-techniques/"><u>[New] 2024 Approved  Fast Tip  Mastering Green Screen Techniques</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-free-professional-youtuber-backgrounds/"><u>[New] 2024 Approved  Free Professional YouTuber Backgrounds</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-capture-to-air-expert-tips-for-streaming-upside-down-videos-on-youtube/"><u>[New] 2024 Approved  From Capture to Air  Expert Tips for Streaming Upside-Down Videos on Youtube</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-fullscreen-partnership-how-to-choose-an-mcn/"><u>[New] 2024 Approved  Fullscreen Partnership  How to Choose An MCN</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-get-noticed-on-youtube-the-ultimate-list-of-freefire-tag-tips/"><u>[New] 2024 Approved  Get Noticed on YouTube  The Ultimate List of FreeFire Tag Tips</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-harness-youtube-movie-maker-for-impactful-videos/"><u>[New] 2024 Approved  Harness YouTube Movie Maker for Impactful Videos</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-harnessing-the-benefits-with-creative-commons-licenses/"><u>[New] 2024 Approved  Harnessing the Benefits with Creative Commons Licenses</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-save-money-with-the-right-youtube-tv-plan/"><u>[New] 2024 Approved  How to Save Money with the Right YouTube TV Plan</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-mastering-your-videos-top-youtube-friendly-cameras/"><u>[New] 2024 Approved  Mastering Your Videos  Top YouTube-Friendly Cameras</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-top-10plus-best-free-online-screen-recorders/"><u>[New] 2024 Approved  Top 10+ Best Free Online Screen Recorders</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-finding-and-exploring-your-own-music-selection-zone-on-youtube-for-2024/"><u>[New] Finding and Exploring Your Own Music Selection Zone on Youtube for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-from-footage-to-feature-making-youtube-thumbnails-mobile-for-2024/"><u>[New] From Footage to Feature  Making YouTube Thumbnails (Mobile) for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-from-stream-to-screen-how-to-download-youtube-on-iphoneipad-for-2024/"><u>[New] From Stream to Screen  How to Download Youtube on iPhone/iPad for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-from-unknown-to-famous-boosting-video-views-on-youtube-step-by-step-for-2024/"><u>[New] From Unknown to Famous  Boosting Video Views on YouTube Step-by-Step for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-gamified-design-making-your-youtube-banner-unforgettable-for-2024/"><u>[New] Gamified Design  Making Your YouTube Banner Unforgettable for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-get-premium-banners-no-cost-just-click-for-2024/"><u>[New] Get Premium Banners - No Cost, Just Click for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-gourmet-gurus-who-you-should-subscribe-to-for-2024/"><u>[New] Gourmet Gurus  Who You Should Subscribe To for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-harnessing-creative-energy-for-impactful-lyric-videos-and-lyric-video-maker-for-2024/"><u>[New] Harnessing Creative Energy for Impactful Lyric Videos & Lyric Video Maker for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-how-to-mix-text-and-video-on-a-shoestring-budget-for-2024/"><u>[New] How to Mix Text & Video on a Shoestring Budget for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-how-to-share-a-private-youtube-video-with-google-account-for-2024/"><u>[New] How to Share a Private YouTube Video with Google Account for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-how-to-turn-a-minute-into-millions-maximizing-viewership-for-youtubers-for-2024/"><u>[New] How to Turn a Minute Into Millions  Maximizing Viewership for YouTubers for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-find-friends-in-fandoms-forums/"><u>[New] In 2024, Find Friends in Fandom's Forums</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-free-visual-templates-to-upgrade-your-profile/"><u>[New] In 2024, Free Visual Templates to Upgrade Your Profile</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-zero-to-hero-youtube-setup-growth-and-profit-strategies/"><u>[New] In 2024, From Zero to Hero  YouTube Setup, Growth & Profit Strategies</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-live-stream-on-youtube-gaming/"><u>[New] In 2024, How to Live Stream on YouTube Gaming?</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-the-ultimate-guide-to-best-in-class-racing-games/"><u>[New] The Ultimate Guide to Best-in-Class Racing Games</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-ultimate-list-legal-game-music-sources/"><u>[New] The Ultimate List  Legal Game Music Sources</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-forging-strategic-alliances-on-youtube-through-famebit-wisdom/"><u>[Updated] 2024 Approved  Forging Strategic Alliances on YouTube Through FameBit Wisdom</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-free-youtube-subtitled-content-download-without-paying/"><u>[Updated] 2024 Approved  Free YouTube Subtitled Content  Download Without Paying</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-freeing-up-youtube-views-no-more-grey-lines/"><u>[Updated] 2024 Approved  Freeing Up YouTube Views  No More Grey Lines</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-in-2024-optimizing-your-podcasts-rss-feed-performance-and-structure/"><u>[Updated] In 2024, Optimizing Your Podcast's RSS Feed Performance and Structure</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/best-free-video-editors-for-windows-imovie-equivalent-options-for-2024/"><u>Best Free Video Editors for Windows IMovie Equivalent Options for 2024</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-samsung-by-drfone-android/"><u>In 2024, AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your Samsung</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/in-2024-does-find-my-friends-work-on-infinix-hot-30-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Does find my friends work on Infinix Hot 30 5G | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-bypass-apple-iphone-14-plus-passcode-easily-video-inside-by-drfone-ios/"><u>In 2024, How to Bypass Apple iPhone 14 Plus Passcode Easily Video Inside</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-should-you-buy-videopad-video-editor-a-honest-review-and-analysis/"><u>New Should You Buy Videopad Video Editor? A Honest Review and Analysis</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/premium-audio-modification-gadgets-for-youtube-go-getters-for-2024/"><u>Premium Audio Modification Gadgets for YouTube Go-Getters for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/windows-10-screenshake-problem-solved/"><u>Windows 10 Screenshake - Problem Solved</u></a></li>
+</ul></div>

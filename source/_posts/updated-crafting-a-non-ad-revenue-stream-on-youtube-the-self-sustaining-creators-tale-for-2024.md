@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Crafting a Non-Ad Revenue Stream on YouTube  The Self-Sustaining Creator’s Tale for 2024\""
-date: 2024-06-06T16:31:10.543Z
-updated: 2024-06-07T16:31:10.543Z
+date: 2024-07-16T06:11:30.150Z
+updated: 2024-07-17T06:11:30.150Z
 tags:
   - ai video
   - ai youtube
@@ -38,7 +38,7 @@ Over thousands of hours of content are uploaded on YouTube every day and people 
 
 ## **What is the YouTube Partner Program (YPP)?**
 
-[YPP enables YouTubers to make money from an advertisement](https://www.filmora.io/community-blog/youtube-monetization---the-ultimate-guide-to-ad-revenue-422.html)that appears before or during their videos.
+[YPP enables YouTubers to make money from an advertisement](https://www.filmora.io/community-blog/youtube-monetization---the-ultimate-guide-to-ad-revenue-422.html) that appears before or during their videos.
 
 ## **How Much Money Can YouTubers Make from Ads?**
 
@@ -58,7 +58,7 @@ This is a general estimate of how much a YouTuber can make from ads once they qu
 
 For new YouTubers, it is getting harder and harder to get to that point where their sole income can be from YouTube ads. Before they can make a penny, they must first qualify.
 
-#### **Monetization Rules (**[**as of January 2018**](https://techcrunch.com/2018/01/16/youtube-tightens-rukles/)**):**
+#### **Monetization Rules (** **as of January 2018**
 
 \- Creators need 1,000 subscribers and 4,000 hours of view time in 12 months before they can turn on monetization
 
@@ -86,9 +86,9 @@ Here are some examples of products and services you can offer:
 
 \- Channel/brand merchandise
 
- ![YouTuber Jake Paul ](https://images.wondershare.com/filmora/article-images/jack-paul1.jpg)
+ ![YouTuber Jake Paul](https://images.wondershare.com/filmora/article-images/jack-paul1.jpg)
 
-_YouTuber, Jake Paul uses eCommerce platform_ [_Fanjoy_](https://fanjoy.co/collections/)_to sell his merch._
+_YouTuber, Jake Paul uses eCommerce platform_ [_Fanjoy_](https://fanjoy.co/collections/) _to sell his merch._
 
 #### **Services:**
 
@@ -100,6 +100,9 @@ _YouTuber, Jake Paul uses eCommerce platform_ [_Fanjoy_](https://fanjoy.co/colle
 
 \- Performance/Speaking Opportunities (motivational speaker, musician, etc.)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
  ![YouTuber Sunny Lenarduzzi](https://images.wondershare.com/filmora/article-images/sunny-lenarduzzi2.jpg)
 
 _YouTuber and entrepreneur, Sunny Lenarduzzi uses YouTube as a platform to get clients for her consulting business._
@@ -116,7 +119,7 @@ If you are selling a meditation eBook and guided meditation services, type in so
 
 ![meditation](https://images.wondershare.com/filmora/article-images/meditation3.png)
 
-From there, take your possible keywords and put them into a tool such as [Ubersuggest](https://neilpatel.com/ubersuggest/)to find other related keywords. This will help you create discoverable content that will catch the interest of those who will buy what you are selling.
+From there, take your possible keywords and put them into a tool such as [Ubersuggest](https://neilpatel.com/ubersuggest/) to find other related keywords. This will help you create discoverable content that will catch the interest of those who will buy what you are selling.
 
  **2\. Your content must have value:** You cannot start with the Call to Action or try selling to your audience right away. You must first build trust and prove that what you are selling has value.
 
@@ -130,18 +133,30 @@ The video is over 9 minutes long and not once does he tell his audience to buy a
 
 **Link in the description box:**
 
+<!-- affiliate ads begin -->
+
+<!-- affiliate ads end -->
 ![link in the description box](https://images.wondershare.com/filmora/article-images/link-in-description-box4.jpg)
 
 **The YouTube Card:**
 
+<!-- affiliate ads begin -->
+<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![youtube card tutorial](https://images.wondershare.com/filmora/article-images/youtube-card-tutorial5.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![youtube card details](https://images.wondershare.com/filmora/article-images/youtube-card-details6.jpg)
 
 You can add one or multiple cards to direct viewers to your website or to another related video.
 
  **Call to action button:**
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 **![call to action button](https://images.wondershare.com/filmora/article-images/call-to-action-button7.jpg)**
 
 Once the viewer is on your website, make sure the path is apparent as well. Have a clear call to action somewhere on your website. This is where your viewers become customers.
@@ -156,6 +171,9 @@ Lilly Singh did not start a YouTube channel to sell her book, [_How to Be a Baws
 
 For example, [Remi Cruz](https://www.youtube.com/watch?v=Uke6eXzgjQQ), a YouTuber with over 2.2 million subscribers. Remi created a beauty brand and DIY face mask, [Honey Pop](https://shophoneypop.com/), which could only have happened after taking the time to understand her supportive audience.
 
+<!-- affiliate ads begin -->
+<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## **2\. Affiliate Marketing:**
 
 Businesses know that there are more eyes watching YouTube than ever — behind Google, YouTube is the second most popular place for people researching what to buy — and influencers and reviews are an effective method of getting sales. You can leverage that by participating in affiliate marketing as a YouTuber.
@@ -168,7 +186,7 @@ The average affiliate commission rate is between 5% to 30%, with a lot of variab
 
 ![affiliate links](https://images.wondershare.com/filmora/article-images/affiliat-link8.jpg)
 
-_Travel YouTuber,_ [_Sorelle Amore_](https://www.youtube.com/user/SorelleIAm)_’s affiliate links to her vlogging gears._
+_Travel YouTuber,_ [_Sorelle Amore_](https://www.youtube.com/user/SorelleIAm) _’s affiliate links to her vlogging gears._
 
  Keep in mind that people are most likely going to take recommendations from people they trust. You wouldn’t buy a computer from a nutritionist and you wouldn’t buy vitamins from a gamer, so consider what you are an expert in and what products you have the most authority to speak about.
 
@@ -204,8 +222,11 @@ Here is the list of 4 popular affiliate marketing networks:
 
 \- [PeerFly](https://peerfly.com/)
 
-You can also partner with brands directly as many of them, such as [Sephora](https://www.sephora.com/affiliates)and [Canon](https://shop.usa.canon.com/shop/en/catalog/affiliate-program), will have their own affiliate program.
+You can also partner with brands directly as many of them, such as [Sephora](https://www.sephora.com/affiliates) and [Canon](https://shop.usa.canon.com/shop/en/catalog/affiliate-program), will have their own affiliate program.
 
+<!-- affiliate ads begin -->
+<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<!-- affiliate ads end -->
 ## **3\. Brand Deal or Sponsorships:**
 
 Selling out, that is often the thought when we hear creators getting brand deals and sponsorships, but that stigma is unfounded if the brand and the content are properly aligned. As your channel grows, you will begin to recognize brands that match your values — and the values of your viewers — and those that don’t.
@@ -241,6 +262,9 @@ Steps to getting a brand deal:
 
  Unlike celebrity marketing, YouTube creators have shown brands over the years that they are inventive and clever with how they can present the brand to the audience to drive the best results. This type of independence is what makes YouTube influencer marketing special.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ##  
 
 ## **4\. Crowdfunding:**
@@ -257,7 +281,7 @@ But how can you approach crowdfunding so it doesn’t look like you are begging?
 
 \- **Project-based:**  Is there a special project you have in mind, get support for it. A longer-form video or one that your fans have been wanting for a while, by highlighting this anticipated project, you can get more backing behind it financially.
 
- From Sept-Oct 2011, the YouTube channel Freddiew (aka RocketJump) went on [Kickstarter to crowdfund](https://www.kickstarter.com/projects/freddiew/video-game-high-school)so they can produce a web series called Video Game High School. In 30 days, they were able to surpass their goal of $75,000 with $273,725 and 5,661 backers. The result is a multiple season web series, the first one published onto YouTube in May 2012.
+ From Sept-Oct 2011, the YouTube channel Freddiew (aka RocketJump) went on [Kickstarter to crowdfund](https://www.kickstarter.com/projects/freddiew/video-game-high-school) so they can produce a web series called Video Game High School. In 30 days, they were able to surpass their goal of $75,000 with $273,725 and 5,661 backers. The result is a multiple season web series, the first one published onto YouTube in May 2012.
 
  Without crowdfunding, the project would unlikely have been produced and published for viewers in such a short amount of time.
 
@@ -275,7 +299,7 @@ If you have a pie in the sky goal, you aren’t going to fully leverage the mess
 
 #### **How Does Patreon Work for YouTubers?**
 
-When it comes to crowdfunding for YouTubers, [Patreon](https://www.patreon.com/)is the platform of choice. While other platforms such as Kickstarter or GoFundMe are focused on entrepreneurial pursuits, large projects, or charitable causes, Patreon is designed to support creatives and reward and incentivize donors.
+When it comes to crowdfunding for YouTubers, [Patreon](https://www.patreon.com/) is the platform of choice. While other platforms such as Kickstarter or GoFundMe are focused on entrepreneurial pursuits, large projects, or charitable causes, Patreon is designed to support creatives and reward and incentivize donors.
 
 ## **Key Takeaways:**
 
@@ -304,3 +328,58 @@ Follow @Richard Bennett
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-focus-on-the-essentials-the-compreenas-for-removing-youtube-channels/"><u>[New] 2024 Approved  Focus on the Essentials  The Compreenas for Removing Youtube Channels</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-gender-diversity-in-streaming-celebrating-top-10-females/"><u>[New] 2024 Approved  Gender Diversity in Streaming  Celebrating Top 10 Females</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-high-quality-video-capture-for-beginner-creators/"><u>[New] 2024 Approved  High-Quality Video Capture for Beginner Creators</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-hit-the-jackpot-of-humor-craft-top-tier-youtube-reaction-videos-3-techniques/"><u>[New] 2024 Approved  Hit the Jackpot of Humor – Craft Top-Tier YouTube Reaction Videos (3 Techniques)</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-hitting-high-notes-enhance-your-youtube-content-with-music-edits/"><u>[New] 2024 Approved  Hitting High Notes  Enhance Your YouTube Content with Music Edits</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-add-captions-to-youtube-videos/"><u>[New] 2024 Approved  How To Add Captions to YouTube Videos</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-convert-youtube-videos-to-gifs/"><u>[New] 2024 Approved  How to Convert YouTube Videos to GIFs</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-get-people-to-subscribe-by-asking-the-right-way/"><u>[New] 2024 Approved  How to Get People to Subscribe by Asking the Right Way</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-from-novice-to-vlogger-the-top-10-editing-techniques-for-2024/"><u>[New] From Novice to Vlogger  The Top 10 Editing Techniques for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-from-raw-to-masterpiece-the-premier-free-mobile-editors-for-android-for-2024/"><u>[New] From Raw to Masterpiece  The Premier Free Mobile Editors for Android for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-from-selfie-to-sensation-vloggers-choice-of-top-9-camera-accessories-for-2024/"><u>[New] From Selfie to Sensation  Vloggers' Choice of Top 9 Camera Accessories for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-global-leaderboard-top-subscribers-by-youtube-star-for-2024/"><u>[New] Global Leaderboard  Top Subscribers by YouTube Star for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-guardians-of-the-most-watched-youtube-edition-for-2024/"><u>[New] Guardians of the Most Watched  YouTube Edition for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-guiding-imovie-content-from-home-studio-to-youtube-hub-for-2024/"><u>[New] Guiding iMovie Content From Home Studio to YouTube Hub for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-how-to-get-more-video-views-on-youtube-for-2024/"><u>[New] How To Get More Video Views on YouTube for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-how-to-make-killer-youtube-channel-art-for-2024/"><u>[New] How to Make Killer YouTube Channel Art for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-audio-to-action-mp3-to-youtube-conversion-journey/"><u>[New] In 2024, From Audio to Action  MP3-to-YouTube Conversion Journey</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-basic-to-breakthrough-a-youtube-live-thumbnail-journey/"><u>[New] In 2024, From Basic to Breakthrough  A YouTube Live Thumbnail Journey</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-zero-to-hero-youtube-tech-required/"><u>[New] In 2024, From Zero to Hero  YouTube Tech Required</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-guide-to-incorited-visuals-in-text-without-cost/"><u>[New] In 2024, Guide to Incorited Visuals in Text Without Cost</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-hire-harmony-a-collection-of-inspirational-clips/"><u>[New] In 2024, Hire Harmony  A Collection of Inspirational Clips</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-convert-youtube-views-into-cash-through-ads/"><u>[New] In 2024, How to Convert YouTube Views Into Cash Through Ads</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-in-depth-assessment-photo-editing-tool-for-creatives/"><u>[New] In-Depth Assessment  Photo Editing Tool for Creatives</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-transition-magic-quick-fade-tactics-for-2024/"><u>[New] Transition Magic  Quick Fade Tactics for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-flv-file-symphony-creating-a-single-youtube-playlist/"><u>[Updated] 2024 Approved  FLV File Symphony  Creating a Single YouTube Playlist</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-flv-to-youtube-unveiling-the-top-10-tools-for-video-conversion/"><u>[Updated] 2024 Approved  FLV to YouTube  Unveiling the Top 10 Tools for Video Conversion</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-iciness-to-comfort-five-warm-backdrops-ideas/"><u>[Updated] 2024 Approved  From Iciness to Comfort  Five Warm Backdrops Ideas</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-vlogs-to-virality-jake-paul-the-online-phenomenon/"><u>[Updated] 2024 Approved  From Vlogs to Virality  Jake Paul, the Online Phenomenon</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-guide-to-producing-effective-youtube-promo-videos/"><u>[Updated] 2024 Approved  Guide to Producing Effective YouTube Promo Videos</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-harness-your-view-count-cross-platform-studio-methods/"><u>[Updated] 2024 Approved  Harness Your View Count  Cross-Platform Studio Methods</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-build-successful-youtube-advertisements-for-free/"><u>[Updated] 2024 Approved  How to Build Successful YouTube Advertisements for Free?</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-brilliance-in-display-top-5-for-grading-professionals/"><u>[Updated] Brilliance in Display  TOP 5 for Grading Professionals</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-discover-world-wonders-with-these-top-10-videos-for-2024/"><u>[Updated] Discover World Wonders with These Top 10 Videos for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-from-raw-to-refined-youtube-thumbnail-creation-for-mobile-users-for-2024/"><u>[Updated] From Raw to Refined  YouTube Thumbnail Creation for Mobile Users for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-frontier-makers-of-harmonized-audio-visual-experiences-for-2024/"><u>[Updated] Frontier Makers of Harmonized Audio-Visual Experiences for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-historical-insights-from-youtubes-top-10-vlogs-for-2024/"><u>[Updated] Historical Insights From YouTube's Top 10 Vlogs for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-create-youtube-intros-and-end-cards-free-and-easy-for-2024/"><u>[Updated] How to Create YouTube Intros & End Cards - Free and Easy for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-make-your-videos-a-youtube-hit-top-tips-and-strategies-for-2024/"><u>[Updated] How To Make Your Videos a YouTube Hit  Top Tips and Strategies for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-fixing-shorts-the-thumbnail-not-showing-dilemma/"><u>[Updated] In 2024, Fixing Shorts  The Thumbnail Not Showing Dilemma</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-frame-by-frame-verbalizer/"><u>[Updated] In 2024, Frame by Frame Verbalizer</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-raw-to-refined-expert-techniques-for-youtube-content-creators/"><u>[Updated] In 2024, From Raw to Refined  Expert Techniques for YouTube Content Creators</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-viewers-to-earnings-youtube-earning-basics/"><u>[Updated] In 2024, From Viewers to Earnings  YouTube Earning Basics</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-create-endless-video-on-iphone/"><u>[Updated] In 2024, How-To  Create Endless Video on iPhone</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-presentation-mastery-8-top-screen-record-comparisons/"><u>[Updated] Presentation Mastery 8  Top Screen Record Comparisons</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-edit-with-ease-embracing-smoothness-on-the-latest-chip-technology/"><u>2024 Approved  Edit with Ease  Embracing Smoothness on the Latest Chip Technology</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/dissecting-magix-photo-pro/"><u>Dissecting MAGIX Photo Pro</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-changefake-your-motorola-g54-5g-location-on-viber-drfone-by-drfone-virtual-android/"><u>How to Change/Fake Your Motorola G54 5G Location on Viber | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-reset-a-samsung-galaxy-f34-5g-phone-that-is-locked-by-drfone-android/"><u>How to Reset a Samsung Galaxy F34 5G Phone that is Locked?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-apple-id-unlock-on-apple-iphone-6s-plus-how-to-fix-it-by-drfone-ios/"><u>In 2024, Apple ID Unlock On Apple iPhone 6s Plus? How to Fix it?</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-free-vs-paid-gaming-entrances-top-12-insights-for-youtube-gamers/"><u>In 2024, Free vs Paid Gaming Entrances  Top 12 Insights for YouTube Gamers</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/linklister-video-grab-from-fb-groups/"><u>LinkLister  Video Grab From FB Groups</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/navigating-the-nuances-of-gamers-channel-templates/"><u>Navigating the Nuances of Gamers' Channel Templates</u></a></li>
+</ul></div>

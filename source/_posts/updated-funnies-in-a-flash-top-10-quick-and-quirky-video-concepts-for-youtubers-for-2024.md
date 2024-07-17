@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Funnies in a Flash  Top 10 Quick & Quirky Video Concepts for YouTubers for 2024\""
-date: 2024-06-06T14:12:12.467Z
-updated: 2024-06-07T14:12:12.467Z
+date: 2024-07-16T02:42:36.321Z
+updated: 2024-07-17T02:42:36.321Z
 tags:
   - ai video
   - ai youtube
@@ -18,6 +18,9 @@ thumbnail: https://thmb.techidaily.com/9f62d3731a8382b4f3dd399792beace27de12660d
 
 # The 10 Funniest YouTube Shorts Video Ideas in 2024
 
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
 ##### Shanoon Cox
@@ -26,10 +29,16 @@ thumbnail: https://thmb.techidaily.com/9f62d3731a8382b4f3dd399792beace27de12660d
 
 YouTube is a well-known brand for videos globally. This time, it comes with its extension feature with YouTube Shorts. It is a short video version of 15 to 60 seconds duration using a short camera present in the YouTube application and your smartphone. So, you can use YouTube Shorts ideas for watching and creating those funny and interesting short videos right from your mobile camera with ease.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![filmora](https://images.wondershare.com/filmora/youtube-shorts-ideas-1.jpg)
 
 That sounds great, doesn’t it? Let’s move ahead to get a good grab over some funny, engaging, and eye-catching ideas to have YouTube Shorts videos here. No need for a lengthy tutorial to become the real YouTube Shorts champion with the following tips. Let’s roll on, guys!
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 1: Top 10 Funny YouTube Shorts Video Ideas
 
 Your wait gets over here. Yes, you heard it right. If you are eager to explore the world of YouTube Shorts Channel and some funny ideas, take a big leap towards your journey.
@@ -64,6 +73,14 @@ Using different online software, you can enhance the pictures or modify the back
 
 Life is indeed full of surprises, events, and glory. Then, why not tailor some of its moments under best YouTube Shorts ideas. These experiences vary from your home, neighbor, society, college, office, or anywhere.
 
+<!-- affiliate ads begin -->
+<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
+<span class="text-ad-content">
+	#1 Rated Parental Control Software.<br/>
+	Monitor & Control all PC Activity!<br/>
+		<cite style="color:green">sentrypc.com/parental-controls/</cite>
+	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![filmora](https://images.wondershare.com/filmora/youtube-shorts-ideas-5.jpg)
 
 You need to keep your judging eyes open to catch all the moments, and you can also note it down to make a series so as not to miss any exciting experience.
@@ -98,6 +115,9 @@ Just give it a try and dance with the music you create with all the worldwide li
 
 Kids love cartoons, but the hidden fact is that everyone enjoys watching cartoon or cartoon characters to a certain extent. Then why not try mimicking some cartoon characters. If you are a fun-loving person, and in your life, you mimic any person’s character, then try mimicking cartoon characters under YouTube Short Video ideas.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![filmora](https://images.wondershare.com/filmora/youtube-shorts-ideas-9.jpg)
 
 Mixing some comedy flavor to life will add more fun and enjoyment to all those seeking funny moments to reflect their days. Come on; show up your humor with this unique style.
@@ -179,10 +199,16 @@ Follow @Shanoon Cox
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## From Script to Screenplay: Expert Video Editing Insights
 
 # How to Edit Youtube Videos by the YouTube Video Editor
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 ##### Richard Bennett
@@ -205,6 +231,9 @@ It's easy to learn and the guide below will give you an introduction for editing
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to edit a YouTube video with Filmora
 
 If you want to have more controls on editing YouTube video, here we recommend using [Filmora](https://tools.techidaily.com/wondershare/filmora/download/).
@@ -237,6 +266,9 @@ To do this, go to the CC tab, find a video and drag it to the timeline.
 
 Looking for best YouTube video editor alternatives? Check this [complete guide here](https://tools.techidaily.com/wondershare/filmora/download/) \>>
 
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
+<!-- affiliate ads end -->
 ### Step 3. Edit the videos as you like
 
 With the YouTube video editor, you can quick fix your videos, add audio track of your video, add texts, use various filters and more. Below is a detailed guide on how to use YouTube video Editor.
@@ -253,6 +285,9 @@ With the YouTube video editor, you can quick fix your videos, add audio track of
 
 To cut or split your video, hover over the target clip and hit the scissor icon to cut the clip into pieces. You can also cursor over the edge of your video in the timeline and drag the handle to shorten or trim your video.
 
+<!-- affiliate ads begin -->
+
+<!-- affiliate ads end -->
 ![youtube video editor](https://images.wondershare.com/topic/video-editing/youtube-video-editor-split.png "youtube video editor trim video")
 
 #### #2 Change video settings
@@ -279,6 +314,9 @@ To add text to video, go to the "Text" tab, tick "Enable text" and enter the tex
 
 YouTube also allows you to swap out the audio with one of its licensed tracks. To do this, go back to the main interface of the editor and click the Audio tab. Then select a song from the library and either drag it to the soundtrack timeline or press the plus sign to the right of each title.
 
+<!-- affiliate ads begin -->
+<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![youtube video editor tip](https://images.wondershare.com/images/multimedia/video-editor/add-music-youtube.jpg)
 
 Note: You should note that some are songs are subject to licensing agreements, which means YouTube will automatically add advertisements to the video clip.
@@ -297,6 +335,9 @@ This desktop video editing tool can help you easily complete video editing tasks
 
 Download it now to have a try!
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
@@ -316,3 +357,36 @@ Follow @Richard Bennett
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-charting-the-course-to-youtube-livestream-mastery/"><u>[New] 2024 Approved  Charting the Course to YouTube Livestream Mastery</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-get-more-video-views-on-youtube/"><u>[New] 2024 Approved  How To Get More Video Views on YouTube</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-a-comprehensive-list-of-the-best-10-low-cost-video-production-schools-on-youtube/"><u>[New] In 2024, A Comprehensive List of the Best 10 Low-Cost Video Production Schools on YouTube</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-chart-new-horizons-in-branding-with-these-top-10-youtube-tools/"><u>[New] In 2024, Chart New Horizons in Branding with These Top 10 YouTube Tools</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-formulating-a-user-friendly-yt-subscribe-hyperlink/"><u>[New] In 2024, Formulating a User-Friendly YT Subscribe Hyperlink</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-in-2024-the-best-tricks-to-make-your-silent-facebook-vids-sing-discover-12-steps/"><u>[New] In 2024, The Best Tricks to Make Your Silent Facebook Vids Sing – Discover 12 Steps</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-unleashing-your-musical-voice-a-compree-play-by-play-guide-for-youtube-playlist-crafting/"><u>[New] Unleashing Your Musical Voice  A Compree Play-by-Play Guide for YouTube Playlist Crafting</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-walking-deadlines-the-ultimate-selection-of-excellent-zombie-games/"><u>[New] Walking Deadlines  The Ultimate Selection of Excellent Zombie Games</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-10-free-legal-chants-and-sounds-for-meditation-practice/"><u>[Updated] 10 Free Legal Chants and Sounds for Meditation Practice</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-final-cut-pro-x-for-instagram-optimizing-vertical-videos/"><u>[Updated] 2024 Approved  Final Cut Pro X for Instagram  Optimizing Vertical Videos</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-comedy-chorus-satirical-song-selections-for-2024/"><u>[Updated] Comedy Chorus  Satirical Song Selections for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-earning-the-big-bucks-as-a-youtube-star-for-2024/"><u>[Updated] Earning the Big Bucks as a YouTube Star for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-step-into-virtual-entertainment-and-gain-notoriety-for-2024/"><u>[Updated] How to Step Into Virtual Entertainment and Gain Notoriety for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-free-high-quality-edits-explore-these-9-cloud-apps/"><u>[Updated] In 2024, Free, High-Quality Edits  Explore These 9 Cloud Apps</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-keep-viewers-coming-back-haul-video-tips-and-tricks/"><u>[Updated] In 2024, How to Keep Viewers Coming Back  Haul Video Tips & Tricks</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-navigate-and-neutralize-your-own-overly-green-spectrum-in-youtube-videos-mac/"><u>[Updated] Navigate and Neutralize Your Own Overly Green Spectrum in YouTube Videos (Mac)</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-navigating-thumbnail-sizes-for-youtube-content-excellence/"><u>[Updated] Navigating Thumbnail Sizes for YouTube Content Excellence</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-score-high-on-youtube-with-these-ranking-factors/"><u>[Updated] Score High on YouTube with These Ranking Factors</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-streamline-your-strategy-with-aspect-ratio-mastery-on-youtube/"><u>[Updated] Streamline Your Strategy with Aspect Ratio Mastery on YouTube</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/boosting-your-content-a-guide-to-instagram-video-fame-for-2024/"><u>Boosting Your Content  A Guide to Instagram Video Fame for 2024</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/bush-bandy-speak-learn-local-sayings-quickly/"><u>Bush Bandy Speak: Learn Local Sayings Quickly</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/explore-the-top-10-websites-for-no-fee-images/"><u>Explore the Top 10 Websites for No-Fee Images</u></a></li>
+<li><a href="https://android-location.techidaily.com/how-to-fake-gps-on-android-without-mock-location-for-your-realme-12-proplus-5g-drfone-by-drfone-virtual/"><u>How to Fake GPS on Android without Mock Location For your Realme 12 Pro+ 5G | Dr.fone</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-smart-picks-top-free-online-recorder-software/"><u>In 2024, Smart Picks  Top Free Online Recorder Software</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/outshine-others-expert-tips-on-making-youtube-shorts-pop-for-2024/"><u>Outshine Others  Expert Tips on Making YouTube Shorts Pop for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/pinpointing-potential-a-youtube-niche-journey-for-2024/"><u>Pinpointing Potential  A Youtube Niche Journey for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/sky-high-broadcasting-your-first-steps-in-youtube-live-via-obs-for-2024/"><u>Sky-High Broadcasting  Your First Steps in Youtube Live via OBS for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/top-5-essential-filming-accessories-for-online-creators-for-2024/"><u>Top 5 Essential Filming Accessories for Online Creators for 2024</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-best-of-the-best-5-free-video-editors-for-4k-footage-for-2024/"><u>Updated Best of the Best 5 Free Video Editors for 4K Footage for 2024</u></a></li>
+</ul></div>

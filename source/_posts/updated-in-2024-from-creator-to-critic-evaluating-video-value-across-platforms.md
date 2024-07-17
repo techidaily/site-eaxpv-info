@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] In 2024, From Creator to Critic  Evaluating Video Value Across Platforms\""
-date: 2024-06-06T13:53:19.446Z
-updated: 2024-06-07T13:53:19.446Z
+date: 2024-07-16T02:14:24.610Z
+updated: 2024-07-17T02:14:24.610Z
 tags:
   - ai video
   - ai youtube
@@ -18,6 +18,9 @@ thumbnail: https://www.lifewire.com/thmb/2KT-Xa_yamNje0rpMyqWKjujJXo=/400x300/fi
 
 # YouTube Analytics – How to analyze your and Competitor's YouTube Video
 
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 ##### Richard Bennett
@@ -50,6 +53,9 @@ thumbnail: https://www.lifewire.com/thmb/2KT-Xa_yamNje0rpMyqWKjujJXo=/400x300/fi
 
  The demographics page helps you get YouTube insights, using them you can know the audience in a gender and location specific manner. For local businesses targeting a certain region, YouTube analytics would prove to be a boon. You can also know the geography and device used by the viewers with this feature. Understanding the gender and location of people will help you create dedicated product videos that would be helpful to them.
 
+<!-- affiliate ads begin -->
+<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.wondershare.com/filmora/article-images/youtube-analytics-demographic.jpg)
 
 #### 4\.  Traffic sources
@@ -68,12 +74,18 @@ thumbnail: https://www.lifewire.com/thmb/2KT-Xa_yamNje0rpMyqWKjujJXo=/400x300/fi
 
  It is important to know which device is being used to watch the video. The metrics is distributed among mobile phones, computer, TV, tablet etc. you will be able to understand whether your video needs to be optimized for a certain video or not.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.wondershare.com/filmora/article-images/youtube-analytics-devices.jpg)
 
 #### 7\.  Likes and dislikes
 
  YouTube insights gauge the audience acceptance for your video by the number of likes and dislikes. Videos with a huge number of like implies that it is loved by people, though, the quality of video can't exactly be defined by the number of likes or dislikes. Even the best quality video created for asking opinions about a certain situation/issue might be good enough but still get dislikes.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.wondershare.com/filmora/article-images/youtube-analytics-likes-and-dislikes.jpg)
 
 #### 8\.  Subscribers
@@ -102,6 +114,9 @@ thumbnail: https://www.lifewire.com/thmb/2KT-Xa_yamNje0rpMyqWKjujJXo=/400x300/fi
 
  Cards is a new feature in YouTube analytics and aimed at replacing annotations. This will improve user interactivity of any video and accelerate the engagement. They will act as call to action for informing visitors regarding playlists, videos, merchandising, fan funding, and associated website etc.
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.wondershare.com/filmora/article-images/youtube-analytics-cards.jpg)
 
 #### 12\.  Sharing
@@ -114,6 +129,9 @@ thumbnail: https://www.lifewire.com/thmb/2KT-Xa_yamNje0rpMyqWKjujJXo=/400x300/fi
 
  Favorites has been renamed to 'Videos in playlists'. Your reach broadens as people keep marking your videos as favorites on their playlist. This is visible to the public on the YouTube channel itself.
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.wondershare.com/filmora/article-images/youtube-analytics-playlists.jpg)
 
 ## How to analyze your competitors
@@ -124,22 +142,25 @@ thumbnail: https://www.lifewire.com/thmb/2KT-Xa_yamNje0rpMyqWKjujJXo=/400x300/fi
 
  Or you can use those analyzing tools below to discover the more stats of your competitors.
 
-#### 1\. [InflueNex](https://www.influenex.com/)
+#### 1\. InflueNex
 
  InflueNex is a helpful influencer marketing tool for Analyzing, searching, and managing YouTubers. With the help of this YouTube analytics tool, you're able to learn your competitors' channels and videos with detailed information.
 
-![InflueNex YouTube Marketing Paltform ](https://images.wondershare.com/filmora/article-images/influenex-youtube-marketing-paltform.jpg)
+![InflueNex YouTube Marketing Paltform](https://images.wondershare.com/filmora/article-images/influenex-youtube-marketing-paltform.jpg)
 
-#### 2\. [Rival IQ](https://www.rivaliq.com/)
+#### 2\. Rival IQ
 
  This YouTube analytics tool helps you increase social media engagement, conduct competitive analysis to track competition, discovers new content ideas for your target audience. You can use it to leverage your foothold in YouTube.
 
-#### 3\. [SocialBlade](https://socialblade.com/)
+#### 3\. SocialBlade
 
  SocialBlade helps you gain YouTube insights and enables you to understand how your rival brands fare. You can learn from them and enhance your own strategy to beat them.
 
  Read More to Get: [5 Methods to Go Frame by Frame on YouTube Video >>](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 Richard Bennett
@@ -185,6 +206,9 @@ Click **Titles** from the standard toolbar at the top, and click and drag your p
 
 In the timeline, double-click the title you just added, use the upper-left section to edit the text, go to the **Animation** tab from the left pane, scroll down the list, and double-click the **Up Down 1** or **Up Down 2** preset to apply the bounce effect to the credits. Click **OK** to save the changes and to get back to the main window.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Create Bouncing Text video Filmora9](https://images.wondershare.com/filmora/article-images/add-up-down-animation-to-bounce.jpg)
 
 **Step 3: Add Shake Filters**
@@ -211,6 +235,9 @@ As explained before, Wondeshare Filmora makes the entire process of creating and
 
 [![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ## Method 2: Generate Animated Bouncing Texts Online
 
 If you don’t want any heavy and resource-intensive app on your PC merely for some special text effects, you can try any of the online solutions instead. The benefit of using any such web app is that all the processing is done on site’s server, and it is only a web browser and an Internet connection that you need to have at your side.
@@ -247,6 +274,9 @@ Launch your favorite web browser and go to <https://loading.io/animation/text/>.
 
 **Step 2: Customize the Text and Choose Animation Effect**
 
+<!-- affiliate ads begin -->
+<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Create Animated Bouncing Text with Loading.io](https://images.wondershare.com/filmora/article-images/create-bouncing-text-with-loadingio.jpg)
 
 Use the options available on the webpage to type your text, and change its font, color, background, transparency level etc. Select **Bounce** (or any of its variants) from the **Animation** drop-down list, and adjust the speed using the **Speed** slider.
@@ -261,6 +291,9 @@ Click your preferred option from next to the **Download As** section to download
 
 Generating **bounce text** effect is much simpler when you use Wondershare Filmora or any of the online solutions as explained in Method 2\. While the former gives you more flexibility when it comes to customizations, the latter doesn’t require any app to be installed on your PC. In addition, many times the web apps offer their services for free, and therefore they are preferred by the novice users who are not much into post-production processes.
 
+<!-- affiliate ads begin -->
+<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
 
 Liza Brown
@@ -278,3 +311,51 @@ Follow @Liza Brown
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-crafting-the-perfect-binge-worthy-mukbang-experience/"><u>[New] 2024 Approved  Crafting the Perfect Binge-Worthy Mukbang Experience</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-elevate-viewership-3-key-storytelling-approaches/"><u>[New] 2024 Approved  Elevate Viewership  3 Key Storytelling Approaches</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-explore-the-world-of-custom-thumbnails-top-6-tools-reviewed/"><u>[New] 2024 Approved  Explore the World of Custom Thumbnails - Top 6 Tools Reviewed</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-boost-engagement-top-8-youtube-video-trackers-unveiled-for-2024/"><u>[New] Boost Engagement - Top 8 YouTube Video Trackers Unveiled for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-from-screens-to-spreads-the-dos-and-donts-of-live-blogging-for-2024/"><u>[New] From Screens to Spreads  The Do's and Don'ts of Live Blogging for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-how-to-become-a-youtube-partner-you-need-10000-views-now-for-2024/"><u>[New] How to Become a YouTube Partner - You Need 10,000 Views Now for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-how-to-fix-youtube-video-black-screen-for-2024/"><u>[New] How to Fix YouTube Video Black Screen for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-creators-uniting-for-marvels-digital-future/"><u>[New] In 2024, Creators Uniting for Marvel's Digital Future</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-effortless-keyword-harvesting-explore-the-best-7-no-fee-tag-extractors/"><u>[New] In 2024, Effortless Keyword Harvesting  Explore the Best 7 No-Fee Tag Extractors</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-elevating-content-strategy-through-youtube-metrics/"><u>[New] In 2024, Elevating Content Strategy Through YouTube Metrics</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-leading-video-kick-offs-the-best-16-youtube-vlogs-to-increase-views/"><u>[New] Leading Video Kick-Offs  The Best 16 YouTube Vlogs to Increase Views</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-light-up-your-screen-the-9-most-innovative-camgear-for-video-creators/"><u>[New] Light Up Your Screen  The 9 Most Innovative CamGear for Video Creators</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-mastering-youtube-the-ultimate-guide-to-video-trimming/"><u>[New] Mastering YouTube  The Ultimate Guide to Video Trimming</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-streaming-showdown-twitch-versus-youtube-unveiled/"><u>[New] Streaming Showdown  Twitch Versus YouTube Unveiled</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-tele-loop-triumph-repeat-your-favorite-video-anytime-on-tv/"><u>[New] Tele-Loop Triumph  Repeat Your Favorite Video Anytime on TV</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-does-youtube-count-views-its-not-as-simple-as-you-think/"><u>[Updated] 2024 Approved  How Does YouTube Count Views? It's Not as Simple as You Think</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-live-without-the-convenience-of-youtube-shorts/"><u>[Updated] 2024 Approved  How To Live Without the Convenience of YouTube Shorts</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-break-free-from-fee-free-youtube-start-at-500plus-subscriber-level-for-2024/"><u>[Updated] Break Free From Fee-Free Youtube - Start at 500+ Subscriber Level for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-break-it-down-free-techniques-to-go-frame-by-frame-on-youtube-for-2024/"><u>[Updated] Break It Down  Free Techniques to Go Frame by Frame on YouTube for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-create-with-colors-youtube-banner-creation-guide/"><u>[Updated] In 2024, Create with Colors  YouTube Banner Creation Guide</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-enhance-visibility-amplify-impact-video-seo/"><u>[Updated] In 2024, Enhance Visibility, Amplify Impact (Video SEO)</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-essential-guide-to-upgrade-your-shorts-into-premium-mp4-files/"><u>[Updated] In 2024, Essential Guide to Upgrade Your Shorts Into Premium Mp4 Files</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-navigating-youtubes-privacy-controls-for-video-accessibility/"><u>[Updated] Navigating YouTube's Privacy Controls for Video Accessibility</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-pictorial-humor-ranking-10-memes-by-creativity/"><u>[Updated] Pictorial Humor  Ranking #10 Memes by Creativity</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-strategic-game-plays-with-top-casters/"><u>[Updated] Strategic Game Plays with Top Casters</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-ultimate-list-10-costless-video-caption-extractors/"><u>[Updated] Ultimate List  10 Costless Video Caption Extractors</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-youtubes-edge-and-dailymotions-charms-an-in-depth-look/"><u>[Updated] YouTube's Edge & Dailymotion's Charms  An In-Depth Look</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-in-depth-analysis-the-dynamics-of-v-tubers/"><u>2024 Approved  In-Depth Analysis  The Dynamics of V-Tubers</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-seamless-tv-integration-looping-videos-from-youtube-on-large-screens/"><u>2024 Approved  Seamless TV Integration  Looping Videos From YouTube on Large Screens</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-the-skys-boldest-workhorses-top-10-drones/"><u>2024 Approved  The Sky's Boldest Workhorses - Top 10 Drones</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/3-best-tools-to-hard-reset-xiaomi-14-ultra-drfone-by-drfone-reset-android-reset-android/"><u>3 Best Tools to Hard Reset Xiaomi 14 Ultra | Dr.fone</u></a></li>
+<li><a href="https://meme-emoji.techidaily.com/best-10-emoji-makers-to-create-your-own-emojispconlineandroidiphone/"><u>Best 10 Emoji Makers to Create Your Own EmojisPC/Online/Android/iPhone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-any-vivo-y100-phone-password-using-emergency-call-by-drfone-android/"><u>How To Unlock Any Vivo Y100 Phone Password Using Emergency Call</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/in-2024-whats-in-it-for-a-million-youtube-viewers/"><u>In 2024, What’s in It for a Million YouTube Viewers?</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/network-locked-sim-card-inserted-on-your-xiaomi-13-ultra-phone-unlock-it-now-by-drfone-android/"><u>Network Locked SIM Card Inserted On Your Xiaomi 13 Ultra Phone? Unlock It Now</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/pioneering-your-virtual-identity-in-entertainment-industry-for-2024/"><u>Pioneering Your Virtual Identity in Entertainment Industry for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/the-dynamics-behind-tseries-youtube-earning-patterns-for-2024/"><u>The Dynamics Behind TSeries' YouTube Earning Patterns for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/the-simple-steps-to-embed-youtube-playlists-on-any-website-for-2024/"><u>The Simple Steps to Embed YouTube Playlists on Any Website for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/tips-for-superior-sound-recordings-without-a-microphone-for-2024/"><u>Tips for Superior Sound Recordings Without a Microphone for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/top-10-online-yoga-classrooms-enhancing-physical-strength-for-2024/"><u>Top 10 Online Yoga Classrooms Enhancing Physical Strength for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/transforming-raw-footage-expert-pc-editing-tips-for-youtube-creators-for-2024/"><u>Transforming Raw Footage  Expert PC Editing Tips for YouTube Creators for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/unlocking-the-secrets-to-increasing-video-engagement-on-youtube-for-2024/"><u>Unlocking the Secrets to Increasing Video Engagement on YouTube for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/unveiling-the-most-effective-honestly-approved-promotion-strategies-for-2024/"><u>Unveiling the Most Effective, Honestly-Approved Promotion Strategies for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/youtube-communication-incorporating-fun-with-emojis-for-2024/"><u>YouTube Communication  Incorporating Fun with Emojis for 2024</u></a></li>
+</ul></div>

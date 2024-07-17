@@ -1,7 +1,7 @@
 ---
 title: "[New] In 2024, Free DIY Approaches to Design Your Own YouTube Cards"
-date: 2024-06-06T13:54:33.995Z
-updated: 2024-06-07T13:54:33.995Z
+date: 2024-07-16T02:16:15.412Z
+updated: 2024-07-17T02:16:15.412Z
 tags:
   - ai video
   - ai youtube
@@ -18,6 +18,9 @@ thumbnail: https://thmb.techidaily.com/48eb4fc0f083727828418817e7d3c53949a229ffb
 
 # How to Create YouTube Intros & End Cards - Free and Easy
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
 ##### Shanoon Cox
@@ -50,7 +53,7 @@ When your intro video is longer than five seconds viewers are more likely to cli
 
 Whether it is better to put your intro at the very beginning of your video, or after you introduce your topic, will depend on your viewers. You may want to try it both ways and then look at your retention report (found in your YouTube Creator Studio under Analytics) to see which works best for you.
 
-#### [Top Intro Sites](https://tools.techidaily.com/wondershare/filmora/download/)
+#### Top Intro Sites
 
 There are a few different sites where you can download animated intros, customized to include your username or logo. Here are two of the best:
 
@@ -77,6 +80,9 @@ You can create a simple intro card in **Filmora**.
 7. The last piece of your intro is sound. You can choose a song from Filmora’s library and cut it down to five seconds, or import your sound effect.
 8. Export your video and save it for use in all of your other videos.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Part 2: End Cards
 
 When your video ends, YouTube will recommend a selection of videos users may want to watch next. Often, these recommendations will not include more of your videos.
@@ -93,7 +99,7 @@ You should also have a subscribe link somewhere in your end card, ideally a very
 
 Some creators will leave their end cards at that and play music overtop, but it can be even more effective to include a voiceover where you ask viewers to subscribe and watch your other videos.
 
-#### [How To Make an End Card](https://tools.techidaily.com/wondershare/filmora/download/)
+#### How To Make an End Card
 
 1. Choose a static background. You may want to download an end card template or create one in a drawing program. If you do, make sure to include calls to action like ‘Watch more!’ and ‘Subscribe’.
 2. Drag your background into your timeline at the end of your video.
@@ -129,6 +135,9 @@ Follow @Shanoon Cox
 
 # How to Record your iPhone or iPad Screen for YouTube
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 ##### Richard Bennett
@@ -145,10 +154,16 @@ Basically, there are three ways to record YouTube video on iPhone/iPad, includin
 
 **Note:** We resolutely oppose all forms of copyright-infringing downloads. This tutorial is only for downloading YouTube videos/audio materials from your own channel.
 
-## 1\. Recording your iPhone screen in [iOS 11](https://www.apple.com/lae/ios/ios-11/)
+<!-- affiliate ads begin -->
+<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## 1\. Recording your iPhone screen in iOS 11
 
 You can find more information in this article: [How to Record iPhone/iPad’s Screen in iOS 11](https://tools.techidaily.com/wondershare/filmora/download/) \>>
 
+<!-- affiliate ads begin -->
+<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ## 2\. Wired Using QuickTime on your Mac
@@ -179,6 +194,9 @@ You can record your Mac or PC screen using Filmora Video Editor. Using Filmora y
 
 If you have a Mac you can also record your computer screen in QuickTime following the same steps listed above, until it comes time to choose your camera. Then you record your desktop instead of your device. There are a few different screen recording programs you can download for PC.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Conclusion
 
 After reading the three ways to record YouTube on iPhone/iPad, I am sure you want to give it a try. If you have any questions, please let us know!
@@ -200,3 +218,51 @@ Follow @Richard Bennett
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-youtubes-realm-to-igtvs-domain-3-ways/"><u>[New] 2024 Approved  From YouTube's Realm to IGTV's Domain (3 Ways)</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-historical-knowledge-at-your-fingertips-best-yt-history-channels/"><u>[New] 2024 Approved  Historical Knowledge at Your Fingertips  Best YT History Channels</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-execute-a-budget-friendly-youtube-seminar/"><u>[New] 2024 Approved  How to Execute a Budget-Friendly Youtube Seminar</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-snip-youtube-videos-effortlessly/"><u>[New] 2024 Approved  How to Snip YouTube Videos Effortlessly</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-flash-forward-quick-youtube-playlists-distribution-for-2024/"><u>[New] Flash Forward  Quick Youtube Playlists Distribution for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-framefixer-editor-for-2024/"><u>[New] FrameFixer Editor for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-free-to-profit-reaching-the-new-500-sub-total-for-2024/"><u>[New] Free to Profit  Reaching the New 500 Sub Total for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-from-twitchs-stage-to-youtube-writers-guide-to-cross-platform-content-for-2024/"><u>[New] From Twitch's Stage to YouTube’ Writers Guide to Cross-Platform Content for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-how-to-build-youtube-backlinks-for-your-channel-for-2024/"><u>[New] How to Build YouTube Backlinks for Your Channel for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-how-to-make-profitable-youtube-ads-for-free-in-2024/"><u>[New] How To Make Profitable YouTube Ads for Free, In 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-how-to-restrict-viewership-of-your-youtube-content-for-2024/"><u>[New] How to Restrict Viewership of Your YouTube Content for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-free-video-wizardry-top-8-editing-programs-for-youtube-enthusiasts/"><u>[New] In 2024, Free Video Wizardry  Top 8 Editing Programs for YouTube Enthusiasts</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-audio-to-words-on-youtube-a-comprehensible-free-guide/"><u>[New] In 2024, From Audio to Words on YouTube  A Comprehensible Free Guide</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-integrating-youtube-into-your-social-media-strategy-facebook-for-2024/"><u>[New] Integrating YouTube Into Your Social Media Strategy - Facebook for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-fixing-obscured-content-on-youtube-platform/"><u>[Updated] 2024 Approved  Fixing Obscured Content on YouTube Platform</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-editing-to-sharing-youtube-mastery-with-adobe-premiere/"><u>[Updated] 2024 Approved  From Editing to Sharing  YouTube Mastery with Adobe Premiere</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-from-full-size-photos-to-miniature-expert-thumbnail-crafting/"><u>[Updated] 2024 Approved  From Full-Size Photos to Miniature  Expert Thumbnail Crafting</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-full-vision-media-the-smart-mcn-selection-process/"><u>[Updated] 2024 Approved  Full Vision Media  The Smart MCN Selection Process</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-gaming-insiders-youtube-channels-you-should-see/"><u>[Updated] 2024 Approved  Gaming Insiders' YouTube Channels You Should See</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-grandview-media-mastering-the-art-of-selecting-a-cms/"><u>[Updated] 2024 Approved  Grandview Media  Mastering the Art of Selecting a CMS</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-grasp-the-art-of-steadiness-in-photography/"><u>[Updated] 2024 Approved  Grasp the Art of Steadiness in Photography</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-add-text-to-youtube-video-before-or-after-uploading/"><u>[Updated] 2024 Approved  How to Add Text to YouTube Video Before or After Uploading</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-post-a-video-from-youtube-on-instagram/"><u>[Updated] 2024 Approved  How to Post a Video From YouTube on Instagram</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-seamless-integration-of-custom-backgrounds-on-microsoft-teams-calls/"><u>[Updated] 2024 Approved  Seamless Integration of Custom Backgrounds on Microsoft Teams Calls</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-from-free-to-fortune-carryminatis-youtube-transformation-ajey-for-2024/"><u>[Updated] From Free to Fortune  CarryMinati’s YouTube Transformation (Ajey) for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-from-script-to-screen-the-compreeved-guide-to-youtube-video-edits-for-2024/"><u>[Updated] From Script to Screen  The Compreeved Guide to YouTube Video Edits for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-from-still-photos-to-dynamic-video-how-to-use-your-cellular-device-for-2024/"><u>[Updated] From Still Photos to Dynamic Video  How To Use Your Cellular Device for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-from-video-to-music-selecting-the-cheapest-online-converters-for-2024/"><u>[Updated] From Video to Music  Selecting the Cheapest Online Converters for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-from-zero-to-cool-video-star-your-mac-youtube-journey-starts-here-for-2024/"><u>[Updated] From Zero to Cool Video Star  Your Mac Youtube Journey Starts Here for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-harmonize-your-routine-with-these-top-20-youtube-songstars-for-2024/"><u>[Updated] Harmonize Your Routine with These Top 20 YouTube Songstars for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-harness-your-view-count-cross-platform-studio-methods-for-2024/"><u>[Updated] Harness Your View Count  Cross-Platform Studio Methods for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-harnessing-hashtags-elevating-your-youtube-gaming-series-for-2024/"><u>[Updated] Harnessing Hashtags  Elevating Your YouTube Gaming Series for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-harnessing-youtubes-power-for-maximum-earnings-via-adsense-for-2024/"><u>[Updated] Harnessing YouTube's Power for Maximum Earnings via AdSense for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-automate-iphones-video-repetition-for-2024/"><u>[Updated] How to Automate iPhone's Video Repetition for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-free-to-profit-reaching-the-new-500-sub-total/"><u>[Updated] In 2024, Free to Profit  Reaching the New 500 Sub Total</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-navigating-tiktoks-virtual-stage-with-zoom-expertise/"><u>[Updated] Navigating TikTok's Virtual Stage with Zoom Expertise</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-quick-guide-to-capturing-moments-during-google-meets/"><u>2024 Approved  Quick Guide to Capturing Moments During Google Meets</u></a></li>
+<li><a href="https://animation-videos.techidaily.com/2024-approved-26-cool-anime-girl-names-and-their-meanings/"><u>2024 Approved 26 Cool Anime Girl Names and Their Meanings</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/3-solutions-to-find-your-motorola-moto-g04-current-location-of-a-mobile-number-drfone-by-drfone-virtual-android/"><u>3 Solutions to Find Your Motorola Moto G04 Current Location of a Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/expert-guide-to-instagram-data-decoding-and-actionable-strategies-for-2024/"><u>Expert Guide to Instagram Data Decoding and Actionable Strategies for 2024</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-6-ways-to-transfer-contacts-from-infinix-hot-30-5g-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 6 Ways To Transfer Contacts From Infinix Hot 30 5G to iPhone | Dr.fone</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/in-2024-step-into-the-future-converting-videos-for-virtual-reality/"><u>In 2024, Step Into the Future Converting Videos for Virtual Reality</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-the-most-useful-tips-for-pokemon-go-ultra-league-on-xiaomi-redmi-a2-drfone-by-drfone-virtual-android/"><u>In 2024, The Most Useful Tips for Pokemon Go Ultra League On Xiaomi Redmi A2 | Dr.fone</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-full-disclosure-on-nero-audiomanipulation-kit-features/"><u>Updated Full Disclosure on Nero AudioManipulation Kit Features</u></a></li>
+</ul></div>

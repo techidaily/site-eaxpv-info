@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Foundations First  What To Invest In for YouTubing for 2024\""
-date: 2024-06-06T16:25:18.228Z
-updated: 2024-06-07T16:25:18.228Z
+date: 2024-07-16T06:02:45.788Z
+updated: 2024-07-17T06:02:45.788Z
 tags:
   - ai video
   - ai youtube
@@ -60,6 +60,9 @@ Again, most YouTube video makers have a limited budget at their disposal, so pro
 
 If you’re not ready to invest in a shotgun mic, you can also find very inexpensive (often under $20) LAV mics. These small microphones can be pinned to your shirt, which allows them to record very clear dialogue because they’re so close to your mouth.
 
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Lights for YouTube
 
 **The short version:** You need as much light as you can get. Lighting kits can be affordable on Amazon, but you can also achieve a great look using daylight/windows and 'daylight' lightbulbs.
@@ -72,6 +75,9 @@ If you have the budget available to get some lighting equipment, you can find so
 
 Another useful piece of lighting equipment to have is a reflector. A reflector is usually a piece of white, silver, or gold fabric stretched over a frame. You can use it to bounce light from one light source back towards yourself (this is a great way to fill shadows cast by your main light). Reflectors tend to be inexpensive, but you can also use white cardboard or tinfoil in place of purchasing a reflector.
 
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Tripods and Camera Stands
 
 **The short version:** You need something to hold your camera. If you mostly film in your own home that can be a desk or a stack of books, but if you make a lot of videos while you're on the go you probably need a tripod or gimbal. Heavier cameras need heavier tripods.
@@ -84,6 +90,9 @@ Even if you are using a phone or a webcam to record YouTube videos, you should c
 
 ## Smartphone Camera Gear
 
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Smartphone Camera Gear](https://images.wondershare.com/filmora/article-images/smartphone-camera-gear.jpg)
 
 **The short version:** There's a lot of gear out there designed with smartphone photos and videos in mind, including clip-on lenses, tripod mounts, phone-mounted LED lights, and inexpensive microphones that plug into the audio jack.
@@ -96,8 +105,14 @@ Another common downside of smartphone cameras is that most of them use digital z
 
 ## Equipment with Easy-to-Use Video Editor
 
+<!-- affiliate ads begin -->
+<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 Richard Bennett
@@ -113,6 +128,9 @@ Follow @Richard Bennett
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Skyrocketing Your YouTube Business: The FameBit Approach to Sponsorships
 
 # How to Find YouTube Sponsorships by Using FameBit
@@ -120,3 +138,48 @@ Follow @Richard Bennett
 ![](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-convert-facebook-to-mp4-hack-for-quick-access/"><u>[New] 2024 Approved  Convert Facebook to MP4 – Hack for Quick Access</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-enhancing-youtube-content-via-finalcut-pro-techniques/"><u>[New] 2024 Approved  Enhancing YouTube Content via FinalCut Pro Techniques</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-green-screen-ease-crafting-effective-youtube-ctas/"><u>[New] 2024 Approved  Green Screen Ease  Crafting Effective YouTube CTAs</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-download-youtube-videos-without-any-software/"><u>[New] 2024 Approved  How to Download YouTube Videos without Any Software</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-force-youtube-cc-to-stay-on-and-get-more-views/"><u>[New] 2024 Approved  How to Force YouTube CC to Stay On and Get More Views</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-affiliate-allies-for-small-channels-an-easy-approach-for-2024/"><u>[New] Affiliate Allies for Small Channels  An Easy Approach for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-buy-subscribers-wisely-watch-your-numbers-soar-for-2024/"><u>[New] Buy Subscribers Wisely, Watch Your Numbers Soar for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-from-unconfident-to-impactful-embracing-youtube-blogging-for-2024/"><u>[New] From Unconfident to Impactful  Embracing YouTube Blogging for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-the-path-to-profitable-partnership-with-your-audience/"><u>[New] The Path to Profitable Partnership with Your Audience</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-ultimate-guide-to-controlling-playback-rate-on-snapchat/"><u>[New] The Ultimate Guide to Controlling Playback Rate on Snapchat</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-unlock-youtubes-best-viewing-experience-with-ratios/"><u>[New] Unlock YouTube's Best Viewing Experience with Ratios</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-drive-more-watch-time-not-churn-discover-the-top-6-techniques-on-youtube/"><u>[Updated] 2024 Approved  Drive More Watch Time, Not Churn  Discover the Top 6 Techniques on YouTube</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-get-youtube-posters-at-zero-price-top-free-downloading-tool/"><u>[Updated] 2024 Approved  Get YouTube Posters at Zero Price - Top Free Downloading Tool</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-cease-non-filtered-youtube-video-trail-for-2024/"><u>[Updated] Cease Non-Filtered YouTube Video Trail for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-enhance-your-videos-effective-titles-and-keywords-on-youtube-for-2024/"><u>[Updated] Enhance Your Videos  Effective Titles and Keywords on YouTube for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-flipping-currencies-through-cosmetics-content/"><u>[Updated] Flipping Currencies Through Cosmetics Content</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-how-much-money-does-mr-beast-make-for-2024/"><u>[Updated] How Much Money Does Mr. Beast Make for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-audiences-on-the-rise-gauge/"><u>[Updated] In 2024, Audiences on the Rise Gauge</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-best-practices-in-extracting-youtube-media/"><u>[Updated] In 2024, Best Practices in Extracting YouTube Media</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-navigating-through-non-displaying-thumbnails-on-your-shorts/"><u>[Updated] Navigating Through Non-Displaying Thumbnails on Your Shorts</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-quick-guide-on-converting-videos-into-dynamic-gifs-online/"><u>[Updated] Quick Guide on Converting Videos Into Dynamic Gifs Online</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-the-art-of-disregarding-harmful-youtube-comments/"><u>[Updated] The Art of Disregarding Harmful YouTube Comments</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-the-art-of-online-earnings-youtubes-money-matrix/"><u>[Updated] The Art of Online Earnings  YouTube's Money Matrix</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-unlocking-youtubes-hidden-gems-keyword-research/"><u>[Updated] Unlocking YouTube's Hidden Gems  Keyword Research</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-action-plan-seamless-transcoding-from-xmlssattml-to-srt/"><u>2024 Approved  Action Plan  Seamless Transcoding From XML/SSA/TTML to SRT</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-hot-topic-in-photos-memes-and-their-origin-tales/"><u>2024 Approved  Hot Topic in Photos  Memes & Their Origin Tales</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/2024-approved-video-earnings-explored-in-depth-look-at-dm-and-yo/"><u>2024 Approved  Video Earnings Explored  In-Depth Look at Dm & Yo</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/2024-approved-dual-view-video-editing-the-best-apps-for-ios-and-android/"><u>2024 Approved Dual-View Video Editing The Best Apps for iOS and Android</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/cyberspace-enhancer-facebook-story-backup-tool/"><u>Cyberspace Enhancer  Facebook Story Backup Tool</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-pictures-from-lava-blaze-curve-5g-by-fonelab-android-recover-pictures/"><u>Easy steps to recover deleted pictures from Lava Blaze Curve 5G.</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/excel-file-recovery-recover-corrupt-excel-2010-files-easily-by-stellar-guide/"><u>Excel File Recovery – Recover Corrupt Excel 2010 Files Easily</u></a></li>
+<li><a href="https://driver-install.techidaily.com/gtx-1650-compatibility-download-windows-78-drivers/"><u>GTX 1650 Compatibility: Download Windows 7/8 Drivers</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-fix-apple-id-verification-code-not-working-from-iphone-12-pro-max-by-drfone-ios/"><u>In 2024, How To Fix Apple ID Verification Code Not Working From iPhone 12 Pro Max</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/24-the-ultimate-gear-list-for-any-aspiring-vlogger-top-12-cameras/"><u>In 2024, The Ultimate Gear List for Any Aspiring Vlogger - Top 12 Cameras</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/mastering-the-use-and-maintenance-of-m1-max-clips-for-2024/"><u>Mastering the Use and Maintenance of M1 Max Clips for 2024</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-in-2024-every-voice-matters-the-ultimate-selection-of-cost-effective-vocal-cleanup-software/"><u>New In 2024, Every Voice Matters The Ultimate Selection of Cost-Effective Vocal Cleanup Software</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/the-artisans-guide-to-animation-enchantment-for-2024/"><u>The Artisan's Guide to Animation Enchantment for 2024</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/the-artisans-of-cinematic-magic-unveiling-every-roles-importance-in-movie-creation-for-2024/"><u>The Artisans of Cinematic Magic Unveiling Every Roles Importance in Movie Creation for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/the-kinemaster-edge-mastering-video-segmentation-and-transitioning/"><u>The Kinemaster Edge  Mastering Video Segmentation and Transitioning</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/tutorial-to-change-motorola-g54-5g-imei-without-root-a-comprehensive-guide-by-drfone-android/"><u>Tutorial to Change Motorola G54 5G IMEI without Root A Comprehensive Guide</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/ways-to-find-a-suitable-youtube-to-mp3-converter-for-2024/"><u>Ways to Find a Suitable YouTube to MP3 Converter for 2024</u></a></li>
+</ul></div>

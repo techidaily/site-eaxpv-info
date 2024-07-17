@@ -1,7 +1,7 @@
 ---
 title: "[Updated] In 2024, Fresh Vlog Discussion Ideas Each Day"
-date: 2024-06-06T15:20:55.698Z
-updated: 2024-06-07T15:20:55.698Z
+date: 2024-07-16T04:25:32.091Z
+updated: 2024-07-17T04:25:32.091Z
 tags:
   - ai video
   - ai youtube
@@ -18,6 +18,9 @@ thumbnail: https://thmb.techidaily.com/c196f6b4394e95f28b75708e950be08411857a7cc
 
 # Daily Vlogging Ideas: What to Talk about While Vlogging?
 
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 ##### Richard Bennett
@@ -45,12 +48,18 @@ The other reason it’s good to have a niche is that you’ll be able to use key
 
 Here are 4 things to talk about in your daily vlog:
 
+<!-- affiliate ads begin -->
+<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## What are you watching/reading?
 
  If you’re really into a book or tv show, or if you saw a movie recently, then those are all good things to talk about (warn people if you’re going to spoil anything!). You do recaps, reviews, or just share a few thoughts you had. If you’re worried about alienating people who don’t watch/read the same stuff as you then you can keep it more general and just react to a few things from the media you’re consuming while also talking about your day. It’ll give you an anchor to build the rest of your video around, even if it’s not all you talk about.
 
 By commenting on what you’re watching/reading you have a better chance of capitalizing on a trending topic people are searching for. You could also find yourself an audience by becoming involved in fan communities.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Snapshots of Your Day
 
  Casey Neistat is the master of this. He is always ready with a camera on hand so that, when something interesting happens, he can capture it and build his daily vlog around it.
@@ -89,12 +98,18 @@ You could also just flick the camera on and tell the full story of your day like
 
 ## Customize Your Vlog Stories with Powerful Video Editor
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
 **We’ve got a new eBook out!**
 
 It’s got strategies that have worked for other YouTubers, boiled down to simple action steps.
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 Richard Bennett
@@ -114,6 +129,55 @@ Follow @Richard Bennett
 
 # Free YouTube Channel Art Templates - Find Them Here
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-fast-track-to-1000-fans-through-captivating-content/"><u>[New] 2024 Approved  Fast-Track To 1,000 Fans Through Captivating Content</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-flutter-free-your-videos-a-selection-of-excellent-converters/"><u>[New] 2024 Approved  Flutter Free Your Videos  A Selection of Excellent Converters</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-fonts-that-make-a-difference-your-20-best-choices/"><u>[New] 2024 Approved  Fonts That Make a Difference  Your 20 Best Choices</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-foundational-steps-for-youtube-enthusiasts/"><u>[New] 2024 Approved  Foundational Steps for YouTube Enthusiasts</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-freezing-points-to-inviting-landscapes/"><u>[New] 2024 Approved  From Freezing Points to Inviting Landscapes</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-project-board-to-public-display-imovie-on-youtube/"><u>[New] 2024 Approved  From Project Board to Public Display  IMovie on YouTube</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-harnessing-the-power-of-asynchronous-programming-in-javascript/"><u>[New] 2024 Approved  Harnessing the Power of Asynchronous Programming in JavaScript</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-craft-eye-catching-youtubes-end-titles/"><u>[New] 2024 Approved  How to Craft Eye-Catching YouTubes End Titles</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-free-and-easy-building-attractive-youtube-intros-without-expense-for-2024/"><u>[New] Free & Easy  Building Attractive YouTube Intros without Expense for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-free-fast-and-reliable-download-your-favorite-youtube-content-for-2024/"><u>[New] Free, Fast and Reliable  Download Your Favorite YouTube Content for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-from-device-footage-to-youtube-shorts-your-streamlined-approach-for-2024/"><u>[New] From Device Footage to YouTube Shorts - Your Streamlined Approach for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-facebooks-free-sound-library-download/"><u>[New] In 2024, Facebook's Free Sound Library Download</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-capture-the-scope-of-space-sharing-panoramic-pictures-with-facebook/"><u>[Updated] 2024 Approved  Capture the Scope of Space  Sharing Panoramic Pictures with Facebook</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-gaming-channel-evolution-best-14-video-ideas-on-youtube/"><u>[Updated] 2024 Approved  Gaming Channel Evolution  Best 14 Video Ideas on YouTube</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-handling-haters-strategies-for-content-creators/"><u>[Updated] 2024 Approved  Handling Haters  Strategies for Content Creators</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-add-a-youtube-video-to-google-slides/"><u>[Updated] 2024 Approved  How to Add a YouTube Video to Google Slides</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-download-youtube-thumbnail-in-3-ways-onlinewinmac/"><u>[Updated] 2024 Approved  How to Download YouTube Thumbnail in 3 Ways [Online/Win/Mac]</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-top-10-no-cost-youtube-sbd-tools/"><u>[Updated] 2024 Approved  Top 10 No-Cost YouTube SBD Tools</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-from-lengthy-video-to-captivating-animation-create-gifs-with-ease-for-2024/"><u>[Updated] From Lengthy Video to Captivating Animation - Create Gifs with Ease for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-from-novice-to-vlogger-the-top-10-editing-techniques-for-2024/"><u>[Updated] From Novice to Vlogger  The Top 10 Editing Techniques for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-fuel-the-drive-best-video-ideas-for-channels-success-for-2024/"><u>[Updated] Fuel the Drive  Best Video Ideas for Channels' Success for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-go-green-for-effective-ctas-via-subscription-for-2024/"><u>[Updated] Go Green for Effective CTAs via Subscription for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-add-captions-to-youtube-videos-for-2024/"><u>[Updated] How To Add Captions to YouTube Videos for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-turn-video-soundtracks-into-audible-files-for-2024/"><u>[Updated] How to Turn Video Soundtracks Into Audible Files for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-fixed-eclipsed-youtube-short-video/"><u>[Updated] In 2024, Fixed  Eclipsed YouTube Short Video</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-concept-to-completion-crafting-your-youtube-masterpiece/"><u>[Updated] In 2024, From Concept to Completion  Crafting Your YouTube Masterpiece</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-harnessing-imovies-capabilities-for-youtube-video-perfection/"><u>[Updated] In 2024, Harnessing iMovie's Capabilities for YouTube Video Perfection</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-clear-the-clutter-blurring-backgrounds-for-engaging-yt/"><u>[Updated] In 2024, How to Clear the Clutter  Blurring Backgrounds for Engaging YT</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-create-a-youtube-channel-today/"><u>[Updated] In 2024, How to Create A YouTube Channel Today</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-play-youtube-in-background-on-iphone-and-android/"><u>[Updated] In 2024, How to Play YouTube in Background on iPhone and Android</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-protectively-download-youtube-audio-without-fear/"><u>[Updated] In 2024, How to Protectively Download YouTube Audio Without Fear</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-movavi-screen-recorder-11-review/"><u>[Updated] In 2024, Movavi Screen Recorder 11 Review</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-screenmaster-mastering-window-recordings-on-spring/"><u>[Updated] In 2024, ScreenMaster  Mastering Window Recordings on Spring</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/2024-approved-the-secret-to-perfectly-sized-social-media-videos-a-game-changing-tip/"><u>2024 Approved The Secret to Perfectly Sized Social Media Videos A Game-Changing Tip</u></a></li>
+<li><a href="https://games-able.techidaily.com/exploring-graphics-card-vram-space/"><u>Exploring Graphics Card VRAM Space</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-ai-driven-high-quality-editing-platform/"><u>In 2024, AI-Driven High-Quality Editing Platform</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/in-2024-exclusive-insight-choosing-among-the-top-3-leading-web-platforms-for-enhanced-media-sounds/"><u>In 2024, Exclusive Insight Choosing Among the Top 3 Leading Web Platforms for Enhanced Media Sounds</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/massive-viewership-triumphs-youtubes-greatest-hits/"><u>Massive Viewership Triumphs  YouTube's Greatest Hits</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/the-essential-guide-to-streaming-quality-via-obs-youtube-and-twitch-for-2024/"><u>The Essential Guide to Streaming Quality via OBS, YouTube & Twitch for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-serenity-of-silence-premier-asmr-talents-for-2024/"><u>The Serenity of Silence  Premier ASMR Talents for 2024</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/top-imei-unlokers-for-your-huawei-nova-y71-phone-by-drfone-android/"><u>Top IMEI Unlokers for Your Huawei Nova Y71 Phone</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-must-have-music-selections-for-peaceful-environmental-scenarios-for-2024/"><u>Updated Must-Have Music Selections for Peaceful Environmental Scenarios for 2024</u></a></li>
+</ul></div>

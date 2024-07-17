@@ -1,7 +1,7 @@
 ---
 title: "[Updated] In 2024, How To Activate or Deactivate Video Commenting in YouTube"
-date: 2024-06-24T07:00:01.055Z
-updated: 2024-06-25T07:00:01.055Z
+date: 2024-07-16T04:21:33.026Z
+updated: 2024-07-17T04:21:33.026Z
 tags:
   - ai video
   - ai youtube
@@ -18,6 +18,9 @@ thumbnail: https://thmb.techidaily.com/d6f225de23330f252c6d5195ffc58e836dfeb5e08
 
 # How to Turn on or off Comments on YouTube
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
 
 ##### Liza Brown
@@ -44,6 +47,9 @@ Use your favorite web browser to go to YouTube and sign in to your Google accoun
 
 From the bottom of the left pane, click the **Settings** icon, click **Channel** from the **Settings** box that comes up next, and go to **Advanced settings** from the right window.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![YouTube Channel Advanced Settings](https://images.wondershare.com/filmora/article-images/youtube-channel-advanced-settings.jpg)
 
 #### Step 3: Turn Off Comments
@@ -90,6 +96,9 @@ Selecting this option holds all the comments from all the users, and waits for y
 
 When this option is selected, no one can post a comment to the video(s) whatsoever.
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 2: Turn on or Turn off Comments for Specific Videos
 
 As you might have noticed, any video that is marked as ‘Made for kids’ doesn’t allow users to post comments. You can exploit this feature to enable or disable commenting on specific YouTube videos as well.
@@ -108,10 +117,16 @@ Hover the mouse over the target video in the right window, and click the **Detai
 
 From under the **Audience** section in the right window of the **Video details** page, select the **No, it’s not made for kids** radio button. Next, click **SHOW MORE**, scroll down to the **Comments and ratings** section, and choose your preferred privacy option from the **Comment visibility** drop-down list. Click **SAVE** from the upper-right area to save the changes.
 
+<!-- affiliate ads begin -->
+<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
+<!-- affiliate ads end -->
 ![Turn on or turn off comments for specific youtube video](https://images.wondershare.com/filmora/article-images/turn-on-off-comments-for-specific-youtube-video.jpg)
 
 **Note:** To learn **how to disable comments on YouTube** for specific video, you can repeat the above steps, and choose the **Yes, it’s made for kids** radio button from the **Audience** section when you are on the **Video details** page.
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## FAQs About YouTube Comments
 
 #### 1\. Why can’t I comment on the YouTube video?
@@ -126,6 +141,9 @@ At the time of this writing, YouTube doesn’t allow anyone to post a comment on
 
 You can go to **YouTube Studio** \> **Settings** \> **Community**, and on the **Automated Filters** tab in the right window, add the words to block in the **Blocked words** field. You can add multiple words by separating them with commas. To block the comments with links, check the **Block links** box. Click **SAVE** to save the changes.
 
+<!-- affiliate ads begin -->
+<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Block YouTube   commnets](https://images.wondershare.com/filmora/article-images/block-users-youtube-comment.jpg)
 
 #### 4\. If I turn comments off and back on again, will the old comments come back?
@@ -171,6 +189,9 @@ However, copyright restrictions prevent you from commenting on any video you fin
 
 Previously we have demonstrated [how to create a YouTube reaction video with Filmora](https://tools.techidaily.com/wondershare/filmora/download/), check it to get some inspiration.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ---
@@ -191,6 +212,9 @@ Video games like Minecraft, Fortnite or Grand Theft Auto attract a lot of attent
 
 YouTubers that already have thousands of followers need to keep coming up with new ways to engage their audience. Encouraging the viewers of your videos to comment on them can be a valuable source of ideas for reaction videos. You can comment on the topics that were discussed in the comments and address particular questions your followers have asked you.
 
+<!-- affiliate ads begin -->
+<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 4\. Make a ‘Kids React To’ videos
 
 Videos of children reacting to different genres of music are already getting thousands of views every day. So, if you like working with children you should consider making a variation of this type of video. There are so many different things children can react to, you just have to find a few that fit perfectly into your channel’s topic.
@@ -211,6 +235,9 @@ It becomes increasingly difficult to keep up with the latest pop culture trends 
 
 Over the course of the last decade, we’ve seen so many challenges go viral, as even the world’s most famous politicians took part in some of them. Challenge videos are not as popular as they used to be a few years ago, but they still amass thousands of views. Making funny reaction videos to different challenge videos may help you boost your number of followers, especially if you come up with witty remarks for each video you comment on.
 
+<!-- affiliate ads begin -->
+<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 9\. React to TV shows
 
 We all love watching a good TV show, whether it is a TV series or a reality show. So, if you are looking for a reaction video idea that can hardly fail, commenting on a TV show may be the right choice for you. However, getting the right to use the footage you would like to comment on may be difficult, as making the reaction video without permission from the copyright owner may have legal implications.
@@ -223,6 +250,9 @@ Interested in Movie Trailer? You can now make it with some [best movie trailer m
 
 With these reaction video ideas in mind, you can practise it on YouTube, or TikTok. Check this article to find out [how to make a reaction video for TikTok](https://tools.techidaily.com/wondershare/filmora/download/) .
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 **Conclusion**
@@ -246,3 +276,56 @@ Follow @Richard Bennett
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-fearless-filming-mastering-your-first-10-clips/"><u>[New] 2024 Approved  Fearless Filming  Mastering Your First 10 Clips</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-forging-strong-connections-building-youtube-backlinks-right/"><u>[New] 2024 Approved  Forging Strong Connections  Building YouTube Backlinks Right</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-getting-your-foot-in-the-channels-door-must-haves/"><u>[New] 2024 Approved  Getting Your Foot in the Channel's Door  Must-Haves</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-harmonizing-hit-hits-building-the-perfect-youtube-soundtrack/"><u>[New] 2024 Approved  Harmonizing Hit Hits  Building the Perfect YouTube Soundtrack</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-much-money-does-mr-beast-make/"><u>[New] 2024 Approved  How Much Money Does Mr. Beast Make</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-filmoras-secrets-to-captivating-youtube-trailers-for-2024/"><u>[New] Filmora's Secrets to Captivating YouTube Trailers for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-financial-fortitude-for-youtubers-beyond-basic-earnings-for-2024/"><u>[New] Financial Fortitude for YouTubers  Beyond Basic Earnings for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-finding-equilibrium-between-professional-life-and-youtubing-for-2024/"><u>[New] Finding Equilibrium Between Professional Life and YouTubing for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-flavorful-frames-stepwise-food-film-making-for-2024/"><u>[New] Flavorful Frames  Stepwise Food Film-Making for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-from-good-to-great-videos-the-20-essential-shortcuts-for-success-for-2024/"><u>[New] From Good to Great Videos  The 20 Essential Shortcuts for Success for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-from-tape-to-trending-seamless-mp3-to-youtube-transition-for-2024/"><u>[New] From Tape to Trending  Seamless MP3 to YouTube Transition for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-from-youtube-to-studio-quality-free-converters-for-wav-format-for-2024/"><u>[New] From YouTube to Studio Quality  Free Converters for WAV Format for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-guide-on-transforming-youtube-videos-into-mp3-using-safe-procedures-for-2024/"><u>[New] Guide on Transforming YouTube Videos Into MP3 Using Safe Procedures for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-harnessing-look-up-tables-luts-to-achieve-stunning-visuals/"><u>[New] Harnessing Look-Up Tables (LUTs) to Achieve Stunning Visuals</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-how-to-make-fortnite-thumbnail-for-free-and-easy-for-2024/"><u>[New] How to Make Fortnite Thumbnail for Free and Easy for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-how-to-re-watch-lost-youtube-scenes-online-simple-steps-for-2024/"><u>[New] How to Re-Watch Lost YouTube Scenes Online  Simple Steps for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-how-to-safely-capture-your-favorite-youtube-audio-for-free-for-2024/"><u>[New] How to Safely Capture Your Favorite YouTube Audio for Free for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-free-guide-perfecting-your-youtube-audio-to-text-conversion/"><u>[New] In 2024, Free Guide  Perfecting Your YouTube Audio-to-Text Conversion</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-make-a-youtube-trailer-by-filmora/"><u>[New] In 2024, How to Make a YouTube Trailer by Filmora</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-make-collab-videos-and-grow-your-channel/"><u>[New] In 2024, How to Make Collab Videos and Grow Your Channel?</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-11-free-youtube-audio-rippers-to-download-audio-from-youtube-for-2024/"><u>[Updated] 11 FREE YouTube Audio Rippers to Download Audio From YouTube for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-raw-to-refined-tailoring-youtube-videos-with-premiere-pro/"><u>[Updated] 2024 Approved  From Raw to Refined  Tailoring YouTube Videos with Premiere Pro</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-gain-an-edge-access-these-top-8-sites-for-free-eco-screen-backdrops-and-clips/"><u>[Updated] 2024 Approved  Gain an Edge - Access These Top 8 Sites for FREE Eco-Screen Backdrops and Clips</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-get-started-with-youtube-video-ad-building-without-spending/"><u>[Updated] 2024 Approved  Get Started with YouTube Video Ad Building Without Spending</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-highest-paid-youtuber-in-the-world/"><u>[Updated] 2024 Approved  Highest Paid YouTuber in the World</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-keep-viewers-coming-back-haul-video-tips-and-tricks/"><u>[Updated] 2024 Approved  How to Keep Viewers Coming Back  Haul Video Tips & Tricks</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-from-live-chat-to-large-screen-upload-twitch-streams-to-youtube-for-2024/"><u>[Updated] From Live Chat to Large Screen  Upload Twitch Streams to YouTube for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-from-video-content-to-cash-flow-youtubes-profit-mechanics-for-2024/"><u>[Updated] From Video Content to Cash Flow  YouTube's Profit Mechanics for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-from-viewing-voids-to-viral-videos-the-top-ten-reasons-and-cures-for-zero-traffic-for-2024/"><u>[Updated] From Viewing Voids to Viral Videos  The Top Ten Reasons & Cures for Zero Traffic for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-from-vlogs-to-virality-jake-paul-the-online-phenomenon-for-2024/"><u>[Updated] From Vlogs to Virality  Jake Paul, the Online Phenomenon for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-global-gross-earnings-of-youtube-luminaries-for-2024/"><u>[Updated] Global Gross Earnings of YouTube Luminaries for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-address-missing-watch-playback-symbol/"><u>[Updated] In 2024, Address Missing Watch Playback Symbol</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-finding-superior-hashtags-for-your-youtube-content/"><u>[Updated] In 2024, Finding Superior Hashtags for Your YouTube Content</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-flawless-footage-with-best-stabilizer-brands/"><u>[Updated] In 2024, Flawless Footage with Best Stabilizer Brands</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-fraudulent-fronts-navigating-the-minefield-of-fake-youtube-viewers/"><u>[Updated] In 2024, Fraudulent Fronts  Navigating the Minefield of Fake YouTube Viewers</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-free-online-webinar-conduct-with-youtube/"><u>[Updated] In 2024, Free Online Webinar Conduct with YouTube</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-guide-to-top-templates-for-youtube-previews/"><u>[Updated] In 2024, Guide to Top Templates for YouTube Previews</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-illuminate-a-guide-to-great-vlog-images/"><u>[Updated] In 2024, How to Illuminate  A Guide to Great Vlog Images</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-use-youtube-cards-and-annotations/"><u>[Updated] In 2024, How to Use YouTube Cards and Annotations?</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-in-2024-unveiling-the-secrets-of-big-head-effects-for-professional-tiktoks-3-ways/"><u>[Updated] In 2024, Unveiling the Secrets of Big Head Effects for Professional TikToks (3 Ways)</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-unleash-creative-potential-at-no-expense-dive-into-the-world-of-green-screen-with-free-lessons-from-youtube-channels/"><u>[Updated] Unleash Creative Potential at No Expense  Dive Into the World of Green Screen with Free Lessons From YouTube Channels</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-mastering-android-streaming-virtual-reality-content/"><u>2024 Approved  Mastering Android  Streaming Virtual Reality Content</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/2024-approved-mastering-tweet-reactions-a-complete-guide-for-23/"><u>2024 Approved  Mastering Tweet Reactions - A Complete Guide for '23</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-streamlining-video-editing-on-windows-11s-movie-maker/"><u>2024 Approved  Streamlining Video Editing on Windows 11'S Movie Maker</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-top-rated-simulators-unleash-ps3-games-windows/"><u>2024 Approved  Top-Rated Simulators  Unleash PS3 Games Windows</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-scripting-a-captivating-cinematic-sketchpad/"><u>In 2024, Scripting a Captivating Cinematic Sketchpad</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/in-2024-the-top-gaming-intro-creation-services-ranked-and-reviewed/"><u>In 2024, The Top Gaming Intro Creation Services Ranked and Reviewed</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-master-video-trimming-with-kapwings-online-editor/"><u>New Master Video Trimming with Kapwings Online Editor</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/yogas-top-online-studios-boosting-well-being/"><u>Yoga's Top Online Studios Boosting Well-Being</u></a></li>
+</ul></div>

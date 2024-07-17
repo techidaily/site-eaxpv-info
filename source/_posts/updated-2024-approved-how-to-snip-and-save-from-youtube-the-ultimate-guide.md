@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  How to Snip and Save From YouTube  The Ultimate Guide\""
-date: 2024-06-06T15:00:20.297Z
-updated: 2024-06-07T15:00:20.297Z
+date: 2024-07-16T03:54:42.177Z
+updated: 2024-07-17T03:54:42.177Z
 tags:
   - ai video
   - ai youtube
@@ -33,6 +33,9 @@ Here in this article, you will learn about the most straightforward YouTube vide
 * [Part 1: How to Download a Certain Part of a YouTube Video？](#part1)
 * [Part 2: How to Record YouTube Videos with Filmora?](#part2) \[Video Tutorial\]
 
+<!-- affiliate ads begin -->
+<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 1: How to Download a Certain Part of a YouTube Video？
 
 Below are 6 software that are available to download part of youtube video, find which one fit you much. Watch a video description first!
@@ -49,6 +52,9 @@ Try Filmora to Download and Edit YouTube Video for Free!
 
 [Download & Edit YouTube Videos](https://tools.techidaily.com/wondershare/filmora/download/) [Download & Edit YouTube Videos](https://tools.techidaily.com/wondershare/filmora/download/) [Download & Edit YouTube Videos](https://tools.techidaily.com/wondershare/filmora/download/) [Learn More >](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 1\. Clideo
 
 [Clideo](https://clideo.com/cut-video) is not only easy to use, but it’s safe too. It helps you cut parts of the video in just a few steps, and it’s completely free! Furthermore, it will delete the user information in 24 hours. Clideo also works even if you don’t log in or register.
@@ -93,7 +99,7 @@ Check out the simple steps to use Veed below:
 
 Filmora Video Editor
 
-#### Create AI-Generated Video with [Filmora](https://tools.techidaily.com/wondershare/filmora/download/)
+#### Create AI-Generated Video with Filmora
 
 Filmora Discord video editor offers a ChatGPT plug-in and AI tools to enhance your creative vision. Make your idea into reality.
 
@@ -115,6 +121,9 @@ Want to know how it works? Read below:
 
 **Step 3:** Finally, you can compile multiple clips into a single clip and then hit “**SAVE HASHCUT**” to finish your work.
 
+<!-- affiliate ads begin -->
+
+<!-- affiliate ads end -->
 ### 5\. VideoCrops
 
 [VideoCrops](https://videocrops.com/) is another wonderful tool to download a part of the YouTube video you want. It has limited tools as it is free. Be sure to download your video immediately after your work is done.
@@ -125,10 +134,16 @@ Here are the simple steps you need to follow to use VideoCrops.
 
 **Step 2:** Select the video interval you want to crop and hit the “Crop selection” button below the video.
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Download part of YouTube video with VideoCrops](https://images.wondershare.com/filmora/article-images/videocrops-crop-download-youtube-video.jpg)
 
 **Step 3:** Click the “Download” button below and enjoy your clip.
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 6\. Kapwing
 
 [Kapwing](https://www.kapwing.com/cut-video) is another cool tool that works on all devices such as Android, Mac, and iOS. It makes your work easy with a few simple trims and cuts.
@@ -143,6 +158,9 @@ Know how to get your work done with Kapwing here!
 
 **Step 3:** When you’re finally done with the cropping and editing, press the “Export Video” button at the top right corner. You can now share and download the shortened video.
 
+<!-- affiliate ads begin -->
+<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 2: How to Record YouTube Videos with Filmora?
 
 [Filmora](https://tools.techidaily.com/wondershare/filmora/download/) is a software editor that is available for both Windows and MacOS. It can give you many editing and recording facilities. Besides, it offers many editing facilities like effects, color match, motion tracking, direct upload to social platforms, and a lot more. You need to follow a few steps to [record YouTube videos](https://tools.techidaily.com/wondershare/filmora/download/) using Filmora and easily save parts of the video.
@@ -159,6 +177,9 @@ You need to follow a few steps to record YouTube videos using Filmora and easily
 
 1. Open Wondershare Filmora and then click the PC Screen button to enter the screen recording interface.
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Download part of YouTube video with Filmora](https://images.wondershare.com/filmora/article-images/pc-screen-recorder-filmora.jpg)
 
 1. In the Wondershare Screen Recorder tool, you can choose to record your full screen or any target window. For example, since we want to record part of the YouTube video, choose target window and then select the browser playing the YouTube video.
@@ -179,6 +200,18 @@ Download segments of the YouTube video effortlessly with a few taps on your phon
 
 ![filmora logo](https://neveragain.allstatics.com/2019/assets/icon/logo/filmora-horizontal.svg)
 
+<!-- affiliate ads begin -->
+<span id="1793213">
+					<video width="1080" height="1620" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## A cross-platform for making videos anywhere for all creators
 
 ![filmora-02](https://images.wondershare.com/filmora/filmora12/side_brand_filmora12.png)
@@ -200,6 +233,9 @@ Download segments of the YouTube video effortlessly with a few taps on your phon
 
 ![filmora12](https://images.wondershare.com/filmora/12-filmora/img/filmora12-01.png)
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 Richard Bennett
@@ -261,6 +297,9 @@ As it is with Windows itself, even the graphic card driver must be updated regul
 
 Depending on the root cause of the issue, the solutions to fix the **YouTube video black screen** issue may differ. Nevertheless, some of the most effective remedies are discussed below in detail:
 
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 1\. Web Browser Solution(s)
 
 **Solution 1: Update Your Web Browser**
@@ -287,6 +326,9 @@ Sometimes even the web browser history and caches can also prevent a YouTube vid
 
 After launching the web browser (Google Chrome is used here for example), go to the **Customize and control Google Chrome** menu, and then go to **More tools**, and then select **Clear browsing data**.
 
+<!-- affiliate ads begin -->
+<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![clear google chrome cache](https://images.wondershare.com/filmora/article-images/clear-google-chrome-cache.jpg)
 
 Switch between the **Basic** and **Advanced** tabs on the **Clear browsing data** box to choose the records that you want to delete, and then choose your preferred duration of the records from the **Time range** drop-down list.
@@ -319,6 +361,9 @@ If the video is visible on a different web browser, probably the default one tha
 
 • Follow the on-screen instructions from there to remove the web browser from your PC. Next, use Microsoft Edge (or any other browser) to download and install a fresh copy of Google Chrome and see if the issue is fixed
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 2\. ISP or Internet Speed Solution(s)
 
 If you are experiencing a slow Internet connection, the issue might be either from your Internet Service Provider’s (ISP’s) side, or on your part. In any case, you can try the following solutions to fix the issue:
@@ -361,6 +406,9 @@ Click **Search automatically for drivers** from the next screen that appears and
 
 **Note:** If your PC has multiple graphic cards installed in it, you will have to follow this procedure for each of them individually.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 3: How to Troubleshoot YouTube Black Screen on Mobile?
 
 If you wish to watch online videos on your smartphone, but experience **YouTube video black screen**, the process of fixing the issue on the phones is comparatively simple. The steps that are given below explain the procedure:
@@ -373,6 +421,9 @@ Go to **Settings** and then tap **Apps** from the **Settings** Go to YouTube and
 
 Tap it and then select **Clear data and Clear cache**. Relaunch YouTube and see if the issue is fixed.
 
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![fix YouTube black screen on Android](https://images.wondershare.com/filmora/article-images/fix-youtube-video-black-screen-android.jpg)
 
 ### How to Troubleshoot YouTube Black Screen On iOS
@@ -381,6 +432,9 @@ Tap it and then select **Clear data and Clear cache**. Relaunch YouTube and see 
 
 Long-tap the YouTube app on your iOS device, and then tap **Remove App**, and then select **Delete App**.
 
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![fix YouTube black screen on iPhone](https://images.wondershare.com/filmora/article-images/delete-youtube-from-iphone.jpg)
 
 Go to **App Store** and download and install a fresh copy of YouTube, and see if the problem is resolved.
@@ -398,3 +452,46 @@ There could be several reasons for **YouTube black screen**, and depending on th
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-gain-cost-free-visuals-from-selective-4-youtube-feeds/"><u>[New] 2024 Approved  Gain Cost-Free Visuals From Selective 4 YouTube Feeds</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-make-a-youtube-intro-video-2-ways/"><u>[New] 2024 Approved  How to Make A YouTube Intro Video [2 Ways]</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-flavorful-follows-top-food-vloggers-to-track-for-2024/"><u>[New] Flavorful Follows  Top Food Vloggers to Track for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-free-yourself-from-fringe-a-youtube-video-fix-guide-for-2024/"><u>[New] Free Yourself From Fringe  A YouTube Video Fix Guide for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-free-youtube-image-saver-compilation-for-2024/"><u>[New] Free YouTube Image Saver Compilation for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-green-blueprint-planning-for-a-resilient-urban-future-for-2024/"><u>[New] Green Blueprint  Planning for a Resilient Urban Future for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-guide-to-disable-recommended-podcast-features-in-spotify/"><u>[New] Guide to Disable Recommended Podcast Features in Spotify</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-guide-to-producing-effective-youtube-promo-videos-for-2024/"><u>[New] Guide to Producing Effective YouTube Promo Videos for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-harmonizing-youtube-production-with-a-9-to-5-routine-for-2024/"><u>[New] Harmonizing YouTube Production with a 9-to-5 Routine for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-how-to-convert-youtube-views-into-cash-through-ads-for-2024/"><u>[New] How to Convert YouTube Views Into Cash Through Ads for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-how-to-disableremove-youtube-shorts-permanently2-for-2024/"><u>[New] How to Disable/Remove YouTube Shorts Permanently?2 For 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-how-to-make-a-youtube-subscribe-link-easy-for-2024/"><u>[New] How to Make a YouTube Subscribe Link - Easy for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-how-to-produce-eye-catching-and-informative-videos-for-education-channels-for-2024/"><u>[New] How to Produce Eye-Catching and Informative Videos for Education Channels for 2024</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-in-2024-becoming-an-exclusive-guest-on-tiktok-live/"><u>[New] In 2024, Becoming an Exclusive Guest on TikTok Live</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-free-youtube-spotlight-with-two-key-approaches/"><u>[New] In 2024, Free YouTube Spotlight with Two Key Approaches</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-viewers-to-earnings-youtube-earning-basics/"><u>[New] In 2024, From Viewers to Earnings  YouTube Earning Basics</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-global-streaming-giants-face-off-facebook-live-youtube-live-periscope/"><u>[New] In 2024, Global Streaming Giants' Face-Off  Facebook Live, YouTube Live, Periscope</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-selecting-prime-meme-blueprints/"><u>[New] Selecting Prime Meme Blueprints</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-top-10-pioneering-free-screen-recorder-applications-for-mac-for-2024/"><u>[New] Top 10 Pioneering Free Screen Recorder Applications for Mac for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-high-quality-audio-collections-a-youtube-creators-guidebook/"><u>[Updated] 2024 Approved  High-Quality Audio Collections  A YouTube Creator's Guidebook</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-big-should-a-good-thumbnail-be-youtubes-ultimate-guide/"><u>[Updated] 2024 Approved  How Big Should a Good Thumbnail Be? YouTube's Ultimate Guide</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-from-live-logging-to-global-broadcasting-mastery-through-mindfulness-for-2024/"><u>[Updated] From Live Logging to Global Broadcasting  Mastery Through Mindfulness for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-hack-the-youtube-timeline-increase-or-decrease-sound-for-2024/"><u>[Updated] Hack the YouTube Timeline  Increase or Decrease Sound for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-hidden-treasures-on-youtube-understanding-unlisted-footage-for-2024/"><u>[Updated] Hidden Treasures on YouTube  Understanding 'Unlisted' Footage for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-flash-clip-content-wizard/"><u>[Updated] In 2024, Flash Clip Content Wizard</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-free-6-best-youtube-to-mp3-downloader-for-android/"><u>[Updated] In 2024, FREE 6 Best YouTube to MP3 Downloader for Android</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-gamers-quest-1000plus-game-adventures-unfolded/"><u>[Updated] In 2024, Gamer's Quest  1,000+ Game Adventures Unfolded</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-giggles-galore-7-entertaining-video-sets-for-chuckleheads/"><u>[Updated] In 2024, Giggles Galore  7 Entertaining Video Sets for Chuckleheads</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-harnessing-the-benefits-with-creative-commons-licenses/"><u>[Updated] In 2024, Harnessing the Benefits with Creative Commons Licenses</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-top-10-free-stock-footage-websites-you-should-know/"><u>[Updated] In 2024, Top 10 Free Stock Footage Websites You Should Know</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/approved-cultivating-a-positive-mindset-against-cyberbullying/"><u>2024 Approved  Cultivating a Positive Mindset Against Cyberbullying</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-pro-audio-insight-expertly-selected-9-mic-recorder-devices/"><u>2024 Approved  Pro Audio Insight  Expertly Selected 9 Mic Recorder Devices</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/broadcasting-fb-movies-on-whatsapp/"><u>Broadcasting FB Movies on WhatsApp</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/captivating-audiences-adopting-youtube-vlogger-charisma-for-2024/"><u>Captivating Audiences  Adopting YouTube Vlogger Charisma for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/fiendish-funny-factory/"><u>Fiendish Funny Factory</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-use-pokemon-emerald-master-ball-cheat-on-vivo-y100i-power-5g-drfone-by-drfone-virtual-android/"><u>How to Use Pokémon Emerald Master Ball Cheat On Vivo Y100i Power 5G | Dr.fone</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-7-best-vocal-modification-software-on-the-market/"><u>In 2024, 7 Best Vocal Modification Software on the Market</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-9-vivo-y27-5g-monitoring-apps-for-parental-controls-drfone-by-drfone-virtual-android/"><u>In 2024, Top 9 Vivo Y27 5G Monitoring Apps for Parental Controls | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/navigating-zoom-on-chromebook-essential-advice-for-2024/"><u>Navigating Zoom on Chromebook  Essential Advice for 2024</u></a></li>
+</ul></div>

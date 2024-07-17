@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  Fortnite Thumbnail Blitz  A 30-Second Guide\""
-date: 2024-06-06T14:16:04.249Z
-updated: 2024-06-07T14:16:04.249Z
+date: 2024-07-16T02:48:25.144Z
+updated: 2024-07-17T02:48:25.144Z
 tags:
   - ai video
   - ai youtube
@@ -32,6 +32,9 @@ Filmora has recently introduced a new feature named AI Portrait that uses Artifi
 
 **Step 01:** To start making a Fortnite thumbnail, it is important to have a screenshot of your gameplay. We can make a perfect screenshot using Fortnite Replay Mode. If you have recently played a Fortnite match, you can access its replay under the Career tab. Under the Career tab select Replays.
 
+<!-- affiliate ads begin -->
+<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<!-- affiliate ads end -->
 ![make-fortnite-thumbnail-step1](https://images.wondershare.com/filmora/article-images/make-fortnite-thumbnail-step1.jpg)
 
 **Step 02:** If you are using a console, the game will only store 10 recent gameplays, but if you are using a PC, it will store 100 recent gameplays in this section. From all these gameplays, select the one that you want to use for the Thumbnail. Once you choose gameplay, you can control everything in it. The angle, speed, and camera mode.
@@ -40,6 +43,9 @@ Filmora has recently introduced a new feature named AI Portrait that uses Artifi
 
 **Step 03:** For creating a perfect thumbnail, select "Drone Free Camera" mode from the camera mode located on the bottom right corner of the screen. It will allow us to change the angle the way we want. Choose an angle of your choice and take the screenshot.
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![make-fortnite-thumbnail-step3](https://images.wondershare.com/filmora/article-images/make-fortnite-thumbnail-step3.jpg)
 
 **Step 04:** Open Filmora X, make sure to select the 16:9 screen ratio. Import the screenshot using the import button.
@@ -60,6 +66,9 @@ Filmora has recently introduced a new feature named AI Portrait that uses Artifi
 
 **Step 08:** It will remove the background of the screenshot.
 
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![make-fortnite-thumbnail-step8](https://images.wondershare.com/filmora/article-images/make-fortnite-thumbnail-step8.jpg)
 
 **Step 09:** To add a background, go to the media and navigate to "Sample Color." Drag a color of your choice and drop it below the screenshot.
@@ -80,12 +89,18 @@ Filmora has recently introduced a new feature named AI Portrait that uses Artifi
 
 **Step 13:** To access the directory where this screenshot is saved, right-click on the screenshot and click on "Reveal in Explorer." It will open the folder that contains all the screenshots you take through Filmora. Your Fortnite Thumbnail is ready to be used on your Youtube videos.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![make-fortnite-thumbnail-step13](https://images.wondershare.com/filmora/article-images/make-fortnite-thumbnail-step13.jpg)
 
 #### Conclusion
 
 With Filmora, there are no limits. You can use your imagination to create amazing Fortnite thumbnails or thumbnails for other purposes. This article is just a demo teaching you how you use Filmora X to develop free and astounding thumbnails. Explore other options and elements of Filmora to take your thumbnails to another level.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
 Ollie Mattison
@@ -107,12 +122,18 @@ In today’s world where businesses are going digital, it is very important to t
 
 If you are a budding YouTuber or just looking at starting to make YouTube videos, you should consider among your editing tools a YouTube Clip Maker. It is an application that has all the tools necessary for you to edit videos in a fast and convenient way and enables you to upload the completed videos to YouTube. It is a simple tool with a friendly-to-use interface for editing videos, it should be a must-have for all users.
 
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 1\. Best YouTube Clip Maker Filmora
 
 Filmora is a feature-rich audio and video editor that helps beginners with the editing of their audio and video files. The designers did their job with the armature editors in mind. It gives them a simple and easy-to-use layout that makes the work less complicated. Filmora has a built-in feature that lets you record your music and voice and also trim, merge, and cut a split your mp3 files.
 
 Besides all the wonderful features, Filmora lets you make adjustments to speed, pitch, and volume, this makes you improve the clarity of your audio file. The app can be used to customize ringtones and specialized sound effects for your presentation.
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![drag video to timeline](https://images.wondershare.com/filmora/guide/filmora-split-button.jpg)
 
 [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
@@ -155,6 +176,9 @@ Choose "Record a voiceover" on the Record menu. It would be better to connect a 
 
 All media files recorded are automatically saved in the “Media Library”, in case of further editing, you can drag them to the timeline.
 
+<!-- affiliate ads begin -->
+<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 2\. How to Make YouTube Clip Online
 
 [**www.youtubetrimmer.com**](http://www.youtubetrimmer.com)
@@ -181,6 +205,9 @@ Export
 
 Once you are done editing and happy with the outcome, select the Export button to start rendering the video. Here you can choose to publish it on YouTube or save it for other uses.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 3\. YouTube Clip Maker for Android and iPhone
 
 **KineMaster**
@@ -201,6 +228,9 @@ Step 3:**Share**
 
 You can export your project up to 4k and 60fps. The app saves directly to your camera’s roll besides letting you share to social media.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Part 4: Related FAQs
 
 ****How to Make a Clip from a YouTube Video** **？**
@@ -373,6 +403,9 @@ Export
 
 Once you are done editing and happy with the outcome, select the Export button to start rendering the video. Here you can choose to publish it on YouTube or save it for other uses.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ## Part 3\. YouTube Clip Maker for Android and iPhone
 
 **KineMaster**
@@ -517,3 +550,57 @@ YouTubers use several video editors for their work. Some of the most popular edi
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-find-your-digital-companion-the-top-6-youtube-personality-puzzles/"><u>[New] 2024 Approved  Find Your Digital Companion  The Top 6 YouTube Personality Puzzles</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-haul-vlogging-101-a-step-by-step-guide/"><u>[New] 2024 Approved  Haul Vlogging 101  A Step-by-Step Guide</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-hire-wisdom-top-10-recruiting-video-guide/"><u>[New] 2024 Approved  Hire Wisdom  Top 10 Recruiting Video Guide</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-many-viewer-thumbs-up-equals-money-youtube-tips/"><u>[New] 2024 Approved  How Many Viewer Thumbs Up Equals Money? YouTube Tips</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/new-ephemeral-film-sculptor/"><u>[New] Ephemeral Film Sculptor</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-finding-your-niche-making-money-with-video-content-for-2024/"><u>[New] Finding Your Niche  Making Money with Video Content for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-from-basics-to-blockbusters-building-an-audience-on-gaming-channels-for-2024/"><u>[New] From Basics to Blockbusters  Building an Audience on Gaming Channels for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-global-phenomenon-vids-surpassing-100-million-views-for-2024/"><u>[New] Global Phenomenon Vids Surpassing 100 Million Views for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-harnessing-ambiance-with-thoughtful-lighting-for-2024/"><u>[New] Harnessing Ambiance with Thoughtful Lighting for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-historical-insights-at-your-fingertips-top-10-for-students-for-2024/"><u>[New] Historical Insights at Your Fingertips – Top 10 for Students for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-how-to-craft-eye-catching-youtubes-end-titles-for-2024/"><u>[New] How to Craft Eye-Catching YouTubes End Titles for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-how-to-optimize-your-channels-with-youtubes-featured-spotlight-for-2024/"><u>[New] How to Optimize Your Channels with YouTube’s Featured Spotlight for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-how-to-see-your-subscribers-on-youtube-in-2024/"><u>[New] How to See Your Subscribers on YouTube, In 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-find-the-perfect-free-video-editor-app-for-iphones-and-ipads/"><u>[New] In 2024, Find the Perfect Free Video Editor App for iPhones & iPads</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-fine-tune-youtube-video-pacing-desktopmobile/"><u>[New] In 2024, Fine-Tune YouTube Video Pacing - Desktop/Mobile</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-free-effortless-mp3-downloads-from-youtube-videos/"><u>[New] In 2024, Free, Effortless MP3 Downloads From YouTube Videos</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-ingredients-to-inspiration-cooking-videos/"><u>[New] In 2024, From Ingredients to Inspiration  Cooking Videos</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-get-hd-quality-quickly-enable-av1-in-youtube-settings/"><u>[New] In 2024, Get HD Quality Quickly  Enable AV1 in YouTube Settings</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-grasping-youtube-seo-a-guide-to-keyword-discovery/"><u>[New] In 2024, Grasping YouTube SEO  A Guide to Keyword Discovery</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-find-your-niche-and-style-a-starters-guide/"><u>[New] In 2024, How to Find Your Niche and Style - a Starter's Guide</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-remove-pending-videos-from-your-youtube-history/"><u>[New] In 2024, How to Remove Pending Videos From Your YouTube History</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-seamlessly-stream-youtube-videos-from-your-idevice/"><u>[New] In 2024, How to Seamlessly Stream YouTube Videos From Your iDevice</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-transform-smartphone-capabilities-into-a-professional-yt-channel/"><u>[New] In 2024, How to Transform Smartphone Capabilities Into a Professional YT Channel</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-screen-capture-savvy-top-four-techniques-for-recording-games/"><u>[New] Screen Capture Savvy  Top Four Techniques for Recording Games</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-fifa-highlights-and-trends-charting-on-youtube/"><u>[Updated] 2024 Approved  FIFA Highlights & Trends  Charting on YouTube</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-harmonizing-cityscapes-and-nature-the-role-of-green-spaces/"><u>[Updated] 2024 Approved  Harmonizing Cityscapes and Nature  The Role of Green Spaces</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-make-collab-videos-and-grow-your-channel/"><u>[Updated] 2024 Approved  How to Make Collab Videos and Grow Your Channel?</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-tailor-youtube-thumbnails-for-maximum-impact/"><u>[Updated] 2024 Approved  How to Tailor YouTube Thumbnails for Maximum Impact</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-typology-of-fb-video-dimensions/"><u>[Updated] 2024 Approved  Typology of FB Video Dimensions</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-fixed-youtubes-missing-minute-media-for-2024/"><u>[Updated] Fixed  YouTube's Missing Minute Media for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-foremost-frame-starters-leading-16-youtube-videos-for-more-watchers-for-2024/"><u>[Updated] Foremost Frame Starters  Leading 16 YouTube Videos for More Watchers for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-watch-deleted-youtube-videos-online-in-2-ways-for-2024/"><u>[Updated] How to Watch Deleted YouTube Videos Online in 2 Ways for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-gamers-path-to-earnings-on-youtube/"><u>[Updated] In 2024, Gamer's Path to Earnings on YouTube</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-get-your-stream-on-point-with-these-top-webcams-for-youtube/"><u>[Updated] In 2024, Get Your Stream on Point with These Top Webcams for YouTube</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-craft-engaging-trailers-that-drive-channels-sales/"><u>[Updated] In 2024, How to Craft Engaging Trailers that Drive Channels' Sales</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-efficiently-delete-unwanted-video-feedback/"><u>[Updated] In 2024, How to Efficiently Delete Unwanted Video Feedback</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-make-fortnite-thumbnail-for-free-and-easy/"><u>[Updated] In 2024, How to Make Fortnite Thumbnail for Free and Easy</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-transform-your-videos-presence-with-youtube-thumbnail-tailoring/"><u>[Updated] Transform Your Video's Presence with YouTube Thumbnail Tailoring</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-unveiling-the-secrets-to-supervised-simultaneous-streams/"><u>[Updated] Unveiling the Secrets to Supervised Simultaneous Streams</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-elevating-design-skills-for-career-advancement/"><u>2024 Approved  Elevating Design Skills for Career Advancement</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfer-from-apple-iphone-se-2022-to-iphone-8x11-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How to Transfer from Apple iPhone SE (2022) to iPhone 8/X/11 | Dr.fone</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/quick-setup-obs-and-zoom-coexistence-made-simple/"><u>Quick Setup  OBS & Zoom Coexistence Made Simple</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/the-comprehensive-guide-to-farming-on-ginger-islet-for-2024/"><u>The Comprehensive Guide to Farming on Ginger Islet for 2024</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/the-ultimate-guide-to-get-the-rare-candy-on-pokemon-go-fire-red-on-realme-11-pro-drfone-by-drfone-virtual-android/"><u>The Ultimate Guide to Get the Rare Candy on Pokemon Go Fire Red On Realme 11 Pro | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/unlock-the-best-8-for-game-review-and-news/"><u>Unlock the Best: #8 For Game Review & News</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-2024-approved-the-ultimate-guide-to-the-best-iphone-apps-top-picks-and-insights/"><u>Updated 2024 Approved The Ultimate Guide to the Best iPhone Apps Top Picks and Insights</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-in-2024-heres-a-step-by-step-guide-for-the-powerdirector-color-match-process-also-check-out-the-professional-and-quick-powerdirector-alternative-if-/"><u>Updated In 2024, Heres a Step-by-Step Guide for the PowerDirector Color Match Process! Also, Check Out the Professional and Quick PowerDirector Alternative if You Find It a Bit Time-Consuming and Manual</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-premiere-vocal-and-instrumental-works-to-enhance-wedding-visuals-in-the-new-year-for-2024/"><u>Updated Premiere Vocal and Instrumental Works to Enhance Wedding Visuals in the New Year for 2024</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-seeking-out-ingenious-flatulence-audio-plugins-for-2024/"><u>Updated Seeking Out Ingenious Flatulence Audio Plugins for 2024</u></a></li>
+<li><a href="https://location-social.techidaily.com/why-your-whatsapp-live-location-is-not-updating-and-how-to-fix-on-your-vivo-y02t-drfone-by-drfone-virtual-android/"><u>Why Your WhatsApp Live Location is Not Updating and How to Fix on your Vivo Y02T | Dr.fone</u></a></li>
+</ul></div>

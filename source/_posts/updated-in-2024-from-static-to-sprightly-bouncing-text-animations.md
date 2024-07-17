@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] In 2024, From Static to Sprightly  Bouncing Text Animations\""
-date: 2024-06-06T14:30:14.569Z
-updated: 2024-06-07T14:30:14.569Z
+date: 2024-07-16T03:09:39.415Z
+updated: 2024-07-17T03:09:39.415Z
 tags:
   - ai video
   - ai youtube
@@ -18,6 +18,9 @@ thumbnail: https://thmb.techidaily.com/85e9c2e32a903b6bf60a65b77968212abbcf7690e
 
 # How to Create Animated Bouncing Text
 
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
 
 ##### Liza Brown
@@ -26,6 +29,9 @@ thumbnail: https://thmb.techidaily.com/85e9c2e32a903b6bf60a65b77968212abbcf7690e
 
 Earlier, you learned how to have a **[bounce text effect in Adobe After Effects](https://tools.techidaily.com/wondershare/filmora/download/)**. However, because AE is a complex application and has a steep learning curve, this section explains the two alternative ways to get the same effect on your existing video footage.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Method 1: How to Create Bouncing Text in Filmora Video Editor?
 
 When talking about [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/), the application is populated with several presets for texts and titles, animations, effects, filters, and much more.
@@ -54,6 +60,9 @@ Go to **Effects** from the standard toolbar, expand the **Filters** category fro
 
 You can customize the default effect by double-clicking the shake filter in the timeline, using the sliders in the upper-left area of the interface to make necessary adjustments, and then clicking **OK** to save the changes and to get back to the previous interface.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![Mild Shake filters adjust](https://images.wondershare.com/filmora/article-images/mild-shake-filter-adjust.jpg)
 
 **Step 4: Export the Final Output**
@@ -120,6 +129,9 @@ Click your preferred option from next to the **Download As** section to download
 
 Generating **bounce text** effect is much simpler when you use Wondershare Filmora or any of the online solutions as explained in Method 2\. While the former gives you more flexibility when it comes to customizations, the latter doesn’t require any app to be installed on your PC. In addition, many times the web apps offer their services for free, and therefore they are preferred by the novice users who are not much into post-production processes.
 
+<!-- affiliate ads begin -->
+<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
+<!-- affiliate ads end -->
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
 
 Liza Brown
@@ -135,10 +147,16 @@ Follow @Liza Brown
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
+<!-- affiliate ads begin -->
+<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Prime Source Directory: Downloading YouTube Video Intros
 
 # Best Websites for Downloading YouTube Intro Templates
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 ##### Richard Bennett
@@ -151,7 +169,7 @@ There is so much content on YouTube that reaching millions of viewers can prove 
 
 Video editing professionals use stock websites and online video editing platforms for a variety of reasons that range from obtaining complementary footage for their projects to discovering templates and other animation graphics. YouTube intro templates that are available on these websites are not compatible with all video editing, animation, motion graphics, and compositing software products. Here are some of the most reliable online sources that offer a wide variety of mesmerizing YouTube intro templates.
 
-#### 1. [Filmstock](https://tools.techidaily.com/wondershare/filmora/download/)
+#### 1. Filmstock
 
 **Price:** Free version available, subscription plans start at $9.99 per month
 
@@ -163,7 +181,7 @@ The Wondersahre’s stock footage platform offers a plethora of visual and audio
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
-#### 2. [MotionDen](https://motionden.com/video-maker/intro)
+#### 2. MotionDen
 
 **Price:** Free version available, subscription plans start at $9 per video
 
@@ -171,7 +189,7 @@ The Wondersahre’s stock footage platform offers a plethora of visual and audio
 
 YouTubers in need of a constant supply of fresh intros for their videos are going to love using MotionDen because this web-based video editing platform offers hundreds of customizable YouTube intro templates. You just have to select a template you like and upload your footage or use images from stock websites like Pixabay, Pexels or Unspalsh. MotionDen automates the video editing process which makes it a perfect choice for social media content creators. Even though you can make a video on this platform for free, you must pay a $9 fee to remove the watermark from it. Opting for a monthly subscription plan enables you to export all your videos in Full HD resolution and share them directly to YouTube.
 
-#### 3. [Velosofy](https://www.velosofy.com/)
+#### 3. Velosofy
 
 **Price:** Free
 
@@ -179,7 +197,7 @@ YouTubers in need of a constant supply of fresh intros for their videos are goin
 
 Setting up an account on Velosofy will grant you access to hundreds of predesigned intro, outro or logo templates for some of the best professional video editing apps in the industry. The website features more than 400 templates that can be used in a project you’re editing in Adobe After Effects, as well as hundreds of intro templates that can be added to projects in Sony Vegas, Blender or Cinema 4D. The best part is that downloading YouTube intro templates from Velosofy is a free and painless process that won’t take much more than a couple of minutes of your time.
 
-#### 4. [Videoblocks](https://www.videoblocks.com/collections/youtube-intros-outros)
+#### 4. Videoblocks
 
 **Price:** Subscription plans start at $8 per month
 
@@ -187,7 +205,7 @@ Setting up an account on Velosofy will grant you access to hundreds of predesign
 
 This is probably one of the largest video stock websites on the Internet right now that features video categories like Nature, People or Historical and Archival. The owners of the Basic subscription plan can’t download templates for Adobe After Effects since this option is only available within the Unlimited subscription plan. If you decide to become the full-time member of the Videoblocks community you’ll be able to download quick logo intros, glitch intros as well as a wide array of different templates you can add to videos you edit in After Effects. Those of you who want to purchase intro templates directly from the artists can use the Marketplace option that offers an equally impressive selection of intros.
 
-#### 5. [Videobolt](https://videobolt.net/welcome)
+#### 5. Videobolt
 
 **Price:** Free trial available, prices of subscription plans are available upon request
 
@@ -195,7 +213,7 @@ This is probably one of the largest video stock websites on the Internet right n
 
 Videobolt makes creating intros for YouTube videos look easy, as you just have to browse through the platform's collection of templates, and click Edit once you find the one that is a perfect fit for your project. Afterward, you just have to upload the media files you’d like your intro to contain. You won’t be able to use the platform’s template customization tools unless you are a registered subscriber. Videobolt is an excellent option for companies, entrepreneurs or anyone else who need an easy way to create visually impressive intros for the videos they upload to their YouTube channels.
 
-#### 6. [Flixexpress](https://flixpress.com/AutomatedTemplates.aspx)
+#### 6. Flixexpress
 
 **Price:** Free, subscription plans start at $0.83 per month billed annually
 
@@ -226,3 +244,51 @@ Follow @Richard Bennett
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-harnessing-imovies-potential-for-youtube-broadcasting/"><u>[New] 2024 Approved  Harnessing iMovie's Potential for YouTube Broadcasting</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-heating-up-your-youtube-videos-with-top-winter-backdrops/"><u>[New] 2024 Approved  Heating Up Your YouTube Videos with Top Winter Backdrops</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-highly-compensated-online-visionary-creator/"><u>[New] 2024 Approved  Highly Compensated Online Visionary Creator</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-keep-viewers-coming-back-haul-video-tips-and-tricks/"><u>[New] 2024 Approved  How to Keep Viewers Coming Back  Haul Video Tips & Tricks</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-exploring-high-dynamic-range-potentials-via-luminance/"><u>[New] Exploring High Dynamic Range Potentials via Luminance</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-from-fading-to-flourishing-top-strategies-for-overcoming-zero-views-for-2024/"><u>[New] From Fading to Flourishing  Top Strategies for Overcoming Zero Views for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-frosty-frameworks-for-warm-video-productions-for-2024/"><u>[New] Frosty Frameworks for Warm Video Productions for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-fuse-melodies-into-your-youtube-digital-realm-for-2024/"><u>[New] Fuse Melodies Into Your Youtube Digital Realm for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-get-more-eyeballs-perfect-your-youtube-description-templates-for-viewer-attraction-for-2024/"><u>[New] Get More Eyeballs  Perfect Your YouTube Description Templates for Viewer Attraction for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-giggles-in-the-garage-ingenious-funny-video-concepts-for-youtubers-for-2024/"><u>[New] Giggles in the Garage  Ingenious Funny Video Concepts for YouTubers for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-elevating-your-google-meet-engagement-screen-sharing-tips/"><u>[New] In 2024, Elevating Your Google Meet Engagement  Screen Sharing Tips</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-free-youtube-revenue-predictor-tools/"><u>[New] In 2024, Free YouTube Revenue Predictor Tools</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-concept-to-classroom-a-guide-to-creating-engaging-edu-videos-on-youtube/"><u>[New] In 2024, From Concept to Classroom  A Guide to Creating Engaging Edu-Videos on YouTube</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-free-to-focused-financial-goals-the-journey-of-ajays-youtube-success/"><u>[New] In 2024, From Free to Focused Financial Goals  The Journey of Ajay’s Youtube Success</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-from-rookie-to-pro-unveiling-the-secrets-of-ginger-isle/"><u>[New] In 2024, From Rookie to Pro  Unveiling the Secrets of Ginger Isle</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-shorts-to-mp4-a-step-by-step-tutorial/"><u>[New] In 2024, From Shorts to MP4  A Step-by-Step Tutorial</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-guide-to-securely-copying-youtube-music-tracks-safely/"><u>[New] In 2024, Guide to Securely Copying YouTube Music Tracks Safely</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-haste-in-playlist-distribution-youtube-guide/"><u>[New] In 2024, Haste in Playlist Distribution  YouTube Guide</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-fast-fortnite-cover-art-techniques/"><u>[Updated] 2024 Approved  Fast Fortnite Cover Art Techniques</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-fresh-funds-finds-economical-monetization-platforms-for-beginners/"><u>[Updated] 2024 Approved  Fresh Funds Finds  Economical Monetization Platforms for Beginners</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-beginners-to-pros-choosing-webcams-for-youtube-live/"><u>[Updated] 2024 Approved  From Beginners to Pros  Choosing Webcams for YouTube Live</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-freezing-points-to-inviting-landscapes/"><u>[Updated] 2024 Approved  From Freezing Points to Inviting Landscapes</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-gimmicks-to-giants-navigating-popular-short-hashtags/"><u>[Updated] 2024 Approved  From Gimmicks to Giants  Navigating Popular Short Hashtags</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-2024-approved-how-to-block-spotifys-predicted-podcast-selections/"><u>[Updated] 2024 Approved  How to Block Spotify's Predicted Podcast Selections</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-spot-and-secure-top-monetization-potential/"><u>[Updated] 2024 Approved  How to Spot and Secure Top Monetization Potential</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-capture-photos-effortlessly-share-your-guide-revealed/"><u>[Updated] Capture Photos, Effortlessly Share  Your Guide Revealed</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-connect-tv-audiences-with-creative-fb-livestream-strategies/"><u>[Updated] Connect TV Audiences with Creative FB Livestream Strategies</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-find-your-perfect-match-top-8-mirrorless-cameras-for-live-streams-for-2024/"><u>[Updated] Find Your Perfect Match  Top 8 Mirrorless Cameras For Live Streams for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-foremost-news-channels-on-youtube-to-watch-daily-for-2024/"><u>[Updated] Foremost News Channels on YouTube to Watch Daily for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-get-more-eyeballs-perfect-your-youtube-description-templates-for-viewer-attraction-for-2024/"><u>[Updated] Get More Eyeballs  Perfect Your YouTube Description Templates for Viewer Attraction for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-wipe-out-your-youtube-buffered-videos-for-2024/"><u>[Updated] How-To  Wipe Out Your YouTube Buffered Videos for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-filmmaking-simplified-create-an-inviting-youtube-subscription-button-in-filmora/"><u>[Updated] In 2024, Filmmaking Simplified  Create an Inviting YouTube Subscription Button in Filmora</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-hobbyist-to-pro-optimal-cameras-for-youtubing/"><u>[Updated] In 2024, From Hobbyist to Pro  Optimal Cameras For YouTubing</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-gaining-traction-on-youtube-the-successful-sponsorship-roadmap-by-famebit/"><u>[Updated] In 2024, Gaining Traction on YouTube  The Successful Sponsorship Roadmap by FameBit</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-recognizing-disconnected-social-network/"><u>[Updated] Recognizing Disconnected Social Network</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-how-to-expertly-record-and-save-your-favorite-hulu-shows/"><u>2024 Approved  How To Expertly Record and Save Your Favorite Hulu Shows</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-whatsapp-wizardry-unveiling-the-ultimate-chat-strategies/"><u>2024 Approved  WhatsApp Wizardry  Unveiling the Ultimate Chat Strategies</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/efficient-tricks-to-scramble-youtube-playlists-pcphonetv-for-2024/"><u>Efficient Tricks to Scramble YouTube Playlists (PC/Phone/TV) for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-transformative-power-of-augmented-vision/"><u>In 2024, The Transformative Power of Augmented Vision</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-upgrading-minecraft-stability-via-ram-adjustment/"><u>In 2024, Upgrading Minecraft Stability via RAM Adjustment</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/new-2024-approved-what-is-an-ai-video-editor-wondershare-virbo-glossary/"><u>New 2024 Approved What Is an AI Video Editor? | Wondershare Virbo Glossary</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/new-interactive-webcast-the-ultimate-informative-experience-for-2024/"><u>New Interactive Webcast The Ultimate Informative Experience for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/quickening-vimeo-content-streams-for-2024/"><u>Quickening Vimeo Content Streams for 2024</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-get-back-lost-music-from-vivo-s17e-by-fonelab-android-recover-music/"><u>The way to get back lost music from Vivo S17e</u></a></li>
+</ul></div>

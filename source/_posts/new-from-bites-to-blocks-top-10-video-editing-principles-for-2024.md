@@ -1,7 +1,7 @@
 ---
 title: "\"[New] From Bites to Blocks  Top 10 Video Editing Principles for 2024\""
-date: 2024-06-06T13:51:33.467Z
-updated: 2024-06-07T13:51:33.467Z
+date: 2024-07-16T02:11:44.633Z
+updated: 2024-07-17T02:11:44.633Z
 tags:
   - ai video
   - ai youtube
@@ -18,6 +18,9 @@ thumbnail: https://thmb.techidaily.com/ee736977879e7c042699ccb0ba782ae72fcd626a8
 
 # YouTube Video Editing Tips for Beginner Editors
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.fr/filmora/filmora/MarionDubois.jpg)
 
 ##### Marion Dubois
@@ -38,6 +41,9 @@ One of the first things you have to do is make sure that you have chosen a video
 
 Using either too complicated or too basic a video editor can only create problems for you. An advanced video editor may create very high-end, professional videos, but it will take months just to get the hang of the software. Whereas a free basic video editor may not give as many options as you’d need to edit your videos properly.
 
+<!-- affiliate ads begin -->
+<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<!-- affiliate ads end -->
 ### 2\. Use Fast Computers
 
 Being a video creator, you’ll have to store numerous huge files on your computer. To improve your current PC, you can invest in an SSD, which is a lot faster than the traditional hard disk.
@@ -48,18 +54,27 @@ SSD will not only improve your export, loading, and rendering time but it will a
 
 You can watch video editing tutorials to learn and perfect the art of video editing. You can easily find free tutorials online, visiting websites like Skillshare and Red Giant tutorials to access free video editing tutorials. Search for tutorials that are specific to the editing software you use. You can also search for tutorials that will help improve your content.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
+<!-- affiliate ads end -->
 ### 4\. Use Keyboard Shortcuts
 
 Learn the keyboard shortcuts for various functions in the software, especially the ones that are usually repeated throughout the process like undo, redo, delete, etc.
 
 You can also invest in an Editing keyboard, they are software specific and already have keyboard shortcut icons in them.
 
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 5\. Add Good Music
 
 Another important tip to keep your audience all ears is to add good music to your videos. Whether it is background music or a soundtrack in between shots, it has to pair well with your video.
 
 If you are on a budget and don’t want to spend money on music, there are royalty-free options available. But, know that good music only comes at a price.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 6\. Add Text, Titles, and Graphics
 
 You can choose from a wide variety of text and titles. You’ll also have tools to enhance the graphics of your video. When you have so many options, choosing the right one can be difficult. It is better to keep the font of the text simple.
@@ -106,6 +121,18 @@ It helps make your videos vibrant and colorful
 
 Visual and audio effects can be added to improve the image and sound quality of the video
 
+<!-- affiliate ads begin -->
+<span id="1993652">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 3\. Audio Ducking
 
 You can layer one sound on top of the other.
@@ -137,10 +164,16 @@ Follow @Marion Dubois
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Investigating the Financial Benefits of Each YouTube Watcher
 
 # How Much Money Do YouTubers Make Per View
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 ##### Richard Bennett
@@ -170,6 +203,9 @@ Google’s AdSense service, through which YouTubers make money, pays YouTubers f
 
 YouTubers do not make money on the views of their videos, because not all viewers click on ads. Many viewers bypass ads completely using ad-blockers. The amount of money YouTubers earn from a single ad impression is called their CPI or "cost per impression."
 
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## CPI Rates Explained
 
 YouTube advertising is currently managed inside the AdSense platform. In case you're not familiar with AdSense, you can have 2 different kinds of ads - the cost per click (CPC) or the cost per view (CPV).
@@ -232,6 +268,9 @@ Instead of relying on YouTube to pay them, YouTubers need to seek out other ways
 
 We all agree that being a YouTube star isn't an easy path. However, if you honestly love what you do, then you will be willing to put effort into making great videos regularly. Part of that is also being willing to take the time to promote them and yourself, as well as putting time and effort into forging a good relationship with your audience.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Why No Longer 10,000 Views?
 
 YouTube used to let anybody monetize their videos, but that has now changed. Then for a while, you'll qualify for monetization after reaching 10,000-lifetime views on your channel. But as of 2018, the rules to YouTube monetization has gotten more challenging.
@@ -246,6 +285,9 @@ The reason for this is that YouTube was having trouble with channels that were t
 
 _Are you finding it difficult to earn money on YouTube? Subscribe to the [Filmora.io YouTube channel](https://www.youtube.com/channel/UCuD18o7XuDBqMlDTCrJ2ReA) for more tips on channel monetization._
 
+<!-- affiliate ads begin -->
+<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 Richard Bennett
@@ -263,3 +305,59 @@ Follow @Richard Bennett
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-extract-unlimited-photographic-content-from-esteemed-4-video-channels/"><u>[New] 2024 Approved  Extract Unlimited Photographic Content From Esteemed 4 Video Channels</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-financial-forecasts-in-focus-select-stock-youtube-channels/"><u>[New] 2024 Approved  Financial Forecasts in Focus  Select Stock YouTube Channels</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-flawless-footage-with-best-stabilizer-brands/"><u>[New] 2024 Approved  Flawless Footage with Best Stabilizer Brands</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-formatting-a-subscription-link-on-youtube/"><u>[New] 2024 Approved  Formatting a Subscription Link on YouTube</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-viewers-to-vips-ajays-strategy-for-sustainable-income-streams/"><u>[New] 2024 Approved  From Viewers to VIPs  Ajay's Strategy for Sustainable Income Streams</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-experience-seamless-recording-cost-free-tools-for-pcsmacos/"><u>[New] Experience Seamless Recording  Cost-Free Tools for PCs/macOS</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-facebook-media-extractor-mp3-focus/"><u>[New] Facebook Media Extractor – MP3 Focus</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-from-raw-feedback-a-critical-review-of-top-video-editors-for-youtube-for-2024/"><u>[New] From Raw Feedback  A Critical Review of Top Video Editors for YouTube for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-guidance-for-effortless-addition-of-youtube-playlists-to-your-site-for-2024/"><u>[New] Guidance for Effortless Addition of YouTube Playlists to Your Site for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-how-to-create-time-travel-teleportation-effects/"><u>[New] How to Create Time Travel Teleportation Effects</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-how-to-get-people-to-subscribe-by-asking-the-right-way-for-2024/"><u>[New] How to Get People to Subscribe by Asking the Right Way for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-how-to-keep-unwanted-content-away-from-your-computer-and-phone-for-2024/"><u>[New] How to Keep Unwanted Content Away From Your Computer and Phone for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-how-to-transform-your-youtube-vids-a-guide-to-softened-screens-for-2024/"><u>[New] How to Transform Your Youtube Vids  A Guide to Softened Screens for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-feast-your-eyes-enjoyment-without-cost-watch-9-christmas-films-online/"><u>[New] In 2024, Feast Your Eyes, Enjoyment Without Cost  Watch 9 Christmas Films Online</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-financial-fortitude-for-youtubers-beyond-basic-earnings/"><u>[New] In 2024, Financial Fortitude for YouTubers  Beyond Basic Earnings</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-casual-follower-to-dedicated-subscriber-inspirational-journey/"><u>[New] In 2024, From Casual Follower to Dedicated Subscriber  Inspirational Journey</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-ftp-to-feed-the-complete-guide-to-uploading-to-youtube/"><u>[New] In 2024, From FTP to Feed  The Complete Guide to Uploading to YouTube</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-watcher-to-writer-how-to-set-up-a-sports-channel-on-macos/"><u>[New] In 2024, From Watcher to Writer  How to Set Up a Sports Channel on macOS</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-guide-the-ultimate-list-of-video-converters/"><u>[New] In 2024, Guide  The Ultimate List of Video Converters</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-hit-the-play-button-youtubes-best-band-channels/"><u>[New] In 2024, Hit the Play Button! YouTube's Best Band Channels</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-change-youtube-playback-speed-to-speed-up-or-slow-down-video/"><u>[New] In 2024, How to Change YouTube Playback Speed to Speed Up or Slow Down Video</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-craft-standout-videos-mastery-of-youtube-thumbnail-dimensions/"><u>[New] In 2024, How to Craft Standout Videos  Mastery of YouTube Thumbnail Dimensions</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-maximize-income-a-simplified-3-step-process-for-youtube-revenue-monitoring/"><u>[New] In 2024, How To Maximize Income  A Simplified 3-Step Process for YouTube Revenue Monitoring</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-create-endless-video-on-iphone/"><u>[New] In 2024, How-To  Create Endless Video on iPhone</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2023-in-review-social-medias-viral-videos-on-twitter/"><u>[Updated] 2023 in Review  Social Media's Viral Videos on Twitter</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-free-frame-perfection-on-youtube-your-ultimate-guidebook/"><u>[Updated] 2024 Approved  Free Frame Perfection on YouTube - Your Ultimate Guidebook</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-lengthy-video-to-captivating-animation-create-gifs-with-ease/"><u>[Updated] 2024 Approved  From Lengthy Video to Captivating Animation - Create Gifs with Ease</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-gaining-traction-on-youtube-the-successful-sponsorship-roadmap-by-famebit/"><u>[Updated] 2024 Approved  Gaining Traction on YouTube  The Successful Sponsorship Roadmap by FameBit</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-gamer-centric-streaming-tool-selection/"><u>[Updated] 2024 Approved  Gamer-Centric Streaming Tool Selection</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-grow-your-digital-presence-effective-techniques-for-multitasking-on-youtube-and-twitch/"><u>[Updated] 2024 Approved  Grow Your Digital Presence  Effective Techniques for Multitasking on Youtube and Twitch</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-algorithm-changes-shape-your-youtube-visibility/"><u>[Updated] 2024 Approved  How Algorithm Changes Shape Your YouTube Visibility</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-search-comments-on-youtube-quickly/"><u>[Updated] 2024 Approved  How to Search Comments on YouTube Quickly?</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-from-videos-to-vibrant-gifs-youtube-conversion-techniques-for-2024/"><u>[Updated] From Videos to Vibrant GIFs  YouTube Conversion Techniques for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-frosty-frameworks-for-warm-video-productions-for-2024/"><u>[Updated] Frosty Frameworks for Warm Video Productions for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-giggles-galaxy-a-guide-to-hilarious-youtube-stars-for-2024/"><u>[Updated] Giggles Galaxy  A Guide to Hilarious YouTube Stars for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-hasty-guide-from-raw-images-to-high-quality-youtube-thumbnail-art-for-2024/"><u>[Updated] Hasty Guide  From Raw Images to High-Quality YouTube Thumbnail Art for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-download-part-of-youtube-video-for-2024/"><u>[Updated] How to Download Part of YouTube Video for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-matchmake-for-maximum-viewership-on-youtube-for-2024/"><u>[Updated] How to Matchmake for Maximum Viewership on YouTube for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-first-footsteps-in-youtube-landscape-setting-up-shop-and-earning-profitably/"><u>[Updated] In 2024, First Footsteps in YouTube Landscape  Setting Up Shop and Earning Profitably</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-concept-to-creation-youtube-trailer-production-via-filmora/"><u>[Updated] In 2024, From Concept to Creation  YouTube Trailer Production via Filmora</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-idea-to-internet-fame-becoming-a-vtuber/"><u>[Updated] In 2024, From Idea to Internet Fame  Becoming a VTuber?</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-universal-youtube-guidelines-and-expectations/"><u>[Updated] Universal YouTube Guidelines and Expectations</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/chucklecrafts-create-meme-delight-for-2024/"><u>ChuckleCrafts  Create Meme Delight for 2024</u></a></li>
+<li><a href="https://android-location.techidaily.com/fake-android-location-without-rooting-for-your-samsung-galaxy-s23-tactical-edition-drfone-by-drfone-virtual/"><u>Fake Android Location without Rooting For Your Samsung Galaxy S23 Tactical Edition | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-full-guide-to-fix-itoolab-anygo-not-working-on-apple-iphone-6-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, Full Guide to Fix iToolab AnyGO Not Working On Apple iPhone 6 Plus | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-remove-a-previously-synced-google-account-from-your-xiaomi-redmi-note-12-proplus-5g-by-drfone-android/"><u>In 2024, How to Remove a Previously Synced Google Account from Your Xiaomi Redmi Note 12 Pro+ 5G</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-any-vivo-t2-5g-phone-password-using-emergency-call-by-drfone-android/"><u>In 2024, How To Unlock Any Vivo T2 5G Phone Password Using Emergency Call</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-pattern-locks-are-unsafe-secure-your-samsung-galaxy-s23-ultra-phone-now-with-these-tips-by-drfone-android/"><u>In 2024, Pattern Locks Are Unsafe Secure Your Samsung Galaxy S23 Ultra Phone Now with These Tips</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-top-entry-level-gaming-edit-suite-reviews/"><u>In 2024, Top Entry-Level Gaming Edit Suite Reviews</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-ultimate-guide-on-oppo-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide on Oppo FRP Bypass</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/quick-tips-tiktok-age-authentication-for-2024/"><u>Quick Tips  TikTok Age Authentication for 2024</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/the-ultimate-guide-how-to-bypass-swipe-screen-to-unlock-on-nokia-c32-device-by-drfone-android/"><u>The Ultimate Guide How to Bypass Swipe Screen to Unlock on Nokia C32 Device</u></a></li>
+</ul></div>

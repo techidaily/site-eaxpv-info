@@ -1,7 +1,7 @@
 ---
 title: "\"[New] In 2024, From Basic to Exceptional  A Step-by-Step Thumbnail Guide\""
-date: 2024-06-06T14:02:46.347Z
-updated: 2024-06-07T14:02:46.347Z
+date: 2024-07-16T02:28:35.968Z
+updated: 2024-07-17T02:28:35.968Z
 tags:
   - ai video
   - ai youtube
@@ -18,6 +18,9 @@ thumbnail: https://thmb.techidaily.com/8efb02d1ad78746fe7e04d066e97a30754c0040bd
 
 # The Ultimate Guide to YouTube Thumbnails that Get Views
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 ##### Richard Bennett
@@ -42,6 +45,9 @@ In order to create a custom video thumbnail, you’ll need a program to put it t
 
 Here are some examples of popular thumbnail styles.
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  ![Popular YouTube Thumbnail Layout](https://images.wondershare.com/filmora/article-images/popular-youtube-thumbnail-layout.jpg)
 
 ### 1\. The Classic Thumbnail (Photo or Screenshot)
@@ -70,6 +76,9 @@ You should also avoid fonts that are harder to read. Fonts with a lot of curves 
 
 Another tactic used in successful thumbnails is to add small graphics, like emojis or small images (i.e. pumpkins for a Halloween video), which are related to your video’s content. As with text, you don’t want to overload your thumbnail with images, but they’re a great way to add something eye-catching that’s a bit different from competing thumbnails.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 2\. The Emotional Laser (Background + Face Reacting)
 
 One increasingly popular style of YouTube thumbnail is what we’re going to call the ‘Emotional Laser’. It’s bright (like, blindingly bright), it communicates a clear feeling, and it creates high expectations for how exciting the video’s content is going to be.
@@ -131,6 +140,9 @@ You can make changes to the colors in your Spark thumbnail easily by selecting a
 
 Click to check more [YouTube thumbnail makers](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 4: How to Make Thumbnails That Get Clicks (Without Clickbait!)
 
 Here are the top 10 best practices for creating effective YouTube thumbnails:
@@ -177,6 +189,14 @@ As of now, this only works in the Google Chrome desktop browser. Videos have to 
 
 Alright, now that you know everything about YouTube thumbnails, go make one! Tell us in the comments what you’re going to do to make your video thumbnails stand out.
 
+<!-- affiliate ads begin -->
+<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
+<span class="text-ad-content">
+	#1 Rated Parental Control Software.<br/>
+	Monitor & Control all PC Activity!<br/>
+		<cite style="color:green">sentrypc.com/parental-controls/</cite>
+	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Touch Up YouTube Videos with Effects & Elements in Filmora
 
 As one of the most widely used video editing software in YouTube video editing, [Filmora](https://tools.techidaily.com/wondershare/filmora/download/) provides lots of templates and effects with an intuitive interface. Download the free trial version and get started now.
@@ -198,6 +218,9 @@ Follow @Richard Bennett
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Transform Spaces & Elevate Brands: The Ultimate Apps List for YouTube Artistry
 
 # Youtube Banners Makers: 10+ Online Tools to Create Channel Art
@@ -205,3 +228,59 @@ Follow @Richard Bennett
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-instantly-design-custom-coverage-for-your-short-videos/"><u>[New] 2024 Approved  How To Instantly Design Custom Coverage For Your Short Videos</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-sculpt-the-perfect-youtube-moniker-tips-and-tricks/"><u>[New] 2024 Approved  How to Sculpt the Perfect YouTube Moniker  Tips & Tricks</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-thrill-town-10-similar-video-games-to-gta-v/"><u>[New] 2024 Approved  Thrill Town  10 Similar Video Games To GTA V</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-2024-approved-uncovering-the-titans-of-gameplay-on-tiktok/"><u>[New] 2024 Approved  Uncovering the Titans of Gameplay on TikTok</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/new-crafting-effective-youtube-thumbnails-and-banners/"><u>[New] Crafting Effective YouTube Thumbnails & Banners</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-filmmakers-choice-selecting-perfect-lenses-for-youtube-creation-for-2024/"><u>[New] Filmmaker's Choice  Selecting Perfect Lenses for YouTube Creation for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-free-explore-youtubes-9-premium-full-length-christmas-flicks-for-2024/"><u>[New] Free  Explore YouTube's 9 Premium Full-Length Christmas Flicks for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-frolic-in-fun-the-best-comedy-centric-concepts-for-shorter-videos-for-2024/"><u>[New] Frolic in Fun  The Best Comedy-Centric Concepts for Shorter Videos for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-from-video-views-to-vault-closure-income-insights-for-youtubers-for-2024/"><u>[New] From Video Views to Vault Closure  Income Insights for Youtubers for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-gags-and-grins-techniques-in-parody-production-for-2024/"><u>[New] Gags and Grins  Techniques in Parody Production for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-generating-an-effective-youtube-subscribe-link-for-2024/"><u>[New] Generating an Effective YouTube Subscribe Link for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-harness-high-quality-banners-free-for-content-developers-for-2024/"><u>[New] Harness High-Quality Banners – Free for Content Developers for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-how-to-add-emojis-on-youtube-comments-for-2024/"><u>[New] How to Add Emojis on YouTube Comments for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-how-to-automate-iphones-video-repetition-for-2024/"><u>[New] How to Automate iPhone's Video Repetition for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-how-to-make-your-youtube-animated-subscribe-button-easily-with-filmora-for-2024/"><u>[New] How to Make Your YouTube Animated Subscribe Button Easily With Filmora for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-how-to-use-video-titles-and-youtube-tags-in-2024/"><u>[New] How to Use Video Titles and YouTube Tags, In 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-elevating-earnings-the-essentials-of-vimeo-revenue-model/"><u>[New] In 2024, Elevating Earnings  The Essentials of Vimeo Revenue Model</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-flipping-currencies-through-cosmetics-content/"><u>[New] In 2024, Flipping Currencies Through Cosmetics Content</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-twitchs-stage-to-youtube-writers-guide-to-cross-platform-content/"><u>[New] In 2024, From Twitch's Stage to YouTube’ Writers Guide to Cross-Platform Content</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-make-your-own-youtube-closures-without-spending/"><u>[New] In 2024, How to Make Your Own YouTube Closures Without Spending</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-navigating-the-world-of-youtube-content-creation-with-flair/"><u>[New] Navigating the World of YouTube Content Creation with Flair</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-top-picks-for-effortless-video-editing-on-pc-for-2024/"><u>[New] Top Picks for Effortless Video Editing on PC for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-3-step-formula-how-to-check-youtube-income-for-2024/"><u>[Updated] [3-Step Formula] How To Check YouTube Income for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-fast-tracked-fame-youtubes-pacey-video-breakthroughs/"><u>[Updated] 2024 Approved  Fast-Tracked Fame  YouTube's Pacey Video Breakthroughs</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-snippets-to-stars-the-essence-of-video-musical-success/"><u>[Updated] 2024 Approved  From Snippets to Stars  The Essence of Video Musical Success</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-hasty-methods-for-mixed-up-youtube-playback-sequence/"><u>[Updated] 2024 Approved  Hasty Methods for Mixed-Up YouTube Playback Sequence</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-clear-youtube-watch-later-playlist/"><u>[Updated] 2024 Approved  How to Clear YouTube Watch Later Playlist</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-upload-your-music-to-youtube/"><u>[Updated] 2024 Approved  How to Upload Your Music to YouTube</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-unveiling-facebooks-micro-video-blueprint/"><u>[Updated] 2024 Approved  Unveiling Facebook's Micro-Video Blueprint</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-weekly-must-see-elite-igtv-talents/"><u>[Updated] 2024 Approved  Weekly Must-See  Elite IGTV Talents</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-from-camera-roll-to-youtube-posting-short-clips-seamlessly-for-2024/"><u>[Updated] From Camera Roll to YouTube  Posting Short Clips Seamlessly for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-from-freezing-points-to-inviting-landscapes-for-2024/"><u>[Updated] From Freezing Points to Inviting Landscapes for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-growth-galore-strategies-for-surpassing-yield-with-youtube-mobile-audiences-for-2024/"><u>[Updated] Growth Galore  Strategies for Surpassing Yield with YouTube Mobile Audiences for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-how-much-wealth-can-you-generate-on-youtube-using-cpm-for-2024/"><u>[Updated] How Much Wealth Can You Generate on YouTube Using CPM for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-fan-to-earner-understanding-view-requirements/"><u>[Updated] In 2024, From Fan to Earner  Understanding View Requirements</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-snippets-to-stars-the-essence-of-video-musical-success/"><u>[Updated] In 2024, From Snippets to Stars  The Essence of Video Musical Success</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-zero-to-hero-in-youtube-traffic/"><u>[Updated] In 2024, From Zero to Hero in YouTube Traffic</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-inspire-your-physical-endeavors-the-most-motivating-track-list-for-gym-goers/"><u>[Updated] Inspire Your Physical Endeavors  The Most Motivating Track List for Gym Goers</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-creating-captivating-hdr-portraits-in-10-steps/"><u>2024 Approved  Creating Captivating HDR Portraits in 10 Steps</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/2024-approved-how-to-choose-a-nice-gopro-for-vlogging/"><u>2024 Approved How to Choose A Nice GoPro for Vlogging?</u></a></li>
+<li><a href="https://facebook.techidaily.com/7-key-revelations-from-the-facebook-papers/"><u>7 Key Revelations From The Facebook Papers</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/detailed-guide-of-ispoofer-for-pogo-installation-on-tecno-spark-10-pro-drfone-by-drfone-virtual-android/"><u>Detailed guide of ispoofer for pogo installation On Tecno Spark 10 Pro | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/full-guide-to-unlock-your-samsung-galaxy-a14-4g-by-drfone-android/"><u>Full Guide to Unlock Your Samsung Galaxy A14 4G</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/how-to-record-tv-shows-on-windows-pc-with-free-video-recording-software-for-2024/"><u>How to Record TV Shows on Windows PC with Free Video Recording Software for 2024</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-easy-guide-to-nokia-c110-frp-bypass-with-best-methods-by-drfone-android/"><u>In 2024, Easy Guide to Nokia C110 FRP Bypass With Best Methods</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-motorola-g24-power-to-samsung-galaxy-s21-ultra-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos From Motorola G24 Power to Samsung Galaxy S21 Ultra | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-your-apple-iphone-14-plus-passcode-4-easy-methods-with-or-without-itunes-drfone-by-drfone-ios/"><u>In 2024, How to Unlock Your Apple iPhone 14 Plus Passcode 4 Easy Methods (With or Without iTunes) | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-ipogo-will-be-the-new-ispoofer-on-google-pixel-fold-drfone-by-drfone-virtual-android/"><u>In 2024, iPogo will be the new iSpoofer On Google Pixel Fold? | Dr.fone</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/in-2024-seeking-out-elaborate-zombie-soundtracks/"><u>In 2024, Seeking Out Elaborate Zombie Soundtracks</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-in-2024-filmora-free-download-legit-and-virus-free-options/"><u>New In 2024, Filmora Free Download Legit and Virus-Free Options</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/techniques-for-swiftly-removing-multiple-messages-in-discord/"><u>Techniques for Swiftly Removing Multiple Messages in Discord</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-9-xiaomi-redmi-note-12-5g-monitoring-apps-for-parental-controls-drfone-by-drfone-virtual-android/"><u>Top 9 Xiaomi Redmi Note 12 5G Monitoring Apps for Parental Controls | Dr.fone</u></a></li>
+</ul></div>

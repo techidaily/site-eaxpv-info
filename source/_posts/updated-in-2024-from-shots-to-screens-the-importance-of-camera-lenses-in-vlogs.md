@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] In 2024, From Shots to Screens  The Importance of Camera Lenses in Vlogs\""
-date: 2024-06-06T15:06:26.342Z
-updated: 2024-06-07T15:06:26.343Z
+date: 2024-07-16T04:03:41.253Z
+updated: 2024-07-17T04:03:41.253Z
 tags:
   - ai video
   - ai youtube
@@ -40,6 +40,9 @@ In this article, I’m going to help you figure that out.
 * [Part 6: Vlogging With a Fast Lens](#VloggingWithAFastLens)
 * [Part 7: Optical Image Stabilization](#OpticalImageStabilization)
 
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Three Focal Length Groups: Wide, Standard, Telephoto
 
 There are three main ranges in focal lengths that camera lenses can be categorized into wide, standard, and telephoto.
@@ -78,6 +81,9 @@ As telephoto lenses are even more zoomed in, you’ll need to be even further aw
 
   In the above video, Marcos Rocha compares different focal lengths for talking head videos. Which focal length range do you like the look of?
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
 ### Crop Factor
 
 Focal lengths in camera lenses are measured in millimeters. You can vlog yourself handheld with a 24mm lens on a camera with a full-frame sensor (the sensor is the piece of hardware inside your camera that turns the light it receives into a digital image). But if you use a 24mm lens on a camera with a smaller sensor, like an APS-C sensor or even smaller Micro 4/3 sensor, more of you will get cropped out (see below).
@@ -86,6 +92,9 @@ Focal lengths in camera lenses are measured in millimeters. You can vlog yoursel
 
  In order to make up for the cropping that occurs, you will need to use a wider lens on cameras with smaller sensors to get the same shot you’d get with a full-frame camera.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Focal Length Equivalency Table
 
 This table shows you the focal lengths needed to achieve the same shot between cameras with different sensor sizes. In order to take a shot as wide as the shot I took of myself with the 24mm lens on my full-frame camera, I would need a 15mm lens on an APS-C sensor camera or a 12mm lens on a micro 4/3 camera.
@@ -107,6 +116,9 @@ This table shows you the focal lengths needed to achieve the same shot between c
 
  The next thing to consider when you’re looking for a lens is the aperture, the hole (often adjustable) within the lens that lets light in. Aperture for camera lenses is measured in f-stops (f/1.4, f/1.8, f/2.0) - the smaller the f-stop number, the larger the aperture (bigger hole letting even more light in).
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  ![Camera lenses Aperture Range](https://images.wondershare.com/filmora/article-images/camera-lenses-aperture-range.png)
 
  Because larger aperture lenses let more light in, they need a shorter time for cameras to compose an image. This is why larger aperture lenses are also called “fast” lenses.
@@ -141,6 +153,9 @@ If, however, you are shooting most of your vlogs on a tripod, you won’t need a
 
  Looking for ways to set up your talking-head shot for YouTube with any of these lenses? Check out our post on [4 Ways To Set Up Your Talking-Head Shots For YouTube](https://tools.techidaily.com/wondershare/filmora/download/).
 
+<!-- affiliate ads begin -->
+<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 Richard Bennett
@@ -156,6 +171,9 @@ Follow @Richard Bennett
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Step-by-Step Guide to Scripting Engaging YouTube Videos
 
 # How to Write a Script for a YouTube Video
@@ -163,3 +181,40 @@ Follow @Richard Bennett
 ![](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-enchanting-music-visuals-using-the-lyric-video-maker-toolkit/"><u>[New] 2024 Approved  Enchanting Music Visuals Using the Lyric Video Maker Toolkit</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-mp3-recording-guide-exclusive-to-free-skype-calls/"><u>[New] 2024 Approved  MP3 Recording Guide  Exclusive to Free Skype Calls</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-blend-zoom-events-smoothly-into-phone-and-desktop-plans-efficiently/"><u>[New] Blend Zoom Events Smoothly Into Phone & Desktop Plans Efficiently</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-frontier-makers-of-harmonized-audio-visual-experiences-for-2024/"><u>[New] Frontier Makers of Harmonized Audio-Visual Experiences for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-how-do-youtube-channels-get-paid-regularly-for-2024/"><u>[New] How Do YouTube Channels Get Paid Regularly for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-how-to-render-and-upload-your-youtube-video-faster-for-2024/"><u>[New] How to Render and Upload Your YouTube Video Faster for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-financial-flourishing-in-youtube-content-markets/"><u>[New] In 2024, Financial Flourishing in YouTube Content Markets</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-flawless-foundations-top-youtube-skincare-routines/"><u>[New] In 2024, Flawless Foundations  Top YouTube Skincare Routines</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-freebie-flicks-discovering-the-top-10-free-movies-online/"><u>[New] In 2024, Freebie Flicks  Discovering the Top 10 Free Movies Online</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-scripted-to-spontaneous-elevating-reactions-for-youtube-success-3-steps/"><u>[New] In 2024, From Scripted to Spontaneous  Elevating Reactions for YouTube Success (3 Steps)</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-greener-tech-better-ctas-with-subscriptions/"><u>[New] In 2024, Greener Tech, Better CTAs with Subscriptions</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-hour-high-viewers-the-best-of-youtube-now/"><u>[New] In 2024, Hour-High Viewers  The Best of YouTube Now</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-effective-is-sponsored-view-count-boosting/"><u>[New] In 2024, How Effective Is Sponsored View Count Boosting?</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-snapchat-emojis-the-real-meaning-you-may-not-know/"><u>[New] In 2024, Snapchat Emojis  The Real Meaning You May Not Know</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-top-11-youtube-video-rippers-to-download-youtube-videos/"><u>[New] In 2024, Top 11 YouTube Video Rippers to Download YouTube Videos</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-filmoras-recipe-for-captivating-youtube-trailers/"><u>[Updated] 2024 Approved  Filmora’s Recipe for Captivating YouTube Trailers</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-find-hotspots-for-online-video-dialogue/"><u>[Updated] 2024 Approved  Find Hotspots for Online Video Dialogue</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-favorites-to-featured-the-journey-to-a-unique-youtube-list/"><u>[Updated] 2024 Approved  From Favorites to Featured  The Journey to a Unique YouTube List</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-harnessing-viral-power-your-pathway-to-youtube-fame/"><u>[Updated] 2024 Approved  Harnessing Viral Power  Your Pathway to YouTube Fame</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-hiring-heroes-the-most-motivating-vids-of-the-year-1-10/"><u>[Updated] 2024 Approved  Hiring Heroes  The Most Motivating Vids of the Year #1-10</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-legally-convert-youtube-videos-to-mp4-format/"><u>[Updated] 2024 Approved  How to Legally Convert YouTube Videos to MP4 Format</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-re-watch-lost-youtube-scenes-online-simple-steps/"><u>[Updated] 2024 Approved  How to Re-Watch Lost YouTube Scenes Online  Simple Steps</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-start-a-successful-youtube-gaming-channel/"><u>[Updated] 2024 Approved  How to Start a Successful YouTube Gaming Channel</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-free-templates-for-dynamic-youtube-channel-closures-for-2024/"><u>[Updated] Free Templates for Dynamic YouTube Channel Closures for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-from-clips-to-classrooms-harnessing-youtubes-potential-for-teaching-for-2024/"><u>[Updated] From Clips to Classrooms  Harnessing YouTube's Potential for Teaching for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-highest-rated-video-call-software-not-zoom-for-pcs-and-phones/"><u>[Updated] Highest-Rated Video Call Software (Not Zoom) for PCs & Phones</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-navigating-camera-choices-our-selection-of-top-12-vlogging-tools/"><u>[Updated] Navigating Camera Choices  Our Selection of Top 12 Vlogging Tools</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/from-idea-to-implementation-crafting-a-powerful-documntary-narrative-for-2024/"><u>From Idea to Implementation  Crafting a Powerful Documntary Narrative for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/hangout-history-top-4-strategies/"><u>Hangout History  Top 4 Strategies</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-adobe-photoshop-shake-reduction-is-it-really-useful/"><u>In 2024, Adobe Photoshop Shake Reduction | Is It Really Useful?</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-navigating-through-the-leading-free-and-collaborative-windows-audio-processing-applications-for-2024/"><u>New Navigating Through the Leading Free and Collaborative Windows Audio Processing Applications for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/prime-approaches-to-chronicle-lol-clashes/"><u>Prime Approaches to Chronicle LOL Clashes</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/the-future-of-advertising-mastering-metaverse-for-2024/"><u>The Future of Advertising  Mastering Metaverse for 2024</u></a></li>
+</ul></div>

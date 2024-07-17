@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  Flair in Your Makeup Routine  Top Tutorial Insights\""
-date: 2024-06-06T14:56:03.542Z
-updated: 2024-06-07T14:56:03.542Z
+date: 2024-07-16T03:48:14.254Z
+updated: 2024-07-17T03:48:14.254Z
 tags:
   - ai video
   - ai youtube
@@ -47,6 +47,9 @@ Wondershare Filmora is specifically made keeping quality on priority and to make
 
 [![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## **Finding Your Niche in Beauty or Lifestyle**
 
 As a new makeup, beauty, or lifestyle YouTuber you’ll be jumping into a category that’s already packed with thousands of channels. In order to gain any momentum, you’ll have to decide on a particular thing you want to be known for. That’s your niche.
@@ -139,6 +142,9 @@ You might want to experiment with sitting at different distances to see how the 
 
 **_Step 2:_** Set your camera up a bit higher than your face and tilt it down towards yourself (shooting from slightly above is always more flattering). It should be set up at about a 15° angle to you.
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![tilt down your camera](https://images.wondershare.com/filmora/article-images/tilt-down-camera1.jpg)
 
 **_Step 3:_** Check your frame (this is easiest if your camera has a screen that flips out) to make sure there’s not too much empty space in your shot.
@@ -161,6 +167,9 @@ ISO 400 should be a happy medium for shooting inside with your ring light, but y
 
 For more info on [camera settings for beauty videos, click here](https://www.filmora.io/video-tutorials/how-to-set-up-your-camera-%E2%80%93-the-makeup-series-12.html).
 
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## **Lighting for Beauty**
 
 The key to achieving a high-quality picture for your beauty video is having a lot of light.
@@ -173,6 +182,9 @@ There are, however, some reasons you might want additional light:
 
 If you only have a ring light/front light then you may end up looking like you’re surrounded by shadows. If you want more light for your space you can use windows, household lamps, or professional video lights like softboxes or LED panels.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  ![light background](https://images.wondershare.com/filmora/article-images/light-background4.jpg)
 
 #### **To Stand Out Against your Background (‘Backlighting’)**
@@ -201,20 +213,23 @@ You can use softboxes, LED panels, clamp lights, household lamps, or any other l
 
 ####  
 
-#### 1\. [**Neewer Dimmable Fluorescent Ring Light**](https://www.amazon.com/Neewer-Camera-Photo-Video-Lighting/dp/B01LXDNNBW/ref=sr%5F1%5F1%5Fsspa?s=electronics&ie=UTF8&qid=1530136282&sr=1-1-spons&keywords=neewer+dimmable+ring+light&psc=1) **\- $110**
+#### 1\. **Neewer Dimmable Fluorescent Ring Light**
 
 One cool feature of the Neewer Ring Light is that you can choose between daylight and a more orange-tinted light depending on which of the included filters you use. In almost all situations you’ll want to use white light/daylight because the orange light will make you look orange, but if you ever wanted to create a warmer image to achieve a particular effect you’d have that option with this light.
 
-![Neewer Ring Light ](https://images.wondershare.com/filmora/article-images/neewer-ring-light5.jpg)
+![Neewer Ring Light](https://images.wondershare.com/filmora/article-images/neewer-ring-light5.jpg)
 
 This light is dimmable and can be adjusted to the angle that suits your shot. That’s true of our number 2 pick too, and the second place light actually has a slight edge over the Neewer light because its color temperature is 5400K which is slightly closer to daylight than Neewer’s 5500K, but that’s honestly not super important for YouTube. They’re close enough that you won’t be able to tell the difference, and this light is over $100 more affordable.
 
-#### 2\. [**Prismatic Halo Ring Light**](https://www.amazon.com/Prismatic-Halo-Ring-Light-Stand/dp/B015NJ2YHY/ref=sr%5F1%5F3?s=electronics&ie=UTF8&qid=1530135663&sr=1-3&keywords=prismatic+18%22+halo+ring+light) **\- $260**
+#### 2\. **Prismatic Halo Ring Light**
 
 This lightweight ring light is easy to transport, set up, and mount your phone or camera to. It’s a fluorescent ‘daylight’ (5400K) light, so the colors in your videos will look natural.
 
 This light is dimmable, so you can turn it down if it’s too bright, and the Prismatic Light Stand will allow you to tilt your light to the perfect angle. This will be handy if you’re mounting your camera inside the ring but want to place it slightly above your face instead of having it look at you head on.
 
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## **Build Your Own Diva Ring Light**
 
 A ring light is an important tool for a lot of beauty YouTubers, but it doesn’t fit into everyone’s budget. Here’s one popular way to create your own ring light for about $20\.
@@ -242,6 +257,9 @@ This is your ring light. Continue to step 5 if you want it to have a stand (you 
 
 **_Step 5:_** Fasten your ring light tightly to your paper towel stand securely with several zip ties. Make sure to fasten it at the bottom (where the excess rope light is coming out of your ring light). Cut off the tails of the zip ties.
 
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## **How to Make a Makeup Tutorial – Before You Start**
 
 Before you start recording your makeup tutorial there are a few things you should do.
@@ -252,6 +270,9 @@ Before you start recording your makeup tutorial there are a few things you shoul
  4. **_Do a video test._** Before you start your video for real, start recording and shoot some test footage. Watch that back to make sure you like the look of your frame, your face is never blurry, and you’re happy with the overall look of things.
  5. **_Do an audio test._** If you’re going to be talking in your video instead of recording a voiceover after, do an audio test to make sure your audience will be able to hear you clearly.
 
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## **How to Make a Makeup Tutorial – Recording**
 
 Here are some things to keep in mind while you record your makeup tutorial:
@@ -290,6 +311,9 @@ Follow @Richard Bennett
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
+<!-- affiliate ads begin -->
+<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Elevate Video Appeal: Crafting Unforgettable Thumbnail Images
 
 # How To Add Custom Thumbnails to Your YouTube Videos
@@ -297,3 +321,42 @@ Follow @Richard Bennett
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-find-your-perfect-vlog-title-best-free-name-generators/"><u>[New] 2024 Approved  Find Your Perfect Vlog Title - Best Free Name Generators</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-first-foray-into-fashionable-mac-made-videos-for-youtube/"><u>[New] 2024 Approved  First Foray Into Fashionable Mac-Made Videos for YouTube</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-fixing-invisible-areas-within-youtube-videos/"><u>[New] 2024 Approved  Fixing Invisible Areas Within YouTube Videos</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-editing-desk-to-youtube-post-production-processes/"><u>[New] 2024 Approved  From Editing Desk to YouTube  Post-Production Processes</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-gamers-galaxy-a-thousand-stars-in-gaming/"><u>[New] 2024 Approved  Gamers' Galaxy  A Thousand Stars in Gaming</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-get-superior-visuals-from-youtube-downloading-thumbnails-free/"><u>[New] 2024 Approved  Get Superior Visuals From YouTube - Downloading Thumbnails Free</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-global-lens-local-tales-how-to-transform-your-travel-experiences-into-content/"><u>[New] 2024 Approved  Global Lens, Local Tales  How to Transform Your Travel Experiences Into Content</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-harmonizing-visuals-and-soundtracks-with-youtubes-video-editor/"><u>[New] 2024 Approved  Harmonizing Visuals & Soundtracks with YouTube's Video Editor</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-get-a-youtube-video-trending/"><u>[New] 2024 Approved  How to Get a YouTube Video Trending</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-easy-download-of-youtube-preview-pictures/"><u>[New] In 2024, Easy Download of YouTube Preview Pictures</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-in-2024-leading-ipad-audio-recorder-software-list-3/"><u>[New] In 2024, Leading iPad Audio Recorder Software List #3</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-leveraging-tiktok-videos-for-twitter-audiences/"><u>[New] Leveraging TikTok Videos for Twitter Audiences</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-drive-participation-with-artisanal-story-inquiries/"><u>[Updated] 2024 Approved  Drive Participation with Artisanal Story Inquiries</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-fixing-the-problem-hidden-thumbnails-in-youtube-shorts-for-2024/"><u>[Updated] Fixing the Problem  Hidden Thumbnails in YouTube Shorts for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-free-yourself-from-paywalls-with-these-subtitle-getters-for-2024/"><u>[Updated] Free Yourself From Paywalls with These Subtitle Getters for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-from-data-to-drama-utilizing-google-trends-in-video-planning-for-2024/"><u>[Updated] From Data to Drama  Utilizing Google Trends in Video Planning for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-from-video-to-music-youtube-to-mp3-on-macos-for-2024/"><u>[Updated] From Video to Music  YouTube to MP3 on MacOS for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-global-giga-viewers-worlds-favorite-youtube-stars-for-2024/"><u>[Updated] Global Giga-Viewers  World's Favorite YouTube Stars for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-loop-videos-on-iphone-in-2024/"><u>[Updated] How to Loop Videos on iPhone, In 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-finding-free-music-a-producers-handbook/"><u>[Updated] In 2024, Finding Free Music  A Producer's Handbook</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-foremost-directors-of-cinematic-harmony/"><u>[Updated] In 2024, Foremost Directors of Cinematic Harmony</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-chords-to-chart-toppers-essential-musician-focused-youtube-content/"><u>[Updated] In 2024, From Chords to Chart-Toppers  Essential Musician-Focused YouTube Content</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-fundamental-equipment-for-channel-foundations/"><u>[Updated] In 2024, Fundamental Equipment for Channel Foundations</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-gamers-dream-gear-youtube-collection/"><u>[Updated] In 2024, Gamers' Dream Gear  YouTube Collection</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-gastronomy-gurus-essential-chefs-to-subscribe-to/"><u>[Updated] In 2024, Gastronomy Gurus  Essential Chefs to Subscribe To</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-hashtags-that-elevate-your-channels-visibility-and-value/"><u>[Updated] In 2024, Hashtags that Elevate Your Channels' Visibility & Value</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-convert-youtubes-audios-to-mp3-safely-step-by-step-guide/"><u>[Updated] In 2024, How To Convert YouTube's Audios to MP3 Safely - Step-by-Step Guide</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-streamline-your-multimedia-browsing-in-chrome-using-pip/"><u>[Updated] Streamline Your Multimedia Browsing in Chrome Using PIP</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-transform-your-viewership-with-immersive-360-livestreams-on-youtube/"><u>[Updated] Transform Your Viewership with Immersive 360° Livestreams on YouTube</u></a></li>
+<li><a href="https://location-social.techidaily.com/edit-and-send-fake-location-on-telegram-for-your-oppo-a18-in-3-ways-drfone-by-drfone-virtual-android/"><u>Edit and Send Fake Location on Telegram For your Oppo A18 in 3 Ways | Dr.fone</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/enlightened-techniques-to-preserve-your-iptv-streams/"><u>Enlightened Techniques to Preserve Your IPTV Streams</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-your-vivo-y100-location-on-twitter-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change your Vivo Y100 Location on Twitter | Dr.fone</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/navigating-through-common-youtube-short-difficulties-for-2024/"><u>Navigating Through Common YouTube Short Difficulties for 2024</u></a></li>
+<li><a href="https://location-social.techidaily.com/set-your-preferred-job-location-on-linkedin-app-of-your-realme-11x-5g-drfone-by-drfone-virtual-android/"><u>Set Your Preferred Job Location on LinkedIn App of your Realme 11X 5G | Dr.fone</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-in-2024-unlock-vertical-video-potential-top-editing-apps-for-ios-and-android/"><u>Updated In 2024, Unlock Vertical Video Potential Top Editing Apps for iOS and Android</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  Highlighted Viewer Insights Unveiled\""
-date: 2024-06-06T15:08:20.901Z
-updated: 2024-06-07T15:08:20.901Z
+date: 2024-07-16T04:06:30.061Z
+updated: 2024-07-17T04:06:30.061Z
 tags:
   - ai video
   - ai youtube
@@ -58,12 +58,21 @@ Notice the name "lc" in the first URL- that stands for linked comment. YouTube m
 
 YouTube has been working on improving the navigation of the comment section for videos, and highlighted comments are one of them. These comments appear even above the pinned comments on a video. The label of a highlighted comment is displayed above the commentator's name in a light grey shade.
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![YouTube Highlighted Comments](https://images.wondershare.com/filmora/article-images/youtube-highlighted-comments.jpg)
 
 YouTube labels comment replies as well and call it "Highlighted Reply." You can see this tag above the replier's name in the same color tone.
 
+<!-- affiliate ads begin -->
+<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![YouTube Highlighted Reply](https://images.wondershare.com/filmora/article-images/youtube-highlighted-reply.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 3: How to Make My Comment Highlighted?
 
 Now, making YouTube highlight your comment on a popular video is nothing less than an art. YouTube doesn't make it easy for you. The advantage of getting your comment highlighted on YouTube is limitless.
@@ -78,10 +87,16 @@ The ways to acquire the URL or link for a highlighted comment are different for 
 
 Suppose you are a viewer who is going through the comments section of a video. If you want to get the highlighted URL for the comment, simply click on the timestamp (e.g., 2 weeks ago) beside the commentator's username.
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![YouTube Highlighted Comments](https://images.wondershare.com/filmora/article-images/youtube-highlighted-comments.jpg)
 
 On the other hand, for a YouTuber, getting access to the comment URL is relatively straightforward. The host will get a notification on his or her registered email-id when a viewer publishes a comment on their posted video. You will find the link to the highlighted comment in the notification
 
+<!-- affiliate ads begin -->
+<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 5: How to Reply to Highlighted Comments?
 
 Replying to "highlighted comments" on your YouTube channel is pretty easy since this feature was developed, keeping the user's convenience in mind. If you want to follow up or reply to such comments, you can do so from your email or YouTube Dashboard.
@@ -185,12 +200,18 @@ Big YouTubers can take advantage of non-searched, curiosity evoking titles like 
 
 As an example, let's suppose you vlogged your time backpacking around Europe last summer. Don't title your YouTube video "My Summer Backpacking Trip." Instead, title it "Going Up The Eiffel Tower | Beautiful View of Paris!" This way, all the people who are curious about visiting Paris, the Eiffel Tower, and seeing what the view is like from the top of the Eiffel Tower might find your video.
 
+<!-- affiliate ads begin -->
+<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 4\. Failing to have a thumbnail strategy
 
 New YouTubers tend to think about their thumbnail images after they’ve finished editing their videos together. This is way too late in the process for something that is so incredibly important in getting views.
 
 Even before filming, you should think about how you’re going to title your video to get the most views. After that, you should then try to picture, in your head, a thumbnail image that matches your title and creates curiosity and excitement. When you go into filming, you can then make sure to include some footage of you recreating that image.
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 5\. Making weak intros
 
 After you’ve managed to get someone to click on your video through your effective title and thumbnail image strategy, the next challenge is to keep that person watching your video without closing it too early. A typical viewer on YouTube decides within the first ten to fifteen seconds of landing on a video whether or not he or she will stay or leave. This short window of time is so important to set the tone of the rest of your video and build excitement and curiosity in your viewer with an effective, high-energy intro.
@@ -205,12 +226,18 @@ An important thing to do as a new YouTuber is engaging with your subscribers. So
 
 Connecting with your audience shouldn’t just be limited to YouTube either. Use your other social media channels to connect with your audience as well.
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 7\. Not promoting with social media
 
 YouTube isn’t the only social media platform that people are spending their time on. People are spending their time on all kinds of different social media platforms, like Twitter, Facebook, and Instagram. The more content in all of these platforms that you create to promote your video, the more potential your video has to be seen by their users.
 
 New YouTubers sometimes forget to promote their videos and channel using other social media platforms. Consequently, they miss out on the opportunity to get views from multiple sources of social media.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 8\. Spamming comments
 
 Commenting on other YouTube videos is another way to get your channel discovered from people reading over comments. If your profile picture and comment appears interesting enough, out of curiosity, people just might click your username to have a look at your channel.
@@ -219,6 +246,9 @@ But rather than leaving interesting comments that are related to the video, rath
 
 Spam comments annoy YouTubers. It would be much more beneficial to your channel to build good relationships with other YouTubers to possibly collaborate on a video together in the future.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 Richard Bennett
@@ -236,3 +266,67 @@ Follow @Richard Bennett
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-filmoras-quick-start-approach-for-youtube-trailers/"><u>[New] 2024 Approved  Filmora's Quick-Start Approach for YouTube Trailers</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-financially-flourishing-online-media-personality/"><u>[New] 2024 Approved  Financially Flourishing Online Media Personality</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-dissecting-the-ispring-screencap-magic-for-2024/"><u>[New] Dissecting the iSpring Screencap Magic for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-how-to-flip-your-video-collection-in-a-flash-for-2024/"><u>[New] How to Flip Your Video Collection in a Flash for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-how-to-gauge-if-an-mcn-is-right-for-your-youtube-journey-for-2024/"><u>[New] How to Gauge if an MCN Is Right for Your YouTube Journey for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-follow-the-flow-of-forum-fancies/"><u>[New] In 2024, Follow the Flow of Forum Fancies</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-capture-to-air-expert-tips-for-streaming-upside-down-videos-on-youtube/"><u>[New] In 2024, From Capture to Air  Expert Tips for Streaming Upside-Down Videos on Youtube</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-novice-to-expert-mastering-video-identity-on-youtube/"><u>[New] In 2024, From Novice to Expert  Mastering Video Identity on YouTube</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-raw-to-refined-the-ultimate-youtube-studio-editing-journey/"><u>[New] In 2024, From Raw to Refined  The Ultimate YouTube Studio Editing Journey</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-script-to-screen-youtube-video-creation-made-simple/"><u>[New] In 2024, From Script to Screen  YouTube Video Creation Made Simple</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-gourmet-guides-leading-food-vloggers-online/"><u>[New] In 2024, Gourmet Guides  Leading Food Vloggers Online</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-harnessing-technology-the-art-of-capturing-ios-devices-in-media/"><u>[New] In 2024, Harnessing Technology  The Art of Capturing iOS Devices in Media</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-hottest-youtube-music-playback-responses-23/"><u>[New] In 2024, Hottest YouTube Music Playback Responses '23</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-add-timestamps-to-youtube-video-to-increase-views/"><u>[New] In 2024, How to Add Timestamps to YouTube Video to Increase Views</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-listenleaders-pursuing-better-podcasts/"><u>[New] ListenLeaders  Pursuing Better Podcasts</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-a-step-by-step-approach-for-adding-soundtracks-to-youtube-clips/"><u>[Updated] 2024 Approved  A Step-by-Step Approach for Adding Soundtracks to YouTube Clips</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-chuckles-in-a-minute-how-to-whip-up-memes/"><u>[Updated] 2024 Approved  Chuckles in a Minute  How to Whip Up Memes</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-absolute-zero-to-audience-peaks-top-10-insights-on-boosting-video-viewership/"><u>[Updated] 2024 Approved  From Absolute Zero to Audience Peaks  Top 10 Insights on Boosting Video Viewership</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-frame-to-firm-selecting-your-mcn-partner/"><u>[Updated] 2024 Approved  From Frame to Firm  Selecting Your MCN Partner</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-generating-auto-subscribe-urls-for-youtube-channels/"><u>[Updated] 2024 Approved  Generating Auto Subscribe URLs for YouTube Channels</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-glam-up-video-images-integrating-shimmering-neons/"><u>[Updated] 2024 Approved  Glam up Video Images  Integrating Shimmering Neons</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-harmony-hunt-uncover-the-most-popular-free-downloader-apps-on-youtube-and-android/"><u>[Updated] 2024 Approved  Harmony Hunt - Uncover the Most Popular Free Downloader Apps on YouTube and Android</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-dynamic-interactions-key-to-enhancing-page-visibility-for-2024/"><u>[Updated] Dynamic Interactions  Key to Enhancing Page Visibility for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-flipping-currencies-through-cosmetics-content-for-2024/"><u>[Updated] Flipping Currencies Through Cosmetics Content for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-formulating-final-fact-finding-flourishes-for-2024/"><u>[Updated] Formulating Final Fact-Finding Flourishes for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-gamer-friendly-video-capture-apps-for-2024/"><u>[Updated] Gamer-Friendly Video Capture Apps for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-get-free-youtube-music-anytime-with-these-high-performing-splitters-for-2024/"><u>[Updated] Get Free YouTube Music Anytime With These High-Performing Splitters for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-globes-biggest-video-content-mogul-for-2024/"><u>[Updated] Globe’s Biggest Video Content Mogul for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-high-definition-hardware-unveiled-by-gamers-for-2024/"><u>[Updated] High-Definition Hardware Unveiled by Gamers for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-start-a-successful-youtube-gaming-channel-for-2024/"><u>[Updated] How to Start a Successful YouTube Gaming Channel for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-football-film-study-premier-insights-infographic/"><u>[Updated] In 2024, Football Film Study  Premier Insights Infographic</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-for-social-media-savants-distinguishing-between-igtv-and-youtube/"><u>[Updated] In 2024, For Social Media Savants  Distinguishing Between IGTV & YouTube</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-freeze-non-picked-youtube-video-suggestions/"><u>[Updated] In 2024, Freeze Non-Picked YouTube Video Suggestions</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-from-distance-to-face-to-face-laptop-techniques-for-whatsapp-calls/"><u>[Updated] In 2024, From Distance to Face-to-Face  Laptop Techniques for WhatsApp Calls</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-vision-to-visuals-craft-your-story-with-youtube-editor/"><u>[Updated] In 2024, From Vision to Visuals  Craft Your Story with YouTube Editor</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-make-killer-youtube-channel-art/"><u>[Updated] In 2024, How to Make Killer YouTube Channel Art</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-validate-your-youtube-profile-a-simple-guide/"><u>[Updated] In 2024, How to Validate Your YouTube Profile? A Simple Guide</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-navigating-the-wide-world-of-discord-message-formatting/"><u>[Updated] Navigating the Wide World of Discord Message Formatting</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/2024-approved-how-to-do-siri-voice-on-tiktok/"><u>2024 Approved  How to Do Siri Voice on TikTok?</u></a></li>
+<li><a href="https://location-fake.techidaily.com/4-methods-to-turn-off-life-360-on-realme-c55-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>4 Methods to Turn off Life 360 On Realme C55 without Anyone Knowing | Dr.fone</u></a></li>
+<li><a href="https://location-fake.techidaily.com/5-hassle-free-solutions-to-fake-location-on-find-my-friends-of-motorola-edge-2023-drfone-by-drfone-virtual-android/"><u>5 Hassle-Free Solutions to Fake Location on Find My Friends Of Motorola Edge 2023 | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/apple-id-locked-or-disabled-on-apple-iphone-7-7-mehtods-you-cant-miss-by-drfone-ios/"><u>Apple ID Locked or Disabled On Apple iPhone 7? 7 Mehtods You Cant-Miss</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/best-lenses-for-4k-professional-production/"><u>Best Lenses for 4K Professional Production</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/breaking-language-barriers-oculus-quest-and-mondly/"><u>Breaking Language Barriers: Oculus Quest & 'Mondly'</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-reset-iphone-14-plus-without-losing-data-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Reset iPhone 14 Plus without Losing Data? | Stellar</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/how-to-start-participating-in-google-webinars/"><u>How To Start Participating in Google Webinars</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/in-2024-binge-on-the-best-tiktoks-viral-video-collection/"><u>In 2024, Binge on the Best  TikTok's Viral Video Collection</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/in-2024-connecting-with-clarity-4-ways-to-share-stories/"><u>In 2024, Connecting with Clarity  4 Ways to Share Stories</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-how-to-record-vr-gameplay/"><u>In 2024, How to Record VR Gameplay</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-mirror-on-apple-iphone-xr-drfone-by-drfone-ios/"><u>In 2024, How to Screen Mirror on Apple iPhone XR? | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-picsart-edge-bringing-facial-movement-into-the-digital-realm/"><u>In 2024, Picsart Edge  Bringing Facial Movement Into the Digital Realm</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-why-does-the-pokemon-go-battle-league-not-available-on-lava-blaze-curve-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Why does the pokemon go battle league not available On Lava Blaze Curve 5G | Dr.fone</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/mobile-memory-master-iphone-data-restoration/"><u>Mobile Memory Master - iPhone Data Restoration</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/mouse-on-win11-blackout-issue/"><u>Mouse on Win11 Blackout Issue</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-imovie-manual-a-detailed-method-for-including-audio-files-for-2024/"><u>New IMovie Manual A Detailed Method for Including Audio Files for 2024</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/revolutionize-your-video-workflow-top-apple-editing-solutions-for-2024/"><u>Revolutionize Your Video Workflow Top Apple Editing Solutions for 2024</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/the-complete-guide-to-tecno-spark-10-5g-frp-bypass-everything-you-need-to-know-by-drfone-android/"><u>The Complete Guide to Tecno Spark 10 5G FRP Bypass Everything You Need to Know</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/tutorial-to-change-xiaomi-redmi-note-12-5g-imei-without-root-a-comprehensive-guide-by-drfone-android/"><u>Tutorial to Change Xiaomi Redmi Note 12 5G IMEI without Root A Comprehensive Guide</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-2024-approved-searching-for-high-quality-game-noise-fx/"><u>Updated 2024 Approved Searching for High-Quality Game Noise FX</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/youtube-earnings-per-watch-average-income-breakdown-for-2024/"><u>YouTube Earnings per Watch  Average Income Breakdown for 2024</u></a></li>
+</ul></div>

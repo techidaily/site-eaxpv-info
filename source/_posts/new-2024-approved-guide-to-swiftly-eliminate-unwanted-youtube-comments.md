@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  Guide to Swiftly Eliminate Unwanted YouTube Comments\""
-date: 2024-06-06T13:41:43.576Z
-updated: 2024-06-07T13:41:43.576Z
+date: 2024-07-16T01:57:06.563Z
+updated: 2024-07-17T01:57:06.563Z
 tags:
   - ai video
   - ai youtube
@@ -36,17 +36,23 @@ So how do you delete all YouTube comments? In this how-to blog, we will show you
 * [part 4: Delete Other People's Comments on Others' Channels](#part4)
 * [Part 5: Delete All Your Posted YouTube Comments](#part5)
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to Delete YouTube Comments from Desktop?
 
 In this section, we will tell you how you can do it from your desktop.
 
-1. Go to[https://www.youtube.com/](https://www.youtube.com/) from your desktop browser and log in.
+1. Go to [https://www.youtube.com/](https://www.youtube.com/) from your desktop browser and log in.
 2. Once you log in, you need to go to your channel. For this, you can select the My Channel option from the upper-left side of your YouTube home page.
 3. From the list of your videos, select the one you need and scroll down to reach the comment you want to delete.
 4. When you locate the comment, click on the three vertical dots on the right-hand side of the comment. From the drop-down list, click on Remove. The process is complete, and YouTube will remove your comment.
 
 You also have the option to report the comment or [hide the user from your channel](https://tools.techidaily.com/wondershare/filmora/download/).
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
 ## How to Delete All YouTube Comments from Mobile?
 
 The steps to deleting someone else’s YouTube comments from your mobile are similar to those from your desktop.
@@ -63,9 +69,9 @@ Have you accidentally posted something on a YouTuber’s channel? Are you anxiou
 
 Fear not. Read on to know how to **delete all comments you posted on someone else’s YouTube channel** from your desktop.
 
-1. Visit[https://www.youtube.com/](https://www.youtube.com/) from your desktop and then sign in YouTube channel.
+1. Visit [https://www.youtube.com/](https://www.youtube.com/) from your desktop and then sign in YouTube channel.
 2. If your YouTube account is not open, tap on Sign in and enter your email and password to log in to your account.
-3. Once there, you need to access your Comment History page. To do this, you can click on the three horizontal lines at the top left corner of your YouTube homepage. Click on History. On the page that opens, click Comments from the panel on the right. It will direct you to your Comment History page. You can also access the YouTube comment history from[here](https://www.youtube.com/feed/history/comment%5Fhistory).
+3. Once there, you need to access your Comment History page. To do this, you can click on the three horizontal lines at the top left corner of your YouTube homepage. Click on History. On the page that opens, click Comments from the panel on the right. It will direct you to your Comment History page. You can also access the YouTube comment history from [here](https://www.youtube.com/feed/history/comment%5Fhistory).
 1. When you reach the Comment History page, you will be able to find all comments you have ever posted. Scroll down to the comment you want to delete.
 2. Click on the three vertical dots that you see beside the target comment. You will find a Delete option. Tap on it, and confirm that you want to delete the comment. That completes the process. No more embarrassing comments!
 
@@ -101,7 +107,10 @@ To find your History from your desktop, you need to click on the three horizonta
 2. Once you find your target comment, click on the three vertical dots that appear on its right side. You will find the Report option from the pop-up menu. Click on that.
 3. When you tap Report, another dialogue box will appear. From the list of options, choose the most appropriate option, tap on Report at the lower right corner of the pop-up, and complete the process. YouTube will do the rest.
 
-![ Report YouTube comments](https://images.wondershare.com/filmora/article-images/report-youtube-comment.jpg)
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![Report YouTube comments](https://images.wondershare.com/filmora/article-images/report-youtube-comment.jpg)
 
 ## How to Delete All Your Posted YouTube Comments?
 
@@ -110,18 +119,24 @@ You can also delete all comments you ever posted on any YouTube video by hiding 
 1. You need to go to YouTube from your desktop and sign in to your account.
 2. Next, you can either click on the profile icon at the top right corner or the three horizontal lines beside the YouTube logo on your homepage. From the list of options, click Settings.
 
-![   YouTube Settings](https://images.wondershare.com/filmora/article-images/two-ways-settings-youtube-channel.jpg)
+![YouTube Settings](https://images.wondershare.com/filmora/article-images/two-ways-settings-youtube-channel.jpg)
 
-1. YouTube will direct you to the Settings page of your account. Choose Advanced Settings from the list on your left. You can also access it from[here](https://www.youtube.com/account%5Fadvanced).
+1. YouTube will direct you to the Settings page of your account. Choose Advanced Settings from the list on your left. You can also access it from [here](https://www.youtube.com/account%5Fadvanced).
 
-![   YouTube Advanced  Settings](https://images.wondershare.com/filmora/article-images/youtube-advanced-settings.jpg)
+<!-- affiliate ads begin -->
+<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![YouTube Advanced  Settings](https://images.wondershare.com/filmora/article-images/youtube-advanced-settings.jpg)
 
 1. Scroll down and select Delete Channel. Clicking it will not delete your account. When you click on Delete Channel, you will get two choices – ‘I want to hide my channel’ and ‘I want to permanently delete my content’. Select the first.
 
-![   YouTube Settings](https://images.wondershare.com/filmora/article-images/remove-youtube-content.jpg)
+![YouTube Settings](https://images.wondershare.com/filmora/article-images/remove-youtube-content.jpg)
 
 1. YouTube will now show you what will happen when you hide your channel. Check all the boxes to confirm that you understand, and then tap on Hide My Channel. YouTube will now delete all comments made by your account.
 
+<!-- affiliate ads begin -->
+<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Final Thoughts
 
 YouTube can be an unsafe place with unwanted comments everywhere. In this blog, we tried to show how you can get rid of comments on your and on others’ YouTube accounts. The next time you see an offensive comment or post something mistakenly, don’t forget to try our tips and make YouTube a safe platform again.
@@ -141,6 +156,9 @@ Follow @Richard Bennett
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Visionaries Shaping Marvel Online Experience
 
 # Top 4 Marvel Intro Makers Online
@@ -148,3 +166,56 @@ Follow @Richard Bennett
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-3-step-formula-how-to-check-youtube-income-for-2024/"><u>[New] [3-Step Formula] How To Check YouTube Income for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-video-to-audio-quickly-create-mp3-from-youtube-on-mac/"><u>[New] 2024 Approved  From Video to Audio  Quickly Create MP3 From YouTube on Mac</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-gamers-galaxy-100plus-spaces-of-play/"><u>[New] 2024 Approved  Gamer's Galaxy  100+ Spaces of Play</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-harmonize-your-hours-synchronized-video-playback-across-platforms/"><u>[New] 2024 Approved  Harmonize Your Hours  Synchronized Video Playback Across Platforms</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/0-must-have-youtube-intros-tools-for-beginners-all-free-for-2024/"><u>[New] 30 Must-Have YouTube Intros Tools for Beginners, All Free for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-filmmakers-companion-filmora-for-youtube-trailers-for-2024/"><u>[New] Filmmaker's Companion  Filmora for YouTube Trailers for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-for-social-media-savants-distinguishing-between-igtv-and-youtube-for-2024/"><u>[New] For Social Media Savants  Distinguishing Between IGTV & YouTube for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-freefall-into-success-top-hashtags-and-vlogging-techniques-for-2024/"><u>[New] FreeFall Into Success  Top Hashtags and Vlogging Techniques for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-from-streamers-to-millionaires-the-monetization-blueprint-for-2024/"><u>[New] From Streamers to Millionaires  The Monetization Blueprint for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-global-sensations-surpassing-100-million-views-on-youtube-the-yearly-countdown-for-2024/"><u>[New] Global Sensations  Surpassing 100 Million Views on YouTube (The Yearly Countdown) for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-growth-gamble-buying-popularity-or-authentic-audience-expansion-in-2024/"><u>[New] Growth Gamble  Buying Popularity or Authentic Audience Expansion, In 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-hack-your-channels-identity-with-these-11-budget-tools-for-2024/"><u>[New] Hack Your Channel's Identity with These 11 Budget Tools for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-harnessing-monetization-potential-with-youtube-ad-strategies-for-2024/"><u>[New] Harnessing Monetization Potential with YouTube Ad Strategies for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-how-to-increase-video-engagement-with-customizable-youtube-thumbnails-for-2024/"><u>[New] How to Increase Video Engagement with Customizable YouTube Thumbnails for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-how-to-reverse-a-youtube-playlist-for-2024/"><u>[New] How to Reverse a YouTube Playlist for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-live-chat-to-large-screen-upload-twitch-streams-to-youtube/"><u>[New] In 2024, From Live Chat to Large Screen  Upload Twitch Streams to YouTube</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-video-content-to-cash-flow-youtubes-profit-mechanics/"><u>[New] In 2024, From Video Content to Cash Flow  YouTube's Profit Mechanics</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-gearing-up-for-youtube-success-cross-platform-strategies/"><u>[New] In 2024, Gearing Up for YouTube Success  Cross-Platform Strategies</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-global-viewer-count-triumphs-play-button-honors/"><u>[New] In 2024, Global Viewer Count Triumphs  Play Button Honors</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-harmonize-your-favorites-creating-custom-youtube-playlists/"><u>[New] In 2024, Harmonize Your Favorites  Creating Custom YouTube Playlists</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-harmonize-your-hours-synchronized-video-playback-across-platforms/"><u>[New] In 2024, Harmonize Your Hours  Synchronized Video Playback Across Platforms</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-add-logo-or-watermark-to-youtube-video/"><u>[New] In 2024, How to Add Logo or Watermark to YouTube Video</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-fast-techniques-to-restructure-your-youtube-sequence/"><u>[Updated] 2024 Approved  Fast Techniques to Restructure Your YouTube Sequence</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-free-online-webinar-conduct-with-youtube/"><u>[Updated] 2024 Approved  Free Online Webinar Conduct with YouTube</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-gamers-dream-gear-youtube-collection/"><u>[Updated] 2024 Approved  Gamers' Dream Gear  YouTube Collection</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-gaming-hits-with-powerful-hashtag-strategies/"><u>[Updated] 2024 Approved  Gaming Hits with Powerful Hashtag Strategies</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-generating-a-youtube-auto-subscribe-direct-link/"><u>[Updated] 2024 Approved  Generating a YouTube Auto Subscribe Direct Link</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-high-revenue-video-visionaries/"><u>[Updated] 2024 Approved  High-Revenue Video Visionaries</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-fives-finest-tools-for-rapid-video-frame-capturing/"><u>[Updated] Five's Finest Tools for Rapid Video Frame Capturing</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-free-digital-asset-valuation-tools-for-2024/"><u>[Updated] Free Digital Asset Valuation Tools for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-from-search-patterns-to-screenplay-crafting-videos-from-google-data-for-2024/"><u>[Updated] From Search Patterns to Screenplay  Crafting Videos From Google Data for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-from-unknown-to-famous-boosting-video-views-on-youtube-step-by-step-for-2024/"><u>[Updated] From Unknown to Famous  Boosting Video Views on YouTube Step-by-Step for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-phone-pics-to-professional-videos-selecting-the-top-9-enhancers/"><u>[Updated] In 2024, From Phone Pics to Professional Videos  Selecting the Top 9 Enhancers</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-getting-started-with-your-youtube-channel-essentials/"><u>[Updated] In 2024, Getting Started with Your YouTube Channel – Essentials</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-hashtags-hack-skyrocket-your-video-popularity/"><u>[Updated] In 2024, Hashtags Hack  Skyrocket Your Video Popularity</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-does-youtube-manage-post-upload-operations/"><u>[Updated] In 2024, How Does YouTube Manage Post-Upload Operations?</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-convert-youtube-to-mp3-in-3-ways-safe/"><u>[Updated] In 2024, How to Convert YouTube to MP3 in 3 Ways [Safe]</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-use-google-trends-to-come-up-with-video-ideas/"><u>[Updated] In 2024, How to Use Google Trends to Come up with Video Ideas?</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-top-ways-to-turn-your-shorts-into-a-money-machine-on-youtube/"><u>[Updated] Top Ways to Turn Your Shorts Into a Money Machine on YouTube</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-trailblazer-in-multimedia-craftsmanship/"><u>[Updated] Trailblazer in Multimedia Craftsmanship</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-unleash-creativity-pro-guide-for-youtube-studio-editing/"><u>[Updated] Unleash Creativity  Pro Guide for YouTube Studio Editing</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/5-solutions-for-xiaomi-redmi-note-12t-pro-unlock-without-password-by-drfone-android/"><u>5 Solutions For Xiaomi Redmi Note 12T Pro Unlock Without Password</u></a></li>
+<li><a href="https://howto.techidaily.com/8-ultimate-fixes-for-google-play-your-realme-c51-isnt-compatible-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Ultimate Fixes for Google Play Your Realme C51 Isnt Compatible | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-full-guide-to-fix-itoolab-anygo-not-working-on-lava-agni-2-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Full Guide to Fix iToolab AnyGO Not Working On Lava Agni 2 5G | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-how-to-reverse-a-video-on-iphone/"><u>In 2024, How to Reverse a Video on iPhone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-send-and-fake-live-location-on-facebook-messenger-of-your-samsung-galaxy-f14-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Send and Fake Live Location on Facebook Messenger Of your Samsung Galaxy F14 5G | Dr.fone</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/in-2024-the-ultimate-list-of-android-video-editors-with-no-watermark/"><u>In 2024, The Ultimate List of Android Video Editors with No Watermark</u></a></li>
+<li><a href="https://fake-location.techidaily.com/prevent-cross-site-tracking-on-realme-12-pro-5g-and-browser-drfone-by-drfone-virtual-android/"><u>Prevent Cross-Site Tracking on Realme 12 Pro 5G and Browser | Dr.fone</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-how-to-create-a-makeup-video-for-2024/"><u>Updated How to Create a Makeup Video for 2024</u></a></li>
+</ul></div>

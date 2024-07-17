@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] In 2024, Funny Flicks  Compilation of Chuckle-Inducing Short YouTube Videos\""
-date: 2024-06-06T13:38:44.481Z
-updated: 2024-06-07T13:38:44.481Z
+date: 2024-07-16T01:52:46.135Z
+updated: 2024-07-17T01:52:46.135Z
 tags:
   - ai video
   - ai youtube
@@ -40,6 +40,9 @@ Then the right platform with a plethora of pictures is covered hereunder the fol
 
 Yeah! The first idea looks so catchy. Everyone holds some dreams. And if you have such beautiful dreams that you would like to share with your loved ones. Then YouTube Shorts ideas are the right platform full of views, likes, and lovers from around the world. Just give a thrust to it.
 
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
+<!-- affiliate ads end -->
 ![filmora](https://images.wondershare.com/filmora/youtube-shorts-ideas-2.jpg)
 
 Also, you can discuss different sorts of dreams that the human genre has been dreaming of for years. You can even add a flavor of future dreams that will open up the space of excellent speculation one can think of.
@@ -56,6 +59,9 @@ So, pen down some compelling stories that do not need long writing work. But, li
 
 Pictures are a unique way to express feelings, especially when those funny pictures come with background voices, music, etc., it will create a different audio/visual effect.
 
+<!-- affiliate ads begin -->
+<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
+<!-- affiliate ads end -->
 ![filmora](https://images.wondershare.com/filmora/youtube-shorts-ideas-4.jpg)
 
 Using different online software, you can enhance the pictures or modify the background voice. Such a combination under YouTube Shorts Video ideas brings a different aura to your channel.
@@ -74,6 +80,9 @@ Living every moment creates a wonder. Let others also make a part of this journe
 
 If experimenting with chemicals or anything that surrounds you makes you out of the world, then there is the chance that you can come out as YouTube Shorts ideas Star. By just showing how one chemical, when mixed with another, creates something new and marvelous to see, look or feel.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![filmora](https://images.wondershare.com/filmora/youtube-shorts-ideas-6.jpg)
 
 Just review all your collection of experiments you did and combine them under YouTube Shorts Channel ideas. And make a big bust with such chemical/physical experiments.
@@ -82,6 +91,9 @@ Just review all your collection of experiments you did and combine them under Yo
 
 Competition creates a zeal to lead, and if you add some flavor to it. Then, people will love to take part in it. So, waiting for what? Just come out with YouTube Shorts funny Video Competition ideas to grab the audience to watch the videos and become active participants.
 
+<!-- affiliate ads begin -->
+
+<!-- affiliate ads end -->
 ![filmora](https://images.wondershare.com/filmora/youtube-shorts-ideas-7.jpg)
 
 Funny competition can vary from a weird hairstyle, odd season festival celebration, or anything that you think of interesting, different, and eye-catching.
@@ -98,6 +110,9 @@ Just give it a try and dance with the music you create with all the worldwide li
 
 Kids love cartoons, but the hidden fact is that everyone enjoys watching cartoon or cartoon characters to a certain extent. Then why not try mimicking some cartoon characters. If you are a fun-loving person, and in your life, you mimic any person’s character, then try mimicking cartoon characters under YouTube Short Video ideas.
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
 ![filmora](https://images.wondershare.com/filmora/youtube-shorts-ideas-9.jpg)
 
 Mixing some comedy flavor to life will add more fun and enjoyment to all those seeking funny moments to reflect their days. Come on; show up your humor with this unique style.
@@ -114,12 +129,18 @@ You will be surprised to see how much fun-loving these cute pets are—so, geare
 
 Everybody holds some unique talent. You just need to identify it. If you have some talent, then showcasing talent ideas for YouTube Shorts will apt you. The whole world is waiting to see something unique that only you can do. So, shred your shyness and let the world see how talented you are.
 
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![filmora](https://images.wondershare.com/filmora/youtube-shorts-ideas-11.jpg)
 
 Here, you got to know about the top 10 funny ideas for YouTube Shorts videos. Choose the one that fits you and start creating YouTube Shorts Channel with these ideas.
 
 Wait, there is much more than these best YouTube Shorts ideas. Yes, you heard that right! The following paragraph will lead you to get some important tips, with the help of which you can raise YouTube Short Videos views. So, without waiting anymore, move on to the next paragraph to get a glimpse of it.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 2: Tips to Get More Views for Your YouTube Shorts Videos
 
 Creating ideas for YouTube Shorts videos alone is not sufficient to grab more views. Some specific golden rules or tips will leap while catching more views to the YouTube Short Videos while applying the above ideas. Let’s understand them.
@@ -183,6 +204,9 @@ Follow @Shanoon Cox
 
 # How to Search Comments on YouTube Quickly?
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 ##### Richard Bennett
@@ -204,7 +228,7 @@ Comments are the best way to interact with subscribers on YouTube. YouTube’s S
 
 If you have a channel, you can use this feature in some simple steps.
 
-1. Visit YouTube[website](https://www.youtube.com/) on your desktop and sign in to your YouTube account.
+1. Visit YouTube [website](https://www.youtube.com/) on your desktop and sign in to your YouTube account.
 2. Go to the top right corner of your homepage, and you will find your profile icon. Click on it and from the drop-down menu, select the YouTube Studio option.
 3. This will take you to the YouTube Studio home page. On the left side, find and click on the Comments option, and then you will see all comments your YouTube channel has received.
 4. You can now click on the Filter icon from the comments section and type in the search term directly. Or, you can click the Search from the options, and type in the words you are looking for.
@@ -222,21 +246,24 @@ Besides the comment search feature, the YouTube Studio also has some in-built se
 
 **Response status:** Filter the comments to which you have responded or haven’t responded to.
 
-![  YouTube Studio comment filter](https://images.wondershare.com/filmora/article-images/youtube-studio-comment-filter-search.jpg)
+![YouTube Studio comment filter](https://images.wondershare.com/filmora/article-images/youtube-studio-comment-filter-search.jpg)
 
 You can combine these additional filters to narrow your comments search for YouTube.
 
+<!-- affiliate ads begin -->
+<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 2: Using YCS – YouTube Comment Search Extension
 
 You can use the YouTube Comment Search browser extension supported by Google Chrome to help you search YouTube comments effortlessly. To use it, follow these steps below.
 
 1. First, you need to install this extension. You can click this URL <https://chrome.google.com/webstore/detail/ycs-youtube-comment-searc/pmfhcilikeembgbiadjiojgfgcfbcoaa?hl=en> Or, you can open the Chrome Extensions page, and in the search bar at the top, type in YCS – YouTube Comment Search and press Enter.
 2. Click on the result that appears and then tap on the Add to Chrome button. This will add the extension to your browser.
-3. Once you add the extension, open[YouTube](https://www.youtube.com/) on your browser. Click on the video where you want to search the comments. You will find the YouTube Comment Search extension below it.
+3. Once you add the extension, open [YouTube](https://www.youtube.com/) on your browser. Click on the video where you want to search the comments. You will find the YouTube Comment Search extension below it.
 4. Tap on ‘Load comments’ and wait till the extension loads all the comments on the video.
 5. Now type your keywords, press Enter, and YCS will show all comments having the keyword you typed.
 
-![ YouTube Comment Search Extension](https://images.wondershare.com/filmora/article-images/search-comment-from-specific-user-with-ycs-extension.jpg)
+![YouTube Comment Search Extension](https://images.wondershare.com/filmora/article-images/search-comment-from-specific-user-with-ycs-extension.jpg)
 
 ## Part 3: Using Comments Search for YouTube Extension
 
@@ -244,7 +271,7 @@ If you are looking for an easy method to search YouTube comments, you can use th
 
 How can you use this extension to search YouTube comments? Here is a simple step-by-step tutorial.
 
-1. First, you need to download the extension from[Github](https://github.com/lettapp/ytcs/archive/master.zip). Then, locate the file on your computer and unzip it.
+1. First, you need to download the extension from [Github](https://github.com/lettapp/ytcs/archive/master.zip). Then, locate the file on your computer and unzip it.
 2. Next, you need to install it in the browser. Open your Chrome browser, and from the top right corner, click on the three vertical dots. You will find the Settings option towards the end of the drop-down menu, and then click on it.
 3. When the Settings page opens, select Extensions from the panel on the left side of the webpage. This will take you to a new tab.
 4. On the top right corner of the page, there will be a toggle switch called Developer Mode. Turn it on if it is off.
@@ -278,9 +305,12 @@ You can see all the comments you have posted in the Comment History in a few qui
 2. Once you sign in, click on the three horizontal lines at the top left corner of your YouTube page.
 3. Click on the History option and then you will find the option called Comments on the right side of your YouTube History page. Click on it to see all your YouTube comments.
 
-![ YouTube History Comment](https://images.wondershare.com/filmora/article-images/youtube-history-comments-menu.jpg)
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![YouTube History Comment](https://images.wondershare.com/filmora/article-images/youtube-history-comments-menu.jpg)
 
-You can also access the Comments History page directly from[here](https://www.youtube.com/feed/history/comment%5Fhistory).
+You can also access the Comments History page directly from [here](https://www.youtube.com/feed/history/comment%5Fhistory).
 
 ## Part 5: How to Find Out Who Posts the Most Comments on Your YouTube Videos?
 
@@ -320,3 +350,52 @@ Follow @Richard Bennett
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-seamlessly-upload-videos-onto-youtubes-platform/"><u>[New] 2024 Approved  How to Seamlessly Upload Videos Onto YouTube's Platform</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-from-live-logging-to-global-broadcasting-mastery-through-mindfulness-for-2024/"><u>[New] From Live Logging to Global Broadcasting  Mastery Through Mindfulness for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-guides-on-creating-cost-free-youtube-beginnings-and-conclusions-for-2024/"><u>[New] Guides on Creating Cost-Free YouTube Beginnings & Conclusions for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-how-to-fix-the-youtube-shorts-not-showing-up-issue-for-2024/"><u>[New] How to Fix the YouTube Shorts Not Showing Up Issue for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-how-to-mergecombinejoin-youtube-flv-videos-for-2024/"><u>[New] How to Merge/Combine/Join YouTube (FLV) Videos for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-fortnite-thumbnail-blitz-a-30-second-guide/"><u>[New] In 2024, Fortnite Thumbnail Blitz  A 30-Second Guide</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-average-to-exceptional-discover-the-finest-free-intra-designs/"><u>[New] In 2024, From Average to Exceptional  Discover the Finest Free Intra Designs</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-shopping-lists-to-viral-hauls-video-making-insights/"><u>[New] In 2024, From Shopping Lists to Viral Hauls  Video Making Insights</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-youtube-to-avi-perfect-conversion-tools-revealed/"><u>[New] In 2024, From YouTube to AVI  Perfect Conversion Tools Revealed</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-hit-the-jackpot-of-humor-craft-top-tier-youtube-reaction-videos-3-techniques/"><u>[New] In 2024, Hit the Jackpot of Humor – Craft Top-Tier YouTube Reaction Videos (3 Techniques)</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-home-studio-heroics-your-path-to-effectful-artistry/"><u>[New] In 2024, Home Studio Heroics  Your Path to Effectful Artistry</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-re-watch-lost-youtube-scenes-online-simple-steps/"><u>[New] In 2024, How to Re-Watch Lost YouTube Scenes Online  Simple Steps</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-step-by-step-guide-on-using-gaming-youtube-banner-templates-for-2024/"><u>[New] Step-By-Step Guide on Using Gaming YouTube Banner Templates for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-2024-approved-exquisite-stardew-valley-enhancements-revealed-top-7/"><u>[Updated] 2024 Approved  Exquisite Stardew Valley Enhancements Revealed (Top 7)</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-finance-frontiers-the-finest-youtube-channels-to-follow/"><u>[Updated] 2024 Approved  Finance Frontiers  The Finest YouTube Channels to Follow</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-free-video-credits-pro-the-best-suggestions-1-6/"><u>[Updated] 2024 Approved  Free Video Credits Pro - The Best Suggestions #1-6</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-search-patterns-to-screenplay-crafting-videos-from-google-data/"><u>[Updated] 2024 Approved  From Search Patterns to Screenplay  Crafting Videos From Google Data</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-guide-on-purging-stored-videos-from-youtube-watchlater/"><u>[Updated] 2024 Approved  Guide on Purging Stored Videos From YouTube Watchlater</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-happiness-awaits-selecting-prime-anime-content-on-youtube/"><u>[Updated] 2024 Approved  Happiness Awaits  Selecting Prime Anime Content on Youtube</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-delete-youtube-comments-effortlessly/"><u>[Updated] 2024 Approved  How to Delete YouTube Comments Effortlessly?</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-establish-lasting-content-partnerships-with-youtubers/"><u>[Updated] 2024 Approved  How to Establish Lasting Content Partnerships with YouTubers</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-remove-pending-videos-from-your-youtube-history/"><u>[Updated] 2024 Approved  How to Remove Pending Videos From Your YouTube History</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-turn-video-soundtracks-into-audible-files/"><u>[Updated] 2024 Approved  How to Turn Video Soundtracks Into Audible Files</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-calculating-20mb-video-length-in-secs/"><u>[Updated] Calculating 20MB Video Length in Secs</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-global-content-makers-conference-for-2024/"><u>[Updated] Global Content Makers' Conference for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-transforming-tech-talks-the-ezvide-screen-recording-guide/"><u>[Updated] In 2024, Transforming Tech Talks  The Ezvide Screen Recording Guide</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-joke-jamboree-twitters-10-best-comedy-threads-for-2024/"><u>[Updated] Joke Jamboree  Twitter's 10 Best Comedy Threads for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-streamlined-recording-of-powerpoint-slides-via-webcam/"><u>[Updated] Streamlined Recording of PowerPoint Slides via Webcam</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-integrating-custom-sounds-into-your-whatsapp-experience/"><u>2024 Approved  Integrating Custom Sounds Into Your WhatsApp Experience</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-spotlight-on-10-youtube-channels-with-swift-popularity-boosts/"><u>2024 Approved  Spotlight on 10 YouTube Channels With Swift Popularity Boosts</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-the-ultimate-guide-to-alternatives-to-streamlabs-obs/"><u>2024 Approved  The Ultimate Guide to Alternatives to StreamLabs OBS</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-understanding-recent-youtube-financial-policies/"><u>2024 Approved  Understanding Recent YouTube Financial Policies</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/2024-approved-rhythm-without-the-ruckus-zero-cost-digital-volume-reduction-for-karaoke-maestros/"><u>2024 Approved Rhythm Without the Ruckus Zero-Cost, Digital Volume Reduction for Karaoke Maestros.</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/2024-approved-unleashing-potential-in-your-recordings-with-easy-voice-changes-on-audacity/"><u>2024 Approved Unleashing Potential in Your Recordings with Easy Voice Changes on Audacity</u></a></li>
+<li><a href="https://games-able.techidaily.com/gamers-choice-selecting-the-best-audio-gear/"><u>Gamer’s Choice: Selecting the Best Audio Gear</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-additional-tips-about-sinnoh-stone-for-google-pixel-7a-drfone-by-drfone-virtual-android/"><u>In 2024, Additional Tips About Sinnoh Stone For Google Pixel 7a | Dr.fone</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/in-2024-dive-into-diy-the-beginners-guide-to-eye-catching-mac-videos/"><u>In 2024, Dive Into DIY  The Beginner’s Guide to Eye-Catching Mac Videos</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-how-does-the-stardust-trade-cost-in-pokemon-go-on-samsung-galaxy-a15-4g-drfone-by-drfone-virtual-android/"><u>In 2024, How does the stardust trade cost In pokemon go On Samsung Galaxy A15 4G? | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-change-your-sim-pin-code-on-your-realme-gt-3-phone-by-drfone-android/"><u>In 2024, How To Change Your SIM PIN Code on Your Realme GT 3 Phone</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-in-2024-filmora-free-trial-vs-full-version-which-one-to-choose/"><u>New In 2024, Filmora Free Trial Vs. Full Version Which One to Choose?</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-split-your-screen-for-free-top-online-and-offline-video-editors/"><u>New Split Your Screen for Free Top Online and Offline Video Editors</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/platform-preference-opting-for-obstwitch-live-for-2024/"><u>Platform Preference  Opting for OBS/Twitch Live for 2024</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/sparkle-in-a-snap-effortless-stellar-tiktok-videos-with-pre-designed-graphics/"><u>Sparkle in a Snap  Effortless Stellar TikTok Videos with Pre-Designed Graphics</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/updated-users-guide-how-to-create-photo-talking-videos-with-the-best-tools/"><u>Updated Users Guide How To Create Photo Talking Videos With the Best Tools?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/your-account-has-been-disabled-in-the-app-store-and-itunes-from-iphone-15-pro-by-drfone-ios/"><u>Your Account Has Been Disabled in the App Store and iTunes From iPhone 15 Pro?</u></a></li>
+</ul></div>

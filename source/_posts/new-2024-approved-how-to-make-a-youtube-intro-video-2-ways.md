@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  How to Make A YouTube Intro Video [2 Ways]\""
-date: 2024-06-06T14:50:20.611Z
-updated: 2024-06-07T14:50:20.611Z
+date: 2024-07-16T03:39:43.969Z
+updated: 2024-07-17T03:39:43.970Z
 tags:
   - ai video
   - ai youtube
@@ -38,6 +38,9 @@ Launch Wondershare Filmora, go to **Media** tab at the top, select the **Sample 
 
 Notice all the existing solid and gradient colors in the **Media** library in the right, hover the mouse over the tile of the color you want to use as a background, and click the **+** icon that appears in the center to add it to the timeline.
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![use sample colors as intro background](https://images.wondershare.com/filmora/article-images/sample-colors-media-in-filmora9.jpg)
 
 **Note:** The default duration of such solids is 5 seconds. You can increase or decrease this time by dragging the right handle of track in the timeline.
@@ -58,6 +61,9 @@ Repeat the process until you find the background music or sound effect that you 
 
 Note: You should keep the background and the audio at the same duration. For more details about audio editing in Filmora, please check this guide about [how to edit audio](https://tools.techidaily.com/wondershare/filmora/download/).
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Step 3: Add Text/Logo to Intro Video
 
 In the intro video, you can add your channel name, company name, or other branding elements for brand awareness consideration.
@@ -78,6 +84,9 @@ Go to **Effects** tab, choose a category from the top-left pane, and click and d
 
 Adjust the playback duration by dragging the right handle of the track in the timeline as explained above. Optionally, double-click the **Effects** track to customize the appearance as needed.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
+<!-- affiliate ads end -->
 [![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ### Step 5: Export the Intro and Add to Shared Media
@@ -86,6 +95,9 @@ Once you are done creating your YouTube intro with all the required ingredients,
 
 Once exported, back on the main interface, select **Media** again from the standard toolbar, select the **Shared Media** container from the left pane, click anywhere inside the **Media** library, and import the YouTube intro video you just created to **Shared Media** so it can be reused every time you create a new video for the series.
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Filmora9 Shared Media](https://images.wondershare.com/filmora/article-images/shared-media-filmora9.jpg)
 
 Also, you can save the project, and then revise the element, effects or text to make a YouTube intro vibration.
@@ -104,16 +116,25 @@ You can learn **how to make YouTube intro video in Filmora** with a template dow
 
 Visit [https://filmstock.wondershare.com/](https://tools.techidaily.com/wondershare/filmora/download/) and log in with the same WSID that you used on Filmora, and then click **EFFECTS** from the top of the webpage. Since Filmstock also provides templates for After Effects, you should select **Filmora Effects** to access the entire **Filmora Effects** library.
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Filmstock Intro Effect for Filmora9](https://images.wondershare.com/filmora/article-images/Filmstock-intro-templates-collection.jpg)
 
 You can search the effects that you want in the Search bar, here, since I’m looking for effects for YouTube intro, I just enter “intro”. The effects related to intro will be displayed like below.
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Step 2: Download Video Effect Packs for Filmora
 
 Click your preferred intro effect template, click **Download Now** and follow the on-screen instructions to obtain and download the template.
 
 After downloading, you will see these them in red circles under titles, transitions, or filters, based on the elements included in this effect pack. You can then add this downloaded titles or transitions to the intro video.
 
+<!-- affiliate ads begin -->
+<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Filmstock Dynamic Intro](https://images.wondershare.com/filmora/article-images/dynamic-intro-templates.jpg)
 
 Looking for an online solution? Check the list of [Top 10 Free Online YouTube Intro Makers](https://tools.techidaily.com/wondershare/filmora/download/).
@@ -140,6 +161,9 @@ A YouTube intro video should have your YouTube channel name, an effective and we
 
 To learn **how to make a YouTube intro** is easy, and things can get even simpler if you are using an efficient and robust post-production software like Wondershare Filmora, which not only allows you to create such clips from the scratch, it also enables you to access Filmstock’ online library to download more fantastic templates in order to expedite your workflow.
 
+<!-- affiliate ads begin -->
+<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 Richard Bennett
@@ -159,6 +183,9 @@ Follow @Richard Bennett
 
 # IGTV VS YouTube: Should Video Content Creators Use One Platform or The Other?
 
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
 ##### Shanoon Cox
@@ -171,6 +198,9 @@ IGTV receives quite a lot of attention from marketers and content creators alike
 [Instagram Reels VS Instagram Stories--Everything You Need to Know >>](https://tools.techidaily.com/wondershare/filmora/download/)
 [YouTube Shorts vs. TikTok: Which One Is Better? >>](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## IGTV VS YouTube: What's the difference
 
 Comparison between IGTV and YouTube is somewhat unfair towards the former since IGTV is a much younger platform that still needs time to develop. YouTube, on the other hand, has a reputation as one of the most reliable video sharing platforms ever created that enables people from all walks of life to upload and share music, movies, gaming videos and virtually any other type of moving images. Even so, let’s take a look at major differences and similarities between IGTV and YouTube.
@@ -243,3 +273,40 @@ Follow @Shanoon Cox
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-crafting-captivating-video-narratives-for-youtube-success/"><u>[New] 2024 Approved  Crafting Captivating Video Narratives for YouTube Success</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-guide-the-ultimate-list-of-video-converters/"><u>[New] 2024 Approved  Guide  The Ultimate List of Video Converters</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-buy-youtube-subscribers-hundreds-of-subscribers-for-5-in-2024/"><u>[New] Buy YouTube Subscribers - Hundreds of Subscribers for $5, In 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-avoiding-pitfalls-smart-strategies-for-acquiring-youtubes/"><u>[New] In 2024, Avoiding Pitfalls  Smart Strategies for Acquiring Youtubes</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-best-practices-in-digital-image-creation-for-youtube/"><u>[New] In 2024, Best Practices in Digital Image Creation for YouTube</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-digital-content-arena-competing-titans-vimeo-youtube-dailymotion/"><u>[New] In 2024, Digital Content Arena  Competing Titans - Vimeo, YouTube, DailyMotion</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-effortless-fusion-of-youtube-audio-with-imovie-masterpieces/"><u>[New] In 2024, Effortless Fusion of YouTube Audio with iMovie Masterpieces</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-finding-your-portal-to-youtubes-video-mastery-hub/"><u>[New] In 2024, Finding Your Portal to YouTube's Video Mastery Hub</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-victorious-ventures-in-the-top-12-tycoons-your-ultimate-gaming-goal/"><u>[New] In 2024, Victorious Ventures in the Top 12 Tycoons - Your Ultimate Gaming Goal</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-inside-look-at-youtubes-digital-media-oasis/"><u>[New] Inside Look at YouTube's Digital Media Oasis</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-maintaining-creative-commons-on-youtube-for-greater-exposure/"><u>[New] Maintaining Creative Commons on YouTube for Greater Exposure</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-master-screen-grabbing-tech-list-1-8-for-2024/"><u>[New] Master Screen Grabbing Tech List #1-8 for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-find-your-vfx-match-top-8-sites-for-free-high-quality-green-screen-footage/"><u>[Updated] Find Your VFX Match - Top 8 Sites for FREE High Quality Green Screen Footage</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-flv-to-youtubes-master-the-art-of-video-transformation-with-these-top-tools-for-2024/"><u>[Updated] Flv to Youtubes  Master the Art of Video Transformation with These Top Tools for 2024</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-in-2024-copyright-quest-for-content-creators-tiktok-edition/"><u>[Updated] In 2024, Copyright Quest for Content Creators (TikTok Edition)</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-enrich-your-viewing-habit-with-essential-movie-channels/"><u>[Updated] In 2024, Enrich Your Viewing Habit with Essential Movie Channels</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-absolute-zero-to-huge-audiences-the-10-key-steps-to-boosting-view-count/"><u>[Updated] In 2024, From Absolute Zero to Huge Audiences  The 10 Key Steps to Boosting View Count</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-mirroring-mastery-the-craft-of-comical-mocks/"><u>[Updated] Mirroring Mastery  The Craft of Comical Mocks</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-the-ultimate-list-innovative-youtube-channel-titles-for-blogging-and-filming-no-more-than-156-characters/"><u>[Updated] The Ultimate List  Innovative Youtube Channel Titles For Blogging & Filming (No More than 156 Characters)</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-transform-your-verbal-input-into-written-content-in-ms-word/"><u>[Updated] Transform Your Verbal Input Into Written Content in MS Word</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-unshakeable-video-quality-best-stabilizers/"><u>[Updated] Unshakeable Video Quality - Best Stabilizers</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-control-screen-size-with-swift-iphone-adjustments/"><u>2024 Approved  Control Screen Size with Swift iPhone Adjustments</u></a></li>
+<li><a href="https://location-fake.techidaily.com/4-methods-to-turn-off-life-360-on-vivo-y36i-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>4 Methods to Turn off Life 360 On Vivo Y36i without Anyone Knowing | Dr.fone</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/from-screen-to-file-home-pc-tv-recording-methods/"><u>From Screen to File  Home PC TV Recording Methods</u></a></li>
+<li><a href="https://driver-install.techidaily.com/get-accurate-results-faster-hp-projector-8710-software-download/"><u>Get Accurate Results Faster - HP Projector 8710 Software Download</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-innovative-stop-motion-cinema-ranking-the-best-15/"><u>In 2024, Innovative Stop-Motion Cinema  Ranking the Best 15</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-step-into-vr-wonderland-youtubes-finest-vr-content-list/"><u>In 2024, Step Into VR Wonderland  YouTube's Finest VR Content List</u></a></li>
+<li><a href="https://fake-location.techidaily.com/ispoofer-is-not-working-on-honor-magic-vs-2-fixed-drfone-by-drfone-virtual-android/"><u>iSpoofer is not working On Honor Magic Vs 2? Fixed | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/stop-vertical-distortion-phenomena/"><u>Stop Vertical Distortion Phenomena</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/the-best-funny-fictional-frequencies-for-2024/"><u>The Best Funny Fictional Frequencies for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/top-10-gaming-youtubers-you-may-want-to-subscribe-for-2024/"><u>Top 10 Gaming YouTubers You May Want to Subscribe for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/unlocking-the-power-of-instagram-stories-with-this-essential-guide-for-2024/"><u>Unlocking the Power of Instagram Stories with This Essential Guide for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/your-path-to-youtube-stardom-six-simple-steps-for-greater-visibility-for-2024/"><u>Your Path to YouTube Stardom  Six Simple Steps for Greater Visibility for 2024</u></a></li>
+</ul></div>
