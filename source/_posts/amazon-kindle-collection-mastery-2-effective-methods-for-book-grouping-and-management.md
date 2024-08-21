@@ -1,7 +1,7 @@
 ---
 title: "Amazon Kindle Collection Mastery: 2 Effective Methods for Book Grouping & Management"
-date: 2024-08-20 18:41:58
-updated: 2024-08-21 10:54:19
+date: 2024-08-20T12:53:43.642Z
+updated: 2024-08-21T12:53:43.642Z
 categories:
   - epubor
 thumbnail: https://thmb.techidaily.com/6db3345e6b05b14e1b02d624eebb2a2ce8b63469f2261321211e5e8c5934467b.jpg
@@ -75,6 +75,9 @@ To navigate to a collection, you can add more items or remove from the menu.
 
 ![](http://www.epubor.com/./6 Ways to Create and Manage Kindle Collections_files/faq.png) Frequently Asked Questions about This Method
 
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##### Q: Why do my books appear in "Documents from My items" and not in "Books from My items"?
 
 A: Docs are the ones that you send to your Kindle device by email, but not purchased directly from Amazon.
@@ -91,16 +94,34 @@ Make sure that you have logged in to Kindle for PC with your Amazon account. Rig
 
 ![manage kindle collections on pc](http://www.epubor.com/images/uppic/create-collections-on-kindle-for-pc.png)
 
+<!-- affiliate ads begin -->
+<span id="1793213">
+					<video width="1080" height="1620" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Step 2 Import collections to kindle paperwhite (Kindle Touch).
 
 Login to your kindle device (only for kindle paperwhite/kindle touch) with the same Amazon account. Hit **Home** and then Menu and tap "Sync and Check for Items". Switch to Cloud View, open the menu and select "Import Collections". Then select "OK" on the pop-up screen. Wait for a moment, then all the books will appear in the corresponding collections in order. Congratulations!
 
 ![import kindle for pc collections](http://www.epubor.com/images/uppic/import-collections-to-kindle-paperwhite.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Method 2 and 3 above can only be applied to newer kindle models. If you have a very older Kindle device, please refer to method 4 and method 5.
 
 ![](http://www.epubor.com/./6 Ways to Create and Manage Kindle Collections_files/faq.png) Frequently Asked Questions about This Method
 
+<!-- affiliate ads begin -->
+<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##### Q: How to transfer Kindle collections from Kindle for PC to iPad Kindle app?
 
 A: It's easier for us to make and manage my collections on pc. According to Amazon Customer Service, it doesn't support sending collections from computer to iPad. Maybe [Kindle Cloud Collections](http://amzn.to/1sEm5Sv)can help you manage kindle books on iPad (iOS app).
@@ -117,6 +138,9 @@ Once you tap kindle paperwhite and press the icon, the pop-up screen prompts you
 
 ![choose kindle version](http://www.epubor.com/images/uppic/choose-kindle-version.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
+<!-- affiliate ads end -->
 Tap "Settings" from kindle menu-->"Update your kindle". Then reconnect kindle to your computer. At last press "OK". Then it will enter the scan mode and then the new interface appears.
 
 Step 2 Create a new collection.
@@ -131,8 +155,14 @@ When you disconnect your kindle with computer, tap "Settings"-->"Update Your Kin
 
 ![manage my kindle books](http://www.epubor.com/images/uppic/manage-my-kindle-books.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
+<!-- affiliate ads end -->
 The Kindlian just offers a Windows version. But its good point is that it also works with non Amazon books. 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
+<!-- affiliate ads end -->
 ### Method 5\. Kindle Collections Plugins with Calibre
 
 I will demonstrate a proper way to manage your kindle books and group books together into unique collections.
@@ -173,6 +203,9 @@ Just go forward to "Preference"-->"Plugins"-->"Get new plugins". Locate "Kindle 
 
 ![install collections for kindle](http://www.epubor.com/images/uppic/Install-Collections-for-Kindle1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
+<!-- affiliate ads end -->
 Install Collections for Kindle Touch/Kindle Paperwhite 
 
 Download the plugin called "[Kindle Collections.zip](https://www.mobileread.com/forums/showthread.php?t=244202) ". Navigate to "Preference"-->"Plugins"-->"Load plugin from file". Browser the location of "Kindle Collections.zip". And select it and add this zip file to calibre. Refer to this guide about how to [load plugin into Calibre](https://tools.techidaily.com/epubor/products/)step by step.
@@ -193,6 +226,9 @@ Go forward to the Kindle Collections icon-->"_Edit Kindle collections manually_.
 
 ![add collections from calibre to kindle](http://www.epubor.com/images/uppic/add-collections-from-calibre-to-kindle.png)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 #### Tips and Tricks More 
 
 If you feel overwhelmed when you look at your Kindle or kindle library, there's a good chance that you need to manage your kindle library by: 
@@ -675,3 +711,54 @@ Leave a comment
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-4-secrets-for-adding-online-vids-seamlessly-in-ppt/"><u>[New] 2024 Approved  4 Secrets for Adding Online Vids Seamlessly in PPT</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-capture-clearness-without-a-tripod-tool/"><u>[New] 2024 Approved  Capture Clearness Without a Tripod Tool</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-convert-with-ease-the-top-10-best-tools-for-flv-to-youtubes/"><u>[New] 2024 Approved  Convert With Ease  The Top 10 Best Tools for Flv to YouTubes</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-engaging-viewers-on-youtube-gaming-livestreams/"><u>[New] 2024 Approved  Engaging Viewers on YouTube Gaming Livestreams</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-behind-the-filter-ensuring-veritable-instagram-selfies-for-2024/"><u>[New] Behind the Filter  Ensuring Veritable Instagram Selfies for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-bridging-soundscapes-and-visuals-essentials-for-innovative-asmr-videos-for-2024/"><u>[New] Bridging Soundscapes & Visuals – Essentials for Innovative ASMR Videos for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-create-impactful-youtube-videos-top-20-font-picks-for-2024/"><u>[New] Create Impactful YouTube Videos  Top 20 Font Picks for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-digital-dreams-unite-conference-for-2024/"><u>[New] Digital Dreams Unite Conference for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-embark-on-a-wanderlust-adventure-becoming-a-professional-travel-vlogger-for-2024/"><u>[New] Embark on a Wanderlust Adventure  Becoming A Professional Travel Vlogger for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-end-screen-creation-made-simple-free-templates-and-guides-for-2024/"><u>[New] End Screen Creation Made Simple - Free Templates & Guides for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-essential-tactics-for-youtube-success-in-25-ways-for-2024/"><u>[New] Essential Tactics for YouTube Success in 25 Ways for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-finalizing-your-video-with-a-bold-statement-for-2024/"><u>[New] Finalizing Your Video with a Bold Statement for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-how-to-transferring-youtube-shorts-from-pcandroid-or-ios-for-2024/"><u>[New] How-To  Transferring YouTube Shorts From PC/Android or iOS for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-efficiently-convert-youtube-to-desktop-format/"><u>[New] In 2024, Efficiently Convert YouTube to Desktop Format</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-make-your-youtube-animated-subscribe-button-easily-with-filmora/"><u>[New] In 2024, How to Make Your YouTube Animated Subscribe Button Easily With Filmora</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-investigative-image-searching-reverse-techniques-on-instagram-photos/"><u>[New] In 2024, Investigative Image Searching  Reverse Techniques on Instagram Photos</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-just-initial-acquisition/"><u>[New] Just Initial Acquisition</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-beat-to-buzz-creating-impact-in-10-seconds-on-youtube/"><u>[Updated] 2024 Approved  From Beat to Buzz  Creating Impact in 10 Seconds on YouTube</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-2024-approved-smartphone-editing-10-top-tiktok-choices/"><u>[Updated] 2024 Approved  Smartphone Editing  10 Top TikTok Choices</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-insert-youtube-links-for-an-engaging-ppt-experience/"><u>[Updated] How to Insert YouTube Links for an Engaging PPT Experience</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-crafting-charismatic-videos-with-diy-camera-setups/"><u>[Updated] In 2024, Crafting Charismatic Videos with DIY Camera Setups</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-pioneering-photography-with-advanced-software/"><u>[Updated] Pioneering Photography with Advanced Software</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-the-ultimate-blueprint-for-successful-freefire-videos-on-youtube/"><u>[Updated] The Ultimate Blueprint for Successful FreeFire Videos on YouTube</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-leading-plot-crafting-hub/"><u>2024 Approved  Leading Plot Crafting Hub</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-navigating-high-definition-video-production-in-the-facebook-era/"><u>2024 Approved  Navigating High Definition Video Production in the Facebook Era</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-steps-to-activate-windows-11-auto-hdr-option/"><u>2024 Approved  Steps to Activate Windows 11 Auto-HDR Option</u></a></li>
+<li><a href="https://howto.techidaily.com/7-fixes-for-unfortunately-phone-has-stopped-on-lava-storm-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Fixes for Unfortunately, Phone Has Stopped on Lava Storm 5G | Dr.fone</u></a></li>
+<li><a href="https://fox-access.techidaily.com/aerial-device-typologies/"><u>Aerial Device Typologies</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/crafting-instagram-stories-polls-your-complete-playbook-for-2024/"><u>Crafting Instagram Stories Polls - Your Complete Playbook for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-top-notch-computer-gear-through-toms-hardware-analyses/"><u>Discover Top-Notch Computer Gear Through Tom's Hardware Analyses</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixes-for-preventing-left-4-dead-2-from-crashing-on-your-pc/"><u>Fixes for Preventing Left 4 Dead 2 From Crashing on Your PC</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-remove-or-bypass-knox-enrollment-service-on-poco-m6-pro-5g-by-drfone-android/"><u>How To Remove or Bypass Knox Enrollment Service On Poco M6 Pro 5G</u></a></li>
+<li><a href="https://review-topics.techidaily.com/identify-missing-drivers-with-windows-device-manager-on-windows-11-and-10-by-drivereasy-guide/"><u>Identify missing drivers with Windows Device Manager on Windows 11 & 10</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-6-proven-ways-to-unlock-nubia-red-magic-8s-proplus-phone-when-you-forget-the-password-by-drfone-android/"><u>In 2024, 6 Proven Ways to Unlock Nubia Red Magic 8S Pro+ Phone When You Forget the Password</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-comprehensive-review-of-zd-soft-capture-tool/"><u>In 2024, Comprehensive Review of ZD Soft Capture Tool</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-unlink-apple-id-from-iphone-15-plus-by-drfone-ios/"><u>In 2024, How To Unlink Apple ID From iPhone 15 Plus</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/in-2024-youngest-millionaire-on-youtube-ryans-unprecedented-wealth-accumulation/"><u>In 2024, Youngest Millionaire on YouTube  Ryan's Unprecedented Wealth Accumulation</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/peak-creativity-youtube-fellowship-for-2024/"><u>Peak Creativity  YouTube Fellowship for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/profit-potential-unveiled-comparing-content-platforms-strategies-for-2024/"><u>Profit Potential Unveiled  Comparing Content Platforms' Strategies for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/shedding-light-on-videography-excellence-for-2024/"><u>Shedding Light on Videography Excellence for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/starting-strong-key-equipment-for-youtube-success-for-2024/"><u>Starting Strong  Key Equipment for YouTube Success for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/top-ranked-graphics-cards-for-optimal-online-streaming-quality-for-2024/"><u>Top-Ranked Graphics Cards for Optimal Online Streaming Quality for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/understanding-youtube-lives-image-language-for-2024/"><u>Understanding YouTube Live's Image Language for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/understanding-youtubes-hidden-content-the-unlisted-reality-for-2024/"><u>Understanding YouTube's Hidden Content  The Unlisted Reality for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-latest-in-tech-toms-pioneering-hardware-guides-and-analysis/"><u>Unveiling the Latest in Tech: Tom's Pioneering Hardware Guides and Analysis</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/wealth-wave-on-your-screen-monetizing-as-a-streamer-for-2024/"><u>Wealth Wave on Your Screen  Monetizing as a Streamer for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/xiaomi-13t-stuck-on-screen-finding-solutions-for-stuck-on-boot-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Xiaomi 13T Stuck on Screen – Finding Solutions For Stuck on Boot | Dr.fone</u></a></li>
+</ul></div>
