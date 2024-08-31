@@ -1,0 +1,140 @@
+---
+title: "MacX DVD Ripper Mac Free Edition: Full Guide to Ripping & Editing DVDs on Mac"
+date: 2024-08-25 10:47:13
+updated: 2024-08-27 12:53:17
+categories:
+  - macxdvd
+thumbnail: https://thmb.techidaily.com/157a979e6aaa82fd4480fbd5cf379bdea463e7fa26b11cd450cfeeb0ec67e8d3.jpg
+---
+
+## MacX DVD Ripper Mac Free Edition: Full Guide to Ripping & Editing DVDs on Mac
+
+## DVDをリッピング、変換、編集などを含め、MacX DVD Ripper Mac Free Edition使い方を詳しく紹介！
+
+MacX DVD Ripper Mac Free Editionは完全無料なMac用DVDリッピングソフトでありながら、有料ソフトと比べると劣らないほど強力なDVDコピーガード解読力を誇って、Disney X-project DRMをはじめ、DVD CSS, ソニーArccOS、RCEリージョンコード、UOPs 、APSなど、手軽く対応可能。そのため、市販DVDコピーにも、TSUTAYA、ゲオから借りたレンタルDVDコピーにも関わらず、超簡単かつ完全無料なソリューションを提供しています。例えば、アバター2、リトル・マーメイド、マイ・エレメント、ピーター・パン ウェンディ、ウィッシュ、インディ・ジョーンズと運命のダイヤル、ホーンテッドマンション、アントマン・ワスプ:クアントマニアなど。また、MacX DVD Ripper Mac Free Editionを利用して、Mac OS環境で、無料にDVDをMOV, MP4, M4V, iTunes, Apple TVなども変換できます。そのような素晴らしいMacX DVD Ripper無料ソフトを見逃したら、絶対損！ところで、MacX DVD Ripper Mac Free Edition使い方によくわからないので、諦めるしかないと悔しんでいる人がいるでしょう。心配ことなく、本文は無料にDVDをリッピングと変換、DVDを編集などを含め、MacX DVD Ripper Mac Free Edition使い方を詳しく紹介します。その前、まずMacX DVD Ripper Mac Free Editionをダウンロードとインストールして、起動してください。
+
+* [MacX DVD Free使い方---DVDをリッピングと変換](https://tools.techidaily.com/macxdvd/products/)
+* [MacX DVD Free使い方---DVDを編集](https://tools.techidaily.com/macxdvd/products/)
+* [MacX DVD Free使い方---パラメータを設定](https://tools.techidaily.com/macxdvd/products/)
+* [MacX DVD Ripper Mac Free Editionを入手方法](https://tools.techidaily.com/macxdvd/products/)
+
+**[MacX DVD Ripper Mac Free Edition](https://tools.techidaily.com/macxdvd/products/)** はマルウェア、 アドウェアや悪意のあるプラグインなど一切なし、100%安全かつ無料なMac用DVDリッピングソフト！
+
+[![Windows10無償アップグレード可能](https://www.macxdvd.com/blog/new-fourteen/freedownmac-jp.png)](https://tools.techidaily.com/macxdvd/products/) 
+
+**正式版の[MacX DVD Ripper Pro](https://tools.techidaily.com/macxdvd/products/)は、史上最大のアップデートとうたう最新バージョンがリリース**。**①**. アダルトDVD・ダイエットDVDなど日本独自のコピーガード解除可能； **②.** 革命的な新しい専門音楽DVD対応技術、無劣化でDVDをオーディオファイルに変換； **③.** VLC Player などのプレーヤーで再生できないDVDやPCで見れないDVDを手軽にMP4（H264）に変換； **④.** 新しいハードウェアアクセラレーション技術を導入し、爆速でDVDをリッピングする； **⑤.**大切な部分を劇的に進化させ、最も安定、最も使いやすい、最も高品質にとなった；アップデートしないと損！ 
+
+## MacX DVD Ripper Mac Free Editionインストール方法
+
+[![MacX DVD Ripper Mac Free Editionインストール](https://www.macxdvd.com/blog/img/fdrp1.jpg)](https://tools.techidaily.com/macxdvd/products/)
+
+**１：**上記無料ダウンロードアイコンを押して、セットアップファイルを無料ダウンロードしてください。そして、macx-dvd-ripper-pro.dmgを起動します； 
+
+[![MacX DVD Ripper Mac Free Editionインストール](https://www.macxdvd.com/blog/img/fdrp2.jpg)](https://tools.techidaily.com/macxdvd/products/)
+
+**2：**MacX DVD Ripper Proをアプリに入れます。インストールは終了である；
+
+![界面言語設定](https://www.macxdvd.com/blog/img/drf0.jpg)
+
+**3：**右上におる「Help」をクリックして、言語が選択できます。ここでは、「日本語」を選択して、日本語版になってきます；
+
+## MacX DVD Ripper Mac Free Edition使い方---DVDをリッピングと変換
+
+MacX DVD Ripper無料ソフトはDVD/ISO/フォルダ形式のファイルが読み込めます。下の文はアナと雪の女王を富士通（Fujitsu）に取り込む操作手順を示します。分かりやすいインターフェースを備えるため、熟練者にも、初心者にも関わらず、手軽く操作できます。
+
+[![DVDを追加](https://www.macxdvd.com/blog/img/drf1.jpg)](https://tools.techidaily.com/macxdvd/products/)
+
+ステップ１：「DVD追加」ボタンをクリックしてから、アナと雪の女王DVDを追加します。界面上部のアイコンと真ん中のアイコンとも利用可能。
+
+![出力プロファイルを選ぶ](https://www.macxdvd.com/blog/img/drf2.jpg)
+
+ステップ２：アナと雪の女王コピーガードが解除されたら、出力プロファイルの窓口が出てきました。アナと雪の女王を富士通（Fujitsu）に取り込む場合、富士通（Fujitsu）と互換性のあるフォーマット**MP4**を選んだら、結構！だから、「Macの通常映像」―「MP4動画へ」―「完了」の順でクリックしてください。
+
+![DVDをリッピングと変換開始](https://www.macxdvd.com/blog/img/drf33.jpg)
+
+ステップ３：「ブラウザ」をクリックして、出力映像を保存するフォルダを選びます。
+
+ステップ４：「RUN」ボタンをクリックして、Macでアナと雪の女王をリッピング開始。任意の時点で一時停止或いは変換プロセスを停止できます。そして、出力映像を富士通（Fujitsu）に取り込んで、富士通（Fujitsu）で楽勝にアナと雪の女王を鑑賞可能。
+
+![DVDをコピー開始](https://www.macxdvd.com/blog/img/drp1110.jpg)
+
+**ヒント：**「RUN」ボタンをクリックする前、**「字幕が無効」**のデフォルトを変更しないなら、MacX DVD Ripper Mac Free Editionでコピー後字幕がでないとご注意ください。
+
+## MacX DVD Ripper Mac Free Edition使い方---DVDを編集
+
+熟練者にとって、簡単にDVDをリッピングするより、個人的使用用途に合って、手元のDVDを編集したいかもしれません。例えば、DVDをトリミング、クロップ、合併、字幕追加など。
+
+[![DVDを編集](https://www.macxdvd.com/blog/img/drf333.jpg)](https://tools.techidaily.com/macxdvd/products/)
+
+「√」マーク付きタイトル名の右端にある編集アイコンをクリックしてから、オーディオボリュームを調整する「通常」ボタン、外部字幕を追加する「字幕」ボタン、黒い帯を取り除き、ビデオセグメントを抽出する「トリミング」、動画サイズを調整する「トリミング＆引き伸ばす」ボタンと言う四つのオプションがあります。
+
+[![字幕追加](https://www.macxdvd.com/blog/img/drf4.jpg)](https://tools.techidaily.com/macxdvd/products/)
+
+字幕を追加したい場合、「字幕設定起動」を選択してから、「外部字幕ファイル」の右端にある「追加」ボタンをクリックしたら、希望な言語が追加できます。MacX DVD Ripper Mac Free Edition字幕追加をしようとする方は、字幕ファイルの拡張子は、.srtの方がおすすめ。
+
+[![DVDをトリミング](https://www.macxdvd.com/blog/img/drf5.jpg)](https://tools.techidaily.com/macxdvd/products/)
+
+DVDをリッピングしたい場なら、「トリミング」を押し、「トリミング設定起動」ボタンをクッリク、バーを任意の開始位置と終わり位置にドラッグすると切り取って変換できます。また、「開始時間」と「終了時間」設定が自分で微調整できます。
+
+[![動画をクロップ](https://www.macxdvd.com/blog/img/drf6.jpg)](https://tools.techidaily.com/macxdvd/products/)
+
+動画のサイズを調整したい場合、「トリミング＆引き伸ばす」ボタンを押したら、自由に好きな画面のサイズをドラッグ、黒い帯を抜く、アスペクト比が16:9, 4:3, 1:1のような比率で設定できます。また、数字の設定を通じて、動画サイズも変えます。
+
+## MacX DVD Ripper Mac Free Edition使い方---パラメータを設定
+
+[![パラメータを設定](https://www.macxdvd.com/blog/img/drf7.jpg)](https://tools.techidaily.com/macxdvd/products/)
+
+MacX DVD Ripper Mac Free Editionを利用して、デコーダー/エンコーダのパラメーター、ビデオビットレース、解像度、フレームレート、縦横比などを自分のニーズを応じてカスタマイズできます。
+
+## 他の機能
+
+![DVD音声を抽出](https://www.macxdvd.com/blog/img/drf9.jpg)
+
+DVDをソフトに読み込んで,出力形式として「音楽」ボタンをクリックするとBGM を抽出し てMP3,AAC,AC3 などの音楽ファイルとして保存することができます。音楽DVDが好きな人にとっては大変に実用でしょう。映画DVDの場合は、「トリミング」で動画中の好きな場所 （例え人気があるセリフ）で切り取って、「音楽」ボタンを押すと、この変換された音楽ファイ ルは着信音となれます。
+
+![スライドショーを取る](https://www.macxdvd.com/blog/img/drf8.jpg)
+
+右のプレビューウィンドウにあるカメラのアイコンが有効です。スライドバーをドラッグして、 お好みの画像を選択、そしてカメラのアイコンをクリックすることで、動画中のシーンをJPEGやBMPとして保存できます。
+
+## MacX DVD Ripper Mac Free Editionを入手方法
+
+MacX DVD Ripper Mac Free Edition公式サイトをアクセスしてから、「ダウンロード」をクリックしたら、ダウンロード開始。そして、ダウンロードしたMacX DVD Ripper Mac Free EditionをMacコンピュータにインストールしてください。起動したら、無料に利用可能。ちなみに、もっと豊富な機能を体験したい場合、正式版[MacX DVD Ripper Pro](https://tools.techidaily.com/macxdvd/products/)をご利用ください。MacX DVD Ripper Proは300種類のプロファイルと真新しいのコア技術を組み込めて,DVDをAppleデバイスに取り込むのに完璧なソリューションを提供するほかに,ほぼすべての人気なマルチメディアデバイスにもサポートしています。例えば、iPhone(iPhone 12/11/XS/X/8/7/iPhone 6s/iPhone 6/6 Plus/5s/5c/4S), iPad, iPod, ARROWS, AQUOS, Xperia, Nexus, iMovie, QuickTime, Samsungなど。[MacX DVD Ripper Proの使い方はこちらへ](https://tools.techidaily.com/macxdvd/products/)。
+
+[![](https://www.macxdvd.com/blog/new-fourteen/freedownmac-jp1.png)](https://tools.techidaily.com/macxdvd/products/) [![](https://www.macxdvd.com/blog/new-fourteen/freedownwin-jp1.png)](https://tools.techidaily.com/macxdvd/products/) 
+
+### 関連ブログ 
+
+**MacX DVD/動画変換ソフトについて詳細な情報、使い方、人気記事のブログ**： <https://www.macxdvd.com/blog/>
+
+[**2024最新版DVDコピーフリーソフト比較ランキング！（人気順）**](https://tools.techidaily.com/macxdvd/products/) ―本文は、今最も人気のある最新DVDコピーソフトオススメする。Mac用とWindows用両方があるから、OSによって選択できる。いずれも無料のもので、インターフェースもシンプルで初心者でもすぐに使える。比較してみてご自身のあったコピーソフトを見つけてください。
+
+[**MacでDVDをリッピングできる人気のあるフリーソフト一覧**](https://tools.techidaily.com/macxdvd/products/) ― 市場にはWindows向けのDVDリッピングソフトはたくさんあるが、MacでDVDリッピングソフトは少ない。最もよく使われるMacでDVDリッピングフリーソフトといえば、FFmpeg 、Handbrake、MacX DVD Ripper Mac Free Edition、Mac the Ripper、VLCしかなさそうである。本文はそれらのMacでDVDリッピングフリーソフト詳細及び使い方をご案内！
+
+[**MacX DVD Ripper Mac Free Edition Windowsを使いたい方へ｜DVDを無料でコピー**](https://tools.techidaily.com/macxdvd/products/) ― MacX DVD Ripper Mac Free Editionのファンなら、何よりその「無料」、「高品質」というところを重んじているだろう。「無料」かつ「高品質」を兼ね備えるWindows用DVDリッピングソフトは確かに少ない。ここでは、「無料派」と「高品質派」を区分けて、MacX DVD Ripper Mac Free Edition Windows版の代替ソフトをオススメ。
+
+[![MacX DVD Ripper Proを購入](https://www.macxdvd.com/blog/../banner/mdrp-jp.png)](https://tools.techidaily.com/macxdvd/products/) 
+
+今日の注目記事
+
+* [DVDリッピング Macフリーソフト](https://tools.techidaily.com/macxdvd/products/)
+* [DVDコピー無料ソフトランキング](https://tools.techidaily.com/macxdvd/products/)
+* [コピーワンス解除（CPRM解除）方法](https://tools.techidaily.com/macxdvd/products/)
+* [Mac DVDリッピングフリーソフト](https://tools.techidaily.com/macxdvd/products/)
+* [アダルトDVDコピー方法](https://tools.techidaily.com/macxdvd/products/)
+* [レンタルDVDコピー・ダビング](https://tools.techidaily.com/macxdvd/products/) ![](https://www.macxdvd.com/blog/new-fourteen/hot.gif)
+* [DVD高画質書き込みソフトおすすめ](https://tools.techidaily.com/macxdvd/products/)
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
