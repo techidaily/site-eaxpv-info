@@ -1,7 +1,7 @@
 ---
 title: "Mastering Basic Commands: A Step-by-Step Guide to Using 'Cd' In Linux"
-date: 2024-08-26 17:45:27
-updated: 2024-08-29 12:45:42
+date: 2024-08-30T16:49:03.688Z
+updated: 2024-08-31T16:49:03.688Z
 tags:
   - desktop
 categories:
@@ -31,6 +31,9 @@ thumbnail: https://thmb.techidaily.com/b5d7a060863d8900073e79dab85dc7e851c9bee60
 
  Well, more than you'd think. Here are a few hints and tips that might improve your efficiency.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
+<!-- affiliate ads end -->
 ##  The Standard cd Operations
 
  For the sake of being complete, let's quickly run through the standard uses of `cd`.
@@ -43,6 +46,9 @@ cd /home/dave
 
 ![cd /usr/lib/firefox/browser/ in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/04/1.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
+<!-- affiliate ads end -->
  You don't have to type the whole directory path; you can use auto-complete. For each part of a path, after you type enough letters to distinguish the name of the directory from the others, press Tab to auto-complete the directory name.
 
  For example, type the following on the command line:
@@ -67,6 +73,9 @@ tree
 
 ![tree command in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/04/3.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  The `work` directory contains a directory called `dev` . There's also a directory called `dev` in the root directory of the filesystem. You can [use ls](https://extra-tips.techidaily.com/in-2024-capturecraft-hd-top-10-freepaid-filters-list/) with `-d` (directory) to look at each of these. The `-hl` (human-readable, long listing) option tells `ls` to use easy to read units for the directory sizes, and the long format listing.
 
  If you type **`dev`**, the shell assumes you mean the "dev" in the current directory. To force it to look at the "dev" in the root directory, just add a leading forward slash to represent the root of the filesystem, as shown below:
@@ -83,12 +92,21 @@ cd dev
 
 ![cd dev in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/04/5.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Without a leading forward slash, longer paths are assumed to start from the current working directory, too, as shown below:
 
 cd dev/mobile/android
 
 ![cd dev/mobile/android in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/04/6.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
+<!-- affiliate ads end -->
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ##  Changing the Directory with Double Dot
 
  The double dot identifier represents the parent directory of the current working one. If you're in a deeply nested subdirectory, you can use `..` with `cd` to move to the parent directory of the one you're in.
@@ -103,6 +121,10 @@ cd ../..
 
 ![cd .. in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/04/7.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
+</a>
+<!-- affiliate ads end -->
  You can also create a set of aliases to perform these maneuvers for you, by typing the following:
 
 alias .2="cd ../.."
@@ -133,6 +155,9 @@ cd -`
 
  The name of the directory you're moving to appears before you move into it.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
+<!-- affiliate ads end -->
 ##  Another Kind of Relative
 
  The shell uses the current working directory as the "root" or base directory for relative paths. You can use the `CDPATH` environment variable to set another location as the base directory for relative paths. If you spend most of your time in a certain section of the filesystem tree, this can save you a lot of keystrokes (and time) every day.
@@ -175,6 +200,9 @@ cd forth
     
  This performs a test to see whether the command-line prompt variable, `$PS1` , was set. The `CDPATH` environment variable will only be set if the test succeeds.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ##  Using shopt with cd
 
  With the [shopt command](https://ss64.com/bash/shopt.html), you can set certain options for the shell. Some of these can enhance your use of `cd`. To set them, you use the `-s` (enable) option with `shopt` to pass an option name to it.
@@ -205,6 +233,9 @@ shopt -s autocd
 
 ![The autocd command makes navigating quicker.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/14-1.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
  See! You can hop all over the filesystem without even using `cd`!
 
  The settings you change with `shopt` only affect interactive shells, not scripts.
@@ -233,3 +264,54 @@ shopt -s autocd
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-best-of-the-rest-cutting-edge-vr-games-for-google-cardboard/"><u>[New] 2024 Approved  Best of the Rest  Cutting-Edge VR Games for Google Cardboard</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-explore-10-premium-youtube-to-webm-converter-tools/"><u>[New] 2024 Approved  Explore 10 Premium YouTube-to-WebM Converter Tools</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-financially-flourishing-online-media-personality/"><u>[New] 2024 Approved  Financially Flourishing Online Media Personality</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-concept-to-completion-crafting-your-youtube-masterpiece/"><u>[New] 2024 Approved  From Concept to Completion  Crafting Your YouTube Masterpiece</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-groan-inducing-humor-in-hits/"><u>[New] 2024 Approved  Groan-Inducing Humor in Hits</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-free-yourself-from-video-edges-on-youtube-for-2024/"><u>[New] Free Yourself From Video Edges on YouTube for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-from-novice-to-expert-setting-up-a-sports-channel-on-mac-for-2024/"><u>[New] From Novice to Expert  Setting up a Sports Channel on Mac for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-graphicgrind-studio-for-2024/"><u>[New] GraphicGrind Studio for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-how-to-seamlessly-integrate-captions-into-youtube-videos-for-2024/"><u>[New] How to Seamlessly Integrate Captions Into YouTube Videos for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-how-to-send-hidden-youtube-videos-using-google-login-for-2024/"><u>[New] How to Send Hidden YouTube Videos Using Google Login for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-capture-to-air-expert-tips-for-streaming-upside-down-videos-on-youtube/"><u>[New] In 2024, From Capture to Air  Expert Tips for Streaming Upside-Down Videos on Youtube</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-guide-to-structuring-youtube-content-with-separate-chapters/"><u>[New] In 2024, Guide to Structuring YouTube Content with Separate Chapters</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-hottest-youtube-music-playback-responses-23/"><u>[New] In 2024, Hottest YouTube Music Playback Responses '23</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-ultimate-guide-to-filming-in-full-view-9-tips/"><u>[New] The Ultimate Guide to Filming in Full View (9 Tips)</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-google-meet-broadcast-simplified-youtube-steps/"><u>[Updated] 2024 Approved  Google Meet Broadcast Simplified  YouTube Steps</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-high-quality-game-capture-apps-reviewed/"><u>[Updated] 2024 Approved  High-Quality Game Capture Apps Reviewed</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-produce-eye-catching-and-informative-videos-for-education-channels/"><u>[Updated] 2024 Approved  How to Produce Eye-Catching and Informative Videos for Education Channels</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-audacity-insider-perfecting-your-audio-crossfades/"><u>[Updated] Audacity Insider  Perfecting Your Audio Crossfades</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-gratis-design-elements-for-youtube-channel-for-2024/"><u>[Updated] Gratis Design Elements for YouTube Channel for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-pick-a-unique-name-for-youtube-channel-filmora-for-2024/"><u>[Updated] How To Pick a Unique Name for YouTube Channel - Filmora for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-free-tips-embedding-moving-images-in-written-content/"><u>[Updated] In 2024, Free Tips  Embedding Moving Images in Written Content</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-freeze-non-picked-youtube-video-suggestions/"><u>[Updated] In 2024, Freeze Non-Picked YouTube Video Suggestions</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-glamour-unleashed-comprehensive-youtube-guide-to-elegance/"><u>[Updated] In 2024, Glamour Unleashed  Comprehensive YouTube Guide to Elegance</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-guide-to-youtubes-latest-income-strategies/"><u>[Updated] In 2024, Guide to YouTube's Latest Income Strategies</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-big-should-a-good-thumbnail-be-youtubes-ultimate-guide/"><u>[Updated] In 2024, How Big Should a Good Thumbnail Be? YouTube's Ultimate Guide</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-blur-background-of-your-youtube-video-2-easy-ways/"><u>[Updated] In 2024, How to Blur Background of Your YouTube Video - 2 Easy Ways</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-make-killer-youtube-channel-art/"><u>[Updated] In 2024, How to Make Killer YouTube Channel Art</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-ultimate-smartphone-camera-recording-tools-iphoneandroid-edition/"><u>[Updated] Ultimate Smartphone Camera Recording Tools - iPhone/Android Edition</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-getting-to-grips-with-bandicam-your-guide-through-2023s-updates/"><u>2024 Approved  Getting to Grips with Bandicam – Your Guide Through 2023'S Updates</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/cutting-edge-smartphones-introduced-by-samsung/"><u>Cutting-Edge Smartphones Introduced by Samsung</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/easy-steps-for-pairing-your-samsung-soundbar-with-any-tv-model/"><u>Easy Steps for Pairing Your Samsung Soundbar With Any TV Model</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-can-i-determine-my-email-id-a-comprehensive-guide/"><u>How Can I Determine My Email ID? A Comprehensive Guide</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-call-logs-from-tecno-spark-20c-by-fonelab-android-recover-call-logs/"><u>How To  Restore Missing Call Logs from Tecno Spark 20C</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-cast-lava-blaze-2-pro-screen-to-pc-using-wifi-drfone-by-drfone-android/"><u>How to Cast Lava Blaze 2 Pro Screen to PC Using WiFi | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-old-messages-from-your-samsung-by-fonelab-android-recover-messages/"><u>How to recover old messages from your Samsung</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-sim-cards-of-samsung-galaxy-xcover-6-pro-tactical-edition-without-puk-codes-by-drfone-android/"><u>How To Unlock SIM Cards Of Samsung Galaxy XCover 6 Pro Tactical Edition Without PUK Codes</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-digital-video-capturing-demystified-systematic-guide/"><u>In 2024, Digital Video Capturing Demystified  Systematic Guide</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-essential-knowledge-recording-google-voice-calls/"><u>In 2024, Essential Knowledge  Recording Google Voice Calls</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-streamlining-the-process-of-ppt-recording/"><u>In 2024, Streamlining the Process of PPT Recording</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/on-the-fly-quick-tips-for-cropping-photos-online-for-2024/"><u>On-the-Fly  Quick Tips for Cropping Photos Online for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/prime-selection-of-streaming-services-explored/"><u>Prime Selection of Streaming Services Explored</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/the-magnificent-art-of-pokemon-go-streaming-on-honor-magic-5-pro-drfone-by-drfone-virtual-android/"><u>The Magnificent Art of Pokemon Go Streaming On Honor Magic 5 Pro? | Dr.fone</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/top-of-the-line-gaming-performance-a-comprehensive-look-at-the-xbox-one-x/"><u>Top-of-the-Line Gaming Performance: A Comprehensive Look at the Xbox One X</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/troubleshooting-the-shell32dll-missing-error-on-your-pc/"><u>Troubleshooting the 'Shell32.dll Missing' Error on Your PC</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unlock-free-smsmms-applications-ideal-choices-for-iphones-and-ipod-touch-users/"><u>Unlock FREE SMS/MMS Applications: Ideal Choices for iPhones and iPod Touch Users</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-2024-approved-from-import-to-export-video-editing-on-mac-os-x-yosemite-explained/"><u>Updated 2024 Approved From Import to Export Video Editing on Mac OS X Yosemite Explained</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-the-ultimate-guide-to-animation-drawing-top-software-picks/"><u>Updated In 2024, The Ultimate Guide to Animation Drawing Top Software Picks</u></a></li>
+</ul></div>

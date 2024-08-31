@@ -1,7 +1,7 @@
 ---
 title: "Lenovo's Latest Powerhouse: The ThinkPad Z13 Gen 2 with Advanced AMD Chipset Unveiled!"
-date: 2024-08-28 19:40:57
-updated: 2024-08-29 10:17:57
+date: 2024-08-30T16:49:33.427Z
+updated: 2024-08-31T16:49:33.427Z
 tags:
   - desktop
 categories:
@@ -166,6 +166,9 @@ Sergio Rodriguez / How-To Geek
 
 ![The Lenovo ThinkPad Z13 Gen2 laptop playing a nature video of a puffin.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/02/graphics-hero-image-youtube-screenshot.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Cianna Garrison / How-To Geek
 
 _BBC Earth_
@@ -198,6 +201,9 @@ Sergio Rodriguez / How-To Geek
 
 ![The closed Lenovo Z13 Gen 2 laptop.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/02/the-closed-lenovo-z13-gen-2-laptop-4jpg_53480466146_o.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Sergio Rodriguez / How-To Geek
 
  I enjoyed listening to music as I worked via the two AI-powered 2W Dolby Atmos speakers, but I had to turn the volume up to about 80 to 100% for it to be a good volume. That said, I didn't notice much distortion, even when listening to crunchy guitar-laden music like the blues or hard rock. But I found the speakers sounded the best when recordings were more simplistic, focusing on one to three instruments and vocals more than a complex, noisy blend, such as some vocal-heavy jazz tracks from Chet Baker and Etta James. The speakers do have a sort of condensed quality to them, but this is nothing I wouldn't expect from most laptop speaker systems, which are still sorely behind in audio quality compared to external speakers and even [some smartphone speakers](https://screen-mirror.techidaily.com/full-guide-on-mirroring-your-honor-magic5-ultimate-to-your-pcmac-drfone-by-drfone-android/). Of course, you can always [improve the sound of the laptop's speakers](https://extra-guidance.techidaily.com/revolutionize-note-taking-with-mematic-app-for-2024/) by investing in some [desktop speaker systems](https://some-approaches.techidaily.com/new-synergizing-visual-cues-with-the-right-musical-choices/) or using [good-quality wired headphones](https://mondly-stories.techidaily.com/perfezionamento-dei-numeri-italiani-per-la-comunicazione-da-1-1000/).
@@ -210,24 +216,44 @@ Close
 
 ### 
 
+<!-- affiliate ads begin -->
+<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
+<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
+<!-- affiliate ads end -->
 ### 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
+<!-- affiliate ads end -->
 ##  Battery and Charging: Long-Lasting Battery Life
 
 ![The Lenovo Z13 Gen 2 with its charger.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/02/the-lenovo-z13-gen-2-with-its-chargerjpg_53480870670_o.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Sergio Rodriguez / How-To Geek
 
  The battery life for the Z13 Gen 2 is sitting somewhere between average and above average, and it charges relatively fast, too, so if you're on the go, it's not a laptop that will drain so quickly you'll be plugging in every hour, but you will need to charge up at least once per day if you use it longer than three hours at a time. On average, the battery drained 0.38% every minute, or about 22.8% per hour (about 100% drain in two hours and 36 minutes. It charged up quickly, averaging 1.04% battery gain per minute, which equals a 62.4% charge in one hour.
 
  My experience with the battery makes the up to 16.5-hour MobileMark score seem a bit high, but I kept it consistently at 300 to 400 nits, while the benchmark measured performance at 250 nits.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
+<!-- affiliate ads end -->
 ##  Should You Buy the Lenovo ThinkPad Z13 Gen 2 (AMD) Laptop?
 
 ![The closed Lenovo Z13 Gen 2 laptop.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/02/the-closed-lenovo-z13-gen-2-laptop-2jpg_53480775254_o.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 Sergio Rodriguez / How-To Geek
 
  The [ThinkPad Z13 Gen 2](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.lenovo.com%2Fus%2Fen%2Fp%2Flaptops%2Fthinkpad%2Fthinkpadz%2Fthinkpad-z13-gen-2-%2813-inch-amd%29%2Flen101t0073) is a premium offering that's a good choice for anyone who travels a lot or wants a portable laptop with decent processing power. However, it has some weaknesses in terms of its speaker system, an occasional lag when heavily multitasking, and a lack of port options that might make this a poor choice for you. If you're looking for something different, the [ThinkPad Z16 Gen 2](https://digital-screen-recording.techidaily.com/updated-in-2024-experts-guide-to-the-best-ipad-voice-recording-tools-3/) performed better in some of these categories, as did the [ThinkPad X1 Carbon Gen 10](https://extra-hints.techidaily.com/cinematographic-cuisine-expert-tips-on-filming-edibles/).
@@ -236,6 +262,9 @@ Sergio Rodriguez / How-To Geek
 
 ![The Lenovo Z13 Gen 2 open.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/3hkubxx903po29y50bbq45fk4feyo0833940.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 #####  Lenovo ThinkPad Z13 Gen 2
 
 7/ 10 
@@ -258,3 +287,62 @@ The Lenovo ThinkPad Z13 Gen 2 laptop is a premium portable option that suits stu
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-discover-top-10plus-free-desktop-capture-software/"><u>[New] 2024 Approved  Discover Top 10+ Free Desktop Capture Software</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-frame-by-frame-mastery-in-youtube-no-cost-required/"><u>[New] 2024 Approved  Frame by Frame Mastery in YouTube - No Cost Required</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-free-tools-for-effortless-video-image-retrieval/"><u>[New] 2024 Approved  Free Tools for Effortless Video Image Retrieval</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-gain-profit-power-the-secret-of-successful-youtube-marketing-and-500plus/"><u>[New] 2024 Approved  Gain Profit Power  The Secret of Successful Youtube Marketing & 500+</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-get-smart-with-your-youtube-thumbnails-using-a-mac/"><u>[New] 2024 Approved  Get Smart with Your YouTube Thumbnails, Using a Mac</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-make-a-youtube-trailer-by-filmora/"><u>[New] 2024 Approved  How to Make a YouTube Trailer by Filmora</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-protectly-copy-youtube-tracks-for-free/"><u>[New] 2024 Approved  How to Protectly Copy Youtube Tracks for Free</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-windowsnap-tool-for-straightforward-recording/"><u>[New] 2024 Approved  WindowSnap Tool for Straightforward Recording</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-case-study-how-to-grow-on-youtube-to-have-millions-of-subs-for-2024/"><u>[New] Case Study  How to Grow on YouTube to Have Millions of Subs for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-fifa-visuals-key-youtube-video-trends-for-2024/"><u>[New] FIFA Visuals  Key YouTube Video Trends for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-finalcut-pro-tutorials-for-top-tier-youtube-video-editing-for-2024/"><u>[New] FinalCut Pro Tutorials for Top-Tier YouTube Video Editing for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-flexibility-in-viewing-with-youtube-tv-options-for-2024/"><u>[New] Flexibility in Viewing with YouTube TV Options for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-from-humble-beginnings-to-prodigy-carryminatis-earnings-ajey-for-2024/"><u>[New] From Humble Beginnings to Prodigy  CarryMinati's Earnings (Ajey) for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-from-ingredients-to-inspiration-cooking-videos-for-2024/"><u>[New] From Ingredients to Inspiration  Cooking Videos for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-100plus-gaming-channel-names-for-every-gamer-filmora/"><u>[New] In 2024, 100+ Gaming Channel Names for Every Gamer - Filmora</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-filmmakers-companion-filmora-for-youtube-trailers/"><u>[New] In 2024, Filmmaker's Companion  Filmora for YouTube Trailers</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-first-foray-into-fashionable-mac-made-videos-for-youtube/"><u>[New] In 2024, First Foray Into Fashionable Mac-Made Videos for YouTube</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-flawless-soundscape-secrets-to-high-resolution-audio-recording/"><u>[New] In 2024, Flawless Soundscape  Secrets to High-Resolution Audio Recording</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-fullview-media-collaboration-guidebook/"><u>[New] In 2024, FullView Media Collaboration Guidebook</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-gamers-galaxy-a-thousand-stars-in-gaming/"><u>[New] In 2024, Gamers' Galaxy  A Thousand Stars in Gaming</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-get-premium-minecraft-channel-graphics/"><u>[New] In 2024, Get Premium Minecraft Channel Graphics</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-growth-hackers-guide-the-ultimate-list-of-top-strategies-to-retain-youtube-viewers/"><u>[New] In 2024, Growth Hackers Guide  The Ultimate List of Top Strategies to Retain YouTube Viewers</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-harness-the-full-potential-of-video-tags-in-youtube/"><u>[New] In 2024, Harness the Full Potential of Video Tags in YouTube</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-newcomer-to-pro-a-step-by-step-creator-hub-guidebook/"><u>[Updated] 2024 Approved  From Newcomer to Pro  A Step-by-Step Creator Hub Guidebook</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-increase-youtube-traffic-by-a-million-safely-done/"><u>[Updated] 2024 Approved  How to Increase YouTube Traffic by a Million  Safely Done</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-seamlessly-reorganize-video-playlists-on-yt/"><u>[Updated] 2024 Approved  How to Seamlessly Reorganize Video Playlists on YT</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-maximizing-revenue-how-to-monetize-youtube-channel-on-mobile/"><u>[Updated] 2024 Approved  Maximizing Revenue  How to Monetize YouTube Channel on Mobile</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-a-compreehensive-guide-to-youtube-thumbnail-creation-mac-for-2024/"><u>[Updated] A Compreehensive Guide to YouTube Thumbnail Creation (Mac) for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-free-vs-paid-youtubes-exclusive-picks-for-superior-opening-tutorials-for-2024/"><u>[Updated] Free vs Paid  YouTube's Exclusive Picks for Superior Opening Tutorials for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-get-into-the-game-starting-an-apple-powered-sports-network-for-2024/"><u>[Updated] Get Into the Game  Starting an Apple-Powered Sports Network for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-harness-youtube-opportunities-via-strategic-creator-studio-application-for-2024/"><u>[Updated] Harness YouTube Opportunities via Strategic Creator Studio Application for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-history-enthusiasts-guide-to-inspiring-youtube-channels-for-2024/"><u>[Updated] History Enthusiasts' Guide to Inspiring YouTube Channels for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-gauge-if-an-mcn-is-right-for-your-youtube-journey-for-2024/"><u>[Updated] How to Gauge if an MCN Is Right for Your YouTube Journey for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-elevating-your-style-with-youtubes-best-hauls/"><u>[Updated] In 2024, Elevating Your Style with YouTube's Best Hauls</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-finding-your-portal-to-youtubes-video-mastery-hub/"><u>[Updated] In 2024, Finding Your Portal to YouTube's Video Mastery Hub</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-flutter-freedom-for-videos-the-best-tools-to-flv-to-youtubes/"><u>[Updated] In 2024, Flutter Freedom for Videos  The Best Tools to Flv-to-YouTubes</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-game-modders-and-tutorial-content-leaders/"><u>[Updated] In 2024, Game Modders & Tutorial Content Leaders</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-google-meet-broadcast-simplified-youtube-steps/"><u>[Updated] In 2024, Google Meet Broadcast Simplified  YouTube Steps</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-gourmet-gurus-who-you-should-subscribe-to/"><u>[Updated] In 2024, Gourmet Gurus  Who You Should Subscribe To</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-manage-youtube-video-comments-for-enhanced-privacy/"><u>[Updated] In 2024, How to Manage YouTube Video Comments for Enhanced Privacy</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-view-youtube-statistics/"><u>[Updated] In 2024, How to View YouTube Statistics?</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-rapid-accessibility-of-instagram-videos-and-stories/"><u>[Updated] In 2024, Rapid Accessibility of Instagram Videos and Stories</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/2024-approved-elevate-your-videography-7-free-sound-effects-collection/"><u>2024 Approved  Elevate Your Videography - 7 Free Sound Effects Collection</u></a></li>
+<li><a href="https://howto.techidaily.com/8-ultimate-fixes-for-google-play-your-motorola-razr-40-isnt-compatible-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Ultimate Fixes for Google Play Your Motorola Razr 40 Isnt Compatible | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/designing-an-emotional-film-flashback-frenzy/"><u>Designing an Emotional Film Flashback Frenzy</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/forgot-pattern-lock-heres-how-you-can-unlock-vivo-y200e-5g-pattern-lock-screen-by-drfone-android/"><u>Forgot Pattern Lock? Heres How You Can Unlock Vivo Y200e 5G Pattern Lock Screen</u></a></li>
+<li><a href="https://windows11.techidaily.com/guide-to-activating-secure-file-confinement-on-win1011-os/"><u>Guide to Activating Secure File Confinement on Win10/11 OS</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-apple-iphone-6-plus-without-itunes-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Reset Apple iPhone 6 Plus Without iTunes? | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/navigating-through-windows-code-41-driver-troubles-essential-repairs/"><u>Navigating Through Window's Code 41 Driver Troubles: Essential Repairs</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-2024-approved-color-matching-mastery-a-step-by-step-guide-for-powerdirector-users/"><u>New 2024 Approved Color Matching Mastery A Step-by-Step Guide for PowerDirector Users</u></a></li>
+<li><a href="https://win-answers.techidaily.com/overcoming-startup-issues-with-origin-game-platform-on-windows-1011/"><u>Overcoming Startup Issues with Origin Game Platform on Windows 10/11</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-ultimate-guide-to-top-tech-picks-insights-from-tomn-hardware/"><u>The Ultimate Guide to Top Tech Picks: Insights From Tom'n Hardware</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-wrp-error-solutions-for-windows-resource-protection-failed-issues/"><u>Troubleshooting WRP Error: Solutions for 'Windows Resource Protection Failed' Issues</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unlock-endless-possibilities-engaging-in-talks-with-chatgpt-revealed/"><u>Unlock Endless Possibilities: Engaging in Talks with ChatGPT Revealed</u></a></li>
+<li><a href="https://location-social.techidaily.com/why-your-whatsapp-location-is-not-updating-and-how-to-fix-on-apple-iphone-xr-drfone-by-drfone-virtual-ios/"><u>Why Your WhatsApp Location is Not Updating and How to Fix On Apple iPhone XR | Dr.fone</u></a></li>
+</ul></div>

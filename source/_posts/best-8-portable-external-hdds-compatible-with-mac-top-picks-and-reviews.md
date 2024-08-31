@@ -1,7 +1,7 @@
 ---
 title: "Best 8 Portable External HDDs Compatible with Mac: Top Picks & Reviews"
-date: 2024-08-26 20:26:58
-updated: 2024-08-27 12:12:27
+date: 2024-08-30T16:52:59.449Z
+updated: 2024-08-31T16:52:59.449Z
 categories:
   - macxdvd
 thumbnail: https://thmb.techidaily.com/25e355cfe41e9e10950c631e4aa9da16590e30c123d991c0d3d8b6703e367f7f.png
@@ -66,36 +66,67 @@ The flash drive software supports to change both jailbroken and non-jailbroken i
 
 ![best Mac HDD](https://www.macxdvd.com/mac-dvd-video-converter-how-to/article-image/best-hdd-fro-mac-2.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
+<!-- affiliate ads end -->
 ### LaCie Rugged Mini ($99.99/1TB) - Review: 4.5
 
  Since many users recommend LaCie as the best [external DVD drive for Mac](https://tools.techidaily.com/macxdvd/products/), we put the 1TB version on the top of the best external hard drive for Mac list. Claimed as being even rain-resistant, and pressure-resistant, it can be easily carried wherever you go. 700MB video file can be transferred with USB 3.0, which is quite satisfying in speed. With secure password protection software built-in, it's also the best portable hard drive for MacBook Air/Pro/iMac to backup Mac, restore Mac data in terms of security. 
 
 ![best HDD mac](https://www.macxdvd.com/mac-dvd-video-converter-how-to/article-image/best-hdd-fro-mac-2.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### LaCie Rugged Thunderbolt ($169.90/1TB) - Review: 4.5 
 
  It says the best external drive for Mac with Thunderbolt and USB 3.0 connector can transfer data in a speed of up to 240 MB/s. LaCie Rugged Thunderbolt is a good choice for users requiring more data security and mobility thanks to its hardware RAID 0/1 flexibility and two-meter drop resistance. However, some users complain that the best Mac external hard drive is not as fast as they believer. Know More Top Fast [File Transfer for Mac](https://tools.techidaily.com/macxdvd/products/).
 
 ![best external hard drive mac](https://www.macxdvd.com/mac-dvd-video-converter-how-to/article-image/best-hdd-for-mac-3.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
+<!-- affiliate ads end -->
 ### Western Digital ($59/1TB) - Review: 4.5
 
  It's the best external hard drive to backup Mac compared with other items from WD. Speed is improved a lot in this model. Optional AES hardware encryption is offered by the best hard disk drive for Mac, you are free to block and unblock the drive and restore data for Mac. Four colors are available, black, blue, white and berry. The best Mac portable hard drive for is suitable for both Mac and PC. Also see [iPhone flash drive app](https://tools.techidaily.com/macxdvd/products/). 
 
 ![best external hard drive for mac](https://www.macxdvd.com/mac-dvd-video-converter-how-to/article-image/best-hdd-for-mac-4.jpg) 
 
+<!-- affiliate ads begin -->
+<span id="1993650">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Seagate Backup Plus Slim ($59.99/1TB)- Review: 4.4
 
 The extra 200GB of free OneDrive cloud storage make the best HDD for Mac more appealing, which requires a register of your drive on its official site though. With Lyve App, data backup on the best portable hard drive for MacBook is being reached within the app anywhere and anytime. It has up to 4TB version priced at $119.99, 4TB fast $199.99, with data transfer speed up to 220MB/S. 
 
 ![best external hard drive for MacBook](https://www.macxdvd.com/mac-dvd-video-converter-how-to/article-image/best-hdd-for-mac-5.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<!-- affiliate ads end -->
+<!-- affiliate ads begin -->
+<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
+DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
+<!-- affiliate ads end -->
 ### Transcend 1 TB StoreJet ($56.99/1TB) - Review: 4.4
 
 This Transcend 1 TB StoreJet can transfer large file with speed of up to 100MB/s according to users report. the 256-bit AES file and folder encryption sounds good. 2TB version only costs $ 102.99, which is really cheap on the list of best external hard drive for Mac. The so claimed military-grade shock resistance, however, is not expected as it ought to be. It's durability needs to be improved. 
 
 ![top Mac external hard drive](https://www.macxdvd.com/mac-dvd-video-converter-how-to/article-image/best-hdd-for-mac-6.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
+<!-- affiliate ads end -->
 ### Toshiba Canvio Connect II ($54.99/1TB) - Review: 4.5
 
 Data encryption, auto backup and Cloud-enabled backup are all allowed by the top HDD for MacBook. It is available in various capability, 1TB, 2TB, 3TB and 500MB. Stable and fast data transfer speed of the updated Toshiba Canvio Connect version is highly praised by users. It's a great choice for best portable hard drive for Mac hunters. 
@@ -104,6 +135,9 @@ Data encryption, auto backup and Cloud-enabled backup are all allowed by the top
 
 ![best portable hdd for Mac](https://www.macxdvd.com/mac-dvd-video-converter-how-to/article-image/best-hdd-for-mac-7.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### G-Technology G-DRIVE ($ 84.95/500GB) - Review: 4.8
 
  If you are looking for the best portable firewire external hard drive for Mac, this one is probably what you want. The G-Technology G-DRIVE 500GB top portable firewire hard drive for Mac is good for Mac data backup/recovery and video editing. Time Machine-ready, bus-powered operation and Firewire port are appreciated features. Note that this best-rated hard disk drive requires computer with OS X 10.5 or later and USB 3.0 or FireWire 800 port.
@@ -114,6 +148,9 @@ Related Articles
 
 ![](https://www.macxdvd.com/mac-dvd-video-converter-how-to/../image-style/new-seo/pic7.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
+<!-- affiliate ads end -->
 \[Gallery\] have Archeologists Finally Solved The Mystery of Atlantls? 
 
 ![](https://www.macxdvd.com/mac-dvd-video-converter-how-to/../image-style/new-seo/pic6.jpg)
@@ -130,10 +167,16 @@ Related Articles
 
 ![](https://www.macxdvd.com/mac-dvd-video-converter-how-to/../image-style/new-seo/pic3.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
+<!-- affiliate ads end -->
 \[Gallery\] have Archeologists Finally Solved The Mystery of Atlantls? 
 
 ![](https://www.macxdvd.com/mac-dvd-video-converter-how-to/../image-style/new-seo/pic2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 \[Gallery\] have Archeologists Finally Solved The Mystery of Atlantls? 
 
 
@@ -156,6 +199,18 @@ Digiarty Software, Inc. (MacXDVD) is a leader in delivering stable multimedia so
 * [Online Video >>](https://tools.techidaily.com/macxdvd/products/)
 * [Hot Topics >>](https://tools.techidaily.com/macxdvd/products/)
 
+<!-- affiliate ads begin -->
+<span id="1997795">
+					<video width="250" height="250" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Company
 
 * [About Us >>](https://tools.techidaily.com/macxdvd/products/)
@@ -187,3 +242,49 @@ Digiarty Software is not developed by or affiliated with Apple Inc.
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-delving-deep-into-ios-video-recording-capabilities/"><u>[New] 2024 Approved  Delving Deep Into IO's Video Recording Capabilities</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-fifas-favorite-footage-charted-on-youtube/"><u>[New] 2024 Approved  FIFA's Favorite Footage  Charted on YouTube</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-raw-to-refined-the-ultimate-youtube-studio-editing-journey/"><u>[New] 2024 Approved  From Raw to Refined  The Ultimate YouTube Studio Editing Journey</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-zeroes-to-heroes-amplifying-your-youtube-following/"><u>[New] 2024 Approved  From Zeroes to Heroes  Amplifying Your Youtube Following</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-fundamental-codex-for-online-video-communities/"><u>[New] 2024 Approved  Fundamental Codex for Online Video Communities</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-prevent-thumbnail-absence-in-shorts-uploads/"><u>[New] 2024 Approved  How to Prevent Thumbnail Absence in Shorts Uploads</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-navigating-instas-archive-maze-for-optimal-results/"><u>[New] 2024 Approved  Navigating Insta’s Archive Maze for Optimal Results</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-beginners-blueprint-to-effective-use-of-aiseesoft-recorder/"><u>[New] Beginner's Blueprint to Effective Use of Aiseesoft Recorder</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-from-beef-to-brilliance-jake-pauls-youtube-transformation-for-2024/"><u>[New] From Beef to Brilliance  Jake Paul’s Youtube Transformation for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-from-creator-to-earnings-successful-youtube-short-strategies-for-2024/"><u>[New] From Creator to Earnings  Successful YouTube Short Strategies for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-how-to-stabilize-your-camera-without-buying-a-tripod-for-2024/"><u>[New] How to Stabilize Your Camera without Buying a Tripod for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-free-youtube-intro-steps-and-template-guide/"><u>[New] In 2024, Free YouTube Intro Steps and Template Guide</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-free-fast-and-reliable-download-your-favorite-youtube-content/"><u>[New] In 2024, Free, Fast and Reliable  Download Your Favorite YouTube Content</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-hidden-gems-on-youtube-understanding-unlisted-videos/"><u>[New] In 2024, Hidden Gems on YouTube  Understanding 'Unlisted' Videos</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-the-key-to-quick-and-effective-small-image-generation/"><u>[New] In 2024, The Key to Quick and Effective Small Image Generation</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-making-every-frame-count-in-instagram-videos/"><u>[New] Making Every Frame Count in Instagram Videos</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-find-your-perfect-vlog-title-best-free-name-generators/"><u>[Updated] 2024 Approved  Find Your Perfect Vlog Title - Best Free Name Generators</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-finding-and-exploring-your-own-music-selection-zone-on-youtube/"><u>[Updated] 2024 Approved  Finding and Exploring Your Own Music Selection Zone on Youtube</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-fixing-popular-youtube-short-snafus/"><u>[Updated] 2024 Approved  Fixing Popular YouTube Short Snafus</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-crafting-the-perfect-chat-sound-downloading-and-customizing-whatsapp-ringtones-for-2024/"><u>[Updated] Crafting the Perfect Chat Sound  Downloading & Customizing WhatsApp Ringtones for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-from-device-capture-to-viral-content-youtubes-upload-guide-for-2024/"><u>[Updated] From Device Capture to Viral Content  YouTube's Upload Guide for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-from-raw-footage-to-final-cut-chroma-mastery-for-2024/"><u>[Updated] From Raw Footage to Final Cut  Chroma Mastery for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-gaining-clarity-on-your-youtube-audiences-behavior-for-2024/"><u>[Updated] Gaining Clarity on Your YouTube Audience's Behavior for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-harmonize-your-favorites-creating-custom-youtube-playlists-for-2024/"><u>[Updated] Harmonize Your Favorites  Creating Custom YouTube Playlists for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-how-does-youtube-manage-post-upload-operations-for-2024/"><u>[Updated] How Does YouTube Manage Post-Upload Operations for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-loop-a-youtube-video-the-ultimate-guide-for-2024/"><u>[Updated] How to Loop a YouTube Video  The Ultimate Guide for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-see-your-subscribers-on-youtube-in-2024/"><u>[Updated] How to See Your Subscribers on YouTube, In 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-final-step-guide-free-yourself-from-youtube-shorts/"><u>[Updated] In 2024, Final Step Guide  Free Yourself From YouTube Shorts</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-free-fx-library-to-enhance-youtube-productions/"><u>[Updated] In 2024, Free FX Library to Enhance YouTube Productions</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-free-youtube-artwork-hacks-snag-high-res-thumbnails-now/"><u>[Updated] In 2024, Free YouTube Artwork Hacks - Snag High-Res Thumbnails Now</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-budget-channels-to-big-brands-youtube-sponsorships-demystified/"><u>[Updated] In 2024, From Budget Channels to Big Brands  YouTube Sponsorships Demystified</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-buffer-to-broadcast-learn-how-to-convert-your-youtube-viewing-into-a-screenshot-for-free/"><u>[Updated] In 2024, From Buffer to Broadcast  Learn How to Convert Your YouTube Viewing Into a Screenshot for Free</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-getting-started-on-youtube-setting-up-and-generating-income/"><u>[Updated] In 2024, Getting Started on YouTube  Setting Up & Generating Income</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-is-av1-really-outdo-cooking-vp9/"><u>2024 Approved  Is AV1 Really Outdo Cooking VP9?</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-maximizing-your-mac-preview-experience-step-by-step/"><u>2024 Approved  Maximizing Your Mac Preview Experience  Step-by-Step</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/chatgpt-educating-kids-with-a-safe-secure-approach-in-5-ways/"><u>ChatGPT: Educating Kids with a Safe, Secure Approach in 5 Ways</u></a></li>
+<li><a href="https://facebook.techidaily.com/decoding-metas-enhanced-commitment-to-user-privacy/"><u>Decoding Meta’s Enhanced Commitment to User Privacy</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/full-tutorial-to-bypass-your-realme-11-5g-face-lock-by-drfone-android/"><u>Full Tutorial to Bypass Your Realme 11 5G Face Lock?</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-remove-forgotten-pin-of-your-honor-magic-5-by-drfone-android/"><u>How to Remove Forgotten PIN Of Your Honor Magic 5</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/in-2024-essential-watch-top-8-internet-gems/"><u>In 2024, Essential Watch  Top 8 Internet Gems</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-ultimate-guide-on-samsung-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide on Samsung FRP Bypass</u></a></li>
+<li><a href="https://win-forum.techidaily.com/navigating-the-landscape-of-digital-media-giants-facebook-twitter-instagram-and-youtube/"><u>Navigating the Landscape of Digital Media Giants: Facebook, Twitter, Instagram and YouTube</u></a></li>
+</ul></div>

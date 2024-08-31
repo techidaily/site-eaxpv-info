@@ -1,7 +1,7 @@
 ---
 title: "Building Your Personal Conversational Agent: Emulating ChatGPT on Your Computer"
-date: 2024-08-27 18:45:38
-updated: 2024-08-29 11:27:30
+date: 2024-08-30T16:50:58.659Z
+updated: 2024-08-31T16:50:58.659Z
 tags:
   - cutting-edge
 categories:
@@ -45,6 +45,9 @@ thumbnail: https://thmb.techidaily.com/033e16fe59890bceeadfe993413908bd7b5cc9fe4
 
  The 13B and 30B models are quite another story. 13B is capable of providing a coherent, human-like conversation, and can answer complex questions. 30B is even more impressive, if you've got the hardware to run it, and is within striking distance of ChatGPT. It'll wax on philosophically or make a joke without missing a beat if prompted.
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
+<!-- affiliate ads end -->
 ##  What Do You Need to Run Alpaca?
 
  Alpaca has pretty flexible system requirements. These guidelines are above the bare minimum but are good guidelines. We're also going to be installing this on Windows. If you're installing this on a system running Linux or macOS, just skip the Windows Subsystem for Linux section --- it isn't relevant to you.
@@ -65,10 +68,17 @@ thumbnail: https://thmb.techidaily.com/033e16fe59890bceeadfe993413908bd7b5cc9fe4
 
  There is currently no reason to suspect this particular project has any major security faults or is malicious. We've been through the code and run the software ourselves and found nothing concerning. That does not mean it is or will remain safe. Always be cautious with things you find on internet and reevaluate the safety periodically.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
+LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
+<!-- affiliate ads end -->
 ##  How to Run Alpaca Locally on Your PC
 
  It is important that you follow these steps in the order they're given. Docker will probably break if you don't, requiring a complete reinstall of both WSL2 and Docker.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ###  Install Windows Subsystem for Linux 2
 
  Microsoft's [Windows Subsystem for Linux 2 (WSL2)](https://howto.techidaily.com/fixes-for-apps-keep-crashing-on-honor-magic-5-lite-drfone-by-drfone-fix-android-problems-fix-android-problems/) allows you to run Linux software in Windows. It has a low overhead and is really handy in a lot of cases. Docker for Windows relies on WSL2, so we need to install WSL2 first.
@@ -83,6 +93,9 @@ thumbnail: https://thmb.techidaily.com/033e16fe59890bceeadfe993413908bd7b5cc9fe4
 
 ![Installing WSL2.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/03/2023-03-24_02h23_47.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
+<!-- affiliate ads end -->
  Once the restart has been performed, reopen PowerShell (not necessarily as admin) and run:
 
         `wsl -l -v `
@@ -103,6 +116,9 @@ Related: [How to Run ChatGPT Using ShellGPT From the Ubuntu Terminal](https://vi
 
 ![Install Docker Desktop from the Docker website.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/03/2023-03-24_13h44_36.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Run the installer and be prepared to wait a few minutes. Docker will take a while and set up a bunch of stuff behind the scenes. Once it is done, you'll want to restart your PC.
 
  After restarting, open PowerShell and run 
@@ -133,6 +149,9 @@ Related: [How to Run ChatGPT Using ShellGPT From the Ubuntu Terminal](https://vi
 
 ![Download Serge from Github.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/03/Downloading-from-GitHub.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
+<!-- affiliate ads end -->
  The next command you need to run is:
 
         `cp .env.sample .env`
@@ -165,6 +184,18 @@ Related: [How to Run ChatGPT Using ShellGPT From the Ubuntu Terminal](https://vi
 
 ![Downloading the 7B language model.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/03/downloading-the-model.png) 
 
+<!-- affiliate ads begin -->
+<span id="1793213">
+					<video width="1080" height="1620" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Use Serge and Alpaca
 
  Docker and all of the required containers are currently running if you've followed these instructions, however, you'll have to turn them back on if you restart your computer. To do that, just open up Docker Desktop and click the small triangular buttons. The icons to the left of the "Name" column turn green when the containers are running.
@@ -179,6 +210,13 @@ Related: [How to Run ChatGPT Using ShellGPT From the Ubuntu Terminal](https://vi
 
 ![The Serge Web Interface.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/03/The-main-screen.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
+Create your texts / logos without any limitation. 
+No attribution required when downloading. 
+No advertising on the website. 
+ TextStudio.com  PREMIUM - Monthly Membership</a>
+<!-- affiliate ads end -->
  There are a fair number of settings available, but there are five that you'll really want to pay attention to:
 
 * **Temperature** \- Determines how freely the AI answers. Lower numbers result in more rigid answers, while higher numbers are more creative.
@@ -191,10 +229,17 @@ Related: [How to Run ChatGPT Using ShellGPT From the Ubuntu Terminal](https://vi
 
 ![Important Serge Settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/03/our-custom-spin.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Here is a sample of how the conversation went.
 
 ![An example conversation.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/03/pirate.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
+ PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
+<!-- affiliate ads end -->
  You can talk about anything you'd like with Alpaca, and you don't have to worry about what is happening to your data. It remains on your device, under your control at all times.
 
  Remember, ChatGPT, Alpaca, and other chatbots seem reliable, but they aren't at this point in time. They very much embody the sentiment: "If you can't dazzle them with brilliance, baffle them with BS." Their tendency to make things up has been dubbed "hallucinating." Do not rely on them for anything essential, especially not something critical to your job or health. They should only be used for entertainment or experimental purposes at this time.
@@ -215,3 +260,56 @@ Related: [How to Run ChatGPT Using ShellGPT From the Ubuntu Terminal](https://vi
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-discover-variety-50-complimentary-youtube-banners-available/"><u>[New] 2024 Approved  Discover Variety – 50 Complimentary YouTube Banners Available</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/024-approved-must-have-talker-alteration-tech-for-content-makers/"><u>[New] 2024 Approved  Must-Have Talker Alteration Tech for Content Makers</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-ace-10-drones-for-photography-and-cinematic-prowess/"><u>[New] Ace 10 Drones for Photography & Cinematic Prowess</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-cutting-edge-techniques-pushing-boundaries-in-youtube-cinematography-for-2024/"><u>[New] Cutting Edge Techniques  Pushing Boundaries in YouTube Cinematography for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-how-to-screen-cast-or-record-your-imacs-display-quickly-for-2024/"><u>[New] How to Screen Cast or Record Your iMac's Display Quickly for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-ajeys-youtube-earnings-insight-2023/"><u>[New] In 2024, Ajey's YouTube Earnings Insight - 2023</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-discover-top-10-flv-to-youtube-conversion-tools/"><u>[New] In 2024, Discover Top 10 Flv-to-YouTube Conversion Tools</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-keep-unwanted-content-away-from-your-computer-and-phone/"><u>[New] In 2024, How to Keep Unwanted Content Away From Your Computer and Phone</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-the-comprehensive-blueprint-for-vimeo-video-logging/"><u>[New] In 2024, The Comprehensive Blueprint for Vimeo Video Logging</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-knowledge-currents-best-yt-for-academic-growth/"><u>[New] Knowledge Currents  Best YT for Academic Growth</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-mastering-mobile-asmr-must-have-apps/"><u>[New] Mastering Mobile ASMR  Must-Have Apps</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-tutorial-posting-restricted-youtube-to-gmail-accounts/"><u>[New] Tutorial  Posting Restricted YouTube to Gmail Accounts</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-viral-talent-quest-episodes-1-10/"><u>[New] Viral Talent Quest Episodes #1-10</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-capitalizing-on-hairstyle-demonstrations/"><u>[Updated] 2024 Approved  Capitalizing on Hairstyle Demonstrations</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-efficiently-incorporate-youtube-playlists-for-engaging-pages/"><u>[Updated] 2024 Approved  Efficiently Incorporate YouTube Playlists for Engaging Pages</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-essential-video-promo-tips-for-startups-infographic/"><u>[Updated] 2024 Approved  Essential Video Promo Tips for Startups (Infographic)</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-extract-unlimited-photographic-content-from-esteemed-4-video-channels/"><u>[Updated] Extract Unlimited Photographic Content From Esteemed 4 Video Channels</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-bring-imagination-to-life-self-animated-artistry/"><u>[Updated] In 2024, Bring Imagination to Life  Self-Animated Artistry</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-capturing-the-best-visuals-in-vlogs/"><u>[Updated] In 2024, Capturing the Best Visuals in Vlogs</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-dissecting-revenue-allocation-for-shortform-content-makers/"><u>[Updated] In 2024, Dissecting Revenue Allocation for Shortform Content Makers</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-how-to-post-photos-and-videos-on-twitter-from-smartphones/"><u>[Updated] In 2024, How To Post Photos and Videos on Twitter From Smartphones</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-kitchen-kings-and-queen-top-youtube-gastronomes/"><u>[Updated] Kitchen Kings & Queen  Top YouTube Gastronomes</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-maximize-your-youtube-impact-mastering-the-art-of-influential-channels-branding/"><u>[Updated] Maximize Your YouTube Impact  Mastering the Art of Influential Channels' Branding</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-mirrored-worldviews-on-insta-discover-100-reflective-captions-for-2024/"><u>[Updated] Mirrored Worldviews on Insta - Discover 100 Reflective Captions for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-navigating-zooms-audio-recording-features-with-ease-for-2024/"><u>[Updated] Navigating ZOOM's Audio Recording Features with Ease for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-shedding-light-techniques-for-improving-youtube-video-quality/"><u>[Updated] Shedding Light  Techniques for Improving YouTube Video Quality</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-tailoring-your-timing-strategy-the-ultimate-instagram-guide/"><u>[Updated] Tailoring Your Timing Strategy  The Ultimate Instagram Guide</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-transform-concepts-to-successful-youtube-titles/"><u>[Updated] Transform Concepts to Successful YouTube Titles</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-unleash-your-ugc-making-memes-and-marks-on-fb-for-2024/"><u>[Updated] Unleash Your UGC  Making Memes and Marks on FB for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-unraveling-the-mystery-of-non-uploading-video-features/"><u>[Updated] Unraveling the Mystery of Non-Uploading Video Features</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-video-gamings-top-10-capture-card-recommendations/"><u>[Updated] Video Gaming's Top 10 Capture Card Recommendations</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/2024-approved-unleash-creativity-unlimited-samples-of-50-youtube-banners-for-free/"><u>2024 Approved  Unleash Creativity  Unlimited Samples of 50 YouTube Banners for Free!</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/enhancing-your-youtube-content-basic-premiere-pro-edits/"><u>Enhancing Your YouTube Content  Basic Premiere Pro Edits</u></a></li>
+<li><a href="https://article-helps.techidaily.com/filmopedia-answer-to-inquiries-for-2024/"><u>FilmoPedia  Answer to Inquiries for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-disabled-apple-iphone-se-2020-how-to-unlock-a-disabled-apple-iphone-se-2020-by-drfone-ios/"><u>In 2024, Disabled Apple iPhone SE (2020) How to Unlock a Disabled Apple iPhone SE (2020)?</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-reset-a-samsung-galaxy-f14-5g-phone-that-is-locked-by-drfone-android/"><u>In 2024, How to Reset a Samsung Galaxy F14 5G Phone that is Locked?</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-obs-timer-mastery-building-a-custom-countdown-timer/"><u>In 2024, OBS Timer Mastery  Building a Custom Countdown Timer</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-the-art-of-instagram-video-craftsmanship/"><u>In 2024, The Art of Instagram Video Craftsmanship</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-tips-of-transferring-messages-from-realme-narzo-n53-to-iphone-1415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Tips of Transferring Messages from Realme Narzo N53 to iPhone 14/15 | Dr.fone</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-unveiling-the-instagram-success-script/"><u>In 2024, Unveiling the Instagram Success Script</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-what-is-the-best-pokemon-for-pokemon-pvp-ranking-on-realme-11-proplus-drfone-by-drfone-virtual-android/"><u>In 2024, What is the best Pokemon for pokemon pvp ranking On Realme 11 Pro+? | Dr.fone</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/premier-selector-exclusive-app-selection-for-your-videos-for-2024/"><u>Premier Selector  Exclusive App Selection for Your Videos for 2024</u></a></li>
+<li><a href="https://techidaily.com/quick-guide-how-to-seamlessly-translate-pages-with-google-chrome-mozilla-firefox-and-microsoft-edge/"><u>Quick Guide: How to Seamlessly Translate Pages with Google Chrome, Mozilla Firefox, and Microsoft Edge</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/solving-the-dilemma-effective-methods-for-restoring-power-to-unresponsive-computers/"><u>Solving the Dilemma: Effective Methods for Restoring Power to Unresponsive Computers</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/stepwise-simplification-broadcasting-personal-yt-videos-using-gmail-for-2024/"><u>Stepwise Simplification  Broadcasting Personal YT Videos Using Gmail for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/telepresence-seminar-capture-for-2024/"><u>Telepresence Seminar Capture for 2024</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/top-10-password-cracking-tools-for-vivo-y27s-by-drfone-android/"><u>Top 10 Password Cracking Tools For Vivo Y27s</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/visualslice-software-for-2024/"><u>VisualSlice Software for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/wallet-friendly-hd-entertainment-packs-start-your-ht-journey-today/"><u>Wallet-Friendly HD Entertainment Packs - Start Your HT Journey Today</u></a></li>
+</ul></div>

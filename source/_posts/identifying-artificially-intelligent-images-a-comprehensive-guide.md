@@ -1,7 +1,7 @@
 ---
 title: "Identifying Artificially Intelligent Images: A Comprehensive Guide"
-date: 2024-08-27 15:48:12
-updated: 2024-08-29 12:13:49
+date: 2024-08-30T16:51:14.701Z
+updated: 2024-08-31T16:51:14.701Z
 tags:
   - cutting-edge
 categories:
@@ -29,12 +29,18 @@ thumbnail: https://thmb.techidaily.com/800871781dded7ace3211c5534653c24a5267e768
 
  Messing with AI to create [fantastical images](https://www.instagram.com/everydayyokai/) can be fun, and even help brainstorm ideas, but it has raised concerns over digital rights, privacy, and [copyright](https://article-files.techidaily.com/beyond-ustream-an-examination-of-video-streaming/). If someone uses an AI likeness of someone without their consent that depicts them in an intentionally humiliating light, for example, that's a huge problem. So how do we know if an image is real or churned out by AI?
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ##  4 Ways to Check If a Photo Was Made by AI
 
  At the current level of AI-generated imagery, it's usually easy to tell an artificial image by sight. Fingers or glasses look off. Light sources don't make sense. Backgrounds are warped.
 
  But there are other, more technical ways to dig into an image if you're still not sure. We'll get to that below, but we'll start with the most common-sense tip on the list.
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ###  Check the Photo Caption/Description and Comments
 
  Oftentimes people playing with AI and posting the results to social media like Instagram will straight up tell you the image isn't real. Read the caption for clues if it's not immediately obvious the image is fake.
@@ -60,6 +66,9 @@ thumbnail: https://thmb.techidaily.com/800871781dded7ace3211c5534653c24a5267e768
 
  Objects and people in the background of AI images are especially prone to weirdness. In originalaiartgallery's (objectively amazing) [series of AI photos of the pope baptizing a crowd with a squirt gun](https://www.instagram.com/p/Cs9R-nsufzR/), you can see that several of the people's faces in the background look strange. The water in some shots also appears to be coming from nowhere.
 
+<!-- affiliate ads begin -->
+<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
+<!-- affiliate ads end -->
 ###  Try Using a GAN Detector
 
  AI image generators use Generative Adversarial Networks, or GANs. There are a few apps and plugins designed to try and detect fake images that you can use as an extra layer of security when attempting to authenticate an image. For example, there's a [Chrome plugin](https://chrome.google.com/webstore/detail/fake-profile-detector-dee/jbpcgcnnhmjmajjkgdaogpgefbnokpcc) that will check if a profile picture is GAN generated when you right-click on the photo.
@@ -68,10 +77,16 @@ thumbnail: https://thmb.techidaily.com/800871781dded7ace3211c5534653c24a5267e768
 
 ![Screenshot of test results from Maybe's AI Image detector mistakenly marking an AI photo as a human.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/07/Screenshot-2023-07-12-at-3.05.49-PM.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
+<!-- affiliate ads end -->
  As with [AI image generators](https://fox-info.techidaily.com/new-synthesize-stellar-titles-using-ai-insights/), this technology will continue to improve, so don't discount it completely either.
 
 Related: [Audio Deepfakes: Can Anyone Tell If They're Fake?](https://buynow-marvelous.techidaily.com/unbeatable-endurance-a-deep-dive-into-moto-g-powers-remarkable-battery-performance/) 
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ###  Run an Image or Web Search
 
  If you aren't sure of what you're seeing, there's always the old [Google image search](https://extra-lessons.techidaily.com/expert-tips-on-syncing-gmail-and-zoom-for-remote-collaboration/). These days you can just right click an image to search it with Google and it'll return visually similar images.
@@ -80,6 +95,9 @@ Related: [Audio Deepfakes: Can Anyone Tell If They're Fake?](https://buynow-marv
 
  If the image is used in a news story that could be a disinformation piece, look for other reporting on the same event. If no other outlets are reporting on it, especially if the event in question is incredibly sensational, it could be fake.
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  AI Images of the Future
 
  These programs are only going to improve, and some of them are already scarily good. Midjourney's V5 seems to have tackled the problem of rendering hands correctly, and its images can be [strikingly photorealistic](https://instagram-clips.techidaily.com/2024-approved-visual-storytelling-on-social-media-crafting-an-effective-plan/).
@@ -102,3 +120,42 @@ Related: [How Good Is Midjourney at AI Art? We Compared All the Models](https://
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-boosting-audience-size-a-comprehensive-guide-to-youtube-shorts-success/"><u>[New] 2024 Approved  Boosting Audience Size  A Comprehensive Guide to YouTube Shorts Success</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-expert-strategies-for-tackling-copyright-claims-on-youtube/"><u>[New] 2024 Approved  Expert Strategies for Tackling Copyright Claims on YouTube</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-effortless-online-transformation-ff-vids-to-mp4-in-high-definition-for-2024/"><u>[New] Effortless Online Transformation  FF Vids to MP4 in High Definition for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-elevated-engagement-awards-on-video-realms-for-2024/"><u>[New] Elevated Engagement Awards on Video Realms for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-boost-your-channels-top-5-youtube-tricks-for-increased-visibility/"><u>[New] In 2024, Boost Your Channels  Top 5 YouTube Tricks for Increased Visibility</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-evaluating-the-financial-returns-for-makers-on-youtube-shorts/"><u>[New] In 2024, Evaluating the Financial Returns for Maker's on YouTube Shorts</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-vids-to-dollars-navigating-youtubes-monetization-landscape/"><u>[New] In 2024, From Vids to Dollars  Navigating YouTube's Monetization Landscape</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-sustainable-practices-greening-urban-landscapes/"><u>[New] Sustainable Practices  Greening Urban Landscapes</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-5-innovative-strategies-for-crafting-youtube-titles-and-tags/"><u>[Updated] 2024 Approved  5 Innovative Strategies for Crafting YouTube Titles & Tags</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-audiences-delighted-best-editors-to-transform-youtube-shorts/"><u>[Updated] 2024 Approved  Audiences Delighted  Best Editors to Transform Youtube Shorts</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-bring-life-to-pixels-add-motion-blur/"><u>[Updated] 2024 Approved  Bring Life to Pixels  Add Motion Blur</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-capturing-youtube-icons-browser-extension-command-line-and-software-trio/"><u>[Updated] 2024 Approved  Capturing Youtube Icons  Browser Extension, Command Line & Software Trio</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-cost-effective-growth-tactic-for-youtube-fanbases/"><u>[Updated] 2024 Approved  Cost-Effective Growth Tactic for YouTube Fanbases</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-biting-snippets-to-captivating-narratives-an-experts-guide-to-youtube-edits/"><u>[Updated] 2024 Approved  From Biting Snippets to Captivating Narratives  An Expert's Guide to Youtube Edits</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-accelerate-keyword-acquisition-the-finest-7-free-taggification-apps-for-youtube-videos-for-2024/"><u>[Updated] Accelerate Keyword Acquisition  The Finest 7 Free Taggification Apps for YouTube Videos for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-accessing-your-curated-music-lists-on-youtube-for-2024/"><u>[Updated] Accessing Your Curated Music Lists on Youtube for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-breakthrough-in-video-production-advanced-techniques-for-uploading-360-content-on-youtube-for-2024/"><u>[Updated] Breakthrough in Video Production  Advanced Techniques for Uploading 360° Content on YouTube for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-crafting-visuals-the-science-of-youtube-banners-and-thumbnails-for-2024/"><u>[Updated] Crafting Visuals  The Science of YouTube Banners & Thumbnails for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-boosting-youtube-engagement-top-11-seo-strategies-revealed/"><u>[Updated] In 2024, Boosting YouTube Engagement  Top 11 SEO Strategies Revealed</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-cutting-edge-techniques-for-ios-users-uploading-videos-to-youtube/"><u>[Updated] In 2024, Cutting-Edge Techniques for iOS Users Uploading Videos to YouTube</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-drive-more-watch-time-not-churn-discover-the-top-6-techniques-on-youtube/"><u>[Updated] In 2024, Drive More Watch Time, Not Churn  Discover the Top 6 Techniques on YouTube</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-maximize-lenovos-recording-features-now/"><u>[Updated] In 2024, Maximize Lenovo's Recording Features Now</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-key-strategies-for-adding-timestamps-in-youtube-content/"><u>[Updated] Key Strategies for Adding Timestamps in YouTube Content</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-master-your-hashtags-the-path-to-6-figure-youtube-success/"><u>[Updated] Master Your Hashtags  The Path to 6-Figure Youtube Success</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-she-shares-we-watch-top-female-content-creators-on-youtube/"><u>[Updated] She Shares, We Watch  Top Female Content Creators on YouTube</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-the-ultimate-list-of-serene-smartphone-games-for-2024/"><u>[Updated] The Ultimate List of Serene Smartphone Games for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-noskyshadowtool-premium-bg-elimination-software/"><u>2024 Approved  NoSkyShadowTool  Premium BG Elimination Software</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/discovery-unearthing-the-best-videos-from-fbs-sphere/"><u>Discovery   Unearthing the Best Videos From FB's Sphere</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/expert-analysis-on-the-nintendo-switch-leading-the-pack-of-mobile-gamers/"><u>Expert Analysis on the Nintendo Switch - Leading the Pack of Mobile Gamers</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/exploring-the-rise-of-gptbot-and-its-impact-on-site-accessibility/"><u>Exploring the Rise of GPTBot & Its Impact on Site Accessibility</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-revive-your-bricked-infinix-note-30-pro-in-minutes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Revive Your Bricked Infinix Note 30 Pro in Minutes | Dr.fone</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/24-amplify-video-impact-leading-trackers-for-youtube-ranks/"><u>In 2024, Amplify Video Impact  Leading Trackers for YouTube Ranks</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-thinking-about-changing-your-netflix-region-without-a-vpn-on-motorola-edge-40-drfone-by-drfone-virtual-android/"><u>In 2024, Thinking About Changing Your Netflix Region Without a VPN On Motorola Edge 40? | Dr.fone</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-2024-approved-best-of-both-worlds-free-and-paid-3d-video-creation-software/"><u>New 2024 Approved Best of Both Worlds Free and Paid 3D Video Creation Software</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-in-2024-strategizing-the-use-of-silence-and-sound-for-heightened-emotional-engagement-in-films/"><u>Updated In 2024, Strategizing the Use of Silence and Sound for Heightened Emotional Engagement in Films</u></a></li>
+</ul></div>

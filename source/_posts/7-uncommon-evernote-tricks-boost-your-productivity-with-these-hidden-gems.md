@@ -1,7 +1,7 @@
 ---
 title: "7 Uncommon Evernote Tricks: Boost Your Productivity with These Hidden Gems"
-date: 2024-08-26 13:54:24
-updated: 2024-08-29 12:41:34
+date: 2024-08-30T16:48:35.107Z
+updated: 2024-08-31T16:48:35.107Z
 tags:
   - desktop
 categories:
@@ -31,6 +31,9 @@ thumbnail: https://thmb.techidaily.com/fef81675146c2cf9b1921c414fc91aab36a574a8b
 
 ![Scanning handwritten notes in Evernote.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/1-2-scanning-handwritten-notes-in-evernote.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
+<!-- affiliate ads end -->
 ##  Get AI-Driven Assistance for Refining Your Notes
 
  To keep up with the AI trend, Evernote has introduced an AI assistant in its apps and web client. It can help you write and summarize lengthy notes, fix typos in hastily written notes, translate text between languages, and adjust the tone of your content. To use it, select the text you want to refine, click on the "AI" drop-down menu, and choose the relevant option.
@@ -41,6 +44,9 @@ thumbnail: https://thmb.techidaily.com/fef81675146c2cf9b1921c414fc91aab36a574a8b
 
 ![Using AI assistance in the Evernote smartphone app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/1-1-using-ai-assistance-in-the-evernote-smartphone-app.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Record and Store Your Notes as Voice Memos
 
  Evernote's voice memos feature lets you [record audio notes](https://screen-sharing-recording.techidaily.com/new-tranquility-trove-pcs-best-bets/) directly within the app, making it convenient to quickly capture conversations or ideas without typing. You can later transcribe these recordings into text, making them editable and searchable. Additionally, you can tag and sync them across devices for easy access.
@@ -53,6 +59,9 @@ thumbnail: https://thmb.techidaily.com/fef81675146c2cf9b1921c414fc91aab36a574a8b
 
 ![Recording a voice memo in Evernote.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/2-recording-a-voice-memo-in-evernote.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DBanner%2B728x90"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/2e76fe6a-3010-1b37-7846-f34ff9c6b4ca.png" border="0"></a>
+<!-- affiliate ads end -->
  The memo will be saved in the same note; you can transcribe it by clicking the "Transcribe" button.
 
 ![Transcribing a voice note in Evernote.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/3-transcribing-a-voice-note-in-evernote.jpg) 
@@ -71,6 +80,13 @@ thumbnail: https://thmb.techidaily.com/fef81675146c2cf9b1921c414fc91aab36a574a8b
 
 ![Adding a reminder for a task in the Evernote smartphone app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/1-4-adding-a-reminder-for-a-task-in-the-evernote-smartphone-app.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ##  Use Tags to Find Your Content Quickly
 
  If you struggle to find files in a cluttered library of notes, you should start tagging them for easier retrieval. For example, tag all notes for chapters of a subject, like "Physics Chapter 3." This way, you'll be able to quickly find your related notes. Tags also help organize files more effectively, eliminating the need for numerous folders.
@@ -89,6 +105,9 @@ thumbnail: https://thmb.techidaily.com/fef81675146c2cf9b1921c414fc91aab36a574a8b
 
  Open the note on the smartphone app, click on the three horizontal dots in the top-right corner, and select "Add to Shortcuts."
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
+<!-- affiliate ads end -->
 ##  Manage Tasks Efficiently With To-Do Lists
 
  While Evernote's task management feature is primarily designed for managing project tasks by setting deadlines, reminders, and assigning tasks to team members, you can also use it to create effective to-do lists. You can set deadlines to allocate time for each task and use reminders to ensure timely completion, replacing the need for separate [to-do list apps](https://android-transfer.techidaily.com/in-2024-5-ways-to-move-contacts-from-tecno-spark-go-2023-to-iphone-131415-drfone-by-drfone-transfer-from-android-transfer-from-android/).
@@ -97,8 +116,14 @@ thumbnail: https://thmb.techidaily.com/fef81675146c2cf9b1921c414fc91aab36a574a8b
 
 ![Creating a to-do list in Evernote.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/7-creating-a-to-do-list-in-evernote.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
  Remember to delete your daily to-do list at the end of the day to keep your task management organized within the app.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
+<!-- affiliate ads end -->
 ##  Review Changes Over Time With Note History
 
  Like other note-taking apps, Evernote maintains a [record of previous versions](https://fix-guide.techidaily.com/how-to-change-your-tecno-spark-10-5g-location-on-life360-without-anyone-knowing-drfone-by-drfone-virtual-android/) of your notes. This feature is helpful if you make unintentional changes and want to undo them or want to track changes over time. However, note history is only accessible on the web and desktop versions of Evernote; it is not available on the smartphone app.
@@ -107,6 +132,9 @@ thumbnail: https://thmb.techidaily.com/fef81675146c2cf9b1921c414fc91aab36a574a8b
 
 ![Checking a note's history in Evernote.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/8-checking-a-note-s-history-in-evernote.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<!-- affiliate ads end -->
 ---
 
  Evernote is a great note-taking app, and leveraging the above features can further streamline your note-taking process. Use these features to enhance your workflow and productivity, share your favorite ones with friends and family, and continue exploring the other lesser-known features Evernote offers.
@@ -125,3 +153,46 @@ thumbnail: https://thmb.techidaily.com/fef81675146c2cf9b1921c414fc91aab36a574a8b
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-privacy-in-focus-the-leading-10-no-cost-highly-secured-video-calling-platforms/"><u>[New] 2024 Approved  Privacy in Focus  The Leading 10 No-Cost, Highly-Secured Video Calling Platforms</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-free-youtube-sound-ripper-collection-top-17-extractors-revealed-for-2024/"><u>[New] Free YouTube Sound Ripper Collection  Top 17 Extractors Revealed for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-from-bite-sized-to-detailed-converting-shorts-to-editable-mp4-for-2024/"><u>[New] From Bite-Sized to Detailed  Converting Shorts to Editable MP4 for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-from-the-shadows-to-spotlight-rise-in-popularity-with-these-steps-on-youtube-for-2024/"><u>[New] From the Shadows to Spotlight  Rise in Popularity with These Steps on YouTube for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-how-to-live-streaming-360-video-to-youtube-for-2024/"><u>[New] How to Live Streaming 360 Video to Youtube for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-flavor-forge-30-epicurean-titles-that-resonate/"><u>[New] In 2024, Flavor Forge  30 Epicurean Titles That Resonate</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-fonts-that-make-a-difference-your-20-best-choices/"><u>[New] In 2024, Fonts That Make a Difference  Your 20 Best Choices</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-barely-there-to-top-rated-the-youtube-growth-arc/"><u>[New] In 2024, From Barely There to Top Rated  The Youtube Growth Arc</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-unconfident-to-impactful-embracing-youtube-blogging/"><u>[New] In 2024, From Unconfident to Impactful  Embracing YouTube Blogging</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-zero-to-hero-a-step-by-step-approach-to-youtube-backlinks/"><u>[New] In 2024, From Zero to Hero  A Step-by-Step Approach to YouTube Backlinks</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-zero-to-hero-youtube-intro-wonders-with-imovie/"><u>[New] In 2024, From Zero to Hero  YouTube Intro Wonders with iMovie</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-get-your-digital-dough-worthy-with-these-50-no-cost-youtube-promo-tools/"><u>[New] In 2024, Get Your Digital Dough Worthy With These 50 No-Cost YouTube Promo Tools</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-guffaws-galore-compiled-list-of-10-funniest-youtube-short-videos/"><u>[New] In 2024, Guffaws Galore  Compiled List of 10 Funniest YouTube Short Videos</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-instagram-stylistics-swapping-videos-rightside-up-for-2024/"><u>[New] Instagram Stylistics  Swapping Videos Rightside Up for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-screens-to-spreads-the-dos-and-donts-of-live-blogging/"><u>[Updated] 2024 Approved  From Screens to Spreads  The Do's and Don'ts of Live Blogging</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-script-to-screen-methods-of-inserting-dialogue-into-online-videos/"><u>[Updated] 2024 Approved  From Script to Screen  Methods of Inserting Dialogue Into Online Videos</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-glamour-unleashed-comprehensive-youtube-guide-to-elegance/"><u>[Updated] 2024 Approved  Glamour Unleashed  Comprehensive YouTube Guide to Elegance</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-streamline-the-integration-of-youtube-playlists-into-a-sites-layout/"><u>[Updated] 2024 Approved  How To Streamline the Integration of YouTube Playlists Into a Site's Layout</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-foremost-gallery-storage-solutions/"><u>[Updated] Foremost Gallery Storage Solutions</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-from-camera-roll-to-youtube-the-ultimate-uploading-guide-for-2024/"><u>[Updated] From Camera Roll to YouTube  The Ultimate Uploading Guide for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-how-to-create-endless-video-on-iphone/"><u>[Updated] How-To  Create Endless Video on iPhone</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-foremost-video-starters-the-leading-16-youtube-openers/"><u>[Updated] In 2024, Foremost Video Starters  The Leading 16 YouTube Openers</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-getting-more-out-of-youtube-top-8-mobile-downloader-tips/"><u>[Updated] In 2024, Getting More Out of YouTube  Top 8 Mobile Downloader Tips</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-harnessing-google-trends-for-video-concept-generation/"><u>[Updated] In 2024, Harnessing Google Trends for Video Concept Generation</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-strategizing-for-successful-youtube-ad-sponsorships-with-famebit-for-2024/"><u>[Updated] Strategizing for Successful YouTube Ad Sponsorships with FameBit for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-key-aspects-of-web-based-storytelling/"><u>2024 Approved  Key Aspects of Web-Based Storytelling</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/craft-superior-canon-chrono-series-for-2024/"><u>Craft Superior Canon Chrono Series for 2024</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/exploring-the-user-centric-improvements-of-mods-latest-addition-to-their-e-bike-line/"><u>Exploring The User-Centric Improvements Of Mod's Latest Addition To Their E-Bike Line</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-from-infinix-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock from Infinix Phones with/without a PC</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-3-things-you-must-know-about-fake-snapchat-location-on-vivo-y100-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Things You Must Know about Fake Snapchat Location On Vivo Y100 | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-read-this-guide-to-find-a-reliable-alternative-to-fake-gps-on-nokia-c300-drfone-by-drfone-virtual-android/"><u>In 2024, Read This Guide to Find a Reliable Alternative to Fake GPS On Nokia C300 | Dr.fone</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-get-crystal-clear-videos-top-picks-for-resolution-enhancement-software/"><u>New Get Crystal-Clear Videos Top Picks for Resolution Enhancement Software</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reasons-for-samsung-galaxy-f14-5g-stuck-on-boot-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Samsung Galaxy F14 5G Stuck on Boot Screen and Ways To Fix Them | Dr.fone</u></a></li>
+<li><a href="https://driver-error.techidaily.com/solving-elan-input-lag-in-latest-windows-11/"><u>Solving Elan Input Lag in Latest Windows 11</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-10-telegram-spy-tools-on-samsung-galaxy-f54-5g-for-parents-drfone-by-drfone-virtual-android/"><u>Top 10 Telegram Spy Tools On Samsung Galaxy F54 5G for Parents | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/top-5-concerns-leading-firms-against-gpt-usage/"><u>Top 5 Concerns Leading Firms Against GPT Usage</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-8-search-tools-to-locate-any-individual/"><u>Top 8 Search Tools to Locate Any Individual</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-steps-resolving-audio-issues-in-fallout-4-on-your-pc/"><u>Troubleshooting Steps: Resolving Audio Issues in Fallout 4 on Your PC</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-woes-fixing-persistent-crashes-in-world-of-tanks-blitz/"><u>Troubleshooting Woes: Fixing Persistent Crashes in 'World of Tanks Blitz'</u></a></li>
+</ul></div>

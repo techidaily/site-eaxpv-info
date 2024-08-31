@@ -1,7 +1,7 @@
 ---
 title: Expert Tips for Effectively Utilizing the 'Stat' Command on a Linux System
-date: 2024-08-26 23:44:57
-updated: 2024-08-29 10:15:50
+date: 2024-08-30T16:48:54.273Z
+updated: 2024-08-31T16:48:54.273Z
 tags:
   - desktop
 categories:
@@ -35,6 +35,9 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  Like ls, the `stat` command has a lot of options. This makes it a great candidate for the use of aliases. Once you have discovered a particular set of options that make `stat` give you the output that you want, [wrap it in an alias or shell function](https://hardware-help.techidaily.com/download-the-latest-logitech-camera-drivers-at-no-cost-for-windows-users/). This makes it much more convenient to use, and you don't have to remember an arcane set of command-line options.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  A Quick Comparison
 
  Let's use ls to give us a long listing (`-l` option) with human-readable file sizes (-h option):
@@ -43,6 +46,9 @@ ls -lh ana.h
 
 ![ls -lh ana.h in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/12/7-4.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  From left to right, the information that ls provides is:
 
 * The very first character is a hyphen "-" and this tells us the file is a regular file and not a socket, symlink, or another type of object.
@@ -78,6 +84,9 @@ stat ana.h
 * **Change**: The change timestamp. This is the time the file's attributes or contents were last changed. If you modify a file by setting new file permissions, the change timestamp will be updated (because the file attributes have changed), but the modified timestamp will not be updated (because the file contents were not changed).
 * **Birth**: Reserved to show the original creation date of the file, but this is not implemented in Linux.
 
+<!-- affiliate ads begin -->
+<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Understanding the Timestamps
 
  The timestamps are timezone sensitive. The `-0500` at the end of each line shows that this file was created on a computer in a [Coordinated Universal Time](https://en.wikipedia.org/wiki/Coordinated%5FUniversal%5FTime) (UTC) timezone that is five hours ahead of the timezone of the current computer. So this computer is five hours behind the computer that created this file. In fact, the file was created on a UK timezone computer, and we're looking at it here on a computer in the US Eastern Standard time zone.
@@ -94,10 +103,16 @@ stat ana.c
 
 ![chnod +w ana.c in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/12/9-3.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  The change timestamp has been updated, but the modified one has not.
 
  The modified timestamp will only be updated if the contents of the file are changed. The change timestamp is updated for both content changes and attribute changes.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
+<!-- affiliate ads end -->
 ##  Using Stat With Multiple Files
 
  To have stat report on several files at once, pass the filenames to `stat` on the command line:
@@ -106,12 +121,21 @@ stat ana.h ana.o
 
 ![stat ana.h ana.o in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/12/2-5.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
+<!-- affiliate ads end -->
  To use `stat` on a set of files, use pattern matching. The question mark "?" represents any single character, and the asterisk "\*" represents any string of characters. We can tell `stat` to report on any file called "ana" with a single letter extension, with this command:
 
 stat ana.?
 
 ![stat ana.? in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/12/3-3.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
+<!-- affiliate ads end -->
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Using stat to Report on Filesystems
 
 `stat` can report on the status of filesystems, as well as the status of files. The `-f` (filesystem) option tells `stat` to report on the filesystem that the file resides on. Note we can also pass a directory such as "/" to `stat` instead of a filename.
@@ -156,6 +180,9 @@ stat -L code.c
 
 ![stat -L code.c  in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/12/11-1.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
+<!-- affiliate ads end -->
  This is now showing the file details for the file pointed to by the symbolic link. But note that the filename is still given as `code.c`. This is the name of the link, not the target file. This happens because this is the name we passed to `stat` on the command line.
 
 ##  The Terse Report
@@ -261,3 +288,51 @@ stat --printf="File %n is %s bytes, and is a %F\n" code.c ana/ana.?
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-chat-room-to-global-stage-broadcast-google-meet-on-youtube/"><u>[New] 2024 Approved  From Chat Room to Global Stage  Broadcast Google Meet on YouTube</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-transferring-youtube-shorts-from-pcandroid-or-ios/"><u>[New] 2024 Approved  How-To  Transferring YouTube Shorts From PC/Android or iOS</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-fifa-footage-analysis-trendy-video-patterns-for-2024/"><u>[New] FIFA Footage Analysis  Trendy Video Patterns for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-film-your-facebook-video-for-2024/"><u>[New] Film Your FACEbook Video for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-fostering-collaborations-building-partnerships-to-promote-videos-for-2024/"><u>[New] Fostering Collaborations  Building Partnerships to Promote Videos for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-novice-to-pro-youtube-editing-and-alternatives/"><u>[New] In 2024, From Novice to Pro  YouTube Editing & Alternatives</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-novice-to-pro-youtube-shorts-guide/"><u>[New] In 2024, From Novice to Pro  YouTube Shorts Guide</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-scripts-to-subscribers-mastering-the-production-of-engaging-educational-videos-for-youtube/"><u>[New] In 2024, From Scripts to Subscribers  Mastering the Production of Engaging Educational Videos for YouTube</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-gain-traction-on-youtube-deciphering-ranking-principles/"><u>[New] In 2024, Gain Traction on YouTube  Deciphering Ranking Principles</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-step-by-step-screen-and-video-capture-on-android-for-2024/"><u>[New] Step-by-Step  Screen and Video Capture on Android for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-streamlined-video-logitechs-background-editing-guide-for-2024/"><u>[New] Streamlined Video - Logitech's Background Editing Guide for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-capturing-webcasts-without-payment-fees/"><u>[Updated] 2024 Approved  Capturing Webcasts Without Payment Fees</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-female-gamers-faction-yts-10-stars/"><u>[Updated] 2024 Approved  Female Gamers Faction  YT's #10 Stars</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-fringe-to-mainstream-highlighting-top-10-gender-balanced-youtubers/"><u>[Updated] 2024 Approved  From Fringe to Mainstream  Highlighting Top 10 Gender-Balanced YouTubers</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-streaming-video-how-to-get-youtube-thumbnail-files-onlineos-wise/"><u>[Updated] 2024 Approved  From Streaming Video  How to Get YouTube Thumbnail Files Online/OS-Wise</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-gaming-channel-evolution-best-14-video-ideas-on-youtube/"><u>[Updated] 2024 Approved  Gaming Channel Evolution  Best 14 Video Ideas on YouTube</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-handling-haters-strategies-for-content-creators/"><u>[Updated] 2024 Approved  Handling Haters  Strategies for Content Creators</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-add-a-youtube-video-to-google-slides/"><u>[Updated] 2024 Approved  How to Add a YouTube Video to Google Slides</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-maximize-income-a-simplified-3-step-process-for-youtube-revenue-monitoring/"><u>[Updated] 2024 Approved  How To Maximize Income  A Simplified 3-Step Process for YouTube Revenue Monitoring</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-freshest-beats-newly-trending-music-for-youtube-short-videos-for-2024/"><u>[Updated] Freshest Beats  Newly Trending Music for YouTube Short Videos for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-fuel-the-drive-best-video-ideas-for-channels-success-for-2024/"><u>[Updated] Fuel the Drive  Best Video Ideas for Channels' Success for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-add-captions-to-youtube-videos-for-2024/"><u>[Updated] How To Add Captions to YouTube Videos for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-how-to-seamlessly-gather-professional-images-and-vignettes-for-2024/"><u>[Updated] How to Seamlessly Gather Professional Images & Vignettes for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-turn-video-soundtracks-into-audible-files-for-2024/"><u>[Updated] How to Turn Video Soundtracks Into Audible Files for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-concept-to-completion-crafting-your-youtube-masterpiece/"><u>[Updated] In 2024, From Concept to Completion  Crafting Your YouTube Masterpiece</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-newcomer-to-pro-a-step-by-step-creator-hub-guidebook/"><u>[Updated] In 2024, From Newcomer to Pro  A Step-by-Step Creator Hub Guidebook</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-harnessing-imovies-capabilities-for-youtube-video-perfection/"><u>[Updated] In 2024, Harnessing iMovie's Capabilities for YouTube Video Perfection</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-protectively-download-youtube-audio-without-fear/"><u>[Updated] In 2024, How to Protectively Download YouTube Audio Without Fear</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-next-gen-of-video-visionaries/"><u>[Updated] Next Gen of Video Visionaries</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-premier-videochat-services-for-team-meetings/"><u>[Updated] Premier Videochat Services for Team Meetings</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-tech-tutorial-download-youtube-for-your-idevice-securely/"><u>[Updated] Tech Tutorial  Download YouTube for Your iDevice Securely</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-turn-the-tide-how-to-make-a-youtube-playlist-run-backward/"><u>[Updated] Turn the Tide  How to Make a YouTube Playlist Run Backward</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-the-facebook-live-recorders-playbook/"><u>2024 Approved  The Facebook Live Recorder's Playbook</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/best-android-data-recovery-undelete-lost-music-from-infinix-smart-8-hd-by-fonelab-android-recover-music/"><u>Best Android Data Recovery - Undelete Lost Music from Infinix Smart 8 HD</u></a></li>
+<li><a href="https://driver-install.techidaily.com/bluetooth-troubleshooting-windows-11-recovery-procedures/"><u>Bluetooth Troubleshooting: Windows 11 Recovery Procedures</u></a></li>
+<li><a href="https://video-capture.techidaily.com/fives-finest-time-lapse-capture-apps-reviewed/"><u>Five's Finest  Time-Lapse Capture Apps Reviewed</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-change-google-play-location-on-google-pixel-7a-drfone-by-drfone-virtual-android/"><u>How to Change Google Play Location On Google Pixel 7a | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-11-without-swiping-up-6-ways-by-drfone-ios/"><u>In 2024, How To Unlock Apple iPhone 11 Without Swiping Up? 6 Ways</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/innovative-approaches-to-photo-sharpening-with-photopeas-background-cutting/"><u>Innovative Approaches to Photo Sharpening with Photopea's Background Cutting</u></a></li>
+<li><a href="https://extra-support.techidaily.com/mastering-free-online-and-offline-animation-tools-for-2024/"><u>Mastering Free Online & Offline Animation Tools for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/navigate-the-past-reversing-media-on-iphones-for-2024/"><u>Navigate the Past  Reversing Media on iPhones for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/overcoming-msvcrt10dll-errors-fixes-and-prevention-tips/"><u>Overcoming MSVCRT10.DLL Errors: Fixes and Prevention Tips</u></a></li>
+<li><a href="https://win-answers.techidaily.com/stable-playthrough-tips-resolving-pc-performance-problems-with-ghostwire-tokyo/"><u>Stable Playthrough Tips: Resolving PC Performance Problems with Ghostwire: Tokyo</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-in-2024-from-beginner-to-pro-5-final-cut-pro-editing-tips-to-up-your-game/"><u>Updated In 2024, From Beginner to Pro 5 Final Cut Pro Editing Tips to Up Your Game</u></a></li>
+</ul></div>

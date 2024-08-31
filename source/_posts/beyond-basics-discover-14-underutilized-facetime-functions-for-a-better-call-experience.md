@@ -1,7 +1,7 @@
 ---
 title: "Beyond Basics: Discover 14 Underutilized FaceTime Functions for a Better Call Experience"
-date: 2024-08-26 13:50:10
-updated: 2024-08-29 11:29:29
+date: 2024-08-30T16:48:39.686Z
+updated: 2024-08-31T16:48:39.686Z
 tags:
   - desktop
 categories:
@@ -40,6 +40,9 @@ thumbnail: https://thmb.techidaily.com/b40abdafc85906cdf8c505af7da6e2b6de5b2e388
 
  To switch to FaceTime Video on the fly, hit the camera icon on the calling screen.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ##  2\. Fake Eye Contact for a More Natural Feel
 
  If your iPad lacks a landscape camera, you'll appear to the other party as if you're not tuned in. Thankfully, AI can correct your gaze. Turn on "Eye Contact" in FaceTime's settings to make it look like you're maintaining eye contact even when you aren't.
@@ -66,6 +69,9 @@ Apple
 
 ![RTT call menu on iPhone.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/apple-ios-16-contacts-app-rtt-tty-call-menu.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Apple
 
  When the call is connected, touch the RTT icon to enter your message.
@@ -84,6 +90,9 @@ Apple
 
 ![Using fullscreen window control to move a FaceTime for Mac window to a nearby iPad Pro.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/apple-macos-sequoia-facetime-app-window-control-menu-sidecar-move-to-ipad-pro.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
  Now you have more room to multitask on your Mac while FaceTiming.
 
  Sidecar isn't the only way to use second-screen functionality. [Check out Duet Display](https://screen-video-capture.techidaily.com/new-groundbreiting-recording-solutions-for-environmental-films-for-2024/), which brings similar features to unsupported Macs and platforms like Windows.
@@ -94,16 +103,25 @@ Apple
 
 ![The Screen Recording icon highlighted in the iPhone's Control Center.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/apple-ios-18-control-center-screen-recording.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<!-- affiliate ads end -->
  On your Mac, press Command+Shift+5 and select "Record Selected Portion." Then drag the corners to fit the FaceTime window and click "Record" to capture the designated area.
 
 ![Using the Record Selected Portion feature in the Mac's Screenshot app to record a FaceTime video call.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/apple-macos-sequoia-screenshot-app-record-selected-portion-quicktime-player.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Or open QuickTime Player and click File > New Screen Recording. Hit the downward-pointed arrow, select your iPhone under both Camera and Microphone, then enable the "Maximum" quality setting. Start recording, then open FaceTime on your iPhone and initiate a call.
 
 ![Choosing iPhone Continuity Camera when recording video using QuickTime Player for Mac.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/apple-macos-sequoia-quicktime-player-new-recording-continuity-camera-iphone-selected.jpg) 
 
  iOS 18 enables call recording in some countries with an automatic warning to the other party that the call is being recorded to comply with consent laws.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ##  6\. Take Control of Another Device
 
  Being tech support for your family can be demanding. Instead of burdening them with multi-step instructions, share your screen or take control of theirs to troubleshoot their issue live.
@@ -114,6 +132,9 @@ Apple
 
  The other party will need to choose "Open" next to Join Screen Sharing in the notification that appears on their device to accept your invite and start sharing their screen with you.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ##  7\. Boost Your Mac's Image Quality With Continuity Camera
 
  I'm ashamed of my MacBook's potato cam but don't get me started on my Thunderbolt Display's 720p webcam. God bless Continuity Camera, one of Apple's best features!
@@ -134,10 +155,25 @@ Close
 
 ![Choosing iPhone Continuity Camera when recording video using QuickTime Player for Mac.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/apple-macos-sequoia-quicktime-player-new-recording-continuity-camera-iphone-selected.jpg) 
 
+<!-- affiliate ads begin -->
+<span id="1993650">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  I use a [MagSafe Continuity mount from Belkin](https://change-location.techidaily.com/in-2024-how-to-fix-pokemon-go-route-not-working-on-vivo-y100a-drfone-by-drfone-virtual-android/) to conduct FaceTime calls on my Apple TV like a boss—while sitting on the couch in front of my telly.
 
 ![An iPhone snapped onto Belkin's MagSafe mount atop a computer display.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/belkin-magsafe-monitor-mount-iphone-apple-thunderbolt-display.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
+<!-- affiliate ads end -->
 Christian Zibreg / How-To Geek
 
 ##  8\. Save FaceTime Snapshots as Live Photos
@@ -154,10 +190,16 @@ Christian Zibreg / How-To Geek
 
 ![A FaceTime video call on iPhone with the Live Photo shutter button highlighted.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/apple-ios-18-facetime-app-video-call-live-photos-button-highlighted.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
  The other party will be notified that you snapped a photo.
 
 ![FaceTime video call on iPhone displaying a notification that a Live Photo has been taken.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/apple-ios-18-facetime-app-video-call-live-photos-notification.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
+<!-- affiliate ads end -->
  Look for your image in the Live Photos album in the Photos app, where you can [turn your Live Photo into an animated GIF](https://fake-location.techidaily.com/all-must-knows-to-use-fake-gps-go-location-spoofer-on-realme-12-pro-5g-drfone-by-drfone-virtual-android/).
 
 ##  9\. FaceTime With Android or Windows Friends
@@ -170,6 +212,9 @@ Christian Zibreg / How-To Geek
 
  SharePlay and screen sharing on FaceTime are unavailable on the web.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  10\. Personalize the FaceTime Ringtone
 
  You can change the FaceTime ringtone to make it more distinguishable from other alerts. Go to iPhone Settings > FaceTime > Notifications > Sounds to pick another ringtone. You can also [create and add custom ringtones to your iPhone](https://extra-support.techidaily.com/strategic-brand-integrations-within-youtube-realms-for-2024/).
@@ -182,6 +227,9 @@ Close
 
 ![The Ringtone menu highlighted in the FaceTime for Mac settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/apple-macos-sequoia-facetime-app-settings-general-section-ringtone-menu-highlight.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
+<!-- affiliate ads end -->
 ##  11\. Mute Yourself or Switch to Audio-Only
 
  You can mute audio or video for more privacy to take another call or answer the door. Toggle the microphone icon on the calling screen to mute and unmute yourself.
@@ -202,12 +250,19 @@ Close
 
 ![Pages for Mac with the Collaborate option selected in the share menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/apple-maclos-sequoia-pages-app-share-menu-collaborate-option-highlighted.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
+EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
+<!-- affiliate ads end -->
 ##  13\. FaceTime on Mac Faster With Keyboard Shortcuts
 
  Become more productive with the helpful keyboard shortcuts in FaceTime for Mac. Click through the FaceTime menus to view the available shortcuts, and [Apple](https://support.apple.com/en-gb/guide/facetime/fctma3b7b94b/mac) has a full list of them.
 
 ![The FaceTime for Mac menu with the keyboard shortcuts higlhighted.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/apple-macos-sequoia-facetime-menu-keyboard-shortcuts-highlighted.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  I've memorized two combinations for in-call control. One takes FaceTime full screen by pressing Control+Command+F because who wants to video chat in a window? The other switches between portrait and landscape mode with the Command+R combo. This also changes video orientation for the other party.
 
 ##  14\. Reduce Background Noise on Your iPhone
@@ -216,6 +271,9 @@ Close
 
 ![iPhone's Control Center with an arrow next to Mic Mode.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/mic-mode-iphone.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
+<!-- affiliate ads end -->
  You need iOS 18 to use Voice Isolation on your USB-C AirPods Pro.
 
 ---
@@ -238,3 +296,38 @@ Close
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-dull-to-delightful-how-to-craft-standout-youtube-thumbnails/"><u>[New] 2024 Approved  From Dull to Delightful  How To Craft Standout YouTube Thumbnails</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-from-barely-there-to-top-rated-the-youtube-growth-arc-for-2024/"><u>[New] From Barely There to Top Rated  The Youtube Growth Arc for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-fullview-media-collaboration-guidebook-for-2024/"><u>[New] FullView Media Collaboration Guidebook for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-game-on-the-leading-12-youtube-videographers-for-opening-tutorials-freepaid-for-2024/"><u>[New] Game On  The Leading 12 YouTube Videographers for Opening Tutorials (Free/Paid) for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-expert-endorsed-tools-for-improving-your-windows-video-edits/"><u>[New] In 2024, Expert-Endorsed Tools for Improving Your Windows Video Edits</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-flash-video-insights-guide/"><u>[New] In 2024, Flash Video Insights Guide</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-free-minecraft-youtube-banners-with-templates/"><u>[New] In 2024, Free Minecraft YouTube Banners with Templates</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-struggling-youtuber-to-industry-leader-the-hub-of-creator-studios-wisdom/"><u>[New] In 2024, From Struggling Youtuber to Industry Leader  The Hub of Creator Studio's Wisdom</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-full-vision-media-the-smart-mcn-selection-process/"><u>[New] In 2024, Full Vision Media  The Smart MCN Selection Process</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-grandview-alliance-how-to-settle-on-a-cms/"><u>[New] In 2024, Grandview Alliance  How to Settle on a CMS</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-guide-to-producing-effective-youtube-promo-videos/"><u>[New] In 2024, Guide to Producing Effective YouTube Promo Videos</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-uncomplicated-approaches-to-saving-gameplay/"><u>[New] In 2024, Uncomplicated Approaches to Saving Gameplay</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-video-to-music-selecting-the-cheapest-online-converters/"><u>[Updated] 2024 Approved  From Video to Music  Selecting the Cheapest Online Converters</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-gaining-exposure-cost-effective-promotion-hacks-for-youtubers/"><u>[Updated] 2024 Approved  Gaining Exposure  Cost-Effective Promotion Hacks for YouTubers</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-from-global-reach-to-engagement-deciphering-igtv-and-youtubes-strategies-for-2024/"><u>[Updated] From Global Reach to Engagement  Deciphering IGTV & YouTube’s Strategies for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-fusing-genres-a-youtube-music-strategy-for-2024/"><u>[Updated] Fusing Genres  A YouTube Music Strategy for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-gamified-learning-educational-youtubers-to-subscribe-for-2024/"><u>[Updated] Gamified Learning  Educational YouTubers to Subscribe for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-bland-to-brilliant-transform-your-youtube-channels-image/"><u>[Updated] In 2024, From Bland to Brilliant  Transform Your YouTube Channels' Image</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-humble-beginnings-jake-paul-on-youtube-triumph/"><u>[Updated] In 2024, From Humble Beginnings  Jake Paul on YouTube Triumph</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-gourmet-giants-culinary-stars-you-must-subscribe-to/"><u>[Updated] In 2024, Gourmet Giants  Culinary Stars You Must Subscribe To</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-harness-social-blade-for-profound-youtube-stats-analysis/"><u>[Updated] In 2024, Harness Social Blade for Profound YouTube Stats Analysis</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-unveiling-effective-techniques-for-youtube-video-thumbnail-designs-for-2024/"><u>[Updated] Unveiling Effective Techniques for YouTube Video Thumbnail Designs for 2024</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-nokia-105-classic-to-laptop-without-usb-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Nokia 105 Classic to Laptop Without USB | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-3-ways-to-fake-gps-without-root-on-apple-iphone-14-drfone-by-drfone-virtual-ios/"><u>In 2024, 3 Ways to Fake GPS Without Root On Apple iPhone 14 | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-best-pokemons-for-pvp-matches-in-pokemon-go-for-motorola-edgeplus-2023-drfone-by-drfone-virtual-android/"><u>In 2024, Best Pokemons for PVP Matches in Pokemon Go For Motorola Edge+ (2023) | Dr.fone</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-getting-started-with-google-meet-participation/"><u>In 2024, Getting Started with Google Meet Participation</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-ideas-in-images-top-20-photos-to-fire-up-creativity/"><u>In 2024, Ideas in Images  Top 20 Photos to Fire Up Creativity</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/leveraging-influencer-networks-for-video-game-success-for-2024/"><u>Leveraging Influencer Networks for Video Game Success for 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/methods-to-change-gps-location-on-realme-12-5g-drfone-by-drfone-virtual-android/"><u>Methods to Change GPS Location On Realme 12 5G | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/solutions-for-shutdown-screen-failures-in-pcs/"><u>Solutions for Shutdown Screen Failures in PCs</u></a></li>
+<li><a href="https://article-tips.techidaily.com/the-ultimate-guide-to-choosing-a-camera-gimbal-for-drone-photographers-for-2024/"><u>The Ultimate Guide To Choosing A Camera Gimbal For Drone Photographers for 2024</u></a></li>
+</ul></div>

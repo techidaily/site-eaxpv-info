@@ -1,7 +1,7 @@
 ---
 title: "Why Skepticism Persists: Questioning Gemini AI's Ability to Handle Duties"
-date: 2024-08-28 17:23:39
-updated: 2024-08-29 12:43:19
+date: 2024-08-30T16:52:34.097Z
+updated: 2024-08-31T16:52:34.097Z
 tags:
   - cutting-edge
 categories:
@@ -43,6 +43,9 @@ Google
 
  There have been other attempts at using generative AI to accomplish real-life tasks. OpenTable was one of the first plugins for ChatGPT, potentially allowing you to book dinner reservations through the AI chatbot. You can find [a few reports](https://www.reddit.com/r/ChatGPT/comments/14rn74v/opentable%5Fplugin%5Fproblem/) of that not working, though it’s unclear if the AI or the underlying API integrations are to blame.
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Don’t Trust It
 
  Google, and many other tech companies, want to sell you the idea that generative AI can be logical and make correct decisions with enough information. Generative AI cannot do that. There is no AI in existence right now that can think like you, me, or any other human. That’s why Gemini, ChatGPT, Copilot, and every other AI assistant can write programs but still fail at basic logic problems. Gemini [made a mistake in a demo video](https://www.theverge.com/2024/5/14/24156729/googles-gemini-video-search-makes-factual-error-in-demo) today at Google I/O, and it’s [not even the first time that happened](https://www.theverge.com/2023/2/8/23590864/google-ai-chatbot-bard-mistake-error-exoplanet-demo).
@@ -63,3 +66,52 @@ Google
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-flash-video-insights-guide/"><u>[New] 2024 Approved  Flash Video Insights Guide</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-free-yourself-from-fringe-a-youtube-video-fix-guide/"><u>[New] 2024 Approved  Free Yourself From Fringe  A YouTube Video Fix Guide</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-gamers-signature-creating-iconic-banners-with-templates/"><u>[New] 2024 Approved  Gamers' Signature  Creating Iconic Banners with Templates</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-picturesegment-appraisal/"><u>[New] 2024 Approved  PictureSegment Appraisal</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-2024-approved-twitsoundscape-audio-from-tweets/"><u>[New] 2024 Approved  TwitSoundscape  Audio From Tweets</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-fortnite-thumbnail-blitz-a-30-second-guide-for-2024/"><u>[New] Fortnite Thumbnail Blitz  A 30-Second Guide for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-foundations-first-what-to-invest-in-for-youtubing-for-2024/"><u>[New] Foundations First  What To Invest In for YouTubing for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-from-concept-to-cut-tape-imovie-steps-for-optimizing-youtube-edits-for-2024/"><u>[New] From Concept to Cut-Tape  IMovie Steps for Optimizing YouTube Edits for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-from-idea-to-execution-an-essential-guide-to-youtube-shorts-template-design-for-2024/"><u>[New] From Idea to Execution  An Essential Guide to YouTube Shorts Template Design for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-from-selfies-to-subscribers-jake-pauls-online-odyssey-for-2024/"><u>[New] From Selfies to Subscribers  Jake Paul’s Online Odyssey for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-green-screen-ease-crafting-effective-youtube-ctas-for-2024/"><u>[New] Green Screen Ease  Crafting Effective YouTube CTAs for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-how-to-change-youtube-playback-speed-to-speed-up-or-slow-down-video-for-2024/"><u>[New] How to Change YouTube Playback Speed to Speed Up or Slow Down Video for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-how-to-make-youtube-banners-and-thumbnails-for-2024/"><u>[New] How to Make YouTube Banners and Thumbnails for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-11-fitness-youtube-video-ideas-to-keep-you-and-your-viewers-moving/"><u>[New] In 2024, 11 Fitness YouTube Video Ideas to Keep You and Your Viewers Moving</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-free-online-services-for-youtube-subtitles-download/"><u>[New] In 2024, Free Online Services for YouTube Subtitles Download</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-basics-to-breakthroughs-the-ultimate-strategy-for-youtube-advertising-success/"><u>[New] In 2024, From Basics to Breakthroughs  The Ultimate Strategy for YouTube Advertising Success</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-the-ground-up-building-a-new-dynamic-youtube-chanel/"><u>[New] In 2024, From the Ground Up  Building a New, Dynamic YouTube Chanel</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-high-end-conversion-youtube-shorts-to-professionally-produced-mp4/"><u>[New] In 2024, High-End Conversion  YouTube Shorts to Professionally Produced MP4</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-authenticate-your-yt-account-a-hint-list/"><u>[New] In 2024, How to Authenticate Your YT Account? A Hint List</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-monetize-like-a-pro-how-to-use-youtube-studio-on-any-device/"><u>[New] In 2024, Monetize Like a Pro  How to Use Youtube Studio on Any Device</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-football-film-study-premier-insights-infographic/"><u>[Updated] 2024 Approved  Football Film Study  Premier Insights Infographic</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-football-vids-premier-insights-into-youtube-tracks/"><u>[Updated] 2024 Approved  Football Vids  Premier Insights Into YouTube Tracks</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-editing-to-sharing-using-premiere-with-youtube/"><u>[Updated] 2024 Approved  From Editing to Sharing  Using Premiere with YouTube</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-create-captivating-music-reaction-videos-top-10-tips/"><u>[Updated] 2024 Approved  How to Create Captivating Music Reaction Videos - Top 10 Tips</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-make-youtube-video-the-ultimate-guide/"><u>[Updated] 2024 Approved  How to Make YouTube Video  The Ultimate Guide</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-from-idea-to-execution-an-essential-guide-to-youtube-shorts-template-design-for-2024/"><u>[Updated] From Idea to Execution  An Essential Guide to YouTube Shorts Template Design for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-fearless-filming-tackling-ten-common-vlog-anxieties-head-on/"><u>[Updated] In 2024, Fearless Filming  Tackling Ten Common Vlog Anxieties Head-On</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-boring-to-breathtaking-the-transformation-of-channel-titles/"><u>[Updated] In 2024, From Boring to Breathtaking  The Transformation of Channel Titles</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-conceptualization-to-production-a-guide-to-making-mukbang/"><u>[Updated] In 2024, From Conceptualization to Production  A Guide to Making Mukbang</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-idea-to-impact-advanced-editing-techniques-for-youtube-creators/"><u>[Updated] In 2024, From Idea to Impact  Advanced Editing Techniques for YouTube Creators</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-guide-to-creating-content-top-10-inclusive-video-ideas-for-anyone/"><u>[Updated] In 2024, Guide to Creating Content  Top 10 Inclusive Video Ideas for Anyone</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-guiding-you-through-youtubes-view-limitations/"><u>[Updated] In 2024, Guiding You Through YouTube's View Limitations</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-make-shorts-into-compact-mp4-files/"><u>[Updated] In 2024, How to Make Shorts Into Compact MP4 Files</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-learning-on-film-school-vid-editing-best-practices/"><u>[Updated] Learning on Film  School Vid Editing Best Practices</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-turning-youtube-music-into-mp3-files-with-macos/"><u>[Updated] Turning YouTube Music Into MP3 Files with MacOS</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-ultimate-guide-to-ppro-fs-viewing/"><u>2024 Approved  The Ultimate Guide to PPro FS Viewing</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/chucklechamber-endless-options-to-spread-smiles/"><u>ChuckleChamber  Endless Options to Spread Smiles</u></a></li>
+<li><a href="https://fake-location.techidaily.com/fixing-foneazy-mockgo-not-working-on-vivo-x-fold-2-drfone-by-drfone-virtual-android/"><u>Fixing Foneazy MockGo Not Working On Vivo X Fold 2 | Dr.fone</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/in-2024-boosting-vimeo-playback-speed/"><u>In 2024, Boosting Vimeo Playback Speed</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-edit-and-send-fake-location-on-telegram-for-your-samsung-galaxy-f54-5g-in-3-ways-drfone-by-drfone-virtual-android/"><u>In 2024, Edit and Send Fake Location on Telegram For your Samsung Galaxy F54 5G in 3 Ways | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/mastery-over-smudge-effects-private-images-ps/"><u>Mastery Over Smudge Effects  Private Images PS</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/smooth-video-playback-for-televisions-with-youtube/"><u>Smooth Video Playback for Televisions with YouTube</u></a></li>
+<li><a href="https://windows11.techidaily.com/streamlining-win11-overcoming-errors-in-team-communication-app/"><u>Streamlining Win11: Overcoming Errors in Team Communication App</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/universal-unlock-pattern-for-oppo-reno-10-5g-by-drfone-android/"><u>Universal Unlock Pattern for Oppo Reno 10 5G</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/youtube-partnership-unlocked-break-through-at-10k-vistas/"><u>YouTube Partnership Unlocked  Break Through at 10K Vistas</u></a></li>
+</ul></div>

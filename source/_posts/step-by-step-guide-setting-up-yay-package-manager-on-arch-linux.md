@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Setting Up Yay Package Manager on Arch Linux"
-date: 2024-08-27 13:45:48
-updated: 2024-08-29 11:12:39
+date: 2024-08-30T16:49:16.466Z
+updated: 2024-08-31T16:49:16.466Z
 tags:
   - desktop
 categories:
@@ -29,6 +29,9 @@ thumbnail: https://thmb.techidaily.com/39891eff73508b464f66ea96b5a005498dc7a497b
 
  Arch Linux's yay command makes using the Arch User Repository very simple. But sadly, Yay isn’t installed by default. We show you how to install and use this must-have Arch Linux tool.
 
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Arch Linux, the Bare-Bones Distro
 
 [Arch Linux](https://archlinux.org/) is a widely known and highly regarded Linux distribution. Arch Linux is a strictly bare-bones distribution. Unlike most distros, it doesn’t come preloaded with a collection of typical applications. When you install Arch Linux, you’re installing a minimalist take on Linux. Once you’ve got Arch running on your computer, it's up to you to install any applications you want to use.
@@ -47,6 +50,9 @@ thumbnail: https://thmb.techidaily.com/39891eff73508b464f66ea96b5a005498dc7a497b
 
  The trouble is, Yay isn’t included in a standard Arch Linux installation, you need to install it. But pacman can’t do that for you, because Yay is in the AUR and pacman only works with the standard repositories. We can circumvent this [catch-22](https://en.wikipedia.org/wiki/Catch-22%5F%28logic%29) by installing Yay manually.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ##  Checking the Requirements
 
  Because we’re going to be compiling code, we need to have the standard set of development packages installed, and we’re also going to use [Git to retrieve the source code](https://android-transfer.techidaily.com/in-2024-tips-of-transferring-messages-from-htc-u23-pro-to-iphone-1415-drfone-by-drfone-transfer-from-android-transfer-from-android/) files, so that has to be installed too.
@@ -81,6 +87,9 @@ git clone https://aur.archlinux.org/yay.git`
     
 ![Cloning the yay Git repository](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/5-6.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  We need to change into the newly created directory and call makepkg to build Yay for us.
 
         `cd yay  
@@ -94,10 +103,17 @@ makepkg -si`
     
 ![Checking the version of yay](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/7-7.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
+<!-- affiliate ads end -->
 ##  Using Yay to Install and Uninstall Software
 
  Using Yay is similar to using any other command-line package manager. You can use it to install, uninstall, and search for applications.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
+EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
+<!-- affiliate ads end -->
 ###  Installing Applications on Arch Linux With Yay
 
  To install an application, we use the -S (sync) option.
@@ -108,6 +124,13 @@ makepkg -si`
     
  After a few “\[Y/n\]” prompts and a lot of screen output, you’re returned to the command prompt.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
+Create your texts / logos without any limitation. 
+No attribution required when downloading. 
+No advertising on the website. 
+ TextStudio.com  PREMIUM - Monthly Membership</a>
+<!-- affiliate ads end -->
 ###  Uninstalling Applications With Yay
 
  Uninstalling is just as easy. We use the -R (remove) option and provide the name of the package we want to have uninstalled.
@@ -136,6 +159,9 @@ makepkg -si`
 
  After more scrolling screen output, the installation is completed, and you’re returned to the command prompt.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<!-- affiliate ads end -->
 ##  Accessing the Arch User Repository With Yay
 
  For many people, the AUR is a large part of the attraction of using Arch Linux. With Yay installed, using this enormous collection of applications is as easy as using pacman.
@@ -154,3 +180,58 @@ makepkg -si`
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-fifa-footage-analysis-trendy-video-patterns/"><u>[New] 2024 Approved  FIFA Footage Analysis  Trendy Video Patterns</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-free-music-unlocked-the-ultimate-library-for-videographers/"><u>[New] 2024 Approved  Free Music Unlocked  The Ultimate Library for Videographers</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-fresh-ideas-to-talk-about-in-daily-vlogging/"><u>[New] 2024 Approved  Fresh Ideas to Talk About in Daily Vlogging</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-going-against-gravity-reversing-your-vids/"><u>[New] 2024 Approved  Going Against Gravity  Reversing Your Vids</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-hourly-headliners-the-leading-yt-videos-in-the-last-24-hours/"><u>[New] 2024 Approved  Hourly Headliners  The Leading YT Videos in the Last 24 Hours</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-convert-youtube-videos-to-mp3-songs-on-mac/"><u>[New] 2024 Approved  How to Convert YouTube Videos to MP3 Songs on Mac</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-make-a-youtube-subscribe-link-easy/"><u>[New] 2024 Approved  How to Make a YouTube Subscribe Link - Easy</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-mastering-zoom-android-tips-for-starting-and-syncing-meetings/"><u>[New] 2024 Approved  Mastering Zoom  Android Tips for Starting & Syncing Meetings</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-unlock-insta-money-potential-with-our-top-7-list/"><u>[New] 2024 Approved  Unlock Insta Money Potential with Our Top 7 List</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-finding-peace-in-patience-slowing-down-your-online-video-experience-on-youtube-60-chars-a-bit-long-but-full-of-helpful-info-for-2024/"><u>[New] Finding Peace in Patience  Slowing Down Your Online Video Experience on YouTube (60 Chars, a Bit Long but Full of Helpful Info) for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-from-genres-to-gems-building-a-personalized-youtube-music-mix-onlinemobile-for-2024/"><u>[New] From Genres to Gems  Building a Personalized YouTube Music Mix Online/Mobile for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-from-raw-footage-to-highlight-hits-for-2024/"><u>[New] From Raw Footage to Highlight Hits for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-from-storyboard-to-screenplay-a-youtube-video-writers-journey-for-2024/"><u>[New] From Storyboard to Screenplay  A YouTube Video Writer's Journey for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-guide-to-youtubes-latest-income-strategies-for-2024/"><u>[New] Guide to YouTube's Latest Income Strategies for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-fixing-problematic-youtube-shorts-thumbnails-display/"><u>[New] In 2024, Fixing Problematic YouTube Shorts Thumbnails Display</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-foodie-fables-enthralling-channel-names-for-epicureans/"><u>[New] In 2024, Foodie Fables  Enthralling Channel Names for Epicureans</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-making-dreams-real-steps-towards-becoming-a-vtuber/"><u>[New] In 2024, From Making Dreams Real  Steps Towards Becoming a VTuber?</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-going-against-the-flow-youtube-video-opposites/"><u>[New] In 2024, Going Against the Flow  YouTube Video Opposites</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-historical-deep-dives-from-youtubes-most-impactful-creators/"><u>[New] In 2024, Historical Deep Dives From YouTube's Most Impactful Creators</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-precision-and-power-choosing-best-kung-fu-games-ranked/"><u>[New] Precision & Power  Choosing Best Kung Fu Games Ranked</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-metaverse-unraveled-explore-these-6-vivid-models/"><u>[New] The Metaverse Unraveled  Explore These 6 Vivid Models</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-the-snapchat-blueprint-for-effective-marketing-for-2024/"><u>[New] The Snapchat Blueprint for Effective Marketing for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-best-free-screen-recorder-programs-with-no-trial-period/"><u>[Updated] 2024 Approved  Best Free Screen Recorder Programs with No Trial Period</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-global-youtube-elite-earnings-leader/"><u>[Updated] 2024 Approved  Global YouTube Elite Earnings Leader</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-grab-free-video-profile-backgrounds/"><u>[Updated] 2024 Approved  Grab Free Video Profile Backgrounds</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-get-free-views-on-youtube-2-easy-ways/"><u>[Updated] 2024 Approved  How to Get Free Views on YouTube [2 Easy Ways]</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-make-the-most-of-youtube-tv-offerings/"><u>[Updated] 2024 Approved  How to Make the Most of YouTube TV Offerings</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-5-strategies-for-avoiding-vr-nausea/"><u>[Updated] 5 Strategies for Avoiding VR Nausea</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-8-fastest-growing-youtube-channel-for-2024/"><u>[Updated] 8 Fastest-Growing YouTube Channel for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-best-no-pressure-pc-games-guide-for-2024/"><u>[Updated] Best No-Pressure PC Games Guide for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-essential-knowledge-recording-google-voice-calls-for-2024/"><u>[Updated] Essential Knowledge  Recording Google Voice Calls for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-flutter-free-video-conversion-the-best-alternatives-for-youtube-upload-for-2024/"><u>[Updated] Flutter Free Video Conversion  The Best Alternatives for YouTube Upload for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-football-film-study-premier-insights-infographic-for-2024/"><u>[Updated] Football Film Study  Premier Insights Infographic for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-from-passive-to-active-a-3-step-framework-to-evaluate-your-youtube-financials-for-2024/"><u>[Updated] From Passive to Active  A 3-Step Framework to Evaluate Your YouTube Financials for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-full-application-evaluation-through-az-video-logger-for-2024/"><u>[Updated] Full Application Evaluation Through AZ Video Logger for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-growing-presence-in-video-platforms-via-short-films-for-2024/"><u>[Updated] Growing Presence in Video Platforms via Short Films for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-stabilize-your-camera-without-buying-a-tripod-for-2024/"><u>[Updated] How to Stabilize Your Camera without Buying a Tripod for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-drones-demystified-crucial-considerations-before-buying/"><u>[Updated] In 2024, Drones Demystified  Crucial Considerations Before Buying</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-finding-the-middle-ground-working-and-youtube/"><u>[Updated] In 2024, Finding the Middle Ground  Working & YouTube</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-hidden-gems-to-youtube-sensations-the-top-reasons-for-zero-views/"><u>[Updated] In 2024, From Hidden Gems to YouTube Sensations  The Top Reasons for Zero Views</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-more-than-clicks-what-determines-youtubes-view-numbers/"><u>[Updated] More than Clicks  What Determines YouTube's View Numbers</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-turbo-transfer-efficient-youtube-listings/"><u>[Updated] Turbo Transfer  Efficient YouTube Listings</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/10-easy-strategies-for-capturing-youtube-content/"><u>10 Easy Strategies for Capturing YouTube Content</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-elevate-your-content-game-with-these-instagram-story-tips/"><u>2024 Approved  Elevate Your Content Game with These Instagram Story Tips</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/accessing-audio-at-no-cost-the-ultimate-list-of-8-mp3-seekers-android-for-2024/"><u>Accessing Audio at No Cost  The Ultimate List of 8 MP3 Seekers (Android) for 2024</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/break-language-limitations-oculus-quest-adds-multilingual-capabilities/"><u>Break Language Limitations: Oculus Quest Adds Multilingual Capabilities</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/designing-news-outro-sequences/"><u>Designing News Outro Sequences</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/discover-the-depth-of-4k-with-the-nikon-d500-camera/"><u>Discover the Depth of 4K with the Nikon D500 Camera</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-top-10-samsung-galaxy-s23-tactical-edition-android-sim-unlock-apk-by-drfone-android/"><u>In 2024, Top 10 Samsung Galaxy S23 Tactical Edition Android SIM Unlock APK</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/resolving-repeated-shutdowns-master-guide-to-fix-elex-ii-stability-issues/"><u>Resolving Repeated Shutdowns: Master Guide to Fix Elex II Stability Issues</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/top-9-introductory-ai-toolsets-perfect-for-newcomers/"><u>Top 9 Introductory AI Toolsets Perfect for Newcomers</u></a></li>
+</ul></div>

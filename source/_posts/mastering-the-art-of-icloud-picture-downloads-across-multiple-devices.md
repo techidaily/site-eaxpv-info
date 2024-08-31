@@ -1,7 +1,7 @@
 ---
 title: Mastering the Art of iCloud Picture Downloads Across Multiple Devices
-date: 2024-08-26 10:20:29
-updated: 2024-08-29 12:40:27
+date: 2024-08-30T16:47:54.044Z
+updated: 2024-08-31T16:47:54.044Z
 tags:
   - mobile
 categories:
@@ -50,6 +50,9 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Checking remaining storage on macOS.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/screenshot-2024-07-24-at-14-52-45.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
+<!-- affiliate ads end -->
  To download your images from iCloud, open the Photos app and click on Photos > Settings at the top of the screen. Beneath the “iCloud Photos” checkbox select the “Download Originals to this Mac” radio button. Now wait as Photos downloads everything locally.
 
 ![Enabling original media downloads in macOS Photos.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/screenshot-2024-07-24-at-14-54-20.png) 
@@ -58,6 +61,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  You can also use some of the methods listed below for Windows, Linux, a command line tool, and by requesting data from Apple directly.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
+Create your texts / logos without any limitation. 
+No attribution required when downloading. 
+No advertising on the website. 
+ TextStudio.com  PREMIUM - Yearly Membership</a>
+<!-- affiliate ads end -->
 ##  Download iCloud Photos on Windows
 
  It’s surprisingly easy to download iCloud photos on Windows, but it’s an all-or-nothing approach. Using Apple’s iCloud for Windows application, you can download everything from Photos by checking a box (and even upload new items by adding them to the relevant folder).
@@ -68,6 +78,9 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Enabling iCloud Photos in iCloud for Windows.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/screenshot-2024-07-24-at-11-09-01.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
  You can also turn on Shared folders and tweak a few other settings while you’re here. Be patient while things download. To reverse your decision, and delete everything locally but keep your media safe in the cloud, simply disable the “iCloud Photos” checkbox again.
 
  You’ll see a warning notifying you that local media will be removed.
@@ -76,6 +89,9 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  There are other options for Windows users including using the iCloud website, a command line tool, and requesting data from Apple as noted below.
 
+<!-- affiliate ads begin -->
+<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Download iCloud Photos Using iCloud.com (Works for Linux)
 
  Unsurprisingly, Apple doesn’t make an iCloud for Linux application. The easiest way for Linux users to download their iCloud Photo Library is to head to [iCloud.com](http://www.icloud.com) and log in using their Apple ID credentials. This works for most other operating systems too.
@@ -84,6 +100,9 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Downloading photos from iCloud.com using Firefox for Ubuntu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/screenshot-2024-07-24-at-15-01-06.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
+<!-- affiliate ads end -->
  iCloud will download your media in [ZIP file format](https://remote-screen-capture.techidaily.com/new-visual-voyage-amds-radeon-reborn-for-2024/) which you can then extract to a location of your choice. Repeat as necessary to get all of your photos downloaded. iCloud will show you how many items you have selected at a time in the top-right corner of the page, which simplifies this process a bit.
 
 ![iCloud Photos downloading in a ZIP archive.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/screenshot-2024-07-24-at-15-01-12.png) 
@@ -112,6 +131,9 @@ icloudpd --directory /data --username my@email.address --watch-with-interval 360
 
 ![Downloading iCloud Photos using a mobile browser.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/icloud-photos.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Hit the ellipsis “…” icon in the bottom-right corner of the screen and choose “Download” or “More Download Options” to download the photos to your device.
 
 ##  Download iCloud Photos from Apple Directly
@@ -120,10 +142,16 @@ icloudpd --directory /data --username my@email.address --watch-with-interval 360
 
 ![Apple's Privacy website.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/screenshot-2024-07-24-at-13-56-06.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  On the next screen, check “iCloud Photos” and anything else you’d like a copy of, then hit the blue “Continue” button at the bottom of the page. Your request will be processed by Apple and you’ll eventually receive an invitation to download your data.
 
 ![Request a copy of your iCloud Photos data from Apple.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/screenshot-2024-07-24-at-13-57-23.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
+<!-- affiliate ads end -->
  You can also use the privacy website to [switch directly from iCloud to Google Photos](https://extra-support.techidaily.com/2024-approved-praise-in-pixels-the-new-marketing-trend/).
 
 ##  Convenience at a Price
@@ -146,3 +174,48 @@ icloudpd --directory /data --username my@email.address --watch-with-interval 360
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-free-youtube-download-methods-without-apps/"><u>[New] 2024 Approved  Free YouTube Download Methods Without Apps</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-gameplay-recording-must-haves/"><u>[New] 2024 Approved  Gameplay Recording Must-Haves</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-gpu-renaissance-amd-radeon-redux/"><u>[New] 2024 Approved  GPU Renaissance  AMD Radeon Redux</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-harness-the-full-potential-of-your-youtube-content-using-wmm/"><u>[New] 2024 Approved  Harness the Full Potential of Your YouTube Content Using WMM</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-conveniently-record-and-preserve-your-online-gatherings/"><u>[New] Conveniently Record and Preserve Your Online Gatherings</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-frame-by-frame-verbalizer-for-2024/"><u>[New] Frame by Frame Verbalizer for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-free-banner-templates-and-makers-for-youtube-for-2024/"><u>[New] Free Banner Templates & Makers for YouTube for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-from-draft-to-edit-essential-film-techniques-via-youtube-for-2024/"><u>[New] From Draft to Edit  Essential Film Techniques via YouTube for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-from-iciness-to-comfort-five-warm-backdrops-ideas-for-2024/"><u>[New] From Iciness to Comfort  Five Warm Backdrops Ideas for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-from-script-to-screen-methods-of-inserting-dialogue-into-online-videos-for-2024/"><u>[New] From Script to Screen  Methods of Inserting Dialogue Into Online Videos for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-startup-to-success-skyrocketing-youtube-subs/"><u>[New] In 2024, From Startup to Success  Skyrocketing Youtube Subs</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-gain-unlimited-stock-videos-through-essential-4-youtube-sources/"><u>[New] In 2024, Gain Unlimited Stock Videos Through Essential 4 YouTube Sources</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-green-technology-for-impactful-ctas-via-subs/"><u>[New] In 2024, Green Technology for Impactful CTAs via Subs</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-balance-youtube-with-a-full-time-job/"><u>[New] In 2024, How to Balance YouTube with a Full-Time Job</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-capitalize-on-your-youtube-shorts-for-cash-flow/"><u>[Updated] 2024 Approved  How to Capitalize on Your YouTube Shorts for Cash Flow</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-custom-your-youtube-channel-url-super-easy/"><u>[Updated] 2024 Approved  How to Custom Your YouTube Channel URL – Super Easy</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-audio-recording-solutions-for-educators-using-apple-products-for-2024/"><u>[Updated] Audio Recording Solutions for Educators Using Apple Products for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-clip-conquest-top-tags-for-dominating-video-trends-on-social-media/"><u>[Updated] Clip Conquest  Top Tags for Dominating Video Trends on Social Media</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-first-time-streamers-unite-learn-obs-and-broadcast-to-youtube-for-2024/"><u>[Updated] First-Time Streamers Unite  Learn OBS & Broadcast to Youtube for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-from-boring-to-breathtaking-the-transformation-of-channel-titles-for-2024/"><u>[Updated] From Boring to Breathtaking  The Transformation of Channel Titles for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-giggles-in-a-gigabyte-10-hilarious-video-concepts-to-share-online-for-2024/"><u>[Updated] Giggles in a Gigabyte  10 Hilarious Video Concepts to Share Online for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-how-much-money-can-you-make-via-youtube-ad-revenue-and-cpm-rates-in-2024/"><u>[Updated] How Much Money Can You Make via YouTube Ad Revenue and CPM Rates, In 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-optimize-video-engagement-through-resizing-thumbnails-on-youtube-for-2024/"><u>[Updated] How to Optimize Video Engagement Through Resizing Thumbnails on YouTube for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-finding-legal-music-a-producers-manual/"><u>[Updated] In 2024, Finding Legal Music  A Producer's Manual</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-go-viral-on-youtube-with-minimal-effort/"><u>[Updated] In 2024, How to Go Viral on YouTube with Minimal Effort</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-seamlessly-stitch-words-onto-pictures-photo-editor-pros/"><u>2024 Approved  Seamlessly Stitch Words Onto Pictures  Photo Editor Pros</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/capturing-attention-a-guide-to-captivate-videos/"><u>Capturing Attention  A Guide to Captivate Videos</u></a></li>
+<li><a href="https://network-issues.techidaily.com/demystifying-the-undetermined-dx-fault-in-lol/"><u>Demystifying the Undetermined DX Fault in LoL</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-quickly-recover-a-lost-binkw32dll-error-and-restore-video-support/"><u>How to Quickly Recover a Lost Binkw32.dll Error and Restore Video Support</u></a></li>
+<li><a href="https://extra-information.techidaily.com/iconic-80s-aesthetic-techniques-for-cutting-videos/"><u>Iconic 80S Aesthetic Techniques for Cutting Videos</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-decoding-the-divergence-360-film-vs-virtual-reality/"><u>In 2024, Decoding the Divergence  360° Film Vs. Virtual Reality</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-everything-you-need-to-know-about-lock-screen-settings-on-your-vivo-y56-5g-by-drfone-android/"><u>In 2024, Everything You Need to Know about Lock Screen Settings on your Vivo Y56 5G</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-grandest-film-storytelling-explored/"><u>In 2024, Grandest Film Storytelling Explored</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-remove-forgotten-pin-of-your-vivo-s17t-by-drfone-android/"><u>In 2024, How to Remove Forgotten PIN Of Your Vivo S17t</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-use-snapchat-location-spoofer-to-protect-your-privacy-on-honor-x50-drfone-by-drfone-virtual-android/"><u>In 2024, How to use Snapchat Location Spoofer to Protect Your Privacy On Honor X50? | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-prank-your-friends-easy-ways-to-fake-and-share-google-maps-location-on-apple-iphone-7-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, Prank Your Friends! Easy Ways to Fake and Share Google Maps Location On Apple iPhone 7 Plus | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-tips-of-transferring-messages-from-realme-narzo-n53-to-iphone-1415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Tips of Transferring Messages from Realme Narzo N53 to iPhone 14/15 | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/rectifying-creative-pebble-speakers-tips-to-restore-sound-quality-and-functionality/"><u>Rectifying Creative Pebble Speakers: Tips to Restore Sound Quality and Functionality</u></a></li>
+<li><a href="https://techidaily.com/tecno-spark-10-5g-music-recovery-recover-deleted-music-from-tecno-spark-10-5g-by-fonelab-android-recover-music/"><u>Tecno Spark 10 5G Music Recovery - Recover Deleted Music from Tecno Spark 10 5G</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-steps-for-restoring-sound-on-twitch-livestreams/"><u>Troubleshooting Steps for Restoring Sound on Twitch Livestreams</u></a></li>
+<li><a href="https://techtrends.techidaily.com/unveiling-10-affordable-streaming-choices-to-replace-your-netflix-subscription-now/"><u>Unveiling 10 Affordable Streaming Choices to Replace Your Netflix Subscription Now!</u></a></li>
+</ul></div>

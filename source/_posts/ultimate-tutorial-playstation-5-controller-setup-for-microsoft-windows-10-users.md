@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Tutorial: PlayStation 5 Controller Setup for Microsoft Windows 10 Users"
-date: 2024-08-28 16:57:15
-updated: 2024-08-29 10:41:27
+date: 2024-08-30T16:50:47.282Z
+updated: 2024-08-31T16:50:47.282Z
 tags:
   - deals
 categories:
@@ -49,6 +49,9 @@ thumbnail: https://thmb.techidaily.com/857cad2a82232e03f92aad9809b4a548e4964a8c9
 
 ![Windows 10 'Sound' settings option.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/ps5-controller-windows-10-4.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
  Next, click on "Manage Sound Devices".
 
 ![Option to 'Manage Sound Devices' in Windows 10 settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/ps5-controller-windows-10-5.png) 
@@ -59,6 +62,9 @@ thumbnail: https://thmb.techidaily.com/857cad2a82232e03f92aad9809b4a548e4964a8c9
 
  Click on the device and choose disable for both instances, and Windows 10 will no longer default to the DualSense as an audio device.
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Pairing and Configuring a PS5 Controller for Steam
 
  Steam will often automatically recognize the DualSense controller and swap action and game control accordingly, but if something is not working correctly, there are a few easy ways to troubleshoot the issue.
@@ -67,10 +73,25 @@ thumbnail: https://thmb.techidaily.com/857cad2a82232e03f92aad9809b4a548e4964a8c9
 
 ![Steam Settings in Windows 10.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/ps5-controller-windows-10-7.png) 
 
+<!-- affiliate ads begin -->
+<span id="1993652">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  In the next menu's sidebar, there is a "Controller" tab. Click on it, and you'll be able to see the information the app has on your controller. If your PS5 controller is listed as "DualSense Wireless Controller," then everything should automatically work with Steam!
 
 !['DualSense Wireless Controller' selected in Steam Controller settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/ps5-controller-windows-10-8.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
+<!-- affiliate ads end -->
  If you are having issues, however, check to see if the "PlayStation Controller Support" setting is set to "Enable in Games w/o Support."
 
 !['PlayStation Controller Support' setting in Steam on Windows 10.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/ps5-controller-windows-10-9.png) 
@@ -79,14 +100,23 @@ thumbnail: https://thmb.techidaily.com/857cad2a82232e03f92aad9809b4a548e4964a8c9
 
 !['Calibration & Advanced Settings' option for Steam Controller settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/ps5-controller-windows-10-10.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
+<!-- affiliate ads end -->
  A new menu will open, and you can adjust the PS5 controller's LED lights, the joystick dead zone, rumble output, and calibrate the gyro controls.
 
 ![Joystick settings for Steam controllers.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/ps5-controller-windows-10-11.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
+<!-- affiliate ads end -->
  When you're sure that Steam is reading your controller correctly, you can check a game in your Library to see if the game supports a controller in general and if it supports the DualSense 5\. Do this by checking the "Controller" section to the right.
 
 !['Controller' compatibility section in Steam game details.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/ps5-controller-windows-10-12.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Using a PS5 Controller for Non-Steam PC Games
 
  Outside of Steam, your DualSense controller might work natively with other PC gaming clients in Windows 10\. However, more likely than not, you'll need to jump through some additional hoops to get your PS5 controller working with other PC games. While the Xbox controller natively works with many PC games, you'll need to take a few extra steps to ensure the DualSense works with most PC games outside of Steam.
@@ -113,3 +143,43 @@ thumbnail: https://thmb.techidaily.com/857cad2a82232e03f92aad9809b4a548e4964a8c9
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-aspiring-youtubers-guide-to-affiliate-allies/"><u>[New] 2024 Approved  Aspiring YouTubers' Guide to Affiliate Allies</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-clearfocuscutout-how-to-blur-your-youtube-videos-background/"><u>[New] 2024 Approved  ClearFocusCutOut  How to Blur Your YouTube Video's Background</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-curated-cinematic-journeys-the-best-yt-film-selections/"><u>[New] 2024 Approved  Curated Cinematic Journeys  The Best YT Film Selections</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-acclaimed-20-open-source-pubg-thumbnail-bundles/"><u>[New] Acclaimed 20 Open Source PUBG Thumbnail Bundles</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-boost-your-channel-top-14-gaming-vids-for-youtube-success-for-2024/"><u>[New] Boost Your Channel  Top 14 Gaming Vids for YouTube Success for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-effective-approach-to-swiftly-eliminate-video-comments-for-2024/"><u>[New] Effective Approach to Swiftly Eliminate Video Comments for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-channel-confidence-tips-for-trending-on-youtube/"><u>[New] In 2024, Channel Confidence  Tips for Trending on YouTube</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-lost-opportunities-instant-creative-ban/"><u>[New] Lost Opportunities  Instant Creative Ban</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-10-excellent-web-based-screen-capture-solutions/"><u>[Updated] 2024 Approved  10 Excellent Web-Based Screen Capture Solutions</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-detailed-tips-for-adequate-lighting-in-youtube-video-production/"><u>[Updated] 2024 Approved  Detailed Tips for Adequate Lighting in YouTube Video Production</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-essential-steps-to-add-custom-imagery-in-youtube-videos/"><u>[Updated] 2024 Approved  Essential Steps to Add Custom Imagery in YouTube Videos</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-exploring-object-oriented-programming-for-complex-applications/"><u>[Updated] 2024 Approved  Exploring Object-Oriented Programming for Complex Applications</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-guide-eradicating-pending-videos-on-your-youtube-queue/"><u>[Updated] 2024 Approved  Guide  Eradicating Pending Videos on Your YouTube Queue</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-channel-personality-complimentary-youtube-graphics-for-2024/"><u>[Updated] Channel Personality  Complimentary YouTube Graphics for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-experts-choice-top-8-proven-video-marketing-actions-for-2024/"><u>[Updated] Expert's Choice  Top 8 Proven Video Marketing Actions for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-digital-identity-building-crafting-perfect-channel-images/"><u>[Updated] In 2024, Digital Identity Building  Crafting Perfect Channel Images</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-fresh-ideas-to-talk-about-in-daily-vlogging/"><u>[Updated] In 2024, Fresh Ideas to Talk About in Daily Vlogging</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-fresh-to-famous-elevating-your-channels-views-and-youtube-subs/"><u>[Updated] In 2024, From Fresh to Famous  Elevating Your Channels Views & Youtube Subs</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-what-are-youtube-tags-and-how-can-you-find-great-tags-for-your-videos/"><u>[Updated] In 2024, What Are YouTube Tags and How Can You Find Great Tags For Your Videos?</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-mastering-youtube-video-text-overlay-techniques/"><u>[Updated] Mastering YouTube Video Text Overlay Techniques</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-stand-out-with-a-signature-style-a-guide-to-youtube-branding-mastery/"><u>[Updated] Stand Out with a Signature Style  A Guide to YouTube Branding Mastery</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-youtubes-tagging-system-unveiled/"><u>[Updated] YouTube's Tagging System Unveiled</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/2024-approved-youtube-snippet-income-breakdown-whats-your-profit-share/"><u>2024 Approved  YouTube Snippet Income Breakdown  What's Your Profit Share?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/deciphering-the-closure-of-chatgpt-enrollments-exploring-reasons-and-prospects-for-reopening/"><u>Deciphering the Closure of ChatGPT Enrollments – Exploring Reasons & Prospects for Reopening</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/discovering-the-potential-of-claude-3-a-comprehensive-guide-on-its-functions/"><u>Discovering the Potential of Claude 3: A Comprehensive Guide on Its Functions</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/easily-unlock-your-itel-s23plus-device-sim-by-drfone-android/"><u>Easily Unlock Your Itel S23+ Device SIM</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/elite-ears-microphones-for-lectures/"><u>Elite Ears  Microphones for Lectures</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-does-the-stardust-trade-cost-in-pokemon-go-on-infinix-smart-8-pro-drfone-by-drfone-virtual-android/"><u>How does the stardust trade cost In pokemon go On Infinix Smart 8 Pro? | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/in-2024-crafting-memes-perfecting-social-media-videos-on-fb-and-insta/"><u>In 2024, Crafting Memes  Perfecting Social Media Videos on FB & Insta</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-speedy-stories-top-10-rapid-release-games-on-tablets-pcs/"><u>In 2024, Speedy Stories  Top 10 Rapid Release Games on Tablets, PCs</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/in-2024-video-quality-edge-mirrorless-versus-dslr-cameras/"><u>In 2024, Video Quality Edge  Mirrorless Versus DSLR Cameras</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/integrating-skype-into-zoom-meetings-made-simple/"><u>Integrating Skype Into Zoom Meetings Made Simple</u></a></li>
+<li><a href="https://driver-install.techidaily.com/mastering-usbasp-in-a-world-of-windows-variants-from-8-to-win11/"><u>Mastering USBasp in a World of Windows Variants From 8 to Win11</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/must-see-mac-video-frames-selection-limited-to-156-characters/"><u>Must-See Mac Video Frames Selection (Limited to 156 Characters)</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/perfect-ending-for-youtubers-best-practices-and-pro-files-for-2024/"><u>Perfect Ending for YouTubers  Best Practices and Pro Files for 2024</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/unova-stone-pokemon-go-evolution-list-and-how-catch-them-for-nokia-c32-drfone-by-drfone-virtual-android/"><u>Unova Stone Pokémon Go Evolution List and How Catch Them For Nokia C32 | Dr.fone</u></a></li>
+</ul></div>

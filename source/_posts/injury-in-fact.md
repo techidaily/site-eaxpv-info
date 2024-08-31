@@ -1,7 +1,7 @@
 ---
 title: Injury-in-Fact
-date: 2024-08-28 21:25:46
-updated: 2024-08-29 12:29:55
+date: 2024-08-30T16:51:15.994Z
+updated: 2024-08-31T16:51:15.994Z
 tags:
   - cutting-edge
 categories:
@@ -26,6 +26,9 @@ You can tell a ChatGPT-written article by its simple, repetitive structure and i
 
  The more sinister uses of AI tech, like a political disinformation campaign blasting out fake articles, mean we need to educate ourselves enough to spot the fakes. So [how can you tell](https://sim-unlock.techidaily.com/network-locked-sim-card-inserted-on-your-oneplus-phone-unlock-it-now-by-drfone-android/) if an article is actually AI generated text?
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ##  How to Tell If ChatGPT Wrote That Article
 
  Multiple methods and tools currently exist to help determine whether the article you're reading was written by a robot. Not all of them are 100% reliable, and they can deliver false positives, but they do offer a starting point.
@@ -38,8 +41,14 @@ You can tell a ChatGPT-written article by its simple, repetitive structure and i
 
 ![Chat GPT answering the question "Can you explain quantum computing in simple terms?"](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/05/Screenshot-2023-05-08-at-12.29.13-PM.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Short, simple connecting words are regularly used, the sentences are all a similar length, and paragraphs all follow a similar structure. The end result is writing that sounds and feels a bit robotic.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ##  Can You Use AI to Detect AI-Generated Text?
 
  Large language models themselves can be trained to spot AI generated writing. Training the system on two sets of text --- one written by AI and the other written by people --- can theoretically teach the model to recognize and detect AI writing like ChatGPT.
@@ -48,6 +57,9 @@ You can tell a ChatGPT-written article by its simple, repetitive structure and i
 
  Invisible to the naked eye, the watermark would be detectable by an algorithm, which would indicate it as either human or AI generated depending on how often it adhered to or broke the watermarking rules. Unfortunately, this method hasn't tested so well on later models of ChatGPT.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
+<!-- affiliate ads end -->
 ##  Tools to Check If An Article Was Written By ChatGPT
 
  You can find multiple copy-and-paste tools online to help you check whether an article is AI generated. Many of them use language models to scan the text, including ChatGPT-4 itself.
@@ -66,6 +78,9 @@ You can tell a ChatGPT-written article by its simple, repetitive structure and i
 
 Related: [Can ChatGPT Write Essays: Is Using AI to Write Essays a Good Idea?](https://digital-screen-recording.techidaily.com/2024-approved-smartest-devices-to-modify-your-speech-on-the-go/) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<!-- affiliate ads end -->
 ##  Train Your Brain To Catch AI
 
  In addition to using tools, you can train yourself to catch AI generated content. It takes practice, but over time you can get better at it.
@@ -92,3 +107,38 @@ Related: [How to Fact-Check ChatGPT With Bing AI Chat](https://facebook-video-fo
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-best-non-gaming-video-capture-and-screen-save-software/"><u>[New] 2024 Approved  Best Non-Gaming Video Capture and Screen Save Software</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-breakdown-of-how-youtube-ad-revenue-works-cpm/"><u>[New] 2024 Approved  Breakdown of How YouTube Ad Revenue Works (CPM)</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-essential-tips-for-successful-youtube-broadcasts/"><u>[New] 2024 Approved  Essential Tips for Successful YouTube Broadcasts</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-guide-to-profiting-from-youtube-shorts-key-requirements-and-potential-income/"><u>[New] 2024 Approved  Guide to Profiting From YouTube Shorts  Key Requirements & Potential Income</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/024-approved-premier-automatic-text-creators-from-videos/"><u>[New] 2024 Approved  Premier Automatic Text Creators From Videos</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-audio-liberation-from-youtube-three-safe-methods-for-2024/"><u>[New] Audio Liberation From YouTube  Three Safe Methods for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-crafting-a-hit-on-youtube-name-generation-insights-for-2024/"><u>[New] Crafting a Hit on YouTube  Name Generation Insights for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-how-does-youtube-manage-post-upload-operations-in-2024/"><u>[New] How Does YouTube Manage Post-Upload Operations, In 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-an-intro-to-discovering-youtube-studio-content-creators-dreamland/"><u>[New] In 2024, An Intro to Discovering YouTube Studio  Content Creator's Dreamland</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-discover-8-trusted-platforms-for-online-video-advancement/"><u>[New] In 2024, Discover 8 Trusted Platforms for Online Video Advancement</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-harmonizing-tracks-in-youtube-music/"><u>[New] In 2024, Harmonizing Tracks in YouTube Music</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-animate-and-make-your-own-effects/"><u>[New] In 2024, How to Animate and Make Your Own Effects</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-perfecting-audio-quality-for-your-youtube-channel/"><u>[New] Perfecting Audio Quality for Your YouTube Channel</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-unlock-tiktoks-potential-with-our-sizzling-template-selection-for-2024/"><u>[New] Unlock TikTok’s Potential with Our Sizzling Template Selection for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-elevate-your-gaming-experience-on-youtube/"><u>[Updated] 2024 Approved  Elevate Your Gaming Experience on YouTube</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-free-software-less-method-to-save-youtube-videos/"><u>[Updated] 2024 Approved  Free Software-Less Method to Save YouTube Videos</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-gastronomy-gurus-the-elite-of-food-vlogs/"><u>[Updated] 2024 Approved  Gastronomy Gurus  The Elite of Food Vlogs</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/updated-dismantle-that-dominating-green-distortion-in-mac-based-videos/"><u>[Updated] Dismantle That Dominating Green Distortion in Mac-Based Videos</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-efficiently-shortening-youtube-content-for-2024/"><u>[Updated] Efficiently Shortening YouTube Content for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-examining-video-comments-on-youtube-for-2024/"><u>[Updated] Examining Video Comments on YouTube for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-hidden-pitfalls-investing-in-fraudulent-subscribers/"><u>[Updated] Hidden Pitfalls  Investing in Fraudulent Subscribers</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-break-through-bot-barriers-rising-from-the-crowd/"><u>[Updated] In 2024, Break Through Bot Barriers  Rising From the Crowd</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-in-2024-creative-lens-based-text-twists/"><u>[Updated] In 2024, Creative Lens-Based Text Twists</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-decoding-youtubes-user-comment-selection-criteria/"><u>[Updated] In 2024, Decoding YouTube's User-Comment Selection Criteria</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-navigating-youtubes-digital-canvas-studio-essentials/"><u>[Updated] Navigating YouTube's Digital Canvas  Studio Essentials</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-quickest-sharp-window-photo-enhancer/"><u>[Updated] Quickest Sharp Window Photo Enhancer</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-turbocharge-your-youtube-videos-swift-render-and-transfer-strategies/"><u>[Updated] Turbocharge Your YouTube Videos  Swift Render & Transfer Strategies</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/2024-approved-youtube-video-animation-tools-and-techniques-for-efficient-gif-making/"><u>2024 Approved  YouTube Video Animation  Tools and Techniques for Efficient Gif Making</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/expert-tips-for-disabling-voice-control-on-your-samsung-flat-screen-television/"><u>Expert Tips for Disabling Voice Control on Your Samsung Flat-Screen Television</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fixing-incompatible-amd-freesync-sync-signal/"><u>Fixing Incompatible AMD FreeSync Sync Signal</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/ultimate-list-of-16-key-youtube-videos-for-higher-engagement-for-2024/"><u>Ultimate List of 16 Key YouTube Videos for Higher Engagement for 2024</u></a></li>
+</ul></div>
