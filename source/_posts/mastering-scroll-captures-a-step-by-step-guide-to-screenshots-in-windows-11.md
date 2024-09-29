@@ -1,7 +1,7 @@
 ---
 title: "Mastering Scroll Captures: A Step-by-Step Guide to Screenshots in Windows 11"
-date: 2024-09-12 19:49:19
-updated: 2024-09-13 10:13:27
+date: 2024-09-28T02:56:13.894Z
+updated: 2024-09-29T02:53:56.101Z
 categories:
   - movavi
 thumbnail: https://thmb.techidaily.com/c614df743851cde902b9dc7b624e356646f565efb6b83602d7f5ffd347873428.jpg
@@ -205,6 +205,13 @@ Apowersoft Photo Viewer 也是十大照片管理工具的首選之一。要完�
 
 * GUI 看起來很舊，簡直像 XP，而且功能有限
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049370/7443" target="_top" id="2049370">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049370" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049370/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 
 
 [**FastStone Image Viewer**](https://www.faststone.org/)
@@ -220,6 +227,13 @@ FastStone 可能是最牢靠的看圖軟體了。該軟體在瀏覽、簡單的�
 缺點：
 
 * 對普通使用者而言工具太多了
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137220/26400" target="_top" id="2137220">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137220" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137220/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 
 
@@ -253,11 +267,25 @@ FastStone 可能是最牢靠的看圖軟體了。該軟體在瀏覽、簡單的�
 
 * 圖片只能在單一頁籤中開啟且無法捲動
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135357/19272" target="_top" id="2135357">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135357" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135357/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 
 
 [**Nomacs**](https://github.com/nomacs/nomacs)
 
 ![](https://cdn.staticont.net/page_type/0013/45/3c872b24e843d2a8619d1d110f90c6a4aef905b7.webp)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115932/19272" target="_top" id="2115932">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115932" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 除了 Windows 10 相片檢視器的標準檢視選項外，Nomacs 還多了一個整潔的備註方塊。該放塊可供您放入評論，以供日後使用。無論您是需要匯出圖像以便日後在更複雜的軟體中進行編輯，還是僅僅是為了提醒自己相片中的人事物，這項功能都十分有用。在「調整」索引標籤中，也有些既實用又有趣的工具。其中一個叫做「Tiny Planet」，可以將您的圖像轉換為酷似地球儀的正方形裁剪照片，非常適合將風景照製作成 360 度的全景。更棒的是，無論您是要私下使用，還是有商業用途，Nomacs 都可以免費下載。
 
@@ -299,6 +327,13 @@ Movavi Photo Editor
 
 ![Movavi Photo Editor](https://cdn.staticont.net/products/0023/55/9a17d17e3b725cbe831e0805991a555d41a72bca.webp)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151864/7443" target="_top" id="2151864">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151864" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151864/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 常見問題集
 
 ### 最好的 Windows 相片檢視器是什麼？
@@ -319,6 +354,13 @@ Movavi Photo Editor
 ### 什麼是Windows照片瀏覽器的良好替代品?
 
 這一個項目，我們推薦 Nomacs，它的外觀與操作均十分簡單。除了擁有近似 Windows 10 相片檢視器的基本選項外，Nomacs 還多了一個備註方塊。此欄位可以填入自己的評論或說明，以供日後參考。此外，它的「Tiny Planet」功能，可用來把照片轉換為類似地球儀的正方形裁切照片，相當適合用來產生富有創意的 360 度全景風景照。
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144273/7443" target="_top" id="2144273">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144273" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144273/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 那一個工具可以稱為最棒的Windows 10免費照片應用程式?
 
@@ -363,6 +405,13 @@ Movavi Photo Editor
 
 ![有問題嗎?](https://cdn.staticont.net/global/0023/54/e832fd4fe897893df1de795a67cafcd74a13283a.webp)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880956/19272" target="_top" id="1880956">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880956" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880956/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 有問題嗎?
 
 若找不到問題的答案，請隨時與支援團隊聯繫。
@@ -379,6 +428,19 @@ Movavi Photo Editor
 
 ![](https://cdn.staticont.net/large/0023/57/cf8906a2f1d2d8afde4fca802515cea44f819eb7.jpg)![](https://cdn.staticont.net/large/0023/57/a26cd736bdba4b196180fd96537ae9b75b6253ba.jpg)![](https://cdn.staticont.net/large/0023/57/c2e7dff79a124e18600d55aec01616cde09d6c5b.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1328683">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1328683.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1328683">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328683.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328683%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328683/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 超過 150萬位用戶已訂閱我們的電子報
 
 您的電子郵件
@@ -393,11 +455,29 @@ Movavi Photo Editor
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-free-online-webinar-conduct-with-youtube/"><u>[New] 2024 Approved Free Online Webinar Conduct with YouTube</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-become-a-youtube-partner-you-need-10000-views-now/"><u>[New] 2024 Approved How to Become a YouTube Partner - You Need 10,000 Views Now</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-vloggers-ultimate-gear-list-17-100/"><u>[New] 2024 Approved Vloggers' Ultimate Gear List #17-100</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-analyzing-t-series-youtube-financial-gains-for-2024/"><u>[New] Analyzing T-Series Youtube Financial Gains for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-fifas-favorite-footage-charted-on-youtube-for-2024/"><u>[New] FIFA's Favorite Footage Charted on YouTube for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-hashtag-mastery-pathway-to-6-figure-youtube-impact-for-2024/"><u>[New] Hashtag Mastery Pathway to 6-Figure Youtube Impact for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-download-youtube-videos-without-any-software-13-proven-ways-for-2024/"><u>[Updated] How to Download YouTube Videos without Any Software [13 Proven Ways] for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-still-photos-to-dynamic-video-how-to-use-your-cellular-device/"><u>[Updated] In 2024, From Still Photos to Dynamic Video How To Use Your Cellular Device</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-hourly-hitlist-the-leading-youtube-videos-by-watch-time/"><u>[Updated] In 2024, Hourly Hitlist The Leading YouTube Videos by Watch Time</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-optimizing-call-and-chat-preservation-in-the-digital-age-fb-edition-for-2024/"><u>[Updated] Optimizing Call & Chat Preservation in the Digital Age FB Edition for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-unusual-sideway-photos-in-instagram-storytelling/"><u>[Updated] Unusual Sideway Photos in Instagram Storytelling</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-beyond-reality-the-future-of-virtual-experiences/"><u>In 2024, Beyond Reality The Future of Virtual Experiences</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/trending-titles-navigating-through-facebooks-hot-takes/"><u>Trending Titles Navigating Through Facebook's Hot Takes</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/two-ways-to-track-my-boyfriends-apple-iphone-12-mini-without-him-knowing-drfone-by-drfone-virtual-ios/"><u>Two Ways to Track My Boyfriends Apple iPhone 12 mini without Him Knowing | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/universal-unlock-pattern-for-lava-storm-5g-by-drfone-android/"><u>Universal Unlock Pattern for Lava Storm 5G</u></a></li>
+</ul></div>
+
