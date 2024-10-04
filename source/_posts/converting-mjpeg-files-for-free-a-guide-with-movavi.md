@@ -1,7 +1,7 @@
 ---
 title: "Converting MJPEG Files for Free: A Guide with Movavi"
-date: 2024-09-26T23:57:34.731Z
-updated: 2024-09-29T03:41:50.026Z
+date: 2024-09-30T17:18:28.765Z
+updated: 2024-10-04T17:54:33.484Z
 categories:
   - movavi
 thumbnail: https://thmb.techidaily.com/4ce3e09b6be16a4bedfe22789f63cbe3ee4e3f00e904ff59e25edd73f99d4f26.jpg
@@ -157,10 +157,10 @@ Afficher plus
 ![](https://cdn.staticont.net/pages/0013/24/59bfacce83c98f6e29023d9167e646142e92751a.webp)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915870/19272" target="_top" id="1915870">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997675/19272" target="_top" id="1997675">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997675" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915870/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997675/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 [Télécharger gratuitement](https://tools.techidaily.com/movavi/products/)
@@ -170,10 +170,10 @@ Afficher plus
 Un facteur clé qui peut ralentir votre expérience de jeu est l'utilisation d'un enregistreur de qualité inférieure pendant le jeu. C'est pourquoi notre choix spécial pour optimiser votre PC pour les jeux sur Windows 10 est Gecata by Movavi. Ce programme peut enregistrer le gameplay en 4K et jusqu'à 120 FPS sans perte de performance. Il est facile à utiliser et est livré avec une version d'essai gratuite.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052060/7443" target="_top" id="2052060">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052060" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014854/22899" target="_top" id="2014854">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014854" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052060/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014854/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Qu'est-ce qu'un FPS faible et comment puis-je le vérifier ?
@@ -196,13 +196,6 @@ Comment rendre Windows 10 plus rapide pour les jeux (corrections rapides)
 
 ![](https://cdn.staticont.net/pages/0013/24/d54a84e68415bc2949ca1ec30e4cf5f5b067a4e1.webp)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049369/7443" target="_top" id="2049369">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049369" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049369/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Vous voulez savoir comment rendre Windows 10 plus rapide pour jouer avec une solution rapide ? Suivez ces conseils et recommencez à jouer !
 
 ### Régler les paramètres graphiques d'un jeu
@@ -212,13 +205,6 @@ Chaque jeu possède des paramètres graphiques spécifiques qui peuvent vous aid
 1. **Anti-crénelage :** Lorsqu'un jeu utilise le crénelage, il corrige les petites lignes irrégulières et inégales autour de textures ou d'objets spécifiques. Pensez aux lignes floues que vous voyez lorsque l'herbe apparaît dans la plupart des jeux. Chaque jeu possède différents niveaux d'anticrénelage (SSAA, TAA, MSAA, etc.). - et vous pouvez généralement les modifier dans les paramètres du jeu pour obtenir de meilleures performances.
 2. **Flou de mouvement :** Pour rendre les choses plus réalistes, les jeux intègrent des flous de mouvement afin d'émuler la vie réelle. Le désactiver peut souvent vous aider à économiser de la puissance graphique.
 3. **Synchronisation verticale :** Parfois, lorsque vous vous déplacez rapidement, la carte graphique ne peut pas suivre et l'écran semble se déchirer en son milieu. La synchronisation verticale aide à résoudre ce problème mais ajoute un certain décalage. Une façon de corriger ce problème est d'utiliser le VSync adaptatif ou le Triple Buffering. Vous utiliserez davantage de puissance de la carte graphique, mais vous trouverez un juste milieu entre les déchirures et le décalage.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137211/26400" target="_top" id="2137211">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137211" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137211/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Mettez à jour les pilotes de votre GPU
 
@@ -267,6 +253,13 @@ Si vous ne trouvez pas ces paramètres, cela signifie que la dernière Windows C
 ### Gérez vos heures actives
 
 ![](https://cdn.staticont.net/pages/0012/47/719892cfb3ccc9e05c269dd850ef3c6c37589035.webp)
+
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/1943648/22993" target="_top" id="1943648">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943648" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943648/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Oui, Windows 10 peut installer des mises à jour et redémarrer votre ordinateur en plein milieu de votre session de jeu sans même un simple "excusez-moi". Ouch. Cela peut être décevant, c'est le moins que l'on puisse dire, surtout si vous êtes un joueur compétitif et que votre sortie non planifiée peut affecter vos coéquipiers ou votre classement.
 
@@ -338,6 +331,13 @@ Les cartes graphiques AMD ont également beaucoup de paramètres. Certains disen
 
 Cette solution entre facilement dans la catégorie des "solutions rapides". Parfois, votre système ne peut tout simplement pas gérer un jeu, et vous n'avez pas le temps de chercher des solutions à plus long terme. Allez dans les paramètres système du jeu et réduisez la résolution d'un niveau. Surveillez ensuite votre FPS jusqu'à ce que les choses s'améliorent.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868495/19272" target="_top" id="1868495">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868495" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868495/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Désactiver l'accélération de la souris
 
 Celui-ci n'a rien à voir avec l'amélioration des performances de votre PC en matière de jeu, mais il s'agit plutôt d'un conseil pour vous permettre d'améliorer vos performances personnelles en matière de jeu. L'accélération de la souris est un paramètre qui fait bouger votre souris en se basant non seulement sur la détection des mouvements physiques mais aussi sur la vitesse. Cette option rend en fait les mouvements de votre souris moins précis, car elle ajoute un paramètre supplémentaire au mouvement que vous transmettez à la souris. Étant donné que la précision est cruciale pour la précision de la visée dans les jeux de tir à la première personne, si vous êtes un fan de Call of Duty, Counter-Strike ou Overwatch, vous devriez absolument désactiver cette option.
@@ -352,21 +352,7 @@ Comment améliorer les performances de jeu sur Windows 10 (corrections avancées
 
 ![](https://cdn.staticont.net/pages/0013/24/72b5f58442a79243cce53c3224e26755b436a620.webp)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Vous ne savez toujours pas comment rendre Windows 10 plus rapide pour les jeux ? Utilisez ces correctifs avancés pour une solution à long terme.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896527/19272" target="_top" id="1896527">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896527" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896527/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Optez pour un SSD
 
@@ -379,13 +365,6 @@ Quant à l'aspect financier, si un gros SSD pour votre système d'exploitation e
 ### Mettez à niveau votre GPU/CPU
 
 ![](https://cdn.staticont.net/default/0012/47/4d8d362406e5747022cddcbbe642fe7d57c6a558.webp)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934142/19272" target="_top" id="1934142">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934142" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934142/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Mettez à niveau votre GPU et votre CPU environ tous les quatre ans pour que tout fonctionne bien. Mais si vous êtes un joueur, vous devrez peut-être le faire plus tôt, car la technologie évolue beaucoup plus rapidement dans ce secteur.
 
@@ -469,16 +448,16 @@ Les ordinateurs portables sont réputés pour leur surchauffe, car tous les comp
 3. Réglez les paramètres de vos ventilateurs pour qu'ils ne soient pas trop sollicités.
 4. Si vous le pouvez, jouez sur votre ordinateur portable dans un environnement frais.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105864/7443" target="_top" id="2105864">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105864" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105864/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Mettez à niveau votre GPU et votre RAM
 
 Nous avons déjà abordé ce sujet pour les PC, mais votre ordinateur portable peut également être équipé d'un processeur graphique et d'une mémoire vive. Suivez les mêmes protocoles, et si vous n'avez pas l'habitude de travailler avec des ordinateurs portables, il est préférable de confier l'installation à un technicien expérimenté.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925484/19272" target="_top" id="1925484">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925484" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925484/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 
 
@@ -510,6 +489,13 @@ Logiciel d'enregistrement de jeux et de streaming gratuit et simple
 [Télécharger gratuitement](https://tools.techidaily.com/movavi/products/)[À propos de la version Windows](https://www.gecata.com/)
 
 ![Gecata&nbsp;by Movavi](https://cdn.staticont.net/products/0023/55/189f02c8904c7cafef6bd153dc2ff5755f569030.webp)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880940/19272" target="_top" id="1880940">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880940" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880940/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 
 
@@ -548,6 +534,13 @@ Si vous voulez savoir comment rendre votre ordinateur plus rapide pour jouer, vo
 
 Lorsque l'on compare l'expérience de jeu des versions précédentes de Windows à Windows 10, l'amélioration des performances est extraordinaire. Si vous n'êtes pas sûr de vouloir faire une mise à jour, la décision est simple. Windows 10 offrira toujours une meilleure expérience.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918714/19272" target="_top" id="1918714">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918714" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918714/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Comment obtenir 60 fps dans un jeu ?
 
 Atteindre 60 FPS dans un jeu n'est pas différent des conseils pour accélérer votre système en général, mais voici ce que vous pouvez faire :
@@ -565,6 +558,19 @@ La baisse du nombre de FPS se produit lorsque votre ordinateur n'a pas la mémoi
 Ce n'est pas parce que vous dépensez de l'argent pour un ordinateur qu'il est équipé du dernier cri. Le matériel est plus important que les autres caractéristiques de conception ou de logiciel. En outre, les jeux vidéo modernes placent toujours la barre plus haut en matière de capacité de performance, ce qui est donc relatif d'un jeu à l'autre.
 
 ![Avez-vous des questions&nbsp;?](https://cdn.staticont.net/global/0023/54/e832fd4fe897893df1de795a67cafcd74a13283a.webp)
+
+<!-- affiliate ads begin -->
+<span id="1983539">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983539.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983539">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983539.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983539%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983539/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Avez-vous des questions ?
 
@@ -601,21 +607,24 @@ En vous inscrivant, vous acceptez de recevoir nos courriels de marketing et acce
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-guidelines-for-effective-use-of-cc-licenses/"><u>[New] 2024 Approved Guidelines for Effective Use of CC Licenses</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-hot-ticket-video-countdown-of-the-hour/"><u>[New] 2024 Approved Hot Ticket Video Countdown of the Hour</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-from-script-to-screen-building-a-youtube-trailer-in-filmora-for-2024/"><u>[New] From Script to Screen Building a YouTube Trailer in Filmora for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-future-fortunes-for-virtual-game-masters/"><u>[New] In 2024, Future Fortunes for Virtual Game Masters</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-growth-hacking-for-youtube-stars-maximizing-fans/"><u>[New] In 2024, Growth Hacking for YouTube Stars Maximizing Fans</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-edit-youtube-channel-description/"><u>[New] In 2024, How to Edit YouTube Channel Description</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-from-novice-to-pro-your-step-by-step-guide-to-youtube-live-images-for-2024/"><u>[Updated] From Novice to Pro Your Step-by-Step Guide to YouTube Live Images for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-implementing-gradual-audio-reduction-tricks-in-audacity/"><u>[Updated] Implementing Gradual Audio Reduction Tricks in Audacity</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-harnessing-the-power-of-stories-in-fb-networks/"><u>[Updated] In 2024, Harnessing the Power of Stories in FB Networks</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-understanding-instagrams-video-restriction/"><u>[Updated] In 2024, Understanding Instagram's Video Restriction</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-building-community-through-thoughtful-facebook-giveaways/"><u>2024 Approved Building Community Through Thoughtful Facebook Giveaways</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-guidance-to-rectify-youtube-video-scaling-issues/"><u>2024 Approved Guidance to Rectify YouTube Video Scaling Issues</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/building-trust-through-words-docu-script-insights-for-2024/"><u>Building Trust Through Words Docu-Script Insights for 2024</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-vivo-s18-pro-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Vivo S18 Pro Phones with/without a PC</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/in-2024-in-depth-evaluation-of-the-newest-slomo-video-software/"><u>In 2024, In-Depth Evaluation of the Newest SloMo Video Software</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/step-by-step-tutorial-total-iphone-reset-and-wiping-via-microsoft-windowsmac-using-stellar-software/"><u>Step-by-Step Tutorial: Total iPhone Reset and Wiping via Microsoft Windows/Mac Using Stellar Software</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-game-modders-and-tutorial-content-leaders/"><u>[New] 2024 Approved Game Modders & Tutorial Content Leaders</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-peek-behind-the-curtain-of-hidden-youtube-videos/"><u>[New] 2024 Approved How to Peek Behind the Curtain of Hidden YouTube Videos</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-a-new-era-of-business-with-vr-integration-for-2024/"><u>[New] A New Era of Business with VR Integration for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-gourmet-guide-culinary-video-production-for-2024/"><u>[New] Gourmet Guide Culinary Video Production for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-harmonizing-youtube-content-a-guide-to-blending-files-for-2024/"><u>[New] Harmonizing YouTube Content A Guide to Blending Files for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-green-blueprint-planning-for-a-resilient-urban-future/"><u>[New] In 2024, Green Blueprint Planning for a Resilient Urban Future</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-in-2024-inside-the-world-of-xmedia-workshop-a-thorough-examination/"><u>[New] In 2024, Inside the World of XMedia Workshop A Thorough Examination</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-flashing-frequencies-role-music-synopsis-for-2024/"><u>[Updated] Flashing Frequencies Role-Music Synopsis for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-gamers-path-to-earnings-on-youtube-for-2024/"><u>[Updated] Gamer's Path to Earnings on YouTube for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-harness-youtubes-potential-with-these-top-5-video-marketing-techniques-for-2024/"><u>[Updated] Harness YouTube’s Potential with These #Top 5 Video Marketing Techniques for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-make-your-shorts-image-visible-again/"><u>[Updated] In 2024, How to Make Your Shorts' Image Visible Again</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-ultimate-7-video-streaming-apps-your-ally-in-going-live-with-youtube-from-iphones-and-android/"><u>[Updated] Ultimate 7 Video Streaming Apps Your Ally in Going Live with YouTube From iPhones & Android</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-youtube-dimensions-demystified-a-complete-aspect-ratio-handbook/"><u>[Updated] YouTube Dimensions Demystified A Complete Aspect Ratio Handbook</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/enriching-virtual-teams-engagement-through-chatai/"><u>Enriching Virtual Teams' Engagement Through ChatAI</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-full-spectrum-analysis-unpacking-xstudio-video-workshop-essentials/"><u>In 2024, Full Spectrum Analysis Unpacking XStudio Video Workshop Essentials</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/24-youtube-mysteries-solved-decoding-unlisted-content-explained/"><u>In 2024, YouTube Mysteries Solved Decoding 'Unlisted' Content Explained</u></a></li>
+<li><a href="https://win-forum.techidaily.com/inside-the-windows-registry-essential-information-for-effective-uninstallation/"><u>Inside the Windows Registry: Essential Information for Effective Uninstallation</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/pushing-the-boundaries-upgrade-for-larger-ps3-hdd/"><u>Pushing the Boundaries - Upgrade for Larger PS3 HDD</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/d-screen-craftsman/"><u>Second-Screen Craftsman</u></a></li>
 </ul></div>
 
