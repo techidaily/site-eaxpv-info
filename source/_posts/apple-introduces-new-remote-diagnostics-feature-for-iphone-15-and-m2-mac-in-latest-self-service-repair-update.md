@@ -1,7 +1,7 @@
 ---
 title: Apple Introduces New Remote Diagnostics Feature for iPhone 15 & M2 Mac in Latest Self-Service Repair Update
-date: 2024-09-28T16:55:05.677Z
-updated: 2024-10-04T17:56:06.118Z
+date: 2024-10-08T19:05:23.258Z
+updated: 2024-10-10T00:28:26.561Z
 tags:
   - apple
 categories:
@@ -32,6 +32,13 @@ Jason Hiner/ZDNET
 
 **What you need:** An iPhone running iOS 16.5 or later. Since not all iPhones are compatible with iOS 18, you'll also need a model [newer than the iPhone X](https://www.zdnet.com/article/best-iphone/).
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006941/19272" target="_top" id="2006941">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006941" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006941/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. Go to General in your iPhone Settings
 
 Go to your iPhone's Settings and select General. 
@@ -40,16 +47,16 @@ Go to your iPhone's Settings and select General.
 
 Within General, tap on Software Update. This will show you if the iOS 18 update is available for you to download.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118320/7443" target="_top" id="2118320">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118320" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118320/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Download and install
 
 When you tap on Software Update, your iPhone will check for the latest version of iOS available. Then, you'll be able to Download and Install the new update. Your iPhone will begin the download immediately.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123729/7443" target="_top" id="2123729">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123729" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123729/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 4\. Enter your passcode and follow steps to install
 
@@ -57,18 +64,24 @@ Enter your passcode, if necessary, to authorize the installation of the new iOS 
 
 After installing the latest iOS update, your iPhone will restart.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## FAQs
 
 ### When is Apple Intelligence coming out?
 
 Apple Intelligence, featuring the company's AI tools, will begin to roll out for compatible iPhones over the next few weeks, with more features to join in the coming months. This slew of AI features will be available on the iPhone 16 lineup and the iPhones 15 Pro and Pro Max.
+
+<!-- affiliate ads begin -->
+<span id="1982462">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982462.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982462">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982462%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982462/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### When was iOS 18 released?
 
@@ -77,10 +90,16 @@ Apple released the iOS 18 developer beta during WWDC 2024 in June, and the publi
 **Also: [The best iOS 18 features that will make updating your iPhone worthwhile](https://www.zdnet.com/article/the-best-ios-18-features-that-will-make-updating-your-iphone-worthwhile/)**
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902309/19272" target="_top" id="1902309">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902309" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902309/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1444782">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1444782.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1444782">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1444782.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1444782%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1444782/14559" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Can you still download the iOS 18 public beta?
@@ -117,13 +136,6 @@ If you can't see this option, go to your **Settings,** select **Privacy & Securi
 **Also: [How to use and customize your iPhone's new Control Center with iOS 18](https://www.zdnet.com/article/how-to-use-and-customize-your-iphones-new-control-center-with-ios-18/)**
 
 If you aren't already a member of the Apple Developer Program, you can sign up to become one in the app. An annual membership costs $99.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115946/19272" target="_top" id="2115946">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115946" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115946/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### What is in iOS 18 beta 3?
 
@@ -169,15 +181,22 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/024-approved-mobilize-your-marketing-easy-youtube-channel-launch-tips-for-entrepreneurs/"><u>[New] 2024 Approved Mobilize Your Marketing Easy YouTube Channel Launch Tips for Entrepreneurs</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-use-youtube-enhancements/"><u>[New] In 2024, How to Use YouTube Enhancements</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-hashtag-mastery-pathway-to-6-figure-youtube-impact/"><u>[Updated] 2024 Approved Hashtag Mastery Pathway to 6-Figure Youtube Impact</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-giggles-in-the-garage-ingenious-funny-video-concepts-for-youtubers-for-2024/"><u>[Updated] Giggles in the Garage Ingenious Funny Video Concepts for YouTubers for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-often-do-youtubers-receive-income/"><u>[Updated] In 2024, How Often Do YouTubers Receive Income?</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-orbiting-imagery-advanced-methods-for-drone-video-editing/"><u>2024 Approved Orbiting Imagery Advanced Methods for Drone Video Editing</u></a></li>
-<li><a href="https://blog-min.techidaily.com/best-3-software-to-transfer-files-tofrom-your-vivo-s18e-via-a-usb-cable-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Best 3 Software to Transfer Files to/from Your Vivo S18e via a USB Cable | Dr.fone</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/high-res-videos-2024s-finest-camcorders-ranked/"><u>High-Res Videos 2024'S Finest Camcorders Ranked</u></a></li>
-<li><a href="https://fox-http.techidaily.com/prime-pick-ultimate-action-cam-mics-guide/"><u>Prime Pick Ultimate Action Cam Mics Guide</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-ultimate-list-of-8-health-enhancing-chatbot-addons-to-transform-your-exercise-regime/"><u>The Ultimate List of 8 Health-Enhancing Chatbot Addons to Transform Your Exercise Regime</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-no-cost-screen-record-the-ultimate-win11-tools-1-5-listing/"><u>[Updated] 2024 Approved No-Cost Screen Record The Ultimate Win11 Tools #1-5 Listing</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-xbox-screen-recording-uncovered-a-step-by-step-manual/"><u>[Updated] In 2024, Xbox Screen Recording Uncovered A Step-by-Step Manual</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-unveiling-the-art-of-instagram-video-filming/"><u>[Updated] Unveiling the Art of Instagram Video Filming</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/isoiso/"><u>最適なISOマウントソリューション発表：無料でISOイメージをスムーズに活用方法</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/best-of-the-best-10-recorders-for-your-device/"><u>Best of the Best #10 Recorders for Your Device</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/best-video-converters-of-2023-comprehensive-review-of-h265-compatibility-across-platforms/"><u>Best Video Converters of 2023: Comprehensive Review of H.265 Compatibility Across Platforms</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/convertissez-vos-fichiers-avi-heavy-en-mp4-sans-cout-les-5-meilleures-methodes/"><u>Convertissez Vos Fichiers Avi Heavy en MP4 Sans Coût: Les 5 Meilleures Méthodes</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/expand-the-display-adapters-section-by-clicking-on-the-arrow-next-to-it-if-you-see-a-yellow-exclamation-mark-beside-any-of-them-that-indicates-an-issue-with110/"><u>Expand the Display Adapters Section by Clicking on the Arrow Next to It. If You See a Yellow Exclamation Mark Beside Any of Them, that Indicates an Issue with the Driver.</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/extrait-laudio-de-vos-dvd-sans-pertes-decouvrez-le-logiciel-de-deduplication-gratuit-et-precis-pour-une-experience-sonore-optimale/"><u>Extrait L'audio De Vos DVD Sans Pertes - Découvrez Le Logiciel De Déduplication Gratuit Et Précis Pour Une Expérience Sonore Optimale</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-remove-or-bypass-knox-enrollment-service-on-samsung-galaxy-a15-5g-by-drfone-android/"><u>How To Remove or Bypass Knox Enrollment Service On Samsung Galaxy A15 5G</u></a></li>
+<li><a href="https://techidaily.com/how-to-upgrade-apple-iphone-12-mini-to-the-latest-iosipados-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Upgrade Apple iPhone 12 mini to the Latest iOS/iPadOS Version? | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-steady-yourself-against-oculus-nausea/"><u>In 2024, Steady Yourself Against Oculus Nausea</u></a></li>
+<li><a href="https://tools.techidaily.com/ios-unlock-dr-fone-wondershare/"><u>iOS Unlock - Dr.Fone - Wondershare</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/resolve-your-silent-screen-problem-with-these-steps-on-amazon-prime-videos/"><u>Resolve Your Silent Screen Problem with These Steps on Amazon Prime Videos</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/step-by-step-guide-resolving-the-problem-of-handbrake-failure-mid-dvd-to-digital-transfer/"><u>Step-by-Step Guide: Resolving the Problem of HandBrake Failure Mid-DVD to Digital Transfer</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/the-complete-winxdvd-tutorial-from-setup-to-full-feature-exploration/"><u>The Complete WinXDVD Tutorial: From Setup to Full Feature Exploration</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/top-8-facebook-movie-downloaders/"><u>Top 8 Facebook Movie Downloaders</u></a></li>
 </ul></div>
 

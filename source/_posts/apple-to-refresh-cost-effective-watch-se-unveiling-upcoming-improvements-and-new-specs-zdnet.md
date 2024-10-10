@@ -1,7 +1,7 @@
 ---
 title: Apple to Refresh Cost-Effective Watch SE? Unveiling Upcoming Improvements and New Specs | ZDNET
-date: 2024-09-30T17:48:02.285Z
-updated: 2024-10-04T18:31:47.071Z
+date: 2024-10-05T20:03:38.359Z
+updated: 2024-10-09T20:56:30.729Z
 tags:
   - apple
 categories:
@@ -47,10 +47,10 @@ Apple Intelligence will tap into your photos for a few different tricks. You'll 
 The [new Clean Up tool](https://www.zdnet.com/article/ios-18-1-beta-adds-photo-clean-up-ai-tool-and-notification-summaries-how-they-work/) will help you remove distracting or unwanted elements in a photo while leaving everything else intact.
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1175223/12108" target="_top" id="1175223">
-  <img src="//a.impactradius-go.com/display-ad/12108-1175223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148642/16836" target="_top" id="2148642">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148642" border="0" alt="https://techidaily.com" width="300" height="50"/>
 </a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1175223/12108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148642/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Audio transcriptions
@@ -67,6 +67,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896560/19272" target="_top" id="1896560">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896560" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896560/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Notification assistance
 
 Instead of having to read all the notifications that appear on your screen, you'll be able to browse through AI-generated summaries of them. Plus, a new Focus mode will display only the notifications that need your immediate attention.
@@ -78,13 +85,6 @@ To help you get through your emails, Apple Intelligence will [try to understand 
 **Also: [The iPhone 16 is undeniably great hardware - but you should still probably skip it](https://www.zdnet.com/article/the-iphone-16-is-undeniably-great-hardware-but-you-should-still-probably-skip-it/)**
 
 Plus, a new Smart Reply feature will offer suggestions for quick replies and ensure that all the questions in a response have been addressed.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938721/19272" target="_top" id="1938721">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938721" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938721/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 6\. Siri improvements
 
@@ -107,10 +107,10 @@ Those are a fair number of AI-powered features and upgrades, but Apple Intellige
 Using the AI-powered [Image Playground](https://www.zdnet.com/article/what-is-apple-intelligence-everything-to-know-about-ai-features-coming-to-iphones-macs-and-ipads/), you'll be able to generate images based on a description, suggestions, or even a person from one of your photos. You can then tweak the style and make other changes based on how you plan to use or share the image.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948876/19272" target="_top" id="1948876">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948876" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826">
+  <img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948876/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Image wand
@@ -122,10 +122,16 @@ The [image wand](https://www.zdnet.com/article/forget-dall-e-apples-new-ai-image
 You'll be able to [create new emojis](https://www.zdnet.com/article/apples-new-ai-generated-genmoji-solve-a-problem-weve-all-had-before/) on-demand by entering a description or selecting a photo of you or another person. In response, the AI will generate a more accurate and lively kind of emoji.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043597/7443" target="_top" id="2043597">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043597" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043597/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983473">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983473.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983473">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983473.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983473%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983473/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### More Siri tricks
@@ -166,14 +172,20 @@ The big question, though, is not so much when the new AI features will arrive bu
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/024-approved-the-precision-of-portioning-video-length-optimization-on-youtube/"><u>[New] 2024 Approved The Precision of Portioning Video Length Optimization on YouTube</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-novice-to-expert-setting-up-a-sports-channel-on-mac/"><u>[Updated] 2024 Approved From Novice to Expert Setting up a Sports Channel on Mac</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-setup-a-mac-studio-for-sports-content/"><u>[Updated] 2024 Approved How to Setup a Mac Studio for Sports Content</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-graph-gala-2017-an-illuminated-expedition-into-yt-data-for-2024/"><u>[Updated] Graph Gala 2017 An Illuminated Expedition Into YT Data for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-gamer-wealth-wave-the-year-ahead/"><u>[Updated] In 2024, Gamer Wealth Wave The Year Ahead</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/avoiding-social-media-isolation-tweet-on-fb-for-2024/"><u>Avoiding Social Media Isolation Tweet on FB for 2024</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/happiness-abroad-on-independence-day/"><u>Happiness Abroad on Independence Day</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-revive-your-bricked-vivo-y36-in-minutes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Revive Your Bricked Vivo Y36 in Minutes | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-track-oppo-a79-5g-location-without-installing-software-drfone-by-drfone-virtual-android/"><u>How to Track Oppo A79 5G Location without Installing Software? | Dr.fone</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-longevity-in-the-clouds-top-10-drone-selections/"><u>[New] Longevity in the Clouds Top 10 Drone Selections</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-optimal-practices-for-blending-b-roll-into-main-clips/"><u>[New] Optimal Practices for Blending B-Roll Into Main Clips</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-voice-overhaul-made-simple-explore-7-best-audio-editing-apps-for-2024/"><u>[New] Voice Overhaul Made Simple Explore 7 Best Audio Editing Apps for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-obs-temporal-control-initiating-countdown-features-seamlessly/"><u>[Updated] OBS Temporal Control Initiating Countdown Features Seamlessly</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/winx/"><u>「オンラインでWinXスーパービデオパックを安全に購入する方法」</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/1725284590500-windows-11/"><u>優化 Windows 11 手機影片觀看體驗：理解最佳視訊設定</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/dvd-commentaire-decortiquer-sans-pecher-garantir-une-qualite-impeccable-a-100/"><u>DVD Commentaire Décortiquer Sans Pécher: Garantir Une Qualité Impeccable À 100%</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/economical-4k-digital-video-devices-for-2024/"><u>Economical 4K Digital Video Devices for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/entfernungsmethode-fur-den-dvd-kopierschutz-mit-winxdvd-ideal-fur-windows-and-apple-gerate/"><u>Entfernungsmethode Für Den DVD-Kopierschutz Mit WinXDVD – Ideal Für Windows & Apple Geräte</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/pc-gaming-fixes-why-isnt-payday-2-starting-solutions-inside/"><u>PC Gaming Fixes: Why Isn't Payday 2 Starting? Solutions Inside!</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/the-best-android-unlock-software-for-oneplus-device-top-5-picks-to-remove-android-locks-by-drfone-android/"><u>The Best Android Unlock Software For OnePlus Device Top 5 Picks to Remove Android Locks</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/top-5-tecniche-per-ridurre-in-settore-i-file-video-mkv-senza-costi/"><u>Top 5 Tecniche per Ridurre in Settore I File Video MKV Senza Costi</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/ultimate-guide-best-free-and-premium-swf-players-for-windows-11-compatibility/"><u>Ultimate Guide: Best Free and Premium SWF Players for Windows 11 Compatibility</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-2024-approved-jaycut-crash-course-master-free-online-video-editing-in-no-time/"><u>Updated 2024 Approved Jaycut Crash Course Master Free Online Video Editing in No Time</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/2-dvdcdblu-ray/"><u>パワード2ゴーソフトウェア解説 - DVD/CD/Blu-Ray総合コンテンツ制作ツール</u></a></li>
 </ul></div>
 

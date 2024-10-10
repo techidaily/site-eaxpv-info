@@ -1,7 +1,7 @@
 ---
 title: Boost Your Apple Watch's Battery Longevit with 8 Essential Tips - ZDNet
-date: 2024-10-02T18:32:02.670Z
-updated: 2024-10-04T16:16:36.446Z
+date: 2024-10-05T23:30:59.520Z
+updated: 2024-10-09T16:21:41.437Z
 tags:
   - apple
 categories:
@@ -51,16 +51,10 @@ I don't recommend using Low Power Mode all day since it limits the functionality
 **Also:** [**Apple Watch Ultra 2 vs. Watch Ultra: Is it time to upgrade?**](https://www.zdnet.com/article/apple-watch-ultra-2-vs-ultra/)
 
 <!-- affiliate ads begin -->
-<span id="1702748">
-					<video width="192" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1702748.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18544-1702748">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1702748.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftwopages.pxf.io%2Fc%2F5597632%2F1702748%2F18544'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702748/18544" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1902294/19272" target="_top" id="1902294">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902294" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902294/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Disable cellular connectivity
@@ -70,6 +64,13 @@ If you have an Apple Watch with cellular connectivity, it's best to not use your
 **How to:** Open Settings > Cellular on your watch and toggle off "Cellular." Then, when you want to turn it back on, flick the switch again. It's worth noting that airplane mode will essentially do the same thing, but it also turns off Wi-Fi which you need for certain things, so manually disabling cellular data will save some steps.
 
 Jason Hiner/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://bluettifr.pxf.io/c/5597632/2145082/17095" target="_top" id="2145082">
+  <img src="//a.impactradius-go.com/display-ad/17095-2145082" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145082/17095" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Turn off background app refresh
 
@@ -89,18 +90,18 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135356/19272" target="_top" id="2135356">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135356" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135356/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 5\. Turn off irregular heart rate notifications
 
 With some of the newest Apple Watches, Apple includes a feature that can alert you when your heart rate is beating in irregular intervals and alert you when it may be atrial fibrillation. While that's nice to have for tracking your health over time, it means the heart rate sensor is constantly on collecting your heart rate, which isn't good for battery life.
 
 **How to:** Visit Settings > Heart > Irregular Rhythm Notifications and flick the feature off.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075462/7443" target="_top" id="2075462">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075462" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075462/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 6\. Reduce the amount of notifications you get
 
@@ -110,6 +111,13 @@ When a notification comes in, it not only plays a "ding!" to alert you, it also 
 
 **Also:** [**Your Apple Watch is getting an upgrade - here are the best features in WatchOS 11**](https://www.zdnet.com/article/your-apple-watch-is-getting-an-upgrade-here-are-the-best-features-in-watchos-11/)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925565/19272" target="_top" id="1925565">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925565" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925565/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 7\. Turn off Siri
 
 Ah, Siri. Many people swear by the voice assistant and use it daily to do things like check the weather, start a timer (or two), play some music, or start a workout. But if you're like me (and, presumably, many others), you don't touch Siri at all on your Apple Watch, and it's just sitting there wasting your battery, constantly listening to hear that magical phrase "Hey, Siri." In other words, you should turn it off.
@@ -118,31 +126,11 @@ Ah, Siri. Many people swear by the voice assistant and use it daily to do things
 
 Adrian Kingsley-Hughes/ZDNET
 
-<!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 8\. Factory reset your Apple Watch (a.k.a. the last resort)
 
 I've heard from many folks who have faced issues with battery life on the Apple Watch that it's best to do a complete factory reset. Full disclosure: it's not going to work for everyone, but if you've exhausted every option on your Apple Watch to extend battery life, the battery is still healthy, and you don't want to upgrade, your best bet is to reset it and start from scratch. That way, you can set up your watch and, along the way, spot the app or service that drains your battery the most. It may also help clean up some of the system bloat in watchOS 10 that's led to poor efficiency on your watch.
 
 **How to:** Go to Settings > General > Reset on your Apple Watch, then choose "Erase All Content and Settings." You won't have to disable Find My or get rid of your cellular plan since you'll be setting it up with your iPhone again, but if you want to get rid of absolutely everything, make sure you disable Find My and dump your cellular plan during the process.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135396/19272" target="_top" id="2135396">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135396" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135396/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How we test smartwatches
 
@@ -185,15 +173,24 @@ For a deeper look at our testing process, check out our comprehensive [smartwatc
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-green-screen-mastery-seamless-yt-integration-for-2024/"><u>[New] Green Screen Mastery Seamless YT Integration for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-optimize-video-quality-on-youtube-with-size-settings/"><u>[New] In 2024, How to Optimize Video Quality on YouTube with Size Settings</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-master-live-broadcast-setup-using-obs-studio-pc-mac-laptop/"><u>[New] In 2024, Master Live Broadcast Setup Using OBS Studio (PC, Mac, Laptop)</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-raw-footage-to-youtube-perfection-premiere-pro-techniques/"><u>[Updated] 2024 Approved From Raw Footage to YouTube Perfection - Premiere Pro Techniques</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-in-2024-becoming-a-savvy-vr-tour-connoisseur/"><u>[Updated] In 2024, Becoming a Savvy VR Tour Connoisseur</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-global-leaderboard-top-subscribers-by-youtube-star/"><u>[Updated] In 2024, Global Leaderboard Top Subscribers by YouTube Star</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-pros-choice-the-best-screen-recorders-for-editing-for-2024/"><u>[Updated] Pro's Choice The Best Screen Recorders for Editing for 2024</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-4-ways-to-sync-contacts-from-apple-iphone-xr-to-ipad-easily-drfone-by-drfone-transfer-from-ios/"><u>In 2024, 4 Ways to Sync Contacts from Apple iPhone XR to iPad Easily | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/the-best-ispoofer-alternative-to-try-on-xiaomi-redmi-12-drfone-by-drfone-virtual-android/"><u>The Best iSpoofer Alternative to Try On Xiaomi Redmi 12 | Dr.fone</u></a></li>
-<li><a href="https://fox-http.techidaily.com/tutorial-turning-on-hdr-for-windows-11-users/"><u>Tutorial Turning on HDR for Windows 11 Users</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/winx-dvd-ripper-platinum-dvd-microsoft-apple-android32/"><u>[公式] WinX DVD Ripper Platinum - DVDコピープロテクト打破! Microsoft, Apple, Android対応32倍速変換ソフト</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-elevate-your-youtube-gaming-content-with-key-freefire-hashtags/"><u>[New] 2024 Approved Elevate Your YouTube Gaming Content With Key FreeFire Hashtags</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-rhythms-companion-finding-premium-club-vids/"><u>[New] Rhythm's Companion Finding Premium Club Vids</u></a></li>
+<li><a href="https://apple-account.techidaily.com/apple-id-locked-for-security-reasons-on-iphone-13-pro-max-find-the-best-solution-here-by-drfone-ios/"><u>Apple ID Locked for Security Reasons On iPhone 13 Pro Max? Find the Best Solution Here</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/captura-perfecta-de-pantalla-en-computadoras-con-windows-top-recomendados/"><u>Captura Perfecta De Pantalla en Computadoras Con Windows: Top Recomendados</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/digiarty-your-gateway-to-seamless-contact/"><u>Digiarty - Your Gateway to Seamless Contact</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/discover-our-picks-the-ultimate-list-of-free-family-film-sites/"><u>Discover Our Picks: The Ultimate List of Free Family Film Sites</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/easy-steps-to-transition-from-windows-7-or-81-to-windows-groovy-10-comprehensive-upgrade-manual/"><u>Easy Steps to Transition From Windows 7 or 8.1 to Windows Groovy 10 - Comprehensive Upgrade Manual</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/effortless-powerhouse-explore-the-acer-aspire-c27s-all-inclusive-features/"><u>Effortless Powerhouse: Explore the Acer Aspire C27's All-Inclusive Features</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/guia-paso-a-paso-para-usar-libdvdcss-con-handbrake-hacer-copias-de-dvd-sin-restricciones-en-macos-y-windows-10/"><u>Guía Paso a Paso Para Usar Libdvdcss Con HandBrake: Hacer Copias De DVD Sin Restricciones en macOS Y Windows 10</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/is-cortanas-german-language-support-featured-on-windows-11-phones/"><u>Is Cortana's German Language Support Featured on Windows 11 Phones?</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/network-locked-sim-card-inserted-on-your-lava-yuva-2-pro-phone-unlock-it-now-by-drfone-android/"><u>Network Locked SIM Card Inserted On Your Lava Yuva 2 Pro Phone? Unlock It Now</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/schadhafte-dvds-wiederherstellen-and-kopieren-auf-windows-11-einfache-losung-von-winxdvd/"><u>Schadhafte DVDs Wiederherstellen & Kopieren Auf Windows 11 - Einfache Lösung Von WinXDVD</u></a></li>
+<li><a href="https://win-updates.techidaily.com/step-by-step-tutorial-on-modifying-documents-in-apowerpdf/"><u>Step-by-Step Tutorial on Modifying Documents in ApowerPDF</u></a></li>
+<li><a href="https://win11.techidaily.com/the-best-file-sharing-software-on-windows-os/"><u>The Best File-Sharing Software on Windows OS</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/top-6-gratis-video-converter-zu-mp4-format-umwandlung-in-und-aus-mp4/"><u>Top 6 Gratis Video-Converter Zu MP4 Format - Umwandlung in Und Aus MP4</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-contacts-from-motorola-g54-5g-by-fonelab-android-recover-contacts/"><u>Undelete lost contacts from Motorola G54 5G.</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unleash-your-creativity-a-guide-to-crafting-custom-audio-on-android-phones-for-2024/"><u>Unleash Your Creativity A Guide to Crafting Custom Audio on Android Phones for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/windows-10-and/"><u>Windows 10 ガイド：無料ダウンロード&アップグレード手順、そしてコルタナ・スパルタン・ホロラブズの簡単な紹介</u></a></li>
 </ul></div>
 

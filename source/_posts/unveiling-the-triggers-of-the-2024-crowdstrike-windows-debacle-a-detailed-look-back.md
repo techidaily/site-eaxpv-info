@@ -1,7 +1,7 @@
 ---
 title: "Unveiling the Triggers of the 2024 CrowdStrike-Windows Debacle: A Detailed Look Back"
-date: 2024-10-02T17:37:46.896Z
-updated: 2024-10-04T16:50:47.835Z
+date: 2024-10-07T18:50:30.594Z
+updated: 2024-10-09T20:28:38.194Z
 tags:
   - apple
 categories:
@@ -51,10 +51,10 @@ Repairing the damage from a flaw like this is a painfully tedious process that r
 If you know anyone whose job involves administering Windows PCs in a corporate network that uses the CrowdStrike code, you can be confident they are very busy right now, and will be for days to come.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139120/17108" target="_top" id="2139120">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139120" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144273/7443" target="_top" id="2144273">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144273" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139120/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144273/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## We've seen this movie before
@@ -94,10 +94,10 @@ In the You Can't Make This Up Department… CrowdStrike's founder and CEO, Georg
 What makes the 2024 sequel so much worse is that it also affected Windows-based servers running in the cloud, on Microsoft Azure and on AWS. Just as with the many laptops and desktop PCs that were bricked by this faulty update, the cloud-based servers require time-consuming manual interventions to recover.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148649/16836" target="_top" id="2148649">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148649" border="0" alt="https://techidaily.com" width="720" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136616/26400" target="_top" id="2136616">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136616" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148649/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136616/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## CrowdStrike's QA failed
@@ -127,10 +127,10 @@ As part of its initial response, CrowdStrike says it plans to take additional me
 Meanwhile, the United States House of Representatives Homeland Security Committee plans to call CrowdStrike's CEO up for hearings on what went wrong, and CrowdStrike's Chief Security Officer, Shawn Henry, [posted an apology on LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7220983915421806592/), admitting "On Friday, we failed you. ... The confidence we built in drips over the years was lost in buckets within hours, and it was a gut punch."
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080342/19272" target="_top" id="2080342">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080342" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136619/26400" target="_top" id="2136619">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136619" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080342/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136619/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How much fault should Microsoft shoulder?
@@ -181,21 +181,24 @@ Nonetheless, this incident, which caused many billions of dollars' worth of dama
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-empty-screens-to-thriving-content-why-no-one-watched-your-video/"><u>[New] 2024 Approved From Empty Screens to Thriving Content Why No One Watched Your Video</u></a></li>
-<li><a href="https://fox-http.techidaily.com/new-biometrics-battle-comparing-faces-of-iphone-x-and-galaxy-phones/"><u>[New] Biometrics Battle Comparing Faces of iPhone X & Galaxy Phones</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-how-to-safely-extract-youtube-audio-a-study-of-3-techniques-for-2024/"><u>[New] How to Safely Extract YouTube Audio A Study of 3 Techniques for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-free-tips-embedding-moving-images-in-written-content/"><u>[New] In 2024, Free Tips Embedding Moving Images in Written Content</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-forge-strong-content-partnerships-on-youtube/"><u>[New] In 2024, How to Forge Strong Content Partnerships on YouTube</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-flip-it-right-youtube-video-retrospectives-with-tips/"><u>[Updated] 2024 Approved Flip It Right YouTube Video Retrospectives (With Tips!)</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-finalcut-pro-elevating-your-youtube-edits-from-good-to-great/"><u>[Updated] In 2024, FinalCut Pro Elevating Your YouTube Edits From Good to Great</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-free-minecraft-youtube-banners-with-templates/"><u>[Updated] In 2024, Free Minecraft YouTube Banners with Templates</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-keep-your-games-bright-solutions-for-avoiding-obs-black-screens/"><u>[Updated] In 2024, Keep Your Games Bright Solutions for Avoiding OBS Black Screens</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-logic-pros-approach-to-softening-audio-tracks-gradually-for-2024/"><u>[Updated] Logic Pro's Approach to Softening Audio Tracks Gradually for 2024</u></a></li>
-<li><a href="https://extra-information.techidaily.com/2024-approved-budget-buyers-guide-to-drone-tech-under-100/"><u>2024 Approved Budget Buyers' Guide to Drone Tech Under $100</u></a></li>
-<li><a href="https://win-answers.techidaily.com/accelerate-your-ark-adventures-expert-strategies-for-higher-fps-performance-on-pc/"><u>Accelerate Your ARK Adventures: Expert Strategies for Higher FPS Performance on PC</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-10-best-fake-gps-location-spoofers-for-lenovo-thinkphone-drfone-by-drfone-virtual-android/"><u>In 2024, 10 Best Fake GPS Location Spoofers for Lenovo ThinkPhone | Dr.fone</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-final-cut-pro-for-beginners-creating-a-video-slideshow-from-scratch/"><u>New 2024 Approved Final Cut Pro for Beginners Creating a Video Slideshow From Scratch</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/simplified-guide-fb-video-to-mp3-audio-transformations/"><u>Simplified Guide FB Video to MP3 Audio Transformations</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/transform-spaceships-into-trees-youtubes-green-secrets-revealed-in-2024/"><u>Transform Spaceships Into Trees – Youtube’s Green Secrets Revealed, In 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-myvidhub-testing-a-quest-for-more-features-in-2024/"><u>[New] MyVidHub Testing A Quest for More Features, In 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-high-definition-recording-reigns-supreme-top-picks-listed/"><u>2024 Approved High Definition Recording Reigns Supreme Top Picks Listed</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-the-ultimate-agri-game-guide-for-social-playtime-with-pals/"><u>2024 Approved The Ultimate Agri-Game Guide for Social Playtime with Pals</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/movmp4hevcmkv4kwinxdvd/"><u>最新動画プレイヤーソリューション：MOV、MP4、HEVC、MKVファイルと4Kコンテンツを効率良く再生するWinXDVDのヒント</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/assistance-a-distance-pour-la-maitrise-du-winx-dvd-ripper-et-outils-de-transcodage-video/"><u>Assistance À Distance Pour La Maîtrise Du WinX DVD Ripper Et Outils De Transcodage Vidéo</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/do-interactions-with-chatgpt-alexa-and-siri-require-polite-conversation-etiquette/"><u>Do Interactions with ChatGPT, Alexa, and Siri Require Polite Conversation Etiquette?</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/guide-to-enhancing-quality-of-your-4k-videos-by-eliminating-unwanted-sounds-from-gopro-camera-captures/"><u>Guide to Enhancing Quality of Your 4K Videos by Eliminating Unwanted Sounds From GoPro Camera Captures</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/illuminate-your-display-top-tips-and-techniques-to-resolve-windows-11s-black-screen-faults/"><u>Illuminate Your Display: Top Tips and Techniques to Resolve Windows 11'S Black Screen Faults</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-sim-card-on-realme-v30-online-without-jailbreak-by-drfone-android/"><u>In 2024, How to Unlock SIM Card on Realme V30 online without jailbreak</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-which-is-the-best-fake-gps-joystick-app-on-infinix-note-30-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Which is the Best Fake GPS Joystick App On Infinix Note 30 Pro? | Dr.fone</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/pcbd/"><u>PCや空きBDを使ったデータバックアップの復元方法</u></a></li>
+<li><a href="https://games-able.techidaily.com/seamless-remote-access-to-your-games-on-an-alternate-drive/"><u>Seamless Remote Access to Your Games on an Alternate Drive</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/the-complete-guide-to-honor-x50i-frp-bypass-everything-you-need-to-know-by-drfone-android/"><u>The Complete Guide to Honor X50i FRP Bypass Everything You Need to Know</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/top-10-free-dvd-ripper-programs-how-to-safely-rip-your-dvd-without-cost/"><u>Top 10 Free DVD Ripper Programs: How to Safely Rip Your DVD Without Cost</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/ultimate-guide-mastering-high-quality-conversion-of-multi-track-blu-ray-m2ts-files-into-wmv-format/"><u>Ultimate Guide: Mastering High-Quality Conversion of Multi-Track Blu-Ray M2TS Files Into WMV Format</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/unlocking-gpu-power-enable-cuda-support-in-handbrake-for-faster-video-conversion/"><u>Unlocking GPU Power: Enable CUDA Support in HandBrake for Faster Video Conversion</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-in-2024-a-step-by-step-process-to-remove-audio-in-mp4-videos/"><u>Updated In 2024, A Step-by-Step Process to Remove Audio in MP4 Videos</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/windows-10-winx-mediatrans-iphoneipadipodpc/"><u>Windows (10)に正式サポート WinX MediaTrans - iPhone/iPad/iPodの高度なデータ管理およびバックアップソフト！スムーズなPC間転送を実現。</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/winxvideo-ai5/"><u>Winxvideo AIを活用した有名な動画配信プラットフォームベスト5</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Two Effective Methods for Updating Applications on macOS Explained
-date: 2024-09-27T17:26:10.229Z
-updated: 2024-10-04T16:17:45.073Z
+date: 2024-10-09T00:28:30.414Z
+updated: 2024-10-09T23:23:45.154Z
 tags:
   - apple
 categories:
@@ -35,10 +35,10 @@ Let me show you both approaches.
 **What you'll need:** The only things you'll need are an Apple device (a MacBook or iMac) and a valid user account on the machine. That's it. Let's get to the updates.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082521/7443" target="_top" id="2082521">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082521" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151882/7443" target="_top" id="2151882">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151882" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082521/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151882/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 1\. Open the App Store
@@ -59,13 +59,6 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136548/16384" target="_top" id="2136548">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136548" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136548/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. Update your apps
 
 When the App Store opens, you can either update the apps individually (by clicking the Update button associated with the app in question) or update them all at once (by clicking Update All). During the update process, you might be prompted to close an app (or even a related app) if it's blocking the update from continuing. Should that be the case, close the app in question, return to the App Store, and click Continue from the pop-up warning.
@@ -76,15 +69,22 @@ Screenshot by Jack Wallen/ZDNET
 
 Once the update is completed, close the App Store and you're done.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948881/19272" target="_top" id="1948881">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948881" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948881/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to update MacOS apps from the command line
 
 This is a bit more complicated, for two reasons: first, you have to find out what apps are available for updating, and, second -- as with Linux -- the app names are case-sensitive.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139119/17108" target="_top" id="2139119">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139119" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134224/18498" target="_top" id="2134224">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134224" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139119/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134224/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 1\. Open the Terminal app
@@ -104,10 +104,10 @@ You will be prompted for your sudo password (which is your MacOS user password).
 The -l option stands for _list_. This will print out any available app updates and, if required, it will inform you if a restart is needed to complete any recent OS updates. If you see such a warning, make sure to do the reboot to complete the process.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144280/7443" target="_top" id="2144280">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144280" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1886019/19272" target="_top" id="1886019">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886019" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144280/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886019/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Update the apps
@@ -152,20 +152,18 @@ This is about as simple a method as you'll find to help keep your MacOS machines
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-playtime-to-peak-time-top-gaming-women-in-the-digital-space/"><u>[New] 2024 Approved From Playtime to Peak Time Top Gaming Women in the Digital Space</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-gamers-galaxy-a-thousand-stars-in-gaming-for-2024/"><u>[New] Gamers' Galaxy A Thousand Stars in Gaming for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-formulating-a-seamless-subscription-hyperlink-to-youtube/"><u>[New] In 2024, Formulating a Seamless Subscription Hyperlink to YouTube</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-free-youtube-sound-ripper-collection-top-17-extractors-revealed/"><u>[New] In 2024, Free YouTube Sound Ripper Collection Top 17 Extractors Revealed</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/new-understanding-the-metaverse-6-compelling-realities-unveiled/"><u>[New] Understanding the Metaverse 6 Compelling Realities Unveiled</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-snug-scenes-for-snowy-screens-a-focused-list/"><u>[Updated] 2024 Approved Snug Scenes for Snowy Screens A Focused List</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/updated-complete-rundown-how-google-podcast-works/"><u>[Updated] Complete Rundown How Google Podcast Works</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-effective-is-sponsored-view-count-boosting/"><u>[Updated] In 2024, How Effective Is Sponsored View Count Boosting?</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-create-youtube-channel-in-mobile-personal-and-business/"><u>[Updated] In 2024, How to Create YouTube Channel in Mobile [Personal & Business]</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/comparing-bites-new-insights-on-hero5-and-yi-4k-cameras/"><u>Comparing Bites New Insights on Hero5 & Yi 4K Cameras</u></a></li>
-<li><a href="https://facebook.techidaily.com/embracing-change-instagramfacebook-support-for-meta-drops/"><u>Embracing Change: Instagram/Facebook Support for Meta Drops</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-reset-apple-id-and-apple-password-on-iphone-8-plus-by-drfone-ios/"><u>How to Reset Apple ID and Apple Password On iPhone 8 Plus</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/in-2024-cutting-edge-tactics-for-sharing-video-content-from-twitter-and-whatsapp/"><u>In 2024, Cutting-Edge Tactics for Sharing Video Content From Twitter and WhatsApp</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-maximize-virtual-realty-setting-up-room-and-tech/"><u>In 2024, Maximize Virtual Realty Setting Up Room and Tech</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/transform-challenges-into-cash-with-openais-bug-bounty-initiative/"><u>Transform Challenges Into Cash with OpenAI's Bug Bounty Initiative</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-3-steps-for-perfect-instagram-video-margins/"><u>[New] 2024 Approved 3 Steps for Perfect Instagram Video Margins</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-dodge-fb-disconnection-10-hidden-gems-to-keep-you-safe-for-2024/"><u>[New] Dodge Fb Disconnection 10 Hidden Gems to Keep You Safe for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ecure-extraction-of-audio-from-youtube-at-zero-cost/"><u>[New] Secure Extraction of Audio From YouTube at Zero Cost</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-honorable-warriors-reimagined-best-matching-gaming-titles-for-2024/"><u>[Updated] Honorable Warriors, Reimagined Best Matching Gaming Titles for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/1-unlocking-the-secrets-todays-new-york-times-insights-and-answers-may-23rd-edition-nytimes-347/"><u>1. Unlocking the Secrets: Today's New York Times Insights & Answers, May 23Rd Edition (NYTimes #347)</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/2-digital-renewal-alert-5-critical-cues-you-need-a-new-email-address-now/"><u>2. Digital Renewal Alert: 5 Critical Cues You Need a New Email Address Now</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-rapid-fortnite-tile-making-hacks/"><u>2024 Approved Rapid Fortnite Tile-Making Hacks</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/boost-your-facebook-usage-with-these-8-uncommon-yet-powerful-functions/"><u>Boost Your Facebook Usage with These 8 Uncommon Yet Powerful Functions!</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/crack-the-puzzle-with-nyts-july-9th-connection-challenges-hint-session-394/"><u>Crack the Puzzle with NYT's July 9Th Connection Challenges (Hint Session #394)</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/discovering-the-advantages-of-multi-angle-recording-for-2024/"><u>Discovering the Advantages of Multi-Angle Recording for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/secret-sound-scribes-hidden-audio-logging-for-mobile-devices/"><u>Secret Sound Scribes Hidden Audio Logging for Mobile Devices</u></a></li>
+<li><a href="https://fox-links.techidaily.com/the-solitary-path-to-podcast-popularity/"><u>The Solitary Path to Podcast Popularity</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/value-for-money-an-in-depth-look-at-the-open-ear-wireless-earbuds-from-baseus-eli-sport-1-with-key-trade-offs-explored/"><u>Value for Money? An In-Depth Look at the Open-Ear Wireless Earbuds From Baseus Eli Sport 1 with Key Trade-Offs Explored</u></a></li>
 </ul></div>
 

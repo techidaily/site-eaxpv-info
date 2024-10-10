@@ -1,7 +1,7 @@
 ---
 title: "Mastering the Convenience of Apple Pay: Tips for Using It In-Store and On-the-Go – A Comprehensive Guide by ZDNet"
-date: 2024-09-27T16:26:23.239Z
-updated: 2024-10-04T16:06:26.766Z
+date: 2024-10-08T01:29:27.811Z
+updated: 2024-10-09T21:18:03.224Z
 tags:
   - apple
 categories:
@@ -36,6 +36,13 @@ Apple was expected to focus on incorporating AI into its apps to simplify users'
 
 Apple Intelligence focuses on broad-appeal AI features rather than advanced image and video generation. To do this, the company developed in-house AI models and partnered with OpenAI to power a chatbot that will integrate [ChatGPT](https://www.zdnet.com/article/what-is-chatgpt-and-why-does-it-matter-heres-everything-you-need-to-know/) into iOS, iPadOS, and MacOS.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135367/19272" target="_top" id="2135367">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135367" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135367/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## What does Apple Intelligence do?
 
 Apple
@@ -55,6 +62,13 @@ Aside from these AI features, iOS 18 will include new customizable icons and int
 
 **Also: [Forget LastPass: Apple unveils 'Passwords' manager app at WWDC 2024](https://www.zdnet.com/article/forget-lastpass-apple-unveils-passwords-manager-app-at-wwdc-2024/)**
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014854/22899" target="_top" id="2014854">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014854" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014854/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Is Siri getting an Apple Intelligence makeover?
 
 Apple
@@ -72,10 +86,10 @@ The voice assistant will also be able to perform hundreds of new actions across 
 Apple is also upgrading Siri to understand text, allowing users to type or speak to Siri as needed. 
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657396/16446" target="_top" id="1657396">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657396" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144279/7443" target="_top" id="2144279">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144279" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657396/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144279/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## What's new in Apple's photo editing & search?
@@ -102,13 +116,6 @@ The same feature can help users make major edits to text, such as changing the t
 
 Apple devices will also get AI upgrades for recordings and transcriptions in Voice Memos and Phone, as users can quickly transcribe voice notes with AI.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087395/7443" target="_top" id="2087395">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087395" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087395/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## What is Image Playground?
 
 Apple
@@ -120,13 +127,6 @@ Apple will let users generate images using AI in Messages, Photos Notes, Keynote
 In the Notes app, for example, a new tool called Image Wand will let you circle a rough sketch and use on-device AI to have Image Playground pull ideas from the surrounding areas to generate an image. 
 
 Image Playground will be available in beta this fall, and some features will be released over the next year.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Is ChatGPT coming to iPhone, iPad, and Mac?
 
@@ -172,10 +172,10 @@ The company is striving to keep the AI features secure through several mechanism
 * **Ability to opt out:** Perhaps most importantly, users can opt-in for Apple Intelligence features, which will be introduced as beta versions as Apple works to improve its AI capabilities over time.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134490/18498" target="_top" id="2134490">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134490" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1868495/19272" target="_top" id="1868495">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868495" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134490/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868495/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## What are the technical requirements for Apple Intelligence?
@@ -218,18 +218,18 @@ While these AI features may help drive sales of new iPhones and Macs, as a curre
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-shopping-lists-to-viral-hauls-video-making-insights/"><u>[New] In 2024, From Shopping Lists to Viral Hauls Video Making Insights</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-delete-youtube-comments-effortlessly/"><u>[Updated] 2024 Approved How to Delete YouTube Comments Effortlessly?</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-safely-capture-your-favorite-youtube-audio-for-free/"><u>[Updated] 2024 Approved How to Safely Capture Your Favorite YouTube Audio for Free</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-global-content-makers-conference-for-2024/"><u>[Updated] Global Content Makers' Conference for 2024</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-webinar-mastery-record-without-monetary-burden/"><u>[Updated] In 2024, Webinar Mastery Record Without Monetary Burden</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-troubleshooting-shorts-the-non-displaying-thumbnail/"><u>[Updated] Troubleshooting Shorts The Non-Displaying Thumbnail</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-ultimate-rotation-video-setup/"><u>[Updated] Ultimate Rotation Video Setup</u></a></li>
-<li><a href="https://discover-blog.techidaily.com/convertisseurs-video-hevch265-optimises-pour-mac-evaluation-comparative-par-winxdvd/"><u>Convertisseurs Vidéo HEVC/H.265 Optimisés Pour Mac : Évaluation Comparative Par WinXDVD</u></a></li>
-<li><a href="https://win-forum.techidaily.com/convertissez-votre-fichier-mov-en-format-ogg-facilement-sans-frais-videos-vidmovi/"><u>Convertissez Votre Fichier MOV en Format OGG Facilement Sans Frais - Vidéos VidMovi</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/cracking-the-code-on-windows-update-failure-error-0x8024200d-a-comprehensive-solution-guide/"><u>Cracking the Code on Windows Update Failure (Error 0X8024200D): A Comprehensive Solution Guide</u></a></li>
-<li><a href="https://fox-that.techidaily.com/identifying-and-repairing-common-iphone-display-defects/"><u>Identifying & Repairing Common iPhone Display Defects</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-bypass-android-lock-screen-using-emergency-call-on-asus-rog-phone-7-ultimate-by-drfone-android/"><u>In 2024, How to Bypass Android Lock Screen Using Emergency Call On Asus ROG Phone 7 Ultimate?</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/produce-professional-looking-videos-with-fcpx-stabilization-tools-for-2024/"><u>Produce Professional-Looking Videos with FCPX Stabilization Tools for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-how-to-record-a-gotomeeting-session-on-pcs-and-smartphones-for-2024/"><u>[New] How to Record a GoToMeeting Session on PCs and Smartphones for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-optimal-webcam-use-and-recording-techniques-for-macbook/"><u>[Updated] Optimal Webcam Use and Recording Techniques for MacBook</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-the-ultimate-guide-to-iphone-selfie-gear-rankings-8-for-2024/"><u>[Updated] The Ultimate Guide to Iphone Selfie Gear Rankings (#8) for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/1-effortless-dvd-cloning-and-iso-conversion-using-winx-dvd-copy-professional/"><u>1. Effortless DVD Cloning and ISO Conversion Using WinX DVD Copy Professional</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-step-by-step-to-excellence-the-ultimate-powerdirectors-user-manual/"><u>2024 Approved Step-by-Step to Excellence The Ultimate PowerDirector's User Manual</u></a></li>
+<li><a href="https://program-issues.techidaily.com/effective-solutions-for-preventing-pc-malfunctions-when-playing-battlefront-ii/"><u>Effective Solutions for Preventing PC Malfunctions When Playing 'Battlefront II'</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/fixing-udf-dvds-that-wont-play-a-complete-guide-using-winx-dvd-ripper/"><u>Fixing UDF DVDs That Won't Play - A Complete Guide Using WinX DVD Ripper</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-oppo-f25-pro-5g-phone-without-any-data-loss-by-drfone-android/"><u>How to Unlock Oppo F25 Pro 5G Phone without Any Data Loss</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/mastering-line-insertion-techniques-in-microsoft-word-a-beginners-guide/"><u>Mastering Line Insertion Techniques in Microsoft Word: A Beginner's Guide</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/no-more-glitches-tips-for-a-smooth-run-of-battlefront-ii-on-pc/"><u>No More Glitches: Tips for a Smooth Run of Battlefront II on PC</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/optimal-bitrate-configuration-for-1080p-at-60fps-choosing-the-right-obs-recording-settings/"><u>Optimal Bitrate Configuration for 1080P at 60Fps: Choosing the Right OBS Recording Settings</u></a></li>
+<li><a href="https://video-capture.techidaily.com/speech-to-text-device-review-for-2024/"><u>Speech-to-Text Device Review for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/1725290497841-ai/"><u>ウィンクスビデオAIによる高度な音声および音楽ファイルの操作・抽出法 - 第二章解説</u></a></li>
 </ul></div>
 

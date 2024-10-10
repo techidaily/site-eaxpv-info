@@ -1,7 +1,7 @@
 ---
 title: "Master Your iPad: Insider Tips & Key Settings Every Apple User Should Understand - ZDNet Explore"
-date: 2024-10-01T18:21:07.253Z
-updated: 2024-10-04T17:15:41.368Z
+date: 2024-10-03T22:25:52.751Z
+updated: 2024-10-09T16:06:13.124Z
 tags:
   - apple
 categories:
@@ -54,13 +54,6 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 **How to**: Go to Settings > Focus on your iPad, and you'll find various options to set up a Focus mode for work, personal, fitness, mindfulness, and more. The interface will guide you through setting up your notification settings, which contacts can ping you, and more. Plus, once you've set it up, it'll sync automatically with your iPhone, Apple Watch, and Mac.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151888/7443" target="_top" id="2151888">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151888" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151888/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 3\. Turn on Stage Manager when you need more multitasking chops
 
 Max Buondonno/ZDNET
@@ -73,6 +66,13 @@ You can customize the size of the window, bring up secondary apps in the same vi
 
 **How to**: Swipe down on the top-right corner to access Control Center, then tap the Stage Manager button to activate it (it looks like a rectangle with three smaller rectangles next to it). Alternatively, you can go to Settings > Multitasking & Gestures and turn on Stage Manager from there. When you're done using it, you can choose either option to turn it off.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Save your eyes at night with Night Shift
 
 Yes, I realize this setting doesn't _actually_ protect your eyesight in the long run, nor is it a life-changing hack that everyone should use. But Night Shift on the iPad does make staring at your screen a bit easier when it's dark out, especially if you have to spend a lot of time staring at a text field (like me). I've felt less eye strain while using the setting at night; it helps to relax my mind a bit since all the colors are much warmer. It's worth giving a shot if you like to use your iPad at night.
@@ -80,6 +80,13 @@ Yes, I realize this setting doesn't _actually_ protect your eyesight in the long
 **Also:** [**What iPad Pro's Tandem OLED tells us about future device screens**](https://www.zdnet.com/article/what-ipad-pros-tandem-oled-tells-us-about-future-device-screens/)
 
 **How to**: Head to Settings > Display & Brightness > Night Shift. From there, you can manually turn it on, schedule it to turn on during certain times, and adjust how warm you want your display to turn.
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148641/16836" target="_top" id="2148641">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148641" border="0" alt="https://techidaily.com" width="254" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148641/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Low Power Mode can quickly become your best friend
 
@@ -92,10 +99,10 @@ That's where Low Power Mode comes in. With Low Power Mode, your iPad will limit 
 **How to**: Swipe down from the top right corner to access Control Center, then tap the battery button to enable it. Your battery meter will then turn yellow, indicating that Low Power Mode is on. To disable it, follow the same steps.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094477/7443" target="_top" id="2094477">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094477" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2080333/19272" target="_top" id="2080333">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080333" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094477/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080333/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 6\. Hide your notifications from prying eyes
@@ -105,10 +112,10 @@ Sometimes, you just want to keep the contents of your iPad's notifications to yo
 **How to**: Go to Settings > Notifications > Show Previews and change it from "Always" to "When Unlocked."
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959764/19272" target="_top" id="1959764">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959764" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151865/7443" target="_top" id="2151865">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151865" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959764/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151865/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 7\. Split or float your keyboard
@@ -132,13 +139,6 @@ Every iPad Pro since 2018 has supported what Apple calls ProMotion, which increa
 Of course, while the feature is enabled out of the box, there's always a chance you aren't taking advantage of it on your iPad Pro, and I wouldn't be doing my due diligence if I didn't ask you to check the setting.
 
 **How to**: Head over to Settings > Accessibility > Motion and ensure that "Limit Refresh Rate" _isn't_ enabled. If it is, your iPad's screen will remain locked to 60Hz, and who even uses 60Hz screens anymore?
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136627/26400" target="_top" id="2136627">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136627" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136627/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 9\. Tweak the Control Center
 
@@ -188,24 +188,21 @@ Using the TrueDepth cameras, Attention Awareness can keep tabs on when you're lo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-high-quality-video-capture-for-beginner-creators/"><u>[New] 2024 Approved High-Quality Video Capture for Beginner Creators</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-hit-the-jackpot-of-humor-craft-top-tier-youtube-reaction-videos-3-techniques/"><u>[New] 2024 Approved Hit the Jackpot of Humor – Craft Top-Tier YouTube Reaction Videos (3 Techniques)</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-convert-youtube-videos-to-gifs/"><u>[New] 2024 Approved How to Convert YouTube Videos to GIFs</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-audio-to-action-mp3-to-youtube-conversion-journey/"><u>[New] In 2024, From Audio to Action MP3-to-YouTube Conversion Journey</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-penniless-to-partnered-a-small-channels-journey/"><u>[New] In 2024, From Penniless to Partnered A Small Channel's Journey</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-script-to-screen-youtube-studio-editing-workshop-guide/"><u>[New] In 2024, From Script to Screen YouTube Studio Editing Workshop Guide</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/new-in-2024-tricks-to-perfect-time-lapses-using-samsung-cameras/"><u>[New] In 2024, Tricks to Perfect Time-Lapses Using Samsung Cameras</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/new-quick-guide-3-step-process-to-video-talk-via-snapchat/"><u>[New] Quick Guide 3-Step Process to Video Talk via Snapchat</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-fan-to-earner-understanding-view-requirements/"><u>[Updated] 2024 Approved From Fan to Earner Understanding View Requirements</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-gain-profit-power-the-secret-of-successful-youtube-marketing-and-500plus/"><u>[Updated] 2024 Approved Gain Profit Power The Secret of Successful Youtube Marketing & 500+</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-the-ultimate-tutorial-blocking-youtube-ads-on-all-platforms/"><u>[Updated] 2024 Approved The Ultimate Tutorial Blocking YouTube Ads on All Platforms</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-first-timers-manual-for-cool-mac-crafted-youtube-clips/"><u>[Updated] In 2024, First-Timer's Manual for Cool, Mac-Crafted YouTube Clips</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/ai-powered-vision-and-sound-the-new-capabilities-of-the-google-assistant/"><u>AI-Powered Vision and Sound: The New Capabilities of the Google Assistant</u></a></li>
-<li><a href="https://driver-install.techidaily.com/download-hp-laserjet-1102w-for-pcs/"><u>Download HP LaserJet 1102W for PCs</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-lost-data-from-iphone-12-mini-after-ios-update-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Recover Lost Data from iPhone 12 mini After iOS Update? | Stellar</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-complete-fixes-to-solve-apple-iphone-14-pro-max-randomly-asking-for-apple-id-password-drfone-by-drfone-ios/"><u>In 2024, Complete Fixes To Solve Apple iPhone 14 Pro Max Randomly Asking for Apple ID Password | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/install-the-most-recent-drivers-for-your-hp-designjet-500-with-this-guide/"><u>Install the Most Recent Drivers for Your HP DesignJet 500 with This Guide</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/masterful-moments-made-simple-the-snapchat-lens-guide/"><u>Masterful Moments Made Simple The Snapchat Lens Guide</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/video-creation-in-classroom-video-editing-tips/"><u>Video Creation in Classroom Video Editing Tips</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/best-unrestricted-free-video-compression-tools-without-any-watermarks-top-picks/"><u>Best Unrestricted Free Video Compression Tools Without Any Watermarks – Top Picks!</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/boost-your-icloud-photostream-capacity-without-spending-a-penny-tips-and-tricks/"><u>Boost Your iCloud Photostream Capacity Without Spending a Penny: Tips and Tricks</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/budget-mastery-how-much-investment-needed/"><u>Budget Mastery How Much Investment Needed?</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/elevez-la-qualite-de-vos-videos-avec-lintelligence-artificielle-de-winxvideo/"><u>Élevez La Qualité De Vos Vidéos Avec L'intelligence Artificielle De Winxvideo</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/essential-info-for-streaming-high-definition-4k-content-on-your-mac-system/"><u>Essential Info for Streaming High-Definition 4K Content on Your Mac System</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/examining-instagrams-per-video-content-restrictions/"><u>Examining Instagram's Per-Video Content Restrictions</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/guida-completa-per-convertire-i-file-wmv-in-mp4-con-una-conservazione-di-qualita-superiore-al-98-gratuitamente/"><u>Guida Completa per Convertire I File WMV in MP4 Con Una Conservazione Di Qualità Superiore Al 98% Gratuitamente</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/in-2024-exploring-advanced-phone-lenses-in-ios-11/"><u>In 2024, Exploring Advanced Phone Lenses in iOS 11</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-oneplus-11-5g-pattern-lock-if-forgotten-6-ways-by-drfone-android/"><u>In 2024, How to Unlock OnePlus 11 5G Pattern Lock if Forgotten? 6 Ways</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/24-unlock-video-insights-mastering-youtube-statistics-with-social-blade/"><u>In 2024, Unlock Video Insights Mastering YouTube Statistics with Social Blade</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-steam-error-troubleshooting-e84-edition/"><u>Mastering Steam Error Troubleshooting: E84 Edition</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/meilleures-logiciels-de-capture-decran-pour-systemes-derniers-windows-desenhador-perfeito-para-windows-1087/"><u>Meilleures Logiciels De Capture D'écran Pour Systèmes Derniers Windows - Desenhador Perfeito Para Windows 10/8/7</u></a></li>
+<li><a href="https://extra-information.techidaily.com/techniques-for-elevating-your-tiktok-unboxing-popularity/"><u>Techniques for Elevating Your TikTok Unboxing Popularity</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unleash-your-pc-potential-gpt-3s-repair-guide/"><u>Unleash Your PC Potential - GPT-3's Repair Guide</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/windows-11blu-ray/"><u>Windows 11におけるBlu-Rayの再生問題：原因究明とトラブルシューティング</u></a></li>
+<li><a href="https://howto.techidaily.com/xiaomi-redmi-12-not-receiving-texts-10-hassle-free-solutions-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Xiaomi Redmi 12 Not Receiving Texts? 10 Hassle-Free Solutions Here | Dr.fone</u></a></li>
 </ul></div>
 

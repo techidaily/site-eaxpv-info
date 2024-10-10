@@ -1,7 +1,7 @@
 ---
 title: AI Breakthroughs Set to Amplify Capabilities of M4 iPad Pro Announced for Worldwide Developers Conference Showcase | Tech Analysis by ZDNET
-date: 2024-09-27T16:49:42.846Z
-updated: 2024-10-04T17:21:32.228Z
+date: 2024-10-05T20:45:35.167Z
+updated: 2024-10-09T19:37:21.006Z
 tags:
   - apple
 categories:
@@ -42,18 +42,18 @@ Now, here's the thing. I tried watching a couple of Marvel 3D movies via Disney+
 
 I'm guessing that Apple's 3Difying of a 2D image will be at about the same level. 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135354/19272" target="_top" id="2135354">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135354" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135354/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Watch those images together using SharePlay in the Photos app
 
 And here's another feature that I can't imagine any users clamoring for. Now, if you have multiple Vision Pro users, they can all see and discuss the same image together while using the Photos app. 
 
 So, yeah, if Grandma Sadie in Seattle has a Vision Pro, Cousin Marty in Miami has a Vision Pro, and you have a Vision Pro in Yuma, you can all stand around the virtual photo screen and ooh and ah over pictures of baby Alice. 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111994/7443" target="_top" id="2111994">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111994" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111994/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 3\. Gestures for opening Home View and Control Center
 
@@ -62,13 +62,6 @@ While it's easy enough to open Vision Pro's home view (the field of app icons) b
 In VisionOS 2, there are gestures. Holding your hand palm up and tapping fingers opens the app view. Flipping your hand over will give you time and battery level. A finger tap in this position will open up Control Center. 
 
 Unlike the previous two features, this _is_ a quality of life improvement. 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938750/19272" target="_top" id="1938750">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938750" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938750/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 4\. Mac virtual display improvements
 
@@ -79,10 +72,10 @@ Screenshot by David Gewirtz/ZDNET
 On the other hand, Apple "later this year" will enable you to create displays with more resolutions. The most interesting is the full wrap-around display, which will be the equivalent of two 4K monitors. 
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/857865/11832" target="_top" id="857865">
-  <img src="//a.impactradius-go.com/display-ad/11832-857865" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144274/7443" target="_top" id="2144274">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144274" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857865/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144274/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Choo-choo train mode
@@ -100,6 +93,13 @@ There are a ton of VR and AR APIs in Apple's platforms. But this week, at WWDC, 
 * **Volumetric API:** Allows complex 3D apps to run side-by-side. A volumetric API is at the core of most 3D content, because it allows developers to create, manage, and present volumetric content. My read on this announcement is not the introduction of a Volumetric API, but that it can allow multiple 3D apps to run concurrently.
 * **TabletopKit:** Helps developers create apps that anchor to flat surfaces. One obvious example is board game kits, but this could apply to interior design apps, architectural and construction projects, gaming, navigation, and more.
 * **Enterprise APIs:** These were described as enterprise-specific APIs, so we can assume they're somewhat special purpose. Examples given were surgical training and manufacturing.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 7\. New Canon spatial lens for creating spatial video
 
@@ -120,10 +120,10 @@ Apple is opening up the format for third-party creators to create immersive vide
 Even so, I think this is great. Those immersive videos are fantastic. 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137225/26400" target="_top" id="2137225">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137225" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115921/19272" target="_top" id="2115921">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115921" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137225/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115921/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Other new features
@@ -179,24 +179,20 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-get-a-cleaner-look-in-your-videos-quickly-and-easily/"><u>[New] 2024 Approved Get a Cleaner Look in Your Videos Quickly and Easily</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/new-dissecting-the-capabilities-of-magixs-photo-manager-for-2024/"><u>[New] Dissecting the Capabilities of MAGIX's Photo Manager for 2024</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/n-2024-elevate-your-youtube-presence-banners-for-gamers/"><u>[New] In 2024, Elevate Your YouTube Presence Banners for Gamers</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-filmmaking-mastery-youtube-trailer-design-with-filmora/"><u>[New] In 2024, Filmmaking Mastery YouTube Trailer Design with Filmora</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-finding-your-video-complement-the-process-of-collaborative-pairing/"><u>[New] In 2024, Finding Your Video Complement The Process of Collaborative Pairing</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-fresh-funds-finds-economical-monetization-platforms-for-beginners/"><u>[New] In 2024, Fresh Funds Finds Economical Monetization Platforms for Beginners</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-find-your-comments-on-youtube-on-desktopiphoneandroid/"><u>[New] In 2024, How to Find Your Comments on YouTube on Desktop/iPhone/Android</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-screenflow-pros-mac-saga-full-evaluation-report/"><u>[New] In 2024, ScreenFlow Pro's Mac Saga - Full Evaluation Report</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-google-meet-on-youtube-streaming-made-easy-step-by-step/"><u>[Updated] 2024 Approved Google Meet on YouTube Streaming Made Easy, Step by Step</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-historical-discoveries-at-your-screen-10-best-educational-youtubers-for-2024/"><u>[Updated] Historical Discoveries at Your Screen - 10 Best Educational YouTubers for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-fostering-collaborations-building-partnerships-to-promote-videos/"><u>[Updated] In 2024, Fostering Collaborations Building Partnerships to Promote Videos</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-hidden-pitfalls-investing-in-fraudulent-subscribers/"><u>[Updated] In 2024, Hidden Pitfalls Investing in Fraudulent Subscribers</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-confirm-your-youtube-account-securely/"><u>[Updated] In 2024, How to Confirm Your YouTube Account Securely?</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-detect-and-remove-spyware-on-motorola-moto-g-5g-2023-drfone-by-drfone-virtual-android/"><u>How to Detect and Remove Spyware on Motorola Moto G 5G (2023)? | Dr.fone</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-reset-apple-id-and-apple-password-on-iphone-8-plus-by-drfone-ios/"><u>How to Reset Apple ID and Apple Password On iPhone 8 Plus</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-contacts-files-from-poco-x6-by-fonelab-android-recover-contacts/"><u>How To Restore Missing Contacts Files from Poco X6.</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/in-2024-recordingrealm-expedition-unveiling-snapcastpro-2023/"><u>In 2024, RecordingRealm Expedition Unveiling 'SnapCastPro' 2023</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-sim-unlock-nokia-c02-phones-without-code-2-ways-to-remove-android-sim-lock-by-drfone-android/"><u>In 2024, Sim Unlock Nokia C02 Phones without Code 2 Ways to Remove Android Sim Lock</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/the-ultimate-5-service-picks-to-boost-and-polish-your-twitch-channel/"><u>The Ultimate 5 Service Picks to Boost and Polish Your Twitch Channel</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-screen-capture-essentials-the-finest-zero-cost-apps-for-win-10-users-for-2024/"><u>[New] Screen Capture Essentials The Finest Zero-Cost Apps for Win 10 Users for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/8-ultimate-fixes-for-google-play-your-oneplus-ace-2-pro-isnt-compatible-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Ultimate Fixes for Google Play Your OnePlus Ace 2 Pro Isnt Compatible | Dr.fone</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/discover-the-best-13-no-cost-dvd-players-that-work-seamlessly-on-windows-11-systems/"><u>Discover the Best 13 No-Cost DVD Players That Work Seamlessly on Windows 11 Systems!</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-on-apple-iphone-6-plus-drfone-by-drfone-virtual-ios/"><u>How to Fake Snapchat Location on Apple iPhone 6 Plus | Dr.fone</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/how-windows-10-s-stands-against-windows-customer/"><u>How Windows 10 S Stands Against Windows [Customer]:</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-oppo-f23-5g-drfone-by-drfone-virtual/"><u>In 2024, 9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Oppo F23 5G | Dr.fone</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/24-advanced-techniques-for-trimming-youtube-footage/"><u>In 2024, Advanced Techniques for Trimming YouTube Footage</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-complete-tutorial-to-use-vpna-to-fake-gps-location-on-apple-iphone-11-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, Complete Tutorial to Use VPNa to Fake GPS Location On Apple iPhone 11 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-top-5-hd-cameras-for-game-watching/"><u>In 2024, Top 5 HD Cameras for Game Watching</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-twice-the-joy-television-looping-of-online-video/"><u>In 2024, Twice the Joy Television Looping of Online Video</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/professionelle-online-beratung-fur-die-verwendung-von-winx-dvd-ripping-und-videokonvertierungstools/"><u>Professionelle Online-Beratung Für Die Verwendung Von WinX DVD Ripping Und Videokonvertierungstools</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/region-unlocking-dvds-on-windows-1187-free-conversion-methods-explored/"><u>Region Unlocking DVDs on Windows 11/8/7: Free Conversion Methods Explored</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/top-10-recomendables-player-de-archivos-mkv-para-windows-y-mac-comparativa-y-resena-completa-2020/"><u>Top 10 Recomendables Player De Archivos MKV Para Windows Y Mac: Comparativa Y Reseña Completa (2020)</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/transform-videosaudio-rapidly-using-winxvideo-ai-the-power-of-gpu-acceleration-unleashed/"><u>Transform Videos/Audio Rapidly Using Winxvideo AI: The Power of GPU Acceleration Unleashed</u></a></li>
+<li><a href="https://windows11.techidaily.com/troubleshooting-and-correcting-utorrent-installation-errors-in-winos/"><u>Troubleshooting and Correcting uTorrent Installation Errors in WinOS</u></a></li>
 </ul></div>
 

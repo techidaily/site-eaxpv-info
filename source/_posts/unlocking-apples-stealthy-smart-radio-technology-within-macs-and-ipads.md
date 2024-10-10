@@ -1,7 +1,7 @@
 ---
 title: Unlocking Apple's Stealthy Smart Radio Technology Within Macs and iPads
-date: 2024-10-03T16:25:37.116Z
-updated: 2024-10-04T16:00:10.598Z
+date: 2024-10-02T17:42:25.899Z
+updated: 2024-10-10T02:02:42.885Z
 tags:
   - apple
 categories:
@@ -58,16 +58,16 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 Since the iPad and Mac run Apple's Home app, they could function as Thread border routers, integrating more seamlessly with smart home networks. This could indicate the iPad's return to functioning as a smart home hub. 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135401/19272" target="_top" id="2135401">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135401" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135401/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to check if your iPad or Mac has a Thread radio
 
 The best way to determine if your device has a Thread radio built-in is to look for evidence of Thread testing in the device's [FCC reports](https://fcc.report/). 
+
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576477/17382" target="_top" id="1576477">
+  <img src="//a.impactradius-go.com/display-ad/17382-1576477" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576477/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 1\. Find your device's model number or FCC ID
 
@@ -77,6 +77,13 @@ You can also look for your [iPad](https://support.apple.com/en-us/108043), [MacB
 
 **Also: [The M4 iPad Pro's true potential will be realized at WWDC, and AI will have a lot to do with it](https://www.zdnet.com/article/the-m4-ipad-pros-true-potential-will-be-realized-at-wwdc-and-ai-will-have-a-lot-to-do-with-it/)**
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115932/19272" target="_top" id="2115932">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115932" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Access the Apple FCC database
 
 You can access the Apple FCC database by clicking [FCC.Report/company/Apple](https://fcc.report/company/apple). This will bring up a complete list of the company's FCC reports, from the first one in 1981 through today.
@@ -84,6 +91,19 @@ You can access the Apple FCC database by clicking [FCC.Report/company/Apple](htt
 ## 3\. Search for your device's model number or FCC ID
 
 Search for your device's model number or FCC ID by performing a quick **Find** using _Ctrl F_ or _cmd F_.
+
+<!-- affiliate ads begin -->
+<span id="1424531">
+					<video width="864" height="NaN" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424531.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424531">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424531.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424531%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424531/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Click on the device's report
 
@@ -97,13 +117,6 @@ Search for any test reports mentioning "Thread" or "IEEE 802.15.4," which is the
 
 If a Thread radio exists in that device, you should find a report of its compliance testing since a non-existent feature wouldn't be tested.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902304/19272" target="_top" id="1902304">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902304" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902304/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## FAQ
 
 ## What is Thread?
@@ -113,13 +126,6 @@ Thread is a low-energy wireless communication protocol for smart home devices cr
 **Also: [Google is turning its TVs into Home hubs and giving devs access to over 600 million smart devices](https://www.zdnet.com/home-and-office/smart-home/google-is-turning-its-tvs-into-home-hubs-and-giving-devs-access-to-over-600-million-smart-devices/)**
 
 Thread was created as an energy-efficient and secure protocol to connect battery-powered devices, like smart home sensors, smart locks, room thermometers, lights, thermostats, and security systems. The IP-based protocol allows for easy integration with smart home ecosystems, which is Matter's main goal.
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139116/17108" target="_top" id="2139116">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139116" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139116/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## What is a Thread border router?
 
@@ -138,10 +144,10 @@ Thread creates a self-healing mesh network, so having more border routers in a s
 For example, if you have a Thread smart lock and temperature sensor and a Wi-Fi smart thermostat, a Thread border router like the HomePod mini connects the smart lock and sensor to the Wi-Fi network and enables communication between the sensor and thermostat. It also would allow you to control all three devices through a single app -- in this case, Apple Home -- even if you're not home.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918703/19272" target="_top" id="1918703">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918703" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137394/7443" target="_top" id="2137394">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137394" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918703/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137394/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Why would Apple give some iPads and Macs Thread radios and not all?
@@ -160,13 +166,6 @@ It's unclear whether iPads and Macs will eventually function as Thread border ro
 
 The new iPads and Macs with Thread radios have the necessary hardware to act as Thread border routers, but Apple needs to enable this functionality. 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972684/19272" target="_top" id="1972684">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972684" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972684/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Is the iPad a smart home hub?
 
 Not currently. The iPad used to be a smart home hub for HomeKit, but iPadOS 16 removed this capability. With that software update, Apple upgraded the Home app significantly and stopped supporting the iPad for new HomeKit features and automations. 
@@ -178,6 +177,13 @@ Apple opted to offer the smart home hub feature only to dedicated devices like t
 Giving newer iPads Thread support would bring back its smart home hub functionality and make iPads a more robust option for the smart home than before. 
 
 If users want to keep an older iPad as a smart home hub, it cannot have iOS 16 and will work only with basic HomeKit functionality, as new features and enhancements introduced after iOS 16 won't be supported.
+
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137974/21526" target="_top" id="2137974">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137974" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137974/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Would Thread replace Bluetooth for Apple peripherals?
 
@@ -219,22 +225,22 @@ The Apple Watch primarily uses Bluetooth to connect to the iPhone, but when Blue
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-flavor-forge-30-epicurean-titles-that-resonate/"><u>[New] 2024 Approved Flavor Forge 30 Epicurean Titles That Resonate</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-delete-youtube-comments-effortlessly/"><u>[New] 2024 Approved How to Delete YouTube Comments Effortlessly?</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-followers-in-motion-analyzer-for-2024/"><u>[New] Followers in Motion Analyzer for 2024</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-from-viewer-to-victor-step-by-step-windows-pc-guide-for-high-quality-live-recording/"><u>[New] From Viewer to Victor Step-by-Step Windows PC Guide for High-Quality Live Recording</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-how-to-protectively-download-youtube-audio-without-fear-for-2024/"><u>[New] How to Protectively Download YouTube Audio Without Fear for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-high-quality-hurdles-navigating-youtubes-policies-for-4k-submissions-for-2024/"><u>[Updated] High-Quality Hurdles Navigating YouTube's Policies for 4K Submissions for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-free-audio-treasures-to-amplify-youtube/"><u>[Updated] In 2024, Free Audio Treasures to Amplify YouTube</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-from-video-to-animation-easy-youtube-gif-creation-tips/"><u>[Updated] In 2024, From Video to Animation Easy YouTube GIF Creation Tips</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-convert-youtube-views-into-cash-through-ads/"><u>[Updated] In 2024, How to Convert YouTube Views Into Cash Through Ads</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-trimming-tactics-for-time-strapped-youtubers/"><u>[Updated] Trimming Tactics for Time-Strapped YouTubers</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/bambulab-x1-carbon-assessment-pinnacle-of-modern-3d-printing-technology/"><u>BambuLab X1-Carbon Assessment: Pinnacle of Modern 3D Printing Technology</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/bypass-reset-samsung-galaxy-a05-phone-screen-passcode-pattern-pin-by-drfone-android-unlock-android-unlock/"><u>Bypass/Reset Samsung Galaxy A05 Phone Screen Passcode/Pattern/Pin</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/common-fixes-to-restore-functionality-of-your-gta-5-online-experience/"><u>Common Fixes to Restore Functionality of Your GTA 5 Online Experience</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/guia-expertos-para-liberar-y-converter-contenido-de-itunes-en-mp3/"><u>Guía Expertos Para Liberar Y Converter Contenido De iTunes en MP3</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/24-7-star-rated-apps-for-effortless-youtube-live-broadcast-from-iphone-and-android/"><u>In 2024, 7 Star-Rated Apps for Effortless YouTube LIVE Broadcast From iPhone and Android</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-a-complete-guide-to-oem-unlocking-on-infinix-note-30-pro-by-drfone-android/"><u>In 2024, A Complete Guide To OEM Unlocking on Infinix Note 30 Pro</u></a></li>
-<li><a href="https://common-error.techidaily.com/quick-fixes-to-get-your-lenovo-touch-id-back-on-track/"><u>Quick Fixes to Get Your Lenovo Touch ID Back on Track</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-the-ultimate-roundup-unleashing-the-best-5-online-title-makers/"><u>[New] The Ultimate Roundup Unleashing the Best 5 Online Title Makers</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-unveiling-clearer-imagery-instagrams-video-cropping-secrets-for-2024/"><u>[Updated] Unveiling Clearer Imagery Instagram's Video Cropping Secrets for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/1-ultimate-xyz-ripper-pro-app-professional-dvd-extraction-and-hd-video-upgrader-with-smartphone-sync-feature/"><u>1. Ultimate XYZ Ripper Pro App - Professional DVD Extraction & HD Video Upgrader with Smartphone Sync Feature</u></a></li>
+<li><a href="https://extra-information.techidaily.com/10-best-classic-family-vacation-movie-for-summer-for-2024/"><u>10 Best Classic Family Vacation Movie for Summer for 2024</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/1726224542020-mp3mp4-movavi/"><u>直接上線將MP3格式變更成MP4的免費方法 - Movavi 檢視器指南</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/1725289888357-ai-fps/"><u>AI 프레임 비교 - 고해상도 FPS 성능 크로스오팩 검정</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/best-3-vivo-s18e-emulator-for-mac-to-run-your-wanted-android-apps-drfone-by-drfone-android/"><u>Best 3 Vivo S18e Emulator for Mac to Run Your Wanted Android Apps | Dr.fone</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/boost-your-h265-hevc-encoding-process-for-quicker-results/"><u>Boost Your H.265 (HEVC) Encoding Process for Quicker Results</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/download-winxdvd-premium-dvd-ripper-and-converter-software-to-seamlessly-transfer-videos-from-dvds-to-iphone/"><u>Download WinXDVD: Premium DVD Ripper & Converter Software to Seamlessly Transfer Videos From DVDs to iPhone</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/elevating-video-appeal-for-profiles-for-2024/"><u>Elevating Video Appeal for Profiles for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/losungsansatze-fur-das-problem-mit-der-hevc-abspielfahigkeit-auf-ihrem-pc-tipps-zur-fehlerbehebung/"><u>Lösungsansätze Für Das Problem Mit Der HEVC-Abspielfähigkeit Auf Ihrem PC - Tipps Zur Fehlerbehebung</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/resize-and-revitalize-your-footage-switching-video-format-from-narrow-43-to-broad-169-widescreen/"><u>Resize and Revitalize Your Footage: Switching Video Format From Narrow 4:3 to Broad 16:9 Widescreen</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/solved-move-from-realme-narzo-n53-to-ios-not-working-problems-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Solved Move from Realme Narzo N53 to iOS not Working Problems | Dr.fone</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/step-by-step-guide-viewing-your-websites-pre-upload/"><u>Step-by-Step Guide: Viewing Your Websites Pre-Upload</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/transformacion-facil-y-libre-de-costos-de-mp4-en-formato-wmv-sin-restricciones/"><u>Transformación Fácil Y Libre De Costos De MP4 en Formato WMV Sin Restricciones</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/trasforma-i-tuoi-film-vob-in-mp4-rapidamente-e-gratis-opzioni-sicure-e-insicure/"><u>Trasforma I Tuoi Film VOB in MP4 Rapidamente E Gratis - Opzioni Sicure E Insicure</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/what-makes-vector-databases-ideal-for-ai/"><u>What Makes Vector Databases Ideal for AI?</u></a></li>
 </ul></div>
 

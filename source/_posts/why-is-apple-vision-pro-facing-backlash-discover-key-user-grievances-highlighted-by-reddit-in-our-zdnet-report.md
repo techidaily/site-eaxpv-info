@@ -1,7 +1,7 @@
 ---
 title: Why Is Apple Vision Pro Facing Backlash? Discover Key User Grievances Highlighted by Reddit in Our ZDNet Report
-date: 2024-10-03T16:41:28.511Z
-updated: 2024-10-04T18:16:33.877Z
+date: 2024-10-08T01:58:47.008Z
+updated: 2024-10-09T19:08:22.134Z
 tags:
   - apple
 categories:
@@ -37,10 +37,10 @@ Apple has different sizes of light seals, and your initial scan may have landed 
 The problem isn't as simple as sizing up or down; the AVP light seal is available in N and W variants, 11-14, 21-26, and 33-36, and the numbers don't follow a size pattern like clothing. Each number fits a different face type, with variations to how far your cheeks or forehead protrude forward and how deep the light seal is, so if fit is an issue, it's worth trying out a few sizes. 
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134218/18498" target="_top" id="2134218">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134218" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2027162/19272" target="_top" id="2027162">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027162" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134218/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027162/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. The eye strain is real and there's no way around it
@@ -50,10 +50,10 @@ One might think that using your eyes and fingers to navigate a digital world wou
 Eye tracking on the AVP can be [exhausting](https://www.reddit.com/r/VisionPro/comments/1aixzwz/my%5Fonly%5Fcomplaint%5Feye%5Fstrain/), causing [eye soreness and fatigue](https://www.reddit.com/r/VisionPro/comments/1aqvsd8/love%5Fmy%5Favp%5Fbut%5Feye%5Fstrain%5Fis%5Freal%5Fand%5Fi%5Fthink/). Eye fatigue could be an issue that improves as the wearer's body becomes accustomed to the AVP, but it is a big reasons why some users are [considering returning](https://www.reddit.com/r/VisionPro/comments/1aiy4w7/anyone%5Fhaving%5Fbad%5Feye%5Fstrain%5F1015%5Fminutes%5Fafter/) the device.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135411/19272" target="_top" id="2135411">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135411" border="0" alt="https://techidaily.com" width="180" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135366/19272" target="_top" id="2135366">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135366" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135411/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135366/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. The Vision Pro is too heavy to wear for long periods
@@ -63,13 +63,6 @@ The Vision Pro weighs between 21.2 and 22.9 ounces; that's a lot of weight to we
 **Also: [I used the Apple Vision Pro for my 8-hour work day, and it left me wanting more](https://www.zdnet.com/article/i-used-the-apple-vision-pro-for-my-8-hour-work-day-and-it-left-me-wanting-more/)**
 
 Some users come up with [3D-printed modifications](https://www.reddit.com/r/VisionPro/comments/1anq3k9/almost%5Freturned%5Fit%5Fthis%5Fmod%5Fchanged%5Feverything/) to distribute the weight better; others report they can't wear it for the [length of a movie](https://www.reddit.com/r/VisionPro/comments/1any318/well%5Fafter%5Fa%5Fweek%5Fi%5Fhave%5Freturned%5Fthe%5Fvision%5Fpro/). If you want to return it, don't wait until you enter the [last stage of Vision Pro grief](https://www.reddit.com/r/VisionPro/comments/1ar2jtr/stages%5Fof%5Fvision%5Fpro%5Fgrief/) or you may miss your return window.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105883/7443" target="_top" id="2105883">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105883" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105883/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 4\. The technology is just not there yet
 
@@ -81,13 +74,6 @@ Thankfully for Apple, the Vision Pro doesn't have as long of a road to travel as
 
 Complaints about poor text rendering for smaller text, especially compared to the Apple ecosystem's Retina Displays, and stuttering during standard computational tasks are common -- which is problematic for a device marketed for productivity and work. 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972665/19272" target="_top" id="1972665">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972665" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972665/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 5\. The world of spatial computing is too lonely
 
 I can imagine putting on the AVP to watch a 3D movie or spatial video, being blown away by the technology, and exclaiming to my husband, "Oh, wow, are you seeing this?!" Only to be met by a confused look. 
@@ -96,6 +82,13 @@ Using the Apple Vision Pro can be a beautiful experience for the wearer, but eve
 
 > Using the Apple Vision Pro is like putting on a pair of headphones. Once it's on, you're isolated, immersed, lonely. I'd like to be an optimist about it, thinking that this will only be a short-term phenomenon, as 1) With time, virtual reality headsets will eventually be accepted as a piece of apparel, 2) In social environments, we'll learn how to physically communicate with each other, even with the face barrier, and 3) There will be more meaningful ways to connect with people in VR. Bringing FaceTime to Vision Pro is just the beginning.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2052062/7443" target="_top" id="2052062">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052062" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052062/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 6\. It's just too expensive
 
 We know the Vision Pro was not marketed for the Americans struggling to afford groceries; it was always meant for those early adopters willing to spend money on a big tech product like this and the developers looking to invest in the platform. 
@@ -103,6 +96,13 @@ We know the Vision Pro was not marketed for the Americans struggling to afford g
 **Also: [Don't buy an Apple Vision Pro headset without this crucial accessory](https://www.zdnet.com/article/dont-buy-an-apple-vision-pro-headset-without-this-crucial-accessory-applecare-coverage/)**
 
 But $3,500 is a lot of money for a [VR headset](https://www.zdnet.com/article/best-vr-headset/) (and that's before accessories), even for enthusiastic early adopters. As the hype wears off for the AVP, many who spent over $4,000 on it (after accessories, AppleCare+, and taxes) are left [struggling to justify the cost](https://www.reddit.com/r/VisionPro/comments/1anit76/a%5Fpart%5Fof%5Fme%5Fwants%5Fto%5Freturn%5Fit%5Fand%5Fsee%5Fif%5Fi/). 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144280/7443" target="_top" id="2144280">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144280" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144280/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 7\. 'I just wanted to try it out'
 
@@ -142,17 +142,20 @@ Apple's generous return policy enables this: The company lets you return any dev
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-gastronomy-goals-attractive-food-network-branding-ideas-for-2024/"><u>[New] Gastronomy Goals Attractive Food Network Branding Ideas for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-flash-share-sharing-playlists-in-a-snap/"><u>[Updated] 2024 Approved Flash-Share Sharing Playlists in a Snap</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-from-basic-to-exceptional-a-step-by-step-thumbnail-guide-for-2024/"><u>[Updated] From Basic to Exceptional A Step-by-Step Thumbnail Guide for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-how-much-income-arises-from-each-snapshot-video-for-2024/"><u>[Updated] How Much Income Arises From Each Snapshot (Video) for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-choose-between-youtubers-game-entrance-tutorials-cost-included/"><u>[Updated] In 2024, How to Choose Between Youtubers' Game Entrance Tutorials (Cost Included?)</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/2024-approved-elevate-your-brand-with-these-10-keywords-on-facebook/"><u>2024 Approved Elevate Your Brand with These 10 Keywords on Facebook</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/beyond-boundaries-a-comprehensive-hubsan-h501x4-study/"><u>Beyond Boundaries A Comprehensive Hubsan H501X4 Study</u></a></li>
-<li><a href="https://driver-download.techidaily.com/complete-fixes-for-network-adapter-issues-in-windows-7-operating-system/"><u>Complete Fixes for Network Adapter Issues in Windows 7 Operating System</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-14-plus-to-other-iphone-15-pro-max-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 14 Plus to other iPhone 15 Pro Max devices? | Dr.fone</u></a></li>
-<li><a href="https://win-dash.techidaily.com/hp-display-driver-errors-on-windows-os-fixes-for-vista-to-windows-10/"><u>HP Display Driver Errors on Windows OS - Fixes for Vista to Windows 10</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/revamped-interview-inquiries-to-spark-podcast-fans-curiosity-for-2024/"><u>Revamped Interview Inquiries to Spark Podcast Fans' Curiosity for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/would-chatgpt-be-able-to-assist-in-designing-fitness-regimens-that-are-both-secure-and-efficient-for-individuals-like-you/"><u>Would ChatGPT Be Able to Assist in Designing Fitness Regimens that Are Both Secure and Efficient For Individuals Like You?</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-resolving-srt-export-woes-in-adobe-premiere/"><u>[New] Resolving SRT Export Woes in Adobe Premiere</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-unlocking-mac-recording-capabilities/"><u>[New] Unlocking Mac Recording Capabilities</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-price-point-in-online-advertising/"><u>[Updated] The Price Point in Online Advertising</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/alternativas-gratis-a-pinnacle-studio-top-5-opciones-ideales-para-windows-e-imac/"><u>Alternativas Gratis a Pinnacle Studio: Top 5 Opciones Ideales Para Windows E iMac</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/best-anti-tracker-software-for-oneplus-12r-drfone-by-drfone-virtual-android/"><u>Best Anti Tracker Software For OnePlus 12R | Dr.fone</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/dbpower-600a-ultimate-charger-and-battery-booster-an-in-depth-analysis-for-an-18000mah-powerhouse/"><u>DBPOWER 600A Ultimate Charger & Battery Booster - An In-Depth Analysis for an 18,000mAh Powerhouse!</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/effortless-pdf-and-rw2-to-png-upgrade-free-downloads-via-rapidwidgets/"><u>Effortless PDF and RW2 to PNG Upgrade - Free Downloads via RapidWidgets!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/essential-fixes-for-overcoming-audio-glitches-in-windows-10/"><u>Essential Fixes for Overcoming Audio Glitches in Windows 10</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/free-online-converter-change-ogv-files-into-wmv-format-with-movavi/"><u>Free Online Converter: Change OGV Files Into WMV Format with Movavi</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/free-online-converter-change-wav-files-to-wma-format-movavi/"><u>Free Online Converter: Change WAV Files to WMA Format - Movavi</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/free-online-tool-for-mp3-to-wav-conversion-high-quality-audio-format-change-using-movavi/"><u>Free Online Tool for MP3 to WAV Conversion - High-Quality Audio Format Change Using Movavi</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/in-2024-engage-grow-and-rise-triple-threat-tactics-for-facebook-pages/"><u>In 2024, Engage, Grow, and Rise Triple Threat Tactics for Facebook Pages</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/trasforma-video-mp4-a-formato-3gp-online-e-gratuito-con-movavi/"><u>Trasforma Video MP4 a Formato 3GP Online E Gratuito Con Movavi</u></a></li>
+<li><a href="https://techtrends.techidaily.com/what-we-know-about-the-apple-car-so-far-exploring-projections-for-price-points-arrival-dates-and-technical-details/"><u>What We Know About the Apple Car So Far: Exploring Projections for Price Points, Arrival Dates, and Technical Details</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/3gpp-avi/"><u>제공자 무료 - 이슈: 3GPP AVI를 원근 바이트 형식으로 전환하기</u></a></li>
 </ul></div>
 

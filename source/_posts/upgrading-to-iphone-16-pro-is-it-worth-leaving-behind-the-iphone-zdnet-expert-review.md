@@ -1,7 +1,7 @@
 ---
 title: Upgrading to iPhone 16 Pro - Is It Worth Leaving Behind the iPhone ˈ|ZDNET Expert Review
-date: 2024-09-27T18:41:36.339Z
-updated: 2024-10-04T18:38:18.749Z
+date: 2024-10-08T02:09:09.437Z
+updated: 2024-10-10T01:52:32.984Z
 tags:
   - apple
 categories:
@@ -41,22 +41,15 @@ As an iPhone 14 Pro Max user, I'm not convinced that the new AI-enabled [iPhone 
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137223/26400" target="_top" id="2137223">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137223" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137223/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## You should buy the iPhone 16 Pro if…
 
 Jason Hiner/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047366/19272" target="_top" id="2047366">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047366" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948881/19272" target="_top" id="1948881">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948881" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047366/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948881/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 1\. You want Apple Intelligence
@@ -67,6 +60,13 @@ Apple's artificial intelligence push, aptly named Apple Intelligence, will be av
 
 To run smoothly, the Apple Intelligence features require an A17 chip or newer and at least 8GB of RAM, but the iPhone 14 Pro has the A16 chip and only 6GB of RAM. The iPhone 16 Pro features an A18 Pro chip and 8GB of RAM, making it a good device to run Apple's AI features. 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006919/19272" target="_top" id="2006919">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006919" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006919/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 2\. You'd like to get your hands on the bigger screen
 
 Apple has thinned out the iPhone 16 Pro's bezels to the bare minimum and stretched the Pro models' displays to 6.3 and 6.9 inches for the 16 Pro and 16 Pro Max, respectively. This gives users more screen real estate to watch videos, play games, view and edit documents, and read shared screens on video conferences.
@@ -74,6 +74,19 @@ Apple has thinned out the iPhone 16 Pro's bezels to the bare minimum and stretch
 **Also: [Every iPhone 16 model compared: Which iPhone should you buy today?](https://www.zdnet.com/article/every-iphone-16-model-compared-which-iphone-should-you-buy-today/)**
 
 The larger smartphone also means that the iPhone 16 Pro has a larger battery than the 14 Pro, at 3,355 mAh compared to 3,200 mAh. But even without the welcome battery upgrade, the new Pro models support faster charging than ever. The iPhone 16 Pro supports 40W wired charging and 20W of MagSafe charging, so if you find the iPhone 14 Pro's charging slow, it could be time to upgrade.
+
+<!-- affiliate ads begin -->
+<span id="2135472">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 3\. You love taking beautiful photos
 
@@ -84,6 +97,13 @@ The iPhone 16 Pro features some of the best camera enhancements, including the i
 If you love taking photos with your smartphone, the camera upgrades alone may be enough to upgrade to an iPhone 16 Pro. The optical zoom is now 5x, an upgrade from the iPhone 14 Pro's 3x zoom. The iPhone 16 Pro will also feature Apple's new capture button, which lets you control the camera with gestures, like moving your finger and tapping the touch-enabled button. 
 
 [Pre-order the iPhone 16 Pro View now at Apple](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-iphone%2Fiphone-16-pro&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111981/7443" target="_top" id="2111981">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111981" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111981/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## You should buy (or keep) the iPhone 14 Pro if…
 
@@ -97,13 +117,6 @@ Even with the Apple Intelligence features, the iPhone 16 seems to be an incremen
 
 [Rumors](https://9to5mac.com/2024/07/12/iphone-16-new-features-worth-the-wait/) suggest the iPhone 17 may feature more dramatic design and functionality updates, making it a worthwhile jump. Besides, upgrading after two generations can be costly, which brings me to my next point. 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880972/19272" target="_top" id="1880972">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880972" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880972/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 2\. You just finished paying it off
 
 One of the biggest reasons to hold off on an upgrade is financial. The iPhone 14 Pro started at $900 at launch, which isn't pocket change. Most buyers choose a 12-, 18-, or 24-month financing option through a carrier or Apple on a new iPhone. If you're one of them and just finished paying off your iPhone 14 Pro and feel like you're not financially ready to commit to another payment plan, it may be worth passing on the new iPhone 16 Pro.
@@ -113,19 +126,6 @@ One of the biggest reasons to hold off on an upgrade is financial. The iPhone 14
 As an iPhone 14 Pro Max user, I'm still pretty happy with how my iPhone performs, its battery life, and charging time. While USB-C charging would be convenient, I don't see myself springing for the new iPhone 16 Pro, though I may go for the iPhone 17 when it's launched.
 
 [iPhone 14 Pro (Pre-owned) $627.45 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BN95FRW9%3FlinkCode%3Dogi%26th%3D1%26psc%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C898e5dd5-72c4-498c-8554-54fe4801040e%7Cdtp&dtb=1)
-
-<!-- affiliate ads begin -->
-<span id="1424529">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424529.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424529">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424529.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424529%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424529/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Alternatives to consider
 
@@ -161,24 +161,18 @@ As an iPhone 14 Pro Max user, I'm still pretty happy with how my iPhone performs
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-download-youtube-playlist-step-by-step/"><u>[New] 2024 Approved How to Download YouTube Playlist-Step by Step</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-from-zero-to-hero-crafting-an-authoritative-online-self-for-2024/"><u>[New] From Zero to Hero Crafting an Authoritative Online Self for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-how-to-make-a-cool-intro-for-youtube-plusfree-templates-for-2024/"><u>[New] How to Make a Cool Intro for YouTube? [+Free Templates] for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-premier-videography-devices-reviewed-2024-selection/"><u>[New] Premier Videography Devices Reviewed - 2024 Selection</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-fifa-footage-analysis-trendy-video-patterns/"><u>[Updated] 2024 Approved FIFA Footage Analysis Trendy Video Patterns</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-finding-the-sweet-spot-optimal-youtube-video-upload-rates-for-growth/"><u>[Updated] 2024 Approved Finding the Sweet Spot Optimal YouTube Video Upload Rates for Growth</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-convert-youtube-to-mp3-in-3-ways-safe/"><u>[Updated] 2024 Approved How to Convert YouTube to MP3 in 3 Ways [Safe]</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-crafting-compelling-narratives-with-facebook-cover-vids/"><u>[Updated] Crafting Compelling Narratives with Facebook Cover Vids</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-pinpoint-premium-video-keywords-on-youtube-for-2024/"><u>[Updated] How to Pinpoint Premium Video Keywords on YouTube for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-disableremove-youtube-shorts-permanently/"><u>[Updated] In 2024, How to Disable/Remove YouTube Shorts Permanently?</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-edit-youtube-videos-ultimate-guide/"><u>[Updated] In 2024, How To Edit YouTube Videos [Ultimate Guide]</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/flashback-fixer-photo-file-revival/"><u>Flashback Fixer: Photo File Revival</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/from-novice-to-pro-streamlining-your-win11-zoom-sessions-for-2024/"><u>From Novice to Pro Streamlining Your Win11 Zoom Sessions for 2024</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-change-vivo-y77t-lock-screen-password-by-drfone-android/"><u>How To Change Vivo Y77t Lock Screen Password?</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-honor-x50-gt-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Honor X50 GT</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-use-special-features-virtual-location-on-lava-blaze-2-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How To Use Special Features - Virtual Location On Lava Blaze 2 5G? | Dr.fone</u></a></li>
-<li><a href="https://fox-http.techidaily.com/key-top-5-ultra-light-action-recording-models/"><u>Key Top 5 Ultra-Light Action Recording Models</u></a></li>
-<li><a href="https://facebook.techidaily.com/navigating-the-layers-of-facebooks-white-listing/"><u>Navigating the Layers of Facebook's White Listing</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-the-ultimate-dvr-face-off-tivo-vs-comcast-xfinity-for-2024/"><u>New The Ultimate DVR Face-Off TiVo vs Comcast Xfinity for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-inside-vivas-video-app-a-complete-analysis/"><u>[New] Inside Viva's Video App A Complete Analysis</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-elevate-your-content-with-these-top-keyword-discovery-tools/"><u>[Updated] 2024 Approved Elevate Your Content with These Top Keyword Discovery Tools</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-androids-compendium-for-synchronized-and-curved-videography/"><u>[Updated] Android's Compendium for Synchronized & Curved Videography</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-transform-still-photos-using-illustration-for-dynamic-effects/"><u>2024 Approved Transform Still Photos Using Illustration for Dynamic Effects</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/download-the-ultimate-winx-media-transcoder-convert-dvds-to-mp4-format-on-windows-10/"><u>Download the Ultimate WinX Media Transcoder: Convert DVDs to MP4 Format on Windows 10</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/efficient-techniques-for-downsizing-videoclips-for-seamless-sharing-on-whatsapp/"><u>Efficient Techniques for Downsizing Videoclips for Seamless Sharing on WhatsApp</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/enhancing-your-iphone-experience-with-ultra-hd-video-playback-support/"><u>Enhancing Your iPhone Experience with Ultra HD Video Playback Support</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/estrategias-clave-optimizacion-del-proceso-de-secuencia-transferencia-y-restauracion-de-datos/"><u>Estrategias Clave: Optimización Del Proceso De Secuencia, Transferencia Y Restauración De Datos</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/guida-rapido-e-facile-trasformare-un-file-iso-immagine-in-formato-mp4-in-meno-di-5-minuti/"><u>Guida Rapido E Facile: Trasformare Un File ISO Immagine in Formato MP4 in Meno Di 5 Minuti</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-top-4-sim-location-trackers-to-easily-find-your-lost-poco-m6-5g-device-by-drfone-android/"><u>In 2024, Top 4 SIM Location Trackers To Easily Find Your Lost Poco M6 5G Device</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/navigating-through-customization-mastering-the-configurations-menu-options/"><u>Navigating Through Customization: Mastering the Configurations Menu Options</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/synchronized-screenshots-pc-or-cloud-perfection-for-2024/"><u>Synchronized Screenshots PC or Cloud Perfection for 2024</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-the-best-value-video-editing-software-for-your-money-for-2024/"><u>Updated The Best Value Video Editing Software for Your Money for 2024</u></a></li>
 </ul></div>
 

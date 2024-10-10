@@ -1,7 +1,7 @@
 ---
 title: Energy Efficiency Improvements Across Various Sectors (Industry, Transportation, Buildings) Lower Overall Energy Consumption and Associated Emissions.
-date: 2024-10-03T17:22:04.518Z
-updated: 2024-10-04T17:57:56.666Z
+date: 2024-10-05T20:41:47.383Z
+updated: 2024-10-09T22:16:56.544Z
 tags:
   - apple
 categories:
@@ -60,13 +60,6 @@ Maria Diaz/ZDNET
 * In the Notes app, users can **record and transcribe audio**, which Apple Intelligence will generate a text summary of. This experience is also available in the Notes phone app.
 * Apple Intelligence is free on iOS 18, iPadOS 18, and MacOS Sequoia, and will be available to try in English only this summer.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134223/18498" target="_top" id="2134223">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134223" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134223/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Partnership with OpenAI
 
 Jason Hiner/ZDNET
@@ -93,6 +86,13 @@ Adam Breeden/ZDNET
 * The **Safari app** was upgraded to include key information about a webpage. You can read more about the Safari upgrades under the MacOS section of this article.
 * The **Calendar app** can now pull from the Reminders app for a more seamless schedule overview.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130891/7443" target="_top" id="2130891">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130891" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130891/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## WatchOS 11
 
 Adam Breeden/ZDNET
@@ -108,16 +108,10 @@ Adam Breeden/ZDNET
 * Another notable change is that the **double tap gesture** can be used to scroll through apps.
 
 <!-- affiliate ads begin -->
-<span id="1977006">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977006.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977006">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977006.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977006%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977006/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://25home.pxf.io/c/5597632/2148642/16836" target="_top" id="2148642">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148642" border="0" alt="https://techidaily.com" width="300" height="50"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148642/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## iPadOS 18
@@ -130,6 +124,13 @@ Adam Breeden/ZDNET
 * Handwriting in Notes also got an upgrade with **Smart** **Script**, which refines users' writing to make it more legible while keeping the authenticity of the user's handwriting style. The feature can also match copied and pasted text to the user's handwriting. Typed text was also enhanced, with five new highlight colors and the ability to toggle sections under headings or subheadings.
 * iPadOS 18 supports **screen-sharing via SharePlay** and the same Control Center customizations, Photos app upgrades, Safari updates, and emoji Tapbacks found in **iOS 18.**
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012420/19272" target="_top" id="2012420">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012420" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012420/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## MacOS 15 (Sequoia)
 
 Adam Breeden/ZDNET
@@ -140,13 +141,6 @@ Adam Breeden/ZDNET
 * **Video meetings** are also getting an upgrade, with new backgrounds and a preview experience that allows you to see what you are about to share before sharing it. This feature works with popular video conferencing applications such as FaceTime and Zoom.
 * The **AI summarization** tool will live in Safari to help users process content like web pages and articles more efficiently. Safari will also assist users in discovering more helpful information about a page they are browsing when relevant, such as directions.
 * Apple also launched a new **Viewer experience**, which does for video what Reader does for text.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975816/19272" target="_top" id="1975816">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975816" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975816/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## VisionOS 2
 
@@ -174,10 +168,10 @@ Jason Hiner/ZDNET
 * Apple is also releasing a **Personalized Spatial Audio API** for game developers to build around the AirPods' audio technology.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135350/19272" target="_top" id="2135350">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135350" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1886019/19272" target="_top" id="1886019">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886019" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135350/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886019/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## tvOS 18
@@ -224,19 +218,24 @@ Screenshot by Nina Raemont/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-raw-footage-to-polished-content-youtube-studio-edition/"><u>[New] 2024 Approved From Raw Footage to Polished Content YouTube Studio Edition</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-guerrilla-marketing-for-youtube-upping-video-traffic/"><u>[New] 2024 Approved Guerrilla Marketing for YouTube Upping Video Traffic</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/new-in-2024-decoding-photopeas-art-of-backdrop-elimination/"><u>[New] In 2024, Decoding Photopea's Art of Backdrop Elimination</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-thrift-in-tech-streaming-free-seminars-on-youtube/"><u>[New] Thrift in Tech Streaming FREE Seminars on YouTube</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-follow-the-footsteps-of-fan-driven-forums/"><u>[Updated] 2024 Approved Follow the Footsteps of Fan-Driven Forums</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-get-back-to-pure-content-how-to-block-youtube-ads-on-all-devices/"><u>[Updated] In 2024, Get Back to Pure Content How to Block YouTube Ads on All Devices</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-add-timestamps-on-youtube-video-link/"><u>[Updated] In 2024, How to Add Timestamps on YouTube Video Link?</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-never-a-cap-on-saved-instagram-stories-for-2024/"><u>[Updated] Never a Cap on Saved Instagram Stories for 2024</u></a></li>
-<li><a href="https://win-tutorials.techidaily.com/1726222718066-mka-mp4-movavi/"><u>提高效率，價格便宜！移植 MKA 到 MP4 ：透過 Movavi 進行轉檔的指南</u></a></li>
-<li><a href="https://discover-advanced.techidaily.com/automated-traffic-generation-with-cookiebot-technology/"><u>Automated Traffic Generation with Cookiebot Technology</u></a></li>
-<li><a href="https://win-answers.techidaily.com/deciphering-cod-warzone-pacific-chaos-resolution/"><u>Deciphering COD: Warzone Pacific Chaos Resolution</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/entrepreneurs-guide-navigating-through-essential-ai-applications/"><u>Entrepreneur's Guide: Navigating Through Essential AI Applications</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/in-2024-capturing-life-in-new-ways-hero-4-and-hero-5/"><u>In 2024, Capturing Life in New Ways Hero 4 & Hero 5</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-most-favored-5-iphones-podcast-apps/"><u>In 2024, Most Favored 5 iPhones Podcast Apps</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-editing-workshop-portal/"><u>[New] 2024 Approved Editing Workshop Portal</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-in-2024-first-steps-in-uav-world-the-syma-x5c-review-sets-you-up-right/"><u>[New] In 2024, First Steps in UAV World? The Syma X5C Review Sets You Up Right</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-21-vegas-pro-insights-an-expert-breakdown/"><u>[Updated] '21 Vegas Pro Insights – An Expert Breakdown</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-full-screen-pro-excellence-4-precise-pc-and-mac-tools/"><u>[Updated] Full Screen Pro Excellence 4 Precise PC & Mac Tools</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-incredible-live-stream-options-a-compilation/"><u>2024 Approved Incredible Live Stream Options - A Compilation</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/breakthrough-youtube-success-essential-tips-from-creator-studio-guide-for-2024/"><u>Breakthrough YouTube Success Essential Tips From Creator Studio Guide for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/combine-like-terms-on-the-right-side-of-the-equation/"><u>Combine Like Terms on the Right Side of the Equation:</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/connect-with-creativity-discover-your-digital-masterpiece/"><u>Connect with Creativity: Discover Your Digital Masterpiece</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-your-latest-nvidia-graphics-drivers-windows-compatible-and-gaming-optimized/"><u>Get Your Latest NVIDIA Graphics Drivers - Windows Compatible & Gaming Optimized</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/how-to-effortlessly-extract-and-transform-your-favorite-vimeo-clips-into-crystal-clear-mp3-audios/"><u>How to Effortlessly Extract and Transform Your Favorite Vimeo Clips Into Crystal Clear MP3 Audios!</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/how-to-successfully-add-av1-encoder-support-in-windows-11-a-comprehensive-guide/"><u>How to Successfully Add AV1 Encoder Support in Windows 11: A Comprehensive Guide</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-3-easy-methods-to-unlock-icloud-locked-iphone-7-plusipadipod-by-drfone-ios/"><u>In 2024, 3 Easy Methods to Unlock iCloud Locked iPhone 7 Plus/iPad/iPod</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/24-step-by-step-strategy-crafting-video-ads-without-spending-a-dime/"><u>In 2024, Step-by-Step Strategy Crafting Video Ads without Spending a Dime</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/pubg-knives-out-iosandroidand/"><u>PUBG: Knives Out - IOS/Android版デフォルトダウンロード&日本語指導手引き</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/resolving-this-pc-unable-to-support-windows-11-issue/"><u>Resolving 'This PC Unable to Support Windows 11' Issue</u></a></li>
+<li><a href="https://extra-information.techidaily.com/subtract-and-add-quick-srt-to-sub/"><u>Subtract and Add Quick SRT to SUB</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/top-5-tecnicas-mas-efectivas-para-mejorar-la-nitidez-de-imagenes-en-2024/"><u>Top 5 Técnicas Más Efectivas Para Mejorar La Nitidez De Imágenes en 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/top-6-methods-for-transferring-your-dvd-content-onto-a-pc/"><u>Top 6 Methods for Transferring Your DVD Content Onto a PC</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/troubleshooting-and-solutions-for-high-dpi-settings-with-windows-1011-and-a-4k-monitor/"><u>Troubleshooting and Solutions for High-DPI Settings with Windows 10/11 and a 4K Monitor</u></a></li>
 </ul></div>
 

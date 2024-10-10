@@ -1,7 +1,7 @@
 ---
 title: Explore Apple's Innovation Showcase with Enhanced Pencil and Next-Gen Tablets at the 'Let Loose' Release
-date: 2024-10-03T17:15:51.804Z
-updated: 2024-10-04T17:02:12.563Z
+date: 2024-10-05T19:49:58.003Z
+updated: 2024-10-09T17:38:45.531Z
 tags:
   - apple
 categories:
@@ -32,19 +32,6 @@ Apple's "Let Loose" was a virtual product launch event that took place on May 7,
 
 ---
 
-<!-- affiliate ads begin -->
-<span id="1982459">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982459.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982459">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982459.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982459%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982459/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 1\. iPad Pro, now with OLED displays and M4
 
 Apple
@@ -66,10 +53,10 @@ Like previous generations, Apple is making the latest iPad Pro available in 11-i
 The iPad Pro starts at $999 for the 11-inch model and $1,299 for the 13-inch model. It's available in Silver and Space Black, with storage sizes ranging from 256GB to 2TB. You can [available to preorder now](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-ipad%2Fipad-pro&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp), with orders shipping next week.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139109/17108" target="_top" id="2139109">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139109" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1934292/19272" target="_top" id="1934292">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934292" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139109/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934292/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. iPad Air gets a new, larger size
@@ -88,13 +75,6 @@ Unlike the M4-equipped iPad Pro, the iPad Air comes with an M2 chip, making it a
 
 The new iPad Air is available in Blue, Purple, Starlight, and Space Gray, with [prices starting at $599](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-ipad%2Fipad-air&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) for the 11-inch iPad Air, and $799 for the 13-inch model.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075472/7443" target="_top" id="2075472">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075472" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075472/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 3\. Apple Pencil Pro
 
 Apple
@@ -111,6 +91,13 @@ Apple
 
 The Apple Pencil Pro costs $129 and supports Apple's Find My service, letting you track the location of the accessory should you drop or misplace it. You can purchase the [Apple Pencil Pro](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fproduct%2FMX2D3AM%2FA%2Fapple-pencil-pro&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) today, and it will start shipping next week.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918698/19272" target="_top" id="1918698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918698" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Magic Keyboard
 
 Apple
@@ -118,10 +105,10 @@ Apple
 The iPad event also included a new, more durable Magic Keyboard, featuring a larger trackpad and a function row along the top. The Magic Keyboard's new look and upgraded aluminum construction is meant to make the iPad Pro look and feel more like a laptop, rather than a tablet with an optional keyboard case.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918661/19272" target="_top" id="1918661">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918661" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135372/19272" target="_top" id="2135372">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135372" border="0" alt="https://techidaily.com" width="336" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918661/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135372/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Why would Apple host an event before WWDC?
@@ -139,6 +126,13 @@ Apple unveiled new versions of Final Cut Pro 2 and Logic Pro 2 for iPadOS. Apple
 Logic Pro 2 introduces Session Players, an AI-created Bass and Keyboard player available alongside the Drummer feature. The ChromaGlow feature adds sound effects to tracks. Logic Pro 2 also offers a Stem Splitter feature that can split recordings into voice, bass, drums, and other instruments.
 
 iOS 17.5 doesn't have many exciting new features outside of the European Union, where iPhone users can now [download apps directly from websites](https://www.zdnet.com/article/apple-to-let-eu-users-download-apps-from-the-web-with-ios-17-5-beta-2-how-it-works/). The new devices are expected to ship with iPadOS 17.5, but these features are available for iPadOS 17.4.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144274/7443" target="_top" id="2144274">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144274" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144274/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How do I watch Apple's Let Loose event?
 
@@ -174,22 +168,22 @@ The Apple Let Loose event was a pre-recorded video but is still available for st
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-freely-accessible-cutting-edge-video-editor-tools/"><u>[New] 2024 Approved Freely Accessible Cutting Edge Video Editor Tools</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-zero-to-hero-youtube-intro-wonders-with-imovie/"><u>[New] 2024 Approved From Zero to Hero YouTube Intro Wonders with iMovie</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-precision-audio-capturing-techniques-in-overwatch/"><u>[New] 2024 Approved Precision Audio Capturing Techniques in Overwatch</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/new-comprehensive-guide-best-10-free-file-type-changers-jpg-to-gif/"><u>[New] Comprehensive Guide Best 10 Free File Type Changers (JPG to GIF)</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-from-raw-to-refined-your-guide-to-youtube-video-edits-for-2024/"><u>[New] From Raw to Refined Your Guide to YouTube Video Edits for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-live-without-the-temptation-of-youtube-shorts/"><u>[New] In 2024, How To Live Without the Temptation of YouTube Shorts</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-use-a-tripod-for-vlogging/"><u>[Updated] 2024 Approved How To Use a Tripod for Vlogging</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-hacks-create-youtube-shorts-thumbnails-that-stand-out-quickly-for-2024/"><u>[Updated] Hacks Create YouTube Shorts Thumbnails That Stand Out Quickly for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-how-secure-is-subforsup-to-expand-your-youtube-community-safely-in-2024/"><u>[Updated] How Secure Is Subforsup to Expand Your YouTube Community Safely, In 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-10-free-youtube-thumbnail-downloaderssavers-online/"><u>[Updated] In 2024, 10 Free YouTube Thumbnail Downloaders/Savers Online</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-top-ways-to-turn-your-shorts-into-a-money-machine-on-youtube/"><u>[Updated] In 2024, Top Ways to Turn Your Shorts Into a Money Machine on YouTube</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-transform-your-communication-device-with-new-tunes/"><u>[Updated] Transform Your Communication Device with New Tunes</u></a></li>
-<li><a href="https://driver-install.techidaily.com/bridging-os-with-better-wi-fi-integration/"><u>Bridging OS with Better Wi-Fi Integration</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/enhance-your-photography-with-photoshops-motion-blur-effect/"><u>Enhance Your Photography with Photoshop's Motion Blur Effect</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/reasons-for-poco-x6-pro-stuck-on-startup-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Poco X6 Pro Stuck on Startup Screen and Ways To Fix Them | Dr.fone</u></a></li>
-<li><a href="https://media-tips.techidaily.com/step-by-step-instructions-for-modifying-apple-voice-recordings-using-native-and-additional-applications/"><u>Step-by-Step Instructions for Modifying Apple Voice Recordings Using Native and Additional Applications</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-guide-fixing-a-non-responsive-laptop-trackpad/"><u>Troubleshooting Guide: Fixing a Non-Responsive Laptop Trackpad</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-from-free-to-funded-monetization-mastery-for-fb-pages-for-2024/"><u>[New] From Free to Funded Monetization Mastery for FB Pages for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-5-ways-to-record-vr-gameplay/"><u>[New] In 2024, 5 Ways to Record VR Gameplay</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-tuneful-images-the-apple-fusion-method/"><u>[New] Tuneful Images The Apple Fusion Method</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-dynamic-color-balance-helper/"><u>[Updated] Dynamic Color Balance Helper</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/1-effortless-guide-transforming-your-dvds-into-mp4-format-at-no-cost-on-macos/"><u>1. Effortless Guide: Transforming Your DVDs Into MP4 Format at No Cost on macOS</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/2024nosub/"><u>2024年最新のNosubダウンロードガイド：安全にフリーアニメを入手する方法</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/comment-graver-un-fichier-mkv-sur-dvd-sans-frais-avec-winx-dvd-autorisateur-sous-windows-1187/"><u>Comment Graver Un Fichier MKV Sur DVD Sans Frais Avec WinX DVD Autorisateur Sous Windows 11/8/7?</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/complete-guide-to-duplicate-your-dvd-to-iso-format-using-winx-dvd-copy-software/"><u>Complete Guide to Duplicate Your DVD to ISO Format Using WinX DVD Copy Software</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/correcting-the-dvd-title-mistake-in-handbrake-conversions-a-comprehensive-guide-to-setting-up-right-names-correctly/"><u>Correcting the DVD Title Mistake in Handbrake Conversions: A Comprehensive Guide to Setting Up Right Names Correctly</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/download-free-blu-ray-player-software-compatible-with-pc-and-mac-winxdvd/"><u>Download Free Blu-Ray Player Software Compatible with PC and Mac: WinXDVD</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/how-to-convert-mkv-files-to-mp4-on-ios-and-android-devices-without-cost/"><u>How to Convert MKV Files to MP4 on iOS and Android Devices Without Cost</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-hacks-to-do-pokemon-go-trainer-battles-for-itel-a05s-drfone-by-drfone-virtual-android/"><u>In 2024, Hacks to do pokemon go trainer battles For Itel A05s | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-spotify-location-after-moving-to-another-country-on-motorola-moto-e13-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Spotify Location After Moving to Another Country On Motorola Moto E13 | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-10-best-spy-watches-for-your-honor-x7b-drfone-by-drfone-virtual-android/"><u>In 2024, Top 10 Best Spy Watches For your Honor X7b | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/issues-playing-h-265-hevc-video-on-xiaomi-redmi-note-12t-pro-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>Issues playing H.265 HEVC video on Xiaomi Redmi Note 12T Pro</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-services-offered-following-the-discontinuation-of-vudus-dvd-to-digital-transformation-feature/"><u>New Services Offered Following the Discontinuation of Vudu's DVD-to-Digital Transformation Feature</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/unblocking-printer-operation-post-windows-10-update/"><u>Unblocking Printer Operation Post-Windows 10 Update</u></a></li>
 </ul></div>
 

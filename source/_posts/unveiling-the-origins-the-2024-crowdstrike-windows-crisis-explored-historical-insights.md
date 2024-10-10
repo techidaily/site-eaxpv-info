@@ -1,7 +1,7 @@
 ---
 title: "Unveiling the Origins: The 2024 CrowdStrike Windows Crisis Explored - Historical Insights"
-date: 2024-09-27T17:24:47.228Z
-updated: 2024-10-04T18:20:41.589Z
+date: 2024-10-07T21:34:50.853Z
+updated: 2024-10-09T22:37:44.589Z
 tags:
   - apple
 categories:
@@ -51,10 +51,10 @@ Repairing the damage from a flaw like this is a painfully tedious process that r
 If you know anyone whose job involves administering Windows PCs in a corporate network that uses the CrowdStrike code, you can be confident they are very busy right now, and will be for days to come.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948937/19272" target="_top" id="1948937">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948937" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
+  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948937/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## We've seen this movie before
@@ -94,10 +94,10 @@ In the You Can't Make This Up Department… CrowdStrike's founder and CEO, Georg
 What makes the 2024 sequel so much worse is that it also affected Windows-based servers running in the cloud, on Microsoft Azure and on AWS. Just as with the many laptops and desktop PCs that were bricked by this faulty update, the cloud-based servers require time-consuming manual interventions to recover.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948909/19272" target="_top" id="1948909">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948909" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2016134/19272" target="_top" id="2016134">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016134" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948909/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016134/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## CrowdStrike's QA failed
@@ -127,10 +127,10 @@ As part of its initial response, CrowdStrike says it plans to take additional me
 Meanwhile, the United States House of Representatives Homeland Security Committee plans to call CrowdStrike's CEO up for hearings on what went wrong, and CrowdStrike's Chief Security Officer, Shawn Henry, [posted an apology on LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7220983915421806592/), admitting "On Friday, we failed you. ... The confidence we built in drips over the years was lost in buckets within hours, and it was a gut punch."
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037356/7443" target="_top" id="2037356">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037356" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144310/7443" target="_top" id="2144310">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144310" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037356/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144310/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How much fault should Microsoft shoulder?
@@ -181,24 +181,22 @@ Nonetheless, this incident, which caused many billions of dollars' worth of dama
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-free-to-paid-transitioning-your-channel-via-partnership/"><u>[New] 2024 Approved From Free to Paid Transitioning Your Channel via Partnership</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-novice-to-content-creator-your-youtube-journey-begins/"><u>[New] 2024 Approved From Novice to Content Creator Your YouTube Journey Begins</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-guide-to-streamlined-subscription-links-for-video-channels/"><u>[New] 2024 Approved Guide to Streamlined Subscription Links for Video Channels</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-spotting-gone-from-your-friend-list/"><u>[New] 2024 Approved Spotting Gone From Your Friend List</u></a></li>
-<li><a href="https://article-posts.techidaily.com/new-2024-approved-strategic-utilization-of-azure-voice-to-text-capabilities/"><u>[New] 2024 Approved Strategic Utilization of Azure Voice-to-Text Capabilities</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-grasping-youtube-seo-a-guide-to-keyword-discovery-for-2024/"><u>[New] Grasping YouTube SEO A Guide to Keyword Discovery for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-how-to-monetize-your-youtube-shorts-simple-steps-for-2024/"><u>[New] How to Monetize Your YouTube Shorts Simple Steps for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-gain-more-followers-masterful-youtube-marketing-techniques/"><u>[Updated] 2024 Approved Gain More Followers Masterful YouTube Marketing Techniques</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-best-8-platforms-for-professional-linux-editing/"><u>[Updated] Best 8 Platforms for Professional Linux Editing</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-breaking-news-working-obs-cam/"><u>[Updated] Breaking News Working OBS Cam</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-how-often-do-youtubers-receive-income-in-2024/"><u>[Updated] How Often Do YouTubers Receive Income, In 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-silent-movies-to-sound-films-a-modern-tutorial/"><u>[Updated] In 2024, From Silent Movies to Sound Films A Modern Tutorial</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-turn-video-soundtracks-into-audible-files/"><u>[Updated] In 2024, How to Turn Video Soundtracks Into Audible Files</u></a></li>
-<li><a href="https://extra-information.techidaily.com/capturing-perfection-an-overview-of-the-5-best-cams-for-2024/"><u>Capturing Perfection An Overview of the 5 Best Cams for 2024</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-get-and-use-pokemon-go-promo-codes-on-tecno-pop-8-drfone-by-drfone-virtual-android/"><u>In 2024, How to Get and Use Pokemon Go Promo Codes On Tecno Pop 8 | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-after-switching-from-meizu-21-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data After Switching From Meizu 21 to Latest Samsung | Dr.fone</u></a></li>
-<li><a href="https://driver-install.techidaily.com/seamlessly-managing-device-drivers-in-windows-8-and-81/"><u>Seamlessly Managing Device Drivers in Windows 8 and 8.1</u></a></li>
-<li><a href="https://win-able.techidaily.com/step-by-step-solutions-for-correcting-final-examination-issue-tfla00ab345689/"><u>Step-by-Step Solutions for Correcting Final Examination Issue - TFLA00ab345689</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/unlocking-made-easy-the-best-10-apps-for-unlocking-your-nubia-red-magic-8s-proplus-device-by-drfone-android/"><u>Unlocking Made Easy The Best 10 Apps for Unlocking Your Nubia Red Magic 8S Pro+ Device</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-go-big-go-viral-channel-tiktok-trends-into-instagram-reels/"><u>[New] In 2024, Go Big, Go Viral Channel TikTok Trends Into Instagram Reels</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-streamlining-tv-downloads-a-step-by-step-recording-approach-for-2024/"><u>[New] Streamlining TV Downloads A Step-by-Step Recording Approach for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-the-abcs-of-aspect-ratio-a-guide-to-twitter-videos/"><u>[Updated] The ABCs of Aspect Ratio A Guide to Twitter Videos</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/movmp4macandwin10/"><u>無需花費一分錢！線上/線下MOV文件轉成MP4：Mac&Win10專業組版</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/back-up-and-convert-dvds-to-iso-files-with-winx-dvd-copy-pro/"><u>Back Up & Convert DVDs to ISO Files with WinX DVD Copy Pro</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/bypass-youttubes-buffering-blockades-top-tips-to-fix-video-processing-issues/"><u>Bypass YoutTube's Buffering Blockades: Top Tips to Fix Video Processing Issues</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/capture-attention-incorporating-borders-to-insta-videos/"><u>Capture Attention Incorporating Borders to Insta-Videos</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/come-converti-i-file-mts-in-formato-mp4-gratuitamente-con-queste-3-semplici-opzioni/"><u>Come Converti I File MTS in Formato MP4 Gratuitamente Con Queste 3 Semplici Opzioni</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fix-pc-issues-enter-safe-mode-and-uninstall-graphic-cards-driver-on-win-8-easily/"><u>Fix PC Issues? Enter Safe Mode & Uninstall Graphic Cards Driver on Win 8 Easily!</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/gratis-dvd-audiokonverter-professionelle-audioextraktion-mit-optimaler-qualitat-aus-dvds/"><u>Gratis DVD-Audiokonverter: Professionelle Audioextraktion Mit Optimaler Qualität Aus DVDs</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-and-where-to-find-a-shiny-stone-pokemon-for-vivo-y100i-power-5g-drfone-by-drfone-virtual-android/"><u>How and Where to Find a Shiny Stone Pokémon For Vivo Y100i Power 5G? | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-maintain-your-gpu-at-ideal-gameplay-temp-levels/"><u>How to Maintain Your GPU at Ideal Gameplay Temp Levels</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/no-cost-macripper-software-rip-dvd-movies-in-mp4hevc-h264-format-for-iphone-compatibility/"><u>No Cost Macripper Software - Rip DVD Movies in MP4/HEVC H.264 Format for iPhone Compatibility</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/unlocking-spotify-promotion-potential/"><u>Unlocking Spotify Promotion Potential</u></a></li>
+<li><a href="https://techtrends.techidaily.com/virtueel-konverteren-van-voc-documenten-omzetten-en-bewerken-gratis-met-movavi/"><u>Virtueel Konverteren Van VOC Documenten - Omzetten en Bewerken Gratis Met Movavi</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/windowsdvd-winx-dvd-ripper/"><u>Windows用最新DVDリッピングツールを紹介します: WinX DVD Ripperフリー版配布</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/winx-dvd-funktionen-verbessern-zusammenarbeit-fur-fortschritte-in-der-dvd-technologie/"><u>WinX DVD Funktionen Verbessern: Zusammenarbeit Für Fortschritte in Der DVD-Technologie</u></a></li>
 </ul></div>
 

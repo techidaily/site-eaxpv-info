@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting iPhone's Drained Battery Post-iOS 17.5.1 Update: 7 Essential Fixes for Longer Life | TechSavvy"
-date: 2024-10-03T17:44:47.557Z
-updated: 2024-10-04T18:40:30.992Z
+date: 2024-10-03T22:56:40.367Z
+updated: 2024-10-09T16:55:43.332Z
 tags:
   - apple
 categories:
@@ -31,10 +31,10 @@ If you want to follow along, you'll need to install the iOS 18 public beta on an
 ## How to customize your iPhone's new Control Center with iOS 18
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137395/7443" target="_top" id="2137395">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137395" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123739/7443" target="_top" id="2123739">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123739" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137395/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123739/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 1\. Access Control Center
@@ -52,10 +52,10 @@ Screenshot by Lance Whitney/ZDNET
 **Also: [Every iPhone model that can be updated to Apple's iOS 18 (and which ones can't)](https://www.zdnet.com/article/every-iphone-model-that-can-be-updated-to-apples-ios-18-and-which-ones-cant/)**
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528703/16446" target="_top" id="1528703">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528703" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139123/17108" target="_top" id="2139123">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139123" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528703/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139123/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Resize a control
@@ -65,10 +65,10 @@ After tapping the plus icon, some controls sport a gray curved handle in the low
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012406/19272" target="_top" id="2012406">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012406" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://dhgate.sjv.io/c/5597632/1175223/12108" target="_top" id="1175223">
+  <img src="//a.impactradius-go.com/display-ad/12108-1175223" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1175223/12108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Delete a control
@@ -76,13 +76,6 @@ Screenshot by Lance Whitney/ZDNET
 Next, you can directly delete a control you don't need or want. With the icons in edit mode, tap the minus sign for the icon you want to remove. When the icon is deleted, the surrounding icons should move to fill up the gap.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938693/19272" target="_top" id="1938693">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938693" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938693/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 5\. Add a control to an existing screen
 
@@ -97,6 +90,13 @@ Screenshot by Lance Whitney/ZDNET
 If the current screens are already filled with icons, you can set up additional screens to hold more controls. Swipe down to the last screen, which shouldn't have any free space. Tap the plus icon and then tap "Add a Control." Again, browse or search for the control you wish to add. Tap that control, and it should appear in a new screen. You can continue adding more controls to the new screen this way. You can create as many as 15 screens, though you'll probably want to stop before you reach that number.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134495/18498" target="_top" id="2134495">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134495" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134495/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 7\. Power down from Control Center
 
@@ -134,19 +134,21 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-fixing-invisible-areas-within-youtube-videos/"><u>[New] 2024 Approved Fixing Invisible Areas Within YouTube Videos</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-harmonizing-visuals-and-soundtracks-with-youtubes-video-editor/"><u>[New] 2024 Approved Harmonizing Visuals & Soundtracks with YouTube's Video Editor</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-2024-approved-optimizing-class-engagement-with-visual-media-usage/"><u>[New] 2024 Approved Optimizing Class Engagement with Visual Media Usage</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-follow-the-footsteps-of-fan-driven-forums-for-2024/"><u>[New] Follow the Footsteps of Fan-Driven Forums for 2024</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/n-2024-revealing-the-identity-of-viewers-on-youtube/"><u>[New] In 2024, Revealing the Identity of Viewers on YouTube</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-ultimate-picks-for-top-rated-free-srt-translation-tools/"><u>[New] Ultimate Picks for Top-Rated Free SRT Translation Tools</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-2024-approved-elite-ai-companions-for-chat/"><u>[Updated] 2024 Approved Elite AI Companions for Chat</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-film-school-at-home-mastering-video-editing-via-youtube-and-alternatives/"><u>[Updated] 2024 Approved Film School at Home Mastering Video Editing via YouTube & Alternatives</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-how-much-cash-can-you-score-for-watching-a-million-videos-for-2024/"><u>[Updated] How Much Cash Can You Score for Watching A Million Videos for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-protectly-copy-youtube-tracks-for-free/"><u>[Updated] In 2024, How to Protectly Copy Youtube Tracks for Free</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-tune-and-trends-a-guide-to-sound-in-social-media-snapshots/"><u>[Updated] Tune & Trends A Guide to Sound in Social Media Snapshots</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/beat-the-blues-expert-tips-to-resolve-red-dead-redemption-2s-launch-problems/"><u>Beat the Blues: Expert Tips to Resolve Red Dead Redemption 2'S Launch Problems</u></a></li>
-<li><a href="https://extra-support.techidaily.com/macsierras-top-picks-for-dvd-creation-software-for-2024/"><u>MacSierra’s Top Picks for Dvd Creation Software for 2024</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ssentials-for-launching-a-youtube-success-story-for-2024/"><u>Top Essentials for Launching a YouTube Success Story for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ree-youtube-revenue-predictor-tools/"><u>[New] Free YouTube Revenue Predictor Tools</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-yuneec-typhoon-h-review/"><u>[New] Yuneec Typhoon H Review</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-step-by-step-locating-your-next-social-video-fb-2023/"><u>[Updated] 2024 Approved Step-by-Step Locating Your Next Social Video (FB 2023)</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-exquisite-quintet-of-precision-engineered-cameras/"><u>[Updated] Exquisite Quintet of Precision-Engineered Cameras</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-sound-digitization-audiovisual-preservation/"><u>2024 Approved Sound Digitization Audiovisual Preservation</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/2024-nce/"><u>2024年度最新リリース：高解像度に変換できる画像強化ツール紹介 - 有料・無料両方提�nce</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/uhd4khevcmp4/"><u>最新ガイド：UHD/4K映像やHEVC・MP4形式で素速い動画再生方法</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/best-anti-tracker-software-for-zte-nubia-z60-ultra-drfone-by-drfone-virtual-android/"><u>Best Anti Tracker Software For ZTE Nubia Z60 Ultra | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/dealing-with-mfc-42-dll-file-not-found-heres-your-guide-to-quick-recovery/"><u>Dealing with MFC 42 DLL File Not Found? Here's Your Guide to Quick Recovery!</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/from-live-action-to-digital-footage-gadget-guidebook/"><u>From Live Action to Digital Footage Gadget Guidebook</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-fix-ipad-or-apple-iphone-se-2020-stuck-on-activation-lock-by-drfone-ios/"><u>In 2024, How to Fix iPad or Apple iPhone SE (2020) Stuck On Activation Lock?</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/ps5-dvd-abspielfunktion-funktionsweise-und-tipps/"><u>PS5 DVD-Abspielfunktion - Funktionsweise Und Tipps</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/stealthy-snapchat-recording-methods-how-to-do-it-without-alerting-the-other-party/"><u>Stealthy Snapchat Recording Methods: How to Do It Without Alerting the Other Party</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/the-ultimate-selection-of-safe-speed-optimized-video-editors-for-windows-1110-enthusiasts/"><u>The Ultimate Selection of Safe, Speed-Optimized Video Editors for Windows 11/10 Enthusiasts</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/windows-and-mac-top-10-best-free-online-video-kickstarters-with-ai-features/"><u>Windows & Mac: Top 10 Best Free Online Video Kickstarters with AI Features</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/winxdvd-official-site-premium-dvd-ripper-and-converter-with-iphone-transfer-capabilities/"><u>WinXDVD Official Site: Premium DVD Ripper & Converter with iPhone Transfer Capabilities</u></a></li>
 </ul></div>
 

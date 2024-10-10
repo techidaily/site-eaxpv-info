@@ -1,7 +1,7 @@
 ---
 title: "Download the New iOS 18 Update on Your iPhone: Compatible Models and Step-by-Step Guide"
-date: 2024-09-30T17:44:45.459Z
-updated: 2024-10-04T17:02:15.192Z
+date: 2024-10-03T17:12:45.041Z
+updated: 2024-10-09T17:00:34.694Z
 tags:
   - apple
 categories:
@@ -33,10 +33,16 @@ Jason Hiner/ZDNET
 **What you need:** An iPhone running iOS 16.5 or later. Since not all iPhones are compatible with iOS 18, you'll also need a model [newer than the iPhone X](https://www.zdnet.com/article/best-iphone/).
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135348/19272" target="_top" id="2135348">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135348" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135348/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983582">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983582.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983582">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983582.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983582%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983582/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 1\. Go to General in your iPhone Settings
@@ -48,15 +54,22 @@ Go to your iPhone's Settings and select General.
 Within General, tap on Software Update. This will show you if the iOS 18 update is available for you to download.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037338/7443" target="_top" id="2037338">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037338" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://sentrypc.7eer.net/c/5597632/398455/3022" target="_top" id="398455">
+  <img src="//a.impactradius-go.com/display-ad/3022-398455" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037338/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398455/3022" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Download and install
 
 When you tap on Software Update, your iPhone will check for the latest version of iOS available. Then, you'll be able to Download and Install the new update. Your iPhone will begin the download immediately.
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2005196/22899" target="_top" id="2005196">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005196" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005196/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Enter your passcode and follow steps to install
 
@@ -65,6 +78,13 @@ Enter your passcode, if necessary, to authorize the installation of the new iOS 
 After installing the latest iOS update, your iPhone will restart.
 
 ## FAQs
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2005184/22899" target="_top" id="2005184">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005184" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005184/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### When is Apple Intelligence coming out?
 
@@ -84,19 +104,6 @@ You can always be part of the Apple Beta program to get the latest beta versions
 * Don't download beta software, which will likely have bugs and glitches, on your everyday iPhone.
 * You should go into the experience to test new features and share feedback to improve iOS, which is why beta versions are released.
 
-<!-- affiliate ads begin -->
-<span id="1983472">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983472.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983472">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983472%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983472/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### How do I install the iOS 18 beta version?
 
 You'll need an iPhone running iOS 16.5 or later. Since not all iPhones are compatible with iOS 18, you'll also need a model [newer than the iPhone X](https://www.zdnet.com/article/best-iphone/).
@@ -107,13 +114,6 @@ You'll need an iPhone running iOS 16.5 or later. Since not all iPhones are compa
 4. Select iOS 18 Public Beta. Then you'll begin receiving automatic software updates to the latest beta version of iOS 18\. Apple currently has four beta versions of iOS: iOS 18 public beta, iOS 18 developer beta, iOS 17 public beta, and iOS 17 developer beta. These four options will soon be reduced to just the two iOS 18 variants. Once you do this, return to the previous page. If an update is available now, your iPhone will prompt you to download and install it.
 
 Screenshot: Maria Diaz/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2002019/7443" target="_top" id="2002019">
-  <img src="//a.impactradius-go.com/display-ad/7443-2002019" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002019/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### How to download the iOS 18 developer beta?
 
@@ -175,21 +175,24 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-fast-track-to-youtube-partner-level-achieve-10k-views/"><u>[New] 2024 Approved Fast Track to YouTube Partner Level - Achieve 10K Views</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-from-conceptualization-to-production-a-guide-to-making-mukbang-for-2024/"><u>[New] From Conceptualization to Production A Guide to Making Mukbang for 2024</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/new-in-2024-excellence-in-quality-leading-4k-panels-for-filmmaking/"><u>[New] In 2024, Excellence in Quality Leading 4K Panels for Filmmaking</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-revised-interview-scripts-for-captivating-audiences/"><u>[New] Revised Interview Scripts for Captivating Audiences</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-free-themes-for-dynamic-youtuber-profiles/"><u>[Updated] 2024 Approved Free Themes for Dynamic YouTuber Profiles</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-growth-strategies-for-youtube-videos-6-effortless-approaches/"><u>[Updated] 2024 Approved Growth Strategies for YouTube Videos 6 Effortless Approaches</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-mastering-mp3-capture-skype-calls-no-cost/"><u>[Updated] 2024 Approved Mastering MP3 Capture Skype Calls, No Cost</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-harnessing-powerful-tools-for-effective-youtubers-seo-for-2024/"><u>[Updated] Harnessing Powerful Tools for Effective YouTubers' SEO for 2024</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-how-to-make-your-youtube-animated-subscribe-button-easily-with-filmora/"><u>[Updated] How to Make Your YouTube Animated Subscribe Button Easily With Filmora</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-hidden-to-highlighted-your-2-ways-to-see-yts-past-videos/"><u>[Updated] In 2024, From Hidden to Highlighted Your 2 Ways to See YT's Past Videos</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-integrate-titles-and-descriptions-into-your-youtube-video/"><u>[Updated] In 2024, How to Integrate Titles and Descriptions Into Your YouTube Video</u></a></li>
-<li><a href="https://fox-within.techidaily.com/adaptable-techniques-for-disabling-your-laptop-display/"><u>Adaptable Techniques for Disabling Your Laptop Display</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/global-thanksgiving-day-a-comparative-view/"><u>Global Thanksgiving Day: A Comparative View</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-what-is-fake-gps-location-pro-and-is-it-good-on-vivo-s17t-drfone-by-drfone-virtual-android/"><u>In 2024, What is Fake GPS Location Pro and Is It Good On Vivo S17t? | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/1719298672852-leveraging-local-links-to-global-drives-dropbox-and-googledrive-via-c/"><u>Leveraging Local Links to Global Drives: Dropbox & GoogleDrive via C:</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/revolutionize-your-passions-gaming-strategy-and-artistry-via-my-bots/"><u>Revolutionize Your Passions: Gaming Strategy & Artistry via My Bots</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-a-step-by-step-guide-to-creating-unique-facebook-video-content/"><u>[New] In 2024, A Step-by-Step Guide to Creating Unique Facebook Video Content</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-the-clear-out-instructions-for-disabling-an-old-linkedin-profile/"><u>[Updated] In 2024, The Clear-Out Instructions for Disabling an Old LinkedIn Profile</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/boost-fps-performance-and-achieve-fluid-motion-in-games-using-cutting-edge-artificial-intelligence-frame-rate-upscale-technology/"><u>Boost FPS Performance & Achieve Fluid Motion in Games Using Cutting-Edge Artificial Intelligence Frame Rate Upscale Technology</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/boost-your-videos-with-winxvideo-ai-expert-tips-for-enhancing-and-transforming-footage-quickly/"><u>Boost Your Videos with Winxvideo AI - Expert Tips for Enhancing & Transforming Footage Quickly</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/conversion-gratuite-de-fichiers-mp3-vers-mkv-en-ligne-avec-movavi-guide-complet/"><u>Conversion Gratuite De Fichiers MP3 Vers MKV en Ligne Avec Movavi - Guide Complet</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/download-mac-dvd-ripper-for-free-convert-your-dvd-collection-into-modern-video-formats-compatible-with-all-devices/"><u>Download Mac DVD Ripper for Free - Convert Your DVD Collection Into Modern Video Formats Compatible with All Devices!</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/essential-steps-for-adding-the-av1-video-encoder-to-windows-1011-systems-top-picks/"><u>Essential Steps for Adding the AV1 Video Encoder to Windows 10/11 Systems - Top Picks!</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/immersive-world-of-tamriel-reimagined-for-the-switch-in-the-elder-scrolls-v-skyrim/"><u>Immersive World of Tamriel Reimagined for the Switch in The Elder Scrolls V: Skyrim</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-solved-move-from-oneplus-nord-n30-5g-to-ios-not-working-problems-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Solved Move from OnePlus Nord N30 5G to iOS not Working Problems | Dr.fone</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/in-depth-evaluation-of-the-nokia-31-for-budget-beginners/"><u>In-Depth Evaluation of the Nokia 3.1 for Budget Beginners</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/los-mejores-programas-de-grabacion-de-pantalla-para-windows-toma-capturas-completas-de-escena-en-pc-con-versiones-1187/"><u>Los Mejores Programas De Grabacion De Pantalla Para Windows: Toma Capturas Completas De Escena en PC Con Versiones 11/8/7</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/navigating-video-transformations-in-vlc-from-mp4-variety-for-2024/"><u>Navigating Video Transformations in VLC From MP4 Variety for 2024</u></a></li>
+<li><a href="https://ai-topics.techidaily.com/new-a-detailed-and-trustworthy-review-of-murfai-ai-text-to-speech-tool/"><u>New A Detailed and Trustworthy Review of Murf.ai AI Text-to-Speech Tool</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/section-2a-sonata-allegro-form-and-movement-structure-in-classical-symphonies/"><u>Section 2A: Sonata-Allegro Form and Movement Structure in Classical Symphonies</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/software-digitaria-termos-do-contrato-de-licenca-para-o-usuario-final-do-windows-and-dvd/"><u>Software Digitaria: Termos Do Contrato De Licença Para O Usuário Final Do Windows & DVD</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/sony-a6400-the-unseen-movie-problem-for-2024/"><u>Sony A6400 The Unseen Movie Problem for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/transforming-pal-dvds-into-universal-file-types-your-comprehensive-tutorial/"><u>Transforming PAL DVDs Into Universal File Types - Your Comprehensive Tutorial</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/ultimate-list-of-the-best-13-free-dvd-player-software-options-for-windows-11-users/"><u>Ultimate List of the Best 13 FREE DVD Player Software Options for Windows 11 Users</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/windows-10-crisis-looms-for-microsoft-only-a-single-year-remains-to-fix-the-issues-techinsight/"><u>Windows 10 Crisis Looms for Microsoft - Only a Single Year Remains to Fix the Issues | TechInsight</u></a></li>
 </ul></div>
 

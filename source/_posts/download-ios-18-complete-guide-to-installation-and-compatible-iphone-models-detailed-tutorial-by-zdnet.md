@@ -1,7 +1,7 @@
 ---
 title: "Download IOS 18: Complete Guide to Installation & Compatible iPhone Models - Detailed Tutorial by ZDNET"
-date: 2024-09-29T17:35:06.479Z
-updated: 2024-10-04T17:50:56.124Z
+date: 2024-10-06T19:25:03.928Z
+updated: 2024-10-09T16:47:49.534Z
 tags:
   - apple
 categories:
@@ -32,23 +32,9 @@ Jason Hiner/ZDNET
 
 **What you need:** An iPhone running iOS 16.5 or later. Since not all iPhones are compatible with iOS 18, you'll also need a model [newer than the iPhone X](https://www.zdnet.com/article/best-iphone/).
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886044/19272" target="_top" id="1886044">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886044" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886044/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 1\. Go to General in your iPhone Settings
 
 Go to your iPhone's Settings and select General. 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151883/7443" target="_top" id="2151883">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151883" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151883/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 2\. Go to Software Update in Settings
 
@@ -59,10 +45,10 @@ Within General, tap on Software Update. This will show you if the iOS 18 update 
 When you tap on Software Update, your iPhone will check for the latest version of iOS available. Then, you'll be able to Download and Install the new update. Your iPhone will begin the download immediately.
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137973/21526" target="_top" id="2137973">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137973" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948876/19272" target="_top" id="1948876">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948876" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137973/21526" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948876/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Enter your passcode and follow steps to install
@@ -77,11 +63,25 @@ After installing the latest iOS update, your iPhone will restart.
 
 Apple Intelligence, featuring the company's AI tools, will begin to roll out for compatible iPhones over the next few weeks, with more features to join in the coming months. This slew of AI features will be available on the iPhone 16 lineup and the iPhones 15 Pro and Pro Max.
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826">
+  <img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### When was iOS 18 released?
 
 Apple released the iOS 18 developer beta during WWDC 2024 in June, and the public beta version was released on July 15\. The general release of iOS 18 is September 16.
 
 **Also: [The best iOS 18 features that will make updating your iPhone worthwhile](https://www.zdnet.com/article/the-best-ios-18-features-that-will-make-updating-your-iphone-worthwhile/)**
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100526/7443" target="_top" id="2100526">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100526" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Can you still download the iOS 18 public beta?
 
@@ -119,10 +119,10 @@ If you can't see this option, go to your **Settings,** select **Privacy & Securi
 If you aren't already a member of the Apple Developer Program, you can sign up to become one in the app. An annual membership costs $99.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148647/16836" target="_top" id="2148647">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148647" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148647/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### What is in iOS 18 beta 3?
@@ -169,19 +169,24 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-beginners-pathway-to-livestreaming-on-facebook-and-mobile-devices/"><u>[New] 2024 Approved Beginner's Pathway to Livestreaming on Facebook and Mobile Devices</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-free-online-video-editors-for-youtube-for-2024/"><u>[New] Free Online Video Editors for YouTube for 2024</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-unleashing-broadcast-potential-from-obs-to-facebook-platform-for-2024/"><u>[New] Unleashing Broadcast Potential From OBS to Facebook Platform for 2024</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-strategies-for-improving-youtubefacebook-video-quality/"><u>[Updated] 2024 Approved Strategies for Improving YouTube/Facebook Video Quality</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/updated-creating-an-auditory-ambiance-choosing-background-music-for-trailers/"><u>[Updated] Creating an Auditory Ambiance Choosing Background Music for Trailers</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-from-fandom-to-fame-gamers-livestream-success-strategies-for-2024/"><u>[Updated] From Fandom to Fame Gamers' Livestream Success Strategies for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-from-frames-to-fun-youtube-gifs-creation-made-simple-for-2024/"><u>[Updated] From Frames to Fun YouTube GIFs Creation Made Simple for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-get-free-green-screen-effects-from-4-youtube-channels-for-2024/"><u>[Updated] Get Free Green Screen Effects From 4 YouTube Channels for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-transcribe-a-youtube-video-for-free-for-2024/"><u>[Updated] How to Transcribe a YouTube Video for FREE for 2024</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/updated-in-2024-quick-guide-reversing-an-unintended-tiktok-refresh/"><u>[Updated] In 2024, Quick Guide Reversing an Unintended TikTok Refresh</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-navigating-through-telegram-web-easily-and-quickly/"><u>2024 Approved Navigating Through Telegram Web Easily and Quickly</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/how-to-repair-corrupt-mov-mp4-avi-mkv-and-other-video-files/"><u>How to Repair Corrupt MOV, MP4, AVI, MKV, and Other Video Files</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/navigating-noise-free-networks-secrets-for-silencing-disruptions-on-gomeet/"><u>Navigating Noise-Free Networks Secrets for Silencing Disruptions on GoMeet</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/ultimate-guide-to-get-the-meltan-box-pokemon-go-for-itel-a60-drfone-by-drfone-virtual-android/"><u>Ultimate guide to get the meltan box pokemon go For Itel A60 | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-crafting-chorus-in-a-click-essential-insights-into-shortform-song-videos/"><u>[New] 2024 Approved Crafting Chorus in a Click Essential Insights Into Shortform Song Videos</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-cartoonhub-complete-guide-and-assessment-2024/"><u>[New] CartoonHub Complete Guide & Assessment 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-maximizing-profile-video-attraction-strategies/"><u>[Updated] In 2024, Maximizing Profile Video Attraction Strategies</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/best-budget-friendly-srt-translators-unveiled-online-for-2024/"><u>Best Budget-Friendly SRT Translators Unveiled Online for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/convert-avchd-files-to-mp4-gratis-with-easy-steps-on-windows-11/"><u>Convert AVCHD Files to MP4 Gratis with Easy Steps on Windows 11</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/dead-by-daylight-bugs-be-gone-a-step-by-step-solution-to-error-code-8014/"><u>Dead by Daylight Bugs Be Gone - A Step-by-Step Solution to Error Code 8014</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/descarga-gratis-mejora-tus-archivos-en-formato-mkv-con-conversion-hevch265-sin-perder-calidad-ni-tiempo/"><u>Descarga Gratis: Mejora Tus Archivos en Formato MKV Con Conversión HEVC/H.265 Sin Perder Calidad Ni Tiempo</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/effizientes-dvd-video-konvertierungsprogramm-der-firma-digiarty-software-eine-umfassende-einfuhrung/"><u>Effizientes DVD-Video Konvertierungsprogramm Der Firma Digiarty Software: Eine Umfassende Einführung</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/gerer-les-transferts-en-ligne-facilement-apprenez-a-utiliser-winx-dvd-ripper-and-video-converter-logiciel/"><u>Gérer Les Transferts en Ligne Facilement: Apprenez À Utiliser WinX DVD Ripper & Vidéo Converter Logiciel</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/grandi-scelte-i-migliori-software-liberi-di-ottimizzazione-ai-video-per-pc-e-mac-top-10/"><u>Grandi Scelte: I Migliori Software Liberi Di Ottimizzazione AI Video per PC E Mac - Top 10</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-messages-from-honor-x7b-by-fonelab-android-recover-messages/"><u>How to Rescue Lost Messages from Honor X7b</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-can-i-use-itools-gpx-file-to-catch-the-rare-pokemon-on-realme-c51-drfone-by-drfone-virtual-android/"><u>In 2024, Can I use iTools gpx file to catch the rare Pokemon On Realme C51 | Dr.fone</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/join-microsofts-windows-insider-community-how-to-download-and-keep-your-device-updated-on-windows-nmobile/"><u>Join Microsoft's Windows Insider Community - How to Download & Keep Your Device Updated on Windows nMobile</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/mgv-to-mp4-convert-mgv-file-extensions-using-top-rated-conversion-software/"><u>MGV to MP4: Convert .mgv File Extensions Using Top-Rated Conversion Software</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/motorola-edgeplus-analysis-doesnt-quite-reach-top-tier-standards/"><u>Motorola Edge+ Analysis: Doesn't Quite Reach Top-Tier Standards</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/telechargement-gratuit-du-convertisseur-video-en-mp3-extraction-audio-facile-de-votre-video/"><u>Téléchargement Gratuit Du Convertisseur Vidéo en MP3 : Extraction Audio Facile De Votre Vidéo</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/top-ranked-hevc-h265-video-encoders-for-mac-optimized-hq-conversion/"><u>Top-Ranked HEVC (H.265) Video Encoders for Mac : Optimized HQ Conversion</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-the-5-best-free-video-trimmers-you-need-to-try-for-2024/"><u>Updated The 5 Best Free Video Trimmers You Need to Try for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/1725284231995-ai/"><u>ウィンクスビデオAI:揺らぎがなくなる画像安定化ソフトウェア</u></a></li>
 </ul></div>
 

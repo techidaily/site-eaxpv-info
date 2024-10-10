@@ -1,7 +1,7 @@
 ---
 title: "Boost Your Productivity with XR Glasses On-the-Go: Discovering the New Trilogy of Upgrades | CNET"
-date: 2024-09-27T17:08:00.414Z
-updated: 2024-10-04T16:04:30.765Z
+date: 2024-10-07T19:41:48.330Z
+updated: 2024-10-09T17:36:00.867Z
 tags:
   - apple
 categories:
@@ -81,10 +81,10 @@ Along with the [Viture Pro XR glasses](https://buy.geni.us/Proxy.ashx?TSID=36825
 Lastly, Viture announced a new limited-edition controller in partnership with 8BitDo. You can connect this new controller, with a classic XBox-style controller layout, via Bluetooth to your gaming device, including the Nintendo Switch. The smokey translucent design looks cool and matches the Viture ecosystem. The 8BitDo controller also serves as a companion to the Viture Neckband, but I have yet to try out the Neckband, so I cannot share my experiences with that accessory.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111968/7443" target="_top" id="2111968">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111968" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115921/19272" target="_top" id="2115921">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115921" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111968/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115921/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -121,21 +121,22 @@ The [Viture Pro XR glasses](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-novice-to-vlogger-professional-video-making-on-mobile-devices/"><u>[New] 2024 Approved From Novice to Vlogger Professional Video Making on Mobile Devices</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-generating-attention-grabbing-video-teasers/"><u>[New] 2024 Approved Generating Attention-Grabbing Video Teasers</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-creator-to-earnings-successful-youtube-short-strategies/"><u>[New] In 2024, From Creator to Earnings Successful YouTube Short Strategies</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-boosting-engagement-navigate-to-these-8-best-apps-for-post-timers/"><u>[Updated] Boosting Engagement Navigate to These 8 Best Apps for Post Timers</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-gain-command-over-youtubes-video-playback-speed-for-2024/"><u>[Updated] Gain Command Over YouTube's Video Playback Speed for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-host-smart-and-cheap-your-guide-to-youtube-seminars-for-2024/"><u>[Updated] Host Smart and Cheap Your Guide to Youtube Seminars for 2024</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-how-to-recall-facebooks-older-episodes-with-your-computer-and-phone/"><u>[Updated] How to Recall Facebook's Older Episodes with Your Computer & Phone</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-captivate-audiences-and-gain-traction-with-youtube-shorts/"><u>[Updated] In 2024, How to Captivate Audiences and Gain Traction with YouTube Shorts</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-tips-for-constructing-motivating-daily-routine-vids/"><u>[Updated] Tips for Constructing Motivating Daily Routine Vids</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-uniting-your-favorite-sounds-a-complete-walkthrough-for-making-youtube-playlists-onlinemobile/"><u>[Updated] Uniting Your Favorite Sounds A Complete Walkthrough for Making YouTube Playlists Online/Mobile</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/comprehensive-solutions-to-tackle-high-ping-and-lag-in-street-fighter-ebtween-pc-get-the-edge/"><u>Comprehensive Solutions to Tackle High Ping & Lag in Street Fighter Ebtween (PC) – Get the Edge!</u></a></li>
-<li><a href="https://howto.techidaily.com/fix-unfortunately-settings-has-stopped-on-google-pixel-8-pro-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Unfortunately Settings Has Stopped on Google Pixel 8 Pro Quickly | Dr.fone</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/hilarityhub-online-tool-for-funny-image-crafting/"><u>HilarityHub Online Tool for Funny Image Crafting</u></a></li>
-<li><a href="https://network-issues.techidaily.com/unveiling-monoprices-value-graphic-pen-display-quality-meets-affordability/"><u>Unveiling Monoprice's Value Graphic Pen Display – Quality Meets Affordability</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-a-technical-approach-to-combining-soundtracks-with-video-footage-on-mobile-devices-for-2024/"><u>Updated A Technical Approach to Combining Soundtracks with Video Footage on Mobile Devices for 2024</u></a></li>
-<li><a href="https://change-location.techidaily.com/why-is-ipogo-not-working-on-samsung-galaxy-a05s-fixed-drfone-by-drfone-virtual-android/"><u>Why is iPogo not working On Samsung Galaxy A05s? Fixed | Dr.fone</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/que-sucede-cuando-transfiere-tu-pelicula-en-formato-dvd-directamente-a-tu-disco-duro-los-riesgos-y-por-que-no-hacerlo/"><u>¿Qué Sucede Cuando Transfiere Tu Película en Formato DVD Directamente a Tu Disco Duro? Los Riesgos Y Por Qué No Hacerlo</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/new-2024-approved-cracking-the-code-of-viral-success-with-tiktoks-top-strategies/"><u>[New] 2024 Approved Cracking the Code of Viral Success with TikTok's Top Strategies</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-explore-the-spectrum-of-light-with-windows-hdr-video-capabilities/"><u>[New] Explore the Spectrum of Light with Windows' HDR Video Capabilities</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-a-guide-to-navigating-instagrams-new-updates/"><u>[Updated] 2024 Approved A Guide to Navigating Instagram's New Updates</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-the-case-for-high-dynamic-range-in-modern-videography/"><u>[Updated] The Case for High Dynamic Range in Modern Videography</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-unlocking-social-media-success-start-with-facebook-insights/"><u>[Updated] Unlocking Social Media Success Start with Facebook Insights</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/a-comprehensive-guide-to-understanding-what-is-ffshow-the-media-processing-powerhouse/"><u>A Comprehensive Guide To Understanding What Is FFShow, The Media Processing Powerhouse.</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/converti-rapidamente-i-tuoi-file-multimediali-winxvideo-ai-offre-funzionalita-avanzate-della-gpu-per-velocita-ottimizzata/"><u>Converti Rapidamente I Tuoi File Multimediali: Winxvideo AI Offre Funzionalità Avanzate Della GPU per Velocità Ottimizzata</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/does-obs-support-av1-encoding-mastering-streaming-with-advanced-video-coding/"><u>Does OBS Support AV1 Encoding? Mastering Streaming with Advanced Video Coding.</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/free-conversion-guide-transform-avchd-video-format-into-mp4-on-your-windows-11-pc/"><u>Free Conversion Guide: Transform AVCHD Video Format Into MP4 on Your Windows 11 PC</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-6-online-here-are-6-easy-ways-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone 6 Online? Here are 6 Easy Ways</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/new-best-tool-to-translate-youtube-video-to-arabic-for-2024/"><u>New Best Tool to Translate YouTube Video to Arabic for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/preserving-quality-how-to-upload-full-hd-mp4-videos-directly-to-youtube-without-lossless-encoding/"><u>Preserving Quality: How to Upload Full HD MP4 Videos Directly to YouTube Without Lossless Encoding</u></a></li>
+<li><a href="https://location-social.techidaily.com/top-7-skype-hacker-to-hack-any-skype-account-on-your-realme-narzo-60-5g-drfone-by-drfone-virtual-android/"><u>Top 7 Skype Hacker to Hack Any Skype Account On your Realme Narzo 60 5G | Dr.fone</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/transforming-ultra-hd-footage-into-high-definition-a-step-by-step-guide/"><u>Transforming Ultra-HD Footage Into High Definition: A Step-by-Step Guide</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/troubleshooting-fixing-the-non-responsive-netflix-app-on-your-pc-with-windows-11-no-cost-options/"><u>Troubleshooting: Fixing the Non-Responsive Netflix App on Your PC with Windows 11 - No Cost Options</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/unveiling-the-finest-under-keyboard-comfort-products-a-2024-review/"><u>Unveiling the Finest Under-Keyboard Comfort Products: A 2024 Review</u></a></li>
 </ul></div>
 

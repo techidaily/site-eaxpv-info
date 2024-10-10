@@ -1,7 +1,7 @@
 ---
 title: "Discover iPhone 12'S Latest Feature: Improved Qi Charging that Works without MagSafe | ZDNET News"
-date: 2024-10-01T16:21:56.818Z
-updated: 2024-10-04T17:24:05.568Z
+date: 2024-10-02T19:16:00.373Z
+updated: 2024-10-09T20:55:39.670Z
 tags:
   - apple
 categories:
@@ -31,10 +31,10 @@ But which features will actually have the most impact on iPhone enthusiasts? Wha
 When Apple first released the [iPhone 15](https://www.zdnet.com/article/iphone-15-plus-review/) series, it only gave the 5x tetraprism zoom lens to the Max Pro. This time around, both the 16 Pro and the 16 Pro Max are getting the high-end zoom capability. This choice means the camera is essentially the same on the 16 Pro and 16 Pro Max, leaving other features to differentiate the two models. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100542/7443" target="_top" id="2100542">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100542" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2006941/19272" target="_top" id="2006941">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006941" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100542/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006941/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. The camera control
@@ -52,10 +52,10 @@ The camera control button is available on all iPhone 16 models, but it's when pa
 [Not everyone is a fan](https://www.zdnet.com/article/i-want-to-be-excited-about-the-iphone-16s-new-camera-button-but-cant-for-now/) of the new camera button, however, as this shift from software to hardware will likely come with usability growing pains and mistakenly-accessed features.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123739/7443" target="_top" id="2123739">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123739" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2111965/7443" target="_top" id="2111965">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111965" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123739/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111965/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Siri's much-needed makeover
@@ -73,16 +73,10 @@ Well, the time has finally come. Apple unveiled a ton of new functionality for S
 Beyond Siri, we have [Visual Intelligence](https://www.zdnet.com/article/apple-adds-visual-intelligence-its-answer-to-google-lens-to-the-iphone-16-camera/), which allows multi-modal AI via the camera, similar to what we've seen across other AI models this year. Apple Intelligence will start with a live beta in October in the US, with additional countries in December, and additional languages next year. 
 
 <!-- affiliate ads begin -->
-<span id="1982596">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982596.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982596">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982596.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982596%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982596/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Upgraded chipset for the AI age
@@ -98,10 +92,10 @@ The 3mm technology has smaller, more efficient transistors, and constitutes a bi
 Even with AI's demanding memory requirements, having this much memory on the iPhone is a bonus for overall performance, particularly multitasking and starting up apps. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123731/7443" target="_top" id="2123731">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123731" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1868499/19272" target="_top" id="1868499">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868499" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123731/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868499/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. The biggest iPhones yet
@@ -138,16 +132,20 @@ The iPhone 16 Pro and Pro Max are the largest iPhones ever, with 6.3 and 6.9-inc
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-harnessing-the-power-of-youtubes-seo-keywords/"><u>[New] 2024 Approved Harnessing the Power of YouTube's SEO Keywords</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-8-free-online-courses-for-beginner-youtube-creators-for-2024/"><u>[Updated] 8 Free Online Courses for Beginner YouTube Creators for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-seamlessly-upload-videos-onto-youtubes-platform-for-2024/"><u>[Updated] How to Seamlessly Upload Videos Onto YouTube's Platform for 2024</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-instagram-video-tricks-uncovered/"><u>[Updated] In 2024, Instagram Video Tricks Uncovered</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-learn-the-insider-tricks-of-screening-instagram-stories/"><u>[Updated] Learn the Insider Tricks of Screening Instagram Stories</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-trust-the-right-sources-for-safe-and-effective-view-count-increase/"><u>[Updated] Trust the Right Sources for Safe and Effective View Count Increase</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/2024-approved-optimize-your-facebook-streaming-experience-with-these-methods/"><u>2024 Approved Optimize Your Facebook Streaming Experience with These Methods</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/best-3-motorola-moto-g13-emulator-for-mac-to-run-your-wanted-android-apps-drfone-by-drfone-android/"><u>Best 3 Motorola Moto G13 Emulator for Mac to Run Your Wanted Android Apps | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-teach-you-to-transfer-files-from-honor-70-lite-5g-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways To Teach You To Transfer Files from Honor 70 Lite 5G to Other Android Devices Easily | Dr.fone</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-list-of-pokemon-go-joysticks-on-poco-f5-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, List of Pokémon Go Joysticks On Poco F5 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://fox-making.techidaily.com/optimized-browser-extension-for-dominating-holeio-best-for-windows-and-macs/"><u>Optimized Browser Extension for Dominating Hole.io - Best for Windows and Macs</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-premium-7-video-gear-ideas-for-captivating-vloggers/"><u>[New] 2024 Approved Premium 7 Video Gear Ideas for Captivating Vloggers</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-the-commerce-codex-for-instagram-creators-securing-profitable-alignments/"><u>[New] 2024 Approved The Commerce Codex for Instagram Creators Securing Profitable Alignments</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-epic-reddit-victories-celebrating-the-top-ten/"><u>[Updated] 2024 Approved Epic Reddit Victories Celebrating the Top Ten</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-enhance-your-online-skills-a-guide-to-youtube-editing-via-sony-vegas-for-2024/"><u>[Updated] Enhance Your Online Skills A Guide to YouTube Editing via Sony Vegas for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/comprehensive-handbrake-lessons-effortless-video-conversion-and-troubleshooting-tips/"><u>Comprehensive HandBrake Lessons: Effortless Video Conversion & Troubleshooting Tips</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/enhance-online-presence-with-manycam-the-leading-platform-for-virtual-camera-solutions-and-live-broadcasts/"><u>Enhance Online Presence with ManyCam: The Leading Platform for Virtual Camera Solutions and Live Broadcasts</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/enhance-your-broadcasts-with-manycam-the-top-live-video-editing-tool-and-fake-webcam-creator/"><u>Enhance Your Broadcasts with ManyCam – The Top Live Video Editing Tool and Fake Webcam Creator</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/enhance-your-livestreams-with-manycam-the-leading-choice-for-virtual-webcams-and-video-editing-tools/"><u>Enhance Your Livestreams with ManyCam - The Leading Choice for Virtual Webcams and Video Editing Tools</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/enhance-your-online-presence-using-manycam-leading-live-video-production-and-virtually-unlimited-webcams/"><u>Enhance Your Online Presence Using ManyCam: Leading Live Video Production and Virtually Unlimited Webcams</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/enhance-your-online-presence-with-manycam-powerful-live-video-tools-and-simulated-webcams-for-engaging-broadcasts/"><u>Enhance Your Online Presence with ManyCam: Powerful Live Video Tools and Simulated Webcams for Engaging Broadcasts</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/enhance-your-online-presence-discover-manycam-the-ultimate-virtual-camera-solution-for-webcams-and-more/"><u>Enhance Your Online Presence: Discover ManyCam, the Ultimate Virtual Camera Solution for Webcams and More!</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/enhance-your-online-presence-explore-professional-live-video-tools-and-virtual-webcams-by-manycam/"><u>Enhance Your Online Presence: Explore Professional Live Video Tools and Virtual Webcams by ManyCam</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-repair-a-non-responsive-spacebar-on-microsofts-latest-os-windows-11/"><u>How to Repair a Non-Responsive Spacebar on Microsoft's Latest OS, Windows 11</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-4-ways-to-trace-lenovo-thinkphone-location-drfone-by-drfone-virtual-android/"><u>In 2024, Top 4 Ways to Trace Lenovo ThinkPhone Location | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/1719378810676-shift-key-woes-try-these-fixes-now/"><u>Shift Key Woes? Try These Fixes Now</u></a></li>
 </ul></div>
 

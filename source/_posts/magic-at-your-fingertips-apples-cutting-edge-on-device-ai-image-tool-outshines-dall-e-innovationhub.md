@@ -1,7 +1,7 @@
 ---
 title: "Magic at Your Fingertips: Apple's Cutting-Edge On-Device AI Image Tool Outshines DALL-E | InnovationHub"
-date: 2024-09-29T17:25:11.282Z
-updated: 2024-10-04T18:30:36.768Z
+date: 2024-10-03T00:34:55.972Z
+updated: 2024-10-09T19:52:22.902Z
 tags:
   - apple
 categories:
@@ -68,13 +68,6 @@ Jason Hiner/ZDNET
 * Users can access ChatGPT via this integration for free, and OpenAI will not log their data. ChatGPT Plus users can connect their subscriptions to access more advanced features, in which case OpenAI's data usage policies apply.
 * The ChatGPT integration will be coming to iOS 18, iPadOS 18, and MacOS Sequoia later this year.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151892/7443" target="_top" id="2151892">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151892" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151892/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## iOS 18
 
 Adam Breeden/ZDNET
@@ -93,13 +86,6 @@ Adam Breeden/ZDNET
 * The **Safari app** was upgraded to include key information about a webpage. You can read more about the Safari upgrades under the MacOS section of this article.
 * The **Calendar app** can now pull from the Reminders app for a more seamless schedule overview.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902294/19272" target="_top" id="1902294">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902294" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902294/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## WatchOS 11
 
 Adam Breeden/ZDNET
@@ -115,10 +101,10 @@ Adam Breeden/ZDNET
 * Another notable change is that the **double tap gesture** can be used to scroll through apps.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094428/7443" target="_top" id="2094428">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094428" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/1062450/7443" target="_top" id="1062450">
+  <img src="//a.impactradius-go.com/display-ad/7443-1062450" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094428/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062450/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## iPadOS 18
@@ -142,6 +128,13 @@ Adam Breeden/ZDNET
 * The **AI summarization** tool will live in Safari to help users process content like web pages and articles more efficiently. Safari will also assist users in discovering more helpful information about a page they are browsing when relevant, such as directions.
 * Apple also launched a new **Viewer experience**, which does for video what Reader does for text.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134227/18498" target="_top" id="2134227">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134227" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134227/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## VisionOS 2
 
 Jason Hiner/ZDNET
@@ -159,6 +152,13 @@ Jason Hiner/ZDNET
 * Users can **cast content** from their iPhone, iPad, or Mac to the Vision Pro using AirPlay.
 * Apple is also making the Vision Pro available in more countries starting June 28\. You can see the full list [here](https://www.apple.com/newsroom/2024/06/apple-vision-pro-arrives-in-new-countries-and-regions-beginning-june-28/).
 
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2141684/17092" target="_top" id="2141684">
+  <img src="//a.impactradius-go.com/display-ad/17092-2141684" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141684/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## AirPods
 
 Jason Hiner/ZDNET
@@ -168,16 +168,10 @@ Jason Hiner/ZDNET
 * Apple is also releasing a **Personalized Spatial Audio API** for game developers to build around the AirPods' audio technology.
 
 <!-- affiliate ads begin -->
-<span id="1983539">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983539.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983539">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983539.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983539%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983539/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2047406/19272" target="_top" id="2047406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047406" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047406/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## tvOS 18
@@ -224,16 +218,18 @@ Screenshot by Nina Raemont/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-gamers-galaxy-a-thousand-stars-in-gaming/"><u>[New] 2024 Approved Gamers' Galaxy A Thousand Stars in Gaming</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-obs-vs-streamlabs-which-is-better/"><u>[New] 2024 Approved OBS vs Streamlabs Which Is Better?</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-from-idea-to-execution-a-comprehensive-youtube-video-guide-for-2024/"><u>[New] From Idea to Execution A Comprehensive YouTube Video Guide for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-how-to-preserve-your-favorite-tracks-from-youtube-safely-and-for-free-for-2024/"><u>[New] How to Preserve Your Favorite Tracks From YouTube Safely & for Free for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-unorganized-to-organized-music-youtubes-magic/"><u>[New] In 2024, From Unorganized to Organized Music Youtube's Magic</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-create-captivating-music-reaction-videos-top-10-tips/"><u>[New] In 2024, How to Create Captivating Music Reaction Videos - Top 10 Tips</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-2024-approved-guided-steps-to-decrease-audio-intensity-using-lumafusion/"><u>[Updated] 2024 Approved Guided Steps to Decrease Audio Intensity Using Lumafusion</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/in-2024-sonic-social-media-merging-melodies-and-memes-on-instagram/"><u>In 2024, Sonic Social Media Merging Melodies and Memes on Instagram</u></a></li>
-<li><a href="https://some-tips.techidaily.com/quick-and-simple-rmvb-to-wmv-file-transformation-no-cost/"><u>Quick and Simple RMVB to WMV File Transformation - No Cost!</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/updated-2024-approved-chroma-key-on-a-budget-top-free-green-screen-apps-for-android-and-ios/"><u>Updated 2024 Approved Chroma Key on a Budget Top Free Green Screen Apps for Android and iOS</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/virtual-cam-studio-pro-best-multi-camera-recording-and-online-broadcasting-tool/"><u>Virtual Cam Studio Pro - Best Multi-Camera Recording and Online Broadcasting Tool</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-authoritative-list-affordable-visuals-online/"><u>[Updated] Authoritative List Affordable Visuals Online</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-hero-session-vs-cube-a-face-off-in-video-editors/"><u>2024 Approved Hero Session Vs. Cube A Face-Off in Video Editors</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/ac3-and/"><u>AC3 コーデック入門 - 無料でダウンロード&設定ガイドと再生＆変換手順</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/ai-tools-under-scrutiny-4-governmental-regulation-methods/"><u>AI Tools Under Scrutiny: 4 Governmental Regulation Methods</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/convert-your-ipod-songs-a-step-by-step-guide-to-changing-drm-m4p-files-to-freely-listenable-m4a-without-costs/"><u>Convert Your iPod Songs: A Step-by-Step Guide to Changing DRM M4P Files to Freely Listenable M4A without Costs</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/correcting-missing-advrctndll-files-for-seamless-nero-installation/"><u>Correcting Missing .advrctn.dll Files for Seamless Nero Installation</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-phone-touchscreen-of-poco-x5-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Phone Touchscreen Of Poco X5 | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-infinix-note-30-5g-get-deleted-photos-back-with-ease-and-safety-by-fonelab-android-recover-photos/"><u>How to Infinix Note 30 5G Get Deleted photos Back with Ease and Safety?</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-conquering-challenges-in-single-source-online-streaming/"><u>In 2024, Conquering Challenges in Single-Source Online Streaming</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-xiaomi-14-phone-without-pin-by-drfone-android/"><u>In 2024, How to Unlock Xiaomi 14 Phone without PIN</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/rotate-your-iphone-screen-back-to-landscape-easy-solutions/"><u>Rotate Your iPhone Screen Back to Landscape - Easy Solutions</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/upgrade-your-videos-using-winxvideo-ai-technology-effortless-quality-boost/"><u>Upgrade Your Videos Using WinxVideo AI Technology - Effortless Quality Boost</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/wie-man-dvd-filme-per-wlan-auf-apple-ipad-ipad-pro-ipad-air-ipad-mini-kopiert/"><u>Wie Man DVD Filme per WLAN Auf Apple iPad (iPad Pro, iPad Air, iPad Mini) Kopiert</u></a></li>
 </ul></div>
 

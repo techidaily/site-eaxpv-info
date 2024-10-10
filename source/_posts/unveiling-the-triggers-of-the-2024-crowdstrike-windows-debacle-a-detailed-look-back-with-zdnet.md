@@ -1,7 +1,7 @@
 ---
 title: "Unveiling the Triggers of the 2024 CrowdStrike-Windows Debacle: A Detailed Look Back with ZDNET"
-date: 2024-10-02T16:52:42.910Z
-updated: 2024-10-04T16:16:48.219Z
+date: 2024-10-07T22:00:18.708Z
+updated: 2024-10-09T22:21:41.992Z
 tags:
   - apple
 categories:
@@ -51,10 +51,10 @@ Repairing the damage from a flaw like this is a painfully tedious process that r
 If you know anyone whose job involves administering Windows PCs in a corporate network that uses the CrowdStrike code, you can be confident they are very busy right now, and will be for days to come.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111981/7443" target="_top" id="2111981">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111981" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1938745/19272" target="_top" id="1938745">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938745" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111981/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938745/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## We've seen this movie before
@@ -94,10 +94,10 @@ In the You Can't Make This Up Department… CrowdStrike's founder and CEO, Georg
 What makes the 2024 sequel so much worse is that it also affected Windows-based servers running in the cloud, on Microsoft Azure and on AWS. Just as with the many laptops and desktop PCs that were bricked by this faulty update, the cloud-based servers require time-consuming manual interventions to recover.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettifr.pxf.io/c/5597632/2145082/17095" target="_top" id="2145082">
-  <img src="//a.impactradius-go.com/display-ad/17095-2145082" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151883/7443" target="_top" id="2151883">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151883" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145082/17095" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151883/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## CrowdStrike's QA failed
@@ -127,10 +127,10 @@ As part of its initial response, CrowdStrike says it plans to take additional me
 Meanwhile, the United States House of Representatives Homeland Security Committee plans to call CrowdStrike's CEO up for hearings on what went wrong, and CrowdStrike's Chief Security Officer, Shawn Henry, [posted an apology on LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7220983915421806592/), admitting "On Friday, we failed you. ... The confidence we built in drips over the years was lost in buckets within hours, and it was a gut punch."
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925489/19272" target="_top" id="1925489">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925489" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115946/19272" target="_top" id="2115946">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115946" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925489/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115946/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How much fault should Microsoft shoulder?
@@ -181,18 +181,20 @@ Nonetheless, this incident, which caused many billions of dollars' worth of dama
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-fast-fortnite-cover-art-techniques/"><u>[New] 2024 Approved Fast Fortnite Cover Art Techniques</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-from-viewer-to-video-voyager-building-strong-backlinks-in-youtube-for-2024/"><u>[New] From Viewer to Video Voyager Building Strong Backlinks in YouTube for 2024</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-in-2024-audiovisual-ascension-masterful-lighting-techniques-unveiled/"><u>[New] In 2024, Audiovisual Ascension Masterful Lighting Techniques Unveiled</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-seamlessly-upload-youtube-videos-to-facebook-feed/"><u>[New] In 2024, How to Seamlessly Upload YouTube Videos to Facebook Feed</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-the-monetary-journey-of-ajey-nagar-on-youtube/"><u>[New] The Monetary Journey of Ajey Nagar on YouTube</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-creator-to-kingmaker-ajays-youtube-revenue-revolution/"><u>[Updated] 2024 Approved From Creator to Kingmaker Ajay’s YouTube Revenue Revolution</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-make-a-youtube-intro-video-2-ways-for-2024/"><u>[Updated] How to Make A YouTube Intro Video [2 Ways] for 2024</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/approved-finding-hashtags-that-amplify-to-6k-views/"><u>2024 Approved Finding #Hashtags That Amplify to 6K Views</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/8-safe-and-effective-methods-to-unlock-your-iphone-15-plus-without-a-passcode-drfone-by-drfone-ios/"><u>8 Safe and Effective Methods to Unlock Your iPhone 15 Plus Without a Passcode | Dr.fone</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/castcritique-report/"><u>CastCritique Report</u></a></li>
-<li><a href="https://extra-support.techidaily.com/navigating-virtual-language-basics-for-2024/"><u>Navigating Virtual Language Basics for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/transform-your-cbr-books-into-epub-without-costs-the-ultimate-how-to-tutorial/"><u>Transform Your CBR Books Into EPUB Without Costs: The Ultimate How-To Tutorial</u></a></li>
-<li><a href="https://win11.techidaily.com/unraveling-the-mystery-extracting-sids-from-users-on-windows-11/"><u>Unraveling the Mystery: Extracting SIDs From Users on Windows 11</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-become-a-windows-pro-learn-to-trim-videos-like-an-editor-for-2024/"><u>[New] Become a Windows Pro Learn to Trim Videos Like an Editor for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-hassle-free-webinar-logging-tips-for-pc-and-mac-enthusiasts/"><u>[New] Hassle-Free Webinar Logging Tips for PC & Mac Enthusiasts</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-navigating-photoplusvideo-integration-with-iphone/"><u>[New] Navigating Photo+Video Integration with iPhone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-compreran-list-efficient-platforms-for-downloading-your-favorite-tones/"><u>[Updated] Compreran List Efficient Platforms for Downloading Your Favorite Tones</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-elevate-your-hp-experience-with-these-4-screen-record-methods/"><u>[Updated] Elevate Your HP Experience with These 4 Screen Record Methods</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-add-radial-blur-effect-to-photos-in-photoshop/"><u>2024 Approved Add Radial Blur Effect to Photos in Photoshop</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/cost-vs-quality-analysis-dvd-vs-blu-ray-vs-digital-downloads-making-the-right-purchase-decision/"><u>Cost Vs. Quality Analysis: DVD Vs. Blu-Ray Vs. Digital Downloads - Making the Right Purchase Decision</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/download-winx-dvd-author-suite-premium-free-disc-burner-with-ultimate-editing-tools-for-windows-latest-versions/"><u>Download WinX DVD Author Suite | Premium, Free Disc Burner with Ultimate Editing Tools for Windows Latest Versions</u></a></li>
+<li><a href="https://program-issues.techidaily.com/guide-to-fixing-freezing-and-crashing-issues-in-the-witcher-3-wild-hunt-during-your-epic-adventure-on-pc/"><u>Guide to Fixing Freezing & Crashing Issues in 'The Witcher 3: Wild Hunt' During Your Epic Adventure on PC</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-lava-agni-2-5g-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Lava Agni 2 5G Without the Home Button | Dr.fone</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/how-to-transform-wmv-videos-to-mp4-for-free-using-web-tools-on-mac-os-and-windows-11/"><u>How to Transform WMV Videos to MP4 for Free Using Web Tools on MAC OS and Windows 11</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/resolve-your-iphone-and-ipad-troubles-with-our-ios-17-update-solutions/"><u>Resolve Your iPhone & iPad Troubles with Our iOS 17 Update Solutions</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/top-12-gratuites-programme-zum-umwandeln-von-4k-video-auf-windows-und-mac-hochskalierung-zwischen-1080p-und-4k/"><u>Top 12 Gratuites Programme Zum Umwandeln Von 4K Video Auf Windows Und Mac - Hochskalierung Zwischen 1080P Und 4K</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/top-rated-video-formats-perfectly-compatible-with-iphone-android-and-windows-devices/"><u>Top-Rated Video Formats Perfectly Compatible with iPhone, Android and Windows Devices</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/what-to-do-to-fix-pagefilesys-huge-issue/"><u>What to Do to Fix Pagefile.Sys Huge Issue</u></a></li>
 </ul></div>
 

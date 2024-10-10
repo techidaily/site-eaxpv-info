@@ -1,7 +1,7 @@
 ---
 title: Beware! IPhone and iPad Bricking Incidents Linked to iOS 18 Upgrade | Stay Informed Before Installation
-date: 2024-10-03T18:32:37.282Z
-updated: 2024-10-04T16:46:37.386Z
+date: 2024-10-05T19:41:26.147Z
+updated: 2024-10-09T16:24:29.354Z
 tags:
   - apple
 categories:
@@ -45,16 +45,16 @@ To help you make this decision, we've broken down all of the most important deta
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111995/7443" target="_top" id="2111995">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111995" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111995/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  You should buy the iPhone 16 if...
 
 Kerry Wan/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135371/19272" target="_top" id="2135371">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135371" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135371/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ###  1\. You'd benefit from Apple Intelligence features
 
@@ -63,6 +63,19 @@ Apple is rolling out [multiple AI features to the iPhone 16](https://www.zdnet.c
 **Also: [Your AIrPods Pro 2 can soon double as over-the-counter hearing aids. Here's how](https://www.zdnet.com/article/your-airpods-pro-2-can-soon-double-as-over-the-counter-hearing-aids-heres-how/)**
 
 There is more to the AI features beyond Siri. Apple Intelligence will be able to summarize notifications and Priority Messages in the Mail app. Like Siri, the feature will be able to understand context. [Apple Intelligence](https://www.zdnet.com/article/what-is-apple-intelligence-everything-to-know-about-ai-features-coming-to-iphones-macs-and-ipads/) will gain additional features later in the year like the ability to create custom emojis and perform multiple actions across apps.
+
+<!-- affiliate ads begin -->
+<span id="1743243">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1743243.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19272-1743243">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1743243.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Faligracehair.sjv.io%2Fc%2F5597632%2F1743243%2F19272'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1743243/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ###  2\. You want a better photography experience
 
@@ -90,16 +103,16 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 [See all](https://www.zdnet.com/newsletters/)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902324/19272" target="_top" id="1902324">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902324" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902324/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  You should buy the iPhone 15 if...
 
 Kerry Wan/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049390/7443" target="_top" id="2049390">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049390" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049390/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ###  1\. You don't require the generative AI capabilities
 
@@ -108,13 +121,6 @@ All of the bells and whistles on the iPhone 16 are certainly nice, but are they 
 **Also: [iPhone 15 review: Why I recommend this model even to 'Pro' users in 2024](https://www.zdnet.com/article/iphone-15-plus-review/)**
 
 Sometimes, it's best to wait until all the bugs have been ironed out. Plus, there's a lot of uncertainty surrounding the chipset. Early impressions indicate the A18 can handle all the AI features, but can it? Or will we see a performance drop once it launches? 
-
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/1943648/22993" target="_top" id="1943648">
-  <img src="//a.impactradius-go.com/display-ad/22993-1943648" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943648/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ###  2\. You're on a budget
 
@@ -125,10 +131,10 @@ It wouldn't be a bad pick-up, either. The camera system of the previous generati
 [Buy the iPhone 15 $729.99 at Best Buy](https://shop-links.co/link/?url=https%3A%2F%2Fbestbuy.7tiv.net%2Fc%2F376373%2F633495%2F10014%3Fprodsku%3D6417992%26u%3Dhttp%253A%252F%252Fwww.bestbuy.com%252Fsite%252F-%252F6417992.p%253Fcmp%253DRMX&publisher_slug=itechdaily19598&exclusive=1)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902294/19272" target="_top" id="1902294">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902294" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1884017/19272" target="_top" id="1884017">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884017" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902294/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884017/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Alternatives to consider
@@ -165,24 +171,21 @@ It wouldn't be a bad pick-up, either. The camera system of the previous generati
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-foodie-fables-enthralling-channel-names-for-epicureans/"><u>[New] 2024 Approved Foodie Fables Enthralling Channel Names for Epicureans</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-harnessing-the-power-of-visual-appeal-in-your-youtube-advertising/"><u>[New] 2024 Approved Harnessing the Power of Visual Appeal in Your YouTube Advertising</u></a></li>
-<li><a href="https://article-posts.techidaily.com/new-speedy-drawing-in-photos-a-win10-guide-to-efficient-edits-for-2024/"><u>[New] Speedy Drawing in Photos A Win10 Guide to Efficient Edits for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-green-filming-gurus-on-yt-transform-your-set-with-greenscreens/"><u>[Updated] 2024 Approved Green Filming Gurus on YT Transform Your Set with Greenscreens</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-hone-your-hashtag-game-tripled-traffic-6kplus-vistas/"><u>[Updated] 2024 Approved Hone Your Hashtag Game Tripled Traffic, $6K+ Vistas</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-from-end-to-start-annoying-yourself-with-yt-playlist-upside-down-for-2024/"><u>[Updated] From End to Start Annoying Yourself with YT Playlist Upside-Down for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-add-timestamps-to-youtube-video-to-increase-views-for-2024/"><u>[Updated] How to Add Timestamps to YouTube Video to Increase Views for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-optimize-youtube-tagstitledescription-for-more-views-for-2024/"><u>[Updated] How to Optimize YouTube Tags/Title/Description for More Views for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-vids-to-dollars-navigating-youtubes-monetization-landscape/"><u>[Updated] In 2024, From Vids to Dollars Navigating YouTube's Monetization Landscape</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-monetize-youtube-video-the-ultimate-guide-to-ad-revenue-for-2024/"><u>[Updated] Monetize YouTube Video | The Ultimate Guide to Ad Revenue for 2024</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/bite-sized-video-knowledge-now-in-2024/"><u>Bite-Sized Video Knowledge Now, In 2024</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-unlock-any-vivo-s17t-phone-password-using-emergency-call-by-drfone-android/"><u>How To Unlock Any Vivo S17t Phone Password Using Emergency Call</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-latest-guide-how-to-bypass-vivo-y55s-5g-2023-frp-without-computer-by-drfone-android/"><u>In 2024, Latest Guide How To Bypass Vivo Y55s 5G (2023) FRP Without Computer</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-simplifying-itunes-add-and-listen-to-your-choice-of-podcasts/"><u>In 2024, Simplifying iTunes Add and Listen to Your Choice of Podcasts</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/most-memorable-tiktok-videos-and-their-twitter-spreads/"><u>Most Memorable TikTok Videos & Their Twitter Spreads</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/premier-mac-tools-beyond-bandicam-for-2024/"><u>Premier Mac Tools Beyond Bandicam for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/stop-mouse-disruption-for-good-effective-solutions-you-must-try-now/"><u>Stop Mouse Disruption for Good: Effective Solutions You Must Try Now</u></a></li>
-<li><a href="https://apple-account.techidaily.com/top-notch-solutions-for-disabled-apple-id-from-iphone-14-pro-max-making-it-possible-by-drfone-ios/"><u>Top-Notch Solutions for Disabled Apple ID From iPhone 14 Pro Max Making It Possible</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-techniques-for-handling-ksuserdll-not-found-error/"><u>Troubleshooting Techniques for Handling 'ksuser.dll Not Found' Error</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/024-approved-navigating-wirecast-for-high-quality-youtube-broadcasts/"><u>[New] 2024 Approved Navigating WireCast for High-Quality YouTube Broadcasts</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-beyond-popularity-metrics-understanding-trillers-distinct-features/"><u>[New] Beyond Popularity Metrics Understanding Triller's Distinct Features</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-achieving-flawless-aerial-shots-the-best-gimbals-for-drones/"><u>[Updated] Achieving Flawless Aerial Shots The Best Gimbals for Drones</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-from-videos-to-vault-ajays-revenue-journey-on-youtube/"><u>[Updated] From Videos to Vault AJay’s Revenue Journey on YouTube</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-splitcam-review-does-it-reign-supreme-in-video-tech-in-2024/"><u>[Updated] SplitCam Review Does It Reign Supreme in Video Tech, In 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/1725290173996-dvd-windows-1011-mp4aviwmv/"><u>光驰快速：用顶级 DVD转播软件将 Windows 10/11 的光盘内容转换为 MP4/AVI/WMV</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/achieve-stunning-visuals-premium-4k-projectors-under-2k-dollars-s-market-sweepstakes/"><u>Achieve Stunning Visuals: Premium 4K Projectors Under 2K Dollars 'S Market Sweepstakes</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/ai-powered-best-titles-makers-online/"><u>AI-Powered Best Titles Makers Online</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/ameliorez-votre-numerique-avec-la-version-complete-du-winx-dvd-ripper-platine-achat-et-mise-a-niveau-inclusive/"><u>Améliorez Votre Numérique Avec La Version Complète Du WinX DVD Ripper Platine - Achat Et Mise À Niveau Inclusive!</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/fehler-bei-der-verwendung-von-handbrake-unter-windows-11-erkunde-wege-zur-behebung-und-andere-optionen/"><u>Fehler Bei Der Verwendung Von HandBrake Unter Windows 11? Erkunde Wege Zur Behebung Und Andere Optionen.</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/gpu-beschleunigte-h265-kodierung-wie-sie-schnelleres-streamen-gewahrleisten-konnen/"><u>GPU-Beschleunigte H.265 Kodierung: Wie Sie Schnelleres Streamen Gewährleisten Können</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/guide-facile-pour-transformer-des-films-mp4-en-chansons-mp3-sur-windows-navigateur-gratuitement-utilisez-loutil-convertisseur-mp4mp3/"><u>Guide Facile Pour Transformer Des Films MP4 en Chansons MP3 Sur Windows Navigateur Gratuitement - Utilisez L'outil Convertisseur MP4/MP3</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-3-ways-to-fake-gps-without-root-on-oppo-find-x7-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Fake GPS Without Root On Oppo Find X7 Ultra | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-guide-overcoming-lameencdll-error-challenges-when-using-audacity-for-mp3-files/"><u>Step-by-Step Guide: Overcoming lame_enc.dll Error Challenges when Using Audacity for MP3 Files</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/the-ultimate-guide-to-get-the-rare-candy-on-pokemon-go-fire-red-on-nokia-g42-5g-drfone-by-drfone-virtual-android/"><u>The Ultimate Guide to Get the Rare Candy on Pokemon Go Fire Red On Nokia G42 5G | Dr.fone</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/unlocking-fast-video-transcoding-on-handbrake-no-need-for-cuda/"><u>Unlocking Fast Video Transcoding on Handbrake: No Need for CUDA!</u></a></li>
 </ul></div>
 

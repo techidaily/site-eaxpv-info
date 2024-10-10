@@ -1,7 +1,7 @@
 ---
 title: "The Secret Behind Apple's Lack of Exclamation Points: An Insight Into Their Web Design Strategy"
-date: 2024-10-03T17:52:30.543Z
-updated: 2024-10-04T17:13:46.328Z
+date: 2024-10-03T16:54:52.077Z
+updated: 2024-10-09T19:07:03.976Z
 tags:
   - apple
 categories:
@@ -69,16 +69,10 @@ Yet no need for an exclamation point because, presumably, you already get the po
 But some tech companies still insist that their wares deserve some sort of exclamatory explanatory. It's a truly interesting phenomenon.
 
 <!-- affiliate ads begin -->
-<span id="1982459">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982459.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982459">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982459.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982459%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982459/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://bluettieu.pxf.io/c/5597632/2141676/17091" target="_top" id="2141676">
+  <img src="//a.impactradius-go.com/display-ad/17091-2141676" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141676/17091" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## The big startup exclamatory experiment
@@ -138,10 +132,10 @@ Screenshot by Chris Matyszczyk/ZDNET
 Oh!
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016143/19272" target="_top" id="2016143">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016143" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049363/7443" target="_top" id="2049363">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049363" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016143/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049363/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## The majority knows it's serious
@@ -163,10 +157,10 @@ I'm sure the management is excited about its product. I'm sure the product offer
 I'm equally sure that the lack of an exclamation point makes the products seem more, well, serious and important.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/1062450/7443" target="_top" id="1062450">
-  <img src="//a.impactradius-go.com/display-ad/7443-1062450" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100534/7443" target="_top" id="2100534">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100534" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062450/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100534/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Sell, don't shout
@@ -223,24 +217,20 @@ It worked for Apple. (I'm not sure the opposite worked quite so well for Yahoo!)
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-create-a-playlist-on-youtube/"><u>[New] 2024 Approved How to Create a Playlist on YouTube</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-optimally-apply-a-creative-commons-license/"><u>[New] 2024 Approved How to Optimally Apply a Creative Commons License</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-capturing-every-moment-unveiling-5-exceptional-streamer-webcams-for-2024/"><u>[New] Capturing Every Moment Unveiling 5 Exceptional Streamer Webcams for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-accelerate-your-youtube-upload-with-effective-rendering/"><u>[New] In 2024, How to Accelerate Your YouTube Upload with Effective Rendering</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-block-youtube-channels-on-computer-and-mobile-phones/"><u>[New] In 2024, How to Block YouTube Channels on Computer and Mobile Phones</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-free-video-wizardry-top-8-editing-programs-for-youtube-enthusiasts/"><u>[Updated] 2024 Approved Free Video Wizardry Top 8 Editing Programs for YouTube Enthusiasts</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-many-viewer-thumbs-up-equals-money-youtube-tips/"><u>[Updated] 2024 Approved How Many Viewer Thumbs Up Equals Money? YouTube Tips</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-expertly-curated-list-of-top-6-head-mounted-cameras-for-action-seekers/"><u>[Updated] Expertly Curated List of Top 6 Head-Mounted Cameras for Action Seekers</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-from-zero-to-viral-video-top-10-user-friendly-youtube-concepts-for-2024/"><u>[Updated] From Zero to Viral Video Top 10 User-Friendly YouTube Concepts for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-free-youtube-image-saver-compilation/"><u>[Updated] In 2024, Free YouTube Image Saver Compilation</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-live-action-to-youtube-recording-your-device-display/"><u>[Updated] In 2024, From Live Action to YouTube Recording Your Device Display</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/2024-approved-more-than-you-could-dream-or-imagine-final-cut-pro-x-is-a-powerful-software-one-such-hidden-feature-from-fcpx-is-jump-cuts-and-we-shall-know-m/"><u>2024 Approved More than You Could Dream or Imagine, Final Cut Pro X Is a Powerful Software. One Such Hidden Feature From FCPX Is Jump Cuts, and We Shall Know More About Final Cut Pro Jump Cuts in This Article</u></a></li>
-<li><a href="https://common-error.techidaily.com/fixing-steam-game-dll-mismatch-issue/"><u>Fixing Steam Game: DLL Mismatch Issue</u></a></li>
-<li><a href="https://some-skills.techidaily.com/how-to-create-amazing-mosaic-photo-collage-for-2024/"><u>How to Create Amazing Mosaic Photo Collage for 2024</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/in-2024-photo-framing-made-easy-leading-apps-and-sites-reviewed/"><u>In 2024, Photo Framing Made Easy Leading Apps and Sites Reviewed</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-read-this-guide-to-find-a-reliable-alternative-to-fake-gps-on-oppo-a78-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Read This Guide to Find a Reliable Alternative to Fake GPS On Oppo A78 5G | Dr.fone</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/mastering-the-art-of-lynel-combat-in-nintendos-zelda-adventure/"><u>Mastering the Art of Lynel Combat in Nintendo's Zelda Adventure</u></a></li>
-<li><a href="https://win-answers.techidaily.com/ultimate-guide-resolving-excessive-cpu-consumption-by-discord/"><u>Ultimate Guide: Resolving Excessive CPU Consumption by Discord</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/what-does-jailbreaking-iphone-15-pro-i-do-get-answers-here-by-drfone-ios/"><u>What Does Jailbreaking iPhone 15 Pro i Do? Get Answers here</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-unleashing-potential-making-the-most-of-facebook-each-day/"><u>[Updated] In 2024, Unleashing Potential Making the Most of Facebook Each Day</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-obs-studio-vs-bandicam-which-takes-the-crown-for-2024/"><u>[Updated] OBS Studio Vs. Bandicam Which Takes the Crown for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-xbox-gamers-guide-4-proven-screen-recording-methods/"><u>[Updated] Xbox Gamers' Guide 4 Proven Screen Recording Methods</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/1725289900514-10-pc/"><u>10 位最佳 PC 影片編輯工具: 評比及精心挑選</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-engagement-enhancers-trending-stories-filters/"><u>2024 Approved Engagement Enhancers Trending Stories Filters</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/2024-approved-video-platform-review-is-vimeo-best-over-youtubes-and-dailymotions/"><u>2024 Approved Video Platform Review Is Vimeo Best Over YouTubes and DailyMotions?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-ways-to-move-contacts-from-realme-gt-3-to-iphone-131415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways to Move Contacts From Realme GT 3 to iPhone (13/14/15) | Dr.fone</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/comparing-dvd-blu-ray-and-digital-media-formats-best-investment/"><u>Comparing DVD, Blu-Ray & Digital Media Formats - Best Investment?</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/design-principles-for-captivating-fb-advertising-for-2024/"><u>Design Principles for Captivating FB Advertising for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ce-video-pace-youtube-via-desktops-and-phones/"><u>Enhance Video Pace - YouTube via Desktops & Phones</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/expert-online-helpdesk-services-for-winx-dvd-ripping-and-video-conversion-tool/"><u>Expert Online Helpdesk Services for WinX DVD Ripping & Video Conversion Tool</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/free-winx-dvd-ripper-effortless-conversion-from-dvd-to-mp4avi-for-ios-and-android-devices/"><u>Free WinX DVD Ripper: Effortless Conversion From DVD to MP4/AVI for iOS & Android Devices</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/geschwindigkeitstechniken-fur-hevch265-kodierung-warum-scheint-es-langsamer-zu-sein-und-wie-beschleunigen-sie-den-vorgang/"><u>Geschwindigkeitstechniken Für HEVC/H.265-Kodierung: Warum Scheint Es Langsamer Zu Sein Und Wie Beschleunigen Sie Den Vorgang?</u></a></li>
+<li><a href="https://windows11.techidaily.com/supercharge-your-development-with-enhanced-android-studio-performance/"><u>Supercharge Your Development with Enhanced Android Studio Performance</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/the-magic-behind-4k-upscaling-elevating-video-quality-explained/"><u>The Magic Behind 4K Upscaling: Elevating Video Quality Explained</u></a></li>
 </ul></div>
 

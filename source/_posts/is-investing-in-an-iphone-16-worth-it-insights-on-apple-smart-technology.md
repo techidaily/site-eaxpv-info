@@ -1,7 +1,7 @@
 ---
 title: Is Investing in an iPhone 16 Worth It? Insights on Apple Smart Technology
-date: 2024-09-28T17:04:20.747Z
-updated: 2024-10-04T17:59:26.179Z
+date: 2024-10-03T21:22:27.862Z
+updated: 2024-10-09T22:17:28.941Z
 tags:
   - apple
 categories:
@@ -35,10 +35,10 @@ Every year, my wife and I eagerly await the release of the new iPhones. Being pa
 Despite the buzz around the [iPhone 16's new features](https://www.zdnet.com/article/im-an-android-user-but-these-three-iphone-16-features-would-win-me-over/) and the integration of Apple Intelligence, however, several concerns dampen my enthusiasm for upgrading this year.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139111/17108" target="_top" id="2139111">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139111" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1918703/19272" target="_top" id="1918703">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918703" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139111/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918703/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Apple Intelligence: A significant, yet incomplete, leap forward
@@ -65,6 +65,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484909/16446" target="_top" id="1484909">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484909" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484909/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## New hardware leaks: what to expect from the iPhone 16
 
 Earlier, I discussed how older -- as well as current generation -- iOS devices [aren't powerful enough to handle on-device Generative AI tasks](https://www.zdnet.com/article/the-expensive-reason-why-apples-upcoming-ai-features-arent-coming-to-your-older-iphone/). The [base iPhone 15](https://www.zdnet.com/article/iphone-15-plus-review/), which has only 6GB of RAM, would struggle to meet the demands of Apple Intelligence as it evolves and becomes more integrated into iOS, core Apple applications, and developer applications. Older iPhones have [6GB of RAM or less](https://iosref.com/ram-processor), and are not eligible to run Apple Intelligence in current iOS 18.1 builds. 
@@ -82,10 +89,16 @@ Interestingly, despite these hardware upgrades, Apple appears to be keeping pric
 Despite these upgrades, the iPhone 16 may still face challenges due to design cycles that didn't fully account for the scope of Apple Intelligence's capabilities. As a result, users may experience suboptimal performance and a less seamless user experience, especially as more AI features roll out in subsequent updates.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148772/18498" target="_top" id="2148772">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148772" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148772/18498" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1975555">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975555.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975555">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975555.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975555%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975555/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Why you shouldn't buy the iPhone 16 for Apple Intelligence
@@ -97,10 +110,10 @@ Besides memory concerns, AI processing demands a lot of power and additional com
 For these reasons, I see the iPhone 16 (and potentially even the iPhone 17) as a transitional product in Apple's journey toward on-device AI. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105859/7443" target="_top" id="2105859">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123735/7443" target="_top" id="2123735">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123735" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105859/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123735/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How Apple Intelligence will likely evolve
@@ -118,19 +131,6 @@ Apple could achieve this by equipping MacOS, iOS, and iPadOS with Apple Intellig
 Enterprises may also employ a mobile device management solution to facilitate access to on-device LLMs with business Macs. Additionally, iPhones or Macs could be used as proxies for Apple Watch or HomePod requests for mobile users. We may also see a more powerful Apple TV with more onboard memory and processing to act as an Apple Intelligence "hub" for every Apple device in a household.
 
 Imagine your iPhone using the unused processing power of your Mac or iPad, all equipped with on-device LLMs, to tackle complex AI tasks. This would increase the accessibility of AI features across Apple's product range.
-
-<!-- affiliate ads begin -->
-<span id="1983573">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## I'm still optimistic
 
@@ -172,19 +172,15 @@ _This article was originally published on June 28, 2024, and updated on August 2
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-creator-to-critic-evaluating-video-value-across-platforms/"><u>[New] 2024 Approved From Creator to Critic Evaluating Video Value Across Platforms</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-novice-to-vlogger-your-guide-to-creating-a-youtube-chanel/"><u>[New] In 2024, From Novice to Vlogger Your Guide to Creating a YouTube Chanel</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-make-your-shorts-image-visible-again/"><u>[New] In 2024, How to Make Your Shorts' Image Visible Again</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-find-my-playlist-on-youtube/"><u>[Updated] 2024 Approved How to Find My Playlist on YouTube</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-get-a-youtube-video-trending/"><u>[Updated] In 2024, How to Get a YouTube Video Trending</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-quickly-and-easily-share-a-youtube-playlist/"><u>[Updated] In 2024, How to Quickly And Easily Share A YouTube Playlist</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-quick-reinstatement-vanished-visuals/"><u>[Updated] In 2024, Quick Reinstatement Vanished Visuals</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/202n5androidiphone/"><u>您在202n年必须注意的5个影视剪辑工具，Android/iPhone版本</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/cant-remember-your-iphone-password-heres-the-solution/"><u>Can't Remember Your iPhone Password? Here's the Solution!</u></a></li>
-<li><a href="https://driver-error.techidaily.com/download-and-update-lenovo-y900-drivers-for-windows-11-step-by-step-guide/"><u>Download and Update Lenovo Y900 Drivers for Windows 11: Step-by-Step Guide</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-infinix-note-30-vip-location-by-number-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Infinix Note 30 VIP Location by Number | Dr.fone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-tutorial-to-change-vivo-v30-imei-without-root-a-comprehensive-guide-by-drfone-android/"><u>In 2024, Tutorial to Change Vivo V30 IMEI without Root A Comprehensive Guide</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/iphone-and-ipad-video-powerhouses-the-ultimate-list-of-10-for-2024/"><u>IPhone & iPad Video Powerhouses The Ultimate List of 10 for 2024</u></a></li>
-<li><a href="https://fox-that.techidaily.com/sluggish-smartphone-signal-accelerate-your-data-speeds-in-just-10-steps/"><u>Sluggish Smartphone Signal? Accelerate Your Data Speeds in Just 10 Steps!</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-windows-pc-broadcasting-manual-a-comprehensive-live-tv-recording-guide/"><u>[Updated] In 2024, Windows PC Broadcasting Manual A Comprehensive Live TV Recording Guide</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/exciting-squid-game-inspired-adventures-top-gaming-picks-for-all-platforms-pc-mobile-and-console/"><u>Exciting Squid Game Inspired Adventures: Top Gaming Picks for All Platforms (PC, Mobile & Console)</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-unlink-apple-id-from-iphone-6s-plus-by-drfone-ios/"><u>How To Unlink Apple ID From iPhone 6s Plus</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/improving-video-clarity-converting-standard-footage-to-hd4k-on-both-windows-and-macos-systems/"><u>Improving Video Clarity: Converting Standard Footage to HD/4K on Both Windows & macOS Systems</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfer-apple-iphone-6s-data-to-iphone-12-a-complete-guide-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How to Transfer Apple iPhone 6s Data to iPhone 12 A Complete Guide | Dr.fone</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/plex-y-codecs-av1-guia-paso-a-paso-para-incorporar-firmas-av1-en-su-plataforma-de-streaming-plex/"><u>Plex Y Codecs AV1: Guía Paso a Paso Para Incorporar Firmas AV1 en Su Plataforma De Streaming Plex</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/strategic-viewing-enhancing-your-movie-experience/"><u>Strategic Viewing: Enhancing Your Movie Experience</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-art-of-humor-in-minutes-kinemaster-techniques-for-2024/"><u>The Art of Humor in Minutes KineMaster Techniques for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/the-ultimate-guide-to-the-best-hevc-transcoding-tools-in-2errynhoos-2024-rankings/"><u>The Ultimate Guide to the Best HEVC Transcoding Tools in 2Errynhoo's 2024 Rankings</u></a></li>
+<li><a href="https://windows11.techidaily.com/unearthing-bsod-traces-within-windows-vista2008/"><u>Unearthing BSOD Traces Within Windows Vista/2008</u></a></li>
 </ul></div>
 

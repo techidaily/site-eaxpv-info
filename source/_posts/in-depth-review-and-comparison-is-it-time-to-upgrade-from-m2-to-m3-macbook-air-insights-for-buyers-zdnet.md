@@ -1,7 +1,7 @@
 ---
 title: "In-Depth Review & Comparison: Is It Time to Upgrade From M2 to M3 MacBook Air? Insights for Buyers | ZDNET"
-date: 2024-09-29T18:39:16.887Z
-updated: 2024-10-04T18:07:55.590Z
+date: 2024-10-04T23:56:09.786Z
+updated: 2024-10-10T00:55:55.964Z
 tags:
   - apple
 categories:
@@ -37,6 +37,13 @@ But if pricing impacts your buying decision, then the similarly-designed iPad Ai
 
 **Also: [The best iPad Air cases](https://www.zdnet.com/article/best-ipad-air-case/)**
 
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2141683/17092" target="_top" id="2141683">
+  <img src="//a.impactradius-go.com/display-ad/17092-2141683" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141683/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Specifications
 
 | | iPad Air 4 (2020)        | iPad Air 5 (2022)                              |                                                |
@@ -55,28 +62,28 @@ But if pricing impacts your buying decision, then the similarly-designed iPad Ai
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902324/19272" target="_top" id="1902324">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902324" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144309/7443" target="_top" id="2144309">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144309" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902324/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144309/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## You should buy the iPad Air 5 (2022) if...
 
 Image: Apple
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006933/19272" target="_top" id="2006933">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006933" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006933/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 1\. You're ready to embrace Apple's M1 supremacy
 
 The saying you can't teach an old dog new tricks doesn't really apply to the iPad Air 5\. In fact, underneath the familiar glass and aluminum exterior is Apple's ARM-based, eight-core CPU, [M1 processor](https://www.zdnet.com/article/apple-m1-vs-m2/). Trickling down from MacBooks and iMacs, Apple's M1 chip is expected to be up to 60% faster and more powerful than its A-series counterpart -- like the A14 found in the iPad Air 4\. 
 
 That's a significant step up, considering both iPads start on equal footing with 8GB of RAM. While the iPad Air 5 didn't get Apple's newer [M2 chip](https://www.zdnet.com/article/everything-you-need-to-know-about-the-apple-m2-chip/), the M1 is still a powerhouse for graphics-intensive apps, such as video editors, 3D racing games, augmented reality, and general multitasking.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100542/7443" target="_top" id="2100542">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100542" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100542/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 2\. You want a better front camera and FaceTime experience
 
@@ -104,31 +111,18 @@ With the release of the new iPad Air, most third-party retailers have since mark
 
 [Apple iPad Air (2020) $421.79 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB08J66ZMY7%3FlinkCode%3Dogi%26th%3D1%26psc%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cc2f96935-50b5-4c02-9352-a589939a7557%7Cdtp&dtb=1)
 
-<!-- affiliate ads begin -->
-<span id="1492813">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1492813.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1492813">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1492813.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1492813%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1492813/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## FAQ
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/857869/11832" target="_top" id="857869">
-  <img src="//a.impactradius-go.com/display-ad/11832-857869" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857869/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Should I get the iPad Air 4 (2020) or the iPad Air 5 (2022)?
 
 You should buy the iPad Air 5 (2022) if you're looking to upgrade to the Apple M1 chip, you want a better front camera and FaceTime experience, or you want to upgrade to a 5G iPad. You should get the iPad Air 4 (2020) if the price comes before anything else. Many retailers are lowering their prices of the older iPad 4 model to clear inventory, making the 2020 model the more cost-effective iPad of the two.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036472/19272" target="_top" id="2036472">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036472" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036472/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Does the Apple Pencil (1st Gen) work with the iPad Air?
 
@@ -176,16 +170,24 @@ If you're still on the fence, below are the best alternatives to the iPad Air.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/024-approved-discovering-the-ultimate-10-free-youtube-artist-collaborators/"><u>[New] 2024 Approved Discovering the Ultimate 10 Free YouTube Artist Collaborators</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-how-to-balance-youtube-with-a-full-time-job-for-2024/"><u>[New] How to Balance YouTube with a Full-Time Job for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/1717726008656-new-how-to-upload-videos-to-youtube-a-step-by-step-guide-for-2024/"><u>[New] How To Upload Videos to YouTube A Step-by-Step Guide for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-hot-tunes-essential-background-scores-for-viral-yt-shorts/"><u>[New] In 2024, Hot Tunes Essential Background Scores For Viral YT Shorts</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-make-your-videos-a-youtube-hit-top-tips-and-strategies/"><u>[Updated] 2024 Approved How To Make Your Videos a YouTube Hit Top Tips and Strategies</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-capture-the-world-through-the-lens-of-mi-11/"><u>[Updated] In 2024, Capture the World Through the Lens of Mi 11</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-get-started-signing-up-for-a-youtube-channel/"><u>[Updated] In 2024, How to Get Started Signing Up for a YouTube Channel</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/breaking-down-color-grading-into-simplified-steps/"><u>Breaking Down Color Grading Into Simplified Steps</u></a></li>
-<li><a href="https://facebook.techidaily.com/securing-your-childs-digital-domain-on-facebook/"><u>Securing Your Child's Digital Domain on Facebook</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/top-10-solutions-for-troubleshooting-your-wi-fi-adapter-or-ap-issues/"><u>Top 10 Solutions for Troubleshooting Your Wi-Fi Adapter or AP Issues</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/youtube-live-selling-boost-your-sales-with-these-tips-for-2024/"><u>YouTube Live Selling Boost Your Sales With These Tips for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/no-pierdas-tu-contenido-como-hacer-una-copia-de-seguridad-perfecta-de-cualquier-dvd-en-menos-de-5-minutos/"><u>¡No Pierdas Tu Contenido! Cómo Hacer Una Copia De Seguridad Perfecta De Cualquier DVD en Menos De 5 Minutos</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-beginners-vlogging-toolkit-gear-and-software/"><u>[Updated] 2024 Approved Beginner's Vlogging Toolkit Gear and Software</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/come-recuperare-i-file-multimediali-danneggiati-mp4-per-pc-e-mac-tutorial-gratuito/"><u>Come Recuperare I File Multimediali Danneggiati (MP4) per PC E Mac - Tutorial Gratuito</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/convert-your-flv-files-for-free-easily-switch-between-formats-like-avi-wmv-mp4-and-mp3/"><u>Convert Your FLV Files for Free: Easily Switch Between Formats Like AVI, WMV, MP4 and MP3</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/dvdiso-iso/"><u>DVDからISO画像への簡単な変換 - ISOリッピングソフト使用ガイド</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/exploring-the-escalation-top-8-factors-behind-growing-generative-ai-safety-concerns/"><u>Exploring the Escalation: Top 8 Factors Behind Growing Generative AI Safety Concerns</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/fixing-no-valid-source-error-in-handbrake-a-step-by-step-guide/"><u>Fixing 'No Valid Source' Error in HandBrake - A Step-by-Step Guide</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/guide-to-mirror-your-motorola-edge-40-pro-to-other-android-devices-drfone-by-drfone-android/"><u>Guide to Mirror Your Motorola Edge 40 Pro to Other Android devices | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-repair-system-of-apple-iphone-12-pro-max-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair System of Apple iPhone 12 Pro Max? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-tecno-phantom-v-fold-by-phone-number-drfone-by-drfone-virtual-android/"><u>How to Track Tecno Phantom V Fold by Phone Number | Dr.fone</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/i-migliori-10-programmi-editor-mp4-gratuiti-multi-piattaforma-windows-mac-and-linux/"><u>I Migliori 10 Programmi Editor MP4 Gratuiti Multi-Piattaforma: Windows, Mac & Linux</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-a-working-guide-for-pachirisu-pokemon-go-map-on-sony-xperia-5-v-drfone-by-drfone-virtual-android/"><u>In 2024, A Working Guide For Pachirisu Pokemon Go Map On Sony Xperia 5 V | Dr.fone</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-pro-rated-income-status-for-content-makers/"><u>In 2024, Pro-Rated Income Status for Content Makers</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-what-does-enter-puk-code-mean-and-why-did-the-sim-get-puk-blocked-on-oppo-a79-5g-device-by-drfone-android/"><u>In 2024, What Does Enter PUK Code Mean And Why Did The Sim Get PUK Blocked On Oppo A79 5G Device</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/quick-guide-to-downsize-and-share-bulky-videos-efficiently-through-whatsapp/"><u>Quick Guide to Downsize and Share Bulky Videos Efficiently Through WhatsApp</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/spielen-sie-dvds-auf-der-playstation-5-ab-eine-schritt-fur-schritt-anleitung/"><u>Spielen Sie DVDs Auf Der PlayStation 5 Ab - Eine Schritt-Für-Schritt-Anleitung</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/the-ultimate-guide-elevate-your-gaming-experience-with-voice-customization-in-free-fire/"><u>The Ultimate Guide Elevate Your Gaming Experience with Voice Customization in Free Fire</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-strategy-for-identifying-read-messages-in-gmail-what-you-need-to-know/"><u>The Ultimate Strategy for Identifying Read Messages in Gmail – What You Need to Know</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/troubleshooting-asynchronous-av-streams-in-high-efficiency-video-coding-hevc-common-issues-and-fixes/"><u>Troubleshooting Asynchronous AV Streams in High-Efficiency Video Coding (HEVC): Common Issues & Fixes</u></a></li>
 </ul></div>
 

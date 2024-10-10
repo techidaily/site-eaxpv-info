@@ -1,7 +1,7 @@
 ---
 title: "Mastering MacOS Monterey: Building Personalized Focusing Modes for Enhanced Productivity | Insights From ZDNet"
-date: 2024-10-02T16:13:05.047Z
-updated: 2024-10-04T17:29:09.704Z
+date: 2024-10-04T17:28:18.452Z
+updated: 2024-10-09T22:54:55.224Z
 tags:
   - apple
 categories:
@@ -32,13 +32,6 @@ So, how do you create this custom Flow? Let me show you. All you'll need to make
 
 Click on the Apple menu in the top left corner of your desktop. From the resulting pop-up menu, click System Preferences.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148775/18498" target="_top" id="2148775">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148775" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148775/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 2\. Access Notifications & Focus
 
 In the System Preferences window (**Figure 1**), click Notifications & Focus.
@@ -48,10 +41,10 @@ In the System Preferences window (**Figure 1**), click Notifications & Focus.
 Image: Jack Wallen
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135356/19272" target="_top" id="2135356">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135356" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135361/19272" target="_top" id="2135361">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135361" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135356/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135361/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 3\. Open the Focus tab
@@ -61,6 +54,13 @@ Once Notifications & Focus is opened, click the Focus tab (**Figure 2**).
 **Figure 2:** You'll find a single pre-configured Focus for Do Not Disturb already available.
 
 Image: Jack Wallen
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925570/19272" target="_top" id="1925570">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925570" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925570/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 4\. Create the new Focus
 
@@ -79,10 +79,10 @@ Image: Jack Wallen
 After naming and selecting a color/icon, click Add to save the new Focus.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118320/7443" target="_top" id="2118320">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118320" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130889/7443" target="_top" id="2130889">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130889" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118320/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130889/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 5\. Allowing specific notifications
@@ -100,10 +100,10 @@ From the pop-up list, select the contact(s) you want to be allowed to interrupt 
 Image: Jack Wallen
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006955/19272" target="_top" id="2006955">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006955" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123726/7443" target="_top" id="2123726">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123726" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006955/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123726/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 6\. Set the Focus to be enabled
@@ -148,22 +148,20 @@ Use this new Focus feature wisely, and it will help you be more productive while
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-halt-youtube-suggested-content-now/"><u>[New] 2024 Approved Halt YouTube Suggested Content Now</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-buy-youtube-views-everything-you-need-to-know/"><u>[New] 2024 Approved How to Buy YouTube Views - Everything You Need To Know</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-2024-approved-the-complete-tech-manual-for-game-screen-recording-win10/"><u>[New] 2024 Approved The Complete Tech Manual for Game Screen Recording Win10</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-from-vlogger-to-earnest-by-year-end-following-sourav-joshis-examples-for-2024/"><u>[New] From Vlogger to Earnest by Year End - Following Sourav Joshi's Examples for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-giggles-guidebook-planning-7-funny-video-frameworks/"><u>[New] In 2024, Giggles Guidebook Planning 7 Funny Video Frameworks</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-seamlessly-reorganize-video-playlists-on-yt/"><u>[New] In 2024, How to Seamlessly Reorganize Video Playlists on YT</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-in-2024-the-filmmakers-handbook-to-superior-voice-overseeing/"><u>[New] In 2024, The Filmmaker's Handbook to Superior Voice Overseeing</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-how-regular-are-youtube-monetization-payments-for-2024/"><u>[Updated] How Regular Are YouTube Monetization Payments for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-imovies-beat-based-filmmaking/"><u>[Updated] IMovie's Beat-Based Filmmaking</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-free-youtube-thumbnails-saving-guide/"><u>[Updated] In 2024, Free YouTube Thumbnails Saving Guide</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-full-spectrum-review-exploring-digital-performances-evolution/"><u>[Updated] In 2024, Full Spectrum Review Exploring Digital Performance's Evolution</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-maximizing-engagement-essential-strategies-for-facebook-video-promotion-for-2024/"><u>[Updated] Maximizing Engagement Essential Strategies for Facebook Video Promotion for 2024</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-samurais-shadowed-path-other-epic-warrior-games/"><u>[Updated] Samurai's Shadowed Path - Other Epic Warrior Games</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/approved-the-ultimate-guide-to-generating-ideal-youtube-titles-on-a-shoestring/"><u>2024 Approved The Ultimate Guide to Generating Ideal YouTube Titles on a Shoestring</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-google-chrome-from-tracking-your-location-on-oppo-reno-10-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop Google Chrome from Tracking Your Location On Oppo Reno 10 5G? | Dr.fone</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-understanding-audio-confluence-the-essence-of-crossfade/"><u>In 2024, Understanding Audio Confluence The Essence of Crossfade</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/ultimate-guide-setting-up-your-macs-network-drive-mapping/"><u>Ultimate Guide: Setting Up Your Mac's Network Drive Mapping</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/1725287660172-disney-dvd/"><u>解锁和转换 Disney DVD受限版光盘的完全指南</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/cinematography-simplified-fades-made-easy-for-2024/"><u>Cinematography Simplified Fades Made Easy for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/download-the-best-h2n4-compression-tool-enhance-your-hd-video-experience-with-no-costs-involved/"><u>Download the Best H.2n4 Compression Tool: Enhance Your HD Video Experience with No Costs Involved</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/elegir-el-mejor-software-de-captura-de-pantalla-para-sistemas-windows-1187-soluciones-integrales-para-toda-tu-pantalla/"><u>Elegir El Mejor Software De Captura De Pantalla Para Sistemas Windows 11/8/7 - Soluciones Integrales Para Toda Tu Pantalla</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/empower-your-site-insights-using-cookiebot-the-ultimate-web-tracker-solution/"><u>Empower Your Site Insights Using Cookiebot – The Ultimate Web Tracker Solution</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/from-windows-8-to-windows-10-understanding-the-evolution-and-enhanced-features/"><u>From Windows 8 to Windows 10: Understanding the Evolution and Enhanced Features</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-google-frp-lock-on-xiaomi-redmi-note-12-pro-5g-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock on Xiaomi Redmi Note 12 Pro 5G Devices</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/how-to-present-ppt-on-google-meet/"><u>How to Present PPT on Google Meet?</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-use-google-assistant-on-your-lock-screen-of-tecno-camon-30-pro-5g-phone-by-drfone-android/"><u>In 2024, How to Use Google Assistant on Your Lock Screen Of Tecno Camon 30 Pro 5G Phone</u></a></li>
+<li><a href="https://fox-info.techidaily.com/in-2024-unraveling-the-warped-world-of-gopro-fisheye-effects/"><u>In 2024, Unraveling The Warped World of GoPro Fisheye Effects</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/leading-no-cost-ai-solutions-for-repairing-age-old-images-and-memories/"><u>Leading No-Cost AI Solutions for Repairing Age-Old Images & Memories</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/monthly-nzxt-lease-deals-power-up-with-core-i5-and-rtx-4060-gpu-gaming-pc-at-just-59-or-go-bigger-with-core-i7-and-rtx-er-4070-ti-for-a-premium-package-at-182/"><u>Monthly NZXT Lease Deals: Power up with Core I5 & RTX 4060 GPU Gaming PC at Just $59 or Go Bigger with Core I7 and RTX Er 4070 Ti for a Premium Package at $169</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/step-by-step-guide-to-transferring-dvd-content-onto-your-xbox-one-x-or-s-using-windows-11-or-mac/"><u>Step-by-Step Guide to Transferring DVD Content Onto Your Xbox One X or S Using Windows 11 or Mac</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/telecharger-sans-frais-extraire-un-dvd-palregion-2-en-format-video-actuel/"><u>Télécharger Sans Frais - Extraire Un DVD PAL/Région 2 en Format Vidéo Actuel</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/the-6-best-sim-unlock-services-that-actually-work-on-your-itel-p55-5g-device-by-drfone-android/"><u>The 6 Best SIM Unlock Services That Actually Work On Your Itel P55 5G Device</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "All About Apple Vision Pro: Pricing Breakdown, Feature Overview & Hands-On Analysis - Comprehensive Insights"
-date: 2024-10-01T16:26:23.283Z
-updated: 2024-10-04T17:29:13.073Z
+date: 2024-10-07T20:27:01.627Z
+updated: 2024-10-09T16:26:42.457Z
 tags:
   - apple
 categories:
@@ -53,10 +53,10 @@ Apple's approach to AI is markedly different from that of its competitors, howev
 This lets Apple disengage from the chaotic rat race to a degree, positioning itself as the careful, more ethical actor when it comes to AI, particularly in light of [recent debilitating security concerns](https://www.zdnet.com/article/after-brutal-critiques-microsoft-recall-will-get-these-major-privacy-and-security-changes/) from Microsoft's Recall feature, which is delaying the release of a host of its new [Copilot+ PCs](https://www.zdnet.com/article/every-copilot-pc-microsoft-just-announced-to-take-on-apples-m3-macbooks/).
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134498/18498" target="_top" id="2134498">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134498" border="0" alt="https://techidaily.com" width="720" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1868590/19272" target="_top" id="1868590">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868590" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134498/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868590/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Continuity
@@ -71,13 +71,6 @@ The app also streamlines your devices by bringing your iPhone's notifications st
   
 Alternatively, the new standby mode on the iPhone displays a host of at-a-glance (but un-interactable) data like a clock and calendar while you're using the Continuity app on the Mac. 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925565/19272" target="_top" id="1925565">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925565" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925565/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 3\. Siri 2.0
 
 Screenshot by Nina Raemont
@@ -89,6 +82,13 @@ Apple has played the long game when it comes to its virtual assistant, Siri. As 
 During the WWDC keynote, Apple showed off Siri's new look as an ever-present AI assistant integrated into every thread of the UI, not a standalone app. Siri will have access to ChatGPT's LLM, allowing the AI to be functionally ready to communicate in a more natural context, following up with previous conversations and messages instead of providing full context in every single prompt. 
 
 The new Siri also comes with on-screen awareness, allowing the AI to respond to what you're looking at on the screen without requiring the user to provide specific context with each prompt. This also allows Siri to take in-app actions in a way that wasn't possible before. In MacOS Sequoia, Siri's integration with OpenAI's LLM propels the virtual assistant to the top players in the field alongside [ChatGPT-4o](https://www.zdnet.com/article/how-to-use-chatgpt-plus-from-gpt-4o-to-interactive-tables/) and [Google's Gemini](https://www.zdnet.com/article/what-is-google-gemini/). 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082536/7443" target="_top" id="2082536">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082536" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082536/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. AI-fueled productivity apps
 
@@ -103,10 +103,16 @@ Apple Intelligence has been integrated across all of the big productivity apps i
 * **Notes:** Voice functionality is coming to the Notes app, with the ability to add voice memos directly embedded into your notes. AI will also support audio transcription and transcripts of audio recordings. You can record and transcribe audio, and when your recording is finished, the AI will create a summary on its own.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148635/16836" target="_top" id="2148635">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148635" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148635/16836" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1993647">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993647.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993647">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993647%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993647/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. New and improved Safari
@@ -119,13 +125,6 @@ Safari will see a host of improvements powered by AI functionality, including an
 
 Apple demoed Safari's machine learning capability to automatically detect relevant information on a webpage, including things like quick links, directions, and quick summaries with logistical information like phone numbers and addresses. 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012429/19272" target="_top" id="2012429">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012429" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012429/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 6\. Standalone Passwords app
 
 Screenshot by Nina Raemont
@@ -135,6 +134,13 @@ Aligning with Apple's positioning of its AI features as secure and trustworthy, 
 **Also: [Forget LastPass: Apple unveils 'Passwords' manager app at WWDC 2024](https://www.zdnet.com/article/forget-lastpass-apple-unveils-passwords-manager-app-at-wwdc-2024/)**
 
 This standalone app is an extension of the existing iCloud Keychain, and seeks to simplify password storage by employing Face ID and Touch ID alongside character-string passwords. Much of it is designed to work automatically and seamlessly in an effort to solve what is a huge UX headache that everyone has experienced at one point or another. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105867/7443" target="_top" id="2105867">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105867" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105867/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 7\. Gaming
 
@@ -170,22 +176,22 @@ Apple wants to create a "unified gaming platform" across the iPhone, iPad, and M
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-elevate-your-videography-7-free-sound-effects-collection/"><u>[New] 2024 Approved Elevate Your Videography - 7 Free Sound Effects Collection</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-clicks-to-cash-the-journey-of-youtubes-ajay-nagar/"><u>[New] 2024 Approved From Clicks to Cash The Journey of YouTube's Ajay Nagar</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-highlighting-youtubes-creme-de-la-creme-makeup-influencers/"><u>[New] 2024 Approved Highlighting YouTube's Crème De La Crème Makeup Influencers</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-android-freedom-the-most-popular-top-10-fb-video-extraction-tools-for-2024/"><u>[New] Android Freedom The Most Popular Top 10 FB Video Extraction Tools for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-flutter-free-video-conversion-the-best-alternatives-for-youtube-upload-for-2024/"><u>[New] Flutter Free Video Conversion The Best Alternatives for YouTube Upload for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-from-gym-goer-to-broadcayer-set-up-a-sports-vlog-on-macos-for-2024/"><u>[New] From Gym Goer to Broadcayer Set Up a Sports Vlog on macOS for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-high-ranking-videos-youtubes-everlasting-classics-for-2024/"><u>[New] High-Ranking Videos YouTube’s Everlasting Classics for 2024</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/treamers-picks-top-5-noise-canceling-headsets-for-2024/"><u>[New] Streamer's Picks Top 5 Noise-Canceling Headsets for 2024</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-tips-for-higher-youtube-traction-with-persistent-creative-commons-usage/"><u>[New] Tips for Higher YouTube Traction with Persistent Creative Commons Usage</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-windows-and-mac-recording-tactics-finding-your-perfect-match-freepaid/"><u>[New] Windows & Mac Recording Tactics - Finding Your Perfect Match (Free/Paid)</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-maintain-youtube-session-in-the-background-for-2024/"><u>[Updated] How to Maintain YouTube Session in the Background for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-fast-track-to-excellent-valorant-thumbnails-artistry/"><u>[Updated] In 2024, Fast-Track to Excellent Valorant Thumbnails Artistry</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-fine-tuning-your-approach-to-360-videos-on-facebook/"><u>[Updated] In 2024, Fine-Tuning Your Approach to 360 Videos on Facebook</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-guide-to-swiftly-eliminate-unwanted-youtube-comments/"><u>[Updated] In 2024, Guide to Swiftly Eliminate Unwanted YouTube Comments</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/effortless-remedies-for-a-rogue-computer-cursor/"><u>Effortless Remedies for a Rogue Computer Cursor</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/first-impressions-is-the-nokia-n31-a-top-pick-for-entry-level-smartphones/"><u>First Impressions: Is the Nokia N3.1 a Top Pick for Entry-Level Smartphones?</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/remove-device-supervision-from-your-iphone-12-mini-by-drfone-ios/"><u>Remove Device Supervision From your iPhone 12 mini</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-best-affordable-pc-cases-and-accessories-under-100/"><u>[New] In 2024, Best Affordable PC Cases & Accessories (Under $100)</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-become-a-pro-in-calculating-youtube-ratio-measures/"><u>[Updated] 2024 Approved Become a Pro in Calculating YouTube Ratio Measures</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-breakdown-of-successful-podcast-writing-techniques-examples-included/"><u>[Updated] Breakdown of Successful Podcast Writing Techniques (Examples Included)</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-fraps-to-video-an-evaluation-review-for-2024/"><u>[Updated] Fraps to Video An Evaluation Review for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/1-guia-completa-y-gratuita-para-restaurar-archivos-de-video-mp4-danados-en-computadoras-windows-o-mac/"><u>1. Guía Completa Y Gratuita Para Restaurar Archivos De Video MP4 Dañados en Computadoras Windows O Mac</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/2024-approved-mastering-social-sharing-during-facebook-lives/"><u>2024 Approved Mastering Social Sharing During Facebook Lives</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/disc-authoring-essentials-the-ultimate-list-of-16-cost-free-dvd-burners-for-all-windows-versions/"><u>Disc Authoring Essentials: The Ultimate List of 16 Cost-Free DVD Burners for All Windows Versions</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/essential-guide-what-you-need-to-know-before-purchasing-an-older-generation-ipad/"><u>Essential Guide: What You Need to Know Before Purchasing an Older Generation iPad</u></a></li>
+<li><a href="https://win-dash.techidaily.com/find-and-install-the-latest-hdmi-drivers-for-usb-connections-today/"><u>Find & Install the Latest HDMI Drivers for USB Connections Today</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-ways-to-stop-parent-tracking-your-oppo-reno-11-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Ways to stop parent tracking your Oppo Reno 11 5G | Dr.fone</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/is-av1-video-codec-compatible-with-discord-a-comprehensive-guide/"><u>Is Av1 Video Codec Compatible with Discord: A Comprehensive Guide</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/mastering-media-migration-how-to-convert-dvd-movies-into-digital-files-for-easy-access-on-pcs-and-macbooks/"><u>Mastering Media Migration: How to Convert DVD Movies Into Digital Files for Easy Access on PCs and Macbooks</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/next-level-visuals-in-console-gaming-a-comprehensive-review-of-the-playstation-4-pros-4k-graphics-power/"><u>Next-Level Visuals in Console Gaming: A Comprehensive Review of the PlayStation 4 Pro's 4K Graphics Power</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/rapid-and-high-quality-conversion-transforming-ts-files-into-mp4-in-10-effective-methods/"><u>Rapid and High-Quality Conversion: Transforming TS Files Into MP4 in 10 Effective Methods</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/resolution-showdown-qhd-4k-uhd-and-1080p-compared-determining-the-ultimate-display-quality/"><u>Resolution Showdown: QHD, 4K UHD, and 1080P Compared - Determining the Ultimate Display Quality</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/transformez-vos-clips-a-laide-de-winxvideo-ai-montage-enregistrement-and-amelioration-par-intelligence-artificielle/"><u>Transformez Vos Clips À L'aide De Winxvideo AI – Montage, Enregistrement & Amélioration Par Intelligence Artificielle</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/winx-dvd-authoring-masterclass-step-by-step-tutorial/"><u>WinX DVD Authoring Masterclass: Step-by-Step Tutorial</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Future-Proofing Assistants: How Apple Plans to Enhance Siri by 2025 - Insights From ZDNet"
-date: 2024-10-01T16:45:15.825Z
-updated: 2024-10-04T17:02:53.172Z
+date: 2024-10-04T00:33:16.255Z
+updated: 2024-10-09T19:47:08.006Z
 tags:
   - apple
 categories:
@@ -40,6 +40,13 @@ I'll say it: The new [iPad Pro](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5F
 
 With configurations ranging from $999 to $2,599, keep in mind that the higher storage tiers (1TB and 2TB) also come with double the RAM (16GB vs. 8GB) and an extra CPU core. It's a subtle, under-the-hood difference that's easy to miss, especially when cross-shopping [between iPad models](https://www.zdnet.com/article/best-ipad/). If you can use the greater compute, have an offline-heavy workflow, and/or want the most future-proofed iPad on the market, it's worth the upcharge. Otherwise, the base 11- or 13-inch model will serve you just fine, as they have for me.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137216/26400" target="_top" id="2137216">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137216" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137216/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Specifications
 
 | Display     | 11-inch or 13-inch OLED with ProMotion (10Hz to 120Hz)                                                                                                                                                                                                                           |
@@ -61,10 +68,10 @@ Over the past week and a half, I've used (or attempted to use) the 11-inch iPad 
 I also paired the iPad with Apple's revamped [Magic Keyboard](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fproduct%2FMWR03LL%2FA%2Fmagic-keyboard-for-ipad-pro-11%25E2%2580%2591inch-m4-us-english-white&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp). The $299 starting price gave me pause when I first checked out the accessory, but the thinner, lighter aluminum form factor, larger trackpad, and a new row of function keys this year make the keyboard case more essential than ever for the full iPad experience.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130886/7443" target="_top" id="2130886">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130886" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135369/19272" target="_top" id="2135369">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135369" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130886/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135369/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  What are the best features of the iPad Pro (2024)?
@@ -106,10 +113,10 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959759/19272" target="_top" id="1959759">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959759" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2044583/7443" target="_top" id="2044583">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044583" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959759/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044583/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  What I'd like to see in the next model
@@ -131,10 +138,10 @@ I'm also aware that Apple sells iPads like no other tablet maker, generating an 
 Of course, slimming down the iPad Pro means Apple likely won't move towards adding ports. Given how essential the Magic Keyboard is to the iPad, however, it could be even more so with the additional I/O.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148644/16836" target="_top" id="2148644">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148644" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2080342/19272" target="_top" id="2080342">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080342" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148644/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080342/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Final thought
@@ -142,13 +149,6 @@ Of course, slimming down the iPad Pro means Apple likely won't move towards addi
 Apple's tablet lineup is ultimately (and has always been) confined by an operating system that promotes flexibility and ease of use over high-power multitasking. That balance may shift come WWDC, should the company pitch a more ambitious, AI-driven version of iPadOS.
 
 Regardless, the future of the iPad shouldn't be a dealbreaker because the [iPad Pro](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FApple-iPad-Pro-11-Inch-Landscape%2Fdp%2FB0D3J9XDMQ%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cfbf10d9a-7cb8-49d5-8606-c235946e0be8%7Cdtp&dtb=1) is, for all intents and purposes, an iPad -- a tablet you carry around for getting certain tasks done and for consuming content. For many, being the [best tablet](https://www.zdnet.com/article/best-tablet/) on the market -- not the [best laptop or PC](https://www.zdnet.com/article/best-laptop/) \-- is more than enough.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918703/19272" target="_top" id="1918703">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918703" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918703/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Alternatives to consider
 
@@ -184,24 +184,24 @@ Regardless, the future of the iPad shouldn't be a dealbreaker because the [iPad 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-free-fx-library-to-enhance-youtube-productions-for-2024/"><u>[New] Free FX Library to Enhance YouTube Productions for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-funnies-in-a-flash-top-10-quick-and-quirky-video-concepts-for-youtubers/"><u>[New] In 2024, Funnies in a Flash Top 10 Quick & Quirky Video Concepts for YouTubers</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-get-going-on-youtube-video-upload-tutorial-in-premiere/"><u>[New] In 2024, Get Going on YouTube Video Upload Tutorial in Premiere</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/new-viral-hits-the-top-10-music-videos-on-fb-now/"><u>[New] Viral Hits The Top 10 Music Videos on FB Now</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-global-earning-maestro-of-video-content/"><u>[Updated] 2024 Approved Global Earning Maestro of Video Content</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-go-green-for-effective-ctas-via-subscription/"><u>[Updated] 2024 Approved Go Green for Effective CTAs via Subscription</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-simple-definition-of-storytelling/"><u>[Updated] 2024 Approved Simple Definition of Storytelling</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-harnessing-ambiance-with-thoughtful-lighting-for-2024/"><u>[Updated] Harnessing Ambiance with Thoughtful Lighting for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-high-quality-youtube-images-download-without-any-cost-for-2024/"><u>[Updated] High-Quality YouTube Images Download Without Any Cost for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-video-lessons-to-vivid-engaging-gifs-no-download-needed/"><u>[Updated] In 2024, From Video Lessons to Vivid, Engaging GIFs – No Download Needed</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-spot-and-secure-top-monetization-potential/"><u>[Updated] In 2024, How to Spot and Secure Top Monetization Potential</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-reviving-the-past-top-5-desktop-friendly-gb-emulation-software-for-2024/"><u>[Updated] Reviving the Past Top 5 Desktop-Friendly GB Emulation Software for 2024</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/approved-channel-upgrade-the-beginners-roadmap-to-video-mastery/"><u>2024 Approved Channel Upgrade The Beginner's Roadmap to Video Mastery</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/2024-approved-jumpstart-your-tiktok-presence-with-these-30-standout-nicknames/"><u>2024 Approved Jumpstart Your TikTok Presence with These 30 Standout Nicknames</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/boost-your-channel-top-14-gaming-vids-for-youtube-success-for-2024/"><u>Boost Your Channel Top 14 Gaming Vids for YouTube Success for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/breaking-cycles-of-compliance-my-defiance-against-app-guard-norms/"><u>Breaking Cycles of Compliance: My Defiance Against App Guard Norms</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-uncover-hubs-sites-that-connect-you-with-youtube-branding-deals/"><u>In 2024, Uncover Hubs Sites That Connect You with YouTube Branding Deals</u></a></li>
-<li><a href="https://win-latest.techidaily.com/troubleshooting-guide-why-arent-your-links-functioning-post-flipmaster-ebook-transformation/"><u>Troubleshooting Guide: Why Aren’t Your Links Functioning Post FlipMaster eBook Transformation?</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/understanding-the-role-of-dimensions-in-youtubes-viewer-engagement-for-2024/"><u>Understanding the Role of Dimensions in YOUTUBE's Viewer Engagement for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/xpert-insights-on-maximizing-roi-through-effective-youtube-banner-campaigns/"><u>[New] Expert Insights on Maximizing ROI Through Effective YouTube Banner Campaigns</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-best-unboxing-content-in-youtube-the-2024-edition/"><u>[Updated] Best Unboxing Content in YouTube - The 2024 Edition</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-top-10-best-meme-templates/"><u>[Updated] Top 10 Best Meme Templates</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-bringing-life-to-slides-adding-audio-effectively-powerpoint/"><u>2024 Approved Bringing Life to Slides Adding Audio Effectively (PowerPoint)</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/discover-ultimate-journeys-on-twitter-with-top-66-influencers-offers-guidance-and-epic-travel-stories/"><u>Discover Ultimate Journeys on Twitter with Top 66 Influencers - Offers, Guidance & Epic Travel Stories</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/effortless-guide-transform-your-dvds-into-digital-files-across-pc-mac-and-smartphone/"><u>Effortless Guide: Transform Your DVDs Into Digital Files Across PC, Mac, and Smartphone</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/expert-guide-to-converting-interlaced-videos-into-progressive-format-with-handbrake/"><u>Expert Guide to Converting Interlaced Videos Into Progressive Format with Handbrake</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/i-migliori-8-app-di-ritocco-foto-gratuite-con-tecnologia-ai-guida-completa/"><u>I Migliori 8 App Di Ritocco Foto Gratuite Con Tecnologia AI: Guida Completa</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-photosweeperxtreme-ultimate-bg-eraser-suite/"><u>In 2024, PhotoSweeperXtreme Ultimate BG Eraser Suite</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-2024-primary-movie-document-review-and-backup-titles/"><u>In 2024, Primary Movie Document Review and Backup Titles</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/in-depth-guide-understanding-the-features-and-requirements-of-winxvideo-ai/"><u>In-Depth Guide: Understanding the Features and Requirements of WinXVideo AI</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/mejora-la-velocidad-de-codificacion-hevch265-consejos-para-acelerar-el-proceso/"><u>Mejora La Velocidad De Codificación HEVC/H.265: Consejos Para Acelerar El Proceso</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/obten-videos-de-alta-definicion-gracias-a-la-edicion-avanzada-con-winxvideo-y-ia/"><u>Obtén Videos De Alta Definición Gracias a La Edición Avanzada Con Winxvideo Y IA</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/rendi-il-tuo-dvd-multiregionale-con-la-guida-completa/"><u>Rendi Il Tuo DVD Multiregionale Con La Guida Completa</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/step-by-step-windows-11-movie-file-saving/"><u>Step-by-Step Windows 11 Movie File Saving</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/the-renewed-view-of-sony-s3700-2023-edition-for-2024/"><u>The Renewed View of Sony S3700 2023 Edition for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/tutorial-rapide-convertissez-vos-disques-dvd-en-versions-video-numeriques-pour-windows-et-macos/"><u>Tutorial Rapide : Convertissez Vos Disques DVD en Versions Vidéo Numériques Pour Windows Et macOS</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-edit-video-tags-with-ease-best-mp4-editors-for-windows-and-mac/"><u>Updated Edit Video Tags with Ease Best MP4 Editors for Windows and Mac</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/1725289457858-winx-dvd-copy-pro/"><u>WinX DVD Copy Pro複製不能？対応策とエラーコード解析方法</u></a></li>
 </ul></div>
 

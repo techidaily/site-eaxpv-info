@@ -1,7 +1,7 @@
 ---
 title: "Top Cellphones Endorsed by ZDNet Editors: Real-World Usage Revealed"
-date: 2024-09-29T17:15:42.230Z
-updated: 2024-10-04T16:19:51.092Z
+date: 2024-10-04T22:39:48.251Z
+updated: 2024-10-10T01:17:58.363Z
 tags:
   - apple
 categories:
@@ -48,6 +48,13 @@ Cons
 
 ## iPhone 12 Pro
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037475/7443" target="_top" id="2037475">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037475" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Jason Cipriani and Simon Bisson
 
 **Jason Cipriani:** I've almost always used an iPhone as my daily driver, but the iPhone 12 lineup has solidified it for me. The camera with improved portrait mode thanks to the Lidar sensor and HDR video is truly impressive. And MagSafe, which I thought was a gimmick, has turned into a very useful feature for me. Between the Shortcuts app and HomeKit devices around the house, there's not much I can't do from my phone. 
@@ -69,13 +76,6 @@ Pros
 
 Cons 
 * Lovely design with matte finish back 5G support for all bands Advanced multiple cameras S Pen support Competive pricing High end internal specifications
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094422/7443" target="_top" id="2094422">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094422" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094422/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Samsung Galaxy S21 Ultra
 
@@ -101,7 +101,21 @@ Pros
 Cons 
 * Long battery life Strong performance The camera is very impressive
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137224/26400" target="_top" id="2137224">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137224" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137224/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## iPhone 12 Pro Max
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134495/18498" target="_top" id="2134495">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134495" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134495/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Matthew Miller
 
@@ -141,13 +155,6 @@ Cons
 
 ## iPhone 12
 
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/352555/5172" target="_top" id="352555">
-  <img src="//a.impactradius-go.com/display-ad/5172-352555" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352555/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Chris Matyszczyk
 
 **Chris Matyszczyk:** My XR became heavy and cumbersome. It had begun to fade. I saw the 12's blue color and thought it might be fetching. And then an Apple store employee took the time to talk me into the 12, just when I was at my weakest.
@@ -164,14 +171,14 @@ Pros
 Cons 
 * Fast performance New camera features Strong battery life
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## iPhone 11 Pro
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036501/19272" target="_top" id="2036501">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036501" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036501/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Ed Bott
 
@@ -197,13 +204,6 @@ Pros
 Cons 
 * Strong battery life Good performance More affordable
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135358/19272" target="_top" id="2135358">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135358" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135358/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Google Pixel 2
 
 ### Tony Baer
@@ -221,6 +221,13 @@ Show less
 [View now at Huawei P40 Pro](https://consumer.huawei.com/en/phones/p40-pro/)
 
 ## Huawei P20 Pro
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948891/19272" target="_top" id="1948891">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948891" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948891/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Federico Guerrini
 
@@ -258,7 +265,21 @@ Cons
 
 Show Expert Take Show less 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137378/7443" target="_top" id="2137378">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137378" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137378/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ###   
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118319/7443" target="_top" id="2118319">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118319" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118319/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ###   
 
@@ -270,6 +291,13 @@ I have a Moment wide-angle lens and case, which gives me the tech I need for lan
 
 **Next phone or dream phone?** iPhone 13 or 14 Pro Max. Folding iPhone? I like a big screen as long as it will fit in a shirt pocket, and Moment makes a case for it. Not sure I'd be up for the extra fiddling a folding iPhone would require, but it would likely replace my iPad Mini. 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902273/19272" target="_top" id="1902273">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902273" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902273/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ###   
 
 Show less 
@@ -279,13 +307,6 @@ Pros
 
 Cons 
 * Best smartphone display Worthwhile camera improvements Battery life is solid
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144272/7443" target="_top" id="2144272">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144272" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144272/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## iPhone XS Max
 
@@ -299,25 +320,11 @@ Show Expert Take Show less
 
 ## iPhone 7 Plus
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043639/7443" target="_top" id="2043639">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043639" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043639/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Tiernan Ray
 
 Purchased in 2016, I've had no reason to upgrade in four years. The thing does a perfectly fine, which is to say, in Apple's case, fairly mediocre job of calling and texting and apps. I never take my phone out of my pocket, usually use it with AirPods, so I don't care about screen size or resolution upgrades. I have an actual digital camera, so I don't care about digital camera upgrades.
 
 **Next phone or dream phone?** Apple Watch Series 13\. It would just be a stylish wireless transceiver for the AirPods. Never worry about leaving the phone somewhere by accident because it's always on the wrist! 
-
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1186864/12108" target="_top" id="1186864">
-  <img src="//a.impactradius-go.com/display-ad/12108-1186864" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186864/12108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## iPhone 6s Plus
 
@@ -344,13 +351,6 @@ Yes, I am indeed still clinging to the phone that made me love phablets, upgrade
 Show less 
 
 ## Samsung Galaxy Note 8
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151858/7443" target="_top" id="2151858">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151858" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151858/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Charles McLellan
 
@@ -392,17 +392,24 @@ Show Expert Take Show less
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-solo-streamer-to-global-content-powerhouse/"><u>[New] 2024 Approved From Solo Streamer to Global Content Powerhouse</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-free-online-tools-for-youtube-channel-starters/"><u>[New] In 2024, Free Online Tools for YouTube Channel Starters</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-add-logo-or-watermark-to-youtube-video-for-2024/"><u>[Updated] How to Add Logo or Watermark to YouTube Video for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-protectively-download-youtube-audio-without-fear-for-2024/"><u>[Updated] How to Protectively Download YouTube Audio Without Fear for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-use-creative-commons-copyright-licenses-complete-guide/"><u>[Updated] In 2024, How to Use Creative Commons Copyright Licenses [Complete Guide]</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-maximize-storage-essential-xbox-drive-picks-reviewed/"><u>[Updated] Maximize Storage Essential Xbox Drive Picks Reviewed</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/3-solutions-to-hard-reset-poco-f5-5g-phone-using-pc-drfone-by-drfone-reset-android-reset-android/"><u>3 Solutions to Hard Reset Poco F5 5G Phone Using PC | Dr.fone</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/dealing-with-a-silent-alexa-effective-solutions-when-your-device-wont-answer/"><u>Dealing with a Silent Alexa: Effective Solutions when Your Device Won't Answer</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-a-quick-guide-to-lava-storm-5g-frp-bypass-instantly-by-drfone-android/"><u>In 2024, A Quick Guide to Lava Storm 5G FRP Bypass Instantly</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-find-ispoofer-pro-activation-key-on-poco-c50-drfone-by-drfone-virtual-android/"><u>In 2024, How to Find iSpoofer Pro Activation Key On Poco C50? | Dr.fone</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/seamless-video-recording-on-facebook-with-top-5-tools/"><u>Seamless Video Recording on Facebook with Top 5 Tools</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/top-apps-and-online-tools-to-track-vivo-y77t-phone-withwithout-imei-number-by-drfone-android/"><u>Top Apps and Online Tools To Track Vivo Y77t Phone With/Without IMEI Number</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-creating-captivating-podcast-launch-screens/"><u>[New] Creating Captivating Podcast Launch Screens</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-diy-techniques-transforming-smartphones-into-webcams-for-2024/"><u>[New] DIY Techniques Transforming Smartphones Into Webcams for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/remier-cutting-suites-on-linux-systems/"><u>[New] Premier Cutting Suites on Linux Systems</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-strategies-for-syncing-zoom-meetings-across-devices/"><u>[New] Strategies for Syncing Zoom Meetings Across Devices</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-a-guide-to-winning-at-game-capturing-with-win10/"><u>[Updated] A Guide to Winning at Game Capturing with Win10</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-in-2024-whimsical-words-in-motion-animated-captions-for-ig-stories/"><u>[Updated] In 2024, Whimsical Words in Motion Animated Captions for IG Stories</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/11-tools/"><u>11 Tools</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/ai-powered-screenshots-record-your-desktop-webcam-feeds-and-voice-with-winxvideo-effortlessly/"><u>AI-Powered Screenshots: Record Your Desktop, Webcam Feeds, and Voice with Winxvideo Effortlessly</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/comprehensive-guide-solving-windows-11-update-issues-and-expert-advice/"><u>Comprehensive Guide: Solving Windows 11 Update Issues & Expert Advice</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/converti-dvd-gratis-in-formato-mp4-per-pc-e-mac-con-winxdvd-il-guida-completa/"><u>Converti DVD Gratis in Formato MP4 per PC E Mac Con WinXDVD: Il Guida Completa</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/exploring-new-horizons-with-windows-11-a-comprehensive-look-at-microsofts-latest-operating-system-improvements/"><u>Exploring New Horizons with Windows 11 - A Comprehensive Look at Microsoft's Latest Operating System Improvements</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-5-car-locator-apps-for-asus-rog-phone-7-drfone-by-drfone-virtual-android/"><u>In 2024, Top 5 Car Locator Apps for Asus ROG Phone 7 | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/ipaddvdtop5/"><u>IPad用ダウンロード無料DVDインポーター最新テクニック：お勧めのフリーアプリTOP5</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/microsoft-addresses-and-corrects-battery-driver-flaw-for-acpi-conformance/"><u>Microsoft Addresses and Corrects Battery Driver Flaw for ACPI Conformance</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/passare-da-vhs-a-dvd-un-passo-passo-guidato-per-la-conversione-su-computer/"><u>Passare Da VHS a DVD: Un Passo-Passo Guidato per La Conversione Su Computer</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/step-by-step-guide-free-hd-movie-viewing-with-the-showbox-app-on-your-pc-windows-supported/"><u>Step-by-Step Guide: Free HD Movie Viewing with the ShowBox App on Your PC (Windows Supported)</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-ultimate-list-of-teen-flicks-to-binge-watch-on-netflix/"><u>The Ultimate List of Teen Flicks to Binge-Watch on Netflix</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/top-13-free-hdtv-streaming-apps-and-software-compatible-with-windows-11/"><u>Top 13 Free HDTV Streaming Apps & Software Compatible with Windows 11</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/winx-dvd-ripper-the-ultimate-mac-compatible-software-for-easy-video-transfer-to-ios-devices-and-itunes/"><u>WinX DVD Ripper: The Ultimate Mac Compatible Software for Easy Video Transfer to iOS Devices and iTunes</u></a></li>
 </ul></div>
 

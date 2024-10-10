@@ -1,7 +1,7 @@
 ---
 title: Enhance Productivity by Setting Up Custom Alerts on Your Mac - A Guide for macOS Monterey Users | ZDNET
-date: 2024-09-27T17:54:27.894Z
-updated: 2024-10-04T16:36:46.452Z
+date: 2024-10-05T22:01:45.850Z
+updated: 2024-10-09T16:09:26.380Z
 tags:
   - apple
 categories:
@@ -28,22 +28,15 @@ So, how do you create this custom Flow? Let me show you. All you'll need to make
 
 ## Create a custom Focus
 
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1172027/12108" target="_top" id="1172027">
-  <img src="//a.impactradius-go.com/display-ad/12108-1172027" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1172027/12108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 1\. Open System Preferences
 
 Click on the Apple menu in the top left corner of your desktop. From the resulting pop-up menu, click System Preferences.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948876/19272" target="_top" id="1948876">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948876" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948876/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 2\. Access Notifications & Focus
@@ -55,10 +48,10 @@ In the System Preferences window (**Figure 1**), click Notifications & Focus.
 Image: Jack Wallen
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528688/16446" target="_top" id="1528688">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528688" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997690/19272" target="_top" id="1997690">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997690" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528688/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997690/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 3\. Open the Focus tab
@@ -68,6 +61,13 @@ Once Notifications & Focus is opened, click the Focus tab (**Figure 2**).
 **Figure 2:** You'll find a single pre-configured Focus for Do Not Disturb already available.
 
 Image: Jack Wallen
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135396/19272" target="_top" id="2135396">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135396" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135396/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 4\. Create the new Focus
 
@@ -85,6 +85,13 @@ Image: Jack Wallen
 
 After naming and selecting a color/icon, click Add to save the new Focus.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134244/18498" target="_top" id="2134244">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134244" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134244/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 5\. Allowing specific notifications
 
 The next thing to do is to specific contacts or apps that will be allowed when this Focus is enabled. To do that, click + under Allowed Notifications From (**Figure 5**).
@@ -98,13 +105,6 @@ From the pop-up list, select the contact(s) you want to be allowed to interrupt 
 **Figure 6:** Adding contacts to a Focus in macOS Monterey.
 
 Image: Jack Wallen
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148642/16836" target="_top" id="2148642">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148642" border="0" alt="https://techidaily.com" width="300" height="50"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148642/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 6\. Set the Focus to be enabled
 
@@ -148,20 +148,22 @@ Use this new Focus feature wisely, and it will help you be more productive while
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-how-to-get-the-best-youtube-thumbnails-the-free-guide-for-2024/"><u>[New] How to Get the Best YouTube Thumbnails The Free Guide for 2024</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-simplifying-macs-screen-recording-a-shortcut-hack-manual/"><u>[New] Simplifying Mac's Screen Recording A Shortcut Hack Manual</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-gain-money-on-youtube-understanding-required-number-of-views/"><u>[Updated] 2024 Approved Gain Money on YouTube Understanding Required Number of Views</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-guide-to-producing-impactful-lifestyle-motivational-content/"><u>[Updated] 2024 Approved Guide to Producing Impactful Lifestyle Motivational Content</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-raw-footage-to-youtube-a-step-by-step-process-unveiled/"><u>[Updated] In 2024, From Raw Footage to YouTube A Step-by-Step Process Unveiled</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-youtube-to-excitement-easy-guide-to-making-animated-gifs/"><u>[Updated] In 2024, From YouTube to Excitement Easy Guide to Making Animated GIFS</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-in-2024-harness-the-power-of-color-grading-a-guide-to-luts-in-photoshop-cs6/"><u>[Updated] In 2024, Harness the Power of Color Grading A Guide to LUTs in Photoshop CS6</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-high-quality-screen-recording-with-tunefab/"><u>[Updated] In 2024, High-Quality Screen Recording with Tunefab</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-transform-your-viewing-experience-activating-av1-on-youtube/"><u>[Updated] Transform Your Viewing Experience Activating AV1 on YouTube</u></a></li>
-<li><a href="https://os-tips.techidaily.com/1-transform-chaos-into-order-top-apps-for-an-ultra-productive-year/"><u>1. Transform Chaos Into Order: Top Apps for an Ultra-Productive Year</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/best-ways-on-how-to-unlockbypassswiperemove-realme-11x-5g-fingerprint-lock-by-drfone-android/"><u>Best Ways on How to Unlock/Bypass/Swipe/Remove Realme 11X 5G Fingerprint Lock</u></a></li>
-<li><a href="https://techtrends.techidaily.com/easily-arrange-an-appointment-at-apples-renowned-genius-bar-the-complete-how-to/"><u>Easily Arrange an Appointment at Apple's Renowned Genius Bar – The Complete How-To</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/in-2024-visual-storyteller-toolkit/"><u>In 2024, Visual Storyteller Toolkit</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/reseauz-avec-lequipe-digiarty-votre-partenaire-de-confiance-dans-le-commerce-electronique/"><u>Réseauz Avec L'équipe Digiarty : Votre Partenaire De Confiance Dans Le Commerce Électronique</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/unbox-and-discover-samsungs-ue590-4k-freesync-marvel/"><u>Unbox and Discover Samsung's UE590 4K, FreeSync Marvel</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-elevating-your-online-empire-a-guide-to-massive-facebook-following-for-2024/"><u>[New] Elevating Your Online Empire A Guide to Massive Facebook Following for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-in-2024-twitter-for-tiktok-content-sharing-strategies/"><u>[New] In 2024, Twitter for TikTok Content Sharing Strategies</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-ravenhill-resonance-essential-websites-to-download-hearing-heroes-tones/"><u>[New] Ravenhill Resonance Essential Websites to Download Hearing Heroes' Tones</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-selecting-the-best-hdr-cameras-simplified-for-2024/"><u>[Updated] Selecting the Best HDR Cameras Simplified for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-premier-networks-for-your-personalized-watchlist/"><u>2024 Approved Premier Networks for Your Personalized Watchlist</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/bestellung-des-winx-hauspakets-im-internet-schnelles-handeln/"><u>Bestellung Des WinX Hauspakets Im Internet - Schnelles Handeln!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722964818955-boost-your-pc-experience-download-the-microsoft-wireless-mouse-5000-drivers-today/"><u>Boost Your PC Experience - Download the Microsoft Wireless Mouse 5000 Drivers Today</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/convert-your-avi-files-to-mp3-at-no-cost-a-step-by-step-guide-to-improve-audio-quality/"><u>Convert Your AVI Files to MP3 at No Cost – A Step-by-Step Guide to Improve Audio Quality</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/expert-strategies-mastering-video-playback-in-minutes/"><u>Expert Strategies: Mastering Video Playback in Minutes</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/find-the-best-value-top-6-budget-friendly-camera-options-for-2024/"><u>Find the Best Value Top 6 Budget-Friendly Camera Options for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/guia-paso-a-paso-como-subir-tus-dvd-al-cielo-digital-con-google-drive-y-icloud/"><u>Guía Paso a Paso: Cómo Subir Tus DVD Al Cielo Digital Con Google Drive Y iCloud</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-frp-hijacker-by-hagard-download-and-bypass-your-motorola-moto-e13-frp-locks-by-drfone-android/"><u>In 2024, FRP Hijacker by Hagard Download and Bypass your Motorola Moto E13 FRP Locks</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/maitrisez-votre-recepitule-video-avec-handbrake-guide-etape-par-etape-pour-desactiver-lautoresizing-et-recadrer-en-mode-manuel/"><u>Maîtrisez Votre Récépitulé Vidéo Avec HandBrake : Guide Étape Par Étape Pour Désactiver L'autoresizing Et Recadrer en Mode Manuel</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/top-6-grands-outils-damelioration-de-la-qualite-video-avec-ia/"><u>Top 6 Grands Outils D'Amélioration De La Qualité Vidéo Avec IA</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/topas-tacticas-para-optimizar-embalaje-de-contenido-visual-en-correo-electronico/"><u>Topas Tácticas Para Optimizar Embalaje De Contenido Visual en Correo Electrónico</u></a></li>
+<li><a href="https://win-blog.techidaily.com/ultimate-guide-ending-lag-issues-with-obs-for-seamless-streaming-and-recording/"><u>Ultimate Guide: Ending Lag Issues with OBS for Seamless Streaming & Recording</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/winx-mediatrans-the-premier-photo-and-video-transfer-tool-for-iphone-and-ipad-to-pc/"><u>WinX MediaTrans™: The Premier Photo & Video Transfer Tool for iPhone and iPad to PC</u></a></li>
 </ul></div>
 

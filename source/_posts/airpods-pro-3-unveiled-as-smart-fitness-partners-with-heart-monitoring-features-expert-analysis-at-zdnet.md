@@ -1,7 +1,7 @@
 ---
 title: AirPods Pro 3 Unveiled as Smart Fitness Partners with Heart Monitoring Features | Expert Analysis at ZDNET
-date: 2024-09-28T16:27:23.747Z
-updated: 2024-10-04T16:03:40.449Z
+date: 2024-10-03T16:59:43.617Z
+updated: 2024-10-10T00:33:44.813Z
 tags:
   - apple
 categories:
@@ -71,10 +71,16 @@ For example, the Apple Watch's thermometer, which is currently only [used for fe
 The company is also reportedly seeking health regulatory approval to interpret blood oxygen data. Right now, the Watch shows users oxygen blood data without telling them what it means. 
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139117/17108" target="_top" id="2139117">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139117" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139117/17108" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1977004">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977004.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977004">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977004.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977004%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977004/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## AirPods
@@ -90,10 +96,10 @@ According to the report, if all goes to plan, AirPods will be able to double as 
 Additionally, the AirPods will be able to perform hearing tests that are typically performed in an audiologist's office, which will make it simpler for users to access care without leaving their homes. 
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148639/16836" target="_top" id="2148639">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148639" border="0" alt="https://techidaily.com" width="180" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135357/19272" target="_top" id="2135357">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135357" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148639/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135357/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Vision Pro
@@ -142,19 +148,24 @@ Lastly, a headset version of Fitness+ might appear, so long as Apple can figure 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-scripts-to-screen-making-youtube-splits/"><u>[New] 2024 Approved From Scripts to Screen Making YouTube Splits</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-rotate-youtube-videos-by-any-angle/"><u>[New] 2024 Approved How to Rotate YouTube Videos by Any Angle</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-seamlessly-upload-videos-onto-youtubes-platform/"><u>[New] 2024 Approved How to Seamlessly Upload Videos Onto YouTube's Platform</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-from-live-logging-to-global-broadcasting-mastery-through-mindfulness-for-2024/"><u>[New] From Live Logging to Global Broadcasting Mastery Through Mindfulness for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-home-studio-heroics-your-path-to-effectful-artistry/"><u>[New] In 2024, Home Studio Heroics Your Path to Effectful Artistry</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-best-practices-for-windows-8-screenshots-and-recordings/"><u>[Updated] 2024 Approved Best Practices for Windows 8 Screenshots and Recordings</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-make-thumbnails-for-youtube-with-mobile-phones-for-2024/"><u>[Updated] How to Make Thumbnails for YouTube With Mobile Phones for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-in-2024-transform-movie-colors-with-cg-centrals-luts-guide/"><u>[Updated] In 2024, Transform Movie Colors with CG Central's Luts Guide</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-tips-and-tricks-for-recording-ps3-games-with-flawless-results/"><u>[Updated] Tips and Tricks for Recording PS3 Games with Flawless Results</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-iconic-stop-motion-animations-15-best-ever/"><u>2024 Approved Iconic Stop-Motion Animations - #15 Best Ever</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/canon-professional-imageprograf-pro-100-driver-installation-for-windows-quick-and-easy-setup/"><u>Canon Professional ImagePROGRAF PRO-100 Driver Installation for Windows: Quick & Easy Setup</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-easily-unlock-your-oneplus-nord-n30-se-device-sim-by-drfone-android/"><u>In 2024, Easily Unlock Your OnePlus Nord N30 SE Device SIM</u></a></li>
-<li><a href="https://win-answers.techidaily.com/step-by-step-guide-obtaining-printed-copies-without-personal-access-to-a-printer/"><u>Step-by-Step Guide: Obtaining Printed Copies Without Personal Access to a Printer</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/stream-snipping-specialists-2023-version-for-2024/"><u>Stream Snipping Specialists, 2023 Version for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-in-2024-enhance-your-digital-diaries-for-free-extensions-and-mobile-edition/"><u>[New] In 2024, Enhance Your Digital Diaries for Free – Extensions & Mobile Edition</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-in-2024-navigating-copyright-laws-when-turning-social-media-videos-into-gifs-for-educational-purposes/"><u>[New] In 2024, Navigating Copyright Laws When Turning Social Media Videos Into GIFS for Educational Purposes</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-direct-links-sending-fb-videos-via-whatsapp-for-2024/"><u>[Updated] Direct Links Sending FB Videos via WhatsApp for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-depth-review-tunefabs-latest-in-screen-capture-tech/"><u>[Updated] In-Depth Review Tunefab's Latest in Screen Capture Tech</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/1-mastering-dvd-sales-on-amazon-a-comprehensive-guide/"><u>1. Mastering DVD Sales on Amazon: A Comprehensive Guide</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/1725287113839-avimp3/"><u>高效转换AVI到MP3：最佳实践指南</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/1725285103394-2022dvd/"><u>如何在2022年將DVD變成數字格式：最佳策略解析</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/comprehensive-guide-understanding-mp4-media-container-format/"><u>Comprehensive Guide: Understanding MP4 Media Container Format</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/effective-techniques-for-downsizing-video-files-from-h2-264-to-h265-without-compromising-quality/"><u>Effective Techniques for Downsizing Video Files From H.2 264 to H.265 Without Compromising Quality</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-to-bypass-frp-from-samsung-galaxy-s24-by-drfone-android/"><u>How to Bypass FRP from Samsung Galaxy S24?</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-expert-tips-choosing-the-ideal-screen-recorder-software/"><u>In 2024, Expert Tips Choosing the Ideal Screen Recorder Software</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/mastering-profitable-vlogging-the-ultimate-guide-to-earning-revenue/"><u>Mastering Profitable Vlogging: The Ultimate Guide to Earning Revenue</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/recover-any-lost-or-missed-out-notes-from-your-iphone-software-expertise-revealed/"><u>Recover Any Lost or Missed Out Notes From Your iPhone: Software Expertise Revealed</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/step-by-step-tutorial-transferring-riped-dvd-content-for-smooth-streaming-in-wmp/"><u>Step-by-Step Tutorial: Transferring Riped DVD Content for Smooth Streaming in WMP</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/the-reasons-behind-my-frequent-self-messages-on-social-platforms-insights-and-thoughts/"><u>The Reasons Behind My Frequent Self-Messages on Social Platforms: Insights and Thoughts</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/transformar-archivos-h234-a-h235-gratis-con-calidad-optimizada-una-guia-completa/"><u>Transformar Archivos H.2^34 A H.2^35 Gratis Con Calidad Optimizada: Una Guía Completa</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/unlock-hidden-potential-sharing-videos-with-ease-for-2024/"><u>Unlock Hidden Potential Sharing Videos with Ease for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/unlock-the-true-potential-of-your-a-comprehensive-guide-to-fixing-4k-output-problems/"><u>Unlock the True Potential of Your 지판 - A Comprehensive Guide to Fixing 4K Output Problems</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/1725286814872-winx-dvd-ripper-platinum/"><u>WinX DVD Ripper Platinum: コピー不可時の詳しい修正手順</u></a></li>
 </ul></div>
 
