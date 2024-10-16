@@ -1,7 +1,7 @@
 ---
 title: "Unlocking Future Innovations: Apple's Latest AI Advances Set to Transform iPhones - Discover the Groundbreaking Artificnial Intelligence Technology that May Soon Elevate Your iPhone Experience, as Unveiled by Apple Research."
-date: 2024-10-02T19:54:16.742Z
-updated: 2024-10-09T20:49:32.977Z
+date: 2024-10-13T03:30:12.217Z
+updated: 2024-10-16T00:28:23.539Z
 tags:
   - apple
 categories:
@@ -60,6 +60,13 @@ Maria Diaz/ZDNET
 * In the Notes app, users can **record and transcribe audio**, which Apple Intelligence will generate a text summary of. This experience is also available in the Notes phone app.
 * Apple Intelligence is free on iOS 18, iPadOS 18, and MacOS Sequoia, and will be available to try in English only this summer.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948954/19272" target="_top" id="1948954">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948954" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948954/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Partnership with OpenAI
 
 Jason Hiner/ZDNET
@@ -87,10 +94,10 @@ Adam Breeden/ZDNET
 * The **Calendar app** can now pull from the Reminders app for a more seamless schedule overview.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918684/19272" target="_top" id="1918684">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918684" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037346/7443" target="_top" id="2037346">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037346" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918684/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037346/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## WatchOS 11
@@ -107,13 +114,6 @@ Adam Breeden/ZDNET
 * **Check In** is available on Apple Watch, even during workouts, to help users stay safe. **Translate** is also coming to Apple Watch so users can translate text right from their wrists.
 * Another notable change is that the **double tap gesture** can be used to scroll through apps.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123738/7443" target="_top" id="2123738">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123738" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123738/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## iPadOS 18
 
 Adam Breeden/ZDNET
@@ -123,13 +123,6 @@ Adam Breeden/ZDNET
 * In a long-awaited release, iPads will now have a **[calculator app](https://www.zdnet.com/article/after-14-years-apple-expected-to-unveil-the-ipad-app-weve-all-been-waiting-for-at-wwdc/)** for the first time, complete with the same interface as the one currently found on iPhones. Plus, users can use it with the Apple Pencil through a new **Math Notes** experience, which allows users to write expressions that the calculator app will solve for them once they type the equal sign, in their own handwriting,
 * Handwriting in Notes also got an upgrade with **Smart** **Script**, which refines users' writing to make it more legible while keeping the authenticity of the user's handwriting style. The feature can also match copied and pasted text to the user's handwriting. Typed text was also enhanced, with five new highlight colors and the ability to toggle sections under headings or subheadings.
 * iPadOS 18 supports **screen-sharing via SharePlay** and the same Control Center customizations, Photos app upgrades, Safari updates, and emoji Tapbacks found in **iOS 18.**
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925489/19272" target="_top" id="1925489">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925489" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925489/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## MacOS 15 (Sequoia)
 
@@ -143,10 +136,10 @@ Adam Breeden/ZDNET
 * Apple also launched a new **Viewer experience**, which does for video what Reader does for text.
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014859/22899" target="_top" id="2014859">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2111981/7443" target="_top" id="2111981">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111981" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014859/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111981/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## VisionOS 2
@@ -165,6 +158,19 @@ Jason Hiner/ZDNET
 * Apple TV brings **multiview to Vision Pro**, which is especially useful when watching sports games.
 * Users can **cast content** from their iPhone, iPad, or Mac to the Vision Pro using AirPlay.
 * Apple is also making the Vision Pro available in more countries starting June 28\. You can see the full list [here](https://www.apple.com/newsroom/2024/06/apple-vision-pro-arrives-in-new-countries-and-regions-beginning-june-28/).
+
+<!-- affiliate ads begin -->
+<span id="1531879">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1531879.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1531879">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531879.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531879%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531879/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## AirPods
 
@@ -218,21 +224,18 @@ Screenshot by Nina Raemont/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-cutting-edge-mac-hd-screen-and-sound-mastery/"><u>[New] 2024 Approved Cutting-Edge Mac HD Screen and Sound Mastery</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-uncompromised-zoom-audio-two-key-techniques-revealed/"><u>[New] Uncompromised Zoom Audio Two Key Techniques Revealed</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/covid-19/"><u>「自宅で完結！COVID-19の影響で活力あふれる体を取り戻す無料トレーニング」</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/complete-guide-removing-data-from-your-iphone-with-ease/"><u>Complete Guide: Removing Data From Your iPhone with Ease</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/dvdps5dvdand/"><u>DVDプレーヤー機能を活用したPS5でのDVD鑑賞｜問題発見&トラブルシューティング</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/googles-next-big-thing-the-pixel-tablet-revealing-its-release-date-spec-sheets-and-what-to-expect/"><u>Google's Next Big Thing: The Pixel Tablet - Revealing Its Release Date, Spec Sheets, and What to Expect</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/guida-alla-ruota-libera-fotovideo-mp4-con-ottima-fedelta-della-risoluzione-ruotare-in-varie-angolazioni-senza-perdere-qualita/"><u>Guida Alla Ruota Libera Foto/Video MP4 Con Ottima Fedeltà Della Risoluzione: Ruotare in Varie Angolazioni Senza Perdere Qualità</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/guide-facile-deverrouiller-la-protection-anticopie-dun-film-dvd-pour-votre-pc-ou-mac/"><u>Guide Facile : Déverrouiller La Protection Anticopie D’un Film DVD Pour Votre PC Ou Mac</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-remove-forgotten-pin-of-your-oppo-reno-10-proplus-5g-by-drfone-android/"><u>In 2024, How to Remove Forgotten PIN Of Your Oppo Reno 10 Pro+ 5G</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/in-2024-streaming-twitter-videos-on-snapchat-platform/"><u>In 2024, Streaming Twitter Videos on Snapchat Platform</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-the-ultimate-guide-to-bypassing-icloud-activation-lock-from-iphone-x-by-drfone-ios/"><u>In 2024, The Ultimate Guide to Bypassing iCloud Activation Lock from iPhone X</u></a></li>
-<li><a href="https://windows11.techidaily.com/masterful-methods-to-overcome-security-errors-in-windows-11/"><u>Masterful Methods to Overcome Security Errors in Windows 11</u></a></li>
-<li><a href="https://win-answers.techidaily.com/overcoming-red-dead-redemption-2-bugs-pro-tips-to-avoid-performance-hiccups/"><u>Overcoming Red Dead Redemption 2 Bugs: Pro Tips to Avoid Performance Hiccups</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/the-definitive-step-by-step-tutorial-for-moving-photos-and-videoclips-from-ios-devices-to-windows-operating-systems-windows-10-8-and-7/"><u>The Definitive Step-by-Step Tutorial for Moving Photos & Videoclips From iOS Devices to Windows Operating Systems (Windows 10, 8, and 7)</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/top-6-methods-for-efficiently-transferring-your-dvd-content-onto-a-pc/"><u>Top 6 Methods for Efficiently Transferring Your DVD Content Onto a PC</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/transform-avi-into-crystal-clear-mp3-for-zero-cost-ultimate-guide-to-lossless-conversion-methods/"><u>Transform AVI Into Crystal Clear MP3 for Zero Cost - Ultimate Guide to Lossless Conversion Methods</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-hashtag-mastery-pathway-to-6-figure-youtube-impact/"><u>[New] 2024 Approved Hashtag Mastery Pathway to 6-Figure Youtube Impact</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-safely-increase-your-youtube-fanbase-to-one-million/"><u>[New] 2024 Approved How to Safely Increase Your YouTube Fanbase To One Million</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-hone-your-livestream-skills-on-youtubes-premier-platform-for-2024/"><u>[New] Hone Your Livestream Skills on YouTube's Premier Platform for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-maximizing-revenue-how-to-monetize-youtube-channel-on-mobile-for-2024/"><u>[New] Maximizing Revenue How to Monetize YouTube Channel on Mobile for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-top-12-capture-providers-never-stop/"><u>2024 Approved Top 12 Capture Providers, Never Stop</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/download-premium-themes-and-templates-for-tailwind-css-plus-nextjs-over-17-styles-available-get-your-free-set-from-creative-tim/"><u>Download Premium Themes & Templates for Tailwind CSS + NextJS (Over 17 Styles Available) - Get Your Free Set From Creative Tim!</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/fixing-the-notorious-ntkrnlmpexe-bsod-comprehensive-troubleshooting-guide/"><u>Fixing the Notorious ntkrnlmp.exe BSOD: Comprehensive Troubleshooting Guide</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-do-i-add-my-signature-to-excel-by-ldigisigner-sign-a-excel-sign-a-excel/"><u>How do i add my signature to Excel</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/24-elevate-small-screen-experience-with-these-leading-and-affordable-tools-to-download-youtubes-tiny-videos/"><u>In 2024, Elevate Small Screen Experience with These Leading & Affordable Tools to Download YouTubes' Tiny Videos</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-the-ultimate-guide-how-to-bypass-swipe-screen-to-unlock-on-nokia-g42-5g-device-by-drfone-android/"><u>In 2024, The Ultimate Guide How to Bypass Swipe Screen to Unlock on Nokia G42 5G Device</u></a></li>
+<li><a href="https://windows11.techidaily.com/top-techniques-for-disabling-windows-11-tpm/"><u>Top Techniques for Disabling Windows 11 TPM</u></a></li>
+<li><a href="https://driver-download.techidaily.com/update-your-canon-inkjet-printer-drivers-complete-guide-for-models-like-the-mg3620mg3920/"><u>Update Your Canon Inkjet Printer Drivers: Complete Guide for Models Like the MG3620/MG3920</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/ways-to-stop-parent-tracking-your-vivo-y78plus-drfone-by-drfone-virtual-android/"><u>Ways to stop parent tracking your Vivo Y78+ | Dr.fone</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Enhance Productivity by Setting Up Custom Alerts on Your Mac - A Guide for macOS Monterey Users | ZDNET
-date: 2024-10-05T22:01:45.850Z
-updated: 2024-10-09T16:09:26.380Z
+date: 2024-10-11T07:15:47.790Z
+updated: 2024-10-16T08:34:06.249Z
 tags:
   - apple
 categories:
@@ -32,13 +32,6 @@ So, how do you create this custom Flow? Let me show you. All you'll need to make
 
 Click on the Apple menu in the top left corner of your desktop. From the resulting pop-up menu, click System Preferences.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 2\. Access Notifications & Focus
 
 In the System Preferences window (**Figure 1**), click Notifications & Focus.
@@ -48,10 +41,10 @@ In the System Preferences window (**Figure 1**), click Notifications & Focus.
 Image: Jack Wallen
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997690/19272" target="_top" id="1997690">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997690" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135398/19272" target="_top" id="2135398">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135398" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997690/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135398/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 3\. Open the Focus tab
@@ -63,10 +56,10 @@ Once Notifications & Focus is opened, click the Focus tab (**Figure 2**).
 Image: Jack Wallen
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135396/19272" target="_top" id="2135396">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135396" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134223/18498" target="_top" id="2134223">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134223" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135396/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134223/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 4\. Create the new Focus
@@ -86,10 +79,10 @@ Image: Jack Wallen
 After naming and selecting a color/icon, click Add to save the new Focus.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134244/18498" target="_top" id="2134244">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134244" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2012429/19272" target="_top" id="2012429">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012429" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134244/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012429/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 5\. Allowing specific notifications
@@ -105,6 +98,13 @@ From the pop-up list, select the contact(s) you want to be allowed to interrupt 
 **Figure 6:** Adding contacts to a Focus in macOS Monterey.
 
 Image: Jack Wallen
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105874/7443" target="_top" id="2105874">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105874" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105874/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 6\. Set the Focus to be enabled
 
@@ -148,22 +148,18 @@ Use this new Focus feature wisely, and it will help you be more productive while
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-elevating-your-online-empire-a-guide-to-massive-facebook-following-for-2024/"><u>[New] Elevating Your Online Empire A Guide to Massive Facebook Following for 2024</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-in-2024-twitter-for-tiktok-content-sharing-strategies/"><u>[New] In 2024, Twitter for TikTok Content Sharing Strategies</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/new-ravenhill-resonance-essential-websites-to-download-hearing-heroes-tones/"><u>[New] Ravenhill Resonance Essential Websites to Download Hearing Heroes' Tones</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-selecting-the-best-hdr-cameras-simplified-for-2024/"><u>[Updated] Selecting the Best HDR Cameras Simplified for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/2024-approved-premier-networks-for-your-personalized-watchlist/"><u>2024 Approved Premier Networks for Your Personalized Watchlist</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/bestellung-des-winx-hauspakets-im-internet-schnelles-handeln/"><u>Bestellung Des WinX Hauspakets Im Internet - Schnelles Handeln!</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1722964818955-boost-your-pc-experience-download-the-microsoft-wireless-mouse-5000-drivers-today/"><u>Boost Your PC Experience - Download the Microsoft Wireless Mouse 5000 Drivers Today</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/convert-your-avi-files-to-mp3-at-no-cost-a-step-by-step-guide-to-improve-audio-quality/"><u>Convert Your AVI Files to MP3 at No Cost – A Step-by-Step Guide to Improve Audio Quality</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/expert-strategies-mastering-video-playback-in-minutes/"><u>Expert Strategies: Mastering Video Playback in Minutes</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/find-the-best-value-top-6-budget-friendly-camera-options-for-2024/"><u>Find the Best Value Top 6 Budget-Friendly Camera Options for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/guia-paso-a-paso-como-subir-tus-dvd-al-cielo-digital-con-google-drive-y-icloud/"><u>Guía Paso a Paso: Cómo Subir Tus DVD Al Cielo Digital Con Google Drive Y iCloud</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-frp-hijacker-by-hagard-download-and-bypass-your-motorola-moto-e13-frp-locks-by-drfone-android/"><u>In 2024, FRP Hijacker by Hagard Download and Bypass your Motorola Moto E13 FRP Locks</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/maitrisez-votre-recepitule-video-avec-handbrake-guide-etape-par-etape-pour-desactiver-lautoresizing-et-recadrer-en-mode-manuel/"><u>Maîtrisez Votre Récépitulé Vidéo Avec HandBrake : Guide Étape Par Étape Pour Désactiver L'autoresizing Et Recadrer en Mode Manuel</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/top-6-grands-outils-damelioration-de-la-qualite-video-avec-ia/"><u>Top 6 Grands Outils D'Amélioration De La Qualité Vidéo Avec IA</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/topas-tacticas-para-optimizar-embalaje-de-contenido-visual-en-correo-electronico/"><u>Topas Tácticas Para Optimizar Embalaje De Contenido Visual en Correo Electrónico</u></a></li>
-<li><a href="https://win-blog.techidaily.com/ultimate-guide-ending-lag-issues-with-obs-for-seamless-streaming-and-recording/"><u>Ultimate Guide: Ending Lag Issues with OBS for Seamless Streaming & Recording</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/winx-mediatrans-the-premier-photo-and-video-transfer-tool-for-iphone-and-ipad-to-pc/"><u>WinX MediaTrans™: The Premier Photo & Video Transfer Tool for iPhone and iPad to PC</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-get-free-green-screen-effects-from-4-youtube-channels/"><u>[New] 2024 Approved Get Free Green Screen Effects From 4 YouTube Channels</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-rip-audio-from-youtube-in-3-ways-free-and-safe/"><u>[New] 2024 Approved How to Rip Audio From YouTube in 3 Ways [Free and Safe]</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-full-scope-understanding-online-performance-artists-for-2024/"><u>[New] Full Scope Understanding Online Performance Artists for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-giggles-galore-celebrating-the-funniest-web-content-creators/"><u>[New] In 2024, Giggles Galore Celebrating the Funniest Web Content Creators</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-convert-youtube-videos-to-gifs/"><u>[New] In 2024, How to Convert YouTube Videos to GIFs</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-five-cozy-seasons-ideal-backgrounds-to-warm-up-videos-for-2024/"><u>[Updated] Five Cozy Seasons Ideal Backgrounds to Warm Up Videos for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-strategies-for-personalizing-your-youtube-shorts-templates/"><u>[Updated] Strategies for Personalizing Your YouTube Shorts Templates</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/est-editors-apart-from-youtube-platform-for-2024/"><u>1-#5 Best Editors Apart From YouTube Platform for 2024</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/10-easy-to-use-frp-bypass-tools-for-unlocking-google-accounts-on-xiaomi-redmi-note-12-proplus-5g-by-drfone-android/"><u>10 Easy-to-Use FRP Bypass Tools for Unlocking Google Accounts On Xiaomi Redmi Note 12 Pro+ 5G</u></a></li>
+<li><a href="https://techidaily.com/four-key-moves-for-microsoft-to-rescue-copilot-and-dodge-the-cortana-mistake/"><u>Four Key Moves for Microsoft to Rescue Copilot and Dodge the Cortana Mistake</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-ultimate-sequence-viewing-the-conjuring-series-properly/"><u>The Ultimate Sequence: Viewing 'The Conjuring' Series Properly</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/top-rated-wireless-internet-gadgets-for-travellers-in-2ebyte-2024/"><u>Top-Rated Wireless Internet Gadgets for Travellers in 2Ebyte 2024</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-in-2024-unlock-final-cut-pro-90-day-free-trial-inside/"><u>Updated In 2024, Unlock Final Cut Pro 90-Day Free Trial Inside</u></a></li>
 </ul></div>
 

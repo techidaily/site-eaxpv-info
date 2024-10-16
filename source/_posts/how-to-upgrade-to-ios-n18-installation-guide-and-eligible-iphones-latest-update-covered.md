@@ -1,7 +1,7 @@
 ---
 title: "How to Upgrade to iOS N18: Installation Guide & Eligible iPhones | Latest Update Covered"
-date: 2024-10-06T19:34:23.215Z
-updated: 2024-10-09T22:26:16.906Z
+date: 2024-10-11T03:57:58.195Z
+updated: 2024-10-16T08:01:18.863Z
 tags:
   - apple
 categories:
@@ -32,6 +32,13 @@ Jason Hiner/ZDNET
 
 **What you need:** An iPhone running iOS 16.5 or later. Since not all iPhones are compatible with iOS 18, you'll also need a model [newer than the iPhone X](https://www.zdnet.com/article/best-iphone/).
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105877/7443" target="_top" id="2105877">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105877" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105877/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. Go to General in your iPhone Settings
 
 Go to your iPhone's Settings and select General. 
@@ -40,16 +47,16 @@ Go to your iPhone's Settings and select General.
 
 Within General, tap on Software Update. This will show you if the iOS 18 update is available for you to download.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886003/19272" target="_top" id="1886003">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886003" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886003/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 3\. Download and install
 
 When you tap on Software Update, your iPhone will check for the latest version of iOS available. Then, you'll be able to Download and Install the new update. Your iPhone will begin the download immediately.
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134500/19576" target="_top" id="2134500">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134500" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134500/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Enter your passcode and follow steps to install
 
@@ -57,31 +64,31 @@ Enter your passcode, if necessary, to authorize the installation of the new iOS 
 
 After installing the latest iOS update, your iPhone will restart.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938721/19272" target="_top" id="1938721">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938721" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938721/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## FAQs
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148648/16836" target="_top" id="2148648">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148648" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148648/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### When is Apple Intelligence coming out?
 
 Apple Intelligence, featuring the company's AI tools, will begin to roll out for compatible iPhones over the next few weeks, with more features to join in the coming months. This slew of AI features will be available on the iPhone 16 lineup and the iPhones 15 Pro and Pro Max.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151894/7443" target="_top" id="2151894">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151894" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151894/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### When was iOS 18 released?
 
 Apple released the iOS 18 developer beta during WWDC 2024 in June, and the public beta version was released on July 15\. The general release of iOS 18 is September 16.
 
 **Also: [The best iOS 18 features that will make updating your iPhone worthwhile](https://www.zdnet.com/article/the-best-ios-18-features-that-will-make-updating-your-iphone-worthwhile/)**
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151873/7443" target="_top" id="2151873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151873" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151873/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Can you still download the iOS 18 public beta?
 
@@ -90,19 +97,6 @@ You can always be part of the Apple Beta program to get the latest beta versions
 * Back up your device and personal information.
 * Don't download beta software, which will likely have bugs and glitches, on your everyday iPhone.
 * You should go into the experience to test new features and share feedback to improve iOS, which is why beta versions are released.
-
-<!-- affiliate ads begin -->
-<span id="1983473">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983473.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983473">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983473.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983473%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983473/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### How do I install the iOS 18 beta version?
 
@@ -175,20 +169,16 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-video-recordings.techidaily.com/updated-2024-approved-beat-the-competition-designing-unforgettable-tiktok-dancing-on-a-mac/"><u>[Updated] 2024 Approved Beat the Competition Designing Unforgettable TikTok Dancing on a Mac</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-all-about-io-screen-capture-mastery-guidebook/"><u>[Updated] All About IO Screen Capture Mastery Guidebook</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-rejuvenated-interview-framework-for-auditory-appeal/"><u>[Updated] Rejuvenated Interview Framework for Auditory Appeal</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-contacts-files-on-asus-rog-phone-7-by-fonelab-android-recover-contacts/"><u>Complete guide for recovering contacts files on Asus ROG Phone 7.</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/convertisseur-hd-video-hevc-top-encodeur-video-h265-compatible-avec-windows-10-and-macintosh/"><u>Convertisseur HD Video HEVC : Top Encodeur Vidéo H.2#65 Compatible Avec Windows 10 & Macintosh</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/download-the-most-popular-free-hd-dvd-viewer-for-windows-11-without-spending-a-penny/"><u>Download the Most Popular Free HD DVD Viewer for Windows 11, Without Spending a Penny!</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/enhance-your-pc-viewing-experience-with-the-top-5-hdr-media-players-compatible-with-windows-11/"><u>Enhance Your PC Viewing Experience with the Top 5 HDR Media Players Compatible with Windows 11</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/extraiga-y-convierta-sus-dvd-con-velocidad-de-guerra-winx-dvd-ripper-platino-la-herramienta-ideal-para-crear-copias-digitales-rapidas-en-windows-10/"><u>Extraiga Y Convierta Sus DVD Con Velocidad De Guerra: WinX DVD Ripper Platino, La Herramienta Ideal Para Crear Copias Digitales Rapidas en Windows 10</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/futuristic-fortifications-upcoming-secure-systems-insights/"><u>Futuristic Fortifications: Upcoming Secure Systems Insights</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/how-to-use-pokemon-go-joystick-on-realme-narzo-60x-5g-drfone-by-drfone-virtual-android/"><u>How to use Pokemon Go Joystick on Realme Narzo 60x 5G? | Dr.fone</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/mastering-sound-creation-utilizing-chatgpt-within-your-digital-audio-workstation/"><u>Mastering Sound Creation: Utilizing ChatGPT Within Your Digital Audio Workstation</u></a></li>
-<li><a href="https://article-posts.techidaily.com/no-pay-maximum-fun-20-custom-lut-sets-for-dji-miniair-users/"><u>No Pay, Maximum Fun 20 Custom LUT Sets for DJI Mini/Air Users</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/professionelle-top-auswahl-10-fuhrende-videobearbeitungssoftware-fur-windows-pcs-version-1110/"><u>Professionelle Top-Auswahl: 10 Führende Videobearbeitungssoftware Für Windows-PCs (Version 11/10)</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/ultimate-guide-watching-high-definition-4k-videos-on-your-apple-devices/"><u>Ultimate Guide: Watching High-Definition 4K Videos on Your Apple Devices</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/winxvideo-ai-innovadora-aplicacion-de-transformacion-y-optimizacion-de-medios-visuales/"><u>WinxVideo AI - Innovadora Aplicación De Transformación Y Optimización De Medios Visuales</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-future-of-cosmetics-youtube-gurus-on-the-rise/"><u>[New] 2024 Approved Future of Cosmetics YouTube Gurus on the Rise</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-youtube-ad-revenue-how-much-do-youtubers-make-per-ad/"><u>[New] 2024 Approved YouTube Ad Revenue How Much Do YouTubers Make Per Ad?</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-device-capture-to-viral-content-youtubes-upload-guide/"><u>[New] In 2024, From Device Capture to Viral Content YouTube's Upload Guide</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-fundamental-codex-for-online-video-communities/"><u>[New] In 2024, Fundamental Codex for Online Video Communities</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-green-screen-mastery-on-youtube-ideas-unleashed/"><u>[Updated] 2024 Approved Green Screen Mastery on YouTube - Ideas Unleashed</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-unveiling-the-11-most-innovative-sound-recording-options/"><u>[Updated] 2024 Approved Unveiling the 11 Most Innovative Sound Recording Options</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-unleashing-potential-combining-zoom-and-google-mail-for-2024/"><u>[Updated] Unleashing Potential Combining Zoom & Google Mail for 2024</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-streamlining-ad-revenue-for-youtube-channels-post-monetization/"><u>2024 Approved Streamlining Ad Revenue for YouTube Channels Post-Monetization</u></a></li>
+<li><a href="https://change-location.techidaily.com/additional-tips-about-sinnoh-stone-for-samsung-galaxy-a05s-drfone-by-drfone-virtual-android/"><u>Additional Tips About Sinnoh Stone For Samsung Galaxy A05s | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/can-chatgpt-master-the-art-of-crafting-exquisite-cockt/"><u>Can ChatGPT Master the Art of Crafting Exquisite Cockt</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ing-haters-strategies-for-content-creators-for-2024/"><u>Handling Haters Strategies for Content Creators for 2024</u></a></li>
 </ul></div>
 

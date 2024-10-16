@@ -1,7 +1,7 @@
 ---
 title: Apple's Revolutionary Move to Embrace Third-Party NFC Applications on iPhone, Boosting Convenience and Usability - Detailed Benefits Explained | Digital Innovations Blog
-date: 2024-10-04T18:43:28.026Z
-updated: 2024-10-09T23:56:39.542Z
+date: 2024-10-10T07:52:37.748Z
+updated: 2024-10-16T06:46:58.869Z
 tags:
   - apple
 categories:
@@ -60,6 +60,13 @@ Maria Diaz/ZDNET
 * In the Notes app, users can **record and transcribe audio**, which Apple Intelligence will generate a text summary of. This experience is also available in the Notes phone app.
 * Apple Intelligence is free on iOS 18, iPadOS 18, and MacOS Sequoia, and will be available to try in English only this summer.
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/2139558/4704" target="_top" id="2139558">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139558" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139558/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Partnership with OpenAI
 
 Jason Hiner/ZDNET
@@ -86,13 +93,6 @@ Adam Breeden/ZDNET
 * The **Safari app** was upgraded to include key information about a webpage. You can read more about the Safari upgrades under the MacOS section of this article.
 * The **Calendar app** can now pull from the Reminders app for a more seamless schedule overview.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123736/7443" target="_top" id="2123736">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123736" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123736/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## WatchOS 11
 
 Adam Breeden/ZDNET
@@ -107,6 +107,13 @@ Adam Breeden/ZDNET
 * **Check In** is available on Apple Watch, even during workouts, to help users stay safe. **Translate** is also coming to Apple Watch so users can translate text right from their wrists.
 * Another notable change is that the **double tap gesture** can be used to scroll through apps.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144287/7443" target="_top" id="2144287">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144287" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144287/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## iPadOS 18
 
 Adam Breeden/ZDNET
@@ -116,13 +123,6 @@ Adam Breeden/ZDNET
 * In a long-awaited release, iPads will now have a **[calculator app](https://www.zdnet.com/article/after-14-years-apple-expected-to-unveil-the-ipad-app-weve-all-been-waiting-for-at-wwdc/)** for the first time, complete with the same interface as the one currently found on iPhones. Plus, users can use it with the Apple Pencil through a new **Math Notes** experience, which allows users to write expressions that the calculator app will solve for them once they type the equal sign, in their own handwriting,
 * Handwriting in Notes also got an upgrade with **Smart** **Script**, which refines users' writing to make it more legible while keeping the authenticity of the user's handwriting style. The feature can also match copied and pasted text to the user's handwriting. Typed text was also enhanced, with five new highlight colors and the ability to toggle sections under headings or subheadings.
 * iPadOS 18 supports **screen-sharing via SharePlay** and the same Control Center customizations, Photos app upgrades, Safari updates, and emoji Tapbacks found in **iOS 18.**
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925473/19272" target="_top" id="1925473">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925473" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925473/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## MacOS 15 (Sequoia)
 
@@ -134,19 +134,6 @@ Adam Breeden/ZDNET
 * **Video meetings** are also getting an upgrade, with new backgrounds and a preview experience that allows you to see what you are about to share before sharing it. This feature works with popular video conferencing applications such as FaceTime and Zoom.
 * The **AI summarization** tool will live in Safari to help users process content like web pages and articles more efficiently. Safari will also assist users in discovering more helpful information about a page they are browsing when relevant, such as directions.
 * Apple also launched a new **Viewer experience**, which does for video what Reader does for text.
-
-<!-- affiliate ads begin -->
-<span id="1975562">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975562.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975562">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975562.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975562%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975562/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## VisionOS 2
 
@@ -165,6 +152,13 @@ Jason Hiner/ZDNET
 * Users can **cast content** from their iPhone, iPad, or Mac to the Vision Pro using AirPlay.
 * Apple is also making the Vision Pro available in more countries starting June 28\. You can see the full list [here](https://www.apple.com/newsroom/2024/06/apple-vision-pro-arrives-in-new-countries-and-regions-beginning-june-28/).
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134228/18498" target="_top" id="2134228">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134228" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134228/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## AirPods
 
 Jason Hiner/ZDNET
@@ -174,10 +168,10 @@ Jason Hiner/ZDNET
 * Apple is also releasing a **Personalized Spatial Audio API** for game developers to build around the AirPods' audio technology.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087239/19272" target="_top" id="2087239">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087239" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137395/7443" target="_top" id="2137395">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137395" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087239/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137395/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## tvOS 18
@@ -224,17 +218,24 @@ Screenshot by Nina Raemont/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/ed-empower-your-content-advanced-techniques-in-youtube-editing/"><u>[Updated] Empower Your Content Advanced Techniques in YouTube Editing</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/best-sites-and-apps-for-downloading-free-ebooks-online/"><u>Best Sites and Apps for Downloading Free Ebooks Online</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/catchemall-celebrate-national-pokemon-day-with-virtual-location-on-nokia-c210-drfone-by-drfone-virtual-android/"><u>CatchEmAll Celebrate National Pokémon Day with Virtual Location On Nokia C210 | Dr.fone</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/download-free-mp4-mp3-video-converter-software-without-cost/"><u>Download Free MP4 MP3 Video Converter Software Without Cost</u></a></li>
-<li><a href="https://fake-location.techidaily.com/in-2024-a-detailed-guide-on-faking-your-location-in-mozilla-firefox-on-vivo-y55s-5g-2023-drfone-by-drfone-virtual-android/"><u>In 2024, A Detailed Guide on Faking Your Location in Mozilla Firefox On Vivo Y55s 5G (2023) | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-fake-snapchat-location-without-jailbreak-on-htc-u23-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fake Snapchat Location without Jailbreak On HTC U23 | Dr.fone</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-list-of-pokemon-go-joysticks-on-apple-iphone-6-drfone-by-drfone-virtual-ios/"><u>In 2024, List of Pokémon Go Joysticks On Apple iPhone 6 | Dr.fone</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-unlock-the-potential-of-your-phone-individual-ringtone-creation-on-android/"><u>In 2024, Unlock the Potential of Your Phone Individual Ringtone Creation on Android</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/kostenlose-losung-zum-umwandeln-von-videos-vom-codec-h2-user/"><u>Kostenlose Lösung Zum Umwandeln Von Videos Vom Codec H.2 # User</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/the-ultimate-guide-to-supporting-hevc-video-format-on-your-mobile-devices-and-smart-tv/"><u>The Ultimate Guide to Supporting HEVC Video Format on Your Mobile Devices & Smart TV</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/updated-in-2024-timer-tutorial-how-to-create-a-countdown-in-fcpx-fast/"><u>Updated In 2024, Timer Tutorial How to Create a Countdown in FCPX Fast</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/what-is-instagram-story-highlight/"><u>What Is Instagram Story Highlight?</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-harvesting-hits-and-heads-how-to-profit-from-your-youtube-presence-without-ads/"><u>[New] 2024 Approved Harvesting Hits and Heads How to Profit From Your YouTube Presence Without Ads</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-free-frame-flip-converting-tweets-into-tweenish-movies-for-2024/"><u>[New] Free Frame Flip Converting Tweets Into Tweenish Movies for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-game-up-your-content-with-these-effective-freefire-video-hashtags-for-2024/"><u>[New] Game Up Your Content with These Effective FreeFire Video Hashtags for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-gamers-quest-1000plus-game-adventures-unfolded-for-2024/"><u>[New] Gamer's Quest 1,000+ Game Adventures Unfolded for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-how-to-delete-youtube-comments-effortlessly-for-2024/"><u>[New] How to Delete YouTube Comments Effortlessly for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-flv-to-youtubes-master-the-art-of-video-transformation-with-these-top-tools/"><u>[New] In 2024, Flv to Youtubes Master the Art of Video Transformation with These Top Tools</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-free-and-paid-video-game-opening-mastery-rank-the-best-of-yt-makers/"><u>[Updated] 2024 Approved Free & Paid Video Game Opening Mastery Rank the Best of YT Makers</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-estimate-income-from-youtube-video-snippets/"><u>[Updated] 2024 Approved How to Estimate Income From YouTube Video Snippets</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-2024-approved-imaginarium-collagecraft-cutting-edge-assembler/"><u>[Updated] 2024 Approved Imaginarium CollageCraft Cutting-Edge Assembler</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-finding-your-custom-scored-youtube-tunes-for-2024/"><u>[Updated] Finding Your Custom-Scored YouTube Tunes for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-optimize-your-youtube-shorts-templates-effectively-for-2024/"><u>[Updated] How to Optimize Your YouTube Shorts Templates Effectively for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-behind-the-scenes-mastering-4-techniques-of-xbox-capture/"><u>[Updated] In 2024, Behind the Scenes Mastering 4 Techniques of Xbox Capture</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-maximize-creativity-with-top-10-cost-free-photo-editors-online/"><u>[Updated] Maximize Creativity with Top 10 Cost-Free Photo Editors Online</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-premium-8-editors-compatible-with-linux-for-2024/"><u>[Updated] Premium 8 Editors Compatible with Linux for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/4-strategies-for-capturing-xbox-games-play-by-play/"><u>4 Strategies for Capturing Xbox Games Play-By-Play</u></a></li>
+<li><a href="https://fox-that.techidaily.com/conquer-your-iphone-12s-worst-glitches-a-step-by-step-guide-for-each-major-issue-12/"><u>Conquer Your iPhone 12'S Worst Glitches - A Step-by-Step Guide for Each Major Issue #12</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-9-best-phone-monitoring-apps-for-samsung-galaxy-f34-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 9 Best Phone Monitoring Apps for Samsung Galaxy F34 5G | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-9-mind-blowing-tricks-to-hatch-eggs-in-pokemon-go-without-walking-on-nokia-c12-drfone-by-drfone-virtual-android/"><u>In 2024, 9 Mind-Blowing Tricks to Hatch Eggs in Pokemon Go Without Walking On Nokia C12 | Dr.fone</u></a></li>
+<li><a href="https://facebook.techidaily.com/internet-interruption-a-day-without-social-media/"><u>Internet Interruption: A Day Without Social Media</u></a></li>
 </ul></div>
 

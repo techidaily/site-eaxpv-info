@@ -1,7 +1,7 @@
 ---
 title: "Vision Pro Eyewear: Apple's Next Step Towards Health Tracking with Breath Analysis, Says ZDNet"
-date: 2024-10-05T19:56:23.835Z
-updated: 2024-10-09T22:21:37.037Z
+date: 2024-10-13T22:59:09.673Z
+updated: 2024-10-15T16:55:26.880Z
 tags:
   - apple
 categories:
@@ -56,10 +56,10 @@ During this time, the company focused on providing viable mixed reality and VR e
 Essentially, Meta's focus has been on finding the sweet spot for AR and VR devices using current technology and baking that into its products. In the Quest 3, it has introduced a truly great device at a reasonably affordable price.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105876/7443" target="_top" id="2105876">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105876" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100527/7443" target="_top" id="2100527">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100527" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105876/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100527/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  That old Apple magic
@@ -88,6 +88,13 @@ But that means that Apple has to stay the course. It can't lose patience, even i
 Bloomberg's Gurman believes Apple is more willing to kill products now than it has been in the past. His examples are Apple's [termination of its self-driving car program](https://www.zdnet.com/article/apple-just-killed-its-electric-car-project-shifting-focus-to-generative-ai/), killing off [a project to develop microLED screens](https://www.bloomberg.com/news/articles/2024-03-22/apple-scraps-plan-to-design-display-for-watch-in-house-cuts-jobs), and shutting down the [Pay Later finance program](https://www.zdnet.com/article/apple-kills-off-its-apple-pay-later-service-but-has-another-option-in-the-works/) before it got off the ground. 
 
 His inference is that it's possible Apple will lose patience with the slow progress of the Vision Pro and kill it off, although he says his sources claim the company is more focused on introducing a cost-cut Vision device that off-loads the processing to a tethered iPhone or Mac. 
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136618/26400" target="_top" id="2136618">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136618" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136618/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Think different?
 
@@ -123,13 +130,6 @@ In other words, for the Vision to be successful, it has to stop fooling around a
 
 So what, beyond shipping useful software like the ultra-wide Mac display, needs to factor into that probably elusive Apple mindset change? Three things. 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094418/7443" target="_top" id="2094418">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094418" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094418/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 1\. Give the Vision a controller
 
 VisionOS 2 has made some improvements. Beyond a trackpad, the new OS version (coming this fall) will support a mouse for pointing. It will also allow some form of keyboard passthrough, even in immersive environments, enabling you to see your keyboard. 
@@ -139,6 +139,13 @@ The eye tracking and hand gestures interface that are the primary means of opera
 **Also: [I watched my favorite TV show on Apple Vision Pro and it was glorious, strange, and tiring](https://www.zdnet.com/article/i-watched-my-favorite-tv-show-on-apple-vision-pro-and-it-was-glorious-strange-and-tiring/)**
 
 You can see this in action with the [Puzzling Places game](https://www.meta.com/experiences/3931148300302917/). On the Quest 3, the game provides a much richer interface than on the Vision Pro. That's because it's much easier to navigate objects in the 3D space using the Quest controllers. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902289/19272" target="_top" id="1902289">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902289" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902289/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 2\. Stay away from cable tethering
 
@@ -151,13 +158,6 @@ Just the absence of the Vision Pro battery and its tether to manage makes the Qu
 The idea that a future Vision device might need to be physically tethered to an iPhone to work would be a joy killer, especially when the Quest 3 doesn't have such an annoyance. 
 
 There might be one compromise, which is to wirelessly offload some processing to an iPhone, similar to the symbiotic relationship the Apple Watch has with the iPhone. That could work. 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938721/19272" target="_top" id="1938721">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938721" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938721/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 3\. Make a tough margin decision
 
@@ -180,10 +180,10 @@ Think about that. If the Quest 3 is sold for $500, retailers like Amazon are lik
 Apple, by contrast, is making a fairly predictable margin on the Vision Pro, which is why the price is so high by comparison. Apple does have some cost-cutting options (display, chips, assembly, structure, and lenses), but if Facebook is competing at a loss, that puts Apple into the uncomfortable position of also taking a per-unit COGS loss or pricing well higher than the current market leader. 
 
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1828647/21290" target="_top" id="1828647">
-  <img src="//a.impactradius-go.com/display-ad/21290-1828647" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043618/7443" target="_top" id="2043618">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043618" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1828647/21290" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043618/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Looking towards the future
@@ -235,18 +235,21 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-how-to-react-when-your-face-appears-in-video-calls-accidentally/"><u>[Updated] 2024 Approved How To React When Your Face Appears In Video Calls Accidentally</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-identifying-high-impact-hdr-photography-tools-for-2024/"><u>[Updated] Identifying High-Impact HDR Photography Tools for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-leading-biz-cloud-storage-excellence-for-2024/"><u>[Updated] Leading Biz Cloud Storage Excellence for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-periscope-demystified-features-pricing-and-account-creation-tips/"><u>[Updated] Periscope Demystified Features, Pricing & Account Creation Tips</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/2024-approved-understanding-aspect-ratio-regulations-on-twitter/"><u>2024 Approved Understanding Aspect Ratio Regulations on Twitter</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/convertisseur-gratuit-de-fichier-mp3-vers-format-wmv-sur-internet-movavi/"><u>Convertisseur Gratuit De Fichier MP3 Vers Format WMV Sur Internet - Movavi</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfer-from-apple-iphone-se-2020-to-samsung-simplified-guide-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How To Transfer From Apple iPhone SE (2020) to Samsung Simplified Guide | Dr.fone</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-professional-grade-handguns-for-ultimate-video-stability/"><u>In 2024, Professional Grade Handguns for Ultimate Video Stability</u></a></li>
-<li><a href="https://blog-min.techidaily.com/mac5/"><u>Mac用トップ5の最新音楽ダウンロードガイド - 安心無料・満足度高い！</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/transformez-votre-fichier-caf-en-format-m4r-librement-avec-movavi-en-ligne/"><u>Transformez Votre Fichier CAF en Format M4R Librement Avec Movavi en Ligne</u></a></li>
-<li><a href="https://techtrends.techidaily.com/troubleshoot-and-correct-your-binkw32dll-file-absence-issue-easily/"><u>Troubleshoot and Correct Your Binkw32.dll File Absence Issue Easily</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/ultimate-list-of-no-cost-video-recording-tools-for-any-gadget-ranked/"><u>Ultimate List of No-Cost Video Recording Tools for Any Gadget: Ranked!</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/wmf-wav/"><u>무료 강화: 오피니 WMF 파일을 WAV로 스타트-アップ 사양해주세요!</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-concept-to-creation-crafting-youtube-video-splits/"><u>[New] 2024 Approved From Concept to Creation Crafting YouTube Video Splits</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-5-leading-tools-for-crafting-superior-video-titles-and-tags-for-2024/"><u>[New] 5 Leading Tools for Crafting Superior Video Titles and Tags for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-cutting-edge-video-sharing-from-facebook-to-whatsapp/"><u>[New] Cutting-Edge Video Sharing From Facebook to WhatsApp</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-flash-vids-unpacked-whats-inside-in-2024/"><u>[New] Flash Vids Unpacked What's Inside, In 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-advanced-strategies-for-soundless-video/"><u>[New] In 2024, Advanced Strategies for Soundless Video</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-gamings-finest-top-10-gpu-picks-for-clear-online-broadcasts/"><u>[New] In 2024, Gaming's Finest Top 10 GPU Picks for Clear Online Broadcasts</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-navigating-personal-brand-identity-high-engagement/"><u>[New] Navigating Personal Brand Identity [High Engagement]</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/tep-by-step-capturing-ios-device-screen-on-video/"><u>[New] Step-by-Step Capturing iOS Device Screen on Video</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-master-the-art-of-video-editing-with-top-7-sounds-selections/"><u>[Updated] 2024 Approved Master the Art of Video Editing with Top 7 Sounds Selections</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-game-on-steps-for-crafting-an-influential-online-gamers-channel-for-2024/"><u>[Updated] Game On Steps for Crafting an Influential Online Gamers' Channel for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-guidelines-to-erase-youtube-recordings-on-pc-for-2024/"><u>[Updated] Guidelines to Erase YouTube Recordings on PC for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-garner-over-a-thousand-viewers-swiftly/"><u>[Updated] In 2024, Garner Over a Thousand Viewers Swiftly</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-edit-youtube-videos-in-final-cut-pro/"><u>[Updated] In 2024, How to Edit YouTube Videos in Final Cut Pro</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-resolve-monster-hunter-worlds-black-out-on-boot-problem/"><u>How to Resolve Monster Hunter: World’s Black Out on Boot Problem</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-strategies-to-avoid-overuse-of-b-roll-in-cinematography/"><u>In 2024, Strategies to Avoid Overuse of B-Roll in Cinematography</u></a></li>
+<li><a href="https://win-hot.techidaily.com/solve-windows-search-errors-with-ease-expert-tips-and-strategies/"><u>Solve Windows Search Errors with Ease - Expert Tips & Strategies</u></a></li>
 </ul></div>
 

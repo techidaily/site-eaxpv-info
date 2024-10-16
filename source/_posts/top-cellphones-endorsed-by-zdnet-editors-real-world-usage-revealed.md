@@ -1,7 +1,7 @@
 ---
 title: "Top Cellphones Endorsed by ZDNet Editors: Real-World Usage Revealed"
-date: 2024-10-04T22:39:48.251Z
-updated: 2024-10-10T01:17:58.363Z
+date: 2024-10-10T06:30:08.789Z
+updated: 2024-10-15T21:12:57.869Z
 tags:
   - apple
 categories:
@@ -47,13 +47,6 @@ Cons
 * New design Cameras are impressive Performance Battery life
 
 ## iPhone 12 Pro
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037475/7443" target="_top" id="2037475">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037475" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Jason Cipriani and Simon Bisson
 
@@ -101,21 +94,7 @@ Pros
 Cons 
 * Long battery life Strong performance The camera is very impressive
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137224/26400" target="_top" id="2137224">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137224" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137224/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## iPhone 12 Pro Max
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134495/18498" target="_top" id="2134495">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134495" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134495/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Matthew Miller
 
@@ -171,14 +150,14 @@ Pros
 Cons 
 * Fast performance New camera features Strong battery life
 
-## iPhone 11 Pro
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036501/19272" target="_top" id="2036501">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036501" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144310/7443" target="_top" id="2144310">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144310" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036501/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144310/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+## iPhone 11 Pro
 
 ### Ed Bott
 
@@ -222,13 +201,6 @@ Show less
 
 ## Huawei P20 Pro
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948891/19272" target="_top" id="1948891">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948891" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948891/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Federico Guerrini
 
 **Federico Guerrini:** Very good phone for its price (I bought it for 280 euros). Good camera, nice display, handy format. I bought it before the ban, so no problem with Google apps, etc. The charger is very fast, in half an hour it goes from 0% to almost 50%. I'm not very concerned about Huawei spying on me, but just in case, I have other phones on which I installed Ubuntu Touch for the "sensitive" calls. ;)
@@ -244,6 +216,13 @@ Cons
 * Excellent photo quality Cool color options Long battery life Loud stereo speakers Wireless charging support
 
 ## iPhone XR
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938721/19272" target="_top" id="1938721">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938721" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938721/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Damian Radcliffe, Angelica Mari, and Sean Portnoy
 
@@ -266,19 +245,19 @@ Cons
 Show Expert Take Show less 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137378/7443" target="_top" id="2137378">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137378" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136617/26400" target="_top" id="2136617">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136617" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137378/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136617/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ###   
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118319/7443" target="_top" id="2118319">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118319" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1972665/19272" target="_top" id="1972665">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972665" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118319/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972665/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ###   
@@ -290,13 +269,6 @@ Show Expert Take Show less
 I have a Moment wide-angle lens and case, which gives me the tech I need for landscape photography. There's a lot of landscape where I live, and picturing it never gets old. I keep looking at the newer iPhones each year, but things like a wider lens and low-light performance aren't hot buttons. I haven't used my Canon DSLR in years. 
 
 **Next phone or dream phone?** iPhone 13 or 14 Pro Max. Folding iPhone? I like a big screen as long as it will fit in a shirt pocket, and Moment makes a case for it. Not sure I'd be up for the extra fiddling a folding iPhone would require, but it would likely replace my iPad Mini. 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902273/19272" target="_top" id="1902273">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902273" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902273/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ###   
 
@@ -326,6 +298,13 @@ Purchased in 2016, I've had no reason to upgrade in four years. The thing does a
 
 **Next phone or dream phone?** Apple Watch Series 13\. It would just be a stylish wireless transceiver for the AirPods. Never worry about leaving the phone somewhere by accident because it's always on the wrist! 
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130530/26400" target="_top" id="2130530">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130530/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## iPhone 6s Plus
 
 ### David Gewirtz and Iliana Meir
@@ -340,6 +319,13 @@ Purchased in 2016, I've had no reason to upgrade in four years. The thing does a
 
 **Next phone or dream phone?** I have no idea. I get overwhelmed by the amount of choice. It'll be an iPhone I guess. I'm used to them.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111968/7443" target="_top" id="2111968">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111968" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111968/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Lumia 1520
 
 ### Mary Branscombe
@@ -350,6 +336,13 @@ Yes, I am indeed still clinging to the phone that made me love phablets, upgrade
 
 Show less 
 
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098705/14409" target="_top" id="2098705">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098705" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098705/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Samsung Galaxy Note 8
 
 ### Charles McLellan
@@ -359,6 +352,13 @@ I've been using Samsung's Note 8 for several years now, despite having seen all 
 **Next phone or dream phone?** A 2021 flagship-class phone with an integrated thermal camera. A thermal camera is a great tool for jobs around the house/office and for seeking out wildlife after dark
 
 Show Expert Take Show less 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105883/7443" target="_top" id="2105883">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105883" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105883/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ###   
 
@@ -392,24 +392,20 @@ Show Expert Take Show less
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-creating-captivating-podcast-launch-screens/"><u>[New] Creating Captivating Podcast Launch Screens</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-diy-techniques-transforming-smartphones-into-webcams-for-2024/"><u>[New] DIY Techniques Transforming Smartphones Into Webcams for 2024</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/remier-cutting-suites-on-linux-systems/"><u>[New] Premier Cutting Suites on Linux Systems</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-strategies-for-syncing-zoom-meetings-across-devices/"><u>[New] Strategies for Syncing Zoom Meetings Across Devices</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-a-guide-to-winning-at-game-capturing-with-win10/"><u>[Updated] A Guide to Winning at Game Capturing with Win10</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-in-2024-whimsical-words-in-motion-animated-captions-for-ig-stories/"><u>[Updated] In 2024, Whimsical Words in Motion Animated Captions for IG Stories</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/11-tools/"><u>11 Tools</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/ai-powered-screenshots-record-your-desktop-webcam-feeds-and-voice-with-winxvideo-effortlessly/"><u>AI-Powered Screenshots: Record Your Desktop, Webcam Feeds, and Voice with Winxvideo Effortlessly</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/comprehensive-guide-solving-windows-11-update-issues-and-expert-advice/"><u>Comprehensive Guide: Solving Windows 11 Update Issues & Expert Advice</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/converti-dvd-gratis-in-formato-mp4-per-pc-e-mac-con-winxdvd-il-guida-completa/"><u>Converti DVD Gratis in Formato MP4 per PC E Mac Con WinXDVD: Il Guida Completa</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/exploring-new-horizons-with-windows-11-a-comprehensive-look-at-microsofts-latest-operating-system-improvements/"><u>Exploring New Horizons with Windows 11 - A Comprehensive Look at Microsoft's Latest Operating System Improvements</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-5-car-locator-apps-for-asus-rog-phone-7-drfone-by-drfone-virtual-android/"><u>In 2024, Top 5 Car Locator Apps for Asus ROG Phone 7 | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/ipaddvdtop5/"><u>IPad用ダウンロード無料DVDインポーター最新テクニック：お勧めのフリーアプリTOP5</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/microsoft-addresses-and-corrects-battery-driver-flaw-for-acpi-conformance/"><u>Microsoft Addresses and Corrects Battery Driver Flaw for ACPI Conformance</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/passare-da-vhs-a-dvd-un-passo-passo-guidato-per-la-conversione-su-computer/"><u>Passare Da VHS a DVD: Un Passo-Passo Guidato per La Conversione Su Computer</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/step-by-step-guide-free-hd-movie-viewing-with-the-showbox-app-on-your-pc-windows-supported/"><u>Step-by-Step Guide: Free HD Movie Viewing with the ShowBox App on Your PC (Windows Supported)</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/the-ultimate-list-of-teen-flicks-to-binge-watch-on-netflix/"><u>The Ultimate List of Teen Flicks to Binge-Watch on Netflix</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/top-13-free-hdtv-streaming-apps-and-software-compatible-with-windows-11/"><u>Top 13 Free HDTV Streaming Apps & Software Compatible with Windows 11</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/winx-dvd-ripper-the-ultimate-mac-compatible-software-for-easy-video-transfer-to-ios-devices-and-itunes/"><u>WinX DVD Ripper: The Ultimate Mac Compatible Software for Easy Video Transfer to iOS Devices and iTunes</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-guffaws-in-grooves-parody-playlist-for-2024/"><u>[New] Guffaws in Grooves Parody Playlist for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-raw-to-refined-expert-techniques-for-youtube-content-creators/"><u>[New] In 2024, From Raw to Refined Expert Techniques for YouTube Content Creators</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-elaborate-analysis-of-simple-hdr-imaging/"><u>[Updated] 2024 Approved Elaborate Analysis of Simple HDR Imaging</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-free-youtube-revenue-predictor-tools/"><u>[Updated] 2024 Approved Free YouTube Revenue Predictor Tools</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-effortless-video-streams-youtube-loops-for-television-viewers-for-2024/"><u>[Updated] Effortless Video Streams YouTube Loops for Television Viewers for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-from-concept-to-screen-channel-yt-for-pioneering-filmmaking-techniques-for-2024/"><u>[Updated] From Concept to Screen Channel YT for Pioneering Filmmaking Techniques for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-case-study-how-to-grow-on-youtube-to-have-millions-of-subs/"><u>[Updated] In 2024, Case Study How to Grow on YouTube to Have Millions of Subs</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-creator-to-critic-evaluating-video-value-across-platforms/"><u>[Updated] In 2024, From Creator to Critic Evaluating Video Value Across Platforms</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-digital-avatars-to-internet-stardom-becoming-a-vtuber/"><u>[Updated] In 2024, From Digital Avatars to Internet Stardom – Becoming a Vtuber?</u></a></li>
+<li><a href="https://change-location.techidaily.com/hacks-to-do-pokemon-go-trainer-battles-for-xiaomi-redmi-a2-drfone-by-drfone-virtual-android/"><u>Hacks to do pokemon go trainer battles For Xiaomi Redmi A2 | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-continuous-improvement-regularly-practice-and-evaluate-your-listening-skills-identifying-areas-for-improvement-30-new-titles-that-convey-similar-mea/"><u>In 2024, Continuous Improvement Regularly Practice and Evaluate Your Listening Skills, Identifying Areas for Improvement. 30 New Titles that Convey Similar Meanings to How to Change Your Voice in Free Fire Game? [Free Solution Included]</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-optimizing-your-strategy-for-large-scale-tiktok-video-downloads/"><u>In 2024, Optimizing Your Strategy for Large-Scale TikTok Video Downloads</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/mastering-video-troubleshooting-a-step-by-step-guide-to-resolve-vlcs-dvd-cannot-be-played-error/"><u>Mastering Video Troubleshooting: A Step-by-Step Guide to Resolve VLC's 'DVD Cannot Be Played' Error</u></a></li>
+<li><a href="https://fox-http.techidaily.com/navigating-your-way-to-the-perfect-4k-lens-purchase-for-2024/"><u>Navigating Your Way to the Perfect 4K Lens Purchase for 2024</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-tak/"><u>Updated Tak</u></a></li>
 </ul></div>
 

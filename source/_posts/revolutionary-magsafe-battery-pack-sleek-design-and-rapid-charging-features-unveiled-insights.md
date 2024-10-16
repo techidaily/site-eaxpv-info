@@ -1,7 +1,7 @@
 ---
 title: "Revolutionary MagSafe Battery Pack: Sleek Design & Rapid Charging Features Unveiled - Insights"
-date: 2024-09-30T18:23:42.784Z
-updated: 2024-10-04T16:06:26.558Z
+date: 2024-10-08T21:51:40.807Z
+updated: 2024-10-15T16:57:15.578Z
 tags:
   - apple
 categories:
@@ -47,10 +47,10 @@ The Casely Power Pod battery pack uses MagSafe technology to snap onto the back 
 It offers 5,000mAh of battery capacity and a max wireless output of 15W that can be used three ways: as a MagSafe battery pack, as a Qi charging pad for things like wireless earbuds, or as a traditional battery pack with a USB-C cord. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135374/19272" target="_top" id="2135374">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135374" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151882/7443" target="_top" id="2151882">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151882" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135374/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151882/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How long does it take to charge a phone?
@@ -96,16 +96,10 @@ Casely's Power Pods can also be matched with the brand's [phone cases](https://s
 Diving beyond the obviously unique color and print offerings, the Power Pod also stands out for its shape. There's no boxy, oversized battery here. Instead, at only 3.2 ounces, the Power Pod is slightly thinner than many competitors and noticeably more rounded off than [other battery packs I have tested](https://www.zdnet.com/article/best-magsafe-battery/). It was clearly designed with user appeal at the forefront. 
 
 <!-- affiliate ads begin -->
-<span id="1975648">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975648.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975648">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975648%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975648/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135398/19272" target="_top" id="2135398">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135398" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135398/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -144,24 +138,24 @@ Unlike bulkier battery packs, the Power Pod provides an on-par 5,000mAh of batte
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-frame-it-right-essential-composition-rules-for-youtube-filmmaking/"><u>[New] 2024 Approved Frame It Right Essential Composition Rules for YouTube Filmmaking</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-free-to-profit-reaching-the-new-500-sub-total/"><u>[New] 2024 Approved Free to Profit Reaching the New 500 Sub Total</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-can-you-grow-without-buying-views/"><u>[New] 2024 Approved How Can You Grow Without Buying Views?</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-get-more-subscribers-on-youtube/"><u>[New] 2024 Approved How to Get More Subscribers on YouTube</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-youtubes-realm-to-igtvs-domain-3-ways/"><u>[New] In 2024, From YouTube's Realm to IGTV's Domain (3 Ways)</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/new-rhythm-and-reels-posting-melodies-on-social-media-for-2024/"><u>[New] Rhythm & Reels Posting Melodies on Social Media for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-novice-to-pro-mastering-the-craft-of-yt-shorts/"><u>[Updated] 2024 Approved From Novice to Pro Mastering the Craft of YT Shorts</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-trim-youtube-videos-like-a-pro/"><u>[Updated] 2024 Approved How to Trim YouTube Videos Like a Pro</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-2024-approved-streamlining-your-photo-editing-the-crop-essentials/"><u>[Updated] 2024 Approved Streamlining Your Photo Editing The Crop Essentials</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-zero-to-hero-youtube-intro-wonders-with-imovie/"><u>[Updated] In 2024, From Zero to Hero YouTube Intro Wonders with iMovie</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-successfully-embed-youtube-playlists-via-web-scripts/"><u>[Updated] In 2024, How to Successfully Embed YouTube Playlists via Web Scripts</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-industry-standards-prime-gimbals-for-drones-for-2024/"><u>[Updated] Industry Standards Prime Gimbals for Drones for 2024</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/2024-approved-become-a-meme-genius-the-best-8-gif-making-methods/"><u>2024 Approved Become a Meme Genius The Best 8 GIF-Making Methods</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/2024-approved-beyond-apowersoft-top-10-screen-capture-apps-analyzed/"><u>2024 Approved Beyond Apowersoft Top 10 Screen Capture Apps Analyzed</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/complete-guide-on-unlocking-apple-iphone-14-with-a-broken-screen-drfone-by-drfone-ios/"><u>Complete Guide on Unlocking Apple iPhone 14 with a Broken Screen? | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/expert-tips-to-resolve-no-bootable-device-found-on-your-laptop-or-pc/"><u>Expert Tips to Resolve 'No Bootable Device Found' On Your Laptop or PC</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-deal-with-the-tecno-camon-20-premier-5g-screen-black-but-still-works-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Deal With the Tecno Camon 20 Premier 5G Screen Black But Still Works? | Dr.fone</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-eye-shadow-and-lips-tutorials/"><u>In 2024, Eye Shadow & Lips Tutorials</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-locked-out-of-iphone-7-5-ways-to-get-into-a-locked-iphone-7-drfone-by-drfone-ios/"><u>In 2024, Locked Out of iPhone 7? 5 Ways to get into a Locked iPhone 7 | Dr.fone</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-hobby-to-hustle-making-money-with-videos/"><u>[New] 2024 Approved From Hobby to Hustle Making Money with Videos</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-passive-watchers-to-profit-youtube-monetization/"><u>[New] 2024 Approved From Passive Watchers To Profit YouTube Monetization</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-groan-inducing-humor-in-hits-for-2024/"><u>[New] Groan-Inducing Humor in Hits for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-how-to-find-youtube-collaboration-partners-for-2024/"><u>[New] How to Find YouTube Collaboration Partners for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-free-webinar-creation-and-management-on-youtube/"><u>[New] In 2024, Free Webinar Creation & Management on Youtube</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/urge-video-popularity-with-essential-seo-aids-for-2024/"><u>[New] Surge Video Popularity with Essential SEO Aids for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-from-selfie-snaps-to-skincare-specials-establishing-your-youtube-brand-for-2024/"><u>[Updated] From Selfie Snaps to Skincare Specials Establishing Your YouTube Brand for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-ftp-to-feed-the-complete-guide-to-uploading-to-youtube/"><u>[Updated] In 2024, From FTP to Feed The Complete Guide to Uploading to YouTube</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-novice-to-vlogger-your-guide-to-creating-a-youtube-chanel/"><u>[Updated] In 2024, From Novice to Vlogger Your Guide to Creating a YouTube Chanel</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-convert-youtube-to-mp4-safely-step-by-step-guide/"><u>[Updated] In 2024, How to Convert YouTube to MP4 Safely? [Step by Step Guide]</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-masterful-fb-marketing-essential-tips-for-every-business-level/"><u>[Updated] In 2024, Masterful FB Marketing Essential Tips for Every Business Level</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-navigating-the-square-wave-of-facebook-video-popularity/"><u>[Updated] Navigating the Square Wave of Facebook Video Popularity</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-infuse-sound-into-your-whatsapp-status-update/"><u>2024 Approved Infuse Sound Into Your WhatsApp Status Update</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/android-unlock-code-sim-unlock-your-samsung-galaxy-f34-5g-phone-and-remove-locked-screen-by-drfone-android/"><u>Android Unlock Code Sim Unlock Your Samsung Galaxy F34 5G Phone and Remove Locked Screen</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ng-the-perfect-pair-matching-mics-with-every-type-of-youtubers-style/"><u>Finding the Perfect Pair Matching Mics with Every Type of YouTuber's Style</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-laying-foundations-for-fresh-content-first-timers-youtube-video-guide-mac-edition/"><u>In 2024, Laying Foundations for Fresh Content First-Timer's Youtube Video Guide, Mac Edition</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-top-6-ways-to-transfer-text-messages-from-nokia-c110-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Top 6 Ways to Transfer Text Messages from Nokia C110 to Other Android Devices | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/solving-the-mystery-of-error-code-0xc0000185-a-comprehensive-guide/"><u>Solving the Mystery of Error Code 0Xc0000185: A Comprehensive Guide</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/transform-webcam-into-a-recording-station-with-vlc/"><u>Transform Webcam Into a Recording Station with VLC</u></a></li>
 </ul></div>
 

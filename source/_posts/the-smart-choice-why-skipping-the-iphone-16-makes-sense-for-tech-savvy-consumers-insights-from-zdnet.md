@@ -1,7 +1,7 @@
 ---
 title: "The Smart Choice: Why Skipping the iPhone 16 Makes Sense for Tech-Savvy Consumers - Insights From ZDNet"
-date: 2024-10-06T16:17:00.565Z
-updated: 2024-10-10T00:35:08.712Z
+date: 2024-10-08T17:43:16.716Z
+updated: 2024-10-15T20:27:39.690Z
 tags:
   - apple
 categories:
@@ -35,10 +35,10 @@ Every year, my wife and I eagerly await the release of the new iPhones. Being pa
 Despite the buzz around the [iPhone 16's new features](https://www.zdnet.com/article/im-an-android-user-but-these-three-iphone-16-features-would-win-me-over/) and the integration of Apple Intelligence, however, several concerns dampen my enthusiasm for upgrading this year.
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136548/16384" target="_top" id="2136548">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136548" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2111965/7443" target="_top" id="2111965">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111965" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136548/16384" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111965/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Apple Intelligence: A significant, yet incomplete, leap forward
@@ -56,10 +56,16 @@ However, the integration of Apple Intelligence is not without challenges. The mo
 More advanced AI features, such as [Genmoji](https://www.zdnet.com/article/apples-new-ai-generated-genmoji-solve-a-problem-weve-all-had-before/) for creating custom emoji, the [Image Playground](https://www.zdnet.com/article/forget-dall-e-apples-new-ai-image-generator-runs-on-device-and-works-like-magic/) for on-device image creation, and ChatGPT integration, have yet to be included in the beta. Siri has received a minor UI update and a more conversational tone, but significant improvements are expected later this year. [According to Bloomberg's Mark Gurman](https://www.bloomberg.com/news/newsletters/2024-07-07/apple-watch-series-10-ultra-3-details-bigger-screens-blood-pressure-challenge-lybjqp0q), additional Apple Intelligence features will be introduced in upcoming iOS 18.1 Beta releases, with the stable version possibly arriving in October.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136618/26400" target="_top" id="2136618">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136618" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136618/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1424528">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## New hardware leaks: what to expect from the iPhone 16
@@ -79,10 +85,10 @@ Interestingly, despite these hardware upgrades, Apple appears to be keeping pric
 Despite these upgrades, the iPhone 16 may still face challenges due to design cycles that didn't fully account for the scope of Apple Intelligence's capabilities. As a result, users may experience suboptimal performance and a less seamless user experience, especially as more AI features roll out in subsequent updates.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139123/17108" target="_top" id="2139123">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139123" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082530/7443" target="_top" id="2082530">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082530" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139123/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082530/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Why you shouldn't buy the iPhone 16 for Apple Intelligence
@@ -92,13 +98,6 @@ Besides memory concerns, AI processing demands a lot of power and additional com
 **Also: [How iOS 18 changes the way you charge your iPhone](https://www.zdnet.com/article/how-ios-18-changes-the-way-you-charge-your-iphone/)**
 
 For these reasons, I see the iPhone 16 (and potentially even the iPhone 17) as a transitional product in Apple's journey toward on-device AI. 
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134234/18498" target="_top" id="2134234">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134234" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134234/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How Apple Intelligence will likely evolve
 
@@ -115,6 +114,13 @@ Apple could achieve this by equipping MacOS, iOS, and iPadOS with Apple Intellig
 Enterprises may also employ a mobile device management solution to facilitate access to on-device LLMs with business Macs. Additionally, iPhones or Macs could be used as proxies for Apple Watch or HomePod requests for mobile users. We may also see a more powerful Apple TV with more onboard memory and processing to act as an Apple Intelligence "hub" for every Apple device in a household.
 
 Imagine your iPhone using the unused processing power of your Mac or iPad, all equipped with on-device LLMs, to tackle complex AI tasks. This would increase the accessibility of AI features across Apple's product range.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047366/19272" target="_top" id="2047366">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047366" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047366/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## I'm still optimistic
 
@@ -156,21 +162,16 @@ _This article was originally published on June 28, 2024, and updated on August 2
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-top-7-hydro-resistant-camcorders-explored/"><u>[New] 2024 Approved Top 7 Hydro-Resistant Camcorders Explored</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-essential-windows-tips-for-efficient-live-tv-saving/"><u>[New] Essential Windows Tips for Efficient Live TV Saving</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-a-comprehensive-handbook-for-recording-live-hulu-on-pcmacosandroid/"><u>[Updated] In 2024, A Comprehensive Handbook for Recording Live Hulu on PC/MacOS/Android</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/1725284202456-winxvideo-ai/"><u>使用 Winxvideo AI 强化您的视频 - 获得专业级影片质量指南</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/buy-the-ultimate-winx-dvd-ripper-and-burner-bundle-on-trustworthy-sites/"><u>Buy the Ultimate WinX DVD Ripper & Burner Bundle on Trustworthy Sites</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/effortless-guide-transferring-dvd-content-onto-your-pc-or-mac-with-ease/"><u>Effortless Guide: Transferring DVD Content Onto Your PC or Mac with Ease</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/how-and-where-to-find-a-shiny-stone-pokemon-for-oppo-a1-5g-drfone-by-drfone-virtual-android/"><u>How and Where to Find a Shiny Stone Pokémon For Oppo A1 5G? | Dr.fone</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/quick-guide-converting-dvds-to-divx-format-using-windows-or-mac-os/"><u>Quick Guide: Converting DVDs to DivX Format Using Windows or Mac OS</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/schnelle-losung-wie-sie-ihre-dvds-schnell-und-qualitatsbewusst-in-das-format-mp4-umwandeln-konnen/"><u>Schnelle Lösung: Wie Sie Ihre DVDs Schnell Und Qualitätsbewusst in Das Format MP4 Umwandeln Können</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/secure-your-copy-of-winx-dvdbluray-transcoder-and-editor-suite-from-reputable-retailers/"><u>Secure Your Copy of WinX DVD/Bluray Transcoder and Editor Suite From Reputable Retailers</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/step-by-step-tutorial-on-effortlessly-transforming-flv-videos-into-mov-format/"><u>Step-by-Step Tutorial on Effortlessly Transforming FLV Videos Into MOV Format</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/the-ultimate-guide-to-delete-social-media-streaming-for-2024/"><u>The Ultimate Guide to Delete Social Media Streaming for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/toms-tech-insights-comprehensive-computer-and-gadget-reviews/"><u>Tom's Tech Insights: Comprehensive Computer and Gadget Reviews</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/updating-your-audio-technica-driver-a-step-by-step-guide/"><u>Updating Your Audio-Technica Driver: A Step-by-Step Guide</u></a></li>
-<li><a href="https://techidaily.com/what-you-need-to-know-to-improve-your-nubia-z50-ultra-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>What You Need To Know To Improve Your Nubia Z50 Ultra Hard Reset | Dr.fone</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/winxvideo-ai-smart-video-upgrade-with-ai-powered-upscaling-stabilization-and-conversion-tools/"><u>WinxVideo AI: Smart Video Upgrade with AI-Powered Upscaling, Stabilization, and Conversion Tools</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-hidden-treasures-on-youtube-understanding-unlisted-footage/"><u>[New] 2024 Approved Hidden Treasures on YouTube Understanding 'Unlisted' Footage</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-high-quality-youtube-images-download-without-any-cost/"><u>[New] 2024 Approved High-Quality YouTube Images Download Without Any Cost</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-final-thoughts-in-journalistic-styling-for-2024/"><u>[New] Final Thoughts in Journalistic Styling for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-make-a-youtube-trailer/"><u>[New] In 2024, How To Make a YouTube Trailer</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-tailor-videos-to-instagrams-preferred-format/"><u>[New] In 2024, Tailor Videos to Instagram's Preferred Format</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-seamless-transition-into-the-world-of-zoom-meetings-for-your-android-device/"><u>[New] Seamless Transition Into the World of Zoom Meetings for Your Android Device</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-sound-surprises-10-androidios-audio-twisters/"><u>2024 Approved Sound Surprises 10 Android/iOS Audio Twisters</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-your-honor-magic-6-pro-location-on-life360-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Your Honor Magic 6 Pro Location on life360 Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/learn-how-to-utilize-telegrams-web-functionality-professionally/"><u>Learn How To Utilize Telegram's Web Functionality Professionally</u></a></li>
+<li><a href="https://facebook.techidaily.com/meta-cuts-ties-with-fbs-id-what-lies-ahead/"><u>Meta Cuts Ties With FB’s ID: What Lies Ahead?</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/skyrocketing-views-simple-strategies-without-cost-for-2024/"><u>Skyrocketing Views Simple Strategies Without Cost for 2024</u></a></li>
 </ul></div>
 

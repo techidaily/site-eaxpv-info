@@ -1,7 +1,7 @@
 ---
 title: "Navigating Tech Giants' Challenges: Google Faces Antitrust Repercussions While Samsung Expands Into AI – Rankings in Global Innovation Index"
-date: 2024-10-03T21:17:13.442Z
-updated: 2024-10-10T01:38:25.797Z
+date: 2024-10-11T05:52:25.378Z
+updated: 2024-10-16T01:30:28.316Z
 tags:
   - apple
 categories:
@@ -71,28 +71,31 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-immersive-film-experience-photography-plus-music-for-2024/"><u>[New] Immersive Film Experience Photography + Music for 2024</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-digital-diary-keepers-securely-download-tweets-videos/"><u>[Updated] Digital Diary Keepers Securely Download Tweets' Videos</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-in-2024-ultimate-ranking-of-top-internet-recording-tools-2023/"><u>[Updated] In 2024, Ultimate Ranking of Top Internet Recording Tools 2023</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/movaviwysiwyg-nefbmp/"><u>「Movaviを使った無料WYSIWYGフォトエディター - NEFからBMP変換ツール」</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/2024-mp4-7/"><u>【お手軽解説】2024年版 MP4 最適な圧縮技術トップ7スタイル</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/15-best-strongest-pokemon-to-use-in-pokemon-go-pvp-leagues-for-samsung-galaxy-a54-5g-drfone-by-drfone-virtual-android/"><u>15 Best Strongest Pokémon To Use in Pokémon GO PvP Leagues For Samsung Galaxy A54 5G | Dr.fone</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/download-free-windows-8-graphics-driver-for-amd-radeon-complete-guide/"><u>Download Free Windows 8 Graphics Driver for AMD Radeon: Complete Guide</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/free-online-conversion-transforming-aifc-files-into-mp3-format-with-movavi/"><u>Free Online Conversion: Transforming AIFC Files Into MP3 Format with Movavi</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/gratis-convertidor-online-movavis-facil-recursos-para-criar-arquivos-3gp3g2/"><u>Grátis Convertidor Online: Móvavi's Fácil Recursos Para Criar Arquivos 3GP/3G2</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-10-easy-to-use-frp-bypass-tools-for-unlocking-google-accounts-on-samsung-galaxy-xcover-7-by-drfone-android/"><u>In 2024, 10 Easy-to-Use FRP Bypass Tools for Unlocking Google Accounts On Samsung Galaxy XCover 7</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-the-ultimate-beginners-guide-to-mastering-final-cut-pro/"><u>In 2024, The Ultimate Beginner’s Guide to Mastering Final Cut Pro</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/movavi-transformer-ape-en-une-solution-de-sauvegarde-numerique-gratuite-et-facile/"><u>Movavi : Transformer APE en Une Solution De Sauvegarde Numérique Gratuite Et Facile !</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/movaviwebmp4m4r/"><u>Movaviの使いやすいWeb版MP4からM4Rへの無料変換ツール</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/updated-in-2024-youtube-live-selling-boost-your-sales-with-these-tips/"><u>Updated In 2024, YouTube Live Selling Boost Your Sales With These Tips</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/ways-to-trade-pokemon-go-from-far-away-on-oppo-find-x7-drfone-by-drfone-virtual-android/"><u>Ways to trade pokemon go from far away On Oppo Find X7? | Dr.fone</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/1726228038048-mkvswf/"><u>ストリーミングなしでMKVからSWFに容易に変換: 無料オンラインツールをご紹介!</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-much-money-do-youtubers-make-per-view/"><u>[New] 2024 Approved How Much Money Do YouTubers Make Per View</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-essential-tips-for-navigating-zoom-on-win11-systems/"><u>[New] Essential Tips for Navigating Zoom on Win11 Systems</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-harnessing-imovies-potential-for-youtube-broadcasting-for-2024/"><u>[New] Harnessing iMovie's Potential for YouTube Broadcasting for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-data-to-drama-utilizing-google-trends-in-video-planning/"><u>[New] In 2024, From Data to Drama Utilizing Google Trends in Video Planning</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-film-swapping-ideas-best-replacements-1-7/"><u>[Updated] 2024 Approved Film Swapping Ideas Best Replacements #1-7</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-first-offset-guide-affordable-channel-buys-to-monetize/"><u>[Updated] 2024 Approved First Offset Guide Affordable Channel Buys to Monetize</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-youtube-to-insta-a-video-posting-guide/"><u>[Updated] 2024 Approved From YouTube to Insta A Video Posting Guide</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-breezy-methodology-for-downloading-twitters-laughs-gifs-for-2024/"><u>[Updated] Breezy Methodology for Downloading Twitter's Laughs (GIFs) for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-first-timers-manual-for-cool-mac-crafted-youtube-clips-for-2024/"><u>[Updated] First-Timer's Manual for Cool, Mac-Crafted YouTube Clips for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-free-guide-recording-youtube-videos-on-screencasts/"><u>[Updated] In 2024, Free Guide Recording YouTube Videos on Screencasts</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-get-rid-of-youtube-distractions-ad-blocking-on-chrome-firefox-and-ios/"><u>[Updated] In 2024, Get Rid of YouTube Distractions Ad-Blocking on Chrome, Firefox & iOS</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/boosting-impact-in-instagram-tv-key-size-strategies-unveiled-for-2024/"><u>Boosting Impact in Instagram TV Key Size Strategies Unveiled for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/expert-tips-for-eliminating-crackling-noise-from-computer-speakers-on-windows-platforms/"><u>Expert Tips for Eliminating Crackling Noise From Computer Speakers on Windows Platforms</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-best-buys-in-the-realm-of-4k-video-tools/"><u>In 2024, Best Buys in the Realm of 4K Video Tools</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-life360-learn-how-everything-works-on-honor-magic-6-lite-drfone-by-drfone-virtual-android/"><u>In 2024, Life360 Learn How Everything Works On Honor Magic 6 Lite | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-the-persistent-windows-update-malfunction-cracking-down-on-error-0x800705b4-in-windows-10-systems/"><u>Resolving the Persistent Windows Update Malfunction: Cracking Down on Error 0X800705b4 in Windows 10 Systems</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/smooth-sailing-with-4k-uploads-key-tips-and-strategies-for-youtube-success/"><u>Smooth Sailing with 4K Uploads Key Tips and Strategies for YouTube Success</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ultimate-guide-resolving-e06-e43-and-related-pregnancy-test-codes/"><u>Ultimate Guide: Resolving E06, E43 & Related Pregnancy Test Codes</u></a></li>
+<li><a href="https://howto.techidaily.com/what-to-do-if-your-samsung-galaxy-m14-5g-auto-does-not-work-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do if Your Samsung Galaxy M14 5G Auto Does Not Work | Dr.fone</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111968/7443" target="_top" id="2111968">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111968" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948909/19272" target="_top" id="1948909">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948909" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111968/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948909/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 

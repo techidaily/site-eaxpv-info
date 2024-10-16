@@ -1,7 +1,7 @@
 ---
 title: "The Secret Behind Apple's Lack of Exclamation Points: An Insight Into Their Web Design Strategy"
-date: 2024-10-03T16:54:52.077Z
-updated: 2024-10-09T19:07:03.976Z
+date: 2024-10-09T00:13:21.398Z
+updated: 2024-10-16T07:44:16.010Z
 tags:
   - apple
 categories:
@@ -69,10 +69,16 @@ Yet no need for an exclamation point because, presumably, you already get the po
 But some tech companies still insist that their wares deserve some sort of exclamatory explanatory. It's a truly interesting phenomenon.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2141676/17091" target="_top" id="2141676">
-  <img src="//a.impactradius-go.com/display-ad/17091-2141676" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141676/17091" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1424527">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424527.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424527">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424527.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424527%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424527/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## The big startup exclamatory experiment
@@ -132,10 +138,10 @@ Screenshot by Chris Matyszczyk/ZDNET
 Oh!
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049363/7443" target="_top" id="2049363">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049363" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135407/19272" target="_top" id="2135407">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135407" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049363/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135407/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## The majority knows it's serious
@@ -157,10 +163,10 @@ I'm sure the management is excited about its product. I'm sure the product offer
 I'm equally sure that the lack of an exclamation point makes the products seem more, well, serious and important.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100534/7443" target="_top" id="2100534">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100534" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1975836/19272" target="_top" id="1975836">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975836" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100534/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975836/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Sell, don't shout
@@ -217,20 +223,24 @@ It worked for Apple. (I'm not sure the opposite worked quite so well for Yahoo!)
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-unleashing-potential-making-the-most-of-facebook-each-day/"><u>[Updated] In 2024, Unleashing Potential Making the Most of Facebook Each Day</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-obs-studio-vs-bandicam-which-takes-the-crown-for-2024/"><u>[Updated] OBS Studio Vs. Bandicam Which Takes the Crown for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-xbox-gamers-guide-4-proven-screen-recording-methods/"><u>[Updated] Xbox Gamers' Guide 4 Proven Screen Recording Methods</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/1725289900514-10-pc/"><u>10 位最佳 PC 影片編輯工具: 評比及精心挑選</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/2024-approved-engagement-enhancers-trending-stories-filters/"><u>2024 Approved Engagement Enhancers Trending Stories Filters</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/2024-approved-video-platform-review-is-vimeo-best-over-youtubes-and-dailymotions/"><u>2024 Approved Video Platform Review Is Vimeo Best Over YouTubes and DailyMotions?</u></a></li>
-<li><a href="https://blog-min.techidaily.com/5-ways-to-move-contacts-from-realme-gt-3-to-iphone-131415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways to Move Contacts From Realme GT 3 to iPhone (13/14/15) | Dr.fone</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/comparing-dvd-blu-ray-and-digital-media-formats-best-investment/"><u>Comparing DVD, Blu-Ray & Digital Media Formats - Best Investment?</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/design-principles-for-captivating-fb-advertising-for-2024/"><u>Design Principles for Captivating FB Advertising for 2024</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ce-video-pace-youtube-via-desktops-and-phones/"><u>Enhance Video Pace - YouTube via Desktops & Phones</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/expert-online-helpdesk-services-for-winx-dvd-ripping-and-video-conversion-tool/"><u>Expert Online Helpdesk Services for WinX DVD Ripping & Video Conversion Tool</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/free-winx-dvd-ripper-effortless-conversion-from-dvd-to-mp4avi-for-ios-and-android-devices/"><u>Free WinX DVD Ripper: Effortless Conversion From DVD to MP4/AVI for iOS & Android Devices</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/geschwindigkeitstechniken-fur-hevch265-kodierung-warum-scheint-es-langsamer-zu-sein-und-wie-beschleunigen-sie-den-vorgang/"><u>Geschwindigkeitstechniken Für HEVC/H.265-Kodierung: Warum Scheint Es Langsamer Zu Sein Und Wie Beschleunigen Sie Den Vorgang?</u></a></li>
-<li><a href="https://windows11.techidaily.com/supercharge-your-development-with-enhanced-android-studio-performance/"><u>Supercharge Your Development with Enhanced Android Studio Performance</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/the-magic-behind-4k-upscaling-elevating-video-quality-explained/"><u>The Magic Behind 4K Upscaling: Elevating Video Quality Explained</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-much-does-youtube-pay-for-1-million-views/"><u>[New] 2024 Approved How Much Does YouTube Pay for 1 Million Views?</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-guiding-you-through-youtubes-view-limitations-for-2024/"><u>[New] Guiding You Through YouTube's View Limitations for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-how-to-add-a-youtube-video-to-google-slides-for-2024/"><u>[New] How to Add a YouTube Video to Google Slides for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-flipping-the-script-turning-online-games-into-channel-gold/"><u>[New] In 2024, Flipping the Script Turning Online Games Into Channel Gold</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-visual-purity-how-to-exclude-backgrounds-in-recordings/"><u>[New] Visual Purity How to Exclude Backgrounds in Recordings</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-scripted-to-spontaneous-elevating-reactions-for-youtube-success-3-steps/"><u>[Updated] 2024 Approved From Scripted to Spontaneous Elevating Reactions for YouTube Success (3 Steps)</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-add-chapters-to-youtube-videos/"><u>[Updated] 2024 Approved How to Add Chapters to YouTube Videos</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-from-mac-studio-to-youtube-stream-imovie-video-upload-guide-for-2024/"><u>[Updated] From Mac Studio to YouTube Stream IMovie Video Upload Guide for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-free-sustainable-scenes-for-filmmakers/"><u>[Updated] In 2024, Free Sustainable Scenes for Filmmakers</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-generating-auto-subscribe-urls-for-youtube-channels/"><u>[Updated] In 2024, Generating Auto Subscribe URLs for YouTube Channels</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-trendsetting-visualizations-for-the-year-ahead/"><u>[Updated] Trendsetting Visualizations for the Year Ahead</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-exclusive-list-top-sandbox-experiences/"><u>2024 Approved Exclusive List Top Sandbox Experiences</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-unlock-the-secrets-to-social-media-success-with-igtv-hashtag-techniques/"><u>2024 Approved Unlock the Secrets to Social Media Success with IGTV Hashtag Techniques</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/traction-with-effective-video-descriptions-and-tagging/"><u>Gain Traction with Effective Video Descriptions and Tagging</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/guide-resolving-the-no-internet-access-problem-on-microsoft-surface-pro-devices/"><u>Guide: Resolving the 'No Internet Access' Problem on Microsoft Surface Pro Devices</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-disabling-apple-iphone-14-parental-restrictions-withwithout-password-drfone-by-drfone-ios/"><u>In 2024, Disabling Apple iPhone 14 Parental Restrictions With/Without Password | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fake-gps-on-honor-x50iplus-for-mobile-legends-drfone-by-drfone-virtual-android/"><u>In 2024, How To Fake GPS On Honor X50i+ For Mobile Legends? | Dr.fone</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/in-2024-tickle-treasure-trove-uncovering-best-apps-for-memes/"><u>In 2024, Tickle Treasure Trove Uncovering Best Apps for Memes</u></a></li>
+<li><a href="https://blog-min.techidaily.com/mp4gif/"><u>シームレスなMP4とGIF間の変換：モバビのトップテクニックを解説する</u></a></li>
 </ul></div>
 

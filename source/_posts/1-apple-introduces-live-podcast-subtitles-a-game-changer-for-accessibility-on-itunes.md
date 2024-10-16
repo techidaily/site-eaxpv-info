@@ -1,7 +1,7 @@
 ---
 title: "1. Apple Introduces Live Podcast Subtitles: A Game-Changer for Accessibility on iTunes"
-date: 2024-09-29T16:53:32.720Z
-updated: 2024-10-04T17:19:19.344Z
+date: 2024-10-10T02:11:32.646Z
+updated: 2024-10-16T05:46:39.252Z
 tags:
   - apple
 categories:
@@ -45,10 +45,16 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997717/19272" target="_top" id="1997717">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997717" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997717/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1743243">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1743243.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19272-1743243">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1743243.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Faligracehair.sjv.io%2Fc%2F5597632%2F1743243%2F19272'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1743243/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Apple Music haptics
@@ -56,10 +62,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 For those who are deaf or hard of hearing, Apple plans to offer a Taptic Engine feature in Apple Music. When turned on, the feature will use a series of taps, vibrations, and other tactile responses to sync to a song's audio. Apple says the feature will work "across millions of songs in the Apple Music catalog."
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/798165/11305" target="_top" id="798165">
-  <img src="//a.impactradius-go.com/display-ad/11305-798165" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151856/7443" target="_top" id="2151856">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151856" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798165/11305" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151856/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Addressing motion sickness
@@ -71,10 +77,10 @@ Motion sickness in cars can often be the result of a disconnect between what you
 "Using sensors built into iPhone and iPad, Vehicle Motion Cues recognizes when a user is in a moving vehicle and responds accordingly," Apple said. "The feature can be set to show automatically on iPhone, or can be turned on and off in Control Center."
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918684/19272" target="_top" id="1918684">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918684" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100541/7443" target="_top" id="2100541">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100541" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918684/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100541/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Understanding speech
@@ -83,18 +89,24 @@ A new feature called Voice Shortcuts will let you "assign custom utterances" tha
 
 Another feature, Listen for Atypical Speech, will use machine learning to understand your speech patterns and your requests on-device, Apple said. The feature "gives users an option for enhancing speech recognition for a wider range of speech," the company said.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123508/26400" target="_top" id="2123508">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123508" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123508/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### New CarPlay features
 
 Apple's in-car CarPlay software is also getting new accessibility features, including the ability for you to navigate CarPlay and engage with apps using only your voice. A new Sound Recognition feature will display alerts on CarPlay's screen when car horns or sirens go off, and Color Filters will make CarPlay easier to use for colorblind users.
 
 **Also: [iOS and Android owners will now be alerted if an unknown tracker is moving with them](https://www.zdnet.com/article/ios-and-android-owners-will-now-be-alerted-if-an-unknown-tracker-is-moving-with-them/)**
+
+<!-- affiliate ads begin -->
+<span id="1993650">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Some other updates
 
@@ -130,22 +142,19 @@ Beyond those updates, Apple said that it's launching a range of smaller upgrades
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-first-steps-in-the-digital-dollar-youtube-earning-hacks/"><u>[New] 2024 Approved First Steps in the Digital Dollar - YouTube Earning Hacks</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-first-time-streamers-unite-learn-obs-and-broadcast-to-youtube-for-2024/"><u>[New] First-Time Streamers Unite Learn OBS & Broadcast to Youtube for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-free-online-video-editors-for-youtube/"><u>[New] In 2024, Free Online Video Editors for YouTube</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-completely-erase-youtube-shorts-footprint/"><u>[New] In 2024, How To Completely Erase YouTube Shorts Footprint</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/n-2024-the-video-producers-route-to-royalty-free-soundtracks/"><u>[New] In 2024, The Video Producer’s Route to Royalty-Free Soundtracks</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-capture-to-share-proven-methods-for-live-360-video-on-youtube/"><u>[Updated] 2024 Approved From Capture to Share Proven Methods for Live 360° Video on Youtube</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-zero-to-youtube-pros-creating-an-account-rightly/"><u>[Updated] 2024 Approved From Zero to YouTube Pros Creating an Account Rightly</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-fbx-recorder-essentials-for-players-for-2024/"><u>[Updated] FBX Recorder Essentials For Players for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-make-a-youtube-intro-with-best-youtube-intro-makers-for-2024/"><u>[Updated] How to Make a YouTube Intro With Best YouTube Intro Makers for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-free-image-savers-optimizing-video-graphics/"><u>[Updated] In 2024, FREE Image Savers Optimizing Video Graphics</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-the-ultimate-checklist-for-top-notch-fb-cover-videos/"><u>[Updated] In 2024, The Ultimate Checklist for Top-Notch FB Cover Videos</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-transform-your-devices-tone-swiftly-with-these-leading-chrome-apps/"><u>[Updated] Transform Your Device's Tone Swiftly With These Leading Chrome Apps</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/benzalkonium-chloride-commonly-found-in-hand-sanitizers-its-a-quaternary-ammonium-compound-effective-against-bacteria-and-some-viruses-however-its-effective32/"><u>Benzalkonium Chloride - Commonly Found in Hand Sanitizers, It's a Quaternary Ammonium Compound Effective Against Bacteria and some Viruses. However, Its Effectiveness Can Be Reduced by Organic Matter Like Blood or Dirt.</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/determining-the-optimal-timeframe-for-upgrading-your-workplace-computer-systems/"><u>Determining the Optimal Timeframe for Upgrading Your Workplace Computer Systems</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-oppo-find-x6-phone-without-pin-by-drfone-android/"><u>How to Unlock Oppo Find X6 Phone without PIN</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/in-2024-twitters-top-jokesters/"><u>In 2024, Twitter's Top Jokesters</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/where-to-catch-live-sports-action-for-zero-cost-top-picks/"><u>Where to Catch Live Sports Action for Zero Cost: Top Picks</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-2024-approved-avoiding-virtual-reality-nausea-tips-and-tricks/"><u>[New] 2024 Approved Avoiding Virtual Reality Nausea Tips and Tricks</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-increase-video-engagement-with-customizable-youtube-thumbnails/"><u>[New] In 2024, How to Increase Video Engagement with Customizable YouTube Thumbnails</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-free-method-to-record-your-youtube-watching-experience/"><u>[Updated] 2024 Approved Free Method to Record Your YouTube Watching Experience</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-highlighting-youtubes-creme-de-la-creme-makeup-influencers/"><u>[Updated] 2024 Approved Highlighting YouTube's Crème De La Crème Makeup Influencers</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-avoid-youtube-previews-on-all-platforms-and-devices-for-2024/"><u>[Updated] Avoid YouTube Previews on All Platforms & Devices for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-flipping-the-script-mobile-filmmaking-and-youtube-thumbnail-tricks/"><u>[Updated] In 2024, Flipping the Script Mobile Filmmaking & YouTube Thumbnail Tricks</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-gain-momentum-with-these-strategies-for-trending-youtubers/"><u>[Updated] In 2024, Gain Momentum with These Strategies for Trending YouTubers</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-interactive-insights-archive/"><u>[Updated] In 2024, Interactive Insights Archive</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-step-by-step-guide-to-find-youtube-hidden-videos/"><u>[Updated] In 2024, Step-By-Step Guide to Find YouTube Hidden Videos</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/deepcool-unveils-latest-lineup-of-innovative-coolers-power-units-and-fans-enhance-your-builds-with-stylish-pixel-silicone-accents/"><u>DeepCool Unveils Latest Lineup of Innovative Coolers, Power Units & Fans - Enhance Your Builds with Stylish Pixel Silicone Accents</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-change-realme-11-proplus-lock-screen-password-by-drfone-android/"><u>How To Change Realme 11 Pro+ Lock Screen Password?</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/how-to-use-dslr-for-facebook-live-on-you-pc-or-mac-in-2024/"><u>How to Use DSLR for Facebook Live on You PC or Mac, In 2024</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-what-legendaries-are-in-pokemon-platinum-on-apple-iphone-11-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, What Legendaries Are In Pokemon Platinum On Apple iPhone 11 Pro Max? | Dr.fone</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/to-windows-11-or-not-assessing-your-systems-compatibility/"><u>To Windows 11 or Not: Assessing Your System's Compatibility</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "ZDNet Review: IPhone 14 Strikes a Perfect Balance - Just What We Needed"
-date: 2024-10-03T19:12:42.466Z
-updated: 2024-10-09T21:41:17.417Z
+date: 2024-10-15T06:42:26.585Z
+updated: 2024-10-16T07:34:10.647Z
 tags:
   - apple
 categories:
@@ -60,6 +60,19 @@ How and why did I come to those conclusions? Let's dig in.
 
 ---
 
+<!-- affiliate ads begin -->
+<span id="1834903">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Familiar design, with one exception
 
 Aside from the color options, the iPhone 14 is nearly identical to the iPhone 13 in design. There's really only one noticeable change to my eye, and that's the lack of a SIM card tray on the iPhone 14\. Apple has made the decision to go all-in on [eSIM, the digital version](https://www.zdnet.com/article/esim-vs-sim-whats-the-difference/) of the small plastic card we've all moved between phones. 
@@ -79,10 +92,10 @@ The side of the iPhone no longer has a SIM card slot.
 Jason Cipriani/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115951/19272" target="_top" id="2115951">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115951" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1657400/16446" target="_top" id="1657400">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657400" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115951/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657400/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Performance and battery life
@@ -90,10 +103,10 @@ Jason Cipriani/ZDNET
 If you visit [Apple's comparison tool](https://www.apple.com/iphone/compare/?modelList=iphone13,iphone14,iphone14plus), pitting the [iPhone 13 against the iPhone 14](https://www.zdnet.com/article/iphone-13-vs-iphone-14/), you'll notice that the phones use the same A15 Bionic processor. This is the first time Apple has used the previous-generation processor in a new iPhone model, with the iPhone maker relying on the already solid performance the A15 Bionic brought to the iPhone 13\. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068439/7443" target="_top" id="2068439">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068439" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1886019/19272" target="_top" id="1886019">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886019" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068439/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886019/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -115,13 +128,6 @@ Battery life is supposed to be ever-so-slightly better, with the iPhone 14 gaini
 I'm intrigued to see what battery life is like on the [iPhone 14 Plus](https://www.zdnet.com/article/new-iphone-14-models-compared-which-one-should-you-buy/), the 6.7-inch version of the iPhone 14\. Battery life is usually better on the larger-screened iPhone models, and if that's also the case this year, then the Plus may end up being very popular. 
 
 Jason Cipriani/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049382/7443" target="_top" id="2049382">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049382" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049382/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Camera upgrades
 
@@ -152,10 +158,10 @@ The new emergency communication feature comes alongside a dedicated [crash detec
 **Also:** [**The iPhone 14 Pro packs a lot more innovation for the same price as last year**](https://www.zdnet.com/article/iphone-14-pro-packs-a-lot-more-innovation-for-the-same-price-as-last-year/)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135370/19272" target="_top" id="2135370">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135370" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148640/16836" target="_top" id="2148640">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148640" border="0" alt="https://techidaily.com" width="234" height="60"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135370/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148640/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Bottom line
@@ -194,24 +200,19 @@ As I said at the top, the iPhone 14 is a great phone, and for someone who is com
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-enhancing-engagement-on-video-calls-using-snap-features-for-2024/"><u>[New] Enhancing Engagement on Video Calls Using Snap Features for 2024</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-decoding-instagrams-max-video-length-rule/"><u>[Updated] 2024 Approved Decoding Instagram's Max Video Length Rule</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-peeking-beyond-one-camera-limitations/"><u>[Updated] 2024 Approved Peeking Beyond One-Camera Limitations</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-the-ultimate-toolkit-for-editors-magix-video-pro-x-review/"><u>2024 Approved The Ultimate Toolkit for Editors Magix Video Pro X Review</u></a></li>
-<li><a href="https://location-social.techidaily.com/4-feasible-ways-to-fake-location-on-facebook-for-your-oneplus-ace-2v-drfone-by-drfone-virtual-android/"><u>4 Feasible Ways to Fake Location on Facebook For your OnePlus Ace 2V | Dr.fone</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/descarga-directa-nuevo-codificador-av1-para-hardware-y-software-disponible-ahora/"><u>Descarga Directa - Nuevo Codificador AV1 Para Hardware Y Software Disponible Ahora</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/die-13-besten-kostenlosen-dvd-betrachter-fur-windows-10-und-windows-11-lose-liste/"><u>Die 13 Besten Kostenlosen DVD-Betrachter Für Windows 10 Und Windows 11 - Lose Liste</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/duel-of-video-converters-winx-dvd-ripper-versus-handbrake-uncovering-the-best-free-review-and-comparative-analysis/"><u>Duel of Video Converters - WinX DVD Ripper versus Handbrake Uncovering the Best Free Review and Comparative Analysis</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/dvd-vs-blu-ray-vs-numerisation-le-choix-economique-pour-les-amateurs-de-films/"><u>DVD vs Blu-Ray vs Numérisation - Le Choix Économique Pour Les Amateurs De Films</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/1725290587758-dvd/"><u>DVD再生失敗解消：レンタル、自家制作におけるトラブルシューティングと対処法</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/easy-techniques-for-transforming-webm-files-into-compatible-avi-video-files/"><u>Easy Techniques for Transforming WebM Files Into Compatible AVI Video Files</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/gpu-powered-video-and-audio-speeding-up-with-winxvideo-ai-convert-any-media-format-quickly/"><u>GPU-Powered Video and Audio Speeding Up with WinxVideo AI: Convert Any Media Format Quickly!</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-learn-how-to-lock-stolen-your-apple-iphone-13-properly-by-drfone-ios/"><u>In 2024, Learn How To Lock Stolen Your Apple iPhone 13 Properly</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/in-depth-guide-for-downloading-and-setting-up-llama-2/"><u>In-Depth Guide for Downloading & Setting up Llama 2</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/microsofts-downtime-and-the-urgent-need-for-governments-to-move-away-from-dominant-technology-giants/"><u>Microsoft's Downtime and the Urgent Need for Governments to Move Away From Dominant Technology Giants</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/nft-avatars-coming-to-reddit-accounts-a-new-way-to-personalize-your-presence/"><u>NFT Avatars Coming to Reddit Accounts - A New Way to Personalize Your Presence</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/safe-and-easy-access-to-dvdvideo-freebies-experience-the-power-of-winxdvd-downloads/"><u>Safe and Easy Access to DVD/Video Freebies - Experience the Power of WinXDVD Downloads</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/services-techno-supports-online-pour-le-logiciel-winx-dvd-ripper-et-outils-de-transformation-video/"><u>Services Techno-Supports Online Pour Le Logiciel WinX DVD Ripper Et Outils De Transformation Vidéo</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/step-by-step-tutorial-on-creating-pristine-high-quality-lossless-dvd-rips-for-enhanced-viewing-experience/"><u>Step-by-Step Tutorial on Creating Pristine, High-Quality Lossless DVD Rips for Enhanced Viewing Experience</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-in-2024-beyond-reality-the-future-of-virtual-experiences/"><u>[New] In 2024, Beyond Reality The Future of Virtual Experiences</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-vimeo-shorts-to-professional-mp4-a-comprehensive-tutorial/"><u>[New] In 2024, From Vimeo Shorts to Professional MP4 A Comprehensive Tutorial</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-spin-tiktok-magic-into-viral-instagram-reel-success/"><u>[New] Spin TikTok Magic Into Viral Instagram Reel Success</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-television-and-social-media-4-ways-to-broadcast-fb-live/"><u>[New] Television & Social Media 4 Ways To Broadcast FB Live</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-harness-youtube-opportunities-via-strategic-creator-studio-application/"><u>[Updated] 2024 Approved Harness YouTube Opportunities via Strategic Creator Studio Application</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-youtube-seo-guide-for-beginners-who-want-more-views/"><u>[Updated] 2024 Approved YouTube SEO Guide for Beginners Who Want More Views</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-freeing-up-youtube-views-no-more-grey-lines/"><u>[Updated] In 2024, Freeing Up YouTube Views No More Grey Lines</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-interpreting-the-functionality-behind-facebooks-blue-video-icon/"><u>[Updated] In 2024, Interpreting the Functionality Behind Facebook's Blue Video Icon</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-speech-recorder-evaluation-guide/"><u>[Updated] Speech Recorder Evaluation Guide</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-turboupload-the-ultimate-guide-to-fast-youtube-video-rendering/"><u>[Updated] TurboUpload The Ultimate Guide to Fast YouTube Video Rendering</u></a></li>
+<li><a href="https://android-location.techidaily.com/how-to-fake-gps-on-android-without-mock-location-for-your-motorola-moto-g84-5g-drfone-by-drfone-virtual/"><u>How to Fake GPS on Android without Mock Location For your Motorola Moto G84 5G | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-best-honor-x7b-pattern-lock-removal-tools-remove-android-pattern-lock-without-losing-data-by-drfone-android/"><u>In 2024, Best Honor X7b Pattern Lock Removal Tools Remove Android Pattern Lock Without Losing Data</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-methods-to-change-gps-location-on-lava-agni-2-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Methods to Change GPS Location On Lava Agni 2 5G | Dr.fone</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/solucion-formato-de-error-en-mi-unidad-de-almacenamiento-externo-seagate/"><u>Solucion: Formato De Error en Mi Unidad De Almacenamiento Externo Seagate</u></a></li>
 </ul></div>
 

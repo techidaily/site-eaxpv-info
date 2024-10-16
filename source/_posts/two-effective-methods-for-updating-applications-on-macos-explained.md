@@ -1,7 +1,7 @@
 ---
 title: Two Effective Methods for Updating Applications on macOS Explained
-date: 2024-10-09T00:28:30.414Z
-updated: 2024-10-09T23:23:45.154Z
+date: 2024-10-08T23:09:27.724Z
+updated: 2024-10-16T03:02:03.793Z
 tags:
   - apple
 categories:
@@ -35,10 +35,16 @@ Let me show you both approaches.
 **What you'll need:** The only things you'll need are an Apple device (a MacBook or iMac) and a valid user account on the machine. That's it. Let's get to the updates.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151882/7443" target="_top" id="2151882">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151882" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151882/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1374820">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1374820.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1374820">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374820.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374820%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374820/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 1\. Open the App Store
@@ -70,26 +76,26 @@ Screenshot by Jack Wallen/ZDNET
 Once the update is completed, close the App Store and you're done.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948881/19272" target="_top" id="1948881">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948881" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2148775/18498" target="_top" id="2148775">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148775" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948881/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148775/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to update MacOS apps from the command line
 
 This is a bit more complicated, for two reasons: first, you have to find out what apps are available for updating, and, second -- as with Linux -- the app names are case-sensitive.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134224/18498" target="_top" id="2134224">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134224" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134224/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 1\. Open the Terminal app
 
 To run commands, you must first open the terminal app, which can be done from the Launchpad. Click the Launchpad icon in your Dock and then type _terminal_. Click the launcher to open the Terminal app.
+
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826">
+  <img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 2\. Check for available updates
 
@@ -104,10 +110,10 @@ You will be prompted for your sudo password (which is your MacOS user password).
 The -l option stands for _list_. This will print out any available app updates and, if required, it will inform you if a restart is needed to complete any recent OS updates. If you see such a warning, make sure to do the reboot to complete the process.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886019/19272" target="_top" id="1886019">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886019" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2036486/19272" target="_top" id="2036486">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036486" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886019/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036486/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Update the apps
@@ -152,18 +158,20 @@ This is about as simple a method as you'll find to help keep your MacOS machines
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-3-steps-for-perfect-instagram-video-margins/"><u>[New] 2024 Approved 3 Steps for Perfect Instagram Video Margins</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-dodge-fb-disconnection-10-hidden-gems-to-keep-you-safe-for-2024/"><u>[New] Dodge Fb Disconnection 10 Hidden Gems to Keep You Safe for 2024</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ecure-extraction-of-audio-from-youtube-at-zero-cost/"><u>[New] Secure Extraction of Audio From YouTube at Zero Cost</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-honorable-warriors-reimagined-best-matching-gaming-titles-for-2024/"><u>[Updated] Honorable Warriors, Reimagined Best Matching Gaming Titles for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/1-unlocking-the-secrets-todays-new-york-times-insights-and-answers-may-23rd-edition-nytimes-347/"><u>1. Unlocking the Secrets: Today's New York Times Insights & Answers, May 23Rd Edition (NYTimes #347)</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/2-digital-renewal-alert-5-critical-cues-you-need-a-new-email-address-now/"><u>2. Digital Renewal Alert: 5 Critical Cues You Need a New Email Address Now</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-rapid-fortnite-tile-making-hacks/"><u>2024 Approved Rapid Fortnite Tile-Making Hacks</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/boost-your-facebook-usage-with-these-8-uncommon-yet-powerful-functions/"><u>Boost Your Facebook Usage with These 8 Uncommon Yet Powerful Functions!</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/crack-the-puzzle-with-nyts-july-9th-connection-challenges-hint-session-394/"><u>Crack the Puzzle with NYT's July 9Th Connection Challenges (Hint Session #394)</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/discovering-the-advantages-of-multi-angle-recording-for-2024/"><u>Discovering the Advantages of Multi-Angle Recording for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/secret-sound-scribes-hidden-audio-logging-for-mobile-devices/"><u>Secret Sound Scribes Hidden Audio Logging for Mobile Devices</u></a></li>
-<li><a href="https://fox-links.techidaily.com/the-solitary-path-to-podcast-popularity/"><u>The Solitary Path to Podcast Popularity</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/value-for-money-an-in-depth-look-at-the-open-ear-wireless-earbuds-from-baseus-eli-sport-1-with-key-trade-offs-explored/"><u>Value for Money? An In-Depth Look at the Open-Ear Wireless Earbuds From Baseus Eli Sport 1 with Key Trade-Offs Explored</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-go-viral-on-youtube-with-minimal-effort/"><u>[New] 2024 Approved How to Go Viral on YouTube with Minimal Effort</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-ahead-of-the-curve-best-hydro-games-compiled-for-2024/"><u>[New] Ahead of the Curve Best Hydro Games Compiled for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-gauging-glory-an-essential-handbook-for-evaluating-youtube-engagement-and-earnings-for-2024/"><u>[New] Gauging Glory An Essential Handbook for Evaluating YouTube Engagement & Earnings for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-how-to-convert-youtube-to-mp3-without-compromising-security-3-tips-for-2024/"><u>[New] How to Convert YouTube to MP3 Without Compromising Security - 3 Tips for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-how-to-search-comments-on-youtube-quickly-for-2024/"><u>[New] How to Search Comments on YouTube Quickly for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-haute-couture-at-home-makeup-tools-and-techniques/"><u>[New] In 2024, Haute Couture at Home Makeup, Tools & Techniques</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-mastering-google-meet-easy-backdrop-swap-for-pc-and-phones-for-2024/"><u>[New] Mastering Google Meet Easy Backdrop Swap for PC & Phones for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-graphicgrind-studio-for-2024/"><u>[Updated] GraphicGrind Studio for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-harness-youtubes-creative-commons-in-video-making-for-2024/"><u>[Updated] How to Harness YouTube's Creative Commons in Video Making for 2024</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-to-bypass-realme-c67-5g-frp-in-3-different-ways-by-drfone-android/"><u>How To Bypass Realme C67 5G FRP In 3 Different Ways</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-poco-c51-by-phone-number-drfone-by-drfone-virtual-android/"><u>How to Track Poco C51 by Phone Number | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-change-country-on-app-store-for-apple-iphone-14-pro-max-with-7-methods-by-drfone-ios/"><u>In 2024, How To Change Country on App Store for Apple iPhone 14 Pro Max With 7 Methods</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-minecraft-banner-templates-get-them-here/"><u>In 2024, Minecraft Banner Templates Get Them Here</u></a></li>
+<li><a href="https://media-tips.techidaily.com/mp3-purchases-triumph-over-streaming-a-personal-perspective/"><u>MP3 Purchases Triumph Over Streaming: A Personal Perspective</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-ultimate-list-of-2024s-top-nintendo-switch-docks/"><u>The Ultimate List of 2024'S Top Nintendo Switch Docks</u></a></li>
 </ul></div>
 

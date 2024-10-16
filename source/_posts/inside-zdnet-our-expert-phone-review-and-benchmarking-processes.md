@@ -1,7 +1,7 @@
 ---
 title: "Inside ZDNet: Our Expert Phone Review and Benchmarking Processes"
-date: 2024-10-06T22:53:12.533Z
-updated: 2024-10-09T16:08:11.784Z
+date: 2024-10-14T20:46:28.230Z
+updated: 2024-10-15T17:44:48.574Z
 tags:
   - apple
 categories:
@@ -47,13 +47,6 @@ Cons
 
 ## iPhone 15 Pro Max
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094422/7443" target="_top" id="2094422">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094422" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094422/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Best iPhone overall
 
 The best iPhone overall is the iPhone 15 Pro Max. While it launched in September of last year, the 6.7-inch model is still the largest iPhone Apple currently offers. It has the latest features, including support for future [Apple Intelligence](https://www.zdnet.com/article/what-is-apple-intelligence-everything-to-know-about-ai-features-coming-to-iphones-macs-and-ipads/) tools in iOS 18\. 
@@ -83,13 +76,6 @@ Pros
 Cons 
 * Pricer than most flagship smartphones
 * No battery life improvement over prior model
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006933/19272" target="_top" id="2006933">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006933" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006933/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Apple iPhone 15
 
@@ -124,7 +110,27 @@ Cons
 * Shorter software update schedule
 * Need to buy refurbished
 
+<!-- affiliate ads begin -->
+<span id="1975658">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975658.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975658">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975658.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975658%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975658/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Apple iPhone 13 Mini
+
+<!-- affiliate ads begin -->
+<a href="https://bluettieu.pxf.io/c/5597632/2141680/17091" target="_top" id="2141680">
+  <img src="//a.impactradius-go.com/display-ad/17091-2141680" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141680/17091" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Best small iPhone
 
@@ -155,6 +161,13 @@ Cons
 * Outdated design
 * Display may come off as cramped for some
 * Not the most flexible camera system
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118315/7443" target="_top" id="2118315">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118315" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118315/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Apple iPhone SE (2022)
 
@@ -188,20 +201,13 @@ Cons
 * U.S. customers are locked to eSIM
 
 <!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958378/18409" target="_top" id="1958378">
-  <img src="//a.impactradius-go.com/display-ad/18409-1958378" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2111968/7443" target="_top" id="2111968">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111968" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1958378/18409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111968/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Apple iPhone 14
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137210/26400" target="_top" id="2137210">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137210" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137210/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Best old-generation iPhone
 
@@ -218,6 +224,13 @@ The iPhone 14's dual camera system at the rear has been carried over from the iP
 **iPhone 14 specs: Processor:** Apple A15 | **Display size:** 6.1 inches with 60Hz refresh rate | **Storage options:** 128GB, 256GB, 512GB | **Rear cameras:** Dual 12MP (Wide, ultra-wide) | **Front camera:** 12MP | **Colors:** Blue, Purple, Midnight, Starlight, Red | **Weight:** 172g | **Starting price:** $699 
 
 Show Expert Take Show less 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915865/19272" target="_top" id="1915865">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915865" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915865/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## What is the best iPhone?
 
@@ -280,6 +293,13 @@ For a more extensive breakdown, check out our comprehensive [phone testing metho
 
 ## iPhone FAQs
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915825/19272" target="_top" id="1915825">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915825" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915825/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### How do I take care of my new iPhone?
 
 There are several ways you can keep your iPhone clean and pristine. 
@@ -297,6 +317,13 @@ Like iOS 17, iPhone models as old as the XR will be eligible to receive the [iOS
 ### What is the new iPhone?
 
 The latest iPhone is the [iPhone 16](https://www.zdnet.com/article/when-is-the-iphone-16-coming-out-what-to-know-and-where-to-preorder/), announced on Monday, September 9, during [Apple's "It's Glowtime" event](https://www.zdnet.com/article/everything-we-expect-at-apples-iphone-16-event-ai-features-airpods-apple-watch-series-10-more/). There are four iPhone 16 models: iPhone 16, iPhone 16 Plus, iPhone 16 Pro, and iPhone 16 Pro Max. All will come with iOS 18 and Apple Intelligence built in.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137225/26400" target="_top" id="2137225">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137225" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137225/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Which iPhone is better, 14 or 15?
 
@@ -331,34 +358,13 @@ It wasn't until 2021 that Apple began selling both its non-Pro and Pro iPhones w
 
 Maurice Klaehne, senior market research analyst at Counterpoint Research, suggests that higher storage options are generally better as they will help with the longevity of the device, and his firm has generally seen an uptick in postpaid customers opting for higher storage sizes when they can afford them. "Currently, the 256GB option is sufficient for most people," Klaehne adds.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902273/19272" target="_top" id="1902273">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902273" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902273/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Should I trade in my old iPhone?
 
 Trading in an old iPhone is one of the easiest (and safest) ways to replace an otherwise unwanted device with a new, more capable one. Most retailers, including Apple, accept trade-ins of older iPhone models, with store credit ranging from as low as $50 to $800; it all depends on which generation your iPhone is, the condition, and whether it turns on or not.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043593/7443" target="_top" id="2043593">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043593" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043593/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Do I really need an iPhone case?
 
 While an iPhone case is not a necessity -- your iPhone will still function normally without it -- having one on greatly reduces the chances of wear and tear. For example, the [best cases](https://www.zdnet.com/article/best-iphone-15-case/) are military-grade certified, meaning they'll keep your iPhone protected from waist-high drops. Not only do cases reduce the chances of your phone getting cracked or scratched, but the plastic/rubberized material often provides more grip than if you hold your iPhone naked.
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014849/22899" target="_top" id="2014849">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014849" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014849/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Which iPhone should I buy for a parent?
 
@@ -375,13 +381,6 @@ Embedded Subscriber Identity Module, or eSIM in short, is the electronic version
 There is one problem that ZDNET editor-in-chief [Jason Hiner](https://www.zdnet.com/meet-the-team/jason-hiner/) sees with Apple forcing eSIM adoption on US consumers. "There are a variety of good reasons why some people will still need or prefer a phone with a physical SIM card. The top reason is privacy. This is especially true for some journalists and populations at risk of persecution around the world. Removing the physical SIM card option reduces privacy for millions of people, especially some of the most vulnerable," said Hiner. 
 
 Note that if you buy an iPhone 14 or 15 anywhere outside of the US, the device will come with a regular SIM card slot. 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975836/19272" target="_top" id="1975836">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975836" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975836/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Which iPhone models support 5G?
 
@@ -410,6 +409,13 @@ While this number varies greatly depending on how you handle a smartphone -- per
 Then, you'll likely experience more frequent app crashes, lag, storage problems, and more. Those are common issues that any piece of technology will inhibit, not just the iPhone, after years of constant usage. 
 
 If you'd like to prolong that time, I'd recommend visiting your local Apple store to have the phone's battery replaced every three to four years and also consider backing up files to an [external hard drive](https://www.zdnet.com/article/best-external-hard-drive/) for safekeeping. As a last resort, [a factory reset](https://www.zdnet.com/article/how-to-factory-reset-your-iphone/), followed by data restoration, should give your phone a brand-new feel.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134244/18498" target="_top" id="2134244">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134244" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134244/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Other iPhone models we tested
 
@@ -457,16 +463,22 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-2024-approved-new-screen-recorder-tools-analysis-march-2023/"><u>[New] 2024 Approved New Screen Recorder Tools Analysis – March 2023</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-comprehensive-guide-to-adding-music-icons-in-instagram-posts/"><u>[New] In 2024, Comprehensive Guide to Adding Music Icons in Instagram Posts</u></a></li>
-<li><a href="https://extra-information.techidaily.com/2024-approved-crafting-compelling-movie-previews/"><u>2024 Approved Crafting Compelling Movie Previews</u></a></li>
-<li><a href="https://solve-info.techidaily.com/abbyy-news-and-updates-with-timelinepi/"><u>ABBYY News and Updates with TimelinePI</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/best-free-dvd-extraction-software-compared-optimized-for-macos-catalina-6432-bit/"><u>Best Free DVD Extraction Software Compared: Optimized for macOS Catalina [64/32-Bit]</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/best-free-universal-hd-h265-codec-video-player-apps-compatible-with-pc-and-mac-windows-10macos-2020-reviews/"><u>Best FREE Universal HD H.265 Codec Video Player Apps Compatible with PC and MAC (Windows 10/MacOS) - 2020 Reviews</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/1725285185722-dvd/"><u>DVDコピー技術の最新情報: デジアーティ公式ブログで学ぶ</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/expert-picks-top-6-fb-lite-extractors-for-2024/"><u>Expert Picks Top 6 FB Lite Extractors for 2024</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-retrieve-lost-files-from-realme-narzo-n55-by-fonelab-android-recover-data/"><u>How to retrieve lost files from Realme Narzo N55?</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/iscrivi-a-winxvideo-ai-pacchetto-completo-e-aggiornamento-gratuito-per-gli-utenti-ufficiali/"><u>Iscrivi a WinxVideo AI: Pacchetto Completo E Aggiornamento Gratuito per Gli Utenti Ufficiali</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/solution-de-problemes-dechec-lors-du-chargement-des-films-dvd-r-avec-winx-dvd-ripper/"><u>Solution De Problèmes D'échec Lors Du Chargement Des Films DVD-R Avec WinX DVD Ripper</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-flex-your-viewing-muscles-handling-multiple-youtube-videos/"><u>[New] 2024 Approved Flex Your Viewing Muscles Handling Multiple YouTube Videos</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-creators-profit-from-youtube-shorts/"><u>[New] 2024 Approved How Creators Profit From YouTube Shorts</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-from-black-and-white-to-color-classic-video-transition-tips-for-2024/"><u>[New] From Black-and-White to Color Classic Video Transition Tips for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-gain-traction-in-the-digital-sphere-explore-the-quintessential-five-youtube-tactics/"><u>[New] In 2024, Gain Traction in the Digital Sphere - Explore the Quintessential Five YouTube Tactics</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-in-2024-shaping-letters-in-visual-content/"><u>[New] In 2024, Shaping Letters in Visual Content</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-what-are-youtube-tags-and-how-can-you-find-great-tags-for-your-videos-for-2024/"><u>[New] What Are YouTube Tags and How Can You Find Great Tags For Your Videos for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-elevate-your-channel-studio-upgrade-vs-beta-shift/"><u>[Updated] 2024 Approved Elevate Your Channel Studio Upgrade Vs. Beta Shift</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-hobby-to-career-the-transition-to-youtube-gaming/"><u>[Updated] 2024 Approved From Hobby to Career The Transition to YouTube Gaming</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-get-thousands-of-youtube-views-in-30-days/"><u>[Updated] 2024 Approved How To Get Thousands of YouTube Views in 30 Days</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-unleash-content-potential-how-to-increase-video-views-on-youtube/"><u>[Updated] Unleash Content Potential How to Increase Video Views on YouTube</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2023s-facebook-video-grabber-windowsmacosandroid-for-2024/"><u>2023'S Facebook Video Grabber Windows/macOS/Android for 2024</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/all-about-factory-reset-what-is-it-and-what-it-does-to-your-samsung-galaxy-a05-drfone-by-drfone-reset-android-reset-android/"><u>All About Factory Reset, What Is It and What It Does to Your Samsung Galaxy A05? | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-hidefake-snapchat-location-on-your-honor-magic-vs-2-drfone-by-drfone-virtual-android/"><u>How to Hide/Fake Snapchat Location on Your Honor Magic Vs 2 | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-easy-guide-to-vivo-y27-5g-frp-bypass-with-best-methods-by-drfone-android/"><u>In 2024, Easy Guide to Vivo Y27 5G FRP Bypass With Best Methods</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-fix-auto-lock-greyed-out-on-apple-iphone-13-mini-drfone-by-drfone-ios/"><u>In 2024, How To Fix Auto Lock Greyed Out on Apple iPhone 13 mini | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-toms-gadget-guide-in-depth-insights-into-hardware-and-software/"><u>The Tom's Gadget Guide: In-Depth Insights Into Hardware and Software</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/unveiling-the-secrets-of-jaunt-vr/"><u>Unveiling the Secrets of Jaunt VR</u></a></li>
 </ul></div>
 

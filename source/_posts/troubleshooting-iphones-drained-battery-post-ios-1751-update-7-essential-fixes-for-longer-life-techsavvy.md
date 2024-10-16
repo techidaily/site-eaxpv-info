@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting iPhone's Drained Battery Post-iOS 17.5.1 Update: 7 Essential Fixes for Longer Life | TechSavvy"
-date: 2024-10-03T22:56:40.367Z
-updated: 2024-10-09T16:55:43.332Z
+date: 2024-10-09T19:46:52.910Z
+updated: 2024-10-15T19:01:51.024Z
 tags:
   - apple
 categories:
@@ -30,18 +30,18 @@ If you want to follow along, you'll need to install the iOS 18 public beta on an
 
 ## How to customize your iPhone's new Control Center with iOS 18
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123739/7443" target="_top" id="2123739">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123739" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123739/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 1\. Access Control Center
 
 To display Control Center, swipe down from the top-right corner of the screen. You'll notice that Control Center is now separated into three different screens. The first screen displays the core controls, the second screen shows the audio player and related settings, and the third has connectivity options. Swipe up or down to move from one screen to another, or tap one of the three icons on the right to jump to a specific one.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 2\. Move the available controls
 
@@ -52,10 +52,10 @@ Screenshot by Lance Whitney/ZDNET
 **Also: [Every iPhone model that can be updated to Apple's iOS 18 (and which ones can't)](https://www.zdnet.com/article/every-iphone-model-that-can-be-updated-to-apples-ios-18-and-which-ones-cant/)**
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139123/17108" target="_top" id="2139123">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139123" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135417/19272" target="_top" id="2135417">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135417" border="0" alt="https://techidaily.com" width="392" height="72"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139123/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135417/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Resize a control
@@ -65,10 +65,10 @@ After tapping the plus icon, some controls sport a gray curved handle in the low
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1175223/12108" target="_top" id="1175223">
-  <img src="//a.impactradius-go.com/display-ad/12108-1175223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1868495/19272" target="_top" id="1868495">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868495" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1175223/12108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868495/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Delete a control
@@ -85,18 +85,18 @@ Screenshot by Lance Whitney/ZDNET
 
 **Also: [I did not expect this iOS 18 feature announced at WWDC to be my favorite (and it's not AI)](https://www.zdnet.com/article/i-did-not-expect-this-ios-18-feature-announced-at-wwdc-to-be-my-favorite-and-its-not-ai/)**
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918714/19272" target="_top" id="1918714">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918714" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918714/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 6\. Add a control to a new screen
 
 If the current screens are already filled with icons, you can set up additional screens to hold more controls. Swipe down to the last screen, which shouldn't have any free space. Tap the plus icon and then tap "Add a Control." Again, browse or search for the control you wish to add. Tap that control, and it should appear in a new screen. You can continue adding more controls to the new screen this way. You can create as many as 15 screens, though you'll probably want to stop before you reach that number.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134495/18498" target="_top" id="2134495">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134495" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134495/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 7\. Power down from Control Center
 
@@ -134,21 +134,19 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/ree-youtube-revenue-predictor-tools/"><u>[New] Free YouTube Revenue Predictor Tools</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/new-yuneec-typhoon-h-review/"><u>[New] Yuneec Typhoon H Review</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-step-by-step-locating-your-next-social-video-fb-2023/"><u>[Updated] 2024 Approved Step-by-Step Locating Your Next Social Video (FB 2023)</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-exquisite-quintet-of-precision-engineered-cameras/"><u>[Updated] Exquisite Quintet of Precision-Engineered Cameras</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-sound-digitization-audiovisual-preservation/"><u>2024 Approved Sound Digitization Audiovisual Preservation</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/2024-nce/"><u>2024年度最新リリース：高解像度に変換できる画像強化ツール紹介 - 有料・無料両方提�nce</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/uhd4khevcmp4/"><u>最新ガイド：UHD/4K映像やHEVC・MP4形式で素速い動画再生方法</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/best-anti-tracker-software-for-zte-nubia-z60-ultra-drfone-by-drfone-virtual-android/"><u>Best Anti Tracker Software For ZTE Nubia Z60 Ultra | Dr.fone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/dealing-with-mfc-42-dll-file-not-found-heres-your-guide-to-quick-recovery/"><u>Dealing with MFC 42 DLL File Not Found? Here's Your Guide to Quick Recovery!</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/from-live-action-to-digital-footage-gadget-guidebook/"><u>From Live Action to Digital Footage Gadget Guidebook</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-fix-ipad-or-apple-iphone-se-2020-stuck-on-activation-lock-by-drfone-ios/"><u>In 2024, How to Fix iPad or Apple iPhone SE (2020) Stuck On Activation Lock?</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/ps5-dvd-abspielfunktion-funktionsweise-und-tipps/"><u>PS5 DVD-Abspielfunktion - Funktionsweise Und Tipps</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/stealthy-snapchat-recording-methods-how-to-do-it-without-alerting-the-other-party/"><u>Stealthy Snapchat Recording Methods: How to Do It Without Alerting the Other Party</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/the-ultimate-selection-of-safe-speed-optimized-video-editors-for-windows-1110-enthusiasts/"><u>The Ultimate Selection of Safe, Speed-Optimized Video Editors for Windows 11/10 Enthusiasts</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/windows-and-mac-top-10-best-free-online-video-kickstarters-with-ai-features/"><u>Windows & Mac: Top 10 Best Free Online Video Kickstarters with AI Features</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/winxdvd-official-site-premium-dvd-ripper-and-converter-with-iphone-transfer-capabilities/"><u>WinXDVD Official Site: Premium DVD Ripper & Converter with iPhone Transfer Capabilities</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-harnessing-hashtags-elevating-your-youtube-gaming-series/"><u>[New] 2024 Approved Harnessing Hashtags Elevating Your YouTube Gaming Series</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-revamping-your-snapchat-speech-two-straightforward-steps/"><u>[New] 2024 Approved Revamping Your Snapchat Speech Two Straightforward Steps</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-gamers-blueprint-for-money-making-for-2024/"><u>[New] Gamer’s Blueprint for Money-Making for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-fostering-engagement-creating-budget-friendly-youtube-intros/"><u>[New] In 2024, Fostering Engagement Creating Budget-Friendly YouTube Intros</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-unveiling-the-secrets-of-medical-ad-success-on-fb-for-2024/"><u>[New] Unveiling the Secrets of Medical Ad Success on FB for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-fullframe-alliance-how-to-choose-your-mcn-strategically/"><u>[Updated] 2024 Approved FullFrame Alliance How to Choose Your MCN Strategically</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-from-beginners-to-pros-choosing-webcams-for-youtube-live/"><u>[Updated] From Beginners to Pros Choosing Webcams for YouTube Live</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-humble-beginnings-to-prodigy-carryminatis-earnings-ajey/"><u>[Updated] In 2024, From Humble Beginnings to Prodigy CarryMinati's Earnings (Ajey)</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/approved-navigating-the-business-of-home-produced-videos/"><u>2024 Approved Navigating the Business of Home-Produced Videos</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/best-photo-background-blur-apps-for-iphone-and-android-phones-for-2024/"><u>Best Photo Background Blur Apps for iPhone and Android Phones for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/elite-enclaves-for-achievement-seekers-in-games/"><u>Elite Enclaves for Achievement Seekers in Games</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/learn-how-to-lock-stolen-your-apple-iphone-6-plus-properly-by-drfone-ios/"><u>Learn How To Lock Stolen Your Apple iPhone 6 Plus Properly</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-in-2024-boost-your-videos-by-using-the-best-intro-maker-for-pc-we-provide-you-with-tools-both-offline-and-online-to-choose-the-top-software-amongst-all./"><u>New In 2024, Boost Your Videos by Using the Best Intro Maker for PC. We Provide You with Tools, Both Offline and Online, to Choose the Top Software Amongst All</u></a></li>
+<li><a href="https://change-location.techidaily.com/ultimate-guide-to-catch-the-regional-located-pokemon-for-samsung-galaxy-a15-5g-drfone-by-drfone-virtual-android/"><u>Ultimate Guide to Catch the Regional-Located Pokemon For Samsung Galaxy A15 5G | Dr.fone</u></a></li>
 </ul></div>
 

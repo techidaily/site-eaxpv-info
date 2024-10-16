@@ -1,7 +1,7 @@
 ---
 title: "How California Drivers Can Link Their Licenses with Apple and Google Pay: A Comprehensive Guide"
-date: 2024-09-30T18:21:13.826Z
-updated: 2024-10-04T18:16:57.861Z
+date: 2024-10-11T01:44:37.239Z
+updated: 2024-10-16T08:58:50.735Z
 tags:
   - apple
 categories:
@@ -55,19 +55,6 @@ Aside from these AI features, iOS 18 will include new customizable icons and int
 
 **Also: [Forget LastPass: Apple unveils 'Passwords' manager app at WWDC 2024](https://www.zdnet.com/article/forget-lastpass-apple-unveils-passwords-manager-app-at-wwdc-2024/)**
 
-<!-- affiliate ads begin -->
-<span id="1424528">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Is Siri getting an Apple Intelligence makeover?
 
 Apple
@@ -84,6 +71,13 @@ The voice assistant will also be able to perform hundreds of new actions across 
 
 Apple is also upgrading Siri to understand text, allowing users to type or speak to Siri as needed. 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997648/19272" target="_top" id="1997648">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997648" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997648/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## What's new in Apple's photo editing & search?
 
 Apple
@@ -97,10 +91,10 @@ Apple is adding natural language photo and video search to its Photos app. This 
 In Photos, users will also be able to give a text prompt to create Memory videos. These will be compilations of videos and photos following a description, with music suggestions from Apple Music. 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137220/26400" target="_top" id="2137220">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137220" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144299/7443" target="_top" id="2144299">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144299" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137220/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144299/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How does systemwide AI text generation work?
@@ -114,13 +108,6 @@ The same feature can help users make major edits to text, such as changing the t
 **Also:** [**You can finally schedule messages on the iPhone. Here's what to know**](https://www.zdnet.com/article/you-can-finally-schedule-messages-on-the-iphone-heres-how/)
 
 Apple devices will also get AI upgrades for recordings and transcriptions in Voice Memos and Phone, as users can quickly transcribe voice notes with AI.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151873/7443" target="_top" id="2151873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151873" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151873/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## What is Image Playground?
 
@@ -147,10 +134,10 @@ When users make a Siri request that the voice assistant determines would be bett
 Apple says its ChatGPT integration has privacy protections in place, with obscured IP addresses and no request storage by OpenAI. ChatGPT on iPhone, iPad, and Mac will be free to use, provided the device is compatible with the latest operating system. [Paying ChatGPT users](https://www.zdnet.com/article/chatgpt-vs-chatgpt-plus-is-a-paid-subscription-still-worth-it/) will get access to additional Plus features.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135398/19272" target="_top" id="2135398">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135398" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://ursime.pxf.io/c/5597632/2136548/16384" target="_top" id="2136548">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136548" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135398/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136548/16384" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Will Apple Intelligence be processed on-device or in the cloud?
@@ -183,6 +170,13 @@ The company is striving to keep the AI features secure through several mechanism
 * **Independent code review:** With Private Cloud Compute, Apple explained that the code is available for independent experts to inspect and verify it meets privacy standards.
 * **Data encryption:** Apple encrypts all data sent to and from its servers as another layer of security.
 * **Ability to opt out:** Perhaps most importantly, users can opt-in for Apple Intelligence features, which will be introduced as beta versions as Apple works to improve its AI capabilities over time.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137211/26400" target="_top" id="2137211">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137211" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137211/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## What are the technical requirements for Apple Intelligence?
 
@@ -224,21 +218,22 @@ While these AI features may help drive sales of new iPhones and Macs, as a curre
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-from-photos-to-feeds-selecting-the-best-9-gear-upgrades-for-2024/"><u>[New] From Photos to Feeds Selecting the Best 9 Gear Upgrades for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-gamer-income-tactics-for-2024/"><u>[New] Gamer Income Tactics for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-guide-on-purging-stored-videos-from-youtube-watchlater/"><u>[New] In 2024, Guide on Purging Stored Videos From YouTube Watchlater</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-from-filming-to-sharing-a-youtube-video-edition-for-2024/"><u>[Updated] From Filming to Sharing A YouTube Video Edition for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-fitness-through-yoga-youtube-channel-hits-list/"><u>[Updated] In 2024, Fitness Through Yoga YouTube Channel Hits List</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-groundbreaking-insights-into-asmr-recordings/"><u>[Updated] In 2024, Groundbreaking Insights Into ASMR Recordings</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-captivate-and-expand-your-online-following-with-viral-youtube-shorts/"><u>[Updated] In 2024, How to Captivate and Expand Your Online Following with Viral YouTube Shorts</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-premiere-samsung-gear-vr-playlist/"><u>[Updated] In 2024, Premiere Samsung Gear VR Playlist</u></a></li>
-<li><a href="https://techidaily.com/connect-play-and-enjoy-wirelessly-linking-bluetooth-speaker-and-laptop-easily/"><u>Connect, Play & Enjoy: Wirelessly Linking Bluetooth Speaker and Laptop Easily.</u></a></li>
-<li><a href="https://facebook.techidaily.com/controlled-consumption-navigate-without-fb-reels/"><u>Controlled Consumption: Navigate without Fb Reels</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-8-plus-to-other-iphone-15-pro-max-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 8 Plus To Other iPhone 15 Pro Max devices? | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-from-analog-archives-to-digital-epics-creating-videos-from-older-photographs/"><u>In 2024, From Analog Archives to Digital Epics Creating Videos From Older Photographs</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-innovative-imagery-boost-integrating-filters-into-pcmobile-videos/"><u>In 2024, Innovative Imagery Boost Integrating Filters Into PC/Mobile Videos</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/selecting-your-perfect-vr-experience-mobile-vs-tethered-options-for-2024/"><u>Selecting Your Perfect VR Experience Mobile Vs. Tethered Options for 2024</u></a></li>
-<li><a href="https://fake-location.techidaily.com/ultimate-guide-to-free-pptp-vpn-for-beginners-on-tecno-spark-10c-drfone-by-drfone-virtual-android/"><u>Ultimate Guide to Free PPTP VPN For Beginners On Tecno Spark 10C | Dr.fone</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/unveiling-the-secrets-behind-viral-meme-culture/"><u>Unveiling the Secrets Behind Viral Meme Culture</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-growth-hacking-for-youtube-stars-maximizing-fans/"><u>[New] 2024 Approved Growth Hacking for YouTube Stars Maximizing Fans</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-flavor-leaders-must-watch-culinary-youtube-stars-for-2024/"><u>[New] Flavor Leaders Must-Watch Culinary YouTube Stars for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-from-emotion-to-entertainment-the-artisans-approach-to-making-memes-gifs/"><u>[New] From Emotion to Entertainment The Artisan’s Approach to Making Memes (GIFs)</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-high-quality-audio-collections-a-youtube-creators-guidebook-for-2024/"><u>[New] High-Quality Audio Collections A YouTube Creator's Guidebook for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-how-to-effortlessly-convert-youtube-videos-online-for-2024/"><u>[New] How to Effortlessly Convert YouTube Videos Online for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-how-to-effortlessly-eradicate-unwanted-youtube-post-comments-for-2024/"><u>[New] How to Effortlessly Eradicate Unwanted Youtube Post-Comments for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-the-shadows-to-spotlight-rise-in-popularity-with-these-steps-on-youtube/"><u>[New] In 2024, From the Shadows to Spotlight Rise in Popularity with These Steps on YouTube</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-freedom-from-popups-discover-the-top-7-android-adblock-apps/"><u>[Updated] 2024 Approved Freedom From Popups? Discover the Top 7 Android AdBlock Apps</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-craft-eye-catching-youtubes-end-titles/"><u>[Updated] In 2024, How to Craft Eye-Catching YouTubes End Titles</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/conquer-with-titans-top-7-strategic-multiplayer-battles-for-2024/"><u>Conquer with Titans Top 7 Strategic Multiplayer Battles for 2024</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-itel-s23-to-new-android-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Itel S23 to New Android? | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-remove-apple-iphone-12-mini-device-from-icloud-by-drfone-ios/"><u>In 2024, How to Remove Apple iPhone 12 mini Device from iCloud</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/erable-action-plan-to-expunge-youtube-shorts/"><u>Inalterable Action Plan to Expunge YouTube Shorts</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/mastering-the-art-of-action-shots-with-gopro-for-2024/"><u>Mastering the Art of Action Shots with GoPro for 2024</u></a></li>
+<li><a href="https://facebook.techidaily.com/monitoring-means-making-more/"><u>Monitoring Means Making More</u></a></li>
+<li><a href="https://techidaily.com/the-easiest-methods-to-hard-reset-samsung-galaxy-a05-drfone-by-drfone-reset-android-reset-android/"><u>The Easiest Methods to Hard Reset Samsung Galaxy A05 | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/unlock-full-potential-of-text-with-snipping-tool-on-win-11/"><u>Unlock Full Potential of Text with Snipping Tool on Win 11</u></a></li>
 </ul></div>
 

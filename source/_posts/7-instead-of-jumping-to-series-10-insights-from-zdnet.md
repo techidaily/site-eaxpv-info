@@ -1,7 +1,7 @@
 ---
 title: 7 Instead of Jumping to Series 10 - Insights From ZDNet
-date: 2024-10-06T23:09:08.062Z
-updated: 2024-10-09T23:11:55.537Z
+date: 2024-10-10T00:12:21.996Z
+updated: 2024-10-16T00:04:32.861Z
 tags:
   - apple
 categories:
@@ -34,6 +34,13 @@ Here are the top reasons why we are (or aren't) upgrading to the iPhone 16 in th
 
 Kerry Wan/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012401/19272" target="_top" id="2012401">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012401" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012401/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 1\. The camera
 
 Perhaps one of the most important features of any smartphone these days is the camera, so it is no surprise that camera quality is a big consideration for ZDNET editors. It probably is for you, too. The iPhone 16 lineup includes a new [Camera Control](https://www.zdnet.com/article/every-iphone-16-model-features-a-new-camera-button-heres-what-it-can-do/) feature that works in landscape or portrait mode with a button on the side of the iPhone. In addition, you can lightly press the button to show camera functions you can choose from, such as zoom, exposure, or focal lengths, by swiping between the options. 
@@ -46,13 +53,6 @@ The Camera Control uses [Apple's Visual Intelligence](https://www.zdnet.com/arti
 
 "I have the biggest one-sided beef in the world with the iPhone 14\. I can give you material for years. Primarily because the camera is the worst thing I ever experienced on an iPhone. Even the base iPhone 16 model looks way better," Ortiz says.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144271/7443" target="_top" id="2144271">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144271" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144271/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 2\. Trade-in deals and carrier offers
 
 I told you we're really all just like you. Some ZDNET tech experts are ready to jump to the new iPhone 16 thanks to great carrier and trade-in offers on the models and are even more enthusiastic if they're ready for an upgrade. 
@@ -64,13 +64,6 @@ ZDNET contributor Ed Bott is planning to upgrade his iPhone 12 Pro Max for a new
 And if you're looking to change carriers, like managing editor Alison DeNisco Rayome, some of the trade-in offers make it hard to resist. "I still have the 13, and the trade-in deals are making it worth it for me to upgrade to the 16 (plus we want to switch carriers, so even better)," she says. 
 
 Verizon and T-Mobile have [similar offers](https://www.zdnet.com/article/how-to-preorder-the-new-iphone-16-and-get-one-free/) right now, and they're pretty sweet. At T-Mobile, new and existing customers can get a free iPhone 16 Pro with a trade-in on the Go5G Next plan, or up to $1,000 off on any iPhone 16 model. 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137411/7443" target="_top" id="2137411">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137411" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 3\. For work
 
@@ -94,15 +87,22 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 ZDNET's Jason Perlow is bumping up for similar reasons. "I am upgrading from my 15 Pro Max to a 16 Pro Max because I am on the iPhone Upgrade Program, and as I cover developments with Apple, it is a business expense and \[ultimately\] it's trading one loan payment for another. No other reason, although the camera improvements seem nice. I debated skipping, but there wasn't much of a downside," he says. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130890/7443" target="_top" id="2130890">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130890" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130890/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Here's why ZDNET editors won't be upgrading to the iPhone 16
 
 Jason Hiner/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047346/19272" target="_top" id="2047346">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047346" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130532/26400" target="_top" id="2130532">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130532" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047346/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130532/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 1\. The Apple Intelligence features aren't perfect
@@ -124,10 +124,10 @@ As reviews editor Kyle Kucharski says, it's never a good idea to blindly update 
 Staff writer Maria Diaz thinks the same. "I have the iPhone 14 Pro Max and am still happy with it. It performs just as well as when I got it. I wish the camera were better (but the BlackMagic app helps a lot with this) and I would like the convenience of a USB-C port, but it's still working well enough that I don't feel compelled at all to get an iPhone 16\. I'm holding out for next year, at least," Diaz says. Kucharski is on the same page. "I still have the 12, and the bottom line: it still works fine," he says. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880960/19272" target="_top" id="1880960">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139122/17108" target="_top" id="2139122">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139122" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880960/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139122/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 3\. Expense and hassle
@@ -176,22 +176,21 @@ The [iPhone 16 Pro](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&pa
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-support.techidaily.com/updated-kinemaster-guide-to-seamless-green-screen-implementation/"><u>[Updated] Kinemaster Guide to Seamless Green Screen Implementation</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-pioneering-pedagogy-choosing-from-the-premier-10-lecture-recorders-for-2024/"><u>[Updated] Pioneering Pedagogy Choosing From the Premier 10 Lecture Recorders for 2024</u></a></li>
-<li><a href="https://blog-min.techidaily.com/8-ways-to-transfer-photos-from-xiaomi-14-pro-to-iphone-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>8 Ways to Transfer Photos from Xiaomi 14 Pro to iPhone Easily | Dr.fone</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/descargas-sin-costo-cambiar-imagenes-de-archivo-tiff-a-jpeg-con-el-servicio-web-de-convertir-imagenes/"><u>Descargas Sin Costo: Cambiar Imágenes De Archivo TIFF a JPEG Con El Servicio Web De Convertir Imágenes</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/entendiendo-el-alcance-de-tus-historias-de-instagram-dimensiones-y-factores-clave/"><u>Entendiendo El Alcance De Tus Historias De Instagram: Dimensiones Y Factores Clave</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-the-latest-hp-pagewide-pro-cu477a-driver-set-seamless-printing-on-windows-11-10-and-legacy-systems/"><u>Get the Latest HP PageWide Pro Cu477a Driver Set - Seamless Printing on Windows 11, 10 & Legacy Systems</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/gratuitamente-trasforma-i-tuoi-video-mp4-nel-formato-mov-con-il-convertitore-online-di-movavi/"><u>Gratuitamente Trasforma I Tuoi Video MP4 Nel Formato MOV Con Il Convertitore Online Di Movavi</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-excel-2010-files-on-mac-complete-guide-by-stellar-guide/"><u>How to Recover Deleted Excel 2010 Files on Mac Complete Guide</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/mp4-to-mp3-conversion-at-no-cost-discover-movavis-simple-and-effective-solution/"><u>MP4 to MP3 Conversion at No Cost - Discover Movavi's Simple and Effective Solution</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/step-by-step-guide-to-getting-the-newest-epson-ds-510-drivers-installed-on-a-windows-system/"><u>Step by Step Guide to Getting the Newest Epson DS-510 Drivers Installed on a Windows System</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/the-amazfit-gts-unveiled-assessing-fashion-forward-features-in-athletic-wearables/"><u>The Amazfit GTS Unveiled: Assessing Fashion-Forward Features in Athletic Wearables</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/the-best-android-unlock-software-for-sony-xperia-5-v-device-top-5-picks-to-remove-android-locks-by-drfone-android/"><u>The Best Android Unlock Software For Sony Xperia 5 V Device Top 5 Picks to Remove Android Locks</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/top-7-best-video-streaming-apps-for-windows-11-your-ultimate-guide/"><u>Top 7 Best Video Streaming Apps for Windows 11 - Your Ultimate Guide</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/transforma-tu-musica-wma-al-formato-mp3-facilmente-usando-la-herramienta-online-de-movavi/"><u>Transforma Tu Música WMA Al Formato MP3 Fácilmente Usando La Herramienta Online De Movavi</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/transformar-archivos-de-audio-m4a-a-formato-m4v-gratuito-guia-paso-a-paso-con-movavi/"><u>Transformar Archivos De Audio .m4a a Formato M4v Gratuito: Guía Paso a Paso Con Movavi</u></a></li>
-<li><a href="https://howto.techidaily.com/why-your-honor-magic-6-lite-screen-might-be-unresponsive-and-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Your Honor Magic 6 Lite Screen Might be Unresponsive and How to Fix It | Dr.fone</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/mp3-aif-convert-movavi/"><u>무료 MP3 변환 AIF 파일을 쉽게 Convert하는 Movavi - 인터넷 속에서</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-photos-to-feeds-selecting-the-best-9-gear-upgrades/"><u>[New] 2024 Approved From Photos to Feeds Selecting the Best 9 Gear Upgrades</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-giggles-galore-7-entertaining-video-sets-for-chuckleheads/"><u>[New] 2024 Approved Giggles Galore 7 Entertaining Video Sets for Chuckleheads</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-edit-youtube-videos-in-final-cut-pro/"><u>[New] 2024 Approved How to Edit YouTube Videos in Final Cut Pro</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-get-more-out-of-youtube-with-8-handpicked-download-apps-for-2024/"><u>[New] Get More Out of YouTube with 8 Handpicked Download Apps for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-how-to-get-a-youtube-video-trending-for-2024/"><u>[New] How to Get a YouTube Video Trending for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-flip-order-3-easy-steps-to-rewind-youtube-listeners/"><u>[New] In 2024, Flip Order 3 Easy Steps to Rewind Youtube Listeners</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-free-mcb-theme-images-templates-and-more/"><u>[New] In 2024, Free MCB Theme Images, Templates & More</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-unlocking-live-streams-rokus-path-to-fb-live/"><u>[New] Unlocking Live Streams Roku's Path to FB LIVE</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-becoming-a-pro-at-using-a-tripod-for-clear-high-quality-vlogs/"><u>[Updated] In 2024, Becoming a Pro at Using a Tripod for Clear, High-Quality Vlogs</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1722992794533-fix-your-fall-guys-issues-overcoming-launch-and-crash-problems-easily/"><u>Fix Your Fall Guys Issues: Overcoming Launch and Crash Problems Easily</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-xiaomi-mix-fold-3withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Xiaomi Mix Fold 3with/without a PC</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/los-10-recomendados-optimizadores-de-video-con-ia-gratis-para-dispositivos-windows-and-mac/"><u>Los 10 Recomendados Optimizadores De Vídeo Con IA Gratis Para Dispositivos Windows & Mac</u></a></li>
+<li><a href="https://facebook.techidaily.com/navigating-through-networked-lifetimes-on-fb/"><u>Navigating Through Networked Lifetimes on FB</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/step-by-step-guide-building-high-quality-windows-11-videos/"><u>Step-by-Step Guide Building High-Quality Windows 11 Videos</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-indispensable-add-on-for-oculus-quest-2-users-in-depth-analysis-of-the-elite-straps-backup-power-source-and-reliable-carrying-case-combo/"><u>The Indispensable Add-On for Oculus Quest 2 Users: In-Depth Analysis of the Elite Straps, Backup Power Source & Reliable Carrying Case Combo</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unveiling-market-trends-how-vps-forecasting-reflects-appetite-for-apples-xr-wearable/"><u>Unveiling Market Trends: How VPS Forecasting Reflects Appetite for Apple's XR Wearable</u></a></li>
 </ul></div>
 

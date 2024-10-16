@@ -1,7 +1,7 @@
 ---
 title: Transform Your Email Habits with One Easy Hack - Ditch the Overwhelm, No Multi-Accounts Needed | ZDNET
-date: 2024-09-28T18:12:49.223Z
-updated: 2024-10-04T17:59:24.925Z
+date: 2024-10-13T17:02:34.568Z
+updated: 2024-10-16T03:27:29.512Z
 tags:
   - apple
 categories:
@@ -61,10 +61,10 @@ Don't confuse aliases with forwarded accounts, which allow you to send and recei
 The following instructions apply to personal accounts you manage yourself. If you have a commercial email account (through Microsoft 365 or Google Workspace, for example), you can have aliases for your account using your organization's custom domain, but you'll need an administrator's help to set up those aliases.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151883/7443" target="_top" id="2151883">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151883" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151883/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to create an alias using Gmail
@@ -76,10 +76,10 @@ Although it's the world's most popular email service, Gmail's implementation of 
 The problem with this sort of alias is that it doesn't keep an unscrupulous sender from seeing your primary address, so be cautious when using it with untrusted correspondents.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111994/7443" target="_top" id="2111994">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111994" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123509/26400" target="_top" id="2123509">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123509" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111994/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123509/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to create an alias using Outlook.com
@@ -93,10 +93,10 @@ To get started, go to <https://account.microsoft.com>, sign in with your Microso
 You can add new aliases at any time (up to the limit of 10) or remove an existing alias from the Account Aliases page described earlier.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139118/17108" target="_top" id="2139118">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139118" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049390/7443" target="_top" id="2049390">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049390" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139118/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049390/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to create an alias using your Apple ID
@@ -110,16 +110,16 @@ The one catch is that each alias uses an auto-generated name that can be less th
 To create an iCloud alias on an iOS device, open Settings, tap your account name, then tap iCloud > Hide My Email. (On a MacBook, use the Apple menu to open System Settings, where you'll find the Hide My Email option.) Tap Create New Address and follow the prompts to add a label and an optional note. Use the Forward To button to select where you want to receive email sent to that alias.
 
 <!-- affiliate ads begin -->
-<span id="1982508">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982508.png"
+<span id="1516072">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1516072.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982508">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982508.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1516072">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1516072.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982508%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1516072%2F16446'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982508/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1516072/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Other alias options
@@ -160,21 +160,20 @@ You can also use privacy add-ins that include email-masking features. [NordPass 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-funding-fantasies-or-fiscal-facts/"><u>[New] 2024 Approved Funding Fantasies or Fiscal Facts?</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-film-swapping-ideas-best-replacements-1-7-for-2024/"><u>[New] Film Swapping Ideas Best Replacements #1-7 for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-glam-rific-guide-to-hauls-and-hair-care/"><u>[New] In 2024, Glam-Rific Guide to Hauls and Hair Care</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-bite-sized-to-detailed-converting-shorts-to-editable-mp4/"><u>[Updated] In 2024, From Bite-Sized to Detailed Converting Shorts to Editable MP4</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-raw-footage-to-youtube-perfection-premiere-pro-techniques/"><u>[Updated] In 2024, From Raw Footage to YouTube Perfection - Premiere Pro Techniques</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-harness-the-power-of-youtube-videos-to-create-stunning-gifs-online/"><u>[Updated] In 2024, Harness the Power of Youtube Videos to Create Stunning Gifs Online</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-historical-discoveries-at-your-screen-10-best-educational-youtubers/"><u>[Updated] In 2024, Historical Discoveries at Your Screen - 10 Best Educational YouTubers</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/15-best-strongest-pokemon-to-use-in-pokemon-go-pvp-leagues-for-motorola-moto-g73-5g-drfone-by-drfone-virtual-android/"><u>15 Best Strongest Pokémon To Use in Pokémon GO PvP Leagues For Motorola Moto G73 5G | Dr.fone</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-the-ultimate-resource-50plus-no-fee-visual-effects-websites-reviewed/"><u>2024 Approved The Ultimate Resource 50+ No-Fee Visual Effects Websites Reviewed</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/enhancing-your-eq-a-guide-to-improving-emotional-intelligence-with-chatgpt/"><u>Enhancing Your EQ: A Guide to Improving Emotional Intelligence with ChatGPT</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fixes-and-solutions-for-usb-headphones-with-no-audio-output-in-windows-7/"><u>Fixes and Solutions for USB Headphones with No Audio Output in Windows 7</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-full-tutorial-to-bypass-your-vivo-y100i-face-lock-by-drfone-android/"><u>In 2024, Full Tutorial to Bypass Your Vivo Y100i Face Lock?</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-smirk-sculptor-image-maker/"><u>In 2024, Smirk Sculptor Image Maker</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-step-by-step-zoom-livestream-setup-guide-for-youtube-enthusiasts/"><u>In 2024, Step-by-Step Zoom Livestream Setup Guide for YouTube Enthusiasts</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/moziscreen-plugins-for-firefox-for-2024/"><u>MoziScreen Plugins for Firefox for 2024</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ate-text-to-video-best-online-platforms-for-vids/"><u>Ultimate Text-to-Video Best Online Platforms for Vids</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-be-a-youtube-gamer/"><u>[New] 2024 Approved How To Be a YouTube Gamer</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-from-couch-to-camera-earning-through-personal-vlogging-for-2024/"><u>[New] From Couch-to-Camera Earning Through Personal Vlogging for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-optimally-utilize-a-creative-commons-license/"><u>[New] In 2024, How to Optimally Utilize a Creative Commons License</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-obs-studio-excellence-the-top-5-editing-strategies/"><u>[New] In 2024, OBS Studio Excellence The Top 5 Editing Strategies</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-from-free-to-profitable-unlocking-youtubes-monetization-at-500plus-for-2024/"><u>[Updated] From Free to Profitable Unlocking YouTube's Monetization at 500+ for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-make-your-own-youtube-closures-without-spending-for-2024/"><u>[Updated] How to Make Your Own YouTube Closures Without Spending for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-fast-track-to-short-video-treasure-troves-free-access/"><u>[Updated] In 2024, Fast Track to Short Video Treasure Troves (Free Access)</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/amplify-your-presence-the-ultimate-guide-to-increasing-twitter-followers/"><u>Amplify Your Presence: The Ultimate Guide to Increasing Twitter Followers</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-the-windows-10-update-error-code-0x80070541-step-by-step-guide/"><u>Fixing the Windows 10 Update Error Code 0X80070541: Step-by-Step Guide</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-fix-auto-lock-greyed-out-on-iphone-15-pro-drfone-by-drfone-ios/"><u>How To Fix Auto Lock Greyed Out on iPhone 15 Pro | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-fix-apple-id-verification-code-not-working-on-iphone-xs-max-by-drfone-ios/"><u>In 2024, How To Fix Apple ID Verification Code Not Working On iPhone XS Max</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-will-ispoofer-update-on-samsung-galaxy-m34-drfone-by-drfone-virtual-android/"><u>In 2024, Will iSpoofer update On Samsung Galaxy M34 | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/openais-struggle-with-ai-liberation/"><u>OpenAI's Struggle with AI Liberation</u></a></li>
+<li><a href="https://blog-min.techidaily.com/story-2-the-myth-of-dormancy-indication/"><u>Story 2: The Myth of Dormancy Indication</u></a></li>
+<li><a href="https://fox-that.techidaily.com/streamlining-iphone-and-mac-photography-tips-for-consolidating-repeated-portraits-in-albums/"><u>Streamlining iPhone and Mac Photography: Tips for Consolidating Repeated Portraits in Albums</u></a></li>
 </ul></div>
 

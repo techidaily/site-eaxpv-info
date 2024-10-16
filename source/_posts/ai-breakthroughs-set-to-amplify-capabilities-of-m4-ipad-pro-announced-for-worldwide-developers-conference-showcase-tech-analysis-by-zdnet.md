@@ -1,7 +1,7 @@
 ---
 title: AI Breakthroughs Set to Amplify Capabilities of M4 iPad Pro Announced for Worldwide Developers Conference Showcase | Tech Analysis by ZDNET
-date: 2024-10-05T20:45:35.167Z
-updated: 2024-10-09T19:37:21.006Z
+date: 2024-10-11T20:30:14.740Z
+updated: 2024-10-15T22:22:45.590Z
 tags:
   - apple
 categories:
@@ -43,10 +43,10 @@ Now, here's the thing. I tried watching a couple of Marvel 3D movies via Disney+
 I'm guessing that Apple's 3Difying of a 2D image will be at about the same level. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135354/19272" target="_top" id="2135354">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135354" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2036467/19272" target="_top" id="2036467">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036467" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135354/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036467/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Watch those images together using SharePlay in the Photos app
@@ -55,6 +55,13 @@ And here's another feature that I can't imagine any users clamoring for. Now, if
 
 So, yeah, if Grandma Sadie in Seattle has a Vision Pro, Cousin Marty in Miami has a Vision Pro, and you have a Vision Pro in Yuma, you can all stand around the virtual photo screen and ooh and ah over pictures of baby Alice. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130873/7443" target="_top" id="2130873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130873" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Gestures for opening Home View and Control Center
 
 While it's easy enough to open Vision Pro's home view (the field of app icons) by pressing the Digital Crown on the top of the unit, getting to Control Center is a pain. VisionOS puts a tiny little arrow waaay up at the top of the viewing space, and you have to glance at it and tap your fingers together to get it to open. 
@@ -62,6 +69,13 @@ While it's easy enough to open Vision Pro's home view (the field of app icons) b
 In VisionOS 2, there are gestures. Holding your hand palm up and tapping fingers opens the app view. Flipping your hand over will give you time and battery level. A finger tap in this position will open up Control Center. 
 
 Unlike the previous two features, this _is_ a quality of life improvement. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100534/7443" target="_top" id="2100534">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100534" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100534/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Mac virtual display improvements
 
@@ -72,10 +86,10 @@ Screenshot by David Gewirtz/ZDNET
 On the other hand, Apple "later this year" will enable you to create displays with more resolutions. The most interesting is the full wrap-around display, which will be the equivalent of two 4K monitors. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144274/7443" target="_top" id="2144274">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144274" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2027176/19272" target="_top" id="2027176">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027176" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144274/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027176/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Choo-choo train mode
@@ -94,13 +108,6 @@ There are a ton of VR and AR APIs in Apple's platforms. But this week, at WWDC, 
 * **TabletopKit:** Helps developers create apps that anchor to flat surfaces. One obvious example is board game kits, but this could apply to interior design apps, architectural and construction projects, gaming, navigation, and more.
 * **Enterprise APIs:** These were described as enterprise-specific APIs, so we can assume they're somewhat special purpose. Examples given were surgical training and manufacturing.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 7\. New Canon spatial lens for creating spatial video
 
 While iPhone 15 Pro users can create spatial video, there are limitations to using an iPhone as a camera. Apple announced today that Canon will be introducing a spatial lens for its [EOS R7 digital camera](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FCanon-RF-S18-150mm-Mirrorless-Processor-Detection%2Fdp%2FB0B2KSD7WW%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cbfbe271d-4f99-40f4-b81e-3b3c556a641c%7Cdtp&dtb=1). 
@@ -118,13 +125,6 @@ One of the truly breathtaking experiences of the Vision Pro is what Apple calls 
 Apple is opening up the format for third-party creators to create immersive video. The approach is to use cameras and DaVinci Resolve Studio from [Blackmagic Design](https://www.blackmagicdesign.com/). There's no doubt that Blackmagic makes excellent gear and that DaVinci Resolve is a fine application. It's just a little surprising that Apple didn't bake this capability into its own high-end video production tool, Final Cut Pro.
 
 Even so, I think this is great. Those immersive videos are fantastic. 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115921/19272" target="_top" id="2115921">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115921" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115921/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Other new features
 
@@ -179,20 +179,19 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-screen-capture-essentials-the-finest-zero-cost-apps-for-win-10-users-for-2024/"><u>[New] Screen Capture Essentials The Finest Zero-Cost Apps for Win 10 Users for 2024</u></a></li>
-<li><a href="https://howto.techidaily.com/8-ultimate-fixes-for-google-play-your-oneplus-ace-2-pro-isnt-compatible-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Ultimate Fixes for Google Play Your OnePlus Ace 2 Pro Isnt Compatible | Dr.fone</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/discover-the-best-13-no-cost-dvd-players-that-work-seamlessly-on-windows-11-systems/"><u>Discover the Best 13 No-Cost DVD Players That Work Seamlessly on Windows 11 Systems!</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-on-apple-iphone-6-plus-drfone-by-drfone-virtual-ios/"><u>How to Fake Snapchat Location on Apple iPhone 6 Plus | Dr.fone</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/how-windows-10-s-stands-against-windows-customer/"><u>How Windows 10 S Stands Against Windows [Customer]:</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-oppo-f23-5g-drfone-by-drfone-virtual/"><u>In 2024, 9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Oppo F23 5G | Dr.fone</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/24-advanced-techniques-for-trimming-youtube-footage/"><u>In 2024, Advanced Techniques for Trimming YouTube Footage</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-complete-tutorial-to-use-vpna-to-fake-gps-location-on-apple-iphone-11-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, Complete Tutorial to Use VPNa to Fake GPS Location On Apple iPhone 11 Pro Max | Dr.fone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-top-5-hd-cameras-for-game-watching/"><u>In 2024, Top 5 HD Cameras for Game Watching</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-twice-the-joy-television-looping-of-online-video/"><u>In 2024, Twice the Joy Television Looping of Online Video</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/professionelle-online-beratung-fur-die-verwendung-von-winx-dvd-ripping-und-videokonvertierungstools/"><u>Professionelle Online-Beratung Für Die Verwendung Von WinX DVD Ripping Und Videokonvertierungstools</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/region-unlocking-dvds-on-windows-1187-free-conversion-methods-explored/"><u>Region Unlocking DVDs on Windows 11/8/7: Free Conversion Methods Explored</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/top-10-recomendables-player-de-archivos-mkv-para-windows-y-mac-comparativa-y-resena-completa-2020/"><u>Top 10 Recomendables Player De Archivos MKV Para Windows Y Mac: Comparativa Y Reseña Completa (2020)</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/transform-videosaudio-rapidly-using-winxvideo-ai-the-power-of-gpu-acceleration-unleashed/"><u>Transform Videos/Audio Rapidly Using Winxvideo AI: The Power of GPU Acceleration Unleashed</u></a></li>
-<li><a href="https://windows11.techidaily.com/troubleshooting-and-correcting-utorrent-installation-errors-in-winos/"><u>Troubleshooting and Correcting uTorrent Installation Errors in WinOS</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-zero-to-hero-steps-to-construct-your-channels-backlinks/"><u>[New] 2024 Approved From Zero to Hero Steps to Construct Your Channel's Backlinks</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-giggles-in-the-garage-ingenious-funny-video-concepts-for-youtubers/"><u>[New] 2024 Approved Giggles in the Garage Ingenious Funny Video Concepts for YouTubers</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-get-the-best-youtube-thumbnails-the-free-guide/"><u>[Updated] 2024 Approved How to Get the Best YouTube Thumbnails The Free Guide</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-gain-more-loyal-viewers-unlock-top-strategies-for-enhancing-viewer-retention-on-youtube-for-2024/"><u>[Updated] Gain More Loyal Viewers Unlock Top Strategies for Enhancing Viewer Retention on YouTube for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-football-inscriptions-premier-fifa-youtube-insights/"><u>[Updated] In 2024, Football Inscriptions Premier FIFA YouTube Insights</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-vimeo-shorts-to-professional-mp4-a-comprehensive-tutorial/"><u>[Updated] In 2024, From Vimeo Shorts to Professional MP4 A Comprehensive Tutorial</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-stealthy-stroll-through-facebook-episodes/"><u>[Updated] In 2024, Stealthy Stroll Through Facebook Episodes</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-steps-to-produce-empowerment-driven-livestreams/"><u>[Updated] Steps to Produce Empowerment-Driven Livestreams</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-unveiling-the-art-of-personal-branding-mastery/"><u>[Updated] Unveiling the Art of Personal Branding Mastery</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/convert-avi-to-mpeg-2-without-cost-top-3-effective-strategies/"><u>Convert AVI to MPEG-2 Without Cost: Top 3 Effective Strategies</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-a-excel-2023-document-online-by-ldigisigner-sign-a-excel-sign-a-excel/"><u>How to sign a Excel 2023 document online</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-conquer-common-issues-essential-windows-10-fixes/"><u>In 2024, Conquer Common Issues Essential Windows 10 Fixes</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/sci-fi-extraordinaire-journey-to-novel-universes-in-10-films/"><u>Sci-Fi Extraordinaire Journey to Novel Universes in 10 Films</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/ultimate-guide-to-choosing-a-superior-cable-modem-latest-models-of-2024/"><u>Ultimate Guide to Choosing a Superior Cable Modem - Latest Models of 2024</u></a></li>
 </ul></div>
 

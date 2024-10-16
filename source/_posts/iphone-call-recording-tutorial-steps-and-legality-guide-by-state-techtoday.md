@@ -1,7 +1,7 @@
 ---
 title: "IPhone Call Recording Tutorial: Steps & Legality Guide by State | TechToday"
-date: 2024-10-08T23:31:53.825Z
-updated: 2024-10-10T01:00:19.261Z
+date: 2024-10-11T01:49:36.571Z
+updated: 2024-10-15T20:24:29.366Z
 tags:
   - apple
 categories:
@@ -66,10 +66,10 @@ Voice recordings autosave under different names based on whether Location Servic
 Screenshot by Radhika Rajkumar/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087253/19272" target="_top" id="2087253">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087253" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2006928/19272" target="_top" id="2006928">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006928" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087253/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006928/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Play back the audio file and make adjustments
@@ -87,13 +87,6 @@ Always [check](https://www.rev.com/blog/productivity/phone-call-recording-laws-s
 **Also:** [**Every iPhone model that can be updated to Apple's iOS 18 (and which ones can't)**](https://www.zdnet.com/article/every-iphone-model-that-can-be-updated-to-apples-new-ios-18-public-beta-and-which-ones-cant/)
 
 One-party states require only one person on the call -- which would be you -- to consent. An all-party state requires both the person recording and the person(s) being recorded to consent. 
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137222/26400" target="_top" id="2137222">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137222" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137222/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 4\. Start recording
 
@@ -115,6 +108,13 @@ Spikes in the red waveform bar indicate a louder sound. A flatter bar indicates 
 
 Screenshot by Radhika Rajkumar/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484951/16446" target="_top" id="1484951">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484951" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484951/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 5\. End the recording and transfer the file
 
 When the conversation is over or you've got the information you need, end the recording by tapping the red button. 
@@ -132,13 +132,6 @@ Screenshot by Radhika Rajkumar/ZDNET
 Following the steps above is the easiest, most efficient, and most discreet way to record a phone call on your iPhone. If you or a trusted second party don't have another device to spare, here are a few alternatives. 
 
 Note: Many apps that record phone calls likely need to conference into the call before recording begins, which may take a moment and could be detectable by the other person on the call. 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902309/19272" target="_top" id="1902309">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902309" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902309/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Rev Voice Recorder
 
@@ -162,6 +155,13 @@ Once everyone is on the call, press the number four (4) on the keypad to start a
 
 As the name suggests, this app is designed for users to be able to whip out their phones and start recording whenever, wherever. If you download the app and use it on an iPad to record, you can drag and drop recordings with the Files or other recording apps for further transcriptions, or to consolidate recordings. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094476/7443" target="_top" id="2094476">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094476" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094476/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## FAQs
 
 ## Is it illegal to record phone calls?
@@ -179,10 +179,10 @@ Several downloadable third-party apps can record calls on the iPhone, but that c
 Alternatively, you can use most mic-equipped computers or tablets to record phone conversations, as long as the phone is on speaker or the microphone is held close to the other device's speaker. Both [MacOS](https://www.zdnet.com/article/best-mac/) and [Windows](https://www.zdnet.com/article/best-windows-laptop/) computers have numerous audio recording software options available.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016129/19272" target="_top" id="2016129">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016129" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135395/19272" target="_top" id="2135395">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135395" border="0" alt="https://techidaily.com" width="125" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016129/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135395/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Does Apple have an app to record iPhone calls?
@@ -190,10 +190,10 @@ Alternatively, you can use most mic-equipped computers or tablets to record phon
 Unfortunately, no -- at least not yet. Apple itself doesn't have an app, but there are third-party apps available on the [App Store](https://www.apple.com/app-store/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.apple.com/app-store/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%22App%20Store%22%7D). Also, Voice Memos is most likely automatically installed on your iOS device. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118305/7443" target="_top" id="2118305">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118305" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1972684/19272" target="_top" id="1972684">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972684" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118305/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972684/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Does screen recording on iPhone record my call?
@@ -234,22 +234,21 @@ The Voice Memos app can record for an unlimited amount of time as long as you ha
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/harting-financial-success-the-tale-of-ajey-carryminati-and-youtube/"><u>[New] Charting Financial Success The Tale of Ajey (CarryMinati) and YouTube</u></a></li>
-<li><a href="https://fox-links.techidaily.com/new-in-2024-mastering-the-balance-visuals-and-sound-in-media-creation/"><u>[New] In 2024, Mastering the Balance Visuals and Sound in Media Creation</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/1-innovative-beginners-guide-to-creativelivecam-4k-a-comprehensive-webcam-evaluation-with-attractive-functionalities/"><u>1. Innovative Beginner's Guide to CreativeLiveCam 4K: A Comprehensive Webcam Evaluation with Attractive Functionalities</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/approved-the-role-of-green-infrastructure-in-revitalizing-cities/"><u>2024 Approved The Role of Green Infrastructure in Revitalizing Cities</u></a></li>
-<li><a href="https://location-fake.techidaily.com/4-methods-to-turn-off-life-360-on-lava-storm-5g-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>4 Methods to Turn off Life 360 On Lava Storm 5G without Anyone Knowing | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/6-proven-ways-to-unlock-honor-x50iplus-phone-when-you-forget-the-password-by-drfone-android/"><u>6 Proven Ways to Unlock Honor X50i+ Phone When You Forget the Password</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/how-to-get-and-use-pokemon-go-promo-codes-on-zte-axon-40-lite-drfone-by-drfone-virtual-android/"><u>How to Get and Use Pokemon Go Promo Codes On ZTE Axon 40 Lite | Dr.fone</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/in-2024-audiovisual-expertise-selecting-top-video-minds/"><u>In 2024, Audiovisual Expertise Selecting Top Video Minds</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/live-streaming-mastery-with-manycam-advanced-features-of-virtual-camera-technology/"><u>Live Streaming Mastery with ManyCam: Advanced Features of Virtual Camera Technology</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/live-streaming-mastery-with-manycam-professional-virtual-webcam-solutions/"><u>Live Streaming Mastery with ManyCam: Professional Virtual Webcam Solutions</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/live-streaming-mastery-with-manycam-ultimate-video-editing-and-remote-webcam-tools/"><u>Live Streaming Mastery with ManyCam: Ultimate Video Editing and Remote Webcam Tools</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/live-streaming-mastery-with-manycam-ultimate-virtual-camera-software/"><u>Live Streaming Mastery with ManyCam: Ultimate Virtual Camera Software</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/live-streaming-mastery-capture-your-moments-with-manycam-and-virtual-cam-tech/"><u>Live Streaming Mastery: Capture Your Moments with ManyCam and Virtual Cam Tech</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/live-streaming-mastery-discover-the-power-of-manycam-as-top-tier-video-capture-software/"><u>Live Streaming Mastery: Discover the Power of ManyCam as Top-Tier Video Capture Software</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/live-streaming-mastery-discover-the-power-of-manycam-your-ultimate-virtual-webcam-solution/"><u>Live Streaming Mastery: Discover the Power of ManyCam, Your Ultimate Virtual Webcam Solution</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/live-streaming-pro-master-the-art-of-broadcasting-with-manycam-and-virtual-webcams/"><u>Live Streaming Pro: Master the Art of Broadcasting with ManyCam and Virtual Webcams</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/master-your-online-presence-using-manycams-powerful-live-webcam-software-solutions/"><u>Master Your Online Presence Using ManyCam's Powerful Live Webcam Software Solutions</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-device-footage-to-youtube-shorts-your-streamlined-approach/"><u>[New] 2024 Approved From Device Footage to YouTube Shorts - Your Streamlined Approach</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-gain-traction-in-the-algorithm-the-insiders-manual-for-featured-channels/"><u>[New] 2024 Approved Gain Traction in the Algorithm The Insider's Manual for Featured Channels</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-from-making-dreams-real-steps-towards-becoming-a-vtuber-for-2024/"><u>[New] From Making Dreams Real Steps Towards Becoming a VTuber for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-gain-traction-on-youtube-deciphering-ranking-principles-for-2024/"><u>[New] Gain Traction on YouTube Deciphering Ranking Principles for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-gamers-ultimate-guide-selecting-the-best-video-card-brands/"><u>[New] In 2024, Gamer’s Ultimate Guide Selecting the Best Video Card Brands</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-in-2024-how-to-polish-your-tiktok-edits-advanced-strategies-for-success/"><u>[New] In 2024, How to Polish Your TikTok Edits Advanced Strategies for Success</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-generating-a-custom-youtube-subscriber-url/"><u>[Updated] 2024 Approved Generating a Custom YouTube Subscriber URL</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-make-a-cool-intro-for-youtube-plusfree-templates-for-2024/"><u>[Updated] How to Make a Cool Intro for YouTube? [+Free Templates] for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-streamline-your-shots-a-windows-11-guide/"><u>[Updated] Streamline Your Shots A Windows 11 Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723209088096-audio-fix-eliminate-crackling-from-your-speakers-on-windows-11-and-7/"><u>Audio Fix: Eliminate Crackling From Your Speakers on Windows 11 and 7!</u></a></li>
+<li><a href="https://driver-download.techidaily.com/free-download-official-hp-designjet-t720-printer-drivers/"><u>Free Download: Official HP DesignJet T720 Printer Drivers</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-reset-your-realme-gt-3-lock-screen-password-by-drfone-android/"><u>In 2024, How to Reset your Realme GT 3 Lock Screen Password</u></a></li>
+<li><a href="https://driver-download.techidaily.com/install-your-logitech-speaker-drivers-today-download-now-for-win11win7win8-systems/"><u>Install Your Logitech Speaker Drivers Today! Download Now for Win11/Win7/Win8 Systems</u></a></li>
+<li><a href="https://driver-error.techidaily.com/keystone-illumination-error-asus/"><u>Keystone Illumination Error - Asus</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/tactical-defenses-against-fraudgpt-your-cybersecurity-companion/"><u>Tactical Defenses Against FraudGPT: Your Cybersecurity Companion</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/unlocking-the-power-of-smart-lock-a-beginners-guide-for-xiaomi-redmi-12-5g-users-by-drfone-android/"><u>Unlocking the Power of Smart Lock A Beginners Guide for Xiaomi Redmi 12 5G Users</u></a></li>
 </ul></div>
 

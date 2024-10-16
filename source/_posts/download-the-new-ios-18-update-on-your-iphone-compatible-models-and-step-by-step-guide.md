@@ -1,7 +1,7 @@
 ---
 title: "Download the New iOS 18 Update on Your iPhone: Compatible Models and Step-by-Step Guide"
-date: 2024-10-03T17:12:45.041Z
-updated: 2024-10-09T17:00:34.694Z
+date: 2024-10-08T17:22:01.156Z
+updated: 2024-10-15T17:58:51.582Z
 tags:
   - apple
 categories:
@@ -33,16 +33,10 @@ Jason Hiner/ZDNET
 **What you need:** An iPhone running iOS 16.5 or later. Since not all iPhones are compatible with iOS 18, you'll also need a model [newer than the iPhone X](https://www.zdnet.com/article/best-iphone/).
 
 <!-- affiliate ads begin -->
-<span id="1983582">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983582.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983582">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983582.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983582%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983582/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1997690/19272" target="_top" id="1997690">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997690" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997690/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 1\. Go to General in your iPhone Settings
@@ -54,10 +48,16 @@ Go to your iPhone's Settings and select General.
 Within General, tap on Software Update. This will show you if the iOS 18 update is available for you to download.
 
 <!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398455/3022" target="_top" id="398455">
-  <img src="//a.impactradius-go.com/display-ad/3022-398455" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398455/3022" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1516072">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1516072.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1516072">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1516072.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1516072%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1516072/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Download and install
@@ -65,10 +65,10 @@ Within General, tap on Software Update. This will show you if the iOS 18 update 
 When you tap on Software Update, your iPhone will check for the latest version of iOS available. Then, you'll be able to Download and Install the new update. Your iPhone will begin the download immediately.
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005196/22899" target="_top" id="2005196">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005196" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123733/7443" target="_top" id="2123733">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123733" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005196/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123733/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Enter your passcode and follow steps to install
@@ -78,13 +78,6 @@ Enter your passcode, if necessary, to authorize the installation of the new iOS 
 After installing the latest iOS update, your iPhone will restart.
 
 ## FAQs
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005184/22899" target="_top" id="2005184">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005184" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005184/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### When is Apple Intelligence coming out?
 
@@ -114,6 +107,13 @@ You'll need an iPhone running iOS 16.5 or later. Since not all iPhones are compa
 4. Select iOS 18 Public Beta. Then you'll begin receiving automatic software updates to the latest beta version of iOS 18\. Apple currently has four beta versions of iOS: iOS 18 public beta, iOS 18 developer beta, iOS 17 public beta, and iOS 17 developer beta. These four options will soon be reduced to just the two iOS 18 variants. Once you do this, return to the previous page. If an update is available now, your iPhone will prompt you to download and install it.
 
 Screenshot: Maria Diaz/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139115/17108" target="_top" id="2139115">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139115" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139115/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### How to download the iOS 18 developer beta?
 
@@ -175,24 +175,24 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-a-step-by-step-guide-to-creating-unique-facebook-video-content/"><u>[New] In 2024, A Step-by-Step Guide to Creating Unique Facebook Video Content</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-in-2024-the-clear-out-instructions-for-disabling-an-old-linkedin-profile/"><u>[Updated] In 2024, The Clear-Out Instructions for Disabling an Old LinkedIn Profile</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/boost-fps-performance-and-achieve-fluid-motion-in-games-using-cutting-edge-artificial-intelligence-frame-rate-upscale-technology/"><u>Boost FPS Performance & Achieve Fluid Motion in Games Using Cutting-Edge Artificial Intelligence Frame Rate Upscale Technology</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/boost-your-videos-with-winxvideo-ai-expert-tips-for-enhancing-and-transforming-footage-quickly/"><u>Boost Your Videos with Winxvideo AI - Expert Tips for Enhancing & Transforming Footage Quickly</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/conversion-gratuite-de-fichiers-mp3-vers-mkv-en-ligne-avec-movavi-guide-complet/"><u>Conversion Gratuite De Fichiers MP3 Vers MKV en Ligne Avec Movavi - Guide Complet</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/download-mac-dvd-ripper-for-free-convert-your-dvd-collection-into-modern-video-formats-compatible-with-all-devices/"><u>Download Mac DVD Ripper for Free - Convert Your DVD Collection Into Modern Video Formats Compatible with All Devices!</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/essential-steps-for-adding-the-av1-video-encoder-to-windows-1011-systems-top-picks/"><u>Essential Steps for Adding the AV1 Video Encoder to Windows 10/11 Systems - Top Picks!</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/immersive-world-of-tamriel-reimagined-for-the-switch-in-the-elder-scrolls-v-skyrim/"><u>Immersive World of Tamriel Reimagined for the Switch in The Elder Scrolls V: Skyrim</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-solved-move-from-oneplus-nord-n30-5g-to-ios-not-working-problems-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Solved Move from OnePlus Nord N30 5G to iOS not Working Problems | Dr.fone</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/in-depth-evaluation-of-the-nokia-31-for-budget-beginners/"><u>In-Depth Evaluation of the Nokia 3.1 for Budget Beginners</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/los-mejores-programas-de-grabacion-de-pantalla-para-windows-toma-capturas-completas-de-escena-en-pc-con-versiones-1187/"><u>Los Mejores Programas De Grabacion De Pantalla Para Windows: Toma Capturas Completas De Escena en PC Con Versiones 11/8/7</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/navigating-video-transformations-in-vlc-from-mp4-variety-for-2024/"><u>Navigating Video Transformations in VLC From MP4 Variety for 2024</u></a></li>
-<li><a href="https://ai-topics.techidaily.com/new-a-detailed-and-trustworthy-review-of-murfai-ai-text-to-speech-tool/"><u>New A Detailed and Trustworthy Review of Murf.ai AI Text-to-Speech Tool</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/section-2a-sonata-allegro-form-and-movement-structure-in-classical-symphonies/"><u>Section 2A: Sonata-Allegro Form and Movement Structure in Classical Symphonies</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/software-digitaria-termos-do-contrato-de-licenca-para-o-usuario-final-do-windows-and-dvd/"><u>Software Digitaria: Termos Do Contrato De Licença Para O Usuário Final Do Windows & DVD</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/sony-a6400-the-unseen-movie-problem-for-2024/"><u>Sony A6400 The Unseen Movie Problem for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/transforming-pal-dvds-into-universal-file-types-your-comprehensive-tutorial/"><u>Transforming PAL DVDs Into Universal File Types - Your Comprehensive Tutorial</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/ultimate-list-of-the-best-13-free-dvd-player-software-options-for-windows-11-users/"><u>Ultimate List of the Best 13 FREE DVD Player Software Options for Windows 11 Users</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/windows-10-crisis-looms-for-microsoft-only-a-single-year-remains-to-fix-the-issues-techinsight/"><u>Windows 10 Crisis Looms for Microsoft - Only a Single Year Remains to Fix the Issues | TechInsight</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-7-comedy-youtube-video-ideas-that-only-funny-people-are-allowed-to-try/"><u>[New] 2024 Approved 7 Comedy YouTube Video Ideas That Only Funny People Are Allowed to Try</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-fresh-face-finds-budget-friendly-platforms-to-purchase/"><u>[New] 2024 Approved Fresh Face Finds Budget-Friendly Platforms to Purchase</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-free-to-paid-subscriber-count-surpasses-500/"><u>[New] 2024 Approved From Free to Paid Subscriber Count Surpasses 500</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-zero-to-hero-in-youtube-traffic/"><u>[New] 2024 Approved From Zero to Hero in YouTube Traffic</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/inge-on-christmas-classics-enjoy-9-whole-film-flicks-no-charge/"><u>[New] Binge on Christmas Classics Enjoy 9 Whole-Film Flicks No Charge!</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-get-going-on-youtube-video-upload-tutorial-in-premiere-for-2024/"><u>[New] Get Going on YouTube Video Upload Tutorial in Premiere for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-how-to-add-chapters-to-youtube-videos-for-2024/"><u>[New] How to Add Chapters to YouTube Videos for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-free-and-secure-3-ways-to-extract-youtube-music-content/"><u>[New] In 2024, Free and Secure 3 Ways to Extract YouTube Music Content</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-in-2024-top-10-drones-with-longest-flight-time/"><u>[New] In 2024, Top 10 Drones with Longest Flight Time</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-learn-to-use-vlcs-screen-recorder-today/"><u>[New] Learn to Use VLC's Screen Recorder Today</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-first-steps-on-the-path-equipment-for-beginners/"><u>[Updated] 2024 Approved First Steps on the Path Equipment for Beginners</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-execute-flawless-wirecast-broadcasts-on-youtube/"><u>[Updated] 2024 Approved How to Execute Flawless WireCast Broadcasts on YouTube</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-use-creative-commons-copyright-licenses/"><u>[Updated] In 2024, How to Use Creative Commons Copyright Licenses?</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-embarking-on-a-listening-odyssey-adding-podcasts-to-itunes-via-ios/"><u>2024 Approved Embarking on a Listening Odyssey Adding Podcasts to iTunes via iOS</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/bringing-life-back-to-frozen-airpods-the-ultimate-fix-and-reset-guide/"><u>Bringing Life Back to Frozen AirPods: The Ultimate Fix and Reset Guide</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-cast-oppo-reno-11-pro-5g-screen-to-pc-using-wifi-drfone-by-drfone-android/"><u>How to Cast Oppo Reno 11 Pro 5G Screen to PC Using WiFi | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-install-epson-v600-driver-step-by-step-guide-with-download-links/"><u>How to Install Epson V600 Driver: Step-by-Step Guide with Download Links</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-5-ways-to-transfer-music-from-apple-iphone-8-to-android-drfone-by-drfone-transfer-from-ios/"><u>In 2024, 5 Ways to Transfer Music from Apple iPhone 8 to Android | Dr.fone</u></a></li>
+<li><a href="https://discover-hacks.techidaily.com/transformacion-gratuita-y-en-linea-de-archivos-sin-perdida-de-calidad-al-formato-wav/"><u>Transformación Gratuita Y en Línea De Archivos Sin Pérdida De Calidad Al Formato WAV</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "1. Apple's Latest Innovation: Exploring Enhancements in the New 3Rd Gen AirPods - A Comprehensive ZDNet Review"
-date: 2024-10-05T00:17:53.943Z
-updated: 2024-10-09T22:27:19.359Z
+date: 2024-10-11T07:42:58.650Z
+updated: 2024-10-16T09:25:25.695Z
 tags:
   - apple
 categories:
@@ -71,6 +71,13 @@ The voice assistant will also be able to perform hundreds of new actions across 
 
 Apple is also upgrading Siri to understand text, allowing users to type or speak to Siri as needed. 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915865/19272" target="_top" id="1915865">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915865" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915865/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## What's new in Apple's photo editing & search?
 
 Apple
@@ -96,10 +103,10 @@ The same feature can help users make major edits to text, such as changing the t
 Apple devices will also get AI upgrades for recordings and transcriptions in Voice Memos and Phone, as users can quickly transcribe voice notes with AI.
 
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1815678/21290" target="_top" id="1815678">
-  <img src="//a.impactradius-go.com/display-ad/21290-1815678" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137213/26400" target="_top" id="2137213">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137213" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815678/21290" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137213/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## What is Image Playground?
@@ -114,6 +121,13 @@ In the Notes app, for example, a new tool called Image Wand will let you circle 
 
 Image Playground will be available in beta this fall, and some features will be released over the next year.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136618/26400" target="_top" id="2136618">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136618" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136618/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Is ChatGPT coming to iPhone, iPad, and Mac?
 
 Apple
@@ -127,10 +141,10 @@ When users make a Siri request that the voice assistant determines would be bett
 Apple says its ChatGPT integration has privacy protections in place, with obscured IP addresses and no request storage by OpenAI. ChatGPT on iPhone, iPad, and Mac will be free to use, provided the device is compatible with the latest operating system. [Paying ChatGPT users](https://www.zdnet.com/article/chatgpt-vs-chatgpt-plus-is-a-paid-subscription-still-worth-it/) will get access to additional Plus features.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528696/16446" target="_top" id="1528696">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528696" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528696/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Will Apple Intelligence be processed on-device or in the cloud?
@@ -149,13 +163,6 @@ Apple is leveraging what it calls Private Cloud Compute for complex tasks that r
 
 Depending on its complexity and system requirements, an algorithm will determine whether a task requiring AI should be processed on-device or offloaded to the cloud. Simpler tasks like a Siri request and other basic NLP tasks can be processed on-device. More complex tasks, like generating a detailed summary of a large document, will be sent to the cloud, where more robust processing can occur. 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135411/19272" target="_top" id="2135411">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135411" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135411/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Is Apple Intelligence actually private and secure?
 
 Apple
@@ -170,13 +177,6 @@ The company is striving to keep the AI features secure through several mechanism
 * **Independent code review:** With Private Cloud Compute, Apple explained that the code is available for independent experts to inspect and verify it meets privacy standards.
 * **Data encryption:** Apple encrypts all data sent to and from its servers as another layer of security.
 * **Ability to opt out:** Perhaps most importantly, users can opt-in for Apple Intelligence features, which will be introduced as beta versions as Apple works to improve its AI capabilities over time.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105877/7443" target="_top" id="2105877">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105877" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105877/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## What are the technical requirements for Apple Intelligence?
 
@@ -218,21 +218,19 @@ While these AI features may help drive sales of new iPhones and Macs, as a curre
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-save-fb-pages-with-a-click-top-8-tools-available-online-and-free-for-2024/"><u>[New] Save FB Pages with a Click Top 8 Tools Available Online & FREE for 2024</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-top-11-tools-for-enthusiasts-to-rip-and-save-videos/"><u>[Updated] In 2024, Top 11 Tools for Enthusiasts to Rip and Save Videos</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-navigating-the-snapchat-ecosystem-for-biz-growth-for-2024/"><u>[Updated] Navigating the Snapchat Ecosystem for Biz Growth for 2024</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-shotchrome-ultra-premium-chromeos-snapshooter/"><u>[Updated] ShotChrome Ultra Premium ChromeOS Snapshooter</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-five-steps-to-enhance-your-screenplay-narration/"><u>2024 Approved Five Steps to Enhance Your Screenplay Narration</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/windows-media-center-how-to-fix-windows-media-center-issues-a-cross-platform-guide/"><u>解決Windows Media Center不起作用的方法：跨系統指南 (How to Fix Windows Media Center Issues: A Cross-Platform Guide)</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/iphoneandroidcd-pc/"><u>最強のスマートフォンミュージックインポート手順：iPhone・Android用CDから簡単に楽曲取り込み - PCを使わない方法</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/converting-photographic-moments-into-cinematic-vignettes/"><u>Converting Photographic Moments Into Cinematic Vignettes</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/die-besten-kostenlosen-videokonverter-fur-mac-im-jahr-2023-umfassender-testbericht-und-downloadverzeichnis/"><u>Die Besten Kostenlosen Videokonverter Für Mac Im Jahr 2023 - Umfassender Testbericht Und Downloadverzeichnis</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/1725286857351-dvddvd/"><u>DVDへの変換マスタークラス：ビデオ対象全自動DVD作成方法</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/effective-techniques-to-reduce-or-change-high-definition-4k-content-to-standard-1080p-resolution/"><u>Effective Techniques to Reduce or Change High Definition 4K Content to Standard 1080P Resolution</u></a></li>
-<li><a href="https://article-helps.techidaily.com/mastering-the-art-of-audio-blending-in-audacity/"><u>Mastering the Art of Audio Blending in Audacity</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/methoden-um-schutzmechanismen-auf-disney-filmen-zu-entfernen-und-dvds-zu-kopieren/"><u>Methoden, Um Schutzmechanismen Auf Disney-Filmen Zu Entfernen Und DVDs Zu Kopieren</u></a></li>
-<li><a href="https://fox-that.techidaily.com/step-by-step-solutions-for-non-functioning-guided-access-on-iphones/"><u>Step-by-Step Solutions for Non-Functioning Guided Access on iPhones</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/1725286658574-winx-dvd/"><u>WinX DVD 리퍼, 비디오 컨버터 소프트웨어를 무료로 다운로드 - 보고장을 위해서는 이곳에서</u></a></li>
-<li><a href="https://blog-min.techidaily.com/winxdvd-mastery-a-comprehensive-step-by-step-tutorial/"><u>WinXDVD Mastery: A Comprehensive Step-by-Step Tutorial</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-guide-to-getting-1000-subscribers-for-your-youtube-channel/"><u>[New] In 2024, Guide to Getting 1000 Subscribers for Your YouTube Channel</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-streamlining-screen-recording/"><u>[New] In 2024, Streamlining Screen Recording</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-flipping-scripts-generating-parody-content/"><u>[Updated] 2024 Approved Flipping Scripts Generating Parody Content</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-go-global-with-music-transform-your-spotify-lists-into-youtube-videos/"><u>[Updated] 2024 Approved Go Global with Music Transform Your Spotify Lists Into YouTube Videos</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-compose-captivating-youtube-intros-for-free/"><u>[Updated] 2024 Approved How To Compose Captivating YouTube Intros for FREE</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-find-the-perfect-free-video-editor-app-for-iphones-and-ipads-for-2024/"><u>[Updated] Find the Perfect Free Video Editor App for iPhones & iPads for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-photos-to-feeds-selecting-the-best-9-gear-upgrades/"><u>[Updated] In 2024, From Photos to Feeds Selecting the Best 9 Gear Upgrades</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/explore-the-performance-and-security-features-of-asuss-ac68u-the-ultimate-guide-to-its-5g-wi-fi-potential/"><u>Explore the Performance and Security Features of Asus's AC68U – The Ultimate Guide to Its 5G Wi-Fi Potential</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-3-ways-to-track-honor-magic-5-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Track Honor Magic 5 without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-7-ways-to-unlock-a-locked-itel-p40plus-phone-by-drfone-android/"><u>In 2024, 7 Ways to Unlock a Locked Itel P40+ Phone</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-film-like-a-pro-a-beginners-guide-to-high-quality-video-production/"><u>In 2024, Film Like a Pro A Beginners Guide to High-Quality Video Production</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/innovative-dual-functionality-of-the-arlo-video-doorbell-for-modern-homes/"><u>Innovative Dual Functionality of the Arlo Video Doorbell for Modern Homes</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/our-favourite-selection-of-five-superior-international-voice-apps-at-zero-cost/"><u>Our Favourite Selection of Five Superior International Voice Apps at Zero Cost!</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-future-of-pedagogy-top-8-advantages-of-embracing-artificial-intelligence/"><u>The Future of Pedagogy: Top 8 Advantages of Embracing Artificial Intelligence</u></a></li>
 </ul></div>
 

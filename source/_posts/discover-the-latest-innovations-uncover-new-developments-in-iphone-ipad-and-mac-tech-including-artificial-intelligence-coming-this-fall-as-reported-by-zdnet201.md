@@ -1,7 +1,7 @@
 ---
 title: Discover the Latest Innovations! Uncover New Developments in iPhone, iPad, and Mac Tech Including Artificial Intelligence Coming This Fall as Reported by ZDNET
-date: 2024-10-08T02:36:20.010Z
-updated: 2024-10-09T21:39:24.475Z
+date: 2024-10-12T01:50:03.477Z
+updated: 2024-10-15T18:26:45.367Z
 tags:
   - apple
 categories:
@@ -60,13 +60,6 @@ Maria Diaz/ZDNET
 * In the Notes app, users can **record and transcribe audio**, which Apple Intelligence will generate a text summary of. This experience is also available in the Notes phone app.
 * Apple Intelligence is free on iOS 18, iPadOS 18, and MacOS Sequoia, and will be available to try in English only this summer.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135349/19272" target="_top" id="2135349">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135349" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135349/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Partnership with OpenAI
 
 Jason Hiner/ZDNET
@@ -74,6 +67,13 @@ Jason Hiner/ZDNET
 * Apple also confirmed its partnership with OpenAI by integrating [ChatGPT](https://www.zdnet.com/article/what-is-chatgpt-and-why-does-it-matter-heres-everything-you-need-to-know/) with Siri. With a user's permission, Siri can send a request to ChatGPT for help. For example, if you ask Siri for assistance on a task it deems better for ChatGPT, Siri will suggest you use the chatbot instead and forward your request. ChatGPT's writing capabilities can also be leveraged within certain writing tasks.
 * Users can access ChatGPT via this integration for free, and OpenAI will not log their data. ChatGPT Plus users can connect their subscriptions to access more advanced features, in which case OpenAI's data usage policies apply.
 * The ChatGPT integration will be coming to iOS 18, iPadOS 18, and MacOS Sequoia later this year.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## iOS 18
 
@@ -93,6 +93,13 @@ Adam Breeden/ZDNET
 * The **Safari app** was upgraded to include key information about a webpage. You can read more about the Safari upgrades under the MacOS section of this article.
 * The **Calendar app** can now pull from the Reminders app for a more seamless schedule overview.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105874/7443" target="_top" id="2105874">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105874" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105874/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## WatchOS 11
 
 Adam Breeden/ZDNET
@@ -107,13 +114,6 @@ Adam Breeden/ZDNET
 * **Check In** is available on Apple Watch, even during workouts, to help users stay safe. **Translate** is also coming to Apple Watch so users can translate text right from their wrists.
 * Another notable change is that the **double tap gesture** can be used to scroll through apps.
 
-<!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576477/17382" target="_top" id="1576477">
-  <img src="//a.impactradius-go.com/display-ad/17382-1576477" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576477/17382" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## iPadOS 18
 
 Adam Breeden/ZDNET
@@ -123,6 +123,13 @@ Adam Breeden/ZDNET
 * In a long-awaited release, iPads will now have a **[calculator app](https://www.zdnet.com/article/after-14-years-apple-expected-to-unveil-the-ipad-app-weve-all-been-waiting-for-at-wwdc/)** for the first time, complete with the same interface as the one currently found on iPhones. Plus, users can use it with the Apple Pencil through a new **Math Notes** experience, which allows users to write expressions that the calculator app will solve for them once they type the equal sign, in their own handwriting,
 * Handwriting in Notes also got an upgrade with **Smart** **Script**, which refines users' writing to make it more legible while keeping the authenticity of the user's handwriting style. The feature can also match copied and pasted text to the user's handwriting. Typed text was also enhanced, with five new highlight colors and the ability to toggle sections under headings or subheadings.
 * iPadOS 18 supports **screen-sharing via SharePlay** and the same Control Center customizations, Photos app upgrades, Safari updates, and emoji Tapbacks found in **iOS 18.**
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135368/19272" target="_top" id="2135368">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135368" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135368/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## MacOS 15 (Sequoia)
 
@@ -134,13 +141,6 @@ Adam Breeden/ZDNET
 * **Video meetings** are also getting an upgrade, with new backgrounds and a preview experience that allows you to see what you are about to share before sharing it. This feature works with popular video conferencing applications such as FaceTime and Zoom.
 * The **AI summarization** tool will live in Safari to help users process content like web pages and articles more efficiently. Safari will also assist users in discovering more helpful information about a page they are browsing when relevant, such as directions.
 * Apple also launched a new **Viewer experience**, which does for video what Reader does for text.
-
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098705/14409" target="_top" id="2098705">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098705" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098705/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## VisionOS 2
 
@@ -168,10 +168,10 @@ Jason Hiner/ZDNET
 * Apple is also releasing a **Personalized Spatial Audio API** for game developers to build around the AirPods' audio technology.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012420/19272" target="_top" id="2012420">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012420" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012420/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## tvOS 18
@@ -218,17 +218,22 @@ Screenshot by Nina Raemont/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-support.techidaily.com/updated-mastering-audio-transformation-complete-morphvox-techniques/"><u>[Updated] Mastering Audio Transformation Complete MorphVOX Techniques</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/all-about-factory-reset-what-is-it-and-what-it-does-to-your-oneplus-ace-3-drfone-by-drfone-reset-android-reset-android/"><u>All About Factory Reset, What Is It and What It Does to Your OnePlus Ace 3? | Dr.fone</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/convertissez-vos-fichiers-dts-au-format-flac-gratuitement-avec-le-convertisseur-en-ligne-de-movavi/"><u>Convertissez Vos Fichiers DTS Au Format FLAC Gratuitement Avec Le Convertisseur en Ligne De Movavi</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/descargar-y-convertir-archivos-webm-a-formato-de-audio-libre-de-codigo-abierto-ogg-online-sin-costo/"><u>Descargar Y Convertir Archivos Webm a Formato De Audio Libre De Código Abierto Ogg Online Sin Costo</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/discover-the-best-free-mp4-editor-software-for-202macoswindows-top-picks-for-your-videos/"><u>Discover the Best FREE MP4 Editor Software for 202([MacOS/Windows]) - Top Picks for Your Videos</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/effimero-non-gratuito-si-converti-immagini-webp-a-jpeg-senza-costi-con-photoconvertpro/"><u>Effimero Non, Gratuito Sì! Converti Immagini WEBP a JPEG Senza Costi Con PhotoConvertPro</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/hoewelikomme-er-voor-bij-het-creeren-van-een-persoonlijk-quiz-tentoonstelling/"><u>Hoewelikomme Er Voor Bij Het Creëren Van Een Persoonlijk Quiz-Tentoonstelling</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/ignite-your-marketing-flame-sparkling-strategies-for-smm-success/"><u>Ignite Your Marketing Flame Sparkling Strategies for SMM Success</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-5-solutions-for-zte-blade-a73-5g-unlock-without-password-by-drfone-android/"><u>In 2024, 5 Solutions For ZTE Blade A73 5G Unlock Without Password</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-how-to-use-zoom-in-your-daily-gmail-routine/"><u>In 2024, How to Use Zoom in Your Daily Gmail Routine</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/shadow-surge-and-sun-sweep-encounter/"><u>Shadow Surge and Sun Sweep Encounter</u></a></li>
-<li><a href="https://solve-helper.techidaily.com/step-by-step-guide-converting-dvd-films-into-xbox-format-for-in-home-cinema-experience/"><u>Step-by-Step Guide: Converting DVD Films Into Xbox Format for In-Home Cinema Experience</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-essential-steps-to-create-youtube-beginnings-and-ends-on-a-budget/"><u>[New] 2024 Approved Essential Steps to Create YouTube Beginnings & Ends on a Budget</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-send-hidden-youtube-videos-using-google-login/"><u>[New] 2024 Approved How to Send Hidden YouTube Videos Using Google Login</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-how-to-convert-youtube-videos-to-mp3-songs-on-mac-for-2024/"><u>[New] How to Convert YouTube Videos to MP3 Songs on Mac for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-gamers-galaxy-100plus-spaces-of-play/"><u>[New] In 2024, Gamer's Galaxy 100+ Spaces of Play</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-get-into-the-game-starting-an-apple-powered-sports-network/"><u>[New] In 2024, Get Into the Game Starting an Apple-Powered Sports Network</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/outube-video-ranking-factors-that-will-affect-your-rank/"><u>[New] YouTube Video Ranking - Factors that Will Affect Your Rank</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-building-a-successful-career-through-youtube-short-film-making/"><u>[Updated] 2024 Approved Building a Successful Career Through YouTube Short Film-Making</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-free-visual-templates-to-upgrade-your-profile-for-2024/"><u>[Updated] Free Visual Templates to Upgrade Your Profile for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-gastronomy-gurus-essential-chefs-to-subscribe-to-for-2024/"><u>[Updated] Gastronomy Gurus Essential Chefs to Subscribe To for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-grasp-the-basics-of-sub4sub-success-our-guide-lays-it-out-clearly-for-2024/"><u>[Updated] Grasp the Basics of Sub4sub Success - Our Guide Lays It Out Clearly for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-use-creative-commons-copyright-licenses-in-2024/"><u>[Updated] How to Use Creative Commons Copyright Licenses, In 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-seamlessly-scaling-photos-and-videos-via-iphone-features/"><u>2024 Approved Seamlessly Scaling Photos & Videos via iPhone Features</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/creating-immersive-iphone-360-reels-for-social-media/"><u>Creating Immersive iPhone 360 Reels for Social Media</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/firefox-pip-simplified-for-the-everyday-user-for-2024/"><u>Firefox PIP Simplified for the Everyday User for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/fixes-for-apps-keep-crashing-on-infinix-note-30-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixes for Apps Keep Crashing on Infinix Note 30 5G | Dr.fone</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-2024-approved-mac-video-editing-made-easy-download-splice-now/"><u>New 2024 Approved Mac Video Editing Made Easy Download Splice Now</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/pioneering-practices-for-type-in-ae-projects-for-2024/"><u>Pioneering Practices for Type in AE Projects for 2024</u></a></li>
 </ul></div>
 

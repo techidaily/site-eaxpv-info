@@ -1,7 +1,7 @@
 ---
 title: "Boost Your Productivity with XR Glasses On-the-Go: Discovering the New Trilogy of Upgrades | CNET"
-date: 2024-10-07T19:41:48.330Z
-updated: 2024-10-09T17:36:00.867Z
+date: 2024-10-11T17:04:39.995Z
+updated: 2024-10-15T20:57:36.947Z
 tags:
   - apple
 categories:
@@ -81,10 +81,16 @@ Along with the [Viture Pro XR glasses](https://buy.geni.us/Proxy.ashx?TSID=36825
 Lastly, Viture announced a new limited-edition controller in partnership with 8BitDo. You can connect this new controller, with a classic XBox-style controller layout, via Bluetooth to your gaming device, including the Nintendo Switch. The smokey translucent design looks cool and matches the Viture ecosystem. The 8BitDo controller also serves as a companion to the Viture Neckband, but I have yet to try out the Neckband, so I cannot share my experiences with that accessory.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115921/19272" target="_top" id="2115921">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115921" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115921/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983573">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -121,22 +127,14 @@ The [Viture Pro XR glasses](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/que-sucede-cuando-transfiere-tu-pelicula-en-formato-dvd-directamente-a-tu-disco-duro-los-riesgos-y-por-que-no-hacerlo/"><u>¿Qué Sucede Cuando Transfiere Tu Película en Formato DVD Directamente a Tu Disco Duro? Los Riesgos Y Por Qué No Hacerlo</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/new-2024-approved-cracking-the-code-of-viral-success-with-tiktoks-top-strategies/"><u>[New] 2024 Approved Cracking the Code of Viral Success with TikTok's Top Strategies</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/new-explore-the-spectrum-of-light-with-windows-hdr-video-capabilities/"><u>[New] Explore the Spectrum of Light with Windows' HDR Video Capabilities</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-a-guide-to-navigating-instagrams-new-updates/"><u>[Updated] 2024 Approved A Guide to Navigating Instagram's New Updates</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-the-case-for-high-dynamic-range-in-modern-videography/"><u>[Updated] The Case for High Dynamic Range in Modern Videography</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-unlocking-social-media-success-start-with-facebook-insights/"><u>[Updated] Unlocking Social Media Success Start with Facebook Insights</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/a-comprehensive-guide-to-understanding-what-is-ffshow-the-media-processing-powerhouse/"><u>A Comprehensive Guide To Understanding What Is FFShow, The Media Processing Powerhouse.</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/converti-rapidamente-i-tuoi-file-multimediali-winxvideo-ai-offre-funzionalita-avanzate-della-gpu-per-velocita-ottimizzata/"><u>Converti Rapidamente I Tuoi File Multimediali: Winxvideo AI Offre Funzionalità Avanzate Della GPU per Velocità Ottimizzata</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/does-obs-support-av1-encoding-mastering-streaming-with-advanced-video-coding/"><u>Does OBS Support AV1 Encoding? Mastering Streaming with Advanced Video Coding.</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/free-conversion-guide-transform-avchd-video-format-into-mp4-on-your-windows-11-pc/"><u>Free Conversion Guide: Transform AVCHD Video Format Into MP4 on Your Windows 11 PC</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-6-online-here-are-6-easy-ways-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone 6 Online? Here are 6 Easy Ways</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/new-best-tool-to-translate-youtube-video-to-arabic-for-2024/"><u>New Best Tool to Translate YouTube Video to Arabic for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/preserving-quality-how-to-upload-full-hd-mp4-videos-directly-to-youtube-without-lossless-encoding/"><u>Preserving Quality: How to Upload Full HD MP4 Videos Directly to YouTube Without Lossless Encoding</u></a></li>
-<li><a href="https://location-social.techidaily.com/top-7-skype-hacker-to-hack-any-skype-account-on-your-realme-narzo-60-5g-drfone-by-drfone-virtual-android/"><u>Top 7 Skype Hacker to Hack Any Skype Account On your Realme Narzo 60 5G | Dr.fone</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/transforming-ultra-hd-footage-into-high-definition-a-step-by-step-guide/"><u>Transforming Ultra-HD Footage Into High Definition: A Step-by-Step Guide</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/troubleshooting-fixing-the-non-responsive-netflix-app-on-your-pc-with-windows-11-no-cost-options/"><u>Troubleshooting: Fixing the Non-Responsive Netflix App on Your PC with Windows 11 - No Cost Options</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/unveiling-the-finest-under-keyboard-comfort-products-a-2024-review/"><u>Unveiling the Finest Under-Keyboard Comfort Products: A 2024 Review</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-expert-tips-on-inserting-captions-into-youtube-videos-for-2024/"><u>[New] Expert Tips on Inserting Captions Into YouTube Videos for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-gamers-path-to-earnings-on-youtube/"><u>[New] In 2024, Gamer's Path to Earnings on YouTube</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-from-startup-to-success-skyrocketing-youtube-subs-for-2024/"><u>[Updated] From Startup to Success Skyrocketing Youtube Subs for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-how-much-money-flows-from-a-million-views-on-youtube-for-2024/"><u>[Updated] How Much Money Flows From A Million Views On YouTube for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-getting-your-foot-in-the-channels-door-must-haves/"><u>[Updated] In 2024, Getting Your Foot in the Channel's Door Must-Haves</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-olympic-snowboard-x-sprint-highlights-22/"><u>[Updated] Olympic Snowboard X Sprint Highlights '22</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/24-hour-heavyweights-top-10-most-watched-on-yt-for-2024/"><u>24 Hour Heavyweights Top 10 Most Watched on YT for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/in-2024-facebook-cover-video-widthheight-guide/"><u>In 2024, Facebook Cover Video Width/Height Guide</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unveiling-toms-gadget-reviews-the-ultimate-guide-to-hardware-innovations/"><u>Unveiling Tom's Gadget Reviews: The Ultimate Guide to Hardware Innovations</u></a></li>
 </ul></div>
 

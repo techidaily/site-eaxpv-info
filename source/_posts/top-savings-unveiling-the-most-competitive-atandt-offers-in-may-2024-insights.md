@@ -1,7 +1,7 @@
 ---
 title: "Top Savings: Unveiling the Most Competitive AT&T Offers in May 2024 - Insights"
-date: 2024-10-02T20:30:16.954Z
-updated: 2024-10-09T22:28:26.297Z
+date: 2024-10-13T00:10:53.095Z
+updated: 2024-10-16T05:19:18.625Z
 tags:
   - apple
 categories:
@@ -85,18 +85,18 @@ While the Series 8 isn't the latest and greatest Apple Watch, it's still a great
 
 [View now at Walmart](https://goto.walmart.com/c/5597632/565706/9383?sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FApple-Watch-Series-8-GPS-Cellular-45mm-Midnight-Aluminum-Case-Sport-Band-S-M-Fitness-Tracker-Blood-Oxygen-ECG-Apps-Always-On-Retina-Display%2F1490655580%3F&subId1=zd-__COM_CLICK_ID__-dtp) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027167/19272" target="_top" id="2027167">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027167" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027167/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Best refurbished Apple Watch deals of July 2024
 
 * [Apple Watch Series 7](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FApple-Watch-Cellular-Aluminum-Regular%2Fdp%2FB09Q4KVHGB%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C5097b272-8ec5-4da9-a978-84eeb95b607c%7Cdtp&dtb=1) (41mm, Clover Sport Band, Renewed): $220 (save $295)
 * [Apple Watch SE](https://goto.walmart.com/c/5597632/565706/9383?sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FRestored-Apple-Watch-SE-40mm-GPS-Cellular-Gold-Aluminum-Case-Starlight-Sport-Band%2F5031506033%3F&subId1=zd-__COM_CLICK_ID__-dtp) (40mm, Pink Sport Band, Restored): $124 (save $21)
 * [Apple Watch SE](https://goto.walmart.com/c/5597632/565706/9383?sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FApple-Watch-SE-GPS-Cellular-44mm-Gold-Aluminum-Case-with-Starlight-Sport-Band-Used%2F1620367883%3F&subId1=zd-__COM_CLICK_ID__-dtp) (44mm, GPS, Starlight Sport Band, Used): $125 (save $35)
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148646/16836" target="_top" id="2148646">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148646" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148646/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How did we choose these deals?
 
@@ -109,10 +109,16 @@ We also looked over customer reviews to find out what matters to real people who
 ZDNET's top pick for the [best Apple watch](https://www.zdnet.com/article/best-apple-watch/) is the Apple Watch Ultra 2 since it is lauded by athletes and members of the press as the best Apple Watch ever made thanks to its rugged durability, large and bright display, long battery life, water resistance, and more. It's no surprise it became the flagship model as soon as the Ultra was released last year. 
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134240/18498" target="_top" id="2134240">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134240" border="0" alt="https://techidaily.com" width="540" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134240/18498" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1993650">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Do Apple Watches track my AFib?
@@ -120,13 +126,6 @@ ZDNET's top pick for the [best Apple watch](https://www.zdnet.com/article/best-a
 Yes, your Apple Watch, as long as it is a Series 6 or newer, can track your AFib, or irregular heartbeat. In fact, The US Food and Drug Administration (FDA) has recently [awarded](https://content.govdelivery.com/accounts/USFDA/bulletins/399d551) medical device development tool (MDDT) status to the Apple Watch's atrial fibrillation (AFib) history tracker. The feature is first piece of digital health technology to earn MDDT status, the FDA said in a statement.
 
 **Also:** [**Your Apple Watch's AFib history could soon be used in clinical studies**](https://www.zdnet.com/article/your-apple-watchs-afib-history-could-soon-be-used-in-clinical-studies/)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997695/19272" target="_top" id="1997695">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997695" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997695/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Apple Watch SE vs Series 8: Which is the better buy?
 
@@ -136,16 +135,16 @@ However, if you want to get in at the lowest price or you're buying a watch for 
 
 **Also**: [**Watch Series 8 vs Series 9: Should you upgrade?**](https://www.zdnet.com/article/apple-watch-series-9-vs-apple-watch-series-8/) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## What is the newest Apple Watch?
 
 Apple has a lengthy lineup of its flagship tech wearable, with several iterations over the last few years. The two newest watch releases come in the Apple Watch Series 9 and the Apple Watch Ultra 2, which were released in September 2023\. The Apple Watch SE (2nd Gen) remains the most up-to-date base model. With multiple models available, both old and new, you'll be sure to find a watch that fits your needs and your price point. 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868575/19272" target="_top" id="1868575">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868575" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868575/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Which Apple watches have the new double tap feature?
 
@@ -160,6 +159,13 @@ Other band options include the Ocean Band, Alpine Loop, Milanese Loop, Trail Loo
 ## Are there any alternative smartwatches worth considering?
 
 The Apple watch models are not the only options for smart watches, despite their popularity. ZDNET rounded up the [best smartwatch deals](https://www.zdnet.com/article/best-black-friday-and-cyber-monday-smartwatch-deals-still-available/) so you can scope more alternative deals, including the Fitbit Versa 4, Fitbit Luxe, Google Pixel Watch, Samsung Galaxy Watch 6, and more. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118325/7443" target="_top" id="2118325">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118325" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118325/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## What does "trade-in" mean?
 
@@ -213,18 +219,24 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-guidance.techidaily.com/new-iphone-image-editing-mastering-photo-cropping-tools/"><u>[New] IPhone Image Editing Mastering Photo Cropping Tools</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/new-superior-cinematic-introductions-set/"><u>[New] Superior Cinematic Introductions Set</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/winxdvd-faq-digiarty/"><u>技術関連のWinXDVD FAQ: Digiarty ソフトウェアについて学ぶコツと一般的な対応方法</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/a-compreranial-expedition-into-high-quality-pictures-for-2024/"><u>A Compreranial Expedition Into High Quality Pictures for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/comprehensive-overview-of-digiarty-software-experts-in-winxdvd-solutions-for-businesses/"><u>Comprehensive Overview of Digiarty Software: Experts in WinXDVD Solutions for Businesses</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/convert-large-mp4-files-instantly-into-wmv-with-no-restrictions-on-size-or-quality/"><u>Convert Large MP4 Files Instantly Into WMV with No Restrictions on Size or Quality</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-top-11-free-apps-to-check-imei-on-oppo-reno-11f-5g-phones-by-drfone-android/"><u>In 2024, Top 11 Free Apps to Check IMEI on Oppo Reno 11F 5G Phones</u></a></li>
-<li><a href="https://win-lab.techidaily.com/mastering-line-removal-with-emeditors-custom-curtext-parsing-feature/"><u>Mastering Line Removal with EmEditor's Custom CurText Parsing Feature</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/resolving-the-dvd-shrink-issue-on-windows-11-comprehensive-guide/"><u>Resolving the DVD Shrink Issue on Windows 11: Comprehensive Guide</u></a></li>
-<li><a href="https://techidaily.com/simple-ways-to-get-lost-files-back-from-itel-p40plus-by-fonelab-android-recover-data/"><u>Simple ways to get lost files back from Itel P40+</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/the-pitfall-of-superficial-engagement-on-insta/"><u>The Pitfall of Superficial Engagement on Insta</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/unboxing-the-lightning-fast-netgear-nighthawk-rax120-the-fastest-routers-on-the-market-reviewed/"><u>Unboxing the Lightning-Fast Netgear Nighthawk RAX120: The Fastest Routers on the Market Reviewed!</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/winx-video-ai-page-2/"><u>WinX Video AIで動画の高画質化と美しさ向上: 全体を見る最良の方法 - Page 2</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-growth-hacks-for-youtubers-short-form-content-boosting-view-counts-effectively/"><u>[New] 2024 Approved Growth Hacks for YouTuber's Short Form Content Boosting View Counts Effectively</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-guides-on-creating-cost-free-youtube-beginnings-and-conclusions/"><u>[New] 2024 Approved Guides on Creating Cost-Free YouTube Beginnings & Conclusions</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-essential-youtube-beauty-influencers-10-creators-to-watch-for-2024/"><u>[New] Essential YouTube Beauty Influencers 10 Creators to Watch for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-from-capture-to-screen-the-complete-process-of-uploading-360-vids-on-youtube-for-2024/"><u>[New] From Capture to Screen The Complete Process of Uploading 360 Vids on YouTube for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-from-flv-to-youtube-stardom-top-10-video-conversion-tools-reviewed-for-2024/"><u>[New] From FLV to YouTube Stardom Top 10 Video Conversion Tools Reviewed for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-fast-paced-favorites-leading-background-music-in-yt-shorts/"><u>[New] In 2024, Fast-Paced Favorites Leading Background Music in YT Shorts</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-simple-guide-to-effective-and-smooth-iphone-screen-recordings/"><u>[New] Simple Guide to Effective & Smooth Iphone Screen Recordings</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-countering-harshness-maintaining-poise-online/"><u>[Updated] 2024 Approved Countering Harshness Maintaining Poise Online</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-elevate-youtube-rankings-with-optimized-metadata/"><u>[Updated] 2024 Approved How to Elevate YouTube Rankings with Optimized Metadata</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-premium-mp4-uploader-for-fb-networks/"><u>[Updated] 2024 Approved Premium MP4 Uploader for FB Networks</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-flipping-frames-innovative-techniques-for-backward-viewing-on-yt-for-2024/"><u>[Updated] Flipping Frames Innovative Techniques for Backward Viewing on YT for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-free-mp3s-galore-10-no-cost-online-tools-for-2024/"><u>[Updated] Free Mp3s Galore 10 No-Cost Online Tools for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-from-youtube-to-avi-perfect-conversion-tools-revealed-for-2024/"><u>[Updated] From YouTube to AVI Perfect Conversion Tools Revealed for 2024</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/evaluating-the-amazon-essentials-tablet-stand-a-perfect-travel-companion/"><u>Evaluating the Amazon Essentials Tablet Stand: A Perfect Travel Companion</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/in-2024-streamlining-film-shoots-a-beginners-guide/"><u>In 2024, Streamlining Film Shoots A Beginner's Guide</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/incorporate-live-captions-seamlessly-into-stories/"><u>Incorporate Live Captions Seamlessly Into Stories</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-adobe-premiere-pro-power-ups-top-15-free-plugins-to-boost-your-workflow/"><u>New 2024 Approved Adobe Premiere Pro Power-Ups Top 15 Free Plugins to Boost Your Workflow</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-guide-to-audio-extraction-from-dvds-speedy-software-solutions/"><u>Quick Guide to Audio Extraction From DVDs - Speedy Software Solutions</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/realizing-your-audio-based-ppt-with-easy-s2t-tools-for-2024/"><u>Realizing Your Audio-Based PPT with Easy S2T Tools for 2024</u></a></li>
 </ul></div>
 

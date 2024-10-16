@@ -1,7 +1,7 @@
 ---
 title: Overcome Your Portable Charger Woes with the Affordable $20 Anker Power Bank - Insights From ZDNet
-date: 2024-10-06T18:42:21.056Z
-updated: 2024-10-09T22:08:43.794Z
+date: 2024-10-13T16:26:59.231Z
+updated: 2024-10-16T06:12:32.690Z
 tags:
   - apple
 categories:
@@ -39,10 +39,10 @@ To Android users and new (or incoming) iPhone users who are looking to add a USB
 See, I have quibbles with many portable chargers. Those include forgetting a wire, not knowing where to hold the charger while it's charging my phone, and feeling like it takes forever to increase the battery percentage at all. This charger addresses all of the issues and more. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118306/7443" target="_top" id="2118306">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118306" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148636/16836" target="_top" id="2148636">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148636" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118306/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148636/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 
@@ -71,10 +71,16 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1186864/12108" target="_top" id="1186864">
-  <img src="//a.impactradius-go.com/display-ad/12108-1186864" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186864/12108" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983575">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983575.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983575">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983575.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983575%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983575/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Impressive charging power for its size
@@ -86,10 +92,10 @@ The 22.5W Power Bank packs 5,000mAh capacity, which is enough to charge an [iPho
 Although it might not seem like a tremendous boost, remember that this portable charger is meant to get you out of a pinch. If your phone died on you while you were out, getting a quarter of your battery back in under 30 minutes would be a lifesaver. 
 
 <!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557743/17382" target="_top" id="1557743">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557743" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135412/19272" target="_top" id="2135412">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135412" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557743/17382" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135412/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Charging the power bank is hassle-free
@@ -104,16 +110,16 @@ Sabrina Ortiz/ZDNET
 
 The charger comes in five colors: blue, black, white, green, and pink, matching every iPhone 15 color besides the yellow, which the white could be paired with instead.
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1828647/21290" target="_top" id="1828647">
-  <img src="//a.impactradius-go.com/display-ad/21290-1828647" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1828647/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## ZDNET's buying advice
 
 If you are searching for a new portable charger for your new iPhone or just because you are due for an upgrade, the [Anker Nano 22.5W Power Bank](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0C6XK77HJ%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C2488b094-9450-45fb-96b8-b3bc91f52db2%7Cdtp&dtb=1) is a good choice because it won't break the bank and will get the job done. The fun color options, effectiveness, size, and low price point even make it a good choice for gifting.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151859/7443" target="_top" id="2151859">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151859/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## When will this deal expire?
 
@@ -149,18 +155,20 @@ Deals are subject to sell-out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-smartphone-photographers-must-have-app-list/"><u>[New] Smartphone Photographers' Must-Have App List</u></a></li>
-<li><a href="https://fox-links.techidaily.com/new-ultimate-guide-to-2023s-top-value-zero-cost-live-broadcasting-tools-for-2024/"><u>[New] Ultimate Guide to 2023'S Top Value, Zero-Cost Live Broadcasting Tools for 2024</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/10-best-podcasts-microphones-for-2024/"><u>10 Best Podcasts Microphones for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/die-fuhrenden-programme-zum-umwandeln-von-videos-and-dvds-im-jahr-2021-abspulen-ohne-handbrake/"><u>Die Führenden Programme Zum Umwandeln Von Videos & DVDs Im Jahr 2021 - Abspulen Ohne Handbrake</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/discover-the-ultimate-selection-of-free-mp4-editors-top-picks-for-cross-platform-compatibility-windows-mac-linux/"><u>Discover the Ultimate Selection of Free MP4 Editors: Top Picks for Cross-Platform Compatibility (Windows, Mac, Linux)</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/guia-completa-para-obtener-y-usar-el-codificador-h265-libre-para-videos-hevc-sin-coste-alguno/"><u>Guía Completa Para Obtener Y Usar El Codificador H.265 Libre Para Videos HEVC Sin Coste Alguno</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/i-migliori-lettori-dvd-gratis-compatibili-con-windows-11-riproduci-tutti-i-tuoi-film-preferiti/"><u>I Migliori Lettori DVD Gratis Compatibili Con Windows 11: Riproduci Tutti I Tuoi Film Preferiti</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/lg-tv-and-netflix-woes-discover-effective-fixes-to-resume-streaming/"><u>LG TV and Netflix Woes? Discover Effective Fixes to Resume Streaming</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/ultimate-guide-transforming-your-dvd-files-into-mp4-using-windows-11-or-macos-top-strategies-revealed/"><u>Ultimate Guide: Transforming Your DVD Files Into MP4 Using Windows 11 or macOS - Top Strategies Revealed!</u></a></li>
-<li><a href="https://techidaily.com/update-your-drivers-with-device-manager-on-windows-11107-by-drivereasy-guide/"><u>Update your drivers with Device Manager on Windows 11/10/7</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/updated-in-2024-free-wmv-video-stitching-software-our-top-5-recommendations/"><u>Updated In 2024, Free WMV Video Stitching Software Our Top 5 Recommendations</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/vhs-nostalgia-made-easy-final-cut-pro-tutorials/"><u>VHS Nostalgia Made Easy Final Cut Pro Tutorials</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/vier-effektive-techniken-zum-sicherlegen-ihrer-dvd-inhalte-auf-die-festplatte/"><u>Vier Effektive Techniken Zum Sicherlegen Ihrer DVD-Inhalte Auf Die Festplatte</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-exploring-sky-vistas-yuneec-breezes-high-def-adventure/"><u>[New] Exploring Sky Vistas Yuneec Breeze's High-Def Adventure</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-fast-track-a-step-by-step-guide-for-swiftly-deleting-comments-on-youtube-for-2024/"><u>[New] Fast Track A Step by Step Guide for Swiftly Deleting Comments on YouTube for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-gain-massive-viewership-with-a-small-financial-investment-for-2024/"><u>[New] Gain Massive Viewership with a Small Financial Investment for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-fast-track-a-step-by-step-guide-for-swiftly-deleting-comments-on-youtube/"><u>[New] In 2024, Fast Track A Step by Step Guide for Swiftly Deleting Comments on YouTube</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-effective-methods-share-twitch-stream-on-facebook/"><u>[Updated] 2024 Approved Effective Methods | Share Twitch Stream on Facebook?</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-hidden-details-you-need-to-know-about-youtube-tv-service/"><u>[Updated] 2024 Approved Hidden Details You Need to Know About YouTube TV Service</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-mastering-visual-storytelling-with-vsco/"><u>[Updated] 2024 Approved Mastering Visual Storytelling with VSCO</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-free-themes-for-dynamic-youtuber-profiles-for-2024/"><u>[Updated] Free Themes for Dynamic YouTuber Profiles for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-flavorful-friends-top-gastronomy-guides-online/"><u>[Updated] In 2024, Flavorful Friends Top Gastronomy Guides Online</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-gamers-sound-selection-top-5-noise-canceling-earbuds/"><u>[Updated] In 2024, Gamers’ Sound Selection Top 5 Noise-Canceling Earbuds</u></a></li>
+<li><a href="https://video-capture.techidaily.com/capturing-your-device-a-comprehensive-screen-recording-guide-for-2024/"><u>Capturing Your Device A Comprehensive Screen Recording Guide for 2024</u></a></li>
+<li><a href="https://discover-community.techidaily.com/gratis-winx-transforme-videos-em-mp4-e-mp3-com-qualidade-de-4khd/"><u>Gratis WinX - Transforme Vídeos Em MP4 E MP3 Com Qualidade De 4K/HD</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-exclusive-top-quintessential-4k-hd-gear-list/"><u>In 2024, Exclusive Top Quintessential 4K HD Gear List</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-tips-of-transferring-messages-from-itel-p55-to-iphone-1415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Tips of Transferring Messages from Itel P55 to iPhone 14/15 | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/troubleshooting-error-connecting-to-the-apple-id-server-from-iphone-15-by-drfone-ios/"><u>Troubleshooting Error Connecting to the Apple ID Server From iPhone 15</u></a></li>
 </ul></div>
 

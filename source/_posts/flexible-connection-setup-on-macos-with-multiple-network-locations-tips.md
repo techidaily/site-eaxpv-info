@@ -1,7 +1,7 @@
 ---
 title: Flexible Connection Setup on macOS with Multiple Network Locations - Tips
-date: 2024-10-09T02:45:09.517Z
-updated: 2024-10-10T00:41:55.660Z
+date: 2024-10-14T07:13:56.159Z
+updated: 2024-10-16T08:41:47.474Z
 tags:
   - apple
 categories:
@@ -36,41 +36,35 @@ Let me show you how it works.
 
 **Also:** [**How to manage SSH connections on MacOS with Termius**](https://www.zdnet.com/article/how-to-manage-ssh-connections-on-macos-with-termius/) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087409/7443" target="_top" id="2087409">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087409" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087409/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to create different network locations in MacOS
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129739/7443" target="_top" id="2129739">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129739" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137206/26400" target="_top" id="2137206">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137206" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129739/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137206/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Requirements
 
 The only thing you'll need is a device running an updated version of MacOS. This feature works with both wired and wireless connections.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975836/19272" target="_top" id="1975836">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975836" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975836/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 1\. Open System Preferences
 
 Click the Apple menu at the top right of your display and select System Preferences from the menu.
 
 <!-- affiliate ads begin -->
-<span id="1982596">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982596.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982596">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982596.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982596%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982596/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2082536/7443" target="_top" id="2082536">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082536" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082536/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Open Network
@@ -78,10 +72,10 @@ Click the Apple menu at the top right of your display and select System Preferen
 From within System Preferences, click the Network icon to open the Network section.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037474/7443" target="_top" id="2037474">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037474" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139120/17108" target="_top" id="2139120">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139120" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037474/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139120/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Create a new network location
@@ -145,24 +139,22 @@ Fortunately, you are now empowered to more easily make that switch.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-the-quintessential-selection-5-must-have-mac-snipers-for-2024/"><u>[New] The Quintessential Selection 5 Must-Have Mac Snipers for 2024</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-unearthing-the-potential-in-magixs-image-sorter/"><u>[Updated] Unearthing the Potential in MAGIX's Image Sorter</u></a></li>
-<li><a href="https://location-fake.techidaily.com/5-best-route-generator-apps-you-should-try-on-realme-gt-5-pro-drfone-by-drfone-virtual-android/"><u>5 Best Route Generator Apps You Should Try On Realme GT 5 Pro | Dr.fone</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/dvd-mp4-h264hevc-dvd/"><u>迅速直截了當的 Dvd 转换为 MP4 H.264/HEVC - 解決 DVD 重復和改正</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/1725290622635-aiai/"><u>AIを活用したブラックアンドホワイト映像の高度な色彩変換手法：プロフェッショナルにカラー化できる最新AIツールリスト</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/best-alternatives-to-kickasstorrents-top-5-sites-for-legal-movie-and-game-downloads/"><u>Best Alternatives To KickassTorrents: Top 5 Sites For Legal Movie & Game Downloads</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/bypassing-the-dvd-shrink-not-working-hurdle-for-windows-10-users-effective-solutions-and-tips/"><u>Bypassing the 'DVD Shrink Not Working' Hurdle for Windows 10 Users: Effective Solutions and Tips</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/comprehensive-analysis-protecting-your-macbook-pro-13-with-a-high-quality-fintie-case/"><u>Comprehensive Analysis: Protecting Your MacBook Pro 13 with a High-Quality Fintie Case</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/discover-the-ultimate-freebies-choose-any-of-these-top-3-free-tools-to-craft-stunning-4k-slideshows/"><u>Discover the Ultimate Freebies: Choose Any of These Top 3 Free Tools to Craft Stunning 4K Slideshows!</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/h264/"><u>H.264 ビデオコーデックの詳細なセットアップガイドと推奨包を無料でダウンロード</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-reset-a-realme-c53-phone-that-is-locked-by-drfone-android/"><u>In 2024, How to Reset a Realme C53 Phone that is Locked?</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-mirroring-honor-magic-5-to-pc-drfone-by-drfone-android/"><u>In 2024, How to Screen Mirroring Honor Magic 5 to PC? | Dr.fone</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-premier-tech-list-top-17-software-for-photo-background-eradication/"><u>In 2024, Premier Tech List Top 17 Software for Photo Background Eradication</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-top-10-password-cracking-tools-for-oppo-k11-5g-by-drfone-android/"><u>In 2024, Top 10 Password Cracking Tools For Oppo K11 5G</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/mp4-versus-avi-in-depth-analysis-of-two-leading-video-formats-for-optimal-streaming-quality/"><u>MP4 Versus AVI: In-Depth Analysis of Two Leading Video Formats for Optimal Streaming Quality</u></a></li>
-<li><a href="https://techidaily.com/reset-pattern-lock-tutorial-for-m6-pro-4g-by-drfone-android-unlock-android-unlock/"><u>Reset pattern lock Tutorial for M6 Pro 4G</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/spielt-die-xbox-one-auch-dvd-filme-ab-eine-umfassende-anleitung-zur-instandsetzung-und-fehlerbehebung/"><u>Spielt Die Xbox One Auch DVD-Filme Ab? - Eine Umfassende Anleitung Zur Instandsetzung Und Fehlerbehebung</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/unveiling-edit-capabilities-in-dall-e-3-progress-and-potential-improvements-needed/"><u>Unveiling Edit Capabilities in DALL-E 3: Progress and Potential Improvements Needed</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/1725286040234-digiarty-winx-dvd/"><u>オンラインショップ用ガイド：Digiarty WinX DVD製品情報と選び方</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-gear-up-for-greatness-choosing-webcams-for-youtube-excellence/"><u>[New] 2024 Approved Gear Up for Greatness Choosing Webcams for YouTube Excellence</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-high-performance-gpu-picks-for-quality-video-streaming/"><u>[New] 2024 Approved High-Performance GPU Picks for Quality Video Streaming</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-how-to-make-profitable-youtube-ads-for-free-for-2024/"><u>[New] How To Make Profitable YouTube Ads for Free for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-go-viral-on-youtube-with-minimal-effort/"><u>[New] In 2024, How to Go Viral on YouTube with Minimal Effort</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-get-rid-of-youtube-ads-with-ease-on-chrome-firefox-ios-android/"><u>[Updated] 2024 Approved Get Rid of YouTube Ads with Ease on Chrome, Firefox, iOS, Android</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-gain-an-edge-access-these-top-8-sites-for-free-eco-screen-backdrops-and-clips/"><u>[Updated] In 2024, Gain an Edge - Access These Top 8 Sites for FREE Eco-Screen Backdrops and Clips</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-gain-more-views-beginners-guide-to-youtube-seo/"><u>[Updated] In 2024, Gain More Views Beginner’s Guide to YouTube SEO</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-home-studio-heroics-your-path-to-effectful-artistry/"><u>[Updated] In 2024, Home Studio Heroics Your Path to Effectful Artistry</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-ideal-5-add-ons-to-enhance-sea-footage/"><u>[Updated] In 2024, Ideal 5 Add-Ons to Enhance Sea Footage</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-dji-fpv-revolution-a-review-of-eyewear-innovation/"><u>[Updated] The DJI FPV Revolution A Review of Eyewear Innovation</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-turning-your-youtube-views-into-a-screen-capture-made-simple-and-free/"><u>[Updated] Turning Your YouTube Views Into a Screen Capture Made Simple and Free</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/guide-to-mirror-your-tecno-spark-10-5g-to-other-android-devices-drfone-by-drfone-android/"><u>Guide to Mirror Your Tecno Spark 10 5G to Other Android devices | Dr.fone</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/high-quality-video-webcams-top-5-combos-with-sound-for-2024/"><u>High-Quality Video Webcams - Top 5 Combo's With Sound for 2024</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-vivo-x100-pro-to-other-android-devices-using-bluetooth-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Vivo X100 Pro to Other Android Devices Using Bluetooth? | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-what-is-geo-blocking-and-how-to-bypass-it-on-google-pixel-8-drfone-by-drfone-virtual-android/"><u>In 2024, What is Geo-Blocking and How to Bypass it On Google Pixel 8? | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcoming-subnautica-below-zero-crashes-a-comprehensive-guide-for-pc-gamers/"><u>Overcoming Subnautica (Below Zero) Crashes: A Comprehensive Guide for PC Gamers</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/single-platform-focus-disabling-cross-play-for-personal-zen/"><u>Single-Platform Focus Disabling Cross-Play for Personal Zen</u></a></li>
 </ul></div>
 

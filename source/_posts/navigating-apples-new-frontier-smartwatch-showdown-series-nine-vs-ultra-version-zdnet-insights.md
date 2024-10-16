@@ -1,7 +1,7 @@
 ---
 title: "Navigating Apple's New Frontier: Smartwatch Showdown - Series Nine Vs. Ultra Version | ZDNET Insights"
-date: 2024-10-03T23:58:14.594Z
-updated: 2024-10-09T19:24:53.145Z
+date: 2024-10-09T08:35:07.353Z
+updated: 2024-10-16T02:48:09.837Z
 tags:
   - apple
 categories:
@@ -45,16 +45,10 @@ And then there's the Apple Watch Series 8 and the Apple Watch Ultra. The watches
 ---
 
 <!-- affiliate ads begin -->
-<span id="1983474">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983474.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983474">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983474.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983474%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983474/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2137412/7443" target="_top" id="2137412">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137412" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137412/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  You should buy the Apple Watch Ultra if…
@@ -71,6 +65,19 @@ The 49mm housing is also the biggest Apple Watch made to date, and with double t
 
 With a new design comes new bands, as well. There are [three completely new watchband designs](https://www.zdnet.com/article/new-apple-watch-ultra-bands-work-with-other-apple-watch-models-too/), each one designed for different activities such as outdoor adventures, endurance training and water sports. 
 
+<!-- affiliate ads begin -->
+<span id="1983549">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983549.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983549">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983549.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983549%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983549/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 2\. You ride, hike or dive… a lot
 
 Speaking of outdoor activities, the Ultra is specifically made for extreme fitness enthusiasts who need longer battery life, a better, brighter display and improved GPS tracking. 
@@ -80,10 +87,10 @@ Apple touts 36 hours of battery life for the Ultra during normal use, or 60 hour
 Every Apple Watch Ultra comes with LTE capabilities, so as long as you pay your wireless carrier for an additional plan (usually around $10 a month), your watch will always be connected, even if you leave your iPhone behind. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144309/7443" target="_top" id="2144309">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144309" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144298/7443" target="_top" id="2144298">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144298" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144309/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144298/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 3\. You need a ruggedized watch
@@ -102,6 +109,13 @@ There's even an 86-decibel siren built into the watch should you need emergency 
 
 Jason Hiner/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144310/7443" target="_top" id="2144310">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144310" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144310/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 1\. You want a traditional Apple Watch design
 
 If the Apple Watch Ultra's design isn't all that appealing to you, the Apple Watch Series 8 may be the better choice. It uses the same design as the last few Apple Watch models and comes in 41mm and 45mm sizes. On the right side of the aluminum (or steel) housing is the digital crown and side button that's used for navigating the watch. 
@@ -112,13 +126,6 @@ The Series 8 is available in four aluminum colors this year. There's Starlight, 
 
 **See also:** [**New Apple Watch Ultra bands work with other Apple Watch models, too**](https://www.zdnet.com/article/new-apple-watch-ultra-bands-work-with-other-apple-watch-models-too/)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902324/19272" target="_top" id="1902324">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902324" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902324/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 2\. You're not ready to pay $799 for a watch
 
 The Apple Watch SE is the most affordable watch in Apple's lineup, with models [starting at $249](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-watch%2Fapple-watch-se&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp). However, it lacks some of the key health features that the Series 8 and Ultra have -- such as ECG and blood oxygen level monitoring. 
@@ -128,13 +135,6 @@ The Series 8 [starts at $399](https://apple.sjv.io/c/159047/435031/7613?&sharedI
 For $399 you can get a [41mm Apple Watch Series 8](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-watch%2Fapple-watch&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp), or for $429 you can pick up a [45mm Apple Watch Series 8](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-watch%2Fapple-watch&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp). Both of those prices are for an aluminum body and lack cellular connectivity. If you want to add cellular capabilities, you'll pay a $100 premium -- bringing the total to $499 and $529, respectively. 
 
 Still, those prices are more affordable than the Ultra's price tag and the Series 8 is sure to last a few years, or at least until Apple stops providing software updates to it. 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/1062447/7443" target="_top" id="1062447">
-  <img src="//a.impactradius-go.com/display-ad/7443-1062447" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062447/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 3\. Don't need all of the extreme outdoor features
 
@@ -184,24 +184,16 @@ Open to other Apple Watch prospects? Consider the also-new Apple Watch SE.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-elevating-your-youtube-comments-with-emoji-skills/"><u>[Updated] 2024 Approved Elevating Your YouTube Comments with Emoji Skills</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-the-quick-guide-to-innovative-voice-personalization-techniques/"><u>[Updated] The Quick Guide to Innovative Voice Personalization Techniques</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/2024-approved-eliminating-noise-methods-for-soundless-recording/"><u>2024 Approved Eliminating Noise Methods for Soundless Recording</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-quick-capture-audiovisual-screen-shot/"><u>2024 Approved Quick Capture Audiovisual Screen Shot</u></a></li>
-<li><a href="https://review-topics.techidaily.com/4-feasible-ways-to-fake-location-on-facebook-for-your-xiaomi-14-drfone-by-drfone-virtual-android/"><u>4 Feasible Ways to Fake Location on Facebook For your Xiaomi 14 | Dr.fone</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/download-gratuit-le-meilleur-decrypteur-de-dvd-compatible-avec-tous-les-formats/"><u>Download Gratuit Le Meilleur Décrypteur De DVD Compatible Avec Tous Les Formats</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-resolve-errors-with-winservicesexe/"><u>How to Resolve Errors with Winservices.exe</u></a></li>
-<li><a href="https://fake-location.techidaily.com/in-2024-5-hassle-free-solutions-to-fake-location-on-find-my-friends-of-apple-iphone-12-pro-drfone-by-drfone-virtual-ios/"><u>In 2024, 5 Hassle-Free Solutions to Fake Location on Find My Friends Of Apple iPhone 12 Pro | Dr.fone</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/maximizing-productivity-gpt-in-action/"><u>Maximizing Productivity: GPT in Action</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/mp4-magic-for-video-enthusiasts-master-the-art-of-dvd-to-mp4-conversion-using-windows-11mac-explore-10-reliable-techniques-today/"><u>MP4 Magic for Video Enthusiasts: Master the Art of DVD-to-MP4 Conversion Using Windows 11/Mac – Explore 10 Reliable Techniques Today!</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/no-cost-hevc-encoder-unlock-stunning-4k-and-eby-8k-video-viewing-experience-with-a-free-download/"><u>No Cost HEVC Encoder: Unlock Stunning 4K & Eby 8K Video Viewing Experience with a Free Download</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/step-by-step-tutorial-on-adapting-videos-for-your-mobile-device-through-the-power-of-winx-cell-phone-video-converter/"><u>Step-by-Step Tutorial on Adapting Videos for Your Mobile Device Through the Power of WinX Cell Phone Video Converter</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/step-by-step-tutorial-transforming-vob-content-into-divx-for-windows-10-and-mac-users/"><u>Step-by-Step Tutorial: Transforming VOB Content Into DivX for Windows 10 and Mac Users</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/top-6-ai-video-enhancement-software-tools-you-cant-miss/"><u>Top 6 AI Video Enhancement Software Tools You Can't Miss</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/transformative-srt-editing-techniques-for-apple-devices-for-2024/"><u>Transformative SRT Editing Techniques for Apple Devices for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/ultimate-guide-converting-movies-into-dvds-using-nero-burning-rom/"><u>Ultimate Guide: Converting Movies Into DVDs Using Nero Burning ROM</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/ultimate-guide-cutting-down-video-size-by-90-while-keeping-quality-at-90/"><u>Ultimate Guide: Cutting Down Video Size by 90% While Keeping Quality at 90%</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/ultimate-list-of-top-ranking-free-ai-tools-for-restoring-vintage-images/"><u>Ultimate List of Top-Ranking Free AI Tools for Restoring Vintage Images</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/win11s-top-5-no-cost-screen-recorders-updated-guide-for-2024/"><u>Win11's Top 5 No-Cost Screen Recorders - Updated Guide for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-frame-by-frame-the-smartphone-storytellers-path-to-youtubes-thumbnails/"><u>[Updated] 2024 Approved Frame by Frame The Smartphone Storyteller's Path to YouTubes Thumbnails</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-purchasing-followers-impacts-the-integrity-of-youtube-content-creators/"><u>[Updated] 2024 Approved How Purchasing Followers Impacts the Integrity of YouTube Content Creators</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-innovate-transforming-raw-footage-into-youtube-thumbnails-via-smartphones-for-2024/"><u>[Updated] How to Innovate Transforming Raw Footage Into YouTube Thumbnails via Smartphones for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-for-students-discover-the-top-10-historical-youtube-channels-now/"><u>[Updated] In 2024, For Students, Discover the Top 10 Historical YouTube Channels Now</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-live-streaming-showdown-obs-vs-wirecast-faceoff-for-2024/"><u>[Updated] Live Streaming Showdown OBS vs Wirecast Faceoff for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-the-science-of-captivating-audience-with-mukbang-videos/"><u>[Updated] The Science of Captivating Audience with Mukbang Videos</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-a-complete-guide-to-using-vlc-mac-edition-highlights/"><u>2024 Approved A Complete Guide to Using VLC Mac Edition Highlights</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-best-3-software-to-transfer-files-tofrom-your-honor-x50-via-a-usb-cable-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Best 3 Software to Transfer Files to/from Your Honor X50 via a USB Cable | Dr.fone</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/in-2024-get-started-on-vimeo-for-free-the-basics-of-video-editing/"><u>In 2024, Get Started on Vimeo for Free The Basics of Video Editing</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-fix-when-apple-account-locked-on-iphone-12-pro-max-by-drfone-ios/"><u>In 2024, How to Fix when Apple Account Locked On iPhone 12 Pro Max?</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/24-unlock-higher-engagement-the-power-of-precise-timestamping/"><u>In 2024, Unlock Higher Engagement The Power of Precise Timestamping</u></a></li>
 </ul></div>
 

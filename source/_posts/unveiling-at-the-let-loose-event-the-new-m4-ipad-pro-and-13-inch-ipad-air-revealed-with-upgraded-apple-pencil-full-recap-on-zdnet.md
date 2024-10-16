@@ -1,7 +1,7 @@
 ---
 title: "Unveiling at the Let Loose Event: The New M4 iPad Pro and 13-Inch iPad Air Revealed with Upgraded Apple Pencil - Full Recap on ZDNet"
-date: 2024-10-06T21:17:27.217Z
-updated: 2024-10-09T16:24:43.403Z
+date: 2024-10-09T21:54:50.730Z
+updated: 2024-10-15T17:37:24.870Z
 tags:
   - apple
 categories:
@@ -33,10 +33,10 @@ Apple's "Let Loose" was a virtual product launch event that took place on May 7,
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557742/17382" target="_top" id="1557742">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557742" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576477/17382" target="_top" id="1576477">
+  <img src="//a.impactradius-go.com/display-ad/17382-1576477" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557742/17382" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576477/17382" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 1\. iPad Pro, now with OLED displays and M4
@@ -58,13 +58,6 @@ Apple
 Like previous generations, Apple is making the latest iPad Pro available in 11-inch and 13-inch sizes. This iPad Pro is the thinnest Apple product ever, the company says. The 11-inch model is 5.3mm thick, while the 13-inch model is 5.1mm thick, making it thinner than even the iPod Nano.
 
 The iPad Pro starts at $999 for the 11-inch model and $1,299 for the 13-inch model. It's available in Silver and Space Black, with storage sizes ranging from 256GB to 2TB. You can [available to preorder now](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-ipad%2Fipad-pro&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp), with orders shipping next week.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136624/26400" target="_top" id="2136624">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136624" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136624/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 2\. iPad Air gets a new, larger size
 
@@ -98,22 +91,41 @@ Apple
 
 The Apple Pencil Pro costs $129 and supports Apple's Find My service, letting you track the location of the accessory should you drop or misplace it. You can purchase the [Apple Pencil Pro](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fproduct%2FMX2D3AM%2FA%2Fapple-pencil-pro&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) today, and it will start shipping next week.
 
+<!-- affiliate ads begin -->
+<span id="1495277">
+					<video width="1536" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1495277.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/17189-1495277">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1495277.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ffunwhole.sjv.io%2Fc%2F5597632%2F1495277%2F17189'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1495277/17189" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Magic Keyboard
 
 Apple
 
 The iPad event also included a new, more durable Magic Keyboard, featuring a larger trackpad and a function row along the top. The Magic Keyboard's new look and upgraded aluminum construction is meant to make the iPad Pro look and feel more like a laptop, rather than a tablet with an optional keyboard case.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1883998/19272" target="_top" id="1883998">
-  <img src="//a.impactradius-go.com/display-ad/19272-1883998" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1883998/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Why would Apple host an event before WWDC?
 
 Although Apple is hosting its [Worldwide Developers Conference (WWDC)](https://www.zdnet.com/article/apple-confirms-wwdc-2024-for-june-10-will-ai-steal-the-show/) on June 10, that event is reserved for new iOS, iPadOS, visionOS, and macOS announcements, plus Apple's new AI strategy. The Let Loose event was focused on the latest hardware offerings, with the [OLED iPad Pro](https://www.zdnet.com/article/7-ipad-pro-features-that-would-make-me-instantly-upgrade-to-apples-next-model/) being the main star.
+
+<!-- affiliate ads begin -->
+<span id="1983588">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983588.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983588">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983588.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983588%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Did the Let Loose event cover iPadOS 17.5 or iPadOS 18?
 
@@ -128,10 +140,10 @@ Logic Pro 2 introduces Session Players, an AI-created Bass and Keyboard player a
 iOS 17.5 doesn't have many exciting new features outside of the European Union, where iPhone users can now [download apps directly from websites](https://www.zdnet.com/article/apple-to-let-eu-users-download-apps-from-the-web-with-ios-17-5-beta-2-how-it-works/). The new devices are expected to ship with iPadOS 17.5, but these features are available for iPadOS 17.4.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997717/19272" target="_top" id="1997717">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997717" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2129738/7443" target="_top" id="2129738">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129738" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997717/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129738/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How do I watch Apple's Let Loose event?
@@ -168,24 +180,22 @@ The Apple Let Loose event was a pre-recorded video but is still available for st
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/n-2024-bringing-youtube-to-life-on-google-slides/"><u>[New] In 2024, Bringing YouTube to Life on Google Slides</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/new-in-2024-unzipping-subtitles-turning-zip-archives-into-srt-files/"><u>[New] In 2024, Unzipping Subtitles Turning Zip Archives Into .SRT Files</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-the-ultimate-guide-to-tiktok-video-amplification-for-2024/"><u>[New] The Ultimate Guide to TikTok Video Amplification for 2024</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-in-2024-facebook-live-mastery-a-recording-journey/"><u>[Updated] In 2024, Facebook Live Mastery A Recording Journey</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-in-2024-fastest-mobile-apps-for-speeding-up-sound-tracks/"><u>[Updated] In 2024, Fastest Mobile Apps for Speeding Up Sound Tracks</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/1726226934105-f4v-mp3-movavi/"><u>「あなたも可能！オンライン無料F4V MP3変換 - Movaviプロセスガイド」</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-skyrocket-your-shots-with-ps-color-tweaks/"><u>2024 Approved Skyrocket Your Shots with PS Color Tweaks</u></a></li>
-<li><a href="https://extra-information.techidaily.com/3d-lut-expertise-in-a-quick-learning-journey-for-2024/"><u>3D LUT Expertise in a Quick Learning Journey for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/converti-gratuitamente-i-gif-in-formato-mkv-online-utilizzando-il-servizio-di-moveavev/"><u>Converti Gratuitamente I GIF in Formato MKV Online Utilizzando Il Servizio Di Moveavev</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/gratis-online-converter-de-arquivos-para-formatos-mpg-com-a-ferramenta-on-line-da-movavi/"><u>Gratis Online: Converter De Arquivos Para Formatos .MPG Com a Ferramenta On Line Da Movavi</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/gratuita-conversor-online-de-imagens-em-formato-jpg-movavi/"><u>Gratuita: Conversor Online De Imagens Em Formato JPG - Movavi</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/gratuitamente-avvia-il-tuo-convertitore-alaw-con-movavi-tutorial-passo-passo-per-installare-online-e-offline/"><u>Gratuitamente Avvia Il Tuo Convertitore Alaw Con Movavi - Tutorial Passo-Passo per Installare Online E Offline</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/gratuito-convertitore-online-trasforma-i-file-aiff-in-avi-con-movavi/"><u>Gratuito Convertitore Online: Trasforma I File AIFF in AVI Con Movavi</u></a></li>
-<li><a href="https://fox-http.techidaily.com/in-2024-mastering-the-art-of-modern-360-camera-purchases-2enas/"><u>In 2024, Mastering the Art of Modern 360 Camera Purchases (2Enas)</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/new-deciphering-the-prowess-of-magix-samplitude-in-modern-music-production-for-2024/"><u>New Deciphering the Prowess of MAGIX Samplitude in Modern Music Production for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/professional-network-switching-software-secure-your-connections-today/"><u>Professional Network Switching Software - Secure Your Connections Today</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/ps5-multiplayer-guide-how-to-easily-share-your-game-progress/"><u>PS5 Multiplayer Guide: How To Easily Share Your Game Progress</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/transformacion-gratuita-de-archivos-m4v-a-formato-mp4-en-linea-resumen-comparativo-y-recomendaciones/"><u>Transformación Gratuita De Archivos M4V a Formato MP4 en Línea: Resumen Comparativo Y Recomendaciones</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/ultimate-list-of-8-premium-free-cd-burning-applications-for-pc-and-mac-users/"><u>Ultimate List of 8 Premium Free CD Burning Applications for PC and MAC Users</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-essential-mobile-games-for-leisurely-indulgence/"><u>[New] 2024 Approved Essential Mobile Games for Leisurely Indulgence</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-camera-clicks-to-youtube-views-mobiles-in-cinematic-success/"><u>[New] 2024 Approved From Camera Clicks to YouTube Views Mobiles in Cinematic Success</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-fast-track-video-scaling-for-perfect-mac-display-for-2024/"><u>[New] Fast-Track Video Scaling for Perfect Mac Display for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-fuel-the-spark-essential-themes-for-youtube-success/"><u>[New] In 2024, Fuel the Spark Essential Themes for YouTube Success</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-fresh-face-finds-budget-friendly-platforms-to-purchase/"><u>[Updated] 2024 Approved Fresh Face Finds Budget-Friendly Platforms to Purchase</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-free-film-and-image-repository-highlights-for-2024/"><u>[Updated] Free Film and Image Repository Highlights for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-harmonizing-youtube-content-a-guide-to-blending-files-for-2024/"><u>[Updated] Harmonizing YouTube Content A Guide to Blending Files for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-run-a-sports-youtube-chain-on-macos-for-2024/"><u>[Updated] How to Run a Sports YouTube Chain on MacOS for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-scripts-to-screens-your-ultimate-youtube-production-plan/"><u>[Updated] In 2024, From Scripts to Screens Your Ultimate YouTube Production Plan</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-chromatic-excellence-program/"><u>2024 Approved Chromatic Excellence Program</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/5-solutions-for-oneplus-11r-unlock-without-password-by-drfone-android/"><u>5 Solutions For OnePlus 11R Unlock Without Password</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/different-methods-to-unlock-your-iphone-13-pro-max-by-drfone-ios/"><u>Different Methods To Unlock Your iPhone 13 Pro Max</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/dive-into-hardware-excellence-with-toms-electronics-insights/"><u>Dive Into Hardware Excellence with Tom's Electronics Insights</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-check-distance-and-radius-on-google-maps-for-your-xiaomi-13t-drfone-by-drfone-virtual-android/"><u>How to Check Distance and Radius on Google Maps For your Xiaomi 13T | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-solve-gtfo-crashing/"><u>How to Solve GTFO Crashing</u></a></li>
+<li><a href="https://win-webmaster.techidaily.com/overcoming-downloads-gone-wrong-in-windows-11-the-ultimate-fix-up-handbook/"><u>Overcoming Downloads Gone Wrong in Windows 11: The Ultimate Fix-Up Handbook</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/k-the-full-potential-of-your-youtube-videos-top-11-seo-tips/"><u>Unlock the Full Potential of Your YouTube Videos Top 11 SEO Tips</u></a></li>
 </ul></div>
 

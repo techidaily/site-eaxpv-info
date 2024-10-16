@@ -1,7 +1,7 @@
 ---
 title: Energy Efficiency Improvements Across Various Sectors (Industry, Transportation, Buildings) Lower Overall Energy Consumption and Associated Emissions.
-date: 2024-10-05T20:41:47.383Z
-updated: 2024-10-09T22:16:56.544Z
+date: 2024-10-08T18:23:33.159Z
+updated: 2024-10-15T16:56:04.216Z
 tags:
   - apple
 categories:
@@ -68,6 +68,19 @@ Jason Hiner/ZDNET
 * Users can access ChatGPT via this integration for free, and OpenAI will not log their data. ChatGPT Plus users can connect their subscriptions to access more advanced features, in which case OpenAI's data usage policies apply.
 * The ChatGPT integration will be coming to iOS 18, iPadOS 18, and MacOS Sequoia later this year.
 
+<!-- affiliate ads begin -->
+<span id="1702748">
+					<video width="192" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1702748.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18544-1702748">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1702748.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftwopages.pxf.io%2Fc%2F5597632%2F1702748%2F18544'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702748/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## iOS 18
 
 Adam Breeden/ZDNET
@@ -86,13 +99,6 @@ Adam Breeden/ZDNET
 * The **Safari app** was upgraded to include key information about a webpage. You can read more about the Safari upgrades under the MacOS section of this article.
 * The **Calendar app** can now pull from the Reminders app for a more seamless schedule overview.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130891/7443" target="_top" id="2130891">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130891" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130891/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## WatchOS 11
 
 Adam Breeden/ZDNET
@@ -107,13 +113,6 @@ Adam Breeden/ZDNET
 * **Check In** is available on Apple Watch, even during workouts, to help users stay safe. **Translate** is also coming to Apple Watch so users can translate text right from their wrists.
 * Another notable change is that the **double tap gesture** can be used to scroll through apps.
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148642/16836" target="_top" id="2148642">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148642" border="0" alt="https://techidaily.com" width="300" height="50"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148642/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## iPadOS 18
 
 Adam Breeden/ZDNET
@@ -125,10 +124,10 @@ Adam Breeden/ZDNET
 * iPadOS 18 supports **screen-sharing via SharePlay** and the same Control Center customizations, Photos app upgrades, Safari updates, and emoji Tapbacks found in **iOS 18.**
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012420/19272" target="_top" id="2012420">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012420" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135374/19272" target="_top" id="2135374">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135374" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012420/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135374/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## MacOS 15 (Sequoia)
@@ -159,6 +158,19 @@ Jason Hiner/ZDNET
 * Users can **cast content** from their iPhone, iPad, or Mac to the Vision Pro using AirPlay.
 * Apple is also making the Vision Pro available in more countries starting June 28\. You can see the full list [here](https://www.apple.com/newsroom/2024/06/apple-vision-pro-arrives-in-new-countries-and-regions-beginning-june-28/).
 
+<!-- affiliate ads begin -->
+<span id="1983471">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983471.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983471">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983471%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983471/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## AirPods
 
 Jason Hiner/ZDNET
@@ -168,10 +180,10 @@ Jason Hiner/ZDNET
 * Apple is also releasing a **Personalized Spatial Audio API** for game developers to build around the AirPods' audio technology.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886019/19272" target="_top" id="1886019">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886019" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2075472/7443" target="_top" id="2075472">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075472" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886019/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075472/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## tvOS 18
@@ -218,24 +230,18 @@ Screenshot by Nina Raemont/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/024-approved-editing-workshop-portal/"><u>[New] 2024 Approved Editing Workshop Portal</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-in-2024-first-steps-in-uav-world-the-syma-x5c-review-sets-you-up-right/"><u>[New] In 2024, First Steps in UAV World? The Syma X5C Review Sets You Up Right</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-21-vegas-pro-insights-an-expert-breakdown/"><u>[Updated] '21 Vegas Pro Insights – An Expert Breakdown</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-full-screen-pro-excellence-4-precise-pc-and-mac-tools/"><u>[Updated] Full Screen Pro Excellence 4 Precise PC & Mac Tools</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-incredible-live-stream-options-a-compilation/"><u>2024 Approved Incredible Live Stream Options - A Compilation</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/breakthrough-youtube-success-essential-tips-from-creator-studio-guide-for-2024/"><u>Breakthrough YouTube Success Essential Tips From Creator Studio Guide for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/combine-like-terms-on-the-right-side-of-the-equation/"><u>Combine Like Terms on the Right Side of the Equation:</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/connect-with-creativity-discover-your-digital-masterpiece/"><u>Connect with Creativity: Discover Your Digital Masterpiece</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/get-your-latest-nvidia-graphics-drivers-windows-compatible-and-gaming-optimized/"><u>Get Your Latest NVIDIA Graphics Drivers - Windows Compatible & Gaming Optimized</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/how-to-effortlessly-extract-and-transform-your-favorite-vimeo-clips-into-crystal-clear-mp3-audios/"><u>How to Effortlessly Extract and Transform Your Favorite Vimeo Clips Into Crystal Clear MP3 Audios!</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/how-to-successfully-add-av1-encoder-support-in-windows-11-a-comprehensive-guide/"><u>How to Successfully Add AV1 Encoder Support in Windows 11: A Comprehensive Guide</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-3-easy-methods-to-unlock-icloud-locked-iphone-7-plusipadipod-by-drfone-ios/"><u>In 2024, 3 Easy Methods to Unlock iCloud Locked iPhone 7 Plus/iPad/iPod</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/24-step-by-step-strategy-crafting-video-ads-without-spending-a-dime/"><u>In 2024, Step-by-Step Strategy Crafting Video Ads without Spending a Dime</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/pubg-knives-out-iosandroidand/"><u>PUBG: Knives Out - IOS/Android版デフォルトダウンロード&日本語指導手引き</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/resolving-this-pc-unable-to-support-windows-11-issue/"><u>Resolving 'This PC Unable to Support Windows 11' Issue</u></a></li>
-<li><a href="https://extra-information.techidaily.com/subtract-and-add-quick-srt-to-sub/"><u>Subtract and Add Quick SRT to SUB</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/top-5-tecnicas-mas-efectivas-para-mejorar-la-nitidez-de-imagenes-en-2024/"><u>Top 5 Técnicas Más Efectivas Para Mejorar La Nitidez De Imágenes en 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/top-6-methods-for-transferring-your-dvd-content-onto-a-pc/"><u>Top 6 Methods for Transferring Your DVD Content Onto a PC</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/troubleshooting-and-solutions-for-high-dpi-settings-with-windows-1011-and-a-4k-monitor/"><u>Troubleshooting and Solutions for High-DPI Settings with Windows 10/11 and a 4K Monitor</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-game-testers-and-beta-gamers-online/"><u>[New] 2024 Approved Game Testers & Beta Gamers Online</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-make-a-thumbnail-for-your-youtube-free-easily/"><u>[New] In 2024, How to Make a Thumbnail for Your YouTube Free Easily</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-make-video-thumbnails-for-youtube/"><u>[New] In 2024, How to Make Video Thumbnails for YouTube</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-streamlining-your-live-broadcast-ps4-recording-via-obs-studio-for-2024/"><u>[New] Streamlining Your Live Broadcast PS4 Recording via OBS Studio for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-framing-the-perfect-waterway-narrative/"><u>[Updated] 2024 Approved Framing the Perfect Waterway Narrative</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-views-to-revenue-simplifying-the-process-with-a-3-step-framework-for-monitoring-youtube-income/"><u>[Updated] 2024 Approved From Views to Revenue Simplifying the Process with a 3-Step Framework for Monitoring YouTube Income</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-innovative-facebook-enhancement-using-letterbox-technique/"><u>[Updated] In 2024, Innovative Facebook Enhancement Using Letterbox Technique</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-instagrams-video-chatting-compendium-for-2024/"><u>[Updated] Instagram's Video Chatting Compendium for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-key-gear-for-broadcast-engineers-and-directors/"><u>[Updated] Key Gear for Broadcast Engineers and Directors</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/navigating-network-passwords-in-windows-11-find-your-lost-wi-fi-key-with-this-guide/"><u>Navigating Network Passwords in Windows 11: Find Your Lost Wi-Fi Key with This Guide</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723007888488-simple-fixes-for-persistent-outriders-game-crashes-get-back-in-action/"><u>Simple Fixes for Persistent Outriders Game Crashes - Get Back in Action!</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-remote-professionals-guide-maximizing-ai-in-work-life/"><u>The Remote Professional's Guide: Maximizing AI in Work Life</u></a></li>
+<li><a href="https://change-location.techidaily.com/which-pokemon-can-evolve-with-a-moon-stone-for-samsung-galaxy-a24-drfone-by-drfone-virtual-android/"><u>Which Pokémon can Evolve with a Moon Stone For Samsung Galaxy A24? | Dr.fone</u></a></li>
 </ul></div>
 

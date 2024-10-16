@@ -1,7 +1,7 @@
 ---
 title: "Magic at Your Fingertips: Apple's Cutting-Edge On-Device AI Image Tool Outshines DALL-E | InnovationHub"
-date: 2024-10-03T00:34:55.972Z
-updated: 2024-10-09T19:52:22.902Z
+date: 2024-10-13T18:05:32.796Z
+updated: 2024-10-16T07:13:18.124Z
 tags:
   - apple
 categories:
@@ -68,6 +68,13 @@ Jason Hiner/ZDNET
 * Users can access ChatGPT via this integration for free, and OpenAI will not log their data. ChatGPT Plus users can connect their subscriptions to access more advanced features, in which case OpenAI's data usage policies apply.
 * The ChatGPT integration will be coming to iOS 18, iPadOS 18, and MacOS Sequoia later this year.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975816/19272" target="_top" id="1975816">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975816" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975816/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## iOS 18
 
 Adam Breeden/ZDNET
@@ -86,6 +93,13 @@ Adam Breeden/ZDNET
 * The **Safari app** was upgraded to include key information about a webpage. You can read more about the Safari upgrades under the MacOS section of this article.
 * The **Calendar app** can now pull from the Reminders app for a more seamless schedule overview.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068439/7443" target="_top" id="2068439">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068439" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068439/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## WatchOS 11
 
 Adam Breeden/ZDNET
@@ -100,13 +114,6 @@ Adam Breeden/ZDNET
 * **Check In** is available on Apple Watch, even during workouts, to help users stay safe. **Translate** is also coming to Apple Watch so users can translate text right from their wrists.
 * Another notable change is that the **double tap gesture** can be used to scroll through apps.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/1062450/7443" target="_top" id="1062450">
-  <img src="//a.impactradius-go.com/display-ad/7443-1062450" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062450/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## iPadOS 18
 
 Adam Breeden/ZDNET
@@ -116,6 +123,13 @@ Adam Breeden/ZDNET
 * In a long-awaited release, iPads will now have a **[calculator app](https://www.zdnet.com/article/after-14-years-apple-expected-to-unveil-the-ipad-app-weve-all-been-waiting-for-at-wwdc/)** for the first time, complete with the same interface as the one currently found on iPhones. Plus, users can use it with the Apple Pencil through a new **Math Notes** experience, which allows users to write expressions that the calculator app will solve for them once they type the equal sign, in their own handwriting,
 * Handwriting in Notes also got an upgrade with **Smart** **Script**, which refines users' writing to make it more legible while keeping the authenticity of the user's handwriting style. The feature can also match copied and pasted text to the user's handwriting. Typed text was also enhanced, with five new highlight colors and the ability to toggle sections under headings or subheadings.
 * iPadOS 18 supports **screen-sharing via SharePlay** and the same Control Center customizations, Photos app upgrades, Safari updates, and emoji Tapbacks found in **iOS 18.**
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123731/7443" target="_top" id="2123731">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123731" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123731/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## MacOS 15 (Sequoia)
 
@@ -127,13 +141,6 @@ Adam Breeden/ZDNET
 * **Video meetings** are also getting an upgrade, with new backgrounds and a preview experience that allows you to see what you are about to share before sharing it. This feature works with popular video conferencing applications such as FaceTime and Zoom.
 * The **AI summarization** tool will live in Safari to help users process content like web pages and articles more efficiently. Safari will also assist users in discovering more helpful information about a page they are browsing when relevant, such as directions.
 * Apple also launched a new **Viewer experience**, which does for video what Reader does for text.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134227/18498" target="_top" id="2134227">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134227" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134227/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## VisionOS 2
 
@@ -152,13 +159,6 @@ Jason Hiner/ZDNET
 * Users can **cast content** from their iPhone, iPad, or Mac to the Vision Pro using AirPlay.
 * Apple is also making the Vision Pro available in more countries starting June 28\. You can see the full list [here](https://www.apple.com/newsroom/2024/06/apple-vision-pro-arrives-in-new-countries-and-regions-beginning-june-28/).
 
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2141684/17092" target="_top" id="2141684">
-  <img src="//a.impactradius-go.com/display-ad/17092-2141684" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141684/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## AirPods
 
 Jason Hiner/ZDNET
@@ -168,10 +168,10 @@ Jason Hiner/ZDNET
 * Apple is also releasing a **Personalized Spatial Audio API** for game developers to build around the AirPods' audio technology.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047406/19272" target="_top" id="2047406">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047406" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105870/7443" target="_top" id="2105870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105870" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105870/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## tvOS 18
@@ -218,18 +218,24 @@ Screenshot by Nina Raemont/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-lessons.techidaily.com/updated-authoritative-list-affordable-visuals-online/"><u>[Updated] Authoritative List Affordable Visuals Online</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/2024-approved-hero-session-vs-cube-a-face-off-in-video-editors/"><u>2024 Approved Hero Session Vs. Cube A Face-Off in Video Editors</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/ac3-and/"><u>AC3 コーデック入門 - 無料でダウンロード&設定ガイドと再生＆変換手順</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/ai-tools-under-scrutiny-4-governmental-regulation-methods/"><u>AI Tools Under Scrutiny: 4 Governmental Regulation Methods</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/convert-your-ipod-songs-a-step-by-step-guide-to-changing-drm-m4p-files-to-freely-listenable-m4a-without-costs/"><u>Convert Your iPod Songs: A Step-by-Step Guide to Changing DRM M4P Files to Freely Listenable M4A without Costs</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/correcting-missing-advrctndll-files-for-seamless-nero-installation/"><u>Correcting Missing .advrctn.dll Files for Seamless Nero Installation</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-phone-touchscreen-of-poco-x5-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Phone Touchscreen Of Poco X5 | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-infinix-note-30-5g-get-deleted-photos-back-with-ease-and-safety-by-fonelab-android-recover-photos/"><u>How to Infinix Note 30 5G Get Deleted photos Back with Ease and Safety?</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-conquering-challenges-in-single-source-online-streaming/"><u>In 2024, Conquering Challenges in Single-Source Online Streaming</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-xiaomi-14-phone-without-pin-by-drfone-android/"><u>In 2024, How to Unlock Xiaomi 14 Phone without PIN</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/rotate-your-iphone-screen-back-to-landscape-easy-solutions/"><u>Rotate Your iPhone Screen Back to Landscape - Easy Solutions</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/upgrade-your-videos-using-winxvideo-ai-technology-effortless-quality-boost/"><u>Upgrade Your Videos Using WinxVideo AI Technology - Effortless Quality Boost</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/wie-man-dvd-filme-per-wlan-auf-apple-ipad-ipad-pro-ipad-air-ipad-mini-kopiert/"><u>Wie Man DVD Filme per WLAN Auf Apple iPad (iPad Pro, iPad Air, iPad Mini) Kopiert</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/024-approved-exploring-the-finest-wedding-cinematography-youtube-and-vimeos-selection/"><u>[New] 2024 Approved Exploring the Finest Wedding Cinematography - Youtube & Vimeo's Selection</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-fusion-of-youtube-beats-and-imovie-editing-magic/"><u>[New] 2024 Approved Fusion of YouTube Beats and iMovie Editing Magic</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-gauge-if-an-mcn-is-right-for-your-youtube-journey/"><u>[New] 2024 Approved How to Gauge if an MCN Is Right for Your YouTube Journey</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-hands-on-tips-for-masterful-video-edits-with-youtube-studio/"><u>[New] In 2024, Hands-On Tips for Masterful Video Edits with YouTube Studio</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-finding-premium-free-music-without-breaking-copyrights/"><u>[Updated] In 2024, Finding Premium, Free Music Without Breaking Copyrights</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-font-powerhouses-for-captivating-youtube-thumbnails/"><u>[Updated] In 2024, Font Powerhouses for Captivating YouTube Thumbnails</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-high-quality-youtube-images-download-without-any-cost/"><u>[Updated] In 2024, High-Quality YouTube Images Download Without Any Cost</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-design-a-great-gaming-youtube-banner-with-templates/"><u>[Updated] In 2024, How to Design a Great Gaming YouTube Banner with Templates</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-premier-12-video-capture-goes-on-forever-for-2024/"><u>[Updated] Premier 12 Video Capture - Goes On Forever for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-triple-check-for-profitability-guiding-principles-for-measuring-youtube-income/"><u>[Updated] Triple Check for Profitability Guiding Principles for Measuring YouTube Income</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-unleash-creativity-with-free-templates-essential-for-video-makers/"><u>[Updated] Unleash Creativity with FREE Templates – Essential for Video Makers</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-laying-the-foundation-of-zoom-room-use/"><u>2024 Approved Laying the Foundation of Zoom Room Use</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-preeminent-6-networks-driving-biz-innovation/"><u>2024 Approved Preeminent 6 Networks Driving Biz Innovation</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/beyond-bots-integrating-the-power-of-chatgpt-across-multiple-software-platforms/"><u>Beyond Bots: Integrating the Power of ChatGPT Across Multiple Software Platforms</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/1719578514739-boost-your-urdu-skills-in-a-flash/"><u>Boost Your Urdu Skills in a Flash!</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-change-google-play-location-on-poco-c65-drfone-by-drfone-virtual-android/"><u>How to Change Google Play Location On Poco C65 | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-fix-apple-iphone-15-pro-passcode-not-working-by-drfone-ios/"><u>In 2024, How to Fix Apple iPhone 15 Pro Passcode not Working?</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/reviving-your-iphone-apple-now-approves-recycled-pieces-use-in-certain-reparations-tech-news-by-zdnet/"><u>Reviving Your iPhone? Apple Now Approves Recycled Pieces Use in Certain Reparations | Tech News by ZDNET</u></a></li>
+<li><a href="https://discover-comparisons.techidaily.com/schritt-fur-schritt-guide-zur-behebung-von-diskpartitionsproblemen-unter-windows-10/"><u>Schritt-Für-Schritt-Guide Zur Behebung Von Diskpartitionsproblemen Unter Windows 10</u></a></li>
 </ul></div>
 

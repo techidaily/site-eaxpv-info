@@ -1,7 +1,7 @@
 ---
 title: "Download IOS 18: Complete Guide to Installation & Compatible iPhone Models - Detailed Tutorial by ZDNET"
-date: 2024-10-06T19:25:03.928Z
-updated: 2024-10-09T16:47:49.534Z
+date: 2024-10-09T18:06:08.784Z
+updated: 2024-10-15T16:43:22.368Z
 tags:
   - apple
 categories:
@@ -32,9 +32,23 @@ Jason Hiner/ZDNET
 
 **What you need:** An iPhone running iOS 16.5 or later. Since not all iPhones are compatible with iOS 18, you'll also need a model [newer than the iPhone X](https://www.zdnet.com/article/best-iphone/).
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148647/16836" target="_top" id="2148647">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148647" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148647/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. Go to General in your iPhone Settings
 
 Go to your iPhone's Settings and select General. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047366/19272" target="_top" id="2047366">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047366" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047366/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 2\. Go to Software Update in Settings
 
@@ -43,13 +57,6 @@ Within General, tap on Software Update. This will show you if the iOS 18 update 
 ## 3\. Download and install
 
 When you tap on Software Update, your iPhone will check for the latest version of iOS available. Then, you'll be able to Download and Install the new update. Your iPhone will begin the download immediately.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948876/19272" target="_top" id="1948876">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948876" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948876/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 4\. Enter your passcode and follow steps to install
 
@@ -64,10 +71,10 @@ After installing the latest iOS update, your iPhone will restart.
 Apple Intelligence, featuring the company's AI tools, will begin to roll out for compatible iPhones over the next few weeks, with more features to join in the coming months. This slew of AI features will be available on the iPhone 16 lineup and the iPhones 15 Pro and Pro Max.
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826">
-  <img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2006919/19272" target="_top" id="2006919">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006919" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006919/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### When was iOS 18 released?
@@ -75,13 +82,6 @@ Apple Intelligence, featuring the company's AI tools, will begin to roll out for
 Apple released the iOS 18 developer beta during WWDC 2024 in June, and the public beta version was released on July 15\. The general release of iOS 18 is September 16.
 
 **Also: [The best iOS 18 features that will make updating your iPhone worthwhile](https://www.zdnet.com/article/the-best-ios-18-features-that-will-make-updating-your-iphone-worthwhile/)**
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100526/7443" target="_top" id="2100526">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100526" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Can you still download the iOS 18 public beta?
 
@@ -102,6 +102,13 @@ You'll need an iPhone running iOS 16.5 or later. Since not all iPhones are compa
 
 Screenshot: Maria Diaz/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://smilemakers.pxf.io/c/5597632/2123899/26106" target="_top" id="2123899">
+  <img src="//a.impactradius-go.com/display-ad/26106-2123899" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123899/26106" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### How to download the iOS 18 developer beta?
 
 To download the iOS 18 developer beta version, navigate to your settings to install the iOS 18 developer beta if your device runs iOS 16.4 and is used with an Apple ID enrolled in the Apple Developer Program:
@@ -117,13 +124,6 @@ If you can't see this option, go to your **Settings,** select **Privacy & Securi
 **Also: [How to use and customize your iPhone's new Control Center with iOS 18](https://www.zdnet.com/article/how-to-use-and-customize-your-iphones-new-control-center-with-ios-18/)**
 
 If you aren't already a member of the Apple Developer Program, you can sign up to become one in the app. An annual membership costs $99.
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### What is in iOS 18 beta 3?
 
@@ -169,24 +169,21 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-crafting-chorus-in-a-click-essential-insights-into-shortform-song-videos/"><u>[New] 2024 Approved Crafting Chorus in a Click Essential Insights Into Shortform Song Videos</u></a></li>
-<li><a href="https://extra-information.techidaily.com/new-cartoonhub-complete-guide-and-assessment-2024/"><u>[New] CartoonHub Complete Guide & Assessment 2024</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-maximizing-profile-video-attraction-strategies/"><u>[Updated] In 2024, Maximizing Profile Video Attraction Strategies</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/best-budget-friendly-srt-translators-unveiled-online-for-2024/"><u>Best Budget-Friendly SRT Translators Unveiled Online for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/convert-avchd-files-to-mp4-gratis-with-easy-steps-on-windows-11/"><u>Convert AVCHD Files to MP4 Gratis with Easy Steps on Windows 11</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/dead-by-daylight-bugs-be-gone-a-step-by-step-solution-to-error-code-8014/"><u>Dead by Daylight Bugs Be Gone - A Step-by-Step Solution to Error Code 8014</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/descarga-gratis-mejora-tus-archivos-en-formato-mkv-con-conversion-hevch265-sin-perder-calidad-ni-tiempo/"><u>Descarga Gratis: Mejora Tus Archivos en Formato MKV Con Conversión HEVC/H.265 Sin Perder Calidad Ni Tiempo</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/effizientes-dvd-video-konvertierungsprogramm-der-firma-digiarty-software-eine-umfassende-einfuhrung/"><u>Effizientes DVD-Video Konvertierungsprogramm Der Firma Digiarty Software: Eine Umfassende Einführung</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/gerer-les-transferts-en-ligne-facilement-apprenez-a-utiliser-winx-dvd-ripper-and-video-converter-logiciel/"><u>Gérer Les Transferts en Ligne Facilement: Apprenez À Utiliser WinX DVD Ripper & Vidéo Converter Logiciel</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/grandi-scelte-i-migliori-software-liberi-di-ottimizzazione-ai-video-per-pc-e-mac-top-10/"><u>Grandi Scelte: I Migliori Software Liberi Di Ottimizzazione AI Video per PC E Mac - Top 10</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-messages-from-honor-x7b-by-fonelab-android-recover-messages/"><u>How to Rescue Lost Messages from Honor X7b</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-can-i-use-itools-gpx-file-to-catch-the-rare-pokemon-on-realme-c51-drfone-by-drfone-virtual-android/"><u>In 2024, Can I use iTools gpx file to catch the rare Pokemon On Realme C51 | Dr.fone</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/join-microsofts-windows-insider-community-how-to-download-and-keep-your-device-updated-on-windows-nmobile/"><u>Join Microsoft's Windows Insider Community - How to Download & Keep Your Device Updated on Windows nMobile</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/mgv-to-mp4-convert-mgv-file-extensions-using-top-rated-conversion-software/"><u>MGV to MP4: Convert .mgv File Extensions Using Top-Rated Conversion Software</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/motorola-edgeplus-analysis-doesnt-quite-reach-top-tier-standards/"><u>Motorola Edge+ Analysis: Doesn't Quite Reach Top-Tier Standards</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/telechargement-gratuit-du-convertisseur-video-en-mp3-extraction-audio-facile-de-votre-video/"><u>Téléchargement Gratuit Du Convertisseur Vidéo en MP3 : Extraction Audio Facile De Votre Vidéo</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/top-ranked-hevc-h265-video-encoders-for-mac-optimized-hq-conversion/"><u>Top-Ranked HEVC (H.265) Video Encoders for Mac : Optimized HQ Conversion</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-the-5-best-free-video-trimmers-you-need-to-try-for-2024/"><u>Updated The 5 Best Free Video Trimmers You Need to Try for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/1725284231995-ai/"><u>ウィンクスビデオAI:揺らぎがなくなる画像安定化ソフトウェア</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-filming-to-fame-discovering-the-top-10-ladies-on-youtube/"><u>[New] 2024 Approved From Filming to Fame Discovering the Top 10 Ladies on YouTube</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-how-to-protectly-copy-youtube-tracks-for-free-for-2024/"><u>[New] How to Protectly Copy Youtube Tracks for Free for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-add-timestamp-on-youtube-video-link-desktop-and-mobile/"><u>[New] In 2024, How to Add Timestamp on YouTube Video Link? [Desktop and Mobile]</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-does-immediate-subscribing-affect-content-recommendations/"><u>[Updated] 2024 Approved Does Immediate Subscribing Affect Content Recommendations?</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-ideation-to-implementation-a-comprehensive-approach-for-quality-edu-videos/"><u>[Updated] 2024 Approved From Ideation to Implementation A Comprehensive Approach for Quality Edu-Videos</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-captivate-audience-attention-with-your-yt-shorts/"><u>[Updated] 2024 Approved How to Captivate Audience Attention with Your YT Shorts</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-guide-to-profiting-from-youtube-shorts-key-requirements-and-potential-income-for-2024/"><u>[Updated] Guide to Profiting From YouTube Shorts Key Requirements & Potential Income for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-fastest-growing-youtube-spots-top-8-for-rapid-expansion/"><u>[Updated] In 2024, Fastest-Growing YouTube Spots Top 8 for Rapid Expansion</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-master-your-vision-with-these-6-premier-nft-tools/"><u>2024 Approved Master Your Vision with These 6 Premier NFT Tools</u></a></li>
+<li><a href="https://apple-account.techidaily.com/can-i-remove-the-apple-watch-activation-lock-by-iphone-15-pro-max-without-the-previous-owner-by-drfone-ios/"><u>Can I Remove the Apple Watch Activation Lock By iPhone 15 Pro Max without the Previous Owner?</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/enabling-duplex-print-on-hp-workstation/"><u>Enabling Duplex Print on HP Workstation</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-can-i-get-more-stardust-in-pokemon-go-on-infinix-zero-5g-2023-turbo-drfone-by-drfone-virtual-android/"><u>How can I get more stardust in pokemon go On Infinix Zero 5G 2023 Turbo? | Dr.fone</u></a></li>
+<li><a href="https://driver-install.techidaily.com/maximize-device-capabilities-with-gaomon-s620-drivers/"><u>Maximize Device Capabilities with Gaomon S620 Drivers</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/perfecting-your-snapchat-story-cinematography-for-2024/"><u>Perfecting Your Snapchat Story Cinematography for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/step-by-step-guide-restoring-functionality-to-a-lone-airpod/"><u>Step-by-Step Guide: Restoring Functionality to a Lone AirPod</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/weekly-update-discontinuation-of-netflixs-basic-plan-and-enhanced-techniques-in-iphone-maintenance/"><u>Weekly Update: Discontinuation of Netflix's Basic Plan & Enhanced Techniques in iPhone Maintenance</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Unlocking Storage: A Step-by-Step Guide to Clear Your iPhone Memory & Save GBs | Tech Insights"
-date: 2024-10-04T20:58:26.028Z
-updated: 2024-10-10T00:39:29.291Z
+date: 2024-10-15T08:41:06.309Z
+updated: 2024-10-15T17:47:20.309Z
 tags:
   - apple
 categories:
@@ -30,18 +30,18 @@ If you want to follow along, you'll need to install the iOS 18 public beta on an
 
 ## How to customize your iPhone's new Control Center with iOS 18
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049390/7443" target="_top" id="2049390">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049390" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049390/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. Access Control Center
 
 To display Control Center, swipe down from the top-right corner of the screen. You'll notice that Control Center is now separated into three different screens. The first screen displays the core controls, the second screen shows the audio player and related settings, and the third has connectivity options. Swipe up or down to move from one screen to another, or tap one of the three icons on the right to jump to a specific one.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1006793/11832" target="_top" id="1006793">
-  <img src="//a.impactradius-go.com/display-ad/11832-1006793" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1006793/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 2\. Move the available controls
 
@@ -50,13 +50,6 @@ You can move any of the current controls on the first screen. To start, tap the 
 Screenshot by Lance Whitney/ZDNET
 
 **Also: [Every iPhone model that can be updated to Apple's iOS 18 (and which ones can't)](https://www.zdnet.com/article/every-iphone-model-that-can-be-updated-to-apples-ios-18-and-which-ones-cant/)**
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144275/7443" target="_top" id="2144275">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144275" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144275/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 3\. Resize a control
 
@@ -70,6 +63,13 @@ Next, you can directly delete a control you don't need or want. With the icons i
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934258/19272" target="_top" id="1934258">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934258" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934258/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 5\. Add a control to an existing screen
 
 You can easily add a control to any screen that has available space. Pick a screen with some empty space at the bottom. After tapping the plus icon, tap the command for "Add a Control." Browse the screens of accessible controls until you find the one you want to add. You can also look for a specific control by name through the Search field at the top. Tap the control, and it should appear in the available space, where you can move or resize it if you wish.
@@ -79,10 +79,10 @@ Screenshot by Lance Whitney/ZDNET
 **Also: [I did not expect this iOS 18 feature announced at WWDC to be my favorite (and it's not AI)](https://www.zdnet.com/article/i-did-not-expect-this-ios-18-feature-announced-at-wwdc-to-be-my-favorite-and-its-not-ai/)**
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136548/16384" target="_top" id="2136548">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136548" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136548/16384" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 6\. Add a control to a new screen
@@ -92,10 +92,10 @@ If the current screens are already filled with icons, you can set up additional 
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135360/19272" target="_top" id="2135360">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135360" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014854/22899" target="_top" id="2014854">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014854" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135360/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014854/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 7\. Power down from Control Center
@@ -134,21 +134,20 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/new-high-res-360-views-gear-vs-lgcam-showdown/"><u>[New] High-Res 360 Views Gear vs LGCam Showdown</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-spotlight-on-zdsoft-screen-capture-for-pros/"><u>[New] In 2024, Spotlight on ZDSoft Screen Capture for Pros</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-top-10-trends-in-effective-podcast-naming/"><u>[New] Top 10 Trends in Effective Podcast Naming</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-grid-artistry-at-its-peak-the-definitive-10-for-insta-posts/"><u>[Updated] 2024 Approved Grid Artistry at Its Peak The Definitive 10 for Insta Posts</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-in-2024-perfect-your-editing-full-mastery-of-fcp/"><u>[Updated] In 2024, Perfect Your Editing Full Mastery of FCP</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/beseitigung-des-problems-handbrake-ist-nun-64-bit-verfugbar-ersetzung-von-vlc-durch-eine-passende-version-fur-64-bit-systeme/"><u>Beseitigung Des Problems: HandBrake Ist Nun 64 Bit Verfügbar - Ersetzung Von VLC Durch Eine Passende Version Für 64 Bit Systeme</u></a></li>
-<li><a href="https://blog-min.techidaily.com/create-stunning-time-lapses-easily-learn-the-essentials-of-shooting-and-editing-with-a-gopro/"><u>Create Stunning Time-Lapses Easily: Learn the Essentials of Shooting & Editing with a GoPro.</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/de-beste-gratis-ki-videooptimeringstjenester-online-for-windowsmac/"><u>De Beste Gratis KI-Videooptimeringstjenester Online - For Windows/Mac</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/free-online-mov-to-mp4-converter-for-all-platforms-including-macos-and-windows-10/"><u>Free Online MOV-to-MP4 Converter for All Platforms Including macOS and Windows 10</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/how-to-legally-unlock-copyrighted-dvds-for-personal-use-discover-5-no-cost-techniques/"><u>How to Legally Unlock Copyrighted DVDs for Personal Use: Discover 5 No-Cost Techniques</u></a></li>
-<li><a href="https://video-capture.techidaily.com/in-2024-expert-guide-to-using-snap-on-zoom-webinars/"><u>In 2024, Expert Guide to Using Snap on Zoom Webinars</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fake-gps-on-vivo-y27s-for-mobile-legends-drfone-by-drfone-virtual-android/"><u>In 2024, How To Fake GPS On Vivo Y27s For Mobile Legends? | Dr.fone</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/restaurer-vos-souvenirs-le-top-des-logiciels-libres-de-reparation-photo-par-ia-les-meilleures-solutions-gratuites/"><u>Restaurer Vos Souvenirs : Le Top Des Logiciels Libres De Réparation Photo Par IA - Les Meilleures Solutions Gratuites</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/the-best-5-complimentary-video-recording-apps-you-shouldnt-miss/"><u>The Best 5 Complimentary Video Recording Apps You Shouldn't Miss</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-2024-approved-the-comprehensive-technique-for-merging-diverse-auditory-elements/"><u>Updated 2024 Approved The Comprehensive Technique for Merging Diverse Auditory Elements</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/winx-dvd-ripper-fur-mac-perfektes-dvd-konvertierungsprogramm-fur-ios-gerate-auf-dem-mac/"><u>WinX DVD Ripper Für Mac: Perfektes DVD-Konvertierungsprogramm Für iOS Geräte Auf Dem Mac</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-get-free-stock-footage-from-these-4-youtube-channels/"><u>[New] 2024 Approved Get Free Stock Footage From These 4 YouTube Channels</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-harvest-cost-free-visuals-from-leading-4-youtube-hubs/"><u>[New] 2024 Approved Harvest Cost-Free Visuals From Leading 4 YouTube Hubs</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-historical-deep-dives-from-youtubes-most-impactful-creators/"><u>[New] 2024 Approved Historical Deep Dives From YouTube's Most Impactful Creators</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-strategically-use-tags-for-youtube-success/"><u>[New] 2024 Approved How to Strategically Use Tags for YouTube Success</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-how-much-money-can-you-make-via-youtube-ad-revenue-and-cpm-rates-for-2024/"><u>[New] How Much Money Can You Make via YouTube Ad Revenue and CPM Rates for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-global-streaming-giants-face-off-facebook-live-youtube-live-periscope/"><u>[Updated] 2024 Approved Global Streaming Giants' Face-Off Facebook Live, YouTube Live, Periscope</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-in-2024-essential-mobile-media-creation-tools-iphone-vs-android-review/"><u>[Updated] In 2024, Essential Mobile Media Creation Tools IPhone vs Android Review</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-raw-footage-to-polished-highlights/"><u>[Updated] In 2024, From Raw Footage to Polished Highlights</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-the-art-of-bio-storytelling-on-social-media-platforms/"><u>[Updated] The Art of Bio Storytelling on Social Media Platforms</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-factory-reset-ipad-or-apple-iphone-11-pro-max-without-icloud-password-or-apple-id-by-drfone-ios/"><u>How to Factory Reset iPad or Apple iPhone 11 Pro Max without iCloud Password or Apple ID?</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-nullify-a-costly-fortnite-acquisition-and-regain-funds/"><u>How to Nullify a Costly Fortnite Acquisition and Regain Funds</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-ipogo-will-be-the-new-ispoofer-on-realme-c33-2023-drfone-by-drfone-virtual-android/"><u>In 2024, iPogo will be the new iSpoofer On Realme C33 2023? | Dr.fone</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-mastering-youtube-ultimate-guide-to-live-360-degree-streams/"><u>In 2024, Mastering YouTube Ultimate Guide to Live 360-Degree Streams</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-obs-optimization-for-seamless-fb-broadcasting/"><u>In 2024, OBS Optimization for Seamless FB Broadcasting</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/selecting-supreme-keyboard-wrist-supports-the-best-picks-for-a-healthy-2024/"><u>Selecting Supreme Keyboard Wrist Supports - The Best Picks for a Healthy 2024</u></a></li>
 </ul></div>
 

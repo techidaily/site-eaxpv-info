@@ -1,7 +1,7 @@
 ---
 title: Apple to Refresh Cost-Effective Watch SE? Unveiling Upcoming Improvements and New Specs | ZDNET
-date: 2024-10-05T20:03:38.359Z
-updated: 2024-10-09T20:56:30.729Z
+date: 2024-10-12T05:07:05.544Z
+updated: 2024-10-16T04:03:06.566Z
 tags:
   - apple
 categories:
@@ -46,13 +46,6 @@ Apple Intelligence will tap into your photos for a few different tricks. You'll 
 
 The [new Clean Up tool](https://www.zdnet.com/article/ios-18-1-beta-adds-photo-clean-up-ai-tool-and-notification-summaries-how-they-work/) will help you remove distracting or unwanted elements in a photo while leaving everything else intact.
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148642/16836" target="_top" id="2148642">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148642" border="0" alt="https://techidaily.com" width="300" height="50"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148642/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 3\. Audio transcriptions
 
 Using the Notes and Phone apps, you'll be able to [record, transcribe, and summarize a call](https://www.zdnet.com/article/apples-ios-18-will-let-you-record-phone-calls-without-a-third-party-app/) and other types of audio. When you start recording, the feature notifies everyone that the call is being recorded. Once the call ends, Apple Intelligence will not only transcribe it but summarize all its key points.
@@ -68,10 +61,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896560/19272" target="_top" id="1896560">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896560" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aidotcom.pxf.io/c/5597632/2134501/19576" target="_top" id="2134501">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134501" border="0" alt="https://techidaily.com" width="640" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896560/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134501/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Notification assistance
@@ -85,6 +78,13 @@ To help you get through your emails, Apple Intelligence will [try to understand 
 **Also: [The iPhone 16 is undeniably great hardware - but you should still probably skip it](https://www.zdnet.com/article/the-iphone-16-is-undeniably-great-hardware-but-you-should-still-probably-skip-it/)**
 
 Plus, a new Smart Reply feature will offer suggestions for quick replies and ensure that all the questions in a response have been addressed.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151892/7443" target="_top" id="2151892">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151892" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151892/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 6\. Siri improvements
 
@@ -107,10 +107,10 @@ Those are a fair number of AI-powered features and upgrades, but Apple Intellige
 Using the AI-powered [Image Playground](https://www.zdnet.com/article/what-is-apple-intelligence-everything-to-know-about-ai-features-coming-to-iphones-macs-and-ipads/), you'll be able to generate images based on a description, suggestions, or even a person from one of your photos. You can then tweak the style and make other changes based on how you plan to use or share the image.
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826">
-  <img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://coinrule.sjv.io/c/5597632/1958378/18409" target="_top" id="1958378">
+  <img src="//a.impactradius-go.com/display-ad/18409-1958378" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1958378/18409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Image wand
@@ -122,16 +122,10 @@ The [image wand](https://www.zdnet.com/article/forget-dall-e-apples-new-ai-image
 You'll be able to [create new emojis](https://www.zdnet.com/article/apples-new-ai-generated-genmoji-solve-a-problem-weve-all-had-before/) on-demand by entering a description or selecting a photo of you or another person. In response, the AI will generate a more accurate and lively kind of emoji.
 
 <!-- affiliate ads begin -->
-<span id="1983473">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983473.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983473">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983473.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983473%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983473/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135373/19272" target="_top" id="2135373">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135373" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135373/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### More Siri tricks
@@ -172,20 +166,18 @@ The big question, though, is not so much when the new AI features will arrive bu
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-longevity-in-the-clouds-top-10-drone-selections/"><u>[New] Longevity in the Clouds Top 10 Drone Selections</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/new-optimal-practices-for-blending-b-roll-into-main-clips/"><u>[New] Optimal Practices for Blending B-Roll Into Main Clips</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-voice-overhaul-made-simple-explore-7-best-audio-editing-apps-for-2024/"><u>[New] Voice Overhaul Made Simple Explore 7 Best Audio Editing Apps for 2024</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-obs-temporal-control-initiating-countdown-features-seamlessly/"><u>[Updated] OBS Temporal Control Initiating Countdown Features Seamlessly</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/winx/"><u>「オンラインでWinXスーパービデオパックを安全に購入する方法」</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/1725284590500-windows-11/"><u>優化 Windows 11 手機影片觀看體驗：理解最佳視訊設定</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/dvd-commentaire-decortiquer-sans-pecher-garantir-une-qualite-impeccable-a-100/"><u>DVD Commentaire Décortiquer Sans Pécher: Garantir Une Qualité Impeccable À 100%</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/economical-4k-digital-video-devices-for-2024/"><u>Economical 4K Digital Video Devices for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/entfernungsmethode-fur-den-dvd-kopierschutz-mit-winxdvd-ideal-fur-windows-and-apple-gerate/"><u>Entfernungsmethode Für Den DVD-Kopierschutz Mit WinXDVD – Ideal Für Windows & Apple Geräte</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/pc-gaming-fixes-why-isnt-payday-2-starting-solutions-inside/"><u>PC Gaming Fixes: Why Isn't Payday 2 Starting? Solutions Inside!</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/the-best-android-unlock-software-for-oneplus-device-top-5-picks-to-remove-android-locks-by-drfone-android/"><u>The Best Android Unlock Software For OnePlus Device Top 5 Picks to Remove Android Locks</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/top-5-tecniche-per-ridurre-in-settore-i-file-video-mkv-senza-costi/"><u>Top 5 Tecniche per Ridurre in Settore I File Video MKV Senza Costi</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/ultimate-guide-best-free-and-premium-swf-players-for-windows-11-compatibility/"><u>Ultimate Guide: Best Free and Premium SWF Players for Windows 11 Compatibility</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/updated-2024-approved-jaycut-crash-course-master-free-online-video-editing-in-no-time/"><u>Updated 2024 Approved Jaycut Crash Course Master Free Online Video Editing in No Time</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/2-dvdcdblu-ray/"><u>パワード2ゴーソフトウェア解説 - DVD/CD/Blu-Ray総合コンテンツ制作ツール</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-hot-takes-dailys-most-popular-video-tracks/"><u>[New] 2024 Approved Hot Takes Daily's Most Popular Video Tracks</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-find-your-perfect-match-top-8-mirrorless-cameras-for-live-streams-for-2024/"><u>[New] Find Your Perfect Match Top 8 Mirrorless Cameras For Live Streams for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-capture-facebook-videos-like-a-pro-select-the-best-firefox-addons-and-downloaders/"><u>[New] In 2024, Capture Facebook Videos Like a Pro Select the Best Firefox Addons & Downloaders</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-novice-to-pro-your-step-by-step-guide-to-youtube-live-images/"><u>[New] In 2024, From Novice to Pro Your Step-by-Step Guide to YouTube Live Images</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-pursuit-of-riches-terrarias-quintessential-map-rankings/"><u>[New] Pursuit of Riches Terraria’s Quintessential Map Rankings</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-harness-the-power-of-youtube-videos-to-create-stunning-gifs-online/"><u>[Updated] 2024 Approved Harness the Power of Youtube Videos to Create Stunning Gifs Online</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-innovative-approaches-5-techniques-for-recording-sounds-on-windows-11/"><u>[Updated] 2024 Approved Innovative Approaches 5 Techniques for Recording Sounds on Windows 11</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-in-2024-engage-viewers-beyond-individual-watches/"><u>[Updated] In 2024, Engage Viewers Beyond Individual Watches</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-fast-lanes-for-jumbled-youtube-playlist-arrangement/"><u>[Updated] In 2024, Fast Lanes for Jumbled YouTube Playlist Arrangement</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-the-ideal-youtube-vision-top-video-suggestions-to-energize-your-channel/"><u>[Updated] In 2024, The Ideal YouTube Vision Top Video Suggestions to Energize Your Channel</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/distinguished-crafters-superior-online-instagram-hlv-creators/"><u>Distinguished Crafters Superior Online Instagram HLV Creators</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-unlocking-virtual-video-talks-via-whatsapp-browser-on-your-pc/"><u>In 2024, Unlocking Virtual Video Talks via WhatsApp Browser on Your PC</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/step-by-step-tutorial-how-to-bypass-itel-s23-frp-by-drfone-android/"><u>Step-by-Step Tutorial How To Bypass Itel S23 FRP</u></a></li>
 </ul></div>
 

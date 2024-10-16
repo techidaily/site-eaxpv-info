@@ -1,7 +1,7 @@
 ---
 title: "Top Phones Recommended by ZDNet's Tech Experts: What They Truly Prefer and Why"
-date: 2024-10-07T23:01:17.842Z
-updated: 2024-10-09T17:51:44.181Z
+date: 2024-10-09T22:50:29.624Z
+updated: 2024-10-16T00:50:28.559Z
 tags:
   - apple
 categories:
@@ -26,13 +26,6 @@ At ZDNET, we've tested all of the best smartwatches on the market, testing their
 
 Based on both our [hands-on testing](https://www.zdnet.com/article/how-we-test-smartwatches-at-zdnet-in-2024/) and insights from experts, we named the [Apple Watch Ultra 2](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-watch%2Fapple-watch-ultra&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) the best smartwatch overall due to its new processor, long battery life, storage capacity, high-quality titanium materials, [sleep-tracking capabilities](https://www.zdnet.com/article/how-to-sleep-better-with-the-apple-watch/), women's wellness features, and advanced workout metric feature suite. If you're not an Apple user, read on to see how watches from [Samsung](https://www.zdnet.com/article/best-android-smartwatch/) (including its newest [Galaxy Watch Ultra](https://www.zdnet.com/article/the-galaxy-watch-ultra-convinced-me-to-replace-my-apple-watch-in-less-than-a-week-heres-why/)), Google (including its newest [Pixel Watch 3](https://www.zdnet.com/article/hands-on-with-the-pixel-watch-3-the-three-features-google-got-right/)), [Garmin,](https://www.zdnet.com/article/best-garmin-watch/) Withings, and Amazfit compare, to find the best smartwatch for your needs and your wrist. 
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148648/16836" target="_top" id="2148648">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148648" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148648/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  The best smartwatches of 2024
 
 Show less 
@@ -49,6 +42,13 @@ Pros
 Cons 
 * No offline mapping
 * May be too large for small wrists
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135407/19272" target="_top" id="2135407">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135407" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135407/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Apple Watch Ultra 2
 
@@ -79,13 +79,20 @@ Pros
 Cons 
 * Less than two-day battery life
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105877/7443" target="_top" id="2105877">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105877" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105877/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Apple Watch Series 9
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014849/22899" target="_top" id="2014849">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014849" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136615/26400" target="_top" id="2136615">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136615" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014849/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136615/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Best smartwatch for iPhone users
@@ -117,6 +124,13 @@ Pros
 
 Cons 
 * Not built for rugged adventures
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137211/26400" target="_top" id="2137211">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137211" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137211/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Google Pixel Watch 3
 
@@ -183,13 +197,6 @@ Pros
 Cons 
 * Large display is likely to consumer more battery power
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151872/7443" target="_top" id="2151872">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151872" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151872/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Samsung Galaxy Watch 7
 
 ### Best Samsung smartwatch for smaller wrists
@@ -219,6 +226,13 @@ Pros
 Cons 
 * Less than two days of battery life
 * Limited sleep details
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134497/18498" target="_top" id="2134497">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134497" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134497/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Apple Watch SE
 
@@ -285,13 +299,6 @@ Cons
 * No Google Assistant support
 * Overwhelming smartphone app experience
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118315/7443" target="_top" id="2118315">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118315" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118315/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Amazfit Balance
 
 ### Best basic, budget smartwatch
@@ -322,13 +329,6 @@ Pros
 Cons 
 * Some advanced metric require a subscription
 * Limited third-party support
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/994842/11832" target="_top" id="994842">
-  <img src="//a.impactradius-go.com/display-ad/11832-994842" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/994842/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Withings ScanWatch 2
 
@@ -364,13 +364,6 @@ If you're an Android user, you may prefer a Samsung Galaxy Watch Ultra -- the ne
 | Amazfit Balance            | $220      | 14 days          | 46mm                  |
 | Withings ScanWatch 2       | $350      | 30 days          | 38 and 42mm           |
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Which is the right smartwatch for you?
 
 If you're in the Apple ecosystem, we highly recommend the Apple Watch Ultra, Apple Watch SE, or Apple Watch Series 9 due to the easy connectivity and convenience of features like Apple Pay and Apple Music.
@@ -393,19 +386,6 @@ However, finding the best smartwatch for you can be more complicated, especially
 | Amazfit Balance               | An affordable smartwatch that punches far above its price. Its powerful smartphone application provides access to a wealth of health/fitness data while supporting calls and Amazon Alexa.                                                       |
 | Withings ScanWatch 2          | A hybrid watch that looks like a standard watch with analog hands, but underneath this elegant exterior is the power of the Withings health and wellness ecosystem.                                                                              |
 
-<!-- affiliate ads begin -->
-<span id="1983553">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983553.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983553">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983553.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983553%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983553/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Factors to consider when buying a smartwatch
 
 Smartwatches serve as companions to our smartphones, and there are several things to consider as you explore the many options available to you. Several factors will help you quickly narrow down available candidates, so let's take a closer look and help you select the best smartwatch for you.
@@ -414,6 +394,13 @@ Smartwatches serve as companions to our smartphones, and there are several thing
 * **Price:** Most smartwatches are priced in the $250 to $400 range, so there is not a lot of variance in price, especially if you use your smartwatch daily and want a reliable watch. Apple offers the high-end Apple Watch Ultra 2, while there are some specialized Google Wear OS and Garmin watches that can cost more than $1,000\.
 * **Battery life:** Expect your smartwatch to last a full day and night, so you can track your sleep and then charge it while you get ready for work. A few new smartwatches are now easily lasting 48 hours between charging, with some pushing that another day or two so we are seeing improvements in battery life.
 * **Cellular connectivity:** While smartwatches serve as companions to our smartphones, some models support cellular connectivity. If you buy one of these then you will need a watch line with your carrier, but these are typically $10 per month. The Apple Watch Ultra 2 and Samsung Galaxy Watch Ultra include LTE support by default, but you are not required to enable cellular service. Cellular capability is great for those who want to leave their phones behind and still remain connected for communications, application usage, and safety.
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148635/16836" target="_top" id="2148635">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148635" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148635/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How we test smartwatches
 
@@ -443,6 +430,13 @@ Watches in our list, other than Google Wear OS or Apple Watch models, are typica
 If you own a Google Wear OS smartwatch, primarily from Google or Samsung, then the Google Watch or Samsung Wearable application must first be installed on your Android smartphone. Google Pixel Watch models also now have Fitbit integrated into the watch, but to take advantage of this vast health/fitness ecosystem the Fitbit smartphone application is also required. Samsung also has its Samsung Health application so pairing and setting up a Google Wear OS watch is a bit of a process that generally requires two or more smartphone applications.
 
 Apple Watch users turn on the watch and then follow the prompts to pair it to an iPhone, often with the iPhone camera scanning an image that appears on the Apple Watch face. Apple has the Watch smartphone application preloaded on the iPhone so set up is quick and easy. If you had a previous Apple Watch then you can also have all of that data synced over to a new model, which makes upgrading Apple Watch models one of the experiences that keep people upgrading on a regular basis.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105866/7443" target="_top" id="2105866">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105866" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105866/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Can you use a Samsung or Google watch with an iPhone?
 
@@ -476,13 +470,6 @@ People also regularly have video calls with family and friends, not just coworke
 
 In addition, as AI continues to integrate into our lives, having this technology available in our watches should help provide data faster and more accurately than simple web search queries that we may carry out with Siri or Google Assistant.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094476/7443" target="_top" id="2094476">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094476" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094476/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## What's the best smartwatch for health monitoring?
 
 All smartwatches today integrate advanced heart rate sensors, temperature sensors, blood oxygen sensors, and more, as our health data is tracked 24/7\. Samsung led the way with its smartwatch health monitoring, which includes body composition, advanced sleep tracking, ECG, blood oxygen, running power, and even blood pressure measurements.
@@ -502,6 +489,13 @@ Devices, like those from [Dexcom](https://www.dexcom.com/all-access/dexcom-cgm-e
 There are a [few models out there](https://www.healthline.com/health/best-blood-pressure-monitor-watches) that can measure health stats like blood pressure, which are great for giving you a general idea of how your health journey is going so you can keep your doctors up-to-date with your healthcare plans. However, they're not as accurate as a blood pressure monitor, so you shouldn't rely solely on your smartwatch to monitor your heart or general health.
 
 Samsung provides blood pressure monitoring via its Galaxy Watch models in countries outside the US, with rumors that Apple may launch watches supporting this functionality in 2024.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049383/7443" target="_top" id="2049383">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049383" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049383/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Should I choose a smartwatch based on compatibility?
 
@@ -565,24 +559,22 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-2024-approved-transform-canvas-into-magic-the-best-mac-drawing-apps/"><u>[New] 2024 Approved Transform Canvas Into Magic - The Best Mac Drawing Apps</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-legally-safe-chants-and-tunes-the-ultimate-meditation-list/"><u>[Updated] Legally Safe Chants & Tunes - The Ultimate Meditation List</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-ultimate-8-choice-of-cameras-for-excellent-video-feeds/"><u>[Updated] Ultimate 8 Choice of Cameras for Excellent Video Feeds</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/can-handbrake-handle-and-convert-av1-video-format/"><u>Can HandBrake Handle and Convert AV1 Video Format?</u></a></li>
-<li><a href="https://extra-information.techidaily.com/drone-racing-mastery-basic-knowledge-and-quintessential-fpv-models/"><u>Drone Racing Mastery Basic Knowledge & Quintessential FPV Models</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/1725287754052-dvd/"><u>DVDからパソコンへ：データ化し、そして高品質なビデオに再生する方法</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/effizienteste-wege-um-iphone-bilder-direkt-auf-ein-usb-speichergerat-zu-ubertragen-computerfrei/"><u>Effizienteste Wege, Um iPhone-Bilder Direkt Auf Ein USB-Speichergerät Zu Übertragen - Computerfrei!</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/expert-tips-for-minimizing-video-files-by-90-while-keeping-quality-above-90/"><u>Expert Tips for Minimizing Video Files by 90% While Keeping Quality Above 90%</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-intercept-text-messages-on-lava-blaze-2-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Intercept Text Messages on Lava Blaze 2 Pro | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-remove-the-lock-screen-fingerprint-of-your-samsung-galaxy-f14-5g-by-drfone-android/"><u>In 2024, Remove the Lock Screen Fingerprint Of Your Samsung Galaxy F14 5G</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/in-2024-youtube-video-editor-guide-and-review/"><u>In 2024, YouTube Video Editor Guide and Review</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/mastering-dvd-decryption-remove-copy-protection-with-winxdvd-for-pc-and-mac-users/"><u>Mastering DVD Decryption: Remove Copy Protection with WinXDVD for PC & Mac Users</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/mastering-dvd-ripping-a-step-by-step-guide-to-extracting-and-renaming-titles-correctly/"><u>Mastering DVD Ripping: A Step-by-Step Guide to Extracting and Renaming Titles Correctly</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/new-edit-videos-on-mac-vn-video-editor-and-beyond-for-2024/"><u>New Edit Videos on Mac VN Video Editor and Beyond for 2024</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/sculpting-your-online-presence-with-top-niche-creators-for-2024/"><u>Sculpting Your Online Presence with Top Niche Creators for 2024</u></a></li>
-<li><a href="https://driver-error.techidaily.com/step-by-step-guide-restoring-the-missing-coprocessor-on-windows-nix/"><u>Step-by-Step Guide: Restoring the Missing Coprocessor on Windows Nix</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/the-ultimate-guide-top-22-free-video-compression-tools-compatible-with-windows-and-macos/"><u>The Ultimate Guide: Top 22 Free Video Compression Tools Compatible with Windows & macOS</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/1725290425929-windows-11/"><u>Windows 11音楽再生ソフト選びガイド | 無料高画質プレイヤーと再生方法紹介</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/windows-11and/"><u>Windows 11におけるビデオ再生不能問題：原因分析&対策ガイド</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-graphic-portrayal-of-future-social-momentum/"><u>[New] 2024 Approved Graphic Portrayal of Future Social Momentum</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-free-online-services-for-youtube-images-extraction/"><u>[New] In 2024, FREE Online Services for YouTube Images Extraction</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-how-to-download-whatsapp-ringtone-and-customize-it-on-ios-and-android/"><u>[Updated] 2024 Approved How To Download WhatsApp Ringtone And Customize It On iOS And Android</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-pcs-premier-ps3-imitators-ranked-top-5-choices/"><u>[Updated] 2024 Approved PC's Premier PS3 Imitators Ranked Top 5 Choices</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-first-steps-launching-a-youtube-channel-for-profit-for-2024/"><u>[Updated] First Steps Launching a YouTube Channel for Profit for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-getting-started-with-stylish-mac-made-youtube-vids-for-2024/"><u>[Updated] Getting Started with Stylish Mac-Made YouTube Vids for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-50-free-youtube-banners-come-see-them-all/"><u>[Updated] In 2024, 50 FREE YouTube Banners - Come See Them All</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-fast-track-a-step-by-step-guide-for-swiftly-deleting-comments-on-youtube/"><u>[Updated] In 2024, Fast Track A Step by Step Guide for Swiftly Deleting Comments on YouTube</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-filmmakers-choice-for-steady-videos/"><u>[Updated] In 2024, Filmmaker's Choice for Steady Videos</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-authenticate-your-yt-account-a-hint-list/"><u>[Updated] In 2024, How to Authenticate Your YT Account? A Hint List</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-ultimate-rotation-video-mounting/"><u>[Updated] Ultimate Rotation Video Mounting</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/effortless-softsub-management-mastering-the-art-of-customizing-video-captions-quickly-and-effectively/"><u>Effortless Softsub Management: Mastering the Art of Customizing Video Captions Quickly and Effectively</u></a></li>
+<li><a href="https://driver-error.techidaily.com/expert-advice-overcoming-0x0000007e-bsod-issue-in-windows-7-computers/"><u>Expert Advice: Overcoming 0X0000007E BSoD Issue in Windows 7 Computers</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/gratuite-convertisseur-video-online-pour-transformer-3gp-en-flac-et-wav-avec-movavi/"><u>Gratuité: Convertisseur Vidéo Online Pour Transformer 3GP en FLAC Et WAV Avec Movavi</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-6-appsservices-to-trace-any-oppo-reno-11f-5g-location-by-mobile-number-drfone-by-drfone-virtual-android/"><u>Top 6 Apps/Services to Trace Any Oppo Reno 11F 5G Location By Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-2024-approved-deciphering-and-disarming-acoustic-distortion-simple-remedies-explored/"><u>Updated 2024 Approved Deciphering and Disarming Acoustic Distortion Simple Remedies Explored</u></a></li>
+<li><a href="https://extra-information.techidaily.com/video-enhanced-pedagogy-tools-and-tactics/"><u>Video-Enhanced Pedagogy Tools and Tactics</u></a></li>
 </ul></div>
 

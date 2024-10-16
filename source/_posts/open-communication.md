@@ -1,7 +1,7 @@
 ---
 title: Open Communication
-date: 2024-10-05T02:35:54.454Z
-updated: 2024-10-09T21:29:51.665Z
+date: 2024-10-15T04:07:08.060Z
+updated: 2024-10-16T08:27:01.706Z
 tags:
   - apple
 categories:
@@ -31,16 +31,16 @@ New with the latest version of watchOS is a feature called Check In. Accessible 
 **What you'll need**: To use Check In, you have to be running watchOS 11 or higher on your Apple Watch, which requires iOS 18 or higher on your iPhone. [These Apple Watch models](https://www.zdnet.com/article/every-apple-watch-that-will-get-watchos-11-and-which-models-wont-be-supported/) can run watchOS 11.
 
 <!-- affiliate ads begin -->
-<span id="1770526">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770526.png"
+<span id="1492813">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1492813.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770526">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770526.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1492813">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1492813.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770526%2F20702'), '_blank');void(0);">Click here</a></div>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1492813%2F14559'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770526/20702" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1492813/14559" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 1\. Update your devices
@@ -53,11 +53,25 @@ Screenshot by Lance Whitney/ZDNET
 
 **Also: [I was on the fence with the Apple Watch 10, but these 3 features changed my mind](https://www.zdnet.com/article/i-was-on-the-fence-with-the-apple-watch-10-but-these-3-features-changed-my-mind/)**
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144271/7443" target="_top" id="2144271">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144271" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144271/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Send the default Check In through the Messages app
 
 Launch the Messages app on your Apple Watch. Start or continue a conversation with a trusted family member or friend. Tap the + icon to the left of the iMessage field. From the menu, select Check In. By default, the Check In screen will indicate a specific destination, such as home or work, and the estimated time of arrival from your current location. The feature will use a timer to determine how long it will take you to reach the destination. If you wish to share that information as is with the other person, tap Send.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016134/19272" target="_top" id="2016134">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016134" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016134/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. View the initial Check In notification
 
@@ -74,13 +88,6 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
  Subscribe
 
 [See all](https://www.zdnet.com/newsletters/)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129739/7443" target="_top" id="2129739">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129739" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129739/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 4\. View the actual Check in alert
 
@@ -105,10 +112,16 @@ To further customize the Check In, tap the Edit button at the Check In screen. T
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1175223/12108" target="_top" id="1175223">
-  <img src="//a.impactradius-go.com/display-ad/12108-1175223" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1175223/12108" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983474">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983474.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983474">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983474.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983474%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983474/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 7\. Add a destination and send the text
@@ -118,13 +131,6 @@ Next, tap the link for "Add a Destination." Start typing the address of the dest
 Screenshot by Lance Whitney/ZDNET
 
 **Also: [Your Apple Watch is getting an upgrade - here are the best features in WatchOS 11](https://www.zdnet.com/article/your-apple-watch-is-getting-an-upgrade-here-are-the-best-features-in-watchos-11/)**
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/1062450/7443" target="_top" id="1062450">
-  <img src="//a.impactradius-go.com/display-ad/7443-1062450" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062450/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 8\. Set a Check In for a workout in the Messages app
 
@@ -168,19 +174,22 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-gentle-glide-of-noises-subdued-amplitude-adjustment/"><u>[New] 2024 Approved Gentle Glide of Noises Subdued Amplitude Adjustment</u></a></li>
-<li><a href="https://howto.techidaily.com/11-proven-solutions-to-fix-google-play-store-not-working-issue-on-xiaomi-redmi-k70-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Proven Solutions to Fix Google Play Store Not Working Issue on Xiaomi Redmi K70 | Dr.fone</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-smooth-sailing-in-filming-top-phones-offering-premium-image-stabilization/"><u>2024 Approved Smooth Sailing in Filming Top Phones Offering Premium Image Stabilization</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/3-methods-to-mirror-oppo-a1x-5g-to-roku-drfone-by-drfone-android/"><u>3 Methods to Mirror Oppo A1x 5G to Roku | Dr.fone</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/mkv-to-ogg-movavi/"><u>専用ツールを使った無料のMKV to OGGコンバーター - Movaviオンラインサポート</u></a></li>
-<li><a href="https://discover-guides.techidaily.com/accelera-la-reproduccion-de-video-y-audio-rapidamente-utilice-winxvideo-ai-para-rendimiento-optimizado-por-gpu/"><u>Accelera La Reproducción De Video Y Audio Rápidamente: Utilice Winxvideo AI Para Rendimiento Optimizado Por GPU</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/convert-mp4-videos-to-webm-format-for-free-moveavis-online-transcoding-tool/"><u>Convert MP4 Videos to WebM Format for Free - Moveavi's Online Transcoding Tool</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/eliminating-skipping-videos-with-movavis-troubleshooting-tips/"><u>Eliminating Skipping Videos with Movavi's Troubleshooting Tips</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1723964483569-harness-up-to-100w-of-energy-with-the-revolutionary-amd-rx-76m-xt-external-gpu-the-new-laptop-charger-and-performance-behemoth-inside-wiko-hi-gt-cube/"><u>Harness Up to 100W of Energy with the Revolutionary AMD RX 76#M XT External GPU: The New Laptop Charger and Performance Behemoth Inside Wiko Hi GT Cube.</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-your-apple-iphone-15-pro-max-passcode-4-easy-methods-with-or-without-itunes-drfone-by-drfone-ios/"><u>In 2024, How to Unlock Your Apple iPhone 15 Pro Max Passcode 4 Easy Methods (With or Without iTunes) | Dr.fone</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/mastering-easy-underwater-film-making-top-7-hacks/"><u>Mastering Easy Underwater Film-Making Top 7 Hacks</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/movavi-mp4-mp4/"><u>Movavi MP4 형식을 무료 MP4로 온라인 전환 - 원두</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/snapchat-audio-ensuring-whole-video-playback-every-time-for-2024/"><u>Snapchat Audio Ensuring Whole Video Playback Every Time for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/mp4-swf-movavi-online/"><u>무승부로 매우 편리한 MP4 SWF 변환 도구 - Movavi Online 사용자가 만나는 독창성</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-discovering-disconnected-users-in-social-network/"><u>[New] 2024 Approved Discovering Disconnected Users in Social Network</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-feast-of-fame-top-30-show-titles-to-sizzle-viewership/"><u>[New] 2024 Approved Feast of Fame Top 30 Show Titles to Sizzle Viewership</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-individualist-to-institutional-influence-in-the-youtube-universe/"><u>[New] 2024 Approved From Individualist to Institutional Influence in the YouTube Universe</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-dynamic-design-techniques-for-seamless-video-fades/"><u>[New] Dynamic Design Techniques for Seamless Video Fades</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-hidden-details-you-need-to-know-about-youtube-tv-service-for-2024/"><u>[New] Hidden Details You Need to Know About YouTube TV Service for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-black-and-white-to-color-classic-video-transition-tips/"><u>[New] In 2024, From Black-and-White to Color Classic Video Transition Tips</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-top-8-ios-pencil-programs-perfected-for-ipados-for-2024/"><u>[New] Top 8 iOS Pencil Programs Perfected for iPadOS for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-filming-to-fame-discovering-the-top-10-ladies-on-youtube/"><u>[Updated] 2024 Approved From Filming to Fame Discovering the Top 10 Ladies on YouTube</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-grasping-the-essence-of-your-youtube-community-for-2024/"><u>[Updated] Grasping the Essence of Your YouTube Community for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-eyeballs-to-earnings-the-price-of-popular-videos/"><u>[Updated] In 2024, From Eyeballs to Earnings The Price of Popular Videos</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-harness-10-tools-to-grab-youtube-images-online/"><u>[Updated] In 2024, Harness 10 Tools to Grab YouTube Images Online</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-unlock-the-potential-of-top-ranked-tiktok-campaigns/"><u>[Updated] Unlock the Potential of Top-Ranked TikTok Campaigns</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/1725285489021-windows-11-dvd/"><u>無料で簡単な方法！Windows 11 DVDコピーソフトウェアベスト５選、初心者におすすめの作り方集計概要</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-best-10-mock-location-apps-worth-trying-on-lenovo-thinkphone-drfone-by-drfone-virtual-android/"><u>In 2024, Best 10 Mock Location Apps Worth Trying On Lenovo ThinkPhone | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-fake-snapchat-location-without-jailbreak-on-samsung-galaxy-s21-fe-5g-2023-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fake Snapchat Location without Jailbreak On Samsung Galaxy S21 FE 5G (2023) | Dr.fone</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-isolate-subject-a-step-by-step-guide-to-clear-borders/"><u>In 2024, Isolate Subject – A Step-by-Step Guide to Clear Borders</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/precision-shooting-leading-10-gimbals-ranked-for-2024/"><u>Precision Shooting Leading 10 Gimbals Ranked for 2024</u></a></li>
 </ul></div>
 

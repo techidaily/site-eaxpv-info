@@ -1,7 +1,7 @@
 ---
 title: "Secure Your iPhone From Being Located via Journal App: A Step-by-Step Guide | Tech Insights by ZDNET"
-date: 2024-10-09T00:23:56.142Z
-updated: 2024-10-09T19:02:33.057Z
+date: 2024-10-12T18:17:32.475Z
+updated: 2024-10-15T17:12:03.928Z
 tags:
   - apple
 categories:
@@ -31,10 +31,10 @@ Image: Maria Diaz / ZDNet
 This option gives you access to your Apple ID, iCloud, and Purchases settings. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144280/7443" target="_top" id="2144280">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144280" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134489/18498" target="_top" id="2134489">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134489" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144280/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134489/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Step 2: Tap on iCloud
@@ -44,6 +44,13 @@ Image: Maria Diaz / ZDNet
 ### Step 3: Go to iCloud Backup
 
 Image: Maria Diaz / ZDNet
+
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576474/17382" target="_top" id="1576474">
+  <img src="//a.impactradius-go.com/display-ad/17382-1576474" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576474/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Step 4: Enable iCloud Backup and select Back up Now
 
@@ -65,13 +72,6 @@ Image: Maria Diaz / ZDNet
 
 Gone are the days when iTunes was the go-to to get data out of your iPhone. Open **Finder** to view your iPhone in **Locations,** and there will be a snapshot of the current storage information, current iOS and any updates, and backup options.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148774/18498" target="_top" id="2148774">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148774" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148774/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Step 3: Select Back up to this Mac and click on Back Up Now
 
 Image: Maria Diaz / ZDNet
@@ -79,6 +79,19 @@ Image: Maria Diaz / ZDNet
 Be sure to select **Back up all of the data on your iPhone to this Mac** before clicking on **Back Up Now**.
 
 Creating a backup could take a few minutes or a couple of hours, depending on how much data you have to back up. Mine took a little over an hour, but I hadn't backed up my iPhone in over a year. 
+
+<!-- affiliate ads begin -->
+<span id="1983582">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983582.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983582">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983582.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983582%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983582/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How much does iCloud cost?
 
@@ -91,27 +104,20 @@ Here are the [different plans iCloud offers](https://apple.sjv.io/c/159047/43503
 * iCloud+: 200GB of storage $2.99
 * iCloud+: 2TB of storage $9.99
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148648/16836" target="_top" id="2148648">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148648" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148648/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Is it better to back up iPhone on a computer or iCloud?
 
 Both options have their pros and cons, but I personally prefer a cloud service backup. I like having my photos and videos easily accessible through an app on my phone without occupying storage space. This beats having to get into a computer to find an old photo every time I want one. 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902294/19272" target="_top" id="1902294">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902294" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902294/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Do I need to back up iPhone apps?
 
 Your purchased apps don't need to be backed up; that information is associated with your Apple ID, so they can be easily downloaded when you want them again. 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135362/19272" target="_top" id="2135362">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135362" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135362/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Is there another cloud service aside from iCloud?
 
@@ -149,22 +155,16 @@ There are a lot of cloud options, but it's important to make sure you're giving 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/updated-exclusive-offer-20-free-luts-just-for-dji-mini-and-air-users-for-2024/"><u>[Updated] Exclusive Offer 20 FREE LUTS Just for DJI Mini & Air Users for 2024</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-how-to-captivate-viewers-with-stunning-story-bokeh/"><u>[Updated] In 2024, How to Captivate Viewers with Stunning Story Bokeh</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/updated-perfecting-your-content-chrome-compatible-tiktok-uploads-for-2024/"><u>[Updated] Perfecting Your Content Chrome-Compatible TikTok Uploads for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/vobogm-movavi/"><u>「完全無償でオンラインVOBファイルをOGMに簡単変換: Movaviの解決方法」</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-rotated-video-conundrum-in-instagrams-feed/"><u>2024 Approved The Rotated Video Conundrum in Instagram's Feed</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/1726222121917-20245/"><u>最新！2024年にハイテクな動画変換ツールベスト5を無料でご紹介</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/achieving-peak-audience-interaction-with-wirecast-on-facebook-for-2024/"><u>Achieving Peak Audience Interaction with Wirecast on Facebook for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/best-free-video-editing-programs-of-2024-top-picks-for-no-cost-online-editors/"><u>Best Free Video Editing Programs of 2024 - Top Picks for No-Cost Online Editors</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/descubre-el-tratodo-sobre-la-conversion-de-archivos-video-wmv-usando-ram-en-linea-gratis-la-solucion-de-movavi/"><u>Descubre El Tratodo Sobre La Conversión De Archivos Vídeo WMV Usando RAM en Línea Gratis: La Solución De Movavi</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/download-and-install-amd-drivers-seamlessly-with-automated-setup-feature/"><u>Download and Install AMD Drivers Seamlessly with Automated Setup Feature</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/how-to-get-rid-of-the-blue-cast-on-screen-8-proven-fixes/"><u>How to Get Rid of the Blue Cast on Screen – 8 Proven Fixes</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-cast-honor-x9a-to-computer-for-iphone-and-android-drfone-by-drfone-android/"><u>In 2024, How to Cast Honor X9a to Computer for iPhone and Android? | Dr.fone</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/online-gratuit-mov-naar-mjpeg-konvertor-efficient-en-gemakkelijk-met-moveavi/"><u>Online Gratuit MOV Naar MJPEG Konvertor: Efficiënt en Gemakkelijk Met Moveavi</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/top-picks-optimal-sites-for-downloading-alarm-tones/"><u>Top Picks Optimal Sites for Downloading Alarm Tones</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/trasforma-gratuitamente-le-tue-playlist-aifc-in-file-m4r-personalizzati-con-lapplicazione-di-conversione-online-di-movavi/"><u>Trasforma Gratuitamente Le Tue Playlist AIFC in File M4R Personalizzati Con L'applicazione Di Conversione Online Di Movavi</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/vobasf-movavi/"><u>VOB/ASF 파일 제자리에서 오픈 소스에서 쉽게 바이널을 조정하는 방법 - Movavi</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/web-wmv-f4v/"><u>영상 제한 없이 Web에서 자유성 비용 WMV, F4V 전환 - 모바이브</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-top-15-youtube-recording-software-for-gamers/"><u>[New] 2024 Approved Top 15 YouTube Recording Software for Gamers</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-foremost-directors-of-cinematic-harmony-for-2024/"><u>[New] Foremost Directors of Cinematic Harmony for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-how-does-youtube-manage-post-upload-operations-for-2024/"><u>[New] How Does YouTube Manage Post-Upload Operations for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-hashtag-mastery-enhancing-freefire-gameplay-videos/"><u>[New] In 2024, Hashtag Mastery Enhancing FreeFire Gameplay Videos</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-a-tale-of-high-quality-mobility-sony-xperia-xz-summary-for-2024/"><u>[Updated] A Tale of High-Quality Mobility Sony Xperia XZ Summary for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-free-online-editors-the-essential-guide/"><u>[Updated] In 2024, Free Online Editors The Essential Guide</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/exclusive-list-the-most-reliable-10-vimeo-downloader-apps/"><u>Exclusive List The Most Reliable 10 Vimeo Downloader Apps</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/exploring-the-latest-in-computer-hardware-with-toms-hardware/"><u>Exploring the Latest in Computer Hardware with Tom's Hardware</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/how-to-make-a-bootable-recovery-drive-on-different-pcs/"><u>How to Make a Bootable Recovery Drive on Different PCs</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-upgrade-iphone-6s-without-losing-any-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Upgrade iPhone 6s without Losing Any Data? | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolving-earpods-microphone-issues-in-astro-a50-headsets-with-ease/"><u>Resolving EarPods Microphone Issues in Astro A50 Headsets with Ease</u></a></li>
 </ul></div>
 

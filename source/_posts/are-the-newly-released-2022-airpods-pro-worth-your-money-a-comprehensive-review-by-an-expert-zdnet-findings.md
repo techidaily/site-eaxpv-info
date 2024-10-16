@@ -1,7 +1,7 @@
 ---
 title: Are the Newly Released 2022 AirPods Pro Worth Your Money? A Comprehensive Review by an Expert | ZDNET Findings
-date: 2024-09-30T18:08:26.989Z
-updated: 2024-10-04T17:59:39.737Z
+date: 2024-10-13T06:00:04.907Z
+updated: 2024-10-15T18:38:19.384Z
 tags:
   - apple
 categories:
@@ -41,14 +41,14 @@ Cons
 * Limited customization
 * Only one height setting
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1001453/11832" target="_top" id="1001453">
-  <img src="//a.impactradius-go.com/display-ad/11832-1001453" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001453/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Logitech MX Keys S Wireless Keyboard
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880972/19272" target="_top" id="1880972">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880972" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880972/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Best keyboard overall
 
@@ -113,10 +113,10 @@ Cons
 ## Corsair K100 RGB Keyboard
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880972/19272" target="_top" id="1880972">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880972" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2027167/19272" target="_top" id="2027167">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027167" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880972/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027167/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Best gaming keyboard
@@ -143,6 +143,13 @@ Pros
 Cons 
 * Can feel awkward
 * Lacks backlighting
+
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1172027/12108" target="_top" id="1172027">
+  <img src="//a.impactradius-go.com/display-ad/12108-1172027" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1172027/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Microsoft Sculpt Ergonomic Desktop Keyboard
 
@@ -173,14 +180,14 @@ Cons
 * Not Mac-compatible
 * Restricted to linear switches
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036496/19272" target="_top" id="2036496">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036496" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036496/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Razer Pro Type Ultra Keyboard
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144271/7443" target="_top" id="2144271">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144271" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144271/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Best quiet keyboard
 
@@ -231,6 +238,13 @@ In my search for the best keyboards, I considered several different factors.
 * **Connectivity:** There are both wired and wireless keyboards available, depending on your preference.
 * **Price:** The cost of keyboards can vary significantly, depending on the model and brand that you choose. For example, the Razer and Corsair models will cost you significantly more than the Apple keyboard.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2129740/7443" target="_top" id="2129740">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129740" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129740/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## What size keyboard should you buy?
 
 There are a few different types of keyboard sizes from which to choose. 
@@ -242,13 +256,6 @@ There are a few different types of keyboard sizes from which to choose.
 
 Buzzetta agrees, saying it's up to user preference, "You want to take into consideration the size of your hands, the size of your desk space, and what you're comfortable with. It's like a car," he explains, "You really gotta test drive it to get the complete feel."
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129738/7443" target="_top" id="2129738">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129738" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129738/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Should I buy a wired or wireless keyboard?
 
 Rosenfeld offers his advice, saying, "Wireless keyboards give you more freedom and help keep your desk clutter-free. But some folks might like the stability and reliability of a wired connection better."
@@ -258,10 +265,16 @@ Buzzetta adds, "Wired keyboards are slightly more responsive and are the best wh
 When picking between a wired or wireless keyboard, it's really up to you, says Rosenfeld. 
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1521325/16446" target="_top" id="1521325">
-  <img src="//a.impactradius-go.com/display-ad/16446-1521325" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1521325/16446" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1424528">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How much do the best keyboards cost?
@@ -273,13 +286,6 @@ The cost of keyboards can really run the gamut based on factors like manufacture
 Logitech is one of the best keyboard manufacturers that you can choose from for your new keyboard. We found many top-rated models that users love, including these models, that may also be a great fit for you.
 
 [Best wireless keyboard alternative Logitech G915 TKL Save yourself a headache by skipping the fuss of wires. This best wireless keyboard keeps things neat. View at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FLogitech-Tenkeyless-Lightspeed-Mechanical-LIGHTSYNC%2Fdp%2FB085RLZ1C4%3Fth%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ca02ea832-b0c3-430b-ade0-a5f9869fe91c%7Cdtp&dtb=1)[Best compact alternative Logitech MX Keys Mini If space is an issue, this best keyboard won't take up a lot of room. Users love its easy, compact design. View at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FLogitech-Minimalist-Illuminated-Bluetooth-Compatible%2Fdp%2FB098JPSVKY%3Fth%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ca02ea832-b0c3-430b-ade0-a5f9869fe91c%7Cdtp&dtb=1)[Best mechanical alternative Logitech MX Mechanical Keyboard If you are looking for a mechanical keyboard, Logitech makes that, too. This best mechanical keyboard comes highly recommended. View at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FLogitech-Mechanical-Illuminated-Performance-Bluetooth%2Fdp%2FB09LJWWX4Y%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ca02ea832-b0c3-430b-ade0-a5f9869fe91c%7Cdtp&dtb=1)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118311/7443" target="_top" id="2118311">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118311" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118311/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Meet the experts
 
@@ -332,16 +338,21 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-free-vs-paid-youtubes-exclusive-picks-for-superior-opening-tutorials-for-2024/"><u>[New] Free vs Paid YouTube's Exclusive Picks for Superior Opening Tutorials for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-harnessing-the-potential-of-youtube-shorts-advertising-for-2024/"><u>[New] Harnessing the Potential of YouTube Shorts Advertising for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-gastronomic-genius-ideal-culinary-network-name-strategies/"><u>[New] In 2024, Gastronomic Genius Ideal Culinary Network Name Strategies</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-premier-editing-software-for-vimeo-streams/"><u>[New] In 2024, Premier Editing Software for Vimeo Streams</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-virtual-playstation-experience-at-your-fingertips-top-5/"><u>[New] Virtual PlayStation Experience at Your Fingertips (Top 5)</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-crafting-videos-youtube-tools-and-more/"><u>[Updated] 2024 Approved Crafting Videos YouTube Tools and More</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-free-cash-flow-estimator-apps/"><u>[Updated] 2024 Approved Free Cash Flow Estimator Apps</u></a></li>
-<li><a href="https://solve-helper.techidaily.com/effektive-ablaufe-im-anspruchsmanagement-wie-gut-funktioniert-der-lebenszyklus-bei-abbyy/"><u>Effektive Abläufe Im Anspruchsmanagement - Wie Gut Funktioniert Der Lebenszyklus Bei ABBYY?</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/enhance-your-website-with-cookiebots-leading-conversion-optimization/"><u>Enhance Your Website with Cookiebot's Leading Conversion Optimization</u></a></li>
-<li><a href="https://techtrends.techidaily.com/must-watch-athletic-dramas-our-picks-for-the-perfect-film-selection/"><u>Must-Watch Athletic Dramas: Our Picks for the Perfect Film Selection</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/new-best-free-wmv-video-combining-software-for-2024/"><u>New Best Free WMV Video Combining Software for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-interest-to-action-formulating-video-topics-with-google-trends/"><u>[New] 2024 Approved From Interest to Action Formulating Video Topics with Google Trends</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-harnessing-the-power-of-color-difference-keying-methods/"><u>[New] 2024 Approved Harnessing the Power of Color Difference Keying Methods</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-determining-vertical-or-horizontal-video-posts-on-fb-for-2024/"><u>[New] Determining Vertical or Horizontal Video Posts on FB for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-guide-to-choosing-ideal-youtube-thumbnail-shapes/"><u>[New] In 2024, Guide to Choosing Ideal Youtube Thumbnail Shapes</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-blueprint-to-establishing-an-online-review-community-for-toys/"><u>[New] The Blueprint to Establishing an Online Review Community for Toys</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-free-thumbnail-downloader-solutions-online/"><u>[Updated] 2024 Approved Free Thumbnail Downloader Solutions Online</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-camera-clicks-to-youtube-views-mobiles-in-cinematic-success/"><u>[Updated] 2024 Approved From Camera Clicks to YouTube Views Mobiles in Cinematic Success</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-frame-it-right-essential-composition-rules-for-youtube-filmmaking-for-2024/"><u>[Updated] Frame It Right Essential Composition Rules for YouTube Filmmaking for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-loop-a-video-on-iphone-in-2024/"><u>[Updated] How to Loop A Video on iPhone, In 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-lowering-audio-amplitude-progressively-using-lumafusion/"><u>2024 Approved Lowering Audio Amplitude Progressively Using Lumafusion</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/crafting-clicks-top-tags-for-gamers-content-for-2024/"><u>Crafting Clicks Top Tags for Gamers' Content for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/elevating-tiktok-bio-by-merging-it-with-linktree/"><u>Elevating TikTok Bio by Merging It With Linktree</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-get-sound-back-in-zoom-sessions-a-windows-users-guide/"><u>How to Get Sound Back in Zoom Sessions: A Windows User's Guide</u></a></li>
+<li><a href="https://some-tips.techidaily.com/tips-for-iphone-users-converting-standard-speed-to-slow-scenes-for-2024/"><u>Tips for iPhone Users Converting Standard Speed to Slow Scenes for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/unveiling-the-secrets-of-valheim-crop-cultivation/"><u>Unveiling the Secrets of Valheim Crop Cultivation</u></a></li>
+<li><a href="https://discover-guides.techidaily.com/pcdji/"><u>おすすめ！PC上で楽しむDJI 動画編集ソフトウェアの効果的な使用テクニック</u></a></li>
 </ul></div>
 
