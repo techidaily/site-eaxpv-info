@@ -1,7 +1,7 @@
 ---
 title: "Magic at Your Fingertips: Apple's Cutting-Edge On-Device AI Image Tool Outshines DALL-E | InnovationHub"
-date: 2024-10-13T18:05:32.796Z
-updated: 2024-10-16T07:13:18.124Z
+date: 2024-10-17T23:28:23.433Z
+updated: 2024-10-21T17:26:29.596Z
 tags:
   - apple
 categories:
@@ -60,6 +60,13 @@ Maria Diaz/ZDNET
 * In the Notes app, users can **record and transcribe audio**, which Apple Intelligence will generate a text summary of. This experience is also available in the Notes phone app.
 * Apple Intelligence is free on iOS 18, iPadOS 18, and MacOS Sequoia, and will be available to try in English only this summer.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137224/26400" target="_top" id="2137224">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137224" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137224/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Partnership with OpenAI
 
 Jason Hiner/ZDNET
@@ -67,13 +74,6 @@ Jason Hiner/ZDNET
 * Apple also confirmed its partnership with OpenAI by integrating [ChatGPT](https://www.zdnet.com/article/what-is-chatgpt-and-why-does-it-matter-heres-everything-you-need-to-know/) with Siri. With a user's permission, Siri can send a request to ChatGPT for help. For example, if you ask Siri for assistance on a task it deems better for ChatGPT, Siri will suggest you use the chatbot instead and forward your request. ChatGPT's writing capabilities can also be leveraged within certain writing tasks.
 * Users can access ChatGPT via this integration for free, and OpenAI will not log their data. ChatGPT Plus users can connect their subscriptions to access more advanced features, in which case OpenAI's data usage policies apply.
 * The ChatGPT integration will be coming to iOS 18, iPadOS 18, and MacOS Sequoia later this year.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975816/19272" target="_top" id="1975816">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975816" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975816/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## iOS 18
 
@@ -94,10 +94,10 @@ Adam Breeden/ZDNET
 * The **Calendar app** can now pull from the Reminders app for a more seamless schedule overview.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068439/7443" target="_top" id="2068439">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068439" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137974/21526" target="_top" id="2137974">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137974" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068439/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137974/21526" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## WatchOS 11
@@ -125,10 +125,10 @@ Adam Breeden/ZDNET
 * iPadOS 18 supports **screen-sharing via SharePlay** and the same Control Center customizations, Photos app upgrades, Safari updates, and emoji Tapbacks found in **iOS 18.**
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123731/7443" target="_top" id="2123731">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123731" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130871/7443" target="_top" id="2130871">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130871" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123731/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130871/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## MacOS 15 (Sequoia)
@@ -159,6 +159,13 @@ Jason Hiner/ZDNET
 * Users can **cast content** from their iPhone, iPad, or Mac to the Vision Pro using AirPlay.
 * Apple is also making the Vision Pro available in more countries starting June 28\. You can see the full list [here](https://www.apple.com/newsroom/2024/06/apple-vision-pro-arrives-in-new-countries-and-regions-beginning-june-28/).
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975836/19272" target="_top" id="1975836">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975836" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975836/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## AirPods
 
 Jason Hiner/ZDNET
@@ -166,13 +173,6 @@ Jason Hiner/ZDNET
 * AirPods Pro are getting **Voice Isolation** to enhance call quality in noisier environments.
 * With the new **Siri Interactions**, users can now **nod or shake their head** "yes" or "no" when responding to Siri.
 * Apple is also releasing a **Personalized Spatial Audio API** for game developers to build around the AirPods' audio technology.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105870/7443" target="_top" id="2105870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105870" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105870/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## tvOS 18
 
@@ -218,24 +218,17 @@ Screenshot by Nina Raemont/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/024-approved-exploring-the-finest-wedding-cinematography-youtube-and-vimeos-selection/"><u>[New] 2024 Approved Exploring the Finest Wedding Cinematography - Youtube & Vimeo's Selection</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-fusion-of-youtube-beats-and-imovie-editing-magic/"><u>[New] 2024 Approved Fusion of YouTube Beats and iMovie Editing Magic</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-gauge-if-an-mcn-is-right-for-your-youtube-journey/"><u>[New] 2024 Approved How to Gauge if an MCN Is Right for Your YouTube Journey</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-hands-on-tips-for-masterful-video-edits-with-youtube-studio/"><u>[New] In 2024, Hands-On Tips for Masterful Video Edits with YouTube Studio</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-finding-premium-free-music-without-breaking-copyrights/"><u>[Updated] In 2024, Finding Premium, Free Music Without Breaking Copyrights</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-font-powerhouses-for-captivating-youtube-thumbnails/"><u>[Updated] In 2024, Font Powerhouses for Captivating YouTube Thumbnails</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-high-quality-youtube-images-download-without-any-cost/"><u>[Updated] In 2024, High-Quality YouTube Images Download Without Any Cost</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-design-a-great-gaming-youtube-banner-with-templates/"><u>[Updated] In 2024, How to Design a Great Gaming YouTube Banner with Templates</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-premier-12-video-capture-goes-on-forever-for-2024/"><u>[Updated] Premier 12 Video Capture - Goes On Forever for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-triple-check-for-profitability-guiding-principles-for-measuring-youtube-income/"><u>[Updated] Triple Check for Profitability Guiding Principles for Measuring YouTube Income</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-unleash-creativity-with-free-templates-essential-for-video-makers/"><u>[Updated] Unleash Creativity with FREE Templates – Essential for Video Makers</u></a></li>
-<li><a href="https://video-capture.techidaily.com/2024-approved-laying-the-foundation-of-zoom-room-use/"><u>2024 Approved Laying the Foundation of Zoom Room Use</u></a></li>
-<li><a href="https://article-posts.techidaily.com/2024-approved-preeminent-6-networks-driving-biz-innovation/"><u>2024 Approved Preeminent 6 Networks Driving Biz Innovation</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/beyond-bots-integrating-the-power-of-chatgpt-across-multiple-software-platforms/"><u>Beyond Bots: Integrating the Power of ChatGPT Across Multiple Software Platforms</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/1719578514739-boost-your-urdu-skills-in-a-flash/"><u>Boost Your Urdu Skills in a Flash!</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-change-google-play-location-on-poco-c65-drfone-by-drfone-virtual-android/"><u>How to Change Google Play Location On Poco C65 | Dr.fone</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-fix-apple-iphone-15-pro-passcode-not-working-by-drfone-ios/"><u>In 2024, How to Fix Apple iPhone 15 Pro Passcode not Working?</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/reviving-your-iphone-apple-now-approves-recycled-pieces-use-in-certain-reparations-tech-news-by-zdnet/"><u>Reviving Your iPhone? Apple Now Approves Recycled Pieces Use in Certain Reparations | Tech News by ZDNET</u></a></li>
-<li><a href="https://discover-comparisons.techidaily.com/schritt-fur-schritt-guide-zur-behebung-von-diskpartitionsproblemen-unter-windows-10/"><u>Schritt-Für-Schritt-Guide Zur Behebung Von Diskpartitionsproblemen Unter Windows 10</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-2024-approved-does-m1-make-a-difference-for-film-and-media-editors/"><u>[New] 2024 Approved Does M1 Make a Difference for Film and Media Editors?</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-faster-insights-slower-pace-balancing-youtube-playback-rate/"><u>[New] 2024 Approved Faster Insights, Slower Pace Balancing YouTube Playback Rate</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-from-conceptualization-to-production-a-guide-to-making-mukbang-for-2024/"><u>[New] From Conceptualization to Production A Guide to Making Mukbang for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-free-themes-for-dynamic-youtuber-profiles/"><u>[Updated] 2024 Approved Free Themes for Dynamic YouTuber Profiles</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-guide-to-youtubes-latest-income-strategies/"><u>[Updated] 2024 Approved Guide to YouTube's Latest Income Strategies</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-harnessing-powerful-tools-for-effective-youtubers-seo-for-2024/"><u>[Updated] Harnessing Powerful Tools for Effective YouTubers' SEO for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/addressing-the-challenge-of-valorants-failed-launch-on-pc-systems-proven-techniques/"><u>Addressing the Challenge of Valorant's Failed Launch on PC Systems : Proven Techniques</u></a></li>
+<li><a href="https://article-posts.techidaily.com/clearer-visions-advanced-techniques-for-zooming-photos-and-videos/"><u>Clearer Visions Advanced Techniques for Zooming Photos & Videos</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-viewers-perspectives-on-instagram-stories-not-known/"><u>In 2024, Viewers' Perspectives on Instagram Stories Not Known</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/step-by-step-guide-converting-your-audio-files-and-playlists-into-mp3-format-on-pc/"><u>Step-by-Step Guide: Converting Your Audio Files and Playlists Into MP3 Format on PC</u></a></li>
+<li><a href="https://fox-that.techidaily.com/ultimate-guide-top-15-essential-fixes-for-any-iphones-you-own/"><u>Ultimate Guide: Top 15 Essential Fixes for Any iPhones You Own</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/why-im-loyal-to-my-apple-watch-series/"><u>Why I'm Loyal to My Apple Watch Series</u></a></li>
 </ul></div>
 

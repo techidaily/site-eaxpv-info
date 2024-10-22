@@ -1,7 +1,7 @@
 ---
 title: "Unveiling the Origins: The 2024 CrowdStrike Windows Crisis Explored - Historical Insights"
-date: 2024-10-09T21:28:02.380Z
-updated: 2024-10-15T21:57:46.882Z
+date: 2024-10-19T19:40:54.892Z
+updated: 2024-10-22T00:04:58.136Z
 tags:
   - apple
 categories:
@@ -51,10 +51,10 @@ Repairing the damage from a flaw like this is a painfully tedious process that r
 If you know anyone whose job involves administering Windows PCs in a corporate network that uses the CrowdStrike code, you can be confident they are very busy right now, and will be for days to come.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151855/7443" target="_top" id="2151855">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151855" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136622/26400" target="_top" id="2136622">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136622" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151855/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136622/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## We've seen this movie before
@@ -94,10 +94,16 @@ In the You Can't Make This Up Department… CrowdStrike's founder and CEO, Georg
 What makes the 2024 sequel so much worse is that it also affected Windows-based servers running in the cloud, on Microsoft Azure and on AWS. Just as with the many laptops and desktop PCs that were bricked by this faulty update, the cloud-based servers require time-consuming manual interventions to recover.
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014857/22899" target="_top" id="2014857">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014857" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014857/22899" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1444782">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1444782.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1444782">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1444782.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1444782%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1444782/14559" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## CrowdStrike's QA failed
@@ -127,16 +133,10 @@ As part of its initial response, CrowdStrike says it plans to take additional me
 Meanwhile, the United States House of Representatives Homeland Security Committee plans to call CrowdStrike's CEO up for hearings on what went wrong, and CrowdStrike's Chief Security Officer, Shawn Henry, [posted an apology on LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7220983915421806592/), admitting "On Friday, we failed you. ... The confidence we built in drips over the years was lost in buckets within hours, and it was a gut punch."
 
 <!-- affiliate ads begin -->
-<span id="1975658">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975658.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975658">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975658.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975658%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975658/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2123733/7443" target="_top" id="2123733">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123733" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123733/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How much fault should Microsoft shoulder?
@@ -187,20 +187,17 @@ Nonetheless, this incident, which caused many billions of dollars' worth of dama
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-educational-history-vlogs-the-ultimate-list/"><u>[New] 2024 Approved Educational History Vlogs - The Ultimate List</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-2024-approved-personal-exploration-of-3d-printing-in-3dr/"><u>[New] 2024 Approved Personal Exploration of 3D Printing in '3DR'</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-game-masters-youtube-money-hacks-for-2024/"><u>[New] Game Masters YouTube Money Hacks for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-growth-catalysts-increasing-audience-engagement-on-youtube-for-2024/"><u>[New] Growth Catalysts Increasing Audience Engagement on YouTube for 2024</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/new-in-2024-crafting-compelling-tiktok-tweets-for-engagement/"><u>[New] In 2024, Crafting Compelling TikTok Tweets for Engagement</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-filmmaking-made-simple-a-smartphone-guide-to-youtube-thumbnails-for-2024/"><u>[Updated] Filmmaking Made Simple A Smartphone Guide to YouTube Thumbnails for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-fixing-the-no-thumbnail-issue-in-youtubes-shorts-videos-for-2024/"><u>[Updated] Fixing the No-Thumbnail Issue in YouTubes Shorts Videos for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-guffaw-generation-generating-7-hilarious-video-moments-online-for-2024/"><u>[Updated] Guffaw Generation Generating 7 Hilarious Video Moments Online for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-convert-youtube-videos-to-gifs-for-2024/"><u>[Updated] How to Convert YouTube Videos to GIFs for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-editing-to-sharing-using-premiere-with-youtube/"><u>[Updated] In 2024, From Editing to Sharing Using Premiere with YouTube</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-the-ultimate-guide-to-spotting-hot-photos-on-pexels-for-2024/"><u>[Updated] The Ultimate Guide to Spotting Hot Photos on Pexels for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-friendly-playgrounds-metaverses-favorites/"><u>2024 Approved Friendly Playgrounds Metaverse's Favorites</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/ideal-cards-for-ultra-hd-content-creation-for-2024/"><u>Ideal Cards for Ultra-HD Content Creation for 2024</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-honor-x50i-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Honor X50i to Other Android Devices? | Dr.fone</u></a></li>
-<li><a href="https://win-tutorials.techidaily.com/1728492328981-aomei-backupper/"><u>システムイメージの復元:AOMEI Backupperで行う方法</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-elevate-your-video-productions-15-top-tier-free-music-websites/"><u>[New] 2024 Approved Elevate Your Video Productions 15 Top-Tier Free Music Websites</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-elite-list-8-amazing-3d-websites-and-glittering-text/"><u>[New] Elite List 8 Amazing 3D Websites & Glittering Text</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-freefire-gaming-guide-maximizing-video-impact-for-2024/"><u>[New] FreeFire Gaming Guide Maximizing Video Impact for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-harness-social-blade-for-profound-youtube-stats-analysis-for-2024/"><u>[New] Harness Social Blade for Profound YouTube Stats Analysis for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-end-your-youtube-void-top-10-insights-on-igniting-video-interest/"><u>[New] In 2024, How To End Your Youtube Void Top 10 Insights on Igniting Video Interest</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-gaming-hits-with-powerful-hashtag-strategies-for-2024/"><u>[Updated] Gaming Hits with Powerful Hashtag Strategies for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-top-5-apps-for-capturing-precise-android-displays/"><u>2024 Approved Top 5 Apps for Capturing Precise Android Displays</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/5-ways-to-restart-motorola-moto-g04-without-power-button-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Restart Motorola Moto G04 Without Power Button | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-the-latest-geforce-rtx-2070-driver-update-for-your-pc-running-windows-1187-systems/"><u>Get the Latest Geforce RTX 2070 Driver Update for Your PC Running Windows 11/8/7 Systems</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/logitechs-lightning-strike-wireless-issue-fixed/"><u>Logitech's Lightning Strike: Wireless Issue Fixed</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/1719574815244-uncover-hidden-meanings-learn-korean-for-squid-games-intrica-written-by-user/"><u>Uncover Hidden Meanings: Learn Korean for Squid Game's Intrica Written by User</u></a></li>
+<li><a href="https://techidaily.com/will-mov-files-play-on-samsung-galaxy-a05-by-aiseesoft-video-converter-play-mov-on-android/"><u>Will MOV files play on Samsung Galaxy A05 ?</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Unveiling the Triggers of the 2024 CrowdStrike-Windows Debacle: A Detailed Look Back with ZDNET"
-date: 2024-10-11T00:28:54.262Z
-updated: 2024-10-15T21:38:26.855Z
+date: 2024-10-15T22:57:08.849Z
+updated: 2024-10-21T21:56:33.347Z
 tags:
   - apple
 categories:
@@ -51,10 +51,10 @@ Repairing the damage from a flaw like this is a painfully tedious process that r
 If you know anyone whose job involves administering Windows PCs in a corporate network that uses the CrowdStrike code, you can be confident they are very busy right now, and will be for days to come.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037335/7443" target="_top" id="2037335">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037335" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1657395/16446" target="_top" id="1657395">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657395" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037335/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657395/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## We've seen this movie before
@@ -94,10 +94,16 @@ In the You Can't Make This Up Department… CrowdStrike's founder and CEO, Georg
 What makes the 2024 sequel so much worse is that it also affected Windows-based servers running in the cloud, on Microsoft Azure and on AWS. Just as with the many laptops and desktop PCs that were bricked by this faulty update, the cloud-based servers require time-consuming manual interventions to recover.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134240/18498" target="_top" id="2134240">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134240" border="0" alt="https://techidaily.com" width="540" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134240/18498" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983575">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983575.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983575">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983575.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983575%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983575/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## CrowdStrike's QA failed
@@ -127,10 +133,10 @@ As part of its initial response, CrowdStrike says it plans to take additional me
 Meanwhile, the United States House of Representatives Homeland Security Committee plans to call CrowdStrike's CEO up for hearings on what went wrong, and CrowdStrike's Chief Security Officer, Shawn Henry, [posted an apology on LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7220983915421806592/), admitting "On Friday, we failed you. ... The confidence we built in drips over the years was lost in buckets within hours, and it was a gut punch."
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094480/7443" target="_top" id="2094480">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094480" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2087253/19272" target="_top" id="2087253">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087253" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094480/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087253/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How much fault should Microsoft shoulder?
@@ -181,17 +187,17 @@ Nonetheless, this incident, which caused many billions of dollars' worth of dama
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-capture-to-share-proven-methods-for-live-360-video-on-youtube/"><u>[New] In 2024, From Capture to Share Proven Methods for Live 360° Video on Youtube</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-growth-by-numbers-tapping-into-youtube-analytics-power/"><u>[New] In 2024, Growth by Numbers Tapping Into YouTube Analytics Power</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-big-should-a-good-thumbnail-be-youtubes-ultimate-guide/"><u>[New] In 2024, How Big Should a Good Thumbnail Be? YouTube's Ultimate Guide</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-windows-11-ultimate-video-recorder-software/"><u>[New] Windows 11 Ultimate Video Recorder Software</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-complete-overview-how-to-navigate-telegram-web-for-2024/"><u>[Updated] Complete Overview How To Navigate Telegram Web for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-feast-your-eyes-on-9-whole-film-winter-wonders-no-charge-for-2024/"><u>[Updated] Feast Your Eyes on 9 Whole-Film Winter Wonders No Charge for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-gain-money-on-youtube-understanding-required-number-of-views-for-2024/"><u>[Updated] Gain Money on YouTube Understanding Required Number of Views for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/cookiebot-enhanced-user-experience-smart-and-effective-marketing-automation/"><u>Cookiebot-Enhanced User Experience: Smart & Effective Marketing Automation</u></a></li>
-<li><a href="https://win-able.techidaily.com/fixes-and-workarounds-for-minecraft-not-loading-correctly/"><u>Fixes and Workarounds for Minecraft Not Loading Correctly</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-google-pixel-fold-to-other-android-devices-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Google Pixel Fold to Other Android Devices Devices? | Dr.fone</u></a></li>
-<li><a href="https://fox-links.techidaily.com/mastering-whatsapp-advanced-features-you-need-to-know/"><u>Mastering WhatsApp Advanced Features You Need to Know</u></a></li>
-<li><a href="https://win-dash.techidaily.com/new-release-lenovos-thunderbolt-3-hub-driver-upgrade-guide/"><u>New Release: Lenovo's Thunderbolt 3 Hub Driver Upgrade Guide</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-exploring-uavs-operation-a-guide-to-aerial-robotics/"><u>[New] 2024 Approved Exploring UAVs' Operation A Guide to Aerial Robotics</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-illuminate-a-guide-to-great-vlog-images/"><u>[New] 2024 Approved How to Illuminate A Guide to Great Vlog Images</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-how-to-clear-the-clutter-blurring-backgrounds-for-engaging-yt-for-2024/"><u>[New] How to Clear the Clutter Blurring Backgrounds for Engaging YT for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-raw-to-masterpiece-the-premier-free-mobile-editors-for-android/"><u>[New] In 2024, From Raw to Masterpiece The Premier Free Mobile Editors for Android</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-make-your-videos-a-youtube-hit-top-tips-and-strategies/"><u>[Updated] In 2024, How To Make Your Videos a YouTube Hit Top Tips and Strategies</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-top-tips-navigating-the-latest-facebook-features-for-2024/"><u>[Updated] Top Tips Navigating the Latest Facebook Features for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/comprehve-solutions-to-rectify-issues-with-your-iphones-remote-device-manager/"><u>Comprehve Solutions to Rectify Issues with Your iPhone's Remote Device Manager</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/effortless-drivers-downloading-for-lenovo-x1-carbon-laptop-perfect-for-windows-10-and-7-users/"><u>Effortless Drivers Downloading for Lenovo X1 Carbon Laptop: Perfect for Windows 10 and 7 Users</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/exploring-the-world-of-llms-insights-into-their-operation/"><u>Exploring the World of LLMs: Insights Into Their Operation</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-lock-apps-on-lava-to-protect-your-individual-information-by-drfone-android/"><u>In 2024, How to Lock Apps on Lava to Protect Your Individual Information</u></a></li>
+<li><a href="https://app-tips.techidaily.com/sonys-research-division-partners-with-ai-singapore-to-enhance-large-language-model-development/"><u>Sony's Research Division Partners with AI Singapore to Enhance Large Language Model Development</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ltimate-guide-to-free-youtube-intros-and-templates/"><u>The Ultimate Guide to Free YouTube Intros & Templates</u></a></li>
 </ul></div>
 

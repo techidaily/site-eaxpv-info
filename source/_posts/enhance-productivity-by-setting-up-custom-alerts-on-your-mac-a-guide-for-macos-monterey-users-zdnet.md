@@ -1,7 +1,7 @@
 ---
 title: Enhance Productivity by Setting Up Custom Alerts on Your Mac - A Guide for macOS Monterey Users | ZDNET
-date: 2024-10-11T07:15:47.790Z
-updated: 2024-10-16T08:34:06.249Z
+date: 2024-10-18T19:31:18.504Z
+updated: 2024-10-21T22:57:09.902Z
 tags:
   - apple
 categories:
@@ -32,6 +32,13 @@ So, how do you create this custom Flow? Let me show you. All you'll need to make
 
 Click on the Apple menu in the top left corner of your desktop. From the resulting pop-up menu, click System Preferences.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144289/7443" target="_top" id="2144289">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144289" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144289/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 2\. Access Notifications & Focus
 
 In the System Preferences window (**Figure 1**), click Notifications & Focus.
@@ -39,13 +46,6 @@ In the System Preferences window (**Figure 1**), click Notifications & Focus.
 **Figure 1:** The Notifications & Focus entry in System Preferences.
 
 Image: Jack Wallen
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135398/19272" target="_top" id="2135398">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135398" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135398/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 3\. Open the Focus tab
 
@@ -56,10 +56,16 @@ Once Notifications & Focus is opened, click the Focus tab (**Figure 2**).
 Image: Jack Wallen
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134223/18498" target="_top" id="2134223">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134223" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134223/18498" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1630055">
+					<video width="192" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1630055.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18460-1630055">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1630055.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcaperobbin.sjv.io%2Fc%2F5597632%2F1630055%2F18460'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1630055/18460" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 4\. Create the new Focus
@@ -79,10 +85,10 @@ Image: Jack Wallen
 After naming and selecting a color/icon, click Add to save the new Focus.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012429/19272" target="_top" id="2012429">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012429" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123732/7443" target="_top" id="2123732">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123732" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012429/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123732/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 5\. Allowing specific notifications
@@ -100,10 +106,10 @@ From the pop-up list, select the contact(s) you want to be allowed to interrupt 
 Image: Jack Wallen
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105874/7443" target="_top" id="2105874">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105874" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014850/22899" target="_top" id="2014850">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014850" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105874/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014850/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 6\. Set the Focus to be enabled
@@ -148,18 +154,18 @@ Use this new Focus feature wisely, and it will help you be more productive while
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-get-free-green-screen-effects-from-4-youtube-channels/"><u>[New] 2024 Approved Get Free Green Screen Effects From 4 YouTube Channels</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-rip-audio-from-youtube-in-3-ways-free-and-safe/"><u>[New] 2024 Approved How to Rip Audio From YouTube in 3 Ways [Free and Safe]</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-full-scope-understanding-online-performance-artists-for-2024/"><u>[New] Full Scope Understanding Online Performance Artists for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-giggles-galore-celebrating-the-funniest-web-content-creators/"><u>[New] In 2024, Giggles Galore Celebrating the Funniest Web Content Creators</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-convert-youtube-videos-to-gifs/"><u>[New] In 2024, How to Convert YouTube Videos to GIFs</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-five-cozy-seasons-ideal-backgrounds-to-warm-up-videos-for-2024/"><u>[Updated] Five Cozy Seasons Ideal Backgrounds to Warm Up Videos for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-strategies-for-personalizing-your-youtube-shorts-templates/"><u>[Updated] Strategies for Personalizing Your YouTube Shorts Templates</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/est-editors-apart-from-youtube-platform-for-2024/"><u>1-#5 Best Editors Apart From YouTube Platform for 2024</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/10-easy-to-use-frp-bypass-tools-for-unlocking-google-accounts-on-xiaomi-redmi-note-12-proplus-5g-by-drfone-android/"><u>10 Easy-to-Use FRP Bypass Tools for Unlocking Google Accounts On Xiaomi Redmi Note 12 Pro+ 5G</u></a></li>
-<li><a href="https://techidaily.com/four-key-moves-for-microsoft-to-rescue-copilot-and-dodge-the-cortana-mistake/"><u>Four Key Moves for Microsoft to Rescue Copilot and Dodge the Cortana Mistake</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/the-ultimate-sequence-viewing-the-conjuring-series-properly/"><u>The Ultimate Sequence: Viewing 'The Conjuring' Series Properly</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/top-rated-wireless-internet-gadgets-for-travellers-in-2ebyte-2024/"><u>Top-Rated Wireless Internet Gadgets for Travellers in 2Ebyte 2024</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-in-2024-unlock-final-cut-pro-90-day-free-trial-inside/"><u>Updated In 2024, Unlock Final Cut Pro 90-Day Free Trial Inside</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-freezing-points-to-inviting-landscapes/"><u>[New] 2024 Approved From Freezing Points to Inviting Landscapes</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-how-to-upload-videos-to-youtube-a-step-by-step-guide-for-2024/"><u>[New] How To Upload Videos to YouTube [a Step-by-Step Guide] for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-live-demos-to-online-sharing-mastering-idevice-screenshots-for-video-content/"><u>[New] In 2024, From Live Demos to Online Sharing Mastering iDevice Screenshots for Video Content</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-harness-social-blade-for-profound-youtube-stats-analysis/"><u>[New] In 2024, Harness Social Blade for Profound YouTube Stats Analysis</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-google-meet-broadcast-simplified-youtube-steps-for-2024/"><u>[Updated] Google Meet Broadcast Simplified YouTube Steps for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-guide-to-amplifying-your-video-presence-with-seo-tips-for-2024/"><u>[Updated] Guide to Amplifying Your Video Presence with SEO Tips for 2024</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/choreographing-a-stellar-tiktok-wrap-up-for-2024/"><u>Choreographing a Stellar TikTok Wrap-Up for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722975156533-ensure-smooth-performance-with-newly-released-realtek-drivers-for-windows-11-download-here/"><u>Ensure Smooth Performance with Newly Released Realtek Drivers for Windows 11 – Download Here</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-constant-audio-disruptions-during-gaming-and-streaming-windows-11/"><u>Fixing Constant Audio Disruptions During Gaming and Streaming (Windows 11)</u></a></li>
+<li><a href="https://games-able.techidaily.com/gaming-on-the-go-device-decision-guide/"><u>Gaming on the Go: Device Decision Guide</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/revolutionize-your-editing-10-free-fcpx-plugin-must-haves/"><u>Revolutionize Your Editing 10 Free FCPX Plugin Must-Haves</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solving-the-crusader-kings-ii-startup-problem-tips-and-fixes/"><u>Solving the Crusader Kings II Startup Problem: Tips and Fixes</u></a></li>
+<li><a href="https://common-error.techidaily.com/successfully-overcoming-usb-device-not-recognized-and-failed-descriptor-request-issues/"><u>Successfully Overcoming USB Device Not Recognized & Failed Descriptor Request Issues</u></a></li>
 </ul></div>
 

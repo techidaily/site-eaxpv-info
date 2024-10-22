@@ -1,7 +1,7 @@
 ---
 title: Two Effective Methods for Updating Applications on macOS Explained
-date: 2024-10-08T23:09:27.724Z
-updated: 2024-10-16T03:02:03.793Z
+date: 2024-10-15T23:50:55.182Z
+updated: 2024-10-21T23:55:58.933Z
 tags:
   - apple
 categories:
@@ -34,19 +34,6 @@ Let me show you both approaches.
 
 **What you'll need:** The only things you'll need are an Apple device (a MacBook or iMac) and a valid user account on the machine. That's it. Let's get to the updates.
 
-<!-- affiliate ads begin -->
-<span id="1374820">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1374820.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1374820">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374820.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374820%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374820/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 1\. Open the App Store
 
 The fastest way to check and see if there are any updates available is by clicking the Apple button in the upper-left corner, where you might see something like _2 updates_ listed (indicating you have two apps that have updates available). Click that entry to open the App Store.
@@ -65,6 +52,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528681/16446" target="_top" id="1528681">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528681" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528681/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Update your apps
 
 When the App Store opens, you can either update the apps individually (by clicking the Update button associated with the app in question) or update them all at once (by clicking Update All). During the update process, you might be prompted to close an app (or even a related app) if it's blocking the update from continuing. Should that be the case, close the app in question, return to the App Store, and click Continue from the pop-up warning.
@@ -76,10 +70,16 @@ Screenshot by Jack Wallen/ZDNET
 Once the update is completed, close the App Store and you're done.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148775/18498" target="_top" id="2148775">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148775" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148775/18498" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1975562">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975562.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975562">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975562.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975562%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975562/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to update MacOS apps from the command line
@@ -91,10 +91,10 @@ This is a bit more complicated, for two reasons: first, you have to find out wha
 To run commands, you must first open the terminal app, which can be done from the Launchpad. Click the Launchpad icon in your Dock and then type _terminal_. Click the launcher to open the Terminal app.
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826">
-  <img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137413/7443" target="_top" id="2137413">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137413" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137413/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Check for available updates
@@ -110,10 +110,10 @@ You will be prompted for your sudo password (which is your MacOS user password).
 The -l option stands for _list_. This will print out any available app updates and, if required, it will inform you if a restart is needed to complete any recent OS updates. If you see such a warning, make sure to do the reboot to complete the process.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036486/19272" target="_top" id="2036486">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036486" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135400/19272" target="_top" id="2135400">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135400" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036486/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135400/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Update the apps
@@ -158,20 +158,20 @@ This is about as simple a method as you'll find to help keep your MacOS machines
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-go-viral-on-youtube-with-minimal-effort/"><u>[New] 2024 Approved How to Go Viral on YouTube with Minimal Effort</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-ahead-of-the-curve-best-hydro-games-compiled-for-2024/"><u>[New] Ahead of the Curve Best Hydro Games Compiled for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-gauging-glory-an-essential-handbook-for-evaluating-youtube-engagement-and-earnings-for-2024/"><u>[New] Gauging Glory An Essential Handbook for Evaluating YouTube Engagement & Earnings for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-how-to-convert-youtube-to-mp3-without-compromising-security-3-tips-for-2024/"><u>[New] How to Convert YouTube to MP3 Without Compromising Security - 3 Tips for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-how-to-search-comments-on-youtube-quickly-for-2024/"><u>[New] How to Search Comments on YouTube Quickly for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-haute-couture-at-home-makeup-tools-and-techniques/"><u>[New] In 2024, Haute Couture at Home Makeup, Tools & Techniques</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-mastering-google-meet-easy-backdrop-swap-for-pc-and-phones-for-2024/"><u>[New] Mastering Google Meet Easy Backdrop Swap for PC & Phones for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-graphicgrind-studio-for-2024/"><u>[Updated] GraphicGrind Studio for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-harness-youtubes-creative-commons-in-video-making-for-2024/"><u>[Updated] How to Harness YouTube's Creative Commons in Video Making for 2024</u></a></li>
-<li><a href="https://android-frp.techidaily.com/how-to-bypass-realme-c67-5g-frp-in-3-different-ways-by-drfone-android/"><u>How To Bypass Realme C67 5G FRP In 3 Different Ways</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-track-poco-c51-by-phone-number-drfone-by-drfone-virtual-android/"><u>How to Track Poco C51 by Phone Number | Dr.fone</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-change-country-on-app-store-for-apple-iphone-14-pro-max-with-7-methods-by-drfone-ios/"><u>In 2024, How To Change Country on App Store for Apple iPhone 14 Pro Max With 7 Methods</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-minecraft-banner-templates-get-them-here/"><u>In 2024, Minecraft Banner Templates Get Them Here</u></a></li>
-<li><a href="https://media-tips.techidaily.com/mp3-purchases-triumph-over-streaming-a-personal-perspective/"><u>MP3 Purchases Triumph Over Streaming: A Personal Perspective</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-ultimate-list-of-2024s-top-nintendo-switch-docks/"><u>The Ultimate List of 2024'S Top Nintendo Switch Docks</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-100plus-gaming-channel-names-for-every-gamer-filmora-for-2024/"><u>[New] 100+ Gaming Channel Names for Every Gamer - Filmora for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-what-is-a-parody-and-how-to-make-a-parody-video/"><u>[New] 2024 Approved What Is a Parody and How to Make a Parody Video</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ccelerate-youtube-visibility-select-top-8-rank-watchers-for-2024/"><u>[New] Accelerate YouTube Visibility - Select Top 8 Rank Watchers for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-youtube-to-igtv-top-methods-unveiled/"><u>[New] In 2024, From YouTube to IGTV Top Methods Unveiled</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-game-masters-youtube-money-hacks/"><u>[New] In 2024, Game Masters YouTube Money Hacks</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-authenticity-through-customer-produced-videos/"><u>[Updated] 2024 Approved Authenticity Through Customer-Produced Videos</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-fixed-easily-accessible-shorts-on-youtube-for-2024/"><u>[Updated] Fixed Easily Accessible Shorts on YouTube for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-how-often-do-youtubers-receive-income-for-2024/"><u>[Updated] How Often Do YouTubers Receive Income for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-in-2024-essential-tools-for-gopro-movie-makers/"><u>[Updated] In 2024, Essential Tools for GoPro Movie Makers</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/effortless-video-conversion-top-10-webm-to-mp4-tools/"><u>Effortless Video Conversion Top 10 WebM to MP4 Tools</u></a></li>
+<li><a href="https://extra-information.techidaily.com/exclusive-guide-to-audio-alchemy-sites/"><u>Exclusive Guide to Audio Alchemy Sites</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-upgrade-iphone-14-pro-max-without-losing-anything-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Upgrade iPhone 14 Pro Max without Losing Anything? | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-pause-life360-location-sharing-for-poco-x5-drfone-by-drfone-virtual-android/"><u>In 2024, How To Pause Life360 Location Sharing For Poco X5 | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-top-12-prominent-xiaomi-redmi-13c-fingerprint-not-working-solutions-by-drfone-android/"><u>In 2024, Top 12 Prominent Xiaomi Redmi 13C Fingerprint Not Working Solutions</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/streamline-content-creation-boost-productivity-using-hix-ai-and-gpt-4/"><u>Streamline Content Creation: Boost Productivity Using HIX AI & GPT-4</u></a></li>
 </ul></div>
 

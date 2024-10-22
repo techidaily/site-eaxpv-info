@@ -1,7 +1,7 @@
 ---
 title: Revolutionize Apple Watch Longevity with Simple Tweaks to These Crucial 8 Power Settings – Expert Tips
-date: 2024-10-10T07:01:47.982Z
-updated: 2024-10-16T05:16:49.460Z
+date: 2024-10-16T17:10:21.648Z
+updated: 2024-10-21T22:46:31.892Z
 tags:
   - apple
 categories:
@@ -50,13 +50,6 @@ I don't recommend using Low Power Mode all day since it limits the functionality
 
 **Also:** [**Apple Watch Ultra 2 vs. Watch Ultra: Is it time to upgrade?**](https://www.zdnet.com/article/apple-watch-ultra-2-vs-ultra/)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139118/17108" target="_top" id="2139118">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139118" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139118/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 3\. Disable cellular connectivity
 
 If you have an Apple Watch with cellular connectivity, it's best to not use your cell connection all the time. At times, depending on your location, your watch can go searching for an active LTE signal, only to spend too much time doing so and never grabbing onto one that's strong enough to preserve your battery. If, for example, you're traveling long distances or chilling at home, it's best to flick it off until you need it.
@@ -64,6 +57,13 @@ If you have an Apple Watch with cellular connectivity, it's best to not use your
 **How to:** Open Settings > Cellular on your watch and toggle off "Cellular." Then, when you want to turn it back on, flick the switch again. It's worth noting that airplane mode will essentially do the same thing, but it also turns off Wi-Fi which you need for certain things, so manually disabling cellular data will save some steps.
 
 Jason Hiner/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135408/19272" target="_top" id="2135408">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135408" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135408/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Turn off background app refresh
 
@@ -84,10 +84,10 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049388/7443" target="_top" id="2049388">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049388" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148633/16836" target="_top" id="2148633">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148633" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049388/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148633/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Turn off irregular heart rate notifications
@@ -95,6 +95,13 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 With some of the newest Apple Watches, Apple includes a feature that can alert you when your heart rate is beating in irregular intervals and alert you when it may be atrial fibrillation. While that's nice to have for tracking your health over time, it means the heart rate sensor is constantly on collecting your heart rate, which isn't good for battery life.
 
 **How to:** Visit Settings > Heart > Irregular Rhythm Notifications and flick the feature off.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151865/7443" target="_top" id="2151865">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151865" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151865/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 6\. Reduce the amount of notifications you get
 
@@ -104,6 +111,13 @@ When a notification comes in, it not only plays a "ding!" to alert you, it also 
 
 **Also:** [**Your Apple Watch is getting an upgrade - here are the best features in WatchOS 11**](https://www.zdnet.com/article/your-apple-watch-is-getting-an-upgrade-here-are-the-best-features-in-watchos-11/)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027167/19272" target="_top" id="2027167">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027167" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027167/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 7\. Turn off Siri
 
 Ah, Siri. Many people swear by the voice assistant and use it daily to do things like check the weather, start a timer (or two), play some music, or start a workout. But if you're like me (and, presumably, many others), you don't touch Siri at all on your Apple Watch, and it's just sitting there wasting your battery, constantly listening to hear that magical phrase "Hey, Siri." In other words, you should turn it off.
@@ -112,25 +126,11 @@ Ah, Siri. Many people swear by the voice assistant and use it daily to do things
 
 Adrian Kingsley-Hughes/ZDNET
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1166360/14483" target="_top" id="1166360">
-  <img src="//a.impactradius-go.com/display-ad/14483-1166360" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1166360/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 8\. Factory reset your Apple Watch (a.k.a. the last resort)
 
 I've heard from many folks who have faced issues with battery life on the Apple Watch that it's best to do a complete factory reset. Full disclosure: it's not going to work for everyone, but if you've exhausted every option on your Apple Watch to extend battery life, the battery is still healthy, and you don't want to upgrade, your best bet is to reset it and start from scratch. That way, you can set up your watch and, along the way, spot the app or service that drains your battery the most. It may also help clean up some of the system bloat in watchOS 10 that's led to poor efficiency on your watch.
 
 **How to:** Go to Settings > General > Reset on your Apple Watch, then choose "Erase All Content and Settings." You won't have to disable Find My or get rid of your cellular plan since you'll be setting it up with your iPhone again, but if you want to get rid of absolutely everything, make sure you disable Find My and dump your cellular plan during the process.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130874/7443" target="_top" id="2130874">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130874" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130874/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How we test smartwatches
 
@@ -173,24 +173,19 @@ For a deeper look at our testing process, check out our comprehensive [smartwatc
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-fixed-youtube-shorts-just-watch-and-enjoy/"><u>[New] 2024 Approved Fixed YouTube Shorts - Just Watch and Enjoy</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-fusing-genres-a-youtube-music-strategy/"><u>[New] 2024 Approved Fusing Genres A YouTube Music Strategy</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-successfully-embed-youtube-playlists-via-web-scripts/"><u>[New] 2024 Approved How to Successfully Embed YouTube Playlists via Web Scripts</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/024-approved-streaming-stature-symbolized-by-play-and-follower-awards/"><u>[New] 2024 Approved Streaming Stature Symbolized by Play & Follower Awards</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-how-many-viewers-to-target-for-a-youtube-earning-journey-in-2024/"><u>[New] How Many Viewers to Target for a YouTube Earning Journey, In 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-free-mcb-theme-images-templates-and-more/"><u>[Updated] 2024 Approved Free MCB Theme Images, Templates & More</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-firefoxs-pip-explained-a-users-handbook/"><u>[Updated] Firefox's PIP Explained A User's Handbook</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-foundations-first-what-to-invest-in-for-youtubing/"><u>[Updated] In 2024, Foundations First What To Invest In for YouTubing</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-viewing-voids-to-viral-videos-the-top-ten-reasons-and-cures-for-zero-traffic/"><u>[Updated] In 2024, From Viewing Voids to Viral Videos The Top Ten Reasons & Cures for Zero Traffic</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-gamings-finest-top-10-gpu-picks-for-clear-online-broadcasts/"><u>[Updated] In 2024, Gaming's Finest Top 10 GPU Picks for Clear Online Broadcasts</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-blur-faces-or-objects-in-youtube-videos/"><u>[Updated] In 2024, How to Blur Faces or Objects in YouTube Videos</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/2024-approved-best-ios-video-editing-cameo-vs-filmorago/"><u>2024 Approved Best iOS Video Editing Cameo Vs. FilmoraGo</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-ultimate-guide-to-using-retro-effects-on-edits/"><u>2024 Approved Ultimate Guide to Using Retro Effects on Edits</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/finding-your-lost-footage-no-vids-on-a6400-for-2024/"><u>Finding Your Lost Footage No Vids On A6400 for 2024</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-track-imei-number-of-vivo-s18-through-google-earth-by-drfone-android/"><u>How To Track IMEI Number Of Vivo S18 Through Google Earth?</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-capture-curiosity-with-these-6-video-categories/"><u>In 2024, Capture Curiosity with These 6 Video Categories</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/quick-solutions-for-finding-or-fixing-d3dx924dll-file-errors/"><u>Quick Solutions for Finding or Fixing d3dx9_24.dll File Errors</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/top-picks-the-best-childrens-films-to-watch-on-disneyplus-this-july/"><u>Top Picks: The Best Children's Films to Watch on Disney+ This July</u></a></li>
-<li><a href="https://driver-install.techidaily.com/windows-10-ace-up-swift-driver-update-guide/"><u>Windows 10 Ace Up: Swift Driver Update Guide</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-gastronomic-genius-ideal-culinary-network-name-strategies/"><u>[New] 2024 Approved Gastronomic Genius Ideal Culinary Network Name Strategies</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-manage-youtube-video-comments-for-enhanced-privacy/"><u>[New] 2024 Approved How to Manage YouTube Video Comments for Enhanced Privacy</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-ideas-to-action-how-to-transform-photos-into-engaging-mobile-videos/"><u>[New] In 2024, From Ideas to Action How to Transform Photos Into Engaging Mobile Videos</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-complete-minecraft-filming-guidebook/"><u>[Updated] Complete Minecraft Filming Guidebook</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-free-range-humor-development-unleash-your-wit/"><u>[Updated] Free-Range Humor Development Unleash Your Wit</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-gender-diversity-in-streaming-celebrating-top-10-females/"><u>[Updated] In 2024, Gender Diversity in Streaming Celebrating Top 10 Females</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-manual-for-crafting-youtube-playlists/"><u>[Updated] In 2024, How-To Manual for Crafting YouTube Playlists</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-unique-stories-crafting-powerful-yt-narratives/"><u>[Updated] Unique Stories Crafting Powerful YT Narratives</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-cast-infinix-hot-40-pro-to-computer-for-iphone-and-android-drfone-by-drfone-android/"><u>In 2024, How to Cast Infinix Hot 40 Pro to Computer for iPhone and Android? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-fix-apple-iphone-15-unavailable-issue-with-ease-drfone-by-drfone-ios/"><u>In 2024, How To Fix Apple iPhone 15 Unavailable Issue With Ease | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-innovations-in-crafting-engaging-vlogging-scripts/"><u>In 2024, Innovations in Crafting Engaging Vlogging Scripts</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/mastering-the-fixes-for-deadly-errors-in-black-ops-latest-edition/"><u>Mastering the Fixes for Deadly Errors in Black Op's Latest Edition</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/on-the-go-literacy-lovers-guide-comprehensive-kobo-clara-hd-reader-evaluation/"><u>On-the-Go Literacy Lover's Guide: Comprehensive Kobo Clara HD Reader Evaluation</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/solved-resolving-silent-stream-issues-on-twitch-platform/"><u>Solved: Resolving Silent Stream Issues on Twitch Platform</u></a></li>
 </ul></div>
 

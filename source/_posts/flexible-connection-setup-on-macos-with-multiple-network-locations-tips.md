@@ -1,7 +1,7 @@
 ---
 title: Flexible Connection Setup on macOS with Multiple Network Locations - Tips
-date: 2024-10-14T07:13:56.159Z
-updated: 2024-10-16T08:41:47.474Z
+date: 2024-10-16T18:53:45.620Z
+updated: 2024-10-21T19:53:57.109Z
 tags:
   - apple
 categories:
@@ -37,46 +37,39 @@ Let me show you how it works.
 **Also:** [**How to manage SSH connections on MacOS with Termius**](https://www.zdnet.com/article/how-to-manage-ssh-connections-on-macos-with-termius/) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087409/7443" target="_top" id="2087409">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087409" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2075472/7443" target="_top" id="2075472">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075472" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087409/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075472/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to create different network locations in MacOS
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137206/26400" target="_top" id="2137206">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137206" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137206/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Requirements
 
 The only thing you'll need is a device running an updated version of MacOS. This feature works with both wired and wireless connections.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896560/19272" target="_top" id="1896560">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896560" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896560/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 1\. Open System Preferences
 
 Click the Apple menu at the top right of your display and select System Preferences from the menu.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082536/7443" target="_top" id="2082536">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082536" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aidotcom.pxf.io/c/5597632/2134501/19576" target="_top" id="2134501">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134501" border="0" alt="https://techidaily.com" width="640" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082536/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134501/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Open Network
 
 From within System Preferences, click the Network icon to open the Network section.
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139120/17108" target="_top" id="2139120">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139120" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139120/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 3\. Create a new network location
 
@@ -95,6 +88,13 @@ Configuring a network for the new location in MacOS.
 Image: Jack Wallen
 
 Once you've configured the location exactly how you need it, click Apply to save everything.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087239/19272" target="_top" id="2087239">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087239" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087239/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Switching to a different Network Location
 
@@ -139,22 +139,20 @@ Fortunately, you are now empowered to more easily make that switch.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-gear-up-for-greatness-choosing-webcams-for-youtube-excellence/"><u>[New] 2024 Approved Gear Up for Greatness Choosing Webcams for YouTube Excellence</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-high-performance-gpu-picks-for-quality-video-streaming/"><u>[New] 2024 Approved High-Performance GPU Picks for Quality Video Streaming</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-how-to-make-profitable-youtube-ads-for-free-for-2024/"><u>[New] How To Make Profitable YouTube Ads for Free for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-go-viral-on-youtube-with-minimal-effort/"><u>[New] In 2024, How to Go Viral on YouTube with Minimal Effort</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-get-rid-of-youtube-ads-with-ease-on-chrome-firefox-ios-android/"><u>[Updated] 2024 Approved Get Rid of YouTube Ads with Ease on Chrome, Firefox, iOS, Android</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-gain-an-edge-access-these-top-8-sites-for-free-eco-screen-backdrops-and-clips/"><u>[Updated] In 2024, Gain an Edge - Access These Top 8 Sites for FREE Eco-Screen Backdrops and Clips</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-gain-more-views-beginners-guide-to-youtube-seo/"><u>[Updated] In 2024, Gain More Views Beginner’s Guide to YouTube SEO</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-home-studio-heroics-your-path-to-effectful-artistry/"><u>[Updated] In 2024, Home Studio Heroics Your Path to Effectful Artistry</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-in-2024-ideal-5-add-ons-to-enhance-sea-footage/"><u>[Updated] In 2024, Ideal 5 Add-Ons to Enhance Sea Footage</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-the-dji-fpv-revolution-a-review-of-eyewear-innovation/"><u>[Updated] The DJI FPV Revolution A Review of Eyewear Innovation</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-turning-your-youtube-views-into-a-screen-capture-made-simple-and-free/"><u>[Updated] Turning Your YouTube Views Into a Screen Capture Made Simple and Free</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/guide-to-mirror-your-tecno-spark-10-5g-to-other-android-devices-drfone-by-drfone-android/"><u>Guide to Mirror Your Tecno Spark 10 5G to Other Android devices | Dr.fone</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/high-quality-video-webcams-top-5-combos-with-sound-for-2024/"><u>High-Quality Video Webcams - Top 5 Combo's With Sound for 2024</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-vivo-x100-pro-to-other-android-devices-using-bluetooth-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Vivo X100 Pro to Other Android Devices Using Bluetooth? | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-what-is-geo-blocking-and-how-to-bypass-it-on-google-pixel-8-drfone-by-drfone-virtual-android/"><u>In 2024, What is Geo-Blocking and How to Bypass it On Google Pixel 8? | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/overcoming-subnautica-below-zero-crashes-a-comprehensive-guide-for-pc-gamers/"><u>Overcoming Subnautica (Below Zero) Crashes: A Comprehensive Guide for PC Gamers</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/single-platform-focus-disabling-cross-play-for-personal-zen/"><u>Single-Platform Focus Disabling Cross-Play for Personal Zen</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-breaking-down-the-new-normal-facebook-short-videos/"><u>[New] 2024 Approved Breaking Down the New Normal Facebook Short Videos</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-fixing-invisible-areas-within-youtube-videos/"><u>[New] 2024 Approved Fixing Invisible Areas Within YouTube Videos</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-harmonizing-visuals-and-soundtracks-with-youtubes-video-editor/"><u>[New] 2024 Approved Harmonizing Visuals & Soundtracks with YouTube's Video Editor</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-2024-approved-liftoff-to-high-end-imagery-on-a-budget/"><u>[New] 2024 Approved Liftoff to High-End Imagery on a Budget</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-follow-the-footsteps-of-fan-driven-forums-for-2024/"><u>[New] Follow the Footsteps of Fan-Driven Forums for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/n-2024-mastering-youtube-success-via-creator-studio-complete-handbook/"><u>[New] In 2024, Mastering YouTube Success via Creator Studio Complete Handbook</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-film-school-at-home-mastering-video-editing-via-youtube-and-alternatives/"><u>[Updated] 2024 Approved Film School at Home Mastering Video Editing via YouTube & Alternatives</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-zero-to-youtube-creating-a-stellar-new-chanel/"><u>[Updated] 2024 Approved From Zero to YouTube Creating a Stellar New Chanel</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-how-much-cash-can-you-score-for-watching-a-million-videos-for-2024/"><u>[Updated] How Much Cash Can You Score for Watching A Million Videos for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-implementing-closed-captions-on-social-video-platforms-snapchat-for-2024/"><u>[Updated] Implementing Closed Captions on Social Video Platforms (Snapchat) for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-protectly-copy-youtube-tracks-for-free/"><u>[Updated] In 2024, How to Protectly Copy Youtube Tracks for Free</u></a></li>
+<li><a href="https://location-social.techidaily.com/3-things-you-must-know-about-fake-snapchat-location-on-samsung-galaxy-a05s-drfone-by-drfone-virtual-android/"><u>3 Things You Must Know about Fake Snapchat Location On Samsung Galaxy A05s | Dr.fone</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/smartpet-solutions-reviewed-top-value-findings/"><u>SmartPet Solutions Reviewed: Top Value Findings</u></a></li>
+<li><a href="https://windows11.techidaily.com/unlock-windows-1011-8-innovative-personalization-techniques/"><u>Unlock Windows 10/11: 8 Innovative Personalization Techniques</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/which-pokemon-can-evolve-with-a-moon-stone-for-oppo-a56s-5g-drfone-by-drfone-virtual-android/"><u>Which Pokémon can Evolve with a Moon Stone For Oppo A56s 5G? | Dr.fone</u></a></li>
 </ul></div>
 

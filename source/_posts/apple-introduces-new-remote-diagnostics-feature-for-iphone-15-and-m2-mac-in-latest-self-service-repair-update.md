@@ -1,7 +1,7 @@
 ---
 title: Apple Introduces New Remote Diagnostics Feature for iPhone 15 & M2 Mac in Latest Self-Service Repair Update
-date: 2024-10-11T18:46:57.612Z
-updated: 2024-10-16T00:47:06.868Z
+date: 2024-10-15T23:24:22.369Z
+updated: 2024-10-21T22:44:00.460Z
 tags:
   - apple
 categories:
@@ -36,6 +36,13 @@ Jason Hiner/ZDNET
 
 Go to your iPhone's Settings and select General. 
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137206/26400" target="_top" id="2137206">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137206" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137206/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Go to Software Update in Settings
 
 Within General, tap on Software Update. This will show you if the iOS 18 update is available for you to download.
@@ -43,6 +50,13 @@ Within General, tap on Software Update. This will show you if the iOS 18 update 
 ## 3\. Download and install
 
 When you tap on Software Update, your iPhone will check for the latest version of iOS available. Then, you'll be able to Download and Install the new update. Your iPhone will begin the download immediately.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915805/19272" target="_top" id="1915805">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915805" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915805/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Enter your passcode and follow steps to install
 
@@ -52,29 +66,22 @@ After installing the latest iOS update, your iPhone will restart.
 
 ## FAQs
 
-<!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576477/17382" target="_top" id="1576477">
-  <img src="//a.impactradius-go.com/display-ad/17382-1576477" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576477/17382" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### When is Apple Intelligence coming out?
 
 Apple Intelligence, featuring the company's AI tools, will begin to roll out for compatible iPhones over the next few weeks, with more features to join in the coming months. This slew of AI features will be available on the iPhone 16 lineup and the iPhones 15 Pro and Pro Max.
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148649/16836" target="_top" id="2148649">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148649" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148649/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### When was iOS 18 released?
 
 Apple released the iOS 18 developer beta during WWDC 2024 in June, and the public beta version was released on July 15\. The general release of iOS 18 is September 16.
 
 **Also: [The best iOS 18 features that will make updating your iPhone worthwhile](https://www.zdnet.com/article/the-best-ios-18-features-that-will-make-updating-your-iphone-worthwhile/)**
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2052060/7443" target="_top" id="2052060">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052060" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052060/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Can you still download the iOS 18 public beta?
 
@@ -95,13 +102,6 @@ You'll need an iPhone running iOS 16.5 or later. Since not all iPhones are compa
 
 Screenshot: Maria Diaz/ZDNET
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938750/19272" target="_top" id="1938750">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938750" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938750/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### How to download the iOS 18 developer beta?
 
 To download the iOS 18 developer beta version, navigate to your settings to install the iOS 18 developer beta if your device runs iOS 16.4 and is used with an Apple ID enrolled in the Apple Developer Program:
@@ -119,10 +119,10 @@ If you can't see this option, go to your **Settings,** select **Privacy & Securi
 If you aren't already a member of the Apple Developer Program, you can sign up to become one in the app. An annual membership costs $99.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094421/7443" target="_top" id="2094421">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094421" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2005196/22899" target="_top" id="2005196">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005196" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094421/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005196/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### What is in iOS 18 beta 3?
@@ -169,16 +169,18 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-2024-approved-mastering-the-art-of-frames-with-top-rated-tools-24/"><u>[New] 2024 Approved Mastering the Art of Frames with Top-Rated Tools '24</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-highlight-halo-the-ultimate-iosandroid-coverage-app-for-2024/"><u>[New] Highlight Halo The Ultimate iOS/Android Coverage App for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-flawless-soundscape-secrets-to-high-resolution-audio-recording-for-2024/"><u>[Updated] Flawless Soundscape Secrets to High-Resolution Audio Recording for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-grab-free-video-profile-backgrounds-for-2024/"><u>[Updated] Grab Free Video Profile Backgrounds for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-financial-flourishing-in-youtube-content-markets/"><u>[Updated] In 2024, Financial Flourishing in YouTube Content Markets</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-harnessing-famebits-secrets-to-thrive-with-key-channel-sponsors/"><u>[Updated] In 2024, Harnessing FameBit's Secrets to Thrive with Key Channel Sponsors</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-pro-level-7-cameras-perfect-for-professional-broadcasting-vloggers/"><u>[Updated] In 2024, Pro-Level 7 Cameras Perfect for Professional Broadcasting Vloggers</u></a></li>
-<li><a href="https://solve-popular.techidaily.com/aomei-pc/"><u>AOMEI バックアッパーでPC システム クローン作成手順説明</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/can-you-watch-mov-movies-on-redmi-k70-by-aiseesoft-video-converter-play-mov-on-android/"><u>Can you watch MOV movies on Redmi K70 ?</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-unlock-honor-magic-5-pro-phone-password-without-factory-reset-by-drfone-android/"><u>How to Unlock Honor Magic 5 Pro Phone Password Without Factory Reset?</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-precious-chrome-companion-ringtones/"><u>In 2024, Precious Chrome Companion Ringtones</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-raw-footage-to-polished-content-youtube-studio-edition/"><u>[New] 2024 Approved From Raw Footage to Polished Content YouTube Studio Edition</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-capturing-every-moment-an-overview-of-apowersofts-screenshot-tool/"><u>[New] Capturing Every Moment An Overview of Apowersoft's Screenshot Tool</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-follow-the-footsteps-of-fan-driven-forums/"><u>[Updated] 2024 Approved Follow the Footsteps of Fan-Driven Forums</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-newbie-to-pro-your-complete-guide-to-creator-studio/"><u>[Updated] 2024 Approved From Newbie to Pro Your Complete Guide to Creator Studio</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-flavor-leaders-must-watch-culinary-youtube-stars/"><u>[Updated] In 2024, Flavor Leaders Must-Watch Culinary YouTube Stars</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-get-back-to-pure-content-how-to-block-youtube-ads-on-all-devices/"><u>[Updated] In 2024, Get Back to Pure Content How to Block YouTube Ads on All Devices</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-add-timestamps-on-youtube-video-link/"><u>[Updated] In 2024, How to Add Timestamps on YouTube Video Link?</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-the-sound-sleuths-guide-to-recording-streaming-media/"><u>[Updated] The Sound Sleuth's Guide to Recording Streaming Media</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-elite-filmmaking-tools-for-gopro/"><u>2024 Approved Elite Filmmaking Tools for GoPro</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-superior-5-digital-capture-devices/"><u>2024 Approved Superior 5 Digital Capture Devices</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/acer-chromebook-15-review-decent-chromebook-with-a-big-screen/"><u>Acer Chromebook 15 Review: Decent Chromebook With a Big Screen</u></a></li>
+<li><a href="https://howto.techidaily.com/oppo-find-x7-ultra-bootloop-problem-how-to-fix-it-without-data-loss-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Oppo Find X7 Ultra Bootloop Problem, How to Fix it Without Data Loss | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-quality-video-uplift-immaculate-resolution-for-2024/"><u>Top Quality Video Uplift Immaculate Resolution for 2024</u></a></li>
 </ul></div>
 

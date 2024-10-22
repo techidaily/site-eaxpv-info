@@ -1,7 +1,7 @@
 ---
 title: "Top Savings: Unveiling the Most Competitive AT&T Offers in May 2024 - Insights"
-date: 2024-10-13T00:10:53.095Z
-updated: 2024-10-16T05:19:18.625Z
+date: 2024-10-15T22:22:11.240Z
+updated: 2024-10-21T22:51:10.564Z
 tags:
   - apple
 categories:
@@ -91,41 +91,35 @@ While the Series 8 isn't the latest and greatest Apple Watch, it's still a great
 * [Apple Watch SE](https://goto.walmart.com/c/5597632/565706/9383?sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FRestored-Apple-Watch-SE-40mm-GPS-Cellular-Gold-Aluminum-Case-Starlight-Sport-Band%2F5031506033%3F&subId1=zd-__COM_CLICK_ID__-dtp) (40mm, Pink Sport Band, Restored): $124 (save $21)
 * [Apple Watch SE](https://goto.walmart.com/c/5597632/565706/9383?sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FApple-Watch-SE-GPS-Cellular-44mm-Gold-Aluminum-Case-with-Starlight-Sport-Band-Used%2F1620367883%3F&subId1=zd-__COM_CLICK_ID__-dtp) (44mm, GPS, Starlight Sport Band, Used): $125 (save $35)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148646/16836" target="_top" id="2148646">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148646" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148646/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How did we choose these deals?
 
 ZDNET only writes about deals we want to buy -- devices and products we desire, need, or would recommend. Our experts looked for deals that were at least 20% off (or are hardly ever on sale), using established price comparison tools and trackers to determine whether the deal is actually on sale and how frequently it drops. 
 
 We also looked over customer reviews to find out what matters to real people who already own and use the deals we're recommending. Our recommendations may also be based on our own testing -- in addition to extensive research and comparison shopping. The goal is to deliver the most accurate advice to help you shop smarter. 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135413/19272" target="_top" id="2135413">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135413" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135413/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## What is the best Apple watch?
 
 ZDNET's top pick for the [best Apple watch](https://www.zdnet.com/article/best-apple-watch/) is the Apple Watch Ultra 2 since it is lauded by athletes and members of the press as the best Apple Watch ever made thanks to its rugged durability, large and bright display, long battery life, water resistance, and more. It's no surprise it became the flagship model as soon as the Ultra was released last year. 
-
-<!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Do Apple Watches track my AFib?
 
 Yes, your Apple Watch, as long as it is a Series 6 or newer, can track your AFib, or irregular heartbeat. In fact, The US Food and Drug Administration (FDA) has recently [awarded](https://content.govdelivery.com/accounts/USFDA/bulletins/399d551) medical device development tool (MDDT) status to the Apple Watch's atrial fibrillation (AFib) history tracker. The feature is first piece of digital health technology to earn MDDT status, the FDA said in a statement.
 
 **Also:** [**Your Apple Watch's AFib history could soon be used in clinical studies**](https://www.zdnet.com/article/your-apple-watchs-afib-history-could-soon-be-used-in-clinical-studies/)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130889/7443" target="_top" id="2130889">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130889" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130889/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Apple Watch SE vs Series 8: Which is the better buy?
 
@@ -135,16 +129,16 @@ However, if you want to get in at the lowest price or you're buying a watch for 
 
 **Also**: [**Watch Series 8 vs Series 9: Should you upgrade?**](https://www.zdnet.com/article/apple-watch-series-9-vs-apple-watch-series-8/) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## What is the newest Apple Watch?
 
 Apple has a lengthy lineup of its flagship tech wearable, with several iterations over the last few years. The two newest watch releases come in the Apple Watch Series 9 and the Apple Watch Ultra 2, which were released in September 2023\. The Apple Watch SE (2nd Gen) remains the most up-to-date base model. With multiple models available, both old and new, you'll be sure to find a watch that fits your needs and your price point. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Which Apple watches have the new double tap feature?
 
@@ -161,10 +155,16 @@ Other band options include the Ocean Band, Alpine Loop, Milanese Loop, Trail Loo
 The Apple watch models are not the only options for smart watches, despite their popularity. ZDNET rounded up the [best smartwatch deals](https://www.zdnet.com/article/best-black-friday-and-cyber-monday-smartwatch-deals-still-available/) so you can scope more alternative deals, including the Fitbit Versa 4, Fitbit Luxe, Google Pixel Watch, Samsung Galaxy Watch 6, and more. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118325/7443" target="_top" id="2118325">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118325" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118325/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983475">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983475.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983475">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983475.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983475%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983475/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## What does "trade-in" mean?
@@ -219,24 +219,22 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-growth-hacks-for-youtubers-short-form-content-boosting-view-counts-effectively/"><u>[New] 2024 Approved Growth Hacks for YouTuber's Short Form Content Boosting View Counts Effectively</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-guides-on-creating-cost-free-youtube-beginnings-and-conclusions/"><u>[New] 2024 Approved Guides on Creating Cost-Free YouTube Beginnings & Conclusions</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-essential-youtube-beauty-influencers-10-creators-to-watch-for-2024/"><u>[New] Essential YouTube Beauty Influencers 10 Creators to Watch for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-from-capture-to-screen-the-complete-process-of-uploading-360-vids-on-youtube-for-2024/"><u>[New] From Capture to Screen The Complete Process of Uploading 360 Vids on YouTube for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-from-flv-to-youtube-stardom-top-10-video-conversion-tools-reviewed-for-2024/"><u>[New] From FLV to YouTube Stardom Top 10 Video Conversion Tools Reviewed for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-fast-paced-favorites-leading-background-music-in-yt-shorts/"><u>[New] In 2024, Fast-Paced Favorites Leading Background Music in YT Shorts</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-simple-guide-to-effective-and-smooth-iphone-screen-recordings/"><u>[New] Simple Guide to Effective & Smooth Iphone Screen Recordings</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-countering-harshness-maintaining-poise-online/"><u>[Updated] 2024 Approved Countering Harshness Maintaining Poise Online</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-elevate-youtube-rankings-with-optimized-metadata/"><u>[Updated] 2024 Approved How to Elevate YouTube Rankings with Optimized Metadata</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-premium-mp4-uploader-for-fb-networks/"><u>[Updated] 2024 Approved Premium MP4 Uploader for FB Networks</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-flipping-frames-innovative-techniques-for-backward-viewing-on-yt-for-2024/"><u>[Updated] Flipping Frames Innovative Techniques for Backward Viewing on YT for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-free-mp3s-galore-10-no-cost-online-tools-for-2024/"><u>[Updated] Free Mp3s Galore 10 No-Cost Online Tools for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-from-youtube-to-avi-perfect-conversion-tools-revealed-for-2024/"><u>[Updated] From YouTube to AVI Perfect Conversion Tools Revealed for 2024</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/evaluating-the-amazon-essentials-tablet-stand-a-perfect-travel-companion/"><u>Evaluating the Amazon Essentials Tablet Stand: A Perfect Travel Companion</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/in-2024-streamlining-film-shoots-a-beginners-guide/"><u>In 2024, Streamlining Film Shoots A Beginner's Guide</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/incorporate-live-captions-seamlessly-into-stories/"><u>Incorporate Live Captions Seamlessly Into Stories</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-adobe-premiere-pro-power-ups-top-15-free-plugins-to-boost-your-workflow/"><u>New 2024 Approved Adobe Premiere Pro Power-Ups Top 15 Free Plugins to Boost Your Workflow</u></a></li>
-<li><a href="https://win11.techidaily.com/quick-guide-to-audio-extraction-from-dvds-speedy-software-solutions/"><u>Quick Guide to Audio Extraction From DVDs - Speedy Software Solutions</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/realizing-your-audio-based-ppt-with-easy-s2t-tools-for-2024/"><u>Realizing Your Audio-Based PPT with Easy S2T Tools for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-the-art-of-curating-digital-stories-on-fb/"><u>[New] 2024 Approved The Art of Curating Digital Stories on FB</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-enhance-video-visibility-with-effective-thumbnail-scaling-for-2024/"><u>[New] Enhance Video Visibility with Effective Thumbnail Scaling for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-how-much-can-you-earn-on-youtube-via-ad-revenue-for-2024/"><u>[New] How Much Can You Earn on YouTube via Ad Revenue for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-how-to-use-google-trends-to-come-up-with-video-ideas-easy-guide-for-2024/"><u>[New] How to Use Google Trends to Come up with Video Ideas [Easy Guide] for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-fifa-footage-analysis-trendy-video-patterns/"><u>[New] In 2024, FIFA Footage Analysis Trendy Video Patterns</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-device-capture-to-viral-content-youtubes-upload-guide/"><u>[Updated] 2024 Approved From Device Capture to Viral Content YouTube's Upload Guide</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-flaunt-your-brand-with-ease-the-top-10-youtube-theme-designers-for-2024/"><u>[Updated] Flaunt Your Brand with Ease - The Top 10 YouTube Theme Designers for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-get-going-on-youtube-video-upload-tutorial-in-premiere-for-2024/"><u>[Updated] Get Going on YouTube Video Upload Tutorial in Premiere for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-add-timestamps-on-youtube-video-link-in-2024/"><u>[Updated] How to Add Timestamps on YouTube Video Link, In 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-chaos-to-clarity-professional-tools-for-youtube-cuts/"><u>[Updated] In 2024, From Chaos to Clarity Professional Tools for Youtube Cuts</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-editors-secret-smooth-transitions-in-premiere-pro/"><u>2024 Approved The Editor's Secret Smooth Transitions in Premiere Pro</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/exploring-the-world-of-toms-computer-components-and-tech-reviews-t17239724902053/"><u>Exploring the World of Tom's Computer Components and Tech Reviews</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-perform-a-clean-installation-on-your-dell-desktop-pc/"><u>How to Perform a Clean Installation on Your Dell Desktop PC</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-how-can-we-bypass-xiaomi-redmi-note-12-5g-frp-by-drfone-android/"><u>In 2024, How Can We Bypass Xiaomi Redmi Note 12 5G FRP?</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-remove-passcode-from-iphone-15-plus-complete-guide-drfone-by-drfone-ios/"><u>In 2024, How To Remove Passcode From iPhone 15 Plus? Complete Guide | Dr.fone</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/in-2024-top-5-web-based-or-extension-voice-changers-for-chromebook/"><u>In 2024, Top 5 Web-Based or Extension Voice Changers for Chromebook</u></a></li>
+<li><a href="https://techidaily.com/three-methods-to-recover-lost-data-on-oppo-reno-10-pro-5g-by-fonelab-android-recover-data/"><u>Three methods to recover lost data on Oppo Reno 10 Pro 5G</u></a></li>
 </ul></div>
 

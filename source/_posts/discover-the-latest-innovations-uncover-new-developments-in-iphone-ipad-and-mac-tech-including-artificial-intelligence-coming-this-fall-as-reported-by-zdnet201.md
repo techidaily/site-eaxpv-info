@@ -1,7 +1,7 @@
 ---
 title: Discover the Latest Innovations! Uncover New Developments in iPhone, iPad, and Mac Tech Including Artificial Intelligence Coming This Fall as Reported by ZDNET
-date: 2024-10-12T01:50:03.477Z
-updated: 2024-10-15T18:26:45.367Z
+date: 2024-10-18T20:53:22.236Z
+updated: 2024-10-21T23:03:50.934Z
 tags:
   - apple
 categories:
@@ -69,10 +69,10 @@ Jason Hiner/ZDNET
 * The ChatGPT integration will be coming to iOS 18, iPadOS 18, and MacOS Sequoia later this year.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136616/26400" target="_top" id="2136616">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136616" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136616/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## iOS 18
@@ -93,13 +93,6 @@ Adam Breeden/ZDNET
 * The **Safari app** was upgraded to include key information about a webpage. You can read more about the Safari upgrades under the MacOS section of this article.
 * The **Calendar app** can now pull from the Reminders app for a more seamless schedule overview.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105874/7443" target="_top" id="2105874">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105874" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105874/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## WatchOS 11
 
 Adam Breeden/ZDNET
@@ -114,6 +107,19 @@ Adam Breeden/ZDNET
 * **Check In** is available on Apple Watch, even during workouts, to help users stay safe. **Translate** is also coming to Apple Watch so users can translate text right from their wrists.
 * Another notable change is that the **double tap gesture** can be used to scroll through apps.
 
+<!-- affiliate ads begin -->
+<span id="1983588">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983588.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983588">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983588.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983588%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## iPadOS 18
 
 Adam Breeden/ZDNET
@@ -125,10 +131,10 @@ Adam Breeden/ZDNET
 * iPadOS 18 supports **screen-sharing via SharePlay** and the same Control Center customizations, Photos app upgrades, Safari updates, and emoji Tapbacks found in **iOS 18.**
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135368/19272" target="_top" id="2135368">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135368" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144284/7443" target="_top" id="2144284">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144284" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135368/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144284/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## MacOS 15 (Sequoia)
@@ -168,10 +174,10 @@ Jason Hiner/ZDNET
 * Apple is also releasing a **Personalized Spatial Audio API** for game developers to build around the AirPods' audio technology.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137207/26400" target="_top" id="2137207">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137207" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137207/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## tvOS 18
@@ -218,22 +224,17 @@ Screenshot by Nina Raemont/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/024-approved-essential-steps-to-create-youtube-beginnings-and-ends-on-a-budget/"><u>[New] 2024 Approved Essential Steps to Create YouTube Beginnings & Ends on a Budget</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-send-hidden-youtube-videos-using-google-login/"><u>[New] 2024 Approved How to Send Hidden YouTube Videos Using Google Login</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-how-to-convert-youtube-videos-to-mp3-songs-on-mac-for-2024/"><u>[New] How to Convert YouTube Videos to MP3 Songs on Mac for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-gamers-galaxy-100plus-spaces-of-play/"><u>[New] In 2024, Gamer's Galaxy 100+ Spaces of Play</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-get-into-the-game-starting-an-apple-powered-sports-network/"><u>[New] In 2024, Get Into the Game Starting an Apple-Powered Sports Network</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/outube-video-ranking-factors-that-will-affect-your-rank/"><u>[New] YouTube Video Ranking - Factors that Will Affect Your Rank</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-building-a-successful-career-through-youtube-short-film-making/"><u>[Updated] 2024 Approved Building a Successful Career Through YouTube Short Film-Making</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-free-visual-templates-to-upgrade-your-profile-for-2024/"><u>[Updated] Free Visual Templates to Upgrade Your Profile for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-gastronomy-gurus-essential-chefs-to-subscribe-to-for-2024/"><u>[Updated] Gastronomy Gurus Essential Chefs to Subscribe To for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-grasp-the-basics-of-sub4sub-success-our-guide-lays-it-out-clearly-for-2024/"><u>[Updated] Grasp the Basics of Sub4sub Success - Our Guide Lays It Out Clearly for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-use-creative-commons-copyright-licenses-in-2024/"><u>[Updated] How to Use Creative Commons Copyright Licenses, In 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-seamlessly-scaling-photos-and-videos-via-iphone-features/"><u>2024 Approved Seamlessly Scaling Photos & Videos via iPhone Features</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/creating-immersive-iphone-360-reels-for-social-media/"><u>Creating Immersive iPhone 360 Reels for Social Media</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/firefox-pip-simplified-for-the-everyday-user-for-2024/"><u>Firefox PIP Simplified for the Everyday User for 2024</u></a></li>
-<li><a href="https://howto.techidaily.com/fixes-for-apps-keep-crashing-on-infinix-note-30-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixes for Apps Keep Crashing on Infinix Note 30 5G | Dr.fone</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/new-2024-approved-mac-video-editing-made-easy-download-splice-now/"><u>New 2024 Approved Mac Video Editing Made Easy Download Splice Now</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/pioneering-practices-for-type-in-ae-projects-for-2024/"><u>Pioneering Practices for Type in AE Projects for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-find-youtube-sponsorships-by-using-famebit/"><u>[New] 2024 Approved How to Find YouTube Sponsorships by Using FameBit</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/et-both-sides-right-expert-tips-on-crafting-compelling-pov-based-youtube-reaction-videos-2-pov-perspective-for-2024/"><u>[New] Get Both Sides Right – Expert Tips on Crafting Compelling POV-Based YouTube Reaction Videos (2 POV Perspective) for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-get-free-green-screen-effects-from-4-youtube-channels-for-2024/"><u>[New] Get Free Green Screen Effects From 4 YouTube Channels for 2024</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-in-2024-echoes-of-collaboration-tiktok-duet-hits/"><u>[New] In 2024, Echoes of Collaboration TikTok Duet Hits</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-raw-to-refined-mastering-the-art-of-pc-video-editing-on-windows/"><u>[New] In 2024, From Raw to Refined Mastering the Art of PC Video Editing on Windows</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-finalizing-your-video-with-a-bold-statement-for-2024/"><u>[Updated] Finalizing Your Video with a Bold Statement for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-mac-enhanced-a-dive-into-screenflows-capabilities/"><u>[Updated] Mac Enhanced A Dive Into ScreenFlow's Capabilities</u></a></li>
+<li><a href="https://win-trending.techidaily.com/get-your-hands-on-the-freshly-released-surface-laptop-go-2-for-just-599-pre-order-now-exclusive-insights-and-specs-by-cnet/"><u>Get Your Hands on the Freshly Released Surface Laptop Go 2 for Just $599 - Pre-Order Now! Exclusive Insights and Specs by CNET</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-dose-life360-notify-me-when-someone-checks-my-location-on-lenovo-thinkphone-drfone-by-drfone-virtual-android/"><u>In 2024, Dose Life360 Notify Me When Someone Checks My Location On Lenovo ThinkPhone? | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-xiaomi-13tfrp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your Xiaomi 13TFRP Lock</u></a></li>
+<li><a href="https://techtrends.techidaily.com/must-have-exercise-record-keeping-apps-for-trainers-and-athletes/"><u>Must-Have Exercise Record Keeping Apps for Trainers & Athletes</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-non-functional-nvidia-geforce-overlay-solutions-inside/"><u>Troubleshooting Non-Functional Nvidia GeForce Overlay - Solutions Inside!</u></a></li>
 </ul></div>
 

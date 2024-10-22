@@ -1,7 +1,7 @@
 ---
 title: 7 Instead of Jumping to Series 10 - Insights From ZDNet
-date: 2024-10-10T00:12:21.996Z
-updated: 2024-10-16T00:04:32.861Z
+date: 2024-10-15T22:40:59.254Z
+updated: 2024-10-21T23:43:56.530Z
 tags:
   - apple
 categories:
@@ -35,10 +35,10 @@ Here are the top reasons why we are (or aren't) upgrading to the iPhone 16 in th
 Kerry Wan/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012401/19272" target="_top" id="2012401">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012401" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137223/26400" target="_top" id="2137223">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137223" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012401/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137223/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 1\. The camera
@@ -87,22 +87,15 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 ZDNET's Jason Perlow is bumping up for similar reasons. "I am upgrading from my 15 Pro Max to a 16 Pro Max because I am on the iPhone Upgrade Program, and as I cover developments with Apple, it is a business expense and \[ultimately\] it's trading one loan payment for another. No other reason, although the camera improvements seem nice. I debated skipping, but there wasn't much of a downside," he says. 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130890/7443" target="_top" id="2130890">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130890" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130890/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Here's why ZDNET editors won't be upgrading to the iPhone 16
 
 Jason Hiner/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130532/26400" target="_top" id="2130532">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094414/7443" target="_top" id="2094414">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094414" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130532/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094414/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 1\. The Apple Intelligence features aren't perfect
@@ -124,10 +117,10 @@ As reviews editor Kyle Kucharski says, it's never a good idea to blindly update 
 Staff writer Maria Diaz thinks the same. "I have the iPhone 14 Pro Max and am still happy with it. It performs just as well as when I got it. I wish the camera were better (but the BlackMagic app helps a lot with this) and I would like the convenience of a USB-C port, but it's still working well enough that I don't feel compelled at all to get an iPhone 16\. I'm holding out for next year, at least," Diaz says. Kucharski is on the same page. "I still have the 12, and the bottom line: it still works fine," he says. 
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139122/17108" target="_top" id="2139122">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139122" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139122/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 3\. Expense and hassle
@@ -135,6 +128,13 @@ Staff writer Maria Diaz thinks the same. "I have the iPhone 14 Pro Max and am st
 Sometimes it's the most obvious factors that influence our choices. The expense and hassle of coordinating a new phone may not be in some people's budgets just yet (literally and figuratively). I'm in this department. It would be really cool to have that shiny, beautiful, and gloriously pink iPhone 16, but my iPhone 14 Pro works completely fine (even though its battery grinds my gears), and I have no good reason to upgrade beyond wanting a pink phone. It would be an added expense on both my wallet and my time (setting up a new phone is not a one-day process; change my mind). Plus, I usually keep my phones until they crap out anyway, so an upgrade right now is just not in the cards. 
 
 ZDNET's Adrian Kingsley-Hughes is still on the fence, but we agree on one thing. "It's a ton of money," he says.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115916/19272" target="_top" id="2115916">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115916" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115916/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to preorder the iPhone 16
 
@@ -176,21 +176,15 @@ The [iPhone 16 Pro](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&pa
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-photos-to-feeds-selecting-the-best-9-gear-upgrades/"><u>[New] 2024 Approved From Photos to Feeds Selecting the Best 9 Gear Upgrades</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-giggles-galore-7-entertaining-video-sets-for-chuckleheads/"><u>[New] 2024 Approved Giggles Galore 7 Entertaining Video Sets for Chuckleheads</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-edit-youtube-videos-in-final-cut-pro/"><u>[New] 2024 Approved How to Edit YouTube Videos in Final Cut Pro</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-get-more-out-of-youtube-with-8-handpicked-download-apps-for-2024/"><u>[New] Get More Out of YouTube with 8 Handpicked Download Apps for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-how-to-get-a-youtube-video-trending-for-2024/"><u>[New] How to Get a YouTube Video Trending for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-flip-order-3-easy-steps-to-rewind-youtube-listeners/"><u>[New] In 2024, Flip Order 3 Easy Steps to Rewind Youtube Listeners</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-free-mcb-theme-images-templates-and-more/"><u>[New] In 2024, Free MCB Theme Images, Templates & More</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-unlocking-live-streams-rokus-path-to-fb-live/"><u>[New] Unlocking Live Streams Roku's Path to FB LIVE</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-becoming-a-pro-at-using-a-tripod-for-clear-high-quality-vlogs/"><u>[Updated] In 2024, Becoming a Pro at Using a Tripod for Clear, High-Quality Vlogs</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1722992794533-fix-your-fall-guys-issues-overcoming-launch-and-crash-problems-easily/"><u>Fix Your Fall Guys Issues: Overcoming Launch and Crash Problems Easily</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-xiaomi-mix-fold-3withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Xiaomi Mix Fold 3with/without a PC</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/los-10-recomendados-optimizadores-de-video-con-ia-gratis-para-dispositivos-windows-and-mac/"><u>Los 10 Recomendados Optimizadores De Vídeo Con IA Gratis Para Dispositivos Windows & Mac</u></a></li>
-<li><a href="https://facebook.techidaily.com/navigating-through-networked-lifetimes-on-fb/"><u>Navigating Through Networked Lifetimes on FB</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/step-by-step-guide-building-high-quality-windows-11-videos/"><u>Step-by-Step Guide Building High-Quality Windows 11 Videos</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/the-indispensable-add-on-for-oculus-quest-2-users-in-depth-analysis-of-the-elite-straps-backup-power-source-and-reliable-carrying-case-combo/"><u>The Indispensable Add-On for Oculus Quest 2 Users: In-Depth Analysis of the Elite Straps, Backup Power Source & Reliable Carrying Case Combo</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/unveiling-market-trends-how-vps-forecasting-reflects-appetite-for-apples-xr-wearable/"><u>Unveiling Market Trends: How VPS Forecasting Reflects Appetite for Apple's XR Wearable</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-framing-the-perfect-waterway-narrative/"><u>[New] 2024 Approved Framing the Perfect Waterway Narrative</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-future-pioneers-8-rapidly-expanding-video-ventures/"><u>[New] 2024 Approved Future Pioneers 8 Rapidly Expanding Video Ventures</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-screenshot-perfection-on-mac-selecting-top-10-recorders-reviewed/"><u>[New] Screenshot Perfection on Mac Selecting Top 10 Recorders Reviewed</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-vlogger-to-earnest-by-year-end-following-sourav-joshis-examples/"><u>[Updated] 2024 Approved From Vlogger to Earnest by Year End - Following Sourav Joshi's Examples</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-ryan-kaji-youthful-wealth-through-internet-popularity/"><u>[Updated] 2024 Approved Ryan Kaji Youthful Wealth Through Internet Popularity</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-fiscal-horizons-exploring-mr-beasts-income-for-2024/"><u>[Updated] Fiscal Horizons Exploring Mr. Beast's Income for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-mastering-the-craft-of-engaging-your-viewers-from-the-start-for-2024/"><u>[Updated] Mastering the Craft of Engaging Your Viewers From The Start for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-unveiling-the-best-cinematic-love-top-8-premium-wedding-videos-online-for-2024/"><u>[Updated] Unveiling the Best Cinematic Love Top 8 Premium Wedding Videos Online for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/comparing-leading-ai-chatbots-who-takes-the-crown-between-microsofts-googles-and-openais-offerings/"><u>Comparing Leading AI Chatbots: Who Takes the Crown Between Microsoft's, Google’s & OpenAI’s Offerings?</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-crafting-a-compelling-pitch-products-sponsoring-youtubers/"><u>In 2024, Crafting a Compelling Pitch Products Sponsoring Youtubers</u></a></li>
 </ul></div>
 

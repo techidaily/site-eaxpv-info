@@ -1,7 +1,7 @@
 ---
 title: "Essential Guide: When & How to Successfully Reboot Your AirPods - Tips From ZDNet"
-date: 2024-10-12T22:29:58.320Z
-updated: 2024-10-15T23:00:18.813Z
+date: 2024-10-16T22:37:38.505Z
+updated: 2024-10-21T21:43:28.691Z
 tags:
   - apple
 categories:
@@ -55,10 +55,10 @@ Now, [mostly I'm home](https://www.zdnet.com/article/whats-inside-gewirtzs-home-
 In any case, what that means is that instead of my escalating ranking of phones, tablets, Chromebooks and laptops, I just carry my [iPhone 12 Pro Max](https://www.zdnet.com/article/dont-buy-that-expensive-new-iphone-13-how-used-iphones-can-deliver-huge-savings/). It will keep me up to speed until I get back home and can pick up where I left off.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918684/19272" target="_top" id="1918684">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918684" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2016165/19272" target="_top" id="2016165">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016165" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918684/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016165/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Tools for my daily flow
@@ -91,6 +91,13 @@ At this point, I tend to take note of what's in my inbox, but I neither process 
 
 I also take a quick look at my calendar and my to-do list to make sure I know what's on deck for the day. 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135365/19272" target="_top" id="2135365">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135365" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135365/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Daily must-reads with Pocket
 
 Next up, I hit my daily most-reads. Of course, this starts with [_ZDNet_](https://www.zdnet.com/), then usually [_Drudge_](http://www.drudgereport.com/)and [_Techmeme_](http://www.techmeme.com/). I do a quick headline scan and anything that seems worth reading, I right-click and save to [Pocket](http://getpocket.com/). 
@@ -108,10 +115,10 @@ By this point, I'm somewhere between 30 and 60 minutes into my day, I've had one
 Depending on the importance and urgency of the messages in my Gmail inbox, I'll either go straight into my morning email cycle or begin my morning reading. I prefer to do morning reading before email, so I'll discuss that next. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068439/7443" target="_top" id="2068439">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068439" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151854/7443" target="_top" id="2151854">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151854" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068439/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151854/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## The Pocket-read-post-archive cycle
@@ -141,6 +148,13 @@ I'm relatively holistic about my morning reading process. I do it until I'm bore
 
 The key point to all of this is that ever since I moved to this Pocket-read-post-archive cycle for my daily reading, my productivity and flexibility has gone up tremendously. I'm getting more done, and the quality of the process is far more pleasant. I'm no longer tied to my desktop browser, because all of these tools work on all my devices. 
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134239/18498" target="_top" id="2134239">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134239" border="0" alt="https://techidaily.com" width="721" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134239/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Connecting and scheduling
 
 Assuming there's nothing on fire that I've had to handle first thing, at some point during the morning, I'll switch from reading to communicating. I'll switch out of Pocket and into Gmail and work my way through my email. 
@@ -163,13 +177,6 @@ Now, to be fair, I have a slight email fetish, so I do check back in to my inbox
 
 In fact, now that I have email notifications integrated into my watch, I'm finding I'm actually breaking myself of the habit, because unless I hear the notification tone, I don't have any important emails coming in. I have actually gone a few hours without checking my email inbox, which is something of a record for me. 
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134249/18498" target="_top" id="2134249">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134249" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134249/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Managing my daily teaching opportunities
 
 As it turns out, supporting users is a lot like teaching online students.
@@ -183,13 +190,6 @@ Help Scout also has great team features, but I'm a programming army of one.
 I just think of those users like more of my students. If any questions show up in my inbox, I go into the ticketing system and answer questions. I'm not assigning users letter grades, but otherwise the process is pretty much the same. 
 
 By the way, this is also a great way to think about users, which I initially was a bit unhappy about adding to my daily workload. But the reframe is this: I'm an educator and these are more people in need of assistance while they're learning to use these plugins. So, rather than thinking about providing user support as an added workload, I think of the users as more of my students and their questions as simply more teaching opportunities. It's also a great way to keep up on what people are doing out there, and gives me a much more "on the street" dialog with users, which is invaluable as a tech journalist.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136621/26400" target="_top" id="2136621">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136621" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136621/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Featured
 
@@ -236,13 +236,6 @@ That, by the way, is the entire key to keeping your to-do list under control. If
 
 I've also set up Notion pages for each 3D printer, and for managing and tracking my reviews and video projects. It's great as a catch-all for lots of details, but unlike previous catch-alls like Evernote, Notion allows you to assign some structure and layout to the stuff you're working with. 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902304/19272" target="_top" id="1902304">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902304" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902304/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Blocking out time for my projects
 
 I use Notion for managing the details of my projects, but I visualize them using Google Calendar. I have three special calendars I set up: DG Planner, Planner Tentative, and Project Due.
@@ -256,6 +249,13 @@ Next is DG Planner. I use this to block out a set of days for everything that ha
 Finally, there's Planner Tentative. This is where I block out the approximate time a project I may or may not be working on will probably take. That way, if I'm taking with my team about a bunch of projects, I can block out some tentative time and see how my month is shaping up.
 
 With this system, I rarely lose track of projects and also rarely overbook myself. It's worked quite well for a bunch of years now.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2129740/7443" target="_top" id="2129740">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129740" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129740/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Rethinking your flow
 
@@ -286,20 +286,17 @@ _You can follow my day-to-day project updates on social media. Be sure to follow
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-use-social-blade-for-youtube-analytics-stats-and-how-to-use-them/"><u>[New] Use Social Blade for YouTube Analytics - Stats & How to Use Them</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-craft-engaging-trailers-that-drive-channels-sales/"><u>[Updated] 2024 Approved How to Craft Engaging Trailers that Drive Channels' Sales</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-create-engaging-visual-hooks-a-guide-to-video-thumbnail-making/"><u>[Updated] 2024 Approved How to Create Engaging Visual Hooks A Guide to Video Thumbnail Making</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-finding-the-central-node-of-youtube-video-management-for-2024/"><u>[Updated] Finding the Central Node of YouTube Video Management for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-full-vision-media-the-smart-mcn-selection-process-for-2024/"><u>[Updated] Full Vision Media The Smart MCN Selection Process for 2024</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-in-2024-breaking-down-barriers-adding-chapters-to-create-cohesive-youtube-lessons/"><u>[Updated] In 2024, Breaking Down Barriers Adding Chapters to Create Cohesive YouTube Lessons</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-first-to-last-your-guide-to-youtube-video-looping-101/"><u>[Updated] In 2024, From First to Last Your Guide to YouTube Video Looping 101</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-future-earning-potential-in-gaming-videos/"><u>[Updated] In 2024, Future Earning Potential in Gaming Videos</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/2024-approved-the-definitive-guide-to-using-vlc-player-in-macos/"><u>2024 Approved The Definitive Guide to Using VLC Player in macOS</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/comparing-media-formats-dvd-blu-ray-and-digital-files-a-comprehensive-guide-on-which-offers-the-best-value/"><u>Comparing Media Formats: DVD, Blu-Ray, and Digital Files – A Comprehensive Guide on Which Offers the Best Value</u></a></li>
-<li><a href="https://driver-download.techidaily.com/download-updated-drivers-for-realtek-rtl81cu-wireless-network-adapter-on-windows-11-and-7/"><u>Download Updated Drivers for Realtek RTL81#CU Wireless Network Adapter on Windows 11 & 7</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/elite-brain-teasers-general-knowledge/"><u>Elite Brain Teasers - General Knowledge</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-everything-to-know-about-apple-id-password-requirements-for-apple-iphone-15-plus-by-drfone-ios/"><u>In 2024, Everything To Know About Apple ID Password Requirements For Apple iPhone 15 Plus</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/mastering-technology-inside-tips-from-toms-hardware-experts/"><u>Mastering Technology: Inside Tips From Tom's Hardware Experts</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/the-best-of-breed-top-screen-capture-software-reviews/"><u>The Best of Breed Top Screen Capture Software Reviews</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-finding-hashtags-that-amplify-to-6k-views/"><u>[New] 2024 Approved Finding #Hashtags That Amplify to 6K Views</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-film-fans-choice-cutting-edge-youtube-channels-for-2024/"><u>[New] Film Fan's Choice Cutting-Edge YouTube Channels for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-free-access-worlds-biggest-youtube-short-downloaders-for-2024/"><u>[New] Free Access World’s Biggest YouTube Short Downloaders for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-streaming-success-recorded-google-chats-for-2024/"><u>[New] Streaming Success Recorded Google Chats for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-hasty-guide-from-raw-images-to-high-quality-youtube-thumbnail-art/"><u>[Updated] 2024 Approved Hasty Guide From Raw Images to High-Quality YouTube Thumbnail Art</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-translating-views-into-dollars-on-youtube-via-cpm/"><u>[Updated] Translating Views Into Dollars on YouTube via CPM</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/battlefield-2042-stability-solutions-for-pc-users-experiencing-game-crashes/"><u>Battlefield 2042 Stability Solutions for PC Users Experiencing Game Crashes</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/comprehensive-step-by-step-strategy-how-to-secure-employment-in-top-tech-firms-insights-from-zdnet/"><u>Comprehensive Step-by-Step Strategy: How to Secure Employment in Top Tech Firms - Insights From ZDNet</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-ipogo-will-be-the-new-ispoofer-on-honor-magic-5-pro-drfone-by-drfone-virtual-android/"><u>In 2024, iPogo will be the new iSpoofer On Honor Magic 5 Pro? | Dr.fone</u></a></li>
+<li><a href="https://fox-access.techidaily.com/rejuvenated-dialogue-ideas-to-hook-listeners-for-2024/"><u>Rejuvenated Dialogue Ideas to Hook Listeners for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-definitive-guide-to-taking-screenshots-efficiently-with-logitech-keyboards/"><u>The Definitive Guide to Taking Screenshots Efficiently with Logitech Keyboards</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/ultimate-tutorial-how-to-remove-and-save-movie-subtitles-across-windowsmacos-systems/"><u>Ultimate Tutorial: How to Remove & Save Movie Subtitles Across Windows/macOS Systems</u></a></li>
 </ul></div>
 

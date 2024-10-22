@@ -1,7 +1,7 @@
 ---
 title: "Master Your iPad: Insider Tips & Key Settings Every Apple User Should Understand - ZDNet Explore"
-date: 2024-10-14T00:37:39.358Z
-updated: 2024-10-15T17:15:03.946Z
+date: 2024-10-20T20:20:00.198Z
+updated: 2024-10-21T16:55:22.614Z
 tags:
   - apple
 categories:
@@ -54,13 +54,6 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 **How to**: Go to Settings > Focus on your iPad, and you'll find various options to set up a Focus mode for work, personal, fitness, mindfulness, and more. The interface will guide you through setting up your notification settings, which contacts can ping you, and more. Plus, once you've set it up, it'll sync automatically with your iPhone, Apple Watch, and Mac.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134223/18498" target="_top" id="2134223">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134223" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134223/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 3\. Turn on Stage Manager when you need more multitasking chops
 
 Max Buondonno/ZDNET
@@ -74,10 +67,10 @@ You can customize the size of the window, bring up secondary apps in the same vi
 **How to**: Swipe down on the top-right corner to access Control Center, then tap the Stage Manager button to activate it (it looks like a rectangle with three smaller rectangles next to it). Alternatively, you can go to Settings > Multitasking & Gestures and turn on Stage Manager from there. When you're done using it, you can choose either option to turn it off.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123739/7443" target="_top" id="2123739">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123739" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134221/18498" target="_top" id="2134221">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134221" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123739/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134221/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Save your eyes at night with Night Shift
@@ -89,10 +82,10 @@ Yes, I realize this setting doesn't _actually_ protect your eyesight in the long
 **How to**: Head to Settings > Display & Brightness > Night Shift. From there, you can manually turn it on, schedule it to turn on during certain times, and adjust how warm you want your display to turn.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111981/7443" target="_top" id="2111981">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111981" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144271/7443" target="_top" id="2144271">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144271" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111981/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144271/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Low Power Mode can quickly become your best friend
@@ -110,6 +103,13 @@ That's where Low Power Mode comes in. With Low Power Mode, your iPad will limit 
 Sometimes, you just want to keep the contents of your iPad's notifications to yourself, whether for work reasons or if you're planning a surprise party for someone and they see the email confirming the delivery of their birthday cake. On the iPad, it's easy to lock away your notifications and only make them visible once you've used your fingerprint or face to log in.
 
 **How to**: Go to Settings > Notifications > Show Previews and change it from "Always" to "When Unlocked."
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2005196/22899" target="_top" id="2005196">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005196" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005196/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 7\. Split or float your keyboard
 
@@ -134,10 +134,10 @@ Of course, while the feature is enabled out of the box, there's always a chance 
 **How to**: Head over to Settings > Accessibility > Motion and ensure that "Limit Refresh Rate" _isn't_ enabled. If it is, your iPad's screen will remain locked to 60Hz, and who even uses 60Hz screens anymore?
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134491/18498" target="_top" id="2134491">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134491" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068426/7443" target="_top" id="2068426">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068426" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134491/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068426/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 9\. Tweak the Control Center
@@ -188,24 +188,16 @@ Using the TrueDepth cameras, Attention Awareness can keep tabs on when you're lo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/024-approved-decoding-youtubes-legal-framework-for-video-creators/"><u>[New] 2024 Approved Decoding YouTube's Legal Framework for Video Creators</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-from-humble-beginnings-surging-subscribers-and-views-in-youtube-world-for-2024/"><u>[New] From Humble Beginnings Surging Subscribers & Views in Youtube World for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-historical-highlights-topping-the-list-of-learning-yt-sources-for-2024/"><u>[New] Historical Highlights Topping the List of Learning YT Sources for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-how-to-make-a-great-educational-video-for-youtube-in-2024/"><u>[New] How to Make a Great Educational Video for YouTube, In 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-free-and-paid-video-game-opening-mastery-rank-the-best-of-yt-makers/"><u>[New] In 2024, Free & Paid Video Game Opening Mastery Rank the Best of YT Makers</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/new-the-curious-case-of-instavideos-turned-sideways/"><u>[New] The Curious Case of InstaVideos Turned Sideways</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-ultimate-eco-conscious-cinematography-setups-guide-for-2024/"><u>[New] Ultimate Eco-Conscious Cinematography Setups Guide for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-from-selfies-to-subscribers-jake-pauls-online-odyssey-for-2024/"><u>[Updated] From Selfies to Subscribers Jake Paul’s Online Odyssey for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-from-watch-list-to-download-youtube-playlist-in-minutes-for-2024/"><u>[Updated] From Watch List to Download YouTube Playlist in Minutes for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-how-to-dodge-without-disruption-bypassing-edgenuity-courses-effortlessly/"><u>[Updated] How to Dodge Without Disruption Bypassing Edgenuity Courses Effortlessly</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-find-a-niche-market-on-youtube-for-2024/"><u>[Updated] How to Find A Niche Market on YouTube for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-chaos-to-order-youtube-playlists-unveiled/"><u>[Updated] In 2024, From Chaos to Order YouTube Playlists Unveiled</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-frequent-uploads-can-skyro-cookie-sales-on-your-youtube-channel/"><u>[Updated] In 2024, How Frequent Uploads Can Skyro Cookie Sales on Your YouTube Channel</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/2024-approved-effortlessly-access-your-most-watched-fb-movies-post-2023/"><u>2024 Approved Effortlessly Access Your Most-Watched FB Movies Post-2023</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/bridging-gaps-solutions-for-sync-issues-in-chatgpt-and-services/"><u>Bridging Gaps: Solutions for Sync Issues in ChatGPT & Services</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/expert-reviews-best-graphic-tablet-pads-of-2024-unveiled/"><u>Expert Reviews: Best Graphic Tablet Pads of 2024 Unveiled</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/modern-standby-in-windows-os-a-critical-take/"><u>Modern Standby in Windows OS: A Critical Take</u></a></li>
-<li><a href="https://techtrends.techidaily.com/online-vrij-nieuwsfabricator-volgratis-pbm-png-converter-met-movavi/"><u>Online Vrij Nieuwsfabricator: Volgratis PBM-PNG Converter Met Movavi</u></a></li>
-<li><a href="https://common-error.techidaily.com/uncovering-your-touchpad-steps-to-reveal/"><u>Uncovering Your Touchpad: Steps to Reveal</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-guide-deleting-items-from-your-youtubeumbers-list/"><u>[New] 2024 Approved Guide Deleting Items From Your YouTube'umbers List</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-turn-youtube-shorts-into-a-money-machine-key-requirements-and-income-potential/"><u>[New] 2024 Approved How to Turn YouTube Shorts Into a Money Machine Key Requirements & Income Potential</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-change-youtube-playback-speed-to-speed-up-or-slow-down-video/"><u>[Updated] 2024 Approved How to Change YouTube Playback Speed to Speed Up or Slow Down Video</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-harness-youtubes-creative-commons-in-video-making/"><u>[Updated] 2024 Approved How to Harness YouTube's Creative Commons in Video Making</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-minds-on-fire-best-gk-quiz-videos-online/"><u>[Updated] 2024 Approved Minds on Fire Best GK Quiz Videos Online</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-novice-to-pro-youtube-shorts-guide/"><u>[Updated] In 2024, From Novice to Pro YouTube Shorts Guide</u></a></li>
+<li><a href="https://games-able.techidaily.com/5-obstacles-to-gamefis-adoption-by-true-gamers/"><u>5 Obstacles to GameFi's Adoption by True Gamers</u></a></li>
+<li><a href="https://location-fake.techidaily.com/a-detailed-guide-on-faking-your-location-in-mozilla-firefox-on-honor-magic5-ultimate-drfone-by-drfone-virtual-android/"><u>A Detailed Guide on Faking Your Location in Mozilla Firefox On Honor Magic5 Ultimate | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-show-wi-fi-password-on-realme-10t-5g-by-drfone-android/"><u>How to Show Wi-Fi Password on Realme 10T 5G</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-upgrade-iphone-6-plus-without-data-loss-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Upgrade iPhone 6 Plus without Data Loss? | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-inside-the-headset-the-mechanics-of-virtual-reality/"><u>In 2024, Inside the Headset The Mechanics of Virtual Reality</u></a></li>
 </ul></div>
 

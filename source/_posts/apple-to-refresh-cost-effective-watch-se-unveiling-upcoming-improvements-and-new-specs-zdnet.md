@@ -1,7 +1,7 @@
 ---
 title: Apple to Refresh Cost-Effective Watch SE? Unveiling Upcoming Improvements and New Specs | ZDNET
-date: 2024-10-12T05:07:05.544Z
-updated: 2024-10-16T04:03:06.566Z
+date: 2024-10-19T00:12:25.484Z
+updated: 2024-10-21T16:13:18.144Z
 tags:
   - apple
 categories:
@@ -40,11 +40,25 @@ Jason Hiner/ZDNET
 
 Using Apple Intelligence, you'll be able to fine-tune your writing in Mail, Notes, Pages, and any supported third-party app. Like other AI-powered editing tools, Apple Intelligence will be able to rewrite, proofread, and summarize your text.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134493/18498" target="_top" id="2134493">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134493" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134493/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Photo features
 
 Apple Intelligence will tap into your photos for a few different tricks. You'll be able to create movies out of photos in your library just by typing a description of what you want to see, much like you would for a [chatbot prompt](https://www.zdnet.com/article/6-ways-to-write-better-chatgpt-prompts-and-get-the-results-you-want-faster/). Using natural language, you'll be able to search for specific photos and even find certain moments in a video. 
 
 The [new Clean Up tool](https://www.zdnet.com/article/ios-18-1-beta-adds-photo-clean-up-ai-tool-and-notification-summaries-how-they-work/) will help you remove distracting or unwanted elements in a photo while leaving everything else intact.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139107/17108" target="_top" id="2139107">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139107" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139107/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. Audio transcriptions
 
@@ -60,13 +74,6 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134501/19576" target="_top" id="2134501">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134501" border="0" alt="https://techidaily.com" width="640" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134501/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 4\. Notification assistance
 
 Instead of having to read all the notifications that appear on your screen, you'll be able to browse through AI-generated summaries of them. Plus, a new Focus mode will display only the notifications that need your immediate attention.
@@ -78,13 +85,6 @@ To help you get through your emails, Apple Intelligence will [try to understand 
 **Also: [The iPhone 16 is undeniably great hardware - but you should still probably skip it](https://www.zdnet.com/article/the-iphone-16-is-undeniably-great-hardware-but-you-should-still-probably-skip-it/)**
 
 Plus, a new Smart Reply feature will offer suggestions for quick replies and ensure that all the questions in a response have been addressed.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151892/7443" target="_top" id="2151892">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151892" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151892/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 6\. Siri improvements
 
@@ -100,6 +100,19 @@ Beyond using your voice to chat with Siri, you'll also be able to type your requ
 
 Those are a fair number of AI-powered features and upgrades, but Apple Intelligence has more in store for the months and years ahead. 
 
+<!-- affiliate ads begin -->
+<span id="1975658">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975658.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975658">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975658.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975658%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975658/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## What will come later
 
 ### Image playground
@@ -107,10 +120,10 @@ Those are a fair number of AI-powered features and upgrades, but Apple Intellige
 Using the AI-powered [Image Playground](https://www.zdnet.com/article/what-is-apple-intelligence-everything-to-know-about-ai-features-coming-to-iphones-macs-and-ipads/), you'll be able to generate images based on a description, suggestions, or even a person from one of your photos. You can then tweak the style and make other changes based on how you plan to use or share the image.
 
 <!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958378/18409" target="_top" id="1958378">
-  <img src="//a.impactradius-go.com/display-ad/18409-1958378" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluetties.sjv.io/c/5597632/2141687/17094" target="_top" id="2141687">
+  <img src="//a.impactradius-go.com/display-ad/17094-2141687" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1958378/18409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141687/17094" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Image wand
@@ -120,13 +133,6 @@ The [image wand](https://www.zdnet.com/article/forget-dall-e-apples-new-ai-image
 ### Genmoji
 
 You'll be able to [create new emojis](https://www.zdnet.com/article/apples-new-ai-generated-genmoji-solve-a-problem-weve-all-had-before/) on-demand by entering a description or selecting a photo of you or another person. In response, the AI will generate a more accurate and lively kind of emoji.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135373/19272" target="_top" id="2135373">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135373" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135373/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### More Siri tricks
 
@@ -166,18 +172,24 @@ The big question, though, is not so much when the new AI features will arrive bu
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-hot-takes-dailys-most-popular-video-tracks/"><u>[New] 2024 Approved Hot Takes Daily's Most Popular Video Tracks</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-find-your-perfect-match-top-8-mirrorless-cameras-for-live-streams-for-2024/"><u>[New] Find Your Perfect Match Top 8 Mirrorless Cameras For Live Streams for 2024</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-capture-facebook-videos-like-a-pro-select-the-best-firefox-addons-and-downloaders/"><u>[New] In 2024, Capture Facebook Videos Like a Pro Select the Best Firefox Addons & Downloaders</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-novice-to-pro-your-step-by-step-guide-to-youtube-live-images/"><u>[New] In 2024, From Novice to Pro Your Step-by-Step Guide to YouTube Live Images</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-pursuit-of-riches-terrarias-quintessential-map-rankings/"><u>[New] Pursuit of Riches Terraria’s Quintessential Map Rankings</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-harness-the-power-of-youtube-videos-to-create-stunning-gifs-online/"><u>[Updated] 2024 Approved Harness the Power of Youtube Videos to Create Stunning Gifs Online</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-innovative-approaches-5-techniques-for-recording-sounds-on-windows-11/"><u>[Updated] 2024 Approved Innovative Approaches 5 Techniques for Recording Sounds on Windows 11</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-in-2024-engage-viewers-beyond-individual-watches/"><u>[Updated] In 2024, Engage Viewers Beyond Individual Watches</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-fast-lanes-for-jumbled-youtube-playlist-arrangement/"><u>[Updated] In 2024, Fast Lanes for Jumbled YouTube Playlist Arrangement</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-the-ideal-youtube-vision-top-video-suggestions-to-energize-your-channel/"><u>[Updated] In 2024, The Ideal YouTube Vision Top Video Suggestions to Energize Your Channel</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/distinguished-crafters-superior-online-instagram-hlv-creators/"><u>Distinguished Crafters Superior Online Instagram HLV Creators</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/in-2024-unlocking-virtual-video-talks-via-whatsapp-browser-on-your-pc/"><u>In 2024, Unlocking Virtual Video Talks via WhatsApp Browser on Your PC</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/step-by-step-tutorial-how-to-bypass-itel-s23-frp-by-drfone-android/"><u>Step-by-Step Tutorial How To Bypass Itel S23 FRP</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-free-youtube-intro-steps-and-template-guide/"><u>[New] 2024 Approved Free YouTube Intro Steps and Template Guide</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-vision-to-reality-personal-animation-mastery/"><u>[New] 2024 Approved From Vision to Reality Personal Animation Mastery</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-beyond-fbx-cutting-edge-apps-for-video-game-archiving/"><u>[New] Beyond FBX Cutting-Edge Apps for Video Game Archiving</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-harmonize-your-youtube-presence-with-these-ideal-microphones-for-various-channels-for-2024/"><u>[New] Harmonize Your YouTube Presence With These Ideal Microphones for Various Channels for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-shopping-lists-to-viral-hauls-video-making-insights/"><u>[New] In 2024, From Shopping Lists to Viral Hauls Video Making Insights</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-myvideocapture-social-media-video-download/"><u>[New] In 2024, MyVideoCapture Social Media Video Download</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-delete-youtube-comments-effortlessly/"><u>[Updated] 2024 Approved How to Delete YouTube Comments Effortlessly?</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-safely-capture-your-favorite-youtube-audio-for-free/"><u>[Updated] 2024 Approved How to Safely Capture Your Favorite YouTube Audio for Free</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-foster-viewer-connection-easy-anime-subscribe-buttons-for-youtube-creators/"><u>[Updated] In 2024, Foster Viewer Connection Easy Anime Subscribe Buttons for YouTube Creators</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-startup-to-stardom-with-youtube-seo-basics/"><u>[Updated] In 2024, From Startup to Stardom with YouTube SEO Basics</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-picsnapper-app-testimonials-and-feedback/"><u>[Updated] In 2024, PicSnapper App Testimonials & Feedback</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-silent-snapshots-avoiding-blurry-blows/"><u>[Updated] Silent Snapshots Avoiding Blurry Blows</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-troubleshooting-shorts-the-non-displaying-thumbnail/"><u>[Updated] Troubleshooting Shorts The Non-Displaying Thumbnail</u></a></li>
+<li><a href="https://blog-min.techidaily.com/comprendre-le-format-de-fichier-ts-comment-ouvrir-et-utiliser-efficacement-ces-types-de-documents/"><u>Comprendre Le Format De Fichier '.ts': Comment Ouvrir Et Utiliser Efficacement Ces Types De Documents</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/expert-tips-to-overcome-bluetooth-device-sync-challenges-on-your-windows-11-pc-updated/"><u>Expert Tips to Overcome Bluetooth Device Sync Challenges on Your Windows 11 PC (Updated )</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-no-fee-audio-understanding-tool/"><u>In 2024, No-Fee Audio Understanding Tool</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-elevated-cpu-consumption-caused-by-wuaucltexe-on-windows-11/"><u>Resolving Elevated CPU Consumption Caused by wuauclt.exe on Windows 11</u></a></li>
+<li><a href="https://win-lab.techidaily.com/simple-solution-ensuring-complete-photo-transfer-between-your-iphone-12-and-13/"><u>Simple Solution: Ensuring Complete Photo Transfer Between Your iPhone 12 and 13</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/vdy-pro-recorder-summary-detailed-analysis/"><u>VDY Pro Recorder Summary Detailed Analysis</u></a></li>
 </ul></div>
 

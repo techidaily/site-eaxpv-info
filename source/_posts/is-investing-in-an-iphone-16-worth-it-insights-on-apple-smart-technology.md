@@ -1,7 +1,7 @@
 ---
 title: Is Investing in an iPhone 16 Worth It? Insights on Apple Smart Technology
-date: 2024-10-11T04:01:12.370Z
-updated: 2024-10-15T22:44:11.527Z
+date: 2024-10-15T19:03:21.669Z
+updated: 2024-10-21T22:53:17.551Z
 tags:
   - apple
 categories:
@@ -35,10 +35,10 @@ Every year, my wife and I eagerly await the release of the new iPhones. Being pa
 Despite the buzz around the [iPhone 16's new features](https://www.zdnet.com/article/im-an-android-user-but-these-three-iphone-16-features-would-win-me-over/) and the integration of Apple Intelligence, however, several concerns dampen my enthusiasm for upgrading this year.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129738/7443" target="_top" id="2129738">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129738" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135417/19272" target="_top" id="2135417">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135417" border="0" alt="https://techidaily.com" width="392" height="72"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129738/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135417/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Apple Intelligence: A significant, yet incomplete, leap forward
@@ -65,6 +65,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151884/7443" target="_top" id="2151884">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151884" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151884/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## New hardware leaks: what to expect from the iPhone 16
 
 Earlier, I discussed how older -- as well as current generation -- iOS devices [aren't powerful enough to handle on-device Generative AI tasks](https://www.zdnet.com/article/the-expensive-reason-why-apples-upcoming-ai-features-arent-coming-to-your-older-iphone/). The [base iPhone 15](https://www.zdnet.com/article/iphone-15-plus-review/), which has only 6GB of RAM, would struggle to meet the demands of Apple Intelligence as it evolves and becomes more integrated into iOS, core Apple applications, and developer applications. Older iPhones have [6GB of RAM or less](https://iosref.com/ram-processor), and are not eligible to run Apple Intelligence in current iOS 18.1 builds. 
@@ -82,10 +89,10 @@ Interestingly, despite these hardware upgrades, Apple appears to be keeping pric
 Despite these upgrades, the iPhone 16 may still face challenges due to design cycles that didn't fully account for the scope of Apple Intelligence's capabilities. As a result, users may experience suboptimal performance and a less seamless user experience, especially as more AI features roll out in subsequent updates.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047361/19272" target="_top" id="2047361">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047361" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/977686/11832" target="_top" id="977686">
+  <img src="//a.impactradius-go.com/display-ad/11832-977686" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047361/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/977686/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Why you shouldn't buy the iPhone 16 for Apple Intelligence
@@ -97,16 +104,10 @@ Besides memory concerns, AI processing demands a lot of power and additional com
 For these reasons, I see the iPhone 16 (and potentially even the iPhone 17) as a transitional product in Apple's journey toward on-device AI. 
 
 <!-- affiliate ads begin -->
-<span id="1498635">
-					<video width="320" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1498635.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/17326-1498635">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1498635.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:200px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fancheer.sjv.io%2Fc%2F5597632%2F1498635%2F17326'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1498635/17326" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1938750/19272" target="_top" id="1938750">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938750/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How Apple Intelligence will likely evolve
@@ -124,19 +125,6 @@ Apple could achieve this by equipping MacOS, iOS, and iPadOS with Apple Intellig
 Enterprises may also employ a mobile device management solution to facilitate access to on-device LLMs with business Macs. Additionally, iPhones or Macs could be used as proxies for Apple Watch or HomePod requests for mobile users. We may also see a more powerful Apple TV with more onboard memory and processing to act as an Apple Intelligence "hub" for every Apple device in a household.
 
 Imagine your iPhone using the unused processing power of your Mac or iPad, all equipped with on-device LLMs, to tackle complex AI tasks. This would increase the accessibility of AI features across Apple's product range.
-
-<!-- affiliate ads begin -->
-<span id="1976998">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## I'm still optimistic
 
@@ -178,22 +166,16 @@ _This article was originally published on June 28, 2024, and updated on August 2
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://buynow-reviews.techidaily.com/7-days-to-die-reborn-how-the-developers-facelifted-zombies-for-an-exciting-sandbox-adventure/"><u>'7 Days to Die' Reborn: How the Developers Facelifted Zombies for an Exciting Sandbox Adventure!</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-downloadfacebooknow-a-comprehensive-guide-to-browser-tools-for-firefox/"><u>[New] 2024 Approved DownloadFacebookNow! - A Comprehensive Guide to Browser Tools for Firefox</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/024-approved-from-novice-to-money-maker-on-youtube/"><u>[New] 2024 Approved From Novice to Money-Maker on YouTube</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-history-enthusiasts-guide-to-inspiring-youtube-channels-for-2024/"><u>[New] History Enthusiasts' Guide to Inspiring YouTube Channels for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-how-to-convert-youtube-to-igtv-videos-3-ways-for-2024/"><u>[New] How to Convert YouTube to IGTV Videos? [3 Ways] for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-free-end-credits-excellence-top-6-tutorials/"><u>[New] In 2024, Free End Credits Excellence Top 6 Tutorials</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-gain-traction-on-youtube-deciphering-ranking-principles/"><u>[Updated] 2024 Approved Gain Traction on YouTube Deciphering Ranking Principles</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-gastronomy-gurus-essential-chefs-to-subscribe-to/"><u>[Updated] 2024 Approved Gastronomy Gurus Essential Chefs to Subscribe To</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-learn-how-to-build-youtube-backlinks-for-your-channel/"><u>[Updated] 2024 Approved Learn How to Build YouTube Backlinks for Your Channel</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-songs-to-symphony-building-a-cohesive-youtube-playlist-on-webapp/"><u>[Updated] In 2024, From Songs to Symphony Building a Cohesive YouTube Playlist on Web/App</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-harness-your-view-count-cross-platform-studio-methods/"><u>[Updated] In 2024, Harness Your View Count Cross-Platform Studio Methods</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-unlock-creative-potential-with-our-customized-outro-scenes-free/"><u>[Updated] Unlock Creative Potential with Our Customized Outro Scenes (Free!)</u></a></li>
-<li><a href="https://extra-information.techidaily.com/2024-approved-behind-the-lens-mastery-5-essential-cinematographic-insights/"><u>2024 Approved Behind the Lens Mastery 5 Essential Cinematographic Insights</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-5-solutions-for-xiaomi-unlock-without-password-by-drfone-android/"><u>In 2024, 5 Solutions For Xiaomi Unlock Without Password</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/print-setback-configuration-conundrum/"><u>Print Setback: Configuration Conundrum</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/reviving-your-last-connected-usb-device-for-windows-compatibility/"><u>Reviving Your Last Connected USB Device for Windows Compatibility</u></a></li>
-<li><a href="https://techtrends.techidaily.com/ujrakezdve-a-szovegkezesek-allithato-szerkeszto-programok-fulleseggel-pc-gyakorlasara-es-okostelefonnahoz-202-a-szabad-keresesen/"><u>Újrakezdve a Szövegkezések: Állítható Szerkesztő Programok Fülleséggel PC-Gyakorlására És Okostelefonnához, 202# - A Szabad Keresésen</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-frames-to-fun-youtube-gifs-creation-made-simple/"><u>[New] 2024 Approved From Frames to Fun YouTube GIFs Creation Made Simple</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-chat-enhancement-course-turning-your-graphics-into-social-media-stickers/"><u>[New] Chat Enhancement Course Turning Your Graphics Into Social Media Stickers</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-from-doodles-to-dollars-the-graphic-artists-guide-for-2024/"><u>[New] From Doodles to Dollars The Graphic Artist's Guide for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-innovative-methods-to-subtly-soften-audible-output-via-lumafusion-for-2024/"><u>[New] Innovative Methods to Subtly Soften Audible Output via Lumafusion for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-generate-interest-making-your-own-youtube-intros/"><u>[Updated] 2024 Approved Generate Interest Making Your Own YouTube Intros</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-free-method-to-record-your-youtube-watching-experience-for-2024/"><u>[Updated] Free Method to Record Your YouTube Watching Experience for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-basics-to-breakthroughs-the-ultimate-strategy-for-youtube-advertising-success/"><u>[Updated] In 2024, From Basics to Breakthroughs The Ultimate Strategy for YouTube Advertising Success</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-step-by-step-adding-tracks-to-youtubes-playlist/"><u>In 2024, Step-by-Step Adding Tracks to YouTube's Playlist</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/in-depth-analysis-of-the-asus-zenwifi-xt8-ax6600-mastering-your-wi-fi-with-power-and-precision/"><u>In-Depth Analysis of the ASUS ZenWiFi XT8 AX6600: Mastering Your Wi-Fi with Power and Precision</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/installing-newest-targus-displayporthdmi-drivers-for-windows-os-version-11-8-and-7/"><u>Installing Newest Targus DisplayPort/HDMI Drivers for Windows OS - Version 11, 8 & 7</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/rootjunky-apk-to-bypass-google-frp-lock-for-oppo-reno-10-pro-5g-by-drfone-android/"><u>Rootjunky APK To Bypass Google FRP Lock For Oppo Reno 10 Pro 5G</u></a></li>
 </ul></div>
 

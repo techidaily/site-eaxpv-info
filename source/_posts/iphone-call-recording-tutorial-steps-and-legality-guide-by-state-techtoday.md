@@ -1,7 +1,7 @@
 ---
 title: "IPhone Call Recording Tutorial: Steps & Legality Guide by State | TechToday"
-date: 2024-10-11T01:49:36.571Z
-updated: 2024-10-15T20:24:29.366Z
+date: 2024-10-16T21:36:24.345Z
+updated: 2024-10-22T00:27:33.656Z
 tags:
   - apple
 categories:
@@ -53,6 +53,19 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 * One [iPhone](https://www.zdnet.com/article/best-iphone/) to host the call, which we recommend putting on speakerphone
 * Another recording device (this could be another iPhone, an [iPad](https://www.zdnet.com/article/best-ipad/), or even an Android device) using Voice Memos or another recording app to record the call
 
+<!-- affiliate ads begin -->
+<span id="1484963">
+					<video width="864" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. Test your Voice Memos app
 
 First, ensure you have an iPhone and another iOS device, such as a Mac, iPad, or another iPhone, with the Voice Memos app. The Voice Memos app comes preinstalled on most devices, but is also free on the [App Store](https://www.apple.com/app-store/). If using an Android device, check that it has a recording app, like [this free one](https://play.google.com/store/apps/details?id=com.media.bestrecorder.audiorecorder&hl=en%5FUS&gl=US&pli=1).
@@ -65,13 +78,6 @@ Voice recordings autosave under different names based on whether Location Servic
 
 Screenshot by Radhika Rajkumar/ZDNET
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006928/19272" target="_top" id="2006928">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006928" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006928/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. Play back the audio file and make adjustments
 
 Now, play the file back and see if the audio is discernible. Make the adjustments you need _before_ you record a phone call. 
@@ -79,6 +85,19 @@ Now, play the file back and see if the audio is discernible. Make the adjustment
 **Also:** [**How to clear the cache on your iPhone (and why you should)**](https://www.zdnet.com/article/how-to-clear-cache-on-iphone-and-why-you-should/)
 
 For example, if the sound quality is too low, you may need to speak louder, increase the microphone sensitivity (go to Settings > Sounds & Haptics), or put the speaker closer to your mouth. 
+
+<!-- affiliate ads begin -->
+<span id="1834906">
+					<video width="864" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1834906.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1834906">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834906.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834906%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834906/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. Check whether you need to inform the other party that you're recording
 
@@ -108,13 +127,6 @@ Spikes in the red waveform bar indicate a louder sound. A flatter bar indicates 
 
 Screenshot by Radhika Rajkumar/ZDNET
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484951/16446" target="_top" id="1484951">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484951" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484951/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 5\. End the recording and transfer the file
 
 When the conversation is over or you've got the information you need, end the recording by tapping the red button. 
@@ -127,11 +139,25 @@ Open up sharing options. You can also trim or rename the recording to something 
 
 Screenshot by Radhika Rajkumar/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958378/18409" target="_top" id="1958378">
+  <img src="//a.impactradius-go.com/display-ad/18409-1958378" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1958378/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Other ways to record
 
 Following the steps above is the easiest, most efficient, and most discreet way to record a phone call on your iPhone. If you or a trusted second party don't have another device to spare, here are a few alternatives. 
 
 Note: Many apps that record phone calls likely need to conference into the call before recording begins, which may take a moment and could be detectable by the other person on the call. 
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014859/22899" target="_top" id="2014859">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014859/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Rev Voice Recorder
 
@@ -155,14 +181,14 @@ Once everyone is on the call, press the number four (4) on the keypad to start a
 
 As the name suggests, this app is designed for users to be able to whip out their phones and start recording whenever, wherever. If you download the app and use it on an iPad to record, you can drag and drop recordings with the Files or other recording apps for further transcriptions, or to consolidate recordings. 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094476/7443" target="_top" id="2094476">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094476" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094476/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## FAQs
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134227/18498" target="_top" id="2134227">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134227" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134227/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Is it illegal to record phone calls?
 
@@ -178,23 +204,9 @@ Several downloadable third-party apps can record calls on the iPhone, but that c
 
 Alternatively, you can use most mic-equipped computers or tablets to record phone conversations, as long as the phone is on speaker or the microphone is held close to the other device's speaker. Both [MacOS](https://www.zdnet.com/article/best-mac/) and [Windows](https://www.zdnet.com/article/best-windows-laptop/) computers have numerous audio recording software options available.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135395/19272" target="_top" id="2135395">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135395" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135395/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Does Apple have an app to record iPhone calls?
 
 Unfortunately, no -- at least not yet. Apple itself doesn't have an app, but there are third-party apps available on the [App Store](https://www.apple.com/app-store/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.apple.com/app-store/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%22App%20Store%22%7D). Also, Voice Memos is most likely automatically installed on your iOS device. 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972684/19272" target="_top" id="1972684">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972684" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972684/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Does screen recording on iPhone record my call?
 
@@ -234,21 +246,22 @@ The Voice Memos app can record for an unlimited amount of time as long as you ha
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-device-footage-to-youtube-shorts-your-streamlined-approach/"><u>[New] 2024 Approved From Device Footage to YouTube Shorts - Your Streamlined Approach</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-gain-traction-in-the-algorithm-the-insiders-manual-for-featured-channels/"><u>[New] 2024 Approved Gain Traction in the Algorithm The Insider's Manual for Featured Channels</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-from-making-dreams-real-steps-towards-becoming-a-vtuber-for-2024/"><u>[New] From Making Dreams Real Steps Towards Becoming a VTuber for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-gain-traction-on-youtube-deciphering-ranking-principles-for-2024/"><u>[New] Gain Traction on YouTube Deciphering Ranking Principles for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-gamers-ultimate-guide-selecting-the-best-video-card-brands/"><u>[New] In 2024, Gamer’s Ultimate Guide Selecting the Best Video Card Brands</u></a></li>
-<li><a href="https://fox-links.techidaily.com/new-in-2024-how-to-polish-your-tiktok-edits-advanced-strategies-for-success/"><u>[New] In 2024, How to Polish Your TikTok Edits Advanced Strategies for Success</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-generating-a-custom-youtube-subscriber-url/"><u>[Updated] 2024 Approved Generating a Custom YouTube Subscriber URL</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-make-a-cool-intro-for-youtube-plusfree-templates-for-2024/"><u>[Updated] How to Make a Cool Intro for YouTube? [+Free Templates] for 2024</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-streamline-your-shots-a-windows-11-guide/"><u>[Updated] Streamline Your Shots A Windows 11 Guide</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723209088096-audio-fix-eliminate-crackling-from-your-speakers-on-windows-11-and-7/"><u>Audio Fix: Eliminate Crackling From Your Speakers on Windows 11 and 7!</u></a></li>
-<li><a href="https://driver-download.techidaily.com/free-download-official-hp-designjet-t720-printer-drivers/"><u>Free Download: Official HP DesignJet T720 Printer Drivers</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-reset-your-realme-gt-3-lock-screen-password-by-drfone-android/"><u>In 2024, How to Reset your Realme GT 3 Lock Screen Password</u></a></li>
-<li><a href="https://driver-download.techidaily.com/install-your-logitech-speaker-drivers-today-download-now-for-win11win7win8-systems/"><u>Install Your Logitech Speaker Drivers Today! Download Now for Win11/Win7/Win8 Systems</u></a></li>
-<li><a href="https://driver-error.techidaily.com/keystone-illumination-error-asus/"><u>Keystone Illumination Error - Asus</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/tactical-defenses-against-fraudgpt-your-cybersecurity-companion/"><u>Tactical Defenses Against FraudGPT: Your Cybersecurity Companion</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/unlocking-the-power-of-smart-lock-a-beginners-guide-for-xiaomi-redmi-12-5g-users-by-drfone-android/"><u>Unlocking the Power of Smart Lock A Beginners Guide for Xiaomi Redmi 12 5G Users</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-framing-perfection-a-filmmakers-guide-to-cinematic-youtube-videos/"><u>[New] 2024 Approved Framing Perfection A Filmmaker's Guide to Cinematic YouTube Videos</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-flickering-camera-lights-to-financial-highlights/"><u>[New] 2024 Approved From Flickering Camera Lights to Financial Highlights</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-from-chaos-to-clarity-professional-tools-for-youtube-cuts-for-2024/"><u>[New] From Chaos to Clarity Professional Tools for Youtube Cuts for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-guide-the-ultimate-list-of-video-converters-for-2024/"><u>[New] Guide The Ultimate List of Video Converters for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-silent-movies-to-sound-films-a-modern-tutorial/"><u>[Updated] 2024 Approved From Silent Movies to Sound Films A Modern Tutorial</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-hacking-the-process-instant-deletion-on-youtube/"><u>[Updated] 2024 Approved Hacking the Process Instant Deletion on Youtube</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-fuse-melodies-into-your-youtube-digital-realm/"><u>[Updated] In 2024, Fuse Melodies Into Your Youtube Digital Realm</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-gateways-to-googles-advertising-on-youtube-platforms/"><u>[Updated] In 2024, Gateways to Google's Advertising on YouTube Platforms</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-navigating-the-world-of-youtube-product-endorsements/"><u>[Updated] Navigating the World of YouTube Product Endorsements</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-free-picture-haven-a-review-of-the-best-10-online-resources/"><u>2024 Approved Free Picture Haven A Review of the Best 10 Online Resources</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/easy-steps-transferring-your-favorite-dvd-movies-directly-onto-your-iphone/"><u>Easy Steps: Transferring Your Favorite DVD Movies Directly Onto Your iPhone</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-realme-gt-5-240w-in-5-easy-ways-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Realme GT 5 (240W) in 5 Easy Ways | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-remove-screen-lock-pin-on-poco-c55-like-a-pro-5-easy-ways-by-drfone-android/"><u>In 2024, How To Remove Screen Lock PIN On Poco C55 Like A Pro 5 Easy Ways</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/lenovo-ideapad-320-laptop-review-exquisite-elegance-and-mobility-combined-with-the-iconic-lenovo-keyboard/"><u>Lenovo Ideapad 320 Laptop Review: Exquisite Elegance & Mobility Combined with the Iconic Lenovo Keyboard</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/make-an-informed-decision-ponder-this-first-on-a-dvr/"><u>Make an Informed Decision: Ponder This First on a DVR</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-risk-of-tampering-with-windows-security-patches-via-malicious-software-interference/"><u>The Risk of Tampering with Windows Security Patches via Malicious Software Interference</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/unboxing-and-testing-the-latest-google-nest-doorbell-with-batteries-our-detailed-insights/"><u>Unboxing and Testing the Latest Google Nest Doorbell with Batteries - Our Detailed Insights</u></a></li>
 </ul></div>
 

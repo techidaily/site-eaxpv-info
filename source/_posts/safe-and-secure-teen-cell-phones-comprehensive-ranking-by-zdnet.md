@@ -1,7 +1,7 @@
 ---
 title: "Safe and Secure Teen Cell Phones: Comprehensive Ranking by ZDNet"
-date: 2024-10-10T06:05:44.684Z
-updated: 2024-10-16T04:31:30.852Z
+date: 2024-10-15T18:20:45.314Z
+updated: 2024-10-21T20:31:37.517Z
 tags:
   - apple
 categories:
@@ -61,10 +61,10 @@ How and why did I come to those conclusions? Let's dig in.
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006914/19272" target="_top" id="2006914">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006914" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/1013424/11832" target="_top" id="1013424">
+  <img src="//a.impactradius-go.com/display-ad/11832-1013424" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006914/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1013424/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Familiar design, with one exception
@@ -86,10 +86,16 @@ The side of the iPhone no longer has a SIM card slot.
 Jason Cipriani/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135402/19272" target="_top" id="2135402">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135402" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135402/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1542129">
+					<video width="864" height="1152" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1542129.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1542129">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1542129.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1542129%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1542129/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Performance and battery life
@@ -116,19 +122,6 @@ I'm intrigued to see what battery life is like on the [iPhone 14 Plus](https://w
 
 Jason Cipriani/ZDNET
 
-<!-- affiliate ads begin -->
-<span id="1531882">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1531882.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1531882">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531882.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531882%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531882/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Camera upgrades
 
 The biggest changes Apple made to the iPhone 14 all have to do with the camera. Apple calls the iPhone 14's camera system an "advanced dual-camera system," thanks in part to some hardware upgrades but also because of some [iOS camera software features](https://www.zdnet.com/article/ios-16-has-a-hidden-photoshop-like-feature-where-to-find-it-and-how-to-use-it-and-why-youre-going-to-love-it/) that are new this year. 
@@ -147,6 +140,13 @@ Jason Cipriani/ZDNET
 
 The above photo hasn't been edited other than cropping the image in order to publish it. All of the color and saturation settings have remained untouched. 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012401/19272" target="_top" id="2012401">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012401" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012401/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Safety first
 
 You can expect more features to be enabled on the iPhone 14 in future. The new [Emergency SOS via Satellite](https://www.zdnet.com/article/how-the-apple-iphone-14-connects-to-satellites-during-emergencies/) feature, for example, isn't available yet. That's supposed to go live in November and will remain a free service for the next two years. Pricing after that isn't yet known. [Garmin offers a similar service](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://www.garmin.com/en-US/p/837461) on stand-alone devices with price plans starting at $15 a month, but I imagine Apple will figure out a way to bundle it into its [Apple One](https://www.zdnet.com/article/verizons-new-unlimited-plan-comes-with-a-built-in-apple-one-subscription/) plans. 
@@ -158,16 +158,10 @@ The new emergency communication feature comes alongside a dedicated [crash detec
 **Also:** [**The iPhone 14 Pro packs a lot more innovation for the same price as last year**](https://www.zdnet.com/article/iphone-14-pro-packs-a-lot-more-innovation-for-the-same-price-as-last-year/)
 
 <!-- affiliate ads begin -->
-<span id="1516072">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1516072.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1516072">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1516072.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1516072%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1516072/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1925544/19272" target="_top" id="1925544">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925544" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925544/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Bottom line
@@ -206,20 +200,24 @@ As I said at the top, the iPhone 14 is a great phone, and for someone who is com
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-from-streaming-video-how-to-get-youtube-thumbnail-files-onlineos-wise-for-2024/"><u>[New] From Streaming Video How to Get YouTube Thumbnail Files Online/OS-Wise for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-full-vision-media-the-smart-mcn-selection-process-for-2024/"><u>[New] Full Vision Media The Smart MCN Selection Process for 2024</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-12-hacks-to-find-and-download-the-best-free-stock-photography-for-2024/"><u>[Updated] 12 Hacks to Find and Download the Best Free Stock Photography for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-make-a-channel-trailer/"><u>[Updated] 2024 Approved How to Make a Channel Trailer</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-balance-youtube-with-a-full-time-job-for-2024/"><u>[Updated] How to Balance YouTube with a Full-Time Job for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-playtime-to-peak-time-top-gaming-women-in-the-digital-space/"><u>[Updated] In 2024, From Playtime to Peak Time Top Gaming Women in the Digital Space</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-gain-traction-on-youtube-deciphering-ranking-principles/"><u>[Updated] In 2024, Gain Traction on YouTube Deciphering Ranking Principles</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-spark-your-spirit-a-collection-of-10-uplifting-movies/"><u>[Updated] Spark Your Spirit A Collection of 10 Uplifting Movies</u></a></li>
-<li><a href="https://win-info.techidaily.com/1728467625870-windows-11/"><u>最適化されたWindows 11での更新パッチクリアンスガイド</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/adjusting-story-video-playback-rate-on-instagram/"><u>Adjusting Story Video Playback Rate on Instagram</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-stop-life360-from-tracking-you-on-samsung-galaxy-s24-ultra-drfone-by-drfone-virtual-android/"><u>How to Stop Life360 from Tracking You On Samsung Galaxy S24 Ultra? | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-stop-the-aggravating-screen-flicker-on-your-device-once-and-for-all/"><u>How to Stop the Aggravating Screen Flicker on Your Device Once and For All.</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/24-enhancing-user-engagement-how-to-use-youtube-tags-effectively/"><u>In 2024, Enhancing User Engagement How to Use YouTube Tags Effectively</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/in-depth-analysis-of-asus-rog-strix-xg27acs-unparalleled-precision-meets-dynamic-180hz-gameplay/"><u>In-Depth Analysis of Asus ROG Strix XG27ACS: Unparalleled Precision Meets Dynamic 180Hz Gameplay</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/model-e-post-war-development-of-model-c-with-extended-thumb-safety-lever-that-operated-like-a-crossbow-release-and-new-grip-design-without-rubber-coating/"><u>Model E - Post War Development of Model C with Extended Thumb Safety Lever that Operated Like a Crossbow Release and New Grip Design without Rubber Coating</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-fixing-shorts-the-thumbnail-not-showing-dilemma/"><u>[New] 2024 Approved Fixing Shorts The Thumbnail Not Showing Dilemma</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-find-and-change-your-youtube-channel-url-super-easy/"><u>[New] 2024 Approved How to Find and Change Your YouTube Channel URL – Super Easy</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-make-a-striking-yt-preview-with-optimal-thumbnail-sizing/"><u>[New] 2024 Approved How to Make a Striking YT Preview with Optimal Thumbnail Sizing</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-from-fresh-to-famous-elevating-your-channels-views-and-youtube-subs-for-2024/"><u>[New] From Fresh to Famous Elevating Your Channels Views & Youtube Subs for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-how-to-make-your-facebook-video-stand-out/"><u>[New] How to Make Your Facebook Video Stand Out</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-high-quality-sound-adjustment-apps-for-content-casters/"><u>[Updated] 2024 Approved High-Quality Sound Adjustment Apps for Content Casters</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-in-2024-effective-strategies-for-removing-backgrounds-in-images/"><u>[Updated] In 2024, Effective Strategies for Removing Backgrounds in Images</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-excellent-ears-in-scholarly-spaces/"><u>[Updated] In 2024, Excellent Ears in Scholarly Spaces</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-free-image-savers-optimizing-video-graphics/"><u>[Updated] In 2024, FREE Image Savers Optimizing Video Graphics</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-game-changers-discovering-top-tier-gaming-webcam-technology/"><u>[Updated] In 2024, Game Changers Discovering Top-Tier Gaming Webcam Technology</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-guide-to-producing-impactful-lifestyle-motivational-content/"><u>[Updated] In 2024, Guide to Producing Impactful Lifestyle Motivational Content</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-forge-strong-content-partnerships-on-youtube/"><u>[Updated] In 2024, How to Forge Strong Content Partnerships on YouTube</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-optimally-apply-a-creative-commons-license/"><u>[Updated] In 2024, How to Optimally Apply a Creative Commons License</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-shine-on-top-17-studio-lights-for-youtube/"><u>[Updated] In 2024, Shine On Top 17 Studio Lights for YouTube</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-instagram-to-mp4-perfection-uncover-2-most-effective-techniques/"><u>[Updated] Instagram to MP4 Perfection Uncover 2 Most Effective Techniques</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/hassle-free-hid-keyboard-update-and-installation-guide-for-all-users/"><u>Hassle-Free HID Keyboard Update and Installation Guide for All Users</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-in-2024-smooth-cuts-ahead-3-ways-to-master-transitions-in-fcp/"><u>New In 2024, Smooth Cuts Ahead 3 Ways to Master Transitions in FCP</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/the-ultimate-guide-to-correcting-failed-to-play-video-issue-error-224003/"><u>The Ultimate Guide to Correcting 'Failed to Play' Video Issue (Error 224003)</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/unlocking-the-power-of-videos-to-drive-fb-traffic/"><u>Unlocking the Power of Videos to Drive FB Traffic</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Upgrading to iPhone 16 Pro - Is It Worth Leaving Behind the iPhone ˈ|ZDNET Expert Review
-date: 2024-10-10T06:19:34.975Z
-updated: 2024-10-16T02:52:49.937Z
+date: 2024-10-18T23:32:15.056Z
+updated: 2024-10-21T21:02:43.849Z
 tags:
   - apple
 categories:
@@ -46,10 +46,10 @@ As an iPhone 14 Pro Max user, I'm not convinced that the new AI-enabled [iPhone 
 Jason Hiner/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151865/7443" target="_top" id="2151865">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151865" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151865/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 1\. You want Apple Intelligence
@@ -60,13 +60,6 @@ Apple's artificial intelligence push, aptly named Apple Intelligence, will be av
 
 To run smoothly, the Apple Intelligence features require an A17 chip or newer and at least 8GB of RAM, but the iPhone 14 Pro has the A16 chip and only 6GB of RAM. The iPhone 16 Pro features an A18 Pro chip and 8GB of RAM, making it a good device to run Apple's AI features. 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049369/7443" target="_top" id="2049369">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049369" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049369/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 2\. You'd like to get your hands on the bigger screen
 
 Apple has thinned out the iPhone 16 Pro's bezels to the bare minimum and stretched the Pro models' displays to 6.3 and 6.9 inches for the 16 Pro and 16 Pro Max, respectively. This gives users more screen real estate to watch videos, play games, view and edit documents, and read shared screens on video conferences.
@@ -76,10 +69,10 @@ Apple has thinned out the iPhone 16 Pro's bezels to the bare minimum and stretch
 The larger smartphone also means that the iPhone 16 Pro has a larger battery than the 14 Pro, at 3,355 mAh compared to 3,200 mAh. But even without the welcome battery upgrade, the new Pro models support faster charging than ever. The iPhone 16 Pro supports 40W wired charging and 20W of MagSafe charging, so if you find the iPhone 14 Pro's charging slow, it could be time to upgrade.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118305/7443" target="_top" id="2118305">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118305" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136622/26400" target="_top" id="2136622">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136622" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118305/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136622/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 3\. You love taking beautiful photos
@@ -96,13 +89,6 @@ If you love taking photos with your smartphone, the camera upgrades alone may be
 
 Kerry Wan/ZDNET
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918684/19272" target="_top" id="1918684">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918684" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918684/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 1\. You'd rather wait for bigger upgrades
 
 Even with the Apple Intelligence features, the iPhone 16 seems to be an incremental design change rather than a revamp; the design and functionality aren't a radical departure from the iPhone 14 Pro. If you're content with the look, feel, and performance of your iPhone 14, getting the iPhone 16 Pro likely won't feel like a huge upgrade, especially since many of the AI features will come months after you get the device.
@@ -110,6 +96,13 @@ Even with the Apple Intelligence features, the iPhone 16 seems to be an incremen
 **Also: [iPhone 14 Pro review: More innovation for the same price as the iPhone 13 Pro](https://www.zdnet.com/article/iphone-14-pro-packs-a-lot-more-innovation-for-the-same-price-as-last-year/)**
 
 [Rumors](https://9to5mac.com/2024/07/12/iphone-16-new-features-worth-the-wait/) suggest the iPhone 17 may feature more dramatic design and functionality updates, making it a worthwhile jump. Besides, upgrading after two generations can be costly, which brings me to my next point. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959773/19272" target="_top" id="1959773">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959773" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959773/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 2\. You just finished paying it off
 
@@ -120,6 +113,13 @@ One of the biggest reasons to hold off on an upgrade is financial. The iPhone 14
 As an iPhone 14 Pro Max user, I'm still pretty happy with how my iPhone performs, its battery life, and charging time. While USB-C charging would be convenient, I don't see myself springing for the new iPhone 16 Pro, though I may go for the iPhone 17 when it's launched.
 
 [iPhone 14 Pro (Pre-owned) $627.45 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BN95FRW9%3FlinkCode%3Dogi%26th%3D1%26psc%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C898e5dd5-72c4-498c-8554-54fe4801040e%7Cdtp&dtb=1)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036486/19272" target="_top" id="2036486">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036486" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036486/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Alternatives to consider
 
@@ -155,20 +155,17 @@ As an iPhone 14 Pro Max user, I'm still pretty happy with how my iPhone performs
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-finding-a-different-way-to-naming-your-channel-with-filmora-for-2024/"><u>[New] Finding a Different Way to Naming Your Channel with Filmora for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-finding-and-accessing-your-personalized-musical-selection-zone-on-youtube-for-2024/"><u>[New] Finding and Accessing Your Personalized Musical Selection Zone on Youtube for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-fixing-shorts-the-thumbnail-not-showing-dilemma/"><u>[New] In 2024, Fixing Shorts The Thumbnail Not Showing Dilemma</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-google-account-integration-for-private-youtube-video-sharing/"><u>[New] In 2024, Google Account Integration for Private YouTube Video Sharing</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-hitch-youtube-sounds-into-imovie-tracks-swiftly/"><u>[New] In 2024, Hitch YouTube Sounds Into iMovie Tracks Swiftly</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-premier-10-terraria-mods-for-superior-play/"><u>[Updated] 2024 Approved Premier 10 Terraria Mods for Superior Play</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-top-creative-apps-roundup-choose-from-the-best-8-photo-edits-for-smartphones/"><u>[Updated] 2024 Approved Top Creative Apps Roundup Choose From the Best 8 Photo Edits for Smartphones</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-financial-magnitude-in-mr-beasts-realm-for-2024/"><u>[Updated] Financial Magnitude in Mr. Beast's Realm for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-gain-traction-with-effective-video-descriptions-and-tagging-for-2024/"><u>[Updated] Gain Traction with Effective Video Descriptions and Tagging for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-protecting-privacy-during-youtube-to-mp4-conversion/"><u>[Updated] Protecting Privacy During YouTube-to-MP4 Conversion</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-tips-and-tricks-for-gopro-get-the-most-from-your-gopro/"><u>[Updated] Tips and Tricks for GoPro Get the Most From Your GoPro</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/2024-approved-avoid-stress-with-these-easy-to-follow-ipad-screen-saving-methods/"><u>2024 Approved Avoid Stress with These Easy-to-Follow iPad Screen Saving Methods</u></a></li>
-<li><a href="https://fox-http.techidaily.com/exploring-the-heart-of-srt-in-depth-for-2024/"><u>Exploring the Heart of SRT in Depth for 2024</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/o-add-music-to-youtubevideo-with-youtube-video-editor-for-2024/"><u>How to Add Music to YouTubeVideo with YouTube Video Editor for 2024</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/how-to-delete-icloud-account-with-or-without-password-from-your-iphone-13-pro-maxwindowsmac-by-drfone-ios/"><u>How to Delete iCloud Account with or without Password from your iPhone 13 Pro Max/Windows/Mac</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-many-viewers-equates-to-profit-decoding-youtubes-earnings-formula/"><u>[New] 2024 Approved How Many Viewers Equates to Profit? Decoding YouTube's Earnings Formula</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-livestreaming-elite-showdown-for-2024/"><u>[New] LiveStreaming Elite Showdown for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/nderstanding-earnings-potential-per-video-consumption-for-2024/"><u>[New] Understanding Earnings Potential per Video Consumption for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-foster-viewer-connection-easy-anime-subscribe-buttons-for-youtube-creators/"><u>[Updated] 2024 Approved Foster Viewer Connection Easy Anime Subscribe Buttons for YouTube Creators</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-share-laughter-easily-use-kapwing-to-make-memes/"><u>[Updated] 2024 Approved Share Laughter Easily - Use Kapwing to Make Memes</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-hashtags-that-elevate-your-channels-visibility-and-value/"><u>[Updated] In 2024, Hashtags that Elevate Your Channels' Visibility & Value</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-convert-youtubes-audios-to-mp3-safely-step-by-step-guide/"><u>[Updated] In 2024, How To Convert YouTube's Audios to MP3 Safely - Step-by-Step Guide</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/approved-choreographing-newscast-endings/"><u>2024 Approved Choreographing Newscast Endings</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-ultima-designs-analysis-pinnacle-suite-studio-2023-overview/"><u>2024 Approved Ultima Designs Analysis Pinnacle Suite Studio, 2023 Overview</u></a></li>
+<li><a href="https://fox-http.techidaily.com/delving-into-the-nuances-of-touch-based-navigation/"><u>Delving Into the Nuances of Touch-Based Navigation</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-check-distance-and-radius-on-google-maps-for-your-nokia-c12-pro-drfone-by-drfone-virtual-android/"><u>How to Check Distance and Radius on Google Maps For your Nokia C12 Pro | Dr.fone</u></a></li>
+<li><a href="https://discover-amazing.techidaily.com/wie-importierte-sie-ihre-outlook-kontakte-erfolgreich-mit-einer-schritt-fur-schritt-anleitung-in-die-icloud/"><u>Wie Importierte Sie Ihre Outlook-Kontakte Erfolgreich Mit Einer Schritt-Für-Schritt-Anleitung in Die iCloud?</u></a></li>
 </ul></div>
 

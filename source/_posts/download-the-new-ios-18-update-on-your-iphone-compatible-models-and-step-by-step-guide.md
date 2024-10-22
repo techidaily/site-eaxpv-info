@@ -1,7 +1,7 @@
 ---
 title: "Download the New iOS 18 Update on Your iPhone: Compatible Models and Step-by-Step Guide"
-date: 2024-10-08T17:22:01.156Z
-updated: 2024-10-15T17:58:51.582Z
+date: 2024-10-14T19:50:26.935Z
+updated: 2024-10-21T23:39:48.954Z
 tags:
   - apple
 categories:
@@ -33,10 +33,10 @@ Jason Hiner/ZDNET
 **What you need:** An iPhone running iOS 16.5 or later. Since not all iPhones are compatible with iOS 18, you'll also need a model [newer than the iPhone X](https://www.zdnet.com/article/best-iphone/).
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997690/19272" target="_top" id="1997690">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997690" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115937/19272" target="_top" id="2115937">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115937" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997690/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115937/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 1\. Go to General in your iPhone Settings
@@ -47,28 +47,15 @@ Go to your iPhone's Settings and select General.
 
 Within General, tap on Software Update. This will show you if the iOS 18 update is available for you to download.
 
-<!-- affiliate ads begin -->
-<span id="1516072">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1516072.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1516072">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1516072.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1516072%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1516072/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 3\. Download and install
 
 When you tap on Software Update, your iPhone will check for the latest version of iOS available. Then, you'll be able to Download and Install the new update. Your iPhone will begin the download immediately.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123733/7443" target="_top" id="2123733">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123733" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2111964/7443" target="_top" id="2111964">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111964" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123733/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111964/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Enter your passcode and follow steps to install
@@ -89,6 +76,13 @@ Apple released the iOS 18 developer beta during WWDC 2024 in June, and the publi
 
 **Also: [The best iOS 18 features that will make updating your iPhone worthwhile](https://www.zdnet.com/article/the-best-ios-18-features-that-will-make-updating-your-iphone-worthwhile/)**
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938682/19272" target="_top" id="1938682">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938682" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938682/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Can you still download the iOS 18 public beta?
 
 You can always be part of the Apple Beta program to get the latest beta versions of iOS. Before you download a beta version of an operating system, you should have some housekeeping items in mind:
@@ -108,13 +102,6 @@ You'll need an iPhone running iOS 16.5 or later. Since not all iPhones are compa
 
 Screenshot: Maria Diaz/ZDNET
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139115/17108" target="_top" id="2139115">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139115" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139115/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### How to download the iOS 18 developer beta?
 
 To download the iOS 18 developer beta version, navigate to your settings to install the iOS 18 developer beta if your device runs iOS 16.4 and is used with an Apple ID enrolled in the Apple Developer Program:
@@ -130,6 +117,13 @@ If you can't see this option, go to your **Settings,** select **Privacy & Securi
 **Also: [How to use and customize your iPhone's new Control Center with iOS 18](https://www.zdnet.com/article/how-to-use-and-customize-your-iphones-new-control-center-with-ios-18/)**
 
 If you aren't already a member of the Apple Developer Program, you can sign up to become one in the app. An annual membership costs $99.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151864/7443" target="_top" id="2151864">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151864" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151864/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### What is in iOS 18 beta 3?
 
@@ -175,24 +169,24 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/024-approved-7-comedy-youtube-video-ideas-that-only-funny-people-are-allowed-to-try/"><u>[New] 2024 Approved 7 Comedy YouTube Video Ideas That Only Funny People Are Allowed to Try</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-fresh-face-finds-budget-friendly-platforms-to-purchase/"><u>[New] 2024 Approved Fresh Face Finds Budget-Friendly Platforms to Purchase</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-free-to-paid-subscriber-count-surpasses-500/"><u>[New] 2024 Approved From Free to Paid Subscriber Count Surpasses 500</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-zero-to-hero-in-youtube-traffic/"><u>[New] 2024 Approved From Zero to Hero in YouTube Traffic</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/inge-on-christmas-classics-enjoy-9-whole-film-flicks-no-charge/"><u>[New] Binge on Christmas Classics Enjoy 9 Whole-Film Flicks No Charge!</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-get-going-on-youtube-video-upload-tutorial-in-premiere-for-2024/"><u>[New] Get Going on YouTube Video Upload Tutorial in Premiere for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-how-to-add-chapters-to-youtube-videos-for-2024/"><u>[New] How to Add Chapters to YouTube Videos for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-free-and-secure-3-ways-to-extract-youtube-music-content/"><u>[New] In 2024, Free and Secure 3 Ways to Extract YouTube Music Content</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/new-in-2024-top-10-drones-with-longest-flight-time/"><u>[New] In 2024, Top 10 Drones with Longest Flight Time</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-learn-to-use-vlcs-screen-recorder-today/"><u>[New] Learn to Use VLC's Screen Recorder Today</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-first-steps-on-the-path-equipment-for-beginners/"><u>[Updated] 2024 Approved First Steps on the Path Equipment for Beginners</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-execute-flawless-wirecast-broadcasts-on-youtube/"><u>[Updated] 2024 Approved How to Execute Flawless WireCast Broadcasts on YouTube</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-use-creative-commons-copyright-licenses/"><u>[Updated] In 2024, How to Use Creative Commons Copyright Licenses?</u></a></li>
-<li><a href="https://article-tips.techidaily.com/2024-approved-embarking-on-a-listening-odyssey-adding-podcasts-to-itunes-via-ios/"><u>2024 Approved Embarking on a Listening Odyssey Adding Podcasts to iTunes via iOS</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/bringing-life-back-to-frozen-airpods-the-ultimate-fix-and-reset-guide/"><u>Bringing Life Back to Frozen AirPods: The Ultimate Fix and Reset Guide</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-cast-oppo-reno-11-pro-5g-screen-to-pc-using-wifi-drfone-by-drfone-android/"><u>How to Cast Oppo Reno 11 Pro 5G Screen to PC Using WiFi | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/how-to-install-epson-v600-driver-step-by-step-guide-with-download-links/"><u>How to Install Epson V600 Driver: Step-by-Step Guide with Download Links</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-5-ways-to-transfer-music-from-apple-iphone-8-to-android-drfone-by-drfone-transfer-from-ios/"><u>In 2024, 5 Ways to Transfer Music from Apple iPhone 8 to Android | Dr.fone</u></a></li>
-<li><a href="https://discover-hacks.techidaily.com/transformacion-gratuita-y-en-linea-de-archivos-sin-perdida-de-calidad-al-formato-wav/"><u>Transformación Gratuita Y en Línea De Archivos Sin Pérdida De Calidad Al Formato WAV</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/0-best-travel-youtube-channels-you-may-want-to-follow-for-2024/"><u>[New] 10 Best Travel Youtube Channels You May Want to Follow for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-find-your-perfect-vlog-title-best-free-name-generators/"><u>[New] 2024 Approved Find Your Perfect Vlog Title - Best Free Name Generators</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-essential-tips-for-smooth-youtube-content-trimming-for-2024/"><u>[New] Essential Tips for Smooth YouTube Content Trimming for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-giggles-in-the-garage-ingenious-funny-video-concepts-for-youtubers-for-2024/"><u>[New] Giggles in the Garage Ingenious Funny Video Concepts for YouTubers for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-how-does-a-vtubing-career-start-and-prospective-path-for-2024/"><u>[New] How Does a Vtubing Career Start & Prospective Path for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solved-sea-of-thieves-wont-launch/"><u>[Solved] Sea of Thieves Won't Launch</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-guide-to-embedding-on-screen-text-on-youtube-clips/"><u>[Updated] 2024 Approved Guide to Embedding On-Screen Text on YouTube Clips</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-from-youtube-to-studio-quality-free-converters-for-wav-format-for-2024/"><u>[Updated] From YouTube to Studio Quality Free Converters for WAV Format for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-harmonizing-hit-hits-building-the-perfect-youtube-soundtrack-for-2024/"><u>[Updated] Harmonizing Hit Hits Building the Perfect YouTube Soundtrack for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-filmmakers-companion-filmora-for-youtube-trailers/"><u>[Updated] In 2024, Filmmaker's Companion Filmora for YouTube Trailers</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-hobbyist-to-pro-optimal-cameras-for-youtubing/"><u>[Updated] In 2024, From Hobbyist to Pro Optimal Cameras For YouTubing</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-restrict-viewership-of-your-youtube-content/"><u>[Updated] In 2024, How to Restrict Viewership of Your YouTube Content</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/approved-elevate-your-online-presence-with-this-all-inclusive-youtube-upload-manual/"><u>2024 Approved Elevate Your Online Presence with This All-Inclusive YouTube Upload Manual</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-remove-a-previously-synced-google-account-from-your-realme-11-proplus-by-drfone-android/"><u>How to Remove a Previously Synced Google Account from Your Realme 11 Pro+</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-infinix-note-30i-to-laptop-without-usb-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Infinix Note 30i to Laptop Without USB | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-get-and-use-pokemon-go-promo-codes-on-lava-yuva-2-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Get and Use Pokemon Go Promo Codes On Lava Yuva 2 Pro | Dr.fone</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-visual-purity-how-to-exclude-backgrounds-in-recordings/"><u>In 2024, Visual Purity How to Exclude Backgrounds in Recordings</u></a></li>
+<li><a href="https://techtrends.techidaily.com/kostenlos-konvertieren-sie-ihre-mts-videos-in-hochwertige-mp4-dateien-mit-diesen-einfachen-schritten/"><u>Kostenlos Konvertieren Sie Ihre MTS-Videos in Hochwertige MP4 Dateien Mit Diesen Einfachen Schritten</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/overcoming-iphones-endless-data-retrieval-phase-steps-to-success/"><u>Overcoming iPhone’s Endless 'Data Retrieval' Phase – Steps to Success</u></a></li>
 </ul></div>
 

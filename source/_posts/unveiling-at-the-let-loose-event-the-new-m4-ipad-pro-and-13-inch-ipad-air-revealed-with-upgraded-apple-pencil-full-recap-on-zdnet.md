@@ -1,7 +1,7 @@
 ---
 title: "Unveiling at the Let Loose Event: The New M4 iPad Pro and 13-Inch iPad Air Revealed with Upgraded Apple Pencil - Full Recap on ZDNet"
-date: 2024-10-09T21:54:50.730Z
-updated: 2024-10-15T17:37:24.870Z
+date: 2024-10-19T17:07:10.991Z
+updated: 2024-10-21T17:17:32.370Z
 tags:
   - apple
 categories:
@@ -33,10 +33,10 @@ Apple's "Let Loose" was a virtual product launch event that took place on May 7,
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576477/17382" target="_top" id="1576477">
-  <img src="//a.impactradius-go.com/display-ad/17382-1576477" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576477/17382" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 1\. iPad Pro, now with OLED displays and M4
@@ -92,16 +92,10 @@ Apple
 The Apple Pencil Pro costs $129 and supports Apple's Find My service, letting you track the location of the accessory should you drop or misplace it. You can purchase the [Apple Pencil Pro](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fproduct%2FMX2D3AM%2FA%2Fapple-pencil-pro&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) today, and it will start shipping next week.
 
 <!-- affiliate ads begin -->
-<span id="1495277">
-					<video width="1536" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1495277.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/17189-1495277">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1495277.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ffunwhole.sjv.io%2Fc%2F5597632%2F1495277%2F17189'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1495277/17189" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557742/17382" target="_top" id="1557742">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557742" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557742/17382" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Magic Keyboard
@@ -110,21 +104,22 @@ Apple
 
 The iPad event also included a new, more durable Magic Keyboard, featuring a larger trackpad and a function row along the top. The Magic Keyboard's new look and upgraded aluminum construction is meant to make the iPad Pro look and feel more like a laptop, rather than a tablet with an optional keyboard case.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528703/16446" target="_top" id="1528703">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528703" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528703/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Why would Apple host an event before WWDC?
 
 Although Apple is hosting its [Worldwide Developers Conference (WWDC)](https://www.zdnet.com/article/apple-confirms-wwdc-2024-for-june-10-will-ai-steal-the-show/) on June 10, that event is reserved for new iOS, iPadOS, visionOS, and macOS announcements, plus Apple's new AI strategy. The Let Loose event was focused on the latest hardware offerings, with the [OLED iPad Pro](https://www.zdnet.com/article/7-ipad-pro-features-that-would-make-me-instantly-upgrade-to-apples-next-model/) being the main star.
 
 <!-- affiliate ads begin -->
-<span id="1983588">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983588.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983588">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983588.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983588%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2151890/7443" target="_top" id="2151890">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151890" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151890/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Did the Let Loose event cover iPadOS 17.5 or iPadOS 18?
@@ -138,13 +133,6 @@ Apple unveiled new versions of Final Cut Pro 2 and Logic Pro 2 for iPadOS. Apple
 Logic Pro 2 introduces Session Players, an AI-created Bass and Keyboard player available alongside the Drummer feature. The ChromaGlow feature adds sound effects to tracks. Logic Pro 2 also offers a Stem Splitter feature that can split recordings into voice, bass, drums, and other instruments.
 
 iOS 17.5 doesn't have many exciting new features outside of the European Union, where iPhone users can now [download apps directly from websites](https://www.zdnet.com/article/apple-to-let-eu-users-download-apps-from-the-web-with-ios-17-5-beta-2-how-it-works/). The new devices are expected to ship with iPadOS 17.5, but these features are available for iPadOS 17.4.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129738/7443" target="_top" id="2129738">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129738" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129738/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How do I watch Apple's Let Loose event?
 
@@ -180,22 +168,16 @@ The Apple Let Loose event was a pre-recorded video but is still available for st
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-2024-approved-essential-mobile-games-for-leisurely-indulgence/"><u>[New] 2024 Approved Essential Mobile Games for Leisurely Indulgence</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-camera-clicks-to-youtube-views-mobiles-in-cinematic-success/"><u>[New] 2024 Approved From Camera Clicks to YouTube Views Mobiles in Cinematic Success</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-fast-track-video-scaling-for-perfect-mac-display-for-2024/"><u>[New] Fast-Track Video Scaling for Perfect Mac Display for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-fuel-the-spark-essential-themes-for-youtube-success/"><u>[New] In 2024, Fuel the Spark Essential Themes for YouTube Success</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-fresh-face-finds-budget-friendly-platforms-to-purchase/"><u>[Updated] 2024 Approved Fresh Face Finds Budget-Friendly Platforms to Purchase</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-free-film-and-image-repository-highlights-for-2024/"><u>[Updated] Free Film and Image Repository Highlights for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-harmonizing-youtube-content-a-guide-to-blending-files-for-2024/"><u>[Updated] Harmonizing YouTube Content A Guide to Blending Files for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-run-a-sports-youtube-chain-on-macos-for-2024/"><u>[Updated] How to Run a Sports YouTube Chain on MacOS for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-scripts-to-screens-your-ultimate-youtube-production-plan/"><u>[Updated] In 2024, From Scripts to Screens Your Ultimate YouTube Production Plan</u></a></li>
-<li><a href="https://fox-info.techidaily.com/2024-approved-chromatic-excellence-program/"><u>2024 Approved Chromatic Excellence Program</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/5-solutions-for-oneplus-11r-unlock-without-password-by-drfone-android/"><u>5 Solutions For OnePlus 11R Unlock Without Password</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/different-methods-to-unlock-your-iphone-13-pro-max-by-drfone-ios/"><u>Different Methods To Unlock Your iPhone 13 Pro Max</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/dive-into-hardware-excellence-with-toms-electronics-insights/"><u>Dive Into Hardware Excellence with Tom's Electronics Insights</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-check-distance-and-radius-on-google-maps-for-your-xiaomi-13t-drfone-by-drfone-virtual-android/"><u>How to Check Distance and Radius on Google Maps For your Xiaomi 13T | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-solve-gtfo-crashing/"><u>How to Solve GTFO Crashing</u></a></li>
-<li><a href="https://win-webmaster.techidaily.com/overcoming-downloads-gone-wrong-in-windows-11-the-ultimate-fix-up-handbook/"><u>Overcoming Downloads Gone Wrong in Windows 11: The Ultimate Fix-Up Handbook</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/k-the-full-potential-of-your-youtube-videos-top-11-seo-tips/"><u>Unlock the Full Potential of Your YouTube Videos Top 11 SEO Tips</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-gaming-income-optimization-tips-for-2024/"><u>[New] Gaming Income Optimization Tips for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-discovering-the-best-in-android-gaming-kinemaster-edition/"><u>[New] In 2024, Discovering the Best in Android Gaming KineMaster Edition</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-followers-in-motion-analyzer/"><u>[New] In 2024, Followers in Motion Analyzer</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-finalcut-pro-elevating-your-youtube-edits-from-good-to-great/"><u>[Updated] 2024 Approved FinalCut Pro Elevating Your YouTube Edits From Good to Great</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-camera-to-chrome-youtube-shorts-video-upload-guide/"><u>[Updated] 2024 Approved From Camera to Chrome YouTube Shorts Video Upload Guide</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-graphic-portrayal-of-future-social-momentum/"><u>[Updated] In 2024, Graphic Portrayal of Future Social Momentum</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/approved-tailor-made-youtube-url-strategies-an-easier-approach/"><u>2024 Approved Tailor-Made YouTube URL Strategies An Easier Approach</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/acer-nitro-5-users-manual-how-to-refresh-system-drivers-efficiently/"><u>Acer Nitro 5 User's Manual: How to Refresh System Drivers Efficiently</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-change-your-sim-pin-code-on-your-honor-x50-phone-by-drfone-android/"><u>How To Change Your SIM PIN Code on Your Honor X50 Phone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-windows-proxy-detection-corrections/"><u>Mastering Windows Proxy Detection Corrections</u></a></li>
+<li><a href="https://win-community.techidaily.com/recupera-file-eliminati-ripristina-i-dati-gratis-da-una-tua-usb-con-4-modi/"><u>Recupera File Eliminati: Ripristina I Dati Gratis Da Una Tua USB Con [4 Modi]</u></a></li>
 </ul></div>
 

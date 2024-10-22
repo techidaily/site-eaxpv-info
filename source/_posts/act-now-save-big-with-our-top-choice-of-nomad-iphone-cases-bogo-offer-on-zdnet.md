@@ -1,7 +1,7 @@
 ---
 title: "Act Now: Save Big with Our Top Choice of Nomad iPhone Cases - BOGO Offer on ZDNet"
-date: 2024-10-13T22:19:28.596Z
-updated: 2024-10-16T01:45:38.628Z
+date: 2024-10-14T17:23:06.879Z
+updated: 2024-10-21T16:21:47.051Z
 tags:
   - apple
 categories:
@@ -39,10 +39,10 @@ If you're looking to the iPhone 16 to get all the flashy AI features Apple showe
 Most of the more attractive features of Apple Intelligence that Apple showcased during [WWDC](https://www.zdnet.com/article/everything-apple-will-announce-at-wwdc-today-apple-intelligence-siri-ios-18-more/)in June are supposedly coming later in 2025, which is hardly a convincing factor to fork over more money for a new phone in September 2024\. If you're looking for features like Genmoji, Image Playground, and the [ChatGPT](https://www.zdnet.com/article/what-is-chatgpt-and-why-does-it-matter-heres-everything-you-need-to-know/) integration with Siri, you'll have to wait a few months.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148639/16836" target="_top" id="2148639">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148639" border="0" alt="https://techidaily.com" width="180" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123730/7443" target="_top" id="2123730">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123730" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148639/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123730/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Uncertainty around on-device performance
@@ -56,16 +56,10 @@ Many unknowns surround how Apple Intelligence features will perform on the [iPho
 Apple Intelligence requires at least 8GB of RAM and an A17 or M1 Apple silicon processor or newer. While the iPhone 16 lineup is expected to run on an A18 Bionic chip and between 8GB and 12GB of RAM across the four different models, concerns about how much strain the CPU will endure are valid. The new [AI capabilities can also overheat the iPhone and drain its battery quicker](https://www.zdnet.com/article/why-you-shouldnt-buy-the-iphone-16-for-apple-intelligence/), potentially reducing the device's lifecycle.
 
 <!-- affiliate ads begin -->
-<span id="1424527">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424527.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424527">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424527.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424527%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424527/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2075462/7443" target="_top" id="2075462">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075462" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075462/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. The iPhone 16 is not enough of an upgrade on its own
@@ -87,10 +81,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 But, the iPhone 16's Apple Intelligence features (when they arrive) are undoubtedly modest compared to [ChatGPT with GPT-4o](https://www.zdnet.com/article/how-to-use-chatgpt/) and other AI tools available now. Other tools available now can do most of what Apple Intelligence promises; the difference is that the latter will run on-device and be personalized to the individual user. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100542/7443" target="_top" id="2100542">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100542" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137221/26400" target="_top" id="2137221">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137221" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100542/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137221/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. The iPhone 16 Pro is the same price as its predecessor… But is it worth it?
@@ -135,20 +129,17 @@ My Apple Intelligence-incompatible, lightning port-charging iPhone 14 Pro Max st
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-get-noticed-on-youtube-the-ultimate-list-of-freefire-tag-tips/"><u>[New] 2024 Approved Get Noticed on YouTube The Ultimate List of FreeFire Tag Tips</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-harnessing-the-benefits-with-creative-commons-licenses/"><u>[New] 2024 Approved Harnessing the Benefits with Creative Commons Licenses</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-top-online-sources-for-high-quality-vector-illustrations/"><u>[New] Top Online Sources for High-Quality Vector Illustrations</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-bypass-a-youtube-strike-and-keep-creating-videos/"><u>[Updated] 2024 Approved How to Bypass a YouTube Strike and Keep Creating Videos</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-elevate-your-snaps-with-zooming-techniques/"><u>[Updated] Elevate Your Snaps with Zooming Techniques</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-add-timestamps-on-youtube-video-link-for-2024/"><u>[Updated] How to Add Timestamps on YouTube Video Link for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-flavor-forge-30-epicurean-titles-that-resonate/"><u>[Updated] In 2024, Flavor Forge 30 Epicurean Titles That Resonate</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-fostering-engagement-creating-budget-friendly-youtube-intros/"><u>[Updated] In 2024, Fostering Engagement Creating Budget-Friendly YouTube Intros</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-gourmet-guide-culinary-video-production/"><u>[Updated] In 2024, Gourmet Guide Culinary Video Production</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-mastering-video-cover-updates-on-facebook-for-2024/"><u>[Updated] Mastering Video Cover Updates on Facebook for 2024</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/2024-approved-elevating-your-instagram-presence-with-watermarks/"><u>2024 Approved Elevating Your Instagram Presence with Watermarks</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-call-history-from-nokia-xr21-by-fonelab-android-recover-call-logs/"><u>Easy steps to recover deleted call history from Nokia XR21</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/solutions-to-spy-on-oppo-a59-5g-with-and-without-jailbreak-drfone-by-drfone-virtual-android/"><u>Solutions to Spy on Oppo A59 5G with and without jailbreak | Dr.fone</u></a></li>
-<li><a href="https://fox-access.techidaily.com/the-ultimate-selection-of-no-cost-image-transformers-for-ios-and-android/"><u>The Ultimate Selection of No-Cost Image Transformers for iOS and Android</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/why-is-ipogo-not-working-on-oppo-find-x7-ultra-fixed-drfone-by-drfone-virtual-android/"><u>Why is iPogo not working On Oppo Find X7 Ultra? Fixed | Dr.fone</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-funding-fantasies-or-fiscal-facts/"><u>[New] 2024 Approved Funding Fantasies or Fiscal Facts?</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-bite-sized-to-detailed-converting-shorts-to-editable-mp4/"><u>[Updated] In 2024, From Bite-Sized to Detailed Converting Shorts to Editable MP4</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-raw-footage-to-youtube-perfection-premiere-pro-techniques/"><u>[Updated] In 2024, From Raw Footage to YouTube Perfection - Premiere Pro Techniques</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-harness-the-power-of-youtube-videos-to-create-stunning-gifs-online/"><u>[Updated] In 2024, Harness the Power of Youtube Videos to Create Stunning Gifs Online</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-historical-discoveries-at-your-screen-10-best-educational-youtubers/"><u>[Updated] In 2024, Historical Discoveries at Your Screen - 10 Best Educational YouTubers</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-streaming-showdown-the-ultimate-guide-for-xsplit-and-obs-fans/"><u>[Updated] Streaming Showdown The Ultimate Guide for XSplit and OBS Fans</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-superior-nintendo-switch-brawlers-selection-max-156/"><u>[Updated] Superior Nintendo Switch Brawlers Selection (Max 156)</u></a></li>
+<li><a href="https://location-fake.techidaily.com/4-methods-to-turn-off-life-360-on-samsung-galaxy-s23-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>4 Methods to Turn off Life 360 On Samsung Galaxy S23 without Anyone Knowing | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/all-you-need-to-know-about-mega-greninja-for-poco-m6-5g-drfone-by-drfone-virtual-android/"><u>All You Need To Know About Mega Greninja For Poco M6 5G | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/complete-review-and-guide-to-techeligible-frp-bypass-and-more-for-sony-xperia-5-v-by-drfone-android/"><u>Complete Review & Guide to Techeligible FRP Bypass and More For Sony Xperia 5 V</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/in-2024-unveiling-the-future-of-gaming-an-in-depth-look-at-lg-27ud68/"><u>In 2024, Unveiling the Future of Gaming An In-Depth Look at LG 27UD68</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/ultimate-guide-to-downloading-and-installing-asus-pce-ac68-wifi-adapter-driver-software/"><u>Ultimate Guide to Downloading & Installing ASUS PCE-AC68 WiFi Adapter Driver Software</u></a></li>
 </ul></div>
 

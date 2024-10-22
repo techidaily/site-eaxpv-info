@@ -1,7 +1,7 @@
 ---
 title: "The Secret Behind Apple's Lack of Exclamation Points: An Insight Into Their Web Design Strategy"
-date: 2024-10-09T00:13:21.398Z
-updated: 2024-10-16T07:44:16.010Z
+date: 2024-10-19T20:56:05.666Z
+updated: 2024-10-21T18:30:40.243Z
 tags:
   - apple
 categories:
@@ -69,16 +69,16 @@ Yet no need for an exclamation point because, presumably, you already get the po
 But some tech companies still insist that their wares deserve some sort of exclamatory explanatory. It's a truly interesting phenomenon.
 
 <!-- affiliate ads begin -->
-<span id="1424527">
+<span id="2135471">
 					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424527.png"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2135471.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424527">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424527.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2135471">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424527%2F16446'), '_blank');void(0);">Click here</a></div>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135471%2F18498'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424527/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135471/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## The big startup exclamatory experiment
@@ -138,10 +138,10 @@ Screenshot by Chris Matyszczyk/ZDNET
 Oh!
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135407/19272" target="_top" id="2135407">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135407" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1925489/19272" target="_top" id="1925489">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925489" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135407/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925489/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## The majority knows it's serious
@@ -163,10 +163,10 @@ I'm sure the management is excited about its product. I'm sure the product offer
 I'm equally sure that the lack of an exclamation point makes the products seem more, well, serious and important.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975836/19272" target="_top" id="1975836">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975836" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1886048/19272" target="_top" id="1886048">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886048" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975836/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886048/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Sell, don't shout
@@ -223,24 +223,21 @@ It worked for Apple. (I'm not sure the opposite worked quite so well for Yahoo!)
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-much-does-youtube-pay-for-1-million-views/"><u>[New] 2024 Approved How Much Does YouTube Pay for 1 Million Views?</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-guiding-you-through-youtubes-view-limitations-for-2024/"><u>[New] Guiding You Through YouTube's View Limitations for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-how-to-add-a-youtube-video-to-google-slides-for-2024/"><u>[New] How to Add a YouTube Video to Google Slides for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-flipping-the-script-turning-online-games-into-channel-gold/"><u>[New] In 2024, Flipping the Script Turning Online Games Into Channel Gold</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-visual-purity-how-to-exclude-backgrounds-in-recordings/"><u>[New] Visual Purity How to Exclude Backgrounds in Recordings</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-scripted-to-spontaneous-elevating-reactions-for-youtube-success-3-steps/"><u>[Updated] 2024 Approved From Scripted to Spontaneous Elevating Reactions for YouTube Success (3 Steps)</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-add-chapters-to-youtube-videos/"><u>[Updated] 2024 Approved How to Add Chapters to YouTube Videos</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-from-mac-studio-to-youtube-stream-imovie-video-upload-guide-for-2024/"><u>[Updated] From Mac Studio to YouTube Stream IMovie Video Upload Guide for 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-in-2024-free-sustainable-scenes-for-filmmakers/"><u>[Updated] In 2024, Free Sustainable Scenes for Filmmakers</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-generating-auto-subscribe-urls-for-youtube-channels/"><u>[Updated] In 2024, Generating Auto Subscribe URLs for YouTube Channels</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-trendsetting-visualizations-for-the-year-ahead/"><u>[Updated] Trendsetting Visualizations for the Year Ahead</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/2024-approved-exclusive-list-top-sandbox-experiences/"><u>2024 Approved Exclusive List Top Sandbox Experiences</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-unlock-the-secrets-to-social-media-success-with-igtv-hashtag-techniques/"><u>2024 Approved Unlock the Secrets to Social Media Success with IGTV Hashtag Techniques</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/traction-with-effective-video-descriptions-and-tagging/"><u>Gain Traction with Effective Video Descriptions and Tagging</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/guide-resolving-the-no-internet-access-problem-on-microsoft-surface-pro-devices/"><u>Guide: Resolving the 'No Internet Access' Problem on Microsoft Surface Pro Devices</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-disabling-apple-iphone-14-parental-restrictions-withwithout-password-drfone-by-drfone-ios/"><u>In 2024, Disabling Apple iPhone 14 Parental Restrictions With/Without Password | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fake-gps-on-honor-x50iplus-for-mobile-legends-drfone-by-drfone-virtual-android/"><u>In 2024, How To Fake GPS On Honor X50i+ For Mobile Legends? | Dr.fone</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/in-2024-tickle-treasure-trove-uncovering-best-apps-for-memes/"><u>In 2024, Tickle Treasure Trove Uncovering Best Apps for Memes</u></a></li>
-<li><a href="https://blog-min.techidaily.com/mp4gif/"><u>シームレスなMP4とGIF間の変換：モバビのトップテクニックを解説する</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-direct-screen-capture-chrome-os-tool/"><u>[New] 2024 Approved Direct Screen Capture Chrome OS Tool</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-create-dramatic-effects-top-strategies-for-epic-gopro-videos/"><u>[New] Create Dramatic Effects Top Strategies for Epic GoPro Videos</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-first-timer-finds-low-cost-high-return-monetized-youtube-sites-for-2024/"><u>[New] First-Timer Finds Low-Cost, High-Return Monetized YouTube Sites for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-novice-to-vlogger-the-top-10-editing-techniques/"><u>[New] In 2024, From Novice to Vlogger The Top 10 Editing Techniques</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-guide-to-consolidating-your-youtube-video-collection/"><u>[New] In 2024, Guide to Consolidating Your YouTube Video Collection</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-harmonizing-tracks-in-youtube-music-for-2024/"><u>[Updated] Harmonizing Tracks in YouTube Music for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-hidden-gems-on-youtube-understanding-unlisted-videos-for-2024/"><u>[Updated] Hidden Gems on YouTube Understanding 'Unlisted' Videos for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-finalcut-pro-tutorials-for-top-tier-youtube-video-editing/"><u>[Updated] In 2024, FinalCut Pro Tutorials for Top-Tier YouTube Video Editing</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-unseen-reader-fb-moments-watcher/"><u>[Updated] In 2024, Unseen Reader FB Moments Watcher</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-turning-youtube-shorts-into-a-money-machine-essentials-and-earnings-prospects/"><u>[Updated] Turning YouTube Shorts Into a Money Machine Essentials and Earnings Prospects</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-top-photo-browser-with-lightning-speed/"><u>2024 Approved Top Photo Browser with Lightning Speed</u></a></li>
+<li><a href="https://location-fake.techidaily.com/4-methods-to-turn-off-life-360-on-xiaomi-redmi-note-12-pro-4g-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>4 Methods to Turn off Life 360 On Xiaomi Redmi Note 12 Pro 4G without Anyone Knowing | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-vivo-y100a-to-any-ios-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Vivo Y100A to Any iOS Devices | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-7-top-ways-to-resolve-apple-id-not-active-issue-for-apple-iphone-12-pro-max-by-drfone-ios/"><u>In 2024, 7 Top Ways To Resolve Apple ID Not Active Issue For Apple iPhone 12 Pro Max</u></a></li>
+<li><a href="https://android-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-motorola-moto-g73-5gfrp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your Motorola Moto G73 5GFRP Lock</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolving-recurring-sound-cutouts-in-windows-10-detailed-solutions/"><u>Resolving Recurring Sound Cutouts in Windows 10 - Detailed Solutions!</u></a></li>
 </ul></div>
 

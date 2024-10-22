@@ -1,7 +1,7 @@
 ---
 title: "Expert Analysis: IPhone 15 Unveiled - Top Picks for Seasoned Tech Enthusiasts | ZDNet"
-date: 2024-10-14T06:48:44.064Z
-updated: 2024-10-16T09:08:19.420Z
+date: 2024-10-18T00:41:36.957Z
+updated: 2024-10-21T17:50:17.670Z
 tags:
   - apple
 categories:
@@ -46,10 +46,10 @@ Months of testing have proved that Apple's standard [iPhone 15 and iPhone 15 Plu
 If you don't see yourself shooting videos in ProRAW, requiring the extra Action button, or drooling over the 5X zoom camera on the [iPhone 15 Pro Max](https://www.zdnet.com/article/iphone-15-pro-review/), you'll be plenty comfortable with the $799 iPhone 15 and $899 iPhone 15 Plus. Between the two, buy the former if you want one of the most compact (yet capable) handsets on the market, and buy the latter if you want a more affordable big-screen iPhone and the best battery life of all the models in the latest lineup.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880972/19272" target="_top" id="1880972">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880972" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094479/7443" target="_top" id="2094479">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094479" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880972/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094479/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Specifications
@@ -72,13 +72,6 @@ If you don't see yourself shooting videos in ProRAW, requiring the extra Action 
 Whenever I review [the latest iPhones](https://www.zdnet.com/article/best-iphone/), I spend a few weeks testing them, but this time, I went longer. I spent about half of the year using both units. I had my Mint Mobile eSIM installed on the smaller iPhone 15 for the first three months and then transferred to the iPhone 15 Plus for the other half. A good part of my long-term evaluation process includes testing cellular connectivity (read: using the devices in crowded areas, on top of buildings, in subways, and more), day-to-day performance, and taking more photos than a standard free subscription to iCloud can contain.
 
 The difference between the two latest iPhone handsets mainly boils down to display size and battery life; unlike the Pro models, there's no camera hardware discrepancy, which means the general user experience of the two is pleasantly similar. That made my life as a phone reviewer a little easier -- and makes the list below all the more applicable to both iPhone models.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036472/19272" target="_top" id="2036472">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036472" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036472/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## What are the iPhone 15's best features?
 
@@ -134,6 +127,13 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557746/17382" target="_top" id="1557746">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557746" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557746/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Should I upgrade from my older iPhone?
 
 It's true that [consumers are now upgrading their smartphones at a slower rate](https://www.zdnet.com/article/iphone-users-keep-their-phones-longer-than-android-owners/), spending three years or more with their devices before switching to the next best thing. If you're coming from an older iPhone model, here's how it stacks up with the iPhone 15 and the biggest differences you can expect.
@@ -149,10 +149,10 @@ It's true that [consumers are now upgrading their smartphones at a slower rate](
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1828647/21290" target="_top" id="1828647">
-  <img src="//a.impactradius-go.com/display-ad/21290-1828647" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082539/7443" target="_top" id="2082539">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082539" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1828647/21290" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082539/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## What I'd like to see in the next model
@@ -167,22 +167,16 @@ Is this Apple's way of splitting up the non-Pro and Pro models? Probably. I don'
 
 **An Action button:** Given how many iPhone 14 Pro features Apple carried over to the iPhone 15, I have my fingers crossed that Apple will replace the alert slider with the Action button this year. Over the course of testing the latest iPhones, I've used the alert slider less than a dozen times. An Action button would give the iPhone much more functionality.
 
-<!-- affiliate ads begin -->
-<span id="1424533">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424533.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424533">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424533.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424533%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424533/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Final thought
 
 It's easy to call the standard iPhone model the "Best iPhone for most people." That's been the case since Apple introduced a Pro variant with the iPhone 11 series, and still holds true with the [iPhone 15](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-iphone%2Fiphone-15&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp). Only now, I'm finding myself recommending the non-Pro iPhone to more users than ever before, including folks I've known to be more demanding of their tech. Apple's made just enough feature upgrades (and a few compromises that may be imperceivable to some) to help the latest iPhone model stand out, even when stacked against the generation before it.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2141683/17092" target="_top" id="2141683">
+  <img src="//a.impactradius-go.com/display-ad/17092-2141683" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141683/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Alternatives to consider
 
@@ -218,22 +212,22 @@ It's easy to call the standard iPhone model the "Best iPhone for most people." T
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-fiscally-flourishing-through-film-reviewing-retail-relics/"><u>[New] 2024 Approved Fiscally Flourishing Through Film Reviewing Retail Relics</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-hits-to-strikes-expert-youtube-studio-editing-strategies/"><u>[New] 2024 Approved From Hits to Strikes Expert YouTube Studio Editing Strategies</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-virality-to-value-ajays-playbook-for-profitable-content-creation/"><u>[New] 2024 Approved From Virality to Value Ajay’s Playbook for Profitable Content Creation</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-gamer-tested-streaming-software-picks-for-2024/"><u>[New] Gamer-Tested Streaming Software Picks for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-faster-adjustment-of-youtube-videos-for-mac-pixels/"><u>[New] In 2024, Faster Adjustment of YouTube Videos for Mac Pixels</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-first-steps-in-the-youtubian-economy-building-a-brand-boosting-bank-balance/"><u>[New] In 2024, First Steps in the Youtubian Economy Building a Brand, Boosting Bank Balance</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-frameworks-producing-uplifting-life-journey-broadcasts/"><u>[New] In 2024, Frameworks Producing Uplifting Life Journey Broadcasts</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-shave-seconds-off-your-youtube-video-submission/"><u>[Updated] 2024 Approved How to Shave Seconds Off Your YouTube Video Submission</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-in-2024-procedure-for-removing-stashed-videos-from-watch-later/"><u>[Updated] In 2024, Procedure for Removing Stashed Videos From Watch Later</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-novel-set-of-pertinent-probing-for-podcast-participants/"><u>[Updated] Novel Set of Pertinent Probing for Podcast Participants</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-unveiling-the-secrets-to-professional-sound-capture-in-audacity/"><u>[Updated] Unveiling the Secrets to Professional Sound Capture in Audacity</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/gdrive2/"><u>「一方通行でGdriveデータを簡単にバックアップする2手順ガイド」</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/exploring-ghoulish-auditory-extras/"><u>Exploring Ghoulish Auditory Extras</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-can-i-use-a-fake-gps-without-mock-location-on-apple-iphone-7-plus-drfone-by-drfone-virtual-ios/"><u>How Can I Use a Fake GPS Without Mock Location On Apple iPhone 7 Plus? | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-restore-functionality-solving-discords-unresponsive-camera-problem/"><u>How To Restore Functionality: Solving Discord's Unresponsive Camera Problem</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/in-2024-setting-up-and-managing-discord-channels-step-by-step-guide/"><u>In 2024, Setting Up and Managing Discord Channels Step-by-Step Guide</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/make-stunning-videos-in-minutes-wevideo-online-editor/"><u>Make Stunning Videos in Minutes WeVideo Online Editor</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-blueprint-for-buzz-elevating-your-profile-on-fb/"><u>[New] Blueprint for Buzz Elevating Your Profile on FB</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-green-screen-mastery-on-youtube-ideas-unleashed-for-2024/"><u>[New] Green Screen Mastery on YouTube - Ideas Unleashed for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/bs-101-youtube-live-stream-setup-tutorial/"><u>[New] OBS 101 Youtube Live Stream Setup Tutorial</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-fresh-film-views-ranked-alternatives-1-7/"><u>[Updated] 2024 Approved Fresh Film Views Ranked Alternatives #1-7</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-content-maker-to-cash-magnet-youtubes-guide-to-ad-revenue/"><u>[Updated] 2024 Approved From Content Maker to Cash Magnet Youtube's Guide to Ad Revenue</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-get-more-out-of-youtube-with-8-handpicked-download-apps/"><u>[Updated] 2024 Approved Get More Out of YouTube with 8 Handpicked Download Apps</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-google-meet-for-everyone-a-comprehensive-no-cost-strategy-booklet/"><u>[Updated] 2024 Approved Google Meet for Everyone A Comprehensive, No-Cost Strategy Booklet</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-create-a-playlist-on-youtube-a-complete-guide-for-2024/"><u>[Updated] How to Create a Playlist on Youtube - a Complete Guide for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-purge-personal-youtube-history-records-for-2024/"><u>[Updated] How to Purge Personal YouTube History Records for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-free-tribe-50-branding-banners-ready-to-unleash/"><u>[Updated] In 2024, Free Tribe 50 Branding Banners Ready to Unleash</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-youtube-to-insta-a-video-posting-guide/"><u>[Updated] In 2024, From YouTube to Insta A Video Posting Guide</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-unlocking-hidden-gems-open-source-art-lists/"><u>[Updated] Unlocking Hidden Gems Open-Source Art Lists</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-strategy-revealed-a-box-opening-narrative/"><u>2024 Approved Strategy Revealed A Box-Opening Narrative</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/avoiding-game-crashes-solving-severe-bugs-in-call-of-duty-black-ops-iv/"><u>Avoiding Game Crashes: Solving Severe Bugs in Call of Duty: Black Ops IV</u></a></li>
+<li><a href="https://win-dash.techidaily.com/download-the-latest-asus-mouse-pad-software-for-windows-pcs/"><u>Download the Latest ASUS Mouse Pad Software for Windows PCs</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-reset-apple-id-and-apple-password-from-apple-iphone-6-plus-by-drfone-ios/"><u>How to Reset Apple ID and Apple Password From Apple iPhone 6 Plus</u></a></li>
+<li><a href="https://win-blog.techidaily.com/resolved-fixes-for-stability-issues-in-left-4-dead-2/"><u>Resolved: Fixes for Stability Issues in Left 4 Dead 2</u></a></li>
 </ul></div>
 

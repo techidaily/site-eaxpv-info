@@ -1,7 +1,7 @@
 ---
 title: Uncluttered Inbox Revolutionized with One Simple Trick - Say Goodbye to Multiple Accounts and Complex Rules
-date: 2024-10-12T19:26:15.340Z
-updated: 2024-10-16T04:57:15.627Z
+date: 2024-10-18T18:59:40.302Z
+updated: 2024-10-21T16:11:14.021Z
 tags:
   - apple
 categories:
@@ -61,10 +61,10 @@ Don't confuse aliases with forwarded accounts, which allow you to send and recei
 The following instructions apply to personal accounts you manage yourself. If you have a commercial email account (through Microsoft 365 or Google Workspace, for example), you can have aliases for your account using your organization's custom domain, but you'll need an administrator's help to set up those aliases.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1013424/11832" target="_top" id="1013424">
-  <img src="//a.impactradius-go.com/display-ad/11832-1013424" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137221/26400" target="_top" id="2137221">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137221" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1013424/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137221/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to create an alias using Gmail
@@ -76,10 +76,16 @@ Although it's the world's most popular email service, Gmail's implementation of 
 The problem with this sort of alias is that it doesn't keep an unscrupulous sender from seeing your primary address, so be cautious when using it with untrusted correspondents.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925489/19272" target="_top" id="1925489">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925489" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925489/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1899850">
+					<video width="486" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1899850.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14483-1899850">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1899850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:304px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Felectronicx.pxf.io%2Fc%2F5597632%2F1899850%2F14483'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1899850/14483" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to create an alias using Outlook.com
@@ -93,10 +99,10 @@ To get started, go to <https://account.microsoft.com>, sign in with your Microso
 You can add new aliases at any time (up to the limit of 10) or remove an existing alias from the Account Aliases page described earlier.
 
 <!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398455/3022" target="_top" id="398455">
-  <img src="//a.impactradius-go.com/display-ad/3022-398455" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068408/7443" target="_top" id="2068408">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068408" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398455/3022" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068408/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to create an alias using your Apple ID
@@ -110,10 +116,16 @@ The one catch is that each alias uses an auto-generated name that can be less th
 To create an iCloud alias on an iOS device, open Settings, tap your account name, then tap iCloud > Hide My Email. (On a MacBook, use the Apple menu to open System Settings, where you'll find the Hide My Email option.) Tap Create New Address and follow the prompts to add a label and an optional note. Use the Forward To button to select where you want to receive email sent to that alias.
 
 <!-- affiliate ads begin -->
-<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1584040/17916" target="_top" id="1584040">
-  <img src="//a.impactradius-go.com/display-ad/17916-1584040" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1584040/17916" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1976998">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Other alias options
@@ -154,19 +166,17 @@ You can also use privacy add-ins that include email-masking features. [NordPass 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-get-going-on-youtube-video-upload-tutorial-in-premiere/"><u>[New] 2024 Approved Get Going on YouTube Video Upload Tutorial in Premiere</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-flawless-soundscapes-in-the-world-of-social-media-videos-for-2024/"><u>[New] Flawless Soundscapes in the World of Social Media Videos for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-design-youtube-introductory-videos-two-pathways/"><u>[New] In 2024, How to Design YouTube Introductory Videos Two Pathways</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-chaos-to-clarity-professional-tools-for-youtube-cuts/"><u>[Updated] 2024 Approved From Chaos to Clarity Professional Tools for Youtube Cuts</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-facebook-launching-your-first-phenomenal-giving-post/"><u>[Updated] Facebook Launching Your First Phenomenal Giving Post</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-recording-to-viewing-a-complete-guide-for-sharing-ultra-hd-on-youtube/"><u>[Updated] In 2024, From Recording to Viewing A Complete Guide for Sharing Ultra HD on Youtube</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-screen-to-speakers-secrets-to-successful-video-sharing/"><u>[Updated] In 2024, From Screen To Speakers Secrets to Successful Video Sharing</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-mastering-elegant-mosaic-imagery-fusions-for-2024/"><u>[Updated] Mastering Elegant Mosaic Imagery Fusions for 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/2024-approved-leading-low-cost-audio-tools-1-to-10-desktop-recorder-guide/"><u>2024 Approved Leading Low-Cost Audio Tools #1 to #10 Desktop Recorder Guide</u></a></li>
-<li><a href="https://howto.techidaily.com/9-solutions-to-fix-process-system-isnt-responding-error-on-infinix-smart-8-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Process System Isnt Responding Error on Infinix Smart 8 | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/beating-the-100-hurdle-a-step-by-step-fix-to-complete-windows-updates/"><u>Beating the 100% Hurdle: A Step-by-Step Fix to Complete Windows Updates</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-google-upload-mastery-a-step-by-step-guide/"><u>In 2024, Google Upload Mastery - A Step-by-Step Guide</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/24-top-must-know-elements-about-youtube-tv-subscription/"><u>In 2024, Top Must-Know Elements About YouTube TV Subscription</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-dawn-of-truthgpt-and-the-scrutiny-over-mullvad-vpn-by-law-enforcement-your-comprehensive-list-to-top-free-pc-games-and-understanding-mechanical-keyboard20/"><u>The Dawn of TruthGPT and the Scrutiny over Mullvad VPN by Law Enforcement, Your Comprehensive List to Top FREE PC Games & Understanding Mechanical Keyboards Better</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-novice-to-notoriety-steps-for-a-youtube-channel-in-gaming/"><u>[New] 2024 Approved From Novice to Notoriety Steps for a YouTube Channel in Gaming</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-finding-the-highlighted-online-discourse/"><u>[New] In 2024, Finding the Highlighted Online Discourse</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-free-video-editing-software-round-up-choose-from-7-options/"><u>[New] In 2024, Free Video Editing Software Round-Up Choose From 7 Options</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-from-novice-to-notable-top-course-recommendations-for-youtubers-for-2024/"><u>[Updated] From Novice to Notable Top Course Recommendations for YouTubers for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-how-to-light-your-youtube-video/"><u>[Updated] How To Light Your YouTube Video</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-comprehensive-guide-to-xbox-screen-recording-success/"><u>[Updated] In 2024, Comprehensive Guide to Xbox Screen Recording Success</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-be-a-youtube-gamer/"><u>[Updated] In 2024, How To Be a YouTube Gamer</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-lifetime-of-memories-elevated-in-the-cloud-free-and-paid-storage-compared/"><u>2024 Approved Lifetime of Memories, Elevated in the Cloud Free & Paid Storage Compared</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1723808323099-how-to-reduce-latency-for-gaming-2024-tips/"><u>How to Reduce Latency for Gaming – 2024 Tips</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-google-play-location-on-lava-yuva-2-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Google Play Location On Lava Yuva 2 | Dr.fone</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-the-ultimate-guide-to-synchronized-screen-time-on-yt/"><u>In 2024, The Ultimate Guide to Synchronized Screen Time on YT</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-7-essential-strategies-from-apple-for-optimizing-uiux-in-visionos-insights-by-zdnet/"><u>Top 7 Essential Strategies From Apple for Optimizing UI/UX in VisionOS - Insights by ZDNet</u></a></li>
 </ul></div>
 

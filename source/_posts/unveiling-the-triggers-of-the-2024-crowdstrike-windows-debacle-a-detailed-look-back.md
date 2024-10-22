@@ -1,7 +1,7 @@
 ---
 title: "Unveiling the Triggers of the 2024 CrowdStrike-Windows Debacle: A Detailed Look Back"
-date: 2024-10-14T00:55:34.749Z
-updated: 2024-10-16T00:09:51.786Z
+date: 2024-10-16T17:56:29.413Z
+updated: 2024-10-21T22:57:49.481Z
 tags:
   - apple
 categories:
@@ -51,10 +51,10 @@ Repairing the damage from a flaw like this is a painfully tedious process that r
 If you know anyone whose job involves administering Windows PCs in a corporate network that uses the CrowdStrike code, you can be confident they are very busy right now, and will be for days to come.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134238/18498" target="_top" id="2134238">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134238" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2012434/19272" target="_top" id="2012434">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012434" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134238/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012434/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## We've seen this movie before
@@ -94,10 +94,10 @@ In the You Can't Make This Up Department… CrowdStrike's founder and CEO, Georg
 What makes the 2024 sequel so much worse is that it also affected Windows-based servers running in the cloud, on Microsoft Azure and on AWS. Just as with the many laptops and desktop PCs that were bricked by this faulty update, the cloud-based servers require time-consuming manual interventions to recover.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151894/7443" target="_top" id="2151894">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151894" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151894/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## CrowdStrike's QA failed
@@ -127,10 +127,10 @@ As part of its initial response, CrowdStrike says it plans to take additional me
 Meanwhile, the United States House of Representatives Homeland Security Committee plans to call CrowdStrike's CEO up for hearings on what went wrong, and CrowdStrike's Chief Security Officer, Shawn Henry, [posted an apology on LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7220983915421806592/), admitting "On Friday, we failed you. ... The confidence we built in drips over the years was lost in buckets within hours, and it was a gut punch."
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997690/19272" target="_top" id="1997690">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997690" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094414/7443" target="_top" id="2094414">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094414" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997690/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094414/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How much fault should Microsoft shoulder?
@@ -181,22 +181,18 @@ Nonetheless, this incident, which caused many billions of dollars' worth of dama
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-forget-youtube-try-these-top-5-video-editor-options-for-2024/"><u>[New] Forget Youtube? Try These Top 5 Video Editor Options for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-humble-beginnings-to-sponsored-success-channels-blueprint/"><u>[New] In 2024, From Humble Beginnings to Sponsored Success Channels' Blueprint</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-go-professional-stay-budgeted-top-4-tutorials-on-creating-green-screen-magic-for-cost-free-learning/"><u>[New] In 2024, Go Professional, Stay Budgeted Top 4 Tutorials on Creating Green Screen Magic for Cost-Free Learning</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-hitting-the-sweet-spot-top-5-tips-for-channel-growth/"><u>[New] In 2024, Hitting the Sweet Spot Top 5 Tips for Channel Growth</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-2024-approved-pixel-perfect-facebook-recording-tools/"><u>[Updated] 2024 Approved Pixel-Perfect Facebook Recording Tools</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-financial-gains-the-youtube-money-flow-from-1m-views-for-2024/"><u>[Updated] Financial Gains The Youtube Money Flow From 1M Views for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-from-gimmicks-to-giants-navigating-popular-short-hashtags-for-2024/"><u>[Updated] From Gimmicks to Giants Navigating Popular Short Hashtags for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-free-yourself-from-paywalls-with-these-subtitle-getters/"><u>[Updated] In 2024, Free Yourself From Paywalls with These Subtitle Getters</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-hourly-highlights-top-10-youtubes-biggest-view-count/"><u>[Updated] In 2024, Hourly Highlights Top 10 YouTube's Biggest View Count</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-mastering-screen-sharing-on-windows-11-via-zoom/"><u>2024 Approved Mastering Screen Sharing on Windows 11 via Zoom</u></a></li>
-<li><a href="https://facebook.techidaily.com/enhancing-visuals-fb-images-with-alt-tags/"><u>Enhancing Visuals: FB Images with Alt Tags</u></a></li>
-<li><a href="https://win-able.techidaily.com/expert-solutions-to-prevent-adobe-premiere-pro-crashing-incidents-on-windows-1110-platforms/"><u>Expert Solutions to Prevent Adobe Premiere Pro Crashing Incidents on Windows 11/10 Platforms</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/from-content-creator-to-brand-ambassador-unlocking-instagram-sponsorship/"><u>From Content Creator to Brand Ambassador Unlocking Instagram Sponsorship</u></a></li>
-<li><a href="https://os-tips.techidaily.com/goodbye-to-apples-pay-later-service-embracing-the-change-with-gratitude/"><u>Goodbye to Apple's Pay Later Service – Embracing the Change with Gratitude</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/mastering-technology-insights-from-toms-hardware-hub/"><u>Mastering Technology Insights From Tom's Hardware Hub</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/my-videos-arent-playing-on-samsung-galaxy-m54-5g-what-can-i-do-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>My Videos Arent Playing on Samsung Galaxy M54 5G – What Can I Do? | Dr.fone</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/prime-selection-top-8-webcams-to-upgrade-streaming/"><u>Prime Selection Top 8 Webcams to Upgrade Streaming</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-2024-approved-ultimate-guide-to-the-finest-3d-blu-ray-equipment/"><u>[New] 2024 Approved Ultimate Guide to the Finest 3D Blu-Ray Equipment</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-hitting-the-high-notes-of-youtube-editing-audio-addition-secrets-revealed-for-2024/"><u>[New] Hitting the High Notes of YouTube Editing Audio Addition Secrets Revealed for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-free-youtube-extractors-a-comprehensible-guide-for-beginners/"><u>[Updated] 2024 Approved Free YouTube Extractors A Comprehensible Guide for Beginners</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-navigating-gradual-audio-reduction-in-digital-studios/"><u>[Updated] 2024 Approved Navigating Gradual Audio Reduction in Digital Studios</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-harness-the-power-of-youtube-video-for-stunning-gif-masterpieces/"><u>[Updated] In 2024, Harness the Power of YouTube Video for Stunning GIF Masterpieces</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-high-level-behavior-tips-for-youtube-users/"><u>[Updated] In 2024, High-Level Behavior Tips for YouTube Users</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-download-youtube-thumbnail-in-3-waysonlinewinmac/"><u>[Updated] In 2024, How to Download Youtube Thumbnail in 3 Ways [Online/Win/Mac]</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-master-the-art-of-photo-editing-unveiling-pixlrs-power/"><u>[Updated] Master the Art of Photo Editing Unveiling Pixlr's Power</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/all-things-you-need-to-know-about-wipe-datafactory-reset-for-lava-blaze-2-pro-drfone-by-drfone-reset-android-reset-android/"><u>All Things You Need to Know about Wipe Data/Factory Reset For Lava Blaze 2 Pro | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/artists-legal-battles-opposing-openai-and-meta-in-ai-controversy/"><u>Artists' Legal Battles: Opposing OpenAI & Meta in AI Controversy</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/boost-brand-visibility-with-smart-strategies-in-instagram-videos-for-2024/"><u>Boost Brand Visibility with Smart Strategies in Instagram Videos for 2024</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-which-is-the-best-fake-gps-joystick-app-on-nokia-105-classic-drfone-by-drfone-virtual-android/"><u>In 2024, Which is the Best Fake GPS Joystick App On Nokia 105 Classic? | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/the-magnificent-art-of-pokemon-go-streaming-on-honor-x50-gt-drfone-by-drfone-virtual-android/"><u>The Magnificent Art of Pokemon Go Streaming On Honor X50 GT? | Dr.fone</u></a></li>
 </ul></div>
 

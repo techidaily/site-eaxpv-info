@@ -1,7 +1,7 @@
 ---
 title: "Unlocking Storage: A Step-by-Step Guide to Clear Your iPhone Memory & Save GBs | Tech Insights"
-date: 2024-10-15T08:41:06.309Z
-updated: 2024-10-15T17:47:20.309Z
+date: 2024-10-18T00:40:16.914Z
+updated: 2024-10-21T19:04:54.211Z
 tags:
   - apple
 categories:
@@ -31,10 +31,10 @@ If you want to follow along, you'll need to install the iOS 18 public beta on an
 ## How to customize your iPhone's new Control Center with iOS 18
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049390/7443" target="_top" id="2049390">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049390" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082533/7443" target="_top" id="2082533">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082533" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049390/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082533/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 1\. Access Control Center
@@ -51,24 +51,31 @@ Screenshot by Lance Whitney/ZDNET
 
 **Also: [Every iPhone model that can be updated to Apple's iOS 18 (and which ones can't)](https://www.zdnet.com/article/every-iphone-model-that-can-be-updated-to-apples-ios-18-and-which-ones-cant/)**
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123736/7443" target="_top" id="2123736">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123736" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123736/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Resize a control
 
 After tapping the plus icon, some controls sport a gray curved handle in the lower-right corner. This means you can resize the control's icon. Drag the handle and move it up, down, or diagonally. Release it when the icon is the size you wish.
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137229/26400" target="_top" id="2137229">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137229" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137229/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Delete a control
 
 Next, you can directly delete a control you don't need or want. With the icons in edit mode, tap the minus sign for the icon you want to remove. When the icon is deleted, the surrounding icons should move to fill up the gap.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934258/19272" target="_top" id="1934258">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934258" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934258/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 5\. Add a control to an existing screen
 
@@ -78,13 +85,6 @@ Screenshot by Lance Whitney/ZDNET
 
 **Also: [I did not expect this iOS 18 feature announced at WWDC to be my favorite (and it's not AI)](https://www.zdnet.com/article/i-did-not-expect-this-ios-18-feature-announced-at-wwdc-to-be-my-favorite-and-its-not-ai/)**
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 6\. Add a control to a new screen
 
 If the current screens are already filled with icons, you can set up additional screens to hold more controls. Swipe down to the last screen, which shouldn't have any free space. Tap the plus icon and then tap "Add a Control." Again, browse or search for the control you wish to add. Tap that control, and it should appear in a new screen. You can continue adding more controls to the new screen this way. You can create as many as 15 screens, though you'll probably want to stop before you reach that number.
@@ -92,10 +92,10 @@ If the current screens are already filled with icons, you can set up additional 
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014854/22899" target="_top" id="2014854">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014854" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137218/26400" target="_top" id="2137218">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137218" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014854/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137218/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 7\. Power down from Control Center
@@ -134,20 +134,16 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-get-free-stock-footage-from-these-4-youtube-channels/"><u>[New] 2024 Approved Get Free Stock Footage From These 4 YouTube Channels</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-harvest-cost-free-visuals-from-leading-4-youtube-hubs/"><u>[New] 2024 Approved Harvest Cost-Free Visuals From Leading 4 YouTube Hubs</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-historical-deep-dives-from-youtubes-most-impactful-creators/"><u>[New] 2024 Approved Historical Deep Dives From YouTube's Most Impactful Creators</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-strategically-use-tags-for-youtube-success/"><u>[New] 2024 Approved How to Strategically Use Tags for YouTube Success</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-how-much-money-can-you-make-via-youtube-ad-revenue-and-cpm-rates-for-2024/"><u>[New] How Much Money Can You Make via YouTube Ad Revenue and CPM Rates for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-global-streaming-giants-face-off-facebook-live-youtube-live-periscope/"><u>[Updated] 2024 Approved Global Streaming Giants' Face-Off Facebook Live, YouTube Live, Periscope</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-in-2024-essential-mobile-media-creation-tools-iphone-vs-android-review/"><u>[Updated] In 2024, Essential Mobile Media Creation Tools IPhone vs Android Review</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-raw-footage-to-polished-highlights/"><u>[Updated] In 2024, From Raw Footage to Polished Highlights</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-the-art-of-bio-storytelling-on-social-media-platforms/"><u>[Updated] The Art of Bio Storytelling on Social Media Platforms</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/how-to-factory-reset-ipad-or-apple-iphone-11-pro-max-without-icloud-password-or-apple-id-by-drfone-ios/"><u>How to Factory Reset iPad or Apple iPhone 11 Pro Max without iCloud Password or Apple ID?</u></a></li>
-<li><a href="https://games-able.techidaily.com/how-to-nullify-a-costly-fortnite-acquisition-and-regain-funds/"><u>How to Nullify a Costly Fortnite Acquisition and Regain Funds</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-ipogo-will-be-the-new-ispoofer-on-realme-c33-2023-drfone-by-drfone-virtual-android/"><u>In 2024, iPogo will be the new iSpoofer On Realme C33 2023? | Dr.fone</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-mastering-youtube-ultimate-guide-to-live-360-degree-streams/"><u>In 2024, Mastering YouTube Ultimate Guide to Live 360-Degree Streams</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/in-2024-obs-optimization-for-seamless-fb-broadcasting/"><u>In 2024, OBS Optimization for Seamless FB Broadcasting</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/selecting-supreme-keyboard-wrist-supports-the-best-picks-for-a-healthy-2024/"><u>Selecting Supreme Keyboard Wrist Supports - The Best Picks for a Healthy 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-first-foray-into-fashionable-mac-made-videos-for-youtube/"><u>[New] In 2024, First Foray Into Fashionable Mac-Made Videos for YouTube</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-tips-and-tricks-for-efficient-use-of-steams-switch-controllers-for-2024/"><u>[New] Tips & Tricks for Efficient Use of Steam’s Switch Controllers for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-seamlessly-reorganize-video-playlists-on-yt/"><u>[Updated] 2024 Approved How to Seamlessly Reorganize Video Playlists on YT</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-free-vs-paid-youtubes-exclusive-picks-for-superior-opening-tutorials-for-2024/"><u>[Updated] Free vs Paid YouTube's Exclusive Picks for Superior Opening Tutorials for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-gourmet-gurus-who-you-should-subscribe-to/"><u>[Updated] In 2024, Gourmet Gurus Who You Should Subscribe To</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-view-youtube-statistics/"><u>[Updated] In 2024, How to View YouTube Statistics?</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-honor-magic-6-pro-phone-forgot-password-by-drfone-android-unlock-android-unlock/"><u>How to Unlock Honor Magic 6 Pro Phone Forgot Password</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/inside-look-apples-vision-of-camera-equipped-airpods-expected-in-2026-insights/"><u>Inside Look: Apple's Vision of Camera-Equipped AirPods Expected in 2026 - Insights</u></a></li>
+<li><a href="https://fake-location.techidaily.com/is-pgsharp-legal-when-you-are-playing-pokemon-on-oppo-reno-11-5g-drfone-by-drfone-virtual-android/"><u>Is pgsharp legal when you are playing pokemon On Oppo Reno 11 5G? | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/sony-a6400-video-failure-what-to-do-next-in-2024/"><u>Sony A6400 Video Failure What To Do Next, In 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-directions-for-watching-lord-of-the-rings-saga-in-proper-sequence/"><u>Step-by-Step Directions for Watching 'Lord of the Rings' Saga in Proper Sequence</u></a></li>
 </ul></div>
 
