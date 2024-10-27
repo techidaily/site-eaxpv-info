@@ -1,7 +1,7 @@
 ---
 title: "Top Cellphones Endorsed by ZDNet Editors: Real-World Usage Revealed"
-date: 2024-10-17T21:06:22.957Z
-updated: 2024-10-21T23:23:17.472Z
+date: 2024-10-21T17:15:39.883Z
+updated: 2024-10-27T20:51:55.159Z
 tags:
   - apple
 categories:
@@ -104,13 +104,20 @@ Cons
 
 Show Expert Take Show less 
 
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2141688/17094" target="_top" id="2141688">
+  <img src="//a.impactradius-go.com/display-ad/17094-2141688" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141688/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## iPhone SE (2020)
 
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1828647/21290" target="_top" id="1828647">
-  <img src="//a.impactradius-go.com/display-ad/21290-1828647" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2006946/19272" target="_top" id="2006946">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006946" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1828647/21290" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006946/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Greg Nichols, Aimee Chanthadavong, and David Grober
@@ -141,6 +148,13 @@ Cons
 
 ## iPhone 12
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135414/19272" target="_top" id="2135414">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135414" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135414/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Chris Matyszczyk
 
 **Chris Matyszczyk:** My XR became heavy and cumbersome. It had begun to fade. I saw the 12's blue color and thought it might be fetching. And then an Apple store employee took the time to talk me into the 12, just when I was at my weakest.
@@ -158,13 +172,6 @@ Cons
 * Fast performance New camera features Strong battery life
 
 ## iPhone 11 Pro
-
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/1943647/22993" target="_top" id="1943647">
-  <img src="//a.impactradius-go.com/display-ad/22993-1943647" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943647/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Ed Bott
 
@@ -208,6 +215,13 @@ Show less
 
 ## Huawei P20 Pro
 
+<!-- affiliate ads begin -->
+<a href="https://bluettiit.sjv.io/c/5597632/2148127/17093" target="_top" id="2148127">
+  <img src="//a.impactradius-go.com/display-ad/17093-2148127" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148127/17093" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Federico Guerrini
 
 **Federico Guerrini:** Very good phone for its price (I bought it for 280 euros). Good camera, nice display, handy format. I bought it before the ban, so no problem with Google apps, etc. The charger is very fast, in half an hour it goes from 0% to almost 50%. I'm not very concerned about Huawei spying on me, but just in case, I have other phones on which I installed Ubuntu Touch for the "sensitive" calls. ;)
@@ -225,10 +239,10 @@ Cons
 ## iPhone XR
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027181/19272" target="_top" id="2027181">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027181" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/1062447/7443" target="_top" id="1062447">
+  <img src="//a.impactradius-go.com/display-ad/7443-1062447" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027181/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062447/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Damian Radcliffe, Angelica Mari, and Sean Portnoy
@@ -253,36 +267,22 @@ Show Expert Take Show less
 
 ###   
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135366/19272" target="_top" id="2135366">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135366" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135366/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ###   
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014850/22899" target="_top" id="2014850">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014850" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014850/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## iPhone X
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123508/26400" target="_top" id="2123508">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123508" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123508/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Robin Harris
 
 I have a Moment wide-angle lens and case, which gives me the tech I need for landscape photography. There's a lot of landscape where I live, and picturing it never gets old. I keep looking at the newer iPhones each year, but things like a wider lens and low-light performance aren't hot buttons. I haven't used my Canon DSLR in years. 
 
 **Next phone or dream phone?** iPhone 13 or 14 Pro Max. Folding iPhone? I like a big screen as long as it will fit in a shirt pocket, and Moment makes a case for it. Not sure I'd be up for the extra fiddling a folding iPhone would require, but it would likely replace my iPad Mini. 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135373/19272" target="_top" id="2135373">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135373" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135373/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ###   
 
@@ -293,6 +293,13 @@ Pros
 
 Cons 
 * Best smartphone display Worthwhile camera improvements Battery life is solid
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934138/19272" target="_top" id="1934138">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934138" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934138/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## iPhone XS Max
 
@@ -306,13 +313,6 @@ Show Expert Take Show less
 
 ## iPhone 7 Plus
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938750/19272" target="_top" id="1938750">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938750" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938750/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Tiernan Ray
 
 Purchased in 2016, I've had no reason to upgrade in four years. The thing does a perfectly fine, which is to say, in Apple's case, fairly mediocre job of calling and texting and apps. I never take my phone out of my pocket, usually use it with AirPods, so I don't care about screen size or resolution upgrades. I have an actual digital camera, so I don't care about digital camera upgrades.
@@ -320,19 +320,6 @@ Purchased in 2016, I've had no reason to upgrade in four years. The thing does a
 **Next phone or dream phone?** Apple Watch Series 13\. It would just be a stylish wireless transceiver for the AirPods. Never worry about leaving the phone somewhere by accident because it's always on the wrist! 
 
 ## iPhone 6s Plus
-
-<!-- affiliate ads begin -->
-<span id="1328679">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1328679.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1328679">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328679.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328679%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328679/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### David Gewirtz and Iliana Meir
 
@@ -357,6 +344,13 @@ Yes, I am indeed still clinging to the phone that made me love phablets, upgrade
 Show less 
 
 ## Samsung Galaxy Note 8
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896505/19272" target="_top" id="1896505">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896505" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896505/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Charles McLellan
 
@@ -398,17 +392,20 @@ Show Expert Take Show less
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-free-mcb-theme-images-templates-and-more/"><u>[New] 2024 Approved Free MCB Theme Images, Templates & More</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-free-converters-at-your-fingertenaside-download-and-enjoy-videos-anywhere-for-2024/"><u>[New] Free Converters at Your Fingertenaside Download & Enjoy Videos Anywhere for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-video-views-to-vault-closure-income-insights-for-youtubers/"><u>[New] In 2024, From Video Views to Vault Closure Income Insights for Youtubers</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-from-novice-to-pro-an-extensive-guide-on-using-zd-softs-recording-features-for-2024/"><u>[Updated] From Novice to Pro An Extensive Guide on Using ZD Soft’s Recording Features for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-full-circle-from-vocaloids-to-live-streamers-success-for-2024/"><u>[Updated] Full Circle From Vocaloids to Live Streamers' Success for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-harness-youtubes-potential-with-these-top-5-video-marketing-techniques-for-2024/"><u>[Updated] Harness YouTube’s Potential with These #Top 5 Video Marketing Techniques for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/1721429031447-cyber-savvy-needed-recognize-authenticity-in-tech-titles/"><u>Cyber Savvy Needed: Recognize Authenticity in Tech Titles</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-list-of-pokemon-go-joysticks-on-vivo-s17t-drfone-by-drfone-virtual-android/"><u>In 2024, List of Pokémon Go Joysticks On Vivo S17t | Dr.fone</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/reconciling-service-misalignment-in-chatgpts-external-links/"><u>Reconciling Service Misalignment in ChatGPT's External Links</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/the-magnificent-art-of-pokemon-go-streaming-on-nokia-c02-drfone-by-drfone-virtual-android/"><u>The Magnificent Art of Pokemon Go Streaming On Nokia C02? | Dr.fone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/unveiling-the-power-of-grading-insights-from-dr-john-doe-for-2024/"><u>Unveiling the Power of Grading Insights From Dr. John Doe for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/whats-the-best-gaming-audio-a-guide-to-iems/"><u>What's the Best Gaming Audio? A Guide to IEMs</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-elevate-viewership-3-key-storytelling-approaches/"><u>[New] 2024 Approved Elevate Viewership 3 Key Storytelling Approaches</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-enhancing-your-stream-5-key-techniques-for-gamers-for-2024/"><u>[New] Enhancing Your Stream 5 Key Techniques for Gamers for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-how-to-become-a-youtube-partner-you-need-10000-views-now-for-2024/"><u>[New] How to Become a YouTube Partner - You Need 10,000 Views Now for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-leading-video-kick-offs-the-best-16-youtube-vlogs-to-increase-views/"><u>[New] Leading Video Kick-Offs The Best 16 YouTube Vlogs to Increase Views</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-does-youtube-count-views-its-not-as-simple-as-you-think/"><u>[Updated] 2024 Approved How Does YouTube Count Views? It's Not as Simple as You Think</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-transform-your-igtv-videos-tips-for-impactful-titles-and-summaries/"><u>[Updated] 2024 Approved Transform Your IGTV Videos Tips for Impactful Titles & Summaries</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-elevate-your-videos-with-youtube-studios-editing-mastery-for-2024/"><u>[Updated] Elevate Your Videos with YouTube Studio's Editing Mastery for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-seamlessly-reorganize-video-playlists-on-yt-for-2024/"><u>[Updated] How to Seamlessly Reorganize Video Playlists on YT for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-premier-fifa-vids-data-visualized-for-social-media/"><u>[Updated] Premier FIFA Vids Data Visualized for Social Media</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-advanced-techniques-in-xbox-gaming-recording-setup/"><u>2024 Approved Advanced Techniques in Xbox Gaming Recording Setup</u></a></li>
+<li><a href="https://apple-account.techidaily.com/apple-id-unlock-from-iphone-11-pro-max-how-to-fix-it-by-drfone-ios/"><u>Apple ID Unlock From iPhone 11 Pro Max? How to Fix it?</u></a></li>
+<li><a href="https://techidaily.com/cookiebot-enabled-optimize-your-site-with-our-innovative-tracking-technology/"><u>Cookiebot-Enabled: Optimize Your Site with Our Innovative Tracking Technology</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/preparation-to-beat-giovani-in-pokemon-go-for-asus-rog-phone-7-ultimate-drfone-by-drfone-virtual-android/"><u>Preparation to Beat Giovani in Pokemon Go For Asus ROG Phone 7 Ultimate | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/resolving-frustrating-apex-legends-crashes-in-win11/"><u>Resolving Frustrating Apex Legends Crashes in Win11</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/unlock-your-device-icloud-dns-bypass-explained-and-tested-plus-easy-alternatives-from-iphone-13-mini-by-drfone-ios/"><u>Unlock Your Device iCloud DNS Bypass Explained and Tested, Plus Easy Alternatives From iPhone 13 mini</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: AirPods Pro 3 Unveiled as Smart Fitness Partners with Heart Monitoring Features | Expert Analysis at ZDNET
-date: 2024-10-19T20:07:54.917Z
-updated: 2024-10-21T20:32:29.478Z
+date: 2024-10-26T19:23:52.997Z
+updated: 2024-10-27T20:53:38.712Z
 tags:
   - apple
 categories:
@@ -71,10 +71,10 @@ For example, the Apple Watch's thermometer, which is currently only [used for fe
 The company is also reportedly seeking health regulatory approval to interpret blood oxygen data. Right now, the Watch shows users oxygen blood data without telling them what it means. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037356/7443" target="_top" id="2037356">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037356" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2044586/7443" target="_top" id="2044586">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044586" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037356/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044586/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## AirPods
@@ -90,10 +90,10 @@ According to the report, if all goes to plan, AirPods will be able to double as 
 Additionally, the AirPods will be able to perform hearing tests that are typically performed in an audiologist's office, which will make it simpler for users to access care without leaving their homes. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938750/19272" target="_top" id="1938750">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/863035/11832" target="_top" id="863035">
+  <img src="//a.impactradius-go.com/display-ad/11832-863035" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938750/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/863035/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Vision Pro
@@ -142,20 +142,17 @@ Lastly, a headset version of Fitness+ might appear, so long as Apple can figure 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-find-your-way-to-youtube-studio-a-comprehensive-overview-for-2024/"><u>[New] Find Your Way to YouTube Studio A Comprehensive Overview for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-frontier-visionaries-merging-media-triad-for-2024/"><u>[New] Frontier Visionaries Merging Media Triad for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-fast-revenues-forecasting-toolkit-for-vids/"><u>[New] In 2024, Fast Revenues Forecasting Toolkit for Vids</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-global-leaderboard-top-subscribers-by-youtube-star/"><u>[Updated] 2024 Approved Global Leaderboard Top Subscribers by YouTube Star</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-flipping-the-script-mobile-filmmaking-and-youtube-thumbnail-tricks-for-2024/"><u>[Updated] Flipping the Script Mobile Filmmaking & YouTube Thumbnail Tricks for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-finding-the-central-node-of-youtube-video-management/"><u>[Updated] In 2024, Finding the Central Node of YouTube Video Management</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-make-money-on-youtube-shorts-effective-practical-ways/"><u>[Updated] In 2024, How to Make Money on YouTube Shorts? [Effective Practical Ways]</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-in-2024-ideas-for-soundless-video-preservation/"><u>[Updated] In 2024, Ideas for Soundless Video Preservation</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/crafting-viral-videos-how-to-excel-in-youtubers-music-reactions-for-2024/"><u>Crafting Viral Videos How to Excel in Youtubers' Music Reactions for 2024</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/how-to-bypass-iphone-7-plus-face-id-by-drfone-ios-unlock-ios-unlock/"><u>How to Bypass iPhone 7 Plus Face ID?</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-short-form-script-template/"><u>In 2024, Short-Form Script Template</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-4-ways-to-trace-oppo-find-n3-location-drfone-by-drfone-virtual-android/"><u>In 2024, Top 4 Ways to Trace Oppo Find N3 Location | Dr.fone</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/reducing-audio-dynamics-in-live-sessions-for-2024/"><u>Reducing Audio Dynamics in LIVE Sessions for 2024</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-windows-10-video-editing-software-best-imovie-alternatives/"><u>Updated In 2024, Windows 10 Video Editing Software Best iMovie Alternatives</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/youtubes-journey-seamlessly-converted-into-high-quality-avis-for-2024/"><u>YouTube's Journey Seamlessly Converted Into High-Quality AVIs for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-harvest-happiness-best-agricultural-titles-to-play-with-friends-for-2024/"><u>[New] Harvest Happiness Best Agricultural Titles to Play With Friends for 2024</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-in-2024-amazon-primes-social-success-stories-likes-and-watches-galore/"><u>[New] In 2024, Amazon Prime’s Social Success Stories Likes & Watches Galore</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-facebook-registration-simplified/"><u>[Updated] 2024 Approved Facebook Registration Simplified</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-in-2024-media-meld-space/"><u>[Updated] In 2024, Media Meld Space</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-tech-picks-leading-drone-gimbals/"><u>2024 Approved Tech Picks Leading Drone Gimbals</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/heicjpegmacx-mediatrans/"><u>業界最初のHEICからJPEGへの高速変換：MacX MediaTransで画像保存・加工を容易化</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/elevating-gameplay-quality-comprehensive-tips-for-overcoming-fps-drops-and-increasing-frame-rates-in-gaming-pcs/"><u>Elevating Gameplay Quality: Comprehensive Tips for Overcoming FPS Drops and Increasing Frame Rates in Gaming PCs</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-unlocking-the-power-of-smart-lock-a-beginners-guide-for-tecno-camon-20-pro-5g-users-by-drfone-android/"><u>In 2024, Unlocking the Power of Smart Lock A Beginners Guide for Tecno Camon 20 Pro 5G Users</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/mac-dvd-ripper-iphoneipadappletvmp4dvd/"><u>Mac用 DVD Ripper - iPhone、iPad、AppleTV、MP4への簡単DVDコピーガイド</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/step-by-step-guide-transferring-your-dvd-collection-onto-icloud/"><u>Step-by-Step Guide: Transferring Your DVD Collection Onto iCloud</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/transform-avi-files-into-mp4-quickly-and-easily-on-mac-the-best-6-methods-unveiled/"><u>Transform AVI Files Into MP4 Quickly & Easily on Mac: The Best 6 Methods Unveiled!</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/watching-hd-mkv-files-on-your-apple-tv-a-guide-to-direct-playback-and-easy-conversion-methods/"><u>Watching HD MKV Files on Your Apple TV: A Guide to Direct Playback & Easy Conversion Methods</u></a></li>
 </ul></div>
 

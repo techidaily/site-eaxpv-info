@@ -1,7 +1,7 @@
 ---
 title: "In-Depth Review & Comparison: Is It Time to Upgrade From M2 to M3 MacBook Air? Insights for Buyers | ZDNET"
-date: 2024-10-20T22:13:19.760Z
-updated: 2024-10-21T21:46:00.036Z
+date: 2024-10-22T16:39:08.144Z
+updated: 2024-10-27T17:45:05.036Z
 tags:
   - apple
 categories:
@@ -59,10 +59,10 @@ But if pricing impacts your buying decision, then the similarly-designed iPad Ai
 Image: Apple
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123748/7443" target="_top" id="2123748">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123748" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043639/7443" target="_top" id="2043639">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043639" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123748/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043639/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 1\. You're ready to embrace Apple's M1 supremacy
@@ -79,6 +79,13 @@ Camera performance isn't typically the key selling point for tablets, let alone 
 
 While the 12MP rear camera remains untouched, the front now houses a 12MP ultra-wide camera. With a wider field of view than the previous generation's 7MP FaceTime HD lens, the new iPad can take advantage of Center Stage, Apple's webcam feature that tracks and follows your face as you move around. This is particularly useful for presentations and FaceTime calls with friends and family.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137221/26400" target="_top" id="2137221">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137221" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137221/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 3\. You thrive on 5G
 
 Apple didn't leave the possibility of 5G up in the air with the latest iPad model. Though not mmWave 5G, the sub-6 GHz bands on the iPad Air 5 allow you to dial into the 5th-generation network and access faster download speeds than the 4G LTE of the iPad Air 4\. 
@@ -91,18 +98,18 @@ You will, of course, need to be under a 5G data plan, have the appropriate nano-
 
 Image: Apple
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918698/19272" target="_top" id="1918698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918698" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 1\. Price comes before anything else
 
 With the release of the new iPad Air, most third-party retailers have since marked down the 2020 model as a means to clear out inventory. The winner of this sequence is you, the consumer. At the time of writing, the iPad Air 4 can be had for as low as [$429](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FApple-10-9-inch-Cellular-Generation-Renewed%2Fdp%2FB08PF8HCDJ%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cc2f96935-50b5-4c02-9352-a589939a7557%7Cdtp&dtb=1), less if you opt for an open-market retailer like eBay. That's more than a $150 difference compared to the new iPad Air 5 which, in a snapshot, only wins out on 5G, the front-facing camera, and processing power. If one, two, or even all three of those aspects are not on your priority list of features, then opting for the older iPad Air may be the best play here. 
 
 [Apple iPad Air (2020) $421.79 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB08J66ZMY7%3FlinkCode%3Dogi%26th%3D1%26psc%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cc2f96935-50b5-4c02-9352-a589939a7557%7Cdtp&dtb=1)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012420/19272" target="_top" id="2012420">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012420" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012420/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## FAQ
 
@@ -111,10 +118,10 @@ With the release of the new iPad Air, most third-party retailers have since mark
 You should buy the iPad Air 5 (2022) if you're looking to upgrade to the Apple M1 chip, you want a better front camera and FaceTime experience, or you want to upgrade to a 5G iPad. You should get the iPad Air 4 (2020) if the price comes before anything else. Many retailers are lowering their prices of the older iPad 4 model to clear inventory, making the 2020 model the more cost-effective iPad of the two.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148771/18498" target="_top" id="2148771">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148771" border="0" alt="https://techidaily.com" width="350" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151860/7443" target="_top" id="2151860">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151860" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148771/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151860/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Does the Apple Pencil (1st Gen) work with the iPad Air?
@@ -122,13 +129,6 @@ You should buy the iPad Air 5 (2022) if you're looking to upgrade to the Apple M
 The 1st-gen Apple Pencil is not compatible with either of the two iPad Air models mentioned in this article. Instead, you'll have to buy Apple's 2nd-gen stylus, which uses USB-C for charging and pairing, for the newer tablets.
 
 Our [guide to finding the right Apple Pencil and how to pair it](https://www.zdnet.com/article/how-to-pair-and-charge-your-apple-pencil/) breaks down the full list of compatible devices.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151866/7443" target="_top" id="2151866">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151866" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151866/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## What's the best alternative to the iPad Air?
 
@@ -170,16 +170,22 @@ If you're still on the fence, below are the best alternatives to the iPad Air.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-free-mobile-downloader-the-ultimate-apps-for-video-buffs-for-2024/"><u>[New] Free Mobile Downloader The Ultimate Apps for Video Buffs for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-fusing-your-content-creation-with-youtube-and-tiktok-synergy/"><u>[Updated] 2024 Approved Fusing Your Content Creation with YouTube & TikTok Synergy</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-fix-confirmed-shorts-are-showing-up/"><u>[Updated] In 2024, Fix Confirmed Shorts Are Showing Up</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-raw-footage-to-engaging-content-streamlining-video-edits-on-windows/"><u>[Updated] In 2024, From Raw Footage to Engaging Content Streamlining Video Edits on Windows</u></a></li>
-<li><a href="https://driver-install.techidaily.com/assist-users-in-installing-amd-graphics-drivers/"><u>Assist Users in Installing AMD Graphics Drivers</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/bypass-icloud-activation-lock-with-imei-code-from-apple-iphone-11-pro-by-drfone-ios/"><u>Bypass iCloud Activation Lock with IMEI Code From Apple iPhone 11 Pro</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/eliminating-visual-wrongs-after-win11-transition/"><u>Eliminating Visual Wrongs After Win11 Transition</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-apple-iphone-13-mini-without-passcode-or-face-id-drfone-by-drfone-ios/"><u>How to Unlock Apple iPhone 13 mini without Passcode or Face ID | Dr.fone</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-mac-video-maker-effortless-slideshow-creation-for-macos-users/"><u>New In 2024, Mac Video Maker Effortless Slideshow Creation for macOS Users</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolving-the-issue-understanding-and-fixing-cod-wwii-error-code-4220/"><u>Resolving the Issue: Understanding and Fixing COD WWII Error Code 4220</u></a></li>
-<li><a href="https://solve-hot.techidaily.com/step-by-step-guide-reviving-your-device-with-an-asus-recovery-key-on-system-failure/"><u>Step-by-Step Guide: Reviving Your Device with an Asus Recovery Key on System Failure</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-2024-approved-top-10-premium-luts-available-for-free/"><u>[Updated] 2024 Approved Top 10 Premium LUTs, Available for FREE</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-best-live-stream-tools-xsplit-or-obs/"><u>[Updated] Best Live Stream Tools XSplit or OBS?</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-crafting-captivating-content-the-power-of-hashtagging-in-gaming-yt-for-2024/"><u>[Updated] Crafting Captivating Content The Power of Hashtagging in Gaming YT for 2024</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-edge-of-insanity-the-10-most-chaotic-tiktok-contests/"><u>[Updated] Edge of Insanity The 10 Most Chaotic TikTok Contests</u></a></li>
+<li><a href="https://techidaily.com/complete-tutorial-for-xiaomi-redmi-12-5g-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Complete Tutorial for Xiaomi Redmi 12 5G Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/exclusive-offer-save-an-extra-200-on-the-high-performance-alienware-rtx-4070-super-desktop-priced-at-1699/"><u>Exclusive Offer! Save an Extra $200 on the High-Performance Alienware RTX 4070 Super Desktop Priced at $1,699</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/expert-picks-leading-karaoke-machines-making-waves/"><u>Expert Picks: Leading Karaoke Machines Making Waves</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/geekom-unveils-compact-powerhouse-ax8-mini-computer-boasting-13th-gen-intel-and-ryzen-7000-processors/"><u>GeekOm Unveils Compact Powerhouse: AX8 Mini Computer Boasting 13Th Gen Intel & Ryzen 7000 Processors</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/gta-5-online-problems-expert-guide-to-solving-connection-errors/"><u>GTA 5 Online Problems? Expert Guide to Solving Connection Errors</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-remove-screen-lock-pin-on-tecno-phantom-v-flip-like-a-pro-5-easy-ways-by-drfone-android/"><u>How To Remove Screen Lock PIN On Tecno Phantom V Flip Like A Pro 5 Easy Ways</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-3-things-you-must-know-about-fake-snapchat-location-on-honor-magic-6-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Things You Must Know about Fake Snapchat Location On Honor Magic 6 | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-what-does-enter-puk-code-mean-and-why-did-the-sim-get-puk-blocked-on-itel-p55plus-device-by-drfone-android/"><u>In 2024, What Does Enter PUK Code Mean And Why Did The Sim Get PUK Blocked On Itel P55+ Device</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/iphone-13-assessment-in-depth-analysis/"><u>IPhone 13 Assessment: In-Depth Analysis</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/limited-offer-alienware-aurora-r16-upgrade-rtx-4080-super-and-i9-14900kf-at-a-500-discount/"><u>Limited Offer: Alienware Aurora R16 Upgrade - RTX 4080 Super & I9-14900KF at a $500 Discount</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/prime-captures-of-apples-hd-video-screenshots-under-156-chars/"><u>Prime Captures of Apple's HD Video Screenshots (Under 156 Chars)</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/qualcomm-unveils-a-new-era-of-desktop-computing-the-economical-snapdragon-x-mini-dev-kit-preorders-open/"><u>Qualcomm Unveils a New Era of Desktop Computing – The Economical Snapdragon X Mini Dev Kit, Preorders Open</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/synthesizing-scenery-da-vincis-cutting-edge-imagery-prompts/"><u>Synthesizing Scenery: Da Vinci's Cutting-Edge Imagery Prompts</u></a></li>
 </ul></div>
 

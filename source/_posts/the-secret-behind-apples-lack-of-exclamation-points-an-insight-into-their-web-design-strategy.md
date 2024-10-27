@@ -1,7 +1,7 @@
 ---
 title: "The Secret Behind Apple's Lack of Exclamation Points: An Insight Into Their Web Design Strategy"
-date: 2024-10-19T20:56:05.666Z
-updated: 2024-10-21T18:30:40.243Z
+date: 2024-10-21T18:01:52.083Z
+updated: 2024-10-27T18:12:12.573Z
 tags:
   - apple
 categories:
@@ -69,16 +69,10 @@ Yet no need for an exclamation point because, presumably, you already get the po
 But some tech companies still insist that their wares deserve some sort of exclamatory explanatory. It's a truly interesting phenomenon.
 
 <!-- affiliate ads begin -->
-<span id="2135471">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135471.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135471">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135471%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135471/18498" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134236/18498" target="_top" id="2134236">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134236" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134236/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## The big startup exclamatory experiment
@@ -138,10 +132,10 @@ Screenshot by Chris Matyszczyk/ZDNET
 Oh!
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925489/19272" target="_top" id="1925489">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925489" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082542/7443" target="_top" id="2082542">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082542" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925489/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082542/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## The majority knows it's serious
@@ -163,10 +157,10 @@ I'm sure the management is excited about its product. I'm sure the product offer
 I'm equally sure that the lack of an exclamation point makes the products seem more, well, serious and important.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886048/19272" target="_top" id="1886048">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886048" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886048/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Sell, don't shout
@@ -223,21 +217,24 @@ It worked for Apple. (I'm not sure the opposite worked quite so well for Yahoo!)
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-2024-approved-direct-screen-capture-chrome-os-tool/"><u>[New] 2024 Approved Direct Screen Capture Chrome OS Tool</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/new-create-dramatic-effects-top-strategies-for-epic-gopro-videos/"><u>[New] Create Dramatic Effects Top Strategies for Epic GoPro Videos</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-first-timer-finds-low-cost-high-return-monetized-youtube-sites-for-2024/"><u>[New] First-Timer Finds Low-Cost, High-Return Monetized YouTube Sites for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-novice-to-vlogger-the-top-10-editing-techniques/"><u>[New] In 2024, From Novice to Vlogger The Top 10 Editing Techniques</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-guide-to-consolidating-your-youtube-video-collection/"><u>[New] In 2024, Guide to Consolidating Your YouTube Video Collection</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-harmonizing-tracks-in-youtube-music-for-2024/"><u>[Updated] Harmonizing Tracks in YouTube Music for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-hidden-gems-on-youtube-understanding-unlisted-videos-for-2024/"><u>[Updated] Hidden Gems on YouTube Understanding 'Unlisted' Videos for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-finalcut-pro-tutorials-for-top-tier-youtube-video-editing/"><u>[Updated] In 2024, FinalCut Pro Tutorials for Top-Tier YouTube Video Editing</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-unseen-reader-fb-moments-watcher/"><u>[Updated] In 2024, Unseen Reader FB Moments Watcher</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-turning-youtube-shorts-into-a-money-machine-essentials-and-earnings-prospects/"><u>[Updated] Turning YouTube Shorts Into a Money Machine Essentials and Earnings Prospects</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-top-photo-browser-with-lightning-speed/"><u>2024 Approved Top Photo Browser with Lightning Speed</u></a></li>
-<li><a href="https://location-fake.techidaily.com/4-methods-to-turn-off-life-360-on-xiaomi-redmi-note-12-pro-4g-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>4 Methods to Turn off Life 360 On Xiaomi Redmi Note 12 Pro 4G without Anyone Knowing | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-vivo-y100a-to-any-ios-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Vivo Y100A to Any iOS Devices | Dr.fone</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-7-top-ways-to-resolve-apple-id-not-active-issue-for-apple-iphone-12-pro-max-by-drfone-ios/"><u>In 2024, 7 Top Ways To Resolve Apple ID Not Active Issue For Apple iPhone 12 Pro Max</u></a></li>
-<li><a href="https://android-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-motorola-moto-g73-5gfrp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your Motorola Moto G73 5GFRP Lock</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/resolving-recurring-sound-cutouts-in-windows-10-detailed-solutions/"><u>Resolving Recurring Sound Cutouts in Windows 10 - Detailed Solutions!</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-2024-approved-dji-drones-collection-entry-grade-premium-pro-elite-4k-flight/"><u>[New] 2024 Approved DJI Drones Collection Entry Grade, Premium Pro, Elite 4K Flight</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-streamline-your-music-library-mp3s-direct-to-youtube-playlist/"><u>[Updated] In 2024, Streamline Your Music Library MP3s Direct to YouTube Playlist</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/1080p-hd-dvd-extractor-pro-fast-convert-dvds-to-hevc-format-in-under-five-minutes-official/"><u>1080P HD DVD Extractor Pro - Fast Convert DVDs to HEVC Format in Under Five Minutes [Official]</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/15-best-strongest-pokemon-to-use-in-pokemon-go-pvp-leagues-for-asus-rog-phone-7-drfone-by-drfone-virtual-android/"><u>15 Best Strongest Pokémon To Use in Pokémon GO PvP Leagues For Asus ROG Phone 7 | Dr.fone</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/windowsmaciphone/"><u>跨平台教程：Windows、Mac、安卓及iPhone上流暢觀看影片</u></a></li>
+<li><a href="https://solve-help.techidaily.com/1725288124855-windows-11/"><u>如何克服Windows 11安裝障礙? - 完全教程</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/aiai/"><u>AI美女・AIグラビア画像生成手軽エージェンシー：無料携帯アプリとサイト紹介</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/discover-the-top-12-leading-free-ai-tools-to-elevate-your-videos-on-windows-and-macos-systems/"><u>Discover the Top 12 Leading Free AI Tools to Elevate Your Videos on Windows and macOS Systems</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/free-methods-to-convert-your-dvd-collection-to-iso-files-on-windows-11-8-or-7/"><u>Free Methods to Convert Your DVD Collection to ISO Files on Windows 11, 8 or 7</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-remove-icloud-on-apple-iphone-se-2020-smoothly-by-drfone-ios/"><u>How To Remove iCloud On Apple iPhone SE (2020) Smoothly</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/24-profit-power-up-maximize-youtube-studio-dollars-across-platforms/"><u>In 2024, Profit Power-Up Maximize YouTube Studio Dollars Across Platforms</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-strategies-for-seamless-iphone-photos-sorting-and-icloud-backup-management/"><u>In 2024, Strategies for Seamless iPhone Photos Sorting & iCloud Backup Management</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/insignia-ns-pcy5bma2-universal-drivers-for-windows-operating-systems-10-8-and-7/"><u>Insignia NS-PCY5BMA2 - Universal Drivers for Windows Operating Systems (10, 8 & 7)</u></a></li>
+<li><a href="https://fox-making.techidaily.com/resolve-unable-to-perform-a-system-restore-on-the-necessary-drive-partition-error-5-effective-solutions/"><u>Resolve 'Unable to Perform a System Restore on the Necessary Drive Partition' Error: 5 Effective Solutions</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/step-by-step-android-guide-to-enjoy-virtual-reality-for-2024/"><u>Step-by-Step Android Guide to Enjoy Virtual Reality for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/ultimate-guide-to-free-and-easy-to-use-video-splitter-software-on-windows-10-for-streamlined-movie-clipping/"><u>Ultimate Guide to Free & Easy-to-Use Video Splitter Software on Windows 10 for Streamlined Movie Clipping</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/ultimate-list-of-12-no-cost-ai-video-optimizers-for-your-computer-compatible-with-windows-and-macos/"><u>Ultimate List of 12 No-Cost AI Video Optimizers for Your Computer – Compatible with Windows & macOS</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/windows-1011media-center/"><u>Windows 10/11上最佳媲美Media Center解决方案 - 如何取而代之</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/1725289355389-winxvideo-ai/"><u>Winxvideo AI 使用手冊：提高、錄影、修改及壓縮影片技巧</u></a></li>
 </ul></div>
 

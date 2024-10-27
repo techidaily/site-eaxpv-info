@@ -1,7 +1,7 @@
 ---
 title: "Act Now: Save Big with Our Top Choice of Nomad iPhone Cases - BOGO Offer on ZDNet"
-date: 2024-10-14T17:23:06.879Z
-updated: 2024-10-21T16:21:47.051Z
+date: 2024-10-23T16:16:05.294Z
+updated: 2024-10-27T20:08:44.097Z
 tags:
   - apple
 categories:
@@ -39,10 +39,10 @@ If you're looking to the iPhone 16 to get all the flashy AI features Apple showe
 Most of the more attractive features of Apple Intelligence that Apple showcased during [WWDC](https://www.zdnet.com/article/everything-apple-will-announce-at-wwdc-today-apple-intelligence-siri-ios-18-more/)in June are supposedly coming later in 2025, which is hardly a convincing factor to fork over more money for a new phone in September 2024\. If you're looking for features like Genmoji, Image Playground, and the [ChatGPT](https://www.zdnet.com/article/what-is-chatgpt-and-why-does-it-matter-heres-everything-you-need-to-know/) integration with Siri, you'll have to wait a few months.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123730/7443" target="_top" id="2123730">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123730" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134243/18498" target="_top" id="2134243">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134243" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123730/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134243/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Uncertainty around on-device performance
@@ -56,10 +56,10 @@ Many unknowns surround how Apple Intelligence features will perform on the [iPho
 Apple Intelligence requires at least 8GB of RAM and an A17 or M1 Apple silicon processor or newer. While the iPhone 16 lineup is expected to run on an A18 Bionic chip and between 8GB and 12GB of RAM across the four different models, concerns about how much strain the CPU will endure are valid. The new [AI capabilities can also overheat the iPhone and drain its battery quicker](https://www.zdnet.com/article/why-you-shouldnt-buy-the-iphone-16-for-apple-intelligence/), potentially reducing the device's lifecycle.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075462/7443" target="_top" id="2075462">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075462" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068408/7443" target="_top" id="2068408">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068408" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075462/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068408/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. The iPhone 16 is not enough of an upgrade on its own
@@ -81,10 +81,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 But, the iPhone 16's Apple Intelligence features (when they arrive) are undoubtedly modest compared to [ChatGPT with GPT-4o](https://www.zdnet.com/article/how-to-use-chatgpt/) and other AI tools available now. Other tools available now can do most of what Apple Intelligence promises; the difference is that the latter will run on-device and be personalized to the individual user. 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137221/26400" target="_top" id="2137221">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137221" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105863/7443" target="_top" id="2105863">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105863" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137221/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105863/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. The iPhone 16 Pro is the same price as its predecessor… But is it worth it?
@@ -129,17 +129,19 @@ My Apple Intelligence-incompatible, lightning port-charging iPhone 14 Pro Max st
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-funding-fantasies-or-fiscal-facts/"><u>[New] 2024 Approved Funding Fantasies or Fiscal Facts?</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-bite-sized-to-detailed-converting-shorts-to-editable-mp4/"><u>[Updated] In 2024, From Bite-Sized to Detailed Converting Shorts to Editable MP4</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-raw-footage-to-youtube-perfection-premiere-pro-techniques/"><u>[Updated] In 2024, From Raw Footage to YouTube Perfection - Premiere Pro Techniques</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-harness-the-power-of-youtube-videos-to-create-stunning-gifs-online/"><u>[Updated] In 2024, Harness the Power of Youtube Videos to Create Stunning Gifs Online</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-historical-discoveries-at-your-screen-10-best-educational-youtubers/"><u>[Updated] In 2024, Historical Discoveries at Your Screen - 10 Best Educational YouTubers</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-streaming-showdown-the-ultimate-guide-for-xsplit-and-obs-fans/"><u>[Updated] Streaming Showdown The Ultimate Guide for XSplit and OBS Fans</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-superior-nintendo-switch-brawlers-selection-max-156/"><u>[Updated] Superior Nintendo Switch Brawlers Selection (Max 156)</u></a></li>
-<li><a href="https://location-fake.techidaily.com/4-methods-to-turn-off-life-360-on-samsung-galaxy-s23-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>4 Methods to Turn off Life 360 On Samsung Galaxy S23 without Anyone Knowing | Dr.fone</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/all-you-need-to-know-about-mega-greninja-for-poco-m6-5g-drfone-by-drfone-virtual-android/"><u>All You Need To Know About Mega Greninja For Poco M6 5G | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/complete-review-and-guide-to-techeligible-frp-bypass-and-more-for-sony-xperia-5-v-by-drfone-android/"><u>Complete Review & Guide to Techeligible FRP Bypass and More For Sony Xperia 5 V</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/in-2024-unveiling-the-future-of-gaming-an-in-depth-look-at-lg-27ud68/"><u>In 2024, Unveiling the Future of Gaming An In-Depth Look at LG 27UD68</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/ultimate-guide-to-downloading-and-installing-asus-pce-ac68-wifi-adapter-driver-software/"><u>Ultimate Guide to Downloading & Installing ASUS PCE-AC68 WiFi Adapter Driver Software</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-top-scratches-comparative-review-of-recorders/"><u>[New] 2024 Approved Top Scratches Comparative Review of Recorders</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-12-best-vlogging-cameras-with-a-flip-screen/"><u>[New] In 2024, 12 Best Vlogging Cameras with a Flip Screen</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-average-earnings-per-view-whats-the-income-for-youtubers-per-ad-playback/"><u>[New] In 2024, Average Earnings Per View What's the Income for YouTubers per Ad Playback?</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-craft-your-story-with-immersive-youtube-video-editing-tips/"><u>[New] In 2024, Craft Your Story with Immersive YouTube Video Editing Tips</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-decoding-the-app-culture-the-battle-of-innovation-between-tiktok-and-snap/"><u>[New] In 2024, Decoding the App Culture The Battle of Innovation Between TikTok & Snap</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-transform-your-videos-simple-steps-to-include-youtube-subtitlescc/"><u>[New] Transform Your Videos Simple Steps to Include YouTube Subtitles/CC</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-crafting-dynamic-youtube-content-as-animated-gifs-without-downloads/"><u>[Updated] 2024 Approved Crafting Dynamic YouTube Content as Animated GIFs Without Downloads</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-how-sony-vegas-transforms-ordinary-footage-into-youtube-stardom/"><u>[Updated] How Sony Vegas Transforms Ordinary Footage Into YouTube Stardom</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/approved-ideal-video-intros-selecting-from-top-15-youtube-sets/"><u>2024 Approved Ideal Video Intros Selecting From Top 15 YouTube Sets</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-beats-and-brilliance-creating-soundtracked-instagram-feeds/"><u>In 2024, Beats & Brilliance Creating Soundtracked Instagram Feeds</u></a></li>
+<li><a href="https://common-error.techidaily.com/master-the-fix-handling-windows-driver-energy-failures-with-precision/"><u>Master the Fix: Handling Windows Driver Energy Failures with Precision</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/navigating-design-shortcomings-an-expert-take-on-the-pioneer-bdr-xd05b-drives/"><u>Navigating Design Shortcomings: An Expert Take on the Pioneer BDR-XD05B Drives</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/seamless-downloads-and-updates-for-microsoft-surface-drivers/"><u>Seamless Downloads & Updates for Microsoft Surface Drivers</u></a></li>
+<li><a href="https://games-able.techidaily.com/troubleshooting-how-to-reconnect-to-your-mc-lan-party-on-pc/"><u>Troubleshooting: How to Reconnect to Your MC LAN Party on PC</u></a></li>
 </ul></div>
 

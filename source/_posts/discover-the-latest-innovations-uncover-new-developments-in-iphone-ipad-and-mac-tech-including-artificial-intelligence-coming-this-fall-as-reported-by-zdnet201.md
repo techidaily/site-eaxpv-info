@@ -1,7 +1,7 @@
 ---
 title: Discover the Latest Innovations! Uncover New Developments in iPhone, iPad, and Mac Tech Including Artificial Intelligence Coming This Fall as Reported by ZDNET
-date: 2024-10-18T20:53:22.236Z
-updated: 2024-10-21T23:03:50.934Z
+date: 2024-10-25T16:43:10.506Z
+updated: 2024-10-27T16:24:10.619Z
 tags:
   - apple
 categories:
@@ -60,6 +60,13 @@ Maria Diaz/ZDNET
 * In the Notes app, users can **record and transcribe audio**, which Apple Intelligence will generate a text summary of. This experience is also available in the Notes phone app.
 * Apple Intelligence is free on iOS 18, iPadOS 18, and MacOS Sequoia, and will be available to try in English only this summer.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043855/7443" target="_top" id="2043855">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043855" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043855/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Partnership with OpenAI
 
 Jason Hiner/ZDNET
@@ -69,10 +76,10 @@ Jason Hiner/ZDNET
 * The ChatGPT integration will be coming to iOS 18, iPadOS 18, and MacOS Sequoia later this year.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136616/26400" target="_top" id="2136616">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136616" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ursime.pxf.io/c/5597632/2136545/16384" target="_top" id="2136545">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136545" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136616/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136545/16384" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## iOS 18
@@ -108,16 +115,10 @@ Adam Breeden/ZDNET
 * Another notable change is that the **double tap gesture** can be used to scroll through apps.
 
 <!-- affiliate ads begin -->
-<span id="1983588">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983588.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983588">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983588.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983588%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2100541/7443" target="_top" id="2100541">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100541" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100541/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## iPadOS 18
@@ -130,13 +131,6 @@ Adam Breeden/ZDNET
 * Handwriting in Notes also got an upgrade with **Smart** **Script**, which refines users' writing to make it more legible while keeping the authenticity of the user's handwriting style. The feature can also match copied and pasted text to the user's handwriting. Typed text was also enhanced, with five new highlight colors and the ability to toggle sections under headings or subheadings.
 * iPadOS 18 supports **screen-sharing via SharePlay** and the same Control Center customizations, Photos app upgrades, Safari updates, and emoji Tapbacks found in **iOS 18.**
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144284/7443" target="_top" id="2144284">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144284" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144284/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## MacOS 15 (Sequoia)
 
 Adam Breeden/ZDNET
@@ -147,6 +141,13 @@ Adam Breeden/ZDNET
 * **Video meetings** are also getting an upgrade, with new backgrounds and a preview experience that allows you to see what you are about to share before sharing it. This feature works with popular video conferencing applications such as FaceTime and Zoom.
 * The **AI summarization** tool will live in Safari to help users process content like web pages and articles more efficiently. Safari will also assist users in discovering more helpful information about a page they are browsing when relevant, such as directions.
 * Apple also launched a new **Viewer experience**, which does for video what Reader does for text.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148775/18498" target="_top" id="2148775">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148775" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148775/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## VisionOS 2
 
@@ -172,13 +173,6 @@ Jason Hiner/ZDNET
 * AirPods Pro are getting **Voice Isolation** to enhance call quality in noisier environments.
 * With the new **Siri Interactions**, users can now **nod or shake their head** "yes" or "no" when responding to Siri.
 * Apple is also releasing a **Personalized Spatial Audio API** for game developers to build around the AirPods' audio technology.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137207/26400" target="_top" id="2137207">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137207" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137207/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## tvOS 18
 
@@ -224,17 +218,21 @@ Screenshot by Nina Raemont/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-find-youtube-sponsorships-by-using-famebit/"><u>[New] 2024 Approved How to Find YouTube Sponsorships by Using FameBit</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/et-both-sides-right-expert-tips-on-crafting-compelling-pov-based-youtube-reaction-videos-2-pov-perspective-for-2024/"><u>[New] Get Both Sides Right – Expert Tips on Crafting Compelling POV-Based YouTube Reaction Videos (2 POV Perspective) for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-get-free-green-screen-effects-from-4-youtube-channels-for-2024/"><u>[New] Get Free Green Screen Effects From 4 YouTube Channels for 2024</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/new-in-2024-echoes-of-collaboration-tiktok-duet-hits/"><u>[New] In 2024, Echoes of Collaboration TikTok Duet Hits</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-raw-to-refined-mastering-the-art-of-pc-video-editing-on-windows/"><u>[New] In 2024, From Raw to Refined Mastering the Art of PC Video Editing on Windows</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-finalizing-your-video-with-a-bold-statement-for-2024/"><u>[Updated] Finalizing Your Video with a Bold Statement for 2024</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-mac-enhanced-a-dive-into-screenflows-capabilities/"><u>[Updated] Mac Enhanced A Dive Into ScreenFlow's Capabilities</u></a></li>
-<li><a href="https://win-trending.techidaily.com/get-your-hands-on-the-freshly-released-surface-laptop-go-2-for-just-599-pre-order-now-exclusive-insights-and-specs-by-cnet/"><u>Get Your Hands on the Freshly Released Surface Laptop Go 2 for Just $599 - Pre-Order Now! Exclusive Insights and Specs by CNET</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-dose-life360-notify-me-when-someone-checks-my-location-on-lenovo-thinkphone-drfone-by-drfone-virtual-android/"><u>In 2024, Dose Life360 Notify Me When Someone Checks My Location On Lenovo ThinkPhone? | Dr.fone</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-xiaomi-13tfrp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your Xiaomi 13TFRP Lock</u></a></li>
-<li><a href="https://techtrends.techidaily.com/must-have-exercise-record-keeping-apps-for-trainers-and-athletes/"><u>Must-Have Exercise Record Keeping Apps for Trainers & Athletes</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-non-functional-nvidia-geforce-overlay-solutions-inside/"><u>Troubleshooting Non-Functional Nvidia GeForce Overlay - Solutions Inside!</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-harness-your-contents-potential-with-ideal-post-days/"><u>[New] 2024 Approved Harness Your Content's Potential with Ideal Post Days</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-hubsan-h501s-exploration-the-ultimate-fpv-experience/"><u>[New] 2024 Approved Hubsan H501S Exploration The Ultimate FPV Experience</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-audience-attraction-in-a-minute-comparing-youtubes-shorts-and-tiktoks/"><u>[New] In 2024, Audience Attraction in a Minute Comparing YouTubes Shorts and TikToks</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-break-free-from-fee-free-youtube-start-at-500plus-subscriber-level/"><u>[New] In 2024, Break Free From Fee-Free Youtube - Start at 500+ Subscriber Level</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-enhancing-video-visibility-on-youtube-with-imaginative-thumbnails/"><u>[New] In 2024, Enhancing Video Visibility on YouTube with Imaginative Thumbnails</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-designing-direct-access-to-your-channels-subscribe-page/"><u>[Updated] 2024 Approved Designing Direct Access to Your Channel's Subscribe Page</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-insights-into-profit-allocation-on-popular-youtube-shorts/"><u>[Updated] Insights Into Profit Allocation on Popular YouTube Shorts</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-mastering-profit-on-beauty-channels/"><u>[Updated] Mastering Profit on Beauty Channels</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-short-video-showdown-comparing-success-on-youtubes-vs-tiktok/"><u>[Updated] Short Video Showdown Comparing Success on YouTubes Vs. TikTok</u></a></li>
+<li><a href="https://techtrends.techidaily.com/criar-gif-de-gratuita-a-partir-de-formato-avi-online-com-o-movavi/"><u>Criar GIF De Gratuita a Partir De Formato AVI Online Com O Movavi</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/enhance-image-frames-leading-platforms-and-applications-2023-edition/"><u>Enhance Image Frames Leading Platforms & Applications, 2023 Edition</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-lock-apps-on-honor-x8b-to-protect-your-individual-information-by-drfone-android/"><u>How to Lock Apps on Honor X8b to Protect Your Individual Information</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-android-to-apple-how-to-transfer-photos-from-meizu-21-to-ipad-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Android to Apple How To Transfer Photos From Meizu 21 to iPad Easily | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-can-life360-track-you-when-your-samsung-galaxy-z-fold-5-is-off-drfone-by-drfone-virtual-android/"><u>In 2024, Can Life360 Track You When Your Samsung Galaxy Z Fold 5 is off? | Dr.fone</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-fb-messenger-call-history-management-made-easy/"><u>In 2024, FB Messenger Call History Management Made Easy</u></a></li>
+<li><a href="https://fox-info.techidaily.com/in-2024-revolutionize-your-humor-learn-through-kinemaster/"><u>In 2024, Revolutionize Your Humor Learn Through KineMaster</u></a></li>
 </ul></div>
 

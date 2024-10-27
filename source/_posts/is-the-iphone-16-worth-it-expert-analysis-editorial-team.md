@@ -1,7 +1,7 @@
 ---
 title: Is the iPhone 16 Worth It? Expert Analysis Editorial Team
-date: 2024-10-20T17:40:18.767Z
-updated: 2024-10-21T20:56:57.820Z
+date: 2024-10-26T20:42:53.903Z
+updated: 2024-10-27T16:54:33.521Z
 tags:
   - apple
 categories:
@@ -46,13 +46,6 @@ The Camera Control uses [Apple's Visual Intelligence](https://www.zdnet.com/arti
 
 "I have the biggest one-sided beef in the world with the iPhone 14\. I can give you material for years. Primarily because the camera is the worst thing I ever experienced on an iPhone. Even the base iPhone 16 model looks way better," Ortiz says.
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134503/19576" target="_top" id="2134503">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134503" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134503/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 2\. Trade-in deals and carrier offers
 
 I told you we're really all just like you. Some ZDNET tech experts are ready to jump to the new iPhone 16 thanks to great carrier and trade-in offers on the models and are even more enthusiastic if they're ready for an upgrade. 
@@ -64,6 +57,13 @@ ZDNET contributor Ed Bott is planning to upgrade his iPhone 12 Pro Max for a new
 And if you're looking to change carriers, like managing editor Alison DeNisco Rayome, some of the trade-in offers make it hard to resist. "I still have the 13, and the trade-in deals are making it worth it for me to upgrade to the 16 (plus we want to switch carriers, so even better)," she says. 
 
 Verizon and T-Mobile have [similar offers](https://www.zdnet.com/article/how-to-preorder-the-new-iphone-16-and-get-one-free/) right now, and they're pretty sweet. At T-Mobile, new and existing customers can get a free iPhone 16 Pro with a trade-in on the Go5G Next plan, or up to $1,000 off on any iPhone 16 model. 
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139115/17108" target="_top" id="2139115">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139115" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139115/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 3\. For work
 
@@ -91,6 +91,13 @@ ZDNET's Jason Perlow is bumping up for similar reasons. "I am upgrading from my 
 
 Jason Hiner/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137209/26400" target="_top" id="2137209">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137209" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137209/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 1\. The Apple Intelligence features aren't perfect
 
 Apple's biggest flexes over the last few months have been their Apple Intelligence and AI features, [which the iPhone 16 is the guinea pig for](https://www.zdnet.com/article/apple-delivers-on-hardware-upgrades-but-punts-apple-intelligence-rollout/). While some of these new AI features are undeniably cool, like the new Camera Control, enhanced Siri features, and more, the features are still limited to the iPhone 15 Pro and above and rolling out only in beta over the next few weeks. 
@@ -102,10 +109,10 @@ Essentially, this is Apple's first iPhone marketed with an AI push, and like eve
 Jason Perlow is on the same page. "Let's not diminish the product for what it is: the iPhone 16 is undeniably great hardware. But unless you're using a old phone -- like my colleague [David Gewirtz's iPhone 12](https://www.zdnet.com/article/6-reasons-why-ios-18-makes-the-iphone-16-a-must-upgrade-for-me/), which is four generations behind -- you should strongly consider skipping this generation. Why? Because Apple Intelligence, while promising, is still in its infancy," Perlow wrote in one of his [recent pieces](https://www.zdnet.com/article/the-iphone-16-is-undeniably-great-hardware-but-you-should-still-probably-skip-it/). 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043855/7443" target="_top" id="2043855">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043855" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068432/7443" target="_top" id="2068432">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068432" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043855/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068432/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 2\. Not compelled enough to upgrade
@@ -117,16 +124,10 @@ As reviews editor Kyle Kucharski says, it's never a good idea to blindly update 
 Staff writer Maria Diaz thinks the same. "I have the iPhone 14 Pro Max and am still happy with it. It performs just as well as when I got it. I wish the camera were better (but the BlackMagic app helps a lot with this) and I would like the convenience of a USB-C port, but it's still working well enough that I don't feel compelled at all to get an iPhone 16\. I'm holding out for next year, at least," Diaz says. Kucharski is on the same page. "I still have the 12, and the bottom line: it still works fine," he says. 
 
 <!-- affiliate ads begin -->
-<span id="1328679">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1328679.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1328679">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328679.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328679%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328679/15852" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1938745/19272" target="_top" id="1938745">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938745" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938745/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 3\. Expense and hassle
@@ -134,13 +135,6 @@ Staff writer Maria Diaz thinks the same. "I have the iPhone 14 Pro Max and am st
 Sometimes it's the most obvious factors that influence our choices. The expense and hassle of coordinating a new phone may not be in some people's budgets just yet (literally and figuratively). I'm in this department. It would be really cool to have that shiny, beautiful, and gloriously pink iPhone 16, but my iPhone 14 Pro works completely fine (even though its battery grinds my gears), and I have no good reason to upgrade beyond wanting a pink phone. It would be an added expense on both my wallet and my time (setting up a new phone is not a one-day process; change my mind). Plus, I usually keep my phones until they crap out anyway, so an upgrade right now is just not in the cards. 
 
 ZDNET's Adrian Kingsley-Hughes is still on the fence, but we agree on one thing. "It's a ton of money," he says.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975841/19272" target="_top" id="1975841">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975841" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975841/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How to preorder the iPhone 16
 
@@ -182,17 +176,22 @@ The [iPhone 16 Pro](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&pa
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/024-approved-essential-video-editing-apps-for-youtube-creators/"><u>[New] 2024 Approved Essential Video Editing Apps for YouTube Creators</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-concept-to-completion-crafting-your-youtube-masterpiece/"><u>[New] 2024 Approved From Concept to Completion Crafting Your YouTube Masterpiece</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-high-quality-game-capture-apps-reviewed/"><u>[Updated] 2024 Approved High-Quality Game Capture Apps Reviewed</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-produce-eye-catching-and-informative-videos-for-education-channels/"><u>[Updated] 2024 Approved How to Produce Eye-Catching and Informative Videos for Education Channels</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-quick-video-wins-essential-ideas-for-vloggers/"><u>[Updated] 2024 Approved Quick Video Wins Essential Ideas for Vloggers</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-gratis-design-elements-for-youtube-channel-for-2024/"><u>[Updated] Gratis Design Elements for YouTube Channel for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-pick-a-unique-name-for-youtube-channel-filmora-for-2024/"><u>[Updated] How To Pick a Unique Name for YouTube Channel - Filmora for 2024</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-maximizing-your-creations-uploading-imovie-videos-to-youtube/"><u>[Updated] Maximizing Your Creations Uploading IMovie Videos to YouTube</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-cast-realme-12-5g-screen-to-pc-using-wifi-drfone-by-drfone-android/"><u>How to Cast Realme 12 5G Screen to PC Using WiFi | Dr.fone</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/in-2024-amplify-iphone-film-and-photo-experience-with-extra-gear/"><u>In 2024, Amplify iPhone Film & Photo Experience with Extra Gear</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-ultimate-guide-to-get-the-meltan-box-pokemon-go-for-honor-magic-5-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate guide to get the meltan box pokemon go For Honor Magic 5 Pro | Dr.fone</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/rapid-email-service-restoration-exchanging-experience/"><u>Rapid Email Service Restoration: Exchanging Experience</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-convert-with-ease-the-top-10-best-tools-for-flv-to-youtubes/"><u>[New] 2024 Approved Convert With Ease The Top 10 Best Tools for Flv to YouTubes</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-2024-approved-unlocking-the-power-of-canon-time-lapse-imaging/"><u>[New] 2024 Approved Unlocking the Power of Canon Time-Lapse Imaging</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-digital-dreams-unite-conference-for-2024/"><u>[New] Digital Dreams Unite Conference for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-end-screen-creation-made-simple-free-templates-and-guides-for-2024/"><u>[New] End Screen Creation Made Simple - Free Templates & Guides for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-essential-tactics-for-youtube-success-in-25-ways-for-2024/"><u>[New] Essential Tactics for YouTube Success in 25 Ways for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-make-your-youtube-animated-subscribe-button-easily-with-filmora/"><u>[New] In 2024, How to Make Your YouTube Animated Subscribe Button Easily With Filmora</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-reducing-speed-mastering-snapchat-videos/"><u>[New] Reducing Speed Mastering Snapchat Videos</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-best-mobile-gif-apps-roundup-for-latest-phones/"><u>[Updated] Best Mobile GIF Apps Roundup for Latest Phones</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-expert-giggle-enhancer-for-images/"><u>2024 Approved Expert Giggle Enhancer for Images</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-smart-office-design-a-key-to-unlocking-employee-efficiency/"><u>2024 Approved Smart Office Design A Key to Unlocking Employee Efficiency</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/1722877804904-diy-ipad-battery-replacement-easy-tutorial-inside/"><u>DIY iPad Battery Replacement - Easy Tutorial Inside</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/gigabyte-ethernet-drivers-get-your-most-recent-software-update-for-free/"><u>Gigabyte Ethernet Drivers: Get Your Most Recent Software Update for Free</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-mirroring-infinix-gt-10-pro-drfone-by-drfone-android/"><u>In 2024, How to Screen Mirroring Infinix GT 10 Pro? | Dr.fone</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/in-2024-youngest-millionaire-on-youtube-ryans-unprecedented-wealth-accumulation/"><u>In 2024, Youngest Millionaire on YouTube Ryan's Unprecedented Wealth Accumulation</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/pixelprankspro-humorhexagonhub/"><u>PixelPranksPro HumorHexagonHub</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/top-ranked-graphics-cards-for-optimal-online-streaming-quality-for-2024/"><u>Top-Ranked Graphics Cards for Optimal Online Streaming Quality for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/understanding-youtube-lives-image-language-for-2024/"><u>Understanding YouTube Live's Image Language for 2024</u></a></li>
 </ul></div>
 

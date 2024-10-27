@@ -1,7 +1,7 @@
 ---
 title: "Essential Guide: When & How to Successfully Reboot Your AirPods - Tips From ZDNet"
-date: 2024-10-16T22:37:38.505Z
-updated: 2024-10-21T21:43:28.691Z
+date: 2024-10-24T17:19:01.471Z
+updated: 2024-10-27T16:51:29.975Z
 tags:
   - apple
 categories:
@@ -55,10 +55,10 @@ Now, [mostly I'm home](https://www.zdnet.com/article/whats-inside-gewirtzs-home-
 In any case, what that means is that instead of my escalating ranking of phones, tablets, Chromebooks and laptops, I just carry my [iPhone 12 Pro Max](https://www.zdnet.com/article/dont-buy-that-expensive-new-iphone-13-how-used-iphones-can-deliver-huge-savings/). It will keep me up to speed until I get back home and can pick up where I left off.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016165/19272" target="_top" id="2016165">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016165" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130531/26400" target="_top" id="2130531">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130531" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016165/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130531/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Tools for my daily flow
@@ -91,13 +91,6 @@ At this point, I tend to take note of what's in my inbox, but I neither process 
 
 I also take a quick look at my calendar and my to-do list to make sure I know what's on deck for the day. 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135365/19272" target="_top" id="2135365">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135365" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135365/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Daily must-reads with Pocket
 
 Next up, I hit my daily most-reads. Of course, this starts with [_ZDNet_](https://www.zdnet.com/), then usually [_Drudge_](http://www.drudgereport.com/)and [_Techmeme_](http://www.techmeme.com/). I do a quick headline scan and anything that seems worth reading, I right-click and save to [Pocket](http://getpocket.com/). 
@@ -114,13 +107,6 @@ By this point, I'm somewhere between 30 and 60 minutes into my day, I've had one
 
 Depending on the importance and urgency of the messages in my Gmail inbox, I'll either go straight into my morning email cycle or begin my morning reading. I prefer to do morning reading before email, so I'll discuss that next. 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151854/7443" target="_top" id="2151854">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151854" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151854/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## The Pocket-read-post-archive cycle
 
 I read. A lot. I need to keep up to date on a tremendous amount of information, both breaking news related and deep technical or academic information. As a result, a good percentage of my morning is spent reading. I also watch a lot of YouTube videos. I'm almost always learning about new stuff, and many YouTube videos provide great introductions to both how those things work and what they do. Without YouTube, I never would have [gotten my CNC up and running](https://www.zdnet.com/article/hands-on-building-the-next-generation-x-carve-cnc-build-log/) and done [my first successful build](https://www.zdnet.com/article/my-first-big-cnc-project-a-parts-organizer-rack/).
@@ -132,6 +118,13 @@ What's particularly nice about Pocket is that it runs on not only my couch-side 
 Part of my morning flow is posting to the social networks. Unfortunately, this has changed. It used to be that whenever I found an article that was interesting in my Pocket collection, I tapped the Share icon in Pocket and then selected [Buffer](http://bufferapp.com). Buffer then took the article, scheduled it, and posted it to Twitter, Facebook, and LinkedIn. Two clicks and I used to be able shared something interesting.
 
 But Facebook broke that. Facebook no longer allows tools like Buffer and [Hootsuite](https://hootsuite.com/) to to post to personal Facebook pages. I've spent years building up my personal Facebook page following and don't want to start a corporate page (or orphan all my followers), so when Facebook broke auto-posting, it hurt. Now, I hand post to Twitter and then do it again on Facebook. LinkedIn gets a lot less attention, and, frankly, I post less frequently. 
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139117/17108" target="_top" id="2139117">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139117" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139117/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Featured reviews
 
@@ -149,10 +142,10 @@ I'm relatively holistic about my morning reading process. I do it until I'm bore
 The key point to all of this is that ever since I moved to this Pocket-read-post-archive cycle for my daily reading, my productivity and flexibility has gone up tremendously. I'm getting more done, and the quality of the process is far more pleasant. I'm no longer tied to my desktop browser, because all of these tools work on all my devices. 
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134239/18498" target="_top" id="2134239">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134239" border="0" alt="https://techidaily.com" width="721" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2002018/7443" target="_top" id="2002018">
+  <img src="//a.impactradius-go.com/display-ad/7443-2002018" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134239/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002018/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Connecting and scheduling
@@ -177,6 +170,13 @@ Now, to be fair, I have a slight email fetish, so I do check back in to my inbox
 
 In fact, now that I have email notifications integrated into my watch, I'm finding I'm actually breaking myself of the habit, because unless I hear the notification tone, I don't have any important emails coming in. I have actually gone a few hours without checking my email inbox, which is something of a record for me. 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896510/19272" target="_top" id="1896510">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896510" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896510/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Managing my daily teaching opportunities
 
 As it turns out, supporting users is a lot like teaching online students.
@@ -190,6 +190,13 @@ Help Scout also has great team features, but I'm a programming army of one.
 I just think of those users like more of my students. If any questions show up in my inbox, I go into the ticketing system and answer questions. I'm not assigning users letter grades, but otherwise the process is pretty much the same. 
 
 By the way, this is also a great way to think about users, which I initially was a bit unhappy about adding to my daily workload. But the reframe is this: I'm an educator and these are more people in need of assistance while they're learning to use these plugins. So, rather than thinking about providing user support as an added workload, I think of the users as more of my students and their questions as simply more teaching opportunities. It's also a great way to keep up on what people are doing out there, and gives me a much more "on the street" dialog with users, which is invaluable as a tech journalist.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1883998/19272" target="_top" id="1883998">
+  <img src="//a.impactradius-go.com/display-ad/19272-1883998" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1883998/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Featured
 
@@ -250,13 +257,6 @@ Finally, there's Planner Tentative. This is where I block out the approximate ti
 
 With this system, I rarely lose track of projects and also rarely overbook myself. It's worked quite well for a bunch of years now.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129740/7443" target="_top" id="2129740">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129740" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129740/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Rethinking your flow
 
 Every few years, I rethink my productivity flow, usually when I find myself getting too far behind, or getting that _baaaad_ feeling that I'm letting things slip through the cracks. This latest optimization, where I added Notion, has been working for a few months now, and so far it's the most effective flow I've used. Most of the elements, particularly how I use Gmail and Pocket, have been productive processes for years. 
@@ -286,17 +286,20 @@ _You can follow my day-to-day project updates on social media. Be sure to follow
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-finding-hashtags-that-amplify-to-6k-views/"><u>[New] 2024 Approved Finding #Hashtags That Amplify to 6K Views</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-film-fans-choice-cutting-edge-youtube-channels-for-2024/"><u>[New] Film Fan's Choice Cutting-Edge YouTube Channels for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-free-access-worlds-biggest-youtube-short-downloaders-for-2024/"><u>[New] Free Access World’s Biggest YouTube Short Downloaders for 2024</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-streaming-success-recorded-google-chats-for-2024/"><u>[New] Streaming Success Recorded Google Chats for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-hasty-guide-from-raw-images-to-high-quality-youtube-thumbnail-art/"><u>[Updated] 2024 Approved Hasty Guide From Raw Images to High-Quality YouTube Thumbnail Art</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-translating-views-into-dollars-on-youtube-via-cpm/"><u>[Updated] Translating Views Into Dollars on YouTube via CPM</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/battlefield-2042-stability-solutions-for-pc-users-experiencing-game-crashes/"><u>Battlefield 2042 Stability Solutions for PC Users Experiencing Game Crashes</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/comprehensive-step-by-step-strategy-how-to-secure-employment-in-top-tech-firms-insights-from-zdnet/"><u>Comprehensive Step-by-Step Strategy: How to Secure Employment in Top Tech Firms - Insights From ZDNet</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-ipogo-will-be-the-new-ispoofer-on-honor-magic-5-pro-drfone-by-drfone-virtual-android/"><u>In 2024, iPogo will be the new iSpoofer On Honor Magic 5 Pro? | Dr.fone</u></a></li>
-<li><a href="https://fox-access.techidaily.com/rejuvenated-dialogue-ideas-to-hook-listeners-for-2024/"><u>Rejuvenated Dialogue Ideas to Hook Listeners for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/the-definitive-guide-to-taking-screenshots-efficiently-with-logitech-keyboards/"><u>The Definitive Guide to Taking Screenshots Efficiently with Logitech Keyboards</u></a></li>
-<li><a href="https://discover-alternatives.techidaily.com/ultimate-tutorial-how-to-remove-and-save-movie-subtitles-across-windowsmacos-systems/"><u>Ultimate Tutorial: How to Remove & Save Movie Subtitles Across Windows/macOS Systems</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-elevate-your-channel-vision-selecting-ideal-content-strategies/"><u>[New] 2024 Approved Elevate Your Channel Vision Selecting Ideal Content Strategies</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-rx-memory-revamp-for-2024/"><u>[New] RX Memory Revamp for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-synthesizing-google-trends-insights-for-videography-ideas/"><u>[New] Synthesizing Google Trends Insights for Videography Ideas</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-unified-streaming-techniques-for-youtube-and-top-networks/"><u>[New] Unified Streaming Techniques for YouTube & Top Networks</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-beware-the-web-of-counterfeit-subscriber-networks-online/"><u>[Updated] 2024 Approved Beware the Web of Counterfeit Subscriber Networks Online</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-essential-history-vids-student-edition-of-top-10-lists/"><u>[Updated] 2024 Approved Essential History Vids Student Edition of Top 10 Lists</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-high-definition-ready-enabling-av1-on-youtube/"><u>[Updated] 2024 Approved High Definition Ready Enabling AV1 on YouTube</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-leading-tech-macs-finest-video-recording-software-for-2024/"><u>[Updated] Leading Tech Mac's Finest Video Recording Software for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-pioneering-techniques-in-documentary-scripting/"><u>2024 Approved Pioneering Techniques in Documentary Scripting</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-delete-icloud-account-from-iphone-13-pro-without-password-by-drfone-ios/"><u>How to Delete iCloud Account From iPhone 13 Pro without Password?</u></a></li>
+<li><a href="https://win-dash.techidaily.com/quick-start-to-successful-linksys-wusb6300-driver-installation-comprehensive-guide/"><u>Quick Start to Successful Linksys WUSB6300 Driver Installation | Comprehensive Guide</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/streamline-your-soundtrack-selection-for-youtube-for-2024/"><u>Streamline Your Soundtrack Selection for YouTube for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-definitive-vivacut-video-editing-manual-for-24-for-2024/"><u>The Definitive VivaCut Video Editing Manual for '24 for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-ultimate-list-of-best-tv-streaming-subscriptions/"><u>The Ultimate List of Best TV Streaming Subscriptions</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-in-2024-5-free-video-watermark-removal-and-addition-software/"><u>Updated In 2024, 5 Free Video Watermark Removal and Addition Software</u></a></li>
 </ul></div>
 

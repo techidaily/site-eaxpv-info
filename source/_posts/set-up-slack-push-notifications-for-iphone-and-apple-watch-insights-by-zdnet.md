@@ -1,7 +1,7 @@
 ---
 title: Set Up Slack Push Notifications for iPhone and Apple Watch | Insights by ZDNet
-date: 2024-10-20T17:44:50.522Z
-updated: 2024-10-21T16:14:06.120Z
+date: 2024-10-25T19:36:28.674Z
+updated: 2024-10-27T20:39:45.048Z
 tags:
   - apple
 categories:
@@ -49,10 +49,10 @@ Here's how.
 **What you'll need:** Have the latest versions of iOS and watchOS installed on your iPhone and Apple Watch, respectively. 
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484909/16446" target="_top" id="1484909">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484909" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118314/7443" target="_top" id="2118314">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118314" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484909/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118314/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 1\. Install the Slack app on your iPhone
@@ -60,6 +60,13 @@ Here's how.
 There is no dedicated Slack app for the Apple Watch, but there is an iPhone app. This app controls everything about how Slack works with notifications on your phone. So, if you don't already have Slack on your iPhone, go to [the App Store and install it](https://apps.apple.com/us/app/slack/id618783545).
 
 Once it's installed, go ahead and log into your various Slack channels. Get those setup and working as you like before configuring the app for notifications.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123740/7443" target="_top" id="2123740">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123740" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123740/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 2\. Set up Slack notifications in the system settings
 
@@ -75,22 +82,21 @@ Now, back out to the top of the Settings app and tap the red Notifications icon.
 
 Screenshot by David Gewirtz/ZDNET
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151858/7443" target="_top" id="2151858">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151858" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151858/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 3\. Set up Slack notifications in the Slack app
 
 Next, open the Slack app. Tap your profile image in the upper right corner of the screen. Then tap Notifications.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132161/7443" target="_top" id="2132161">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132161" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132161/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1912746">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1912746.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20231-1912746">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1912746.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmindmanager.sjv.io%2Fc%2F5597632%2F1912746%2F20231'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1912746/20231" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##   
@@ -132,10 +138,10 @@ So, make sure you set the Start and End times that fit with your schedule.
 Recommendation to Slack: Where you put the "Every day" option in that setting, add the times as well (e.g., "Every day 8 a.m. - 11 p.m."). That way, it's clear to users what they might need to change. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049391/7443" target="_top" id="2049391">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049391" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137202/26400" target="_top" id="2137202">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137202" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049391/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137202/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Enable Slack notifications in the Watch app
@@ -187,16 +193,18 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-fixed-easily-accessible-shorts-on-youtube-for-2024/"><u>[New] Fixed Easily Accessible Shorts on YouTube for 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-how-to-quit-auto-capture-on-apples-recorder-for-2024/"><u>[New] How To Quit Auto-Capture on Apple's Recorder for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-gauge-if-an-mcn-is-right-for-your-youtube-journey/"><u>[New] In 2024, How to Gauge if an MCN Is Right for Your YouTube Journey</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-legalities-sharing-vids-on-social-media-platforms-for-2024/"><u>[New] Legalities Sharing Vids on Social Media Platforms for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-filmora-tutorials-simple-steps-to-a-dynamic-youtube-subscribe-button/"><u>[Updated] 2024 Approved Filmora Tutorials Simple Steps to a Dynamic YouTube Subscribe Button</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-guide-deleting-items-from-your-youtubeumbers-list-for-2024/"><u>[Updated] Guide Deleting Items From Your YouTube'umbers List for 2024</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-in-2024-optimal-steps-livestream-and-preserve-real-time-sports-events/"><u>[Updated] In 2024, Optimal Steps Livestream and Preserve Real-Time Sports Events</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-in-depth-video-studio-analysis-comprehensive-xreview-guide-for-2024/"><u>[Updated] In-Depth Video Studio Analysis Comprehensive XReview Guide for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-how-to-retreat-from-macos-sierras-latest-upgrade/"><u>2024 Approved How to Retreat From MacOS Sierra's Latest Upgrade</u></a></li>
-<li><a href="https://win-blog.techidaily.com/how-to-successfully-start-your-game-overcoming-age-of-empires-4-initialization-hurdles/"><u>How to Successfully Start Your Game: Overcoming Age of Empires 4 Initialization Hurdles</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/ultimate-tutorial-for-snapping-photos-of-gameplay-on-xbox-one/"><u>Ultimate Tutorial for Snapping Photos of Gameplay on Xbox One</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-from-novice-to-pro-building-an-insta-highlight-showcase/"><u>[New] In 2024, From Novice to Pro Building an Insta Highlight Showcase</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-best-yt-storytellers-for-enthralling-viewing-experience-for-2024/"><u>[Updated] Best YT Storytellers for Enthralling Viewing Experience for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-converting-spotify-playlist-content-for-youtube-music-compatibility-for-2024/"><u>[Updated] Converting Spotify Playlist Content for YouTube Music Compatibility for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-football-film-breakdown-premier-insights-on-youtube/"><u>[Updated] Football Film Breakdown Premier Insights on YouTube</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-tech-tip-saving-google-meets-on-phone-devices/"><u>[Updated] In 2024, Tech Tip Saving Google Meets on Phone Devices</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-navigating-algorithm-advantages-maximizing-view-count-effortlessly/"><u>[Updated] Navigating Algorithm Advantages Maximizing View Count Effortlessly</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-radiant-renderings-perfecting-video-light-quality-for-2024/"><u>[Updated] Radiant Renderings Perfecting Video Light Quality for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/arranging-your-indiana-jones-film-marathon-from-start-to-finish/"><u>Arranging Your Indiana Jones Film Marathon From Start to Finish</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/best-webp-converter-how-to-convert-webp-to-jpg/"><u>Best WebP Converter How to Convert WebP to JPG</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-simple-and-effective-ways-to-change-your-country-on-youtube-app-of-your-vivo-v27e-drfone-by-drfone-virtual-android/"><u>In 2024, Simple and Effective Ways to Change Your Country on YouTube App Of your Vivo V27e | Dr.fone</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-most-loved-iphone-apps-user-favorites-and-critic-picks-for-2024/"><u>New Most Loved iPhone Apps User Favorites and Critic Picks for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/subscribe-bonanza-thousands-acquired-for-just-5-for-2024/"><u>Subscribe Bonanza Thousands Acquired for Just $5 for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/the-ultimate-guide-achieving-professional-sound-without-a-mic-for-2024/"><u>The Ultimate Guide Achieving Professional Sound without a Mic for 2024</u></a></li>
 </ul></div>
 

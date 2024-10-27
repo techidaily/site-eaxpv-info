@@ -1,7 +1,7 @@
 ---
 title: 7 Instead of Jumping to Series 10 - Insights From ZDNet
-date: 2024-10-15T22:40:59.254Z
-updated: 2024-10-21T23:43:56.530Z
+date: 2024-10-26T19:40:01.781Z
+updated: 2024-10-27T17:25:58.369Z
 tags:
   - apple
 categories:
@@ -35,10 +35,16 @@ Here are the top reasons why we are (or aren't) upgrading to the iPhone 16 in th
 Kerry Wan/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137223/26400" target="_top" id="2137223">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137223" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137223/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983575">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983575.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983575">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983575.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983575%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983575/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 1\. The camera
@@ -92,10 +98,10 @@ ZDNET's Jason Perlow is bumping up for similar reasons. "I am upgrading from my 
 Jason Hiner/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094414/7443" target="_top" id="2094414">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094414" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135416/19272" target="_top" id="2135416">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135416" border="0" alt="https://techidaily.com" width="336" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094414/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135416/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 1\. The Apple Intelligence features aren't perfect
@@ -108,6 +114,19 @@ Essentially, this is Apple's first iPhone marketed with an AI push, and like eve
 
 Jason Perlow is on the same page. "Let's not diminish the product for what it is: the iPhone 16 is undeniably great hardware. But unless you're using a old phone -- like my colleague [David Gewirtz's iPhone 12](https://www.zdnet.com/article/6-reasons-why-ios-18-makes-the-iphone-16-a-must-upgrade-for-me/), which is four generations behind -- you should strongly consider skipping this generation. Why? Because Apple Intelligence, while promising, is still in its infancy," Perlow wrote in one of his [recent pieces](https://www.zdnet.com/article/the-iphone-16-is-undeniably-great-hardware-but-you-should-still-probably-skip-it/). 
 
+<!-- affiliate ads begin -->
+<span id="1160850">
+					<video width="576" height="324" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1160850.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1160850">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1160850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1160850%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1160850/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 2\. Not compelled enough to upgrade
 
 As reviews editor Kyle Kucharski says, it's never a good idea to blindly update your mobile tech every year without thinking. You've got to have at least one good reason to payout for a new model when the one you have is working perfectly fine. 
@@ -117,10 +136,10 @@ As reviews editor Kyle Kucharski says, it's never a good idea to blindly update 
 Staff writer Maria Diaz thinks the same. "I have the iPhone 14 Pro Max and am still happy with it. It performs just as well as when I got it. I wish the camera were better (but the BlackMagic app helps a lot with this) and I would like the convenience of a USB-C port, but it's still working well enough that I don't feel compelled at all to get an iPhone 16\. I'm holding out for next year, at least," Diaz says. Kucharski is on the same page. "I still have the 12, and the bottom line: it still works fine," he says. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1484951/16446" target="_top" id="1484951">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484951" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484951/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 3\. Expense and hassle
@@ -128,13 +147,6 @@ Staff writer Maria Diaz thinks the same. "I have the iPhone 14 Pro Max and am st
 Sometimes it's the most obvious factors that influence our choices. The expense and hassle of coordinating a new phone may not be in some people's budgets just yet (literally and figuratively). I'm in this department. It would be really cool to have that shiny, beautiful, and gloriously pink iPhone 16, but my iPhone 14 Pro works completely fine (even though its battery grinds my gears), and I have no good reason to upgrade beyond wanting a pink phone. It would be an added expense on both my wallet and my time (setting up a new phone is not a one-day process; change my mind). Plus, I usually keep my phones until they crap out anyway, so an upgrade right now is just not in the cards. 
 
 ZDNET's Adrian Kingsley-Hughes is still on the fence, but we agree on one thing. "It's a ton of money," he says.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115916/19272" target="_top" id="2115916">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115916" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115916/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How to preorder the iPhone 16
 
@@ -176,15 +188,20 @@ The [iPhone 16 Pro](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&pa
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-framing-the-perfect-waterway-narrative/"><u>[New] 2024 Approved Framing the Perfect Waterway Narrative</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-future-pioneers-8-rapidly-expanding-video-ventures/"><u>[New] 2024 Approved Future Pioneers 8 Rapidly Expanding Video Ventures</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-screenshot-perfection-on-mac-selecting-top-10-recorders-reviewed/"><u>[New] Screenshot Perfection on Mac Selecting Top 10 Recorders Reviewed</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-vlogger-to-earnest-by-year-end-following-sourav-joshis-examples/"><u>[Updated] 2024 Approved From Vlogger to Earnest by Year End - Following Sourav Joshi's Examples</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-ryan-kaji-youthful-wealth-through-internet-popularity/"><u>[Updated] 2024 Approved Ryan Kaji Youthful Wealth Through Internet Popularity</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-fiscal-horizons-exploring-mr-beasts-income-for-2024/"><u>[Updated] Fiscal Horizons Exploring Mr. Beast's Income for 2024</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-mastering-the-craft-of-engaging-your-viewers-from-the-start-for-2024/"><u>[Updated] Mastering the Craft of Engaging Your Viewers From The Start for 2024</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-unveiling-the-best-cinematic-love-top-8-premium-wedding-videos-online-for-2024/"><u>[Updated] Unveiling the Best Cinematic Love Top 8 Premium Wedding Videos Online for 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/comparing-leading-ai-chatbots-who-takes-the-crown-between-microsofts-googles-and-openais-offerings/"><u>Comparing Leading AI Chatbots: Who Takes the Crown Between Microsoft's, Google’s & OpenAI’s Offerings?</u></a></li>
-<li><a href="https://extra-information.techidaily.com/in-2024-crafting-a-compelling-pitch-products-sponsoring-youtubers/"><u>In 2024, Crafting a Compelling Pitch Products Sponsoring Youtubers</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-easy-ways-to-make-a-great-educational-video-for-youtube/"><u>[New] 2024 Approved Easy Ways to Make a Great Educational Video for YouTube</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-get-started-with-youtube-video-ad-building-without-spending/"><u>[New] 2024 Approved Get Started with YouTube Video Ad Building Without Spending</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-inshot-tips-import-music-into-videos-effortlessly/"><u>[New] InShot Tips Import Music Into Videos Effortlessly</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-taking-the-first-step-on-youtube-account-setup/"><u>[Updated] Taking The First Step on YouTube Account Setup</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/2024-approved-youtube-shorts-profits-and-content-creator-payments/"><u>2024 Approved YouTube Shorts Profits & Content Creator Payments</u></a></li>
+<li><a href="https://discover-advanced.techidaily.com/effektives-kopieren-von-lenovo-hard-disks-auf-solid-state-drives-mithilfe-fuhrender-cloning-software/"><u>Effektives Kopieren Von Lenovo Hard Disks Auf Solid State Drives Mithilfe Führender Cloning Software</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/grab-the-deal-of-a-lifetime-49-inch-samsung-oled-monitor-now-at-record-low-price-with-600-cut/"><u>Grab the Deal of a Lifetime: 49-Inch Samsung OLED Monitor Now at Record Low Price with $600 Cut</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-samsung-galaxy-s21-fe-5g-2023-find-my-friends-no-location-found-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Samsung Galaxy S21 FE 5G (2023) Find My Friends No Location Found? | Dr.fone</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/securing-stipends-by-scrutinizing-subscriptions-on-streaming-services-for-2024/"><u>Securing Stipends by Scrutinizing Subscriptions on Streaming Services for 2024</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/sedap-tak-sanggup-mengkaji-kerjaan-tempat-sampa-dari-menunjukkan-kosong-hingga/"><u>Sedap Tak Sanggup: Mengkaji Kerjaan Tempat Sampa Dari Menunjukkan Kosong Hingga!</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/system-service-exception-on-windows-10-solved/"><u>System Service Exception on Windows 10 [Solved]</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-complete-guide-to-purchasing-virtual-reality-games-for-your-meta-quest-2/"><u>The Complete Guide to Purchasing Virtual Reality Games for Your Meta Quest 2</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-4-ways-to-trace-infinix-smart-7-hd-location-drfone-by-drfone-virtual-android/"><u>Top 4 Ways to Trace Infinix Smart 7 HD Location | Dr.fone</u></a></li>
+<li><a href="https://ai-video.techidaily.com/updated-top-9-choices-for-video-auto-translate/"><u>Updated Top 9 Choices for Video Auto Translate</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/youtube-unearthing-the-obscured-videotapes-for-2024/"><u>YouTube Unearthing the Obscured Videotapes for 2024</u></a></li>
 </ul></div>
 

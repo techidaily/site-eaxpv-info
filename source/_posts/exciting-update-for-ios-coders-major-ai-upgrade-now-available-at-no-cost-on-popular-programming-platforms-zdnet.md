@@ -1,7 +1,7 @@
 ---
 title: Exciting Update for iOS Coders! Major AI Upgrade Now Available at No Cost on Popular Programming Platforms | ZDNET
-date: 2024-10-20T18:50:07.771Z
-updated: 2024-10-21T19:04:08.171Z
+date: 2024-10-20T20:40:11.356Z
+updated: 2024-10-27T16:22:23.752Z
 tags:
   - apple
 categories:
@@ -50,6 +50,19 @@ But if you have the M1 MacBook Pro, the question of upgrading becomes a little t
 
 Jason Cipriani/ZDNET
 
+<!-- affiliate ads begin -->
+<span id="1834906">
+					<video width="864" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1834906.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1834906">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834906.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834906%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834906/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ###  1\. You need more battery life
 
 While you might expect the newest device to have the [better battery life](https://www.zdnet.com/article/how-to-make-your-macbook-battery-last-all-day/), the extra processing power does take a toll. In terms of pure battery life, the M1 beats the M3 by a decent margin. For general use, the M1 has up to 17 hours while the M3 only makes it to 12\. Solely on streaming, the gap lessens a little at 20 hours compared to 18\. 
@@ -74,31 +87,11 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 [See all](https://www.zdnet.com/newsletters/)
 
-<!-- affiliate ads begin -->
-<span id="1743243">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1743243.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19272-1743243">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1743243.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Faligracehair.sjv.io%2Fc%2F5597632%2F1743243%2F19272'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1743243/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ###  3\. You prefer a smaller overall size and touch bar
 
 The M1 and M2 versions of the MacBook Pro had a 13-inch option, but that choice is missing from the M3\. So, if you prefer a smaller layout for your MacBook, you'll want to look to the M1\. Perhaps the bigger loss here, though, is the [touch bar](https://www.zdnet.com/article/apple-finally-admits-it-made-a-mistake-and-backtracks-on-three-foolish-macbook-pro-design-decisions/), which is no longer available on any M3 model. While most people weren't fans of the touch bar, which was essentially an OLED strip of buttons that changed depending on context, it still had its core users. Are you one of them?
 
 [Buy the M1 MacBook Pro View now at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FApple-MacBook-14-inch-10%E2%80%91core-16%E2%80%91core%2Fdp%2FB09JQWSQK7%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C545604e4-c461-4ca6-b9d9-7557b5a9d949%7Cdtp&dtb=1)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111967/7443" target="_top" id="2111967">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111967" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111967/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  You should buy the M3 MacBook Pro if...
 
@@ -106,15 +99,22 @@ Buy a MacBook Pro with an M3 Pro chip on sale now.
 
 Jason Hiner/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123727/7443" target="_top" id="2123727">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123727" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123727/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ###  1\. You're working outside or in other very bright environments
 
 One of the biggest differences between the M1 and the M3 is the overall brightness. For SDR content, the M1 tops out at 500 nits while the M3 triples that with 1,600 nits. In a standard office environment, the former would be just fine. But in a sunny outdoor environment or a very bright indoor setting, this is going to be a noticeable difference. There are some third-party apps that let you increase the screen brightness of the M1, but if you want the best brightness, you'll need to get the newest device.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885943/19272" target="_top" id="1885943">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885943" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134239/18498" target="_top" id="2134239">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134239" border="0" alt="https://techidaily.com" width="721" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885943/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134239/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ###  2\. You're doing very intensive or time-sensitive tasks
@@ -132,10 +132,10 @@ It's been almost three years since Apple launched its M1-powered systems, so the
 [Buy the MacBook Pro M3 View now at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FApple-MacBook-Laptop-8%E2%80%91core-10%E2%80%91core%2Fdp%2FB0CM5KC8X7%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C545604e4-c461-4ca6-b9d9-7557b5a9d949%7Cdtp&dtb=1)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657386/16446" target="_top" id="1657386">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657386" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137972/21526" target="_top" id="2137972">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137972" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657386/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137972/21526" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Alternatives to consider
@@ -172,21 +172,24 @@ It's been almost three years since Apple launched its M1-powered systems, so the
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-fast-track-to-youtube-partner-level-achieve-10k-views/"><u>[New] 2024 Approved Fast Track to YouTube Partner Level - Achieve 10K Views</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-harnessing-home-content-a-commercialized-vlog-journey/"><u>[New] 2024 Approved Harnessing Home Content A Commercialized Vlog Journey</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-search-comments-on-youtube-quickly/"><u>[New] In 2024, How to Search Comments on YouTube Quickly?</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/n-2024-unveiling-the-art-of-video-crafting-on-pc-for-youtube-audiences/"><u>[New] In 2024, Unveiling the Art of Video Crafting on PC for YouTube Audiences</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-individual-to-institutional-growth-in-youtube-space/"><u>[Updated] 2024 Approved From Individual to Institutional Growth in YouTube Space</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-growth-strategies-for-youtube-videos-6-effortless-approaches/"><u>[Updated] 2024 Approved Growth Strategies for YouTube Videos 6 Effortless Approaches</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-hidden-to-highlighted-your-2-ways-to-see-yts-past-videos/"><u>[Updated] In 2024, From Hidden to Highlighted Your 2 Ways to See YT's Past Videos</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-integrate-titles-and-descriptions-into-your-youtube-video/"><u>[Updated] In 2024, How to Integrate Titles and Descriptions Into Your YouTube Video</u></a></li>
-<li><a href="https://win-able.techidaily.com/iuoajoodjplusocuoodoeodhuocroocpooditrpjllpn7pjg5xjgqhjgqtjg6vjgplnskhljzjjgavkvzzjgovmlrnms5xjgi0i/"><u>「ハジメテガイド:録音ファイルを簡単に作る方法」</u></a></li>
-<li><a href="https://video-capture.techidaily.com/2024-approved-exploring-manycams-latest-video-capture-innovations/"><u>2024 Approved Exploring ManyCam's Latest Video Capture Innovations</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/a-beginners-primer-to-ps4-gameplay-screenshots-and-streaming/"><u>A Beginner's Primer to PS4 Gameplay Screenshots and Streaming</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-change-vivo-s17-lock-screen-password-by-drfone-android/"><u>How To Change Vivo S17 Lock Screen Password?</u></a></li>
-<li><a href="https://driver-download.techidaily.com/intel-nuc-driver-updates-made-effortless-a-step-by-step-tutorial/"><u>Intel NUC Driver Updates Made Effortless - A Step-by-Step Tutorial</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/1725288760217-macdvd/"><u>Mac向けオススメ外付けDVDドライブレビュー：- 見つけた最高の選び方、ご紹介</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/stepwise-guide-switch-between-normal-and-pip-views-in-youtube-app/"><u>Stepwise Guide Switch Between Normal and PIP Views in YouTube App</u></a></li>
-<li><a href="https://win-guides.techidaily.com/votre-guide-a-la-securite-renforcee-les-logiciels-de-clonage-pour-transferer-des-donnees-disc-dur-vers-un-ssd-wd/"><u>Votre Guide À La Sécurité Renforcée : Les Logiciels De Clonage Pour Transférer Des Données Disc Dur Vers Un SSD WD</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-four-pillars-of-mobile-video-acquisition-igtv-edition-for-2024/"><u>[New] Four Pillars of Mobile Video Acquisition IGTV Edition for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-in-2024-highlighted-screenplay-scenes-bundle/"><u>[New] In 2024, Highlighted Screenplay Scenes Bundle</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-enhancing-visual-impact-a-guide-to-jump-cut-techniques/"><u>[Updated] In 2024, Enhancing Visual Impact A Guide to Jump Cut Techniques</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/ogvmp4-movavi/"><u>網上免費OGV變更成MP4 - 使用Movavi編輯器進行流暢轉換</u></a></li>
+<li><a href="https://win-tips.techidaily.com/comprehensive-robocopy-tutorial-one-directional-copying-methods-and-top-open-source-solutions/"><u>Comprehensive Robocopy Tutorial: One-Directional Copying Methods and Top Open Source Solutions</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/1724766794967-digiarty-software-inc/"><u>Digiarty Software, Inc. のプライバシーガイドライン - セキュリティとデータ保護に関する公式方針</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/efficient-8k-hevc-video-transcoding-tool-high-quality-compression-with-superior-conversion/"><u>Efficient 8K HEVC Video Transcoding Tool: High-Quality Compression with Superior Conversion</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/effortless-techniques-for-integrating-on-screen-text-into-your-videos/"><u>Effortless Techniques for Integrating On-Screen Text Into Your Videos</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/free-guide-converting-videos-into-itunes-format-on-a-mac/"><u>Free Guide: Converting Videos Into iTunes Format on a Mac</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-fix-your-ios-devices-unresponsive-keyboard-6-effective-tips/"><u>How to Fix Your iOS Device's Unresponsive Keyboard: 6 Effective Tips</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-infinix-zero-5g-2023-turbo-to-laptop-without-usb-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Infinix Zero 5G 2023 Turbo to Laptop Without USB | Dr.fone</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/24-best-free-youtube-video-editing-apps-for-iphone-and-ipad/"><u>In 2024, Best Free YouTube Video Editing Apps for iPhone & iPad</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/iphone-7-versus-htc-u-ultra-in-depth-2016-comparison-of-leading-smartphones/"><u>IPhone 7 versus HTC U Ultra: In-Depth 2016 Comparison of Leading Smartphones</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/macx-media-converter-seamlessly-transform-videos-into-itunes-format-for-ios-devices/"><u>MacX Media Converter - Seamlessly Transform Videos Into iTunes Format for iOS Devices</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/neueste-auswahl-an-kostenloser-software-zum-konvertieren-von-dvds-auf-mac-top-12/"><u>Neueste Auswahl an Kostenloser Software Zum Konvertieren Von DVDs Auf Mac – Top 12</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/pros-and-cons-showdown-macbook-pro-vs-macbook-air-with-retina-display-detailed-analysis/"><u>Pros and Cons Showdown: MacBook Pro vs MacBook Air with Retina Display Detailed Analysis</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/record-the-2018-fifa-world-cup-highlights-quick-upload-tips-for-youtube/"><u>Record the 2018 FIFA World Cup Highlights - Quick Upload Tips for YouTube</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/ultimate-8-screen-recorders-list/"><u>Ultimate 8 Screen Recorders List</u></a></li>
+<li><a href="https://fake-location.techidaily.com/wondering-the-best-alternative-to-hola-on-tecno-camon-20-pro-5g-here-is-the-answer-drfone-by-drfone-virtual-android/"><u>Wondering the Best Alternative to Hola On Tecno Camon 20 Pro 5G? Here Is the Answer | Dr.fone</u></a></li>
 </ul></div>
 

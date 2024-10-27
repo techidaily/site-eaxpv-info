@@ -1,7 +1,7 @@
 ---
 title: Open Communication
-date: 2024-10-17T00:21:06.291Z
-updated: 2024-10-21T23:16:19.230Z
+date: 2024-10-20T16:16:27.363Z
+updated: 2024-10-27T18:21:54.807Z
 tags:
   - apple
 categories:
@@ -41,10 +41,10 @@ Screenshot by Lance Whitney/ZDNET
 **Also: [I was on the fence with the Apple Watch 10, but these 3 features changed my mind](https://www.zdnet.com/article/i-was-on-the-fence-with-the-apple-watch-10-but-these-3-features-changed-my-mind/)**
 
 <!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1610918/18409" target="_top" id="1610918">
-  <img src="//a.impactradius-go.com/display-ad/18409-1610918" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948954/19272" target="_top" id="1948954">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948954" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1610918/18409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948954/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Send the default Check In through the Messages app
@@ -52,6 +52,13 @@ Screenshot by Lance Whitney/ZDNET
 Launch the Messages app on your Apple Watch. Start or continue a conversation with a trusted family member or friend. Tap the + icon to the left of the iMessage field. From the menu, select Check In. By default, the Check In screen will indicate a specific destination, such as home or work, and the estimated time of arrival from your current location. The feature will use a timer to determine how long it will take you to reach the destination. If you wish to share that information as is with the other person, tap Send.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135395/19272" target="_top" id="2135395">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135395" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135395/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. View the initial Check In notification
 
@@ -75,13 +82,6 @@ When the timer is up to indicate that you should have reached your destination, 
 
 Screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528700/16446" target="_top" id="1528700">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528700" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528700/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 5\. Change the time for a Check In
 
 If you don't want to share the default details with a Check In, you can easily change them. After starting or resuming a conversation in Messages with your trusted contact, tap the + icon and select Check In. At the Check In screen, tap Edit. The next screen displays several settings that you can modify.
@@ -91,6 +91,13 @@ If you don't want to share the default details with a Check In, you can easily c
 If you still wish to use a timer for the Check In option but change the amount of time allocated, tap Timer. Tap the button for hours and use the Digital Crown to cycle through different numbers. Do the same for the number of minutes. When finished, tap Done. Tap the yellow checkmark and then send the text. When you end the Check In at the appropriate time, your recipient will be alerted as an indication that you've arrived.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130874/7443" target="_top" id="2130874">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130874" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130874/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 6\. Send a customized Check In through the Messages app
 
@@ -107,10 +114,10 @@ Screenshot by Lance Whitney/ZDNET
 **Also: [Your Apple Watch is getting an upgrade - here are the best features in WatchOS 11](https://www.zdnet.com/article/your-apple-watch-is-getting-an-upgrade-here-are-the-best-features-in-watchos-11/)**
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068412/7443" target="_top" id="2068412">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068412" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://arkmc.pxf.io/c/5597632/352557/5172" target="_top" id="352557">
+  <img src="//a.impactradius-go.com/display-ad/5172-352557" border="0" alt="https://techidaily.com" width="720" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068412/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352557/5172" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 8\. Set a Check In for a workout in the Messages app
@@ -118,19 +125,6 @@ Screenshot by Lance Whitney/ZDNET
 Maybe you're working out at the gym or at home and want to let someone know when you've finished. You can do this a couple of ways. In the Messages app on your watch, start or continue a conversation with the recipient. Tap the Add icon, select Check In, and then tap Edit. Tap the option for Check In and change it to "When workout ends." Start your workout. When you're done, swipe the screen to the right and tap End. The other person will then receive the notification.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<span id="1374820">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1374820.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1374820">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374820.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374820%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374820/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 9\. Set a Check In for a workout in the Workout app
 
@@ -168,20 +162,18 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-idea-to-execution-an-essential-guide-to-youtube-shorts-template-design/"><u>[New] 2024 Approved From Idea to Execution An Essential Guide to YouTube Shorts Template Design</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-activate-or-deactivate-video-commenting-in-youtube/"><u>[New] 2024 Approved How To Activate or Deactivate Video Commenting in YouTube</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-create-animated-bouncing-text/"><u>[New] 2024 Approved How to Create Animated Bouncing Text</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-top-9-web-based-microphone-recording-tools-of-23/"><u>[New] 2024 Approved Top 9 Web-Based Microphone Recording Tools of '23</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-initiating-a-thriving-youtube-channel-avoid-these-8-essential-blunders/"><u>[New] Initiating a Thriving YouTube Channel? Avoid These 8 Essential Blunders</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-master-your-download-installation-and-usage-of-ez-grabber/"><u>[New] Master Your Download Installation and Usage of EZ Grabber</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-flavor-forge-30-epicurean-titles-that-resonate/"><u>[Updated] 2024 Approved Flavor Forge 30 Epicurean Titles That Resonate</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-frugal-hardware-efficient-obs-arrangements/"><u>[Updated] 2024 Approved Frugal Hardware Efficient OBS Arrangements</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-guide-to-livecasting-google-meet-on-youtube/"><u>[Updated] 2024 Approved Guide to Livecasting Google Meet on YouTube</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-price-efficiency-index-top-cloud-stores-of-the-year/"><u>[Updated] 2024 Approved Price-Efficiency Index Top Cloud Stores of the Year</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-free-fast-and-reliable-download-your-favorite-youtube-content-for-2024/"><u>[Updated] Free, Fast and Reliable Download Your Favorite YouTube Content for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-harness-the-power-of-engagement-boosting-youtube-traffic/"><u>[Updated] In 2024, Harness the Power of Engagement Boosting YouTube Traffic</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-unlock-the-power-of-product-placements-a-comprehensive-guide-for-youtubers/"><u>[Updated] Unlock the Power of Product Placements A Comprehensive Guide for YouTubers</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/elevating-windows-10-photos-visuals-through-personalized-filtersmusic/"><u>Elevating Windows 10 Photos Visuals Through Personalized Filters/Music</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/mastering-gadgets-with-toms-equipment-digest-a-deep-dive/"><u>Mastering Gadgets with Tom's Equipment Digest: A Deep Dive</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-elevating-online-presence-with-obs-facebook-linking/"><u>[New] 2024 Approved Elevating Online Presence with OBS-Facebook Linking</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-maximize-engagement-the-ultimate-list-of-youtube-growth-tactics/"><u>[New] Maximize Engagement The Ultimate List of YouTube Growth Tactics</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-a-quick-dive-into-video-ratios-the-aspect-ratio-essentials-for-youtubers/"><u>[Updated] 2024 Approved A Quick Dive Into Video Ratios The Aspect Ratio Essentials for YouTubers</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-first-steps-to-fame-8-free-courses-for-youtube-novices/"><u>[Updated] 2024 Approved First Steps to Fame 8 Free Courses for YouTube Novices</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-amplify-your-channel-effortless-tactics-for-more-views-for-2024/"><u>[Updated] Amplify Your Channel Effortless Tactics for More Views for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-obs-studio-streamlining-your-professional-skype-broadcasts/"><u>[Updated] OBS Studio Streamlining Your Professional Skype Broadcasts</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-streamlining-your-gaming-playback-for-2024/"><u>[Updated] Streamlining Your Gaming Playback for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-top-25-capture-apps-for-your-windows-10-device/"><u>[Updated] Top 25 Capture Apps for Your Windows 10 Device</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-mastering-the-art-of-camera-recording-top-picks/"><u>2024 Approved Mastering the Art of Camera Recording – Top Picks</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-radiance-studios-review-pinnacle-suite-deep-dive-into-studio-25-2023/"><u>2024 Approved Radiance Studios Review Pinnacle Suite Deep Dive Into Studio 25, 2023</u></a></li>
+<li><a href="https://win-outstanding.techidaily.com/aomei-backupper-google/"><u>AOMEI Backupperで失われたファイルを完全に復元する方法 - Google検索最適化</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/essential-mac-apps-screen-recording-made-simple/"><u>Essential Mac Apps Screen Recording Made Simple</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/whats-the-real-distinction-between-youtube-and-dailymention-for-2024/"><u>What's the Real Distinction Between YouTube and DailyMention for 2024</u></a></li>
 </ul></div>
 

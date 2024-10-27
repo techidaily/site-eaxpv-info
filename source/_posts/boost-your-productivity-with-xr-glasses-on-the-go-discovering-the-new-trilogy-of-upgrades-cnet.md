@@ -1,7 +1,7 @@
 ---
 title: "Boost Your Productivity with XR Glasses On-the-Go: Discovering the New Trilogy of Upgrades | CNET"
-date: 2024-10-18T17:21:33.261Z
-updated: 2024-10-21T22:37:13.081Z
+date: 2024-10-21T19:30:31.908Z
+updated: 2024-10-27T19:22:42.016Z
 tags:
   - apple
 categories:
@@ -81,10 +81,10 @@ Along with the [Viture Pro XR glasses](https://buy.geni.us/Proxy.ashx?TSID=36825
 Lastly, Viture announced a new limited-edition controller in partnership with 8BitDo. You can connect this new controller, with a classic XBox-style controller layout, via Bluetooth to your gaming device, including the Nintendo Switch. The smokey translucent design looks cool and matches the Viture ecosystem. The 8BitDo controller also serves as a companion to the Viture Neckband, but I have yet to try out the Neckband, so I cannot share my experiences with that accessory.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1061528/11832" target="_top" id="1061528">
-  <img src="//a.impactradius-go.com/display-ad/11832-1061528" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148633/16836" target="_top" id="2148633">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148633" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1061528/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148633/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -121,18 +121,16 @@ The [Viture Pro XR glasses](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-best-practices-for-zoom-engagement-on-win10-systems-for-2024/"><u>[New] Best Practices for Zoom Engagement on Win10 Systems for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-free-profile-imagery-for-youtubers-for-2024/"><u>[New] Free Profile Imagery for YouTubers for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-guide-free-youtube-downloads-without-programs-for-2024/"><u>[New] Guide Free YouTube Downloads Without Programs for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-how-often-do-youtubers-receive-income-for-2024/"><u>[New] How Often Do YouTubers Receive Income for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-spark-interest-with-unique-channel-names/"><u>[New] In 2024, How to Spark Interest With Unique Channel Names</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-download-youtube-thumbnail-in-3-ways-onlinewinmac/"><u>[Updated] 2024 Approved How to Download YouTube Thumbnail in 3 Ways [Online/Win/Mac]</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/1717723009389-updated-2024-approved-how-to-see-your-subscribers-on-youtube/"><u>[Updated] 2024 Approved How to See Your Subscribers on YouTube?</u></a></li>
-<li><a href="https://extra-information.techidaily.com/complete-rotation-recording-versus-stereo-capture-for-2024/"><u>Complete Rotation Recording Versus Stereo Capture for 2024</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/how-do-you-play-mkv-files-on-samsung-galaxy-a14-4g-by-aiseesoft-video-converter-play-mkv-on-android/"><u>How do you play MKV files on Samsung Galaxy A14 4G?</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/hues-harmony-crafting-colorful-artistry-for-2024/"><u>Hues Harmony Crafting Colorful Artistry for 2024</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-screen-mirroring-apple-iphone-11-pro-max-to-tv-or-pc-drfone-by-drfone-ios/"><u>In 2024, How Screen Mirroring Apple iPhone 11 Pro Max to TV or PC? | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-vivo-x-fold-2-phone-password-without-factory-reset-by-drfone-android/"><u>In 2024, How to Unlock Vivo X Fold 2 Phone Password Without Factory Reset?</u></a></li>
-<li><a href="https://techidaily.com/what-you-need-to-know-to-improve-your-nokia-c12-plus-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>What You Need To Know To Improve Your Nokia C12 Plus Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-balancing-act-proper-techniques-for-stable-photos-for-2024/"><u>[New] Balancing Act Proper Techniques for Stable Photos for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-immersive-storytelling-through-total-environmental-capture/"><u>[New] Immersive Storytelling Through Total Environmental Capture</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/n-2024-legal-landscapes-understanding-youtube-and-cc-divergences/"><u>[New] In 2024, Legal Landscapes Understanding YouTube & CC Divergences</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-elevate-your-youtube-presence-with-these-8-free-courses/"><u>[Updated] 2024 Approved Elevate Your YouTube Presence with These 8 Free Courses</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-audio-to-action-mp3-to-youtube-conversion-journey/"><u>[Updated] 2024 Approved From Audio to Action MP3-to-YouTube Conversion Journey</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-border-techniques-for-enhanced-instagram-pictures/"><u>[Updated] In 2024, Border Techniques for Enhanced Instagram Pictures</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-the-art-of-balancing-video-quality-and-adsense-revenue/"><u>[Updated] The Art of Balancing Video Quality & AdSense Revenue</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-time-saving-steps-for-documenting-your-google-voice-talks/"><u>[Updated] Time-Saving Steps for Documenting Your Google Voice Talks</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/best-video-repair-tool-to-fix-and-repair-corrupt-mp4movavi-video-files-of-nord-n30-5g-by-stellar-video-repair-mobile-video-repair/"><u>Best Video Repair tool to Fix and Repair Corrupt MP4,MOV,AVI video files of Nord N30 5G</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-rootjunky-apk-to-bypass-google-frp-lock-for-vivo-g2-by-drfone-android/"><u>In 2024, Rootjunky APK To Bypass Google FRP Lock For Vivo G2</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/the-cutting-edge-without-costs-navigating-through-these-8-tools-for-2024/"><u>The Cutting Edge Without Costs - Navigating Through These 8 Tools for 2024</u></a></li>
 </ul></div>
 

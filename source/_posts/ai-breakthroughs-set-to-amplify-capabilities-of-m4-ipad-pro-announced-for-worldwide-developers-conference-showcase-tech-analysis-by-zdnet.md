@@ -1,7 +1,7 @@
 ---
 title: AI Breakthroughs Set to Amplify Capabilities of M4 iPad Pro Announced for Worldwide Developers Conference Showcase | Tech Analysis by ZDNET
-date: 2024-10-17T23:33:54.004Z
-updated: 2024-10-21T18:04:57.306Z
+date: 2024-10-20T19:32:42.275Z
+updated: 2024-10-27T18:11:10.889Z
 tags:
   - apple
 categories:
@@ -43,10 +43,10 @@ Now, here's the thing. I tried watching a couple of Marvel 3D movies via Disney+
 I'm guessing that Apple's 3Difying of a 2D image will be at about the same level. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111981/7443" target="_top" id="2111981">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111981" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151854/7443" target="_top" id="2151854">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151854" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111981/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151854/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Watch those images together using SharePlay in the Photos app
@@ -56,10 +56,10 @@ And here's another feature that I can't imagine any users clamoring for. Now, if
 So, yeah, if Grandma Sadie in Seattle has a Vision Pro, Cousin Marty in Miami has a Vision Pro, and you have a Vision Pro in Yuma, you can all stand around the virtual photo screen and ooh and ah over pictures of baby Alice. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151888/7443" target="_top" id="2151888">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151888" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2148772/18498" target="_top" id="2148772">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148772" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151888/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148772/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Gestures for opening Home View and Control Center
@@ -78,11 +78,25 @@ Screenshot by David Gewirtz/ZDNET
 
 On the other hand, Apple "later this year" will enable you to create displays with more resolutions. The most interesting is the full wrap-around display, which will be the equivalent of two 4K monitors. 
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134221/18498" target="_top" id="2134221">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134221" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134221/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 5\. Choo-choo train mode
 
 To be fair, Apple didn't call it that. We've [talked about the Vision Pro's travel mode](https://www.zdnet.com/article/itching-to-try-vision-pros-travel-mode-heres-what-to-expect-before-you-go/), which was mostly intended for airplane travel. 
 
 In VisionOS 2, Apple is announcing that there is dedicated support in travel mode for train travel. We know [people have already been successful using the Vision Pro on the train and even subway](https://www.youtube.com/shorts/8ckKAjAWLw8), but in this case, Apple presumably tweaked performance somewhat. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094419/7443" target="_top" id="2094419">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094419" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094419/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 6\. New developer APIs
 
@@ -93,13 +107,6 @@ There are a ton of VR and AR APIs in Apple's platforms. But this week, at WWDC, 
 * **Volumetric API:** Allows complex 3D apps to run side-by-side. A volumetric API is at the core of most 3D content, because it allows developers to create, manage, and present volumetric content. My read on this announcement is not the introduction of a Volumetric API, but that it can allow multiple 3D apps to run concurrently.
 * **TabletopKit:** Helps developers create apps that anchor to flat surfaces. One obvious example is board game kits, but this could apply to interior design apps, architectural and construction projects, gaming, navigation, and more.
 * **Enterprise APIs:** These were described as enterprise-specific APIs, so we can assume they're somewhat special purpose. Examples given were surgical training and manufacturing.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100534/7443" target="_top" id="2100534">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100534" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100534/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 7\. New Canon spatial lens for creating spatial video
 
@@ -127,13 +134,6 @@ Apple didn't cover all the new features during its announcement. At the end of t
 * **Keyboard breakthrough:** This was another feature I felt it was important for Apple to introduce, and apparently it will be available. No mention was made of it, so we have no idea if it's limited solely to Apple's own keyboards (but that's probably the case).
 * **Bora Bora environment:** I wanted to see more environments and we get…one. Personally, I think all the work on spatial photos and spatial videos could have been replaced with the ability for third parties to create 3D environments, but Apple didn't go there. But hey, Bora Bora, right?
 * **Rearrangeable Home View:** This was also not described but I'm guessing this means you can move around the Home icons.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135348/19272" target="_top" id="2135348">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135348" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135348/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  What do you think?
 
@@ -179,22 +179,21 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-flip-flop-your-watching-anchoring-yourself-at-the-end-of-queue/"><u>[New] 2024 Approved Flip-Flop Your Watching Anchoring Yourself at the End of Queue</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-expertly-reviewed-7-top-voice-changer-applications-for-2024/"><u>[New] Expertly Reviewed 7 Top Voice Changer Applications for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-how-to-make-money-on-youtube-for-2024/"><u>[New] How To Make Money on YouTube for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-draft-to-edit-essential-film-techniques-via-youtube/"><u>[New] In 2024, From Draft to Edit Essential Film Techniques via YouTube</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-hashtag-heroes-the-ultimate-list-for-popularizing-your-youtube-snippets/"><u>[New] In 2024, Hashtag Heroes The Ultimate List for Popularizing Your YouTube Snippets</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-on-screen-capture-aid/"><u>[New] On-Screen Capture Aid</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-recording-conferences-on-a-budget-friendly-platform-for-2024/"><u>[New] Recording Conferences on a Budget-Friendly Platform for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-financial-flourishing-in-youtube-content-markets/"><u>[Updated] 2024 Approved Financial Flourishing in YouTube Content Markets</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-gameplay-reel-how-to-reviewed/"><u>[Updated] Gameplay Reel How-To Reviewed</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-harmony-hunt-uncover-the-most-popular-free-downloader-apps-on-youtube-and-android-for-2024/"><u>[Updated] Harmony Hunt - Uncover the Most Popular Free Downloader Apps on YouTube and Android for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-gastronomy-gurus-the-elite-of-food-vlogs/"><u>[Updated] In 2024, Gastronomy Gurus The Elite of Food Vlogs</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-ultimate-shot-selection-best-stabilizers-reviewed/"><u>[Updated] Ultimate Shot Selection - Best Stabilizers Reviewed</u></a></li>
-<li><a href="https://discover-amazing.techidaily.com/windows-11-mac/"><u>完成 Windows 11 与 Mac 连接驱动器的数据恢复方法</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/engineers-rejoice-new-300-risc-v-laptop-by-innovative-chinese-company/"><u>Engineers Rejoice: New $300 RISC-V Laptop by Innovative Chinese Company</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/premium-portable-switch-game-clones/"><u>Premium Portable Switch Game Clones</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshoot-audacity-sound-output-issues-with-these-5-simple-techniques/"><u>Troubleshoot Audacity Sound Output Issues with These 5 Simple Techniques</u></a></li>
-<li><a href="https://fox-links.techidaily.com/unlock-the-full-potential-of-your-iphone-photos-for-2024/"><u>Unlock the Full Potential of Your iPhone Photos for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-expert-tips-for-snapchats-magic-invisible-hands-make-the-picture-pop/"><u>[New] 2024 Approved Expert Tips for Snapchat's Magic Invisible Hands Make the Picture Pop</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-2024-approved-honing-hertz-gameplay-tactics-in-free-fire/"><u>[New] 2024 Approved Honing Hertz Gameplay Tactics in Free Fire</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-key-strategies-for-board-utilization-across-devices-in-zoom/"><u>[New] 2024 Approved Key Strategies for Board Utilization Across Devices in Zoom</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-crafting-soft-endings-on-soundscapes-with-audacity/"><u>[Updated] 2024 Approved Crafting Soft Endings on Soundscapes with Audacity</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-guide-finding-perfect-music-for-unpack-videos/"><u>2024 Approved Guide Finding Perfect Music For Unpack Videos</u></a></li>
+<li><a href="https://howto.techidaily.com/best-methods-for-nubia-red-magic-8s-proplus-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Best Methods for Nubia Red Magic 8S Pro+ Wont Turn On | Dr.fone</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/bestvalue-convertible-laptop-unpacking-the-asus-chromebook-flip-c302cas-excellent-features/"><u>BestValue #Convertible Laptop: Unpacking the Asus Chromebook Flip C302CA's Excellent Features</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/download-premium-hd-and-4k-videos-in-full-scope-360-for-free-including-mp4-3gp-and-flv-options/"><u>Download Premium HD & 4K Videos in Full Scope (360°) for Free: Including MP4, 3GP & FLV Options</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/galaxy-vs-xperia-choosing-the-best-a-detailed-side-by-side-review/"><u>Galaxy Vs. Xperia : Choosing the Best - A Detailed Side-by-Side Review</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/how-to-burn-a-dvd-on-macos-without-quality-loss-step-by-step-guide/"><u>How to Burn a DVD on macOS without Quality Loss - Step-by-Step Guide</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/how-to-find-and-install-the-elusive-ios-amidst-non-appearance-issues-for-iphone-users/"><u>How To Find and Install the Elusive iOS Amidst Non-Appearance Issues for iPhone Users</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-full-guide-on-mirroring-your-oppo-k11-5g-to-your-pcmac-drfone-by-drfone-android/"><u>In 2024, Full Guide on Mirroring Your Oppo K11 5G to Your PC/Mac | Dr.fone</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/iphone-melody-integration-how-to-import-songs-without-itunes/"><u>IPhone Melody Integration: How To Import Songs Without iTunes</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/limited-time-deal-convert-your-dvd-collection-with-ease-and-savings/"><u>Limited Time Deal: Convert Your DVD Collection with Ease and Savings!</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/macx-mediatrans/"><u>MacX MediaTrans 使用法と製品マニュアル【権威ある指南書】</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/step-by-step-guide-to-ripping-dvds-to-digital-files-using-macx-software-compatible-with-pc-iphone-and-ipod/"><u>Step-by-Step Guide to Ripping DVDs to Digital Files Using MacX Software Compatible with PC, iPhone & iPod</u></a></li>
 </ul></div>
 

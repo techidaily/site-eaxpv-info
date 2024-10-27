@@ -1,7 +1,7 @@
 ---
 title: Beware! IPhone and iPad Bricking Incidents Linked to iOS 18 Upgrade | Stay Informed Before Installation
-date: 2024-10-18T23:03:40.528Z
-updated: 2024-10-21T17:31:38.952Z
+date: 2024-10-24T18:36:20.160Z
+updated: 2024-10-27T20:15:27.635Z
 tags:
   - apple
 categories:
@@ -45,16 +45,16 @@ To help you make this decision, we've broken down all of the most important deta
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958378/18409" target="_top" id="1958378">
+  <img src="//a.impactradius-go.com/display-ad/18409-1958378" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1958378/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  You should buy the iPhone 16 if...
 
 Kerry Wan/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148641/16836" target="_top" id="2148641">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148641" border="0" alt="https://techidaily.com" width="254" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148641/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ###  1\. You'd benefit from Apple Intelligence features
 
@@ -73,10 +73,10 @@ The [iPhone 16](https://www.zdnet.com/article/every-iphone-16-model-compared-whi
 On the side below the [Power Button is the new Camera Control](https://www.zdnet.com/article/every-iphone-16-model-features-a-new-camera-button-heres-what-it-can-do/). It's a tactile switch with a special sensor that can perform unique actions with a light touch. For example, pressing it quickly launches the Camera app for taking quick snapshots or recording a video. It even introduces a preview feature to help you frame the shot. And if that wasn't enough, it'll work with third-party apps.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137205/26400" target="_top" id="2137205">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137205" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137201/26400" target="_top" id="2137201">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137201" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137205/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137201/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ###  3\. You want "next-level performance"
@@ -97,13 +97,6 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 [See all](https://www.zdnet.com/newsletters/)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043596/7443" target="_top" id="2043596">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043596" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043596/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  You should buy the iPhone 15 if...
 
 Kerry Wan/ZDNET
@@ -117,10 +110,10 @@ All of the bells and whistles on the iPhone 16 are certainly nice, but are they 
 Sometimes, it's best to wait until all the bugs have been ironed out. Plus, there's a lot of uncertainty surrounding the chipset. Early impressions indicate the A18 can handle all the AI features, but can it? Or will we see a performance drop once it launches? 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135374/19272" target="_top" id="2135374">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135374" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037350/7443" target="_top" id="2037350">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037350" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135374/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037350/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ###  2\. You're on a budget
@@ -130,6 +123,13 @@ With the release of a new model, older phones often see a price drop, and that i
 It wouldn't be a bad pick-up, either. The camera system of the previous generation is great to this day, the A16 Bionic chip is still plenty powerful, and the Dynamic Island is a welcomed addition. You can enjoy a similar camera performance. Plus, you won't be bogged down by nascent AI features you may or may not ever use. 
 
 [Buy the iPhone 15 $729.99 at Best Buy](https://shop-links.co/link/?url=https%3A%2F%2Fbestbuy.7tiv.net%2Fc%2F376373%2F633495%2F10014%3Fprodsku%3D6417992%26u%3Dhttp%253A%252F%252Fwww.bestbuy.com%252Fsite%252F-%252F6417992.p%253Fcmp%253DRMX&publisher_slug=itechdaily19598&exclusive=1)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144289/7443" target="_top" id="2144289">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144289" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144289/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Alternatives to consider
 
@@ -165,24 +165,18 @@ It wouldn't be a bad pick-up, either. The camera system of the previous generati
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-flawless-footage-with-best-stabilizer-brands/"><u>[New] 2024 Approved Flawless Footage with Best Stabilizer Brands</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-facebook-live-video-downloaders-how-to-download-live-videos/"><u>[New] Facebook Live Video Downloaders | How to Download Live Videos?</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-how-to-keep-unwanted-content-away-from-your-computer-and-phone-for-2024/"><u>[New] How to Keep Unwanted Content Away From Your Computer and Phone for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-financial-fortitude-for-youtubers-beyond-basic-earnings/"><u>[New] In 2024, Financial Fortitude for YouTubers Beyond Basic Earnings</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-guide-the-ultimate-list-of-video-converters/"><u>[New] In 2024, Guide The Ultimate List of Video Converters</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-mastering-the-visuals-a-podcast-logo-blueprint/"><u>[New] Mastering the Visuals A Podcast Logo Blueprint</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/new-the-blueprint-for-winning-campaigns-snapchat-edition-for-2024/"><u>[New] The Blueprint for Winning Campaigns Snapchat Edition for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-free-frame-perfection-on-youtube-your-ultimate-guidebook/"><u>[Updated] 2024 Approved Free Frame Perfection on YouTube - Your Ultimate Guidebook</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-gaining-traction-on-youtube-the-successful-sponsorship-roadmap-by-famebit/"><u>[Updated] 2024 Approved Gaining Traction on YouTube The Successful Sponsorship Roadmap by FameBit</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-from-gaming-to-content-creation-twitch-versus-youtube/"><u>[Updated] From Gaming to Content Creation Twitch Versus YouTube</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-reverse-a-youtube-playlist-for-2024/"><u>[Updated] How to Reverse a YouTube Playlist for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-get-free-youtube-music-anytime-with-these-high-performing-splitters/"><u>[Updated] In 2024, Get Free YouTube Music Anytime With These High-Performing Splitters</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-neuroscience-insights-enhance-effective-corporate-governance/"><u>[Updated] In 2024, How Neuroscience Insights Enhance Effective Corporate Governance</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/5-innovative-yt-tales-share-your-life-journey/"><u>5 Innovative YT Tales Share Your Life Journey</u></a></li>
-<li><a href="https://solve-helper.techidaily.com/cookiebot-enhanced-user-experience-boost-your-sites-performance/"><u>Cookiebot-Enhanced User Experience: Boost Your Site's Performance!</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-zte-nubia-z60-ultra-pattern-lock-if-forgotten-6-ways-by-drfone-android/"><u>In 2024, How to Unlock ZTE Nubia Z60 Ultra Pattern Lock if Forgotten? 6 Ways</u></a></li>
-<li><a href="https://fox-info.techidaily.com/in-2024-unveiling-the-secrets-of-jaunt-vr/"><u>In 2024, Unveiling the Secrets of Jaunt VR</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/izing-video-content-8-essentials-for-novices-for-2024/"><u>Monetizing Video Content - 8 Essentials for Novices for 2024</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/updated-in-2024-breaking-news-filmora-x-expands-to-arm-devices/"><u>Updated In 2024, Breaking News Filmora X Expands to ARM Devices</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-how-to-blur-the-video-background-in-a-microsoft-teams-meeting/"><u>[New] In 2024, How to Blur the Video Background in a Microsoft Teams Meeting?</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-explore-10-premier-yoga-streams-for-wellness-boost/"><u>2024 Approved Explore 10 Premier Yoga Streams for Wellness Boost</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/enhanced-snipping-and-paint-features-in-the-latest-windows-11-update/"><u>Enhanced Snipping & Paint Features in the Latest Windows 11 Update</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/ensuring-your-safety-how-regularly-contributing-to-microsoft-helps-maintain-windows-10s-secure-status-post-2025/"><u>Ensuring Your Safety: How Regularly Contributing to Microsoft Helps Maintain Windows 10'S Secure Status Post-2025</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/exploring-the-future-microsofts-early-implementation-of-wi-fi-7-technology-on-windows-11-platform/"><u>Exploring the Future: Microsoft's Early Implementation of Wi-Fi 7 Technology on Windows 11 Platform</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/fastest-way-to-access-desktop-in-windows-10-a-step-by-step-guide/"><u>Fastest Way to Access Desktop in Windows 10: A Step-by-Step Guide</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/flawless-coexistence-of-linktree-and-tiktok-biographies-for-2024/"><u>Flawless Coexistence of Linktree and TikTok Biographies for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/get-windows-11-professional-now-at-an-amazing-discount-of-88/"><u>Get Windows 11 Professional Now at an Amazing Discount of 88%</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/guide-customizing-your-windows-11-alert-sounds/"><u>Guide: Customizing Your Windows 11 Alert Sounds</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-watch-hulu-outside-us-on-infinix-zero-30-5g-drfone-by-drfone-virtual-android/"><u>How to Watch Hulu Outside US On Infinix Zero 30 5G | Dr.fone</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/igniting-the-fires-of-engagement-with-viral-instagram-videos-for-2024/"><u>Igniting the Fires of Engagement with Viral Instagram Videos for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/resurrecting-the-core-of-windows-11s-problem-solving-tools/"><u>Resurrecting the Core of Windows 11'S Problem-Solving Tools</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ltimate-checklist-of-key-elements-in-tagging-a-video/"><u>The Ultimate Checklist of Key Elements in Tagging a Video</u></a></li>
 </ul></div>
 

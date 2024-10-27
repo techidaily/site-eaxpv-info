@@ -1,7 +1,7 @@
 ---
 title: "Unveiling at the Let Loose Event: The New M4 iPad Pro and 13-Inch iPad Air Revealed with Upgraded Apple Pencil - Full Recap on ZDNet"
-date: 2024-10-19T17:07:10.991Z
-updated: 2024-10-21T17:17:32.370Z
+date: 2024-10-23T18:38:14.330Z
+updated: 2024-10-27T18:34:32.310Z
 tags:
   - apple
 categories:
@@ -31,13 +31,6 @@ Tim Cook kicked off the event by speaking about how the Apple Vision Pro has bee
 Apple's "Let Loose" was a virtual product launch event that took place on May 7, at 7 am PT/10 am ET. It lasted about 35 minutes and was live-streamed on [Apple.com](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2F&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp), [YouTube](https://www.youtube.com/watch?v=f1J38FlDKxo), and via the Apple TV app. 
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 1\. iPad Pro, now with OLED displays and M4
 
@@ -75,6 +68,19 @@ Unlike the M4-equipped iPad Pro, the iPad Air comes with an M2 chip, making it a
 
 The new iPad Air is available in Blue, Purple, Starlight, and Space Gray, with [prices starting at $599](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-ipad%2Fipad-air&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) for the 11-inch iPad Air, and $799 for the 13-inch model.
 
+<!-- affiliate ads begin -->
+<span id="1993654">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993654.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993654">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993654.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993654%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993654/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Apple Pencil Pro
 
 Apple
@@ -92,10 +98,10 @@ Apple
 The Apple Pencil Pro costs $129 and supports Apple's Find My service, letting you track the location of the accessory should you drop or misplace it. You can purchase the [Apple Pencil Pro](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fproduct%2FMX2D3AM%2FA%2Fapple-pencil-pro&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) today, and it will start shipping next week.
 
 <!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557742/17382" target="_top" id="1557742">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557742" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2148772/18498" target="_top" id="2148772">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148772" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557742/17382" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148772/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Magic Keyboard
@@ -105,10 +111,16 @@ Apple
 The iPad event also included a new, more durable Magic Keyboard, featuring a larger trackpad and a function row along the top. The Magic Keyboard's new look and upgraded aluminum construction is meant to make the iPad Pro look and feel more like a laptop, rather than a tablet with an optional keyboard case.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528703/16446" target="_top" id="1528703">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528703" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528703/16446" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1531879">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1531879.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1531879">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531879.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531879%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531879/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Why would Apple host an event before WWDC?
@@ -116,10 +128,10 @@ The iPad event also included a new, more durable Magic Keyboard, featuring a lar
 Although Apple is hosting its [Worldwide Developers Conference (WWDC)](https://www.zdnet.com/article/apple-confirms-wwdc-2024-for-june-10-will-ai-steal-the-show/) on June 10, that event is reserved for new iOS, iPadOS, visionOS, and macOS announcements, plus Apple's new AI strategy. The Let Loose event was focused on the latest hardware offerings, with the [OLED iPad Pro](https://www.zdnet.com/article/7-ipad-pro-features-that-would-make-me-instantly-upgrade-to-apples-next-model/) being the main star.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151890/7443" target="_top" id="2151890">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151890" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1484951/16446" target="_top" id="1484951">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484951" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151890/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484951/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Did the Let Loose event cover iPadOS 17.5 or iPadOS 18?
@@ -168,16 +180,19 @@ The Apple Let Loose event was a pre-recorded video but is still available for st
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-gaming-income-optimization-tips-for-2024/"><u>[New] Gaming Income Optimization Tips for 2024</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-in-2024-discovering-the-best-in-android-gaming-kinemaster-edition/"><u>[New] In 2024, Discovering the Best in Android Gaming KineMaster Edition</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-followers-in-motion-analyzer/"><u>[New] In 2024, Followers in Motion Analyzer</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-finalcut-pro-elevating-your-youtube-edits-from-good-to-great/"><u>[Updated] 2024 Approved FinalCut Pro Elevating Your YouTube Edits From Good to Great</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-camera-to-chrome-youtube-shorts-video-upload-guide/"><u>[Updated] 2024 Approved From Camera to Chrome YouTube Shorts Video Upload Guide</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-graphic-portrayal-of-future-social-momentum/"><u>[Updated] In 2024, Graphic Portrayal of Future Social Momentum</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/approved-tailor-made-youtube-url-strategies-an-easier-approach/"><u>2024 Approved Tailor-Made YouTube URL Strategies An Easier Approach</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/acer-nitro-5-users-manual-how-to-refresh-system-drivers-efficiently/"><u>Acer Nitro 5 User's Manual: How to Refresh System Drivers Efficiently</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/how-to-change-your-sim-pin-code-on-your-honor-x50-phone-by-drfone-android/"><u>How To Change Your SIM PIN Code on Your Honor X50 Phone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-windows-proxy-detection-corrections/"><u>Mastering Windows Proxy Detection Corrections</u></a></li>
-<li><a href="https://win-community.techidaily.com/recupera-file-eliminati-ripristina-i-dati-gratis-da-una-tua-usb-con-4-modi/"><u>Recupera File Eliminati: Ripristina I Dati Gratis Da Una Tua USB Con [4 Modi]</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-creating-engaging-youtube-trailers-in-filmora/"><u>[New] 2024 Approved Creating Engaging YouTube Trailers in Filmora</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-creative-channel-titling-techniques-for-growth/"><u>[New] 2024 Approved Creative Channel Titling Techniques for Growth</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-harness-high-quality-banners-free-for-content-developers/"><u>[New] 2024 Approved Harness High-Quality Banners – Free for Content Developers</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-high-end-audio-for-youtubes-best-gamers/"><u>[New] 2024 Approved High-End Audio for YouTube's Best Gamers</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-the-blueprint-designing-your-first-youtube-trailer/"><u>[New] 2024 Approved The Blueprint Designing Your First YouTube Trailer</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-unleashing-potential-views-best-keyword-resources-ranked/"><u>[New] Unleashing Potential Views Best Keyword Resources Ranked</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-foundations-first-what-to-invest-in-for-youtubing-for-2024/"><u>[Updated] Foundations First What To Invest In for YouTubing for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-securing-your-social-media-visuals-instagram-edition/"><u>[Updated] Securing Your Social Media Visuals Instagram Edition</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/behind-the-scenes-youtubes-view-count-algorithm-for-2024/"><u>Behind the Scenes YouTube's View Count Algorithm for 2024</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/boost-performance-on-your-alienware-system-with-essential-bios-upgrades/"><u>Boost Performance on Your Alienware System with Essential BIOS Upgrades</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/how-to-easily-change-your-avi-videos-into-mp4-with-no-costs-compatible-solutions-for-both-pc-and-mac-enthusiasts/"><u>How to Easily Change Your AVI Videos Into MP4 with No Costs – Compatible Solutions for Both PC and Mac Enthusiasts</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/24-universal-templates-galore-for-youtube-crafting/"><u>In 2024, Universal Templates Galore – For YouTube Crafting</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/top-10-tips-to-enhance-your-meta-quest-virtual-reality-adventure/"><u>Top 10 Tips to Enhance Your Meta Quest Virtual Reality Adventure</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-2024-approved-how-to-capture-streaming-audio/"><u>Updated 2024 Approved How to Capture Streaming Audio</u></a></li>
 </ul></div>
 

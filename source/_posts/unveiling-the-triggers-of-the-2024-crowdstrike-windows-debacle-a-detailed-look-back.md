@@ -1,7 +1,7 @@
 ---
 title: "Unveiling the Triggers of the 2024 CrowdStrike-Windows Debacle: A Detailed Look Back"
-date: 2024-10-16T17:56:29.413Z
-updated: 2024-10-21T22:57:49.481Z
+date: 2024-10-26T17:05:37.765Z
+updated: 2024-10-27T16:46:18.451Z
 tags:
   - apple
 categories:
@@ -51,10 +51,10 @@ Repairing the damage from a flaw like this is a painfully tedious process that r
 If you know anyone whose job involves administering Windows PCs in a corporate network that uses the CrowdStrike code, you can be confident they are very busy right now, and will be for days to come.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012434/19272" target="_top" id="2012434">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012434" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151888/7443" target="_top" id="2151888">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151888" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012434/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151888/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## We've seen this movie before
@@ -94,10 +94,10 @@ In the You Can't Make This Up Department… CrowdStrike's founder and CEO, Georg
 What makes the 2024 sequel so much worse is that it also affected Windows-based servers running in the cloud, on Microsoft Azure and on AWS. Just as with the many laptops and desktop PCs that were bricked by this faulty update, the cloud-based servers require time-consuming manual interventions to recover.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151894/7443" target="_top" id="2151894">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151894" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2087234/19272" target="_top" id="2087234">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087234" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151894/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087234/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## CrowdStrike's QA failed
@@ -127,10 +127,10 @@ As part of its initial response, CrowdStrike says it plans to take additional me
 Meanwhile, the United States House of Representatives Homeland Security Committee plans to call CrowdStrike's CEO up for hearings on what went wrong, and CrowdStrike's Chief Security Officer, Shawn Henry, [posted an apology on LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7220983915421806592/), admitting "On Friday, we failed you. ... The confidence we built in drips over the years was lost in buckets within hours, and it was a gut punch."
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094414/7443" target="_top" id="2094414">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094414" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/1006793/11832" target="_top" id="1006793">
+  <img src="//a.impactradius-go.com/display-ad/11832-1006793" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094414/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1006793/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How much fault should Microsoft shoulder?
@@ -181,18 +181,20 @@ Nonetheless, this incident, which caused many billions of dollars' worth of dama
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-2024-approved-ultimate-guide-to-the-finest-3d-blu-ray-equipment/"><u>[New] 2024 Approved Ultimate Guide to the Finest 3D Blu-Ray Equipment</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-hitting-the-high-notes-of-youtube-editing-audio-addition-secrets-revealed-for-2024/"><u>[New] Hitting the High Notes of YouTube Editing Audio Addition Secrets Revealed for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-free-youtube-extractors-a-comprehensible-guide-for-beginners/"><u>[Updated] 2024 Approved Free YouTube Extractors A Comprehensible Guide for Beginners</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-navigating-gradual-audio-reduction-in-digital-studios/"><u>[Updated] 2024 Approved Navigating Gradual Audio Reduction in Digital Studios</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-harness-the-power-of-youtube-video-for-stunning-gif-masterpieces/"><u>[Updated] In 2024, Harness the Power of YouTube Video for Stunning GIF Masterpieces</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-high-level-behavior-tips-for-youtube-users/"><u>[Updated] In 2024, High-Level Behavior Tips for YouTube Users</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-download-youtube-thumbnail-in-3-waysonlinewinmac/"><u>[Updated] In 2024, How to Download Youtube Thumbnail in 3 Ways [Online/Win/Mac]</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-master-the-art-of-photo-editing-unveiling-pixlrs-power/"><u>[Updated] Master the Art of Photo Editing Unveiling Pixlr's Power</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/all-things-you-need-to-know-about-wipe-datafactory-reset-for-lava-blaze-2-pro-drfone-by-drfone-reset-android-reset-android/"><u>All Things You Need to Know about Wipe Data/Factory Reset For Lava Blaze 2 Pro | Dr.fone</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/artists-legal-battles-opposing-openai-and-meta-in-ai-controversy/"><u>Artists' Legal Battles: Opposing OpenAI & Meta in AI Controversy</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/boost-brand-visibility-with-smart-strategies-in-instagram-videos-for-2024/"><u>Boost Brand Visibility with Smart Strategies in Instagram Videos for 2024</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-which-is-the-best-fake-gps-joystick-app-on-nokia-105-classic-drfone-by-drfone-virtual-android/"><u>In 2024, Which is the Best Fake GPS Joystick App On Nokia 105 Classic? | Dr.fone</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/the-magnificent-art-of-pokemon-go-streaming-on-honor-x50-gt-drfone-by-drfone-virtual-android/"><u>The Magnificent Art of Pokemon Go Streaming On Honor X50 GT? | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-most-reliable-image-archiving-sites/"><u>[New] Most Reliable Image Archiving Sites</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-tricks-for-speedy-vimeo-streams-for-2024/"><u>[New] Tricks for Speedy Vimeo Streams for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-initiating-your-sporty-online-presence-with-mac/"><u>[Updated] Initiating Your Sporty Online Presence with Mac</u></a></li>
+<li><a href="https://solve-manuals.techidaily.com/aomei-fonebackup-iphoneiphone/"><u>AOMEI FoneBackup iPhone数据传输指南：如何将信息从一部iPhone移动到另一部</u></a></li>
+<li><a href="https://driver-download.techidaily.com/1722968213173-asus-z370-e-motherboard-firmware-and-drivers-download-fast/"><u>ASUS Z370-E Motherboard Firmware & Drivers: Download Fast</u></a></li>
+<li><a href="https://win-lab.techidaily.com/best-free-vm-disk-image-recovery-software-top-5-picks-for-retrieving-vmdk-files/"><u>Best Free VM Disk Image Recovery Software: Top 5 Picks for Retrieving VMDK Files</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/convert-your-movies-effortlessly-with-the-newest-version-of-winx-dvd-ripper-free-hd-to-mp4-on-windows-11/"><u>Convert Your Movies Effortlessly with the Newest Version of WinX DVD Ripper Free: HD to MP4 on Windows 11</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/1725288126448-dvd/"><u>DVDの中から曲を取り出すための専門的なガイド</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/easy-steps-to-customize-handbrake-configuration-for-apple-ipad-compatible-video-and-dvd-content/"><u>Easy Steps to Customize Handbrake Configuration for Apple iPad-Compatible Video and DVD Content</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/enhance-gameplay-with-ai-powered-motion-interpolation-increase-frames-per-second-and-achieve-seamless-visuals/"><u>Enhance Gameplay with AI-Powered Motion Interpolation: Increase Frames Per Second and Achieve Seamless Visuals</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/exploring-the-basics-of-mov-format-in-digital-videos/"><u>Exploring the Basics of MOV Format in Digital Videos</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-fix-ipad-or-iphone-6s-plus-stuck-on-activation-lock-by-drfone-ios/"><u>In 2024, How to Fix iPad or iPhone 6s Plus Stuck On Activation Lock?</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/o-guia-definitivo-topissimos-aplicativos-de-conversao-dvd-para-mp4-para-sistemas-operacionais-windowsmac-no-ano-2n23/"><u>O Guia Definitivo: Topíssimos Aplicativos De Conversão DVD Para MP4 Para Sistemas Operacionais Windows/Mac No Ano 2N23</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/stream-movies-and-tv-free-on-android-with-the-new-moviebox-app-download/"><u>Stream Movies & TV FREE on Android with the New MovieBox App Download</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-10-best-spy-watches-for-your-samsung-galaxy-m34-drfone-by-drfone-virtual-android/"><u>Top 10 Best Spy Watches For your Samsung Galaxy M34 | Dr.fone</u></a></li>
 </ul></div>
 

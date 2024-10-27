@@ -1,7 +1,7 @@
 ---
 title: Enhance Productivity by Setting Up Custom Alerts on Your Mac - A Guide for macOS Monterey Users | ZDNET
-date: 2024-10-18T19:31:18.504Z
-updated: 2024-10-21T22:57:09.902Z
+date: 2024-10-20T18:00:26.056Z
+updated: 2024-10-27T16:13:29.017Z
 tags:
   - apple
 categories:
@@ -33,10 +33,16 @@ So, how do you create this custom Flow? Let me show you. All you'll need to make
 Click on the Apple menu in the top left corner of your desktop. From the resulting pop-up menu, click System Preferences.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144289/7443" target="_top" id="2144289">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144289" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144289/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1834903">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 2\. Access Notifications & Focus
@@ -47,6 +53,13 @@ In the System Preferences window (**Figure 1**), click Notifications & Focus.
 
 Image: Jack Wallen
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657395/16446" target="_top" id="1657395">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657395" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657395/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 3\. Open the Focus tab
 
 Once Notifications & Focus is opened, click the Focus tab (**Figure 2**).
@@ -56,16 +69,10 @@ Once Notifications & Focus is opened, click the Focus tab (**Figure 2**).
 Image: Jack Wallen
 
 <!-- affiliate ads begin -->
-<span id="1630055">
-					<video width="192" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1630055.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18460-1630055">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1630055.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcaperobbin.sjv.io%2Fc%2F5597632%2F1630055%2F18460'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1630055/18460" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1997643/19272" target="_top" id="1997643">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997643" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997643/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 4\. Create the new Focus
@@ -84,13 +91,6 @@ Image: Jack Wallen
 
 After naming and selecting a color/icon, click Add to save the new Focus.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123732/7443" target="_top" id="2123732">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123732" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123732/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 5\. Allowing specific notifications
 
 The next thing to do is to specific contacts or apps that will be allowed when this Focus is enabled. To do that, click + under Allowed Notifications From (**Figure 5**).
@@ -106,10 +106,10 @@ From the pop-up list, select the contact(s) you want to be allowed to interrupt 
 Image: Jack Wallen
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014850/22899" target="_top" id="2014850">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014850" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://dhgate.sjv.io/c/5597632/2106658/12108" target="_top" id="2106658">
+  <img src="//a.impactradius-go.com/display-ad/12108-2106658" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014850/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106658/12108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 6\. Set the Focus to be enabled
@@ -154,18 +154,22 @@ Use this new Focus feature wisely, and it will help you be more productive while
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-freezing-points-to-inviting-landscapes/"><u>[New] 2024 Approved From Freezing Points to Inviting Landscapes</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-how-to-upload-videos-to-youtube-a-step-by-step-guide-for-2024/"><u>[New] How To Upload Videos to YouTube [a Step-by-Step Guide] for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-live-demos-to-online-sharing-mastering-idevice-screenshots-for-video-content/"><u>[New] In 2024, From Live Demos to Online Sharing Mastering iDevice Screenshots for Video Content</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-harness-social-blade-for-profound-youtube-stats-analysis/"><u>[New] In 2024, Harness Social Blade for Profound YouTube Stats Analysis</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-google-meet-broadcast-simplified-youtube-steps-for-2024/"><u>[Updated] Google Meet Broadcast Simplified YouTube Steps for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-guide-to-amplifying-your-video-presence-with-seo-tips-for-2024/"><u>[Updated] Guide to Amplifying Your Video Presence with SEO Tips for 2024</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/choreographing-a-stellar-tiktok-wrap-up-for-2024/"><u>Choreographing a Stellar TikTok Wrap-Up for 2024</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1722975156533-ensure-smooth-performance-with-newly-released-realtek-drivers-for-windows-11-download-here/"><u>Ensure Smooth Performance with Newly Released Realtek Drivers for Windows 11 – Download Here</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fixing-constant-audio-disruptions-during-gaming-and-streaming-windows-11/"><u>Fixing Constant Audio Disruptions During Gaming and Streaming (Windows 11)</u></a></li>
-<li><a href="https://games-able.techidaily.com/gaming-on-the-go-device-decision-guide/"><u>Gaming on the Go: Device Decision Guide</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/revolutionize-your-editing-10-free-fcpx-plugin-must-haves/"><u>Revolutionize Your Editing 10 Free FCPX Plugin Must-Haves</u></a></li>
-<li><a href="https://program-issues.techidaily.com/solving-the-crusader-kings-ii-startup-problem-tips-and-fixes/"><u>Solving the Crusader Kings II Startup Problem: Tips and Fixes</u></a></li>
-<li><a href="https://common-error.techidaily.com/successfully-overcoming-usb-device-not-recognized-and-failed-descriptor-request-issues/"><u>Successfully Overcoming USB Device Not Recognized & Failed Descriptor Request Issues</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-cultivating-confidence-for-captivating-your-youtube-audience/"><u>[New] 2024 Approved Cultivating Confidence for Captivating Your YouTube Audience</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-explore-8plus-places-for-gratis-hdr-environments-and-clips/"><u>[New] 2024 Approved Explore 8+ Places for Gratis HDR Environments & Clips</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-blitzing-sharing-easy-youtube-playlist-methods-for-2024/"><u>[New] Blitzing Sharing Easy YouTube Playlist Methods for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-novice-to-vlogger-professional-video-making-on-mobile-devices/"><u>[New] In 2024, From Novice to Vlogger Professional Video Making on Mobile Devices</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-rich-resource-repository-prime-sites-for-free-high-quality-vector-art/"><u>[New] Rich Resource Repository Prime Sites for Free High-Quality Vector Art</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-practical-ways-keeping-a-record-of-google-voice-interactions/"><u>[Updated] 2024 Approved Practical Ways Keeping a Record of Google Voice Interactions</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-navigate-through-green-screen-muddle-on-mac-for-smooth-youtubing/"><u>[Updated] In 2024, Navigate Through Green Screen Muddle on Mac for Smooth YouTubing</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-masterpiece-maker-top-free-editors-for-android-devices/"><u>[Updated] Masterpiece Maker Top Free Editors for Android Devices</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-polishing-your-youtube-projects-the-premiere-pro-way/"><u>[Updated] Polishing Your YouTube Projects The Premiere Pro Way</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/browse-bargains-without-spending-a-penny-on-oodles-classified-listings/"><u>Browse Bargains Without Spending a Penny on Oodle's Classified Listings</u></a></li>
+<li><a href="https://article-posts.techidaily.com/chuckle-chest-premium-selection-of-gratuitous-gags/"><u>Chuckle Chest Premium Selection of Gratuitous Gags</u></a></li>
+<li><a href="https://some-tips.techidaily.com/enhanced-with-advanced-web-tracking-technology-experience-seamless-user-targeting/"><u>Enhanced with Advanced Web Tracking Technology: Experience Seamless User Targeting</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-bypassing-google-account-with-vnrom-bypass-for-realme-c53-by-drfone-android/"><u>In 2024, Bypassing Google Account With vnROM Bypass For Realme C53</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-change-honor-magic-vs-2-lock-screen-password-by-drfone-android/"><u>In 2024, How To Change Honor Magic Vs 2 Lock Screen Password?</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-change-realme-11-proplus-lock-screen-password-by-drfone-android/"><u>In 2024, How To Change Realme 11 Pro+ Lock Screen Password?</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/reach-new-heights-in-youtube-seo-top-tips-and-tricks-for-2024/"><u>Reach New Heights in YouTube SEO Top Tips and Tricks for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/satirical-hits-the-funniest-song-rewrites-for-2024/"><u>Satirical Hits The Funniest Song Rewrites for 2024</u></a></li>
 </ul></div>
 

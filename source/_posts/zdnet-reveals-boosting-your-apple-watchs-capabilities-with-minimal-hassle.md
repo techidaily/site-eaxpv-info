@@ -1,7 +1,7 @@
 ---
 title: "ZDNet Reveals: Boosting Your Apple Watch's Capabilities with Minimal Hassle"
-date: 2024-10-20T18:23:07.408Z
-updated: 2024-10-21T16:32:39.598Z
+date: 2024-10-24T18:52:18.902Z
+updated: 2024-10-27T19:19:14.543Z
 tags:
   - apple
 categories:
@@ -58,13 +58,6 @@ If you have an Apple Watch with cellular connectivity, it's best to not use your
 
 Jason Hiner/ZDNET
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886073/19272" target="_top" id="1886073">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886073" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886073/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 4\. Turn off background app refresh
 
 If you have a good amount of apps on your watch, chances are they're fetching data in the background so that they remain up to date. This, as you would imagine, requires power from the battery. If you're only using said apps sporadically throughout the day, there's no sense in having them locked and loaded 24/7–just refresh their data when you open them.
@@ -84,10 +77,16 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037358/7443" target="_top" id="2037358">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037358" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037358/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982508">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982508.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982508">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982508.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982508%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982508/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Turn off irregular heart rate notifications
@@ -97,10 +96,16 @@ With some of the newest Apple Watches, Apple includes a feature that can alert y
 **How to:** Visit Settings > Heart > Irregular Rhythm Notifications and flick the feature off.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886019/19272" target="_top" id="1886019">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886019" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886019/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983553">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983553.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983553">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983553.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983553%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983553/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 6\. Reduce the amount of notifications you get
@@ -120,16 +125,10 @@ Ah, Siri. Many people swear by the voice assistant and use it daily to do things
 Adrian Kingsley-Hughes/ZDNET
 
 <!-- affiliate ads begin -->
-<span id="1542129">
-					<video width="864" height="1152" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1542129.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1542129">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1542129.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1542129%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1542129/16836" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://dhgate.sjv.io/c/5597632/1186864/12108" target="_top" id="1186864">
+  <img src="//a.impactradius-go.com/display-ad/12108-1186864" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186864/12108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 8\. Factory reset your Apple Watch (a.k.a. the last resort)
@@ -137,6 +136,13 @@ Adrian Kingsley-Hughes/ZDNET
 I've heard from many folks who have faced issues with battery life on the Apple Watch that it's best to do a complete factory reset. Full disclosure: it's not going to work for everyone, but if you've exhausted every option on your Apple Watch to extend battery life, the battery is still healthy, and you don't want to upgrade, your best bet is to reset it and start from scratch. That way, you can set up your watch and, along the way, spot the app or service that drains your battery the most. It may also help clean up some of the system bloat in watchOS 10 that's led to poor efficiency on your watch.
 
 **How to:** Go to Settings > General > Reset on your Apple Watch, then choose "Erase All Content and Settings." You won't have to disable Find My or get rid of your cellular plan since you'll be setting it up with your iPhone again, but if you want to get rid of absolutely everything, make sure you disable Find My and dump your cellular plan during the process.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115946/19272" target="_top" id="2115946">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115946" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115946/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How we test smartwatches
 
@@ -179,24 +185,24 @@ For a deeper look at our testing process, check out our comprehensive [smartwatc
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-effortlessly-eradicate-unwanted-youtube-post-comments/"><u>[New] 2024 Approved How to Effortlessly Eradicate Unwanted Youtube Post-Comments</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-foremost-frame-starters-leading-16-youtube-videos-for-more-watchers-for-2024/"><u>[New] Foremost Frame Starters Leading 16 YouTube Videos for More Watchers for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-from-passive-to-profitable-youtube-revenue-techniques-for-2024/"><u>[New] From Passive to Profitable YouTube Revenue Techniques for 2024</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/erfect-your-videos-focus-with-simple-blurring-techniques-for-2024/"><u>[New] Perfect Your Video's Focus with Simple Blurring Techniques for 2024</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-top-techniques-for-captivating-instagram-image-highlights-for-2024/"><u>[New] Top Techniques for Captivating Instagram Image Highlights for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-creation-to-consumption-igtv-vs-youtube-explained-for-you/"><u>[Updated] 2024 Approved From Creation to Consumption IGTV Vs. YouTube Explained for You</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-innovative-transitions-for-professional-videos/"><u>[Updated] 2024 Approved Innovative Transitions for Professional Videos</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-free-youtube-channel-art-templates-find-them-here-for-2024/"><u>[Updated] Free YouTube Channel Art Templates - Find Them Here for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-get-superior-visuals-from-youtube-downloading-thumbnails-free-for-2024/"><u>[Updated] Get Superior Visuals From YouTube - Downloading Thumbnails Free for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-frames-to-fun-youtube-gifs-creation-made-simple/"><u>[Updated] In 2024, From Frames to Fun YouTube GIFs Creation Made Simple</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-raw-feedback-a-critical-review-of-top-video-editors-for-youtube/"><u>[Updated] In 2024, From Raw Feedback A Critical Review of Top Video Editors for YouTube</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-create-youtube-intros-and-end-cards-free-and-easy/"><u>[Updated] In 2024, How to Create YouTube Intros & End Cards - Free and Easy</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/1-unveiling-the-secrets-of-editing-registry-values-a-comprehensive-guide/"><u>1. Unveiling the Secrets of Editing Registry Values: A Comprehensive Guide</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/asus-rog-rapture-gt-ax11000-router-review-great-gaming-features-and-blazing-fast-speeds/"><u>Asus ROG Rapture GT-AX11000 Router Review: Great Gaming Features and Blazing Fast Speeds</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-still-using-pattern-locks-with-oppo-a78-5g-tips-tricks-and-helpful-advice-by-drfone-android/"><u>In 2024, Still Using Pattern Locks with Oppo A78 5G? Tips, Tricks and Helpful Advice</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-top-6-online-auditory-sampling-programs/"><u>New Top 6 Online Auditory Sampling Programs</u></a></li>
-<li><a href="https://fake-location.techidaily.com/read-this-guide-to-find-a-reliable-alternative-to-fake-gps-on-xiaomi-redmi-note-12r-drfone-by-drfone-virtual-android/"><u>Read This Guide to Find a Reliable Alternative to Fake GPS On Xiaomi Redmi Note 12R | Dr.fone</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/troubled-by-intense-cpu-load-in-phasmophobia-heres-how-to-fix-it/"><u>Troubled by Intense CPU Load in Phasmophobia? Here's How to Fix It!</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/unlocking-made-easy-the-best-10-apps-for-unlocking-your-asus-device-by-drfone-android/"><u>Unlocking Made Easy The Best 10 Apps for Unlocking Your Asus Device</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-embed-a-youtube-playlist-on-a-website/"><u>[New] 2024 Approved How to Embed A YouTube Playlist On a Website</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-achieving-geometric-brilliance-making-mc-circles-and-spheres/"><u>[New] Achieving Geometric Brilliance Making MC Circles & Spheres</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-bridging-the-budget-barrier-channel-size-doesnt-matter/"><u>[New] In 2024, Bridging the Budget Barrier Channel Size Doesn't Matter</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-memorable-literary-trail-videos-for-2024/"><u>[New] Memorable Literary Trail Videos for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-updated-youtube-income-guidelines/"><u>[New] Updated YouTube Income Guidelines</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-crafting-effective-affordable-youtube-intros-with-templates/"><u>[Updated] 2024 Approved Crafting Effective, Affordable YouTube Intros with Templates</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-explore-the-finest-movie-series-youtubes-10-pack-no-cost/"><u>[Updated] 2024 Approved Explore the Finest Movie Series YouTube's 10-Pack, No Cost</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-budget-friendly-sponsorship-blueprint-for-youtube-enthusiasts/"><u>[Updated] In 2024, Budget-Friendly Sponsorship Blueprint for YouTube Enthusiasts</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-demystifying-the-process-of-checking-subs/"><u>[Updated] In 2024, Demystifying The Process of Checking Subs</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-prime-selection-your-guide-to-best-tv-streaming-choices/"><u>[Updated] Prime Selection Your Guide to Best TV Streaming Choices</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-restoring-functionality-in-obs-capture-device-for-2024/"><u>[Updated] Restoring Functionality in OBS Capture Device for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/2024-approved-warmth-in-visuals-ideal-winter-backgrounds-for-youtube/"><u>2024 Approved Warmth in Visuals Ideal Winter Backgrounds for YouTube</u></a></li>
+<li><a href="https://media-tips.techidaily.com/a-comprehensive-guide-discover-the-ins-and-outs-of-entertaining-animated-memes-and-gifs/"><u>A Comprehensive Guide: Discover the Ins and Outs of Entertaining Animated Memes & GIFs</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/all-encompassing-data-rescue-application-regain-access-to-all-your-files/"><u>All-Encompassing Data Rescue Application – Regain Access to All Your Files</u></a></li>
+<li><a href="https://discover-community.techidaily.com/fixing-the-0x45d-error-in-windows-7-a-comprehensive-guide/"><u>Fixing the 0X45D Error in Windows 7 - A Comprehensive Guide</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-is-gsm-flasher-adb-legit-full-review-to-bypass-your-htc-u23frp-lock-by-drfone-android/"><u>In 2024, Is GSM Flasher ADB Legit? Full Review To Bypass Your HTC U23FRP Lock</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/seamless-guide-on-downloading-youtube-audio-with-no-struggle/"><u>Seamless Guide on Downloading YouTube Audio with No Struggle</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/the-ultimate-rulebook-for-youtube-participants-for-2024/"><u>The Ultimate Rulebook for YouTube Participants for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/unintentional-file-loss-during-transfer-on-windows-effective-recovery-strategies/"><u>Unintentional File Loss During Transfer on Windows: Effective Recovery Strategies</u></a></li>
 </ul></div>
 

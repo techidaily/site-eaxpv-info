@@ -1,7 +1,7 @@
 ---
 title: "IPhone Showdown: Key Factors When Choosing Between the New iPhone 16 or the Previous Generation's Top Model | DigitalTrends"
-date: 2024-10-17T21:49:28.972Z
-updated: 2024-10-21T21:46:16.031Z
+date: 2024-10-20T16:18:37.931Z
+updated: 2024-10-27T16:43:25.435Z
 tags:
   - apple
 categories:
@@ -45,6 +45,13 @@ To help you make this decision, we've broken down all of the most important deta
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151890/7443" target="_top" id="2151890">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151890" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151890/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  You should buy the iPhone 16 if...
 
 Kerry Wan/ZDNET
@@ -84,10 +91,10 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880931/19272" target="_top" id="1880931">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880931" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014854/22899" target="_top" id="2014854">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014854" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880931/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014854/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  You should buy the iPhone 15 if...
@@ -95,10 +102,16 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 Kerry Wan/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151890/7443" target="_top" id="2151890">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151890" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151890/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1492813">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1492813.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1492813">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1492813.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1492813%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1492813/14559" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ###  1\. You don't require the generative AI capabilities
@@ -109,19 +122,6 @@ All of the bells and whistles on the iPhone 16 are certainly nice, but are they 
 
 Sometimes, it's best to wait until all the bugs have been ironed out. Plus, there's a lot of uncertainty surrounding the chipset. Early impressions indicate the A18 can handle all the AI features, but can it? Or will we see a performance drop once it launches? 
 
-<!-- affiliate ads begin -->
-<span id="1977028">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977028.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977028">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977028.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977028%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977028/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ###  2\. You're on a budget
 
 With the release of a new model, older phones often see a price drop, and that is exactly what we're getting here. Apple has cut the price of the iPhone 15 by about $100 off its digital storefront to entice new adopters. 
@@ -131,10 +131,16 @@ It wouldn't be a bad pick-up, either. The camera system of the previous generati
 [Buy the iPhone 15 $729.99 at Best Buy](https://shop-links.co/link/?url=https%3A%2F%2Fbestbuy.7tiv.net%2Fc%2F376373%2F633495%2F10014%3Fprodsku%3D6417991%26u%3Dhttp%253A%252F%252Fwww.bestbuy.com%252Fsite%252F-%252F6417991.p%253Fcmp%253DRMX&publisher_slug=itechdaily19598&exclusive=1)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087239/19272" target="_top" id="2087239">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087239" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087239/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1976998">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Alternatives to consider
@@ -171,24 +177,18 @@ It wouldn't be a bad pick-up, either. The camera system of the previous generati
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-accelerate-subscriber-count-on-your-channel/"><u>[New] 2024 Approved How to Accelerate Subscriber Count on Your Channel</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-fiscal-fortitude-the-story-of-mr-beast-for-2024/"><u>[New] Fiscal Fortitude The Story of Mr. Beast for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-zero-to-hero-youtube-tech-required/"><u>[New] In 2024, From Zero to Hero YouTube Tech Required</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-flixfusion-the-ultimate-gaming-channel-mix/"><u>[Updated] 2024 Approved FlixFusion The Ultimate Gaming Channel Mix</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-guide-to-producing-effective-youtube-promo-videos/"><u>[Updated] 2024 Approved Guide to Producing Effective YouTube Promo Videos</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-edit-youtube-videos-ultimate-guide/"><u>[Updated] 2024 Approved How To Edit YouTube Videos [Ultimate Guide]</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-streaming-your-way-to-animated-gifs-from-youtube-videos/"><u>[Updated] 2024 Approved Streaming Your Way to Animated GIFs From YouTube Videos</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-from-raw-to-refined-youtube-thumbnail-creation-for-mobile-users-for-2024/"><u>[Updated] From Raw to Refined YouTube Thumbnail Creation for Mobile Users for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-raw-to-refined-expert-techniques-for-youtube-content-creators/"><u>[Updated] In 2024, From Raw to Refined Expert Techniques for YouTube Content Creators</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-zero-to-hero-in-the-youtube-world-starting-your-channel-and-earning-money/"><u>[Updated] In 2024, From Zero to Hero in the Youtube World Starting Your Channel & Earning Money</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/discover-french-through-reading-20-beginner-friendly-novels/"><u>Discover French Through Reading: 20 Beginner-Friendly Novels</u></a></li>
-<li><a href="https://win-dash.techidaily.com/download-corsair-icue-software-compatible-with-windows-11-and-windows-10/"><u>Download Corsair iCUE Software: Compatible with Windows 11 & Windows 10</u></a></li>
-<li><a href="https://app-tips.techidaily.com/free-anthropic-claude-mobile-application-now-available-company-unveils-new-business-strategy-tech-news-on-zdnet/"><u>Free Anthropic 'Claude' Mobile Application Now Available; Company Unveils New Business Strategy - Tech News on ZDNet</u></a></li>
-<li><a href="https://techidaily.com/how-to-repair-apple-iphone-14-pro-max-ios-system-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair Apple iPhone 14 Pro Max iOS System? | Dr.fone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-change-your-sim-pin-code-on-your-google-pixel-8-pro-phone-by-drfone-android/"><u>In 2024, How To Change Your SIM PIN Code on Your Google Pixel 8 Pro Phone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-enable-usb-debugging-on-a-locked-realme-c67-5g-phone-by-drfone-android/"><u>In 2024, How To Enable USB Debugging on a Locked Realme C67 5G Phone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-mirroring-honor-x9b-drfone-by-drfone-android/"><u>In 2024, How to Screen Mirroring Honor X9b? | Dr.fone</u></a></li>
-<li><a href="https://win-exceptional.techidaily.com/over-mkv-archiveen-hoe-gaan-ze-oplossen-en-de-betrekkingen-verstaan/"><u>Over MKV-Archiveën: Hoe Gaan Ze Oplossen En De Betrekkingen Verstaan?</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/revitalize-your-reels-a-compreenas-guide-for-enhancer-22/"><u>Revitalize Your Reels A Compreenas Guide for Enhancer 2.2</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-webcam-visuals-uncluttered-remove-obscurants/"><u>[Updated] 2024 Approved Webcam Visuals Uncluttered Remove Obscurants</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-free-windows-screen-capture-top-5-applications-reviewed/"><u>[Updated] Free Windows Screen Capture Top 5 Applications Reviewed</u></a></li>
+<li><a href="https://howto.techidaily.com/11-ways-to-fix-it-when-my-realme-gt-3-wont-charge-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Ways to Fix it When My Realme GT 3 Wont Charge | Dr.fone</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/1725286886892-winx-dvd-author/"><u>最新WinX DVD Author技術的スペック - 使用可能なデバイスとオペレーティングシステム: 正規情報</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/does-mp4-play-on-xiaomi-redmi-note-12-pro-4g-by-aiseesoft-video-converter-play-mp4-on-android/"><u>Does MP4 play on Xiaomi Redmi Note 12 Pro 4G?</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/gratis-mov-in-mp4-il-migliore-strumento-di-conversione-per-mac-e-windows-1011/"><u>Gratis MOV in MP4: Il Migliore Strumento Di Conversione per Mac E Windows 10/11</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/how-to-eliminate-the-blue-screen-error-from-your-windows-11-system/"><u>How To Eliminate the Blue Screen Error From Your Windows 11 System</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-turn-off-google-location-to-stop-tracking-you-on-itel-a60s-drfone-by-drfone-virtual-android/"><u>How to Turn Off Google Location to Stop Tracking You on Itel A60s | Dr.fone</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/24-incorporating-visual-media-into-free-writings/"><u>In 2024, Incorporating Visual Media Into Free Writings</u></a></li>
+<li><a href="https://facebook.techidaily.com/mastering-online-networks-for-workplace-success/"><u>Mastering Online Networks for Workplace Success</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/transforma-rapida-y-eficientemente-tu-dvd-al-formato-mp4-un-guia-paso-a-paso-para-una-excelente-calidad-con-tamano-reducido/"><u>Transforma Rápida Y Eficientemente Tu DVD Al Formato MP4: Un Guía Paso a Paso Para Una Excelente Calidad Con Tamaño Reducido</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/1725285668331-winxdvd/"><u>WinXDVD 專業指導：完美安裝課程</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/wireless-movie-sharing-transferring-films-from-your-xbox-console-to-pc-with-windows-11/"><u>Wireless Movie Sharing: Transferring Films From Your Xbox Console to PC with Windows 11</u></a></li>
 </ul></div>
 

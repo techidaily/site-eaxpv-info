@@ -1,7 +1,7 @@
 ---
 title: "Mastering MacOS Monterey: Building Personalized Focusing Modes for Enhanced Productivity | Insights From ZDNet"
-date: 2024-10-14T17:43:49.293Z
-updated: 2024-10-21T18:16:21.575Z
+date: 2024-10-25T20:16:29.993Z
+updated: 2024-10-27T19:48:10.231Z
 tags:
   - apple
 categories:
@@ -28,22 +28,15 @@ So, how do you create this custom Flow? Let me show you. All you'll need to make
 
 ## Create a custom Focus
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484944/16446" target="_top" id="1484944">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484944" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484944/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 1\. Open System Preferences
 
 Click on the Apple menu in the top left corner of your desktop. From the resulting pop-up menu, click System Preferences.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915825/19272" target="_top" id="1915825">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915825" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1484940/16446" target="_top" id="1484940">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484940" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915825/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484940/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 2\. Access Notifications & Focus
@@ -55,16 +48,16 @@ In the System Preferences window (**Figure 1**), click Notifications & Focus.
 Image: Jack Wallen
 
 <!-- affiliate ads begin -->
-<span id="1542129">
-					<video width="864" height="1152" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1542129.png"
+<span id="1304647">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1304647.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1542129">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1542129.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1304647">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1542129%2F16836'), '_blank');void(0);">Click here</a></div>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304647%2F15852'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1542129/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304647/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 3\. Open the Focus tab
@@ -74,6 +67,13 @@ Once Notifications & Focus is opened, click the Focus tab (**Figure 2**).
 **Figure 2:** You'll find a single pre-configured Focus for Do Not Disturb already available.
 
 Image: Jack Wallen
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925468/19272" target="_top" id="1925468">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925468" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925468/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 4\. Create the new Focus
 
@@ -91,6 +91,13 @@ Image: Jack Wallen
 
 After naming and selecting a color/icon, click Add to save the new Focus.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151871/7443" target="_top" id="2151871">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151871" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151871/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 5\. Allowing specific notifications
 
 The next thing to do is to specific contacts or apps that will be allowed when this Focus is enabled. To do that, click + under Allowed Notifications From (**Figure 5**).
@@ -104,13 +111,6 @@ From the pop-up list, select the contact(s) you want to be allowed to interrupt 
 **Figure 6:** Adding contacts to a Focus in macOS Monterey.
 
 Image: Jack Wallen
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918661/19272" target="_top" id="1918661">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918661" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918661/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 6\. Set the Focus to be enabled
 
@@ -154,22 +154,16 @@ Use this new Focus feature wisely, and it will help you be more productive while
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-game-changing-streaming-apps-for-gamers-for-2024/"><u>[New] Game-Changing Streaming Apps for Gamers for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-how-to-sculpt-the-perfect-youtube-moniker-tips-and-tricks-for-2024/"><u>[New] How to Sculpt the Perfect YouTube Moniker Tips & Tricks for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-free-cash-flow-estimator-apps/"><u>[New] In 2024, Free Cash Flow Estimator Apps</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-social-media-boost-link-your-facebook-story-4-methods/"><u>[New] In 2024, Social Media Boost Link Your Facebook Story [4 Methods]</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/1717717687675-updated-2024-approved-how-to-make-collab-videos-and-grow-your-channel/"><u>[Updated] 2024 Approved How to Make Collab Videos And Grow Your Channel?</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-craftsmanship-in-marvellous-marvel-creation/"><u>[Updated] Craftsmanship in Marvellous Marvel Creation</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-from-gaming-to-goals-celebrating-the-top-10-ladies-on-youtube-for-2024/"><u>[Updated] From Gaming to Goals Celebrating the Top 10 Ladies on YouTube for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-captivate-audience-attention-with-your-yt-shorts-for-2024/"><u>[Updated] How to Captivate Audience Attention with Your YT Shorts for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-launch-your-first-sporty-video-channel-on-apple-systems-for-2024/"><u>[Updated] How to Launch Your First Sporty Video Channel on Apple Systems for 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-visual-cohesion-through-simple-fading-techniques/"><u>[Updated] In 2024, Visual Cohesion Through Simple Fading Techniques</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-what-is-haul-video-and-how-to-make-a-catchy-try-on-haul-video/"><u>[Updated] In 2024, What Is Haul Video and How to Make a Catchy Try on Haul Video</u></a></li>
-<li><a href="https://blog-min.techidaily.com/android-to-apple-how-to-transfer-photos-from-oneplus-nord-ce-3-lite-5g-to-ipad-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Android to Apple How To Transfer Photos From OnePlus Nord CE 3 Lite 5G to iPad Easily | Dr.fone</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/building-an-online-empire-through-effective-marketing/"><u>Building an Online Empire Through Effective Marketing</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/in-2024-fps-titans-ranking-gamings-elite-shooters/"><u>In 2024, FPS Titans Ranking Gaming's Elite Shooters</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/leading-spaces-for-ai-inspired-artistry/"><u>Leading Spaces for AI-Inspired Artistry</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/nubia-z50-ultra-stuck-on-screen-finding-solutions-for-stuck-on-boot-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Nubia Z50 Ultra Stuck on Screen – Finding Solutions For Stuck on Boot | Dr.fone</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-tech-insights-comprehensive-guide-to-computer-hardware/"><u>Tom's Tech Insights: Comprehensive Guide to Computer Hardware</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-most-shared-moments-socials-star-vids-for-2024/"><u>[New] Most Shared Moments Social's Star Vids for 2024</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-top-20-tiktok-anthems-discovering-todays-hip-hop-stars/"><u>[New] Top 20 TikTok Anthems Discovering Today’s Hip-Hop Stars</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-skyrocket-views-mastery-of-title-and-tag-optimization/"><u>[Updated] 2024 Approved Skyrocket Views Mastery of Title and Tag Optimization</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-lightroom-classic-learning-hub/"><u>2024 Approved Lightroom Classic Learning Hub</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/ces-202/"><u>CES 202</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/dominating-performance-benchmarks-with-the-thelio-mega-an-advanced-dual-gpu-linux-supercomputer-marvel/"><u>Dominating Performance Benchmarks with the Thelio Mega: An Advanced Dual-GPU Linux Supercomputer Marvel</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/effective-techniques-for-observing-linux-command-output-using-pv-tools/"><u>Effective Techniques for Observing Linux Command Output Using 'Pv' Tools</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/effortless-guide-cutting-and-pasting-text-across-iphone-ipad-and-mac/"><u>Effortless Guide: Cutting and Pasting Text Across iPhone, iPad & Mac</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-samsung-galaxy-a23-5g-to-mac-drfone-by-drfone-android/"><u>In 2024, How to Mirror Samsung Galaxy A23 5G to Mac? | Dr.fone</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/24-shorts-fix-completed-no-more-anxiety/"><u>In 2024, Shorts Fix Completed – No More Anxiety</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/mastering-scheduled-text-notifications-with-your-iphones-reminders-app/"><u>Mastering Scheduled Text Notifications with Your iPhone's Reminders App</u></a></li>
 </ul></div>
 

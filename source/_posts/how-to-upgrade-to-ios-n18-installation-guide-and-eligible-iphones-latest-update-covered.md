@@ -1,7 +1,7 @@
 ---
 title: "How to Upgrade to iOS N18: Installation Guide & Eligible iPhones | Latest Update Covered"
-date: 2024-10-20T20:27:00.418Z
-updated: 2024-10-21T16:46:53.606Z
+date: 2024-10-26T17:01:58.864Z
+updated: 2024-10-27T16:56:48.129Z
 tags:
   - apple
 categories:
@@ -32,6 +32,13 @@ Jason Hiner/ZDNET
 
 **What you need:** An iPhone running iOS 16.5 or later. Since not all iPhones are compatible with iOS 18, you'll also need a model [newer than the iPhone X](https://www.zdnet.com/article/best-iphone/).
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135415/19272" target="_top" id="2135415">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135415" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135415/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. Go to General in your iPhone Settings
 
 Go to your iPhone's Settings and select General. 
@@ -39,6 +46,13 @@ Go to your iPhone's Settings and select General.
 ## 2\. Go to Software Update in Settings
 
 Within General, tap on Software Update. This will show you if the iOS 18 update is available for you to download.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139114/17108" target="_top" id="2139114">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139114" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139114/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. Download and install
 
@@ -50,27 +64,7 @@ Enter your passcode, if necessary, to authorize the installation of the new iOS 
 
 After installing the latest iOS update, your iPhone will restart.
 
-<!-- affiliate ads begin -->
-<span id="1328683">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1328683.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1328683">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328683.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328683%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328683/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## FAQs
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997657/19272" target="_top" id="1997657">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997657" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997657/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### When is Apple Intelligence coming out?
 
@@ -81,6 +75,13 @@ Apple Intelligence, featuring the company's AI tools, will begin to roll out for
 Apple released the iOS 18 developer beta during WWDC 2024 in June, and the public beta version was released on July 15\. The general release of iOS 18 is September 16.
 
 **Also: [The best iOS 18 features that will make updating your iPhone worthwhile](https://www.zdnet.com/article/the-best-ios-18-features-that-will-make-updating-your-iphone-worthwhile/)**
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135375/19272" target="_top" id="2135375">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135375" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135375/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Can you still download the iOS 18 public beta?
 
@@ -101,13 +102,6 @@ You'll need an iPhone running iOS 16.5 or later. Since not all iPhones are compa
 
 Screenshot: Maria Diaz/ZDNET
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902309/19272" target="_top" id="1902309">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902309" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902309/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### How to download the iOS 18 developer beta?
 
 To download the iOS 18 developer beta version, navigate to your settings to install the iOS 18 developer beta if your device runs iOS 16.4 and is used with an Apple ID enrolled in the Apple Developer Program:
@@ -125,10 +119,10 @@ If you can't see this option, go to your **Settings,** select **Privacy & Securi
 If you aren't already a member of the Apple Developer Program, you can sign up to become one in the app. An annual membership costs $99.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918666/19272" target="_top" id="1918666">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918666" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1975836/19272" target="_top" id="1975836">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975836" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918666/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975836/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### What is in iOS 18 beta 3?
@@ -175,21 +169,18 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-downloading-facebook-videos-to-mp4-no-hassle/"><u>[New] 2024 Approved Downloading Facebook Videos to MP4 - No Hassle</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-financial-forecasts-in-focus-select-stock-youtube-channels/"><u>[New] 2024 Approved Financial Forecasts in Focus Select Stock YouTube Channels</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ridging-the-budget-barrier-channel-size-doesnt-matter/"><u>[New] Bridging the Budget Barrier Channel Size Doesn't Matter</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-guidance-for-effortless-addition-of-youtube-playlists-to-your-site-for-2024/"><u>[New] Guidance for Effortless Addition of YouTube Playlists to Your Site for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-how-to-execute-a-budget-friendly-youtube-seminar-for-2024/"><u>[New] How to Execute a Budget-Friendly Youtube Seminar for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-casual-follower-to-dedicated-subscriber-inspirational-journey/"><u>[New] In 2024, From Casual Follower to Dedicated Subscriber Inspirational Journey</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-rediscover-the-past-watching-youtubes-lost-footage-for-2024/"><u>[Updated] How to Rediscover the Past Watching Youtube's Lost Footage for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-hash-tags-that-catapult-you-to-6k-views-on-youtube/"><u>[Updated] In 2024, Hash Tags That Catapult You to 6K Views on YouTube</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-high-quality-sound-adjustment-apps-for-content-casters/"><u>[Updated] In 2024, High-Quality Sound Adjustment Apps for Content Casters</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/15-must-use-hashtags-for-popularity-on-instagram-feed-for-2024/"><u>15 Must-Use Hashtags for Popularity on Instagram Feed for 2024</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-go-global-quickly-optimal-tags-to-escalate-your-youtube-snippets/"><u>2024 Approved Go Global Quickly Optimal Tags to Escalate Your YouTube Snippets</u></a></li>
-<li><a href="https://win-able.techidaily.com/fortnite-gameplay-enhancements-season-8s-frame-rate-improvements-revealed/"><u>Fortnite Gameplay Enhancements: Season 8'S Frame Rate Improvements Revealed</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/freely-enhance-your-photos-iosandroids-best-overlay-apps-for-2024/"><u>Freely Enhance Your Photos IOS/Android's Best Overlay Apps for 2024</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ng-traction-on-youtube-the-successful-sponsorship-roadmap-by-famebit/"><u>Gaining Traction on YouTube The Successful Sponsorship Roadmap by FameBit</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-unlink-your-iphone-11-from-your-apple-id-by-drfone-ios/"><u>In 2024, How To Unlink Your iPhone 11 From Your Apple ID</u></a></li>
-<li><a href="https://games-able.techidaily.com/overcoming-windows-challenges-with-robloxs-error-code-403/"><u>Overcoming Windows' Challenges with Roblox's Error Code 403</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-recording-made-simple-a-compreenasite-for-capturing-netflix-content/"><u>[New] 2024 Approved Recording Made Simple A Compreenasite for Capturing Netflix Content</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-from-script-to-sound-crafting-captivating-podcast-episodes/"><u>[New] From Script to Sound Crafting Captivating Podcast Episodes</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-unlocking-gopro-potential-model-by-model-insight-for-2024/"><u>[New] Unlocking Gopro Potential Model By Model Insight for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-melody-matrix-tips-and-tricks-for-social-media-sounds/"><u>[Updated] 2024 Approved Melody Matrix Tips and Tricks for Social Media Sounds</u></a></li>
+<li><a href="https://location-fake.techidaily.com/8-solutions-to-fix-find-my-friends-location-not-available-on-infinix-smart-8-drfone-by-drfone-virtual-android/"><u>8 Solutions to Fix Find My Friends Location Not Available On Infinix Smart 8 | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-5-tracking-apps-to-track-oppo-find-n3-flip-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, Top 5 Tracking Apps to Track Oppo Find N3 Flip without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/proven-ways-to-fix-there-was-a-problem-parsing-the-package-on-oppo-a1-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Proven Ways to Fix There Was A Problem Parsing the Package on Oppo A1 5G | Dr.fone</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/resolving-common-troubleshooting-issues-in-windows-11-and-10-a-step-by-step-guide/"><u>Resolving Common Troubleshooting Issues in Windows 11 & 10: A Step-by-Step Guide</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/step-by-step-guide-fresh-installation-of-nvidia-and-amd-graphic-card-drivers/"><u>Step-by-Step Guide: Fresh Installation of NVIDIA and AMD Graphic Card Drivers</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/step-by-step-guide-setting-up-and-operating-the-linux-bash-terminal-in-windows-10/"><u>Step-by-Step Guide: Setting Up & Operating the Linux Bash Terminal in Windows 10</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/step-by-step-guide-successfully-exiting-safe-mode-in-windows-10/"><u>Step-by-Step Guide: Successfully Exiting Safe Mode in Windows 10</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/ultimate-tech-showdown-toms-hardware-comprehensive-analyses/"><u>Ultimate Tech Showdown: Tom's Hardware Comprehensive Analyses</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/windows-and-mac-ai-ai-10/"><u>Windows & Mac에 대한 AI 비디오 가이드: 최신 AI 인핸서 10명 무료 제공</u></a></li>
 </ul></div>
 

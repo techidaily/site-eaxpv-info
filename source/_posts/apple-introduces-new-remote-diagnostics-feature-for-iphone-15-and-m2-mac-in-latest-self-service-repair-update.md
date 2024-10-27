@@ -1,7 +1,7 @@
 ---
 title: Apple Introduces New Remote Diagnostics Feature for iPhone 15 & M2 Mac in Latest Self-Service Repair Update
-date: 2024-10-15T23:24:22.369Z
-updated: 2024-10-21T22:44:00.460Z
+date: 2024-10-25T19:31:08.077Z
+updated: 2024-10-27T17:40:12.194Z
 tags:
   - apple
 categories:
@@ -32,31 +32,44 @@ Jason Hiner/ZDNET
 
 **What you need:** An iPhone running iOS 16.5 or later. Since not all iPhones are compatible with iOS 18, you'll also need a model [newer than the iPhone X](https://www.zdnet.com/article/best-iphone/).
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. Go to General in your iPhone Settings
 
 Go to your iPhone's Settings and select General. 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137206/26400" target="_top" id="2137206">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137206" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137206/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1793213">
+					<video width="864" height="1296" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Go to Software Update in Settings
 
 Within General, tap on Software Update. This will show you if the iOS 18 update is available for you to download.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123508/26400" target="_top" id="2123508">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123508" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123508/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Download and install
 
 When you tap on Software Update, your iPhone will check for the latest version of iOS available. Then, you'll be able to Download and Install the new update. Your iPhone will begin the download immediately.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915805/19272" target="_top" id="1915805">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915805" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915805/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 4\. Enter your passcode and follow steps to install
 
@@ -70,18 +83,18 @@ After installing the latest iOS update, your iPhone will restart.
 
 Apple Intelligence, featuring the company's AI tools, will begin to roll out for compatible iPhones over the next few weeks, with more features to join in the coming months. This slew of AI features will be available on the iPhone 16 lineup and the iPhones 15 Pro and Pro Max.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896546/19272" target="_top" id="1896546">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896546" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896546/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### When was iOS 18 released?
 
 Apple released the iOS 18 developer beta during WWDC 2024 in June, and the public beta version was released on July 15\. The general release of iOS 18 is September 16.
 
 **Also: [The best iOS 18 features that will make updating your iPhone worthwhile](https://www.zdnet.com/article/the-best-ios-18-features-that-will-make-updating-your-iphone-worthwhile/)**
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052060/7443" target="_top" id="2052060">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052060" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052060/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Can you still download the iOS 18 public beta?
 
@@ -117,13 +130,6 @@ If you can't see this option, go to your **Settings,** select **Privacy & Securi
 **Also: [How to use and customize your iPhone's new Control Center with iOS 18](https://www.zdnet.com/article/how-to-use-and-customize-your-iphones-new-control-center-with-ios-18/)**
 
 If you aren't already a member of the Apple Developer Program, you can sign up to become one in the app. An annual membership costs $99.
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005196/22899" target="_top" id="2005196">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005196" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005196/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### What is in iOS 18 beta 3?
 
@@ -169,18 +175,19 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-raw-footage-to-polished-content-youtube-studio-edition/"><u>[New] 2024 Approved From Raw Footage to Polished Content YouTube Studio Edition</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-capturing-every-moment-an-overview-of-apowersofts-screenshot-tool/"><u>[New] Capturing Every Moment An Overview of Apowersoft's Screenshot Tool</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-follow-the-footsteps-of-fan-driven-forums/"><u>[Updated] 2024 Approved Follow the Footsteps of Fan-Driven Forums</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-newbie-to-pro-your-complete-guide-to-creator-studio/"><u>[Updated] 2024 Approved From Newbie to Pro Your Complete Guide to Creator Studio</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-flavor-leaders-must-watch-culinary-youtube-stars/"><u>[Updated] In 2024, Flavor Leaders Must-Watch Culinary YouTube Stars</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-get-back-to-pure-content-how-to-block-youtube-ads-on-all-devices/"><u>[Updated] In 2024, Get Back to Pure Content How to Block YouTube Ads on All Devices</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-add-timestamps-on-youtube-video-link/"><u>[Updated] In 2024, How to Add Timestamps on YouTube Video Link?</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-the-sound-sleuths-guide-to-recording-streaming-media/"><u>[Updated] The Sound Sleuth's Guide to Recording Streaming Media</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/2024-approved-elite-filmmaking-tools-for-gopro/"><u>2024 Approved Elite Filmmaking Tools for GoPro</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-superior-5-digital-capture-devices/"><u>2024 Approved Superior 5 Digital Capture Devices</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/acer-chromebook-15-review-decent-chromebook-with-a-big-screen/"><u>Acer Chromebook 15 Review: Decent Chromebook With a Big Screen</u></a></li>
-<li><a href="https://howto.techidaily.com/oppo-find-x7-ultra-bootloop-problem-how-to-fix-it-without-data-loss-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Oppo Find X7 Ultra Bootloop Problem, How to Fix it Without Data Loss | Dr.fone</u></a></li>
-<li><a href="https://some-tips.techidaily.com/top-quality-video-uplift-immaculate-resolution-for-2024/"><u>Top Quality Video Uplift Immaculate Resolution for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-unraveling-humor-in-the-funnies-of-goofy/"><u>[Updated] Unraveling Humor in 'The Funnies of Goofy'</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/beyond-imagination-celebrating-the-leading-6-in-nft-creation/"><u>Beyond Imagination Celebrating the Leading 6 in NFT Creation</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-why-your-whatsapp-location-is-not-updating-and-how-to-fix-on-xiaomi-redmi-k70e-drfone-by-drfone-virtual-android/"><u>In 2024, Why Your WhatsApp Location is Not Updating and How to Fix On Xiaomi Redmi K70E | Dr.fone</u></a></li>
+<li><a href="https://win-blog.techidaily.com/league-of-legends-connectivity-error-fixed-with-april-2024-release/"><u>League of Legends Connectivity Error Fixed with April 2024 Release</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/rising-titans-of-tiktok-motivation/"><u>Rising Titans of TikTok Motivation</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/step-back-in-time-experience-your-favorite-old-school-websites-today/"><u>Step Back in Time: Experience Your Favorite Old-School Websites Today!</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/step-by-step-guide-switching-your-browsers-default-search-provider-in-chrome/"><u>Step-by-Step Guide: Switching Your Browser's Default Search Provider in Chrome</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/step-by-step-tutorial-how-to-bypass-xiaomi-mix-fold-3-frp-by-drfone-android/"><u>Step-by-Step Tutorial How To Bypass Xiaomi Mix Fold 3 FRP</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/still-plenty-of-qr-codes-available-busting-the-misconception-about-scarcity/"><u>Still Plenty of QR Codes Available? Busting the Misconception About Scarcity</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/the-evolving-landscape-of-discords-objectives-and-features/"><u>The Evolving Landscape of Discord's Objectives and Features</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/top-8-essential-privacy-tweaks-for-your-instagram-account/"><u>Top 8 Essential Privacy Tweaks for Your Instagram Account</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-tech-picks-a-comprehensive-guide-to-apple-dell-and-other-leading-brands-analysis/"><u>Top Tech Picks : A Comprehensive Guide to Apple, Dell, and Other Leading Brands Analysis</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/understanding-wireguard-why-is-it-an-effective-vpn-solution/"><u>Understanding WireGuard: Why Is It an Effective VPN Solution?</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/voice-command-enhancements-for-oculus-quest-with-mondly/"><u>Voice Command Enhancements for Oculus Quest with Mondly</u></a></li>
 </ul></div>
 

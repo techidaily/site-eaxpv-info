@@ -1,7 +1,7 @@
 ---
 title: "Magic at Your Fingertips: Apple's Cutting-Edge On-Device AI Image Tool Outshines DALL-E | InnovationHub"
-date: 2024-10-17T23:28:23.433Z
-updated: 2024-10-21T17:26:29.596Z
+date: 2024-10-26T18:52:44.730Z
+updated: 2024-10-27T17:46:04.668Z
 tags:
   - apple
 categories:
@@ -60,13 +60,6 @@ Maria Diaz/ZDNET
 * In the Notes app, users can **record and transcribe audio**, which Apple Intelligence will generate a text summary of. This experience is also available in the Notes phone app.
 * Apple Intelligence is free on iOS 18, iPadOS 18, and MacOS Sequoia, and will be available to try in English only this summer.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137224/26400" target="_top" id="2137224">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137224" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137224/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Partnership with OpenAI
 
 Jason Hiner/ZDNET
@@ -93,13 +86,6 @@ Adam Breeden/ZDNET
 * The **Safari app** was upgraded to include key information about a webpage. You can read more about the Safari upgrades under the MacOS section of this article.
 * The **Calendar app** can now pull from the Reminders app for a more seamless schedule overview.
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137974/21526" target="_top" id="2137974">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137974" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137974/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## WatchOS 11
 
 Adam Breeden/ZDNET
@@ -114,6 +100,13 @@ Adam Breeden/ZDNET
 * **Check In** is available on Apple Watch, even during workouts, to help users stay safe. **Translate** is also coming to Apple Watch so users can translate text right from their wrists.
 * Another notable change is that the **double tap gesture** can be used to scroll through apps.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105873/7443" target="_top" id="2105873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105873" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## iPadOS 18
 
 Adam Breeden/ZDNET
@@ -125,10 +118,10 @@ Adam Breeden/ZDNET
 * iPadOS 18 supports **screen-sharing via SharePlay** and the same Control Center customizations, Photos app upgrades, Safari updates, and emoji Tapbacks found in **iOS 18.**
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130871/7443" target="_top" id="2130871">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130871" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2087395/7443" target="_top" id="2087395">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087395" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130871/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087395/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## MacOS 15 (Sequoia)
@@ -160,10 +153,10 @@ Jason Hiner/ZDNET
 * Apple is also making the Vision Pro available in more countries starting June 28\. You can see the full list [here](https://www.apple.com/newsroom/2024/06/apple-vision-pro-arrives-in-new-countries-and-regions-beginning-june-28/).
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975836/19272" target="_top" id="1975836">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975836" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557746/17382" target="_top" id="1557746">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557746" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975836/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557746/17382" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## AirPods
@@ -173,6 +166,13 @@ Jason Hiner/ZDNET
 * AirPods Pro are getting **Voice Isolation** to enhance call quality in noisier environments.
 * With the new **Siri Interactions**, users can now **nod or shake their head** "yes" or "no" when responding to Siri.
 * Apple is also releasing a **Personalized Spatial Audio API** for game developers to build around the AirPods' audio technology.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123749/7443" target="_top" id="2123749">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123749" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123749/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## tvOS 18
 
@@ -218,17 +218,19 @@ Screenshot by Nina Raemont/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-2024-approved-does-m1-make-a-difference-for-film-and-media-editors/"><u>[New] 2024 Approved Does M1 Make a Difference for Film and Media Editors?</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-faster-insights-slower-pace-balancing-youtube-playback-rate/"><u>[New] 2024 Approved Faster Insights, Slower Pace Balancing YouTube Playback Rate</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-from-conceptualization-to-production-a-guide-to-making-mukbang-for-2024/"><u>[New] From Conceptualization to Production A Guide to Making Mukbang for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-free-themes-for-dynamic-youtuber-profiles/"><u>[Updated] 2024 Approved Free Themes for Dynamic YouTuber Profiles</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-guide-to-youtubes-latest-income-strategies/"><u>[Updated] 2024 Approved Guide to YouTube's Latest Income Strategies</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-harnessing-powerful-tools-for-effective-youtubers-seo-for-2024/"><u>[Updated] Harnessing Powerful Tools for Effective YouTubers' SEO for 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/addressing-the-challenge-of-valorants-failed-launch-on-pc-systems-proven-techniques/"><u>Addressing the Challenge of Valorant's Failed Launch on PC Systems : Proven Techniques</u></a></li>
-<li><a href="https://article-posts.techidaily.com/clearer-visions-advanced-techniques-for-zooming-photos-and-videos/"><u>Clearer Visions Advanced Techniques for Zooming Photos & Videos</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/in-2024-viewers-perspectives-on-instagram-stories-not-known/"><u>In 2024, Viewers' Perspectives on Instagram Stories Not Known</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/step-by-step-guide-converting-your-audio-files-and-playlists-into-mp3-format-on-pc/"><u>Step-by-Step Guide: Converting Your Audio Files and Playlists Into MP3 Format on PC</u></a></li>
-<li><a href="https://fox-that.techidaily.com/ultimate-guide-top-15-essential-fixes-for-any-iphones-you-own/"><u>Ultimate Guide: Top 15 Essential Fixes for Any iPhones You Own</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/why-im-loyal-to-my-apple-watch-series/"><u>Why I'm Loyal to My Apple Watch Series</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-2024-approved-immerse-in-world-heritage-through-vr/"><u>[New] 2024 Approved Immerse in World Heritage Through VR</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-explore-8-inexpensive-virtual-gatherings-mac-and-windows-compatibility-for-2024/"><u>[Updated] Explore 8 Inexpensive Virtual Gatherings Mac & Windows Compatibility for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-mememorph-machine-20/"><u>2024 Approved MemeMorph Machine 2.0</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/5/"><u>最高画質化アプリトップ5: 動画のクオリティ向上方法をご紹介</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/cross-device-communication-mastery-leveraging-one-universal-mobile-number-for-all-electronics/"><u>Cross-Device Communication Mastery: Leveraging One Universal Mobile Number for All Electronics</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/effortless-troubleshooting-tips-for-non-detectable-usb-drives/"><u>Effortless Troubleshooting Tips for Non-Detectable USB Drives</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/exploring-chatgpts-characters-capacity-tips-to-bypass-the-constraint/"><u>Exploring ChatGPT's Characters Capacity - Tips to Bypass the Constraint</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/full-guide-on-mirroring-your-realme-narzo-n55-to-your-pcmac-drfone-by-drfone-android/"><u>Full Guide on Mirroring Your Realme Narzo N55 to Your PC/Mac | Dr.fone</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/maximize-your-dvd-and-iso-backup-with-mac-x-dvd-ripper-pro-complete-compression-tutorial-for-windows-users/"><u>Maximize Your DVD & ISO Backup with Mac X DVD Ripper Pro – Complete Compression Tutorial for Windows Users</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/revive-your-social-feeds-soundscape-expert-advice-on-resolving-facebook-video-playback-noise-glitches/"><u>Revive Your Social Feed's Soundscape: Expert Advice on Resolving Facebook Video Playback Noise Glitches</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/top-ranked-ultra-hd-gaming-experiences-on-playstation-4-and-xbox-one/"><u>Top-Ranked Ultra HD Gaming Experiences on PlayStation 4 & Xbox One</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/transform-microsoft-windows-settings-dollar-to-euro-conversion-tutorial/"><u>Transform Microsoft Windows Settings - Dollar to Euro Conversion Tutorial</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/troubleshooting-tips-for-seamless-photo-importing-between-your-iphone-and-windows-11-pc/"><u>Troubleshooting Tips for Seamless Photo Importing Between Your iPhone and Windows 11 PC</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/iuodjplusodvoodieocpuocpplusocouocouocrplusocuplusodqeodroodvooctplusodpplusodszog5a6a576p44cb44k44kk44ox44cb5yip54k544cb44gd44gx44gm5l244gi44kl44gz44g544gm14/"><u>ハードウェアアクセラレーション: 定義、タイプ、利点、そして使えるすべてのソフトウェア - 深掘りガイド</u></a></li>
 </ul></div>
 

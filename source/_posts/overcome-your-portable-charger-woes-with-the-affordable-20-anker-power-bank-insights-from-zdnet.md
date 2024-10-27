@@ -1,7 +1,7 @@
 ---
 title: Overcome Your Portable Charger Woes with the Affordable $20 Anker Power Bank - Insights From ZDNet
-date: 2024-10-20T16:29:27.501Z
-updated: 2024-10-22T00:13:28.629Z
+date: 2024-10-21T20:09:37.074Z
+updated: 2024-10-27T20:44:09.926Z
 tags:
   - apple
 categories:
@@ -39,10 +39,10 @@ To Android users and new (or incoming) iPhone users who are looking to add a USB
 See, I have quibbles with many portable chargers. Those include forgetting a wire, not knowing where to hold the charger while it's charging my phone, and feeling like it takes forever to increase the battery percentage at all. This charger addresses all of the issues and more. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012401/19272" target="_top" id="2012401">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012401" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148633/16836" target="_top" id="2148633">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148633" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012401/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148633/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 
@@ -70,6 +70,13 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139119/17108" target="_top" id="2139119">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139119" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139119/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Impressive charging power for its size
 
 The 22.5W Power Bank packs 5,000mAh capacity, which is enough to charge an [iPhone 15 Pro](https://www.zdnet.com/article/iphone-15-pro-hands-on-review/) to 68%, according to Anker. In my experience, it charged my Samsung Z Flip 4 from zero to 30% in half an hour. 
@@ -79,10 +86,10 @@ The 22.5W Power Bank packs 5,000mAh capacity, which is enough to charge an [iPho
 Although it might not seem like a tremendous boost, remember that this portable charger is meant to get you out of a pinch. If your phone died on you while you were out, getting a quarter of your battery back in under 30 minutes would be a lifesaver. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925468/19272" target="_top" id="1925468">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925468" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134249/18498" target="_top" id="2134249">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134249" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925468/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134249/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Charging the power bank is hassle-free
@@ -97,22 +104,15 @@ Sabrina Ortiz/ZDNET
 
 The charger comes in five colors: blue, black, white, green, and pink, matching every iPhone 15 color besides the yellow, which the white could be paired with instead.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135406/19272" target="_top" id="2135406">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135406" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135406/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## ZDNET's buying advice
 
 If you are searching for a new portable charger for your new iPhone or just because you are due for an upgrade, the [Anker Nano 22.5W Power Bank](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0C6XK77HJ%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C2488b094-9450-45fb-96b8-b3bc91f52db2%7Cdtp&dtb=1) is a good choice because it won't break the bank and will get the job done. The fun color options, effectiveness, size, and low price point even make it a good choice for gifting.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902319/19272" target="_top" id="1902319">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902319" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144278/7443" target="_top" id="2144278">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144278" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902319/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144278/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -149,20 +149,17 @@ Deals are subject to sell-out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-best-16-youtube-intro-makers-to-bring-you-more-views-for-2024/"><u>[New] Best 16 YouTube Intro Makers to Bring You More Views for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-decoding-the-earnings-algorithm-of-tseries-online-channel/"><u>[New] In 2024, Decoding the Earnings Algorithm of TSeries Online Channel</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-navigating-vertical-vs-horizontal-on-facebook-videos/"><u>[New] Navigating Vertical vs Horizontal on Facebook Videos</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-the-best-of-budget-a-guide-to-the-top-10-economical-video-design-schools-on-youtube/"><u>[New] The Best of Budget A Guide to the Top 10 Economical Video Design Schools on YouTube</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-audio-ambition-selecting-top-6-free-downloader-apps-from-youtube-vaults/"><u>[Updated] 2024 Approved Audio Ambition Selecting Top 6 Free Downloader Apps From YouTube Vaults</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-harnessing-google-trends-for-video-concept-generation/"><u>[Updated] 2024 Approved Harnessing Google Trends for Video Concept Generation</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-evaluating-wirecast-other-options-to-consider/"><u>[Updated] Evaluating WireCast Other Options To Consider</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-how-much-could-you-make-on-youtube-snippets-in-2024/"><u>[Updated] How Much Could You Make on YouTube Snippets, In 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-completely-erase-youtube-shorts-footprint-for-2024/"><u>[Updated] How To Completely Erase YouTube Shorts Footprint for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-live-stream-on-youtube-gaming-in-2024/"><u>[Updated] How to Live Stream on YouTube Gaming, In 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-regular-are-youtube-monetization-payments/"><u>[Updated] In 2024, How Regular Are YouTube Monetization Payments?</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/displaying-d-drive-on-explorer-navigation-pane/"><u>Displaying D: Drive on Explorer Navigation Pane</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-call-logs-from-infinix-note-30-vip-racing-edition-by-fonelab-android-recover-call-logs/"><u>How to rescue lost call logs from Infinix Note 30 VIP Racing Edition</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-remove-screen-lock-pin-on-samsung-galaxy-f15-5g-like-a-pro-5-easy-ways-by-drfone-android/"><u>In 2024, How To Remove Screen Lock PIN On Samsung Galaxy F15 5G Like A Pro 5 Easy Ways</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/update-your-pc-with-the-newest-intel-wi-fi-ac-9560-drivers-for-optimal-performance/"><u>Update Your PC with the Newest Intel Wi-Fi AC 9560 Drivers for Optimal Performance</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-mastering-the-self-play-feature-in-facebook-videos/"><u>[New] 2024 Approved Mastering the Self-Play Feature in Facebook Videos</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-from-chords-to-clicks-mastering-music-on-ig/"><u>[Updated] In 2024, From Chords to Clicks Mastering Music on IG</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-optimal-settings-for-recording-movs-on-windows-11-systems/"><u>[Updated] In 2024, Optimal Settings for Recording MOVs on Windows 11 Systems</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/best-free-music-download-apps-for-your-mac-top-12-picks/"><u>Best FREE Music Download Apps for Your Mac - Top 12 Picks</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/dmm-video-converter-2024-and/"><u>DMM Video Converter フリープログラムが入手できる2024年 - ダウンロード&変換機能付き！</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/easy-to-follow-guide-for-configuring-streamlabs-obs-for-2024/"><u>Easy-to-Follow Guide for Configuring Streamlabs OBS for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-voice-log-retrieval-content-scrutiny/"><u>In 2024, Voice Log Retrieval, Content Scrutiny</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/most-popular-world-cup-matches-youtubes-all-time-leading-watch-time-ranking/"><u>Most Popular World Cup Matches: YouTube's All-Time Leading Watch Time Ranking</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/professional-macx-the-ultimate-mac-compatible-tool-for-seamless-hd-video-format-transformation-including-mkv-to-mp4aviwmv-conversions-ideal-for-ios-and-andr10/"><u>Professional MacX: The Ultimate Mac-Compatible Tool for Seamless HD Video Format Transformation, Including MKV to MP4/AVI/WMV Conversions - Ideal for iOS and Android Devices</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/quick-fix-mac-compatible-youtube-video-resize/"><u>Quick Fix Mac-Compatible YouTube Video Resize</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/step-by-step-tips-on-reducing-wind-interference-in-high-definition-gopro-captures/"><u>Step-by-Step Tips on Reducing Wind Interference in High-Definition GoPro Captures</u></a></li>
+<li><a href="https://apple-account.techidaily.com/why-apple-account-disabled-from-your-iphone-14-pro-how-to-fix-by-drfone-ios/"><u>Why Apple Account Disabled From your iPhone 14 Pro? How to Fix</u></a></li>
 </ul></div>
 

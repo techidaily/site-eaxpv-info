@@ -1,7 +1,7 @@
 ---
 title: "Mastering the Convenience of Apple Pay: Tips for Using It In-Store and On-the-Go – A Comprehensive Guide by ZDNet"
-date: 2024-10-15T16:55:03.961Z
-updated: 2024-10-21T21:48:19.067Z
+date: 2024-10-24T16:56:36.972Z
+updated: 2024-10-27T20:23:19.507Z
 tags:
   - apple
 categories:
@@ -37,10 +37,10 @@ Apple was expected to focus on incorporating AI into its apps to simplify users'
 Apple Intelligence focuses on broad-appeal AI features rather than advanced image and video generation. To do this, the company developed in-house AI models and partnered with OpenAI to power a chatbot that will integrate [ChatGPT](https://www.zdnet.com/article/what-is-chatgpt-and-why-does-it-matter-heres-everything-you-need-to-know/) into iOS, iPadOS, and MacOS.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075472/7443" target="_top" id="2075472">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075472" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aidotcom.pxf.io/c/5597632/2129041/19576" target="_top" id="2129041">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129041" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075472/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129041/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## What does Apple Intelligence do?
@@ -78,6 +78,19 @@ The voice assistant will also be able to perform hundreds of new actions across 
 
 Apple is also upgrading Siri to understand text, allowing users to type or speak to Siri as needed. 
 
+<!-- affiliate ads begin -->
+<span id="1834903">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## What's new in Apple's photo editing & search?
 
 Apple
@@ -103,10 +116,10 @@ The same feature can help users make major edits to text, such as changing the t
 Apple devices will also get AI upgrades for recordings and transcriptions in Voice Memos and Phone, as users can quickly transcribe voice notes with AI.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130887/7443" target="_top" id="2130887">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130887" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151873/7443" target="_top" id="2151873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151873" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130887/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151873/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## What is Image Playground?
@@ -120,13 +133,6 @@ Apple will let users generate images using AI in Messages, Photos Notes, Keynote
 In the Notes app, for example, a new tool called Image Wand will let you circle a rough sketch and use on-device AI to have Image Playground pull ideas from the surrounding areas to generate an image. 
 
 Image Playground will be available in beta this fall, and some features will be released over the next year.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087395/7443" target="_top" id="2087395">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087395" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087395/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Is ChatGPT coming to iPhone, iPad, and Mac?
 
@@ -157,10 +163,10 @@ Apple is leveraging what it calls Private Cloud Compute for complex tasks that r
 Depending on its complexity and system requirements, an algorithm will determine whether a task requiring AI should be processed on-device or offloaded to the cloud. Simpler tasks like a Siri request and other basic NLP tasks can be processed on-device. More complex tasks, like generating a detailed summary of a large document, will be sent to the cloud, where more robust processing can occur. 
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1030129/11832" target="_top" id="1030129">
-  <img src="//a.impactradius-go.com/display-ad/11832-1030129" border="0" alt="https://techidaily.com" width="720" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130874/7443" target="_top" id="2130874">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130874" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030129/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130874/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Is Apple Intelligence actually private and secure?
@@ -218,22 +224,15 @@ While these AI features may help drive sales of new iPhones and Macs, as a curre
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-free-to-fortune-the-500-sub-club/"><u>[New] 2024 Approved From Free to Fortune The 500-Sub Club</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-androids-highest-rated-portable-gba-simulator-guide/"><u>[New] Android's Highest-Rated Portable GBA Simulator Guide</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-from-idea-to-internet-fame-becoming-a-vtuber-in-2024/"><u>[New] From Idea to Internet Fame Becoming a VTuber, In 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-from-vision-to-visuals-craft-your-story-with-youtube-editor-for-2024/"><u>[New] From Vision to Visuals Craft Your Story with YouTube Editor for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-harness-the-power-of-youtubes-movie-maker-for-professionals-for-2024/"><u>[New] Harness the Power of YouTube's Movie Maker for Professionals for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-how-to-create-a-youtube-channel-today-for-2024/"><u>[New] How to Create A YouTube Channel Today for 2024</u></a></li>
-<li><a href="https://fox-links.techidaily.com/new-in-2024-green-screen-basics-for-filmmakers-starting-out/"><u>[New] In 2024, Green Screen Basics for Filmmakers Starting Out</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-beginner-to-expert-a-comprehensive-guide-to-looping-your-favorite-vids/"><u>[Updated] 2024 Approved From Beginner to Expert A Comprehensive Guide to Looping Your Favorite Vids</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-free-banner-templates-and-makers-for-youtube-for-2024/"><u>[Updated] Free Banner Templates & Makers for YouTube for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-vlogger-to-earnest-by-year-end-following-sourav-joshis-examples/"><u>[Updated] In 2024, From Vlogger to Earnest by Year End - Following Sourav Joshi's Examples</u></a></li>
-<li><a href="https://howto.techidaily.com/best-methods-for-vivo-y100i-power-5g-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Best Methods for Vivo Y100i Power 5G Wont Turn On | Dr.fone</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/tions-toll-consequences-of-fake-supporters-in-video-markets/"><u>Deception's Toll Consequences of Fake Supporters in Video Markets</u></a></li>
-<li><a href="https://fox-http.techidaily.com/night-vision-with-iphone-capturing-striking-shadows/"><u>Night Vision with iPhone Capturing Striking Shadows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/rediscovering-the-past-7-windows-11-features-from-yesteryears/"><u>Rediscovering the Past: 7 Windows 11 Features From Yesteryears</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/solve-your-bcm2045a0-driver-woes-in-no-time-tips-and-tricks-inside/"><u>Solve Your BCM2045A0 Driver Woes in No Time – Tips & Tricks Inside</u></a></li>
-<li><a href="https://techidaily.com/some-mp4-wont-play-on-my-moto-g-5g-2023-by-aiseesoft-video-converter-play-mp4-on-android/"><u>Some MP4 won't play on my Moto G 5G (2023)</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/transferring-android-content-discover-5-strategies-for-a-smooth-migration-to-your-new-iphone-model/"><u>Transferring Android Content: Discover 5 Strategies for a Smooth Migration to Your New iPhone Model</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-mastering-script-structuring/"><u>[Updated] Mastering Script Structuring</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-top-10-christian-melodies-download-and-personalize-guide-for-2024/"><u>[Updated] Top 10 Christian Melodies Download & Personalize Guide for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/comparing-h2/"><u>Comparing H.2</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/effortless-guide-to-converting-your-dvds-into-itunes-library-for-play-on-ipod-devices/"><u>Effortless Guide to Converting Your DVDs Into iTunes Library for Play on iPod Devices</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/mastering-manga-digitally-tips-for-enjoying-comic-books-on-kindle-platforms/"><u>Mastering Manga Digitally: Tips for Enjoying Comic Books on Kindle Platforms</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-arm-support-now-live-upgrade-your-filmora-x-experience-for-2024/"><u>New ARM Support Now Live Upgrade Your Filmora X Experience for 2024</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/the-ultimate-guide-to-scoring-big-tech-deals-at-amazon-prime-day-2024/"><u>The Ultimate Guide to Scoring Big Tech Deals at Amazon Prime Day 2024</u></a></li>
+<li><a href="https://win-help.techidaily.com/transform-your-physical-library-into-digital-flipbooks-replicate-actual-page-flipping-feature-with-easeflipbuildercom/"><u>Transform Your Physical Library Into Digital FlipBooks - Replicate Actual Page-Flipping Feature with Ease![FlipBuilder.com]</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/ultimate-guide-selecting-superior-dvd43-substitutes-to-safely-copy-dvds-on-mac-systems/"><u>Ultimate Guide: Selecting Superior DVD43 Substitutes to Safely Copy DVDs on Mac Systems</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/web-video-upload-and-download-tutorial-how-to-convert-and-edit-your-content/"><u>Web Video Upload & Download Tutorial: How to Convert and Edit Your Content</u></a></li>
 </ul></div>
 

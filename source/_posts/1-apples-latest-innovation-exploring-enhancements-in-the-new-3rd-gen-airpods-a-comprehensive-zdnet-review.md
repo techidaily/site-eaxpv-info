@@ -1,7 +1,7 @@
 ---
 title: "1. Apple's Latest Innovation: Exploring Enhancements in the New 3Rd Gen AirPods - A Comprehensive ZDNet Review"
-date: 2024-10-18T20:29:05.163Z
-updated: 2024-10-21T17:45:00.258Z
+date: 2024-10-23T20:26:56.943Z
+updated: 2024-10-27T19:20:18.696Z
 tags:
   - apple
 categories:
@@ -36,13 +36,6 @@ Apple was expected to focus on incorporating AI into its apps to simplify users'
 
 Apple Intelligence focuses on broad-appeal AI features rather than advanced image and video generation. To do this, the company developed in-house AI models and partnered with OpenAI to power a chatbot that will integrate [ChatGPT](https://www.zdnet.com/article/what-is-chatgpt-and-why-does-it-matter-heres-everything-you-need-to-know/) into iOS, iPadOS, and MacOS.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036467/19272" target="_top" id="2036467">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036467" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036467/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## What does Apple Intelligence do?
 
 Apple
@@ -62,6 +55,13 @@ Aside from these AI features, iOS 18 will include new customizable icons and int
 
 **Also: [Forget LastPass: Apple unveils 'Passwords' manager app at WWDC 2024](https://www.zdnet.com/article/forget-lastpass-apple-unveils-passwords-manager-app-at-wwdc-2024/)**
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144271/7443" target="_top" id="2144271">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144271" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144271/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Is Siri getting an Apple Intelligence makeover?
 
 Apple
@@ -78,6 +78,13 @@ The voice assistant will also be able to perform hundreds of new actions across 
 
 Apple is also upgrading Siri to understand text, allowing users to type or speak to Siri as needed. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111982/7443" target="_top" id="2111982">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111982" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111982/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## What's new in Apple's photo editing & search?
 
 Apple
@@ -89,13 +96,6 @@ Like the Google Pixel's Magic Eraser, Apple is giving its devices a new, AI-powe
 Apple is adding natural language photo and video search to its Photos app. This will let users enter a prompt to search for a picture, video, or even a segment of a video. Users can say, "Find a photo of that starfish we found at the beach last summer," and have their iPhone pull up a photo without having to scroll through thousands of photos to find the one.
 
 In Photos, users will also be able to give a text prompt to create Memory videos. These will be compilations of videos and photos following a description, with music suggestions from Apple Music. 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948949/19272" target="_top" id="1948949">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948949" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948949/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How does systemwide AI text generation work?
 
@@ -133,13 +133,6 @@ When users make a Siri request that the voice assistant determines would be bett
 
 Apple says its ChatGPT integration has privacy protections in place, with obscured IP addresses and no request storage by OpenAI. ChatGPT on iPhone, iPad, and Mac will be free to use, provided the device is compatible with the latest operating system. [Paying ChatGPT users](https://www.zdnet.com/article/chatgpt-vs-chatgpt-plus-is-a-paid-subscription-still-worth-it/) will get access to additional Plus features.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886015/19272" target="_top" id="1886015">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886015" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886015/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Will Apple Intelligence be processed on-device or in the cloud?
 
 Apple
@@ -157,10 +150,10 @@ Apple is leveraging what it calls Private Cloud Compute for complex tasks that r
 Depending on its complexity and system requirements, an algorithm will determine whether a task requiring AI should be processed on-device or offloaded to the cloud. Simpler tasks like a Siri request and other basic NLP tasks can be processed on-device. More complex tasks, like generating a detailed summary of a large document, will be sent to the cloud, where more robust processing can occur. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049378/7443" target="_top" id="2049378">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049378" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037358/7443" target="_top" id="2037358">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037358" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049378/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037358/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Is Apple Intelligence actually private and secure?
@@ -177,6 +170,13 @@ The company is striving to keep the AI features secure through several mechanism
 * **Independent code review:** With Private Cloud Compute, Apple explained that the code is available for independent experts to inspect and verify it meets privacy standards.
 * **Data encryption:** Apple encrypts all data sent to and from its servers as another layer of security.
 * **Ability to opt out:** Perhaps most importantly, users can opt-in for Apple Intelligence features, which will be introduced as beta versions as Apple works to improve its AI capabilities over time.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118326/7443" target="_top" id="2118326">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118326" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118326/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## What are the technical requirements for Apple Intelligence?
 
@@ -218,15 +218,22 @@ While these AI features may help drive sales of new iPhones and Macs, as a curre
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-how-much-wealth-awaits-one-million-youtube-followers-in-2024/"><u>[New] How Much Wealth Awaits One Million YouTube Followers, In 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-guide-to-streamlined-subscription-links-for-video-channels/"><u>[New] In 2024, Guide to Streamlined Subscription Links for Video Channels</u></a></li>
-<li><a href="https://extra-information.techidaily.com/updated-best-book-trailers-a-curated-list-of-5/"><u>[Updated] Best Book Trailers A Curated List of 5</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-historical-insights-top-educational-yt-creators-for-2024/"><u>[Updated] Historical Insights Top Educational YT Creators for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-create-and-build-a-youtube-channel-today-for-2024/"><u>[Updated] How to Create and Build A YouTube Channel Today for 2024</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/evaluating-anthropics-innovative-image-manipulation-tool-smart-photo-editor-review/"><u>Evaluating Anthropics’ Innovative Image Manipulation Tool – Smart Photo Editor Review</u></a></li>
-<li><a href="https://win-answers.techidaily.com/how-to-troubleshoot-and-prevent-twk-from-crashing-on-your-pc/"><u>How to Troubleshoot and Prevent TWK From Crashing on Your PC</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/imessage-communication-guide-sending-and-receiving-from-windows-pcs-tips-and-tricks/"><u>IMessage Communication Guide: Sending & Receiving From Windows PCs - Tips & Tricks</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/in-2024-essential-offline-ios-game-list-unplugged-fun-awaits/"><u>In 2024, Essential Offline iOS Game List - Unplugged Fun Awaits</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/installing-the-most-recent-drivers-for-your-intel-ax210-network-card/"><u>Installing the Most Recent Drivers for Your Intel AX210 Network Card</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-from-speech-to-text-a-complete-free-workshop-on-youtube-transcription-for-2024/"><u>[New] From Speech to Text A Complete, FREE Workshop on YouTube Transcription for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-growth-hacks-for-youtubers-short-form-content-boosting-view-counts-effectively-for-2024/"><u>[New] Growth Hacks for YouTuber's Short Form Content Boosting View Counts Effectively for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-in-2024-explore-the-best-0-image-editing-tools-on-smartphones-today/"><u>[New] In 2024, Explore the Best $0 Image Editing Tools on Smartphones Today</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-creator-to-business-transforming-your-youtube-experience/"><u>[New] In 2024, From Creator to Business Transforming Your YouTube Experience</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-convenient-method-to-design-original-shorts-thumbnails/"><u>[Updated] 2024 Approved Convenient Method to Design Original Shorts Thumbnails</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-efficiently-achieving-color-background-separation/"><u>[Updated] 2024 Approved Efficiently Achieving Color Background Separation</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-gain-traction-on-youtube-surpass-10000-viewer-count-for-affiliate-rewards/"><u>[Updated] Gain Traction on YouTube - Surpass 10,000 Viewer Count for Affiliate Rewards</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-building-buzz-strategies-for-shaping-your-unique-youtubing-image/"><u>[Updated] In 2024, Building Buzz Strategies for Shaping Your Unique YouTubing Image</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/2024-approved-youtube-communication-incorporating-fun-with-emojis/"><u>2024 Approved YouTube Communication Incorporating Fun with Emojis</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/best-anti-tracker-software-for-apple-iphone-13-pro-max-drfone-by-drfone-virtual-ios/"><u>Best Anti Tracker Software For Apple iPhone 13 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://discover-docs.techidaily.com/einfache-klonierung-von-festplatten-fur-windows-server-2011-auf-hdd-und-ssd/"><u>Einfache Klonierung Von Festplatten Für Windows Server 2011 Auf HDD Und SSD</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/elevating-imagery-the-hdr-revolution-in-video-workflows/"><u>Elevating Imagery The HDR Revolution in Video Workflows</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-unlocking-laughter-in-vr-crafting-metaverse-humor/"><u>In 2024, Unlocking Laughter in VR Crafting Metaverse Humor</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ating-royalty-free-sounds-for-youtube-clips/"><u>Navigating Royalty-Free Sounds for YouTube Clips</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/overcoming-the-challenge-of-hidden-youtube-shorts-thumbnails/"><u>Overcoming the Challenge of Hidden YouTube Shorts Thumbnails</u></a></li>
+<li><a href="https://win-guides.techidaily.com/revolutionizing-digital-expansion-the-virtual-summit-on-mastering-the-art-of-growth-marketing-with-massmail-tech/"><u>Revolutionizing Digital Expansion: The Virtual Summit on Mastering the Art of Growth Marketing with MassMail Tech</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/step-by-step-tutorial-on-utilizing-onedrives-features-for-effortless-dual-computer-syncing/"><u>Step-by-Step Tutorial on Utilizing OneDrive's Features for Effortless Dual Computer Syncing</u></a></li>
 </ul></div>
 

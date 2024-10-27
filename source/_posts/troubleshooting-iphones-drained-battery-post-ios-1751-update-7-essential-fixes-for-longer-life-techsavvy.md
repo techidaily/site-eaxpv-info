@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting iPhone's Drained Battery Post-iOS 17.5.1 Update: 7 Essential Fixes for Longer Life | TechSavvy"
-date: 2024-10-17T23:32:55.486Z
-updated: 2024-10-21T23:05:24.467Z
+date: 2024-10-21T17:39:17.203Z
+updated: 2024-10-27T17:49:29.557Z
 tags:
   - apple
 categories:
@@ -31,16 +31,10 @@ If you want to follow along, you'll need to install the iOS 18 public beta on an
 ## How to customize your iPhone's new Control Center with iOS 18
 
 <!-- affiliate ads begin -->
-<span id="1983446">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983446.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983446">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983446.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983446%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983446/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136623/26400" target="_top" id="2136623">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136623" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136623/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 1\. Access Control Center
@@ -48,13 +42,6 @@ If you want to follow along, you'll need to install the iOS 18 public beta on an
 To display Control Center, swipe down from the top-right corner of the screen. You'll notice that Control Center is now separated into three different screens. The first screen displays the core controls, the second screen shows the audio player and related settings, and the third has connectivity options. Swipe up or down to move from one screen to another, or tap one of the three icons on the right to jump to a specific one.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997630/19272" target="_top" id="1997630">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997630" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997630/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 2\. Move the available controls
 
@@ -65,10 +52,10 @@ Screenshot by Lance Whitney/ZDNET
 **Also: [Every iPhone model that can be updated to Apple's iOS 18 (and which ones can't)](https://www.zdnet.com/article/every-iphone-model-that-can-be-updated-to-apples-ios-18-and-which-ones-cant/)**
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094415/7443" target="_top" id="2094415">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094415" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137976/21526" target="_top" id="2137976">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137976" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094415/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137976/21526" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Resize a control
@@ -77,11 +64,25 @@ After tapping the plus icon, some controls sport a gray curved handle in the low
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037346/7443" target="_top" id="2037346">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037346" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037346/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Delete a control
 
 Next, you can directly delete a control you don't need or want. With the icons in edit mode, tap the minus sign for the icon you want to remove. When the icon is deleted, the surrounding icons should move to fill up the gap.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134501/19576" target="_top" id="2134501">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134501" border="0" alt="https://techidaily.com" width="640" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134501/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Add a control to an existing screen
 
@@ -96,13 +97,6 @@ Screenshot by Lance Whitney/ZDNET
 If the current screens are already filled with icons, you can set up additional screens to hold more controls. Swipe down to the last screen, which shouldn't have any free space. Tap the plus icon and then tap "Add a Control." Again, browse or search for the control you wish to add. Tap that control, and it should appear in a new screen. You can continue adding more controls to the new screen this way. You can create as many as 15 screens, though you'll probably want to stop before you reach that number.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/1995803/22899" target="_top" id="1995803">
-  <img src="//a.impactradius-go.com/display-ad/22899-1995803" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/1995803/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 7\. Power down from Control Center
 
@@ -140,24 +134,22 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-free-music-unlocked-the-ultimate-library-for-videographers/"><u>[New] 2024 Approved Free Music Unlocked The Ultimate Library for Videographers</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-going-against-gravity-reversing-your-vids/"><u>[New] 2024 Approved Going Against Gravity Reversing Your Vids</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-convert-youtube-videos-to-mp3-songs-on-mac/"><u>[New] 2024 Approved How to Convert YouTube Videos to MP3 Songs on Mac</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-make-a-youtube-subscribe-link-easy/"><u>[New] 2024 Approved How to Make a YouTube Subscribe Link - Easy</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-from-genres-to-gems-building-a-personalized-youtube-music-mix-onlinemobile-for-2024/"><u>[New] From Genres to Gems Building a Personalized YouTube Music Mix Online/Mobile for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-from-raw-footage-to-highlight-hits-for-2024/"><u>[New] From Raw Footage to Highlight Hits for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-making-dreams-real-steps-towards-becoming-a-vtuber/"><u>[New] In 2024, From Making Dreams Real Steps Towards Becoming a VTuber?</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-masterclass-banishing-green-on-your-mac-for-youtube-success/"><u>[New] Masterclass Banishing Green on Your Mac for YouTube Success</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-grab-free-video-profile-backgrounds/"><u>[Updated] 2024 Approved Grab Free Video Profile Backgrounds</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-8-fastest-growing-youtube-channel-for-2024/"><u>[Updated] 8 Fastest-Growing YouTube Channel for 2024</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-mastering-the-art-of-instagram-to-mp4-conversion-expert-tips-for-2024/"><u>[Updated] Mastering the Art of Instagram to MP4 Conversion - Expert Tips for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-in-depth-investment-introspection-the-podcasts-financial-frontier/"><u>2024 Approved In-Depth Investment Introspection The Podcast's Financial Frontier</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-profit-from-reddit-easy-style-top-13-beginner-strategies/"><u>2024 Approved Profit From Reddit Easy Style Top 13 Beginner Strategies</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-remove-inconvenient-black-edges-from-youtube-videos/"><u>2024 Approved Remove Inconvenient Black Edges From YouTube Videos</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/essential-knowledge-for-effective-screensaver-use-in-mobile-applications-for-2024/"><u>Essential Knowledge for Effective Screensaver Use in Mobile Applications for 2024</u></a></li>
-<li><a href="https://techidaily.com/keep-your-logitech-m510-running-smoothly-with-new-drivers-a-comprehensive-guide/"><u>Keep Your Logitech M510 Running Smoothly with New Drivers - A Comprehensive Guide</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/mastering-video-edits-meet-the-top-19-expert-editors-shaping-202e4s-visual-landscape/"><u>Mastering Video Edits: Meet the Top 19 Expert Editors Shaping 202E4's Visual Landscape</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/self-guided-techniques-for-clearing-data-off-of-your-iphone-device/"><u>Self-Guided Techniques for Clearing Data Off of Your iPhone Device</u></a></li>
-<li><a href="https://article-files.techidaily.com/the-definitive-guide-to-audio-interfaces-in-podcasting/"><u>The Definitive Guide to Audio Interfaces in Podcasting</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-sky-high-streamer-success-channel-growth-through-monetizing-every-device/"><u>[New] 2024 Approved Sky-High Streamer Success Channel Growth Through Monetizing Every Device</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-capture-the-essence-extracting-youtube-audio-directly/"><u>[Updated] 2024 Approved Capture the Essence Extracting YouTube Audio Directly</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-ios-meets-android-an-in-depth-look-at-facial-tech/"><u>[Updated] 2024 Approved IOS Meets Android An In-Depth Look at Facial Tech</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/macx-dvd-macosdvd-mp4flv/"><u>無料 MacX DVD コンバータ：MacOS専用でDVD保護解除 MP4/FLV変換</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/cutting-edge-microphones-ranking-the-6-best-for-streaming-professionals/"><u>Cutting Edge Microphones Ranking the 6 Best For Streaming Professionals</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/easy-fixes-for-your-apple-devices-endless-bootloop-dilemma/"><u>Easy Fixes for Your Apple Device's Endless Bootloop Dilemma</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/enhancing-iphone-x-security-mending-facial-detection-glitches-for-2024/"><u>Enhancing iPhone X Security Mending Facial Detection Glitches for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/explore-ideal-media-types-for-playback-on-iphone-876-versus-latest-iphones-xsxrxs-maxiphone-11/"><u>Explore Ideal Media Types for Playback on iPhone 8/7/6 Versus Latest iPhones XS/XR/XS Max/iPhone 11</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/handbrakes-new-update-resolves-encoding-issues-errors-43-now-smooth-streaming/"><u>HandBrake's New Update Resolves Encoding Issues (Errors 4/3) – Now Smooth Streaming!</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-the-art-of-iphone-landscapes-pro-techniques-you-must-know/"><u>In 2024, The Art of iPhone Landscapes Pro Techniques You Must Know</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/macx-ultimate-video-transformation-suite-convert-rip-and-edit-dvds-to-ios-on-your-mac-computer/"><u>MacX Ultimate Video Transformation Suite: Convert, Rip and Edit DVDs to iOS on Your Mac Computer!</u></a></li>
+<li><a href="https://games-able.techidaily.com/pro-streamers-choice-best-twitch-vod-downloading-options/"><u>Pro-Streamer's Choice: Best Twitch VOD Downloading Options</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/quick-guide-backing-up-your-ipad-on-a-mac-achieve-it-in-just-17-seconds/"><u>Quick Guide: Backing Up Your iPad on a Mac - Achieve It in Just 17 Seconds!</u></a></li>
+<li><a href="https://fox-that.techidaily.com/quick-solutions-how-to-repair-a-malfunctioning-imessage-on-ios-devices-and-computers/"><u>Quick Solutions: How to Repair a Malfunctioning iMessage on iOS Devices and Computers</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/step-by-step-guide-converting-and-syncing-vob-movies-with-itunes-on-your-iphone-ipad-or-ipod-touch/"><u>Step-by-Step Guide: Converting and Syncing VOB Movies with iTunes on Your iPhone, iPad, or iPod Touch</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-5-vpn-services-ideal-for-enhanced-privacy-on-youtube/"><u>Top 5 VPN Services Ideal for Enhanced Privacy on YouTube</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/top-rated-fitness-dvd-programs-guaranteed-to-transform-your-body/"><u>Top-Rated Fitness DVD Programs Guaranteed to Transform Your Body</u></a></li>
 </ul></div>
 

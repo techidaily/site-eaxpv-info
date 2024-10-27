@@ -1,7 +1,7 @@
 ---
 title: "Navigating Apple's New Frontier: Smartwatch Showdown - Series Nine Vs. Ultra Version | ZDNET Insights"
-date: 2024-10-15T18:46:15.818Z
-updated: 2024-10-21T16:57:04.147Z
+date: 2024-10-21T17:47:30.248Z
+updated: 2024-10-27T18:00:14.250Z
 tags:
   - apple
 categories:
@@ -48,13 +48,6 @@ And then there's the Apple Watch Series 8 and the Apple Watch Ultra. The watches
 
 Jason Hiner/ZDNET
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151871/7443" target="_top" id="2151871">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151871" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151871/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 1\. You're ready for a new Apple Watch design
 
 The Apple Watch Ultra has mostly the same design language as a traditional Apple Watch, but with a modern flair. Instead of the display sitting on the top of the housing, it's now recessed in the titanium body to help protect it. On the right side of the housing is the familiar Digital Crown and side button that's been on every Apple Watch model, but they, too, are protected by the titanium housing. 
@@ -65,6 +58,13 @@ The 49mm housing is also the biggest Apple Watch made to date, and with double t
 
 With a new design comes new bands, as well. There are [three completely new watchband designs](https://www.zdnet.com/article/new-apple-watch-ultra-bands-work-with-other-apple-watch-models-too/), each one designed for different activities such as outdoor adventures, endurance training and water sports. 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135399/19272" target="_top" id="2135399">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135399" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135399/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 2\. You ride, hike or dive… a lot
 
 Speaking of outdoor activities, the Ultra is specifically made for extreme fitness enthusiasts who need longer battery life, a better, brighter display and improved GPS tracking. 
@@ -72,13 +72,6 @@ Speaking of outdoor activities, the Ultra is specifically made for extreme fitne
 Apple touts 36 hours of battery life for the Ultra during normal use, or 60 hours when you activate low power mode. The Ultra is compatible with two different GPS frequencies, L1 and L5, which should provide [accurate and precise location information](https://www.zdnet.com/article/what-is-l5-precision-dual-frequency-gps-why-is-apple-using-it-and-do-you-need-it) regardless of your surroundings. The new compass app will track your route during a hike or bike ride, and then provide waypoints for you to find your way back -- should you get lost. 
 
 Every Apple Watch Ultra comes with LTE capabilities, so as long as you pay your wireless carrier for an additional plan (usually around $10 a month), your watch will always be connected, even if you leave your iPhone behind. 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135395/19272" target="_top" id="2135395">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135395" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135395/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 3\. You need a ruggedized watch
 
@@ -92,23 +85,9 @@ There's even an 86-decibel siren built into the watch should you need emergency 
 
 [Apple Watch Ultra $799 at Apple](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-watch%2Fapple-watch-ultra&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036481/19272" target="_top" id="2036481">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036481" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036481/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  You should buy the Apple Watch Series 8 if…
 
 Jason Hiner/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2141683/17092" target="_top" id="2141683">
-  <img src="//a.impactradius-go.com/display-ad/17092-2141683" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141683/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 1\. You want a traditional Apple Watch design
 
@@ -120,6 +99,13 @@ The Series 8 is available in four aluminum colors this year. There's Starlight, 
 
 **See also:** [**New Apple Watch Ultra bands work with other Apple Watch models, too**](https://www.zdnet.com/article/new-apple-watch-ultra-bands-work-with-other-apple-watch-models-too/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151860/7443" target="_top" id="2151860">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151860" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151860/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 2\. You're not ready to pay $799 for a watch
 
 The Apple Watch SE is the most affordable watch in Apple's lineup, with models [starting at $249](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-watch%2Fapple-watch-se&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp). However, it lacks some of the key health features that the Series 8 and Ultra have -- such as ECG and blood oxygen level monitoring. 
@@ -129,6 +115,13 @@ The Series 8 [starts at $399](https://apple.sjv.io/c/159047/435031/7613?&sharedI
 For $399 you can get a [41mm Apple Watch Series 8](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-watch%2Fapple-watch&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp), or for $429 you can pick up a [45mm Apple Watch Series 8](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-watch%2Fapple-watch&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp). Both of those prices are for an aluminum body and lack cellular connectivity. If you want to add cellular capabilities, you'll pay a $100 premium -- bringing the total to $499 and $529, respectively. 
 
 Still, those prices are more affordable than the Ultra's price tag and the Series 8 is sure to last a few years, or at least until Apple stops providing software updates to it. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151866/7443" target="_top" id="2151866">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151866" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151866/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 3\. Don't need all of the extreme outdoor features
 
@@ -141,6 +134,13 @@ The Series 8 is water resistant, as well, and can be used while swimming or even
 **More: [The best Apple Watch models of 2022](https://www.zdnet.com/article/best-apple-watch/)**
 
 [Apple Watch Series 8 $399 at Apple](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-watch%2Fapple-watch&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948895/19272" target="_top" id="1948895">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948895" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948895/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Alternatives to consider
 
@@ -178,19 +178,20 @@ Open to other Apple Watch prospects? Consider the also-new Apple Watch SE.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-finding-and-accessing-your-personalized-musical-selection-zone-on-youtube/"><u>[New] 2024 Approved Finding and Accessing Your Personalized Musical Selection Zone on Youtube</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-fullscreen-partnership-how-to-choose-an-mcn-for-2024/"><u>[New] Fullscreen Partnership How to Choose An MCN for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-fun-flicks-online-must-see-comedy-streaming-stations/"><u>[New] In 2024, Fun Flicks Online Must-See Comedy Streaming Stations</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-mobile-mastery-an-exhaustive-look-at-androids-lightroom/"><u>[New] Mobile Mastery An Exhaustive Look at Android’s Lightroom</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/new-virtual-reality-breakthrough-apps-for-smartphones/"><u>[New] Virtual Reality Breakthrough Apps for Smartphones</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-finding-your-voice-on-youtube-a-guide-to-selective-audiences/"><u>[Updated] 2024 Approved Finding Your Voice on YouTube A Guide to Selective Audiences</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-hobby-to-hustle-making-money-with-videos/"><u>[Updated] 2024 Approved From Hobby to Hustle Making Money with Videos</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-from-sub-to-srt-with-ease-uncover-our-top-8-software-picks-for-desktop-systems/"><u>[Updated] In 2024, From SUB to SRT with Ease! Uncover Our Top 8 Software Picks for Desktop Systems</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-network-growth-strategy-share-twitch-live-links-on-fb/"><u>[Updated] Network Growth Strategy Share Twitch Live Links on FB</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-tutorial-unmask-your-youtube-audience/"><u>[Updated] Tutorial Unmask Your YouTube Audience</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-change-spotify-location-after-moving-to-another-country-on-motorola-edgeplus-2023-drfone-by-drfone-virtual-android/"><u>How to Change Spotify Location After Moving to Another Country On Motorola Edge+ (2023) | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-use-life360-on-windows-pc-for-honor-x7b-drfone-by-drfone-virtual-android/"><u>How to Use Life360 on Windows PC For Honor X7b? | Dr.fone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-verizon-apple-iphone-6s-by-drfone-ios/"><u>In 2024, How to Unlock Verizon Apple iPhone 6s</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/transforming-igtv-with-multi-language-captioning/"><u>Transforming IGTV with Multi-Language Captioning</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-elevate-your-content-seo-mastery-starts-here/"><u>[Updated] In 2024, Elevate Your Content SEO Mastery Starts Here</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/1-unrestricted-access-viewing-the-world-cup-on-your-apple-device-without-downloading/"><u>1. Unrestricted Access: Viewing the World Cup on Your Apple Device Without Downloading</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-implementing-luts-in-photoshop-cs6cc-an-in-depth-analysis/"><u>2024 Approved Implementing LUTs in Photoshop CS6/CC An In-Depth Analysis</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/8-best-apps-for-screen-mirroring-samsung-galaxy-m34-pc-drfone-by-drfone-android/"><u>8 Best Apps for Screen Mirroring Samsung Galaxy M34 PC | Dr.fone</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/5yuv55s744gu576o44gx44gv44ks5byv44gn5ye644gz77yb55s76loq5by35yyw44ki44ox44oq44oz44k544oi44k744os44kv44k344on44oz44go5l244ge5pa5/"><u>動画の美しさを引き出す！画質強化アプリベストセレクションと使い方</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/alternate-methods-to-convert-dvd-files-on-handbrake-a-comprehensive-walkthrough/"><u>Alternate Methods to Convert DVD Files on Handbrake: A Comprehensive Walkthrough</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/best-and-most-successful-oscar-winning-movies-ever-ranked/"><u>Best and Most Successful Oscar-Winning Movies Ever Ranked</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/effortless-macx-pro-a-leading-choice-for-free-dvd-to-high-quality-avi-conversion-on-apple-devices/"><u>Effortless MacX Pro: A Leading Choice for Free DVD to High-Quality AVI Conversion on Apple Devices</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/exploring-the-new-look-and-improved-functions-of-amazons-gen-4-echo-dot/"><u>Exploring the New Look and Improved Functions of Amazon's Gen 4 Echo Dot</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-create-stunning-animations-on-the-go-top-free-3d-apps-for-mobile-for-2024/"><u>New Create Stunning Animations On-the-Go Top Free 3D Apps for Mobile for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/optimieren-sie-geschwindigkeit-bei-macbook-proair-simpel-und-ohne-ausgaben/"><u>Optimieren Sie Geschwindigkeit Bei MacBook Pro/Air - Simpel Und Ohne Ausgaben!</u></a></li>
+<li><a href="https://windows11.techidaily.com/reducing-clutter-in-windows-11s-selection-options/"><u>Reducing Clutter in Windows 11'S Selection Options</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/resolving-issues-with-4k-ultra-hd-video-playback-a-comprehensive-guide/"><u>Resolving Issues with 4K Ultra HD Video Playback: A Comprehensive Guide</u></a></li>
+<li><a href="https://driver-error.techidaily.com/resolving-issues-with-restored-defaults-on-your-amd-radeons-gpu-software/"><u>Resolving Issues with Restored Defaults on Your AMD Radeon's GPU Software</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/your-top-tools-for-facebook-video-retrieval-revealed-for-2024/"><u>Your Top Tools for Facebook Video Retrieval Revealed for 2024</u></a></li>
 </ul></div>
 

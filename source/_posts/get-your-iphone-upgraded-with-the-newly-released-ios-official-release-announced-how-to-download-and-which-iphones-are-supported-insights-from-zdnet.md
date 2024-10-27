@@ -1,7 +1,7 @@
 ---
 title: "Get Your iPhone Upgraded with the Newly-Released IOS # Official Release Announced: How to Download and Which iPhones Are Supported | Insights From ZDNET"
-date: 2024-10-17T21:26:58.741Z
-updated: 2024-10-22T00:46:09.242Z
+date: 2024-10-20T17:47:54.163Z
+updated: 2024-10-27T19:02:23.110Z
 tags:
   - apple
 categories:
@@ -40,6 +40,13 @@ Apple's entry-level iPhone models received new upgrades like a Dynamic Island di
 
 [PREORDER NOW Apple Store The iPhone 15 and iPhone 15 Plus are available for preorder now, starting at $799 and $899, respectively. On the Apple Store, you can also get up to $800 off on a new iPhone 15 or iPhone 15 Plus when you trade in an iPhone 11 or newer model. View at Apple](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-iphone%2Fiphone-15&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)[PREORDER NOW Best Buy Preorder for the iPhone 15 and iPhone 15 Plus starts Friday, September 15, at Best Buy. View at Best Buy](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fapple-iphone-15-128gb-blue-verizon%2F6418073.p%3FskuId%3D6418073&publisher_slug=itechdaily19598&exclusive=1)[PREORDER NOW Verizon New or existing Verizon customers adding a new line on the Unlimited Ultimate plan can get up to $1,000 off the new iPhone 15 line-up when you trade in any old iPhone in any condition. If you are already a Verizon customer and are looking to upgrade, you can get up to $830 off the iPhone 15 line-up with select trade-in and select Unlimited plans. View at Verizon](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://www.verizon.com/wireless-devices/smartphones/apple-iphone-15-announcement)[PREORDER NOW AT&T At AT&T, both new and existing customers can get the new iPhone 15 through the carrier, as long as they have an eligible trade-in. View at AT&T](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://www.att.com/buy/phones/browse/apple/)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528700/16446" target="_top" id="1528700">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528700" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528700/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## iPhone 15 Pro and iPhone 15 Pro Max
 
 June Wan/ZDNET
@@ -51,10 +58,10 @@ Meanwhile, Apple's more premium iPhone models have a new Titanium design that's 
 [PREORDER NOW Apple Store The iPhone 15 Pro and iPhone 15 Pro Max are available to preorder on Friday, September 15, starting at $999 and $1,199, respectively. On the Apple Store, you can also get up to $1,000 off on a new iPhone 15 Pro or iPhone 15 Pro Max when you trade in an iPhone 11 or newer model. View at Apple](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-iphone%2Fiphone-15-pro&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)[PREORDER NOW Best Buy Preorder for the iPhone 15 Pro and iPhone 15 Pro Max starts Friday, September 15, at Best Buy. View at Best Buy](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fapple-iphone-15-pro-max-256gb-black-titanium-at-t%2F6525421.p%3FskuId%3D6525421&publisher_slug=itechdaily19598&exclusive=1)[PREORDER NOW Verizon New or existing Verizon customers adding a new line on the Unlimited Ultimate plan can get up to $1,000 off the new iPhone 15 line-up when you trade in any old iPhone in any condition. If you are already a Verizon customer and are looking to upgrade, you can get up to $830 off the iPhone 15 line-up with select trade-in and select Unlimited plans. View at Verizon](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://www.verizon.com/wireless-devices/smartphones/apple-iphone-15-announcement)[PREORDER NOW T-Mobile New and existing T-Mobile customers can get the iPhone 15 Pro for free (via 24 monthly bill credits when you trade in an eligible device on a Go5G Plus or Go5G Next plan). View at T-mobile](https://tmobile.prf.hn/click/camref:1100l3XZFI/pubref:zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/destination:https%3A%2F%2Ft-mobile.com)[PREORDER NOW AT&T New and existing customers at AT&T can get the iPhone 15 Pro for $1,000 off when they bring in an eligible trade-in. View at AT&T](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://www.att.com/buy/phones/browse/apple/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144277/7443" target="_top" id="2144277">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144277" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1972679/19272" target="_top" id="1972679">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972679" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144277/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972679/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Apple Watch Series 9
@@ -68,10 +75,10 @@ The new [Apple Watch Series 9](https://www.zdnet.com/article/apple-watch-series-
 [PREORDER NOW Apple Store The Apple Watch Series 9 is available to preorder now and will be available officially on Friday, September 22\. Pricing starts at $399. View at Apple](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-watch%2Fapple-watch&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)[PREORDER NOW Best Buy Preorder for the Apple Watch Series 9 starts Friday, September 15, at Best Buy. View at Best Buy](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fapple-watch-series9-gps-45mm-pink-aluminum-case-with-light-pink-sport-band-s-m-pink%2F6340289.p%3FskuId%3D6340289&publisher_slug=itechdaily19598&exclusive=1)[PREORDER NOW Verizon At Verizon, you can get the new Apple Watch Series 9 for less than $6 a month when you purchase select iPhones (with qualified watch trade-in). View at Verizon](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://www.verizon.com/wireless-devices/smart-watches/apple-watch-series-9-announcement/)[PREORDER NOW AT&T AT&T is offering a sort of "Buy one, get one free" deal for all Apple Watches. When you buy an Apple Watch Series 9, you can get the second one for $300 off. View at AT&T](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://www.att.com/buy/wearables/browse/apple/)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130531/26400" target="_top" id="2130531">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130531" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135364/19272" target="_top" id="2135364">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135364" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130531/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135364/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Apple Watch Ultra 2
@@ -84,20 +91,13 @@ Apple announced the [Apple Watch Ultra](https://www.zdnet.com/article/apple-watc
 
 [PREORDER NOW Apple Store The Apple Watch Ultra 2 is available to preorder now, and will be officially available on Friday, September 22\. It starts at $799. View at Apple](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-watch%2Fapple-watch-ultra&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)[PREORDER NOW Best Buy Preorder for the Apple Watch Ultra 2 starts Friday, September 15, at Best Buy. View at Best Buy](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fapple-watch-ultra-2-gps-cellular-49mm-titanium-case-with-orange-beige-trail-loop-m-l-titanium%2F6560077.p%3FskuId%3D6560077&publisher_slug=itechdaily19598&exclusive=1)[PREORDER NOW Verizon At Verizon, you can get the new Apple Watch Ultra 2 for $14 a month when you purchase select iPhones (with qualified watch trade-in). View at Verizon](https://www.tkqlhce.com/click-9041660-15498661-1682437093000?sid=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972670/19272" target="_top" id="1972670">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972670" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972670/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### PREORDER NOW
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948937/19272" target="_top" id="1948937">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948937" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136619/26400" target="_top" id="2136619">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136619" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948937/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136619/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## AT&T
@@ -146,20 +146,24 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-unveiling-the-illusion-how-genuine-growth-is-stifled-by-shams/"><u>[New] 2024 Approved Unveiling the Illusion How Genuine Growth Is Stifled by Shams</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-flipping-frames-innovative-techniques-for-backward-viewing-on-yt-for-2024/"><u>[New] Flipping Frames Innovative Techniques for Backward Viewing on YT for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-free-cash-flow-estimator-apps-for-2024/"><u>[New] Free Cash Flow Estimator Apps for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-from-novice-to-vlogger-the-top-10-editing-techniques-for-2024/"><u>[New] From Novice to Vlogger The Top 10 Editing Techniques for 2024</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-2023-how-to-find-videos-on-facebook/"><u>[Updated] 2024 Approved 2023 | How to Find Videos on Facebook?</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-flv-file-symphony-creating-a-single-youtube-playlist/"><u>[Updated] 2024 Approved FLV File Symphony Creating a Single YouTube Playlist</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-flv-to-youtube-unveiling-the-top-10-tools-for-video-conversion/"><u>[Updated] 2024 Approved FLV to YouTube Unveiling the Top 10 Tools for Video Conversion</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-harness-your-view-count-cross-platform-studio-methods/"><u>[Updated] 2024 Approved Harness Your View Count Cross-Platform Studio Methods</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-make-your-videos-a-youtube-hit-top-tips-and-strategies-for-2024/"><u>[Updated] How To Make Your Videos a YouTube Hit Top Tips and Strategies for 2024</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-transforming-igtv-with-multi-language-captioning/"><u>[Updated] In 2024, Transforming IGTV with Multi-Language Captioning</u></a></li>
-<li><a href="https://techidaily.com/elevate-user-experience-with-cookiebot-technology-integration/"><u>Elevate User Experience with Cookiebot Technology Integration</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-lava-yuva-2-pro-drfone-by-drfone-virtual-android/"><u>How PGSharp Save You from Ban While Spoofing Pokemon Go On Lava Yuva 2 Pro? | Dr.fone</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-melding-images-and-songs-into-screens/"><u>In 2024, Melding Images and Songs Into Screens</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-preparation-to-beat-giovani-in-pokemon-go-for-vivo-y36i-drfone-by-drfone-virtual-android/"><u>In 2024, Preparation to Beat Giovani in Pokemon Go For Vivo Y36i | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1726027860310-vimeo/"><u>Vimeoビデオのチャンブラダウンロードテクニック：手っ取り早いフリーガイド</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-captivating-captions-writing-copy-that-drives-engagement-and-views/"><u>[New] 2024 Approved Captivating Captions Writing Copy That Drives Engagement and Views</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-winter-wonderland-in-beijing-olympic-year-2022/"><u>[Updated] 2024 Approved Winter Wonderland in Beijing, Olympic Year 2022</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-essential-skills-for-high-quality-screen-recordings-using-nvidia/"><u>[Updated] In 2024, Essential Skills for High-Quality Screen Recordings Using NVIDIA</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-efficient-file-transformation-in-vlc-from-mp4-to-various-formats/"><u>2024 Approved Efficient File Transformation in VLC From MP4 to Various Formats</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/7-questions-and-requests-chatgpt-cannot-answer-or-process/"><u>7 Questions and Requests ChatGPT Cannot Answer or Process</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/bestellung-des-winx-hauspakets-im-internet-schnelles-handeln/"><u>Bestellung Des WinX Hauspakets Im Internet - Schnelles Handeln!</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/convert-your-avi-files-to-mp3-at-no-cost-a-step-by-step-guide-to-improve-audio-quality/"><u>Convert Your AVI Files to MP3 at No Cost – A Step-by-Step Guide to Improve Audio Quality</u></a></li>
+<li><a href="https://blog-min.techidaily.com/effortless-photo-slideshows-exclusive-mac-app-downloaded-in-seconds/"><u>Effortless Photo Slideshows: Exclusive Mac App Downloaded in SECONDS!</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/expert-strategies-mastering-video-playback-in-minutes/"><u>Expert Strategies: Mastering Video Playback in Minutes</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/fast-guide-to-transforming-drm-itunes-movies-into-mp4-for-easy-playback-and-sharing/"><u>Fast Guide to Transforming DRM iTunes Movies Into MP4 for Easy Playback and Sharing</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/free-download-compatible-oculus-headset-drivers-for-windows-11-10-8-and-7/"><u>Free Download: Compatible Oculus Headset Drivers for Windows 11, 10, 8 & 7</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/guia-paso-a-paso-como-subir-tus-dvd-al-cielo-digital-con-google-drive-y-icloud/"><u>Guía Paso a Paso: Cómo Subir Tus DVD Al Cielo Digital Con Google Drive Y iCloud</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/in-2024-effortless-techniques-to-craft-professional-time-lapses-on-galaxy/"><u>In 2024, Effortless Techniques to Craft Professional Time-Lapses on Galaxy</u></a></li>
+<li><a href="https://extra-information.techidaily.com/journey-to-visual-vigor-a-beginners-guidebook/"><u>Journey to Visual Vigor A Beginner's Guidebook</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/maitrisez-votre-recepitule-video-avec-handbrake-guide-etape-par-etape-pour-desactiver-lautoresizing-et-recadrer-en-mode-manuel/"><u>Maîtrisez Votre Récépitulé Vidéo Avec HandBrake : Guide Étape Par Étape Pour Désactiver L'autoresizing Et Recadrer en Mode Manuel</u></a></li>
+<li><a href="https://win-hot.techidaily.com/the-ultimate-walkthrough-getting-rid-of-slimcleaner-plus-using-malwarefox-tool/"><u>The Ultimate Walkthrough: Getting Rid of SlimCleaner Plus Using MalwareFox Tool</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/top-6-grands-outils-damelioration-de-la-qualite-video-avec-ia/"><u>Top 6 Grands Outils D'Amélioration De La Qualité Vidéo Avec IA</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/topas-tacticas-para-optimizar-embalaje-de-contenido-visual-en-correo-electronico/"><u>Topas Tácticas Para Optimizar Embalaje De Contenido Visual en Correo Electrónico</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/winx-mediatrans-the-premier-photo-and-video-transfer-tool-for-iphone-and-ipad-to-pc/"><u>WinX MediaTrans™: The Premier Photo & Video Transfer Tool for iPhone and iPad to PC</u></a></li>
 </ul></div>
 

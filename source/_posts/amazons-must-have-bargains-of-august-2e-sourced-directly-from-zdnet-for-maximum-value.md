@@ -1,7 +1,7 @@
 ---
 title: Amazon's Must-Have Bargains of August 2E, Sourced Directly From ZDNet for Maximum Value!
-date: 2024-10-20T00:09:48.852Z
-updated: 2024-10-21T19:28:45.507Z
+date: 2024-10-25T17:55:41.819Z
+updated: 2024-10-27T18:53:34.469Z
 tags:
   - apple
 categories:
@@ -51,16 +51,10 @@ Jason Hiner/ZDNET
 * [JBL Tune Flex Earbuds](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FJBL-Tune-Flex-Wireless-Cancelling%2Fdp%2FB0C1QNRGHC%3Fref%3Ddlx%5Fdeals%5Fdg%5Fdcl%5FB0C1QNRGHC%5Fdt%5Fsl14%5Fd5%26th%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C80da82b6-8768-4099-8fa7-3331c5c11350%7Cdtp&dtb=1) for $50 (save $50)
 
 <!-- affiliate ads begin -->
-<span id="1328683">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1328683.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1328683">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328683.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328683%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328683/15852" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2036501/19272" target="_top" id="2036501">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036501" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036501/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## The best Amazon TV deals
@@ -73,6 +67,13 @@ Jason Hiner/ZDNET
 * [Samsung 55-inch QLED 4K The Terrace TV](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FSAMSUNG-55-inch-Terrace-Outdoor-Built%2Fdp%2FB089B5X28G%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C80da82b6-8768-4099-8fa7-3331c5c11350%7Cdtp&dtb=1) for $2,498 (save $1,002)
 * [Sony 65-inch OLED 4K Ultra Bravia 8 TV](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FSony-Exclusive-Features-PlayStation-K-65XR80%2Fdp%2FB0CVQ6YLH7%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C80da82b6-8768-4099-8fa7-3331c5c11350%7Cdtp&dtb=1) for $1,1998 (save $502)
 * [LG 75-inch QNED80T LED Smart TV](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FLG-75-Inch-Processor-AI-Powered-75QNED80TUC%2Fdp%2FB0CVSK2F85%3Fref%3Ddlx%5Fdeals%5Fdg%5Fdcl%5FB0CVSK2F85%5Fdt%5Fsl14%5Fd5%26th%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C80da82b6-8768-4099-8fa7-3331c5c11350%7Cdtp&dtb=1) for $1,197 (save $203)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135395/19272" target="_top" id="2135395">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135395" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135395/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## The best Amazon robot vacuum deals
 
@@ -87,10 +88,16 @@ Maria Diaz/ZDNET
 * [Roborock Q8 Max Robot Vacuum and Mop](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Froborock-Q8-Max-Navigation-Multi-Level%2Fdp%2FB0C7VFD9Q4%2Fref%3Dsxin%5F15%5Fpa%5Fsp%5Fsearch%5Fthematic%5Fsspa%3Fcontent-id%3Damzn1.sym.60b0c4ef-0fd2-46d0-8724-84b6f746d062%3Aamzn1.sym.60b0c4ef-0fd2-46d0-8724-84b6f746d062%26crid%3D37DMVM6CIU4Y0%26cv%5Fct%5Fcx%3Drobot%2Bvacuum%26dib%3DeyJ2IjoiMSJ9.A4bejnO1HqJM%5FozbrGpsoYI205q99h9DoNEZVmg9dNI-ILQl1J-mSnznl4IKQtzDgOTGYo%5Fa7rpT3PH-A2Mpiw.a4a0hgwCDw4CmRSsqS2wHRhfJu%5FuKKwf5z-r8S-VJok%26dib%5Ftag%3Dse%26keywords%3Drobot%2Bvacuum%26pd%5Frd%5Fi%3DB0C7VFD9Q4%26pd%5Frd%5Fr%3Dc5436de8-abf5-4537-95f0-9cc48163f596%26pd%5Frd%5Fw%3DOlqAp%26pd%5Frd%5Fwg%3DQ2Iuk%26pf%5Frd%5Fp%3D60b0c4ef-0fd2-46d0-8724-84b6f746d062%26pf%5Frd%5Fr%3DAKHVV8K35XC7VV3MS5S3%26qid%3D1723557736%26sbo%3DRZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D%26sprefix%3Drobot%2Bvacuum%2B%2Caps%2C104%26sr%3D1-20-f853d353-bf33-45e7-b5c2-2cb2b31abc9b-spons%26sp%5Fcsd%3Dd2lkZ2V0TmFtZT1zcF9zZWFyY2hfdGhlbWF0aWM%26th%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C80da82b6-8768-4099-8fa7-3331c5c11350%7Cdtp&dtb=1) for $320 (save $280)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2002019/7443" target="_top" id="2002019">
-  <img src="//a.impactradius-go.com/display-ad/7443-2002019" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002019/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983553">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983553.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983553">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983553.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983553%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983553/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## The best Amazon home deals
@@ -106,13 +113,6 @@ Maria Diaz/ZDNET
 * [Jackery Explorer 240 v2 Portable Power Station](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FJackery-v2-Versatile-Scenarios-Outdoor-Emergency%2Fdp%2FB0D2L1B7PK%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C80da82b6-8768-4099-8fa7-3331c5c11350%7Cdtp&dtb=1) for $189 (save $60)
 * [Bluetti EB3A Portable Power Station](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FBLUETTI-Portable-EB3A-Recharge-Generator%2Fdp%2FB09WW3CTF4%3Fref%3Ddlx%5Fdeals%5Fdg%5Fdcl%5FB09WW3CTF4%5Fdt%5Fsl14%5Fd5%26th%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C80da82b6-8768-4099-8fa7-3331c5c11350%7Cdtp&dtb=1) for $198 (save $102)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938750/19272" target="_top" id="1938750">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938750" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938750/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##   
 
 ## How did we choose these Amazon deals?
@@ -126,10 +126,10 @@ We also looked over customer reviews to find out what matters to real people who
 Deals are subject to sell out or expire at any time, though ZDNET remains committed to finding, sharing, and updating the best product deals for you to score the best savings. Our team of experts regularly checks in on the deals we share to ensure they are still live and obtainable. We're sorry if you've missed out on a deal, but don't fret -- we're constantly finding new chances to save and sharing them with you at [ZDNET.com](https://www.zdnet.com/). 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123509/26400" target="_top" id="2123509">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123509" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1484909/16446" target="_top" id="1484909">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484909" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123509/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484909/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How much is an Amazon Prime membership?
@@ -180,21 +180,16 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-elite-stealth-vids-downloader-guide-1-to-8/"><u>[New] 2024 Approved Elite Stealth Vids Downloader Guide - #1 to #8</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-create-an-awesome-valorant-thumbnail-for-youtube-videos/"><u>[New] 2024 Approved How To Create an Awesome Valorant Thumbnail for YouTube Videos</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-make-your-videos-a-youtube-hit-top-tips-and-strategies/"><u>[New] 2024 Approved How To Make Your Videos a YouTube Hit Top Tips and Strategies</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-guides-on-creating-cost-free-youtube-beginnings-and-conclusions-for-2024/"><u>[New] Guides on Creating Cost-Free YouTube Beginnings & Conclusions for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-youtube-to-avi-perfect-conversion-tools-revealed/"><u>[New] In 2024, From YouTube to AVI Perfect Conversion Tools Revealed</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/aximize-youtube-traffic-top-viewing-times/"><u>[New] Maximize YouTube Traffic Top Viewing Times</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-establish-lasting-content-partnerships-with-youtubers/"><u>[Updated] 2024 Approved How to Establish Lasting Content Partnerships with YouTubers</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-make-your-shorts-image-visible-again-for-2024/"><u>[Updated] How to Make Your Shorts' Image Visible Again for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-safely-capture-your-favorite-youtube-audio-for-free-for-2024/"><u>[Updated] How to Safely Capture Your Favorite YouTube Audio for Free for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/2024-approved-streamline-your-virtual-sessions-with-these-top-10-tools/"><u>2024 Approved Streamline Your Virtual Sessions with These Top 10 Tools</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-unveiling-prospects-and-limitations-within-samsungs-2023-image-editor/"><u>2024 Approved Unveiling Prospects and Limitations Within Samsung's 2023 Image Editor</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/light-choosing-ultimate-event-videos-for-2024/"><u>DJ Delight Choosing Ultimate Event Videos for 2024</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-send-and-fake-live-location-on-facebook-messenger-of-your-honor-v-purse-drfone-by-drfone-virtual-android/"><u>In 2024, How to Send and Fake Live Location on Facebook Messenger Of your Honor V Purse | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-why-is-ipogo-not-working-on-asus-rog-phone-7-ultimate-fixed-drfone-by-drfone-virtual-android/"><u>In 2024, Why is iPogo not working On Asus ROG Phone 7 Ultimate? Fixed | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/possible-ways-to-recover-deleted-files-from-zte-axon-40-lite-by-fonelab-android-recover-data/"><u>Possible ways to recover deleted files from ZTE Axon 40 Lite</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-slow-down-and-freeze-advanced-fcpx-editing-techniques/"><u>Updated 2024 Approved Slow Down and Freeze Advanced FCPX Editing Techniques</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-unleash-the-full-potential-of-your-android-device-with-obs-studio/"><u>[New] In 2024, Unleash the Full Potential of Your Android Device with OBS Studio</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-captivate-audiences-gain-views-boosting-engagement-in-tiktok-unboxing-videos-for-2024/"><u>[Updated] Captivate Audiences, Gain Views Boosting Engagement in TikTok Unboxing Videos for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-revamping-reality-the-premier-11-instagram-edits/"><u>[Updated] In 2024, Revamping Reality The Premier 11 Instagram Edits</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/3-ways-to-track-asus-rog-phone-8-pro-without-them-knowing-drfone-by-drfone-virtual-android/"><u>3 Ways to Track Asus ROG Phone 8 Pro without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-unlocking-apple-iphone-x-passcode-without-a-computer-by-drfone-ios/"><u>In 2024, Unlocking Apple iPhone X Passcode without a Computer</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/in-depth-review-of-the-high-speed-netgear-orbi-ac7180-wifi-6e-mesh-network-delivering-true-wireless-gbps-speeds/"><u>In-Depth Review of the High-Speed Netgear Orbi AC7180 WiFi 6E Mesh Network - Delivering True Wireless Gbps Speeds</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/incredible-tiny-intelligent-voice-assistant-earpiece-unveiled-in-plaud-note-analysis/"><u>Incredible Tiny Intelligent Voice Assistant Earpiece Unveiled in Plaud Note Analysis</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/innovative-nanoleaf-umbra-cono-analysis-ideal-intelligent-lighting-design-for-childrens-spaces/"><u>Innovative Nanoleaf Umbra Cono Analysis: Ideal Intelligent Lighting Design for Children’s Spaces</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/inside-the-advanced-dual-zone-technology-of-ankers-everfrost-powered-cooler-a-comprehensive-50-unit-analysis/"><u>Inside the Advanced Dual-Zone Technology of Anker's EverFrost Powered Cooler: A Comprehensive 50 Unit Analysis</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/reviving-your-home-theater-experience-a-complete-guide-to-resetting-samsung-soundbars/"><u>Reviving Your Home Theater Experience: A Complete Guide to Resetting Samsung Soundbars</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/unlocking-the-power-of-music-in-engaging-video-content-for-2024/"><u>Unlocking the Power of Music in Engaging Video Content for 2024</u></a></li>
 </ul></div>
 

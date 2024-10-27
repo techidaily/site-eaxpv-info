@@ -1,7 +1,7 @@
 ---
 title: Explore Apple's Innovation Showcase with Enhanced Pencil and Next-Gen Tablets at the 'Let Loose' Release
-date: 2024-10-18T17:40:56.749Z
-updated: 2024-10-21T17:40:11.931Z
+date: 2024-10-21T18:25:12.082Z
+updated: 2024-10-27T19:49:54.723Z
 tags:
   - apple
 categories:
@@ -31,13 +31,6 @@ Tim Cook kicked off the event by speaking about how the Apple Vision Pro has bee
 Apple's "Let Loose" was a virtual product launch event that took place on May 7, at 7 am PT/10 am ET. It lasted about 35 minutes and was live-streamed on [Apple.com](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2F&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp), [YouTube](https://www.youtube.com/watch?v=f1J38FlDKxo), and via the Apple TV app. 
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137216/26400" target="_top" id="2137216">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137216" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137216/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 1\. iPad Pro, now with OLED displays and M4
 
@@ -76,10 +69,10 @@ Unlike the M4-equipped iPad Pro, the iPad Air comes with an M2 chip, making it a
 The new iPad Air is available in Blue, Purple, Starlight, and Space Gray, with [prices starting at $599](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-ipad%2Fipad-air&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) for the 11-inch iPad Air, and $799 for the 13-inch model.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082520/7443" target="_top" id="2082520">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082520" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902294/19272" target="_top" id="1902294">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902294" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082520/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902294/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Apple Pencil Pro
@@ -98,28 +91,28 @@ Apple
 
 The Apple Pencil Pro costs $129 and supports Apple's Find My service, letting you track the location of the accessory should you drop or misplace it. You can purchase the [Apple Pencil Pro](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fproduct%2FMX2D3AM%2FA%2Fapple-pencil-pro&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) today, and it will start shipping next week.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123727/7443" target="_top" id="2123727">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123727" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123727/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 4\. Magic Keyboard
 
 Apple
 
 The iPad event also included a new, more durable Magic Keyboard, featuring a larger trackpad and a function row along the top. The Magic Keyboard's new look and upgraded aluminum construction is meant to make the iPad Pro look and feel more like a laptop, rather than a tablet with an optional keyboard case.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137213/26400" target="_top" id="2137213">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137213" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137213/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Why would Apple host an event before WWDC?
 
 Although Apple is hosting its [Worldwide Developers Conference (WWDC)](https://www.zdnet.com/article/apple-confirms-wwdc-2024-for-june-10-will-ai-steal-the-show/) on June 10, that event is reserved for new iOS, iPadOS, visionOS, and macOS announcements, plus Apple's new AI strategy. The Let Loose event was focused on the latest hardware offerings, with the [OLED iPad Pro](https://www.zdnet.com/article/7-ipad-pro-features-that-would-make-me-instantly-upgrade-to-apples-next-model/) being the main star.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139111/17108" target="_top" id="2139111">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139111" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136615/26400" target="_top" id="2136615">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136615" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139111/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136615/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Did the Let Loose event cover iPadOS 17.5 or iPadOS 18?
@@ -133,6 +126,13 @@ Apple unveiled new versions of Final Cut Pro 2 and Logic Pro 2 for iPadOS. Apple
 Logic Pro 2 introduces Session Players, an AI-created Bass and Keyboard player available alongside the Drummer feature. The ChromaGlow feature adds sound effects to tracks. Logic Pro 2 also offers a Stem Splitter feature that can split recordings into voice, bass, drums, and other instruments.
 
 iOS 17.5 doesn't have many exciting new features outside of the European Union, where iPhone users can now [download apps directly from websites](https://www.zdnet.com/article/apple-to-let-eu-users-download-apps-from-the-web-with-ios-17-5-beta-2-how-it-works/). The new devices are expected to ship with iPadOS 17.5, but these features are available for iPadOS 17.4.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137378/7443" target="_top" id="2137378">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137378" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137378/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How do I watch Apple's Let Loose event?
 
@@ -168,24 +168,18 @@ The Apple Let Loose event was a pre-recorded video but is still available for st
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-free-youtube-endings-that-stand-out-ranked/"><u>[New] 2024 Approved Free YouTube Endings That Stand Out - Ranked</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-fresh-start-strategy-budget-channels-to-purchase/"><u>[New] 2024 Approved Fresh Start Strategy Budget Channels to Purchase</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-guffaw-generation-generating-7-hilarious-video-moments-online/"><u>[New] 2024 Approved Guffaw Generation Generating 7 Hilarious Video Moments Online</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-hot-yt-videos-best-music-dance-and-responses-23-for-2024/"><u>[New] Hot YT Videos Best Music Dance & Responses '23 for 2024</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-pro-level-5-digital-media-recorders-online/"><u>[New] Pro-Level 5 Digital Media Recorders Online</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-free-yourself-from-paywalls-with-these-subtitle-getters/"><u>[Updated] 2024 Approved Free Yourself From Paywalls with These Subtitle Getters</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-create-impactful-valorant-thumbnails-a-compreayers-guide/"><u>[Updated] 2024 Approved How to Create Impactful Valorant Thumbnails A Compreayer's Guide</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-flawless-online-invitation-crafting-youtube-subscription-buttons-for-2024/"><u>[Updated] Flawless Online Invitation Crafting YouTube Subscription Buttons for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-how-does-a-vtubing-career-start-and-prospective-path-in-2024/"><u>[Updated] How Does a Vtubing Career Start & Prospective Path, In 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-make-a-great-educational-video-for-youtube-in-2024/"><u>[Updated] How to Make a Great Educational Video for YouTube, In 2024</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-vlc-mastery-essential-tips-and-secret-features/"><u>[Updated] In 2024, VLC Mastery Essential Tips and Secret Features</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-mastering-youtube-full-length-view-control/"><u>[Updated] Mastering YouTube Full-Length View Control</u></a></li>
-<li><a href="https://fox-info.techidaily.com/image-fusion-merging-photos-into-one-masterpiece-for-2024/"><u>Image Fusion Merging Photos Into One Masterpiece for 2024</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/in-2024-unleashing-content-extract-vimeo-videos-as-mp4/"><u>In 2024, Unleashing Content Extract Vimeo Videos as MP4</u></a></li>
-<li><a href="https://article-posts.techidaily.com/incremental-diminution-strategies-for-fl-studio-enthusiasts-for-2024/"><u>Incremental Diminution Strategies for FL Studio Enthusiasts for 2024</u></a></li>
-<li><a href="https://extra-information.techidaily.com/insight-into-excellence-a-detailed-guide-to-mastering-vivacut-editing/"><u>Insight Into Excellence A Detailed Guide to Mastering VivaCut Editing</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/must-see-tween-and-kid-friendly-films-streaming-now-on-amazon-prime-video/"><u>Must-See Tween and Kid-Friendly Films Streaming Now on Amazon Prime Video</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-5-car-locator-apps-for-samsung-galaxy-xcover-7-drfone-by-drfone-virtual-android/"><u>Top 5 Car Locator Apps for Samsung Galaxy XCover 7 | Dr.fone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-how-to-fix-non-functioning-microphone-on-the-turtle-beach-elite-atlas/"><u>Troubleshooting Guide: How to Fix Non-Functioning Microphone on the Turtle Beach Elite Atlas</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-everything-uncovered-about-the-world-of-yt-shorts-for-2024/"><u>[New] Everything Uncovered About the World of YT Shorts for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-how-to-create-impactful-valorant-thumbnails-a-compreayers-guide-for-2024/"><u>[New] How to Create Impactful Valorant Thumbnails A Compreayer's Guide for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-cash-creation-101-the-snapchat-edition/"><u>[New] In 2024, Cash Creation 101 The Snapchat Edition</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-unveiling-the-magic-behind-shooting-images-with-iphones-hdr/"><u>[New] Unveiling the Magic Behind Shooting Images with iPhone’s HDR</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-elevate-your-edits-a-selection-of-top-9-free-software-choices/"><u>[Updated] 2024 Approved Elevate Your Edits A Selection of Top 9 Free Software Choices</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-the-best-laptops-for-video-editing-you-should-know/"><u>[Updated] 2024 Approved The Best Laptops For Video Editing You Should Know</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-produce-high-impact-low-cost-youtube-ads/"><u>[Updated] How to Produce High-Impact, Low-Cost YouTube Ads?</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/game-on-with-lenovo-ideapad-gaming-chromebook-decoding-the-impact-of-hardware-on-enhanced-cloud-gaming-experience-a-comprehensive-zdnet-review/"><u>Game On with Lenovo IdeaPad Gaming Chromebook: Decoding the Impact of Hardware on Enhanced Cloud Gaming Experience - A Comprehensive ZDNet Review</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-get-the-apple-id-verification-code-from-iphone-13-in-the-best-ways-by-drfone-ios/"><u>How To Get the Apple ID Verification Code From iPhone 13 in the Best Ways</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-initial-steps-to-master-the-art-of-pixel-mapping/"><u>In 2024, Initial Steps to Master the Art of Pixel Mapping</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-2024-approved-seamless-repeats-10-best-free-online-video-looping-solutions/"><u>New 2024 Approved Seamless Repeats 10 Best Free Online Video Looping Solutions</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/premium-gadgets-to-save-livestreamed-vids-on-youtube-for-2024/"><u>Premium Gadgets to Save Livestreamed Vids on YouTube for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/solving-the-pacific-drive-freezing-issue-on-your-windows-computer/"><u>Solving the Pacific Drive Freezing Issue on Your Windows Computer</u></a></li>
 </ul></div>
 
