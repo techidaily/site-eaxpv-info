@@ -1,7 +1,7 @@
 ---
 title: Enhance Productivity by Setting Up Custom Alerts on Your Mac - A Guide for macOS Monterey Users | ZDNET
-date: 2024-10-20T18:00:26.056Z
-updated: 2024-10-27T16:13:29.017Z
+date: 2024-10-30T00:28:43.179Z
+updated: 2024-11-02T02:30:24.438Z
 tags:
   - apple
 categories:
@@ -33,16 +33,10 @@ So, how do you create this custom Flow? Let me show you. All you'll need to make
 Click on the Apple menu in the top left corner of your desktop. From the resulting pop-up menu, click System Preferences.
 
 <!-- affiliate ads begin -->
-<span id="1834903">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136617/26400" target="_top" id="2136617">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136617" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136617/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 2\. Access Notifications & Focus
@@ -54,10 +48,10 @@ In the System Preferences window (**Figure 1**), click Notifications & Focus.
 Image: Jack Wallen
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657395/16446" target="_top" id="1657395">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657395" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1925549/19272" target="_top" id="1925549">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925549" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657395/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925549/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 3\. Open the Focus tab
@@ -69,10 +63,10 @@ Once Notifications & Focus is opened, click the Focus tab (**Figure 2**).
 Image: Jack Wallen
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997643/19272" target="_top" id="1997643">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997643" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123727/7443" target="_top" id="2123727">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123727" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997643/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123727/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 4\. Create the new Focus
@@ -91,6 +85,13 @@ Image: Jack Wallen
 
 After naming and selecting a color/icon, click Add to save the new Focus.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043855/7443" target="_top" id="2043855">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043855" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043855/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 5\. Allowing specific notifications
 
 The next thing to do is to specific contacts or apps that will be allowed when this Focus is enabled. To do that, click + under Allowed Notifications From (**Figure 5**).
@@ -104,13 +105,6 @@ From the pop-up list, select the contact(s) you want to be allowed to interrupt 
 **Figure 6:** Adding contacts to a Focus in macOS Monterey.
 
 Image: Jack Wallen
-
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/2106658/12108" target="_top" id="2106658">
-  <img src="//a.impactradius-go.com/display-ad/12108-2106658" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106658/12108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 6\. Set the Focus to be enabled
 
@@ -154,22 +148,17 @@ Use this new Focus feature wisely, and it will help you be more productive while
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-cultivating-confidence-for-captivating-your-youtube-audience/"><u>[New] 2024 Approved Cultivating Confidence for Captivating Your YouTube Audience</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-explore-8plus-places-for-gratis-hdr-environments-and-clips/"><u>[New] 2024 Approved Explore 8+ Places for Gratis HDR Environments & Clips</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-blitzing-sharing-easy-youtube-playlist-methods-for-2024/"><u>[New] Blitzing Sharing Easy YouTube Playlist Methods for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-novice-to-vlogger-professional-video-making-on-mobile-devices/"><u>[New] In 2024, From Novice to Vlogger Professional Video Making on Mobile Devices</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-rich-resource-repository-prime-sites-for-free-high-quality-vector-art/"><u>[New] Rich Resource Repository Prime Sites for Free High-Quality Vector Art</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-practical-ways-keeping-a-record-of-google-voice-interactions/"><u>[Updated] 2024 Approved Practical Ways Keeping a Record of Google Voice Interactions</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-navigate-through-green-screen-muddle-on-mac-for-smooth-youtubing/"><u>[Updated] In 2024, Navigate Through Green Screen Muddle on Mac for Smooth YouTubing</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-masterpiece-maker-top-free-editors-for-android-devices/"><u>[Updated] Masterpiece Maker Top Free Editors for Android Devices</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-polishing-your-youtube-projects-the-premiere-pro-way/"><u>[Updated] Polishing Your YouTube Projects The Premiere Pro Way</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/browse-bargains-without-spending-a-penny-on-oodles-classified-listings/"><u>Browse Bargains Without Spending a Penny on Oodle's Classified Listings</u></a></li>
-<li><a href="https://article-posts.techidaily.com/chuckle-chest-premium-selection-of-gratuitous-gags/"><u>Chuckle Chest Premium Selection of Gratuitous Gags</u></a></li>
-<li><a href="https://some-tips.techidaily.com/enhanced-with-advanced-web-tracking-technology-experience-seamless-user-targeting/"><u>Enhanced with Advanced Web Tracking Technology: Experience Seamless User Targeting</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-bypassing-google-account-with-vnrom-bypass-for-realme-c53-by-drfone-android/"><u>In 2024, Bypassing Google Account With vnROM Bypass For Realme C53</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-change-honor-magic-vs-2-lock-screen-password-by-drfone-android/"><u>In 2024, How To Change Honor Magic Vs 2 Lock Screen Password?</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-change-realme-11-proplus-lock-screen-password-by-drfone-android/"><u>In 2024, How To Change Realme 11 Pro+ Lock Screen Password?</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/reach-new-heights-in-youtube-seo-top-tips-and-tricks-for-2024/"><u>Reach New Heights in YouTube SEO Top Tips and Tricks for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/satirical-hits-the-funniest-song-rewrites-for-2024/"><u>Satirical Hits The Funniest Song Rewrites for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-add-timestamp-on-youtube-video-link-desktop-and-mobile/"><u>[New] 2024 Approved How to Add Timestamp on YouTube Video Link? [Desktop and Mobile]</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-guide-to-revamping-igtv-title-and-description-texts/"><u>[New] Guide to Revamping IGTV Title & Description Texts</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-immaculatepixels-prograde-background-elimination/"><u>[Updated] 2024 Approved ImmaculatePixels Prograde Background Elimination</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-football-inscriptions-premier-fifa-youtube-insights-for-2024/"><u>[Updated] Football Inscriptions Premier FIFA YouTube Insights for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-giggles-guidebook-planning-7-funny-video-frameworks-for-2024/"><u>[Updated] Giggles Guidebook Planning 7 Funny Video Frameworks for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-no-one-watching-to-huge-engagement-10-proven-ways-to-increase-video-popularity/"><u>[Updated] In 2024, From No One Watching to Huge Engagement 10 Proven Ways to Increase Video Popularity</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-storyboard-to-screenplay-a-youtube-video-writers-journey/"><u>[Updated] In 2024, From Storyboard to Screenplay A YouTube Video Writer's Journey</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-the-ultimate-ig-music-companion/"><u>[Updated] In 2024, The Ultimate IG Music Companion</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-the-rhythm-of-the-skies-bebop-parrot-revisited/"><u>[Updated] The Rhythm of the Skies Bebop Parrot Revisited</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-quickly-fix-bluetooth-not-working-on-realme-c67-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Quickly Fix Bluetooth Not Working on Realme C67 5G | Dr.fone</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/the-essential-guide-for-live-facebook-streams-pcmaclaptop/"><u>The Essential Guide for Live Facebook Streams (PC/Mac/Laptop)</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/top-4-ways-to-trace-apple-iphone-8-location-drfone-by-drfone-virtual-ios/"><u>Top 4 Ways to Trace Apple iPhone 8 Location | Dr.fone</u></a></li>
 </ul></div>
 

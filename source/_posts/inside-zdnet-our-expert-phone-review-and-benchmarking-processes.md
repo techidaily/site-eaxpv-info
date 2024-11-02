@@ -1,7 +1,7 @@
 ---
 title: "Inside ZDNet: Our Expert Phone Review and Benchmarking Processes"
-date: 2024-10-24T18:35:15.448Z
-updated: 2024-10-27T19:52:04.365Z
+date: 2024-10-31T15:23:18.997Z
+updated: 2024-11-02T12:54:47.146Z
 tags:
   - apple
 categories:
@@ -143,20 +143,19 @@ Cons
 * Not the most flexible camera system
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049370/7443" target="_top" id="2049370">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049370" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049370/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1936838">
+					<video width="374" height="48" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1936838.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18409-1936838">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1936838.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:234px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcoinrule.sjv.io%2Fc%2F5597632%2F1936838%2F18409'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1936838/18409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Apple iPhone SE (2022)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043617/7443" target="_top" id="2043617">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043617" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043617/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Best cheap iPhone
 
@@ -187,6 +186,13 @@ Cons
 * Doesn't have a telephoto lens
 * U.S. customers are locked to eSIM
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118320/7443" target="_top" id="2118320">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118320" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118320/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Apple iPhone 14
 
 ### Best old-generation iPhone
@@ -205,6 +211,13 @@ The iPhone 14's dual camera system at the rear has been carried over from the iP
 
 Show Expert Take Show less 
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134243/18498" target="_top" id="2134243">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134243" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134243/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## What is the best iPhone?
 
 After weighing out the specs and reviewer-tested experiences, the best iPhone is currently the iPhone 15 Pro Max. It's got a beautiful AMOLED display, a powerful (and future-proofed) chipset, and a reliable camera system that covers all the bases and angles. Naturally, the 15 Pro Max is also Apple's most expensive model, so if pricing is a concern, consider cheaper options like the standard 15 Pro and even older models. 
@@ -216,6 +229,13 @@ After weighing out the specs and reviewer-tested experiences, the best iPhone is
 | iPhone 14                  | $699           | 128GB            | 6.1 inches  | A15           | Two                    |
 | iPhone 13 Mini             | $480           | 128GB            | 5.4 inches  | A15           | Two                    |
 | iPhone SE (3rd Generation) | $429           | 64GB             | 4.7 inches  | A15           | One                    |
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151858/7443" target="_top" id="2151858">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151858" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151858/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Are iPhones the best smartphone?
 
@@ -252,10 +272,10 @@ ZDNET's mobile experts also liaise with industry colleagues and analysts who hav
 * **Price**: What you won't find on this list is a device that's not worth the money or is overcharging you for the hardware-software package you're getting.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111995/7443" target="_top" id="2111995">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111995" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997695/19272" target="_top" id="1997695">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997695" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111995/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997695/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How we test iPhones
@@ -273,13 +293,6 @@ For a more extensive breakdown, check out our comprehensive [phone testing metho
 
 ## iPhone FAQs
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975816/19272" target="_top" id="1975816">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975816" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975816/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### How do I take care of my new iPhone?
 
 There are several ways you can keep your iPhone clean and pristine. 
@@ -287,6 +300,13 @@ There are several ways you can keep your iPhone clean and pristine.
 1. One way is by equipping a protective case and/or screen protector. The [best iPhone cases](https://www.zdnet.com/article/best-iphone-15-case/) offer reliable drop and scratch protection, won't bulk up the phone, and may feature some extra utility like a kickstand or MagSafe ring. As for screen protectors, tempered glass options are your best bet to keep the display underneath free of scratches and cracks. They're relatively affordable, too, often coming in [multi-packs for less than $10](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FAilun-Protector-Installation-Friendly-Tempered%2Fdp%2FB0CCYN42DL%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ce0c68169-df33-40d5-915f-b661c0c19b3c%7Cdtp&dtb=1).
 2. Battery management is another key aspect of iPhone maintenance. To keep your device running for as long as possible, consider charging it between 20% to 80% battery. Overcharging the device would otherwise wear down the battery and reduce the health value (found in Settings). When your iPhone battery health is low (anything less than 75% typically is), it would be helpful to get it replaced at an Apple store or by an Apple-authorized technician.
 3. As stressful as it may be to clear up space to download that software update, you absolutely should. Besides fixing any bugs on your iPhone, software updates also bring with them security patches to reduce the chances of your phone getting hacked.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915805/19272" target="_top" id="1915805">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915805" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915805/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### When is iOS 18 coming, and will my iPhone support it?
 
@@ -297,6 +317,13 @@ Like iOS 17, iPhone models as old as the XR will be eligible to receive the [iOS
 ### What is the new iPhone?
 
 The latest iPhone is the [iPhone 16](https://www.zdnet.com/article/when-is-the-iphone-16-coming-out-what-to-know-and-where-to-preorder/), announced on Monday, September 9, during [Apple's "It's Glowtime" event](https://www.zdnet.com/article/everything-we-expect-at-apples-iphone-16-event-ai-features-airpods-apple-watch-series-10-more/). There are four iPhone 16 models: iPhone 16, iPhone 16 Plus, iPhone 16 Pro, and iPhone 16 Pro Max. All will come with iOS 18 and Apple Intelligence built in.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886048/19272" target="_top" id="1886048">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886048" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886048/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Which iPhone is better, 14 or 15?
 
@@ -321,23 +348,9 @@ One of the biggest upgrades with the latest iPhone 15 series is the [USB-C port]
 
 Otherwise, even if you own an iPad or MacBook, or almost any other non-Apple gadget, USB-C is more widely used and truly the one-size-fits-all option for charging and transferring data.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868575/19272" target="_top" id="1868575">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868575" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868575/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Which iPhone models support Apple's new AI features?
 
 Apple's upcoming AI features, branded as "[Apple Intelligence](https://www.zdnet.com/article/what-is-apple-intelligence-everything-to-know-about-ai-features-coming-to-iphones-macs-and-ipads/)," are available on iPhones with at least an A17 Pro processor. That means only the iPhone 15 Pro series, excluding the standard iPhone 15 or iPhone 15 Plus, will support the new AI tools and the upcoming iPhone 16 models.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043856/7443" target="_top" id="2043856">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043856" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043856/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### What storage size should I buy for my iPhone?
 
@@ -352,6 +365,19 @@ Trading in an old iPhone is one of the easiest (and safest) ways to replace an o
 ### Do I really need an iPhone case?
 
 While an iPhone case is not a necessity -- your iPhone will still function normally without it -- having one on greatly reduces the chances of wear and tear. For example, the [best cases](https://www.zdnet.com/article/best-iphone-15-case/) are military-grade certified, meaning they'll keep your iPhone protected from waist-high drops. Not only do cases reduce the chances of your phone getting cracked or scratched, but the plastic/rubberized material often provides more grip than if you hold your iPhone naked.
+
+<!-- affiliate ads begin -->
+<span id="1424533">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424533.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424533">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424533.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424533%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424533/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Which iPhone should I buy for a parent?
 
@@ -377,13 +403,6 @@ All models within the iPhone 15, 14, and 13 line, as well as select iPhone 12 mo
 
 Even more importantly, the 5G iPhone models have Qualcomm chipsets inside that are proving to provide better RF reception than we saw in past iPhones that had Intel chipsets. 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012429/19272" target="_top" id="2012429">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012429" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012429/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Which iPhone models support wireless charging or MagSafe?
 
 All of the iPhone models in this list support Qi wireless charging technology. Wireless charging is becoming an expected feature for modern smartphones from all manufacturers.
@@ -403,13 +422,6 @@ While this number varies greatly depending on how you handle a smartphone -- per
 Then, you'll likely experience more frequent app crashes, lag, storage problems, and more. Those are common issues that any piece of technology will inhibit, not just the iPhone, after years of constant usage. 
 
 If you'd like to prolong that time, I'd recommend visiting your local Apple store to have the phone's battery replaced every three to four years and also consider backing up files to an [external hard drive](https://www.zdnet.com/article/best-external-hard-drive/) for safekeeping. As a last resort, [a factory reset](https://www.zdnet.com/article/how-to-factory-reset-your-iphone/), followed by data restoration, should give your phone a brand-new feel.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118322/7443" target="_top" id="2118322">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118322" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118322/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Other iPhone models we tested
 
@@ -457,16 +469,22 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/updated-how-much-will-it-cost-to-shoot-a-music-video-in-2024/"><u>[Updated] How Much Will It Cost To Shoot A Music Video, In 2024</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-multimedia-text-producer/"><u>[Updated] Multimedia Text Producer</u></a></li>
-<li><a href="https://howto.techidaily.com/9-quick-fixes-to-unfortunately-touchwiz-has-stopped-of-itel-a70-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Quick Fixes to Unfortunately TouchWiz has stopped Of Itel A70 | Dr.fone</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/5ai/"><u>世界で最もおすすめの5つのフリーAI顔作成・交換ガイド：一目見たくなる技術をワンクリックで体験！</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/accelerated-content-acquisition-with-funimate-for-2024/"><u>Accelerated Content Acquisition with Funimate for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723207064318-forza-horizon-asterisk-4-noise-solutions-eliminate-silence-and-enjoy-the-race-again/"><u>Forza Horizon Asterisk 4 Noise Solutions - Eliminate Silence and Enjoy the Race Again!</u></a></li>
-<li><a href="https://win-answers.techidaily.com/how-to-restore-spatial-sound-on-your-pc-running-windows-11-or-10/"><u>How To Restore Spatial Sound On Your PC Running Windows 11 or 10</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/quick-guide-creating-engaging-instagram-video-content-fast/"><u>Quick Guide: Creating Engaging Instagram Video Content Fast</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/resolving-the-youtube-hiccup-ultimate-solutions-for-videos-stuck-on-loading-indicators/"><u>Resolving the YouTube Hiccup: Ultimate Solutions for Videos Stuck on Loading Indicators</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/top-rated-diamond-cut-engagement-ring-choices-beyond-traditional-al-alternative/"><u>Top Rated Diamond Cut Engagement Ring Choices : Beyond Traditional Al Alternative</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/vertiginous-views-unveiling-gopro-karma-capabilities/"><u>Vertiginous Views Unveiling GoPro Karma Capabilities</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-what-is-haul-video-and-how-to-make-a-catchy-try-on-haul-video/"><u>[New] 2024 Approved What Is Haul Video and How to Make a Catchy Try on Haul Video</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-beginners-tutorial-setting-up-your-youtube-presence-for-2024/"><u>[New] Beginner's Tutorial Setting Up Your YouTube Presence for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-best-scripting-solutions-for-ae-for-2024/"><u>[New] Best Scripting Solutions for AE for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-from-concept-to-completion-crafting-your-youtube-masterpiece-for-2024/"><u>[New] From Concept to Completion Crafting Your YouTube Masterpiece for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-from-novice-to-pro-mastering-the-craft-of-yt-shorts-for-2024/"><u>[New] From Novice to Pro Mastering the Craft of YT Shorts for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-how-to-create-youtube-intros-and-end-cards-free-and-easy-for-2024/"><u>[New] How to Create YouTube Intros & End Cards - Free and Easy for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-high-end-audio-for-youtubes-best-gamers/"><u>[New] In 2024, High-End Audio for YouTube's Best Gamers</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-disableremove-youtube-shorts-permanently/"><u>[New] In 2024, How to Disable/Remove YouTube Shorts Permanently?</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-create-a-youtube-account/"><u>[Updated] 2024 Approved How to Create a YouTube Account</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-superior-6-apps-to-subtitle-videos-internationally/"><u>[Updated] 2024 Approved Superior 6 Apps to Subtitle Videos Internationally</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-device-footage-to-youtube-shorts-your-streamlined-approach/"><u>[Updated] In 2024, From Device Footage to YouTube Shorts - Your Streamlined Approach</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-key-approaches-to-convert-youtube-videos-to-mp4/"><u>[Updated] Key Approaches to Convert YouTube Videos to MP4</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-maximize-productivity-innovative-windows-10-tips-for-2024/"><u>[Updated] Maximize Productivity Innovative Windows 10 Tips for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/addressing-dxgi-error-after-device-removal/"><u>Addressing DXGI Error After Device Removal</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-sharefake-location-on-whatsapp-for-realme-c67-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Share/Fake Location on WhatsApp for Realme C67 5G | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-tips-of-transferring-messages-from-tecno-spark-20-proplus-to-iphone-1415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Tips of Transferring Messages from Tecno Spark 20 Pro+ to iPhone 14/15 | Dr.fone</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/step-by-step-guide-restoring-connection-to-apples-itunes-store-on-ios-devices/"><u>Step-by-Step Guide: Restoring Connection to Apple's iTunes Store on iOS Devices</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Unveiling the Triggers of the 2024 CrowdStrike-Windows Debacle: A Detailed Look Back with ZDNET"
-date: 2024-10-23T19:08:59.192Z
-updated: 2024-10-27T18:02:54.909Z
+date: 2024-10-29T14:26:51.106Z
+updated: 2024-11-01T16:31:02.221Z
 tags:
   - apple
 categories:
@@ -51,10 +51,10 @@ Repairing the damage from a flaw like this is a painfully tedious process that r
 If you know anyone whose job involves administering Windows PCs in a corporate network that uses the CrowdStrike code, you can be confident they are very busy right now, and will be for days to come.
 
 <!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398455/3022" target="_top" id="398455">
-  <img src="//a.impactradius-go.com/display-ad/3022-398455" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2075476/7443" target="_top" id="2075476">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075476" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398455/3022" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075476/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## We've seen this movie before
@@ -94,16 +94,10 @@ In the You Can't Make This Up Department… CrowdStrike's founder and CEO, Georg
 What makes the 2024 sequel so much worse is that it also affected Windows-based servers running in the cloud, on Microsoft Azure and on AWS. Just as with the many laptops and desktop PCs that were bricked by this faulty update, the cloud-based servers require time-consuming manual interventions to recover.
 
 <!-- affiliate ads begin -->
-<span id="1982461">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982461.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982461">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982461.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982461%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982461/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2043596/7443" target="_top" id="2043596">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043596" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043596/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## CrowdStrike's QA failed
@@ -133,16 +127,10 @@ As part of its initial response, CrowdStrike says it plans to take additional me
 Meanwhile, the United States House of Representatives Homeland Security Committee plans to call CrowdStrike's CEO up for hearings on what went wrong, and CrowdStrike's Chief Security Officer, Shawn Henry, [posted an apology on LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7220983915421806592/), admitting "On Friday, we failed you. ... The confidence we built in drips over the years was lost in buckets within hours, and it was a gut punch."
 
 <!-- affiliate ads begin -->
-<span id="1983473">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983473.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983473">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983473.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983473%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983473/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://imp.i357552.net/c/5597632/999558/11832" target="_top" id="999558">
+  <img src="//a.impactradius-go.com/display-ad/11832-999558" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/999558/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How much fault should Microsoft shoulder?
@@ -193,16 +181,18 @@ Nonetheless, this incident, which caused many billions of dollars' worth of dama
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-compact-content-leading-5-services-to-compress-video-urls-for-2024/"><u>[New] Compact Content Leading 5 Services to Compress Video URLs for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-from-raw-video-to-engaging-youtube-videos-with-sony-vegas-tools-for-2024/"><u>[New] From Raw Video to Engaging YouTube Videos with Sony Vegas Tools for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-build-and-launch-youtube-video-ads-on-budget/"><u>[New] In 2024, Build & Launch YouTube Video Ads on Budget</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/new-in-2024-elevate-your-craft-the-best-premiere-pro-templates-2023/"><u>[New] In 2024, Elevate Your Craft The Best Premiere Pro Templates 2023</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-join-the-giggle-roll-and-tearful-talks-on-instagram-memes/"><u>[Updated] Join the Giggle-Roll and Tearful Talks on Instagram Memes</u></a></li>
-<li><a href="https://howto.techidaily.com/fixing-persistent-pandora-crashes-on-samsung-galaxy-a23-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixing Persistent Pandora Crashes on Samsung Galaxy A23 5G | Dr.fone</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/frp-hijacker-by-hagard-download-and-bypass-your-honor-100-pro-frp-locks-by-drfone-android/"><u>FRP Hijacker by Hagard Download and Bypass your Honor 100 Pro FRP Locks</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/governing-recording-youtube-live-streams/"><u>Laws Governing Recording YouTube Live Streams</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/tackling-the-mystery-of-missing-shorts-video-images/"><u>Tackling the Mystery of Missing Shorts Video Images</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/transform-concepts-to-successful-youtube-titles-for-2024/"><u>Transform Concepts to Successful YouTube Titles for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/unlock-youtube-insights-via-social-blade-mastering-your-video-metrics-for-2024/"><u>Unlock YouTube Insights via Social Blade Mastering Your Video Metrics for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-gourmet-gurus-who-you-should-subscribe-to-for-2024/"><u>[New] Gourmet Gurus Who You Should Subscribe To for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-how-to-turn-a-minute-into-millions-maximizing-viewership-for-youtubers-for-2024/"><u>[New] How to Turn a Minute Into Millions Maximizing Viewership for YouTubers for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-free-visual-templates-to-upgrade-your-profile/"><u>[New] In 2024, Free Visual Templates to Upgrade Your Profile</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-zero-to-hero-youtube-setup-growth-and-profit-strategies/"><u>[New] In 2024, From Zero to Hero YouTube Setup, Growth & Profit Strategies</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-freefall-into-success-top-hashtags-and-vlogging-techniques-for-2024/"><u>[Updated] FreeFall Into Success Top Hashtags and Vlogging Techniques for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-free-themes-for-dynamic-youtuber-profiles/"><u>[Updated] In 2024, Free Themes for Dynamic YouTuber Profiles</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-see-whats-new-in-movavi-plus-the-2024-edition-highlights/"><u>[Updated] See What’s New in Movavi Plus The 2024 Edition Highlights</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/2024-approved-a-complete-guide-to-downloading-youtube-videos-to-iphone-or-ipad/"><u>2024 Approved A Complete Guide to Downloading YouTube Videos to iPhone or iPad</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/affordable-innovation-showdown-is-the-new-apple-ipad-air-a-steal-next-to-ipad-pro/"><u>Affordable Innovation Showdown: Is the New Apple iPad Air a Steal Next to iPad Pro?</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/comprehensive-directory-of-pixel-tones-websites-for-2024/"><u>Comprehensive Directory of Pixel Tones Websites for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/in-2024-bandicam-or-camtasia-best-recording-and-editing-software/"><u>In 2024, Bandicam or Camtasia Best Recording & Editing Software?</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/in-2024-top-9-apple-iphone-11-monitoring-apps-for-parental-controls-drfone-by-drfone-virtual-ios/"><u>In 2024, Top 9 Apple iPhone 11 Monitoring Apps for Parental Controls | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/the-ultimate-how-to-easy-steps-for-successful-program-setup-and-teardown/"><u>The Ultimate How-To: Easy Steps for Successful Program Setup and Teardown</u></a></li>
 </ul></div>
 

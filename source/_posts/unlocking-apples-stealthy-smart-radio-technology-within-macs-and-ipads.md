@@ -1,7 +1,7 @@
 ---
 title: Unlocking Apple's Stealthy Smart Radio Technology Within Macs and iPads
-date: 2024-10-25T19:02:46.054Z
-updated: 2024-10-27T16:07:35.376Z
+date: 2024-10-29T13:01:18.372Z
+updated: 2024-11-02T05:56:47.673Z
 tags:
   - apple
 categories:
@@ -58,23 +58,9 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 Since the iPad and Mac run Apple's Home app, they could function as Thread border routers, integrating more seamlessly with smart home networks. This could indicate the iPad's return to functioning as a smart home hub. 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997675/19272" target="_top" id="1997675">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997675" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997675/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to check if your iPad or Mac has a Thread radio
 
 The best way to determine if your device has a Thread radio built-in is to look for evidence of Thread testing in the device's [FCC reports](https://fcc.report/). 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087395/7443" target="_top" id="2087395">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087395" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087395/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 1\. Find your device's model number or FCC ID
 
@@ -84,20 +70,27 @@ You can also look for your [iPad](https://support.apple.com/en-us/108043), [MacB
 
 **Also: [The M4 iPad Pro's true potential will be realized at WWDC, and AI will have a lot to do with it](https://www.zdnet.com/article/the-m4-ipad-pros-true-potential-will-be-realized-at-wwdc-and-ai-will-have-a-lot-to-do-with-it/)**
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139113/17108" target="_top" id="2139113">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139113" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139113/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Access the Apple FCC database
 
 You can access the Apple FCC database by clicking [FCC.Report/company/Apple](https://fcc.report/company/apple). This will bring up a complete list of the company's FCC reports, from the first one in 1981 through today.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151859/7443" target="_top" id="2151859">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151859/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Search for your device's model number or FCC ID
 
 Search for your device's model number or FCC ID by performing a quick **Find** using _Ctrl F_ or _cmd F_.
-
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139557/4704" target="_top" id="2139557">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139557" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139557/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 4\. Click on the device's report
 
@@ -105,13 +98,34 @@ Clicking on the device's report will bring up a list of all the reports created 
 
 **Also: [iPad Air (2024) review: Apple's M2 tablet is even better than my $1,200 Android](https://www.zdnet.com/article/ipad-air-2024-review/)**
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123511/26400" target="_top" id="2123511">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123511" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123511/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 5\. Find the Thread testing report
 
 Search for any test reports mentioning "Thread" or "IEEE 802.15.4," which is the technical standard on which Thread is built. 
 
 If a Thread radio exists in that device, you should find a report of its compliance testing since a non-existent feature wouldn't be tested.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037356/7443" target="_top" id="2037356">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037356" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037356/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## FAQ
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959773/19272" target="_top" id="1959773">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959773" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959773/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## What is Thread?
 
@@ -120,19 +134,6 @@ Thread is a low-energy wireless communication protocol for smart home devices cr
 **Also: [Google is turning its TVs into Home hubs and giving devs access to over 600 million smart devices](https://www.zdnet.com/home-and-office/smart-home/google-is-turning-its-tvs-into-home-hubs-and-giving-devs-access-to-over-600-million-smart-devices/)**
 
 Thread was created as an energy-efficient and secure protocol to connect battery-powered devices, like smart home sensors, smart locks, room thermometers, lights, thermostats, and security systems. The IP-based protocol allows for easy integration with smart home ecosystems, which is Matter's main goal.
-
-<!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## What is a Thread border router?
 
@@ -157,13 +158,6 @@ No Thread protocol information was found for the [11-inch M2 Wi-Fi iPad Air](htt
 **Also: [Google Home pro tip: How to use Gemini to broadcast messages between your Nest devices](https://www.zdnet.com/home-and-office/smart-home/google-home-pro-tip-how-to-use-gemini-to-broadcast-messages-between-your-nest-devices/)**
 
 While Apple hasn't explicitly confirmed this information, the company may have used tri-band radio chips in the iPads and Macs with Thread radios. These integrated circuits support three different frequency bands for wireless communication, combining Wi-Fi, Bluetooth, and Thread into a single chip to make it more energy-efficient and compact. The multi-protocol support helps future-proof devices by supporting emerging wireless protocols.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136616/26400" target="_top" id="2136616">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136616" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136616/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Will iPads and Macs be Thread border routers?
 
@@ -225,22 +219,14 @@ The Apple Watch primarily uses Bluetooth to connect to the iPhone, but when Blue
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-a-dive-into-history-the-definitive-list-of-student-friendly-channels-1-10/"><u>[New] 2024 Approved A Dive Into History The Definitive List of Student-Friendly Channels #1-10</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-a-streamlined-system-for-scrutinizing-youtube-subscriber-profits-3-step-guide/"><u>[New] 2024 Approved A Streamlined System for Scrutinizing YouTube Subscriber Profits 3-Step Guide</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-raw-tape-to-broadcast-ready-using-studio-editor/"><u>[New] 2024 Approved From Raw Tape to Broadcast-Ready Using Studio Editor</u></a></li>
-<li><a href="https://article-tips.techidaily.com/new-2024-approved-the-20-word-formula-to-skyrocket-your-business-reach/"><u>[New] 2024 Approved The 20-Word Formula to Skyrocket Your Business Reach</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-unlocking-the-secrets-of-successful-youtube-collaborations/"><u>[New] Unlocking the Secrets of Successful YouTube Collaborations</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-youth-voices-channeling-lifes-milestinasubscriber-channel-for-impactful-personal-storytelling/"><u>[New] Youth Voices Channeling Life's Milestinasubscriber Channel for Impactful Personal Storytelling</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-making-the-most-of-your-instagram-footage/"><u>[Updated] 2024 Approved Making the Most of Your Instagram Footage</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-create-captivating-sports-videography-for-2024/"><u>[Updated] Create Captivating Sports Videography for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-behind-the-scenes-of-online-content-monetization/"><u>[Updated] In 2024, Behind the Scenes of Online Content Monetization</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-effortless-youtube-content-crafting-10-basic-video-ideas-for-all/"><u>[Updated] In 2024, Effortless YouTube Content Crafting 10 Basic Video Ideas for All</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-make-a-memorable-impact-with-youtubes-minis/"><u>[Updated] In 2024, How to Make a Memorable Impact with Youtube's Minis</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-top-tier-mp4-director-for-facebook/"><u>[Updated] Top-Tier MP4 Director for Facebook</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/approved-prosperous-gaming-vids-through-smart-hash-implementation/"><u>2024 Approved Prosperous Gaming Vids Through Smart Hash Implementation</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/experience-unparalleled-clarity-with-the-sony-xbr-49x900f-a-comprehensive-4k-tv-analysis/"><u>Experience Unparalleled Clarity with the Sony XBR-49X900F: A Comprehensive 4K TV Analysis</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfer-data-from-apple-iphone-se-2022-to-new-iphone-15-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How To Transfer Data from Apple iPhone SE (2022) to New iPhone 15 | Dr.fone</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/24-top-online-essentials-video-to-text-conversion-hacks/"><u>In 2024, Top Online Essentials Video to Text Conversion Hacks</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/ways-to-find-unlocking-codes-for-xiaomi-13-ultra-phones-by-drfone-android/"><u>Ways To Find Unlocking Codes For Xiaomi 13 Ultra Phones</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-from-youtube-to-insta-a-video-posting-guide-for-2024/"><u>[New] From YouTube to Insta A Video Posting Guide for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-a-guide-to-mastering-steams-switch-pro-controller/"><u>[New] In 2024, A Guide to Mastering Steam's Switch Pro Controller</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-guide-on-transforming-youtube-videos-into-mp3-using-safe-procedures/"><u>[New] In 2024, Guide on Transforming YouTube Videos Into MP3 Using Safe Procedures</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-gateways-to-googles-advertising-on-youtube-platforms/"><u>[Updated] 2024 Approved Gateways to Google's Advertising on YouTube Platforms</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-make-collab-videos-and-grow-your-channel/"><u>[Updated] In 2024, How to Make Collab Videos and Grow Your Channel?</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/ideal-internet-hubs-alarm-tunes-acquisition-spots/"><u>Ideal Internet Hubs Alarm Tunes Acquisition Spots</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-synergizing-visual-elements-best-text-plugins-reviewed/"><u>In 2024, Synergizing Visual Elements Best Text Plugins Reviewed</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-review-comprehensive-gadget-analysis/"><u>Tom's Tech Review: Comprehensive Gadget Analysis</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/turtle-beach-microphone-malfunction-heres-how-to-restore-sound/"><u>Turtle Beach Microphone Malfunction? Here's How to Restore Sound</u></a></li>
 </ul></div>
 

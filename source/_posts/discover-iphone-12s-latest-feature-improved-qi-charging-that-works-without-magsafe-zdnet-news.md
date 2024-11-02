@@ -1,7 +1,7 @@
 ---
 title: "Discover iPhone 12'S Latest Feature: Improved Qi Charging that Works without MagSafe | ZDNET News"
-date: 2024-10-15T18:25:56.807Z
-updated: 2024-10-21T23:07:52.447Z
+date: 2024-10-27T05:16:57.743Z
+updated: 2024-11-02T00:19:53.730Z
 tags:
   - apple
 categories:
@@ -31,10 +31,10 @@ But which features will actually have the most impact on iPhone enthusiasts? Wha
 When Apple first released the [iPhone 15](https://www.zdnet.com/article/iphone-15-plus-review/) series, it only gave the 5x tetraprism zoom lens to the Max Pro. This time around, both the 16 Pro and the 16 Pro Max are getting the high-end zoom capability. This choice means the camera is essentially the same on the 16 Pro and 16 Pro Max, leaving other features to differentiate the two models. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151883/7443" target="_top" id="2151883">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151883" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1657396/16446" target="_top" id="1657396">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657396" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151883/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657396/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. The camera control
@@ -52,16 +52,10 @@ The camera control button is available on all iPhone 16 models, but it's when pa
 [Not everyone is a fan](https://www.zdnet.com/article/i-want-to-be-excited-about-the-iphone-16s-new-camera-button-but-cant-for-now/) of the new camera button, however, as this shift from software to hardware will likely come with usability growing pains and mistakenly-accessed features.
 
 <!-- affiliate ads begin -->
-<span id="1834906">
-					<video width="864" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1834906.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1834906">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834906.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834906%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834906/16836" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2075472/7443" target="_top" id="2075472">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075472" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075472/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Siri's much-needed makeover
@@ -79,10 +73,10 @@ Well, the time has finally come. Apple unveiled a ton of new functionality for S
 Beyond Siri, we have [Visual Intelligence](https://www.zdnet.com/article/apple-adds-visual-intelligence-its-answer-to-google-lens-to-the-iphone-16-camera/), which allows multi-modal AI via the camera, similar to what we've seen across other AI models this year. Apple Intelligence will start with a live beta in October in the US, with additional countries in December, and additional languages next year. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135418/19272" target="_top" id="2135418">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135418" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://appsumo.8odi.net/c/5597632/2129740/7443" target="_top" id="2129740">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129740" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135418/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129740/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Upgraded chipset for the AI age
@@ -98,10 +92,10 @@ The 3mm technology has smaller, more efficient transistors, and constitutes a bi
 Even with AI's demanding memory requirements, having this much memory on the iPhone is a bonus for overall performance, particularly multitasking and starting up apps. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151854/7443" target="_top" id="2151854">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151854" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/1001453/11832" target="_top" id="1001453">
+  <img src="//a.impactradius-go.com/display-ad/11832-1001453" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151854/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001453/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. The biggest iPhones yet
@@ -138,16 +132,24 @@ The iPhone 16 Pro and Pro Max are the largest iPhones ever, with 6.3 and 6.9-inc
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-add-captions-to-youtube-videos/"><u>[New] 2024 Approved How To Add Captions to YouTube Videos</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/an-unwanted-youtube-recommended-titles/"><u>[New] Ban Unwanted YouTube Recommended Titles</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-how-to-get-more-video-views-on-youtube-for-2024/"><u>[New] How To Get More Video Views on YouTube for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-how-to-make-killer-youtube-channel-art-for-2024/"><u>[New] How to Make Killer YouTube Channel Art for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-frontier-makers-of-harmonized-audio-visual-experiences/"><u>[New] In 2024, Frontier Makers of Harmonized Audio-Visual Experiences</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/pgrade-your-editing-game-learning-youtube-cuts-in-sony-vegas-basics/"><u>[New] Upgrade Your Editing Game Learning YouTube Cuts in Sony Vegas Basics</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-hidden-treasures-non-top-films-that-shine/"><u>[Updated] 2024 Approved Hidden Treasures Non-Top Films That Shine</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/here-are-some-of-the-best-pokemon-discord-servers-to-join-on-oppo-find-n3-drfone-by-drfone-virtual-android/"><u>Here are Some of the Best Pokemon Discord Servers to Join On Oppo Find N3 | Dr.fone</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/how-to-remove-apple-iphone-13-pro-activation-lock-by-drfone-ios/"><u>How to Remove Apple iPhone 13 Pro Activation Lock</u></a></li>
-<li><a href="https://facebook.techidaily.com/is-there-a-risk-of-leaked-numbers-in-my-social-media-activity/"><u>Is There a Risk of Leaked Numbers in My Social Media Activity?</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/transforming-commerce-the-top-8-benefits-of-integrating-chatgpt-into-your-company/"><u>Transforming Commerce: The Top 8 Benefits of Integrating ChatGPT Into Your Company</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-novice-to-vlogger-the-top-10-editing-techniques/"><u>[New] 2024 Approved From Novice to Vlogger The Top 10 Editing Techniques</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-guiding-you-through-youtubes-view-limitations/"><u>[New] 2024 Approved Guiding You Through YouTube's View Limitations</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-songs-to-symphony-building-a-cohesive-youtube-playlist-on-webapp/"><u>[New] In 2024, From Songs to Symphony Building a Cohesive YouTube Playlist on Web/App</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-free-and-legal-youtube-downloader-tools-recommendations/"><u>[Updated] 2024 Approved Free & Legal YouTube Downloader Tools - Recommendations</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-novice-to-pro-mastering-the-art-of-youtube-shorts/"><u>[Updated] 2024 Approved From Novice to Pro Mastering the Art of YouTube Shorts</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-guidelines-for-optimal-youtube-video-brightness/"><u>[Updated] 2024 Approved Guidelines for Optimal YouTube Video Brightness</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-elevate-your-inshot-video-segment-flow/"><u>[Updated] Elevate Your Inshot Video Segment Flow</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-essential-sandbox-experiences-for-gamers/"><u>[Updated] Essential Sandbox Experiences for Gamers</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-freebuy-one-lut-bundle-for-canon-pros/"><u>[Updated] Free/Buy-One-LUT Bundle for Canon Pros</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-channel-cashflow-crusade-unleashing-earnings-with-youtube-studio/"><u>[Updated] In 2024, Channel Cashflow Crusade Unleashing Earnings with Youtube Studio</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-easy-steps-to-youtubing-prosperity-channel-size-not-a-barrier/"><u>[Updated] In 2024, Easy Steps to Youtubing Prosperity Channel Size Not a Barrier</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-free-safe-steps-to-extract-audio-from-youtube-videos/"><u>[Updated] In 2024, Free, Safe Steps to Extract Audio From YouTube Videos</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-freefall-into-success-top-hashtags-and-vlogging-techniques/"><u>[Updated] In 2024, FreeFall Into Success Top Hashtags and Vlogging Techniques</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-one-off-to-firm-follower-an-ethical-approach/"><u>[Updated] In 2024, From One-Off to Firm Follower An Ethical Approach</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-why-are-my-insta-vids-upside-down-in-2024/"><u>[Updated] Why Are My Insta Vids Upside Down, In 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-x-master-recorder-software-pc-edition/"><u>[Updated] X-Master Recorder Software, PC Edition</u></a></li>
+<li><a href="https://extra-information.techidaily.com/expert-guide-to-video-editing-leveraging-power-of-movies-maker-on-windows-8/"><u>Expert Guide to Video Editing Leveraging Power of Movies Maker on Windows 8</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-develop-a-trusted-window-icon-for-safe-hardware-disconnect-in-win11/"><u>How to Develop a Trusted Window Icon for Safe Hardware Disconnect in Win11</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-artists-chromatic-companion/"><u>In 2024, The Artist's Chromatic Companion</u></a></li>
 </ul></div>
 

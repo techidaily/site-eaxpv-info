@@ -1,7 +1,7 @@
 ---
 title: Pixel 9 Pro XL vs iPhone 15 Pro Photography Battle Reveals Unexpected Victor | TechSpot
-date: 2024-10-21T16:21:48.618Z
-updated: 2024-10-27T17:05:58.196Z
+date: 2024-10-31T10:14:05.911Z
+updated: 2024-11-02T02:47:13.434Z
 tags:
   - apple
 categories:
@@ -26,13 +26,6 @@ It's no secret that iPhones aren't the most rugged devices, sometimes yielding s
 
 Our pick for the best iPhone 16 case right now is the [Nomad Sport Case](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fstores%2FNOMAD%2Fpage%2F6927BCAB-A05E-40FA-ADA7-1E37C46F23E5%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ca1266d9a-4c56-49fb-a7a2-ebc61239e716%7Cdtp&dtb=1) case. This brand has been a longtime ZDNET favorite for its sleek form factor, [MagSafe capabilities](https://www.zdnet.com/article/best-magsafe-wallets/), and drop protection without a bulky form factor. Keep reading for more of our iPhone 16 case picks.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## The best iPhone 16 cases of 2024
 
 Show less 
@@ -47,13 +40,6 @@ Pros
 
 Cons 
 * Only available for iPhone 16 Pro models
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Nomad Sport Case
 
@@ -108,14 +94,14 @@ Cons
 * Minimal drop protection
 * Heftier price
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886048/19272" target="_top" id="1886048">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886048" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886048/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Pitaka Ultra Slim case
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148633/16836" target="_top" id="2148633">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148633" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148633/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Best thin iPhone 16 case
 
@@ -141,14 +127,14 @@ Pros
 Cons 
 * Low drop protection
 
-<!-- affiliate ads begin -->
-<a href="https://bluettifr.pxf.io/c/5597632/2145082/17095" target="_top" id="2145082">
-  <img src="//a.impactradius-go.com/display-ad/17095-2145082" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145082/17095" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Smartish Gripmunk case
+
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/1943648/22993" target="_top" id="1943648">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943648" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943648/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Best cheap iPhone 16 case
 
@@ -177,10 +163,10 @@ Cons
 ## Mous Limitless 6.0
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144310/7443" target="_top" id="2144310">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144310" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948954/19272" target="_top" id="1948954">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948954" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144310/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948954/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Best protective iPhone 16 case
@@ -207,13 +193,6 @@ Pros
 Cons 
 * Pricier
 * No camera protection
-
-<!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576477/17382" target="_top" id="1576477">
-  <img src="//a.impactradius-go.com/display-ad/17382-1576477" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576477/17382" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Incase Icon
 
@@ -244,10 +223,10 @@ Cons
 * Pricey for low protection
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144282/7443" target="_top" id="2144282">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144282" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1528696/16446" target="_top" id="1528696">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528696" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144282/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528696/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Moft Snap Case Movas
@@ -304,13 +283,6 @@ Our pick for the best iPhone 16 case is the Nomad Sport case for its sleek desig
 | Incase Icon case           | $60       | Yes                 | Yes         |
 | Nomad Modern Leather case  | $70       | Yes                 | Yes         |
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094419/7443" target="_top" id="2094419">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094419" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094419/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Which is the right iPhone 16 case for you?
 
 The best iPhone 16 case option for you differs depending on your needs. For one, you may require an extremely protective case if you are clumsy with your device. Maybe you're lucky with great phone handling skills and want a stylish case. There are options for everyone.
@@ -342,6 +314,13 @@ On this list, the Nomad Sport case and the Torras Ostand MagSafe Case are the mo
 
 However, if you stray from the list, the best options are those with a solid bumper and durable material. Before purchasing a case, make sure to check its drop protection and other safety features.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036496/19272" target="_top" id="2036496">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036496" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036496/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## What is the best phone case brand?
 
 Unfortunately, there isn't such a thing as the best phone case brand. Many sources point to Spigen and Otterbox as the most popular phone case brands with the most units sold. That, however, does not necessarily mean they are the best brands. It is ultimately up to you and your lived experience and opinion.
@@ -350,9 +329,23 @@ Unfortunately, there isn't such a thing as the best phone case brand. Many sourc
 
 Materials like plastic or polycarbonate usually offer the best price and durability. Other cases made from leather or metal can be pricier and may not offer the best protection.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135408/19272" target="_top" id="2135408">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135408" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135408/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## When is the iPhone 16 available?
 
 The iPhone 16 is available for preorder now, and will arrive in stores on September 20.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082539/7443" target="_top" id="2082539">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082539" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082539/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## What is the best phone case to avoid overheating?
 
@@ -361,6 +354,13 @@ If your phone has the problem of overheating, it may be best to look into specia
 ## What is the best iPhone for a 16 year old?
 
 This is a good question, and if we had to chime in, we would say something more durable. A study by tech protection service Asurion in 2013 that [3 out of 10 teenagers have dropped](https://www.prnewswire.com/news-releases/3-out-of-10-teens-damaged-cell-phones-in-the-last-18-months-mainly-at-school-218494391.html#:~:text=A%20back%2Dto%2Dschool%20survey,most%20accidents%20happening%20at%20school.) and/or damaged their cell phones in the past 18 months. Ten years later, many phones are even less durable. Therefore, that number may be higher, especially if teenagers have more phones than ever. To prevent damage to your teen's phone, it may be wise to invest in a durable case that protects the device.
+
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2136536/16384" target="_top" id="2136536">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136536" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136536/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Are there alternative iPhone 16 cases worth considering?
 
@@ -408,22 +408,19 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://buynow-info.techidaily.com/escort-passport-reveals-innovative-long-range-traffic-monitors-that-are-good-for-your-wallet-and-safety/"><u>'Escort Passport Reveals': Innovative, Long Range Traffic Monitors that Are Good For Your Wallet and Safety</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-2024-approved-preserving-gh-meetings-live/"><u>[New] 2024 Approved Preserving GH Meetings Live</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-pro-cams-face-off-gopro-hero5-black-and-garmin-virb-ultra-30/"><u>[New] Pro Cams Face-Off GoPro Hero5 Black and Garmin VIRB Ultra 30</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-perfecting-game-capture-techniques-and-tricks/"><u>[Updated] Perfecting Game Capture Techniques & Tricks</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/7-compelling-arguments-showing-the-longevity-of-dvds-in-todays-digital-age/"><u>7 Compelling Arguments Showing the Longevity of DVDs in Today's Digital Age</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/best-dvd-ripper-tools-for-your-apple-devices-iphoneipad-download-now-and-save/"><u>Best DVD Ripper Tools for Your Apple Devices (iPhone/iPad) - Download Now and Save!</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/cutting-edge-techniques-for-youtube-video-production-with-sony-vegas/"><u>Cutting-Edge Techniques for YouTube Video Production with Sony Vegas</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/digiarty-contact-points-connecting-you-with-expertise/"><u>Digiarty Contact Points: Connecting You with Expertise</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/emeditor-your-key-tool-in-expertly-crafting-and-deciphering-text-encodings-for-optimal-display-performance/"><u>EmEditor: Your Key Tool in Expertly Crafting and Deciphering Text Encodings for Optimal Display Performance</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/empower-every-moment-ais-role-in-shaping-an-exceptional-lifestyle/"><u>Empower Every Moment: AI's Role in Shaping an Exceptional Lifestyle</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/faq-informazioni-e-risposte-sui-progressi-dellintelligenza-artificiale-in-winxvideo/"><u>FAQ: Informazioni E Risposte Sui Progressi Dell'Intelligenza Artificiale in WinXVideo</u></a></li>
-<li><a href="https://techidaily.com/how-to-get-out-of-recovery-on-apple-iphone-14-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Get Out of Recovery on Apple iPhone 14? | Dr.fone</u></a></li>
-<li><a href="https://fox-that.techidaily.com/overcoming-iphone-snapshot-snags-a-guide-to-the-7-most-common-issues/"><u>Overcoming iPhone Snapshot Snags: A Guide to the 7 Most Common Issues</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/seamless-transfer-of-images-uploading-pictures-from-pc-directly-to-iphone-avoiding-itunes-and-preventing-file-corruption/"><u>Seamless Transfer of Images: Uploading Pictures From PC Directly to iPhone Avoiding iTunes & Preventing File Corruption</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/simple-solutions-when-your-windows-pc-cant-detect-an-ipad-in-itunes/"><u>Simple Solutions When Your Windows PC Can't Detect an iPad in iTunes</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/top-10-solutions-for-troubleshooting-your-pcs-webcam-issues-in-windows-1011/"><u>Top 10 Solutions for Troubleshooting Your PC's Webcam Issues in Windows 10/11</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/winx-mediatrans-iphoneipad-pc/"><u>WinX MediaTrans™: IPhone/iPad에 대화형으로 이동하기 위한 사진, 음석, 비디오 교체를 위한 편리한 PC-제공 서비스</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-fostering-resilience-in-the-face-of-cyber-haters-for-2024/"><u>[New] Fostering Resilience in the Face of Cyber Haters for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-from-concept-to-creation-youtube-trailer-production-via-filmora-for-2024/"><u>[New] From Concept to Creation YouTube Trailer Production via Filmora for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-how-to-wipe-out-your-youtube-buffered-videos-for-2024/"><u>[New] How-To Wipe Out Your YouTube Buffered Videos for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-6-ways-to-increase-audience-retention-on-youtube-filmora/"><u>[Updated] 2024 Approved 6 Ways To Increase Audience Retention on YouTube - Filmora</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-growth-acceleration-on-youtube-expert-tips-for-video-partnerships-for-2024/"><u>[Updated] Growth Acceleration on YouTube Expert Tips for Video Partnerships for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-choose-the-right-thumbnail-size-for-impact-for-2024/"><u>[Updated] How to Choose the Right Thumbnail Size for Impact for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-how-to-use-a-whiteboard-in-google-meet-for-2024/"><u>[Updated] How to Use a Whiteboard in Google Meet for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/20-complimentary-luts-available-for-dji-miniair-2-users/"><u>20 Complimentary LUTs Available for DJI Mini/Air 2 Users</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-practical-ways-to-archive-online-discussions/"><u>2024 Approved Practical Ways to Archive Online Discussions</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-tech-savvy-strategies-for-harvesting-and-saving-facebooks-most-trendy-gifs/"><u>2024 Approved Tech Savvy Strategies for Harvesting & Saving Facebook's Most Trendy GIFs</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/expert-advice-handling-phelppgmddll-absent-or-undetected-situations/"><u>Expert Advice: Handling pHelpPgm_d.dll Absent or Undetected Situations</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-opening-problems-with-amd-radeon-graphics-driver-suite-easily/"><u>Fixing Opening Problems with AMD Radeon Graphics Driver Suite Easily</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-reset-a-realme-gt-neo-5-se-phone-that-is-locked-by-drfone-android/"><u>In 2024, How to Reset a Realme GT Neo 5 SE Phone that is Locked?</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/ultimate-solution-for-driver-corruptedexpool-errors-in-windows-10-systems/"><u>Ultimate Solution for 'DRIVER CORRUPTED_EXPOOL' Errors in Windows 10 Systems</u></a></li>
 </ul></div>
 

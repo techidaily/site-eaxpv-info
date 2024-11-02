@@ -1,7 +1,7 @@
 ---
 title: "Future-Proofing Assistants: How Apple Plans to Enhance Siri by 2025 - Insights From ZDNet"
-date: 2024-10-20T19:56:51.447Z
-updated: 2024-10-27T21:00:02.891Z
+date: 2024-10-29T07:13:06.906Z
+updated: 2024-11-02T14:54:03.458Z
 tags:
   - apple
 categories:
@@ -41,10 +41,10 @@ I'll say it: The new [iPad Pro](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5F
 With configurations ranging from $999 to $2,599, keep in mind that the higher storage tiers (1TB and 2TB) also come with double the RAM (16GB vs. 8GB) and an extra CPU core. It's a subtle, under-the-hood difference that's easy to miss, especially when cross-shopping [between iPad models](https://www.zdnet.com/article/best-ipad/). If you can use the greater compute, have an offline-heavy workflow, and/or want the most future-proofed iPad on the market, it's worth the upcharge. Otherwise, the base 11- or 13-inch model will serve you just fine, as they have for me.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/1062450/7443" target="_top" id="1062450">
+  <img src="//a.impactradius-go.com/display-ad/7443-1062450" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062450/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Specifications
@@ -62,10 +62,10 @@ With configurations ranging from $999 to $2,599, keep in mind that the higher st
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948937/19272" target="_top" id="1948937">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948937" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139111/17108" target="_top" id="2139111">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139111" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948937/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139111/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How I tested the iPad Pro (2024)
@@ -73,13 +73,6 @@ With configurations ranging from $999 to $2,599, keep in mind that the higher st
 Over the past week and a half, I've used (or attempted to use) the 11-inch iPad Pro as my primary computer for work and as a secondary, entertainment-only device. When it wasn't paired to a Wi-Fi connection 90% of the time, it ran off my phone's T-Mobile hotspot. While Apple sells an [LTE version](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FApple-iPad-Pro-11-Inch-Landscape%2Fdp%2FB0D3J9XDMQ%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cfbf10d9a-7cb8-49d5-8606-c235946e0be8%7Cdtp&dtb=1) of the iPad Pro, my primary testing grounds for the device have been at home, a local café, and my work office -- nowhere adventurous enough to justify the always-connected upgrade.
 
 I also paired the iPad with Apple's revamped [Magic Keyboard](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fproduct%2FMWR03LL%2FA%2Fmagic-keyboard-for-ipad-pro-11%25E2%2580%2591inch-m4-us-english-white&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp). The $299 starting price gave me pause when I first checked out the accessory, but the thinner, lighter aluminum form factor, larger trackpad, and a new row of function keys this year make the keyboard case more essential than ever for the full iPad experience.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134221/18498" target="_top" id="2134221">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134221" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134221/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  What are the best features of the iPad Pro (2024)?
 
@@ -120,10 +113,10 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135419/19272" target="_top" id="2135419">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135419" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134489/18498" target="_top" id="2134489">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134489" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135419/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134489/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  What I'd like to see in the next model
@@ -143,6 +136,13 @@ I'm also aware that Apple sells iPads like no other tablet maker, generating an 
 **More ports, even if they're not on the iPad:** Adding more port options, from an extra USB-C to MicroSD/SD to a headphone jack, may be a potential fix for professionals who want to make the most of Apple's magical glass slab. The ability to quickly import photos and videos via an SD card and then edit them on Lightroom or Final Cut Pro/Premiere Rush would be helpful for creatives; a 3.5mm headphone jack would solve any audio latency and quality issues that engineers and sound designers face; and an extra USB-C port would give users more flexibility to charge and connect the iPad to other devices.
 
 Of course, slimming down the iPad Pro means Apple likely won't move towards adding ports. Given how essential the Magic Keyboard is to the iPad, however, it could be even more so with the additional I/O.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130532/26400" target="_top" id="2130532">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130532/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Final thought
 
@@ -184,20 +184,22 @@ Regardless, the future of the iPad shouldn't be a dealbreaker because the [iPad 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-approaches.techidaily.com/updated-pump-it-up-the-20-most-energizing-workout-playlists/"><u>[Updated] Pump It Up The 20 Most Energizing Workout Playlists</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/2024nosub/"><u>2024年最新のNosubダウンロードガイド：安全にフリーアニメを入手する方法</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/t-mirrorless-cameras-for-vlogging/"><u>8 Best Mirrorless Cameras for Vlogging</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/complete-guide-to-duplicate-your-dvd-to-iso-format-using-winx-dvd-copy-software/"><u>Complete Guide to Duplicate Your DVD to ISO Format Using WinX DVD Copy Software</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/correcting-the-dvd-title-mistake-in-handbrake-conversions-a-comprehensive-guide-to-setting-up-right-names-correctly/"><u>Correcting the DVD Title Mistake in Handbrake Conversions: A Comprehensive Guide to Setting Up Right Names Correctly</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/deinterlacieren-von-videodateien-mit-handbrake-eine-umfassende-detaillierte-anleitungsreihe/"><u>Deinterlacieren Von Videodateien Mit Handbrake - Eine Umfassende, Detaillierte Anleitungsreihe</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/download-free-blu-ray-player-software-compatible-with-pc-and-mac-winxdvd/"><u>Download Free Blu-Ray Player Software Compatible with PC and Mac: WinXDVD</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/expert-picks-for-the-ultimate-2024-lawn-mower-selection-guide-by-zdnet/"><u>Expert Picks for the Ultimate 2024 Lawn Mower Selection Guide by ZDNet</u></a></li>
-<li><a href="https://howto.techidaily.com/fix-poco-c65-android-system-webview-crash-2024-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Poco C65 Android System Webview Crash 2024 Issue | Dr.fone</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/how-to-convert-mkv-files-to-mp4-on-ios-and-android-devices-without-cost/"><u>How to Convert MKV Files to MP4 on iOS and Android Devices Without Cost</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-services-offered-following-the-discontinuation-of-vudus-dvd-to-digital-transformation-feature/"><u>New Services Offered Following the Discontinuation of Vudu's DVD-to-Digital Transformation Feature</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/pokemon-go-no-gps-signal-heres-every-possible-solution-on-nokia-c300-drfone-by-drfone-virtual-android/"><u>Pokemon Go No GPS Signal? Heres Every Possible Solution On Nokia C300 | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/techniques-for-disconnecting-your-onedrive-and-microsoft-profile/"><u>Techniques for Disconnecting Your OneDrive & Microsoft Profile</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/transform-your-routine-discover-9-lifestyle-improvements-with-chatgpt-assistance/"><u>Transform Your Routine: Discover 9 Lifestyle Improvements with ChatGPT Assistance</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/what-legendaries-are-in-pokemon-platinum-on-honor-magic-6-pro-drfone-by-drfone-virtual-android/"><u>What Legendaries Are In Pokemon Platinum On Honor Magic 6 Pro? | Dr.fone</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-how-to-swiftly-excise-your-youtube-comment-spam-for-2024/"><u>[New] How to Swiftly Excise Your Youtube Comment Spam for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-fixed-shorts-no-more-hidden-content/"><u>[New] In 2024, Fixed Shorts - No More Hidden Content</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-green-up-your-cta-strategy-with-tools/"><u>[New] In 2024, Green Up Your CTA Strategy with Tools</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-growth-in-focus-building-a-foundation-of-youtube-backlinks/"><u>[New] In 2024, Growth in Focus Building a Foundation of YouTube Backlinks</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-hit-the-bottom-finding-your-best-free-youtube-downloader-app-on-android/"><u>[New] In 2024, Hit the Bottom - Finding Your Best Free YouTube Downloader App on Android</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-increase-youtube-traffic-by-a-million-safely-done/"><u>[New] In 2024, How to Increase YouTube Traffic by a Million Safely Done</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-stand-out-innovations-for-haul-video-creators/"><u>[Updated] In 2024, How to Stand Out Innovations for Haul Video Creators</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-pro-level-streaming-tech-innovations-you-need-for-2024/"><u>[Updated] Pro-Level Streaming Tech Innovations You Need for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-top-youtube-fonts-for-striking-shareable-thumbnails/"><u>[Updated] Top YouTube Fonts for Striking, Shareable Thumbnails</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/discovering-the-best-value-pc-for-gamers-with-our-expert-review-of-the-versatile-customizable-dell-g5-5090/"><u>Discovering the Best Value PC for Gamers with Our Expert Review of the Versatile, Customizable Dell G5 5090</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-ideal-internet-spots-curated-custom-tones-downloads/"><u>In 2024, Ideal Internet Spots Curated Custom Tones Downloads</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/in-2024-ways-to-disengage-music-elements-from-multimedia-projects/"><u>In 2024, Ways to Disengage Music Elements From Multimedia Projects</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/najlepsi-koncepse-pro-zacatecniky-kde-ziskat-inspiraci-ahoj/"><u>Najlepší Koncepse Pro Začátečníky – Kde Získat Inspiraci Ahoj!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-gadgets-and-gizmos-with-toms-digital-warehouse/"><u>Navigating Gadgets and Gizmos with Tom's Digital Warehouse</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/providing-constructive-critiques-to-chromeos-dev-team-a-comprehensive-guide/"><u>Providing Constructive Critiques to ChromeOS Dev Team – A Comprehensive Guide</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unveiling-the-best-premiere-plans-free-for-pros-for-2024/"><u>Unveiling the Best Premiere Plans, FREE for Pros for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-looking-for-the-best-vhs-video-effect-makers-get-to-know-the-top-list-for-2024/"><u>Updated Looking For the Best VHS Video Effect Makers? Get To Know the Top List for 2024</u></a></li>
 </ul></div>
 

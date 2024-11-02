@@ -1,7 +1,7 @@
 ---
 title: "Revolutionary MagSafe Battery Pack: Sleek Design & Rapid Charging Features Unveiled - Insights"
-date: 2024-10-08T21:51:40.807Z
-updated: 2024-10-15T16:57:15.578Z
+date: 2024-11-01T07:35:26.040Z
+updated: 2024-11-01T20:41:28.696Z
 tags:
   - apple
 categories:
@@ -47,10 +47,10 @@ The Casely Power Pod battery pack uses MagSafe technology to snap onto the back 
 It offers 5,000mAh of battery capacity and a max wireless output of 15W that can be used three ways: as a MagSafe battery pack, as a Qi charging pad for things like wireless earbuds, or as a traditional battery pack with a USB-C cord. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151882/7443" target="_top" id="2151882">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151882" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/977686/11832" target="_top" id="977686">
+  <img src="//a.impactradius-go.com/display-ad/11832-977686" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151882/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/977686/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How long does it take to charge a phone?
@@ -96,10 +96,10 @@ Casely's Power Pods can also be matched with the brand's [phone cases](https://s
 Diving beyond the obviously unique color and print offerings, the Power Pod also stands out for its shape. There's no boxy, oversized battery here. Instead, at only 3.2 ounces, the Power Pod is slightly thinner than many competitors and noticeably more rounded off than [other battery packs I have tested](https://www.zdnet.com/article/best-magsafe-battery/). It was clearly designed with user appeal at the forefront. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135398/19272" target="_top" id="2135398">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135398" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1972693/19272" target="_top" id="1972693">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972693" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135398/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972693/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -138,24 +138,24 @@ Unlike bulkier battery packs, the Power Pod provides an on-par 5,000mAh of batte
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-hobby-to-hustle-making-money-with-videos/"><u>[New] 2024 Approved From Hobby to Hustle Making Money with Videos</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-passive-watchers-to-profit-youtube-monetization/"><u>[New] 2024 Approved From Passive Watchers To Profit YouTube Monetization</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-groan-inducing-humor-in-hits-for-2024/"><u>[New] Groan-Inducing Humor in Hits for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-how-to-find-youtube-collaboration-partners-for-2024/"><u>[New] How to Find YouTube Collaboration Partners for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-free-webinar-creation-and-management-on-youtube/"><u>[New] In 2024, Free Webinar Creation & Management on Youtube</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/urge-video-popularity-with-essential-seo-aids-for-2024/"><u>[New] Surge Video Popularity with Essential SEO Aids for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-from-selfie-snaps-to-skincare-specials-establishing-your-youtube-brand-for-2024/"><u>[Updated] From Selfie Snaps to Skincare Specials Establishing Your YouTube Brand for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-ftp-to-feed-the-complete-guide-to-uploading-to-youtube/"><u>[Updated] In 2024, From FTP to Feed The Complete Guide to Uploading to YouTube</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-novice-to-vlogger-your-guide-to-creating-a-youtube-chanel/"><u>[Updated] In 2024, From Novice to Vlogger Your Guide to Creating a YouTube Chanel</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-convert-youtube-to-mp4-safely-step-by-step-guide/"><u>[Updated] In 2024, How to Convert YouTube to MP4 Safely? [Step by Step Guide]</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-masterful-fb-marketing-essential-tips-for-every-business-level/"><u>[Updated] In 2024, Masterful FB Marketing Essential Tips for Every Business Level</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-navigating-the-square-wave-of-facebook-video-popularity/"><u>[Updated] Navigating the Square Wave of Facebook Video Popularity</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-infuse-sound-into-your-whatsapp-status-update/"><u>2024 Approved Infuse Sound Into Your WhatsApp Status Update</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/android-unlock-code-sim-unlock-your-samsung-galaxy-f34-5g-phone-and-remove-locked-screen-by-drfone-android/"><u>Android Unlock Code Sim Unlock Your Samsung Galaxy F34 5G Phone and Remove Locked Screen</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ng-the-perfect-pair-matching-mics-with-every-type-of-youtubers-style/"><u>Finding the Perfect Pair Matching Mics with Every Type of YouTuber's Style</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-laying-foundations-for-fresh-content-first-timers-youtube-video-guide-mac-edition/"><u>In 2024, Laying Foundations for Fresh Content First-Timer's Youtube Video Guide, Mac Edition</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-top-6-ways-to-transfer-text-messages-from-nokia-c110-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Top 6 Ways to Transfer Text Messages from Nokia C110 to Other Android Devices | Dr.fone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/solving-the-mystery-of-error-code-0xc0000185-a-comprehensive-guide/"><u>Solving the Mystery of Error Code 0Xc0000185: A Comprehensive Guide</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/transform-webcam-into-a-recording-station-with-vlc/"><u>Transform Webcam Into a Recording Station with VLC</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-safely-capture-your-favorite-youtube-audio-for-free/"><u>[New] 2024 Approved How to Safely Capture Your Favorite YouTube Audio for Free</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-streamlabs-obs-demystified-an-in-depth-guide/"><u>[New] 2024 Approved Streamlabs OBS Demystified An In-Depth Guide</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-free-tools-and-tricks-creating-compelling-youtube-video-ads-for-2024/"><u>[New] Free Tools and Tricks Creating Compelling YouTube Video Ads for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-from-casual-follower-to-dedicated-subscriber-inspirational-journey-for-2024/"><u>[New] From Casual Follower to Dedicated Subscriber Inspirational Journey for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-from-search-patterns-to-screenplay-crafting-videos-from-google-data-for-2024/"><u>[New] From Search Patterns to Screenplay Crafting Videos From Google Data for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-how-much-money-can-you-score-with-youtube-short-videos-for-2024/"><u>[New] How Much Money Can You Score with YouTube Short Videos for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-graph-gala-2017-an-illuminated-expedition-into-yt-data/"><u>[New] In 2024, Graph Gala 2017 An Illuminated Expedition Into YT Data</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-guide-to-equipment-selection-for-youtube-creators/"><u>[New] In 2024, Guide to Equipment Selection for YouTube Creators</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-youtubes-realm-to-igtvs-domain-3-ways/"><u>[Updated] 2024 Approved From YouTube's Realm to IGTV's Domain (3 Ways)</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-gamified-design-making-your-youtube-banner-unforgettable/"><u>[Updated] In 2024, Gamified Design Making Your YouTube Banner Unforgettable</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-elevate-your-nba-experience-with-these-15-tips/"><u>2024 Approved Elevate Your NBA Experience with These 15 Tips</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/glion-dolly-electrified-two-wheeler-reviewed-premium-design-impressive-velocity/"><u>Glion Dolly Electrified Two-Wheeler Reviewed: Premium Design, Impressive Velocity</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-8-solutions-to-fix-find-my-friends-location-not-available-on-realme-narzo-60x-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 8 Solutions to Fix Find My Friends Location Not Available On Realme Narzo 60x 5G | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-remove-flashlight-from-apple-iphone-14-pro-lock-screen-by-drfone-ios/"><u>In 2024, How To Remove Flashlight From Apple iPhone 14 Pro Lock Screen</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/24-maximize-views-with-these-top-20-thumbnail-fonts/"><u>In 2024, Maximize Views with These Top 20 Thumbnail Fonts</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-top-five-hd-recording-cards-switch-edition/"><u>In 2024, Top Five HD Recording Cards, Switch Edition</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-ultimate-ranking-of-cutting-edge-smart-glasses/"><u>The Ultimate Ranking of Cutting-Edge Smart Glasses</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/the-ultimate-verdict-on-netgears-ex3700-wireless-repeater-ac750-performance-and-features/"><u>The Ultimate Verdict on Netgear's EX3700 Wireless Repeater (AC750) - Performance & Features</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/transformez-gratuitement-vos-fichiers-aifc-en-format-wav-en-ligne-avec-movavi-converter/"><u>Transformez Gratuitement Vos Fichiers AIFC en Format WAV en Ligne Avec Movavi Converter</u></a></li>
 </ul></div>
 

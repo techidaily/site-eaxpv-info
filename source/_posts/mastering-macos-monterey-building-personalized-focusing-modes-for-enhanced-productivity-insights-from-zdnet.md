@@ -1,7 +1,7 @@
 ---
 title: "Mastering MacOS Monterey: Building Personalized Focusing Modes for Enhanced Productivity | Insights From ZDNet"
-date: 2024-10-25T20:16:29.993Z
-updated: 2024-10-27T19:48:10.231Z
+date: 2024-10-31T09:43:47.830Z
+updated: 2024-11-02T02:53:15.383Z
 tags:
   - apple
 categories:
@@ -28,16 +28,16 @@ So, how do you create this custom Flow? Let me show you. All you'll need to make
 
 ## Create a custom Focus
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144298/7443" target="_top" id="2144298">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144298" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144298/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 1\. Open System Preferences
 
 Click on the Apple menu in the top left corner of your desktop. From the resulting pop-up menu, click System Preferences.
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484940/16446" target="_top" id="1484940">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484940" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484940/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 2\. Access Notifications & Focus
 
@@ -46,19 +46,6 @@ In the System Preferences window (**Figure 1**), click Notifications & Focus.
 **Figure 1:** The Notifications & Focus entry in System Preferences.
 
 Image: Jack Wallen
-
-<!-- affiliate ads begin -->
-<span id="1304647">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1304647.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1304647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304647%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304647/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 3\. Open the Focus tab
 
@@ -69,10 +56,10 @@ Once Notifications & Focus is opened, click the Focus tab (**Figure 2**).
 Image: Jack Wallen
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925468/19272" target="_top" id="1925468">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925468" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://arkmc.pxf.io/c/5597632/352555/5172" target="_top" id="352555">
+  <img src="//a.impactradius-go.com/display-ad/5172-352555" border="0" alt="https://techidaily.com" width="720" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925468/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352555/5172" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 4\. Create the new Focus
@@ -92,10 +79,10 @@ Image: Jack Wallen
 After naming and selecting a color/icon, click Add to save the new Focus.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151871/7443" target="_top" id="2151871">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151871" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094483/7443" target="_top" id="2094483">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094483" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151871/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094483/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 5\. Allowing specific notifications
@@ -111,6 +98,13 @@ From the pop-up list, select the contact(s) you want to be allowed to interrupt 
 **Figure 6:** Adding contacts to a Focus in macOS Monterey.
 
 Image: Jack Wallen
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135416/19272" target="_top" id="2135416">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135416" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135416/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 6\. Set the Focus to be enabled
 
@@ -154,16 +148,20 @@ Use this new Focus feature wisely, and it will help you be more productive while
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-most-shared-moments-socials-star-vids-for-2024/"><u>[New] Most Shared Moments Social's Star Vids for 2024</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/new-top-20-tiktok-anthems-discovering-todays-hip-hop-stars/"><u>[New] Top 20 TikTok Anthems Discovering Today’s Hip-Hop Stars</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-skyrocket-views-mastery-of-title-and-tag-optimization/"><u>[Updated] 2024 Approved Skyrocket Views Mastery of Title and Tag Optimization</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/2024-approved-lightroom-classic-learning-hub/"><u>2024 Approved Lightroom Classic Learning Hub</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/ces-202/"><u>CES 202</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/dominating-performance-benchmarks-with-the-thelio-mega-an-advanced-dual-gpu-linux-supercomputer-marvel/"><u>Dominating Performance Benchmarks with the Thelio Mega: An Advanced Dual-GPU Linux Supercomputer Marvel</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/effective-techniques-for-observing-linux-command-output-using-pv-tools/"><u>Effective Techniques for Observing Linux Command Output Using 'Pv' Tools</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/effortless-guide-cutting-and-pasting-text-across-iphone-ipad-and-mac/"><u>Effortless Guide: Cutting and Pasting Text Across iPhone, iPad & Mac</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-samsung-galaxy-a23-5g-to-mac-drfone-by-drfone-android/"><u>In 2024, How to Mirror Samsung Galaxy A23 5G to Mac? | Dr.fone</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/24-shorts-fix-completed-no-more-anxiety/"><u>In 2024, Shorts Fix Completed – No More Anxiety</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/mastering-scheduled-text-notifications-with-your-iphones-reminders-app/"><u>Mastering Scheduled Text Notifications with Your iPhone's Reminders App</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-how-to-address-and-overcome-a-youtube-content-id-issue-for-2024/"><u>[New] How to Address and Overcome a YouTube Content ID Issue for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-kiddos-best-gaming-delights-top-girls-adventures-in-2024/"><u>[New] Kiddo's Best Gaming Delights - Top Girls' Adventures, In 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-gourmet-guide-culinary-video-production/"><u>[Updated] 2024 Approved Gourmet Guide Culinary Video Production</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-create-impactful-online-ads-on-a-limited-budget/"><u>[Updated] 2024 Approved How to Create Impactful Online Ads on a Limited Budget</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-first-steps-on-the-path-equipment-for-beginners/"><u>[Updated] In 2024, First Steps on the Path Equipment for Beginners</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-biting-snippets-to-captivating-narratives-an-experts-guide-to-youtube-edits/"><u>[Updated] In 2024, From Biting Snippets to Captivating Narratives An Expert's Guide to Youtube Edits</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-harmonic-hits-top-rated-dj-template-downloads/"><u>[Updated] In 2024, Harmonic Hits Top-Rated DJ Template Downloads</u></a></li>
+<li><a href="https://win-answers.techidaily.com/effective-solutions-for-reducing-discords-excessive-cpu-use/"><u>Effective Solutions for Reducing Discord's Excessive CPU Use</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-easy-ways-to-copy-contacts-from-vivo-x90s-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Easy Ways to Copy Contacts from Vivo X90S to iPhone 14 and 15 | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-change-your-sim-pin-code-on-your-realme-narzo-60-5g-phone-by-drfone-android/"><u>In 2024, How To Change Your SIM PIN Code on Your Realme Narzo 60 5G Phone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-image-banking-securing-premium-stock-graphics/"><u>In 2024, Image Banking Securing Premium Stock Graphics</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-leading-edge-in-game-capture-moving-past-fbx-methods/"><u>In 2024, Leading Edge in Game Capture Moving Past FBX Methods</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/in-2024-vidverse-app-critique-digest/"><u>In 2024, VidVerse App Critique Digest</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/premier-platforms-to-rework-classic-ps3-titles/"><u>Premier Platforms to Rework Classic PS3 Titles</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-future-calls-unveiling-top-6-breakthroughs-with-chatgpt-code/"><u>The Future Calls: Unveiling Top 6 Breakthroughs with ChatGPT Code</u></a></li>
 </ul></div>
 

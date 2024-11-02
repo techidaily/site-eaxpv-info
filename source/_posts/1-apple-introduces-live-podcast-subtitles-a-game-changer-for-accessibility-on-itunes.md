@@ -1,7 +1,7 @@
 ---
 title: "1. Apple Introduces Live Podcast Subtitles: A Game-Changer for Accessibility on iTunes"
-date: 2024-10-10T02:11:32.646Z
-updated: 2024-10-16T05:46:39.252Z
+date: 2024-11-01T02:47:50.741Z
+updated: 2024-11-02T06:42:51.171Z
 tags:
   - apple
 categories:
@@ -45,16 +45,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<span id="1743243">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1743243.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19272-1743243">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1743243.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Faligracehair.sjv.io%2Fc%2F5597632%2F1743243%2F19272'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1743243/19272" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1925468/19272" target="_top" id="1925468">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925468" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925468/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Apple Music haptics
@@ -62,10 +56,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 For those who are deaf or hard of hearing, Apple plans to offer a Taptic Engine feature in Apple Music. When turned on, the feature will use a series of taps, vibrations, and other tactile responses to sync to a song's audio. Apple says the feature will work "across millions of songs in the Apple Music catalog."
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151856/7443" target="_top" id="2151856">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151856" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1886073/19272" target="_top" id="1886073">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886073" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151856/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886073/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Addressing motion sickness
@@ -76,18 +70,18 @@ Motion sickness in cars can often be the result of a disconnect between what you
 
 "Using sensors built into iPhone and iPad, Vehicle Motion Cues recognizes when a user is in a moving vehicle and responds accordingly," Apple said. "The feature can be set to show automatically on iPhone, or can be turned on and off in Control Center."
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100541/7443" target="_top" id="2100541">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100541" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Understanding speech
 
 A new feature called Voice Shortcuts will let you "assign custom utterances" that Apple's virtual personal assistant Siri will save. When Siri hears those utterances, it'll perform whatever action was assigned to it, including launching apps or engaging in more complex tasks on the device.
 
 Another feature, Listen for Atypical Speech, will use machine learning to understand your speech patterns and your requests on-device, Apple said. The feature "gives users an option for enhancing speech recognition for a wider range of speech," the company said.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068417/7443" target="_top" id="2068417">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068417" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068417/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### New CarPlay features
 
@@ -96,16 +90,10 @@ Apple's in-car CarPlay software is also getting new accessibility features, incl
 **Also: [iOS and Android owners will now be alerted if an unknown tracker is moving with them](https://www.zdnet.com/article/ios-and-android-owners-will-now-be-alerted-if-an-unknown-tracker-is-moving-with-them/)**
 
 <!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2100538/7443" target="_top" id="2100538">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100538" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100538/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Some other updates
@@ -142,19 +130,14 @@ Beyond those updates, Apple said that it's launching a range of smaller upgrades
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-2024-approved-avoiding-virtual-reality-nausea-tips-and-tricks/"><u>[New] 2024 Approved Avoiding Virtual Reality Nausea Tips and Tricks</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-increase-video-engagement-with-customizable-youtube-thumbnails/"><u>[New] In 2024, How to Increase Video Engagement with Customizable YouTube Thumbnails</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-free-method-to-record-your-youtube-watching-experience/"><u>[Updated] 2024 Approved Free Method to Record Your YouTube Watching Experience</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-highlighting-youtubes-creme-de-la-creme-makeup-influencers/"><u>[Updated] 2024 Approved Highlighting YouTube's Crème De La Crème Makeup Influencers</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-avoid-youtube-previews-on-all-platforms-and-devices-for-2024/"><u>[Updated] Avoid YouTube Previews on All Platforms & Devices for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-flipping-the-script-mobile-filmmaking-and-youtube-thumbnail-tricks/"><u>[Updated] In 2024, Flipping the Script Mobile Filmmaking & YouTube Thumbnail Tricks</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-gain-momentum-with-these-strategies-for-trending-youtubers/"><u>[Updated] In 2024, Gain Momentum with These Strategies for Trending YouTubers</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-interactive-insights-archive/"><u>[Updated] In 2024, Interactive Insights Archive</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-step-by-step-guide-to-find-youtube-hidden-videos/"><u>[Updated] In 2024, Step-By-Step Guide to Find YouTube Hidden Videos</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/deepcool-unveils-latest-lineup-of-innovative-coolers-power-units-and-fans-enhance-your-builds-with-stylish-pixel-silicone-accents/"><u>DeepCool Unveils Latest Lineup of Innovative Coolers, Power Units & Fans - Enhance Your Builds with Stylish Pixel Silicone Accents</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-change-realme-11-proplus-lock-screen-password-by-drfone-android/"><u>How To Change Realme 11 Pro+ Lock Screen Password?</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/how-to-use-dslr-for-facebook-live-on-you-pc-or-mac-in-2024/"><u>How to Use DSLR for Facebook Live on You PC or Mac, In 2024</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-what-legendaries-are-in-pokemon-platinum-on-apple-iphone-11-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, What Legendaries Are In Pokemon Platinum On Apple iPhone 11 Pro Max? | Dr.fone</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/to-windows-11-or-not-assessing-your-systems-compatibility/"><u>To Windows 11 or Not: Assessing Your System's Compatibility</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-finding-opportunities-where-youtube-collaborations-thrive/"><u>[New] 2024 Approved Finding Opportunities Where YouTube Collaborations Thrive</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-analyzing-freecampros-webcam-capture-quality/"><u>[New] Analyzing FreeCamPro's Webcam Capture Quality</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-from-flat-to-fantastic-animated-text-transformations-for-2024/"><u>[New] From Flat to Fantastic Animated Text Transformations for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-photos-to-feeds-selecting-the-best-9-gear-upgrades/"><u>[New] In 2024, From Photos to Feeds Selecting the Best 9 Gear Upgrades</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-watch-9-free-full-length-christmas-movies-on-youtube-for-2024/"><u>[New] Watch 9 Free Full Length Christmas Movies On YouTube for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-the-premier-selection-of-top-10-free-youtube-art-mentors-for-2024/"><u>[Updated] The Premier Selection of Top 10 Free YouTube Art Mentors for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/digitartys-winxdvd-software-guarantee-and-money-back-return-conditions/"><u>DigitArty's WinXDVD Software Guarantee & Money-Back Return Conditions</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/enhancing-your-data-analytics-with-6-innovative-uses-of-chatgpt/"><u>Enhancing Your Data Analytics with 6 Innovative Uses of ChatGPT</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-pro-tips-for-video-conference-recordings-desktop-edition/"><u>In 2024, Pro Tips for Video Conference Recordings Desktop Edition</u></a></li>
 </ul></div>
 

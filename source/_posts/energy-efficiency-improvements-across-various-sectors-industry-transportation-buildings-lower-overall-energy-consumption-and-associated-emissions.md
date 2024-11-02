@@ -1,7 +1,7 @@
 ---
 title: Energy Efficiency Improvements Across Various Sectors (Industry, Transportation, Buildings) Lower Overall Energy Consumption and Associated Emissions.
-date: 2024-10-25T16:26:19.229Z
-updated: 2024-10-27T19:17:40.492Z
+date: 2024-10-31T08:34:10.147Z
+updated: 2024-11-02T08:13:49.904Z
 tags:
   - apple
 categories:
@@ -68,6 +68,13 @@ Jason Hiner/ZDNET
 * Users can access ChatGPT via this integration for free, and OpenAI will not log their data. ChatGPT Plus users can connect their subscriptions to access more advanced features, in which case OpenAI's data usage policies apply.
 * The ChatGPT integration will be coming to iOS 18, iPadOS 18, and MacOS Sequoia later this year.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938693/19272" target="_top" id="1938693">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938693/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## iOS 18
 
 Adam Breeden/ZDNET
@@ -86,13 +93,6 @@ Adam Breeden/ZDNET
 * The **Safari app** was upgraded to include key information about a webpage. You can read more about the Safari upgrades under the MacOS section of this article.
 * The **Calendar app** can now pull from the Reminders app for a more seamless schedule overview.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135367/19272" target="_top" id="2135367">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135367" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135367/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## WatchOS 11
 
 Adam Breeden/ZDNET
@@ -107,19 +107,6 @@ Adam Breeden/ZDNET
 * **Check In** is available on Apple Watch, even during workouts, to help users stay safe. **Translate** is also coming to Apple Watch so users can translate text right from their wrists.
 * Another notable change is that the **double tap gesture** can be used to scroll through apps.
 
-<!-- affiliate ads begin -->
-<span id="1912746">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1912746.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20231-1912746">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1912746.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmindmanager.sjv.io%2Fc%2F5597632%2F1912746%2F20231'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1912746/20231" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## iPadOS 18
 
 Adam Breeden/ZDNET
@@ -131,10 +118,10 @@ Adam Breeden/ZDNET
 * iPadOS 18 supports **screen-sharing via SharePlay** and the same Control Center customizations, Photos app upgrades, Safari updates, and emoji Tapbacks found in **iOS 18.**
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137203/26400" target="_top" id="2137203">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137203" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137224/26400" target="_top" id="2137224">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137224" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137203/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137224/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## MacOS 15 (Sequoia)
@@ -147,13 +134,6 @@ Adam Breeden/ZDNET
 * **Video meetings** are also getting an upgrade, with new backgrounds and a preview experience that allows you to see what you are about to share before sharing it. This feature works with popular video conferencing applications such as FaceTime and Zoom.
 * The **AI summarization** tool will live in Safari to help users process content like web pages and articles more efficiently. Safari will also assist users in discovering more helpful information about a page they are browsing when relevant, such as directions.
 * Apple also launched a new **Viewer experience**, which does for video what Reader does for text.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036472/19272" target="_top" id="2036472">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036472" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036472/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## VisionOS 2
 
@@ -172,6 +152,13 @@ Jason Hiner/ZDNET
 * Users can **cast content** from their iPhone, iPad, or Mac to the Vision Pro using AirPlay.
 * Apple is also making the Vision Pro available in more countries starting June 28\. You can see the full list [here](https://www.apple.com/newsroom/2024/06/apple-vision-pro-arrives-in-new-countries-and-regions-beginning-june-28/).
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136618/26400" target="_top" id="2136618">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136618" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136618/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## AirPods
 
 Jason Hiner/ZDNET
@@ -179,6 +166,13 @@ Jason Hiner/ZDNET
 * AirPods Pro are getting **Voice Isolation** to enhance call quality in noisier environments.
 * With the new **Siri Interactions**, users can now **nod or shake their head** "yes" or "no" when responding to Siri.
 * Apple is also releasing a **Personalized Spatial Audio API** for game developers to build around the AirPods' audio technology.
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484950/16446" target="_top" id="1484950">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484950" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484950/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## tvOS 18
 
@@ -224,16 +218,17 @@ Screenshot by Nina Raemont/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-2024-approved-maximizing-impact-when-to-start-your-podcast/"><u>[New] 2024 Approved Maximizing Impact When to Start Your Podcast</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-compreranly-assessing-ustream-with-equivalent-sites-for-2024/"><u>[New] Compreranly Assessing Ustream with Equivalent Sites for 2024</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-audio-extraction-techniques-for-instagram-media/"><u>2024 Approved Audio Extraction Techniques for Instagram Media</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/convert-mxf-files-on-macos-top-3-methods-including-mp4-and-mov/"><u>Convert MXF Files on macOS: Top 3 Methods Including MP4 and MOV</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/cross-borders-with-cinema-a-guide-to-compatibility-for-worldwide-dvd-playback-on-various-devices/"><u>Cross Borders with Cinema: A Guide to Compatibility for Worldwide DVD Playback on Various Devices</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/exploring-4k-video-and-sound-capabilities-on-leading-tv-brands-sony-samsung-lg-and-tcl/"><u>Exploring 4K Video and Sound Capabilities on Leading TV Brands: Sony, Samsung, LG, and TCL</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/exploring-icloud-capabilities-identifying-which-files-get-safely-saved-in-icloud-backups/"><u>Exploring iCloud Capabilities: Identifying Which Files Get Safely Saved in iCloud Backups</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/in-2024-unveiling-the-elite-best-15-supports-for-gopro-cameras/"><u>In 2024, Unveiling The Elite Best 15 Supports for GoPro Cameras</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-ways-to-trade-pokemon-go-from-far-away-on-infinix-smart-7-drfone-by-drfone-virtual-android/"><u>In 2024, Ways to trade pokemon go from far away On Infinix Smart 7? | Dr.fone</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/maximize-your-iphones-potential-boost-internal-memory-by-50-with-ios-17-tricks-for-iphone-models-8-plus-and-older-versions/"><u>Maximize Your iPhone's Potential: Boost Internal Memory by 50% with iOS 17 Tricks for iPhone Models 8, Plus, and Older Versions</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/top-8-must-play-virtual-reality-titles-for-now/"><u>Top 8 Must-Play Virtual Reality Titles for Now</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-gamers-sound-showdown-the-top-5-headset-list/"><u>[New] 2024 Approved Gamers' Sound Showdown The Top 5 Headset List</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-decoding-instagram-the-technique-for-video-downloads-on-pcmac-devices/"><u>[Updated] 2024 Approved Decoding Instagram The Technique for Video Downloads on PC/Mac Devices</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-essential-fb-video-loader-apps-ranked-5/"><u>[Updated] 2024 Approved Essential FB Video Loader Apps Ranked #5</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-navigating-network-growth-strategies-for-instagram-success/"><u>[Updated] 2024 Approved Navigating Network Growth Strategies for Instagram Success</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-blur-background-of-your-youtube-video-2-easy-ways-for-2024/"><u>[Updated] How to Blur Background of Your YouTube Video - 2 Easy Ways for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-in-2024-from-dull-to-vivid-mastering-the-art-of-color-in-videos/"><u>[Updated] In 2024, From Dull to Vivid Mastering the Art of Color in Videos</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-address-and-overcome-a-youtube-content-id-issue/"><u>[Updated] In 2024, How to Address and Overcome a YouTube Content ID Issue</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-design-youtube-introductory-videos-two-pathways/"><u>[Updated] In 2024, How to Design YouTube Introductory Videos Two Pathways</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/comprehensive-analysis-of-the-garmin-forerunner/"><u>Comprehensive Analysis of the Garmin Forerunner</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/fiscal-flyers-top-5-low-cost-aerial-vehicles-for-2024/"><u>Fiscal Flyers Top 5 Low-Cost Aerial Vehicles for 2024</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-10-free-location-spoofers-to-fake-gps-location-on-your-vivo-g2-drfone-by-drfone-virtual/"><u>In 2024, 10 Free Location Spoofers to Fake GPS Location on your Vivo G2 | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-expert-review-of-powerdirector-features-and-tips/"><u>In 2024, Expert Review of PowerDirector - Features & Tips</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Discover What's New with Apple at WWDC Today - Exploring AI Advancements, Siri Innovations, and iOS 18 Features | GadgetGuru
-date: 2024-10-12T06:34:28.341Z
-updated: 2024-10-15T23:41:27.666Z
+date: 2024-10-27T01:24:18.127Z
+updated: 2024-11-02T06:02:29.531Z
 tags:
   - apple
 categories:
@@ -35,10 +35,16 @@ Here's a look at what's new for the 6th generation iPad Air.
 First up, [Apple is introducing](https://www.apple.com/ipad-air/) an all-new bigger size. While previous versions of the [iPad Air](https://www.zdnet.com/article/best-ipad/) only had a single size to choose from, this year's edition has an 11-inch size and a 13-inch size – the larger one giving you 30% more screen to work with. It makes the iPad slightly less portable, but the added real estate will certainly be worth the tradeoff for some.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012401/19272" target="_top" id="2012401">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012401" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012401/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1977028">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977028.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977028">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977028.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977028%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977028/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. An M2 chip for enhanced performance
@@ -60,10 +66,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/1995803/22899" target="_top" id="1995803">
-  <img src="//a.impactradius-go.com/display-ad/22899-1995803" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902309/19272" target="_top" id="1902309">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902309" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/1995803/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902309/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. New placement for the front camera
@@ -71,10 +77,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 It may seem minor, but the front-facing camera of the latest iPad Air is in a new spot. It's now on the landscape edge, moved from the portrait edge. Previously, you had to use the iPad in portrait mode on a video call as moving it to landscape mode distorted the picture. Now, video calls will look exactly as they do on a laptop.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118325/7443" target="_top" id="2118325">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118325" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2006919/19272" target="_top" id="2006919">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006919" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118325/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006919/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Bigger base storage
@@ -115,18 +121,20 @@ The iPad Air 6 will begin shipping next week at a starting price of [$599 for th
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-from-raw-footage-to-youtube-perfection-premiere-pro-techniques-for-2024/"><u>[New] From Raw Footage to YouTube Perfection - Premiere Pro Techniques for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-gamified-learning-educational-youtubers-to-subscribe-for-2024/"><u>[New] Gamified Learning Educational YouTubers to Subscribe for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-secrets-to-perfecting-snapchats-playback-speed-settings/"><u>[New] Secrets to Perfecting Snapchat's Playback Speed Settings</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-the-ultimate-blueprint-for-perfecting-zooms-screen-cast/"><u>[New] The Ultimate Blueprint for Perfecting Zoom's Screen Cast</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-from-streaming-video-how-to-get-youtube-thumbnail-files-onlineos-wise-for-2024/"><u>[Updated] From Streaming Video How to Get YouTube Thumbnail Files Online/OS-Wise for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-giggles-in-the-garage-ingenious-funny-video-concepts-for-youtubers/"><u>[Updated] In 2024, Giggles in the Garage Ingenious Funny Video Concepts for YouTubers</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-insert-youtube-playlists-seamlessly-into-a-website/"><u>[Updated] In 2024, How to Insert YouTube Playlists Seamlessly Into a Website</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/2024-approved-elevate-your-biz-game-youtube-channels-that-succeeded/"><u>2024 Approved Elevate Your Biz Game YouTube Channels That Succeeded</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/2024-approved-streamlining-your-figma-project-eliminate-the-unwanted-background/"><u>2024 Approved Streamlining Your Figma Project Eliminate the Unwanted Background</u></a></li>
-<li><a href="https://techtrends.techidaily.com/convertir-musica-de-ape-a-aac-facilmente-y-gratuitamente-mediante-el-servicio-en-linea-de-movavi/"><u>Convertir Música De APE a AAC Fácilmente Y Gratuitamente Mediante El Servicio en Línea De Movavi</u></a></li>
-<li><a href="https://article-files.techidaily.com/in-2024-lgs-ultrafine-masterpiece-an-exhaustive-monitoring-guide/"><u>In 2024, LG's UltraFine Masterpiece An Exhaustive Monitoring Guide</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/unveiling-the-oneplus-nord-n10-5g-a-budget-marvel-you-cant-overlook/"><u>Unveiling the OnePlus Nord N10 5G: A Budget Marvel You Can't Overlook</u></a></li>
-<li><a href="https://program-issues.techidaily.com/world-of-sea-clashes-overcome-crashing-wow-problems-with-these-5-swift-fixes-for-your-desktop-gaming-adventure/"><u>World of Sea Clashes - Overcome 'Crashing' WoW Problems with These 5 Swift Fixes for Your Desktop Gaming Adventure</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-from-tape-to-trending-seamless-mp3-to-youtube-transition-for-2024/"><u>[New] From Tape to Trending Seamless MP3 to YouTube Transition for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-how-to-re-watch-lost-youtube-scenes-online-simple-steps-for-2024/"><u>[New] How to Re-Watch Lost YouTube Scenes Online Simple Steps for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-make-a-youtube-trailer-by-filmora/"><u>[New] In 2024, How to Make a YouTube Trailer by Filmora</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-make-collab-videos-and-grow-your-channel/"><u>[New] In 2024, How to Make Collab Videos and Grow Your Channel?</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-flawless-footage-with-best-stabilizer-brands/"><u>[Updated] In 2024, Flawless Footage with Best Stabilizer Brands</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-free-online-webinar-conduct-with-youtube/"><u>[Updated] In 2024, Free Online Webinar Conduct with YouTube</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-unleash-creative-potential-at-no-expense-dive-into-the-world-of-green-screen-with-free-lessons-from-youtube-channels/"><u>[Updated] Unleash Creative Potential at No Expense Dive Into the World of Green Screen with Free Lessons From YouTube Channels</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-transform-conference-dynamics-altering-backgrounds-on-chrome/"><u>2024 Approved Transform Conference Dynamics Altering Backgrounds on Chrome</u></a></li>
+<li><a href="https://discover-blog.techidaily.com/doxio-and-abbyy-transformer-votre-management-de-fichiers-en-une-experience-innovante/"><u>Doxio & ABBYY: Transformer Votre Management De Fichiers en Une Expérience Innovante</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fix-your-call-of-duty-wwii-black-screen-glitch-on-a-windows-system/"><u>Fix Your Call of Duty: WWII Black Screen Glitch on a Windows System</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-reset-your-vivo-s18-lock-screen-password-by-drfone-android/"><u>How to Reset your Vivo S18 Lock Screen Password</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-itel-a05s-to-laptop-without-usb-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Itel A05s to Laptop Without USB | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-stolen-iphone-11-pro-in-different-conditionsin-by-drfone-ios/"><u>How To Unlock Stolen iPhone 11 Pro In Different Conditionsin</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-guide-to-repairing-google-hangouts-microphone-problems/"><u>Step-by-Step Guide to Repairing Google Hangouts Microphone Problems</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-in-2024-unleash-your-creativity-top-5-hand-drawing-whiteboard-animation-software/"><u>Updated In 2024, Unleash Your Creativity Top 5 Hand Drawing Whiteboard Animation Software</u></a></li>
 </ul></div>
 

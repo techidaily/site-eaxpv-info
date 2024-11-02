@@ -1,7 +1,7 @@
 ---
 title: "How to Upgrade to iOS N18: Installation Guide & Eligible iPhones | Latest Update Covered"
-date: 2024-10-26T17:01:58.864Z
-updated: 2024-10-27T16:56:48.129Z
+date: 2024-10-26T07:18:06.907Z
+updated: 2024-11-02T07:24:33.088Z
 tags:
   - apple
 categories:
@@ -32,27 +32,20 @@ Jason Hiner/ZDNET
 
 **What you need:** An iPhone running iOS 16.5 or later. Since not all iPhones are compatible with iOS 18, you'll also need a model [newer than the iPhone X](https://www.zdnet.com/article/best-iphone/).
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135415/19272" target="_top" id="2135415">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135415" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135415/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 1\. Go to General in your iPhone Settings
 
 Go to your iPhone's Settings and select General. 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115932/19272" target="_top" id="2115932">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115932" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Go to Software Update in Settings
 
 Within General, tap on Software Update. This will show you if the iOS 18 update is available for you to download.
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139114/17108" target="_top" id="2139114">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139114" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139114/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 3\. Download and install
 
@@ -70,6 +63,13 @@ After installing the latest iOS update, your iPhone will restart.
 
 Apple Intelligence, featuring the company's AI tools, will begin to roll out for compatible iPhones over the next few weeks, with more features to join in the coming months. This slew of AI features will be available on the iPhone 16 lineup and the iPhones 15 Pro and Pro Max.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997675/19272" target="_top" id="1997675">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997675" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997675/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### When was iOS 18 released?
 
 Apple released the iOS 18 developer beta during WWDC 2024 in June, and the public beta version was released on July 15\. The general release of iOS 18 is September 16.
@@ -77,10 +77,10 @@ Apple released the iOS 18 developer beta during WWDC 2024 in June, and the publi
 **Also: [The best iOS 18 features that will make updating your iPhone worthwhile](https://www.zdnet.com/article/the-best-ios-18-features-that-will-make-updating-your-iphone-worthwhile/)**
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135375/19272" target="_top" id="2135375">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135375" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1896527/19272" target="_top" id="1896527">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896527" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135375/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896527/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Can you still download the iOS 18 public beta?
@@ -102,6 +102,13 @@ You'll need an iPhone running iOS 16.5 or later. Since not all iPhones are compa
 
 Screenshot: Maria Diaz/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136619/26400" target="_top" id="2136619">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136619" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136619/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### How to download the iOS 18 developer beta?
 
 To download the iOS 18 developer beta version, navigate to your settings to install the iOS 18 developer beta if your device runs iOS 16.4 and is used with an Apple ID enrolled in the Apple Developer Program:
@@ -117,13 +124,6 @@ If you can't see this option, go to your **Settings,** select **Privacy & Securi
 **Also: [How to use and customize your iPhone's new Control Center with iOS 18](https://www.zdnet.com/article/how-to-use-and-customize-your-iphones-new-control-center-with-ios-18/)**
 
 If you aren't already a member of the Apple Developer Program, you can sign up to become one in the app. An annual membership costs $99.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975836/19272" target="_top" id="1975836">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975836" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975836/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### What is in iOS 18 beta 3?
 
@@ -169,18 +169,19 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-recording-made-simple-a-compreenasite-for-capturing-netflix-content/"><u>[New] 2024 Approved Recording Made Simple A Compreenasite for Capturing Netflix Content</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/new-from-script-to-sound-crafting-captivating-podcast-episodes/"><u>[New] From Script to Sound Crafting Captivating Podcast Episodes</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-unlocking-gopro-potential-model-by-model-insight-for-2024/"><u>[New] Unlocking Gopro Potential Model By Model Insight for 2024</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-melody-matrix-tips-and-tricks-for-social-media-sounds/"><u>[Updated] 2024 Approved Melody Matrix Tips and Tricks for Social Media Sounds</u></a></li>
-<li><a href="https://location-fake.techidaily.com/8-solutions-to-fix-find-my-friends-location-not-available-on-infinix-smart-8-drfone-by-drfone-virtual-android/"><u>8 Solutions to Fix Find My Friends Location Not Available On Infinix Smart 8 | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-5-tracking-apps-to-track-oppo-find-n3-flip-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, Top 5 Tracking Apps to Track Oppo Find N3 Flip without Them Knowing | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/proven-ways-to-fix-there-was-a-problem-parsing-the-package-on-oppo-a1-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Proven Ways to Fix There Was A Problem Parsing the Package on Oppo A1 5G | Dr.fone</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/resolving-common-troubleshooting-issues-in-windows-11-and-10-a-step-by-step-guide/"><u>Resolving Common Troubleshooting Issues in Windows 11 & 10: A Step-by-Step Guide</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/step-by-step-guide-fresh-installation-of-nvidia-and-amd-graphic-card-drivers/"><u>Step-by-Step Guide: Fresh Installation of NVIDIA and AMD Graphic Card Drivers</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/step-by-step-guide-setting-up-and-operating-the-linux-bash-terminal-in-windows-10/"><u>Step-by-Step Guide: Setting Up & Operating the Linux Bash Terminal in Windows 10</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/step-by-step-guide-successfully-exiting-safe-mode-in-windows-10/"><u>Step-by-Step Guide: Successfully Exiting Safe Mode in Windows 10</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/ultimate-tech-showdown-toms-hardware-comprehensive-analyses/"><u>Ultimate Tech Showdown: Tom's Hardware Comprehensive Analyses</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/windows-and-mac-ai-ai-10/"><u>Windows & Mac에 대한 AI 비디오 가이드: 최신 AI 인핸서 10명 무료 제공</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-crop-circles-the-essential-list-of-farming-games/"><u>[New] Crop Circles The Essential List of Farming Games</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-best-mic-matches-for-video-editors/"><u>[New] In 2024, Best Mic Matches for Video Editors</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-fitness-through-yoga-youtube-channel-hits-list/"><u>[New] In 2024, Fitness Through Yoga YouTube Channel Hits List</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-mastering-youtube-stat-tracking-essentials/"><u>[New] Mastering YouTube Stat Tracking Essentials</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-frame-by-frame-the-smartphone-storytellers-path-to-youtubes-thumbnails/"><u>[Updated] 2024 Approved Frame by Frame The Smartphone Storyteller's Path to YouTubes Thumbnails</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-purchasing-followers-impacts-the-integrity-of-youtube-content-creators/"><u>[Updated] 2024 Approved How Purchasing Followers Impacts the Integrity of YouTube Content Creators</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-from-dull-scenes-to-dynamic-sports-highlights-for-2024/"><u>[Updated] From Dull Scenes to Dynamic Sports Highlights for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-innovate-transforming-raw-footage-into-youtube-thumbnails-via-smartphones-for-2024/"><u>[Updated] How to Innovate Transforming Raw Footage Into YouTube Thumbnails via Smartphones for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-for-students-discover-the-top-10-historical-youtube-channels-now/"><u>[Updated] In 2024, For Students, Discover the Top 10 Historical YouTube Channels Now</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/approved-streamline-content-summaries-top-templates-examples/"><u>2024 Approved Streamline Content Summaries Top Templates Examples</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/all-about-factory-reset-what-is-it-and-what-it-does-to-your-oneplus-nord-ce-3-lite-5g-drfone-by-drfone-reset-android-reset-android/"><u>All About Factory Reset, What Is It and What It Does to Your OnePlus Nord CE 3 Lite 5G? | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/decoding-gpts-puzzles-nine-significant-limitations-exposed/"><u>Decoding GPT’s Puzzles: Nine Significant Limitations Exposed</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/ersetzen-sie-chronosync-kostenlos-unter-windows-die-besten-alternativen-fur-versionen-11-8-und-7-entdecken/"><u>Ersetzen Sie ChronoSync Kostenlos Unter Windows: Die Besten Alternativen Für Versionen 11, 8 Und 7 Entdecken</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-step-up-in-the-metaverse-game-with-these-critical-devices-top-7/"><u>In 2024, Step Up in the Metaverse Game with These Critical Devices (Top 7)</u></a></li>
 </ul></div>
 

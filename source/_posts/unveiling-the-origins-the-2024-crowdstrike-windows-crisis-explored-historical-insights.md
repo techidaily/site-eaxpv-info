@@ -1,7 +1,7 @@
 ---
 title: "Unveiling the Origins: The 2024 CrowdStrike Windows Crisis Explored - Historical Insights"
-date: 2024-10-24T17:28:53.790Z
-updated: 2024-10-27T17:15:36.983Z
+date: 2024-10-30T02:34:03.899Z
+updated: 2024-11-01T20:59:13.955Z
 tags:
   - apple
 categories:
@@ -51,10 +51,10 @@ Repairing the damage from a flaw like this is a painfully tedious process that r
 If you know anyone whose job involves administering Windows PCs in a corporate network that uses the CrowdStrike code, you can be confident they are very busy right now, and will be for days to come.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027176/19272" target="_top" id="2027176">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027176" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2098703/14409" target="_top" id="2098703">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098703" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027176/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098703/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## We've seen this movie before
@@ -94,10 +94,10 @@ In the You Can't Make This Up Department… CrowdStrike's founder and CEO, Georg
 What makes the 2024 sequel so much worse is that it also affected Windows-based servers running in the cloud, on Microsoft Azure and on AWS. Just as with the many laptops and desktop PCs that were bricked by this faulty update, the cloud-based servers require time-consuming manual interventions to recover.
 
 <!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958378/18409" target="_top" id="1958378">
-  <img src="//a.impactradius-go.com/display-ad/18409-1958378" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1959764/19272" target="_top" id="1959764">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959764" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1958378/18409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959764/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## CrowdStrike's QA failed
@@ -127,10 +127,10 @@ As part of its initial response, CrowdStrike says it plans to take additional me
 Meanwhile, the United States House of Representatives Homeland Security Committee plans to call CrowdStrike's CEO up for hearings on what went wrong, and CrowdStrike's Chief Security Officer, Shawn Henry, [posted an apology on LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7220983915421806592/), admitting "On Friday, we failed you. ... The confidence we built in drips over the years was lost in buckets within hours, and it was a gut punch."
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938698/19272" target="_top" id="1938698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938698" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1484910/16446" target="_top" id="1484910">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484910" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484910/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How much fault should Microsoft shoulder?
@@ -181,19 +181,20 @@ Nonetheless, this incident, which caused many billions of dollars' worth of dama
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-achieve-the-perfect-look-youtubes-guide-to-video-aspect-ratios/"><u>[New] 2024 Approved Achieve the Perfect Look YouTube's Guide to Video Aspect Ratios</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-actors-insight-crafting-engaging-online-reactions-on-youtube-3-pro-tips/"><u>[New] 2024 Approved Actor's Insight Crafting Engaging Online Reactions on YouTube (3 Pro Tips)</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/new-bridging-the-gap-between-classic-and-contemporary-videos/"><u>[New] Bridging the Gap Between Classic and Contemporary Videos</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-crafting-unique-content-to-differentiate-your-channel-for-2024/"><u>[New] Crafting Unique Content to Differentiate Your Channel for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-visual-ventures-partnership-playbook/"><u>[New] Visual Ventures Partnership Playbook</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-5-simplified-steps-for-sequential-youtube-video-viewing-free-for-2024/"><u>[Updated] 5 Simplified Steps for Sequential YouTube Video Viewing (Free) for 2024</u></a></li>
-<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-oneplus-nord-ce-3-5g-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your OnePlus Nord CE 3 5G Location Settings | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/gpt-the-guide-to-fantastical-quests-and-crafted-worlds/"><u>GPT, the Guide to Fantastical Quests and Crafted Worlds</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-remove-the-two-factor-authentication-on-iphone-13-pro-max-by-drfone-ios/"><u>How To Remove the Two Factor Authentication On iPhone 13 Pro Max</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-10-best-fake-gps-location-spoofers-for-apple-iphone-se-2022-drfone-by-drfone-virtual-ios/"><u>In 2024, 10 Best Fake GPS Location Spoofers for Apple iPhone SE (2022) | Dr.fone</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-new-guide-how-to-check-icloud-activation-lock-status-on-your-iphone-13-mini-by-drfone-ios/"><u>In 2024, New Guide How To Check iCloud Activation Lock Status On Your iPhone 13 mini</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/optimizing-your-strategy-for-large-scale-tiktok-video-downloads-for-2024/"><u>Optimizing Your Strategy for Large-Scale TikTok Video Downloads for 2024</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/the-experts-choice-top-10-tools-for-spotify-recordings-for-2024/"><u>The Expert's Choice Top 10 Tools for Spotify Recordings for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/unleash-the-potential-customizing-your-youtube-channel-url-for-2024/"><u>Unleash the Potential Customizing Your YouTube Channel Url for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-fast-tip-mastering-green-screen-techniques/"><u>[New] 2024 Approved Fast Tip Mastering Green Screen Techniques</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-free-professional-youtuber-backgrounds/"><u>[New] 2024 Approved Free Professional YouTuber Backgrounds</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-beyond-binary-boundaries-metaverse-vs-multiverse/"><u>[New] Beyond Binary Boundaries Metaverse V/S Multiverse</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-finding-and-exploring-your-own-music-selection-zone-on-youtube-for-2024/"><u>[New] Finding and Exploring Your Own Music Selection Zone on Youtube for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/nveiling-the-premier-online-convertors-from-youtube/"><u>[New] Unveiling the Premier Online Convertors From YouTube</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-free-youtube-subtitled-content-download-without-paying/"><u>[Updated] 2024 Approved Free YouTube Subtitled Content Download Without Paying</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-gain-an-edge-in-views-with-these-5-youtube-thumbnail-creators-for-2024/"><u>[Updated] Gain an Edge in Views with These 5 YouTube Thumbnail Creators for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-how-effective-is-sponsored-view-count-boosting-for-2024/"><u>[Updated] How Effective Is Sponsored View Count Boosting for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-finalcut-pro-101-crafting-professional-youtube-edits/"><u>[Updated] In 2024, FinalCut Pro 101 Crafting Professional YouTube Edits</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-the-binary-divide-metaverse-vs-multiverse-explained/"><u>2024 Approved The Binary Divide Metaverse Vs Multiverse Explained</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/addressing-mic-malfunctions-a-guide-for-windows-11-users-seeking-solutions/"><u>Addressing Mic Malfunctions: A Guide for Windows 11 Users Seeking Solutions</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/audio-service-outage-resolving-the-problem-for-single-or-grouped-systems-efficiently/"><u>Audio Service Outage - Resolving the Problem for Single or Grouped Systems Efficiently</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-subscription-sensation-top-10-youtube-personalities-by-counts/"><u>In 2024, Subscription Sensation Top 10 YouTube Personalities by Counts</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-what-is-a-sim-network-unlock-pin-get-your-realme-c67-5g-phone-network-ready-by-drfone-android/"><u>In 2024, What Is a SIM Network Unlock PIN? Get Your Realme C67 5G Phone Network-Ready</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/unlock-your-apple-iphone-14-pro-in-minutes-with-iccid-code-everything-you-need-to-know-by-drfone-ios/"><u>Unlock Your Apple iPhone 14 Pro in Minutes with ICCID Code Everything You Need to Know</u></a></li>
 </ul></div>
 

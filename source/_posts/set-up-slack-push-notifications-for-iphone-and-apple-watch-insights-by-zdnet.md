@@ -1,7 +1,7 @@
 ---
 title: Set Up Slack Push Notifications for iPhone and Apple Watch | Insights by ZDNet
-date: 2024-10-25T19:36:28.674Z
-updated: 2024-10-27T20:39:45.048Z
+date: 2024-10-30T17:42:27.470Z
+updated: 2024-11-02T05:39:40.964Z
 tags:
   - apple
 categories:
@@ -49,10 +49,10 @@ Here's how.
 **What you'll need:** Have the latest versions of iOS and watchOS installed on your iPhone and Apple Watch, respectively. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118314/7443" target="_top" id="2118314">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118314" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134243/18498" target="_top" id="2134243">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134243" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118314/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134243/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 1\. Install the Slack app on your iPhone
@@ -60,13 +60,6 @@ Here's how.
 There is no dedicated Slack app for the Apple Watch, but there is an iPhone app. This app controls everything about how Slack works with notifications on your phone. So, if you don't already have Slack on your iPhone, go to [the App Store and install it](https://apps.apple.com/us/app/slack/id618783545).
 
 Once it's installed, go ahead and log into your various Slack channels. Get those setup and working as you like before configuring the app for notifications.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123740/7443" target="_top" id="2123740">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123740" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123740/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 2\. Set up Slack notifications in the system settings
 
@@ -86,19 +79,6 @@ Screenshot by David Gewirtz/ZDNET
 
 Next, open the Slack app. Tap your profile image in the upper right corner of the screen. Then tap Notifications.
 
-<!-- affiliate ads begin -->
-<span id="1912746">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1912746.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20231-1912746">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1912746.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmindmanager.sjv.io%2Fc%2F5597632%2F1912746%2F20231'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1912746/20231" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##   
 
 Screenshot by David Gewirtz/ZDNET
@@ -116,6 +96,13 @@ Next, tap Notify Me on Mobile. This will give you a few options.
 Screenshot by David Gewirtz/ZDNET
 
 Set it to "Always, even when I'm active". That way, you'll always get notifications, no matter what you're doing (unless you have Do Not Disturb turned on).
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144273/7443" target="_top" id="2144273">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144273" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144273/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Set your notification schedule
 
@@ -138,10 +125,10 @@ So, make sure you set the Start and End times that fit with your schedule.
 Recommendation to Slack: Where you put the "Every day" option in that setting, add the times as well (e.g., "Every day 8 a.m. - 11 p.m."). That way, it's clear to users what they might need to change. 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137202/26400" target="_top" id="2137202">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137202" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137202/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Enable Slack notifications in the Watch app
@@ -153,6 +140,13 @@ We're almost done configuring notifications. Open the Watch app and scroll down 
 Screenshot by David Gewirtz/ZDNET
 
 There. You've set up notifications. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915830/19272" target="_top" id="1915830">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915830" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915830/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  6\. Use the Watch to get Slack notifications
 
@@ -193,18 +187,24 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-from-novice-to-pro-building-an-insta-highlight-showcase/"><u>[New] In 2024, From Novice to Pro Building an Insta Highlight Showcase</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-best-yt-storytellers-for-enthralling-viewing-experience-for-2024/"><u>[Updated] Best YT Storytellers for Enthralling Viewing Experience for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-converting-spotify-playlist-content-for-youtube-music-compatibility-for-2024/"><u>[Updated] Converting Spotify Playlist Content for YouTube Music Compatibility for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-football-film-breakdown-premier-insights-on-youtube/"><u>[Updated] Football Film Breakdown Premier Insights on YouTube</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-tech-tip-saving-google-meets-on-phone-devices/"><u>[Updated] In 2024, Tech Tip Saving Google Meets on Phone Devices</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-navigating-algorithm-advantages-maximizing-view-count-effortlessly/"><u>[Updated] Navigating Algorithm Advantages Maximizing View Count Effortlessly</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-radiant-renderings-perfecting-video-light-quality-for-2024/"><u>[Updated] Radiant Renderings Perfecting Video Light Quality for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/arranging-your-indiana-jones-film-marathon-from-start-to-finish/"><u>Arranging Your Indiana Jones Film Marathon From Start to Finish</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/best-webp-converter-how-to-convert-webp-to-jpg/"><u>Best WebP Converter How to Convert WebP to JPG</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-simple-and-effective-ways-to-change-your-country-on-youtube-app-of-your-vivo-v27e-drfone-by-drfone-virtual-android/"><u>In 2024, Simple and Effective Ways to Change Your Country on YouTube App Of your Vivo V27e | Dr.fone</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-most-loved-iphone-apps-user-favorites-and-critic-picks-for-2024/"><u>New Most Loved iPhone Apps User Favorites and Critic Picks for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/subscribe-bonanza-thousands-acquired-for-just-5-for-2024/"><u>Subscribe Bonanza Thousands Acquired for Just $5 for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/the-ultimate-guide-achieving-professional-sound-without-a-mic-for-2024/"><u>The Ultimate Guide Achieving Professional Sound without a Mic for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-global-streaming-giants-face-off-facebook-live-youtube-live-periscope/"><u>[New] 2024 Approved Global Streaming Giants' Face-Off Facebook Live, YouTube Live, Periscope</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-avoid-and-reverse-strikes-on-your-youtube-channel/"><u>[New] 2024 Approved How to Avoid and Reverse Strikes on Your YouTube Channel</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-fresh-alternative-films-to-dive-into-7-favorites/"><u>[New] In 2024, Fresh Alternative Films to Dive Into, #7 Favorites</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-rediscover-the-past-watching-youtubes-lost-footage/"><u>[New] In 2024, How to Rediscover the Past Watching Youtube's Lost Footage</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/n-2024-top-10-gaming-youtubers-you-should-know/"><u>[New] In 2024, Top 10 Gaming YouTubers You Should Know</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-interest-to-action-formulating-video-topics-with-google-trends/"><u>[Updated] 2024 Approved From Interest to Action Formulating Video Topics with Google Trends</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-hit-the-jackpot-of-humor-craft-top-tier-youtube-reaction-videos-3-techniques-for-2024/"><u>[Updated] Hit the Jackpot of Humor – Craft Top-Tier YouTube Reaction Videos (3 Techniques) for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-blur-background-of-your-youtube-video-for-2024/"><u>[Updated] How to Blur Background of Your YouTube Video for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-flip-it-right-youtube-video-retrospectives-with-tips/"><u>[Updated] In 2024, Flip It Right YouTube Video Retrospectives (With Tips!)</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-beauty-brows-to-perfect-portraits-crafting-your-cosmetic-chanel/"><u>[Updated] In 2024, From Beauty Brows to Perfect Portraits Crafting Your Cosmetic Chanel</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/2024-approved-easily-erase-identity-blurring-techniques-in-videos/"><u>2024 Approved Easily Erase Identity Blurring Techniques in Videos</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-mastery-in-free-graphics-top-online-resource-directory/"><u>2024 Approved Mastery in FREE Graphics Top Online Resource Directory</u></a></li>
+<li><a href="https://extra-information.techidaily.com/ar-merging-physical-and-fictional-worlds/"><u>AR Merging Physical and Fictional Worlds</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/how-i-reconnected-my-laptop-and-tv-with-hdmi/"><u>How I Reconnected My Laptop and TV with HDMI</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-simulate-gps-movement-in-ar-games-on-motorola-moto-g73-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Simulate GPS Movement in AR games On Motorola Moto G73 5G? | Dr.fone</u></a></li>
+<li><a href="https://article-posts.techidaily.com/in-2024-the-ultimate-ipad-slow-motion-techniques-for-filming-and-video-modification/"><u>In 2024, The Ultimate iPad Slow Motion Techniques for Filming and Video Modification</u></a></li>
+<li><a href="https://win11.techidaily.com/making-sense-of-device-interconnectivity-with-nearby/"><u>Making Sense of Device Interconnectivity with Nearby</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/prioritizing-features-how-to-make-an-informed-deceision-on-video-recording-devices/"><u>Prioritizing Features: How to Make an Informed Deceision on Video Recording Devices</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/steps-to-correct-the-not-detected-ssleay32dll-error-on-pc/"><u>Steps to Correct the 'Not Detected' Ssleay32.dll Error on PC</u></a></li>
 </ul></div>
 

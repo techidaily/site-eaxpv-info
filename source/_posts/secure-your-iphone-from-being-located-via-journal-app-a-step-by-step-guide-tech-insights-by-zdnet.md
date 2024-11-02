@@ -1,7 +1,7 @@
 ---
 title: "Secure Your iPhone From Being Located via Journal App: A Step-by-Step Guide | Tech Insights by ZDNET"
-date: 2024-10-17T22:58:16.635Z
-updated: 2024-10-21T18:51:34.726Z
+date: 2024-10-30T07:06:00.011Z
+updated: 2024-11-01T18:40:01.417Z
 tags:
   - apple
 categories:
@@ -24,29 +24,22 @@ Using a computer to back up your phone won't cost you a monthly iCloud membershi
 
 ## Here's how to back up your iPhone with iCloud
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105859/7443" target="_top" id="2105859">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105859/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Step 1: Go to settings and tap on your name at the top
 
 Image: Maria Diaz / ZDNet
 
 This option gives you access to your Apple ID, iCloud, and Purchases settings. 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068432/7443" target="_top" id="2068432">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068432" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068432/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Step 2: Tap on iCloud
 
 Image: Maria Diaz / ZDNet
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068433/7443" target="_top" id="2068433">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068433" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068433/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Step 3: Go to iCloud Backup
 
@@ -61,10 +54,10 @@ Tap on the toggle to enable iCloud backups, and **Back Up Now** will appear, sel
 5GB is not enough for a lot of us, especially if you've never backed up your iPhone. But you can choose what gets backed up to reduce the amount of data to upload to iCloud or buy more storage. If you're still over the limit and don't want to pay for a membership, then you can back up to a computer.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052059/7443" target="_top" id="2052059">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052059" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/999558/11832" target="_top" id="999558">
+  <img src="//a.impactradius-go.com/display-ad/11832-999558" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052059/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/999558/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Here's how to back up your iPhone on a Mac
@@ -79,6 +72,19 @@ Image: Maria Diaz / ZDNet
 
 Gone are the days when iTunes was the go-to to get data out of your iPhone. Open **Finder** to view your iPhone in **Locations,** and there will be a snapshot of the current storage information, current iOS and any updates, and backup options.
 
+<!-- affiliate ads begin -->
+<span id="1444782">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1444782.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1444782">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1444782.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1444782%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1444782/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Step 3: Select Back up to this Mac and click on Back Up Now
 
 Image: Maria Diaz / ZDNet
@@ -86,13 +92,6 @@ Image: Maria Diaz / ZDNet
 Be sure to select **Back up all of the data on your iPhone to this Mac** before clicking on **Back Up Now**.
 
 Creating a backup could take a few minutes or a couple of hours, depending on how much data you have to back up. Mine took a little over an hour, but I hadn't backed up my iPhone in over a year. 
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2126492/26400" target="_top" id="2126492">
-  <img src="//a.impactradius-go.com/display-ad/26400-2126492" border="0" alt="https://techidaily.com" width="640" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126492/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How much does iCloud cost?
 
@@ -108,6 +107,13 @@ Here are the [different plans iCloud offers](https://apple.sjv.io/c/159047/43503
 ## Is it better to back up iPhone on a computer or iCloud?
 
 Both options have their pros and cons, but I personally prefer a cloud service backup. I like having my photos and videos easily accessible through an app on my phone without occupying storage space. This beats having to get into a computer to find an old photo every time I want one. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880940/19272" target="_top" id="1880940">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880940" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880940/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Do I need to back up iPhone apps?
 
@@ -149,22 +155,21 @@ There are a lot of cloud options, but it's important to make sure you're giving 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-green-screen-mastery-essential-free-lessons-from-youtubes-best-4-channels/"><u>[New] 2024 Approved Green Screen Mastery Essential Free Lessons From YouTube's Best 4 Channels</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-instaboomers-hook-your-audience-with-circular-content/"><u>[New] InstaBoomers Hook Your Audience with Circular Content</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-the-complete-guide-to-iphone-voice-memos-setup/"><u>[New] The Complete Guide to iPhone Voice Memos Setup</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-finding-your-niche-making-money-with-video-content/"><u>[Updated] 2024 Approved Finding Your Niche Making Money with Video Content</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-raw-to-refined-mastering-the-art-of-pc-video-editing-on-windows/"><u>[Updated] 2024 Approved From Raw to Refined Mastering the Art of PC Video Editing on Windows</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-finding-your-footprint-in-the-world-of-youtube-comments-for-2024/"><u>[Updated] Finding Your Footprint in the World of YouTube Comments for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-frameworks-producing-uplifting-life-journey-broadcasts-for-2024/"><u>[Updated] Frameworks Producing Uplifting Life Journey Broadcasts for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-from-playtime-to-peak-time-top-gaming-women-in-the-digital-space-for-2024/"><u>[Updated] From Playtime to Peak Time Top Gaming Women in the Digital Space for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-harness-youtubes-power-25-steps-to-prominence-and-recognition/"><u>[Updated] In 2024, Harness YouTube's Power 25 Steps to Prominence and Recognition</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-transform-your-video-calls-google-meet-on-youtube-guide/"><u>[Updated] Transform Your Video Calls Google Meet on YouTube Guide</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/enhancing-your-iphone-experience-using-chatgpt-in-conjunction-with-siri/"><u>Enhancing Your iPhone Experience: Using ChatGPT in Conjunction with Siri</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-expert-tips-for-leveraging-3d-lut-filters-in-adobe-photoshop/"><u>In 2024, Expert Tips for Leveraging 3D LUT Filters in Adobe Photoshop</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/in-2024-moziscreen-plugins-for-firefox/"><u>In 2024, MoziScreen Plugins for Firefox</u></a></li>
-<li><a href="https://blog-min.techidaily.com/reach-out-to-artistry-explore-innovative-graphic-solutions-on-digiatrys-portal/"><u>Reach Out to Artistry: Explore Innovative Graphic Solutions on Digiatry's Portal</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/resolve-qbittorrent-hang-ups-a-step-by-step-troubleshooting-tutorial/"><u>Resolve qBittorrent Hang-Ups: A Step-by-Step Troubleshooting Tutorial</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/warzone-20-not-working-try-these-7-key-repairs-for-a-smooth-gaming-experience-in-2e/"><u>Warzone 2.0 Not Working? Try These 7 Key Repairs for a Smooth Gaming Experience in 2E</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/what-pokemon-evolve-with-a-dawn-stone-for-htc-u23-pro-drfone-by-drfone-virtual-android/"><u>What Pokémon Evolve with A Dawn Stone For HTC U23 Pro? | Dr.fone</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-filmmaker-tips-youtube-trailers-using-filmora/"><u>[New] 2024 Approved Filmmaker Tips YouTube Trailers Using Filmora</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-filtering-through-youtube-talks/"><u>[New] 2024 Approved Filtering Through YouTube Talks</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-expert-advice-on-crafting-an-ideal-video-conference-room/"><u>[New] Expert Advice on Crafting an Ideal Video Conference Room</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-free-yourself-from-paywalls-with-these-subtitle-getters-for-2024/"><u>[New] Free Yourself From Paywalls with These Subtitle Getters for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-from-scripts-to-screen-making-youtube-splits-for-2024/"><u>[Updated] From Scripts to Screen Making YouTube Splits for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-high-ranking-videos-youtubes-everlasting-classics-for-2024/"><u>[Updated] High-Ranking Videos YouTube’s Everlasting Classics for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-unlock-youtubes-enigmentic-video-cache-for-2024/"><u>[Updated] How to Unlock YouTube’s Enigmentic Video Cache for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-hourly-heavy-hitters-top-ten-youtube-video-rankings-in-a-day/"><u>[Updated] In 2024, Hourly Heavy Hitters Top Ten YouTube Video Rankings in a Day</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unveil-the-subject-background-removal-techniques-in-photopea/"><u>[Updated] Unveil the Subject Background Removal Techniques in Photopea</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-periscope-broadcasts-setting-up-for-success/"><u>2024 Approved Periscope Broadcasts Setting Up for Success</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/breaking-down-non-responsive-laptop-to-tv-hdmi/"><u>Breaking Down Non-Responsive Laptop-to-TV HDMI</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-remove-phone-number-from-your-apple-id-from-your-apple-iphone-8-plus-by-drfone-ios/"><u>How To Remove Phone Number From Your Apple ID from Your Apple iPhone 8 Plus?</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-meizu-21-phone-password-without-factory-reset-by-drfone-android/"><u>How to Unlock Meizu 21 Phone Password Without Factory Reset?</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-read-this-article-to-get-a-fair-and-unbiased-guide-on-top-five-mod-editors-the-article-will-illustrate-the-features-pros-and-cons-of-each-/"><u>New 2024 Approved Read This Article to Get a Fair and Unbiased Guide on Top Five MOD Editors. The Article Will Illustrate the Features, Pros and Cons of Each of the Tools</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/top-5-free-tools-for-effortless-gif-to-video-conversion/"><u>Top 5 Free Tools for Effortless GIF-to-Video Conversion</u></a></li>
+<li><a href="https://win-able.techidaily.com/unlocking-the-secrets-to-football-manager-2022-launch-problems-solved/"><u>Unlocking the Secrets to Football Manager 2022 Launch Problems [SOLVED]</u></a></li>
 </ul></div>
 

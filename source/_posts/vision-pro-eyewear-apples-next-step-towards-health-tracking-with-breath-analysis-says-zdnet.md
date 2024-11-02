@@ -1,7 +1,7 @@
 ---
 title: "Vision Pro Eyewear: Apple's Next Step Towards Health Tracking with Breath Analysis, Says ZDNet"
-date: 2024-10-21T17:05:27.294Z
-updated: 2024-10-27T17:36:06.377Z
+date: 2024-10-28T09:24:20.982Z
+updated: 2024-11-02T14:44:27.380Z
 tags:
   - apple
 categories:
@@ -55,13 +55,6 @@ During this time, the company focused on providing viable mixed reality and VR e
 
 Essentially, Meta's focus has been on finding the sweet spot for AR and VR devices using current technology and baking that into its products. In the Quest 3, it has introduced a truly great device at a reasonably affordable price.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136624/26400" target="_top" id="2136624">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136624" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136624/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  That old Apple magic
 
 Apple, on the other hand, has a problem. It no longer has Steve Jobs to ruthlessly remove features and capabilities added by over-enthusiastic engineers and designers. Instead, Apple sometimes has a myopic focus on being special, on producing something "magic." 
@@ -89,13 +82,6 @@ Bloomberg's Gurman believes Apple is more willing to kill products now than it h
 
 His inference is that it's possible Apple will lose patience with the slow progress of the Vision Pro and kill it off, although he says his sources claim the company is more focused on introducing a cost-cut Vision device that off-loads the processing to a tethered iPhone or Mac. 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915805/19272" target="_top" id="1915805">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915805" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915805/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Think different?
 
 For Apple to be able to move forward with the Vision Pro, it must answer one simple question: Why should I buy this thing? 
@@ -116,6 +102,13 @@ The virtual Mac screen the Vision Pro now offers doesn't add much. But being abl
 
 There are always reasons for delays. It's certainly possible the company hit technical hurdles. But perhaps it could have moved resources over from circus sideshow projects like converting 2D photos into 3D photos -- a feature _no one_ will use as a justification to buy a Vision Pro -- into something that could and will provide real, tangible value and even a justification for the high purchase price. 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948909/19272" target="_top" id="1948909">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948909" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948909/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  A Vision for the rest of us
 
 Right now, the Quest 3 is the [spatial computing](https://www.zdnet.com/article/what-is-spatial-computing-and-how-does-it-work/) headset for the rest of us. While head-mounted displays are still a challenging sell, the Quest 3 offers enough compelling value ([especially as a theatre-sized Netflix player](https://www.zdnet.com/article/netflix-is-now-meta-quest-3s-killer-app-thanks-to-these-two-new-modes/)) to make it the mainstream, easy-to-adopt solution. 
@@ -130,6 +123,13 @@ In other words, for the Vision to be successful, it has to stop fooling around a
 
 So what, beyond shipping useful software like the ultra-wide Mac display, needs to factor into that probably elusive Apple mindset change? Three things. 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918714/19272" target="_top" id="1918714">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918714" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918714/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. Give the Vision a controller
 
 VisionOS 2 has made some improvements. Beyond a trackpad, the new OS version (coming this fall) will support a mouse for pointing. It will also allow some form of keyboard passthrough, even in immersive environments, enabling you to see your keyboard. 
@@ -141,10 +141,10 @@ The eye tracking and hand gestures interface that are the primary means of opera
 You can see this in action with the [Puzzling Places game](https://www.meta.com/experiences/3931148300302917/). On the Quest 3, the game provides a much richer interface than on the Vision Pro. That's because it's much easier to navigate objects in the 3D space using the Quest controllers. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934142/19272" target="_top" id="1934142">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934142" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1584040/17916" target="_top" id="1584040">
+  <img src="//a.impactradius-go.com/display-ad/17916-1584040" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934142/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1584040/17916" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Stay away from cable tethering
@@ -158,13 +158,6 @@ Just the absence of the Vision Pro battery and its tether to manage makes the Qu
 The idea that a future Vision device might need to be physically tethered to an iPhone to work would be a joy killer, especially when the Quest 3 doesn't have such an annoyance. 
 
 There might be one compromise, which is to wirelessly offload some processing to an iPhone, similar to the symbiotic relationship the Apple Watch has with the iPhone. That could work. 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118305/7443" target="_top" id="2118305">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118305" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118305/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 3\. Make a tough margin decision
 
@@ -185,6 +178,13 @@ Think about that. If the Quest 3 is sold for $500, retailers like Amazon are lik
 **Also: [Who's afraid of VR? I was - until I tried Meta Quest 3](https://www.zdnet.com/article/whos-afraid-of-vr-i-was-until-i-tried-meta-quest-3/)**
 
 Apple, by contrast, is making a fairly predictable margin on the Vision Pro, which is why the price is so high by comparison. Apple does have some cost-cutting options (display, chips, assembly, structure, and lenses), but if Facebook is competing at a loss, that puts Apple into the uncomfortable position of also taking a per-unit COGS loss or pricing well higher than the current market leader. 
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139122/17108" target="_top" id="2139122">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139122" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139122/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Looking towards the future
 
@@ -235,22 +235,17 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-exploring-vlogging-selecting-the-best-cameras-and-lenses/"><u>[New] 2024 Approved Exploring Vlogging Selecting the Best Cameras & Lenses</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-fresh-to-famous-elevating-your-channels-views-and-youtube-subs/"><u>[New] 2024 Approved From Fresh to Famous Elevating Your Channels Views & Youtube Subs</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/024-approved-top-9-camera-extras-for-professional-level-vlogging-on-smartphones/"><u>[New] 2024 Approved Top 9 Camera Extras for Professional-Level Vlogging on Smartphones</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-masterful-voice-modification-tools-for-smartphones/"><u>[New] In 2024, Masterful Voice Modification Tools for Smartphones</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-mastering-quick-video-pace-adjustments-on-youtube/"><u>[New] Mastering Quick Video Pace Adjustments on YouTube</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-mastering-youtubes-sound-enhancement-techniques/"><u>[New] Mastering YouTube's Sound Enhancement Techniques</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-turn-mundane-games-into-epic-scenes/"><u>[Updated] 2024 Approved How to Turn Mundane Games Into Epic Scenes</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-best-free-downloaders-download-youtube-thumbnail-for-freeonlinewinmac-for-2024/"><u>[Updated] Best Free Downloaders Download YouTube Thumbnail for Free [Online/Win/Mac] for 2024</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-streamlining-social-media-posts-with-srt-file-integration-tips/"><u>2024 Approved Streamlining Social Media Posts with SRT File Integration Tips</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-ultimate-undertaking-decoding-digital-picture-resolutions/"><u>2024 Approved Ultimate Undertaking Decoding Digital Picture Resolutions</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/framefinesse-optimizing-visuals-on-instagram/"><u>FrameFinesse Optimizing Visuals on Instagram</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-turn-off-find-my-apple-iphone-13-when-phone-is-broken-by-drfone-ios/"><u>In 2024, How to Turn Off Find My Apple iPhone 13 when Phone is Broken?</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-ipogo-will-be-the-new-ispoofer-on-asus-rog-phone-8-drfone-by-drfone-virtual-android/"><u>In 2024, iPogo will be the new iSpoofer On Asus ROG Phone 8? | Dr.fone</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/the-8-best-authentic-youtube-growth-tactics-for-2024/"><u>The 8 Best Authentic Youtube Growth Tactics for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/the-art-of-youtube-management-by-studio-techniques-for-2024/"><u>The Art of YouTube Management by Studio Techniques for 2024</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/1-strategies-for-boosting-your-youtube-videos-visibility-for-2024/"><u>Top 11 Strategies for Boosting Your YouTube Videos' Visibility for 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/windows-screencast-champions-revealed-for-2024/"><u>Windows Screencast Champions Revealed for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-10plus-top-tips-for-accessing-the-best-of-international-cricket-online-for-2024/"><u>[New] 10+ Top Tips for Accessing the Best of International Cricket Online for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-bright-futures-in-film-revolutionary-setup-tips/"><u>[New] Bright Futures in Film Revolutionary Setup Tips</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-best-entry-level-camera-reviews-2024-for-beginners/"><u>[Updated] Best Entry-Level Camera Reviews 2024 | for Beginners</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-novice-cinematographers-initial-work-analysis-and-replacements/"><u>2024 Approved Novice Cinematographer's Initial Work Analysis & Replacements</u></a></li>
+<li><a href="https://fake-location.techidaily.com/does-life360-notify-when-you-log-out-on-samsung-galaxy-a14-5g-drfone-by-drfone-virtual-android/"><u>Does Life360 Notify When You Log Out On Samsung Galaxy A14 5G? | Dr.fone</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/explore-the-upgraded-evolution-of-apples-airpod-lineup-the-4-most-notable-features-revealed/"><u>Explore the Upgraded Evolution of Apple's AirPod Lineup - The 4 Most Notable Features Revealed</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/fast-charging-revolution-how-esrs-latest-qi2-magsafe-accessories-accelerate-iphone-14plus-charge-time-and-reduce-overheating-insights-from-zdnet/"><u>Fast-Charging Revolution: How ESR's Latest Qi2 MagSafe Accessories Accelerate iPhone 14+ Charge Time and Reduce Overheating - Insights From ZDNet</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/iphone-16-pro-unveiled-discover-the-ultimate-5-selling-points-for-gadget-aficionados/"><u>IPhone 16 Pro Unveiled: Discover the Ultimate 5 Selling Points for Gadget Aficionados</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-airpods-launch-date-revealed-insights-pre-order-tips-and-anticipated-features-covered-by-zdnet/"><u>New AirPods Launch Date Revealed: Insights, Pre-Order Tips, and Anticipated Features Covered by ZDNET</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/the-ultimate-guide-to-the-ideal-apple-band-selection-comprehensive-reviews-by-tech-gurus-zdnet/"><u>The Ultimate Guide to the Ideal Apple Band Selection – Comprehensive Reviews by Tech Gurus | ZDNET</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/tips-for-prolonging-gopros-energy-stamina-for-2024/"><u>Tips for Prolonging GoPro's Energy Stamina for 2024</u></a></li>
+<li><a href="https://ai-video.techidaily.com/updated-step-by-step-guide-how-to-translate-tiktok-videos/"><u>Updated Step-by-Step Guide How to Translate TikTok Videos</u></a></li>
 </ul></div>
 

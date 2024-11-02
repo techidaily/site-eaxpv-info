@@ -1,7 +1,7 @@
 ---
 title: "1. Apple's Latest Innovation: Exploring Enhancements in the New 3Rd Gen AirPods - A Comprehensive ZDNet Review"
-date: 2024-10-23T20:26:56.943Z
-updated: 2024-10-27T19:20:18.696Z
+date: 2024-10-27T06:01:35.217Z
+updated: 2024-11-02T03:56:51.488Z
 tags:
   - apple
 categories:
@@ -55,13 +55,6 @@ Aside from these AI features, iOS 18 will include new customizable icons and int
 
 **Also: [Forget LastPass: Apple unveils 'Passwords' manager app at WWDC 2024](https://www.zdnet.com/article/forget-lastpass-apple-unveils-passwords-manager-app-at-wwdc-2024/)**
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144271/7443" target="_top" id="2144271">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144271" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144271/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Is Siri getting an Apple Intelligence makeover?
 
 Apple
@@ -79,10 +72,10 @@ The voice assistant will also be able to perform hundreds of new actions across 
 Apple is also upgrading Siri to understand text, allowing users to type or speak to Siri as needed. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111982/7443" target="_top" id="2111982">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111982" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902289/19272" target="_top" id="1902289">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902289" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111982/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902289/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## What's new in Apple's photo editing & search?
@@ -121,6 +114,13 @@ In the Notes app, for example, a new tool called Image Wand will let you circle 
 
 Image Playground will be available in beta this fall, and some features will be released over the next year.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105859/7443" target="_top" id="2105859">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105859/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Is ChatGPT coming to iPhone, iPad, and Mac?
 
 Apple
@@ -132,6 +132,13 @@ When users make a Siri request that the voice assistant determines would be bett
 **Also: [Apple finally gave us the iPad app we've waited 14 years for at WWDC 2024](https://www.zdnet.com/article/apple-finally-gave-us-the-ipad-app-weve-waited-14-years-for-at-wwdc-2024/)**
 
 Apple says its ChatGPT integration has privacy protections in place, with obscured IP addresses and no request storage by OpenAI. ChatGPT on iPhone, iPad, and Mac will be free to use, provided the device is compatible with the latest operating system. [Paying ChatGPT users](https://www.zdnet.com/article/chatgpt-vs-chatgpt-plus-is-a-paid-subscription-still-worth-it/) will get access to additional Plus features.
+
+<!-- affiliate ads begin -->
+<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1838960/17916" target="_top" id="1838960">
+  <img src="//a.impactradius-go.com/display-ad/17916-1838960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1838960/17916" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Will Apple Intelligence be processed on-device or in the cloud?
 
@@ -149,13 +156,6 @@ Apple is leveraging what it calls Private Cloud Compute for complex tasks that r
 
 Depending on its complexity and system requirements, an algorithm will determine whether a task requiring AI should be processed on-device or offloaded to the cloud. Simpler tasks like a Siri request and other basic NLP tasks can be processed on-device. More complex tasks, like generating a detailed summary of a large document, will be sent to the cloud, where more robust processing can occur. 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037358/7443" target="_top" id="2037358">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037358" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037358/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Is Apple Intelligence actually private and secure?
 
 Apple
@@ -172,10 +172,10 @@ The company is striving to keep the AI features secure through several mechanism
 * **Ability to opt out:** Perhaps most importantly, users can opt-in for Apple Intelligence features, which will be introduced as beta versions as Apple works to improve its AI capabilities over time.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118326/7443" target="_top" id="2118326">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118326" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettieu.pxf.io/c/5597632/2141680/17091" target="_top" id="2141680">
+  <img src="//a.impactradius-go.com/display-ad/17091-2141680" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118326/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141680/17091" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## What are the technical requirements for Apple Intelligence?
@@ -218,22 +218,21 @@ While these AI features may help drive sales of new iPhones and Macs, as a curre
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-from-speech-to-text-a-complete-free-workshop-on-youtube-transcription-for-2024/"><u>[New] From Speech to Text A Complete, FREE Workshop on YouTube Transcription for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-growth-hacks-for-youtubers-short-form-content-boosting-view-counts-effectively-for-2024/"><u>[New] Growth Hacks for YouTuber's Short Form Content Boosting View Counts Effectively for 2024</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/new-in-2024-explore-the-best-0-image-editing-tools-on-smartphones-today/"><u>[New] In 2024, Explore the Best $0 Image Editing Tools on Smartphones Today</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-creator-to-business-transforming-your-youtube-experience/"><u>[New] In 2024, From Creator to Business Transforming Your YouTube Experience</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-convenient-method-to-design-original-shorts-thumbnails/"><u>[Updated] 2024 Approved Convenient Method to Design Original Shorts Thumbnails</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-efficiently-achieving-color-background-separation/"><u>[Updated] 2024 Approved Efficiently Achieving Color Background Separation</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-gain-traction-on-youtube-surpass-10000-viewer-count-for-affiliate-rewards/"><u>[Updated] Gain Traction on YouTube - Surpass 10,000 Viewer Count for Affiliate Rewards</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-building-buzz-strategies-for-shaping-your-unique-youtubing-image/"><u>[Updated] In 2024, Building Buzz Strategies for Shaping Your Unique YouTubing Image</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/2024-approved-youtube-communication-incorporating-fun-with-emojis/"><u>2024 Approved YouTube Communication Incorporating Fun with Emojis</u></a></li>
-<li><a href="https://ios-location-track.techidaily.com/best-anti-tracker-software-for-apple-iphone-13-pro-max-drfone-by-drfone-virtual-ios/"><u>Best Anti Tracker Software For Apple iPhone 13 Pro Max | Dr.fone</u></a></li>
-<li><a href="https://discover-docs.techidaily.com/einfache-klonierung-von-festplatten-fur-windows-server-2011-auf-hdd-und-ssd/"><u>Einfache Klonierung Von Festplatten Für Windows Server 2011 Auf HDD Und SSD</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/elevating-imagery-the-hdr-revolution-in-video-workflows/"><u>Elevating Imagery The HDR Revolution in Video Workflows</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-unlocking-laughter-in-vr-crafting-metaverse-humor/"><u>In 2024, Unlocking Laughter in VR Crafting Metaverse Humor</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ating-royalty-free-sounds-for-youtube-clips/"><u>Navigating Royalty-Free Sounds for YouTube Clips</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/overcoming-the-challenge-of-hidden-youtube-shorts-thumbnails/"><u>Overcoming the Challenge of Hidden YouTube Shorts Thumbnails</u></a></li>
-<li><a href="https://win-guides.techidaily.com/revolutionizing-digital-expansion-the-virtual-summit-on-mastering-the-art-of-growth-marketing-with-massmail-tech/"><u>Revolutionizing Digital Expansion: The Virtual Summit on Mastering the Art of Growth Marketing with MassMail Tech</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/step-by-step-tutorial-on-utilizing-onedrives-features-for-effortless-dual-computer-syncing/"><u>Step-by-Step Tutorial on Utilizing OneDrive's Features for Effortless Dual Computer Syncing</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-formatting-youtubes-auto-subscribe-page-easily/"><u>[New] 2024 Approved Formatting YouTube's Auto-Subscribe Page Easily</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-financial-insights-for-vids-how-much-do-youtubers-earn-per-sponsorship/"><u>[New] In 2024, Financial Insights for Vids How Much Do YouTubers Earn Per Sponsorship?</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-novice-to-expert-ascending-with-asmr-video-production-tactics/"><u>[New] In 2024, From Novice to Expert Ascending with ASMR Video Production Tactics</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-the-art-of-crafting-engaging-igtv-titles/"><u>[New] In 2024, The Art of Crafting Engaging IGTV Titles</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-pioneering-marketing-top-20-strategies-for-impactful-fb-video-ads-for-2024/"><u>[New] Pioneering Marketing Top 20 Strategies for Impactful FB Video Ads for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-budget-channels-to-big-brands-youtube-sponsorships-demystified/"><u>[Updated] 2024 Approved From Budget Channels to Big Brands YouTube Sponsorships Demystified</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-guide-for-effortless-youtube-playlist-downloads/"><u>[Updated] 2024 Approved How-To Guide for Effortless YouTube Playlist Downloads</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-unveiling-the-power-of-a-sturdy-tripod-in-video-content-production/"><u>[Updated] 2024 Approved Unveiling the Power of a Sturdy Tripod in Video Content Production</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-full-spectrum-review-exploring-digital-performances-evolution-for-2024/"><u>[Updated] Full Spectrum Review Exploring Digital Performance's Evolution for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-get-rid-of-youtube-ads-with-ease-on-chrome-firefox-ios-android-for-2024/"><u>[Updated] Get Rid of YouTube Ads with Ease on Chrome, Firefox, iOS, Android for 2024</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/dominate-football-games-with-our-comprehensive-fifa-19-game-analysis/"><u>Dominate Football Games with Our Comprehensive FIFA 19 Game Analysis</u></a></li>
+<li><a href="https://win-dash.techidaily.com/download-and-install-the-latest-nvidia-graphics-drivers-on-your-microsoft-surface-book/"><u>Download & Install the Latest NVIDIA Graphics Drivers on Your Microsoft Surface Book</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-delete-gmail-account-withwithout-password-on-vivo-y55s-5g-2023-by-drfone-android/"><u>In 2024, Delete Gmail Account With/Without Password On Vivo Y55s 5G (2023)</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/in-2024-iphones-role-in-creating-immersive-vr-content/"><u>In 2024, IPhone's Role in Creating Immersive VR Content</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-the-economics-of-video-promotion-platforms/"><u>In 2024, The Economics of Video Promotion Platforms</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/professional-selfies-elevating-your-online-presence/"><u>Professional Selfies Elevating Your Online Presence</u></a></li>
 </ul></div>
 

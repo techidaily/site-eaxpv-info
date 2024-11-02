@@ -1,7 +1,7 @@
 ---
 title: Apple Introduces New Remote Diagnostics Feature for iPhone 15 & M2 Mac in Latest Self-Service Repair Update
-date: 2024-10-25T19:31:08.077Z
-updated: 2024-10-27T17:40:12.194Z
+date: 2024-10-27T05:15:29.793Z
+updated: 2024-11-02T04:25:26.278Z
 tags:
   - apple
 categories:
@@ -32,44 +32,24 @@ Jason Hiner/ZDNET
 
 **What you need:** An iPhone running iOS 16.5 or later. Since not all iPhones are compatible with iOS 18, you'll also need a model [newer than the iPhone X](https://www.zdnet.com/article/best-iphone/).
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 1\. Go to General in your iPhone Settings
 
 Go to your iPhone's Settings and select General. 
-
-<!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="864" height="1296" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 2\. Go to Software Update in Settings
 
 Within General, tap on Software Update. This will show you if the iOS 18 update is available for you to download.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123508/26400" target="_top" id="2123508">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123508" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123508/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 3\. Download and install
 
 When you tap on Software Update, your iPhone will check for the latest version of iOS available. Then, you'll be able to Download and Install the new update. Your iPhone will begin the download immediately.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100527/7443" target="_top" id="2100527">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100527" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100527/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Enter your passcode and follow steps to install
 
@@ -77,18 +57,25 @@ Enter your passcode, if necessary, to authorize the installation of the new iOS 
 
 After installing the latest iOS update, your iPhone will restart.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130533/26400" target="_top" id="2130533">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130533/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## FAQs
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135373/19272" target="_top" id="2135373">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135373" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135373/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### When is Apple Intelligence coming out?
 
 Apple Intelligence, featuring the company's AI tools, will begin to roll out for compatible iPhones over the next few weeks, with more features to join in the coming months. This slew of AI features will be available on the iPhone 16 lineup and the iPhones 15 Pro and Pro Max.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896546/19272" target="_top" id="1896546">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896546" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896546/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### When was iOS 18 released?
 
@@ -114,6 +101,13 @@ You'll need an iPhone running iOS 16.5 or later. Since not all iPhones are compa
 4. Select iOS 18 Public Beta. Then you'll begin receiving automatic software updates to the latest beta version of iOS 18\. Apple currently has four beta versions of iOS: iOS 18 public beta, iOS 18 developer beta, iOS 17 public beta, and iOS 17 developer beta. These four options will soon be reduced to just the two iOS 18 variants. Once you do this, return to the previous page. If an update is available now, your iPhone will prompt you to download and install it.
 
 Screenshot: Maria Diaz/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139121/17108" target="_top" id="2139121">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139121" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139121/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### How to download the iOS 18 developer beta?
 
@@ -175,19 +169,22 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-approaches.techidaily.com/updated-unraveling-humor-in-the-funnies-of-goofy/"><u>[Updated] Unraveling Humor in 'The Funnies of Goofy'</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/beyond-imagination-celebrating-the-leading-6-in-nft-creation/"><u>Beyond Imagination Celebrating the Leading 6 in NFT Creation</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-why-your-whatsapp-location-is-not-updating-and-how-to-fix-on-xiaomi-redmi-k70e-drfone-by-drfone-virtual-android/"><u>In 2024, Why Your WhatsApp Location is Not Updating and How to Fix On Xiaomi Redmi K70E | Dr.fone</u></a></li>
-<li><a href="https://win-blog.techidaily.com/league-of-legends-connectivity-error-fixed-with-april-2024-release/"><u>League of Legends Connectivity Error Fixed with April 2024 Release</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/rising-titans-of-tiktok-motivation/"><u>Rising Titans of TikTok Motivation</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/step-back-in-time-experience-your-favorite-old-school-websites-today/"><u>Step Back in Time: Experience Your Favorite Old-School Websites Today!</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/step-by-step-guide-switching-your-browsers-default-search-provider-in-chrome/"><u>Step-by-Step Guide: Switching Your Browser's Default Search Provider in Chrome</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/step-by-step-tutorial-how-to-bypass-xiaomi-mix-fold-3-frp-by-drfone-android/"><u>Step-by-Step Tutorial How To Bypass Xiaomi Mix Fold 3 FRP</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/still-plenty-of-qr-codes-available-busting-the-misconception-about-scarcity/"><u>Still Plenty of QR Codes Available? Busting the Misconception About Scarcity</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/the-evolving-landscape-of-discords-objectives-and-features/"><u>The Evolving Landscape of Discord's Objectives and Features</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/top-8-essential-privacy-tweaks-for-your-instagram-account/"><u>Top 8 Essential Privacy Tweaks for Your Instagram Account</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/top-tech-picks-a-comprehensive-guide-to-apple-dell-and-other-leading-brands-analysis/"><u>Top Tech Picks : A Comprehensive Guide to Apple, Dell, and Other Leading Brands Analysis</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/understanding-wireguard-why-is-it-an-effective-vpn-solution/"><u>Understanding WireGuard: Why Is It an Effective VPN Solution?</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/voice-command-enhancements-for-oculus-quest-with-mondly/"><u>Voice Command Enhancements for Oculus Quest with Mondly</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-formulating-an-easy-to-use-youtube-subscriber-link/"><u>[New] 2024 Approved Formulating an Easy-to-Use YouTube Subscriber Link</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-future-fortunes-for-virtual-game-masters/"><u>[New] 2024 Approved Future Fortunes for Virtual Game Masters</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-animate-and-make-your-own-effects/"><u>[New] 2024 Approved How to Animate and Make Your Own Effects</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-use-google-trends-to-come-up-with-video-ideas/"><u>[New] 2024 Approved How to Use Google Trends to Come up with Video Ideas?</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-crafting-compelling-ad-messages-a-3-phase-copywriting-guide/"><u>[New] In 2024, Crafting Compelling Ad Messages A 3 Phase Copywriting Guide</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-raw-to-radiant-youtubes-art-of-visual-aesthetic/"><u>[New] In 2024, From Raw to Radiant Youtube's Art of Visual Aesthetic</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-navigating-the-world-of-subtitle-uploads-social-media-edition/"><u>[New] In 2024, Navigating the World of Subtitle Uploads Social Media Edition</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-a-complete-guide-to-utilizing-youtubes-adsense-for-success/"><u>[Updated] 2024 Approved A Complete Guide to Utilizing YouTube’s AdSense for Success</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-capture-the-action-easy-steps-for-overwatch-players/"><u>[Updated] 2024 Approved Capture the Action Easy Steps for Overwatch Players</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-youtube-to-studio-quality-free-converters-for-wav-format/"><u>[Updated] 2024 Approved From YouTube to Studio Quality Free Converters for WAV Format</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-flickering-fonts-2-innovative-text-techniques/"><u>[Updated] In 2024, Flickering Fonts 2 Innovative Text Techniques</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-idea-to-execution-a-comprehensive-youtube-video-guide/"><u>[Updated] In 2024, From Idea to Execution A Comprehensive YouTube Video Guide</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-mastering-bg-removal-in-figma-designs/"><u>2024 Approved Mastering BG Removal in Figma Designs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/9-reasons-to-use-the-new-outlook-app-on-windows/"><u>9 Reasons to Use the New Outlook App on Windows</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-fix-the-notorious-code-28-error-in-windows-device-manager-a-step-by-step-guide/"><u>How to Fix the Notorious 'Code 28' Error in Windows Device Manager: A Step-by-Step Guide</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-solved-move-from-oneplus-11r-to-ios-not-working-problems-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Solved Move from OnePlus 11R to iOS not Working Problems | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/integrating-gpt-into-your-pcs-os/"><u>Integrating GPT Into Your PC's OS</u></a></li>
 </ul></div>
 

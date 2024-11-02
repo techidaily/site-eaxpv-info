@@ -1,7 +1,7 @@
 ---
 title: Two Effective Methods for Updating Applications on macOS Explained
-date: 2024-10-25T20:31:16.331Z
-updated: 2024-10-27T16:53:39.641Z
+date: 2024-10-27T12:11:20.224Z
+updated: 2024-11-01T18:16:11.735Z
 tags:
   - apple
 categories:
@@ -35,10 +35,10 @@ Let me show you both approaches.
 **What you'll need:** The only things you'll need are an Apple device (a MacBook or iMac) and a valid user account on the machine. That's it. Let's get to the updates.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123730/7443" target="_top" id="2123730">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123730" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100526/7443" target="_top" id="2100526">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100526" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123730/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100526/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 1\. Open the App Store
@@ -60,10 +60,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037474/7443" target="_top" id="2037474">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037474" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2006955/19272" target="_top" id="2006955">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006955" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037474/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006955/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Update your apps
@@ -76,27 +76,20 @@ Screenshot by Jack Wallen/ZDNET
 
 Once the update is completed, close the App Store and you're done.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094421/7443" target="_top" id="2094421">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094421" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094421/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to update MacOS apps from the command line
 
 This is a bit more complicated, for two reasons: first, you have to find out what apps are available for updating, and, second -- as with Linux -- the app names are case-sensitive.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049379/7443" target="_top" id="2049379">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049379" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049379/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. Open the Terminal app
 
 To run commands, you must first open the terminal app, which can be done from the Launchpad. Click the Launchpad icon in your Dock and then type _terminal_. Click the launcher to open the Terminal app.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134221/18498" target="_top" id="2134221">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134221" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134221/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 2\. Check for available updates
 
@@ -109,6 +102,13 @@ You will be prompted for your sudo password (which is your MacOS user password).
 **Also: [How to update every Apple device (iPhone, iPad, Apple Watch, Mac, more)](https://www.zdnet.com/article/how-to-update-every-apple-device/)**
 
 The -l option stands for _list_. This will print out any available app updates and, if required, it will inform you if a restart is needed to complete any recent OS updates. If you see such a warning, make sure to do the reboot to complete the process.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886015/19272" target="_top" id="1886015">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886015" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886015/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. Update the apps
 
@@ -152,18 +152,19 @@ This is about as simple a method as you'll find to help keep your MacOS machines
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-craft-standout-videos-with-professional-free-banner-samples/"><u>[New] In 2024, Craft Standout Videos with Professional, Free Banner Samples</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-in-2024-streamlining-audio-interpretation-a-comprehensive-guide-for-google/"><u>[New] In 2024, Streamlining Audio Interpretation A Comprehensive Guide for Google</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-advanced-techniques-using-jump-cuts-effectively/"><u>[Updated] 2024 Approved Advanced Techniques Using Jump Cuts Effectively</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-boost-your-youtube-output-rapid-video-rendering-and-transfer/"><u>[Updated] 2024 Approved Boost Your YouTube Output - Rapid Video Rendering and Transfer</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-analyzing-video-platforms-vimeo-and-youtube/"><u>[Updated] In 2024, Analyzing Video Platforms Vimeo and YouTube</u></a></li>
-<li><a href="https://discover-docs.techidaily.com/comment-installez-vous-windows-sur-plusieurs-ordinateurs-simultanement/"><u>Comment Installez-Vous Windows Sur Plusieurs Ordinateurs Simultanément?</u></a></li>
-<li><a href="https://network-issues.techidaily.com/counteract-black-screen-and-recover-mouse-on-w10/"><u>Counteract Black Screen & Recover Mouse on W10</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/getting-the-msi-curio-software-up-and-running-a-comprehensive-guide/"><u>Getting the MSI Curio Software Up and Running – A Comprehensive Guide</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-is-pgsharp-legal-when-you-are-playing-pokemon-on-sony-xperia-10-v-drfone-by-drfone-virtual-android/"><u>In 2024, Is pgsharp legal when you are playing pokemon On Sony Xperia 10 V? | Dr.fone</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/in-2024-why-you-shouldnt-trust-your-eyes-when-it-comes-to-youtube-views/"><u>In 2024, Why You Shouldn't Trust Your Eyes When It Comes to YouTube Views</u></a></li>
-<li><a href="https://win11.techidaily.com/steps-to-secure-sticky-notes-on-modern-oses/"><u>Steps to Secure Sticky Notes on Modern OSes</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/transcribe-without-breaking-the-bank-learn-how-with-our-free-guide-for-2024/"><u>Transcribe Without Breaking the Bank Learn How with Our Free Guide for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/unveiling-profits-how-much-do-creators-earn-from-each-ad-for-2024/"><u>Unveiling Profits How Much Do Creators Earn From Each Ad for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-expert-insights-on-constructing-high-quality-srt-files/"><u>[New] Expert Insights on Constructing High-Quality SRT Files</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-streaming-video-how-to-get-youtube-thumbnail-files-onlineos-wise/"><u>[New] In 2024, From Streaming Video How to Get YouTube Thumbnail Files Online/OS-Wise</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-perfecting-live-photo-your-ios-journey/"><u>[New] Perfecting Live Photo Your iOS Journey</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-character-development-through-authentic-dialogue/"><u>[Updated] 2024 Approved Character Development Through Authentic Dialogue</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-basic-to-breakthrough-a-youtube-live-thumbnail-journey/"><u>[Updated] 2024 Approved From Basic to Breakthrough A YouTube Live Thumbnail Journey</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-free-music-unlocked-the-ultimate-library-for-videographers-for-2024/"><u>[Updated] Free Music Unlocked The Ultimate Library for Videographers for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-gaming-streams-best-recording-programs-for-2024/"><u>[Updated] Gaming Streams Best Recording Programs for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-add-text-to-youtube-video-before-or-after-uploading-for-2024/"><u>[Updated] How to Add Text to YouTube Video Before or After Uploading for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-harmonizing-your-tunes-step-by-step-playlist-crafting-for-web-and-mobile-users/"><u>[Updated] In 2024, Harmonizing Your Tunes Step-by-Step Playlist Crafting for Web & Mobile Users</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-skyrocket-your-youtube-traffic-with-effective-outros/"><u>[Updated] Skyrocket Your YouTube Traffic with Effective Outros</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/best-5-gif-to-video-converter-online-no-need-to-download-for-2024/"><u>Best 5 GIF to Video Converter Online [No Need to Download] for 2024</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/best-google-pixel-fold-pattern-lock-removal-tools-remove-android-pattern-lock-without-losing-data-by-drfone-android/"><u>Best Google Pixel Fold Pattern Lock Removal Tools Remove Android Pattern Lock Without Losing Data</u></a></li>
+<li><a href="https://fox-http.techidaily.com/digital-transformation-elevate-your-videos-with-advanced-editing-tools-for-2024/"><u>Digital Transformation Elevate Your Videos with Advanced Editing Tools for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/facetime-made-simple-for-android-users/"><u>FaceTime Made Simple for Android Users</u></a></li>
 </ul></div>
 

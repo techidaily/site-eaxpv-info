@@ -1,7 +1,7 @@
 ---
 title: Why Is Apple Vision Pro Facing Backlash? Discover Key User Grievances Highlighted by Reddit in Our ZDNet Report
-date: 2024-10-12T02:46:35.475Z
-updated: 2024-10-15T19:50:21.116Z
+date: 2024-10-27T09:49:22.106Z
+updated: 2024-11-01T21:46:47.292Z
 tags:
   - apple
 categories:
@@ -37,10 +37,10 @@ Apple has different sizes of light seals, and your initial scan may have landed 
 The problem isn't as simple as sizing up or down; the AVP light seal is available in N and W variants, 11-14, 21-26, and 33-36, and the numbers don't follow a size pattern like clothing. Each number fits a different face type, with variations to how far your cheeks or forehead protrude forward and how deep the light seal is, so if fit is an issue, it's worth trying out a few sizes. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012401/19272" target="_top" id="2012401">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012401" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1915830/19272" target="_top" id="1915830">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915830" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012401/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915830/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. The eye strain is real and there's no way around it
@@ -50,10 +50,10 @@ One might think that using your eyes and fingers to navigate a digital world wou
 Eye tracking on the AVP can be [exhausting](https://www.reddit.com/r/VisionPro/comments/1aixzwz/my%5Fonly%5Fcomplaint%5Feye%5Fstrain/), causing [eye soreness and fatigue](https://www.reddit.com/r/VisionPro/comments/1aqvsd8/love%5Fmy%5Favp%5Fbut%5Feye%5Fstrain%5Fis%5Freal%5Fand%5Fi%5Fthink/). Eye fatigue could be an issue that improves as the wearer's body becomes accustomed to the AVP, but it is a big reasons why some users are [considering returning](https://www.reddit.com/r/VisionPro/comments/1aiy4w7/anyone%5Fhaving%5Fbad%5Feye%5Fstrain%5F1015%5Fminutes%5Fafter/) the device.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135361/19272" target="_top" id="2135361">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135361" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134493/18498" target="_top" id="2134493">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134493" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135361/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134493/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. The Vision Pro is too heavy to wear for long periods
@@ -63,13 +63,6 @@ The Vision Pro weighs between 21.2 and 22.9 ounces; that's a lot of weight to we
 **Also: [I used the Apple Vision Pro for my 8-hour work day, and it left me wanting more](https://www.zdnet.com/article/i-used-the-apple-vision-pro-for-my-8-hour-work-day-and-it-left-me-wanting-more/)**
 
 Some users come up with [3D-printed modifications](https://www.reddit.com/r/VisionPro/comments/1anq3k9/almost%5Freturned%5Fit%5Fthis%5Fmod%5Fchanged%5Feverything/) to distribute the weight better; others report they can't wear it for the [length of a movie](https://www.reddit.com/r/VisionPro/comments/1any318/well%5Fafter%5Fa%5Fweek%5Fi%5Fhave%5Freturned%5Fthe%5Fvision%5Fpro/). If you want to return it, don't wait until you enter the [last stage of Vision Pro grief](https://www.reddit.com/r/VisionPro/comments/1ar2jtr/stages%5Fof%5Fvision%5Fpro%5Fgrief/) or you may miss your return window.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137225/26400" target="_top" id="2137225">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137225" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137225/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 4\. The technology is just not there yet
 
@@ -81,6 +74,13 @@ Thankfully for Apple, the Vision Pro doesn't have as long of a road to travel as
 
 Complaints about poor text rendering for smaller text, especially compared to the Apple ecosystem's Retina Displays, and stuttering during standard computational tasks are common -- which is problematic for a device marketed for productivity and work. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075462/7443" target="_top" id="2075462">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075462" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075462/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 5\. The world of spatial computing is too lonely
 
 I can imagine putting on the AVP to watch a 3D movie or spatial video, being blown away by the technology, and exclaiming to my husband, "Oh, wow, are you seeing this?!" Only to be met by a confused look. 
@@ -90,10 +90,16 @@ Using the Apple Vision Pro can be a beautiful experience for the wearer, but eve
 > Using the Apple Vision Pro is like putting on a pair of headphones. Once it's on, you're isolated, immersed, lonely. I'd like to be an optimist about it, thinking that this will only be a short-term phenomenon, as 1) With time, virtual reality headsets will eventually be accepted as a piece of apparel, 2) In social environments, we'll learn how to physically communicate with each other, even with the face barrier, and 3) There will be more meaningful ways to connect with people in VR. Bringing FaceTime to Vision Pro is just the beginning.
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134501/19576" target="_top" id="2134501">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134501" border="0" alt="https://techidaily.com" width="640" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134501/19576" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1444782">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1444782.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1444782">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1444782.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1444782%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1444782/14559" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 6\. It's just too expensive
@@ -142,24 +148,21 @@ Apple's generous return policy enables this: The company lets you return any dev
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-harnessing-monetization-potential-with-youtube-ad-strategies/"><u>[New] 2024 Approved Harnessing Monetization Potential with YouTube Ad Strategies</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-generate-interest-making-your-own-youtube-intros-for-2024/"><u>[New] Generate Interest Making Your Own YouTube Intros for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-giggles-guidebook-planning-7-funny-video-frameworks-for-2024/"><u>[New] Giggles Guidebook Planning 7 Funny Video Frameworks for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-how-much-do-you-earn-when-a-million-watch-youtube-in-2024/"><u>[New] How Much Do You Earn When a Million Watch Youtube, In 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-stir-to-screen-masterful-cooking-videos/"><u>[New] In 2024, From Stir to Screen Masterful Cooking Videos</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-start-a-successful-youtube-gaming-channel/"><u>[New] In 2024, How to Start a Successful YouTube Gaming Channel</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/new-in-2024-unlock-the-mystery-of-non-displaying-fb-posts-with-our-12-expert-steps-facebook/"><u>[New] In 2024, Unlock the Mystery of Non-Displaying FB Posts with Our 12 Expert Steps, Facebook</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-make-fortnite-thumbnail-for-free-and-easy/"><u>[Updated] 2024 Approved How to Make Fortnite Thumbnail for Free and Easy</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-finding-your-video-complement-the-process-of-collaborative-pairing-for-2024/"><u>[Updated] Finding Your Video Complement The Process of Collaborative Pairing for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-fusing-genres-a-youtube-music-strategy/"><u>[Updated] In 2024, Fusing Genres A YouTube Music Strategy</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-in-2024-image-full-screen-webpage/"><u>[Updated] In 2024, Image Full-Screen Webpage</u></a></li>
-<li><a href="https://driver-install.techidaily.com/accelerated-updates-acer-drivers-in-win11/"><u>Accelerated Updates: Acer Drivers in Win11</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/cutting-edge-5-online-video-capture-applications/"><u>Cutting-Edge 5 Online Video Capture Applications</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-contacts-from-spark-20c-by-fonelab-android-recover-contacts/"><u>How to Rescue Lost Contacts from Spark 20C?</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-transfer-whatsapp-from-iphone-12-pro-max-to-other-iphone-11-pro-max-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From iPhone 12 Pro Max to other iPhone 11 Pro Max devices? | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-proven-ways-in-how-to-hide-location-on-life360-for-realme-narzo-60-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Proven Ways in How To Hide Location on Life360 For Realme Narzo 60 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-the-comprehensive-guide-to-no-cost-meme-magic/"><u>In 2024, The Comprehensive Guide to No-Cost Meme Magic</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/the-essential-review-for-the-compact-dependable-audew-portable-air-compression-unit/"><u>The Essential Review for the Compact, Dependable Audew Portable Air Compression Unit</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/updated-in-2024-preserving-melody-methods-to-decelerate-sound-waves-without-modifying-frequency-range/"><u>Updated In 2024, Preserving Melody Methods to Decelerate Sound Waves without Modifying Frequency Range</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-mastering-authenticity-checks-on-instagram/"><u>[New] 2024 Approved Mastering Authenticity Checks on Instagram</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-mastering-video-grabber-software-in-windows-11/"><u>[New] 2024 Approved Mastering Video Grabber Software in Windows 11</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-growth-gamble-buying-popularity-or-authentic-audience-expansion-in-2024/"><u>[New] Growth Gamble Buying Popularity or Authentic Audience Expansion, In 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-add-logo-or-watermark-to-youtube-video/"><u>[New] In 2024, How to Add Logo or Watermark to YouTube Video</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-size-your-videos-youtubes-best-practices-unveiled/"><u>[New] In 2024, How to Size Your Videos YouTube's Best Practices Unveiled</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-visionaries-at-work-a-detailed-review-of-top-3d-modeling-programs/"><u>[New] In 2024, Visionaries at Work A Detailed Review of Top 3D Modeling Programs</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-fast-techniques-to-restructure-your-youtube-sequence/"><u>[Updated] 2024 Approved Fast Techniques to Restructure Your YouTube Sequence</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-free-cash-flow-estimator-apps/"><u>[Updated] In 2024, Free Cash Flow Estimator Apps</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-turn-a-minute-into-millions-maximizing-viewership-for-youtubers/"><u>[Updated] In 2024, How to Turn a Minute Into Millions Maximizing Viewership for YouTubers</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-transform-your-youtube-footage-into-cinematic-delight-with-imovie-expertise/"><u>[Updated] Transform Your YouTube Footage Into Cinematic Delight with iMovie Expertise</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-discover-8-exceptional-tablets-that-outperform-filmoras-features/"><u>2024 Approved Discover 8 Exceptional Tablets That Outperform Filmora's Features</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-instagram-writers-and-broadcasters-podcast-sharing-explained/"><u>2024 Approved Instagram’ Writers & Broadcasters Podcast Sharing Explained</u></a></li>
+<li><a href="https://win-dash.techidaily.com/download-latest-hp-laserjet-m506-printer-drivers-step-by-step-guide/"><u>Download Latest HP LaserJet M506 Printer Drivers: Step-by-Step Guide</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/here-are-some-pro-tips-for-pokemon-go-pvp-battles-on-nubia-red-magic-8s-proplus-drfone-by-drfone-virtual-android/"><u>Here are Some Pro Tips for Pokemon Go PvP Battles On Nubia Red Magic 8S Pro+ | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/mastering-android-device-manager-the-ultimate-guide-to-unlocking-your-tecno-pova-5-device-by-drfone-android/"><u>Mastering Android Device Manager The Ultimate Guide to Unlocking Your Tecno Pova 5 Device</u></a></li>
+<li><a href="https://techidaily.com/three-solutions-to-hard-reset-vivo-y17s-drfone-by-drfone-reset-android-reset-android/"><u>Three Solutions to Hard Reset Vivo Y17s? | Dr.fone</u></a></li>
 </ul></div>
 

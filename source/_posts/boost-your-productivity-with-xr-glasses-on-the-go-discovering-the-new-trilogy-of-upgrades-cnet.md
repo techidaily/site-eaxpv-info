@@ -1,7 +1,7 @@
 ---
 title: "Boost Your Productivity with XR Glasses On-the-Go: Discovering the New Trilogy of Upgrades | CNET"
-date: 2024-10-21T19:30:31.908Z
-updated: 2024-10-27T19:22:42.016Z
+date: 2024-10-26T16:56:29.397Z
+updated: 2024-11-02T01:31:28.398Z
 tags:
   - apple
 categories:
@@ -81,10 +81,10 @@ Along with the [Viture Pro XR glasses](https://buy.geni.us/Proxy.ashx?TSID=36825
 Lastly, Viture announced a new limited-edition controller in partnership with 8BitDo. You can connect this new controller, with a classic XBox-style controller layout, via Bluetooth to your gaming device, including the Nintendo Switch. The smokey translucent design looks cool and matches the Viture ecosystem. The 8BitDo controller also serves as a companion to the Viture Neckband, but I have yet to try out the Neckband, so I cannot share my experiences with that accessory.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148633/16836" target="_top" id="2148633">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148633" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2132161/7443" target="_top" id="2132161">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132161" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148633/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132161/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -121,16 +121,20 @@ The [Viture Pro XR glasses](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-balancing-act-proper-techniques-for-stable-photos-for-2024/"><u>[New] Balancing Act Proper Techniques for Stable Photos for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/new-immersive-storytelling-through-total-environmental-capture/"><u>[New] Immersive Storytelling Through Total Environmental Capture</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/n-2024-legal-landscapes-understanding-youtube-and-cc-divergences/"><u>[New] In 2024, Legal Landscapes Understanding YouTube & CC Divergences</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-elevate-your-youtube-presence-with-these-8-free-courses/"><u>[Updated] 2024 Approved Elevate Your YouTube Presence with These 8 Free Courses</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-audio-to-action-mp3-to-youtube-conversion-journey/"><u>[Updated] 2024 Approved From Audio to Action MP3-to-YouTube Conversion Journey</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-border-techniques-for-enhanced-instagram-pictures/"><u>[Updated] In 2024, Border Techniques for Enhanced Instagram Pictures</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-the-art-of-balancing-video-quality-and-adsense-revenue/"><u>[Updated] The Art of Balancing Video Quality & AdSense Revenue</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-time-saving-steps-for-documenting-your-google-voice-talks/"><u>[Updated] Time-Saving Steps for Documenting Your Google Voice Talks</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/best-video-repair-tool-to-fix-and-repair-corrupt-mp4movavi-video-files-of-nord-n30-5g-by-stellar-video-repair-mobile-video-repair/"><u>Best Video Repair tool to Fix and Repair Corrupt MP4,MOV,AVI video files of Nord N30 5G</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-rootjunky-apk-to-bypass-google-frp-lock-for-vivo-g2-by-drfone-android/"><u>In 2024, Rootjunky APK To Bypass Google FRP Lock For Vivo G2</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/the-cutting-edge-without-costs-navigating-through-these-8-tools-for-2024/"><u>The Cutting Edge Without Costs - Navigating Through These 8 Tools for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-how-to-effortlessly-eradicate-unwanted-youtube-feedback-for-2024/"><u>[New] How to Effortlessly Eradicate Unwanted YouTube Feedback for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-how-to-quickly-and-easily-share-a-youtube-playlist-for-2024/"><u>[New] How to Quickly And Easily Share A YouTube Playlist for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-free-to-fiscal-determining-view-counts-for-youtube-earnings/"><u>[New] In 2024, From Free to Fiscal Determining View Counts for YouTube Earnings</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-in-2024-pinnacle-article-hook-maker/"><u>[New] In 2024, Pinnacle Article Hook Maker</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-switch-off-crossplay-for-personalized-apex-legends-experience/"><u>[New] In 2024, Switch Off Crossplay for Personalized Apex Legends Experience</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-arena-aces-unbeatable-10-royale-games/"><u>[Updated] Arena Aces Unbeatable 10 Royale Games</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-filmmaker-tips-youtube-trailers-using-filmora-for-2024/"><u>[Updated] Filmmaker Tips YouTube Trailers Using Filmora for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-gastronomy-goals-attractive-food-network-branding-ideas-for-2024/"><u>[Updated] Gastronomy Goals Attractive Food Network Branding Ideas for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-phone-videos-to-channel-fame-an-easy-path-for-new-entrepreneurs/"><u>[Updated] In 2024, From Phone Videos to Channel Fame An Easy Path for New Entrepreneurs</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-ultimate-picks-for-costless-subtitle-extraction-tools/"><u>[Updated] Ultimate Picks for Costless Subtitle Extraction Tools</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/approved-the-essential-guide-to-advanced-youtube-studio-editing/"><u>2024 Approved The Essential Guide to Advanced YouTube Studio Editing</u></a></li>
+<li><a href="https://article-posts.techidaily.com/assemble-visual-pieces-into-watchable-arrays-for-2024/"><u>Assemble Visual Pieces Into Watchable Arrays for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/cost-effective-high-durability-gaming-accessories/"><u>Cost-Effective, High-Durability Gaming Accessories</u></a></li>
+<li><a href="https://win-blog.techidaily.com/quick-fix-guide-for-the-life-threatening-developer-glitch-in-cod-mw-and-wz/"><u>Quick Fix Guide for the Life-Threatening Developer Glitch in COD: MW & WZ</u></a></li>
+<li><a href="https://location-social.techidaily.com/why-your-whatsapp-location-is-not-updating-and-how-to-fix-on-motorola-moto-g34-5g-drfone-by-drfone-virtual-android/"><u>Why Your WhatsApp Location is Not Updating and How to Fix On Motorola Moto G34 5G | Dr.fone</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Top Savings: Unveiling the Most Competitive AT&T Offers in May 2024 - Insights"
-date: 2024-10-21T16:03:49.393Z
-updated: 2024-10-27T19:58:13.716Z
+date: 2024-10-29T07:37:59.639Z
+updated: 2024-11-01T18:54:38.906Z
 tags:
   - apple
 categories:
@@ -86,10 +86,16 @@ While the Series 8 isn't the latest and greatest Apple Watch, it's still a great
 [View now at Walmart](https://goto.walmart.com/c/5597632/565706/9383?sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FApple-Watch-Series-8-GPS-Cellular-45mm-Midnight-Aluminum-Case-Sport-Band-S-M-Fitness-Tracker-Blood-Oxygen-ECG-Apps-Always-On-Retina-Display%2F1490655580%3F&subId1=zd-__COM_CLICK_ID__-dtp) 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136625/26400" target="_top" id="2136625">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136625" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136625/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982499">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982499.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982499">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982499.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982499%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982499/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Best refurbished Apple Watch deals of July 2024
@@ -99,10 +105,10 @@ While the Series 8 isn't the latest and greatest Apple Watch, it's still a great
 * [Apple Watch SE](https://goto.walmart.com/c/5597632/565706/9383?sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FApple-Watch-SE-GPS-Cellular-44mm-Gold-Aluminum-Case-with-Starlight-Sport-Band-Used%2F1620367883%3F&subId1=zd-__COM_CLICK_ID__-dtp) (44mm, GPS, Starlight Sport Band, Used): $125 (save $35)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137221/26400" target="_top" id="2137221">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137221" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135370/19272" target="_top" id="2135370">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135370" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137221/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135370/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How did we choose these deals?
@@ -110,6 +116,13 @@ While the Series 8 isn't the latest and greatest Apple Watch, it's still a great
 ZDNET only writes about deals we want to buy -- devices and products we desire, need, or would recommend. Our experts looked for deals that were at least 20% off (or are hardly ever on sale), using established price comparison tools and trackers to determine whether the deal is actually on sale and how frequently it drops. 
 
 We also looked over customer reviews to find out what matters to real people who already own and use the deals we're recommending. Our recommendations may also be based on our own testing -- in addition to extensive research and comparison shopping. The goal is to deliver the most accurate advice to help you shop smarter. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959712/19272" target="_top" id="1959712">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959712" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959712/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## What is the best Apple watch?
 
@@ -120,13 +133,6 @@ ZDNET's top pick for the [best Apple watch](https://www.zdnet.com/article/best-a
 Yes, your Apple Watch, as long as it is a Series 6 or newer, can track your AFib, or irregular heartbeat. In fact, The US Food and Drug Administration (FDA) has recently [awarded](https://content.govdelivery.com/accounts/USFDA/bulletins/399d551) medical device development tool (MDDT) status to the Apple Watch's atrial fibrillation (AFib) history tracker. The feature is first piece of digital health technology to earn MDDT status, the FDA said in a statement.
 
 **Also:** [**Your Apple Watch's AFib history could soon be used in clinical studies**](https://www.zdnet.com/article/your-apple-watchs-afib-history-could-soon-be-used-in-clinical-studies/)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036486/19272" target="_top" id="2036486">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036486" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036486/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Apple Watch SE vs Series 8: Which is the better buy?
 
@@ -154,6 +160,13 @@ Other band options include the Ocean Band, Alpine Loop, Milanese Loop, Trail Loo
 
 The Apple watch models are not the only options for smart watches, despite their popularity. ZDNET rounded up the [best smartwatch deals](https://www.zdnet.com/article/best-black-friday-and-cyber-monday-smartwatch-deals-still-available/) so you can scope more alternative deals, including the Fitbit Versa 4, Fitbit Luxe, Google Pixel Watch, Samsung Galaxy Watch 6, and more. 
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134502/19576" target="_top" id="2134502">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134502" border="0" alt="https://techidaily.com" width="672" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134502/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## What does "trade-in" mean?
 
 Similarly to turning in an older cell-phone to receive monetary credit towards purchasing a newer or more updated version, Apple and other major retailers often have options to "trade-in" other devices, like Apple watches. 
@@ -161,13 +174,6 @@ Similarly to turning in an older cell-phone to receive monetary credit towards p
 When participating in a trade-in offer, you are providing your previously used item to the retailer in exchange for a predetermined amount of cash back that can be directly applied to your next item purchase of the same product. Eligible trade-in items and the cash back offered for each product is decided by each individual retailer and is often determined by factors such as age, condition, and functionality of the item being presented for trade-in. Apple recently decided to even bump up the amount they offer for trade-ins as well, too. 
 
 **Also:** [**Apple is paying more for your used Apple watches**](https://www.zdnet.com/article/apple-is-now-paying-more-for-your-used-apple-watches-and-ipads/)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068440/7443" target="_top" id="2068440">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068440" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068440/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## When will these deals expire?
 
@@ -213,24 +219,22 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-hints.techidaily.com/new-constructive-steps-to-personalized-google-vr-headset/"><u>[New] Constructive Steps to Personalized Google VR Headset</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-elite-screen-recording-apps-of-2023-expert-picks-for-2024/"><u>[New] Elite Screen Recording Apps of 2023 - Expert Picks for 2024</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-leading-15-hd-action-footage-capturers-for-2024/"><u>[New] Leading 15 HD Action Footage Capturers for 2024</u></a></li>
-<li><a href="https://win-advanced.techidaily.com/server-202nc/"><u>如何高效复制Server 202N中的C缓存区域</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/embrace-enhanced-efficiency-with-copilot-pro-computers-initiative/"><u>Embrace Enhanced Efficiency with Copilot Pro Computers Initiative</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/enhanced-windows-10-update-process-faster-and-more-efficient-than-ever/"><u>Enhanced Windows 10 Update Process: Faster and More Efficient Than Ever</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/enhancing-readability-microsofts-plan-to-sharpen-chrome-display-quality-on-windows-platforms/"><u>Enhancing Readability: Microsoft's Plan to Sharpen Chrome Display Quality on Windows Platforms</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/experience-swift-browsing-with-the-newly-enhanced-microsoft-edge/"><u>Experience Swift Browsing with the Newly Enhanced Microsoft Edge</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/expert-tips-for-effectively-utilizing-the-stat-command-on-a-linux-system/"><u>Expert Tips for Effectively Utilizing the 'Stat' Command on a Linux System</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/exploring-technology-with-tom-a-guide-to-electronic-components/"><u>Exploring Technology with Tom - A Guide to Electronic Components</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/free-guide-unpacking-rar-archives-on-both-windows-and-macos/"><u>Free Guide: Unpacking RAR Archives on Both Windows & macOS</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/how-to-bring-back-windows-10-file-explorer-functionality-on-windows-11-systems/"><u>How to Bring Back Windows 10 File Explorer Functionality on Windows 11 Systems</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/how-to-recover-a-missing-mouse-icon-in-windows-top-solutions-and-tricks-uncovered/"><u>How to Recover a Missing Mouse Icon in Windows: Top Solutions and Tricks Uncovered!</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-4-ways-to-transfer-music-from-tecno-phantom-v-flip-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 4 Ways to Transfer Music from Tecno Phantom V Flip to iPhone | Dr.fone</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/in-2024-leading-water-and-liquid-game-simulations-unveiled/"><u>In 2024, Leading Water & Liquid Game Simulations Unveiled</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-photovideo-tips-manipulating-text-with-style/"><u>In 2024, Photo/Video Tips Manipulating Text with Style</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/increasing-demands-on-pc-storage-due-to-windows-memory-management/"><u>Increasing Demands on PC Storage Due to Windows Memory Management</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/simplified-resolution-strategies-gpus-alone/"><u>Simplified Resolution Strategies: GPUs Alone</u></a></li>
-<li><a href="https://network-issues.techidaily.com/windows-11-black-screen-after-fall-creators-update-solved/"><u>Windows 11 Black Screen After Fall Creators Update [Solved]</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-fast-track-a-step-by-step-guide-for-swiftly-deleting-comments-on-youtube-for-2024/"><u>[New] Fast Track A Step by Step Guide for Swiftly Deleting Comments on YouTube for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-font-selection-wonders-enhancing-youtube-video-thumbnails-for-2024/"><u>[New] Font Selection Wonders Enhancing YouTube Video Thumbnails for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-gain-massive-viewership-with-a-small-financial-investment-for-2024/"><u>[New] Gain Massive Viewership with a Small Financial Investment for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-fast-track-a-step-by-step-guide-for-swiftly-deleting-comments-on-youtube/"><u>[New] In 2024, Fast Track A Step by Step Guide for Swiftly Deleting Comments on YouTube</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-mastering-video-descriptions-on-instagram/"><u>[New] Mastering Video Descriptions on Instagram</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-hidden-details-you-need-to-know-about-youtube-tv-service/"><u>[Updated] 2024 Approved Hidden Details You Need to Know About YouTube TV Service</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-top-20-iconic-anime-theme-melodies-ever/"><u>[Updated] 2024 Approved Top 20 Iconic Anime Theme Melodies Ever</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-directly-infuse-youtube-music-into-any-imovie-project-for-2024/"><u>[Updated] Directly Infuse YouTube Music Into Any iMovie Project for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-free-themes-for-dynamic-youtuber-profiles-for-2024/"><u>[Updated] Free Themes for Dynamic YouTuber Profiles for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-flavorful-friends-top-gastronomy-guides-online/"><u>[Updated] In 2024, Flavorful Friends Top Gastronomy Guides Online</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-gamers-sound-selection-top-5-noise-canceling-earbuds/"><u>[Updated] In 2024, Gamers’ Sound Selection Top 5 Noise-Canceling Earbuds</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/approved-12-premier-video-game-entrances-by-top-youtubers-free-and-paid-analysis/"><u>2024 Approved 12 Premier Video Game Entrances by Top Youtubers Free & Paid Analysis</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-livestreaming-leaderboards-which-software-tops-the-chartvmixwirecast/"><u>2024 Approved Livestreaming Leaderboards Which Software Tops the Chart—VMix/Wirecast?</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/digital-stills-and-snaps-recorder/"><u>Digital Stills & Snaps Recorder</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/in-2024-innovative-editions-filmmaker-writers-on-windows/"><u>In 2024, Innovative Editions Filmmaker' Writers on WIndows</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-step-by-step-strategies-for-thriving-on-stardews-exotic-hidden-gem-ginger-island/"><u>In 2024, Step-by-Step Strategies for Thriving on Stardew’s Exotic, Hidden Gem – Ginger Island</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/losung-fur-die-fehlende-suchfunktion-in-windows-explorer-erkunden-sie-mythrecover/"><u>Lösung Für Die Fehlende Suchfunktion in Windows Explorer - Erkunden Sie MythRecover</u></a></li>
 </ul></div>
 

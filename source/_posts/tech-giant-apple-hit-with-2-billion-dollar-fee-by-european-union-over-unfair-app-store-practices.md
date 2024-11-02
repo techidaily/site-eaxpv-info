@@ -1,7 +1,7 @@
 ---
 title: Tech Giant Apple Hit with 2-Billion Dollar Fee by European Union Over Unfair App Store Practices
-date: 2024-10-23T17:06:33.669Z
-updated: 2024-10-27T19:44:28.063Z
+date: 2024-10-31T23:28:11.400Z
+updated: 2024-11-02T03:26:58.504Z
 tags:
   - apple
 categories:
@@ -26,6 +26,13 @@ In the past, moving from one face to another on an Apple Watch was easy. You'd s
 
 ## How to swap faces on your Apple Watch
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896560/19272" target="_top" id="1896560">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896560" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896560/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. Run watchOS 10
 
 If you're still running watchOS 9 or earlier, the older method of switching watch faces is still the norm. Just swipe left or right. If you already updated to watchOS 10 to gain all the latest features, such as new watch faces, fitness routines, and Health app tools, then the newer method is in effect.
@@ -33,10 +40,10 @@ If you're still running watchOS 9 or earlier, the older method of switching watc
 screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137204/26400" target="_top" id="2137204">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137204" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://united.elfm.net/c/5597632/2139558/4704" target="_top" id="2139558">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139558" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137204/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139558/4704" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Switch watch faces
@@ -56,16 +63,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<span id="1982508">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982508.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982508">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982508.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982508%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982508/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2016129/19272" target="_top" id="2016129">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016129" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016129/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Update to watchOS 10.2
@@ -76,19 +77,6 @@ Altefnatively, you can update the OS directly from your watch. For that, open th
 
 screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<span id="1983551">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983551.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983551">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983551.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983551%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983551/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 4\. Change the method for switching faces
 
 The newer method for swapping watch faces is still the default in watchOS 10.2\. However, Apple now lets you revert to the older method. On your watch, open the Settings app, tap the setting for Clock, and then turn on the switch for "Swipe to Switch Watch Face."
@@ -98,10 +86,10 @@ screenshot by Lance Whitney/ZDNET
 **Also: [The best smartwatches you can buy: Apple, Samsung, Google, and more compared](https://www.zdnet.com/article/best-smartwatch/)**
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528685/16446" target="_top" id="1528685">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528685" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135411/19272" target="_top" id="2135411">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135411" border="0" alt="https://techidaily.com" width="180" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528685/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135411/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Switch watch faces by swiping
@@ -140,19 +128,16 @@ screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/reaking-down-tseries-income-strategy-on-youtube-platform/"><u>[New] Breaking Down TSeries' Income Strategy on YouTube Platform</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-in-2024-google-meet-screen-record-tips-for-iphoneandroid-users/"><u>[Updated] In 2024, Google Meet Screen Record Tips for iPhone/Android Users</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/2024-approved-best-free-screen-cast-options-on-windows-ranked-1-to-5/"><u>2024 Approved Best Free Screen Cast Options on Windows, Ranked #1 to #5</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/annual-energy-usage-one-advanced-ai-driven-gpu-devours-up-to-37m-wh-surpassing-the-electricity-needs-of-over-13-million-households/"><u>Annual Energy Usage: One Advanced AI-Driven GPU Devours Up To 3.7M Wh – Surpassing the Electricity Needs of Over 1.3 Million Households</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/busted-why-your-steelseries-arctis-pro-mic-wont-work-and-what-to-do-about-it/"><u>Busted: Why Your SteelSeries Arctis Pro Mic Won't Work & What To Do About It</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/discovering-cutting-edge-devices-through-toms-hardware-lens/"><u>Discovering Cutting-Edge Devices Through Tom's Hardware Lens</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-can-we-unlock-our-samsung-galaxy-a14-5g-phone-screen-by-drfone-android/"><u>How Can We Unlock Our Samsung Galaxy A14 5G Phone Screen?</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-catch-or-beat-sleeping-snorlax-on-pokemon-go-for-vivo-x100-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Catch or Beat Sleeping Snorlax on Pokemon Go For Vivo X100 Pro | Dr.fone</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/24-top-15-youtube-playlists-catering-to-musicians/"><u>In 2024, Top 15 YouTube Playlists Catering to Musicians</u></a></li>
-<li><a href="https://techtrends.techidaily.com/master-the-swift-art-of-moving-your-macbook-files-expert-tips-for-hassle-free-transfer-processes/"><u>Master the Swift Art of Moving Your MacBook Files: Expert Tips for Hassle-Free Transfer Processes</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/navigating-the-latest-in-pc-components-with-tom-a-comprehensive-guide/"><u>Navigating the Latest in PC Components with Tom - A Comprehensive Guide</u></a></li>
-<li><a href="https://techidaily.com/remove-xiaomi-lock-screen-without-password-xiaomi-redmi-note-12t-pro-by-drfone-android-unlock-android-unlock/"><u>Remove Xiaomi Lock Screen without Password(Xiaomi Redmi Note 12T Pro)</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/surprising-tech-find-by-cleaners-rare-1974-intellec-q1-computer-with-revolutionary-intel-8008-processor-uncovered-in-boxes-containing-16-kb-of-ram/"><u>Surprising Tech Find by Cleaners: Rare 1974 Intellec Q1 Computer with Revolutionary Intel #8008 Processor Uncovered in Boxes, Containing 16 KB of RAM</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/the-supreme-contender-in-depth-evaluation-of-the-top-ranked-xbox-one-x-console/"><u>The Supreme Contender: In-Depth Evaluation of the Top-Ranked Xbox One X Console</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-harnessing-the-power-of-filmora-for-youtube-video-promotions/"><u>[New] 2024 Approved Harnessing the Power of Filmora for YouTube Video Promotions</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/024-approved-streamlining-video-production-merging-youtube-editing-and-imovies-best-practices/"><u>[New] 2024 Approved Streamlining Video Production Merging YouTube Editing & iMovie's Best Practices</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-unveiling-todays-drones-tomorrows-promise/"><u>[New] 2024 Approved Unveiling Today's Drones Tomorrow's Promise</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-free-templates-for-dynamic-youtube-channel-closures-for-2024/"><u>[New] Free Templates for Dynamic YouTube Channel Closures for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-instantaneous-instagram-video-experience/"><u>[New] Instantaneous Instagram Video Experience</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-selfie-to-sensation-vloggers-choice-of-top-9-camera-accessories/"><u>[Updated] 2024 Approved From Selfie to Sensation Vloggers' Choice of Top 9 Camera Accessories</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-boost-your-pc-editing-game-with-inshot-techniques/"><u>[Updated] In 2024, Boost Your PC Editing Game with Inshot Techniques</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-hashtag-mastery-pathway-to-6-figure-youtube-impact/"><u>[Updated] In 2024, Hashtag Mastery Pathway to 6-Figure Youtube Impact</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/efficient-obs-settings-for-thrifty-users-for-2024/"><u>Efficient OBS Settings for Thrifty Users for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/1713950879141-looking-for-the-steps-to-add-transitions-effects-in-premiere-pro-here-are-the-steps-to-add-and-edit-transitions-in-premiere-pro-and-an-alternative-way-to-vi/"><u>Looking for the Steps to Add Transitions Effects in Premiere Pro? Here Are the Steps to Add and Edit Transitions in Premiere Pro and an Alternative Way to Video Transitions for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/dvd-shrinkdvd/"><u>なぜDVD-Shrinkでは、コピーガード付きDVDをコピーできない？その原因について詳しく見てみよう</u></a></li>
 </ul></div>
 

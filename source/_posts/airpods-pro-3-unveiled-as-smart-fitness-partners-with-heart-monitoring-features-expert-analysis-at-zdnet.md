@@ -1,7 +1,7 @@
 ---
 title: AirPods Pro 3 Unveiled as Smart Fitness Partners with Heart Monitoring Features | Expert Analysis at ZDNET
-date: 2024-10-26T19:23:52.997Z
-updated: 2024-10-27T20:53:38.712Z
+date: 2024-10-29T23:21:08.038Z
+updated: 2024-11-02T00:09:36.292Z
 tags:
   - apple
 categories:
@@ -71,10 +71,10 @@ For example, the Apple Watch's thermometer, which is currently only [used for fe
 The company is also reportedly seeking health regulatory approval to interpret blood oxygen data. Right now, the Watch shows users oxygen blood data without telling them what it means. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044586/7443" target="_top" id="2044586">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044586" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151884/7443" target="_top" id="2151884">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151884" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044586/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151884/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## AirPods
@@ -90,10 +90,16 @@ According to the report, if all goes to plan, AirPods will be able to double as 
 Additionally, the AirPods will be able to perform hearing tests that are typically performed in an audiologist's office, which will make it simpler for users to access care without leaving their homes. 
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863035/11832" target="_top" id="863035">
-  <img src="//a.impactradius-go.com/display-ad/11832-863035" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/863035/11832" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982570">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982570.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982570">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982570.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982570%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982570/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Vision Pro
@@ -142,17 +148,24 @@ Lastly, a headset version of Fitness+ might appear, so long as Apple can figure 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-harvest-happiness-best-agricultural-titles-to-play-with-friends-for-2024/"><u>[New] Harvest Happiness Best Agricultural Titles to Play With Friends for 2024</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/new-in-2024-amazon-primes-social-success-stories-likes-and-watches-galore/"><u>[New] In 2024, Amazon Prime’s Social Success Stories Likes & Watches Galore</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-facebook-registration-simplified/"><u>[Updated] 2024 Approved Facebook Registration Simplified</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-in-2024-media-meld-space/"><u>[Updated] In 2024, Media Meld Space</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-tech-picks-leading-drone-gimbals/"><u>2024 Approved Tech Picks Leading Drone Gimbals</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/heicjpegmacx-mediatrans/"><u>業界最初のHEICからJPEGへの高速変換：MacX MediaTransで画像保存・加工を容易化</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/elevating-gameplay-quality-comprehensive-tips-for-overcoming-fps-drops-and-increasing-frame-rates-in-gaming-pcs/"><u>Elevating Gameplay Quality: Comprehensive Tips for Overcoming FPS Drops and Increasing Frame Rates in Gaming PCs</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-unlocking-the-power-of-smart-lock-a-beginners-guide-for-tecno-camon-20-pro-5g-users-by-drfone-android/"><u>In 2024, Unlocking the Power of Smart Lock A Beginners Guide for Tecno Camon 20 Pro 5G Users</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/mac-dvd-ripper-iphoneipadappletvmp4dvd/"><u>Mac用 DVD Ripper - iPhone、iPad、AppleTV、MP4への簡単DVDコピーガイド</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/step-by-step-guide-transferring-your-dvd-collection-onto-icloud/"><u>Step-by-Step Guide: Transferring Your DVD Collection Onto iCloud</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/transform-avi-files-into-mp4-quickly-and-easily-on-mac-the-best-6-methods-unveiled/"><u>Transform AVI Files Into MP4 Quickly & Easily on Mac: The Best 6 Methods Unveiled!</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/watching-hd-mkv-files-on-your-apple-tv-a-guide-to-direct-playback-and-easy-conversion-methods/"><u>Watching HD MKV Files on Your Apple TV: A Guide to Direct Playback & Easy Conversion Methods</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-fundamental-equipment-for-channel-foundations/"><u>[New] 2024 Approved Fundamental Equipment for Channel Foundations</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-high-definition-ready-enabling-av1-on-youtube/"><u>[New] 2024 Approved High Definition Ready Enabling AV1 on YouTube</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-individualist-to-institutional-influence-in-the-youtube-universe/"><u>[New] In 2024, From Individualist to Institutional Influence in the YouTube Universe</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-hashtag-hacks-for-amplifying-gamer-content/"><u>[New] In 2024, Hashtag Hacks for Amplifying Gamer Content</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-full-circle-from-vocaloids-to-live-streamers-success/"><u>[Updated] 2024 Approved Full Circle From Vocaloids to Live Streamers' Success</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-animate-and-make-your-own-effects/"><u>[Updated] 2024 Approved How to Animate and Make Your Own Effects</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-completely-erase-youtube-shorts-footprint/"><u>[Updated] 2024 Approved How To Completely Erase YouTube Shorts Footprint</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/updated-essential-rules-for-a-positive-youtube-experience/"><u>[Updated] Essential Rules for a Positive YouTube Experience</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-fresh-inspirations-for-streaming-topics/"><u>[Updated] In 2024, Fresh Inspirations for Streaming Topics</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-optimize-youtube-submissions-for-extended-films/"><u>[Updated] In 2024, How to Optimize YouTube Submissions for Extended Films</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/211314224-9781775492832-atua-wahine/"><u>Atua Wāhine | Free Book</u></a></li>
+<li><a href="https://fake-location.techidaily.com/best-10-mock-location-apps-worth-trying-on-zte-nubia-z60-ultra-drfone-by-drfone-virtual-android/"><u>Best 10 Mock Location Apps Worth Trying On ZTE Nubia Z60 Ultra | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/enhanced-traffic-with-cutting-edge-cookiebot-technology/"><u>Enhanced Traffic with Cutting-Edge Cookiebot Technology</u></a></li>
+<li><a href="https://video-capture.techidaily.com/high-def-capture-top-10-web-based-apps/"><u>High-Def Capture Top 10 Web-Based Apps</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/hosting-charismatic-chats-keeping-audiences-hooked-live-for-2024/"><u>Hosting Charismatic Chats Keeping Audiences Hooked Live for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-final-cut-pro-x-creating-stunning-titles-for-your-videos/"><u>New Final Cut Pro X Creating Stunning Titles for Your Videos</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/step-by-step-tutorial-fixing-and-downloading-mouse-drivers-in-windows-7/"><u>Step-by-Step Tutorial: Fixing & Downloading Mouse Drivers in Windows 7</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/tailoring-soundtracks-the-art-of-editing-in-garageband-for-2024/"><u>Tailoring Soundtracks The Art of Editing in GarageBand for 2024</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-2024-approved-free-video-editing-solutions-for-32-bit-windows-users/"><u>Updated 2024 Approved Free Video Editing Solutions for 32-Bit Windows Users</u></a></li>
 </ul></div>
 

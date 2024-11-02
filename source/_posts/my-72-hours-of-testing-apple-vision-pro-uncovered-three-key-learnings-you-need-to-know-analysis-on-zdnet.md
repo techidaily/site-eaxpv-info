@@ -1,7 +1,7 @@
 ---
 title: My 72 Hours of Testing Apple Vision Pro Uncovered Three Key Learnings You Need to Know | Analysis on ZDNET
-date: 2024-10-12T03:57:38.608Z
-updated: 2024-10-16T03:47:47.443Z
+date: 2024-10-29T12:17:53.438Z
+updated: 2024-11-01T20:57:56.166Z
 tags:
   - apple
 categories:
@@ -40,13 +40,6 @@ I'll say it: The new [iPad Pro](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5F
 
 With configurations ranging from $999 to $2,599, keep in mind that the higher storage tiers (1TB and 2TB) also come with double the RAM (16GB vs. 8GB) and an extra CPU core. It's a subtle, under-the-hood difference that's easy to miss, especially when cross-shopping [between iPad models](https://www.zdnet.com/article/best-ipad/). If you can use the greater compute, have an offline-heavy workflow, and/or want the most future-proofed iPad on the market, it's worth the upcharge. Otherwise, the base 11- or 13-inch model will serve you just fine, as they have for me.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037335/7443" target="_top" id="2037335">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037335" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037335/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Specifications
 
 | Display     | 11-inch or 13-inch OLED with ProMotion (10Hz to 120Hz)                                                                                                                                                                                                                           |
@@ -62,10 +55,16 @@ With configurations ranging from $999 to $2,599, keep in mind that the higher st
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139558/4704" target="_top" id="2139558">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139558" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139558/4704" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1531882">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1531882.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1531882">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531882.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531882%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531882/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How I tested the iPad Pro (2024)
@@ -73,6 +72,13 @@ With configurations ranging from $999 to $2,599, keep in mind that the higher st
 Over the past week and a half, I've used (or attempted to use) the 11-inch iPad Pro as my primary computer for work and as a secondary, entertainment-only device. When it wasn't paired to a Wi-Fi connection 90% of the time, it ran off my phone's T-Mobile hotspot. While Apple sells an [LTE version](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FApple-iPad-Pro-11-Inch-Landscape%2Fdp%2FB0D3J9XDMQ%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cfbf10d9a-7cb8-49d5-8606-c235946e0be8%7Cdtp&dtb=1) of the iPad Pro, my primary testing grounds for the device have been at home, a local café, and my work office -- nowhere adventurous enough to justify the always-connected upgrade.
 
 I also paired the iPad with Apple's revamped [Magic Keyboard](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fproduct%2FMWR03LL%2FA%2Fmagic-keyboard-for-ipad-pro-11%25E2%2580%2591inch-m4-us-english-white&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp). The $299 starting price gave me pause when I first checked out the accessory, but the thinner, lighter aluminum form factor, larger trackpad, and a new row of function keys this year make the keyboard case more essential than ever for the full iPad experience.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934138/19272" target="_top" id="1934138">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934138" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934138/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  What are the best features of the iPad Pro (2024)?
 
@@ -112,13 +118,6 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 [See all](https://www.zdnet.com/newsletters/)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151859/7443" target="_top" id="2151859">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151859" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151859/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  What I'd like to see in the next model
 
 **More flexible software:** The limitations of iPadOS remain with every generation of iPad reviewed; I can talk all day about how lovely it'd be to have native apps that give me something remotely close to their desktop counterparts or how every iPadOS update feels like another small step towards an ever-distant [touchscreen MacBook dream](https://www.zdnet.com/article/touchscreen-macbook-4-reasons-why-we-love-the-idea-and-4-reasons-why-we-dont/).
@@ -137,6 +136,13 @@ I'm also aware that Apple sells iPads like no other tablet maker, generating an 
 
 Of course, slimming down the iPad Pro means Apple likely won't move towards adding ports. Given how essential the Magic Keyboard is to the iPad, however, it could be even more so with the additional I/O.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925544/19272" target="_top" id="1925544">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925544" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925544/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Final thought
 
 Apple's tablet lineup is ultimately (and has always been) confined by an operating system that promotes flexibility and ease of use over high-power multitasking. That balance may shift come WWDC, should the company pitch a more ambitious, AI-driven version of iPadOS.
@@ -144,10 +150,10 @@ Apple's tablet lineup is ultimately (and has always been) confined by an operati
 Regardless, the future of the iPad shouldn't be a dealbreaker because the [iPad Pro](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FApple-iPad-Pro-11-Inch-Landscape%2Fdp%2FB0D3J9XDMQ%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cfbf10d9a-7cb8-49d5-8606-c235946e0be8%7Cdtp&dtb=1) is, for all intents and purposes, an iPad -- a tablet you carry around for getting certain tasks done and for consuming content. For many, being the [best tablet](https://www.zdnet.com/article/best-tablet/) on the market -- not the [best laptop or PC](https://www.zdnet.com/article/best-laptop/) \-- is more than enough.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1001446/11832" target="_top" id="1001446">
-  <img src="//a.impactradius-go.com/display-ad/11832-1001446" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948891/19272" target="_top" id="1948891">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948891" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001446/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948891/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Alternatives to consider
@@ -184,24 +190,20 @@ Regardless, the future of the iPad shouldn't be a dealbreaker because the [iPad 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-flipping-scripts-generating-parody-content/"><u>[New] 2024 Approved Flipping Scripts Generating Parody Content</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-novice-to-pro-youtube-gamers-broadcasting-journey/"><u>[New] 2024 Approved From Novice to Pro YouTube Gamers' Broadcasting Journey</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-raw-footage-to-riveting-content-the-ultimate-guide-to-yt-video-edits/"><u>[New] 2024 Approved From Raw Footage to Riveting Content The Ultimate Guide to YT Video Edits</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-free-minecraft-branding-tools-download/"><u>[New] In 2024, Free Minecraft Branding Tools Download</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-hot-yt-videos-best-music-dance-and-responses-23/"><u>[New] In 2024, Hot YT Videos Best Music Dance & Responses '23</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-flip-the-script-on-classic-films-7-list/"><u>[Updated] 2024 Approved Flip the Script on Classic Films, #7 List</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-the-ultimate-tutorial-for-turning-followers-into-cash-via-instagram/"><u>[Updated] 2024 Approved The Ultimate Tutorial for Turning Followers Into Cash via Instagram</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-customize-twitter-video-image/"><u>[Updated] Customize Twitter Video Image</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-free-audio-treasures-to-amplify-youtube-for-2024/"><u>[Updated] Free Audio Treasures to Amplify YouTube for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-from-phone-ideas-to-online-presence-simple-youtube-channel-creation-tips-for-2024/"><u>[Updated] From Phone Ideas to Online Presence Simple YouTube Channel Creation Tips for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-from-static-to-sprightly-bouncing-text-animations-for-2024/"><u>[Updated] From Static to Sprightly Bouncing Text Animations for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-insightful-review-the-comprehensive-theta-s-experience/"><u>[Updated] Insightful Review The Comprehensive Theta S Experience</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-pc-editors-a-compilation-without-inshot/"><u>[Updated] PC Editors A Compilation Without Inshot</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/2024-approved-mov-storage-techniques-a-windows-10-perspective/"><u>2024 Approved .mov Storage Techniques A Windows 10 Perspective</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/winxvideo-ai-4k8k-10k/"><u>高清圖像創造：如何使用 Winxvideo AI 提升到 4K、8K 或 10K</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-sony-xperia-5-v-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Sony Xperia 5 V to Samsung Phone | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-use-pokemon-go-joystick-on-xiaomi-civi-3-disney-100th-anniversary-edition-drfone-by-drfone-virtual-android/"><u>In 2024, How to use Pokemon Go Joystick on Xiaomi Civi 3 Disney 100th Anniversary Edition? | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/regain-command-gain-admin-status/"><u>Regain Command - Gain Admin Status</u></a></li>
-<li><a href="https://fox-that.techidaily.com/troubleshoot-your-airpods-connection-issues-on-ios-and-macos/"><u>Troubleshoot Your AirPods Connection Issues on iOS & macOS</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-one-off-to-firm-follower-an-ethical-approach/"><u>[New] 2024 Approved From One-Off to Firm Follower An Ethical Approach</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-fixing-popular-youtube-short-snafus/"><u>[New] In 2024, Fixing Popular YouTube Short Snafus</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-zero-to-hero-learning-the-art-of-youtube-content/"><u>[New] In 2024, From Zero to Hero Learning the Art of YouTube Content</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-glamour-unleashed-comprehensive-youtube-guide-to-elegance/"><u>[New] In 2024, Glamour Unleashed Comprehensive YouTube Guide to Elegance</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-the-comprehensible-guide-to-earnings-as-a-youtube-channel/"><u>[New] In 2024, The Comprehensible Guide to Earnings as a YouTube Channel</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-top-11-youtube-video-rippers-to-download-youtube-videos-for-2024/"><u>[New] Top 11 YouTube Video Rippers to Download YouTube Videos for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-bio-engineered-healing-spaces-via-arvr-for-2024/"><u>[Updated] Bio-Engineered Healing Spaces via AR/VR for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-harmonizing-lifestyle-through-the-most-inspiring-yoga-vlogs-for-2024/"><u>[Updated] Harmonizing Lifestyle Through the Most Inspiring Yoga Vlogs for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-in-2024-ancient-images-modern-preservation-the-art-and-science-of-old-print-digitizing/"><u>[Updated] In 2024, Ancient Images, Modern Preservation The Art & Science of Old Print Digitizing</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/9-best-phone-monitoring-apps-for-vivo-y56-5g-drfone-by-drfone-virtual-android/"><u>9 Best Phone Monitoring Apps for Vivo Y56 5G | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/amazons-game-changer-34qhd-lg-ultragear-monitor-with-elite-g-sync-now-at-unbeatable-price-of-549/"><u>Amazon's Game Changer: 34QHD LG Ultragear Monitor with Elite G-Sync, Now at Unbeatable Price of $549</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/mastery-in-media-download-from-facebook-platforms/"><u>Mastery in Media Download From Facebook Platforms</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/regain-control-how-to-combat-cellphone-disruption-in-four-easy-steps/"><u>Regain Control: How to Combat Cellphone Disruption in Four Easy Steps</u></a></li>
+<li><a href="https://fake-location.techidaily.com/thinking-about-changing-your-netflix-region-without-a-vpn-on-vivo-s18-pro-drfone-by-drfone-virtual-android/"><u>Thinking About Changing Your Netflix Region Without a VPN On Vivo S18 Pro? | Dr.fone</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/video-capture-crusade-obs-vs-shadowcast-for-2024/"><u>Video Capture Crusade OBS Vs ShadowCast for 2024</u></a></li>
 </ul></div>
 

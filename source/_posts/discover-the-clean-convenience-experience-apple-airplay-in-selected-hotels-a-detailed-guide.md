@@ -1,7 +1,7 @@
 ---
 title: "Discover the Clean Convenience: Experience Apple AirPlay in Selected Hotels – A Detailed Guide"
-date: 2024-10-22T19:57:59.685Z
-updated: 2024-10-27T19:24:54.648Z
+date: 2024-10-31T14:15:38.755Z
+updated: 2024-11-02T12:08:34.378Z
 tags:
   - apple
 categories:
@@ -32,6 +32,13 @@ Before you get started using Apple Pay in stores and online, here's what you nee
 
 **What you need:** iPhone, banking information
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2136545/16384" target="_top" id="2136545">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136545" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136545/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. Set up Apple Pay in the Wallet app
 
 Before using Apple Pay as your contactless payment form, you need to set it up by adding your credit or debit cards to your iPhone. You can set up Apple Pay from your [iPhone's settings](https://www.zdnet.com/article/dont-change-five-these-iphone-settings/) or simply by going to the Wallet app and adding your cards there. 
@@ -39,6 +46,13 @@ Before using Apple Pay as your contactless payment form, you need to set it up b
 Tap on the Wallet app to open it.
 
 Screenshot by Maria Diaz/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100529/7443" target="_top" id="2100529">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 2\. Tap on the Add Card button and enter Apple Pay info
 
@@ -62,19 +76,6 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
-<!-- affiliate ads begin -->
-<span id="1374819">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1374819.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1374819">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374819.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374819%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374819/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 3\. During check-out, double-click the right-side button of your iPhone
 
 Double-clicking, or, rather, double-pressing, the button on the right side of your iPhone brings up your available cards to use in Apple Pay. Do this when it's time to pay at the checkout counter, and you can then choose your preferred payment card when the Wallet comes up.
@@ -83,13 +84,6 @@ Double-press the iPhone's right-side button to access Apple Pay.
 
 Maria Diaz/ZDNET
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118326/7443" target="_top" id="2118326">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118326" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118326/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 4\. Enter your Apple Pay passcode or use Face ID to confirm payment
 
 Once you've tapped on a card from your iPhone's Wallet, you'll be prompted to enter your passcode or use Face ID to authorize and pay for your purchase using Apple Pay. 
@@ -97,13 +91,6 @@ Once you've tapped on a card from your iPhone's Wallet, you'll be prompted to en
 Enter your passcode to confirm Apple Pay payment.
 
 Maria Diaz/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135394/19272" target="_top" id="2135394">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135394" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135394/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 5\. Hold your iPhone near the payment terminal
 
@@ -130,26 +117,26 @@ To set up Apple Pay, you go to your iPhone's Settings and follow these steps:
 
 Once you add your card to your Wallet, you can edit your settings to suit your needs. You can choose to enable Apple Cash; enable the double-click side button to work as a shortcut for Apple Pay' add Express Transit Cards to pay for transit automatically without a passcode or Face ID; edit your transaction information like default card, shipping address, and contact info; and toggle payments on your Mac on and off. 
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137216/26400" target="_top" id="2137216">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137216" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137216/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Where can I use Apple Pay to pay in stores and online?
 
 You can use Apple Pay with an iPhone or Apple Watch at checkout wherever there is a payment terminal with NFC. Most retailers have them at the checkout counter, with some exceptions. Just look for the NFC symbol on the card reader or an Apple Pay logo. Some banks even support Apple Pay at NFC-enabled ATMs so you can make withdrawals or access your account. 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151888/7443" target="_top" id="2151888">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151888" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151888/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## What is NFC?
 
 NFC stands for [near-field communication](https://www.zdnet.com/article/near-field-communication-aims-to-simplify-our-lives/). It's a technology that employs magnetic field induction to allow wireless communication between two electronic devices at a short range, typically less than 4 centimeters or 1.5 inches.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135350/19272" target="_top" id="2135350">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135350" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/1030380/11832" target="_top" id="1030380">
+  <img src="//a.impactradius-go.com/display-ad/11832-1030380" border="0" alt="https://techidaily.com" width="720" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135350/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030380/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Can I use Apple Pay online?
@@ -169,6 +156,13 @@ To use Apple Pay online, choose Apple Pay at checkout from your iPhone or other 
 **Also: [Have you used Cash App in the last 6 years? You might be eligible for $2,500](https://www.zdnet.com/article/have-you-used-cash-app-within-the-past-six-years-you-might-be-eligible-for-2500/)**
 
 Some services from Apple offer rewards, like cash back on its credit cards, which also translate into Apple Cash. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130871/7443" target="_top" id="2130871">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130871" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130871/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to use Apple Pay on your Apple Watch
 
@@ -218,17 +212,21 @@ Using Apple Pay or [Google Pay](https://www.zdnet.com/finance/google-pay-vs-sams
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-download-unlimited-mcb-visual-elements/"><u>[New] 2024 Approved Download Unlimited MCB Visual Elements</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-blurred-lines-the-art-of-anonymizing-youtube-content-for-2024/"><u>[New] Blurred Lines The Art of Anonymizing YouTube Content for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-elevate-video-performance-following-the-path-of-stars-for-2024/"><u>[New] Elevate Video Performance Following the Path of Stars for 2024</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-qzone-elites-brief-visits-to-snapchat/"><u>[Updated] Qzone Elites' Brief Visits to Snapchat</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-secrets-of-finding-exclusive-youtube-design-archives/"><u>[Updated] Secrets of Finding Exclusive YouTube Design Archives</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-unlock-the-value-of-viewership-a-clear-concise-guide-to-evaluating-youtube-earnings/"><u>[Updated] Unlock the Value of Viewership A Clear, Concise Guide to Evaluating YouTube Earnings</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/does-galaxy-m14-5g-support-mkv-video-files-by-aiseesoft-video-converter-play-mkv-on-android/"><u>Does Galaxy M14 5G support MKV video files?</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-create-professional-looking-animations-with-these-12-online-makers/"><u>In 2024, Create Professional-Looking Animations with These 12 Online Makers</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-full-guide-on-mirroring-your-realme-11x-5g-to-your-pcmac-drfone-by-drfone-android/"><u>In 2024, Full Guide on Mirroring Your Realme 11X 5G to Your PC/Mac | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-remove-screen-lock-pin-on-honor-magic-6-like-a-pro-5-easy-ways-by-drfone-android/"><u>In 2024, How To Remove Screen Lock PIN On Honor Magic 6 Like A Pro 5 Easy Ways</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/three-ways-to-sim-unlock-oppo-a78-5g-by-drfone-android/"><u>Three Ways to Sim Unlock Oppo A78 5G</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/updated-user-choice-top-free-streaming-sites-for-sports-for-2024/"><u>Updated User Choice Top Free Streaming Sites for Sports for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-elevating-youtube-live-with-high-quality-webcam-cameras-for-2024/"><u>[New] Elevating YouTube Live with High-Quality Webcam Cameras for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-innovative-approaches-to-android-video-capture/"><u>[Updated] 2024 Approved Innovative Approaches to Android Video Capture</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-how-to-effortlessly-record-your-iphone-screen-for-2024/"><u>[Updated] How to Effortlessly Record Your iPhone Screen for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-initiating-engagement-start-your-live-on-instagram/"><u>[Updated] In 2024, Initiating Engagement Start Your Live on Instagram</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/discover-what-waits-in-vision-pros-travel-mode-a-must-read-guide-for-newcomers/"><u>Discover What Waits in Vision Pro's Travel Mode - A Must-Read Guide for Newcomers</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/elevate-your-edits-mastering-picart-backdrop-blanking-for-2024/"><u>Elevate Your Edits Mastering PicArt Backdrop Blanking for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/eliminate-vr-discomfort-10-tips/"><u>Eliminate VR Discomfort 10 Tips</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-screen-mirroring-apple-iphone-xs-to-tv-or-pc-drfone-by-drfone-ios/"><u>How Screen Mirroring Apple iPhone XS to TV or PC? | Dr.fone</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/in-2024-revolutionize-your-branding-50-free-youtube-banners-inside/"><u>In 2024, Revolutionize Your Branding - 50 Free YouTube Banners Inside!</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/introducing-apples-enhanced-logic-pro-artificial-intelligence-bandmates-for-ipad-and-mac-the-latest-update-explained/"><u>Introducing Apple's Enhanced Logic Pro: Artificial Intelligence Bandmates for iPad & Mac - The Latest Update Explained</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/overcome-your-portable-charger-woes-with-the-affordable-20-anker-power-bank-insights-from-zdnet/"><u>Overcome Your Portable Charger Woes with the Affordable $20 Anker Power Bank - Insights From ZDNet</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/section-2a-explanation-of-gas-chromatography-detectors/"><u>Section 2A: Explanation of Gas Chromatography Detectors</u></a></li>
+<li><a href="https://windows11.techidaily.com/step-by-step-methodology-for-full-uninstallation-of-wsl/"><u>Step-by-Step Methodology for Full Uninstallation of WSL</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/the-top-concerns-with-the-latest-iphone-ios-update-youre-not-alone-ios-18/"><u>The Top Concerns with the Latest iPhone iOS Update – You’re Not Alone (iOS 18)</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/top-rated-childrens-tablets-parental-approval-guaranteed-insights/"><u>Top Rated Children's Tablets: Parental Approval Guaranteed - Insights</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/unleash-your-inner-athlete-discover-how-the-apple-airpods-pros-heart-rate-monitoring-can-transform-your-workouts-techradar/"><u>Unleash Your Inner Athlete: Discover How the Apple AirPods Pro's Heart Rate Monitoring Can Transform Your Workouts | TechRadar</u></a></li>
 </ul></div>
 

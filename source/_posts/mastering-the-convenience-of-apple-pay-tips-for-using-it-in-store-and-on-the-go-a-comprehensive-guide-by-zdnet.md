@@ -1,7 +1,7 @@
 ---
 title: "Mastering the Convenience of Apple Pay: Tips for Using It In-Store and On-the-Go – A Comprehensive Guide by ZDNet"
-date: 2024-10-24T16:56:36.972Z
-updated: 2024-10-27T20:23:19.507Z
+date: 2024-10-27T23:39:15.227Z
+updated: 2024-11-01T19:01:54.878Z
 tags:
   - apple
 categories:
@@ -37,10 +37,10 @@ Apple was expected to focus on incorporating AI into its apps to simplify users'
 Apple Intelligence focuses on broad-appeal AI features rather than advanced image and video generation. To do this, the company developed in-house AI models and partnered with OpenAI to power a chatbot that will integrate [ChatGPT](https://www.zdnet.com/article/what-is-chatgpt-and-why-does-it-matter-heres-everything-you-need-to-know/) into iOS, iPadOS, and MacOS.
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129041/19576" target="_top" id="2129041">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129041" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1925484/19272" target="_top" id="1925484">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925484" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129041/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925484/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## What does Apple Intelligence do?
@@ -79,16 +79,10 @@ The voice assistant will also be able to perform hundreds of new actions across 
 Apple is also upgrading Siri to understand text, allowing users to type or speak to Siri as needed. 
 
 <!-- affiliate ads begin -->
-<span id="1834903">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2043593/7443" target="_top" id="2043593">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043593" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043593/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## What's new in Apple's photo editing & search?
@@ -116,10 +110,10 @@ The same feature can help users make major edits to text, such as changing the t
 Apple devices will also get AI upgrades for recordings and transcriptions in Voice Memos and Phone, as users can quickly transcribe voice notes with AI.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151873/7443" target="_top" id="2151873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151873" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151892/7443" target="_top" id="2151892">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151892" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151892/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## What is Image Playground?
@@ -133,6 +127,13 @@ Apple will let users generate images using AI in Messages, Photos Notes, Keynote
 In the Notes app, for example, a new tool called Image Wand will let you circle a rough sketch and use on-device AI to have Image Playground pull ideas from the surrounding areas to generate an image. 
 
 Image Playground will be available in beta this fall, and some features will be released over the next year.
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/947750/11832" target="_top" id="947750">
+  <img src="//a.impactradius-go.com/display-ad/11832-947750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947750/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Is ChatGPT coming to iPhone, iPad, and Mac?
 
@@ -161,13 +162,6 @@ In turn, cloud-based AI processing requires sending data from the device to remo
 Apple is leveraging what it calls Private Cloud Compute for complex tasks that require cloud servers. These processes draw on larger server-based models while protecting user privacy. The servers are built on Apple Silicon, and the data is never saved in the cloud.
 
 Depending on its complexity and system requirements, an algorithm will determine whether a task requiring AI should be processed on-device or offloaded to the cloud. Simpler tasks like a Siri request and other basic NLP tasks can be processed on-device. More complex tasks, like generating a detailed summary of a large document, will be sent to the cloud, where more robust processing can occur. 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130874/7443" target="_top" id="2130874">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130874" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130874/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Is Apple Intelligence actually private and secure?
 
@@ -224,15 +218,19 @@ While these AI features may help drive sales of new iPhones and Macs, as a curre
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-guidance.techidaily.com/updated-mastering-script-structuring/"><u>[Updated] Mastering Script Structuring</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-top-10-christian-melodies-download-and-personalize-guide-for-2024/"><u>[Updated] Top 10 Christian Melodies Download & Personalize Guide for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/comparing-h2/"><u>Comparing H.2</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/effortless-guide-to-converting-your-dvds-into-itunes-library-for-play-on-ipod-devices/"><u>Effortless Guide to Converting Your DVDs Into iTunes Library for Play on iPod Devices</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/mastering-manga-digitally-tips-for-enjoying-comic-books-on-kindle-platforms/"><u>Mastering Manga Digitally: Tips for Enjoying Comic Books on Kindle Platforms</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/new-arm-support-now-live-upgrade-your-filmora-x-experience-for-2024/"><u>New ARM Support Now Live Upgrade Your Filmora X Experience for 2024</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/the-ultimate-guide-to-scoring-big-tech-deals-at-amazon-prime-day-2024/"><u>The Ultimate Guide to Scoring Big Tech Deals at Amazon Prime Day 2024</u></a></li>
-<li><a href="https://win-help.techidaily.com/transform-your-physical-library-into-digital-flipbooks-replicate-actual-page-flipping-feature-with-easeflipbuildercom/"><u>Transform Your Physical Library Into Digital FlipBooks - Replicate Actual Page-Flipping Feature with Ease![FlipBuilder.com]</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/ultimate-guide-selecting-superior-dvd43-substitutes-to-safely-copy-dvds-on-mac-systems/"><u>Ultimate Guide: Selecting Superior DVD43 Substitutes to Safely Copy DVDs on Mac Systems</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/web-video-upload-and-download-tutorial-how-to-convert-and-edit-your-content/"><u>Web Video Upload & Download Tutorial: How to Convert and Edit Your Content</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-architectural-wonders-from-the-sandbox/"><u>[New] Architectural Wonders From the Sandbox</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-guffaws-in-grooves-parody-playlist-for-2024/"><u>[New] Guffaws in Grooves Parody Playlist for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/n-2024-achieve-professional-quality-on-yt-with-simple-blurring/"><u>[New] In 2024, Achieve Professional Quality on YT with Simple Blurring</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-raw-to-refined-expert-techniques-for-youtube-content-creators/"><u>[New] In 2024, From Raw to Refined Expert Techniques for YouTube Content Creators</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-free-youtube-revenue-predictor-tools/"><u>[Updated] 2024 Approved Free YouTube Revenue Predictor Tools</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-demystifying-instagram-selfies-a-comprehensive-guide/"><u>[Updated] In 2024, Demystifying Instagram Selfies A Comprehensive Guide</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-creator-to-critic-evaluating-video-value-across-platforms/"><u>[Updated] In 2024, From Creator to Critic Evaluating Video Value Across Platforms</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-digital-avatars-to-internet-stardom-becoming-a-vtuber/"><u>[Updated] In 2024, From Digital Avatars to Internet Stardom – Becoming a Vtuber?</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-organizing-your-skype-conversations-windowsmac-edition/"><u>[Updated] Organizing Your Skype Conversations Windows/Mac Edition</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/a-complete-guide-to-oem-unlocking-on-oppo-find-x6-by-drfone-android/"><u>A Complete Guide To OEM Unlocking on Oppo Find X6</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/expert-review-on-the-latest-netatmo-weather-station-blending-functionality-with-digital-elegance/"><u>Expert Review on the Latest Netatmo Weather Station: Blending Functionality with Digital Elegance</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-pokemon-go-cooldown-chart-on-vivo-y78t-drfone-by-drfone-virtual-android/"><u>In 2024, Pokémon Go Cooldown Chart On Vivo Y78t | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-ultimate-guide-to-catch-the-regional-located-pokemon-for-honor-magic-v2-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate Guide to Catch the Regional-Located Pokemon For Honor Magic V2 | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/smooth-shifts-audio-transition-wisdom-from-sonar-by-platinum-for-2024/"><u>Smooth Shifts Audio Transition Wisdom From Sonar by Platinum for 2024</u></a></li>
 </ul></div>
 

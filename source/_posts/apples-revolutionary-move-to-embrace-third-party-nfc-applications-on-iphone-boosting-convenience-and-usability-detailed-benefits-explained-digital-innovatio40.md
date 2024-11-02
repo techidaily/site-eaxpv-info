@@ -1,7 +1,7 @@
 ---
 title: Apple's Revolutionary Move to Embrace Third-Party NFC Applications on iPhone, Boosting Convenience and Usability - Detailed Benefits Explained | Digital Innovations Blog
-date: 2024-10-24T20:22:11.846Z
-updated: 2024-10-27T17:36:34.366Z
+date: 2024-10-25T16:28:38.194Z
+updated: 2024-11-02T13:50:23.435Z
 tags:
   - apple
 categories:
@@ -86,13 +86,6 @@ Adam Breeden/ZDNET
 * The **Safari app** was upgraded to include key information about a webpage. You can read more about the Safari upgrades under the MacOS section of this article.
 * The **Calendar app** can now pull from the Reminders app for a more seamless schedule overview.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118326/7443" target="_top" id="2118326">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118326" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118326/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## WatchOS 11
 
 Adam Breeden/ZDNET
@@ -107,13 +100,6 @@ Adam Breeden/ZDNET
 * **Check In** is available on Apple Watch, even during workouts, to help users stay safe. **Translate** is also coming to Apple Watch so users can translate text right from their wrists.
 * Another notable change is that the **double tap gesture** can be used to scroll through apps.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2112008/7443" target="_top" id="2112008">
-  <img src="//a.impactradius-go.com/display-ad/7443-2112008" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112008/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## iPadOS 18
 
 Adam Breeden/ZDNET
@@ -123,6 +109,13 @@ Adam Breeden/ZDNET
 * In a long-awaited release, iPads will now have a **[calculator app](https://www.zdnet.com/article/after-14-years-apple-expected-to-unveil-the-ipad-app-weve-all-been-waiting-for-at-wwdc/)** for the first time, complete with the same interface as the one currently found on iPhones. Plus, users can use it with the Apple Pencil through a new **Math Notes** experience, which allows users to write expressions that the calculator app will solve for them once they type the equal sign, in their own handwriting,
 * Handwriting in Notes also got an upgrade with **Smart** **Script**, which refines users' writing to make it more legible while keeping the authenticity of the user's handwriting style. The feature can also match copied and pasted text to the user's handwriting. Typed text was also enhanced, with five new highlight colors and the ability to toggle sections under headings or subheadings.
 * iPadOS 18 supports **screen-sharing via SharePlay** and the same Control Center customizations, Photos app upgrades, Safari updates, and emoji Tapbacks found in **iOS 18.**
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144285/7443" target="_top" id="2144285">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144285" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144285/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## MacOS 15 (Sequoia)
 
@@ -136,10 +129,10 @@ Adam Breeden/ZDNET
 * Apple also launched a new **Viewer experience**, which does for video what Reader does for text.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1884002/19272" target="_top" id="1884002">
-  <img src="//a.impactradius-go.com/display-ad/19272-1884002" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123733/7443" target="_top" id="2123733">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123733" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884002/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123733/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## VisionOS 2
@@ -160,10 +153,10 @@ Jason Hiner/ZDNET
 * Apple is also making the Vision Pro available in more countries starting June 28\. You can see the full list [here](https://www.apple.com/newsroom/2024/06/apple-vision-pro-arrives-in-new-countries-and-regions-beginning-june-28/).
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948954/19272" target="_top" id="1948954">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948954" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/947746/11832" target="_top" id="947746">
+  <img src="//a.impactradius-go.com/display-ad/11832-947746" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948954/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947746/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## AirPods
@@ -173,6 +166,13 @@ Jason Hiner/ZDNET
 * AirPods Pro are getting **Voice Isolation** to enhance call quality in noisier environments.
 * With the new **Siri Interactions**, users can now **nod or shake their head** "yes" or "no" when responding to Siri.
 * Apple is also releasing a **Personalized Spatial Audio API** for game developers to build around the AirPods' audio technology.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130886/7443" target="_top" id="2130886">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130886" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130886/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## tvOS 18
 
@@ -218,20 +218,22 @@ Screenshot by Nina Raemont/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/nsight-into-why-certain-youtube-comments-are-showcased-for-2024/"><u>[New] Insight Into Why Certain YouTube Comments Are Showcased for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-stills-extraction-procedure-windows-11-photos-guide/"><u>[Updated] 2024 Approved Stills Extraction Procedure Windows 11 Photos Guide</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/202420/"><u>【2024年版】安全かつ合法的に楽しむためのベスト20無料マンガウェブサイト</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-low-cost-gopro-cameras-where-to-find-them/"><u>2024 Approved Low-Cost GoPro Cameras Where to Find Them</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/bypassing-itunes-how-to-add-custom-ringtones-to-an-iphone-for-free/"><u>Bypassing iTunes: How to Add Custom Ringtones to an iPhone for Free</u></a></li>
-<li><a href="https://solve-latest.techidaily.com/experience-tailored-browsing-sessions-through-cookiebot-integration/"><u>Experience Tailored Browsing Sessions Through Cookiebot Integration</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-send-and-fake-live-location-on-facebook-messenger-of-your-motorola-moto-g23-drfone-by-drfone-virtual-android/"><u>How to Send and Fake Live Location on Facebook Messenger Of your Motorola Moto G23 | Dr.fone</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/how-to-use-idvd-on-your-mac-accepted-video-sound-and-picture-formats-explained/"><u>How to Use iDVD on Your Mac: Accepted Video, Sound, and Picture Formats Explained</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/resolving-ios-17-update-failure-steps-to-successfully-upgrade-your-iphone-or-ipad/"><u>Resolving iOS 17 Update Failure: Steps to Successfully Upgrade Your iPhone or iPad</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/solving-handbrake-issues-a-step-by-step-guide-to-ripping-dvd-titles-perfectly/"><u>Solving HandBrake Issues: A Step-by-Step Guide to Ripping DVD Titles Perfectly</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/the-best-5-iso-compressor-tools-for-efficiently-managing-your-iso-files/"><u>The Best 5 ISO Compressor Tools for Efficiently Managing Your ISO Files</u></a></li>
-<li><a href="https://fake-location.techidaily.com/the-best-8-vpn-hardware-devices-reviewed-on-oneplus-11-5g-drfone-by-drfone-virtual-android/"><u>The Best 8 VPN Hardware Devices Reviewed On OnePlus 11 5G | Dr.fone</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/tips-for-extracting-tweets-as-mp3-audio-files/"><u>Tips for Extracting Tweets as MP3 Audio Files</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/ultimate-mac-compatible-blu-ray-ripper-and-dvd-maker-with-quickconversion-feature/"><u>Ultimate Mac Compatible Blu Ray Ripper & DVD Maker with QuickConversion Feature</u></a></li>
-<li><a href="https://review-topics.techidaily.com/why-your-whatsapp-location-is-not-updating-and-how-to-fix-on-itel-p55-drfone-by-drfone-virtual-android/"><u>Why Your WhatsApp Location is Not Updating and How to Fix On Itel P55 | Dr.fone</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-cutting-edge-strategies-for-voice-documentation/"><u>[New] 2024 Approved Cutting-Edge Strategies for Voice Documentation</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-prevent-thumbnail-absence-in-shorts-uploads/"><u>[New] 2024 Approved How to Prevent Thumbnail Absence in Shorts Uploads</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-from-beef-to-brilliance-jake-pauls-youtube-transformation-for-2024/"><u>[New] From Beef to Brilliance Jake Paul’s Youtube Transformation for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-from-creator-to-earnings-successful-youtube-short-strategies-for-2024/"><u>[New] From Creator to Earnings Successful YouTube Short Strategies for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-free-fast-and-reliable-download-your-favorite-youtube-content/"><u>[New] In 2024, Free, Fast and Reliable Download Your Favorite YouTube Content</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-find-your-perfect-vlog-title-best-free-name-generators/"><u>[Updated] 2024 Approved Find Your Perfect Vlog Title - Best Free Name Generators</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-finding-and-exploring-your-own-music-selection-zone-on-youtube/"><u>[Updated] 2024 Approved Finding and Exploring Your Own Music Selection Zone on Youtube</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-bridging-photo-realms-on-your-system/"><u>[Updated] Bridging Photo Realms on Your System</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-see-your-subscribers-on-youtube-in-2024/"><u>[Updated] How to See Your Subscribers on YouTube, In 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-charting-the-course-establishing-a-powerful-gaming-channel/"><u>[Updated] In 2024, Charting the Course Establishing a Powerful Gaming Channel</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-free-fx-library-to-enhance-youtube-productions/"><u>[Updated] In 2024, Free FX Library to Enhance YouTube Productions</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-unveiling-the-5-prized-webcams-for-ultimate-game-broadcasting/"><u>[Updated] Unveiling the 5 Prized Webcams for Ultimate Game Broadcasting</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/approved-your-step-by-step-guide-to-building-a-profitable-channel/"><u>2024 Approved Your Step-by-Step Guide to Building a Profitable Channel</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/expert-guide-overcoming-technical-glitches-in-star-wars-jedi-fallen-order-for-pc-players/"><u>Expert Guide: Overcoming Technical Glitches in Star Wars Jedi: Fallen Order for PC Players</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-to-come-up-with-the-best-pokemon-team-on-tecno-camon-30-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Come up With the Best Pokemon Team On Tecno Camon 30 Pro 5G? | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/top-11-free-apps-to-check-imei-on-vivo-x100-phones-by-drfone-android/"><u>Top 11 Free Apps to Check IMEI on Vivo X100 Phones</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/top-4-sim-location-trackers-to-easily-find-your-lost-lava-storm-5g-device-by-drfone-android/"><u>Top 4 SIM Location Trackers To Easily Find Your Lost Lava Storm 5G Device</u></a></li>
 </ul></div>
 

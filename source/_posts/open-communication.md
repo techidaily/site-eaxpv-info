@@ -1,7 +1,7 @@
 ---
 title: Open Communication
-date: 2024-10-20T16:16:27.363Z
-updated: 2024-10-27T18:21:54.807Z
+date: 2024-10-25T20:47:07.717Z
+updated: 2024-11-02T12:22:14.639Z
 tags:
   - apple
 categories:
@@ -40,13 +40,6 @@ Screenshot by Lance Whitney/ZDNET
 
 **Also: [I was on the fence with the Apple Watch 10, but these 3 features changed my mind](https://www.zdnet.com/article/i-was-on-the-fence-with-the-apple-watch-10-but-these-3-features-changed-my-mind/)**
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948954/19272" target="_top" id="1948954">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948954" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948954/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. Send the default Check In through the Messages app
 
 Launch the Messages app on your Apple Watch. Start or continue a conversation with a trusted family member or friend. Tap the + icon to the left of the iMessage field. From the menu, select Check In. By default, the Check In screen will indicate a specific destination, such as home or work, and the estimated time of arrival from your current location. The feature will use a timer to determine how long it will take you to reach the destination. If you wish to share that information as is with the other person, tap Send.
@@ -54,10 +47,10 @@ Launch the Messages app on your Apple Watch. Start or continue a conversation wi
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135395/19272" target="_top" id="2135395">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135395" border="0" alt="https://techidaily.com" width="125" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997722/19272" target="_top" id="1997722">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997722" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135395/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997722/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. View the initial Check In notification
@@ -76,6 +69,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130870/7443" target="_top" id="2130870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. View the actual Check in alert
 
 When the timer is up to indicate that you should have reached your destination, you'll be prompted to stop the Check In to confirm that you've arrived. You can add more time or cancel the Check In. Otherwise, the recipient will receive your Check In notification. If the confirmation isn't sent, more time will be added. After that, the recipient will be informed that you haven't yet checked in. They can then try to contact you by text or phone call to find out why you haven't yet arrived.
@@ -92,13 +92,6 @@ If you still wish to use a timer for the Check In option but change the amount o
 
 Screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130874/7443" target="_top" id="2130874">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130874" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130874/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 6\. Send a customized Check In through the Messages app
 
 To further customize the Check In, tap the Edit button at the Check In screen. Tap Check In. You can now set a notification to be sent when you've arrived at your destination, after the timer ends, or when a workout ends. Tap the option for "When I arrive."
@@ -114,10 +107,10 @@ Screenshot by Lance Whitney/ZDNET
 **Also: [Your Apple Watch is getting an upgrade - here are the best features in WatchOS 11](https://www.zdnet.com/article/your-apple-watch-is-getting-an-upgrade-here-are-the-best-features-in-watchos-11/)**
 
 <!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/352557/5172" target="_top" id="352557">
-  <img src="//a.impactradius-go.com/display-ad/5172-352557" border="0" alt="https://techidaily.com" width="720" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151884/7443" target="_top" id="2151884">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151884" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352557/5172" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151884/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 8\. Set a Check In for a workout in the Messages app
@@ -125,6 +118,13 @@ Screenshot by Lance Whitney/ZDNET
 Maybe you're working out at the gym or at home and want to let someone know when you've finished. You can do this a couple of ways. In the Messages app on your watch, start or continue a conversation with the recipient. Tap the Add icon, select Check In, and then tap Edit. Tap the option for Check In and change it to "When workout ends." Start your workout. When you're done, swipe the screen to the right and tap End. The other person will then receive the notification.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938750/19272" target="_top" id="1938750">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938750/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 9\. Set a Check In for a workout in the Workout app
 
@@ -162,18 +162,19 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-2024-approved-elevating-online-presence-with-obs-facebook-linking/"><u>[New] 2024 Approved Elevating Online Presence with OBS-Facebook Linking</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-maximize-engagement-the-ultimate-list-of-youtube-growth-tactics/"><u>[New] Maximize Engagement The Ultimate List of YouTube Growth Tactics</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-a-quick-dive-into-video-ratios-the-aspect-ratio-essentials-for-youtubers/"><u>[Updated] 2024 Approved A Quick Dive Into Video Ratios The Aspect Ratio Essentials for YouTubers</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-first-steps-to-fame-8-free-courses-for-youtube-novices/"><u>[Updated] 2024 Approved First Steps to Fame 8 Free Courses for YouTube Novices</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-amplify-your-channel-effortless-tactics-for-more-views-for-2024/"><u>[Updated] Amplify Your Channel Effortless Tactics for More Views for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-obs-studio-streamlining-your-professional-skype-broadcasts/"><u>[Updated] OBS Studio Streamlining Your Professional Skype Broadcasts</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-streamlining-your-gaming-playback-for-2024/"><u>[Updated] Streamlining Your Gaming Playback for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-top-25-capture-apps-for-your-windows-10-device/"><u>[Updated] Top 25 Capture Apps for Your Windows 10 Device</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/2024-approved-mastering-the-art-of-camera-recording-top-picks/"><u>2024 Approved Mastering the Art of Camera Recording – Top Picks</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-radiance-studios-review-pinnacle-suite-deep-dive-into-studio-25-2023/"><u>2024 Approved Radiance Studios Review Pinnacle Suite Deep Dive Into Studio 25, 2023</u></a></li>
-<li><a href="https://win-outstanding.techidaily.com/aomei-backupper-google/"><u>AOMEI Backupperで失われたファイルを完全に復元する方法 - Google検索最適化</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/essential-mac-apps-screen-recording-made-simple/"><u>Essential Mac Apps Screen Recording Made Simple</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/whats-the-real-distinction-between-youtube-and-dailymention-for-2024/"><u>What's the Real Distinction Between YouTube and DailyMention for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-fifa-video-highlights-top-youtube-data-infographics/"><u>[New] 2024 Approved FIFA Video Highlights Top YouTube Data Infographics</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-free-online-webinar-conduct-with-youtube-for-2024/"><u>[New] Free Online Webinar Conduct with YouTube for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-from-novice-to-pro-your-step-by-step-guide-to-youtube-live-images-for-2024/"><u>[New] From Novice to Pro Your Step-by-Step Guide to YouTube Live Images for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-highlighting-youtubes-creme-de-la-creme-makeup-influencers-for-2024/"><u>[New] Highlighting YouTube's Crème De La Crème Makeup Influencers for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-how-to-choose-between-portable-and-plugged-in-virtual-reality-whats-your-preference-wireless-or-connected-in-2024/"><u>[New] How to Choose Between Portable and Plugged-In Virtual Reality What's Your Preference, Wireless or Connected, In 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-finding-legal-music-a-producers-manual/"><u>[New] In 2024, Finding Legal Music A Producer's Manual</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-harmonic-hits-top-rated-dj-template-downloads/"><u>[Updated] 2024 Approved Harmonic Hits Top-Rated DJ Template Downloads</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/updated-copying-safely-on-tiktok-a-2023-guide-to-rights-checks/"><u>[Updated] Copying Safely on TikTok A 2023 Guide to Rights Checks</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-ios-and-ps2-gaming-top-emulators-unveiled/"><u>2024 Approved IOS and PS2 Gaming Top Emulators Unveiled</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/approved-the-editors-guide-to-powerful-notebooks-and-more/"><u>2024 Approved The Editor's Guide to Powerful Notebooks and More</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/easy-conversion-tutorial-transforming-h265-into-h264-with-ffmpeg/"><u>Easy Conversion Tutorial: Transforming H265 Into H264 with FFmpeg</u></a></li>
+<li><a href="https://android-frp.techidaily.com/oppo-a58-4g-adb-format-tool-for-pc-vs-other-unlocking-tools-which-one-is-the-best-by-drfone-android/"><u>Oppo A58 4G ADB Format Tool for PC vs. Other Unlocking Tools Which One is the Best?</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/the-updated-method-to-bypass-xiaomi-redmi-13c-5g-frp-by-drfone-android/"><u>The Updated Method to Bypass Xiaomi Redmi 13C 5G FRP</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/ultimate-fixes-for-windows-10-setup-failure-with-error-code-80240020/"><u>Ultimate Fixes for Windows 10 Setup Failure with Error Code 80240020</u></a></li>
 </ul></div>
 

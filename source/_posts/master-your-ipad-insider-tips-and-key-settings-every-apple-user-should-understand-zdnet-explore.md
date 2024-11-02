@@ -1,7 +1,7 @@
 ---
 title: "Master Your iPad: Insider Tips & Key Settings Every Apple User Should Understand - ZDNet Explore"
-date: 2024-10-20T17:51:23.634Z
-updated: 2024-10-27T17:30:25.692Z
+date: 2024-10-29T08:11:17.964Z
+updated: 2024-11-02T02:22:41.007Z
 tags:
   - apple
 categories:
@@ -37,10 +37,10 @@ In iPadOS 17, Apple added the ability to customize your iPad's lock screen, and 
 **How to:** Wake up your iPad, unlock it, then press and hold on the lock screen. If you've used an iPhone in the past, you know exactly what to do next. Tap the "Customize" button and begin tweaking the lock screen to your liking.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/857869/11832" target="_top" id="857869">
-  <img src="//a.impactradius-go.com/display-ad/11832-857869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137206/26400" target="_top" id="2137206">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137206" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857869/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137206/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Configure your focus settings
@@ -60,13 +60,6 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 **How to**: Go to Settings > Focus on your iPad, and you'll find various options to set up a Focus mode for work, personal, fitness, mindfulness, and more. The interface will guide you through setting up your notification settings, which contacts can ping you, and more. Plus, once you've set it up, it'll sync automatically with your iPhone, Apple Watch, and Mac.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134238/18498" target="_top" id="2134238">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134238" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134238/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 3\. Turn on Stage Manager when you need more multitasking chops
 
@@ -88,13 +81,6 @@ Yes, I realize this setting doesn't _actually_ protect your eyesight in the long
 
 **How to**: Head to Settings > Display & Brightness > Night Shift. From there, you can manually turn it on, schedule it to turn on during certain times, and adjust how warm you want your display to turn.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130532/26400" target="_top" id="2130532">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130532" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130532/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 5\. Low Power Mode can quickly become your best friend
 
 There's no doubt that iPads (especially some of the more recent models) have great battery life. My iPad cruises easily through a full day of use before conking out at bedtime. But that's only true if you limit the amount of heavy lifting you put your iPad through. If you're editing photos or videos, playing lots of games, or using it on a spotty Wi-Fi network for very long, it's going to die sooner than you expect.
@@ -105,11 +91,25 @@ That's where Low Power Mode comes in. With Low Power Mode, your iPad will limit 
 
 **How to**: Swipe down from the top right corner to access Control Center, then tap the battery button to enable it. Your battery meter will then turn yellow, indicating that Low Power Mode is on. To disable it, follow the same steps.
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148639/16836" target="_top" id="2148639">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148639" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148639/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 6\. Hide your notifications from prying eyes
 
 Sometimes, you just want to keep the contents of your iPad's notifications to yourself, whether for work reasons or if you're planning a surprise party for someone and they see the email confirming the delivery of their birthday cake. On the iPad, it's easy to lock away your notifications and only make them visible once you've used your fingerprint or face to log in.
 
 **How to**: Go to Settings > Notifications > Show Previews and change it from "Always" to "When Unlocked."
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139112/17108" target="_top" id="2139112">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139112" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139112/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 7\. Split or float your keyboard
 
@@ -133,13 +133,6 @@ Of course, while the feature is enabled out of the box, there's always a chance 
 
 **How to**: Head over to Settings > Accessibility > Motion and ensure that "Limit Refresh Rate" _isn't_ enabled. If it is, your iPad's screen will remain locked to 60Hz, and who even uses 60Hz screens anymore?
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094422/7443" target="_top" id="2094422">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094422" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094422/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 9\. Tweak the Control Center
 
 Max Buondonno/ZDNET
@@ -147,6 +140,13 @@ Max Buondonno/ZDNET
 I've always felt like the Control Center is slightly underrated for all the stuff it can do. Not only does it give you quick access to your Wi-Fi and Bluetooth settings, but you can customize it to your heart's delight with all sorts of life-simplifying shortcuts, from easy access to Shazam to starting a screen recording with the touch of a button. It can become a life-changing feature if you use it the right way.
 
 **How to:** Go to Settings > Control Center on your iPad, and you'll find all the controls you can add and remove. To add a new one, tap the green plus icon and it'll move to the "Included Controls" section. From there, you can rearrange which controls are presented first by dragging the three-line button to the right and sliding up or down the list. If you want to remove a control, tap the red minus button and it'll go back to "More Controls."
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 10\. Attention Awareness will keep the screen awake while you use it
 
@@ -188,20 +188,19 @@ Using the TrueDepth cameras, Attention Awareness can keep tabs on when you're lo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-windows-screen-imaging-technique/"><u>[Updated] In 2024, Windows Screen Imaging Technique</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-swift-screen-tape-with-sound-included-for-2024/"><u>[Updated] Swift Screen Tape with Sound Included for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/advanced-tech-advice-for-savvy-users-by-toms-hardware/"><u>Advanced Tech Advice for Savvy Users by Tom's Hardware</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/boost-your-gaming-diy-mini-pc-with-ultra-fast-egpu-pcie-interface-surpassing-thunderbolt-ebyte/"><u>Boost Your Gaming: DIY Mini PC with Ultra-Fast eGPU PCIe Interface Surpassing Thunderbolt Ebyte</u></a></li>
-<li><a href="https://driver-download.techidaily.com/download-ultimate-wireless-drivers-for-optimal-performance-solved-issues/"><u>Download Ultimate Wireless Drivers for Optimal Performance - Solved Issues</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/exploring-technology-with-tom-your-ultimate-resource/"><u>Exploring Technology with Tom - Your Ultimate Resource</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/free-ai-chatbot-clone-of-chatgpt-easy-installation-on-windows/"><u>Free AI Chatbot Clone of ChatGPT - Easy Installation on Windows</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/how-to-update-or-repair-faulty-graphics-drivers-for-an-optimized-oculus-session/"><u>How to Update or Repair Faulty Graphics Drivers for an Optimized Oculus Session</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/lock-and-load-effortless-profile-url-addition-on-tiktok-for-2024/"><u>Lock-and-Load Effortless Profile URL Addition on TikTok for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/masterful-techniques-to-reduce-starfields-cpu-demand-and-enhance-performance/"><u>Masterful Techniques to Reduce Starfield's CPU Demand and Enhance Performance</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/seamless-video-communication-in-whatsapp-web-for-laptops-and-desktops-for-2024/"><u>Seamless Video Communication in WhatsApp Web for Laptops and Desktops for 2024</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-9-lava-storm-5g-monitoring-apps-for-parental-controls-drfone-by-drfone-virtual-android/"><u>Top 9 Lava Storm 5G Monitoring Apps for Parental Controls | Dr.fone</u></a></li>
-<li><a href="https://fox-that.techidaily.com/troubleshoot-and-fix-a-nonfunctional-hey-siri-feature-on-your-iphone/"><u>Troubleshoot and Fix a Nonfunctional 'Hey Siri' Feature on Your iPhone</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/unveiling-innovations-at-toms-hardware-hub-your-source-for-cutting-edge-technology/"><u>Unveiling Innovations at Tom's Hardware Hub – Your Source for Cutting-Edge Technology</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/unveiling-the-latest-computer-components-with-toms-gear-guide/"><u>Unveiling the Latest Computer Components with Tom's Gear Guide</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-vision-to-visual-impact-youtube-trailers-via-filmora/"><u>[New] 2024 Approved From Vision to Visual Impact YouTube Trailers via Filmora</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-spiritual-slow-motion-tutorial/"><u>[New] Spiritual Slow Motion Tutorial</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-duality-in-display-rotating-videos-on-instagram-one-click-at-a-time-for-2024/"><u>[Updated] Duality in Display Rotating Videos on Instagram, One Click at a Time for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-elite-digital-image-grabbers/"><u>[Updated] Elite Digital Image Grabbers</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-free-visual-templates-to-upgrade-your-profile-for-2024/"><u>[Updated] Free Visual Templates to Upgrade Your Profile for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-gastronomy-gurus-essential-chefs-to-subscribe-to-for-2024/"><u>[Updated] Gastronomy Gurus Essential Chefs to Subscribe To for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-grasp-the-basics-of-sub4sub-success-our-guide-lays-it-out-clearly-for-2024/"><u>[Updated] Grasp the Basics of Sub4sub Success - Our Guide Lays It Out Clearly for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-getting-started-with-stylish-mac-made-youtube-vids/"><u>[Updated] In 2024, Getting Started with Stylish Mac-Made YouTube Vids</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/2-ways-to-monitor-apple-iphone-14-plus-activity-drfone-by-drfone-virtual-ios/"><u>2 Ways to Monitor Apple iPhone 14 Plus Activity | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-optimizing-video-content-for-igtv-uploading-strategies-revealed/"><u>2024 Approved Optimizing Video Content for IGTV Uploading Strategies Revealed</u></a></li>
+<li><a href="https://discover-great.techidaily.com/boosting-performance-on-vmware-top-7-tactics-for-quicker-virtual-environments/"><u>Boosting Performance on VMware: Top 7 Tactics for Quicker Virtual Environments</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/checking-email-engagement-finding-out-whos-reading-your-gmail-messages/"><u>Checking Email Engagement: Finding Out Who's Reading Your Gmail Messages</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-forgot-iphone-6-backup-password-heres-what-to-do-drfone-by-drfone-ios/"><u>In 2024, Forgot iPhone 6 Backup Password? Heres What to Do | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/navigate-new-zones-adjusting-your-xbox-locale/"><u>Navigate New Zones: Adjusting Your Xbox Locale</u></a></li>
 </ul></div>
 

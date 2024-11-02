@@ -1,7 +1,7 @@
 ---
 title: "Unveiling at the Let Loose Event: The New M4 iPad Pro and 13-Inch iPad Air Revealed with Upgraded Apple Pencil - Full Recap on ZDNet"
-date: 2024-10-23T18:38:14.330Z
-updated: 2024-10-27T18:34:32.310Z
+date: 2024-10-28T07:11:19.138Z
+updated: 2024-11-02T13:53:02.020Z
 tags:
   - apple
 categories:
@@ -32,6 +32,13 @@ Apple's "Let Loose" was a virtual product launch event that took place on May 7,
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144298/7443" target="_top" id="2144298">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144298" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144298/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. iPad Pro, now with OLED displays and M4
 
 Apple
@@ -52,6 +59,13 @@ Like previous generations, Apple is making the latest iPad Pro available in 11-i
 
 The iPad Pro starts at $999 for the 11-inch model and $1,299 for the 13-inch model. It's available in Silver and Space Black, with storage sizes ranging from 256GB to 2TB. You can [available to preorder now](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-ipad%2Fipad-pro&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp), with orders shipping next week.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettiit.sjv.io/c/5597632/2148127/17093" target="_top" id="2148127">
+  <img src="//a.impactradius-go.com/display-ad/17093-2148127" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148127/17093" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. iPad Air gets a new, larger size
 
 Apple
@@ -67,19 +81,6 @@ Apple
 Unlike the M4-equipped iPad Pro, the iPad Air comes with an M2 chip, making it almost 50% faster than the previous model with M1 and three times faster than the A13 Bionic model. The faster processor supports AI editing in photos with a single tap on the screen, as well as Apple Pencil hover, whether you use the lower-cost USB-C version or the new Apple Pencil Pro.
 
 The new iPad Air is available in Blue, Purple, Starlight, and Space Gray, with [prices starting at $599](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-ipad%2Fipad-air&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) for the 11-inch iPad Air, and $799 for the 13-inch model.
-
-<!-- affiliate ads begin -->
-<span id="1993654">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993654.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993654">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993654.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993654%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993654/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 3\. Apple Pencil Pro
 
@@ -97,13 +98,6 @@ Apple
 
 The Apple Pencil Pro costs $129 and supports Apple's Find My service, letting you track the location of the accessory should you drop or misplace it. You can purchase the [Apple Pencil Pro](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fproduct%2FMX2D3AM%2FA%2Fapple-pencil-pro&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) today, and it will start shipping next week.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148772/18498" target="_top" id="2148772">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148772" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148772/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 4\. Magic Keyboard
 
 Apple
@@ -111,16 +105,10 @@ Apple
 The iPad event also included a new, more durable Magic Keyboard, featuring a larger trackpad and a function row along the top. The Magic Keyboard's new look and upgraded aluminum construction is meant to make the iPad Pro look and feel more like a laptop, rather than a tablet with an optional keyboard case.
 
 <!-- affiliate ads begin -->
-<span id="1531879">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1531879.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1531879">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531879.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531879%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531879/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2027195/19272" target="_top" id="2027195">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027195" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027195/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Why would Apple host an event before WWDC?
@@ -128,10 +116,10 @@ The iPad event also included a new, more durable Magic Keyboard, featuring a lar
 Although Apple is hosting its [Worldwide Developers Conference (WWDC)](https://www.zdnet.com/article/apple-confirms-wwdc-2024-for-june-10-will-ai-steal-the-show/) on June 10, that event is reserved for new iOS, iPadOS, visionOS, and macOS announcements, plus Apple's new AI strategy. The Let Loose event was focused on the latest hardware offerings, with the [OLED iPad Pro](https://www.zdnet.com/article/7-ipad-pro-features-that-would-make-me-instantly-upgrade-to-apples-next-model/) being the main star.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484951/16446" target="_top" id="1484951">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484951" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1896527/19272" target="_top" id="1896527">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896527" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484951/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896527/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Did the Let Loose event cover iPadOS 17.5 or iPadOS 18?
@@ -180,19 +168,24 @@ The Apple Let Loose event was a pre-recorded video but is still available for st
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-creating-engaging-youtube-trailers-in-filmora/"><u>[New] 2024 Approved Creating Engaging YouTube Trailers in Filmora</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-creative-channel-titling-techniques-for-growth/"><u>[New] 2024 Approved Creative Channel Titling Techniques for Growth</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-harness-high-quality-banners-free-for-content-developers/"><u>[New] 2024 Approved Harness High-Quality Banners – Free for Content Developers</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-high-end-audio-for-youtubes-best-gamers/"><u>[New] 2024 Approved High-End Audio for YouTube's Best Gamers</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/024-approved-the-blueprint-designing-your-first-youtube-trailer/"><u>[New] 2024 Approved The Blueprint Designing Your First YouTube Trailer</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-unleashing-potential-views-best-keyword-resources-ranked/"><u>[New] Unleashing Potential Views Best Keyword Resources Ranked</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-foundations-first-what-to-invest-in-for-youtubing-for-2024/"><u>[Updated] Foundations First What To Invest In for YouTubing for 2024</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-securing-your-social-media-visuals-instagram-edition/"><u>[Updated] Securing Your Social Media Visuals Instagram Edition</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/behind-the-scenes-youtubes-view-count-algorithm-for-2024/"><u>Behind the Scenes YouTube's View Count Algorithm for 2024</u></a></li>
-<li><a href="https://win-awesome.techidaily.com/boost-performance-on-your-alienware-system-with-essential-bios-upgrades/"><u>Boost Performance on Your Alienware System with Essential BIOS Upgrades</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/how-to-easily-change-your-avi-videos-into-mp4-with-no-costs-compatible-solutions-for-both-pc-and-mac-enthusiasts/"><u>How to Easily Change Your AVI Videos Into MP4 with No Costs – Compatible Solutions for Both PC and Mac Enthusiasts</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/24-universal-templates-galore-for-youtube-crafting/"><u>In 2024, Universal Templates Galore – For YouTube Crafting</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/top-10-tips-to-enhance-your-meta-quest-virtual-reality-adventure/"><u>Top 10 Tips to Enhance Your Meta Quest Virtual Reality Adventure</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-2024-approved-how-to-capture-streaming-audio/"><u>Updated 2024 Approved How to Capture Streaming Audio</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-podcast-perfection-for-the-modern-iphone-user/"><u>[New] Podcast Perfection for the Modern iPhone User</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-the-storyline-secret-to-youtube-triumph/"><u>[New] The Storyline Secret to YouTube Triumph</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-advanced-tricks-for-quick-webp-to-jpg-conversion/"><u>[Updated] Advanced Tricks for Quick WebP to JPG Conversion</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-elitescreensnap-for-windows-xxp/"><u>2024 Approved EliteScreenSnap for Windows X/XP</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-honesty-in-high-definition-reviewing-recordcasts-efficacy/"><u>2024 Approved Honesty in High-Definition Reviewing RecordCast's Efficacy</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/enhancing-teamwork-with-apple-pages-through-icloud-integration-tips-and-tricks/"><u>Enhancing Teamwork with Apple Pages Through iCloud Integration - Tips and Tricks</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/how-does-the-new-iphone-14-stack-up-a-balanced-review-by-tech-experts-at-zdnet/"><u>How Does the New iPhone 14 Stack Up? A Balanced Review by Tech Experts at ZDNET</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/24-seamless-integration-tailor-made-youtube-shorts-images-made-easy/"><u>In 2024, Seamless Integration Tailor-Made YouTube Shorts Images Made Easy</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/in-depth-review-and-comparison-is-it-time-to-upgrade-from-m2-to-m3-macbook-air-insights-for-buyers-zdnet/"><u>In-Depth Review & Comparison: Is It Time to Upgrade From M2 to M3 MacBook Air? Insights for Buyers | ZDNET</u></a></li>
+<li><a href="https://fake-location.techidaily.com/life360-learn-how-everything-works-on-realme-gt-3-drfone-by-drfone-virtual-android/"><u>Life360 Learn How Everything Works On Realme GT 3 | Dr.fone</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/master-your-ipad-insider-tips-and-key-settings-every-apple-user-should-understand-zdnet-explore/"><u>Master Your iPad: Insider Tips & Key Settings Every Apple User Should Understand - ZDNet Explore</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/reimagining-power-computing-apples-mac-studio-unveils-as-the-modern-successor-to-the-classic-mac-mini-zdnet-insights/"><u>Reimagining Power Computing: Apple's Mac Studio Unveils as the Modern Successor to the Classic Mac Mini | ZDNET Insights</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/revolutionize-apple-watch-longevity-with-simple-tweaks-to-these-crucial-8-power-settings-expert-tips/"><u>Revolutionize Apple Watch Longevity with Simple Tweaks to These Crucial 8 Power Settings – Expert Tips</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/schlusselstrategien-fur-den-effizienten-datentransfer-zu-windows-11-beste-praktiken-verstehen-und-anwenden/"><u>Schlüsselstrategien Für Den Effizienten Datentransfer Zu Windows 11 - Beste Praktiken Verstehen Und Anwenden</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/syntax-savior-chatgpts-crucial-role-in-natural-language-understanding/"><u>Syntax Savior: ChatGPT's Crucial Role in Natural Language Understanding</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/tech-giant-apple-hit-with-2-billion-dollar-fee-by-european-union-over-unfair-app-store-practices/"><u>Tech Giant Apple Hit with 2-Billion Dollar Fee by European Union Over Unfair App Store Practices</u></a></li>
+<li><a href="https://howto.techidaily.com/top-4-android-system-repair-software-for-lava-storm-5g-bricked-devices-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 4 Android System Repair Software for Lava Storm 5G Bricked Devices | Dr.fone</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/ultimate-comparison-samsung-galaxy-book-2-in-1-ultra-versus-the-apple-macbook-pro-for-elite-performance-insights-from-tech-experts-at-zdnet/"><u>Ultimate Comparison: Samsung Galaxy Book 2-in-1 Ultra Versus the Apple MacBook Pro for Elite Performance - Insights From Tech Experts at ZDNet</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/zdnet-unveils-clues-to-apples-upcoming-iphone-revolution-through-their-latest-acquisition-signaling-a-leap-towards-ai-integration/"><u>ZDNet Unveils Clues to Apple's Upcoming iPhone Revolution Through Their Latest Acquisition, Signaling a Leap Towards AI Integration</u></a></li>
 </ul></div>
 

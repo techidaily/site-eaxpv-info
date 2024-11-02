@@ -1,7 +1,7 @@
 ---
 title: Upgrading to iPhone 16 Pro - Is It Worth Leaving Behind the iPhone ˈ|ZDNET Expert Review
-date: 2024-10-23T16:28:30.899Z
-updated: 2024-10-27T20:10:43.312Z
+date: 2024-10-27T18:39:43.524Z
+updated: 2024-11-02T13:25:01.890Z
 tags:
   - apple
 categories:
@@ -41,23 +41,9 @@ As an iPhone 14 Pro Max user, I'm not convinced that the new AI-enabled [iPhone 
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885932/19272" target="_top" id="1885932">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885932" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885932/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## You should buy the iPhone 16 Pro if…
 
 Jason Hiner/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129042/19576" target="_top" id="2129042">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129042" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129042/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 1\. You want Apple Intelligence
 
@@ -76,10 +62,10 @@ Apple has thinned out the iPhone 16 Pro's bezels to the bare minimum and stretch
 The larger smartphone also means that the iPhone 16 Pro has a larger battery than the 14 Pro, at 3,355 mAh compared to 3,200 mAh. But even without the welcome battery upgrade, the new Pro models support faster charging than ever. The iPhone 16 Pro supports 40W wired charging and 20W of MagSafe charging, so if you find the iPhone 14 Pro's charging slow, it could be time to upgrade.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137229/26400" target="_top" id="2137229">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137229" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2080347/19272" target="_top" id="2080347">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080347" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137229/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080347/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 3\. You love taking beautiful photos
@@ -93,15 +79,22 @@ If you love taking photos with your smartphone, the camera upgrades alone may be
 [Pre-order the iPhone 16 Pro View now at Apple](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-iphone%2Fiphone-16-pro&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012434/19272" target="_top" id="2012434">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012434" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012434/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## You should buy (or keep) the iPhone 14 Pro if…
 
 Kerry Wan/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123733/7443" target="_top" id="2123733">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123733" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123733/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 1\. You'd rather wait for bigger upgrades
 
@@ -120,6 +113,13 @@ One of the biggest reasons to hold off on an upgrade is financial. The iPhone 14
 As an iPhone 14 Pro Max user, I'm still pretty happy with how my iPhone performs, its battery life, and charging time. While USB-C charging would be convenient, I don't see myself springing for the new iPhone 16 Pro, though I may go for the iPhone 17 when it's launched.
 
 [iPhone 14 Pro (Pre-owned) $627.45 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BN95FRW9%3FlinkCode%3Dogi%26th%3D1%26psc%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C898e5dd5-72c4-498c-8554-54fe4801040e%7Cdtp&dtb=1)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123728/7443" target="_top" id="2123728">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123728" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123728/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Alternatives to consider
 
@@ -155,20 +155,19 @@ As an iPhone 14 Pro Max user, I'm still pretty happy with how my iPhone performs
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-effortless-snaptweet-videos-from-twitter/"><u>[Updated] 2024 Approved Effortless SnapTweet Videos From Twitter</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/2024-approved-az-screen-recorder-review-series/"><u>2024 Approved AZ Screen Recorder Review Series</u></a></li>
-<li><a href="https://article-files.techidaily.com/2024-approved-bridging-moments-creating-fluid-edits-with-inshot/"><u>2024 Approved Bridging Moments Creating Fluid Edits with Inshot</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/2024-approved-engineering-an-impactful-trailer-triumph/"><u>2024 Approved Engineering an Impactful Trailer Triumph</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/iphoneandroidcd-pc/"><u>最強のスマートフォンミュージックインポート手順：iPhone・Android用CDから簡単に楽曲取り込み - PCを使わない方法</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/1725287023568-avimp3/"><u>AVI到MP3的最佳转换方法：保持声音品质不变</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/best-6-simple-ways-to-transform-mkv-files-into-mp4-format-using-your-mac/"><u>Best 6 Simple Ways to Transform MKV Files Into MP4 Format Using Your Mac</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/experto-en-asistencia-y-apoyo-a-clientes-para-el-producto-de-descarga-continua-programa-windows-x-dvd-copiador-y-convertidor-de-videos/"><u>Experto en Asistencia Y Apoyo a Clientes Para El Producto De Descarga Continua: Programa Windows X DVD Copiador Y Convertidor De Vídeos</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-change-your-apple-iphone-xs-location-on-twitter-drfone-by-drfone-virtual-ios/"><u>How to Change your Apple iPhone XS Location on Twitter | Dr.fone</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/how-to-encode-and-convert-videos-using-handbrakes-av1-format-capability/"><u>How to Encode and Convert Videos Using HandBrake's AV1 Format Capability?</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/mastering-heic-image-handling-on-your-windows-pc-tips-for-windows-10-and-11-users/"><u>Mastering HEIC Image Handling on Your Windows PC: Tips for Windows 10 and 11 Users</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/pattern-locks-are-unsafe-secure-your-infinix-hot-30i-phone-now-with-these-tips-by-drfone-android/"><u>Pattern Locks Are Unsafe Secure Your Infinix Hot 30i Phone Now with These Tips</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/top-avi-format-converter-seamlessly-transition-between-avi-and-various-video-file-types/"><u>Top AVI Format Converter: Seamlessly Transition Between AVI and Various Video File Types</u></a></li>
-<li><a href="https://win-dash.techidaily.com/upgrade-to-a-superior-sound-system-now-stealseries-engine-download-for-windows-10/"><u>Upgrade to a Superior Sound System Now! [StealSeries Engine Download for Windows 10]</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/verbal-visions-a-compilation-of-the-most-advanced-transcription-apps-for-2024/"><u>Verbal Visions A Compilation of the Most Advanced Transcription Apps for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-streams-to-statements-decoding-the-3-step-process-for-calculating-youtube-earnings/"><u>[New] 2024 Approved From Streams to Statements Decoding the 3-Step Process for Calculating YouTube Earnings</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-find-your-digital-companion-the-top-6-youtube-personality-puzzles/"><u>[New] In 2024, Find Your Digital Companion The Top 6 YouTube Personality Puzzles</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-in-2024-innovative-methods-for-creating-luts/"><u>[New] In 2024, Innovative Methods for Creating LUTs</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-ftp-to-feed-the-complete-guide-to-uploading-to-youtube/"><u>[Updated] 2024 Approved From FTP to Feed The Complete Guide to Uploading to YouTube</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-go-live-in-style-a-detailed-guide-to-youtubes-full-sphere-videos-for-2024/"><u>[Updated] Go Live in Style A Detailed Guide to YouTube's Full-Sphere Videos for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-guide-to-structuring-youtube-content-with-separate-chapters-for-2024/"><u>[Updated] Guide to Structuring YouTube Content with Separate Chapters for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-step-by-step-guide-to-creating-a-peak-vr-environment/"><u>[Updated] In 2024, Step-by-Step Guide to Creating a Peak VR Environment</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-ultimate-compilation-of-leading-9-mobile-meeting-services-ios-android/"><u>[Updated] In 2024, Ultimate Compilation of Leading 9 Mobile Meeting Services (iOS, Android)</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-revised-interview-guidelines-for-captivating-listeners/"><u>[Updated] Revised Interview Guidelines for Captivating Listeners</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-premier-ranking-of-outstanding-stop-motion-films/"><u>2024 Approved The Premier Ranking of Outstanding Stop-Motion Films</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-iphone-6-without-swiping-up-6-ways-by-drfone-ios/"><u>In 2024, How To Unlock iPhone 6 Without Swiping Up? 6 Ways</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolved-how-to-stop-fortnite-from-freezing-on-your-computer-a-comprehensive-guide/"><u>Resolved: How to Stop Fortnite From Freezing on Your Computer - A Comprehensive Guide</u></a></li>
+<li><a href="https://apple-account.techidaily.com/top-notch-solutions-for-disabled-apple-id-on-apple-iphone-xs-max-making-it-possible-by-drfone-ios/"><u>Top-Notch Solutions for Disabled Apple ID On Apple iPhone XS Max Making It Possible</u></a></li>
+<li><a href="https://win-docs.techidaily.com/1728474627468-windows-11usb/"><u>Windows 11のデータバックアップ:無料ツールでUSBメモリへ転送手順</u></a></li>
 </ul></div>
 

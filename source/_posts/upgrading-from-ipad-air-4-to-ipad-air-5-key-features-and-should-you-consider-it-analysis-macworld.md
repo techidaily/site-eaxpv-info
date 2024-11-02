@@ -1,7 +1,7 @@
 ---
 title: "Upgrading From iPad Air 4 to iPad Air 5: Key Features & Should You Consider It? Analysis | Macworld"
-date: 2024-10-15T00:56:04.783Z
-updated: 2024-10-16T07:54:17.384Z
+date: 2024-10-30T15:17:58.724Z
+updated: 2024-11-01T17:32:52.545Z
 tags:
   - apple
 categories:
@@ -37,6 +37,19 @@ But if pricing impacts your buying decision, then the similarly-designed iPad Ai
 
 **Also: [The best iPad Air cases](https://www.zdnet.com/article/best-ipad-air-case/)**
 
+<!-- affiliate ads begin -->
+<span id="701707">
+					<video width="1536" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/701707.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/7443-701707">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/701707.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fappsumo.8odi.net%2Fc%2F5597632%2F701707%2F7443'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/701707/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Specifications
 
 | | iPad Air 4 (2020)        | iPad Air 5 (2022)                              |                                                |
@@ -54,22 +67,35 @@ But if pricing impacts your buying decision, then the similarly-designed iPad Ai
 
 ---
 
+<!-- affiliate ads begin -->
+<span id="1498635">
+					<video width="320" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1498635.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/17326-1498635">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1498635.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:200px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fancheer.sjv.io%2Fc%2F5597632%2F1498635%2F17326'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1498635/17326" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## You should buy the iPad Air 5 (2022) if...
 
 Image: Apple
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100542/7443" target="_top" id="2100542">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100542" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100542/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 1\. You're ready to embrace Apple's M1 supremacy
 
 The saying you can't teach an old dog new tricks doesn't really apply to the iPad Air 5\. In fact, underneath the familiar glass and aluminum exterior is Apple's ARM-based, eight-core CPU, [M1 processor](https://www.zdnet.com/article/apple-m1-vs-m2/). Trickling down from MacBooks and iMacs, Apple's M1 chip is expected to be up to 60% faster and more powerful than its A-series counterpart -- like the A14 found in the iPad Air 4\. 
 
 That's a significant step up, considering both iPads start on equal footing with 8GB of RAM. While the iPad Air 5 didn't get Apple's newer [M2 chip](https://www.zdnet.com/article/everything-you-need-to-know-about-the-apple-m2-chip/), the M1 is still a powerhouse for graphics-intensive apps, such as video editors, 3D racing games, augmented reality, and general multitasking.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052063/7443" target="_top" id="2052063">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052063" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052063/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 2\. You want a better front camera and FaceTime experience
 
@@ -79,13 +105,6 @@ Camera performance isn't typically the key selling point for tablets, let alone 
 
 While the 12MP rear camera remains untouched, the front now houses a 12MP ultra-wide camera. With a wider field of view than the previous generation's 7MP FaceTime HD lens, the new iPad can take advantage of Center Stage, Apple's webcam feature that tracks and follows your face as you move around. This is particularly useful for presentations and FaceTime calls with friends and family.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135407/19272" target="_top" id="2135407">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135407" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135407/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 3\. You thrive on 5G
 
 Apple didn't leave the possibility of 5G up in the air with the latest iPad model. Though not mmWave 5G, the sub-6 GHz bands on the iPad Air 5 allow you to dial into the 5th-generation network and access faster download speeds than the 4G LTE of the iPad Air 4\. 
@@ -93,6 +112,13 @@ Apple didn't leave the possibility of 5G up in the air with the latest iPad mode
 You will, of course, need to be under a 5G data plan, have the appropriate nano-SIM card (or [eSIM](https://www.zdnet.com/article/esim-vs-sim-whats-the-difference/)), and purchase the more expensive, cellular version of the iPad, to reap the benefits of the faster network. If you meet the prerequisites and frequently work from outside, then the 5G-enabled iPad is the one to buy. 
 
 [Apple iPad Air (2022) $499.97 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0DD2F93LD%2Fref%3Dasc%5Fdf%5FB0DD2F93LD1726743600000%3Fcreative%3D395261%26creativeASIN%3DB0DD2F93LD%26linkCode%3Dasn%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cc2f96935-50b5-4c02-9352-a589939a7557%7Cdtp&dtb=1)
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014848/22899" target="_top" id="2014848">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014848" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014848/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## You should buy the iPad Air 4 (2020) if...
 
@@ -104,21 +130,7 @@ With the release of the new iPad Air, most third-party retailers have since mark
 
 [Apple iPad Air (2020) $421.79 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB08J66ZMY7%3FlinkCode%3Dogi%26th%3D1%26psc%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cc2f96935-50b5-4c02-9352-a589939a7557%7Cdtp&dtb=1)
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137972/21526" target="_top" id="2137972">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137972" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137972/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## FAQ
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129739/7443" target="_top" id="2129739">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129739" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129739/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Should I get the iPad Air 4 (2020) or the iPad Air 5 (2022)?
 
@@ -170,24 +182,19 @@ If you're still on the fence, below are the best alternatives to the iPad Air.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-raw-footage-to-cinematic-success-in-your-youtube-channel/"><u>[New] 2024 Approved From Raw Footage to Cinematic Success in Your YouTube Channel</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-neuroscience-insights-enhance-effective-corporate-governance/"><u>[New] 2024 Approved How Neuroscience Insights Enhance Effective Corporate Governance</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-loop-videos-on-iphone/"><u>[New] 2024 Approved How to Loop Videos on iPhone?</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-finding-the-perfect-dj-template-video-download-for-your-events-for-2024/"><u>[New] Finding the Perfect DJ Template Video Download for Your Events for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-free-10-best-intro-maker-apps-for-iphone-and-android-for-2024/"><u>[New] FREE 10 Best Intro Maker Apps for iPhone and Android for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-how-to-promote-youtube-videos-without-paying-for-2024/"><u>[New] How to Promote YouTube Videos (Without Paying) for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-get-the-best-youtube-thumbnails-the-free-guide/"><u>[New] In 2024, How to Get the Best YouTube Thumbnails The Free Guide</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-pick-a-unique-name-for-youtube-channel-filmora/"><u>[New] In 2024, How To Pick a Unique Name for YouTube Channel - Filmora</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-the-essential-guide-to-apples-iphone-camera-evolution-in-ios-11/"><u>[New] The Essential Guide to Apple's iPhone Camera Evolution in iOS 11</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-top-clicker-article-titles-maker-for-2024/"><u>[New] Top Clicker Article Titles Maker for 2024</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-2024-approved-expert-subtitle-transformation-made-simple-top-10-lists/"><u>[Updated] 2024 Approved Expert Subtitle Transformation Made Simple - Top 10 Lists</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-blur-background-of-your-youtube-video-2-easy-ways/"><u>[Updated] 2024 Approved How to Blur Background of Your YouTube Video - 2 Easy Ways</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/are-you-experiencing-a-psn-downtime-or-just-local-connectivity-problems/"><u>Are You Experiencing a PSN Downtime or Just Local Connectivity Problems?</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-easy-guide-how-to-bypass-tecno-camon-20-frp-android-10111213-by-drfone-android/"><u>In 2024, Easy Guide How To Bypass Tecno Camon 20 FRP Android 10/11/12/13</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/james-bond-on-screen-watching-the-spy-saga-from-beginning-to-end/"><u>James Bond on Screen: Watching the Spy Saga From Beginning to End</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/official-hp-laserjet-1018-drivers-easy-download-for-smooth-printing-experience/"><u>Official HP LaserJet 1018 Drivers: Easy Download for Smooth Printing Experience</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/resolving-iphone-shot-unfocus-issues-quickly-for-2024/"><u>Resolving iPhone Shot Unfocus Issues Quickly for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/restore-netflix-sound-effective-methods-for-immediate-results/"><u>Restore Netflix Sound: Effective Methods for Immediate Results</u></a></li>
-<li><a href="https://win-forum.techidaily.com/unveiling-your-windows-11s-powershell-version-a-comprehensive-guide/"><u>Unveiling Your Windows 11'S PowerShell Version: A Comprehensive Guide</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-from-novice-to-connoisseur-transform-your-sub4sub-experience-now-for-2024/"><u>[New] From Novice to Connoisseur Transform Your Sub4sub Experience Now for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-how-to-share-your-4k-videos-with-the-world-via-youtube-for-2024/"><u>[New] How to Share Your 4K Videos with the World via YouTube for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-improving-visual-storytelling-with-secondary-shoots/"><u>[New] Improving Visual Storytelling with Secondary Shoots</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-composing-engaging-podcast-thumbnails/"><u>[New] In 2024, Composing Engaging Podcast Thumbnails</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-historical-insights-the-most-relevant-youtube-channels-for-learners/"><u>[New] In 2024, Historical Insights - The Most Relevant YouTube Channels for Learners</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-essential-thumbnail-strategies-for-amplifying-viewership-on-youtube/"><u>[Updated] 2024 Approved Essential Thumbnail Strategies for Amplifying Viewership on YouTube</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-perfect-your-yt-artistry-the-ultimate-music-reaction-video-playbook/"><u>[Updated] 2024 Approved Perfect Your YT Artistry The Ultimate Music Reaction Video Playbook</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-end-game-for-youtube-content-pros-secrets-and-templates/"><u>[Updated] End Game for YouTube Content Pros' Secrets & Templates</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-harmonizing-youtube-production-with-a-9-to-5-routine-for-2024/"><u>[Updated] Harmonizing YouTube Production with a 9-to-5 Routine for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-halt-youtube-suggested-content-now/"><u>[Updated] In 2024, Halt YouTube Suggested Content Now</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unlocking-zoom-features-on-windows-11-pcs/"><u>[Updated] Unlocking Zoom Features on Windows 11 PCs</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-master-privacy-unveil-faces-less-clearly/"><u>2024 Approved Master Privacy Unveil Faces Less Clearly</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-vimeo-profile-picture-constraints/"><u>2024 Approved Vimeo Profile Picture Constraints</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/the-insiders-guide-to-watermark-free-images-for-2024/"><u>The Insider's Guide to Watermark-Free Images for 2024</u></a></li>
 </ul></div>
 

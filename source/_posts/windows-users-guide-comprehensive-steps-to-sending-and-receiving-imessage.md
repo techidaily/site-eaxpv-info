@@ -1,7 +1,7 @@
 ---
 title: "Windows Users Guide: Comprehensive Steps to Sending & Receiving iMessage"
-date: 2024-10-15T03:25:23.234Z
-updated: 2024-10-16T01:18:13.784Z
+date: 2024-10-31T08:53:04.194Z
+updated: 2024-11-02T15:39:34.693Z
 tags:
   - apple
 categories:
@@ -44,13 +44,6 @@ There's just one sticking point: Neither app supports Windows 10\. Phone Link an
 
 ## How to send and receive iMessages on Windows
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037358/7443" target="_top" id="2037358">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037358" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037358/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Use Microsoft Phone Link
 
 Before you can use Phone Link, you'll have to take care of a few items on your phone and your PC.
@@ -85,13 +78,6 @@ Your phone should ask if you want your PC to receive notifications from your iPh
 
 Screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144297/7443" target="_top" id="2144297">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144297" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144297/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 4\. Run Phone Link
 
 The Phone Link welcome screen should appear on your PC and ask if you want to open the app each time you log into Windows. If you do, check the box.
@@ -104,6 +90,19 @@ To access your iPhone's text messages in Phone Link, tap the Messages heading at
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<span id="1304647">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1304647.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1304647">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304647%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304647/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 6\. Start a new chat
 
 You can also start a new conversation. To do this, select one of your displayed contacts and then compose and send your text. To chat with someone else, click the New Message icon and type the name or phone number of the recipient. Compose and send your message.
@@ -112,6 +111,13 @@ Screenshot by Lance Whitney/ZDNET
 
 ## Use Intel Unison
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087234/19272" target="_top" id="2087234">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087234" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087234/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. Install Intel Unison
 
 To use Intel Unison, download and install the app from [the Microsoft Store](https://apps.microsoft.com/store/detail/intel%C2%AE-unison%E2%84%A2/9PP9GZM2GN26).
@@ -119,6 +125,13 @@ To use Intel Unison, download and install the app from [the Microsoft Store](htt
 Launch the app and click the Accept & Continue button. You'll be asked how you'd like to use Unison. In the section for "Empower your PC," click the "Add your phone" button.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130873/7443" target="_top" id="2130873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130873" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 2\. Pair your phone and computer
 
@@ -132,6 +145,13 @@ At the next screen on your phone, tap the button for "Scan QR code." Scan the co
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2136548/16384" target="_top" id="2136548">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136548" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136548/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Launch the Windows Unison app
 
 At the "Let's get started" screen in the Windows Unison app, click the icon for "Send messages." 
@@ -139,10 +159,10 @@ At the "Let's get started" screen in the Windows Unison app, click the icon for 
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129043/19576" target="_top" id="2129043">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129043" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144277/7443" target="_top" id="2144277">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144277" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129043/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144277/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  4\. Go to the Messages screen
@@ -151,31 +171,11 @@ At the Messages screen, click the icon for "Compose a new message." Choose the r
 
 Screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<span id="1982570">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982570.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982570">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982570.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982570%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982570/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 5\. Send a message
 
 Compose and send your message. Wait for the other person to respond. You can then carry on a conversation in the Windows Unison app or in iMessages on your iPhone as the texts sync between the two apps.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 6\. Receive a message
 
@@ -213,24 +213,18 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-harness-the-power-of-yt-green-screens-for-imaginative-projects/"><u>[New] 2024 Approved Harness the Power of YT Green Screens for Imaginative Projects</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-framework-developing-transformative-lifestyle-broadcasts-for-2024/"><u>[New] Framework Developing Transformative Lifestyle Broadcasts for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-how-to-get-your-youtube-video-seen-6-easy-steps-for-2024/"><u>[New] How to Get Your YouTube Video Seen - 6 Easy Steps for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-rotate-youtube-videos-by-any-angle/"><u>[New] In 2024, How to Rotate YouTube Videos by Any Angle</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-searching-comments-on-youtube-for-2024/"><u>[New] Searching Comments on YouTube for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-filmmaking-made-simple-a-smartphone-guide-to-youtube-thumbnails/"><u>[Updated] 2024 Approved Filmmaking Made Simple A Smartphone Guide to YouTube Thumbnails</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-guffaw-generation-generating-7-hilarious-video-moments-online/"><u>[Updated] 2024 Approved Guffaw Generation Generating 7 Hilarious Video Moments Online</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-digital-learning-session-replays-for-2024/"><u>[Updated] Digital Learning Session Replays for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-hitching-your-video-trailers-to-youtube-success-for-2024/"><u>[Updated] Hitching Your Video Trailers to YouTube Success for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-hashing-it-out-best-tags-to-transform-views-and-profit/"><u>[Updated] In 2024, Hashing It Out Best Tags to Transform Views & Profit</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/2024-approved-amplify-your-content-navigating-the-world-of-youtube-backlinks/"><u>2024 Approved Amplify Your Content Navigating the World of YouTube Backlinks</u></a></li>
-<li><a href="https://android-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-realme-gt-5-pro-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Realme GT 5 Pro</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/exploring-best-fit-basic-to-pro-in-vimeo-services/"><u>Exploring Best Fit Basic to Pro in Vimeo Services</u></a></li>
-<li><a href="https://win-tutorials.techidaily.com/guia-simple-para-realizar-una-restauracion-de-cache-completa-en-windows-10-sin-costes/"><u>Guía Simple Para Realizar Una Restauración De Caché Completa en Windows 10 Sin Costes</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-track-a-lost-xiaomi-redmi-note-12-proplus-5g-for-free-drfone-by-drfone-virtual-android/"><u>How to Track a Lost Xiaomi Redmi Note 12 Pro+ 5G for Free? | Dr.fone</u></a></li>
-<li><a href="https://extra-information.techidaily.com/in-2024-comic-crafting-on-apple-devices/"><u>In 2024, Comic Crafting on Apple Devices</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-fixing-foneazy-mockgo-not-working-on-realme-10t-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Fixing Foneazy MockGo Not Working On Realme 10T 5G | Dr.fone</u></a></li>
-<li><a href="https://win-news.techidaily.com/seagate-discwizard-alternatives-completement-gratuites-guides-et-avant-premiers/"><u>Seagate DiscWizard Alternatives: Complètement Gratuites - Guides Et Avant-Premiers</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/unveiling-6-video-techniques-that-grab-eyes/"><u>Unveiling 6 Video Techniques That Grab Eyes</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-much-does-youtube-pay-for-1-million-views/"><u>[New] 2024 Approved How Much Does YouTube Pay for 1 Million Views?</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-guiding-you-through-youtubes-view-limitations-for-2024/"><u>[New] Guiding You Through YouTube's View Limitations for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-how-to-add-a-youtube-video-to-google-slides-for-2024/"><u>[New] How to Add a YouTube Video to Google Slides for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-flipping-the-script-turning-online-games-into-channel-gold/"><u>[New] In 2024, Flipping the Script Turning Online Games Into Channel Gold</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/irtual-vanguard-over-a-hundred-games-galore/"><u>[New] Virtual Vanguard Over a Hundred Games Galore</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-add-chapters-to-youtube-videos/"><u>[Updated] 2024 Approved How to Add Chapters to YouTube Videos</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-trendsetting-visualizations-for-the-year-ahead/"><u>[Updated] Trendsetting Visualizations for the Year Ahead</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-unlocking-facebook-integration-sharing-youtube-vids-with-ease-for-2024/"><u>[Updated] Unlocking Facebook Integration Sharing YouTube Vids with Ease for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-cutting-edge-av-producers-compendium-online/"><u>2024 Approved Cutting-Edge AV Producers' Compendium Online</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/addressing-ssltls-connection-problems-when-using-firefox-browser/"><u>Addressing SSL/TLS Connection Problems When Using Firefox Browser</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/can-codegpt-genuinely-generate-programming-code/"><u>Can CodeGPT Genuinely Generate Programming Code?</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-on-realme-gt-3-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location on Realme GT 3 | Dr.fone</u></a></li>
+<li><a href="https://driver-install.techidaily.com/update-intel-hd-graphics-530-driver-quickly-and-easily/"><u>Update Intel HD Graphics 530 Driver Quickly & Easily</u></a></li>
 </ul></div>
 

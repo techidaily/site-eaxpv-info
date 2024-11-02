@@ -1,7 +1,7 @@
 ---
 title: Amazon's Must-Have Bargains of August 2E, Sourced Directly From ZDNet for Maximum Value!
-date: 2024-10-25T17:55:41.819Z
-updated: 2024-10-27T18:53:34.469Z
+date: 2024-11-01T14:26:41.785Z
+updated: 2024-11-02T03:37:00.241Z
 tags:
   - apple
 categories:
@@ -37,6 +37,13 @@ Jason Hiner/ZDNET
 * [Bose SoundLink Flex Speaker](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FBose-SoundLink-Bluetooth-Portable-Waterproof%2Fdp%2FB099TJGJ91%3Fref%3Ddlx%5Fdeals%5Fdg%5Fdcl%5FB099TJGJ91%5Fdt%5Fsl14%5Fd5%26th%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C80da82b6-8768-4099-8fa7-3331c5c11350%7Cdtp&dtb=1) for $109 (save $40)
 * [Asus Tuf Gaming A16 2024 Laptop](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FASUS-TUF-Gaming-Laptop-165Hz%2Fdp%2FB0CRCWY9VT%3Fref%3Ddlx%5Fdeals%5Fdg%5Fdcl%5FB0CRCWY9VT%5Fdt%5Fsl14%5Fd5%26th%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C80da82b6-8768-4099-8fa7-3331c5c11350%7Cdtp&dtb=1) for $1,300 (save $500)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134243/18498" target="_top" id="2134243">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134243" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134243/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## The best Amazon tech deals
 
 Jason Hiner/ZDNET
@@ -50,13 +57,6 @@ Jason Hiner/ZDNET
 * [Bose QuietComfort Wireless Headphones](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FBose-QuietComfort-Cancelling-Headphones-Bluetooth%2Fdp%2FB0D4Z9BZV2%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C80da82b6-8768-4099-8fa7-3331c5c11350%7Cdtp&dtb=1) for $249 (save $100)
 * [JBL Tune Flex Earbuds](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FJBL-Tune-Flex-Wireless-Cancelling%2Fdp%2FB0C1QNRGHC%3Fref%3Ddlx%5Fdeals%5Fdg%5Fdcl%5FB0C1QNRGHC%5Fdt%5Fsl14%5Fd5%26th%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C80da82b6-8768-4099-8fa7-3331c5c11350%7Cdtp&dtb=1) for $50 (save $50)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036501/19272" target="_top" id="2036501">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036501" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036501/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## The best Amazon TV deals
 
 Jason Hiner/ZDNET
@@ -67,13 +67,6 @@ Jason Hiner/ZDNET
 * [Samsung 55-inch QLED 4K The Terrace TV](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FSAMSUNG-55-inch-Terrace-Outdoor-Built%2Fdp%2FB089B5X28G%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C80da82b6-8768-4099-8fa7-3331c5c11350%7Cdtp&dtb=1) for $2,498 (save $1,002)
 * [Sony 65-inch OLED 4K Ultra Bravia 8 TV](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FSony-Exclusive-Features-PlayStation-K-65XR80%2Fdp%2FB0CVQ6YLH7%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C80da82b6-8768-4099-8fa7-3331c5c11350%7Cdtp&dtb=1) for $1,1998 (save $502)
 * [LG 75-inch QNED80T LED Smart TV](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FLG-75-Inch-Processor-AI-Powered-75QNED80TUC%2Fdp%2FB0CVSK2F85%3Fref%3Ddlx%5Fdeals%5Fdg%5Fdcl%5FB0CVSK2F85%5Fdt%5Fsl14%5Fd5%26th%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C80da82b6-8768-4099-8fa7-3331c5c11350%7Cdtp&dtb=1) for $1,197 (save $203)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135395/19272" target="_top" id="2135395">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135395" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135395/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## The best Amazon robot vacuum deals
 
@@ -86,19 +79,6 @@ Maria Diaz/ZDNET
 * [Eufy L60 Robot Vacuum](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Feufy-Vacuum-Suction-Navigation-Cleaning%2Fdp%2FB0CDB56ZWV%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C80da82b6-8768-4099-8fa7-3331c5c11350%7Cdtp&dtb=1) for $200 (save $80 with on-page coupon)
 * [Roborock S8 Pro Ultra Robot Vacuum and Mop](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FPro-Ultra-Self-Washing-Self-Refilling-Self-Emptying%2Fdp%2FB0BVB5PTDK%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C80da82b6-8768-4099-8fa7-3331c5c11350%7Cdtp&dtb=1) for $950 (save $650)
 * [Roborock Q8 Max Robot Vacuum and Mop](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Froborock-Q8-Max-Navigation-Multi-Level%2Fdp%2FB0C7VFD9Q4%2Fref%3Dsxin%5F15%5Fpa%5Fsp%5Fsearch%5Fthematic%5Fsspa%3Fcontent-id%3Damzn1.sym.60b0c4ef-0fd2-46d0-8724-84b6f746d062%3Aamzn1.sym.60b0c4ef-0fd2-46d0-8724-84b6f746d062%26crid%3D37DMVM6CIU4Y0%26cv%5Fct%5Fcx%3Drobot%2Bvacuum%26dib%3DeyJ2IjoiMSJ9.A4bejnO1HqJM%5FozbrGpsoYI205q99h9DoNEZVmg9dNI-ILQl1J-mSnznl4IKQtzDgOTGYo%5Fa7rpT3PH-A2Mpiw.a4a0hgwCDw4CmRSsqS2wHRhfJu%5FuKKwf5z-r8S-VJok%26dib%5Ftag%3Dse%26keywords%3Drobot%2Bvacuum%26pd%5Frd%5Fi%3DB0C7VFD9Q4%26pd%5Frd%5Fr%3Dc5436de8-abf5-4537-95f0-9cc48163f596%26pd%5Frd%5Fw%3DOlqAp%26pd%5Frd%5Fwg%3DQ2Iuk%26pf%5Frd%5Fp%3D60b0c4ef-0fd2-46d0-8724-84b6f746d062%26pf%5Frd%5Fr%3DAKHVV8K35XC7VV3MS5S3%26qid%3D1723557736%26sbo%3DRZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D%26sprefix%3Drobot%2Bvacuum%2B%2Caps%2C104%26sr%3D1-20-f853d353-bf33-45e7-b5c2-2cb2b31abc9b-spons%26sp%5Fcsd%3Dd2lkZ2V0TmFtZT1zcF9zZWFyY2hfdGhlbWF0aWM%26th%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C80da82b6-8768-4099-8fa7-3331c5c11350%7Cdtp&dtb=1) for $320 (save $280)
-
-<!-- affiliate ads begin -->
-<span id="1983553">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983553.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983553">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983553.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983553%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983553/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## The best Amazon home deals
 
@@ -113,7 +93,27 @@ Maria Diaz/ZDNET
 * [Jackery Explorer 240 v2 Portable Power Station](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FJackery-v2-Versatile-Scenarios-Outdoor-Emergency%2Fdp%2FB0D2L1B7PK%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C80da82b6-8768-4099-8fa7-3331c5c11350%7Cdtp&dtb=1) for $189 (save $60)
 * [Bluetti EB3A Portable Power Station](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FBLUETTI-Portable-EB3A-Recharge-Generator%2Fdp%2FB09WW3CTF4%3Fref%3Ddlx%5Fdeals%5Fdg%5Fdcl%5FB09WW3CTF4%5Fdt%5Fsl14%5Fd5%26th%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C80da82b6-8768-4099-8fa7-3331c5c11350%7Cdtp&dtb=1) for $198 (save $102)
 
+<!-- affiliate ads begin -->
+<span id="1770776">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770776.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770776">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770776.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770776%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770776/20702" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##   
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484950/16446" target="_top" id="1484950">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484950" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484950/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How did we choose these Amazon deals?
 
@@ -126,10 +126,10 @@ We also looked over customer reviews to find out what matters to real people who
 Deals are subject to sell out or expire at any time, though ZDNET remains committed to finding, sharing, and updating the best product deals for you to score the best savings. Our team of experts regularly checks in on the deals we share to ensure they are still live and obtainable. We're sorry if you've missed out on a deal, but don't fret -- we're constantly finding new chances to save and sharing them with you at [ZDNET.com](https://www.zdnet.com/). 
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484909/16446" target="_top" id="1484909">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484909" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135400/19272" target="_top" id="2135400">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135400" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484909/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135400/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How much is an Amazon Prime membership?
@@ -180,16 +180,21 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-unleash-the-full-potential-of-your-android-device-with-obs-studio/"><u>[New] In 2024, Unleash the Full Potential of Your Android Device with OBS Studio</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-captivate-audiences-gain-views-boosting-engagement-in-tiktok-unboxing-videos-for-2024/"><u>[Updated] Captivate Audiences, Gain Views Boosting Engagement in TikTok Unboxing Videos for 2024</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-revamping-reality-the-premier-11-instagram-edits/"><u>[Updated] In 2024, Revamping Reality The Premier 11 Instagram Edits</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/3-ways-to-track-asus-rog-phone-8-pro-without-them-knowing-drfone-by-drfone-virtual-android/"><u>3 Ways to Track Asus ROG Phone 8 Pro without Them Knowing | Dr.fone</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-unlocking-apple-iphone-x-passcode-without-a-computer-by-drfone-ios/"><u>In 2024, Unlocking Apple iPhone X Passcode without a Computer</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/in-depth-review-of-the-high-speed-netgear-orbi-ac7180-wifi-6e-mesh-network-delivering-true-wireless-gbps-speeds/"><u>In-Depth Review of the High-Speed Netgear Orbi AC7180 WiFi 6E Mesh Network - Delivering True Wireless Gbps Speeds</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/incredible-tiny-intelligent-voice-assistant-earpiece-unveiled-in-plaud-note-analysis/"><u>Incredible Tiny Intelligent Voice Assistant Earpiece Unveiled in Plaud Note Analysis</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/innovative-nanoleaf-umbra-cono-analysis-ideal-intelligent-lighting-design-for-childrens-spaces/"><u>Innovative Nanoleaf Umbra Cono Analysis: Ideal Intelligent Lighting Design for Children’s Spaces</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/inside-the-advanced-dual-zone-technology-of-ankers-everfrost-powered-cooler-a-comprehensive-50-unit-analysis/"><u>Inside the Advanced Dual-Zone Technology of Anker's EverFrost Powered Cooler: A Comprehensive 50 Unit Analysis</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/reviving-your-home-theater-experience-a-complete-guide-to-resetting-samsung-soundbars/"><u>Reviving Your Home Theater Experience: A Complete Guide to Resetting Samsung Soundbars</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/unlocking-the-power-of-music-in-engaging-video-content-for-2024/"><u>Unlocking the Power of Music in Engaging Video Content for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-isolated-viewers-to-shared-experiences-online/"><u>[New] 2024 Approved From Isolated Viewers to Shared Experiences Online</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-flawless-free-download-of-youtube-video-covers-no-hurdles-for-2024/"><u>[New] Flawless Free Download of YouTube Video Covers - No Hurdles for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-zero-to-hero-boosting-youtube-view-count-quickly/"><u>[New] In 2024, From Zero to Hero Boosting YouTube View Count Quickly</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-getting-the-most-out-of-your-youtube-videos-thumbnails-extraction/"><u>[New] In 2024, Getting the Most Out of Your Youtube Videos Thumbnails Extraction</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-finding-the-right-mic-a-guide-for-multifaceted-yt-channels/"><u>[Updated] 2024 Approved Finding the Right Mic A Guide for Multifaceted YT Channels</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-promote-your-youtube-channel-with-high-impact-showcase-techniques/"><u>[Updated] 2024 Approved How to Promote Your YouTube Channel with High-Impact Showcase Techniques</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-accessible-no-cost-tools-to-craft-professional-slideshows/"><u>[Updated] Accessible, No-Cost Tools to Craft Professional Slideshows</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-mergecombinejoin-youtube-flv-videos/"><u>[Updated] In 2024, How to Merge/Combine/Join YouTube (FLV) Videos</u></a></li>
+<li><a href="https://os-tips.techidaily.com/complete-guide-to-activating-recovery-mode-on-your-ipad-a-must-read-for-newbies-and-experts/"><u>Complete Guide To Activating Recovery Mode On Your iPad - A Must Read For Newbies And Experts</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/free-gigabyte-gc-wb867d-motherboard-utility-software-and-drivers/"><u>Free Gigabyte GC-WB867D Motherboard Utility Software & Drivers</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/from-humble-clips-to-groundbreaking-innovations-paperclip-optimization-via-ai/"><u>From Humble Clips to Groundbreaking Innovations: Paperclip Optimization via AI</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/full-picture-the-essence-of-google-podcasts-app/"><u>Full Picture The Essence of Google Podcasts App</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/in-2024-expert-advice-incorfluttering-web-pages-into-ig-stories-and-posts/"><u>In 2024, Expert Advice Incorfluttering Web Pages Into IG Stories & Posts</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/premiere-pro-no-more-crashes-troubleshooting-for-windows-11-and-10-users/"><u>Premiere Pro No More Crashes - Troubleshooting for Windows 11 and 10 Users</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/the-ultimate-step-by-step-process-for-testing-your-microphone/"><u>The Ultimate Step-by-Step Process for Testing Your Microphone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/unstick-your-system-mastering-the-art-of-seamless-windows-11-updates/"><u>Unstick Your System: Mastering the Art of Seamless Windows 11 Updates</u></a></li>
 </ul></div>
 

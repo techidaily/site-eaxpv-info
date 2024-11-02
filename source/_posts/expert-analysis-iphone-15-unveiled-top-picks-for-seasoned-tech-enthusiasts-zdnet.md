@@ -1,7 +1,7 @@
 ---
 title: "Expert Analysis: IPhone 15 Unveiled - Top Picks for Seasoned Tech Enthusiasts | ZDNet"
-date: 2024-10-18T00:41:36.957Z
-updated: 2024-10-21T17:50:17.670Z
+date: 2024-10-31T01:55:06.600Z
+updated: 2024-11-01T20:35:46.138Z
 tags:
   - apple
 categories:
@@ -45,13 +45,6 @@ Months of testing have proved that Apple's standard [iPhone 15 and iPhone 15 Plu
 
 If you don't see yourself shooting videos in ProRAW, requiring the extra Action button, or drooling over the 5X zoom camera on the [iPhone 15 Pro Max](https://www.zdnet.com/article/iphone-15-pro-review/), you'll be plenty comfortable with the $799 iPhone 15 and $899 iPhone 15 Plus. Between the two, buy the former if you want one of the most compact (yet capable) handsets on the market, and buy the latter if you want a more affordable big-screen iPhone and the best battery life of all the models in the latest lineup.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094479/7443" target="_top" id="2094479">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094479" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094479/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Specifications
 
 | iPhone 15    | iPhone 15 Plus                                    |                                                   |
@@ -66,6 +59,13 @@ If you don't see yourself shooting videos in ProRAW, requiring the extra Action 
 | Price        | Starting at $799                                  | Starting at $899                                  |
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136627/26400" target="_top" id="2136627">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136627" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136627/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How I tested the iPhone 15 and iPhone 15 Plus
 
@@ -128,10 +128,10 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557746/17382" target="_top" id="1557746">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557746" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135362/19272" target="_top" id="2135362">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135362" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557746/17382" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135362/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Should I upgrade from my older iPhone?
@@ -149,10 +149,10 @@ It's true that [consumers are now upgrading their smartphones at a slower rate](
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082539/7443" target="_top" id="2082539">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082539" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123733/7443" target="_top" id="2123733">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123733" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082539/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123733/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## What I'd like to see in the next model
@@ -172,10 +172,10 @@ Is this Apple's way of splitting up the non-Pro and Pro models? Probably. I don'
 It's easy to call the standard iPhone model the "Best iPhone for most people." That's been the case since Apple introduced a Pro variant with the iPhone 11 series, and still holds true with the [iPhone 15](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-iphone%2Fiphone-15&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp). Only now, I'm finding myself recommending the non-Pro iPhone to more users than ever before, including folks I've known to be more demanding of their tech. Apple's made just enough feature upgrades (and a few compromises that may be imperceivable to some) to help the latest iPhone model stand out, even when stacked against the generation before it.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2141683/17092" target="_top" id="2141683">
-  <img src="//a.impactradius-go.com/display-ad/17092-2141683" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139111/17108" target="_top" id="2139111">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139111" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141683/17092" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139111/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Alternatives to consider
@@ -212,22 +212,24 @@ It's easy to call the standard iPhone model the "Best iPhone for most people." T
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-blueprint-for-buzz-elevating-your-profile-on-fb/"><u>[New] Blueprint for Buzz Elevating Your Profile on FB</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-green-screen-mastery-on-youtube-ideas-unleashed-for-2024/"><u>[New] Green Screen Mastery on YouTube - Ideas Unleashed for 2024</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/bs-101-youtube-live-stream-setup-tutorial/"><u>[New] OBS 101 Youtube Live Stream Setup Tutorial</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-fresh-film-views-ranked-alternatives-1-7/"><u>[Updated] 2024 Approved Fresh Film Views Ranked Alternatives #1-7</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-content-maker-to-cash-magnet-youtubes-guide-to-ad-revenue/"><u>[Updated] 2024 Approved From Content Maker to Cash Magnet Youtube's Guide to Ad Revenue</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-get-more-out-of-youtube-with-8-handpicked-download-apps/"><u>[Updated] 2024 Approved Get More Out of YouTube with 8 Handpicked Download Apps</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-google-meet-for-everyone-a-comprehensive-no-cost-strategy-booklet/"><u>[Updated] 2024 Approved Google Meet for Everyone A Comprehensive, No-Cost Strategy Booklet</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-create-a-playlist-on-youtube-a-complete-guide-for-2024/"><u>[Updated] How to Create a Playlist on Youtube - a Complete Guide for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-purge-personal-youtube-history-records-for-2024/"><u>[Updated] How to Purge Personal YouTube History Records for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-free-tribe-50-branding-banners-ready-to-unleash/"><u>[Updated] In 2024, Free Tribe 50 Branding Banners Ready to Unleash</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-youtube-to-insta-a-video-posting-guide/"><u>[Updated] In 2024, From YouTube to Insta A Video Posting Guide</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-unlocking-hidden-gems-open-source-art-lists/"><u>[Updated] Unlocking Hidden Gems Open-Source Art Lists</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-strategy-revealed-a-box-opening-narrative/"><u>2024 Approved Strategy Revealed A Box-Opening Narrative</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/avoiding-game-crashes-solving-severe-bugs-in-call-of-duty-black-ops-iv/"><u>Avoiding Game Crashes: Solving Severe Bugs in Call of Duty: Black Ops IV</u></a></li>
-<li><a href="https://win-dash.techidaily.com/download-the-latest-asus-mouse-pad-software-for-windows-pcs/"><u>Download the Latest ASUS Mouse Pad Software for Windows PCs</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-reset-apple-id-and-apple-password-from-apple-iphone-6-plus-by-drfone-ios/"><u>How to Reset Apple ID and Apple Password From Apple iPhone 6 Plus</u></a></li>
-<li><a href="https://win-blog.techidaily.com/resolved-fixes-for-stability-issues-in-left-4-dead-2/"><u>Resolved: Fixes for Stability Issues in Left 4 Dead 2</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-filmmakers-toolkit-making-compelling-youtube-trailers/"><u>[New] 2024 Approved Filmmaker's Toolkit Making Compelling YouTube Trailers</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-get-rid-of-youtube-ads-with-ease-on-chrome-firefox-ios-android/"><u>[New] 2024 Approved Get Rid of YouTube Ads with Ease on Chrome, Firefox, iOS, Android</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-historical-explorations-10-must-see-educational-channels-on-yt/"><u>[New] 2024 Approved Historical Explorations - 10 Must-See Educational Channels on YT</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-guide-to-modify-comment-accessibility-on-youtube-for-2024/"><u>[New] Guide to Modify Comment Accessibility on YouTube for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-finding-superior-hashtags-for-your-youtube-content/"><u>[Updated] 2024 Approved Finding Superior Hashtags for Your YouTube Content</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-find-friends-in-fandoms-forums-for-2024/"><u>[Updated] Find Friends in Fandom's Forums for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-camera-to-chrome-youtube-shorts-video-upload-guide/"><u>[Updated] In 2024, From Camera to Chrome YouTube Shorts Video Upload Guide</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-editing-to-sharing-youtube-mastery-with-adobe-premiere/"><u>[Updated] In 2024, From Editing to Sharing YouTube Mastery with Adobe Premiere</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-select-a-youtube-gaming-introduction-maker-free-or-paid-edition/"><u>[Updated] In 2024, How to Select a YouTube Gaming Introduction Maker Free or Paid Edition</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-unlocking-maximum-video-sizes-in-instagram-upload-for-2024/"><u>[Updated] Unlocking Maximum Video Sizes in Instagram Upload for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-top-10-effect-enhancing-fcp-plug-ins/"><u>2024 Approved Top 10 Effect-Enhancing FCP Plug-Ins</u></a></li>
+<li><a href="https://win-best.techidaily.com/mv/"><u>迎接MV新盟系列 - 颠覆性专业合作平台</u></a></li>
+<li><a href="https://games-able.techidaily.com/essential-ps5-gear-for-maximum-performance/"><u>Essential PS5 Gear for Maximum Performance</u></a></li>
+<li><a href="https://win-dash.techidaily.com/get-the-latest-hp-printer-drivers-installed-on-windows-a-comprehensive-tutorial/"><u>Get the Latest HP Printer Drivers Installed on Windows: A Comprehensive Tutorial</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-downloading-samfw-frp-tool-30-for-asus-rog-phone-8-pro-by-drfone-android/"><u>In 2024, Downloading SamFw FRP Tool 3.0 for Asus ROG Phone 8 Pro</u></a></li>
+<li><a href="https://article-tips.techidaily.com/in-2024-select-the-superior-a-guide-to-8-outstanding-free-android-mp3-downloaders/"><u>In 2024, Select the Superior A Guide to 8 Outstanding Free Android MP3 Downloaders</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/master-the-art-of-efficient-data-management-using-premade-tables-in-google-sheets-according-to-experts-at-zdnet/"><u>Master the Art of Efficient Data Management Using Premade Tables in Google Sheets, According to Experts at ZDNET</u></a></li>
+<li><a href="https://win-exceptional.techidaily.com/unlocking-deleted-data-on-unallocated-drives-a-comprehensive-tutorial/"><u>Unlocking Deleted Data on Unallocated Drives: A Comprehensive Tutorial</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/updated-2024-approved-easy-steps-to-translate-video-on-twitter/"><u>Updated 2024 Approved Easy Steps to Translate Video on Twitter</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Apple to Refresh Cost-Effective Watch SE? Unveiling Upcoming Improvements and New Specs | ZDNET
-date: 2024-10-20T20:23:29.901Z
-updated: 2024-10-27T17:47:49.777Z
+date: 2024-10-30T03:33:59.643Z
+updated: 2024-11-02T04:30:07.568Z
 tags:
   - apple
 categories:
@@ -47,10 +47,10 @@ Apple Intelligence will tap into your photos for a few different tricks. You'll 
 The [new Clean Up tool](https://www.zdnet.com/article/ios-18-1-beta-adds-photo-clean-up-ai-tool-and-notification-summaries-how-they-work/) will help you remove distracting or unwanted elements in a photo while leaving everything else intact.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144272/7443" target="_top" id="2144272">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144272" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151883/7443" target="_top" id="2151883">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151883" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144272/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151883/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Audio transcriptions
@@ -67,16 +67,16 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134491/18498" target="_top" id="2134491">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134491" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134491/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 4\. Notification assistance
 
 Instead of having to read all the notifications that appear on your screen, you'll be able to browse through AI-generated summaries of them. Plus, a new Focus mode will display only the notifications that need your immediate attention.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105869/7443" target="_top" id="2105869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Mail assistance
 
@@ -85,6 +85,19 @@ To help you get through your emails, Apple Intelligence will [try to understand 
 **Also: [The iPhone 16 is undeniably great hardware - but you should still probably skip it](https://www.zdnet.com/article/the-iphone-16-is-undeniably-great-hardware-but-you-should-still-probably-skip-it/)**
 
 Plus, a new Smart Reply feature will offer suggestions for quick replies and ensure that all the questions in a response have been addressed.
+
+<!-- affiliate ads begin -->
+<span id="1983446">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983446.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983446">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983446.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983446%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983446/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 6\. Siri improvements
 
@@ -99,13 +112,6 @@ On the visual front, Siri's familiar orb will be replaced by a glowing light tha
 Beyond using your voice to chat with Siri, you'll also be able to type your requests or questions. You can even switch between text and voice as you interact with Siri. The voice assistant will be able to follow and understand your words even if you make a mistake or stumble. Futher, Siri will be packed with knowledge about Apple's many devices, so it will be able to help you find and use all the features and settings on your iPhone, iPad, or Mac -- like an on-device Genius helper. 
 
 Those are a fair number of AI-powered features and upgrades, but Apple Intelligence has more in store for the months and years ahead. 
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148634/16836" target="_top" id="2148634">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148634" border="0" alt="https://techidaily.com" width="80" height="31"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148634/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## What will come later
 
@@ -122,10 +128,10 @@ The [image wand](https://www.zdnet.com/article/forget-dall-e-apples-new-ai-image
 You'll be able to [create new emojis](https://www.zdnet.com/article/apples-new-ai-generated-genmoji-solve-a-problem-weve-all-had-before/) on-demand by entering a description or selecting a photo of you or another person. In response, the AI will generate a more accurate and lively kind of emoji.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148636/16836" target="_top" id="2148636">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148636" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123512/26400" target="_top" id="2123512">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123512" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148636/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123512/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### More Siri tricks
@@ -166,18 +172,24 @@ The big question, though, is not so much when the new AI features will arrive bu
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-acclaimed-selections-discover-the-best-10-vimeo-file-harvesters/"><u>[New] In 2024, Acclaimed Selections Discover the Best 10 Vimeo File Harvesters</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-ignite-social-media-fanfare-master-these-9-instagram-commandments/"><u>[Updated] 2024 Approved Ignite Social Media Fanfare Master These 9 Instagram Commandments</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-essential-steps-to-design-impressive-facebook-slideshows/"><u>[Updated] Essential Steps to Design Impressive Facebook Slideshows</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-keeping-the-chuckles-stealing-twitters-gif-content/"><u>[Updated] In 2024, Keeping the Chuckles Stealing Twitter's GIF Content</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/1-quick-and-simple-drm-free-conversion-transform-aa-files-into-mp3-with-just-a-few-clicks/"><u>1. Quick & Simple DRM-Free Conversion: Transform AA Files Into MP3 with Just a Few Clicks!</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/2024-approved-discover-every-aspect-of-io-visual-logging/"><u>2024 Approved Discover Every Aspect of IO Visual Logging</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/embracing-change-how-the-unique-benefits-of-the-oura-ring-make-it-a-must-have-despite-disliking-subscriptions/"><u>Embracing Change: How the Unique Benefits of the Oura Ring Make It a Must-Have Despite Disliking Subscriptions</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/in-2024-ultimate-blueprints-livestream-and-log-sports-matches-effectively/"><u>In 2024, Ultimate Blueprints Livestream & Log Sports Matches Effectively</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/introducing-the-elite-of-smartwatches-the-all-new-luxurious-galaxy-watch-ultra-by-samsung/"><u>Introducing the Elite of Smartwatches: The All-New, Luxurious Galaxy Watch Ultra by Samsung</u></a></li>
-<li><a href="https://win-answers.techidaily.com/master-the-battlefield-without-interruptions-solve-total-war-warhammer-iiis-crashes/"><u>Master the Battlefield Without Interruptions: Solve TOTAL WAR: WARHAMMER III's Crashes</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/meet-the-new-era-in-mobile-tech-samsung-introduces-galaxy-z-flip-sixth-gen-folding-smartphone/"><u>Meet the New Era in Mobile Tech: Samsung Introduces Galaxy Z Flip ˈSixth-Gen Folding Smartphone</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/samsung-messages-removed-from-latest-galaxy-phone-models/"><u>Samsung Messages Removed From Latest Galaxy Phone Models</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/should-you-switch-to-samsung-galaxy-z-flip-6-from-z-flip-n5-a-detailed-review/"><u>Should You Switch to Samsung Galaxy Z Flip 6 From Z Flip N°5? A Detailed Review</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-many-viewers-to-target-for-a-youtube-earning-journey/"><u>[New] 2024 Approved How Many Viewers to Target for a YouTube Earning Journey?</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-film-school-at-home-mastering-video-editing-via-youtube-and-alternatives-for-2024/"><u>[New] Film School at Home Mastering Video Editing via YouTube & Alternatives for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-bare-walls-to-full-screens-10-fixes-for-no-video-views/"><u>[New] In 2024, From Bare Walls to Full Screens 10 Fixes for No Video Views</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-guide-to-profiting-from-youtube-shorts-key-requirements-and-potential-income/"><u>[New] In 2024, Guide to Profiting From YouTube Shorts Key Requirements & Potential Income</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-fine-tuning-focus-on-youtube-threads/"><u>[Updated] 2024 Approved Fine-Tuning Focus on YouTube Threads</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-growth-hackers-guide-the-ultimate-list-of-top-strategies-to-retain-youtube-viewers/"><u>[Updated] 2024 Approved Growth Hackers Guide The Ultimate List of Top Strategies to Retain YouTube Viewers</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-craft-top-quality-youtube-thumbnails-fast-for-2024/"><u>[Updated] How To Craft Top Quality YouTube Thumbnails Fast for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-idea-to-impact-top-8-online-courses-for-new-creators/"><u>[Updated] In 2024, From Idea to Impact Top 8 Online Courses for New Creators</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-plot-to-post-a-detailed-guide-to-writing-youtube-videos/"><u>[Updated] In 2024, From Plot to Post A Detailed Guide to Writing YouTube Videos</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-in-2024-insightful-rank-trackers-unlock-your-videos-potential/"><u>[Updated] In 2024, Insightful Rank Trackers - Unlock Your Video's Potential</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-unraveling-the-secrets-of-recording-hulu-across-computersmobile-for-2024/"><u>[Updated] Unraveling the Secrets of Recording Hulu Across Computers/Mobile for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/youtube-to-webm-tools-a-compreenasive-review-and-ranking-for-2024/"><u>Best YouTube-to-WebM Tools A Compreenasive Review & Ranking for 2024</u></a></li>
+<li><a href="https://win-dash.techidaily.com/get-your-gigabyte-nic-drivers-now-direct-download-links-available/"><u>Get Your Gigabyte NIC Drivers Now - Direct Download Links Available</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-oppo-a2-to-blackberry-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Oppo A2 to BlackBerry | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-social-media-savvy-the-art-of-timing-in-instagram-reels/"><u>In 2024, Social Media Savvy The Art of Timing in Instagram Reels</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-2024-approved-mastering-seamless-scene-shifts-in-video-editing/"><u>New 2024 Approved Mastering Seamless Scene Shifts in Video Editing</u></a></li>
+<li><a href="https://techidaily.com/recover-apple-iphone-6s-plus-data-from-ios-itunes-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>Recover Apple iPhone 6s Plus Data From iOS iTunes | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/rootjunky-apk-to-bypass-google-frp-lock-for-oneplus-nord-3-5g-by-drfone-android/"><u>Rootjunky APK To Bypass Google FRP Lock For OnePlus Nord 3 5G</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/spark-ar-graphics-mastering-the-art-with-downloadable-color-lookups-for-2024/"><u>Spark AR Graphics Mastering the Art with Downloadable Color Lookups for 2024</u></a></li>
 </ul></div>
 

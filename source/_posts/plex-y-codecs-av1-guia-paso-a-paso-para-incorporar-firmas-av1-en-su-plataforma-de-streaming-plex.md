@@ -1,7 +1,7 @@
 ---
 title: "Plex Y Codecs AV1: Guía Paso a Paso Para Incorporar Firmas AV1 en Su Plataforma De Streaming Plex"
-date: 2024-08-30 16:50:46
-updated: 2024-09-02 11:18:58
+date: 2024-10-31T02:21:34.039Z
+updated: 2024-11-01T20:17:55.485Z
 categories:
   - winxdvd
 thumbnail: https://thmb.techidaily.com/34983eeb01d46447a2aa80e2d1b0eee6f876f53497144fdec843045cc8106d3c.jpg
@@ -27,11 +27,16 @@ To rip DVD to MKV, follow these simple steps:
 
 ![rip dvd](https://www.winxdvd.com/resource/../seo-img/general-img/seobanner-dvd.png) 
 
-
-
 ## How to Rip DVDs to MKV Losslessly with Original Menus, Subtitles...
 
 ![](https://www.winxdvd.com/resource/../seo-img/general-img/face-dp-111.png) [Donna Peng](https://tools.techidaily.com/winxdvd/products/) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886069/19272" target="_top" id="1886069">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886069" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886069/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Updated on February 28, 2024 
 
@@ -43,6 +48,13 @@ When a DVD owner converts a disc to a digital format, he may want to keep all th
 Note: You can also rip copy-protected DVDs to MP4, MOV, AVI, WMV, 3GP, FLV, and 350+ video formats and device profiles. 
 
 [![](https://www.winxdvd.com/resource/../seoimg/win.png) Free Download](https://tools.techidaily.com/winxdvd/products/) [![](https://www.winxdvd.com/resource/../seoimg/mac.png) Free Download](https://tools.techidaily.com/winxdvd/products/) [Free Download](https://tools.techidaily.com/winxdvd/products/) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135419/19272" target="_top" id="2135419">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135419" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135419/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 2024 Best Ways to Freely Rip DVDs to MKV on Windows 10/11 & Mac
 
@@ -62,11 +74,32 @@ Similar to Blu-ray, DVD disc is also equipped with a variety of protections to p
 
 **![](https://www.winxdvd.com/resource/../seo-img/general-img/a10.png)2\. DVD to MKV Backup can Reserves All DVD Content** 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886003/19272" target="_top" id="1886003">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886003" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886003/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 If you have ever [encoded DVD movies into MP4](https://tools.techidaily.com/winxdvd/products/), AVI, or MPEG format, and been slightly frustrated with the loss of DVD extra elements, then you can switch to MKV as the DVD backup format. MKV is able to contain all detailed chapter information, sub-chapters, titles, multiple audio and video streams, subtitles, attachments and custom metadata.
 
 **![](https://www.winxdvd.com/resource/../seo-img/general-img/a7.png)3\. MKV Container Is as Universal as MP4 with High Quality** 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105860/7443" target="_top" id="2105860">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105860" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105860/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Since MKV supports any type of video/audio tracks and subtitles inside, and is quite efficient for storage and streaming, it's widely used on video transmitting. Usually, common DVD rippers can help rip a 4-8 GB DVD movie to a digital file in hundreds of MB, but you will get much quality loss. Only some seasoned DVD to MKV backup tools balance well on video file size and DVD ripping speed.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047351/19272" target="_top" id="2047351">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047351" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047351/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 2\. How to Convert DVDs to MKV Losslessly with WinX DVD Ripper
 
@@ -88,6 +121,13 @@ After downloading and installing the DVD to MKV ripper, follow the steps below t
 Tips: It also supports importing DVD folder and ISO image files for converting to MKV format.
 
 ![Convert DVD to MP4 Windows 10/11 with WMP alternative](https://www.winxdvd.com/resource/../seo-img/dvd-ripper/drp-interface-700.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896527/19272" target="_top" id="1896527">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896527" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896527/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Step 2\. Choose MKV as Target Format**
 
@@ -120,6 +160,13 @@ Now let's download MakeMKV and learn how to convert DVD to MKV with MakeMKV.
 **Step 1.** Insert target DVD into your DVD drive. Launch MakeMKV and click the DVD to hard drive button to import the DVD.
 
 ![Extract DVD to MKV with MakeMKV](https://www.winxdvd.com/resource/../seo-img/dvd-ripper/makemkv-open-dvd.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130869/7443" target="_top" id="2130869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130869" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Step 2.** Select the titles, audios, and subtitles you want to preserve.
 
@@ -179,6 +226,13 @@ Now let's learn how to rip DVDs to MKV usingi VLC?
 
 ![Rip DVD to MKV with VLC](https://www.winxdvd.com/resource/../seo-img/rip-dvd-mp4/vlc-output.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1006793/11832" target="_top" id="1006793">
+  <img src="//a.impactradius-go.com/display-ad/11832-1006793" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1006793/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 6\. How to Rip DVD to MKV with Movavi Video Converter
 
 Movavi Video Converter is a versatile video converter which has the function to rip a DVD into MKV and various other formats. As a video converter, there are many tools to compress the video, adjust colors, insert effects, enhance the video quality, and more. You can rely on its reliable ripping performance. However, this DVD to MKV ripper doesn't support copy protections. And it you need to rip an unprotected DVD to MKV, there are many free alternatives. 
@@ -212,11 +266,30 @@ DVD to MKV converters play a valuable role in the digital transformation of phys
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-essential-mac-microphone-tools-selecting-leading-recorders/"><u>[Updated] 2024 Approved Essential Mac Microphone Tools Selecting Leading Recorders</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-14-youtube-adsense-earnings-how-much-does-adsense-pay-per-1000-views/"><u>[Updated] In 2024, 14- YouTube AdSense Earnings How Much Does AdSense Pay per 1,000 Views</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/2024-approved-aces-cache-the-premier-choice-for-twitterscape-animation-preservation/"><u>2024 Approved Ace's Cache The Premier Choice for Twitterscape Animation Preservation</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/3-easy-solutions-to-hard-reset-honor-x9a-drfone-by-drfone-reset-android-reset-android/"><u>3 Easy Solutions to Hard Reset Honor X9a | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/advanced-automation-evaluation-the-eufy-omni-s1-pro-a-revolutionary-leap-in-robotic-vacuuming/"><u>Advanced Automation Evaluation: The Eufy Omni S1 Pro - A Revolutionary Leap in Robotic Vacuuming</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/conversion-gratuite-de-fichiers-m4b-en-ligne-avec-movavi-guide-detaille/"><u>Conversion Gratuite De Fichiers M4b en Ligne Avec Movavi - Guide Détaillé</u></a></li>
+<li><a href="https://win-lab.techidaily.com/converting-mozilla-air-files-how-to-save-your-favorites-as-mp4-mov-or-avi-and-more/"><u>Converting Mozilla Air Files: How to Save Your Favorites as MP4, MOV or AVI and More!</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/decouvrez-les-top-alternatives-gratuites-a-davinci-resolve-pour-la-restauration-video-en-2024-un-guide-detaille/"><u>Découvrez Les Top Alternatives Gratuites À DaVinci Resolve Pour La Restauration Video en 2024 : Un Guide Détaillé</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/vision-to-value-an-all-inclusive-guide-on-analyzing-views-clicks-and-monetization-for-2024/"><u>From Vision to Value An All-Inclusive Guide on Analyzing Views, Clicks, & Monetization for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/guide-to-downgrade-from-sierra-to-el-capitan-on-macs/"><u>Guide to Downgrade From Sierra to El Capitan on Macs</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/les-logiciels-genealogiques-numero-un-en-2024-notre-selection-des-9-meilleurs-selon-movavi/"><u>Les Logiciels Généalogiques Numéro Un en 2024: Notre Sélection Des 9 Meilleurs, Selon Movavi</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/online-free-wmv-converted-to-avi-format-with-movavis-tool/"><u>Online Free WMV Converted to AVI Format with Movavi's Tool</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/securite-movavi-comprendre-lefficacite-du-site-web-et-des-applications-dans-la-prevention-des-risques-informatiques/"><u>Sécurité Movavi : Comprendre L'efficacité Du Site Web Et Des Applications Dans La Prévention Des Risques Informatiques.</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/step-by-step-guide-to-successful-instagram-story-surveys-for-2024/"><u>Step-by-Step Guide to Successful Instagram Story Surveys for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/transferir-videos-al-youtube-sin-perder-calidad-desde-tu-pc-y-telefono/"><u>Transferir Videos Al YouTube Sin Perder Calidad Desde Tu PC Y Teléfono</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/transformar-swf-a-flv-sin-coste-adicional-usando-la-herramienta-de-conversion-on-line-de-movavi/"><u>Transformar SWF a FLV Sin Coste Adicional Usando La Herramienta De Conversión On-Line De Movavi</u></a></li>
+</ul></div>
+

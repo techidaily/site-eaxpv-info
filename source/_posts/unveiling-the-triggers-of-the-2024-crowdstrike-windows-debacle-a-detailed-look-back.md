@@ -1,7 +1,7 @@
 ---
 title: "Unveiling the Triggers of the 2024 CrowdStrike-Windows Debacle: A Detailed Look Back"
-date: 2024-10-26T17:05:37.765Z
-updated: 2024-10-27T16:46:18.451Z
+date: 2024-10-26T16:47:27.882Z
+updated: 2024-11-01T20:52:15.947Z
 tags:
   - apple
 categories:
@@ -51,10 +51,10 @@ Repairing the damage from a flaw like this is a painfully tedious process that r
 If you know anyone whose job involves administering Windows PCs in a corporate network that uses the CrowdStrike code, you can be confident they are very busy right now, and will be for days to come.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151888/7443" target="_top" id="2151888">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151888" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135373/19272" target="_top" id="2135373">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135373" border="0" alt="https://techidaily.com" width="392" height="72"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151888/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135373/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## We've seen this movie before
@@ -94,10 +94,10 @@ In the You Can't Make This Up Department… CrowdStrike's founder and CEO, Georg
 What makes the 2024 sequel so much worse is that it also affected Windows-based servers running in the cloud, on Microsoft Azure and on AWS. Just as with the many laptops and desktop PCs that were bricked by this faulty update, the cloud-based servers require time-consuming manual interventions to recover.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087234/19272" target="_top" id="2087234">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087234" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1528685/16446" target="_top" id="1528685">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528685" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087234/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528685/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## CrowdStrike's QA failed
@@ -127,10 +127,10 @@ As part of its initial response, CrowdStrike says it plans to take additional me
 Meanwhile, the United States House of Representatives Homeland Security Committee plans to call CrowdStrike's CEO up for hearings on what went wrong, and CrowdStrike's Chief Security Officer, Shawn Henry, [posted an apology on LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7220983915421806592/), admitting "On Friday, we failed you. ... The confidence we built in drips over the years was lost in buckets within hours, and it was a gut punch."
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1006793/11832" target="_top" id="1006793">
-  <img src="//a.impactradius-go.com/display-ad/11832-1006793" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1886069/19272" target="_top" id="1886069">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886069" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1006793/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886069/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How much fault should Microsoft shoulder?
@@ -181,20 +181,22 @@ Nonetheless, this incident, which caused many billions of dollars' worth of dama
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-guidance.techidaily.com/new-most-reliable-image-archiving-sites/"><u>[New] Most Reliable Image Archiving Sites</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/new-tricks-for-speedy-vimeo-streams-for-2024/"><u>[New] Tricks for Speedy Vimeo Streams for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-initiating-your-sporty-online-presence-with-mac/"><u>[Updated] Initiating Your Sporty Online Presence with Mac</u></a></li>
-<li><a href="https://solve-manuals.techidaily.com/aomei-fonebackup-iphoneiphone/"><u>AOMEI FoneBackup iPhone数据传输指南：如何将信息从一部iPhone移动到另一部</u></a></li>
-<li><a href="https://driver-download.techidaily.com/1722968213173-asus-z370-e-motherboard-firmware-and-drivers-download-fast/"><u>ASUS Z370-E Motherboard Firmware & Drivers: Download Fast</u></a></li>
-<li><a href="https://win-lab.techidaily.com/best-free-vm-disk-image-recovery-software-top-5-picks-for-retrieving-vmdk-files/"><u>Best Free VM Disk Image Recovery Software: Top 5 Picks for Retrieving VMDK Files</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/convert-your-movies-effortlessly-with-the-newest-version-of-winx-dvd-ripper-free-hd-to-mp4-on-windows-11/"><u>Convert Your Movies Effortlessly with the Newest Version of WinX DVD Ripper Free: HD to MP4 on Windows 11</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/1725288126448-dvd/"><u>DVDの中から曲を取り出すための専門的なガイド</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/easy-steps-to-customize-handbrake-configuration-for-apple-ipad-compatible-video-and-dvd-content/"><u>Easy Steps to Customize Handbrake Configuration for Apple iPad-Compatible Video and DVD Content</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/enhance-gameplay-with-ai-powered-motion-interpolation-increase-frames-per-second-and-achieve-seamless-visuals/"><u>Enhance Gameplay with AI-Powered Motion Interpolation: Increase Frames Per Second and Achieve Seamless Visuals</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/exploring-the-basics-of-mov-format-in-digital-videos/"><u>Exploring the Basics of MOV Format in Digital Videos</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-fix-ipad-or-iphone-6s-plus-stuck-on-activation-lock-by-drfone-ios/"><u>In 2024, How to Fix iPad or iPhone 6s Plus Stuck On Activation Lock?</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/o-guia-definitivo-topissimos-aplicativos-de-conversao-dvd-para-mp4-para-sistemas-operacionais-windowsmac-no-ano-2n23/"><u>O Guia Definitivo: Topíssimos Aplicativos De Conversão DVD Para MP4 Para Sistemas Operacionais Windows/Mac No Ano 2N23</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/stream-movies-and-tv-free-on-android-with-the-new-moviebox-app-download/"><u>Stream Movies & TV FREE on Android with the New MovieBox App Download</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-10-best-spy-watches-for-your-samsung-galaxy-m34-drfone-by-drfone-virtual-android/"><u>Top 10 Best Spy Watches For your Samsung Galaxy M34 | Dr.fone</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-youtube-profile-pics-templates-available/"><u>[New] 2024 Approved YouTube Profile Pics Templates Available</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-harness-the-full-potential-of-your-youtube-content-using-wmm-for-2024/"><u>[New] Harness the Full Potential of Your YouTube Content Using WMM for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-free-professional-youtuber-backgrounds/"><u>[New] In 2024, Free Professional YouTuber Backgrounds</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-youtube-watch-parties-to-home-auditory-archives/"><u>[New] In 2024, From YouTube Watch Parties to Home Auditory Archives</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-guide-to-securely-copying-youtube-music-tracks-safely/"><u>[Updated] 2024 Approved Guide to Securely Copying YouTube Music Tracks Safely</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-hourly-highlights-top-10-youtubes-biggest-view-count/"><u>[Updated] 2024 Approved Hourly Highlights Top 10 YouTube's Biggest View Count</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-from-video-lessons-to-vivid-engaging-gifs-no-download-needed-for-2024/"><u>[Updated] From Video Lessons to Vivid, Engaging GIFs – No Download Needed for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-convert-youtube-to-mp3-without-compromising-security-3-tips-for-2024/"><u>[Updated] How to Convert YouTube to MP3 Without Compromising Security - 3 Tips for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-get-paid-on-youtube-from-adsense-to-your-bank-account/"><u>[Updated] In 2024, How To Get Paid on YouTube - From AdSense to Your Bank Account</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/a-perfect-guide-to-remove-or-disable-google-smart-lock-on-poco-f5-pro-5g-by-drfone-android/"><u>A Perfect Guide To Remove or Disable Google Smart Lock On Poco F5 Pro 5G</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/effectively-track-down-misplaced-airpods-proven-tips-and-future-proofing-techniques/"><u>Effectively Track Down Misplaced AirPods: Proven Tips and Future-Proofing Techniques</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/fixing-the-issue-of-sluggish-startup-on-windows-1011-solutions-inside/"><u>Fixing the Issue of Sluggish Startup on Windows 10/11 - Solutions Inside!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/smooth-sailing-ahead-resolving-euro-truck-simulator-2-pc-disruptions-for-gaming-enthusiasts/"><u>Smooth Sailing Ahead: Resolving Euro Truck Simulator 2 PC Disruptions for Gaming Enthusiasts</u></a></li>
+<li><a href="https://win-answers.techidaily.com/total-war-saga-troy-comprehensive-fixes-to-prevent-and-manage-game-crashing-on-desktops/"><u>TOTAL WAR SAGA: TROY - Comprehensive Fixes to Prevent & Manage Game Crashing on Desktops</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/ultimate-workflow-for-embedding-subtitle-track-in-mp4s/"><u>Ultimate Workflow for Embedding Subtitle Track in MP4s</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/unlock-advanced-broadcast-techniques-with-obs-on-youtube-and-twitch-for-2024/"><u>Unlock Advanced Broadcast Techniques with OBS on YouTube & Twitch for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unraveling-t-mobiles-metro-network-policies-for-seamless-national-coverage/"><u>Unraveling T-Mobile's Metro Network Policies for Seamless National Coverage</u></a></li>
 </ul></div>
 

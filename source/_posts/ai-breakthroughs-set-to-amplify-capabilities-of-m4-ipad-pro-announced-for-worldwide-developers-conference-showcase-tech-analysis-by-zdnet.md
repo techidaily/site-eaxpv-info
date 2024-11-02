@@ -1,7 +1,7 @@
 ---
 title: AI Breakthroughs Set to Amplify Capabilities of M4 iPad Pro Announced for Worldwide Developers Conference Showcase | Tech Analysis by ZDNET
-date: 2024-10-20T19:32:42.275Z
-updated: 2024-10-27T18:11:10.889Z
+date: 2024-10-30T07:30:13.807Z
+updated: 2024-11-02T14:33:43.805Z
 tags:
   - apple
 categories:
@@ -42,25 +42,11 @@ Now, here's the thing. I tried watching a couple of Marvel 3D movies via Disney+
 
 I'm guessing that Apple's 3Difying of a 2D image will be at about the same level. 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151854/7443" target="_top" id="2151854">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151854" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151854/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. Watch those images together using SharePlay in the Photos app
 
 And here's another feature that I can't imagine any users clamoring for. Now, if you have multiple Vision Pro users, they can all see and discuss the same image together while using the Photos app. 
 
 So, yeah, if Grandma Sadie in Seattle has a Vision Pro, Cousin Marty in Miami has a Vision Pro, and you have a Vision Pro in Yuma, you can all stand around the virtual photo screen and ooh and ah over pictures of baby Alice. 
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148772/18498" target="_top" id="2148772">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148772" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148772/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 3\. Gestures for opening Home View and Control Center
 
@@ -78,25 +64,11 @@ Screenshot by David Gewirtz/ZDNET
 
 On the other hand, Apple "later this year" will enable you to create displays with more resolutions. The most interesting is the full wrap-around display, which will be the equivalent of two 4K monitors. 
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134221/18498" target="_top" id="2134221">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134221" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134221/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 5\. Choo-choo train mode
 
 To be fair, Apple didn't call it that. We've [talked about the Vision Pro's travel mode](https://www.zdnet.com/article/itching-to-try-vision-pros-travel-mode-heres-what-to-expect-before-you-go/), which was mostly intended for airplane travel. 
 
 In VisionOS 2, Apple is announcing that there is dedicated support in travel mode for train travel. We know [people have already been successful using the Vision Pro on the train and even subway](https://www.youtube.com/shorts/8ckKAjAWLw8), but in this case, Apple presumably tweaked performance somewhat. 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094419/7443" target="_top" id="2094419">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094419" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094419/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 6\. New developer APIs
 
@@ -108,6 +80,13 @@ There are a ton of VR and AR APIs in Apple's platforms. But this week, at WWDC, 
 * **TabletopKit:** Helps developers create apps that anchor to flat surfaces. One obvious example is board game kits, but this could apply to interior design apps, architectural and construction projects, gaming, navigation, and more.
 * **Enterprise APIs:** These were described as enterprise-specific APIs, so we can assume they're somewhat special purpose. Examples given were surgical training and manufacturing.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037319/7443" target="_top" id="2037319">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037319" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037319/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 7\. New Canon spatial lens for creating spatial video
 
 While iPhone 15 Pro users can create spatial video, there are limitations to using an iPhone as a camera. Apple announced today that Canon will be introducing a spatial lens for its [EOS R7 digital camera](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FCanon-RF-S18-150mm-Mirrorless-Processor-Detection%2Fdp%2FB0B2KSD7WW%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cbfbe271d-4f99-40f4-b81e-3b3c556a641c%7Cdtp&dtb=1). 
@@ -115,6 +94,13 @@ While iPhone 15 Pro users can create spatial video, there are limitations to usi
 Screenshot by David Gewirtz/ZDNET
 
 This allows more commercial and prosumer projects where the photographer or videographer needs more control over the complex range of settings available in a more traditional camera. Those videos can then be edited in Final Cut Pro, Apple's only mention of Final Cut during WWDC. There's also a new Vimeo app for VisionOS, that will allow spatial videos to be shared. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016148/19272" target="_top" id="2016148">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016148" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016148/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 8\. Third-party immersive video workflow
 
@@ -126,6 +112,19 @@ Apple is opening up the format for third-party creators to create immersive vide
 
 Even so, I think this is great. Those immersive videos are fantastic. 
 
+<!-- affiliate ads begin -->
+<span id="1936838">
+					<video width="374" height="48" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1936838.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18409-1936838">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1936838.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:234px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcoinrule.sjv.io%2Fc%2F5597632%2F1936838%2F18409'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1936838/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Other new features
 
 Apple didn't cover all the new features during its announcement. At the end of the Vision Pro segment, the company put up one of its feature grid graphics (shown at the beginning of this article). Here are a few that weren't mentioned: 
@@ -134,6 +133,13 @@ Apple didn't cover all the new features during its announcement. At the end of t
 * **Keyboard breakthrough:** This was another feature I felt it was important for Apple to introduce, and apparently it will be available. No mention was made of it, so we have no idea if it's limited solely to Apple's own keyboards (but that's probably the case).
 * **Bora Bora environment:** I wanted to see more environments and we get…one. Personally, I think all the work on spatial photos and spatial videos could have been replaced with the ability for third parties to create 3D environments, but Apple didn't go there. But hey, Bora Bora, right?
 * **Rearrangeable Home View:** This was also not described but I'm guessing this means you can move around the Home icons.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137223/26400" target="_top" id="2137223">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137223/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  What do you think?
 
@@ -179,21 +185,16 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-expert-tips-for-snapchats-magic-invisible-hands-make-the-picture-pop/"><u>[New] 2024 Approved Expert Tips for Snapchat's Magic Invisible Hands Make the Picture Pop</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/new-2024-approved-honing-hertz-gameplay-tactics-in-free-fire/"><u>[New] 2024 Approved Honing Hertz Gameplay Tactics in Free Fire</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-2024-approved-key-strategies-for-board-utilization-across-devices-in-zoom/"><u>[New] 2024 Approved Key Strategies for Board Utilization Across Devices in Zoom</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-crafting-soft-endings-on-soundscapes-with-audacity/"><u>[Updated] 2024 Approved Crafting Soft Endings on Soundscapes with Audacity</u></a></li>
-<li><a href="https://fox-access.techidaily.com/2024-approved-guide-finding-perfect-music-for-unpack-videos/"><u>2024 Approved Guide Finding Perfect Music For Unpack Videos</u></a></li>
-<li><a href="https://howto.techidaily.com/best-methods-for-nubia-red-magic-8s-proplus-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Best Methods for Nubia Red Magic 8S Pro+ Wont Turn On | Dr.fone</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/bestvalue-convertible-laptop-unpacking-the-asus-chromebook-flip-c302cas-excellent-features/"><u>BestValue #Convertible Laptop: Unpacking the Asus Chromebook Flip C302CA's Excellent Features</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/download-premium-hd-and-4k-videos-in-full-scope-360-for-free-including-mp4-3gp-and-flv-options/"><u>Download Premium HD & 4K Videos in Full Scope (360°) for Free: Including MP4, 3GP & FLV Options</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/galaxy-vs-xperia-choosing-the-best-a-detailed-side-by-side-review/"><u>Galaxy Vs. Xperia : Choosing the Best - A Detailed Side-by-Side Review</u></a></li>
-<li><a href="https://discover-cloud.techidaily.com/how-to-burn-a-dvd-on-macos-without-quality-loss-step-by-step-guide/"><u>How to Burn a DVD on macOS without Quality Loss - Step-by-Step Guide</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/how-to-find-and-install-the-elusive-ios-amidst-non-appearance-issues-for-iphone-users/"><u>How To Find and Install the Elusive iOS Amidst Non-Appearance Issues for iPhone Users</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-full-guide-on-mirroring-your-oppo-k11-5g-to-your-pcmac-drfone-by-drfone-android/"><u>In 2024, Full Guide on Mirroring Your Oppo K11 5G to Your PC/Mac | Dr.fone</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/iphone-melody-integration-how-to-import-songs-without-itunes/"><u>IPhone Melody Integration: How To Import Songs Without iTunes</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/limited-time-deal-convert-your-dvd-collection-with-ease-and-savings/"><u>Limited Time Deal: Convert Your DVD Collection with Ease and Savings!</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/macx-mediatrans/"><u>MacX MediaTrans 使用法と製品マニュアル【権威ある指南書】</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/step-by-step-guide-to-ripping-dvds-to-digital-files-using-macx-software-compatible-with-pc-iphone-and-ipod/"><u>Step-by-Step Guide to Ripping DVDs to Digital Files Using MacX Software Compatible with PC, iPhone & iPod</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-elevating-your-podcast-remote-recording-done-right/"><u>[New] In 2024, Elevating Your Podcast Remote Recording Done Right</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-capture-to-share-proven-methods-for-live-360-video-on-youtube/"><u>[New] In 2024, From Capture to Share Proven Methods for Live 360° Video on Youtube</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-growth-by-numbers-tapping-into-youtube-analytics-power/"><u>[New] In 2024, Growth by Numbers Tapping Into YouTube Analytics Power</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-big-should-a-good-thumbnail-be-youtubes-ultimate-guide/"><u>[New] In 2024, How Big Should a Good Thumbnail Be? YouTube's Ultimate Guide</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-gain-money-on-youtube-understanding-required-number-of-views-for-2024/"><u>[Updated] Gain Money on YouTube Understanding Required Number of Views for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-in-2024-youtubes-celebrated-click-it-achievements/"><u>[Updated] In 2024, YouTube's Celebrated Click-It Achievements</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-streamlining-the-process-dells-way-to-screen-recording/"><u>[Updated] Streamlining the Process Dell's Way to Screen Recording</u></a></li>
+<li><a href="https://howto.techidaily.com/9-quick-fixes-to-unfortunately-touchwiz-has-stopped-of-tecno-pova-5-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Quick Fixes to Unfortunately TouchWiz has stopped Of Tecno Pova 5 Pro | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/artificial-empathy-does-ai-possess-a-heartfelt-understanding/"><u>Artificial Empathy: Does AI Possess a Heartfelt Understanding?</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/sky-high-tech-talk-the-mavic-pro-showcase/"><u>Sky High Tech Talk The Mavic Pro Showcase</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/techkey-bluetooth-adapter-software-downloads-supported-by-windows-10-7-and-8-systems/"><u>Techkey Bluetooth Adapter Software Downloads – Supported by Windows 10, 7, and 8 Systems</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting iPhone's Drained Battery Post-iOS 17.5.1 Update: 7 Essential Fixes for Longer Life | TechSavvy"
-date: 2024-10-21T17:39:17.203Z
-updated: 2024-10-27T17:49:29.557Z
+date: 2024-10-29T22:42:44.483Z
+updated: 2024-11-01T19:23:54.616Z
 tags:
   - apple
 categories:
@@ -31,10 +31,10 @@ If you want to follow along, you'll need to install the iOS 18 public beta on an
 ## How to customize your iPhone's new Control Center with iOS 18
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136623/26400" target="_top" id="2136623">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136623" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144272/7443" target="_top" id="2144272">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144272" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136623/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144272/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 1\. Access Control Center
@@ -51,13 +51,6 @@ Screenshot by Lance Whitney/ZDNET
 
 **Also: [Every iPhone model that can be updated to Apple's iOS 18 (and which ones can't)](https://www.zdnet.com/article/every-iphone-model-that-can-be-updated-to-apples-ios-18-and-which-ones-cant/)**
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137976/21526" target="_top" id="2137976">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137976" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137976/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 3\. Resize a control
 
 After tapping the plus icon, some controls sport a gray curved handle in the lower-right corner. This means you can resize the control's icon. Drag the handle and move it up, down, or diagonally. Release it when the icon is the size you wish.
@@ -65,10 +58,10 @@ After tapping the plus icon, some controls sport a gray curved handle in the low
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037346/7443" target="_top" id="2037346">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037346" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049369/7443" target="_top" id="2049369">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049369" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037346/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049369/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Delete a control
@@ -78,10 +71,10 @@ Next, you can directly delete a control you don't need or want. With the icons i
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134501/19576" target="_top" id="2134501">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134501" border="0" alt="https://techidaily.com" width="640" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049390/7443" target="_top" id="2049390">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049390" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134501/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049390/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Add a control to an existing screen
@@ -91,6 +84,13 @@ You can easily add a control to any screen that has available space. Pick a scre
 Screenshot by Lance Whitney/ZDNET
 
 **Also: [I did not expect this iOS 18 feature announced at WWDC to be my favorite (and it's not AI)](https://www.zdnet.com/article/i-did-not-expect-this-ios-18-feature-announced-at-wwdc-to-be-my-favorite-and-its-not-ai/)**
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918684/19272" target="_top" id="1918684">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918684" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918684/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 6\. Add a control to a new screen
 
@@ -134,22 +134,20 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/024-approved-sky-high-streamer-success-channel-growth-through-monetizing-every-device/"><u>[New] 2024 Approved Sky-High Streamer Success Channel Growth Through Monetizing Every Device</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-capture-the-essence-extracting-youtube-audio-directly/"><u>[Updated] 2024 Approved Capture the Essence Extracting YouTube Audio Directly</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-ios-meets-android-an-in-depth-look-at-facial-tech/"><u>[Updated] 2024 Approved IOS Meets Android An In-Depth Look at Facial Tech</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/macx-dvd-macosdvd-mp4flv/"><u>無料 MacX DVD コンバータ：MacOS専用でDVD保護解除 MP4/FLV変換</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/cutting-edge-microphones-ranking-the-6-best-for-streaming-professionals/"><u>Cutting Edge Microphones Ranking the 6 Best For Streaming Professionals</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/easy-fixes-for-your-apple-devices-endless-bootloop-dilemma/"><u>Easy Fixes for Your Apple Device's Endless Bootloop Dilemma</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/enhancing-iphone-x-security-mending-facial-detection-glitches-for-2024/"><u>Enhancing iPhone X Security Mending Facial Detection Glitches for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/explore-ideal-media-types-for-playback-on-iphone-876-versus-latest-iphones-xsxrxs-maxiphone-11/"><u>Explore Ideal Media Types for Playback on iPhone 8/7/6 Versus Latest iPhones XS/XR/XS Max/iPhone 11</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/handbrakes-new-update-resolves-encoding-issues-errors-43-now-smooth-streaming/"><u>HandBrake's New Update Resolves Encoding Issues (Errors 4/3) – Now Smooth Streaming!</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/in-2024-the-art-of-iphone-landscapes-pro-techniques-you-must-know/"><u>In 2024, The Art of iPhone Landscapes Pro Techniques You Must Know</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/macx-ultimate-video-transformation-suite-convert-rip-and-edit-dvds-to-ios-on-your-mac-computer/"><u>MacX Ultimate Video Transformation Suite: Convert, Rip and Edit DVDs to iOS on Your Mac Computer!</u></a></li>
-<li><a href="https://games-able.techidaily.com/pro-streamers-choice-best-twitch-vod-downloading-options/"><u>Pro-Streamer's Choice: Best Twitch VOD Downloading Options</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/quick-guide-backing-up-your-ipad-on-a-mac-achieve-it-in-just-17-seconds/"><u>Quick Guide: Backing Up Your iPad on a Mac - Achieve It in Just 17 Seconds!</u></a></li>
-<li><a href="https://fox-that.techidaily.com/quick-solutions-how-to-repair-a-malfunctioning-imessage-on-ios-devices-and-computers/"><u>Quick Solutions: How to Repair a Malfunctioning iMessage on iOS Devices and Computers</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/step-by-step-guide-converting-and-syncing-vob-movies-with-itunes-on-your-iphone-ipad-or-ipod-touch/"><u>Step-by-Step Guide: Converting and Syncing VOB Movies with iTunes on Your iPhone, iPad, or iPod Touch</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/top-5-vpn-services-ideal-for-enhanced-privacy-on-youtube/"><u>Top 5 VPN Services Ideal for Enhanced Privacy on YouTube</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/top-rated-fitness-dvd-programs-guaranteed-to-transform-your-body/"><u>Top-Rated Fitness DVD Programs Guaranteed to Transform Your Body</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-flip-to-fun-converting-youtube-videos-to-playful-download-free-gifs-for-2024/"><u>[New] Flip to Fun Converting YouTube Videos to Playful, Download-Free GIFs for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-from-space-to-nature-yts-guide-for-dynamic-green-screen-filmmaking-for-2024/"><u>[New] From Space to Nature YT's Guide for Dynamic Green Screen Filmmaking for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-harness-youtube-movie-maker-for-impactful-videos-for-2024/"><u>[New] Harness YouTube Movie Maker for Impactful Videos for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-in-2024-a-leap-forward-in-mobile-photography-iphone-x-unveiled/"><u>[New] In 2024, A Leap Forward in Mobile Photography IPhone X Unveiled</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-getting-real-broadcast-your-life-on-youtube-using-obs/"><u>[New] In 2024, Getting Real Broadcast Your Life on Youtube Using OBS</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-fast-paced-favorites-leading-background-music-in-yt-shorts/"><u>[Updated] 2024 Approved Fast-Paced Favorites Leading Background Music in YT Shorts</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-create-and-build-a-youtube-channel-today/"><u>[Updated] 2024 Approved How to Create and Build A YouTube Channel Today</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-find-out-the-best-8-youtube-engagement-tools/"><u>[Updated] In 2024, Find Out The Best 8 Youtube Engagement Tools</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-the-insiders-edge-to-editing-your-look-back-story/"><u>[Updated] The Insider's Edge to Editing Your Look Back Story</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/comparing-mp4-recorders-the-latest-edition-for-2024/"><u>Comparing MP4 Recorders - The Latest Edition for 2024</u></a></li>
+<li><a href="https://tools.techidaily.com/elzon/products/"><u>Elzon's Products</u></a></li>
+<li><a href="https://driver-download.techidaily.com/how-to-find-and-upgrade-your-hp-deskjet-2540-printers-drivers-for-optimal-performance/"><u>How to Find and Upgrade Your HP Deskjet 2540 Printer's Drivers for Optimal Performance</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-apple-iphone-14-plus-to-roku-drfone-by-drfone-ios/"><u>How to Mirror Apple iPhone 14 Plus to Roku? | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-sim-card-on-infinix-hot-40i-online-without-jailbreak-by-drfone-android/"><u>In 2024, How to Unlock SIM Card on Infinix Hot 40i online without jailbreak</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-pokemon-go-no-gps-signal-heres-every-possible-solution-on-samsung-galaxy-m14-4g-drfone-by-drfone-virtual-android/"><u>In 2024, Pokemon Go No GPS Signal? Heres Every Possible Solution On Samsung Galaxy M14 4G | Dr.fone</u></a></li>
 </ul></div>
 
