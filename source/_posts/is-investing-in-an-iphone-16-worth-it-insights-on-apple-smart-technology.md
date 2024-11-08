@@ -1,7 +1,7 @@
 ---
 title: Is Investing in an iPhone 16 Worth It? Insights on Apple Smart Technology
-date: 2024-10-31T17:57:51.451Z
-updated: 2024-11-01T22:00:35.389Z
+date: 2024-11-03T02:45:51.805Z
+updated: 2024-11-08T03:37:22.426Z
 tags:
   - apple
 categories:
@@ -34,13 +34,6 @@ Every year, my wife and I eagerly await the release of the new iPhones. Being pa
 
 Despite the buzz around the [iPhone 16's new features](https://www.zdnet.com/article/im-an-android-user-but-these-three-iphone-16-features-would-win-me-over/) and the integration of Apple Intelligence, however, several concerns dampen my enthusiasm for upgrading this year.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135354/19272" target="_top" id="2135354">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135354" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135354/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Apple Intelligence: A significant, yet incomplete, leap forward
 
 Apple Intelligence represents a significant leap in on-device AI capabilities, directly bringing advanced machine learning and natural language processing to our phones. Unlike typical iOS or MacOS feature upgrades, Apple Intelligence loads a downsized version of Apple's Foundation Models, [a home-grown large language model (LLM)](https://www.zdnet.com/article/apple-claims-its-on-device-ai-system-realm-substantially-outperforms-gpt-4/) with approximately 3 billion parameters. While impressive, this is tiny compared to models like [GPT-3.5 and GPT-4](https://www.zdnet.com/article/what-does-gpt-stand-for-understanding-gpt-3-5-gpt-4-and-more/), which boast hundreds of billions of parameters. Even Meta's open source Llama 3, which you can run on a desktop computer, has 8 billion parameters. 
@@ -66,10 +59,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137394/7443" target="_top" id="2137394">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137394" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094483/7443" target="_top" id="2094483">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094483" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094483/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## New hardware leaks: what to expect from the iPhone 16
@@ -88,6 +81,13 @@ Interestingly, despite these hardware upgrades, Apple appears to be keeping pric
 
 Despite these upgrades, the iPhone 16 may still face challenges due to design cycles that didn't fully account for the scope of Apple Intelligence's capabilities. As a result, users may experience suboptimal performance and a less seamless user experience, especially as more AI features roll out in subsequent updates.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082542/7443" target="_top" id="2082542">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082542" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082542/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Why you shouldn't buy the iPhone 16 for Apple Intelligence
 
 Besides memory concerns, AI processing demands a lot of power and additional computing resources. Without significant advancements in battery and power management technology, users might have to charge their phones more often. This can lead to increased battery drain, reduced battery lifespan, and potential performance issues. The extra processing power needed to run on-device LLMs could strain the CPU, causing the device to heat up and affecting its overall performance and reliability.
@@ -97,10 +97,10 @@ Besides memory concerns, AI processing demands a lot of power and additional com
 For these reasons, I see the iPhone 16 (and potentially even the iPhone 17) as a transitional product in Apple's journey toward on-device AI. 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123511/26400" target="_top" id="2123511">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123511" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130529/26400" target="_top" id="2130529">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130529" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123511/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130529/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How Apple Intelligence will likely evolve
@@ -120,10 +120,10 @@ Enterprises may also employ a mobile device management solution to facilitate ac
 Imagine your iPhone using the unused processing power of your Mac or iPad, all equipped with on-device LLMs, to tackle complex AI tasks. This would increase the accessibility of AI features across Apple's product range.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135355/19272" target="_top" id="2135355">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135355" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037355/7443" target="_top" id="2037355">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037355" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135355/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037355/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## I'm still optimistic
@@ -166,16 +166,24 @@ _This article was originally published on June 28, 2024, and updated on August 2
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-best-captures-of-macs-visual-display-under-156-characters/"><u>[New] Best Captures of Mac's Visual Display (Under 156 Characters)</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-from-free-to-paid-subscriber-count-surpasses-500-for-2024/"><u>[New] From Free to Paid Subscriber Count Surpasses 500 for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-zero-to-youtube-creating-a-stellar-new-chanel/"><u>[New] In 2024, From Zero to YouTube Creating a Stellar New Chanel</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/new-video-revenue-generation-on-facebook-tactics-for-financial-growth/"><u>[New] Video Revenue Generation on Facebook Tactics for Financial Growth</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-free-aesthetic-essentials-for-youtube-artistry/"><u>[Updated] 2024 Approved Free Aesthetic Essentials for YouTube Artistry</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-view-youtube-statistics/"><u>[Updated] 2024 Approved How to View YouTube Statistics?</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-guide-to-profiting-from-youtube-shorts-key-requirements-and-potential-income/"><u>[Updated] In 2024, Guide to Profiting From YouTube Shorts Key Requirements & Potential Income</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-ultimate-gear-premium-lenses-for-vloggers/"><u>[Updated] Ultimate Gear Premium Lenses for Vloggers</u></a></li>
-<li><a href="https://location-fake.techidaily.com/5-best-route-generator-apps-you-should-try-on-poco-x5-pro-drfone-by-drfone-virtual-android/"><u>5 Best Route Generator Apps You Should Try On Poco X5 Pro | Dr.fone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/mastering-hardware-choices-through-toms-analyses/"><u>Mastering Hardware Choices Through Tom's Analyses</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unlock-epic-gaming-on-pc-by-solving-login-glitches/"><u>Unlock Epic Gaming on PC by Solving Login Glitches</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-capturing-faces-to-face-on-fb-top-4-tips/"><u>[New] In 2024, Capturing Faces-to-Face on FB Top 4 Tips</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/n-2024-charting-success-with-youtube-income-streams/"><u>[New] In 2024, Charting Success with YouTube Income Streams</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-find-the-perfect-free-video-editor-app-for-iphones-and-ipads/"><u>[New] In 2024, Find the Perfect Free Video Editor App for iPhones & iPads</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-ingredients-to-inspiration-cooking-videos/"><u>[New] In 2024, From Ingredients to Inspiration Cooking Videos</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-get-hd-quality-quickly-enable-av1-in-youtube-settings/"><u>[New] In 2024, Get HD Quality Quickly Enable AV1 in YouTube Settings</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-grasping-youtube-seo-a-guide-to-keyword-discovery/"><u>[New] In 2024, Grasping YouTube SEO A Guide to Keyword Discovery</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-seamlessly-stream-youtube-videos-from-your-idevice/"><u>[New] In 2024, How to Seamlessly Stream YouTube Videos From Your iDevice</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-crafting-clear-and-consistent-slug-lines/"><u>[Updated] 2024 Approved Crafting Clear and Consistent Slug Lines</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-fifa-highlights-and-trends-charting-on-youtube/"><u>[Updated] 2024 Approved FIFA Highlights & Trends Charting on YouTube</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-harmonizing-cityscapes-and-nature-the-role-of-green-spaces/"><u>[Updated] 2024 Approved Harmonizing Cityscapes and Nature The Role of Green Spaces</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-comparing-vsdc-to-best-screen-recording-software-for-2024/"><u>[Updated] Comparing VSDC to Best Screen Recording Software for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-from-watcher-to-writer-how-to-set-up-a-sports-channel-on-macos-for-2024/"><u>[Updated] From Watcher to Writer How to Set Up a Sports Channel on macOS for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-harnessing-viral-power-your-pathway-to-youtube-fame/"><u>[Updated] In 2024, Harnessing Viral Power Your Pathway to YouTube Fame</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/2-ways-to-monitor-realme-narzo-n53-activity-drfone-by-drfone-virtual-android/"><u>2 Ways to Monitor Realme Narzo N53 Activity | Dr.fone</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-navigating-the-process-of-clearing-up-browsers-watched-videos/"><u>2024 Approved Navigating the Process of Clearing Up Browser's Watched Videos</u></a></li>
+<li><a href="https://fake-location.techidaily.com/dose-life360-notify-me-when-someone-checks-my-location-on-tecno-pova-6-pro-5g-drfone-by-drfone-virtual-android/"><u>Dose Life360 Notify Me When Someone Checks My Location On Tecno Pova 6 Pro 5G? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-move-contacts-from-samsung-galaxy-a05s-to-iphone-131415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways to Move Contacts From Samsung Galaxy A05s to iPhone (13/14/15) | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-rate-of-heat-transfer-through-a-wall-is-directly-proportional-to-the-temperature-difference-across-it-and-its-thermal-conductivity/"><u>The Rate of Heat Transfer Through a Wall Is Directly Proportional to the Temperature Difference Across It and Its Thermal Conductivity.</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/top-10-fast-and-easy-strategies-for-new-x-users/"><u>Top 10 Fast & Easy Strategies for New X Users</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Boost Your Productivity with XR Glasses On-the-Go: Discovering the New Trilogy of Upgrades | CNET"
-date: 2024-10-26T16:56:29.397Z
-updated: 2024-11-02T01:31:28.398Z
+date: 2024-11-04T20:00:54.204Z
+updated: 2024-11-07T18:14:50.037Z
 tags:
   - apple
 categories:
@@ -81,10 +81,10 @@ Along with the [Viture Pro XR glasses](https://buy.geni.us/Proxy.ashx?TSID=36825
 Lastly, Viture announced a new limited-edition controller in partnership with 8BitDo. You can connect this new controller, with a classic XBox-style controller layout, via Bluetooth to your gaming device, including the Nintendo Switch. The smokey translucent design looks cool and matches the Viture ecosystem. The 8BitDo controller also serves as a companion to the Viture Neckband, but I have yet to try out the Neckband, so I cannot share my experiences with that accessory.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132161/7443" target="_top" id="2132161">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132161" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://dhgate.sjv.io/c/5597632/2106655/12108" target="_top" id="2106655">
+  <img src="//a.impactradius-go.com/display-ad/12108-2106655" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132161/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106655/12108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -121,20 +121,18 @@ The [Viture Pro XR glasses](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-how-to-effortlessly-eradicate-unwanted-youtube-feedback-for-2024/"><u>[New] How to Effortlessly Eradicate Unwanted YouTube Feedback for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-how-to-quickly-and-easily-share-a-youtube-playlist-for-2024/"><u>[New] How to Quickly And Easily Share A YouTube Playlist for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-free-to-fiscal-determining-view-counts-for-youtube-earnings/"><u>[New] In 2024, From Free to Fiscal Determining View Counts for YouTube Earnings</u></a></li>
-<li><a href="https://article-tips.techidaily.com/new-in-2024-pinnacle-article-hook-maker/"><u>[New] In 2024, Pinnacle Article Hook Maker</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-switch-off-crossplay-for-personalized-apex-legends-experience/"><u>[New] In 2024, Switch Off Crossplay for Personalized Apex Legends Experience</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-arena-aces-unbeatable-10-royale-games/"><u>[Updated] Arena Aces Unbeatable 10 Royale Games</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-filmmaker-tips-youtube-trailers-using-filmora-for-2024/"><u>[Updated] Filmmaker Tips YouTube Trailers Using Filmora for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-gastronomy-goals-attractive-food-network-branding-ideas-for-2024/"><u>[Updated] Gastronomy Goals Attractive Food Network Branding Ideas for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-phone-videos-to-channel-fame-an-easy-path-for-new-entrepreneurs/"><u>[Updated] In 2024, From Phone Videos to Channel Fame An Easy Path for New Entrepreneurs</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-ultimate-picks-for-costless-subtitle-extraction-tools/"><u>[Updated] Ultimate Picks for Costless Subtitle Extraction Tools</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/approved-the-essential-guide-to-advanced-youtube-studio-editing/"><u>2024 Approved The Essential Guide to Advanced YouTube Studio Editing</u></a></li>
-<li><a href="https://article-posts.techidaily.com/assemble-visual-pieces-into-watchable-arrays-for-2024/"><u>Assemble Visual Pieces Into Watchable Arrays for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/cost-effective-high-durability-gaming-accessories/"><u>Cost-Effective, High-Durability Gaming Accessories</u></a></li>
-<li><a href="https://win-blog.techidaily.com/quick-fix-guide-for-the-life-threatening-developer-glitch-in-cod-mw-and-wz/"><u>Quick Fix Guide for the Life-Threatening Developer Glitch in COD: MW & WZ</u></a></li>
-<li><a href="https://location-social.techidaily.com/why-your-whatsapp-location-is-not-updating-and-how-to-fix-on-motorola-moto-g34-5g-drfone-by-drfone-virtual-android/"><u>Why Your WhatsApp Location is Not Updating and How to Fix On Motorola Moto G34 5G | Dr.fone</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-free-editing-powerhouses-top-9-simplified-video-tools/"><u>[New] 2024 Approved Free Editing Powerhouses Top 9 Simplified Video Tools</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-raw-footage-to-youtube-perfection-premiere-pro-techniques/"><u>[New] In 2024, From Raw Footage to YouTube Perfection - Premiere Pro Techniques</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-initiatives-to-enhance-your-podcasts-rss-feeds/"><u>[New] Initiatives to Enhance Your Podcast's RSS Feeds</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-10-best-moba-games-for-android/"><u>[Updated] 10 Best MOBA Games For Android</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-from-hobby-to-career-the-transition-to-youtube-gaming-for-2024/"><u>[Updated] From Hobby to Career The Transition to YouTube Gaming for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-turning-tides-exploring-unique-methods-to-reverse-youtube-videos/"><u>[Updated] Turning Tides Exploring Unique Methods to Reverse YouTube Videos</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-turning-viewers-into-revenue-key-video-figures/"><u>[Updated] Turning Viewers Into Revenue Key Video Figures</u></a></li>
+<li><a href="https://article-files.techidaily.com/20plus-fresh-collages-elevate-your-environment-for-2024/"><u>20+ Fresh Collages Elevate Your Environment for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/effortless-audio-file-change-up-convert-your-m4a-tracks-to-compatible-wma-format-for-free/"><u>Effortless Audio File Change-Up: Convert Your M4A Tracks to Compatible WMA Format for Free!</u></a></li>
+<li><a href="https://win-able.techidaily.com/hitman-3-not-working-fix-the-steam-pc-crash-issues-with-ease/"><u>Hitman 3 Not Working? Fix the Steam PC Crash Issues with Ease</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/oneplus-11r-not-receiving-texts-10-hassle-free-solutions-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>OnePlus 11R Not Receiving Texts? 10 Hassle-Free Solutions Here | Dr.fone</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/step-by-step-guide-to-learning-10-essential-spanish-salutations/"><u>Step-By-Step Guide to Learning 10 Essential Spanish Salutations</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/ultimate-ranking-of-premium-projector-displays-s-market/"><u>Ultimate Ranking of Premium Projector Displays 'S Market</u></a></li>
 </ul></div>
 

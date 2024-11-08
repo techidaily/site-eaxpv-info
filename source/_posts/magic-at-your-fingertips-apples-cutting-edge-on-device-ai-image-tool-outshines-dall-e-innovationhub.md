@@ -1,7 +1,7 @@
 ---
 title: "Magic at Your Fingertips: Apple's Cutting-Edge On-Device AI Image Tool Outshines DALL-E | InnovationHub"
-date: 2024-11-01T05:12:23.825Z
-updated: 2024-11-01T21:47:36.701Z
+date: 2024-11-01T11:04:26.926Z
+updated: 2024-11-07T20:40:08.697Z
 tags:
   - apple
 categories:
@@ -60,13 +60,6 @@ Maria Diaz/ZDNET
 * In the Notes app, users can **record and transcribe audio**, which Apple Intelligence will generate a text summary of. This experience is also available in the Notes phone app.
 * Apple Intelligence is free on iOS 18, iPadOS 18, and MacOS Sequoia, and will be available to try in English only this summer.
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098701/14409" target="_top" id="2098701">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098701" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098701/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Partnership with OpenAI
 
 Jason Hiner/ZDNET
@@ -74,19 +67,6 @@ Jason Hiner/ZDNET
 * Apple also confirmed its partnership with OpenAI by integrating [ChatGPT](https://www.zdnet.com/article/what-is-chatgpt-and-why-does-it-matter-heres-everything-you-need-to-know/) with Siri. With a user's permission, Siri can send a request to ChatGPT for help. For example, if you ask Siri for assistance on a task it deems better for ChatGPT, Siri will suggest you use the chatbot instead and forward your request. ChatGPT's writing capabilities can also be leveraged within certain writing tasks.
 * Users can access ChatGPT via this integration for free, and OpenAI will not log their data. ChatGPT Plus users can connect their subscriptions to access more advanced features, in which case OpenAI's data usage policies apply.
 * The ChatGPT integration will be coming to iOS 18, iPadOS 18, and MacOS Sequoia later this year.
-
-<!-- affiliate ads begin -->
-<span id="1983573">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## iOS 18
 
@@ -107,10 +87,10 @@ Adam Breeden/ZDNET
 * The **Calendar app** can now pull from the Reminders app for a more seamless schedule overview.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151865/7443" target="_top" id="2151865">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151865" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aidotcom.pxf.io/c/5597632/2134501/19576" target="_top" id="2134501">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134501" border="0" alt="https://techidaily.com" width="640" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151865/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134501/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## WatchOS 11
@@ -137,6 +117,13 @@ Adam Breeden/ZDNET
 * Handwriting in Notes also got an upgrade with **Smart** **Script**, which refines users' writing to make it more legible while keeping the authenticity of the user's handwriting style. The feature can also match copied and pasted text to the user's handwriting. Typed text was also enhanced, with five new highlight colors and the ability to toggle sections under headings or subheadings.
 * iPadOS 18 supports **screen-sharing via SharePlay** and the same Control Center customizations, Photos app upgrades, Safari updates, and emoji Tapbacks found in **iOS 18.**
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2052062/7443" target="_top" id="2052062">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052062" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052062/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## MacOS 15 (Sequoia)
 
 Adam Breeden/ZDNET
@@ -147,6 +134,13 @@ Adam Breeden/ZDNET
 * **Video meetings** are also getting an upgrade, with new backgrounds and a preview experience that allows you to see what you are about to share before sharing it. This feature works with popular video conferencing applications such as FaceTime and Zoom.
 * The **AI summarization** tool will live in Safari to help users process content like web pages and articles more efficiently. Safari will also assist users in discovering more helpful information about a page they are browsing when relevant, such as directions.
 * Apple also launched a new **Viewer experience**, which does for video what Reader does for text.
+
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1815678/21290" target="_top" id="1815678">
+  <img src="//a.impactradius-go.com/display-ad/21290-1815678" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815678/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## VisionOS 2
 
@@ -165,6 +159,13 @@ Jason Hiner/ZDNET
 * Users can **cast content** from their iPhone, iPad, or Mac to the Vision Pro using AirPlay.
 * Apple is also making the Vision Pro available in more countries starting June 28\. You can see the full list [here](https://www.apple.com/newsroom/2024/06/apple-vision-pro-arrives-in-new-countries-and-regions-beginning-june-28/).
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/857869/11832" target="_top" id="857869">
+  <img src="//a.impactradius-go.com/display-ad/11832-857869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857869/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## AirPods
 
 Jason Hiner/ZDNET
@@ -172,13 +173,6 @@ Jason Hiner/ZDNET
 * AirPods Pro are getting **Voice Isolation** to enhance call quality in noisier environments.
 * With the new **Siri Interactions**, users can now **nod or shake their head** "yes" or "no" when responding to Siri.
 * Apple is also releasing a **Personalized Spatial Audio API** for game developers to build around the AirPods' audio technology.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144310/7443" target="_top" id="2144310">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144310" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144310/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## tvOS 18
 
@@ -224,22 +218,22 @@ Screenshot by Nina Raemont/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-creator-to-kingmaker-ajays-youtube-revenue-revolution/"><u>[New] 2024 Approved From Creator to Kingmaker Ajay’s YouTube Revenue Revolution</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-embed-youtube-in-your-gslides-presentation/"><u>[New] 2024 Approved How to Embed YouTube in Your GSlides Presentation</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-how-to-start-participating-in-google-webinars/"><u>[New] 2024 Approved How To Start Participating in Google Webinars</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-filmmaking-made-simple-crafting-an-impactful-youtube-subscribe-button-for-2024/"><u>[New] Filmmaking Made Simple Crafting an Impactful YouTube Subscribe Button for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-from-vision-to-execution-the-full-spectrum-of-personal-branding-on-youtube-for-2024/"><u>[New] From Vision to Execution The Full Spectrum of Personal Branding on YouTube for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-vlog-confidently-like-popular-youtubers/"><u>[New] In 2024, How to Vlog Confidently Like Popular YouTubers?</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-free-to-learn-4-youtube-channels-unlocking-the-secrets-of-background-substitution/"><u>[Updated] 2024 Approved Free-to-Learn 4 YouTube Channels Unlocking the Secrets of Background Substitution</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-2024-approved-streamline-social-tweet-to-fb-guide/"><u>[Updated] 2024 Approved Streamline Social Tweet to FB Guide</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-device-capture-to-viral-content-youtubes-upload-guide/"><u>[Updated] In 2024, From Device Capture to Viral Content YouTube's Upload Guide</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-hilarity-unleashed-top-7-amusing-youtube-channel-skits/"><u>[Updated] In 2024, Hilarity Unleashed Top 7 Amusing YouTube Channel Skits</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-resolve-chromes-video-playback-woes-for-2024/"><u>[Updated] Resolve Chrome's Video Playback Woes for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/1-securely-integrating-your-drivers-license-into-the-apple-wallet-a-step-by-step-guide-based-on-location/"><u>1. Securely Integrating Your Driver's License Into the Apple Wallet: A Step-by-Step Guide Based on Location</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/easy-driver-updates-for-razer-blade-17-compatible-guides-across-various-windows-versions/"><u>Easy Driver Updates for Razer Blade 17: Compatible Guides Across Various Windows Versions</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/24-elevate-your-brand-discover-the-riches-in-our-gallery-of-50-free-youtube-banners/"><u>In 2024, Elevate Your Brand - Discover the Riches in Our Gallery of 50 Free YouTube Banners</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-list-of-pokemon-go-joysticks-on-oneplus-ace-2-drfone-by-drfone-virtual-android/"><u>In 2024, List of Pokémon Go Joysticks On OnePlus Ace 2 | Dr.fone</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/the-cinematic-edge-master-the-top-5-camera-skills-for-2024/"><u>The Cinematic Edge Master the Top 5 Camera Skills for 2024</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/ultimate-how-to-manual-for-unlocking-and-rebooting-your-laptop-with-windows-tenth-using-factory-settings/"><u>Ultimate How-To Manual for Unlocking and Rebooting Your Laptop with Windows Tenth Using Factory Settings</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-film-assembly-station/"><u>[New] 2024 Approved Film Assembly Station</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-unfollower-detection-on-instagram/"><u>[New] 2024 Approved Unfollower Detection on Instagram</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-fast-techniques-to-restructure-your-youtube-sequence-for-2024/"><u>[New] Fast Techniques to Restructure Your YouTube Sequence for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-guerrilla-mic-guide-top-chip-selection-on-a-shoestring-for-2024/"><u>[New] Guerrilla Mic Guide Top Chip Selection on a Shoestring for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-how-to-craft-standout-names-for-your-youtube-channel-for-2024/"><u>[New] How to Craft Standout Names for Your YouTube Channel for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-break-it-down-free-techniques-to-go-frame-by-frame-on-youtube/"><u>[Updated] 2024 Approved Break It Down Free Techniques to Go Frame by Frame on YouTube</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-studio-to-screen-uploading-melodies-online/"><u>[Updated] 2024 Approved From Studio to Screen Uploading Melodies Online</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-regular-are-youtube-monetization-payments/"><u>[Updated] 2024 Approved How Regular Are YouTube Monetization Payments?</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-ultimate-guide-to-pcs-and-macs-best-recorders/"><u>[Updated] 2024 Approved Ultimate Guide to PC's and Mac's Best Recorders</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-profit-from-youtube-shorts-key-requirements-and-possible-returns-for-2024/"><u>[Updated] How to Profit From YouTube Shorts Key Requirements & Possible Returns for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-frame-it-right-essential-composition-rules-for-youtube-filmmaking/"><u>[Updated] In 2024, Frame It Right Essential Composition Rules for YouTube Filmmaking</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-textual-transformations-the-photographers-guide-to-image-edits/"><u>2024 Approved Textual Transformations The Photographer's Guide to Image Edits</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-teach-you-to-transfer-files-from-honor-90-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways To Teach You To Transfer Files from Honor 90 to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-the-future-awaits-equipping-yourself-for-metaverse-life-top-7/"><u>In 2024, The Future Awaits Equipping Yourself for Metaverse Life (Top 7)</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/24-unified-media-playback-on-youtube-flv-files-tutorial/"><u>In 2024, Unified Media Playback on YouTube FLV Files Tutorial</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/locating-your-macbooks-serial-and-model-numbers-a-step-by-step-guide/"><u>Locating Your MacBook's Serial and Model Numbers: A Step-by-Step Guide</u></a></li>
+<li><a href="https://driver-install.techidaily.com/powerful-performance-update-win-drivers/"><u>Powerful Performance: Update WIN Drivers</u></a></li>
 </ul></div>
 

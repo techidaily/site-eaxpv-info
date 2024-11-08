@@ -1,7 +1,7 @@
 ---
 title: "Unveiling the Origins: The 2024 CrowdStrike Windows Crisis Explored - Historical Insights"
-date: 2024-10-30T02:34:03.899Z
-updated: 2024-11-01T20:59:13.955Z
+date: 2024-11-01T05:06:10.275Z
+updated: 2024-11-07T20:13:53.932Z
 tags:
   - apple
 categories:
@@ -51,10 +51,10 @@ Repairing the damage from a flaw like this is a painfully tedious process that r
 If you know anyone whose job involves administering Windows PCs in a corporate network that uses the CrowdStrike code, you can be confident they are very busy right now, and will be for days to come.
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098703/14409" target="_top" id="2098703">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098703" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://review-au.sjv.io/c/5597632/2135315/14409" target="_top" id="2135315">
+  <img src="//a.impactradius-go.com/display-ad/14409-2135315" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098703/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135315/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## We've seen this movie before
@@ -94,10 +94,10 @@ In the You Can't Make This Up Department… CrowdStrike's founder and CEO, Georg
 What makes the 2024 sequel so much worse is that it also affected Windows-based servers running in the cloud, on Microsoft Azure and on AWS. Just as with the many laptops and desktop PCs that were bricked by this faulty update, the cloud-based servers require time-consuming manual interventions to recover.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959764/19272" target="_top" id="1959764">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959764" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139114/17108" target="_top" id="2139114">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139114" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959764/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139114/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## CrowdStrike's QA failed
@@ -127,10 +127,10 @@ As part of its initial response, CrowdStrike says it plans to take additional me
 Meanwhile, the United States House of Representatives Homeland Security Committee plans to call CrowdStrike's CEO up for hearings on what went wrong, and CrowdStrike's Chief Security Officer, Shawn Henry, [posted an apology on LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7220983915421806592/), admitting "On Friday, we failed you. ... The confidence we built in drips over the years was lost in buckets within hours, and it was a gut punch."
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484910/16446" target="_top" id="1484910">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484910" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1938745/19272" target="_top" id="1938745">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938745" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484910/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938745/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How much fault should Microsoft shoulder?
@@ -181,20 +181,17 @@ Nonetheless, this incident, which caused many billions of dollars' worth of dama
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-fast-tip-mastering-green-screen-techniques/"><u>[New] 2024 Approved Fast Tip Mastering Green Screen Techniques</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-free-professional-youtuber-backgrounds/"><u>[New] 2024 Approved Free Professional YouTuber Backgrounds</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/new-beyond-binary-boundaries-metaverse-vs-multiverse/"><u>[New] Beyond Binary Boundaries Metaverse V/S Multiverse</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-finding-and-exploring-your-own-music-selection-zone-on-youtube-for-2024/"><u>[New] Finding and Exploring Your Own Music Selection Zone on Youtube for 2024</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/nveiling-the-premier-online-convertors-from-youtube/"><u>[New] Unveiling the Premier Online Convertors From YouTube</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-free-youtube-subtitled-content-download-without-paying/"><u>[Updated] 2024 Approved Free YouTube Subtitled Content Download Without Paying</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-gain-an-edge-in-views-with-these-5-youtube-thumbnail-creators-for-2024/"><u>[Updated] Gain an Edge in Views with These 5 YouTube Thumbnail Creators for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-how-effective-is-sponsored-view-count-boosting-for-2024/"><u>[Updated] How Effective Is Sponsored View Count Boosting for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-finalcut-pro-101-crafting-professional-youtube-edits/"><u>[Updated] In 2024, FinalCut Pro 101 Crafting Professional YouTube Edits</u></a></li>
-<li><a href="https://fox-info.techidaily.com/2024-approved-the-binary-divide-metaverse-vs-multiverse-explained/"><u>2024 Approved The Binary Divide Metaverse Vs Multiverse Explained</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/addressing-mic-malfunctions-a-guide-for-windows-11-users-seeking-solutions/"><u>Addressing Mic Malfunctions: A Guide for Windows 11 Users Seeking Solutions</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/audio-service-outage-resolving-the-problem-for-single-or-grouped-systems-efficiently/"><u>Audio Service Outage - Resolving the Problem for Single or Grouped Systems Efficiently</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-subscription-sensation-top-10-youtube-personalities-by-counts/"><u>In 2024, Subscription Sensation Top 10 YouTube Personalities by Counts</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-what-is-a-sim-network-unlock-pin-get-your-realme-c67-5g-phone-network-ready-by-drfone-android/"><u>In 2024, What Is a SIM Network Unlock PIN? Get Your Realme C67 5G Phone Network-Ready</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/unlock-your-apple-iphone-14-pro-in-minutes-with-iccid-code-everything-you-need-to-know-by-drfone-ios/"><u>Unlock Your Apple iPhone 14 Pro in Minutes with ICCID Code Everything You Need to Know</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-finding-your-voice-on-youtube-a-guide-to-selective-audiences/"><u>[New] 2024 Approved Finding Your Voice on YouTube A Guide to Selective Audiences</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-from-script-to-screen-youtube-video-creation-made-simple-for-2024/"><u>[New] From Script to Screen YouTube Video Creation Made Simple for 2024</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/new-in-2024-25-popular-tiktok-creators-with-anime-flair/"><u>[New] In 2024, 25 Popular TikTok Creators with Anime Flair</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-2024-approved-visionplay-app-feedback-summary/"><u>[Updated] 2024 Approved VisionPlay App Feedback Summary</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-global-viewer-count-triumphs-play-button-honors-for-2024/"><u>[Updated] Global Viewer Count Triumphs Play Button Honors for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-historical-insights-at-your-fingertips-top-10-for-students-for-2024/"><u>[Updated] Historical Insights at Your Fingertips – Top 10 for Students for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-leading-webcams-for-windows-10-enthusiasts/"><u>[Updated] In 2024, Leading Webcams for Windows 10 Enthusiasts</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/1726029674972-mp4m4a3/"><u>初学者にぴったり! MP4ファイルを効果的にM4A形式にアップコンバートする方法のリスト3つ</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/tial-imovie-techniques-to-upgrade-your-youtube-content-for-2024/"><u>Essential iMovie Techniques to Upgrade Your YouTube Content for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/24-inside-the-art-of-youtube-video-earnings/"><u>In 2024, Inside the Art of YouTube Video Earnings</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/is-your-apple-iphone-15-plus-in-security-lockout-proper-ways-to-unlock-by-drfone-ios/"><u>Is Your Apple iPhone 15 Plus in Security Lockout? Proper Ways To Unlock</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/twist-your-imagery-instagrams-video-rotation-guide-for-2024/"><u>Twist Your Imagery Instagram's Video Rotation Guide for 2024</u></a></li>
 </ul></div>
 
