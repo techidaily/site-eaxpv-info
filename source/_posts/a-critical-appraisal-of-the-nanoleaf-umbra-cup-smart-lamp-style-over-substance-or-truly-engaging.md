@@ -1,7 +1,7 @@
 ---
 title: "A Critical Appraisal of the Nanoleaf Umbra Cup Smart Lamp: Style Over Substance or Truly Engaging?"
-date: 2024-08-30T16:46:45.261Z
-updated: 2024-08-31T16:46:45.261Z
+date: 2024-11-16T17:24:03.611Z
+updated: 2024-11-19T16:57:10.971Z
 tags:
   - product-reviews
 categories:
@@ -77,15 +77,16 @@ With its cup-shaped base, this appropriately named lamp is a perfect desk light 
 Expand 
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ##  A Little Umbrella for Your Desk
 
 ![Inside the cup of the Nanoleaf Umbra Cup Smart Lamp](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/07/inside-the-cup-of-the-nanoleaf-umbra-cup-smart-lamp_53646491272_o.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 Jerome Thomas / How-To Geek
 
  From the moment I unboxed the Cup, I knew I was going to have a tough time getting used to it hanging out on my desk. After two full weeks, my feelings didn’t shift much. Plain and simple, part of the issue was the appearance. Standing just over 12.5 inches tall, Nanoleaf and Umbra went for a beach umbrella appearance, an aesthetic that some will like and others won’t. I am in the latter camp, though I did find it convenient to be able to stick a pair of headphones or other items _on top_ of the lamp.
@@ -98,9 +99,6 @@ Jerome Thomas / How-To Geek
 
  The LEDs are housed under the umbrella hood and deliver up to 320 lumens and over 16 million colors. Getting the lamp set up was about as straightforward as it gets. Just plug it in, download the Nanoleaf app (and create an account), add the light, connect to Wi-Fi, and install any available firmware updates.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Lighting Features Galore!
 
 ![The Nanoleaf Umbra Cup Smart Lamp controlled via app](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/07/the-nanoleaf-umbra-cup-smart-lamp-controlled-via-app_53647581103_o.jpg) 
@@ -113,15 +111,22 @@ Jerome Thomas / How-To Geek
 
 ![The home screen of the Nanoleaf app](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/nanoleaf-app-home-screen-1.jpeg) 
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Lighting options for the Nanoleaf Umbra Cup Smart Lamp in the Nanoleaf app](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/nanoleaf-app-cup-controls-1.jpeg) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
-<!-- affiliate ads end -->
 ![Highlight controls in the Nanoleaf app](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/nanoleaf-app-highlight-controls-1.jpeg) 
+
+<!-- affiliate ads begin -->
+<span id="1993652">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Close 
 
@@ -131,13 +136,24 @@ Close
 
  It was convenient to be able to “like” a few of the presets, which logged them in my “Favorites” tab for easy access. You’ll also be able to create your very own scenes by tapping the Plus icon in the Scene or Favorites settings. Oh, and last but not least: I was completely blown away by the Circadian Lighting feature. When set up, the lamp will automatically mirror the color temperature of the sun, based on time zone data or manual settings.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  A Smart Lamp Stumped by Wi-Fi
 
 ![The back of the Nanoleaf Umbra Cup Smart Lamp](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/07/the-back-of-the-nanoleaf-umbra-cup-smart-lamp_53647828375_o.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<a href="https://oneplusfr.sjv.io/c/5597632/1622438/14044" target="_top" id="1622438">
+  <img src="//a.impactradius-go.com/display-ad/14044-1622438" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://oneplusfr.sjv.io/i/5597632/1622438/14044" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 Jerome Thomas / How-To Geek
 
  The Cup works with Matter and Thread systems. The smart lamp can be integrated into smart ecosystems that are powered by Alexa, Google Home, Apple Home, Samsung SmartThings, and IFTTT; but only when the lamp is connected to Matter-Thread peripherals.
@@ -145,6 +161,13 @@ Jerome Thomas / How-To Geek
  I had a difficult time getting my Alexa app to link, only to realize that the Cup will only work with smart assistants that are Matter-enabled. This was a bummer to find out, considering smart lights that cost _way_ less than this desk lamp can connect to regular Wi-Fi and smart ecosystems.
 
  While the Nanoleaf app requires a Wi-Fi connection for firmware updates, the Cup’s app controls are handled by Bluetooth connectivity. This means that you won’t be able to control the Cup remotely, and may have range issues when you’re more than 30 feet away.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Should You Buy the Nanoleaf Umbra Cup Smart Lamp?
 
@@ -168,8 +191,6 @@ With its cup-shaped base, this appropriately named lamp is a perfect desk light 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -177,4 +198,24 @@ With its cup-shaped base, this appropriately named lamp is a perfect desk light 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-conference-call-to-youtube-stream-how-to-broadcast-google-meet/"><u>[New] 2024 Approved From Conference Call to YouTube Stream - How To Broadcast Google Meet</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-from-video-lessons-to-visual-gigs-youtube-videos-converted-seamlessly-for-2024/"><u>[New] From Video Lessons to Visual Gigs YouTube Videos Converted Seamlessly for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-gain-free-photo-footage-via-essential-4-youtube-picks-for-2024/"><u>[New] Gain Free Photo Footage via Essential 4 YouTube Picks for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-how-to-live-stream-on-youtube-gaming-in-2024/"><u>[New] How to Live Stream on YouTube Gaming, In 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-experience-ultimate-quality-leading-4k-converters/"><u>[Updated] 2024 Approved Experience Ultimate Quality Leading 4K Converters</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-flixfortress-over-a-hundred-channels-of-fortitude/"><u>[Updated] 2024 Approved FlixFortress Over a Hundred Channels of Fortitude</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-maximizing-reach-tweeting-on-facebook/"><u>[Updated] 2024 Approved Maximizing Reach Tweeting on Facebook</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-free-tribe-50-branding-banners-ready-to-unleash-for-2024/"><u>[Updated] Free Tribe 50 Branding Banners Ready to Unleash for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-harnessing-technology-the-art-of-capturing-ios-devices-in-media-for-2024/"><u>[Updated] Harnessing Technology The Art of Capturing iOS Devices in Media for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-hidden-gems-to-hit-videos-strategies-for-success/"><u>[Updated] In 2024, From Hidden Gems to Hit Videos Strategies for Success</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-mastering-the-art-of-adding-linktree-to-your-tiktok-info/"><u>[Updated] Mastering the Art of Adding Linktree to Your TikTok Info</u></a></li>
+<li><a href="https://extra-information.techidaily.com/calculated-viewing-time-for-a-standard-20mb-film-for-2024/"><u>Calculated Viewing Time for a Standard 20Mb Film for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/diving-deeper-into-webcam-possibilities-for-2024/"><u>Diving Deeper Into Webcam Possibilities for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/expert-advice-for-fixing-phasmophobia-vr-malfunctions-quickly/"><u>Expert Advice for Fixing Phasmophobia VR Malfunctions Quickly</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/expert-review-how-smooth-is-amazon-lunas-live-game-streaming/"><u>Expert Review: How Smooth Is Amazon Luna's Live Game Streaming?</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/top-5-emulators-for-reviving-ps1-classics-on-pc/"><u>Top 5 Emulators for Reviving PS1 Classics on PC</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unmatched-audio-experience-non-sony-non-jbl-brand-outshines-giants-discover-at-zdnet/"><u>Unmatched Audio Experience: Non-Sony, Non-JBL Brand Outshines Giants - Discover at ZDNet</u></a></li>
+</ul></div>
 

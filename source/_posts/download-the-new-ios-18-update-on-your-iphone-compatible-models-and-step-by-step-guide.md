@@ -1,7 +1,7 @@
 ---
 title: "Download the New iOS 18 Update on Your iPhone: Compatible Models and Step-by-Step Guide"
-date: 2024-10-27T14:52:28.136Z
-updated: 2024-11-02T14:10:23.048Z
+date: 2024-11-16T20:29:08.894Z
+updated: 2024-11-19T21:17:44.004Z
 tags:
   - apple
 categories:
@@ -32,31 +32,31 @@ Jason Hiner/ZDNET
 
 **What you need:** An iPhone running iOS 16.5 or later. Since not all iPhones are compatible with iOS 18, you'll also need a model [newer than the iPhone X](https://www.zdnet.com/article/best-iphone/).
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148774/18498" target="_top" id="2148774">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148774" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148774/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 1\. Go to General in your iPhone Settings
 
 Go to your iPhone's Settings and select General. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012429/19272" target="_top" id="2012429">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012429" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012429/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 2\. Go to Software Update in Settings
 
 Within General, tap on Software Update. This will show you if the iOS 18 update is available for you to download.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123730/7443" target="_top" id="2123730">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123730" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123730/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Download and install
 
 When you tap on Software Update, your iPhone will check for the latest version of iOS available. Then, you'll be able to Download and Install the new update. Your iPhone will begin the download immediately.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997690/19272" target="_top" id="1997690">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997690" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997690/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 4\. Enter your passcode and follow steps to install
 
@@ -64,18 +64,25 @@ Enter your passcode, if necessary, to authorize the installation of the new iOS 
 
 After installing the latest iOS update, your iPhone will restart.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123731/7443" target="_top" id="2123731">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123731" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123731/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## FAQs
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136621/26400" target="_top" id="2136621">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136621" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136621/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### When is Apple Intelligence coming out?
 
 Apple Intelligence, featuring the company's AI tools, will begin to roll out for compatible iPhones over the next few weeks, with more features to join in the coming months. This slew of AI features will be available on the iPhone 16 lineup and the iPhones 15 Pro and Pro Max.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135416/19272" target="_top" id="2135416">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135416" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135416/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### When was iOS 18 released?
 
@@ -117,13 +124,6 @@ If you can't see this option, go to your **Settings,** select **Privacy & Securi
 **Also: [How to use and customize your iPhone's new Control Center with iOS 18](https://www.zdnet.com/article/how-to-use-and-customize-your-iphones-new-control-center-with-ios-18/)**
 
 If you aren't already a member of the Apple Developer Program, you can sign up to become one in the app. An annual membership costs $99.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135365/19272" target="_top" id="2135365">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135365" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135365/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### What is in iOS 18 beta 3?
 
@@ -169,24 +169,22 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-audio-to-action-mp3-to-youtube-conversion-journey/"><u>[New] 2024 Approved From Audio to Action MP3-to-YouTube Conversion Journey</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-vision-to-value-an-all-inclusive-guide-on-analyzing-views-clicks-and-monetization/"><u>[New] 2024 Approved From Vision to Value An All-Inclusive Guide on Analyzing Views, Clicks, & Monetization</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-fullview-pacts-the-art-of-media-company-selection-for-2024/"><u>[New] FullView Pacts The Art of Media Company Selection for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-how-to-assemble-a-personalized-youtube-music-list-for-2024/"><u>[New] How to Assemble a Personalized YouTube Music List for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-financial-gains-the-youtube-money-flow-from-1m-views/"><u>[New] In 2024, Financial Gains The Youtube Money Flow From 1M Views</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-harmonizing-horizons-easy-steps-for-sharing-soundtracks/"><u>[New] In 2024, Harmonizing Horizons Easy Steps for Sharing Soundtracks</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-fb-share-strategies-for-your-youtube-content-for-2024/"><u>[Updated] FB Share Strategies for Your YouTube Content for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-filmora-simplified-guide-to-an-engaging-youtube-anime-subscriber-bar-for-2024/"><u>[Updated] Filmora Simplified Guide to an Engaging YouTube Anime Subscriber Bar for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-6-ways-to-increase-audience-retention-on-youtube-filmora/"><u>[Updated] In 2024, 6 Ways To Increase Audience Retention on YouTube - Filmora</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/approved-crafting-powerful-video-titles-and-sizes/"><u>2024 Approved Crafting Powerful Video Titles & Sizes</u></a></li>
-<li><a href="https://games-able.techidaily.com/broadcasters-ultimate-selection-best-6-games/"><u>Broadcaster's Ultimate Selection: Best 6 Games</u></a></li>
-<li><a href="https://android-frp.techidaily.com/easy-guide-to-oppo-find-x6-frp-bypass-with-best-methods-by-drfone-android/"><u>Easy Guide to Oppo Find X6 FRP Bypass With Best Methods</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/effective-solutions-to-microsofts-wireless-display-not-connecting-issue-on-pcs-with-windows-10/"><u>Effective Solutions to Microsoft's Wireless Display Not Connecting Issue on PCs with Windows 10</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/experience-the-best-download-options-for-fb-lite-videos-2023-ranking-for-2024/"><u>Experience the Best Download Options for FB Lite Videos - 2023 Ranking for 2024</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/-audio-solution-for-iphone-find-the-best-6-free-apps-for-youtube-to-mp3-for-2024/"><u>Ideal Audio Solution for iPhone Find the Best 6 Free Apps for YouTube-to-MP3 for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/maximize-your-iphone-film-shoots-mastering-8-key-skills-for-2024/"><u>Maximize Your iPhone Film Shoots Mastering 8 Key Skills for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/no-more-stutters-with-these-tweaks-for-a-seamless-kodi-viewing-experience/"><u>No More Stutters with These Tweaks for a Seamless Kodi Viewing Experience</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/pre-upgrade-essentials-a-comprehensive-guide/"><u>Pre-Upgrade Essentials A Comprehensive Guide</u></a></li>
-<li><a href="https://win-blog.techidaily.com/ripifica-gratuitamente-i-file-video-mpeg-in-formato-m4a-con-movavi-online-guida-completa/"><u>Ripifica Gratuitamente I File Video MPEG in Formato M4A Con Movavi Online - Guida Completa</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-from-zero-to-hero-your-first-time-streaming-to-youtube-for-2024/"><u>[New] From Zero to Hero Your First Time Streaming to Youtube for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-decoding-the-revised-youtube-earnings-criteria/"><u>[New] In 2024, Decoding the Revised YouTube Earnings Criteria</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-youtube-shorts-decoding-the-income-distribution-model/"><u>[New] In 2024, YouTube Shorts Decoding the Income Distribution Model</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-the-creators-currency-how-to-turn-streams-into-dollars/"><u>[New] The Creator’s Currency How To Turn Streams Into Dollars</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-a-simple-approach-to-youtube-statistics-review/"><u>[Updated] 2024 Approved A Simple Approach to YouTube Statistics Review</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-download-youtube-images-with-ease-online/"><u>[Updated] 2024 Approved Download YouTube Images with Ease Online</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-first-to-last-your-guide-to-youtube-video-looping-101/"><u>[Updated] 2024 Approved From First to Last Your Guide to YouTube Video Looping 101</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-direct-youtube-tunes-to-mp3s-online-and-offline-options/"><u>[Updated] In 2024, Direct YouTube Tunes to MP3s Online & Offline Options</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-reactivate-windows-photo-viewer-with-ease-win-11/"><u>[Updated] In 2024, Reactivate Windows Photo Viewer with Ease (Win 11)</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-ultimate-selection-economical-hd-action-recordings-for-2024/"><u>[Updated] Ultimate Selection Economical HD Action Recordings for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/djis-minis-and-air-2-get-20-free-custom-luts-for-mixing-for-2024/"><u>DJI's Minis & Air 2 Get 20 Free Custom LUTs for Mixing for 2024</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/maximize-your-network-range-with-netgear-nighthawk-x6-expert-review-and-insights/"><u>Maximize Your Network Range with Netgear Nighthawk X6 - Expert Review and Insights</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-the-end-of-3g-essential-guide-to-identifying-and-replacing-impacted-gadgets-zdnets-expert-advice/"><u>Navigating the End of 3G: Essential Guide to Identifying and Replacing Impacted Gadgets | ZDNET's Expert Advice</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/the-art-of-screenshots-iphoneipad-video-recordings-explained-for-2024/"><u>The Art of Screenshots IPhone/iPad Video Recordings Explained for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-depth-effect-issues-on-ios-16-lockscreen-discover-7-solutions/"><u>Troubleshooting Depth Effect Issues on iOS 16 Lockscreen: Discover 7 Solutions</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/unlocking-the-power-of-smart-lock-a-beginners-guide-for-honor-90-pro-users-by-drfone-android/"><u>Unlocking the Power of Smart Lock A Beginners Guide for Honor 90 Pro Users</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/what-to-purchase-post-apples-iphone-13-and-15-pro-retirement-expert-recommendations-tech-insights/"><u>What to Purchase Post-Apple's iPhone 13 and 15 Pro Retirement - Expert Recommendations | Tech Insights</u></a></li>
 </ul></div>
 

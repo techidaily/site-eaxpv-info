@@ -1,7 +1,7 @@
 ---
 title: Is Apple Bringing Back The Infamous AirPower? Spotlight on Fresh Evidence From ZDNet Coverage
-date: 2024-11-04T05:25:51.640Z
-updated: 2024-11-07T22:55:45.086Z
+date: 2024-11-18T19:51:57.961Z
+updated: 2024-11-19T19:28:00.753Z
 tags:
   - apple
 categories:
@@ -43,10 +43,10 @@ You might be offered a higher-than-expected trade-in value for your current phon
 In my experience, carriers go out of their way to make these deals complicated, and you need to look carefully to see if there are any hidden gotchas. Here are seven questions to ask up front to make sure you don't encounter an unpleasant surprise later.
 
 <!-- affiliate ads begin -->
-<a href="https://smilemakers.pxf.io/c/5597632/2123901/26106" target="_top" id="2123901">
-  <img src="//a.impactradius-go.com/display-ad/26106-2123901" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043617/7443" target="_top" id="2043617">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043617" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123901/26106" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043617/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Do I need to add a line to qualify?
@@ -64,15 +64,22 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137411/7443" target="_top" id="2137411">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137411" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014851/22899" target="_top" id="2014851">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014851" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014851/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Does my existing plan qualify?
 
 The most attractive upgrade offers are typically only available if you sign up for one of the carrier's premium plans. If you're currently on a low-cost legacy plan from the same carrier or a competitor, be sure to find out how much your monthly payment for mobile service will increase. The difference might be enough to wipe out any savings from the promo credits.
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528688/16446" target="_top" id="1528688">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528688" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528688/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Will my new phone be locked to this carrier?
 
@@ -80,16 +87,16 @@ The carrier is offering that phone at a discount because they want to lock you i
 
 **Also: [The best iPhone deals of 2024: Free iPhone 15s, free iPads, cheap accessories](https://www.zdnet.com/article/iphone-deals/)**
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How many months does the payment agreement last?
 
 T-Mobile still offers 24-month payment plans, but rivals Verizon and AT&T now apply device credits over 36 months. If you're absolutely certain you'll keep your new phone for the full three years, that might be a good deal, but you'll pay dearly if you need to replace it before the agreement ends.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938693/19272" target="_top" id="1938693">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938693" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938693/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## What happens if I want to pay off the device early?
 
@@ -98,13 +105,6 @@ At any time during the agreement, you can pay the remaining balance and ask for 
 **Also: [T-Mobile tops speed tests among the three major US carriers - here's how](https://www.zdnet.com/home-and-office/networking/t-mobile-tops-speed-tests-among-the-three-major-us-carriers-heres-how/)**
 
 As an inducement for you to switch, some carriers will offer to reimburse you for your device payoff. Check the terms and conditions carefully before you accept that offer. If you decide to move to a new carrier, don't cancel your line at the old carrier until you've successfully ported your number over; if you do that move in the wrong order you risk losing your current phone number. 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135364/19272" target="_top" id="2135364">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135364" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135364/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Can I get a better deal on the phone somewhere else?
 
@@ -148,22 +148,19 @@ The exception to that rule is usually when a new smartphone model comes out; dur
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-finding-the-highlighted-online-discourse-for-2024/"><u>[New] Finding the Highlighted Online Discourse for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-from-capturing-moments-to-sharing-them-editing-with-adobe-premiere-for-2024/"><u>[New] From Capturing Moments to Sharing Them Editing with Adobe Premiere for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-guide-to-structuring-youtube-content-with-separate-chapters-for-2024/"><u>[New] Guide to Structuring YouTube Content with Separate Chapters for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-female-gamers-faction-yts-10-stars/"><u>[New] In 2024, Female Gamers Faction YT's #10 Stars</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-grandview-media-mastering-the-art-of-selecting-a-cms/"><u>[New] In 2024, Grandview Media Mastering the Art of Selecting a CMS</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-advanced-strategies-for-quiet-capturing/"><u>[Updated] Advanced Strategies for Quiet Capturing</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-fast-track-the-worlds-top-8-burgeoning-video-hubs-on-youtube-for-2024/"><u>[Updated] Fast-Track The World's Top 8 Burgeoning Video Hubs on YouTube for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-make-the-most-of-your-youtube-watches-gif-magic-for-devices-for-2024/"><u>[Updated] How to Make the Most of Your YouTube Watches GIF Magic for Devices for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-free-youtube-sound-ripper-collection-top-17-extractors-revealed/"><u>[Updated] In 2024, Free YouTube Sound Ripper Collection Top 17 Extractors Revealed</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-managing-who-accesses-your-youtube-videography/"><u>2024 Approved Managing Who Accesses Your YouTube Videography</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/best-breaks-and-takes-from-snowspeedcross-games-for-2024/"><u>Best Breaks & Takes From Snowspeedcross Games for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-top-offline-transcription-programs-for-speech/"><u>In 2024, Top Offline Transcription Programs for Speech</u></a></li>
-<li><a href="https://win-bytes.techidaily.com/losung-fur-iphone-probleme-beim-startbildschirm-des-apple-logos/"><u>Lösung Für iPhone-Probleme Beim Startbildschirm Des Apple Logos</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/maximize-your-video-workflow-with-the-best-8-apps-for-mac-and-phone-for-2024/"><u>Maximize Your Video Workflow with the Best #8 Apps for Mac & Phone for 2024</u></a></li>
-<li><a href="https://discover-amazing.techidaily.com/overcoming-low-disk-space-errors-when-performing-windows-server-backups/"><u>Overcoming Low Disk Space Errors When Performing Windows Server Backups</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/unleashing-ai-potential-the-finest-20-chatgpt-prompts-curated-via-github-platforms/"><u>Unleashing AI Potential: The Finest 20 ChatGPT Prompts Curated via Github Platforms</u></a></li>
-<li><a href="https://fox-http.techidaily.com/videography-and-storage-assessing-a-high-capacity-memorys-video-limits-for-2024/"><u>Videography & Storage Assessing a High-Capacity Memory's Video Limits for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-get-rid-of-youtube-distractions-ad-blocking-on-chrome-firefox-and-ios/"><u>[New] 2024 Approved Get Rid of YouTube Distractions Ad-Blocking on Chrome, Firefox & iOS</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-halt-youtube-suggested-content-now/"><u>[New] 2024 Approved Halt YouTube Suggested Content Now</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-harmonious-histories-exploring-musical-legends-with-these-15-video-documentaries/"><u>[New] 2024 Approved Harmonious Histories Exploring Musical Legends with These 15 Video Documentaries</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-buy-youtube-views-everything-you-need-to-know/"><u>[New] 2024 Approved How to Buy YouTube Views - Everything You Need To Know</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-hashtag-heroes-the-ultimate-list-for-popularizing-your-youtube-snippets/"><u>[New] In 2024, Hashtag Heroes The Ultimate List for Popularizing Your YouTube Snippets</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-instant-adjustment-match-youtube-to-mac-aspects/"><u>[New] Instant Adjustment Match YouTube to Mac Aspects</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-archive-artistry-seamlessly-fuse-infinite-no-charge-cloud-and-premium-subscriptions/"><u>[Updated] Archive Artistry Seamlessly Fuse Infinite, No-Charge Cloud & Premium Subscriptions</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-free-youtube-thumbnails-saving-guide/"><u>[Updated] In 2024, Free YouTube Thumbnails Saving Guide</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/approved-essential-tools-for-efficient-mp4-segmentation-on-mac/"><u>2024 Approved Essential Tools for Efficient MP4 Segmentation on Mac</u></a></li>
+<li><a href="https://extra-information.techidaily.com/affordable-high-definition-cams-for-adventure-enthusiasts-for-2024/"><u>Affordable High Definition Cams for Adventure Enthusiasts for 2024</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-do-i-sign-a-fodt-file-document-electronically-by-ldigisigner-sign-a-word-sign-a-word/"><u>How do i sign a .fodt file document electronically</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-overview-of-the-best-realme-12-proplus-5g-screen-mirroring-app-drfone-by-drfone-android/"><u>In 2024, Overview of the Best Realme 12 Pro+ 5G Screen Mirroring App | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/introducing-the-cutting-edge-features-of-the-newest-ipad/"><u>Introducing the Cutting-Edge Features of the Newest iPad</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/stream-anything-to-chromecast-the-ultimate-video-format-guide-for-2024/"><u>Stream Anything to Chromecast The Ultimate Video Format Guide for 2024</u></a></li>
 </ul></div>
 

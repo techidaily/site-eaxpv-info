@@ -1,7 +1,7 @@
 ---
 title: "Rivian R1S Assessment: Comparing the Benefits of Electric SUVs Vs. Trucks"
-date: 2024-08-30T16:46:36.825Z
-updated: 2024-08-31T16:46:36.825Z
+date: 2024-11-18T22:13:33.496Z
+updated: 2024-11-19T23:17:45.886Z
 tags:
   - product-reviews
 categories:
@@ -23,6 +23,19 @@ thumbnail: https://thmb.techidaily.com/4ad77a8ea715329fd3e5a5b2d2c2957ac59e62959
 * [R1S Price and Availability](https://youtube-stream.techidaily.com/in-2024-the-artful-swap-from-cold-scenes-to-cozy-vlogs/)
 * [Should You Buy the Rivian R1S or R1T?](https://screen-video-capture.techidaily.com/updated-in-2024-achieving-auditory-perfection-zooming-up-your-sound-quality/)
 
+<!-- affiliate ads begin -->
+<span id="1977032">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977032.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977032">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977032.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977032%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977032/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * The Rivian R1S is a versatile all-electric SUV that is ready for any adventure, with features like quad-motor AWD, a range of up to 321 miles, and a towing capacity of up to 7,700lbs.
@@ -32,6 +45,13 @@ thumbnail: https://thmb.techidaily.com/4ad77a8ea715329fd3e5a5b2d2c2957ac59e62959
  Trying to decide between two different electric vehicle brands can be tricky, but picking between Rivian’s similar all-electric SUV and truck is downright tough. While the [R1S (SUV)](https://rivian.com/r1s) and [R1T (truck)](https://rivian.com/r1t) EVs are very similar, they do differ in some potentially meaningful ways. [I’ve driven both](https://extra-tips.techidaily.com/voice-memo-savvy-tips-and-tricks-for-success/) and have some thoughts about trying to decide between the two—as well as how the R1S compares to other EV options.
 
 ![R1S](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/r1s-fgr-cropped_nz94tr-removebg-preview.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528681/16446" target="_top" id="1528681">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528681" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528681/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/htg-rec-3x.png) 
 
@@ -86,6 +106,13 @@ Expand
 
 [See at Rivian](https://rivian.com/reserve/r1s) 
 
+<!-- affiliate ads begin -->
+<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1584040/17916" target="_top" id="1584040">
+  <img src="//a.impactradius-go.com/display-ad/17916-1584040" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1584040/17916" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  R1S Price and Availability
 
  The Rivian R1S starts at $78,000 and includes a 260-mile range, being able to seat seven passengers. The quad-motor AWD trim I tested had a top range of 303 miles because it added a large battery pack, which was slightly offset by its 22-inch sport wheels. The review unit had a retail price of $95,500.
@@ -114,6 +141,13 @@ Tyler Hayes / How-To Geek
 
 ![Looking into the back of the Rivian R1S with all the seats down](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/09/5e4dca55-2894-4958-adc7-bdb80cac7f74.JPG) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123730/7443" target="_top" id="2123730">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123730" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123730/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Tyler Hayes / How-To Geek
 
  The driver's cockpit of the R1S is so similar to the R1T that there were a couple of times I forgot I was driving the SUV and thought I was driving the truck. (This applies to the way the vehicle drives, too.) Sitting in the driver’s seat, looking forward, it was nearly impossible to tell which Rivian I was in.
@@ -125,8 +159,12 @@ Tyler Hayes / How-To Geek
 ![Rivian R1S third-row seats have storage and a USB-C charging port in the armrests](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/09/cc261bbe-af7e-4a91-96d2-048dd116d765.JPG) 
 
 <!-- affiliate ads begin -->
-<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
+<a href="https://imp.i357552.net/c/5597632/1061528/11832" target="_top" id="1061528">
+  <img src="//a.impactradius-go.com/display-ad/11832-1061528" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1061528/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 Tyler Hayes / How-To Geek
 
 Storage and USB-C charging port in the armrests for the third-row
@@ -135,9 +173,6 @@ Storage and USB-C charging port in the armrests for the third-row
 
 ![Looking at the third-row seats in the Rivian R1S](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/09/53657a5d-252e-469a-b9f3-401f2ab3a0e1.JPG) 
 
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Tyler Hayes / How-To Geek
 
 Peaking into the third-row seats
@@ -146,25 +181,16 @@ Peaking into the third-row seats
 
 ![Rivian R1S has power and an air compressor in the trunk area](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/09/b67322fe-cfa6-490c-9fac-efe5a1d295e8.JPG) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
-<!-- affiliate ads end -->
 Tyler Hayes / How-To Geek
 
 Power and seat-release buttons are on the top control panel while the air compressor is underneath.
 
  Packed into the trunk area is an air compressor and a 120V power outlet. Each one is protected by a sliding cover which also hides it away. Under the false trunk floorboard, where several extra inches of storage reside, also housed the hose for the compressor. I didn’t have a chance to use the compressor this time around. But when I did in the truck, I found it incredibly helpful to pump up the tires of bikes that I also carried in the bed.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
-<!-- affiliate ads end -->
 ##  Driving: A Quick and Nimble 7-Seater
 
 ![the front of the Rivian R1S parked on the side of the road](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/09/ca957c62-7842-44ab-bae3-0f59fc573a64.JPG) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
-<!-- affiliate ads end -->
 Tyler Hayes / How-To Geek
 
  The Rivian R1S was a joy to drive—plain and simple. It felt physically large, in the way a Kia Telluride or Chevy Tahoe might, but it was extremely nimble and responsive. Its turning radius was always impressive. I also never felt like I couldn’t see things around me. There were plenty of video feeds and safety features to navigate comfortably.
@@ -183,9 +209,6 @@ Tyler Hayes / How-To Geek
 
 ![The large 15.3-inch display in the Rivian R1S](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/09/32a07ad3-f53a-4cb1-a4bf-fc37817d38b7.JPG) 
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
 Tyler Hayes / How-To Geek
 
  Comfort, driving, and exterior design were all great, but the technology in the R1S shouldn't be ignored. The amount of technical features doesn’t quite match what Tesla’s vehicles offer, but Rivian isn’t far behind. There was at least one meaningful feature that surpassed what Tesla offers.
@@ -216,13 +239,24 @@ Rivian
 
  I had to use a keyfob for this review because of an issue gaining access to the Rivian app—available for [iPhone](https://apps.apple.com/us/app/rivian/id1570215232) and [Android](https://www.anrdoezrs.net/links/3607085/type/dlg/sid/UUhtgUeUpU2000533/https://play.google.com/store/apps/details?id=com.rivian.android.consumer&hl=en%5FUS&gl=US). I did use the app as my vehicle key for my previous review, and it worked great. The app allows for most of the interactions you'd want for your car remotely, like setting a charging schedule, setting a charging limit, unlocking it, opening the hood, controlling the climate, and so on. This is a modern vehicle app, similar to Tesla's, unlike the myVW one offered for the ID.4.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134249/18498" target="_top" id="2134249">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134249" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134249/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  R1S Charging: Stuck Between Now and the Future
 
 ![Rivian R1S plugged into a charging cable](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/09/5a610b3a-82e5-4a05-94d1-0a45e3cda10f.JPG) 
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2135410/19272" target="_top" id="2135410">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135410" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135410/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 Tyler Hayes / How-To Geek
 
  The R1S has a Combined Charging Standard (CCS) charging port, but the [company has said it will switch to the North American Charging Standard (NACS)](https://rivian.com/newsroom/article/rivian-accelerates-electrification-through-adoption-of-north-american-charging-standard-and-access-to-teslas-supercharger-network) sometime in 2024\. While I was able to find a DC fast charger near my house, there were only a couple of them, compared to the more than 30 Tesla fast chargers in the same vicinity, which use NASC connectors. It means that this current crop of R1S vehicles is kinda stuck in an awkward phase. If you can [hold off on buying an R1S](https://ai-driven-video-production.techidaily.com/new-2024-approved-free-video-editing-software-with-split-screen-capability-online-and-offline/) until the port is changed, that might be ideal, but if not, an adapter converting the CCS port to NASC chargers will be available to customers at some point.
@@ -233,9 +267,6 @@ Tyler Hayes / How-To Geek
 
 ![The charging screen on the Rivian R1S](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/09/2e2365f9-e5be-4335-8a3a-c8142ba0633b.JPG) 
 
-<!-- affiliate ads begin -->
-<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Tyler Hayes / How-To Geek
 
  What I really liked about the Rivian charging experience as is, however, was how proactive it was about providing all the charging information I wanted to see. For example, it showed how fast the station was charging at, when it would finish, how many miles had been added, and what the total range would be for the different driving modes when finished. This is in direct opposition to [how unhelpful VW's ID.4 was in regard to charging](https://sim-unlock.techidaily.com/in-2024-what-does-enter-puk-code-mean-and-why-did-the-sim-get-puk-blocked-on-vivo-v27-device-by-drfone-android/).
@@ -265,22 +296,20 @@ Tyler Hayes / How-To Geek
 * Outlets: Two 120V outlets \[fewer\]
 
 <!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2105882/7443" target="_top" id="2105882">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105882" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105882/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ##  R1S Price and Availability
 
  The R1S is currently available to order through [Rivian’s website](http://rivian.com). New builds currently have about a four-month wait, while new inventory vehicles are available within one to six weeks.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
-<!-- affiliate ads end -->
 ##  Should You Buy the Rivian R1S or R1T?
 
 ![Rivian R1S from the rear showing the trunk open](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/09/3b8a8a65-f097-409c-a036-8e1dfbd721ea.JPG) 
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Tyler Hayes / How-To Geek
 
  If you’re considering the [Rivian R1S](https://rivian.com/r1s), you’ve probably also considered a Tesla Model X or Y, maybe even one from Lucid or Polestar. In my experience, Tesla still holds the crown for the most technically advanced vehicle with rapid updates and the most entertainment options. There are plenty of reasons not to want a Tesla vehicle, however. If a Tesla isn’t right for you, then my next recommendation would be a Rivian. Frankly, there just aren't enough 7-seat EV options available right now.
@@ -307,8 +336,6 @@ From city streets to far-off trails, explore all types of terrain through all ki
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -316,4 +343,23 @@ From city streets to far-off trails, explore all types of terrain through all ki
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-harness-the-power-of-youtubes-movie-maker-for-professionals/"><u>[New] 2024 Approved Harness the Power of YouTube's Movie Maker for Professionals</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-legally-convert-youtube-videos-to-mp4-format/"><u>[New] 2024 Approved How to Legally Convert YouTube Videos to MP4 Format</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-funding-fantasies-or-fiscal-facts-in-2024/"><u>[New] Funding Fantasies or Fiscal Facts, In 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-growing-engagement-ethically-youtube-success-stories-for-2024/"><u>[New] Growing Engagement Ethically YouTube Success Stories for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-green-screen-ease-crafting-effective-youtube-ctas/"><u>[New] In 2024, Green Screen Ease Crafting Effective YouTube CTAs</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-guidance-for-effortless-addition-of-youtube-playlists-to-your-site/"><u>[Updated] 2024 Approved Guidance for Effortless Addition of YouTube Playlists to Your Site</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-finding-superior-hashtags-for-your-youtube-content-for-2024/"><u>[Updated] Finding Superior Hashtags for Your YouTube Content for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-leading-5-audio-caps-for-streaming-enthusiasts/"><u>[Updated] Leading 5 Audio Caps for Streaming Enthusiasts</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-the-roadmap-for-youtube-streaming-titans-in-gaming-for-2024/"><u>[Updated] The Roadmap for YouTube Streaming Titans in Gaming for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-download-and-audit-voice-recordings/"><u>2024 Approved Download & Audit Voice Recordings</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/advanced-tech-webcams-the-ultimate-guide-to-the-top-5-with-sound-for-2024/"><u>Advanced Tech Webcams - The Ultimate Guide to the Top 5 With Sound for 2024</u></a></li>
+<li><a href="https://change-location.techidaily.com/home-button-not-working-on-realme-gt-neo-5-here-are-real-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Home Button Not Working on Realme GT Neo 5? Here Are Real Fixes | Dr.fone</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/24-easy-and-fast-convert-youtube-music-into-mp3-mac-version/"><u>In 2024, Easy & Fast Convert YouTube Music Into MP3, Mac Version</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-unova-stone-pokemon-go-evolution-list-and-how-catch-them-for-vivo-y02t-drfone-by-drfone-virtual-android/"><u>In 2024, Unova Stone Pokémon Go Evolution List and How Catch Them For Vivo Y02T | Dr.fone</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/schritt-fur-schritt-anleitung-zum-sicheren-wechseln-der-hdd-in-einem-hp-laptop-ohne-datentotschlag/"><u>Schritt-Für-Schritt-Anleitung Zum Sicheren Wechseln Der HDD in Einem HP-Laptop Ohne Datentotschlag</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unveiling-apples-new-spatial-persona-integration-in-the-vision-pro-a-comprehensive-guide/"><u>Unveiling Apple's New Spatial Persona Integration in the Vision Pro - A Comprehensive Guide</u></a></li>
+</ul></div>
 

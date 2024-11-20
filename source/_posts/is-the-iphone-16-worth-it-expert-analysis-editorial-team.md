@@ -1,7 +1,7 @@
 ---
 title: Is the iPhone 16 Worth It? Expert Analysis Editorial Team
-date: 2024-11-03T00:03:48.060Z
-updated: 2024-11-07T21:23:27.390Z
+date: 2024-11-18T16:51:29.518Z
+updated: 2024-11-20T00:23:36.303Z
 tags:
   - apple
 categories:
@@ -35,10 +35,10 @@ Here are the top reasons why we are (or aren't) upgrading to the iPhone 16 in th
 Kerry Wan/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105859/7443" target="_top" id="2105859">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://coinrule.sjv.io/c/5597632/1610918/18409" target="_top" id="1610918">
+  <img src="//a.impactradius-go.com/display-ad/18409-1610918" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105859/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1610918/18409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 1\. The camera
@@ -65,19 +65,6 @@ And if you're looking to change carriers, like managing editor Alison DeNisco Ra
 
 Verizon and T-Mobile have [similar offers](https://www.zdnet.com/article/how-to-preorder-the-new-iphone-16-and-get-one-free/) right now, and they're pretty sweet. At T-Mobile, new and existing customers can get a free iPhone 16 Pro with a trade-in on the Go5G Next plan, or up to $1,000 off on any iPhone 16 model. 
 
-<!-- affiliate ads begin -->
-<span id="1982499">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982499.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982499">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982499.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982499%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982499/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 3\. For work
 
 Okay, this one comes as no surprise. There was bound to be some of us upgrading because well, we do work in tech after all, and what better way to cover Apple's iPhones than actually owning the new model yourself? So while this may not be an applicable reason for some, for those in tech it is sometimes justifiable. 
@@ -101,10 +88,10 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 ZDNET's Jason Perlow is bumping up for similar reasons. "I am upgrading from my 15 Pro Max to a 16 Pro Max because I am on the iPhone Upgrade Program, and as I cover developments with Apple, it is a business expense and \[ultimately\] it's trading one loan payment for another. No other reason, although the camera improvements seem nice. I debated skipping, but there wasn't much of a downside," he says. 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130532/26400" target="_top" id="2130532">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137975/21526" target="_top" id="2137975">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137975" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130532/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137975/21526" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Here's why ZDNET editors won't be upgrading to the iPhone 16
@@ -112,10 +99,16 @@ ZDNET's Jason Perlow is bumping up for similar reasons. "I am upgrading from my 
 Jason Hiner/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
-  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983545">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983545.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983545">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983545.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983545%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983545/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 1\. The Apple Intelligence features aren't perfect
@@ -135,6 +128,13 @@ As reviews editor Kyle Kucharski says, it's never a good idea to blindly update 
 **Also: [The 7 best iOS 18 features that will make updating your iPhone worthwhile](https://www.zdnet.com/article/the-7-best-ios-18-features-that-will-make-updating-your-iphone-worthwhile/)**
 
 Staff writer Maria Diaz thinks the same. "I have the iPhone 14 Pro Max and am still happy with it. It performs just as well as when I got it. I wish the camera were better (but the BlackMagic app helps a lot with this) and I would like the convenience of a USB-C port, but it's still working well enough that I don't feel compelled at all to get an iPhone 16\. I'm holding out for next year, at least," Diaz says. Kucharski is on the same page. "I still have the 12, and the bottom line: it still works fine," he says. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118322/7443" target="_top" id="2118322">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118322" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118322/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 3\. Expense and hassle
 
@@ -182,21 +182,17 @@ The [iPhone 16 Pro](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&pa
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-script-to-screen-youtube-video-creation-made-simple/"><u>[New] 2024 Approved From Script to Screen YouTube Video Creation Made Simple</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-from-hobby-to-career-the-transition-to-youtube-gaming-for-2024/"><u>[New] From Hobby to Career The Transition to YouTube Gaming for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/new-high-quality-speech-to-text-solutions/"><u>[New] High-Quality Speech-to-Text Solutions</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-game-up-your-content-with-these-effective-freefire-video-hashtags/"><u>[New] In 2024, Game Up Your Content with These Effective FreeFire Video Hashtags</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/new-superior-style-for-text-mobility/"><u>[New] Superior Style for Text Mobility</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-unknown-to-famous-boosting-video-views-on-youtube-step-by-step/"><u>[Updated] 2024 Approved From Unknown to Famous Boosting Video Views on YouTube Step-by-Step</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-does-purchasing-likes-impact-long-term-success/"><u>[Updated] 2024 Approved How Does Purchasing Likes Impact Long-Term Success?</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-share-your-4k-videos-with-the-world-via-youtube/"><u>[Updated] 2024 Approved How to Share Your 4K Videos with the World via YouTube</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-upload-videos-to-youtube-a-step-by-step-guide/"><u>[Updated] 2024 Approved How To Upload Videos to YouTube [a Step-by-Step Guide]</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/updated-2024-approved-setting-up-your-tiktok-broadcast-on-a-desktop/"><u>[Updated] 2024 Approved Setting Up Your TikTok Broadcast on a Desktop</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/15-best-strongest-pokemon-to-use-in-pokemon-go-pvp-leagues-for-honor-v-purse-drfone-by-drfone-virtual-android/"><u>15 Best Strongest Pokémon To Use in Pokémon GO PvP Leagues For Honor V Purse | Dr.fone</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/8-trending-videos-on-facebook/"><u>8 Trending Videos on Facebook</u></a></li>
-<li><a href="https://blog-min.techidaily.com/comprehensive-mp4-vs-h264-format-guide-understanding-the-key-distinctions/"><u>Comprehensive MP4 vs H.264 Format Guide: Understanding the Key Distinctions</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/effective-solutions-to-accelerate-windows-7-boot-times/"><u>Effective Solutions to Accelerate Windows 7 Boot Times</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-twitch-time-rewind-hacks-unveiled/"><u>In 2024, Twitch Time Rewind Hacks Unveiled</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/journey-through-win11-settings-mouse-mastery-essentials/"><u>Journey Through Win11 Settings: Mouse Mastery Essentials</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-disableremove-youtube-shorts-permanently/"><u>[New] 2024 Approved How to Disable/Remove YouTube Shorts Permanently?</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-2024-approved-integrating-zoom-and-fb-live-effortlessly/"><u>[New] 2024 Approved Integrating ZOOM and FB Live Effortlessly</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-best-free-pc-video-capture-software-roundup/"><u>[New] Best Free PC Video Capture Software Roundup</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-hire-harmony-a-collection-of-inspirational-clips/"><u>[New] In 2024, Hire Harmony A Collection of Inspirational Clips</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-in-2024-mobile-mastery-using-phone-as-a-camera-for-recording/"><u>[New] In 2024, Mobile Mastery Using Phone as a Camera for Recording</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-vlogs-to-virality-jake-paul-the-online-phenomenon/"><u>[Updated] 2024 Approved From Vlogs to Virality Jake Paul, the Online Phenomenon</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-unlock-your-full-potential-with-zd-softwares-advanced-screenshot-techniques/"><u>[Updated] 2024 Approved Unlock Your Full Potential with ZD Software's Advanced Screenshot Techniques</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-historical-insights-from-youtubes-top-10-vlogs-for-2024/"><u>[Updated] Historical Insights From YouTube's Top 10 Vlogs for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/exploring-the-legacy-of-netflixs-discontinued-mail-based-dvd-plan/"><u>Exploring the Legacy of Netflix's Discontinued Mail-Based DVD Plan</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-apple-iphone-12-pro-passcode-screen-by-drfone-ios/"><u>How to Unlock Apple iPhone 12 Pro Passcode Screen?</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/icicle-illusions-winter-games-showcase/"><u>Icicle Illusions Winter Games Showcase</u></a></li>
+<li><a href="https://win-dash.techidaily.com/optimize-visual-performance-intel-hd-graphics-610-driver-compatible-with-windows-11/"><u>Optimize Visual Performance: Intel® HD Graphics 610 Driver Compatible with Windows 11</u></a></li>
 </ul></div>
 

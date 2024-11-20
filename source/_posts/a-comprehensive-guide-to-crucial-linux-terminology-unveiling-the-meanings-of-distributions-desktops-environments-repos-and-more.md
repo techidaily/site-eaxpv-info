@@ -1,7 +1,7 @@
 ---
 title: "A Comprehensive Guide to Crucial Linux Terminology: Unveiling the Meanings of Distributions, Desktops Environments, Repos, and More"
-date: 2024-08-30T16:48:36.449Z
-updated: 2024-08-31T16:48:36.449Z
+date: 2024-11-13T19:07:04.239Z
+updated: 2024-11-19T18:51:43.148Z
 tags:
   - desktop
 categories:
@@ -35,9 +35,23 @@ Are you new to Linux and feeling overwhelmed by all the jargon in the software s
 
 ![The Garuda Linux Desktop.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/garuda-linux-desktop.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123748/7443" target="_top" id="2123748">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123748" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123748/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Close 
 
 [New to Linux? Ubuntu Isn't Your Only Option](https://facebook-record-videos.techidaily.com/updated-in-2024-elite-gamers-capturing-solutions/) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118306/7443" target="_top" id="2118306">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118306" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118306/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Desktop Environments (DE)
 
@@ -48,13 +62,27 @@ Close
 ![Ubuntu 23.10 overview feature and virtual desktop switcher-2](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/ubuntu-23-10-overview-feature-and-virtual-desktop-switcher-2.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1993651">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993651.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993651">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993651.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993651%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993651/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![Garuda Linux Mac-inspired workflow with Appmenu in panel, left-side windows button, and a dock for launching apps.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/garuda-linux-mac-inspired-workflow-with-appmenu-in-panel-left-side-windows-button-and-a-dock-for-launching-apps.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
+<a href="https://aidotcom.pxf.io/c/5597632/2129041/19576" target="_top" id="2129041">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129041" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129041/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 Close 
 
  Also, a desktop environment will come with a set of integrated apps and utilities so that the apps and overall system follow the same design philosophy and look visually consistent. For example, the GNOME desktop environment ships with GTK apps, while KDE Plasma has Qt apps. As such, if you run GTK (or GNOME) apps on a KDE system, it may feel out of place with the rest of the desktop.
@@ -62,11 +90,12 @@ Close
 ![Running GTK calculator app on a Qt system - Garuda Linux running KDE Plasma](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/running-gtk-calculator-app-on-a-qt-system-garuda-linux-running-kde-plasma.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2105867/7443" target="_top" id="2105867">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105867" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105867/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
+
 ##  4\. Terminal and Console
 
  In modern Linux computing, a **terminal** or “terminal emulator” refers to the GUI window that creates a [command-line interface (CLI)](https://en.wikipedia.org/wiki/Command-line%5Finterface)for you to enter commands and view the system-generated outputs. For instance, here’s the GNOME terminal that’s accessible on distros running on GNOME:
@@ -89,19 +118,8 @@ Close
 
 ![Linux terminal displaying the addition of LibreOffice PPA to Ubuntu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/1-11.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
-<!-- affiliate ads end -->
  Only use PPAs from trusted sources (check reviews and ratings) to avoid installing malware on your system.
 
-<!-- affiliate ads begin -->
-<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
-<span class="text-ad-content">
-	#1 Rated Parental Control Software.<br/>
-	Monitor & Control all PC Activity!<br/>
-		<cite style="color:green">sentrypc.com/parental-controls/</cite>
-	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  6\. Package Managers
 
 **Package managers** are tools that connect you to a software repository so you can easily download, install, update, remove, and manage packages along with their dependencies. Just like packaging formats, there are distro-specific package managers. For example, there’s APT for managing DEB packages on Debian-based systems and DNF for managing RPM packages for Red Hat-based systems.
@@ -110,11 +128,15 @@ Close
 
 ![Installing Discord from Flathub the flatpak store](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/installing-discord-from-flathub-the-flatpak-store.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2052062/7443" target="_top" id="2052062">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052062" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052062/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Installing Discord from the Snap Store](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/installing-discord-from-the-snap-store.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Close 
 
 **Universal package managers** distribute software that includes everything necessary to run it, making it easier to install and compatible with different distros. Moreover, they require minimal interaction with your system files, making them theoretically more secure. However, by bundling “all” necessary files, universal packages are more extensive and take up more space.
@@ -130,8 +152,12 @@ Close
 ![Manjaro Linux Desktop.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/manjaro-linux-desktop.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<a href="https://25home.pxf.io/c/5597632/2148639/16836" target="_top" id="2148639">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148639" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148639/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![The Garuda Linux Desktop.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/garuda-linux-desktop.png) 
 
 Close 
@@ -140,10 +166,6 @@ Close
 
 ![Ubuntu 23.10 Default desktop](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/ubuntu-23-10-default-desktop.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ![Pop!_OS Linux Desktop view.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/pop-_os-linux-desktop-view.png) 
 
 ![Linux Mint Desktop Overview.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/linux-mint-desktop-overview.png) 
@@ -162,8 +184,6 @@ Close
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -171,4 +191,20 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-stream-to-screen-how-to-download-youtube-on-iphoneipad/"><u>[New] 2024 Approved From Stream to Screen How to Download Youtube on iPhone/iPad</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-cost-effective-obs-tuning-steps-for-2024/"><u>[New] Cost-Effective OBS Tuning Steps for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-fast-track-channel-growth-to-partner-status-aim-for-10000-views/"><u>[New] In 2024, Fast-Track Channel Growth to Partner Status – Aim for 10,000 Views</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-grasp-the-art-of-steadiness-in-photography/"><u>[New] In 2024, Grasp the Art of Steadiness in Photography</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-turn-video-soundtracks-into-audible-files/"><u>[New] In 2024, How to Turn Video Soundtracks Into Audible Files</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-harmonizing-workplay-by-incorporating-podcast-listening/"><u>[Updated] 2024 Approved Harmonizing Work/Play by Incorporating Podcast Listening</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-flixfusion-the-ultimate-gaming-channel-mix-for-2024/"><u>[Updated] FlixFusion The Ultimate Gaming Channel Mix for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-trail-of-imagery-the-complete-user-manual-for-inverted-scans-in-instagram/"><u>[Updated] Trail of Imagery The Complete User Manual for Inverted Scans in Instagram</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-ae-presets-unleashed-10-essential-design-principles/"><u>2024 Approved AE Presets Unleashed 10 Essential Design Principles</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/excel-integration-tactics-a-beginners-manual-for-concatenating-column-values/"><u>Excel Integration Tactics: A Beginner's Manual for Concatenating Column Values</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-use-special-features-virtual-location-on-nokia-c22-drfone-by-drfone-virtual-android/"><u>In 2024, How To Use Special Features - Virtual Location On Nokia C22? | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-comprehensive-guide-to-digital-subtitle-enhancing-platforms-for-2024/"><u>The Comprehensive Guide to Digital Subtitle Enhancing Platforms for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/with-filmora-x-you-can-create-such-transparent-background-reaction-videos-without-such-expensive-material/"><u>With Filmora X, You Can Create Such Transparent Background Reaction Videos without Such Expensive Material</u></a></li>
+</ul></div>
 

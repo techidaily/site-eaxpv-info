@@ -1,7 +1,7 @@
 ---
 title: "In-Depth Evaluation of Anker SoundCore Boom 2: Portable Yet Robust Audio Experience & Rich Low Frequencies"
-date: 2024-08-30T16:47:13.022Z
-updated: 2024-08-31T16:47:13.022Z
+date: 2024-11-12T22:08:44.042Z
+updated: 2024-11-19T22:29:34.882Z
 tags:
   - product-reviews
 categories:
@@ -107,6 +107,13 @@ Expand
 
 ![Angled view of the Soundcore Boom 2.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/02/angled-view-of-the-soundcore-boom-2-2jpg_53500380681_o.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135410/19272" target="_top" id="2135410">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135410" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135410/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Sergio Rodriguez / How-To Geek
 
  At first glance, you might second-guess this is a Bluetooth speaker since its body style is lovingly chunky, like the famous scene from "Say Anything." But another look at its more modern construction reminds you that this is simply a Bluetooth homage to the evolution of audio.
@@ -120,27 +127,32 @@ Sergio Rodriguez / How-To Geek
 Close 
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2144287/7443" target="_top" id="2144287">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144287" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144287/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ##  Take It Anywhere—Even in the Water
 
 ![The Soundcore Boom 2 with water droplets on it.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/02/soundcore-boom-2-water-droplets.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
-<!-- affiliate ads end -->
 Cianna Garrison / How-To Geek
 
  At under four pounds, the Soundcore Boom 2 is a highly portable option that's fairly easy to carry. That said, the handle does feel a bit clunky and thick, so hefting it can feel awkward. Its body is just over four inches thick, so I also wedged it under my arm while transporting it. Overall, I forgave the awkward thickness of the handle. I took it with me to several places, including the park and a friend's house, and every time I was thrilled that I did.
 
  One outstanding feature is the IPX7 waterproof rating with float capability. Not only did I enjoy listening to music in the shower without worrying about water droplets damaging the speaker (which rested on the edge of the tub), but I also was able to float it in a pool. Water droplets left visible marks on the speaker's matte plastic body—which is a nit-picky pet peeve and easily remedied if you wipe off the Boom 2 after it's exposed to water. People who hate fingerprint marks will love that the Boom 2's lovely matte texture hid any fingerprints from sight, even after I touched the buttons, handle, and body endlessly.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ##  The Sound Quality, the Soundcore App, and the Stand-Out Bass Booster
 
 ![Lighting on the side of the Soundcore Boom 2.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/02/lighting-on-the-side-of-the-soundcore-boom-2-1jpg_53500681744_o.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484939/16446" target="_top" id="1484939">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484939" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484939/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Sergio Rodriguez / How-To Geek
 
@@ -159,17 +171,16 @@ Close
  Using the [Sound Meter and Noise Detector app](https://www.anrdoezrs.net/links/3607085/type/dlg/sid/UUhtgUeUpU2002180/https://play.google.com/store/apps/details?id=coocent.app.tools.soundmeter.noisedetector), the [Sound Meter app](https://www.anrdoezrs.net/links/3607085/type/dlg/sid/UUhtgUeUpU2002180/https://play.google.com/store/apps/details?id=com.splendapps.decibel), and a [free online sound meter](https://webbrowsertools.com/sound-meter/) in my web browser, I noticed a max dB of 104, 92, and 80, respectively, testing three different rock songs. While I assume these measurement tools aren't as accurate as using a professional dB meter, it gives an idea of how loud you can expect the Boom 2 to reach at full volume. A measurement of 80dB is considered to be quite loud—and [85dB is when you get into hearing loss territory](https://techidaily.com/complete-tutorial-for-motorola-moto-g24-hard-reset-drfone-by-drfone-reset-android-reset-android/). For more reference, the [average rock concert](https://www.reference.com/science/many-decibels-rock-concert-1b1e7439ec0d2158) is about 120dB.
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
+<a href="https://wigfever.sjv.io/c/5597632/2014849/22899" target="_top" id="2014849">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014849" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014849/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ##  Notes On Battery Life
 
  Soundcore quotes the battery life on the Boom 2 as up to 20 hours in the Boom 2 quick start guide. I found this to be wholly accurate and was pleased to find that a full charge got me through about three full work shifts before I needed to recharge it. If you don't listen as often, the Boom 2's battery should last about a week. Charging time takes about five hours, so it's best to charge it overnight when possible.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ##  Should You Buy The Soundcore Boom 2?
 
  If you're looking for a mid-sized portable Bluetooth speaker that's compact but still makes music sound great, the [Soundcore Boom 2](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fus.soundcore.com%2Fpages%2Fboom2-bluetooth-speaker-for-bass) has everything you need in a party-style stereo-sound speaker with great bass for under $150\. Although the beta version of the app was lacking in features, that should be remedied when the app releases full compatibility for the Boom 2\. Plus, Soundcore's EQ settings are a valuable asset to any listening experience, and its waterproof capabilities make it an excellent option for outdoor music enthusiasts.
@@ -178,9 +189,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
 ![soundcore boom 2 speaker](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/soundcore-boom-2-speaker.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
-<!-- affiliate ads end -->
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/htg-ec.png) 
 
 #####  Soundcore by Anker Boom 2
@@ -197,8 +205,6 @@ The Soundcore Boom 2 brings the party anywhere with up to 80W output via its Bas
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -206,4 +212,22 @@ The Soundcore Boom 2 brings the party anywhere with up to 80W output via its Bas
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-clips.techidaily.com/new-2024-approved-bridging-platforms-posting-twitter-content-on-facebook/"><u>[New] 2024 Approved Bridging Platforms Posting Twitter Content on Facebook</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-illuminate-canon-cameras-combining-freebies-and-paid-lut-sets-for-2024/"><u>[New] Illuminate Canon Cameras Combining Freebies and Paid LUT Sets for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-scripts-to-subscribers-mastering-the-production-of-engaging-educational-videos-for-youtube/"><u>[New] In 2024, From Scripts to Subscribers Mastering the Production of Engaging Educational Videos for YouTube</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-first-timers-manual-for-cool-mac-crafted-youtube-clips/"><u>[Updated] 2024 Approved First-Timer's Manual for Cool, Mac-Crafted YouTube Clips</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-fringe-to-mainstream-highlighting-top-10-gender-balanced-youtubers/"><u>[Updated] 2024 Approved From Fringe to Mainstream Highlighting Top 10 Gender-Balanced YouTubers</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-freshest-beats-newly-trending-music-for-youtube-short-videos-for-2024/"><u>[Updated] Freshest Beats Newly Trending Music for YouTube Short Videos for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-how-often-can-creators-expect-to-be-paid-by-youtube-for-2024/"><u>[Updated] How Often Can Creators Expect to Be Paid by YouTube for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-newcomer-to-pro-a-step-by-step-creator-hub-guidebook/"><u>[Updated] In 2024, From Newcomer to Pro A Step-by-Step Creator Hub Guidebook</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-turn-the-tide-how-to-make-a-youtube-playlist-run-backward/"><u>[Updated] Turn the Tide How to Make a YouTube Playlist Run Backward</u></a></li>
+<li><a href="https://windows11.techidaily.com/decoding-the-mysteries-of-invisible-context-options-in-windows-11/"><u>Decoding the Mysteries of Invisible Context Options in Windows 11</u></a></li>
+<li><a href="https://games-able.techidaily.com/discover-pimaxs-vivid-ventures-with-a-side-of-software-slip-ups/"><u>Discover Pimax's Vivid Ventures with a Side of Software Slip-Ups</u></a></li>
+<li><a href="https://blog-min.techidaily.com/les-top-applications-de-conversion-video-whatsapp-en-2021-decouvrez-le-meilleur-et-telecharger-gratuitement/"><u>Les Top Applications De Conversion Vidéo WhatsApp en 2021 : Découvrez Le Meilleur Et Télécharger Gratuitement</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-technology-choices-with-advice-from-toms-hardware/"><u>Mastering Technology Choices with Advice From Tom's Hardware</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-tutorial-on-identifying-people-saving-your-instagram-posts/"><u>Step-by-Step Tutorial on Identifying People Saving Your Instagram Posts</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-essentials-of-using-llama-abbreviated-as-llama-2-what-you-need-to-know/"><u>The Essentials of Using Llama Abbreviated as LLAMA 2: What You Need to Know</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: ROG Cetra's Low Latency SpeedNova Wireless Earphones - A Gamer's Sound & Performance Review
-date: 2024-08-30T16:46:38.255Z
-updated: 2024-08-31T16:46:38.255Z
+date: 2024-11-13T19:14:03.025Z
+updated: 2024-11-19T16:25:57.447Z
 tags:
   - product-reviews
 categories:
@@ -75,16 +75,17 @@ Bluetooth and 2.4GHz wireless gaming headphones with ROG SpeedNova wireless tech
 
 Expand 
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Setup and Connectivity: Not Just For Gamers
 
 ![Package contents for ROG Cetra True Wireless SpeedNova Headphones](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/05/02-2024-04-05-16-15-09.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2151873/7443" target="_top" id="2151873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151873" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151873/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 Bill Loguidice / How-To Geek
 
  Establishing a Bluetooth connection is as simple as opening the charging case with the headphones in it and pairing it with your phone or other device. For audio, RGB lighting, and configuration options, you can install the [iPhone](https://apps.apple.com/us/app/armoury-crate/id1381270429) or [Android](https://www.anrdoezrs.net/links/3607085/type/dlg/sid/UUhtgUeUpU2003119/https://play.google.com/store/apps/details?id=com.asus.rog.roggamingcenter3) Armoury Crate app.
@@ -97,13 +98,17 @@ Close
 
  One of the nicer features of the Cetra True Wireless SpeedNova headphones is their ability to connect to two devices at the same time, one over Bluetooth and the other over the 2.4GHz USB-C dongle. That means, for instance, that when you're gaming on your PC through the dongle, you can answer a phone call over Bluetooth.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144275/7443" target="_top" id="2144275">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144275" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144275/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Design and Fit: Big and Comfortable with Unnecessary RGB Lighting
 
 ![Woman's hands holding ROG Cetra True Wireless SpeedNova Headphones in case](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/05/03-2024-04-05-16-21-12.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 Bill Loguidice / How-To Geek
 
  The included case, which flips up like a ring box, can be charged over its USB-C port or via wireless charging. I sometimes found the charging to be unreliable when placing the case on one of my wireless chargers, but that's true of most devices with the option.
@@ -116,12 +121,16 @@ Bill Loguidice / How-To Geek
 
  Each earbud supports tap and tap and hold gestures, which are enabled by default and can be disabled or reprogrammed. For instance, by default, tapping once on the left earbud plays or pauses, and tapping twice changes the ANC mode. I found that gesture support worked well regardless of the devices I was using them on. The feature is on the more sensitive side, so I'd often inadvertently tap when placing an earbud in my ear or adjusting its position, causing the built-in voice to announce a change in function.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Sound and Immersion: Lots of Options but Nothing Truly Elevated
 
 ![Side profile of woman as she touches ROG Cetra True Wireless SpeedNova earbud](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/05/04-2024-05-11-17-58-22.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123509/26400" target="_top" id="2123509">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123509" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123509/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Bill Loguidice / How-To Geek
 
@@ -139,9 +148,6 @@ Close
 
  One feature I did appreciate, and something I don't think should be overlooked for multiplatform gamers, is how easy it is to switch between different platforms with the dongle. For instance, I could remove the dongle from my PC, have it automatically switch to my other audio source, then plug the dongle into my Nintendo Switch OLED and immediately start gaming on that device. This quick switchover holds for any of the platforms that support the dongle.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
-<!-- affiliate ads end -->
 ##  Should You Buy the ROG Cetra True Wireless SpeedNova Headphones?
 
  The [ROG Cetra True Wireless SpeedNova Headphones](https://www.amazon.com/ASUS-ROG-Headphones-Bone-Conduction-Microphones/dp/B0CXS16KNF/?tag=hotoge-20&ascsubtag=UUhtgUeUpU2003119&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Frog-cetra-true-wireless-speednova-headphones-review%2F&asc%5Fcampaign=Authority) are meant to solve the real problem of a lack of gaming-optimized earbuds. In terms of multi-platform versatility and lag-free performance, they rise to the challenge, but in terms of sound quality, they fall a bit flat.
@@ -151,8 +157,12 @@ Close
 ![ROG Cetra True Wireless SpeedNova Headphones](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/61nr-5he6ul-_ac_sl1500_.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2135357/19272" target="_top" id="2135357">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135357" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135357/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 #####  ROG Cetra True Wireless SpeedNova Headphones
 
 7/ 10 
@@ -167,8 +177,6 @@ Bluetooth and 2.4GHz wireless gaming headphones with ROG SpeedNova wireless tech
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -176,4 +184,26 @@ Bluetooth and 2.4GHz wireless gaming headphones with ROG SpeedNova wireless tech
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-gain-1000-followers-on-youtube-with-agile-strategies/"><u>[New] 2024 Approved Gain 1,000 Followers on YouTube with Agile Strategies</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-guaranteed-method-to-keep-youtube-shorts-out-of-sight/"><u>[New] 2024 Approved Guaranteed Method to Keep YouTube Shorts Out of Sight</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-convert-youtube-videos-seamlessly-into-avi/"><u>[New] 2024 Approved How to Convert YouTube Videos Seamlessly Into AVI</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-getting-more-out-of-youtube-top-8-mobile-downloader-tips-for-2024/"><u>[New] Getting More Out of YouTube Top 8 Mobile Downloader Tips for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-how-to-make-thumbnails-for-youtube-with-mobile-phones-for-2024/"><u>[New] How to Make Thumbnails for YouTube With Mobile Phones for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-explore-top-10-free-video-calls-highest-rated-and-easy-to-use/"><u>[New] In 2024, Explore Top 10 Free Video Calls - Highest Rated & Easy to Use</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-build-youtube-backlinks-for-your-channel/"><u>[Updated] 2024 Approved How to Build YouTube Backlinks for Your Channel</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-2024-approved-mastering-iphone-flipping-and-tilting-photos-perfectly/"><u>[Updated] 2024 Approved Mastering iPhone Flipping & Tilting Photos Perfectly</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-gain-unlimited-stock-videos-through-essential-4-youtube-sources-for-2024/"><u>[Updated] Gain Unlimited Stock Videos Through Essential 4 YouTube Sources for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-add-music-to-imovie-from-youtube-in-2024/"><u>[Updated] How to Add Music to iMovie From YouTube, In 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-optimize-video-quality-on-youtube-with-size-settings/"><u>[Updated] In 2024, How to Optimize Video Quality on YouTube with Size Settings</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-legal-steps-for-overcoming-a-youtube-copyright-strike/"><u>[Updated] Legal Steps for Overcoming a YouTube Copyright Strike</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-pixelpun-factory/"><u>[Updated] PixelPun Factory</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/best-voice-modification-tools-for-mobile-devices-for-2024/"><u>Best Voice Modification Tools for Mobile Devices for 2024</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/como-recuperar-e-iconos-del-escritorio-en-windows-tutorial-paso-a-paso-para-sistemas-operativos-windows-1011/"><u>Cómo Recuperar E Iconos Del Escritorio en Windows: Tutorial Paso a Paso Para Sistemas Operativos Windows 10/11</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/discover-the-8-premier-gaming-titles-of-google-play-pass/"><u>Discover the 8 Premier Gaming Titles of Google Play Pass</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-5-car-locator-apps-for-oppo-find-x6-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Top 5 Car Locator Apps for Oppo Find X6 Pro | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/line-audio-call-recording-a-comprehensive-guide-on-how-to-save-video-calls-with-sound/"><u>LINE Audio Call Recording - A Comprehensive Guide on How to Save Video Calls with Sound</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/rectifying-invisible-second-windows-display/"><u>Rectifying Invisible Second Windows Display</u></a></li>
+</ul></div>
 

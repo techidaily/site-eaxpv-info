@@ -1,7 +1,7 @@
 ---
 title: Apple Introduces New Remote Diagnostics Feature for iPhone 15 & M2 Mac in Latest Self-Service Repair Update
-date: 2024-10-27T05:15:29.793Z
-updated: 2024-11-02T04:25:26.278Z
+date: 2024-11-12T18:54:48.609Z
+updated: 2024-11-19T19:47:03.925Z
 tags:
   - apple
 categories:
@@ -32,9 +32,23 @@ Jason Hiner/ZDNET
 
 **What you need:** An iPhone running iOS 16.5 or later. Since not all iPhones are compatible with iOS 18, you'll also need a model [newer than the iPhone X](https://www.zdnet.com/article/best-iphone/).
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151888/7443" target="_top" id="2151888">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151888" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151888/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. Go to General in your iPhone Settings
 
 Go to your iPhone's Settings and select General. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044586/7443" target="_top" id="2044586">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044586" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044586/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 2\. Go to Software Update in Settings
 
@@ -44,13 +58,6 @@ Within General, tap on Software Update. This will show you if the iOS 18 update 
 
 When you tap on Software Update, your iPhone will check for the latest version of iOS available. Then, you'll be able to Download and Install the new update. Your iPhone will begin the download immediately.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100527/7443" target="_top" id="2100527">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100527" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100527/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 4\. Enter your passcode and follow steps to install
 
 Enter your passcode, if necessary, to authorize the installation of the new iOS on your iPhone, and follow the prompts to complete the installation.
@@ -58,20 +65,13 @@ Enter your passcode, if necessary, to authorize the installation of the new iOS 
 After installing the latest iOS update, your iPhone will restart.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130533/26400" target="_top" id="2130533">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948909/19272" target="_top" id="1948909">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948909" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130533/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948909/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## FAQs
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135373/19272" target="_top" id="2135373">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135373" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135373/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### When is Apple Intelligence coming out?
 
@@ -82,6 +82,13 @@ Apple Intelligence, featuring the company's AI tools, will begin to roll out for
 Apple released the iOS 18 developer beta during WWDC 2024 in June, and the public beta version was released on July 15\. The general release of iOS 18 is September 16.
 
 **Also: [The best iOS 18 features that will make updating your iPhone worthwhile](https://www.zdnet.com/article/the-best-ios-18-features-that-will-make-updating-your-iphone-worthwhile/)**
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135407/19272" target="_top" id="2135407">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135407" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135407/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Can you still download the iOS 18 public beta?
 
@@ -101,13 +108,6 @@ You'll need an iPhone running iOS 16.5 or later. Since not all iPhones are compa
 4. Select iOS 18 Public Beta. Then you'll begin receiving automatic software updates to the latest beta version of iOS 18\. Apple currently has four beta versions of iOS: iOS 18 public beta, iOS 18 developer beta, iOS 17 public beta, and iOS 17 developer beta. These four options will soon be reduced to just the two iOS 18 variants. Once you do this, return to the previous page. If an update is available now, your iPhone will prompt you to download and install it.
 
 Screenshot: Maria Diaz/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139121/17108" target="_top" id="2139121">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139121" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139121/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### How to download the iOS 18 developer beta?
 
@@ -169,22 +169,22 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-formulating-an-easy-to-use-youtube-subscriber-link/"><u>[New] 2024 Approved Formulating an Easy-to-Use YouTube Subscriber Link</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-future-fortunes-for-virtual-game-masters/"><u>[New] 2024 Approved Future Fortunes for Virtual Game Masters</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-animate-and-make-your-own-effects/"><u>[New] 2024 Approved How to Animate and Make Your Own Effects</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-use-google-trends-to-come-up-with-video-ideas/"><u>[New] 2024 Approved How to Use Google Trends to Come up with Video Ideas?</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-crafting-compelling-ad-messages-a-3-phase-copywriting-guide/"><u>[New] In 2024, Crafting Compelling Ad Messages A 3 Phase Copywriting Guide</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-raw-to-radiant-youtubes-art-of-visual-aesthetic/"><u>[New] In 2024, From Raw to Radiant Youtube's Art of Visual Aesthetic</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-in-2024-navigating-the-world-of-subtitle-uploads-social-media-edition/"><u>[New] In 2024, Navigating the World of Subtitle Uploads Social Media Edition</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-a-complete-guide-to-utilizing-youtubes-adsense-for-success/"><u>[Updated] 2024 Approved A Complete Guide to Utilizing YouTube’s AdSense for Success</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-capture-the-action-easy-steps-for-overwatch-players/"><u>[Updated] 2024 Approved Capture the Action Easy Steps for Overwatch Players</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-youtube-to-studio-quality-free-converters-for-wav-format/"><u>[Updated] 2024 Approved From YouTube to Studio Quality Free Converters for WAV Format</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-flickering-fonts-2-innovative-text-techniques/"><u>[Updated] In 2024, Flickering Fonts 2 Innovative Text Techniques</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-idea-to-execution-a-comprehensive-youtube-video-guide/"><u>[Updated] In 2024, From Idea to Execution A Comprehensive YouTube Video Guide</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-mastering-bg-removal-in-figma-designs/"><u>2024 Approved Mastering BG Removal in Figma Designs</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/9-reasons-to-use-the-new-outlook-app-on-windows/"><u>9 Reasons to Use the New Outlook App on Windows</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-fix-the-notorious-code-28-error-in-windows-device-manager-a-step-by-step-guide/"><u>How to Fix the Notorious 'Code 28' Error in Windows Device Manager: A Step-by-Step Guide</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-solved-move-from-oneplus-11r-to-ios-not-working-problems-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Solved Move from OnePlus 11R to iOS not Working Problems | Dr.fone</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/integrating-gpt-into-your-pcs-os/"><u>Integrating GPT Into Your PC's OS</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-5-easy-ways-to-multiply-your-youtube-follower-base/"><u>[New] 2024 Approved 5 Easy Ways to Multiply Your YouTube Follower Base</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-dynamic-and-simple-building-a-subscriber-button-for-youtube-using-filmora/"><u>[New] 2024 Approved Dynamic and Simple Building a Subscriber Button for YouTube Using Filmora</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-cutting-techniques-for-photos-exclude-unwanted-edges-for-2024/"><u>[New] Cutting Techniques for Photos Exclude Unwanted Edges for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-enjoy-a-stream-of-nine-complete-christmas-capsules-on-youtube-for-2024/"><u>[New] Enjoy a Stream of Nine Complete Christmas Capsules on YouTube for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-push-the-boundaries-of-your-snapchat-presence-customize-voices-now/"><u>[New] In 2024, Push the Boundaries of Your Snapchat Presence Customize Voices Now</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-in-2024-the-chronicle-of-creation-weaving-time-lapse-animations-via-movie-maker/"><u>[New] In 2024, The Chronicle of Creation Weaving Time-Lapse Animations via Movie Maker</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-seamless-creation-a-closer-look-at-magix-video-pro-x-for-2024/"><u>[New] Seamless Creation A Closer Look at Magix Video Pro X for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-optimizing-engagement-using-cards-and-annotations/"><u>[Updated] Optimizing Engagement Using Cards and Annotations</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/50plus-youtube-channel-names-for-vloggers-100-new-filmora-for-2024/"><u>50+ Youtube Channel Names for Vloggers [100% New] - Filmora for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/in-2024-best-free-cloud-options-get-unlimited-storage-1tbplus/"><u>In 2024, Best Free Cloud Options Get Unlimited Storage (1TB+)</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-here-are-some-of-the-best-pokemon-discord-servers-to-join-on-lava-yuva-3-drfone-by-drfone-virtual-android/"><u>In 2024, Here are Some of the Best Pokemon Discord Servers to Join On Lava Yuva 3 | Dr.fone</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/mastering-youtube-monetization-minimum-required-views-to-profit/"><u>Mastering YouTube Monetization Minimum Required Views to Profit</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/step-by-step-guide-to-convert-avis-into-gifs-via-filmora-software/"><u>Step-by-Step Guide to Convert AVIs Into GIFs via Filmora Software</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/strategic-use-of-jump-cuts-for-non-linear-storytelling-for-2024/"><u>Strategic Use of Jump Cuts for Non-Linear Storytelling for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/the-entrepreneurs-blueprint-for-profiting-from-video-content-for-2024/"><u>The Entrepreneur's Blueprint for Profiting From Video Content for 2024</u></a></li>
+<li><a href="https://win-forum.techidaily.com/the-ultimate-guide-to-social-media-success-strategies-for-facebook-twitter-instagram-and-youtube/"><u>The Ultimate Guide to Social Media Success: Strategies for Facebook, Twitter, Instagram, and Youtube</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/video-conversion-made-simple-the-best-flv-tools-for-youtube-for-2024/"><u>Video Conversion Made Simple The Best Flv Tools for YouTube for 2024</u></a></li>
 </ul></div>
 

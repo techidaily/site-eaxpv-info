@@ -1,7 +1,7 @@
 ---
 title: "Compact & Convenient: Comprehensive Review of the Portable Sony ULT Field 1 Bluetooth Audio Player"
-date: 2024-08-30T16:46:21.024Z
-updated: 2024-08-31T16:46:21.024Z
+date: 2024-11-12T17:45:09.442Z
+updated: 2024-11-19T19:42:29.613Z
 tags:
   - product-reviews
 categories:
@@ -85,8 +85,12 @@ Tyler Hayes / How-To Geek
 ![Sony ULT Field 1 in the middle, next to Sonos Roam and Sony SRS-XE200](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/04/sony-ult-field-1-in-the-middle-next-to-sonos-roam-and-sony-srs-xe200.JPG) 
 
 <!-- affiliate ads begin -->
-<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://bluetties.sjv.io/c/5597632/2141687/17094" target="_top" id="2141687">
+  <img src="//a.impactradius-go.com/display-ad/17094-2141687" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141687/17094" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 Tyler Hayes / How-To Geek
 
 Left to right: Sonos Roam, Field 1, and SRS-XE200
@@ -96,9 +100,12 @@ Left to right: Sonos Roam, Field 1, and SRS-XE200
 ![Close up of the buttons on teh Sony ULT Field 1](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/04/close-up-of-the-buttons-on-teh-sony-ult-field-1.JPG) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 Tyler Hayes / How-To Geek
 
  Speaking of the SRS-XE200, I found the Field 1 to have better clarity with an all-around better sound than the previous model. I thought the old speaker often sounded muddy and didn’t seem to have much mid-range clarity.
@@ -117,21 +124,22 @@ Tyler Hayes / How-To Geek
 
  As a note, I wasn't able to go through any customizations the Sony mobile app would offer because the speaker wasn't compatible with it in its pre-release state. The app will be updated with the speaker's public debut.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
-<!-- affiliate ads end -->
 ##  The Battery Life Is Fine
 
  I had no problem with the Field 1's 12 hours of projected battery life. It seems like it might have been able to squeeze in a little more based on its size compared to the Sonos Roam's 10 hours, but overall the Field 1's duration is still competitive.
 
  There's a USB-C port on the back for recharging the unit. The rubber cover hiding the port was easy enough to pop off and wasn't too stiff to maneuver around. All around the battery life and powering the product was fine—two thumbs up.
 
-<!-- affiliate ads begin -->
-<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Should You Buy the Sony ULT Field 1?
 
 ![human hand holding Sony ULT Field 1 showing the side](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/04/human-hand-holding-sony-ult-field-1-showing-the-side.JPG) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Tyler Hayes / How-To Geek
 
@@ -140,13 +148,14 @@ Tyler Hayes / How-To Geek
 ![Sony ULT Field 1 standing vertical and laying vertical](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/edaab4f2-6e42-4af6-a252-c3af280f8e74.jpeg) 
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2123748/7443" target="_top" id="2123748">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123748" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123748/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/htg-ec.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 #####  Sony ULT Field 1
 
 9/ 10 
@@ -165,8 +174,6 @@ adventures.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -174,4 +181,22 @@ adventures.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-pick-a-unique-name-for-youtube-channel-filmora/"><u>[New] 2024 Approved How To Pick a Unique Name for YouTube Channel - Filmora</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-capturing-gameplay-moments-flawlessly/"><u>[New] Capturing Gameplay Moments Flawlessly</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-cutting-edge-solutions-for-webmicrone-capture-with-these-9-tools-23/"><u>[New] Cutting-Edge Solutions for Webmicrone Capture with These 9 Tools ('23)</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-filtering-through-youtube-talks-for-2024/"><u>[New] Filtering Through YouTube Talks for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-frame-your-moment-iphone-apps-for-efficient-photo-cropping/"><u>[New] Frame Your Moment IPhone Apps for Efficient Photo Cropping</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-financial-fortitude-for-youtubers-beyond-basic-earnings/"><u>[Updated] 2024 Approved Financial Fortitude for YouTubers Beyond Basic Earnings</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-be-a-beauty-guru-on-youtube-beauty-vlogger-set-up/"><u>[Updated] 2024 Approved How To Be A Beauty Guru on YouTube Beauty Vlogger Set Up</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-top-10-best-webcam-covers/"><u>[Updated] 2024 Approved Top 10 Best Webcam Covers</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-gain-more-loyal-viewers-unlock-top-strategies-for-enhancing-viewer-retention-on-youtube/"><u>[Updated] In 2024, Gain More Loyal Viewers Unlock Top Strategies for Enhancing Viewer Retention on YouTube</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-grandview-media-mastering-the-art-of-selecting-a-cms/"><u>[Updated] In 2024, Grandview Media Mastering the Art of Selecting a CMS</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/3-solutions-to-hard-reset-xiaomi-14-ultra-phone-using-pc-drfone-by-drfone-reset-android-reset-android/"><u>3 Solutions to Hard Reset Xiaomi 14 Ultra Phone Using PC | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/apple-id-locked-for-security-reasons-on-apple-iphone-13-mini-find-the-best-solution-here-by-drfone-ios/"><u>Apple ID Locked for Security Reasons On Apple iPhone 13 mini? Find the Best Solution Here</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-i-transferred-messages-from-xiaomi-redmi-13c-5g-to-iphone-12xs-max-in-seconds-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How I Transferred Messages from Xiaomi Redmi 13C 5G to iPhone 12/XS (Max) in Seconds | Dr.fone</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-2024-approved-free-video-editing-online-top-picks-and-reviews/"><u>Updated 2024 Approved Free Video Editing Online Top Picks and Reviews</u></a></li>
+<li><a href="https://program-issues.techidaily.com/upgrade-required-ensuring-your-processor-matches-vanguards-minimum-specs/"><u>Upgrade Required: Ensuring Your Processor Matches Vanguard's Minimum Specs</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Safeguarding Your Online Legacy: Why Preserving Digital Memories Matters"
-date: 2024-08-30T16:46:04.051Z
-updated: 2024-08-31T16:46:04.051Z
+date: 2024-11-13T00:13:04.298Z
+updated: 2024-11-19T21:15:07.150Z
 tags:
   - web
 categories:
@@ -26,38 +26,44 @@ thumbnail: https://thmb.techidaily.com/9fb33bd6bba9695ce8ba1da0e2a2f8b35a76e62cf
  We ourselves, as collective users of the web, can individually preserve content. So don't let time and entropy rob you of the content you think should be saved somewhere. Here's how you can keep a small piece of our culture safe from digital death.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
+<a href="https://appsumo.8odi.net/c/5597632/2037358/7443" target="_top" id="2037358">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037358" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037358/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ##  Buy Physical Books, DVDs, and Blu-rays
 
 ![A DVD and Blu Ray Collection with books.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/dvd-and-blu-ray-collection.jpeg) 
 
 <!-- affiliate ads begin -->
-<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1948954/19272" target="_top" id="1948954">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948954" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948954/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 Sydney Louw Butler / How-To Geek
 
  There are plenty of reasons to buy physical books, movies, and TV series, but for me, near the top of the list is that I want to ensure that, if nothing else, I have [lifetime access to my favorites](https://windows11.techidaily.com/how-to-customize-sound-levels-with-dedicated-win11-keys/). This is why I have Blu-rays of _The Terminator_ and its sequel. They can bury me with my copies of the _Back to the Future_ trilogy, and, of course, I spent a fortune to own the complete physical set of _Neon Genesis Evangelion_.
 
  My bookshelf is home to collector's editions of the first six _Dune_ books, and you better know I have _The Lord of the Rings_ and various other Tolkien books nestled in there as well. If I ever get a bank loan approved to build an underground bunker, you can bet that could get me through the first few weeks of a nuclear winter.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ##  Buy DRM-Free Media and Video Games and Store Them
 
 ![A selection of DOS Games on the GOG digital storefront.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/dos-games-gog.jpeg) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2115921/19272" target="_top" id="2115921">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115921" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115921/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Not everyone has the space for physical media, but long-term storage devices such as archival hard drives, tape, and archival optical media are readily available and not that expensive. This gives you the option to preserve stuff for at the very least [as long as you're around](https://android-unlock.techidaily.com/in-2024-5-solutions-for-samsung-galaxy-m34-5g-unlock-without-password-by-drfone-android/).
 
  There are several places you can get DRM (Digital Rights Management) free content. Such as [GOG.com](https://www.gog.com/en/) for games, or some book publishers like [TOR](https://reactormag.com/torforge-e-books-are-now-drm-free/) do not use DRM on their ebooks. If your media has no DRM, you can generally [make a backup of it for your own use](https://www.riaa.com/resources-learning/about-piracy/), but of course, you are not allowed to distribute it. However, because of the US DMCA (Digital Millennium Copyright Act) and other similar laws in other parts of the world, it's usually illegal to get rid of the copy protection on media, even if you paid for it. While tools exist to easily strip DRM from most types of content, the very act of defeating that protection is illegal thanks to "[anti-circumvention](https://www.eff.org/wp/unintended-consequences-16-years-under-dmca)" provisions in the DMCA and other similar laws across the world.
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Save Memes, Screenshot Websites, and Do What You Can
 
  We can still get a taste of the culture of previous decades, centuries, and even early man thanks to the physical cultural artifacts they left behind. There's graffiti from ancient Rome still on the walls of ruins, and literal cave paintings exist from prehistory.
@@ -65,8 +71,12 @@ Sydney Louw Butler / How-To Geek
  So much of modern culture is online, that at some point it will just disappear like mist in the sun. We have sites dedicated to preserving online culture, such as the [Wayback Machine](https://wayback-api.archive.org/) and [KnowYourMeme](https://knowyourmeme.com/), but they are susceptible to the same potential fate as any website. So, as weird as it may sound, maybe you want to do the internet equivalent of scrapbooking and save some offline copies of the memes that are part of your culture.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://sentrypc.7eer.net/c/5597632/398455/3022" target="_top" id="398455">
+  <img src="//a.impactradius-go.com/display-ad/3022-398455" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398455/3022" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ##  Focus on What Matters to You
 
  Most [early films are lost forever](https://www.theguardian.com/film/2013/dec/04/american-silent-films-lost-forever), and we'll never know exactly what was lost when the Library of Alexandria burnt down, because some texts had only one copy in that one location.
@@ -83,8 +93,6 @@ Sydney Louw Butler / How-To Geek
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -92,4 +100,20 @@ Sydney Louw Butler / How-To Geek
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-use-video-titles-and-youtube-tags/"><u>[New] 2024 Approved How to Use Video Titles and YouTube Tags?</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-future-of-virtual-game-viewership-income-for-2024/"><u>[New] Future of Virtual Game Viewership Income for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-how-to-seamlessly-incorporate-video-game-banners-for-2024/"><u>[New] How to Seamlessly Incorporate Video Game Banners for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-growth-hacking-for-youtube-stars-maximizing-fans/"><u>[Updated] 2024 Approved Growth Hacking for YouTube Stars Maximizing Fans</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-from-vision-to-execution-the-full-spectrum-of-personal-branding-on-youtube-for-2024/"><u>[Updated] From Vision to Execution The Full Spectrum of Personal Branding on YouTube for 2024</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/bypassing-google-account-with-vnrom-bypass-for-realme-v30t-by-drfone-android/"><u>Bypassing Google Account With vnROM Bypass For Realme V30T</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-pc-instability-issues-in-the-complete-edition-of-horizon-forbidden-west/"><u>Fixing PC Instability Issues in the Complete Edition of Horizon Forbidden West</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-stop-your-pc-from-crashing-during-wolcen-lords-of-mayhem/"><u>How to Stop Your PC From Crashing During Wolcen: Lords of Mayhem</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-7-ways-to-unlock-a-locked-motorola-razr-40-ultra-phone-by-drfone-android/"><u>In 2024, 7 Ways to Unlock a Locked Motorola Razr 40 Ultra Phone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-simplifying-complexity-essential-gs-tutorials-kinemaster/"><u>In 2024, Simplifying Complexity Essential GS Tutorials (KineMaster)</u></a></li>
+<li><a href="https://discover-deluxe.techidaily.com/innovative-methods-for-changing-mp4-audio-tracks-into-ringtone-format/"><u>Innovative Methods for Changing MP4 Audio Tracks Into Ringtone Format</u></a></li>
+<li><a href="https://win11.techidaily.com/stretching-your-password-extending-pins-in-windows-oses/"><u>Stretching Your Password: Extending PINs in Windows OSes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/win1011-a-complete-guide-to-overcoming-error-code-0x800704b3/"><u>Win10/11: A Complete Guide to Overcoming Error Code 0X800704B3</u></a></li>
+</ul></div>
 

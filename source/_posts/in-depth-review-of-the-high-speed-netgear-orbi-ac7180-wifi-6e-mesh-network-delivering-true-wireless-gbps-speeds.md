@@ -1,7 +1,7 @@
 ---
 title: In-Depth Review of the High-Speed Netgear Orbi AC7180 WiFi 6E Mesh Network - Delivering True Wireless Gbps Speeds
-date: 2024-08-30T16:47:15.805Z
-updated: 2024-08-31T16:47:15.805Z
+date: 2024-11-14T00:30:18.959Z
+updated: 2024-11-19T23:56:02.316Z
 tags:
   - product-reviews
 categories:
@@ -75,9 +75,6 @@ Jerome Thomas / How-To Geek
 
 ![NETGEAR Orbi 970 Mesh Wi-Fi 7 System App View](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/03/netgear-orbi-970-mesh-wi-fi-7-system-app-view.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
-<!-- affiliate ads end -->
 Jerome Thomas / How-To Geek
 
  There’s an Orbi app, available for [iPhone](https://apps.apple.com/us/app/netgear-orbi-wifi-system-app/id1182184397) and [Android](https://www.anrdoezrs.net/links/3607085/type/dlg/sid/UUhtgUeUpU2002347/https://play.google.com/store/apps/details?id=com.dragonflow.android.orbi&hl=en), that's used to set up the router. Unfortunately, the Orbi app didn’t actually work when configuring the router. Instead, this let me test out another function of the device I wouldn’t have otherwise been able to do, and that’s the web browser-based setup. The Orbi app simply told me that it couldn’t configure the router, and told me that I could continue on the web. It took me to Netgear’s normal routerlogin.net configuration page to get started. (Since setting up the system initially, the Orbi app has been updated and now functions fully with the 970 system.)
@@ -86,13 +83,17 @@ Jerome Thomas / How-To Geek
 
  The setup also walks you through the configuration of the satellites, which is just as easy. On the satellites, you do use the “sync” button to kick them into pairing mode where the color LED on the front of the unit guides you through whether it’s a successful pair with good signal, not great signal, or failed to pair. It’s pretty straightforward to do, and the Orbi system will automatically optimize itself for the distance and channels required for proper whole-home coverage once paired and set up.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925473/19272" target="_top" id="1925473">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925473" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925473/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Port Forwarding and Other Configurations Are Straight-Forward
 
 ![NETGEAR Orbi 970 Mesh Wi-Fi 7 System Ethernet](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/03/netgear-orbi-970-mesh-wi-fi-7-system-ethernetjpg.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
-<!-- affiliate ads end -->
 Jerome Thomas / How-To Geek
 
  Once I had the Orbi 970 system up and running, the first thing I did was start customizing it. On my network, there are a lot of devices, and several require specific things. I changed my subnet to my typical address pool (I don’t use the normal 192.168.x.x) and that was pretty straightforward. My next stop after changing my subnet was the port forwarding area of the backend. This was relatively easy to find and use once I took a look at the page. I was able to quickly add all of the ports that I needed forwarded, which was smoother than using my normal Amplifi Alien. After I added the Orbi 970 to my modem’s IP passthrough, the ports immediately opened and worked as I expected.
@@ -102,8 +103,18 @@ Jerome Thomas / How-To Geek
  Overall, whether I did configurations in the app or through the web interface, it was all nice. I really love that Netgear doesn’t lock you into exclusively using the app like some other router manufacturers do, and you can simply browse the web interface on any computer or smartphone.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
+<span id="1975648">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975648.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975648">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975648%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975648/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ##  Does Wi-Fi 7 Actually Deliver True Gig+ Wireless Networking?
 
 ![NETGEAR Orbi 970 Mesh Wi-Fi 7 System Overview](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/03/netgear-orbi-970-mesh-wi-fi-7-system-overview.jpg) 
@@ -123,15 +134,16 @@ Jerome Thomas / How-To Geek
  Overall, I was extremely impressed with the wireless performance of the Orbi 970 system. For years, I’ve wanted to be able to achieve wireless speeds comparable to wired speeds and it has always felt like it would be a pipe dream. Then, Wi-Fi 6 came out and things got better, but wired was still king (for gigabit speeds.) But, after taking Wi-Fi 7 for a test drive with the Orbi 970, I can say that I am very excited about what the future holds for wireless networking. The thought that one could be sitting on the couch and enjoy the same speeds that a desktop has when plugged in over ethernet is quite mind-boggling.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<a href="https://appsumo.8odi.net/c/5597632/2068432/7443" target="_top" id="2068432">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068432" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068432/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ##  Should You Buy the Netgear Orbi 970 Wi-Fi 7 Router?
 
 ![NETGEAR Orbi 970 Mesh Wi-Fi 7 System](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/03/netgear-orbi-970-mesh-wi-fi-7-system.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 Jerome Thomas / How-To Geek
 
  The [Netgear Orbi 970 Series Quad-Band Wi-Fi 7 Mesh System](https://www.amazon.com/NETGEAR-Quad-Band-Satellite-Extenders-Internet/dp/B0CGJGXFCS?tag=hotoge-20&ascsubtag=UUhtgUeUpU2002347&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fnetgear-orbi-970-wi-fi-7-system-review%2F&asc%5Fcampaign=Authority) is a robust networking setup not for the faint of heart at all. These days, we’re used to seeing decent Wi-Fi 6/6E mesh systems in the $300-$500 range. With the performance and abilities that the Orbi 970 brings to the table, a single satellite costs $900\. The 2-unit kit is $1,700, and if you need 10,000 square feet of coverage, that’ll set you back $2,300\. All that to say, this mesh system isn’t cheap. While it offers some premium features, the cost is a bit hard to justify. For comparison, the [Eero Max 7](https://facebook-video-content.techidaily.com/updated-cutting-edge-techniques-quickly-developing-quality-captions-for-facebook-posts/) delivers 7,500-square feet of coverage at [$1,700](https://www.amazon.com/dp/B09HK6WYMC/ref=twister%5FB0CG2V1XRB?%5Fencoding=UTF8&th=1&tag=hotoge-20&ascsubtag=UUhtgUeUpU2002347&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fnetgear-orbi-970-wi-fi-7-system-review%2F&asc%5Fcampaign=Authority), but also costs just [$600](https://www.amazon.com/dp/B09HJJN7MS/ref=twister%5FB0CG2V1XRB?%5Fencoding=UTF8&th=1&tag=hotoge-20&ascsubtag=UUhtgUeUpU2002347&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fnetgear-orbi-970-wi-fi-7-system-review%2F&asc%5Fcampaign=Authority) if you need a more modest 2,500-square feet of coverage. While Eero only gives two 10-gig ports and two 2.5-gig ports, you're still going to be getting a similar overall wireless experience here for a fraction of the cost.
@@ -143,8 +155,12 @@ Jerome Thomas / How-To Geek
 ![NETGEAR Orbi 970 1](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/netgear-orbi-970-1.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137204/26400" target="_top" id="2137204">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137204" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137204/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 #####  Netgear Orbi 970
 
 7/ 10 
@@ -159,8 +175,6 @@ The Orbi 970 from NETGEAR is the peak of what a Wi-Fi 7 mesh system can offer. T
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -168,4 +182,22 @@ The Orbi 970 from NETGEAR is the peak of what a Wi-Fi 7 mesh system can offer. T
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-web.techidaily.com/024-approved-skyrocketing-popularity-youtube-visibility-techniques/"><u>[New] 2024 Approved Skyrocketing Popularity YouTube Visibility Techniques</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-fostering-collaborations-building-partnerships-to-promote-videos-for-2024/"><u>[New] Fostering Collaborations Building Partnerships to Promote Videos for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-streaming-video-how-to-get-youtube-thumbnail-files-onlineos-wise/"><u>[Updated] 2024 Approved From Streaming Video How to Get YouTube Thumbnail Files Online/OS-Wise</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-handling-haters-strategies-for-content-creators/"><u>[Updated] 2024 Approved Handling Haters Strategies for Content Creators</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-add-a-youtube-video-to-google-slides/"><u>[Updated] 2024 Approved How to Add a YouTube Video to Google Slides</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-add-captions-to-youtube-videos-for-2024/"><u>[Updated] How To Add Captions to YouTube Videos for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-concept-to-completion-crafting-your-youtube-masterpiece/"><u>[Updated] In 2024, From Concept to Completion Crafting Your YouTube Masterpiece</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-harnessing-imovies-capabilities-for-youtube-video-perfection/"><u>[Updated] In 2024, Harnessing iMovie's Capabilities for YouTube Video Perfection</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-flawless-coexistence-of-linktree-and-tiktok-biographies/"><u>2024 Approved Flawless Coexistence of Linktree and TikTok Biographies</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-techniques-to-transfer-data-from-realme-11-pro-to-iphone-15141312-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Techniques to Transfer Data from Realme 11 Pro to iPhone 15/14/13/12 | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-forgot-your-apple-id-password-and-email-from-apple-iphone-se-2020-heres-the-best-fixes-by-drfone-ios/"><u>In 2024, Forgot Your Apple ID Password and Email From Apple iPhone SE (2020)? Heres the Best Fixes</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-mastering-mp4-enhancement-the-ultimate-srt-integration/"><u>In 2024, Mastering MP4 Enhancement The Ultimate SRT Integration</u></a></li>
+<li><a href="https://win-data.techidaily.com/pro-version-unlocked-muse-vue-with-advanced-ant-design-ui-kit-ultimate-dashboard-by-creative-tim/"><u>Pro Version Unlocked: Muse Vue with Advanced Ant Design UI Kit | Ultimate Dashboard by Creative Tim</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/resolved-understanding-and-fixing-the-apex-legends-error-23-issue/"><u>Resolved: Understanding and Fixing the 'Apex Legends' Error 23 Issue</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/reviewing-the-cat-s42s-tradeoff-superior-armor-at-the-expense-of-processing-pace/"><u>Reviewing the CAT S42's Tradeoff: Superior Armor at the Expense of Processing Pace</u></a></li>
+</ul></div>
 

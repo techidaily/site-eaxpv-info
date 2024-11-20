@@ -1,7 +1,7 @@
 ---
 title: "Innovative Nanoleaf Umbra Cono Analysis: Ideal Intelligent Lighting Design for Children’s Spaces"
-date: 2024-08-30T16:47:18.594Z
-updated: 2024-08-31T16:47:18.594Z
+date: 2024-11-13T19:41:47.076Z
+updated: 2024-11-19T23:19:46.486Z
 tags:
   - product-reviews
 categories:
@@ -19,6 +19,13 @@ thumbnail: https://thmb.techidaily.com/49570c4e8b47ea82b7ecf56be528fbefc2ec46d86
 
  A good smart nightlight for a young kid's rooms is tricky to find, but the [Nanoleaf Umbra Cono](https://www.anrdoezrs.net/links/3607085/type/dlg/sid/UUhtgUeUpU2002959/https://nanoleaf.me/en-US/products/smarter-partners/umbra-lamps/) portable lamp might just fit that bill perfectly. It isn’t even targeted at kids specifically, but since it can be controlled without a phone, is easy to carry, and has a built-in battery, it works well.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135417/19272" target="_top" id="2135417">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135417" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135417/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  A Smart Lamp For Kids and Adults
 
 ![Nanoleaf Umbra Cono  standing upright turned off](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/05/nanoleaf-umbra-cono-1.jpg) 
@@ -35,20 +42,21 @@ Jerome Thomas / How-To Geek
 
 ![Using the Nanoleaf app with the Umbra Cono](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/05/nanoleaf-umbra-cono-2.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135362/19272" target="_top" id="2135362">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135362" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135362/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Jerome Thomas / How-To Geek
 
  Speaking of the Nanoleaf app and its connected nature: custom colors can be used, automatic schedules can be set up, and voice assistants can be linked. There are a ton of ways to use this little lamp. It's not just kids either, I liked using it on my desk—before my daughter stole it for her room. Although the lamp is the most valuable when it's connected to a Matter-compatible smart home hub like a HomePod, it can be used by connecting via Bluetooth.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  The Price Is One of the Hurdles
 
 ![Showing the USB-C port on the Nanoleaf Umbra Cono](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/05/nanoleaf-umbra-cono.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
 Jerome Thomas / How-To Geek
 
  Although the Umbra Cono light is great in a lot of ways, it still has issues, with two big hurdles specifically. The first is its $95 price. For a decor piece in a single person’s home, it might be worth splurging on, but if you have one, you’ll surely want a second or third to compliment it. The cost adds up quickly.
@@ -58,15 +66,16 @@ Jerome Thomas / How-To Geek
  The second issue is more subtle, but I couldn’t find a place in the Nanoleaf app or on the lamp to see the battery life remaining. The only indicator to speak of is a charging indicator on the light itself as a pinhole light just below the USB-C port. I searched for a way to monitor the battery life online and in the manual, but couldn't find anything. So it seems like you can see when it's fully charged, but nothing more. Strange. I even did the latest firmware update to make sure something new hadn't been added.
 
 <!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2094422/7443" target="_top" id="2094422">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094422" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094422/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ##  Is the Nanoleaf Umbra Cono Portable Lamp Worth Spending Money On?
 
 ![Nanoleaf Umbra Cono in a dark room standing up with its light on](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/05/nanoleaf-umbra-cono-4.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 Jerome Thomas / How-To Geek
 
  For as much as I like the [Nanoleaf Umbra Cono](https://www.anrdoezrs.net/links/3607085/type/dlg/sid/UUhtgUeUpU2002959/https://nanoleaf.me/en-US/products/smarter-partners/umbra-lamps/) portable lamp, it definitely has its quirks. For its premium price, I do wish it felt higher-end, instead of completely being made out of plastic. It could use some kind of battery indicator—hopefully Nanoleaf will add that to the app in the future. I also would have liked the button to be a little more tactile, instead of being more touch-sensitive. It doesn't press in.
@@ -76,8 +85,12 @@ Jerome Thomas / How-To Geek
 ![Nanoleaf Umbra Cono](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/cleanshot-2024-05-02-at-14-43-46-2x.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2115932/19272" target="_top" id="2115932">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115932" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115932/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 #####  Nanoleaf Umbra Cono
 
 6/ 10 
@@ -144,8 +157,6 @@ Expand
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -153,4 +164,24 @@ Expand
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-boxes.techidaily.com/new-crafting-unified-visuals-on-your-computer-for-2024/"><u>[New] Crafting Unified Visuals on Your Computer for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-find-your-way-the-insider-guide-to-youtube-video-management-hub-for-2024/"><u>[New] Find Your Way The Insider Guide to YouTube Video Management Hub for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-free-profile-imagery-for-youtubers-for-2024/"><u>[New] Free Profile Imagery for YouTubers for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-guide-free-youtube-downloads-without-programs-for-2024/"><u>[New] Guide Free YouTube Downloads Without Programs for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-how-often-do-youtubers-receive-income-for-2024/"><u>[New] How Often Do YouTubers Receive Income for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-gourmet-gurus-who-you-should-subscribe-to/"><u>[New] In 2024, Gourmet Gurus Who You Should Subscribe To</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-spark-interest-with-unique-channel-names/"><u>[New] In 2024, How to Spark Interest With Unique Channel Names</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/kyrocket-to-your-youtube-audience-goal-1kplus-for-2024/"><u>[New] Skyrocket to Your YouTube Audience Goal 1K+ for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-unbeatable-free-livestream-solutions-reviewed-across-all-platforms-for-2024/"><u>[New] Unbeatable Free Livestream Solutions Reviewed Across All Platforms for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-download-youtube-thumbnail-in-3-ways-onlinewinmac/"><u>[Updated] 2024 Approved How to Download YouTube Thumbnail in 3 Ways [Online/Win/Mac]</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/1717723009389-updated-2024-approved-how-to-see-your-subscribers-on-youtube/"><u>[Updated] 2024 Approved How to See Your Subscribers on YouTube?</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-viral-vignette-visor/"><u>2024 Approved Viral Vignette Visor</u></a></li>
+<li><a href="https://location-fake.techidaily.com/3-ways-to-change-location-on-facebook-marketplace-for-nokia-105-classic-drfone-by-drfone-virtual-android/"><u>3 Ways to Change Location on Facebook Marketplace for Nokia 105 Classic | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/improve-image-quality-on-displays/"><u>Improve Image Quality on Displays</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-hacks-to-do-pokemon-go-trainer-battles-for-gionee-f3-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Hacks to do pokemon go trainer battles For Gionee F3 Pro | Dr.fone</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-techniques-for-elevating-your-tiktok-unboxing-popularity/"><u>In 2024, Techniques for Elevating Your TikTok Unboxing Popularity</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-discover-the-leading-online-havens-for-free-premium-hd-video-backdrops-for-2024/"><u>Updated Discover the Leading Online Havens for Free, Premium HD Video Backdrops for 2024</u></a></li>
+</ul></div>
 

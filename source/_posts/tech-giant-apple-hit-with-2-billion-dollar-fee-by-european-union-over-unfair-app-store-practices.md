@@ -1,7 +1,7 @@
 ---
 title: Tech Giant Apple Hit with 2-Billion Dollar Fee by European Union Over Unfair App Store Practices
-date: 2024-11-06T20:32:03.441Z
-updated: 2024-11-08T05:48:30.675Z
+date: 2024-11-14T17:40:35.829Z
+updated: 2024-11-19T17:14:59.455Z
 tags:
   - apple
 categories:
@@ -27,10 +27,10 @@ In the past, moving from one face to another on an Apple Watch was easy. You'd s
 ## How to swap faces on your Apple Watch
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1884017/19272" target="_top" id="1884017">
-  <img src="//a.impactradius-go.com/display-ad/19272-1884017" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100526/7443" target="_top" id="2100526">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100526" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884017/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100526/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 1\. Run watchOS 10
@@ -40,10 +40,10 @@ If you're still running watchOS 9 or earlier, the older method of switching watc
 screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135400/19272" target="_top" id="2135400">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135400" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137218/26400" target="_top" id="2137218">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137218" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135400/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137218/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Switch watch faces
@@ -62,13 +62,6 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087390/7443" target="_top" id="2087390">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087390" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087390/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 3\. Update to watchOS 10.2
 
 Apple must have realized that it ticked off Watch owners by making the new face changing process so clumsy. That's why it fixed the issue with the latest 10.2 update. For this, open the Watch app on your iPhone, head to General, select Software Update, and then install the latest version.
@@ -76,6 +69,19 @@ Apple must have realized that it ticked off Watch owners by making the new face 
 Altefnatively, you can update the OS directly from your watch. For that, open the Settings app on the watch, tap General and then Software Updates, and allow the new version to be installed.
 
 screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<span id="1977032">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977032.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977032">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977032.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977032%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977032/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Change the method for switching faces
 
@@ -86,10 +92,10 @@ screenshot by Lance Whitney/ZDNET
 **Also: [The best smartwatches you can buy: Apple, Samsung, Google, and more compared](https://www.zdnet.com/article/best-smartwatch/)**
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135353/19272" target="_top" id="2135353">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135353" border="0" alt="https://techidaily.com" width="180" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043603/7443" target="_top" id="2043603">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043603" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135353/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043603/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Switch watch faces by swiping
@@ -128,19 +134,22 @@ screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-2024-approved-outro-aesthetics-selecting-templates-any-budget/"><u>[New] 2024 Approved Outro Aesthetics Selecting Templates, Any Budget</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-essential-steps-for-elevating-wmm-content-on-vimeo-platform/"><u>[Updated] 2024 Approved Essential Steps for Elevating WMM Content on Vimeo Platform</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-script-to-screenplay-expert-video-editing-insights/"><u>[Updated] 2024 Approved From Script to Screenplay Expert Video Editing Insights</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-vision-to-reality-personal-animation-mastery/"><u>[Updated] 2024 Approved From Vision to Reality Personal Animation Mastery</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-female-gamers-faction-yts-10-stars-for-2024/"><u>[Updated] Female Gamers Faction YT's #10 Stars for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-freely-accessible-cutting-edge-video-editor-tools/"><u>[Updated] In 2024, Freely Accessible Cutting Edge Video Editor Tools</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-graphicgrind-studio/"><u>[Updated] In 2024, GraphicGrind Studio</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-guaranteed-safe-approaches-for-turning-youtube-songs-into-mp3-files/"><u>[Updated] In 2024, Guaranteed Safe Approaches for Turning YouTube Songs Into MP3 Files</u></a></li>
-<li><a href="https://article-tips.techidaily.com/2024-approved-mastering-seamless-inshot-video-cuts/"><u>2024 Approved Mastering Seamless Inshot Video Cuts</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-precision-in-every-frame-top-9-tips-for-vr-filmmaking/"><u>2024 Approved Precision in Every Frame Top 9 Tips for VR Filmmaking</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/a-beginners-guide-seamlessly-installing-the-latest-drivers-for-asus-maximus-x-hero-motherboard/"><u>A Beginner's Guide: Seamlessly Installing the Latest Drivers for ASUS Maximus X Hero Motherboard</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/best-complimentary-media-player-apps-for-macos-catalina-and-mojave-available-to-download-now/"><u>Best Complimentary Media Player Apps for macOS Catalina and Mojave, Available to Download Now</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/in-2024-from-simple-to-sophisticated-mastering-zd-softs-video-recording-techniques/"><u>In 2024, From Simple to Sophisticated Mastering ZD Soft's Video Recording Techniques</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-a-network-locked-sony-xperia-1-v-phone-by-drfone-android/"><u>In 2024, How to Unlock a Network Locked Sony Xperia 1 V Phone?</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-phone-pics-to-professional-videos-selecting-the-top-9-enhancers/"><u>[New] 2024 Approved From Phone Pics to Professional Videos Selecting the Top 9 Enhancers</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-5-top-android-ps2-game-simulators/"><u>[New] 5 Top Android PS2 Game Simulators</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-flip-it-right-youtube-video-retrospectives-with-tips-for-2024/"><u>[New] Flip It Right YouTube Video Retrospectives (With Tips!) For 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-free-youtube-endings-that-stand-out-ranked-for-2024/"><u>[New] Free YouTube Endings That Stand Out - Ranked for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-secure-youtube-channels-audible-content/"><u>[New] In 2024, How to Secure YouTube Channels' Audible Content</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-bland-to-brilliant-transform-your-youtube-channels-image/"><u>[Updated] 2024 Approved From Bland to Brilliant Transform Your YouTube Channels' Image</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-free-easy-to-use-online-editors-for-quick-postings-for-2024/"><u>[Updated] Free, Easy-to-Use Online Editors for Quick Postings for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-growth-hackers-guide-the-ultimate-list-of-top-strategies-to-retain-youtube-viewers/"><u>[Updated] In 2024, Growth Hackers Guide The Ultimate List of Top Strategies to Retain YouTube Viewers</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-guide-to-incorited-visuals-in-text-without-cost/"><u>[Updated] In 2024, Guide to Incorited Visuals in Text Without Cost</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/common-issues-with-youtube-shorts-thumbnails/"><u>Common Issues with YouTube Shorts Thumbnails</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/free-mindset-tunes-no-copyrights/"><u>Free Mindset Tunes - No Copyrights</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-does-life360-notify-when-you-log-out-on-vivo-y100i-drfone-by-drfone-virtual-android/"><u>In 2024, Does Life360 Notify When You Log Out On Vivo Y100i? | Dr.fone</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/in-2024-igtv-content-size-requirements/"><u>In 2024, IGTV Content Size Requirements</u></a></li>
+<li><a href="https://article-tips.techidaily.com/in-2024-video-filter-installation-in-zoom-the-simplified-method/"><u>In 2024, Video Filter Installation in Zoom The Simplified Method</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/recycle-bin-deleted-items-and-partial-file-restoration/"><u>Recycle Bin, Deleted Items, and Partial File Restoration.</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/transcodez-vos-videos-mov-a-mxf-sans-frais-avec-loutil-de-conversion-en-ligne-gratuit-de-movavi/"><u>Transcodez Vos Vidéos MOV À MXF Sans Frais Avec L'outil De Conversion en Ligne Gratuit De Movavi</u></a></li>
+<li><a href="https://win-answers.techidaily.com/water-management-efficient-water-management-techniques-such-as-rainwater-harvesting-drip-irrigation-and-contour-farming-are-integral-to-agroecology-aiming-t360/"><u>Water Management: Efficient Water Management Techniques Such as Rainwater Harvesting, Drip Irrigation, and Contour Farming Are Integral to Agroecology, Aiming to Optimize Water Usage and Reduce Erosion and Nutrient Runoff</u></a></li>
 </ul></div>
 

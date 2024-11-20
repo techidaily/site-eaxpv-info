@@ -1,7 +1,7 @@
 ---
 title: "Review of the NZXT Lift 2 SMM: The High-Speed Gamer's Ultimate Choice"
-date: 2024-08-30T16:46:34.048Z
-updated: 2024-08-31T16:46:34.048Z
+date: 2024-11-18T01:00:31.759Z
+updated: 2024-11-19T21:23:39.767Z
 tags:
   - product-reviews
 categories:
@@ -83,6 +83,13 @@ Expand
 
 [$40 at Amazon](https://www.amazon.com/NZXT-Lightweight-Symmetrical-Polling-Switches/dp/B0CSSSRM5M/ref=sr%5F1%5F2?crid=2CPMT6RVPAZPS&dib=eyJ2IjoiMSJ9.5dwYpoj2oGw2bFFmLr8Llg.EeerssqflqKgjzgem37LyQ2A8tQZ%5Fdnon0JpRwT8M80&dib%5Ftag=se&keywords=nzxt%2Blift%2B2%2Bsymm&qid=1710384602&sprefix=nzxt%2Blift%2Caps%2C113&sr=8-2&th=1&tag=hotoge-20&ascsubtag=UUhtgUeUpU2002209&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fnzxt-lift-2-symm-review%2F&asc%5Fcampaign=Authority) [$49.99 at Newegg](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fclick.linksynergy.com%2Fdeeplink%3Fid%3D2QzUaswX1as%26mid%3D44583%26u1%3DUUhtgUeUpU2002209%26murl%3Dhttps%253A%252F%252Fwww.newegg.com%252Fareyouahuman%253Freferer%253Dhttps%25253A%25252F%25252Fwww.newegg.com%25252Fp%25252FN82E16826292010%26ourl%3Dhttps%253A%252F%252Fwww.newegg.com%252Fp%252FN82E16826292010) [$49.99 at nzxt](https://nzxt.sjv.io/c/156932/1728201/20004?subId1=htglifttwosymmmousereview&u=https%3A%2F%2Fnzxt.com%2Fproduct%2Flift-2-symm) 
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134228/18498" target="_top" id="2134228">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134228" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134228/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Design: One Shell Of a Mouse** 
 
 ![Bottom view of the Lift 2 Symm](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/03/bottom-view-of-the-lift-2-symmjpg_53489366453_o.jpg) 
@@ -103,14 +110,6 @@ Jerome Thomas / How-To Geek
 
 ![Left view of the Lift 2 Symm](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/03/left-view-of-the-lift-2-symm-showing-the-side-mouse-buttonsjpg_53489366348_o.jpg) 
 
-<!-- affiliate ads begin -->
-<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
-<span class="text-ad-content">
-	#1 Rated Parental Control Software.<br/>
-	Monitor & Control all PC Activity!<br/>
-		<cite style="color:green">sentrypc.com/parental-controls/</cite>
-	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Jerome Thomas / How-To Geek
 
  Although the NZXT Lift 2 Symm can handle any type of game, it should shine in the world of first-person shooter (FPS) games. I played my old FPS standbys, "CounterStrike 2" and "Left4Dead2," along with my new favorite roleplaying game (RPG), "Baldur's Gate 3."
@@ -122,15 +121,16 @@ Jerome Thomas / How-To Geek
  One thing that surprised me: The Lift 2 Symm has no LED lighting. It won't be glowing on your desk. But in fairness, neither does the Razer DeathAdder.
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1880972/19272" target="_top" id="1880972">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880972" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880972/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **CAM Software: For all your NZXT Gear** 
 
 ![Front view of the NZXT Lift 2 Symm](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/03/front-view-of-the-lift-2-symmjpg_53489630805_o.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Jerome Thomas / How-To Geek
 
  I'm not one to stick to a single brand when building a gaming PC. If you are (or if you just happen to have a few NZXT components), you'll like controlling all of them from the [NZXT CAM software](https://nzxt.sjv.io/c/156932/1728201/20004?subId1=htgsoftwarecamproduct&u=https%3A%2F%2Fnzxt.com%2Fsoftware%2Fcam). It has some great features for making the NZXT Lift 2 Symm your own.
@@ -142,15 +142,23 @@ Jerome Thomas / How-To Geek
  Once you have the mouse the way you want it, you can save the settings to one of five profile slots. You also go back to the default profile anytime, so there's no need to worry about remembering the factory settings.
 
 <!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://25home.pxf.io/c/5597632/2148645/16836" target="_top" id="2148645">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148645" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148645/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **Should You Buy the NZXT Lift 2 Symm?** 
 
 ![NZXT Lift 2 Symm mouse in front of box](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/03/nzxt-lift-2-symm-mouse-in-front-of-boxjpg_53489216886_o.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
+<a href="https://aligracehair.sjv.io/c/5597632/1918703/19272" target="_top" id="1918703">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918703" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918703/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 Jerome Thomas / How-To Geek
 
  There's no doubt that the [NZXT Lift 2 Symm](http://www.amazon.com/NZXT-Lightweight-Symmetrical-Polling-Switches/dp/B0CSSSRM5M/ref=sr%5F1%5F2?crid=2CPMT6RVPAZPS&dib=eyJ2IjoiMSJ9.5dwYpoj2oGw2bFFmLr8Llg.EeerssqflqKgjzgem37LyQ2A8tQZ%5Fdnon0JpRwT8M80&dib%5Ftag=se&keywords=nzxt%2Blift%2B2%2Bsymm&qid=1710384602&sprefix=nzxt%2Blift%2Caps%2C113&sr=8-2&th=1&tag=hotoge-20&ascsubtag=UUhtgUeUpU2002209&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fnzxt-lift-2-symm-review%2F&asc%5Fcampaign=Authority) is a good gaming mouse. And if you are thinking about upgrading from the earlier version, it's probably worth it. I'd say the same if you are trying to stick to NZXT products for your new PC build.
@@ -161,9 +169,6 @@ Jerome Thomas / How-To Geek
 
 ![NZXT Lift 2 Gaming Mouse](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/nzxt-lift-2-gaming-mouse.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 #####  NZXT Lift 2 Symm
 
 7/ 10 
@@ -222,8 +227,6 @@ Expand
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -231,4 +234,22 @@ Expand
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-growth-acceleration-on-youtube-expert-tips-for-video-partnerships/"><u>[New] 2024 Approved Growth Acceleration on YouTube Expert Tips for Video Partnerships</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-getting-started-on-youtube-setting-up-and-generating-income-for-2024/"><u>[New] Getting Started on YouTube Setting Up & Generating Income for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-strategies-to-create-gripping-documentary-scenes/"><u>[New] Strategies to Create Gripping Documentary Scenes</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-what-actions-can-i-take-if-my-content-is-swiftly-stripped-by-fb-for-2024/"><u>[New] What Actions Can I Take if My Content Is Swiftly Stripped by FB for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-flix-fortune-hashtags-for-high-impact-low-length-video-content/"><u>[Updated] 2024 Approved Flix Fortune Hashtags for High Impact, Low-Length Video Content</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-going-against-gravity-innovative-ways-to-rewind-youtube-content/"><u>[Updated] 2024 Approved Going Against Gravity Innovative Ways to Rewind YouTube Content</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-font-powerhouses-for-captivating-youtube-thumbnails-for-2024/"><u>[Updated] Font Powerhouses for Captivating YouTube Thumbnails for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-from-isolated-viewers-to-shared-experiences-online-for-2024/"><u>[Updated] From Isolated Viewers to Shared Experiences Online for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-guide-clearing-up-youtube-watchlater-stored-list-for-2024/"><u>[Updated] Guide Clearing Up YouTube Watchlater Stored List for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-innovative-templates-for-stellar-youtube-video-decks/"><u>[Updated] In 2024, Innovative Templates for Stellar YouTube Video Decks</u></a></li>
+<li><a href="https://win11.techidaily.com/essential-steps-to-resolve-security-error-in-windows-11/"><u>Essential Steps to Resolve Security Error in Windows 11</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-tailoring-teammate-backgrounds-on-teams-chat/"><u>In 2024, Tailoring Teammate Backgrounds on Teams Chat</u></a></li>
+<li><a href="https://fox-where.techidaily.com/professionelle-datentragerkopierlosung-mit-unterstutzung-von-windows-servern-200320082012-software-empfehlungen/"><u>Professionelle Datenträgerkopierlösung Mit Unterstützung Von Windows Servern 2003/2008/2012 - Software-Empfehlungen</u></a></li>
+<li><a href="https://some-skills.techidaily.com/speak-the-code-vr-lingo-essentials-for-2024/"><u>Speak the Code VR Lingo Essentials for 2024</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/tips-of-transferring-messages-from-tecno-pop-7-pro-to-iphone-1415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Tips of Transferring Messages from Tecno Pop 7 Pro to iPhone 14/15 | Dr.fone</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Alpha Freewrite Evaluation: A Serious Approach to Uninterrupted Composition"
-date: 2024-08-30T16:46:47.839Z
-updated: 2024-08-31T16:46:47.839Z
+date: 2024-11-12T18:42:03.105Z
+updated: 2024-11-19T22:57:11.128Z
 tags:
   - product-reviews
 categories:
@@ -58,6 +58,13 @@ Alpha is a dedicated drafting device for anyone who wants to write without the d
 
 [$349 at Freewrite](https://getfreewrite.com/products/alpha) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144279/7443" target="_top" id="2144279">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144279" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144279/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  The Alpha Hardware Is Big and Hollow
 
 ![Freewrite Alpha from the side with the kickstand engaged](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/12/freewrite-alpha-from-the-side-with-the-kickstand-engaged.JPG) 
@@ -74,6 +81,13 @@ Tyler Hayes / How-To Geek
 
 ![Freewrite Alpha on the left next to an iPad Air](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/12/freewrite-alpha-on-the-left-next-to-an-ipad-air.JPG) 
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137212/26400" target="_top" id="2137212">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137212" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137212/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Tyler Hayes / How-To Geek
 
 The Alpha (left) next to the newest iPad Air
@@ -88,16 +102,17 @@ The Alpha (left) next to the newest iPad Air
 
  There's no single point of failure with the hardware. It's the total package that doesn’t feel like a $349 product. The limited functionality of the hardware also doesn’t offer any further convincing arguments for potential buyers.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
 ##  The Interface Limits Productivity More Than Distractions Do
 
 ![Person holding the Freewrite Alpha](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/12/person-holding-the-freewrite-alpha.JPG) 
 
 <!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 Tyler Hayes / How-To Geek
 
  If you’re seeking a simple device, the equivalent of a digital typewriter, then you’re in luck. There's not a hint of anything to do here other than type. Even the sparse settings section prevented me from noodling around there for more than a few seconds.
@@ -110,9 +125,6 @@ Tyler Hayes / How-To Geek
 
 ![Freewrite Alpha's screen with direct light hitting it](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/12/freewrite-alpha-s-screen-with-direct-light-hitting-it.JPG) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Tyler Hayes / How-To Geek
 
  Even with the user manual by my side, it was a little worrying to press the key combinations because I was scared to get myself into a place on the screen I wasn’t expecting. Once I pressed the page-up button and was jolted to another part of my text. Without any dedicated arrow keys, it felt much harder to navigate around and back to my spot than it probably should have been. Even getting lost in my text was a concern.
@@ -121,17 +133,10 @@ Tyler Hayes / How-To Geek
 
  Beyond saving your documents to Postbox over its Wi-Fi connection, the Alpha can sync documents to Google Drive, OneDrive, Dropbox, or Evernote. I connected my Google Drive account and verified that it worked. My work was saved as a .docx in Drive, so it wasn't a native Google Doc file, but it still showed up. You can't sync via Bluetooth to a phone or anything, but the included USB-C cable can be used to sync your work to a computer if you're in the woods, completely offline.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Should You Buy the Freewrite Alpha?
 
 ![Freewrite Alpha on a table](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/12/freewrite-alpha-on-a-table.JPG) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 Tyler Hayes / How-To Geek
 
  Much like the biblical suggestion to cut out your eye if it causes you to sin, the [Freewrite Alpha](http://getfreewrite.com/products/alpha) feels like a self-inflicted punishment for people who have no self-control over digital distractions. By choosing to use it, you’ll either come up with something to say or you will be forced to stare at a monochrome screen and keyboard until you admit defeat and give up.
@@ -149,8 +154,12 @@ Tyler Hayes / How-To Geek
 ![Alpha Raven Black](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/alpha-raven-black.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136616/26400" target="_top" id="2136616">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136616" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136616/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 #####  Freewrite Alpha
 
 6/ 10 
@@ -165,8 +174,6 @@ Alpha is a dedicated drafting device for anyone who wants to write without the d
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -174,4 +181,20 @@ Alpha is a dedicated drafting device for anyone who wants to write without the d
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-how-to-record-screen-on-huawei-mate-10p10-using-a-built-in-recorder/"><u>[New] In 2024, How to Record Screen On Huawei Mate 10/P10 Using a Built-In Recorder</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-unlocking-ez-grabber-a-quick-guide-to-downloading-setting-up-for-2024/"><u>[New] Unlocking EZ Grabber - A Quick Guide to Downloading, Setting Up for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-create-a-channel-that-dominates-the-business-world/"><u>[Updated] 2024 Approved How to Create a Channel that Dominates the Business World</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-flixfortress-over-a-hundred-channels-of-fortitude-for-2024/"><u>[Updated] FlixFortress Over a Hundred Channels of Fortitude for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-from-template-to-tutorial-gamers-channel-design-for-2024/"><u>[Updated] From Template to Tutorial Gamers' Channel Design for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-from-youtubes-realm-to-igtvs-domain-3-ways-for-2024/"><u>[Updated] From YouTube's Realm to IGTV's Domain (3 Ways) for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-safely-capture-your-favorite-youtube-audio-for-free/"><u>[Updated] In 2024, How to Safely Capture Your Favorite YouTube Audio for Free</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-steps-for-modifying-your-social-network-cover-pictorial-for-2024/"><u>[Updated] Steps for Modifying Your Social Network Cover Pictorial for 2024</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-unlocking-video-popularity-a-comprehensive-guide-to-tagging-on-youtube/"><u>2024 Approved Unlocking Video Popularity A Comprehensive Guide to Tagging on YouTube</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/complete-guide-on-unlocking-iphone-12-with-a-broken-screen-drfone-by-drfone-ios/"><u>Complete Guide on Unlocking iPhone 12 with a Broken Screen? | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/discover-the-elite-list-of-mac-devices-insights-comprehensive-guide/"><u>Discover the Elite List of Mac Devices : Insights Comprehensive Guide</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/experience-ai-artistry-for-free-with-dall-e-3-and-microsoft-bing/"><u>Experience AI Artistry for Free with DALL-E 3 & Microsoft Bing</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/usb-selective-suspend-everything-you-need-to-know-about-it/"><u>USB Selective Suspend – Everything You Need to Know About It</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Tutorial: Understanding and Controlling Internet Use with Windows 지갑"
-date: 2024-08-30T16:48:28.719Z
-updated: 2024-08-31T16:48:28.719Z
+date: 2024-11-15T22:57:55.651Z
+updated: 2024-11-20T00:56:47.441Z
 tags:
   - desktop
 categories:
@@ -27,9 +27,18 @@ thumbnail: https://thmb.techidaily.com/316b7f440a48066f0155d24f5ae2cf9cf3a70b004
  Monitoring your data usage on Windows can be beneficial if you're on a metered connection or worried about exceeding data caps. This allows you to adjust your usage patterns to ensure you're using your data effectively. Here's how.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<span id="1983474">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983474.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983474">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983474.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983474%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983474/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ##  Use Task Manager to Keep an Eye on Data Usage
 
  In [Task Manager](https://some-skills.techidaily.com/new-unveiling-the-secret-sauce-for-massive-tiktok-content-grabs/), you can monitor how much data the apps on your computer use in real time. This can help you see which programs are consuming too much bandwidth or slowing down the network.
@@ -38,20 +47,17 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
 ![Opening Task Manager using the Taskbar menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/open-task-manager-using-taskbar-windows-11.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
-<!-- affiliate ads end -->
  In Task Manager, select the “App History” tab on the left-side menu. You'll see the usage statistics of the apps running on your computer on the right. Look at the Networkcolumn to see how much data (in MB) they're using.
 
 ![Viewing app history in Task Manager.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/app-history-task-manager-windows-11.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
+<a href="https://wigfever.sjv.io/c/5597632/2014851/22899" target="_top" id="2014851">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014851" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014851/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ##  Monitor Your Data Usage With Advanced Network Settings
 
  If you have limited data or your ISP charges you extra for exceeding your data cap, you can monitor your overall usage in Advanced Network Settings.
@@ -59,6 +65,13 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
  To do that, press Win+i to open the Settings app. Then, head to Network and Internet > Advanced Network Settings > Data Usage. You will see your total data usage in the top left of the right panel.
 
 ![Viewing overall data usage in advanced network settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/data-usage-advanced-network-settings.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075476/7443" target="_top" id="2075476">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075476" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075476/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  You can choose the period to check the statistics by clicking the “Filter By” drop-down in the top right. You can choose between 24 Hours, 7 Days, and 30 Days.
 
@@ -72,10 +85,14 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
 ![Setting data limits in advanced network settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/set-data-limit-windows-11.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
-<!-- affiliate ads end -->
  This is not a hard cap on data usage that Windows will enforce, but you will be warned when you reach your limit. This will allow you to act based on your data plan.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016165/19272" target="_top" id="2016165">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016165" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016165/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Check Your Data Usage Using the Resource Monitor
 
@@ -86,8 +103,12 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 ![The "Network" tab of the Resource Monitor.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/resource-monitor-network-tab-windows-11.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
+<a href="https://appsumo.8odi.net/c/5597632/2151869/7443" target="_top" id="2151869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151869/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ##  Monitor Your Data Usage With NetworkUsageView
 
  Another handy utility you can use to monitor data usage on your computer is NetworkUsageView. It gets this information every hour from SRUDB.dat, which is stored on your Windows computer. This file stores important information about how apps, programs, and services are utilizing resources on your PC, including network resources.
@@ -112,8 +133,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -121,4 +140,18 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-premium-choices-for-unparalleled-video-communication/"><u>[New] 2024 Approved Premium Choices for Unparalleled Video Communication</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-how-to-mute-google-meet-for-2024/"><u>[New] How to Mute Google Meet for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-smart-tips-for-gif-lovers-iphone-edition-for-2024/"><u>[New] Smart Tips for GIF Lovers IPhone Edition for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-guaranteed-method-to-keep-youtube-shorts-out-of-sight-for-2024/"><u>[Updated] Guaranteed Method to Keep YouTube Shorts Out of Sight for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-football-vids-premier-insights-into-youtube-tracks/"><u>[Updated] In 2024, Football Vids Premier Insights Into YouTube Tracks</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-live-chat-to-large-screen-upload-twitch-streams-to-youtube/"><u>[Updated] In 2024, From Live Chat to Large Screen Upload Twitch Streams to YouTube</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-tailor-youtube-thumbnails-for-maximum-impact/"><u>[Updated] In 2024, How to Tailor YouTube Thumbnails for Maximum Impact</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-next-level-entertainment-exclusive-windows-10-gaming-and-apps-for-2024/"><u>[Updated] Next-Level Entertainment Exclusive Windows 10 Gaming & Apps for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-soundtrack-your-youtube-videos-7-free-audio-selections/"><u>[Updated] Soundtrack Your YouTube Videos 7 Free Audio Selections</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/gpu-nostalgia-update/"><u>GPU Nostalgia Update</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/the-minimum-width-of-scaffold-platforms-should-be-at-least-18-inches-as-per-osha-standards/"><u>The Minimum Width of Scaffold Platforms Should Be at Least 18 Inches as per OSHA Standards.</u></a></li>
+</ul></div>
 

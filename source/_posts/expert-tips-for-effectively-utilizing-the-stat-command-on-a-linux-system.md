@@ -1,7 +1,7 @@
 ---
 title: Expert Tips for Effectively Utilizing the 'Stat' Command on a Linux System
-date: 2024-08-30T16:48:54.273Z
-updated: 2024-08-31T16:48:54.273Z
+date: 2024-11-12T23:23:33.099Z
+updated: 2024-11-19T22:07:50.523Z
 tags:
   - desktop
 categories:
@@ -25,6 +25,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  The Linux `stat` command shows you much more detail than `ls` does. Take a peek behind the curtain with this informative and configurable utility. We'll show you how to use it.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135413/19272" target="_top" id="2135413">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135413" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135413/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  stat Takes You Behind the Scenes
 
  The `ls `command is great at what it does---and it does a lot---but with Linux, it seems that there's always a way to go deeper and see what lies beneath the surface. And often, it isn't just a case of lifting the edge of the carpet. You can rip up the floorboards and then dig a hole. You can peel Linux like an onion.
@@ -35,9 +42,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  Like ls, the `stat` command has a lot of options. This makes it a great candidate for the use of aliases. Once you have discovered a particular set of options that make `stat` give you the output that you want, [wrap it in an alias or shell function](https://hardware-help.techidaily.com/download-the-latest-logitech-camera-drivers-at-no-cost-for-windows-users/). This makes it much more convenient to use, and you don't have to remember an arcane set of command-line options.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  A Quick Comparison
 
  Let's use ls to give us a long listing (`-l` option) with human-readable file sizes (-h option):
@@ -46,9 +50,6 @@ ls -lh ana.h
 
 ![ls -lh ana.h in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/12/7-4.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  From left to right, the information that ls provides is:
 
 * The very first character is a hyphen "-" and this tells us the file is a regular file and not a socket, symlink, or another type of object.
@@ -85,8 +86,12 @@ stat ana.h
 * **Birth**: Reserved to show the original creation date of the file, but this is not implemented in Linux.
 
 <!-- affiliate ads begin -->
-<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1959759/19272" target="_top" id="1959759">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959759" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959759/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ##  Understanding the Timestamps
 
  The timestamps are timezone sensitive. The `-0500` at the end of each line shows that this file was created on a computer in a [Coordinated Universal Time](https://en.wikipedia.org/wiki/Coordinated%5FUniversal%5FTime) (UTC) timezone that is five hours ahead of the timezone of the current computer. So this computer is five hours behind the computer that created this file. In fact, the file was created on a UK timezone computer, and we're looking at it here on a computer in the US Eastern Standard time zone.
@@ -103,16 +108,17 @@ stat ana.c
 
 ![chnod +w ana.c in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/12/9-3.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  The change timestamp has been updated, but the modified one has not.
 
  The modified timestamp will only be updated if the contents of the file are changed. The change timestamp is updated for both content changes and attribute changes.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
+<a href="https://review-au.sjv.io/c/5597632/2098701/14409" target="_top" id="2098701">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098701" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098701/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ##  Using Stat With Multiple Files
 
  To have stat report on several files at once, pass the filenames to `stat` on the command line:
@@ -121,9 +127,6 @@ stat ana.h ana.o
 
 ![stat ana.h ana.o in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/12/2-5.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
-<!-- affiliate ads end -->
  To use `stat` on a set of files, use pattern matching. The question mark "?" represents any single character, and the asterisk "\*" represents any string of characters. We can tell `stat` to report on any file called "ana" with a single letter extension, with this command:
 
 stat ana.?
@@ -131,11 +134,12 @@ stat ana.?
 ![stat ana.? in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/12/3-3.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2111995/7443" target="_top" id="2111995">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111995" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111995/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+
 ##  Using stat to Report on Filesystems
 
 `stat` can report on the status of filesystems, as well as the status of files. The `-f` (filesystem) option tells `stat` to report on the filesystem that the file resides on. Note we can also pass a directory such as "/" to `stat` instead of a filename.
@@ -143,6 +147,13 @@ stat ana.?
 stat -f ana.c
 
 ![stat -f ana.c ina terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/12/4-3.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148650/16836" target="_top" id="2148650">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148650" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148650/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  The information `stat` gives us is:
 
@@ -180,9 +191,6 @@ stat -L code.c
 
 ![stat -L code.c  in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/12/11-1.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
  This is now showing the file details for the file pointed to by the symbolic link. But note that the filename is still given as `code.c`. This is the name of the link, not the target file. This happens because this is the name we passed to `stat` on the command line.
 
 ##  The Terse Report
@@ -260,9 +268,23 @@ stat --printf="File %n is %s bytes, and is a %F\n" code.c ana/ana.?
 
 ![stat --printf="File %n is %s bytes, and is a %F\n" code.c ana/ana.? in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/12/13.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134497/18498" target="_top" id="2134497">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134497" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134497/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  The report for each file is listed on a new line, which is what we requested. The filename, file size, and file type are provided for us.
 
  Custom formats give you access to even more data elements than are included in the standard `stat` output.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151889/7443" target="_top" id="2151889">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151889" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151889/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Fine Grain Control
 
@@ -280,8 +302,6 @@ stat --printf="File %n is %s bytes, and is a %F\n" code.c ana/ana.?
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -289,4 +309,24 @@ stat --printf="File %n is %s bytes, and is a %F\n" code.c ana/ana.?
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-going-against-gravity-reversing-your-vids/"><u>[New] 2024 Approved Going Against Gravity Reversing Your Vids</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/new-a-compreehensive-guide-to-youtube-thumbnail-creation-mac/"><u>[New] A Compreehensive Guide to YouTube Thumbnail Creation (Mac)</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-from-genres-to-gems-building-a-personalized-youtube-music-mix-onlinemobile-for-2024/"><u>[New] From Genres to Gems Building a Personalized YouTube Music Mix Online/Mobile for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-from-raw-footage-to-highlight-hits-for-2024/"><u>[New] From Raw Footage to Highlight Hits for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-from-storyboard-to-screenplay-a-youtube-video-writers-journey-for-2024/"><u>[New] From Storyboard to Screenplay A YouTube Video Writer's Journey for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-guide-to-youtubes-latest-income-strategies-for-2024/"><u>[New] Guide to YouTube's Latest Income Strategies for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-grab-free-video-profile-backgrounds/"><u>[Updated] 2024 Approved Grab Free Video Profile Backgrounds</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-get-free-views-on-youtube-2-easy-ways/"><u>[Updated] 2024 Approved How to Get Free Views on YouTube [2 Easy Ways]</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-8-fastest-growing-youtube-channel-for-2024/"><u>[Updated] 8 Fastest-Growing YouTube Channel for 2024</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/2023-how-to-check-tiktok-video-copyright-before-uploading/"><u>2023 | How to Check Tiktok Video Copyright Before Uploading?</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/5-ways-to-transfer-music-from-apple-iphone-8-plus-to-android-drfone-by-drfone-transfer-from-ios/"><u>5 Ways to Transfer Music from Apple iPhone 8 Plus to Android | Dr.fone</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/comprehensive-screencast-insights-for-creators/"><u>Comprehensive Screencast Insights for Creators</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-fake-snapchat-location-without-jailbreak-on-nokia-g22-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fake Snapchat Location without Jailbreak On Nokia G22 | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-tips-and-tricks-for-apple-id-locked-issue-on-iphone-13-pro-max-by-drfone-ios/"><u>In 2024, Tips and Tricks for Apple ID Locked Issue On iPhone 13 Pro Max</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/pixel-9xl-vs-iphone-2023-capturing-the-winning-shots-and-unexpected-results-revealed/"><u>Pixel 9XL vs iPhone 2023: Capturing the Winning Shots & Unexpected Results Revealed</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/tailored-gaming-experience-without-cross-play-in-apex-for-2024/"><u>Tailored Gaming Experience without Cross-Play in Apex for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/the-future-is-in-your-cloud-price-rankings-and-bargains-2024/"><u>The Future Is in Your Cloud Price Rankings & Bargains 2024</u></a></li>
+</ul></div>
 

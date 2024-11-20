@@ -1,7 +1,7 @@
 ---
 title: Upgrading to iPhone 16 Pro - Is It Worth Leaving Behind the iPhone ˈ|ZDNET Expert Review
-date: 2024-10-27T18:39:43.524Z
-updated: 2024-11-02T13:25:01.890Z
+date: 2024-11-18T21:27:21.174Z
+updated: 2024-11-19T21:08:49.659Z
 tags:
   - apple
 categories:
@@ -53,6 +53,19 @@ Apple's artificial intelligence push, aptly named Apple Intelligence, will be av
 
 To run smoothly, the Apple Intelligence features require an A17 chip or newer and at least 8GB of RAM, but the iPhone 14 Pro has the A16 chip and only 6GB of RAM. The iPhone 16 Pro features an A18 Pro chip and 8GB of RAM, making it a good device to run Apple's AI features. 
 
+<!-- affiliate ads begin -->
+<span id="1983582">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983582.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983582">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983582.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983582%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983582/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 2\. You'd like to get your hands on the bigger screen
 
 Apple has thinned out the iPhone 16 Pro's bezels to the bare minimum and stretched the Pro models' displays to 6.3 and 6.9 inches for the 16 Pro and 16 Pro Max, respectively. This gives users more screen real estate to watch videos, play games, view and edit documents, and read shared screens on video conferences.
@@ -62,10 +75,10 @@ Apple has thinned out the iPhone 16 Pro's bezels to the bare minimum and stretch
 The larger smartphone also means that the iPhone 16 Pro has a larger battery than the 14 Pro, at 3,355 mAh compared to 3,200 mAh. But even without the welcome battery upgrade, the new Pro models support faster charging than ever. The iPhone 16 Pro supports 40W wired charging and 20W of MagSafe charging, so if you find the iPhone 14 Pro's charging slow, it could be time to upgrade.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080347/19272" target="_top" id="2080347">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080347" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1918666/19272" target="_top" id="1918666">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918666" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080347/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918666/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 3\. You love taking beautiful photos
@@ -79,22 +92,21 @@ If you love taking photos with your smartphone, the camera upgrades alone may be
 [Pre-order the iPhone 16 Pro View now at Apple](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-iphone%2Fiphone-16-pro&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1938136">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1938136.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1938136">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938136.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938136%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938136/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## You should buy (or keep) the iPhone 14 Pro if…
 
 Kerry Wan/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123733/7443" target="_top" id="2123733">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123733" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123733/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 1\. You'd rather wait for bigger upgrades
 
@@ -103,6 +115,13 @@ Even with the Apple Intelligence features, the iPhone 16 seems to be an incremen
 **Also: [iPhone 14 Pro review: More innovation for the same price as the iPhone 13 Pro](https://www.zdnet.com/article/iphone-14-pro-packs-a-lot-more-innovation-for-the-same-price-as-last-year/)**
 
 [Rumors](https://9to5mac.com/2024/07/12/iphone-16-new-features-worth-the-wait/) suggest the iPhone 17 may feature more dramatic design and functionality updates, making it a worthwhile jump. Besides, upgrading after two generations can be costly, which brings me to my next point. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151894/7443" target="_top" id="2151894">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151894" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151894/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 2\. You just finished paying it off
 
@@ -113,13 +132,6 @@ One of the biggest reasons to hold off on an upgrade is financial. The iPhone 14
 As an iPhone 14 Pro Max user, I'm still pretty happy with how my iPhone performs, its battery life, and charging time. While USB-C charging would be convenient, I don't see myself springing for the new iPhone 16 Pro, though I may go for the iPhone 17 when it's launched.
 
 [iPhone 14 Pro (Pre-owned) $627.45 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BN95FRW9%3FlinkCode%3Dogi%26th%3D1%26psc%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C898e5dd5-72c4-498c-8554-54fe4801040e%7Cdtp&dtb=1)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123728/7443" target="_top" id="2123728">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123728" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123728/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Alternatives to consider
 
@@ -155,19 +167,19 @@ As an iPhone 14 Pro Max user, I'm still pretty happy with how my iPhone performs
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-streams-to-statements-decoding-the-3-step-process-for-calculating-youtube-earnings/"><u>[New] 2024 Approved From Streams to Statements Decoding the 3-Step Process for Calculating YouTube Earnings</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-find-your-digital-companion-the-top-6-youtube-personality-puzzles/"><u>[New] In 2024, Find Your Digital Companion The Top 6 YouTube Personality Puzzles</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/new-in-2024-innovative-methods-for-creating-luts/"><u>[New] In 2024, Innovative Methods for Creating LUTs</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-ftp-to-feed-the-complete-guide-to-uploading-to-youtube/"><u>[Updated] 2024 Approved From FTP to Feed The Complete Guide to Uploading to YouTube</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-go-live-in-style-a-detailed-guide-to-youtubes-full-sphere-videos-for-2024/"><u>[Updated] Go Live in Style A Detailed Guide to YouTube's Full-Sphere Videos for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-guide-to-structuring-youtube-content-with-separate-chapters-for-2024/"><u>[Updated] Guide to Structuring YouTube Content with Separate Chapters for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-in-2024-step-by-step-guide-to-creating-a-peak-vr-environment/"><u>[Updated] In 2024, Step-by-Step Guide to Creating a Peak VR Environment</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-ultimate-compilation-of-leading-9-mobile-meeting-services-ios-android/"><u>[Updated] In 2024, Ultimate Compilation of Leading 9 Mobile Meeting Services (iOS, Android)</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-revised-interview-guidelines-for-captivating-listeners/"><u>[Updated] Revised Interview Guidelines for Captivating Listeners</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-premier-ranking-of-outstanding-stop-motion-films/"><u>2024 Approved The Premier Ranking of Outstanding Stop-Motion Films</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-iphone-6-without-swiping-up-6-ways-by-drfone-ios/"><u>In 2024, How To Unlock iPhone 6 Without Swiping Up? 6 Ways</u></a></li>
-<li><a href="https://program-issues.techidaily.com/resolved-how-to-stop-fortnite-from-freezing-on-your-computer-a-comprehensive-guide/"><u>Resolved: How to Stop Fortnite From Freezing on Your Computer - A Comprehensive Guide</u></a></li>
-<li><a href="https://apple-account.techidaily.com/top-notch-solutions-for-disabled-apple-id-on-apple-iphone-xs-max-making-it-possible-by-drfone-ios/"><u>Top-Notch Solutions for Disabled Apple ID On Apple iPhone XS Max Making It Possible</u></a></li>
-<li><a href="https://win-docs.techidaily.com/1728474627468-windows-11usb/"><u>Windows 11のデータバックアップ:無料ツールでUSBメモリへ転送手順</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-enhance-your-vlogs-pacing-using-jump-cuts/"><u>[New] In 2024, How to Enhance Your Vlog's Pacing Using Jump Cuts</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-boost-traffic-with-these-essential-hashtags-for-youtube-gamers-for-2024/"><u>[Updated] Boost Traffic with These Essential Hashtags for YouTube Gamers for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-capturing-yesterdays-essence-your-path-from-pixel-to-playback/"><u>[Updated] Capturing Yesterday's Essence Your Path From Pixel to Playback</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-enhance-your-storytelling-mastering-the-green-screen-on-instagram-for-2024/"><u>[Updated] Enhance Your Storytelling Mastering the Green Screen on Instagram for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-from-creator-to-critic-evaluating-video-value-across-platforms-for-2024/"><u>[Updated] From Creator to Critic Evaluating Video Value Across Platforms for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-adsense-profits-on-youtube-earnings-per-thousand-video-watchers/"><u>[Updated] In 2024, AdSense Profits on YouTube Earnings per Thousand Video Watchers</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-progopro-enhancing-footage-and-stability/"><u>[Updated] ProGoPro Enhancing Footage & Stability</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/creative-tims-premier-argon-ghost-theme-elevate-your-website-design/"><u>Creative Tim's Premier Argon Ghost Theme - Elevate Your Website Design</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/discover-the-best-artificial-intelligence-programs-for-video-scaling/"><u>Discover the Best Artificial Intelligence Programs for Video Scaling</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/easy-steps-to-combat-and-correct-valorants-persistent-screen-distortion-problem/"><u>Easy Steps to Combat and Correct Valorant's Persistent Screen Distortion Problem</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-4-feasible-ways-to-fake-location-on-facebook-for-your-vivo-x90s-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Feasible Ways to Fake Location on Facebook For your Vivo X90S | Dr.fone</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/24-expressive-youtube-aesthetics-at-no-cost/"><u>In 2024, Expressive YouTube Aesthetics at No Cost</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/icks-downloading-templates-from-youtube-vids/"><u>Top Picks Downloading Templates From YouTube Vids</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/youtube-optimization-for-new-vloggers-for-2024/"><u>YouTube Optimization for New Vloggers for 2024</u></a></li>
 </ul></div>
 

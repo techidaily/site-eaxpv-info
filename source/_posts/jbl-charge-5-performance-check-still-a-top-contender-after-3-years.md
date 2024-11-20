@@ -1,7 +1,7 @@
 ---
 title: JBL Charge 5 Performance Check - Still a Top Contender After 3 Years?
-date: 2024-08-30T16:46:32.756Z
-updated: 2024-08-31T16:46:32.756Z
+date: 2024-11-13T23:06:49.891Z
+updated: 2024-11-19T19:16:48.874Z
 tags:
   - product-reviews
 categories:
@@ -39,6 +39,19 @@ The JBL Charge 5 speaker delivers bold JBL Original Pro Sound, with its optimize
 * A little heavy for carrying in a backpack
 
 [$180 at Amazon](https://www.amazon.com/JBL-CHARGE-Portable-Bluetooth-Waterproof/dp/B08X4YMTPM?tag=hotoge-20&ascsubtag=UUhtgUeUpU2002522&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fjbl-charge-5-long-term-review%2F&asc%5Fcampaign=Authority) [See at bestbuy](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fjbl__charge5_portabl%2F6454256.p%3FskuId%3D6454256) [See at Target](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.target.com%2Fp%2Fjbl%255Fcharge%255F5%255Fportabl%2F-%2FA-82238684) 
+
+<!-- affiliate ads begin -->
+<span id="1498635">
+					<video width="320" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1498635.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/17326-1498635">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1498635.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:200px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fancheer.sjv.io%2Fc%2F5597632%2F1498635%2F17326'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1498635/17326" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Price and Availability
 
@@ -84,21 +97,10 @@ The JBL Charge 5 speaker delivers bold JBL Original Pro Sound, with its optimize
 
 Expand 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
 ##  A Little Context For ‘Old’ Speakers
 
 ![top view of JBL Charge 5 showing control buttons](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/03/jbl-charge-5-control-buttons.jpg) 
 
-<!-- affiliate ads begin -->
-<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
-<span class="text-ad-content">
-	#1 Rated Parental Control Software.<br/>
-	Monitor & Control all PC Activity!<br/>
-		<cite style="color:green">sentrypc.com/parental-controls/</cite>
-	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Jerome Thomas / How-To Geek
 
  I was thoroughly impressed with the sound of the Charge 5 when it was released in 2021\. At the time, it was a relatively compact portable speaker that could start a party at the beach or in a living room. Three years later, that’s still true.
@@ -110,6 +112,13 @@ Jerome Thomas / How-To Geek
  For example, I have had to update the speaker’s firmware a few times through the JBL Portable app—available for [iPhone](https://apps.apple.com/us/app/jbl-portable/id994041762) and [Android](https://www.anrdoezrs.net/links/3607085/type/dlg/sid/UUhtgUeUpU2002522/https://play.google.com/store/apps/details?id=com.harman.ble.jbllink&hl=en%5FUS&gl=US). As long as the company still supports its Bluetooth speaker through software, it should be a safe buy.
 
  As an example of longevity in tech-focused speakers, Sonos released its portable Bluetooth speaker, Roam, in April 2021\. Apple released its HomePod mini speaker in late 2020\. The original full-sized HomePod went five years before being replaced.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036496/19272" target="_top" id="2036496">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036496" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036496/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  The Features of the Charge 5
 
@@ -125,9 +134,6 @@ Jerome Thomas / How-To Geek
 
 ![A phone plugged into the JBL Charge 5 charging port on the back](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/03/jbl-charge-5-charging-phone.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Jerome Thomas / How-To Geek
 
  The Charge 5 is IP67 rated, so it's water and dust-resistant. Rain, sprinklers, and splashes haven't phase the speaker. I took the speaker to the beach and, even though a few sand grains remained attached, it did not affect the speaker’s performance. While the Charge 5's size is suitable for a backpack or to take most places, it is a bit heavier than you might expect. It's solid throughout. That means it won't roll around too easily, but you also probably don't want to lug it around all day if you don't need to.
@@ -136,13 +142,17 @@ Jerome Thomas / How-To Geek
 
  If you’re intrigued by multiple speakers used at once, I would consider speakers with Wi-Fi built-in that have more control and permanent uses around a house. If you’re intrigued by the increased volume that two PartyBoost speakers could provide, I would suggest looking at a bigger, more powerful single speaker.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144277/7443" target="_top" id="2144277">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144277" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144277/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Should You Buy the JBL Charge 5 Bluetooth Speaker?
 
 ![The front of the JBL Charge 5 with logo showing](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/03/jbl-charge-5-front.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Jerome Thomas / How-To Geek
 
  We’ve become accustomed to year-over-year turnover in consumer electronics. It’s easy to be jaded with anything not brand new. But the [JBL Charge 5](https://www.amazon.com/JBL-CHARGE-Portable-Bluetooth-Waterproof/dp/B08X4YMTPM?dib=eyJ2IjoiMSJ9.DnlloN6mPqMDhHTYBQ6zDePtfiBDRHLwLasEONIWw2skcGoRhwUM8IzPDFt747Xlwpoy8UP8HeOL-yrxk8060h9Vg0fJPbiEDVR5VaQ7l9e5FLyTh9ENNzJm6zZoAIlkHZVWnKW-6hNPG3nrJO2w-Aq1bR5Sz1UnO0r6KSaXOAu7wI%5FjUDo2BI%5FCHrWTlWyO9XIGQ3OpCAsMMgEsweaY4Oy7NrhE2rTALYGKawA9-l0.4p-Z6lg4AckpBnc3IYqlqU3oKrhlP0bDQZP1Ka7Ttzc&dib%5Ftag=se&hydadcr=5651%5F13158745&keywords=jbl+charge+5&qid=1711726524&sr=8-1-spons&sp%5Fcsd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1&tag=hotoge-20&ascsubtag=UUhtgUeUpU2002522&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fjbl-charge-5-long-term-review%2F&asc%5Fcampaign=Authority) remains a solid value if you can pick one up closer to the $100 price, rather than its full $180 one. It’s plenty portable in size but is still capable of a loud, bold sound. Three years on the Charge 5 is still rocking.
@@ -150,14 +160,14 @@ Jerome Thomas / How-To Geek
 ![JBL Charge 5 speaker](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-02-at-10-54-27-am.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
-The ultimate burning program for all your needs!</a>
+<a href="https://aligracehair.sjv.io/c/5597632/1997722/19272" target="_top" id="1997722">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997722" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997722/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/htg-rec-2024-2000-1.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 #####  JBL Charge 5
 
 8/ 10 
@@ -172,8 +182,6 @@ The JBL Charge 5 speaker delivers bold JBL Original Pro Sound, with its optimize
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -181,4 +189,21 @@ The JBL Charge 5 speaker delivers bold JBL Original Pro Sound, with its optimize
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-free-online-tools-for-youtube-channel-starters/"><u>[New] 2024 Approved Free Online Tools for YouTube Channel Starters</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-stay-on-top-of-youtube-moderation-standards/"><u>[New] 2024 Approved How to Stay on Top of YouTube Moderation Standards</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-how-to-trim-youtube-videos-for-2024/"><u>[New] How to Trim YouTube Videos for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-2024-approved-fix-in-a-flash-rapid-recovery-techniques-for-disrupted-fb-lives/"><u>[Updated] 2024 Approved Fix in a Flash Rapid Recovery Techniques for Disrupted FB Lives</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-guide-free-youtube-downloads-without-programs/"><u>[Updated] 2024 Approved Guide Free YouTube Downloads Without Programs</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-get-more-video-views-on-youtube/"><u>[Updated] 2024 Approved How To Get More Video Views on YouTube</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-viewers-to-profits-an-authoritative-guide-on-youtube-revenue-and-popularity-analysis/"><u>[Updated] In 2024, From Viewers to Profits An Authoritative Guide on YouTube Revenue and Popularity Analysis</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/-engagement-not-farewells-top-strategies-to-keep-your-audience-hooked-on-youtube/"><u>Drive Engagement, Not Farewells Top Strategies to Keep Your Audience Hooked on YouTube</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-to-integrate-chatgpt-with-whatsapp-for-customer-support/"><u>How to Integrate ChatGPT With WhatsApp for Customer Support</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/in-2024-easy-steps-for-posting-videos-on-facebook-from-devices/"><u>In 2024, Easy Steps for Posting Videos on Facebook From Devices</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-your-apple-iphone-13-mini-location-on-twitter-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Change your Apple iPhone 13 mini Location on Twitter | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/in-2024-step-by-step-tutorial-fb-video-and-apple-tv-combination/"><u>In 2024, Step-By-Step Tutorial FB Video & Apple TV Combination</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-thors-bold-path-asgard-reborn/"><u>In 2024, Thor’s Bold Path Asgard Reborn</u></a></li>
+<li><a href="https://extra-support.techidaily.com/sky-high-adventures-the-gopro-karma-experience-for-2024/"><u>Sky-High Adventures The GoPro Karma Experience for 2024</u></a></li>
+</ul></div>
 

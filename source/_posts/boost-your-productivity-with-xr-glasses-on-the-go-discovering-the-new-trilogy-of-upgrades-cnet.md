@@ -1,7 +1,7 @@
 ---
 title: "Boost Your Productivity with XR Glasses On-the-Go: Discovering the New Trilogy of Upgrades | CNET"
-date: 2024-11-04T20:00:54.204Z
-updated: 2024-11-07T18:14:50.037Z
+date: 2024-11-15T17:56:26.634Z
+updated: 2024-11-20T00:52:50.733Z
 tags:
   - apple
 categories:
@@ -81,10 +81,10 @@ Along with the [Viture Pro XR glasses](https://buy.geni.us/Proxy.ashx?TSID=36825
 Lastly, Viture announced a new limited-edition controller in partnership with 8BitDo. You can connect this new controller, with a classic XBox-style controller layout, via Bluetooth to your gaming device, including the Nintendo Switch. The smokey translucent design looks cool and matches the Viture ecosystem. The 8BitDo controller also serves as a companion to the Viture Neckband, but I have yet to try out the Neckband, so I cannot share my experiences with that accessory.
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/2106655/12108" target="_top" id="2106655">
-  <img src="//a.impactradius-go.com/display-ad/12108-2106655" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100537/7443" target="_top" id="2100537">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100537" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106655/12108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100537/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -121,18 +121,24 @@ The [Viture Pro XR glasses](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-free-editing-powerhouses-top-9-simplified-video-tools/"><u>[New] 2024 Approved Free Editing Powerhouses Top 9 Simplified Video Tools</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-raw-footage-to-youtube-perfection-premiere-pro-techniques/"><u>[New] In 2024, From Raw Footage to YouTube Perfection - Premiere Pro Techniques</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-initiatives-to-enhance-your-podcasts-rss-feeds/"><u>[New] Initiatives to Enhance Your Podcast's RSS Feeds</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-10-best-moba-games-for-android/"><u>[Updated] 10 Best MOBA Games For Android</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-from-hobby-to-career-the-transition-to-youtube-gaming-for-2024/"><u>[Updated] From Hobby to Career The Transition to YouTube Gaming for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-turning-tides-exploring-unique-methods-to-reverse-youtube-videos/"><u>[Updated] Turning Tides Exploring Unique Methods to Reverse YouTube Videos</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-turning-viewers-into-revenue-key-video-figures/"><u>[Updated] Turning Viewers Into Revenue Key Video Figures</u></a></li>
-<li><a href="https://article-files.techidaily.com/20plus-fresh-collages-elevate-your-environment-for-2024/"><u>20+ Fresh Collages Elevate Your Environment for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/effortless-audio-file-change-up-convert-your-m4a-tracks-to-compatible-wma-format-for-free/"><u>Effortless Audio File Change-Up: Convert Your M4A Tracks to Compatible WMA Format for Free!</u></a></li>
-<li><a href="https://win-able.techidaily.com/hitman-3-not-working-fix-the-steam-pc-crash-issues-with-ease/"><u>Hitman 3 Not Working? Fix the Steam PC Crash Issues with Ease</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/oneplus-11r-not-receiving-texts-10-hassle-free-solutions-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>OnePlus 11R Not Receiving Texts? 10 Hassle-Free Solutions Here | Dr.fone</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/step-by-step-guide-to-learning-10-essential-spanish-salutations/"><u>Step-By-Step Guide to Learning 10 Essential Spanish Salutations</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/ultimate-ranking-of-premium-projector-displays-s-market/"><u>Ultimate Ranking of Premium Projector Displays 'S Market</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-from-followers-to-brand-ambassadors-the-five-pillars-of-influencer-success/"><u>[New] 2024 Approved From Followers to Brand Ambassadors The Five Pillars of Influencer Success</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-gamers-quest-1000plus-game-adventures-unfolded/"><u>[New] 2024 Approved Gamer's Quest 1,000+ Game Adventures Unfolded</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-heating-up-your-youtube-videos-with-top-winter-backdrops/"><u>[New] 2024 Approved Heating Up Your YouTube Videos with Top Winter Backdrops</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-free-youtube-revenue-predictor-tools/"><u>[New] In 2024, Free YouTube Revenue Predictor Tools</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-guide-to-securely-copying-youtube-music-tracks-safely/"><u>[New] In 2024, Guide to Securely Copying YouTube Music Tracks Safely</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-light-shadow-and-subtlety-in-film-coloring/"><u>[New] Light, Shadow & Subtlety in Film Coloring</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-fast-fortnite-cover-art-techniques/"><u>[Updated] 2024 Approved Fast Fortnite Cover Art Techniques</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-fresh-funds-finds-economical-monetization-platforms-for-beginners/"><u>[Updated] 2024 Approved Fresh Funds Finds Economical Monetization Platforms for Beginners</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-beginners-to-pros-choosing-webcams-for-youtube-live/"><u>[Updated] 2024 Approved From Beginners to Pros Choosing Webcams for YouTube Live</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-the-forgotten-basics-of-instagram-reels-success/"><u>[Updated] 2024 Approved The Forgotten Basics of Instagram Reels Success</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-cutting-edge-screen-time-youtubes-top-movies-list-for-2024/"><u>[Updated] Cutting Edge Screen Time YouTube's Top Movies List for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-setup-a-mac-studio-for-sports-content/"><u>[Updated] In 2024, How to Setup a Mac Studio for Sports Content</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-twice-as-nice-sequential-video-playback-via-television-setup/"><u>[Updated] Twice as Nice Sequential Video Playback via Television Setup</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-spectacular-8k-cameras-top-picks-for-quality/"><u>2024 Approved Spectacular 8K Cameras Top Picks for Quality</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/7-key-approaches-to-elevate-chatgpt-interactions/"><u>7 Key Approaches to Elevate ChatGPT Interactions</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-how-to-create-text-memes-with-meme-text-generator/"><u>In 2024, How to Create Text Memes with Meme Text Generator?</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/navigating-to-superior-websites-for-tamil-ringtone-saves-for-2024/"><u>Navigating to Superior Websites for Tamil Ringtone Saves for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/transforming-workouts-discover-how-the-airpods-pros-heart-rate-monitor-can-guide-your-fitness-journey/"><u>Transforming Workouts: Discover How the AirPods Pro's Heart Rate Monitor Can Guide Your Fitness Journey</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshoot-imessage-problems-in-7-simple-steps-for-ios-devices-and-macs/"><u>Troubleshoot iMessage Problems in 7 Simple Steps for iOS Devices & Macs</u></a></li>
 </ul></div>
 

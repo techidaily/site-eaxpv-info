@@ -1,7 +1,7 @@
 ---
 title: Effective Techniques for Observing Linux Command Output Using 'Pv' Tools
-date: 2024-08-30T16:48:46.329Z
-updated: 2024-08-31T16:48:46.329Z
+date: 2024-11-15T22:23:05.601Z
+updated: 2024-11-19T16:28:19.819Z
 tags:
   - desktop
 categories:
@@ -32,6 +32,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  The `pv` and `progress` commands give you some statistics and a little visual feedback. You can see how close the process is to complete. That means you get an ETA for your running processes. Compared with staring at a cursor, that wins hands down.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134493/18498" target="_top" id="2134493">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134493" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134493/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  How to Install pv
 
  You must install `pv`.
@@ -55,8 +62,12 @@ sudo pacman -Syu pv
 ![sudo pacman -Syu pv in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/07/progress_3.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137227/26400" target="_top" id="2137227">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137227" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137227/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ##  Using pv
 
 `pv` stands for [pipe viewer](http://man7.org/linux/man-pages/man1/pv.1.html). Piping has to be involved in the command somewhere. Here's an example where we're piping an ISO image through `zip` to make a compressed zip file of the ISO.
@@ -71,9 +82,6 @@ pv /media/dave/SILVERXHD/gparted-live-1.0.0-1-amd64.iso | zip > gparted.zip
 
 ![pv output for creating a zip file in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/07/progress_7.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  From left to right, the information that is displayed is:
 
 * The data transferred so far.
@@ -82,9 +90,6 @@ pv /media/dave/SILVERXHD/gparted-live-1.0.0-1-amd64.iso | zip > gparted.zip
 * A progress bar and a percentage completed figure.
 * The estimated time left before completion (ETA).
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ##  Copying a File with pv
 
  To copy a file with output from `pv`, use this command:
@@ -92,6 +97,13 @@ pv /media/dave/SILVERXHD/gparted-live-1.0.0-1-amd64.iso | zip > gparted.zip
 pv /media/dave/SILVERXHD/gparted-live-1.0.0-1-amd64.iso > gparted.iso
 
 ![pv /media/dave/SILVERXHD/gparted-live-1.0.0-1-amd64.iso | gparted.iso in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/07/progress_8.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105869/7443" target="_top" id="2105869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  We get a progress report as the file is copied.
 
@@ -105,6 +117,13 @@ tar -c help-files/ | pv | tar -x -C Documents/
 
 ![sudo apt-get install pv in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/07/progress_1.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100527/7443" target="_top" id="2100527">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100527" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100527/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  The `tar -c help-files/` portion of the command instructs `tar` to create (`-c`) an archive of the files in the help-files folder. This is piped through `pv` so that we get a display of the progress. It is then piped back into `tar` for the last portion of the command. The archive is extracted (`-x`) and the directory is changed (`-C`) to Documents before the extraction.
 
  So, the files and folders that are in help-files are copied to the Documents folder, with a progress display.
@@ -115,10 +134,6 @@ tar -c help-files/ | pv | tar -x -C Documents/
 
  We do not get an ETA. The progress bar now displays a moving indicator. It shows that the process is active, but it doesn't grow from left to right like a traditional progress bar. `pv` is limited to displaying the information it can extract from the process that is being piped.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ##  Using pv and tar to Create an Archive
 
  Copying files with `pv` and `tar` does not leave us with an archive file. A sort of "virtual" archive is created by `tar`, which is fed straight back into `tar` to extract the files. If our objective is to copy files, that is accomplished. But what if we want to create an archive file?
@@ -133,12 +148,16 @@ tar -czf - ./help-files/ | pv > help-files.tgz
 
 ![sudo apt-get install pv in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/07/progress_1.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  We get the same progress indicators as before, and the archive file is created for us.
 
 ![sudo apt-get install pv in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/07/progress_1.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044582/7443" target="_top" id="2044582">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044582" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044582/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  The pv Display Options
 
@@ -167,10 +186,6 @@ tar -czf - ./help-files/ | pv - p > help-files.tgz
 
 ![sudo apt-get install pv in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/07/progress_1.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
-</a>
-<!-- affiliate ads end -->
 ##  Using pv With wc
 
  We can use `pv` to pipe a text file (or files) into `wc`. `wc` will then count the carriage returns, characters, and words and `pv` will give us a progress report.
@@ -180,8 +195,12 @@ tar -czf - ./help-files/ | pv - p > help-files.tgz
             
                 ![sudo apt-get install pv in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/07/progress_1.png)
                     
+
 <!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134228/18498" target="_top" id="2134228">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134228" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134228/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  When `wc` completes we can see our count of carriage returns (lines), characters and words from all of the ".page" files in the help-files folder.
@@ -198,9 +217,6 @@ sudo apt-get install progress
 
 ![sudo apt-get install progress in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/07/progress_4.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  To install `progress` in Fedora, use this command:
 
 sudo dnf install progress
@@ -214,9 +230,18 @@ sudo pacman -Syu progress
 ![sudo dnf install pv in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/07/progress_2.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<span id="1982462">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982462.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982462">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982462%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982462/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ##  The Commands progress Works With
 
  Typing `progress` in a terminal window and pressing Enter will give you a list of the commands that `progress` works with.
@@ -243,9 +268,6 @@ tar -czf help.tgz ./help-files/ | progress -m
 
 ![sudo apt-get install pv in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/07/progress_1.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
  As each file is processed, it is listed, with the following information:
 
 * The process ID.
@@ -257,9 +279,6 @@ tar -czf help.tgz ./help-files/ | progress -m
 
  You might be surprised to see a second data set appear. This first data set is for `tar`. The second one is for `gzip`. `tar` calls `gzip` to perform the compression. Because `gzip` is in the list of supported commands, `progress` reports on it.
 
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
-<!-- affiliate ads end -->
 ##  Using Progress in Continual Monitor Mode
 
  You can use `progress` in a real-time continual monitor mode by using the -M (monitor) option.
@@ -270,18 +289,6 @@ progress -M
 
 ![sudo dnf install pv in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/07/progress_2.png) 
 
-<!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 `progress` will report that there are no commands running for it to monitor. But you are not returned to the command line. `progress` waits until a command that it can monitor starts. It will then automatically start reporting on it.
 
 ![sudo dnf install pv in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/07/progress_2.png) 
@@ -294,16 +301,10 @@ cat words.page
 
 ![sudo dnf install pv in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/07/progress_2.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  In the terminal window with `progress` in it, you'll see statistics for the `cat` command as it executes and works towards completion.
 
 ![sudo apt-get install pv in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/07/progress_1.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
-<!-- affiliate ads end -->
  When `cat` finishes listing the file `progress` returns to its waiting state.
 
  Each time one of the commands it can report on performs a sizeable task, `progress` will automatically monitor it and report on it.
@@ -311,8 +312,18 @@ cat words.page
  That's pretty neat.
 
 <!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1484963">
+					<video width="864" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ##  100% Completed
 
  Take the guesswork out of wondering how a long-running command is doing, and take a break from contemplating your cursor with `pv` and `progress` .
@@ -329,8 +340,6 @@ cat words.page
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -338,4 +347,26 @@ cat words.page
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-helps.techidaily.com/new-comprehensive-directory-of-pixel-tones-websites/"><u>[New] Comprehensive Directory of Pixel Tones Websites</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-from-novice-to-expert-film-cameras-you-can-trust/"><u>[New] From Novice to Expert Film Cameras You Can Trust</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-finding-your-custom-scored-youtube-tunes/"><u>[New] In 2024, Finding Your Custom-Scored YouTube Tunes</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-accelerate-your-youtube-upload-with-effective-rendering/"><u>[New] In 2024, How to Accelerate Your YouTube Upload with Effective Rendering</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-block-youtube-channels-on-computer-and-mobile-phones/"><u>[New] In 2024, How to Block YouTube Channels on Computer and Mobile Phones</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-tune-tracker-latest-audio-tech/"><u>[New] Tune Tracker Latest Audio Tech</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-figures-unveiled-exploring-youtubes-curious-numbers-2017/"><u>[Updated] 2024 Approved Figures Unveiled! Exploring YouTube's Curious Numbers (2017)</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-free-video-wizardry-top-8-editing-programs-for-youtube-enthusiasts/"><u>[Updated] 2024 Approved Free Video Wizardry Top 8 Editing Programs for YouTube Enthusiasts</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-flv-file-symphony-creating-a-single-youtube-playlist-for-2024/"><u>[Updated] FLV File Symphony Creating a Single YouTube Playlist for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-fortnite-thumbnail-blitz-a-30-second-guide-for-2024/"><u>[Updated] Fortnite Thumbnail Blitz A 30-Second Guide for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-free-youtube-image-saver-compilation/"><u>[Updated] In 2024, Free YouTube Image Saver Compilation</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-free-to-fortune-carryminatis-youtube-transformation-ajey/"><u>[Updated] In 2024, From Free to Fortune CarryMinati’s YouTube Transformation (Ajey)</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-mastering-tweeted-videos-on-facebooks-networks-for-2024/"><u>[Updated] Mastering Tweeted Videos on Facebooks Networks for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-multimedia-caption-compiler/"><u>[Updated] Multimedia Caption Compiler</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/a-perfect-guide-to-remove-or-disable-google-smart-lock-on-samsung-galaxy-f15-5g-by-drfone-android/"><u>A Perfect Guide To Remove or Disable Google Smart Lock On Samsung Galaxy F15 5G</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/discover-our-curated-list-of-favorite-free-movie-picks-on-youtube-july-edition/"><u>Discover Our Curated List of Favorite Free Movie Picks on YouTube - July Edition</u></a></li>
+<li><a href="https://discover-forum.techidaily.com/download-high-speed-content-from-russian-accelerator-platform/"><u>Download High-Speed Content From Russian Accelerator Platform</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/stellar-leads-in-hdd-restoration-decrypting-the-impossible/"><u>Stellar Leads in HDD Restoration: Decrypting the Impossible</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unraveling-chatgpt-4s-sluggishness-in-contrast-with-35/"><u>Unraveling ChatGPT-4's Sluggishness in Contrast with 3.5</u></a></li>
+</ul></div>
 

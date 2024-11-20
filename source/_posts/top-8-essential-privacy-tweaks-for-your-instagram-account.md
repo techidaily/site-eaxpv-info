@@ -1,7 +1,7 @@
 ---
 title: Top 8 Essential Privacy Tweaks for Your Instagram Account
-date: 2024-08-30T16:46:11.871Z
-updated: 2024-08-31T16:46:11.871Z
+date: 2024-11-15T21:45:58.454Z
+updated: 2024-11-19T16:20:25.016Z
 tags:
   - web
 categories:
@@ -34,17 +34,12 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  You have options, but the trick is to know where to look because it's not always obvious. Here are eight very useful settings you can access right now to boost your privacy from multiple angles. You can do these either through the Instagram website or through the app on your phone or tablet.
 
 <!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="1080" height="1620" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136615/26400" target="_top" id="2136615">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136615" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136615/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ##  Make Your Profile Private
 
  Sure, setting up a [private profile](https://screen-video-capture.techidaily.com/new-2024-approved-dynamic-speaker-analysis-episode-8/) is an obvious step to take, but it's the easiest and most effective thing you can do to control who is viewing your account. By switching to a private account, only those you allow to follow you can view, comment, and interact with your posts and stories.
@@ -53,17 +48,17 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Instagram Private Account Page](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/instagram-private-account.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 Instagram
 
  From there, toggle the option to make your account private, and you're all set.
 
 <!-- affiliate ads begin -->
-<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2135361/19272" target="_top" id="2135361">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135361" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135361/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ##  Block or Restrict Users, Posts, and Comments
 
  Perhaps you want your profile to be public, but a specific account is harassing you. Not to worry—Instagram lets you [block individual users](https://screen-video-capture.techidaily.com/in-2024-mastering-screens-with-active-8-a-comparative-review/). To do this, go to their profile and click the three dots in the upper right-hand corner. You'll see these options in red letters at the top of the list:
@@ -76,9 +71,6 @@ Instagram
 
  Lastly, the "Report" option allows you to draft a completely anonymous message to Meta to report intellectual property infringement, harassment, or dangerous behavior.
 
-<!-- affiliate ads begin -->
-<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
-<!-- affiliate ads end -->
 ##  Update Your Story Settings
 
  If you're one to post stories, there might be times you want to share something but would rather not share it with _everyone_. When you go to create a story, you can click the cog icon in the upper-right-hand corner and then press "Story." Here, you can choose from a range of privacy settings.
@@ -90,6 +82,13 @@ Instagram
 Instagram Story Settings
 
  The [close friends list](https://fox-blue.techidaily.com/2024-approved-airborne-cameras-clash-dji-inspire-vs-gopro-max/) allows you to post stories only visible to a group of chosen followers. You can also create a list of followers you wish to hide your stories from and control whether or not you allow people to reply to your stories.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135351/19272" target="_top" id="2135351">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135351" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135351/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Cut Off Location Sharing
 
@@ -115,9 +114,6 @@ Instagram Story Settings
 
  To set up 2FS, open your account settings. Then follow the path: Accounts Center > Password and Security > Two-Factor Authentication​. From there, set up 2FA according to your preferences, such as having Instagram send you an SMS code or going through a [third-party service, like Google Authenticator](https://youtube-tips.techidaily.com/024-approved-method-for-removing-downloaded-youtube-videos/).
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Adjust Ad Preferences
 
  Sometimes, giving data over to advertisers is preferred, but that's up to your discretion. Instagram now allows you to control how your data is gathered and used in the app.
@@ -127,8 +123,12 @@ Instagram Story Settings
  If you still want some data-based discovery but want to control over you see, you can select "Ad Topics"to control what types of sponsored posts you wish to see.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557742/17382" target="_top" id="1557742">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557742" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557742/17382" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ##  #8 Approve Tagged Posts Manually
 
  Default settings allow any account can tag you in a photo, but Instagram allows you to control this. To set up tagging preferences, go to the privacy settings and select "Tags**."** From there, you can switch tagging from automatic to manual, so you get to approve what you're tagged in before it's public.
@@ -141,8 +141,6 @@ Instagram Story Settings
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -150,4 +148,20 @@ Instagram Story Settings
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-beginners-guide-how-to-create-a-youtube-channel-and-make-money-for-2024/"><u>[New] Beginners’ Guide How To Create a YouTube Channel and Make Money for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-flv-conversion-for-content-creators-top-10-youtubes-alternatives-unveiled-for-2024/"><u>[New] Flv Conversion for Content Creators Top 10 YouTubes Alternatives Unveiled for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-convert-youtube-videos-to-gifs/"><u>[Updated] 2024 Approved How to Convert YouTube Videos to GIFs</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-gaining-traction-on-youtube-the-successful-sponsorship-roadmap-by-famebit-for-2024/"><u>[Updated] Gaining Traction on YouTube The Successful Sponsorship Roadmap by FameBit for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-harnessing-youtubes-power-for-personal-image-amplification-for-2024/"><u>[Updated] Harnessing YouTube's Power for Personal Image Amplification for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-finding-the-balance-adding-videos-to-text-on-a-budget/"><u>[Updated] In 2024, Finding the Balance Adding Videos to Text on a Budget</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-the-charisma-of-jittery-text-2-methods-unleashed/"><u>[Updated] In 2024, The Charisma of Jittery Text 2 Methods Unleashed</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-precision-in-screenshots-a-detailed-guide/"><u>[Updated] Precision in Screenshots A Detailed Guide</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/decoding-the-best-features-in-gaming-setups/"><u>Decoding the Best Features in Gaming Setups</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/efficient-methods-photoshopping-background-out-of-shots/"><u>Efficient Methods Photoshopping Background Out of Shots</u></a></li>
+<li><a href="https://win-forum.techidaily.com/how-to-add-unrecognized-devices-to-bios-settings-on-windows-11-systems/"><u>How to Add Unrecognized Devices to BIOS Settings on Windows 11 Systems</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/in-2024-unveiling-the-hidden-potential-of-earnings-on-vimeo-platforms/"><u>In 2024, Unveiling the Hidden Potential of Earnings on Vimeo Platforms</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/upcoming-samsung-devices-gain-fresh-google-innovations-exclusive-insights-revealed-by-zdnet/"><u>Upcoming Samsung Devices Gain Fresh Google Innovations: Exclusive Insights Revealed by ZDNet</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: AI Breakthroughs Set to Amplify Capabilities of M4 iPad Pro Announced for Worldwide Developers Conference Showcase | Tech Analysis by ZDNET
-date: 2024-10-30T07:30:13.807Z
-updated: 2024-11-02T14:33:43.805Z
+date: 2024-11-16T23:44:36.149Z
+updated: 2024-11-19T19:55:07.874Z
 tags:
   - apple
 categories:
@@ -56,6 +56,13 @@ In VisionOS 2, there are gestures. Holding your hand palm up and tapping fingers
 
 Unlike the previous two features, this _is_ a quality of life improvement. 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997635/19272" target="_top" id="1997635">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997635" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997635/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Mac virtual display improvements
 
 The Mac virtual display feature of the Vision Pro has been nice, but limited. In VisionOS 1, you could only show one 4K display. Personally, I'm waiting for Apple to ditch the entire display paradigm and just show windows, but that's not going to happen this year. 
@@ -63,6 +70,13 @@ The Mac virtual display feature of the Vision Pro has been nice, but limited. In
 Screenshot by David Gewirtz/ZDNET
 
 On the other hand, Apple "later this year" will enable you to create displays with more resolutions. The most interesting is the full wrap-around display, which will be the equivalent of two 4K monitors. 
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134240/18498" target="_top" id="2134240">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134240" border="0" alt="https://techidaily.com" width="540" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134240/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Choo-choo train mode
 
@@ -81,10 +95,10 @@ There are a ton of VR and AR APIs in Apple's platforms. But this week, at WWDC, 
 * **Enterprise APIs:** These were described as enterprise-specific APIs, so we can assume they're somewhat special purpose. Examples given were surgical training and manufacturing.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037319/7443" target="_top" id="2037319">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037319" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130871/7443" target="_top" id="2130871">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130871" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037319/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130871/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 7\. New Canon spatial lens for creating spatial video
@@ -94,13 +108,6 @@ While iPhone 15 Pro users can create spatial video, there are limitations to usi
 Screenshot by David Gewirtz/ZDNET
 
 This allows more commercial and prosumer projects where the photographer or videographer needs more control over the complex range of settings available in a more traditional camera. Those videos can then be edited in Final Cut Pro, Apple's only mention of Final Cut during WWDC. There's also a new Vimeo app for VisionOS, that will allow spatial videos to be shared. 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016148/19272" target="_top" id="2016148">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016148" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016148/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 8\. Third-party immersive video workflow
 
@@ -113,16 +120,10 @@ Apple is opening up the format for third-party creators to create immersive vide
 Even so, I think this is great. Those immersive videos are fantastic. 
 
 <!-- affiliate ads begin -->
-<span id="1936838">
-					<video width="374" height="48" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1936838.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18409-1936838">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1936838.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:234px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcoinrule.sjv.io%2Fc%2F5597632%2F1936838%2F18409'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1936838/18409" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2044586/7443" target="_top" id="2044586">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044586" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044586/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Other new features
@@ -133,13 +134,6 @@ Apple didn't cover all the new features during its announcement. At the end of t
 * **Keyboard breakthrough:** This was another feature I felt it was important for Apple to introduce, and apparently it will be available. No mention was made of it, so we have no idea if it's limited solely to Apple's own keyboards (but that's probably the case).
 * **Bora Bora environment:** I wanted to see more environments and we get…one. Personally, I think all the work on spatial photos and spatial videos could have been replaced with the ability for third parties to create 3D environments, but Apple didn't go there. But hey, Bora Bora, right?
 * **Rearrangeable Home View:** This was also not described but I'm guessing this means you can move around the Home icons.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137223/26400" target="_top" id="2137223">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137223" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137223/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  What do you think?
 
@@ -185,16 +179,24 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-elevating-your-podcast-remote-recording-done-right/"><u>[New] In 2024, Elevating Your Podcast Remote Recording Done Right</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-capture-to-share-proven-methods-for-live-360-video-on-youtube/"><u>[New] In 2024, From Capture to Share Proven Methods for Live 360° Video on Youtube</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-growth-by-numbers-tapping-into-youtube-analytics-power/"><u>[New] In 2024, Growth by Numbers Tapping Into YouTube Analytics Power</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-big-should-a-good-thumbnail-be-youtubes-ultimate-guide/"><u>[New] In 2024, How Big Should a Good Thumbnail Be? YouTube's Ultimate Guide</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-gain-money-on-youtube-understanding-required-number-of-views-for-2024/"><u>[Updated] Gain Money on YouTube Understanding Required Number of Views for 2024</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-in-2024-youtubes-celebrated-click-it-achievements/"><u>[Updated] In 2024, YouTube's Celebrated Click-It Achievements</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-streamlining-the-process-dells-way-to-screen-recording/"><u>[Updated] Streamlining the Process Dell's Way to Screen Recording</u></a></li>
-<li><a href="https://howto.techidaily.com/9-quick-fixes-to-unfortunately-touchwiz-has-stopped-of-tecno-pova-5-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Quick Fixes to Unfortunately TouchWiz has stopped Of Tecno Pova 5 Pro | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/artificial-empathy-does-ai-possess-a-heartfelt-understanding/"><u>Artificial Empathy: Does AI Possess a Heartfelt Understanding?</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/sky-high-tech-talk-the-mavic-pro-showcase/"><u>Sky High Tech Talk The Mavic Pro Showcase</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/techkey-bluetooth-adapter-software-downloads-supported-by-windows-10-7-and-8-systems/"><u>Techkey Bluetooth Adapter Software Downloads – Supported by Windows 10, 7, and 8 Systems</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-filmoras-secrets-to-captivating-youtube-trailers/"><u>[New] 2024 Approved Filmora's Secrets to Captivating YouTube Trailers</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-the-art-of-amplifying-your-minecraft-scene/"><u>[New] 2024 Approved The Art of Amplifying Your Minecraft Scene</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-formulating-a-seamless-subscription-hyperlink-to-youtube/"><u>[New] In 2024, Formulating a Seamless Subscription Hyperlink to YouTube</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-guardians-of-the-most-watched-youtube-edition/"><u>[New] In 2024, Guardians of the Most Watched YouTube Edition</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ltimate-seo-guide-elevating-your-video-rankings-in-a-digital-age-for-2024/"><u>[New] Ultimate SEO Guide Elevating Your Video Rankings in a Digital Age for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-choreographing-newscast-endings/"><u>[Updated] 2024 Approved Choreographing Newscast Endings</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-formulating-impressive-online-media-introductions/"><u>[Updated] 2024 Approved Formulating Impressive Online Media Introductions</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-harmonizing-youtube-production-with-a-9-to-5-routine/"><u>[Updated] 2024 Approved Harmonizing YouTube Production with a 9-to-5 Routine</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-skip-the-slip-ups-the-8-must-avoid-mistakes-for-new-youtube-stars/"><u>[Updated] 2024 Approved How to Skip the Slip-Ups The 8 Must-Avoid Mistakes for New YouTube Stars</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-flashy-fiddles-short-form-melodic-roles-for-2024/"><u>[Updated] Flashy Fiddles Short Form Melodic Roles for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-safely-extract-youtube-audio-a-study-of-3-techniques-for-2024/"><u>[Updated] How to Safely Extract YouTube Audio A Study of 3 Techniques for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-game-development-behind-the-scenes/"><u>[Updated] In 2024, Game Development Behind-the-Scenes</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-in-2024-unraveling-the-science-of-motion-without-contact/"><u>[Updated] In 2024, Unraveling the Science of Motion Without Contact</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-complete-preview-control-essentials-for-mac-users/"><u>2024 Approved Complete Preview Control Essentials for Mac Users</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-essential-tools-for-quality-4k-video-recording/"><u>2024 Approved Essential Tools for Quality 4K Video Recording</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-use-the-meta-quest-microphone/"><u>How to Use the Meta Quest Microphone</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/in-2024-step-1-step-2-and-step-3-to-video-chatting-on-snapchat-now/"><u>In 2024, Step 1, Step 2, and Step 3 to Video Chatting on Snapchat Now</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-5-tracking-apps-to-track-oppo-reno-10-proplus-5g-without-them-knowing-drfone-by-drfone-virtual-android/"><u>Top 5 Tracking Apps to Track Oppo Reno 10 Pro+ 5G without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/will-ispoofer-update-on-oppo-reno-11f-5g-drfone-by-drfone-virtual-android/"><u>Will iSpoofer update On Oppo Reno 11F 5G | Dr.fone</u></a></li>
 </ul></div>
 

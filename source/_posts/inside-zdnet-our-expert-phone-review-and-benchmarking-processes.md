@@ -1,7 +1,7 @@
 ---
 title: "Inside ZDNet: Our Expert Phone Review and Benchmarking Processes"
-date: 2024-10-31T15:23:18.997Z
-updated: 2024-11-02T12:54:47.146Z
+date: 2024-11-15T18:52:24.213Z
+updated: 2024-11-20T00:08:48.331Z
 tags:
   - apple
 categories:
@@ -27,6 +27,13 @@ ZDNET's mobile experts [carefully test](https://www.zdnet.com/article/how-we-tes
 However, we haven't yet gotten to test the new iPhone 16 line, which was unveiled September 9 at [Apple's "It's Glowtime" event](https://www.zdnet.com/article/everything-we-expect-at-apples-iphone-16-event-ai-features-airpods-apple-watch-series-10-more/) and will be released September 20\. We will test all of the new iPhone 16 models, and will add our buying advice to this page as soon as we do.
 
 Read on for the rest of our top picks for the best iPhones you can buy today. 
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136617/26400" target="_top" id="2136617">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136617" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136617/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## The best iPhones of 2024
 
@@ -77,6 +84,13 @@ Cons
 * Pricer than most flagship smartphones
 * No battery life improvement over prior model
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037358/7443" target="_top" id="2037358">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037358" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037358/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Apple iPhone 15
 
 ### Best iPhone for most people
@@ -110,6 +124,13 @@ Cons
 * Shorter software update schedule
 * Need to buy refurbished
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135350/19272" target="_top" id="2135350">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135350" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135350/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Apple iPhone 13 Mini
 
 ### Best small iPhone
@@ -141,19 +162,6 @@ Cons
 * Outdated design
 * Display may come off as cramped for some
 * Not the most flexible camera system
-
-<!-- affiliate ads begin -->
-<span id="1936838">
-					<video width="374" height="48" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1936838.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18409-1936838">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1936838.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:234px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcoinrule.sjv.io%2Fc%2F5597632%2F1936838%2F18409'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1936838/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Apple iPhone SE (2022)
 
@@ -187,10 +195,10 @@ Cons
 * U.S. customers are locked to eSIM
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118320/7443" target="_top" id="2118320">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118320" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068417/7443" target="_top" id="2068417">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068417" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118320/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068417/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Apple iPhone 14
@@ -211,13 +219,6 @@ The iPhone 14's dual camera system at the rear has been carried over from the iP
 
 Show Expert Take Show less 
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134243/18498" target="_top" id="2134243">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134243" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134243/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## What is the best iPhone?
 
 After weighing out the specs and reviewer-tested experiences, the best iPhone is currently the iPhone 15 Pro Max. It's got a beautiful AMOLED display, a powerful (and future-proofed) chipset, and a reliable camera system that covers all the bases and angles. Naturally, the 15 Pro Max is also Apple's most expensive model, so if pricing is a concern, consider cheaper options like the standard 15 Pro and even older models. 
@@ -231,10 +232,10 @@ After weighing out the specs and reviewer-tested experiences, the best iPhone is
 | iPhone SE (3rd Generation) | $429           | 64GB             | 4.7 inches  | A15           | One                    |
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151858/7443" target="_top" id="2151858">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151858" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997695/19272" target="_top" id="1997695">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997695" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151858/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997695/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Are iPhones the best smartphone?
@@ -271,13 +272,6 @@ ZDNET's mobile experts also liaise with industry colleagues and analysts who hav
 * **Battery life**: For how reliant we've become on smartphones, the top picks on this list are not only able to last you from morning to night but also support fast charging when it's time to top up.
 * **Price**: What you won't find on this list is a device that's not worth the money or is overcharging you for the hardware-software package you're getting.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997695/19272" target="_top" id="1997695">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997695" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997695/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How we test iPhones
 
 ZDNET's review team spends upwards of a year testing the ins and outs of every major iPhone release, evaluating the day-to-day performance, camera quality, battery life and endurance, and more. Here's a breakdown of every factor we consider before we make recommendations:
@@ -301,29 +295,22 @@ There are several ways you can keep your iPhone clean and pristine.
 2. Battery management is another key aspect of iPhone maintenance. To keep your device running for as long as possible, consider charging it between 20% to 80% battery. Overcharging the device would otherwise wear down the battery and reduce the health value (found in Settings). When your iPhone battery health is low (anything less than 75% typically is), it would be helpful to get it replaced at an Apple store or by an Apple-authorized technician.
 3. As stressful as it may be to clear up space to download that software update, you absolutely should. Besides fixing any bugs on your iPhone, software updates also bring with them security patches to reduce the chances of your phone getting hacked.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915805/19272" target="_top" id="1915805">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915805" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915805/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### When is iOS 18 coming, and will my iPhone support it?
 
 The upcoming software version for the iPhone is currently in its [public beta phase](https://www.zdnet.com/article/you-can-download-ios-18-beta-on-your-iphone-right-now-heres-how-and-which-models-support-it/), meaning it's open for any users to test. The official software will be available to download on September 16, alongside the [new iPhone 16 series](https://www.zdnet.com/article/iphone-16-three-changes-i-want-to-see-on-the-next-apple-handsets/) that arrives September 20.
 
 Like iOS 17, iPhone models as old as the XR will be eligible to receive the [iOS 18 update](https://www.zdnet.com/article/every-iphone-model-that-can-be-updated-to-apples-ios-18-and-which-ones-cant/). The list includes the iPhone 11 to iPhone 15 series and the iPhone SE (2nd generation or later). What's not included is the iPhone X and iPhone 8 series. Those, unfortunately, won't be receiving any more operating system updates.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### What is the new iPhone?
 
 The latest iPhone is the [iPhone 16](https://www.zdnet.com/article/when-is-the-iphone-16-coming-out-what-to-know-and-where-to-preorder/), announced on Monday, September 9, during [Apple's "It's Glowtime" event](https://www.zdnet.com/article/everything-we-expect-at-apples-iphone-16-event-ai-features-airpods-apple-watch-series-10-more/). There are four iPhone 16 models: iPhone 16, iPhone 16 Plus, iPhone 16 Pro, and iPhone 16 Pro Max. All will come with iOS 18 and Apple Intelligence built in.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886048/19272" target="_top" id="1886048">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886048" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886048/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Which iPhone is better, 14 or 15?
 
@@ -352,11 +339,31 @@ Otherwise, even if you own an iPad or MacBook, or almost any other non-Apple gad
 
 Apple's upcoming AI features, branded as "[Apple Intelligence](https://www.zdnet.com/article/what-is-apple-intelligence-everything-to-know-about-ai-features-coming-to-iphones-macs-and-ipads/)," are available on iPhones with at least an A17 Pro processor. That means only the iPhone 15 Pro series, excluding the standard iPhone 15 or iPhone 15 Plus, will support the new AI tools and the upcoming iPhone 16 models.
 
+<!-- affiliate ads begin -->
+<span id="1983475">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983475.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983475">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983475.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983475%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983475/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### What storage size should I buy for my iPhone?
 
 It wasn't until 2021 that Apple began selling both its non-Pro and Pro iPhones with a base storage of 128GB. The only exception here is the iPhone SE model. While not as flashy of an upgrade as larger camera sensors and 120Hz displays, this double-up of storage meant that consumers had more space than ever to store apps, photos, videos, and more.
 
 Maurice Klaehne, senior market research analyst at Counterpoint Research, suggests that higher storage options are generally better as they will help with the longevity of the device, and his firm has generally seen an uptick in postpaid customers opting for higher storage sizes when they can afford them. "Currently, the 256GB option is sufficient for most people," Klaehne adds.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885928/19272" target="_top" id="1885928">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885928" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885928/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Should I trade in my old iPhone?
 
@@ -365,19 +372,6 @@ Trading in an old iPhone is one of the easiest (and safest) ways to replace an o
 ### Do I really need an iPhone case?
 
 While an iPhone case is not a necessity -- your iPhone will still function normally without it -- having one on greatly reduces the chances of wear and tear. For example, the [best cases](https://www.zdnet.com/article/best-iphone-15-case/) are military-grade certified, meaning they'll keep your iPhone protected from waist-high drops. Not only do cases reduce the chances of your phone getting cracked or scratched, but the plastic/rubberized material often provides more grip than if you hold your iPhone naked.
-
-<!-- affiliate ads begin -->
-<span id="1424533">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424533.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424533">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424533.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424533%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424533/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Which iPhone should I buy for a parent?
 
@@ -469,22 +463,22 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-what-is-haul-video-and-how-to-make-a-catchy-try-on-haul-video/"><u>[New] 2024 Approved What Is Haul Video and How to Make a Catchy Try on Haul Video</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-beginners-tutorial-setting-up-your-youtube-presence-for-2024/"><u>[New] Beginner's Tutorial Setting Up Your YouTube Presence for 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-best-scripting-solutions-for-ae-for-2024/"><u>[New] Best Scripting Solutions for AE for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-from-concept-to-completion-crafting-your-youtube-masterpiece-for-2024/"><u>[New] From Concept to Completion Crafting Your YouTube Masterpiece for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-from-novice-to-pro-mastering-the-craft-of-yt-shorts-for-2024/"><u>[New] From Novice to Pro Mastering the Craft of YT Shorts for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-how-to-create-youtube-intros-and-end-cards-free-and-easy-for-2024/"><u>[New] How to Create YouTube Intros & End Cards - Free and Easy for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-high-end-audio-for-youtubes-best-gamers/"><u>[New] In 2024, High-End Audio for YouTube's Best Gamers</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-disableremove-youtube-shorts-permanently/"><u>[New] In 2024, How to Disable/Remove YouTube Shorts Permanently?</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-create-a-youtube-account/"><u>[Updated] 2024 Approved How to Create a YouTube Account</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-superior-6-apps-to-subtitle-videos-internationally/"><u>[Updated] 2024 Approved Superior 6 Apps to Subtitle Videos Internationally</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-device-footage-to-youtube-shorts-your-streamlined-approach/"><u>[Updated] In 2024, From Device Footage to YouTube Shorts - Your Streamlined Approach</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-key-approaches-to-convert-youtube-videos-to-mp4/"><u>[Updated] Key Approaches to Convert YouTube Videos to MP4</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-maximize-productivity-innovative-windows-10-tips-for-2024/"><u>[Updated] Maximize Productivity Innovative Windows 10 Tips for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/addressing-dxgi-error-after-device-removal/"><u>Addressing DXGI Error After Device Removal</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-sharefake-location-on-whatsapp-for-realme-c67-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Share/Fake Location on WhatsApp for Realme C67 5G | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-tips-of-transferring-messages-from-tecno-spark-20-proplus-to-iphone-1415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Tips of Transferring Messages from Tecno Spark 20 Pro+ to iPhone 14/15 | Dr.fone</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/step-by-step-guide-restoring-connection-to-apples-itunes-store-on-ios-devices/"><u>Step-by-Step Guide: Restoring Connection to Apple's iTunes Store on iOS Devices</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-earnings-on-youtube-a-monthly-perspective/"><u>[New] 2024 Approved Earnings on YouTube A Monthly Perspective?</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-constructing-the-ideal-setup-for-advanced-4k-video-production/"><u>[New] Constructing the Ideal Setup for Advanced 4K Video Production</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-a-compreehensive-guide-to-youtube-thumbnail-creation-mac/"><u>[New] In 2024, A Compreehensive Guide to YouTube Thumbnail Creation (Mac)</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-aesthetic-instagram-panoramas/"><u>[New] In 2024, Aesthetic Instagram Panoramas</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-is-hasty-subscription-a-gateway-to-better-viewing-habits/"><u>[New] Is Hasty Subscription a Gateway to Better Viewing Habits?</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-mastering-iphones-hdr-photography-techniques/"><u>[New] Mastering iPhone's HDR Photography Techniques</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-turning-viewers-into-cash-a-youtube-advertising-primer/"><u>[New] Turning Viewers Into Cash A YouTube Advertising Primer</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-enhance-creativity-in-video-editing-these-7-sources/"><u>[Updated] 2024 Approved Enhance Creativity in Video Editing - These 7 Sources</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-from-chords-to-chart-toppers-essential-musician-focused-youtube-content-for-2024/"><u>[Updated] From Chords to Chart-Toppers Essential Musician-Focused YouTube Content for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-the-guide-to-starting-a-successful-youtube-gaming-channel/"><u>[Updated] The Guide to Starting a Successful YouTube Gaming Channel</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/effortlessly-adjust-your-askew-videos-positioning-in-no-time-using-these-tricks/"><u>Effortlessly Adjust Your Askew Videos' Positioning in No Time Using These Tricks!</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/explaining-instagrams-inverted-video-effect-for-2024/"><u>Explaining Instagram’s Inverted Video Effect for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/in-2024-youtube-video-ranking-breakdown-how-it-works/"><u>In 2024, YouTube Video Ranking Breakdown How It Works</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-tutorial-personalizing-mac-folders-with-custom-colors/"><u>Step-by-Step Tutorial: Personalizing Mac Folders with Custom Colors</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-5-car-locator-apps-for-nubia-red-magic-9-pro-drfone-by-drfone-virtual-android/"><u>Top 5 Car Locator Apps for Nubia Red Magic 9 Pro | Dr.fone</u></a></li>
+<li><a href="https://win-wonderful.techidaily.com/waterproof-rescue-retrieving-lost-information-from-a-soaked-iphone-model-14-or-13/"><u>Waterproof Rescue: Retrieving Lost Information From a Soaked iPhone Model 14 or 13</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/youtube-live-streaming-and-video-upload-encoder-recommendations/"><u>YouTube Live Streaming & Video Upload Encoder Recommendations</u></a></li>
 </ul></div>
 

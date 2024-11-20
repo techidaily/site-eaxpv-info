@@ -1,7 +1,7 @@
 ---
 title: "Unlocking Storage: A Step-by-Step Guide to Clear Your iPhone Memory & Save GBs | Tech Insights"
-date: 2024-11-01T14:50:21.993Z
-updated: 2024-11-02T10:01:35.122Z
+date: 2024-11-12T20:09:32.876Z
+updated: 2024-11-19T17:12:35.420Z
 tags:
   - apple
 categories:
@@ -31,10 +31,10 @@ If you want to follow along, you'll need to install the iOS 18 public beta on an
 ## How to customize your iPhone's new Control Center with iOS 18
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049363/7443" target="_top" id="2049363">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049363" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2006933/19272" target="_top" id="2006933">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006933" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049363/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006933/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 1\. Access Control Center
@@ -51,6 +51,19 @@ Screenshot by Lance Whitney/ZDNET
 
 **Also: [Every iPhone model that can be updated to Apple's iOS 18 (and which ones can't)](https://www.zdnet.com/article/every-iphone-model-that-can-be-updated-to-apples-ios-18-and-which-ones-cant/)**
 
+<!-- affiliate ads begin -->
+<span id="1743243">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1743243.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19272-1743243">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1743243.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Faligracehair.sjv.io%2Fc%2F5597632%2F1743243%2F19272'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1743243/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Resize a control
 
 After tapping the plus icon, some controls sport a gray curved handle in the lower-right corner. This means you can resize the control's icon. Drag the handle and move it up, down, or diagonally. Release it when the icon is the size you wish.
@@ -58,10 +71,10 @@ After tapping the plus icon, some controls sport a gray curved handle in the low
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137229/26400" target="_top" id="2137229">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137229" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068432/7443" target="_top" id="2068432">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068432" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137229/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068432/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Delete a control
@@ -71,10 +84,10 @@ Next, you can directly delete a control you don't need or want. With the icons i
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134239/18498" target="_top" id="2134239">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134239" border="0" alt="https://techidaily.com" width="721" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049364/7443" target="_top" id="2049364">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049364" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134239/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049364/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Add a control to an existing screen
@@ -84,13 +97,6 @@ You can easily add a control to any screen that has available space. Pick a scre
 Screenshot by Lance Whitney/ZDNET
 
 **Also: [I did not expect this iOS 18 feature announced at WWDC to be my favorite (and it's not AI)](https://www.zdnet.com/article/i-did-not-expect-this-ios-18-feature-announced-at-wwdc-to-be-my-favorite-and-its-not-ai/)**
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134241/18498" target="_top" id="2134241">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134241" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134241/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 6\. Add a control to a new screen
 
@@ -134,24 +140,24 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-end-to-start-annoying-yourself-with-yt-playlist-upside-down/"><u>[New] 2024 Approved From End to Start Annoying Yourself with YT Playlist Upside-Down</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-completely-erase-youtube-shorts-footprint/"><u>[New] 2024 Approved How To Completely Erase YouTube Shorts Footprint</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-from-everyday-snaps-to-professional-videos-the-top-9-mobile-filmmaking-gadgets-for-2024/"><u>[New] From Everyday Snaps to Professional Videos - The Top 9 Mobile Filmmaking Gadgets for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-how-to-validate-your-youtube-profile-a-simple-guide-for-2024/"><u>[New] How to Validate Your YouTube Profile? A Simple Guide for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-flv-video-unification-techniques/"><u>[New] In 2024, FLV Video Unification Techniques</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-12-free-youtube-thumbnail-makers-to-make-your-own-video-thumbnail/"><u>[Updated] 12 FREE YouTube Thumbnail Makers to Make Your Own Video Thumbnail</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-finding-the-right-mic-a-guide-for-multifaceted-yt-channels/"><u>[Updated] In 2024, Finding the Right Mic A Guide for Multifaceted YT Channels</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-novice-to-notoriety-steps-for-a-youtube-channel-in-gaming/"><u>[Updated] In 2024, From Novice to Notoriety Steps for a YouTube Channel in Gaming</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-vision-to-visual-impact-youtube-trailers-via-filmora/"><u>[Updated] In 2024, From Vision to Visual Impact YouTube Trailers via Filmora</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-seamlessly-upload-videos-onto-youtubes-platform/"><u>[Updated] In 2024, How to Seamlessly Upload Videos Onto YouTube's Platform</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-mastering-pubg-sounds-simple-tips/"><u>[Updated] Mastering PUBG Sounds Simple Tips</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/2024-approved-become-an-audio-chameleon-learn-how-to-change-free-fire-voices/"><u>2024 Approved Become an Audio Chameleon! Learn How to Change Free Fire Voices</u></a></li>
-<li><a href="https://fox-http.techidaily.com/diy-anchors-and-stabilizers-for-handheld-video-for-2024/"><u>DIY Anchors and Stabilizers for Handheld Video for 2024</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/effizientes-kopieren-von-dvd-inhalten-mit-winx-dvd-copy-unter-windows-1087-detaillierte-anleitung-und-tipps/"><u>Effizientes Kopieren Von DVD-Inhalten Mit WinX DVD Copy Unter Windows 10/8/7 - Detaillierte Anleitung Und Tipps</u></a></li>
-<li><a href="https://win-superb.techidaily.com/fast-fix-restore-missing-documents-and-sections-from-your-onedrive-notebook/"><u>Fast Fix: Restore Missing Documents and Sections From Your OneDrive Notebook</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-favorite-stock-photos-a-dive-into-memes-and-origins/"><u>In 2024, Favorite Stock Photos A Dive Into Memes & Origins</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/list-of-pokemon-go-joysticks-on-itel-p40plus-drfone-by-drfone-virtual-android/"><u>List of Pokémon Go Joysticks On Itel P40+ | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/reviving-silent-dell-speakers-a-comprehensive-guide/"><u>Reviving Silent Dell Speakers: A Comprehensive Guide</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/1626913-9781405512282-the-acupuncture-handbook/"><u>The Acupuncture Handbook | Free Book</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-novice-to-pro-mastering-the-art-of-youtube-shorts/"><u>[New] 2024 Approved From Novice to Pro Mastering the Art of YouTube Shorts</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-in-depth-look-lg-bp350-screen-resolution-and-aspect-ratio/"><u>[New] 2024 Approved In-Depth Look LG BP350 Screen Resolution and Aspect Ratio</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-understanding-control-over-sound-dampening-in-audacity/"><u>[New] 2024 Approved Understanding Control over Sound Dampening in Audacity</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-guerrilla-marketing-for-youtube-upping-video-traffic/"><u>[New] In 2024, Guerrilla Marketing for YouTube Upping Video Traffic</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-final-goodbye-to-youtubes-minis-a-step-by-step-process/"><u>[Updated] 2024 Approved Final Goodbye to YouTube's Minis A Step-by-Step Process</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-studio-to-stage-stream-your-mp3-tunes-on-youtube/"><u>[Updated] 2024 Approved From Studio to Stage Stream Your MP3 Tunes on YouTube</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-stay-true-to-your-story-dont-drown-in-false-like-floods/"><u>[Updated] 2024 Approved Stay True to Your Story, Don't Drown in False Like Floods</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-expertise-in-windows-media-player-for-streamlined-audio-conversion/"><u>[Updated] Expertise in Windows Media Player for Streamlined Audio Conversion</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-fixing-obscured-content-on-youtube-platform-for-2024/"><u>[Updated] Fixing Obscured Content on YouTube Platform for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-framemorph-editor-for-2024/"><u>[Updated] FrameMorph Editor for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-free-film-resource-highlights-where-to-start-your-search-for-2024/"><u>[Updated] Free Film Resource Highlights Where to Start Your Search for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-from-flash-photography-to-sustained-videography-your-pixiz-adventure/"><u>[Updated] From Flash Photography to Sustained Videography Your Pixiz Adventure</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-free-end-credits-maker-the-1-video-closers-guide/"><u>[Updated] In 2024, Free End Credits Maker - The #1 Video Closers Guide</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-twitchs-stage-to-youtube-writers-guide-to-cross-platform-content/"><u>[Updated] In 2024, From Twitch's Stage to YouTube’ Writers Guide to Cross-Platform Content</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210970492-9781088227718-candle-magic-for-beginners/"><u>Candle Magic For Beginners | Free Book</u></a></li>
+<li><a href="https://techtrends.techidaily.com/comprehensive-troubleshooting-tips-for-d3dx940dll-file-not-found-error/"><u>Comprehensive Troubleshooting Tips for d3dx9_40.dll File Not Found Error</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/diy-troubleshooting-for-non-functioning-laptop-audio-systems/"><u>DIY Troubleshooting for Non-Functioning Laptop Audio Systems</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-without-jailbreak-on-motorola-edge-40-pro-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location without Jailbreak On Motorola Edge 40 Pro | Dr.fone</u></a></li>
+<li><a href="https://video-capture.techidaily.com/in-2024-trackingcast-synopsis/"><u>In 2024, TrackingCast Synopsis</u></a></li>
 </ul></div>
 

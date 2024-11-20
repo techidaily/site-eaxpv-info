@@ -1,7 +1,7 @@
 ---
 title: "In-Depth Analysis of Microsoft Surface Pro 8: Tailored Solutions for Enterprise Users - Insights From ZDNet"
-date: 2024-10-28T16:44:03.514Z
-updated: 2024-11-01T22:35:14.403Z
+date: 2024-11-15T16:02:05.651Z
+updated: 2024-11-19T22:41:07.758Z
 tags:
   - apple
 categories:
@@ -49,10 +49,10 @@ Jason Cipriani/ZDNet
 When Microsoft [announced the Surface Pro 8 in Sept. 2021](https://www.zdnet.com/article/microsoft-refreshes-its-surface-pc-portfolio-including-android-based-duo-2/), it revealed a completely new design for the Surface Pro lineup. Well, it wasn't completely new; it's actually the same overall design of the [Surface Pro X](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fsurface-pro-x-13-touch-screen-microsoft-sq1-8gb-memory-128gb-ssd-device-only-platinum%2F6477106.p%3FskuId%3D6477106&publisher_slug=itechdaily19598&exclusive=1). Placing the Pro X next to the Pro 8, the only noticeable difference is that the Pro 8 is thicker than the Pro X. Otherwise, they look identical. 
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148649/16836" target="_top" id="2148649">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148649" border="0" alt="https://techidaily.com" width="720" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148636/16836" target="_top" id="2148636">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148636" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148649/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148636/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -78,10 +78,10 @@ You don't have to use a physical SIM card thanks to the Pro 8's support for an e
 **Also:** [**eSIM vs. SIM: What's the difference?**](https://www.zdnet.com/article/esim-vs-sim-whats-the-difference/)
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/798161/11305" target="_top" id="798161">
-  <img src="//a.impactradius-go.com/display-ad/11305-798161" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134224/18498" target="_top" id="2134224">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134224" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798161/11305" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134224/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -108,13 +108,6 @@ Inside the Surface Pro 8 I've been testing is an 11th Generation Intel Core i7 p
 
 The LTE options range in price from $1,349 for an Intel Core i5, 8GB of memory, and 128GB of storage up to the build I tested, which normally retails for $1,849 but is currently on sale for $1,599\. Again, those prices don't include a keyboard. 
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137225/26400" target="_top" id="2137225">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137225" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137225/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### More Microsoft
 
 * [The best Windows laptop models: Comparing Dell, Samsung, Lenovo, and more](https://www.zdnet.com/article/best-windows-laptop/)
@@ -139,10 +132,16 @@ The ability to connect a tablet to an external display and have it actually work
 When working on my iPad Pro connected to a monitor, whatever's on the iPad's screen is mirrored on the larger display. There are some apps that use Apple's rudimentary API for external displays, but it's not great. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100542/7443" target="_top" id="2100542">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100542" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100542/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983475">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983475.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983475">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983475.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983475%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983475/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -154,6 +153,19 @@ Also, I have a lot of workarounds for completing certain tasks on the iPad. For 
 I realize that the Pro 8 is running a full-fledged operating system in Windows 11, whereas the iPad Pro is running a mobile-first operating system in iPadOS, but the devices are relatively the same size and target the same type of user. Even the prices are close enough that the comparison is warranted. 
 
 The total cost of the Surface Pro 8 with LTE, along with the Signature Keyboard Cover with Slim Pen is $2,128\. The iPad Pro with 5G, 16GB of memory, 1TB of storage, Apple's Magic Keyboard with trackpad and an Apple Pencil is $2,449\. 
+
+<!-- affiliate ads begin -->
+<span id="1484963">
+					<video width="864" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## There are still many things the iPad Pro does better
 
@@ -218,18 +230,18 @@ If you're on the fence about whether to go with the Surface Pro 8 or an iPad Pro
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-get-content-ready-faster-with-this-list-of-easy-editors/"><u>[New] 2024 Approved Get Content Ready Faster With This List of Easy Editors</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-navigating-the-path-of-extensive-video-transfers-iphone-mac-interface-for-2024/"><u>[New] Navigating the Path of Extensive Video Transfers IPhone-Mac Interface for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-gain-popularity-on-youtube-11-powerful-seo-techniques-for-video-content/"><u>[Updated] 2024 Approved Gain Popularity on YouTube 11 Powerful SEO Techniques for Video Content</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-locate-your-youtube-fanbase/"><u>[Updated] 2024 Approved How to Locate Your YouTube Fanbase</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-fine-tune-your-videos-mood-with-custom-sound-design-for-2024/"><u>[Updated] Fine-Tune Your Video's Mood with Custom Sound Design for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-flutter-freedom-for-videos-the-best-tools-to-flv-to-youtubes-for-2024/"><u>[Updated] Flutter Freedom for Videos The Best Tools to Flv-to-YouTubes for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-harmonizing-horizons-easy-steps-for-sharing-soundtracks-for-2024/"><u>[Updated] Harmonizing Horizons Easy Steps for Sharing Soundtracks for 2024</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/how-to-check-who-unfollowed-me-on-instagram/"><u>How to Check Who Unfollowed Me on Instagram?</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/inside-openais-incentive-system-for-cybersecurity-testing-a-step-by-step-participant-guide/"><u>Inside OpenAI’s Incentive System for Cybersecurity Testing: A Step-by-Step Participant Guide</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/program-mainteninate-offer/"><u>Program Mainteninate Offer</u></a></li>
-<li><a href="https://fake-location.techidaily.com/spoofing-life360-how-to-do-it-on-oppo-a1x-5g-drfone-by-drfone-virtual-android/"><u>Spoofing Life360 How to Do it on Oppo A1x 5G? | Dr.fone</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/step-by-step-process-to-update-your-hp-officejet-pro-8610-printer-drivers-on-various-versions-of-windows/"><u>Step-by-Step Process to Update Your HP Officejet Pro 8610 Printer Drivers on Various Versions of Windows</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/updated-if-youre-a-looking-for-a-way-to-quickly-convert-a-video-to-vr-youve-come-to-the-right-place-because-in-this-article-we-are-going-to-take-you-through/"><u>Updated If Youre a Looking for a Way to Quickly Convert a Video to VR, Youve Come to the Right Place because in This Article We Are Going to Take You Through 5 Best Video Converters for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-fixed-video-short-display-for-you/"><u>[New] 2024 Approved Fixed Video Short Display for You</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-from-newbie-to-pro-your-complete-guide-to-creator-studio-for-2024/"><u>[New] From Newbie to Pro Your Complete Guide to Creator Studio for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-from-script-to-screen-youtube-studio-editing-workshop-guide-for-2024/"><u>[New] From Script to Screen YouTube Studio Editing Workshop Guide for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-flash-forward-quick-youtube-playlists-distribution/"><u>[Updated] 2024 Approved Flash Forward Quick Youtube Playlists Distribution</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-build-your-personal-brand-on-youtube/"><u>[Updated] 2024 Approved How to Build Your Personal Brand on YouTube</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-growth-acceleration-on-youtube-expert-tips-for-video-partnerships/"><u>[Updated] In 2024, Growth Acceleration on YouTube Expert Tips for Video Partnerships</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-unleash-creativity-the-ultimate-selection-of-online-jpg-to-gif-tools/"><u>[Updated] In 2024, Unleash Creativity The Ultimate Selection of Online JPG to GIF Tools</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/best-non-gaming-video-capture-and-screen-save-software/"><u>Best Non-Gaming Video Capture and Screen Save Software</u></a></li>
+<li><a href="https://win11.techidaily.com/enabling-unresponsive-fixes-in-windows-1011/"><u>Enabling Unresponsive Fixes in Windows 10/11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723210904347-error-0x802a1ee9-errconnectionrefused-easy-image-based-solutions-to-get-you-connected-again/"><u>Error 0X802A1EE9 (ERR_CONNECTION_REFUSED): Easy Image-Based Solutions to Get You Connected Again</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-methods-to-change-gps-location-on-tecno-pop-8-drfone-by-drfone-virtual-android/"><u>In 2024, Methods to Change GPS Location On Tecno Pop 8 | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/proven-ways-in-how-to-hide-location-on-life360-for-vivo-y100i-drfone-by-drfone-virtual-android/"><u>Proven Ways in How To Hide Location on Life360 For Vivo Y100i | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/turn-off-unwanted-rings-staying-silent-on-your-ipad-when-your-iphone-is-active/"><u>Turn Off Unwanted Rings: Staying Silent on Your iPad When Your iPhone Is Active</u></a></li>
 </ul></div>
 

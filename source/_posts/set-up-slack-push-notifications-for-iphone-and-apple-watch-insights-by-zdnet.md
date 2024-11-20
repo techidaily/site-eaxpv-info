@@ -1,7 +1,7 @@
 ---
 title: Set Up Slack Push Notifications for iPhone and Apple Watch | Insights by ZDNet
-date: 2024-11-07T06:59:37.766Z
-updated: 2024-11-07T17:56:53.330Z
+date: 2024-11-15T21:05:43.683Z
+updated: 2024-11-19T22:34:33.350Z
 tags:
   - apple
 categories:
@@ -48,28 +48,28 @@ Here's how.
 
 **What you'll need:** Have the latest versions of iOS and watchOS installed on your iPhone and Apple Watch, respectively. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151882/7443" target="_top" id="2151882">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151882" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151882/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. Install the Slack app on your iPhone
 
 There is no dedicated Slack app for the Apple Watch, but there is an iPhone app. This app controls everything about how Slack works with notifications on your phone. So, if you don't already have Slack on your iPhone, go to [the App Store and install it](https://apps.apple.com/us/app/slack/id618783545).
 
 Once it's installed, go ahead and log into your various Slack channels. Get those setup and working as you like before configuring the app for notifications.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043603/7443" target="_top" id="2043603">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043603" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043603/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. Set up Slack notifications in the system settings
 
 Let's make sure iOS is set up to allow Slack notifications. Go to the main Settings app and on the main settings screen, scroll all the way down to Slack. It's a long scroll past many other apps. Tap into Slack.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043662/7443" target="_top" id="2043662">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043662" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043662/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##   
@@ -83,16 +83,10 @@ Now, back out to the top of the Settings app and tap the red Notifications icon.
 Screenshot by David Gewirtz/ZDNET
 
 <!-- affiliate ads begin -->
-<span id="1743243">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1743243.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19272-1743243">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1743243.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Faligracehair.sjv.io%2Fc%2F5597632%2F1743243%2F19272'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1743243/19272" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://imp.i110150.net/c/5597632/798161/11305" target="_top" id="798161">
+  <img src="//a.impactradius-go.com/display-ad/11305-798161" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798161/11305" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Set up Slack notifications in the Slack app
@@ -100,10 +94,10 @@ Screenshot by David Gewirtz/ZDNET
 Next, open the Slack app. Tap your profile image in the upper right corner of the screen. Then tap Notifications.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148642/16836" target="_top" id="2148642">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148642" border="0" alt="https://techidaily.com" width="300" height="50"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123738/7443" target="_top" id="2123738">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123738" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148642/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123738/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##   
@@ -193,20 +187,24 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-render-and-upload-youtube-videos-faster/"><u>[New] 2024 Approved How to Render and Upload YouTube Videos Faster?</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-exclusive-top-10-mobile-photography-tools-for-superior-slo-mo-effects/"><u>[New] Exclusive Top 10 Mobile Photography Tools for Superior Slo-Mo Effects</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-how-to-make-a-memorable-impact-with-youtubes-minis-for-2024/"><u>[New] How to Make a Memorable Impact with Youtube's Minis for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-get-rid-of-youtube-distractions-ad-blocking-on-chrome-firefox-and-ios/"><u>[Updated] 2024 Approved Get Rid of YouTube Distractions Ad-Blocking on Chrome, Firefox & iOS</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-giggle-genesis-conceptualizing-7-funny-youtube-sessions/"><u>[Updated] 2024 Approved Giggle Genesis Conceptualizing 7 Funny YouTube Sessions</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-frame-by-frame-mastery-in-youtube-no-cost-required-for-2024/"><u>[Updated] Frame by Frame Mastery in YouTube - No Cost Required for 2024</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-troubleshooting-obs-blackouts-on-game-recordings/"><u>[Updated] In 2024, Troubleshooting OBS Blackouts on Game Recordings</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-transform-your-youtube-channel-url-in-minutes/"><u>[Updated] Transform Your YouTube Channel URL in Minutes</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/dvd-vs-blu-ray-vs-4k-uhd-a-detailed-breakdown-of-key-differences-for-home-cinema-enthusiasts/"><u>DVD Vs. Blu-Ray Vs. 4K UHD: A Detailed Breakdown of Key Differences for Home Cinema Enthusiasts</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/easy-solutions-stop-borderlands-3-from-freezing-complete-guide/"><u>Easy Solutions: Stop Borderlands 3 From Freezing - Complete Guide</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/from-vision-to-viewers-step-by-step-guide-to-live-tv-screens-on-windows-pcs/"><u>From Vision to Viewers Step-by-Step Guide to Live TV Screens on Windows PCs</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-change-gps-location-on-xiaomi-14-pro-easily-and-safely-drfone-by-drfone-virtual-android/"><u>How to Change GPS Location on Xiaomi 14 Pro Easily & Safely | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-nokia-c32-phone-without-pin-by-drfone-android/"><u>In 2024, How to Unlock Nokia C32 Phone without PIN</u></a></li>
-<li><a href="https://win-workspace.techidaily.com/top-13-videa-gopro-editing-programy-najlepsi-pristup-k-software-s-pripravenim-obrazu/"><u>Top 13 Videa GoPro Editing Programy: Najlepší Prístup K Software S Přípravením Obrazů</u></a></li>
-<li><a href="https://techidaily.com/undelete-lost-pictures-from-realme-note-50-by-fonelab-android-recover-pictures/"><u>Undelete lost pictures from Realme Note 50.</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-flavor-leaders-must-watch-culinary-youtube-stars/"><u>[New] 2024 Approved Flavor Leaders Must-Watch Culinary YouTube Stars</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-how-to-fix-the-youtube-shorts-not-showing-up-issue-for-2024/"><u>[New] How to Fix the YouTube Shorts Not Showing Up Issue for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-average-to-exceptional-discover-the-finest-free-intra-designs/"><u>[New] In 2024, From Average to Exceptional Discover the Finest Free Intra Designs</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-finance-frontiers-the-finest-youtube-channels-to-follow/"><u>[Updated] 2024 Approved Finance Frontiers The Finest YouTube Channels to Follow</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-search-patterns-to-screenplay-crafting-videos-from-google-data/"><u>[Updated] 2024 Approved From Search Patterns to Screenplay Crafting Videos From Google Data</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-remove-pending-videos-from-your-youtube-history/"><u>[Updated] 2024 Approved How to Remove Pending Videos From Your YouTube History</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-audio-anomaly-top-disruptive-music-apps-for-iosandroid/"><u>[Updated] Audio Anomaly Top Disruptive Music Apps for iOS/Android</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-stand-out-yt-thumbnail-size-and-engagement-strategies-for-2024/"><u>[Updated] How to Stand Out YT Thumbnail Size and Engagement Strategies for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-fifa-footage-analysis-trendy-video-patterns/"><u>[Updated] In 2024, FIFA Footage Analysis Trendy Video Patterns</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-hashtag-hacks-for-amplifying-gamer-content/"><u>[Updated] In 2024, Hashtag Hacks for Amplifying Gamer Content</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-leading-with-visuals-setting-up-premium-cover-videos-on-fb/"><u>[Updated] In 2024, Leading With Visuals Setting Up Premium Cover Videos on FB</u></a></li>
+<li><a href="https://fake-location.techidaily.com/apply-these-techniques-to-improve-how-to-detect-fake-gps-location-on-infinix-zero-5g-2023-turbo-drfone-by-drfone-virtual-android/"><u>Apply These Techniques to Improve How to Detect Fake GPS Location On Infinix Zero 5G 2023 Turbo | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/before-you-buy-the-ultimate-8-point-checklist-for-picking-your-ideal-desktop-computer/"><u>Before You Buy: The Ultimate 8-Point Checklist for Picking Your Ideal Desktop Computer</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/capture-and-share-the-art-of-using-zooms-snaps/"><u>Capture & Share The Art of Using Zoom's Snaps</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/convertidor-de-archivo-webm-a-mp3-sin-coste-guia-completa-en-movavi/"><u>Convertidor De Archivo WebM a MP3 Sin Coste: Guía Completa en Movavi</u></a></li>
+<li><a href="https://video-capture.techidaily.com/effortless-transformation-of-g64-and-g64x-videos-into-mp4-comprehensive-tutorial/"><u>Effortless Transformation of G64 and G64X Videos Into MP4 - Comprehensive Tutorial</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/final-cut-pro-x-for-instagram-optimizing-vertical-videos/"><u>Final Cut Pro X for Instagram Optimizing Vertical Videos</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/guide-to-accessing-free-meal-prep-videos-on-youtube-and-similar-platforms/"><u>Guide to Accessing Free Meal Prep Videos on YouTube and Similar Platforms</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-fix-android-app-not-installed-error-on-google-pixel-8-pro-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Android App Not Installed Error on Google Pixel 8 Pro Quickly? | Dr.fone</u></a></li>
 </ul></div>
 
