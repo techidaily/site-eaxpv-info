@@ -1,7 +1,7 @@
 ---
 title: "Closing the Gap: How iPhones Can Match Android's AI Prowess with Four Key Features | Analysis"
-date: 2024-11-17T23:37:28.654Z
-updated: 2024-11-19T20:31:02.966Z
+date: 2024-11-27T17:24:28.537Z
+updated: 2024-11-28T18:50:16.300Z
 tags:
   - apple
 categories:
@@ -40,6 +40,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Generative AI for a context-aware Siri
 
 Unfortunately, Siri is arguably Apple's biggest shortcoming when stacking its AI services against competitors. While Siri has become a go-to feature on its own, it lags behind its virtual assistant competitors in intelligence and capability. Mounting consumer frustration over Siri's limitations and generative AI's popularity gives Apple a final push to give the voice assistant generative AI.
@@ -51,10 +55,7 @@ If Apple can give Siri generative AI, iPhone users could ask the voice assistant
 The biggest challenge for Apple will be running large language models (LLMs) on-device, as one would expect it to do after its long-standing focus on consumer privacy. On-device processing means questions and responses won't have to be sent to remote cloud servers, minimizing data exposure.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027190/19272" target="_top" id="2027190">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027190" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027190/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Contextual search through image gallery
@@ -68,10 +69,7 @@ Apple already uses AI for facial recognition to create Memories and organize pho
 Other AI upgrades to photo galleries that could benefit smartphone users include finding and suggesting duplicate photos to free up storage, integrating AI voice assistants to search for photos with voice commands, recommending AI enhancements, and applying edits to photos. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118320/7443" target="_top" id="2118320">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118320" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118320/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Personalized text generation
@@ -83,10 +81,7 @@ ChatGPT became popular for its ability to generate text and have conversations t
 This is another instance where Apple trails behind competitors, as AI text generation is available in the [Google Pixel 8](https://www.kqzyfj.com/click-9041660-15823334-1717160402000?sid=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) and the Samsung [Galaxy S24 lineup](https://shop-links.co/link/?url=https%3A%2F%2Fwww.samsung.com%2Fus%2Fsmartphones%2Fgalaxy-s24%2Fbuy%2Fgalaxy-s24-256gb-unlocked-sm-s921ulbexaa%2F&publisher_slug=itechdaily19598&exclusive=1) of smartphones, as well as Microsoft 365, Gmail, Google Docs, Sheets, and more. 
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014850/22899" target="_top" id="2014850">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014850" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014850/22899" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. AI-powered photo and video editing
@@ -131,16 +126,24 @@ It would be surprising to see Apple incorporate AI video features such as real-t
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-free-profile-imagery-for-youtubers/"><u>[New] 2024 Approved Free Profile Imagery for YouTubers</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-flipping-frames-innovative-techniques-for-backward-viewing-on-yt-for-2024/"><u>[New] Flipping Frames Innovative Techniques for Backward Viewing on YT for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-fresh-vlog-discussion-ideas-each-day-for-2024/"><u>[New] Fresh Vlog Discussion Ideas Each Day for 2024</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-in-2024-ultimate-guide-to-comparing-leading-4k-youtube-to-mp3-extractors/"><u>[New] In 2024, Ultimate Guide to Comparing Leading 4K YouTube to MP3 Extractors</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-top-strategies-for-scaling-your-instagram-tv-content/"><u>[New] Top Strategies for Scaling Your Instagram TV Content</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-flv-to-youtube-unveiling-the-top-10-tools-for-video-conversion/"><u>[Updated] 2024 Approved FLV to YouTube Unveiling the Top 10 Tools for Video Conversion</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-build-successful-youtube-advertisements-for-free/"><u>[Updated] 2024 Approved How to Build Successful YouTube Advertisements for Free?</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/finding-and-speaking-with-snapchat-customer-care-a-comprehensive-approach/"><u>Finding and Speaking With Snapchat Customer Care: A Comprehensive Approach</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-swift-closure-of-a-linkedin-account-the-how-to-guide/"><u>In 2024, Swift Closure of a LinkedIn Account The How-To Guide</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-best-20-words-for-marketing-success/"><u>In 2024, The Best 20 Words for Marketing Success</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-hardware-picks-and-performance-tests-by-professionals-at-toms-hardware/"><u>Top Hardware Picks and Performance Tests by Professionals at Tom's Hardware</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-fast-track-to-1000-fans-through-captivating-content/"><u>[New] 2024 Approved Fast-Track To 1,000 Fans Through Captivating Content</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/solved-printer-driver-is-unavailable-on-windows/"><u>[SOLVED] Printer Driver Is Unavailable on Windows</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-the-pros-playbook-elevating-your-facebook-lives-to-new-heights/"><u>[Updated] The Pro's Playbook Elevating Your Facebook Lives to New Heights</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-action-filming-elevated-in-depth-review-of-sj-cam-s6/"><u>2024 Approved Action Filming Elevated In-Depth Review of SJ-CAM S6</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/2024-approved-from-clips-to-masterpiece-essential-video-editing-techniques/"><u>2024 Approved From Clips to Masterpiece Essential Video Editing Techniques</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/choosing-the-right-video-codec-handbrakes-h264-vs-mpeg-4-for-dvd-conversion/"><u>Choosing the Right Video Codec: Handbrake's H.264 Vs MPEG-4 for DVD Conversion</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/comment-diminuer-vos-videos-en-quality-et-taille-sans-logo-ni-perte-visuelle-top-10-solutions/"><u>Comment Diminuer Vos Vidéos en Quality Et Taille Sans Logo Ni Perte Visuelle: Top 10 Solutions</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/comparing-the-advantages-mpeg-2-against-mpeg-cd-in-digital-video-encoding/"><u>Comparing the Advantages: MPEG-2 Against MPEG-CD in Digital Video Encoding</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/expert-evaluation-a-thorough-guide-on-using-winx-for-seamless-iphone-data-transfer/"><u>Expert Evaluation: A Thorough Guide on Using WinX for Seamless iPhone Data Transfer</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/expertise-in-speech-transcription-with-googles-tools/"><u>Expertise in Speech Transcription with Google's Tools</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/24-free-easy-tag-extraction-compilation-of-7-best-no-cost-online-tools/"><u>In 2024, Free, Easy Tag Extraction Compilation of 7 Best No-Cost Online Tools</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-vivo-v27-adb-format-tool-for-pc-vs-other-unlocking-tools-which-one-is-the-best-by-drfone-android/"><u>In 2024, Vivo V27 ADB Format Tool for PC vs. Other Unlocking Tools Which One is the Best?</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/rip-and-transfer-your-dvds-onto-multimedia-server-platforms-like-plex-nas-and-roku-using-a-dvd-ripper-tool/"><u>Rip and Transfer Your DVDs Onto Multimedia Server Platforms Like Plex, NAS, and Roku Using a DVD Ripper Tool</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/top-12-free-ai-powered-video-improvement-tools-available-online-for-pc-and-mac-users/"><u>Top 12 Free AI-Powered Video Improvement Tools Available Online for PC & Mac Users</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/trouble-with-your-xbox-one-discs-here-are-12-troubleshooting-steps-to-fix-it-now/"><u>Trouble With Your Xbox One Discs? Here Are 12 Troubleshooting Steps to Fix It Now!</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/ultimate-guide-from-honor-frp-bypass-by-drfone-android/"><u>Ultimate Guide from Honor FRP Bypass</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-2024-approved-how-to-zoom-in-discord/"><u>Updated 2024 Approved How to Zoom in Discord</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/winx-dvd-and-video-converter-tech-assistance-portal/"><u>WinX DVD & Video Converter Tech Assistance Portal - 線上資料回答與技術支援</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/1725287435561-dvd/"><u>オープンソースリポジトリで使える安全なDVDバックアップ手段</u></a></li>
 </ul></div>
 

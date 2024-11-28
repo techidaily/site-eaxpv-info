@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Guide: What to Do When Your iPhone Shows Signs of Moisture?"
-date: 2024-11-18T19:16:18.308Z
-updated: 2024-11-19T19:08:23.695Z
+date: 2024-11-27T16:35:45.038Z
+updated: 2024-11-28T19:11:35.474Z
 tags:
   - apple
 categories:
@@ -59,6 +59,10 @@ Aside from the inferior Photos app navigation, videos in the Photos app no longe
 
 "The UX is a huge downgrade. It's so bad that I had to submit feedback to Apple via the feedback app in the beta. Never did one of those when it wasn't a technical bug, just pure user experience frustration," another [Redditor said](https://www.reddit.com/r/apple/comments/1e2jtq5/comment/ld1wsjg/?utm%5Fsource=share&utm%5Fmedium=web3x&utm%5Fname=web3xcss&utm%5Fterm=1&utm%5Fcontent=share%5Fbutton).
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to navigate the iOS 18 Photos app
 
 Maria Diaz/ZDNET
@@ -105,31 +109,21 @@ I hope a future version of iOS 18 will bring back the Camera Roll or at least to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-creator-to-critic-evaluating-video-value-across-platforms/"><u>[New] 2024 Approved From Creator to Critic Evaluating Video Value Across Platforms</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-6-ways-to-increase-audience-retention-on-youtube-filmora-for-2024/"><u>[New] 6 Ways To Increase Audience Retention on YouTube - Filmora for 2024</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-in-2024-connect-and-captivate-youtube-twitter-and-facebook-using-zoom/"><u>[New] In 2024, Connect and Captivate YouTube, Twitter & Facebook Using Zoom</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-finding-the-right-mic-a-guide-for-multifaceted-yt-channels/"><u>[New] In 2024, Finding the Right Mic A Guide for Multifaceted YT Channels</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-novice-to-vlogger-your-guide-to-creating-a-youtube-chanel/"><u>[New] In 2024, From Novice to Vlogger Your Guide to Creating a YouTube Chanel</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-make-your-shorts-image-visible-again/"><u>[New] In 2024, How to Make Your Shorts' Image Visible Again</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-how-does-youtube-count-views-its-not-as-simple-as-you-think-for-2024/"><u>[Updated] How Does YouTube Count Views? It's Not as Simple as You Think for 2024</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-how-to-create-impactful-valorant-thumbnails-a-compreayers-guide/"><u>[Updated] How to Create Impactful Valorant Thumbnails A Compreayer's Guide</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-create-youtube-intros-and-end-cards-free-and-easy-for-2024/"><u>[Updated] How to Create YouTube Intros & End Cards - Free and Easy for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-hands-on-tips-for-masterful-video-edits-with-youtube-studio/"><u>[Updated] In 2024, Hands-On Tips for Masterful Video Edits with YouTube Studio</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-get-a-youtube-video-trending/"><u>[Updated] In 2024, How to Get a YouTube Video Trending</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-professional-recordings-at-home-10-key-strategies-for-excellence/"><u>[Updated] In 2024, Professional Recordings at Home 10 Key Strategies for Excellence</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-in-2024-the-essential-guide-to-apple-podcasts-transferring/"><u>[Updated] In 2024, The Essential Guide to Apple Podcasts Transferring</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-youtubes-best-gamers-audio-selection-guide/"><u>[Updated] YouTube's Best Gamers' Audio Selection Guide</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-evaluating-the-significance-of-insta-selfies-verification/"><u>2024 Approved Evaluating the Significance of Insta-Selfies Verification</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/2024-approved-the-best-of-the-best-in-open-world-gaming/"><u>2024 Approved The Best of the Best in Open World Gaming</u></a></li>
-<li><a href="https://win-answers.techidaily.com/fixing-the-critical-error-causing-bsod-on-helldivers-vein-thrombosis/"><u>Fixing the Critical Error Causing BSOD on Helldivers Vein Thrombosis?</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-apple-iphone-11-pro-without-passcode-drfone-by-drfone-ios/"><u>How to Unlock Apple iPhone 11 Pro Without Passcode? | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/navigate-with-ease-using-our-selection-of-top-8-travel-arrangement-mobile-apps/"><u>Navigate with Ease Using Our Selection of Top 8 Travel Arrangement Mobile Apps</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-comprehending-quadcopters-how-they-soar-and-operate/"><u>[New] Comprehending Quadcopters How They Soar and Operate</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-mastering-zoom-audio-high-fidelity-and-unmuted-channels/"><u>[New] Mastering Zoom Audio High Fidelity & Unmuted Channels</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-persistent-display-repository-solutions/"><u>[New] Persistent Display Repository Solutions</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-selecting-the-superior-cloud-vaults-for-your-digital-needs/"><u>[New] Selecting the Superior Cloud Vaults for Your Digital Needs</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-the-comprehensive-guide-to-adding-a-link-in-your-tiktok-profile/"><u>2024 Approved The Comprehensive Guide to Adding a Link in Your TikTok Profile</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/2024dvd/"><u>2024新節選品贈送免費DVD/電影全片複製軟件：最佳運用方法</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/faqs-zu-winxvideo-und-dessen-ki-technologien-schnell-beantwortet/"><u>FAQs Zu WinXvideo Und Dessen KI-Technologien: Schnell Beantwortet</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/guide-pratique-amelioration-expert-de-qualite-video-en-hd4k-sur-les-systemes-dexploitation-windows-and-mac/"><u>Guide Pratique : Amélioration Expert De Qualité Vidéo En HD/4K Sur Les Systèmes D'Exploitation Windows & Mac</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-can-i-catch-the-regional-pokemon-without-traveling-on-oppo-reno-11-pro-5g-drfone-by-drfone-virtual-android/"><u>How Can I Catch the Regional Pokémon without Traveling On Oppo Reno 11 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-samsung-galaxy-s23-tactical-edition-to-new-android-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Samsung Galaxy S23 Tactical Edition to New Android? | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-unleashing-the-magic-searching-for-photos-on-pexels/"><u>In 2024, Unleashing the Magic Searching for Photos on Pexels</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/mastering-the-art-of-embedding-subtitles-into-mp4-movies-a-comprehensive-tutorial/"><u>Mastering the Art of Embedding Subtitles Into MP4 Movies – A Comprehensive Tutorial</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/schnell-und-einfach-hochwertige-videokonvertierung-dvd-zu-mp4-perfekt-gemacht/"><u>Schnell Und Einfach: Hochwertige Videokonvertierung - DVD Zu MP4 Perfekt Gemacht</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/step-by-step-tutorial-for-adding-custom-subtitles-to-your-dvd-copies/"><u>Step-by-Step Tutorial for Adding Custom Subtitles to Your DVD Copies</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/top-6-methods-for-transferring-your-dvd-content-onto-a-pc/"><u>Top 6 Methods for Transferring Your DVD Content Onto a PC</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/1725289163703-winx-dvd-ripper-and-winxvideo-ai/"><u>WinX DVD Ripper & WinxVideo AI: 在线销售与客户支持专案</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863035/11832" target="_top" id="863035">
-  <img src="//a.impactradius-go.com/display-ad/11832-863035" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/863035/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 

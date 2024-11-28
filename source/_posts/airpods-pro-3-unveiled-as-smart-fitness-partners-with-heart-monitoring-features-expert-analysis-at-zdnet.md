@@ -1,7 +1,7 @@
 ---
 title: AirPods Pro 3 Unveiled as Smart Fitness Partners with Heart Monitoring Features | Expert Analysis at ZDNET
-date: 2024-11-15T20:35:42.324Z
-updated: 2024-11-19T17:06:17.764Z
+date: 2024-11-23T18:35:39.286Z
+updated: 2024-11-28T18:49:33.580Z
 tags:
   - apple
 categories:
@@ -40,6 +40,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Apple Watch
 
 June Wan/ZDNET
@@ -71,10 +75,7 @@ For example, the Apple Watch's thermometer, which is currently only [used for fe
 The company is also reportedly seeking health regulatory approval to interpret blood oxygen data. Right now, the Watch shows users oxygen blood data without telling them what it means. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111995/7443" target="_top" id="2111995">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111995" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111995/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## AirPods
@@ -90,10 +91,7 @@ According to the report, if all goes to plan, AirPods will be able to double as 
 Additionally, the AirPods will be able to perform hearing tests that are typically performed in an audiologist's office, which will make it simpler for users to access care without leaving their homes. 
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139113/17108" target="_top" id="2139113">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139113" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139113/17108" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Vision Pro
@@ -142,22 +140,20 @@ Lastly, a headset version of Fitness+ might appear, so long as Apple can figure 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-easytech-snapshot-quick-rundown/"><u>[New] 2024 Approved EasyTech Snapshot Quick Rundown</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-freely-accessible-cutting-edge-video-editor-tools/"><u>[New] 2024 Approved Freely Accessible Cutting Edge Video Editor Tools</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-zero-to-hero-youtube-intro-wonders-with-imovie/"><u>[New] 2024 Approved From Zero to Hero YouTube Intro Wonders with iMovie</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-from-raw-to-refined-your-guide-to-youtube-video-edits-for-2024/"><u>[New] From Raw to Refined Your Guide to YouTube Video Edits for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-gradual-diminishment-of-sound-tips-from-logic-pro-experts/"><u>[New] Gradual Diminishment of Sound Tips From Logic Pro Experts</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-raw-footage-to-youtube-a-step-by-step-process-unveiled/"><u>[New] In 2024, From Raw Footage to YouTube A Step-by-Step Process Unveiled</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-live-without-the-temptation-of-youtube-shorts/"><u>[New] In 2024, How To Live Without the Temptation of YouTube Shorts</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-optimizing-whiteboard-use-during-online-sessions-across-different-tech-brands/"><u>[New] In 2024, Optimizing Whiteboard Use During Online Sessions Across Different Tech Brands</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-hacks-create-youtube-shorts-thumbnails-that-stand-out-quickly-for-2024/"><u>[Updated] Hacks Create YouTube Shorts Thumbnails That Stand Out Quickly for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-how-secure-is-subforsup-to-expand-your-youtube-community-safely-in-2024/"><u>[Updated] How Secure Is Subforsup to Expand Your YouTube Community Safely, In 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-10-free-youtube-thumbnail-downloaderssavers-online/"><u>[Updated] In 2024, 10 Free YouTube Thumbnail Downloaders/Savers Online</u></a></li>
-<li><a href="https://techtrends.techidaily.com/find-your-perfect-wallpaper-in-the-spectacular-visuals-of-the-james-webb-space-observatory/"><u>Find Your Perfect Wallpaper in the Spectacular Visuals of the James Webb Space Observatory</u></a></li>
-<li><a href="https://solve-outstanding.techidaily.com/get-premium-mp3-conversion-from-avi-for-free-enhance-sound-clarity-without-spending-a-penny/"><u>Get Premium MP3 Conversion From AVI for Free: Enhance Sound Clarity without Spending a Penny!</u></a></li>
-<li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-xs-without-losing-anything-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone XS without Losing Anything? | Dr.fone</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/in-depth-analysis-samsung-galaxy-tab-s7plus-unleashed-the-ultimate-android-tablet-experience/"><u>In-Depth Analysis: Samsung Galaxy Tab S7+ Unleashed - The Ultimate Android Tablet Experience</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/mastering-snapchat-photo-edits-a-step-by-step-guide/"><u>Mastering Snapchat Photo Edits A Step-by-Step Guide</u></a></li>
-<li><a href="https://discover-help.techidaily.com/step-by-step-tutorial-access-and-converse-via-imessage-on-your-windows-or-mac-computer/"><u>Step-by-Step Tutorial: Access and Converse via iMessage on Your Windows or Mac Computer</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-syncopated-synths-selecting-top-quality-dj-templates-online/"><u>[New] 2024 Approved Syncopated Synths Selecting Top Quality DJ Templates Online</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/reating-cost-effective-youtube-closure-elements/"><u>[New] Creating Cost-Effective YouTube Closure Elements</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/iscovering-the-best-youtube-mp3-transformers-for-2024/"><u>[New] Discovering the Best YouTube MP3 Transformers for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-in-2024-core-concepts-of-story-making/"><u>[Updated] In 2024, Core Concepts of Story Making</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/5and/"><u>【マック編集者】無償で手に入るビデオコンバータソフト5品種:最新ラインナップ&使い方解説のポイント!</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-the-ultimate-smartphone-to-vr-makeover-tutorial/"><u>2024 Approved The Ultimate Smartphone-to-VR Makeover Tutorial</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/best-pick-rp2040-based-single-board-computers-coming/"><u>Best Pick: RP2040-Based Single Board Computers Coming</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/final-user-license-agreement-ula-for-winxdvd-by-digiarty-comprehensive-terms/"><u>Final User License Agreement (ULA) for WinXDVD by Digiarty: Comprehensive Terms</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/guia-completa-para-conversion-de-archivos-vob-protegidos-a-mp4-en-windows-11-y-mac/"><u>Guía Completa Para Conversión De Archivos VOB Protegidos a MP4 en Windows 11 Y Mac</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/htcs-masterpiece-in-vr-the-immersive-experience-for-2024/"><u>HTC's Masterpiece in VR The Immersive Experience for 2024</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-tips-of-transferring-messages-from-itel-a05s-to-iphone-1415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Tips of Transferring Messages from Itel A05s to iPhone 14/15 | Dr.fone</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/mehr-klarheit-in-ihren-filmen-steigerung-der-videodatenqualitat-auf-hd-bzw-4k-ebene-unter-windows-and-mac-os-x/"><u>Mehr Klarheit in Ihren Filmen: Steigerung Der Videodatenqualität Auf HD- Bzw. 4K-Ebene Unter Windows & Mac OS X</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/professionelle-bildschirmaufzeichnungssoftware-fur-windows-11-8-und-7-komplette-bzw-partielle-pc-aufnahmen/"><u>Professionelle Bildschirmaufzeichnungssoftware Für Windows 11, 8 Und 7: Komplette Bzw. Partielle PC-Aufnahmen</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/rip-dvds-fast-with-free-ripit-tool-for-windows-os-7-8-10-get-yours-today/"><u>Rip DVDs Fast with Free RipIt Tool for Windows OS (7, 8, 10) – Get Yours Today!</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/1725290534600-winxvideo-ai4k8k10k/"><u>Winxvideo AI：如何讓圖片提升到4K、8K及10K解析度</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Process: Finding the Motherboard Serial in Windows Computers"
-date: 2024-08-30T16:50:14.034Z
-updated: 2024-08-31T16:50:14.034Z
+date: 2024-11-27T18:26:59.036Z
+updated: 2024-11-28T18:44:04.030Z
 tags:
   - deals
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://thmb.techidaily.com/a398f18ec0de1a37637c260e06464220af2d995e8
 ---
 
 ## Step-by-Step Process: Finding the Motherboard Serial in Windows Computers
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -40,6 +44,10 @@ thumbnail: https://thmb.techidaily.com/a398f18ec0de1a37637c260e06464220af2d995e8
 
 ![Search for "PowerShell" in the Start Menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/1-open-powershell.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  The run the following command to get information about your motherboard: 
 
 Get-CimInstance -ClassName Win32_baseboard
@@ -47,6 +55,10 @@ Get-CimInstance -ClassName Win32_baseboard
 ![The information about your motherboard.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/2-baseboard-deets.png) 
 
  Depending on what information is available, you may or may not get an actual model number. However, you'll almost always get something in the "Product" field that will be enough to figure out what motherboard is in your PC. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Check Your Model Number from the Command Prompt (or PowerShell) with WMIC
 
@@ -64,23 +76,14 @@ wmic baseboard get product,Manufacturer,version,serialnumber
 
 ![The Command Prompt will display your motherboard manufacturer and model.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017/10/wmic_1.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
-<!-- affiliate ads end -->
  The information returned checks out for the motherboard we're using: the manufacturer is Gigabyte, the board is the Z170X-Gaming 7, and while the WMIC tool tried to check the serial number, Gigabyte left that particular bit unfilled for whatever reason. Nonetheless, the WMIC tool functioned just as it should, and without opening the case or using any third party tools, we have the basic information we're looking for.
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ##  Check Your Model Number in System Information
 
  System Information is a no-frills way to look up the details of your PC's hardware and software. There are two easy ways to launch it. Click the Start button, type "System Information" into the search bar, and then hit Enter or click "Open."
 
 ![Click the Start button, type "system information" into the search bar, then hit Enter or click "Open."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017/10/click-system-information.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Alternatively, you can use the Run window. Hit Windows+R to open a run dialog, then type "msinfo32" into the Run prompt and hit Enter.
 
  The "System Summary" page will be open by default. Scroll down and look for the line named "BaseBoard Product"—that is your motherboard.
@@ -88,8 +91,13 @@ wmic baseboard get product,Manufacturer,version,serialnumber
 ![Look for a line named "BaseBoard Product." That is your motherboard.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017/10/look-for-baseboard-product.png) 
 
 <!-- affiliate ads begin -->
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Check Your Model Number with Speccy
 
  If you want another GUI-based way to check your motherboard's model number (as well as a method that yields more information at a glance than the WMIC tool), you can grab the free tool [Speccy](https://www.piriform.com/speccy). It's a handy app to have around.
@@ -100,16 +108,14 @@ wmic baseboard get product,Manufacturer,version,serialnumber
 
 ![The &quot;Summary&quot; page will display your motherboard.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017/10/wmic_2.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
  Click over to the "Motherboard" tab on the left to see even more information about your motherboard, including details about the chipset and voltages, along with the types of slots included on the board and whether or not they're currently in use.
 
 ![The &quot;Motherboard&quot; tab has more specific information about your motherboard.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017/10/wmic_3.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Check Your Motherboard Model with HWiNFO64
 
 [HWiNFO64](https://www.fosshub.com/HWiNFO.html) displays most of the same information as Speccy, though it looks fairly different. Downlod and launch it to get started.
@@ -122,16 +128,10 @@ wmic baseboard get product,Manufacturer,version,serialnumber
 
 ![Tick the box that says "Summary-Only," then click "Start."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017/10/tick-summary-only-then-click-start.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
-<!-- affiliate ads end -->
  You'll see a window that displays everything about your PC's hardware. The left section gives you all of the details about your [CPU](https://facebook-clips.techidaily.com/echoes-of-now-strategies-for-downloading-current-events/), the middle section provides information about your [motherboard](https://tech-savvy.techidaily.com/uniting-giants-how-bzs-games-meet-microsofts-ai-visionaries-tech-dialogue/) and [RAM](https://youtube-web.techidaily.com/ed-2024-approved-unlocking-youtube-success-top-video-strategies-to-explode-views/), and the right-most section focuses on your [GPU](https://android-unlock.techidaily.com/unlock-vivo-s17-pro-phone-password-without-factory-reset-full-guide-here-by-drfone-android/) and hard drives.
 
 ![The HWiNFO64 summary window.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017/10/the-summar-window.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  The first few lines will tell you everything you need to know about your motherboard, including the model name, number, BIOS version, and manufacturer.
 
 ![The motherboard segment will be near the top-middle of the window.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017/10/motherboard-setting.png) 
@@ -144,8 +144,6 @@ wmic baseboard get product,Manufacturer,version,serialnumber
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -153,4 +151,21 @@ wmic baseboard get product,Manufacturer,version,serialnumber
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-channel-your-inner-videographer-to-produce-top-tier-edu-videos/"><u>[New] 2024 Approved Channel Your Inner Videographer to Produce Top-Tier Edu-Videos</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-achieving-profitability-at-half-a-million-viewers-for-2024/"><u>[New] Achieving Profitability at Half a Million Viewers for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-enhancing-online-privacy-youtubes-access-controls/"><u>[Updated] 2024 Approved Enhancing Online Privacy YouTube's Access Controls</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-effortlessly-stream-mp3-to-youtube-with-3-key-steps/"><u>[Updated] In 2024, Effortlessly Stream MP3 to YouTube with 3 Key Steps</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-mastering-the-name-game-for-top-podcast-titles/"><u>[Updated] Mastering the Name Game for Top Podcast Titles</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-capturing-skies-engaging-audiences-learn-to-stream-w-dji-drones/"><u>2024 Approved Capturing Skies, Engaging Audiences Learn to Stream W/ DJI Drones</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/2024-approved-tiktok-and-snapchat-face-off-a-users-perspective-guide/"><u>2024 Approved TikTok & Snapchat Face-Off A User's Perspective Guide</u></a></li>
+<li><a href="https://android-location.techidaily.com/fake-android-location-without-rooting-for-your-vivo-s18-pro-drfone-by-drfone-virtual/"><u>Fake Android Location without Rooting For Your Vivo S18 Pro | Dr.fone</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/great-value-great-features-in-depth-analysis-of-the-asus-chromebook-flip-c302ca/"><u>Great Value, Great Features: In-Depth Analysis of the Asus Chromebook Flip C302CA</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-restore-a-bricked-lenovo-thinkphone-back-to-operation-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Restore a Bricked Lenovo ThinkPhone Back to Operation | Dr.fone</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/in-2024-mastering-the-transition-moving-your-snapchat-savings-home/"><u>In 2024, Mastering the Transition Moving Your Snapchat Savings Home</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/tech-showdown-exploring-facial-detection-in-iphones-vs-samsungs-for-2024/"><u>Tech Showdown Exploring Facial Detection in iPhones Vs. Samsungs for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/top-ios-psp-gamepads-emulation-2023s-best-list-for-2024/"><u>Top iOS PSP Gamepads Emulation - 2023'S Best List for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/turn-viewers-into-cashflow-your-online-income-plan-for-2024/"><u>Turn Viewers Into Cashflow Your Online Income Plan for 2024</u></a></li>
+</ul></div>
 

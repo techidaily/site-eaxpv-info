@@ -1,7 +1,7 @@
 ---
 title: How One Key Mac Studio Attribute Is Swaying Me Away From Buying an M4 Mac Mini This September – Exclusive Findings by ZDNet
-date: 2024-10-30T10:19:09.415Z
-updated: 2024-11-01T16:45:53.626Z
+date: 2024-11-22T19:19:37.473Z
+updated: 2024-11-28T17:31:07.040Z
 tags:
   - apple
 categories:
@@ -22,6 +22,10 @@ It's no secret that iPhones aren't the most rugged devices, sometimes yielding s
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What is the best iPhone 16 case right now?
 
 Our pick for the best iPhone 16 case right now is the [Nomad Sport Case](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fstores%2FNOMAD%2Fpage%2F6927BCAB-A05E-40FA-ADA7-1E37C46F23E5%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C7f821668-9351-4618-8103-2ca87eecc478%7Cdtp&dtb=1) case. This brand has been a longtime ZDNET favorite for its sleek form factor, [MagSafe capabilities](https://www.zdnet.com/article/best-magsafe-wallets/), and drop protection without a bulky form factor. Keep reading for more of our iPhone 16 case picks.
@@ -40,19 +44,6 @@ Pros
 
 Cons 
 * Only available for iPhone 16 Pro models
-
-<!-- affiliate ads begin -->
-<span id="1983539">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983539.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983539">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983539.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983539%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983539/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Nomad Sport Case
 
@@ -107,20 +98,11 @@ Cons
 * Minimal drop protection
 * Heftier price
 
-<!-- affiliate ads begin -->
-<span id="1424531">
-					<video width="864" height="NaN" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424531.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424531">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424531.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424531%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424531/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Pitaka Ultra Slim case
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Best thin iPhone 16 case
 
@@ -146,14 +128,11 @@ Pros
 Cons 
 * Low drop protection
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134500/19576" target="_top" id="2134500">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134500" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134500/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Smartish Gripmunk case
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Best cheap iPhone 16 case
 
@@ -182,10 +161,7 @@ Cons
 ## Mous Limitless 6.0
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959764/19272" target="_top" id="1959764">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959764" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959764/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Best protective iPhone 16 case
@@ -212,13 +188,6 @@ Pros
 Cons 
 * Pricier
 * No camera protection
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123736/7443" target="_top" id="2123736">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123736" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123736/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Incase Icon
 
@@ -248,13 +217,6 @@ Cons
 * Not too much protection
 * Pricey for low protection
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134224/18498" target="_top" id="2134224">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134224" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134224/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Moft Snap Case Movas
 
 ### Best vegan-leather iPhone 16 case
@@ -283,6 +245,10 @@ Cons
 * Unsure on sustainability
 * Only for Pro models
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Nomad Modern Leather Case
 
 ### Best leather case for iPhone 16
@@ -297,6 +263,10 @@ That being said, leather is not everybody's thing. But, if you are in the market
 
 Show Expert Take Show less 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What is the best iPhone 16 case?
 
 Our pick for the best iPhone 16 case is the Nomad Sport case for its sleek design and solid protection. Check out how the other options stack up below.
@@ -309,6 +279,10 @@ Our pick for the best iPhone 16 case is the Nomad Sport case for its sleek desig
 | Incase Icon case           | $60       | Yes                 | Yes         |
 | Nomad Modern Leather case  | $70       | Yes                 | Yes         |
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Which is the right iPhone 16 case for you?
 
 The best iPhone 16 case option for you differs depending on your needs. For one, you may require an extremely protective case if you are clumsy with your device. Maybe you're lucky with great phone handling skills and want a stylish case. There are options for everyone.
@@ -320,13 +294,6 @@ The best iPhone 16 case option for you differs depending on your needs. For one,
 | Latercase for iPhone 16         | A super thin case to stick your large phone in your small pocket.                                       |
 | Incase Icon case                | A unique and stylish case with protection and MagSafe capabilities.                                     |
 | Nomad Modern Leather case       | A person who prefers leather cases. This one also protects and comes worn in.                           |
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885928/19272" target="_top" id="1885928">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885928" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885928/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Factors to consider when choosing the best iPhone 16 case
 
@@ -351,15 +318,16 @@ However, if you stray from the list, the best options are those with a solid bum
 
 Unfortunately, there isn't such a thing as the best phone case brand. Many sources point to Spigen and Otterbox as the most popular phone case brands with the most units sold. That, however, does not necessarily mean they are the best brands. It is ultimately up to you and your lived experience and opinion.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What case material is best for iPhone?
 
 Materials like plastic or polycarbonate usually offer the best price and durability. Other cases made from leather or metal can be pricier and may not offer the best protection.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896555/19272" target="_top" id="1896555">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896555" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896555/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When is the iPhone 16 available?
@@ -373,6 +341,10 @@ If your phone has the problem of overheating, it may be best to look into specia
 ## What is the best iPhone for a 16 year old?
 
 This is a good question, and if we had to chime in, we would say something more durable. A study by tech protection service Asurion in 2013 that [3 out of 10 teenagers have dropped](https://www.prnewswire.com/news-releases/3-out-of-10-teens-damaged-cell-phones-in-the-last-18-months-mainly-at-school-218494391.html#:~:text=A%20back%2Dto%2Dschool%20survey,most%20accidents%20happening%20at%20school.) and/or damaged their cell phones in the past 18 months. Ten years later, many phones are even less durable. Therefore, that number may be higher, especially if teenagers have more phones than ever. To prevent damage to your teen's phone, it may be wise to invest in a durable case that protects the device.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Are there alternative iPhone 16 cases worth considering?
 
@@ -420,17 +392,16 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-global-sensations-surpassing-100-million-views-on-youtube-the-yearly-countdown-for-2024/"><u>[New] Global Sensations Surpassing 100 Million Views on YouTube (The Yearly Countdown) for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-hack-your-channels-identity-with-these-11-budget-tools-for-2024/"><u>[New] Hack Your Channel's Identity with These 11 Budget Tools for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-harmonize-your-favorites-creating-custom-youtube-playlists/"><u>[New] In 2024, Harmonize Your Favorites Creating Custom YouTube Playlists</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-free-digital-asset-valuation-tools-for-2024/"><u>[Updated] Free Digital Asset Valuation Tools for 2024</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/complete-review-and-guide-to-techeligible-frp-bypass-and-more-for-vivo-v27-by-drfone-android/"><u>Complete Review & Guide to Techeligible FRP Bypass and More For Vivo V27</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/how-does-the-stardust-trade-cost-in-pokemon-go-on-realme-11-5g-drfone-by-drfone-virtual-android/"><u>How does the stardust trade cost In pokemon go On Realme 11 5G? | Dr.fone</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/in-2024-harmonyhub-pro-downloads-and-reviews/"><u>In 2024, HarmonyHub Pro Downloads & Reviews</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-t-mobile-apple-iphone-15-pro-max-online-without-sim-card-by-drfone-ios/"><u>In 2024, How to Unlock T-Mobile Apple iPhone 15 Pro Max online without SIM Card?</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/is-gpt-3-making-students-written-workout-old/"><u>Is GPT-3 Making Students' Written Workout Old?</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/tart-your-youtube-channel-growth-with-key-editing-skills-from-sony-vegas/"><u>Jumpstart Your YouTube Channel Growth with Key Editing Skills From Sony Vegas</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/quick-guide-posting-podcast-on-instagram-for-2024/"><u>Quick Guide Posting Podcast on Instagram for 2024</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/ultimate-guide-to-insigina-drivers-on-windows-fast-and-simple-downloads/"><u>Ultimate Guide to Insigina Drivers on Windows: Fast and Simple Downloads</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-unraveling-the-secrets-to-effortlessly-record-seascapes-for-2024/"><u>[New] Unraveling the Secrets to Effortlessly Record Seascapes for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-discover-ultimate-free-space-solutions-trustworthy-platforms-up-to-1tb-for-2024/"><u>[Updated] Discover Ultimate Free Space Solutions - Trustworthy Platforms (Up To 1TB) for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/entendiendo-el-alcance-de-tus-historias-de-instagram-dimensiones-y-factores-clave/"><u>Entendiendo El Alcance De Tus Historias De Instagram: Dimensiones Y Factores Clave</u></a></li>
+<li><a href="https://howto.techidaily.com/full-guide-how-to-fix-connection-is-not-private-on-htc-u23-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Full Guide How To Fix Connection Is Not Private on HTC U23 | Dr.fone</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-refined-approaches-from-obs-studio-to-facebook-screenshots/"><u>In 2024, Refined Approaches From OBS Studio to Facebook Screenshots</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/mp4-to-mp3-conversion-at-no-cost-discover-movavis-simple-and-effective-solution/"><u>MP4 to MP3 Conversion at No Cost - Discover Movavi's Simple and Effective Solution</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/transforma-tu-musica-wma-al-formato-mp3-facilmente-usando-la-herramienta-online-de-movavi/"><u>Transforma Tu Música WMA Al Formato MP3 Fácilmente Usando La Herramienta Online De Movavi</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/transformar-archivos-de-audio-m4a-a-formato-m4v-gratuito-guia-paso-a-paso-con-movavi/"><u>Transformar Archivos De Audio .m4a a Formato M4v Gratuito: Guía Paso a Paso Con Movavi</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unlocking-the-potential-of-artificial-intelligence-with-instagrams-metadata-strategies/"><u>Unlocking the Potential of Artificial Intelligence with Instagram's Metadata Strategies</u></a></li>
+<li><a href="https://extra-information.techidaily.com/voice-yourself-audio-recording-on-windows-10/"><u>Voice Yourself Audio Recording on Windows 10</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/mp3-aif-convert-movavi/"><u>무료 MP3 변환 AIF 파일을 쉽게 Convert하는 Movavi - 인터넷 속에서</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Boost Your Apple Watch's Battery Longevit with 8 Essential Tips - ZDNet
-date: 2024-11-12T19:47:11.561Z
-updated: 2024-11-19T23:07:59.176Z
+date: 2024-11-21T17:00:50.769Z
+updated: 2024-11-28T19:22:49.142Z
 tags:
   - apple
 categories:
@@ -42,13 +42,6 @@ This is the most effective thing you can do to preserve your Apple Watch's batte
 
 **How to:** On your Apple Watch, head to Settings > Display & Brightness > Always On, then toggle the feature off.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136612/26400" target="_top" id="2136612">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136612" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136612/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. Use Low Power Mode when you can
 
 I don't recommend using Low Power Mode all day since it limits the functionality of your Apple Watch, but in a pinch, it can squeeze out a lot more juice than you think. If you drop down to 40 percent by 2 p.m., your watch will last the remainder of the day without issue by using the feature.
@@ -57,6 +50,10 @@ I don't recommend using Low Power Mode all day since it limits the functionality
 
 **Also:** [**Apple Watch Ultra 2 vs. Watch Ultra: Is it time to upgrade?**](https://www.zdnet.com/article/apple-watch-ultra-2-vs-ultra/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Disable cellular connectivity
 
 If you have an Apple Watch with cellular connectivity, it's best to not use your cell connection all the time. At times, depending on your location, your watch can go searching for an active LTE signal, only to spend too much time doing so and never grabbing onto one that's strong enough to preserve your battery. If, for example, you're traveling long distances or chilling at home, it's best to flick it off until you need it.
@@ -64,6 +61,10 @@ If you have an Apple Watch with cellular connectivity, it's best to not use your
 **How to:** Open Settings > Cellular on your watch and toggle off "Cellular." Then, when you want to turn it back on, flick the switch again. It's worth noting that airplane mode will essentially do the same thing, but it also turns off Wi-Fi which you need for certain things, so manually disabling cellular data will save some steps.
 
 Jason Hiner/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Turn off background app refresh
 
@@ -84,10 +85,7 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123729/7443" target="_top" id="2123729">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123729" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123729/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Turn off irregular heart rate notifications
@@ -95,6 +93,10 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 With some of the newest Apple Watches, Apple includes a feature that can alert you when your heart rate is beating in irregular intervals and alert you when it may be atrial fibrillation. While that's nice to have for tracking your health over time, it means the heart rate sensor is constantly on collecting your heart rate, which isn't good for battery life.
 
 **How to:** Visit Settings > Heart > Irregular Rhythm Notifications and flick the feature off.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. Reduce the amount of notifications you get
 
@@ -112,19 +114,6 @@ Ah, Siri. Many people swear by the voice assistant and use it daily to do things
 
 Adrian Kingsley-Hughes/ZDNET
 
-<!-- affiliate ads begin -->
-<span id="1982596">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982596.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982596">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982596.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982596%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982596/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 8\. Factory reset your Apple Watch (a.k.a. the last resort)
 
 I've heard from many folks who have faced issues with battery life on the Apple Watch that it's best to do a complete factory reset. Full disclosure: it's not going to work for everyone, but if you've exhausted every option on your Apple Watch to extend battery life, the battery is still healthy, and you don't want to upgrade, your best bet is to reset it and start from scratch. That way, you can set up your watch and, along the way, spot the app or service that drains your battery the most. It may also help clean up some of the system bloat in watchOS 10 that's led to poor efficiency on your watch.
@@ -132,10 +121,7 @@ I've heard from many folks who have faced issues with battery life on the Apple 
 **How to:** Go to Settings > General > Reset on your Apple Watch, then choose "Erase All Content and Settings." You won't have to disable Find My or get rid of your cellular plan since you'll be setting it up with your iPhone again, but if you want to get rid of absolutely everything, make sure you disable Find My and dump your cellular plan during the process.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How we test smartwatches
@@ -179,24 +165,18 @@ For a deeper look at our testing process, check out our comprehensive [smartwatc
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-2024-approved-reviewing-the-powerhouse-of-magixs-photo-toolkit/"><u>[New] 2024 Approved Reviewing the Powerhouse of MAGIX's Photo Toolkit</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-churning-charts-todays-1-backdrop-music-for-youtube-shorts-for-2024/"><u>[New] Churning Charts Today's #1 Backdrop Music for YouTube Shorts for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-decoding-t-series-online-earnings-stream/"><u>[New] In 2024, Decoding T-Series' Online Earnings Stream</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-5-best-sites-for-quick-templates-on-youtube/"><u>[Updated] 2024 Approved 5 Best Sites for Quick Templates on YouTube</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-download-free-sound-effects-for-youtubers/"><u>[Updated] 2024 Approved Download Free Sound Effects for YouTubers</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-safeguard-your-videos-in-the-age-of-youtube/"><u>[Updated] 2024 Approved How to Safeguard Your Videos in the Age of YouTube</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-convert-youtube-videos-to-mp3-songs-on-mac-for-2024/"><u>[Updated] How to Convert YouTube Videos to MP3 Songs on Mac for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-efficient-techniques-saving-google-meets-on-phones/"><u>[Updated] In 2024, Efficient Techniques Saving Google Meets on Phones</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-elevate-your-channels-templates-at-no-charge/"><u>[Updated] In 2024, Elevate Your Channels - Templates at No Charge</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-leading-free-platforms-for-youtube-openings/"><u>[Updated] Leading Free Platforms for YouTube Openings</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-streamlining-submission-a-podcasters-guide/"><u>2024 Approved Streamlining Submission A Podcaster's Guide</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-the-ultimate-tutorial-on-embedding-yt-playlists-online/"><u>2024 Approved The Ultimate Tutorial on Embedding YT Playlists Online</u></a></li>
-<li><a href="https://blog-min.techidaily.com/8-ways-to-transfer-photos-from-motorola-moto-g84-5g-to-iphone-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>8 Ways to Transfer Photos from Motorola Moto G84 5G to iPhone Easily | Dr.fone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-troubleshoot-and-restore-voice-communication-in-apex-legends/"><u>How to Troubleshoot and Restore Voice Communication in Apex Legends</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-easily-unlock-your-xiaomi-redmi-a2plus-device-sim-by-drfone-android/"><u>In 2024, Easily Unlock Your Xiaomi Redmi A2+ Device SIM</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/quick-pace-facebook-videos-prime-extensions-tips-and-tricks-list-for-2024/"><u>Quick-Pace Facebook Videos Prime Extensions, Tips & Tricks List for 2024</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/streaming-selection-saga-choose-between-engaging-podcasts-and-youtube-channels/"><u>Streaming Selection Saga Choose Between Engaging Podcasts and YouTube Channels</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/visionary-video-planning-using-the-power-of-google-trends-for-2024/"><u>Visionary Video Planning Using the Power of Google Trends for 2024</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/z7-photo-masterclass-how-nikon-conquers-mirrorless-challenges/"><u>Z7 Photo Masterclass: How Nikon Conquers Mirrorless Challenges</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-navigating-the-world-of-gopro-streaming-and-social-media-networks/"><u>[New] Navigating the World of Gopro Streaming and Social Media Networks</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-top-incredible-browser-game-hacks/"><u>[New] Top Incredible Browser Game Hacks</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-2024-approved-exclusive-list-affordable-mac-video-editing-on-tiktok/"><u>[Updated] 2024 Approved Exclusive List Affordable Mac Video Editing on TikTok</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-affordable-action-camera-deals-top-6-for-less-than-100-only/"><u>[Updated] In 2024, Affordable Action Camera Deals Top 6 for Less Than $100 Only</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/approved-rhythmic-revelations-top-15-vlogs-celebrating-music-creators-stories/"><u>2024 Approved Rhythmic Revelations Top 15 Vlogs Celebrating Music Creators' Stories</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/batch-image-scaling-ultimate-guide-to-batch-resizing-your-photographs/"><u>Batch Image Scaling: Ultimate Guide to Batch Resizing Your Photographs</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/expert-advice-on-editing-away-backgrounds-for-2024/"><u>Expert Advice on Editing Away Backgrounds for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/free-online-converter-change-image-format-from-pgm-to-jpg-with-movavi/"><u>Free Online Converter: Change Image Format From PGM to JPG with Movavi</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/lock-your-xiaomi-phone-in-style-the-top-5-gesture-lock-screen-apps-by-drfone-android/"><u>Lock Your Xiaomi Phone in Style The Top 5 Gesture Lock Screen Apps</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/quickly-change-wma-files-to-webm-format-with-free-onliner-moovavi-tool/"><u>Quickly Change WMA Files to WebM Format with Free Onliner – Moovavi Tool</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/rotate-your-pc-videos-with-these-simple-and-effective-windows-ninja-tools/"><u>Rotate Your PC Videos with These Simple and Effective Windows Ninja Tools!</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/top-15-onlinemedienbearbeiter-programme-mit-movavi-ihr-optimales-video-editing/"><u>Top 15 Onlinemedienbearbeiter-Programme Mit Movavi: Ihr Optimales Video Editing</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/w64/"><u>모바일화에 성공하기 위한 W64 파일 제어의 쉬운 변환 - 원룰 무료 도구</u></a></li>
 </ul></div>
 

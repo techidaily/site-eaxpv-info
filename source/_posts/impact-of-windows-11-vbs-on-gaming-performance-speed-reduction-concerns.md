@@ -1,7 +1,7 @@
 ---
 title: "Impact of Windows 11 VBS on Gaming Performance: Speed Reduction Concerns"
-date: 2024-08-30T16:50:37.648Z
-updated: 2024-08-31T16:50:37.648Z
+date: 2024-11-21T16:03:46.269Z
+updated: 2024-11-28T18:08:20.837Z
 tags:
   - deals
 categories:
@@ -11,6 +11,10 @@ thumbnail: https://thmb.techidaily.com/07fa8cadb13240ad4114bdffce36c4f17cee86cd9
 
 ## Impact of Windows 11 VBS on Gaming Performance: Speed Reduction Concerns
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * Virtualization-based security (VBS) enhances system security by creating an isolated environment for running security solutions, but it comes with some performance overhead.
@@ -18,6 +22,10 @@ thumbnail: https://thmb.techidaily.com/07fa8cadb13240ad4114bdffce36c4f17cee86cd9
 * Testing with the 3DMark Time Spy benchmark showed a small performance difference with VBS on versus off, particularly in CPU-limited scenarios, but the real-world impact was negligible and not noticeable in gameplay. It's generally recommended to leave VBS on for the security benefits.
 
  Virtualization-based security (VBS) has become a staple in the IT world for safeguarding systems. Yet, for gamers, the question isn't just about security but performance. So, does enabling VBS on Windows 11 actually slow down PC games? Let's find out.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  What Is Virtualization-Based Security (VBS)?
 
@@ -28,17 +36,15 @@ thumbnail: https://thmb.techidaily.com/07fa8cadb13240ad4114bdffce36c4f17cee86cd9
  The downside of this is that virtualization comes with some degree of overhead. In other words, processing power that could have gone to running the application faster is now going to managing the virtualization process. That being said, modern computers are designed at the hardware level with virtualization in mind, so the actual performance difference should be minimal in theory.
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Why Gamers Should Care About VBS
 
  The prospect of sacrificing even a small percentage of performance can make gamers wary. After all, when you're in the heat of a virtual battle, [every frame per second (FPS) counts](https://tiktok-videos.techidaily.com/unleash-potential-in-tiktok-videos-free-editors-for-mac/). Additionally, some gaming rigs run on hardware that just meets the minimum system requirements. In such cases, even minor performance drops can make a noticeable difference.
 
  As mentioned above, virtualization inherently comes with some measure of system overhead that could be going towards video game performance. So, we expect to see some sort of performance difference with VBS on versus off, but how large is the impact?
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  How We Tested VBS' Impact on Windows 11
 
  I have a decent workstation laptop with a 24-core Intel 13900HX CPU and a laptop RTX 4060\. My goal is to determine if VBS makes any meaningful difference to my computer, but I encourage you to perform the following tests yourself because every system is different.
@@ -50,26 +56,23 @@ thumbnail: https://thmb.techidaily.com/07fa8cadb13240ad4114bdffce36c4f17cee86cd9
  3DMark has various benchmark tests that stress computers in different ways. Time Spy is a good test of mainstream gaming performance for modern games. The final score is calculated after taking various metrics into account across the whole system, and will tell us where our performance differences are coming from, rather than just telling us that it's better or worse.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  The Results of Using VBS on Windows 11
 
  First, here are the results of running the benchmark with VBS on. We get a total system score of 11,028 and the graphics card gets a score of 10,478 points.
 
 ![VBS On 11 028 3D Mark Points](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/vbs-on.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
-<!-- affiliate ads end -->
  Next, we have the results with VBS off after a restart. Now we get 11,125 for the overall score and the graphics score has gone up to 10,515.
 
 ![3D Mark VBS Off Score 11 125](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/2-21.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Clearly, the score with VBS off is higher, so we can say that VBS has some measure of performance impact. However, the difference in scores is so small that it wouldn't make a noticeable difference in gameplay.
 
  I ran the Time Spy benchmark three times with VBS on and with it off. There were no anomalies—the results were almost exactly the same in each test.
@@ -84,9 +87,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
  3D Mark scores are calculated using a weighted formula (per [UL.com](https://support.benchmarks.ul.com/support/solutions/articles/44002136143-how-is-the-3dmark-time-spy-score-calculated)) and are not directly comparable to, for example, the frame rate of a specific game. Despite this, making any changes to a system will affect the final score and frame rate is one of the components.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
 ##  Who Should Disable VBS?
 
  In general, I recommend that anyone with a modern computer running Windows 11 should leave VBS on, since the security benefits outweigh the small performance penalty. However, you might decide to disable VBS if you:
@@ -104,8 +104,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -113,4 +111,24 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-dive-into-the-dos-and-donts-of-youtube-beauty-channels/"><u>[New] 2024 Approved Dive Into the Do's and Don'ts of YouTube Beauty Channels</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-guiding-imovie-content-from-home-studio-to-youtube-hub/"><u>[New] 2024 Approved Guiding iMovie Content From Home Studio to YouTube Hub</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/raft-memorable-content-explore-youtubes-top-10-creative-responses/"><u>[New] Craft Memorable Content Explore YouTube's Top 10 Creative Responses</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-cutting-edge-techniques-mastering-youtube-subtitlecc-additions-for-2024/"><u>[New] Cutting-Edge Techniques Mastering YouTube Subtitle/CC Additions for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-newbie-to-pro-your-complete-guide-to-creator-studio/"><u>[New] In 2024, From Newbie to Pro Your Complete Guide to Creator Studio</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-securely-amplifying-your-tiktok-presence-wisely/"><u>[New] Securely Amplifying Your TikTok Presence Wisely</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-the-ultimate-hack-swiftly-delete-your-youtube-comments/"><u>[New] The Ultimate Hack Swiftly Delete Your YouTube Comments</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-get-rid-of-youtube-shorts-a-comprehensible-guide/"><u>[Updated] 2024 Approved Get Rid of YouTube Shorts A Comprehensible Guide</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-unleash-youtube-potential-best-mp4-editors-on-mac/"><u>[Updated] 2024 Approved Unleash YouTube Potential Best MP4 Editors on Mac</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-create-a-lifestyle-video-to-inspire-your-audience/"><u>[Updated] How to Create a Lifestyle Video to Inspire Your Audience</u></a></li>
+<li><a href="https://media-tips.techidaily.com/free-audio-editing-toolkit-learn-how-to-seamlessly-segment-mp3s-on-windowsmac/"><u>Free Audio Editing Toolkit: Learn How To Seamlessly Segment MP3s on Windows/Mac</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/guide-updating-your-windows-device-with-latest-atheros-driver-software/"><u>Guide: Updating Your Windows Device with Latest Atheros Driver Software</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-your-samsung-galaxy-s24-location-on-twitter-drfone-by-drfone-virtual-android/"><u>How to Change your Samsung Galaxy S24 Location on Twitter | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-recover-apple-iphone-se-data-from-icloud-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How To Recover Apple iPhone SE Data From iCloud? | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-samsung-galaxy-s24-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Samsung Galaxy S24</u></a></li>
+<li><a href="https://discover-exclusive.techidaily.com/ultimate-guide-burn-dvds-from-rips-without-compromising-quality-on-windows-10/"><u>Ultimate Guide: Burn DVDs From Rips without Compromising Quality on Windows 10</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/youtube-video-shooting-equipment-list-what-you-need-to-start-recording-videos-for-2024/"><u>YouTube Video Shooting Equipment List What You Need to Start Recording Videos for 2024</u></a></li>
+</ul></div>
 

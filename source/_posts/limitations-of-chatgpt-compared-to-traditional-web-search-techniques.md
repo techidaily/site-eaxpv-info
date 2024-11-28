@@ -1,7 +1,7 @@
 ---
 title: Limitations of ChatGPT Compared to Traditional Web Search Techniques
-date: 2024-08-30T16:51:19.747Z
-updated: 2024-08-31T16:51:19.747Z
+date: 2024-11-25T17:59:04.473Z
+updated: 2024-11-28T17:36:45.472Z
 tags:
   - cutting-edge
 categories:
@@ -12,6 +12,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 ## Limitations of ChatGPT Compared to Traditional Web Search Techniques
 
 Do you use ChatGPT or similar AI tools in place of a good old-fashioned web search? It can be tempting to pass your queries off to a chatbot, but there are some good reasons to be cautious when doing so.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Can I Trust What ChatGPT Is Telling Me?
 
@@ -33,6 +37,10 @@ Do you use ChatGPT or similar AI tools in place of a good old-fashioned web sear
 
  Sometimes, chatbots make mistakes because [the input you have provided simply isn’t good enough](https://fake-location.techidaily.com/in-2024-6-ways-to-change-spotify-location-on-your-realme-v30t-drfone-by-drfone-virtual-android/). Perhaps your prompts are too short, not specific enough, or you haven’t “primed” the model with enough information by having a back-and-forth beforehand.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  The Importance of Sourcing Your Information
 
  Sourcing quality information is important if you’re trying to make a sound decision. ChatGPT-3.5 sidesteps the process of showing a source for its claims in favor of a more conversational format. This feels more like talking to a person than interfacing with a search engine.
@@ -51,9 +59,6 @@ Do you use ChatGPT or similar AI tools in place of a good old-fashioned web sear
 
  In the example above, I asked ChatGPT to name the largest bird in the world. The response is not wrong, but when pushed for a source the chatbot comes up short. It my be common knowledge that the ostrich is the largest bird in the world, but what about other topics? Can you implicitly trust a chat bot that simply can't tell you how it reached its conclusion, or point you to further reading to verify the claim?
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ##  Some AI Tools Cite Their Claims
 
  Bing AI makes a point of sourcing many of its claims with in-line links whenever you ask it a question. On top of this, it uses the GPT-4 model which is more advanced and uses more recent information than the free version of GPT-3.5 on OpenAI’s website.
@@ -63,16 +68,17 @@ Do you use ChatGPT or similar AI tools in place of a good old-fashioned web sear
 ![Google Bard's attempt to verify its claims](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/google_bard_sources.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  If you're using the paid ChatGPT Plus subscription, you'll also have access to GPT-4 and, likewise, a live internet connection to source and display where information came from.
 
  Even if sources are cited, you should investigate them if you’re using such a tool to come to a decision. The same can be said of the snippet that appears at the top of a Google search when you ask the search engine a question.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
-DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Be Mindful When Using AI Chatbots
 
  AI chatbots like ChatGPT are exciting tools, and we encourage you to experiment with them to see what is possible. They can help you come up with ideas for projects or writing prompts, [practice speaking a foreign language](https://phone-solutions.techidaily.com/how-to-bypass-google-frp-on-redmi-k70e-by-drfone-android-unlock-remove-google-frp/), [draft CVs and formal letters](https://facebook-clips.techidaily.com/updated-achieve-higher-interactions-mastering-the-art-of-square-videos-for-2024/), or even [create your own personal AI assistant using custom instructions](https://facebook-video-content.techidaily.com/new-mastering-monetization-a-beginners-guide-to-facebook-revenue-for-2024/).
@@ -84,8 +90,9 @@ DbSchema database designer for all databases, schema design in the team, schema 
 ![ChatGPT recipe for Rustic Brick-Baked Earthy Delight](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/chatgpt_recipe.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Perhaps [let ChatGPT take control of what’s for dinner tonight](https://win-dash.techidaily.com/how-to-update-your-amd-radeon-graphics-card-drivers-effectively/) instead?
 
 <ins class="adsbygoogle"
@@ -94,8 +101,6 @@ DbSchema database designer for all databases, schema design in the team, schema 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -103,4 +108,22 @@ DbSchema database designer for all databases, schema design in the team, schema 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-amplify-audience-connection-best-creative-reacting-techniques/"><u>[New] 2024 Approved Amplify Audience Connection Best Creative Reacting Techniques</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-discovering-the-magic-behind-youtube-shorts/"><u>[New] 2024 Approved Discovering the Magic Behind Youtube Shorts</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/new-crafting-captivating-tiktok-screenshots-with-ease-for-2024/"><u>[New] Crafting Captivating TikTok Screenshots with Ease for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-cultivating-eco-diversity-in-metropolitan-land-use-for-2024/"><u>[New] Cultivating Eco-Diversity in Metropolitan Land Use for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-dive-into-design-get-a-complimentary-set-of-50-banner-pieces/"><u>[New] In 2024, Dive Into Design Get a Complimentary Set of 50 Banner Pieces</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-no-more-hidden-shorts-just-visible-ones/"><u>[New] No More Hidden Shorts, Just Visible Ones</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-revamped-podcast-chats-attracting-true-fans/"><u>[New] Revamped Podcast Chats Attracting True Fans</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-video-sharing-giants-clash-vimeo-vs-youtube/"><u>[New] Video Sharing Giants Clash Vimeo vs YouTube</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-best-recording-equipment-for-creating-youtube-masterpieces/"><u>[Updated] In 2024, Best Recording Equipment For Creating YouTube Masterpieces</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-from-abrupt-shifts-to-serene-journeys-expert-crossfade-guidance-with-audacity/"><u>[Updated] In 2024, From Abrupt Shifts to Serene Journeys Expert Crossfade Guidance with Audacity</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/hand-drawn-whiteboard-animation-top-tools-and-software-for-2024/"><u>Hand-Drawn Whiteboard Animation Top Tools and Software for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-itel-p55plus-to-outlook-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Itel P55+ to Outlook | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-sharefake-location-on-whatsapp-for-poco-m6-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Share/Fake Location on WhatsApp for Poco M6 5G | Dr.fone</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/in-2024-youtube-growth-strategy-attracting-million-strong-fans/"><u>In 2024, Youtube Growth Strategy Attracting Million-Strong Fans</u></a></li>
+<li><a href="https://facebook.techidaily.com/insta-collage-creation-tips-for-engaging-online-portfolits/"><u>Insta-Collage Creation: Tips for Engaging Online Portfolits</u></a></li>
+</ul></div>
 

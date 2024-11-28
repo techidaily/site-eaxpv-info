@@ -1,7 +1,7 @@
 ---
 title: "Discover iPhone 12'S Latest Feature: Improved Qi Charging that Works without MagSafe | ZDNET News"
-date: 2024-10-27T05:16:57.743Z
-updated: 2024-11-02T00:19:53.730Z
+date: 2024-11-27T17:16:55.720Z
+updated: 2024-11-28T18:11:49.591Z
 tags:
   - apple
 categories:
@@ -26,15 +26,16 @@ But which features will actually have the most impact on iPhone enthusiasts? Wha
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. The 5x zoom comes to the Pro
 
 When Apple first released the [iPhone 15](https://www.zdnet.com/article/iphone-15-plus-review/) series, it only gave the 5x tetraprism zoom lens to the Max Pro. This time around, both the 16 Pro and the 16 Pro Max are getting the high-end zoom capability. This choice means the camera is essentially the same on the 16 Pro and 16 Pro Max, leaving other features to differentiate the two models. 
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657396/16446" target="_top" id="1657396">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657396" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657396/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. The camera control
@@ -52,10 +53,7 @@ The camera control button is available on all iPhone 16 models, but it's when pa
 [Not everyone is a fan](https://www.zdnet.com/article/i-want-to-be-excited-about-the-iphone-16s-new-camera-button-but-cant-for-now/) of the new camera button, however, as this shift from software to hardware will likely come with usability growing pains and mistakenly-accessed features.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075472/7443" target="_top" id="2075472">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075472" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075472/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Siri's much-needed makeover
@@ -73,10 +71,7 @@ Well, the time has finally come. Apple unveiled a ton of new functionality for S
 Beyond Siri, we have [Visual Intelligence](https://www.zdnet.com/article/apple-adds-visual-intelligence-its-answer-to-google-lens-to-the-iphone-16-camera/), which allows multi-modal AI via the camera, similar to what we've seen across other AI models this year. Apple Intelligence will start with a live beta in October in the US, with additional countries in December, and additional languages next year. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129740/7443" target="_top" id="2129740">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129740" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129740/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Upgraded chipset for the AI age
@@ -92,10 +87,7 @@ The 3mm technology has smaller, more efficient transistors, and constitutes a bi
 Even with AI's demanding memory requirements, having this much memory on the iPhone is a bonus for overall performance, particularly multitasking and starting up apps. 
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1001453/11832" target="_top" id="1001453">
-  <img src="//a.impactradius-go.com/display-ad/11832-1001453" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001453/11832" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. The biggest iPhones yet
@@ -132,24 +124,24 @@ The iPhone 16 Pro and Pro Max are the largest iPhones ever, with 6.3 and 6.9-inc
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-novice-to-vlogger-the-top-10-editing-techniques/"><u>[New] 2024 Approved From Novice to Vlogger The Top 10 Editing Techniques</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-guiding-you-through-youtubes-view-limitations/"><u>[New] 2024 Approved Guiding You Through YouTube's View Limitations</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-songs-to-symphony-building-a-cohesive-youtube-playlist-on-webapp/"><u>[New] In 2024, From Songs to Symphony Building a Cohesive YouTube Playlist on Web/App</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-free-and-legal-youtube-downloader-tools-recommendations/"><u>[Updated] 2024 Approved Free & Legal YouTube Downloader Tools - Recommendations</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-novice-to-pro-mastering-the-art-of-youtube-shorts/"><u>[Updated] 2024 Approved From Novice to Pro Mastering the Art of YouTube Shorts</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-guidelines-for-optimal-youtube-video-brightness/"><u>[Updated] 2024 Approved Guidelines for Optimal YouTube Video Brightness</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-elevate-your-inshot-video-segment-flow/"><u>[Updated] Elevate Your Inshot Video Segment Flow</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-essential-sandbox-experiences-for-gamers/"><u>[Updated] Essential Sandbox Experiences for Gamers</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-freebuy-one-lut-bundle-for-canon-pros/"><u>[Updated] Free/Buy-One-LUT Bundle for Canon Pros</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-channel-cashflow-crusade-unleashing-earnings-with-youtube-studio/"><u>[Updated] In 2024, Channel Cashflow Crusade Unleashing Earnings with Youtube Studio</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-easy-steps-to-youtubing-prosperity-channel-size-not-a-barrier/"><u>[Updated] In 2024, Easy Steps to Youtubing Prosperity Channel Size Not a Barrier</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-free-safe-steps-to-extract-audio-from-youtube-videos/"><u>[Updated] In 2024, Free, Safe Steps to Extract Audio From YouTube Videos</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-freefall-into-success-top-hashtags-and-vlogging-techniques/"><u>[Updated] In 2024, FreeFall Into Success Top Hashtags and Vlogging Techniques</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-one-off-to-firm-follower-an-ethical-approach/"><u>[Updated] In 2024, From One-Off to Firm Follower An Ethical Approach</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-why-are-my-insta-vids-upside-down-in-2024/"><u>[Updated] Why Are My Insta Vids Upside Down, In 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-x-master-recorder-software-pc-edition/"><u>[Updated] X-Master Recorder Software, PC Edition</u></a></li>
-<li><a href="https://extra-information.techidaily.com/expert-guide-to-video-editing-leveraging-power-of-movies-maker-on-windows-8/"><u>Expert Guide to Video Editing Leveraging Power of Movies Maker on Windows 8</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-develop-a-trusted-window-icon-for-safe-hardware-disconnect-in-win11/"><u>How to Develop a Trusted Window Icon for Safe Hardware Disconnect in Win11</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-the-artists-chromatic-companion/"><u>In 2024, The Artist's Chromatic Companion</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-a-quick-dive-into-obs-zoom-fusion-steps-for-2024/"><u>[New] A Quick Dive Into OBS-Zoom Fusion Steps for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/convertir-de-forma-gratuita-audio-ogg-con-herramientas-en-linea-movavi/"><u>Convertir De Forma Gratuita Audio OGG Con Herramientas en Línea - Movavi</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/convertir-formatos-de-sonido-snd-a-mp3-libremente-y-sin-costo-utilizando-el-sitio-web-de-convertidores-profesionales-movavi-soluciones/"><u>Convertir Formatos De Sonido SND a MP3 Libremente Y Sin Costo Utilizando El Sitio Web De Convertidores Profesionales: Movavi Soluciones</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/decouvrez-les-logiciels-leaders-en-transmission-multimedia-les-grands-classes-par-movavi/"><u>Découvrez Les Logiciels Leaders en Transmission Multimédia - Les Grands Classés Par Movavi</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/free-online-conversion-change-wmv-files-into-mp4-videos-effortlessly-with-movavi/"><u>Free Online Conversion: Change WMV Files Into MP4 Videos Effortlessly with Movavi</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/fusao-de-midia-gratuita-transformando-wmv-em-ogg-com-o-convertidor-on-line-do-movavi/"><u>Fusão De Mídia Gratuita: Transformando WMV Em Ogg Com O Convertidor On-Line Do Movavi</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/gratuito-e-online-converter-de-mp4-para-gif-com-o-movavi/"><u>Gratuito E Online: Converter De MP4 Para GIF Com O Movavi</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/harness-efficient-online-strategies-backed-by-cookiebot/"><u>Harness Efficient Online Strategies, Backed by Cookiebot</u></a></li>
+<li><a href="https://driver-download.techidaily.com/how-to-perform-amd-graphics-card-updates-on-windows-10-11-and-7/"><u>How to Perform AMD Graphics Card Updates on Windows 10, 11 & 7</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-affordable-action-camera-excellence-top-6-for-under-100-savings/"><u>In 2024, Affordable Action Camera Excellence – Top 6 for Under $100 Savings</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-revealing-the-top-10-color-enhancers-in-adobes-lightroom/"><u>In 2024, Revealing the Top 10 Color Enhancers in Adobe’s LightRoom</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/leading-workplace-cloud-reservoirs-for-2024/"><u>Leading Workplace Cloud Reservoirs for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/movavi-conversion-free-online-transformar-tu-foto-tiff-en-un-formato-optimizado-jpeg-gratis-desde-cualquier-dispositve/"><u>Movavi Conversion Free Online: Transformar Tu Foto TIFF en Un Formato Optimizado JPEG Gratis Desde Cualquier Dispositve</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/o-que-sao-arquivos-png-explicando-tamanho-extensao-e-uso-dos-graficos-em-formato-png/"><u>O Que São Arquivos PNG: Explicando Tamanho, Extensão E Uso Dos Gráficos Em Formato PNG?</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/pixio-px277-oled-monitor-revealed-surpassing-gaming-expectations-in-a-revolutionary-display/"><u>Pixio PX277 OLED Monitor Revealed - Surpassing Gaming Expectations in a Revolutionary Display</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/professionelle-kostenlose-software-fur-schnelles-umwandeln-mkv-in-mp4-unter-windows-and-macos-beste-optionen/"><u>Professionelle Kostenlose Software Für Schnelles Umwandeln: MKV in MP4 Unter Windows & macOS - Beste Optionen</u></a></li>
+<li><a href="https://win-blog.techidaily.com/step-by-step-guide-stability-enhancements-to-prevent-gzw-from-freezing-your-pc/"><u>Step-by-Step Guide: Stability Enhancements to Prevent GZW From Freezing Your PC</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/vision-pro-enhances-user-experience-with-tiktok-integration-a-new-era-of-interactive-browsing/"><u>Vision Pro Enhances User Experience with TikTok Integration: A New Era of Interactive Browsing</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/1726225164140-gif/"><u>フリップストレッチ変換サービス:無料で高品質GIF作成が可能</u></a></li>
 </ul></div>
 

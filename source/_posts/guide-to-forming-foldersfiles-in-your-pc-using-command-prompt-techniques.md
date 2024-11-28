@@ -1,7 +1,7 @@
 ---
 title: Guide to Forming Folders/Files in Your PC Using Command Prompt Techniques
-date: 2024-08-30T16:50:34.942Z
-updated: 2024-08-31T16:50:34.942Z
+date: 2024-11-22T16:19:59.477Z
+updated: 2024-11-28T18:06:42.653Z
 tags:
   - deals
 categories:
@@ -28,8 +28,9 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
  Whether you’re looking to create a script, make several folders at once, or you simply prefer command-line methods over graphical ones, it’s quick and easy to make folders or files using Command Prompt. We’ll show you how to do it on your Windows 11 or Windows 10 PC.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Before You Begin: Copy the Folder Path and Launch Command Prompt
 
  To use the following methods, you must first copy the path of the folder where you’ll create new folders or files, and then run the Command Prompt utility.
@@ -38,16 +39,25 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 !['Copy as Path' highlighted for a folder on a Windows PC.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/1-copy-folder-path-windows.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  To [open Command Prompt](https://android-frp.techidaily.com/in-2024-step-by-step-tutorial-how-to-bypass-oppo-a78-frp-by-drfone-android/), click the Start button, search for **command prompt**, then click the relevant result or press Enter. While making folders, if you encounter an error, [run Command Prompt as an admin](https://instagram-videos.techidaily.com/updated-2024-approved-unlocking-instagram-potential-a-comprehensible-guide/) by right-clicking the utility and choosing "Run as Administrator." Make sure to select "Yes" in the User Account Control prompt.
 
 !['Run as Administrator' highlighted for Command Prompt in Start Menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/2-open-command-prompt-as-admin.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  After opening Command Prompt, type **cd**, press Spacebar, paste the folder path you copied by pressing Ctrl+V, and press Enter. This [makes your chosen folder the current working directory](https://extra-information.techidaily.com/quick-and-easy-iphone-burst-techniques/) in the tool. Each command you run will perform the specified action in this directory.
 
 !['cd' command typed in Command Prompt.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/3-change-current-directory-command-prompt.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Create a Single Folder
 
@@ -66,8 +76,9 @@ mkdir Mahesh
 mkdir “Mahesh Makvana”
 
 <!-- affiliate ads begin -->
-<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Create a Folder Inside Another Folder (Subfolder)
 
  One way to make a folder inside another folder is to make that other folder the current working directory. To do that, type **cd**, press Spacebar, enter the name of the folder in which you want to create a new folder, and press Enter. Then, type the following command, replace "MyFolder" with the name you want to give to your new folder, and press Enter.
@@ -80,9 +91,6 @@ mkdir Photos\Personal
 
 ![Create a subfolder using Command Prompt.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/5-create-subfolder-cmd.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
-<!-- affiliate ads end -->
 ##  Create Multiple Folders at Once
 
  To [make several folders at once](https://phone-solutions.techidaily.com/in-2024-what-are-location-permissions-life360-on-motorola-razr-40-ultra-drfone-by-drfone-virtual-android/), add the required folder names to the mkdir command.
@@ -93,9 +101,6 @@ mkdir Documents Photos Videos
 
 ![Create multiple folders with Command Prompt.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/6-create-multiple-folders-cmd.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Make sure to enclose the folder name with double quotes if its name has spaces.
 
 ##  Create a File with Command Prompt
@@ -112,9 +117,6 @@ type nul > document.txt
 
 ![Create a file with Command Prompt.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/7-create-file-cmd.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
-<!-- affiliate ads end -->
  To create a text file and add some actual text to it, use the following command. Replace "Welcome to How-To Geek" with the text you want to add and "howtogeek" with the name you want to use for the file.
 
 echo Welcome to How-To Geek > howtogeek.txt
@@ -131,8 +133,6 @@ echo Welcome to How-To Geek > howtogeek.txt
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -140,4 +140,24 @@ echo Welcome to How-To Geek > howtogeek.txt
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/new-broadcasting-showdown-deciding-between-obs-and-twitch-studio-for-2024/"><u>[New] Broadcasting Showdown Deciding Between OBS and Twitch Studio for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-download-free-mcb-logo-templates/"><u>[New] In 2024, Download Free MCB Logo Templates</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-2024-approved-navigating-tiktok-web-efficiently-as-a-mac-user/"><u>[Updated] 2024 Approved Navigating TikTok Web Efficiently as a Mac User</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-bringing-the-web-to-reality-embedding-youtube-videos-in-slides/"><u>[Updated] In 2024, Bringing the Web to Reality Embedding YouTube Videos in Slides</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-clubbing-essentials-top-rated-dj-template-vids/"><u>[Updated] In 2024, Clubbing Essentials Top-Rated DJ Template Vids</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-framecraft-videocutter/"><u>[Updated] In 2024, FrameCraft VideoCutter</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-innovative-approaches-to-record-and-archive-roblox-gameplay-on-apple-systems/"><u>[Updated] In 2024, Innovative Approaches to Record & Archive Roblox Gameplay on Apple Systems</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-timestamping-your-youtube-videos-desktop-and-mobile-guide/"><u>[Updated] Timestamping Your YouTube Videos Desktop & Mobile Guide</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/approved-from-stillness-to-stirring-tips-for-bouncing-text/"><u>2024 Approved From Stillness to Stirring Tips for Bouncing Text</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/2024-approved-youtubes-iconic-counter-based-awards-system/"><u>2024 Approved YouTube's Iconic Counter-Based Awards System</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/6-solutions-to-unlock-oppo-phones-if-you-forgot-password-pin-pattern-by-drfone-android/"><u>6 Solutions to Unlock Oppo Phones If You Forgot Password, PIN, Pattern</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-2-ways-to-monitor-infinix-smart-8-activity-drfone-by-drfone-virtual-android/"><u>In 2024, 2 Ways to Monitor Infinix Smart 8 Activity | Dr.fone</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/starting-out-on-youtube-top-gear-essentials-for-2024/"><u>Starting Out on YouTube - Top Gear Essentials for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/supercharge-youtube-traffic-with-key-hash-tags-for-2024/"><u>Supercharge YouTube Traffic with Key Hash Tags for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/the-ultimate-strategy-for-profitable-dvd-sales-on-amazon/"><u>The Ultimate Strategy for Profitable DVD Sales on Amazon</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/ultimate-walkthrough-creating-a-new-account-for-your-oculus-quest-or-quest-2/"><u>Ultimate Walkthrough: Creating a New Account for Your Oculus Quest or Quest 2</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/zero-cost-expertise-in-analyzing-youtube-videos-frame-by-frame-for-2024/"><u>Zero-Cost Expertise in Analyzing YouTube Videos Frame by Frame for 2024</u></a></li>
+</ul></div>
 

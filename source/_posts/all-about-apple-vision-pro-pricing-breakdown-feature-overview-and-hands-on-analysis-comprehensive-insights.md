@@ -1,7 +1,7 @@
 ---
 title: "All About Apple Vision Pro: Pricing Breakdown, Feature Overview & Hands-On Analysis - Comprehensive Insights"
-date: 2024-11-16T16:20:39.444Z
-updated: 2024-11-19T22:40:42.813Z
+date: 2024-11-24T16:46:14.509Z
+updated: 2024-11-28T17:48:15.559Z
 tags:
   - apple
 categories:
@@ -38,6 +38,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Apple Intelligence
 
 Screenshot by Nina Raemont
@@ -51,13 +55,6 @@ The Apple Intelligence ecosystem is fueled by a partnership with [OpenAI](https:
 Apple's approach to AI is markedly different from that of its competitors, however. Instead of positioning the new AI features as integral aspects of their products, Apple allows users to opt in, making immediate adoption a choice. The AI features are also clearly defined as being in beta, underscoring their nature as works-in-progress. 
 
 This lets Apple disengage from the chaotic rat race to a degree, positioning itself as the careful, more ethical actor when it comes to AI, particularly in light of [recent debilitating security concerns](https://www.zdnet.com/article/after-brutal-critiques-microsoft-recall-will-get-these-major-privacy-and-security-changes/) from Microsoft's Recall feature, which is delaying the release of a host of its new [Copilot+ PCs](https://www.zdnet.com/article/every-copilot-pc-microsoft-just-announced-to-take-on-apples-m3-macbooks/).
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136617/26400" target="_top" id="2136617">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136617" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136617/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 2\. Continuity
 
@@ -83,6 +80,10 @@ During the WWDC keynote, Apple showed off Siri's new look as an ever-present AI 
 
 The new Siri also comes with on-screen awareness, allowing the AI to respond to what you're looking at on the screen without requiring the user to provide specific context with each prompt. This also allows Siri to take in-app actions in a way that wasn't possible before. In MacOS Sequoia, Siri's integration with OpenAI's LLM propels the virtual assistant to the top players in the field alongside [ChatGPT-4o](https://www.zdnet.com/article/how-to-use-chatgpt-plus-from-gpt-4o-to-interactive-tables/) and [Google's Gemini](https://www.zdnet.com/article/what-is-google-gemini/). 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4\. AI-fueled productivity apps
 
 Screenshot by Nina Raemont
@@ -96,10 +97,7 @@ Apple Intelligence has been integrated across all of the big productivity apps i
 * **Notes:** Voice functionality is coming to the Notes app, with the ability to add voice memos directly embedded into your notes. AI will also support audio transcription and transcripts of audio recordings. You can record and transcribe audio, and when your recording is finished, the AI will create a summary on its own.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012420/19272" target="_top" id="2012420">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012420" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012420/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. New and improved Safari
@@ -113,10 +111,7 @@ Safari will see a host of improvements powered by AI functionality, including an
 Apple demoed Safari's machine learning capability to automatically detect relevant information on a webpage, including things like quick links, directions, and quick summaries with logistical information like phone numbers and addresses. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049379/7443" target="_top" id="2049379">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049379" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049379/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6\. Standalone Passwords app
@@ -130,10 +125,7 @@ Aligning with Apple's positioning of its AI features as secure and trustworthy, 
 This standalone app is an extension of the existing iCloud Keychain, and seeks to simplify password storage by employing Face ID and Touch ID alongside character-string passwords. Much of it is designed to work automatically and seamlessly in an effort to solve what is a huge UX headache that everyone has experienced at one point or another. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037335/7443" target="_top" id="2037335">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037335" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037335/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 7\. Gaming
@@ -170,18 +162,18 @@ Apple wants to create a "unified gaming platform" across the iPhone, iPad, and M
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-get-a-youtube-video-trending/"><u>[New] 2024 Approved How to Get a YouTube Video Trending</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-follow-the-footsteps-of-fan-driven-forums-for-2024/"><u>[New] Follow the Footsteps of Fan-Driven Forums for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-getting-started-with-youtube-tv-a-must-read-article-for-2024/"><u>[New] Getting Started with YouTube TV A Must-Read Article for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-film-school-at-home-mastering-video-editing-via-youtube-and-alternatives/"><u>[Updated] 2024 Approved Film School at Home Mastering Video Editing via YouTube & Alternatives</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-how-much-cash-can-you-score-for-watching-a-million-videos-for-2024/"><u>[Updated] How Much Cash Can You Score for Watching A Million Videos for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-protectly-copy-youtube-tracks-for-free/"><u>[Updated] In 2024, How to Protectly Copy Youtube Tracks for Free</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-subtle-techniques-for-edgenuity-free-study-time/"><u>[Updated] In 2024, Subtle Techniques for Edgenuity-Free Study Time</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-quick-steps-for-igtv-on-instagram-stories-for-2024/"><u>[Updated] Quick Steps for IGTV on Instagram Stories for 2024</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-step-by-step-process-to-embrace-cc-copyrights/"><u>[Updated] Step-by-Step Process to Embrace CC Copyrights</u></a></li>
-<li><a href="https://blog-min.techidaily.com/5-ways-to-move-contacts-from-samsung-galaxy-s23-tactical-edition-to-iphone-131415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways to Move Contacts From Samsung Galaxy S23 Tactical Edition to iPhone (13/14/15) | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/from-shadow-to-light-mastering-the-art-of-repairing-a-black-screen-on-windows-11-devices/"><u>From Shadow to Light: Mastering the Art of Repairing a Black Screen on Windows 11 Devices</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/in-2024-can-a-brief-subscribe-boost-your-content-viewing/"><u>In 2024, Can a Brief Subscribe Boost Your Content Viewing?</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-unlock-easy-paths-for-exceptional-yt-thumbnails/"><u>In 2024, Unlock Easy Paths for Exceptional YT Thumbnails</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-vivo-x-flip-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Vivo X Flip</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/budget-friendly-1-decade-of-excellent-desktop-recorders-for-2024/"><u>Budget-Friendly #1 Decade of Excellent Desktop Recorders for 2024</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/bypassing-youtube-restrictions-secure-your-downloads-using-a-vpn-or-proxy/"><u>Bypassing YouTube Restrictions: Secure Your Downloads Using a VPN or Proxy</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/coupe-video-leader-free-pour-windows-11-8-et-7-and-mac-supprimez-effortlessment-les-scenes-superflues/"><u>Coupe-Vidéo Leader Free Pour Windows 11, 8 Et 7 & Mac : Supprimez Effortlessment Les Scènes Superflues</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/dvdiso-dvdiso/"><u>DVDをISOイメージ化するシンプルツールと方法 : DVDISOリッピングソフト</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/effizientes-verwalten-von-mp4-filmen-drehung-um-90180270-grad-ohne-qualitatseinbussen/"><u>Effizientes Verwalten Von MP4-Filmen - Drehung Um 90/180/270 Grad Ohne Qualitätseinbußen</u></a></li>
+<li><a href="https://android-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-from-samsung-galaxy-s23-ultra-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock from Samsung Galaxy S23 Ultra Phones with/without a PC</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-vivo-t2-5g-to-samsung-galaxy-s21-ultra-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos From Vivo T2 5G to Samsung Galaxy S21 Ultra | Dr.fone</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/i-migliori-lettori-dvd-gratis-compatibili-con-windows-11-riproduci-tutti-i-tuoi-film-preferiti/"><u>I Migliori Lettori DVD Gratis Compatibili Con Windows 11: Riproduci Tutti I Tuoi Film Preferiti</u></a></li>
+<li><a href="https://fox-info.techidaily.com/in-2024-comprehensive-guide-to-oculus-rift-setup/"><u>In 2024, Comprehensive Guide to Oculus Rift Setup</u></a></li>
+<li><a href="https://win-dash.techidaily.com/the-ctbt-prohibits-all-nuclear-explosions-for-both-civilian-and-military-purposes-but-has-yet-to-enter-into-force-requiring-ratification-by-specific-countri229/"><u>The CTBT Prohibits All Nuclear Explosions for Both Civilian and Military Purposes but Has yet to Enter Into Force, Requiring Ratification by Specific Countries that Have Not Occurred.</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/top-video-file-formats-for-optimal-youtubing-a-comprehensive-guide/"><u>Top Video File Formats for Optimal YouTubing: A Comprehensive Guide</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/ultimate-guide-transforming-your-dvd-files-into-mp4-using-windows-11-or-macos-top-strategies-revealed/"><u>Ultimate Guide: Transforming Your DVD Files Into MP4 Using Windows 11 or macOS - Top Strategies Revealed!</u></a></li>
 </ul></div>
 

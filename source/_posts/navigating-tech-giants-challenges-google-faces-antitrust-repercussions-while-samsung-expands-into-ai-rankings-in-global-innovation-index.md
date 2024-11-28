@@ -1,7 +1,7 @@
 ---
 title: "Navigating Tech Giants' Challenges: Google Faces Antitrust Repercussions While Samsung Expands Into AI – Rankings in Global Innovation Index"
-date: 2024-11-13T18:48:32.902Z
-updated: 2024-11-19T18:10:34.097Z
+date: 2024-11-26T18:04:24.933Z
+updated: 2024-11-28T17:43:22.253Z
 tags:
   - apple
 categories:
@@ -71,24 +71,28 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-get-both-sides-right-expert-tips-on-crafting-compelling-pov-based-youtube-reaction-videos-2-pov-perspective/"><u>[New] 2024 Approved Get Both Sides Right – Expert Tips on Crafting Compelling POV-Based YouTube Reaction Videos (2 POV Perspective)</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-get-hooked-easy-ways-to-loop-any-youtube-video-for-2024/"><u>[New] Get Hooked Easy Ways to Loop Any YouTube Video for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-free-yourself-from-cash-for-sound-the-best-18-audio-crackers-on-youtube/"><u>[New] In 2024, Free Yourself From Cash for Sound The Best 18 Audio Crackers on YouTube</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-make-a-cool-youtube-video-intro-in-imovie-step-by-step/"><u>[New] In 2024, How to Make a Cool YouTube Video Intro in iMovie (Step-by-Step)</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-in-2024-no-internet-full-fun-best-offline-gaming-on-mobile-devices/"><u>[New] In 2024, No Internet, Full Fun Best Offline Gaming on Mobile Devices</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-free-video-credits-pro-the-best-suggestions-1-6/"><u>[Updated] In 2024, Free Video Credits Pro - The Best Suggestions #1-6</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/1726029808017-2024and/"><u>2024年のテレビ番組をダウンロード&保存しやすくなる最新ソフトウェアガイド</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/8-things-you-should-avoid-doing-on-windows-11/"><u>8 Things You Should Avoid Doing on Windows 11</u></a></li>
-<li><a href="https://win-unique.techidaily.com/1728480642436-aomei-backupper/"><u>跨越五道關卡：用 AOMEI Backupper 建立恢復區域 - 完整指南</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-exploring-mozillas-split-screen-technique-in-firefox/"><u>In 2024, Exploring Mozilla's Split Screen Technique in Firefox</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/mikupaintpc/"><u>MikuPaintアプリ、PCとスマホで画面を記録する詳しいガイド</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/quick-fixes-for-why-is-my-sony-xperia-10-v-black-and-white-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Quick Fixes for Why Is My Sony Xperia 10 V Black and White | Dr.fone</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/que-sucede-cuando-transfiere-tu-pelicula-en-formato-dvd-directamente-a-tu-disco-duro-los-riesgos-y-por-que-no-hacerlo/"><u>¿Qué Sucede Cuando Transfiere Tu Película en Formato DVD Directamente a Tu Disco Duro? Los Riesgos Y Por Qué No Hacerlo</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-strategic-approaches-to-share-ppt-powerfully-in-google-meet/"><u>[New] 2024 Approved Strategic Approaches to Share PPT Powerfully in Google Meet</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-pause-unrequested-youtube-video-selections/"><u>[Updated] 2024 Approved Pause Unrequested YouTube Video Selections</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-extensive-audit-unveiling-the-dji-inspire-1-drone/"><u>[Updated] Extensive Audit Unveiling the DJI Inspire 1 Drone</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-from-visionary-to-victory-channel-command-school-for-2024/"><u>[Updated] From Visionary to Victory Channel Command School for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-leading-windows-call-platforms-7-1-ranked/"><u>[Updated] In 2024, Leading Windows Call Platforms #7-#1 Ranked</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/youtubeurl/"><u>「【オススメ】YouTube埋め込み動画ダウンロード手順：URL獲得方法と、ダウンロードができないケースへの解決策」</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/buy-the-perfect-winx-festival-collection-on-the-web/"><u>Buy the Perfect WinX Festival Collection on the Web</u></a></li>
+<li><a href="https://facebook.techidaily.com/cross-border-communication-strategies-for-multilingual-fb-posts/"><u>Cross-Border Communication Strategies for Multilingual FB Posts</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/effective-methods-for-syncing-your-iphone-content-to-computers-with-and-without-itunes/"><u>Effective Methods for Syncing Your iPhone Content to Computers, With and Without iTunes</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/guide-rapide-traiter-les-problemes-de-balbutiements-et-dachevement-de-lecture-pour-videos-mkv-sur-pc-et-mac/"><u>Guide Rapide : Traiter Les Problèmes De Balbutiements Et D'achèvement De Lecture Pour Vidéos MKV Sur PC Et Mac.</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/how-mediatrans-makes-seamless-sharing-of-images-videos-and-music-across-iphone-ipad-and-pc/"><u>How MediaTrans Makes Seamless Sharing of Images, Videos & Music Across iPhone, iPad & PC</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/how-to-stop-unexpected-shutdowns-from-watchdogsys-errors-a-step-by-step-guide/"><u>How to Stop Unexpected Shutdowns From watchdog.sys Errors - A Step-by-Step Guide</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/prime-color-balancer-suite-for-2024/"><u>Prime Color Balancer Suite for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/professionelle-tipps-fur-das-enkodieren-von-mp4-videos-ein-leitfaden-zu-den-besten-tools-und-techniken/"><u>Professionelle Tipps Für Das Enkodieren Von MP4-Videos: Ein Leitfaden Zu Den Besten Tools Und Techniken</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/soutien-technique-virtuel-experimente-avec-le-logiciel-dextraction-dvd-winx-et-la-conversion-video-sur-plateforme-web/"><u>Soutien Technique Virtuel Expérimenté Avec Le Logiciel D’Extraction DVD WinX Et La Conversion Vidéo Sur Plateforme Web</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/strategia-rapida-e-semplificata-per-eseguire-una-cronologia-del-tuo-hard-disk-esterno-su-un-sistema-windows-11-gratuitamente/"><u>Strategia Rapida E Semplificata per Eseguire Una Cronologia Del Tuo Hard Disk Esterno Su Un Sistema Windows 11 Gratuitamente</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/transforming-ultra-hd-footage-into-high-definition-a-step-by-step-guide/"><u>Transforming Ultra-HD Footage Into High Definition: A Step-by-Step Guide</u></a></li>
+<li><a href="https://howto.techidaily.com/what-to-do-when-oppo-a1-5g-has-black-screen-of-death-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do When Oppo A1 5G Has Black Screen of Death? | Dr.fone</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068433/7443" target="_top" id="2068433">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068433" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068433/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 

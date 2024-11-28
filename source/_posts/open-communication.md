@@ -1,7 +1,7 @@
 ---
 title: Open Communication
-date: 2024-11-19T00:31:43.220Z
-updated: 2024-11-19T19:13:45.393Z
+date: 2024-11-26T16:54:05.670Z
+updated: 2024-11-28T17:39:30.440Z
 tags:
   - apple
 categories:
@@ -40,11 +40,19 @@ Screenshot by Lance Whitney/ZDNET
 
 **Also: [I was on the fence with the Apple Watch 10, but these 3 features changed my mind](https://www.zdnet.com/article/i-was-on-the-fence-with-the-apple-watch-10-but-these-3-features-changed-my-mind/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Send the default Check In through the Messages app
 
 Launch the Messages app on your Apple Watch. Start or continue a conversation with a trusted family member or friend. Tap the + icon to the left of the iMessage field. From the menu, select Check In. By default, the Check In screen will indicate a specific destination, such as home or work, and the estimated time of arrival from your current location. The feature will use a timer to determine how long it will take you to reach the destination. If you wish to share that information as is with the other person, tap Send.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. View the initial Check In notification
 
@@ -62,18 +70,15 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4\. View the actual Check in alert
 
 When the timer is up to indicate that you should have reached your destination, you'll be prompted to stop the Check In to confirm that you've arrived. You can add more time or cancel the Check In. Otherwise, the recipient will receive your Check In notification. If the confirmation isn't sent, more time will be added. After that, the recipient will be informed that you haven't yet checked in. They can then try to contact you by text or phone call to find out why you haven't yet arrived.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902289/19272" target="_top" id="1902289">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902289" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902289/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 5\. Change the time for a Check In
 
@@ -86,10 +91,7 @@ If you still wish to use a timer for the Check In option but change the amount o
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129740/7443" target="_top" id="2129740">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129740" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129740/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6\. Send a customized Check In through the Messages app
@@ -97,13 +99,6 @@ Screenshot by Lance Whitney/ZDNET
 To further customize the Check In, tap the Edit button at the Check In screen. Tap Check In. You can now set a notification to be sent when you've arrived at your destination, after the timer ends, or when a workout ends. Tap the option for "When I arrive."
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885928/19272" target="_top" id="1885928">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885928" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885928/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 7\. Add a destination and send the text
 
@@ -113,18 +108,15 @@ Screenshot by Lance Whitney/ZDNET
 
 **Also: [Your Apple Watch is getting an upgrade - here are the best features in WatchOS 11](https://www.zdnet.com/article/your-apple-watch-is-getting-an-upgrade-here-are-the-best-features-in-watchos-11/)**
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657386/16446" target="_top" id="1657386">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657386" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657386/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 8\. Set a Check In for a workout in the Messages app
 
 Maybe you're working out at the gym or at home and want to let someone know when you've finished. You can do this a couple of ways. In the Messages app on your watch, start or continue a conversation with the recipient. Tap the Add icon, select Check In, and then tap Edit. Tap the option for Check In and change it to "When workout ends." Start your workout. When you're done, swipe the screen to the right and tap End. The other person will then receive the notification.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 9\. Set a Check In for a workout in the Workout app
 
@@ -162,16 +154,21 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-framefusion-creator/"><u>[New] In 2024, FrameFusion Creator</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-gamers-sound-selection-top-5-noise-canceling-earbuds/"><u>[New] In 2024, Gamers’ Sound Selection Top 5 Noise-Canceling Earbuds</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-hand-held-balance-for-sharp-images/"><u>[New] In 2024, Hand-Held Balance for Sharp Images</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-free-video-embedding-for-dynamic-online-articles/"><u>[Updated] 2024 Approved Free Video Embedding for Dynamic Online Articles</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-from-no-cash-to-youtube-wealth-unlocking-earnings-at-the-500-subs-level-for-2024/"><u>[Updated] From No Cash to YouTube Wealth Unlocking Earnings at the 500 Subs Level for 2024</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/2024-approved-aural-elements-in-online-visuals/"><u>2024 Approved Aural Elements in Online Visuals</u></a></li>
-<li><a href="https://extra-information.techidaily.com/2024-approved-crafting-professional-captions-with-top-online-aids-and-platforms/"><u>2024 Approved Crafting Professional Captions with Top Online Aids and Platforms</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-lock-apps-on-samsung-galaxy-a05-to-protect-your-individual-information-by-drfone-android/"><u>How to Lock Apps on Samsung Galaxy A05 to Protect Your Individual Information</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-changeadd-location-filters-on-snapchat-for-your-apple-iphone-xr-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Change/Add Location Filters on Snapchat For your Apple iPhone XR | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-reset-your-infinix-lock-screen-password-by-drfone-android/"><u>In 2024, How to Reset your Infinix Lock Screen Password</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-unveiling-the-top-9-revolutionary-ai-driven-audio-simulators-set/"><u>Updated Unveiling the Top 9 Revolutionary AI-Driven Audio Simulators Set</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-unlock-the-power-of-slow-mo-with-these-android-hacks/"><u>[New] In 2024, Unlock the Power of Slow Mo with These Android Hacks</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-avatar-architecture-your-uncomplicated-guide-to-virtual-existence/"><u>[Updated] Avatar Architecture Your Uncomplicated Guide to Virtual Existence</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/vob-to-mp4/"><u>「スピーディかつ高品位：オンラインでインストール不要、VOB to MP4変換サービス」</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-cost-effective-cumulus-vault-for-colossal-archives/"><u>2024 Approved Cost-Effective Cumulus Vault for Colossal Archives</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/avimp4web/"><u>高品質に安全! AVIをMP4に自由に変換するWebサービス - お勧めガイド</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/convert-your-avchd-files-to-mp4-format-without-cost-top-5-methods-for-windows-10-users/"><u>Convert Your AVCHD Files to MP4 Format Without Cost: Top 5 Methods for Windows 10 Users</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/guida-dettagliata-a-strumenti-software-tech-support-centrale-per-winx-dvd-copier-e-winxvideo-ia/"><u>Guida Dettagliata a Strumenti Software Tech Support Centrale per WinX DVD Copier E WinxVideo IA</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-vivo-y55s-5g-2023-to-outlook-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Vivo Y55s 5G (2023) to Outlook | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-vivo-t2-pro-5g-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Vivo T2 Pro 5G</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/maximize-your-virtual-meetings-premium-screens-cameras-and-mics-enhanced-by-wixvideo-ai-technology/"><u>Maximize Your Virtual Meetings: Premium Screens, Cameras & Mics Enhanced by Wixvideo AI Technology</u></a></li>
+<li><a href="https://win-forum.techidaily.com/overcoming-the-unregistered-class-problem-on-your-pc-tips-and-tricks/"><u>Overcoming the 'Unregistered Class' Problem on Your PC: Tips and Tricks</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-guide-to-fixing-non-terminated-processes-windows/"><u>Quick Guide to Fixing Non-Terminated Processes Windows</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/reduction-de-taille-video-pour-whatsapp-avec-qualite-optimale-guide-ultime-du-telechargement-winxdvd/"><u>Réduction De Taille Vidéo Pour WhatsApp Avec Qualité Optimale : Guide Ultime Du Téléchargement WinXDVD</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/schnell-und-einfach-isos-auf-windows-1087-mounten-professionelle-losung-von-winx-dvd-kopieren/"><u>Schnell Und Einfach ISOs Auf Windows 10/8/7 Mounten - Professionelle Lösung Von WinX DVD Kopieren</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/ultimate-guide-to-choosing-the-ideal-external-bd-drive/"><u>Ultimate Guide to Choosing the Ideal External BD Drive</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/windows-10-cant-find-the-pixma-mp620-printer-driver/"><u>Windows 10 Can't Find the Pixma MP620 Printer Driver</u></a></li>
 </ul></div>
 

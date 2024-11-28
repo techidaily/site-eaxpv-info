@@ -1,7 +1,7 @@
 ---
 title: Tech Giants Apple & Samsung Reveal the Hidden Struggle Behind Microsoft's AI Endeavors - The Untold Story
-date: 2024-11-15T16:13:21.819Z
-updated: 2024-11-19T18:29:44.017Z
+date: 2024-11-25T16:09:25.261Z
+updated: 2024-11-28T16:35:33.026Z
 tags:
   - apple
 categories:
@@ -71,31 +71,24 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/024-approved-constructing-youtube-playlists-made-simple/"><u>[New] 2024 Approved Constructing YouTube Playlists Made Simple</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-watcher-to-writer-how-to-set-up-a-sports-channel-on-macos/"><u>[New] 2024 Approved From Watcher to Writer How to Set Up a Sports Channel on macOS</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-gain-unlimited-stock-videos-through-essential-4-youtube-sources/"><u>[New] 2024 Approved Gain Unlimited Stock Videos Through Essential 4 YouTube Sources</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-find-your-vfx-match-top-8-sites-for-free-high-quality-green-screen-footage-for-2024/"><u>[New] Find Your VFX Match - Top 8 Sites for FREE High Quality Green Screen Footage for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-harmony-and-rhythm-discover-the-best-15-youtube-educational-videos-for-2024/"><u>[New] Harmony & Rhythm Discover the Best 15 YouTube Educational Videos for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-how-to-edit-youtube-videos-in-final-cut-pro-for-2024/"><u>[New] How to Edit YouTube Videos in Final Cut Pro for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-gain-an-edge-access-these-top-8-sites-for-free-eco-screen-backdrops-and-clips/"><u>[New] In 2024, Gain an Edge - Access These Top 8 Sites for FREE Eco-Screen Backdrops and Clips</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-9-best-free-and-easy-editing-apps-you-should-know/"><u>[Updated] 2024 Approved 9 Best Free and Easy Editing Apps You Should Know</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-flv-video-unification-techniques/"><u>[Updated] 2024 Approved FLV Video Unification Techniques</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-fix-youtube-shorts-thumbnail-not-showing-problem-for-2024/"><u>[Updated] How to Fix YouTube Shorts Thumbnail Not Showing Problem for 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-resizing-imagery-on-iphone-without-hassle/"><u>[Updated] Resizing Imagery on iPhone Without Hassle</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-crafting-silent-scenes-audio-fade-techniques-in-adobe-premiere-pro/"><u>2024 Approved Crafting Silent Scenes Audio Fade Techniques in Adobe Premiere Pro</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/approved-key-takeaways-on-youtube-tv-an-overview-of-its-advantages/"><u>2024 Approved Key Takeaways on YouTube TV An Overview of Its Advantages</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/can-i-view-avchd-mts-files-on-xiaomi-13t-pro-by-aiseesoft-video-converter-play-mts-on-android/"><u>Can I view AVCHD .mts files on Xiaomi 13T Pro?</u></a></li>
-<li><a href="https://win-dash.techidaily.com/get-the-latest-ms-bluetooth-drivers-for-seamless-windows-11-and-10-experience/"><u>Get the Latest MS Bluetooth Drivers for Seamless Windows 11 and 10 Experience</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-unlocking-made-easy-the-best-10-apps-for-unlocking-your-oppo-a56s-5g-device-by-drfone-android/"><u>In 2024, Unlocking Made Easy The Best 10 Apps for Unlocking Your Oppo A56s 5G Device</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/navigate-through-2024s-best-gaming-displays-cost-effective-curved-panels-and-adaptive-sync-technology/"><u>Navigate Through 2024'S Best Gaming Displays: Cost-Effective, Curved Panels and Adaptive Sync Technology</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/trouble-with-the-mic-in-fortnite-heres-how-to-get-crystal-clear-audio-again/"><u>Trouble with the Mic in Fortnite? Here's How to Get Crystal Clear Audio Again!</u></a></li>
-<li><a href="https://win-trending.techidaily.com/was-tun-wenn-deine-samsung-datenmigration-nicht-beginnt-ideen-zur-problemlosung-und-ersatzmethoden/"><u>Was Tun, Wenn Deine Samsung-Datenmigration Nicht Beginnt? Ideen Zur Problemlösung Und Ersatzmethoden</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-the-clear-way-to-capture-your-screen-best-free-tools-explored/"><u>[New] 2024 Approved The Clear Way to Capture Your Screen – Best Free Tools Explored</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-the-art-of-blurring-iphone-images-four-steps-covered/"><u>[Updated] 2024 Approved The Art of Blurring iPhone Images - Four Steps Covered</u></a></li>
+<li><a href="https://solve-help.techidaily.com/1-access-complimentary-copyright-permissions-quickly/"><u>1. Access Complimentary Copyright Permissions Quickly</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/effortless-guide-transform-your-dvds-into-digital-files-across-pc-mac-and-smartphone/"><u>Effortless Guide: Transform Your DVDs Into Digital Files Across PC, Mac, and Smartphone</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-cant-take-screenshot-due-to-security-policy-on-infinix-hot-40-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Cant Take Screenshot Due to Security Policy on Infinix Hot 40 Pro | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-delete-icloud-account-on-apple-iphone-13-pro-max-without-password-by-drfone-ios/"><u>How to Delete iCloud Account On Apple iPhone 13 Pro Max without Password?</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/i-migliori-8-app-di-ritocco-foto-gratuite-con-tecnologia-ai-guida-completa/"><u>I Migliori 8 App Di Ritocco Foto Gratuite Con Tecnologia AI: Guida Completa</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-breaking-ground-in-easy-modern-nft-creation-techniques/"><u>In 2024, Breaking Ground in Easy, Modern NFT Creation Techniques</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/in-depth-guide-understanding-the-features-and-requirements-of-winxvideo-ai/"><u>In-Depth Guide: Understanding the Features and Requirements of WinXVideo AI</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/obten-videos-de-alta-definicion-gracias-a-la-edicion-avanzada-con-winxvideo-y-ia/"><u>Obtén Videos De Alta Definición Gracias a La Edición Avanzada Con Winxvideo Y IA</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/shutter-societys-top-six-elite-4k-dslr-picks/"><u>Shutter Society's Top Six Elite 4K DSLR Picks</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-launch-of-lgs-tandem-oled-production-revolutionizing-screen-brilliance-with-a-victory-in-the-dell-xps-absolutely-here-are-five-alternative-seo-friendly-48/"><u>The Launch of LG's Tandem OLED Production: Revolutionizing Screen Brilliance with a Victory in the Dell XPS Absolutely, Here Are Five Alternative SEO-Friendly Titles that Convey Similar Meanings to Your Original Title:</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/tutorial-rapide-convertissez-vos-disques-dvd-en-versions-video-numeriques-pour-windows-et-macos/"><u>Tutorial Rapide : Convertissez Vos Disques DVD en Versions Vidéo Numériques Pour Windows Et macOS</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/universal-unlock-pattern-for-infinix-gt-10-pro-by-drfone-android/"><u>Universal Unlock Pattern for Infinix GT 10 Pro</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/1725289457858-winx-dvd-copy-pro/"><u>WinX DVD Copy Pro複製不能？対応策とエラーコード解析方法</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880944/19272" target="_top" id="1880944">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880944" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880944/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 

@@ -1,7 +1,7 @@
 ---
 title: "Beware of Terrifying Virtual Hostage Phone Frauds: A Guide"
-date: 2024-08-30T16:50:54.633Z
-updated: 2024-08-31T16:50:54.633Z
+date: 2024-11-26T19:00:38.275Z
+updated: 2024-11-28T17:26:05.399Z
 tags:
   - cutting-edge
 categories:
@@ -29,9 +29,6 @@ thumbnail: https://thmb.techidaily.com/74113c2d83645a48c9d2ad195371cc6a07bee43db
 
  You might have been a target of a cyber kidnapping call scam.
 
-<!-- affiliate ads begin -->
-<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  How Cyber Kidnapping Scam Works
 
  The cyber kidnapping scam is sinister and preys on a victim's love for their family. It starts with a phone call from a number you may recognize. On the other end is a disturbing voice claiming they've kidnapped your child or other family member. To punctuate their threats, they may use convincing [deepfake audio and videos](https://android-frp.techidaily.com/in-2024-how-can-we-bypass-gionee-f3-pro-frp-by-drfone-android/) that make it appear your loved one is being held captive.
@@ -39,8 +36,9 @@ thumbnail: https://thmb.techidaily.com/74113c2d83645a48c9d2ad195371cc6a07bee43db
  This is where things turn from bad to worse. The criminals will put your "frightened" child or family member on the phone, pleading for help. Images and videos sent to you seem to confirm they are bound in chains and under duress. Panicked, your instinct is to meet whatever demands necessary to secure their release. Ransom is always required through virtually untraceable wire transfers, cryptocurrency, or gift card payments. Once the money is sent, the criminals cut off all contact, leaving you frantically trying to locate your supposedly captive loved one, only to eventually discover the disturbing truth–your loved one was never in harm's way.
 
 <!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Who Is Most at Risk of Cyber Kidnap, and Why?
 
  When it comes to cyber kidnapping schemes, no one is entirely safe from falling victim. However, those most vulnerable tend to be new immigrants–especially international students studying abroad, as they are far from home. Just like the 17-year-old Chinese exchange student rescued in Utah on the Eve of 2024, naive international students can be convinced by crafty scammers to isolate themselves and fake pictures that they are being held captive. This convinces the overseas relatives to fork over tens or hundreds of thousands of dollars to the schemers before realizing the truth.
@@ -49,29 +47,32 @@ thumbnail: https://thmb.techidaily.com/74113c2d83645a48c9d2ad195371cc6a07bee43db
 
  Finally, people who overshare personal information online become prime victims. The more fraudsters know about you from your social media presence, the more ammunition they have to make a fake kidnapping scenario believable. Details about your family, friends, location, job, hobbies, and lifestyle can help criminals fabricate personalized threats.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
-<!-- affiliate ads end -->
 ##  How to Protect Yourself and Loved Ones from a Cyber Kidnapping Ransom Scam
 
  Cyber kidnapping ransom scams are becoming more common and sophisticated, but you can get off the radar of the perpetrators. Here are some tips to avoid being a victim of this call scam:
 
 <!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ###  Set Up a Family Safety Code Word or Phrase
 
  Establish a secret code word only known to family members. If someone calls claiming to be a kidnapped relative, tell them to provide the code word or phrase. A real family member will know it; a scammer won't.
 
  For example, your family code word could be "Mayday" or "London Bridge is down"–something easy to remember but not obvious to an outsider. Explain to both children and adults that this should be strictly confidential, even if asked under pressing circumstances.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ###  Give Silent Treatment to Unknown Callers
 
  When you answer calls from phone numbers you don't recognize, keep conversations with them short and tight-lipped. As we've established earlier, scammers often record calls to obtain voice samples, which can then be used with AI technology to imitate you in fraudulent schemes. So, the less audio they can gather from you, the better.
 
 <!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ###  Outfit Check Before Your Loved Ones Walk Out
 
  Make a habit of mentally noting some basic details when your loved ones leave the house–what they were wearing, where they were headed, and when they planned to return. This can become invaluable information later for fact-checking if you receive any calls demanding ransom money for their alleged kidnapping.
@@ -95,8 +96,9 @@ thumbnail: https://thmb.techidaily.com/74113c2d83645a48c9d2ad195371cc6a07bee43db
  It's a terrifying situation, but try to keep a level head. Avoid acting rashly until you've verified whether the threat is real (or not).
 
 <!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Don't Let Cyber Kidnappers Win
 
  These high-tech extortion scams prey on our deepest fears and vulnerabilities as human beings. Unfortunately, AI and video editing advancements seem to make these schemes more convincing and dangerous by the day.
@@ -109,8 +111,6 @@ thumbnail: https://thmb.techidaily.com/74113c2d83645a48c9d2ad195371cc6a07bee43db
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -118,4 +118,26 @@ thumbnail: https://thmb.techidaily.com/74113c2d83645a48c9d2ad195371cc6a07bee43db
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-boosting-audience-size-a-comprehensive-guide-to-youtube-shorts-success/"><u>[New] 2024 Approved Boosting Audience Size A Comprehensive Guide to YouTube Shorts Success</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-breakdown-of-how-youtube-ad-revenue-works-cpm/"><u>[New] 2024 Approved Breakdown of How YouTube Ad Revenue Works (CPM)</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-expert-strategies-for-tackling-copyright-claims-on-youtube/"><u>[New] 2024 Approved Expert Strategies for Tackling Copyright Claims on YouTube</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-evaluating-the-financial-returns-for-makers-on-youtube-shorts/"><u>[New] In 2024, Evaluating the Financial Returns for Maker's on YouTube Shorts</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-perfecting-audio-quality-for-your-youtube-channel/"><u>[New] Perfecting Audio Quality for Your YouTube Channel</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-sustainable-practices-greening-urban-landscapes/"><u>[New] Sustainable Practices Greening Urban Landscapes</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-5-innovative-strategies-for-crafting-youtube-titles-and-tags/"><u>[Updated] 2024 Approved 5 Innovative Strategies for Crafting YouTube Titles & Tags</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-crafting-visuals-the-science-of-youtube-banners-and-thumbnails-for-2024/"><u>[Updated] Crafting Visuals The Science of YouTube Banners & Thumbnails for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-unveiling-the-top-4-fullscreen-recorder-for-pc-and-mac-users/"><u>[Updated] In 2024, Unveiling the Top 4 Fullscreen Recorder for PC & Mac Users</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-mastering-video-broadcasts-wirecast-and-its-allies-for-2024/"><u>[Updated] Mastering Video Broadcasts Wirecast and Its Allies for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-she-shares-we-watch-top-female-content-creators-on-youtube/"><u>[Updated] She Shares, We Watch Top Female Content Creators on YouTube</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-becoming-a-greenscreen-specialist-in-kinemasters-vfx-realm/"><u>2024 Approved Becoming a Greenscreen Specialist in KineMaster's VFX Realm</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/2024-approved-constructive-communication-leads-to-more-subscribers/"><u>2024 Approved Constructive Communication Leads to More Subscribers</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/458086-9780307573735-a-path-with-heart/"><u>A Path with Heart | Free Book</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/commercial-free-android-vision-capturer/"><u>Commercial-Free Android Vision Capturer</u></a></li>
+<li><a href="https://fox-links.techidaily.com/easier-than-ever-simplified-hdr-photography-insights-for-2024/"><u>Easier Than Ever Simplified HDR Photography Insights for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-masterclass-review-unpacking-the-features-of-android-lightroom/"><u>In 2024, Masterclass Review Unpacking the Features of Android Lightroom</u></a></li>
+<li><a href="https://network-issues.techidaily.com/microsoft-render-improvement-for-versions-1087/"><u>Microsoft Render Improvement for Versions 10/8/7</u></a></li>
+<li><a href="https://solve-marvelous.techidaily.com/transformez-les-videos-vob-en-mp4-de-qualityguard-pour-la-playstation-gratuitement-online/"><u>Transformez Les Vidéos VOB en MP4 De QualityGuard Pour La PlayStation Gratuitement Online!</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Urgent Update Required: Widespread UEFI Security Compromise Endangers Countless Computers"
-date: 2024-08-30T16:50:30.842Z
-updated: 2024-08-31T16:50:30.842Z
+date: 2024-11-24T18:28:11.948Z
+updated: 2024-11-28T16:23:45.174Z
 tags:
   - deals
 categories:
@@ -29,8 +29,6 @@ It's important to stay on top of security updates in this ever-changing online w
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -38,8 +36,24 @@ It's important to stay on top of security updates in this ever-changing online w
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-crafting-the-ideal-youtube-playlist-an-easy-step-by-step-method-for-2024/"><u>[New] Crafting the Ideal YouTube Playlist An Easy, Step-by-Step Method for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-how-to-manual-for-crafting-youtube-playlists-for-2024/"><u>[New] How-To Manual for Crafting YouTube Playlists for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-premium-smartphones-shining-in-high-definition-video/"><u>[New] Premium Smartphones Shining in High Definition Video</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/kyrocket-views-with-smartly-chosen-video-release-times-for-2024/"><u>[New] Skyrocket Views with Smartly Chosen Video Release Times for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-ignite-curiosity-with-a-personal-touch-anime-subscribe-buttons-for-filmmakers-filmora/"><u>[Updated] Ignite Curiosity with a Personal Touch - Anime Subscribe Buttons for Filmmakers (Filmora)</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-create-gifs-from-youtube-videos-on-desktop-and-mobile-devices/"><u>[Updated] In 2024, How to Create GIFs From YouTube Videos on Desktop and Mobile Devices</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-be-inspired-today-the-essentials-of-stunning-photos-on-ig/"><u>2024 Approved Be Inspired Today! The Essentials of Stunning Photos on IG</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/boost-your-workflow-utilize-intel-quick-sync-technology-across-dual-monitors-on-laptops/"><u>Boost Your Workflow: Utilize Intel Quick Sync Technology Across Dual Monitors on Laptops</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/crafting-impeccable-inshot-segment-flows-for-2024/"><u>Crafting Impeccable Inshot Segment Flows for 2024</u></a></li>
+<li><a href="https://win-forum.techidaily.com/easy-fixes-for-the-windows-missing-class-registration-error/"><u>Easy Fixes for the Windows Missing Class Registration Error</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/in-2024-mutt-melodies-an-array-of-authentic-dog-audio-experiences/"><u>In 2024, Mutt Melodies An Array of Authentic Dog Audio Experiences</u></a></li>
+<li><a href="https://some-skills.techidaily.com/navigating-the-path-iphone-file-exchange-for-2024/"><u>Navigating the Path IPhone File Exchange for 2024</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/the-economical-way-to-greet-the-day-a-comprehensive-review-of-totobay-2nd-gen-wake-up-light/"><u>The Economical Way to Greet the Day: A Comprehensive Review of Totobay 2Nd Gen Wake-Up Light</u></a></li>
+</ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+

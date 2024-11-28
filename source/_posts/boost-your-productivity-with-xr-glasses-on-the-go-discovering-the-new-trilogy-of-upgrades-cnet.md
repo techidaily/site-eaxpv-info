@@ -1,7 +1,7 @@
 ---
 title: "Boost Your Productivity with XR Glasses On-the-Go: Discovering the New Trilogy of Upgrades | CNET"
-date: 2024-11-15T17:56:26.634Z
-updated: 2024-11-20T00:52:50.733Z
+date: 2024-11-22T18:51:09.891Z
+updated: 2024-11-28T16:19:31.300Z
 tags:
   - apple
 categories:
@@ -19,6 +19,10 @@ Matthew Miller/ZDNET
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
 
@@ -81,10 +85,7 @@ Along with the [Viture Pro XR glasses](https://buy.geni.us/Proxy.ashx?TSID=36825
 Lastly, Viture announced a new limited-edition controller in partnership with 8BitDo. You can connect this new controller, with a classic XBox-style controller layout, via Bluetooth to your gaming device, including the Nintendo Switch. The smokey translucent design looks cool and matches the Viture ecosystem. The 8BitDo controller also serves as a companion to the Viture Neckband, but I have yet to try out the Neckband, so I cannot share my experiences with that accessory.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100537/7443" target="_top" id="2100537">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100537" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100537/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -121,24 +122,20 @@ The [Viture Pro XR glasses](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-from-followers-to-brand-ambassadors-the-five-pillars-of-influencer-success/"><u>[New] 2024 Approved From Followers to Brand Ambassadors The Five Pillars of Influencer Success</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-gamers-quest-1000plus-game-adventures-unfolded/"><u>[New] 2024 Approved Gamer's Quest 1,000+ Game Adventures Unfolded</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-heating-up-your-youtube-videos-with-top-winter-backdrops/"><u>[New] 2024 Approved Heating Up Your YouTube Videos with Top Winter Backdrops</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-free-youtube-revenue-predictor-tools/"><u>[New] In 2024, Free YouTube Revenue Predictor Tools</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-guide-to-securely-copying-youtube-music-tracks-safely/"><u>[New] In 2024, Guide to Securely Copying YouTube Music Tracks Safely</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-light-shadow-and-subtlety-in-film-coloring/"><u>[New] Light, Shadow & Subtlety in Film Coloring</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-fast-fortnite-cover-art-techniques/"><u>[Updated] 2024 Approved Fast Fortnite Cover Art Techniques</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-fresh-funds-finds-economical-monetization-platforms-for-beginners/"><u>[Updated] 2024 Approved Fresh Funds Finds Economical Monetization Platforms for Beginners</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-beginners-to-pros-choosing-webcams-for-youtube-live/"><u>[Updated] 2024 Approved From Beginners to Pros Choosing Webcams for YouTube Live</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-the-forgotten-basics-of-instagram-reels-success/"><u>[Updated] 2024 Approved The Forgotten Basics of Instagram Reels Success</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-cutting-edge-screen-time-youtubes-top-movies-list-for-2024/"><u>[Updated] Cutting Edge Screen Time YouTube's Top Movies List for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-setup-a-mac-studio-for-sports-content/"><u>[Updated] In 2024, How to Setup a Mac Studio for Sports Content</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-twice-as-nice-sequential-video-playback-via-television-setup/"><u>[Updated] Twice as Nice Sequential Video Playback via Television Setup</u></a></li>
-<li><a href="https://article-posts.techidaily.com/2024-approved-spectacular-8k-cameras-top-picks-for-quality/"><u>2024 Approved Spectacular 8K Cameras Top Picks for Quality</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/7-key-approaches-to-elevate-chatgpt-interactions/"><u>7 Key Approaches to Elevate ChatGPT Interactions</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-how-to-create-text-memes-with-meme-text-generator/"><u>In 2024, How to Create Text Memes with Meme Text Generator?</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/navigating-to-superior-websites-for-tamil-ringtone-saves-for-2024/"><u>Navigating to Superior Websites for Tamil Ringtone Saves for 2024</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/transforming-workouts-discover-how-the-airpods-pros-heart-rate-monitor-can-guide-your-fitness-journey/"><u>Transforming Workouts: Discover How the AirPods Pro's Heart Rate Monitor Can Guide Your Fitness Journey</u></a></li>
-<li><a href="https://fox-that.techidaily.com/troubleshoot-imessage-problems-in-7-simple-steps-for-ios-devices-and-macs/"><u>Troubleshoot iMessage Problems in 7 Simple Steps for iOS Devices & Macs</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-in-2024-how-to-innovate-your-tiktok-intro-video-a-mac-perspective/"><u>[Updated] In 2024, How to Innovate Your TikTok Intro Video - A Mac Perspective</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-maximizing-impact-with-tiktok-video-uploads-from-pcmac/"><u>[Updated] Maximizing Impact with TikTok Video Uploads From PC/Mac</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/affordable-overseas-vr-headsets-china/"><u>Affordable Overseas VR Headsets (China)</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/cut-to-the-chase-managing-twitch-streams/"><u>Cut to the Chase Managing Twitch Streams</u></a></li>
+<li><a href="https://techidaily.com/different-methods-for-resetting-vivo-y28-5g-phones-with-screen-locked-and-not-drfone-by-drfone-reset-android-reset-android/"><u>Different Methods for Resetting Vivo Y28 5G Phones with Screen Locked and Not | Dr.fone</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/diy-dvdiso/"><u>DIY DVD到ISO的簡單轉換方法 - 學習如何在光碟上保存影像</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/get-your-free-copy-of-winx-media-hub-secure-and-authorized-source-for-dvd-ripping-software-and-high-definition-video-converters/"><u>Get Your FREE Copy of WinX Media Hub – Secure and Authorized Source for DVD Ripping Software and High-Definition Video Converters</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-catch-or-beat-sleeping-snorlax-on-pokemon-go-for-motorola-edge-40-drfone-by-drfone-virtual-android/"><u>In 2024, Catch or Beat Sleeping Snorlax on Pokemon Go For Motorola Edge 40 | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-explore-the-best-video-cameras-of-the-future/"><u>In 2024, Explore the Best Video Cameras of the Future</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1726228229422-movmp4-movavi/"><u>MOV格式自由地转换为MP4 - 简单、无成本且快捷指南 | Movavi</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/solution-guide-how-to-fix-windows-media-player-issues-with-mkv-video-formats/"><u>Solution Guide: How to Fix Windows Media Player Issues with MKV Video Formats</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/techniques-rapides-et-efficaces-pour-reduction-de-la-taille-des-videos-face-a-la-limitation-de-fb/"><u>Techniques Rapides Et Efficaces Pour Reduction De La Taille Des Vidéos Face À La Limitation De FB</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/top-rated-h265-video-encoder-software-compatible-with-pc-and-mac/"><u>Top Rated H.265 Video Encoder Software : Compatible with PC and MAC</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/ultimate-guide-adding-libdvdcss-to-handbrake-for-secure-dvd-conversion-on-macoswindows-10/"><u>Ultimate Guide: Adding Libdvdcss to Handbrake for Secure DVD Conversion on macOS/Windows 10</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/winxvideo-ai-professionelles-videobearbeitungstool-mit-funktionen-fur-skalierung-stabilisierung-konvertierung-und-aufnahme/"><u>Winxvideo AI: Professionelles Videobearbeitungstool Mit Funktionen Für Skalierung, Stabilisierung, Konvertierung Und Aufnahme</u></a></li>
 </ul></div>
 

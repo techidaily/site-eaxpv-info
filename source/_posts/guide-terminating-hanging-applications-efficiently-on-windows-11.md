@@ -1,7 +1,7 @@
 ---
 title: "Guide: Terminating Hanging Applications Efficiently on Windows 11"
-date: 2024-08-30T16:49:31.947Z
-updated: 2024-08-31T16:49:31.947Z
+date: 2024-11-22T18:47:17.852Z
+updated: 2024-11-28T17:57:46.812Z
 tags:
   - desktop
 categories:
@@ -21,6 +21,10 @@ thumbnail: https://thmb.techidaily.com/696965aa1a0f4c21fdfd456761bb63f354f50ffc3
 * [Using PowerShell](https://some-knowledge.techidaily.com/new-immerse-in-fun-the-top-samsung-gear-vr-games/)
 * [If Nothing Works, Restart Your PC](https://facebook-clips.techidaily.com/updated-2024-approved-advanced-mp4-encoder-for-social-sharing/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * One way to close unresponsive apps is to bring the app window into focus and press the Alt+F4 keyboard shortcut.
@@ -38,11 +42,16 @@ thumbnail: https://thmb.techidaily.com/696965aa1a0f4c21fdfd456761bb63f354f50ffc3
 ![Alt+F4 highlighted on a Windows keyboard.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/1-alt-f4-keyboard-shortcut.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Hannah Stryker / How-To Geek
 
  If the app remains open, wait a few seconds and press the same hotkey again. Make sure not to keep pressing this key combo, or you’ll end up closing other apps as well.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Close a Program From the Windows Taskbar
 
@@ -53,29 +62,21 @@ Hannah Stryker / How-To Geek
 !['System' and 'For Developers' highlighted in Windows 11 Settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/2-for-developers-settings-windows-11.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  On the For Developers screen, turn on the "End Task" toggle. You can then close the Settings app.
 
  To remove the End Task option in the future, turn off the "End Task" toggle.
 
 ![The 'End Task' toggle highlighted in Windows 11 Settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/3-enable-end-task-windows-11.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BScreen%2BRecorder%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/f026b149-fc7c-fd54-5f3e-1460bbb19b6b.jpg" border="0"></a>
-<!-- affiliate ads end -->
  On the Windows taskbar, find the unresponsive app, then right-click the app’s icon and choose "End Task."
 
 !['End Task' highlighted for an app on Windows taskbar.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/4-close-app-with-end-task-windows-11.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
-<!-- affiliate ads end -->
  Windows will force-close the selected app.
 
-<!-- affiliate ads begin -->
-<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  End a Task with the Task Manager
 
 [Task Manager has long offered options to manage app processes on Windows PCs](https://some-skills.techidaily.com/new-unveiling-the-secret-sauce-for-massive-tiktok-content-grabs/). You can use this utility to kill an unresponsive app’s process, quitting the app.
@@ -83,6 +84,10 @@ Hannah Stryker / How-To Geek
  To use this method, launch Task Manager by right-clicking the Windows taskbar and choosing "Task Manager." Another way to launch this tool is by pressing the Windows key, typing **Task Manager**, and selecting the tool in the search results.
 
 !['Task Manager' highlighted in the Windows taskbar context menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/5-open-task-manager.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  On the Task Manager window, from the left sidebar, select the "Processes" tab.
 
@@ -92,14 +97,8 @@ Hannah Stryker / How-To Geek
 
 !['End Task' highlighted for an app in Task Manager.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/7-end-process-task-manager.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
  Task Manager will immediately close the selected app.
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Using Settings
 
  Windows 11’s Settings app also offers the option to terminate unresponsive apps. This requires a few more clicks than the other methods.
@@ -108,9 +107,6 @@ Hannah Stryker / How-To Geek
 
 !['Apps' and 'Installed Apps' highlighted in Windows 11 Settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/8-installed-apps-windows-11-settings.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
-<!-- affiliate ads end -->
  Find the unresponsive app on the list. Next to the app, click the three dots and choose "Advanced Options."
 
  If you don’t find Advanced Options for your app, you can’t use this method.
@@ -118,8 +114,9 @@ Hannah Stryker / How-To Geek
 !['Advanced Options' highlighted for an app in Windows 11 Settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/9-advanced-app-options-windows-11.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  On the following page, scroll down to the Terminate section. Here, click the "Terminate" button.
 
 !['Terminate' highlighted for an app in Windows 11 Settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/10-terminate-app-windows-11.jpg) 
@@ -148,9 +145,6 @@ Hannah Stryker / How-To Geek
     
 ![The 'taskkill' command typed in Command Prompt.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/13-close-app-cmd.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
  Here’s what each parameter does in the command:
 
 * **taskkill**: This is the command that terminates the specified process.
@@ -170,8 +164,9 @@ Hannah Stryker / How-To Geek
 !['Run as Administrator' highlighted for PowerShell in Windows Search.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/14-open-powershell-as-admin.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  In the User Account Control prompt, select "Yes."
 
  On the PowerShell window, type the following cmdlet and press Enter. This cmdlet retrieves a list of the running apps.
@@ -186,6 +181,10 @@ Hannah Stryker / How-To Geek
     
 ![The 'Stop-Process' command typed in PowerShell.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/16-stop-process-command-powershell.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Here’s what each parameter does in this cmdlet:
 
 * **Stop-Process**: This cmdlet terminates the specified process.
@@ -194,9 +193,6 @@ Hannah Stryker / How-To Geek
 
  PowerShell will close the specified app.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ##  If Nothing Works, Restart Your PC
 
  If the frozen app remains frozen even after using the above methods, give your Windows 11 PC a restart to close all the running apps on your system.
@@ -204,6 +200,10 @@ Hannah Stryker / How-To Geek
  Before you reboot your PC, ensure the frozen app isn’t on the startup apps list. If it is, the app will automatically launch (and possibly freeze again) when your computer turns back on. To prevent that, [open Task Manager](https://vp-tips.techidaily.com/updated-in-2024-perfect-palette-playbook-mastering-the-art-of-grading/) and access the "Startup Apps" tab. Select the unresponsive app on the list and choose "Disable" at the top. Then, close Task Manager.
 
 !['Startup Apps,' an app, and 'Disable' highlighted in Task Manager.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/17-disable-startup-app-task-manager.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Once all of that is done, [restart your computer](https://screen-video-capture.techidaily.com/updated-in-2024-addressing-mute-problems-in-obs-live-recording/) by opening the Start Menu, selecting the Power icon, and choosing "Restart."
 
@@ -223,8 +223,6 @@ Hannah Stryker / How-To Geek
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -232,4 +230,22 @@ Hannah Stryker / How-To Geek
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-erase-live-video-on-facebook-windows-android-tactics/"><u>[New] 2024 Approved Erase Live Video on Facebook Windows, Android Tactics</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-5-critical-equipment-items-to-start-your-channel-right/"><u>[New] In 2024, 5 Critical Equipment Items to Start Your Channel Right</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-unveiling-techniques-for-targeted-youtube-video-download/"><u>[New] Unveiling Techniques for Targeted YouTube Video Download</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-purge-personal-youtube-history-records/"><u>[Updated] 2024 Approved How to Purge Personal YouTube History Records</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-cutting-edge-array-of-inquisitive-prompts-for-podcast-appeal/"><u>[Updated] Cutting-Edge Array of Inquisitive Prompts for Podcast Appeal</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-highlighted-viewer-insights-unveiled/"><u>[Updated] Highlighted Viewer Insights Unveiled</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-captivate-viewers-create-success-a-strategy-for-gamers-channels/"><u>[Updated] In 2024, Captivate Viewers, Create Success A Strategy for Gamers' Channels</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-the-10-funniest-youtube-shorts-video-ideas/"><u>[Updated] The 10 Funniest YouTube Shorts Video Ideas</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-the-path-to-professional-streaming-integrating-zoom-into-your-youtube-strategy/"><u>[Updated] The Path to Professional Streaming Integrating Zoom Into Your YouTube Strategy</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/enhancing-the-editors-journey-best-in-class-ai-tools/"><u>Enhancing the Editor's Journey: Best-in-Class AI Tools</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/game-compromised-activisions-security-breach/"><u>Game Compromised: Activision's Security Breach</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-get-back-lost-contacts-from-samsung-galaxy-m34-5g-by-fonelab-android-recover-contacts/"><u>How to get back lost contacts from Samsung Galaxy M34 5G.</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-realme-11-proplus-by-drfone-android/"><u>In 2024, AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your Realme 11 Pro+</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-slay-the-game-designing-quirky-text-memes/"><u>In 2024, Slay the Game Designing Quirky Text Memes</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/youtube-to-audio-gold-prime-10-converter-hits-for-2024/"><u>YouTube to Audio Gold Prime 10 Converter Hits for 2024</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Is Apple Bringing Back The Infamous AirPower? Spotlight on Fresh Evidence From ZDNet Coverage
-date: 2024-11-18T19:51:57.961Z
-updated: 2024-11-19T19:28:00.753Z
+date: 2024-11-27T17:53:45.845Z
+updated: 2024-11-28T18:38:45.996Z
 tags:
   - apple
 categories:
@@ -30,6 +30,10 @@ How do you tell the difference?
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How free and low-cost phone offers work
 
 The deals we're discussing here are unique to the United States, and specifically to the three big carriers that dominate the US mobile market. When you agree to accept your new phone from the carrier, the price you pay typically includes some combination of a down payment, a trade-in allowance for your current phone, and a series of credits that will be applied to your monthly bill. You agree to finance the phone at 0% interest, typically over a period of 24 to 36 months, and the credits offset all or part of the equipment charge for that same period.
@@ -41,13 +45,6 @@ If you trade your phone for a newer model or switch carriers before the promo pe
 You might be offered a higher-than-expected trade-in value for your current phone, again offered as a series of monthly credits. To qualify for the deal, you might have to add a new line of service or change to a new plan, but you can occasionally find upgrade deals for your current device. And, of course, these deals are only for "well-qualified" customers. If you have so-so credit scores, you might not be able to take advantage of the deal.
 
 In my experience, carriers go out of their way to make these deals complicated, and you need to look carefully to see if there are any hidden gotchas. Here are seven questions to ask up front to make sure you don't encounter an unpleasant surprise later.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043617/7443" target="_top" id="2043617">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043617" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043617/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Do I need to add a line to qualify?
 
@@ -64,10 +61,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014851/22899" target="_top" id="2014851">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014851" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014851/22899" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Does my existing plan qualify?
@@ -75,10 +69,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 The most attractive upgrade offers are typically only available if you sign up for one of the carrier's premium plans. If you're currently on a low-cost legacy plan from the same carrier or a competitor, be sure to find out how much your monthly payment for mobile service will increase. The difference might be enough to wipe out any savings from the promo credits.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528688/16446" target="_top" id="1528688">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528688" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528688/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Will my new phone be locked to this carrier?
@@ -87,16 +78,13 @@ The carrier is offering that phone at a discount because they want to lock you i
 
 **Also: [The best iPhone deals of 2024: Free iPhone 15s, free iPads, cheap accessories](https://www.zdnet.com/article/iphone-deals/)**
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How many months does the payment agreement last?
 
 T-Mobile still offers 24-month payment plans, but rivals Verizon and AT&T now apply device credits over 36 months. If you're absolutely certain you'll keep your new phone for the full three years, that might be a good deal, but you'll pay dearly if you need to replace it before the agreement ends.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What happens if I want to pay off the device early?
 
@@ -109,6 +97,10 @@ As an inducement for you to switch, some carriers will offer to reimburse you fo
 ## Can I get a better deal on the phone somewhere else?
 
 Even if your carrier seems to be offering a good deal, be sure to shop around. Apple occasionally offers meaningful discounts on its iPhones, and the price after a trade-in might be good enough to consider, especially when you factor in the savings you get from sticking with a lower-cost legacy plan. Among the top Android device makers, Samsung and Google regularly offer deep discounts that are worth checking out. And all of those device makers offer 0% financing options.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Can I get a better deal selling my phone instead of trading it in?
 
@@ -148,19 +140,17 @@ The exception to that rule is usually when a new smartphone model comes out; dur
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-get-rid-of-youtube-distractions-ad-blocking-on-chrome-firefox-and-ios/"><u>[New] 2024 Approved Get Rid of YouTube Distractions Ad-Blocking on Chrome, Firefox & iOS</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-halt-youtube-suggested-content-now/"><u>[New] 2024 Approved Halt YouTube Suggested Content Now</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-harmonious-histories-exploring-musical-legends-with-these-15-video-documentaries/"><u>[New] 2024 Approved Harmonious Histories Exploring Musical Legends with These 15 Video Documentaries</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-buy-youtube-views-everything-you-need-to-know/"><u>[New] 2024 Approved How to Buy YouTube Views - Everything You Need To Know</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-hashtag-heroes-the-ultimate-list-for-popularizing-your-youtube-snippets/"><u>[New] In 2024, Hashtag Heroes The Ultimate List for Popularizing Your YouTube Snippets</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-instant-adjustment-match-youtube-to-mac-aspects/"><u>[New] Instant Adjustment Match YouTube to Mac Aspects</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/updated-archive-artistry-seamlessly-fuse-infinite-no-charge-cloud-and-premium-subscriptions/"><u>[Updated] Archive Artistry Seamlessly Fuse Infinite, No-Charge Cloud & Premium Subscriptions</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-free-youtube-thumbnails-saving-guide/"><u>[Updated] In 2024, Free YouTube Thumbnails Saving Guide</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/approved-essential-tools-for-efficient-mp4-segmentation-on-mac/"><u>2024 Approved Essential Tools for Efficient MP4 Segmentation on Mac</u></a></li>
-<li><a href="https://extra-information.techidaily.com/affordable-high-definition-cams-for-adventure-enthusiasts-for-2024/"><u>Affordable High Definition Cams for Adventure Enthusiasts for 2024</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/how-do-i-sign-a-fodt-file-document-electronically-by-ldigisigner-sign-a-word-sign-a-word/"><u>How do i sign a .fodt file document electronically</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-overview-of-the-best-realme-12-proplus-5g-screen-mirroring-app-drfone-by-drfone-android/"><u>In 2024, Overview of the Best Realme 12 Pro+ 5G Screen Mirroring App | Dr.fone</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/introducing-the-cutting-edge-features-of-the-newest-ipad/"><u>Introducing the Cutting-Edge Features of the Newest iPad</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/stream-anything-to-chromecast-the-ultimate-video-format-guide-for-2024/"><u>Stream Anything to Chromecast The Ultimate Video Format Guide for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-cutting-edge-6-solutions-for-audiovisual-translation/"><u>[New] Cutting-Edge 6 Solutions for Audio/Visual Translation</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-craft-stellar-channels-best-10-apps-for-artistic-banner-design-for-2024/"><u>[Updated] Craft Stellar Channels Best 10 Apps for Artistic Banner Design for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-in-2024-elevate-your-reel-game-mastering-attractive-instagram-unboxing/"><u>[Updated] In 2024, Elevate Your Reel Game Mastering Attractive Instagram Unboxing</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/from-casual-gamer-to-pro-elevating-your-minecraft-recordings-with-a-mac/"><u>From Casual Gamer to Pro Elevating Your Minecraft Recordings with a Mac</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-your-apple-iphone-15-pro-max-location-on-twitter-drfone-by-drfone-virtual-ios/"><u>How to Change your Apple iPhone 15 Pro Max Location on Twitter | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-satirical-graphics-memes-made-easy-by-kapwing/"><u>In 2024, Satirical Graphics Memes Made Easy by Kapwing</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/mp4-video-compression-tips-maintaining-high-quality-in-smaller-sizes/"><u>MP4 Video Compression Tips: Maintaining High-Quality in Smaller Sizes</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/online-mov-to-mp4-converter-no-cost-works-on-all-platforms-including-mac-and-windows-11/"><u>Online MOV to MP4 Converter - No Cost! Works on All Platforms Including Mac and Windows 11</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/the-ultimate-guide-to-unlocking-apple-watch-or-iphone-11-pro-from-icloud-by-drfone-ios/"><u>The Ultimate Guide to Unlocking Apple Watch Or iPhone 11 Pro from iCloud</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/tired-of-tough-snow-battles-in-cleveland-discover-the-power-of-our-top-rated-electric-snow-thrower/"><u>Tired of Tough Snow Battles in Cleveland? Discover the Power of Our Top-Rated Electric Snow Thrower!</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/top-free-video-clipper-tools-for-windows-and-mac-remove-unwanted-footage-with-ease/"><u>Top FREE Video Clipper Tools for Windows & Mac - Remove Unwanted Footage with Ease</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/winxvideo-ia-para-mejora-automatica-y-control-total-sobre-imagenes-y-videos-crear-editar-conversion-y-grabacion-perfecta/"><u>Winxvideo IA Para Mejora Automática Y Control Total Sobre Imágenes Y Videos. Crear, Editar, Conversión Y Grabación Perfecta</u></a></li>
 </ul></div>
 

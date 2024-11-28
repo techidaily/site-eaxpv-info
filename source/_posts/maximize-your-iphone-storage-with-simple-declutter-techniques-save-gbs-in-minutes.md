@@ -1,7 +1,7 @@
 ---
 title: Maximize Your iPhone Storage with Simple Declutter Techniques - Save GBs in Minutes!
-date: 2024-11-12T23:56:37.650Z
-updated: 2024-11-20T00:02:38.056Z
+date: 2024-11-24T18:27:14.551Z
+updated: 2024-11-28T17:06:26.684Z
 tags:
   - apple
 categories:
@@ -32,6 +32,10 @@ It all works thanks to _aliases,_ a feature that's built into most modern email 
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## The magic of email aliases
 
 An alias is an alternate email address that's linked to your main account. Messages addressed to an alias go to your inbox, right alongside messages sent to your primary address. But because they're _not_ using your regular email address, you can set up your email client to perform custom actions using those aliases.
@@ -61,10 +65,7 @@ Don't confuse aliases with forwarded accounts, which allow you to send and recei
 The following instructions apply to personal accounts you manage yourself. If you have a commercial email account (through Microsoft 365 or Google Workspace, for example), you can have aliases for your account using your organization's custom domain, but you'll need an administrator's help to set up those aliases.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118306/7443" target="_top" id="2118306">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118306" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118306/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to create an alias using Gmail
@@ -76,10 +77,7 @@ Although it's the world's most popular email service, Gmail's implementation of 
 The problem with this sort of alias is that it doesn't keep an unscrupulous sender from seeing your primary address, so be cautious when using it with untrusted correspondents.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123749/7443" target="_top" id="2123749">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123749" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123749/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to create an alias using Outlook.com
@@ -93,10 +91,7 @@ To get started, go to <https://account.microsoft.com>, sign in with your Microso
 You can add new aliases at any time (up to the limit of 10) or remove an existing alias from the Account Aliases page described earlier.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136626/26400" target="_top" id="2136626">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136626" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136626/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to create an alias using your Apple ID
@@ -110,16 +105,7 @@ The one catch is that each alias uses an auto-generated name that can be less th
 To create an iCloud alias on an iOS device, open Settings, tap your account name, then tap iCloud > Hide My Email. (On a MacBook, use the Apple menu to open System Settings, where you'll find the Hide My Email option.) Tap Create New Address and follow the prompts to add a label and an optional note. Use the Forward To button to select where you want to receive email sent to that alias.
 
 <!-- affiliate ads begin -->
-<span id="1977028">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977028.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977028">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977028.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977028%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977028/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Other alias options
@@ -160,21 +146,20 @@ You can also use privacy add-ins that include email-masking features. [NordPass 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-guide-to-simplified-gs-yt-cta-implementation/"><u>[New] 2024 Approved Guide to Simplified GS-YT CTA Implementation</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-make-your-own-youtube-closures-without-spending/"><u>[New] 2024 Approved How to Make Your Own YouTube Closures Without Spending</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-stopping-auto-capture-in-apples-recorder/"><u>[New] 2024 Approved Stopping Auto-Capture in Apple's Recorder</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-from-script-to-screen-crafting-your-unique-youtube-tale-for-2024/"><u>[New] From Script to Screen Crafting Your Unique YouTube Tale for 2024</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/n-2024-ephemeral-video-wizard/"><u>[New] In 2024, Ephemeral Video Wizard</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-free-youtube-subtitled-content-download-without-paying/"><u>[New] In 2024, Free YouTube Subtitled Content Download Without Paying</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-say-no-to-youtube-ads-chrome-firefox-android-and-ios-tips/"><u>[New] In 2024, How to Say No to YouTube Ads Chrome, Firefox, Android & iOS Tips</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-halt-youtube-suggested-content-now/"><u>[Updated] 2024 Approved Halt YouTube Suggested Content Now</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-youtube-to-avi-perfect-conversion-tools-revealed/"><u>[Updated] In 2024, From YouTube to AVI Perfect Conversion Tools Revealed</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-in-2024-one-frame-at-a-time-your-guide-to-free-youtube-navigation/"><u>[Updated] In 2024, One Frame at A Time Your Guide to Free YouTube Navigation</u></a></li>
-<li><a href="https://article-tips.techidaily.com/2024-approved-link-up-movies-to-your-youtube-compendium/"><u>2024 Approved Link Up Movies to Your YouTube Compendium</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/enabling-windows-11-dynamic-hdr-capability/"><u>Enabling Windows 11 Dynamic HDR Capability</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/enhance-safety-with-ease-discover-how-to-effectively-use-your-arlo-security-kit/"><u>Enhance Safety with Ease: Discover How to Effectively Use Your Arlo Security Kit</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-frp-on-infinix-zero-30-5g-by-drfone-android/"><u>In 2024, How to Bypass FRP on Infinix Zero 30 5G?</u></a></li>
-<li><a href="https://howto.techidaily.com/vivo-y56-5g-screen-unresponsive-heres-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Vivo Y56 5G Screen Unresponsive? Heres How to Fix It | Dr.fone</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/where-is-the-best-place-to-catch-dratini-on-honor-90-gt-drfone-by-drfone-virtual-android/"><u>Where Is the Best Place to Catch Dratini On Honor 90 GT | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-identifying-instagram-disconnects-for-2024/"><u>[New] Identifying Instagram Disconnects for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-ranking-premium-free-excellence-the-finest-free-lut-selections/"><u>[New] Ranking Premium-Free Excellence The Finest Free LUT Selections</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-techniques-for-text-overlays-in-igtv-content/"><u>[Updated] 2024 Approved Techniques for Text Overlays in IGTV Content</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-hot-oculus-vr-games-that-everyones-playing/"><u>[Updated] Hot Oculus VR Games That Everyone's Playing</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/1-quick-and-easy-winx-dvd-ripper-platinum-convert-dvds-to-high-quality-mp4-in-under-5-minutes/"><u>1. Quick & Easy WinX DVD Ripper Platinum: Convert DVDs to High-Quality MP4 in Under 5 Minutes</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-pro-photoshop-power-top-10-canva-design-secrets/"><u>2024 Approved Pro Photoshop Power Top 10 Canva Design Secrets</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/1725286402946-winx-dvd-ripper-platinum/"><u>線上WinX DVD Ripper Platinum使用指南 | 解決流行技術問題</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/converti-dvd-gratis-in-file-mp4-per-windows-e-mac-con-winxdvd-guida-completa/"><u>Converti DVD Gratis in File MP4 per Windows E Mac Con WinXDVD: Guida Completa</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/dvddvd-styler-making-perfect-dvds-with-ease-using-dvd-stylers-finalize-feature/"><u>DVD生成における最終処理DVD Stylerで完璧な作品を手軽に作れます - Making Perfect DVDs with Ease Using DVD Styler's Finalize Feature</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/expert-tutorial-on-installing-and-configuring-winxdvd-tool-suite/"><u>Expert Tutorial on Installing and Configuring WinXDVD Tool Suite</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/getting-started-with-windows-11-mobile-a-step-by-step-tutorial-for-insiders/"><u>Getting Started with Windows 11 Mobile - A Step-by-Step Tutorial for Insiders</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/how-to-turn-off-handbrakes-automatic-cropping-feature-and-edit-video-frames-by-yourself/"><u>How to Turn Off Handbrake's Automatic Cropping Feature and Edit Video Frames by Yourself</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/lock-your-oppo-a18-phone-in-style-the-top-5-gesture-lock-screen-apps-by-drfone-android/"><u>Lock Your Oppo A18 Phone in Style The Top 5 Gesture Lock Screen Apps</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolving-the-granblue-fantasy-relinks-crash-issue-in-pc-version/"><u>Resolving the 'Granblue Fantasy Relinks Crash' Issue in PC Version</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/top-5-4k-ultra-hd-video-players-para-computadoras-y-macs-una-guia-completa/"><u>Top 5 4K Ultra HD Video Players Para Computadoras Y Macs: Una Guía Completa</u></a></li>
 </ul></div>
 

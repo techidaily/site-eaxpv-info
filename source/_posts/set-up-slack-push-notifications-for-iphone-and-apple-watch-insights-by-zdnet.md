@@ -1,7 +1,7 @@
 ---
 title: Set Up Slack Push Notifications for iPhone and Apple Watch | Insights by ZDNet
-date: 2024-11-15T21:05:43.683Z
-updated: 2024-11-19T22:34:33.350Z
+date: 2024-11-27T18:50:53.271Z
+updated: 2024-11-28T19:05:07.560Z
 tags:
   - apple
 categories:
@@ -49,10 +49,7 @@ Here's how.
 **What you'll need:** Have the latest versions of iOS and watchOS installed on your iPhone and Apple Watch, respectively. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151882/7443" target="_top" id="2151882">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151882" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151882/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Install the Slack app on your iPhone
@@ -65,13 +62,6 @@ Once it's installed, go ahead and log into your various Slack channels. Get thos
 
 Let's make sure iOS is set up to allow Slack notifications. Go to the main Settings app and on the main settings screen, scroll all the way down to Slack. It's a long scroll past many other apps. Tap into Slack.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043662/7443" target="_top" id="2043662">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043662" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043662/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##   
 
 Screenshot by David Gewirtz/ZDNET
@@ -83,22 +73,12 @@ Now, back out to the top of the Settings app and tap the red Notifications icon.
 Screenshot by David Gewirtz/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/798161/11305" target="_top" id="798161">
-  <img src="//a.impactradius-go.com/display-ad/11305-798161" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798161/11305" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Set up Slack notifications in the Slack app
 
 Next, open the Slack app. Tap your profile image in the upper right corner of the screen. Then tap Notifications.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123738/7443" target="_top" id="2123738">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123738" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123738/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##   
 
@@ -138,15 +118,27 @@ So, make sure you set the Start and End times that fit with your schedule.
 
 Recommendation to Slack: Where you put the "Every day" option in that setting, add the times as well (e.g., "Every day 8 a.m. - 11 p.m."). That way, it's clear to users what they might need to change. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5\. Enable Slack notifications in the Watch app
 
 We're almost done configuring notifications. Open the Watch app and scroll down to Notifications. Then scroll down to Slack and make sure it's turned on.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##   
 
 Screenshot by David Gewirtz/ZDNET
 
 There. You've set up notifications. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  6\. Use the Watch to get Slack notifications
 
@@ -187,24 +179,14 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-flavor-leaders-must-watch-culinary-youtube-stars/"><u>[New] 2024 Approved Flavor Leaders Must-Watch Culinary YouTube Stars</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-how-to-fix-the-youtube-shorts-not-showing-up-issue-for-2024/"><u>[New] How to Fix the YouTube Shorts Not Showing Up Issue for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-average-to-exceptional-discover-the-finest-free-intra-designs/"><u>[New] In 2024, From Average to Exceptional Discover the Finest Free Intra Designs</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-finance-frontiers-the-finest-youtube-channels-to-follow/"><u>[Updated] 2024 Approved Finance Frontiers The Finest YouTube Channels to Follow</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-search-patterns-to-screenplay-crafting-videos-from-google-data/"><u>[Updated] 2024 Approved From Search Patterns to Screenplay Crafting Videos From Google Data</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-remove-pending-videos-from-your-youtube-history/"><u>[Updated] 2024 Approved How to Remove Pending Videos From Your YouTube History</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-audio-anomaly-top-disruptive-music-apps-for-iosandroid/"><u>[Updated] Audio Anomaly Top Disruptive Music Apps for iOS/Android</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-stand-out-yt-thumbnail-size-and-engagement-strategies-for-2024/"><u>[Updated] How to Stand Out YT Thumbnail Size and Engagement Strategies for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-fifa-footage-analysis-trendy-video-patterns/"><u>[Updated] In 2024, FIFA Footage Analysis Trendy Video Patterns</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-hashtag-hacks-for-amplifying-gamer-content/"><u>[Updated] In 2024, Hashtag Hacks for Amplifying Gamer Content</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-leading-with-visuals-setting-up-premium-cover-videos-on-fb/"><u>[Updated] In 2024, Leading With Visuals Setting Up Premium Cover Videos on FB</u></a></li>
-<li><a href="https://fake-location.techidaily.com/apply-these-techniques-to-improve-how-to-detect-fake-gps-location-on-infinix-zero-5g-2023-turbo-drfone-by-drfone-virtual-android/"><u>Apply These Techniques to Improve How to Detect Fake GPS Location On Infinix Zero 5G 2023 Turbo | Dr.fone</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/before-you-buy-the-ultimate-8-point-checklist-for-picking-your-ideal-desktop-computer/"><u>Before You Buy: The Ultimate 8-Point Checklist for Picking Your Ideal Desktop Computer</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/capture-and-share-the-art-of-using-zooms-snaps/"><u>Capture & Share The Art of Using Zoom's Snaps</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/convertidor-de-archivo-webm-a-mp3-sin-coste-guia-completa-en-movavi/"><u>Convertidor De Archivo WebM a MP3 Sin Coste: Guía Completa en Movavi</u></a></li>
-<li><a href="https://video-capture.techidaily.com/effortless-transformation-of-g64-and-g64x-videos-into-mp4-comprehensive-tutorial/"><u>Effortless Transformation of G64 and G64X Videos Into MP4 - Comprehensive Tutorial</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/final-cut-pro-x-for-instagram-optimizing-vertical-videos/"><u>Final Cut Pro X for Instagram Optimizing Vertical Videos</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/guide-to-accessing-free-meal-prep-videos-on-youtube-and-similar-platforms/"><u>Guide to Accessing Free Meal Prep Videos on YouTube and Similar Platforms</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-fix-android-app-not-installed-error-on-google-pixel-8-pro-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Android App Not Installed Error on Google Pixel 8 Pro Quickly? | Dr.fone</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-how-to-create-impactful-video-elements-cardsannotations-for-2024/"><u>[Updated] How to Create Impactful Video Elements Cards/Annotations for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-metaverse-visibility-your-step-by-step-avatar-design/"><u>[Updated] Metaverse Visibility Your Step-by-Step Avatar Design</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/1725286346607-winxvideo-ai/"><u>如何利用Winxvideo AI教學與指南: 進行影片編輯、拍攝和壓縮程序</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/dvd-playback-enjoy-movies-without-downloading-software/"><u>DVD Playback - Enjoy Movies Without Downloading Software</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-old-call-logs-from-your-honor-70-lite-5g-by-fonelab-android-recover-call-logs/"><u>How to recover old call logs from your Honor 70 Lite 5G?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-open-your-iphone-12-pro-max-without-a-home-button-by-drfone-ios/"><u>In 2024, How To Open Your iPhone 12 Pro Max Without a Home Button</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/ultimate-guide-to-winx-mediatrans-top-app-for-seamless-iphone-and-ipad-data-transfer-between-device-and-pc/"><u>Ultimate Guide to WinX MediaTrans: Top App for Seamless iPhone and iPad Data Transfer Between Device & PC</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/unlock-your-samsung-galaxy-s24plus-phone-with-ease-the-3-best-lock-screen-removal-tools-by-drfone-android/"><u>Unlock Your Samsung Galaxy S24+ Phone with Ease The 3 Best Lock Screen Removal Tools</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/winxvideo-ai-winxvideo-ai-how-to-guide-for-video-frame-interpolation/"><u>Winxvideo AIを活用した効果的な動画フレーム補完法 : Winxvideo AI How-To Guide for Video Frame Interpolation</u></a></li>
 </ul></div>
 

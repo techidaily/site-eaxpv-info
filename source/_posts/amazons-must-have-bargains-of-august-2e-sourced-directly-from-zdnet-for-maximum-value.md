@@ -1,7 +1,7 @@
 ---
 title: Amazon's Must-Have Bargains of August 2E, Sourced Directly From ZDNet for Maximum Value!
-date: 2024-11-13T17:52:51.044Z
-updated: 2024-11-19T21:55:29.543Z
+date: 2024-11-24T17:20:28.896Z
+updated: 2024-11-28T16:08:36.380Z
 tags:
   - apple
 categories:
@@ -37,6 +37,10 @@ Jason Hiner/ZDNET
 * [Bose SoundLink Flex Speaker](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FBose-SoundLink-Bluetooth-Portable-Waterproof%2Fdp%2FB099TJGJ91%3Fref%3Ddlx%5Fdeals%5Fdg%5Fdcl%5FB099TJGJ91%5Fdt%5Fsl14%5Fd5%26th%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C80da82b6-8768-4099-8fa7-3331c5c11350%7Cdtp&dtb=1) for $109 (save $40)
 * [Asus Tuf Gaming A16 2024 Laptop](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FASUS-TUF-Gaming-Laptop-165Hz%2Fdp%2FB0CRCWY9VT%3Fref%3Ddlx%5Fdeals%5Fdg%5Fdcl%5FB0CRCWY9VT%5Fdt%5Fsl14%5Fd5%26th%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C80da82b6-8768-4099-8fa7-3331c5c11350%7Cdtp&dtb=1) for $1,300 (save $500)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## The best Amazon tech deals
 
 Jason Hiner/ZDNET
@@ -51,10 +55,7 @@ Jason Hiner/ZDNET
 * [JBL Tune Flex Earbuds](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FJBL-Tune-Flex-Wireless-Cancelling%2Fdp%2FB0C1QNRGHC%3Fref%3Ddlx%5Fdeals%5Fdg%5Fdcl%5FB0C1QNRGHC%5Fdt%5Fsl14%5Fd5%26th%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C80da82b6-8768-4099-8fa7-3331c5c11350%7Cdtp&dtb=1) for $50 (save $50)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105883/7443" target="_top" id="2105883">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105883" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105883/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The best Amazon TV deals
@@ -80,13 +81,6 @@ Maria Diaz/ZDNET
 * [Roborock S8 Pro Ultra Robot Vacuum and Mop](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FPro-Ultra-Self-Washing-Self-Refilling-Self-Emptying%2Fdp%2FB0BVB5PTDK%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C80da82b6-8768-4099-8fa7-3331c5c11350%7Cdtp&dtb=1) for $950 (save $650)
 * [Roborock Q8 Max Robot Vacuum and Mop](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Froborock-Q8-Max-Navigation-Multi-Level%2Fdp%2FB0C7VFD9Q4%2Fref%3Dsxin%5F15%5Fpa%5Fsp%5Fsearch%5Fthematic%5Fsspa%3Fcontent-id%3Damzn1.sym.60b0c4ef-0fd2-46d0-8724-84b6f746d062%3Aamzn1.sym.60b0c4ef-0fd2-46d0-8724-84b6f746d062%26crid%3D37DMVM6CIU4Y0%26cv%5Fct%5Fcx%3Drobot%2Bvacuum%26dib%3DeyJ2IjoiMSJ9.A4bejnO1HqJM%5FozbrGpsoYI205q99h9DoNEZVmg9dNI-ILQl1J-mSnznl4IKQtzDgOTGYo%5Fa7rpT3PH-A2Mpiw.a4a0hgwCDw4CmRSsqS2wHRhfJu%5FuKKwf5z-r8S-VJok%26dib%5Ftag%3Dse%26keywords%3Drobot%2Bvacuum%26pd%5Frd%5Fi%3DB0C7VFD9Q4%26pd%5Frd%5Fr%3Dc5436de8-abf5-4537-95f0-9cc48163f596%26pd%5Frd%5Fw%3DOlqAp%26pd%5Frd%5Fwg%3DQ2Iuk%26pf%5Frd%5Fp%3D60b0c4ef-0fd2-46d0-8724-84b6f746d062%26pf%5Frd%5Fr%3DAKHVV8K35XC7VV3MS5S3%26qid%3D1723557736%26sbo%3DRZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D%26sprefix%3Drobot%2Bvacuum%2B%2Caps%2C104%26sr%3D1-20-f853d353-bf33-45e7-b5c2-2cb2b31abc9b-spons%26sp%5Fcsd%3Dd2lkZ2V0TmFtZT1zcF9zZWFyY2hfdGhlbWF0aWM%26th%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C80da82b6-8768-4099-8fa7-3331c5c11350%7Cdtp&dtb=1) for $320 (save $280)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135396/19272" target="_top" id="2135396">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135396" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135396/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## The best Amazon home deals
 
 Maria Diaz/ZDNET
@@ -101,19 +95,13 @@ Maria Diaz/ZDNET
 * [Bluetti EB3A Portable Power Station](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FBLUETTI-Portable-EB3A-Recharge-Generator%2Fdp%2FB09WW3CTF4%3Fref%3Ddlx%5Fdeals%5Fdg%5Fdcl%5FB09WW3CTF4%5Fdt%5Fsl14%5Fd5%26th%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C80da82b6-8768-4099-8fa7-3331c5c11350%7Cdtp&dtb=1) for $198 (save $102)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896541/19272" target="_top" id="1896541">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896541" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896541/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##   
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094479/7443" target="_top" id="2094479">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094479" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094479/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How did we choose these Amazon deals?
@@ -125,6 +113,10 @@ We also looked over customer reviews to find out what matters to real people who
 ## When will these deals expire?
 
 Deals are subject to sell out or expire at any time, though ZDNET remains committed to finding, sharing, and updating the best product deals for you to score the best savings. Our team of experts regularly checks in on the deals we share to ensure they are still live and obtainable. We're sorry if you've missed out on a deal, but don't fret -- we're constantly finding new chances to save and sharing them with you at [ZDNET.com](https://www.zdnet.com/). 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How much is an Amazon Prime membership?
 
@@ -174,16 +166,21 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-digitally-rediscovering-past-facebook-sharing-how-to-for-tech-users/"><u>[New] 2024 Approved Digitally Rediscovering Past Facebook Sharing How-To for Tech Users</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/new-in-2024-addressing-freeze-during-facebook-live-events/"><u>[New] In 2024, Addressing Freeze During Facebook Live Events</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-techniques-for-crafting-encouraging-personal-growth-vids/"><u>[New] Techniques for Crafting Encouraging Personal Growth Vids</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-6-must-visit-destinations-for-top-notch-youtube-branding-elements/"><u>[Updated] 2024 Approved 6 Must-Visit Destinations For Top-Notch YouTube Branding Elements</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-2024-approved-vivavideo-unpacked-a-comprehensive-overview/"><u>[Updated] 2024 Approved VivaVideo Unpacked A Comprehensive Overview</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-expert-advice-on-lighting-your-youtube-content-perfectly-for-2024/"><u>[Updated] Expert Advice on Lighting Your YouTube Content Perfectly for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-filmora-tutorials-simple-steps-to-a-dynamic-youtube-subscribe-button/"><u>[Updated] Filmora Tutorials Simple Steps to a Dynamic YouTube Subscribe Button</u></a></li>
-<li><a href="https://win-able.techidaily.com/anthem-endless-boot-loop-solution-for-smooth-gaming-experience/"><u>Anthem Endless Boot Loop Solution for Smooth Gaming Experience</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/in-2024-earnings-breakdown-youtubes-adsense-payments-by-thousands-of-views/"><u>In 2024, Earnings Breakdown Youtube's AdSense Payments by Thousands of Views</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-ultimate-resource-list-open-source-imagery-sanctuary/"><u>In 2024, Ultimate Resource List Open-Source Imagery Sanctuary</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/in-2024-your-first-steps-in-online-broadcasting-via-obs/"><u>In 2024, Your First Steps in Online Broadcasting via OBS</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-streamlining-presentations-how-to-add-youtube-videos-to-ppt/"><u>[Updated] 2024 Approved Streamlining Presentations How to Add YouTube Videos to PPT</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-top-10-action-cameras-for-surfing-2023-update/"><u>[Updated] Top 10 Action Cameras for Surfing -2023 Update</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/approved-unleash-hd-playback-with-av1-on-youtube/"><u>2024 Approved Unleash HD Playback with AV1 on YouTube</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/cambiar-archivos-de-formato-m4v-a-wma-online-sin-coste-hagalo-con-convertidor-movavi/"><u>Cambiar Archivos De Formato M4V a WMA Online Sin Coste - Hágalo Con Convertidor Movavi</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/enhance-your-broadcasts-with-manycam-the-leading-choice-for-virtual-webcams-and-live-video-tools/"><u>Enhance Your Broadcasts with ManyCam - The Leading Choice for Virtual Webcams and Live-Video Tools</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/enhance-your-live-videos-with-manycam-top-of-the-line-software-for-virtual-webcams-and-recording-features/"><u>Enhance Your Live Videos with ManyCam - Top-of-the-Line Software for Virtual Webcams and Recording Features</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/enhance-your-online-presence-using-manycams-advanced-live-video-capture-technology/"><u>Enhance Your Online Presence Using ManyCam's Advanced Live Video Capture Technology</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/enhance-your-online-presence-using-manycams-live-video-and-remote-webcam-technology/"><u>Enhance Your Online Presence Using ManyCam's Live Video and Remote Webcam Technology</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/enhance-your-online-presence-with-manycams-cutting-edge-live-video-and-virtual-camera-tools/"><u>Enhance Your Online Presence with ManyCam's Cutting-Edge Live Video and Virtual Camera Tools</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/enhance-your-online-presence-discover-manycams-powerful-live-video-editing-tools-and-fake-webcam-features/"><u>Enhance Your Online Presence: Discover ManyCam's Powerful Live Video Editing Tools and Fake Webcam Features</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/enhance-your-online-presence-discover-top-tier-virtual-webcams-and-live-broadcast-tools-from-manycam/"><u>Enhance Your Online Presence: Discover Top-Tier Virtual Webcams & Live Broadcast Tools From ManyCam</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/full-uninstallation-blueprint-for-wsl-in-modern-windows/"><u>Full Uninstallation Blueprint for WSL in Modern Windows</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-huawei-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Huawei</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-ultimate-handbook-to-zooms-online-presentation-features/"><u>In 2024, The Ultimate Handbook to Zoom's Online Presentation Features</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solutions-to-stop-cod-black-ops-4s-critical-failures-and-glitches/"><u>Solutions to Stop COD Black Ops 4'S Critical Failures and Glitches</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/swiftly-relocate-memories-a-step-by-step-tutorial-for-shifting-your-photos-from-google-photos-to-icloud/"><u>Swiftly Relocate Memories: A Step-by-Step Tutorial for Shifting Your Photos From Google Photos to iCloud</u></a></li>
 </ul></div>
 

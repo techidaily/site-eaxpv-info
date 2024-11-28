@@ -1,7 +1,7 @@
 ---
 title: Crafting My Ultimate Fitness Plan with AI-Powered ChatGPT - The Journey
-date: 2024-08-30T16:51:43.863Z
-updated: 2024-08-31T16:51:43.863Z
+date: 2024-11-24T17:01:21.383Z
+updated: 2024-11-28T17:34:32.826Z
 tags:
   - cutting-edge
 categories:
@@ -11,6 +11,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ## Crafting My Ultimate Fitness Plan with AI-Powered ChatGPT - The Journey
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * You can prompt ChatGPT to create a workout routine as a starting point, being clear about your body type, goals, and equipment.
@@ -18,11 +22,19 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  Have you been meaning to start exercising regularly but aren't sure where to get started? You can easily use ChatGPT to create a workout routine. While its suggestions may not be tailored perfectly to everyone’s needs, they serve as a good starting point for anyone wanting to improve their fitness.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  ChatGPT Can Create Workout Routines. They Just Need Some Work Themselves
 
  Before you ask ChatGPT to create a workout routine or exercise regimen, you first need to form a clear idea of what kind of activity you want to do and what you want to achieve. That’s because entering a general command such as "create a workout regime for me" is only going to result in ChatGPT asking you something like the following:
 
 ![Asking ChatGPT to create a workout routine.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/asking-chatgpt-to-create-a-workout-routine.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You can therefore either reply to the above questions, or you can go ahead from the outset and specify the kind of workout regime you’d like. For example, you can write something along the lines of, "Create a gym workout routine intended to build upper body strength. I'm a beginner and am able to work out three times a week."
 
@@ -34,9 +46,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  It also needs to be stressed that you should make sure to state how experienced and fit you are, while providing your age, height and weight is also a good idea. If the routine ChatGPT produces seems a little too hard (or maybe easy), you should probably start again and make it clear that you want something slightly different.
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
-<!-- affiliate ads end -->
 ##  Always Ask a Personal Trainer First
 
  In my own personal experience, ChatGPT’s workout routines are perfectly sound in terms of how they’re structured. They mirror the kind of stuff I’ve previously done in gyms, incorporating valuable rest days and also providing advice on how you may want to increase weights (or reps/sets) as you become stronger.
@@ -48,8 +57,9 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![Changing jogging times with ChatGPT routine.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/changing-jogging-times-with-chatgpt-routine.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Secondly, and more generally, they should also ask trainers whether the routines provided by ChatGPT are actually suitable for their needs. In my case, I created a workout routine for myself centered around upper body strength, and the member of staff I spoke to at my gym pointed out how it could potentially benefit from at least one more exercise focused on the chest.
 
  More importantly, while ChatGPT did nothing wrong in itself in terms of outlining a helpful routine for improving upper body strength, it often lacks the context and bigger picture that could provide people with more useful advice. This became clear when the same trainer I spoke to also suggested that I shouldn’t focus only on upper body strength, and that I should also be looking at improving my core and leg strength.
@@ -57,8 +67,9 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  So while ChatGPT did create a decent enough upper body workout, if it were comparable to a qualified professional it would have also recommended a more holistic approach. This becomes particularly important if you’re entering the gym because you’re recovering from a health condition or injury, with experienced trainers likely to ask about such factors and advise accordingly.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  A Hybrid Approach Works Best
 
  As with many other applications of AI, most people are better off using a combination of ChatGPT and human advice. ChatGPT certainly provides a convenient starting point for creating a bespoke workout regime, yet it often misses things and doesn’t see the whole person in a way that a qualified trainer would.
@@ -75,8 +86,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -84,4 +93,22 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-eliminate-your-streaming-darkness-on-youtube/"><u>[New] 2024 Approved Eliminate Your Streaming Darkness on YouTube</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-funny-flicks-compilation-of-chuckle-inducing-short-youtube-videos/"><u>[New] 2024 Approved Funny Flicks Compilation of Chuckle-Inducing Short YouTube Videos</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-audience-attraction-in-a-minute-comparing-youtubes-shorts-and-tiktoks-for-2024/"><u>[New] Audience Attraction in a Minute Comparing YouTubes Shorts and TikToks for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-from-sky-to-framing-a-compreenasive-review-of-the-drone-dji-spark/"><u>[Updated] 2024 Approved From Sky to Framing A Compreenasive Review of the Drone DJI Spark</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-exclusive-high-end-computer-choices/"><u>[Updated] Exclusive High-End Computer Choices</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-guidelines-for-optimal-youtube-video-brightness-for-2024/"><u>[Updated] Guidelines for Optimal YouTube Video Brightness for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-a-comprehensive-walkthrough-for-imovie-and-youtube-collaboration/"><u>[Updated] In 2024, A Comprehensive Walkthrough for iMovie and YouTube Collaboration</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-tighten-up-your-timeline-youtube-video-trimming-techniques/"><u>[Updated] Tighten Up Your Timeline YouTube Video Trimming Techniques</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-your-journey-to-curating-an-impressive-youtube-collection/"><u>[Updated] Your Journey to Curating an Impressive YouTube Collection</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210693070-9781578269891-beyond-domestication/"><u>Beyond Domestication | Free Book</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/can-you-unlock-apple-iphone-xs-max-after-forgetting-the-passcode-drfone-by-drfone-ios/"><u>Can You Unlock Apple iPhone XS Max After Forgetting the Passcode? | Dr.fone</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/crafting-captivating-presentations-by-adding-tunes-for-2024/"><u>Crafting Captivating Presentations by Adding Tunes for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/essential-tips-for-minecraft-recording-with-macos-for-2024/"><u>Essential Tips for Minecraft Recording with MacOS for 2024</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/in-depth-corsair-i500-mini-itx-desktop-evaluation-compact-powerhouse-unveiled/"><u>In-Depth Corsair I500 Mini ITX Desktop Evaluation - Compact Powerhouse Unveiled</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/unlocking-value-with-samsung-galaxy-a51-5g-top-performance-at-unbeatable-prices/"><u>Unlocking Value with Samsung Galaxy A51 5G - Top Performance at Unbeatable Prices</u></a></li>
+</ul></div>
 

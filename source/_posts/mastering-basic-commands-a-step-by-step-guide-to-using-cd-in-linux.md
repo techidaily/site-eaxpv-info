@@ -1,7 +1,7 @@
 ---
 title: "Mastering Basic Commands: A Step-by-Step Guide to Using 'Cd' In Linux"
-date: 2024-08-30T16:49:03.688Z
-updated: 2024-08-31T16:49:03.688Z
+date: 2024-11-23T19:04:34.122Z
+updated: 2024-11-28T18:01:22.851Z
 tags:
   - desktop
 categories:
@@ -32,8 +32,9 @@ thumbnail: https://thmb.techidaily.com/b5d7a060863d8900073e79dab85dc7e851c9bee60
  Well, more than you'd think. Here are a few hints and tips that might improve your efficiency.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  The Standard cd Operations
 
  For the sake of being complete, let's quickly run through the standard uses of `cd`.
@@ -47,8 +48,9 @@ cd /home/dave
 ![cd /usr/lib/firefox/browser/ in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/04/1.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  You don't have to type the whole directory path; you can use auto-complete. For each part of a path, after you type enough letters to distinguish the name of the directory from the others, press Tab to auto-complete the directory name.
 
  For example, type the following on the command line:
@@ -73,9 +75,6 @@ tree
 
 ![tree command in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/04/3.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  The `work` directory contains a directory called `dev` . There's also a directory called `dev` in the root directory of the filesystem. You can [use ls](https://extra-tips.techidaily.com/in-2024-capturecraft-hd-top-10-freepaid-filters-list/) with `-d` (directory) to look at each of these. The `-hl` (human-readable, long listing) option tells `ls` to use easy to read units for the directory sizes, and the long format listing.
 
  If you type **`dev`**, the shell assumes you mean the "dev" in the current directory. To force it to look at the "dev" in the root directory, just add a leading forward slash to represent the root of the filesystem, as shown below:
@@ -92,21 +91,12 @@ cd dev
 
 ![cd dev in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/04/5.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Without a leading forward slash, longer paths are assumed to start from the current working directory, too, as shown below:
 
 cd dev/mobile/android
 
 ![cd dev/mobile/android in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/04/6.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ##  Changing the Directory with Double Dot
 
  The double dot identifier represents the parent directory of the current working one. If you're in a deeply nested subdirectory, you can use `..` with `cd` to move to the parent directory of the one you're in.
@@ -122,9 +112,9 @@ cd ../..
 ![cd .. in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/04/7.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
-</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  You can also create a set of aliases to perform these maneuvers for you, by typing the following:
 
 alias .2="cd ../.."
@@ -136,6 +126,10 @@ alias .3="cd ../../.."
  You can use these in the same way as the commands themselves.
 
 ![alias .2="cd ../.." being used to change directory in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/04/9.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  To make the aliases consistent across reboots of your computer, you must [add them to your .bashrc or .bash\_aliases file](https://hardware-help.techidaily.com/download-the-latest-logitech-camera-drivers-at-no-cost-for-windows-users/).
 
@@ -153,11 +147,16 @@ cd -`
     
 ![Running 'cd ../forth' followed by two 'cd -' commands.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/10-1.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  The name of the directory you're moving to appears before you move into it.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Another Kind of Relative
 
  The shell uses the current working directory as the "root" or base directory for relative paths. You can use the `CDPATH` environment variable to set another location as the base directory for relative paths. If you spend most of your time in a certain section of the filesystem tree, this can save you a lot of keystrokes (and time) every day.
@@ -200,9 +199,6 @@ cd forth
     
  This performs a test to see whether the command-line prompt variable, `$PS1` , was set. The `CDPATH` environment variable will only be set if the test succeeds.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ##  Using shopt with cd
 
  With the [shopt command](https://ss64.com/bash/shopt.html), you can set certain options for the shell. Some of these can enhance your use of `cd`. To set them, you use the `-s` (enable) option with `shopt` to pass an option name to it.
@@ -216,6 +212,10 @@ shopt -s cdspell
 cd Desktpo
 
 ![Run 'shopt -s cdspell' to enable Shell spellchecker.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/13-1.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The shell caught the error, corrected it, and changed to the "Desktop" directory.
 
@@ -234,8 +234,9 @@ shopt -s autocd
 ![The autocd command makes navigating quicker.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/14-1.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  See! You can hop all over the filesystem without even using `cd`!
 
  The settings you change with `shopt` only affect interactive shells, not scripts.
@@ -256,8 +257,6 @@ shopt -s autocd
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -265,4 +264,22 @@ shopt -s autocd
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-10-best-youtube-conversion-tools-for-webm-format/"><u>[New] 2024 Approved 10 Best YouTube Conversion Tools for WebM Format</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-creating-costless-webinars-on-youtube-a-handbook/"><u>[New] 2024 Approved Creating Costless Webinars on YouTube A Handbook</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/n-2024-elevating-your-content-6-steps-to-higher-youtube-visibility/"><u>[New] In 2024, Elevating Your Content 6 Steps to Higher YouTube Visibility</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-capture-your-discord-sessions-a-guide/"><u>[Updated] Capture Your Discord Sessions A Guide</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-eco-effective-ads-green-technology-and-cta-enhancements-for-2024/"><u>[Updated] Eco-Effective Ads Green Technology & CTA Enhancements for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-economical-embellishments-free-youtube-template-packs/"><u>[Updated] In 2024, Economical Embellishments FREE YouTube Template Packs</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-filmmaking-made-simple-crafting-an-impactful-youtube-subscribe-button/"><u>[Updated] In 2024, Filmmaking Made Simple Crafting an Impactful YouTube Subscribe Button</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-stitching-an-innovative-tiktok-closing-credits-for-2024/"><u>[Updated] Stitching An Innovative TikTok Closing Credits for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-the-complete-thumbnail-playbook-from-creation-to-analysis/"><u>[Updated] The Complete Thumbnail Playbook From Creation to Analysis</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-the-roadmap-for-effective-education-videos-making-a-mark-on-youtube/"><u>[Updated] The Roadmap for Effective Education Videos - Making a Mark on YouTube</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-friendship-and-farms-the-10-favorite-farming-titles/"><u>2024 Approved Friendship & Farms The 10 Favorite Farming Titles</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/approved-navigating-youtubes-aspect-ratio-landscape-a-complete-tutorial/"><u>2024 Approved Navigating YouTube's Aspect Ratio Landscape A Complete Tutorial</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/audiovisual-expertise-selecting-top-video-minds/"><u>Audiovisual Expertise Selecting Top Video Minds</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-fixing-windows-compatibility-issues-with-logitech-g935-microphone/"><u>Troubleshooting Guide: Fixing Windows Compatibility Issues with Logitech G935 Microphone</u></a></li>
+<li><a href="https://win11.techidaily.com/unraveling-post-update-linux-subsystem-challenges-on-windows-11/"><u>Unraveling Post-Update Linux Subsystem Challenges on Windows 11</u></a></li>
+</ul></div>
 

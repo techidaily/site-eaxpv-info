@@ -1,7 +1,7 @@
 ---
 title: Upgrading to iPhone 16 Pro - Is It Worth Leaving Behind the iPhone ˈ|ZDNET Expert Review
-date: 2024-11-18T21:27:21.174Z
-updated: 2024-11-19T21:08:49.659Z
+date: 2024-11-24T16:01:32.408Z
+updated: 2024-11-28T17:15:05.890Z
 tags:
   - apple
 categories:
@@ -26,6 +26,10 @@ As an iPhone 14 Pro Max user, I'm not convinced that the new AI-enabled [iPhone 
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Specifications
 
 | **Features**       | **iPhone 16 Pro**            | **iPhone 14 Pro**            |             |                        |         |             |
@@ -41,6 +45,10 @@ As an iPhone 14 Pro Max user, I'm not convinced that the new AI-enabled [iPhone 
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## You should buy the iPhone 16 Pro if…
 
 Jason Hiner/ZDNET
@@ -54,16 +62,7 @@ Apple's artificial intelligence push, aptly named Apple Intelligence, will be av
 To run smoothly, the Apple Intelligence features require an A17 chip or newer and at least 8GB of RAM, but the iPhone 14 Pro has the A16 chip and only 6GB of RAM. The iPhone 16 Pro features an A18 Pro chip and 8GB of RAM, making it a good device to run Apple's AI features. 
 
 <!-- affiliate ads begin -->
-<span id="1983582">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983582.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983582">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983582.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983582%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983582/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 2\. You'd like to get your hands on the bigger screen
@@ -73,13 +72,6 @@ Apple has thinned out the iPhone 16 Pro's bezels to the bare minimum and stretch
 **Also: [Every iPhone 16 model compared: Which iPhone should you buy today?](https://www.zdnet.com/article/every-iphone-16-model-compared-which-iphone-should-you-buy-today/)**
 
 The larger smartphone also means that the iPhone 16 Pro has a larger battery than the 14 Pro, at 3,355 mAh compared to 3,200 mAh. But even without the welcome battery upgrade, the new Pro models support faster charging than ever. The iPhone 16 Pro supports 40W wired charging and 20W of MagSafe charging, so if you find the iPhone 14 Pro's charging slow, it could be time to upgrade.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918666/19272" target="_top" id="1918666">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918666" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918666/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 3\. You love taking beautiful photos
 
@@ -92,21 +84,16 @@ If you love taking photos with your smartphone, the camera upgrades alone may be
 [Pre-order the iPhone 16 Pro View now at Apple](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-iphone%2Fiphone-16-pro&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
 
 <!-- affiliate ads begin -->
-<span id="1938136">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1938136.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1938136">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938136.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938136%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938136/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## You should buy (or keep) the iPhone 14 Pro if…
 
 Kerry Wan/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 1\. You'd rather wait for bigger upgrades
 
@@ -115,13 +102,6 @@ Even with the Apple Intelligence features, the iPhone 16 seems to be an incremen
 **Also: [iPhone 14 Pro review: More innovation for the same price as the iPhone 13 Pro](https://www.zdnet.com/article/iphone-14-pro-packs-a-lot-more-innovation-for-the-same-price-as-last-year/)**
 
 [Rumors](https://9to5mac.com/2024/07/12/iphone-16-new-features-worth-the-wait/) suggest the iPhone 17 may feature more dramatic design and functionality updates, making it a worthwhile jump. Besides, upgrading after two generations can be costly, which brings me to my next point. 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151894/7443" target="_top" id="2151894">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151894" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151894/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 2\. You just finished paying it off
 
@@ -167,19 +147,22 @@ As an iPhone 14 Pro Max user, I'm still pretty happy with how my iPhone performs
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-enhance-your-vlogs-pacing-using-jump-cuts/"><u>[New] In 2024, How to Enhance Your Vlog's Pacing Using Jump Cuts</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-boost-traffic-with-these-essential-hashtags-for-youtube-gamers-for-2024/"><u>[Updated] Boost Traffic with These Essential Hashtags for YouTube Gamers for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/updated-capturing-yesterdays-essence-your-path-from-pixel-to-playback/"><u>[Updated] Capturing Yesterday's Essence Your Path From Pixel to Playback</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-enhance-your-storytelling-mastering-the-green-screen-on-instagram-for-2024/"><u>[Updated] Enhance Your Storytelling Mastering the Green Screen on Instagram for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-from-creator-to-critic-evaluating-video-value-across-platforms-for-2024/"><u>[Updated] From Creator to Critic Evaluating Video Value Across Platforms for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-adsense-profits-on-youtube-earnings-per-thousand-video-watchers/"><u>[Updated] In 2024, AdSense Profits on YouTube Earnings per Thousand Video Watchers</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-progopro-enhancing-footage-and-stability/"><u>[Updated] ProGoPro Enhancing Footage & Stability</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/creative-tims-premier-argon-ghost-theme-elevate-your-website-design/"><u>Creative Tim's Premier Argon Ghost Theme - Elevate Your Website Design</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/discover-the-best-artificial-intelligence-programs-for-video-scaling/"><u>Discover the Best Artificial Intelligence Programs for Video Scaling</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/easy-steps-to-combat-and-correct-valorants-persistent-screen-distortion-problem/"><u>Easy Steps to Combat and Correct Valorant's Persistent Screen Distortion Problem</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-4-feasible-ways-to-fake-location-on-facebook-for-your-vivo-x90s-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Feasible Ways to Fake Location on Facebook For your Vivo X90S | Dr.fone</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/24-expressive-youtube-aesthetics-at-no-cost/"><u>In 2024, Expressive YouTube Aesthetics at No Cost</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/icks-downloading-templates-from-youtube-vids/"><u>Top Picks Downloading Templates From YouTube Vids</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/youtube-optimization-for-new-vloggers-for-2024/"><u>YouTube Optimization for New Vloggers for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-facebook-lives-demystified-the-best-ways-to-record-a-stream-for-2024/"><u>[New] Facebook Lives Demystified The Best Ways to Record a Stream for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-unveiling-the-secrets-detailed-guide-on-capturing-screens-with-zd/"><u>[New] Unveiling the Secrets Detailed Guide on Capturing Screens with ZD</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-nows-vr-device-showcase-and-analysis/"><u>[Updated] 2024 Approved Now’s VR Device Showcase & Analysis</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-the-ultimate-guide-to-frame-rates-for-video-recorders/"><u>2024 Approved The Ultimate Guide to Frame Rates for Video Recorders</u></a></li>
+<li><a href="https://howto.techidaily.com/4-solutions-to-fix-unfortunately-your-app-has-stopped-error-on-infinix-smart-7-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Solutions to Fix Unfortunately Your App Has Stopped Error on Infinix Smart 7 | Dr.fone</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/discover-the-best-2d-animation-tools-available-and-beyond-gratis-e-a-pagamento/"><u>Discover the Best 2D Animation Tools Available and Beyond – Gratis E a Pagamento</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/effective-solutions-to-address-missing-haldll-problems-on-windows-xp-pcs/"><u>Effective Solutions to Address 'Missing hal.dll' Problems on Windows XP PCs</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/effortlessly-incorporate-shaking-animations-into-videos-using-top-rated-software-solutions/"><u>Effortlessly Incorporate Shaking Animations Into Videos Using Top-Rated Software Solutions</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/enhance-visuals-with-audio-cutting-and-composing-music-for-canva-for-2024/"><u>Enhance Visuals with Audio Cutting & Composing Music for Canva for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/h264mov/"><u>H264形式へのMOVファイル変換手順</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/master-your-online-presence-using-manycam-professional-web-cam-alternative-and-recording-tool/"><u>Master Your Online Presence Using ManyCam - Professional Web Cam Alternative and Recording Tool</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/mastering-lock-screen-settings-how-to-enable-and-disable-on-samsung-galaxy-a05s-by-drfone-android/"><u>Mastering Lock Screen Settings How to Enable and Disable on Samsung Galaxy A05s</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/real-time-broadcasting-pro-manycam-ultimate-webcam-and-recording-suite/"><u>Real-Time Broadcasting Pro: ManyCam Ultimate Webcam and Recording Suite</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/real-time-streaming-mastery-with-manycam-your-ultimate-vr-camera-solution/"><u>Real-Time Streaming Mastery with ManyCam - Your Ultimate VR Camera Solution</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/real-time-streaming-with-manycam-the-ultimate-choice-for-virtual-webcams-and-professional-live-video-software/"><u>Real-Time Streaming with ManyCam: The Ultimate Choice for Virtual Webcams and Professional Live Video Software</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/seamless-broadcasting-with-manycam-your-ultimate-choice-in-live-streaming-and-online-conferencing-tools/"><u>Seamless Broadcasting with ManyCam: Your Ultimate Choice in Live Streaming and Online Conferencing Tools</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/trasforma-i-tuoi-file-dng-in-formato-tiff-senza-costi-utilizzando-movavi/"><u>Trasforma I Tuoi File DNG in Formato TIFF Senza Costi Utilizzando Movavi</u></a></li>
 </ul></div>
 

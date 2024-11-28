@@ -1,7 +1,7 @@
 ---
 title: "Download the New iOS 18 Update on Your iPhone: Compatible Models and Step-by-Step Guide"
-date: 2024-11-16T20:29:08.894Z
-updated: 2024-11-19T21:17:44.004Z
+date: 2024-11-22T17:07:21.195Z
+updated: 2024-11-28T17:26:49.973Z
 tags:
   - apple
 categories:
@@ -32,15 +32,16 @@ Jason Hiner/ZDNET
 
 **What you need:** An iPhone running iOS 16.5 or later. Since not all iPhones are compatible with iOS 18, you'll also need a model [newer than the iPhone X](https://www.zdnet.com/article/best-iphone/).
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Go to General in your iPhone Settings
 
 Go to your iPhone's Settings and select General. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012429/19272" target="_top" id="2012429">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012429" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012429/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Go to Software Update in Settings
@@ -48,10 +49,7 @@ Go to your iPhone's Settings and select General.
 Within General, tap on Software Update. This will show you if the iOS 18 update is available for you to download.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123730/7443" target="_top" id="2123730">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123730" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123730/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Download and install
@@ -65,20 +63,10 @@ Enter your passcode, if necessary, to authorize the installation of the new iOS 
 After installing the latest iOS update, your iPhone will restart.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123731/7443" target="_top" id="2123731">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123731" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123731/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## FAQs
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136621/26400" target="_top" id="2136621">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136621" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136621/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### When is Apple Intelligence coming out?
 
@@ -97,6 +85,10 @@ You can always be part of the Apple Beta program to get the latest beta versions
 * Back up your device and personal information.
 * Don't download beta software, which will likely have bugs and glitches, on your everyday iPhone.
 * You should go into the experience to test new features and share feedback to improve iOS, which is why beta versions are released.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### How do I install the iOS 18 beta version?
 
@@ -169,22 +161,16 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-from-zero-to-hero-your-first-time-streaming-to-youtube-for-2024/"><u>[New] From Zero to Hero Your First Time Streaming to Youtube for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-decoding-the-revised-youtube-earnings-criteria/"><u>[New] In 2024, Decoding the Revised YouTube Earnings Criteria</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/n-2024-youtube-shorts-decoding-the-income-distribution-model/"><u>[New] In 2024, YouTube Shorts Decoding the Income Distribution Model</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-the-creators-currency-how-to-turn-streams-into-dollars/"><u>[New] The Creator’s Currency How To Turn Streams Into Dollars</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-a-simple-approach-to-youtube-statistics-review/"><u>[Updated] 2024 Approved A Simple Approach to YouTube Statistics Review</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-download-youtube-images-with-ease-online/"><u>[Updated] 2024 Approved Download YouTube Images with Ease Online</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-first-to-last-your-guide-to-youtube-video-looping-101/"><u>[Updated] 2024 Approved From First to Last Your Guide to YouTube Video Looping 101</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-direct-youtube-tunes-to-mp3s-online-and-offline-options/"><u>[Updated] In 2024, Direct YouTube Tunes to MP3s Online & Offline Options</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-in-2024-reactivate-windows-photo-viewer-with-ease-win-11/"><u>[Updated] In 2024, Reactivate Windows Photo Viewer with Ease (Win 11)</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-ultimate-selection-economical-hd-action-recordings-for-2024/"><u>[Updated] Ultimate Selection Economical HD Action Recordings for 2024</u></a></li>
-<li><a href="https://article-tips.techidaily.com/djis-minis-and-air-2-get-20-free-custom-luts-for-mixing-for-2024/"><u>DJI's Minis & Air 2 Get 20 Free Custom LUTs for Mixing for 2024</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/maximize-your-network-range-with-netgear-nighthawk-x6-expert-review-and-insights/"><u>Maximize Your Network Range with Netgear Nighthawk X6 - Expert Review and Insights</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/navigating-the-end-of-3g-essential-guide-to-identifying-and-replacing-impacted-gadgets-zdnets-expert-advice/"><u>Navigating the End of 3G: Essential Guide to Identifying and Replacing Impacted Gadgets | ZDNET's Expert Advice</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/the-art-of-screenshots-iphoneipad-video-recordings-explained-for-2024/"><u>The Art of Screenshots IPhone/iPad Video Recordings Explained for 2024</u></a></li>
-<li><a href="https://fox-that.techidaily.com/troubleshooting-depth-effect-issues-on-ios-16-lockscreen-discover-7-solutions/"><u>Troubleshooting Depth Effect Issues on iOS 16 Lockscreen: Discover 7 Solutions</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/unlocking-the-power-of-smart-lock-a-beginners-guide-for-honor-90-pro-users-by-drfone-android/"><u>Unlocking the Power of Smart Lock A Beginners Guide for Honor 90 Pro Users</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/what-to-purchase-post-apples-iphone-13-and-15-pro-retirement-expert-recommendations-tech-insights/"><u>What to Purchase Post-Apple's iPhone 13 and 15 Pro Retirement - Expert Recommendations | Tech Insights</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-a-deep-dive-into-luts-for-image-enhancement/"><u>[New] 2024 Approved A Deep Dive Into LUTs for Image Enhancement</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-fb-video-experience-the-top-10-listed-tools/"><u>[New] FB Video Experience The Top 10 Listed Tools</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-enhancing-your-viewing-experience-recording-overwatch-games-for-2024/"><u>[Updated] Enhancing Your Viewing Experience Recording Overwatch Games for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-trick-for-effortless-video-playback-from-youtube-to-facebook-groups/"><u>[Updated] Trick for Effortless Video Playback From Youtube to Facebook Groups</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/vobogm-movavi/"><u>「完全無償でオンラインVOBファイルをOGMに簡単変換: Movaviの解決方法」</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/1726222121917-20245/"><u>最新！2024年にハイテクな動画変換ツールベスト5を無料でご紹介</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/best-free-video-editing-programs-of-2024-top-picks-for-no-cost-online-editors/"><u>Best Free Video Editing Programs of 2024 - Top Picks for No-Cost Online Editors</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/guide-to-mirror-your-realme-12-5g-to-other-android-devices-drfone-by-drfone-android/"><u>Guide to Mirror Your Realme 12 5G to Other Android devices | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/sustained-prominence-of-win-calculator-display/"><u>Sustained Prominence of Win Calculator Display</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/vobasf-movavi/"><u>VOB/ASF 파일 제자리에서 오픈 소스에서 쉽게 바이널을 조정하는 방법 - Movavi</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/web-wmv-f4v/"><u>영상 제한 없이 Web에서 자유성 비용 WMV, F4V 전환 - 모바이브</u></a></li>
 </ul></div>
 

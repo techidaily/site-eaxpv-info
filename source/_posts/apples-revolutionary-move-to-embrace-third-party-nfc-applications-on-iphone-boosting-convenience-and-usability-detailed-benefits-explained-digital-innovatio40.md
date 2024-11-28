@@ -1,7 +1,7 @@
 ---
 title: Apple's Revolutionary Move to Embrace Third-Party NFC Applications on iPhone, Boosting Convenience and Usability - Detailed Benefits Explained | Digital Innovations Blog
-date: 2024-11-16T23:50:55.149Z
-updated: 2024-11-19T18:02:17.867Z
+date: 2024-11-24T17:39:16.743Z
+updated: 2024-11-28T17:53:13.313Z
 tags:
   - apple
 categories:
@@ -38,6 +38,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Apple Intelligence (AI)
 
 Maria Diaz/ZDNET
@@ -61,10 +65,7 @@ Maria Diaz/ZDNET
 * Apple Intelligence is free on iOS 18, iPadOS 18, and MacOS Sequoia, and will be available to try in English only this summer.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094479/7443" target="_top" id="2094479">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094479" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094479/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Partnership with OpenAI
@@ -107,13 +108,6 @@ Adam Breeden/ZDNET
 * **Check In** is available on Apple Watch, even during workouts, to help users stay safe. **Translate** is also coming to Apple Watch so users can translate text right from their wrists.
 * Another notable change is that the **double tap gesture** can be used to scroll through apps.
 
-<!-- affiliate ads begin -->
-<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1838960/17916" target="_top" id="1838960">
-  <img src="//a.impactradius-go.com/display-ad/17916-1838960" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1838960/17916" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## iPadOS 18
 
 Adam Breeden/ZDNET
@@ -125,10 +119,7 @@ Adam Breeden/ZDNET
 * iPadOS 18 supports **screen-sharing via SharePlay** and the same Control Center customizations, Photos app upgrades, Safari updates, and emoji Tapbacks found in **iOS 18.**
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915870/19272" target="_top" id="1915870">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915870" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915870/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## MacOS 15 (Sequoia)
@@ -141,6 +132,10 @@ Adam Breeden/ZDNET
 * **Video meetings** are also getting an upgrade, with new backgrounds and a preview experience that allows you to see what you are about to share before sharing it. This feature works with popular video conferencing applications such as FaceTime and Zoom.
 * The **AI summarization** tool will live in Safari to help users process content like web pages and articles more efficiently. Safari will also assist users in discovering more helpful information about a page they are browsing when relevant, such as directions.
 * Apple also launched a new **Viewer experience**, which does for video what Reader does for text.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## VisionOS 2
 
@@ -160,10 +155,7 @@ Jason Hiner/ZDNET
 * Apple is also making the Vision Pro available in more countries starting June 28\. You can see the full list [here](https://www.apple.com/newsroom/2024/06/apple-vision-pro-arrives-in-new-countries-and-regions-beginning-june-28/).
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006960/19272" target="_top" id="2006960">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006960" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006960/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## AirPods
@@ -218,19 +210,20 @@ Screenshot by Nina Raemont/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-free-traffic-on-youtube-tips-that-actually-work/"><u>[New] 2024 Approved Free Traffic on YouTube Tips That Actually Work</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-first-footsteps-in-youtube-landscape-setting-up-shop-and-earning-profitably-for-2024/"><u>[New] First Footsteps in YouTube Landscape Setting Up Shop and Earning Profitably for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-how-to-get-the-best-youtube-thumbnails-the-free-guide-for-2024/"><u>[New] How to Get the Best YouTube Thumbnails The Free Guide for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-clips-to-classrooms-harnessing-youtubes-potential-for-teaching/"><u>[Updated] 2024 Approved From Clips to Classrooms Harnessing YouTube's Potential for Teaching</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-the-creativity-crisis-in-modern-vr-content/"><u>[Updated] 2024 Approved The Creativity Crisis in Modern VR Content</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-decoding-youtube-income-how-much-does-each-1000-viewer-earn/"><u>[Updated] In 2024, Decoding YouTube Income How Much Does Each 1,000 Viewer Earn?</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-raw-footage-to-youtube-a-step-by-step-process-unveiled/"><u>[Updated] In 2024, From Raw Footage to YouTube A Step-by-Step Process Unveiled</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-youtube-to-excitement-easy-guide-to-making-animated-gifs/"><u>[Updated] In 2024, From YouTube to Excitement Easy Guide to Making Animated GIFS</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-journey-through-data-storage-saving-fb-chats-as-video-files/"><u>[Updated] In 2024, Journey Through Data Storage Saving FB Chats as Video Files</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-mastering-instagram-stories-your-complete-tune-up-guide-for-2024/"><u>[Updated] Mastering Instagram Stories Your Complete Tune-Up Guide for 2024</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/2024-approved-rescue-hidden-fb-watch-icon/"><u>2024 Approved Rescue Hidden FB Watch Icon</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/best-apps-for-restoring-deleted-reminders-and-memos-on-ios-devices/"><u>Best Apps for Restoring Deleted Reminders and Memos on iOS Devices</u></a></li>
-<li><a href="https://discover-best.techidaily.com/continuous-playback-3-effective-techniques-to-keep-your-youtube-segment-rolling/"><u>Continuous Playback: 3 Effective Techniques to Keep Your YouTube Segment Rolling</u></a></li>
-<li><a href="https://article-helps.techidaily.com/in-2024-crafting-compelling-conversations-essential-expressions/"><u>In 2024, Crafting Compelling Conversations Essential Expressions</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-2024-approved-prime-fee-free-timing-devices/"><u>[Updated] 2024 Approved Prime Fee-Free Timing Devices</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-bridging-audio-and-web-mastering-the-podcast-rss-format/"><u>[Updated] Bridging Audio & Web Mastering the Podcast RSS Format</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/1725287474641-pcdvd/"><u>「PCへのDVDライティング入門：初めて楽しむレンタルまたは自作ディスク保存ガイド」</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/1725287790982-winxdvd-dvd/"><u>最適化されたWinXDVDの操作ガイド: 動画・音声・DVD再生方法一覧表</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/comprehensive-winxvideo-ai-masterclass-for-video-optimization-cutting-edge-guides-on-improvement-dubbing-and-conversion-processes/"><u>Comprehensive Winxvideo AI Masterclass for Video Optimization – Cutting-Edge Guides on Improvement, Dubbing, and Conversion Processes</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-fix-corrupt-video-files-of-honor-90-lite-using-video-repair-utility-by-stellar-video-repair-mobile-video-repair/"><u>How to Fix Corrupt video files of Honor 90 Lite using Video Repair Utility?</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-easy-ways-to-manage-your-realme-12-pro-5g-location-settings-drfone-by-drfone-virtual/"><u>In 2024, Easy Ways to Manage Your Realme 12 Pro 5G Location Settings | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-full-guide-on-mirroring-your-motorola-defy-2-to-your-pcmac-drfone-by-drfone-android/"><u>In 2024, Full Guide on Mirroring Your Motorola Defy 2 to Your PC/Mac | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-check-distance-and-radius-on-google-maps-for-your-vivo-v27e-drfone-by-drfone-virtual-android/"><u>In 2024, How to Check Distance and Radius on Google Maps For your Vivo V27e | Dr.fone</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/installing-handbrake-and-libdvdcss-for-video-converting-on-macwindows-11-infographic-tutorial/"><u>Installing HandBrake & Libdvdcss for Video Converting on Mac/Windows 11 (Infographic Tutorial)</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/mastering-the-art-of-converting-iso-files-to-dvd-format-on-windows-10-8-and-7/"><u>Mastering the Art of Converting ISO Files to DVD Format on Windows (10, 8 & 7)</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/top-free-whatsapp-video-editing-tools-get-downloads/"><u>Top Free WhatsApp Video Editing Tools - Get Downloads</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/troubleshooting-youtubes-401-unauthorized-error-a-step-by-step-guide-for-smartphones-and-tablets/"><u>Troubleshooting YouTube's '401 Unauthorized Error': A Step-by-Step Guide for Smartphones and Tablets</u></a></li>
+<li><a href="https://win-able.techidaily.com/ultimate-guide-how-to-perfectly-downsize-videos-for-instagram-without-a-watermark/"><u>Ultimate Guide: How to Perfectly Downsize Videos for Instagram Without a Watermark</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/what-does-enter-puk-code-mean-and-why-did-the-sim-get-puk-blocked-on-motorola-edge-2023-device-by-drfone-android/"><u>What Does Enter PUK Code Mean And Why Did The Sim Get PUK Blocked On Motorola Edge 2023 Device</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Insider's Picks: Which Smartphones Do Our Editors Really Rely On? Analysis"
-date: 2024-11-12T20:40:07.991Z
-updated: 2024-11-19T16:19:22.934Z
+date: 2024-11-25T16:48:01.736Z
+updated: 2024-11-28T17:44:18.779Z
 tags:
   - apple
 categories:
@@ -46,13 +46,6 @@ Pros
 Cons 
 * New design Cameras are impressive Performance Battery life
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934254/19272" target="_top" id="1934254">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934254" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934254/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## iPhone 12 Pro
 
 ### Jason Cipriani and Simon Bisson
@@ -78,10 +71,7 @@ Cons
 * Lovely design with matte finish back 5G support for all bands Advanced multiple cameras S Pen support Competive pricing High end internal specifications
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144298/7443" target="_top" id="2144298">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144298" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144298/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Samsung Galaxy S21 Ultra
@@ -107,6 +97,10 @@ Pros
 
 Cons 
 * Long battery life Strong performance The camera is very impressive
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## iPhone 12 Pro Max
 
@@ -148,6 +142,10 @@ Cons
 
 ## iPhone 12
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Chris Matyszczyk
 
 **Chris Matyszczyk:** My XR became heavy and cumbersome. It had begun to fade. I saw the 12's blue color and thought it might be fetching. And then an Apple store employee took the time to talk me into the 12, just when I was at my weakest.
@@ -176,13 +174,6 @@ Show Expert Take Show less
 
 ## Ulefone Armor 9
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037358/7443" target="_top" id="2037358">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037358" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037358/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Adrian Kingsley-Hughes
 
 **Adrian Kingsley-Hughes:** OK, I use my iPhone 11 Pro Max a lot, but the Ulefone Armor 9 is a tough, ruggedized Android smartphone with a built-in thermal camera. Not only can I recreate scenes from Predator in my garden, but that FLIR camera is great for diagnosing problems, from overheating components, high-resistance in vehicle wiring, and problems with plumbing systems. I've also dropped the phone so many times that I've lost count, and it still looks like new. It's a tank!
@@ -196,6 +187,10 @@ Pros
 
 Cons 
 * Strong battery life Good performance More affordable
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Google Pixel 2
 
@@ -213,6 +208,10 @@ Show less
 
 [View now at Huawei P40 Pro](https://consumer.huawei.com/en/phones/p40-pro/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Huawei P20 Pro
 
 ### Federico Guerrini
@@ -228,6 +227,10 @@ Pros
 
 Cons 
 * Excellent photo quality Cool color options Long battery life Loud stereo speakers Wireless charging support
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## iPhone XR
 
@@ -255,13 +258,14 @@ Show Expert Take Show less
 
 ###   
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## iPhone X
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934183/19272" target="_top" id="1934183">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934183" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934183/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Robin Harris
@@ -280,13 +284,6 @@ Pros
 Cons 
 * Best smartphone display Worthwhile camera improvements Battery life is solid
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136619/26400" target="_top" id="2136619">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136619" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136619/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## iPhone XS Max
 
 ### Asha Barbaschow
@@ -296,6 +293,10 @@ I've always used iPhones. Started with the iPhone 3, and never strayed. I refuse
 **Next phone or dream phone?** My upgrade cycle is based purely on when my contract runs out (outright cost in Australia is insane), so I guess my next device will be in the 13 range later this year (RIP bank account). 
 
 Show Expert Take Show less 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## iPhone 7 Plus
 
@@ -319,6 +320,10 @@ Purchased in 2016, I've had no reason to upgrade in four years. The thing does a
 
 **Next phone or dream phone?** I have no idea. I get overwhelmed by the amount of choice. It'll be an iPhone I guess. I'm used to them.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Lumia 1520
 
 ### Mary Branscombe
@@ -329,21 +334,7 @@ Yes, I am indeed still clinging to the phone that made me love phablets, upgrade
 
 Show less 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880960/19272" target="_top" id="1880960">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880960" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880960/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Samsung Galaxy Note 8
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137213/26400" target="_top" id="2137213">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137213" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137213/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Charles McLellan
 
@@ -352,13 +343,6 @@ I've been using Samsung's Note 8 for several years now, despite having seen all 
 **Next phone or dream phone?** A 2021 flagship-class phone with an integrated thermal camera. A thermal camera is a great tool for jobs around the house/office and for seeking out wildlife after dark
 
 Show Expert Take Show less 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043661/7443" target="_top" id="2043661">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043661" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043661/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ###   
 
@@ -392,17 +376,22 @@ Show Expert Take Show less
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-guide-to-playing-twitter-on-chromium-browser/"><u>[New] 2024 Approved Guide to Playing Twitter on Chromium Browser</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-a-comprehensive-guide-to-hp-laptops-screen-recording-features-for-2024/"><u>[New] A Comprehensive Guide to HP Laptop's Screen Recording Features for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-breaking-the-mold-unique-post-vidcon-events-for-2024/"><u>[New] Breaking the Mold Unique Post-VidCon Events for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-can-youtube-sub4sub-really-enhance-viewing-experience/"><u>[New] In 2024, Can YouTube Sub4Sub Really Enhance Viewing Experience?</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-from-parchment-to-paperbacks-the-quintessential-quest-for-classics/"><u>[New] In 2024, From Parchment to Paperbacks The Quintessential Quest for Classics</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/astering-the-art-of-partial-youtube-extraction/"><u>[New] Mastering the Art of Partial YouTube Extraction</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-enhancing-visuals-the-role-of-a-tripod-in-video-content-for-2024/"><u>[Updated] Enhancing Visuals The Role of a Tripod in Video Content for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-tips-on-how-to-edit-youtube-channel-description/"><u>[Updated] Tips on How to Edit YouTube Channel Description</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/24-ready-yourself-for-youtube-video-production-finalcut-pro-techniques/"><u>In 2024, Ready Yourself for YouTube Video Production - FinalCut Pro Techniques</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/quick-guide-youtube-videos-for-your-instagram-story-for-2024/"><u>Quick Guide YouTube Videos for Your Instagram Story for 2024</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/snapchat-voice-tweaks-simple-methods-for-smooth-adjustments-for-2024/"><u>Snapchat Voice Tweaks Simple Methods for Smooth Adjustments for 2024</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/top-considerations-for-prospective-video-capture-equipment-buyers/"><u>Top Considerations for Prospective Video Capture Equipment Buyers</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-produce-persuasive-facecover-videos/"><u>[New] 2024 Approved Produce Persuasive FACEcover Videos</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-cut-costs-gain-space-the-best-compiled-list-of-20-free-cloud-storages-1tbplus-for-2024/"><u>[New] Cut Costs, Gain Space The Best Compiled List of 20 Free Cloud Storages (1TB+) for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-manycam-review-is-there-a-better-alternative/"><u>[Updated] ManyCam Review Is There A Better Alternative?</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-premium-5-web-based-video-recorders/"><u>2024 Approved Premium 5 Web-Based Video Recorders</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/elevate-your-speaking-skills-mondlys-newest-linguistic-toolkit/"><u>Elevate Your Speaking Skills: Mondly’s Newest Linguistic Toolkit</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/improving-your-thesis-work-through-advanced-artificial-intellect-methods/"><u>Improving Your Thesis Work Through Advanced Artificial Intellect Methods</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/live-streaming-made-easy-with-manycam-top-choice-in-video-softwares-and-virtual-cameras/"><u>Live Streaming Made Easy with ManyCam: Top Choice in Video Softwares and Virtual Cameras</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/live-streaming-made-easy-with-manycam-ultimate-video-editing-and-virtual-camera-solution/"><u>Live Streaming Made Easy with ManyCam: Ultimate Video Editing and Virtual Camera Solution</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/live-streaming-made-easy-discover-manycams-virtual-webcam-and-video-editing-solutions/"><u>Live Streaming Made Easy: Discover ManyCam's Virtual Webcam and Video Editing Solutions</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/live-streaming-made-easy-professional-multi-camera-recording-with-manycam/"><u>Live Streaming Made Easy: Professional Multi-Camera Recording with ManyCam</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/live-streaming-mastery-with-manycam-advanced-features-of-virtual-camera-technology/"><u>Live Streaming Mastery with ManyCam: Advanced Features of Virtual Camera Technology</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/live-streaming-mastery-capture-your-moments-with-manycam-and-virtual-cam-tech/"><u>Live Streaming Mastery: Capture Your Moments with ManyCam and Virtual Cam Tech</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/live-streaming-mastery-discover-the-power-of-manycam-as-top-tier-video-capture-software/"><u>Live Streaming Mastery: Discover the Power of ManyCam as Top-Tier Video Capture Software</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/live-streaming-mastery-discover-the-power-of-manycam-your-ultimate-virtual-webcam-solution/"><u>Live Streaming Mastery: Discover the Power of ManyCam, Your Ultimate Virtual Webcam Solution</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unleashing-digital-potential-discover-why-perplexity-ai-is-your-ultimate-go-to-ai-driven-google-search-assistant/"><u>Unleashing Digital Potential: Discover Why Perplexity AI Is Your Ultimate Go-To AI-Driven Google Search Assistant!</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-2024-approved-edit-like-a-pro-quicktime-video-editing-on-mac-made-easy/"><u>Updated 2024 Approved Edit Like a Pro QuickTime Video Editing on Mac Made Easy</u></a></li>
+<li><a href="https://blog-min.techidaily.com/winx-hd-video-converter-pro-reduisez-modifiez-et-transcode-des-fichiers-video-rapides-avec-le-gpu/"><u>WinX HD Video Converter Pro – Réduisez, Modifiez Et Transcode Des Fichiers Vidéo Rapides Avec Le GPU</u></a></li>
 </ul></div>
 

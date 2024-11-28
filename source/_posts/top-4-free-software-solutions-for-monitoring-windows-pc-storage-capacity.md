@@ -1,7 +1,7 @@
 ---
 title: Top 4 Free Software Solutions for Monitoring Windows PC Storage Capacity
-date: 2024-08-30T16:50:16.461Z
-updated: 2024-08-31T16:50:16.461Z
+date: 2024-11-27T18:17:19.965Z
+updated: 2024-11-28T16:45:46.882Z
 tags:
   - deals
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ---
 
 ## Top 4 Free Software Solutions for Monitoring Windows PC Storage Capacity
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -28,6 +32,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![The Wiztree User Interface.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/wiztree.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 [WizTree](https://diskanalyzer.com/download) is our current favorite tool for analyzing disk space. The primary advantage it has is speed. It is _extremely_ fast compared to other programs we tested. Scanning a 1 TB [NVMe SSD](https://digital-screen-recording.techidaily.com/new-2024-approved-audio-capture-for-post-review/) took only 5 seconds, and a 2 TB (mostly full) _mechanical_ hard drive only took 6.1 seconds.
 
  The user interface is very user friendly. You select the drive you want to analyze at the top, then hit scan. It'll take anywhere between a few seconds and a few minutes to analyze your drive, depending on the size and speed of your PC and drives, then you'll be able to choose between a tree view (which is the colorful view in the screenshot above) or a file view, which gives you a more detailed view of individual files. If you click on a file in the tree view, it'll provide more information about the file, like the location and size, and you can right-click a block for additional options. The File View lets you locate duplicate files, search for files by name or size, and a handful of other options you might find useful.
@@ -36,12 +44,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  It is available as both an installer and a portable application, which is handy if you want to load it onto a USB drive to carry with you for those troubleshooting house calls.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  WinDirStat is a Great Classic Option
 
 ![WinDirStat represents files and folders as colorful rectangles.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017/06/img_593eec9ed2237.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 [WinDirStat](https://windirstat.net/) is a strong contender for the best storage space analysis software. Its interface allows you to see exactly what's using space on your hard drive at a glance. When you launch WinDirStat, you can tell it to scan all local drives, a single drive like your C: drive, or a specific folder on your computer.
 
@@ -53,20 +62,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  WinDirStat doesn't offer a [portable app](https://extra-lessons.techidaily.com/top-strategies-to-shoot-a-flawless-green-screen-scene/) on its website, but you can download a portable version of WinDirStat from [PortableApps.com](https://portableapps.com/apps/utilities/windirstat%5Fportable) if you'd like to take it with you and use it on various PCs without installing it first.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Monthly Membership</a>
-<!-- affiliate ads end -->
 ##  SpaceSniffer Offers the Best Graphical View
 
 ![SpaceSniffer is similar to WinDirStat, but has a less colorful interface.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017/06/img_593eef597d3a6.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
-<!-- affiliate ads end -->
  Try [SpaceSniffer](https://www.fosshub.com/SpaceSniffer.html) if you're looking for something different. SpaceSniffer doesn't have the directory list included in WinDirStat. It's just a graphical view that displays folders and the files in them by relative size, like the bottom treemap view in WinDirStat's interface.
 
  However, unlike WinDirStat's treemap, you can double-click folders in this interface to drill down graphically. So, if you have a bunch of files taking up space in your "C:\\Users\\Name\\Videos" directory, you could double-click each directory in turn to drill down and eventually right-click a file or folder to access options like Delete and Open.
@@ -90,24 +89,23 @@ No advertising on the website.
  This application is also available as a portable application, so you don't have to install it before running it, if you prefer.
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Windows' Built-In Storage Usage Tool
 
 ![The Storage view on Windows 11.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/storage-stuff-on-windows-11.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 [Windows 10 and Windows 11 have a storage usage tool](https://screen-recording.techidaily.com/new-2024-approved-the-way-of-the-warrior-game-lineup-mirroring-ghost-of-tsushima/) that may help you in some cases. It's not a classic disk space analyzer like the above tools, but it does have some similar features.
 
  To access it, head to Settings > System > Storage and click a drive. You'll see a list of things taking up space on that drive, from apps and games to system files, videos, photos, and music. Click a category and Windows will suggest things you can remove---for example, you'll see a list of installed applications which you can sort by the space they take.
 
  While this tool isn't as powerful as the above ones, it can be helpful for quickly understanding disk usage and freeing space in a pinch.
 
-<!-- affiliate ads begin -->
-<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
-<!-- affiliate ads end -->
 ##  How to Clear Disk Space
 
  Once you've identified what is using up all your space, it is a simple matter to free up space. All of the third-party apps we listed allow you to easily open Explorer folder or open a file directly to check out what it is. Just right-click, then click "Open" or "Explorer Here" in the case of WinDirStat or WizTree. You can then delete files as you would normally. Make sure to double check what you're deleting though.
@@ -120,8 +118,6 @@ No advertising on the website.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -129,4 +125,18 @@ No advertising on the website.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-step-by-step-guide-to-find-youtube-hidden-videos-for-2024/"><u>[New] Step-By-Step Guide to Find YouTube Hidden Videos for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-views-for-livelihood-mastering-youtubes-true-numbers/"><u>[New] Views for Livelihood Mastering YouTube's True Numbers</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-a-trailblazers-guide-youtube-studio-location-unveiled-for-2024/"><u>[Updated] A Trailblazer’s Guide YouTube Studio Location Unveiled for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-captivating-videos-start-here-these-7-royalty-free-audios-for-2024/"><u>[Updated] Captivating Videos Start Here These 7 Royalty-Free Audios for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-strategic-approaches-to-dominating-spotifys-ad-space/"><u>[Updated] Strategic Approaches to Dominating Spotify's Ad Space</u></a></li>
+<li><a href="https://common-error.techidaily.com/bluetooth-troubles-in-windows-11-quick-tips-to-get-it-working-again/"><u>Bluetooth Troubles in Windows 11? Quick Tips to Get It Working Again</u></a></li>
+<li><a href="https://driver-download.techidaily.com/get-your-epson-wf-2760-driver-update-now-for-compatibility-with-windows-11108-systems/"><u>Get Your Epson WF 2760 Driver Update Now for Compatibility with Windows 11/10/8 Systems</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/how-to-find-uplifting-faith-songs-for-smartphone-alerts/"><u>How to Find Uplifting Faith Songs for Smartphone Alerts</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-11-pro-to-androidios-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 11 Pro to Android/iOS? | Dr.fone</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/perfect-pixels-selecting-best-cameras-for-yt-for-2024/"><u>Perfect Pixels Selecting Best Cameras For YT for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/perfecting-profile-playlists-on-facebook-through-mobile-for-2024/"><u>Perfecting Profile Playlists on Facebook Through Mobile for 2024</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "The Secret Behind Apple's Lack of Exclamation Points: An Insight Into Their Web Design Strategy"
-date: 2024-11-18T19:05:02.993Z
-updated: 2024-11-19T16:59:35.311Z
+date: 2024-11-23T16:13:15.161Z
+updated: 2024-11-28T16:04:25.499Z
 tags:
   - apple
 categories:
@@ -50,6 +50,10 @@ Please, then, let me emphasize one little thing about this alleged genius -- it 
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Explaining the exclaiming
 
 I sense you think I'm being devious, pedantic, or painfully picky, but this is something that's bothered me for a very long time. 
@@ -69,10 +73,7 @@ Yet no need for an exclamation point because, presumably, you already get the po
 But some tech companies still insist that their wares deserve some sort of exclamatory explanatory. It's a truly interesting phenomenon.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134237/18498" target="_top" id="2134237">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134237" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134237/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The big startup exclamatory experiment
@@ -132,10 +133,7 @@ Screenshot by Chris Matyszczyk/ZDNET
 Oh!
 
 <!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/1943750/22993" target="_top" id="1943750">
-  <img src="//a.impactradius-go.com/display-ad/22993-1943750" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943750/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The majority knows it's serious
@@ -157,16 +155,7 @@ I'm sure the management is excited about its product. I'm sure the product offer
 I'm equally sure that the lack of an exclamation point makes the products seem more, well, serious and important.
 
 <!-- affiliate ads begin -->
-<span id="1834906">
-					<video width="864" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1834906.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1834906">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834906.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834906%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834906/16836" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Sell, don't shout
@@ -223,24 +212,16 @@ It worked for Apple. (I'm not sure the opposite worked quite so well for Yahoo!)
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-craft-channels-with-flair-unveiling-10-innovative-design-platforms/"><u>[New] In 2024, Craft Channels with Flair Unveiling 10 Innovative Design Platforms</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-hidden-channels-to-the-throne-of-1k-subscribers/"><u>[New] In 2024, From Hidden Channels to the Throne of 1K Subscribers</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-achieving-depth-in-indoor-vlogging-lighting/"><u>[Updated] 2024 Approved Achieving Depth in Indoor Vlogging Lighting</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-conceptualists-engineering-marvel-online-worlds/"><u>[Updated] 2024 Approved Conceptualists Engineering Marvel Online Worlds</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-audiophiles-recorder-review/"><u>[Updated] In 2024, Audiophile's Recorder Review</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-bursting-laughter-crafting-engaging-reaction-videos-on-youtube-3-methods/"><u>[Updated] In 2024, Bursting Laughter Crafting Engaging Reaction Videos on YouTube (3 Methods)</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-the-great-livestream-debate-facebook-vs-youtube-live-and-twitter-periscope/"><u>[Updated] The Great Livestream Debate FACEbook Vs. YOUTube Live & Twitter Periscope</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-total-exploration-the-dji-phantom-4-experience-reviewed/"><u>2024 Approved Total Exploration The DJI Phantom 4 Experience Reviewed</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/boost-your-productivity-with-windows-command-shortcuts/"><u>Boost Your Productivity with Windows Command Shortcuts</u></a></li>
-<li><a href="https://blog-min.techidaily.com/dvd-ripper-enregistrement-et-telechargement-vers-le-stockage-en-nuage-ou-icloud-dapple/"><u>DVD Ripper, Enregistrement Et Téléchargement Vers Le Stockage en Nuage Ou iCloud D'Apple</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-how-to-unleash-funimate-with-apk-on-your-phone/"><u>In 2024, How to Unleash Funimate with APK on Your Phone</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-unlock-apple-iphone-11-pro-max-with-forgotten-passcode-different-methods-you-can-try-by-drfone-ios/"><u>In 2024, Unlock Apple iPhone 11 Pro Max With Forgotten Passcode Different Methods You Can Try</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/lenovo-webcam-troubleshooting-quick-fixes-to-get-you-back-on-camera/"><u>Lenovo Webcam Troubleshooting: Quick Fixes to Get You Back on Camera</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/optimizing-channels-with-tubebuddy-expertise-for-2024/"><u>Optimizing Channels with TubeBuddy Expertise for 2024</u></a></li>
-<li><a href="https://howto.techidaily.com/proven-ways-to-fix-there-was-a-problem-parsing-the-package-on-realme-c67-4g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Proven Ways to Fix There Was A Problem Parsing the Package on Realme C67 4G | Dr.fone</u></a></li>
-<li><a href="https://driver-download.techidaily.com/1722961023892-step-by-step-guide-to-update-your-asus-vg248qe-graphics-card-on-a-pc/"><u>Step-by-Step Guide to Update Your Asus VG248QE Graphics Card on a PC!</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/the-art-of-acoustic-capture-secrets-to-high-end-home-recordings-for-2024/"><u>The Art of Acoustic Capture Secrets to High-End Home Recordings for 2024</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/ultimate-humor-image-creator-for-2024/"><u>Ultimate Humor Image Creator for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/youtubes-monetary-system-monthly-or-quarterly-in-2024/"><u>YouTube's Monetary System Monthly or Quarterly, In 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/asy-obs-youtube-live-streaming-guide/"><u>[New] Easy OBS YouTube Live Streaming Guide</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-escalate-your-channel-with-a-swift-move-towards-youtube-partner-status/"><u>[New] In 2024, Escalate Your Channel with a Swift Move Towards YouTube Partner Status</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/urning-viewers-into-revenue-key-video-figures-for-2024/"><u>[New] Turning Viewers Into Revenue Key Video Figures for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-speedy-workshop-converting-your-visuals-into-stellar-youtube-pics/"><u>[Updated] In 2024, Speedy Workshop Converting Your Visuals Into Stellar YouTube Pics</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/44cm44ot44kk44ot44ki44ox44oq44gn5bplus16agy44gu44ky44o844og6yyy55s744og44kv44ol44od44kv6kej5pio77yb44cn/"><u>「ロイロアプリで念願のゲーム録画テクニック解明！」</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/free-online-converter-change-ogv-files-into-wmv-format-with-movavi/"><u>Free Online Converter: Change OGV Files Into WMV Format with Movavi</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/gratis-3gp-to-wmv-converteren-online-professioneel-en-gemakkelijk-met-movavi/"><u>Gratis 3GP-to-WMV Converteren Online: Professioneel en Gemakkelijk Met Movavi</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-move-contacts-from-oneplus-ace-2v-to-iphone-131415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways to Move Contacts From OnePlus Ace 2V to iPhone (13/14/15) | Dr.fone</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/movavi-moviesei-converter-livre-e-online-para-dvbs-tsavi/"><u>Movavi: Moviêsei Converter Livre E Online Para DVBs (TS/AVI)</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/pmg-naar-png-konverteren-helemaal-kostenloos-online-movavi/"><u>PMG Naar PNG Konverteren Helemaal Kostenloos Online - Movavi</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/trasforma-i-tuoi-file-caf-in-mp4-senza-costi-tramite-movavi-online/"><u>Trasforma I Tuoi File CAF in MP4 Senza Costi Tramite Movavi Online</u></a></li>
 </ul></div>
 

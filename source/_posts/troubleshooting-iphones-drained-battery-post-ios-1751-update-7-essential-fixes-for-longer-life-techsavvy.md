@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting iPhone's Drained Battery Post-iOS 17.5.1 Update: 7 Essential Fixes for Longer Life | TechSavvy"
-date: 2024-11-16T20:00:55.106Z
-updated: 2024-11-19T17:35:32.357Z
+date: 2024-11-22T18:56:43.357Z
+updated: 2024-11-28T17:33:43.195Z
 tags:
   - apple
 categories:
@@ -28,13 +28,25 @@ If you want to follow along, you'll need to install the iOS 18 public beta on an
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to customize your iPhone's new Control Center with iOS 18
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 1\. Access Control Center
 
 To display Control Center, swipe down from the top-right corner of the screen. You'll notice that Control Center is now separated into three different screens. The first screen displays the core controls, the second screen shows the audio player and related settings, and the third has connectivity options. Swipe up or down to move from one screen to another, or tap one of the three icons on the right to jump to a specific one.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Move the available controls
 
@@ -45,10 +57,7 @@ Screenshot by Lance Whitney/ZDNET
 **Also: [Every iPhone model that can be updated to Apple's iOS 18 (and which ones can't)](https://www.zdnet.com/article/every-iphone-model-that-can-be-updated-to-apples-ios-18-and-which-ones-cant/)**
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135374/19272" target="_top" id="2135374">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135374" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135374/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Resize a control
@@ -63,13 +72,6 @@ Next, you can directly delete a control you don't need or want. With the icons i
 
 Screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111981/7443" target="_top" id="2111981">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111981" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111981/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 5\. Add a control to an existing screen
 
 You can easily add a control to any screen that has available space. Pick a screen with some empty space at the bottom. After tapping the plus icon, tap the command for "Add a Control." Browse the screens of accessible controls until you find the one you want to add. You can also look for a specific control by name through the Search field at the top. Tap the control, and it should appear in the available space, where you can move or resize it if you wish.
@@ -78,13 +80,6 @@ Screenshot by Lance Whitney/ZDNET
 
 **Also: [I did not expect this iOS 18 feature announced at WWDC to be my favorite (and it's not AI)](https://www.zdnet.com/article/i-did-not-expect-this-ios-18-feature-announced-at-wwdc-to-be-my-favorite-and-its-not-ai/)**
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135352/19272" target="_top" id="2135352">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135352" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135352/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 6\. Add a control to a new screen
 
 If the current screens are already filled with icons, you can set up additional screens to hold more controls. Swipe down to the last screen, which shouldn't have any free space. Tap the plus icon and then tap "Add a Control." Again, browse or search for the control you wish to add. Tap that control, and it should appear in a new screen. You can continue adding more controls to the new screen this way. You can create as many as 15 screens, though you'll probably want to stop before you reach that number.
@@ -92,10 +87,7 @@ If the current screens are already filled with icons, you can set up additional 
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135395/19272" target="_top" id="2135395">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135395" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135395/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 7\. Power down from Control Center
@@ -134,22 +126,21 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-novice-to-vlogger-professional-video-making-on-mobile-devices/"><u>[New] 2024 Approved From Novice to Vlogger Professional Video Making on Mobile Devices</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-raw-to-refined-youtube-thumbnail-creation-for-mobile-users/"><u>[New] 2024 Approved From Raw to Refined YouTube Thumbnail Creation for Mobile Users</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ssential-guide-to-writing-click-worthy-youtube-titles-for-2024/"><u>[New] Essential Guide to Writing Click-Worthy Youtube Titles for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-creator-to-earnings-successful-youtube-short-strategies/"><u>[New] In 2024, From Creator to Earnings Successful YouTube Short Strategies</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-embed-a-youtube-video-in-powerpoint/"><u>[New] In 2024, How to Embed a YouTube Video in PowerPoint</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/new-snapchat-made-easy-your-guide-to-adding-and-sharing-gifs/"><u>[New] Snapchat Made Easy Your Guide to Adding and Sharing Gifs</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/new-unlocking-creative-expression-tips-for-sharing-gifs-on-snapchat/"><u>[New] Unlocking Creative Expression Tips for Sharing GIFs on Snapchat</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/updated-adepts-compendium-of-fullscreen-insights-in-premiere-pro/"><u>[Updated] Adept's Compendium of Fullscreen Insights in Premiere Pro</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-gain-command-over-youtubes-video-playback-speed-for-2024/"><u>[Updated] Gain Command Over YouTube's Video Playback Speed for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-host-smart-and-cheap-your-guide-to-youtube-seminars-for-2024/"><u>[Updated] Host Smart and Cheap Your Guide to Youtube Seminars for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-captivate-audiences-and-gain-traction-with-youtube-shorts/"><u>[Updated] In 2024, How to Captivate Audiences and Gain Traction with YouTube Shorts</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-top-10-best-screen-recorders-for-mac/"><u>[Updated] In 2024, Top 10 Best Screen Recorders for Mac</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-mastering-live-streams-essential-vr-gaming-recording-methods-for-2024/"><u>[Updated] Mastering Live-Streams Essential VR Gaming Recording Methods for 2024</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-social-media-mp3-compiler-for-2024/"><u>[Updated] Social Media Mp3 Compiler for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-uniting-your-favorite-sounds-a-complete-walkthrough-for-making-youtube-playlists-onlinemobile/"><u>[Updated] Uniting Your Favorite Sounds A Complete Walkthrough for Making YouTube Playlists Online/Mobile</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/erhohen-sie-die-kapazitat-ihres-dell-xps-ssd-mit-zwei-unkomplizierten-klonverfahren/"><u>Erhöhen Sie Die Kapazität Ihres Dell XPS SSD Mit Zwei Unkomplizierten Klonverfahren</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-reasons-why-pokemon-gps-does-not-work-on-realme-12plus-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Reasons why Pokémon GPS does not Work On Realme 12+ 5G? | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-2017-data-overload-infographics-and-surprising-yt-stats/"><u>[New] 2024 Approved 2017 Data Overload Infographics & Surprising YT Stats</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-crafting-charismatic-videos-with-diy-camera-setups/"><u>[Updated] 2024 Approved Crafting Charismatic Videos with DIY Camera Setups</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/1725290173996-dvd-windows-1011-mp4aviwmv/"><u>光驰快速：用顶级 DVD转播软件将 Windows 10/11 的光盘内容转换为 MP4/AVI/WMV</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/achieve-stunning-visuals-premium-4k-projectors-under-2k-dollars-s-market-sweepstakes/"><u>Achieve Stunning Visuals: Premium 4K Projectors Under 2K Dollars 'S Market Sweepstakes</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/best-mkv-video-player-apps-top-18-options-compatible-with-macos-windows-11-ios-and-android-devices/"><u>Best MKV Video Player Apps: Top 18 Options Compatible with macOS, Windows 11, iOS & Android Devices</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/exploring-the-boundaries-of-ai-how-natural-language-processing-is-unique-from-machine-learning/"><u>Exploring the Boundaries of AI: How Natural Language Processing Is Unique From Machine Learning</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/1722973902063-fast-and-simple-bcm20702a0-driver-download-for-windows-get-started-now/"><u>Fast and Simple BCM20702A0 Driver Download for Windows - Get Started Now</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/fehler-bei-der-verwendung-von-handbrake-unter-windows-11-erkunde-wege-zur-behebung-und-andere-optionen/"><u>Fehler Bei Der Verwendung Von HandBrake Unter Windows 11? Erkunde Wege Zur Behebung Und Andere Optionen.</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/full-guide-to-catch-100-iv-pokemon-using-a-map-on-honor-x9a-drfone-by-drfone-virtual-android/"><u>Full Guide to Catch 100 IV Pokémon Using a Map On Honor X9a | Dr.fone</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/gpu-beschleunigte-h265-kodierung-wie-sie-schnelleres-streamen-gewahrleisten-konnen/"><u>GPU-Beschleunigte H.265 Kodierung: Wie Sie Schnelleres Streamen Gewährleisten Können</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/guide-facile-pour-transformer-des-films-mp4-en-chansons-mp3-sur-windows-navigateur-gratuitement-utilisez-loutil-convertisseur-mp4mp3/"><u>Guide Facile Pour Transformer Des Films MP4 en Chansons MP3 Sur Windows Navigateur Gratuitement - Utilisez L'outil Convertisseur MP4/MP3</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/how-to-successfully-watch-and-edit-mov-videos-on-your-macbookmacintosh-computer/"><u>How to Successfully Watch and Edit MOV Videos on Your MacBook/Macintosh Computer</u></a></li>
+<li><a href="https://discover-forum.techidaily.com/step-by-step-process-for-seamlessly-moving-everything-to-your-new-iphone-1415-using-an-older-model/"><u>Step-by-Step Process for Seamlessly Moving Everything to Your New iPhone 14/15 Using an Older Model</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-tips-disabling-auto-sleep-on-your-apple-computer/"><u>Step-by-Step Tips: Disabling Auto-Sleep on Your Apple Computer</u></a></li>
+<li><a href="https://win11.techidaily.com/unraveling-cpu-woes-strategies-from-windows-rm-window/"><u>Unraveling CPU Woes: Strategies From Windows' RM Window</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/winxvideo-ai-speed-up-any-video-or-audio-with-gpu-powered-fast-playback/"><u>Winxvideo AI: Speed Up Any Video or Audio with GPU-Powered Fast Playback</u></a></li>
 </ul></div>
 

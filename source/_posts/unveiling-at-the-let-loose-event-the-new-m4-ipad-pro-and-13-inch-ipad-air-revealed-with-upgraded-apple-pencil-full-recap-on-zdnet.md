@@ -1,7 +1,7 @@
 ---
 title: "Unveiling at the Let Loose Event: The New M4 iPad Pro and 13-Inch iPad Air Revealed with Upgraded Apple Pencil - Full Recap on ZDNet"
-date: 2024-11-17T01:06:17.677Z
-updated: 2024-11-19T18:20:12.960Z
+date: 2024-11-22T17:35:50.269Z
+updated: 2024-11-28T17:48:17.098Z
 tags:
   - apple
 categories:
@@ -26,18 +26,15 @@ Tim Cook kicked off the event by speaking about how the Apple Vision Pro has bee
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Everything announced at Apple's 'Let Loose' event
 
 Apple's "Let Loose" was a virtual product launch event that took place on May 7, at 7 am PT/10 am ET. It lasted about 35 minutes and was live-streamed on [Apple.com](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2F&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp), [YouTube](https://www.youtube.com/watch?v=f1J38FlDKxo), and via the Apple TV app. 
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068412/7443" target="_top" id="2068412">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068412" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068412/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 1\. iPad Pro, now with OLED displays and M4
 
@@ -60,10 +57,7 @@ Like previous generations, Apple is making the latest iPad Pro available in 11-i
 The iPad Pro starts at $999 for the 11-inch model and $1,299 for the 13-inch model. It's available in Silver and Space Black, with storage sizes ranging from 256GB to 2TB. You can [available to preorder now](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-ipad%2Fipad-pro&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp), with orders shipping next week.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118319/7443" target="_top" id="2118319">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118319" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118319/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. iPad Air gets a new, larger size
@@ -82,13 +76,6 @@ Unlike the M4-equipped iPad Pro, the iPad Air comes with an M2 chip, making it a
 
 The new iPad Air is available in Blue, Purple, Starlight, and Space Gray, with [prices starting at $599](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-ipad%2Fipad-air&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) for the 11-inch iPad Air, and $799 for the 13-inch model.
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148648/16836" target="_top" id="2148648">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148648" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148648/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 3\. Apple Pencil Pro
 
 Apple
@@ -106,10 +93,7 @@ Apple
 The Apple Pencil Pro costs $129 and supports Apple's Find My service, letting you track the location of the accessory should you drop or misplace it. You can purchase the [Apple Pencil Pro](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fproduct%2FMX2D3AM%2FA%2Fapple-pencil-pro&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) today, and it will start shipping next week.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528685/16446" target="_top" id="1528685">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528685" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528685/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Magic Keyboard
@@ -122,6 +106,10 @@ The iPad event also included a new, more durable Magic Keyboard, featuring a lar
 
 Although Apple is hosting its [Worldwide Developers Conference (WWDC)](https://www.zdnet.com/article/apple-confirms-wwdc-2024-for-june-10-will-ai-steal-the-show/) on June 10, that event is reserved for new iOS, iPadOS, visionOS, and macOS announcements, plus Apple's new AI strategy. The Let Loose event was focused on the latest hardware offerings, with the [OLED iPad Pro](https://www.zdnet.com/article/7-ipad-pro-features-that-would-make-me-instantly-upgrade-to-apples-next-model/) being the main star.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Did the Let Loose event cover iPadOS 17.5 or iPadOS 18?
 
 While Apple typically reserves iOS and iPadOS announcements for WWDC, some iPad-specific software features were revealed during the Let Loose event. That said, these features will likely be part of iPadOS 17.5 or an upcoming version. We expect Apple to cover [iOS 18](https://www.zdnet.com/article/ios-18-wishlist-5-iphone-features-apple-could-announce-at-wwdc-2024/) features, particularly those that [lean heavily on AI](https://www.zdnet.com/article/3-ai-features-ios-18-needs-to-catch-up-with-android/), in June during WWDC.
@@ -133,6 +121,10 @@ Apple unveiled new versions of Final Cut Pro 2 and Logic Pro 2 for iPadOS. Apple
 Logic Pro 2 introduces Session Players, an AI-created Bass and Keyboard player available alongside the Drummer feature. The ChromaGlow feature adds sound effects to tracks. Logic Pro 2 also offers a Stem Splitter feature that can split recordings into voice, bass, drums, and other instruments.
 
 iOS 17.5 doesn't have many exciting new features outside of the European Union, where iPhone users can now [download apps directly from websites](https://www.zdnet.com/article/apple-to-let-eu-users-download-apps-from-the-web-with-ios-17-5-beta-2-how-it-works/). The new devices are expected to ship with iPadOS 17.5, but these features are available for iPadOS 17.4.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How do I watch Apple's Let Loose event?
 
@@ -168,16 +160,16 @@ The Apple Let Loose event was a pre-recorded video but is still available for st
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-free-minecraft-youtube-banners-with-templates-for-2024/"><u>[New] Free Minecraft YouTube Banners with Templates for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-hitting-the-high-scores-with-youtube-gaming-livestreams-for-2024/"><u>[New] Hitting the High Scores with YouTube Gaming Livestreams for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-blurry-to-bold-crafting-powerful-youtube-previews/"><u>[Updated] 2024 Approved From Blurry to Bold Crafting Powerful YouTube Previews</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-football-video-analysis-top-youtube-infographics/"><u>[Updated] In 2024, Football Video Analysis Top YouTube Infographics</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-hasty-guide-from-raw-images-to-high-quality-youtube-thumbnail-art/"><u>[Updated] In 2024, Hasty Guide From Raw Images to High-Quality YouTube Thumbnail Art</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-the-ultimate-guide-to-navigating-steam-with-switch-pro-for-2024/"><u>[Updated] The Ultimate Guide to Navigating Steam with Switch Pro for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-visionary-studio-guide-detailed-xreviewers-digest/"><u>[Updated] The Visionary Studio Guide Detailed XReviewer's Digest</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/2024-approved-six-secrets-to-masterful-mov-saving-in-windows-11/"><u>2024 Approved Six Secrets to Masterful .MOV Saving in Windows 11</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/are-pricier-prompts-merely-premium-fluff/"><u>Are Pricier Prompts Merely Premium Fluff?</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/exclusive-gamer-discount-slash-your-budget-by-350-on-alienware-aurora-r13-detailed-review-and-offer-info/"><u>Exclusive Gamer Discount: Slash Your Budget by $350 on Alienware Aurora R13 – Detailed Review & Offer Info</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-can-i-catch-the-regional-pokemon-without-traveling-on-vivo-v29e-drfone-by-drfone-virtual-android/"><u>How Can I Catch the Regional Pokémon without Traveling On Vivo V29e | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/2024-approved-premium-fb-video-tools-optimized-for-firefox-users/"><u>2024 Approved Premium FB Video Tools - Optimized For FireFox Users</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722969941665-get-the-latest-amd-vega-drivers-streamlined-downloads-and-upgrades-for-players/"><u>Get the Latest AMD Vega Drivers: Streamlined Downloads and Upgrades for Players</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/how-secure-is-single-sign-on-technology-an-in-depth-guide/"><u>How Secure Is Single Sign-On Technology: An In-Depth Guide</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/ideal-techniques-for-noiseless-recording-for-2024/"><u>Ideal Techniques for Noiseless Recording for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/july-12th-insights-deciphering-new-york-times-connections-397/"><u>July 12Th Insights: Deciphering New York Times Connections #397</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/july-23rd-insights-and-answers-from-the-new-york-times-exclusive-update-408/"><u>July 23Rd Insights & Answers From the New York Times: Exclusive Update #408</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/june-5th-new-york-times-connection-question-and-answer-insight-360/"><u>June 5Th New York Times Connection Question & Answer: Insight #360</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/majority-of-search-engines-face-reddits-restrictive-access-policy/"><u>Majority of Search Engines Face Reddit's Restrictive Access Policy</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-lost-data-from-oppo-find-x7-ultra-by-fonelab-android-recover-data/"><u>Recover lost data from Oppo Find X7 Ultra</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/1726226695444-rmvbmkvmovavi/"><u>RMVB到MKV自由轉換：利用在線移動Movavi工具快速改編</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/tales-of-timeless-togetherness-this-seasons-top-10/"><u>Tales of Timeless Togetherness This Season's Top 10</u></a></li>
 </ul></div>
 

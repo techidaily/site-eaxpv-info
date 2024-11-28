@@ -1,7 +1,7 @@
 ---
 title: "In-Depth Review & Comparison: Is It Time to Upgrade From M2 to M3 MacBook Air? Insights for Buyers | ZDNET"
-date: 2024-11-15T20:08:04.084Z
-updated: 2024-11-20T00:24:13.373Z
+date: 2024-11-27T19:11:37.822Z
+updated: 2024-11-28T18:42:25.753Z
 tags:
   - apple
 categories:
@@ -24,6 +24,10 @@ Apple has wrapped up its [year of iPad releases](https://www.zdnet.com/article/b
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Apple
 
 * [Every iPhone model that will be updated to Apple's iOS 18 (and which ones can't)](https://www.zdnet.com/article/every-iphone-model-that-can-be-updated-to-apples-ios-18-and-which-ones-cant/)
@@ -36,6 +40,10 @@ In the newest iPad Air 5 lives the company's tried-and-true [M1 processor](https
 But if pricing impacts your buying decision, then the similarly-designed iPad Air 4 is just as worthy of your consideration and can be had for noticeably less money. Read on to learn more about what the defining features are for both models and why you should pick one over the other.
 
 **Also: [The best iPad Air cases](https://www.zdnet.com/article/best-ipad-air-case/)**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Specifications
 
@@ -54,6 +62,10 @@ But if pricing impacts your buying decision, then the similarly-designed iPad Ai
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## You should buy the iPad Air 5 (2022) if...
 
 Image: Apple
@@ -63,13 +75,6 @@ Image: Apple
 The saying you can't teach an old dog new tricks doesn't really apply to the iPad Air 5\. In fact, underneath the familiar glass and aluminum exterior is Apple's ARM-based, eight-core CPU, [M1 processor](https://www.zdnet.com/article/apple-m1-vs-m2/). Trickling down from MacBooks and iMacs, Apple's M1 chip is expected to be up to 60% faster and more powerful than its A-series counterpart -- like the A14 found in the iPad Air 4\. 
 
 That's a significant step up, considering both iPads start on equal footing with 8GB of RAM. While the iPad Air 5 didn't get Apple's newer [M2 chip](https://www.zdnet.com/article/everything-you-need-to-know-about-the-apple-m2-chip/), the M1 is still a powerhouse for graphics-intensive apps, such as video editors, 3D racing games, augmented reality, and general multitasking.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938698/19272" target="_top" id="1938698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938698" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938698/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 2\. You want a better front camera and FaceTime experience
 
@@ -88,10 +93,7 @@ You will, of course, need to be under a 5G data plan, have the appropriate nano-
 [Apple iPad Air (2022) $499.97 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0DD2F93LD%2Fref%3Dasc%5Fdf%5FB0DD2F93LD1726743600000%3Fcreative%3D395261%26creativeASIN%3DB0DD2F93LD%26linkCode%3Dasn%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cc2f96935-50b5-4c02-9352-a589939a7557%7Cdtp&dtb=1)
 
 <!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2141688/17094" target="_top" id="2141688">
-  <img src="//a.impactradius-go.com/display-ad/17094-2141688" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141688/17094" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## You should buy the iPad Air 4 (2020) if...
@@ -106,35 +108,19 @@ With the release of the new iPad Air, most third-party retailers have since mark
 
 ## FAQ
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134248/18498" target="_top" id="2134248">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134248" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134248/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Should I get the iPad Air 4 (2020) or the iPad Air 5 (2022)?
 
 You should buy the iPad Air 5 (2022) if you're looking to upgrade to the Apple M1 chip, you want a better front camera and FaceTime experience, or you want to upgrade to a 5G iPad. You should get the iPad Air 4 (2020) if the price comes before anything else. Many retailers are lowering their prices of the older iPad 4 model to clear inventory, making the 2020 model the more cost-effective iPad of the two.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Does the Apple Pencil (1st Gen) work with the iPad Air?
 
 The 1st-gen Apple Pencil is not compatible with either of the two iPad Air models mentioned in this article. Instead, you'll have to buy Apple's 2nd-gen stylus, which uses USB-C for charging and pairing, for the newer tablets.
 
 Our [guide to finding the right Apple Pencil and how to pair it](https://www.zdnet.com/article/how-to-pair-and-charge-your-apple-pencil/) breaks down the full list of compatible devices.
-
-<!-- affiliate ads begin -->
-<span id="1160850">
-					<video width="576" height="324" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1160850.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1160850">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1160850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1160850%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1160850/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## What's the best alternative to the iPad Air?
 
@@ -176,19 +162,22 @@ If you're still on the fence, below are the best alternatives to the iPad Air.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-hitting-high-notes-enhance-your-youtube-content-with-music-edits/"><u>[New] 2024 Approved Hitting High Notes Enhance Your YouTube Content with Music Edits</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-convert-youtube-videos-to-gifs/"><u>[New] 2024 Approved How to Convert YouTube Videos to GIFs</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-guardians-of-the-most-watched-youtube-edition-for-2024/"><u>[New] Guardians of the Most Watched YouTube Edition for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-audio-to-action-mp3-to-youtube-conversion-journey/"><u>[New] In 2024, From Audio to Action MP3-to-YouTube Conversion Journey</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-solving-the-yous-problem-seeing-myself-on-social-media/"><u>[New] Solving the 'You's Problem Seeing Myself on Social Media</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-growth-hackers-guide-the-ultimate-list-of-top-strategies-to-retain-youtube-viewers-for-2024/"><u>[Updated] Growth Hackers Guide The Ultimate List of Top Strategies to Retain YouTube Viewers for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-top-11-youtube-video-rippers-to-download-youtube-videos-for-2024/"><u>[Updated] Top 11 YouTube Video Rippers to Download YouTube Videos for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-iphone-time-lapse-magic-a-beginners-guide/"><u>2024 Approved IPhone Time-Lapse Magic A Beginner’s Guide</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/a-guide-honor-x9b-wireless-and-wired-screen-mirroring-drfone-by-drfone-android/"><u>A Guide Honor X9b Wireless and Wired Screen Mirroring | Dr.fone</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/comprehensive-aeony-portable-solar-power-station-evaluation-ideal-for-high-precision-health-gadgets/"><u>Comprehensive AeonY Portable Solar Power Station Evaluation - Ideal for High-Precision Health Gadgets</u></a></li>
-<li><a href="https://win-dash.techidaily.com/download-and-install-latest-toshiba-laptop-drivers-on-windows/"><u>Download and Install Latest Toshiba Laptop Drivers on Windows</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/forming-ordinary-videos-into-viral-hits-with-innovative-thumbnails/"><u>Transforming Ordinary Videos Into Viral Hits with Innovative Thumbnails</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/unveiling-the-best-tablet-for-you-a-comprehhem-review-of-the-ipad-air-with-m2-chip-by-apple-highly-recommended-zdnet-exclusive/"><u>Unveiling the Best Tablet for You: A Comprehhem Review of the iPad Air with M2 Chip by Apple, Highly Recommended | ZDNET Exclusive</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-in-2024-reduced-clarity-of-audio-outputs-in-the-latest-adobe-rush-release/"><u>Updated In 2024, Reduced Clarity of Audio Outputs in the Latest Adobe Rush Release</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-elevate-your-freefire-presence-with-top-tips-and-tricks-for-2024/"><u>[New] Elevate Your FreeFire Presence with Top Tips and Tricks for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-from-capturing-to-sharing-mastery-of-aiseesoft-recorder-features/"><u>[Updated] 2024 Approved From Capturing to Sharing Mastery of Aiseesoft Recorder Features</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-best-practices-for-securely-pushing-ios-photos-to-snapchat/"><u>[Updated] In 2024, Best Practices for Securely Pushing iOS Photos to Snapchat</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/1-mastering-dvd-sales-on-amazon-a-comprehensive-guide/"><u>1. Mastering DVD Sales on Amazon: A Comprehensive Guide</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/approved-revealing-featured-comment-spots/"><u>2024 Approved Revealing Featured Comment Spots</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/approved-the-average-income-derived-from-each-video-watcher/"><u>2024 Approved The Average Income Derived From Each Video Watcher</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/backup-your-dvds-perfectly-convert-and-create-iso-files-using-winx-dvd-copy-software/"><u>Backup Your DVDs Perfectly: Convert & Create ISO Files Using WinX DVD Copy Software</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/die-besten-tools-zum-herunterladen-und-umwandeln-von-videos-im-format-4k-losungen-fur-die-perfekte-bildqualitat-erfahrene-benutzer-wahlen/"><u>Die Besten Tools Zum Herunterladen Und Umwandeln Von Videos Im Format 4K: Lösungen Für Die Perfekte Bildqualität Erfahrene Benutzer Wählen</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/effective-techniques-for-downsizing-video-files-from-h2-264-to-h265-without-compromising-quality/"><u>Effective Techniques for Downsizing Video Files From H.2 264 to H.265 Without Compromising Quality</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/free-winx-dvd-author-software-top-rated-free-dvd-burning-tool-for-windows-10-and-11/"><u>Free WinX DVD Author Software: Top Rated Free DVD Burning Tool for Windows 10 & 11</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/gratis-trasforma-i-tuoi-file-mts-in-formato-mp4-con-queste-semplici-istruzioni/"><u>Gratis: Trasforma I Tuoi File MTS in Formato MP4 Con Queste Semplici Istruzioni</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-do-vector-databases-transform-machine-learning/"><u>How Do Vector Databases Transform Machine Learning?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-broken-video-files-of-tecno-spark-10-pro-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair Broken video files of Tecno Spark 10 Pro?</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/nikon-d500-unveiled-the-frontier-of-high-definition-photography/"><u>Nikon D500 Unveiled The Frontier of High-Definition Photography</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/stabilize-win11s-file-explorer-with-these-fixes/"><u>Stabilize Win11's File Explorer With These Fixes</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/step-by-step-tutorial-transferring-riped-dvd-content-for-smooth-streaming-in-wmp/"><u>Step-by-Step Tutorial: Transferring Riped DVD Content for Smooth Streaming in WMP</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/windows-10-compatible-ultimate-guide-to-swift-and-easy-conversion-of-dvds-to-mp4-files-with-winx-free-dvd-ripper/"><u>Windows 10 Compatible: Ultimate Guide to Swift & Easy Conversion of DVDs to MP4 Files with WinX Free DVD Ripper</u></a></li>
 </ul></div>
 

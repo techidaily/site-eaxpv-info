@@ -1,7 +1,7 @@
 ---
 title: "Unlocking Future Innovations: Apple's Latest AI Advances Set to Transform iPhones - Discover the Groundbreaking Artificnial Intelligence Technology that May Soon Elevate Your iPhone Experience, as Unveiled by Apple Research."
-date: 2024-10-30T04:42:45.350Z
-updated: 2024-11-01T17:05:15.434Z
+date: 2024-11-22T17:59:44.290Z
+updated: 2024-11-28T18:13:11.358Z
 tags:
   - apple
 categories:
@@ -38,6 +38,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Apple Intelligence (AI)
 
 Maria Diaz/ZDNET
@@ -60,6 +64,10 @@ Maria Diaz/ZDNET
 * In the Notes app, users can **record and transcribe audio**, which Apple Intelligence will generate a text summary of. This experience is also available in the Notes phone app.
 * Apple Intelligence is free on iOS 18, iPadOS 18, and MacOS Sequoia, and will be available to try in English only this summer.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Partnership with OpenAI
 
 Jason Hiner/ZDNET
@@ -67,13 +75,6 @@ Jason Hiner/ZDNET
 * Apple also confirmed its partnership with OpenAI by integrating [ChatGPT](https://www.zdnet.com/article/what-is-chatgpt-and-why-does-it-matter-heres-everything-you-need-to-know/) with Siri. With a user's permission, Siri can send a request to ChatGPT for help. For example, if you ask Siri for assistance on a task it deems better for ChatGPT, Siri will suggest you use the chatbot instead and forward your request. ChatGPT's writing capabilities can also be leveraged within certain writing tasks.
 * Users can access ChatGPT via this integration for free, and OpenAI will not log their data. ChatGPT Plus users can connect their subscriptions to access more advanced features, in which case OpenAI's data usage policies apply.
 * The ChatGPT integration will be coming to iOS 18, iPadOS 18, and MacOS Sequoia later this year.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134235/18498" target="_top" id="2134235">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134235" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134235/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## iOS 18
 
@@ -94,10 +95,7 @@ Adam Breeden/ZDNET
 * The **Calendar app** can now pull from the Reminders app for a more seamless schedule overview.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135368/19272" target="_top" id="2135368">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135368" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135368/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## WatchOS 11
@@ -114,6 +112,10 @@ Adam Breeden/ZDNET
 * **Check In** is available on Apple Watch, even during workouts, to help users stay safe. **Translate** is also coming to Apple Watch so users can translate text right from their wrists.
 * Another notable change is that the **double tap gesture** can be used to scroll through apps.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## iPadOS 18
 
 Adam Breeden/ZDNET
@@ -123,13 +125,6 @@ Adam Breeden/ZDNET
 * In a long-awaited release, iPads will now have a **[calculator app](https://www.zdnet.com/article/after-14-years-apple-expected-to-unveil-the-ipad-app-weve-all-been-waiting-for-at-wwdc/)** for the first time, complete with the same interface as the one currently found on iPhones. Plus, users can use it with the Apple Pencil through a new **Math Notes** experience, which allows users to write expressions that the calculator app will solve for them once they type the equal sign, in their own handwriting,
 * Handwriting in Notes also got an upgrade with **Smart** **Script**, which refines users' writing to make it more legible while keeping the authenticity of the user's handwriting style. The feature can also match copied and pasted text to the user's handwriting. Typed text was also enhanced, with five new highlight colors and the ability to toggle sections under headings or subheadings.
 * iPadOS 18 supports **screen-sharing via SharePlay** and the same Control Center customizations, Photos app upgrades, Safari updates, and emoji Tapbacks found in **iOS 18.**
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068439/7443" target="_top" id="2068439">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068439" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068439/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## MacOS 15 (Sequoia)
 
@@ -168,10 +163,7 @@ Jason Hiner/ZDNET
 * Apple is also releasing a **Personalized Spatial Audio API** for game developers to build around the AirPods' audio technology.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012401/19272" target="_top" id="2012401">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012401" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012401/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## tvOS 18
@@ -218,21 +210,24 @@ Screenshot by Nina Raemont/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-fast-techniques-to-restructure-your-youtube-sequence/"><u>[New] 2024 Approved Fast Techniques to Restructure Your YouTube Sequence</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-free-film-and-image-repository-highlights/"><u>[New] 2024 Approved Free Film and Image Repository Highlights</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/024-approved-making-your-channels-subscribe-button-pop/"><u>[New] 2024 Approved Making Your Channel's Subscribe Button Pop</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-from-cinematic-clips-to-harmonic-mp3s-the-instagram-guide/"><u>[New] From Cinematic Clips to Harmonic MP3s The Instagram Guide</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-how-to-optimally-utilize-a-creative-commons-license-for-2024/"><u>[New] How to Optimally Utilize a Creative Commons License for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-how-to-render-and-upload-youtube-videos-faster-in-2024/"><u>[New] How to Render and Upload YouTube Videos Faster, In 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-use-video-titles-and-youtube-tags/"><u>[New] In 2024, How to Use Video Titles and YouTube Tags?</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-frameworks-producing-uplifting-life-journey-broadcasts/"><u>[Updated] 2024 Approved Frameworks Producing Uplifting Life Journey Broadcasts</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-in-2024-foremost-top-5-lightweight-video-capturers-guide/"><u>[Updated] In 2024, Foremost Top 5 Lightweight Video Capturers Guide</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-gameplay-recording-must-haves/"><u>[Updated] In 2024, Gameplay Recording Must-Haves</u></a></li>
-<li><a href="https://fox-search.techidaily.com/best-choice-java-environment-interface-selecting-the-ideal-jre-version/"><u>Best Choice Java Environment Interface: Selecting the Ideal JRE Version</u></a></li>
-<li><a href="https://win-premium.techidaily.com/comment-remplacer-votre-disque-dur-par-une-ssd-sans-reconfigurer-le-sysytem-dexploitation/"><u>Comment Remplacer Votre Disque Dur Par Une SSD Sans Reconfigurer Le Sysytem D'exploitation ?</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/immediate-image-revamp-the-six-top-iphone-object-removal-apps/"><u>Immediate Image Revamp The Six Top iPhone Object-Removal Apps</u></a></li>
-<li><a href="https://win-comparisons.techidaily.com/maximize-playtime-with-these-nintendo-switch-microsdxc-options/"><u>Maximize Playtime with These Nintendo Switch MicroSDXC Options</u></a></li>
-<li><a href="https://video-capture.techidaily.com/the-ultimate-guide-to-the-midland-lxt500vp3-handheld-radios-are-they-living-up-to-their-potential/"><u>The Ultimate Guide to the Midland LXT500VP3 Handheld Radios: Are They Living Up to Their Potential?</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-guide-for-dev-error-5573-in-call-of-duty-vanguard/"><u>Troubleshooting Guide for Dev Error 5573 in Call of Duty: Vanguard</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-the-power-of-personal-storytelling-in-video-content/"><u>[New] In 2024, The Power of Personal Storytelling in Video Content</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/rmvbmp3-movavi/"><u>「オンラインで簡単！RMVB形式からMP3に自由費用の変換」 - Movavi</u></a></li>
+<li><a href="https://location-social.techidaily.com/4-most-known-ways-to-find-someone-on-tinder-for-oppo-reno-8t-by-name-drfone-by-drfone-virtual-android/"><u>4 Most-Known Ways to Find Someone on Tinder For Oppo Reno 8T by Name | Dr.fone</u></a></li>
+<li><a href="https://win-hot.techidaily.com/apple-note-4-against-samsung-galaxy-a-head-to-head-analysis-of-smartphone-giants-top-models/"><u>Apple Note 4 Against Samsung Galaxy: A Head-to-Head Analysis of Smartphone Giants' Top Models</u></a></li>
+<li><a href="https://win11.techidaily.com/clearing-up-no-sound-on-connected-devices-windows-edition/"><u>Clearing Up No Sound on Connected Devices, Windows Edition</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/come-trasformare-i-file-wma-in-mp3-con-le-tecniche-preferite-dagli-utilizzatori/"><u>Come Trasformare I File WMA in MP3 Con Le Tecniche Preferite Dagli Utilizzatori</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/convert-your-audio-files-instantly-best-online-wav-mp3-converters-for-free/"><u>Convert Your Audio Files Instantly: Best Online WAV-MP3 Converters for FREE</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/convertissez-gratuitement-un-fichier-aac-au-format-mp4-sur-internet-avec-movavi/"><u>Convertissez Gratuitement Un Fichier AAC Au Format MP4 Sur Internet Avec Movavi</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/directing-tweeted-vids-to-fb-audiences/"><u>Directing Tweeted Vids to FB Audiences</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/gratuit-online-converter-gsm-naar-mp4-veel-vrienden-van-movavi/"><u>Gratuit Online Converter: GSM Naar MP4 - Veel Vrienden Van Movavi</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-logic-pros-efficient-approach-to-softening-audio-levels/"><u>In 2024, Logic Pro's Efficient Approach to Softening Audio Levels</u></a></li>
+<li><a href="https://solve-lab.techidaily.com/is-disk-drill-worth-the-hype-an-in-depth-analysis-of-its-features-and-effectiveness/"><u>Is Disk Drill Worth the Hype? An In-Depth Analysis of Its Features and Effectiveness</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/online-m4b-aac-movavi/"><u>Online 무료 주식 M4B 클린 이동을 위한 AAC 전환 도구 - Movavi</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/overcome-chatgpt-bans-with-these-4-insights-into-why-your-accounts-locked-and-fixes-available/"><u>Overcome ChatGPT Bans with These 4 Insights Into Why Your Account's Locked & Fixes Available</u></a></li>
+<li><a href="https://games-able.techidaily.com/reversing-windows-launcher-failure-0x803f8001/"><u>Reversing Windows Launcher Failure: 0X803F8001</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/skagen-falster-2-assessment-the-sophisticated-alternative-to-apple-devices/"><u>Skagen Falster 2 Assessment: The Sophisticated Alternative To Apple Devices</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/top-18-video-editing-tools-for-gaming-footage-simplify-and-enhance-your-gameplay-clips/"><u>Top 18 Video Editing Tools for Gaming Footage: Simplify and Enhance Your Gameplay Clips</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/trasforma-file-asf-a-formato-mpeg-online-e-gratuito-con-movavi/"><u>Trasforma File ASF a Formato MPEG Online E Gratuito Con Movavi</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/1726227851663-apngpng-movavi/"><u>무료 APNG/PNG 전환기를 실시간으로 구현하기 위한 Movavi의 방법론</u></a></li>
 </ul></div>
 

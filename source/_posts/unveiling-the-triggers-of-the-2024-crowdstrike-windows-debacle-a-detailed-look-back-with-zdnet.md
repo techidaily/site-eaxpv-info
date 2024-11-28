@@ -1,7 +1,7 @@
 ---
 title: "Unveiling the Triggers of the 2024 CrowdStrike-Windows Debacle: A Detailed Look Back with ZDNET"
-date: 2024-11-17T00:00:18.104Z
-updated: 2024-11-19T23:44:30.659Z
+date: 2024-11-24T16:06:39.872Z
+updated: 2024-11-28T19:15:55.500Z
 tags:
   - apple
 categories:
@@ -32,6 +32,10 @@ In this case, the trusted software developer is a firm called CrowdStrike Holdin
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What happened?
 
 CrowdStrike, which sells security software designed to keep systems safe from external attacks, pushed a faulty ["sensor configuration update"](https://www.crowdstrike.com/blog/falcon-update-for-windows-hosts-technical-details/) to the millions of PCs worldwide running its Falcon Sensor software. That update was, according to CrowdStrike, a "Channel File" whose function was to identify newly observed, malicious activity by cyberattackers.
@@ -51,10 +55,7 @@ Repairing the damage from a flaw like this is a painfully tedious process that r
 If you know anyone whose job involves administering Windows PCs in a corporate network that uses the CrowdStrike code, you can be confident they are very busy right now, and will be for days to come.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049382/7443" target="_top" id="2049382">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049382" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049382/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## We've seen this movie before
@@ -94,10 +95,7 @@ In the You Can't Make This Up Department… CrowdStrike's founder and CEO, Georg
 What makes the 2024 sequel so much worse is that it also affected Windows-based servers running in the cloud, on Microsoft Azure and on AWS. Just as with the many laptops and desktop PCs that were bricked by this faulty update, the cloud-based servers require time-consuming manual interventions to recover.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134242/18498" target="_top" id="2134242">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134242" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134242/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## CrowdStrike's QA failed
@@ -127,10 +125,7 @@ As part of its initial response, CrowdStrike says it plans to take additional me
 Meanwhile, the United States House of Representatives Homeland Security Committee plans to call CrowdStrike's CEO up for hearings on what went wrong, and CrowdStrike's Chief Security Officer, Shawn Henry, [posted an apology on LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7220983915421806592/), admitting "On Friday, we failed you. ... The confidence we built in drips over the years was lost in buckets within hours, and it was a gut punch."
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/977686/11832" target="_top" id="977686">
-  <img src="//a.impactradius-go.com/display-ad/11832-977686" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/977686/11832" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How much fault should Microsoft shoulder?
@@ -181,18 +176,18 @@ Nonetheless, this incident, which caused many billions of dollars' worth of dama
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-facebooks-10-best-music-clips-making-them-happen/"><u>[New] 2024 Approved Facebook's 10 Best Music Clips Making Them Happen</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-focus-on-the-essentials-the-compreenas-for-removing-youtube-channels/"><u>[New] 2024 Approved Focus on the Essentials The Compreenas for Removing Youtube Channels</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-haul-vlogging-101-a-step-by-step-guide/"><u>[New] In 2024, Haul Vlogging 101 A Step-by-Step Guide</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-live-action-to-youtube-recording-your-device-display/"><u>[Updated] 2024 Approved From Live Action to YouTube Recording Your Device Display</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-gauging-glory-an-essential-handbook-for-evaluating-youtube-engagement-and-earnings/"><u>[Updated] 2024 Approved Gauging Glory An Essential Handbook for Evaluating YouTube Engagement & Earnings</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-holistic-harmony-the-best-online-yoga-channels/"><u>[Updated] In 2024, Holistic Harmony - The Best Online Yoga Channels</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-guide-perfect-your-youtube-video-looping-game/"><u>[Updated] In 2024, How-To Guide Perfect Your YouTube Video Looping Game</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/cinematic-cadence-top-cameras-for-elegant-slow-movement-for-2024/"><u>Cinematic Cadence Top Cameras for Elegant Slow Movement for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/exploring-why-ive-chosen-reddit-above-all-other-social-media-sites-for-engagement-and-discovery/"><u>Exploring Why I've Chosen Reddit Above All Other Social Media Sites for Engagement and Discovery</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-change-location-on-tiktok-to-see-more-content-on-your-infinix-hot-40-drfone-by-drfone-virtual-android/"><u>How to Change Location on TikTok to See More Content On your Infinix Hot 40 | Dr.fone</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/is-broadcasting-facebook-videos-a-reality-yet-in-2024/"><u>Is Broadcasting Facebook Videos a Reality Yet, In 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/overcoming-steam-remote-play-challenges-top-fixes-to-restore-your-gaming-fun/"><u>Overcoming Steam Remote Play Challenges: Top Fixes to Restore Your Gaming Fun</u></a></li>
-<li><a href="https://program-issues.techidaily.com/quick-troubleshooting-tips-for-the-battlefield-nvidia-wont-start-up-error/"><u>Quick Troubleshooting Tips for the Battlefield nVidia Won’t Start-Up Error</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-9-essential-apps-for-pulling-youtube-videos-android/"><u>[New] 2024 Approved 9 Essential Apps for Pulling YouTube Videos (Android)</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-velvet-vaults-2022-olympic-skaters-for-2024/"><u>[New] Velvet Vaults 2022 Olympic Skaters for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-preventing-non-displayed-images-in-youtubes-shorts/"><u>[Updated] In 2024, Preventing Non-Displayed Images in YouTubes Shorts</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/fixing-the-issue-how-to-enable-video-playback-on-google-drive-for-mp4-mov-and-mkv-files/"><u>Fixing the Issue: How to Enable Video Playback on Google Drive for MP4, MOV & MKV Files</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/in-2024-the-essential-guide-for-gopro-live-streams-to-social-media-hubs/"><u>In 2024, The Essential Guide for GoPro Live Streams to Social Media Hubs</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/is-it-possible-to-use-handbrake-for-decrypting-and-converting-secure-dvds-on-macoswindows/"><u>Is It Possible to Use Handbrake for Decrypting and Converting Secure DVDs on macOS/Windows?</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/mastering-the-tournament-expert-advice-and-techniques-for-fifa-2018-world-cup-russia-edition/"><u>Mastering the Tournament: Expert Advice and Techniques for FIFA 2018 World Cup, Russia Edition</u></a></li>
+<li><a href="https://techtrends.techidaily.com/overcoming-the-jscriptdll-cannot-be-found-error-expert-tips-and-tricks/"><u>Overcoming the jScript.dll Cannot Be Found Error - Expert Tips and Tricks</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/solving-the-mystery-of-jvmdll-missing-a-step-by-step-guide/"><u>Solving the Mystery of JVM_DLL Missing: A Step-by-Step Guide</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/stabile-videos-erstellen-tipps-fur-die-optimierung-von-aufnahmen-auf-pc-mac-android-and-iphone/"><u>Stabile Videos Erstellen: Tipps Für Die Optimierung Von Aufnahmen Auf PC, MAC, Android & iPhone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-10-best-spy-watches-for-your-honor-x7b-drfone-by-drfone-virtual-android/"><u>Top 10 Best Spy Watches For your Honor X7b | Dr.fone</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/top-video-compression-software-in-france-for-file-size-reduction/"><u>Top Video Compression Software in France for File Size Reduction</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/unterstutzt-av1-in-der-version-von-adobe-premiere-pro-fur-den-importeffekt/"><u>Unterstützt AV1 in Der Version Von Adobe Premiere Pro Für Den Importeffekt?</u></a></li>
 </ul></div>
 

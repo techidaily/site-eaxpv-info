@@ -1,7 +1,7 @@
 ---
 title: "Vision Pro Eyewear: Apple's Next Step Towards Health Tracking with Breath Analysis, Says ZDNet"
-date: 2024-11-17T22:10:00.395Z
-updated: 2024-11-19T20:39:36.506Z
+date: 2024-11-23T18:23:43.217Z
+updated: 2024-11-28T17:20:32.708Z
 tags:
   - apple
 categories:
@@ -31,6 +31,10 @@ To continue this conversation, I'm going to ask you to hold two competing though
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  How could Meta possibly beat Apple?
 
 Good, better, best. What does this mean? How can a $500 device from Meta (Facebook, believe it or not) beat Apple's offering?
@@ -56,10 +60,7 @@ During this time, the company focused on providing viable mixed reality and VR e
 Essentially, Meta's focus has been on finding the sweet spot for AR and VR devices using current technology and baking that into its products. In the Quest 3, it has introduced a truly great device at a reasonably affordable price.
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134501/19576" target="_top" id="2134501">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134501" border="0" alt="https://techidaily.com" width="640" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134501/19576" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  That old Apple magic
@@ -110,10 +111,7 @@ The virtual Mac screen the Vision Pro now offers doesn't add much. But being abl
 There are always reasons for delays. It's certainly possible the company hit technical hurdles. But perhaps it could have moved resources over from circus sideshow projects like converting 2D photos into 3D photos -- a feature _no one_ will use as a justification to buy a Vision Pro -- into something that could and will provide real, tangible value and even a justification for the high purchase price. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  A Vision for the rest of us
@@ -131,10 +129,7 @@ In other words, for the Vision to be successful, it has to stop fooling around a
 So what, beyond shipping useful software like the ultra-wide Mac display, needs to factor into that probably elusive Apple mindset change? Three things. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036481/19272" target="_top" id="2036481">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036481" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036481/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Give the Vision a controller
@@ -148,10 +143,7 @@ The eye tracking and hand gestures interface that are the primary means of opera
 You can see this in action with the [Puzzling Places game](https://www.meta.com/experiences/3931148300302917/). On the Quest 3, the game provides a much richer interface than on the Vision Pro. That's because it's much easier to navigate objects in the 3D space using the Quest controllers. 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137204/26400" target="_top" id="2137204">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137204" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137204/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Stay away from cable tethering
@@ -235,22 +227,19 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-finding-equilibrium-between-professional-life-and-youtubing/"><u>[New] 2024 Approved Finding Equilibrium Between Professional Life and YouTubing</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/nd-screen-design-made-easy-with-our-templates-and-tutorials/"><u>[New] End-Screen Design Made Easy with Our Templates & Tutorials</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-flv-video-unification-techniques-for-2024/"><u>[New] FLV Video Unification Techniques for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-zero-to-hero-in-youtube-traffic/"><u>[New] In 2024, From Zero to Hero in YouTube Traffic</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-create-engaging-visual-hooks-a-guide-to-video-thumbnail-making/"><u>[New] In 2024, How to Create Engaging Visual Hooks A Guide to Video Thumbnail Making</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-quick-and-simple-ipad-conversion-turn-jpgpng-into-pdf/"><u>[New] Quick and Simple iPad Conversion Turn JPG/PNG Into PDF</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-optimally-apply-a-creative-commons-license/"><u>[Updated] 2024 Approved How to Optimally Apply a Creative Commons License</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-encyclopedia-of-diverse-video-capture-units/"><u>[Updated] Encyclopedia of Diverse Video Capture Units</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-flip-flop-your-watching-anchoring-yourself-at-the-end-of-queue-for-2024/"><u>[Updated] Flip-Flop Your Watching Anchoring Yourself at the End of Queue for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-from-zero-to-hero-learning-the-art-of-youtube-content-for-2024/"><u>[Updated] From Zero to Hero Learning the Art of YouTube Content for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-get-creative-and-cost-effective-with-a-stash-of-over-50-free-youtube-promo-artwork-for-2024/"><u>[Updated] Get Creative and Cost-Effective with a Stash of Over 50 Free YouTube Promo Artwork for 2024</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-in-2024-smart-tips-for-gif-lovers-iphone-edition/"><u>[Updated] In 2024, Smart Tips for GIF Lovers IPhone Edition</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-superior-websites-to-ditch-twitter-completely/"><u>[Updated] Superior Websites to Ditch Twitter Completely</u></a></li>
-<li><a href="https://discover-community.techidaily.com/7-free-techniques-to-record-audio-using-your-desktop-or-laptop/"><u>7 Free Techniques to Record Audio Using Your Desktop or Laptop</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-steps-to-create-an-impactful-youtube-trailer/"><u>In 2024, Steps to Create an Impactful YouTube Trailer</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/pro-tips-for-video-conference-recordings-desktop-edition-for-2024/"><u>Pro Tips for Video Conference Recordings Desktop Edition for 2024</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/simplifying-server-removal-for-desktopmobile-use/"><u>Simplifying Server Removal for Desktop/Mobile Use</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-dissecting-popularity-ten-facts-about-reels-unmasked/"><u>[Updated] 2024 Approved Dissecting Popularity Ten Facts About Reels, Unmasked</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-creating-impactful-youtube-conclusion-for-2024/"><u>[Updated] Creating Impactful YouTube Conclusion for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/comment-collaborer-avec-succes-au-sein-du-programme-daffiliation-winxdvd/"><u>Comment Collaborer Avec Succès Au Sein Du Programme D'affiliation WinXDVD</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/enhancing-your-live-streams-with-professional-virtual-cameras-exploring-the-top-software-beyond-manycam/"><u>Enhancing Your Live Streams with Professional Virtual Cameras: Exploring the Top Software Beyond ManyCam</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/error-free-movie-and-dvd-ripping-using-the-premium-fix-winx-dvd-ripper-platinum-feature/"><u>Error-Free Movie and DVD Ripping Using the Premium Fix WinX DVD Ripper Platinum Feature</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-fake-the-location-to-get-around-the-mlb-blackouts-on-infinix-smart-8-hd-drfone-by-drfone-virtual-android/"><u>In 2024, Fake the Location to Get Around the MLB Blackouts on Infinix Smart 8 HD | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-art-of-movement-enhancing-your-photos-with-illustrators-motion-blur/"><u>In 2024, The Art of Movement Enhancing Your Photos with Illustrator's Motion Blur</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/leading-software-solutions-how-to-effortlessly-edit-and-shorten-mkv-videos-without-re-encoding/"><u>Leading Software Solutions: How to Effortlessly Edit and Shorten MKV Videos Without Re-Encoding</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/leading-weather-monitoring-tools-a-guide-to-the-top-storm-tracker-apps/"><u>Leading Weather Monitoring Tools: A Guide to the Top Storm Tracker Apps</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/mastering-the-art-of-making-your-youtube-shorts-appear-consistently/"><u>Mastering The Art Of Making Your YouTube Shorts Appear Consistently</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/solving-handbrakes-partial-dvd-extraction-issue-ensuring-complete-movie-rip-success/"><u>Solving HandBrake's Partial DVD Extraction Issue: Ensuring Complete Movie Rip Success!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/speedy-and-simple-razer-mamba-driver-installation-start-here-today/"><u>Speedy and Simple Razer Mamba Driver Installation – Start Here Today</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/the-ultimate-tutorial-on-editing-and-cropping-iphoness-videos-for-enhanced-youtube-presentation/"><u>The Ultimate Tutorial on Editing and Cropping iPhones's Videos for Enhanced YouTube Presentation</u></a></li>
+<li><a href="https://network-issues.techidaily.com/win11-stuck-at-default-screen-res/"><u>Win11: Stuck at Default Screen Res</u></a></li>
 </ul></div>
 

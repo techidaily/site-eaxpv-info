@@ -1,7 +1,7 @@
 ---
 title: "Discovering Literary Surprises: When I Let AI Choose My Next Book"
-date: 2024-08-30T16:51:05.712Z
-updated: 2024-08-31T16:51:05.712Z
+date: 2024-11-25T18:18:38.947Z
+updated: 2024-11-28T18:14:50.859Z
 tags:
   - cutting-edge
 categories:
@@ -11,6 +11,10 @@ thumbnail: https://thmb.techidaily.com/9512aea1a507981ddcbdbe0823cb40f28338d2e0f
 
 ## Discovering Literary Surprises: When I Let AI Choose My Next Book
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * AI chatbots offer faster and more specific book recommendations than traditional methods like Goodreads and bookstores.
@@ -18,6 +22,10 @@ thumbnail: https://thmb.techidaily.com/9512aea1a507981ddcbdbe0823cb40f28338d2e0f
 * AI chatbots are efficient at pinpointing niche book preferences, but may still make mistakes like recommending the wrong genre.
 
  If you're a book lover like me, you probably have a massive TBR list but still struggle to find your next read. Why not put the decision out of your hands entirely and ask an AI chatbot to choose your next book? I did, and the results were pretty interesting.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Can AI Chatbots Help Me Discover My New Favorite Book?
 
@@ -39,16 +47,21 @@ thumbnail: https://thmb.techidaily.com/9512aea1a507981ddcbdbe0823cb40f28338d2e0f
 
  Now that that’s settled, it’s time to explore the AI recommendations.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
-<!-- affiliate ads end -->
 ##  Exploring Romance Book Picks With ChatGPT
 
  I asked ChatGPT to find me a romance book with a fake dating trope that was lighthearted and fun but that still had emotional depth. For guidance, I included similar books that I'd enjoyed in the past in my prompt and sent it off. ChatGPT responded with [_The Plus One_](https://www.amazon.com/Plus-One-Novel-Mazey-Eddings-ebook/dp/B09Y45P45Z?tag=hotoge-20&ascsubtag=UUhtgUeUpU2003288&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fi-asked-ai-to-pick-my-next-read-heres-how-it-went%2F&asc%5Fcampaign=Evergreen)by Mazey Eddings**,** a synopsis of the book, and a couple of reasons why it recommended this particular book.
 
 ![A ChatGPT prompt requesting a book recommendation and its accompanying response](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/2024-05-23_13h36_32.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  I loved ChatGPT’s recommendation. It fit my criteria perfectly and the book seems interesting enough from the synopsis. However, I noticed that it was published in April 2023—not exactly a new release. In hindsight, this makes sense since I'm using the free version of ChatGPT, and it's been trained on data only up to that date. Aside from that, it was a solid pick.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Gemini Has Some “Interesting” Murder Mystery Book Suggestions
 
@@ -62,36 +75,24 @@ thumbnail: https://thmb.techidaily.com/9512aea1a507981ddcbdbe0823cb40f28338d2e0f
 
 ![A Prompt asking Gemini to suggest a murder mystery book and the response](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/2024-05-22_19h21_57.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
-EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
-<!-- affiliate ads end -->
  In fact, it's a young adult fantasy novel. Even Gemini acknowledged this in its response, where it said “This young adult fantasy novel is not your typical murder mystery.”
 
  Poor showing, Gemini.
 
-<!-- affiliate ads begin -->
-<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Discovering New Fantasy Reads With Copilot
 
  I asked Copilot to recommend a book with magic and a strong romantic subplot. Copilot returned five titles, and the results were mixed. Two of the recommendations fit my requirements perfectly, while the other three did not align with my preferences at all. One suggestion was even a sci-fi book with no magic whatsoever.
 
 ![Copilot's response to a prompt asking for fantasy book recommendations](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/2024-05-23_14h20_12.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Additionally, Copilot seemed to favor urban fantasy, although the reference books I provided were closer to high fantasy. Fortunately, when I asked it to choose one book, Copilot selected [_The Rage of Dragons_](https://www.amazon.com/Rage-Dragons-Burning-Book-ebook/dp/B07L2VKFP5?tag=hotoge-20&ascsubtag=UUhtgUeUpU2003288&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fi-asked-ai-to-pick-my-next-read-heres-how-it-went%2F&asc%5Fcampaign=Evergreen) by Evan Winter, which was one of the two titles that met my criteria.
 
 ![A prompt asking Copilot to pick one book from a list and its accompanying response](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/2024-05-23_14h18_40-1.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
-<!-- affiliate ads end -->
+
 ##  Who Gave The Best Book Recommendation?
 
  I loved ChatGPT’s romance recommendation more than the book I found on Goodreads. Copilot’s suggestion was decent, but I was more excited about the book from Barnes & Noble. [As for Gemini, its recommendations were inconsistent](https://on-screen-recording.techidaily.com/updated-the-easy-way-to-screen-record-your-ultimate-guide-on-mi-11/), so Amazon took the win in that category.
@@ -114,8 +115,6 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -123,4 +122,26 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-achieve-the-perfect-look-youtubes-guide-to-video-aspect-ratios-for-2024/"><u>[New] Achieve the Perfect Look YouTube's Guide to Video Aspect Ratios for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-captivating-audiences-on-a-shoestring-budget-youtube-shorts-success-tips-for-2024/"><u>[New] Captivating Audiences on a Shoestring Budget – YouTube Shorts Success Tips for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-enhance-your-profile-with-free-imagery-for-2024/"><u>[New] Enhance Your Profile with Free Imagery for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-top-video-editors-aiding-in-app-dev-creation/"><u>[New] Top Video Editors Aiding in App Dev Creation</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-unlocking-imovies-potential-youtube-video-edition-excellence/"><u>[New] Unlocking iMovie's Potential YouTube Video Edition Excellence</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-explore-the-top-10-fastest-growing-youtube-platforms-to-motivate-you/"><u>[Updated] 2024 Approved Explore the Top 10 Fastest Growing YouTube Platforms to Motivate You</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-masterclass-in-youtube-video-previews-and-trailers/"><u>[Updated] 2024 Approved Masterclass in YouTube Video Previews and Trailers</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-chat-room-to-screen-step-by-step-google-meet-youtube-streams/"><u>[Updated] In 2024, From Chat Room to Screen Step-by-Step Google Meet YouTube Streams</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-navigating-multi-platform-engagement-for-content-creators/"><u>[Updated] Navigating Multi-Platform Engagement for Content Creators</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/2024-approved-worldwide-leaders-in-short-video-download-hubs-free/"><u>2024 Approved Worldwide Leaders in Short Video Download Hubs (FREE)</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-old-messages-from-your-xiaomi-redmi-note-12r-by-fonelab-android-recover-messages/"><u>How to recover old messages from your Xiaomi Redmi Note 12R</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-how-to-import-music-to-inshot-app/"><u>In 2024, How to Import Music to Inshot App?</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-reset-your-itel-lock-screen-password-by-drfone-android/"><u>In 2024, How to Reset your Itel Lock Screen Password</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-sign-out-of-apple-id-on-apple-iphone-x-without-password-by-drfone-ios/"><u>In 2024, How to Sign Out of Apple ID On Apple iPhone X without Password?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/innovation-in-content-creation-7-smart-ai-uses/"><u>Innovation in Content Creation: 7 Smart AI Uses</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/my-videos-arent-playing-on-oppo-a58-4g-what-can-i-do-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>My Videos Arent Playing on Oppo A58 4G – What Can I Do? | Dr.fone</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/rapid-video-grabber-your-gateway-to-all-online-videos-for-2024/"><u>Rapid Video Grabber - Your Gateway to All Online Videos for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/the-essential-guide-to-saving-web-radio-broadcasts/"><u>The Essential Guide to Saving Web Radio Broadcasts</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unveiling-chatgpts-core-plugins-features-and-practical-uses/"><u>Unveiling ChatGPT’s Core Plugins: Features and Practical Uses</u></a></li>
+</ul></div>
 

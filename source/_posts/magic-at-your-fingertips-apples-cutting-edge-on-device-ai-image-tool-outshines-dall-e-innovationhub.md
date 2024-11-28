@@ -1,7 +1,7 @@
 ---
 title: "Magic at Your Fingertips: Apple's Cutting-Edge On-Device AI Image Tool Outshines DALL-E | InnovationHub"
-date: 2024-11-13T21:22:36.377Z
-updated: 2024-11-20T01:07:31.061Z
+date: 2024-11-21T16:56:30.778Z
+updated: 2024-11-28T17:06:00.584Z
 tags:
   - apple
 categories:
@@ -38,6 +38,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Apple Intelligence (AI)
 
 Maria Diaz/ZDNET
@@ -61,10 +65,7 @@ Maria Diaz/ZDNET
 * Apple Intelligence is free on iOS 18, iPadOS 18, and MacOS Sequoia, and will be available to try in English only this summer.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105873/7443" target="_top" id="2105873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105873" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Partnership with OpenAI
@@ -107,6 +108,10 @@ Adam Breeden/ZDNET
 * **Check In** is available on Apple Watch, even during workouts, to help users stay safe. **Translate** is also coming to Apple Watch so users can translate text right from their wrists.
 * Another notable change is that the **double tap gesture** can be used to scroll through apps.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## iPadOS 18
 
 Adam Breeden/ZDNET
@@ -116,13 +121,6 @@ Adam Breeden/ZDNET
 * In a long-awaited release, iPads will now have a **[calculator app](https://www.zdnet.com/article/after-14-years-apple-expected-to-unveil-the-ipad-app-weve-all-been-waiting-for-at-wwdc/)** for the first time, complete with the same interface as the one currently found on iPhones. Plus, users can use it with the Apple Pencil through a new **Math Notes** experience, which allows users to write expressions that the calculator app will solve for them once they type the equal sign, in their own handwriting,
 * Handwriting in Notes also got an upgrade with **Smart** **Script**, which refines users' writing to make it more legible while keeping the authenticity of the user's handwriting style. The feature can also match copied and pasted text to the user's handwriting. Typed text was also enhanced, with five new highlight colors and the ability to toggle sections under headings or subheadings.
 * iPadOS 18 supports **screen-sharing via SharePlay** and the same Control Center customizations, Photos app upgrades, Safari updates, and emoji Tapbacks found in **iOS 18.**
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105867/7443" target="_top" id="2105867">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105867" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105867/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## MacOS 15 (Sequoia)
 
@@ -134,6 +132,10 @@ Adam Breeden/ZDNET
 * **Video meetings** are also getting an upgrade, with new backgrounds and a preview experience that allows you to see what you are about to share before sharing it. This feature works with popular video conferencing applications such as FaceTime and Zoom.
 * The **AI summarization** tool will live in Safari to help users process content like web pages and articles more efficiently. Safari will also assist users in discovering more helpful information about a page they are browsing when relevant, such as directions.
 * Apple also launched a new **Viewer experience**, which does for video what Reader does for text.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## VisionOS 2
 
@@ -153,10 +155,7 @@ Jason Hiner/ZDNET
 * Apple is also making the Vision Pro available in more countries starting June 28\. You can see the full list [here](https://www.apple.com/newsroom/2024/06/apple-vision-pro-arrives-in-new-countries-and-regions-beginning-june-28/).
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/1062450/7443" target="_top" id="1062450">
-  <img src="//a.impactradius-go.com/display-ad/7443-1062450" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062450/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## AirPods
@@ -166,13 +165,6 @@ Jason Hiner/ZDNET
 * AirPods Pro are getting **Voice Isolation** to enhance call quality in noisier environments.
 * With the new **Siri Interactions**, users can now **nod or shake their head** "yes" or "no" when responding to Siri.
 * Apple is also releasing a **Personalized Spatial Audio API** for game developers to build around the AirPods' audio technology.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100526/7443" target="_top" id="2100526">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100526" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## tvOS 18
 
@@ -218,19 +210,16 @@ Screenshot by Nina Raemont/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-2024-approved-enhance-your-game-with-this-superb-cost-free-sound-altering-app/"><u>[New] 2024 Approved Enhance Your Game with This Superb, Cost-Free Sound Altering App</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-gateways-to-googles-advertising-on-youtube-platforms/"><u>[New] 2024 Approved Gateways to Google's Advertising on YouTube Platforms</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-live-without-the-temptation-of-youtube-shorts/"><u>[New] 2024 Approved How To Live Without the Temptation of YouTube Shorts</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-speech-to-text-a-complete-free-workshop-on-youtube-transcription/"><u>[New] In 2024, From Speech to Text A Complete, FREE Workshop on YouTube Transcription</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-gags-and-grins-techniques-in-parody-production/"><u>[New] In 2024, Gags and Grins Techniques in Parody Production</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-optimize-your-online-store-top-15-tools-for-social-media-insight-and-sales-analysis-for-2024/"><u>[New] Optimize Your Online Store Top 15 Tools for Social Media Insight and Sales Analysis for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-grasping-the-essence-of-your-youtube-community/"><u>[Updated] 2024 Approved Grasping the Essence of Your YouTube Community</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-transform-your-visual-storytelling-with-no-cost-green-screen-lessons-from-youtubes-best-experts/"><u>[Updated] Transform Your Visual Storytelling with No-Cost Green Screen Lessons From YouTube's Best Experts</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-creating-a-channel-focused-on-reviewing-marketplace-items/"><u>2024 Approved Creating a Channel Focused on Reviewing Marketplace Items</u></a></li>
-<li><a href="https://os-tips.techidaily.com/apple-imessages-unlocked-discover-these-10-incredible-features-few-people-are-aware-of/"><u>Apple iMessages Unlocked: Discover These 10 Incredible Features Few People Are Aware Of!</u></a></li>
-<li><a href="https://win-answers.techidaily.com/expert-fixes-for-when-your-voice-chat-content-warning-stops-responding/"><u>Expert Fixes for When Your Voice Chat Content Warning Stops Responding</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-a-lost-infinix-smart-8-for-free-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track a Lost Infinix Smart 8 for Free? | Dr.fone</u></a></li>
-<li><a href="https://network-issues.techidaily.com/simple-repair-steps-off-gaming-setup-graphics-card/"><u>Simple Repair Steps: Off Gaming Setup Graphics Card</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-roadmap-to-innovation-potential-game-changing-moves-by-apple-over-openai-microsoft-and-google-at-worldwide-developers-conference-wwdc-expert-analysis-on188/"><u>The Roadmap to Innovation: Potential Game-Changing Moves by Apple Over OpenAI, Microsoft, and Google at Worldwide Developers Conference (WWDC) | Expert Analysis on ZDNET</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-best-9-screen-free-adventures-in-mobile-gaming-android-edition/"><u>2024 Approved Best 9 Screen-Free Adventures in Mobile Gaming (Android Edition)</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/2024windows-and-macos-mkvmp4/"><u>2024年版頂級Windows & macOS MKV到MP4轉檔器 - 選出最佳二十大</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/best-mac-dvd-decryption-software-of-2024-unlocking-secure-discs/"><u>Best Mac DVD Decryption Software of 2024: Unlocking Secure Discs</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/1725284467343-dvdpc/"><u>DVD視聴手引き：PCやモバイルデバイス上で完全再生ガイド</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/full-guide-to-unlock-your-infinix-smart-8-by-drfone-android/"><u>Full Guide to Unlock Your Infinix Smart 8</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/how-to-safely-acquire-and-duplicate-the-first-season-of-squid-game-for-personal-use/"><u>How to Safely Acquire & Duplicate the First Season of Squid Game for Personal Use</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-honor-magic-v2-to-iphone-xs11-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Honor Magic V2 to iPhone XS/11 | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-a-samsung-galaxy-a05s-easily-by-drfone-android/"><u>In 2024, How To Unlock a Samsung Galaxy A05s Easily?</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-social-strategies-for-disseminating-health-information/"><u>In 2024, Social Strategies for Disseminating Health Information</u></a></li>
+<li><a href="https://apple-account.techidaily.com/turning-off-two-factor-authentication-from-apple-iphone-xs-5-tips-you-must-know-by-drfone-ios/"><u>Turning Off Two Factor Authentication From Apple iPhone XS? 5 Tips You Must Know</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/dvdiphoneipad/"><u>デジアーティソフトウェアの中心 - 高画質DVDコピー、iPhoneコピー、iPadコピー</u></a></li>
 </ul></div>
 

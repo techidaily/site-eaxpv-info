@@ -1,7 +1,7 @@
 ---
 title: "ZDNet Review: IPhone 14 Strikes a Perfect Balance - Just What We Needed"
-date: 2024-11-15T18:52:27.362Z
-updated: 2024-11-19T23:31:06.095Z
+date: 2024-11-27T16:39:47.513Z
+updated: 2024-11-28T16:01:20.453Z
 tags:
   - apple
 categories:
@@ -45,6 +45,10 @@ How and why did I come to those conclusions? Let's dig in.
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Specifications
 
 | Processor        | Apple A15 Bionic                                                  |
@@ -79,10 +83,7 @@ The side of the iPhone no longer has a SIM card slot.
 Jason Cipriani/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959759/19272" target="_top" id="1959759">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959759" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959759/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Performance and battery life
@@ -90,10 +91,7 @@ Jason Cipriani/ZDNET
 If you visit [Apple's comparison tool](https://www.apple.com/iphone/compare/?modelList=iphone13,iphone14,iphone14plus), pitting the [iPhone 13 against the iPhone 14](https://www.zdnet.com/article/iphone-13-vs-iphone-14/), you'll notice that the phones use the same A15 Bionic processor. This is the first time Apple has used the previous-generation processor in a new iPhone model, with the iPhone maker relying on the already solid performance the A15 Bionic brought to the iPhone 13\. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075483/7443" target="_top" id="2075483">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075483" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075483/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -116,13 +114,6 @@ I'm intrigued to see what battery life is like on the [iPhone 14 Plus](https://w
 
 Jason Cipriani/ZDNET
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012401/19272" target="_top" id="2012401">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012401" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012401/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Camera upgrades
 
 The biggest changes Apple made to the iPhone 14 all have to do with the camera. Apple calls the iPhone 14's camera system an "advanced dual-camera system," thanks in part to some hardware upgrades but also because of some [iOS camera software features](https://www.zdnet.com/article/ios-16-has-a-hidden-photoshop-like-feature-where-to-find-it-and-how-to-use-it-and-why-youre-going-to-love-it/) that are new this year. 
@@ -142,16 +133,7 @@ Jason Cipriani/ZDNET
 The above photo hasn't been edited other than cropping the image in order to publish it. All of the color and saturation settings have remained untouched. 
 
 <!-- affiliate ads begin -->
-<span id="1424531">
-					<video width="864" height="NaN" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424531.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424531">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424531.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424531%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424531/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Safety first
@@ -163,6 +145,10 @@ The new emergency communication feature comes alongside a dedicated [crash detec
 [Buy the Apple iPhone 14 View now at Apple](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fiphone-14%2F&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
 
 **Also:** [**The iPhone 14 Pro packs a lot more innovation for the same price as last year**](https://www.zdnet.com/article/iphone-14-pro-packs-a-lot-more-innovation-for-the-same-price-as-last-year/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Bottom line
 
@@ -200,24 +186,19 @@ As I said at the top, the iPhone 14 is a great phone, and for someone who is com
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-gourmet-giants-culinary-stars-you-must-subscribe-to/"><u>[New] 2024 Approved Gourmet Giants Culinary Stars You Must Subscribe To</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/new-busting-barriers-with-laughs-the-best-facebook-prisoner-wit-quotes-for-2024/"><u>[New] Busting Barriers with Laughs The Best Facebook Prisoner-Wit Quotes for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-frosty-ambiance-cozy-cinematics-best-bgs-ideas-for-2024/"><u>[New] Frosty Ambiance, Cozy Cinematics Best Bgs Ideas for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-free-video-embedding-techniques-for-online-articles/"><u>[New] In 2024, Free Video Embedding Techniques for Online Articles</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-get-your-digital-dough-worthy-with-these-50-no-cost-youtube-promo-tools/"><u>[Updated] 2024 Approved Get Your Digital Dough Worthy With These 50 No-Cost YouTube Promo Tools</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-halt-autoplay-youtube-recommendations/"><u>[Updated] 2024 Approved Halt Autoplay YouTube Recommendations</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-hosting-youtube-webinars-for-no-charge/"><u>[Updated] 2024 Approved Hosting YouTube Webinars for No Charge</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-game-jams-and-indie-project-highlights-for-2024/"><u>[Updated] Game Jams and Indie Project Highlights for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-get-your-digital-dough-worthy-with-these-50-no-cost-youtube-promo-tools-for-2024/"><u>[Updated] Get Your Digital Dough Worthy With These 50 No-Cost YouTube Promo Tools for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-high-end-sound-pumping-tools-pcs-and-smartphones-for-2024/"><u>[Updated] High-End Sound Pumping Tools PCs & Smartphones for 2024</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-reach-new-heights-boosting-youtube-viewership/"><u>[Updated] Reach New Heights Boosting YouTube Viewership</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-unleash-creativity-with-the-right-camera-lenses-for-2024/"><u>[Updated] Unleash Creativity with the Right Camera Lenses for 2024</u></a></li>
-<li><a href="https://location-social.techidaily.com/4-feasible-ways-to-fake-location-on-facebook-for-your-vivo-y02t-drfone-by-drfone-virtual-android/"><u>4 Feasible Ways to Fake Location on Facebook For your Vivo Y02T | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-and-where-to-find-a-shiny-stone-pokemon-for-samsung-galaxy-a05s-drfone-by-drfone-virtual-android/"><u>How and Where to Find a Shiny Stone Pokémon For Samsung Galaxy A05s? | Dr.fone</u></a></li>
-<li><a href="https://solve-outstanding.techidaily.com/how-to-overcome-dvd-writing-issues-in-dvdstyler-identifying-causes-and-solutions-for-playback-errors/"><u>How to Overcome DVD Writing Issues in DVDStyler: Identifying Causes and Solutions for Playback Errors</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-stream-anything-from-vivo-y78-5g-to-apple-tv-drfone-by-drfone-android/"><u>How To Stream Anything From Vivo Y78 5G to Apple TV | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/overcoming-silent-mode-effective-solutions-for-windows-11-volume-malfunctions/"><u>Overcoming Silent Mode: Effective Solutions for Windows 11 Volume Malfunctions</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/the-differences-between-ar-vr-mr-and-xr-a-comprehveinsion-for-tech-enthusiasts/"><u>The Differences Between AR, VR, MR & XR: A Comprehveinsion for Tech Enthusiasts</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/ultimate-tips-for-capturing-sporting-events-live-online/"><u>Ultimate Tips for Capturing Sporting Events Live Online</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-audience-engagement-and-its-impact-on-youtube-performance/"><u>[New] 2024 Approved Audience Engagement and Its Impact on YouTube Performance</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-in-2024-premium-sound-collection-no-cost-top-luts-listed-here/"><u>[New] In 2024, Premium Sound Collection No-Cost, Top LUTs Listed Here</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-level-up-your-playtime-examining-kinemaster-on-android/"><u>[New] Level Up Your Playtime Examining KineMaster on Android</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-a-comprehensive-overview-recording-saving-and-sharing-youtube-videos-for-free-for-2024/"><u>[Updated] A Comprehensive Overview Recording, Saving & Sharing YouTube Videos for Free for 2024</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/updated-enhancing-youtube-viewing-experience-with-right-video-formats/"><u>[Updated] Enhancing YouTube Viewing Experience with Right Video Formats</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-streamline-your-workflow-with-top-10-free-mac-screen-recorders-for-2024/"><u>[Updated] Streamline Your Workflow with Top 10 Free Mac Screen Recorders for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/ai-winxvideo-4k-8k-10k/"><u>AI 기법을 사용한 WinxVideo의 절전적인 이미지 해상도 증강: 4K, 8K, 10K에서</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/best-wmv-video-player-software-compatible-with-macos-and-windows-1110/"><u>Best WMV Video Player Software Compatible with macOS and Windows 11/10</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/digital-helpdesk-assistance-for-winx-dvd-ripper-pro-edition/"><u>Digital Helpdesk Assistance for WinX DVD Ripper Pro Edition</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/dvd-15/"><u>DVD複写手順：合法的に映画のコピーとリッピング - 第15章</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/firefox-x-pie-mode-decoded-for-everyday-users-for-2024/"><u>Firefox X-Pie Mode Decoded for Everyday Users for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/in-2024-samsung-ubd-k8500-2023-edition-analysis/"><u>In 2024, Samsung UBD-K8500 2023 Edition Analysis</u></a></li>
+<li><a href="https://network-issues.techidaily.com/quick-fix-clarity-for-your-screen/"><u>Quick Fix: Clarity for Your Screen</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/reversing-your-footage-the-ultimate-guide-to-flipping-gopro-videos-vertically/"><u>Reversing Your Footage: The Ultimate Guide to Flipping GoPro Videos Vertically</u></a></li>
 </ul></div>
 

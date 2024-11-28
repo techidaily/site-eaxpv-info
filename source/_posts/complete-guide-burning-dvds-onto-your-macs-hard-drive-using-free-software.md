@@ -1,7 +1,7 @@
 ---
 title: "Complete Guide: Burning DVDs Onto Your Mac's Hard Drive Using Free Software"
-date: 2024-08-24 19:24:28
-updated: 2024-08-27 12:19:54
+date: 2024-11-25T16:03:20.591Z
+updated: 2024-11-28T19:02:09.176Z
 categories:
   - macxdvd
 thumbnail: https://thmb.techidaily.com/8a7e84630d3aca1d8a2601af719bff431bf93c02b2b4875663befca17245e9f8.jpg
@@ -16,13 +16,9 @@ thumbnail: https://thmb.techidaily.com/8a7e84630d3aca1d8a2601af719bff431bf93c02b
 * [Support](https://tools.techidaily.com/macxdvd/products/)
 * [Free Download](https://tools.techidaily.com/macxdvd/products/)
 
-
-
 ![](https://www.macxdvd.com/mac-dvd-video-converter-how-to/../image-style/new-seo/icon7.png) [Home](https://tools.techidaily.com/macxdvd/products/) \> [DVD](https://tools.techidaily.com/macxdvd/products/) \> [Copy DVD](https://tools.techidaily.com/macxdvd/products/) \> Copy DVD to Hard Drive on Mac 
 
 ## How to Rip Unprotected and Copy-Protected DVD to Hard Drive on Mac
-
-
 
 _How to copy DVD movies to the hard drive on Mac computers? Whether your DVD is homemade or protected, you can find a solution here to copy a DVD to Mac internal/external hard drives for safe backup or easier playback._ 
 
@@ -30,6 +26,11 @@ _How to copy DVD movies to the hard drive on Mac computers? Whether your DVD is 
 
 * [![](https://www.macxdvd.com/mac-dvd-video-converter-how-to/../image-style/new-seo/share-fa.jpg)](https://www.facebook.com/sharer/sharer.php?u=https://www.macxdvd.com/mac-dvd-video-converter-how-to/rip-dvd-to-hard-drive-mac.htm)
 * [![](https://www.macxdvd.com/mac-dvd-video-converter-how-to/../image-style/new-seo/share-tw.jpg)](https://twitter.com/intent/tweet?url=https://www.macxdvd.com/mac-dvd-video-converter-how-to/rip-dvd-to-hard-drive-mac.htm)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 * [![](https://www.macxdvd.com/mac-dvd-video-converter-how-to/../image-style/new-seo/share-email.jpg)](https://www.macxdvd.com/mac-dvd-video-converter-how-to/mailto:info@example.com?&subject=&body=https://www.macxdvd.com/mac-dvd-video-converter-how-to/rip-dvd-to-hard-drive-mac.htm)
 * [![](https://www.macxdvd.com/mac-dvd-video-converter-how-to/../image-style/new-seo/share-in.jpg)](https://www.linkedin.com/shareArticle?mini=true&url=https://www.macxdvd.com/mac-dvd-video-converter-how-to/rip-dvd-to-hard-drive-mac.htm&title=&summary=https://www.macxdvd.com/mac-dvd-video-converter-how-to/rip-dvd-to-hard-drive-mac.htm&source=)
 
@@ -93,6 +94,10 @@ Open the DVD copy software and insert the DVD disc you want to rip to a hard dri
 
 ![how to copy DVD to hard drive on Mac](https://www.macxdvd.com/mac-dvd-video-converter-how-to/../mac-dvd-ripper-pro/step-images/interface-700.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Step 2: Choose an Output Format 
 
 It will take several seconds to remove the copy protection, analyze the DVD data, and load the contents. Then an output format will pop up and you need to choose a format that you would like to save the DVD on your hard drive. 
@@ -141,6 +146,10 @@ Disk Utility is a very useful tool built into Mac OS X and macOS systems. It can
 
 ![Rip dvd to hard drive on Mac](https://www.macxdvd.com/mac-dvd-video-converter-how-to/article-image/portable-hard-drive-6.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Steps to Copy DVD to Hard Drive on Mac 1:1 with Disk Utility 
 
 Now let's show you how to copy DVDs to a hard drive with Disk Utility on Macs. First, make sure the hard drive on your Mac has at least 4GB, as Disk Utility can only copy DVD to Mac's hard drive in ISO Image, which is quite large in size. 
@@ -154,6 +163,10 @@ Now let's show you how to copy DVDs to a hard drive with Disk Utility on Macs. F
 **Step 4.** Click the File button on the top menu bar, select New Image, and choose Image from the "DVD name".
 
 ![Copy DVDs on Mac hard drive with Disk Utility](https://www.macxdvd.com/mac-dvd-video-converter-how-to/article-image/create-disc-image-disk-utility.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 5.** From the pop-up window, you should specify the file name, save path (choose a folder on your hard drive), format (which you should choose DVD/CD master), and encryption (which you should set to None). Then click Save. Now Disk Utility will start creating an image file from your DVD. Once done, you'll see a confirmation message. The resulting image file will end with .CDR file extension.
 
@@ -213,6 +226,10 @@ MakeMKV may not be the best option for DVD owners if they need to copy DVD to ha
 * When copy DVDs with MakeMKV, make sure your hard drives on Mac/PC has enough free space to store the output MKV files as they are very large in size (about 4-9 GB per DVD movie).
 * MakeMKV doesn't provide extra features or format choices.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Steps to Copy Protected DVD to Hard Drive on Mac with MakeMKV 
 
 **Step 1:** Insert the source DVD into your Mac's disc drive. Then download MakeMKV and open it. MakeMKV should be able to load the DVD automatically. It will take some time to analyze and then display the basic DVD information. Click the big DVD drive icon. 
@@ -220,6 +237,10 @@ MakeMKV may not be the best option for DVD owners if they need to copy DVD to ha
 _Tips: MakeMKV is free in its beta. If your MakeMKV beta key is expired after 60 days, you can re-download the latest version and restart the reset the expiration date._
 
 ![Copy DVD to hard drive on Mac](https://www.macxdvd.com/mac-dvd-video-converter-how-to/article-image/makemkv-700.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 2:** After MakeMKV removes the copy protections from the DVD and detects the DVD data, it will display all the DVD titles. By default, MakeMKV will copy all the DVD titles to hard drive, but you can also select one or multiple titles you'd like to copy.
 
@@ -245,6 +266,10 @@ However, VLC is not as efficient or feature-rich as other programs. It takes lon
 * VLC takes too long to copy a DVD.
 * VLC is not as user-friendly or intuitive as dedicated DVD ripping software.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Steps to Rip DVD to Hard Drive on Mac with VLC 
 
 **Step 1.** Download VLC on your MacBook Pro/Air, iMac, Mac mini if you haven't installed it. Insert the source DVD and open VLC. Click on File on the top menu bar, select Open Disc and choose your DVD. 
@@ -258,6 +283,10 @@ However, VLC is not as efficient or feature-rich as other programs. It takes lon
 **Step 4\.**  Choose an output format you need. Then click OK. VLC will start to copy the DVD to the Mac hard drive you just set. 
 
 ![Rip DVD to hard drive free](https://www.macxdvd.com/mac-dvd-video-converter-how-to/article-image/vlc-rip-mac-encapsulation.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Which is the Best Way to Copy DVD to Hard Drive on Mac?
 
@@ -358,8 +387,6 @@ ABOUT THE AUTHOR
 
 Bella has been working with DVD digitization for over 12 years. She writes articles about everything related to DVD, from disc drive, DVD copyright protection, physical structure, burning and backup tips. The unceasing passion of DVD movies helps her build a rich DVD library and ensure a practical solution to address almost all possible DVD issues. Bella is also a crazy fan for Apple products.
 
-
-
 Related Articles
 
 ![](https://www.macxdvd.com/mac-dvd-video-converter-how-to/../image-style/new-seo/pic7.jpg)
@@ -384,9 +411,11 @@ Related Articles
 
 ![](https://www.macxdvd.com/mac-dvd-video-converter-how-to/../image-style/new-seo/pic2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 [\[How to\] Convert DVD to Chromecast and Stream DVD to TV via Chromecast](https://tools.techidaily.com/macxdvd/products/) 
-
-
 
 ![Digiarty Software](https://www.macxdvd.com/mac-dvd-video-converter-how-to/../icon/logo.png) 
 
@@ -397,6 +426,10 @@ Digiarty Software, Inc. (MacXDVD) is a leader in delivering stable multimedia so
 * [MacX DVD Ripper Pro](https://tools.techidaily.com/macxdvd/products/)
 * [MacX Video Converter Pro](https://tools.techidaily.com/macxdvd/products/)
 * [MacX MediaTrans](https://tools.techidaily.com/macxdvd/products/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Tips and Tricks
 
@@ -414,8 +447,6 @@ Digiarty Software, Inc. (MacXDVD) is a leader in delivering stable multimedia so
 * [Contact Us >>](https://tools.techidaily.com/macxdvd/products/)
 * [Partner >>](https://tools.techidaily.com/macxdvd/products/)
 
-
-
 [Home](https://tools.techidaily.com/macxdvd/products/) | [About](https://tools.techidaily.com/macxdvd/products/) | [Privacy Policy](https://tools.techidaily.com/macxdvd/products/) | [Terms and Conditions](https://tools.techidaily.com/macxdvd/products/) | [License Agreement](https://tools.techidaily.com/macxdvd/products/) | [Resource](https://tools.techidaily.com/macxdvd/products/) | [News](https://tools.techidaily.com/macxdvd/products/) | [Contact Us](https://tools.techidaily.com/macxdvd/products/)
 
 Copyright © 2024 Digiarty Software, Inc (MacXDVD). All rights reserved
@@ -429,11 +460,30 @@ Apple, the Apple logo, Mac, iPhone, iPad, iPod and iTunes are trademarks of Appl
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-channeling-creativity-get-green-screen-tips-from-youtube/"><u>[New] 2024 Approved Channeling Creativity Get Green Screen Tips From YouTube</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-beginners-guide-capturing-youtube-videos-as-screencasts-without-payment-for-2024/"><u>[New] Beginner's Guide Capturing YouTube Videos as Screencasts Without Payment for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-epic-viewership-winners-youtubes-ultimate-list-for-2024/"><u>[New] Epic Viewership Winners YouTube's Ultimate List for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-diy-split-screen-video-tutorials-for-youtube-enthusiasts/"><u>[New] In 2024, DIY Split-Screen Video Tutorials for YouTube Enthusiasts</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-youtube-soundwaves-flow-into-imovie-effortlessly/"><u>[New] YouTube Soundwaves Flow Into iMovie Effortlessly</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-deceptions-toll-consequences-of-fake-supporters-in-video-markets/"><u>[Updated] 2024 Approved Deception's Toll Consequences of Fake Supporters in Video Markets</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-elite-endorsement-exquisite-websites-to-download-snap-alert-tunes/"><u>[Updated] 2024 Approved Elite Endorsement Exquisite Websites to Download Snap Alert Tunes</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-8-best-mirrorless-cameras-vloggers-should-know/"><u>[Updated] In 2024, 8 Best Mirrorless Cameras Vloggers Should Know</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-in-2024-maximize-screen-size-for-youtube-videos/"><u>[Updated] In 2024, Maximize Screen Size for YouTube Videos</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-strategies-for-designing-youtube-video-flow/"><u>[Updated] Strategies for Designing YouTube Video Flow</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/diagnosing-and-repairing-the-0x80e70570-issue-in-your-device/"><u>Diagnosing & Repairing the '0X80e70570' Issue in Your Device</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/solving-the-mystery-of-your-own-face-appearing-during-calls/"><u>Solving the Mystery of Your Own Face Appearing During Calls</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/p4-tools-for-mac-users-maximizing-youtube-productions/"><u>Top MP4 Tools For Mac Users Maximizing YouTube Productions</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/unleash-movie-potential-stellars-quicksilver-fixes/"><u>Unleash Movie Potential - Stellar's Quicksilver Fixes</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/unlocking-made-easy-the-best-10-apps-for-unlocking-your-vivo-y17s-device-by-drfone-android/"><u>Unlocking Made Easy The Best 10 Apps for Unlocking Your Vivo Y17s Device</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-in-2024-the-premier-a-tunes-for-mobile-musicians-worldwide/"><u>Updated In 2024, The Premier A-Tunes for Mobile Musicians Worldwide</u></a></li>
+</ul></div>
+

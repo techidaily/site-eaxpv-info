@@ -1,7 +1,7 @@
 ---
 title: Enhance Productivity by Setting Up Custom Alerts on Your Mac - A Guide for macOS Monterey Users | ZDNET
-date: 2024-11-15T21:10:17.238Z
-updated: 2024-11-19T23:34:46.267Z
+date: 2024-11-23T17:45:50.651Z
+updated: 2024-11-28T18:08:38.812Z
 tags:
   - apple
 categories:
@@ -26,18 +26,23 @@ So, how do you create this custom Flow? Let me show you. All you'll need to make
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Create a custom Focus
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1172027/12108" target="_top" id="1172027">
-  <img src="//a.impactradius-go.com/display-ad/12108-1172027" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1172027/12108" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 1\. Open System Preferences
 
 Click on the Apple menu in the top left corner of your desktop. From the resulting pop-up menu, click System Preferences.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 2\. Access Notifications & Focus
 
@@ -46,13 +51,6 @@ In the System Preferences window (**Figure 1**), click Notifications & Focus.
 **Figure 1:** The Notifications & Focus entry in System Preferences.
 
 Image: Jack Wallen
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902289/19272" target="_top" id="1902289">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902289" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902289/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 3\. Open the Focus tab
 
@@ -63,10 +61,7 @@ Once Notifications & Focus is opened, click the Focus tab (**Figure 2**).
 Image: Jack Wallen
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134229/18498" target="_top" id="2134229">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134229" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134229/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 4\. Create the new Focus
@@ -85,13 +80,6 @@ Image: Jack Wallen
 
 After naming and selecting a color/icon, click Add to save the new Focus.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925570/19272" target="_top" id="1925570">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925570" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925570/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 5\. Allowing specific notifications
 
 The next thing to do is to specific contacts or apps that will be allowed when this Focus is enabled. To do that, click + under Allowed Notifications From (**Figure 5**).
@@ -105,6 +93,10 @@ From the pop-up list, select the contact(s) you want to be allowed to interrupt 
 **Figure 6:** Adding contacts to a Focus in macOS Monterey.
 
 Image: Jack Wallen
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 6\. Set the Focus to be enabled
 
@@ -148,19 +140,19 @@ Use this new Focus feature wisely, and it will help you be more productive while
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-2024-approved-maximize-game-time-top-10-ps5-external-hddssd/"><u>[New] 2024 Approved Maximize Game Time Top 10 PS5 External HDD/SSD</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-finding-the-middle-ground-working-and-youtube/"><u>[New] In 2024, Finding the Middle Ground Working & YouTube</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-football-film-study-premier-insights-infographic/"><u>[New] In 2024, Football Film Study Premier Insights Infographic</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-get-more-video-views-on-youtube/"><u>[New] In 2024, How To Get More Video Views on YouTube</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-guide-for-effortless-youtube-playlist-downloads/"><u>[New] In 2024, How-To Guide for Effortless YouTube Playlist Downloads</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-capture-to-curve-an-insider-look-at-editing-and-sharing-360-videos-on-youtube/"><u>[Updated] 2024 Approved From Capture to Curve An Insider Look at Editing and Sharing 360° Videos on YouTube</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-navigating-the-seas-of-success-utilizing-social-blade-for-youtube-data/"><u>[Updated] In 2024, Navigating the Seas of Success Utilizing Social Blade for YouTube Data</u></a></li>
-<li><a href="https://location-fake.techidaily.com/4-methods-to-turn-off-life-360-on-htc-u23-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>4 Methods to Turn off Life 360 On HTC U23 without Anyone Knowing | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/complete-tutorial-setting-up-shared-network-storage-on-your-mac-computer/"><u>Complete Tutorial: Setting Up Shared Network Storage on Your Mac Computer</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/exploring-how-fast-access-memory-influences-your-systems-speed/"><u>Exploring How Fast-Access Memory Influences Your System's Speed</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/gentlemans-guide-to-glib-guesswork-with-spanish/"><u>Gentleman's Guide to Glib Guesswork with Spanish</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-detect-and-stop-mspy-from-spying-on-your-vivo-x100-drfone-by-drfone-virtual-android/"><u>How to Detect and Stop mSpy from Spying on Your Vivo X100 | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-planning-to-use-a-pokemon-go-joystick-on-oppo-k11x-drfone-by-drfone-virtual-android/"><u>In 2024, Planning to Use a Pokemon Go Joystick on Oppo K11x? | Dr.fone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/three-ways-to-sim-unlock-lenovo-by-drfone-android/"><u>Three Ways to Sim Unlock Lenovo</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-best-tablet-gear-beyond-the-hype-a-must-try-photo-editing-list-for-2024/"><u>[Updated] Best Tablet Gear Beyond the Hype A Must-Try Photo Editing List for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-rewind-on-request-swift-iphone-video-flip/"><u>2024 Approved Rewind on Request Swift iPhone Video Flip</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/beginners-guide-to-merging-photos-with-midjourney/"><u>Beginner's Guide to Merging Photos with Midjourney</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/decouvrez-comment-contacter-le-site-digiarty-pour-lassistance-et-le-soutien/"><u>Découvrez Comment Contacter Le Site Digiarty Pour L'assistance Et Le Soutien</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/download-the-free-h264-encoder-enhance-your-hd-videos-with-this-essential-codec/"><u>Download the Free H.264 Encoder: Enhance Your HD Videos with This Essential Codec</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/dvd-ripper-for-mac-dvd/"><u>DVD Ripper for Mac: 無料で簡単・安全なDVDコピー - フレックスに作業が可能な最適ソリューションをご提案！</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-complete-review-and-guide-to-techeligible-frp-bypass-and-more-for-xiaomi-13-ultra-by-drfone-android/"><u>In 2024, Complete Review & Guide to Techeligible FRP Bypass and More For Xiaomi 13 Ultra</u></a></li>
+<li><a href="https://article-tips.techidaily.com/in-2024-conquer-chrome-multitasking-learn-to-utilize-pip-effectively/"><u>In 2024, Conquer Chrome Multitasking Learn to Utilize PIP Effectively</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/1725285047041-mp3/"><u>MP3への完全ノンロス変換：ビデオ動画を最高音質で転写するテクニック</u></a></li>
+<li><a href="https://games-able.techidaily.com/rhythm-rumble-beat-the-best-melodic-quiz-apps/"><u>Rhythm Rumble: Beat the Best Melodic Quiz Apps</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/the-best-bandicam-mac-alternatives-top-5-tools-for-2024/"><u>The Best Bandicam Mac Alternatives [Top 5 Tools] for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-6-eco-friendly-strategies-for-energy-efficient-gadgets-slash-costs-and-support-the-planet-insights-from-zdnet/"><u>Top 6 Eco-Friendly Strategies for Energy-Efficient Gadgets: Slash Costs & Support the Planet - Insights From ZDNet</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/unveiling-spectacular-results-with-hdr-portraits-for-2024/"><u>Unveiling Spectacular Results with HDR Portraits for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/winxdvd-die-bevorzugte-software-zum-extrahieren-verbessern-and-konvertieren-von-dvd-inhalten-unter-beibehaltung-hochster-qualitat-perfekt-fur-iphone-and-and5/"><u>WinXDVD: Die Bevorzugte Software Zum Extrahieren, Verbessern & Konvertieren Von DVD-Inhalten Unter Beibehaltung Höchster Qualität – Perfekt Für iPhone & Android</u></a></li>
 </ul></div>
 

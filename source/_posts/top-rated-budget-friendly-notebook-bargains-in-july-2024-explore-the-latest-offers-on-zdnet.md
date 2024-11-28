@@ -1,7 +1,7 @@
 ---
 title: Top Rated Budget-Friendly Notebook Bargains in July 2024 - Explore the Latest Offers on ZDNet
-date: 2024-11-16T23:23:20.819Z
-updated: 2024-11-19T21:39:23.961Z
+date: 2024-11-26T17:44:05.165Z
+updated: 2024-11-28T17:43:23.468Z
 tags:
   - apple
 categories:
@@ -23,6 +23,10 @@ If you see something that looks like a great deal, we recommend adding it to you
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Best laptop deals
 
@@ -95,20 +99,10 @@ Another deal we like the look of is $74 off a Lenovo V15 Series laptop. This mod
 
 [View now at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FLenovo-Low-Blue-Processor-Ethernet-Bluetooth%2Fdp%2FB0CVN88CFX%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C0ebfb982-02fd-4e4d-b523-60115691ad83%7Cdtp&dtb=1) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087409/7443" target="_top" id="2087409">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087409" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087409/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Alternative laptop deals
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144280/7443" target="_top" id="2144280">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144280" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144280/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Amazon laptop deals
@@ -137,6 +131,10 @@ Another deal we like the look of is $74 off a Lenovo V15 Series laptop. This mod
 
 [HP Chromebook X360 14-inch FHD touchscreen 2-in-1 laptop deal for $279 (save $120) $279 at Walmart](https://goto.walmart.com/c/5597632/565706/9383?sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FHP-Chromebook-X360-14-inch-FHD-IPS-Touch-2-in-1-Laptop-Intel-Processor-N100-4GB-RAM-64GB-eMMC-Sky-Blue%2F5123764557&subId1=zd-__COM_CLICK_ID__-dtp)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Best Buy laptop deals
 
 [HP 15.6-inch touchscreen Full HD laptop deal for $630 (save $170) $630 at Best Buy](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fhp-15-6-touch-screen-full-hd-laptop-intel-core-i7-16gb-memory-512gb-ssd-natural-silver%2F6550427.p%3FskuId%3D6550427&publisher%5Fslug=zdnet&article%5Fname=the%20best%20laptop%20deals%20of%20july%202024&article%5Furl=https%3A%2F%2Fwww.zdnet.com%2Farticle%2Flaptop-deals%2F&exclusive=1&u1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
@@ -159,13 +157,6 @@ Another deal we like the look of is $74 off a Lenovo V15 Series laptop. This mod
 
 [Apple MacBook Air, 2023, refurbished, 13.3-inch deal for $340 (save $660) $340 at Best Buy](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fapple-geek-squad-certified-refurbished-macbook-air-13-3-display-intel-core-i5-8gb-memory-128gb-flash-storage-silver%2F6530194.p&publisher%5Fslug=zdnet&article%5Fname=the%20best%20laptop%20deals%20of%20july%202024&article%5Furl=https%3A%2F%2Fwww.zdnet.com%2Farticle%2Flaptop-deals%2F&exclusive=1&u1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
 
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2141688/17094" target="_top" id="2141688">
-  <img src="//a.impactradius-go.com/display-ad/17094-2141688" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141688/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How did we choose these laptop deals?
 
 We searched for laptop deals at retailers like Amazon, Walmart, and Best Buy, and also at the websites of leading manufacturers like Lenovo, HP, Dell, Apple, Acer, and Asus. We also used various price trackers to ensure that a claimed deal wasn't spurious.
@@ -179,10 +170,7 @@ When compiling the list of the best deals, we considered the following:
 * **Use cases**: At ZDNET, we also took into account different use cases. You might be in the market for a budget-friendly, basic laptop for a child, for example, or you may need a future-proof laptop suitable for work. Or, it might be a gaming device you're after. So, we have compiled a set of recommendations based on different purposes.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151855/7443" target="_top" id="2151855">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151855" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151855/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What specifications do I need to look for in a laptop?
@@ -193,6 +181,10 @@ The right specs depend on your needs and how you intend to use your new laptop -
 * **Graphics card/GPU:** Again, gamers and content creators will want a higher graphics card to reflect the beautiful imagery for their gaming. I personally recommend that gamers opt for at least an RTX 3060 at the moment. However, again, internet surfers and workers shouldn't worry too much about the graphics if you're focusing on building out Word documents.
 * **Storage**: For those that focus on lighter laptop use, 256GB of SSD storage will be plenty of space for your laptop. However, if you need more storage for high-resolution photos, videos, or more, you'll want to opt for 512GB of storage or even 1TB.
 * **RAM**: In conjunction with the CPU, RAM is used to help the computer multi-task and is vital to running programs. ZDNET expert Adrian Kingsley-Hughes breaks down [RAM needs here](https://www.zdnet.com/article/how-much-ram-does-your-windows-10-pc-need/), but at minimum, especially for working, you should opt for around 8GB, and gamers will potentially want more.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Do I need a gaming laptop or a "regular" laptop?
 
@@ -265,24 +257,22 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-the-goofy-adventure-a-critical-appraisal-videotape-edition-for-2024/"><u>[New] 'The Goofy Adventure' - A Critical Appraisal Videotape Edition for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-curated-cinematic-journeys-the-best-yt-film-selections/"><u>[New] 2024 Approved Curated Cinematic Journeys The Best YT Film Selections</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-boost-your-channel-top-14-gaming-vids-for-youtube-success-for-2024/"><u>[New] Boost Your Channel Top 14 Gaming Vids for YouTube Success for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-channel-confidence-tips-for-trending-on-youtube/"><u>[New] In 2024, Channel Confidence Tips for Trending on YouTube</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/new-smart-compilation-best-6-fb-lite-videos/"><u>[New] Smart Compilation Best 6 FB Lite Videos</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-detailed-tips-for-adequate-lighting-in-youtube-video-production/"><u>[Updated] 2024 Approved Detailed Tips for Adequate Lighting in YouTube Video Production</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-guide-eradicating-pending-videos-on-your-youtube-queue/"><u>[Updated] 2024 Approved Guide Eradicating Pending Videos on Your YouTube Queue</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-channel-personality-complimentary-youtube-graphics-for-2024/"><u>[Updated] Channel Personality Complimentary YouTube Graphics for 2024</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-essential-tips-supercharge-your-instagram-highlights/"><u>[Updated] Essential Tips Supercharge Your Instagram Highlights</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-fresh-ideas-to-talk-about-in-daily-vlogging/"><u>[Updated] In 2024, Fresh Ideas to Talk About in Daily Vlogging</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-innovative-approaches-to-supercharge-your-editing-workflow-for-2024/"><u>[Updated] Innovative Approaches to Supercharge Your Editing Workflow for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-youtubes-tagging-system-unveiled/"><u>[Updated] YouTube's Tagging System Unveiled</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/209840844-9780990584834-365-daily-vision-nuggets/"><u>365 Daily Vision Nuggets | Free Book</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/cutting-edge-tips-refine-your-brands-instagram-visibility-for-2024/"><u>Cutting-Edge Tips Refine Your Brand's Instagram Visibility for 2024</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-can-we-unlock-our-vivo-s17e-phone-screen-by-drfone-android/"><u>How Can We Unlock Our Vivo S17e Phone Screen?</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-poco-c65-mirror-screen-to-pc-drfone-by-drfone-android/"><u>In 2024, How Poco C65 Mirror Screen to PC? | Dr.fone</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-navigating-the-free-path-of-fcp/"><u>In 2024, Navigating the Free Path of FCP</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/perfect-ending-for-youtubers-best-practices-and-pro-files-for-2024/"><u>Perfect Ending for YouTubers Best Practices and Pro Files for 2024</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/ways-to-trade-pokemon-go-from-far-away-on-apple-iphone-12-mini-drfone-by-drfone-virtual-ios/"><u>Ways to trade pokemon go from far away On Apple iPhone 12 mini? | Dr.fone</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-smooth-streaming-selective-stabilizer-guidebook/"><u>[New] 2024 Approved Smooth Streaming Selective Stabilizer Guidebook</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-2024-approved-simple-routines-for-documenting-digital-dialogues-on-os-xpc/"><u>[Updated] 2024 Approved Simple Routines for Documenting Digital Dialogues on OS X/PC</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-securing-snapshots-innovative-approaches-to-face-pixilation/"><u>[Updated] Securing Snapshots Innovative Approaches to Face Pixilation</u></a></li>
+<li><a href="https://win11.techidaily.com/wmvavi/"><u>「WMVファイルの効率的なAVIへの変換手順 - トップ３」</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-retroactive-video-mastery-for-android-users/"><u>2024 Approved Retroactive Video Mastery for Android Users</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/conversion-gratuite-de-fichier-raw-en-format-bmp-utilisation-facile-avec-movavi/"><u>Conversion Gratuite De Fichier RAW en Format BMP - Utilisation Facile Avec Movavi</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/customize-your-kodi-19-with-djay-theme-magic-installation-tutorial/"><u>Customize Your Kodi 19 with DJay Theme Magic - Installation Tutorial</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/gratuito-convertidor-de-audio-entre-formatos-flac-mp3-y-ogg-movavi/"><u>Gratuito Convertidor De Audio Entre Formatos FLAC, MP3 Y OGG - Movavi</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-15-best-strongest-pokemon-to-use-in-pokemon-go-pvp-leagues-for-apple-iphone-6-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, 15 Best Strongest Pokémon To Use in Pokémon GO PvP Leagues For Apple iPhone 6 Plus | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-ways-to-stop-parent-tracking-your-tecno-spark-10-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Ways to stop parent tracking your Tecno Spark 10 5G | Dr.fone</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/joining-the-movavi-family-partner-program-opportunities/"><u>Joining the Movavi Family: Partner Program Opportunities</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/perfect-photos-on-iphone-illumination-secrets/"><u>Perfect Photos on IPhone Illumination Secrets</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/purchase-movavi-advanced-photo-editing-software-today/"><u>Purchase Movavi Advanced Photo Editing Software Today</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/rmvb-m4v/"><u>RMVB 파일을 M4V로 오픈 원단으로 제공 - 모바비</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/top-5-screen-recording-tools-to-enhance-your-digital-art-creations/"><u>Top 5 Screen Recording Tools to Enhance Your Digital Art Creations</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/top-free-video-editing-tools-and-machines-compatible-with-win11win8win7-get-your-list-now/"><u>Top Free Video Editing Tools and Machines Compatible with Win11/Win8/Win7 – Get Your List Now!</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/3gpp-wmv-movavi/"><u>오늘날의 가장 최신 방법: 웹 블로그에서 자원 없이 3GPP WMV 비디오 변환 – Movavi</u></a></li>
 </ul></div>
 

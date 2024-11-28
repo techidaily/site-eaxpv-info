@@ -1,7 +1,7 @@
 ---
 title: "Mastering MacOS Monterey: Building Personalized Focusing Modes for Enhanced Productivity | Insights From ZDNet"
-date: 2024-11-17T16:42:37.905Z
-updated: 2024-11-19T21:45:45.642Z
+date: 2024-11-24T17:05:57.730Z
+updated: 2024-11-28T17:32:56.277Z
 tags:
   - apple
 categories:
@@ -29,10 +29,7 @@ So, how do you create this custom Flow? Let me show you. All you'll need to make
 ## Create a custom Focus
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111994/7443" target="_top" id="2111994">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111994" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111994/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 1\. Open System Preferences
@@ -40,10 +37,7 @@ So, how do you create this custom Flow? Let me show you. All you'll need to make
 Click on the Apple menu in the top left corner of your desktop. From the resulting pop-up menu, click System Preferences.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880931/19272" target="_top" id="1880931">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880931" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880931/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 2\. Access Notifications & Focus
@@ -62,6 +56,10 @@ Once Notifications & Focus is opened, click the Focus tab (**Figure 2**).
 
 Image: Jack Wallen
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 4\. Create the new Focus
 
 Click + at the bottom left corner of the window and select Custom (**Figure 3**).
@@ -79,10 +77,7 @@ Image: Jack Wallen
 After naming and selecting a color/icon, click Add to save the new Focus.
 
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1815678/21290" target="_top" id="1815678">
-  <img src="//a.impactradius-go.com/display-ad/21290-1815678" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815678/21290" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 5\. Allowing specific notifications
@@ -100,10 +95,7 @@ From the pop-up list, select the contact(s) you want to be allowed to interrupt 
 Image: Jack Wallen
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105863/7443" target="_top" id="2105863">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105863" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105863/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 6\. Set the Focus to be enabled
@@ -148,18 +140,24 @@ Use this new Focus feature wisely, and it will help you be more productive while
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-11-free-youtube-audio-rippers-to-download-audio-from-youtube-for-2024/"><u>[New] 11 FREE YouTube Audio Rippers to Download Audio From YouTube for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-fast-techniques-for-reordering-youtube-video-queues/"><u>[New] 2024 Approved Fast Techniques for Reordering YouTube Video Queues</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-flashglimpse-crafter/"><u>[New] In 2024, FlashGlimpse Crafter</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-fix-the-youtube-shorts-not-showing-up-issue/"><u>[New] In 2024, How to Fix the YouTube Shorts Not Showing Up Issue?</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-guide-to-profiting-from-youtube-shorts-key-requirements-and-potential-income/"><u>[Updated] 2024 Approved Guide to Profiting From YouTube Shorts Key Requirements & Potential Income</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-validate-your-youtube-profile-a-simple-guide-for-2024/"><u>[Updated] How to Validate Your YouTube Profile? A Simple Guide for 2024</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/approved-essential-7-android-apps-to-eliminate-intrusive-ads/"><u>2024 Approved Essential 7 Android Apps to Eliminate Intrusive Ads</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-mirrorless-vs-dslr-cameras-which-is-better-for-videos/"><u>2024 Approved Mirrorless Vs. DSLR Cameras Which Is Better for Videos?</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/advanced-io-screen-capturing-techniques/"><u>Advanced IO Screen Capturing Techniques</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/discover-lenovos-innovative-technique-for-iphone-data-exchange-in-their-latest-laptop-models/"><u>Discover Lenovo's Innovative Technique for iPhone Data Exchange in Their Latest Laptop Models</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-everything-to-know-about-apple-id-password-requirements-for-apple-iphone-8-by-drfone-ios/"><u>In 2024, Everything To Know About Apple ID Password Requirements For Apple iPhone 8</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-your-vivo-v29-pro-location-on-twitter-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change your Vivo V29 Pro Location on Twitter | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/will-mov-files-play-on-redmi-note-13-proplus-5g-by-aiseesoft-video-converter-play-mov-on-android/"><u>Will MOV files play on Redmi Note 13 Pro+ 5G ?</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-mastering-visual-communication-title-and-caption-overlays-on-video-clips-via-photos/"><u>[New] In 2024, Mastering Visual Communication Title & Caption Overlays on Video Clips via Photos</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-speech-file-extract-and-critical-assessment/"><u>[New] Speech File Extract & Critical Assessment</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-ultimate-mc-village-dwellings-guide/"><u>[Updated] In 2024, Ultimate MC Village Dwellings Guide</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/1-how-to-fix-itunes-ignoring-your-ipod-touch-on-windows-10-step-by-step-guide/"><u>1. How to Fix iTunes Ignoring Your iPod Touch on Windows 10 - Step-by-Step Guide</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-todays-vr-an-inside-look/"><u>2024 Approved Today’s VR An Inside Look</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/5-leading-dvd-copying-tools-for-windows-10-comprehensive-reviews-and-comparisons/"><u>5 Leading DVD Copying Tools for Windows 10 - Comprehensive Reviews and Comparisons</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/windows-11-dvd-iphoneipad-androidavi-mp4-h260/"><u>最优Windows 11 DVD转码器 - 专为iPhone/iPad Android设计的免费转换AVI MP4 H260媒体</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/ai-interpolation-of-frames-enhancing-fps-and-smooth-video-transitions/"><u>AI Interpolation of Frames: Enhancing FPS and Smooth Video Transitions</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/apoiar-pesquisa-cientifica/"><u>Apoiar Pesquisa Científica</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/bitots-spots-are-indicative-of-vitamin-a-deficiency-but-may-also-suggest-broader-nutritional-issues-such-as-malabsorption-syndromes-like-celiac-disease-or-c90/"><u>Bitot's Spots Are Indicative of Vitamin A Deficiency but May Also Suggest Broader Nutritional Issues Such as Malabsorption Syndromes Like Celiac Disease or Cystic Fibrosis.</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/free-online-guide-transforming-avi-video-files-into-mkv-using-vlc-and-handbrake-software/"><u>Free Online Guide: Transforming AVI Video Files Into MKV Using VLC and Handbrake Software</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/video-views-to-vault-closure-income-insights-for-youtubers-for-2024/"><u>From Video Views to Vault Closure Income Insights for Youtubers for 2024</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-best-anti-tracker-software-for-google-pixel-fold-drfone-by-drfone-virtual-android/"><u>In 2024, Best Anti Tracker Software For Google Pixel Fold | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-everything-you-need-to-know-about-unlocked-apple-iphone-12-pro-drfone-by-drfone-ios/"><u>In 2024, Everything You Need To Know About Unlocked Apple iPhone 12 Pro | Dr.fone</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/optimal-pixel-dimensions-and-proportions-the-ultimate-guide-for-stable-diffusion-imagery/"><u>Optimal Pixel Dimensions & Proportions: The Ultimate Guide for Stable Diffusion Imagery</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/simultaneously-capturing-your-screen-and-video-footage-a-comprehensive-guide/"><u>Simultaneously Capturing Your Screen and Video Footage: A Comprehensive Guide</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/strategic-youtube-content-publishing-to-boost-view-counts-for-2024/"><u>Strategic YouTube Content Publishing to Boost View Counts for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/top-10-premium-pc-based-video-editors-a-comprehensive-ranking/"><u>Top 10 Premium PC-Based Video Editors: A Comprehensive Ranking</u></a></li>
+<li><a href="https://win-able.techidaily.com/transform-your-photos-into-masterpieces-with-office-2010s-design-tools/"><u>Transform Your Photos Into Masterpieces with Office 2010'S Design Tools</u></a></li>
 </ul></div>
 

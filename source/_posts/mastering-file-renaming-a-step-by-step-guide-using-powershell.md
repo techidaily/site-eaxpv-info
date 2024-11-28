@@ -1,7 +1,7 @@
 ---
 title: "Mastering File Renaming: A Step-by-Step Guide Using PowerShell"
-date: 2024-08-30T16:49:04.798Z
-updated: 2024-08-31T16:49:04.798Z
+date: 2024-11-26T16:36:55.349Z
+updated: 2024-11-28T18:28:03.313Z
 tags:
   - desktop
 categories:
@@ -21,6 +21,10 @@ thumbnail: https://thmb.techidaily.com/fe3425cd8bd2ff0c1232de1bab83bce21e82181cb
 
  PowerShell makes renaming files from the command line super easy. You can use specific names, add increasing numbers, add prefixes and suffixes, and even append timestamps. We’ll show you how to do that all on your Windows 11 or Windows 10 computer.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Before You Begin: Learn How to Find a File or Folder’s Full Path
 
  To rename files, you’ll have to provide PowerShell with your file or parent folder’s full path. If you know how to do this, skip to the relevant section below. If you aren’t quite sure [how to get a folder or file’s full path](https://fox-links.techidaily.com/updated-2024-approved-unparalleled-screenplay-craftsmanship-across-varied-fields/), we’ll show you.
@@ -29,11 +33,12 @@ thumbnail: https://thmb.techidaily.com/fe3425cd8bd2ff0c1232de1bab83bce21e82181cb
 
 !['Copy as Path' highlighted in Windows 11's context menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/1-copy-file-path-windows.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  That action has copied your selected item’s full path to your clipboard. You can now [paste this path](https://twitter-videos.techidaily.com/new-in-2024-gain-twitter-gifs-for-pc-download-made-simple/) wherever required in the commands below.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
-<!-- affiliate ads end -->
 ##  How to Rename a Specific File
 
  To give a new name to a specific file on your PC, use PowerShell’s Rename-Item [cmdlet](https://extra-guidance.techidaily.com/new-prophotomaster-the-ai-enhanced-editing-edge/). This cmdlet takes your file’s full path, the new name you want to assign, and renames your file.
@@ -53,8 +58,9 @@ Rename-Item "C:\Users\Username\Desktop\Old-Test.txt" -NewName “New-Test.txt”
  PowerShell won’t display a message confirming your file is renamed, but know that the job is done.
 
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  How to Rename Files in a Folder With an Increasing Number
 
  If you want to add an increasing number, such as 1, 2, 3, and so on, to your files in a specific folder, follow these steps.
@@ -66,12 +72,9 @@ Get-ChildItem PATH -Recurse -Include "*.txt" | ForEach-Object -Begin { $Counter 
 ![Files with an increasing number in File Explorer.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/3-add-numbers-to-file-names.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+
 ##  How to Add a Prefix or Suffix to a File Name
 
  To add text before your file name (known as a prefix), launch a PowerShell window and enter the following command. Replace **PATH** with your folder's full path, and **PREFIX** with the text you want to append, then press Enter.
@@ -82,9 +85,6 @@ Get-ChildItem PATH | Rename-Item -NewName {"PREFIX" + $_.Name}
 
 Get-ChildItem PATH | Rename-Item -NewName {$_.BaseName + "SUFFIX" + $_.Extension}
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 ##  How to Add Timestamps to All Files in a Folder
 
  If you want to add a timestamp to all the files in a folder, open PowerShell and type the following command. Replace **PATH** with the full path to your folder, and press Enter.
@@ -94,8 +94,9 @@ Get-ChildItem PATH -Recurse -Include "*.*" | ForEach-Object { Rename-Item -Path 
 ![Files with timestamp in File Explorer.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/4-add-timestamp-to-file-names.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  The above command uses your computer’s system time. If that time is incorrect, it’s possible to [change the timezone on your Windows 11](https://instagram-videos.techidaily.com/new-2024-approved-harnessing-the-power-of-hashtags-to-amplify-your-igtv-content/) and [Windows 10](https://extra-support.techidaily.com/in-2024-leveraging-daylight-in-home-interiors/) PC.
 
 ---
@@ -108,8 +109,6 @@ Get-ChildItem PATH -Recurse -Include "*.*" | ForEach-Object { Rename-Item -Path 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -117,4 +116,24 @@ Get-ChildItem PATH -Recurse -Include "*.*" | ForEach-Object { Rename-Item -Path 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-getting-started-on-youtube-setting-up-and-generating-income/"><u>[New] 2024 Approved Getting Started on YouTube Setting Up & Generating Income</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-affordable-options-selecting-the-right-cam-for-your-needs-for-2024/"><u>[New] Affordable Options Selecting the Right Cam for Your Needs for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-avoiding-storage-woes-removing-youtube-media-for-2024/"><u>[New] Avoiding Storage Woes Removing YouTube Media for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-best-cameras-to-amplify-your-yt-presence-for-2024/"><u>[New] Best Cameras to Amplify Your YT Presence for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-viewer-payouts-for-video-engagement/"><u>[New] Viewer Payouts for Video Engagement</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-charisma-in-characters-two-ways-to-enliven-text/"><u>[Updated] 2024 Approved Charisma in Characters Two Ways to Enliven Text</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-expert-tutorials-on-precision-digital-video-capture-for-2024/"><u>[Updated] Expert Tutorials on Precision Digital Video Capture for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-avoiding-blur-techniques-for-hand-held-stability/"><u>[Updated] In 2024, Avoiding Blur Techniques for Hand-Held Stability</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-shegames-legends-youtubes-number-one-ten/"><u>[Updated] SheGames Legends YouTube's Number One Ten</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-visionaries-of-marvellous-marvel-realities/"><u>[Updated] Visionaries of Marvellous Marvel Realities</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-a-prism-of-design-from-theory-to-practice/"><u>2024 Approved A Prism of Design From Theory to Practice</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/conquering-the-challenge-of-microsoft-powerpoint-prints-on-windows/"><u>Conquering the Challenge of Microsoft PowerPoint Prints on Windows</u></a></li>
+<li><a href="https://blog-min.techidaily.com/enhance-your-broadcasts-using-manycam-the-ultimate-virtual-webcam-solution/"><u>Enhance Your Broadcasts Using ManyCam - The Ultimate Virtual Webcam Solution</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/evaluating-the-risk-can-you-be-let-go-for-using-chatgpt-in-these-10-work-scenarios/"><u>Evaluating the Risk: Can You Be Let Go For Using ChatGPT in These 10 Work Scenarios?</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/24-game-developers-top-recording-tools/"><u>In 2024, Game Developers' Top Recording Tools</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-unlocking-made-easy-the-best-10-apps-for-unlocking-your-realme-gt-5-device-by-drfone-android/"><u>In 2024, Unlocking Made Easy The Best 10 Apps for Unlocking Your Realme GT 5 Device</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/top-imei-unlokers-for-your-honor-x50-gt-phone-by-drfone-android/"><u>Top IMEI Unlokers for Your Honor X50 GT Phone</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Understanding the Mechanisms of Nightshade Toxins, Ceramic Glazes, and Artificial Intelligence Neurotoxins
-date: 2024-08-30T16:51:29.200Z
-updated: 2024-08-31T16:51:29.200Z
+date: 2024-11-22T16:09:30.244Z
+updated: 2024-11-28T16:25:33.454Z
 tags:
   - cutting-edge
 categories:
@@ -11,6 +11,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ## Understanding the Mechanisms of Nightshade Toxins, Ceramic Glazes, and Artificial Intelligence Neurotoxins
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * AI poisons alter training data to render it useless or damage AI models, acting as a form of protest or self-protection by artists.
@@ -19,6 +23,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  Science-fiction stories have led us to believe that the war between humans and AI would involve more explosions, but in reality the fight against our synthetic friends has taken a much more subtle, but perhaps equally effective turn.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  What Is AI Poison?
 
  With generative AI such as [GPT](https://pokemon-go-android.techidaily.com/in-2024-15-best-strongest-pokemon-to-use-in-pokemon-go-pvp-leagues-for-honor-x50i-drfone-by-drfone-virtual-android/) or [DALL-E](https://some-skills.techidaily.com/tailored-titling-for-stellar-online-video-content-for-2024/), these programs develop their ability to create writing, music, video, and images by learning from absolutely massive datasets.
@@ -26,6 +34,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  This is how a program like MidJourney can create any arbitrary image you ask for, like "A cigar-smoking unicorn in the style of Van Gogh" or "A robot drinking poison" as I somewhat ironically asked MidJourney to draw. This is certainly an amazing ability for a computer program to have, and the results have improved in leaps and bounds.
 
 ![A Smoking Unicorn in the style of Van Gogh.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/smoking-unicorn.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Sydney Louw Butler / MidJourney / How-To Geek
 
@@ -38,9 +50,9 @@ Sydney Louw Butler / MidJourney / How-To Geek
  When an AI model is trained on enough of these "poisoned" images, its ability to generate accurate or coherent images based on its training data is compromised. The AI might start producing distorted images or completely incorrect interpretations of certain prompts.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Why Do AI Poisons Exist?
 
  As I mentioned briefly above, AI poison tools exist to give artists (in the case of visual content) a way to fight back against having their images used to train AI models. There are a few reasons why they're concerned, including but not limited to:
@@ -54,8 +66,9 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
  So these poisons could be seen as both a practical form of self-protection, and as a form of protest.
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Is This Too Little Too Late?
 
  While the idea of AI poisons to prevent AI art models from using certain images is interesting, it may be too late for this to achieve the goals that drove their invention in the first place.
@@ -76,8 +89,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -85,4 +96,24 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-beginners-bible-to-your-youtube-audio-visual-arsenal/"><u>[New] 2024 Approved Beginner's Bible to Your YouTube Audio-Visual Arsenal</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-ranking-the-most-effortlessly-successful-youtube-content/"><u>[New] 2024 Approved Ranking the Most Effortlessly Successful YouTube Content</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-discover-the-best-12-free-and-paid-video-game-openings-for-yt-for-2024/"><u>[New] Discover the Best 12 Free and Paid Video Game Openings for YT for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-enhance-listening-pleasure-constructing-a-youtube-playlist/"><u>[New] In 2024, Enhance Listening Pleasure Constructing a YouTube Playlist</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-unlinking-from-youtube-shorts-the-complete-process/"><u>[New] Unlinking From YouTube Shorts - The Complete Process</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-tactics-and-techniques-for-thriving-in-spotifys-adverse/"><u>[Updated] 2024 Approved Tactics and Techniques for Thriving in Spotify's Adverse</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-amplify-your-voice-on-youtube-mastery-through-tubebuddy-for-2024/"><u>[Updated] Amplify Your Voice on YouTube - Mastery Through TubeBuddy for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-from-script-to-spectacle-independent-effect-innovation-for-2024/"><u>[Updated] From Script to Spectacle Independent Effect Innovation for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-best-8-mirrorless-cameras-to-elevate-your-vlogging-game/"><u>[Updated] In 2024, Best 8 Mirrorless Cameras to Elevate Your Vlogging Game</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-mastering-youtube-metrics-for-effective-content-strategy/"><u>[Updated] Mastering YouTube Metrics for Effective Content Strategy</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-professional-3d-creation-software-for-video-startups/"><u>[Updated] Professional 3D Creation Software for Video Startups</u></a></li>
+<li><a href="https://howto.techidaily.com/8-ultimate-fixes-for-google-play-your-htc-u23-pro-isnt-compatible-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Ultimate Fixes for Google Play Your HTC U23 Pro Isnt Compatible | Dr.fone</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/cultivate-a-thriving-igtv-community-5-key-increase-strategies-for-2024/"><u>Cultivate a Thriving IGTV Community 5 Key Increase Strategies for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/expediting-video-aggregation-from-tiktok-in-a-flash-for-2024/"><u>Expediting Video Aggregation From TikTok in a Flash for 2024</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-from-honor-100-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock from Honor 100 Devices</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/1722889164468-resolving-the-netflix-issue-understanding-and-repairing-error-code-ui-800-3/"><u>Resolving the Netflix Issue: Understanding and Repairing Error Code UI-800-3</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unrestricted-media-playback-free-on-windows-and-macos-for-2024/"><u>Unrestricted Media Playback FREE on Windows & MacOS for 2024</u></a></li>
+</ul></div>
 

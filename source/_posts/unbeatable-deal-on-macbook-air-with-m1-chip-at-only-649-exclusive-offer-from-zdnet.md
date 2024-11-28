@@ -1,7 +1,7 @@
 ---
 title: Unbeatable Deal on MacBook Air with M1 Chip at Only $649 - Exclusive Offer From ZDNet
-date: 2024-11-12T20:56:11.694Z
-updated: 2024-11-19T17:07:18.219Z
+date: 2024-11-27T18:39:14.342Z
+updated: 2024-11-28T16:09:26.339Z
 tags:
   - apple
 categories:
@@ -41,6 +41,10 @@ At $649, this is the lowest price for the M1 version of the MacBook Air that we'
 
 The [M1 MacBook Air](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fmacbook-air-13-3-laptop-apple-m1-chip-8gb-memory-256gb-ssd-space-gray-space-gray%2F5721600.p%3FskuId%3D5721600&publisher_slug=itechdaily19598&exclusive=1) first retailed for $999 when it was released, but Apple sells refurbished versions for $799, making these deals even better than anything Apple is offering. The [M1 MacBook Air](https://goto.walmart.com/c/5597632/565706/9383?sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FApple-MacBook-Air-13-3-inch-Laptop-Silver-M1-Chip-8GB-RAM-256GB-storage%2F609040889&subId1=zd-__COM_CLICK_ID__-dtp) is available in three different colors: gold, space gray, and silver. Snag these savings while you can. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## When will this deal expire?
 
 Walmart's new partnership with Apple allows them to sell computers and laptops directly to customers, a first for the retailer. As such, there's no expiration date for the M1 MacBook Air for $649, but they almost certainly won't stay in stock long at this price. Similarly, Best Buy's $699 price has potential to sell out quick, too. 
@@ -77,22 +81,21 @@ However, deals are subject to sell out or expire at any time, though ZDNET remai
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/024-approved-take-your-smartphone-cinematography-to-new-heights-with-these-9-accessories/"><u>[New] 2024 Approved Take Your Smartphone Cinematography to New Heights with These 9 Accessories</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/new-achieving-flawless-fb-live-via-zoom-streaming/"><u>[New] Achieving Flawless FB Live via Zoom Streaming</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-from-youtube-streams-to-local-files-audio-guide-for-2024/"><u>[New] From YouTube Streams to Local Files Audio Guide for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-future-of-cosmetics-youtube-gurus-on-the-rise-for-2024/"><u>[New] Future of Cosmetics YouTube Gurus on the Rise for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-hashtag-hacks-for-amplifying-gamer-content/"><u>[Updated] 2024 Approved Hashtag Hacks for Amplifying Gamer Content</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-formulating-impressive-online-media-introductions/"><u>[Updated] In 2024, Formulating Impressive Online Media Introductions</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/2024-approved-advanced-guide-to-mastering-the-art-of-morphvox-audio-transformation/"><u>2024 Approved Advanced Guide to Mastering the Art of MorphVOX Audio Transformation</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/how-to-transfer-apple-iphone-xs-max-data-to-iphone-12-a-complete-guide-drfone-by-drfone-transfer-from-ios/"><u>How to Transfer Apple iPhone XS Max Data to iPhone 12 A Complete Guide | Dr.fone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/innovative-teaching-tactics-integrating-modern-technology-into-classroom-curricula/"><u>Innovative Teaching Tactics: Integrating Modern Technology Into Classroom Curricula</u></a></li>
-<li><a href="https://games-able.techidaily.com/masterful-gameplay-in-cs2-a-complete-guide-for-mac-gamers/"><u>Masterful Gameplay in CS2 - A Complete Guide for Mac Gamers</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/024-approved-the-new-face-of-collaboration-video-events-post-vidcon/"><u>[New] 2024 Approved The New Face of Collaboration Video Events Post-VidCon</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-behind-the-scenes-mastering-the-craft-of-streaming-archiving/"><u>[New] Behind the Scenes Mastering the Craft of Streaming Archiving</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-the-ultimate-skype-recorder-guide/"><u>[Updated] In 2024, The Ultimate Skype Recorder Guide</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-focusing-on-content-reach-sharing-igtv-across-platforms/"><u>2024 Approved Focusing on Content Reach Sharing IGTV Across Platforms</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-unmatched-8-visual-effects-for-smooth-live-videos/"><u>2024 Approved Unmatched 8 Visual Effects for Smooth Live Videos</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/windows-mac-androidios/"><u>安定電腦、平板或智能手機上的視頻 - Windows, Mac, Android和iOS使用指南</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/acceder-gratuitement-a-une-bibliotheque-dapplications-video-winx-convertisseur-ripper-dvd-and-downloader-en-un-seul-endroit/"><u>Accéder Gratuitement À Une Bibliothèque D'Applications Vidéo - WinX Convertisseur, Ripper DVD & Downloader en Un Seul Endroit!</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/digiarty-contact-points-connecting-you-with-expertise/"><u>Digiarty Contact Points: Connecting You with Expertise</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/how-to-use-canva-and-chatgpt-to-bulk-create-content-designs/"><u>How to Use Canva and ChatGPT to Bulk Create Content Designs</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/24-dial-up-the-impact-with-50-free-branding-graphics/"><u>In 2024, Dial Up the Impact with 50 FREE Branding Graphics</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-art-of-visual-communication-video-creation-techniques-in-windows-10/"><u>In 2024, The Art of Visual Communication Video Creation Techniques in Windows 10</u></a></li>
+<li><a href="https://program-issues.techidaily.com/master-guide-how-to-get-your-lost-ark-game-running-again/"><u>Master Guide: How to Get Your Lost Ark Game Running Again</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/mastering-video-trimming-techniques-in-adobe-after-effects-for-beginners/"><u>Mastering Video Trimming Techniques in Adobe After Effects for Beginners</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/resolved-issues-faced-by-windows-media-player-during-audiovideo-playback/"><u>Resolved: Issues Faced by Windows Media Player During Audio/Video Playback</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/simple-solutions-when-your-windows-pc-cant-detect-an-ipad-in-itunes/"><u>Simple Solutions When Your Windows PC Can't Detect an iPad in iTunes</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/top-10-solutions-for-troubleshooting-your-pcs-webcam-issues-in-windows-1011/"><u>Top 10 Solutions for Troubleshooting Your PC's Webcam Issues in Windows 10/11</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925570/19272" target="_top" id="1925570">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925570" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925570/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 

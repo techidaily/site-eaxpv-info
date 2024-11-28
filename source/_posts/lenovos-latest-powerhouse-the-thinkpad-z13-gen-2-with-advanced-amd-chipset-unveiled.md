@@ -1,7 +1,7 @@
 ---
 title: "Lenovo's Latest Powerhouse: The ThinkPad Z13 Gen 2 with Advanced AMD Chipset Unveiled!"
-date: 2024-08-30T16:49:33.427Z
-updated: 2024-08-31T16:49:33.427Z
+date: 2024-11-22T17:47:57.037Z
+updated: 2024-11-28T17:06:52.027Z
 tags:
   - desktop
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://thmb.techidaily.com/b3641ebe2988ec7265ef07a79816e61c990d023d2
 ---
 
 ## Lenovo's Latest Powerhouse: The ThinkPad Z13 Gen 2 with Advanced AMD Chipset Unveiled!
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -128,6 +132,10 @@ Expand
 
 ![Rear angled view of the open Lenovo Z13 Gen 2.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/02/rear-angled-view-of-the-open-lenovo-z13-gen-2-2jpg_53480774019_o.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Sergio Rodriguez / How-To Geek
 
  Made of sturdy recycled aluminum, the ThinkPad Z13 Gen 2 laptop's build looks and feels premium. Although the top lid is slim, it doesn't feel too flimsy. The bottom is weighty enough to feel great while typing or holding the laptop without being too heavy. Those familiar with the [Z13 Gen 1](https://buynow-tips.techidaily.com/nintendo-showdown-a-comparative-analysis-of-switch-lite-and-oled-models/) will notice that the Gen 2 bypassed the vegan leather look and instead offers, if you so choose, a "flax fiber with bronze aluminum" design. Mine was the standard "Arctic Grey" version.
@@ -137,6 +145,10 @@ Sergio Rodriguez / How-To Geek
 Close 
 
  The laptop's base houses the large 10keyless chiclet keyboard, which also includes a customizable TrackPoint button. The keyboard takes up about 60% of the surface area, and right below it is a 2.79 by 4.72-inch glass-surface touchpad.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ###  Ports: Two Good Ones... and Nothing Else
 
@@ -167,8 +179,9 @@ Sergio Rodriguez / How-To Geek
 ![The Lenovo ThinkPad Z13 Gen2 laptop playing a nature video of a puffin.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/02/graphics-hero-image-youtube-screenshot.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Cianna Garrison / How-To Geek
 
 _BBC Earth_
@@ -201,9 +214,6 @@ Sergio Rodriguez / How-To Geek
 
 ![The closed Lenovo Z13 Gen 2 laptop.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/02/the-closed-lenovo-z13-gen-2-laptop-4jpg_53480466146_o.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Sergio Rodriguez / How-To Geek
 
  I enjoyed listening to music as I worked via the two AI-powered 2W Dolby Atmos speakers, but I had to turn the volume up to about 80 to 100% for it to be a good volume. That said, I didn't notice much distortion, even when listening to crunchy guitar-laden music like the blues or hard rock. But I found the speakers sounded the best when recordings were more simplistic, focusing on one to three instruments and vocals more than a complex, noisy blend, such as some vocal-heavy jazz tracks from Chet Baker and Etta James. The speakers do have a sort of condensed quality to them, but this is nothing I wouldn't expect from most laptop speaker systems, which are still sorely behind in audio quality compared to external speakers and even [some smartphone speakers](https://screen-mirror.techidaily.com/full-guide-on-mirroring-your-honor-magic5-ultimate-to-your-pcmac-drfone-by-drfone-android/). Of course, you can always [improve the sound of the laptop's speakers](https://extra-guidance.techidaily.com/revolutionize-note-taking-with-mematic-app-for-2024/) by investing in some [desktop speaker systems](https://some-approaches.techidaily.com/new-synergizing-visual-cues-with-the-right-musical-choices/) or using [good-quality wired headphones](https://mondly-stories.techidaily.com/perfezionamento-dei-numeri-italiani-per-la-comunicazione-da-1-1000/).
@@ -217,43 +227,35 @@ Close
 ### 
 
 <!-- affiliate ads begin -->
-<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+### 
+
 ### 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
-<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
-### 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
-<!-- affiliate ads end -->
 ##  Battery and Charging: Long-Lasting Battery Life
 
 ![The Lenovo Z13 Gen 2 with its charger.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/02/the-lenovo-z13-gen-2-with-its-chargerjpg_53480870670_o.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Sergio Rodriguez / How-To Geek
 
  The battery life for the Z13 Gen 2 is sitting somewhere between average and above average, and it charges relatively fast, too, so if you're on the go, it's not a laptop that will drain so quickly you'll be plugging in every hour, but you will need to charge up at least once per day if you use it longer than three hours at a time. On average, the battery drained 0.38% every minute, or about 22.8% per hour (about 100% drain in two hours and 36 minutes. It charged up quickly, averaging 1.04% battery gain per minute, which equals a 62.4% charge in one hour.
 
  My experience with the battery makes the up to 16.5-hour MobileMark score seem a bit high, but I kept it consistently at 300 to 400 nits, while the benchmark measured performance at 250 nits.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
-<!-- affiliate ads end -->
 ##  Should You Buy the Lenovo ThinkPad Z13 Gen 2 (AMD) Laptop?
 
 ![The closed Lenovo Z13 Gen 2 laptop.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/02/the-closed-lenovo-z13-gen-2-laptop-2jpg_53480775254_o.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Sergio Rodriguez / How-To Geek
 
  The [ThinkPad Z13 Gen 2](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.lenovo.com%2Fus%2Fen%2Fp%2Flaptops%2Fthinkpad%2Fthinkpadz%2Fthinkpad-z13-gen-2-%2813-inch-amd%29%2Flen101t0073) is a premium offering that's a good choice for anyone who travels a lot or wants a portable laptop with decent processing power. However, it has some weaknesses in terms of its speaker system, an occasional lag when heavily multitasking, and a lack of port options that might make this a poor choice for you. If you're looking for something different, the [ThinkPad Z16 Gen 2](https://digital-screen-recording.techidaily.com/updated-in-2024-experts-guide-to-the-best-ipad-voice-recording-tools-3/) performed better in some of these categories, as did the [ThinkPad X1 Carbon Gen 10](https://extra-hints.techidaily.com/cinematographic-cuisine-expert-tips-on-filming-edibles/).
@@ -263,8 +265,9 @@ Sergio Rodriguez / How-To Geek
 ![The Lenovo Z13 Gen 2 open.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/3hkubxx903po29y50bbq45fk4feyo0833940.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 #####  Lenovo ThinkPad Z13 Gen 2
 
 7/ 10 
@@ -279,8 +282,6 @@ The Lenovo ThinkPad Z13 Gen 2 laptop is a premium portable option that suits stu
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -288,4 +289,22 @@ The Lenovo ThinkPad Z13 Gen 2 laptop is a premium portable option that suits stu
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-blog.techidaily.com/oost-engagement-crafting-effective-thumbnails/"><u>[New] Boost Engagement Crafting Effective Thumbnails</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-top-9-premium-wedding-films-online-youtube-and-vimeo/"><u>[New] Top 9 Premium Wedding Films Online Youtube & Vimeo</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-unveiling-youtubes-behind-the-scenes-editor-space/"><u>[New] Unveiling YouTube's Behind-the-Scenes Editor Space</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-boosting-views-mastering-hashtags-in-freefire-vids/"><u>[Updated] 2024 Approved Boosting Views Mastering Hashtags in FreeFire Vids</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-defending-your-videos-against-youtube-copyright-strikes/"><u>[Updated] 2024 Approved Defending Your Videos Against YouTube Copyright Strikes</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-building-a-successful-youtube-channel-sidestep-these-8-frequent-faux-pas/"><u>[Updated] In 2024, Building a Successful YouTube Channel Sidestep These 8 Frequent Faux Pas</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-mastering-the-art-of-sandbox-gaming/"><u>[Updated] Mastering the Art of Sandbox Gaming</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-quickcapture-simplified-windows-screen-record-for-2024/"><u>[Updated] QuickCapture Simplified Windows Screen Record for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-ultimate-list-of-16-key-youtube-videos-for-higher-engagement/"><u>[Updated] Ultimate List of 16 Key YouTube Videos for Higher Engagement</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-metaverse-chronicles-a-list-of-the-most-unforgettable-sci-fi-adventures-on-screen/"><u>2024 Approved Metaverse Chronicles A List of the Most Unforgettable Sci-Fi Adventures on Screen</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/best-android-data-recovery-retrieve-lost-contacts-from-realme-gt-5-240w-by-fonelab-android-recover-contacts/"><u>Best Android Data Recovery - Retrieve Lost Contacts from Realme GT 5 (240W).</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/24-channel-upgrade-plans-standard-studio-or-beta-revolution/"><u>In 2024, Channel Upgrade Plans Standard Studio or Beta Revolution</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-digital-footprint-reduction-for-media-safety/"><u>In 2024, Digital Footprint Reduction for Media Safety</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/mastering-multitasking-using-obs-studio-for-dynamic-streaming-for-2024/"><u>Mastering Multitasking Using OBS Studio for Dynamic Streaming for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/the-complete-youtubers-guide-to-editing-in-premiere-pro-for-2024/"><u>The Complete Youtuber's Guide to Editing in Premiere Pro for 2024</u></a></li>
+</ul></div>
 

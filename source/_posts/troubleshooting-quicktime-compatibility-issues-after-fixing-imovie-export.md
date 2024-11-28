@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting QuickTime Compatibility Issues After Fixing iMovie Export
-date: 2024-08-26 21:46:13
-updated: 2024-08-27 12:55:10
+date: 2024-11-24T18:56:55.872Z
+updated: 2024-11-28T18:22:37.100Z
 categories:
   - macxdvd
 thumbnail: https://thmb.techidaily.com/d77d95aa486b91c6469c5ee9cc4e937e8d3af5aa50ced6b44ad4148b7b19bd91.jpg
@@ -16,22 +16,31 @@ thumbnail: https://thmb.techidaily.com/d77d95aa486b91c6469c5ee9cc4e937e8d3af5aa5
 * [Support](https://tools.techidaily.com/macxdvd/products/)
 * [Free Download](https://tools.techidaily.com/macxdvd/products/)
 
-
-
 ![](https://www.macxdvd.com/mac-dvd-video-converter-how-to/../image-style/new-seo/icon7.png) [Home](https://tools.techidaily.com/macxdvd/products/) \> [how-tos](https://tools.techidaily.com/macxdvd/products/) \> [Apple resources](https://tools.techidaily.com/macxdvd/products/) \> iMovie File not Compatible with QuickTiime 
 
 ## \[Fixed\] iMovie Export File not Compatible with QuickTime Player 
-
-
 
 _If QuickTime can't open iMovie export projects, including MP4 files, read this post. Here are the fixes to the iMovie file not compatible with QuickTime, QuickTime can’t open movie errors._
 
 ![](https://www.macxdvd.com/mac-dvd-video-converter-how-to/../image-style/new-seo/icon6.png) By [Abby Poole](https://www.linkedin.com/in/abby-poole-6822b0104/) ｜Last updated on August 31, 2023 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 * [![](https://www.macxdvd.com/mac-dvd-video-converter-how-to/../image-style/new-seo/share-fa.jpg)](https://www.facebook.com/sharer/sharer.php?u=https://www.macxdvd.com/mac-dvd-video-converter-how-to/imovie-export-not-compatible-with-quicktime-fixed.htm)
 * [![](https://www.macxdvd.com/mac-dvd-video-converter-how-to/../image-style/new-seo/share-tw.jpg)](https://twitter.com/intent/tweet?url=https://www.macxdvd.com/mac-dvd-video-converter-how-to/imovie-export-not-compatible-with-quicktime-fixed.htm)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 * [![](https://www.macxdvd.com/mac-dvd-video-converter-how-to/../image-style/new-seo/share-email.jpg)](https://www.macxdvd.com/mac-dvd-video-converter-how-to/mailto:info@example.com?&subject=&body=https://www.macxdvd.com/mac-dvd-video-converter-how-to/imovie-export-not-compatible-with-quicktime-fixed.htm)
 * [![](https://www.macxdvd.com/mac-dvd-video-converter-how-to/../image-style/new-seo/share-in.jpg)](https://www.linkedin.com/shareArticle?mini=true&url=https://www.macxdvd.com/mac-dvd-video-converter-how-to/imovie-export-not-compatible-with-quicktime-fixed.htm&title=&summary=https://www.macxdvd.com/mac-dvd-video-converter-how-to/imovie-export-not-compatible-with-quicktime-fixed.htm&source=)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 _Clicked the Share button, selected "File", and iMovie saved my movie in the appropriate location, in .mp4 format. But I tried to open the movie in QuickTime and QuickTime gives me a "converting" message and bar for a moment, and then the error message, "QuickTime player can't open moviename.mp4 To see if additional software is available that will enable QuickTime Player to open the movie, click Tell Me More.”_ 
 
@@ -40,6 +49,10 @@ _I exported a movie that I made using iMovie and the file it produced was an mp4
 Apple's own software QuickTime Player should have no problem playing the exported files from iMovie. Why it won't open the iMovie project saying the file is not compatible with QuickTime, even for MP4 exports? In this post, we're going to talk about why and what to do when your QuickTime can't open iMovie files.
 
 ![imovie project export not compatible with quicktime](https://www.macxdvd.com/mac-dvd-video-converter-how-to/article-image/imovie-not-play-qt.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## \[Quick Fix\] Convert iMovie Incompatible Video for QuickTime 
 
@@ -78,6 +91,10 @@ Check the final video and make sure the iMovie export is complete. Are there any
 
 ![quicktime can't open imovie MP4 export](https://www.macxdvd.com/mac-dvd-video-converter-how-to/article-image/temporary-files.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Convert the file to MP4/AAC
 
 If the QuickTime still can’t open an iMovie file, you can try to convert it into Mpeg-4/AAC with H.264 codec, even if it's already in MP4 format. This is to fix the "iMovie export not compatible with QuickTime" errors caused by format/codec issues. You can convert the iMovie export file using free tools like Handbrake, VLC, and MacX Video Converter. Here we take [MacX Video Converter](https://tools.techidaily.com/macxdvd/products/) to show you how:
@@ -98,17 +115,23 @@ Corrupted iMovie preferences may cause your iMovie project to become corrupted. 
 
 ![imovie mp4 not compatible with quicktime](https://www.macxdvd.com/mac-dvd-video-converter-how-to/article-image/imovie-preferences.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5\. The iMovie video is corrupted 
 
 Try open the iMovie export video in another video player like VLC. If the iMovie export file is not compatible with QuickTime and VLC (or other player), and it's not recognized as a valid source by a video converter, then the file might be corrupted and unplayable. 
 
  In this case, go to iMovie > click Edit >Select All > and Copy to transfer your media to a newly created project. Then export the movie and see if QuickTimePlayer will play it. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 6\. Check the output folder 
 
 Check where you store the iMovie export files. For example, if the iMovie project is stored on a volume with an incompatible file system format, QuickTime may not open the iMovie export video. If the iMovie files are stored on a volume that QuickTime does not have the necessary permissions, such as the volume used for Time Machine backups, you may also get the iMovie video could not be opened error in QuickTime. 
-
-
 
 Related Articles
 
@@ -126,6 +149,10 @@ Related Articles
 
 ![](https://www.macxdvd.com/mac-dvd-video-converter-how-to/../image-style/new-seo/pic4.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 [Hassle-free Fixes to iMovie Not Responding Problem](https://tools.techidaily.com/macxdvd/products/) 
 
 ![](https://www.macxdvd.com/mac-dvd-video-converter-how-to/../image-style/new-seo/pic3.jpg)
@@ -134,9 +161,11 @@ Related Articles
 
 ![](https://www.macxdvd.com/mac-dvd-video-converter-how-to/../image-style/new-seo/pic2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 [Fixed: iMovie Keeps Crashing Unexpectedly Problem](https://tools.techidaily.com/macxdvd/products/) 
-
-
 
 ![Digiarty Software](https://www.macxdvd.com/mac-dvd-video-converter-how-to/../icon/logo.png) 
 
@@ -164,8 +193,6 @@ Digiarty Software, Inc. (MacXDVD) is a leader in delivering stable multimedia so
 * [Contact Us >>](https://tools.techidaily.com/macxdvd/products/)
 * [Partner >>](https://tools.techidaily.com/macxdvd/products/)
 
-
-
 [Home](https://tools.techidaily.com/macxdvd/products/) | [About](https://tools.techidaily.com/macxdvd/products/) | [Privacy Policy](https://tools.techidaily.com/macxdvd/products/) | [Terms and Conditions](https://tools.techidaily.com/macxdvd/products/) | [License Agreement](https://tools.techidaily.com/macxdvd/products/) | [Resource](https://tools.techidaily.com/macxdvd/products/) | [News](https://tools.techidaily.com/macxdvd/products/) | [Contact Us](https://tools.techidaily.com/macxdvd/products/)
 
 Copyright © 2024 Digiarty Software, Inc (MacXDVD). All rights reserved
@@ -179,11 +206,30 @@ Digiarty Software is not developed by or affiliated with Apple Inc.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-cutting-edge-strategies-for-youtube-split-screen-videos/"><u>[New] 2024 Approved Cutting-Edge Strategies for YouTube Split-Screen Videos</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-2024-approved-mastering-spotifys-marketplace-for-ultimate-ad-success/"><u>[New] 2024 Approved Mastering Spotify's Marketplace for Ultimate Ad Success</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-top-6-nft-platforms-unlocking-creativity-for-artists/"><u>[Updated] Top 6 NFT Platforms Unlocking Creativity for Artists</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/ai-image-creation-not-every-picture-is-generated-by-artificial-intelligence/"><u>AI Image Creation: Not Every Picture Is Generated By Artificial Intelligence</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/ai-techniques-for-generating-elegant-qr-code-designs-complete-tutorial/"><u>AI Techniques for Generating Elegant QR Code Designs - Complete Tutorial</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/best-electric-vehicle-charger-apps-for-your-smartphone-what-you-should-install/"><u>Best Electric Vehicle Charger Apps for Your Smartphone: What You Should Install</u></a></li>
+<li><a href="https://win-great.techidaily.com/comment-resoudre-les-problemes-de-demarrage-doutlook-201/"><u>Comment Résoudre Les Problèmes De Démarrage D’Outlook 201</u></a></li>
+<li><a href="https://common-error.techidaily.com/error-code-28-decoded-repair-strategies-for-devices-flagged-in-windows-driver-management/"><u>Error Code 28 Decoded: Repair Strategies for Devices Flagged in Windows Driver Management</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/full-guide-to-unlock-iphone-14-plus-with-itunes-by-drfone-ios/"><u>Full Guide to Unlock iPhone 14 Plus with iTunes</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/in-2024-essential-hashtag-analyzers-facebook-twitter-and-instagram-edition/"><u>In 2024, Essential Hashtag Analyzers Facebook, Twitter & Instagram Edition</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-hype-generating-headline-author/"><u>In 2024, Hype-Generating Headline Author</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/mastering-the-art-of-ai-assisted-slides-crafting-engaging-powerpoint-presentations-with-chatgpt-and-midjourney/"><u>Mastering the Art of AI-Assisted Slides: Crafting Engaging PowerPoint Presentations with ChatGPT & MidJourney</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/step-by-step-guide-using-googles-gemini-ai-feature-on-your-iphone/"><u>Step-by-Step Guide: Using Google's Gemini AI Feature on Your iPhone</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/the-hidden-dangers-in-assuming-artificaminds-around-us-navigating-ai-recognition-pitfalls/"><u>The Hidden Dangers in Assuming Artificaminds Around Us - Navigating AI Recognition Pitfalls</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/why-choose-the-desktop-app-top-benefits-of-chatgpt-away-from-the-browser/"><u>Why Choose the Desktop App? Top Benefits of ChatGPT Away From the Browser</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/why-skepticism-persists-questioning-gemini-ais-ability-to-handle-duties/"><u>Why Skepticism Persists: Questioning Gemini AI's Ability to Handle Duties</u></a></li>
+</ul></div>
+

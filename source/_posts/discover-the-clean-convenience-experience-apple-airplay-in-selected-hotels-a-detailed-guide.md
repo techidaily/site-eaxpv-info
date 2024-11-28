@@ -1,7 +1,7 @@
 ---
 title: "Discover the Clean Convenience: Experience Apple AirPlay in Selected Hotels – A Detailed Guide"
-date: 2024-11-14T00:49:13.146Z
-updated: 2024-11-19T22:12:40.201Z
+date: 2024-11-23T16:00:26.926Z
+updated: 2024-11-28T17:29:40.646Z
 tags:
   - apple
 categories:
@@ -63,10 +63,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972693/19272" target="_top" id="1972693">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972693" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972693/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. During check-out, double-click the right-side button of your iPhone
@@ -77,6 +74,10 @@ Double-press the iPhone's right-side button to access Apple Pay.
 
 Maria Diaz/ZDNET
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4\. Enter your Apple Pay passcode or use Face ID to confirm payment
 
 Once you've tapped on a card from your iPhone's Wallet, you'll be prompted to enter your passcode or use Face ID to authorize and pay for your purchase using Apple Pay. 
@@ -84,19 +85,6 @@ Once you've tapped on a card from your iPhone's Wallet, you'll be prompted to en
 Enter your passcode to confirm Apple Pay payment.
 
 Maria Diaz/ZDNET
-
-<!-- affiliate ads begin -->
-<span id="1975562">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975562.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975562">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975562.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975562%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975562/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 5\. Hold your iPhone near the payment terminal
 
@@ -115,10 +103,7 @@ That's it! Apple Pay is as easy as apple pie. (Sorry, I had to.)
 ## FAQ
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How do I set up Apple Pay from my iPhone Settings?
@@ -131,10 +116,7 @@ To set up Apple Pay, you go to your iPhone's Settings and follow these steps:
 Once you add your card to your Wallet, you can edit your settings to suit your needs. You can choose to enable Apple Cash; enable the double-click side button to work as a shortcut for Apple Pay' add Express Transit Cards to pay for transit automatically without a passcode or Face ID; edit your transaction information like default card, shipping address, and contact info; and toggle payments on your Mac on and off. 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137228/26400" target="_top" id="2137228">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137228" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137228/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Where can I use Apple Pay to pay in stores and online?
@@ -145,6 +127,10 @@ You can use Apple Pay with an iPhone or Apple Watch at checkout wherever there i
 
 NFC stands for [near-field communication](https://www.zdnet.com/article/near-field-communication-aims-to-simplify-our-lives/). It's a technology that employs magnetic field induction to allow wireless communication between two electronic devices at a short range, typically less than 4 centimeters or 1.5 inches.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Can I use Apple Pay online?
 
 In addition to using Apple Pay at stores, you also can use it in some apps and with the many online retailers that support it. In fact, the list of online retailers that _don't_ support Apple Pay is shrinking every day. As of this writing, Walmart and Home Depot are among the few major retailers that don't (yet) accept Apple Pay for online purchases.
@@ -154,13 +140,6 @@ On top of being more secure, using Apple Pay online is more convenient as you do
 **Also: [Venmo and PayPal now offer 'Tap to Pay' on iPhone for businesses](https://www.zdnet.com/article/venmo-and-paypal-now-offer-tap-to-pay-on-iphone-for-businesses/)**
 
 To use Apple Pay online, choose Apple Pay at checkout from your iPhone or other Apple device, if it's available. Next, you'll be prompted either to enter your passcode or use Face ID to authorize the payment. Then you'll be able to check out as usual with your Apple Pay information already filled in, so you won't need to sign in again or enter your card information. 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105877/7443" target="_top" id="2105877">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105877" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105877/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## What is Apple Cash?
 
@@ -218,21 +197,22 @@ Using Apple Pay or [Google Pay](https://www.zdnet.com/finance/google-pay-vs-sams
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-from-zero-to-hero-crafting-an-authoritative-online-self-for-2024/"><u>[New] From Zero to Hero Crafting an Authoritative Online Self for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-hourly-heavy-hitters-top-ten-youtube-video-rankings-in-a-day/"><u>[New] In 2024, Hourly Heavy Hitters Top Ten YouTube Video Rankings in a Day</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-find-your-perfect-match-top-8-mirrorless-cameras-for-live-streams/"><u>[Updated] 2024 Approved Find Your Perfect Match Top 8 Mirrorless Cameras For Live Streams</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-stream-to-youtube-facebook-twitch-and-over-30-platforms/"><u>[Updated] 2024 Approved How to Stream to YouTube, Facebook, Twitch and Over 30 Platforms</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-pinpoint-premium-video-keywords-on-youtube-for-2024/"><u>[Updated] How to Pinpoint Premium Video Keywords on YouTube for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-global-leaderboard-top-subscribers-by-youtube-star/"><u>[Updated] In 2024, Global Leaderboard Top Subscribers by YouTube Star</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-harmonizing-cityscapes-and-nature-the-role-of-green-spaces/"><u>[Updated] In 2024, Harmonizing Cityscapes and Nature The Role of Green Spaces</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/2024-approved-begin-a-new-era-of-editing-with-xps-video-suite/"><u>2024 Approved Begin a New Era of Editing with Xp's Video Suite</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/2024-approved-ultimate-guide-to-selecting-excellent-spotify-recorders/"><u>2024 Approved Ultimate Guide to Selecting Excellent Spotify Recorders</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/30-best-kept-secrets-to-livestream-conferences-at-no-charge/"><u>30 Best-Kept Secrets to Livestream Conferences at No Charge</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/android-unlock-code-sim-unlock-your-infinix-note-30-phone-and-remove-locked-screen-by-drfone-android/"><u>Android Unlock Code Sim Unlock Your Infinix Note 30 Phone and Remove Locked Screen</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/how-to-effortlessly-implement-wi-fi-calling-on-smartphones-and-computers/"><u>How To Effortlessly Implement Wi-Fi Calling on Smartphones & Computers</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-why-is-ipogo-not-working-on-oppo-a79-5g-fixed-drfone-by-drfone-virtual-android/"><u>In 2024, Why is iPogo not working On Oppo A79 5G? Fixed | Dr.fone</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/the-smart-choice-why-skipping-the-iphone-16-makes-sense-for-tech-savvy-consumers-insights/"><u>The Smart Choice: Why Skipping the iPhone 16 Makes Sense for Tech-Savvy Consumers - Insights</u></a></li>
-<li><a href="https://techtrends.techidaily.com/troubleshooting-ocidll-not-found-mistakes-for-windows-users/"><u>Troubleshooting OCI.DLL Not Found Mistakes for Windows Users</u></a></li>
-<li><a href="https://fox-making.techidaily.com/understanding-additional-control-button-options-in-flip-book-production-with-flipbuildercom/"><u>Understanding Additional Control Button Options in Flip Book Production with FlipBuilder.com</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/enhance-your-display-download-intels-latest-iris-xe-drivers-for-windows-systems/"><u>Enhance Your Display: Download Intel's Latest Iris Xe Drivers for Windows Systems</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/24-icon-and-logo-havens-a-guide-to-6-unique-online-resources/"><u>In 2024, Icon & Logo Havens A Guide to 6 Unique Online Resources</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/in-depth-analysis-of-apples-newest-ultra-series-apple-watch-ultra-2-assessment/"><u>In-Depth Analysis of Apple's Newest Ultra Series - Apple Watch Ultra 2 Assessment</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/is-fake-gps-location-spoofer-a-good-choice-on-oppo-a18-drfone-by-drfone-virtual-android/"><u>Is Fake GPS Location Spoofer a Good Choice On Oppo A18? | Dr.fone</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/jbl-charge-5-performance-check-still-a-top-contender-after-3-years/"><u>JBL Charge 5 Performance Check - Still a Top Contender After 3 Years?</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-buggy-fcpx-reset-and-reboot-a-quick-fix-for-common-problems-for-2024/"><u>New Buggy FCPX? Reset and Reboot A Quick Fix for Common Problems for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/review-of-the-nzxt-lift-2-smm-the-high-speed-gamers-ultimate-choice/"><u>Review of the NZXT Lift 2 SMM: The High-Speed Gamer's Ultimate Choice</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/review-of-the-ugreen-nexode-pro-65w-slender-beast-power-in-a-compact-form/"><u>Review of the Ugreen Nexode Pro 65W Slender Beast - Power in a Compact Form</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/rivian-r1s-assessment-comparing-the-benefits-of-electric-suvs-vs-trucks/"><u>Rivian R1S Assessment: Comparing the Benefits of Electric SUVs Vs. Trucks</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/rog-cetras-low-latency-speednova-wireless-earphones-a-gamers-sound-and-performance-review/"><u>ROG Cetra's Low Latency SpeedNova Wireless Earphones - A Gamer's Sound & Performance Review</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/samsung-ssdwindows111087/"><u>Samsung SSD無料バックアップツール（Windows11/10/8/7対応）</u></a></li>
+<li><a href="https://video-capture.techidaily.com/step-by-step-instructions-for-creating-purposefully-bad-audio-recordings/"><u>Step-by-Step Instructions for Creating Purposefully Bad Audio Recordings</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/the-essential-list-of-preferred-ae-themes-on-ig-for-2024/"><u>The Essential List of Preferred AE Themes on IG for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/top-reviews-of-nomad-base-one-max-exploring-the-ultimate-3-in-1-magsafe-charging-solution/"><u>Top Reviews of Nomad Base One MAX: Exploring the Ultimate 3-in-1 MagSafe Charging Solution</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/top-tech-picks-how-to-geek-reveals-top-gadgets-and-services-of-2023/"><u>Top Tech Picks: How-To Geek Reveals Top Gadgets and Services of 2023</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/unveiling-the-features-an-insightful-review-of-the-gaomon-pd1560-stylus-tablet/"><u>Unveiling the Features: An Insightful Review of the Gaomon PD1560 Stylus Tablet</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-adding-oomph-to-your-videos-a-tutorial-on-finding-and-using-free-sound-effects-in-final-cut-pro/"><u>Updated Adding Oomph to Your Videos A Tutorial on Finding and Using Free Sound Effects in Final Cut Pro</u></a></li>
 </ul></div>
 

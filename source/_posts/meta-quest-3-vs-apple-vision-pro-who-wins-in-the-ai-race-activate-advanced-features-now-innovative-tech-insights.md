@@ -1,7 +1,7 @@
 ---
 title: "Meta Quest 3 Vs. Apple Vision Pro: Who Wins in the AI Race? Activate Advanced Features Now | Innovative Tech Insights"
-date: 2024-11-17T23:06:46.461Z
-updated: 2024-11-19T20:05:23.282Z
+date: 2024-11-22T17:40:50.909Z
+updated: 2024-11-28T16:33:23.577Z
 tags:
   - apple
 categories:
@@ -36,6 +36,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## The cost of GPU processing
 
 Advanced AI features require substantial computational power, typically provided by high-performance GPUs. For instance, [NVIDIA's MGX with GH 200 and Grace Hopper superchip](https://www.nvidia.com/en-us/data-center/grace-hopper-superchip/) designed for AI training, inference, 5G, and HPC cost around $65,000 each. Deploying these servers regionally to support lower-end devices would be prohibitively expensive. Apple would easily need thousands of these units to support its entire user base, resulting in astronomical costs likely passed on to consumers through service fees.
@@ -45,10 +49,7 @@ Advanced AI features require substantial computational power, typically provided
 Even [major AI service providers](https://www.zdnet.com/article/best-ai-chatbot/) such as OpenAI, Microsoft, and Google encounter challenges in offering dependable and quick access to LLM and Generative AI models to the general public without downtime and overcommitting resources. The shortage and cost of GPU-enabled servers make these issues worse. To maintain the rapid response times expected by its customers, Apple will need to invest substantially in servers, data centers, and edge infrastructure -- an infrastructure level it likely does not currently possess.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129739/7443" target="_top" id="2129739">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129739" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129739/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Apple's approach to Private Cloud Compute (PCC)
@@ -60,10 +61,7 @@ For the initial rollout of Apple Intelligence, the company has chosen a hybrid a
 Apple is currently focused on rolling out its [Generative AI services](https://www.zdnet.com/article/apple-unveils-on-device-ai-image-generator-for-iphone-ipad-and-mac/) to high-end devices as part of the initial phase of Apple Intelligence deployment. This allows Apple to enhance its AI capabilities and infrastructure before expanding to a wider range of devices. To bring Apple Intelligence to the rest of its ecosystem, the company will likely deploy AI-accelerated server appliances at the edge, enabling less capable devices to benefit from advanced AI features. However, this infrastructure is not yet ready for large-scale deployment, as Apple's shift towards AI development is still recent.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027167/19272" target="_top" id="2027167">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027167" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027167/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The challenges of edge computing
@@ -77,10 +75,7 @@ While NVIDIA is a major player in the GPU server space, others include tradition
 As reported by _The Register_, Apple is [developing its own AI servers](https://www.theregister.com/2024/06/11/apple%5Fbuilt%5Fai%5Fcloud%5Fservers%5Fos/), which are expected to be more cost-effective and better integrated with its ecosystem. These servers are currently being tested in data centers for foundation model use, and a broader rollout is anticipated in 2025\. This phased approach ensures Apple can maintain high privacy, security, and user experience standards while gradually expanding its AI capabilities across its device lineup.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123735/7443" target="_top" id="2123735">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123735" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123735/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Broader implications for IoT and other devices
@@ -125,24 +120,20 @@ As Apple continues developing its AI infrastructure, including potential edge co
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-frame-by-frame-mastery-in-youtube-no-cost-required/"><u>[New] 2024 Approved Frame by Frame Mastery in YouTube - No Cost Required</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-free-tools-for-effortless-video-image-retrieval/"><u>[New] 2024 Approved Free Tools for Effortless Video Image Retrieval</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-protectly-copy-youtube-tracks-for-free/"><u>[New] 2024 Approved How to Protectly Copy Youtube Tracks for Free</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-designing-an-editorial-epilogue-for-2024/"><u>[New] Designing an Editorial Epilogue for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-flexibility-in-viewing-with-youtube-tv-options-for-2024/"><u>[New] Flexibility in Viewing with YouTube TV Options for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-get-premium-minecraft-channel-graphics/"><u>[New] In 2024, Get Premium Minecraft Channel Graphics</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-tiktok-to-twitter-strategy-for-maximum-engagement-for-2024/"><u>[New] TikTok-to-Twitter Strategy for Maximum Engagement for 2024</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-easy-steps-for-effective-ez-grabber-implementation/"><u>[Updated] 2024 Approved Easy Steps for Effective EZ Grabber Implementation</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-increase-youtube-traffic-by-a-million-safely-done/"><u>[Updated] 2024 Approved How to Increase YouTube Traffic by a Million Safely Done</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-excellent-online-screen-recorders-ranked-1plus/"><u>[Updated] Excellent Online Screen Recorders Ranked #1+</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-get-into-the-game-starting-an-apple-powered-sports-network-for-2024/"><u>[Updated] Get Into the Game Starting an Apple-Powered Sports Network for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-harness-youtube-opportunities-via-strategic-creator-studio-application-for-2024/"><u>[Updated] Harness YouTube Opportunities via Strategic Creator Studio Application for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-google-meet-broadcast-simplified-youtube-steps/"><u>[Updated] In 2024, Google Meet Broadcast Simplified YouTube Steps</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/auroras-hdv-does-it-elevate-your-home-cinema/"><u>Aurora's HDV Does It Elevate Your Home Cinema?</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/convert-fb-footage-fast-free-720p-1080p-to-mp4-conversion/"><u>Convert FB Footage Fast - Free 720P, 1080P to MP4 Conversion</u></a></li>
-<li><a href="https://article-posts.techidaily.com/crafting-curve-concepts-for-text-visualization-for-2024/"><u>Crafting Curve Concepts for Text Visualization for 2024</u></a></li>
-<li><a href="https://fox-http.techidaily.com/the-evolution-of-camera-features-for-dynamic-range-mastery/"><u>The Evolution of Camera Features for Dynamic Range Mastery</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/top-rated-stylus-tablets-comprehensive-reviews-from-tech-experts/"><u>Top-Rated Stylus Tablets : Comprehensive Reviews From Tech Experts</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/unearthing-the-potential-a-thorough-google-pixel-4a-android-masterclass/"><u>Unearthing the Potential: A Thorough Google Pixel 4a Android Masterclass</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-the-user-friendly-way-of-migrating-snapchat-images-home/"><u>[Updated] The User-Friendly Way of Migrating SnapChat Images Home</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/1-top-convertidor-de-video-hevch265-para-mac-guia-2023/"><u>1. Top Convertidor De Video HEVC/H.265 Para Mac: Guía 2023</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/1725286044076-dvdmp4/"><u>無料で完全機能付き: DVD画像をMP4動画に変換する優秀なフリーツールを見つけた!</u></a></li>
+<li><a href="https://blog-min.techidaily.com/android-to-apple-how-to-transfer-photos-from-poco-m6-pro-4g-to-ipad-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Android to Apple How To Transfer Photos From Poco M6 Pro 4G to iPad Easily | Dr.fone</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/clipboxwindows-windows/"><u>ClipboxアプリケーションのWindowsバージョンを探す - Windows非互換時の解決策</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/convert-your-avi-files-to-mp3-at-no-cost-a-step-by-step-guide-to-improve-audio-quality/"><u>Convert Your AVI Files to MP3 at No Cost – A Step-by-Step Guide to Improve Audio Quality</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/fast-guide-to-transforming-drm-itunes-movies-into-mp4-for-easy-playback-and-sharing/"><u>Fast Guide to Transforming DRM iTunes Movies Into MP4 for Easy Playback and Sharing</u></a></li>
+<li><a href="https://techidaily.com/how-to-perform-hard-reset-on-oneplus-ace-2-pro-drfone-by-drfone-reset-android-reset-android/"><u>How to Perform Hard Reset on OnePlus Ace 2 Pro? | Dr.fone</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/in-2024-flickr-profile-picture-breakdown-area-codec-timeframe/"><u>In 2024, Flickr Profile Picture Breakdown Area, Codec, Timeframe</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-check-if-your-nokia-c22-is-unlocked-by-drfone-android/"><u>In 2024, How To Check if Your Nokia C22 Is Unlocked</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/syncing-subtitles-fixing-speed-issues-with-vlc-step-by-step-guide/"><u>Syncing Subtitles: Fixing Speed Issues with VLC - Step by Step Guide</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/top-12-zero-cost-ai-video-optimizers-available-online-compatible-with-pc-and-mac-platforms/"><u>Top 12 Zero-Cost AI Video Optimizers Available Online: Compatible with PC & MAC Platforms</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-the-ultimate-guide-to-video-resumes-4-best-makers-and-free-resources/"><u>Updated In 2024, The Ultimate Guide to Video Resumes 4 Best Makers and Free Resources</u></a></li>
+<li><a href="https://win-hot.techidaily.com/urgent-update-needed-microsoft-faces-critical-deadline-to-fix-windows-10-issues-by-next-year-cybernews-report/"><u>Urgent Update Needed: Microsoft Faces Critical Deadline to Fix Windows 10 Issues by Next Year | CyberNews Report</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/1728506944628-404/"><u>ページ検索失敗: 404 エラーに気づく方法と解決策</u></a></li>
 </ul></div>
 

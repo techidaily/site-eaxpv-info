@@ -1,7 +1,7 @@
 ---
 title: "Mastering the Convenience of Apple Pay: Tips for Using It In-Store and On-the-Go – A Comprehensive Guide by ZDNet"
-date: 2024-11-18T19:11:36.023Z
-updated: 2024-11-19T17:01:33.795Z
+date: 2024-11-25T17:41:41.632Z
+updated: 2024-11-28T18:29:50.716Z
 tags:
   - apple
 categories:
@@ -72,10 +72,7 @@ The voice assistant will also be able to perform hundreds of new actions across 
 Apple is also upgrading Siri to understand text, allowing users to type or speak to Siri as needed. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997695/19272" target="_top" id="1997695">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997695" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997695/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What's new in Apple's photo editing & search?
@@ -91,10 +88,7 @@ Apple is adding natural language photo and video search to its Photos app. This 
 In Photos, users will also be able to give a text prompt to create Memory videos. These will be compilations of videos and photos following a description, with music suggestions from Apple Music. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How does systemwide AI text generation work?
@@ -109,13 +103,6 @@ The same feature can help users make major edits to text, such as changing the t
 
 Apple devices will also get AI upgrades for recordings and transcriptions in Voice Memos and Phone, as users can quickly transcribe voice notes with AI.
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134502/19576" target="_top" id="2134502">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134502" border="0" alt="https://techidaily.com" width="672" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134502/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## What is Image Playground?
 
 Apple
@@ -129,10 +116,7 @@ In the Notes app, for example, a new tool called Image Wand will let you circle 
 Image Playground will be available in beta this fall, and some features will be released over the next year.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134248/18498" target="_top" id="2134248">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134248" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134248/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Is ChatGPT coming to iPhone, iPad, and Mac?
@@ -163,6 +147,10 @@ Apple is leveraging what it calls Private Cloud Compute for complex tasks that r
 
 Depending on its complexity and system requirements, an algorithm will determine whether a task requiring AI should be processed on-device or offloaded to the cloud. Simpler tasks like a Siri request and other basic NLP tasks can be processed on-device. More complex tasks, like generating a detailed summary of a large document, will be sent to the cloud, where more robust processing can occur. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Is Apple Intelligence actually private and secure?
 
 Apple
@@ -177,6 +165,10 @@ The company is striving to keep the AI features secure through several mechanism
 * **Independent code review:** With Private Cloud Compute, Apple explained that the code is available for independent experts to inspect and verify it meets privacy standards.
 * **Data encryption:** Apple encrypts all data sent to and from its servers as another layer of security.
 * **Ability to opt out:** Perhaps most importantly, users can opt-in for Apple Intelligence features, which will be introduced as beta versions as Apple works to improve its AI capabilities over time.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What are the technical requirements for Apple Intelligence?
 
@@ -218,20 +210,18 @@ While these AI features may help drive sales of new iPhones and Macs, as a curre
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-wipe-out-your-youtube-buffered-videos/"><u>[New] 2024 Approved How-To Wipe Out Your YouTube Buffered Videos</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-focus-on-the-essentials-the-compreenas-for-removing-youtube-channels-for-2024/"><u>[New] Focus on the Essentials The Compreenas for Removing Youtube Channels for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-from-raw-tape-to-broadcast-ready-using-studio-editor-for-2024/"><u>[New] From Raw Tape to Broadcast-Ready Using Studio Editor for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-guidance-for-effortless-addition-of-youtube-playlists-to-your-site/"><u>[New] In 2024, Guidance for Effortless Addition of YouTube Playlists to Your Site</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-unlock-creativity-essential-green-screen-techniques/"><u>[New] Unlock Creativity Essential Green Screen Techniques</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-free-youtube-revenue-predictor-tools-for-2024/"><u>[Updated] Free YouTube Revenue Predictor Tools for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-get-free-views-on-youtube-2-easy-ways-for-2024/"><u>[Updated] How to Get Free Views on YouTube [2 Easy Ways] for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-focused-gaming-recordings-software/"><u>[Updated] In 2024, Focused Gaming Recordings Software</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/2024-approved-the-ultimate-guide-to-ipad-time-lapse-filmmaking/"><u>2024 Approved The Ultimate Guide to iPad Time-Lapse Filmmaking</u></a></li>
-<li><a href="https://techtrends.techidaily.com/how-to-grab-a-full-picture-of-your-work-screenshots-on-hp-systems-explained/"><u>How to Grab a Full Picture of Your Work: Screenshots on HP Systems Explained</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-3-effective-ways-to-bypass-activation-lock-from-apple-iphone-7-plus-by-drfone-ios/"><u>In 2024, 3 Effective Ways to Bypass Activation Lock from Apple iPhone 7 Plus</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-sim-cards-of-vivo-s18-without-puk-codes-by-drfone-android/"><u>In 2024, How To Unlock SIM Cards Of Vivo S18 Without PUK Codes</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-tutorial-to-change-oppo-a78-imei-without-root-a-comprehensive-guide-by-drfone-android/"><u>In 2024, Tutorial to Change Oppo A78 IMEI without Root A Comprehensive Guide</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/top-10-free-video-repeater-tools-for-endless-loops/"><u>Top 10 Free Video Repeater Tools for Endless Loops</u></a></li>
-<li><a href="https://win11.techidaily.com/windows-11-users-what-to-expect-after-taskbar-chat-is-discontinued/"><u>Windows 11 Users: What to Expect After Taskbar Chat Is Discontinued</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-elevate-your-engagement-select-8-social-apps-for-facebook-fame/"><u>[Updated] Elevate Your Engagement Select 8 Social Apps for Facebook Fame</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-innovative-techniques-for-captivating-ae-titles/"><u>[Updated] Innovative Techniques for Captivating AE Titles</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-keeping-cameras-steady-in-motion-landscapes-for-2024/"><u>[Updated] Keeping Cameras Steady in Motion Landscapes for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-the-essential-tutorial-for-xbox-fb-streams/"><u>[Updated] The Essential Tutorial for Xbox FB Streams</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/1-solve-your-dvd-playback-issues-troubleshooting-unresponsive-discs-on-laptops-and-desktops/"><u>1. Solve Your DVD-Playback Issues: Troubleshooting Unresponsive Discs on Laptops and Desktops</u></a></li>
+<li><a href="https://win11.techidaily.com/a-comprehensive-fix-for-inaccessible-screen-settings-in-windows/"><u>A Comprehensive Fix for Inaccessible Screen Settings in Windows</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/comprehensive-youtube-etiquette-guide-for-2024/"><u>Comprehensive YouTube Etiquette Guide for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/easy-and-fast-dvd-backup-techniques-for-preserving-perfect-quality-do-it-in-just-5-minutes/"><u>Easy and Fast DVD Backup Techniques for Preserving Perfect Quality – Do It in Just 5 Minutes!</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/free-access-to-pro-level-movavi-video-converter-guaranteed-working-activation-codes-inside/"><u>Free Access to Pro-Level Movavi Video Converter - Guaranteed Working Activation Codes Inside!</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-the-best-android-sim-unlock-code-generators-unlock-your-tecno-spark-20-pro-phone-hassle-free-by-drfone-android/"><u>In 2024, The Best Android SIM Unlock Code Generators Unlock Your Tecno Spark 20 Pro Phone Hassle-Free</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/play-store-not-working-on-lenovo-thinkphone-8-solutions-inside-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Not Working On Lenovo ThinkPhone? 8 Solutions Inside | Dr.fone</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/ultimate-guide-to-creating-flawless-dvd-copies-using-winx-dvd-copy-software/"><u>Ultimate Guide to Creating Flawless DVD Copies Using WinX DVD Copy Software</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/unlocking-the-potential-of-4k-at-60-fps-a-comprehensive-guide/"><u>Unlocking the Potential of 4K at 60 FPS: A Comprehensive Guide</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Apple to Refresh Cost-Effective Watch SE? Unveiling Upcoming Improvements and New Specs | ZDNET
-date: 2024-11-15T00:22:44.352Z
-updated: 2024-11-19T21:18:40.674Z
+date: 2024-11-21T16:08:16.832Z
+updated: 2024-11-28T17:55:02.140Z
 tags:
   - apple
 categories:
@@ -40,18 +40,15 @@ Jason Hiner/ZDNET
 
 Using Apple Intelligence, you'll be able to fine-tune your writing in Mail, Notes, Pages, and any supported third-party app. Like other AI-powered editing tools, Apple Intelligence will be able to rewrite, proofread, and summarize your text.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Photo features
 
 Apple Intelligence will tap into your photos for a few different tricks. You'll be able to create movies out of photos in your library just by typing a description of what you want to see, much like you would for a [chatbot prompt](https://www.zdnet.com/article/6-ways-to-write-better-chatgpt-prompts-and-get-the-results-you-want-faster/). Using natural language, you'll be able to search for specific photos and even find certain moments in a video. 
 
 The [new Clean Up tool](https://www.zdnet.com/article/ios-18-1-beta-adds-photo-clean-up-ai-tool-and-notification-summaries-how-they-work/) will help you remove distracting or unwanted elements in a photo while leaving everything else intact.
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924297/11305" target="_top" id="924297">
-  <img src="//a.impactradius-go.com/display-ad/11305-924297" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i110150.net/i/5597632/924297/11305" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 3\. Audio transcriptions
 
@@ -67,13 +64,6 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151854/7443" target="_top" id="2151854">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151854" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151854/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 4\. Notification assistance
 
 Instead of having to read all the notifications that appear on your screen, you'll be able to browse through AI-generated summaries of them. Plus, a new Focus mode will display only the notifications that need your immediate attention.
@@ -87,10 +77,7 @@ To help you get through your emails, Apple Intelligence will [try to understand 
 Plus, a new Smart Reply feature will offer suggestions for quick replies and ensure that all the questions in a response have been addressed.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135410/19272" target="_top" id="2135410">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135410" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135410/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6\. Siri improvements
@@ -110,15 +97,16 @@ Those are a fair number of AI-powered features and upgrades, but Apple Intellige
 ## What will come later
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938745/19272" target="_top" id="1938745">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938745" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938745/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Image playground
 
 Using the AI-powered [Image Playground](https://www.zdnet.com/article/what-is-apple-intelligence-everything-to-know-about-ai-features-coming-to-iphones-macs-and-ipads/), you'll be able to generate images based on a description, suggestions, or even a person from one of your photos. You can then tweak the style and make other changes based on how you plan to use or share the image.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Image wand
 
@@ -127,6 +115,10 @@ The [image wand](https://www.zdnet.com/article/forget-dall-e-apples-new-ai-image
 ### Genmoji
 
 You'll be able to [create new emojis](https://www.zdnet.com/article/apples-new-ai-generated-genmoji-solve-a-problem-weve-all-had-before/) on-demand by entering a description or selecting a photo of you or another person. In response, the AI will generate a more accurate and lively kind of emoji.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### More Siri tricks
 
@@ -166,21 +158,18 @@ The big question, though, is not so much when the new AI features will arrive bu
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-force-youtube-cc-to-stay-on-and-get-more-views/"><u>[New] 2024 Approved How to Force YouTube CC to Stay On and Get More Views</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-essentials-to-skyrocketing-video-views-on-youtube/"><u>[Updated] 2024 Approved Essentials to Skyrocketing Video Views on YouTube</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-exposing-effective-promotions/"><u>[Updated] Exposing Effective Promotions</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-elevate-your-youtube-presence-with-masterful-editing-skills/"><u>[Updated] In 2024, Elevate Your YouTube Presence with Masterful Editing Skills</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-navigating-through-non-displaying-thumbnails-on-your-shorts/"><u>[Updated] Navigating Through Non-Displaying Thumbnails on Your Shorts</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-the-backward-playbook-youtubes-video-flip/"><u>[Updated] The Backward Playbook YouTube's Video Flip</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-genesis-of-apples-m1-an-insight/"><u>[Updated] The Genesis of Apple's M1 An Insight</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-unlock-the-potential-of-your-videos-with-profitable-advertising/"><u>[Updated] Unlock the Potential of Your Videos with Profitable Advertising</u></a></li>
-<li><a href="https://fox-access.techidaily.com/2024-approved-beginners-blueprint-setting-up-a-live-video-feed/"><u>2024 Approved Beginner's Blueprint Setting Up a Live Video Feed</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/2024-approved-video-earnings-explored-in-depth-look-at-dm-and-yo/"><u>2024 Approved Video Earnings Explored In-Depth Look at Dm & Yo</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/g-income-optimization-tips-for-2024/"><u>Gaming Income Optimization Tips for 2024</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-create-an-apple-developer-account-from-iphone-15-by-drfone-ios/"><u>In 2024, How To Create an Apple Developer Account From iPhone 15</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/integrating-twitter-videos-into-facebook-social-graph/"><u>Integrating Twitter Videos Into Facebook Social Graph</u></a></li>
-<li><a href="https://program-issues.techidaily.com/navigating-turbulence-in-microsoft-flight-simulator-2020-overcoming-frequent-pc-crashes/"><u>Navigating Turbulence in Microsoft Flight Simulator 2020 – Overcoming Frequent PC Crashes</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/visionos-2-update-showcased-at-worldwide-developers-conference-a-deep-dive-into-new-features-surprises-and-confusions/"><u>VisionOS 2 Update Showcased at Worldwide Developers Conference: A Deep Dive Into New Features, Surprises & Confusions.</u></a></li>
-<li><a href="https://win-trending.techidaily.com/windows-11-10-8-7-pc-google-drive/"><u>Windows 11, 10, 8, 7 PCからの Google Drive バックアップ手順</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-a-compre-written-in-sounds-youtube-playlists-decoded/"><u>[New] 2024 Approved A Compre Written in Sounds YouTube Playlists Decoded</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-instagram-film-techniques-flawless-virtual-backdrops-integration/"><u>[Updated] 2024 Approved Instagram Film Techniques Flawless Virtual Backdrops Integration</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-why-does-my-photo-booth-videos-keep-freezing-in-2024/"><u>[Updated] Why Does My Photo Booth Videos Keep Freezing, In 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/boosting-engagement-and-reach-secrets-of-instagram-video-uploads-on-desktop/"><u>Boosting Engagement & Reach Secrets of Instagram Video Uploads on Desktop</u></a></li>
+<li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-itel-a60s-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your Itel A60s | Dr.fone</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/live-streaming-mastery-with-manycam-enhanced-virtual-webcam-solutions/"><u>Live Streaming Mastery with ManyCam: Enhanced Virtual Webcam Solutions</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/live-streaming-mastery-with-manycam-top-notch-video-editing-and-virtual-webcam-solutions/"><u>Live Streaming Mastery with ManyCam: Top-Notch Video Editing and Virtual Webcam Solutions</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/live-streaming-mastery-with-manycam-virtual-camera-software-and-online-broadcasting-tools/"><u>Live Streaming Mastery with ManyCam: Virtual Camera Software & Online Broadcasting Tools</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/live-streaming-mastery-with-manycam-virtual-webcam-and-cutting-edge-recording-tools/"><u>Live Streaming Mastery with ManyCam: Virtual Webcam & Cutting-Edge Recording Tools</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/live-streaming-pro-manycam-features-and-virtual-camera-options/"><u>Live Streaming Pro - ManyCam Features and Virtual Camera Options</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/live-streaming-pro-master-your-broadcasts-with-manycams-superior-virtual-webcam-and-software/"><u>Live Streaming Pro: Master Your Broadcasts with ManyCam's Superior Virtual Webcam and Software</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/the-best-editing-software-for-professional-dji-videos/"><u>The Best Editing Software for Professional DJi Videos</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/unmatched-5-ios-backdrop-change-solutions-iphone-x87/"><u>Unmatched 5 iOS Backdrop Change Solutions (iPhone X/8/7)</u></a></li>
 </ul></div>
 

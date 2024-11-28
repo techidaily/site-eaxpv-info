@@ -1,7 +1,7 @@
 ---
 title: "Bid Farewell to the iPhone 13 and 15 Pro: Top Recommendations for Consumers | Guides by ZDNet"
-date: 2024-11-15T17:18:47.289Z
-updated: 2024-11-19T23:22:44.742Z
+date: 2024-11-21T16:44:39.560Z
+updated: 2024-11-28T16:22:33.091Z
 tags:
   - apple
 categories:
@@ -38,6 +38,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Camera Control button
 
 Kerry Wan/ZDNET
@@ -47,10 +51,7 @@ The iPhone 16 receives a substantial update to its camera system. The device pos
 The button acts as a camera shortcut of sorts. Pushing it takes a photo, but the button also supports gesture controls. Swiping on the button with your thumb or finger lets you zoom in or out, while a double light-press presents you with various shooting modes, zoom lengths, photographic styles, and more. It's a fun and intuitive way to take photos. The best part about the button is that it's a great way to introduce more people to photography.
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137976/21526" target="_top" id="2137976">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137976" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137976/21526" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Siri 2.0 is arriving very soon
@@ -66,10 +67,7 @@ The new Siri can engage in more natural conversations. Users no longer need to c
 Everything mentioned so far is just the tip of the iceberg. It's been reported that next year Siri will be able to find and act on items on-device based on your context. For example, you could ask the AI what time your mom's flight is landing and Siri will pull together information from texts and emails, and then present this insight to you in a brief response.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130869/7443" target="_top" id="2130869">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130869" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. A new AI-powered chipset
@@ -116,17 +114,22 @@ Besides Apple Intelilgence, the A18 chipset should enable faster processing spee
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-edu-top-ten-inspiring-educational-content-yt/"><u>[New] 2024 Approved Edu-Top Ten Inspiring Educational Content YT</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-the-art-of-picking-aspect-ratios-for-media-for-2024/"><u>[New] The Art of Picking Aspect Ratios for Media for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-crafting-a-music-career-15-essential-video-tutorials-for-artists-for-2024/"><u>[Updated] Crafting a Music Career 15 Essential Video Tutorials for Artists for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-live-subscriber-count-meters/"><u>[Updated] Live Subscriber Count Meters</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-prosperous-gaming-vids-through-smart-hash-implementation/"><u>[Updated] Prosperous Gaming Vids Through Smart Hash Implementation</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/2024-approved-youtubes-video-editing-power-plus-professional-equivalents/"><u>2024 Approved YouTube's Video Editing Power + Professional Equivalents</u></a></li>
-<li><a href="https://howto.techidaily.com/fixing-persistent-pandora-crashes-on-vivo-y02t-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixing Persistent Pandora Crashes on Vivo Y02T | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-remove-forgotten-pin-of-your-huawei-by-drfone-android/"><u>How to Remove Forgotten PIN Of Your Huawei</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/latest-guide-how-to-bypass-zte-nubia-z60-ultra-frp-without-computer-by-drfone-android/"><u>Latest Guide How To Bypass ZTE Nubia Z60 Ultra FRP Without Computer</u></a></li>
-<li><a href="https://windows11.techidaily.com/mastering-excel-a-step-by-step-guide-to-searching-and-substituting-text-and-numbers/"><u>Mastering Excel: A Step-by-Step Guide to Searching and Substituting Text & Numbers</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/openai-dispels-notion-of-gpt-deterioration/"><u>OpenAI Dispels Notion of GPT Deterioration</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/unleash-high-definition-content-with-youtubes-av1-feature-for-2024/"><u>Unleash High-Definition Content with YouTube’s AV1 Feature for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-expert-video-capture-software-for-mac-moving-on-from-bandicamp-for-2024/"><u>[New] Expert Video Capture Software for Mac, Moving On From Bandicamp for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-adobes-toolset-perfecting-your-youtube-uploads-for-2024/"><u>[Updated] Adobe's Toolset Perfecting Your YouTube Uploads for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/flvogg-movavi/"><u>完全無料でFLV形式をOGGに簡単変換! Movaviの解体書</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/1726226832198-trp-movavi/"><u>無料で簡単にオンラインTRPファイルを変換: Movaviの使い方</u></a></li>
+<li><a href="https://win-updates.techidaily.com/choosing-between-nas-and-cloud-services-selecting-the-perfect-data-storage-option/"><u>Choosing Between NAS and Cloud Services: Selecting the Perfect Data Storage Option</u></a></li>
+<li><a href="https://extra-information.techidaily.com/examining-benq-sw320-the-4k-visionary/"><u>Examining BenQ SW320 The 4K Visionary</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/free-online-converter-change-pef-images-to-jpeg-format/"><u>Free Online Converter: Change PEF Images to JPEG Format</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/free-online-converter-turn-webm-into-avi-format-with-easy-steps/"><u>Free Online Converter: Turn WebM Into AVI Format with Easy Steps</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/free-online-converter-webm-to-swf-effortless-format-transformation-with-movavi/"><u>Free Online Converter: WEBM to SWF - Effortless Format Transformation with Movavi</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/free-online-mp3-converter-fast-and-easy-by-movavi/"><u>Free Online MP3 Converter - Fast & Easy by Movavi</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-everything-you-need-to-know-about-lock-screen-settings-on-your-oppo-a79-5g-by-drfone-android/"><u>In 2024, Everything You Need to Know about Lock Screen Settings on your Oppo A79 5G</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-fix-iphone-6s-unavailable-issue-with-ease-drfone-by-drfone-ios/"><u>In 2024, How To Fix iPhone 6s Unavailable Issue With Ease | Dr.fone</u></a></li>
+<li><a href="https://article-posts.techidaily.com/pro-level-strategies-for-mass-downloading-tiktok-content/"><u>Pro-Level Strategies for Mass Downloading TikTok Content</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/top-hevc-video-player-reviews-finding-the-ideal-software-for-your-high-efficiency-encoding/"><u>Top Hevc Video Player Reviews: Finding the Ideal Software for Your High-Efficiency Encoding</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/update-your-graphics-card-rtx-2070-super-drivers-for-pcs-running-windows-1011-download-and-install/"><u>Update Your Graphics Card: RTX 2070 Super Drivers for PCs Running Windows 10/11 (Download & Install)</u></a></li>
+<li><a href="https://blog-min.techidaily.com/vob5/"><u>VOBファイル復元ソフトを使って、最適なものが第5位でランク付けされました！</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/wmv-aiff-movavi/"><u>무료 WMV, Aiff 데이터 간 온라인 전역 변환 - Movavi 기술</u></a></li>
 </ul></div>
 

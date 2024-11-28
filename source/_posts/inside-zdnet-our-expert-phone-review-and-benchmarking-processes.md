@@ -1,7 +1,7 @@
 ---
 title: "Inside ZDNet: Our Expert Phone Review and Benchmarking Processes"
-date: 2024-11-15T18:52:24.213Z
-updated: 2024-11-20T00:08:48.331Z
+date: 2024-11-23T17:30:12.764Z
+updated: 2024-11-28T18:42:24.272Z
 tags:
   - apple
 categories:
@@ -28,13 +28,6 @@ However, we haven't yet gotten to test the new iPhone 16 line, which was unveile
 
 Read on for the rest of our top picks for the best iPhones you can buy today. 
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136617/26400" target="_top" id="2136617">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136617" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136617/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## The best iPhones of 2024
 
 Show less 
@@ -52,7 +45,15 @@ Cons
 * May feel unwieldy for some users
 * No major battery life improvement over its predecessor
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## iPhone 15 Pro Max
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Best iPhone overall
 
@@ -83,13 +84,6 @@ Pros
 Cons 
 * Pricer than most flagship smartphones
 * No battery life improvement over prior model
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037358/7443" target="_top" id="2037358">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037358" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037358/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Apple iPhone 15
 
@@ -124,14 +118,11 @@ Cons
 * Shorter software update schedule
 * Need to buy refurbished
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135350/19272" target="_top" id="2135350">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135350" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135350/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Apple iPhone 13 Mini
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Best small iPhone
 
@@ -194,13 +185,6 @@ Cons
 * Doesn't have a telephoto lens
 * U.S. customers are locked to eSIM
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068417/7443" target="_top" id="2068417">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068417" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068417/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Apple iPhone 14
 
 ### Best old-generation iPhone
@@ -231,13 +215,6 @@ After weighing out the specs and reviewer-tested experiences, the best iPhone is
 | iPhone 13 Mini             | $480           | 128GB            | 5.4 inches  | A15           | Two                    |
 | iPhone SE (3rd Generation) | $429           | 64GB             | 4.7 inches  | A15           | One                    |
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997695/19272" target="_top" id="1997695">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997695" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997695/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Are iPhones the best smartphone?
 
 The answer depends on your needs and preferences. For example, while the [Samsung Galaxy S24 Ultra](https://www.zdnet.com/article/samsung-galaxy-s24-ultra-review/) is ZDNET's pick for [best phone of 2024](https://www.zdnet.com/article/best-phone/) (for now), it may not be the best option for you if you often rely on services like iMessage and FaceTime, which are exclusive to Apple's operating systems.
@@ -259,6 +236,10 @@ One fantastic aspect of the iPhone is that all models receive software support f
 | Apple iPhone SE (3rd Generation) | The iPhone SE is the cheapest model that Apple officially sells. You'll have to settle with a smaller, outdated form factor, but the performance makes up for it.                                                                       |
 | Apple iPhone 13 Mini             | The only iPhone Mini that Apple makes. This is arguably the best compact smartphone money can buy, even if it's nearly three years old.                                                                                                 |
 | Apple iPhone 14                  | An older iPhone that can handle modern-day tasks. The iPhone 14 is still a solid smartphone if you want the Apple experience for less.                                                                                                  |
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Factors to consider when choosing an iPhone
 
@@ -285,6 +266,10 @@ ZDNET's review team spends upwards of a year testing the ins and outs of every m
 
 For a more extensive breakdown, check out our comprehensive [phone testing methodology page](https://www.zdnet.com/article/how-we-test-phones/).
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## iPhone FAQs
 
 ### How do I take care of my new iPhone?
@@ -295,18 +280,15 @@ There are several ways you can keep your iPhone clean and pristine.
 2. Battery management is another key aspect of iPhone maintenance. To keep your device running for as long as possible, consider charging it between 20% to 80% battery. Overcharging the device would otherwise wear down the battery and reduce the health value (found in Settings). When your iPhone battery health is low (anything less than 75% typically is), it would be helpful to get it replaced at an Apple store or by an Apple-authorized technician.
 3. As stressful as it may be to clear up space to download that software update, you absolutely should. Besides fixing any bugs on your iPhone, software updates also bring with them security patches to reduce the chances of your phone getting hacked.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### When is iOS 18 coming, and will my iPhone support it?
 
 The upcoming software version for the iPhone is currently in its [public beta phase](https://www.zdnet.com/article/you-can-download-ios-18-beta-on-your-iphone-right-now-heres-how-and-which-models-support-it/), meaning it's open for any users to test. The official software will be available to download on September 16, alongside the [new iPhone 16 series](https://www.zdnet.com/article/iphone-16-three-changes-i-want-to-see-on-the-next-apple-handsets/) that arrives September 20.
 
 Like iOS 17, iPhone models as old as the XR will be eligible to receive the [iOS 18 update](https://www.zdnet.com/article/every-iphone-model-that-can-be-updated-to-apples-ios-18-and-which-ones-cant/). The list includes the iPhone 11 to iPhone 15 series and the iPhone SE (2nd generation or later). What's not included is the iPhone X and iPhone 8 series. Those, unfortunately, won't be receiving any more operating system updates.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### What is the new iPhone?
 
@@ -335,22 +317,13 @@ One of the biggest upgrades with the latest iPhone 15 series is the [USB-C port]
 
 Otherwise, even if you own an iPad or MacBook, or almost any other non-Apple gadget, USB-C is more widely used and truly the one-size-fits-all option for charging and transferring data.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Which iPhone models support Apple's new AI features?
 
 Apple's upcoming AI features, branded as "[Apple Intelligence](https://www.zdnet.com/article/what-is-apple-intelligence-everything-to-know-about-ai-features-coming-to-iphones-macs-and-ipads/)," are available on iPhones with at least an A17 Pro processor. That means only the iPhone 15 Pro series, excluding the standard iPhone 15 or iPhone 15 Plus, will support the new AI tools and the upcoming iPhone 16 models.
-
-<!-- affiliate ads begin -->
-<span id="1983475">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983475.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983475">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983475.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983475%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983475/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### What storage size should I buy for my iPhone?
 
@@ -358,16 +331,13 @@ It wasn't until 2021 that Apple began selling both its non-Pro and Pro iPhones w
 
 Maurice Klaehne, senior market research analyst at Counterpoint Research, suggests that higher storage options are generally better as they will help with the longevity of the device, and his firm has generally seen an uptick in postpaid customers opting for higher storage sizes when they can afford them. "Currently, the 256GB option is sufficient for most people," Klaehne adds.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885928/19272" target="_top" id="1885928">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885928" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885928/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Should I trade in my old iPhone?
 
 Trading in an old iPhone is one of the easiest (and safest) ways to replace an otherwise unwanted device with a new, more capable one. Most retailers, including Apple, accept trade-ins of older iPhone models, with store credit ranging from as low as $50 to $800; it all depends on which generation your iPhone is, the condition, and whether it turns on or not.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Do I really need an iPhone case?
 
@@ -389,6 +359,10 @@ There is one problem that ZDNET editor-in-chief [Jason Hiner](https://www.zdnet.
 
 Note that if you buy an iPhone 14 or 15 anywhere outside of the US, the device will come with a regular SIM card slot. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Which iPhone models support 5G?
 
 All models within the iPhone 15, 14, and 13 line, as well as select iPhone 12 models, support [5G wireless technology](https://www.zdnet.com/article/what-is-5g-the-business-guide-to-next-generation-wireless-technology/). Even the new iPhone SE (2022) supports Sub-6, low-band 5G networks.
@@ -396,6 +370,10 @@ All models within the iPhone 15, 14, and 13 line, as well as select iPhone 12 mo
 5G continues to roll out across the US, and while it is debatable if there are benefits to the speeds of the network, in my experience, the broad coverage of low-band 5G has solved my connectivity issues in spotty coverage areas with past iPhone models.
 
 Even more importantly, the 5G iPhone models have Qualcomm chipsets inside that are proving to provide better RF reception than we saw in past iPhones that had Intel chipsets. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Which iPhone models support wireless charging or MagSafe?
 
@@ -463,22 +441,18 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-earnings-on-youtube-a-monthly-perspective/"><u>[New] 2024 Approved Earnings on YouTube A Monthly Perspective?</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-constructing-the-ideal-setup-for-advanced-4k-video-production/"><u>[New] Constructing the Ideal Setup for Advanced 4K Video Production</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-a-compreehensive-guide-to-youtube-thumbnail-creation-mac/"><u>[New] In 2024, A Compreehensive Guide to YouTube Thumbnail Creation (Mac)</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-in-2024-aesthetic-instagram-panoramas/"><u>[New] In 2024, Aesthetic Instagram Panoramas</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-is-hasty-subscription-a-gateway-to-better-viewing-habits/"><u>[New] Is Hasty Subscription a Gateway to Better Viewing Habits?</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-mastering-iphones-hdr-photography-techniques/"><u>[New] Mastering iPhone's HDR Photography Techniques</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-turning-viewers-into-cash-a-youtube-advertising-primer/"><u>[New] Turning Viewers Into Cash A YouTube Advertising Primer</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-enhance-creativity-in-video-editing-these-7-sources/"><u>[Updated] 2024 Approved Enhance Creativity in Video Editing - These 7 Sources</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-from-chords-to-chart-toppers-essential-musician-focused-youtube-content-for-2024/"><u>[Updated] From Chords to Chart-Toppers Essential Musician-Focused YouTube Content for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-the-guide-to-starting-a-successful-youtube-gaming-channel/"><u>[Updated] The Guide to Starting a Successful YouTube Gaming Channel</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/effortlessly-adjust-your-askew-videos-positioning-in-no-time-using-these-tricks/"><u>Effortlessly Adjust Your Askew Videos' Positioning in No Time Using These Tricks!</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/explaining-instagrams-inverted-video-effect-for-2024/"><u>Explaining Instagram’s Inverted Video Effect for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/in-2024-youtube-video-ranking-breakdown-how-it-works/"><u>In 2024, YouTube Video Ranking Breakdown How It Works</u></a></li>
-<li><a href="https://techtrends.techidaily.com/step-by-step-tutorial-personalizing-mac-folders-with-custom-colors/"><u>Step-by-Step Tutorial: Personalizing Mac Folders with Custom Colors</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-5-car-locator-apps-for-nubia-red-magic-9-pro-drfone-by-drfone-virtual-android/"><u>Top 5 Car Locator Apps for Nubia Red Magic 9 Pro | Dr.fone</u></a></li>
-<li><a href="https://win-wonderful.techidaily.com/waterproof-rescue-retrieving-lost-information-from-a-soaked-iphone-model-14-or-13/"><u>Waterproof Rescue: Retrieving Lost Information From a Soaked iPhone Model 14 or 13</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/youtube-live-streaming-and-video-upload-encoder-recommendations/"><u>YouTube Live Streaming & Video Upload Encoder Recommendations</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/the-outer-worlds-diving-into-an-engaging-sci-fi-experience-and-its-captivating-narrative/"><u>'The Outer Worlds': Diving Into an Engaging Sci-Fi Experience and Its Captivating Narrative</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-in-2024-guard-your-content-the-copyright-check-before-tiktok-publishing/"><u>[New] In 2024, Guard Your Content The Copyright Check Before TikTok Publishing</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-capturing-dynamic-range-in-iphone-shots/"><u>2024 Approved Capturing Dynamic Range in iPhone Shots</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-isolating-visual-snapshots-from-videos-using-the-windows-10-photos-tool/"><u>2024 Approved Isolating Visual Snapshots From Videos Using the Windows 10 Photos Tool</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/3gpwmv/"><u>3GP/WMV 영상 변환: 웹 및 신화 제한없이 오피엠 바로 전환 - 정가 서비스</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/4-cutting-edge-artificial-intelligence-solutions-for-dynamic-storytelling/"><u>4 Cutting-Edge Artificial Intelligence Solutions for Dynamic Storytelling</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/cambia-tus-graficos-apng-a-png-animados-gratuitamente-herramientas-online-para-conversiones-rapidas-y-faciles-movavi/"><u>Cambia Tus Gráficos APNG a Png Animados Gratuitamente: Herramientas Online Para Conversiones Rápidas Y Fáciles - Movavi</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-complete-guide-on-unlocking-iphone-6-plus-with-a-broken-screen-by-drfone-ios/"><u>In 2024, Complete Guide on Unlocking iPhone 6 Plus with a Broken Screen?</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/movavis-easy-no-cost-tool-for-swapping-photos-between-jpeg-and-png-formats-on-the-web/"><u>Movavi's Easy, No-Cost Tool for Swapping Photos Between JPEG and PNG Formats on the Web</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/movavis-no-cost-mef-file-format-transformation-online/"><u>Movavi's No-Cost MEF File Format Transformation Online</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/trasforma-video-mp4-a-formato-3gp-online-e-gratuito-con-movavi/"><u>Trasforma Video MP4 a Formato 3GP Online E Gratuito Con Movavi</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-in-2024-efficient-mp3-dividing-techniques-mastering-audio-splitting-speedily/"><u>Updated In 2024, Efficient MP3 Dividing Techniques Mastering Audio Splitting Speedily</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/3gpp-avi/"><u>제공자 무료 - 이슈: 3GPP AVI를 원근 바이트 형식으로 전환하기</u></a></li>
 </ul></div>
 

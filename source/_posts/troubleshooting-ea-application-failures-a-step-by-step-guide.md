@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting EA Application Failures: A Step-by-Step Guide"
-date: 2024-08-30T16:50:21.677Z
-updated: 2024-08-31T16:50:21.677Z
+date: 2024-11-22T18:36:39.165Z
+updated: 2024-11-28T17:18:36.063Z
 tags:
   - deals
 categories:
@@ -29,9 +29,6 @@ thumbnail: https://thmb.techidaily.com/ec6b1f1d7d998ce573dd315cc18c0246f2fda616f
 
  The EA App is required if you want to play any Electronic Arts games, but the program occasionally refuses to launch altogether which prevents you from playing at all. Here are some fixes you can try to get the EA App working again.
 
-<!-- affiliate ads begin -->
-<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Run the EA App From the Installation Directory as Admin
 
  The simplest solution is often the best, and that rings true here. When you launch the EA App from your desktop shortcut or Start menu, it defaults to EALauncher.exe instead of EADesktop.exe. I don't know what's causing the issue, but it's possible that the launcher is having trouble locating and launching the EA Desktop app executable file.
@@ -40,17 +37,18 @@ thumbnail: https://thmb.techidaily.com/ec6b1f1d7d998ce573dd315cc18c0246f2fda616f
 
 ![A screenshot showing how to run the EADesktop exe file as an administrator.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/2024-05-02_19h37_58.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  This is the only solution that worked for me, as the launcher keeps giving me a "Windows cannot find" error. If this didn't work for you, try launching it in compatibility mode for Windows 7 by right-clicking EADesktop.exe then selecting Properties > Compatibility > Run this program in compatibility mode for > Windows 7.
 
  While you're here, you can also enable "Run this program as an administrator" to make sure it always runs with [administrative privileges](https://android-location.techidaily.com/in-2024-10-fake-gps-location-apps-on-android-of-your-samsung-galaxy-xcover-6-pro-tactical-edition-drfone-by-drfone-virtual/). Hit "Apply" then "OK" to try running the app again. If this fix works for you, you can create a desktop shortcut by right-clicking EADesktop.exe and using the "Create Shortcut" option You'll probably get a prompt to place the shortcut on your desktop, but if you don't, you can move it manually.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Monthly Membership</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Enable Unicode UTF-8 Language Support
 
  The option to use Unicode UNTF-8 for languages in Windows ensures that your OS and apps can correctly display characters from various languages. Several [users have reported](https://answers.ea.com/t5/Bug-Reports/EA-App-not-launching/td-p/11441978/page/2) that enabling this option fixed their EA App, likely because the app has built-in support for international languages that may not be natively compatible with your OS.
@@ -58,6 +56,10 @@ No advertising on the website.
  To enable the option in Windows 10 and 11, press Windows+R then type "intl.cpl" and hit "OK." Click on the "Administrative" tab, go to "Change system locale" and check the box next to "Beta: Use Unicode UTF-8 for Worldwide Language Support." Reboot your system and try to launch the EA App.
 
 ![The Unicode UTF-8 for all worldwide languages opton being enabled in Windows.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/2024-05-03_00h04_43.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Delete the EA App Cache
 
@@ -67,18 +69,12 @@ No advertising on the website.
 
 ![Deleting the EADesktop and Electronic Arts cache folders.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/2024-05-03_10h05_38.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Make Sure Your Antivirus Isn’t Blocking the EA App
 
  Windows Defender is a great tool that protects our systems, but it occasionally raises false alarms and deletes benign files. We have a guide on how to [disable Real-Time Protection](https://desktop-recording.techidaily.com/new-record-gameplay-in-samsung-galaxy-phones-for-2024/) in Windows Defender, but in this case, we need to restore a file that may have already been quarantined.
 
  Open Start and use the search bar to look up "Windows Security." Click on "Virus & Threat Protection" and open "Protection History." Browse through the list of removed files. If you come across anything related to the EA App or Electronic Arts, select it and click "Restore." If you have a third-party antivirus, check its quarantined files to make sure none of them are related to Electronic Arts or the EA App. If they are, restore them.
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DBanner%2B728x90"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/2e76fe6a-3010-1b37-7846-f34ff9c6b4ca.png" border="0"></a>
-<!-- affiliate ads end -->
 ##  Delete "GAME\_DATA\_DIR"
 
  If you used the [Frosty Mod Manager](https://frostymodmanager.com/) to install mods for Frostbite games, this fix could work for you. Open Start and use the search bar to type "environment variables." Open "Edit the system environment variables" and click on "Environment variables..." Find the GAME\_DATA\_DIR variable and click "Delete" to remove it. Hit "OK," reboot your system, and try to launch the EA App again.
@@ -86,8 +82,9 @@ No advertising on the website.
 ![Showing how to delete GAME_DATA_DIR variable in system variables.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/variables.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Do a Fresh Install of the EA App
 
  Reinstalling the EA App is your last resort, but you can't just use the traditional uninstaller to remove this pesky program, as it won't remove all the files. To do a clean uninstall, open File Explorer, and go to your (C:) drive. On the top menu, click "View" and enable "Hidden Items." Open the now-visible "ProgramData" folder and use the search bar on the right to look up "EA."
@@ -97,8 +94,9 @@ No advertising on the website.
 ![Uninstalling the EA App manually in Windows.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/zbusntankl.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  If All Else Fails, Contact EA Support
 
  There is one last fix that you can try, and that's to [disable Secure Boot](https://extra-resources.techidaily.com/new-best-hd-cameras-for-comprehensive-social-media-broadcasts/) through your BIOS. Since I can't wholeheartedly recommend disabling a crucial security feature just to get the EA App working, I recommend reaching out to their support staff instead. Be sure to mention that you've tried all of the steps in this article, but the EA App still won't open.
@@ -113,8 +111,6 @@ No advertising on the website.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -122,4 +118,20 @@ No advertising on the website.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-are-there-restrictions-in-saving-youtube-videos/"><u>[New] 2024 Approved Are There Restrictions in Saving YouTube Videos?</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-follow-your-favorites-top-6-mobile-apps-for-downloading-youtube-beats/"><u>[New] 2024 Approved Follow Your Favorites Top 6 Mobile Apps for Downloading YouTube Beats</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-3-must-know-methods-to-record-on-your-ipad-for-2024/"><u>[New] 3 Must-Know Methods to Record on Your iPad for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-exclusive-list-of-premium-online-and-desktop-gif-makers-for-2024/"><u>[New] Exclusive List of Premium Online & Desktop GIF Makers for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-mastering-personalized-youtube-channel-urls-simple-steps-guide/"><u>[Updated] Mastering Personalized YouTube Channel URLs Simple Steps Guide</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-photographic-prowess-proven-strategies-for-captivating-edits/"><u>[Updated] Photographic Prowess Proven Strategies for Captivating Edits</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-simplify-creating-youtube-thumbnails-now/"><u>[Updated] Simplify Creating YouTube Thumbnails Now</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/daybreak-to-dusk-in-korea-easy-language-explanations/"><u>Daybreak to Dusk in Korea: Easy Language Explanations</u></a></li>
+<li><a href="https://android-location.techidaily.com/how-to-fake-gps-on-android-without-mock-location-for-your-honor-magic-v2-drfone-by-drfone-virtual/"><u>How to Fake GPS on Android without Mock Location For your Honor Magic V2 | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-send-and-fake-live-location-on-facebook-messenger-of-your-oppo-f23-5g-drfone-by-drfone-virtual-android/"><u>How to Send and Fake Live Location on Facebook Messenger Of your Oppo F23 5G | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-unlocking-the-power-of-smart-lock-a-beginners-guide-for-xiaomi-redmi-a2plus-users-by-drfone-android/"><u>In 2024, Unlocking the Power of Smart Lock A Beginners Guide for Xiaomi Redmi A2+ Users</u></a></li>
+<li><a href="https://driver-download.techidaily.com/keeping-your-canon-mp25-50-running-smoothly-where-to-find-new-software-updates/"><u>Keeping Your Canon MP25 50 Running Smoothly: Where to Find New Software Updates</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/unveiling-the-power-of-photo-editing-techniques-to-add-text-in-windowsmacos-for-2024/"><u>Unveiling the Power of Photo Editing Techniques to Add Text in Windows/MacOS for 2024</u></a></li>
+</ul></div>
 

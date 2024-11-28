@@ -1,7 +1,7 @@
 ---
 title: "Comprehensive Tutorial: How to Use MacX DVD Ripper for Mac - Free Version Includes Converting, Editing & More!"
-date: 2024-08-30T16:53:17.694Z
-updated: 2024-08-31T16:53:17.694Z
+date: 2024-11-24T16:39:39.060Z
+updated: 2024-11-28T16:44:55.536Z
 categories:
   - macxdvd
 thumbnail: https://thmb.techidaily.com/0f5e0d66222e22041fd69d85c280c4d0b12cd9d4f6abc800d81cd69169ce6a1c.jpg
@@ -22,7 +22,15 @@ MacX DVD Ripper Mac Free Editionは完全無料なMac用DVDリッピングソフ
 
 [![Windows10無償アップグレード可能](https://www.macxdvd.com/blog/new-fourteen/freedownmac-jp.png)](https://tools.techidaily.com/macxdvd/products/) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **正式版の[MacX DVD Ripper Pro](https://tools.techidaily.com/macxdvd/products/)は、史上最大のアップデートとうたう最新バージョンがリリース**。**①**. アダルトDVD・ダイエットDVDなど日本独自のコピーガード解除可能； **②.** 革命的な新しい専門音楽DVD対応技術、無劣化でDVDをオーディオファイルに変換； **③.** VLC Player などのプレーヤーで再生できないDVDやPCで見れないDVDを手軽にMP4（H264）に変換； **④.** 新しいハードウェアアクセラレーション技術を導入し、爆速でDVDをリッピングする； **⑤.**大切な部分を劇的に進化させ、最も安定、最も使いやすい、最も高品質にとなった；アップデートしないと損！ 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## MacX DVD Ripper Mac Free Editionインストール方法
 
@@ -32,34 +40,33 @@ MacX DVD Ripper Mac Free Editionは完全無料なMac用DVDリッピングソフ
 
 [![MacX DVD Ripper Mac Free Editionインストール](https://www.macxdvd.com/blog/img/fdrp2.jpg)](https://tools.techidaily.com/macxdvd/products/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **2：**MacX DVD Ripper Proをアプリに入れます。インストールは終了である；
 
 ![界面言語設定](https://www.macxdvd.com/blog/img/drf0.jpg)
 
 **3：**右上におる「Help」をクリックして、言語が選択できます。ここでは、「日本語」を選択して、日本語版になってきます；
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## MacX DVD Ripper Mac Free Edition使い方---DVDをリッピングと変換
 
 MacX DVD Ripper無料ソフトはDVD/ISO/フォルダ形式のファイルが読み込めます。下の文はアナと雪の女王を富士通（Fujitsu）に取り込む操作手順を示します。分かりやすいインターフェースを備えるため、熟練者にも、初心者にも関わらず、手軽く操作できます。
 
 [![DVDを追加](https://www.macxdvd.com/blog/img/drf1.jpg)](https://tools.techidaily.com/macxdvd/products/)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 ステップ１：「DVD追加」ボタンをクリックしてから、アナと雪の女王DVDを追加します。界面上部のアイコンと真ん中のアイコンとも利用可能。
 
 ![出力プロファイルを選ぶ](https://www.macxdvd.com/blog/img/drf2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ステップ２：アナと雪の女王コピーガードが解除されたら、出力プロファイルの窓口が出てきました。アナと雪の女王を富士通（Fujitsu）に取り込む場合、富士通（Fujitsu）と互換性のあるフォーマット**MP4**を選んだら、結構！だから、「Macの通常映像」―「MP4動画へ」―「完了」の順でクリックしてください。
 
 ![DVDをリッピングと変換開始](https://www.macxdvd.com/blog/img/drf33.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ステップ３：「ブラウザ」をクリックして、出力映像を保存するフォルダを選びます。
 
@@ -69,18 +76,23 @@ MacX DVD Ripper無料ソフトはDVD/ISO/フォルダ形式のファイルが読
 
 **ヒント：**「RUN」ボタンをクリックする前、**「字幕が無効」**のデフォルトを変更しないなら、MacX DVD Ripper Mac Free Editionでコピー後字幕がでないとご注意ください。
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## MacX DVD Ripper Mac Free Edition使い方---DVDを編集
 
 熟練者にとって、簡単にDVDをリッピングするより、個人的使用用途に合って、手元のDVDを編集したいかもしれません。例えば、DVDをトリミング、クロップ、合併、字幕追加など。
 
 [![DVDを編集](https://www.macxdvd.com/blog/img/drf333.jpg)](https://tools.techidaily.com/macxdvd/products/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 「√」マーク付きタイトル名の右端にある編集アイコンをクリックしてから、オーディオボリュームを調整する「通常」ボタン、外部字幕を追加する「字幕」ボタン、黒い帯を取り除き、ビデオセグメントを抽出する「トリミング」、動画サイズを調整する「トリミング＆引き伸ばす」ボタンと言う四つのオプションがあります。
 
 [![字幕追加](https://www.macxdvd.com/blog/img/drf4.jpg)](https://tools.techidaily.com/macxdvd/products/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 字幕を追加したい場合、「字幕設定起動」を選択してから、「外部字幕ファイル」の右端にある「追加」ボタンをクリックしたら、希望な言語が追加できます。MacX DVD Ripper Mac Free Edition字幕追加をしようとする方は、字幕ファイルの拡張子は、.srtの方がおすすめ。
 
@@ -90,26 +102,25 @@ DVDをリッピングしたい場なら、「トリミング」を押し、「�
 
 [![動画をクロップ](https://www.macxdvd.com/blog/img/drf6.jpg)](https://tools.techidaily.com/macxdvd/products/)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 動画のサイズを調整したい場合、「トリミング＆引き伸ばす」ボタンを押したら、自由に好きな画面のサイズをドラッグ、黒い帯を抜く、アスペクト比が16:9, 4:3, 1:1のような比率で設定できます。また、数字の設定を通じて、動画サイズも変えます。
 
 <!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## MacX DVD Ripper Mac Free Edition使い方---パラメータを設定
 
 [![パラメータを設定](https://www.macxdvd.com/blog/img/drf7.jpg)](https://tools.techidaily.com/macxdvd/products/)
 
 MacX DVD Ripper Mac Free Editionを利用して、デコーダー/エンコーダのパラメーター、ビデオビットレース、解像度、フレームレート、縦横比などを自分のニーズを応じてカスタマイズできます。
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
-<!-- affiliate ads end -->
 ## 他の機能
 
 ![DVD音声を抽出](https://www.macxdvd.com/blog/img/drf9.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 DVDをソフトに読み込んで,出力形式として「音楽」ボタンをクリックするとBGM を抽出し てMP3,AAC,AC3 などの音楽ファイルとして保存することができます。音楽DVDが好きな人にとっては大変に実用でしょう。映画DVDの場合は、「トリミング」で動画中の好きな場所 （例え人気があるセリフ）で切り取って、「音楽」ボタンを押すと、この変換された音楽ファイ ルは着信音となれます。
 
@@ -117,9 +128,6 @@ DVDをソフトに読み込んで,出力形式として「音楽」ボタンを�
 
 右のプレビューウィンドウにあるカメラのアイコンが有効です。スライドバーをドラッグして、 お好みの画像を選択、そしてカメラのアイコンをクリックすることで、動画中のシーンをJPEGやBMPとして保存できます。
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## MacX DVD Ripper Mac Free Editionを入手方法
 
 MacX DVD Ripper Mac Free Edition公式サイトをアクセスしてから、「ダウンロード」をクリックしたら、ダウンロード開始。そして、ダウンロードしたMacX DVD Ripper Mac Free EditionをMacコンピュータにインストールしてください。起動したら、無料に利用可能。ちなみに、もっと豊富な機能を体験したい場合、正式版[MacX DVD Ripper Pro](https://tools.techidaily.com/macxdvd/products/)をご利用ください。MacX DVD Ripper Proは300種類のプロファイルと真新しいのコア技術を組み込めて,DVDをAppleデバイスに取り込むのに完璧なソリューションを提供するほかに,ほぼすべての人気なマルチメディアデバイスにもサポートしています。例えば、iPhone(iPhone 12/11/XS/X/8/7/iPhone 6s/iPhone 6/6 Plus/5s/5c/4S), iPad, iPod, ARROWS, AQUOS, Xperia, Nexus, iMovie, QuickTime, Samsungなど。[MacX DVD Ripper Proの使い方はこちらへ](https://tools.techidaily.com/macxdvd/products/)。
@@ -127,8 +135,9 @@ MacX DVD Ripper Mac Free Edition公式サイトをアクセスしてから、「
 [![](https://www.macxdvd.com/blog/new-fourteen/freedownmac-jp1.png)](https://tools.techidaily.com/macxdvd/products/) [![](https://www.macxdvd.com/blog/new-fourteen/freedownwin-jp1.png)](https://tools.techidaily.com/macxdvd/products/) 
 
 <!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 関連ブログ 
 
 **MacX DVD/動画変換ソフトについて詳細な情報、使い方、人気記事のブログ**： <https://www.macxdvd.com/blog/>
@@ -141,9 +150,6 @@ MacX DVD Ripper Mac Free Edition公式サイトをアクセスしてから、「
 
 [![MacX DVD Ripper Proを購入](https://www.macxdvd.com/blog/../banner/mdrp-jp.png)](https://tools.techidaily.com/macxdvd/products/) 
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 今日の注目記事
 
 * [DVDリッピング Macフリーソフト](https://tools.techidaily.com/macxdvd/products/)
@@ -160,8 +166,6 @@ MacX DVD Ripper Mac Free Edition公式サイトをアクセスしてから、「
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -169,4 +173,20 @@ MacX DVD Ripper Mac Free Edition公式サイトをアクセスしてから、「
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-from-speech-to-text-a-complete-free-workshop-on-youtube-transcription-for-2024/"><u>[New] From Speech to Text A Complete, FREE Workshop on YouTube Transcription for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-growth-hacks-for-youtubers-short-form-content-boosting-view-counts-effectively-for-2024/"><u>[New] Growth Hacks for YouTuber's Short Form Content Boosting View Counts Effectively for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-creator-to-business-transforming-your-youtube-experience/"><u>[New] In 2024, From Creator to Business Transforming Your YouTube Experience</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-convenient-method-to-design-original-shorts-thumbnails/"><u>[Updated] 2024 Approved Convenient Method to Design Original Shorts Thumbnails</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-efficiently-achieving-color-background-separation/"><u>[Updated] 2024 Approved Efficiently Achieving Color Background Separation</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-aperture-authority-picking-the-top-10-camera-lenses/"><u>[Updated] Aperture Authority Picking the Top 10 Camera Lenses</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-gain-traction-on-youtube-surpass-10000-viewer-count-for-affiliate-rewards/"><u>[Updated] Gain Traction on YouTube - Surpass 10,000 Viewer Count for Affiliate Rewards</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-the-path-to-professional-pictures-with-video-enhance-v22/"><u>[Updated] In 2024, The Path to Professional Pictures with Video Enhance V2.2</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-guide-to-enable-dynamic-hdr-in-windows-11/"><u>2024 Approved Guide to Enable Dynamic HDR in Windows 11</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/building-a-powerful-community-of-insta-followers-for-2024/"><u>Building a Powerful Community of Insta-Followers for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/perfectly-pitched-headlines-maker/"><u>Perfectly Pitched Headlines Maker</u></a></li>
+<li><a href="https://program-issues.techidaily.com/top-6-solutions-to-tackle-high-cpu-demands-in-baldurs-gate-iii/"><u>Top 6 Solutions to Tackle High CPU Demands in Baldur's Gate III</u></a></li>
+<li><a href="https://techidaily.com/top-ways-to-unlock-iphone-se-screen-lock-by-drfone-ios-unlock-ios-unlock/"><u>Top ways to unlock iPhone SE screen lock</u></a></li>
+</ul></div>
 

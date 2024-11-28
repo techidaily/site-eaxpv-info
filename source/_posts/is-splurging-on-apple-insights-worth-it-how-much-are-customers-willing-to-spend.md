@@ -1,7 +1,7 @@
 ---
 title: Is Splurging on Apple Insights Worth It? How Much Are Customers Willing to Spend?
-date: 2024-10-25T17:33:03.163Z
-updated: 2024-11-02T04:48:32.461Z
+date: 2024-11-26T16:11:00.160Z
+updated: 2024-11-28T16:39:08.703Z
 tags:
   - apple
 categories:
@@ -28,6 +28,10 @@ If anything, the latest iOS 18.1 betas with Apple Intelligence features have bee
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## The annual upgrade ritual
 
 Every year, my wife and I eagerly await the release of the new iPhones. Being part of [Apple's Upgrade Program](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fiphone%2Fiphone-upgrade-program&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp), we return our devices, reset our loan with Citizens Bank, and acquire the latest model. Over the past few years, I have opted for the [Pro Max](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fiphone-15-pro%2F&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp), and my wife has chosen the [base model](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fiphone-15%2F&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp). The expected annual improvements have been incremental but appreciated. 
@@ -35,10 +39,7 @@ Every year, my wife and I eagerly await the release of the new iPhones. Being pa
 Despite the buzz around the [iPhone 16's new features](https://www.zdnet.com/article/im-an-android-user-but-these-three-iphone-16-features-would-win-me-over/) and the integration of Apple Intelligence, however, several concerns dampen my enthusiasm for upgrading this year.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924297/11305" target="_top" id="924297">
-  <img src="//a.impactradius-go.com/display-ad/11305-924297" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i110150.net/i/5597632/924297/11305" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Apple Intelligence: A significant, yet incomplete, leap forward
@@ -65,13 +66,6 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934188/19272" target="_top" id="1934188">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934188" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934188/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## New hardware leaks: what to expect from the iPhone 16
 
 Earlier, I discussed how older -- as well as current generation -- iOS devices [aren't powerful enough to handle on-device Generative AI tasks](https://www.zdnet.com/article/the-expensive-reason-why-apples-upcoming-ai-features-arent-coming-to-your-older-iphone/). The [base iPhone 15](https://www.zdnet.com/article/iphone-15-plus-review/), which has only 6GB of RAM, would struggle to meet the demands of Apple Intelligence as it evolves and becomes more integrated into iOS, core Apple applications, and developer applications. Older iPhones have [6GB of RAM or less](https://iosref.com/ram-processor), and are not eligible to run Apple Intelligence in current iOS 18.1 builds. 
@@ -89,10 +83,7 @@ Interestingly, despite these hardware upgrades, Apple appears to be keeping pric
 Despite these upgrades, the iPhone 16 may still face challenges due to design cycles that didn't fully account for the scope of Apple Intelligence's capabilities. As a result, users may experience suboptimal performance and a less seamless user experience, especially as more AI features roll out in subsequent updates.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105867/7443" target="_top" id="2105867">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105867" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105867/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Why you shouldn't buy the iPhone 16 for Apple Intelligence
@@ -102,6 +93,10 @@ Besides memory concerns, AI processing demands a lot of power and additional com
 **Also: [How iOS 18 changes the way you charge your iPhone](https://www.zdnet.com/article/how-ios-18-changes-the-way-you-charge-your-iphone/)**
 
 For these reasons, I see the iPhone 16 (and potentially even the iPhone 17) as a transitional product in Apple's journey toward on-device AI. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How Apple Intelligence will likely evolve
 
@@ -120,10 +115,7 @@ Enterprises may also employ a mobile device management solution to facilitate ac
 Imagine your iPhone using the unused processing power of your Mac or iPad, all equipped with on-device LLMs, to tackle complex AI tasks. This would increase the accessibility of AI features across Apple's product range.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151858/7443" target="_top" id="2151858">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151858" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151858/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## I'm still optimistic
@@ -166,19 +158,14 @@ _This article was originally published on June 28, 2024, and updated on August 2
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-raw-to-radiant-youtubes-art-of-visual-aesthetic/"><u>[New] 2024 Approved From Raw to Radiant Youtube's Art of Visual Aesthetic</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-from-script-to-splendor-animating-effects-unbound-for-2024/"><u>[New] From Script to Splendor Animating Effects Unbound for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-how-to-successfully-upload-elongated-youtube-clips-for-2024/"><u>[New] How to Successfully Upload Elongated YouTube Clips for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-maintain-youtube-session-in-the-background/"><u>[New] In 2024, How to Maintain YouTube Session in the Background</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ethink-your-favorite-films-top-7-replacements/"><u>[New] Rethink Your Favorite Films - Top 7 Replacements</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-uncovering-the-ultimate-screen-recorder-compare-and-choose-obsfraps-for-2024/"><u>[New] Uncovering the Ultimate Screen Recorder Compare and Choose (OBS/Fraps) for 2024</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-learn-how-to-add-youtube-video-to-google-slides/"><u>[Updated] 2024 Approved Learn How to Add YouTube Video to Google Slides</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-guidelines-to-erase-youtube-recordings-on-pc/"><u>[Updated] In 2024, Guidelines to Erase YouTube Recordings on PC</u></a></li>
-<li><a href="https://windows11.techidaily.com/breaking-through-windows-tpm-restrictions-with-ease/"><u>Breaking Through Windows TPM Restrictions with Ease</u></a></li>
-<li><a href="https://fox-links.techidaily.com/exquisite-solution-for-vr-adventures-for-2024/"><u>Exquisite Solution for VR Adventures for 2024</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-videos-from-infinix-hot-40-by-fonelab-android-recover-video/"><u>How to Rescue Lost Videos from Infinix Hot 40</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-tecno-spark-go-2024-by-phone-number-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Tecno Spark Go (2024) by Phone Number | Dr.fone</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/new-vlc-video-trimmer-for-mac-trim-and-edit-videos-with-ease-no-quality-loss/"><u>New VLC Video Trimmer for Mac Trim and Edit Videos with Ease, No Quality Loss</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unveiling-cutting-edge-tech-the-tom-hardware-analysis-hub/"><u>Unveiling Cutting-Edge Tech - The Tom Hardware Analysis Hub</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-mastering-movie-magic-tiktok-effects-techniques/"><u>[New] Mastering Movie Magic TikTok Effects Techniques</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-the-great-screen-capture-debate-obs-studio-versus-fraps/"><u>[Updated] In 2024, The Great Screen Capture Debate OBS Studio Versus Fraps</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/convertir-archivo-raw-cr2-en-formato-foto-libre-jpeg-utilizando-imageio-gratuito/"><u>Convertir Archivo RAW CR2 en Formato Foto Libre JPEG Utilizando Image.io Gratuito</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/convertissez-votre-fichier-swf-en-flv-sans-frais-service-video-de-qualite-superieure-avec-movavi/"><u>Convertissez Votre Fichier SWF en FLV Sans Frais - Service Vidéo De Qualité Supérieure Avec MOVAVI</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/ending-automatic-video-captures-in-qt-player-for-2024/"><u>Ending Automatic Video Captures in QT Player for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/gratis-konverteren-van-wma-naar-swf-online-tool-von-movavi/"><u>Gratis Konverteren Van WMA Naar SWF: Online Tool Von Movavi</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/gratis-online-omwandelen-van-mp3-naar-wma-expertise-movavi/"><u>Gratis Online Omwandelen Van MP3 Naar WMA - Expertise Movavi</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/seamlessly-transfer-spotify-songs-to-youtube-with-these-tools-for-2024/"><u>Seamlessly Transfer Spotify Songs to YouTube with These Tools for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-free-and-fabulous-20-adobe-premiere-intro-templates/"><u>Updated Free and Fabulous 20 Adobe Premiere Intro Templates</u></a></li>
 </ul></div>
 

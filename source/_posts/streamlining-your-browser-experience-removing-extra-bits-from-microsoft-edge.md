@@ -1,7 +1,7 @@
 ---
 title: "Streamlining Your Browser Experience: Removing Extra Bits From Microsoft Edge"
-date: 2024-08-30T16:50:46.037Z
-updated: 2024-08-31T16:50:46.037Z
+date: 2024-11-22T19:08:02.301Z
+updated: 2024-11-28T18:13:51.038Z
 tags:
   - deals
 categories:
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/9dde14122d86332e2939d12b71c8c112849e5b475
 * [Change the Look Of Your Edge Browser](https://screen-sharing-recording.techidaily.com/top-5-cost-effective-video-editing-software-for-gamers-for-2024/)
 * [Adjust Edge Web Services](https://buynow-marvelous.techidaily.com/navigating-the-pre-owned-ipad-market-a-buyers-top-five-guide/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * The Microsoft Edge home page displays a lot of unnecessary news and ads that you must disable to avoid being greeted with a cluttered screen.
@@ -27,8 +31,9 @@ thumbnail: https://thmb.techidaily.com/9dde14122d86332e2939d12b71c8c112849e5b475
  Despite being the market leader, Google Chrome still can't beat Microsoft Edge for me. However, the abundance of unnecessary features often clutters the simple browsing experience I'm looking for. If you're like me, here's how to remove all the clutter from Edge.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Remove Clutter From Edge Home Page
 
  When you open Microsoft Edge, you’ll see a lot of unnecessary information on its home page. There are news stories, shopping ads, market indicators, and other irrelevant data that you probably don’t want on a browser home page. Really, Microsoft? If I want to read news, there are dedicated websites for that. Why force it on us?
@@ -41,15 +46,16 @@ thumbnail: https://thmb.techidaily.com/9dde14122d86332e2939d12b71c8c112849e5b475
 
 ![Show promoted links toggle in Edge.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/show-promoted-links-toggle-in-edge.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  In addition, the Edge home page also displays your area's [weather information](https://android-transfer.techidaily.com/how-to-transfer-data-from-vivo-t2-pro-5g-to-any-ios-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/). If you have a dedicated weather app installed or simply want to get rid of it, click the gear icon and turn off the “Show Weather” toggle. There’s also a background toggle in the Page settings menu that controls the [Edge home page background](https://some-knowledge.techidaily.com/new-full-spectrum-kinetic-assessment/). It typically doesn’t use much system resources and offers a new background daily. But if you prefer a plain black or white background (depending on your [Edge theme](https://extra-hints.techidaily.com/2024-approved-a-top-10-curated-list-of-superior-vector-portals/)), you can also disable this toggle.
 
 ![Background toggle in the Edge browser.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/background-toggle-in-the-edge-browser.jpg) 
 
  After making these changes, you’ll find the Edge home page much less cluttered.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
-<!-- affiliate ads end -->
 ##  Stop Edge From Running in the Background
 
  Unlike most browsers, Microsoft Edge doesn't completely close when you click the close icon. It continues running in the background, using up system resources. Because of this, you might sometimes notice that Microsoft Edge won't open normally the next time you try.
@@ -63,11 +69,9 @@ thumbnail: https://thmb.techidaily.com/9dde14122d86332e2939d12b71c8c112849e5b475
 ![Startup Boost option in Edge.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/startup-boost-option-in-edge.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
+
 ##  Change the Look Of Your Edge Browser
 
  Microsoft Edge has plenty of settings that allow you to change the overall look of the browser. While these settings can beautify the browser, enabling each one puts some extra load on your computer and takes it one step away from being a normal, simple-looking browser. Therefore, you should disable all those settings to get a better browsing experience on Edge.
@@ -76,9 +80,6 @@ thumbnail: https://thmb.techidaily.com/9dde14122d86332e2939d12b71c8c112849e5b475
 
 ![System Default option in Edge](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/system-default-option-in-edge.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Next, in the top-left corner of the Edge browser, you will find a square icon called the "Tab Actions Menu" that allows you to manage tabs that are opened in the browser. You can access this menu to switch to [vertical tabs](https://youtube-sure.techidaily.com/n-2024-best-8-youtube-editing-software-for-linux/), look for a particular tab, and do many other tab-related things. However, as a general user, you are rarely going to need to access this menu. Therefore, it's better to disable it.
 
 ![Tab Action menu in Edge.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/tab-action-menu-in-edge.jpg) 
@@ -87,9 +88,6 @@ thumbnail: https://thmb.techidaily.com/9dde14122d86332e2939d12b71c8c112849e5b475
 
 ![Show tab action menu option in Edge](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/show-tab-action-menu-option-in-edge.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  The next section you should edit in the Edge browser is its toolbar. By default, the Edge toolbar contains a lot of unnecessary options like [Collections](https://twitter-videos.techidaily.com/updated-in-2024-how-to-deafen-silent-tweets-impact/) that you're rarely going to use. It's better to get rid of those options and only keep the necessary ones. I would recommend disabling the toggle for all these options:
 
 * Favorites button
@@ -103,12 +101,17 @@ thumbnail: https://thmb.techidaily.com/9dde14122d86332e2939d12b71c8c112849e5b475
 
 ![Favorites button in Edge.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/favorites-button-in-edge.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
  Furthermore, you should also disable [Workspaces](https://extra-approaches.techidaily.com/2024-approved-smooth-sailing-with-kinemaster-in-film-edits/). It lets you organize open tabs into different categories. This feature is primarily for advanced users like project leaders or those who need to demonstrate Edge features to a large team. If you use Edge for general browsing, you should disable the "Show Workspaces" toggle.
 
 ![Show Workspaces toggle in Edge.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/show-workspaces-toggle-in-edge.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Adjust Edge Web Services
 
@@ -130,8 +133,6 @@ thumbnail: https://thmb.techidaily.com/9dde14122d86332e2939d12b71c8c112849e5b475
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -139,4 +140,23 @@ thumbnail: https://thmb.techidaily.com/9dde14122d86332e2939d12b71c8c112849e5b475
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-effortlessly-convert-youtube-videos-online/"><u>[New] 2024 Approved How to Effortlessly Convert YouTube Videos Online</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-building-buzz-strategies-for-shaping-your-unique-youtubing-image-for-2024/"><u>[New] Building Buzz Strategies for Shaping Your Unique YouTubing Image for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-3-easy-youtube-audio-extraction-methods-free-and-secure/"><u>[Updated] 2024 Approved 3 Easy YouTube Audio Extraction Methods Free & Secure</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-make-video-thumbnails-for-youtube/"><u>[Updated] 2024 Approved How to Make Video Thumbnails for YouTube</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-filtering-through-youtube-talks-for-2024/"><u>[Updated] Filtering Through YouTube Talks for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-decoding-digital-dollars-an-effective-triple-step-process-to-determine-your-subscriber-profits/"><u>[Updated] In 2024, Decoding Digital Dollars An Effective Triple Step Process to Determine Your Subscriber Profits</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-pioneering-visual-stunts-from-the-ground-up/"><u>[Updated] Pioneering Visual Stunts From the Ground Up</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-the-best-hashtags-for-youtube-gaming-videos-for-2024/"><u>[Updated] The Best Hashtags for YouTube Gaming Videos for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/approved-hit-the-jackpot-of-humor-craft-top-tier-youtube-reaction-videos-3-techniques/"><u>2024 Approved Hit the Jackpot of Humor – Craft Top-Tier YouTube Reaction Videos (3 Techniques)</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-right-platform-for-content-creation-podcast-or-video/"><u>2024 Approved The Right Platform for Content Creation? Podcast or Video?</u></a></li>
+<li><a href="https://discover-dash.techidaily.com/comment-changer-un-fichier-mp3-en-format-wav-avec-le-convertisseur-de-movavi/"><u>Comment Changer Un Fichier MP3 en Format WAV Avec Le Convertisseur De Movavi</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/engage-more-eyeballs-in-your-area-leverage-oodles-no-fee-local-listings-platform/"><u>Engage More Eyeballs in Your Area – Leverage Oodle’s No-Fee Local Listings Platform</u></a></li>
+<li><a href="https://review-topics.techidaily.com/play-hevc-h-265-on-xiaomi-redmi-note-12r-is-it-possible-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>Play HEVC H.265 on Xiaomi Redmi Note 12R, is it possible?</u></a></li>
+<li><a href="https://win-blog.techidaily.com/solving-the-division-2-launch-problem-expert-fixes-and-advice-for-gamers/"><u>Solving the Division #2 Launch Problem: Expert Fixes and Advice for Gamers</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/sx720hs-reviewed-capturing-life-in-portable-zoomed-perfection/"><u>SX720HS Reviewed: Capturing Life in Portable, Zoomed Perfection</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/vintage-vs-modern-atlasos-upgrade/"><u>Vintage VS Modern: AtlasOS Upgrade</u></a></li>
+</ul></div>
 

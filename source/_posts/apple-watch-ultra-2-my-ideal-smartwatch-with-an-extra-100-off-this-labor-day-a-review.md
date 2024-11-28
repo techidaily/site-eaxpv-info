@@ -1,7 +1,7 @@
 ---
 title: "Apple Watch Ultra 2: My Ideal Smartwatch with an Extra $100 Off This Labor Day - A Review"
-date: 2024-11-16T16:20:44.614Z
-updated: 2024-11-19T21:16:45.575Z
+date: 2024-11-25T17:58:32.868Z
+updated: 2024-11-28T19:00:19.717Z
 tags:
   - apple
 categories:
@@ -20,6 +20,10 @@ Matthew Miller/ZDNET
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### What's the deal?
 
 * The [Apple Watch Ultra 2](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CSVJ7BRX%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C8e27ca08-b1ee-4877-b714-181d9cb745de%7Cdtp&dtb=1) is on sale ahead of Labor Day for $699 on Amazon for the Blue Alpine Loop, Gray Trail Loop, and Orange Ocean Band configurations.
@@ -29,10 +33,7 @@ Matthew Miller/ZDNET
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037335/7443" target="_top" id="2037335">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037335" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037335/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Why is this deal ZDNET recommended?
@@ -96,16 +97,7 @@ Finally, as much as I enjoy the Apple Watch Ultra 2 for its long battery life, b
 I now frequently use the Reflect and Breathe utilities, which have slowly but surely reduced my stress, proving to be a welcome addition to my Apple Watch use. (Of course, you only need an [Apple Watch](https://www.zdnet.com/article/best-apple-watch/) running on watchOS 10 to use the Mindfulness app. I just like using it on the larger display of the Ultra!)
 
 <!-- affiliate ads begin -->
-<span id="701707">
-					<video width="1536" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/701707.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/7443-701707">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/701707.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fappsumo.8odi.net%2Fc%2F5597632%2F701707%2F7443'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/701707/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -119,10 +111,7 @@ If you don't have an Apple Watch Ultra but are interested in buying one, the Ult
 For me, the Boost Flashlight is a welcome addition, as well as the faster processor supporting Siri on board. Apple's move to carbon-free products is also a nice move for the environment and is something we can all support.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137216/26400" target="_top" id="2137216">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137216" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137216/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -159,22 +148,24 @@ Deals are subject to sell-out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-enhancing-engagement-adding-text-and-links-to-youtube-content/"><u>[New] 2024 Approved Enhancing Engagement Adding Text and Links to YouTube Content</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-enlightening-your-youtube-footage-with-proper-lighting/"><u>[New] 2024 Approved Enlightening Your YouTube Footage with Proper Lighting</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-2024-approved-quick-tips-for-capturing-gotomeeting-conversations/"><u>[New] 2024 Approved Quick Tips for Capturing GoToMeeting Conversations</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-9-fitness-trends-to-captivate-your-online-audience-with-action-for-2024/"><u>[New] 9 Fitness Trends to Captivate Your Online Audience with Action for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-how-to-post-youtube-videos-as-instagram-stories-for-2024/"><u>[New] How to Post YouTube Videos as Instagram Stories for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-discovering-the-top-5-smarter-url-lengtheners-for-youtube/"><u>[Updated] 2024 Approved Discovering the Top 5 Smarter URL Lengtheners for YouTube</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-freefire-gaming-guide-maximizing-video-impact/"><u>[Updated] 2024 Approved FreeFire Gaming Guide Maximizing Video Impact</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-ethical-approaches-to-achieve-one-million-youtube-subscribers-for-2024/"><u>[Updated] Ethical Approaches to Achieve One Million YouTube Subscribers for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-streamlabs-rival-in-the-eye-of-a-streamer/"><u>[Updated] Streamlabs' Rival in the Eye of a Streamer</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-essential-tips-for-organizing-online-gatherings-google-meet/"><u>2024 Approved Essential Tips for Organizing Online Gatherings (Google Meet)</u></a></li>
-<li><a href="https://games-able.techidaily.com/7-steps-to-prevent-incompatibility-in-your-new-computer-buy/"><u>7 Steps to Prevent Incompatibility in Your New Computer Buy</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/chatgpt-plus-is-it-valuable-unveiling-5-essential-perks-of-enrolling-today/"><u>ChatGPT Plus: Is It Valuable? Unveiling 5 Essential Perks of Enrolling Today!</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-lost-data-from-iphone-11-after-ios-update-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Recover Lost Data from iPhone 11 After iOS Update? | Stellar</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/in-2024-a-beginners-approach-to-title-and-caption-integration-in-windows-10-photos/"><u>In 2024, A Beginner's Approach to Title and Caption Integration in Windows 10 Photos</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/in-2024-effortless-note-management-on-mematic-platform/"><u>In 2024, Effortless Note Management on Mematic Platform</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-transformative-tinsel-a-journey-from-box-to-joy/"><u>In 2024, Transformative Tinsel A Journey From Box to Joy</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/the-ultimate-guide-to-video-editing-best-tools-for-short-forms-for-2024/"><u>The Ultimate Guide to Video Editing Best Tools for Short Forms for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-fps-feudalists-unearthing-the-top-7-war-games/"><u>[New] 2024 Approved FPS Feudalists – Unearthing the Top 7 War Games</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-cut-through-clutter-expert-tips-on-editing-overflowing-tiktoks/"><u>[New] Cut Through Clutter Expert Tips on Editing Overflowing TikToks</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-videocapture-with-vlc-appraisal/"><u>[New] In 2024, Videocapture with VLC Appraisal</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/1-free-online-vob-to-wmv-conversion-use-the-easy-to-use-movavi-video-converter/"><u>1. FREE Online VOB to WMV Conversion - Use the Easy-to-Use Movavi Video Converter</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/5pya5paw6keg6akr57yw6l6r6l2v5lu2ic0g5lyy5yyw5yib5osp6kgo6l6plus5lio5oiq5pys5o6n5yi2/"><u>最新视频编辑软件 - 优化创意表达与成本控制</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/1726221116086-asf-mp4/"><u>ASF 파일을 MP4로 제공: 영화 및 음성 비디오를 원활하게 바꾸기 - 무료 온라인 도구</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/capturing-gotomeet-pc-and-mobile-recording-tutorial/"><u>Capturing GoToMeet PC & Mobile Recording Tutorial</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/convertissez-en-gif-gratuitment-transcodeur-video-enligne-avec-movavi/"><u>Convertissez en GIF Gratuitment: Transcodeur Vidéo Enligne Avec Movavi</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/cost-effective-apeman-c450-dash-cam-analysis-a-smart-choice-for-economical-shoppers/"><u>Cost-Effective Apeman C450 Dash Cam Analysis: A Smart Choice for Economical Shoppers</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-easy-tutorial-for-activating-icloud-on-apple-iphone-xr-safe-and-legal-by-drfone-ios/"><u>In 2024, Easy Tutorial for Activating iCloud on Apple iPhone XR Safe and Legal</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-globalscreen-top-ranked-local-and-live-tv-streams/"><u>In 2024, GlobalScreen Top-Ranked Local & Live TV Streams</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-is-pgsharp-legal-when-you-are-playing-pokemon-on-honor-magic-5-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Is pgsharp legal when you are playing pokemon On Honor Magic 5 Pro? | Dr.fone</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/leading-software-for-modifying-image-canvas-tones-2021-edition/"><u>Leading Software for Modifying Image Canvas Tones - 2021 Edition</u></a></li>
+<li><a href="https://discover-comparisons.techidaily.com/recuperacion-de-particiones-borradas-o-extintas-en-windows-11-una-guia-definitiva/"><u>Recuperación De Particiones Borradas O Extintas en Windows 11: Una Guía Definitiva</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/transformer-facilement-votre-fichier-aiff-en-format-ogg-gratuitement-en-ligne-avec-movavi/"><u>Transformer Facilement Votre Fichier AIFF en Format OGG Gratuitement en Ligne Avec Movavi</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/transformez-vos-fichiers-m2ts-gratuitement-avec-movavi-edition-en-ligne-rapide-et-facile/"><u>Transformez Vos Fichiers M2TS Gratuitement Avec Movavi - Édition en Ligne Rapide Et Facile</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/trasformare-video-in-formato-3gp-senza-costo-con-il-servizio-online-di-convertitore-movavi/"><u>Trasformare Video in Formato 3GP Senza Costo Con Il Servizio OnLine Di Convertitore Movavi</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/3gp-swf-movavi/"><u>영구성 비용: 3GP 파일을 SWF로 사용자가 쉽게 변환하는 방법 - Movavi의 도우미 시리즈</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/m4a-m4r-movavi/"><u>オンライン無料M4A M4R変換サービス - Movavi解説</u></a></li>
 </ul></div>
 

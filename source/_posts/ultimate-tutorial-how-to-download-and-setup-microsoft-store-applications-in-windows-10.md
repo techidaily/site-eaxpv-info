@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Tutorial: How to Download and Setup Microsoft Store Applications in Windows 10"
-date: 2024-08-30T16:50:22.948Z
-updated: 2024-08-31T16:50:22.948Z
+date: 2024-11-25T16:04:11.422Z
+updated: 2024-11-28T18:03:07.641Z
 tags:
   - deals
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://thmb.techidaily.com/a88de5655376206e2ee17661cb9dd03b46b68bf81
 ---
 
 ## Ultimate Tutorial: How to Download and Setup Microsoft Store Applications in Windows 10
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -41,16 +45,13 @@ thumbnail: https://thmb.techidaily.com/a88de5655376206e2ee17661cb9dd03b46b68bf81
 ![Search for 'Microsoft store' in the Start menu search bar.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/1-microsoft-store.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  When the "Microsoft Store" app opens, you will see a screen that includes many flashy banners that advertise the latest deals and other promotions.
 
 ![The Microsoft Store advertises all kinds of apps and media.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/2-the-microsoft-store.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
  If you're looking for a specific type of app, click one of the categories to the left-hand side. Some categories, most notably Movies & TV, also allow you to purchase media, like movies. 
 
 ![The app types listed on the left.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/3-app-types-on-left.png) 
@@ -59,23 +60,18 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
 ![Search for an app using the search bar at the top of the Microsoft Store.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/4-searching-for-the-hulu-app.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
  Once you locate a program you'd like to install, first check whether it is a free or paid app. If you don't see a price listed, the app is generally free, or requires a separate purchase (as with a Netflix account). Click the "Get" button to add and app to your account and download it for the first time. If you've downloaded an app previously but unistalled it, you'll see an "Install" button instead. 
 
 ![Click the 'Get' button to add an app to your account, then click 'Install' to actually install it to your PC.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/5-get-app.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  If the program requires a purchase before downloading, you will see a large "Buy for" button followed by a price. 
 
 ![Buy Microsoft Flight Simulator for 59.99 USD.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/6-buy-for-x-price.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
  After following the purchase steps, the download will begin. You will see the "Get" or "Install" button change to a small circle that indicates your download's progress. You can also click this button to stop a download in progress if you change your mind, or if it is taking up too much time or bandwidth. 
 
 ![The download is in progress when the 'Get' or 'Install' button changes to a stop button.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/7-download-in-progress.png) 
@@ -84,16 +80,21 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
 ![Netflix in the Start menu under 'N' in the alphabetical list.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/8-netflix-in-start-menu.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
-<!-- affiliate ads end -->
  If you have trouble finding the app you just downloaded in the "Start" menu, open "Start" and begin typing the name of the app to perform a search. When the results appear, click the icon of the app to launch it.
 
 ![Search for the app you installed using the Start menu search, then click the result labeled 'App.'](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/9-searching-for-netflix.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Also, if you ever need to [see a complete list of all the apps you've bought or installed](https://tech-revival.techidaily.com/best-8-chatgpt-interactions-to-enhance-productivity-and-decrease-distractions/) from the Microsoft Store, launch the "Microsoft Store" app and click the "Library" button in the bottom left corner of the window. 
 
 ![Click the 'Library' button in the bottom-left corner.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/10-click-the-library-button.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You will see a list of all the apps you have installed through the Microsoft Store, and you can sort it by install date and other criteria. If you want to [uninstall the app later](https://tech-recovery.techidaily.com/top-savings-on-apple-watches-in-april/), you'll need to visit Settings > Apps, select the program, then click "Uninstall."
 
@@ -105,8 +106,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -114,4 +113,24 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-navigate-through-the-5-best-mac-sniping-apps-easily/"><u>[New] 2024 Approved Navigate Through The 5 Best Mac Sniping Apps Easily</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-2024-approved-visionary-editing-the-pinnacle-15-gopro-cinematography-luts-reviewed/"><u>[New] 2024 Approved Visionary Editing The Pinnacle 15 GoPro Cinematography LUTs Reviewed</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-eliminating-backlogged-videos-from-your-youtube-history-for-2024/"><u>[New] Eliminating Backlogged Videos From Your YouTube History for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-from-novice-to-vlogger-professional-video-making-on-mobile-devices-for-2024/"><u>[Updated] From Novice to Vlogger Professional Video Making on Mobile Devices for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-high-quality-game-capture-apps-reviewed-for-2024/"><u>[Updated] High-Quality Game Capture Apps Reviewed for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-5-leading-tools-for-crafting-superior-video-titles-and-tags/"><u>[Updated] In 2024, 5 Leading Tools for Crafting Superior Video Titles and Tags</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-breakthrough-techniques-in-youtube-content-creation/"><u>[Updated] In 2024, Breakthrough Techniques in YouTube Content Creation</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-hitting-the-high-notes-of-youtube-editing-audio-addition-secrets-revealed/"><u>[Updated] In 2024, Hitting the High Notes of YouTube Editing Audio Addition Secrets Revealed</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-outstanding-movies-beyond-the-leading-titles/"><u>[Updated] Outstanding Movies Beyond the Leading Titles</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-top-bargain-video-snippets-grab-youtube-images-without-cost/"><u>[Updated] Top Bargain Video Snippets - Grab YouTube Images Without Cost</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-expert-ideal-approaches-to-correct-iphone-hdr-overexposure-in-adobe-premiere/"><u>2024 Approved [Expert] Ideal Approaches to Correct iPhone HDR Overexposure in Adobe Premiere</u></a></li>
+<li><a href="https://location-social.techidaily.com/4-most-known-ways-to-find-someone-on-tinder-for-xiaomi-14-by-name-drfone-by-drfone-virtual-android/"><u>4 Most-Known Ways to Find Someone on Tinder For Xiaomi 14 by Name | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/ensure-seamless-gaming-the-recent-update-of-nvidias-geforce-210-drivers-on-windows-11-platforms/"><u>Ensure Seamless Gaming: The Recent Update of Nvidia's GeForce 210 Drivers on Windows 11 Platforms</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-best-anti-tracker-software-for-samsung-galaxy-s23-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, Best Anti Tracker Software For Samsung Galaxy S23 Ultra | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-pause-life360-location-sharing-for-infinix-smart-8-drfone-by-drfone-virtual-android/"><u>In 2024, How To Pause Life360 Location Sharing For Infinix Smart 8 | Dr.fone</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/skapa-en-oppen-makt-13-strategier-for-frilootande-video-produktion-med-movavi/"><u>Skapa En Öppen Makt: 13 Strategier För Frilootande Video Produktion Med Movavi</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/top-15-augmented-reality-games-like-pokemon-go-to-play-on-oppo-find-x7-drfone-by-drfone-virtual-android/"><u>Top 15 Augmented Reality Games Like Pokémon GO To Play On Oppo Find X7 | Dr.fone</u></a></li>
+</ul></div>
 

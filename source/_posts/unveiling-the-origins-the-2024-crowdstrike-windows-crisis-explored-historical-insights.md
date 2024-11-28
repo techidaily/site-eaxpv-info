@@ -1,7 +1,7 @@
 ---
 title: "Unveiling the Origins: The 2024 CrowdStrike Windows Crisis Explored - Historical Insights"
-date: 2024-11-14T19:35:00.534Z
-updated: 2024-11-19T22:53:13.485Z
+date: 2024-11-25T17:48:13.424Z
+updated: 2024-11-28T17:50:50.951Z
 tags:
   - apple
 categories:
@@ -32,6 +32,10 @@ In this case, the trusted software developer is a firm called CrowdStrike Holdin
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What happened?
 
 CrowdStrike, which sells security software designed to keep systems safe from external attacks, pushed a faulty ["sensor configuration update"](https://www.crowdstrike.com/blog/falcon-update-for-windows-hosts-technical-details/) to the millions of PCs worldwide running its Falcon Sensor software. That update was, according to CrowdStrike, a "Channel File" whose function was to identify newly observed, malicious activity by cyberattackers.
@@ -51,10 +55,7 @@ Repairing the damage from a flaw like this is a painfully tedious process that r
 If you know anyone whose job involves administering Windows PCs in a corporate network that uses the CrowdStrike code, you can be confident they are very busy right now, and will be for days to come.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130530/26400" target="_top" id="2130530">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130530" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130530/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## We've seen this movie before
@@ -94,10 +95,7 @@ In the You Can't Make This Up Department… CrowdStrike's founder and CEO, Georg
 What makes the 2024 sequel so much worse is that it also affected Windows-based servers running in the cloud, on Microsoft Azure and on AWS. Just as with the many laptops and desktop PCs that were bricked by this faulty update, the cloud-based servers require time-consuming manual interventions to recover.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123726/7443" target="_top" id="2123726">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123726" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123726/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## CrowdStrike's QA failed
@@ -127,10 +125,7 @@ As part of its initial response, CrowdStrike says it plans to take additional me
 Meanwhile, the United States House of Representatives Homeland Security Committee plans to call CrowdStrike's CEO up for hearings on what went wrong, and CrowdStrike's Chief Security Officer, Shawn Henry, [posted an apology on LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7220983915421806592/), admitting "On Friday, we failed you. ... The confidence we built in drips over the years was lost in buckets within hours, and it was a gut punch."
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047351/19272" target="_top" id="2047351">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047351" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047351/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How much fault should Microsoft shoulder?
@@ -181,19 +176,24 @@ Nonetheless, this incident, which caused many billions of dollars' worth of dama
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-fiscal-fortitude-the-story-of-mr-beast-for-2024/"><u>[New] Fiscal Fortitude The Story of Mr. Beast for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-frame-by-frame-building-a-filmmaking-foundation-on-youtube-for-2024/"><u>[New] Frame by Frame Building a Filmmaking Foundation on YouTube for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-guiding-imovie-content-from-home-studio-to-youtube-hub-for-2024/"><u>[New] Guiding iMovie Content From Home Studio to YouTube Hub for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-guide-to-incorited-visuals-in-text-without-cost/"><u>[New] In 2024, Guide to Incorited Visuals in Text Without Cost</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-in-2024-the-ultimate-monitor-list-for-an-immersive-xbox-series-x-experience/"><u>[New] In 2024, The Ultimate Monitor List for an Immersive Xbox Series X Experience</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-guide-to-producing-effective-youtube-promo-videos/"><u>[Updated] 2024 Approved Guide to Producing Effective YouTube Promo Videos</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-frame-by-frame-verbalizer/"><u>[Updated] In 2024, Frame by Frame Verbalizer</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-leveraging-social-influence-a-guide-to-biz-success-on-snap-for-2024/"><u>[Updated] Leveraging Social Influence A Guide to Biz Success on Snap for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-artisans-guide-to-chromatic-mastery/"><u>2024 Approved The Artisan's Guide to Chromatic Mastery</u></a></li>
-<li><a href="https://program-issues.techidaily.com/comprehensive-guide-making-your-steam-games-work-seamlessly-in-windows-11/"><u>Comprehensive Guide: Making Your Steam Games Work Seamlessly in Windows 11</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-get-the-dragon-scale-and-evolution-enabled-pokemon-on-vivo-t2-5g-drfone-by-drfone-virtual-android/"><u>How to get the dragon scale and evolution-enabled pokemon On Vivo T2 5G? | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-retrieve-lost-files-from-samsung-galaxy-m34-by-fonelab-android-recover-data/"><u>How to retrieve lost files from Samsung Galaxy M34?</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/talk-turned-type-essential-apps-for-offline-speech-recognition/"><u>Talk Turned Type Essential Apps for Offline Speech Recognition</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/vizio-smartcast-vs-firestick-a-comparison/"><u>Vizio SmartCast vs FireStick: A Comparison</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/levating-your-youtube-comments-with-emoji-skills-for-2024/"><u>[New] Elevating Your YouTube Comments with Emoji Skills for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-beauty-breakdown-mastering-makeup-and-hauls-online-for-2024/"><u>[Updated] Beauty Breakdown Mastering Makeup and Hauls Online for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/cdwindows-and-mac/"><u>「無料CDバックアップツール集︰Windows & Mac対応！ディスクへのデータコピー方法完全ガイド」</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/1726224668417-movavi/"><u>「映像と音声シンセサイズについて✨：Movaviソフトウェアの基本教程」</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/1-how-to-convert-wmv-videos-to-mp4-format-for-free-using-online-tools/"><u>1. How to Convert WMV Videos to MP4 Format for Free Using Online Tools</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-top-picks-for-remote-work-best-secure-video-services/"><u>2024 Approved Top Picks for Remote Work Best Secure Video Services</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/bring-the-big-screen-into-your-living-room-a-guide-to-streaming-3d-movies-on-fandango/"><u>Bring the Big Screen Into Your Living Room: A Guide to Streaming 3D Movies on Fandango</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/digital-dilemma-comparing-dvd-blu-ray-and-digital-downloads-to-find-the-ultimate-viewing-experience/"><u>Digital Dilemma: Comparing DVD, Blu-Ray and Digital Downloads to Find the Ultimate Viewing Experience</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/elevez-la-qualite-de-vos-creations-videos-avec-lintelligence-artificielle-de-winxvideo/"><u>Élevez La Qualité De Vos Créations Vidéos Avec L'intelligence Artificielle De Winxvideo</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/gpu-acceleration-in-handbrake-top-frequently-asked-questions-demystified/"><u>GPU Acceleration in Handbrake: Top Frequently Asked Questions Demystified</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-get-out-of-dfu-mode-on-iphone-15-pro-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Get Out of DFU Mode on iPhone 15 Pro? | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-exploring-top-9-iphone-applications-for-adding-photo-water-marks/"><u>In 2024, Exploring Top 9 iPhone Applications for Adding Photo Water Marks</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-unlock-your-device-icloud-dns-bypass-explained-and-tested-plus-easy-alternatives-on-iphone-15-pro-by-drfone-ios/"><u>In 2024, Unlock Your Device iCloud DNS Bypass Explained and Tested, Plus Easy Alternatives On iPhone 15 Pro</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/mastering-motion-correction-professional-tips-for-video-stabilizing-using-adobe-premiere-pro/"><u>Mastering Motion Correction: Professional Tips for Video Stabilizing Using Adobe Premiere Pro</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/209667349-9781547574551-meditacion-tecnicas-de-meditacion-para-relajarse-y-aliviar-la-ansiedad-meditation/"><u>Meditación: Técnicas De Meditación Para Relajarse Y Aliviar La Ansiedad ( Meditation) | Free Book</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/mp4-video-compression-techniques-maintaining-high-quality-output/"><u>MP4 Video Compression Techniques: Maintaining High-Quality Output</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/navigating-the-risks-of-using-popcorn-time-do-you-need-a-vpn-for-protection/"><u>Navigating the Risks of Using Popcorn Time - Do You Need a VPN for Protection?</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/solving-the-problem-of-youtube-video-unavailability-in-vlc-player-a-comprehensive-guide/"><u>Solving the Problem of YouTube Video Unavailability in VLC Player: A Comprehensive Guide</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/step-by-step-masterclass-securely-transferring-cinema-content-to-mac-and-macbook-pcs/"><u>Step-by-Step Masterclass: Securely Transferring Cinema Content to Mac and MacBook PCs</u></a></li>
 </ul></div>
 

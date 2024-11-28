@@ -1,7 +1,7 @@
 ---
 title: Discover the Latest Innovations! Uncover New Developments in iPhone, iPad, and Mac Tech Including Artificial Intelligence Coming This Fall as Reported by ZDNET
-date: 2024-11-13T16:28:02.018Z
-updated: 2024-11-19T16:57:06.545Z
+date: 2024-11-22T18:18:11.908Z
+updated: 2024-11-28T16:51:14.981Z
 tags:
   - apple
 categories:
@@ -60,13 +60,6 @@ Maria Diaz/ZDNET
 * In the Notes app, users can **record and transcribe audio**, which Apple Intelligence will generate a text summary of. This experience is also available in the Notes phone app.
 * Apple Intelligence is free on iOS 18, iPadOS 18, and MacOS Sequoia, and will be available to try in English only this summer.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139109/17108" target="_top" id="2139109">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139109" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139109/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Partnership with OpenAI
 
 Jason Hiner/ZDNET
@@ -74,6 +67,10 @@ Jason Hiner/ZDNET
 * Apple also confirmed its partnership with OpenAI by integrating [ChatGPT](https://www.zdnet.com/article/what-is-chatgpt-and-why-does-it-matter-heres-everything-you-need-to-know/) with Siri. With a user's permission, Siri can send a request to ChatGPT for help. For example, if you ask Siri for assistance on a task it deems better for ChatGPT, Siri will suggest you use the chatbot instead and forward your request. ChatGPT's writing capabilities can also be leveraged within certain writing tasks.
 * Users can access ChatGPT via this integration for free, and OpenAI will not log their data. ChatGPT Plus users can connect their subscriptions to access more advanced features, in which case OpenAI's data usage policies apply.
 * The ChatGPT integration will be coming to iOS 18, iPadOS 18, and MacOS Sequoia later this year.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## iOS 18
 
@@ -93,6 +90,10 @@ Adam Breeden/ZDNET
 * The **Safari app** was upgraded to include key information about a webpage. You can read more about the Safari upgrades under the MacOS section of this article.
 * The **Calendar app** can now pull from the Reminders app for a more seamless schedule overview.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## WatchOS 11
 
 Adam Breeden/ZDNET
@@ -108,10 +109,7 @@ Adam Breeden/ZDNET
 * Another notable change is that the **double tap gesture** can be used to scroll through apps.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052060/7443" target="_top" id="2052060">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052060" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052060/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## iPadOS 18
@@ -124,13 +122,6 @@ Adam Breeden/ZDNET
 * Handwriting in Notes also got an upgrade with **Smart** **Script**, which refines users' writing to make it more legible while keeping the authenticity of the user's handwriting style. The feature can also match copied and pasted text to the user's handwriting. Typed text was also enhanced, with five new highlight colors and the ability to toggle sections under headings or subheadings.
 * iPadOS 18 supports **screen-sharing via SharePlay** and the same Control Center customizations, Photos app upgrades, Safari updates, and emoji Tapbacks found in **iOS 18.**
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934254/19272" target="_top" id="1934254">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934254" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934254/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## MacOS 15 (Sequoia)
 
 Adam Breeden/ZDNET
@@ -141,6 +132,10 @@ Adam Breeden/ZDNET
 * **Video meetings** are also getting an upgrade, with new backgrounds and a preview experience that allows you to see what you are about to share before sharing it. This feature works with popular video conferencing applications such as FaceTime and Zoom.
 * The **AI summarization** tool will live in Safari to help users process content like web pages and articles more efficiently. Safari will also assist users in discovering more helpful information about a page they are browsing when relevant, such as directions.
 * Apple also launched a new **Viewer experience**, which does for video what Reader does for text.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## VisionOS 2
 
@@ -159,6 +154,10 @@ Jason Hiner/ZDNET
 * Users can **cast content** from their iPhone, iPad, or Mac to the Vision Pro using AirPlay.
 * Apple is also making the Vision Pro available in more countries starting June 28\. You can see the full list [here](https://www.apple.com/newsroom/2024/06/apple-vision-pro-arrives-in-new-countries-and-regions-beginning-june-28/).
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## AirPods
 
 Jason Hiner/ZDNET
@@ -166,13 +165,6 @@ Jason Hiner/ZDNET
 * AirPods Pro are getting **Voice Isolation** to enhance call quality in noisier environments.
 * With the new **Siri Interactions**, users can now **nod or shake their head** "yes" or "no" when responding to Siri.
 * Apple is also releasing a **Personalized Spatial Audio API** for game developers to build around the AirPods' audio technology.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006941/19272" target="_top" id="2006941">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006941" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006941/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## tvOS 18
 
@@ -218,20 +210,21 @@ Screenshot by Nina Raemont/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-much-money-can-you-make-via-youtube-ad-revenue-and-cpm-rates/"><u>[New] 2024 Approved How Much Money Can You Make via YouTube Ad Revenue and CPM Rates?</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-pro-level-insights-transforming-your-instagram-feed/"><u>[New] 2024 Approved Pro-Level Insights Transforming Your Instagram Feed</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-comprehensive-guide-to-recording-hulu-across-platforms-for-2024/"><u>[New] Comprehensive Guide to Recording Hulu Across Platforms for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-guidance-for-effortless-addition-of-youtube-playlists-to-your-site-for-2024/"><u>[New] Guidance for Effortless Addition of YouTube Playlists to Your Site for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-how-to-execute-a-budget-friendly-youtube-seminar-for-2024/"><u>[New] How to Execute a Budget-Friendly Youtube Seminar for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-harness-10-tools-to-grab-youtube-images-online/"><u>[Updated] 2024 Approved Harness 10 Tools to Grab YouTube Images Online</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-graph-gems-2017s-statistical-youtube-surprises-for-2024/"><u>[Updated] Graph Gems 2017'S Statistical YouTube Surprises for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-rediscover-the-past-watching-youtubes-lost-footage-for-2024/"><u>[Updated] How to Rediscover the Past Watching Youtube's Lost Footage for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-hash-tags-that-catapult-you-to-6k-views-on-youtube/"><u>[Updated] In 2024, Hash Tags That Catapult You to 6K Views on YouTube</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-permanent-name-shift-on-google-meet-devices/"><u>[Updated] In 2024, Permanent Name Shift on Google Meet Devices</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/2024-approved-how-to-get-more-followers-on-igtv-5-ways/"><u>2024 Approved How to Get More Followers on IGTV [5 Ways]</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/exploring-the-ipod-touch-7th-generation-smart-stop-gap/"><u>Exploring the iPod Touch 7Th Generation: Smart Stop-Gap</u></a></li>
-<li><a href="https://techtrends.techidaily.com/guide-to-easy-pc-recovery-on-the-latest-windows-11-update/"><u>Guide to Easy PC Recovery on the Latest Windows 11 Update</u></a></li>
-<li><a href="https://techidaily.com/the-5-best-methods-to-track-a-lost-or-stolen-iphone-7-plus-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>The 5 Best Methods to Track a Lost or Stolen iPhone 7 Plus | Stellar</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-sculpting-soundscapes-advanced-methods-for-isolating-lyrics-from-harmonized-tunes-for-2024/"><u>Updated Sculpting Soundscapes Advanced Methods for Isolating Lyrics From Harmonized Tunes for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-lifecam-videoapp-quality-checkup-for-2024/"><u>[Updated] LifeCam VideoApp Quality Checkup for 2024</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/updated-seamless-guest-entry-into-your-peers-tiktok-lives/"><u>[Updated] Seamless Guest Entry Into Your Peers' TikTok Lives</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-the-essential-blueprint-for-finding-and-enjoying-premium-cricket-streams/"><u>[Updated] The Essential Blueprint for Finding and Enjoying Premium Cricket Streams</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/1725287293079-dvdmac/"><u>市販・レンタルDVDからMacへの移行手順：ステップバイステップガイド</u></a></li>
+<li><a href="https://techtrends.techidaily.com/conversion-gratuite-du-fichier-flac-en-format-mp3mp4-en-ligne-avec-movavi/"><u>Conversion Gratuite Du Fichier FLAC en Format MP3/MP4 en Ligne Avec Movavi</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/easy-tutorial-on-transforming-mtsm2ts-video-formats-compatible-with-windows-movie-maker/"><u>Easy Tutorial on Transforming MTS/M2TS Video Formats Compatible with Windows Movie Maker</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/effective-techniques-for-correcting-av-desynchronization-in-mkv-files/"><u>Effective Techniques for Correcting AV Desynchronization in MKV Files</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/effortless-blu-ray-copying-from-disc-to-computer-top-secure-decrypting-programs/"><u>Effortless Blu-Ray Copying From Disc to Computer: Top Secure Decrypting Programs</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/ejemplo-claro-y-efectivo-sobre-como-transferir-dvds-sin-perdida-de-calidad-usando-un-mac-big-sur/"><u>Ejemplo Claro Y Efectivo Sobre Cómo Transferir DVDs Sin Pérdida De Calidad Usando Un Mac Big Sur</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/the-symphony-of-screens-coordinated-content-consumption/"><u>The Symphony of Screens Coordinated Content Consumption</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-get-back-lost-call-history-from-motorola-razr-40-by-fonelab-android-recover-call-logs/"><u>The way to get back lost call history from Motorola Razr 40</u></a></li>
+<li><a href="https://apple-account.techidaily.com/tips-and-tricks-for-apple-id-locked-issue-from-apple-iphone-13-pro-max-by-drfone-ios/"><u>Tips and Tricks for Apple ID Locked Issue From Apple iPhone 13 Pro Max</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/ultimate-guide-achieving-top-quality-compression-of-videos-using-imovie/"><u>Ultimate Guide: Achieving Top-Quality Compression of Videos Using iMovie</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/k-higher-engagement-the-power-of-precise-timestamping-for-2024/"><u>Unlock Higher Engagement The Power of Precise Timestamping for 2024</u></a></li>
+<li><a href="https://discover-able.techidaily.com/what-is-a-axx-file-unveiling-its-role-in-software-compatibility/"><u>What Is a .AXX File? Unveiling Its Role in Software Compatibility</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/windows-movie-maker-win1110/"><u>Windows Movie Maker 在 Win11/10 系统中修复故障 - 解决无声音和其他问题</u></a></li>
 </ul></div>
 

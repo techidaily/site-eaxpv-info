@@ -1,7 +1,7 @@
 ---
 title: Top 6 Simple Steps to Enhance Your Linux System's Security
-date: 2024-08-30T16:49:20.510Z
-updated: 2024-08-31T16:49:20.510Z
+date: 2024-11-21T16:41:24.686Z
+updated: 2024-11-28T16:01:56.600Z
 tags:
   - desktop
 categories:
@@ -21,6 +21,10 @@ Cybersecurity can be confusing. Here are six easy things you can do, and habits 
 
  Some of these are settings you can apply, but some of them are habits you need to adopt, or actions that need to be repeated periodically. As you’ve likely heard, cybersecurity isn’t a destination, it’s an ongoing journey.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1  Keep Your System Updated 
 
  All non-trivial software has bugs. Some bugs can lead to vulnerabilities. Vulnerabilities are weak spots in your armor. These vulnerabilities are exploited by cybercriminals. A common attack type uses malicious software, known as malware.
@@ -39,6 +43,10 @@ Cybersecurity can be confusing. Here are six easy things you can do, and habits 
 
 ![The login screen on a laptop running Ubuntu Linux.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/52848723811_08b4c56473_o.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Hannah Stryker / How-To Geek  
   
  Use strong passwords. A combination of three unrelated words separated by punctuation characters produce passwords that are very resilient to brute-force attacks. And make your passwords unique. Don’t re-use passwords on more than one system, and never share passwords between people. Create unique accounts for your users.
@@ -50,8 +58,9 @@ Hannah Stryker / How-To Geek
  You can add two-factor authentication to your own computers too. this is especially valuable if you connect to them remotely, using SSH.
 
 <!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 3  Control User Access 
 
  We’ve already mentioned that each user should have their own unique log in and user account. The other golden rule is to use a regular user account for normal user tasks. Only use the root account for system administration.
@@ -59,18 +68,15 @@ Hannah Stryker / How-To Geek
  Most Linux systems disable the root account by default. To access root-level functionality you need to use sudo or run0\. This gives you short-term superuser status then demotes you to a normal user when you’ve completed that specific task.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 4  Improve Your Network Security 
 
 [Turn on the firewall](https://extra-support.techidaily.com/new-mastering-video-playback-rate-adjustments-in-snapchat/) in your Linux distribution, and turn on the one in your broadband router too. Use WPA2 or WPA3 encryption for your wireless network, and change the Wi-Fi password from the default, if you can.
 
  Many modern Wi-Fi routers allow you to configure a [guest Wi-Fi network](https://unlock-android.techidaily.com/in-2024-can-i-bypass-a-forgotten-phone-password-of-itel-p55-by-drfone-android/). This allows them to get to the internet, but isolates them from your main network.
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
-<!-- affiliate ads end -->
 ## 5  Check Your Software Management 
 
  You should only ever install software from trusted sources such as your Linux distribution’s official repositories, a project’s official website, or from their official Git repositories.
@@ -82,8 +88,9 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
  If you download an application and find it doesn’t suit your needs, uninstall it. Don’t just leave it on your machine. If a project is abandoned, and no longer in development, find a replacement. Using an old version of software that no longer receives security patches increases your exposure to risks.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 6  Make Backups and Stay Educated 
 
 [Make backups](https://blog-min.techidaily.com/how-to-downgrade-iphone-6-plus-without-data-loss-drfone-by-drfone-ios-system-repair-ios-system-repair/). If disaster strikes—whether cyber-related or not—you’ll be able to reinstall Linux and [restore your data](https://phone-solutions.techidaily.com/4-ways-to-extract-data-from-corrupt-excel-2010-file-by-stellar-guide/). Make multiple backups on different media. Have at least one off-site copy of your data. [This is easy to achieve](https://extra-tips.techidaily.com/crafting-flawless-subtitles-with-precision-and-tips/) with cheap cloud storage.
@@ -102,8 +109,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -111,4 +116,19 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-breaking-down-the-hype-around-recordcast/"><u>[New] Breaking Down the Hype Around RecordCast</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-maximize-content-experience-with-these-top-6-youtube-shorts-downloader-apps/"><u>[New] Maximize Content Experience with These Top 6 YouTube Shorts Downloader Apps</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-trendsetting-visualizations-for-the-year-ahead/"><u>[New] Trendsetting Visualizations for the Year Ahead</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-frame-by-frame-mastery-in-youtube-no-cost-required/"><u>[Updated] In 2024, Frame by Frame Mastery in YouTube - No Cost Required</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-harmonizing-youtube-content-with-audio-files/"><u>[Updated] In 2024, Harmonizing YouTube Content with Audio Files</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/3-effective-methods-for-retrieving-iphone-note-data-from-backups-step-by-step-guide/"><u>3 Effective Methods for Retrieving iPhone Note Data From Backups: Step-by-Step Guide</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/boost-your-content-access-free-vocal-sfx-in-2024/"><u>Boost Your Content Access Free Vocal SFX, In 2024</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/bulk-conversion-of-videos-into-audio-files-with-vlc-a-comprehensive-guide/"><u>Bulk Conversion of Videos Into Audio Files with VLC: A Comprehensive Guide</u></a></li>
+<li><a href="https://win-info.techidaily.com/guida-completa-scelta-del-solitario-e-gratuito-software-clonato-per-windows-11/"><u>Guida Completa: Scelta Del Solitario E Gratuito Software Clonato per Windows 11</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-faster-memory-contributes-to-improved-computing-experience-a-deep-dive/"><u>How Faster Memory Contributes to Improved Computing Experience: A Deep Dive</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-simulate-gps-movement-in-ar-games-on-tecno-spark-10-pro-drfone-by-drfone-virtual-android/"><u>How to Simulate GPS Movement in AR games On Tecno Spark 10 Pro? | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/improved-system-stability-and-performance-enhancements-to-prevent-frequent-freezing-or-crashing-incidents/"><u>Improved System Stability and Performance Enhancements to Prevent Frequent Freezing or Crashing Incidents.</u></a></li>
+</ul></div>
 

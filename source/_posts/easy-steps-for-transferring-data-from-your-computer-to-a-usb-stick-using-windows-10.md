@@ -1,7 +1,7 @@
 ---
 title: Easy Steps for Transferring Data From Your Computer to a USB Stick Using Windows 10
-date: 2024-08-30T16:49:44.494Z
-updated: 2024-08-31T16:49:44.494Z
+date: 2024-11-26T17:28:00.561Z
+updated: 2024-11-28T16:19:40.236Z
 tags:
   - deals
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 ---
 
 ## Easy Steps for Transferring Data From Your Computer to a USB Stick Using Windows 10
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -35,11 +39,16 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 ![Searching for "This PC" in the Windows 10 Start Menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/launch-this-pc.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  In the window that pops up, locate the section called "Devices And Drives." If necessary, click the small carat-shaped arrow to the left of the section header to reveal a list of the drives.
 
 ![The devices and drives on Windows 10.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/devices-and-drives.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If your USB drive has been recognized correctly and is ready to receive files, it will appear in this location with a name and a drive letter assigned to it, such as "D:", "E:", or "F:", or another letter. Note that the "C:" drive is almost always the main drive on your PC, unless you go very out of your way to change it.
 
@@ -48,19 +57,15 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 ![Our example USB drive is has been assigned the letter K.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/usb-drive.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
-
- It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
-
-  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
-
-  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  If the USB drive doesn't show up in your "Devices And Drives" list, you'll have to perform some in-depth sleuthing with [our guide to finding missing USB drives](https://instagram-videos.techidaily.com/updated-2024-approved-captivating-cycles-on-ig-perfecting-the-boomerang-effect/) to figure out what's going on.
 
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Find the Files You Want to Copy
 
  While keeping the USB drive window open, press Ctrl+N to open a new File Explorer window. Use the new window to locate the files you would like to copy.
@@ -71,9 +76,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
  What happens next depends on how you'd like to copy the files. There are several ways to do it, but here are the two most common methods.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
-<!-- affiliate ads end -->
 ##  How to Copy Files by Dragging and Dropping
 
  Using your mouse cursor, select the file (or files) you would like to copy, then click and hold the mouse button to drag the files to the USB thumb drive window.
@@ -86,9 +88,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
  In the future, you can also drag files directly onto the USB flash drive icon in "This PC" to copy them to that location.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
-<!-- affiliate ads end -->
 ##  How to Copy Files Using Copy and Paste
 
  You can also copy files in Windows using the [Clipboard](https://twitter-videos.techidaily.com/new-in-2024-gain-twitter-gifs-for-pc-download-made-simple/). Using your mouse cursor, select the file (or files) you would like to copy, then right-click on the selection. In the menu that pops up, select "Copy."
@@ -99,14 +98,15 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 ![Right-click empty space in the destination drive and select "Paste."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/select-paste.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
  The files you "copied" to the Clipboard earlier will be copied onto the USB flash drive.
 
 ![Files being pasted in a USB drive.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/files-moving.png) 
 
  Congratulations: Your files are now on the USB drive. You can unplug it if you'd like. [It's a good idea to "Safely Remove" (or eject) the drive before you do](https://www.howtogeek.com/118546/htg-explains-do-you-really-need-to-safely-remove-usb-sticks/).
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  What to Do If You Run out of Space on the Flash Drive
 
@@ -114,9 +114,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 ![An insufficient space message in Windows 10.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/08/win10_not_enough_space.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  There are three basic solutions. The first is to explore the contents of your USB flash drive and see if it already contains data that you can delete to free up space. Be careful that you don't delete anything that you haven't already backed up somewhere else.
 
  The second solution is to purchase a larger USB flash drive. They are available on online shopping sites like [Amazon.com](https://www.amazon.com/USB-Flash-Drives-Storage-Add-Ons/b?ie=UTF8&node=3151491&tag=hotoge-20&ascsubtag=UUhtgUeUpU211756&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2F685516%2Fhow-to-copy-files-to-a-usb-flash-drive-on-windows-10%2F&asc%5Fcampaign=Evergreen) and even at many pharmacy and grocery stores. USB drives with higher capacity usually cost more, but they can be a good investment if you need to transfer or back up a large amount of data. You can also buy an [external SSD](https://screen-capture.techidaily.com/new-optimize-logitech-footage-background-free-method/) that attaches to your PC via USB. They function much like a regular USB drive, but they're faster, typically more robust, and are readily available in multi-terabyte sizes.
@@ -129,8 +126,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -138,4 +133,20 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/new-from-unnoticed-to-noteworthy-building-a-viral-fb-presence-for-2024/"><u>[New] From Unnoticed to Noteworthy Building a Viral FB Presence for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-tutorial-posting-restricted-youtube-to-gmail-accounts/"><u>[New] Tutorial Posting Restricted YouTube to Gmail Accounts</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-ultimate-guide-premium-free-video-conferencing-tools-for-phones/"><u>[New] Ultimate Guide Premium-Free Video Conferencing Tools for Phones</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-best-matched-sd-cards-to-boost-your-gopro-heros-performance/"><u>[Updated] Best Matched SD Cards to Boost Your GoPro HERO's Performance</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-bring-imagination-to-life-self-animated-artistry/"><u>[Updated] In 2024, Bring Imagination to Life Self-Animated Artistry</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-capturing-the-best-visuals-in-vlogs/"><u>[Updated] In 2024, Capturing the Best Visuals in Vlogs</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-transform-concepts-to-successful-youtube-titles/"><u>[Updated] Transform Concepts to Successful YouTube Titles</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/2024-approved-effortless-resolution-of-macs-green-screen-problem-for-youtubers/"><u>2024 Approved Effortless Resolution of Mac's Green Screen Problem for YouTubers</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-navigating-instagrams-reel-arena-with-precision/"><u>2024 Approved Navigating Instagram's Reel Arena with Precision</u></a></li>
+<li><a href="https://fox-links.techidaily.com/best-twitter-video-converters-to-upload-a-video-for-twitter/"><u>Best Twitter Video Converters to Upload a Video for Twitter</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-the-prime-selection-of-affordable-online-video-recorders/"><u>In 2024, The Prime Selection of Affordable Online Video Recorders</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/the-top-5-android-apps-that-use-fingerprint-sensor-to-lock-your-apps-on-vivo-x-flip-by-drfone-android/"><u>The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On Vivo X Flip</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/visualslice-software-for-2024/"><u>VisualSlice Software for 2024</u></a></li>
+</ul></div>
 

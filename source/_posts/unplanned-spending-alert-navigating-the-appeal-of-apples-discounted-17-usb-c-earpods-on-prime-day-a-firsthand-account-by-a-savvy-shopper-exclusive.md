@@ -1,7 +1,7 @@
 ---
 title: Unplanned Spending Alert! Navigating the Appeal of Apple's Discounted $17 USB-C EarPods on Prime Day – A Firsthand Account by a Savvy Shopper Exclusive
-date: 2024-11-14T21:23:17.259Z
-updated: 2024-11-19T19:33:56.070Z
+date: 2024-11-27T16:30:23.834Z
+updated: 2024-11-28T18:17:33.371Z
 tags:
   - apple
 categories:
@@ -30,6 +30,10 @@ For one, wired earbuds don't need to be charged; you just plug them into a phone
 Secondly, the microphone quality on Apple's wired EarPods is some of the best I've heard. For video meetings, phone calls, and even voice recording, the EarPods' microphone is on par with lavaliers that cost significantly more. I've used these to record several video scripts for ZDNET's social media channels, and it blows my mind every time I hear how crisp the audio comes out.
 
 It should come as no surprise that I quickly bought another pair of USB-C [Apple EarPods](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FApple-EarPods-Headphones-Built-Control%2Fdp%2FB0CHXC5ZDX%3Fth%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ca6dc8bba-2259-4841-91ea-e1c02f1a6381%7Cdtp&dtb=1) when they finally went on sale this morning. You can bet I'll be bringing them along for more plane rides and commutes throughout the summer.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## When will this deal expire?
 
@@ -67,29 +71,15 @@ Deals are subject to sell out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-financial-forecasts-in-focus-select-stock-youtube-channels/"><u>[New] 2024 Approved Financial Forecasts in Focus Select Stock YouTube Channels</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-casual-follower-to-dedicated-subscriber-inspirational-journey/"><u>[New] In 2024, From Casual Follower to Dedicated Subscriber Inspirational Journey</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-ftp-to-feed-the-complete-guide-to-uploading-to-youtube/"><u>[New] In 2024, From FTP to Feed The Complete Guide to Uploading to YouTube</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-watcher-to-writer-how-to-set-up-a-sports-channel-on-macos/"><u>[New] In 2024, From Watcher to Writer How to Set Up a Sports Channel on macOS</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-craft-standout-videos-mastery-of-youtube-thumbnail-dimensions/"><u>[New] In 2024, How to Craft Standout Videos Mastery of YouTube Thumbnail Dimensions</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-gamer-centric-streaming-tool-selection/"><u>[Updated] 2024 Approved Gamer-Centric Streaming Tool Selection</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-exclusive-free-intro-templates-for-videos/"><u>[Updated] Exclusive Free Intro Templates for Videos</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-harnessing-viral-power-your-pathway-to-youtube-fame-for-2024/"><u>[Updated] Harnessing Viral Power Your Pathway to YouTube Fame for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-high-quality-sound-adjustment-apps-for-content-casters/"><u>[Updated] In 2024, High-Quality Sound Adjustment Apps for Content Casters</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/a-beginners-journey-to-selecting-the-right-action-cam-for-2024/"><u>A Beginner’s Journey to Selecting the Right Action Cam for 2024</u></a></li>
-<li><a href="https://howto.techidaily.com/best-methods-for-itel-a70-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Best Methods for Itel A70 Wont Turn On | Dr.fone</u></a></li>
-<li><a href="https://fox-links.techidaily.com/efficient-passport-photography-our-top-10-low-cost-digital-options/"><u>Efficient Passport Photography Our Top 10 Low-Cost Digital Options</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/how-to-record-podcast-remotely/"><u>How to Record Podcast Remotely</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1723862738674-save-big-on-the-new-16-inch-macbook-pro-with-apples-powerful-m3-pro-chip-now-500-cheaper/"><u>Save Big on the New 16-Inch MacBook Pro with Apple's Powerful M3 Pro Chip - Now $500 Cheaper!</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/the-beginners-checklist-8-key-slip-ups-in-youtube-creation-for-2024/"><u>The Beginner's Checklist 8 Key Slip-Ups in YouTube Creation for 2024</u></a></li>
-<li><a href="https://fake-location.techidaily.com/thinking-about-changing-your-netflix-region-without-a-vpn-on-vivo-v27e-drfone-by-drfone-virtual-android/"><u>Thinking About Changing Your Netflix Region Without a VPN On Vivo V27e? | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/unblocking-fbm-issues-on-your-pc-screen/"><u>Unblocking FBM Issues on Your PC Screen</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-click-into-art-ultimate-edits-for-stunning-snaps-for-2024/"><u>[Updated] Click Into Art Ultimate Edits for Stunning Snaps for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-mastering-focus-and-depth-with-videoleaps-zoom-feature/"><u>2024 Approved Mastering Focus and Depth with Videoleap's Zoom Feature</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-mastering-igtv-followers-essential-techniques-to-grow-your-audience/"><u>2024 Approved Mastering IGTV Followers Essential Techniques to Grow Your Audience</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/download-the-official-winx-media-converter-suite-for-hd-video-processing-and-dvd-ripping-no-cost/"><u>Download the Official WinX Media Converter Suite for HD Video Processing and DVD Ripping – No Cost!</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/dvd-hddpc/"><u>DVDへのダビング: HDD、カメラ、PCからの動画記録ファイル無料変換方法</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-efficiently-take-a-screenshot-with-your-hp-device/"><u>How to Efficiently Take a Screenshot with Your HP Device</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-call-logs-from-note-30-by-fonelab-android-recover-call-logs/"><u>How To Restore Missing Call Logs from Note 30</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/mac-and/"><u>Mac用ハンドブレイクを簡単にインストール & 設定する: 初心者向け日本語ガイド付き</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/troubleshoot-and-enhance-dvd-performance-in-a-solo-disc-player-a-step-by-step-guide/"><u>Troubleshoot and Enhance DVD Performance in a Solo Disc Player: A Step-by-Step Guide</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-transform-your-memories-video-editing-secrets-for-beginners/"><u>Updated In 2024, Transform Your Memories Video Editing Secrets for Beginners</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135369/19272" target="_top" id="2135369">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135369" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135369/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 

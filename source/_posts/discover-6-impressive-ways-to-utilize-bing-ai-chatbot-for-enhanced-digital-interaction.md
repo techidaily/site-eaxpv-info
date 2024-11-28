@@ -1,7 +1,7 @@
 ---
 title: Discover 6 Impressive Ways to Utilize Bing AI Chatbot for Enhanced Digital Interaction
-date: 2024-08-30T16:51:45.138Z
-updated: 2024-08-31T16:51:45.138Z
+date: 2024-11-22T16:25:45.298Z
+updated: 2024-11-28T18:53:06.846Z
 tags:
   - cutting-edge
 categories:
@@ -40,6 +40,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 ![Create a table comparing the specifications of the M2 MacBook Air and Surface Laptop 4](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/03/Screenshot-2023-03-06-at-2.32.08-PM.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  This feature can also be entertaining if you ask Bing to compare two things that no one would ever have a reason to compare. Ask it to lay out the differences between a phone and a dinosaur, or a car and a pencil. You'll almost always get some funny results.
 
 ![Create a table comparing the specifications of the M2 MacBook Air and Surface Laptop 4](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/03/Screenshot-2023-03-06-at-2.32.08-PM.png) 
@@ -53,6 +57,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 Opening a .CSV file in Excel with data pasted from Bing's CSV export
 
  Again, you should always check Bing's citations to make sure the information is correct. For example, with tech products like iPhones, I've found Bing often citing old articles about rumored details rather than finalized specifications or product pages.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Multi-step Web Searches
 
@@ -74,21 +82,12 @@ Related: [Bing Chat AI Is a Surprisingly Good Travel Agent](https://fox-friendly
 
 ![Bing ASCII car art](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/03/Screenshot-2023-03-06-at-4.17.36-PM.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  The art generator seems to fail more often than it works, though. I asked for "ASCII art of an iPad next to a person," which created a stick figure next to a rectangle. Modifying that to be a person holding an iPad created roughly the same image, but with two lines branching off from the top of the rectangle.
 
 ![Bing ASCII car art](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/03/Screenshot-2023-03-06-at-4.17.36-PM.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
-<!-- affiliate ads end -->
  Maybe the lines could be arms? It looks more like a person standing next to a tent. Oh well.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Date and Time Conversions
 
  Time zone conversions can be tricky, especially when the difference is enough to shift the date, or when one place is following Daylight Savings Time (DS) and another place is not. Bing can easily handle these conversions, usually while explaining the logic involved.
@@ -97,9 +96,17 @@ Related: [Bing Chat AI Is a Surprisingly Good Travel Agent](https://fox-friendly
 
 ![Excel spreadsheet with table data from Bing](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/03/Screenshot-2023-03-06-at-3.05.25-PM.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Opening a .CSV file in Excel with data pasted from Bing's CSV export
 
  I still prefer Time.is for most time-related tasks, especially since [the link for an event](https://time.is/compare/0800AM%5F16%5FJuly%5F2024%5Fin%5FParis) can be shared, but I haven't noticed Bing providing incorrect data for time conversions yet.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Turn Web Pages Into Quizzes
 
@@ -110,8 +117,9 @@ Opening a .CSV file in Excel with data pasted from Bing's CSV export
 ![Bing ASCII car art](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/03/Screenshot-2023-03-06-at-4.17.36-PM.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Even when saying "this page only," Bing will sometimes use data from similar web pages. For example, I asked it to quiz me about a How-To Geek article, which also pulled in a post on Twitter that linked to the article. There seems to be no way to fully override this except to use the Bing sidebar in Microsoft Edge (only the [Canary](https://www.microsoftedgeinsider.com/en-us/download/canary) and [Dev](https://www.microsoftedgeinsider.com/en-us/download/dev) versions have Bing, as of March 2023).
 
  To use the more reliable implementation in Microsoft Edge, go to a web page, click the Bing button to open the sidebar, and ask Bing to "quiz me with multiple choices based on this page." You then need to click the "Retry for this page only" button, which will force Edge to not search the web for additional data.
@@ -119,8 +127,9 @@ Opening a .CSV file in Excel with data pasted from Bing's CSV export
 ![Bing ASCII car art](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/03/Screenshot-2023-03-06-at-4.17.36-PM.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  I've still encountered a few bugs in this mode where data is pulled from elsewhere -- Bing asked me about the core temperature of the Sun from a How-To Geek article about [collecting DVDs](https://extra-lessons.techidaily.com/instantaneous-infiltration-of-lost-reddit-threads/). There's a chance Microsoft has fixed those problems by the time you read this article.
 
 ##  Get Up to Speed on Current Events
@@ -129,9 +138,6 @@ Opening a .CSV file in Excel with data pasted from Bing's CSV export
 
 !["Data is a character from Star Trek: The Next Generation and its spin-off movies, not Star Trek: Enterprise12. He is an android created by Dr. Noonian Soong3, who is a descendant of Arik Soong, a geneticist who appeared in three episodes of Star Trek: Enterprise3. Are you looking for those episodes?"](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/03/Screenshot-2023-03-07-at-3.55.58-PM.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
-<!-- affiliate ads end -->
  Usually, you can ask something like "explain Sweden in NATO," and Bing will describe the topic in a few sentences. As with all of Bing's responses, make sure to check the citation links and ensure they are reputable sources that you trust. I've also found that Bing occasionally pulls data from outdated news articles, so if you're asking about an ongoing situation in the news, it may tell you outdated information.
 
 <ins class="adsbygoogle"
@@ -140,8 +146,6 @@ Opening a .CSV file in Excel with data pasted from Bing's CSV export
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -149,4 +153,19 @@ Opening a .CSV file in Excel with data pasted from Bing's CSV export
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://driver-download.techidaily.com/latest-update-simple-and-fast-installation-of-intel-nuc-drivers/"><u>[Latest Update] Simple & Fast Installation of Intel NUC Drivers</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-convert-with-ease-the-top-10-best-tools-for-flv-to-youtubes/"><u>[New] 2024 Approved Convert With Ease The Top 10 Best Tools for Flv to YouTubes</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-comprehensive-2023-guide-to-lg-360-cam-tech/"><u>[New] Comprehensive 2023 Guide to LG 360 Cam Tech</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-crafting-a-distinctive-sphere-of-influence/"><u>[Updated] In 2024, Crafting a Distinctive Sphere of Influence</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-quickly-create-a-youtube-animation-for-your-subscribe-button-with-filmora/"><u>[Updated] Quickly Create a YouTube Animation for Your Subscribe Button with Filmora</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-your-instant-offline-playlist-how-to-pull-youtube-videos-onto-idevices/"><u>[Updated] Your Instant Offline Playlist How to Pull YouTube Videos Onto iDevices</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-youtubes-financial-frontier-achieving-video-monetization-mastery/"><u>[Updated] YouTube's Financial Frontier Achieving Video Monetization Mastery</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-the-top-hdds-of-2024-your-definitive-guide-to-high-performance-storage-solutions/"><u>Discover the Top HDDs of 2024: Your Definitive Guide to High-Performance Storage Solutions</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/exploring-the-absence-of-built-in-screenshots-in-modern-gaming-mice/"><u>Exploring the Absence of Built-In Screenshots in Modern Gaming Mice</u></a></li>
+<li><a href="https://article-posts.techidaily.com/how-to-record-professional-audio-in-audacity-for-2024/"><u>How To Record Professional Audio In Audacity for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/in-2024-gift-wrapping-gurus-top-10-websites-for-handcrafted-presents/"><u>In 2024, Gift Wrapping Gurus Top 10 Websites for Handcrafted Presents</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ultimate-guide-turning-off-pop-up-suppressors-on-major-browsers-chrome-firefox-edge-and-ie/"><u>Ultimate Guide: Turning Off Pop-Up Suppressors on Major Browsers (Chrome, Firefox, Edge & IE)</u></a></li>
+</ul></div>
 

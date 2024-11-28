@@ -1,7 +1,7 @@
 ---
 title: "Beyond Traditional Encryption: Securing Tomorrow's Digital Landscape"
-date: 2024-08-30T16:50:56.124Z
-updated: 2024-08-31T16:50:56.124Z
+date: 2024-11-27T16:29:35.649Z
+updated: 2024-11-28T16:18:55.500Z
 tags:
   - cutting-edge
 categories:
@@ -19,6 +19,10 @@ thumbnail: https://thmb.techidaily.com/445d6c97ace4ef05d63cde4f33374d4b0783e76d1
 
  Encryption keeps data safe, even when it falls into the wrong hands. But what happens in the future, when the available computational power renders current encryption methods obsolete? Is your personal data at risk? Let's explore.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  What’s a Harvest Now, Decrypt Later Attack?
 
  A Harvest Now, Decrypt Later attack involves acquiring [data in an encrypted state](https://facebook-video-share.techidaily.com/the-essential-guide-to-youtube-video-lighting-tips-for-2024/) and storing it so that it can be decrypted in the future. Also known as retrospective decryption, this encrypted data is effectively archived until technology reaches a state where it can be decrypted and accessed.
@@ -32,8 +36,9 @@ thumbnail: https://thmb.techidaily.com/445d6c97ace4ef05d63cde4f33374d4b0783e76d1
  Harvest Now, Decrypt Later is like stealing the whole safe, rather than just the contents of the safe, in the hope that you'll eventually get the right tools to break it open. And those tools are coming, since the cryptographic algorithms we’ve come to rely on won’t be safe forever.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  The Looming Threat of Quantum Computing
 
  Though computer hardware continues to improve year-on-year, [Moore’s Law is dead](https://blog-min.techidaily.com/how-to-remove-google-frp-lock-on-huawei-by-drfone-android-unlock-remove-google-frp/). This is the idea that transistor density doubles every two years, effectively doubling performance (or halving cost). We are now reaching the limits of how small these transistors can be. The speed of advances has slowed and, though there’s more to performance than how many transistors can fit on a single chip, so too has the pace of improvement.
@@ -49,8 +54,9 @@ thumbnail: https://thmb.techidaily.com/445d6c97ace4ef05d63cde4f33374d4b0783e76d1
  For now, it’s a waiting game. For existing data breaches, where encrypted volumes have already been captured and are secured with old algorithms, time is running out. But just as computers move forward, so too does cryptography. If the problem is too easy to solve, the solution is to make the problem harder.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  How Are Companies Protecting Against Future Attacks?
 
  Post-quantum cryptography hopes to safeguard encryption algorithms against the threats posed by quantum computers. The idea is to design cryptographic problems that are suitably difficult to solve, even with computers that are vastly more powerful than those we currently have access to.
@@ -66,8 +72,9 @@ thumbnail: https://thmb.techidaily.com/445d6c97ace4ef05d63cde4f33374d4b0783e76d1
 ![A diagram comparing Apple PQ3 with other post-quantum algorithms.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-04-at-15-04-57.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Apple
 
  Companies like [IBM](https://www.ibm.com/quantum/quantum-safe) already offer quantum-safe cryptographic testing for enterprise clients and even offer to shore up protection against future attacks. Governments around the world are among the first to start implementing these safeguards.
@@ -75,8 +82,9 @@ Apple
  There’s a real incentive to put many more padlocks on the door than is necessary right now. The better we protect current data, the better it will be protected in the future.
 
 <!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Encryption Is An Ever-Evolving Technology
 
  Like many aspects of technology, encryption is a game of cat and mouse. As computers become more powerful and capable, security must evolve to stay one step ahead. This will always be the case.
@@ -89,8 +97,6 @@ Apple
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -98,4 +104,18 @@ Apple
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-essential-tips-for-successful-youtube-broadcasts/"><u>[New] 2024 Approved Essential Tips for Successful YouTube Broadcasts</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-an-intro-to-discovering-youtube-studio-content-creators-dreamland/"><u>[New] In 2024, An Intro to Discovering YouTube Studio Content Creator's Dreamland</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-discover-8-trusted-platforms-for-online-video-advancement/"><u>[New] In 2024, Discover 8 Trusted Platforms for Online Video Advancement</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-decoding-youtubes-user-comment-selection-criteria/"><u>[Updated] In 2024, Decoding YouTube's User-Comment Selection Criteria</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-divine-warriors-convergence-ragnarok-epoch/"><u>[Updated] In 2024, Divine Warriors Convergence Ragnarok Epoch</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-turbocharge-your-youtube-videos-swift-render-and-transfer-strategies/"><u>[Updated] Turbocharge Your YouTube Videos Swift Render & Transfer Strategies</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-capturing-life-with-precision-an-overview-of-advanced-camera-modes/"><u>2024 Approved Capturing Life with Precision An Overview of Advanced Camera Modes</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/essential-tips-and-tools-for-a-flourishing-garden-insights-from-zdnet/"><u>Essential Tips & Tools for a Flourishing Garden - Insights From ZDNet</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-restore-functionality-of-your-logitech-mouses-scroll-wheel/"><u>How to Restore Functionality of Your Logitech Mouse's Scroll Wheel</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/in-2024-upgrade-your-content-navigating-the-world-of-fb-video-full-scale/"><u>In 2024, Upgrade Your Content Navigating the World of FB Video Full Scale</u></a></li>
+<li><a href="https://facebook.techidaily.com/navigating-online-narratives-identifying-honest-and-hollow-profiles/"><u>Navigating Online Narratives: Identifying Honest and Hollow Profiles</u></a></li>
+</ul></div>
 

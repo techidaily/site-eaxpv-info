@@ -1,7 +1,7 @@
 ---
 title: "Identifying Artificially Intelligent Images: A Comprehensive Guide"
-date: 2024-08-30T16:51:14.701Z
-updated: 2024-08-31T16:51:14.701Z
+date: 2024-11-21T16:46:55.585Z
+updated: 2024-11-28T18:36:29.399Z
 tags:
   - cutting-edge
 categories:
@@ -17,11 +17,19 @@ thumbnail: https://thmb.techidaily.com/800871781dded7ace3211c5534653c24a5267e768
 * [4 Ways to Check If a Photo Was Made by AI](https://win-solutions.techidaily.com/eliminate-lag-in-dying-light-a-comprehensive-solution-guide/)
 * [AI Images of the Future](https://bypass-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-tecno-camon-20-pro-5gwithwithout-a-pc-by-drfone-android/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
  To tell if an image is AI generated, look for anomalies in the image, like mismatched earrings and warped facial features. Always check image descriptions and captions for text and hashtags that mention AI software. If all else fails, you can use GAN detection tools and reverse image lookups.
 
  It's getting harder all the time to tell if an image has been digitally manipulated, let alone AI-generated, but there are a few methods you can still use to see if that photo of the pope in a Balenciaga puffer is real (it's not).
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  What Is AI Generated Photography?
 
@@ -29,9 +37,6 @@ thumbnail: https://thmb.techidaily.com/800871781dded7ace3211c5534653c24a5267e768
 
  Messing with AI to create [fantastical images](https://www.instagram.com/everydayyokai/) can be fun, and even help brainstorm ideas, but it has raised concerns over digital rights, privacy, and [copyright](https://article-files.techidaily.com/beyond-ustream-an-examination-of-video-streaming/). If someone uses an AI likeness of someone without their consent that depicts them in an intentionally humiliating light, for example, that's a huge problem. So how do we know if an image is real or churned out by AI?
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ##  4 Ways to Check If a Photo Was Made by AI
 
  At the current level of AI-generated imagery, it's usually easy to tell an artificial image by sight. Fingers or glasses look off. Light sources don't make sense. Backgrounds are warped.
@@ -39,8 +44,9 @@ thumbnail: https://thmb.techidaily.com/800871781dded7ace3211c5534653c24a5267e768
  But there are other, more technical ways to dig into an image if you're still not sure. We'll get to that below, but we'll start with the most common-sense tip on the list.
 
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ###  Check the Photo Caption/Description and Comments
 
  Oftentimes people playing with AI and posting the results to social media like Instagram will straight up tell you the image isn't real. Read the caption for clues if it's not immediately obvious the image is fake.
@@ -50,6 +56,10 @@ thumbnail: https://thmb.techidaily.com/800871781dded7ace3211c5534653c24a5267e768
  The comments can also be a clue. The original poster might tell you the image is machine-made there, or if the poster doesn't fess up to using AI, keen-eyed commenters will notice and call it out.
 
  Some accounts are devoted to just AI images, even listing the detailed prompts they typed into the program to create the images they share. The account [originalaiartgallery](https://www.instagram.com/originalaiartgallery/) on Instagram, for example, shares hyper-realistic and/or bizarre images created with AI, many of them with the latest version of Midjourney. Some look like photographs --- it'd be hard to tell they weren't real if they came across your Explore page without browsing the hashtags.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ###  Look for Weirdness
 
@@ -66,9 +76,6 @@ thumbnail: https://thmb.techidaily.com/800871781dded7ace3211c5534653c24a5267e768
 
  Objects and people in the background of AI images are especially prone to weirdness. In originalaiartgallery's (objectively amazing) [series of AI photos of the pope baptizing a crowd with a squirt gun](https://www.instagram.com/p/Cs9R-nsufzR/), you can see that several of the people's faces in the background look strange. The water in some shots also appears to be coming from nowhere.
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
-<!-- affiliate ads end -->
 ###  Try Using a GAN Detector
 
  AI image generators use Generative Adversarial Networks, or GANs. There are a few apps and plugins designed to try and detect fake images that you can use as an extra layer of security when attempting to authenticate an image. For example, there's a [Chrome plugin](https://chrome.google.com/webstore/detail/fake-profile-detector-dee/jbpcgcnnhmjmajjkgdaogpgefbnokpcc) that will check if a profile picture is GAN generated when you right-click on the photo.
@@ -77,16 +84,10 @@ thumbnail: https://thmb.techidaily.com/800871781dded7ace3211c5534653c24a5267e768
 
 ![Screenshot of test results from Maybe's AI Image detector mistakenly marking an AI photo as a human.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/07/Screenshot-2023-07-12-at-3.05.49-PM.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
-<!-- affiliate ads end -->
  As with [AI image generators](https://fox-info.techidaily.com/new-synthesize-stellar-titles-using-ai-insights/), this technology will continue to improve, so don't discount it completely either.
 
 Related: [Audio Deepfakes: Can Anyone Tell If They're Fake?](https://buynow-marvelous.techidaily.com/unbeatable-endurance-a-deep-dive-into-moto-g-powers-remarkable-battery-performance/) 
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ###  Run an Image or Web Search
 
  If you aren't sure of what you're seeing, there's always the old [Google image search](https://extra-lessons.techidaily.com/expert-tips-on-syncing-gmail-and-zoom-for-remote-collaboration/). These days you can just right click an image to search it with Google and it'll return visually similar images.
@@ -96,8 +97,9 @@ Related: [Audio Deepfakes: Can Anyone Tell If They're Fake?](https://buynow-marv
  If the image is used in a news story that could be a disinformation piece, look for other reporting on the same event. If no other outlets are reporting on it, especially if the event in question is incredibly sensational, it could be fake.
 
 <!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  AI Images of the Future
 
  These programs are only going to improve, and some of them are already scarily good. Midjourney's V5 seems to have tackled the problem of rendering hands correctly, and its images can be [strikingly photorealistic](https://instagram-clips.techidaily.com/2024-approved-visual-storytelling-on-social-media-crafting-an-effective-plan/).
@@ -112,8 +114,6 @@ Related: [How Good Is Midjourney at AI Art? We Compared All the Models](https://
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -121,4 +121,20 @@ Related: [How Good Is Midjourney at AI Art? We Compared All the Models](https://
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-elevate-your-video-popularity-essential-seo-techniques-for-success/"><u>[New] 2024 Approved Elevate Your Video Popularity Essential SEO Techniques for Success</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-effortlessly-create-engaging-youtube-thumbnails/"><u>[Updated] 2024 Approved Effortlessly Create Engaging YouTube Thumbnails</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-filmmakers-pathway-youtube-trailer-creation-with-filmora-for-2024/"><u>[Updated] Filmmaker's Pathway YouTube Trailer Creation with Filmora for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-skyrocketing-views-live-stream-techniques-for-gamers/"><u>[Updated] Skyrocketing Views Live Stream Techniques for Gamers</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-youtube-vs-dailymention-spotlighting-key-aspects/"><u>[Updated] YouTube Vs. DailyMention Spotlighting Key Aspects</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-top-10-immersive-traits-in-filmoras-editing-software/"><u>2024 Approved Top 10 Immersive Traits in Filmora's Editing Software</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-lightweight-pc-video-grabber-w10-compatible/"><u>In 2024, Lightweight PC Video Grabber, W10 Compatible</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/in-2024-windows-movie-maker-a-toolkit-for-youtube-videographers/"><u>In 2024, Windows Movie Maker A Toolkit for YouTube Videographers</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/ingenious-ways-to-enhance-trustworthiness-in-client-spots-on-screen-for-2024/"><u>Ingenious Ways to Enhance Trustworthiness in Client Spots on Screen for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/navigating-the-world-of-ps5-solely-a-list-of-distinct-gaming-titles/"><u>Navigating the World of PS5 Solely: A List of Distinct Gaming Titles</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-innovating-sound-design-the-impact-and-prowess-of-magix-samplitude/"><u>New Innovating Sound Design The Impact and Prowess of MAGIX Samplitude</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/nintendo-switch-and-apple-airpods-integration-what-you-need-to-know/"><u>Nintendo Switch and Apple AirPods Integration: What You Need to Know</u></a></li>
+<li><a href="https://games-able.techidaily.com/tap-into-rhythm-game-magic-with-tablets/"><u>Tap Into Rhythm Game Magic With Tablets</u></a></li>
+</ul></div>
 

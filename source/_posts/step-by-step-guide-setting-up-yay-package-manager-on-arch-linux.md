@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Setting Up Yay Package Manager on Arch Linux"
-date: 2024-08-30T16:49:16.466Z
-updated: 2024-08-31T16:49:16.466Z
+date: 2024-11-24T18:02:20.250Z
+updated: 2024-11-28T17:16:37.377Z
 tags:
   - desktop
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://thmb.techidaily.com/39891eff73508b464f66ea96b5a005498dc7a497b
 ---
 
 ## Step-by-Step Guide: Setting Up Yay Package Manager on Arch Linux
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -29,9 +33,6 @@ thumbnail: https://thmb.techidaily.com/39891eff73508b464f66ea96b5a005498dc7a497b
 
  Arch Linux's yay command makes using the Arch User Repository very simple. But sadly, Yay isn’t installed by default. We show you how to install and use this must-have Arch Linux tool.
 
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Arch Linux, the Bare-Bones Distro
 
 [Arch Linux](https://archlinux.org/) is a widely known and highly regarded Linux distribution. Arch Linux is a strictly bare-bones distribution. Unlike most distros, it doesn’t come preloaded with a collection of typical applications. When you install Arch Linux, you’re installing a minimalist take on Linux. Once you’ve got Arch running on your computer, it's up to you to install any applications you want to use.
@@ -50,9 +51,6 @@ thumbnail: https://thmb.techidaily.com/39891eff73508b464f66ea96b5a005498dc7a497b
 
  The trouble is, Yay isn’t included in a standard Arch Linux installation, you need to install it. But pacman can’t do that for you, because Yay is in the AUR and pacman only works with the standard repositories. We can circumvent this [catch-22](https://en.wikipedia.org/wiki/Catch-22%5F%28logic%29) by installing Yay manually.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ##  Checking the Requirements
 
  Because we’re going to be compiling code, we need to have the standard set of development packages installed, and we’re also going to use [Git to retrieve the source code](https://android-transfer.techidaily.com/in-2024-tips-of-transferring-messages-from-htc-u23-pro-to-iphone-1415-drfone-by-drfone-transfer-from-android-transfer-from-android/) files, so that has to be installed too.
@@ -63,6 +61,10 @@ thumbnail: https://thmb.techidaily.com/39891eff73508b464f66ea96b5a005498dc7a497b
 git --version`
     
 ![Checking whether the development tools and Git are installed on Arch Linux](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/1-10.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If you get an error message instead of a version number, that package isn’t installed. If you need to, you can install the development files with this command:
 
@@ -88,8 +90,9 @@ git clone https://aur.archlinux.org/yay.git`
 ![Cloning the yay Git repository](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/5-6.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  We need to change into the newly created directory and call makepkg to build Yay for us.
 
         `cd yay  
@@ -103,17 +106,10 @@ makepkg -si`
     
 ![Checking the version of yay](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/7-7.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 ##  Using Yay to Install and Uninstall Software
 
  Using Yay is similar to using any other command-line package manager. You can use it to install, uninstall, and search for applications.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
-EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
-<!-- affiliate ads end -->
 ###  Installing Applications on Arch Linux With Yay
 
  To install an application, we use the -S (sync) option.
@@ -124,13 +120,6 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
     
  After a few “\[Y/n\]” prompts and a lot of screen output, you’re returned to the command prompt.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Monthly Membership</a>
-<!-- affiliate ads end -->
 ###  Uninstalling Applications With Yay
 
  Uninstalling is just as easy. We use the -R (remove) option and provide the name of the package we want to have uninstalled.
@@ -151,17 +140,26 @@ No advertising on the website.
 
 ![A list of search results returned by yay](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/9-3.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  The one I’m after is the regular binary, which I can see is at number two on the list. To install it, type “2” and hit Enter. The next two prompts can be answered with the Enter key. When you see “Packages to CleanBuild?” and “Diffs to show?”, just hit Enter.
 
 ![Installing the selected package using yay](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/10-4.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  When you’re prompted with “Proceed with installation? \[Y/n\]”, you’ll notice the “Y” in the prompt is in uppercase. That means it is the default action, so you can just hit Enter to continue.
 
  After more scrolling screen output, the installation is completed, and you’re returned to the command prompt.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Accessing the Arch User Repository With Yay
 
  For many people, the AUR is a large part of the attraction of using Arch Linux. With Yay installed, using this enormous collection of applications is as easy as using pacman.
@@ -172,8 +170,6 @@ No advertising on the website.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -181,4 +177,22 @@ No advertising on the website.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-boosting-reliability-verify-age-on-tiktok-for-2024/"><u>[New] Boosting Reliability Verify Age on TikTok for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-ultimate-list-templates-for-youtube-previews/"><u>[New] Ultimate List Templates for YouTube Previews</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-visual-snippet-retriever-for-2024/"><u>[New] Visual Snippet Retriever for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-youtube-banners-makers-10plus-online-tools-to-create-channel-art/"><u>[New] Youtube Banners Makers 10+ Online Tools to Create Channel Art</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-a-quick-guide-to-chroma-key-background-for-2024/"><u>[Updated] A Quick Guide to Chroma Key Background for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-adding-emojis-in-youtube-discussions/"><u>[Updated] In 2024, Adding Emojis in YouTube Discussions</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-the-instagram-way-of-showcasing-youtube-videos/"><u>[Updated] The Instagram Way of Showcasing YouTube Videos</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-can-life360-track-or-see-text-messages-what-can-you-do-with-life360-on-apple-iphone-15-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, Can Life360 Track Or See Text Messages? What Can You Do with Life360 On Apple iPhone 15 Plus? | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-gamers-graphically-glorious-reviews/"><u>In 2024, GAMER'S GRAPHICALLY GLORIOUS REVIEWS</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/in-2024-spectacular-4k-tvs-nine-picks-for-exceptional-color-fidelity/"><u>In 2024, Spectacular 4K TVs Nine Picks for Exceptional Color Fidelity</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/in-2024-top-5-tracking-apps-to-track-apple-iphone-8-without-them-knowing-drfone-by-drfone-virtual-ios/"><u>In 2024, Top 5 Tracking Apps to Track Apple iPhone 8 without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/in-2024-youtube-expertise-pathway-choosing-between-standard-studio-and-beta/"><u>In 2024, YouTube Expertise Pathway Choosing Between Standard Studio and Beta</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-the-ultimate-list-of-free-video-editing-software-for-gamers/"><u>New The Ultimate List of Free Video Editing Software for Gamers</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/obs-studio-streamlining-your-professional-skype-broadcasts/"><u>OBS Studio Streamlining Your Professional Skype Broadcasts</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/youtube-thumbnails-demystified-mac-edition-for-2024/"><u>YouTube Thumbnails Demystified - Mac Edition for 2024</u></a></li>
+</ul></div>
 

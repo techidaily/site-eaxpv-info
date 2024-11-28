@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Tutorial: Adjusting Icon Dimensions on Your PC with Windows 11"
-date: 2024-08-30T16:49:17.801Z
-updated: 2024-08-31T16:49:17.801Z
+date: 2024-11-25T16:34:48.911Z
+updated: 2024-11-28T17:09:45.067Z
 tags:
   - desktop
 categories:
@@ -26,8 +26,9 @@ thumbnail: https://thmb.techidaily.com/f7e33e46d8576e8a405f890f9187eb22b423a0b93
  You might want bigger icons on your Windows 10 PC to help you find what you need, or smaller icons to keep things compact and tidy. Fortunately, it's easy to adjust icon sizes on your desktop, taskbar, and File Explorer.
 
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Resize Desktop Icons
 
  If the icons on your desktop are too large or too small, you can quickly resize them into one of the three available sizes.
@@ -36,14 +37,6 @@ thumbnail: https://thmb.techidaily.com/f7e33e46d8576e8a405f890f9187eb22b423a0b93
 
 ![Hover your cursor over 'View' and choose an icon size.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/07/Hover-your-cursor-over-View-and-choose-an-icon-size..png) 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
-
- Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
-
- DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
- PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
  If you find that the three available options aren't exactly what you're looking for, you can place your cursor anywhere on the desktop, press and hold the Ctrl key, and then scroll your mouse wheel up or down to increase or reduce the size of the desktop icons, respectively. This adjusts the size in smaller increments, letting you get the size closer to what you want.
 
 ##  Resize Taskbar Icons
@@ -59,16 +52,22 @@ thumbnail: https://thmb.techidaily.com/f7e33e46d8576e8a405f890f9187eb22b423a0b93
 ![Click the toggle switch under 'Use Small Taskbar Buttons.'](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/1-use-small-taskbar-buttons.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  This will reduce the size of the taskbar icons.
 
 ![Small taskbar icons.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/07/Small-taskbar-icons..png) 
 
 <!-- affiliate ads begin -->
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  To change the icons back to the default size, toggle the slider back to the "Off" position.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Resize File Explorer Icons
 
@@ -79,24 +78,13 @@ thumbnail: https://thmb.techidaily.com/f7e33e46d8576e8a405f890f9187eb22b423a0b93
 ![Click the File Explorer icon on the taskbar.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/2-open-file-explorer.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Next, click the "View" tab.
 
 ![Click the 'View' button near the top of the window.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/3-click-view.png) 
 
-<!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  In the "Layout" group, choose the icon size that you want. The current setting is highlighted in blue.
 
 ![Select between icon sizes, or a list view.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/4-icon-sizes.png) 
@@ -111,8 +99,6 @@ thumbnail: https://thmb.techidaily.com/f7e33e46d8576e8a405f890f9187eb22b423a0b93
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -120,4 +106,20 @@ thumbnail: https://thmb.techidaily.com/f7e33e46d8576e8a405f890f9187eb22b423a0b93
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/reaking-down-the-process-for-youtube-comment-highlights/"><u>[New] Breaking Down the Process for YouTube Comment Highlights</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-charting-the-course-for-your-youtube-music-narrative/"><u>[New] In 2024, Charting the Course for Your YouTube Music Narrative</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-virtual-world-real-profit-for-game-makers/"><u>[New] Virtual World, Real Profit for Game Makers</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-amplify-your-content-two-approaches-to-skyrocket-traffic-for-2024/"><u>[Updated] Amplify Your Content Two Approaches to Skyrocket Traffic for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-get-unlimited-echoes-for-online-content-makers-for-2024/"><u>[Updated] Get Unlimited Echoes for Online Content Makers for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-eye-catching-text-top-10-photo-writing-tools-for-smartphones/"><u>[Updated] In 2024, Eye-Catching Text Top 10 Photo Writing Tools for Smartphones</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-the-role-of-youtube-images-in-video-promotion-and-discovery/"><u>[Updated] The Role of Youtube Images in Video Promotion and Discovery</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/2024-approved-winning-youtube-affiliate-deals-famebits-guide-to-earnings/"><u>2024 Approved Winning YouTube Affiliate Deals FameBit's Guide to Earnings</u></a></li>
+<li><a href="https://win11.techidaily.com/decoding-another-users-windows-microsoft-error/"><u>Decoding Another User's Windows Microsoft Error</u></a></li>
+<li><a href="https://article-tips.techidaily.com/first-time-periscope-income-strategies-for-success-for-2024/"><u>First-Time Periscope Income Strategies for Success for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/guide-streaming-your-phones-video-on-amazon-fire-tv-with-ease/"><u>Guide: Streaming Your Phone's Video on Amazon Fire TV with Ease</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/troubleshooting-guide-execution-failed-with-error-code-amoebadll-gain-access-now/"><u>Troubleshooting Guide: Execution Failed with Error Code amoeba.dll – Gain Access Now!</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/youtubes-iconic-milestone-markers-for-viewership/"><u>YouTube's Iconic Milestone Markers for Viewership</u></a></li>
+</ul></div>
 

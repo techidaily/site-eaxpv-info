@@ -1,7 +1,7 @@
 ---
 title: Top-Rated Protective Cases for the Newly Released iPhone 16/16 Pro - Comprehensive Review by Tech Experts | ZDNet
-date: 2024-11-17T18:44:58.075Z
-updated: 2024-11-19T17:47:01.798Z
+date: 2024-11-26T17:28:37.243Z
+updated: 2024-11-28T18:37:54.124Z
 tags:
   - apple
 categories:
@@ -26,6 +26,10 @@ It's no secret that iPhones aren't the most rugged devices, sometimes yielding s
 
 Our pick for the best iPhone 16 case right now is the [Nomad Sport Case](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fstores%2FNOMAD%2Fpage%2F6927BCAB-A05E-40FA-ADA7-1E37C46F23E5%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ca1266d9a-4c56-49fb-a7a2-ebc61239e716%7Cdtp&dtb=1) case. This brand has been a longtime ZDNET favorite for its sleek form factor, [MagSafe capabilities](https://www.zdnet.com/article/best-magsafe-wallets/), and drop protection without a bulky form factor. Keep reading for more of our iPhone 16 case picks.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## The best iPhone 16 cases of 2024
 
 Show less 
@@ -42,13 +46,14 @@ Cons
 * Only available for iPhone 16 Pro models
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959764/19272" target="_top" id="1959764">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959764" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959764/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Nomad Sport Case
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Best iPhone 16 case overall
 
@@ -101,13 +106,6 @@ Cons
 * Minimal drop protection
 * Heftier price
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902294/19272" target="_top" id="1902294">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902294" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902294/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Pitaka Ultra Slim case
 
 ### Best thin iPhone 16 case
@@ -137,10 +135,7 @@ Cons
 ## Smartish Gripmunk case
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139111/17108" target="_top" id="2139111">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139111" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139111/17108" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Best cheap iPhone 16 case
@@ -168,10 +163,7 @@ Cons
 * Pricier
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2139322/26400" target="_top" id="2139322">
-  <img src="//a.impactradius-go.com/display-ad/26400-2139322" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2139322/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Mous Limitless 6.0
@@ -229,20 +221,10 @@ Cons
 * Not too much protection
 * Pricey for low protection
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105877/7443" target="_top" id="2105877">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105877" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105877/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Moft Snap Case Movas
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094429/7443" target="_top" id="2094429">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094429" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094429/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Best vegan-leather iPhone 16 case
@@ -271,6 +253,10 @@ Cons
 * Unsure on sustainability
 * Only for Pro models
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Nomad Modern Leather Case
 
 ### Best leather case for iPhone 16
@@ -286,10 +272,7 @@ That being said, leather is not everybody's thing. But, if you are in the market
 Show Expert Take Show less 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137212/26400" target="_top" id="2137212">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137212" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137212/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What is the best iPhone 16 case?
@@ -316,6 +299,10 @@ The best iPhone 16 case option for you differs depending on your needs. For one,
 | Incase Icon case                | A unique and stylish case with protection and MagSafe capabilities.                                     |
 | Nomad Modern Leather case       | A person who prefers leather cases. This one also protects and comes worn in.                           |
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Factors to consider when choosing the best iPhone 16 case
 
 We kept in mind the most important factors when choosing the best iPhone 16 cases. The most relevant aspects are:
@@ -328,13 +315,6 @@ We kept in mind the most important factors when choosing the best iPhone 16 case
 ## How did we choose these iPhone 16 cases?
 
 To choose these iPhone 16 cases, we performed extensive research over every corner of the internet, like Reddit forums and customer reviews, to find the best picks at the time of this writing. When we can't test a product, we rely on opinions from real people over company promises. We also receive recommendations  experts like reviews editor Kerry Wan and editor-in-chief Jason Hiner, who have years of experience in the tech journalism field. Our picks are meant to leave the reader happy and their device healthy. 
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134233/18498" target="_top" id="2134233">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134233" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134233/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## What iPhone case is most protective?
 
@@ -353,6 +333,10 @@ Materials like plastic or polycarbonate usually offer the best price and durabil
 ## When is the iPhone 16 available?
 
 The iPhone 16 is available for preorder now, and will arrive in stores on September 20.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What is the best phone case to avoid overheating?
 
@@ -408,18 +392,22 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-free-youtube-outro-kings-6-top-suggestions/"><u>[New] 2024 Approved Free YouTube Outro Kings 6 TOP Suggestions</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-how-to-download-part-of-youtube-video-in-2024/"><u>[New] How to Download Part of YouTube Video, In 2024</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-swipe-tap-save-the-ultimate-guide-for-igtv-videos-on-devices/"><u>[New] In 2024, Swipe, Tap, Save The Ultimate Guide for IGTV Videos on Devices</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-the-ultimate-compendium-of-top-rated-instagram-analytics-applications/"><u>[New] In 2024, The Ultimate Compendium of Top-Rated Instagram Analytics Applications</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-playtime-to-profits-ryan-kajis-youtube-cash-crusade/"><u>[Updated] 2024 Approved From Playtime to Profits Ryan Kaji's YouTube Cash Crusade</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-hacks-for-preventing-youtube-short-failures/"><u>[Updated] 2024 Approved Hacks for Preventing YouTube Short Failures</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-from-photos-to-feeds-selecting-the-best-9-gear-upgrades-for-2024/"><u>[Updated] From Photos to Feeds Selecting the Best 9 Gear Upgrades for 2024</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/adjusting-screen-size-and-scale-on-the-latest-os-update/"><u>Adjusting Screen Size & Scale on the Latest OS Update</u></a></li>
-<li><a href="https://program-issues.techidaily.com/discord-installer-woes-heres-how-to-get-it-right-in-no-time/"><u>Discord Installer Woes? Here's How to Get It Right in No Time!</u></a></li>
-<li><a href="https://extra-information.techidaily.com/essential-6-microphone-selections-for-high-quality-livestreams/"><u>Essential 6 Microphone Selections for High-Quality Livestreams</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/full-guide-to-unlock-your-xiaomi-14-pro-by-drfone-android/"><u>Full Guide to Unlock Your Xiaomi 14 Pro</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/guide-to-mirror-your-samsung-galaxy-xcover-7-to-other-android-devices-drfone-by-drfone-android/"><u>Guide to Mirror Your Samsung Galaxy XCover 7 to Other Android devices | Dr.fone</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/no-access-to-your-phone-anymore-easy-ways-to-perform-a-complete-iphone-wipeout/"><u>No Access to Your Phone Anymore? Easy Ways to Perform a Complete iPhone Wipeout</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-tips-for-immaculate-nighttime-photography/"><u>[New] In 2024, Tips for Immaculate Nighttime Photography</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-ultimate-screen-logger-az-audits-and-diversions/"><u>[New] In 2024, Ultimate Screen Logger - AZ Audits & Diversions</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-in-depth-review-is-aurora-revolutionary/"><u>[New] In-Depth Review Is Aurora Revolutionary?</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-the-ultimate-list-of-tiktok-phenomena-on-twitter/"><u>[Updated] The Ultimate List of TikTok Phenomena on Twitter</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-unlock-faster-youtube-submission-via-smart-rendering-and-uploading-for-2024/"><u>[Updated] Unlock Faster YouTube Submission via Smart Rendering & Uploading for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-essential-skills-androids-screen-recording-functionality/"><u>2024 Approved Essential Skills Android's Screen Recording Functionality</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/winx-dvd-ripper-32windows-10dvd/"><u>官方 WinX DVD Ripper 白金版：32倍加速，在Windows 10上简易复制任意DVD内容</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/critique-of-tropico-6-mastering-a-coastal-oasis/"><u>Critique of Tropico 6: Mastering a Coastal Oasis</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/effizientes-dvd-handling-mit-winxdvd-ein-umfassender-leitfaden-zur-optimalen-nutzung-der-software/"><u>Effizientes DVD-Handling Mit WinXDVD - Ein Umfassender Leitfaden Zur Optimalen Nutzung Der Software</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/effizientes-einbinden-von-dvds-auf-itunes-fur-mac-und-windows-anleitung-innerhalb-weniger-schritte/"><u>Effizientes Einbinden Von DVDs Auf iTunes Für Mac Und Windows - Anleitung Innerhalb Weniger Schritte</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/free-download-the-ultimate-guide-to-watermark-free-video-resizers-and-compressors/"><u>Free Download: The Ultimate Guide to Watermark-Free Video Resizers & Compressors</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/herausragende-techniken-zur-ubertragung-von-dvds-auf-computerlaufwerke-ein-leitfaden/"><u>Herausragende Techniken Zur Übertragung Von DVDs Auf Computerlaufwerke: Ein Leitfaden</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/html5/"><u>HTML5ビデオファイルのダウンロードと保存手順ガイド</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/possibilite-de-sous-titrer-des-fichiers-av1-avec-handbrake-instructions-pratiques/"><u>Possibilité De Sous-Titrer Des Fichiers AV1 Avec HandBrake : Instructions Pratiques</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/quick-and-easy-winx-dvd-ripper-platinum-h264hevc-conversion-in-under-5-mins/"><u>Quick & Easy WinX DVD Ripper Platinum: H.264/HEVC Conversion in Under 5 Mins</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/smileslice-studio-memomaestrospace-for-2024/"><u>SmileSlice Studio MemoMaestroSpace for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/1725289112434-windows-10dvd/"><u>Windows 10で成功するDVD書き込み - トップテクニックとエラー回避法</u></a></li>
 </ul></div>
 

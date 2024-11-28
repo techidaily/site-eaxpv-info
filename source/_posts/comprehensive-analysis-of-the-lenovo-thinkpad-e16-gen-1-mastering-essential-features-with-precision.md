@@ -1,7 +1,7 @@
 ---
 title: Comprehensive Analysis of the Lenovo ThinkPad E16 Gen 1 - Mastering Essential Features with Precision
-date: 2024-08-30T16:49:42.999Z
-updated: 2024-08-31T16:49:42.999Z
+date: 2024-11-27T17:45:09.464Z
+updated: 2024-11-28T17:00:09.252Z
 tags:
   - deals
 categories:
@@ -20,6 +20,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2
  With the [ThinkPad E16 Gen 1](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Flenovo-thinkpad-e16-gen-1-16-touch-screen-laptop-intel-core-i5-with-16gb-memory-512gb-ssd-black%2F6549720.p%3FskuId%3D6549720), Lenovo aims to cater to the business audience with a sub-$1000 machine that's more substance than flash. Featuring a solid build and some well-chosen components, this laptop does a lot right on paper. Despite some of its short-comings, Lenovo has another winner for business users, and maybe even a general audience, looking for a relatively inexpensive, no-frills laptop that delivers good performance.
 
 ![Lenovo ThinkPad E16 Gen 1 promotional image of open laptop](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/11/6549720cv3d.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #####  Lenovo ThinkPad E16 Gen 1
 
@@ -101,15 +105,27 @@ Expand
 
 ![Lenovo ThinkPad E16 Gen 1 open on a desk with its AC adapter](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/11/the-open-lenovo-thinkpad-e16-gen-1-with-the-charger_53287490495_o.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Sergio Rodriguez / How-To Geek
 
  At nearly four pounds and measurements of 14 x 9.75 x 0.78 inches, this is not what would be considered a thin and light laptop. Instead, you get a [MIL-STD-810H-certified](https://systelusa.com/blog/what-is-mil-std-810h/) machine that passed rigorous environmental testing. Of course, since the design features a lot of [PC-ABS](https://www.xometry.com/resources/materials/pc-abs/) plastic to go along with the aluminum top, there's some flex to the laptop body if you push hard and a bit of wobble with its display when typing on an unstable surface. Despite this lack of overall rigidity, it's not a laptop you'd be afraid to manhandle.
 
  The all-graphite black design retains the classic ThinkPad look. The iconic red TrackPoint pointing stick in the middle of the keyboard and the red indicator light embedded in the ThinkPad logo on the back of the display are similarly unmistakable. It's a classy, unassuming laptop that's appropriate for even the most sedate business environment. On the downside, the exterior of the laptop case is a fingerprint magnet.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Hardware and Battery Life: Mixed Results
 
 ![Lenovo ThinkPad E16 Gen 1 - right side of open laptop on desktop](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/11/side-of-the-open-lenovo-thinkpad-e16-gen-1_53287396854_o.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Sergio Rodriguez / How-To Geek
 
@@ -119,27 +135,18 @@ Sergio Rodriguez / How-To Geek
 
 ![Lenovo ThinkPad E16 Gen 1 closed on a desktop showing its left side](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/11/the-closed-lenovo-thinkpad-e16-gen-1_53287396884_o.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
-<!-- affiliate ads end -->
 Sergio Rodriguez / How-To Geek
 
  Thanks to the ThinkPad E16 Gen 1's larger body, there are plenty of full-size ports on the left and right of the laptop. On the left, there's USB-C 3.2 Gen 2 (power-in), Thunderbolt 4, USB-A 3.2 Gen 1, HDMI 2.1 TMDS, and a 3.5mm headphone/microphone combo. On the right, there's USB-A 2.0, Ethernet (RJ45), and a Kensington Security Slot.
 
 ![Lenovo ThinkPad E16 Gen 1 closed showing its right side on a desktop](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/11/ports-on-the-lenovo-thinkpad-e16-gen-1_53287490450_o.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 Sergio Rodriguez / How-To Geek
 
  A 3-cell li-polymer 47Wh battery provides eight hours or more of usage, which is fairly average. Of course, battery life varies greatly depending upon a host of factors, including screen brightness, how processor-intensive the task load is, Wi-Fi activity, ambient temperature, and more. For instance, in my own general usage with little care for optimizing battery life or what I was doing, I got around three and a half hours of battery life.
 
  The included 65W USB-C 2-pin 65W USB-C AC adapter supports PD 3.0 and can fast charge the battery up to 80% capacity in only one hour. Other compliant [USB-C chargers](https://tech-revival.techidaily.com/elevate-your-skycraft-copilot-pro-explained/) can offer similar performance and provide a nice alternative to a single-purpose USB-C AC adapter when bag space is at a premium.
 
-<!-- affiliate ads begin -->
-<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Display and Sound: Big and Bold
 
 ![Lenovo ThinkPad E16 Gen 1 open a desktop](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/11/the-open-lenovo-thinkpad-e16-gen-1_53287026391_o.jpg) 
@@ -165,8 +172,9 @@ Your browser does not support the video tag.
 ![Lenovo ThinkPad E16 Gen 1 - closeup of open laptop's left corner on a desktop](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/11/intel-core-i5-and-intel-iris-xe-stickers-on-the-lenovo-thinkpad-e16-gen-1_53286136922_o.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Sergio Rodriguez / How-To Geek
 
  Thanks to the laptop's generous width, the backlit keyboard feels full-size and even has a numeric keypad to the right. It was a pleasure to type on, with the laptop's weight and stability enhancing the keyboard's feel. It's an excellent typing experience and makes a good argument for laptops with some heft to them.
@@ -180,8 +188,9 @@ Sergio Rodriguez / How-To Geek
 ![Lenovo ThinkPad E16 Gen 1 open on a desktop showing a close-up of its upper right side](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/11/power-button-and-fingerprint-reader-on-the-lenovo-thinkpad-e16-gen-1_53287490545_o.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Sergio Rodriguez / How-To Geek
 
  As is standard with a business-centric laptop, the ThinkPad E16 Gen 1 comes with Windows 11 Pro. There's not a lot of bloatware preinstalled outside of [McAfee](https://www.mcafee.com/en-us/antivirus.html) antivirus and some Lenovo standards like [AI Meeting Manager](https://apps.microsoft.com/detail/ai-meeting-manager/9NJ7W58DLL4N?hl=en-US&gl=US), [Lenovo Smart Appearance](https://apps.microsoft.com/detail/lenovo-smart-appearance/9NRLFDZ54PZB?hl=en-US&gl=US), and Lenovo Vantage. There's also the Lenovo Now app, which provides a portal to Lenovo Vantage, the device warranty, and various trial offers.
@@ -208,9 +217,6 @@ Sergio Rodriguez / How-To Geek
 
 ![Lenovo ThinkPad E16 Gen 1 promotional image of open laptop](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/11/6549720cv3d.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
 #####  Lenovo ThinkPad E16 Gen 1
 
 7/ 10 
@@ -225,8 +231,6 @@ There's an undeniable appeal to the ThinkPad E16 Gen 1's basic practicality and 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -234,4 +238,20 @@ There's an undeniable appeal to the ThinkPad E16 Gen 1's basic practicality and 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-advanced-methods-for-securing-vimeo-recordings/"><u>[New] 2024 Approved Advanced Methods for Securing Vimeo Recordings</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/creenplay-grooves-best-background-tunes-for-yt-shorts/"><u>[New] Screenplay Grooves Best Background Tunes For YT Shorts</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-viral-talent-quest-episodes-1-10/"><u>[New] Viral Talent Quest Episodes #1-10</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-dissecting-revenue-allocation-for-shortform-content-makers/"><u>[Updated] In 2024, Dissecting Revenue Allocation for Shortform Content Makers</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-kitchen-kings-and-queen-top-youtube-gastronomes/"><u>[Updated] Kitchen Kings & Queen Top YouTube Gastronomes</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-maximize-your-youtube-impact-mastering-the-art-of-influential-channels-branding/"><u>[Updated] Maximize Your YouTube Impact Mastering the Art of Influential Channels' Branding</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-video-gamings-top-10-capture-card-recommendations/"><u>[Updated] Video Gaming's Top 10 Capture Card Recommendations</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-get-the-latest-logitech-webcam-drivers-for-your-computer-free-of-charge/"><u>How to Get the Latest Logitech Webcam Drivers for Your Computer Free of Charge</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-pause-life360-location-sharing-for-honor-play-40c-drfone-by-drfone-virtual-android/"><u>How To Pause Life360 Location Sharing For Honor Play 40C | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/navigating-the-newswaves-top-10-news-aggregators-for-a-well-informed-2vearly-2024/"><u>Navigating the Newswaves: Top 10 News Aggregators for a Well-Informed 2Vearly 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/premier-selector-exclusive-app-selection-for-your-videos-for-2024/"><u>Premier Selector Exclusive App Selection for Your Videos for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/refinement-of-screen-focus-how-to-zoom-on-microsoft-teams-for-2024/"><u>Refinement of Screen Focus How to Zoom on Microsoft Teams for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/strategic-alliances-with-abbyy-signature-mastering-process-intelligence/"><u>Strategic Alliances with ABBYY Signature: Mastering Process Intelligence</u></a></li>
+</ul></div>
 

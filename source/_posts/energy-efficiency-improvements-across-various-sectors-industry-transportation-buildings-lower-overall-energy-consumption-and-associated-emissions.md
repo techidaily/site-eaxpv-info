@@ -1,7 +1,7 @@
 ---
 title: Energy Efficiency Improvements Across Various Sectors (Industry, Transportation, Buildings) Lower Overall Energy Consumption and Associated Emissions.
-date: 2024-11-12T18:34:32.985Z
-updated: 2024-11-19T21:57:25.989Z
+date: 2024-11-23T16:09:17.618Z
+updated: 2024-11-28T17:08:31.457Z
 tags:
   - apple
 categories:
@@ -68,6 +68,10 @@ Jason Hiner/ZDNET
 * Users can access ChatGPT via this integration for free, and OpenAI will not log their data. ChatGPT Plus users can connect their subscriptions to access more advanced features, in which case OpenAI's data usage policies apply.
 * The ChatGPT integration will be coming to iOS 18, iPadOS 18, and MacOS Sequoia later this year.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## iOS 18
 
 Adam Breeden/ZDNET
@@ -86,6 +90,10 @@ Adam Breeden/ZDNET
 * The **Safari app** was upgraded to include key information about a webpage. You can read more about the Safari upgrades under the MacOS section of this article.
 * The **Calendar app** can now pull from the Reminders app for a more seamless schedule overview.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## WatchOS 11
 
 Adam Breeden/ZDNET
@@ -101,10 +109,7 @@ Adam Breeden/ZDNET
 * Another notable change is that the **double tap gesture** can be used to scroll through apps.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1061528/11832" target="_top" id="1061528">
-  <img src="//a.impactradius-go.com/display-ad/11832-1061528" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1061528/11832" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## iPadOS 18
@@ -118,10 +123,7 @@ Adam Breeden/ZDNET
 * iPadOS 18 supports **screen-sharing via SharePlay** and the same Control Center customizations, Photos app upgrades, Safari updates, and emoji Tapbacks found in **iOS 18.**
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094477/7443" target="_top" id="2094477">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094477" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094477/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## MacOS 15 (Sequoia)
@@ -153,10 +155,7 @@ Jason Hiner/ZDNET
 * Apple is also making the Vision Pro available in more countries starting June 28\. You can see the full list [here](https://www.apple.com/newsroom/2024/06/apple-vision-pro-arrives-in-new-countries-and-regions-beginning-june-28/).
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014850/22899" target="_top" id="2014850">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014850" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014850/22899" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## AirPods
@@ -166,13 +165,6 @@ Jason Hiner/ZDNET
 * AirPods Pro are getting **Voice Isolation** to enhance call quality in noisier environments.
 * With the new **Siri Interactions**, users can now **nod or shake their head** "yes" or "no" when responding to Siri.
 * Apple is also releasing a **Personalized Spatial Audio API** for game developers to build around the AirPods' audio technology.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915805/19272" target="_top" id="1915805">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915805" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915805/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## tvOS 18
 
@@ -218,20 +210,18 @@ Screenshot by Nina Raemont/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-beginners-to-pros-choosing-webcams-for-youtube-live/"><u>[New] In 2024, From Beginners to Pros Choosing Webcams for YouTube Live</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-novice-to-narrative-youtube-seo-strategies/"><u>[New] In 2024, From Novice to Narrative YouTube SEO Strategies</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-go-live-with-google-meet-youtube-broadcasting-steps/"><u>[New] In 2024, Go Live with Google Meet YouTube Broadcasting Steps</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-effortlessly-convert-youtube-videos-online/"><u>[New] In 2024, How to Effortlessly Convert YouTube Videos Online</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/eize-the-money-opportunity-monetizing-on-youtube-through-mobile-devices/"><u>[New] Seize the Money Opportunity Monetizing on YouTube Through Mobile Devices</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-game-based-youtube-earning-guide/"><u>[Updated] 2024 Approved Game-Based YouTube Earning Guide</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-curating-striking-instagram-profile-photos-for-2024/"><u>[Updated] Curating Striking Instagram Profile Photos for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-delete-youtube-comments-effortlessly-in-2024/"><u>[Updated] How to Delete YouTube Comments Effortlessly, In 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-fable-creators-circle-a-list-eight/"><u>2024 Approved Fable Creators Circle - A-List Eight</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-everything-you-need-to-know-about-lock-screen-settings-on-your-lava-yuva-2-pro-by-drfone-android/"><u>In 2024, Everything You Need to Know about Lock Screen Settings on your Lava Yuva 2 Pro</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-prospects-and-pitfalls-of-the-latest-in-photography-by-samsung-2023/"><u>In 2024, Prospects & Pitfalls of the Latest in Photography by Samsung, 2023</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/24-setup-and-strategies-for-youtube-gamers-live-sessions/"><u>In 2024, Setup and Strategies for YouTube Gamers' Live Sessions</u></a></li>
-<li><a href="https://common-error.techidaily.com/netflix-buffering-fixed-tips-for-continuous-streaming-on-desktop-computers/"><u>Netflix Buffering Fixed - Tips for Continuous Streaming on Desktop Computers</u></a></li>
-<li><a href="https://games-able.techidaily.com/top-5-strategies-for-a-blissful-ps5-journey/"><u>Top 5 Strategies for a Blissful PS5 Journey</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/errupted-youtube-how-to-block-ads-in-popular-browsers-for-2024/"><u>Uninterrupted YouTube How to Block Ads in Popular Browsers for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-insiders-look-at-advanced-streamlabs-obs-techniques/"><u>[New] In 2024, Insider's Look at Advanced Streamlabs OBS Techniques</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/comparative-analysis-of-the-6-leading-programs-to-rip-and-decrypt-drm-protected-disney-and-sony-dvds/"><u>Comparative Analysis of the 6 Leading Programs to Rip & Decrypt DRM-Protected Disney & Sony DVDs</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/discover-7-must-have-free-apps-for-students-starting-a-new-semester/"><u>Discover 7 Must-Have Free Apps for Students Starting a New Semester</u></a></li>
+<li><a href="https://common-error.techidaily.com/error-0x887a0006-troubleshooting-fast-and-effective-solutions/"><u>Error 0X887A0006 Troubleshooting: Fast and Effective Solutions</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-stop-google-chrome-from-tracking-your-location-on-vivo-x100-pro-drfone-by-drfone-virtual-android/"><u>How to Stop Google Chrome from Tracking Your Location On Vivo X100 Pro? | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-outdoor-video-equipment-guide/"><u>In 2024, Outdoor Video Equipment Guide</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-which-pokemon-can-evolve-with-a-moon-stone-for-samsung-galaxy-s24-drfone-by-drfone-virtual-android/"><u>In 2024, Which Pokémon can Evolve with a Moon Stone For Samsung Galaxy S24? | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcoming-unexpected-app-halts-in-cod-modern-warfare-3-fix-guide/"><u>Overcoming Unexpected App Halts in COD Modern Warfare 3 - Fix Guide</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/pcts/"><u>PC上でTSファイルを見やすくリプレース方法 - 使い心地良しガイド!</u></a></li>
+<li><a href="https://review-topics.techidaily.com/realme-data-retrieval-tool-restore-lost-data-from-realme-by-fonelab-android-recover-data/"><u>Realme Data Retrieval tool – restore lost data from Realme</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/telechargement-gratuit-du-convertisseur-video-en-mp3-extraction-audio-facile-de-votre-video/"><u>Téléchargement Gratuit Du Convertisseur Vidéo en MP3 : Extraction Audio Facile De Votre Vidéo</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/asy-way-to-spruce-up-your-youtube-feedback-with-emojis/"><u>The Easy Way to Spruce Up Your YouTube Feedback with Emojis</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/1725284231995-ai/"><u>ウィンクスビデオAI:揺らぎがなくなる画像安定化ソフトウェア</u></a></li>
 </ul></div>
 

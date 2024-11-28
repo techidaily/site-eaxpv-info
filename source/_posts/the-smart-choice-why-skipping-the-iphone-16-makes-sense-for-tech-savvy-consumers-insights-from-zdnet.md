@@ -1,7 +1,7 @@
 ---
 title: "The Smart Choice: Why Skipping the iPhone 16 Makes Sense for Tech-Savvy Consumers - Insights From ZDNet"
-date: 2024-10-30T03:35:59.136Z
-updated: 2024-11-02T06:33:46.671Z
+date: 2024-11-22T18:19:28.262Z
+updated: 2024-11-28T16:42:46.358Z
 tags:
   - apple
 categories:
@@ -28,6 +28,10 @@ If anything, the latest iOS 18.1 betas with Apple Intelligence features have bee
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## The annual upgrade ritual
 
 Every year, my wife and I eagerly await the release of the new iPhones. Being part of [Apple's Upgrade Program](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fiphone%2Fiphone-upgrade-program&subId1=subid%5Fvalue), we return our devices, reset our loan with Citizens Bank, and acquire the latest model. Over the past few years, I have opted for the [Pro Max](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fiphone-15-pro%2F&subId1=subid%5Fvalue), and my wife has chosen the [base model](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fiphone-15%2F&subId1=subid%5Fvalue). The expected annual improvements have been incremental but appreciated. 
@@ -35,10 +39,7 @@ Every year, my wife and I eagerly await the release of the new iPhones. Being pa
 Despite the buzz around the [iPhone 16's new features](https://www.zdnet.com/article/im-an-android-user-but-these-three-iphone-16-features-would-win-me-over/) and the integration of Apple Intelligence, however, several concerns dampen my enthusiasm for upgrading this year.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012401/19272" target="_top" id="2012401">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012401" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012401/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Apple Intelligence: A significant, yet incomplete, leap forward
@@ -56,10 +57,7 @@ However, the integration of Apple Intelligence is not without challenges. The mo
 More advanced AI features, such as [Genmoji](https://www.zdnet.com/article/apples-new-ai-generated-genmoji-solve-a-problem-weve-all-had-before/) for creating custom emoji, the [Image Playground](https://www.zdnet.com/article/forget-dall-e-apples-new-ai-image-generator-runs-on-device-and-works-like-magic/) for on-device image creation, and ChatGPT integration, have yet to be included in the beta. Siri has received a minor UI update and a more conversational tone, but significant improvements are expected later this year. [According to Bloomberg's Mark Gurman](https://www.bloomberg.com/news/newsletters/2024-07-07/apple-watch-series-10-ultra-3-details-bigger-screens-blood-pressure-challenge-lybjqp0q), additional Apple Intelligence features will be introduced in upcoming iOS 18.1 Beta releases, with the stable version possibly arriving in October.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2141680/17091" target="_top" id="2141680">
-  <img src="//a.impactradius-go.com/display-ad/17091-2141680" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141680/17091" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## New hardware leaks: what to expect from the iPhone 16
@@ -79,16 +77,7 @@ Interestingly, despite these hardware upgrades, Apple appears to be keeping pric
 Despite these upgrades, the iPhone 16 may still face challenges due to design cycles that didn't fully account for the scope of Apple Intelligence's capabilities. As a result, users may experience suboptimal performance and a less seamless user experience, especially as more AI features roll out in subsequent updates.
 
 <!-- affiliate ads begin -->
-<span id="1516072">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1516072.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1516072">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1516072.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1516072%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1516072/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Why you shouldn't buy the iPhone 16 for Apple Intelligence
@@ -98,13 +87,6 @@ Besides memory concerns, AI processing demands a lot of power and additional com
 **Also: [How iOS 18 changes the way you charge your iPhone](https://www.zdnet.com/article/how-ios-18-changes-the-way-you-charge-your-iphone/)**
 
 For these reasons, I see the iPhone 16 (and potentially even the iPhone 17) as a transitional product in Apple's journey toward on-device AI. 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925468/19272" target="_top" id="1925468">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925468" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925468/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How Apple Intelligence will likely evolve
 
@@ -121,6 +103,10 @@ Apple could achieve this by equipping MacOS, iOS, and iPadOS with Apple Intellig
 Enterprises may also employ a mobile device management solution to facilitate access to on-device LLMs with business Macs. Additionally, iPhones or Macs could be used as proxies for Apple Watch or HomePod requests for mobile users. We may also see a more powerful Apple TV with more onboard memory and processing to act as an Apple Intelligence "hub" for every Apple device in a household.
 
 Imagine your iPhone using the unused processing power of your Mac or iPad, all equipped with on-device LLMs, to tackle complex AI tasks. This would increase the accessibility of AI features across Apple's product range.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## I'm still optimistic
 
@@ -162,19 +148,24 @@ _This article was originally published on June 28, 2024, and updated on August 2
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-gamer-tested-streaming-software-picks/"><u>[New] 2024 Approved Gamer-Tested Streaming Software Picks</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-guidelines-for-effective-use-of-cc-licenses/"><u>[New] 2024 Approved Guidelines for Effective Use of CC Licenses</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-hot-ticket-video-countdown-of-the-hour/"><u>[New] 2024 Approved Hot Ticket Video Countdown of the Hour</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/new-8-popular-oculus-rift-games/"><u>[New] 8 Popular Oculus Rift Games</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-from-novice-to-pro-your-step-by-step-guide-to-youtube-live-images-for-2024/"><u>[Updated] From Novice to Pro Your Step-by-Step Guide to YouTube Live Images for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-filmmakers-toolkit-making-compelling-youtube-trailers/"><u>[Updated] In 2024, Filmmaker's Toolkit Making Compelling YouTube Trailers</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-safe-surveillance-strategies-blurring-sensitive-content/"><u>[Updated] Safe Surveillance Strategies Blurring Sensitive Content</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/fix-the-invisible-fb-watch-video-icon-restored/"><u>Fix the Invisible FB Watch Video Icon, Restored</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-the-latest-insignia-bluetooth-adapter-software-for-windows-systems/"><u>Get the Latest Insignia Bluetooth Adapter Software for Windows Systems</u></a></li>
-<li><a href="https://android-frp.techidaily.com/how-to-bypass-google-frp-lock-on-oneplus-nord-n30-se-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock on OnePlus Nord N30 SE Devices</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-simulate-gps-movement-in-ar-games-on-gionee-f3-pro-drfone-by-drfone-virtual-android/"><u>How to Simulate GPS Movement in AR games On Gionee F3 Pro? | Dr.fone</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/leverage-netflixs-picture-in-picture-functionality/"><u>Leverage Netflix's Picture-in-Picture Functionality</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/perfecti-the-ultimate-guide-to-iphone-slideshows-xr-i-for-2024/"><u>Perfecti The Ultimate Guide to iPhone Slideshows (XR-I) for 2024</u></a></li>
-<li><a href="https://app-tips.techidaily.com/unlocking-vmwares-power-get-your-hands-on-the-free-personal-versions-of-fusion-pro-and-workstation-pro-zdnet/"><u>Unlocking VMware's Power: Get Your Hands on the Free Personal Versions of Fusion Pro & Workstation Pro | ZDNet</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-captivate-masses-social-media-strategies-for-youtube-for-2024/"><u>[New] Captivate Masses Social Media Strategies for YouTube for 2024</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-exploring-earning-potential-revenue-from-youtube-advertisements/"><u>[New] Exploring Earning Potential Revenue From YouTube Advertisements?</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-tips-for-enhancing-online-presence-with-imovie-on-vimeo-for-2024/"><u>[New] Tips for Enhancing Online Presence with iMovie on Vimeo for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/iral-video-potential-analyzing-dslr-and-mirrorless-cameras/"><u>[New] Viral Video Potential Analyzing DSLR and Mirrorless Cameras</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-efficient-recording-capture-your-dell-display-swiftly/"><u>[Updated] In 2024, Efficient Recording Capture Your Dell Display Swiftly</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/convertissez-vos-fichiers-dts-au-format-flac-gratuitement-avec-le-convertisseur-en-ligne-de-movavi/"><u>Convertissez Vos Fichiers DTS Au Format FLAC Gratuitement Avec Le Convertisseur en Ligne De Movavi</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/descargar-y-convertir-archivos-webm-a-formato-de-audio-libre-de-codigo-abierto-ogg-online-sin-costo/"><u>Descargar Y Convertir Archivos Webm a Formato De Audio Libre De Código Abierto Ogg Online Sin Costo</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/discover-the-best-free-mp4-editor-software-for-202macoswindows-top-picks-for-your-videos/"><u>Discover the Best FREE MP4 Editor Software for 202([MacOS/Windows]) - Top Picks for Your Videos</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/effimero-non-gratuito-si-converti-immagini-webp-a-jpeg-senza-costi-con-photoconvertpro/"><u>Effimero Non, Gratuito Sì! Converti Immagini WEBP a JPEG Senza Costi Con PhotoConvertPro</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/flac-put-aac-movavi/"><u>FLAC 아웃PUT, AAC로 맞추기: Movavi의 원격 모드 정교하고 무료 오디오/이미지 변환 기능</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/hoewelikomme-er-voor-bij-het-creeren-van-een-persoonlijk-quiz-tentoonstelling/"><u>Hoewelikomme Er Voor Bij Het Creëren Van Een Persoonlijk Quiz-Tentoonstelling</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-phone-touchscreen-of-tecno-spark-20c-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Phone Touchscreen Of Tecno Spark 20C | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-oppo-a18-phone-without-any-data-loss-by-drfone-android/"><u>How to Unlock Oppo A18 Phone without Any Data Loss</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/in-2024-essential-20-hysterical-detention-cell-gifs-to-amplify-your-online-joy/"><u>In 2024, Essential 20 Hysterical Detention Cell Gifs to Amplify Your Online Joy</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/mpgm4vmovavi/"><u>MPG文件转换为M4V：免费在线动态改变，利用Movavi解决方案</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-6-appsservices-to-trace-any-samsung-galaxy-s23-location-by-mobile-number-drfone-by-drfone-virtual-android/"><u>Top 6 Apps/Services to Trace Any Samsung Galaxy S23 Location By Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/turn-wma-audiovideo-into-mp4-hands-free-editing-with-movavis-powerful-tools/"><u>Turn WMA Audio/Video Into MP4 - Hands-Free Editing with Movavi's Powerful Tools!</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ling-secret-youtube-clips-a-step-by-step-guide-for-2024/"><u>Unveiling Secret YouTube Clips A Step-by-Step Guide for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/vrije-converteer-tool-voor-gif-naar-asterisk-3p-online-weg-met-movavi/"><u>Vrije Converteer-Tool Voor GIF Naar Asterisk 3P: Online-Weg Met Movavi</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "My Journey with Windows 11: Nostalgia for Beloved Windows 10 Features"
-date: 2024-08-30T16:50:05.719Z
-updated: 2024-08-31T16:50:05.719Z
+date: 2024-11-23T16:43:03.295Z
+updated: 2024-11-28T18:32:07.575Z
 tags:
   - deals
 categories:
@@ -12,6 +12,10 @@ thumbnail: https://thmb.techidaily.com/9687aa834ae00807e9d2f77ee77a3ac9fdfd8db29
 ## My Journey with Windows 11: Nostalgia for Beloved Windows 10 Features
 
 I switched to Windows 11 recently, and it has been an interesting experience. Besides from the [wildly-unpopular Recall update](https://youtube-stream.techidaily.com/in-2024-the-best-of-yt-a-deep-dive-into-music-dance-clips-23/), there are a few things already in the operating system that have made me unhappy.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Upgrading to Windows 11 Was Painless
 
@@ -35,12 +39,13 @@ Benj Edwards / How-To Geek
 
  The rest of the process was a lot easier once I got access to the BIOS, but even then, it took me a few tries to find the exact setting on my BIOS screen (since it was different from other walkthrough screens). After about an hour of fiddling, I finally got it sorted out.
 
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Start Menu and Taskbar Layout Are Too Limited
 
 ![Taskbar Personalization Menu (light)](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/taskbar-personalization-menu-light.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Ever since the problem that was the Windows 8 Start Tiles, I've appreciated the Start Menu a lot more. Immediately as I got into the operating system, I was greeted by a familiar Start Menu, only it wasn't as familiar as I'd hoped. By default, Windows 11 center-aligns your Start Menu on a new installation.
 
@@ -55,8 +60,9 @@ Benj Edwards / How-To Geek
 ![Windows 11 context menu](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/04/context.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  You know what makes me feel bad? Having to click twice on a pop-up menu to get a single thing done. It's a waste of time, and the truncated context menus in Windows 11 are good examples of this. I sort of see what Microsoft was going for here, based on the design, however.
 
  For most of Windows' history, designers have been torn between making a super-simplistic system for the non-tech-savvy and making a functional system for users who know what they're doing. Sadly, this design choice doesn't help either party. In fact, it makes the job of tech support people who have to walk people through things even more difficult.
@@ -67,9 +73,6 @@ Benj Edwards / How-To Geek
 
 ![Sort By Options (light)](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/sort-by-options-light.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  As a power user, I like sorting my stuff in a particular way. Sometimes, I like seeing thumbnails (if it's images), sometimes I like seeing details if I want to determine which file is the largest and needs to be deleted. Back in Windows 10, it was such an easy thing to arrange your icons by date, or size. Now, Windows 11 has made it more unintuitive for users to sort their files.
 
  The biggest issue I have is the number of grouping options. Why are there so many? Windows 10 made it relatively easy to arrange things in an intuitive way. If you wanted additional sorting options, you just needed to hit the "More" button under Sort By. Windows 11 makes this much messier—the More button at the top of File Explorer does something different from the More button in the right-click context menu, and you can't add or remove sorting options for files or groups independently of one another. If you want to group your files one way, then sort those groups according to a separate criteria, you can't do it without adding the option to both the Sort By and Group menu. Sometimes, [Windows 11 just refuses to sort things](https://learn.microsoft.com/en-us/answers/questions/1117096/windows-11-file-explorer-has-wrong-sorting-order?orderBy=Helpful) the way you want them, defeating the entire purpose of a sort button.
@@ -77,31 +80,21 @@ Benj Edwards / How-To Geek
  Windows 11 has shifted its file arrangement system from something that almost anyone can use to something that even the most skilled power users have a hard time wrapping their heads around. On the bright side, once you set up a sorting schedule for a particular folder, it keeps that sorting. There are small wins here and there, at least.
 
 <!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  The "Action Center" Is No More
 
 ![No Action Center (light)](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/no-action-center-light.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Most Windows 10 users like myself have gotten used to the Action Center. Not only is it a good way to keep track of notifications from important applications, [but it is highly customizable](https://win-dash.techidaily.com/download-and-update-tp-link-usb-400-bluetooth-adapter-drivers-faster-pairing/). Windows 11 says we no longer need an Action Center and has tossed it out.
 
  Now, instead of easily being able to get to sound settings and wireless networks at a single click, we have to right-click and then open a new settings menu. What's worse, tablet users are going to have a really hard time getting to their settings now.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
-<!-- affiliate ads end -->
 ##  It's Not A Bad Operating System But...
 
 ![Laptop with Windows 10 on the left, and laptop with Windows 11 on the right, with an update icon in the center.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/laptop-with-windows-10-on-the-left-and-laptop-with-windows-11-on-the-right-with-an-update-icon-in-the-center.jpg) 
@@ -118,8 +111,6 @@ Lucas Gouveia / Hannah Stryker / How-To Geek
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -127,4 +118,22 @@ Lucas Gouveia / Hannah Stryker / How-To Geek
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-pcs-choice-for-classic-gaming-essential-top-5-ps1-emulators/"><u>[New] 2024 Approved PC's Choice for Classic Gaming Essential Top 5 PS1 Emulators</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/mplify-your-content-navigating-the-world-of-youtube-backlinks-for-2024/"><u>[New] Amplify Your Content Navigating the World of YouTube Backlinks for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-essential-steps-for-seamless-youtube-video-loops-for-2024/"><u>[New] Essential Steps for Seamless YouTube Video Loops for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-boosting-channel-success-scaling-for-a-million-viewers/"><u>[Updated] 2024 Approved Boosting Channel Success Scaling for a Million Viewers</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-becoming-a-confident-content-creator-youtubes-top-tips/"><u>[Updated] In 2024, Becoming a Confident Content Creator YouTube's Top Tips</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-free-tools-and-tricks-creating-compelling-youtube-video-ads/"><u>[Updated] In 2024, Free Tools and Tricks Creating Compelling YouTube Video Ads</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-maximizing-your-youtube-income-understanding-adsense-payments-for-every-1k-watch/"><u>[Updated] Maximizing Your Youtube Income Understanding AdSense Payments for Every 1K Watch</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-proven-techniques-to-elevate-your-videos-sonic-palette-on-youtube/"><u>[Updated] Proven Techniques to Elevate Your Video's Sonic Palette on YouTube</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-youtube-ready-360-videos-editing-and-sharing-made-simple/"><u>[Updated] YouTube-Ready 360 Videos Editing & Sharing Made Simple</u></a></li>
+<li><a href="https://win-trending.techidaily.com/como-recuperar-archivos-con-facilidad-y-gratis-de-un-disco-duro-defectuoso-guia-completa/"><u>Cómo Recuperar Archivos Con Facilidad Y Gratis De Un Disco Duro Defectuoso: Guía Completa</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/conquest-through-words-precise-lines-for-captivating-chats/"><u>Conquest Through Words: Precise Lines for Captivating Chats</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-use-phone-clone-to-migrate-your-oneplus-11-5g-data-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Use Phone Clone to Migrate Your OnePlus 11 5G Data? | Dr.fone</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/mobile-1-mac-stellar-erase-tool-a-complete-guide-to-the-erasure-process/"><u>Mobile 1 Mac - Stellar Erase Tool: A Complete Guide to the Erasure Process</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/snapcutsolution-examination-extensive-review/"><u>SnapCutSolution Examination – Extensive Review</u></a></li>
+<li><a href="https://facebook.techidaily.com/strategic-content-development-for-social-media-success-with-ripl/"><u>Strategic Content Development for Social Media Success with Ripl</u></a></li>
+</ul></div>
 

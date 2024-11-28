@@ -1,7 +1,7 @@
 ---
 title: "Exploring AI Misconceptions: The Reality of Hallucinatory Responses in ChatGPT"
-date: 2024-08-30T16:51:06.977Z
-updated: 2024-08-31T16:51:06.978Z
+date: 2024-11-22T18:40:24.910Z
+updated: 2024-11-28T18:46:34.106Z
 tags:
   - cutting-edge
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://thmb.techidaily.com/c8cc0b50d6a862024b28911d2e2409173d05c3a9f
 ---
 
 ## Exploring AI Misconceptions: The Reality of Hallucinatory Responses in ChatGPT
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -39,6 +43,10 @@ thumbnail: https://thmb.techidaily.com/c8cc0b50d6a862024b28911d2e2409173d05c3a9f
 
  While faulty prompts can give way to AI hallucinations, things also go a little deeper than this.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ###  The Technical Side of AI Hallucinations
 
  Your typical AI chatbot functions using artificial neural networks. While these neural networks are nowhere near as advanced as those in the human brain, they're still fairly complex.
@@ -60,11 +68,16 @@ thumbnail: https://thmb.techidaily.com/c8cc0b50d6a862024b28911d2e2409173d05c3a9f
  Chatbots like ChatGPT, Google Bard, and Claude can tell you if they've detected that a given prompt doesn't make sense or needs refining. But the detection of faulty prompts isn't 100 percent (as we'll discuss further later), and it's the existing margins of error that give way to hallucinations.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Which AI Chatbots Hallucinate?
 
 ![The ChatGPT website open on a phone](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/52927154347_a9c038a466_o.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Jason Montoya / How-To Geek
 
@@ -76,19 +89,12 @@ Jason Montoya / How-To Geek
 
  The creator of Claude, Anthropic, has publicly stated that its chatbot can hallucinate. In an [Anthropic notice](https://docs.anthropic.com/claude/docs/claude-is-hallucinating), titled "Claude is hallucinating", it was stated that, despite Anthropic's efforts to minimize occurrences of hallucinations, they still happen. Specifically, Anthropic stated that the issue of hallucinations in Claude's responses "is not fully solved yet."
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ###  Observing AI Hallucinations
 
  We gave ChatGPT a contradictory scenario, and asked it to answer a question concerning the scenario. As you can see below, we interchanged facts multiple times in an effort to confuse the chatbot.
 
 ![Screenshot of ChatGPT response to prompt on desktop.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/gpt-hallucinate-1.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  ChatGPT caught out the person's height inconsistency in the problem, but not that of the building. So, ChatGPT provided a confident response, without realizing it was hallucinating. The response was also quite nonsensical overall, with its conclusion being that the man on top of the building is "already on the ground", and that he is only "slightly shorter" than the 100-200ft building.
 
  When we provided Claude with the same contradictory problem, it also gave a hallucinatory response.
@@ -101,14 +107,12 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
 ![Screenshot of Google Bard's response to a nonsensical prompt on desktop.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/bard-answer-ai.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  In this instance, all three of the popular AI chatbots tested failed, either partially or entirely, to spot the errors in the prompt, giving way to hallucinatory responses.
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ###  How AI Chatbots Are Improving
 
  While the above examples of AI hallucination are concerning, developers are by no means ignoring the issue.
@@ -135,9 +139,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
  If you're very worried about AI hallucination, you may want to steer clear of AI chatbots for now, as hallucination is evidently still a prominent issue.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Be Wary of AI Hallucination
 
  Today's AI chatbots are undoubtedly impressive, but there's still a long way to go before they provide accurate information 100 percent of the time. It's best to be aware of AI hallucination works and what it can result in if you want to steer clear of inaccurate or falsified information when using AI chatbots.
@@ -148,8 +149,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -157,4 +156,24 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-blurring-the-line-secure-video-content-with-smoother-images/"><u>[New] 2024 Approved Blurring the Line Secure Video Content with Smoother Images</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-boost-engagement-discover-the-top-5-youtube-promotion-tactics/"><u>[Updated] 2024 Approved Boost Engagement Discover the Top 5 YouTube Promotion Tactics</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-a-20-second-symphony-understanding-musics-compact-formats-for-2024/"><u>[Updated] A 20-Second Symphony Understanding Music's Compact Formats for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-discovering-and-dominating-unique-segments-in-youtube-for-2024/"><u>[Updated] Discovering and Dominating Unique Segments in YouTube for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-a-comprehensive-guide-to-the-12-superior-vlogging-cameras/"><u>[Updated] In 2024, A Comprehensive Guide to the 12 Superior Vlogging Cameras</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-achieve-unprecedented-image-quality-via-av1-on-youtube/"><u>[Updated] In 2024, Achieve Unprecedented Image Quality via AV1 on YouTube</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-master-the-art-of-virality-top-facebook-video-marketing-strategies/"><u>[Updated] In 2024, Master the Art of Virality Top Facebook Video Marketing Strategies</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-pioneer-the-future-of-youtube-content-with-tubebuddy/"><u>[Updated] Pioneer the Future of YouTube Content with TubeBuddy</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-the-ultimate-streaming-showdown-fb-live-yt-live-tweetspaces/"><u>[Updated] The Ultimate Streaming Showdown FB Live, YT Live, TweetSpaces</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/a-perfect-guide-to-remove-or-disable-google-smart-lock-on-honor-magic-5-lite-by-drfone-android/"><u>A Perfect Guide To Remove or Disable Google Smart Lock On Honor Magic 5 Lite</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-get-the-apple-id-verification-code-on-apple-iphone-15-pro-max-in-the-best-ways-by-drfone-ios/"><u>In 2024, How To Get the Apple ID Verification Code On Apple iPhone 15 Pro Max in the Best Ways</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/perfect-pair-merging-your-youtube-video-library-for-2024/"><u>Perfect Pair Merging Your YouTube Video Library for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/quick-guide-to-downloading-and-installing-msis-audio-driver-on-windows/"><u>Quick Guide to Downloading and Installing MSI's Audio Driver on Windows</u></a></li>
+<li><a href="https://extra-information.techidaily.com/srt-revelation-transforming-computer-performance/"><u>SRT Revelation Transforming Computer Performance</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/streaming-star-status-buttons-and-growth-accolades-for-2024/"><u>Streaming Star Status - Buttons & Growth Accolades for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/ultimate-guide-access-premium-r-rated-movie-downloads-for-crystal-clear-viewing/"><u>Ultimate Guide: Access Premium R-Rated Movie Downloads for Crystal Clear Viewing</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/vloggers-guide-to-going-viral-with-hilarious-reactions-3-must-know-strategies-for-2024/"><u>Vlogger’s Guide to Going Viral with Hilarious Reactions – 3 Must-Know Strategies for 2024</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: AI Breakthroughs Set to Amplify Capabilities of M4 iPad Pro Announced for Worldwide Developers Conference Showcase | Tech Analysis by ZDNET
-date: 2024-11-16T23:44:36.149Z
-updated: 2024-11-19T19:55:07.874Z
+date: 2024-11-25T18:23:40.805Z
+updated: 2024-11-28T18:55:23.220Z
 tags:
   - apple
 categories:
@@ -30,6 +30,10 @@ Did they improve the overall quality of life and usability of Apple's most quixo
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Turn 2D images into spatial photos
 
 I've never been terribly impressed by Apple's implementation of spatial photos, which are photos that have a 3D feel to them. The little square box and the fairly minimal lens separation of the [iPhone 15 Pro](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-iphone%2Fiphone-15-pro&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) resulted in something that seems more novelty than noteworthy. 
@@ -48,6 +52,10 @@ And here's another feature that I can't imagine any users clamoring for. Now, if
 
 So, yeah, if Grandma Sadie in Seattle has a Vision Pro, Cousin Marty in Miami has a Vision Pro, and you have a Vision Pro in Yuma, you can all stand around the virtual photo screen and ooh and ah over pictures of baby Alice. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Gestures for opening Home View and Control Center
 
 While it's easy enough to open Vision Pro's home view (the field of app icons) by pressing the Digital Crown on the top of the unit, getting to Control Center is a pain. VisionOS puts a tiny little arrow waaay up at the top of the viewing space, and you have to glance at it and tap your fingers together to get it to open. 
@@ -57,10 +65,7 @@ In VisionOS 2, there are gestures. Holding your hand palm up and tapping fingers
 Unlike the previous two features, this _is_ a quality of life improvement. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997635/19272" target="_top" id="1997635">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997635" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997635/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Mac virtual display improvements
@@ -72,10 +77,7 @@ Screenshot by David Gewirtz/ZDNET
 On the other hand, Apple "later this year" will enable you to create displays with more resolutions. The most interesting is the full wrap-around display, which will be the equivalent of two 4K monitors. 
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134240/18498" target="_top" id="2134240">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134240" border="0" alt="https://techidaily.com" width="540" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134240/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Choo-choo train mode
@@ -93,13 +95,6 @@ There are a ton of VR and AR APIs in Apple's platforms. But this week, at WWDC, 
 * **Volumetric API:** Allows complex 3D apps to run side-by-side. A volumetric API is at the core of most 3D content, because it allows developers to create, manage, and present volumetric content. My read on this announcement is not the introduction of a Volumetric API, but that it can allow multiple 3D apps to run concurrently.
 * **TabletopKit:** Helps developers create apps that anchor to flat surfaces. One obvious example is board game kits, but this could apply to interior design apps, architectural and construction projects, gaming, navigation, and more.
 * **Enterprise APIs:** These were described as enterprise-specific APIs, so we can assume they're somewhat special purpose. Examples given were surgical training and manufacturing.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130871/7443" target="_top" id="2130871">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130871" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130871/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 7\. New Canon spatial lens for creating spatial video
 
@@ -120,10 +115,7 @@ Apple is opening up the format for third-party creators to create immersive vide
 Even so, I think this is great. Those immersive videos are fantastic. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044586/7443" target="_top" id="2044586">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044586" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044586/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Other new features
@@ -179,24 +171,22 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-filmoras-secrets-to-captivating-youtube-trailers/"><u>[New] 2024 Approved Filmora's Secrets to Captivating YouTube Trailers</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-2024-approved-the-art-of-amplifying-your-minecraft-scene/"><u>[New] 2024 Approved The Art of Amplifying Your Minecraft Scene</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-formulating-a-seamless-subscription-hyperlink-to-youtube/"><u>[New] In 2024, Formulating a Seamless Subscription Hyperlink to YouTube</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-guardians-of-the-most-watched-youtube-edition/"><u>[New] In 2024, Guardians of the Most Watched YouTube Edition</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ltimate-seo-guide-elevating-your-video-rankings-in-a-digital-age-for-2024/"><u>[New] Ultimate SEO Guide Elevating Your Video Rankings in a Digital Age for 2024</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-choreographing-newscast-endings/"><u>[Updated] 2024 Approved Choreographing Newscast Endings</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-formulating-impressive-online-media-introductions/"><u>[Updated] 2024 Approved Formulating Impressive Online Media Introductions</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-harmonizing-youtube-production-with-a-9-to-5-routine/"><u>[Updated] 2024 Approved Harmonizing YouTube Production with a 9-to-5 Routine</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-skip-the-slip-ups-the-8-must-avoid-mistakes-for-new-youtube-stars/"><u>[Updated] 2024 Approved How to Skip the Slip-Ups The 8 Must-Avoid Mistakes for New YouTube Stars</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-flashy-fiddles-short-form-melodic-roles-for-2024/"><u>[Updated] Flashy Fiddles Short Form Melodic Roles for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-safely-extract-youtube-audio-a-study-of-3-techniques-for-2024/"><u>[Updated] How to Safely Extract YouTube Audio A Study of 3 Techniques for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-game-development-behind-the-scenes/"><u>[Updated] In 2024, Game Development Behind-the-Scenes</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-in-2024-unraveling-the-science-of-motion-without-contact/"><u>[Updated] In 2024, Unraveling the Science of Motion Without Contact</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/2024-approved-complete-preview-control-essentials-for-mac-users/"><u>2024 Approved Complete Preview Control Essentials for Mac Users</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-essential-tools-for-quality-4k-video-recording/"><u>2024 Approved Essential Tools for Quality 4K Video Recording</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/how-to-use-the-meta-quest-microphone/"><u>How to Use the Meta Quest Microphone</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/in-2024-step-1-step-2-and-step-3-to-video-chatting-on-snapchat-now/"><u>In 2024, Step 1, Step 2, and Step 3 to Video Chatting on Snapchat Now</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-5-tracking-apps-to-track-oppo-reno-10-proplus-5g-without-them-knowing-drfone-by-drfone-virtual-android/"><u>Top 5 Tracking Apps to Track Oppo Reno 10 Pro+ 5G without Them Knowing | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/will-ispoofer-update-on-oppo-reno-11f-5g-drfone-by-drfone-virtual-android/"><u>Will iSpoofer update On Oppo Reno 11F 5G | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-a-comprehensive-look-at-youtube-to-facebook-file-transfers/"><u>[New] A Comprehensive Look at YouTube-to-Facebook File Transfers</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-advanced-cropping-skills-for-image-clarity/"><u>[Updated] Advanced Cropping Skills for Image Clarity</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-securing-your-snapchat-footage-a-step-by-step-process-for-2024/"><u>[Updated] Securing Your Snapchat Footage A Step-by-Step Process for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/1725290300008-freemake/"><u>本物の Freemake クラッキング・無料アカウント認証回避方法解説 - チュートリアル動画</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/effortless-moving-of-big-size-iphone-media-videoimages-to-your-pc-with-ios-15-and-windows-1011/"><u>Effortless Moving of Big-Size iPhone Media (Video/Images) to Your PC with iOS 15 and Windows 10/11</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/extend-your-apple-watchs-endurance-discover-how-adjusting-8-settings-can-help/"><u>Extend Your Apple Watch's Endurance: Discover How Adjusting 8 Settings Can Help!</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/1725286863696-handbrakedvd/"><u>HandBrakeでDVDデータ読み取り時のエラーを解決する方法：画質向上技術</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/how-to-fix-udf-format-dvds-that-wont-open-on-your-pc-with-the-easy-winx-dvd-ripper-solution/"><u>How to Fix UDF Format DVDs That Won't Open on Your PC with the Easy WinX DVD Ripper Solution</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-complete-tutorial-to-use-vpna-to-fake-gps-location-on-zte-nubia-z60-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, Complete Tutorial to Use VPNa to Fake GPS Location On ZTE Nubia Z60 Ultra | Dr.fone</u></a></li>
+<li><a href="https://video-capture.techidaily.com/in-2024-minecraft-homes-innovative-and-stylish-designs/"><u>In 2024, Minecraft Homes Innovative & Stylish Designs</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/itunes-u-migration-seamless-transition-of-content-from-iphone-to-pc-without-itunes/"><u>ITunes U Migration: Seamless Transition of Content From iPhone to PC without iTunes</u></a></li>
+<li><a href="https://win-webmaster.techidaily.com/le-strategie-top-per-il-ripristino-dei-file-su-un-disco-rigido-samsung-una-guida-completa/"><u>Le Strategie Top per Il Ripristino Dei File Su Un Disco Rigido Samsung: Una Guida Completa</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/mastering-iso-to-dvd-conversion-for-windows-10-and-mac-discover-the-top-6-techniques/"><u>Mastering ISO to DVD Conversion for Windows 10 and Mac: Discover the Top 6 Techniques!</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/max-headphones-dilemma-quality-or-cost/"><u>Max Headphones Dilemma: Quality or Cost?</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/step-by-step-guide-ripping-and-creating-a-backup-of-the-wonder-woman-1984-dvd/"><u>Step-by-Step Guide: Ripping & Creating a Backup of the Wonder Woman 1984 DVD</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/troubleshoot-corrupted-dji-drone-recordings-expert-tips-to-restore-phantom-video-playback-issues/"><u>Troubleshoot Corrupted DJI Drone Recordings – Expert Tips to Restore Phantom Video Playback Issues</u></a></li>
+<li><a href="https://video-capture.techidaily.com/vintage-video-card-patch-for-2024/"><u>Vintage Video Card Patch for 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Guide to Designing Dynamic Presentations Using ChatGPT and MidJourney for Captivating Audiences
-date: 2024-08-30T16:51:26.628Z
-updated: 2024-08-31T16:51:26.628Z
+date: 2024-11-21T16:48:31.104Z
+updated: 2024-11-28T17:38:20.303Z
 tags:
   - cutting-edge
 categories:
@@ -11,6 +11,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 ## Step-by-Step Guide to Designing Dynamic Presentations Using ChatGPT and MidJourney for Captivating Audiences
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Quick Links
 
 * [Prompting ChatGPT To Create a Presentation Outline, Slide Notes, and Slide Text](https://win-dash.techidaily.com/download-and-activate-your-realtek-asio-sound-controller-for-optimal-pc-performance-in-windows-navigator4/)
@@ -19,19 +23,24 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 * [Tips and Tricks](https://facebook-videos.techidaily.com/2024-approved-interconnecting-platforms-sharing-tiktok-to-facebook/)
 * [AI In Your Office?](https://fox-links.techidaily.com/understanding-your-best-fit-in-virtual-reality-worlds-choosing-between-portable-and-plugged-in-for-2024/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
  By incorporating ChatGPT and MidJourney into your workflow, you can create compelling PowerPoint presentations with ease. ChatGPT helps generate presentation outlines, slide notes, and slide text, while MidJourney provides visually captivating illustrations. These AI tools enhance your productivity and allow for impressive customization in your presentations.
 
  Despite all our modern technology, putting together a slideshow is still a chore, even if you're really passionate about the topic you're presenting. By adding ChatGPT and MidJourney into your workflow, you can produce amazingly creative presentations all by yourself.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Prompting ChatGPT To Create a Presentation Outline, Slide Notes, and Slide Text
 
  It's not a stretch to say that OpenAI's ChatGPT has disrupted content creation. While most of the attention is given to fancy, complex use cases, the humble PowerPoint presentation can benefit too. Here's a general set of steps, you can modify them based on your specific presentation.
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ###  Step 1: Set the Stage
 
  Start by providing ChatGPT with a clear and concise briefing. This includes the presentation's topic, the intended audience, and the key messages you want to convey.
@@ -52,12 +61,13 @@ Related: [How to Collaborate on a Microsoft PowerPoint Presentation](https://pho
 
 Related: [How to Track Changes in Microsoft PowerPoint](https://graphic-issues.techidaily.com/navigating-intel-driver-enhancements-in-win7/) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ###  Step 3: Review and Refine the Outline
 
  After obtaining the initial outline, review it for coherence and relevance. If any point seems off, ask ChatGPT to revise it or provide additional information. ChatGPT works best with a back-and-forth process between you and the software. Treat it like another person on your team!
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ###  Step 4: Ask for Slide Notes
 
@@ -75,9 +85,6 @@ Related: [How to Track Changes in Microsoft PowerPoint](https://graphic-issues.t
 
 Related: [How to Make a PowerPoint From an Outline](https://youtube-video-recordings.techidaily.com/top-tips-how-to-avoid-the-8-deadliest-youtube-dos-and-donts-for-newbies/) 
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Creating Illustrations for PowerPoint With MidJourney
 
  After creating your presentation outline and slide notes, it's time to bring your PowerPoint to life with visually captivating illustrations. MidJourney is a superb tool to help you with this, if you're looking for something artistic to have in your presentation. It won't however help you with a pie-chart or histogram, but you can make some pretty impactful imagery to represent a specific vibe or theme.
@@ -88,30 +95,25 @@ Related: [How to Make a PowerPoint From an Outline](https://youtube-video-record
 
 ![MidJourney Corporate Cartoon](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/07/image6.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  As you can see, MidJourney gives us four images that are all candidates for our presentation. You can click the corresponding "U" button to upscale any of the individual images in the grid. U1 and U2 represent the top row of images, and U3 and U4 the bottom two.
 
 ![MidJourney Variation Buttons](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/07/image2.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  You don't need to know any advanced MidJourney commands and methods to make neat imagery for your presentation, except for the custom aspect ratios.
 
  Simply add "--ar W:H" at the end of your prompt, replacing "W" with the width and the "H" with the height.
 
 ![MidJourney Aspect Ratio Settings](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/07/image5.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  For example, I love making slides that are split 50/50 between the text and graphic. Since slides have a 16:9 aspect ratio, it means you can use "--ar 8:9" to get something that takes up exactly half of the slide.
 
 Related: [How Good is MidJourney at AI Art? We Compared All the Models](https://instagram-clips.techidaily.com/2024-approved-visual-storytelling-on-social-media-crafting-an-effective-plan/) 
 
  As of this writing, MidJourney. doesn't offer high levels of control over the images you get, but if you're particular about your images, try to use the same modifiers in your prompt. For example, we used "corporate cartoon" in the previous prompt, and by reusing with a different subject you'll usually get images that look thematically coherent. Remember that you can keep re-rolling the prompt if you don't get what you want at first, and you can use the "V" buttons to create variations of an image that was close but not quite there.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Putting it Together
 
@@ -120,11 +122,9 @@ Related: [How Good is MidJourney at AI Art? We Compared All the Models](https://
 ![PowerPoint AI MidJourney and ChatGPT Slide Example](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/07/image3.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+
 ##  Tips and Tricks
 
  Armed with this basic knowledge, you can use these AI tools to up your presentation same significantly, but there are some additional tips and tricks you can keep in mind for even better results:
@@ -136,6 +136,10 @@ Related: [How Good is MidJourney at AI Art? We Compared All the Models](https://
 
  The prompt-engineering rabbit hole goes as deep as you want it to, but these basic tips and tricks should be more than enough to transform your PowerPoint Game.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  AI In Your Office?
 
  I'll be the first to admit that using ChatGPT and MidJourney like this feels like something of a kludge. However, generative AI tools are already being integrated into productivity software. For example, Canva has an AI image generator built right into it and Grammarly also includes generating AI now. Microsoft 365 itself has CoPilot, so its worth looking over what these tools can do for you when creating documents. One way or another, there's an AI assistant nearby to help you get stuff done more quickly.
@@ -146,8 +150,6 @@ Related: [How Good is MidJourney at AI Art? We Compared All the Models](https://
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -155,4 +157,26 @@ Related: [How Good is MidJourney at AI Art? We Compared All the Models](https://
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-a-comprehensive-list-of-the-best-10-low-cost-video-production-schools-on-youtube/"><u>[New] In 2024, A Comprehensive List of the Best 10 Low-Cost Video Production Schools on YouTube</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-insider-guide-decoding-youtube-live-image-codes/"><u>[New] Insider Guide Decoding YouTube Live Image Codes</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-comedy-chorus-satirical-song-selections-for-2024/"><u>[Updated] Comedy Chorus Satirical Song Selections for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-discover-the-top-30-free-intro-creators-on-youtube-for-2024/"><u>[Updated] Discover the Top 30 Free Intro Creators on YouTube for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-step-into-virtual-entertainment-and-gain-notoriety-for-2024/"><u>[Updated] How to Step Into Virtual Entertainment and Gain Notoriety for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-stream-like-a-pro-top-5-devices-for-live-recording-success/"><u>[Updated] In 2024, Stream Like a Pro Top 5 Devices for Live Recording Success</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-navigate-and-neutralize-your-own-overly-green-spectrum-in-youtube-videos-mac/"><u>[Updated] Navigate and Neutralize Your Own Overly Green Spectrum in YouTube Videos (Mac)</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-navigating-thumbnail-sizes-for-youtube-content-excellence/"><u>[Updated] Navigating Thumbnail Sizes for YouTube Content Excellence</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-streamline-your-strategy-with-aspect-ratio-mastery-on-youtube/"><u>[Updated] Streamline Your Strategy with Aspect Ratio Mastery on YouTube</u></a></li>
+<li><a href="https://location-fake.techidaily.com/11-best-location-changers-for-tecno-pova-5-pro-drfone-by-drfone-virtual-android/"><u>11 Best Location Changers for Tecno Pova 5 Pro | Dr.fone</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/essential-software-for-efficient-teleconferences/"><u>Essential Software for Efficient Teleconferences</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-successfully-bypass-icloud-activation-lock-from-apple-iphone-15-pro-max-by-drfone-ios/"><u>How to Successfully Bypass iCloud Activation Lock from Apple iPhone 15 Pro Max</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/my-videos-arent-playing-on-oneplus-ace-3-what-can-i-do-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>My Videos Arent Playing on OnePlus Ace 3 – What Can I Do? | Dr.fone</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/pinpointing-potential-a-youtube-niche-journey-for-2024/"><u>Pinpointing Potential A Youtube Niche Journey for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/sky-high-broadcasting-your-first-steps-in-youtube-live-via-obs-for-2024/"><u>Sky-High Broadcasting Your First Steps in Youtube Live via OBS for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/top-5-essential-filming-accessories-for-online-creators-for-2024/"><u>Top 5 Essential Filming Accessories for Online Creators for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-9-essential-inquiries-prior-to-electric-vehicle-purchase/"><u>Top 9 Essential Inquiries Prior to Electric Vehicle Purchase</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/unlocking-the-power-of-hashtags-in-youtube-gaming-culture/"><u>Unlocking the Power of Hashtags in YouTube Gaming Culture</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/vivo-y27-5g-adb-format-tool-for-pc-vs-other-unlocking-tools-which-one-is-the-best-by-drfone-android/"><u>Vivo Y27 5G ADB Format Tool for PC vs. Other Unlocking Tools Which One is the Best?</u></a></li>
+</ul></div>
 

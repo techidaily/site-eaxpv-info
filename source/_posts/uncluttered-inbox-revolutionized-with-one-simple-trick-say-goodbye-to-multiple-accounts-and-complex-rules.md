@@ -1,7 +1,7 @@
 ---
 title: Uncluttered Inbox Revolutionized with One Simple Trick - Say Goodbye to Multiple Accounts and Complex Rules
-date: 2024-11-14T00:22:26.800Z
-updated: 2024-11-19T19:44:31.591Z
+date: 2024-11-22T16:08:09.561Z
+updated: 2024-11-28T18:53:14.873Z
 tags:
   - apple
 categories:
@@ -32,6 +32,10 @@ It all works thanks to _aliases,_ a feature that's built into most modern email 
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## The magic of email aliases
 
 An alias is an alternate email address that's linked to your main account. Messages addressed to an alias go to your inbox, right alongside messages sent to your primary address. But because they're _not_ using your regular email address, you can set up your email client to perform custom actions using those aliases.
@@ -61,16 +65,7 @@ Don't confuse aliases with forwarded accounts, which allow you to send and recei
 The following instructions apply to personal accounts you manage yourself. If you have a commercial email account (through Microsoft 365 or Google Workspace, for example), you can have aliases for your account using your organization's custom domain, but you'll need an administrator's help to set up those aliases.
 
 <!-- affiliate ads begin -->
-<span id="1770544">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770544.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770544">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770544.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770544%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770544/20702" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to create an alias using Gmail
@@ -82,10 +77,7 @@ Although it's the world's most popular email service, Gmail's implementation of 
 The problem with this sort of alias is that it doesn't keep an unscrupulous sender from seeing your primary address, so be cautious when using it with untrusted correspondents.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135356/19272" target="_top" id="2135356">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135356" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135356/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to create an alias using Outlook.com
@@ -99,10 +91,7 @@ To get started, go to <https://account.microsoft.com>, sign in with your Microso
 You can add new aliases at any time (up to the limit of 10) or remove an existing alias from the Account Aliases page described earlier.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100541/7443" target="_top" id="2100541">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100541" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to create an alias using your Apple ID
@@ -116,10 +105,7 @@ The one catch is that each alias uses an auto-generated name that can be less th
 To create an iCloud alias on an iOS device, open Settings, tap your account name, then tap iCloud > Hide My Email. (On a MacBook, use the Apple menu to open System Settings, where you'll find the Hide My Email option.) Tap Create New Address and follow the prompts to add a label and an optional note. Use the Forward To button to select where you want to receive email sent to that alias.
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129043/19576" target="_top" id="2129043">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129043" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129043/19576" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Other alias options
@@ -160,22 +146,24 @@ You can also use privacy add-ins that include email-masking features. [NordPass 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-from-raw-feedback-a-critical-review-of-top-video-editors-for-youtube-for-2024/"><u>[New] From Raw Feedback A Critical Review of Top Video Editors for YouTube for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-how-to-get-people-to-subscribe-by-asking-the-right-way-for-2024/"><u>[New] How to Get People to Subscribe by Asking the Right Way for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-how-to-transform-your-youtube-vids-a-guide-to-softened-screens-for-2024/"><u>[New] How to Transform Your Youtube Vids A Guide to Softened Screens for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-feast-your-eyes-enjoyment-without-cost-watch-9-christmas-films-online/"><u>[New] In 2024, Feast Your Eyes, Enjoyment Without Cost Watch 9 Christmas Films Online</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-change-youtube-playback-speed-to-speed-up-or-slow-down-video/"><u>[New] In 2024, How to Change YouTube Playback Speed to Speed Up or Slow Down Video</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-lengthy-video-to-captivating-animation-create-gifs-with-ease/"><u>[Updated] 2024 Approved From Lengthy Video to Captivating Animation - Create Gifs with Ease</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-gain-more-followers-masterful-youtube-marketing-techniques/"><u>[Updated] In 2024, Gain More Followers Masterful YouTube Marketing Techniques</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-graphical-forecast-the-dominant-23-social-themes/"><u>[Updated] In 2024, Graphical Forecast The Dominant '23 Social Themes</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-transforming-photographs-into-stunning-collaborative-art/"><u>[Updated] Transforming Photographs Into Stunning Collaborative Art</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/chromebooks-now-incorporate-elements-from-windows-11-in-latest-operating-system-upgrade-a-look-at-the-cross-platform-synergy/"><u>ChromeBooks Now Incorporate Elements From Windows 11 in Latest Operating System Upgrade: A Look at the Cross-Platform Synergy</u></a></li>
-<li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-itel-p40plus-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your Itel P40+ | Dr.fone</u></a></li>
-<li><a href="https://driver-error.techidaily.com/enabling-functionality-after-failed-enex-load-on-windows-11/"><u>Enabling Functionality After Failed eNEX Load on Windows 11</u></a></li>
-<li><a href="https://media-tips.techidaily.com/how-to-effortlessly-airplay-avi-content-from-your-pc-to-an-apple-tv/"><u>How to Effortlessly AirPlay AVI Content From Your PC to an Apple TV</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-ipogo-will-be-the-new-ispoofer-on-gionee-f3-pro-drfone-by-drfone-virtual-android/"><u>In 2024, iPogo will be the new iSpoofer On Gionee F3 Pro? | Dr.fone</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/in-depth-evaluation-of-the-asus-rog-zephyrus-g14-the-ultimate-gamers-choice/"><u>In-Depth Evaluation of the Asus ROG Zephyrus G14: The Ultimate Gamer's Choice</u></a></li>
-<li><a href="https://win-able.techidaily.com/perfectly-preserving-godzilla-movie-dvd-from-2014-zero-compression-damage/"><u>Perfectly Preserving Godzilla Movie DVD From 2014 - Zero Compression Damage!</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/transferring-restored-edb-files-to-a-microsoft-exchange-server-comprehensive-tutorial/"><u>Transferring Restored EDB Files to a Microsoft Exchange Server - Comprehensive Tutorial</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ow-to-transfer-video-from-youtube-to-dailymotion-in-2024/"><u>[New] How to Transfer Video From YouTube to Dailymotion, In 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-sifting-through-the-elements-of-instagram-stories/"><u>[New] In 2024, Sifting Through the Elements of Instagram Stories</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-the-ultimate-guide-to-mac-iphone-and-ipad-pip/"><u>[Updated] 2024 Approved The Ultimate Guide to Mac, iPhone, and iPad PIP</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-enhancing-video-reach-convert-yt-to-igtv/"><u>[Updated] In 2024, Enhancing Video Reach Convert YT to IGTV</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-instagram-stories-tempo-tactics-speeding-up-or-slowing-down/"><u>[Updated] Instagram Stories Tempo Tactics – Speeding Up or Slowing Down</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/pcyoutubecd/"><u>家庭用PCからYouTube動画をCDへ焼くためのシンプルガイド - ステップバイステップチュートリアル</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/comprehensive-guide-solving-windows-11-update-issues-and-expert-advice/"><u>Comprehensive Guide: Solving Windows 11 Update Issues & Expert Advice</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/converti-dvd-gratis-in-formato-mp4-per-pc-e-mac-con-winxdvd-il-guida-completa/"><u>Converti DVD Gratis in Formato MP4 per PC E Mac Con WinXDVD: Il Guida Completa</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/cutting-edge-display-selections-10-mac-list/"><u>Cutting-Edge Display Selections #10 Mac List</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/engaging-audiences-with-visual-uploads-youtube-insights/"><u>Engaging Audiences with Visual Uploads YouTube Insights</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/exploring-new-horizons-with-windows-11-a-comprehensive-look-at-microsofts-latest-operating-system-improvements/"><u>Exploring New Horizons with Windows 11 - A Comprehensive Look at Microsoft's Latest Operating System Improvements</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/guide-preserving-quality-while-shrinking-avi-files-in-windows-10/"><u>Guide: Preserving Quality While Shrinking AVI Files in Windows 10</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-pickup-vs-competitors-an-incisive-review-of-androids-top-editor/"><u>In 2024, PickUp Vs. Competitors An Incisive Review of Android's Top Editor</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/passare-da-vhs-a-dvd-un-passo-passo-guidato-per-la-conversione-su-computer/"><u>Passare Da VHS a DVD: Un Passo-Passo Guidato per La Conversione Su Computer</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/revamped-guide-to-fixing-non-playable-instagram-footage-on-android-ios-and-desktops/"><u>Revamped Guide to Fixing Non-Playable Instagram Footage on Android, iOS & Desktops</u></a></li>
+<li><a href="https://win-blog.techidaily.com/triumph-over-troubleshooting-a-guide-to-resolving-game-security-compromise-alert/"><u>Triumph Over Troubleshooting: A Guide to Resolving 'Game Security Compromise Alert'</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-firewall-a-complete-reboot-guide/"><u>Windows Firewall: A Complete Reboot Guide</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/winx-dvd-ripper-the-ultimate-mac-compatible-software-for-easy-video-transfer-to-ios-devices-and-itunes/"><u>WinX DVD Ripper: The Ultimate Mac Compatible Software for Easy Video Transfer to iOS Devices and iTunes</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/1725283967929-dvd/"><u>スムーズに使えるダイナミックなDVDコンパイル無料ツール、高画質でロゴ不要</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Revolutionizing Computing: How Emerging 3D Transistor Technology Sustains Moore's Law"
-date: 2024-08-30T16:52:10.405Z
-updated: 2024-08-31T16:52:10.405Z
+date: 2024-11-22T17:18:34.261Z
+updated: 2024-11-28T17:10:08.015Z
 tags:
   - cutting-edge
 categories:
@@ -11,6 +11,10 @@ thumbnail: https://thmb.techidaily.com/d021ea19d35ef3673abfe0bc9bdff457eb34791e5
 
 ## Revolutionizing Computing: How Emerging 3D Transistor Technology Sustains Moore's Law
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Quick Links
 
 * [How Have Computers Continued to Get Faster?](https://eaxpv-info.techidaily.com/updated-historical-insights-the-most-relevant-youtube-channels-for-learners-for-2024/)
@@ -18,6 +22,10 @@ thumbnail: https://thmb.techidaily.com/d021ea19d35ef3673abfe0bc9bdff457eb34791e5
 * [3D Transistors Are Coming to Save Moore’s Law](https://android-transfer.techidaily.com/in-2024-how-to-transfer-text-messages-from-poco-f5-pro-5g-to-new-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/)
 
  For decades, shrinking transistors have driven explosive increases in computing power, but those days are coming to an end. The question is: where do we go now? The 3D design is a major part of the answer.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  How Have Computers Continued to Get Faster?
 
@@ -30,8 +38,9 @@ thumbnail: https://thmb.techidaily.com/d021ea19d35ef3673abfe0bc9bdff457eb34791e5
  We can now pack billions of transistors into a microprocessor the size of a coin, and that has enabled computers to change from enormous machines that occupied entire buildings into devices small enough to be carried around in your pocket. But there’s a problem: transistors are getting too small.
 
 <!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Why Can’t Transistors Keep Getting Smaller?
 
  As transistors get smaller, they become increasingly difficult to manufacture reliably. Even the best methods available result in waste, though that isn’t always a terrible thing. For example, if you’re trying to manufacture a [16-core CPU](https://facebook-video-share.techidaily.com/updated-elite-stabilization-solutions-for-video-creators-for-2024/) and only half of the cores wind up working, you can just disable the defective cores and sell it as an 8-core CPU—no harm done.
@@ -45,8 +54,9 @@ thumbnail: https://thmb.techidaily.com/d021ea19d35ef3673abfe0bc9bdff457eb34791e5
  The combination of increased manufacturing difficulty and the fundamental limits of physics have nearly taken us to the end of Moore’s law, but with the ever-present demand for better, smarter, and faster computers, where do we go?
 
 <!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  3D Transistors Are Coming to Save Moore’s Law
 
  Transistors on a chip are a bit like an island city of single-story buildings. You can only make the buildings so small before they’re unusable, and since you’re on an island, you can’t sprawl outwards forever. Just like island cities, modern transistors are being designed to take advantage of vertical space. Instead of attaching them in a flat plane, they can be arranged vertically together to allow for “stuff” to be arranged into the same footprint.
@@ -56,8 +66,9 @@ thumbnail: https://thmb.techidaily.com/d021ea19d35ef3673abfe0bc9bdff457eb34791e5
 ![A diagram showing the progression of transistors from 2d structures to 3d structures.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/figure_1_300dpi-1.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Paper 29.6, “Complementary Field-Effect Transistor (CFET) Demonstration at 48nm Gate Pitch for Future Logic Technology  
 Scaling,” S. Liao et al, TSMC)
 
@@ -69,8 +80,6 @@ Scaling,” S. Liao et al, TSMC)
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -78,4 +87,22 @@ Scaling,” S. Liao et al, TSMC)
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-transforming-viewership-engaging-end-screens-tutorials/"><u>[New] 2024 Approved Transforming Viewership Engaging End Screens Tutorials</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-guidelines-to-erase-youtube-recordings-on-pc/"><u>[New] In 2024, Guidelines to Erase YouTube Recordings on PC</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-unleash-calmness-asmr-titles-to-try-out/"><u>[New] Unleash Calmness ASMR Titles to Try Out</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-a-treasure-trove-of-9-complete-holiday-flicks-free-streaming/"><u>[Updated] In 2024, A Treasure Trove of 9 Complete Holiday Flicks, Free Streaming</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-elevating-channels-strategies-for-stardom-on-youtube/"><u>[Updated] In 2024, Elevating Channels Strategies for Stardom on YouTube</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-explore-the-8-premier-zero-cost-video-editors-for-social-media-pros/"><u>[Updated] In 2024, Explore the 8 Premier Zero-Cost Video Editors for Social Media Pros</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/2024-approved-tweet-trailblazers-the-trending-threads-showdown/"><u>2024 Approved Tweet Trailblazers The Trending Threads Showdown</u></a></li>
+<li><a href="https://windows11.techidaily.com/compulsory-uninstall-guide-for-windows-11-printers/"><u>Compulsory Uninstall Guide for Windows 11 Printers</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-getting-the-pokemon-go-gps-signal-not-found-11-error-in-itel-p55-5g-drfone-by-drfone-virtual/"><u>In 2024, Getting the Pokemon Go GPS Signal Not Found 11 Error in Itel P55 5G | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-power-of-consistency-steps-to-increase-youtube-views-and-subscriptions/"><u>In 2024, The Power of Consistency Steps to Increase YouTube Views and Subscriptions</u></a></li>
+<li><a href="https://win-web.techidaily.com/metodos-efectivos-para-desactivar-la-actualizacion-periodica-en-outlook-de-apple-computadoras/"><u>Métodos Efectivos Para Desactivar La Actualización Periódica en Outlook De Apple Computadoras</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/premier-asmr-vloggers-you-cant-miss-for-2024/"><u>Premier ASMR Vloggers You Can't Miss for 2024</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/209519670-9781788887021-the-book-of-fortune-telling/"><u>The Book of Fortune Telling | Free Book</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/the-editors-journey-mastering-the-art-of-youtube-cuts-for-2024/"><u>The Editor's Journey Mastering the Art of Youtube Cuts for 2024</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/why-is-my-pc-continuously-crashing-troubleshooting-the-new-world-game/"><u>Why Is My PC Continuously Crashing? Troubleshooting the 'New World' Game</u></a></li>
+</ul></div>
 

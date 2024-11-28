@@ -1,7 +1,7 @@
 ---
 title: Tech Giant Apple Hit with 2-Billion Dollar Fee by European Union Over Unfair App Store Practices
-date: 2024-11-14T17:40:35.829Z
-updated: 2024-11-19T17:14:59.455Z
+date: 2024-11-26T16:58:20.290Z
+updated: 2024-11-28T16:11:32.892Z
 tags:
   - apple
 categories:
@@ -24,13 +24,14 @@ In the past, moving from one face to another on an Apple Watch was easy. You'd s
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to swap faces on your Apple Watch
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100526/7443" target="_top" id="2100526">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100526" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Run watchOS 10
@@ -38,13 +39,6 @@ In the past, moving from one face to another on an Apple Watch was easy. You'd s
 If you're still running watchOS 9 or earlier, the older method of switching watch faces is still the norm. Just swipe left or right. If you already updated to watchOS 10 to gain all the latest features, such as new watch faces, fitness routines, and Health app tools, then the newer method is in effect.
 
 screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137218/26400" target="_top" id="2137218">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137218" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137218/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 2\. Switch watch faces
 
@@ -62,6 +56,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Update to watchOS 10.2
 
 Apple must have realized that it ticked off Watch owners by making the new face changing process so clumsy. That's why it fixed the issue with the latest 10.2 update. For this, open the Watch app on your iPhone, head to General, select Software Update, and then install the latest version.
@@ -71,16 +69,7 @@ Altefnatively, you can update the OS directly from your watch. For that, open th
 screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<span id="1977032">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977032.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977032">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977032.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977032%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977032/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Change the method for switching faces
@@ -92,10 +81,7 @@ screenshot by Lance Whitney/ZDNET
 **Also: [The best smartwatches you can buy: Apple, Samsung, Google, and more compared](https://www.zdnet.com/article/best-smartwatch/)**
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043603/7443" target="_top" id="2043603">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043603" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043603/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Switch watch faces by swiping
@@ -134,22 +120,20 @@ screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-phone-pics-to-professional-videos-selecting-the-top-9-enhancers/"><u>[New] 2024 Approved From Phone Pics to Professional Videos Selecting the Top 9 Enhancers</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-5-top-android-ps2-game-simulators/"><u>[New] 5 Top Android PS2 Game Simulators</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-flip-it-right-youtube-video-retrospectives-with-tips-for-2024/"><u>[New] Flip It Right YouTube Video Retrospectives (With Tips!) For 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-free-youtube-endings-that-stand-out-ranked-for-2024/"><u>[New] Free YouTube Endings That Stand Out - Ranked for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-secure-youtube-channels-audible-content/"><u>[New] In 2024, How to Secure YouTube Channels' Audible Content</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-bland-to-brilliant-transform-your-youtube-channels-image/"><u>[Updated] 2024 Approved From Bland to Brilliant Transform Your YouTube Channels' Image</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-free-easy-to-use-online-editors-for-quick-postings-for-2024/"><u>[Updated] Free, Easy-to-Use Online Editors for Quick Postings for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-growth-hackers-guide-the-ultimate-list-of-top-strategies-to-retain-youtube-viewers/"><u>[Updated] In 2024, Growth Hackers Guide The Ultimate List of Top Strategies to Retain YouTube Viewers</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-guide-to-incorited-visuals-in-text-without-cost/"><u>[Updated] In 2024, Guide to Incorited Visuals in Text Without Cost</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/common-issues-with-youtube-shorts-thumbnails/"><u>Common Issues with YouTube Shorts Thumbnails</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/free-mindset-tunes-no-copyrights/"><u>Free Mindset Tunes - No Copyrights</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-does-life360-notify-when-you-log-out-on-vivo-y100i-drfone-by-drfone-virtual-android/"><u>In 2024, Does Life360 Notify When You Log Out On Vivo Y100i? | Dr.fone</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/in-2024-igtv-content-size-requirements/"><u>In 2024, IGTV Content Size Requirements</u></a></li>
-<li><a href="https://article-tips.techidaily.com/in-2024-video-filter-installation-in-zoom-the-simplified-method/"><u>In 2024, Video Filter Installation in Zoom The Simplified Method</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/recycle-bin-deleted-items-and-partial-file-restoration/"><u>Recycle Bin, Deleted Items, and Partial File Restoration.</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/transcodez-vos-videos-mov-a-mxf-sans-frais-avec-loutil-de-conversion-en-ligne-gratuit-de-movavi/"><u>Transcodez Vos Vidéos MOV À MXF Sans Frais Avec L'outil De Conversion en Ligne Gratuit De Movavi</u></a></li>
-<li><a href="https://win-answers.techidaily.com/water-management-efficient-water-management-techniques-such-as-rainwater-harvesting-drip-irrigation-and-contour-farming-are-integral-to-agroecology-aiming-t360/"><u>Water Management: Efficient Water Management Techniques Such as Rainwater Harvesting, Drip Irrigation, and Contour Farming Are Integral to Agroecology, Aiming to Optimize Water Usage and Reduce Erosion and Nutrient Runoff</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-from-sound-to-web-crafting-a-standout-podcast-rss-feed/"><u>[New] From Sound to Web Crafting a Standout Podcast RSS Feed</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-game-optimized-screens-for-ps5-xbox-series-x-gamers/"><u>[New] Game-Optimized Screens for PS5, Xbox Series X Gamers</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/upercharge-your-content-innovative-youtube-seo-tools-to-use/"><u>[New] Supercharge Your Content Innovative YouTube SEO Tools to Use</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-getting-the-most-out-of-your-game-with-fraps/"><u>[Updated] Getting the Most Out of Your Game with Fraps</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/5pya6ygp44gq44oh44oh44kj44ki44ox44os44kk44ok44o844ks6yg444g244gf44kb44gu54sh5paz6zplusz5aow44o75yuv55s75yan55sf44k944ov44oi44km44kn44ki5qplusu6lyd44ks44kk4420/"><u>最適なメディアプレイヤーを選ぶための無料音声・動画再生ソフトウェア比較ガイド</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/apple-event-preview-anticipate-revolutionary-features-in-m4-mac-mini-enhanced-ipads-and-advanced-ai-zdnet/"><u>Apple Event Preview: Anticipate Revolutionary Features in M4 Mac Mini, Enhanced iPads, and Advanced AI | ZDNET</u></a></li>
+<li><a href="https://extra-information.techidaily.com/behind-the-screen-discovering-samsung-galaxy-s8s-4k-edge/"><u>Behind the Screen Discovering Samsung Galaxy S8's 4K Edge</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/fixing-udf-dvds-that-wont-play-a-complete-guide-using-winx-dvd-ripper/"><u>Fixing UDF DVDs That Won't Play - A Complete Guide Using WinX DVD Ripper</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-three-ways-to-sim-unlock-google-pixel-fold-by-drfone-android/"><u>In 2024, Three Ways to Sim Unlock Google Pixel Fold</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/kaufen-sie-die-volllizenz-fur-winx-mediatrans-professionelle-verwaltung-von-iphone-und-ipad/"><u>Kaufen Sie Die Volllizenz Für WinX MediaTrans - Professionelle Verwaltung Von iPhone Und iPad</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/optimal-bitrate-configuration-for-1080p-at-60fps-choosing-the-right-obs-recording-settings/"><u>Optimal Bitrate Configuration for 1080P at 60Fps: Choosing the Right OBS Recording Settings</u></a></li>
+<li><a href="https://win-able.techidaily.com/quick-remedies-to-launch-and-load-palworld-without-a-glitch/"><u>Quick Remedies to Launch and Load Palworld Without a Glitch</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/samsung-galaxy-fit2-your-perfect-portable-workout-partner/"><u>Samsung Galaxy Fit2: Your Perfect Portable Workout Partner</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/top-3-scatti-riepilogativi-su-convertitori-video-rapidi-il-guida-completa/"><u>Top 3 Scatti Riepilogativi Su Convertitori Video Rapidi - Il Guida Completa</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/1725290497841-ai/"><u>ウィンクスビデオAIによる高度な音声および音楽ファイルの操作・抽出法 - 第二章解説</u></a></li>
 </ul></div>
 

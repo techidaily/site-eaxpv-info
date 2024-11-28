@@ -1,7 +1,7 @@
 ---
 title: "Why Skepticism Persists: Questioning Gemini AI's Ability to Handle Duties"
-date: 2024-08-30T16:52:34.097Z
-updated: 2024-08-31T16:52:34.097Z
+date: 2024-11-26T19:06:53.270Z
+updated: 2024-11-28T16:29:35.288Z
 tags:
   - cutting-edge
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://thmb.techidaily.com/b88f149e018190d8db992f5fa62ce84a76816eeb0
 ---
 
 ## Why Skepticism Persists: Questioning Gemini AI's Ability to Handle Duties
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -23,6 +27,10 @@ thumbnail: https://thmb.techidaily.com/b88f149e018190d8db992f5fa62ce84a76816eeb0
 
  Google is now trying to push generative AI as a more complete virtual assistant, capable of completing some tasks with minimal or no human intervention. Google Assistant, Siri, and other earlier virtual assistants could handle some basic tasks, like finding a nearby restaurant and starting navigation directions. Google wants to push that even further with its Gemini AI technology, taking over tasks that would normally require human overview and logic processing.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  When Summaries Go Wrong
 
  There were a lot of AI feature demonstrations on stage at Google I/O, but importantly, most of them were pre-recorded or simulated. Gemini [summarized](https://www.youtube.com/live/XEzRZ35urlk?t=5269) all recent emails in Gmail from a specific school. It also [created a recap of a meeting](https://www.youtube.com/live/XEzRZ35urlk?t=5292) after parsing the call’s audio recording. Those are the same use cases that Microsoft has promoted for its Copilot assistant, and even though basic summarization has fewer steps that can go wrong, I would still be worried about using it for important meetings or messages. What happens when Gemini mishears comments from your boss about what project should be the priority?
@@ -32,6 +40,10 @@ thumbnail: https://thmb.techidaily.com/b88f149e018190d8db992f5fa62ce84a76816eeb0
  The demo that shocked me the most was [a segment about using Gemini in Gmail](https://www.youtube.com/live/XEzRZ35urlk?t=7983). The person in the example needs the roof of their house repaired, and they ask Gemini to find and summarize the three bids sent to their email address. The person decides which contractor to pick based _entirely_ on the summary, then sends a reply email that is also AI-generated.
 
 ![Conversation with Gemini summarizing 3 different bids for home repair.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/screenshot-05-14-2024-135913.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Google
 
@@ -44,8 +56,9 @@ Google
  There have been other attempts at using generative AI to accomplish real-life tasks. OpenTable was one of the first plugins for ChatGPT, potentially allowing you to book dinner reservations through the AI chatbot. You can find [a few reports](https://www.reddit.com/r/ChatGPT/comments/14rn74v/opentable%5Fplugin%5Fproblem/) of that not working, though it’s unclear if the AI or the underlying API integrations are to blame.
 
 <!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Don’t Trust It
 
  Google, and many other tech companies, want to sell you the idea that generative AI can be logical and make correct decisions with enough information. Generative AI cannot do that. There is no AI in existence right now that can think like you, me, or any other human. That’s why Gemini, ChatGPT, Copilot, and every other AI assistant can write programs but still fail at basic logic problems. Gemini [made a mistake in a demo video](https://www.theverge.com/2024/5/14/24156729/googles-gemini-video-search-makes-factual-error-in-demo) today at Google I/O, and it’s [not even the first time that happened](https://www.theverge.com/2023/2/8/23590864/google-ai-chatbot-bard-mistake-error-exoplanet-demo).
@@ -58,8 +71,6 @@ Google
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -67,4 +78,26 @@ Google
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-free-youtube-artwork-hacks-snag-high-res-thumbnails-now/"><u>[New] 2024 Approved Free YouTube Artwork Hacks - Snag High-Res Thumbnails Now</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-key-lights-and-soft-shadows-for-vloggers/"><u>[New] Key Lights and Soft Shadows for Vloggers</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-securely-saving-every-word-of-your-skype-chats-for-2024/"><u>[New] Securely Saving Every Word of Your Skype Chats for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-7-best-online-youtube-tag-extractors/"><u>[Updated] 2024 Approved 7 Best Online YouTube Tag Extractors</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-exploring-new-horizons-video-resources-for-dynamic-learning-spaces/"><u>[Updated] Exploring New Horizons Video Resources for Dynamic Learning Spaces</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-exquisite-couple-clips-the-best-weddings-online-8-picks/"><u>[Updated] Exquisite Couple Clips The Best Weddings Online (8 Picks)</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-a-visual-journey-uncovering-the-best-icons-and-logos-online/"><u>[Updated] In 2024, A Visual Journey Uncovering the Best Icons & Logos Online</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-leading-tech-for-remote-team-engagement/"><u>[Updated] In 2024, Leading Tech for Remote Team Engagement</u></a></li>
+<li><a href="https://howto.techidaily.com/8-workable-fixes-to-the-sim-not-provisioned-mm2-error-on-vivo-y36-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Workable Fixes to the SIM not provisioned MM#2 Error on Vivo Y36 | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/artificial-intelligence-showdown-analyzing-which-chatbot-best-fits-your-creative-prompt/"><u>Artificial Intelligence Showdown: Analyzing Which Chatbot Best Fits Your Creative Prompt</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/convert-gifs-to-mp4-top-13-free-tools-and-methods-across-devices/"><u>Convert GIFs to MP4: Top 13 Free Tools & Methods Across Devices</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-all-you-need-to-know-about-mega-greninja-for-apple-iphone-15-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, All You Need To Know About Mega Greninja For Apple iPhone 15 Plus | Dr.fone</u></a></li>
+<li><a href="https://discover-able.techidaily.com/iossd/"><u>IOSでスムーズなSDイメージバックアップ方法を詳しく見る</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-imovie-on-a-budget-the-best-free-online-video-editing-alternatives-for-2024/"><u>New IMovie on a Budget The Best Free Online Video Editing Alternatives for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/positive-persuasion-techniques-for-listener-loyalty-for-2024/"><u>Positive Persuasion Techniques for Listener Loyalty for 2024</u></a></li>
+<li><a href="https://driver-error.techidaily.com/tech-meets-barista-mode-a-unique-computer-tower-with-an-integrated-coffee-making-system-complete-with-roaster-and-grinder/"><u>Tech Meets Barista Mode: A Unique Computer Tower with an Integrated Coffee-Making System, Complete with Roaster and Grinder</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/the-art-of-thumbnail-and-banner-design-for-videos-for-2024/"><u>The Art of Thumbnail and Banner Design for Videos for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/unlock-youtube-monetization-a-focus-on-short-video-profits-for-2024/"><u>Unlock YouTube Monetization A Focus on Short Video Profits for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/when-and-how-to-cut-ties-disconnecting-from-old-x-twitters-successor-profiles-effectively/"><u>When & How To Cut Ties: Disconnecting From Old X (Twitter's Successor) Profiles Effectively</u></a></li>
+</ul></div>
 

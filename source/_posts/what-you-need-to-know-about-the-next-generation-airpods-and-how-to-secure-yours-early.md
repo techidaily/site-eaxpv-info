@@ -1,7 +1,7 @@
 ---
 title: What You Need To Know About The Next Generation AirPods & How to Secure Yours Early!
-date: 2024-11-18T21:56:58.628Z
-updated: 2024-11-19T21:18:49.913Z
+date: 2024-11-26T17:58:39.438Z
+updated: 2024-11-28T17:43:20.084Z
 tags:
   - apple
 categories:
@@ -38,6 +38,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Camera Control button
 
 Kerry Wan/ZDNET
@@ -47,10 +51,7 @@ The iPhone 16 receives a substantial update to its camera system. The device pos
 The button acts as a camera shortcut of sorts. Pushing it takes a photo, but the button also supports gesture controls. Swiping on the button with your thumb or finger lets you zoom in or out, while a double light-press presents you with various shooting modes, zoom lengths, photographic styles, and more. It's a fun and intuitive way to take photos. The best part about the button is that it's a great way to introduce more people to photography.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657396/16446" target="_top" id="1657396">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657396" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657396/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Siri 2.0 is arriving very soon
@@ -66,10 +67,7 @@ The new Siri can engage in more natural conversations. Users no longer need to c
 Everything mentioned so far is just the tip of the iceberg. It's been reported that next year Siri will be able to find and act on items on-device based on your context. For example, you could ask the AI what time your mom's flight is landing and Siri will pull together information from texts and emails, and then present this insight to you in a brief response.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043596/7443" target="_top" id="2043596">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043596" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043596/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. A new AI-powered chipset
@@ -116,21 +114,16 @@ Besides Apple Intelilgence, the A18 chipset should enable faster processing spee
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-in-2024-exploring-the-intricacies-of-whatsapp-voice-calls/"><u>[New] In 2024, Exploring the Intricacies of WhatsApp Voice Calls</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-in-2024-the-ultimate-exclusive-windows-11s-media-importers/"><u>[New] In 2024, The Ultimate Exclusive Windows 11'S Media Importers</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-livestream-titans-clash-facebook-youtube-and-twitspaces/"><u>[New] Livestream Titans Clash FACEbook, YOUTube, and TWITSpaces</u></a></li>
-<li><a href="https://fox-links.techidaily.com/new-streamlining-video-transfer-dvd-making-on-mac-for-2024/"><u>[New] Streamlining Video Transfer DVD Making on Mac for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-from-basics-to-blockbusters-building-an-audience-on-gaming-channels/"><u>[Updated] From Basics to Blockbusters Building an Audience on Gaming Channels</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-10-iconic-beauty-personalities-to-follow-on-youtube/"><u>[Updated] In 2024, 10 Iconic Beauty Personalities to Follow on YouTube</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-mastering-the-art-of-caption-placement-in-multimedia-projects-for-youtube/"><u>[Updated] Mastering the Art of Caption Placement in Multimedia Projects for YouTube</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-step-by-step-youtube-image-enlargement-technique/"><u>[Updated] Step-by-Step Youtube Image Enlargement Technique</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-the-key-role-of-youtube-trailers-in-enhancing-revenue/"><u>[Updated] The Key Role of YouTube Trailers in Enhancing Revenue</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-youtube-thumbnail-crafting-simplified-macos-edition/"><u>[Updated] YouTube Thumbnail Crafting Simplified (macOS Edition)</u></a></li>
-<li><a href="https://howto.techidaily.com/2021s-premier-powerhouse-the-alienware-aurora-r11-breakdown-and-gaming-pc-ranking/"><u>2021'S Premier Powerhouse: The Alienware Aurora R11 Breakdown and Gaming PC Ranking</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-top-15-cine-luts-for-gopro-action-cam/"><u>2024 Approved Top 15 Cine LUTs for Gopro Action Cam</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/eru/"><u>動画の高画質保持を実現する巧みなヒント！安全かつ鮮明なビデオ変換が約束さeru。 - スムーズに上品化</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/expert-tips-resolving-your-windows-11-start-menu-glitches/"><u>Expert Tips: Resolving Your Windows 11 Start Menu Glitches</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/transcription-made-simple-at-no-cost-for-2024/"><u>Transcription Made Simple At No Cost for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/watch-hit-music-clips-our-curated-selection-of-6-online-platforms/"><u>Watch Hit Music Clips: Our Curated Selection of 6 Online Platforms</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-discover-a-harmony-of-health-with-asmr-sounds/"><u>[Updated] In 2024, Discover a Harmony of Health with ASMR Sounds</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-unveiling-the-dji-spark-compact-drone-mastery-for-photographers/"><u>2024 Approved Unveiling the DJI Spark Compact Drone Mastery for Photographers</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-how-can-i-catch-the-regional-pokemon-without-traveling-on-apple-iphone-15-drfone-by-drfone-virtual-ios/"><u>In 2024, How Can I Catch the Regional Pokémon without Traveling On Apple iPhone 15 | Dr.fone</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-mastering-youtube-monetization-a-cpm-perspective/"><u>In 2024, Mastering YouTube Monetization A CPM Perspective</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/live-streaming-tools-discover-manycam-the-ultimate-virtual-camera-solution/"><u>Live Streaming Tools: Discover ManyCam, the Ultimate Virtual Camera Solution</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/live-streaming-ultimate-webcam-suite-master-manycam-features/"><u>Live Streaming Ultimate Webcam Suite: Master ManyCam Features</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/live-streaming-with-manycam-ultimate-virtual-camera-software-solutions/"><u>Live Streaming with ManyCam: Ultimate Virtual Camera Software Solutions</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/mastering-remote-broadcasts-with-manycam-leading-tools-for-virtual-camcorders-and-streaming-applications/"><u>Mastering Remote Broadcasts with ManyCam: Leading Tools for Virtual Camcorders & Streaming Applications</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/multiplecam-top-live-streaming-app-with-virtual-camera-capabilities/"><u>MultipleCam: Top Live Streaming App with Virtual Camera Capabilities</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/overview-of-the-best-motorola-moto-g84-5g-screen-mirroring-app-drfone-by-drfone-android/"><u>Overview of the Best Motorola Moto G84 5G Screen Mirroring App | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolved-overcoming-the-perpetual-load-screen-glitch-in-fortnite/"><u>Resolved! Overcoming the Perpetual Load Screen Glitch in Fortnite</u></a></li>
 </ul></div>
 

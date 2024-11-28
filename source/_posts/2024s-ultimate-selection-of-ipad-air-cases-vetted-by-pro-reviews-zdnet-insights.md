@@ -1,7 +1,7 @@
 ---
 title: 2024'S Ultimate Selection of iPad Air Cases Vetted by Pro Reviews | ZDNET Insights
-date: 2024-10-26T00:08:27.657Z
-updated: 2024-11-01T21:09:19.785Z
+date: 2024-11-25T16:16:15.341Z
+updated: 2024-11-28T18:47:22.463Z
 tags:
   - apple
 categories:
@@ -26,13 +26,6 @@ The display sizes of small tablets can range from six to 10 inches, with eight i
 
 Based on our extensive hands-on testing with various tablets of all sizes, our pick for the best small tablet is the [iPad Mini](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2F2021-Apple-iPad-Mini-Wi-Fi%2Fdp%2FB09G9FW785%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C369026fc-8906-4d8d-97bc-ba3c3cb5d6f8%7Cdtp&dtb=1), thanks to its 8.3-inch Liquid Retina display and weight of just under 1 pound. We also included compact-sized tablets from Amazon, Samsung, and other brands for those looking for something more compact and easy to carry. 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918666/19272" target="_top" id="1918666">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918666" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918666/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## The best small tablets of 2024
 
 Show less 
@@ -47,6 +40,10 @@ Pros
 Cons 
 * Cellular connectivity is additional cost
 * Expensive
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Apple iPad Mini 6th Generation
 
@@ -81,13 +78,6 @@ Cons
 * Performance is slightly slow
 * Cameras aren't as great as other options
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Amazon Fire 7 Tablet
 
 ### Best budget small tablet
@@ -120,14 +110,11 @@ Cons
 * Expensive
 * Some complaints of lag
 
-## Boox Tab Mini C
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+## Boox Tab Mini C
 
 ### Best small tablet for note-taking
 
@@ -155,19 +142,6 @@ Pros
 Cons 
 * Web browser functionality could be better
 * No warm light option
-
-<!-- affiliate ads begin -->
-<span id="1770776">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770776.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770776">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770776.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770776%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770776/20702" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Amazon Kindle 11th generation
 
@@ -199,13 +173,14 @@ Pros
 Cons 
 * Performance could be better
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Samsung Galaxy Tab A7 Lite
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049390/7443" target="_top" id="2049390">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049390" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049390/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Best Samsung small tablet
@@ -254,10 +229,7 @@ We know there are a lot of tablets and tablet sizes to choose from, but ultimate
 * **Price:** Tablets vary in price range from affordable to expensive depending on brand and purpose, so we made sure to choose tablets at various price points to accommodate different budgets.
 
 <!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/352557/5172" target="_top" id="352557">
-  <img src="//a.impactradius-go.com/display-ad/5172-352557" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352557/5172" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How we test tablets
@@ -271,13 +243,6 @@ We also compare the display's performance with what the manufacturer promised, t
 * **Camera and audio:** For cameras, we evaluate features like resolution, aperture, low-light performance, autofocus accuracy, dynamic range, color accuracy, image quality, sharpness, and video quality. For audio, we look at the sound quality and overall listening experience, including audio clarity at different volumes, stereo separation of left and right audio channels, maximum volume level in various environments, and if there is perceived distortion.
 
 For a deeper look into our testing process, check out our comprehensive [tablet testing methodology](https://www.zdnet.com/article/how-we-test-tablets-at-zdnet-in-2024/). 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## What is the smallest tablet screen size?
 
@@ -299,9 +264,17 @@ Yes, they can be. Small Android tablets allow you to do everything you would nor
 
 Their lightweight body and compact design make them perfect traveling companions. So, if you're searching for the best Android tablet with great battery life and lightweight design, the minis are an enticing choice. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What is the smallest iPad?
 
 The smallest [iPad](https://www.zdnet.com/article/best-ipad/) is the iPad Mini which has a screen size of 8.3 inches. It's also lightweight at just under one pound. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Are there alternative small tablets worth considering?
 
@@ -349,17 +322,18 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-graphicgrind-studio/"><u>[New] 2024 Approved GraphicGrind Studio</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-hot-takes-dailys-most-popular-video-tracks/"><u>[New] 2024 Approved Hot Takes Daily's Most Popular Video Tracks</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-breaking-the-mold-high-fidelity-sound-without-a-microphone-for-2024/"><u>[New] Breaking the Mold High-Fidelity Sound without a Microphone for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-find-your-perfect-match-top-8-mirrorless-cameras-for-live-streams-for-2024/"><u>[New] Find Your Perfect Match Top 8 Mirrorless Cameras For Live Streams for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-harness-the-power-of-youtube-videos-to-create-stunning-gifs-online/"><u>[Updated] 2024 Approved Harness the Power of Youtube Videos to Create Stunning Gifs Online</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-fast-lanes-for-jumbled-youtube-playlist-arrangement/"><u>[Updated] In 2024, Fast Lanes for Jumbled YouTube Playlist Arrangement</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-the-ultimate-guide-to-switch-game-screencasting-for-2024/"><u>[Updated] The Ultimate Guide to Switch Game Screencasting for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/exploring-wallpaper-image-storage-on-windows-11/"><u>Exploring Wallpaper Image Storage on Windows 11</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-new-multiple-ways-how-to-remove-icloud-activation-lock-from-your-apple-iphone-13-pro-max-by-drfone-ios/"><u>In 2024, New Multiple Ways How To Remove iCloud Activation Lock From your Apple iPhone 13 Pro Max</u></a></li>
-<li><a href="https://howto.techidaily.com/tecno-pova-5-pro-camera-not-working-unexpected-error-fix-it-now-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Tecno Pova 5 Pro Camera Not Working Unexpected Error? Fix It Now | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/transform-your-videos-into-quality-audio-tracks-quick-guide-for-mp4-to-mp3-conversion-with-free-software/"><u>Transform Your Videos Into Quality Audio Tracks – Quick Guide for MP4 to MP3 Conversion with Free Software.</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/updated-in-2024-free-download-splice-video-editor-for-macos/"><u>Updated In 2024, Free Download Splice Video Editor for macOS</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-unlock-seamless-mac-screen-captures-with-efficient-shortcuts-guide/"><u>[Updated] 2024 Approved Unlock Seamless Mac Screen Captures with Efficient Shortcuts Guide</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-uploading-and-showcasing-videos-on-instagram-made-easy/"><u>[Updated] In 2024, Uploading and Showcasing Videos on Instagram Made Easy</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-prime-win11-videography-software-for-editors/"><u>[Updated] Prime Win11 Videography Software for Editors</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-from-screen-to-editors-desk-top-movie-moments/"><u>2024 Approved From Screen to Editor's Desk Top Movie Moments</u></a></li>
+<li><a href="https://driver-error.techidaily.com/a-step-by-step-guide-to-fixing-invalid-or-unverified-driver-installs-on-computers/"><u>A Step-by-Step Guide to Fixing Invalid or Unverified Driver Installs on Computers</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/convertisseur-gratuit-pour-changer-un-fichier-m4a-en-format-m4r-sur-internet-movavi/"><u>Convertisseur Gratuit Pour Changer Un Fichier M4A en Format M4R Sur Internet - Movavi</u></a></li>
+<li><a href="https://blog-min.techidaily.com/download-audio-from-tumblr-for-free-discover-2-effortless-methods-to-capture-your-content/"><u>Download Audio From Tumblr for Free - Discover 2 Effortless Methods to Capture Your Content</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/fire-ants-invade-tech-zone-alarming-case-study-of-a-gpu-unit-destroyed-by-unwanted-guests/"><u>Fire Ants Invade Tech Zone: Alarming Case Study of a GPU Unit Destroyed by Unwanted Guests</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/free-conversion-of-3g2-files-to-flv-online-at-movavi/"><u>Free Conversion of 3G2 Files to FLV - Online at Movavi</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/gratis-online-converteer-ape-naar-wma-simpelweg-en-efficient-met-movavi/"><u>Gratis Online Converteer APE Naar WMA: Simpelweg en Efficiënt Met Movavi</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/top-7-essential-tools-for-transforming-flac-audio-into-mp3-format-on-macos/"><u>Top 7 Essential Tools for Transforming FLAC Audio Into MP3 Format on macOS</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/m4a-movavi/"><u>무료 M4A 형식 바꾸기: 온라인 사용자가 선호하는 Movavi 도구</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/m1v-avi/"><u>오피스 상대적 무료 M1V 비디오를 AVI로 전환하는 방법</u></a></li>
 </ul></div>
 

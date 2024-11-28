@@ -1,7 +1,7 @@
 ---
 title: "Upgrade Security with macOS 14.4.1: A Safer Path to Enhancing Your Mac Experience"
-date: 2024-11-18T19:26:58.505Z
-updated: 2024-11-19T21:00:17.326Z
+date: 2024-11-21T18:08:57.465Z
+updated: 2024-11-28T16:05:38.377Z
 tags:
   - apple
 categories:
@@ -38,6 +38,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Apple Intelligence
 
 Screenshot by Nina Raemont
@@ -53,10 +57,7 @@ Apple's approach to AI is markedly different from that of its competitors, howev
 This lets Apple disengage from the chaotic rat race to a degree, positioning itself as the careful, more ethical actor when it comes to AI, particularly in light of [recent debilitating security concerns](https://www.zdnet.com/article/after-brutal-critiques-microsoft-recall-will-get-these-major-privacy-and-security-changes/) from Microsoft's Recall feature, which is delaying the release of a host of its new [Copilot+ PCs](https://www.zdnet.com/article/every-copilot-pc-microsoft-just-announced-to-take-on-apples-m3-macbooks/).
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135408/19272" target="_top" id="2135408">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135408" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135408/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Continuity
@@ -83,13 +84,6 @@ During the WWDC keynote, Apple showed off Siri's new look as an ever-present AI 
 
 The new Siri also comes with on-screen awareness, allowing the AI to respond to what you're looking at on the screen without requiring the user to provide specific context with each prompt. This also allows Siri to take in-app actions in a way that wasn't possible before. In MacOS Sequoia, Siri's integration with OpenAI's LLM propels the virtual assistant to the top players in the field alongside [ChatGPT-4o](https://www.zdnet.com/article/how-to-use-chatgpt-plus-from-gpt-4o-to-interactive-tables/) and [Google's Gemini](https://www.zdnet.com/article/what-is-google-gemini/). 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037334/7443" target="_top" id="2037334">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037334" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037334/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 4\. AI-fueled productivity apps
 
 Screenshot by Nina Raemont
@@ -103,10 +97,7 @@ Apple Intelligence has been integrated across all of the big productivity apps i
 * **Notes:** Voice functionality is coming to the Notes app, with the ability to add voice memos directly embedded into your notes. AI will also support audio transcription and transcripts of audio recordings. You can record and transcribe audio, and when your recording is finished, the AI will create a summary on its own.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136625/26400" target="_top" id="2136625">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136625" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136625/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. New and improved Safari
@@ -119,6 +110,10 @@ Safari will see a host of improvements powered by AI functionality, including an
 
 Apple demoed Safari's machine learning capability to automatically detect relevant information on a webpage, including things like quick links, directions, and quick summaries with logistical information like phone numbers and addresses. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 6\. Standalone Passwords app
 
 Screenshot by Nina Raemont
@@ -130,10 +125,7 @@ Aligning with Apple's positioning of its AI features as secure and trustworthy, 
 This standalone app is an extension of the existing iCloud Keychain, and seeks to simplify password storage by employing Face ID and Touch ID alongside character-string passwords. Much of it is designed to work automatically and seamlessly in an effort to solve what is a huge UX headache that everyone has experienced at one point or another. 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137227/26400" target="_top" id="2137227">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137227" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137227/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 7\. Gaming
@@ -170,24 +162,18 @@ Apple wants to create a "unified gaming platform" across the iPhone, iPad, and M
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-figures-unveiled-exploring-youtubes-curious-numbers-2017/"><u>[New] 2024 Approved Figures Unveiled! Exploring YouTube's Curious Numbers (2017)</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-follow-the-flow-of-forum-fancies/"><u>[New] 2024 Approved Follow the Flow of Forum Fancies</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-how-to-use-youtube-cards-and-annotations-in-2024/"><u>[New] How to Use YouTube Cards and Annotations, In 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-couch-to-chart-topper-skyrocketing-your-channels-views/"><u>[New] In 2024, From Couch to Chart-Topper Skyrocketing Your Channel's Views</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-full-scope-understanding-online-performance-artists/"><u>[New] In 2024, Full Scope Understanding Online Performance Artists</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/new-in-2024-seamlessly-navigating-ifunnys-meme-space/"><u>[New] In 2024, Seamlessly Navigating iFunny's Meme Space</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-turning-gaming-moments-into-legacy-proven-methods-for-documenting-your-sims-journey-in-sims-4/"><u>[New] Turning Gaming Moments Into Legacy Proven Methods for Documenting Your Sims' Journey in Sims 4</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-hidden-gems-to-hit-videos-strategies-for-success/"><u>[Updated] 2024 Approved From Hidden Gems to Hit Videos Strategies for Success</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-humble-beginnings-surging-subscribers-and-views-in-youtube-world/"><u>[Updated] 2024 Approved From Humble Beginnings Surging Subscribers & Views in Youtube World</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-harness-youtubes-power-25-steps-to-prominence-and-recognition/"><u>[Updated] 2024 Approved Harness YouTube's Power 25 Steps to Prominence and Recognition</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-capturing-snapchat-on-screen-a-step-by-step-guide/"><u>[Updated] In 2024, Capturing Snapchat on Screen A Step-by-Step Guide</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-videos-to-vibrant-gifs-youtube-conversion-techniques/"><u>[Updated] In 2024, From Videos to Vibrant GIFs YouTube Conversion Techniques</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/city-builders-delight-expert-analysis-on-cities-skylines/"><u>City Builder's Delight: Expert Analysis on 'Cities: Skylines'</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/how-to-restore-online-functionality-for-an-offline-alexa/"><u>How To Restore Online Functionality for an Offline Alexa</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-on-vivo-y100i-power-5g-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock on Vivo Y100i Power 5G Devices</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/in-2024-unveiling-ace-video-capturers-guide/"><u>In 2024, Unveiling Ace Video Capturers Guide</u></a></li>
-<li><a href="https://win11.techidaily.com/pivotal-points-for-a-fresh-windows-installation-experience/"><u>Pivotal Points for a Fresh Windows Installation Experience</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/unlocking-better-health-9-tips-to-leverage-chatgpt-effectively/"><u>Unlocking Better Health: 9 Tips to Leverage ChatGPT Effectively</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/updated-top-10-face-blurring-tools-for-photos-and-videos-free-and-easy-to-use/"><u>Updated Top 10 Face Blurring Tools for Photos and Videos (Free & Easy to Use)</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-best-10-mininano-drones-in-the-market/"><u>[New] Best 10 Mini/Nano Drones in the Market</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/comprehensive-guide-on-using-winx-mediatrans-seamlessly-converting-and-shifting-your-audio-video-and-image-files/"><u>Comprehensive Guide on Using WinX MediaTrans: Seamlessly Converting and Shifting Your Audio, Video & Image Files</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fix-your-locked-out-windows-11-account-pin-missing/"><u>Fix Your Locked Out Windows 11 Account - PIN Missing</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/hollenhorst-plaques-and-drusen-are-deposits-found-within-the-eye-but-while-the-former-is-related-to-cholesterol-emboli-from-vascular-issues-like-carotid-art160/"><u>Hollenhorst Plaques and Drusen Are Deposits Found Within the Eye, but While the Former Is Related to Cholesterol Emboli From Vascular Issues Like Carotid Artery Stenosis, Drusen Do Not Have a Direct Systemic Association and Can Be Age-Related Changes.</u></a></li>
+<li><a href="https://win-web3.techidaily.com/how-to-fix-hulus-pts2n07-error-message-a-comprehensive-guide/"><u>How to Fix Hulu's PTS2n07 Error Message: A Comprehensive Guide</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-tecno-camon-30-pro-5g-to-iphone-xs11-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Tecno Camon 30 Pro 5G to iPhone XS/11 | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-forgotten-the-voicemail-password-of-poco-m6-pro-4g-try-these-fixes-by-drfone-android/"><u>In 2024, Forgotten The Voicemail Password Of Poco M6 Pro 4G? Try These Fixes</u></a></li>
+<li><a href="https://techtrends.techidaily.com/1722873272936-navigating-your-way-through-the-best-gaming-pc-options-important-factors-you-shouldnt-ignore/"><u>Navigating Your Way Through the Best Gaming PC Options: Important Factors You Shouldn't Ignore</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/quick-and-easy-steps-convert-mkv-files-to-avi-format-using-vlc-player-no-marks-attached/"><u>Quick and Easy Steps: Convert MKV Files to AVI Format Using VLC Player - No Marks Attached</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/shortening-or-extending-video-lengths-mastering-the-art-of-editing-on-snapchat/"><u>Shortening or Extending Video Lengths: Mastering the Art of Editing on Snapchat</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/95807699-9781616406332-the-outer-limits-of-edgar-cayces-power/"><u>The Outer Limits of Edgar Cayce's Power | Free Book</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/universal-unlock-pattern-for-gionee-by-drfone-android/"><u>Universal Unlock Pattern for Gionee</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/winxvideo-ai5/"><u>Winxvideo AIを活用した有名な動画配信プラットフォームベスト5</u></a></li>
 </ul></div>
 

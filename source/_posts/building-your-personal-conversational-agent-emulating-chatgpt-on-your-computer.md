@@ -1,7 +1,7 @@
 ---
 title: "Building Your Personal Conversational Agent: Emulating ChatGPT on Your Computer"
-date: 2024-08-30T16:50:58.659Z
-updated: 2024-08-31T16:50:58.659Z
+date: 2024-11-21T18:24:42.568Z
+updated: 2024-11-28T18:31:42.167Z
 tags:
   - cutting-edge
 categories:
@@ -11,6 +11,10 @@ thumbnail: https://thmb.techidaily.com/033e16fe59890bceeadfe993413908bd7b5cc9fe4
 
 ## Building Your Personal Conversational Agent: Emulating ChatGPT on Your Computer
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Quick Links
 
 * [What Is Alpaca?](https://fake-location.techidaily.com/which-is-the-best-fake-gps-joystick-app-on-apple-iphone-6s-drfone-by-drfone-virtual-ios/)
@@ -18,6 +22,10 @@ thumbnail: https://thmb.techidaily.com/033e16fe59890bceeadfe993413908bd7b5cc9fe4
 * [What Do You Need to Run Alpaca?](https://vp-tips.techidaily.com/full-disclosure-unveiling-all-about-google-podcasts-app/)
 * [How to Run Alpaca Locally on Your PC](https://facebook-video-content.techidaily.com/new-2024-approved-2023s-top-no-cost-fb-photo-and-video-crafting/)
 * [Use Serge and Alpaca](https://android-pokemon-go.techidaily.com/in-2024-all-you-need-to-know-about-mega-greninja-for-tecno-spark-10-4g-drfone-by-drfone-virtual-android/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -46,8 +54,9 @@ thumbnail: https://thmb.techidaily.com/033e16fe59890bceeadfe993413908bd7b5cc9fe4
  The 13B and 30B models are quite another story. 13B is capable of providing a coherent, human-like conversation, and can answer complex questions. 30B is even more impressive, if you've got the hardware to run it, and is within striking distance of ChatGPT. It'll wax on philosophically or make a joke without missing a beat if prompted.
 
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  What Do You Need to Run Alpaca?
 
  Alpaca has pretty flexible system requirements. These guidelines are above the bare minimum but are good guidelines. We're also going to be installing this on Windows. If you're installing this on a system running Linux or macOS, just skip the Windows Subsystem for Linux section --- it isn't relevant to you.
@@ -68,17 +77,10 @@ thumbnail: https://thmb.techidaily.com/033e16fe59890bceeadfe993413908bd7b5cc9fe4
 
  There is currently no reason to suspect this particular project has any major security faults or is malicious. We've been through the code and run the software ourselves and found nothing concerning. That does not mean it is or will remain safe. Always be cautious with things you find on internet and reevaluate the safety periodically.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
-LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
 ##  How to Run Alpaca Locally on Your PC
 
  It is important that you follow these steps in the order they're given. Docker will probably break if you don't, requiring a complete reinstall of both WSL2 and Docker.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ###  Install Windows Subsystem for Linux 2
 
  Microsoft's [Windows Subsystem for Linux 2 (WSL2)](https://howto.techidaily.com/fixes-for-apps-keep-crashing-on-honor-magic-5-lite-drfone-by-drfone-fix-android-problems-fix-android-problems/) allows you to run Linux software in Windows. It has a low overhead and is really handy in a lot of cases. Docker for Windows relies on WSL2, so we need to install WSL2 first.
@@ -93,9 +95,6 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
 
 ![Installing WSL2.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/03/2023-03-24_02h23_47.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
-<!-- affiliate ads end -->
  Once the restart has been performed, reopen PowerShell (not necessarily as admin) and run:
 
         `wsl -l -v `
@@ -117,8 +116,9 @@ Related: [How to Run ChatGPT Using ShellGPT From the Ubuntu Terminal](https://vi
 ![Install Docker Desktop from the Docker website.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/03/2023-03-24_13h44_36.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Run the installer and be prepared to wait a few minutes. Docker will take a while and set up a bunch of stuff behind the scenes. Once it is done, you'll want to restart your PC.
 
  After restarting, open PowerShell and run 
@@ -137,6 +137,10 @@ Related: [How to Run ChatGPT Using ShellGPT From the Ubuntu Terminal](https://vi
 
 ![Make sure to select the option that adds Git to your system PATH.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/09/pic-3.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Once Git is done installing, you're ready to install Serge and Alpaca.
 
 ###  Install Serge and Alpaca
@@ -149,9 +153,6 @@ Related: [How to Run ChatGPT Using ShellGPT From the Ubuntu Terminal](https://vi
 
 ![Download Serge from Github.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/03/Downloading-from-GitHub.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
-<!-- affiliate ads end -->
  The next command you need to run is:
 
         `cp .env.sample .env`
@@ -184,23 +185,15 @@ Related: [How to Run ChatGPT Using ShellGPT From the Ubuntu Terminal](https://vi
 
 ![Downloading the 7B language model.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/03/downloading-the-model.png) 
 
-<!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="1080" height="1620" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Use Serge and Alpaca
 
  Docker and all of the required containers are currently running if you've followed these instructions, however, you'll have to turn them back on if you restart your computer. To do that, just open up Docker Desktop and click the small triangular buttons. The icons to the left of the "Name" column turn green when the containers are running.
 
 ![The Serge containers displayed in Docker, currently offline. Click the arrow button to run them.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/03/Run-Docker-Containers.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Everything is installed and ready to go at this point. Just open up your browser and enter "[localhost](https://iphone-unlock.techidaily.com/how-do-you-unlock-your-apple-iphone-14-pro-learn-all-4-methods-drfone-by-drfone-ios/):8008" into the address bar, just like you would to visit Facebook or any other website.
 
@@ -211,12 +204,9 @@ Related: [How to Run ChatGPT Using ShellGPT From the Ubuntu Terminal](https://vi
 ![The Serge Web Interface.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/03/The-main-screen.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Monthly Membership</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  There are a fair number of settings available, but there are five that you'll really want to pay attention to:
 
 * **Temperature** \- Determines how freely the AI answers. Lower numbers result in more rigid answers, while higher numbers are more creative.
@@ -230,16 +220,13 @@ No advertising on the website.
 ![Important Serge Settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/03/our-custom-spin.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Here is a sample of how the conversation went.
 
 ![An example conversation.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/03/pirate.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
- PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
-<!-- affiliate ads end -->
  You can talk about anything you'd like with Alpaca, and you don't have to worry about what is happening to your data. It remains on your device, under your control at all times.
 
  Remember, ChatGPT, Alpaca, and other chatbots seem reliable, but they aren't at this point in time. They very much embody the sentiment: "If you can't dazzle them with brilliance, baffle them with BS." Their tendency to make things up has been dubbed "hallucinating." Do not rely on them for anything essential, especially not something critical to your job or health. They should only be used for entertainment or experimental purposes at this time.
@@ -252,8 +239,6 @@ No advertising on the website.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -261,4 +246,19 @@ No advertising on the website.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win-guides.techidaily.com/r2-ke-perangkat-baru-tiga-jenis-langkah-menarik/"><u>: R2 Ke Perangkat Baru Tiga Jenis Langkah Menarik</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-guide-to-profiting-from-youtube-shorts-key-requirements-and-potential-income/"><u>[New] 2024 Approved Guide to Profiting From YouTube Shorts Key Requirements & Potential Income</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-transform-your-ideas-into-videos-with-the-power-of-movie-maker-windows-11-edition/"><u>[New] Transform Your Ideas Into Videos with the Power of Movie Maker, Windows 11 Edition</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-free-software-less-method-to-save-youtube-videos/"><u>[Updated] 2024 Approved Free Software-Less Method to Save YouTube Videos</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-gastronomy-gurus-the-elite-of-food-vlogs/"><u>[Updated] 2024 Approved Gastronomy Gurus The Elite of Food Vlogs</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-unveiling-the-secrets-of-dark-sky-photography/"><u>[Updated] 2024 Approved Unveiling the Secrets of Dark Sky Photography</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-efficiently-shortening-youtube-content-for-2024/"><u>[Updated] Efficiently Shortening YouTube Content for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-highest-quality-live-tv-and-community-broadcasting-guide-2esecurity-for-2024/"><u>[Updated] Highest-Quality Live TV & Community Broadcasting Guide, 2Esecurity for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatgpt-in-career-planning-unveiling-top-strategies/"><u>ChatGPT in Career Planning: Unveiling Top Strategies</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/cost-effective-apeman-c450-dash-cam-analysis-a-smart-choice-for-economical-shoppers/"><u>Cost-Effective Apeman C450 Dash Cam Analysis: A Smart Choice for Economical Shoppers</u></a></li>
+<li><a href="https://os-tips.techidaily.com/unraveling-the-complexities-insights-into-apples-new-usb-c-pencil-design/"><u>Unraveling the Complexities: Insights Into Apple's New USB-C Pencil Design</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/unveiling-issues-with-microsofts-duo-a-troublesome-costly-mobile-device-reviewed/"><u>Unveiling Issues with Microsoft's Duo: A Troublesome, Costly Mobile Device Reviewed</u></a></li>
+</ul></div>
 

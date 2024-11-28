@@ -1,7 +1,7 @@
 ---
 title: Why Does My Windows Desktop/Laptop Keep Crashing Unexpectedly? Discover Top 8 Possible Reasons
-date: 2024-08-30T16:50:32.238Z
-updated: 2024-08-31T16:50:32.238Z
+date: 2024-11-23T16:53:56.947Z
+updated: 2024-11-28T18:38:01.822Z
 tags:
   - deals
 categories:
@@ -30,24 +30,23 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  Is your Windows laptop or PC shutting down unexpectedly? Issues such as a faulty laptop battery, a loose power cable, overheating, misconfigured power settings, outdated drivers, or faulty PC components could be to blame. If you're frustrated by this problem, try these solutions.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Using a PC? Perform Some Preliminary Checks
 
  Unlike a laptop, which draws power from its battery, a PC relies on a steady connection to an external power supply to remain on. If the power cable is loosely connected to the computer or the socket, even a slight disturbance can disrupt the power flow, leading to shutdowns. Therefore, check that the power cable is securely plugged in at both ends. 
 
  Also, inspect the power cable for any signs of damage, and plug the power cable into a different socket to eliminate potential socket-related issues. If you use a UPS to manage power outages, ensure it's not faulty and supplies stable power. Also, if you're [overclocking your CPU](https://facebook-video-content.techidaily.com/the-role-and-significance-of-blue-icons-in-fb-chats/), turn off overclocking, as it could lead to similar issues.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
-
- It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
-
-  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
-
-  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
-<!-- affiliate ads end -->
 ##  Check for Issues With Your Battery
 
 ![Person holding a removable laptop battery](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/05/52924050697_319a9e0730_o.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Jordan Gloor / How-To Geek
 
@@ -56,8 +55,9 @@ Jordan Gloor / How-To Geek
  However, if you face the same problem even when the laptop is powered directly, the battery is not to blame. Try some of the remaining fixes instead. 
 
 <!-- affiliate ads begin -->
-<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Ensure Your Device Isn't Being Overheated
 
  If your computer shuts down only when it's overheated, heat is likely the problem. This happens because computers have a protection mechanism that kicks in to prevent damage to hardware components. To confirm that overheating is the issue, run less intensive tasks that don't cause overheating. If your computer is fine running tasks that don't use many resources, but it crashes running intensive applications (like photo or video editing software, games, and so on), heat could be your problem. You can [see which program is using up system resources](https://video-screen-grab.techidaily.com/in-2024-from-spoken-word-to-memo-iphone-audio-guidance/) in the Task Manager. 
@@ -72,14 +72,8 @@ Jordan Gloor / How-To Geek
 
 ![Disabling Fast Startup in Control Panel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/disabling-fast-startup-control-panel.jpeg) 
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
-<!-- affiliate ads end -->
  If turning off this feature doesn't resolve the issue, re-enable it and try the remaining troubleshooting steps.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
-<!-- affiliate ads end -->
 ##  Ensure the Power Supply Unit (PSU) Isn't the Culprit
 
  If your PSU isn't powerful enough to meet the demands of your system components, it could also cause random shutdowns. To check this, [calculate the wattage draw of your computer](https://android-frp.techidaily.com/in-2024-ultimate-guide-on-oppo-a2-frp-bypass-by-drfone-android/)based on the specifications of installed components. If this required wattage is less than your PSU's wattage, you're fine. However, if it exceeds your PSU's capacity, you need to [upgrade your PSU](https://extra-guidance.techidaily.com/in-2024-navigating-srt-in-windows-macos-environments/).
@@ -103,8 +97,9 @@ Jordan Gloor / How-To Geek
 ![Windows 11 Update Drivers window highlighting 'Browse my computer for drivers' option.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/windows-11-update-drivers-window-1.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Make sure you update drivers for the GPU, battery, disk drives, processor, USB controllers, and other software components, even if there are no warning signs next to them.
 
  You may also be able to [find an error message in Event Viewer](https://remote-screen-capture.techidaily.com/in-2024-unlocking-the-potential-of-screenshotting-your-android-device/) that will narrow down which driver (or device) is the problem. 
@@ -117,27 +112,14 @@ Jordan Gloor / How-To Geek
 
 ![Windows 11 Edit Plan Settings window highlighting 'Change advanced power settings' option.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/windows-11-control-panel-edit-plan-settngs-window.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Navigate to Battery > Low Battery Action and select "Do Nothing" if "Shutdown" or "Hibernate" is currently selected there. Then, click "Apply" and hit "OK."
 
 ![Changing the low battery action in power settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/changing-the-low-battery-action-in-power-settings.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
-VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
-
-Key features:
-
-•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
-•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
-•	Visual effects, advanced color correction and trendy Instagram-like filters   
-•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
-•	Non-linear editing: edit several files with simultaneously 
-•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
-•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
-•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
-•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
-</a>
-<!-- affiliate ads end -->
 ---
 
  If your computer was experiencing random shutdowns due to one of the causes discussed earlier, you should have addressed the issue by now. If the problem persists despite trying the suggested fixes or unsure about performing the steps mentioned, you can seek assistance from a professional to resolve the issue.
@@ -148,8 +130,6 @@ Key features:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -157,4 +137,24 @@ Key features:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-boosting-engagement-with-effective-youtube-banners-and-thumbnails/"><u>[New] 2024 Approved Boosting Engagement with Effective YouTube Banners & Thumbnails</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/024-approved-decoding-youtubes-best-video-editing-practices/"><u>[New] 2024 Approved Decoding YouTube's Best Video Editing Practices</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-concealed-visibility-mastering-visual-obscurity-in-videos/"><u>[New] In 2024, Concealed Visibility Mastering Visual Obscurity in Videos</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-crafting-a-youtube-future-scaling-up-or-staying-independent/"><u>[New] In 2024, Crafting a YouTube Future Scaling Up or Staying Independent?</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-funny-faces-crafting-7-cheeky-youtube-comedy-videos/"><u>[New] In 2024, Funny Faces Crafting 7 Cheeky YouTube Comedy Videos</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-dissecting-youtubes-user-commentary-for-2024/"><u>[Updated] Dissecting YouTubes' User Commentary for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-in-depth-guide-to-video-money-making-across-platforms/"><u>[Updated] In 2024, In-Depth Guide to Video Money-Making Across Platforms</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-selecting-the-top-8-linux-screenshots-tools/"><u>[Updated] In 2024, Selecting the Top 8 Linux Screenshots Tools</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-the-pinnacle-selector-your-personal-video-vault/"><u>[Updated] The Pinnacle Selector Your Personal Video Vault</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/7-fixes-to-no-gps-showing-approximate-location-on-apple-iphone-12-mini-waze-drfone-by-drfone-virtual-ios/"><u>7 Fixes to No GPS - Showing Approximate Location on Apple iPhone 12 mini Waze | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/conquer-the-social-scene-top-tools-for-post-and-follower-boost/"><u>Conquer the Social Scene Top Tools for Post and Follower Boost</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/in-2024-effective-use-of-snap-camera-for-team-collaboration/"><u>In 2024, Effective Use of Snap Camera for Team Collaboration</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-will-pokemon-go-ban-the-account-if-you-use-pgsharp-on-infinix-note-30-drfone-by-drfone-virtual-android/"><u>In 2024, Will Pokémon Go Ban the Account if You Use PGSharp On Infinix Note 30 | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/massive-700-discount-on-the-newest-2022-ipad-pro-exclusive-labor-day-sale-alert-zdnet/"><u>Massive $700 Discount on the Newest 2022 iPad Pro - Exclusive Labor Day Sale Alert | ZDNet</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/piecing-together-attention-grabbing-channel-snippets-for-2024/"><u>Piecing Together Attention-Grabbing Channel Snippets for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/unseen-yet-seen-how-to-conceal-faces-and-objects-digitally-for-2024/"><u>Unseen Yet Seen How to Conceal Faces and Objects Digitally for 2024</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-elevate-your-video-experience-best-quality-enhancement-software-for-2024/"><u>Updated Elevate Your Video Experience Best Quality Enhancement Software for 2024</u></a></li>
+</ul></div>
 

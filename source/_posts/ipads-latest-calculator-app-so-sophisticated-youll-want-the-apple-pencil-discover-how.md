@@ -1,7 +1,7 @@
 ---
 title: "IPad's Latest Calculator App: So Sophisticated, You'll Want the Apple Pencil – Discover How"
-date: 2024-11-16T21:39:35.200Z
-updated: 2024-11-19T18:34:49.570Z
+date: 2024-11-27T16:01:11.665Z
+updated: 2024-11-28T17:08:33.671Z
 tags:
   - apple
 categories:
@@ -22,6 +22,10 @@ Adrian Kingsley-Hughes/ZDNET
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### ZDNET's key takeaways
 
 * ESR 3-in-1 Qi2 wireless travel charger is available from [Amazon for $55](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FESR-Charging-Station-Certified-Multiple%2Fdp%2FB0CW2J9XB8%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cd405c3b3-9fde-429f-ae82-f128bd45456e%7Cdtp&dtb=1).
@@ -39,10 +43,7 @@ What I really need is a dedicated travel kit for charging my gadgets, which incl
 [ZDNET RECOMMENDS ESR 3-in-1 Qi2 wireless travel charger This set is built for the road, and the foldable, compact design and included travel bag means it easily slips into a backpack or suitcase. View at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FESR-Charging-Station-Certified-Multiple%2Fdp%2FB0CW2J9XB8%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cd405c3b3-9fde-429f-ae82-f128bd45456e%7Cdtp&dtb=1)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915870/19272" target="_top" id="1915870">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915870" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915870/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ESR 3-in-1 wireless travel charger features
@@ -81,10 +82,7 @@ In fact, it's the perfect kit for someone who is all-in with Apple gear.
 I've carried out all my usual tests on this charger, including safety tests and thermal checks, and it passed all of them with flying colors, which I would expect from a company such as ESR, which has a track record for making excellent charging tools.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139119/17108" target="_top" id="2139119">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139119" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139119/17108" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -123,16 +121,20 @@ One of the standout features is the carry case, which has designated spots for e
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/updated-from-fandom-to-fame-gamers-livestream-success-strategies-for-2024/"><u>[Updated] From Fandom to Fame Gamers' Livestream Success Strategies for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-get-free-green-screen-effects-from-4-youtube-channels-for-2024/"><u>[Updated] Get Free Green Screen Effects From 4 YouTube Channels for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-transcribe-a-youtube-video-for-free-for-2024/"><u>[Updated] How to Transcribe a YouTube Video for FREE for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-google-meet-live-streaming-for-beginners-stepwise-guide-to-youtube/"><u>[Updated] In 2024, Google Meet Live-Streaming for Beginners Stepwise Guide to YouTube</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-the-preeminent-visionaries-of-av-artistry-online/"><u>[Updated] The Preeminent Visionaries of AV Artistry Online</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-unpacking-facebooks-freshest-features-in-top-vids-for-2024/"><u>[Updated] Unpacking Facebook's Freshest Features in Top Vids for 2024</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/2024-approved-eliminate-storage-woes-exclusive-list-of-20-best-1tbplus-free-clouds/"><u>2024 Approved Eliminate Storage Woes Exclusive List of 20 Best 1TB+ Free Clouds</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/concealed-navigation-tips-for-chrome-edge-firefox-safari-and-opera-users-desiring-enhanced-privacy/"><u>Concealed Navigation Tips for Chrome, Edge, Firefox, Safari & Opera Users Desiring Enhanced Privacy</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-reset-gmail-password-on-asus-rog-phone-7-ultimate-devices-by-drfone-android/"><u>How to Reset Gmail Password on Asus ROG Phone 7 Ultimate Devices</u></a></li>
-<li><a href="https://extra-information.techidaily.com/immersive-illusions-how-vr-transforms-media-consumption/"><u>Immersive Illusions How VR Transforms Media Consumption</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-battle-of-video-players-vlc-vs-mx/"><u>In 2024, The Battle of Video Players VLC Vs. MX</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-2024-approved-transform-your-footage-with-the-ideal-dimension-proportion/"><u>[New] 2024 Approved Transform Your Footage with the Ideal Dimension Proportion</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-streamlined-methods-for-saving-videos-on-desktops-tablets-and-phones/"><u>[Updated] 2024 Approved Streamlined Methods for Saving Videos on Desktops, Tablets & Phones</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-mastering-the-art-of-play-navigating-switch-pro-and-steam-games-for-2024/"><u>[Updated] Mastering the Art of Play Navigating Switch Pro and Steam Games for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-seeking-the-best-ps2-games-try-these-5-android-emulators-for-2024/"><u>[Updated] Seeking the Best PS2 Games? Try These 5 Android Emulators for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/1-solve-silent-playback-restoring-audio-in-reddit-app-for-feeds-gifs-and-video-content/"><u>1. Solve Silent Playback: Restoring Audio in Reddit App for Feeds, GIFs, and Video Content</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-changing-video-pace-on-your-instagram-feed/"><u>2024 Approved Changing Video Pace on Your Instagram Feed</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/dvd-windows-10-t17252908042183/"><u>免費DVD上色軟件 高效便利 - Windows 10版本特別釋出,點選報名直接獎賞!</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/best-free-dvd-playback-programs-compatible-with-windows-1111-a-comprehensive-list/"><u>Best Free DVD Playback Programs Compatible with Windows 11/11: A Comprehensive List</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/fuhren-sie-ihre-dvds-nahtlos-in-live-streams-uber-nas-um-erleben-sie-qualitat-bei-synologyqnap/"><u>Führen Sie Ihre DVDs Nahtlos in Live-Streams Über NAS Um, Erleben Sie Qualität Bei Synology/QNAP</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/guida-facile-alla-conversione-di-dvd-in-formato-mp4-senza-costi-compatibile-con-windows-e-macos/"><u>Guida Facile Alla Conversione Di DVD in Formato MP4 Senza Costi, Compatibile Con Windows E macOS</u></a></li>
+<li><a href="https://change-location.techidaily.com/home-button-not-working-on-oneplus-nord-ce-3-5g-here-are-real-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Home Button Not Working on OnePlus Nord CE 3 5G? Here Are Real Fixes | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-detailed-guide-of-ispoofer-for-pogo-installation-on-realme-11-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Detailed guide of ispoofer for pogo installation On Realme 11 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-open-gallery-timeless-visuals-no-rights-to-claim/"><u>In 2024, Open Gallery Timeless Visuals No Rights to Claim</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-unlock-iphone-photography-top-angles-for-stunning-images/"><u>In 2024, Unlock iPhone Photography Top Angles for Stunning Images</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/optional-a-ruler-or-measuring-device-for-analyzing-fringe-spacing/"><u>Optional: A Ruler or Measuring Device for Analyzing Fringe Spacing</u></a></li>
 </ul></div>
 

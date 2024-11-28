@@ -1,7 +1,7 @@
 ---
 title: "Protecting AI User Information in the Cloud: How Apple's Security Protocols Are Advancing Data Safety (Key Discussion)"
-date: 2024-11-17T18:29:50.346Z
-updated: 2024-11-19T18:25:29.007Z
+date: 2024-11-27T16:31:48.998Z
+updated: 2024-11-28T17:11:28.321Z
 tags:
   - apple
 categories:
@@ -48,6 +48,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## A trained charm offensive
 
 But before I could bathe in that oddness, a charming saleswoman wandered over and asked if she could help.
@@ -79,10 +83,7 @@ She began to play a demonstration video that, dare I confess, is quite moving.
 The fact that someone else can see (a digital version of) your eyes is a touchingly humane feature, even if imperfect. But the simple gesturing and the apparent power of that gesturing is, even on video, quite something.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139123/17108" target="_top" id="2139123">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139123" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139123/17108" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Suddenly, it's all business
@@ -124,10 +125,7 @@ I asked if she thought this would become the new way of living, where people wan
 (Well, not quite all the apps. Netflix and YouTube [aren't there](https://www.zdnet.com/article/what-apps-will-be-on-apple-vision-pro-not-these-two-major-ones/).)
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1006793/11832" target="_top" id="1006793">
-  <img src="//a.impactradius-go.com/display-ad/11832-1006793" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1006793/11832" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Was I sold? Not quite yet
@@ -193,22 +191,21 @@ I asked the female store employee whether she'd be able to try one on before the
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-3-steps-for-perfect-instagram-video-margins/"><u>[New] 2024 Approved 3 Steps for Perfect Instagram Video Margins</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-effortless-methods-amp-up-your-yt-video-quality-for-2024/"><u>[New] Effortless Methods Amp Up Your YT Video Quality for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-essential-steps-for-starting-a-youtube-channel/"><u>[New] In 2024, Essential Steps for Starting a YouTube Channel</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-flixfusion-the-ultimate-gaming-channel-mix/"><u>[New] In 2024, FlixFusion The Ultimate Gaming Channel Mix</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-future-earning-potential-in-gaming-videos/"><u>[New] In 2024, Future Earning Potential in Gaming Videos</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-swift-systems-for-rearranging-youtube-video-lineup/"><u>[New] Swift Systems for Rearranging YouTube Video Lineup</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-craft-your-online-identity-with-customized-youtube-urls/"><u>[Updated] 2024 Approved Craft Your Online Identity with Customized YouTube URLs</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-edu-odyssey-journey-through-top-learning-sites/"><u>[Updated] 2024 Approved Edu-Odyssey Journey Through Top Learning Sites</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-creating-on-the-side-balancing-employment-with-youtube-for-2024/"><u>[Updated] Creating on the Side Balancing Employment with YouTube for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-elevate-your-content-game-with-these-powerful-youtube-shortcuts-for-2024/"><u>[Updated] Elevate Your Content Game with These Powerful YouTube Shortcuts for 2024</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-free-video-conferencing-excellence-plus-screen-sharing-guide/"><u>[Updated] Free Video Conferencing Excellence + Screen Sharing Guide</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/approved-ultimate-profit-prodigy-in-the-digital-age/"><u>2024 Approved Ultimate Profit Prodigy in the Digital Age</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-can-samsung-galaxy-xcover-6-pro-tactical-editionmirror-share-to-pc-drfone-by-drfone-android/"><u>How Can Samsung Galaxy XCover 6 Pro Tactical EditionMirror Share to PC? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-soft-reset-meizu-21-pro-phone-drfone-by-drfone-reset-android-reset-android/"><u>How to Soft Reset Meizu 21 Pro phone? | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-use-allshare-cast-to-turn-on-screen-mirroring-on-xiaomi-mix-fold-3-drfone-by-drfone-android/"><u>How To Use Allshare Cast To Turn On Screen Mirroring On Xiaomi Mix Fold 3 | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/the-seasonal-timing-that-should-coincide-with-local-climatic-patterns-including-monsoon-and-dry-seasons/"><u>The Seasonal Timing that Should Coincide with Local Climatic Patterns, Including Monsoon and Dry Seasons.</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-tech-expert-insights-on-computer-hardware/"><u>Tom's Tech: Expert Insights on Computer Hardware</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-the-ultimate-guide-to-selecting-5-online-title-makers-for-2024/"><u>[New] The Ultimate Guide to Selecting 5 Online Title Makers for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/outube-channel-art-make-banners-icons-and-thumbnails/"><u>[New] YouTube Channel Art - Make Banners, Icons, and Thumbnails</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-premium-5-conferencing-recording-equipment-guide-for-2024/"><u>[Updated] Premium 5 Conferencing Recording Equipment Guide for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-tricks-to-acquire-dry-stock-photography/"><u>[Updated] Tricks to Acquire Dry Stock Photography</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/conversion-gratuite-des-fichiers-avi-avec-la-meilleure-solution-de-conversion-video-movavi/"><u>Conversion Gratuite Des Fichiers AVI Avec La Meilleure Solution De Conversion Vidéo: Movavi</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-resolve-icue-undetected-hardware-problems-successfully/"><u>How to Resolve ICUE Undetected Hardware Problems Successfully</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-your-iphone-xs-max-passcode-4-easy-methods-with-or-without-itunes-drfone-by-drfone-ios/"><u>In 2024, How to Unlock Your iPhone XS Max Passcode 4 Easy Methods (With or Without iTunes) | Dr.fone</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/movavis-complimentary-video-converter-turn-your-voc-videos-into-high-quality-avi/"><u>Movavi's Complimentary Video Converter - Turn Your VOC Videos Into High-Quality AVI</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/movaviflac/"><u>Movaviの無料オンライン音楽ファイルをFLACに簡単変換する方法</u></a></li>
+<li><a href="https://games-able.techidaily.com/rediscover-nature-with-these-top-ar-titles/"><u>Rediscover Nature with These Top AR Titles</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/samsungs-latest-innovation-unveiled-all-about-the-galaxy-z-fold-6-when-to-buy-and-what-it-can-do/"><u>Samsung's Latest Innovation Unveiled: All About the Galaxy Z Fold 6 – When to Buy and What It Can Do</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/sucasny-prekonanie-videokonvertovanie-do-formatu-mp3-behem-a-prstoustopnymi-zrucnostmi/"><u>Súčasný Prekonanie Vídeokonvertovanie Do Formátu MP3 Behém a Prstoustopnými Zručnosťmi</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-art-of-captivating-your-online-audience/"><u>The Art of Captivating Your Online Audience</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/top-14-fabricantes-de-gifs-ultimo-programa-de-edicion-para-crear-animaciones-perfectas/"><u>Top 14 Fabricantes De GIFs: Último Programa De Edición Para Crear Animaciones Perfectas</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/transformez-votre-fichier-wav-en-video-mp4-facilement-et-sans-frais-avec-movavi/"><u>Transformez Votre Fichier WAV en Vidéo MP4 Facilement Et Sans Frais - Avec Movavi</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/trasforma-i-file-mp2-in-wav-liberamente-su-internet-con-convertitore-di-movavi/"><u>Trasforma I File MP2 in WAV Liberamente Su Internet Con Convertitore Di Movavi</u></a></li>
 </ul></div>
 

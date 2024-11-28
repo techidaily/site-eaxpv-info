@@ -1,7 +1,7 @@
 ---
 title: "Exploring the Future of the Internet: Understanding Web3"
-date: 2024-08-30T16:51:56.933Z
-updated: 2024-08-31T16:51:56.933Z
+date: 2024-11-21T17:02:21.569Z
+updated: 2024-11-28T18:32:16.826Z
 tags:
   - cutting-edge
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://thmb.techidaily.com/f71c5ff43307f6d2d17eee62ee317d6c80fb14beb
 ---
 
 ## Exploring the Future of the Internet: Understanding Web3
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -30,8 +34,9 @@ thumbnail: https://thmb.techidaily.com/f71c5ff43307f6d2d17eee62ee317d6c80fb14beb
  To understand a little better where the internet is headed, though, we need to first look at where it came from.
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Web 1.0 and Web 2.0
 
  Web 1.0 was the first publicly available web---we'll leave forerunners like [ARPANET](https://phone-solutions.techidaily.com/in-2024-life360-learn-how-everything-works-on-samsung-galaxy-xcover-6-pro-tactical-edition-drfone-by-drfone-virtual-android/) out of consideration---and was very basic in many ways. In this period, the internet was mostly just a collection of read-only pages, without any real interactivity. Also, the vast majority of sites were operated by individuals or small companies. Internet giants didn't exist yet---not really, anyway.
@@ -41,15 +46,17 @@ thumbnail: https://thmb.techidaily.com/f71c5ff43307f6d2d17eee62ee317d6c80fb14beb
  In fact, plenty of businesses, like Facebook and Google, operate purely as websites. That would have been unthinkable before 2004.
 
 <!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Web 2.0 vs. Web 3.0
 
  What sets Web 3.0 apart from its ancestors is that it's decentralized, more or less like Web 1.0 was, but is interactive like Web 2.0 is. It's a web 2.0 where Big Tech has a lot less control---or maybe has been gotten rid of altogether. How that's supposed to work gets pretty complicated.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  How Web3 Works
 
  As we mentioned before, the technology at the core of Web 3.0 is [blockchain](https://facebook-videos.techidaily.com/updated-2024-approved-top-playlist-hits-social-medias-1-10-video-winners/), the same tech which underpins [cryptocurrency](https://sim-unlock.techidaily.com/in-2024-top-11-free-apps-to-check-imei-on-itel-p40plus-phones-by-drfone-android/) and NFTs. As such, in some circles, Web3 has become synonymous with everything crypto. You will occasionally see it referenced as a catch-all for anything to do with [Bitcoin](https://extra-support.techidaily.com/navigating-through-excellent-hdr-cam-choices-for-2024/) and the like. Many Web3 projects are decentralized apps (dApps) that run on the [Ethereum blockchain](https://extra-information.techidaily.com/in-2024-automated-opener-your-srt-files-windows-and-mac/).
@@ -61,8 +68,9 @@ thumbnail: https://thmb.techidaily.com/f71c5ff43307f6d2d17eee62ee317d6c80fb14beb
  The promise is that this combination of transparency and AI would make it much harder for companies like Meta or Google to take control of the web like they have now and would, on paper at least, give people much more equal access to the web.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Objections to Web3
 
  One massive downside to Web 3.0, however, would be the loss of anonymity. In a fully transparent system, you could always be identified, much the same way that [cryptocurrency like Bitcoin isn't anonymous](https://activate-lock.techidaily.com/how-to-bypass-activation-lock-on-apple-watch-or-iphone-15-pro-by-drfone-ios/). In fact, secrecy would be out of the window entirely, which may not be something everybody wants.
@@ -79,8 +87,6 @@ Related: [How Anonymous Is Bitcoin?](https://activate-lock.techidaily.com/how-to
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -88,4 +94,18 @@ Related: [How Anonymous Is Bitcoin?](https://activate-lock.techidaily.com/how-to
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-expert-insights-on-incorporating-hashtags-for-game-streams/"><u>[New] 2024 Approved Expert Insights on Incorporating Hashtags for Game Streams</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-diy-gif-creation-extracting-motion-from-youtube-videos/"><u>[Updated] In 2024, DIY GIF Creation Extracting Motion From YouTube Videos</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-efficient-editing-for-quick-youtube-content/"><u>[Updated] In 2024, Efficient Editing for Quick YouTube Content</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-exploring-top-ios-psp-emulation-tools-for-gamers/"><u>[Updated] In 2024, Exploring Top iOS PSP Emulation Tools for Gamers</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-perfectly-funny-meme-creator-app/"><u>[Updated] Perfectly Funny Meme Creator App</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fix-life360-shows-wrong-location-on-samsung-galaxy-f04-drfone-by-drfone-virtual-android/"><u>How to Fix Life360 Shows Wrong Location On Samsung Galaxy F04? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-complete-tutorial-to-use-vpna-to-fake-gps-location-on-oppo-a2-drfone-by-drfone-virtual-android/"><u>In 2024, Complete Tutorial to Use VPNa to Fake GPS Location On Oppo A2 | Dr.fone</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/in-2024-elevating-your-film-utilizing-drones-effectively/"><u>In 2024, Elevating Your Film Utilizing Drones Effectively</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-reset-a-locked-oppo-phone-by-drfone-android/"><u>In 2024, How to Reset a Locked Oppo Phone</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/quick-and-easy-snapshot-sharing-a-step-by-point-guide/"><u>Quick and Easy Snapshot Sharing – A Step-By Point Guide</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/restoring-visibility-in-your-youtube-screens-for-2024/"><u>Restoring Visibility in Your YouTube Screens for 2024</u></a></li>
+</ul></div>
 

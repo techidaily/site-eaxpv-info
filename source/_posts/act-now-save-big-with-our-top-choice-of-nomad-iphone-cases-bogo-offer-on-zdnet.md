@@ -1,7 +1,7 @@
 ---
 title: "Act Now: Save Big with Our Top Choice of Nomad iPhone Cases - BOGO Offer on ZDNet"
-date: 2024-11-18T20:09:55.100Z
-updated: 2024-11-19T18:27:21.710Z
+date: 2024-11-25T18:02:29.399Z
+updated: 2024-11-28T19:15:02.691Z
 tags:
   - apple
 categories:
@@ -28,6 +28,10 @@ But even with all the [Apple Intelligence](https://www.zdnet.com/article/what-is
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. We need a clearer Apple Intelligence timeline
 
 Jason Hiner/ZDNET
@@ -39,10 +43,7 @@ If you're looking to the iPhone 16 to get all the flashy AI features Apple showe
 Most of the more attractive features of Apple Intelligence that Apple showcased during [WWDC](https://www.zdnet.com/article/everything-apple-will-announce-at-wwdc-today-apple-intelligence-siri-ios-18-more/)in June are supposedly coming later in 2025, which is hardly a convincing factor to fork over more money for a new phone in September 2024\. If you're looking for features like Genmoji, Image Playground, and the [ChatGPT](https://www.zdnet.com/article/what-is-chatgpt-and-why-does-it-matter-heres-everything-you-need-to-know/) integration with Siri, you'll have to wait a few months.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151890/7443" target="_top" id="2151890">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151890" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151890/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Uncertainty around on-device performance
@@ -56,10 +57,7 @@ Many unknowns surround how Apple Intelligence features will perform on the [iPho
 Apple Intelligence requires at least 8GB of RAM and an A17 or M1 Apple silicon processor or newer. While the iPhone 16 lineup is expected to run on an A18 Bionic chip and between 8GB and 12GB of RAM across the four different models, concerns about how much strain the CPU will endure are valid. The new [AI capabilities can also overheat the iPhone and drain its battery quicker](https://www.zdnet.com/article/why-you-shouldnt-buy-the-iphone-16-for-apple-intelligence/), potentially reducing the device's lifecycle.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135404/19272" target="_top" id="2135404">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135404" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135404/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. The iPhone 16 is not enough of an upgrade on its own
@@ -81,10 +79,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 But, the iPhone 16's Apple Intelligence features (when they arrive) are undoubtedly modest compared to [ChatGPT with GPT-4o](https://www.zdnet.com/article/how-to-use-chatgpt/) and other AI tools available now. Other tools available now can do most of what Apple Intelligence promises; the difference is that the latter will run on-device and be personalized to the individual user. 
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484944/16446" target="_top" id="1484944">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484944" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484944/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. The iPhone 16 Pro is the same price as its predecessor… But is it worth it?
@@ -129,22 +124,22 @@ My Apple Intelligence-incompatible, lightning port-charging iPhone 14 Pro Max st
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-get-smart-with-your-youtube-thumbnails-using-a-mac/"><u>[New] 2024 Approved Get Smart with Your YouTube Thumbnails, Using a Mac</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-gamers-galaxy-a-thousand-stars-in-gaming/"><u>[New] In 2024, Gamers' Galaxy A Thousand Stars in Gaming</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-growth-hackers-guide-the-ultimate-list-of-top-strategies-to-retain-youtube-viewers/"><u>[New] In 2024, Growth Hackers Guide The Ultimate List of Top Strategies to Retain YouTube Viewers</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-free-vs-paid-youtubes-exclusive-picks-for-superior-opening-tutorials-for-2024/"><u>[Updated] Free vs Paid YouTube's Exclusive Picks for Superior Opening Tutorials for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-gauge-if-an-mcn-is-right-for-your-youtube-journey-for-2024/"><u>[Updated] How to Gauge if an MCN Is Right for Your YouTube Journey for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-flutter-freedom-for-videos-the-best-tools-to-flv-to-youtubes/"><u>[Updated] In 2024, Flutter Freedom for Videos The Best Tools to Flv-to-YouTubes</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-game-modders-and-tutorial-content-leaders/"><u>[Updated] In 2024, Game Modders & Tutorial Content Leaders</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-gourmet-gurus-who-you-should-subscribe-to/"><u>[Updated] In 2024, Gourmet Gurus Who You Should Subscribe To</u></a></li>
-<li><a href="https://fox-info.techidaily.com/2024-approved-top-6-business-driven-social-networks/"><u>2024 Approved Top 6 Business-Driven Social Networks</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/android-unlock-code-sim-unlock-your-lava-blaze-2-pro-phone-and-remove-locked-screen-by-drfone-android/"><u>Android Unlock Code Sim Unlock Your Lava Blaze 2 Pro Phone and Remove Locked Screen</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-apple-iphone-7-to-other-iphone-without-icloud-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How to Transfer Photos from Apple iPhone 7 to other iPhone without iCloud | Dr.fone</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-iphone-7-passcode-screen-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 7 Passcode Screen?</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-recommended-best-applications-for-mirroring-your-sony-xperia-1-v-screen-drfone-by-drfone-android/"><u>In 2024, Recommended Best Applications for Mirroring Your Sony Xperia 1 V Screen | Dr.fone</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-unlock-the-secrets-maximizing-your-video-content-on-zoom-and-youtube-live/"><u>In 2024, Unlock the Secrets Maximizing Your Video Content on Zoom & YouTube Live</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/investigating-unmodified-audio-from-ffmpeg-output/"><u>Investigating Unmodified Audio From FFmpeg Output</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/navigating-the-insider-features-of-zoom-software-for-windows-11-for-2024/"><u>Navigating the Insider Features of Zoom Software for Windows 11 for 2024</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/windows-11-discontinues-support-for-tips-application/"><u>Windows 11 Discontinues Support for Tips Application</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-explore-top-church-platforms-for-global-audience-for-2024/"><u>[New] Explore Top Church Platforms for Global Audience for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-navigating-the-world-of-instagram-reel-downloads/"><u>[New] In 2024, Navigating the World of Instagram Reel Downloads</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-premier-selection-incredible-platform-compatible-free-streaming-apps/"><u>[Updated] In 2024, Premier Selection Incredible, Platform-Compatible Free Streaming Apps</u></a></li>
+<li><a href="https://win-popular.techidaily.com/windows-1011dism/"><u>「Windows 10/11にDISMを適用して無線接続なしで修復するコツ」</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/bestellung-des-winx-hauspakets-im-internet-schnelles-handeln/"><u>Bestellung Des WinX Hauspakets Im Internet - Schnelles Handeln!</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/expert-strategies-mastering-video-playback-in-minutes/"><u>Expert Strategies: Mastering Video Playback in Minutes</u></a></li>
+<li><a href="https://games-able.techidaily.com/exploring-2024s-computex-next-gen-ai-chips-unveiled/"><u>Exploring 2024'S Computex: Next-Gen AI Chips Unveiled</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/guia-paso-a-paso-como-subir-tus-dvd-al-cielo-digital-con-google-drive-y-icloud/"><u>Guía Paso a Paso: Cómo Subir Tus DVD Al Cielo Digital Con Google Drive Y iCloud</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/guide-to-mirror-your-vivo-x100-pro-to-other-android-devices-drfone-by-drfone-android/"><u>Guide to Mirror Your Vivo X100 Pro to Other Android devices | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-check-distance-and-radius-on-google-maps-for-your-nokia-c110-drfone-by-drfone-virtual-android/"><u>How to Check Distance and Radius on Google Maps For your Nokia C110 | Dr.fone</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/maitrisez-votre-recepitule-video-avec-handbrake-guide-etape-par-etape-pour-desactiver-lautoresizing-et-recadrer-en-mode-manuel/"><u>Maîtrisez Votre Récépitulé Vidéo Avec HandBrake : Guide Étape Par Étape Pour Désactiver L'autoresizing Et Recadrer en Mode Manuel</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/step-by-step-guide-transferring-your-iphone-data-to-a-pc-using-itunes-and-alternatives/"><u>Step-by-Step Guide: Transferring Your iPhone Data to a PC Using iTunes & Alternatives</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-leading-selection-no-cost-outstanding-lut-links-for-2024/"><u>The Leading Selection No-Cost, Outstanding LUT Links for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/top-6-grands-outils-damelioration-de-la-qualite-video-avec-ia/"><u>Top 6 Grands Outils D'Amélioration De La Qualité Vidéo Avec IA</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/topas-tacticas-para-optimizar-embalaje-de-contenido-visual-en-correo-electronico/"><u>Topas Tácticas Para Optimizar Embalaje De Contenido Visual en Correo Electrónico</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/winx-mediatrans-the-premier-photo-and-video-transfer-tool-for-iphone-and-ipad-to-pc/"><u>WinX MediaTrans™: The Premier Photo & Video Transfer Tool for iPhone and iPad to PC</u></a></li>
+<li><a href="https://blog-min.techidaily.com/movavi-mp4-to-asf/"><u>オンライン無料変換: Movavi MP4 to ASF - ストレスなしで高速!</u></a></li>
 </ul></div>
 
