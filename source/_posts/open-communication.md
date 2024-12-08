@@ -1,7 +1,7 @@
 ---
 title: Open Communication
-date: 2024-11-26T16:54:05.670Z
-updated: 2024-11-28T17:39:30.440Z
+date: 2024-11-30T21:13:46.614Z
+updated: 2024-12-07T22:41:56.035Z
 tags:
   - apple
 categories:
@@ -26,6 +26,10 @@ New with the latest version of watchOS is a feature called Check In. Accessible 
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to check in with a friend or family member from your Apple Watch
 
 **What you'll need**: To use Check In, you have to be running watchOS 11 or higher on your Apple Watch, which requires iOS 18 or higher on your iPhone. [These Apple Watch models](https://www.zdnet.com/article/every-apple-watch-that-will-get-watchos-11-and-which-models-wont-be-supported/) can run watchOS 11.
@@ -41,7 +45,7 @@ Screenshot by Lance Whitney/ZDNET
 **Also: [I was on the fence with the Apple Watch 10, but these 3 features changed my mind](https://www.zdnet.com/article/i-was-on-the-fence-with-the-apple-watch-10-but-these-3-features-changed-my-mind/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Send the default Check In through the Messages app
@@ -51,7 +55,7 @@ Launch the Messages app on your Apple Watch. Start or continue a conversation wi
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. View the initial Check In notification
@@ -70,10 +74,6 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4\. View the actual Check in alert
 
 When the timer is up to indicate that you should have reached your destination, you'll be prompted to stop the Check In to confirm that you've arrived. You can add more time or cancel the Check In. Otherwise, the recipient will receive your Check In notification. If the confirmation isn't sent, more time will be added. After that, the recipient will be informed that you haven't yet checked in. They can then try to contact you by text or phone call to find out why you haven't yet arrived.
@@ -90,15 +90,15 @@ If you still wish to use a timer for the Check In option but change the amount o
 
 Screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 6\. Send a customized Check In through the Messages app
 
 To further customize the Check In, tap the Edit button at the Check In screen. Tap Check In. You can now set a notification to be sent when you've arrived at your destination, after the timer ends, or when a workout ends. Tap the option for "When I arrive."
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 7\. Add a destination and send the text
 
@@ -115,7 +115,7 @@ Maybe you're working out at the gym or at home and want to let someone know when
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 9\. Set a Check In for a workout in the Workout app
@@ -154,21 +154,20 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-in-2024-unlock-the-power-of-slow-mo-with-these-android-hacks/"><u>[New] In 2024, Unlock the Power of Slow Mo with These Android Hacks</u></a></li>
-<li><a href="https://extra-information.techidaily.com/updated-avatar-architecture-your-uncomplicated-guide-to-virtual-existence/"><u>[Updated] Avatar Architecture Your Uncomplicated Guide to Virtual Existence</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/vob-to-mp4/"><u>「スピーディかつ高品位：オンラインでインストール不要、VOB to MP4変換サービス」</u></a></li>
-<li><a href="https://extra-information.techidaily.com/2024-approved-cost-effective-cumulus-vault-for-colossal-archives/"><u>2024 Approved Cost-Effective Cumulus Vault for Colossal Archives</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/avimp4web/"><u>高品質に安全! AVIをMP4に自由に変換するWebサービス - お勧めガイド</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/convert-your-avchd-files-to-mp4-format-without-cost-top-5-methods-for-windows-10-users/"><u>Convert Your AVCHD Files to MP4 Format Without Cost: Top 5 Methods for Windows 10 Users</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/guida-dettagliata-a-strumenti-software-tech-support-centrale-per-winx-dvd-copier-e-winxvideo-ia/"><u>Guida Dettagliata a Strumenti Software Tech Support Centrale per WinX DVD Copier E WinxVideo IA</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-vivo-y55s-5g-2023-to-outlook-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Vivo Y55s 5G (2023) to Outlook | Dr.fone</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-vivo-t2-pro-5g-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Vivo T2 Pro 5G</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/maximize-your-virtual-meetings-premium-screens-cameras-and-mics-enhanced-by-wixvideo-ai-technology/"><u>Maximize Your Virtual Meetings: Premium Screens, Cameras & Mics Enhanced by Wixvideo AI Technology</u></a></li>
-<li><a href="https://win-forum.techidaily.com/overcoming-the-unregistered-class-problem-on-your-pc-tips-and-tricks/"><u>Overcoming the 'Unregistered Class' Problem on Your PC: Tips and Tricks</u></a></li>
-<li><a href="https://win11.techidaily.com/quick-guide-to-fixing-non-terminated-processes-windows/"><u>Quick Guide to Fixing Non-Terminated Processes Windows</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/reduction-de-taille-video-pour-whatsapp-avec-qualite-optimale-guide-ultime-du-telechargement-winxdvd/"><u>Réduction De Taille Vidéo Pour WhatsApp Avec Qualité Optimale : Guide Ultime Du Téléchargement WinXDVD</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/schnell-und-einfach-isos-auf-windows-1087-mounten-professionelle-losung-von-winx-dvd-kopieren/"><u>Schnell Und Einfach ISOs Auf Windows 10/8/7 Mounten - Professionelle Lösung Von WinX DVD Kopieren</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/ultimate-guide-to-choosing-the-ideal-external-bd-drive/"><u>Ultimate Guide to Choosing the Ideal External BD Drive</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/windows-10-cant-find-the-pixma-mp620-printer-driver/"><u>Windows 10 Can't Find the Pixma MP620 Printer Driver</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-2024-approved-3-straightforward-methods-to-fine-tune-shades/"><u>[New] 2024 Approved 3 Straightforward Methods to Fine-Tune Shades</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-fifas-favorite-footage-charted-on-youtube/"><u>[New] In 2024, FIFA's Favorite Footage Charted on YouTube</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-giggle-genesis-conceptualizing-7-funny-youtube-sessions/"><u>[New] In 2024, Giggle Genesis Conceptualizing 7 Funny YouTube Sessions</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-the-ultimate-guide-to-seamless-snapchat-lens-creation/"><u>[New] In 2024, The Ultimate Guide to Seamless Snapchat Lens Creation</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-a-comprehensible-approach-to-adding-dates-on-youtube-videos/"><u>[Updated] 2024 Approved A Comprehensible Approach to Adding Dates on YouTube Videos</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-novice-to-expert-mastering-video-identity-on-youtube/"><u>[Updated] 2024 Approved From Novice to Expert Mastering Video Identity on YouTube</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-preserve-your-favorite-tracks-from-youtube-safely-and-for-free/"><u>[Updated] 2024 Approved How to Preserve Your Favorite Tracks From YouTube Safely & for Free</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-turn-your-google-meet-into-a-youtube-live-event-for-2024/"><u>[Updated] How To Turn Your Google Meet Into a YouTube Live Event for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-highly-compensated-online-visionary-creator/"><u>[Updated] In 2024, Highly Compensated Online Visionary Creator</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-in-2024-youtube-video-dimensionssize-guide-for-upload-settings/"><u>[Updated] In 2024, YouTube Video Dimensions/Size Guide for Upload Settings</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-trailblaze-your-way-to-success-insights-on-youtube-metrics-with-social-blade/"><u>[Updated] Trailblaze Your Way to Success Insights on YouTube Metrics with Social Blade</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/2024-approved-expert-techniques-for-downloading-vimeo-clips-mp4/"><u>2024 Approved Expert Techniques for Downloading Vimeo Clips (MP4)</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/in-2024-convenient-syncing-moving-media-between-pc-and-iphone/"><u>In 2024, Convenient Syncing Moving Media Between PC and iPhone</u></a></li>
+<li><a href="https://article-helps.techidaily.com/mastering-money-making-top-13-strategies-for-novice-reddit-users/"><u>Mastering Money-Making Top 13 Strategies for Novice Reddit Users</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-in-2024-free-3gp-video-rotator-review-top-rated-options/"><u>Updated In 2024, Free 3GP Video Rotator Review Top-Rated Options</u></a></li>
 </ul></div>
 

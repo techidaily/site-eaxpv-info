@@ -1,7 +1,7 @@
 ---
 title: Transform Your Email Habits with One Easy Hack - Ditch the Overwhelm, No Multi-Accounts Needed | ZDNET
-date: 2024-10-26T08:18:49.407Z
-updated: 2024-11-02T15:29:37.077Z
+date: 2024-12-05T22:48:56.594Z
+updated: 2024-12-08T00:46:49.989Z
 tags:
   - apple
 categories:
@@ -32,6 +32,10 @@ It all works thanks to _aliases,_ a feature that's built into most modern email 
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## The magic of email aliases
 
 An alias is an alternate email address that's linked to your main account. Messages addressed to an alias go to your inbox, right alongside messages sent to your primary address. But because they're _not_ using your regular email address, you can set up your email client to perform custom actions using those aliases.
@@ -61,10 +65,7 @@ Don't confuse aliases with forwarded accounts, which allow you to send and recei
 The following instructions apply to personal accounts you manage yourself. If you have a commercial email account (through Microsoft 365 or Google Workspace, for example), you can have aliases for your account using your organization's custom domain, but you'll need an administrator's help to set up those aliases.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080328/19272" target="_top" id="2080328">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080328" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080328/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to create an alias using Gmail
@@ -76,10 +77,7 @@ Although it's the world's most popular email service, Gmail's implementation of 
 The problem with this sort of alias is that it doesn't keep an unscrupulous sender from seeing your primary address, so be cautious when using it with untrusted correspondents.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151870/7443" target="_top" id="2151870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151870" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to create an alias using Outlook.com
@@ -93,10 +91,7 @@ To get started, go to <https://account.microsoft.com>, sign in with your Microso
 You can add new aliases at any time (up to the limit of 10) or remove an existing alias from the Account Aliases page described earlier.
 
 <!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398455/3022" target="_top" id="398455">
-  <img src="//a.impactradius-go.com/display-ad/3022-398455" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398455/3022" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to create an alias using your Apple ID
@@ -110,10 +105,7 @@ The one catch is that each alias uses an auto-generated name that can be less th
 To create an iCloud alias on an iOS device, open Settings, tap your account name, then tap iCloud > Hide My Email. (On a MacBook, use the Apple menu to open System Settings, where you'll find the Hide My Email option.) Tap Create New Address and follow the prompts to add a label and an optional note. Use the Forward To button to select where you want to receive email sent to that alias.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Other alias options
@@ -154,21 +146,24 @@ You can also use privacy add-ins that include email-masking features. [NordPass 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-fearless-filming-mastering-your-first-10-clips/"><u>[New] 2024 Approved Fearless Filming Mastering Your First 10 Clips</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-passive-viewers-to-earnings-youtubes-monetization-mastery/"><u>[New] 2024 Approved From Passive Viewers to Earnings YouTube's Monetization Mastery</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-guiding-adding-songs-to-your-yt-channel/"><u>[New] 2024 Approved Guiding Adding Songs to Your YT Channel</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-efficient-recording-capture-your-dell-display-swiftly/"><u>[New] Efficient Recording Capture Your Dell Display Swiftly</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-vlogs-to-virality-jake-paul-the-online-phenomenon/"><u>[New] In 2024, From Vlogs to Virality Jake Paul, the Online Phenomenon</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-verify-your-youtube-account/"><u>[New] In 2024, How to Verify Your YouTube Account?</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-frame-by-frame-building-a-filmmaking-foundation-on-youtube/"><u>[Updated] 2024 Approved Frame by Frame Building a Filmmaking Foundation on YouTube</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-effortlessly-transferring-your-personal-soundtrack/"><u>[Updated] Effortlessly Transferring Your Personal Soundtrack</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-choose-best-free-youtube-video-editor-apps-on-ios-for-2024/"><u>[Updated] How to Choose Best-Free YouTube Video Editor Apps on iOS for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-mastering-image-retrieval-on-pexels-a-step-by-step-guide/"><u>2024 Approved Mastering Image Retrieval on Pexels A Step-by-Step Guide</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/2024-approved-simple-process-for-preserving-tweets-imagesvideos/"><u>2024 Approved Simple Process for Preserving Tweets' Images/Videos</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/comprehensive-fitbit-charge/"><u>Comprehensive Fitbit Charge</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-infinix-smart-8-to-outlook-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Infinix Smart 8 to Outlook | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-pokemon-go-cooldown-chart-on-oppo-a1-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Pokémon Go Cooldown Chart On Oppo A1 5G | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/top-8-iphone-11-smsmessagetext-recovery-software-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>Top 8 iPhone 11 SMS/Message/Text Recovery Software | Stellar</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/updated-in-2024-elevate-your-videos-top-rated-ipad-video-editors/"><u>Updated In 2024, Elevate Your Videos Top-Rated iPad Video Editors</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-from-jarring-cuts-to-elegant-edits-unlocking-inshots-transition-secrets/"><u>[New] 2024 Approved From Jarring Cuts to Elegant Edits Unlocking Inshot's Transition Secrets</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-make-money-on-youtube/"><u>[New] 2024 Approved How To Make Money on YouTube</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-financial-magnitude-in-mr-beasts-realm-for-2024/"><u>[New] Financial Magnitude in Mr. Beast's Realm for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-binge-worthy-music-reaction-videos-on-youtube/"><u>[New] In 2024, How to Binge-Worthy Music Reaction Videos on YouTube</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/n-2024-vloggers-guide-to-choosing-camera-essentials-the-top-9-accessories/"><u>[New] In 2024, Vloggers' Guide to Choosing Camera Essentials - The Top 9 Accessories</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-the-creators-guide-to-the-top-9-affordable-video-editing-apps/"><u>[New] The Creator's Guide to the Top 9 Affordable Video Editing Apps</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-fresh-footage-frequent-flows-dos-and-donts-for-streamlining-video-content/"><u>[Updated] 2024 Approved Fresh Footage, Frequent Flows Do's & Don'ts for Streamlining Video Content</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-double-down-on-your-youtube-success-in-a-month/"><u>[Updated] 2024 Approved How to Double Down on Your YouTube Success in a Month</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-make-good-youtube-banner-dos-and-donts/"><u>[Updated] 2024 Approved How To Make Good YouTube Banner - Dos and Don’ts</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-quickly-clip-and-save-your-favorite-youtube-sections/"><u>[Updated] 2024 Approved How to Quickly Clip and Save Your Favorite YouTube Sections</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-google-account-integration-for-private-youtube-video-sharing-for-2024/"><u>[Updated] Google Account Integration for Private YouTube Video Sharing for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-size-your-videos-youtubes-best-practices-unveiled/"><u>[Updated] In 2024, How to Size Your Videos YouTube's Best Practices Unveiled</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-removing-borders-quick-and-effective-image-retouch-methods/"><u>2024 Approved Removing Borders Quick & Effective Image Retouch Methods</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-the-complete-lowdown-on-using-showmores-recorder/"><u>2024 Approved The Complete Lowdown on Using ShowMore's Recorder</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/expert-advice-5-proven-methods-to-document-minecraft-on-apple-devices-for-2024/"><u>Expert Advice 5 Proven Methods to Document Minecraft on Apple Devices for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/expert-advice-on-creating-impactful-hdr-portraits/"><u>Expert Advice on Creating Impactful HDR Portraits</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unfortunately-contacts-has-stopped-error-on-xiaomi-redmi-a2-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Unfortunately, Contacts Has Stopped Error on Xiaomi Redmi A2 | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-solved-move-from-vivo-y78-5g-to-ios-not-working-problems-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Solved Move from Vivo Y78 5G to iOS not Working Problems | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/optimal-zero-dollar-valorant-sound-manipulator-alert-for-2024/"><u>Optimal Zero Dollar Valorant Sound Manipulator Alert for 2024</u></a></li>
 </ul></div>
 

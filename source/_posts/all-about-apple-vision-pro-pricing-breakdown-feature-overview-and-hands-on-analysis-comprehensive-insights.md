@@ -1,7 +1,7 @@
 ---
 title: "All About Apple Vision Pro: Pricing Breakdown, Feature Overview & Hands-On Analysis - Comprehensive Insights"
-date: 2024-11-24T16:46:14.509Z
-updated: 2024-11-28T17:48:15.559Z
+date: 2024-12-02T22:51:45.652Z
+updated: 2024-12-07T18:12:49.764Z
 tags:
   - apple
 categories:
@@ -39,7 +39,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Apple Intelligence
@@ -56,6 +56,10 @@ Apple's approach to AI is markedly different from that of its competitors, howev
 
 This lets Apple disengage from the chaotic rat race to a degree, positioning itself as the careful, more ethical actor when it comes to AI, particularly in light of [recent debilitating security concerns](https://www.zdnet.com/article/after-brutal-critiques-microsoft-recall-will-get-these-major-privacy-and-security-changes/) from Microsoft's Recall feature, which is delaying the release of a host of its new [Copilot+ PCs](https://www.zdnet.com/article/every-copilot-pc-microsoft-just-announced-to-take-on-apples-m3-macbooks/).
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Continuity
 
 Screenshot by Nina Raemont
@@ -67,6 +71,10 @@ The new Continuity app links your Mac to your iPhone in a fully comprehensive wa
 The app also streamlines your devices by bringing your iPhone's notifications straight to the Mac, allowing you to pull up the corresponding app onto the laptop. If you're worried about privacy while using your phone on your laptop, your phone's screen actually remains locked and turned off, even while you're using the phone remotely.   
   
 Alternatively, the new standby mode on the iPhone displays a host of at-a-glance (but un-interactable) data like a clock and calendar while you're using the Continuity app on the Mac. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Siri 2.0
 
@@ -81,7 +89,7 @@ During the WWDC keynote, Apple showed off Siri's new look as an ever-present AI 
 The new Siri also comes with on-screen awareness, allowing the AI to respond to what you're looking at on the screen without requiring the user to provide specific context with each prompt. This also allows Siri to take in-app actions in a way that wasn't possible before. In MacOS Sequoia, Siri's integration with OpenAI's LLM propels the virtual assistant to the top players in the field alongside [ChatGPT-4o](https://www.zdnet.com/article/how-to-use-chatgpt-plus-from-gpt-4o-to-interactive-tables/) and [Google's Gemini](https://www.zdnet.com/article/what-is-google-gemini/). 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. AI-fueled productivity apps
@@ -96,10 +104,6 @@ Apple Intelligence has been integrated across all of the big productivity apps i
 * **Photos:** AI-based photo editing features in the Photos app allow users to make touch-ups, remove backgrounds, and do editing instantaneously. Additionally, searching for specific photos and videos using natural language will bring up images of specific people or events.
 * **Notes:** Voice functionality is coming to the Notes app, with the ability to add voice memos directly embedded into your notes. AI will also support audio transcription and transcripts of audio recordings. You can record and transcribe audio, and when your recording is finished, the AI will create a summary on its own.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 5\. New and improved Safari
 
 Screenshot by Nina Raemont
@@ -111,7 +115,7 @@ Safari will see a host of improvements powered by AI functionality, including an
 Apple demoed Safari's machine learning capability to automatically detect relevant information on a webpage, including things like quick links, directions, and quick summaries with logistical information like phone numbers and addresses. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6\. Standalone Passwords app
@@ -123,10 +127,6 @@ Aligning with Apple's positioning of its AI features as secure and trustworthy, 
 **Also: [Forget LastPass: Apple unveils 'Passwords' manager app at WWDC 2024](https://www.zdnet.com/article/forget-lastpass-apple-unveils-passwords-manager-app-at-wwdc-2024/)**
 
 This standalone app is an extension of the existing iCloud Keychain, and seeks to simplify password storage by employing Face ID and Touch ID alongside character-string passwords. Much of it is designed to work automatically and seamlessly in an effort to solve what is a huge UX headache that everyone has experienced at one point or another. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 7\. Gaming
 
@@ -162,18 +162,22 @@ Apple wants to create a "unified gaming platform" across the iPhone, iPad, and M
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://bypass-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-vivo-x-flip-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Vivo X Flip</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/budget-friendly-1-decade-of-excellent-desktop-recorders-for-2024/"><u>Budget-Friendly #1 Decade of Excellent Desktop Recorders for 2024</u></a></li>
-<li><a href="https://win-reviews.techidaily.com/bypassing-youtube-restrictions-secure-your-downloads-using-a-vpn-or-proxy/"><u>Bypassing YouTube Restrictions: Secure Your Downloads Using a VPN or Proxy</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/coupe-video-leader-free-pour-windows-11-8-et-7-and-mac-supprimez-effortlessment-les-scenes-superflues/"><u>Coupe-Vidéo Leader Free Pour Windows 11, 8 Et 7 & Mac : Supprimez Effortlessment Les Scènes Superflues</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/dvdiso-dvdiso/"><u>DVDをISOイメージ化するシンプルツールと方法 : DVDISOリッピングソフト</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/effizientes-verwalten-von-mp4-filmen-drehung-um-90180270-grad-ohne-qualitatseinbussen/"><u>Effizientes Verwalten Von MP4-Filmen - Drehung Um 90/180/270 Grad Ohne Qualitätseinbußen</u></a></li>
-<li><a href="https://android-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-from-samsung-galaxy-s23-ultra-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock from Samsung Galaxy S23 Ultra Phones with/without a PC</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-vivo-t2-5g-to-samsung-galaxy-s21-ultra-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos From Vivo T2 5G to Samsung Galaxy S21 Ultra | Dr.fone</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/i-migliori-lettori-dvd-gratis-compatibili-con-windows-11-riproduci-tutti-i-tuoi-film-preferiti/"><u>I Migliori Lettori DVD Gratis Compatibili Con Windows 11: Riproduci Tutti I Tuoi Film Preferiti</u></a></li>
-<li><a href="https://fox-info.techidaily.com/in-2024-comprehensive-guide-to-oculus-rift-setup/"><u>In 2024, Comprehensive Guide to Oculus Rift Setup</u></a></li>
-<li><a href="https://win-dash.techidaily.com/the-ctbt-prohibits-all-nuclear-explosions-for-both-civilian-and-military-purposes-but-has-yet-to-enter-into-force-requiring-ratification-by-specific-countri229/"><u>The CTBT Prohibits All Nuclear Explosions for Both Civilian and Military Purposes but Has yet to Enter Into Force, Requiring Ratification by Specific Countries that Have Not Occurred.</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/top-video-file-formats-for-optimal-youtubing-a-comprehensive-guide/"><u>Top Video File Formats for Optimal YouTubing: A Comprehensive Guide</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/ultimate-guide-transforming-your-dvd-files-into-mp4-using-windows-11-or-macos-top-strategies-revealed/"><u>Ultimate Guide: Transforming Your DVD Files Into MP4 Using Windows 11 or macOS - Top Strategies Revealed!</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-raw-to-refined-mastering-the-art-of-pc-video-editing-on-windows/"><u>[New] 2024 Approved From Raw to Refined Mastering the Art of PC Video Editing on Windows</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-global-scoreboard-the-premier-six-of-video-downloads/"><u>[New] 2024 Approved Global Scoreboard The Premier Six of Video Downloads</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-use-a-tripod-for-vlogging/"><u>[New] 2024 Approved How To Use a Tripod for Vlogging</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-high-quality-video-capture-for-beginner-creators/"><u>[New] In 2024, High-Quality Video Capture for Beginner Creators</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-instant-srt-to-txt-efficient-conversion-methods-revealed/"><u>[New] Instant SRT to TXT Efficient Conversion Methods Revealed</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-free-and-secure-3-ways-to-extract-youtube-music-content-for-2024/"><u>[Updated] Free and Secure 3 Ways to Extract YouTube Music Content for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-from-clicks-to-cash-the-systematic-triple-pathway-for-youtube-revenue-tracking-for-2024/"><u>[Updated] From Clicks to Cash The Systematic Triple Pathway for YouTube Revenue Tracking for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-giggles-galore-celebrating-the-funniest-web-content-creators-for-2024/"><u>[Updated] Giggles Galore Celebrating the Funniest Web Content Creators for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-novice-to-narrative-youtube-seo-strategies/"><u>[Updated] In 2024, From Novice to Narrative YouTube SEO Strategies</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-quick-recovery-methods-for-erased-reddit-topics/"><u>2024 Approved Quick Recovery Methods for Erased Reddit Topics</u></a></li>
+<li><a href="https://win-dash.techidaily.com/download-latest-hp-laserjet-m506-printer-drivers-step-by-step-guide/"><u>Download Latest HP LaserJet M506 Printer Drivers: Step-by-Step Guide</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-i-transferred-messages-from-oneplus-nord-3-5g-to-iphone-12xs-max-in-seconds-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How I Transferred Messages from OnePlus Nord 3 5G to iPhone 12/XS (Max) in Seconds | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-google-ar-stickers-explained-with-comparative-alternatives/"><u>In 2024, Google AR Stickers Explained with Comparative Alternatives</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-inside-out-how-to-react-on-twitter-vids/"><u>In 2024, Inside Out How to React on Twitter Vids</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/struggling-with-windows-11-upgrade-heres-what-you-can-do-instead/"><u>Struggling with Windows 11 Upgrade? Here’s What You Can Do Instead</u></a></li>
+<li><a href="https://techidaily.com/three-solutions-to-hard-reset-huawei-nova-y91-drfone-by-drfone-reset-android-reset-android/"><u>Three Solutions to Hard Reset Huawei Nova Y91? | Dr.fone</u></a></li>
+<li><a href="https://facebook.techidaily.com/understanding-the-new-layout-of-your-favorite-platform/"><u>Understanding the New Layout of Your Favorite Platform</u></a></li>
 </ul></div>
 

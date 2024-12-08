@@ -1,7 +1,7 @@
 ---
 title: Tackling the 'Violation of Security Protocol' Warning in Online Games
-date: 2024-08-09T12:18:18.547Z
-updated: 2024-08-10T12:18:18.547Z
+date: 2024-12-04T21:12:58.882Z
+updated: 2024-12-07T17:55:57.940Z
 tags:
   - win11
   - win10
@@ -17,9 +17,6 @@ thumbnail: https://thmb.techidaily.com/bc534bc9ef4d9b3f9c6dd91c298512dc6fbda8926
 
 Some players are reporting that they can’t get past the Mojang screen. It looks like it’s hard to fix, and this problem can persist for months. If you’re one of them, don’t worry. In this post, you’ll find all the possible fixes with detailed troubleshooting steps.
 
-<!-- affiliate ads begin -->
-<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Try these fixes
 
  You don’t have to try them all; just walk your way down until you find the one that works.
@@ -31,6 +28,10 @@ Some players are reporting that they can’t get past the Mojang screen. It look
 5. **[End the runtime broker](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Run Minecraft Launcher in compatibility mode](https://tools.techidaily.com/drivereasy/download/)**
 7. **[Perform a clean reinstall](https://tools.techidaily.com/drivereasy/download/)**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 1: Uninstall your antivirus software
 
@@ -68,25 +69,12 @@ There are mainly two ways to update your device drivers:
 
 1. **[Download](https://tools.techidaily.com/drivereasy/download/) [](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
-VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
-
-Key features:
-
-•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
-•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
-•	Visual effects, advanced color correction and trendy Instagram-like filters   
-•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
-•	Non-linear editing: edit several files with simultaneously 
-•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
-•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
-•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
-•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
-</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/scan.png)
 3. Click **Update** next to your graphics card to download the latest driver, and then install it manually (you can do this in the Free version).  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Or click **Update All**  to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[](https://tools.techidaily.com/drivereasy/download/) [Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you get 30-day money back guarantee and full technical support.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/3080.jpg)
@@ -97,8 +85,9 @@ Key features:
  Once the driver is updated, you’d better restart your computer and try launching your Minecraft again to check if it can load normally. If unfortunately not, you can try the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 4: Remove the adware
 
  Many players find removing the adware helped them get past the forever-loading Majong screen. You can use the free utility AdwCleaner to remove useless adware:
@@ -111,8 +100,9 @@ Key features:
  Note: If you’re looking for advanced malware protection and don’t want it to mess with your Minecraft, you can check **[Malwarebyte](https://tools.techidaily.com/drivereasy/download/)** [**s**](https://tools.techidaily.com/drivereasy/download/) . (It offers the Free and Premium version, and the free version includes a 14-day trial of the premium.)
 
 <!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 5: End the runtime broker
 
  This is a temporary fix for many players, and you can try this to see if it works for you, too. Here’s how:
@@ -125,9 +115,6 @@ Key features:
  If you want a permanent fix, you can try uninstalling some apps that use runtime broker.
 
 1. Right-click the**Start** menu (the Windows logo) and select**Windows PowerShell (Admin).**  
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/admin.jpg)  
 
  If you are on Windows 11, it will be**Terminal (Amin)** .  
@@ -148,6 +135,10 @@ If this method doesn’t work for you, then try the next fix, below.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/save-all.jpg)
 4. Click**Apply** \>**OK** .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Now you can launch your Minecraft again to see if this issue has been resolved by now.
 
 ### Fix 7: Perform a clean reinstall
@@ -155,15 +146,9 @@ If this method doesn’t work for you, then try the next fix, below.
  Minecraft stuck on the loading screen might be triggered by some important files in your Minecraft folder. Performing a clean uninstall might fix that. To do that, you’ll need to delete all the Minecraft data.
 
 1. On your keyboard, press the Windows key and R at the same time to open the Run box. Type**appwiz.cpl** and press**Enter** .  
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![uninstall app](https://images.drivereasy.com/wp-content/uploads/2021/01/appwiz.cpl_.jpg)
 2. Right-click Minecraft, and select**Uninstall** .
 3. Once complete, type**%appdata%** in the Windows Search bar, and select the**%appdata%** folder.  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/appdata.jpg)
 4. In case your system’s uninstallation removes all your worlds, you can create a backup of your worlds.
 5. Once done, delete the**.Minecraft** folder.
@@ -183,8 +168,6 @@ If this method doesn’t work for you, then try the next fix, below.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -192,4 +175,24 @@ If this method doesn’t work for you, then try the next fix, below.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-zeroes-to-heroes-amplifying-your-youtube-following/"><u>[New] 2024 Approved From Zeroes to Heroes Amplifying Your Youtube Following</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-mastering-the-art-of-audio-capture-sans-microphone/"><u>[New] 2024 Approved Mastering the Art of Audio Capture Sans Microphone</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/reating-a-singular-stream-from-diverse-youtube-videos/"><u>[New] Creating a Singular Stream From Diverse YouTube Videos</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-flip-flop-your-watching-anchoring-yourself-at-the-end-of-queue-for-2024/"><u>[New] Flip-Flop Your Watching Anchoring Yourself at the End of Queue for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-how-algorithm-changes-shape-your-youtube-visibility-for-2024/"><u>[New] How Algorithm Changes Shape Your YouTube Visibility for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-flipping-order-inverting-the-flow-of-your-youtube-watch-list/"><u>[New] In 2024, Flipping Order Inverting the Flow of Your YouTube Watch List</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-hidden-gems-on-youtube-understanding-unlisted-videos/"><u>[New] In 2024, Hidden Gems on YouTube Understanding 'Unlisted' Videos</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-smooth-streaming-elite-stabilizers-reviewed/"><u>[New] In 2024, Smooth Streaming Elite Stabilizers Reviewed</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-from-novice-to-pro-youtube-shorts-guide-for-2024/"><u>[Updated] From Novice to Pro YouTube Shorts Guide for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-harmonize-your-favorites-creating-custom-youtube-playlists-for-2024/"><u>[Updated] Harmonize Your Favorites Creating Custom YouTube Playlists for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-guide-to-avoidable-exposure-hiding-objects-and-faces-online/"><u>[Updated] In 2024, Guide to Avoidable Exposure Hiding Objects and Faces Online</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-top-6-best-capture-cards-for-nintendo-switch-you-can-find/"><u>[Updated] In 2024, Top 6 Best Capture Cards for Nintendo Switch You Can Find</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-hand-tracking-insights-detailed-exploration/"><u>2024 Approved Hand Tracking Insights Detailed Exploration</u></a></li>
+<li><a href="https://fake-location.techidaily.com/dose-life360-notify-me-when-someone-checks-my-location-on-samsung-galaxy-f14-5g-drfone-by-drfone-virtual-android/"><u>Dose Life360 Notify Me When Someone Checks My Location On Samsung Galaxy F14 5G? | Dr.fone</u></a></li>
+<li><a href="https://win-forum.techidaily.com/learn-how-to-easily-purge-files-and-folders-using-the-command-prompt-on-windows-11/"><u>Learn How to Easily Purge Files & Folders Using the Command Prompt on Windows 11</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-priced-lenovo-notebooks-ideal-for-hybrid-professionals-save-1k-on-our-picks-zdnet/"><u>Top-Priced Lenovo Notebooks Ideal for Hybrid Professionals - Save $1K on Our Picks | ZDNet</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/-video-venues-clash-youtube-shorts-vs-tiktoks-rapid-rise-for-2024/"><u>Viral Video Venues Clash YouTube Shorts Vs. TikTok's Rapid Rise for 2024</u></a></li>
+</ul></div>
 

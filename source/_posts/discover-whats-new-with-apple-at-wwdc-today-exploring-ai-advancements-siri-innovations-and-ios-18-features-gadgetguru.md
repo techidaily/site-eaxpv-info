@@ -1,7 +1,7 @@
 ---
 title: Discover What's New with Apple at WWDC Today - Exploring AI Advancements, Siri Innovations, and iOS 18 Features | GadgetGuru
-date: 2024-10-27T01:24:18.127Z
-updated: 2024-11-02T06:02:29.531Z
+date: 2024-12-05T21:43:36.857Z
+updated: 2024-12-07T20:06:53.680Z
 tags:
   - apple
 categories:
@@ -30,21 +30,16 @@ Here's a look at what's new for the 6th generation iPad Air.
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. A bigger screen option
 
 First up, [Apple is introducing](https://www.apple.com/ipad-air/) an all-new bigger size. While previous versions of the [iPad Air](https://www.zdnet.com/article/best-ipad/) only had a single size to choose from, this year's edition has an 11-inch size and a 13-inch size – the larger one giving you 30% more screen to work with. It makes the iPad slightly less portable, but the added real estate will certainly be worth the tradeoff for some.
 
 <!-- affiliate ads begin -->
-<span id="1977028">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977028.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977028">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977028.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977028%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977028/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. An M2 chip for enhanced performance
@@ -66,10 +61,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902309/19272" target="_top" id="1902309">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902309" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902309/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. New placement for the front camera
@@ -77,10 +69,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 It may seem minor, but the front-facing camera of the latest iPad Air is in a new spot. It's now on the landscape edge, moved from the portrait edge. Previously, you had to use the iPad in portrait mode on a video call as moving it to landscape mode distorted the picture. Now, video calls will look exactly as they do on a laptop.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006919/19272" target="_top" id="2006919">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006919" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006919/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Bigger base storage
@@ -121,20 +110,19 @@ The iPad Air 6 will begin shipping next week at a starting price of [$599 for th
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-from-tape-to-trending-seamless-mp3-to-youtube-transition-for-2024/"><u>[New] From Tape to Trending Seamless MP3 to YouTube Transition for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-how-to-re-watch-lost-youtube-scenes-online-simple-steps-for-2024/"><u>[New] How to Re-Watch Lost YouTube Scenes Online Simple Steps for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-make-a-youtube-trailer-by-filmora/"><u>[New] In 2024, How to Make a YouTube Trailer by Filmora</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-make-collab-videos-and-grow-your-channel/"><u>[New] In 2024, How to Make Collab Videos and Grow Your Channel?</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-flawless-footage-with-best-stabilizer-brands/"><u>[Updated] In 2024, Flawless Footage with Best Stabilizer Brands</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-free-online-webinar-conduct-with-youtube/"><u>[Updated] In 2024, Free Online Webinar Conduct with YouTube</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-unleash-creative-potential-at-no-expense-dive-into-the-world-of-green-screen-with-free-lessons-from-youtube-channels/"><u>[Updated] Unleash Creative Potential at No Expense Dive Into the World of Green Screen with Free Lessons From YouTube Channels</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/2024-approved-transform-conference-dynamics-altering-backgrounds-on-chrome/"><u>2024 Approved Transform Conference Dynamics Altering Backgrounds on Chrome</u></a></li>
-<li><a href="https://discover-blog.techidaily.com/doxio-and-abbyy-transformer-votre-management-de-fichiers-en-une-experience-innovante/"><u>Doxio & ABBYY: Transformer Votre Management De Fichiers en Une Expérience Innovante</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fix-your-call-of-duty-wwii-black-screen-glitch-on-a-windows-system/"><u>Fix Your Call of Duty: WWII Black Screen Glitch on a Windows System</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-reset-your-vivo-s18-lock-screen-password-by-drfone-android/"><u>How to Reset your Vivo S18 Lock Screen Password</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-itel-a05s-to-laptop-without-usb-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Itel A05s to Laptop Without USB | Dr.fone</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-stolen-iphone-11-pro-in-different-conditionsin-by-drfone-ios/"><u>How To Unlock Stolen iPhone 11 Pro In Different Conditionsin</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/step-by-step-guide-to-repairing-google-hangouts-microphone-problems/"><u>Step-by-Step Guide to Repairing Google Hangouts Microphone Problems</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/updated-in-2024-unleash-your-creativity-top-5-hand-drawing-whiteboard-animation-software/"><u>Updated In 2024, Unleash Your Creativity Top 5 Hand Drawing Whiteboard Animation Software</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-flv-to-youtube-stardom-top-10-video-conversion-tools-reviewed/"><u>[New] 2024 Approved From FLV to YouTube Stardom Top 10 Video Conversion Tools Reviewed</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-free-and-uncomplicated-youtube-image-extractor-tools-reviewed-for-2024/"><u>[New] Free and Uncomplicated YouTube Image Extractor Tools Reviewed for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-free-high-quality-youtube-banner-samples-inside-for-2024/"><u>[New] Free High-Quality YouTube Banner Samples Inside for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-maximize-engagement-auto-resized-videos-from-mac-for-instagram/"><u>[New] Maximize Engagement Auto-Resized Videos From Mac for Instagram</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-high-ranking-videos-youtubes-everlasting-classics/"><u>[Updated] 2024 Approved High-Ranking Videos YouTube’s Everlasting Classics</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-from-newbie-to-pro-your-complete-guide-to-creator-studio-for-2024/"><u>[Updated] From Newbie to Pro Your Complete Guide to Creator Studio for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-basics-to-blockbusters-building-an-audience-on-gaming-channels/"><u>[Updated] In 2024, From Basics to Blockbusters Building an Audience on Gaming Channels</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/comprehensive-guide-installing-and-updating-epson-ds-510-printer-driver-for-windows-users/"><u>Comprehensive Guide: Installing and Updating Epson DS-510 Printer Driver for Windows Users</u></a></li>
+<li><a href="https://win-answers.techidaily.com/disco-elysium-stable-launch-no-more-issues-on-your-pc/"><u>Disco Elysium Stable Launch: No More Issues On Your PC</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210167612-9781643506692-dreams-and-symbols/"><u>Dreams and Symbols | Free Book</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-can-i-get-more-stardust-in-pokemon-go-on-infinix-note-30-pro-drfone-by-drfone-virtual-android/"><u>How can I get more stardust in pokemon go On Infinix Note 30 Pro? | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-stop-google-chrome-from-tracking-your-location-on-samsung-galaxy-f04-drfone-by-drfone-virtual-android/"><u>How to Stop Google Chrome from Tracking Your Location On Samsung Galaxy F04? | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-rhythm-discoverers-toolkit-all-free-and-online/"><u>In 2024, Rhythm Discoverer’s Toolkit – All FREE & Online</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/top-15-activities-for-podcast-enthusiasts/"><u>Top 15 Activities for Podcast Enthusiasts</u></a></li>
 </ul></div>
 

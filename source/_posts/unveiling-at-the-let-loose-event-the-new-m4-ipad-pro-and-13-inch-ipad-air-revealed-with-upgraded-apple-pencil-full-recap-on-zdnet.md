@@ -1,7 +1,7 @@
 ---
 title: "Unveiling at the Let Loose Event: The New M4 iPad Pro and 13-Inch iPad Air Revealed with Upgraded Apple Pencil - Full Recap on ZDNet"
-date: 2024-11-22T17:35:50.269Z
-updated: 2024-11-28T17:48:17.098Z
+date: 2024-12-03T21:19:33.309Z
+updated: 2024-12-07T22:16:00.245Z
 tags:
   - apple
 categories:
@@ -26,15 +26,15 @@ Tim Cook kicked off the event by speaking about how the Apple Vision Pro has bee
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Everything announced at Apple's 'Let Loose' event
 
 Apple's "Let Loose" was a virtual product launch event that took place on May 7, at 7 am PT/10 am ET. It lasted about 35 minutes and was live-streamed on [Apple.com](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2F&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp), [YouTube](https://www.youtube.com/watch?v=f1J38FlDKxo), and via the Apple TV app. 
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 1\. iPad Pro, now with OLED displays and M4
 
@@ -57,7 +57,7 @@ Like previous generations, Apple is making the latest iPad Pro available in 11-i
 The iPad Pro starts at $999 for the 11-inch model and $1,299 for the 13-inch model. It's available in Silver and Space Black, with storage sizes ranging from 256GB to 2TB. You can [available to preorder now](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-ipad%2Fipad-pro&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp), with orders shipping next week.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. iPad Air gets a new, larger size
@@ -93,7 +93,7 @@ Apple
 The Apple Pencil Pro costs $129 and supports Apple's Find My service, letting you track the location of the accessory should you drop or misplace it. You can purchase the [Apple Pencil Pro](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fproduct%2FMX2D3AM%2FA%2Fapple-pencil-pro&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) today, and it will start shipping next week.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Magic Keyboard
@@ -102,13 +102,13 @@ Apple
 
 The iPad event also included a new, more durable Magic Keyboard, featuring a larger trackpad and a function row along the top. The Magic Keyboard's new look and upgraded aluminum construction is meant to make the iPad Pro look and feel more like a laptop, rather than a tablet with an optional keyboard case.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Why would Apple host an event before WWDC?
 
 Although Apple is hosting its [Worldwide Developers Conference (WWDC)](https://www.zdnet.com/article/apple-confirms-wwdc-2024-for-june-10-will-ai-steal-the-show/) on June 10, that event is reserved for new iOS, iPadOS, visionOS, and macOS announcements, plus Apple's new AI strategy. The Let Loose event was focused on the latest hardware offerings, with the [OLED iPad Pro](https://www.zdnet.com/article/7-ipad-pro-features-that-would-make-me-instantly-upgrade-to-apples-next-model/) being the main star.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Did the Let Loose event cover iPadOS 17.5 or iPadOS 18?
 
@@ -123,7 +123,7 @@ Logic Pro 2 introduces Session Players, an AI-created Bass and Keyboard player a
 iOS 17.5 doesn't have many exciting new features outside of the European Union, where iPhone users can now [download apps directly from websites](https://www.zdnet.com/article/apple-to-let-eu-users-download-apps-from-the-web-with-ios-17-5-beta-2-how-it-works/). The new devices are expected to ship with iPadOS 17.5, but these features are available for iPadOS 17.4.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How do I watch Apple's Let Loose event?
@@ -160,16 +160,24 @@ The Apple Let Loose event was a pre-recorded video but is still available for st
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-files.techidaily.com/2024-approved-premium-fb-video-tools-optimized-for-firefox-users/"><u>2024 Approved Premium FB Video Tools - Optimized For FireFox Users</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1722969941665-get-the-latest-amd-vega-drivers-streamlined-downloads-and-upgrades-for-players/"><u>Get the Latest AMD Vega Drivers: Streamlined Downloads and Upgrades for Players</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/how-secure-is-single-sign-on-technology-an-in-depth-guide/"><u>How Secure Is Single Sign-On Technology: An In-Depth Guide</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/ideal-techniques-for-noiseless-recording-for-2024/"><u>Ideal Techniques for Noiseless Recording for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/july-12th-insights-deciphering-new-york-times-connections-397/"><u>July 12Th Insights: Deciphering New York Times Connections #397</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/july-23rd-insights-and-answers-from-the-new-york-times-exclusive-update-408/"><u>July 23Rd Insights & Answers From the New York Times: Exclusive Update #408</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/june-5th-new-york-times-connection-question-and-answer-insight-360/"><u>June 5Th New York Times Connection Question & Answer: Insight #360</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/majority-of-search-engines-face-reddits-restrictive-access-policy/"><u>Majority of Search Engines Face Reddit's Restrictive Access Policy</u></a></li>
-<li><a href="https://review-topics.techidaily.com/recover-lost-data-from-oppo-find-x7-ultra-by-fonelab-android-recover-data/"><u>Recover lost data from Oppo Find X7 Ultra</u></a></li>
-<li><a href="https://win-cheats.techidaily.com/1726226695444-rmvbmkvmovavi/"><u>RMVB到MKV自由轉換：利用在線移動Movavi工具快速改編</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/tales-of-timeless-togetherness-this-seasons-top-10/"><u>Tales of Timeless Togetherness This Season's Top 10</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-fresh-concepts-for-youtube-channels-inspiration-at-its-peak/"><u>[New] 2024 Approved Fresh Concepts for YouTube Channels Inspiration at Its Peak</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-harness-the-power-of-youtube-videos-to-create-stunning-gifs-online/"><u>[New] 2024 Approved Harness the Power of Youtube Videos to Create Stunning Gifs Online</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/xtract-youtube-soundtracks-for-free-with-this-list-of-25-rippers-for-2024/"><u>[New] Extract YouTube Soundtracks for Free With This List of 25 Rippers for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-for-students-discover-the-top-10-historical-youtube-channels-now-for-2024/"><u>[New] For Students, Discover the Top 10 Historical YouTube Channels Now for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-device-to-platform-a-comprehensive-guide-to-uploading-vids-on-ios/"><u>[New] In 2024, From Device to Platform A Comprehensive Guide to Uploading Vids on iOS</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-capitalize-on-youtube-shorts-must-knows-earning-prospects/"><u>[New] In 2024, How to Capitalize on Youtube Shorts Must-Knows, Earning Prospects</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-gourmet-guide-producing-culinary-content/"><u>[Updated] 2024 Approved Gourmet Guide Producing Culinary Content</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-groundbreaking-insights-into-asmr-recordings-for-2024/"><u>[Updated] Groundbreaking Insights Into ASMR Recordings for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-how-regular-are-youtube-monetization-payments-in-2024/"><u>[Updated] How Regular Are YouTube Monetization Payments, In 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-rip-audio-from-youtube-in-3-ways-free-and-safe/"><u>[Updated] In 2024, How to Rip Audio From YouTube in 3 Ways [Free and Safe]</u></a></li>
+<li><a href="https://facebook.techidaily.com/attracting-prose-masters-fbs-strategic-5m-bet-on-journalist-platforms/"><u>Attracting Prose Masters: FB's Strategic $5M Bet on Journalist Platforms</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/audible-savings-the-essential-guide-to-using-these-24-no-cost-splitters-on-youtube/"><u>Audible Savings The Essential Guide to Using These 24 No-Cost Splitters on YouTube</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/error-free-windows-a-guide-to-solving-advapi32dll-not-found-issues/"><u>Error-Free Windows: A Guide to Solving advapi32.dll Not Found Issues</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-reset-a-locked-oneplus-open-phone-by-drfone-android/"><u>How to Reset a Locked OnePlus Open Phone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-can-i-catch-the-regional-pokemon-without-traveling-on-tecno-spark-go-2024-drfone-by-drfone-virtual-android/"><u>In 2024, How Can I Catch the Regional Pokémon without Traveling On Tecno Spark Go (2024) | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-spotify-location-after-moving-to-another-country-on-nokia-130-music-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Spotify Location After Moving to Another Country On Nokia 130 Music | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-optimal-series-prime-webcam-support-accessories/"><u>In 2024, Optimal Series Prime Webcam Support Accessories</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolved-tailored-configuration-options-failure-no-longer-an-issue/"><u>Resolved: Tailored Configuration Options Failure No Longer an Issue</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/the-path-to-profitable-fb-animation-ad-success-stories-for-2024/"><u>The Path to Profitable FB Animation Ad Success Stories for 2024</u></a></li>
 </ul></div>
 

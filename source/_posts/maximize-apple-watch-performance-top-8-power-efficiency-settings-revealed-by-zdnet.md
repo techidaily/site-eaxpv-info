@@ -1,7 +1,7 @@
 ---
 title: "Maximize Apple Watch Performance: Top 8 Power-Efficiency Settings Revealed by ZDNet."
-date: 2024-11-01T07:41:11.848Z
-updated: 2024-11-02T02:12:44.459Z
+date: 2024-12-06T20:41:13.823Z
+updated: 2024-12-08T00:02:05.582Z
 tags:
   - apple
 categories:
@@ -36,6 +36,10 @@ Even with a healthy battery life in my device, I'm not sure when the problem ori
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Turn off the always-on display
 
 This is the most effective thing you can do to preserve your Apple Watch's battery life. While yes, it can be super inconvenient to ditch the always-on display, it can be the difference between your Apple Watch lasting all day and it dying before dinner time. I turned mine off for a weekend and was surprised to find that it greatly enhances endurance, albeit not to the point of pre-watchOS 10.
@@ -43,16 +47,7 @@ This is the most effective thing you can do to preserve your Apple Watch's batte
 **How to:** On your Apple Watch, head to Settings > Display & Brightness > Always On, then toggle the feature off.
 
 <!-- affiliate ads begin -->
-<span id="1912746">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1912746.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20231-1912746">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1912746.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmindmanager.sjv.io%2Fc%2F5597632%2F1912746%2F20231'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1912746/20231" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Use Low Power Mode when you can
@@ -72,10 +67,7 @@ If you have an Apple Watch with cellular connectivity, it's best to not use your
 Jason Hiner/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014848/22899" target="_top" id="2014848">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014848" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014848/22899" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Turn off background app refresh
@@ -96,6 +88,10 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5\. Turn off irregular heart rate notifications
 
 With some of the newest Apple Watches, Apple includes a feature that can alert you when your heart rate is beating in irregular intervals and alert you when it may be atrial fibrillation. While that's nice to have for tracking your health over time, it means the heart rate sensor is constantly on collecting your heart rate, which isn't good for battery life.
@@ -110,6 +106,10 @@ When a notification comes in, it not only plays a "ding!" to alert you, it also 
 
 **Also:** [**Your Apple Watch is getting an upgrade - here are the best features in WatchOS 11**](https://www.zdnet.com/article/your-apple-watch-is-getting-an-upgrade-here-are-the-best-features-in-watchos-11/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 7\. Turn off Siri
 
 Ah, Siri. Many people swear by the voice assistant and use it daily to do things like check the weather, start a timer (or two), play some music, or start a workout. But if you're like me (and, presumably, many others), you don't touch Siri at all on your Apple Watch, and it's just sitting there wasting your battery, constantly listening to hear that magical phrase "Hey, Siri." In other words, you should turn it off.
@@ -118,25 +118,11 @@ Ah, Siri. Many people swear by the voice assistant and use it daily to do things
 
 Adrian Kingsley-Hughes/ZDNET
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880956/19272" target="_top" id="1880956">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880956" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880956/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 8\. Factory reset your Apple Watch (a.k.a. the last resort)
 
 I've heard from many folks who have faced issues with battery life on the Apple Watch that it's best to do a complete factory reset. Full disclosure: it's not going to work for everyone, but if you've exhausted every option on your Apple Watch to extend battery life, the battery is still healthy, and you don't want to upgrade, your best bet is to reset it and start from scratch. That way, you can set up your watch and, along the way, spot the app or service that drains your battery the most. It may also help clean up some of the system bloat in watchOS 10 that's led to poor efficiency on your watch.
 
 **How to:** Go to Settings > General > Reset on your Apple Watch, then choose "Erase All Content and Settings." You won't have to disable Find My or get rid of your cellular plan since you'll be setting it up with your iPhone again, but if you want to get rid of absolutely everything, make sure you disable Find My and dump your cellular plan during the process.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134229/18498" target="_top" id="2134229">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134229" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134229/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How we test smartwatches
 
@@ -179,14 +165,20 @@ For a deeper look at our testing process, check out our comprehensive [smartwatc
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/boost-the-visual-excellence-of-your-videos-using-winxvideo-ai-technology/"><u>« Boost the Visual Excellence of Your Videos Using Winxvideo AI Technology »</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-from-average-to-exceptional-discover-the-finest-free-intra-designs-for-2024/"><u>[New] From Average to Exceptional Discover the Finest Free Intra Designs for 2024</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/new-in-2024-discover-top-10-cost-free-srt-file-conversion-tools/"><u>[New] In 2024, Discover Top 10 Cost-Free Srt File Conversion Tools</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-make-a-memorable-impact-with-youtubes-minis/"><u>[New] In 2024, How to Make a Memorable Impact with Youtube's Minis</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/new-the-serenity-of-silence-premier-asmr-talents/"><u>[New] The Serenity of Silence Premier ASMR Talents</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-satirize-a-guide-to-parody-production/"><u>[Updated] 2024 Approved How to Satirize A Guide to Parody Production</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-finding-your-audio-voice-match-the-perfect-mic-to-your-channels-character/"><u>[Updated] In 2024, Finding Your Audio Voice Match the Perfect Mic to Your Channel's Character</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-mastering-video-privacy-directly-share-yt-clips-using-googleid/"><u>[Updated] Mastering Video Privacy Directly Share YT Clips Using GoogleID</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-macpc-vmix-bridge-software/"><u>2024 Approved MacPC VMix Bridge Software</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-the-dynamic-duo-of-yi-and-4k-in-action-video/"><u>[New] 2024 Approved The Dynamic Duo of Yi and 4K in Action Video</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-foremost-frame-openers-identifying-the-most-effective-16-youtube-intros-for-2024/"><u>[New] Foremost Frame Openers Identifying the Most Effective 16 YouTube Intros for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-free-easy-and-fast-youtubes-best-subtitle-getters/"><u>[New] In 2024, Free, Easy and Fast YouTube's Best Subtitle Getters</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-harnessing-the-power-of-short-videos-for-maximum-income/"><u>[New] In 2024, Harnessing the Power of Short Videos for Maximum Income</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-fresh-alternative-films-to-dive-into-7-favorites/"><u>[Updated] 2024 Approved Fresh Alternative Films to Dive Into, #7 Favorites</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-getting-started-with-pro-level-youtube-tech/"><u>[Updated] 2024 Approved Getting Started with Pro-Level YouTube Tech</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-gif-editor-how-to-make-animated-gif-images-online-from-youtube-video-for-2024/"><u>[Updated] GIF Editor How to Make Animated GIF Images Online From YouTube Video for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-in-2024-craft-your-story-leading-drawers-in-ipados/"><u>[Updated] In 2024, Craft Your Story Leading Drawers in iPadOS</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-couch-to-chart-topper-skyrocketing-your-channels-views/"><u>[Updated] In 2024, From Couch to Chart-Topper Skyrocketing Your Channel's Views</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/fast-track-to-using-microsoft-copilot-with-your-macos-devices/"><u>Fast Track to Using Microsoft Copilot with Your macOS Devices</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-messages-from-honor-x50iplus-by-fonelab-android-recover-messages/"><u>How to retrieve erased messages from Honor X50i+</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-3-effective-methods-to-fake-gps-location-on-android-for-your-motorola-defy-2-drfone-by-drfone-virtual/"><u>In 2024, 3 Effective Methods to Fake GPS location on Android For your Motorola Defy 2 | Dr.fone</u></a></li>
+<li><a href="https://fox-links.techidaily.com/in-2024-exploring-the-expense-of-youtube-channel-growth/"><u>In 2024, Exploring the Expense of YouTube Channel Growth</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/speeding-up-ukrainian-mastery-quick-daily-routine-98-chars/"><u>Speeding Up Ukrainian Mastery: Quick Daily Routine (98 Chars)</u></a></li>
+<li><a href="https://driver-install.techidaily.com/wacom-bamboo-quick-firmware-upgrade-steps/"><u>Wacom Bamboo: Quick Firmware Upgrade Steps</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Unlocking Storage: A Step-by-Step Guide to Clear Your iPhone Memory & Save GBs | Tech Insights"
-date: 2024-11-23T17:31:03.587Z
-updated: 2024-11-28T16:35:05.853Z
+date: 2024-12-02T21:39:43.764Z
+updated: 2024-12-07T23:11:53.212Z
 tags:
   - apple
 categories:
@@ -28,14 +28,10 @@ If you want to follow along, you'll need to install the iOS 18 public beta on an
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to customize your iPhone's new Control Center with iOS 18
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Access Control Center
@@ -45,7 +41,7 @@ To display Control Center, swipe down from the top-right corner of the screen. Y
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Move the available controls
@@ -62,11 +58,19 @@ After tapping the plus icon, some controls sport a gray curved handle in the low
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4\. Delete a control
 
 Next, you can directly delete a control you don't need or want. With the icons in edit mode, tap the minus sign for the icon you want to remove. When the icon is deleted, the surrounding icons should move to fill up the gap.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Add a control to an existing screen
 
@@ -77,7 +81,7 @@ Screenshot by Lance Whitney/ZDNET
 **Also: [I did not expect this iOS 18 feature announced at WWDC to be my favorite (and it's not AI)](https://www.zdnet.com/article/i-did-not-expect-this-ios-18-feature-announced-at-wwdc-to-be-my-favorite-and-its-not-ai/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6\. Add a control to a new screen
@@ -85,10 +89,6 @@ Screenshot by Lance Whitney/ZDNET
 If the current screens are already filled with icons, you can set up additional screens to hold more controls. Swipe down to the last screen, which shouldn't have any free space. Tap the plus icon and then tap "Add a Control." Again, browse or search for the control you wish to add. Tap that control, and it should appear in a new screen. You can continue adding more controls to the new screen this way. You can create as many as 15 screens, though you'll probably want to stop before you reach that number.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 7\. Power down from Control Center
 
@@ -126,22 +126,24 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/024-approved-leading-youtube-snack-seekers-free-top-downloads/"><u>[New] 2024 Approved Leading YouTube Snack Seekers Free, Top Downloads</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-advanced-vision-systems-with-green-promise/"><u>[New] In 2024, Advanced Vision Systems with Green Promise</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-social-media-sovereigns-ranked-by-youtube-subscribers/"><u>[Updated] 2024 Approved Social Media Sovereigns Ranked by YouTube Subscribers</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-mastering-zoom-for-enhanced-tiktok-streams/"><u>[Updated] Mastering Zoom for Enhanced TikTok Streams</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-top-ranked-instagram-tunes-and-secrets-for-exceptional-call-alerts/"><u>2024 Approved Top-Ranked Instagram Tunes & Secrets for Exceptional Call Alerts</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/2024-approved-translate-video-speech-to-text-with-speech-to-text-converters/"><u>2024 Approved Translate Video Speech to Text with Speech-to-Text Converters</u></a></li>
-<li><a href="https://howto.techidaily.com/calls-on-tecno-spark-20-go-straight-to-voicemail-12-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Calls on Tecno Spark 20 Go Straight to Voicemail? 12 Fixes | Dr.fone</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/download-per-come-fare-converti-il-dvd-in-formato-mp4-su-una-chiavetta-usb-con-semplicita/"><u>Download per Come Fare: Converti Il DVD in Formato MP4 Su Una Chiavetta USB Con Semplicità!</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/expert-tips-on-transforming-mov-video-clips-to-crisp-and-clear-wav-format-without-losing-sound-integrity/"><u>Expert Tips on Transforming MOV Video Clips to Crisp and Clear WAV Format Without Losing Sound Integrity</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/fixing-hevc-video-issues-in-windows-a-comprehensive-solution-manual-for-windows-10-and-11/"><u>Fixing HEVC Video Issues in Windows: A Comprehensive Solution Manual for WINDOWS 10 and 11</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/hochskalieren-sie-ihre-videos-auf-hd4k-eine-anleitung-fur-windows-und-mac/"><u>Hochskalieren Sie Ihre Videos Auf HD/4K - Eine Anleitung Für Windows Und Mac</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-free-photo-manipulation-software-top-picks/"><u>In 2024, Free Photo Manipulation Software Top Picks</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/leading-apps-to-record-your-screen-on-windows-pc-versions-11-8-and-7-entire-display-and-specific-areas/"><u>Leading Apps to Record Your Screen on Windows PC (Versions 11, 8, & 7) - Entire Display and Specific Areas</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/symptoms-of-hfref-are-similar-to-those-of-diastolic-dysfunction-but-also-include-peripheral-edema-and-ascites-due-to-systemic-congestion/"><u>Symptoms of HFrEF Are Similar to Those of Diastolic Dysfunction but Also Include Peripheral Edema and Ascites Due to Systemic Congestion.</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/top-3-complimentary-cd-ripping-tools-for-windows-11-users-get-the-complete-guide/"><u>Top 3 Complimentary CD Ripping Tools for Windows 11 Users, Get the Complete Guide!</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/updated-2024-approved-unbiased-review-is-videopad-video-editor-the-right-fit-for-you/"><u>Updated 2024 Approved Unbiased Review Is Videopad Video Editor the Right Fit for You ?</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/44oa44kk44k444kn44og44kj44km44kj44oz44ko44od44kv44k544oh44kj44ot44o744gk5zwp44ge5zci44kp44gb44oq44k544oiic0g44k144od44o844oi55sz44gx6l6844g/"><u>ダイジェティウィンエックスディビ・お問い合わせリスト - サポート申し込み</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-optimize-youtube-submissions-for-extended-films/"><u>[New] 2024 Approved How to Optimize YouTube Submissions for Extended Films</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-filmmakers-choice-for-steady-videos-for-2024/"><u>[New] Filmmaker's Choice for Steady Videos for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-from-vision-to-value-an-all-inclusive-guide-on-analyzing-views-clicks-and-monetization-for-2024/"><u>[New] From Vision to Value An All-Inclusive Guide on Analyzing Views, Clicks, & Monetization for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-in-2024-command-your-tech-not-money-needed/"><u>[New] In 2024, Command Your Tech, Not Money Needed</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-harnessing-monetization-potential-with-youtube-ad-strategies/"><u>[New] In 2024, Harnessing Monetization Potential with YouTube Ad Strategies</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-leading-voice-modifying-apps-magical-calls-and-more/"><u>[New] In 2024, Leading Voice-Modifying Apps Magical Calls & More</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-in-2024-techniques-for-streamlining-video-addition-to-youtube-playlists/"><u>[New] In 2024, Techniques for Streamlining Video Addition to YouTube Playlists</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-master-9-quick-remedies-for-social-media-video/"><u>[New] Master 9 Quick Remedies for Social Media Video</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-find-your-digital-companion-the-top-6-youtube-personality-puzzles-for-2024/"><u>[Updated] Find Your Digital Companion The Top 6 YouTube Personality Puzzles for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-from-newcomer-to-pro-a-step-by-step-creator-hub-guidebook-for-2024/"><u>[Updated] From Newcomer to Pro A Step-by-Step Creator Hub Guidebook for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-get-paid-to-review-products-on-youtube-for-2024/"><u>[Updated] How to Get Paid to Review Products on YouTube for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-maximize-your-youtube-shorts-earnings-for-2024/"><u>[Updated] How to Maximize Your YouTube Shorts Earnings for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-youtube-to-webm-unveiling-the-premium-converters/"><u>[Updated] In 2024, From YouTube to WebM Unveiling the Premium Converters</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/chromatic-confluence-music-and-photography-online-for-2024/"><u>Chromatic Confluence Music & Photography Online for 2024</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-frp-from-tecno-spark-10-4g-by-drfone-android/"><u>How to Bypass FRP from Tecno Spark 10 4G?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-remove-google-frp-lock-on-oppo-a79-5g-by-drfone-android-unlock-remove-google-frp/"><u>How to remove Google FRP Lock on Oppo A79 5G</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-teleport-your-gps-location-on-honor-x7b-drfone-by-drfone-virtual-android/"><u>How To Teleport Your GPS Location On Honor X7b? | Dr.fone</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/truescreenpro-windows-10s-choice/"><u>TrueScreenPro Windows 10'S Choice</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/mxf-to-mov-movavi/"><u>フリーなオンラインツールでMXF to MOV変換 – Movaviを超える品質</u></a></li>
 </ul></div>
 

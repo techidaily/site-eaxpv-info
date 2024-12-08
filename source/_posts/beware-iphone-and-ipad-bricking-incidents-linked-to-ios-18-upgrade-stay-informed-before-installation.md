@@ -1,7 +1,7 @@
 ---
 title: Beware! IPhone and iPad Bricking Incidents Linked to iOS 18 Upgrade | Stay Informed Before Installation
-date: 2024-11-23T19:21:02.059Z
-updated: 2024-11-28T16:46:14.078Z
+date: 2024-12-05T21:13:28.925Z
+updated: 2024-12-07T20:28:32.833Z
 tags:
   - apple
 categories:
@@ -45,13 +45,13 @@ To help you make this decision, we've broken down all of the most important deta
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  You should buy the iPhone 16 if...
 
 Kerry Wan/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ###  1\. You'd benefit from Apple Intelligence features
 
@@ -60,10 +60,6 @@ Apple is rolling out [multiple AI features to the iPhone 16](https://www.zdnet.c
 **Also: [Your AIrPods Pro 2 can soon double as over-the-counter hearing aids. Here's how](https://www.zdnet.com/article/your-airpods-pro-2-can-soon-double-as-over-the-counter-hearing-aids-heres-how/)**
 
 There is more to the AI features beyond Siri. Apple Intelligence will be able to summarize notifications and Priority Messages in the Mail app. Like Siri, the feature will be able to understand context. [Apple Intelligence](https://www.zdnet.com/article/what-is-apple-intelligence-everything-to-know-about-ai-features-coming-to-iphones-macs-and-ipads/) will gain additional features later in the year like the ability to create custom emojis and perform multiple actions across apps.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ###  2\. You want a better photography experience
 
@@ -74,7 +70,7 @@ The [iPhone 16](https://www.zdnet.com/article/every-iphone-16-model-compared-whi
 On the side below the [Power Button is the new Camera Control](https://www.zdnet.com/article/every-iphone-16-model-features-a-new-camera-button-heres-what-it-can-do/). It's a tactile switch with a special sensor that can perform unique actions with a light touch. For example, pressing it quickly launches the Camera app for taking quick snapshots or recording a video. It even introduces a preview feature to help you frame the shot. And if that wasn't enough, it'll work with third-party apps.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ###  3\. You want "next-level performance"
@@ -96,12 +92,16 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  You should buy the iPhone 15 if...
 
 Kerry Wan/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ###  1\. You don't require the generative AI capabilities
 
@@ -111,10 +111,6 @@ All of the bells and whistles on the iPhone 16 are certainly nice, but are they 
 
 Sometimes, it's best to wait until all the bugs have been ironed out. Plus, there's a lot of uncertainty surrounding the chipset. Early impressions indicate the A18 can handle all the AI features, but can it? Or will we see a performance drop once it launches? 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ###  2\. You're on a budget
 
 With the release of a new model, older phones often see a price drop, and that is exactly what we're getting here. Apple has cut the price of the iPhone 15 by about $100 off its digital storefront to entice new adopters. 
@@ -122,6 +118,10 @@ With the release of a new model, older phones often see a price drop, and that i
 It wouldn't be a bad pick-up, either. The camera system of the previous generation is great to this day, the A16 Bionic chip is still plenty powerful, and the Dynamic Island is a welcomed addition. You can enjoy a similar camera performance. Plus, you won't be bogged down by nascent AI features you may or may not ever use. 
 
 [Buy the iPhone 15 $729.99 at Best Buy](https://shop-links.co/link/?url=https%3A%2F%2Fbestbuy.7tiv.net%2Fc%2F376373%2F633495%2F10014%3Fprodsku%3D6417992%26u%3Dhttp%253A%252F%252Fwww.bestbuy.com%252Fsite%252F-%252F6417992.p%253Fcmp%253DRMX&publisher_slug=itechdaily19598&exclusive=1)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Alternatives to consider
 
@@ -157,24 +157,22 @@ It wouldn't be a bad pick-up, either. The camera system of the previous generati
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-the-cold-weather-spectacle-of-beijing-2022-for-2024/"><u>[New] The Cold-Weather Spectacle of Beijing 2022 for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-in-2024-master-upside-down-and-sideways-iphone-photo-rotation/"><u>[Updated] In 2024, Master Upside-Down and Sideways iPhone Photo Rotation</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/1-quick-and-easy-dvd-conversion-winx-dvd-ripper-platinum-transform-your-dvds-to-hd-quality-mp4-in-minutes/"><u>1. Quick & Easy DVD Conversion: WinX DVD Ripper Platinum - Transform Your DVDs to HD-Quality MP4 in Minutes!</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-optimal-storage-savings-for-the-digital-age/"><u>2024 Approved Optimal Storage Savings for the Digital Age</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/1725288703144-5/"><u>見栄えを変えるヒット作：画像修正の達人・ピンボケ解消5つ法徹底説明</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/1725284320766-dvddvd/"><u>効果的な手順でDVDレコーダーを活用して新旧DVD間でデュアル複写方法</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/1725290118003-dvd-dvd/"><u>最新無料DVDコピーツール使用の詳細と問題解決法 - DVDコピーガイド</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/decoding-srt-a-detailed-reference-guide/"><u>Decoding SRT A Detailed Reference Guide</u></a></li>
-<li><a href="https://article-posts.techidaily.com/groundbreaking-companies-at-the-vr-content-frontier/"><u>Groundbreaking Companies at the VR Content Frontier</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/how-to-make-slow-motion-videos-for-instagram/"><u>How to Make Slow Motion Videos for Instagram</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/how-to-rip-and-play-movies-from-dvd-on-windows-11-pc-or-microsoft-surface-hub/"><u>How to Rip and Play Movies From DVD on Windows 11 PC or Microsoft Surface Hub</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/must-have-kindle-gadgets-for-book-lovers-unlocking-hidden-features/"><u>Must-Have Kindle Gadgets for Book Lovers: Unlocking Hidden Features</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/securing-an-invitation-to-utilize-the-openai-sora-platform-an-inclusive-manual/"><u>Securing an Invitation to Utilize the OpenAI Sora Platform - An Inclusive Manual</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/solving-vlc-media-player-errors-fixing-unable-to-open-mrl-issues/"><u>Solving VLC Media Player Errors - Fixing 'Unable to Open MRL' Issues</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/step-by-step-guide-on-installing-handbrake-libdvdcss-with-images-windows-11-and-macos/"><u>Step-by-Step Guide on Installing HandBrake Libdvdcss with Images - Windows 11 & macOS</u></a></li>
-<li><a href="https://techidaily.com/step-by-step-tutorial-reading-system-error-messages-in-windows/"><u>Step-by-Step Tutorial: Reading System Error Messages in Windows</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-how-to-restore-sounds-on-a-realtek-audio-device-after-silence/"><u>Troubleshooting Guide: How to Restore Sounds on a Realtek Audio Device After Silence</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/troubleshooting-tips-for-overcoming-itunes-error-9-on-ios-devices-post-update/"><u>Troubleshooting Tips for Overcoming iTunes Error 9 on iOS Devices Post-Update</u></a></li>
-<li><a href="https://techtrends.techidaily.com/unlocking-the-secrets-apples-new-wearable-with-built-in-microphone-price-predictions-and-specs-inside/"><u>Unlocking the Secrets: Apple's New Wearable with Built-In Microphone – Price Predictions and Specs Inside</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-one-off-to-firm-follower-an-ethical-approach/"><u>[New] 2024 Approved From One-Off to Firm Follower An Ethical Approach</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/hannel-visualization-selecting-the-ideal-size-and-placement-for-yt-for-2024/"><u>[New] Channel Visualization Selecting the Ideal Size and Placement for YT for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-embracing-high-dynamic-range-transforming-your-video-outputs-for-2024/"><u>[New] Embracing High Dynamic Range Transforming Your Video Outputs for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-game-based-youtube-earning-guide-for-2024/"><u>[New] Game-Based YouTube Earning Guide for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-go-green-for-effective-ctas-via-subscription-for-2024/"><u>[New] Go Green for Effective CTAs via Subscription for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-fixing-popular-youtube-short-snafus/"><u>[New] In 2024, Fixing Popular YouTube Short Snafus</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-zero-to-hero-learning-the-art-of-youtube-content/"><u>[New] In 2024, From Zero to Hero Learning the Art of YouTube Content</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-glamour-unleashed-comprehensive-youtube-guide-to-elegance/"><u>[New] In 2024, Glamour Unleashed Comprehensive YouTube Guide to Elegance</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-top-11-youtube-video-rippers-to-download-youtube-videos-for-2024/"><u>[New] Top 11 YouTube Video Rippers to Download YouTube Videos for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-harmonizing-lifestyle-through-the-most-inspiring-yoga-vlogs-for-2024/"><u>[Updated] Harmonizing Lifestyle Through the Most Inspiring Yoga Vlogs for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-hdr-mastery-transforming-your-portrait-journey/"><u>2024 Approved HDR Mastery Transforming Your Portrait Journey</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/3gpmp3-movavi/"><u>網上免費改造3GP成MP3 - 如何使用Movavi轉換工具</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/empowering-the-future-how-microsoft-aims-to-teach-ai-skills-to-25m-people-in-southeast-asia-as-revealed-by-zdnet/"><u>Empowering the Future: How Microsoft Aims to Teach AI Skills to 2.5M People in Southeast Asia, as Revealed by ZDNet</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-system-issues-of-iphone-7-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair System Issues of iPhone 7? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-whatsapp-from-iphone-15-pro-to-other-iphone-12-pro-max-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From iPhone 15 Pro to other iPhone 12 Pro Max devices? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/locked-out-of-apple-iphone-11-pro-max-5-ways-to-get-into-a-locked-apple-iphone-11-pro-max-drfone-by-drfone-ios/"><u>Locked Out of Apple iPhone 11 Pro Max? 5 Ways to get into a Locked Apple iPhone 11 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/mastering-encryption-device-issues-on-pci-interface-now-stable/"><u>Mastering Encryption Device Issues on PCI Interface [Now Stable]</u></a></li>
 </ul></div>
 

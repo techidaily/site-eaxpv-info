@@ -1,7 +1,7 @@
 ---
 title: Explore Apple's Innovation Showcase with Enhanced Pencil and Next-Gen Tablets at the 'Let Loose' Release
-date: 2024-11-24T17:33:08.488Z
-updated: 2024-11-28T17:00:09.437Z
+date: 2024-12-05T17:05:41.805Z
+updated: 2024-12-07T22:54:40.773Z
 tags:
   - apple
 categories:
@@ -27,7 +27,7 @@ Tim Cook kicked off the event by speaking about how the Apple Vision Pro has bee
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Everything announced at Apple's 'Let Loose' event
@@ -56,10 +56,6 @@ Like previous generations, Apple is making the latest iPad Pro available in 11-i
 
 The iPad Pro starts at $999 for the 11-inch model and $1,299 for the 13-inch model. It's available in Silver and Space Black, with storage sizes ranging from 256GB to 2TB. You can [available to preorder now](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-ipad%2Fipad-pro&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp), with orders shipping next week.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2\. iPad Air gets a new, larger size
 
 Apple
@@ -75,6 +71,10 @@ Apple
 Unlike the M4-equipped iPad Pro, the iPad Air comes with an M2 chip, making it almost 50% faster than the previous model with M1 and three times faster than the A13 Bionic model. The faster processor supports AI editing in photos with a single tap on the screen, as well as Apple Pencil hover, whether you use the lower-cost USB-C version or the new Apple Pencil Pro.
 
 The new iPad Air is available in Blue, Purple, Starlight, and Space Gray, with [prices starting at $599](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-ipad%2Fipad-air&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) for the 11-inch iPad Air, and $799 for the 13-inch model.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Apple Pencil Pro
 
@@ -92,10 +92,6 @@ Apple
 
 The Apple Pencil Pro costs $129 and supports Apple's Find My service, letting you track the location of the accessory should you drop or misplace it. You can purchase the [Apple Pencil Pro](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fproduct%2FMX2D3AM%2FA%2Fapple-pencil-pro&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) today, and it will start shipping next week.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4\. Magic Keyboard
 
 Apple
@@ -103,12 +99,16 @@ Apple
 The iPad event also included a new, more durable Magic Keyboard, featuring a larger trackpad and a function row along the top. The Magic Keyboard's new look and upgraded aluminum construction is meant to make the iPad Pro look and feel more like a laptop, rather than a tablet with an optional keyboard case.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Why would Apple host an event before WWDC?
 
 Although Apple is hosting its [Worldwide Developers Conference (WWDC)](https://www.zdnet.com/article/apple-confirms-wwdc-2024-for-june-10-will-ai-steal-the-show/) on June 10, that event is reserved for new iOS, iPadOS, visionOS, and macOS announcements, plus Apple's new AI strategy. The Let Loose event was focused on the latest hardware offerings, with the [OLED iPad Pro](https://www.zdnet.com/article/7-ipad-pro-features-that-would-make-me-instantly-upgrade-to-apples-next-model/) being the main star.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Did the Let Loose event cover iPadOS 17.5 or iPadOS 18?
 
@@ -123,7 +123,7 @@ Logic Pro 2 introduces Session Players, an AI-created Bass and Keyboard player a
 iOS 17.5 doesn't have many exciting new features outside of the European Union, where iPhone users can now [download apps directly from websites](https://www.zdnet.com/article/apple-to-let-eu-users-download-apps-from-the-web-with-ios-17-5-beta-2-how-it-works/). The new devices are expected to ship with iPadOS 17.5, but these features are available for iPadOS 17.4.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How do I watch Apple's Let Loose event?
@@ -160,21 +160,19 @@ The Apple Let Loose event was a pre-recorded video but is still available for st
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-leveraging-nvidia-tools-for-screen-capture/"><u>[New] In 2024, Leveraging NVIDIA Tools for Screen Capture</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-witness-the-blend-the-top-ten-funny-and-deep-ig-meme-accounts/"><u>[Updated] In 2024, Witness the Blend The Top Ten Funny & Deep IG Meme Accounts</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/1-effortless-dvd-to-mp4-conversion-with-winx-free-ripper-for-windows-11-user-friendly-fast-and-cost-free/"><u>1. Effortless DVD to MP4 Conversion with WinX Free Ripper for Windows 11 - User-Friendly, Fast, and Cost-Free</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/1-free-downloads-of-premium-dvd-ripping-and-hd-video-conversion-tools-at-official-winx-download-hub/"><u>1. Free Downloads of Premium DVD Ripping and HD Video Conversion Tools at Official WinX Download Hub</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/2024-approved-5-best-360-degree-action-cameras-you-should-use/"><u>2024 Approved 5 Best 360-Degree Action Cameras You Should Use</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/effective-mp4-file-reduction-strategies-for-enhanced-storage-efficiency-and-top-quality-playback/"><u>Effective MP4 File Reduction Strategies for Enhanced Storage Efficiency and Top-Quality Playback</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/essential-strategies-for-organizing-and-purging-your-dvd-collection-efficiently/"><u>Essential Strategies for Organizing and Purging Your DVD Collection Efficiently</u></a></li>
-<li><a href="https://techtrends.techidaily.com/mitgliedschaftsanfragen-effizient-bearbeiten-wie-help-ev-mit-abbyy-formreader-unterstutzung-fur-freiwillige-bietet/"><u>Mitgliedschaftsanfragen Effizient Bearbeiten - Wie HELP E.V. Mit ABBYY FormReader Unterstützung Für Freiwillige Bietet</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-in-2024-the-ultimate-guide-to-imovie-alternatives-on-windows-10/"><u>New In 2024, The Ultimate Guide to iMovie Alternatives on Windows 10</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/1725288143941-pc-10/"><u>PC용 가장 최고의 비디오 편집 도구: 10가지 이상적인 기능 해부</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/solving-the-mkv-block-artifacts-problem-a-step-by-step-guide/"><u>Solving the MKV Block Artifacts Problem: A Step-by-Step Guide</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/the-art-of-recording-fun-6-techniques-to-document-minecraft-for-2024/"><u>The Art of Recording Fun 6 Techniques to Document Minecraft for 2024</u></a></li>
-<li><a href="https://facebook.techidaily.com/the-surge-in-anti-tracking-sentiment-among-iphones/"><u>The Surge in Anti-Tracking Sentiment Among iPhones</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/unearthing-past-pixels-with-3-methods-on-social-media-fb/"><u>Unearthing Past Pixels with 3 Methods on Social Media (FB)</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/vob-dateien-spielen-unter-windows-10-und-macos-eine-schritt-fur-schritt-anleitung/"><u>VOB-Dateien Spielen Unter Windows 10 Und macOS: Eine Schritt-Für-Schritt-Anleitung</u></a></li>
-<li><a href="https://driver-install.techidaily.com/win10-now-features-enhanced-hd-audio-capabilities/"><u>Win10 Now Features Enhanced HD Audio Capabilities</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-many-viewers-to-target-for-a-youtube-earning-journey/"><u>[New] 2024 Approved How Many Viewers to Target for a YouTube Earning Journey?</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-ps5-ssd-and-hdd-wonders-top-10-exteriors/"><u>[New] 2024 Approved PS5 SSD & HDD Wonders Top 10 Exteriors</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-film-school-at-home-mastering-video-editing-via-youtube-and-alternatives-for-2024/"><u>[New] Film School at Home Mastering Video Editing via YouTube & Alternatives for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-bare-walls-to-full-screens-10-fixes-for-no-video-views/"><u>[New] In 2024, From Bare Walls to Full Screens 10 Fixes for No Video Views</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-in-2024-strategies-for-leveraging-azure-voice-to-text-technology/"><u>[New] In 2024, Strategies for Leveraging Azure Voice-to-Text Technology</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-top-15-video-reviews-ultimate-unboxing-channel-guide/"><u>[New] Top 15 Video Reviews Ultimate Unboxing Channel Guide</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-elevating-your-content-choosing-right-youtube-duosgroups/"><u>[Updated] In 2024, Elevating Your Content Choosing Right YouTube Duos/Groups</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-idea-to-impact-top-8-online-courses-for-new-creators/"><u>[Updated] In 2024, From Idea to Impact Top 8 Online Courses for New Creators</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-plot-to-post-a-detailed-guide-to-writing-youtube-videos/"><u>[Updated] In 2024, From Plot to Post A Detailed Guide to Writing YouTube Videos</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-zenith-of-plotting-in-cinemas-eight-divisions/"><u>[Updated] Zenith of Plotting in Cinema's Eight Divisions</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fake-gps-on-honor-90-for-mobile-legends-drfone-by-drfone-virtual-android/"><u>How To Fake GPS On Honor 90 For Mobile Legends? | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-binaural-bliss-broken-recovery-steps/"><u>In 2024, Binaural Bliss Broken Recovery Steps</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/tips-for-staying-positive-in-the-face-of-critical-youtube-comments/"><u>Tips for Staying Positive in the Face of Critical YouTube Comments</u></a></li>
+<li><a href="https://change-location.techidaily.com/which-pokemon-can-evolve-with-a-moon-stone-for-samsung-galaxy-f14-5g-drfone-by-drfone-virtual-android/"><u>Which Pokémon can Evolve with a Moon Stone For Samsung Galaxy F14 5G? | Dr.fone</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Tech Giant Apple Hit with 2-Billion Dollar Fee by European Union Over Unfair App Store Practices
-date: 2024-11-26T16:58:20.290Z
-updated: 2024-11-28T16:11:32.892Z
+date: 2024-12-06T16:11:17.859Z
+updated: 2024-12-07T19:57:29.439Z
 tags:
   - apple
 categories:
@@ -25,13 +25,13 @@ In the past, moving from one face to another on an Apple Watch was easy. You'd s
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to swap faces on your Apple Watch
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Run watchOS 10
@@ -39,6 +39,10 @@ In the past, moving from one face to another on an Apple Watch was easy. You'd s
 If you're still running watchOS 9 or earlier, the older method of switching watch faces is still the norm. Just swipe left or right. If you already updated to watchOS 10 to gain all the latest features, such as new watch faces, fitness routines, and Health app tools, then the newer method is in effect.
 
 screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Switch watch faces
 
@@ -57,7 +61,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Update to watchOS 10.2
@@ -68,10 +72,6 @@ Altefnatively, you can update the OS directly from your watch. For that, open th
 
 screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4\. Change the method for switching faces
 
 The newer method for swapping watch faces is still the default in watchOS 10.2\. However, Apple now lets you revert to the older method. On your watch, open the Settings app, tap the setting for Clock, and then turn on the switch for "Swipe to Switch Watch Face."
@@ -81,7 +81,7 @@ screenshot by Lance Whitney/ZDNET
 **Also: [The best smartwatches you can buy: Apple, Samsung, Google, and more compared](https://www.zdnet.com/article/best-smartwatch/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Switch watch faces by swiping
@@ -120,20 +120,22 @@ screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-from-sound-to-web-crafting-a-standout-podcast-rss-feed/"><u>[New] From Sound to Web Crafting a Standout Podcast RSS Feed</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-game-optimized-screens-for-ps5-xbox-series-x-gamers/"><u>[New] Game-Optimized Screens for PS5, Xbox Series X Gamers</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/upercharge-your-content-innovative-youtube-seo-tools-to-use/"><u>[New] Supercharge Your Content Innovative YouTube SEO Tools to Use</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-getting-the-most-out-of-your-game-with-fraps/"><u>[Updated] Getting the Most Out of Your Game with Fraps</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/5pya6ygp44gq44oh44oh44kj44ki44ox44os44kk44ok44o844ks6yg444g244gf44kb44gu54sh5paz6zplusz5aow44o75yuv55s75yan55sf44k944ov44oi44km44kn44ki5qplusu6lyd44ks44kk4420/"><u>最適なメディアプレイヤーを選ぶための無料音声・動画再生ソフトウェア比較ガイド</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/apple-event-preview-anticipate-revolutionary-features-in-m4-mac-mini-enhanced-ipads-and-advanced-ai-zdnet/"><u>Apple Event Preview: Anticipate Revolutionary Features in M4 Mac Mini, Enhanced iPads, and Advanced AI | ZDNET</u></a></li>
-<li><a href="https://extra-information.techidaily.com/behind-the-screen-discovering-samsung-galaxy-s8s-4k-edge/"><u>Behind the Screen Discovering Samsung Galaxy S8's 4K Edge</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/fixing-udf-dvds-that-wont-play-a-complete-guide-using-winx-dvd-ripper/"><u>Fixing UDF DVDs That Won't Play - A Complete Guide Using WinX DVD Ripper</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-three-ways-to-sim-unlock-google-pixel-fold-by-drfone-android/"><u>In 2024, Three Ways to Sim Unlock Google Pixel Fold</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/kaufen-sie-die-volllizenz-fur-winx-mediatrans-professionelle-verwaltung-von-iphone-und-ipad/"><u>Kaufen Sie Die Volllizenz Für WinX MediaTrans - Professionelle Verwaltung Von iPhone Und iPad</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/optimal-bitrate-configuration-for-1080p-at-60fps-choosing-the-right-obs-recording-settings/"><u>Optimal Bitrate Configuration for 1080P at 60Fps: Choosing the Right OBS Recording Settings</u></a></li>
-<li><a href="https://win-able.techidaily.com/quick-remedies-to-launch-and-load-palworld-without-a-glitch/"><u>Quick Remedies to Launch and Load Palworld Without a Glitch</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/samsung-galaxy-fit2-your-perfect-portable-workout-partner/"><u>Samsung Galaxy Fit2: Your Perfect Portable Workout Partner</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/top-3-scatti-riepilogativi-su-convertitori-video-rapidi-il-guida-completa/"><u>Top 3 Scatti Riepilogativi Su Convertitori Video Rapidi - Il Guida Completa</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/1725290497841-ai/"><u>ウィンクスビデオAIによる高度な音声および音楽ファイルの操作・抽出法 - 第二章解説</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-explosive-entertainment-for-little-ones/"><u>[New] 2024 Approved Explosive Entertainment for Little Ones</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-harmonize-your-preferences-how-to-create-an-engaging-youtube-playlist/"><u>[New] 2024 Approved Harmonize Your Preferences How to Create an Engaging YouTube Playlist</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-how-frequent-uploads-can-skyro-cookie-sales-on-your-youtube-channel-for-2024/"><u>[New] How Frequent Uploads Can Skyro Cookie Sales on Your YouTube Channel for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-gain-traction-on-youtube-surpass-10000-viewer-count-for-affiliate-rewards/"><u>[New] In 2024, Gain Traction on YouTube - Surpass 10,000 Viewer Count for Affiliate Rewards</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/erfecting-your-youtube-presence-a-video-upload-manual/"><u>[New] Perfecting Your YouTube Presence A Video Upload Manual</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-going-against-the-tide-of-tradition-innovative-techniques-for-yt-rewinds/"><u>[Updated] 2024 Approved Going Against the Tide of Tradition Innovative Techniques for YT Rewinds</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-hacking-the-process-instant-deletion-on-youtube-for-2024/"><u>[Updated] Hacking the Process Instant Deletion on Youtube for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-keep-your-audience-engaged-top-6-strategies-for-higher-youtube-stickiness-for-2024/"><u>[Updated] How To Keep Your Audience Engaged Top 6 Strategies for Higher YouTube Stickiness for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-guidelines-for-authoritative-life-lesson-videos/"><u>[Updated] In 2024, Guidelines for Authoritative Life Lesson Videos</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-live-without-the-convenience-of-youtube-shorts/"><u>[Updated] In 2024, How To Live Without the Convenience of YouTube Shorts</u></a></li>
+<li><a href="https://solve-help.techidaily.com/1-5-methoden-wie-man-echtzeit-sms-auf-dem-iphone-speichert-und-sicher-ablage/"><u>1. [5 Methoden] Wie Man Echtzeit-SMS Auf Dem iPhone Speichert Und Sicher Ablage</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatgpt-powered-solutions-for-holistic-healthcare/"><u>ChatGPT-Powered Solutions for Holistic Healthcare</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/hastening-vimeo-media-transmission/"><u>Hastening Vimeo Media Transmission</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-bypass-android-lock-screen-using-emergency-call-on-itel-p55plus-by-drfone-android/"><u>In 2024, How to Bypass Android Lock Screen Using Emergency Call On Itel P55+?</u></a></li>
+<li><a href="https://windows11.techidaily.com/six-simple-steps-for-briefly-pausing-windows-11s-safety-measures/"><u>Six Simple Steps for Briefly Pausing Windows 11'S Safety Measures</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/soil-composition/"><u>Soil Composition</u></a></li>
+<li><a href="https://techtrends.techidaily.com/1723808144069-the-role-of-a-video-card-understanding-its-purpose-and-operation/"><u>The Role of a Video Card: Understanding Its Purpose and Operation</u></a></li>
 </ul></div>
 

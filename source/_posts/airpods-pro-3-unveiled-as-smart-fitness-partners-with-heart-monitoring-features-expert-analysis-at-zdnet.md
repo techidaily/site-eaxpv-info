@@ -1,7 +1,7 @@
 ---
 title: AirPods Pro 3 Unveiled as Smart Fitness Partners with Heart Monitoring Features | Expert Analysis at ZDNET
-date: 2024-11-23T18:35:39.286Z
-updated: 2024-11-28T18:49:33.580Z
+date: 2024-12-03T16:31:50.879Z
+updated: 2024-12-07T21:21:36.348Z
 tags:
   - apple
 categories:
@@ -41,7 +41,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Apple Watch
@@ -75,7 +75,7 @@ For example, the Apple Watch's thermometer, which is currently only [used for fe
 The company is also reportedly seeking health regulatory approval to interpret blood oxygen data. Right now, the Watch shows users oxygen blood data without telling them what it means. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## AirPods
@@ -91,7 +91,7 @@ According to the report, if all goes to plan, AirPods will be able to double as 
 Additionally, the AirPods will be able to perform hearing tests that are typically performed in an audiologist's office, which will make it simpler for users to access care without leaving their homes. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Vision Pro
@@ -140,20 +140,17 @@ Lastly, a headset version of Fitness+ might appear, so long as Apple can figure 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/024-approved-syncopated-synths-selecting-top-quality-dj-templates-online/"><u>[New] 2024 Approved Syncopated Synths Selecting Top Quality DJ Templates Online</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/reating-cost-effective-youtube-closure-elements/"><u>[New] Creating Cost-Effective YouTube Closure Elements</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/iscovering-the-best-youtube-mp3-transformers-for-2024/"><u>[New] Discovering the Best YouTube MP3 Transformers for 2024</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-in-2024-core-concepts-of-story-making/"><u>[Updated] In 2024, Core Concepts of Story Making</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/5and/"><u>【マック編集者】無償で手に入るビデオコンバータソフト5品種:最新ラインナップ&使い方解説のポイント!</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/2024-approved-the-ultimate-smartphone-to-vr-makeover-tutorial/"><u>2024 Approved The Ultimate Smartphone-to-VR Makeover Tutorial</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/best-pick-rp2040-based-single-board-computers-coming/"><u>Best Pick: RP2040-Based Single Board Computers Coming</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/final-user-license-agreement-ula-for-winxdvd-by-digiarty-comprehensive-terms/"><u>Final User License Agreement (ULA) for WinXDVD by Digiarty: Comprehensive Terms</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/guia-completa-para-conversion-de-archivos-vob-protegidos-a-mp4-en-windows-11-y-mac/"><u>Guía Completa Para Conversión De Archivos VOB Protegidos a MP4 en Windows 11 Y Mac</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/htcs-masterpiece-in-vr-the-immersive-experience-for-2024/"><u>HTC's Masterpiece in VR The Immersive Experience for 2024</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-tips-of-transferring-messages-from-itel-a05s-to-iphone-1415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Tips of Transferring Messages from Itel A05s to iPhone 14/15 | Dr.fone</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/mehr-klarheit-in-ihren-filmen-steigerung-der-videodatenqualitat-auf-hd-bzw-4k-ebene-unter-windows-and-mac-os-x/"><u>Mehr Klarheit in Ihren Filmen: Steigerung Der Videodatenqualität Auf HD- Bzw. 4K-Ebene Unter Windows & Mac OS X</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/professionelle-bildschirmaufzeichnungssoftware-fur-windows-11-8-und-7-komplette-bzw-partielle-pc-aufnahmen/"><u>Professionelle Bildschirmaufzeichnungssoftware Für Windows 11, 8 Und 7: Komplette Bzw. Partielle PC-Aufnahmen</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/rip-dvds-fast-with-free-ripit-tool-for-windows-os-7-8-10-get-yours-today/"><u>Rip DVDs Fast with Free RipIt Tool for Windows OS (7, 8, 10) – Get Yours Today!</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/1725290534600-winxvideo-ai4k8k10k/"><u>Winxvideo AI：如何讓圖片提升到4K、8K及10K解析度</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-build-your-personal-brand-on-youtube/"><u>[New] 2024 Approved How to Build Your Personal Brand on YouTube</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-learn-how-to-build-youtube-backlinks-for-your-channel-for-2024/"><u>[New] Learn How to Build YouTube Backlinks for Your Channel for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-solutions-to-decipher-muted-facebook-videos/"><u>[New] Solutions to Decipher Muted Facebook Videos</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-become-an-expert-at-capturing-every-detail-on-xiaomi-mi-11/"><u>[Updated] Become an Expert at Capturing Every Detail on Xiaomi Mi 11</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-financial-forecasting-in-the-world-of-youtube-snippet-creation-for-2024/"><u>[Updated] Financial Forecasting in the World of YouTube Snippet Creation for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-from-digital-avatars-to-internet-stardom-becoming-a-vtuber-for-2024/"><u>[Updated] From Digital Avatars to Internet Stardom – Becoming a Vtuber for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-add-video-to-text-for-free-for-2024/"><u>[Updated] How to Add Video to Text for Free for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-the-best-5-programs-for-snagging-facebook-feeds/"><u>[Updated] The Best 5 Programs for Snagging Facebook Feeds</u></a></li>
+<li><a href="https://driver-download.techidaily.com/flags-of-our-fathers/"><u>Flags Of Our Fathers</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/in-2024-unveiling-the-pathway-to-discord-affiliation-a-verification-manual/"><u>In 2024, Unveiling the Pathway to Discord Affiliation A Verification Manual</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/macbook-multi-tasking-made-simple-a-comprehensive-split-screen-tutorial/"><u>MacBook Multi-Tasking Made Simple: A Comprehensive Split Screen Tutorial</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/1722853926354-top-recommended-samsung-smart-tv-applications-enhance-your-viewing-experience/"><u>Top Recommended Samsung Smart TV Applications - Enhance Your Viewing Experience</u></a></li>
 </ul></div>
 

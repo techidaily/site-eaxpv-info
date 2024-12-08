@@ -1,7 +1,7 @@
 ---
 title: "Maximize Apple Watch Longeaster: Discover These 8 Essential Configuration Adjustments for Better Power Efficiency"
-date: 2024-10-26T04:05:36.073Z
-updated: 2024-11-02T10:51:42.048Z
+date: 2024-12-03T18:05:38.566Z
+updated: 2024-12-07T18:22:41.145Z
 tags:
   - apple
 categories:
@@ -36,11 +36,19 @@ Even with a healthy battery life in my device, I'm not sure when the problem ori
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Turn off the always-on display
 
 This is the most effective thing you can do to preserve your Apple Watch's battery life. While yes, it can be super inconvenient to ditch the always-on display, it can be the difference between your Apple Watch lasting all day and it dying before dinner time. I turned mine off for a weekend and was surprised to find that it greatly enhances endurance, albeit not to the point of pre-watchOS 10.
 
 **How to:** On your Apple Watch, head to Settings > Display & Brightness > Always On, then toggle the feature off.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Use Low Power Mode when you can
 
@@ -59,10 +67,7 @@ If you have an Apple Watch with cellular connectivity, it's best to not use your
 Jason Hiner/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137210/26400" target="_top" id="2137210">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137210" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137210/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Turn off background app refresh
@@ -83,25 +88,11 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 [See all](https://www.zdnet.com/newsletters/)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137393/7443" target="_top" id="2137393">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137393" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137393/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 5\. Turn off irregular heart rate notifications
 
 With some of the newest Apple Watches, Apple includes a feature that can alert you when your heart rate is beating in irregular intervals and alert you when it may be atrial fibrillation. While that's nice to have for tracking your health over time, it means the heart rate sensor is constantly on collecting your heart rate, which isn't good for battery life.
 
 **How to:** Visit Settings > Heart > Irregular Rhythm Notifications and flick the feature off.
-
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129042/19576" target="_top" id="2129042">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129042" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129042/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 6\. Reduce the amount of notifications you get
 
@@ -111,6 +102,10 @@ When a notification comes in, it not only plays a "ding!" to alert you, it also 
 
 **Also:** [**Your Apple Watch is getting an upgrade - here are the best features in WatchOS 11**](https://www.zdnet.com/article/your-apple-watch-is-getting-an-upgrade-here-are-the-best-features-in-watchos-11/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 7\. Turn off Siri
 
 Ah, Siri. Many people swear by the voice assistant and use it daily to do things like check the weather, start a timer (or two), play some music, or start a workout. But if you're like me (and, presumably, many others), you don't touch Siri at all on your Apple Watch, and it's just sitting there wasting your battery, constantly listening to hear that magical phrase "Hey, Siri." In other words, you should turn it off.
@@ -119,18 +114,15 @@ Ah, Siri. Many people swear by the voice assistant and use it daily to do things
 
 Adrian Kingsley-Hughes/ZDNET
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 8\. Factory reset your Apple Watch (a.k.a. the last resort)
 
 I've heard from many folks who have faced issues with battery life on the Apple Watch that it's best to do a complete factory reset. Full disclosure: it's not going to work for everyone, but if you've exhausted every option on your Apple Watch to extend battery life, the battery is still healthy, and you don't want to upgrade, your best bet is to reset it and start from scratch. That way, you can set up your watch and, along the way, spot the app or service that drains your battery the most. It may also help clean up some of the system bloat in watchOS 10 that's led to poor efficiency on your watch.
 
 **How to:** Go to Settings > General > Reset on your Apple Watch, then choose "Erase All Content and Settings." You won't have to disable Find My or get rid of your cellular plan since you'll be setting it up with your iPhone again, but if you want to get rid of absolutely everything, make sure you disable Find My and dump your cellular plan during the process.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087262/19272" target="_top" id="2087262">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087262" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087262/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How we test smartwatches
 
@@ -173,19 +165,16 @@ For a deeper look at our testing process, check out our comprehensive [smartwatc
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-getting-your-foot-in-the-channels-door-must-haves/"><u>[New] 2024 Approved Getting Your Foot in the Channel's Door Must-Haves</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-optimize-youtube-submissions-for-extended-films/"><u>[New] 2024 Approved How to Optimize YouTube Submissions for Extended Films</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-from-vision-to-value-an-all-inclusive-guide-on-analyzing-views-clicks-and-monetization-for-2024/"><u>[New] From Vision to Value An All-Inclusive Guide on Analyzing Views, Clicks, & Monetization for 2024</u></a></li>
-<li><a href="https://extra-information.techidaily.com/updated-complete-tutorial-to-turn-gifs-to-stickers-discordwhatsapptelegram/"><u>[Updated] Complete Tutorial to Turn GIFs to Stickers [Discord/WhatsApp/Telegram]</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-get-paid-to-review-products-on-youtube-for-2024/"><u>[Updated] How to Get Paid to Review Products on YouTube for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-youtube-to-webm-unveiling-the-premium-converters/"><u>[Updated] In 2024, From YouTube to WebM Unveiling the Premium Converters</u></a></li>
-<li><a href="https://howto.techidaily.com/9-solutions-to-fix-process-system-isnt-responding-error-on-lava-storm-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Process System Isnt Responding Error on Lava Storm 5G | Dr.fone</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/boost-creativity-on-tiktok-top-10-free-edits-for-mac-users/"><u>Boost Creativity on TikTok - Top 10 Free Edits for Mac Users</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/effective-exercise-design-with-ai-assisted-guidance/"><u>Effective Exercise Design with AI-Assisted Guidance</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-instagram-tv-off-a-step-by-step-guide/"><u>In 2024, Instagram TV Off A Step-by-Step Guide</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/iphone-is-disabled-here-is-the-way-to-unlock-disabled-apple-iphone-14-pro-max-by-drfone-ios/"><u>iPhone Is Disabled? Here Is The Way To Unlock Disabled Apple iPhone 14 Pro Max</u></a></li>
-<li><a href="https://win-wonderful.techidaily.com/top-6-fast-solutions-for-resolving-sharepoint-synchronization-problems/"><u>Top 6 Fast Solutions for Resolving SharePoint Synchronization Problems</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-slow-zoom-meetings-is-the-problem-software-or-hardware-related/"><u>Troubleshooting Slow Zoom Meetings: Is The Problem Software or Hardware-Related?</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/updated-avs-video-editor-for-mac-video-editing-tool-for-mac/"><u>Updated AVS Video Editor for Mac Video Editing Tool for Mac</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-bland-to-brilliant-transform-your-youtube-channels-image/"><u>[New] 2024 Approved From Bland to Brilliant Transform Your YouTube Channels' Image</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-fullframe-alliance-how-to-choose-your-mcn-strategically/"><u>[New] 2024 Approved FullFrame Alliance How to Choose Your MCN Strategically</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-maximizing-yt-videos-for-igtv-presence/"><u>[New] 2024 Approved Maximizing YT Videos for IGTV Presence</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-effortless-conversion-turning-avis-into-gifs-with-filmora-software-for-2024/"><u>[New] Effortless Conversion Turning AVIs Into GIFs with Filmora Software for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-harmonizing-youtube-content-a-guide-to-blending-files/"><u>[Updated] 2024 Approved Harmonizing YouTube Content A Guide to Blending Files</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-explore-free-options-10-leading-mac-artists-preferences/"><u>[Updated] Explore Free Options 10 Leading Mac Artists' Preferences</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-from-childhood-to-cash-flow-young-kajis-youtube-economic-surge-for-2024/"><u>[Updated] From Childhood to Cash Flow Young Kaji’s YouTube Economic Surge for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-combine-computer-imagery-like-a-pro/"><u>2024 Approved Combine Computer Imagery Like a Pro</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/google-tv-chromecast-vs-amazon-firetv-a-comprehensive-showdown/"><u>Google TV Chromecast Vs. Amazon FireTV: A Comprehensive Showdown</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-transform-your-videos-using-video-enhancer-v22/"><u>In 2024, Transform Your Videos Using Video Enhancer V2.2</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/leading-makers-premium-instagram-highlight-craftsmen/"><u>Leading Makers Premium Instagram Highlight Craftsmen</u></a></li>
 </ul></div>
 

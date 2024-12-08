@@ -1,7 +1,7 @@
 ---
 title: Rigorous Mobile Device Evaluation Methods Used by ZDNet
-date: 2024-11-25T18:33:16.929Z
-updated: 2024-11-28T17:16:32.670Z
+date: 2024-12-06T21:46:14.367Z
+updated: 2024-12-07T18:32:57.537Z
 tags:
   - apple
 categories:
@@ -25,6 +25,10 @@ Below, you'll find the best iPhone deals currently available through US carriers
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Best iPhone deals
 
@@ -98,6 +102,10 @@ Over at T-Mobile, both new and existing customers can pick up a device from the 
 
 [View now at T-Mobile](https://tmobile.prf.hn/click/camref:1100l3XZFI/pubref:zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/destination:https%3A%2F%2Fwww.t-mobile.com%2Fcell-phone%2Fapple-iphone-14) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## More Apple iPhone deals
 
 [Six months of service free with Apple iPhone purchase View now at Mint Mobile](https://mint-mobile.58dp.net/c/159047/444520/7915?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.mintmobile.com%2Fdeals%2Fiphone-deals%2F&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
@@ -126,10 +134,6 @@ Over at T-Mobile, both new and existing customers can pick up a device from the 
 
 [Refurbished iPhones at Apple (save $100+) View now at Apple](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Frefurbished%2Fiphone&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Apple iPhone accessory deals
 
 [Apple iPhone 15 Pro Max silicone case with MagSafe deal for $44 (save $5) $44 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FApple-iPhone-Silicone-Case-MagSafe%2Fdp%2FB0CHX149WM%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C28b9103e-4c96-4688-8acf-6b68f2365017%7Cdtp&dtb=1)
@@ -145,7 +149,7 @@ Over at T-Mobile, both new and existing customers can pick up a device from the 
 [Apple Lightning to 3.5 mm headphone jack adapter deal for $8 (save $2) $8 at Walmart](https://goto.walmart.com/c/159047/565706/9383?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FApple-Lightning-to-3-5-mm-Headphone-Jack-Adapter%2F54738078%3Fathbdg%3DL1103&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How did we choose these iPhone deals?
@@ -161,16 +165,12 @@ Factors influencing our recommendations include:
 * **Availability**: If we come across a great Apple deal but only a few units are in stock, unless it is a stellar saving you only see once in a blue moon, we will discount it and select a product with better stock levels instead.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What is the best iPhone?
 
 The best iPhone currently on the market is the iPhone 15 Pro Max. The 6.7-inch model is the largest of the iPhone 15 line and comes stacked with Apple's latest features, such as a strong, lightweight titanium design, Dynamic Island, an A17 Pro chip, and a 48MP Main camera that shoots detailed imagery.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## When will the iPhone 16 come out?
 
@@ -179,7 +179,7 @@ While it's too early for us to know any definitive details, Apple typically refr
 However, if the iPad and iPhone maker follows its usual schedule, considering the iPhone 15 was launched in September 2023, we can expect an iPhone 16 to appear around September 2024.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What are the best tech deals in 2024?
@@ -238,20 +238,24 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-enhancing-professionalism-with-zooms-snappy-functionality/"><u>[New] In 2024, Enhancing Professionalism with Zoom’s Snappy Functionality</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-one-airpod-not-working-how-to-fix-it/"><u>[New] One Airpod Not Working How to Fix It</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/conversion-flv-a-avi-directement-en-lignes-transformez-vos-fichiers-videos-gratuitement-via-movavi/"><u>Conversion FLV À AVI Directement en Lignes - Transformez Vos Fichiers Vidéos Gratuitement via Movavi</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/descubre-el-proceso-de-convertir-archivos-en-imovie-tus-mejores-practicas-para-importar-peliculas/"><u>Descubre El Proceso De Convertir Archivos en iMovie: Tus Mejores Prácticas Para Importar Películas</u></a></li>
-<li><a href="https://driver-download.techidaily.com/1722978460462-effortless-update-of-nvidia-graphics-cards-for-windows-11-find-and-install-the-latest-drivers-here/"><u>Effortless Update of NVIDIA Graphics Cards for Windows 11 - Find and Install the Latest Drivers Here</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/eliminating-the-windows-access-error-annoyance/"><u>Eliminating the 'Windows Access Error' Annoyance</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/exploring-madden-19-excellent-game-mechanics-marred-by-older-elements/"><u>Exploring Madden 19: Excellent Game Mechanics Marred by Older Elements</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/gratis-omzetten-van-snd-folders-naar-veilige-online-toestand-movavi/"><u>Gratis Omzetten Van SND Folders Naar Veilige Online Toestand - Movavi</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/gratuit-online-konverteren-van-tiff-naar-gif-zoek-jouw-bewerkt-movavi/"><u>Gratuit Online Konverteren Van TIFF Naar GIF - Zoek Jouw Bewerkt Movavi</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-3-ways-for-android-pokemon-go-spoofing-on-motorola-g24-power-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways for Android Pokemon Go Spoofing On Motorola G24 Power | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-tecno-spark-10-pro-pin-codepattern-lockpassword-by-drfone-android/"><u>In 2024, How to Unlock Tecno Spark 10 Pro PIN Code/Pattern Lock/Password</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/section-3a-next-concept-carpal-tunnel-syndrome-and-nerve-entrapment/"><u>Section 3A: Next Concept - Carpal Tunnel Syndrome and Nerve Entrapment</u></a></li>
-<li><a href="https://android-frp.techidaily.com/step-by-step-tutorial-how-to-bypass-motorola-moto-g34-5g-frp-by-drfone-android/"><u>Step-by-Step Tutorial How To Bypass Motorola Moto G34 5G FRP</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/technique-simple-pour-transformer-un-fichier-amv-en-mp3-sans-frais-video-facile/"><u>Technique Simple Pour Transformer Un Fichier AMV en MP3 Sans Frais - Vidéo Facile</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/transforma-tus-animaciones-gif-en-videos-mp4-geniales-usando-el-conversor-de-movavi/"><u>Transforma Tus Animaciones GIF en Videos MP4 Geniales Usando El Conversor De Movavi</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-elevate-creations-get-free-high-quality-templates-today/"><u>[New] 2024 Approved Elevate Creations - Get FREE High-Quality Templates Today</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-add-emojis-on-youtube-comments/"><u>[New] 2024 Approved How to Add Emojis on YouTube Comments</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/1717726028598-new-2024-approved-how-to-upload-videos-to-youtube-a-step-by-step-guide/"><u>[New] 2024 Approved How To Upload Videos to YouTube A Step-by-Step Guide</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-exploring-the-depth-of-editing-with-gopro-studios-capabilities-for-2024/"><u>[New] Exploring the Depth of Editing with GoPro Studio's Capabilities for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-go-viral-on-youtube-with-impressive-music-reaction-content/"><u>[New] In 2024, How to Go Viral on YouTube with Impressive Music Reaction Content</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-watch-multiple-youtube-videos-at-one-time/"><u>[New] In 2024, How To Watch Multiple YouTube Videos at One Time?</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-finding-peace-in-patience-slowing-down-your-online-video-experience-on-youtube-60-chars-a-bit-long-but-full-of-helpful-info/"><u>[Updated] 2024 Approved Finding Peace in Patience Slowing Down Your Online Video Experience on YouTube (60 Chars, a Bit Long but Full of Helpful Info)</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-free-digital-asset-valuation-tools/"><u>[Updated] 2024 Approved Free Digital Asset Valuation Tools</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-free-youtube-thumbnails-saving-guide/"><u>[Updated] 2024 Approved Free YouTube Thumbnails Saving Guide</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-hidden-gems-on-youtube-understanding-unlisted-videos/"><u>[Updated] 2024 Approved Hidden Gems on YouTube Understanding 'Unlisted' Videos</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-essential-tips-for-setting-up-and-conducting-zoom-webinars/"><u>[Updated] Essential Tips for Setting Up & Conducting Zoom Webinars</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-first-steps-into-filmmaking-the-ultimate-guide-for-making-your-first-10-youtube-videos-for-2024/"><u>[Updated] First Steps Into Filmmaking The Ultimate Guide for Making Your First 10 YouTube Videos for 2024</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/2-ways-to-monitor-oppo-a38-activity-drfone-by-drfone-virtual-android/"><u>2 Ways to Monitor Oppo A38 Activity | Dr.fone</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/approved-the-ultimate-user-friendly-untangle-for-youtube-earnings-assessment/"><u>2024 Approved The Ultimate User-Friendly Untangle for YouTube Earnings Assessment</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/comment-exporter-vos-fichiers-de-google-drive-sur-pc-une-guidance-facile-a-trois-initiatives/"><u>Comment Exporter Vos Fichiers De Google Drive Sur PC : Une Guidance Facile À Trois Initiatives</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-remove-an-airtag-from-your-apple-id-account-from-apple-iphone-7-by-drfone-ios/"><u>In 2024, How to Remove an AirTag from Your Apple ID Account From Apple iPhone 7?</u></a></li>
+<li><a href="https://os-tips.techidaily.com/navigate-safely-using-waze-get-immediate-updates-on-traffic-lights-sharp-turns-and-more/"><u>Navigate Safely Using Waze - Get Immediate Updates on Traffic Lights, Sharp Turns & More!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/overcoming-performance-hiccups-optimizing-your-fallout-e76-experience/"><u>Overcoming Performance Hiccups: Optimizing Your Fallout E76 Experience</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/smart-buying-what-to-look-for-when-picking-the-perfect-activity-tracking-gadget/"><u>Smart Buying: What to Look for When Picking the Perfect Activity Tracking Gadget</u></a></li>
 </ul></div>
 

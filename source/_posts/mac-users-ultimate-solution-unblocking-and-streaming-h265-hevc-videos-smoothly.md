@@ -1,7 +1,7 @@
 ---
 title: "Mac Users' Ultimate Solution: Unblocking & Streaming H.265 (HEVC) Videos Smoothly"
-date: 2024-08-24 21:21:53
-updated: 2024-08-27 12:52:30
+date: 2024-12-03T00:19:51.276Z
+updated: 2024-12-07T22:47:28.439Z
 categories:
   - macxdvd
 thumbnail: https://thmb.techidaily.com/04f98c03565f60c0b0ad3b1ba3f80966cc746c43e46cf7809dfb5c690e2c4abe.jpg
@@ -16,13 +16,13 @@ thumbnail: https://thmb.techidaily.com/04f98c03565f60c0b0ad3b1ba3f80966cc746c43e
 * [Support](https://tools.techidaily.com/macxdvd/products/)
 * [Free Download](https://tools.techidaily.com/macxdvd/products/)
 
-
-
 ![](https://www.macxdvd.com/troubleshoot-video/../image-style/new-seo/icon7.png) [Home](https://tools.techidaily.com/macxdvd/products/) \> [How to](https://tools.techidaily.com/macxdvd/products/) \> Can't Play HEVC Video on Mac 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## \[Solved\] Can't Play HEVC/H.265 Videos on macOS
-
-
 
 _MacBook/iMac can't play videos in HEVC format? There are 5 solutions to fix this problem: transcode HEVC, download HEVC codec for Mac, install HEVC player, upgrade macOS or hardware._
 
@@ -31,6 +31,11 @@ _MacBook/iMac can't play videos in HEVC format? There are 5 solutions to fix thi
 * [![](https://www.macxdvd.com/troubleshoot-video/../image-style/new-seo/share-fa.jpg)](https://www.facebook.com/sharer/sharer.php?u=https://www.macxdvd.com/troubleshoot-video/cant-play-hevc-video-on-mac.htm)
 * [![](https://www.macxdvd.com/troubleshoot-video/../image-style/new-seo/share-tw.jpg)](https://twitter.com/intent/tweet?url=https://www.macxdvd.com/troubleshoot-video/cant-play-hevc-video-on-mac.htm)
 * [![](https://www.macxdvd.com/troubleshoot-video/../image-style/new-seo/share-email.jpg)](https://www.macxdvd.com/troubleshoot-video/mailto:info@example.com?&subject=&body=https://www.macxdvd.com/troubleshoot-video/cant-play-hevc-video-on-mac.htm)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 * [![](https://www.macxdvd.com/troubleshoot-video/../image-style/new-seo/share-in.jpg)](https://www.linkedin.com/shareArticle?mini=true&url=https://www.macxdvd.com/troubleshoot-video/cant-play-hevc-video-on-mac.htm&title=&summary=https://www.macxdvd.com/troubleshoot-video/cant-play-hevc-video-on-mac.htm&source=)
 
 [H.265/HEVC](https://tools.techidaily.com/macxdvd/products/) is a great successor to H.264/MPEG-4 AVC. Many guys have access and apply this codec for better video quality and smaller size. However, many users just realized that they can't play HEVC videos on Mac via Photos, VLC, and QuickTime. For example, [Handbrake encoded HEVC MP4 videos](https://tools.techidaily.com/macxdvd/products/) can't be played in QuickTime, HEVC is choppy or plays sound but no picture, VLC freezes or pops up a "No suitable decoder module" error, or they simply get an error message "Photos cannot play this video because it uses an unsupported format" etc. 
@@ -57,7 +62,15 @@ Upgrading macOS and enhacing the hardware only ensure that your Mac computer own
 
 ![HEVC files not playing QuickTime, Photos, VLC in macOS](https://www.macxdvd.com/troubleshoot-video/article-image/hevc-not-play-mac-1.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Thus, rather than spending a lot of money and time on upgrading computer software and hardware for HEVC playback, why not use a [HEVC/H.265 converter](https://tools.techidaily.com/macxdvd/products/) to make HEVC video compatible with your current Mac? **MacX Video Converter Pro** is the best option!
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### [**MacX Video Converter Pro**](https://tools.techidaily.com/macxdvd/products/) \- Convert HEVC/H.265 to H.264 or Any Mac Compatible Formats
 
@@ -92,6 +105,10 @@ After then, you can see three plugins in the result: HEVC/H.265 video demuxer, H
 
 ![Download HEVC codec for Mac](https://www.macxdvd.com/troubleshoot-video/../mac-video-converter-pro/article-image/vlc-hevc-plugin.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Solution 3\. Install a HEVC Player on Mac
 
 When your Mac doesn't support HEVC playback natively, you can download and install a third-party player that can open HEVC. There are various media players that are available to play HEVC videos, such as VLC, [5KPlayer](https://tools.techidaily.com/5kplayer/products/), DivX player, PotPlayer and more. 
@@ -111,6 +128,10 @@ As mentioned, VLC supports to play 4K ultra HD videos encoded in HEVC/H.265 @ up
 **3\. DivX Player**
 
 DivX Player is a popular video player that has been downloaded over 1 billion times and is capable of playing DivX, AVI, MKV, and HEVC files in up to 4K resolution. It's one of the best free HEVC X265 players because it supports hardware acceleration for HEVC decoding and can deliver smooth and high-quality playback of HEVC-encoded videos.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Solution 4\. Upgrade to macOS High Sierra or Later 
 
@@ -158,6 +179,10 @@ You know, only macOS High Sierra or later supports HEVC H.265\. If you're using 
 
 After you check compatibility, go the following steps to upgrade to High Sierra/Mojave/Catalina/Big Sur/12 Monterey: make a backup of your Mac > make sure you have a reliable Internet connection > download macOS High Sierra or higher version > begin installation > allow installation to complete. [Click here to go through the detailed guide >>](https://support.apple.com/en-us/HT208969)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Solution 5\. Replace Your Poor and Old Hardware 
 
 Playing HEVC/h.265 files also requires a lot on computer hardware. For solely CPU decoding, at least an Intel i7 or AMD Ryzen 5 or better CPU are needed to get a good experience. While CPU decoding could consume a lot of resource, and it's easy to get a high CPU usage, up to 350% for i7 processor. So you'd better configure your Mac computer with a graphic card which is available for hardware acceleration. For that, 5K iMac (late 2015), 27-inch iMac, and MacBook Pros 2016 or the latest 2022 Apple Mac Studio powered by **M1 Max or M1 Ultra processor** support [hardware decoding and encoding 4K HEVC videos](https://tools.techidaily.com/macxdvd/products/) with 24-core GPU or 48-core GPU processor. 
@@ -167,8 +192,6 @@ Besides, HDMI has also been cited as cause of 4K HEVC playback failed on Mac. Fo
 ### To the Conclusion
 
 If you're trapped with HEVC not playing error on Mac, you can try either method according to your actual situation. There's always one that fits you. Of course, converting HEVC to H.264/MPEG-4 AVC is an one-size-fits solution that works for everyone. 
-
-
 
 Related Articles
 
@@ -182,6 +205,10 @@ Related Articles
 
 ![](https://www.macxdvd.com/troubleshoot-video/../image-style/new-seo/pic5.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 [How to Play MKV on Mac (MacBook Pro/Air, iMac, Mac mini)](https://tools.techidaily.com/macxdvd/products/) 
 
 ![](https://www.macxdvd.com/troubleshoot-video/../image-style/new-seo/pic4.jpg)
@@ -194,9 +221,11 @@ Related Articles
 
 ![](https://www.macxdvd.com/troubleshoot-video/../image-style/new-seo/pic2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 [VLC with HEVC Encoder X265 Can Play All HEVC/H265 4K Videos?](https://tools.techidaily.com/macxdvd/products/) 
-
-
 
 ![Digiarty Software](https://www.macxdvd.com/troubleshoot-video/../icon/logo.png) 
 
@@ -216,6 +245,10 @@ Digiarty Software, Inc. (MacXDVD) is a leader in delivering stable multimedia so
 * [Online Video >>](https://tools.techidaily.com/macxdvd/products/)
 * [Hot Topics >>](https://tools.techidaily.com/macxdvd/products/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Company
 
 * [About Us >>](https://tools.techidaily.com/macxdvd/products/)
@@ -223,8 +256,6 @@ Digiarty Software, Inc. (MacXDVD) is a leader in delivering stable multimedia so
 * [User Guides >>](https://tools.techidaily.com/macxdvd/products/)
 * [Contact Us >>](https://tools.techidaily.com/macxdvd/products/)
 * [Partner >>](https://tools.techidaily.com/macxdvd/products/)
-
-
 
 [Home](https://tools.techidaily.com/macxdvd/products/) | [About](https://tools.techidaily.com/macxdvd/products/) | [Privacy Policy](https://tools.techidaily.com/macxdvd/products/) | [Terms and Conditions](https://tools.techidaily.com/macxdvd/products/) | [License Agreement](https://tools.techidaily.com/macxdvd/products/) | [Resource](https://tools.techidaily.com/macxdvd/products/) | [News](https://tools.techidaily.com/macxdvd/products/) | [Contact Us](https://tools.techidaily.com/macxdvd/products/)
 
@@ -239,11 +270,29 @@ Apple, the Apple logo, Mac, iPhone, iPad, iPod and iTunes are trademarks of Appl
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-approaches.techidaily.com/new-the-essential-guide-to-angular-video-compilation-android/"><u>[New] The Essential Guide to Angular Video Compilation (Android)</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-practical-steps-for-immediate-deletion-on-youtube-platform/"><u>[Updated] 2024 Approved Practical Steps for Immediate Deletion on Youtube Platform</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/battery-woes-on-a-windows-10-device-how-to-get-your-laptop-charged-again/"><u>Battery Woes on a Windows 10 Device: How to Get Your Laptop Charged Again</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/blending-modern-tech-into-academic-schemes-comprehensive-guides-for-creating-interactive-lesson-plans/"><u>Blending Modern Tech Into Academic Schemes: Comprehensive Guides for Creating Interactive Lesson Plans</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/convert-ogg-audio-tracks-to-mp3-format-for-free-with-movavis-web-based-tool/"><u>Convert OGG Audio Tracks to MP3 Format for Free with Movavi's Web-Based Tool</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/guia-gratuita-para-convertir-videos-mp4-a-formatos-m2ts-usando-movavi-en-linea/"><u>Guía Gratuita Para Convertir Videos MP4 a Formatos M2TS Usando Movavi en Línea</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-can-i-use-a-fake-gps-without-mock-location-on-samsung-galaxy-f14-5g-drfone-by-drfone-virtual-android/"><u>How Can I Use a Fake GPS Without Mock Location On Samsung Galaxy F14 5G? | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-sim-card-on-xiaomi-civi-3-disney-100th-anniversary-edition-online-without-jailbreak-by-drfone-android/"><u>How to Unlock SIM Card on Xiaomi Civi 3 Disney 100th Anniversary Edition online without jailbreak</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/nvidias-tailored-ai-services-usage-and-purpose/"><u>NVIDIA's Tailored AI Services: Usage & Purpose</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/rootjunky-apk-to-bypass-google-frp-lock-for-vivo-y100-by-drfone-android/"><u>Rootjunky APK To Bypass Google FRP Lock For Vivo Y100</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/top-13-tools-to-capture-videos-online-a-comprehensive-guide-with-movavi/"><u>Top 13 Tools to Capture Videos Online: A Comprehensive Guide with Movavi</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/top-free-screen-recording-tools-for-windows-7-a-list-of-the-finest/"><u>Top Free Screen Recording Tools for Windows 7: A List of the Finest</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/transformation-arw-en-jpg-un-guide-simple-de-4-etapes-adapte-a-windows-et-mac/"><u>Transformation ARW en JPG : Un Guide Simple De 4 Étapes Adapté À Windows Et Mac</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/transformer-un-fichier-wma-en-format-wmv-rapidement-et-gratuitement-avec-movavi/"><u>Transformer Un Fichier WMA en Format WMV Rapidement Et Gratuitement - Avec Movavi</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/unlock-apple-iphone-11-pro-max-without-passcode-easily-drfone-by-drfone-ios/"><u>Unlock Apple iPhone 11 Pro Max Without Passcode Easily | Dr.fone</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: "In-Depth Analysis of Microsoft Surface Pro 8: Tailored Solutions for Enterprise Users - Insights From ZDNet"
-date: 2024-11-23T16:14:09.332Z
-updated: 2024-11-28T19:01:06.707Z
+date: 2024-12-05T19:25:46.943Z
+updated: 2024-12-07T21:21:36.591Z
 tags:
   - apple
 categories:
@@ -43,7 +43,7 @@ As part of my journey, I've been testing a [Surface Pro 8 with LTE](https://clic
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## A new-look Surface… kind of
@@ -53,7 +53,7 @@ Jason Cipriani/ZDNet
 When Microsoft [announced the Surface Pro 8 in Sept. 2021](https://www.zdnet.com/article/microsoft-refreshes-its-surface-pc-portfolio-including-android-based-duo-2/), it revealed a completely new design for the Surface Pro lineup. Well, it wasn't completely new; it's actually the same overall design of the [Surface Pro X](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fsurface-pro-x-13-touch-screen-microsoft-sq1-8gb-memory-128gb-ssd-device-only-platinum%2F6477106.p%3FskuId%3D6477106&publisher_slug=itechdaily19598&exclusive=1). Placing the Pro X next to the Pro 8, the only noticeable difference is that the Pro 8 is thicker than the Pro X. Otherwise, they look identical. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -126,7 +126,7 @@ The ability to connect a tablet to an external display and have it actually work
 When working on my iPad Pro connected to a monitor, whatever's on the iPad's screen is mirrored on the larger display. There are some apps that use Apple's rudimentary API for external displays, but it's not great. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -138,10 +138,6 @@ Also, I have a lot of workarounds for completing certain tasks on the iPad. For 
 I realize that the Pro 8 is running a full-fledged operating system in Windows 11, whereas the iPad Pro is running a mobile-first operating system in iPadOS, but the devices are relatively the same size and target the same type of user. Even the prices are close enough that the comparison is warranted. 
 
 The total cost of the Surface Pro 8 with LTE, along with the Signature Keyboard Cover with Slim Pen is $2,128\. The iPad Pro with 5G, 16GB of memory, 1TB of storage, Apple's Magic Keyboard with trackpad and an Apple Pencil is $2,449\. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## There are still many things the iPad Pro does better
 
@@ -155,10 +151,6 @@ I prefer to use Apple's Mail app along with my iCloud+ personal domain as oppose
 
 Another thing I love about my iPad Pro is that its performance is reliable and consistent. When using the Pro 8 with multiple apps open, there would be a slight delay or pause before an app would appear after being minimized at times. It wasn't specific to any one app; I frequently experienced it with Thunderbird, Discord, and Slack. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Bottom line
 
 After a few months of the Surface Pro 8 sitting on a shelf, I have gone back to using it as my main device. I'm once again enjoying using multiple windows for multitasking, not having to worry about any extra workarounds, and I still have complete and total portability.
@@ -171,7 +163,15 @@ If you're on the fence about whether to go with the Surface Pro 8 or an iPad Pro
 
 At the end of the day, however, you're getting a full computer in the Surface Pro 8 and, currently, 80% of one in the iPad Pro.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## FAQ
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Should I get a Surface Pro 8 or an iPad Pro?
 
@@ -210,18 +210,20 @@ If you're on the fence about whether to go with the Surface Pro 8 or an iPad Pro
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-joining-the-world-of-live-broadcasts-a-roku-primer-for-2024/"><u>[New] Joining the World of Live Broadcasts A Roku Primer for 2024</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-zero-cost-text-animation-guide-for-videos-for-2024/"><u>[Updated] Zero-Cost Text Animation Guide for Videos for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/comment-installer-et-utiliser-handbrake-sur-windows-7-8-10-ou-vista-pour-la-conversion-video/"><u>Comment Installer Et Utiliser HandBrake Sur Windows 7, 8, 10 Ou Vista Pour La Conversion Vidéo</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/deep-dive-into-the-core-functionalities-of-zdsoft-for-2024/"><u>Deep Dive Into the Core Functionalities of ZDSoft for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/expert-tips-to-manage-and-lower-msmpengexe-cpu-drain-in-windows-11-systems/"><u>Expert Tips to Manage and Lower MsMpEng.exe CPU Drain in Windows 11 Systems</u></a></li>
-<li><a href="https://games-able.techidaily.com/fine-tuning-your-gameplay-choosing-mouse-sensitivity/"><u>Fine-Tuning Your Gameplay: Choosing Mouse Sensitivity</u></a></li>
-<li><a href="https://win-blog.techidaily.com/from-lag-to-leaderboard-enhance-fps-in-escape-from-tarkov-using-pro-level-optimizations-six-techniques/"><u>From Lag to Leaderboard: Enhance FPS in Escape From Tarkov Using Pro-Level Optimizations (Six Techniques)</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-10-best-fake-gps-location-spoofers-for-honor-play-7t-drfone-by-drfone-virtual-android/"><u>In 2024, 10 Best Fake GPS Location Spoofers for Honor Play 7T | Dr.fone</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-xiaomi-redmi-k70-phone-frp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your Xiaomi Redmi K70 Phone FRP Lock</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/optimizing-file-sizes-transform-h264-into-h265-without-compromising-visual-fidelity/"><u>Optimizing File Sizes: Transform H.264 Into H.265 Without Compromising Visual Fidelity</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/pasos-faciles-y-claros-para-conversion-avi-a-mkv-tu-guia-exhaustiva-completa/"><u>Pasos Fáciles Y Claros Para Conversión Avi a Mkv: Tu Guía Exhaustiva Completa</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/winxvideoai-comprehensive-video-and-image-enhancer-upgrade-stabilize-convert-edit-and-record/"><u>WinxvideoAI: Comprehensive Video and Image Enhancer - Upgrade, Stabilize, Convert, Edit & Record</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/1725285254220-winxdvd/"><u>ディジアーティソフト WinXDVD サポートカウンタクリップス - ご利用のお手数をおかけします</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-free-frame-perfection-on-youtube-your-ultimate-guidebook/"><u>[New] 2024 Approved Free Frame Perfection on YouTube - Your Ultimate Guidebook</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-video-to-animation-easy-youtube-gif-creation-tips/"><u>[New] 2024 Approved From Video to Animation Easy YouTube GIF Creation Tips</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-getting-your-foot-in-the-channels-door-must-haves/"><u>[New] 2024 Approved Getting Your Foot in the Channel's Door Must-Haves</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ominate-the-digital-arena-audience-expansion-on-youtube/"><u>[New] Dominate the Digital Arena Audience Expansion on Youtube</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-filmoras-secrets-to-captivating-youtube-trailers-for-2024/"><u>[New] Filmora's Secrets to Captivating YouTube Trailers for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-flavorful-frames-stepwise-food-film-making-for-2024/"><u>[New] Flavorful Frames Stepwise Food Film-Making for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-guide-on-transforming-youtube-videos-into-mp3-using-safe-procedures-for-2024/"><u>[New] Guide on Transforming YouTube Videos Into MP3 Using Safe Procedures for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-boosting-engagement-interpreting-youtube-video-data/"><u>[Updated] Boosting Engagement Interpreting YouTube Video Data</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-use-youtube-cards-and-annotations/"><u>[Updated] In 2024, How to Use YouTube Cards and Annotations?</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-the-complete-process-to-tweak-your-instagram-voice-for-2024/"><u>[Updated] The Complete Process to Tweak Your Instagram Voice for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/approved-decipher-high-impact-content-selecting-premier-rank-trackers-for-youtubers/"><u>2024 Approved Decipher High-Impact Content Selecting Premier Rank Trackers for YouTubers</u></a></li>
+<li><a href="https://location-fake.techidaily.com/6-ways-to-change-spotify-location-on-your-poco-x6-drfone-by-drfone-virtual-android/"><u>6 Ways to Change Spotify Location On Your Poco X6 | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/all-about-factory-reset-what-is-it-and-what-it-does-to-your-realme-note-50-drfone-by-drfone-reset-android-reset-android/"><u>All About Factory Reset, What Is It and What It Does to Your Realme Note 50? | Dr.fone</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/2648578-9780752498072-the-poltergeist-prince-of-london/"><u>The Poltergeist Prince of London | Free Book</u></a></li>
+<li><a href="https://techtrends.techidaily.com/top-picks-ultimate-best-buy-offers-in-june-2024-exclusive-guide/"><u>Top Picks: Ultimate Best Buy Offers in June 2024 Exclusive Guide</u></a></li>
 </ul></div>
 

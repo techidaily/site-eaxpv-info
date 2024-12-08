@@ -1,7 +1,7 @@
 ---
 title: "Boost Your Productivity with XR Glasses On-the-Go: Discovering the New Trilogy of Upgrades | CNET"
-date: 2024-11-22T18:51:09.891Z
-updated: 2024-11-28T16:19:31.300Z
+date: 2024-11-30T17:41:32.795Z
+updated: 2024-12-07T22:36:10.468Z
 tags:
   - apple
 categories:
@@ -21,7 +21,7 @@ Matthew Miller/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -85,7 +85,7 @@ Along with the [Viture Pro XR glasses](https://buy.geni.us/Proxy.ashx?TSID=36825
 Lastly, Viture announced a new limited-edition controller in partnership with 8BitDo. You can connect this new controller, with a classic XBox-style controller layout, via Bluetooth to your gaming device, including the Nintendo Switch. The smokey translucent design looks cool and matches the Viture ecosystem. The 8BitDo controller also serves as a companion to the Viture Neckband, but I have yet to try out the Neckband, so I cannot share my experiences with that accessory.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -122,20 +122,19 @@ The [Viture Pro XR glasses](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-clips.techidaily.com/updated-in-2024-how-to-innovate-your-tiktok-intro-video-a-mac-perspective/"><u>[Updated] In 2024, How to Innovate Your TikTok Intro Video - A Mac Perspective</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/updated-maximizing-impact-with-tiktok-video-uploads-from-pcmac/"><u>[Updated] Maximizing Impact with TikTok Video Uploads From PC/Mac</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/affordable-overseas-vr-headsets-china/"><u>Affordable Overseas VR Headsets (China)</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/cut-to-the-chase-managing-twitch-streams/"><u>Cut to the Chase Managing Twitch Streams</u></a></li>
-<li><a href="https://techidaily.com/different-methods-for-resetting-vivo-y28-5g-phones-with-screen-locked-and-not-drfone-by-drfone-reset-android-reset-android/"><u>Different Methods for Resetting Vivo Y28 5G Phones with Screen Locked and Not | Dr.fone</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/diy-dvdiso/"><u>DIY DVD到ISO的簡單轉換方法 - 學習如何在光碟上保存影像</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/get-your-free-copy-of-winx-media-hub-secure-and-authorized-source-for-dvd-ripping-software-and-high-definition-video-converters/"><u>Get Your FREE Copy of WinX Media Hub – Secure and Authorized Source for DVD Ripping Software and High-Definition Video Converters</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-catch-or-beat-sleeping-snorlax-on-pokemon-go-for-motorola-edge-40-drfone-by-drfone-virtual-android/"><u>In 2024, Catch or Beat Sleeping Snorlax on Pokemon Go For Motorola Edge 40 | Dr.fone</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-explore-the-best-video-cameras-of-the-future/"><u>In 2024, Explore the Best Video Cameras of the Future</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/1726228229422-movmp4-movavi/"><u>MOV格式自由地转换为MP4 - 简单、无成本且快捷指南 | Movavi</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/solution-guide-how-to-fix-windows-media-player-issues-with-mkv-video-formats/"><u>Solution Guide: How to Fix Windows Media Player Issues with MKV Video Formats</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/techniques-rapides-et-efficaces-pour-reduction-de-la-taille-des-videos-face-a-la-limitation-de-fb/"><u>Techniques Rapides Et Efficaces Pour Reduction De La Taille Des Vidéos Face À La Limitation De FB</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/top-rated-h265-video-encoder-software-compatible-with-pc-and-mac/"><u>Top Rated H.265 Video Encoder Software : Compatible with PC and MAC</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/ultimate-guide-adding-libdvdcss-to-handbrake-for-secure-dvd-conversion-on-macoswindows-10/"><u>Ultimate Guide: Adding Libdvdcss to Handbrake for Secure DVD Conversion on macOS/Windows 10</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/winxvideo-ai-professionelles-videobearbeitungstool-mit-funktionen-fur-skalierung-stabilisierung-konvertierung-und-aufnahme/"><u>Winxvideo AI: Professionelles Videobearbeitungstool Mit Funktionen Für Skalierung, Stabilisierung, Konvertierung Und Aufnahme</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-game-testers-and-beta-gamers-online/"><u>[New] 2024 Approved Game Testers & Beta Gamers Online</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-in-2024-dissecting-podcasters-income-streams/"><u>[New] In 2024, Dissecting Podcasters' Income Streams</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-make-a-thumbnail-for-your-youtube-free-easily/"><u>[New] In 2024, How to Make a Thumbnail for Your YouTube Free Easily</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-make-video-thumbnails-for-youtube/"><u>[New] In 2024, How to Make Video Thumbnails for YouTube</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-views-to-revenue-simplifying-the-process-with-a-3-step-framework-for-monitoring-youtube-income/"><u>[Updated] 2024 Approved From Views to Revenue Simplifying the Process with a 3-Step Framework for Monitoring YouTube Income</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-grab-free-video-profile-backgrounds/"><u>[Updated] In 2024, Grab Free Video Profile Backgrounds</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-photo-your-desktop-windows-edition/"><u>[Updated] Photo Your Desktop Windows Edition</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/approved-the-editors-edge-advanced-tactics-for-youtube-video-spins-guide/"><u>2024 Approved The Editor's Edge Advanced Tactics for YouTube Video Spins (Guide)</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/comprehensive-analysis-of-the-blueant-soundblade-impressive-clarity-and-powerful-output/"><u>Comprehensive Analysis of the BlueAnt SoundBlade - Impressive Clarity & Powerful Output</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/expert-review-why-the-x-chair-x4-deserves-to-be-on-every-professionals-shortlist/"><u>Expert Review: Why the X-Chair X4 Deserves to Be on Every Professional's Shortlist</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/1666483-9781118727904-mindfulness-at-work-for-dummies/"><u>Mindfulness at Work For Dummies | Free Book</u></a></li>
+<li><a href="https://article-helps.techidaily.com/shoot-the-worlds-hustle-and-bustle-iphone-tips-for-shutter-speed-blurs/"><u>Shoot the World's Hustle and Bustle IPhone Tips for Shutter Speed Blurs</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/top-10-password-cracking-tools-for-poco-f5-5g-by-drfone-android/"><u>Top 10 Password Cracking Tools For Poco F5 5G</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/trouble-final-fantasy-xiv-update-verification-process/"><u>Trouble Final Fantasy XIV Update Verification Process</u></a></li>
 </ul></div>
 

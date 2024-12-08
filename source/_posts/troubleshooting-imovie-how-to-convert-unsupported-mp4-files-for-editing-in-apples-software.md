@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting iMovie: How to Convert Unsupported MP4 Files for Editing in Apple's Software"
-date: 2024-08-26 23:24:51
-updated: 2024-08-27 12:18:49
+date: 2024-12-02T16:21:07.012Z
+updated: 2024-12-07T22:32:46.099Z
 categories:
   - macxdvd
 thumbnail: https://thmb.techidaily.com/573c174bbe1814c2ebf6560108430a00295460b2589a6751d5b34e698171f0aa.jpg
@@ -16,22 +16,36 @@ thumbnail: https://thmb.techidaily.com/573c174bbe1814c2ebf6560108430a00295460b25
 * [Support](https://tools.techidaily.com/macxdvd/products/)
 * [Free Download](https://tools.techidaily.com/macxdvd/products/)
 
-
-
 ![](https://www.macxdvd.com/mac-video-converter-pro/../image-style/new-seo/icon7.png) [Home](https://tools.techidaily.com/macxdvd/products/) \> [Video](https://tools.techidaily.com/macxdvd/products/) \> [convert MP4](https://tools.techidaily.com/macxdvd/products/) \> import MP4 to iMovie
 
 ## iMovie Won't Import MP4? Convert MP4 to iMovie Supported Codecs 
-
-
 
 _Life is not a bed of roses. There is no such thing as happiness without pain. So when you're bothered by the annoying "iMovie won't import MP4 files" problem, why not think in this way? It's just the other side of your life._
 
 ![](https://www.macxdvd.com/mac-video-converter-pro/../image-style/new-seo/icon6.png) By [Candice Liu](https://tools.techidaily.com/macxdvd/products/) ｜Last updated on Mar 02, 2021
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 * [![](https://www.macxdvd.com/mac-video-converter-pro/../image-style/new-seo/share-fa.jpg)](https://www.facebook.com/sharer/sharer.php?u=https://www.macxdvd.com/mac-video-converter-pro/convert-import-mp4-into-imovie.htm)
 * [![](https://www.macxdvd.com/mac-video-converter-pro/../image-style/new-seo/share-tw.jpg)](https://twitter.com/intent/tweet?url=https://www.macxdvd.com/mac-video-converter-pro/convert-import-mp4-into-imovie.htm)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 * [![](https://www.macxdvd.com/mac-video-converter-pro/../image-style/new-seo/share-email.jpg)](https://www.macxdvd.com/mac-video-converter-pro/mailto:info@example.com?&subject=&body=https://www.macxdvd.com/mac-video-converter-pro/convert-import-mp4-into-imovie.htm)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 * [![](https://www.macxdvd.com/mac-video-converter-pro/../image-style/new-seo/share-in.jpg)](https://www.linkedin.com/shareArticle?mini=true&url=https://www.macxdvd.com/mac-video-converter-pro/convert-import-mp4-into-imovie.htm&title=&summary=https://www.macxdvd.com/mac-video-converter-pro/convert-import-mp4-into-imovie.htm&source=)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Take it easy to solve this issue. After pain, there should be laughter. Of course, you can get assistance here if this is too tricky for you alone to resolve it. We'll feel very glad if this article can help you successfully import MP4 files into iMovie. Before fixing the problem, you'd better know the reasons why you fail to add MP4 to iMovie. Thus, you can clearly judge which antidote can cure your disease.
 
@@ -55,6 +69,10 @@ See, the common reasons are the damaged MP4 file and MP4 codec problem. No matte
 4. A broad selection of video editing tools are available, such as trim, crop, add subtitles to MP4, rotate MP4, merge MP4 videos, adjust parameters, etc.
 
 [Download for Mac](https://tools.techidaily.com/macxdvd/products/) [Download for PC](https://tools.techidaily.com/macxdvd/products/) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### How to Free Convert MP4 to iMovie Supported Codecs
 
@@ -119,12 +137,20 @@ edit MP4 in iMovie
 
 ![](https://www.macxdvd.com/mac-video-converter-pro/../image-style/kids-dvd-movie/disc02.png) [**Trim MP4**](https://tools.techidaily.com/macxdvd/products/): iMovie's trim feature is widely used for users to shrink MP4 video duration, especially when you plan to [transfer MP4 to iPhone](https://tools.techidaily.com/macxdvd/products/) for on-the-go playback. It helps you losslessly cut off the unwanted parts from MP4 video like the meaningless prelude or ending. Follow the steps to trim your MP4 files in iMovie.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  **Step 1**: Choose a MP4 video clip in your project.  
  **Step 2**: Click "Edit" > "Trim" or tap the "Clip Duration" button in the corner at the beginning of the MP4 clip.  
  **Step 3**: Control the left/right arrow to set the start and end time of your MP4 video clip.  
  **Step 4**: Tap "Play" in the trimmer to preview the change. Then press "Done".
 
 ![trim MP4 file](https://www.macxdvd.com/mac-video-converter-pro/../mac-dvd-video-converter-how-to/article-image/imovie-tutorial-8.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 trim MP4 file
 
@@ -136,6 +162,10 @@ trim MP4 file
  **Step 4**: Adjust the audio effect file length via the green slidebar to slide from right to left.
 
 ![add sound effects to MP4](https://www.macxdvd.com/mac-video-converter-pro/article-image/mp4-to-imovie-3.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 add sound effects to MP4
 
@@ -153,8 +183,6 @@ ABOUT THE AUTHOR
 
 Candice's particularly skilled in writing and sharing video-related contents. Her guides cover from deep-seated video/audio parameters, to media entertainment on different platforms. She also enjoys shooting and processing videos by herself for a more reliable basis of informative info with her articles, which are never at the expense of eliminating an entertaining read.
 
-
-
 Related Articles
 
 ![](https://www.macxdvd.com/mac-video-converter-pro/../image-style/new-seo/pic7.jpg)
@@ -166,6 +194,10 @@ Related Articles
 [How to Convert and Import WMV to iMovie Supported Format](https://tools.techidaily.com/macxdvd/products/) 
 
 ![](https://www.macxdvd.com/mac-video-converter-pro/../image-style/new-seo/pic5.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 [How to Convert and Import DVDs to iMovie for Free](https://tools.techidaily.com/macxdvd/products/) 
 
@@ -179,9 +211,11 @@ Related Articles
 
 ![](https://www.macxdvd.com/mac-video-converter-pro/../image-style/new-seo/pic2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 [MP4 to MP3｜Convert MP4 to MP3 with Free MP4 Converter to MP3](https://tools.techidaily.com/macxdvd/products/) 
-
-
 
 ![Digiarty Software](https://www.macxdvd.com/mac-video-converter-pro/../icon/logo.png) 
 
@@ -209,8 +243,6 @@ Digiarty Software, Inc. (MacXDVD) is a leader in delivering stable multimedia so
 * [Contact Us >>](https://tools.techidaily.com/macxdvd/products/)
 * [Partner >>](https://tools.techidaily.com/macxdvd/products/)
 
-
-
 [Home](https://tools.techidaily.com/macxdvd/products/) | [About](https://tools.techidaily.com/macxdvd/products/) | [Privacy Policy](https://tools.techidaily.com/macxdvd/products/) | [Terms and Conditions](https://tools.techidaily.com/macxdvd/products/) | [License Agreement](https://tools.techidaily.com/macxdvd/products/) | [Resource](https://tools.techidaily.com/macxdvd/products/) | [News](https://tools.techidaily.com/macxdvd/products/) | [Contact Us](https://tools.techidaily.com/macxdvd/products/)
 
 Copyright © 2024 Digiarty Software, Inc (MacXDVD). All rights reserved
@@ -224,11 +256,28 @@ Digiarty Software is not developed by or affiliated with Apple Inc.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/new-master-your-movie-recording-pc-mac-and-mobile-devices/"><u>[New] Master Your Movie Recording PC, Mac & Mobile Devices</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-exploring-with-polaroid-camplus-ultimate-action-footage/"><u>[Updated] Exploring with Polaroid Cam+ Ultimate Action Footage</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/apples-innovative-vision-introducing-camera-equipped-airpods-expected-in-2026-insights/"><u>Apple's Innovative Vision: Introducing Camera-Equipped AirPods Expected in 2026 - Insights</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/-your-tv-experience-automatic-loops-of-youtube-videos-for-2024/"><u>Boost Your TV Experience Automatic Loops of YouTube Videos for 2024</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-can-life360-track-you-when-your-tecno-pova-5-pro-is-off-drfone-by-drfone-virtual-android/"><u>In 2024, Can Life360 Track You When Your Tecno Pova 5 Pro is off? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-complete-tutorial-to-use-gps-joystick-to-fake-gps-location-on-motorola-moto-g-stylus-2023-drfone-by-drfone-virtual-android/"><u>In 2024, Complete Tutorial to Use GPS Joystick to Fake GPS Location On Motorola Moto G Stylus (2023) | Dr.fone</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/inside-the-apple-vision-pro-launch-pricing-breakdown-feature-highlights-and-detailed-analysis-insights/"><u>Inside the Apple Vision Pro Launch: Pricing Breakdown, Feature Highlights, and Detailed Analysis Insights</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/introducing-the-revolutionary-apple-airpods-pro-now-with-enhanced-tracking-and-usb-c-charging-features-detailed-review-by-zdnet/"><u>Introducing the Revolutionary Apple AirPods Pro: Now with Enhanced Tracking & USB-C Charging Features - Detailed Review by ZDNet</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/is-investing-in-an-iphone-16-worth-it-insights-on-apple-smart-technology/"><u>Is Investing in an iPhone 16 Worth It? Insights on Apple Smart Technology</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/movavis-solution-for-kepernyofelvetel-hangnelkul-record-free-screen-capture-technique-explained/"><u>Movavi's Solution for Képernyőfelvétel Hangnélkül [Record-Free Screen Capture] Technique Explained</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/pre-order-apple-vision-pro-now-launching-in-store-on-feb-2-exciting-news-from-zdnet/"><u>Pre-Order Apple Vision Pro Now! Launching In-Store on Feb 2 - Exciting News From ZDNet</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-future-of-pc-cases-an-insightful-review-of-the-lian-li-hydroshift-360s-model-with-lcd-display/"><u>The Future of PC Cases: An Insightful Review of the Lian Li Hydroshift 360S Model with LCD Display</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/top-rated-ipad-models-of-2024-thoroughly-assessed-by-tech-specialists-insights/"><u>Top-Rated iPad Models of 2024 Thoroughly Assessed by Tech Specialists Insights</u></a></li>
+<li><a href="https://extra-information.techidaily.com/winning-windows-list-of-premier-podcast-apps-best-8/"><u>Winning Windows List of Premier Podcast Apps (Best 8)</u></a></li>
+</ul></div>
+

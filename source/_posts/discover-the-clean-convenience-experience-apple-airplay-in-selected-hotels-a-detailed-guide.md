@@ -1,7 +1,7 @@
 ---
 title: "Discover the Clean Convenience: Experience Apple AirPlay in Selected Hotels – A Detailed Guide"
-date: 2024-11-23T16:00:26.926Z
-updated: 2024-11-28T17:29:40.646Z
+date: 2024-12-03T16:06:08.021Z
+updated: 2024-12-07T18:36:59.622Z
 tags:
   - apple
 categories:
@@ -40,6 +40,10 @@ Tap on the Wallet app to open it.
 
 Screenshot by Maria Diaz/ZDNET
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Tap on the Add Card button and enter Apple Pay info
 
 From the Wallet app, tap on the + (plus) sign at the top right of your screen to add a card. Then, choose the type of card you're adding; if it's a payment method, select Debit or Credit Card. The other options are for Transit Cards and [Driver's License](https://www.zdnet.com/article/how-to-add-your-drivers-license-to-the-apple-wallet-app/) or [State ID](https://www.zdnet.com/article/apple-adds-drivers-licenses-state-ids-to-apple-wallet/), and are limited to a few states within the US.
@@ -62,10 +66,6 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3\. During check-out, double-click the right-side button of your iPhone
 
 Double-clicking, or, rather, double-pressing, the button on the right side of your iPhone brings up your available cards to use in Apple Pay. Do this when it's time to pay at the checkout counter, and you can then choose your preferred payment card when the Wallet comes up.
@@ -73,10 +73,6 @@ Double-clicking, or, rather, double-pressing, the button on the right side of yo
 Double-press the iPhone's right-side button to access Apple Pay.
 
 Maria Diaz/ZDNET
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4\. Enter your Apple Pay passcode or use Face ID to confirm payment
 
@@ -100,11 +96,11 @@ Apple
 
 That's it! Apple Pay is as easy as apple pie. (Sorry, I had to.) 
 
-## FAQ
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+## FAQ
 
 ## How do I set up Apple Pay from my iPhone Settings?
 
@@ -115,10 +111,6 @@ To set up Apple Pay, you go to your iPhone's Settings and follow these steps:
 
 Once you add your card to your Wallet, you can edit your settings to suit your needs. You can choose to enable Apple Cash; enable the double-click side button to work as a shortcut for Apple Pay' add Express Transit Cards to pay for transit automatically without a passcode or Face ID; edit your transaction information like default card, shipping address, and contact info; and toggle payments on your Mac on and off. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Where can I use Apple Pay to pay in stores and online?
 
 You can use Apple Pay with an iPhone or Apple Watch at checkout wherever there is a payment terminal with NFC. Most retailers have them at the checkout counter, with some exceptions. Just look for the NFC symbol on the card reader or an Apple Pay logo. Some banks even support Apple Pay at NFC-enabled ATMs so you can make withdrawals or access your account. 
@@ -126,10 +118,6 @@ You can use Apple Pay with an iPhone or Apple Watch at checkout wherever there i
 ## What is NFC?
 
 NFC stands for [near-field communication](https://www.zdnet.com/article/near-field-communication-aims-to-simplify-our-lives/). It's a technology that employs magnetic field induction to allow wireless communication between two electronic devices at a short range, typically less than 4 centimeters or 1.5 inches.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Can I use Apple Pay online?
 
@@ -141,6 +129,10 @@ On top of being more secure, using Apple Pay online is more convenient as you do
 
 To use Apple Pay online, choose Apple Pay at checkout from your iPhone or other Apple device, if it's available. Next, you'll be prompted either to enter your passcode or use Face ID to authorize the payment. Then you'll be able to check out as usual with your Apple Pay information already filled in, so you won't need to sign in again or enter your card information. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What is Apple Cash?
 
 [Apple Cash](https://www.zdnet.com/article/how-to-use-apple-cash-family-to-help-kids-develop-good-money-habits/) is a digital card in your Apple Wallet that you can use to send or receive money through the Messages app. Similar to [Venmo](https://www.zdnet.com/article/paypal-vs-venmo/) or [Cash App](https://www.zdnet.com/finance/what-is-cash-app-and-how-does-it-work-a-comprehensive-guide/), you can use Apple Cash to send a friend money to reimburse them for a meal, for example, and that friend can check out with their accumulated Apple Cash at merchants that support Apple Pay.
@@ -148,6 +140,10 @@ To use Apple Pay online, choose Apple Pay at checkout from your iPhone or other 
 **Also: [Have you used Cash App in the last 6 years? You might be eligible for $2,500](https://www.zdnet.com/article/have-you-used-cash-app-within-the-past-six-years-you-might-be-eligible-for-2500/)**
 
 Some services from Apple offer rewards, like cash back on its credit cards, which also translate into Apple Cash. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to use Apple Pay on your Apple Watch
 
@@ -162,6 +158,10 @@ In order to use Apple Pay for contactless payments with your Apple Watch, you ne
 3. Choose Previous Cards to add any payment cards previously linked to your iPhone and you'll be prompted to enter the security code for each, or
 4. Tap on Debit or Credit Card to add a new one, or
 5. Select Transit Card to add an eligible transportation payment card.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Is Apple Pay secure?
 
@@ -197,22 +197,22 @@ Using Apple Pay or [Google Pay](https://www.zdnet.com/finance/google-pay-vs-sams
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://hardware-help.techidaily.com/enhance-your-display-download-intels-latest-iris-xe-drivers-for-windows-systems/"><u>Enhance Your Display: Download Intel's Latest Iris Xe Drivers for Windows Systems</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/24-icon-and-logo-havens-a-guide-to-6-unique-online-resources/"><u>In 2024, Icon & Logo Havens A Guide to 6 Unique Online Resources</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/in-depth-analysis-of-apples-newest-ultra-series-apple-watch-ultra-2-assessment/"><u>In-Depth Analysis of Apple's Newest Ultra Series - Apple Watch Ultra 2 Assessment</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/is-fake-gps-location-spoofer-a-good-choice-on-oppo-a18-drfone-by-drfone-virtual-android/"><u>Is Fake GPS Location Spoofer a Good Choice On Oppo A18? | Dr.fone</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/jbl-charge-5-performance-check-still-a-top-contender-after-3-years/"><u>JBL Charge 5 Performance Check - Still a Top Contender After 3 Years?</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-buggy-fcpx-reset-and-reboot-a-quick-fix-for-common-problems-for-2024/"><u>New Buggy FCPX? Reset and Reboot A Quick Fix for Common Problems for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/review-of-the-nzxt-lift-2-smm-the-high-speed-gamers-ultimate-choice/"><u>Review of the NZXT Lift 2 SMM: The High-Speed Gamer's Ultimate Choice</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/review-of-the-ugreen-nexode-pro-65w-slender-beast-power-in-a-compact-form/"><u>Review of the Ugreen Nexode Pro 65W Slender Beast - Power in a Compact Form</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/rivian-r1s-assessment-comparing-the-benefits-of-electric-suvs-vs-trucks/"><u>Rivian R1S Assessment: Comparing the Benefits of Electric SUVs Vs. Trucks</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/rog-cetras-low-latency-speednova-wireless-earphones-a-gamers-sound-and-performance-review/"><u>ROG Cetra's Low Latency SpeedNova Wireless Earphones - A Gamer's Sound & Performance Review</u></a></li>
-<li><a href="https://win-reviews.techidaily.com/samsung-ssdwindows111087/"><u>Samsung SSD無料バックアップツール（Windows11/10/8/7対応）</u></a></li>
-<li><a href="https://video-capture.techidaily.com/step-by-step-instructions-for-creating-purposefully-bad-audio-recordings/"><u>Step-by-Step Instructions for Creating Purposefully Bad Audio Recordings</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/the-essential-list-of-preferred-ae-themes-on-ig-for-2024/"><u>The Essential List of Preferred AE Themes on IG for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/top-reviews-of-nomad-base-one-max-exploring-the-ultimate-3-in-1-magsafe-charging-solution/"><u>Top Reviews of Nomad Base One MAX: Exploring the Ultimate 3-in-1 MagSafe Charging Solution</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/top-tech-picks-how-to-geek-reveals-top-gadgets-and-services-of-2023/"><u>Top Tech Picks: How-To Geek Reveals Top Gadgets and Services of 2023</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/unveiling-the-features-an-insightful-review-of-the-gaomon-pd1560-stylus-tablet/"><u>Unveiling the Features: An Insightful Review of the Gaomon PD1560 Stylus Tablet</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/updated-adding-oomph-to-your-videos-a-tutorial-on-finding-and-using-free-sound-effects-in-final-cut-pro/"><u>Updated Adding Oomph to Your Videos A Tutorial on Finding and Using Free Sound Effects in Final Cut Pro</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-first-rate-screen-recorders-for-youtube-enthusiasts/"><u>[New] In 2024, First-Rate Screen Recorders for YouTube Enthusiasts</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-free-custom-minecraft-gif-templates/"><u>[New] In 2024, Free Custom Minecraft GIF Templates</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-harnessing-the-potential-of-youtube-shorts-advertising/"><u>[New] In 2024, Harnessing the Potential of YouTube Shorts Advertising</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-8-free-online-courses-for-beginner-youtube-creators/"><u>[Updated] 2024 Approved 8 Free Online Courses for Beginner YouTube Creators</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-free-high-quality-edits-explore-these-9-cloud-apps/"><u>[Updated] 2024 Approved Free, High-Quality Edits Explore These 9 Cloud Apps</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-cutting-edge-screen-shifting-for-editors/"><u>[Updated] Cutting-Edge Screen Shifting for Editors</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-fast-track-to-1000-subscribers-in-youtube-landscape-for-2024/"><u>[Updated] Fast-Track To 1,000 Subscribers in Youtube Landscape for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-financially-flourishing-online-media-personality-for-2024/"><u>[Updated] Financially Flourishing Online Media Personality for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-first-steps-toward-monetary-success-on-youtube/"><u>[Updated] In 2024, First Steps Toward Monetary Success on YouTube</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-comprehensive-guide-to-vsco-camera-app/"><u>2024 Approved Comprehensive Guide to VSCO Camera App</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210405723-9781087951379-addiction-in-the-vedic-astrology-chart/"><u>Addiction in the Vedic Astrology Chart | Free Book</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/climb-the-fame-hierarchy-on-instagram-discovering-9-game-changing-tips/"><u>Climb the Fame Hierarchy on Instagram Discovering #9 Game-Changing Tips</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/compare-and-contrast-apples-cutting-edge-airpods-4-models-with-in-depth-analysis/"><u>Compare & Contrast Apple's Cutting-Edge AirPods 4 Models with In-Depth Analysis</u></a></li>
+<li><a href="https://program-issues.techidaily.com/expert-tips-to-resolve-freezing-and-stuttering-in-the-thrilling-world-of-dying-light/"><u>Expert Tips to Resolve Freezing and Stuttering in the Thrilling World of Dying Light</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-best-anti-tracker-software-for-honor-70-lite-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Best Anti Tracker Software For Honor 70 Lite 5G | Dr.fone</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/sh-pure-content-how-to-block-youtube-ads-effectively/"><u>Unleash Pure Content How to Block YouTube Ads Effectively</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/1722709000262-why-the-alienware-aurora-r11-reigns-supreme-in-2nnd-anniversary-pc-review/"><u>Why the Alienware Aurora R11 Reigns Supreme in 2Nnd-Anniversary PC Review</u></a></li>
 </ul></div>
 

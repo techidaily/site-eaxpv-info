@@ -1,7 +1,7 @@
 ---
 title: "Amazon Kindle Collection Mastery: 2 Effective Methods for Book Grouping & Management"
-date: 2024-08-20T12:53:43.642Z
-updated: 2024-08-21T12:53:43.642Z
+date: 2024-12-06T17:31:37.845Z
+updated: 2024-12-07T21:52:10.274Z
 categories:
   - epubor
 thumbnail: https://thmb.techidaily.com/6db3345e6b05b14e1b02d624eebb2a2ce8b63469f2261321211e5e8c5934467b.jpg
@@ -15,11 +15,13 @@ Posted by [Ada Wang](https://plus.google.com/+AdaWang/posts) on 8/3/2023 2:06:39
 
 4.7 [(37 comments)](http://www.epubor.com/#comment-area) 
 
-
-
 ![follow](http://www.epubor.com/images/follow.png)
 
 ![Kindle Collection Manager](http://www.epubor.com/images/uppic/kindle-collection-manager.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **What is Kindle Collection?** Kindle Collections are a classification of the folders on the kindle device which help you organize kindle contents. If you have lots of eBooks in your Kindle library, you should create collections to manage your ebooks in good order. In this article, I will introduce 5 different methods to help you create and manage kindle collections.
 
@@ -45,6 +47,10 @@ Click on the button before the book title and choose " **Make changes**". Then a
 
 ![add books to collections](http://www.epubor.com/images/uppic/add-books-to-collections.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 When all these have been done, you just need to open your kindle device and choose " **Sync and Check for Items**" in the menu. Then all created collections will be displayed in the Cloud library.
 
 ![sync collections to kindle device](http://www.epubor.com/images/uppic/sync-collections-to-kindle-device.png)
@@ -56,6 +62,10 @@ When all these have been done, you just need to open your kindle device and choo
 ##### Q: If I delete the collection, will the books added to this collection be deleted?
 
 A: The books in collections will not be deleted from your library. You just delete the collections, not your purchased kindle books.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 2\. Create and Manage Collections on Kindle Manually
 
@@ -69,15 +79,16 @@ Step 2 Put your books in the collection.
 
 ![make kindle collections](http://www.epubor.com/images/uppic/create-collections-on-kindle-paperwhite.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 To navigate to a collection, you can add more items or remove from the menu.
 
 **Note:** If you have 500 books in your Kindle, it's a huge workload to organize these books in order one by one. And this method is also only applied to purchased books from Amazon Store.
 
 ![](http://www.epubor.com/./6 Ways to Create and Manage Kindle Collections_files/faq.png) Frequently Asked Questions about This Method
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##### Q: Why do my books appear in "Documents from My items" and not in "Books from My items"?
 
 A: Docs are the ones that you send to your Kindle device by email, but not purchased directly from Amazon.
@@ -95,17 +106,9 @@ Make sure that you have logged in to Kindle for PC with your Amazon account. Rig
 ![manage kindle collections on pc](http://www.epubor.com/images/uppic/create-collections-on-kindle-for-pc.png)
 
 <!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="1080" height="1620" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Step 2 Import collections to kindle paperwhite (Kindle Touch).
 
 Login to your kindle device (only for kindle paperwhite/kindle touch) with the same Amazon account. Hit **Home** and then Menu and tap "Sync and Check for Items". Switch to Cloud View, open the menu and select "Import Collections". Then select "OK" on the pop-up screen. Wait for a moment, then all the books will appear in the corresponding collections in order. Congratulations!
@@ -113,18 +116,20 @@ Login to your kindle device (only for kindle paperwhite/kindle touch) with the s
 ![import kindle for pc collections](http://www.epubor.com/images/uppic/import-collections-to-kindle-paperwhite.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Method 2 and 3 above can only be applied to newer kindle models. If you have a very older Kindle device, please refer to method 4 and method 5.
 
 ![](http://www.epubor.com/./6 Ways to Create and Manage Kindle Collections_files/faq.png) Frequently Asked Questions about This Method
 
-<!-- affiliate ads begin -->
-<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##### Q: How to transfer Kindle collections from Kindle for PC to iPad Kindle app?
 
 A: It's easier for us to make and manage my collections on pc. According to Amazon Customer Service, it doesn't support sending collections from computer to iPad. Maybe [Kindle Cloud Collections](http://amzn.to/1sEm5Sv)can help you manage kindle books on iPad (iOS app).
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 4\. Kindlian Kindle Collection Manager (For Windows Only)
 
@@ -138,9 +143,6 @@ Once you tap kindle paperwhite and press the icon, the pop-up screen prompts you
 
 ![choose kindle version](http://www.epubor.com/images/uppic/choose-kindle-version.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
-<!-- affiliate ads end -->
 Tap "Settings" from kindle menu-->"Update your kindle". Then reconnect kindle to your computer. At last press "OK". Then it will enter the scan mode and then the new interface appears.
 
 Step 2 Create a new collection.
@@ -155,14 +157,8 @@ When you disconnect your kindle with computer, tap "Settings"-->"Update Your Kin
 
 ![manage my kindle books](http://www.epubor.com/images/uppic/manage-my-kindle-books.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
-<!-- affiliate ads end -->
 The Kindlian just offers a Windows version. But its good point is that it also works with non Amazon books. 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
-<!-- affiliate ads end -->
 ### Method 5\. Kindle Collections Plugins with Calibre
 
 I will demonstrate a proper way to manage your kindle books and group books together into unique collections.
@@ -191,6 +187,10 @@ Once you run the Collections Manager successfully, a pop up screen will show lik
 
 ![install collection manager](http://www.epubor.com/images/uppic/Install-Collections-Manager.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step 3 Install Calibre Plugin.
 
 In fact, if you just want to manage your kindle books on Paperwhite, there is no need to follow step 3.
@@ -203,9 +203,6 @@ Just go forward to "Preference"-->"Plugins"-->"Get new plugins". Locate "Kindle 
 
 ![install collections for kindle](http://www.epubor.com/images/uppic/Install-Collections-for-Kindle1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
-<!-- affiliate ads end -->
 Install Collections for Kindle Touch/Kindle Paperwhite 
 
 Download the plugin called "[Kindle Collections.zip](https://www.mobileread.com/forums/showthread.php?t=244202) ". Navigate to "Preference"-->"Plugins"-->"Load plugin from file". Browser the location of "Kindle Collections.zip". And select it and add this zip file to calibre. Refer to this guide about how to [load plugin into Calibre](https://tools.techidaily.com/epubor/products/)step by step.
@@ -222,13 +219,14 @@ Once you have created the custom column successfully, navigate to Kindle Collect
 
 ![import collections to calibre](http://www.epubor.com/images/uppic/import-collections-to-calibre.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Go forward to the Kindle Collections icon-->"_Edit Kindle collections manually_...". You will see a list of Collections and you can delete/add a collection to the list. And you can rename the collection. Once you have kept your collections in order, click "Save" button and save collections to your kindle paperwhite. Then it will prompt to restart the Kindle. Eject the Kindle from your computer and navigate to "Home" menu-->"Setting"-->"menu"-->"Restart". Finally, it will save the new collections to Kindle paperwhite.
 
 ![add collections from calibre to kindle](http://www.epubor.com/images/uppic/add-collections-from-calibre-to-kindle.png)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 #### Tips and Tricks More 
 
 If you feel overwhelmed when you look at your Kindle or kindle library, there's a good chance that you need to manage your kindle library by: 
@@ -249,8 +247,6 @@ SHARING IS GREAT!
 [Tweet](https://twitter.com/share) 
 
 [SAVE PAGE AS PDF](https://tools.techidaily.com/epubor/products/) 
-
-
 
 37 Comments
 
@@ -703,8 +699,6 @@ Leave a comment
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -712,4 +706,24 @@ Leave a comment
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-footage-to-fame-premiere-pro-edition-tricks-for-youtube/"><u>[New] 2024 Approved From Footage to Fame Premiere Pro Edition Tricks for YouTube</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-genres-to-gems-building-a-personalized-youtube-music-mix-onlinemobile/"><u>[New] 2024 Approved From Genres to Gems Building a Personalized YouTube Music Mix Online/Mobile</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-safely-extract-youtube-audio-a-study-of-3-techniques/"><u>[New] 2024 Approved How to Safely Extract YouTube Audio A Study of 3 Techniques</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/et-the-facts-about-youtube-keyword-research-for-2024/"><u>[New] Get the Facts About YouTube Keyword Research for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-harmonizing-your-spotify-queue-with-youtube-music-catalogs-for-2024/"><u>[New] Harmonizing Your Spotify Queue with YouTube Music Catalogs for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-in-2024-dji-flight-suites-entry-level-enhanced-models-high-definition-pro/"><u>[New] In 2024, DJI Flight Suites Entry-Level, Enhanced Models, High Definition Pro</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-precision-in-inshot-transitions-a-step-by-step-guide/"><u>[New] Precision in Inshot Transitions A Step-by-Step Guide</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-freeing-up-youtube-footage-borderless-exploration-for-2024/"><u>[Updated] Freeing Up YouTube Footage Borderless Exploration for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-harmonizing-youtube-content-a-guide-to-blending-files-for-2024/"><u>[Updated] Harmonizing YouTube Content A Guide to Blending Files for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-free-and-uncomplicated-youtube-image-extractor-tools-reviewed/"><u>[Updated] In 2024, Free and Uncomplicated YouTube Image Extractor Tools Reviewed</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-boring-to-buzzing-three-tactics-for-youtube-reaction-mastery/"><u>[Updated] In 2024, From Boring to Buzzing Three Tactics for YouTube Reaction Mastery</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-ways-to-transfer-music-from-tecno-spark-10c-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways to Transfer Music from Tecno Spark 10C to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/easy-and-quick-video-transformation-to-mp4-for-free-using-konvertera-web-tool/"><u>Easy & Quick Video Transformation to MP4 for Free Using Konvertera Web Tool</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-huawei-bootloader-easily-by-drfone-android/"><u>How to Unlock Huawei Bootloader Easily</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/speed-up-your-photo-journey-creating-rapid-google-collages-for-2024/"><u>Speed Up Your Photo Journey Creating Rapid Google Collages for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-best-choice-selecting-quality-bittorrent-clients/"><u>The Best Choice: Selecting Quality BitTorrent Clients</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-insights-the-ultimate-guide-by-toms-hardware/"><u>Tom's Tech Insights: The Ultimate Guide by Tom's Hardware</u></a></li>
+</ul></div>
 

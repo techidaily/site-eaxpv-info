@@ -1,7 +1,7 @@
 ---
 title: "Revolutionary MagSafe Battery Pack: Sleek Design & Rapid Charging Features Unveiled - Insights"
-date: 2024-11-01T07:35:26.040Z
-updated: 2024-11-01T20:41:28.696Z
+date: 2024-12-05T20:49:09.382Z
+updated: 2024-12-07T16:15:42.141Z
 tags:
   - apple
 categories:
@@ -19,6 +19,10 @@ Kayla Solino/ZDNET
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
 
@@ -47,10 +51,7 @@ The Casely Power Pod battery pack uses MagSafe technology to snap onto the back 
 It offers 5,000mAh of battery capacity and a max wireless output of 15W that can be used three ways: as a MagSafe battery pack, as a Qi charging pad for things like wireless earbuds, or as a traditional battery pack with a USB-C cord. 
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/977686/11832" target="_top" id="977686">
-  <img src="//a.impactradius-go.com/display-ad/11832-977686" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/977686/11832" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How long does it take to charge a phone?
@@ -96,10 +97,7 @@ Casely's Power Pods can also be matched with the brand's [phone cases](https://s
 Diving beyond the obviously unique color and print offerings, the Power Pod also stands out for its shape. There's no boxy, oversized battery here. Instead, at only 3.2 ounces, the Power Pod is slightly thinner than many competitors and noticeably more rounded off than [other battery packs I have tested](https://www.zdnet.com/article/best-magsafe-battery/). It was clearly designed with user appeal at the forefront. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972693/19272" target="_top" id="1972693">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972693" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972693/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -138,24 +136,18 @@ Unlike bulkier battery packs, the Power Pod provides an on-par 5,000mAh of batte
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-safely-capture-your-favorite-youtube-audio-for-free/"><u>[New] 2024 Approved How to Safely Capture Your Favorite YouTube Audio for Free</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-streamlabs-obs-demystified-an-in-depth-guide/"><u>[New] 2024 Approved Streamlabs OBS Demystified An In-Depth Guide</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-free-tools-and-tricks-creating-compelling-youtube-video-ads-for-2024/"><u>[New] Free Tools and Tricks Creating Compelling YouTube Video Ads for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-from-casual-follower-to-dedicated-subscriber-inspirational-journey-for-2024/"><u>[New] From Casual Follower to Dedicated Subscriber Inspirational Journey for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-from-search-patterns-to-screenplay-crafting-videos-from-google-data-for-2024/"><u>[New] From Search Patterns to Screenplay Crafting Videos From Google Data for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-how-much-money-can-you-score-with-youtube-short-videos-for-2024/"><u>[New] How Much Money Can You Score with YouTube Short Videos for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-graph-gala-2017-an-illuminated-expedition-into-yt-data/"><u>[New] In 2024, Graph Gala 2017 An Illuminated Expedition Into YT Data</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-guide-to-equipment-selection-for-youtube-creators/"><u>[New] In 2024, Guide to Equipment Selection for YouTube Creators</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-youtubes-realm-to-igtvs-domain-3-ways/"><u>[Updated] 2024 Approved From YouTube's Realm to IGTV's Domain (3 Ways)</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-gamified-design-making-your-youtube-banner-unforgettable/"><u>[Updated] In 2024, Gamified Design Making Your YouTube Banner Unforgettable</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/2024-approved-elevate-your-nba-experience-with-these-15-tips/"><u>2024 Approved Elevate Your NBA Experience with These 15 Tips</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/glion-dolly-electrified-two-wheeler-reviewed-premium-design-impressive-velocity/"><u>Glion Dolly Electrified Two-Wheeler Reviewed: Premium Design, Impressive Velocity</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-8-solutions-to-fix-find-my-friends-location-not-available-on-realme-narzo-60x-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 8 Solutions to Fix Find My Friends Location Not Available On Realme Narzo 60x 5G | Dr.fone</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-remove-flashlight-from-apple-iphone-14-pro-lock-screen-by-drfone-ios/"><u>In 2024, How To Remove Flashlight From Apple iPhone 14 Pro Lock Screen</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/24-maximize-views-with-these-top-20-thumbnail-fonts/"><u>In 2024, Maximize Views with These Top 20 Thumbnail Fonts</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/in-2024-top-five-hd-recording-cards-switch-edition/"><u>In 2024, Top Five HD Recording Cards, Switch Edition</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/the-ultimate-ranking-of-cutting-edge-smart-glasses/"><u>The Ultimate Ranking of Cutting-Edge Smart Glasses</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/the-ultimate-verdict-on-netgears-ex3700-wireless-repeater-ac750-performance-and-features/"><u>The Ultimate Verdict on Netgear's EX3700 Wireless Repeater (AC750) - Performance & Features</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/transformez-gratuitement-vos-fichiers-aifc-en-format-wav-en-ligne-avec-movavi-converter/"><u>Transformez Gratuitement Vos Fichiers AIFC en Format WAV en Ligne Avec Movavi Converter</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-final-step-guide-free-yourself-from-youtube-shorts/"><u>[New] 2024 Approved Final Step Guide Free Yourself From YouTube Shorts</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-globes-biggest-video-content-mogul/"><u>[New] 2024 Approved Globe’s Biggest Video Content Mogul</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-hit-the-floor-with-optimal-posting-hours/"><u>[New] 2024 Approved Hit the Floor with Optimal Posting Hours</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-going-pro-with-gs-effects-exclusive-free-lessons-from-4-premier-video-channels-for-2024/"><u>[New] Going Pro with GS Effects Exclusive Free Lessons From 4 Premier Video Channels for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-how-to-tackle-missing-thumbnails-on-youtube-shorts-for-2024/"><u>[New] How to Tackle Missing Thumbnails on YouTube Shorts for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-selfies-to-subscribers-jake-pauls-online-odyssey/"><u>[Updated] 2024 Approved From Selfies to Subscribers Jake Paul’s Online Odyssey</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-decoding-the-art-of-asmr-filmmaking-techniques-for-2024/"><u>[Updated] Decoding the Art of ASMR Filmmaking Techniques for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-insta-vibes-music-trends-unveiled/"><u>In 2024, Insta Vibes Music Trends Unveiled</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-the-complete-guide-to-oppo-f25-pro-5g-frp-bypass-everything-you-need-to-know-by-drfone-android/"><u>In 2024, The Complete Guide to Oppo F25 Pro 5G FRP Bypass Everything You Need to Know</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/the-complete-guide-to-vivo-v30-lite-5g-frp-bypass-everything-you-need-to-know-by-drfone-android/"><u>The Complete Guide to Vivo V30 Lite 5G FRP Bypass Everything You Need to Know</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/thumbnail-scaling-techniques-for-youtube-for-2024/"><u>Thumbnail Scaling Techniques for YouTube for 2024</u></a></li>
+<li><a href="https://techidaily.com/top-8-iphone-6-plus-smsmessagetext-recovery-software-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>Top 8 iPhone 6 Plus SMS/Message/Text Recovery Software | Stellar</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/your-guide-to-iconic-fonts-boosting-video-engagement/"><u>Your Guide to Iconic Fonts Boosting Video Engagement</u></a></li>
 </ul></div>
 

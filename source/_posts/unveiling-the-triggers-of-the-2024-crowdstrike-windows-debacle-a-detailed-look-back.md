@@ -1,7 +1,7 @@
 ---
 title: "Unveiling the Triggers of the 2024 CrowdStrike-Windows Debacle: A Detailed Look Back"
-date: 2024-11-21T17:18:52.891Z
-updated: 2024-11-28T18:11:05.101Z
+date: 2024-11-30T23:26:40.243Z
+updated: 2024-12-07T18:23:52.703Z
 tags:
   - apple
 categories:
@@ -33,7 +33,7 @@ In this case, the trusted software developer is a firm called CrowdStrike Holdin
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What happened?
@@ -55,7 +55,7 @@ Repairing the damage from a flaw like this is a painfully tedious process that r
 If you know anyone whose job involves administering Windows PCs in a corporate network that uses the CrowdStrike code, you can be confident they are very busy right now, and will be for days to come.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## We've seen this movie before
@@ -95,7 +95,7 @@ In the You Can't Make This Up Department… CrowdStrike's founder and CEO, Georg
 What makes the 2024 sequel so much worse is that it also affected Windows-based servers running in the cloud, on Microsoft Azure and on AWS. Just as with the many laptops and desktop PCs that were bricked by this faulty update, the cloud-based servers require time-consuming manual interventions to recover.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## CrowdStrike's QA failed
@@ -125,7 +125,7 @@ As part of its initial response, CrowdStrike says it plans to take additional me
 Meanwhile, the United States House of Representatives Homeland Security Committee plans to call CrowdStrike's CEO up for hearings on what went wrong, and CrowdStrike's Chief Security Officer, Shawn Henry, [posted an apology on LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7220983915421806592/), admitting "On Friday, we failed you. ... The confidence we built in drips over the years was lost in buckets within hours, and it was a gut punch."
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How much fault should Microsoft shoulder?
@@ -176,16 +176,24 @@ Nonetheless, this incident, which caused many billions of dollars' worth of dama
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/updated-step-by-step-to-activate-pip-in-youtube-iphone-app/"><u>[Updated] Step-by-Step to Activate PIP in YouTube iPhone App</u></a></li>
-<li><a href="https://driver-error.techidaily.com/how-to-rectify-top-to-bottom-screen-display-on-an-asus-computer-for-optimal-viewing/"><u>How to Rectify Top-to-Bottom Screen Display on an ASUS Computer for Optimal Viewing</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/hush-harmony-techniques-for-taming-unwanted-voices-on-gchat-for-2024/"><u>Hush Harmony Techniques for Taming Unwanted Voices on GChat for 2024</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-resolve-your-iphone-14-plus-keeps-asking-for-outlook-password-drfone-by-drfone-ios/"><u>In 2024, Resolve Your iPhone 14 Plus Keeps Asking for Outlook Password | Dr.fone</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/movavi-mp4gif/"><u>Movavi MP4至GIF自由下載 - 線上無限瀏覽及轉化功能</u></a></li>
-<li><a href="https://win-news.techidaily.com/sistemare-automatiche-non-funzionanti-di-microsoft-outlook-e-office-365-5-metodi-efficaci/"><u>Sistemare Automatiche Non Funzionanti Di Microsoft Outlook E Office 365: 5 Metodi Efficaci</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/transformar-audio-em-video-ferramenta-livre-do-movavi-para-converter-mp3-e-ogv-on-line/"><u>Transformar Áudio Em Video: Ferramenta Livre Do Movavi Para Converter Mp3 E Ogv On-Line</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/veelvoudige-musiekuploaden-vanaf-flashdrive-instructie-windows-and-mac-gratis/"><u>Veelvoudige Musiekuploaden Vanaf Flashdrive | Instructie Windows & Mac | Gratis</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/what-is-the-best-pokemon-for-pokemon-pvp-ranking-on-apple-iphone-14-pro-max-drfone-by-drfone-virtual-ios/"><u>What is the best Pokemon for pokemon pvp ranking On Apple iPhone 14 Pro Max? | Dr.fone</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/1726226183503-movmkv-movavi/"><u>オンライン無料MOV/MKVフォーマット変換ツール | 動画コンバーター - Movavi</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/1726222923267-tga-movavi/"><u>オンラインで簡単なTGA画像の無料変換 - Movavi解説</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-free-vs-paid-gaming-entrances-top-12-insights-for-youtube-gamers/"><u>[New] 2024 Approved Free vs Paid Gaming Entrances Top 12 Insights for YouTube Gamers</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-gamers-ultimate-guide-selecting-the-best-video-card-brands/"><u>[New] 2024 Approved Gamer’s Ultimate Guide Selecting the Best Video Card Brands</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-happy-days-with-anime-discovering-the-best-channels-of-2023-for-2024/"><u>[New] Happy Days with Anime Discovering the Best Channels of 2023 for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-gaming-heaven-a-treasure-trove-of-superb-offline-ios-game-titles/"><u>[New] In 2024, Gaming Heaven A Treasure Trove of Superb Offline iOS Game Titles</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-harnessing-your-creative-potential-an-exhaustive-tutorial-for-youtube-video-submission/"><u>[New] In 2024, Harnessing Your Creative Potential An Exhaustive Tutorial for YouTube Video Submission</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-create-youtube-channel-in-mobile-personal-and-business/"><u>[New] In 2024, How to Create YouTube Channel in Mobile [Personal & Business]</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-individual-tracks-to-albums-building-a-personalized-soundtrack-on-web-and-mobile/"><u>[Updated] 2024 Approved From Individual Tracks to Albums Building a Personalized Soundtrack on Web & Mobile</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-find-your-vfx-match-top-8-sites-for-free-high-quality-green-screen-footage-for-2024/"><u>[Updated] Find Your VFX Match - Top 8 Sites for FREE High Quality Green Screen Footage for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-frame-reconfigurator-for-videos/"><u>[Updated] Frame Reconfigurator for Videos</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-green-screen-ease-crafting-effective-youtube-ctas-for-2024/"><u>[Updated] Green Screen Ease Crafting Effective YouTube CTAs for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-compose-captivating-youtube-intros-for-free/"><u>[Updated] In 2024, How To Compose Captivating YouTube Intros for FREE</u></a></li>
+<li><a href="https://common-error.techidaily.com/bypass-the-vcruntime140dll-is-missing-error-with-these-simple-steps/"><u>Bypass the 'VCRuntime140.dll Is Missing' Error with These Simple Steps</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatgpt-unleashed-revolutionizing-task-management/"><u>ChatGPT Unleashed: Revolutionizing Task Management</u></a></li>
+<li><a href="https://win-answers.techidaily.com/discord-stability-tips-resolving-persistent-application-crash-issues/"><u>Discord Stability Tips: Resolving Persistent Application Crash Issues</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-lock-your-oppo-a1x-5g-phone-in-style-the-top-5-gesture-lock-screen-apps-by-drfone-android/"><u>In 2024, Lock Your Oppo A1x 5G Phone in Style The Top 5 Gesture Lock Screen Apps</u></a></li>
+<li><a href="https://driver-download.techidaily.com/keep-your-canon-mg2ein-updated-free-driver-downloads-for-windows-users/"><u>Keep Your Canon MG2ein Updated: Free Driver Downloads for Windows Users</u></a></li>
+<li><a href="https://driver-download.techidaily.com/latest-canon-pixma-mg2520mg2522-drivers-compatible-with-windows/"><u>Latest Canon PIXMA MG2520/MG2522 Drivers Compatible with Windows</u></a></li>
+<li><a href="https://facebook.techidaily.com/personalize-and-polish-your-facebook-page-rebranding-guide/"><u>Personalize & Polish: Your Facebook Page Rebranding Guide</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/reasons-why-pokemon-gps-does-not-work-on-oppo-find-x7-ultra-drfone-by-drfone-virtual-android/"><u>Reasons why Pokémon GPS does not Work On Oppo Find X7 Ultra? | Dr.fone</u></a></li>
 </ul></div>
 

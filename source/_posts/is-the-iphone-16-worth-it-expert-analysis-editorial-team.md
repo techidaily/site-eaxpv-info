@@ -1,7 +1,7 @@
 ---
 title: Is the iPhone 16 Worth It? Expert Analysis Editorial Team
-date: 2024-11-26T18:16:27.036Z
-updated: 2024-11-28T18:47:21.028Z
+date: 2024-12-05T17:53:19.416Z
+updated: 2024-12-07T21:16:43.208Z
 tags:
   - apple
 categories:
@@ -30,16 +30,12 @@ Here are the top reasons why we are (or aren't) upgrading to the iPhone 16 in th
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Here's why ZDNET editors will be upgrading to the iPhone 16
 
 Kerry Wan/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 1\. The camera
@@ -66,6 +62,10 @@ And if you're looking to change carriers, like managing editor Alison DeNisco Ra
 
 Verizon and T-Mobile have [similar offers](https://www.zdnet.com/article/how-to-preorder-the-new-iphone-16-and-get-one-free/) right now, and they're pretty sweet. At T-Mobile, new and existing customers can get a free iPhone 16 Pro with a trade-in on the Go5G Next plan, or up to $1,000 off on any iPhone 16 model. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 3\. For work
 
 Okay, this one comes as no surprise. There was bound to be some of us upgrading because well, we do work in tech after all, and what better way to cover Apple's iPhones than actually owning the new model yourself? So while this may not be an applicable reason for some, for those in tech it is sometimes justifiable. 
@@ -88,12 +88,16 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 ZDNET's Jason Perlow is bumping up for similar reasons. "I am upgrading from my 15 Pro Max to a 16 Pro Max because I am on the iPhone Upgrade Program, and as I cover developments with Apple, it is a business expense and \[ultimately\] it's trading one loan payment for another. No other reason, although the camera improvements seem nice. I debated skipping, but there wasn't much of a downside," he says. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Here's why ZDNET editors won't be upgrading to the iPhone 16
 
 Jason Hiner/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 1\. The Apple Intelligence features aren't perfect
@@ -106,6 +110,10 @@ Essentially, this is Apple's first iPhone marketed with an AI push, and like eve
 
 Jason Perlow is on the same page. "Let's not diminish the product for what it is: the iPhone 16 is undeniably great hardware. But unless you're using a old phone -- like my colleague [David Gewirtz's iPhone 12](https://www.zdnet.com/article/6-reasons-why-ios-18-makes-the-iphone-16-a-must-upgrade-for-me/), which is four generations behind -- you should strongly consider skipping this generation. Why? Because Apple Intelligence, while promising, is still in its infancy," Perlow wrote in one of his [recent pieces](https://www.zdnet.com/article/the-iphone-16-is-undeniably-great-hardware-but-you-should-still-probably-skip-it/). 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 2\. Not compelled enough to upgrade
 
 As reviews editor Kyle Kucharski says, it's never a good idea to blindly update your mobile tech every year without thinking. You've got to have at least one good reason to payout for a new model when the one you have is working perfectly fine. 
@@ -114,19 +122,11 @@ As reviews editor Kyle Kucharski says, it's never a good idea to blindly update 
 
 Staff writer Maria Diaz thinks the same. "I have the iPhone 14 Pro Max and am still happy with it. It performs just as well as when I got it. I wish the camera were better (but the BlackMagic app helps a lot with this) and I would like the convenience of a USB-C port, but it's still working well enough that I don't feel compelled at all to get an iPhone 16\. I'm holding out for next year, at least," Diaz says. Kucharski is on the same page. "I still have the 12, and the bottom line: it still works fine," he says. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 3\. Expense and hassle
 
 Sometimes it's the most obvious factors that influence our choices. The expense and hassle of coordinating a new phone may not be in some people's budgets just yet (literally and figuratively). I'm in this department. It would be really cool to have that shiny, beautiful, and gloriously pink iPhone 16, but my iPhone 14 Pro works completely fine (even though its battery grinds my gears), and I have no good reason to upgrade beyond wanting a pink phone. It would be an added expense on both my wallet and my time (setting up a new phone is not a one-day process; change my mind). Plus, I usually keep my phones until they crap out anyway, so an upgrade right now is just not in the cards. 
 
 ZDNET's Adrian Kingsley-Hughes is still on the fence, but we agree on one thing. "It's a ton of money," he says.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to preorder the iPhone 16
 
@@ -168,16 +168,18 @@ The [iPhone 16 Pro](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&pa
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/updated-become-a-pro-downloading-and-setting-up-vrecord/"><u>[Updated] Become a Pro Downloading & Setting Up VRecord</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-in-2024-tips-and-tricks-for-exceptional-steam-playback-footage/"><u>[Updated] In 2024, Tips and Tricks for Exceptional Steam Playback Footage</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-mastering-multimedia-posts-multiphotograph-and-video-uploads-on-instagram-for-2024/"><u>[Updated] Mastering Multimedia Posts Multiphotograph & Video Uploads on Instagram for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/combine-like-terms-on-the-right-side-of-the-equation/"><u>Combine Like Terms on the Right Side of the Equation:</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/connect-with-creativity-discover-your-digital-masterpiece/"><u>Connect with Creativity: Discover Your Digital Masterpiece</u></a></li>
-<li><a href="https://discover-best.techidaily.com/free-solutions-for-downloading-vimeo-content-as-mp4-files-discover-these-5-quick-techniques/"><u>Free Solutions for Downloading Vimeo Content as MP4 Files - Discover These 5 Quick Techniques</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/how-to-successfully-add-av1-encoder-support-in-windows-11-a-comprehensive-guide/"><u>How to Successfully Add AV1 Encoder Support in Windows 11: A Comprehensive Guide</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-4-most-known-ways-to-find-someone-on-tinder-for-oneplus-nord-ce-3-lite-5g-by-name-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Most-Known Ways to Find Someone on Tinder For OnePlus Nord CE 3 Lite 5G by Name | Dr.fone</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/pubg-knives-out-iosandroidand/"><u>PUBG: Knives Out - IOS/Android版デフォルトダウンロード&日本語指導手引き</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/rectifying-overlapping-app-symbols-on-pc-screen/"><u>Rectifying Overlapping App Symbols on PC Screen</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/resolving-this-pc-unable-to-support-windows-11-issue/"><u>Resolving 'This PC Unable to Support Windows 11' Issue</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-8-sites-to-download-free-green-screen-backgrounds-and-footage-for-2024/"><u>[New] 8 Sites to Download Free Green Screen Backgrounds and Footage for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-harness-the-full-potential-of-your-youtube-content-using-wmm-for-2024/"><u>[New] Harness the Full Potential of Your YouTube Content Using WMM for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-exploring-instagrams-premier-after-effects-themes/"><u>[New] In 2024, Exploring Instagram's Premier After Effects Themes</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-the-beginners-blueprint-achieving-superior-image-clarity-in-videos-for-2024/"><u>[New] The Beginner’s Blueprint Achieving Superior Image Clarity in Videos for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-the-evolved-sony-bdp-s6700-unveiled/"><u>[New] The Evolved Sony BDP-S6700 Unveiled</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-hourly-highlights-top-10-youtubes-biggest-view-count/"><u>[Updated] 2024 Approved Hourly Highlights Top 10 YouTube's Biggest View Count</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-get-paid-on-youtube-from-adsense-to-your-bank-account/"><u>[Updated] In 2024, How To Get Paid on YouTube - From AdSense to Your Bank Account</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-in-2024-the-insider-guide-whatsapp-audio-talks/"><u>[Updated] In 2024, The Insider Guide WhatsApp Audio Talks</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/2024-approved-crafting-youtube-masterpieces-with-powerful-hashtag-strategies/"><u>2024 Approved Crafting YouTube Masterpieces with Powerful Hashtag Strategies</u></a></li>
+<li><a href="https://driver-download.techidaily.com/easy-installation-of-toshiba-bluetooth-device-driver/"><u>Easy Installation of Toshiba Bluetooth Device Driver</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-use-allshare-cast-to-turn-on-screen-mirroring-on-vivo-y100i-power-5g-drfone-by-drfone-android/"><u>How To Use Allshare Cast To Turn On Screen Mirroring On Vivo Y100i Power 5G | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-life360-shows-wrong-location-on-vivo-y27-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Life360 Shows Wrong Location On Vivo Y27 5G? | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-will-ispoofer-update-on-nokia-c110-drfone-by-drfone-virtual-android/"><u>In 2024, Will iSpoofer update On Nokia C110 | Dr.fone</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Masterful Mobile Cinematography Now at Your Fingertps: How Apple Upgrades the iPhone with Final Cut for Pro-Level Shooting"
-date: 2024-11-01T12:46:45.517Z
-updated: 2024-11-02T11:49:26.841Z
+date: 2024-12-02T22:11:59.998Z
+updated: 2024-12-07T22:06:48.237Z
 tags:
   - apple
 categories:
@@ -23,6 +23,10 @@ Ever since, those attributes have defined all smartphones, save for one common s
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### SPECIAL FEATURE
 
@@ -56,6 +60,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 Another phone -- and my personal device for four years -- was the [Palm Treo 600](https://www.zdnet.com/article/treo-600-debuts-with-new-improvements-and-old-design-flaws/), released in 2003\. This device did a lot, including supporting a camera capable of taking 640x480 resolution images. The Treo didn't have Wi-Fi or Bluetooth, limiting its connectivity to a cable connected to the computer for image downloads. Its big claim to fame was that it could run any of the thousands of PalmOS apps that were available for download. Installing those apps, however, also involved connecting a cable to a computer.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2008: The birth of the modern smartphone
 
 Released on June 29, 2007, [the iPhone](https://web.archive.org/web/20070629165202/http://www.apple.com/iphone) was explosive. Many of us remember the lines of people waiting to get their first phone. I sat those lines out, happy with my Treo. While the first iPhone had nearly all of the characteristics of a modern smartphone, including a 2.0MP rear-facing camera, the only apps it allowed were crude customized web pages. My Treo had far better native PalmOS apps.
@@ -77,10 +85,7 @@ Over in the Android world, its first phone was the HTC Dream, also marketed as t
 With the iPhone 3 and the App Store, along with the first Android phone, it's fair to say that 2008 was the first year of the modern smartphone era.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915865/19272" target="_top" id="1915865">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915865" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915865/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2010: Smartphones meet narcism, a match made in heaven
@@ -104,10 +109,7 @@ Many smartphones today capture 8K video directly into phone storage. These inclu
 Over time, all the increases in storage capacity, processor speed, battery life, and display resolution were accompanied by improvements to the software inside the phones, with vendors adding all sorts of smarts to their camera applications.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016148/19272" target="_top" id="2016148">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016148" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016148/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2017: The start of the AI/ML smartphone era
@@ -136,6 +138,10 @@ I asked Bob Caniglia, Blackmagic's director of sales operations, about smartphon
 
 Let's now explore the power that machine learning brings to smartphones. Specifically, I'll talk about the machine learning magic incorporated into flagship phones like the iPhone 15 Pro Max, the Google Pixel 8, the Samsung Galaxy S23, and the OnePlus 11.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 1\. Image quality
 
 Smartphones are now capable of making substantial enhancements to the quality of images as they are captured in the camera. Here are three examples of machine learning in use in the previously listed flagship phones. 
@@ -149,13 +155,6 @@ This then helps the machine learning algorithms to analyze and adjust parameters
 **Low-light photography and night mode:** Speaking of tough lighting conditions, machine learning provides a powerful assist in low-light photography, where it helps in noise reduction, detail enhancement, and color accuracy. It does this using neural network technology to process multiple exposures, merging them into a single image while enhancing detail and reducing noise. Of course, decisions about what detail to enhance and what noise to reduce is where the AI comes into play.
 
 **HDR processing:** High dynamic range (HDR) processing helps balance the dark and bright areas of an image for an improved dynamic range. Algorithms dynamically adjust the exposure of different regions in a photo, merging multiple exposures for a balanced high dynamic range image, keeping the visual fidelity of the image while allowing for blacker blacks, whiter whites, and other darker and lighter colors to better reflect what the photographer originally aimed to capture.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144273/7443" target="_top" id="2144273">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144273" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144273/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 2\. Object knowledge
 
@@ -176,13 +175,6 @@ Some early facial recognition applications demonstrated bias. They were using ve
 This technique pits a "generator" algorithm against a "discriminator" algorithm process, where the discriminator provides feedback to the generator to drive improvement. The resulting learned effects, or style transfer processes, mimic the styles of various artists and techniques. This allows users to apply complex artistic styles to their photos, and for the resulting images to appear stylistically relevant. It also has [resulted in lawsuits](https://www.reuters.com/legal/litigation/judge-pares-down-artists-ai-copyright-lawsuit-against-midjourney-stability-ai-2023-10-30/).
 
 **Also: [Generative AI: Just don't call it an 'artist'](https://www.zdnet.com/article/generative-ai-just-dont-call-it-an-artist-say-scholars-in-science-magazine/)** 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075476/7443" target="_top" id="2075476">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075476" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075476/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 3\. Quality-of-life enhancements
 
@@ -262,16 +254,20 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-raw-footage-to-youtube-perfection-premiere-pro-techniques/"><u>[New] 2024 Approved From Raw Footage to YouTube Perfection - Premiere Pro Techniques</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-novice-to-connoisseur-transform-your-sub4sub-experience-now/"><u>[New] In 2024, From Novice to Connoisseur Transform Your Sub4sub Experience Now</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-growth-catalysts-increasing-audience-engagement-on-youtube/"><u>[New] In 2024, Growth Catalysts Increasing Audience Engagement on YouTube</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-the-essential-guide-to-creating-cinematic-videos-in-camtasa/"><u>[New] The Essential Guide to Creating Cinematic Videos in Camtasa</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-from-flickering-camera-lights-to-financial-highlights-for-2024/"><u>[Updated] From Flickering Camera Lights to Financial Highlights for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-from-screen-to-share-mastering-youtubes-thumbnail-artistry-for-2024/"><u>[Updated] From Screen to Share Mastering YouTubes' Thumbnail Artistry for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/1726029360381-dvd/"><u>DVD再生禁止: 専用デバイス無しでビデオ視聴テクニック</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-5-quick-methods-to-bypass-realme-gt-5-frp-by-drfone-android/"><u>In 2024, 5 Quick Methods to Bypass Realme GT 5 FRP</u></a></li>
-<li><a href="https://fake-location.techidaily.com/in-2024-best-10-mock-location-apps-worth-trying-on-vivo-y36i-drfone-by-drfone-virtual-android/"><u>In 2024, Best 10 Mock Location Apps Worth Trying On Vivo Y36i | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/master-the-mmos-discovering-premium-free-games-on-steam/"><u>Master the MMOs: Discovering Premium FREE Games on Steam</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/top-rated-video-doorbells-in-2market-leaders-expert-reviews-and-picks-by-zdnet/"><u>Top-Rated Video Doorbells in 2^[Market Leaders] - Expert Reviews and Picks by ZDNET</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/n-2024-fan-favorite-films-reimagined-7-replacements/"><u>[New] In 2024, Fan-Favorite Films Reimagined - #7 Replacements</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-free-yourself-with-top-4-applications-for-youtube-to-wav-conversion/"><u>[New] In 2024, Free Yourself with Top 4 Applications for YouTube-to-WAV Conversion</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-depth-guide-to-full-transcription-and-archiving-of-fb-messages/"><u>[New] In-Depth Guide to Full Transcription & Archiving of FB Messages</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-luminous-layers-the-graders-path-to-perfection-for-2024/"><u>[New] Luminous Layers The Grader's Path to Perfection for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-free-explore-youtubes-9-premium-full-length-christmas-flicks/"><u>[Updated] 2024 Approved Free Explore YouTube's 9 Premium Full-Length Christmas Flicks</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-average-to-exceptional-discover-the-finest-free-intra-designs/"><u>[Updated] 2024 Approved From Average to Exceptional Discover the Finest Free Intra Designs</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-often-to-post-a-guide-to-youtube-video-upload-patterns-for-success/"><u>[Updated] 2024 Approved How Often to Post A Guide to YouTube Video Upload Patterns for Success</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-optimize-your-channels-with-youtubes-featured-spotlight/"><u>[Updated] 2024 Approved How to Optimize Your Channels with YouTube’s Featured Spotlight</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-financial-flourishing-yielding-higher-returns-with-mobile-youtube-content-for-2024/"><u>[Updated] Financial Flourishing Yielding Higher Returns with Mobile YouTube Content for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/bring-life-to-pixels-add-motion-blur/"><u>Bring Life to Pixels Add Motion Blur</u></a></li>
+<li><a href="https://techidaily.com/how-to-install-the-latest-iosipados-beta-version-on-apple-iphone-14-plus-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Install the Latest iOS/iPadOS Beta Version on Apple iPhone 14 Plus? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-8-best-apps-for-screen-mirroring-motorola-moto-g23-pc-drfone-by-drfone-android/"><u>In 2024, 8 Best Apps for Screen Mirroring Motorola Moto G23 PC | Dr.fone</u></a></li>
+<li><a href="https://win-tips.techidaily.com/multiply-both-sides-of-the-first-equation-by-5-the-coefficient-of-y-in-the-second-equation/"><u>Multiply Both Sides of the First Equation by 5 (the Coefficient of Y in the Second Equation):</u></a></li>
+<li><a href="https://fox-access.techidaily.com/navigating-the-m1-space-apples-lightest-or-heaviest-model-in-2024/"><u>Navigating the M1 Space Apple's Lightest or Heaviest Model, In 2024</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210265736-9782017140689-suis-ton-ame-elle-connait-le-chemin/"><u>Suis ton âme, elle connait le chemin | Free Book</u></a></li>
 </ul></div>
 

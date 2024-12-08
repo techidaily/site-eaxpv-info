@@ -1,7 +1,7 @@
 ---
 title: "Unveiling the Triggers of the 2024 CrowdStrike-Windows Debacle: A Detailed Look Back with ZDNET"
-date: 2024-11-24T16:06:39.872Z
-updated: 2024-11-28T19:15:55.500Z
+date: 2024-12-02T20:09:23.067Z
+updated: 2024-12-07T21:24:35.720Z
 tags:
   - apple
 categories:
@@ -33,7 +33,7 @@ In this case, the trusted software developer is a firm called CrowdStrike Holdin
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What happened?
@@ -55,7 +55,7 @@ Repairing the damage from a flaw like this is a painfully tedious process that r
 If you know anyone whose job involves administering Windows PCs in a corporate network that uses the CrowdStrike code, you can be confident they are very busy right now, and will be for days to come.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## We've seen this movie before
@@ -95,7 +95,7 @@ In the You Can't Make This Up Department… CrowdStrike's founder and CEO, Georg
 What makes the 2024 sequel so much worse is that it also affected Windows-based servers running in the cloud, on Microsoft Azure and on AWS. Just as with the many laptops and desktop PCs that were bricked by this faulty update, the cloud-based servers require time-consuming manual interventions to recover.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## CrowdStrike's QA failed
@@ -125,7 +125,7 @@ As part of its initial response, CrowdStrike says it plans to take additional me
 Meanwhile, the United States House of Representatives Homeland Security Committee plans to call CrowdStrike's CEO up for hearings on what went wrong, and CrowdStrike's Chief Security Officer, Shawn Henry, [posted an apology on LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7220983915421806592/), admitting "On Friday, we failed you. ... The confidence we built in drips over the years was lost in buckets within hours, and it was a gut punch."
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How much fault should Microsoft shoulder?
@@ -176,18 +176,17 @@ Nonetheless, this incident, which caused many billions of dollars' worth of dama
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-9-essential-apps-for-pulling-youtube-videos-android/"><u>[New] 2024 Approved 9 Essential Apps for Pulling YouTube Videos (Android)</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-velvet-vaults-2022-olympic-skaters-for-2024/"><u>[New] Velvet Vaults 2022 Olympic Skaters for 2024</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-preventing-non-displayed-images-in-youtubes-shorts/"><u>[Updated] In 2024, Preventing Non-Displayed Images in YouTubes Shorts</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/fixing-the-issue-how-to-enable-video-playback-on-google-drive-for-mp4-mov-and-mkv-files/"><u>Fixing the Issue: How to Enable Video Playback on Google Drive for MP4, MOV & MKV Files</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/in-2024-the-essential-guide-for-gopro-live-streams-to-social-media-hubs/"><u>In 2024, The Essential Guide for GoPro Live Streams to Social Media Hubs</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/is-it-possible-to-use-handbrake-for-decrypting-and-converting-secure-dvds-on-macoswindows/"><u>Is It Possible to Use Handbrake for Decrypting and Converting Secure DVDs on macOS/Windows?</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/mastering-the-tournament-expert-advice-and-techniques-for-fifa-2018-world-cup-russia-edition/"><u>Mastering the Tournament: Expert Advice and Techniques for FIFA 2018 World Cup, Russia Edition</u></a></li>
-<li><a href="https://techtrends.techidaily.com/overcoming-the-jscriptdll-cannot-be-found-error-expert-tips-and-tricks/"><u>Overcoming the jScript.dll Cannot Be Found Error - Expert Tips and Tricks</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/solving-the-mystery-of-jvmdll-missing-a-step-by-step-guide/"><u>Solving the Mystery of JVM_DLL Missing: A Step-by-Step Guide</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/stabile-videos-erstellen-tipps-fur-die-optimierung-von-aufnahmen-auf-pc-mac-android-and-iphone/"><u>Stabile Videos Erstellen: Tipps Für Die Optimierung Von Aufnahmen Auf PC, MAC, Android & iPhone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-10-best-spy-watches-for-your-honor-x7b-drfone-by-drfone-virtual-android/"><u>Top 10 Best Spy Watches For your Honor X7b | Dr.fone</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/top-video-compression-software-in-france-for-file-size-reduction/"><u>Top Video Compression Software in France for File Size Reduction</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/unterstutzt-av1-in-der-version-von-adobe-premiere-pro-fur-den-importeffekt/"><u>Unterstützt AV1 in Der Version Von Adobe Premiere Pro Für Den Importeffekt?</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-no-cash-to-youtube-wealth-unlocking-earnings-at-the-500-subs-level/"><u>[New] 2024 Approved From No Cash to YouTube Wealth Unlocking Earnings at the 500 Subs Level</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-vision-to-reality-taking-control-of-your-lyric-videos-with-lyric-video-maker/"><u>[New] 2024 Approved From Vision to Reality Taking Control of Your Lyric Videos with Lyric Video Maker</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-harness-social-blade-for-profound-youtube-stats-analysis/"><u>[New] 2024 Approved Harness Social Blade for Profound YouTube Stats Analysis</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-complete-guide-to-whatsapp-audio-communication/"><u>[New] The Complete Guide to WhatsApp Audio Communication</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-essential-android-and-ios-tech-record-google-meet/"><u>[Updated] In 2024, Essential Android & iOS Tech Record Google Meet</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-clicks-to-cash-how-jake-paul-leveraged-youtube/"><u>[Updated] In 2024, From Clicks to Cash How Jake Paul Leveraged YouTube</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-gaining-exposure-cost-effective-promotion-hacks-for-youtubers/"><u>[Updated] In 2024, Gaining Exposure Cost-Effective Promotion Hacks for YouTubers</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-leveraging-youtube-trailers-for-optimal-revenue-generation/"><u>[Updated] Leveraging YouTube Trailers for Optimal Revenue Generation</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/hashtags-hack-skyrocket-your-video-popularity-for-2024/"><u>Hashtags Hack Skyrocket Your Video Popularity for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-7-top-ways-to-resolve-apple-id-not-active-issue-for-iphone-6-plus-by-drfone-ios/"><u>In 2024, 7 Top Ways To Resolve Apple ID Not Active Issue For iPhone 6 Plus</u></a></li>
+<li><a href="https://win-info.techidaily.com/step-by-step-tutorial-preserve-your-iphone-chats-using-the-quickest-techniques/"><u>Step-by-Step Tutorial: Preserve Your iPhone Chats Using the Quickest Techniques</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-tips-for-an-unresponsive-xbox-one-contoller-quick-fixes/"><u>Troubleshooting Tips for an Unresponsive Xbox One Contoller - Quick Fixes!</u></a></li>
 </ul></div>
 

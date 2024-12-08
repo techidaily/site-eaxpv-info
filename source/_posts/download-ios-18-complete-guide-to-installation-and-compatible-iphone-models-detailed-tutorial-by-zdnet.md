@@ -1,7 +1,7 @@
 ---
 title: "Download IOS 18: Complete Guide to Installation & Compatible iPhone Models - Detailed Tutorial by ZDNET"
-date: 2024-11-21T17:29:33.177Z
-updated: 2024-11-28T17:33:42.987Z
+date: 2024-12-02T17:54:20.506Z
+updated: 2024-12-07T21:13:58.049Z
 tags:
   - apple
 categories:
@@ -26,15 +26,15 @@ While the official iOS 18 general release is today, users have already been able
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to install iOS 18
 
 Jason Hiner/ZDNET
 
 **What you need:** An iPhone running iOS 16.5 or later. Since not all iPhones are compatible with iOS 18, you'll also need a model [newer than the iPhone X](https://www.zdnet.com/article/best-iphone/).
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 1\. Go to General in your iPhone Settings
 
@@ -44,13 +44,13 @@ Go to your iPhone's Settings and select General.
 
 Within General, tap on Software Update. This will show you if the iOS 18 update is available for you to download.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3\. Download and install
 
 When you tap on Software Update, your iPhone will check for the latest version of iOS available. Then, you'll be able to Download and Install the new update. Your iPhone will begin the download immediately.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Enter your passcode and follow steps to install
 
@@ -64,15 +64,15 @@ After installing the latest iOS update, your iPhone will restart.
 
 Apple Intelligence, featuring the company's AI tools, will begin to roll out for compatible iPhones over the next few weeks, with more features to join in the coming months. This slew of AI features will be available on the iPhone 16 lineup and the iPhones 15 Pro and Pro Max.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### When was iOS 18 released?
 
 Apple released the iOS 18 developer beta during WWDC 2024 in June, and the public beta version was released on July 15\. The general release of iOS 18 is September 16.
 
 **Also: [The best iOS 18 features that will make updating your iPhone worthwhile](https://www.zdnet.com/article/the-best-ios-18-features-that-will-make-updating-your-iphone-worthwhile/)**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Can you still download the iOS 18 public beta?
 
@@ -81,6 +81,10 @@ You can always be part of the Apple Beta program to get the latest beta versions
 * Back up your device and personal information.
 * Don't download beta software, which will likely have bugs and glitches, on your everyday iPhone.
 * You should go into the experience to test new features and share feedback to improve iOS, which is why beta versions are released.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### How do I install the iOS 18 beta version?
 
@@ -94,7 +98,7 @@ You'll need an iPhone running iOS 16.5 or later. Since not all iPhones are compa
 Screenshot: Maria Diaz/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### How to download the iOS 18 developer beta?
@@ -112,10 +116,6 @@ If you can't see this option, go to your **Settings,** select **Privacy & Securi
 **Also: [How to use and customize your iPhone's new Control Center with iOS 18](https://www.zdnet.com/article/how-to-use-and-customize-your-iphones-new-control-center-with-ios-18/)**
 
 If you aren't already a member of the Apple Developer Program, you can sign up to become one in the app. An annual membership costs $99.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### What is in iOS 18 beta 3?
 
@@ -161,22 +161,15 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-compact-guide-to-free-live-streaming-apps-on-mobile-devices-for-2024/"><u>[New] Compact Guide to Free Live Streaming Apps on Mobile Devices for 2024</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/n-2024-steps-to-bypass-youtube-prohibitions/"><u>[New] In 2024, Steps to Bypass YouTube Prohibitions</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-quick-glance-fastest-photo-viewer-in-11-os/"><u>[Updated] In 2024, Quick Glance Fastest Photo Viewer in 11 OS</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/8iphone/"><u>顶级8张照片同步解决方案：iPhone和电脑之间的完美图库转移</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/challenging-tech-giant-apple-how-my-iphone-refresh-experience-unfolded-with-insights/"><u>Challenging Tech Giant Apple: How My iPhone Refresh Experience Unfolded with Insights</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/einfachheit-perfekt-machen-einstellen-von-handbrake-fur-hevch265-kodierung/"><u>Einfachheit Perfekt Machen: Einstellen Von HandBrake Für HEVC/H.265-Kodierung</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/experts-reveal-why-acer-aspire-e-15-is-the-1-choice-for-value-driven-budget-computers/"><u>Experts Reveal Why Acer Aspire E 15 Is the #1 Choice for Value-Driven Budget Computers</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/guide-clearing-out-your-pictures-library-on-ios-devices-prior-to-iphone-15-edition/"><u>Guide: Clearing Out Your Pictures Library on iOS Devices Prior to iPhone 15 Edition</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/guide-effortlessly-converting-your-dvds-into-digital-format-on-any-device/"><u>Guide: Effortlessly Converting Your DVDs Into Digital Format on Any Device</u></a></li>
-<li><a href="https://win-dash.techidaily.com/logitech-gaming-steering-wheel-installable-drivers-for-windows-os-versions-7-8-and-10/"><u>Logitech Gaming Steering Wheel: Installable Drivers for Windows OS Versions 7, 8 & 10</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/mac-hochwertige-hd-video-umwandler-perfekt-fur-avchd-m2ts-mkv-and-flv-profi-version/"><u>Mac-Hochwertige HD-Video-Umwandler: Perfekt Für AVCHD, M2TS, MKV & Flv - Profi Version</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/step-by-step-guide-watching-dvds-on-your-nintendo-wii-and-wii-u-consoles/"><u>Step-by-Step Guide: Watching DVDs on Your Nintendo Wii and Wii U Consoles</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/the-best-android-unlock-software-for-oppo-f25-pro-5g-device-top-5-picks-to-remove-android-locks-by-drfone-android/"><u>The Best Android Unlock Software For Oppo F25 Pro 5G Device Top 5 Picks to Remove Android Locks</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/top-12-prominent-samsung-galaxy-a05s-fingerprint-not-working-solutions-by-drfone-android/"><u>Top 12 Prominent Samsung Galaxy A05s Fingerprint Not Working Solutions</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/ultimate-guide-setting-up-dvd-playback-from-nas-devices-like-synology-or-qnap-systems/"><u>Ultimate Guide: Setting Up DVD Playback From NAS Devices Like Synology or QNAP Systems</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/1723073488129-unveiling-the-secrets-behind-the-amazing-performance-and-affordability-of-the-asus-chromebook-flip-c302ca-reviews-inside/"><u>Unveiling the Secrets Behind the Amazing Performance and Affordability of the Asus Chromebook Flip C302CA - Reviews Inside</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/1725286486718-winxvideo-ai/"><u>WinXVideo AI：智能化記者會直播解決方案，如何輕鬆上線！</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-script-to-spectacle-independent-effect-innovation/"><u>[New] In 2024, From Script to Spectacle Independent Effect Innovation</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-harmonic-hits-top-rated-dj-template-downloads/"><u>[New] In 2024, Harmonic Hits Top-Rated DJ Template Downloads</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-virtual-playstation-revival-on-android-try-the-5-best-emulators-here/"><u>[New] Virtual PlayStation Revival on Android? Try the 5 Best Emulators Here</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-film-substitutes-to-stream-top-7-picks-for-2024/"><u>[Updated] Film Substitutes to Stream - Top 7 Picks for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-concept-to-screen-channel-yt-for-pioneering-filmmaking-techniques/"><u>[Updated] In 2024, From Concept to Screen Channel YT for Pioneering Filmmaking Techniques</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-cardboard-contrast-google-to-samsung-gear-headset/"><u>2024 Approved Cardboard Contrast Google to Samsung Gear Headset</u></a></li>
+<li><a href="https://os-tips.techidaily.com/comprehensive-analysis-unveiling-the-features-and-capabilities-of-wondershares-dr-fone-data-eraser-for-ios/"><u>Comprehensive Analysis: Unveiling the Features and Capabilities of Wondershare's Dr. Fone Data Eraser for iOS</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-fix-a-504-gateway-timeout-error/"><u>How to Fix a 504 Gateway Timeout Error</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/money-smart-sports-photography-innovation-on-a-dime-for-2024/"><u>Money-Smart Sports Photography - Innovation on a Dime for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/overcooked-2-review/"><u>Overcooked! 2 Review</u></a></li>
 </ul></div>
 

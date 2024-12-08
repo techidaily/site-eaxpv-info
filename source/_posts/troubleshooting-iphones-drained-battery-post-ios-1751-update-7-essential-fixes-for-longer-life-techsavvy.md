@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting iPhone's Drained Battery Post-iOS 17.5.1 Update: 7 Essential Fixes for Longer Life | TechSavvy"
-date: 2024-11-22T18:56:43.357Z
-updated: 2024-11-28T17:33:43.195Z
+date: 2024-12-01T23:48:43.931Z
+updated: 2024-12-07T22:06:20.741Z
 tags:
   - apple
 categories:
@@ -28,14 +28,10 @@ If you want to follow along, you'll need to install the iOS 18 public beta on an
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to customize your iPhone's new Control Center with iOS 18
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Access Control Center
@@ -43,10 +39,6 @@ If you want to follow along, you'll need to install the iOS 18 public beta on an
 To display Control Center, swipe down from the top-right corner of the screen. You'll notice that Control Center is now separated into three different screens. The first screen displays the core controls, the second screen shows the audio player and related settings, and the third has connectivity options. Swipe up or down to move from one screen to another, or tap one of the three icons on the right to jump to a specific one.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Move the available controls
 
@@ -57,7 +49,7 @@ Screenshot by Lance Whitney/ZDNET
 **Also: [Every iPhone model that can be updated to Apple's iOS 18 (and which ones can't)](https://www.zdnet.com/article/every-iphone-model-that-can-be-updated-to-apples-ios-18-and-which-ones-cant/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Resize a control
@@ -66,11 +58,19 @@ After tapping the plus icon, some controls sport a gray curved handle in the low
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4\. Delete a control
 
 Next, you can directly delete a control you don't need or want. With the icons in edit mode, tap the minus sign for the icon you want to remove. When the icon is deleted, the surrounding icons should move to fill up the gap.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Add a control to an existing screen
 
@@ -80,15 +80,15 @@ Screenshot by Lance Whitney/ZDNET
 
 **Also: [I did not expect this iOS 18 feature announced at WWDC to be my favorite (and it's not AI)](https://www.zdnet.com/article/i-did-not-expect-this-ios-18-feature-announced-at-wwdc-to-be-my-favorite-and-its-not-ai/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 6\. Add a control to a new screen
 
 If the current screens are already filled with icons, you can set up additional screens to hold more controls. Swipe down to the last screen, which shouldn't have any free space. Tap the plus icon and then tap "Add a Control." Again, browse or search for the control you wish to add. Tap that control, and it should appear in a new screen. You can continue adding more controls to the new screen this way. You can create as many as 15 screens, though you'll probably want to stop before you reach that number.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 7\. Power down from Control Center
 
@@ -126,21 +126,24 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-2017-data-overload-infographics-and-surprising-yt-stats/"><u>[New] 2024 Approved 2017 Data Overload Infographics & Surprising YT Stats</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-crafting-charismatic-videos-with-diy-camera-setups/"><u>[Updated] 2024 Approved Crafting Charismatic Videos with DIY Camera Setups</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/1725290173996-dvd-windows-1011-mp4aviwmv/"><u>光驰快速：用顶级 DVD转播软件将 Windows 10/11 的光盘内容转换为 MP4/AVI/WMV</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/achieve-stunning-visuals-premium-4k-projectors-under-2k-dollars-s-market-sweepstakes/"><u>Achieve Stunning Visuals: Premium 4K Projectors Under 2K Dollars 'S Market Sweepstakes</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/best-mkv-video-player-apps-top-18-options-compatible-with-macos-windows-11-ios-and-android-devices/"><u>Best MKV Video Player Apps: Top 18 Options Compatible with macOS, Windows 11, iOS & Android Devices</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/exploring-the-boundaries-of-ai-how-natural-language-processing-is-unique-from-machine-learning/"><u>Exploring the Boundaries of AI: How Natural Language Processing Is Unique From Machine Learning</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/1722973902063-fast-and-simple-bcm20702a0-driver-download-for-windows-get-started-now/"><u>Fast and Simple BCM20702A0 Driver Download for Windows - Get Started Now</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/fehler-bei-der-verwendung-von-handbrake-unter-windows-11-erkunde-wege-zur-behebung-und-andere-optionen/"><u>Fehler Bei Der Verwendung Von HandBrake Unter Windows 11? Erkunde Wege Zur Behebung Und Andere Optionen.</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/full-guide-to-catch-100-iv-pokemon-using-a-map-on-honor-x9a-drfone-by-drfone-virtual-android/"><u>Full Guide to Catch 100 IV Pokémon Using a Map On Honor X9a | Dr.fone</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/gpu-beschleunigte-h265-kodierung-wie-sie-schnelleres-streamen-gewahrleisten-konnen/"><u>GPU-Beschleunigte H.265 Kodierung: Wie Sie Schnelleres Streamen Gewährleisten Können</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/guide-facile-pour-transformer-des-films-mp4-en-chansons-mp3-sur-windows-navigateur-gratuitement-utilisez-loutil-convertisseur-mp4mp3/"><u>Guide Facile Pour Transformer Des Films MP4 en Chansons MP3 Sur Windows Navigateur Gratuitement - Utilisez L'outil Convertisseur MP4/MP3</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/how-to-successfully-watch-and-edit-mov-videos-on-your-macbookmacintosh-computer/"><u>How to Successfully Watch and Edit MOV Videos on Your MacBook/Macintosh Computer</u></a></li>
-<li><a href="https://discover-forum.techidaily.com/step-by-step-process-for-seamlessly-moving-everything-to-your-new-iphone-1415-using-an-older-model/"><u>Step-by-Step Process for Seamlessly Moving Everything to Your New iPhone 14/15 Using an Older Model</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/step-by-step-tips-disabling-auto-sleep-on-your-apple-computer/"><u>Step-by-Step Tips: Disabling Auto-Sleep on Your Apple Computer</u></a></li>
-<li><a href="https://win11.techidaily.com/unraveling-cpu-woes-strategies-from-windows-rm-window/"><u>Unraveling CPU Woes: Strategies From Windows' RM Window</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/winxvideo-ai-speed-up-any-video-or-audio-with-gpu-powered-fast-playback/"><u>Winxvideo AI: Speed Up Any Video or Audio with GPU-Powered Fast Playback</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-global-sensations-surpassing-100-million-views-on-youtube-the-yearly-countdown-for-2024/"><u>[New] Global Sensations Surpassing 100 Million Views on YouTube (The Yearly Countdown) for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-hack-your-channels-identity-with-these-11-budget-tools-for-2024/"><u>[New] Hack Your Channel's Identity with These 11 Budget Tools for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-live-chat-to-large-screen-upload-twitch-streams-to-youtube/"><u>[New] In 2024, From Live Chat to Large Screen Upload Twitch Streams to YouTube</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-gearing-up-for-youtube-success-cross-platform-strategies/"><u>[New] In 2024, Gearing Up for YouTube Success Cross-Platform Strategies</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-global-viewer-count-triumphs-play-button-honors/"><u>[New] In 2024, Global Viewer Count Triumphs Play Button Honors</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-harmonize-your-favorites-creating-custom-youtube-playlists/"><u>[New] In 2024, Harmonize Your Favorites Creating Custom YouTube Playlists</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-transform-your-mac-with-the-latest-macos-11-big-sur-overview/"><u>[Updated] 2024 Approved Transform Your Mac with the Latest MacOS 11 Big Sur Overview</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-free-digital-asset-valuation-tools-for-2024/"><u>[Updated] Free Digital Asset Valuation Tools for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-getting-started-with-your-youtube-channel-essentials/"><u>[Updated] In 2024, Getting Started with Your YouTube Channel – Essentials</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-hashtags-hack-skyrocket-your-video-popularity/"><u>[Updated] In 2024, Hashtags Hack Skyrocket Your Video Popularity</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-maximize-your-laptops-dvd-potential-easily/"><u>[Updated] Maximize Your Laptop's DVD Potential Easily</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/approved-guide-to-livecasting-google-meet-on-youtube/"><u>2024 Approved Guide to Livecasting Google Meet on YouTube</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/capturing-perfect-sounds-our-top-6-recommendations-for-livestreamers-for-2024/"><u>Capturing Perfect Sounds Our Top 6 Recommendations for Livestreamers for 2024</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-remove-a-previously-synced-google-account-from-your-sony-xperia-5-v-by-drfone-android/"><u>How to Remove a Previously Synced Google Account from Your Sony Xperia 5 V</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-the-ultimate-guide-to-unlocking-your-iphone-7-on-metropcs-by-drfone-ios/"><u>In 2024, The Ultimate Guide to Unlocking Your iPhone 7 on MetroPCS</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-wondering-the-best-alternative-to-hola-on-vivo-t2-pro-5g-here-is-the-answer-drfone-by-drfone-virtual-android/"><u>In 2024, Wondering the Best Alternative to Hola On Vivo T2 Pro 5G? Here Is the Answer | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/reconfigure-windows-11-task-manager-interface-view/"><u>Reconfigure Windows 11 Task Manager Interface View</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ing-on-both-sides-work-and-youtubing-tips/"><u>Thriving on Both Sides Work and YouTubing Tips</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/ultimate-guide-to-downloading-and-installing-nexiq-usb-link-2-driver-software/"><u>Ultimate Guide to Downloading & Installing NEXIQ USB-Link 2 Driver Software</u></a></li>
 </ul></div>
 

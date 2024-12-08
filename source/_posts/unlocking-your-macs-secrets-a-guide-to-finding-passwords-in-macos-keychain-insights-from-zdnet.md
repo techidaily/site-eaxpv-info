@@ -1,7 +1,7 @@
 ---
 title: "Unlocking Your Mac's Secrets: A Guide to Finding Passwords in macOS Keychain - Insights From ZDNet"
-date: 2024-11-22T19:11:49.614Z
-updated: 2024-11-28T16:08:15.166Z
+date: 2024-12-07T00:26:13.462Z
+updated: 2024-12-07T19:43:13.451Z
 tags:
   - apple
 categories:
@@ -19,7 +19,7 @@ I will start this out by reminding everyone that you should be using a password 
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -27,7 +27,7 @@ I will start this out by reminding everyone that you should be using a password 
 [![Cyber Security and Digital Data Protection Concept](https://www.zdnet.com/a/img/resize/b984513c67ba4f8c0e132348960af5f4f0063327/2020/05/08/caa1687e-f4c5-463f-b479-789ccf6d5245/istock-1156386758.jpg?auto=webp&fit=crop&frame=1&height=238.5&width=459) The best password manager: Business and personal use Everyone needs a password manager. If you're willing to pay a monthly or annual fee, these options are worth it.  Read now](https://www.zdnet.com/article/best-password-manager/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 That being said, if you're a user of macOS, then there's a way to manage your passwords with a built-in tool. Said tool is the Keychain Access tool which is built-into macOS and is ready to serve in the traditional user-friendly way of Apple apps. So, if you're still not ready to jump on board the password manager trend (you should be), at least you have an option that's ready to serve.
@@ -39,7 +39,7 @@ The only thing you'll need to follow along is an Apple laptop or desktop. I'll d
 With that said, let's get to work.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Opening the Keychain Access tool
@@ -51,6 +51,10 @@ To open the Keychain Access tool, click on the Launchpad located in the Dock. Fr
 The macOS Keychain Access saves passwords, secure notes, certificates, and keys.
 
 Make sure to click Local items in the left navigation and you'll see every password entry that's been saved locally.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Viewing a password within the Keychain Access tool
 
@@ -66,10 +70,6 @@ As you can see, the password is hidden from sight. To view the password for the 
 
 To change the password, simply erase what's there and type the new entry. After changing the password, make sure to click Save Changes and the password will be updated.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Creating a password entry
 
 Creating a new password entry in Keychain Access is just as simple. From the Passwords tab, make sure to click Local Items and then click the New icon at the top (small square with a diagonal line). When the new window appears (**Figure 3**), type a name (or URL) for the Keychain item, add an account name (a username), and then type the password associated with the item.
@@ -79,7 +79,7 @@ Creating a new password entry in Keychain Access is just as simple. From the Pas
 Creating a new password entry to be stored in the Keychain Access tool. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -113,17 +113,22 @@ And that's all there is to locating/editing a password entry in macOS and even c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-revolutionizing-personal-cinema-with-xiaomis-mi-11-lite-features/"><u>[New] In 2024, Revolutionizing Personal Cinema with Xiaomi's Mi 11 Lite Features</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-prime-software-for-professional-4k-screen-capture-for-2024/"><u>[New] Prime Software for Professional 4K Screen Capture for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-a-step-by-step-guide-to-scheduling-and-recording-on-demand-slack-meetings/"><u>[Updated] A Step-by-Step Guide to Scheduling & Recording On-Demand Slack Meetings</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-top-ten-screencasting-apps-for-modern-teachers-for-2024/"><u>[Updated] Top Ten Screencasting Apps for Modern Teachers for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/iphoneipadandroid-windows-10-dvddvdavi-mp4-h264/"><u>专为iPhone、iPad和Android设计 - 无限制Windows 10 DVD转换工具，将DVD保存为AVI MP4 H264格式</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/mov-mp4-macos-windows-11/"><u>自由在线或离线将 MOV 文件改为 MP4 - macOS 与Windows 11优化版</u></a></li>
-<li><a href="https://common-error.techidaily.com/guide-restoring-displayed-wi-fi-settings-on-windows-11/"><u>Guide: Restoring Displayed Wi-Fi Settings on Windows 11</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/innovative-approaches-to-ai-prompting-discover-the-most-effective-7-techniques/"><u>Innovative Approaches to AI Prompting - Discover the Most Effective 7 Techniques</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/le-cinque-innovazioni-chiave-nel-202-cuoio-per-migliorare-lavanzamento-della-risoluzione-immagiografica/"><u>Le Cinque Innovazioni Chiave Nel 202 Cuoio per Migliorare L'Avanzamento Della Risoluzione Immagiografica</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/speedier-videography-editor-efficient-compression-of-uhd4k-videos-through-advanced-whole-gpu-performance-capabilities/"><u>Speedier Videography Editor: Efficient Compression of UHD/4K Videos Through Advanced Whole-GPU Performance Capabilities</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/steer-clear-of-the-google-bard-app-to-prevent-cyber-threats/"><u>Steer Clear of the Google Bard App to Prevent Cyber Threats</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/ticklishtones-selecting-the-best-ringtones-for-smiles-for-2024/"><u>TicklishTones Selecting the Best Ringtones for Smiles for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-female-gamers-faction-yts-10-stars-for-2024/"><u>[New] Female Gamers Faction YT's #10 Stars for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-global-youtube-elite-earnings-leader-for-2024/"><u>[New] Global YouTube Elite Earnings Leader for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-solo-streamer-to-global-content-powerhouse/"><u>[New] In 2024, From Solo Streamer to Global Content Powerhouse</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-football-game-analysis-premier-insights-in-graphs/"><u>[Updated] 2024 Approved Football Game Analysis Premier Insights in Graphs</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-frosty-frameworks-for-warm-video-productions/"><u>[Updated] 2024 Approved Frosty Frameworks for Warm Video Productions</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-from-raw-to-refined-mastering-the-art-of-pc-video-editing-on-windows-for-2024/"><u>[Updated] From Raw to Refined Mastering the Art of PC Video Editing on Windows for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-free-youtube-intro-steps-and-template-guide/"><u>[Updated] In 2024, Free YouTube Intro Steps and Template Guide</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-long-winded-to-concise-the-art-of-youtube-trimming/"><u>[Updated] In 2024, From Long-Winded to Concise The Art of YouTube Trimming</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/approved-secure-song-transfers-to-youtube-channel/"><u>2024 Approved Secure Song Transfers to Youtube Channel</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/enhance-your-home-office-sound-on-a-budget-the-perfect-199-imac-accessory-unveiled-by-zdnet/"><u>Enhance Your Home Office Sound on a Budget: The Perfect $199 iMac Accessory Unveiled by ZDNet</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/free-nba-action-at-home-the-best-15-ways-to-watch-games-online/"><u>Free NBA Action at Home The Best 15 Ways to Watch Games Online</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-tecno-camon-20-premier-5g-phone-password-without-factory-reset-by-drfone-android/"><u>In 2024, How to Unlock Tecno Camon 20 Premier 5G Phone Password Without Factory Reset?</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/24-navigating-video-earnings-dailymotion-vs-youtube-showdown/"><u>In 2024, Navigating Video Earnings Dailymotion vs YouTube Showdown</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-in-2024-color-correction-mastery-a-tutorial-on-matching-video-clips-in-final-cut-pro/"><u>New In 2024, Color Correction Mastery A Tutorial on Matching Video Clips in Final Cut Pro</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-get-animated-top-10-apps-to-turn-your-photos-into-cartoons/"><u>New In 2024, Get Animated Top 10 Apps to Turn Your Photos Into Cartoons</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/solving-fortnite-out-of-vram-problem-expert-advice-on-optimizing-performance/"><u>Solving Fortnite Out of VRAM Problem: Expert Advice on Optimizing Performance</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-ultimate-viewing-guide-watch-the-matrix-trilogy-sequentially/"><u>The Ultimate Viewing Guide: Watch The Matrix Trilogy Sequentially</u></a></li>
 </ul></div>
 

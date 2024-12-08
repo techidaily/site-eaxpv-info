@@ -1,7 +1,7 @@
 ---
 title: "1. Apple Introduces Live Podcast Subtitles: A Game-Changer for Accessibility on iTunes"
-date: 2024-11-21T17:01:54.229Z
-updated: 2024-11-28T18:25:36.106Z
+date: 2024-12-02T21:29:58.229Z
+updated: 2024-12-07T17:51:43.714Z
 tags:
   - apple
 categories:
@@ -31,7 +31,7 @@ Read on for a look at some of the new accessibility features coming to Apple har
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### New eye-tracking features
@@ -48,16 +48,12 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Apple Music haptics
 
 For those who are deaf or hard of hearing, Apple plans to offer a Taptic Engine feature in Apple Music. When turned on, the feature will use a series of taps, vibrations, and other tactile responses to sync to a song's audio. Apple says the feature will work "across millions of songs in the Apple Music catalog."
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Addressing motion sickness
@@ -68,6 +64,10 @@ Motion sickness in cars can often be the result of a disconnect between what you
 
 "Using sensors built into iPhone and iPad, Vehicle Motion Cues recognizes when a user is in a moving vehicle and responds accordingly," Apple said. "The feature can be set to show automatically on iPhone, or can be turned on and off in Control Center."
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Understanding speech
 
 A new feature called Voice Shortcuts will let you "assign custom utterances" that Apple's virtual personal assistant Siri will save. When Siri hears those utterances, it'll perform whatever action was assigned to it, including launching apps or engaging in more complex tasks on the device.
@@ -75,7 +75,7 @@ A new feature called Voice Shortcuts will let you "assign custom utterances" tha
 Another feature, Listen for Atypical Speech, will use machine learning to understand your speech patterns and your requests on-device, Apple said. The feature "gives users an option for enhancing speech recognition for a wider range of speech," the company said.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### New CarPlay features
@@ -85,7 +85,7 @@ Apple's in-car CarPlay software is also getting new accessibility features, incl
 **Also: [iOS and Android owners will now be alerted if an unknown tracker is moving with them](https://www.zdnet.com/article/ios-and-android-owners-will-now-be-alerted-if-an-unknown-tracker-is-moving-with-them/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Some other updates
@@ -122,22 +122,18 @@ Beyond those updates, Apple said that it's launching a range of smaller upgrades
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-making-every-frame-count-in-instagram-videos/"><u>[Updated] 2024 Approved Making Every Frame Count in Instagram Videos</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-top-newbie-camera-choices-the-2024-list/"><u>[Updated] Top Newbie Camera Choices The 2024 List</u></a></li>
-<li><a href="https://solve-latest.techidaily.com/4k/"><u>「高解像度動画の変換：4Kからフルハイビジョンへの詳細ガイド」</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/2-troubleshooting-windows-media-player-issues-with-dvd-playback-explained/"><u>2. Troubleshooting Windows Media Player: Issues with DVD Playback Explained</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/202n46ios/"><u>未來關鍵技術: 202N4年最好的6種卡通化影像編製器，適用於線上、安卓及IOS平台</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/complete-guide-capturing-overwatch-moments-the-ultimate-how-to-on-recording-play-of-the-game/"><u>Complete Guide: Capturing Overwatch Moments - The Ultimate How-To on Recording 'Play of the Game'</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/disabling-windows-sticky-keys-a-step-by-step-guide/"><u>Disabling Windows Sticky Keys: A Step-by-Step Guide</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/easy-text-on-image-creation-with-movavi-your-guide-to-adding-words/"><u>Easy Text on Image Creation with Movavi - Your Guide to Adding Words</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/flashswfmpgmovavi/"><u>FlashSWFから無料にワンクリックMPGへMOVAVIコンバート</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/gratuito-online-convertidor-de-archivos-3gpp-a-m4a-con-movavi/"><u>Gratuito Online: Convertidor De Archivos 3GPP a M4A Con Movavi</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/how-to-refresh-your-amd-drivers-for-optimal-performance-on-various-windows-versions/"><u>How to Refresh Your AMD Drivers for Optimal Performance on Various Windows Versions</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-sharefake-gps-on-uber-for-honor-magic-6-drfone-by-drfone-virtual-android/"><u>How to share/fake gps on Uber for Honor Magic 6 | Dr.fone</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/movavis-kostenloze-online-converter-geen-keuzelijken-voor-verwerking-van-nv-3gpp-in-wav-audio-formaat/"><u>Movavi's Kostenloze Online Converter: Geen Keuzelijken Voor Verwerking Van NV 3GPP in WAV-Audio Formaat</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/retailing-revelations-and-methods/"><u>Retailing Revelations and Methods</u></a></li>
-<li><a href="https://blog-min.techidaily.com/the-ultimate-guide-how-to-successfully-transform-your-dvd-songs-into-mp3-format/"><u>The Ultimate Guide: How to Successfully Transform Your DVD Songs Into MP3 Format</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-5-car-locator-apps-for-zte-nubia-z60-ultra-drfone-by-drfone-virtual-android/"><u>Top 5 Car Locator Apps for ZTE Nubia Z60 Ultra | Dr.fone</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/transforme-su-video-desde-ogg-a-mov-sin-costes-tutorial-paso-a-paso-usando-movavi-online/"><u>Transforme Su Vídeo Desde Ogg a Mov Sin Costes: Tutorial Paso a Paso Usando Movavi Online</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/024-approved-decoding-the-economic-riches-of-mr-beast/"><u>[New] 2024 Approved Decoding the Economic Riches of Mr. Beast</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-passive-watchers-to-profit-youtube-monetization/"><u>[New] 2024 Approved From Passive Watchers To Profit YouTube Monetization</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-2024-approved-projector-vs-tv-showdown-which-prevails-in-4k-clarity/"><u>[New] 2024 Approved Projector vs TV Showdown Which Prevails in 4K Clarity?</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-groan-inducing-humor-in-hits-for-2024/"><u>[New] Groan-Inducing Humor in Hits for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-the-definitive-handbook-to-reacting-on-youtube-tweets/"><u>[New] The Definitive Handbook to Reacting on YouTube Tweets</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-a-deep-dive-into-irecorder-tech/"><u>[Updated] 2024 Approved A Deep Dive Into iRecorder Tech</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-top-12-affordable-high-quality-video-apps-recommended-for-pc-and-android-devices/"><u>[Updated] 2024 Approved Top 12 Affordable, High-Quality Video Apps Recommended for PC & Android Devices</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-ftp-to-feed-the-complete-guide-to-uploading-to-youtube/"><u>[Updated] In 2024, From FTP to Feed The Complete Guide to Uploading to YouTube</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-novice-to-vlogger-your-guide-to-creating-a-youtube-chanel/"><u>[Updated] In 2024, From Novice to Vlogger Your Guide to Creating a YouTube Chanel</u></a></li>
+<li><a href="https://fox-that.techidaily.com/12-ways-to-fix-an-iphone-flashlight-that-isnt-working/"><u>12 Ways to Fix an iPhone Flashlight That Isn’t Working</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-a-step-by-step-guide-to-finding-your-apple-id-on-your-apple-iphone-12-by-drfone-ios/"><u>In 2024, A Step-by-Step Guide to Finding Your Apple ID On Your Apple iPhone 12</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-fix-oem-unlock-missing-on-realme-gt-neo-5-by-drfone-android/"><u>In 2024, How To Fix OEM Unlock Missing on Realme GT Neo 5?</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-in-2024-blur-your-video-for-free-no-software-required/"><u>New In 2024, Blur Your Video for Free No Software Required</u></a></li>
 </ul></div>
 

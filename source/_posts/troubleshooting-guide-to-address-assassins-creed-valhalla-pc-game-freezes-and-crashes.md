@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Guide to Address Assassin's Creed Valhalla PC Game Freezes and Crashes
-date: 2024-08-09T12:18:24.558Z
-updated: 2024-08-10T12:18:24.558Z
+date: 2024-12-02T21:52:30.012Z
+updated: 2024-12-07T19:22:47.968Z
 tags:
   - win11
   - win10
@@ -17,9 +17,6 @@ thumbnail: https://thmb.techidaily.com/0e8b59a0a7e5a9b9173ae5feaad5ddb56b135eee3
 
 Although[Assassin’s Creed Valhalla](https://www.epicgames.com/store/en-US/p/assassins-creed-valhalla?epic%5Fcreator%5Fid=28725b529b5346a38a080b6a920aa97a&epic%5Fgame%5Fid=400347196e674de89c23cc2a7f2121db) has been out for a while, many players are still complaining that the game won’t launch or they get stuck on the loading screen. If you’re facing the same problem, don’t worry. We’ve put together a full list of simple fixes for you.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fixes to try
 
  You may not try them all; simply work your way down the list until you find the one that solves your problem.
@@ -30,9 +27,6 @@ Although[Assassin’s Creed Valhalla](https://www.epicgames.com/store/en-US/p/as
 4. [**Verify the integrity of your game files**](https://tools.techidaily.com/drivereasy/download/)
 5. **[Reinstall Assassin’s Creed Valhalla](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
 ### Fix 1 – Check the minimum specs of Assassin’s Creed Valhalla
 
  Before playing an intensive video game like AC Valhalla, you should make sure your setup meets its minimum requirements. Otherwise, it would be impossible to launch the game.
@@ -49,6 +43,10 @@ Although[Assassin’s Creed Valhalla](https://www.epicgames.com/store/en-US/p/as
 | **Hard Drive space** | 50 GB (SSD recommended)                                                                             |
 
  If your rig is up to handling the game, please move on to some deeper fixes below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2 – Update your graphics driver
 
@@ -73,29 +71,22 @@ There are mainly two ways to update the graphics driver:
 
  Relaunch the game to check its performance with your newly-installed graphics driver. If the update doesn’t do the trick, go ahead with the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BScreen%2BRecorder%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/f026b149-fc7c-fd54-5f3e-1460bbb19b6b.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 3 – Run the game as an administrator
 
  Granting Assassin’s Creed Valhalla necessary administrative permissions can make sure the game runs properly. Here’s how to enable the administrator mode for it:
 
 1. Launch Ubisoft Connect client. Then, navigate to the**Games** tab.  
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/1-1-3.jpg)
 2. Move your mouse cursor to Assassin’s Creed Valhalla and click the**downward triangle icon** . Then, select**View game details** .  
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/1-2-3.jpg)
 3. Select**Properties** on the left pane, and click**Open folder** under Local files.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/1-4-2.jpg)
 4. Right-click the**ACValhalla.exe file** and click**Properties** .  
+
 <!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/1-5.jpg)
 5. Navigate to the**Compatibility** tab. Then, tick**Run this program as an administrator** and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/1-6-1.jpg)
@@ -103,37 +94,46 @@ There are mainly two ways to update the graphics driver:
 
 If the issue persists, head to the fixes below.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 4 – Verify the integrity of your game files
 
  It’s a necessary step to validate your game files if Assassin’s Creed Valhalla won’t open normally. If there are any missing or corrupted game files, you could get it repaired via the following steps:
 
 1. Open Ubisoft Connect, and select the**Games** tab.  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/1-1-4.jpg)
 2. Move your mouse cursor over the title of Assassin’s Creed Valhalla. Then, click the**downward triangle icon** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/3-1-3.jpg)
 3. Click**Verify files** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/3-2-2.jpg)
 
  After the process completes, relaunch the game to test. If this method doesn’t work, try the next one below.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
-<!-- affiliate ads end -->
 ### Fix 5 – Reinstall Assassin’s Creed Valhalla
 
  If none of the fixes above helps your case, you should consider reinstalling the game. Many players also report that installing Assassin’s Creed Valhalla on the same drive as your operating system and Ubisoft Connect client solve the launching issue.
 
 1. Launch the Ubisoft Connect client and click the**Games** tab.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/1-1-5.jpg)
 2. Locate Assassin’s Creed Valhalla and click the**downward triangle** icon on the title. Then, click**Uninstall** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/6-1-2.jpg)
 3. Reinstall the game to the same location where your OS and Ubisoft Connect app are installed.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The Assassin’s Creed Valhalla not launching issue should be resolved after the fresh reinstallation.
 
@@ -151,8 +151,6 @@ If the issue persists, head to the fixes below.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -160,4 +158,19 @@ If the issue persists, head to the fixes below.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-free-yourself-with-top-4-applications-for-youtube-to-wav-conversion-for-2024/"><u>[New] Free Yourself with Top 4 Applications for YouTube-to-WAV Conversion for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-google-meet-live-streaming-for-beginners-stepwise-guide-to-youtube-for-2024/"><u>[New] Google Meet Live-Streaming for Beginners Stepwise Guide to YouTube for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-decoding-shrouded-comments-in-video-platforms/"><u>[New] In 2024, Decoding Shrouded Comments in Video Platforms</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-enhancing-zoom-with-a-chrome-os-device/"><u>[Updated] 2024 Approved Enhancing Zoom with a Chrome OS Device</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-get-premium-minecraft-channel-graphics/"><u>[Updated] In 2024, Get Premium Minecraft Channel Graphics</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-record-good-audio-without-a-microphone/"><u>[Updated] In 2024, How to Record Good Audio Without a Microphone</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-streamer-struggle-navigating-the-waters-between-obs-and-twitch/"><u>[Updated] In 2024, Streamer Struggle Navigating the Waters Between OBS & Twitch</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-highlights-the-5-most-advanced-low-speed-recorders/"><u>2024 Approved Highlights The 5 Most Advanced Low-Speed Recorders</u></a></li>
+<li><a href="https://win-dash.techidaily.com/easy-install-epson-wf-7710-printer-drivers-for-your-windows-pc-windows-11-81-and-earlier-supported/"><u>Easy Install EPSON WF-7710 Printer Drivers for Your Windows PC (Windows 11, 8.1 & Earlier Supported)</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/gratis-la-herramienta-de-clonacion-mas-efectiva-para-ssds-samsung-860-descarga-ahora/"><u>Gratis: La Herramienta De Clonación Más Efectiva Para SSDs Samsung 860 - Descarga Ahora</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-best-ways-to-bypass-icloud-activation-lock-from-iphone-14-pro-maxipadipod-by-drfone-ios/"><u>In 2024, Best Ways to Bypass iCloud Activation Lock from iPhone 14 Pro Max/iPad/iPod</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-poco-phone-password-without-factory-reset-by-drfone-android/"><u>In 2024, How to Unlock Poco Phone Password Without Factory Reset?</u></a></li>
+</ul></div>
 

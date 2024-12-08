@@ -1,7 +1,7 @@
 ---
 title: Two Effective Methods for Updating Applications on macOS Explained
-date: 2024-11-21T17:53:39.275Z
-updated: 2024-11-28T18:16:27.573Z
+date: 2024-12-01T19:39:32.233Z
+updated: 2024-12-07T20:19:01.926Z
 tags:
   - apple
 categories:
@@ -31,12 +31,16 @@ Let me show you both approaches.
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to update MacOS apps from the App Store
 
 **What you'll need:** The only things you'll need are an Apple device (a MacBook or iMac) and a valid user account on the machine. That's it. Let's get to the updates.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 1\. Open the App Store
 
@@ -57,7 +61,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Update your apps
@@ -70,25 +74,17 @@ Screenshot by Jack Wallen/ZDNET
 
 Once the update is completed, close the App Store and you're done.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to update MacOS apps from the command line
 
 This is a bit more complicated, for two reasons: first, you have to find out what apps are available for updating, and, second -- as with Linux -- the app names are case-sensitive.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Open the Terminal app
 
 To run commands, you must first open the terminal app, which can be done from the Launchpad. Click the Launchpad icon in your Dock and then type _terminal_. Click the launcher to open the Terminal app.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Check for available updates
 
@@ -101,6 +97,10 @@ You will be prompted for your sudo password (which is your MacOS user password).
 **Also: [How to update every Apple device (iPhone, iPad, Apple Watch, Mac, more)](https://www.zdnet.com/article/how-to-update-every-apple-device/)**
 
 The -l option stands for _list_. This will print out any available app updates and, if required, it will inform you if a restart is needed to complete any recent OS updates. If you see such a warning, make sure to do the reboot to complete the process.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Update the apps
 
@@ -144,19 +144,19 @@ This is about as simple a method as you'll find to help keep your MacOS machines
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-achieving-high-clickthrough-rates-with-yt-thumbnails/"><u>[Updated] 2024 Approved Achieving High Clickthrough Rates with YT Thumbnails</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/adjusting-video-quality-settings-on-pc-and-mac-systems/"><u>Adjusting Video Quality Settings on PC & Mac Systems</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/comment-transformer-un-fichier-webm-en-haute-qualite-mp4-sur-windows-1011-et-mac/"><u>Comment Transformer Un Fichier WebM en Haute Qualité MP4 Sur Windows 10/11 Et Mac</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/vating-growth-selecting-the-right-co-stars-for-youtube/"><u>Cultivating Growth Selecting the Right Co-Stars for YouTube</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/dicas-certas-para-consertar-discos-danificados-no-macos-e-windows-11/"><u>Dicas Certas Para Consertar Discos Danificados No macOS E Windows 11</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/die-top-5-besten-video-bearbeitungswerkzeuge-fur-windows-11-und-10-ihre-perfekte-auswahl/"><u>Die Top-5 Besten Video-Bearbeitungswerkzeuge Für Windows 11 Und 10: Ihre Perfekte Auswahl</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/get-the-latest-hp-spectre-x360-drivers-compatible-with-windows-full-set/"><u>Get the Latest HP Spectre X360 Drivers Compatible with Windows - Full Set!</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-unlock-iphone-se-2022-without-passcode-by-drfone-ios-unlock-ios-unlock/"><u>How to Unlock iPhone SE (2022) without Passcode</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/inserting-technical-codes-efficiently-tips-for-microsoft-word-users/"><u>Inserting Technical Codes Efficiently: Tips for Microsoft Word Users</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/scaricabile-senza-costi-il-pacchetto-di-decodificatori-hevc-per-vlc-media-player/"><u>Scaricabile Senza Costi: Il Pacchetto Di Decodificatori HEVC per VLC Media Player</u></a></li>
-<li><a href="https://win-able.techidaily.com/solutions-found-fixing-hp-monitor-issues-and-restoring-your-screen/"><u>Solutions Found: Fixing HP Monitor Issues & Restoring Your Screen</u></a></li>
-<li><a href="https://win11.techidaily.com/step-by-step-guide-to-customize-keyboards-in-windows-11/"><u>Step-by-Step Guide to Customize Keyboards in Windows 11</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/top-free-mp4-video-converter-tools-how-to-switch-formats-easily/"><u>Top FREE MP4 Video Converter Tools: How to Switch Formats Easily</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/uncovering-the-secrets-a-thorough-review-of-fitbits-charge-n-device/"><u>Uncovering the Secrets: A Thorough Review of Fitbit's Charge N Device</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-basics-to-blockbusters-building-an-audience-on-gaming-channels/"><u>[New] 2024 Approved From Basics to Blockbusters Building an Audience on Gaming Channels</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-passion-to-paychecks-your-vlog-venture-guide/"><u>[New] 2024 Approved From Passion to Paychecks Your Vlog Venture Guide</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-hashing-it-out-best-tags-to-transform-views-and-profit/"><u>[New] 2024 Approved Hashing It Out Best Tags to Transform Views & Profit</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-turn-on-or-off-comments-on-youtube/"><u>[New] 2024 Approved How to Turn on or Off Comments on YouTube</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-demystifying-digital-experiences-vr-insights/"><u>[New] Demystifying Digital Experiences VR Insights</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ngaging-listeners-respectfully-for-increased-sign-ups/"><u>[New] Engaging Listeners Respectfully for Increased Sign-Ups</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-optimize-single-browsing-seamless-multiclip-engagement/"><u>[New] Optimize Single Browsing Seamless Multiclip Engagement</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-for-students-discover-the-top-10-historical-youtube-channels-now/"><u>[Updated] In 2024, For Students, Discover the Top 10 Historical YouTube Channels Now</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-turning-shorts-into-cash-youtube-guide/"><u>[Updated] Turning Shorts Into Cash YouTube Guide</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-beyond-beats-8-free-mp3-downloaders-transforming-android-into-a-spiritual-haven/"><u>2024 Approved Beyond Beats 8 Free MP3 Downloaders Transforming Android Into a Spiritual Haven</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/2024-approved-chart-a-course-to-success-youtube-studio-blueprint/"><u>2024 Approved Chart a Course to Success YouTube Studio Blueprint</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/catch-or-beat-sleeping-snorlax-on-pokemon-go-for-itel-a70-drfone-by-drfone-virtual-android/"><u>Catch or Beat Sleeping Snorlax on Pokemon Go For Itel A70 | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-full-guide-to-fix-itoolab-anygo-not-working-on-vivo-x100-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Full Guide to Fix iToolab AnyGO Not Working On Vivo X100 Pro | Dr.fone</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/sh-potential-deciding-between-studio-and-beta-version/"><u>Unleash Potential Deciding Between Studio and Beta Version</u></a></li>
 </ul></div>
 

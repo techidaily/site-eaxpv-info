@@ -1,7 +1,7 @@
 ---
 title: The Top Concerns with the Latest iPhone iOS Update – You’re Not Alone (iOS 18)
-date: 2024-11-23T18:13:00.076Z
-updated: 2024-11-28T18:47:23.517Z
+date: 2024-12-04T23:21:22.888Z
+updated: 2024-12-07T22:36:43.100Z
 tags:
   - apple
 categories:
@@ -60,7 +60,7 @@ Aside from the inferior Photos app navigation, videos in the Photos app no longe
 "The UX is a huge downgrade. It's so bad that I had to submit feedback to Apple via the feedback app in the beta. Never did one of those when it wasn't a technical bug, just pure user experience frustration," another [Redditor said](https://www.reddit.com/r/apple/comments/1e2jtq5/comment/ld1wsjg/?utm%5Fsource=share&utm%5Fmedium=web3x&utm%5Fname=web3xcss&utm%5Fterm=1&utm%5Fcontent=share%5Fbutton).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to navigate the iOS 18 Photos app
@@ -109,16 +109,22 @@ I hope a future version of iOS 18 will bring back the Camera Roll or at least to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/ed-ad-based-revenue-tracking-for-youtubers-success-for-2024/"><u>[Updated] Ad-Based Revenue Tracking for YouTubers' Success for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/1725287659890-dvd/"><u>耐久力あるDVDダウニングソフトを見つけよう。セキュアで信頼性高いツール集 - 「窓の杜」オススメリスト</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/currently-trending-tv-shows-on-the-max-channel-your-guide/"><u>Currently Trending TV Shows on the MAX Channel - Your Guide</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/easy-guide-for-converting-videos-from-m4v-to-mp4-top-tools-and-online-services/"><u>Easy Guide for Converting Videos From M4V to MP4: Top Tools and Online Services</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/effortless-installation-get-your-razer-mamba-drivers-now/"><u>Effortless Installation: Get Your Razer Mamba Drivers Now</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/encodeur-video-h265-optimal-transmutez-vos-fichiers-hevc-sous-macos-et-windows-10/"><u>Encodeur Vidéo H.265 Optimal : Transmutez Vos Fichiers HEVC Sous macOS Et Windows 10</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/guide-facile-comment-utiliser-winx-hd-video-converter-pour-mac-pour-downloader-et-changer-de-format-des-fichiers-video/"><u>Guide Facile : Comment Utiliser WinX HD Video Converter Pour Mac Pour Downloader Et Changer De Format Des Fichiers Vidéo</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-send-and-fake-live-location-on-facebook-messenger-of-your-oneplus-ace-2v-drfone-by-drfone-virtual-android/"><u>How to Send and Fake Live Location on Facebook Messenger Of your OnePlus Ace 2V | Dr.fone</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/24-unique-identification-making-your-youtube-url-stand-out/"><u>In 2024, Unique Identification Making Your YouTube URL Stand Out</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/24-unleash-creativity-with-top-10-youtube-short-video-editors/"><u>In 2024, Unleash Creativity with Top 10 YouTube Short Video Editors</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/iuqwleugpe2vncdrjbdsnbtthlag67cx7jefioq4soyiodog7jwu7isd7lky65plus8ioyvioygleyggeyducdsoitshqeg67cp7iudiouwjydtmqjsnkjsoihsnbgg67o17juqiouwqeuylsi/"><u>강력한 데이터 백업 기술: 암석처럼 안정적인 전송 방식 및 효율적인 복원 방법</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-humble-beginnings-to-sponsored-success-channels-blueprint/"><u>[New] 2024 Approved From Humble Beginnings to Sponsored Success Channels' Blueprint</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-get-rid-of-youtube-ads-with-ease-on-chrome-firefox-ios-android/"><u>[New] 2024 Approved Get Rid of YouTube Ads with Ease on Chrome, Firefox, iOS, Android</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-historical-explorations-10-must-see-educational-channels-on-yt/"><u>[New] 2024 Approved Historical Explorations - 10 Must-See Educational Channels on YT</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-recording-power-20plus-best-practices-for-skype-chats-on-windowsmac-pcs/"><u>[New] 2024 Approved Recording Power 20+ Best Practices for Skype Chats on Windows/Mac PCs</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-unravel-the-mysteries-of-color-grading-with-cs6cc-luts/"><u>[New] Unravel the Mysteries of Color Grading with CS6/CC LUTs</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-finding-superior-hashtags-for-your-youtube-content/"><u>[Updated] 2024 Approved Finding Superior Hashtags for Your YouTube Content</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-device-footage-to-youtube-shorts-your-streamlined-approach/"><u>[Updated] 2024 Approved From Device Footage to YouTube Shorts - Your Streamlined Approach</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-audio-clarity-commandments-choosing-from-the-best-6-livestreaming-mics/"><u>[Updated] Audio Clarity Commandments Choosing From the Best 6 Livestreaming Mics</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-guides-on-creating-cost-free-youtube-beginnings-and-conclusions-for-2024/"><u>[Updated] Guides on Creating Cost-Free YouTube Beginnings & Conclusions for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-camera-to-chrome-youtube-shorts-video-upload-guide/"><u>[Updated] In 2024, From Camera to Chrome YouTube Shorts Video Upload Guide</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-select-a-youtube-gaming-introduction-maker-free-or-paid-edition/"><u>[Updated] In 2024, How to Select a YouTube Gaming Introduction Maker Free or Paid Edition</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/easily-unlock-your-vivo-x90s-device-sim-by-drfone-android/"><u>Easily Unlock Your Vivo X90S Device SIM</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/elevate-your-online-research-game-with-perplexity-ai-the-leading-choice-for-enhanced-google-searches/"><u>Elevate Your Online Research Game with Perplexity AI, the Leading Choice for Enhanced Google Searches</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/importing-flv-video-format-into-adobe-premiere-pro-a-comprehensive-guide/"><u>Importing FLV Video Format Into Adobe Premiere Pro - A Comprehensive Guide</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/in-2024-unlocking-google-chromes-pip-potential-on-all-platforms/"><u>In 2024, Unlocking Google Chrome's PIP Potential on All Platforms</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-why-your-whatsapp-live-location-is-not-updating-and-how-to-fix-on-your-xiaomi-redmi-13c-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Why Your WhatsApp Live Location is Not Updating and How to Fix on your Xiaomi Redmi 13C 5G | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/simple-ways-to-get-lost-music-back-from-honor-90-gt-by-fonelab-android-recover-music/"><u>Simple ways to get lost music back from Honor 90 GT</u></a></li>
 </ul></div>
 

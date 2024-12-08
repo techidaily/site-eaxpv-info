@@ -1,7 +1,7 @@
 ---
 title: "Unlocking Future Innovations: Apple's Latest AI Advances Set to Transform iPhones - Discover the Groundbreaking Artificnial Intelligence Technology that May Soon Elevate Your iPhone Experience, as Unveiled by Apple Research."
-date: 2024-11-22T17:59:44.290Z
-updated: 2024-11-28T18:13:11.358Z
+date: 2024-11-30T20:10:51.658Z
+updated: 2024-12-07T23:23:39.267Z
 tags:
   - apple
 categories:
@@ -38,10 +38,6 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Apple Intelligence (AI)
 
 Maria Diaz/ZDNET
@@ -63,10 +59,6 @@ Maria Diaz/ZDNET
 * Apple Intelligence will also upgrade the Photos app with a new **clean-up tool** that removes unwanted objects. **Search in videos** allows users to easily find specific snippets of content, and users can create **Memories** on-demand, using text to edit and organize photos into movies.
 * In the Notes app, users can **record and transcribe audio**, which Apple Intelligence will generate a text summary of. This experience is also available in the Notes phone app.
 * Apple Intelligence is free on iOS 18, iPadOS 18, and MacOS Sequoia, and will be available to try in English only this summer.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Partnership with OpenAI
 
@@ -95,7 +87,7 @@ Adam Breeden/ZDNET
 * The **Calendar app** can now pull from the Reminders app for a more seamless schedule overview.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## WatchOS 11
@@ -113,7 +105,7 @@ Adam Breeden/ZDNET
 * Another notable change is that the **double tap gesture** can be used to scroll through apps.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## iPadOS 18
@@ -125,6 +117,10 @@ Adam Breeden/ZDNET
 * In a long-awaited release, iPads will now have a **[calculator app](https://www.zdnet.com/article/after-14-years-apple-expected-to-unveil-the-ipad-app-weve-all-been-waiting-for-at-wwdc/)** for the first time, complete with the same interface as the one currently found on iPhones. Plus, users can use it with the Apple Pencil through a new **Math Notes** experience, which allows users to write expressions that the calculator app will solve for them once they type the equal sign, in their own handwriting,
 * Handwriting in Notes also got an upgrade with **Smart** **Script**, which refines users' writing to make it more legible while keeping the authenticity of the user's handwriting style. The feature can also match copied and pasted text to the user's handwriting. Typed text was also enhanced, with five new highlight colors and the ability to toggle sections under headings or subheadings.
 * iPadOS 18 supports **screen-sharing via SharePlay** and the same Control Center customizations, Photos app upgrades, Safari updates, and emoji Tapbacks found in **iOS 18.**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## MacOS 15 (Sequoia)
 
@@ -154,6 +150,10 @@ Jason Hiner/ZDNET
 * Users can **cast content** from their iPhone, iPad, or Mac to the Vision Pro using AirPlay.
 * Apple is also making the Vision Pro available in more countries starting June 28\. You can see the full list [here](https://www.apple.com/newsroom/2024/06/apple-vision-pro-arrives-in-new-countries-and-regions-beginning-june-28/).
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## AirPods
 
 Jason Hiner/ZDNET
@@ -163,7 +163,7 @@ Jason Hiner/ZDNET
 * Apple is also releasing a **Personalized Spatial Audio API** for game developers to build around the AirPods' audio technology.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## tvOS 18
@@ -210,24 +210,20 @@ Screenshot by Nina Raemont/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/n-2024-the-power-of-personal-storytelling-in-video-content/"><u>[New] In 2024, The Power of Personal Storytelling in Video Content</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/rmvbmp3-movavi/"><u>「オンラインで簡単！RMVB形式からMP3に自由費用の変換」 - Movavi</u></a></li>
-<li><a href="https://location-social.techidaily.com/4-most-known-ways-to-find-someone-on-tinder-for-oppo-reno-8t-by-name-drfone-by-drfone-virtual-android/"><u>4 Most-Known Ways to Find Someone on Tinder For Oppo Reno 8T by Name | Dr.fone</u></a></li>
-<li><a href="https://win-hot.techidaily.com/apple-note-4-against-samsung-galaxy-a-head-to-head-analysis-of-smartphone-giants-top-models/"><u>Apple Note 4 Against Samsung Galaxy: A Head-to-Head Analysis of Smartphone Giants' Top Models</u></a></li>
-<li><a href="https://win11.techidaily.com/clearing-up-no-sound-on-connected-devices-windows-edition/"><u>Clearing Up No Sound on Connected Devices, Windows Edition</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/come-trasformare-i-file-wma-in-mp3-con-le-tecniche-preferite-dagli-utilizzatori/"><u>Come Trasformare I File WMA in MP3 Con Le Tecniche Preferite Dagli Utilizzatori</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/convert-your-audio-files-instantly-best-online-wav-mp3-converters-for-free/"><u>Convert Your Audio Files Instantly: Best Online WAV-MP3 Converters for FREE</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/convertissez-gratuitement-un-fichier-aac-au-format-mp4-sur-internet-avec-movavi/"><u>Convertissez Gratuitement Un Fichier AAC Au Format MP4 Sur Internet Avec Movavi</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/directing-tweeted-vids-to-fb-audiences/"><u>Directing Tweeted Vids to FB Audiences</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/gratuit-online-converter-gsm-naar-mp4-veel-vrienden-van-movavi/"><u>Gratuit Online Converter: GSM Naar MP4 - Veel Vrienden Van Movavi</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-logic-pros-efficient-approach-to-softening-audio-levels/"><u>In 2024, Logic Pro's Efficient Approach to Softening Audio Levels</u></a></li>
-<li><a href="https://solve-lab.techidaily.com/is-disk-drill-worth-the-hype-an-in-depth-analysis-of-its-features-and-effectiveness/"><u>Is Disk Drill Worth the Hype? An In-Depth Analysis of Its Features and Effectiveness</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/online-m4b-aac-movavi/"><u>Online 무료 주식 M4B 클린 이동을 위한 AAC 전환 도구 - Movavi</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/overcome-chatgpt-bans-with-these-4-insights-into-why-your-accounts-locked-and-fixes-available/"><u>Overcome ChatGPT Bans with These 4 Insights Into Why Your Account's Locked & Fixes Available</u></a></li>
-<li><a href="https://games-able.techidaily.com/reversing-windows-launcher-failure-0x803f8001/"><u>Reversing Windows Launcher Failure: 0X803F8001</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/skagen-falster-2-assessment-the-sophisticated-alternative-to-apple-devices/"><u>Skagen Falster 2 Assessment: The Sophisticated Alternative To Apple Devices</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/top-18-video-editing-tools-for-gaming-footage-simplify-and-enhance-your-gameplay-clips/"><u>Top 18 Video Editing Tools for Gaming Footage: Simplify and Enhance Your Gameplay Clips</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/trasforma-file-asf-a-formato-mpeg-online-e-gratuito-con-movavi/"><u>Trasforma File ASF a Formato MPEG Online E Gratuito Con Movavi</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/1726227851663-apngpng-movavi/"><u>무료 APNG/PNG 전환기를 실시간으로 구현하기 위한 Movavi의 방법론</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-bite-sized-video-knowledge-now/"><u>[New] 2024 Approved Bite-Sized Video Knowledge Now</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-finding-your-custom-scored-youtube-tunes/"><u>[New] 2024 Approved Finding Your Custom-Scored YouTube Tunes</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-historical-discoveries-at-your-screen-10-best-educational-youtubers-for-2024/"><u>[New] Historical Discoveries at Your Screen - 10 Best Educational YouTubers for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-how-much-do-youtube-clips-pay-per-view-in-2024/"><u>[New] How Much Do YouTube Clips Pay Per View, In 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-game-on-steps-for-crafting-an-influential-online-gamers-channel/"><u>[New] In 2024, Game On Steps for Crafting an Influential Online Gamers' Channel</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-in-2024-no-charge-fb-visual-storyteller-pro-software/"><u>[New] In 2024, No-Charge FB Visual Storyteller Pro Software</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ptimizing-your-yt-ad-revenue-with-effective-monetization-audits-for-2024/"><u>[New] Optimizing Your YT Ad Revenue with Effective Monetization Audits for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-artisans-touch-skillfully-applying-face-centric-motion-blur-using-picsart/"><u>[New] The Artisan’s Touch Skillfully Applying Face-Centric Motion Blur Using Picsart</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-flavorful-frontier-groundbrenant-title-strategies-for-food-networks-for-2024/"><u>[Updated] Flavorful Frontier Groundbrenant Title Strategies for Food Networks for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-game-masters-youtube-money-hacks-for-2024/"><u>[Updated] Game Masters YouTube Money Hacks for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-game-changing-screens-and-tvs-discover-the-best-for-your-xbox-series-x/"><u>[Updated] Game-Changing Screens & TVs - Discover the Best For Your Xbox Series X</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-getting-the-most-out-of-live-sports-on-youtube-tv/"><u>[Updated] In 2024, Getting the Most Out of Live Sports on YouTube TV</u></a></li>
+<li><a href="https://driver-download.techidaily.com/1722969832557-compatible-with-gigabyte-audiotool-obtain-free-audio-drivers-now/"><u>Compatible with Gigabyte Audiotool: Obtain Free Audio Drivers Now!</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-fix-oem-unlock-missing-on-infinix-note-30-vip-by-drfone-android/"><u>In 2024, How To Fix OEM Unlock Missing on Infinix Note 30 VIP?</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-set-your-preferred-job-location-on-linkedin-app-of-your-apple-iphone-15-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, Set Your Preferred Job Location on LinkedIn App of your Apple iPhone 15 Pro Max | Dr.fone</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Protecting AI User Information in the Cloud: How Apple's Security Protocols Are Advancing Data Safety (Key Discussion)"
-date: 2024-11-27T16:31:48.998Z
-updated: 2024-11-28T17:11:28.321Z
+date: 2024-12-05T18:39:07.228Z
+updated: 2024-12-07T20:17:36.168Z
 tags:
   - apple
 categories:
@@ -49,7 +49,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## A trained charm offensive
@@ -83,7 +83,7 @@ She began to play a demonstration video that, dare I confess, is quite moving.
 The fact that someone else can see (a digital version of) your eyes is a touchingly humane feature, even if imperfect. But the simple gesturing and the apparent power of that gesturing is, even on video, quite something.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Suddenly, it's all business
@@ -125,7 +125,7 @@ I asked if she thought this would become the new way of living, where people wan
 (Well, not quite all the apps. Netflix and YouTube [aren't there](https://www.zdnet.com/article/what-apps-will-be-on-apple-vision-pro-not-these-two-major-ones/).)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Was I sold? Not quite yet
@@ -191,21 +191,24 @@ I asked the female store employee whether she'd be able to try one on before the
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-the-ultimate-guide-to-selecting-5-online-title-makers-for-2024/"><u>[New] The Ultimate Guide to Selecting 5 Online Title Makers for 2024</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/outube-channel-art-make-banners-icons-and-thumbnails/"><u>[New] YouTube Channel Art - Make Banners, Icons, and Thumbnails</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-premium-5-conferencing-recording-equipment-guide-for-2024/"><u>[Updated] Premium 5 Conferencing Recording Equipment Guide for 2024</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-tricks-to-acquire-dry-stock-photography/"><u>[Updated] Tricks to Acquire Dry Stock Photography</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/conversion-gratuite-des-fichiers-avi-avec-la-meilleure-solution-de-conversion-video-movavi/"><u>Conversion Gratuite Des Fichiers AVI Avec La Meilleure Solution De Conversion Vidéo: Movavi</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-resolve-icue-undetected-hardware-problems-successfully/"><u>How to Resolve ICUE Undetected Hardware Problems Successfully</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-your-iphone-xs-max-passcode-4-easy-methods-with-or-without-itunes-drfone-by-drfone-ios/"><u>In 2024, How to Unlock Your iPhone XS Max Passcode 4 Easy Methods (With or Without iTunes) | Dr.fone</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/movavis-complimentary-video-converter-turn-your-voc-videos-into-high-quality-avi/"><u>Movavi's Complimentary Video Converter - Turn Your VOC Videos Into High-Quality AVI</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/movaviflac/"><u>Movaviの無料オンライン音楽ファイルをFLACに簡単変換する方法</u></a></li>
-<li><a href="https://games-able.techidaily.com/rediscover-nature-with-these-top-ar-titles/"><u>Rediscover Nature with These Top AR Titles</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/samsungs-latest-innovation-unveiled-all-about-the-galaxy-z-fold-6-when-to-buy-and-what-it-can-do/"><u>Samsung's Latest Innovation Unveiled: All About the Galaxy Z Fold 6 – When to Buy and What It Can Do</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/sucasny-prekonanie-videokonvertovanie-do-formatu-mp3-behem-a-prstoustopnymi-zrucnostmi/"><u>Súčasný Prekonanie Vídeokonvertovanie Do Formátu MP3 Behém a Prstoustopnými Zručnosťmi</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/the-art-of-captivating-your-online-audience/"><u>The Art of Captivating Your Online Audience</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/top-14-fabricantes-de-gifs-ultimo-programa-de-edicion-para-crear-animaciones-perfectas/"><u>Top 14 Fabricantes De GIFs: Último Programa De Edición Para Crear Animaciones Perfectas</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/transformez-votre-fichier-wav-en-video-mp4-facilement-et-sans-frais-avec-movavi/"><u>Transformez Votre Fichier WAV en Vidéo MP4 Facilement Et Sans Frais - Avec Movavi</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/trasforma-i-file-mp2-in-wav-liberamente-su-internet-con-convertitore-di-movavi/"><u>Trasforma I File MP2 in WAV Liberamente Su Internet Con Convertitore Di Movavi</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-hashtag-mastery-enhancing-freefire-gameplay-videos-for-2024/"><u>[New] Hashtag Mastery Enhancing FreeFire Gameplay Videos for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-how-big-should-a-good-thumbnail-be-youtubes-ultimate-guide-for-2024/"><u>[New] How Big Should a Good Thumbnail Be? YouTube's Ultimate Guide for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-enhance-discord-conversations-a-recorders-insight/"><u>[New] In 2024, Enhance Discord Conversations A Recorder's Insight</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-hastened-steps-for-clear-background-filming-success/"><u>[New] In 2024, Hastened Steps for Clear Background Filming Success</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-in-2024-step-by-step-setting-up-a-channel-for-streaming/"><u>[New] In 2024, Step-by-Step Setting up a Channel for Streaming</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-game-masters-top-ten-female-gaming-influencers/"><u>[Updated] 2024 Approved Game Masters Top Ten Female Gaming Influencers</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-harnessing-hdr-in-post-top-4-youtube-guides-with-complimentary-green-screen-effects/"><u>[Updated] 2024 Approved Harnessing HDR in Post Top 4 YouTube Guides with Complimentary Green Screen Effects</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-harnessing-online-revenue-multiplatform-studio-use/"><u>[Updated] 2024 Approved Harnessing Online Revenue Multiplatform Studio Use</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-haute-makeup-techniques-step-by-step-youtube-guide-for-2024/"><u>[Updated] Haute Makeup Techniques Step-by-Step YouTube Guide for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-add-timestamps-youtube-video-for-2024/"><u>[Updated] How to Add Timestamps YouTube Video for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-fixed-youtube-shorts-lacking-in-sight/"><u>[Updated] In 2024, Fixed YouTube Shorts Lacking in Sight</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-messages-from-motorola-razr-40-ultra-by-fonelab-android-recover-messages/"><u>Easy steps to recover deleted messages from Motorola Razr 40 Ultra</u></a></li>
+<li><a href="https://win-dash.techidaily.com/free-installation-of-nvidias-3d-vision-drivers-on-windows-systems/"><u>Free Installation of Nvidia's 3D Vision Drivers on Windows Systems</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-itel-a70-bootloader-easily-by-drfone-android/"><u>How to Unlock Itel A70 Bootloader Easily</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-why-your-whatsapp-location-is-not-updating-and-how-to-fix-on-oneplus-nord-n30-se-drfone-by-drfone-virtual-android/"><u>In 2024, Why Your WhatsApp Location is Not Updating and How to Fix On OnePlus Nord N30 SE | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/mastering-voice-commands-instructions-for-activating-siris-reading-feature/"><u>Mastering Voice Commands: Instructions for Activating Siri's Reading Feature</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ps5-faceoff-examining-differences-between-ps5-slim-and-original-model/"><u>PS5 Faceoff: Examining Differences Between PS5 Slim & Original Model</u></a></li>
+<li><a href="https://win-blog.techidaily.com/solving-common-sounds-issues-in-halo-infinite-a-step-by-step-guide/"><u>Solving Common Sounds Issues in Halo Infinite: A Step-by-Step Guide</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/top-5-engine-picks-for-peak-performance-quadcopters/"><u>Top 5 Engine Picks for Peak Performance Quadcopters</u></a></li>
 </ul></div>
 

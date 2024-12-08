@@ -1,7 +1,7 @@
 ---
 title: "Mastering iPhone Screenshots and Recording: Tips From ZDNet"
-date: 2024-10-30T22:41:30.762Z
-updated: 2024-11-02T10:50:03.299Z
+date: 2024-12-05T20:29:37.748Z
+updated: 2024-12-07T18:08:12.716Z
 tags:
   - apple
 categories:
@@ -28,13 +28,14 @@ In this article, I'll show you how to take both screenshots and screen recording
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to take a screenshot or screen recording with your Vision Pro
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975836/19272" target="_top" id="1975836">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975836" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975836/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The two ways to take a screenshot on Vision Pro
@@ -64,10 +65,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 So that's how it's done. Now for the weird part.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880956/19272" target="_top" id="1880956">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880956" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880956/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to handle screenshot weirdness on Vision Pro
@@ -109,10 +107,7 @@ I carefully lined up the horizon of the lake (I'm using the Mount Hood environme
 It's quite frustrating, and either an artifact of the Vision Pro or of my slightly tilted psyche. Either way, it's weird and annoying. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123726/7443" target="_top" id="2123726">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123726" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123726/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to capture a screen recording on Vision Pro
@@ -162,20 +157,19 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-growth-acceleration-on-youtube-expert-tips-for-video-partnerships-for-2024/"><u>[New] Growth Acceleration on YouTube Expert Tips for Video Partnerships for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-high-cash-content-creators-for-2024/"><u>[New] High-Cash Content Creators for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-cinematic-chronicles-in-depth-video-tech-reviews/"><u>[Updated] 2024 Approved Cinematic Chronicles In-Depth Video Tech Reviews</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-free-diy-approaches-to-design-your-own-youtube-cards/"><u>[Updated] 2024 Approved Free DIY Approaches to Design Your Own YouTube Cards</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-hastened-steps-for-clear-background-filming-success/"><u>[Updated] 2024 Approved Hastened Steps for Clear Background Filming Success</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-apex-gk-quizmasters-video-channel-list/"><u>[Updated] Apex GK Quizmasters' Video Channel List</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-first-steps-into-filmmaking-the-ultimate-guide-for-making-your-first-10-youtube-videos/"><u>[Updated] In 2024, First Steps Into Filmmaking The Ultimate Guide for Making Your First 10 YouTube Videos</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-free-7-best-apps-to-go-live-on-youtube-from-iphone-or-android/"><u>[Updated] In 2024, FREE 7 Best Apps to Go Live on YouTube From iPhone or Android</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-integrating-twitter-videos-into-facebook-social-graph/"><u>[Updated] In 2024, Integrating Twitter Videos Into Facebook Social Graph</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/best-poco-x5-pro-pattern-lock-removal-tools-remove-android-pattern-lock-without-losing-data-by-drfone-android/"><u>Best Poco X5 Pro Pattern Lock Removal Tools Remove Android Pattern Lock Without Losing Data</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-reno-10-pro-5g-photos-an-easy-method-explained-by-fonelab-android-recover-photos/"><u>How to Restore Deleted Reno 10 Pro 5G Photos An Easy Method Explained.</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-3-ways-to-change-location-on-facebook-marketplace-for-xiaomi-14-pro-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Change Location on Facebook Marketplace for Xiaomi 14 Pro | Dr.fone</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-premium-choices-for-unparalleled-video-communication/"><u>In 2024, Premium Choices for Unparalleled Video Communication</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/nintendo-switch-screen-caps-a-beginners-tutorial-on-snapping-photos-and-videos/"><u>Nintendo Switch Screen Caps: A Beginner's Tutorial on Snapping Photos & Videos</u></a></li>
-<li><a href="https://facebook.techidaily.com/the-8-critical-moves-before-ending-your-fb-journey/"><u>The 8 Critical Moves Before Ending Your FB Journey</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-3-step-formula-how-to-check-youtube-income/"><u>[New] 2024 Approved [3-Step Formula] How To Check YouTube Income</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-block-youtube-channels-on-computer-and-mobile-phones/"><u>[New] 2024 Approved How to Block YouTube Channels on Computer and Mobile Phones</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-quickly-clip-and-save-your-favorite-youtube-sections/"><u>[New] 2024 Approved How to Quickly Clip and Save Your Favorite YouTube Sections</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-filmora-tutorials-simple-steps-to-a-dynamic-youtube-subscribe-button-for-2024/"><u>[New] Filmora Tutorials Simple Steps to a Dynamic YouTube Subscribe Button for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ack-your-way-to-speedy-youtube-video-processing/"><u>[New] Hack Your Way to Speedy YouTube Video Processing</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-first-steps-on-the-path-equipment-for-beginners/"><u>[New] In 2024, First Steps on the Path Equipment for Beginners</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-crafting-spectacular-hdr-images-blending-tips-in-adobe-lightroom/"><u>[Updated] 2024 Approved Crafting Spectacular HDR Images Blending Tips in Adobe Lightroom</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-make-a-youtube-intro-video-2-ways/"><u>[Updated] 2024 Approved How to Make A YouTube Intro Video [2 Ways]</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-in-2024-mastering-videographic-success-stories-for-client-praise/"><u>[Updated] In 2024, Mastering Videographic Success Stories for Client Praise</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-subject-emphasis-background-cleanse/"><u>2024 Approved Subject Emphasis Background Cleanse</u></a></li>
+<li><a href="https://fake-location.techidaily.com/fake-the-location-to-get-around-the-mlb-blackouts-on-oneplus-nord-n30-5g-drfone-by-drfone-virtual-android/"><u>Fake the Location to Get Around the MLB Blackouts on OnePlus Nord N30 5G | Dr.fone</u></a></li>
+<li><a href="https://win-latest.techidaily.com/revitalize-your-aging-windows-11mac-tips-and-tricks-from-zdnet-for-enhanced-performance/"><u>Revitalize Your Aging Windows 11/Mac: Tips and Tricks From ZDNet for Enhanced Performance</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/simple-steps-restore-your-deleted-word-excel-and-powerpoint-files-for-free/"><u>Simple Steps: Restore Your Deleted Word, Excel, and PowerPoint Files for Free</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-ipad-productivity-apps-enhance-efficiency-and-streamline-tasks-recommendations/"><u>Top iPad Productivity Apps: Enhance Efficiency & Streamline Tasks – Recommendations</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Top Free Apps for Playing MTS & M2TS Videos on macOS - Best Picks!
-date: 2024-08-24 11:10:22
-updated: 2024-08-27 12:39:10
+date: 2024-12-02T23:27:46.070Z
+updated: 2024-12-08T00:17:38.969Z
 categories:
   - macxdvd
 thumbnail: https://thmb.techidaily.com/ea0b0402d1ea26fd039e2c69b50b2f77be9bc5a66db4bea78463e158540cfbfa.jpg
@@ -16,13 +16,9 @@ thumbnail: https://thmb.techidaily.com/ea0b0402d1ea26fd039e2c69b50b2f77be9bc5a66
 * [Support](https://tools.techidaily.com/macxdvd/products/)
 * [Free Download](https://tools.techidaily.com/macxdvd/products/)
 
-
-
 ![](https://www.macxdvd.com/mac-dvd-video-converter-how-to/../image-style/new-seo/icon7.png) [Home](https://tools.techidaily.com/macxdvd/products/) \> [Video](https://tools.techidaily.com/macxdvd/products/) \> [Play Video](https://tools.techidaily.com/macxdvd/products/) \> Play MTS on Mac
 
 ## How to Play MTS/M2TS Files on Mac Free | Top 3 Ways
-
-
 
 _Playing MTS/M2TS videos on Mac is a tricky task for many Mac users. Worse still, you may also fail to upload your MTS/M2TS files to the websites when you want to share with your friends and family. Use the tips below to fix the error._
 
@@ -31,6 +27,11 @@ _Playing MTS/M2TS videos on Mac is a tricky task for many Mac users. Worse still
 * [![](https://www.macxdvd.com/mac-dvd-video-converter-how-to/../image-style/new-seo/share-fa.jpg)](https://www.facebook.com/sharer/sharer.php?u=https://www.macxdvd.com/mac-dvd-video-converter-how-to/play-mts-m2ts-files-on-mac-free.htm)
 * [![](https://www.macxdvd.com/mac-dvd-video-converter-how-to/../image-style/new-seo/share-tw.jpg)](https://twitter.com/intent/tweet?url=https://www.macxdvd.com/mac-dvd-video-converter-how-to/play-mts-m2ts-files-on-mac-free.htm&text=)
 * [![](https://www.macxdvd.com/mac-dvd-video-converter-how-to/../image-style/new-seo/share-go.jpg)](https://pinterest.com/pin/create/button/?url=https://www.macxdvd.com/mac-dvd-video-converter-how-to/play-mts-m2ts-files-on-mac-free.htm&media=&description=)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 * [![](https://www.macxdvd.com/mac-dvd-video-converter-how-to/../image-style/new-seo/share-in.jpg)](https://www.linkedin.com/shareArticle?mini=true&url=https://www.macxdvd.com/mac-dvd-video-converter-how-to/play-mts-m2ts-files-on-mac-free.htm&title=&summary=&source=)
 
 MTS and M2TS are Sony high definition video file types, both of which are recorded by AVCHD camcorders. So it's no surprise that many popular HD camcorders, like Canon VIXIA HF200, Canon FS200, Canon VIXIA HFS100, Canon VIXIA HG21, Panasonic HDC-HS300, Panasonic HDC-HS20, Sony HDR-CX100, Sony DCR-SR47, JVC GZ-HD40, JVC GZ-HD10 etc. record videos in MTS/M2TS format.
@@ -38,6 +39,10 @@ MTS and M2TS are Sony high definition video file types, both of which are record
 Absolutely, HD camcorders are great tools for shutterbugs to capture every special moment and beautiful scenery around their life. Unfortunately, troubles follow as well. 
 
 In view of the fact that the built-in Mac meida player - [Quicktime won't play AVI](https://tools.techidaily.com/macxdvd/products/), MKV, AVCHD, MTS, M2TS videos, you naturally fail to import MTS/M2TS files to Mac computer. But it doesn't mean that you are at a loss for AVCHD MTS/M2TS videos playback. Here are top 3 ways for you to free watch MTS or M2TS videos on Mac:
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Table of Contents
 
@@ -59,6 +64,10 @@ In order to play your camcorder recorded AVCHD (.mts/.m2ts) videos on Mac withou
 
 ![play MTS on Mac](https://www.macxdvd.com/mac-dvd-video-converter-how-to/article-image/mp4player7.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 play MTS on Mac
 
 **Step 3: Select Output Folder**. Specify output folder on your computer to save the output files. Click the "Browse" button to choose the path where you want to save the output files in.
@@ -66,6 +75,10 @@ play MTS on Mac
 **Step 4: Start Conversion**. After finish the above steps, click the "RUN" button to start [converting MTS/TS to MP4](https://tools.techidaily.com/macxdvd/products/) Mac supported format, you could view the conversion progress and are able to cancel the converting process at anytime.
 
 Load the resulting MTS video file to QuickTime player to playback on macOS after the conversion is done. In most cases, your output video will be successfully read by QuickTime and played back without any error. Upgrade QT player to the latest version if there is no video source error occurred or check [here](https://tools.techidaily.com/macxdvd/products/) to solve QuickTime playing video no sound trouble.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ###  Video Tutorial | Watch Video to Free Transcode MTS M2TS to QT Player Formats
 
@@ -82,6 +95,10 @@ Certainly, feed it with multi-track MKV video, MP4, AVCHD, VOB, H264/HEVC, VP8/V
 **Step 2:** load AVCHD video(s) by dragging & dropping or clicking "Video" option in the main interface. 
 
 Then, you just need to sit back and enjoy the AVCHD MTS M2TS videos playing on your Mac without any glitches.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Solution 3: Play AVCHD (.mts) Video with VLC Player
 
@@ -107,8 +124,6 @@ ABOUT THE AUTHOR
 
 Candice's particularly skilled in writing and sharing video-related contents. Her guides cover from deep-seated video/audio parameters, to media entertainment on different platforms. She also enjoys shooting and processing videos by herself for a more reliable basis of informative info with her articles, which are never at the expense of eliminating an entertaining read.
 
-
-
 Related Articles
 
 ![](https://www.macxdvd.com/mac-dvd-video-converter-how-to/../image-style/new-seo/pic7.jpg)
@@ -125,21 +140,35 @@ Related Articles
 
 ![](https://www.macxdvd.com/mac-dvd-video-converter-how-to/../image-style/new-seo/pic4.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 [Play WMV on Mac Problematic? QT Won't Open WMV? Check Solutions](https://tools.techidaily.com/macxdvd/products/) 
 
 ![](https://www.macxdvd.com/mac-dvd-video-converter-how-to/../image-style/new-seo/pic3.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 [Play MKV on QuickTime with Top MKV to QuickTime Converter](https://tools.techidaily.com/macxdvd/products/) 
 
 ![](https://www.macxdvd.com/mac-dvd-video-converter-how-to/../image-style/new-seo/pic2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 [\[Solved\] Can't Play HEVC/H.265 Videos on macOS](https://tools.techidaily.com/macxdvd/products/) 
-
-
 
 ![Digiarty Software](https://www.macxdvd.com/mac-dvd-video-converter-how-to/../icon/logo.png) 
 
 Digiarty Software, Inc. (MacXDVD) is a leader in delivering stable multimedia software applications for worldwide users since its establishment in 2006.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Hot Products
 
@@ -163,8 +192,6 @@ Digiarty Software, Inc. (MacXDVD) is a leader in delivering stable multimedia so
 * [Contact Us >>](https://tools.techidaily.com/macxdvd/products/)
 * [Partner >>](https://tools.techidaily.com/macxdvd/products/)
 
-
-
 [Home](https://tools.techidaily.com/macxdvd/products/) | [About](https://tools.techidaily.com/macxdvd/products/) | [Privacy Policy](https://tools.techidaily.com/macxdvd/products/) | [Terms and Conditions](https://tools.techidaily.com/macxdvd/products/) | [License Agreement](https://tools.techidaily.com/macxdvd/products/) | [Resource](https://tools.techidaily.com/macxdvd/products/) | [News](https://tools.techidaily.com/macxdvd/products/) | [Contact Us](https://tools.techidaily.com/macxdvd/products/)
 
 Copyright © 2024 Digiarty Software, Inc (MacXDVD). All rights reserved
@@ -178,11 +205,27 @@ Digiarty Software is not developed by or affiliated with Apple Inc.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-fortnite-thumbnail-blitz-a-30-second-guide-for-2024/"><u>[New] Fortnite Thumbnail Blitz A 30-Second Guide for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-green-screen-ease-crafting-effective-youtube-ctas-for-2024/"><u>[New] Green Screen Ease Crafting Effective YouTube CTAs for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-monetize-like-a-pro-how-to-use-youtube-studio-on-any-device/"><u>[New] In 2024, Monetize Like a Pro How to Use Youtube Studio on Any Device</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-mastering-the-art-of-swapping-gender-representation-in-snapchatfacebook-photos/"><u>[New] Mastering the Art of Swapping Gender Representation in Snapchat/Facebook Photos</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-high-definition-hardware-unveiled-by-gamers/"><u>[Updated] 2024 Approved High-Definition Hardware Unveiled by Gamers</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-make-youtube-video-the-ultimate-guide/"><u>[Updated] 2024 Approved How to Make YouTube Video The Ultimate Guide</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-ace-set-of-rotational-recording-devices/"><u>[Updated] Ace Set of Rotational Recording Devices</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-ultimate-methods-for-efficiently-attaching-a-link-to-tiktok-bios/"><u>2024 Approved Ultimate Methods for Efficiently Attaching a Link to TikTok Bios</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/dell-inspiron-3671-desktop-analysis-an-unpretentious-midrange-computer-system-overview/"><u>Dell Inspiron 3671 Desktop Analysis: An Unpretentious Midrange Computer System Overview</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/has-anyone-overtaken-vonage-as-the-top-voip-service-provider-yet/"><u>Has Anyone Overtaken Vonage as the Top VoIP Service Provider Yet?</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/windows-10-upside-down-issue-resolved/"><u>Windows 10 Upside Down Issue Resolved</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ng-youtube-affiliate-deals-famebits-guide-to-earnings-for-2024/"><u>Winning YouTube Affiliate Deals FameBit's Guide to Earnings for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/1726030447403-movwmv/"><u>プロのテクニックでMOVファイルをWMVへ変換する詳細ガイド</u></a></li>
+</ul></div>
+

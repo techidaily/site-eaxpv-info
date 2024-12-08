@@ -1,7 +1,7 @@
 ---
 title: "Revive Your Social Feed's Soundscape: Expert Advice on Resolving Facebook Video Playback Noise Glitches"
-date: 2024-08-24 19:30:42
-updated: 2024-08-27 10:10:12
+date: 2024-12-04T16:58:41.600Z
+updated: 2024-12-07T16:46:27.057Z
 categories:
   - macxdvd
 thumbnail: https://thmb.techidaily.com/ef75e54c89ead83bf0af102804bf50f616e622b6f296003a4995fda9891371fd.jpg
@@ -16,20 +16,25 @@ thumbnail: https://thmb.techidaily.com/ef75e54c89ead83bf0af102804bf50f616e622b6f
 * [Support](https://tools.techidaily.com/macxdvd/products/)
 * [Free Download](https://tools.techidaily.com/macxdvd/products/)
 
-
-
 ![](https://www.macxdvd.com/mac-dvd-video-converter-how-to/../image-style/new-seo/icon7.png) [Home](https://tools.techidaily.com/macxdvd/products/) \> [Online Video](https://tools.techidaily.com/macxdvd/products/) \> [Streaming Video](https://tools.techidaily.com/macxdvd/products/) \> Facebook Videos No Sound Fix
 
 ## No Sound on Facebook Videos on iPhone iPad Android? All Fixes Are Here
-
-
 
 ![](https://www.macxdvd.com/mac-dvd-video-converter-how-to/../image-style/new-seo/icon6.png) By [Bertha Miller](https://www.linkedin.com/in/bertha-miller-7a324990/) ｜Last updated on March 02, 2021
 
 * [![](https://www.macxdvd.com/mac-dvd-video-converter-how-to/../image-style/new-seo/share-fa.jpg)](https://www.facebook.com/sharer/sharer.php?u=https://www.macxdvd.com/mac-dvd-video-converter-how-to/facebook-videos-no-sound-fixed.htm)
 * [![](https://www.macxdvd.com/mac-dvd-video-converter-how-to/../image-style/new-seo/share-tw.jpg)](https://twitter.com/intent/tweet?url=https://www.macxdvd.com/mac-dvd-video-converter-how-to/facebook-videos-no-sound-fixed.htm)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 * [![](https://www.macxdvd.com/mac-dvd-video-converter-how-to/../image-style/new-seo/share-email.jpg)](https://www.macxdvd.com/mac-dvd-video-converter-how-to/mailto:info@example.com?&subject=&body=https://www.macxdvd.com/mac-dvd-video-converter-how-to/facebook-videos-no-sound-fixed.htm)
 * [![](https://www.macxdvd.com/mac-dvd-video-converter-how-to/../image-style/new-seo/share-in.jpg)](https://www.linkedin.com/shareArticle?mini=true&url=https://www.macxdvd.com/mac-dvd-video-converter-how-to/facebook-videos-no-sound-fixed.htm&title=&summary=https://www.macxdvd.com/mac-dvd-video-converter-how-to/facebook-videos-no-sound-fixed.htm&source=)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 _I can't get sound on my Facebook videos! It works fine on my computer but after I upgrade to iOS 13, there is [no sound on Facebook videos on my iPhone](https://tools.techidaily.com/macxdvd/products/). I have tried to delete and reinstall the iOS update but get no luck. Any suggestion to fix Facebook videos no sound problem? It's driving me crazy..._
 
@@ -53,6 +58,10 @@ Sometimes you may suddenly lost sound on Facebook video playback, frustrating. U
 As the user mentioned above, you may all of sudden run into Facebook video sound not working error on iPhone iPad. The reason can be the Facebook app problem, or the changed iPhone iPad settings after you upgrade to new iOS 10.12 for example. When your Facebook videos have no sound on iPhone XS/XS Max/XR/X/8/7/SE/6S, iPad Air 2/mini 4 etc, try the fixes below:
 
 ![Can't get sound on Facebook on iPad iPhone](https://www.macxdvd.com/mac-dvd-video-converter-how-to/article-image/fb-no-sound-1.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 1. First of all, check if the silent/ loud toggle button on the side of the device is switched to the loud mode.
 2. If you have Facebook video sound problem after iOS upgrading, get into the device root directory and go to /System/Library/LaunchDeamons and locate the file com.apple.iapd.plist.
@@ -81,6 +90,10 @@ If you can't get sound on Facebook video but can play sound in local desktop vid
 
 5. If there is still Facebook video sound problem in any browser, consider [free download Facebook videos](https://tools.techidaily.com/macxdvd/products/).
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 3\. No sound on FB videos on Computer/Laptop 
 
 Can't get audio on Facebook on a PC/Mac is also a common problem. There are various different reasons for this problem and here we have gathered all the possible solutions to FB videos sound not working problem on computer/laptop. Just follow the guide below to [fix Facebook video not playing](https://tools.techidaily.com/macxdvd/products/) with sound on computer: 
@@ -105,12 +118,20 @@ Like the problem on iPhone iPad, you may get errors with Facebook videos on Andr
 
 ![No sound on FB videos on Android](https://www.macxdvd.com/mac-dvd-video-converter-how-to/article-image/fb-no-sound-4.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 1. First of all, check if the silent/vibrate switch is turned on.
 2. Hold on the power button to restart the Android/Samsung device.
 3. Insert your headphones into the headphone jack then take them out may solve Facebook videos no sound.
 4. Make sure the Android device has the latest software update, to check go into settings > about device > software update > check for updates.
 
 Also see: [how to fix YouTube no sound problem](https://tools.techidaily.com/macxdvd/products/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 5\. How to fix no sound on Facebook videos calls
 
@@ -125,11 +146,13 @@ The final error is the sound problem during a Facebook video chat. Some users ar
 5. Check the sample rate of your sound card.
 6. Try re-installing the driver of your sound card.
 
-
-
 Related Articles
 
 ![](https://www.macxdvd.com/mac-dvd-video-converter-how-to/../image-style/new-seo/pic7.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 [Facebook Video Upload Error? Quick Fix FB Not Uploading Video Trouble](https://tools.techidaily.com/macxdvd/products/) 
 
@@ -151,9 +174,11 @@ Related Articles
 
 ![](https://www.macxdvd.com/mac-dvd-video-converter-how-to/../image-style/new-seo/pic2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 [Facebook Video Upload Error? Quick Fix FB Not Uploading Video Trouble](https://tools.techidaily.com/macxdvd/products/) 
-
-
 
 ![Digiarty Software](https://www.macxdvd.com/mac-dvd-video-converter-how-to/../icon/logo.png) 
 
@@ -173,6 +198,10 @@ Digiarty Software, Inc. (MacXDVD) is a leader in delivering stable multimedia so
 * [Online Video >>](https://tools.techidaily.com/macxdvd/products/)
 * [Hot Topics >>](https://tools.techidaily.com/macxdvd/products/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Company
 
 * [About Us >>](https://tools.techidaily.com/macxdvd/products/)
@@ -180,8 +209,6 @@ Digiarty Software, Inc. (MacXDVD) is a leader in delivering stable multimedia so
 * [User Guides >>](https://tools.techidaily.com/macxdvd/products/)
 * [Contact Us >>](https://tools.techidaily.com/macxdvd/products/)
 * [Partner >>](https://tools.techidaily.com/macxdvd/products/)
-
-
 
 [Home](https://tools.techidaily.com/macxdvd/products/) | [About](https://tools.techidaily.com/macxdvd/products/) | [Privacy Policy](https://tools.techidaily.com/macxdvd/products/) | [Terms and Conditions](https://tools.techidaily.com/macxdvd/products/) | [License Agreement](https://tools.techidaily.com/macxdvd/products/) | [Resource](https://tools.techidaily.com/macxdvd/products/) | [News](https://tools.techidaily.com/macxdvd/products/) | [Contact Us](https://tools.techidaily.com/macxdvd/products/)
 
@@ -196,11 +223,25 @@ Digiarty Software is not developed by or affiliated with Apple Inc.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-brighten-up-your-gaming-setup-eliminate-black-screens-with-obs/"><u>[New] Brighten Up Your Gaming Setup Eliminate Black Screens with OBS</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-turn-daily-life-into-a-comedy-meme/"><u>2024 Approved Turn Daily Life Into a Comedy Meme</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/1726226400596-202410/"><u>2024年度推荐：选出10个最佳婚礼视频制作工具——如何帮你记录完美结合！</u></a></li>
+<li><a href="https://win-unique.techidaily.com/easy-techniques-to-integrate-tables-into-flash-books-on-flipbuilder-platform/"><u>Easy Techniques to Integrate Tables Into Flash Books on FlipBuilder Platform</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/entendendo-o-formato-de-audiencia-ogg-tipos-e-metodos-para-reproducao/"><u>Entendendo O Formato De Audiência Ogg: Tipos E Métodos Para Reprodução</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/gratuit-conversion-de-videos-en-vob-avec-movavi-m4v-a-mouvideo-numerise/"><u>Gratuit Conversion De Vidéos en VOB Avec Movavi - M4V À Mouvidéo Numérisé</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/in-2024-unveiling-tiktoks-visual-makeover-techniques/"><u>In 2024, Unveiling TikTok's Visual Makeover Techniques</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/online-free-conversion-transforming-webm-files-into-vob-movavi/"><u>Online Free Conversion: Transforming WebM Files Into VOB - Movavi</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/pros-and-cons-of-apple-watch-series/"><u>Pros & Cons of Apple Watch Series</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/the-photographers-guide-to-pc-gaming-scenes/"><u>The Photographer’s Guide to PC Gaming Scenes</u></a></li>
+<li><a href="https://win-forum.techidaily.com/the-pioneers-of-social-engagement-analyzing-the-impact-of-facebook-twitter-instagram-and-youtube-on-digital-connections/"><u>The Pioneers of Social Engagement: Analyzing the Impact of Facebook, Twitter, Instagram & YouTube on Digital Connections</u></a></li>
+</ul></div>
+

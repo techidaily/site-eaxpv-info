@@ -1,7 +1,7 @@
 ---
 title: "Apple Postpones Launch of AI Capabilities in Devices to October: Insights From ZDNet"
-date: 2024-10-26T02:02:40.666Z
-updated: 2024-11-02T13:01:24.455Z
+date: 2024-11-30T17:41:16.764Z
+updated: 2024-12-07T21:51:23.585Z
 tags:
   - apple
 categories:
@@ -36,13 +36,6 @@ Apple was expected to focus on incorporating AI into its apps to simplify users'
 
 Apple Intelligence focuses on broad-appeal AI features rather than advanced image and video generation. To do this, the company developed in-house AI models and partnered with OpenAI to power a chatbot that will integrate [ChatGPT](https://www.zdnet.com/article/what-is-chatgpt-and-why-does-it-matter-heres-everything-you-need-to-know/) into iOS, iPadOS, and MacOS.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100530/7443" target="_top" id="2100530">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100530" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100530/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## What does Apple Intelligence do?
 
 Apple
@@ -63,10 +56,7 @@ Aside from these AI features, iOS 18 will include new customizable icons and int
 **Also: [Forget LastPass: Apple unveils 'Passwords' manager app at WWDC 2024](https://www.zdnet.com/article/forget-lastpass-apple-unveils-passwords-manager-app-at-wwdc-2024/)**
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135361/19272" target="_top" id="2135361">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135361" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135361/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Is Siri getting an Apple Intelligence makeover?
@@ -98,10 +88,7 @@ Apple is adding natural language photo and video search to its Photos app. This 
 In Photos, users will also be able to give a text prompt to create Memory videos. These will be compilations of videos and photos following a description, with music suggestions from Apple Music. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896510/19272" target="_top" id="1896510">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896510" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896510/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How does systemwide AI text generation work?
@@ -116,6 +103,10 @@ The same feature can help users make major edits to text, such as changing the t
 
 Apple devices will also get AI upgrades for recordings and transcriptions in Voice Memos and Phone, as users can quickly transcribe voice notes with AI.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What is Image Playground?
 
 Apple
@@ -127,6 +118,10 @@ Apple will let users generate images using AI in Messages, Photos Notes, Keynote
 In the Notes app, for example, a new tool called Image Wand will let you circle a rough sketch and use on-device AI to have Image Playground pull ideas from the surrounding areas to generate an image. 
 
 Image Playground will be available in beta this fall, and some features will be released over the next year.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Is ChatGPT coming to iPhone, iPad, and Mac?
 
@@ -157,10 +152,7 @@ Apple is leveraging what it calls Private Cloud Compute for complex tasks that r
 Depending on its complexity and system requirements, an algorithm will determine whether a task requiring AI should be processed on-device or offloaded to the cloud. Simpler tasks like a Siri request and other basic NLP tasks can be processed on-device. More complex tasks, like generating a detailed summary of a large document, will be sent to the cloud, where more robust processing can occur. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105863/7443" target="_top" id="2105863">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105863" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105863/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Is Apple Intelligence actually private and secure?
@@ -218,20 +210,24 @@ While these AI features may help drive sales of new iPhones and Macs, as a curre
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-oven-to-screen-cooking-videos-unveiled/"><u>[New] 2024 Approved From Oven to Screen Cooking Videos Unveiled</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-how-to-safely-capture-your-favorite-youtube-audio-for-free-for-2024/"><u>[New] How to Safely Capture Your Favorite YouTube Audio for Free for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-harnessing-the-power-of-short-videos-for-maximum-income/"><u>[Updated] 2024 Approved Harnessing the Power of Short Videos for Maximum Income</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-ffmpeg-and-its-proficiency-in-original-audio-extraction/"><u>[Updated] FFmpeg and Its Proficiency in Original Audio Extraction</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-flawless-free-download-of-youtube-video-covers-no-hurdles-for-2024/"><u>[Updated] Flawless Free Download of YouTube Video Covers - No Hurdles for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-8-sites-to-download-free-green-screen-backgrounds-and-footage/"><u>[Updated] In 2024, 8 Sites to Download Free Green Screen Backgrounds and Footage</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-youtube-to-studio-quality-free-converters-for-wav-format/"><u>[Updated] In 2024, From YouTube to Studio Quality Free Converters for WAV Format</u></a></li>
-<li><a href="https://android-frp.techidaily.com/addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-nokia-c32-by-drfone-android/"><u>AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your Nokia C32</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-photos-from-motorola-moto-g-stylus-5g-2023-by-fonelab-android-recover-photos/"><u>Easy steps to recover deleted photos from Motorola Moto G Stylus 5G (2023).</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/elevate-your-alerts-a-comprehensive-look-at-customizing-ringtone-and-sound-settings-on-android/"><u>Elevate Your Alerts A Comprehensive Look at Customizing Ringtone & Sound Settings on Android</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/embrace-language-independence-with-no-cost-japanese-resources/"><u>Embrace Language Independence with No Cost Japanese Resources</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-9-samsung-galaxy-z-fold-5-monitoring-apps-for-parental-controls-drfone-by-drfone-virtual-android/"><u>In 2024, Top 9 Samsung Galaxy Z Fold 5 Monitoring Apps for Parental Controls | Dr.fone</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/remove-device-supervision-from-your-iphone-xs-by-drfone-ios/"><u>Remove Device Supervision From your iPhone XS</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/ultimate-fortnite-starter-pack-mastering-the-basics/"><u>Ultimate Fortnite Starter Pack: Mastering the Basics</u></a></li>
-<li><a href="https://fake-location.techidaily.com/will-the-ipogo-get-you-banned-and-how-to-solve-it-on-apple-iphone-12-pro-drfone-by-drfone-virtual-ios/"><u>Will the iPogo Get You Banned and How to Solve It On Apple iPhone 12 Pro | Dr.fone</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-free-yourself-from-video-edges-on-youtube/"><u>[New] In 2024, Free Yourself From Video Edges on YouTube</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-from-obscurity-to-star-in-3-simple-steps/"><u>[Updated] 2024 Approved From Obscurity to Star in 3 Simple Steps</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-global-giga-viewers-worlds-favorite-youtube-stars/"><u>[Updated] 2024 Approved Global Giga-Viewers World's Favorite YouTube Stars</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-harmonizing-your-spotify-queue-with-youtube-music-catalogs/"><u>[Updated] 2024 Approved Harmonizing Your Spotify Queue with YouTube Music Catalogs</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-4k-visionary-review-blades-spectrum-expansion-for-2024/"><u>[Updated] 4K Visionary Review Blade's Spectrum Expansion for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-from-fringe-to-mainstream-highlighting-top-10-gender-balanced-youtubers-for-2024/"><u>[Updated] From Fringe to Mainstream Highlighting Top 10 Gender-Balanced YouTubers for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-from-stillness-to-stirring-tips-for-bouncing-text-for-2024/"><u>[Updated] From Stillness to Stirring Tips for Bouncing Text for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-get-youtube-posters-at-zero-price-top-free-downloading-tool-for-2024/"><u>[Updated] Get YouTube Posters at Zero Price - Top Free Downloading Tool for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-elevate-youtube-rankings-with-optimized-metadata-for-2024/"><u>[Updated] How to Elevate YouTube Rankings with Optimized Metadata for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-behind-the-glamour-10-honest-insights-into-reels/"><u>[Updated] In 2024, Behind the Glamour 10 Honest Insights Into Reels</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-fresh-concepts-for-youtube-channels-inspiration-at-its-peak/"><u>[Updated] In 2024, Fresh Concepts for YouTube Channels Inspiration at Its Peak</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-transforming-youtubers-into-titans-with-key-insights-from-the-hub/"><u>[Updated] Transforming YouTubers Into Titans with Key Insights From the Hub</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-watch-hulu-outside-us-on-vivo-y78plus-t1-edition-drfone-by-drfone-virtual-android/"><u>How to Watch Hulu Outside US On Vivo Y78+ (T1) Edition | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-use-allshare-cast-to-turn-on-screen-mirroring-on-infinix-hot-30i-drfone-by-drfone-android/"><u>In 2024, How To Use Allshare Cast To Turn On Screen Mirroring On Infinix Hot 30i | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/mastering-image-quality-a-guide-without-watermarks-for-2024/"><u>Mastering Image Quality A Guide Without Watermarks for 2024</u></a></li>
+<li><a href="https://win-dash.techidaily.com/1722963714569-new-and-improved-install-your-scansnap-s1100s-updated-drivers-today/"><u>New and Improved, Install Your Scansnap S1100's Updated Drivers Today</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/top-10-honor-90-pro-android-sim-unlock-apk-by-drfone-android/"><u>Top 10 Honor 90 Pro Android SIM Unlock APK</u></a></li>
+<li><a href="https://fake-location.techidaily.com/what-is-fake-gps-location-pro-and-is-it-good-on-tecno-camon-20-pro-5g-drfone-by-drfone-virtual-android/"><u>What is Fake GPS Location Pro and Is It Good On Tecno Camon 20 Pro 5G? | Dr.fone</u></a></li>
+<li><a href="https://discover-guides.techidaily.com/youtubeandwindows-11sd/"><u>YouTube音楽ダウンロード&Windows 11でのSDカード移動手順：応用方法</u></a></li>
 </ul></div>
 

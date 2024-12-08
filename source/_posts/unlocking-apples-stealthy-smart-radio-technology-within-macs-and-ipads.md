@@ -1,7 +1,7 @@
 ---
 title: Unlocking Apple's Stealthy Smart Radio Technology Within Macs and iPads
-date: 2024-11-25T18:39:12.380Z
-updated: 2024-11-28T16:21:18.227Z
+date: 2024-12-04T20:00:26.728Z
+updated: 2024-12-07T21:33:18.641Z
 tags:
   - apple
 categories:
@@ -58,9 +58,17 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 Since the iPad and Mac run Apple's Home app, they could function as Thread border routers, integrating more seamlessly with smart home networks. This could indicate the iPad's return to functioning as a smart home hub. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to check if your iPad or Mac has a Thread radio
 
 The best way to determine if your device has a Thread radio built-in is to look for evidence of Thread testing in the device's [FCC reports](https://fcc.report/). 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 1\. Find your device's model number or FCC ID
 
@@ -69,10 +77,6 @@ Most Apple devices, except iPhones, have this printed on the back. If you can't 
 You can also look for your [iPad](https://support.apple.com/en-us/108043), [MacBook Air](https://support.apple.com/en-us/102869), and [MacBook Pro](https://support.apple.com/en-us/108052) models on Apple's Support page.
 
 **Also: [The M4 iPad Pro's true potential will be realized at WWDC, and AI will have a lot to do with it](https://www.zdnet.com/article/the-m4-ipad-pros-true-potential-will-be-realized-at-wwdc-and-ai-will-have-a-lot-to-do-with-it/)**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Access the Apple FCC database
 
@@ -87,6 +91,10 @@ Search for your device's model number or FCC ID by performing a quick **Find** u
 Clicking on the device's report will bring up a list of all the reports created for the device available through the FCC.
 
 **Also: [iPad Air (2024) review: Apple's M2 tablet is even better than my $1,200 Android](https://www.zdnet.com/article/ipad-air-2024-review/)**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Find the Thread testing report
 
@@ -105,7 +113,7 @@ Thread is a low-energy wireless communication protocol for smart home devices cr
 Thread was created as an energy-efficient and secure protocol to connect battery-powered devices, like smart home sensors, smart locks, room thermometers, lights, thermostats, and security systems. The IP-based protocol allows for easy integration with smart home ecosystems, which is Matter's main goal.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What is a Thread border router?
@@ -125,7 +133,7 @@ Thread creates a self-healing mesh network, so having more border routers in a s
 For example, if you have a Thread smart lock and temperature sensor and a Wi-Fi smart thermostat, a Thread border router like the HomePod mini connects the smart lock and sensor to the Wi-Fi network and enables communication between the sensor and thermostat. It also would allow you to control all three devices through a single app -- in this case, Apple Home -- even if you're not home.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Why would Apple give some iPads and Macs Thread radios and not all?
@@ -144,10 +152,6 @@ It's unclear whether iPads and Macs will eventually function as Thread border ro
 
 The new iPads and Macs with Thread radios have the necessary hardware to act as Thread border routers, but Apple needs to enable this functionality. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Is the iPad a smart home hub?
 
 Not currently. The iPad used to be a smart home hub for HomeKit, but iPadOS 16 removed this capability. With that software update, Apple upgraded the Home app significantly and stopped supporting the iPad for new HomeKit features and automations. 
@@ -159,10 +163,6 @@ Apple opted to offer the smart home hub feature only to dedicated devices like t
 Giving newer iPads Thread support would bring back its smart home hub functionality and make iPads a more robust option for the smart home than before. 
 
 If users want to keep an older iPad as a smart home hub, it cannot have iOS 16 and will work only with basic HomeKit functionality, as new features and enhancements introduced after iOS 16 won't be supported.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Would Thread replace Bluetooth for Apple peripherals?
 
@@ -204,16 +204,16 @@ The Apple Watch primarily uses Bluetooth to connect to the iPhone, but when Blue
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-in-2024-crafting-compelling-compositions-effects-on-text/"><u>[New] In 2024, Crafting Compelling Compositions Effects on Text</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-audience-accessibility-enhancement-adding-subtitles-and-closed-captions-on-youtube/"><u>[Updated] 2024 Approved Audience Accessibility Enhancement Adding Subtitles and Closed Captions on YouTube</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-mastering-pubg-sounds-simple-tips/"><u>[Updated] Mastering PUBG Sounds Simple Tips</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-prime-15-web-based-editing-platforms-reviewed-all-free/"><u>[Updated] Prime 15 Web-Based Editing Platforms Reviewed, All FREE</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/2024-approved-the-art-of-testimonials-techniques-for-persuasive-video-credibility/"><u>2024 Approved The Art of Testimonials Techniques for Persuasive Video Credibility</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/1725285998538-digiarty/"><u>DigiArtyソフトウェアによる返金規約 - [オフィシャル]</u></a></li>
-<li><a href="https://article-posts.techidaily.com/essential-tips-for-youtube-video-to-mpeg/"><u>Essential Tips for YouTube Video to MPEG</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/guia-simples-converter-e-copiar-sua-colecao-de-dvds-em-um-pcmac-usando-os-sistemas-operacionais-mais-populares/"><u>Guia Simples: Converter E Copiar Sua Coleção De DVDs Em Um PC/Mac Usando Os Sistemas Operacionais Mais Populares</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/guida-rapido-riduzione-dimensionale-dei-file-video-hd-mantenendo-la-risoluzione-su-whatsapp-usando-winxdvd/"><u>Guida Rapido: Riduzione Dimensionale Dei File Video HD Mantenendo La Risoluzione Su WhatsApp Usando WinXDVD</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/how-to-fix-a-stuck-apple-id-icloud-backup-on-iphone-recovery-steps-inside/"><u>How to Fix a Stuck Apple ID iCloud Backup on iPhone - Recovery Steps Inside!</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-4-solution-to-get-rid-of-pokemon-fail-to-detect-location-on-motorola-moto-g24-drfone-by-drfone-virtual-android/"><u>In 2024, 4 solution to get rid of pokemon fail to detect location On Motorola Moto G24 | Dr.fone</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-first-steps-launching-a-youtube-channel-for-profit/"><u>[New] 2024 Approved First Steps Launching a YouTube Channel for Profit</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-guide-to-profiting-from-youtube-shorts-key-requirements-and-potential-income/"><u>[New] In 2024, Guide to Profiting From YouTube Shorts Key Requirements & Potential Income</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-fine-tuning-focus-on-youtube-threads/"><u>[Updated] 2024 Approved Fine-Tuning Focus on YouTube Threads</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-growth-hackers-guide-the-ultimate-list-of-top-strategies-to-retain-youtube-viewers/"><u>[Updated] 2024 Approved Growth Hackers Guide The Ultimate List of Top Strategies to Retain YouTube Viewers</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-craft-top-quality-youtube-thumbnails-fast-for-2024/"><u>[Updated] How To Craft Top Quality YouTube Thumbnails Fast for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-innovative-tricks-to-transform-iphone-shots/"><u>2024 Approved Innovative Tricks to Transform iPhone Shots</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/a-guide-to-using-obs-studio-to-stream-to-facebook-for-2024/"><u>A Guide to Using OBS Studio To Stream to Facebook for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/digital-illumination-reviving-old-school-vhs-graphics/"><u>Digital Illumination Reviving Old-School VHS Graphics</u></a></li>
+<li><a href="https://facebook.techidaily.com/how-to-leverage-symbolic-meanings-in-social-media-conversations/"><u>How to Leverage Symbolic Meanings in Social Media Conversations</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-unlocking-made-easy-the-best-10-apps-for-unlocking-your-vivo-y100t-device-by-drfone-android/"><u>In 2024, Unlocking Made Easy The Best 10 Apps for Unlocking Your Vivo Y100t Device</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/quick-and-effortless-downloading-top-party-hits/"><u>Quick and Effortless: Downloading Top Party Hits</u></a></li>
 </ul></div>
 

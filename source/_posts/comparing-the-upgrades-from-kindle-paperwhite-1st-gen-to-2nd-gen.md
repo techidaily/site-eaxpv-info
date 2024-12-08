@@ -1,7 +1,7 @@
 ---
 title: Comparing the Upgrades From Kindle Paperwhite 1St Gen to 2Nd Gen
-date: 2024-08-20T12:53:49.154Z
-updated: 2024-08-21T12:53:49.154Z
+date: 2024-12-06T22:56:17.185Z
+updated: 2024-12-07T21:21:52.415Z
 categories:
   - epubor
 thumbnail: https://thmb.techidaily.com/60a050976608e9140d90809a0ac2529ef41e9995b243e26e295a790742b88b8b.jpg
@@ -9,19 +9,25 @@ thumbnail: https://thmb.techidaily.com/60a050976608e9140d90809a0ac2529ef41e9995b
 
 ## Comparing the Upgrades From Kindle Paperwhite 1St Gen to 2Nd Gen
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Kindle Paperwhite 1 VS Kindle Paperwhite 2
 
 Posted by [Jonny Greenwood](https://plus.google.com/u/0/+JonnyGreenwood999) on 2/14/2019 3:53:07 PM.
 
 3 [(0 comments)](http://www.epubor.com/#comment-area) 
 
-
-
 ![follow](http://www.epubor.com/images/follow.png)
 
 Unlike Apple's ceremonious new product conference, Amazon choose to introduce their new generation of Kindle Fire HD and Kindle Paperwhite quietly on the homepage of amazon.com.
 
 As we've already compiled a post about the [comparison between Kindle Fire HD and the new Kindle Fire HDX](https://www.slideshare.net/AdaWyy/kindle-fire-hdx-vs-kindle-fire-hd), today we are going to cover the comparison between Kindle Paperwhite 1 (2012) and Kindle Paperwhite 2 (2013).
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Screen
 
@@ -31,9 +37,6 @@ Compared to Kindle Paperwhite 1, the new model improved backlight, which Amazon 
 
 And in practical test, the backlight in Kindle Paperwhite 2 is brighter than original, we will rarely need to turn up to brightness to more than 50%. White the text is darker, I guess this is another reason the new screen looks sharper. With the brighter backlight and darker text, we reads the contents more easily.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
-<!-- affiliate ads end -->
 ### Speed
 
 This is an unimpressive but really important improvement in Kindle Paperwhite 2\. Many people don't like E-Ink Kindle because they think the response speed is too slow after getting used to operating on tablets.
@@ -42,21 +45,18 @@ Amazon says the new Kindle Paperwhite's processor is 25% faster (800MHz to 1GHz)
 
 When I use the new Kindle Paperwhite, the wake up and book open speed is obviously quicker.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Appearance
 
 The front sides of original Kindle Paperwhite and new Kindle Paperwhite looks almost the same, I definitely can't differ them when they are put in front of me in sleep mode.
 
 ![kindle paperwhite 2 back](http://www.epubor.com/images/Paperwhite2.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 But the difference in appearance is pretty clear on the back sides. On the back of Kindle Paperwhite 1 the logo is Kindle, while it turns to Amazon on the Kindle Paperwhite 2\. And the new logo looks more striking than the old one.
 
-<!-- affiliate ads begin -->
-<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Features
 
 The Kindle Paperwhite 2 gets lots of new features. With the new Page Flip feature, we can flip page-by-page, chapter-by-chapter, or skip to some place in the book without losing your place. This makes the reading experience on Kindle get closer to read a practical book.
@@ -64,11 +64,16 @@ The Kindle Paperwhite 2 gets lots of new features. With the new Page Flip featur
 ![kpw2-pageflip](http://www.epubor.com/images/showme-pageflip.png)
 
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Another new feature is pretty a good news for those people who use Kindle to learn a language. Now when you are looking for the definition of a work, it will be automatically added to Vocabulary Builder, and you can check it anytime you like.
 
 ![kpw2-vocabulary-builder](http://www.epubor.com/images/vocabbuilder-2.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 The new Kindle Match Book feature is the high-light among all these new stuff. For all your purchased or gonna-purchase paper book, you will be able to buy the Kindle edition for no more than $2.99.
 
@@ -76,10 +81,6 @@ The new Kindle Match Book feature is the high-light among all these new stuff. F
 
 The lack of headphone jack disables people to enjoy audio books; the web browser is still being a decoration; there is no auto-correct feature when taking notes, while it exists on Kindle for iOS app; and the most criticized rejection for EPUB files.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
-The ultimate burning program for all your needs!</a>
-<!-- affiliate ads end -->
 ### Conclusion
 
 All in all, the improvements of Kindle Paperwhite 2 is not that impressive, but it is still the best E-Ink eBook reading device in this industry.
@@ -93,14 +94,6 @@ Related Readings
 
 ![author](http://www.epubor.com/images/uppic/jonny.png)
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
-	Home Use license is dedicated for personal, non-commercial use only. 
-	If Action! is used for commercial gain or to further any commercial purpose, 
-	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
- 
-	company, user or members of the same household. Action! - screen and game recorder</a>
-<!-- affiliate ads end -->
 [Jonny Greenwood](https://plus.google.com/u/0/+JonnyGreenwood999) joined Epubor since 2011, loves everything about eBooks and eReaders. He seeks the methods to read eBooks more freely and wants to share all he has got with you.
 
 SHARING IS GREAT!
@@ -108,8 +101,6 @@ SHARING IS GREAT!
 [Tweet](https://twitter.com/share) 
 
 [SAVE PAGE AS PDF](https://tools.techidaily.com/epubor/products/) 
-
-
 
 0 Comments
 
@@ -135,8 +126,6 @@ Leave a comment
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -144,4 +133,20 @@ Leave a comment
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-free-method-to-record-your-youtube-watching-experience/"><u>[New] 2024 Approved Free Method to Record Your YouTube Watching Experience</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-gamings-finest-top-10-gpu-picks-for-clear-online-broadcasts/"><u>[New] In 2024, Gaming's Finest Top 10 GPU Picks for Clear Online Broadcasts</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-speaking-through-screens-effective-communication-on-youtube/"><u>[New] In 2024, Speaking Through Screens Effective Communication on YouTube</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-framemorph-editor/"><u>[Updated] 2024 Approved FrameMorph Editor</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-game-on-steps-for-crafting-an-influential-online-gamers-channel-for-2024/"><u>[Updated] Game On Steps for Crafting an Influential Online Gamers' Channel for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-garner-over-a-thousand-viewers-swiftly/"><u>[Updated] In 2024, Garner Over a Thousand Viewers Swiftly</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-integrated-media-and-live-stream-services-from-ms-videospace-for-2024/"><u>[Updated] Integrated Media & Live Stream Services From MS VideoSpace for 2024</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-vivo-t2-pro-5g-mirror-screen-to-pc-drfone-by-drfone-android/"><u>How Vivo T2 Pro 5G Mirror Screen to PC? | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-vivo-v29e-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Vivo V29e</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/24-essential-5-video-editing-software-excluding-youtube/"><u>In 2024, Essential 5 Video Editing Software Excluding Youtube</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/online-aiff-en-mp4-konvertiseren-vrije-ldv-tool-via-movavi/"><u>Online AIFF en MP4 Konvertiseren - Vrije LDV-Tool via Movavi</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/resolving-dbghelpdll-file-not-found-comprehensive-troubleshooting-guide/"><u>Resolving 'dbghelp.dll' File Not Found: Comprehensive Troubleshooting Guide</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/solved-warning-camera-failed-on-oppo-a38-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Solved Warning Camera Failed on Oppo A38 | Dr.fone</u></a></li>
+</ul></div>
 

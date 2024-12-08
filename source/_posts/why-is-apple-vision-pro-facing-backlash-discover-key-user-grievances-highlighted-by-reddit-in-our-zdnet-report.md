@@ -1,7 +1,7 @@
 ---
 title: Why Is Apple Vision Pro Facing Backlash? Discover Key User Grievances Highlighted by Reddit in Our ZDNet Report
-date: 2024-11-25T18:49:05.169Z
-updated: 2024-11-28T16:15:49.638Z
+date: 2024-12-05T17:29:12.368Z
+updated: 2024-12-08T00:09:18.797Z
 tags:
   - apple
 categories:
@@ -27,7 +27,7 @@ It's unclear what percentage of [Vision Pro](https://www.zdnet.com/article/meet-
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. It's a light seal problem
@@ -40,15 +40,15 @@ Apple has different sizes of light seals, and your initial scan may have landed 
 
 The problem isn't as simple as sizing up or down; the AVP light seal is available in N and W variants, 11-14, 21-26, and 33-36, and the numbers don't follow a size pattern like clothing. Each number fits a different face type, with variations to how far your cheeks or forehead protrude forward and how deep the light seal is, so if fit is an issue, it's worth trying out a few sizes. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. The eye strain is real and there's no way around it
 
 One might think that using your eyes and fingers to navigate a digital world would be intuitive and convenient, but that's not always the case.
 
 Eye tracking on the AVP can be [exhausting](https://www.reddit.com/r/VisionPro/comments/1aixzwz/my%5Fonly%5Fcomplaint%5Feye%5Fstrain/), causing [eye soreness and fatigue](https://www.reddit.com/r/VisionPro/comments/1aqvsd8/love%5Fmy%5Favp%5Fbut%5Feye%5Fstrain%5Fis%5Freal%5Fand%5Fi%5Fthink/). Eye fatigue could be an issue that improves as the wearer's body becomes accustomed to the AVP, but it is a big reasons why some users are [considering returning](https://www.reddit.com/r/VisionPro/comments/1aiy4w7/anyone%5Fhaving%5Fbad%5Feye%5Fstrain%5F1015%5Fminutes%5Fafter/) the device.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. The Vision Pro is too heavy to wear for long periods
 
@@ -69,7 +69,7 @@ Thankfully for Apple, the Vision Pro doesn't have as long of a road to travel as
 Complaints about poor text rendering for smaller text, especially compared to the Apple ecosystem's Retina Displays, and stuttering during standard computational tasks are common -- which is problematic for a device marketed for productivity and work. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. The world of spatial computing is too lonely
@@ -81,7 +81,7 @@ Using the Apple Vision Pro can be a beautiful experience for the wearer, but eve
 > Using the Apple Vision Pro is like putting on a pair of headphones. Once it's on, you're isolated, immersed, lonely. I'd like to be an optimist about it, thinking that this will only be a short-term phenomenon, as 1) With time, virtual reality headsets will eventually be accepted as a piece of apparel, 2) In social environments, we'll learn how to physically communicate with each other, even with the face barrier, and 3) There will be more meaningful ways to connect with people in VR. Bringing FaceTime to Vision Pro is just the beginning.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6\. It's just too expensive
@@ -93,7 +93,7 @@ We know the Vision Pro was not marketed for the Americans struggling to afford g
 But $3,500 is a lot of money for a [VR headset](https://www.zdnet.com/article/best-vr-headset/) (and that's before accessories), even for enthusiastic early adopters. As the hype wears off for the AVP, many who spent over $4,000 on it (after accessories, AppleCare+, and taxes) are left [struggling to justify the cost](https://www.reddit.com/r/VisionPro/comments/1anit76/a%5Fpart%5Fof%5Fme%5Fwants%5Fto%5Freturn%5Fit%5Fand%5Fsee%5Fif%5Fi/). 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 7\. 'I just wanted to try it out'
@@ -134,19 +134,21 @@ Apple's generous return policy enables this: The company lets you return any dev
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/nhancing-your-content-with-effortlessly-added-youtube-subtitles-for-2024/"><u>[New] Enhancing Your Content with Effortlessly Added YouTube Subtitles for 2024</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-time-tagging-in-picture-editing-software/"><u>[New] Time Tagging in Picture Editing Software</u></a></li>
-<li><a href="https://article-tips.techidaily.com/2024-approved-harness-your-creativity-with-high-quality-free-images-from-these-12-sites/"><u>2024 Approved Harness Your Creativity with High-Quality, Free Images From These 12 Sites</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/addressing-the-problem-non-functional-apple-watch-display-reasons-and-solutions/"><u>Addressing the Problem: Non-Functional Apple Watch Display - Reasons & Solutions</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/cambiar-tus-archivos-sin-coste-convertidor-aif-a-aac-en-movavi-sin-compromiso/"><u>Cambiar Tus Archivos Sin Coste: Convertidor AIF a AAC en Movavi Sin Compromiso</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/decouvrez-les-top-alternatives-gratuites-a-davinci-resolve-pour-la-restauration-video-en-2024-un-guide-detaille/"><u>Découvrez Les Top Alternatives Gratuites À DaVinci Resolve Pour La Restauration Video en 2024 : Un Guide Détaillé</u></a></li>
-<li><a href="https://discover-helper.techidaily.com/how-to-transform-mp4-videos-into-mpeg-format-for-creating-vcds-and-dvds-a-step-by-step-guide/"><u>How to Transform MP4 Videos Into MPEG Format for Creating VCDs and DVDs: A Step-by-Step Guide</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/in-2024-beyond-the-surface-10-under-the-radar-facts-about-reels/"><u>In 2024, Beyond the Surface 10 Under-the-Radar Facts About Reels</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/modwav-movavi/"><u>MOD到WAV自由下載的線上 MOVAVI 無障礙音效轉換器</u></a></li>
-<li><a href="https://os-tips.techidaily.com/never-lose-track-again-expert-tips-for-locating-your-parking-spot-via-google-map-assistance/"><u>Never Lose Track Again: Expert Tips for Locating Your Parking Spot via Google Map Assistance</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/premier-backdrop-recommendations/"><u>Premier Backdrop Recommendations</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/securite-movavi-comprendre-lefficacite-du-site-web-et-des-applications-dans-la-prevention-des-risques-informatiques/"><u>Sécurité Movavi : Comprendre L'efficacité Du Site Web Et Des Applications Dans La Prévention Des Risques Informatiques.</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/the-overlooked-marvels-of-windows-11-functionality/"><u>The Overlooked Marvels of Windows 11 Functionality</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/transformar-swf-a-flv-sin-coste-adicional-usando-la-herramienta-de-conversion-on-line-de-movavi/"><u>Transformar SWF a FLV Sin Coste Adicional Usando La Herramienta De Conversión On-Line De Movavi</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-freefire-gaming-guide-maximizing-video-impact/"><u>[New] 2024 Approved FreeFire Gaming Guide Maximizing Video Impact</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-simplify-your-workflow-converting-spoken-language-to-text-in-word/"><u>[New] 2024 Approved Simplify Your Workflow Converting Spoken Language to Text in Word</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-from-youtube-to-tiktok-crafting-the-perfect-cross-platform-strategy-for-2024/"><u>[New] From YouTube to TikTok Crafting the Perfect Cross-Platform Strategy for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-effortlessly-eradicate-unwanted-youtube-post-comments/"><u>[New] In 2024, How to Effortlessly Eradicate Unwanted Youtube Post-Comments</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-perfecting-obs-broadcasts-for-facebook-audience/"><u>[New] In 2024, Perfecting OBS Broadcasts for Facebook Audience</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-hashtag-wisdom-jumpstart-your-6-figure-youtube-rank/"><u>[Updated] 2024 Approved Hashtag Wisdom Jumpstart Your 6-Figure Youtube Rank</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-fixing-popular-youtube-short-snafus-for-2024/"><u>[Updated] Fixing Popular YouTube Short Snafus for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-go-frame-by-frame-on-youtube-video-5-free-methods-for-2024/"><u>[Updated] How to Go Frame by Frame on YouTube Video [5 Free Methods] for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-selfie-snaps-to-skincare-specials-establishing-your-youtube-brand/"><u>[Updated] In 2024, From Selfie Snaps to Skincare Specials Establishing Your YouTube Brand</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/7-ways-to-lock-apps-on-iphone-15-pro-max-and-ipad-securely-by-drfone-ios/"><u>7 Ways to Lock Apps on iPhone 15 Pro Max and iPad Securely</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/best-ways-on-how-to-unlockbypassswiperemove-itel-p40plus-fingerprint-lock-by-drfone-android/"><u>Best Ways on How to Unlock/Bypass/Swipe/Remove Itel P40+ Fingerprint Lock</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/cant-view-hevc-h265-content-on-samsung-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>Can’t view HEVC H.265 content on Samsung</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/elevating-intelligence-discovering-this-years-top-5-technological-frontiers/"><u>Elevating Intelligence: Discovering This Year's Top 5 Technological Frontiers</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-full-guide-to-catch-100-iv-pokemon-using-a-map-on-nokia-105-classic-drfone-by-drfone-virtual-android/"><u>In 2024, Full Guide to Catch 100 IV Pokémon Using a Map On Nokia 105 Classic | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/list-of-pokemon-go-joysticks-on-motorola-razr-40-drfone-by-drfone-virtual-android/"><u>List of Pokémon Go Joysticks On Motorola Razr 40 | Dr.fone</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/tips-for-dimming-windows-and-mac-music-volume/"><u>Tips for Dimming Windows & Mac Music Volume</u></a></li>
 </ul></div>
 

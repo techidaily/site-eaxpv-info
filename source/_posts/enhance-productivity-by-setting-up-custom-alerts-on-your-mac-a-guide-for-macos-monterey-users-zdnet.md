@@ -1,7 +1,7 @@
 ---
 title: Enhance Productivity by Setting Up Custom Alerts on Your Mac - A Guide for macOS Monterey Users | ZDNET
-date: 2024-11-23T17:45:50.651Z
-updated: 2024-11-28T18:08:38.812Z
+date: 2024-11-30T18:20:03.301Z
+updated: 2024-12-07T22:07:47.985Z
 tags:
   - apple
 categories:
@@ -26,14 +26,10 @@ So, how do you create this custom Flow? Let me show you. All you'll need to make
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Create a custom Focus
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 1\. Open System Preferences
@@ -41,7 +37,7 @@ So, how do you create this custom Flow? Let me show you. All you'll need to make
 Click on the Apple menu in the top left corner of your desktop. From the resulting pop-up menu, click System Preferences.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 2\. Access Notifications & Focus
@@ -52,6 +48,10 @@ In the System Preferences window (**Figure 1**), click Notifications & Focus.
 
 Image: Jack Wallen
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 3\. Open the Focus tab
 
 Once Notifications & Focus is opened, click the Focus tab (**Figure 2**).
@@ -61,7 +61,7 @@ Once Notifications & Focus is opened, click the Focus tab (**Figure 2**).
 Image: Jack Wallen
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 4\. Create the new Focus
@@ -95,7 +95,7 @@ From the pop-up list, select the contact(s) you want to be allowed to interrupt 
 Image: Jack Wallen
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 6\. Set the Focus to be enabled
@@ -140,19 +140,20 @@ Use this new Focus feature wisely, and it will help you be more productive while
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/updated-best-tablet-gear-beyond-the-hype-a-must-try-photo-editing-list-for-2024/"><u>[Updated] Best Tablet Gear Beyond the Hype A Must-Try Photo Editing List for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/2024-approved-rewind-on-request-swift-iphone-video-flip/"><u>2024 Approved Rewind on Request Swift iPhone Video Flip</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/beginners-guide-to-merging-photos-with-midjourney/"><u>Beginner's Guide to Merging Photos with Midjourney</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/decouvrez-comment-contacter-le-site-digiarty-pour-lassistance-et-le-soutien/"><u>Découvrez Comment Contacter Le Site Digiarty Pour L'assistance Et Le Soutien</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/download-the-free-h264-encoder-enhance-your-hd-videos-with-this-essential-codec/"><u>Download the Free H.264 Encoder: Enhance Your HD Videos with This Essential Codec</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/dvd-ripper-for-mac-dvd/"><u>DVD Ripper for Mac: 無料で簡単・安全なDVDコピー - フレックスに作業が可能な最適ソリューションをご提案！</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-complete-review-and-guide-to-techeligible-frp-bypass-and-more-for-xiaomi-13-ultra-by-drfone-android/"><u>In 2024, Complete Review & Guide to Techeligible FRP Bypass and More For Xiaomi 13 Ultra</u></a></li>
-<li><a href="https://article-tips.techidaily.com/in-2024-conquer-chrome-multitasking-learn-to-utilize-pip-effectively/"><u>In 2024, Conquer Chrome Multitasking Learn to Utilize PIP Effectively</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/1725285047041-mp3/"><u>MP3への完全ノンロス変換：ビデオ動画を最高音質で転写するテクニック</u></a></li>
-<li><a href="https://games-able.techidaily.com/rhythm-rumble-beat-the-best-melodic-quiz-apps/"><u>Rhythm Rumble: Beat the Best Melodic Quiz Apps</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/the-best-bandicam-mac-alternatives-top-5-tools-for-2024/"><u>The Best Bandicam Mac Alternatives [Top 5 Tools] for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-6-eco-friendly-strategies-for-energy-efficient-gadgets-slash-costs-and-support-the-planet-insights-from-zdnet/"><u>Top 6 Eco-Friendly Strategies for Energy-Efficient Gadgets: Slash Costs & Support the Planet - Insights From ZDNet</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/unveiling-spectacular-results-with-hdr-portraits-for-2024/"><u>Unveiling Spectacular Results with HDR Portraits for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/winxdvd-die-bevorzugte-software-zum-extrahieren-verbessern-and-konvertieren-von-dvd-inhalten-unter-beibehaltung-hochster-qualitat-perfekt-fur-iphone-and-and5/"><u>WinXDVD: Die Bevorzugte Software Zum Extrahieren, Verbessern & Konvertieren Von DVD-Inhalten Unter Beibehaltung Höchster Qualität – Perfekt Für iPhone & Android</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-how-to-craft-standout-videos-mastery-of-youtube-thumbnail-dimensions-for-2024/"><u>[New] How to Craft Standout Videos Mastery of YouTube Thumbnail Dimensions for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-high-earning-video-visionaries/"><u>[New] In 2024, High Earning Video Visionaries</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/n-2024-multimedia-text-producer/"><u>[New] In 2024, Multimedia Text Producer</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/n-2024-the-roadmap-to-establishing-your-unique-flair/"><u>[New] In 2024, The Roadmap to Establishing Your Unique Flair</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-boring-to-breathtaking-the-transformation-of-channel-titles/"><u>[Updated] 2024 Approved From Boring to Breathtaking The Transformation of Channel Titles</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-selfie-snaps-to-skincare-specials-establishing-your-youtube-brand/"><u>[Updated] 2024 Approved From Selfie Snaps to Skincare Specials Establishing Your YouTube Brand</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-harmonize-your-hours-synchronized-video-playback-across-platforms/"><u>[Updated] 2024 Approved Harmonize Your Hours Synchronized Video Playback Across Platforms</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-force-youtube-cc-to-stay-on-and-get-more-views/"><u>[Updated] 2024 Approved How to Force YouTube CC to Stay On and Get More Views</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-essential-guide-to-aiseesofts-screencasting-features/"><u>[Updated] In 2024, Essential Guide to Aiseesoft's Screencasting Features</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-the-hottest-youtube-to-mp3-software-picks-top-10-for-2024/"><u>[Updated] The Hottest YouTube-to-MP3 Software Picks (Top 10) for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-epson-ds-530-printer-driver-for-windows-10-x64-compatibility-guide-and-installation/"><u>Download Epson DS-530 Printer Driver for Windows 10 X64: Compatibility Guide & Installation</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/avorites-best-learning-yt-channels/"><u>Edu-Favorites Best Learning YT Channels</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-what-legendaries-are-in-pokemon-platinum-on-apple-iphone-8-drfone-by-drfone-virtual-ios/"><u>In 2024, What Legendaries Are In Pokemon Platinum On Apple iPhone 8? | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/transform-your-broadcasts-with-manycam-the-leading-tool-for-live-video-software-and-online-webcams/"><u>Transform Your Broadcasts with ManyCam: The Leading Tool for Live Video Software and Online Webcams</u></a></li>
+<li><a href="https://discover-exclusive.techidaily.com/youtube-mrlvlc-troubleshooting-guide/"><u>YouTube MRLを開くためのVLC Troubleshooting Guide</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Unveiling the Origins: The 2024 CrowdStrike Windows Crisis Explored - Historical Insights"
-date: 2024-11-25T17:48:13.424Z
-updated: 2024-11-28T17:50:50.951Z
+date: 2024-11-30T17:16:33.876Z
+updated: 2024-12-08T00:04:29.588Z
 tags:
   - apple
 categories:
@@ -33,7 +33,7 @@ In this case, the trusted software developer is a firm called CrowdStrike Holdin
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What happened?
@@ -55,7 +55,7 @@ Repairing the damage from a flaw like this is a painfully tedious process that r
 If you know anyone whose job involves administering Windows PCs in a corporate network that uses the CrowdStrike code, you can be confident they are very busy right now, and will be for days to come.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## We've seen this movie before
@@ -95,7 +95,7 @@ In the You Can't Make This Up Department… CrowdStrike's founder and CEO, Georg
 What makes the 2024 sequel so much worse is that it also affected Windows-based servers running in the cloud, on Microsoft Azure and on AWS. Just as with the many laptops and desktop PCs that were bricked by this faulty update, the cloud-based servers require time-consuming manual interventions to recover.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## CrowdStrike's QA failed
@@ -125,7 +125,7 @@ As part of its initial response, CrowdStrike says it plans to take additional me
 Meanwhile, the United States House of Representatives Homeland Security Committee plans to call CrowdStrike's CEO up for hearings on what went wrong, and CrowdStrike's Chief Security Officer, Shawn Henry, [posted an apology on LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7220983915421806592/), admitting "On Friday, we failed you. ... The confidence we built in drips over the years was lost in buckets within hours, and it was a gut punch."
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How much fault should Microsoft shoulder?
@@ -176,24 +176,22 @@ Nonetheless, this incident, which caused many billions of dollars' worth of dama
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/levating-your-youtube-comments-with-emoji-skills-for-2024/"><u>[New] Elevating Your YouTube Comments with Emoji Skills for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-beauty-breakdown-mastering-makeup-and-hauls-online-for-2024/"><u>[Updated] Beauty Breakdown Mastering Makeup and Hauls Online for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/cdwindows-and-mac/"><u>「無料CDバックアップツール集︰Windows & Mac対応！ディスクへのデータコピー方法完全ガイド」</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/1726224668417-movavi/"><u>「映像と音声シンセサイズについて✨：Movaviソフトウェアの基本教程」</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/1-how-to-convert-wmv-videos-to-mp4-format-for-free-using-online-tools/"><u>1. How to Convert WMV Videos to MP4 Format for Free Using Online Tools</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/2024-approved-top-picks-for-remote-work-best-secure-video-services/"><u>2024 Approved Top Picks for Remote Work Best Secure Video Services</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/bring-the-big-screen-into-your-living-room-a-guide-to-streaming-3d-movies-on-fandango/"><u>Bring the Big Screen Into Your Living Room: A Guide to Streaming 3D Movies on Fandango</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/digital-dilemma-comparing-dvd-blu-ray-and-digital-downloads-to-find-the-ultimate-viewing-experience/"><u>Digital Dilemma: Comparing DVD, Blu-Ray and Digital Downloads to Find the Ultimate Viewing Experience</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/elevez-la-qualite-de-vos-creations-videos-avec-lintelligence-artificielle-de-winxvideo/"><u>Élevez La Qualité De Vos Créations Vidéos Avec L'intelligence Artificielle De Winxvideo</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/gpu-acceleration-in-handbrake-top-frequently-asked-questions-demystified/"><u>GPU Acceleration in Handbrake: Top Frequently Asked Questions Demystified</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-get-out-of-dfu-mode-on-iphone-15-pro-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Get Out of DFU Mode on iPhone 15 Pro? | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-exploring-top-9-iphone-applications-for-adding-photo-water-marks/"><u>In 2024, Exploring Top 9 iPhone Applications for Adding Photo Water Marks</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-unlock-your-device-icloud-dns-bypass-explained-and-tested-plus-easy-alternatives-on-iphone-15-pro-by-drfone-ios/"><u>In 2024, Unlock Your Device iCloud DNS Bypass Explained and Tested, Plus Easy Alternatives On iPhone 15 Pro</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/mastering-motion-correction-professional-tips-for-video-stabilizing-using-adobe-premiere-pro/"><u>Mastering Motion Correction: Professional Tips for Video Stabilizing Using Adobe Premiere Pro</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/209667349-9781547574551-meditacion-tecnicas-de-meditacion-para-relajarse-y-aliviar-la-ansiedad-meditation/"><u>Meditación: Técnicas De Meditación Para Relajarse Y Aliviar La Ansiedad ( Meditation) | Free Book</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/mp4-video-compression-techniques-maintaining-high-quality-output/"><u>MP4 Video Compression Techniques: Maintaining High-Quality Output</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/navigating-the-risks-of-using-popcorn-time-do-you-need-a-vpn-for-protection/"><u>Navigating the Risks of Using Popcorn Time - Do You Need a VPN for Protection?</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/solving-the-problem-of-youtube-video-unavailability-in-vlc-player-a-comprehensive-guide/"><u>Solving the Problem of YouTube Video Unavailability in VLC Player: A Comprehensive Guide</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/step-by-step-masterclass-securely-transferring-cinema-content-to-mac-and-macbook-pcs/"><u>Step-by-Step Masterclass: Securely Transferring Cinema Content to Mac and MacBook PCs</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-getting-started-with-your-youtube-channel-essentials/"><u>[New] 2024 Approved Getting Started with Your YouTube Channel – Essentials</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-watch-9-free-full-length-christmas-movies-on-youtube/"><u>[New] 2024 Approved Watch 9 Free Full Length Christmas Movies On YouTube</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/rom-raw-footage-to-youtube-perfection-premiere-pro-techniques-for-2024/"><u>[New] From Raw Footage to YouTube Perfection - Premiere Pro Techniques for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-from-script-to-screen-building-a-youtube-trailer-in-filmora-for-2024/"><u>[New] From Script to Screen Building a YouTube Trailer in Filmora for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-future-fortunes-for-virtual-game-masters/"><u>[New] In 2024, Future Fortunes for Virtual Game Masters</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-growth-hacking-for-youtube-stars-maximizing-fans/"><u>[New] In 2024, Growth Hacking for YouTube Stars Maximizing Fans</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-edit-youtube-channel-description/"><u>[New] In 2024, How to Edit YouTube Channel Description</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-fast-techniques-for-reordering-youtube-video-queues/"><u>[Updated] 2024 Approved Fast Techniques for Reordering YouTube Video Queues</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-clicks-to-cash-the-systematic-triple-pathway-for-youtube-revenue-tracking/"><u>[Updated] 2024 Approved From Clicks to Cash The Systematic Triple Pathway for YouTube Revenue Tracking</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/10-easy-to-use-frp-bypass-tools-for-unlocking-google-accounts-on-infinix-gt-10-pro-by-drfone-android/"><u>10 Easy-to-Use FRP Bypass Tools for Unlocking Google Accounts On Infinix GT 10 Pro</u></a></li>
+<li><a href="https://blog-min.techidaily.com/best-3-software-to-transfer-files-tofrom-your-realme-11x-5g-via-a-usb-cable-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Best 3 Software to Transfer Files to/from Your Realme 11X 5G via a USB Cable | Dr.fone</u></a></li>
+<li><a href="https://driver-download.techidaily.com/diy-repair-techniques-to-get-your-logitech-g433-microphone-up-and-running-again/"><u>DIY Repair Techniques to Get Your Logitech G433 Microphone Up and Running Again</u></a></li>
+<li><a href="https://win11.techidaily.com/innovative-approaches-for-starting-up-windows-tasks-easily/"><u>Innovative Approaches for Starting Up Windows Tasks Easily</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/live-stream-perfection-an-experts-take-on-webcams-for-2024/"><u>Live Stream Perfection An Expert's Take on WebCams for 2024</u></a></li>
+<li><a href="https://solve-help.techidaily.com/methodik-zum-umkehren-erfolgter-datentragerbereinigungen-tipps-and-tricks/"><u>Methodik Zum Umkehren Erfolgter Datenträgerbereinigungen - Tipps & Tricks</u></a></li>
+<li><a href="https://win-updates.techidaily.com/schritt-fur-schritt-guide-zur-wiederbelebung-von-dateien-die-im-papierkorb-des-onedrives-verloren-gegangen-sind/"><u>Schritt-Für-Schritt-Guide Zur Wiederbelebung Von Dateien, Die Im Papierkorb Des OneDrives Verloren Gegangen Sind</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/zte-nubia-flip-5g-adb-format-tool-for-pc-vs-other-unlocking-tools-which-one-is-the-best-by-drfone-android/"><u>ZTE Nubia Flip 5G ADB Format Tool for PC vs. Other Unlocking Tools Which One is the Best?</u></a></li>
 </ul></div>
 

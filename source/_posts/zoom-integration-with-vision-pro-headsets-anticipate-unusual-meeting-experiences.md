@@ -1,7 +1,7 @@
 ---
 title: "Zoom Integration with Vision Pro Headsets: Anticipate Unusual Meeting Experiences!"
-date: 2024-10-26T02:13:52.970Z
-updated: 2024-11-01T21:42:40.058Z
+date: 2024-12-02T21:31:11.814Z
+updated: 2024-12-07T19:46:51.877Z
 tags:
   - apple
 categories:
@@ -38,6 +38,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Apple Intelligence (AI)
 
 Maria Diaz/ZDNET
@@ -61,10 +65,7 @@ Maria Diaz/ZDNET
 * Apple Intelligence is free on iOS 18, iPadOS 18, and MacOS Sequoia, and will be available to try in English only this summer.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151889/7443" target="_top" id="2151889">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151889" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151889/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Partnership with OpenAI
@@ -107,19 +108,6 @@ Adam Breeden/ZDNET
 * **Check In** is available on Apple Watch, even during workouts, to help users stay safe. **Translate** is also coming to Apple Watch so users can translate text right from their wrists.
 * Another notable change is that the **double tap gesture** can be used to scroll through apps.
 
-<!-- affiliate ads begin -->
-<span id="1975503">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975503.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975503">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975503.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975503%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975503/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## iPadOS 18
 
 Adam Breeden/ZDNET
@@ -142,16 +130,7 @@ Adam Breeden/ZDNET
 * Apple also launched a new **Viewer experience**, which does for video what Reader does for text.
 
 <!-- affiliate ads begin -->
-<span id="1531882">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1531882.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1531882">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531882.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531882%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531882/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## VisionOS 2
@@ -172,10 +151,7 @@ Jason Hiner/ZDNET
 * Apple is also making the Vision Pro available in more countries starting June 28\. You can see the full list [here](https://www.apple.com/newsroom/2024/06/apple-vision-pro-arrives-in-new-countries-and-regions-beginning-june-28/).
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115946/19272" target="_top" id="2115946">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115946" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115946/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## AirPods
@@ -185,6 +161,10 @@ Jason Hiner/ZDNET
 * AirPods Pro are getting **Voice Isolation** to enhance call quality in noisier environments.
 * With the new **Siri Interactions**, users can now **nod or shake their head** "yes" or "no" when responding to Siri.
 * Apple is also releasing a **Personalized Spatial Audio API** for game developers to build around the AirPods' audio technology.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## tvOS 18
 
@@ -230,18 +210,24 @@ Screenshot by Nina Raemont/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-forging-strong-connections-building-youtube-backlinks-right/"><u>[New] 2024 Approved Forging Strong Connections Building YouTube Backlinks Right</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-how-to-record-your-games-with-diverse-software-solutions/"><u>[New] 2024 Approved How to Record Your Games with Diverse Software Solutions</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-get-ahead-with-these-best-7-android-browsers-without-ads/"><u>[New] In 2024, Get Ahead with These Best 7 Android Browsers Without Ads</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-perfecting-your-video-conferencing-experience-with-slack-and-filmora-for-2024/"><u>[New] Perfecting Your Video Conferencing Experience with Slack & Filmora for 2024</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/rofit-potential-per-viewer-youtubes-financial-dynamics-for-2024/"><u>[New] Profit Potential Per Viewer YouTube's Financial Dynamics for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-final-thoughts-in-journalistic-styling/"><u>[Updated] 2024 Approved Final Thoughts in Journalistic Styling</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-mastering-screenflow-a-guide-to-enhanced-creativity-on-macos/"><u>[Updated] 2024 Approved Mastering ScreenFlow A Guide to Enhanced Creativity on macOS</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-delete-comments-from-youtube-with-minimal-hassle/"><u>[Updated] In 2024, How to Delete Comments From YouTube with Minimal Hassle</u></a></li>
-<li><a href="https://techtrends.techidaily.com/enhance-your-online-presence-using-manycams-innovative-live-video-tech/"><u>Enhance Your Online Presence Using ManyCam's Innovative Live Video Tech</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-honor-90-gt-get-deleted-photos-back-with-ease-and-safety-by-fonelab-android-recover-photos/"><u>How to Honor 90 GT Get Deleted photos Back with Ease and Safety?</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-forgot-locked-iphone-12-mini-password-learn-the-best-methods-to-unlock-by-drfone-ios/"><u>In 2024, Forgot Locked iPhone 12 mini Password? Learn the Best Methods To Unlock</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/new-how-to-translate-audiovideo-content-from-spanish-to-english-and-vice-versa-in-2024/"><u>New How to Translate Audio/Video Content From Spanish to English and Vice Versa, In 2024</u></a></li>
-<li><a href="https://win-advanced.techidaily.com/restaurar-tu-sistema-de-computacion-con-un-clon-de-arranque/"><u>Restaurar Tu Sistema De Computación Con Un Clon De Arranque</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-elevate-user-experience-with-these-leading-videophones/"><u>[New] Elevate User Experience with These Leading Videophones</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-free-7-best-apps-to-go-live-on-youtube-from-iphone-or-android-for-2024/"><u>[New] FREE 7 Best Apps to Go Live on YouTube From iPhone or Android for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-free-tools-and-tricks-creating-compelling-youtube-video-ads/"><u>[New] In 2024, Free Tools and Tricks Creating Compelling YouTube Video Ads</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-captivate-and-expand-your-online-following-with-viral-youtube-shorts/"><u>[New] In 2024, How to Captivate and Expand Your Online Following with Viral YouTube Shorts</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-how-to-control-speed-of-instagram-videos-effortlessly/"><u>[New] In 2024, How To Control Speed of Instagram Videos Effortlessly</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-photos-to-feeds-selecting-the-best-9-gear-upgrades/"><u>[Updated] 2024 Approved From Photos to Feeds Selecting the Best 9 Gear Upgrades</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-future-of-cosmetics-youtube-gurus-on-the-rise/"><u>[Updated] 2024 Approved Future of Cosmetics YouTube Gurus on the Rise</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-getting-more-out-of-youtube-top-8-mobile-downloader-tips/"><u>[Updated] 2024 Approved Getting More Out of YouTube Top 8 Mobile Downloader Tips</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-a-comprehensive-guide-to-superior-valheim-saplings/"><u>[Updated] A Comprehensive Guide to Superior Valheim Saplings</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-audience-expansion-with-immersive-360-videos-on-social-media/"><u>[Updated] Audience Expansion with Immersive 360 Videos on Social Media</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-guiding-you-through-youtubes-security-settings-for-2024/"><u>[Updated] Guiding You Through YouTube's Security Settings for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-script-to-screen-building-a-youtube-trailer-in-filmora/"><u>[Updated] In 2024, From Script to Screen Building a YouTube Trailer in Filmora</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-enhance-clarity-of-online-video-content/"><u>[Updated] In 2024, How to Enhance Clarity of Online Video Content</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-x-voice-sync-studio-windows-version/"><u>[Updated] X-Voice Sync Studio, Windows Version</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/affordable-vuebell-doorbell-insights-top-rated-budget-friendly-security/"><u>Affordable VueBell Doorbell Insights: Top-Rated Budget Friendly Security</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/comprehensive-review-why-the-samsung-galaxy-tab-s5e-is-an-outstanding-choice-for-android-enthusiasts/"><u>Comprehensive Review: Why the Samsung Galaxy Tab S5e Is an Outstanding Choice for Android Enthusiasts</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-what-you-want-to-know-about-two-factor-authentication-for-icloud-from-your-apple-iphone-13-pro-by-drfone-ios/"><u>In 2024, What You Want To Know About Two-Factor Authentication for iCloud From your Apple iPhone 13 Pro</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/redefining-portability-an-unforgettable-test-experience-with-a-laptop-that-rivals-the-macbook-air-zdnet-insights/"><u>Redefining Portability: An Unforgettable Test Experience with a Laptop that Rivals the MacBook Air | ZDNET Insights</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/supercharge-your-video-subtitling-explore-leading-internet-tools-today-for-2024/"><u>Supercharge Your Video Subtitling Explore Leading Internet Tools Today for 2024</u></a></li>
 </ul></div>
 

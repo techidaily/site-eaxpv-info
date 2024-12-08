@@ -1,7 +1,7 @@
 ---
 title: Convert DVDs Using HandBrake Software - Exporting in M4V Instead of MP4
-date: 2024-08-25 18:11:12
-updated: 2024-08-27 10:32:29
+date: 2024-12-03T18:06:00.440Z
+updated: 2024-12-08T00:19:21.535Z
 categories:
   - macxdvd
 thumbnail: https://thmb.techidaily.com/81c13ca843b69bc230707726fcf630e171a8ad9a8fe460d7f27ac14f30c5db39.jpg
@@ -16,13 +16,9 @@ thumbnail: https://thmb.techidaily.com/81c13ca843b69bc230707726fcf630e171a8ad9a8
 * [Support](https://tools.techidaily.com/macxdvd/products/)
 * [Free Download](https://tools.techidaily.com/macxdvd/products/)
 
-
-
 ![](https://www.macxdvd.com/mac-dvd-video-converter-how-to/../image-style/new-seo/icon7.png) [Home](https://tools.techidaily.com/macxdvd/products/) \> [DVD](https://tools.techidaily.com/macxdvd/products/) \> [software review](https://tools.techidaily.com/macxdvd/products/) \> Handbrake rips DVD to M4V but MP4
 
 ## Handbrake Won't rip DVD to MP4 But M4V Format, Resolved! 
-
-
 
 _Certainly, discussion about Handbrake rip DVD issues never stops. While you are complaining about Handbrake cannot read DVD, some people are beefing about the MP4/M4V option in Handbrake like the cases below._
 
@@ -30,6 +26,11 @@ _Certainly, discussion about Handbrake rip DVD issues never stops. While you are
 
 * [![](https://www.macxdvd.com/mac-dvd-video-converter-how-to/../image-style/new-seo/share-fa.jpg)](https://www.facebook.com/sharer/sharer.php?u=https://www.macxdvd.com/mac-dvd-video-converter-how-to/handbrake-rips-dvd-to-m4v-not-mp4.htm)
 * [![](https://www.macxdvd.com/mac-dvd-video-converter-how-to/../image-style/new-seo/share-tw.jpg)](https://twitter.com/intent/tweet?url=https://www.macxdvd.com/mac-dvd-video-converter-how-to/handbrake-rips-dvd-to-m4v-not-mp4.htm)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 * [![](https://www.macxdvd.com/mac-dvd-video-converter-how-to/../image-style/new-seo/share-email.jpg)](https://www.macxdvd.com/mac-dvd-video-converter-how-to/mailto:info@example.com?&subject=&body=https://www.macxdvd.com/mac-dvd-video-converter-how-to/handbrake-rips-dvd-to-m4v-not-mp4.htm)
 * [![](https://www.macxdvd.com/mac-dvd-video-converter-how-to/../image-style/new-seo/share-in.jpg)](https://www.linkedin.com/shareArticle?mini=true&url=https://www.macxdvd.com/mac-dvd-video-converter-how-to/handbrake-rips-dvd-to-m4v-not-mp4.htm&title=&summary=https://www.macxdvd.com/mac-dvd-video-converter-how-to/handbrake-rips-dvd-to-m4v-not-mp4.htm&source=)
 
@@ -63,6 +64,10 @@ Since it makes no sense to change the file extension in Handbrake from M4V to MP
 
 ![DVD to MP4 Ripper](https://www.macxdvd.com/mac-dvd-video-converter-how-to/article-image/mdrp-zxh.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 If codec setting is a headache for you in Handbrake M4V to MP4, you can simply resort to a [Handbrake alternative](https://tools.techidaily.com/macxdvd/products/) that deals with DVD to MP4 conversion quite well. Fortunately, [**MacX DVD Ripper Pro**](https://tools.techidaily.com/macxdvd/products/) happens to the best Handbrake alternative that is versed in ripping both homemade and commercial DVDs to MP4, H.264, MPEG4, M4V, MOV, AVI, WMV, etc. It also allows you to directly [rip copy protected DVD](https://tools.techidaily.com/macxdvd/products/) to Apple iPhone, iPad, Samsung Galaxy, PS4, WP, and so on with 5X faster conversion speed. 
 
 [Download for Mac](https://tools.techidaily.com/macxdvd/products/) [Download for PC](https://tools.techidaily.com/macxdvd/products/) 
@@ -77,11 +82,13 @@ ABOUT THE AUTHOR
 
 ![author- bella](https://www.macxdvd.com/mac-dvd-video-converter-how-to/../image-style/new-seo/bella.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 [Bella Brown ![](https://www.macxdvd.com/mac-dvd-video-converter-how-to/../image-style/new-seo/share-in1.jpg)](https://www.linkedin.com/in/bella-brown-920145104/) 
 
 Bella has been working with DVD digitization for over 12 years. She writes articles about everything related to DVD, from disc drive, DVD copyright protection, physical structure, burning and backup tips. The unceasing passion of DVD movies helps her build a rich DVD library and ensure a practical solution to address almost all possible DVD issues. Bella is also a crazy fan for Apple products.
-
-
 
 Related Articles
 
@@ -91,13 +98,25 @@ Related Articles
 
 ![](https://www.macxdvd.com/mac-dvd-video-converter-how-to/../image-style/new-seo/pic6.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 [How to Make Handbrake Decrypt DVD Copy Protection](https://tools.techidaily.com/macxdvd/products/) 
 
 ![](https://www.macxdvd.com/mac-dvd-video-converter-how-to/../image-style/new-seo/pic5.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 [Rip and Import DVD to iPad - Handbrake Be Helpful or Helpless?](https://tools.techidaily.com/macxdvd/products/) 
 
 ![](https://www.macxdvd.com/mac-dvd-video-converter-how-to/../image-style/new-seo/pic4.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 [Can Handbrake Skip Bad Sectors When Ripping DVDs](https://tools.techidaily.com/macxdvd/products/) 
 
@@ -107,11 +126,17 @@ Related Articles
 
 ![](https://www.macxdvd.com/mac-dvd-video-converter-how-to/../image-style/new-seo/pic2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 [Handbrake Error with Reading from DVDs](https://tools.techidaily.com/macxdvd/products/) 
 
-
-
 ![Digiarty Software](https://www.macxdvd.com/mac-dvd-video-converter-how-to/../icon/logo.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Digiarty Software, Inc. (MacXDVD) is a leader in delivering stable multimedia software applications for worldwide users since its establishment in 2006.
 
@@ -120,6 +145,10 @@ Digiarty Software, Inc. (MacXDVD) is a leader in delivering stable multimedia so
 * [MacX DVD Ripper Pro](https://tools.techidaily.com/macxdvd/products/)
 * [MacX Video Converter Pro](https://tools.techidaily.com/macxdvd/products/)
 * [MacX MediaTrans](https://tools.techidaily.com/macxdvd/products/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Tips and Tricks
 
@@ -137,8 +166,6 @@ Digiarty Software, Inc. (MacXDVD) is a leader in delivering stable multimedia so
 * [Contact Us >>](https://tools.techidaily.com/macxdvd/products/)
 * [Partner >>](https://tools.techidaily.com/macxdvd/products/)
 
-
-
 [Home](https://tools.techidaily.com/macxdvd/products/) | [About](https://tools.techidaily.com/macxdvd/products/) | [Privacy Policy](https://tools.techidaily.com/macxdvd/products/) | [Terms and Conditions](https://tools.techidaily.com/macxdvd/products/) | [License Agreement](https://tools.techidaily.com/macxdvd/products/) | [Resource](https://tools.techidaily.com/macxdvd/products/) | [News](https://tools.techidaily.com/macxdvd/products/) | [Contact Us](https://tools.techidaily.com/macxdvd/products/)
 
 Copyright © 2024 Digiarty Software, Inc (MacXDVD). All rights reserved
@@ -152,11 +179,33 @@ Digiarty Software is not developed by or affiliated with Apple Inc.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-freeing-up-youtube-views-no-more-grey-lines-for-2024/"><u>[New] Freeing Up YouTube Views No More Grey Lines for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-fresh-funds-finds-economical-monetization-platforms-for-beginners-for-2024/"><u>[New] Fresh Funds Finds Economical Monetization Platforms for Beginners for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-how-does-t-series-generate-revenue-in-2024/"><u>[New] How Does T-Series Generate Revenue, In 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-how-to-stream-to-youtube-facebook-twitch-and-over-30-platforms-for-2024/"><u>[New] How to Stream to YouTube, Facebook, Twitch and Over 30 Platforms for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-high-revenue-video-visionaries/"><u>[New] In 2024, High-Revenue Video Visionaries</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-guidelines-for-legally-reposting-on-insta/"><u>[Updated] 2024 Approved Guidelines for Legally Reposting on Insta</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-often-should-you-upload-videos-to-youtube-to-get-more-views/"><u>[Updated] 2024 Approved How Often Should You Upload Videos to YouTube to Get More Views</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-find-8-digital-hubs-offering-free-green-screen-elements-and-scenes-for-2024/"><u>[Updated] Find 8 Digital Hubs Offering Free Green-Screen Elements & Scenes for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-from-passive-to-profitable-youtube-revenue-techniques-for-2024/"><u>[Updated] From Passive to Profitable YouTube Revenue Techniques for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-post-a-video-from-youtube-on-instagram-for-2024/"><u>[Updated] How to Post a Video From YouTube on Instagram for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-in-2024-mastering-image-magic-top-10-mobile-apps-with-stickers-on-iphones-and-androids/"><u>[Updated] In 2024, Mastering Image Magic Top 10 Mobile Apps with Stickers on iPhones & Androids</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-leading-websites-for-superior-vector-images/"><u>2024 Approved Leading Websites for Superior Vector Images</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/achieving-flawless-gameplay-optimizing-your-switch-pro-experience-on-steam-for-2024/"><u>Achieving Flawless Gameplay Optimizing Your Switch Pro Experience on Steam for 2024</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/211132886-9780834845473-finding-radical-wholeness/"><u>Finding Radical Wholeness | Free Book</u></a></li>
+<li><a href="https://win-dash.techidaily.com/get-the-newest-nvidia-gpu-drivers-optimized-performance-for-windows-10-users/"><u>Get the Newest Nvidia GPU Drivers: Optimized Performance for Windows 10 Users!</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-can-i-use-a-fake-gps-without-mock-location-on-vivo-v27-drfone-by-drfone-virtual-android/"><u>How Can I Use a Fake GPS Without Mock Location On Vivo V27? | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-stop-google-chrome-from-tracking-your-location-on-infinix-hot-40i-drfone-by-drfone-virtual-android/"><u>How to Stop Google Chrome from Tracking Your Location On Infinix Hot 40i? | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-use-special-features-virtual-location-on-vivo-y200e-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How To Use Special Features - Virtual Location On Vivo Y200e 5G? | Dr.fone</u></a></li>
+<li><a href="https://win-blog.techidaily.com/the-gamers-handbook-resolving-latency-problems-in-pc-games-updated-tips/"><u>The Gamer's Handbook: Resolving Latency Problems in PC Games (Updated Tips )</u></a></li>
+</ul></div>
+

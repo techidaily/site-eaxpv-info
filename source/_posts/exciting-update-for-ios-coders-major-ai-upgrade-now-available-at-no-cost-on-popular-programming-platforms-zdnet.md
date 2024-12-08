@@ -1,7 +1,7 @@
 ---
 title: Exciting Update for iOS Coders! Major AI Upgrade Now Available at No Cost on Popular Programming Platforms | ZDNET
-date: 2024-11-23T18:13:15.828Z
-updated: 2024-11-28T16:04:06.269Z
+date: 2024-12-03T17:58:45.553Z
+updated: 2024-12-08T00:40:02.306Z
 tags:
   - apple
 categories:
@@ -29,7 +29,7 @@ But if you have the M1 MacBook Pro, the question of upgrading becomes a little t
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Specifications
@@ -50,13 +50,13 @@ But if you have the M1 MacBook Pro, the question of upgrading becomes a little t
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  You should buy the M1 MacBook Pro if...
 
 Jason Cipriani/ZDNET
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ###  1\. You need more battery life
 
@@ -65,10 +65,6 @@ While you might expect the newest device to have the [better battery life](https
 **Also: [MacBook Pro vs MacBook Air: How to decide which Apple laptop to buy](https://www.zdnet.com/article/macbook-air-vs-macbook-pro-how-to-decide-which-apple-laptop-to-buy/)**
 
 Now, it's worth noting that most people do use their MacBooks plugged in, and going more than half a day without access to an outlet is pretty rare. But, in the event that you often find yourself in situations where a power supply isn't readily available and you work very long days, the M1 should be your choice. This is, of course, by Apple's numbers.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ###  2\. You're doing mostly web-based work or don't need the absolute fastest option
 
@@ -92,11 +88,19 @@ The M1 and M2 versions of the MacBook Pro had a 13-inch option, but that choice 
 
 [Buy the M1 MacBook Pro View now at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FApple-MacBook-14-inch-10%E2%80%91core-16%E2%80%91core%2Fdp%2FB09JQWSQK7%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C545604e4-c461-4ca6-b9d9-7557b5a9d949%7Cdtp&dtb=1)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  You should buy the M3 MacBook Pro if...
 
 Buy a MacBook Pro with an M3 Pro chip on sale now.
 
 Jason Hiner/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ###  1\. You're working outside or in other very bright environments
 
@@ -110,10 +114,6 @@ While there's very little the M3 can do that the M1 just can't, the biggest diff
 
 If you're working in a very fast-paced environment (say, live sports or entertainment) and seconds make the difference, it might be worth springing for the M3\. Of course, you'll likely only notice the performance difference when dealing with high-end graphics and video. But power users will be right at home with the M3.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ###  3\. You want a new-conditioned laptop
 
 It's been almost three years since Apple launched its M1-powered systems, so the chances of you finding one in brand-new condition today are rare. Instead, the fresher MacBook Pro with M3 chip is guaranteed to be available at your local Apple store, third-party retailers, and more. You can also expect [better deals on the M3 model](https://www.zdnet.com/article/buy-a-new-macbook-pro-with-m3-pro-chip-for-200-off-right-now/) going into the holiday shopping season. For the M1, it's buying a second-hand device or keeping your fingers crossed that somewhere on the internet is still selling one in pristine condition.
@@ -121,7 +121,7 @@ It's been almost three years since Apple launched its M1-powered systems, so the
 [Buy the MacBook Pro M3 View now at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FApple-MacBook-Laptop-8%E2%80%91core-10%E2%80%91core%2Fdp%2FB0CM5KC8X7%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C545604e4-c461-4ca6-b9d9-7557b5a9d949%7Cdtp&dtb=1)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Alternatives to consider
@@ -158,19 +158,21 @@ It's been almost three years since Apple launched its M1-powered systems, so the
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-essential-guide-for-teachers-on-using-visual-aids/"><u>[New] 2024 Approved Essential Guide for Teachers on Using Visual Aids</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-seamless-visuals-on-screen-zooming-into-clarity/"><u>[New] 2024 Approved Seamless Visuals on Screen Zooming Into Clarity</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-utilizing-speech-recognition-for-efficient-documentation-and-transcription-in-ms-word/"><u>[Updated] Utilizing Speech Recognition for Efficient Documentation and Transcription in MS Word</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/1725285633082-dvd/"><u>【直接対答】不思議にも、以前は鑑賞可能だったDVDを今や見ることができない理由とその解決方法</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/cable-vs-streaming-whats-the-difference/"><u>Cable Vs. Streaming: What's the Difference?</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/convert-videos-effortlessly-with-winx-pro-mp4-mp3-support-included/"><u>Convert Videos Effortlessly with WinX Pro: MP4, MP3 Support Included</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/kostenloze-avi-tot-wma-konvertiering-eenwegige-oplossing-met-movavi-online/"><u>Kostenloze AVI Tot WMA Konvertiering: Eenwegige Oplossing Met Movavi Online</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/libre-meditation-harmonies-for-2024/"><u>Libre Meditation Harmonies for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/pratica-guida-completa-per-limpostazione-del-software-windows-dvd/"><u>Pratica Guida Completa per L'Impostazione Del Software Windows DVD</u></a></li>
-<li><a href="https://win-premium.techidaily.com/resetting-your-printer-a-step-by-step-guide-to-restoring-default-settings/"><u>Resetting Your Printer: A Step-by-Step Guide to Restoring Default Settings</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/titre-seo-extraire-et-convertir-rapidement-vos-dvd-au-format-mp4h265-avec-notre-solution-simple-de-correction-derreur/"><u>Titre SEO : Extraire Et Convertir Rapidement Vos DVD Au Format MP4/H.265 Avec Notre Solution Simple De Correction D'erreur</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/top-10-gps-drones-with-steady-trail-following-features/"><u>Top 10 GPS Drones with Steady Trail-Following Features</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/updated-in-2024-affordable-sound-mastery-the-best-free-audio-editor-applications-for-windows-and-macos-users-today/"><u>Updated In 2024, Affordable Sound Mastery The Best Free Audio Editor Applications for Windows & macOS Users Today</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/upgrade-your-video-editing-with-winx-hd-video-converter-pro-quick-convert-and-resize-videoclips-using-cutting-edge-gpu-acceleration-technology/"><u>Upgrade Your Video Editing with WinX HD Video Converter Pro: Quick Convert & Resize Videoclips Using Cutting-Edge GPU Acceleration Technology</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-remove-background-noise-from-your-youtube-video/"><u>[New] 2024 Approved How To Remove Background Noise From Your Youtube Video</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-focusing-the-lens-advanced-cinematic-techniques-for-2024/"><u>[New] Focusing the Lens Advanced Cinematic Techniques for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-high-income-content-makers/"><u>[New] In 2024, High-Income Content Makers</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-unlock-your-youtube-potential-expert-tips-on-writing-video-outlines/"><u>[New] Unlock Your YouTube Potential Expert Tips on Writing Video Outlines</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-create-endless-video-on-iphone/"><u>[Updated] 2024 Approved How-To Create Endless Video on iPhone</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-expert-advice-enhancing-your-screen-capture-game-with-mobizen-tools-for-2024/"><u>[Updated] Expert Advice Enhancing Your Screen Capture Game with Mobizen Tools for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-flawless-soundscape-secrets-to-high-resolution-audio-recording-for-2024/"><u>[Updated] Flawless Soundscape Secrets to High-Resolution Audio Recording for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-grab-free-video-profile-backgrounds-for-2024/"><u>[Updated] Grab Free Video Profile Backgrounds for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-guaranteed-method-to-keep-youtube-shorts-out-of-sight/"><u>[Updated] In 2024, Guaranteed Method to Keep YouTube Shorts Out of Sight</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-harnessing-famebits-secrets-to-thrive-with-key-channel-sponsors/"><u>[Updated] In 2024, Harnessing FameBit's Secrets to Thrive with Key Channel Sponsors</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/enchant-your-e-images-with-electronic-soundtracks/"><u>Enchant Your E-Images with Electronic Soundtracks</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/how-to-fix-the-apple-iphone-11-pro-gps-not-working-issue-drfone-by-drfone-virtual-ios/"><u>How to Fix the Apple iPhone 11 Pro GPS not Working Issue | Dr.fone</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/sail-through-social-media-instagrams-reel-mastery-secrets-for-2024/"><u>Sail Through Social Media Instagram's Reel Mastery Secrets for 2024</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/top-10-fingerprint-lock-apps-to-lock-your-samsung-galaxy-a34-5g-phone-by-drfone-android/"><u>Top 10 Fingerprint Lock Apps to Lock Your Samsung Galaxy A34 5G Phone</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/top-performing-tp-link-archer-a6-ac1200-router-exceptional-budget-friendly-specs-reviewed/"><u>Top-Performing TP-LInk Archer A6 AC1200 Router: Exceptional Budget Friendly Specs Reviewed</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-2024-approved-best-voice-changer-apps-for-iphone-and-android/"><u>Updated 2024 Approved Best Voice Changer Apps for iPhone and Android</u></a></li>
 </ul></div>
 

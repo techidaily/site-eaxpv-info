@@ -1,7 +1,7 @@
 ---
 title: Score a MacBook Air M1 for an All-Time Low of $649 - Top Savings Alert by ZDNET
-date: 2024-11-25T16:26:09.452Z
-updated: 2024-11-28T17:23:04.847Z
+date: 2024-12-03T22:04:26.576Z
+updated: 2024-12-07T22:01:47.288Z
 tags:
   - apple
 categories:
@@ -42,7 +42,7 @@ At $649, this is the lowest price for the M1 version of the MacBook Air that we'
 The [M1 MacBook Air](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fmacbook-air-13-3-laptop-apple-m1-chip-8gb-memory-256gb-ssd-space-gray-space-gray%2F5721600.p%3FskuId%3D5721600&publisher_slug=itechdaily19598&exclusive=1) first retailed for $999 when it was released, but Apple sells refurbished versions for $799, making these deals even better than anything Apple is offering. The [M1 MacBook Air](https://goto.walmart.com/c/5597632/565706/9383?sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FApple-MacBook-Air-13-3-inch-Laptop-Silver-M1-Chip-8GB-RAM-256GB-storage%2F609040889&subId1=zd-__COM_CLICK_ID__-dtp) is available in three different colors: gold, space gray, and silver. Snag these savings while you can. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -81,22 +81,17 @@ However, deals are subject to sell out or expire at any time, though ZDNET remai
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-2024-approved-photo-and-video-edits-made-easy-select-the-best-8-apps-for-android-ios/"><u>[New] 2024 Approved Photo & Video Edits Made Easy Select the Best 8 Apps for Android, iOS</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/new-discover-the-ultimate-30-list-of-free-vectr-and-illustration-sites-online-for-2024/"><u>[New] Discover the Ultimate 30 List of Free Vectr and Illustration Sites Online for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-enhance-your-livestream-quality-learn-4-innovative-techniques/"><u>[New] Enhance Your Livestream Quality Learn 4 Innovative Techniques</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-discover-efficient-techniques-for-live-discord-recording/"><u>[Updated] 2024 Approved Discover Efficient Techniques for Live Discord Recording</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/1726226231670-2024-5/"><u>2024年に人気! ベスト5無料ビデオカットツールランキング - おすすめ動画編集アプリ</u></a></li>
-<li><a href="https://blog-min.techidaily.com/5-ways-to-move-contacts-from-google-pixel-7a-to-iphone-131415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways to Move Contacts From Google Pixel 7a to iPhone (13/14/15) | Dr.fone</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/come-cambia-la-tua-visualizzazione-su-microsoft-teams-comandamenti-per-personalizzare-lo-sfondo-nel-2024/"><u>Come Cambia La Tua Visualizzazione Su Microsoft Teams? Comandamenti per Personalizzare Lo Sfondo Nel 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/conquer-zip-files-seamless-compressed-archives-on-windows-pcs/"><u>Conquer ZIP Files: Seamless Compressed Archives on Windows PCs</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/cookiebot-unlocking-next-level-user-targeting-capabilities/"><u>Cookiebot: Unlocking Next-Level User Targeting Capabilities</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/gratuiti-convertitore-on-line-per-m2p-a-mp3-guida-di-movavi/"><u>Gratuiti Convertitore On-Line per M2P a MP3: Guida Di Movavi</u></a></li>
-<li><a href="https://discover-awesome.techidaily.com/holiday-extravaganza-alert-grab-your-early-christmas-treats-at-wonderfox-softs-epic-seasonal-discount-event/"><u>Holiday Extravaganza Alert: Grab Your Early Christmas Treats at WonderFox Soft's Epic Seasonal Discount Event!</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/istruzioni-complete-sulla-tecnica-cinematografica-13-strategie-chiave-da-applicare-a-qualsiasi-scenografia-ripresa/"><u>Istruzioni Complete Sulla Tecnica Cinematografica: 13 Strategie Chiave Da Applicare a Qualsiasi Scenografia Ripresa</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/m4b-mp4/"><u>M4B 대상 MP4 챈시 전환 무료 - 온라인 모바일화</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/mp4-to-webm-conversion-made-easy-and-free-on-the-moveavi-platform/"><u>MP4 to WebM Conversion Made Easy and Free on the Moveavi Platform</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/the-updated-method-to-bypass-itel-a70-frp-by-drfone-android/"><u>The Updated Method to Bypass Itel A70 FRP</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/trasforma-i-tuoi-file-wmv-nel-formato-3gp-gratuitamente-online-con-il-servizio-di-conversione-rapido-di-convertitore-wmv/"><u>Trasforma I Tuoi File WMV Nel Formato 3GP Gratuitamente Online Con Il Servizio Di Conversione Rapido Di Convertitore WMV</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/ultimate-guide-mastering-video-trimming-techniques-with-adobe-after-effects/"><u>Ultimate Guide: Mastering Video Trimming Techniques with Adobe After Effects</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-live-logging-to-global-broadcasting-mastery-through-mindfulness/"><u>[New] 2024 Approved From Live Logging to Global Broadcasting Mastery Through Mindfulness</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-how-to-sculpt-perfect-images-on-youtube-with-right-dimensions-for-2024/"><u>[New] How to Sculpt Perfect Images on YouTube with Right Dimensions for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-finding-the-perfect-dj-template-video-download-for-your-events-for-2024/"><u>[Updated] Finding the Perfect DJ Template Video Download for Your Events for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-grasping-social-media-success-basic-facebook-statistics/"><u>[Updated] Grasping Social Media Success Basic Facebook Statistics</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-green-blueprint-planning-for-a-resilient-urban-future-for-2024/"><u>[Updated] Green Blueprint Planning for a Resilient Urban Future for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-disableremove-youtube-shorts-permanently2-for-2024/"><u>[Updated] How to Disable/Remove YouTube Shorts Permanently?2 For 2024</u></a></li>
+<li><a href="https://win-studio.techidaily.com/pc3ds-sd/"><u>初期設定: PC環境における3DS SDメモリの正しいフォーマット方法を解説</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/best-xiaomi-redmi-k70e-pattern-lock-removal-tools-remove-android-pattern-lock-without-losing-data-by-drfone-android/"><u>Best Xiaomi Redmi K70E Pattern Lock Removal Tools Remove Android Pattern Lock Without Losing Data</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-detect-and-remove-spyware-on-samsung-galaxy-f54-5g-drfone-by-drfone-virtual-android/"><u>How to Detect and Remove Spyware on Samsung Galaxy F54 5G? | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-sharefake-gps-on-uber-for-nubia-red-magic-8s-proplus-drfone-by-drfone-virtual-android/"><u>How to share/fake gps on Uber for Nubia Red Magic 8S Pro+ | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-building-a-powerful-community-of-insta-followers/"><u>In 2024, Building a Powerful Community of Insta-Followers</u></a></li>
+<li><a href="https://win11.techidaily.com/navigate-past-fixed-context-menus-with-these-remedies/"><u>Navigate Past Fixed Context Menus with These Remedies</u></a></li>
 </ul></div>
 

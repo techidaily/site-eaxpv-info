@@ -1,7 +1,7 @@
 ---
 title: "Essential Guide: When & How to Successfully Reboot Your AirPods - Tips From ZDNet"
-date: 2024-11-21T17:07:00.978Z
-updated: 2024-11-28T18:38:14.930Z
+date: 2024-12-01T19:49:24.495Z
+updated: 2024-12-07T20:21:44.486Z
 tags:
   - apple
 categories:
@@ -58,6 +58,10 @@ In any case, what that means is that instead of my escalating ranking of phones,
 
 Now that you understand how my working environment has changed and how I structure my work day, let's discuss the tools I use in my daily flow. It all starts with Gmail... 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## First morning Gmail
 
 It's been quite a while since [I made the switch from Outlook to Gmail](https://www.zdnet.com/article/why-i-bit-the-bullet-and-finally-switched-from-outlook-to-gmail/), and I have to tell you, my productivity has improved tremendously, and after more than half a decade of use, I don't regret the move one bit. Having the exact same email interface on all my machines, with tight integration into my iPhone, iPad, and computers, has made all the difference. 
@@ -73,6 +77,10 @@ Actually, scratch that. I no longer take my iPhone to bed with me. Instead, I we
 The boy
 
 The way I have Gmail set up, only the most important messages show up on my watch. Same with Slack notifications. Basically, unless there's something urgent from one of my editors, I can start my day in peace. If there's nothing urgent, I hit the snooze button. After repeating this ritual two or three times, I get up, do my morning necessaries, and zombie-walk to the coffee maker. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
 
@@ -100,6 +108,10 @@ By this point, I'm somewhere between 30 and 60 minutes into my day, I've had one
 
 Depending on the importance and urgency of the messages in my Gmail inbox, I'll either go straight into my morning email cycle or begin my morning reading. I prefer to do morning reading before email, so I'll discuss that next. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## The Pocket-read-post-archive cycle
 
 I read. A lot. I need to keep up to date on a tremendous amount of information, both breaking news related and deep technical or academic information. As a result, a good percentage of my morning is spent reading. I also watch a lot of YouTube videos. I'm almost always learning about new stuff, and many YouTube videos provide great introductions to both how those things work and what they do. Without YouTube, I never would have [gotten my CNC up and running](https://www.zdnet.com/article/hands-on-building-the-next-generation-x-carve-cnc-build-log/) and done [my first successful build](https://www.zdnet.com/article/my-first-big-cnc-project-a-parts-organizer-rack/).
@@ -111,10 +123,6 @@ What's particularly nice about Pocket is that it runs on not only my couch-side 
 Part of my morning flow is posting to the social networks. Unfortunately, this has changed. It used to be that whenever I found an article that was interesting in my Pocket collection, I tapped the Share icon in Pocket and then selected [Buffer](http://bufferapp.com). Buffer then took the article, scheduled it, and posted it to Twitter, Facebook, and LinkedIn. Two clicks and I used to be able shared something interesting.
 
 But Facebook broke that. Facebook no longer allows tools like Buffer and [Hootsuite](https://hootsuite.com/) to to post to personal Facebook pages. I've spent years building up my personal Facebook page following and don't want to start a corporate page (or orphan all my followers), so when Facebook broke auto-posting, it hurt. Now, I hand post to Twitter and then do it again on Facebook. LinkedIn gets a lot less attention, and, frankly, I post less frequently. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Featured reviews
 
@@ -130,10 +138,6 @@ Rinse, wash, repeat.
 I'm relatively holistic about my morning reading process. I do it until I'm bored or hungry, or feel like switching gears and moving on to managing my email and schedule. 
 
 The key point to all of this is that ever since I moved to this Pocket-read-post-archive cycle for my daily reading, my productivity and flexibility has gone up tremendously. I'm getting more done, and the quality of the process is far more pleasant. I'm no longer tied to my desktop browser, because all of these tools work on all my devices. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Connecting and scheduling
 
@@ -157,10 +161,6 @@ Now, to be fair, I have a slight email fetish, so I do check back in to my inbox
 
 In fact, now that I have email notifications integrated into my watch, I'm finding I'm actually breaking myself of the habit, because unless I hear the notification tone, I don't have any important emails coming in. I have actually gone a few hours without checking my email inbox, which is something of a record for me. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Managing my daily teaching opportunities
 
 As it turns out, supporting users is a lot like teaching online students.
@@ -183,6 +183,10 @@ By the way, this is also a great way to think about users, which I initially was
 * [Want a programming job? Learn these three languages](https://www.zdnet.com/article/want-a-programming-job-learn-these-three-languages/)
 
 Here's another little trick I use: I get a lot of feature requests (which I call "cool feature ideas") from the plugin users. The go into [the bug tracking system I manage in Notion](https://www.zdnet.com/article/notion-app-review/).
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## To-doing my to-do list
 
@@ -215,7 +219,7 @@ I've set up a bunch of Notion pages and all the items that "should be on the lis
 That, by the way, is the entire key to keeping your to-do list under control. If you actually intend to do an item within a reasonably short period of time, put it on your to-do list. If you expect to do it someday, it's not a to-do list item, not an actionable item, and you should write them on another list somewhere. I use Trello for that. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -225,7 +229,7 @@ That, by the way, is the entire key to keeping your to-do list under control. If
 I've also set up Notion pages for each 3D printer, and for managing and tracking my reviews and video projects. It's great as a catch-all for lots of details, but unlike previous catch-alls like Evernote, Notion allows you to assign some structure and layout to the stuff you're working with. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Blocking out time for my projects
@@ -241,10 +245,6 @@ Next is DG Planner. I use this to block out a set of days for everything that ha
 Finally, there's Planner Tentative. This is where I block out the approximate time a project I may or may not be working on will probably take. That way, if I'm taking with my team about a bunch of projects, I can block out some tentative time and see how my month is shaping up.
 
 With this system, I rarely lose track of projects and also rarely overbook myself. It's worked quite well for a bunch of years now.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Rethinking your flow
 
@@ -275,20 +275,18 @@ _You can follow my day-to-day project updates on social media. Be sure to follow
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/outube-banners-makers-10plus-online-tools-to-create-channel-art/"><u>[New] Youtube Banners Makers 10+ Online Tools to Create Channel Art</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/1-ultimate-xyz-ripper-pro-app-professional-dvd-extraction-and-hd-video-upgrader-with-smartphone-sync-feature/"><u>1. Ultimate XYZ Ripper Pro App - Professional DVD Extraction & HD Video Upgrader with Smartphone Sync Feature</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/1725289888357-ai-fps/"><u>AI 프레임 비교 - 고해상도 FPS 성능 크로스오팩 검정</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/boost-your-h265-hevc-encoding-process-for-quicker-results/"><u>Boost Your H.265 (HEVC) Encoding Process for Quicker Results</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/convert-your-m2p-files-to-mp4-quickly-and-for-free-using-movavi/"><u>Convert Your M2P Files to MP4 Quickly & For Free Using Movavi</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/how-can-i-catch-the-regional-pokemon-without-traveling-on-oppo-reno-8t-drfone-by-drfone-virtual-android/"><u>How Can I Catch the Regional Pokémon without Traveling On Oppo Reno 8T | Dr.fone</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/new-unleash-the-power-of-high-definition-best-video-quality-boosters-for-2024/"><u>New Unleash the Power of High-Definition Best Video Quality Boosters for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/optimize-your-pcs-performance-reducing-high-cpu-load-while-watching-videos-on-windows-11/"><u>Optimize Your PC's Performance: Reducing High CPU Load While Watching Videos on Windows 11</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/outstanding-20-anime-opening-melodies/"><u>Outstanding 20 Anime Opening Melodies</u></a></li>
-<li><a href="https://windows11.techidaily.com/revealing-indexers-control-accessibility/"><u>Revealing Indexer's Control Accessibility</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/top-3-free-dvd-ripping-tools-for-windows-11-convert-your-dvds-to-mp4aviwmv-without-hassle/"><u>Top 3 Free DVD Ripping Tools for Windows 11: Convert Your DVDs to MP4/AVI/WMV Without Hassle</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-5-tracking-apps-to-track-samsung-galaxy-f15-5g-without-them-knowing-drfone-by-drfone-virtual-android/"><u>Top 5 Tracking Apps to Track Samsung Galaxy F15 5G without Them Knowing | Dr.fone</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/transformacion-facil-y-libre-de-costos-de-mp4-en-formato-wmv-sin-restricciones/"><u>Transformación Fácil Y Libre De Costos De MP4 en Formato WMV Sin Restricciones</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/troubleshooting-a-noisy-dvd-player-effective-tips-for-quiet-operation-when-watching-movies/"><u>Troubleshooting a Noisy DVD Player: Effective Tips for Quiet Operation When Watching Movies</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/windows-11-user-facing-problems-launching-dolby-digital-drivers-heres-your-guide-to-a-solution/"><u>Windows 11 User Facing Problems Launching Dolby Digital Drivers? Here's Your Guide to a Solution!</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-hps-simplified-guide-to-capturing-and-storing-pc-screen-content/"><u>[New] 2024 Approved HP's Simplified Guide to Capturing and Storing PC Screen Content</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-capturing-the-action-top-four-ways-to-record-on-xbox-one/"><u>[New] Capturing the Action Top Four Ways to Record on Xbox One</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-individualist-to-institutional-influence-in-the-youtube-universe/"><u>[New] In 2024, From Individualist to Institutional Influence in the YouTube Universe</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-hashtag-hacks-for-amplifying-gamer-content/"><u>[New] In 2024, Hashtag Hacks for Amplifying Gamer Content</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-completely-erase-youtube-shorts-footprint/"><u>[Updated] 2024 Approved How To Completely Erase YouTube Shorts Footprint</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-duration-decoded-a-guide-to-editing-youtube-videos-for-2024/"><u>[Updated] Duration Decoded A Guide to Editing YouTube Videos for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-fresh-inspirations-for-streaming-topics/"><u>[Updated] In 2024, Fresh Inspirations for Streaming Topics</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-optimize-youtube-submissions-for-extended-films/"><u>[Updated] In 2024, How to Optimize YouTube Submissions for Extended Films</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-maximize-impact-with-these-11-economical-youtube-naming-tools/"><u>[Updated] Maximize Impact with These 11 Economical YouTube Naming Tools</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/2024-approved-unveiling-the-secrets-to-fhd-in-social-tweeting/"><u>2024 Approved Unveiling the Secrets to FHD in Social Tweeting</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-videos-from-iphone-xs-max-without-backup-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Recover Deleted Videos from iPhone XS Max Without Backup? | Stellar</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-do-you-get-sun-stone-evolutions-in-pokemon-for-gionee-f3-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How Do You Get Sun Stone Evolutions in Pokémon For Gionee F3 Pro? | Dr.fone</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/solutions-n1-a-4xc9c-pour-espace-stockage-non-adequat-en-francais/"><u>Solutions N°1 À #4XC9C Pour 'Espace Stockage Non Adéquat' En Français</u></a></li>
 </ul></div>
 

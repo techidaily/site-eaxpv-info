@@ -1,7 +1,7 @@
 ---
 title: Apple's Revolutionary Move to Embrace Third-Party NFC Applications on iPhone, Boosting Convenience and Usability - Detailed Benefits Explained | Digital Innovations Blog
-date: 2024-11-24T17:39:16.743Z
-updated: 2024-11-28T17:53:13.313Z
+date: 2024-11-30T20:01:50.836Z
+updated: 2024-12-08T00:35:48.067Z
 tags:
   - apple
 categories:
@@ -39,7 +39,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Apple Intelligence (AI)
@@ -65,7 +65,7 @@ Maria Diaz/ZDNET
 * Apple Intelligence is free on iOS 18, iPadOS 18, and MacOS Sequoia, and will be available to try in English only this summer.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Partnership with OpenAI
@@ -75,6 +75,10 @@ Jason Hiner/ZDNET
 * Apple also confirmed its partnership with OpenAI by integrating [ChatGPT](https://www.zdnet.com/article/what-is-chatgpt-and-why-does-it-matter-heres-everything-you-need-to-know/) with Siri. With a user's permission, Siri can send a request to ChatGPT for help. For example, if you ask Siri for assistance on a task it deems better for ChatGPT, Siri will suggest you use the chatbot instead and forward your request. ChatGPT's writing capabilities can also be leveraged within certain writing tasks.
 * Users can access ChatGPT via this integration for free, and OpenAI will not log their data. ChatGPT Plus users can connect their subscriptions to access more advanced features, in which case OpenAI's data usage policies apply.
 * The ChatGPT integration will be coming to iOS 18, iPadOS 18, and MacOS Sequoia later this year.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## iOS 18
 
@@ -108,6 +112,10 @@ Adam Breeden/ZDNET
 * **Check In** is available on Apple Watch, even during workouts, to help users stay safe. **Translate** is also coming to Apple Watch so users can translate text right from their wrists.
 * Another notable change is that the **double tap gesture** can be used to scroll through apps.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## iPadOS 18
 
 Adam Breeden/ZDNET
@@ -117,10 +125,6 @@ Adam Breeden/ZDNET
 * In a long-awaited release, iPads will now have a **[calculator app](https://www.zdnet.com/article/after-14-years-apple-expected-to-unveil-the-ipad-app-weve-all-been-waiting-for-at-wwdc/)** for the first time, complete with the same interface as the one currently found on iPhones. Plus, users can use it with the Apple Pencil through a new **Math Notes** experience, which allows users to write expressions that the calculator app will solve for them once they type the equal sign, in their own handwriting,
 * Handwriting in Notes also got an upgrade with **Smart** **Script**, which refines users' writing to make it more legible while keeping the authenticity of the user's handwriting style. The feature can also match copied and pasted text to the user's handwriting. Typed text was also enhanced, with five new highlight colors and the ability to toggle sections under headings or subheadings.
 * iPadOS 18 supports **screen-sharing via SharePlay** and the same Control Center customizations, Photos app upgrades, Safari updates, and emoji Tapbacks found in **iOS 18.**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## MacOS 15 (Sequoia)
 
@@ -132,10 +136,6 @@ Adam Breeden/ZDNET
 * **Video meetings** are also getting an upgrade, with new backgrounds and a preview experience that allows you to see what you are about to share before sharing it. This feature works with popular video conferencing applications such as FaceTime and Zoom.
 * The **AI summarization** tool will live in Safari to help users process content like web pages and articles more efficiently. Safari will also assist users in discovering more helpful information about a page they are browsing when relevant, such as directions.
 * Apple also launched a new **Viewer experience**, which does for video what Reader does for text.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## VisionOS 2
 
@@ -154,10 +154,6 @@ Jason Hiner/ZDNET
 * Users can **cast content** from their iPhone, iPad, or Mac to the Vision Pro using AirPlay.
 * Apple is also making the Vision Pro available in more countries starting June 28\. You can see the full list [here](https://www.apple.com/newsroom/2024/06/apple-vision-pro-arrives-in-new-countries-and-regions-beginning-june-28/).
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## AirPods
 
 Jason Hiner/ZDNET
@@ -165,6 +161,10 @@ Jason Hiner/ZDNET
 * AirPods Pro are getting **Voice Isolation** to enhance call quality in noisier environments.
 * With the new **Siri Interactions**, users can now **nod or shake their head** "yes" or "no" when responding to Siri.
 * Apple is also releasing a **Personalized Spatial Audio API** for game developers to build around the AirPods' audio technology.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## tvOS 18
 
@@ -210,20 +210,19 @@ Screenshot by Nina Raemont/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/updated-2024-approved-prime-fee-free-timing-devices/"><u>[Updated] 2024 Approved Prime Fee-Free Timing Devices</u></a></li>
-<li><a href="https://extra-information.techidaily.com/updated-bridging-audio-and-web-mastering-the-podcast-rss-format/"><u>[Updated] Bridging Audio & Web Mastering the Podcast RSS Format</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/1725287474641-pcdvd/"><u>「PCへのDVDライティング入門：初めて楽しむレンタルまたは自作ディスク保存ガイド」</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/1725287790982-winxdvd-dvd/"><u>最適化されたWinXDVDの操作ガイド: 動画・音声・DVD再生方法一覧表</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/comprehensive-winxvideo-ai-masterclass-for-video-optimization-cutting-edge-guides-on-improvement-dubbing-and-conversion-processes/"><u>Comprehensive Winxvideo AI Masterclass for Video Optimization – Cutting-Edge Guides on Improvement, Dubbing, and Conversion Processes</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-fix-corrupt-video-files-of-honor-90-lite-using-video-repair-utility-by-stellar-video-repair-mobile-video-repair/"><u>How to Fix Corrupt video files of Honor 90 Lite using Video Repair Utility?</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-easy-ways-to-manage-your-realme-12-pro-5g-location-settings-drfone-by-drfone-virtual/"><u>In 2024, Easy Ways to Manage Your Realme 12 Pro 5G Location Settings | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-full-guide-on-mirroring-your-motorola-defy-2-to-your-pcmac-drfone-by-drfone-android/"><u>In 2024, Full Guide on Mirroring Your Motorola Defy 2 to Your PC/Mac | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-check-distance-and-radius-on-google-maps-for-your-vivo-v27e-drfone-by-drfone-virtual-android/"><u>In 2024, How to Check Distance and Radius on Google Maps For your Vivo V27e | Dr.fone</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/installing-handbrake-and-libdvdcss-for-video-converting-on-macwindows-11-infographic-tutorial/"><u>Installing HandBrake & Libdvdcss for Video Converting on Mac/Windows 11 (Infographic Tutorial)</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/mastering-the-art-of-converting-iso-files-to-dvd-format-on-windows-10-8-and-7/"><u>Mastering the Art of Converting ISO Files to DVD Format on Windows (10, 8 & 7)</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/top-free-whatsapp-video-editing-tools-get-downloads/"><u>Top Free WhatsApp Video Editing Tools - Get Downloads</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/troubleshooting-youtubes-401-unauthorized-error-a-step-by-step-guide-for-smartphones-and-tablets/"><u>Troubleshooting YouTube's '401 Unauthorized Error': A Step-by-Step Guide for Smartphones and Tablets</u></a></li>
-<li><a href="https://win-able.techidaily.com/ultimate-guide-how-to-perfectly-downsize-videos-for-instagram-without-a-watermark/"><u>Ultimate Guide: How to Perfectly Downsize Videos for Instagram Without a Watermark</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/what-does-enter-puk-code-mean-and-why-did-the-sim-get-puk-blocked-on-motorola-edge-2023-device-by-drfone-android/"><u>What Does Enter PUK Code Mean And Why Did The Sim Get PUK Blocked On Motorola Edge 2023 Device</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-get-rid-of-youtube-shorts-a-comprehensible-guide/"><u>[New] 2024 Approved Get Rid of YouTube Shorts A Comprehensible Guide</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-search-comments-on-youtube-quickly/"><u>[New] 2024 Approved How to Search Comments on YouTube Quickly?</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-harnessing-the-power-of-color-difference-keying-methods-for-2024/"><u>[New] Harnessing the Power of Color Difference Keying Methods for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-much-money-do-youtubers-make-per-view/"><u>[Updated] 2024 Approved How Much Money Do YouTubers Make Per View</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-use-google-trends-to-come-up-with-video-ideas/"><u>[Updated] In 2024, How to Use Google Trends to Come up with Video Ideas?</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-complete-hand-tracking-encyclopedia/"><u>[Updated] The Complete Hand-Tracking Encyclopedia</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-deciphering-facebook-activity-understanding-your-digital-footprint/"><u>2024 Approved Deciphering Facebook Activity Understanding Your Digital Footprint</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/bypass-reset-samsung-galaxy-a05-phone-screen-passcode-pattern-pin-by-drfone-android-unlock-android-unlock/"><u>Bypass/Reset Samsung Galaxy A05 Phone Screen Passcode/Pattern/Pin</u></a></li>
+<li><a href="https://win-dash.techidaily.com/complete-guide-to-acquire-newest-razer-peripheral-drivers-across-multiple-windows-platforms/"><u>Complete Guide to Acquire Newest Razer Peripheral Drivers Across Multiple Windows Platforms</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/fusing-melody-with-moments-music-and-voiceovers-in-reels-for-2024/"><u>Fusing Melody with Moments Music & Voiceovers in Reels for 2024</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/in-2024-decode-tiktok-expert-advice-for-macpc-users/"><u>In 2024, Decode TikTok Expert Advice for Mac/PC Users</u></a></li>
+<li><a href="https://driver-download.techidaily.com/step-by-step-instructions-for-downloading-and-updating-your-hp-deskjet-2700-printer-drivers/"><u>Step-by-Step Instructions for Downloading and Updating Your HP Deskjet 2700 Printer Drivers</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/troubleshooting-and-fixing-the-internal-error-of-video-schedulers-for-windows-10-users/"><u>Troubleshooting and Fixing the Internal Error of Video Schedulers for Windows 10 Users</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/be-analytics-how-to-analyze-your-and-competitors-youtube-video-for-2024/"><u>YouTube Analytics – How to Analyze Your and Competitor's YouTube Video for 2024</u></a></li>
 </ul></div>
 

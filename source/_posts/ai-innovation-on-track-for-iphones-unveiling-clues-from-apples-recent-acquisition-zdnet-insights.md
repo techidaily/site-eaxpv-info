@@ -1,7 +1,7 @@
 ---
 title: AI Innovation on Track for iPhones? Unveiling Clues From Apple's Recent Acquisition | ZDNet Insights
-date: 2024-10-29T13:46:29.502Z
-updated: 2024-11-02T04:55:43.885Z
+date: 2024-12-04T00:38:08.436Z
+updated: 2024-12-07T17:25:25.407Z
 tags:
   - apple
 categories:
@@ -32,6 +32,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
  Subscribe
 
 [See all](https://www.zdnet.com/newsletters/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What this means for the iPhone and Vision Pro
 
@@ -89,28 +93,20 @@ Apple tends to shy away from using buzzwords like 'AI' to describe its product f
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-fading-to-flourishing-top-strategies-for-overcoming-zero-views/"><u>[New] 2024 Approved From Fading to Flourishing Top Strategies for Overcoming Zero Views</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-fun-flicks-online-must-see-comedy-streaming-stations-for-2024/"><u>[New] Fun Flicks Online Must-See Comedy Streaming Stations for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-growth-gamble-buying-popularity-or-authentic-audience-expansion-for-2024/"><u>[New] Growth Gamble Buying Popularity or Authentic Audience Expansion for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-hidden-pitfalls-investing-in-fraudulent-subscribers/"><u>[New] In 2024, Hidden Pitfalls Investing in Fraudulent Subscribers</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-first-steps-in-youtube-tech-a-comprehensive-list/"><u>[Updated] 2024 Approved First Steps in YouTube Tech A Comprehensive List</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-google-meet-go-live-your-youtube-broadcast-companion/"><u>[Updated] 2024 Approved Google Meet Go Live - Your YouTube Broadcast Companion</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-download-youtube-tunes-without-risk-for-free/"><u>[Updated] 2024 Approved How to Download YouTube Tunes Without Risk for Free</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-the-role-of-lighting-in-professional-youtube-content-creation/"><u>[Updated] The Role of Lighting in Professional YouTube Content Creation</u></a></li>
-<li><a href="https://win-info.techidaily.com/comment-recuperer-definitivement-des-fichiers-supprimes-sans-logiciel-de-restauration/"><u>Comment Récupérer Définitivement Des Fichiers Supprimés Sans Logiciel De Restauration</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/comparing-streaming-tools-the-verdict-on-xsplit-and-obs-for-2024/"><u>Comparing Streaming Tools The Verdict on XSplit & OBS for 2024</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/get-your-audio-back-expert-tips-to-fix-broken-headphone-connections-in-windows-11/"><u>Get Your Audio Back: Expert Tips to Fix Broken Headphone Connections in Windows 11</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-oneplus-ace-2-by-phone-number-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track OnePlus Ace 2 by Phone Number | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/maximizing-windows-11-tablet-bar-accessibility/"><u>Maximizing Windows 11 Tablet Bar Accessibility</u></a></li>
-<li><a href="https://discover-fantastic.techidaily.com/naver/"><u>NAVER動画の記録とダウンロード手順 - ナレッジがあなたの右に!</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/lick-alternatives-indie-worthy-2023-releases-for-2024/"><u>Top Flick Alternatives Indie-Worthy 2023 Releases for 2024</u></a></li>
-<li><a href="https://discover-cheats.techidaily.com/top-utilitaire-de-migration-windows-11-assurer-une-transition-sans-probleme/"><u>Top Utilitaire De Migration Windows 11: Assurer Une Transition Sans Problème</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-11-fitness-youtube-video-ideas-to-keep-you-and-your-viewers-moving-for-2024/"><u>[New] 11 Fitness YouTube Video Ideas to Keep You and Your Viewers Moving for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-navigating-the-necessary-youtube-viewer-threshold/"><u>[New] 2024 Approved Navigating the Necessary Youtube Viewer Threshold</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-harvest-cost-free-visuals-from-leading-4-youtube-hubs/"><u>[New] In 2024, Harvest Cost-Free Visuals From Leading 4 YouTube Hubs</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-tailor-youtube-thumbnails-for-maximum-impact/"><u>[New] In 2024, How to Tailor YouTube Thumbnails for Maximum Impact</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-androids-top-12-ultimate-wildlife-game-picks/"><u>[Updated] 2024 Approved Android's Top 12 Ultimate Wildlife Game Picks</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-highlighted-viewer-insights-unveiled-for-2024/"><u>[Updated] Highlighted Viewer Insights Unveiled for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-much-could-you-make-on-youtube-snippets/"><u>[Updated] In 2024, How Much Could You Make on YouTube Snippets?</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-pros-hunters-rate-action-camera-winners/"><u>[Updated] Pros Hunters Rate Action Camera Winners</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-unique-themes-redesign-your-youtube-presence/"><u>[Updated] Unique Themes Redesign Your YouTube Presence</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-polarr-mastery-manual-transforming-digital-imagery-with-ease/"><u>2024 Approved Polarr Mastery Manual Transforming Digital Imagery with Ease</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/3-simple-methods-for-optimizing-your-videos-preparing-content-for-instagram-with-movavi/"><u>3 Simple Methods for Optimizing Your Videos: Preparing Content for Instagram with Movavi</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/beyond-the-buzzwords-the-leading-edits-without-vimeo/"><u>Beyond the Buzzwords The Leading Edits Without Vimeo</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-unlock-apple-iphone-12-pro-max-when-we-dont-have-apple-id-or-password-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone 12 Pro Max When We Dont Have Apple ID or Password?</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-the-best-android-unlock-software-for-honor-magic-6-device-top-5-picks-to-remove-android-locks-by-drfone-android/"><u>In 2024, The Best Android Unlock Software For Honor Magic 6 Device Top 5 Picks to Remove Android Locks</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/winx-dvd-ripper-platinum-effettua-una-copia-dei-tuoi-dvd-in-formato-mp4-h2-64hevc-rapidamente-opzione-ufficiale/"><u>WinX DVD Ripper Platinum: Effettua Una Copia Dei Tuoi DVD in Formato MP4 H.2 64/HEVC Rapidamente - Opzione Ufficiale</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137379/7443" target="_top" id="2137379">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137379" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137379/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 

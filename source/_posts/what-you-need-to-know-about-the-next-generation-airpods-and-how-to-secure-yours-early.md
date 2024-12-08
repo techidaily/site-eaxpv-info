@@ -1,7 +1,7 @@
 ---
 title: What You Need To Know About The Next Generation AirPods & How to Secure Yours Early!
-date: 2024-11-26T17:58:39.438Z
-updated: 2024-11-28T17:43:20.084Z
+date: 2024-12-05T23:56:23.287Z
+updated: 2024-12-07T18:22:04.658Z
 tags:
   - apple
 categories:
@@ -39,7 +39,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Camera Control button
@@ -51,7 +51,7 @@ The iPhone 16 receives a substantial update to its camera system. The device pos
 The button acts as a camera shortcut of sorts. Pushing it takes a photo, but the button also supports gesture controls. Swiping on the button with your thumb or finger lets you zoom in or out, while a double light-press presents you with various shooting modes, zoom lengths, photographic styles, and more. It's a fun and intuitive way to take photos. The best part about the button is that it's a great way to introduce more people to photography.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Siri 2.0 is arriving very soon
@@ -67,7 +67,7 @@ The new Siri can engage in more natural conversations. Users no longer need to c
 Everything mentioned so far is just the tip of the iceberg. It's been reported that next year Siri will be able to find and act on items on-device based on your context. For example, you could ask the AI what time your mom's flight is landing and Siri will pull together information from texts and emails, and then present this insight to you in a brief response.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. A new AI-powered chipset
@@ -114,16 +114,24 @@ Besides Apple Intelilgence, the A18 chipset should enable faster processing spee
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-discover-a-harmony-of-health-with-asmr-sounds/"><u>[Updated] In 2024, Discover a Harmony of Health with ASMR Sounds</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-unveiling-the-dji-spark-compact-drone-mastery-for-photographers/"><u>2024 Approved Unveiling the DJI Spark Compact Drone Mastery for Photographers</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-how-can-i-catch-the-regional-pokemon-without-traveling-on-apple-iphone-15-drfone-by-drfone-virtual-ios/"><u>In 2024, How Can I Catch the Regional Pokémon without Traveling On Apple iPhone 15 | Dr.fone</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/24-mastering-youtube-monetization-a-cpm-perspective/"><u>In 2024, Mastering YouTube Monetization A CPM Perspective</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/live-streaming-tools-discover-manycam-the-ultimate-virtual-camera-solution/"><u>Live Streaming Tools: Discover ManyCam, the Ultimate Virtual Camera Solution</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/live-streaming-ultimate-webcam-suite-master-manycam-features/"><u>Live Streaming Ultimate Webcam Suite: Master ManyCam Features</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/live-streaming-with-manycam-ultimate-virtual-camera-software-solutions/"><u>Live Streaming with ManyCam: Ultimate Virtual Camera Software Solutions</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/mastering-remote-broadcasts-with-manycam-leading-tools-for-virtual-camcorders-and-streaming-applications/"><u>Mastering Remote Broadcasts with ManyCam: Leading Tools for Virtual Camcorders & Streaming Applications</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/multiplecam-top-live-streaming-app-with-virtual-camera-capabilities/"><u>MultipleCam: Top Live Streaming App with Virtual Camera Capabilities</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/overview-of-the-best-motorola-moto-g84-5g-screen-mirroring-app-drfone-by-drfone-android/"><u>Overview of the Best Motorola Moto G84 5G Screen Mirroring App | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/resolved-overcoming-the-perpetual-load-screen-glitch-in-fortnite/"><u>Resolved! Overcoming the Perpetual Load Screen Glitch in Fortnite</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-affordable-customizable-templates-to-elevate-your-biz-talks/"><u>[New] Affordable, Customizable Templates to Elevate Your Biz Talks</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-from-novice-to-connoisseur-transform-your-sub4sub-experience-now-for-2024/"><u>[New] From Novice to Connoisseur Transform Your Sub4sub Experience Now for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-how-to-share-your-4k-videos-with-the-world-via-youtube-for-2024/"><u>[New] How to Share Your 4K Videos with the World via YouTube for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-historical-insights-the-most-relevant-youtube-channels-for-learners/"><u>[New] In 2024, Historical Insights - The Most Relevant YouTube Channels for Learners</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-oven-to-screen-cooking-videos-unveiled/"><u>[Updated] 2024 Approved From Oven to Screen Cooking Videos Unveiled</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-harmonizing-youtube-production-with-a-9-to-5-routine-for-2024/"><u>[Updated] Harmonizing YouTube Production with a 9-to-5 Routine for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-build-successful-youtube-advertisements-for-free-for-2024/"><u>[Updated] How to Build Successful YouTube Advertisements for Free for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-find-youtube-collaboration-partners-for-2024/"><u>[Updated] How to Find YouTube Collaboration Partners for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-halt-youtube-suggested-content-now/"><u>[Updated] In 2024, Halt YouTube Suggested Content Now</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-can-you-make-outstanding-youtube-outro/"><u>[Updated] In 2024, How Can You Make Outstanding YouTube Outro?</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/7-superior-mac-video-applications-for-2024/"><u>7 Superior Mac Video Applications for 2024</u></a></li>
+<li><a href="https://solve-news.techidaily.com/guide-pratique-pour-concevoir-des-scenarimages-les-etapes-essentielles-pour-depeindre-vos-idees-en-images/"><u>Guide Pratique Pour Concevoir Des Scénarimages : Les Étapes Essentielles Pour Dépeindre Vos Idées en Images !</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-stop-life360-from-tracking-you-on-oneplus-nord-3-5g-drfone-by-drfone-virtual-android/"><u>How to Stop Life360 from Tracking You On OnePlus Nord 3 5G? | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-tecno-spark-10c-phone-without-google-account-by-drfone-android/"><u>How to Unlock Tecno Spark 10C Phone without Google Account?</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-detect-and-remove-spyware-on-samsung-galaxy-a05-drfone-by-drfone-virtual-android/"><u>In 2024, How to Detect and Remove Spyware on Samsung Galaxy A05? | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/overcoming-slow-framerate-challenges-for-a-smoother-experience-in-outriders/"><u>Overcoming Slow Framerate Challenges for a Smoother Experience in Outriders</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/sharing-gameplay-joy-a-step-by-step-guide-to-gamersharing-on-xbox-one/"><u>Sharing Gameplay Joy: A Step-by-Step Guide to Gamersharing on Xbox One</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/streamlining-your-tasks-the-ultimate-guide-to-macos-finders-quick-actions-for-enhanced-efficiency-expert-tips-by-zdnet/"><u>Streamlining Your Tasks: The Ultimate Guide to MacOS Finder's Quick Actions for Enhanced Efficiency | Expert Tips by ZDNET</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/transforming-the-olympic-games-the-influence-of-artificial-intelligence-with-abbyy/"><u>Transforming the Olympic Games: The Influence of Artificial Intelligence with ABBYY</u></a></li>
 </ul></div>
 

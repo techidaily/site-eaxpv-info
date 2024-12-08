@@ -1,7 +1,7 @@
 ---
 title: Efficiently Downsizing HD/UHD MP4, MKV & AVI Files for Optimal Storage
-date: 2024-08-24 16:23:50
-updated: 2024-08-27 11:20:14
+date: 2024-12-02T17:21:29.911Z
+updated: 2024-12-07T19:48:46.610Z
 categories:
   - macxdvd
 thumbnail: https://thmb.techidaily.com/f3da9d43f76b9f516093793d9516d9565ec88b7802cbf1d4cc94115fe3f93e52.png
@@ -16,19 +16,24 @@ thumbnail: https://thmb.techidaily.com/f3da9d43f76b9f516093793d9516d9565ec88b780
 * [Support](https://tools.techidaily.com/macxdvd/products/)
 * [Free Download](https://tools.techidaily.com/macxdvd/products/)
 
-
-
 ![](https://www.macxdvd.com/mac-dvd-video-converter-how-to/../image-style/new-seo/icon7.png) [Home](https://tools.techidaily.com/macxdvd/products/) \> [Video](https://tools.techidaily.com/macxdvd/products/) \> [Compress Video](https://tools.techidaily.com/macxdvd/products/) \> Resize Video 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Resize Video HD Ultra HD of MP4 MKV AVI MPEG to Smaller Size?
-
-
 
 ![](https://www.macxdvd.com/mac-dvd-video-converter-how-to/../image-style/new-seo/icon6.png) By [Candice Liu](https://tools.techidaily.com/macxdvd/products/) ｜Last updated on March 01, 2021
 
 * [![](https://www.macxdvd.com/mac-dvd-video-converter-how-to/../image-style/new-seo/share-fa.jpg)](https://www.facebook.com/sharer/sharer.php?u=https://www.macxdvd.com/mac-dvd-video-converter-how-to/resize-video-for-uploading.htm)
 * [![](https://www.macxdvd.com/mac-dvd-video-converter-how-to/../image-style/new-seo/share-tw.jpg)](https://twitter.com/intent/tweet?url=https://www.macxdvd.com/mac-dvd-video-converter-how-to/resize-video-for-uploading.htm&text=)
 * [![](https://www.macxdvd.com/mac-dvd-video-converter-how-to/../image-style/new-seo/share-email.jpg)](https://www.macxdvd.com/mac-dvd-video-converter-how-to/mailto:info@example.com?&subject=&body=https://www.macxdvd.com/mac-dvd-video-converter-how-to/resize-video-for-uploading.htm)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 * [![](https://www.macxdvd.com/mac-dvd-video-converter-how-to/../image-style/new-seo/share-in.jpg)](https://www.linkedin.com/shareArticle?mini=true&url=https://www.macxdvd.com/mac-dvd-video-converter-how-to/resize-video-for-uploading.htm&title=&summary=&source=)
 
 It's the truth that your Sony or Canon camera's videos can not function well on your mobile device like Android, iPhone, iPad. Reasons are that: one, the HD camera's videos are usually formatted with high definition format like MKV, AVCHD, MTS, TS, M2TS, etc. Higher quality means bigger file size; two, the HD camera generally produces a video clip up to several GBs. Guess how much free space your mobile device are left for videos with GB in size, esp for your iPhones?
@@ -48,6 +53,10 @@ To downsize HD and even 4K UHD videos, you're suggested to take the best-ever - 
 
 [Download for Mac](https://tools.techidaily.com/macxdvd/products/) [Download for PC](https://tools.techidaily.com/macxdvd/products/) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Top 4 Ways to Resize Video for Smaller Size and Shorter Duration
 
 ### \[Option 1\]: Trim Video to Shorter Length
@@ -58,6 +67,10 @@ Take the same steps of load target video in the original format as option 2 did.
 
 ![Cut Videos](https://www.macxdvd.com/mac-dvd-video-converter-how-to/../mac-video-converter-pro/step-image/edit-video.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### \[Option 2\]: Crop the Frame/Display Size 
 
 As a [video size converter](https://tools.techidaily.com/macxdvd/products/), MacX Video Converter Pro enables you to crop videos display and change the aspect ratio in such a way to resize the video and make the file to better suit the default player of YouTube or other online video services. 
@@ -65,6 +78,10 @@ As a [video size converter](https://tools.techidaily.com/macxdvd/products/), Mac
 Take the same steps of option 3 to enter the edit interface and click "Crop & Expand" button. > Check the box of the "Enable Crop". Then the position and size you want to crop the video display are available to adjust. For example, black borders are undesirable enough to crop out for full screen playback. More or less, it's another way to [adjust the aspect ratio](https://tools.techidaily.com/macxdvd/products/). For example, YouTube supports the best video playback in a ratio of 16:9, make sure to crop the video in this ratio. 
 
 ![Crop to Resize Video](https://www.macxdvd.com/mac-dvd-video-converter-how-to/../mac-video-converter-pro/step-image/resize-video-on-mac-crop.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### \[Option 3\]: Lower the Video Bit Rate and Resolution
 
@@ -79,6 +96,10 @@ As we know, bit rate and resolution greatly influence the size of the video. The
 **Step 4: Start reducing video size**. Hit "RUN" button, and this [best video compression software](https://tools.techidaily.com/macxdvd/products/) will be finshed in a quick time.
 
 ![compress video size](https://www.macxdvd.com/mac-dvd-video-converter-how-to/../mac-video-converter-pro/step-image/mvcp-ipad-settings.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### \[Option 4\]: Compress Video to Smaller Sized Video Format
 
@@ -101,9 +122,11 @@ ABOUT THE AUTHOR
 
 [Candice Liu ![](https://www.macxdvd.com/mac-dvd-video-converter-how-to/../image-style/new-seo/share-in1.jpg)](https://www.linkedin.com/in/candice-liu-444483a3/) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Candice's particularly skilled in writing and sharing video-related contents. Her guides cover from deep-seated video/audio parameters, to media entertainment on different platforms. She also enjoys shooting and processing videos by herself for a more reliable basis of informative info with her articles, which are never at the expense of eliminating an entertaining read.
-
-
 
 Related Articles
 
@@ -117,6 +140,10 @@ Related Articles
 
 ![](https://www.macxdvd.com/mac-dvd-video-converter-how-to/../image-style/new-seo/pic5.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 [How to Merge/Join/Combine Multiple MP4 Files into One](https://tools.techidaily.com/macxdvd/products/) 
 
 ![](https://www.macxdvd.com/mac-dvd-video-converter-how-to/../image-style/new-seo/pic4.jpg)
@@ -129,9 +156,11 @@ Related Articles
 
 ![](https://www.macxdvd.com/mac-dvd-video-converter-how-to/../image-style/new-seo/pic2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 [How to Compress GoPro Video for YouTube Facebook](https://tools.techidaily.com/macxdvd/products/) 
-
-
 
 ![Digiarty Software](https://www.macxdvd.com/mac-dvd-video-converter-how-to/../icon/logo.png) 
 
@@ -142,6 +171,10 @@ Digiarty Software, Inc. (MacXDVD) is a leader in delivering stable multimedia so
 * [MacX DVD Ripper Pro](https://tools.techidaily.com/macxdvd/products/)
 * [MacX Video Converter Pro](https://tools.techidaily.com/macxdvd/products/)
 * [MacX MediaTrans](https://tools.techidaily.com/macxdvd/products/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Tips and Tricks
 
@@ -159,8 +192,6 @@ Digiarty Software, Inc. (MacXDVD) is a leader in delivering stable multimedia so
 * [Contact Us >>](https://tools.techidaily.com/macxdvd/products/)
 * [Partner >>](https://tools.techidaily.com/macxdvd/products/)
 
-
-
 [Home](https://tools.techidaily.com/macxdvd/products/) | [About](https://tools.techidaily.com/macxdvd/products/) | [Privacy Policy](https://tools.techidaily.com/macxdvd/products/) | [Terms and Conditions](https://tools.techidaily.com/macxdvd/products/) | [License Agreement](https://tools.techidaily.com/macxdvd/products/) | [Resource](https://tools.techidaily.com/macxdvd/products/) | [News](https://tools.techidaily.com/macxdvd/products/) | [Contact Us](https://tools.techidaily.com/macxdvd/products/)
 
 Copyright © 2024 Digiarty Software, Inc (MacXDVD). All rights reserved
@@ -174,11 +205,30 @@ Digiarty Software is not developed by or affiliated with Apple Inc.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-launching-into-content-creation-account-setup-on-youtube/"><u>[New] 2024 Approved Launching Into Content Creation Account Setup on YouTube</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-streamlined-approaches-to-documenting-whatsapp-discussions-for-2024/"><u>[Updated] Streamlined Approaches to Documenting WhatsApp Discussions for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/2024s-elite-armor-expertly-tested-and-reviewed-best-case-options-for-iphone-16-and-pro-models-zdnet/"><u>2024'S Elite Armor: Expertly Tested and Reviewed Best Case Options for iPhone 16 and Pro Models | ZDNET</u></a></li>
+<li><a href="https://fox-making.techidaily.com/1728464318939-aomei-backupper/"><u>AOMEI Backupper対比:異なるバージョンを選ぶためのポイント</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/are-the-newly-released-2022-airpods-pro-worth-your-money-a-comprehensive-review-by-an-expert-zdnet-findings/"><u>Are the Newly Released 2022 AirPods Pro Worth Your Money? A Comprehensive Review by an Expert | ZDNET Findings</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/explore-the-most-effective-mac-programs-curated-list-from-zdnet/"><u>Explore the Most Effective Mac Programs - Curated List From ZDNet</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/how-samsung-reclaimed-the-lead-over-apples-shipments-as-competitors-narrow-the-gap-insights-from-zdnet/"><u>How Samsung Reclaimed the Lead Over Apple's Shipments as Competitors Narrow the Gap – Insights From ZDNET</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-realme-11-5g-to-outlook-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Realme 11 5G to Outlook | Dr.fone</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/install-new-ethernet-driver-compatible-with-usb-30-for-windows/"><u>Install New Ethernet Driver Compatible with USB 3.0 for Windows</u></a></li>
+<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-pictures-from-honor-x50-by-fonelab-android-recover-pictures/"><u>Possible solutions to restore deleted pictures from Honor X50.</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/pre-order-apple-vision-pro-coming-soon-in-store-arrival-predicted-for-feb-2-tech-news/"><u>Pre-Order Apple Vision Pro Coming Soon: In-Store Arrival Predicted for Feb 2 - Tech News</u></a></li>
+<li><a href="https://win-dash.techidaily.com/step-by-step-guide-for-finding-and-installing-official-toshiba-drivers-on-windows-pcs/"><u>Step-by-Step Guide for Finding and Installing Official Toshiba Drivers on Windows PCs</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/to-upgrade-or-not-expert-advice-on-choosing-the-iphone-n-top-reasons-by-zdnets-editorial-team/"><u>To Upgrade or Not: Expert Advice on Choosing the iPhone N - Top Reasons by ZDNet's Editorial Team</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-5-ideal-houseplants-for-boosting-productivity-in-your-work-from-home-space/"><u>Top 5 Ideal Houseplants for Boosting Productivity in Your Work-From-Home Space</u></a></li>
+<li><a href="https://techtrends.techidaily.com/top-5-methods-for-computer-audio-recording-with-movavi-a-comprehensive-guide/"><u>Top 5 Methods for Computer Audio Recording with Movavi: A Comprehensive Guide</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/unlocking-the-full-potential-of-apple-vision-pro-insider-tips-for-landing-a-prime-in-store-test-drive-cnet-reviews/"><u>Unlocking the Full Potential of Apple Vision Pro: Insider Tips for Landing a Prime In-Store Test Drive | CNET Reviews</u></a></li>
+</ul></div>
+

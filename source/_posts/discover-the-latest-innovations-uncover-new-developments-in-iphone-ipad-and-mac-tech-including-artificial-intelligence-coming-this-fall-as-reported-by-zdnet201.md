@@ -1,7 +1,7 @@
 ---
 title: Discover the Latest Innovations! Uncover New Developments in iPhone, iPad, and Mac Tech Including Artificial Intelligence Coming This Fall as Reported by ZDNET
-date: 2024-11-22T18:18:11.908Z
-updated: 2024-11-28T16:51:14.981Z
+date: 2024-12-03T17:31:13.551Z
+updated: 2024-12-07T17:35:28.073Z
 tags:
   - apple
 categories:
@@ -38,6 +38,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Apple Intelligence (AI)
 
 Maria Diaz/ZDNET
@@ -60,6 +64,10 @@ Maria Diaz/ZDNET
 * In the Notes app, users can **record and transcribe audio**, which Apple Intelligence will generate a text summary of. This experience is also available in the Notes phone app.
 * Apple Intelligence is free on iOS 18, iPadOS 18, and MacOS Sequoia, and will be available to try in English only this summer.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Partnership with OpenAI
 
 Jason Hiner/ZDNET
@@ -69,7 +77,7 @@ Jason Hiner/ZDNET
 * The ChatGPT integration will be coming to iOS 18, iPadOS 18, and MacOS Sequoia later this year.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## iOS 18
@@ -91,7 +99,7 @@ Adam Breeden/ZDNET
 * The **Calendar app** can now pull from the Reminders app for a more seamless schedule overview.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## WatchOS 11
@@ -107,10 +115,6 @@ Adam Breeden/ZDNET
 * With watchOS, users will get suggestions on the best photo options for their **watch face** from their photo library based on criteria such as aesthetics, composition, facial expressions, and more. The face can also be customized with different sizes, layouts, and fonts.
 * **Check In** is available on Apple Watch, even during workouts, to help users stay safe. **Translate** is also coming to Apple Watch so users can translate text right from their wrists.
 * Another notable change is that the **double tap gesture** can be used to scroll through apps.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## iPadOS 18
 
@@ -133,10 +137,6 @@ Adam Breeden/ZDNET
 * The **AI summarization** tool will live in Safari to help users process content like web pages and articles more efficiently. Safari will also assist users in discovering more helpful information about a page they are browsing when relevant, such as directions.
 * Apple also launched a new **Viewer experience**, which does for video what Reader does for text.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## VisionOS 2
 
 Jason Hiner/ZDNET
@@ -155,7 +155,7 @@ Jason Hiner/ZDNET
 * Apple is also making the Vision Pro available in more countries starting June 28\. You can see the full list [here](https://www.apple.com/newsroom/2024/06/apple-vision-pro-arrives-in-new-countries-and-regions-beginning-june-28/).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## AirPods
@@ -210,21 +210,17 @@ Screenshot by Nina Raemont/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/updated-lifecam-videoapp-quality-checkup-for-2024/"><u>[Updated] LifeCam VideoApp Quality Checkup for 2024</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/updated-seamless-guest-entry-into-your-peers-tiktok-lives/"><u>[Updated] Seamless Guest Entry Into Your Peers' TikTok Lives</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-the-essential-blueprint-for-finding-and-enjoying-premium-cricket-streams/"><u>[Updated] The Essential Blueprint for Finding and Enjoying Premium Cricket Streams</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/1725287293079-dvdmac/"><u>市販・レンタルDVDからMacへの移行手順：ステップバイステップガイド</u></a></li>
-<li><a href="https://techtrends.techidaily.com/conversion-gratuite-du-fichier-flac-en-format-mp3mp4-en-ligne-avec-movavi/"><u>Conversion Gratuite Du Fichier FLAC en Format MP3/MP4 en Ligne Avec Movavi</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/easy-tutorial-on-transforming-mtsm2ts-video-formats-compatible-with-windows-movie-maker/"><u>Easy Tutorial on Transforming MTS/M2TS Video Formats Compatible with Windows Movie Maker</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/effective-techniques-for-correcting-av-desynchronization-in-mkv-files/"><u>Effective Techniques for Correcting AV Desynchronization in MKV Files</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/effortless-blu-ray-copying-from-disc-to-computer-top-secure-decrypting-programs/"><u>Effortless Blu-Ray Copying From Disc to Computer: Top Secure Decrypting Programs</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/ejemplo-claro-y-efectivo-sobre-como-transferir-dvds-sin-perdida-de-calidad-usando-un-mac-big-sur/"><u>Ejemplo Claro Y Efectivo Sobre Cómo Transferir DVDs Sin Pérdida De Calidad Usando Un Mac Big Sur</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/the-symphony-of-screens-coordinated-content-consumption/"><u>The Symphony of Screens Coordinated Content Consumption</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-get-back-lost-call-history-from-motorola-razr-40-by-fonelab-android-recover-call-logs/"><u>The way to get back lost call history from Motorola Razr 40</u></a></li>
-<li><a href="https://apple-account.techidaily.com/tips-and-tricks-for-apple-id-locked-issue-from-apple-iphone-13-pro-max-by-drfone-ios/"><u>Tips and Tricks for Apple ID Locked Issue From Apple iPhone 13 Pro Max</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/ultimate-guide-achieving-top-quality-compression-of-videos-using-imovie/"><u>Ultimate Guide: Achieving Top-Quality Compression of Videos Using iMovie</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/k-higher-engagement-the-power-of-precise-timestamping-for-2024/"><u>Unlock Higher Engagement The Power of Precise Timestamping for 2024</u></a></li>
-<li><a href="https://discover-able.techidaily.com/what-is-a-axx-file-unveiling-its-role-in-software-compatibility/"><u>What Is a .AXX File? Unveiling Its Role in Software Compatibility</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/windows-movie-maker-win1110/"><u>Windows Movie Maker 在 Win11/10 系统中修复故障 - 解决无声音和其他问题</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-the-gleeful-twittersphere/"><u>[New] 2024 Approved The Gleeful Twittersphere</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/uy-subscribers-wisely-watch-your-numbers-soar/"><u>[New] Buy Subscribers Wisely, Watch Your Numbers Soar!</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-how-to-convert-youtube-to-igtv-videos-3-ways-for-2024/"><u>[New] How to Convert YouTube to IGTV Videos? [3 Ways] for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-free-end-credits-excellence-top-6-tutorials/"><u>[New] In 2024, Free End Credits Excellence Top 6 Tutorials</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-gain-traction-on-youtube-deciphering-ranking-principles/"><u>[Updated] 2024 Approved Gain Traction on YouTube Deciphering Ranking Principles</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-discovering-the-best-in-screen-recording/"><u>[Updated] Discovering the Best in Screen Recording</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-harness-your-view-count-cross-platform-studio-methods/"><u>[Updated] In 2024, Harness Your View Count Cross-Platform Studio Methods</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-transforming-scenes-with-ease-your-gopro-time-lapse-guide/"><u>2024 Approved Transforming Scenes with Ease Your GoPro Time-Lapse Guide</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/advanced-ai-debate-is-gemini-the-better-choice-over-chatgpt-plus/"><u>Advanced AI Debate: Is Gemini the Better Choice Over ChatGPT Plus?</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/95806971-9781944529321-consciousness-and-extraordinary-phenomena/"><u>Consciousness and Extraordinary Phenomena | Free Book</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/pace-profiles-analyzing-chatgpt-4-and-its-predecessor-35/"><u>Pace Profiles: Analyzing ChatGPT-4 and Its Predecessor, 3.5</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/user-experience-shifted-the-need-for-apple-to-facilitate-android-conversion-discussed-on-zdnet/"><u>User Experience Shifted: The Need for Apple to Facilitate Android Conversion Discussed on ZDNet</u></a></li>
 </ul></div>
 

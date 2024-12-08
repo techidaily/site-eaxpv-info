@@ -1,7 +1,7 @@
 ---
 title: "Magic at Your Fingertips: Apple's Cutting-Edge On-Device AI Image Tool Outshines DALL-E | InnovationHub"
-date: 2024-11-21T16:56:30.778Z
-updated: 2024-11-28T17:06:00.584Z
+date: 2024-12-01T19:02:42.618Z
+updated: 2024-12-07T16:09:22.208Z
 tags:
   - apple
 categories:
@@ -38,10 +38,6 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Apple Intelligence (AI)
 
 Maria Diaz/ZDNET
@@ -65,7 +61,7 @@ Maria Diaz/ZDNET
 * Apple Intelligence is free on iOS 18, iPadOS 18, and MacOS Sequoia, and will be available to try in English only this summer.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Partnership with OpenAI
@@ -75,6 +71,10 @@ Jason Hiner/ZDNET
 * Apple also confirmed its partnership with OpenAI by integrating [ChatGPT](https://www.zdnet.com/article/what-is-chatgpt-and-why-does-it-matter-heres-everything-you-need-to-know/) with Siri. With a user's permission, Siri can send a request to ChatGPT for help. For example, if you ask Siri for assistance on a task it deems better for ChatGPT, Siri will suggest you use the chatbot instead and forward your request. ChatGPT's writing capabilities can also be leveraged within certain writing tasks.
 * Users can access ChatGPT via this integration for free, and OpenAI will not log their data. ChatGPT Plus users can connect their subscriptions to access more advanced features, in which case OpenAI's data usage policies apply.
 * The ChatGPT integration will be coming to iOS 18, iPadOS 18, and MacOS Sequoia later this year.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## iOS 18
 
@@ -109,7 +109,7 @@ Adam Breeden/ZDNET
 * Another notable change is that the **double tap gesture** can be used to scroll through apps.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## iPadOS 18
@@ -122,6 +122,10 @@ Adam Breeden/ZDNET
 * Handwriting in Notes also got an upgrade with **Smart** **Script**, which refines users' writing to make it more legible while keeping the authenticity of the user's handwriting style. The feature can also match copied and pasted text to the user's handwriting. Typed text was also enhanced, with five new highlight colors and the ability to toggle sections under headings or subheadings.
 * iPadOS 18 supports **screen-sharing via SharePlay** and the same Control Center customizations, Photos app upgrades, Safari updates, and emoji Tapbacks found in **iOS 18.**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## MacOS 15 (Sequoia)
 
 Adam Breeden/ZDNET
@@ -132,10 +136,6 @@ Adam Breeden/ZDNET
 * **Video meetings** are also getting an upgrade, with new backgrounds and a preview experience that allows you to see what you are about to share before sharing it. This feature works with popular video conferencing applications such as FaceTime and Zoom.
 * The **AI summarization** tool will live in Safari to help users process content like web pages and articles more efficiently. Safari will also assist users in discovering more helpful information about a page they are browsing when relevant, such as directions.
 * Apple also launched a new **Viewer experience**, which does for video what Reader does for text.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## VisionOS 2
 
@@ -154,10 +154,6 @@ Jason Hiner/ZDNET
 * Users can **cast content** from their iPhone, iPad, or Mac to the Vision Pro using AirPlay.
 * Apple is also making the Vision Pro available in more countries starting June 28\. You can see the full list [here](https://www.apple.com/newsroom/2024/06/apple-vision-pro-arrives-in-new-countries-and-regions-beginning-june-28/).
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## AirPods
 
 Jason Hiner/ZDNET
@@ -165,6 +161,10 @@ Jason Hiner/ZDNET
 * AirPods Pro are getting **Voice Isolation** to enhance call quality in noisier environments.
 * With the new **Siri Interactions**, users can now **nod or shake their head** "yes" or "no" when responding to Siri.
 * Apple is also releasing a **Personalized Spatial Audio API** for game developers to build around the AirPods' audio technology.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## tvOS 18
 
@@ -210,16 +210,18 @@ Screenshot by Nina Raemont/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-best-9-screen-free-adventures-in-mobile-gaming-android-edition/"><u>2024 Approved Best 9 Screen-Free Adventures in Mobile Gaming (Android Edition)</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/2024windows-and-macos-mkvmp4/"><u>2024年版頂級Windows & macOS MKV到MP4轉檔器 - 選出最佳二十大</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/best-mac-dvd-decryption-software-of-2024-unlocking-secure-discs/"><u>Best Mac DVD Decryption Software of 2024: Unlocking Secure Discs</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/1725284467343-dvdpc/"><u>DVD視聴手引き：PCやモバイルデバイス上で完全再生ガイド</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/full-guide-to-unlock-your-infinix-smart-8-by-drfone-android/"><u>Full Guide to Unlock Your Infinix Smart 8</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/how-to-safely-acquire-and-duplicate-the-first-season-of-squid-game-for-personal-use/"><u>How to Safely Acquire & Duplicate the First Season of Squid Game for Personal Use</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-honor-magic-v2-to-iphone-xs11-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Honor Magic V2 to iPhone XS/11 | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-a-samsung-galaxy-a05s-easily-by-drfone-android/"><u>In 2024, How To Unlock a Samsung Galaxy A05s Easily?</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-social-strategies-for-disseminating-health-information/"><u>In 2024, Social Strategies for Disseminating Health Information</u></a></li>
-<li><a href="https://apple-account.techidaily.com/turning-off-two-factor-authentication-from-apple-iphone-xs-5-tips-you-must-know-by-drfone-ios/"><u>Turning Off Two Factor Authentication From Apple iPhone XS? 5 Tips You Must Know</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/dvdiphoneipad/"><u>デジアーティソフトウェアの中心 - 高画質DVDコピー、iPhoneコピー、iPadコピー</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-become-a-youtube-partner-you-need-10000-views-now/"><u>[New] 2024 Approved How to Become a YouTube Partner - You Need 10,000 Views Now</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-cinematographic-cuisine-expert-tips-on-filming-edibles-for-2024/"><u>[New] Cinematographic Cuisine Expert Tips on Filming Edibles for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-fifas-favorite-footage-charted-on-youtube-for-2024/"><u>[New] FIFA's Favorite Footage Charted on YouTube for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-hashtag-mastery-pathway-to-6-figure-youtube-impact-for-2024/"><u>[New] Hashtag Mastery Pathway to 6-Figure Youtube Impact for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-ignite-imagination-crafting-engaging-content-for-channels/"><u>[Updated] 2024 Approved Ignite Imagination Crafting Engaging Content for Channels</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-glowing-android-video-guide-simplified-methods/"><u>[Updated] Glowing Android Video Guide - Simplified Methods</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-go-viral-on-youtube-with-impressive-music-reaction-content-for-2024/"><u>[Updated] How to Go Viral on YouTube with Impressive Music Reaction Content for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-hone-your-livestream-skills-on-youtubes-premier-platform/"><u>[Updated] In 2024, Hone Your Livestream Skills on YouTube's Premier Platform</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-hourly-hitlist-the-leading-youtube-videos-by-watch-time/"><u>[Updated] In 2024, Hourly Hitlist The Leading YouTube Videos by Watch Time</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-everything-you-need-to-know-about-unlocked-iphone-15-by-drfone-ios/"><u>In 2024, Everything You Need To Know About Unlocked iPhone 15</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-top-11-free-apps-to-check-imei-on-google-phones-by-drfone-android/"><u>In 2024, Top 11 Free Apps to Check IMEI on Google Phones</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-why-does-the-pokemon-go-battle-league-not-available-on-xiaomi-redmi-k70-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Why does the pokemon go battle league not available On Xiaomi Redmi K70 Pro | Dr.fone</u></a></li>
+<li><a href="https://fox-access.techidaily.com/why-my-photos-are-upside-down-on-instagram-feed/"><u>Why My Photos Are Upside Down on Instagram Feed?</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Free Watch Now! The Ultimate Selection of 10 Iconic Hollywood Horror Flicks
-date: 2024-08-24 11:27:28
-updated: 2024-08-27 11:15:42
+date: 2024-12-04T17:08:16.714Z
+updated: 2024-12-07T16:11:57.335Z
 categories:
   - macxdvd
 thumbnail: https://thmb.techidaily.com/84523bff91adaad5f05da4dc5462c4e758d2c84a6b7c5d09810fe5f525ef9fc4.jpg
@@ -16,13 +16,9 @@ thumbnail: https://thmb.techidaily.com/84523bff91adaad5f05da4dc5462c4e758d2c84a6
 * [Support](https://tools.techidaily.com/macxdvd/products/)
 * [Free Download](https://tools.techidaily.com/macxdvd/products/)
 
-
-
 ![](https://www.macxdvd.com/mac-dvd-video-converter-how-to/../image-style/new-seo/icon7.png) [Home](https://tools.techidaily.com/macxdvd/products/) \> [how-tos](https://tools.techidaily.com/macxdvd/products/) \> [Movies](https://tools.techidaily.com/macxdvd/products/) \> Top 10 Hollywood horror movies
 
 ## List Top 10 Horror Movies Hollywood Cannot Remake| Download Tips
-
-
 
 _This article will list the top 10 Hollywood Horror movies and show you how to free download horror movies of Hollywood for offline playback._
 
@@ -33,9 +29,17 @@ _This article will list the top 10 Hollywood Horror movies and show you how to f
 * [![](https://www.macxdvd.com/mac-dvd-video-converter-how-to/../image-style/new-seo/share-email.jpg)](https://www.macxdvd.com/mac-dvd-video-converter-how-to/mailto:info@example.com?&subject=&body=https://www.macxdvd.com/mac-dvd-video-converter-how-to/top-10-hollywood-horror-movies.htm)
 * [![](https://www.macxdvd.com/mac-dvd-video-converter-how-to/../image-style/new-seo/share-in.jpg)](https://www.linkedin.com/shareArticle?mini=true&url=https://www.macxdvd.com/mac-dvd-video-converter-how-to/top-10-hollywood-horror-movies.htm&title=&summary=https://www.macxdvd.com/mac-dvd-video-converter-how-to/top-10-hollywood-horror-movies.htm&source=)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Desperate for some horror movies to download and watch at Halloween but find nothing that scare you the most? The internet is flooded with a lot of top 10 best scariest movies list for Halloween, crowing about scaring the pants off you. But most of these rounds up are standardized based on ghosts, zombies, monsters and bloodshed while underestimating these elements like remorseless killer, spooky music, suspense, dismemberment, creepy, crawly things, etc.
 
 So in this article, a more authoritative top 10 list of horror films in Hollywood history is compiled with all the elements that truly make up of a scary story considered and shares you some solutions to free download movies with the aid of a [free movie downloader](https://tools.techidaily.com/macxdvd/products/).
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Table of Contents
 
@@ -45,6 +49,10 @@ So in this article, a more authoritative top 10 list of horror films in Hollywoo
 
 ## Best Horror Films from Hollywood - Top 10 List
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 1\. Halloween
 
 * IMDb rating: 7.9/10
@@ -53,6 +61,10 @@ So in this article, a more authoritative top 10 list of horror films in Hollywoo
 * Release Date: Oct 25, 1978 [Part 3: Most-anticipated horror movies of 2017-2018](https://tools.techidaily.com/macxdvd/products/)
 
 ![Halloween](https://www.macxdvd.com/mac-dvd-video-converter-how-to/article-image/halloween-movie-178.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Halloween
 
@@ -84,6 +96,10 @@ Nightmare on Elm Street
 
 Four decades after Laurie Strode escaped from the madman in Halloween 1978, her final confrontation with Michael Myer begins. This is the sequel to the classic Hollywood thriller movie Halloween, still terrifying enough for a Halloween night. You can free download horror movie from some torrent sites like The Pirate Bay to enjoy the creepiness.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 4\. Alien
 
 * IMDb rating: 8.5/10
@@ -92,6 +108,10 @@ Four decades after Laurie Strode escaped from the madman in Halloween 1978, her 
 * Release Date: May 23, 1979
 
 ![Alien](https://www.macxdvd.com/mac-dvd-video-converter-how-to/article-image/aliens.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Alien
 
@@ -128,6 +148,10 @@ It's ridiculous not placing The Exorcist in the top 10 Hollywood horror movies l
 
 _Notice: MacXDVD Software doesn't advocate any reproduce, distribute, transmit, broadcast or sell any content for any other purposes without prior written permission of YouTube or the respective licensors of the content. Please refer to YouTube terms of service before doing so._ 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Top 3 Ways to Watch the Best Hollywood Horror Movies
 
 It's traditional to pick for the best movies of all time for when you need something scary to watch at Halloween but it's up to you to choose the way to play these blockbusters. Some are after good quality while some are looking for instant playback. Here we provide the top 3 most-asked ways for you to enjoy the top 10 Hollywood horror films and even other films with ease.
@@ -135,6 +159,10 @@ It's traditional to pick for the best movies of all time for when you need somet
 1\. **Online streaming** \- There are many online movie streaming services such as Netflix, Crackle, YouTube, Tubi TV, etc, allowing you to watch movies online, including horror movies, [best Hollywood Movies 2024](https://tools.techidaily.com/macxdvd/products/), through computers, game consoles, phones and tablets. Just watch the scary films on Netflix as an example with the following steps:
 
 ![Watch horror movies online](https://www.macxdvd.com/mac-dvd-video-converter-how-to/article-image/backup-1.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Watch horror movies online
 
@@ -193,8 +221,6 @@ Step 1: Free download movie DVD ripper on Mac and windows, load the DVD by hitti
 9. Rings – Feb 3rd, 2017
 10. The Bye Bye Man - Jan 13th, 2017
 
-
-
 Related Articles
 
 ![](https://www.macxdvd.com/mac-dvd-video-converter-how-to/../image-style/new-seo/pic7.jpg)
@@ -202,6 +228,10 @@ Related Articles
 [Free Download Horror Movies for Halloween Season](https://tools.techidaily.com/macxdvd/products/) 
 
 ![](https://www.macxdvd.com/mac-dvd-video-converter-how-to/../image-style/new-seo/pic6.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 [\[Easy & Fast\] Free Download Halloween Theme Songs Music](https://tools.techidaily.com/macxdvd/products/) 
 
@@ -221,9 +251,11 @@ Related Articles
 
 [Best Hollywood Comedy Movies List Recently & of All Time](https://tools.techidaily.com/macxdvd/products/)
 
-
-
 ![Digiarty Software](https://www.macxdvd.com/mac-dvd-video-converter-how-to/../icon/logo.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Digiarty Software, Inc. (MacXDVD) is a leader in delivering stable multimedia software applications for worldwide users since its establishment in 2006.
 
@@ -249,8 +281,6 @@ Digiarty Software, Inc. (MacXDVD) is a leader in delivering stable multimedia so
 * [Contact Us >>](https://tools.techidaily.com/macxdvd/products/)
 * [Partner >>](https://tools.techidaily.com/macxdvd/products/)
 
-
-
 [Home](https://tools.techidaily.com/macxdvd/products/) | [About](https://tools.techidaily.com/macxdvd/products/) | [Privacy Policy](https://tools.techidaily.com/macxdvd/products/) | [Terms and Conditions](https://tools.techidaily.com/macxdvd/products/) | [License Agreement](https://tools.techidaily.com/macxdvd/products/) | [Resource](https://tools.techidaily.com/macxdvd/products/) | [News](https://tools.techidaily.com/macxdvd/products/) | [Contact Us](https://tools.techidaily.com/macxdvd/products/)
 
 Copyright © 2024 Digiarty Software, Inc (MacXDVD). All rights reserved
@@ -264,11 +294,31 @@ Digiarty Software is not developed by or affiliated with Apple Inc.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-smartphone-cinematics-samsungs-guide-to-time-lapse/"><u>[New] In 2024, Smartphone Cinematics Samsung's Guide to Time-Lapse</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-tips-for-enabling-grid-on-google-meet/"><u>[New] In 2024, Tips for Enabling Grid on Google Meet</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-unleashing-the-power-of-whiteboards-in-google-meet-on-diverse-devices-for-seamless-engagement-for-2024/"><u>[New] Unleashing the Power of Whiteboards in Google Meet on Diverse Devices for Seamless Engagement for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-navigating-video-production-a-compreran-guide-to-screencasting-for-2024/"><u>[Updated] Navigating Video Production A Compreran Guide to Screencasting for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/conversor-de-video-gratuito-on-line-formatos-amv-e-avi-para-video-tudo-facilitado-pelo-movavi/"><u>Conversor De Vídeo Gratuito On-Line: Formatos AMV E Avi Para Video, Tudo Facilitado Pelo Movavi</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/convert-mov-files-into-3gp-format-for-free-on-movavi-web-platform/"><u>Convert MOV Files Into 3GP Format for Free on Movavi Web Platform</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/effortlessly-transform-flv-videos-into-high-quality-m4v-format-at-no-cost/"><u>Effortlessly Transform FLV Videos Into High-Quality M4V Format at No Cost</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/guia-completa-para-transformar-imagenes-animadas-gif-a-videos-m4v-online-gratis-con-herramientas-de-movavi/"><u>Guía Completa Para Transformar Imágenes Animadas (GIF) a Videos M4V Online Gratis Con Herramientas De Movavi</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/immediate-purchase-enhance-business-productivity-with-movavi-professional-video-editing-software/"><u>Immediate Purchase: Enhance Business Productivity with Movavi Professional Video Editing Software</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-beyond-betting-in-depth-vegas-pro-21-analysis/"><u>In 2024, Beyond Betting In-Depth Vegas Pro '21 Analysis</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-essential-photographers-toolkit-polarr-edition/"><u>In 2024, The Essential Photographer's Toolkit - Polarr Edition</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-top-15-augmented-reality-games-like-pokemon-go-to-play-on-apple-iphone-13-drfone-by-drfone-virtual-ios/"><u>In 2024, Top 15 Augmented Reality Games Like Pokémon GO To Play On Apple iPhone 13 | Dr.fone</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/le-migliori-siti-web-per-convertire-video-youtube-gratuitamente-in-mp4-i-primi-dieci-strumenti-online/"><u>Le Migliori Siti Web per Convertire Video YouTube Gratuitamente in MP4: I Primi Dieci Strumenti Online</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/online-opus-m4a-movavi/"><u>Online OPUS M4A 항공전화 무료 변환 - Movavi</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/transformacion-gratuita-de-archivos-pef-a-png-por-medio-de-la-herramienta-online-de-movavi/"><u>Transformación Gratuita De Archivos PEF a PNG Por Medio De La Herramienta Online De Movavi</u></a></li>
+<li><a href="https://fake-location.techidaily.com/ultimate-guide-to-free-pptp-vpn-for-beginners-on-motorola-edge-40-drfone-by-drfone-virtual-android/"><u>Ultimate Guide to Free PPTP VPN For Beginners On Motorola Edge 40 | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/your-simple-route-to-youtubes-srt-extraction/"><u>Your Simple Route to YouTube's SRT Extraction</u></a></li>
+</ul></div>
+

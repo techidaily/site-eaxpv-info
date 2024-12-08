@@ -1,7 +1,7 @@
 ---
 title: AI Breakthroughs Set to Amplify Capabilities of M4 iPad Pro Announced for Worldwide Developers Conference Showcase | Tech Analysis by ZDNET
-date: 2024-11-25T18:23:40.805Z
-updated: 2024-11-28T18:55:23.220Z
+date: 2024-12-06T17:29:51.713Z
+updated: 2024-12-07T16:04:20.388Z
 tags:
   - apple
 categories:
@@ -31,7 +31,7 @@ Did they improve the overall quality of life and usability of Apple's most quixo
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Turn 2D images into spatial photos
@@ -52,10 +52,6 @@ And here's another feature that I can't imagine any users clamoring for. Now, if
 
 So, yeah, if Grandma Sadie in Seattle has a Vision Pro, Cousin Marty in Miami has a Vision Pro, and you have a Vision Pro in Yuma, you can all stand around the virtual photo screen and ooh and ah over pictures of baby Alice. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3\. Gestures for opening Home View and Control Center
 
 While it's easy enough to open Vision Pro's home view (the field of app icons) by pressing the Digital Crown on the top of the unit, getting to Control Center is a pain. VisionOS puts a tiny little arrow waaay up at the top of the viewing space, and you have to glance at it and tap your fingers together to get it to open. 
@@ -65,7 +61,7 @@ In VisionOS 2, there are gestures. Holding your hand palm up and tapping fingers
 Unlike the previous two features, this _is_ a quality of life improvement. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Mac virtual display improvements
@@ -77,7 +73,7 @@ Screenshot by David Gewirtz/ZDNET
 On the other hand, Apple "later this year" will enable you to create displays with more resolutions. The most interesting is the full wrap-around display, which will be the equivalent of two 4K monitors. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Choo-choo train mode
@@ -95,6 +91,10 @@ There are a ton of VR and AR APIs in Apple's platforms. But this week, at WWDC, 
 * **Volumetric API:** Allows complex 3D apps to run side-by-side. A volumetric API is at the core of most 3D content, because it allows developers to create, manage, and present volumetric content. My read on this announcement is not the introduction of a Volumetric API, but that it can allow multiple 3D apps to run concurrently.
 * **TabletopKit:** Helps developers create apps that anchor to flat surfaces. One obvious example is board game kits, but this could apply to interior design apps, architectural and construction projects, gaming, navigation, and more.
 * **Enterprise APIs:** These were described as enterprise-specific APIs, so we can assume they're somewhat special purpose. Examples given were surgical training and manufacturing.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 7\. New Canon spatial lens for creating spatial video
 
@@ -115,7 +115,7 @@ Apple is opening up the format for third-party creators to create immersive vide
 Even so, I think this is great. Those immersive videos are fantastic. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Other new features
@@ -171,22 +171,20 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-files.techidaily.com/new-a-comprehensive-look-at-youtube-to-facebook-file-transfers/"><u>[New] A Comprehensive Look at YouTube-to-Facebook File Transfers</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/updated-advanced-cropping-skills-for-image-clarity/"><u>[Updated] Advanced Cropping Skills for Image Clarity</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-securing-your-snapchat-footage-a-step-by-step-process-for-2024/"><u>[Updated] Securing Your Snapchat Footage A Step-by-Step Process for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/1725290300008-freemake/"><u>本物の Freemake クラッキング・無料アカウント認証回避方法解説 - チュートリアル動画</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/effortless-moving-of-big-size-iphone-media-videoimages-to-your-pc-with-ios-15-and-windows-1011/"><u>Effortless Moving of Big-Size iPhone Media (Video/Images) to Your PC with iOS 15 and Windows 10/11</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/extend-your-apple-watchs-endurance-discover-how-adjusting-8-settings-can-help/"><u>Extend Your Apple Watch's Endurance: Discover How Adjusting 8 Settings Can Help!</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/1725286863696-handbrakedvd/"><u>HandBrakeでDVDデータ読み取り時のエラーを解決する方法：画質向上技術</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/how-to-fix-udf-format-dvds-that-wont-open-on-your-pc-with-the-easy-winx-dvd-ripper-solution/"><u>How to Fix UDF Format DVDs That Won't Open on Your PC with the Easy WinX DVD Ripper Solution</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-complete-tutorial-to-use-vpna-to-fake-gps-location-on-zte-nubia-z60-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, Complete Tutorial to Use VPNa to Fake GPS Location On ZTE Nubia Z60 Ultra | Dr.fone</u></a></li>
-<li><a href="https://video-capture.techidaily.com/in-2024-minecraft-homes-innovative-and-stylish-designs/"><u>In 2024, Minecraft Homes Innovative & Stylish Designs</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/itunes-u-migration-seamless-transition-of-content-from-iphone-to-pc-without-itunes/"><u>ITunes U Migration: Seamless Transition of Content From iPhone to PC without iTunes</u></a></li>
-<li><a href="https://win-webmaster.techidaily.com/le-strategie-top-per-il-ripristino-dei-file-su-un-disco-rigido-samsung-una-guida-completa/"><u>Le Strategie Top per Il Ripristino Dei File Su Un Disco Rigido Samsung: Una Guida Completa</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/mastering-iso-to-dvd-conversion-for-windows-10-and-mac-discover-the-top-6-techniques/"><u>Mastering ISO to DVD Conversion for Windows 10 and Mac: Discover the Top 6 Techniques!</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/max-headphones-dilemma-quality-or-cost/"><u>Max Headphones Dilemma: Quality or Cost?</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/step-by-step-guide-ripping-and-creating-a-backup-of-the-wonder-woman-1984-dvd/"><u>Step-by-Step Guide: Ripping & Creating a Backup of the Wonder Woman 1984 DVD</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/troubleshoot-corrupted-dji-drone-recordings-expert-tips-to-restore-phantom-video-playback-issues/"><u>Troubleshoot Corrupted DJI Drone Recordings – Expert Tips to Restore Phantom Video Playback Issues</u></a></li>
-<li><a href="https://video-capture.techidaily.com/vintage-video-card-patch-for-2024/"><u>Vintage Video Card Patch for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-fostering-relationships-not-just-viewers-a-guide-to-subscriptions/"><u>[New] 2024 Approved Fostering Relationships, Not Just Viewers A Guide to Subscriptions</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-first-offset-guide-affordable-channel-buys-to-monetize/"><u>[New] In 2024, First Offset Guide Affordable Channel Buys to Monetize</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-high-quality-hurdles-navigating-youtubes-policies-for-4k-submissions/"><u>[New] In 2024, High-Quality Hurdles Navigating YouTube's Policies for 4K Submissions</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-ordinary-to-outstanding-crafting-unique-shorts-thumbnails/"><u>[Updated] 2024 Approved From Ordinary to Outstanding Crafting Unique Shorts Thumbnails</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-successfully-upload-elongated-youtube-clips/"><u>[Updated] 2024 Approved How to Successfully Upload Elongated YouTube Clips</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-make-a-youtube-subscribe-link-easy/"><u>[Updated] In 2024, How to Make a YouTube Subscribe Link - Easy</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-streamline-the-integration-of-youtube-playlists-into-a-sites-layout/"><u>[Updated] In 2024, How To Streamline the Integration of YouTube Playlists Into a Site's Layout</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/12/"><u>12가지 아이러니 음악 제작 도구: 자신의 파티셔크 소스를 만들기</u></a></li>
+<li><a href="https://fake-location.techidaily.com/fake-the-location-to-get-around-the-mlb-blackouts-on-infinix-hot-30i-drfone-by-drfone-virtual-android/"><u>Fake the Location to Get Around the MLB Blackouts on Infinix Hot 30i | Dr.fone</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/innovative-editing-at-your-fingertips-complete-guide-to-vivacut-24-for-2024/"><u>Innovative Editing at Your Fingertips Complete Guide to VivaCut '24 for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/mastering-mobile-vr-transform-your-phone-into-a-vr-headset-for-2024/"><u>Mastering Mobile VR Transform Your Phone Into a VR Headset for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/navigating-hurdles-in-conversation-with-chatgpt-remedies-to-prevalent-problems/"><u>Navigating Hurdles in Conversation with ChatGPT: Remedies to Prevalent Problems</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/pioneering-ai-solutions-with-chatgpt-technologies/"><u>Pioneering AI Solutions with ChatGPT Technologies</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/quest-pros-memory-debate-choosing-between-128gb-and-512gb-models-insights-from-zdnet/"><u>Quest Pro's Memory Debate: Choosing Between 128GB and 512GB Models - Insights From ZDNet</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/step-by-step-setting-up-brother-l2540dw-with-windows-download-the-correct-printer-driver-here/"><u>Step by Step: Setting Up Brother L2540DW with Windows - Download the Correct Printer Driver Here</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Understanding the Difference: A Closer Look at Apple's ProRes 4444 XQ and ProRes 4444"
-date: 2024-08-25 12:22:26
-updated: 2024-08-27 10:24:50
+date: 2024-12-03T18:50:20.157Z
+updated: 2024-12-07T20:35:20.735Z
 categories:
   - macxdvd
 thumbnail: https://thmb.techidaily.com/f0f1add4f06bedd9b4441c0d9e38e221d87204ef26ea2cde0e10ae3ca9b9c9f6.jpg
@@ -16,13 +16,13 @@ thumbnail: https://thmb.techidaily.com/f0f1add4f06bedd9b4441c0d9e38e221d87204ef2
 * [Backup iPhone](https://tools.techidaily.com/macxdvd/products/)
 * [Ventura Update Errors & Fixes](https://tools.techidaily.com/macxdvd/products/)![](https://www.macxdvd.com/mac/../mobile/article-image/hot.gif)
 
-
-
 ![](https://www.macxdvd.com/mac/../image-style/new-seo/icon7.png) [Home](https://tools.techidaily.com/macxdvd/products/) \> [Apple Resources](https://tools.techidaily.com/macxdvd/products/) \> What is ProRes
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What is Apple ProRes  (ProRes 4444 XQ vs 4444)? How Big is an iPhone 13 Pro 4K ProRes File?
-
-
 
 _Summary: everything you wanna know about Apple ProRes codec is here, including ProRes definition, ProRes raw, ProRes 4444 vs 4444 XQ, ProRes bit rate, ProRes format, ProRes vs H264, iPhone 13 Pro 4K 30FPS file size, ProRes licensees, etc._
 
@@ -30,6 +30,11 @@ _Summary: everything you wanna know about Apple ProRes codec is here, including 
 
 * [![](https://www.macxdvd.com/mac/../image-style/new-seo/share-fa.jpg)](https://www.facebook.com/sharer/sharer.php?u=https://www.macxdvd.com/mac/what-is-prores.htm)
 * [![](https://www.macxdvd.com/mac/../image-style/new-seo/share-tw.jpg)](https://twitter.com/intent/tweet?url=https://www.macxdvd.com/mac/what-is-prores.htm&text=)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 * [![](https://www.macxdvd.com/mac/../image-style/new-seo/share-email.jpg)](https://www.macxdvd.com/mac/mailto:info@example.com?&subject=&body=https://www.macxdvd.com/mac/what-is-prores.htm)
 * [![](https://www.macxdvd.com/mac/../image-style/new-seo/share-in.jpg)](https://www.linkedin.com/shareArticle?mini=true&url=https://www.macxdvd.com/mac/what-is-prores.htm&title=&summary=&source=)
 
@@ -61,7 +66,15 @@ Instead of explaining ProRes codec with a long paragraph filled with obscure and
 
 ![Apple ProRes](https://www.macxdvd.com/mac/article-image/prores.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 By the way, what is ProRes Raw? Essentially, ProRes Raw is built upon the same technology as other ProRes codecs, no internal difference indeed. The biggest difference lies in the application - it's directly used for the raw data, thus delaying the debayering process to the post-production stage. Check [here](https://www.apple.com/final-cut-pro/docs/Apple%5FProRes%5FRAW.pdf) to get nitty-gritty about ProRes Raw.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Part 2\. Apple ProRes 4444 XQ vs ProRes 4444 vs 422-variants
 
@@ -160,6 +173,10 @@ Moreover, it also supports you to convert any video to ProRes 422 HQ/422/422 LT/
 
 ![convert video to ProRes](https://www.macxdvd.com/mac/article-image/mvcp-prores.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 For those who need to know the data rates and file sizes of 720p, 1440 x 1080, 2K 2048 x 1080, 4096 x 2160, 5K, 6K and even 8K 4320p, please head to [Apple ProRes white paper](https://www.apple.com/final-cut-pro/docs/Apple%5FProRes%5FWhite%5FPaper.pdf) and scroll down to P23 where you can find more details.
 
 ## Part 4\. What Software Supports ProRes & ProRes Raw?
@@ -195,9 +212,17 @@ The whole list of ProRes authorized software is a page long. Please access to [A
 
 It's about codecs and formats. ProRes and DNxHR/DNxHD are codecs and MXF OP1a is a format. Generally, Apple ProRes codec is wrapped by Apple QuickTime container format MOV. Yet, some ProRes videos come to the public with format MXF OP1a. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 2\. What is editing with a proxy?
 
  Proxy editing is a method of editing in which original media clips are presented on timeline by proxy clips. When you export video footage, you can choose to yield the original media file with image sharpness guaranteed. ProRes 422 Proxy just follows the same workflow principle.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 3\. Can VLC play ProRes?
 
@@ -211,15 +236,21 @@ Still have any problem on Apple ProRes codec, just [Email us >>](https://tools.t
 
 Tags: [Apple](https://tools.techidaily.com/macxdvd/products/) ProRes codec 
 
-
-
 Related Articles
 
 ![](https://www.macxdvd.com/mac/../image-style/new-seo/pic7.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 [How to Record ProRes 1080p/4K Video on iPhone 13](https://tools.techidaily.com/macxdvd/products/) 
 
 ![](https://www.macxdvd.com/mac/../image-style/new-seo/pic6.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 [ProRes Converter: Easily Decode Encode Apple ProRes on Mac/Win](https://tools.techidaily.com/macxdvd/products/) 
 
@@ -239,8 +270,6 @@ Related Articles
 
 [AOM AV1 vs HEVC/H.265, the Future of 4K/8K UHD Codec](https://tools.techidaily.com/macxdvd/products/) 
 
-
-
 ![Digiarty Software](https://www.macxdvd.com/mac/../icon/logo.png) 
 
 Digiarty Software, Inc. (MacXDVD) is a leader in delivering stable multimedia software applications for worldwide users since its establishment in 2006.
@@ -259,6 +288,10 @@ Digiarty Software, Inc. (MacXDVD) is a leader in delivering stable multimedia so
 * [Online Video >>](https://tools.techidaily.com/macxdvd/products/)
 * [Hot Topics >>](https://tools.techidaily.com/macxdvd/products/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Company
 
 * [About Us >>](https://tools.techidaily.com/macxdvd/products/)
@@ -266,8 +299,6 @@ Digiarty Software, Inc. (MacXDVD) is a leader in delivering stable multimedia so
 * [User Guides >>](https://tools.techidaily.com/macxdvd/products/)
 * [Contact Us >>](https://tools.techidaily.com/macxdvd/products/)
 * [Partner >>](https://tools.techidaily.com/macxdvd/products/)
-
-
 
 [Home](https://tools.techidaily.com/macxdvd/products/) | [About](https://tools.techidaily.com/macxdvd/products/) | [Privacy Policy](https://tools.techidaily.com/macxdvd/products/) | [Terms and Conditions](https://tools.techidaily.com/macxdvd/products/) | [License Agreement](https://tools.techidaily.com/macxdvd/products/) | [Resource](https://tools.techidaily.com/macxdvd/products/) | [News](https://tools.techidaily.com/macxdvd/products/) | [Contact Us](https://tools.techidaily.com/macxdvd/products/)
 
@@ -282,11 +313,29 @@ Digiarty Software is not developed by or affiliated with Apple Inc.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-accelerated-viewer-of-best-images-in-os/"><u>[Updated] 2024 Approved Accelerated Viewer of Best Images in OS</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-biscuit-broadcast-expert-review-of-frosty-film-recorder/"><u>[Updated] 2024 Approved Biscuit Broadcast Expert Review of Frosty Film Recorder</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-5-best-zoom-transcription-software-free-and-paid/"><u>[Updated] 5 Best Zoom Transcription Software [Free & Paid]</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/best-web-based-online-vertical-video-editors-for-2024/"><u>Best Web-Based Online Vertical Video Editors for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/excellence-in-gaming-graphics-at-4k-speeds/"><u>Excellence in Gaming Graphics at 4K Speeds</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/get-ready-for-savings-the-ultimate-guide-to-snagging-an-apple-ipad-pro-at-bargain-prices-pre-prime-day-tech-spotlight-by-zdnet/"><u>Get Ready for Savings! The Ultimate Guide to Snagging an Apple iPad Pro at Bargain Prices Pre-Prime Day | Tech Spotlight by ZDNET</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/how-to-initiate-your-own-blog-product-analysis-edition/"><u>How to Initiate Your Own Blog Product Analysis Edition</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/iphone-models-supported-by-ios-n-18-upgrade-identifying-the-latest-and-older-iphone-versions-affected/"><u>IPhone Models Supported by iOS N° 18 Upgrade – Identifying the Latest and Older iPhone Versions Affected</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/ready-for-ios-16-heres-how-to-get-the-latest-ios-public-beta-and-should-you-wait-digitaltimes/"><u>Ready for IOS 16? Here's How to Get the Latest iOS Public Beta & Should You Wait? | DigitalTimes</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/remove-the-lock-screen-fingerprint-of-your-poco-x6-by-drfone-android/"><u>Remove the Lock Screen Fingerprint Of Your Poco X6</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/revolutionary-magsafe-battery-pack-sleek-design-and-rapid-charging-features-unveiled-insights/"><u>Revolutionary MagSafe Battery Pack: Sleek Design & Rapid Charging Features Unveiled - Insights</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/top-best-buy-bargains-in-june-2024-exclusive-offers-and-discounts/"><u>Top Best Buy Bargains in June 2024: Exclusive Offers & Discounts</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/top-ranked-mac-software-picks-techradar/"><u>Top-Ranked Mac Software Picks | TechRadar</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/unveiling-the-premier-defenders-of-timepieces-a-comprehensive-review-on-apple-watch-screens/"><u>Unveiling the Premier Defenders of Timepieces : A Comprehensive Review on Apple Watch Screens</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/why-claude-3-deserves-your-attention-4-superior-features-beating-out-chatgpt/"><u>Why Claude 3 Deserves Your Attention: 4 Superior Features Beating Out ChatGPT</u></a></li>
+</ul></div>
+

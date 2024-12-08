@@ -1,7 +1,7 @@
 ---
 title: "Upgrade Security with macOS 14.4.1: A Safer Path to Enhancing Your Mac Experience"
-date: 2024-11-21T18:08:57.465Z
-updated: 2024-11-28T16:05:38.377Z
+date: 2024-11-30T18:34:19.162Z
+updated: 2024-12-07T19:57:22.809Z
 tags:
   - apple
 categories:
@@ -39,7 +39,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Apple Intelligence
@@ -57,7 +57,7 @@ Apple's approach to AI is markedly different from that of its competitors, howev
 This lets Apple disengage from the chaotic rat race to a degree, positioning itself as the careful, more ethical actor when it comes to AI, particularly in light of [recent debilitating security concerns](https://www.zdnet.com/article/after-brutal-critiques-microsoft-recall-will-get-these-major-privacy-and-security-changes/) from Microsoft's Recall feature, which is delaying the release of a host of its new [Copilot+ PCs](https://www.zdnet.com/article/every-copilot-pc-microsoft-just-announced-to-take-on-apples-m3-macbooks/).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Continuity
@@ -71,6 +71,10 @@ The new Continuity app links your Mac to your iPhone in a fully comprehensive wa
 The app also streamlines your devices by bringing your iPhone's notifications straight to the Mac, allowing you to pull up the corresponding app onto the laptop. If you're worried about privacy while using your phone on your laptop, your phone's screen actually remains locked and turned off, even while you're using the phone remotely.   
   
 Alternatively, the new standby mode on the iPhone displays a host of at-a-glance (but un-interactable) data like a clock and calendar while you're using the Continuity app on the Mac. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Siri 2.0
 
@@ -96,10 +100,6 @@ Apple Intelligence has been integrated across all of the big productivity apps i
 * **Photos:** AI-based photo editing features in the Photos app allow users to make touch-ups, remove backgrounds, and do editing instantaneously. Additionally, searching for specific photos and videos using natural language will bring up images of specific people or events.
 * **Notes:** Voice functionality is coming to the Notes app, with the ability to add voice memos directly embedded into your notes. AI will also support audio transcription and transcripts of audio recordings. You can record and transcribe audio, and when your recording is finished, the AI will create a summary on its own.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 5\. New and improved Safari
 
 Screenshot by Nina Raemont
@@ -111,7 +111,7 @@ Safari will see a host of improvements powered by AI functionality, including an
 Apple demoed Safari's machine learning capability to automatically detect relevant information on a webpage, including things like quick links, directions, and quick summaries with logistical information like phone numbers and addresses. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6\. Standalone Passwords app
@@ -125,7 +125,7 @@ Aligning with Apple's positioning of its AI features as secure and trustworthy, 
 This standalone app is an extension of the existing iCloud Keychain, and seeks to simplify password storage by employing Face ID and Touch ID alongside character-string passwords. Much of it is designed to work automatically and seamlessly in an effort to solve what is a huge UX headache that everyone has experienced at one point or another. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 7\. Gaming
@@ -162,18 +162,19 @@ Apple wants to create a "unified gaming platform" across the iPhone, iPad, and M
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-best-10-mininano-drones-in-the-market/"><u>[New] Best 10 Mini/Nano Drones in the Market</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/comprehensive-guide-on-using-winx-mediatrans-seamlessly-converting-and-shifting-your-audio-video-and-image-files/"><u>Comprehensive Guide on Using WinX MediaTrans: Seamlessly Converting and Shifting Your Audio, Video & Image Files</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/fix-your-locked-out-windows-11-account-pin-missing/"><u>Fix Your Locked Out Windows 11 Account - PIN Missing</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/hollenhorst-plaques-and-drusen-are-deposits-found-within-the-eye-but-while-the-former-is-related-to-cholesterol-emboli-from-vascular-issues-like-carotid-art160/"><u>Hollenhorst Plaques and Drusen Are Deposits Found Within the Eye, but While the Former Is Related to Cholesterol Emboli From Vascular Issues Like Carotid Artery Stenosis, Drusen Do Not Have a Direct Systemic Association and Can Be Age-Related Changes.</u></a></li>
-<li><a href="https://win-web3.techidaily.com/how-to-fix-hulus-pts2n07-error-message-a-comprehensive-guide/"><u>How to Fix Hulu's PTS2n07 Error Message: A Comprehensive Guide</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-tecno-camon-30-pro-5g-to-iphone-xs11-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Tecno Camon 30 Pro 5G to iPhone XS/11 | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-forgotten-the-voicemail-password-of-poco-m6-pro-4g-try-these-fixes-by-drfone-android/"><u>In 2024, Forgotten The Voicemail Password Of Poco M6 Pro 4G? Try These Fixes</u></a></li>
-<li><a href="https://techtrends.techidaily.com/1722873272936-navigating-your-way-through-the-best-gaming-pc-options-important-factors-you-shouldnt-ignore/"><u>Navigating Your Way Through the Best Gaming PC Options: Important Factors You Shouldn't Ignore</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/quick-and-easy-steps-convert-mkv-files-to-avi-format-using-vlc-player-no-marks-attached/"><u>Quick and Easy Steps: Convert MKV Files to AVI Format Using VLC Player - No Marks Attached</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/shortening-or-extending-video-lengths-mastering-the-art-of-editing-on-snapchat/"><u>Shortening or Extending Video Lengths: Mastering the Art of Editing on Snapchat</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/95807699-9781616406332-the-outer-limits-of-edgar-cayces-power/"><u>The Outer Limits of Edgar Cayce's Power | Free Book</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/universal-unlock-pattern-for-gionee-by-drfone-android/"><u>Universal Unlock Pattern for Gionee</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/winxvideo-ai5/"><u>Winxvideo AIを活用した有名な動画配信プラットフォームベスト5</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-fiscally-flourishing-through-film-reviewing-retail-relics/"><u>[New] 2024 Approved Fiscally Flourishing Through Film Reviewing Retail Relics</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-hitting-high-notes-enhance-your-youtube-content-with-music-edits-for-2024/"><u>[New] Hitting High Notes Enhance Your YouTube Content with Music Edits for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-first-steps-in-the-youtubian-economy-building-a-brand-boosting-bank-balance/"><u>[New] In 2024, First Steps in the Youtubian Economy Building a Brand, Boosting Bank Balance</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-flashflicker-artist/"><u>[New] In 2024, FlashFlicker Artist</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-fostering-collaborations-building-partnerships-to-promote-videos/"><u>[Updated] 2024 Approved Fostering Collaborations Building Partnerships to Promote Videos</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-flavorful-faves-top-online-chefs-and-culinary-stars/"><u>[Updated] In 2024, Flavorful Faves Top Online Chefs & Culinary Stars</u></a></li>
+<li><a href="https://fake-location.techidaily.com/can-life360-track-or-see-text-messages-what-can-you-do-with-life360-on-itel-p55-5g-drfone-by-drfone-virtual-android/"><u>Can Life360 Track Or See Text Messages? What Can You Do with Life360 On Itel P55 5G? | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-the-most-comfortable-travel-pillows-for-your-journey-recommended-by-zdnet/"><u>Discover the Most Comfortable Travel Pillows for Your Journey - Recommended by ZDNet</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/discovering-2023s-best-stories-on-the-worldwide-web/"><u>Discovering 2023'S Best Stories on the Worldwide Web</u></a></li>
+<li><a href="https://techidaily.com/guide-on-how-to-erase-apple-iphone-14-devices-entirely-drfone-by-drfone-ios-full-data-eraser-ios-full-data-eraser/"><u>Guide on How To Erase Apple iPhone 14 Devices Entirely | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-brief-blotter-for-film-blueprint/"><u>In 2024, Brief Blotter for Film Blueprint</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-the-ultimate-guide-to-bypassing-icloud-activation-lock-on-apple-iphone-14-by-drfone-ios/"><u>In 2024, The Ultimate Guide to Bypassing iCloud Activation Lock on Apple iPhone 14</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-transitioning-from-srt-to-subtitles/"><u>In 2024, Transitioning From SRT to Subtitles</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/whats-your-youtube-revenue-breakdown-per-branded-playlist-for-2024/"><u>What's Your Youtube Revenue Breakdown per Branded Playlist for 2024</u></a></li>
 </ul></div>
 

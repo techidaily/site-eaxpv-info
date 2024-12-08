@@ -1,7 +1,7 @@
 ---
 title: "Master Your iPad: Insider Tips & Key Settings Every Apple User Should Understand - ZDNet Explore"
-date: 2024-11-24T18:38:40.044Z
-updated: 2024-11-28T17:41:59.881Z
+date: 2024-12-03T21:19:08.754Z
+updated: 2024-12-07T23:57:50.824Z
 tags:
   - apple
 categories:
@@ -28,10 +28,6 @@ Never fear, dear reader. I've uncovered 10 settings you should adjust on your iP
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Customize your lock screen
 
 Max Buondonno/ZDNET
@@ -39,6 +35,10 @@ Max Buondonno/ZDNET
 In iPadOS 17, Apple added the ability to customize your iPad's lock screen, and it's one of the easiest ways to help the tablet reflect your personal style. You can alter the font, the wallpaper, and even add a few widgets to keep important information available at a glance. Personally, I have a nice serif font on my iPad with a weather widget and my to-do list, as well as an ocean background from Nomad (because I can't go a day without looking at the water).
 
 **How to:** Wake up your iPad, unlock it, then press and hold on the lock screen. If you've used an iPhone in the past, you know exactly what to do next. Tap the "Customize" button and begin tweaking the lock screen to your liking.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Configure your focus settings
 
@@ -59,7 +59,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 **How to**: Go to Settings > Focus on your iPad, and you'll find various options to set up a Focus mode for work, personal, fitness, mindfulness, and more. The interface will guide you through setting up your notification settings, which contacts can ping you, and more. Plus, once you've set it up, it'll sync automatically with your iPhone, Apple Watch, and Mac.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Turn on Stage Manager when you need more multitasking chops
@@ -83,7 +83,7 @@ Yes, I realize this setting doesn't _actually_ protect your eyesight in the long
 **How to**: Head to Settings > Display & Brightness > Night Shift. From there, you can manually turn it on, schedule it to turn on during certain times, and adjust how warm you want your display to turn.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Low Power Mode can quickly become your best friend
@@ -116,6 +116,10 @@ If that's your bag, you can also shrink your keyboard and have it float on top o
 
 **How to float**: Open an app where the keyboard will pop up. Then, take two fingers and pinch the keyboard. This will cause it to shrink to iPhone-size. You can then drag it around the screen by touching and holding the gray bar on the bottom. When you want it to return to its normal size, just pinch outward on the keyboard.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 8\. Make sure your screen is refreshing as fast as possible
 
 Every iPad Pro since 2018 has supported what Apple calls ProMotion, which increases your display's refresh rate and makes everything -- scrolling, animations, multitasking, and more -- look smoother. It's one of those features that you don't realize you want until you have it, and then you can never go back. 
@@ -125,7 +129,7 @@ Of course, while the feature is enabled out of the box, there's always a chance 
 **How to**: Head over to Settings > Accessibility > Motion and ensure that "Limit Refresh Rate" _isn't_ enabled. If it is, your iPad's screen will remain locked to 60Hz, and who even uses 60Hz screens anymore?
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 9\. Tweak the Control Center
@@ -135,10 +139,6 @@ Max Buondonno/ZDNET
 I've always felt like the Control Center is slightly underrated for all the stuff it can do. Not only does it give you quick access to your Wi-Fi and Bluetooth settings, but you can customize it to your heart's delight with all sorts of life-simplifying shortcuts, from easy access to Shazam to starting a screen recording with the touch of a button. It can become a life-changing feature if you use it the right way.
 
 **How to:** Go to Settings > Control Center on your iPad, and you'll find all the controls you can add and remove. To add a new one, tap the green plus icon and it'll move to the "Included Controls" section. From there, you can rearrange which controls are presented first by dragging the three-line button to the right and sliding up or down the list. If you want to remove a control, tap the red minus button and it'll go back to "More Controls."
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 10\. Attention Awareness will keep the screen awake while you use it
 
@@ -180,24 +180,21 @@ Using the TrueDepth cameras, Attention Awareness can keep tabs on when you're lo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/n-2024-skillful-conversion-of-youtube-videos-to-interactive-gif-artistry/"><u>[New] In 2024, Skillful Conversion of YouTube Videos to Interactive GIF Artistry</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-developing-persuasive-podcast-thumbnails/"><u>[Updated] Developing Persuasive Podcast Thumbnails</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/ai202pc/"><u>【AIツール202#選択!】今すぐ使えるPC・スマホ対応、動画制作はテキストから - 無料で高機能</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/2-step-by-step-buying-tips-for-the-professional-winx-dvd-and-blu-ray-copying-kit/"><u>2. Step-by-Step Buying Tips for the Professional WinX DVD & Blu-Ray Copying Kit!</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/1728486054035-ssd/"><u>新規SSDへのシステムイメージ移行手順ガイド</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/can-i-recover-permanently-deleted-photos-from-zte-axon-40-lite-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>Can I recover permanently deleted photos from ZTE Axon 40 Lite</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/crafting-a-unified-brand-presence-on-youtube-for-2024/"><u>Crafting a Unified Brand Presence on YouTube for 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/discord-stream-stuck-no-more-winning-strategies-to-resolve-persistent-buffering/"><u>Discord Stream Stuck No More – Winning Strategies to Resolve Persistent Buffering</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/1725288411931-dvd/"><u>DVD保管ソリューション＆クレーティング案を集めた究極のビジネスマナーガイド：安価な魅力的なオプションがたくさん！</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/efficiently-downsize-your-4k-footage-from-giant-bytes-to-megabytes-while-preserving-impeccable-quality/"><u>Efficiently Downsize Your 4K Footage From Giant Bytes to MegaBytes While Preserving Impeccable Quality</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/hevc-codec-converter-ottimo-software-di-conversione-h265-per-windows-10-and-mac/"><u>HEVC Codec Converter - Ottimo Software Di Conversione H.265 Per Windows 10 & Mac</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/how-to-copy-dvd-content-directly-with-winxdvd-avoiding-transcoding-process/"><u>How to Copy DVD Content Directly with WinXDVD Avoiding Transcoding Process?</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/las-6-mejores-aplicaciones-gratis-para-duplicar-disc-blu-ray-y-dvd-sin-problemas/"><u>Las 6 Mejores Aplicaciones Gratis Para Duplicar Disc Blu-Ray Y DVD Sin Problemas</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/live-streaming-mastery-with-manycam-top-tier-virtual-camera-solutions/"><u>Live Streaming Mastery with ManyCam: Top-Tier Virtual Camera Solutions</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/mac-upgrade-mastery-the-definitive-guide-to-installing-windows-11-with-boot-camp/"><u>Mac Upgrade Mastery: The Definitive Guide to Installing Windows 11 with Boot Camp</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/revising-boot-menu-pause-boost-startup-with-windows-11-tweaks/"><u>Revising Boot Menu Pause: Boost Startup with Windows 11 Tweaks</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/step-by-step-guide-creating-accurate-subtitles-for-your-mp4-files/"><u>Step-by-Step Guide: Creating Accurate Subtitles for Your MP4 Files</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/strategies-for-finding-undetected-cards-in-systems/"><u>Strategies for Finding Undetected Cards in Systems</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/top-12-free-video-editing-software-options-with-no-watermarks-best-picks-of-2nd4/"><u>Top 12 Free Video Editing Software Options with No Watermarks: Best Picks of 2nD4</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-novice-to-vlogger-the-top-10-editing-techniques/"><u>[New] 2024 Approved From Novice to Vlogger The Top 10 Editing Techniques</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-make-thumbnails-for-youtube-with-mobile-phones/"><u>[New] 2024 Approved How to Make Thumbnails for YouTube With Mobile Phones</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-succeed-youtubes-powerful-business-channel-list/"><u>[New] 2024 Approved How to Succeed YouTube's Powerful Business Channel List</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-from-zero-to-hero-youtube-tech-required-for-2024/"><u>[New] From Zero to Hero YouTube Tech Required for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-top-2023-ps3-emulators-for-enhanced-gaming/"><u>[New] In 2024, Top 2023 Ps3 Emulators for Enhanced Gaming</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-the-essential-steps-for-clearance-prior-to-tiktok-uploads/"><u>[New] The Essential Steps for Clearance Prior to TikTok Uploads</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-does-a-vtubing-career-start-and-prospective-path/"><u>[Updated] 2024 Approved How Does a Vtubing Career Start & Prospective Path?</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-download-part-of-youtube-video/"><u>[Updated] 2024 Approved How to Download Part of YouTube Video?</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-one-off-to-firm-follower-an-ethical-approach/"><u>[Updated] In 2024, From One-Off to Firm Follower An Ethical Approach</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-maximizing-media-iphoneipad-download-youtube-videos-step-by-step/"><u>[Updated] Maximizing Media IPhone/iPad - Download Youtube Videos Step-by-Step</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/ideal-shade-modifier-software/"><u>Ideal Shade Modifier Software</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-delete-icloud-account-with-or-without-password-from-your-apple-iphone-12-miniwindowsmac-by-drfone-ios/"><u>In 2024, How to Delete iCloud Account with or without Password from your Apple iPhone 12 mini/Windows/Mac</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-unlock-your-disabled-iphone-13-pro-max-without-itunes-in-5-ways-drfone-by-drfone-ios/"><u>In 2024, Unlock Your Disabled iPhone 13 Pro Max Without iTunes in 5 Ways | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/master-plan-remedy-microsoft-store-glitch-error-0x0-in-win-10/"><u>Master Plan: Remedy Microsoft Store Glitch (Error 0X0) in Win 10</u></a></li>
+<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-videos-from-honor-play-8t-by-fonelab-android-recover-video/"><u>Possible solutions to restore deleted videos from Honor Play 8T</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/step-by-step-tutorial-on-generating-pdf-files-via-apowerpdf-software/"><u>Step-by-Step Tutorial on Generating PDF Files via ApowerPDF Software</u></a></li>
 </ul></div>
 

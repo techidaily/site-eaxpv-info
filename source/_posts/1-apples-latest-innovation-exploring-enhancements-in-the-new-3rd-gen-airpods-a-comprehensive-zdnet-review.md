@@ -1,7 +1,7 @@
 ---
 title: "1. Apple's Latest Innovation: Exploring Enhancements in the New 3Rd Gen AirPods - A Comprehensive ZDNet Review"
-date: 2024-11-25T17:02:34.383Z
-updated: 2024-11-28T19:09:03.273Z
+date: 2024-12-05T17:04:21.772Z
+updated: 2024-12-07T23:48:39.884Z
 tags:
   - apple
 categories:
@@ -23,7 +23,7 @@ During [WWDC](https://www.zdnet.com/article/apple-wwdc-2024-recap-every-new-feat
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What is Apple Intelligence?
@@ -39,6 +39,10 @@ While we weren't expecting the company to unveil a slew of [flashy generative AI
 Apple was expected to focus on incorporating AI into its apps to simplify users' daily tasks, categorizing such AI features under the name "Apple Intelligence." We didn't miss the wordplay.
 
 Apple Intelligence focuses on broad-appeal AI features rather than advanced image and video generation. To do this, the company developed in-house AI models and partnered with OpenAI to power a chatbot that will integrate [ChatGPT](https://www.zdnet.com/article/what-is-chatgpt-and-why-does-it-matter-heres-everything-you-need-to-know/) into iOS, iPadOS, and MacOS.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What does Apple Intelligence do?
 
@@ -75,6 +79,10 @@ The voice assistant will also be able to perform hundreds of new actions across 
 
 Apple is also upgrading Siri to understand text, allowing users to type or speak to Siri as needed. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What's new in Apple's photo editing & search?
 
 Apple
@@ -86,10 +94,6 @@ Like the Google Pixel's Magic Eraser, Apple is giving its devices a new, AI-powe
 Apple is adding natural language photo and video search to its Photos app. This will let users enter a prompt to search for a picture, video, or even a segment of a video. Users can say, "Find a photo of that starfish we found at the beach last summer," and have their iPhone pull up a photo without having to scroll through thousands of photos to find the one.
 
 In Photos, users will also be able to give a text prompt to create Memory videos. These will be compilations of videos and photos following a description, with music suggestions from Apple Music. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How does systemwide AI text generation work?
 
@@ -104,7 +108,7 @@ The same feature can help users make major edits to text, such as changing the t
 Apple devices will also get AI upgrades for recordings and transcriptions in Voice Memos and Phone, as users can quickly transcribe voice notes with AI.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What is Image Playground?
@@ -131,10 +135,6 @@ When users make a Siri request that the voice assistant determines would be bett
 
 Apple says its ChatGPT integration has privacy protections in place, with obscured IP addresses and no request storage by OpenAI. ChatGPT on iPhone, iPad, and Mac will be free to use, provided the device is compatible with the latest operating system. [Paying ChatGPT users](https://www.zdnet.com/article/chatgpt-vs-chatgpt-plus-is-a-paid-subscription-still-worth-it/) will get access to additional Plus features.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Will Apple Intelligence be processed on-device or in the cloud?
 
 Apple
@@ -152,7 +152,7 @@ Apple is leveraging what it calls Private Cloud Compute for complex tasks that r
 Depending on its complexity and system requirements, an algorithm will determine whether a task requiring AI should be processed on-device or offloaded to the cloud. Simpler tasks like a Siri request and other basic NLP tasks can be processed on-device. More complex tasks, like generating a detailed summary of a large document, will be sent to the cloud, where more robust processing can occur. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Is Apple Intelligence actually private and secure?
@@ -210,18 +210,24 @@ While these AI features may help drive sales of new iPhones and Macs, as a curre
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/updated-streaming-royalty-ranking-the-top-10-platforms-for-real-time-content-for-2024/"><u>[Updated] Streaming Royalty Ranking the Top 10 Platforms for Real-Time Content for 2024</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/comparing-ai-powerhouses-gemini-pro-vs-microsofts-chatgpt-plus-who-wins/"><u>Comparing AI Powerhouses: Gemini Pro Vs. Microsoft's ChatGPT Plus – Who Wins?</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/discover-the-ultimate-substitutes-for-wondershare-filmora-19-free-options-available/"><u>Discover the Ultimate Substitutes for Wondershare Filmora - 19 Free Options Available!</u></a></li>
-<li><a href="https://media-tips.techidaily.com/expert-advice-mastering-playback-and-conversion-of-high-quality-hd-videos-in-mtstsm2ts-formats/"><u>Expert Advice: Mastering Playback & Conversion of High-Quality HD Videos in MTS/TS/M2TS Formats</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-your-free-broadcom-bluetooth-driver-for-pcs-running-on-windows-11-or-earlier-versions/"><u>Get Your Free Broadcom Bluetooth Driver for PCs Running on Windows 11 or Earlier Versions</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/macwinx-dvd-ripper-dvddvdhddand/"><u>Mac専用WinX DVD Ripper: 最新セキュリティ保護のDVD・コピーガードDVDをHDDやポータブルデバイスに容易にリッピング&バックアップ</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/maintain-excellent-clarity-when-transforming-dvd-content-into-h264/"><u>Maintain Excellent Clarity When Transforming DVD Content Into H.264</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/soluzione-al-problema-di-riproduzione-non-supportata-di-hevc-su-windows-11-8-e-7/"><u>Soluzione Al Problema Di Riproduzione Non Supportata Di HEVC Su Windows 11, 8 E 7</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/the-future-of-innovation-essential-ai-traits-for-apples-success-against-industry-leaders/"><u>The Future of Innovation: Essential AI Traits for Apple's Success Against Industry Leaders</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/transcoding-made-simple-transform-your-m4v-files-into-avi-on-pcs-and-mac-computers/"><u>Transcoding Made Simple: Transform Your M4V Files Into AVI on PCs and Mac Computers</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/transforma-tu-dvd-al-formato-mp4-rapidamente-manteniendo-la-calidad-hazlo-en-solo-5-minutos/"><u>Transforma Tu DVD Al Formato MP4 Rápidamente Manteniendo La Calidad - ¡Hazlo en Solo 5 Minutos!</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/twitch-secure-access-the-ultimate-guide-to-implementing-two-factor-verification/"><u>Twitch Secure Access: The Ultimate Guide to Implementing Two-Factor Verification</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/windows11macos/"><u>パソコンで無料で簡単！ブルーレイを見る方法 - Windows11/MacOS両用ガイド</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-guaranteed-safe-approaches-for-turning-youtube-songs-into-mp3-files/"><u>[New] 2024 Approved Guaranteed Safe Approaches for Turning YouTube Songs Into MP3 Files</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-hash-tags-that-catapult-you-to-6k-views-on-youtube/"><u>[New] 2024 Approved Hash Tags That Catapult You to 6K Views on YouTube</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-convert-youtube-to-igtv-videos-3-ways/"><u>[New] 2024 Approved How to Convert YouTube to IGTV Videos? [3 Ways]</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-increase-youtube-traffic-by-a-million-safely-done/"><u>[New] 2024 Approved How to Increase YouTube Traffic by a Million Safely Done</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-finding-storylines-with-google-trends-analysis-techniques-for-2024/"><u>[New] Finding Storylines with Google Trends Analysis Techniques for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-hone-your-message-effective-use-of-templates-for-shorts/"><u>[New] In 2024, Hone Your Message Effective Use of Templates for Shorts</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-tips-and-tricks-for-perfect-tweets-with-videos/"><u>[Updated] 2024 Approved Tips and Tricks for Perfect Tweets with Videos</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-cost-calculations-for-your-dream-podcast-project/"><u>[Updated] Cost Calculations for Your Dream Podcast Project</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-prevent-thumbnail-absence-in-shorts-uploads-for-2024/"><u>[Updated] How to Prevent Thumbnail Absence in Shorts Uploads for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-flash-video-insights-guide/"><u>[Updated] In 2024, Flash Video Insights Guide</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-keep-your-games-bright-solutions-for-avoiding-obs-black-screens-for-2024/"><u>[Updated] Keep Your Games Bright Solutions for Avoiding OBS Black Screens for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-unleash-creativity-with-youtube-clips-make-animation-gifs-easily/"><u>[Updated] Unleash Creativity with YouTube Clips - Make Animation GIFs Easily</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-where-to-find-top-notch-instagram-ringtones-and-how-to-make-a-keen-ringt-for-2024/"><u>[Updated] Where to Find Top-Notch Instagram Ringtones & How to Make a Keen Ringt for 2024</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-track-imei-number-of-vivo-y100t-through-google-earth-by-drfone-android/"><u>How To Track IMEI Number Of Vivo Y100t Through Google Earth?</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-best-3-software-to-transfer-files-tofrom-your-honor-x9b-via-a-usb-cable-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Best 3 Software to Transfer Files to/from Your Honor X9b via a USB Cable | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-catchemall-celebrate-national-pokemon-day-with-virtual-location-on-realme-c51-drfone-by-drfone-virtual-android/"><u>In 2024, CatchEmAll Celebrate National Pokémon Day with Virtual Location On Realme C51 | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-guide-resolving-constant-crashes-of-snowrunner-on-windows-computers/"><u>Troubleshooting Guide: Resolving Constant Crashes of SnowRunner on Windows Computers</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unveiling-corporate-concerns-the-5-most-significant-arguments-for-banning-gpt/"><u>Unveiling Corporate Concerns: The 5 Most Significant Arguments for Banning GPT</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/6/"><u>ベストのゲーム実況編集ソフトＬｅ電源6つ選! 完全無料とプロ仕様</u></a></li>
 </ul></div>
 

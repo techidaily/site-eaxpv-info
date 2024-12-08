@@ -1,7 +1,7 @@
 ---
 title: 2024'S Ultimate Selection of iPad Air Cases Vetted by Pro Reviews | ZDNET Insights
-date: 2024-11-25T16:16:15.341Z
-updated: 2024-11-28T18:47:22.463Z
+date: 2024-11-30T20:28:18.242Z
+updated: 2024-12-07T23:32:22.914Z
 tags:
   - apple
 categories:
@@ -21,6 +21,10 @@ The display sizes of small tablets can range from six to 10 inches, with eight i
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What is the best small tablet right now?
 
@@ -42,10 +46,14 @@ Cons
 * Expensive
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Apple iPad Mini 6th Generation
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Best small tablet overall
 
@@ -80,6 +88,10 @@ Cons
 
 ## Amazon Fire 7 Tablet
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Best budget small tablet
 
 If you're looking for something even smaller and cheaper than the iPad Mini, the Amazon Fire 7 tablet is a great budget tablet pick. The Fire tablet's 7-inch screen has a 1024 x 600 display, so you can stream movies or play video games without hauling around a bulky tablet. 
@@ -110,11 +122,11 @@ Cons
 * Expensive
 * Some complaints of lag
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Boox Tab Mini C
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Best small tablet for note-taking
 
@@ -173,15 +185,7 @@ Pros
 Cons 
 * Performance could be better
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Samsung Galaxy Tab A7 Lite
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Best Samsung small tablet
 
@@ -229,7 +233,7 @@ We know there are a lot of tablets and tablet sizes to choose from, but ultimate
 * **Price:** Tablets vary in price range from affordable to expensive depending on brand and purpose, so we made sure to choose tablets at various price points to accommodate different budgets.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How we test tablets
@@ -250,6 +254,10 @@ The smallest tablet screen size on the market is 6 to 7 inches. Anything smaller
 
 It's why you want to consider your primary uses when considering which small tablet is right for you. To demonstrate, if you travel often, one with a smaller screen will be perfect for carrying/using on an airplane. If your aim is to read more e-books or draw, you'll want one with a larger screen. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What brand of tablet is best?
 
 Tablets made by Apple, Samsung, and Microsoft are the best-made tablets in terms of quality. Amazon has well-rounded tablets in its Fire lineup but with fewer performance-focused features. Boox is also proving to be an industry underdog, with impressive tablets that function as e-readers and illustrators. 
@@ -264,17 +272,9 @@ Yes, they can be. Small Android tablets allow you to do everything you would nor
 
 Their lightweight body and compact design make them perfect traveling companions. So, if you're searching for the best Android tablet with great battery life and lightweight design, the minis are an enticing choice. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What is the smallest iPad?
 
 The smallest [iPad](https://www.zdnet.com/article/best-ipad/) is the iPad Mini which has a screen size of 8.3 inches. It's also lightweight at just under one pound. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Are there alternative small tablets worth considering?
 
@@ -322,18 +322,16 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-unlock-seamless-mac-screen-captures-with-efficient-shortcuts-guide/"><u>[Updated] 2024 Approved Unlock Seamless Mac Screen Captures with Efficient Shortcuts Guide</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-uploading-and-showcasing-videos-on-instagram-made-easy/"><u>[Updated] In 2024, Uploading and Showcasing Videos on Instagram Made Easy</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-prime-win11-videography-software-for-editors/"><u>[Updated] Prime Win11 Videography Software for Editors</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-from-screen-to-editors-desk-top-movie-moments/"><u>2024 Approved From Screen to Editor's Desk Top Movie Moments</u></a></li>
-<li><a href="https://driver-error.techidaily.com/a-step-by-step-guide-to-fixing-invalid-or-unverified-driver-installs-on-computers/"><u>A Step-by-Step Guide to Fixing Invalid or Unverified Driver Installs on Computers</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/convertisseur-gratuit-pour-changer-un-fichier-m4a-en-format-m4r-sur-internet-movavi/"><u>Convertisseur Gratuit Pour Changer Un Fichier M4A en Format M4R Sur Internet - Movavi</u></a></li>
-<li><a href="https://blog-min.techidaily.com/download-audio-from-tumblr-for-free-discover-2-effortless-methods-to-capture-your-content/"><u>Download Audio From Tumblr for Free - Discover 2 Effortless Methods to Capture Your Content</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/fire-ants-invade-tech-zone-alarming-case-study-of-a-gpu-unit-destroyed-by-unwanted-guests/"><u>Fire Ants Invade Tech Zone: Alarming Case Study of a GPU Unit Destroyed by Unwanted Guests</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/free-conversion-of-3g2-files-to-flv-online-at-movavi/"><u>Free Conversion of 3G2 Files to FLV - Online at Movavi</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/gratis-online-converteer-ape-naar-wma-simpelweg-en-efficient-met-movavi/"><u>Gratis Online Converteer APE Naar WMA: Simpelweg en Efficiënt Met Movavi</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/top-7-essential-tools-for-transforming-flac-audio-into-mp3-format-on-macos/"><u>Top 7 Essential Tools for Transforming FLAC Audio Into MP3 Format on macOS</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/m4a-movavi/"><u>무료 M4A 형식 바꾸기: 온라인 사용자가 선호하는 Movavi 도구</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/m1v-avi/"><u>오피스 상대적 무료 M1V 비디오를 AVI로 전환하는 방법</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-fuse-melodies-into-your-youtube-digital-realm/"><u>[New] 2024 Approved Fuse Melodies Into Your Youtube Digital Realm</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-hiding-youtube-playback-tips-for-ios-and-android/"><u>[New] 2024 Approved Hiding YouTube Playback Tips for iOS and Android</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-fifa-video-highlights-top-youtube-data-infographics-for-2024/"><u>[New] FIFA Video Highlights Top YouTube Data Infographics for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-get-free-stock-footage-from-these-4-youtube-channels/"><u>[Updated] 2024 Approved Get Free Stock Footage From These 4 YouTube Channels</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-faithful-frequencies-free-christian-music-downloads/"><u>[Updated] Faithful Frequencies Free Christian Music Downloads</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-from-zero-to-hero-boosting-youtube-view-count-quickly-for-2024/"><u>[Updated] From Zero to Hero Boosting YouTube View Count Quickly for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-integrating-diverse-iphone-media-formats-together/"><u>[Updated] In 2024, Integrating Diverse iPhone Media Formats Together</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/gain-free-photo-footage-via-essential-4-youtube-picks-for-2024/"><u>Gain Free Photo Footage via Essential 4 YouTube Picks for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/how-to-create-a-negative-like-image-look/"><u>How to Create a Negative-Like Image Look</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/quick-start-to-watching-netflix-on-kodi-an-easy-installation-guide-for-beginners-and-pros-alike/"><u>Quick Start to Watching Netflix on Kodi: An Easy Installation Guide for Beginners and Pros Alike</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/title-compatibility-check-the-complete-list-of-tvs-that-play-nice-with-amazon-prime-video/"><u>Title: Compatibility Check: The Complete List of TVs That Play Nice with Amazon Prime Video</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Buy One Nomad Case for Your iPhone & Grab a Second FREE Today – Limited Time Deal on ZDNet!
-date: 2024-11-24T16:40:13.185Z
-updated: 2024-11-28T16:27:39.217Z
+date: 2024-12-01T17:30:56.272Z
+updated: 2024-12-07T16:34:24.533Z
 tags:
   - apple
 categories:
@@ -48,7 +48,7 @@ ZDNET's Kerry Wan went hands-on with the [iPad 10th Gen](https://buy.geni.us/Pro
 If you're looking to snag the 10th Gen iPad, which Wan says stacks up pretty well against the more expensive iPad Air, be sure to jump on this [sweet deal](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FApple-2022-10-9-inch-iPad-Wi-Fi%2Fdp%2FB0BJLXMVMV%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C0d6032e1-d089-490f-9c8e-0eda836790a7%7Cdtp&dtb=1) while it lasts. Plus, if you want to shop even more [Prime Day Apple deals that are still live](https://www.zdnet.com/article/best-prime-day-apple-deals-still-available-2024/), we've got you covered.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -85,24 +85,20 @@ Deals are subject to sell out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-approaches.techidaily.com/new-top-ranked-android-song-curator/"><u>[New] Top-Ranked Android Song Curator</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-2024-approved-thieye-t5-versus-jcb-xs30-best-choice/"><u>[Updated] 2024 Approved Thieye T5 Versus JCB XS30 Best Choice?</u></a></li>
-<li><a href="https://discover-awesome.techidaily.com/1-seamless-convert-from-epub-to-mobi-format/"><u>1. Seamless Convert From EPUB to MOBI Format</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/60fpsmpc-hc-and-mpc-be/"><u>60Fps動画のフレーム埋め充実：MPC-HC & MPC-BE使用ガイド</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/a-comprehensive-guide-uploading-pictures-directly-from-windows-to-your-ipad-no-itunes-required/"><u>A Comprehensive Guide: Uploading Pictures Directly From Windows to Your iPad - No iTunes Required</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/a-step-by-step-guide-to-stunning-image-artistry-mosaics-for-2024/"><u>A Step-By-Step Guide to Stunning Image Artistry Mosaics for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/best-video-editing-tools-top-10-picks-fur-nutzer-von-windows-1110/"><u>Best Video Editing Tools: Top 10 Picks Für Nutzer Von Windows 11/10</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/besten-ai-video-upscaling-programme-6-auswahlmoglichkeiten/"><u>Besten AI Video Upscaling Programme - 6 Auswahlmöglichkeiten</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/catchemall-celebrate-national-pokemon-day-with-virtual-location-on-tecno-pop-8-drfone-by-drfone-virtual-android/"><u>CatchEmAll Celebrate National Pokémon Day with Virtual Location On Tecno Pop 8 | Dr.fone</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/chinese-vr-headset-marketplace-wonders/"><u>Chinese VR Headset Marketplace Wonders</u></a></li>
-<li><a href="https://windows11.techidaily.com/fixing-access-denied-and-restricted-access-issues-windows-office-solution/"><u>Fixing 'Access Denied' And Restricted Access Issues: Windows Office Solution</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-three-ways-to-sim-unlock-lava-yuva-2-by-drfone-android/"><u>In 2024, Three Ways to Sim Unlock Lava Yuva 2</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/iphone-mts/"><u>IPhone対応: MTSビデオファイルをスムーズに再生するテクニック</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/pouvez-vous-faire-fonctionner-votre-xbox-one-pour-lire-des-dvds-guide-de-depannage-detaille/"><u>Pouvez-Vous Faire Fonctionner Votre Xbox One Pour Lire Des DVDs ? Guide De Dépannage Détaillé</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/pulling-puzzled-listeners-intros-that-involve-for-2024/"><u>Pulling Puzzled Listeners Intros That Involve for 2024</u></a></li>
-<li><a href="https://techidaily.com/repair-damaged-unplayable-video-files-of-nubia-red-magic-8s-pro-on-windows-by-stellar-video-repair-mobile-video-repair/"><u>Repair damaged, unplayable video files of Nubia Red Magic 8S Pro on Windows</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/top-10-video-konvertierung-programme-fur-windows-11-sicheres-und-schnelles-umwandeln/"><u>Top 10 Video Konvertierung Programme Für Windows 11 - Sicheres Und Schnelles Umwandeln</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/ultimate-winx-mediatrans-top-ranked-app-for-seamless-iphone-and-ipad-photo-video-and-music-transfer-between-devices/"><u>Ultimate WinX MediaTrans: Top-Ranked App for Seamless iPhone and iPad Photo, Video & Music Transfer Between Devices</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/utilisation-dhandbrake-pour-lencodage-av1-possibilites-et-astuces/"><u>Utilisation D'HandBrake Pour L'encodage AV1 - Possibilités Et Astuces !</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-fixed-youtube-shorts-just-watch-and-enjoy/"><u>[New] 2024 Approved Fixed YouTube Shorts - Just Watch and Enjoy</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-fusing-genres-a-youtube-music-strategy/"><u>[New] 2024 Approved Fusing Genres A YouTube Music Strategy</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-free-mcb-theme-images-templates-and-more/"><u>[Updated] 2024 Approved Free MCB Theme Images, Templates & More</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-foundations-first-what-to-invest-in-for-youtubing/"><u>[Updated] In 2024, Foundations First What To Invest In for YouTubing</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-viewing-voids-to-viral-videos-the-top-ten-reasons-and-cures-for-zero-traffic/"><u>[Updated] In 2024, From Viewing Voids to Viral Videos The Top Ten Reasons & Cures for Zero Traffic</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-gamings-finest-top-10-gpu-picks-for-clear-online-broadcasts/"><u>[Updated] In 2024, Gaming's Finest Top 10 GPU Picks for Clear Online Broadcasts</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-blur-faces-or-objects-in-youtube-videos/"><u>[Updated] In 2024, How to Blur Faces or Objects in YouTube Videos</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-a-guide-to-peak-performance-posting-times-for-insta-success/"><u>2024 Approved A Guide to Peak Performance Posting Times for Insta Success</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/captivating-titles-easily-achievable/"><u>Captivating Titles, Easily Achievable</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-can-oneplus-ace-2vmirror-share-to-pc-drfone-by-drfone-android/"><u>How Can OnePlus Ace 2VMirror Share to PC? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-apple-iphone-14-pro-backup-password-never-set-but-still-asking-heres-the-fix-drfone-by-drfone-ios/"><u>In 2024, Apple iPhone 14 Pro Backup Password Never Set But Still Asking? Heres the Fix | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-professional-cine-tools-discover-the-top-15-luts-for-action-cams/"><u>In 2024, Professional Cine Tools Discover the Top 15 LUTs for Action Cams</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-things-you-should-know-when-unlocking-total-wireless-of-apple-iphone-14-plus-drfone-by-drfone-ios/"><u>In 2024, Things You Should Know When Unlocking Total Wireless Of Apple iPhone 14 Plus | Dr.fone</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/1726027826258-pc/"><u>PCで動画ファイル拡張子を変更するための効果的なガイド</u></a></li>
+<li><a href="https://article-helps.techidaily.com/superior-engine-picks-elevating-your-quadcopters-capabilities/"><u>Superior Engine Picks Elevating Your Quadcopter's Capabilities</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Energy Efficiency Improvements Across Various Sectors (Industry, Transportation, Buildings) Lower Overall Energy Consumption and Associated Emissions.
-date: 2024-11-23T16:09:17.618Z
-updated: 2024-11-28T17:08:31.457Z
+date: 2024-12-06T18:53:33.340Z
+updated: 2024-12-07T19:57:47.252Z
 tags:
   - apple
 categories:
@@ -60,6 +60,10 @@ Maria Diaz/ZDNET
 * In the Notes app, users can **record and transcribe audio**, which Apple Intelligence will generate a text summary of. This experience is also available in the Notes phone app.
 * Apple Intelligence is free on iOS 18, iPadOS 18, and MacOS Sequoia, and will be available to try in English only this summer.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Partnership with OpenAI
 
 Jason Hiner/ZDNET
@@ -69,7 +73,7 @@ Jason Hiner/ZDNET
 * The ChatGPT integration will be coming to iOS 18, iPadOS 18, and MacOS Sequoia later this year.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## iOS 18
@@ -90,10 +94,6 @@ Adam Breeden/ZDNET
 * The **Safari app** was upgraded to include key information about a webpage. You can read more about the Safari upgrades under the MacOS section of this article.
 * The **Calendar app** can now pull from the Reminders app for a more seamless schedule overview.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## WatchOS 11
 
 Adam Breeden/ZDNET
@@ -108,10 +108,6 @@ Adam Breeden/ZDNET
 * **Check In** is available on Apple Watch, even during workouts, to help users stay safe. **Translate** is also coming to Apple Watch so users can translate text right from their wrists.
 * Another notable change is that the **double tap gesture** can be used to scroll through apps.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## iPadOS 18
 
 Adam Breeden/ZDNET
@@ -123,7 +119,7 @@ Adam Breeden/ZDNET
 * iPadOS 18 supports **screen-sharing via SharePlay** and the same Control Center customizations, Photos app upgrades, Safari updates, and emoji Tapbacks found in **iOS 18.**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## MacOS 15 (Sequoia)
@@ -136,6 +132,10 @@ Adam Breeden/ZDNET
 * **Video meetings** are also getting an upgrade, with new backgrounds and a preview experience that allows you to see what you are about to share before sharing it. This feature works with popular video conferencing applications such as FaceTime and Zoom.
 * The **AI summarization** tool will live in Safari to help users process content like web pages and articles more efficiently. Safari will also assist users in discovering more helpful information about a page they are browsing when relevant, such as directions.
 * Apple also launched a new **Viewer experience**, which does for video what Reader does for text.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## VisionOS 2
 
@@ -154,10 +154,6 @@ Jason Hiner/ZDNET
 * Users can **cast content** from their iPhone, iPad, or Mac to the Vision Pro using AirPlay.
 * Apple is also making the Vision Pro available in more countries starting June 28\. You can see the full list [here](https://www.apple.com/newsroom/2024/06/apple-vision-pro-arrives-in-new-countries-and-regions-beginning-june-28/).
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## AirPods
 
 Jason Hiner/ZDNET
@@ -165,6 +161,10 @@ Jason Hiner/ZDNET
 * AirPods Pro are getting **Voice Isolation** to enhance call quality in noisier environments.
 * With the new **Siri Interactions**, users can now **nod or shake their head** "yes" or "no" when responding to Siri.
 * Apple is also releasing a **Personalized Spatial Audio API** for game developers to build around the AirPods' audio technology.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## tvOS 18
 
@@ -210,18 +210,22 @@ Screenshot by Nina Raemont/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-in-2024-insiders-look-at-advanced-streamlabs-obs-techniques/"><u>[New] In 2024, Insider's Look at Advanced Streamlabs OBS Techniques</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/comparative-analysis-of-the-6-leading-programs-to-rip-and-decrypt-drm-protected-disney-and-sony-dvds/"><u>Comparative Analysis of the 6 Leading Programs to Rip & Decrypt DRM-Protected Disney & Sony DVDs</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/discover-7-must-have-free-apps-for-students-starting-a-new-semester/"><u>Discover 7 Must-Have Free Apps for Students Starting a New Semester</u></a></li>
-<li><a href="https://common-error.techidaily.com/error-0x887a0006-troubleshooting-fast-and-effective-solutions/"><u>Error 0X887A0006 Troubleshooting: Fast and Effective Solutions</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-stop-google-chrome-from-tracking-your-location-on-vivo-x100-pro-drfone-by-drfone-virtual-android/"><u>How to Stop Google Chrome from Tracking Your Location On Vivo X100 Pro? | Dr.fone</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-outdoor-video-equipment-guide/"><u>In 2024, Outdoor Video Equipment Guide</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-which-pokemon-can-evolve-with-a-moon-stone-for-samsung-galaxy-s24-drfone-by-drfone-virtual-android/"><u>In 2024, Which Pokémon can Evolve with a Moon Stone For Samsung Galaxy S24? | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/overcoming-unexpected-app-halts-in-cod-modern-warfare-3-fix-guide/"><u>Overcoming Unexpected App Halts in COD Modern Warfare 3 - Fix Guide</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/pcts/"><u>PC上でTSファイルを見やすくリプレース方法 - 使い心地良しガイド!</u></a></li>
-<li><a href="https://review-topics.techidaily.com/realme-data-retrieval-tool-restore-lost-data-from-realme-by-fonelab-android-recover-data/"><u>Realme Data Retrieval tool – restore lost data from Realme</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/telechargement-gratuit-du-convertisseur-video-en-mp3-extraction-audio-facile-de-votre-video/"><u>Téléchargement Gratuit Du Convertisseur Vidéo en MP3 : Extraction Audio Facile De Votre Vidéo</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/asy-way-to-spruce-up-your-youtube-feedback-with-emojis/"><u>The Easy Way to Spruce Up Your YouTube Feedback with Emojis</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/1725284231995-ai/"><u>ウィンクスビデオAI:揺らぎがなくなる画像安定化ソフトウェア</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-footage-to-frame-crafting-youtube-thumbnails-on-mobile-devices/"><u>[New] 2024 Approved From Footage to Frame Crafting YouTube Thumbnails on Mobile Devices</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-exclusive-changes-in-photo-backgrounds-visionshift-elite/"><u>[New] Exclusive Changes in Photo Backgrounds VisionShift Elite</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-finance-frontiers-the-finest-youtube-channels-to-follow-for-2024/"><u>[New] Finance Frontiers The Finest YouTube Channels to Follow for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-watch-9-free-full-length-christmas-movies-on-youtube-for-2024/"><u>[New] Watch 9 Free Full Length Christmas Movies On YouTube for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-fine-tune-youtube-video-pacing-desktopmobile/"><u>[Updated] 2024 Approved Fine-Tune YouTube Video Pacing - Desktop/Mobile</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-twitters-hot-spots-1-10-viral-visits/"><u>[Updated] 2024 Approved Twitter's Hot Spots #1-#10 Viral Visits</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-xiaomi-11-series-capture-life-in-high-definition/"><u>[Updated] 2024 Approved Xiaomi 11 Series Capture Life in High Definition</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-for-social-media-savants-distinguishing-between-igtv-and-youtube-for-2024/"><u>[Updated] For Social Media Savants Distinguishing Between IGTV & YouTube for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-from-blurry-to-bold-crafting-powerful-youtube-previews-for-2024/"><u>[Updated] From Blurry to Bold Crafting Powerful YouTube Previews for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-make-a-cool-youtube-video-intro-in-imovie-step-by-step-for-2024/"><u>[Updated] How to Make a Cool YouTube Video Intro in iMovie (Step-by-Step) for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-harmonious-hub-choosing-the-best-free-apps-for-your-youtube-music-streams/"><u>[Updated] In 2024, Harmonious Hub Choosing the Best Free Apps for Your YouTube Music Streams</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-top-9-indoor-game-apps-perfect-for-android-without-connectivity/"><u>2024 Approved Top 9 Indoor Game Apps - Perfect For Android Without Connectivity</u></a></li>
+<li><a href="https://win-great.techidaily.com/1726030082324-windows-10/"><u>新規ユーザーのためのWindows 10動画圧縮手引き - シンプルな方法</u></a></li>
+<li><a href="https://techidaily.com/is-your-nokia-xr21-working-too-slow-heres-how-you-can-hard-reset-it-drfone-by-drfone-reset-android-reset-android/"><u>Is your Nokia XR21 working too slow? Heres how you can hard reset it | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/itel-a70-bootloop-problem-how-to-fix-it-without-data-loss-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Itel A70 Bootloop Problem, How to Fix it Without Data Loss | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solutions-for-when-your-usb-mouse-wont-connect-to-your-pc-fix-guide/"><u>Solutions for When Your USB Mouse Won't Connect to Your PC – Fix Guide</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/transform-your-pubg-presence-with-new-sounds/"><u>Transform Your PUBG Presence with New Sounds</u></a></li>
 </ul></div>
 

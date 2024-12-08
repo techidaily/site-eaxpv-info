@@ -1,7 +1,7 @@
 ---
 title: Finding Water Damage by Apple Lightning Cable - How to Respond?
-date: 2024-11-27T18:00:52.584Z
-updated: 2024-11-28T17:43:37.051Z
+date: 2024-12-02T18:46:00.614Z
+updated: 2024-12-07T23:35:44.065Z
 tags:
   - apple
 categories:
@@ -25,6 +25,10 @@ Below, you'll find the best sales and discounts on Apple products, including Mac
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Best Apple deals of July 2024
 
@@ -125,6 +129,10 @@ If you are willing to trade in an older device, you can save on the 11-inch and 
 
 [View now at Best Buy](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fapple%2Fnew-ipad-pro-m4%2Fpcmcat1715092665904.c%3Fid%3Dpcmcat1715092665904&publisher_slug=itechdaily19598&exclusive=1) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  More Apple deals
 
 [Walmart: Save up to $1,200 on the new iPhone 15 series View now at Walmart](https://goto.walmart.com/c/5597632/565706/9383?sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fshop%2Fcol%2Fnew-iphone&subId1=zd-__COM_CLICK_ID__-dtp)
@@ -157,10 +165,6 @@ If you are willing to trade in an older device, you can save on the 11-inch and 
 
 [Discounts for students, teachers, educators at Apple View now at Apple](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fus-edu%2Fstore&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Apple accessory deals
 
 [Apple Pencil (1st-gen) deal for $79 (save $20) $79 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FApple-Pencil-1st-Generation-Adapter%2Fdp%2FB0BJLG69QR%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C996c0d93-8a2f-4fec-85b8-dc8cbdf54a0d%7Cdtp&dtb=1)
@@ -175,27 +179,27 @@ If you are willing to trade in an older device, you can save on the 11-inch and 
 
 [Apple Lightning to 3.5 mm headphone jack adapter deal for $8 (save $2) $8 at Walmart](https://goto.walmart.com/c/159047/565706/9383?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FApple-Lightning-to-3-5-mm-Headphone-Jack-Adapter%2F54738078%3Fathbdg%3DL1103&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Can I buy an iPhone without a plan?
 
 Yes, but you must ensure that your new iPhone is not locked to a specific carrier. You can buy unlocked iPhones, both new and pre-owned, from sources including Apple itself, Amazon, Best Buy, and Walmart.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What is the cheapest Apple product?
 
 Apple's AirTag, a tracking device that connects to your account and allows you to find lost objects such as your keys, is Apple's cheapest product. Typically, a single AirTag retails for $29, whereas you can also purchase four-packs for around $99 outside of sales and promotions. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Is there a monthly fee for Apple iPads?
 
 This depends on the type of iPad you decide to purchase. If you opt for a Wi-Fi-only iPad -- regardless of whether you have bought a classic iPad, iPad mini, or iPad Pro -- then there will be no monthly fee or subscription. 
 
 However, if you choose an iPad with Wi-Fi and cellular connectivity, then you will need to pay for a mobile data plan to take advantage of the iPad's cellular features. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How did we choose these Apple deals?
 
@@ -211,7 +215,7 @@ Factors influencing our recommendations include:
 * **Availability**: If we come across a great Apple deal but only a few units are in stock unless it is a stellar saving you only see once in a blue moon, we will discount it and select a product with better stock levels instead.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What are the best deals right now?
@@ -234,10 +238,6 @@ ZDNET has been scouring the sale to find the best deals by category:
 * [The best iPhone deals](https://www.zdnet.com/article/iphone-deals/)
 * [The best TV deals](https://www.zdnet.com/home-and-office/home-entertainment/tv-deals/)
 * [The best deals under $30](https://www.zdnet.com/home-and-office/deals-under-30/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## When will these deals expire?
 
@@ -283,24 +283,16 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/024-approved-gain-cost-free-visuals-from-selective-4-youtube-feeds/"><u>[New] 2024 Approved Gain Cost-Free Visuals From Selective 4 YouTube Feeds</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/new-digital-enhancement-social-story-recorder-for-2024/"><u>[New] Digital Enhancement Social Story Recorder for 2024</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-the-best-hash-tracking-apps-on-major-platforms-like-fb-tweet-and-insta-for-2024/"><u>[Updated] The Best Hash Tracking Apps on Major Platforms Like FB, Tweet & Insta for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/tsmovavi/"><u>快適なツールでTSファイル変換：Movaviのお得なオンライン解決策</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/aiwav-movavi/"><u>網路無限 AI語音轉WAV - 便利的 MOVAVI 自動語言過濾與轉檔工具</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/mkv-vob-movavi/"><u>在線免費 MKV 改變為 VOB 的方法 - Movavi 轉換軟件指南</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/aac-to-mpeg-conversion-at-no-cost-using-the-web-based-tool-from-moveavi/"><u>AAC to MPEG Conversion at No Cost: Using the Web-Based Tool From MoveAVI</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/advanced-tech-insights-with-toms-hardware-the-ultimate-review-hub/"><u>Advanced Tech Insights with Tom's Hardware - The Ultimate Review Hub</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/as-mais-eficientes-ferramentas-de-edicao-imagem-retirando-pessoas-das-cenas/"><u>As Mais Eficientes Ferramentas De Edição Imagem: Retirando Pessoas Das Cenas</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/1726224095673-avi/"><u>AVI 파일을 영어나 구문 이해 가능한 형식으로 오븐에서 무료로 전환하는 방법</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/boost-your-movie-magic-free-text-animation-basics-for-2024/"><u>Boost Your Movie Magic Free Text Animation Basics for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/free-webm-to-mpeg-converter-online-movavi-editors/"><u>Free Webm to Mpeg Converter Online - Movavi Editors</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-frp-on-lava-storm-5g-by-drfone-android/"><u>In 2024, How to Bypass FRP on Lava Storm 5G?</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-nine-superior-choices-for-live-streaming-now/"><u>In 2024, Nine Superior Choices for Live Streaming Now</u></a></li>
-<li><a href="https://fox-that.techidaily.com/independent-methods-for-restoring-an-iphone-bypassing-itunes/"><u>Independent Methods for Restoring an iPhone - Bypassing iTunes</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/innovative-power-solutions-exploring-the-features-of-poweradd-pilot-pro2-charging-station/"><u>Innovative Power Solutions: Exploring the Features of POWERADD Pilot Pro2 Charging Station</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/instantaneamente-transforma-tus-videos-wmv-al-formato-mov-sin-costo-el-mejor-convertidor-en-linea-de-movavi/"><u>Instantaneamente Transforma Tus Vídeos WMV Al Formato MOV Sin Costo: El Mejor Convertidor en Línea De Movavi</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/personal-photo-makeover-simple-tricks-to-modify-hair-and-skin-tone-for-a-fresh-appearance/"><u>Personal Photo Makeover: Simple Tricks to Modify Hair & Skin Tone for a Fresh Appearance</u></a></li>
-<li><a href="https://driver-download.techidaily.com/quick-and-simple-guide-to-updating-your-microsoft-sculpt-ergonomic-keyboard-drivers/"><u>Quick and Simple Guide to Updating Your Microsoft Sculpt Ergonomic Keyboard Drivers</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-how-to-broadcast-your-online-meeting-via-youtube-google-meet-steps-for-2024/"><u>[New] How To Broadcast Your Online Meeting via YouTube - Google Meet Steps for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-how-to-download-youtube-tunes-without-risk-for-free-for-2024/"><u>[New] How to Download YouTube Tunes Without Risk for Free for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-beginner-to-expert-choose-studio-or-beta/"><u>[New] In 2024, From Beginner to Expert Choose Studio or Beta</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-going-against-gravity-innovative-ways-to-rewind-youtube-content/"><u>[New] In 2024, Going Against Gravity Innovative Ways to Rewind YouTube Content</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-the-composers-handbook-to-instagram-and-music-rights/"><u>[New] The Composer's Handbook to Instagram and Music Rights</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-flourishing-on-a-beauty-youtube-channel-for-2024/"><u>[Updated] Flourishing on a Beauty YouTube Channel for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/approved-youtubes-best-music-video-reactions-2023-list/"><u>2024 Approved YouTube's Best Music Video Reactions, 2023 List</u></a></li>
+<li><a href="https://win-blog.techidaily.com/conquer-gaming-hurdles-effective-fixes-for-tales-of-arise-crashing-problems/"><u>Conquer Gaming Hurdles: Effective Fixes for 'Tales of Arise' Crashing Problems</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-can-i-catch-the-regional-pokemon-without-traveling-on-honor-magic5-ultimate-drfone-by-drfone-virtual-android/"><u>In 2024, How Can I Catch the Regional Pokémon without Traveling On Honor Magic5 Ultimate | Dr.fone</u></a></li>
+<li><a href="https://driver-install.techidaily.com/lenovo-g580-one-step-driver-updates/"><u>Lenovo G580: One-Step Driver Updates</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/talent-in-cocktails-chatgpts-evaluation/"><u>Talent in Cocktails: ChatGPT's Evaluation</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Set Up Slack Push Notifications for iPhone and Apple Watch | Insights by ZDNet
-date: 2024-11-27T18:50:53.271Z
-updated: 2024-11-28T19:05:07.560Z
+date: 2024-12-01T23:10:26.669Z
+updated: 2024-12-07T20:22:44.264Z
 tags:
   - apple
 categories:
@@ -44,13 +44,13 @@ Here's how.
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to enable Slack notifications on your Apple Watch
 
 **What you'll need:** Have the latest versions of iOS and watchOS installed on your iPhone and Apple Watch, respectively. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 1\. Install the Slack app on your iPhone
 
@@ -58,9 +58,17 @@ There is no dedicated Slack app for the Apple Watch, but there is an iPhone app.
 
 Once it's installed, go ahead and log into your various Slack channels. Get those setup and working as you like before configuring the app for notifications.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Set up Slack notifications in the system settings
 
 Let's make sure iOS is set up to allow Slack notifications. Go to the main Settings app and on the main settings screen, scroll all the way down to Slack. It's a long scroll past many other apps. Tap into Slack.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##   
 
@@ -73,7 +81,7 @@ Now, back out to the top of the Settings app and tap the red Notifications icon.
 Screenshot by David Gewirtz/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Set up Slack notifications in the Slack app
@@ -98,6 +106,10 @@ Screenshot by David Gewirtz/ZDNET
 
 Set it to "Always, even when I'm active". That way, you'll always get notifications, no matter what you're doing (unless you have Do Not Disturb turned on).
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4\. Set your notification schedule
 
 Let's go back to the Slack app's Notifications screen for a moment. Scroll down to General Settings and notice the Notification Schedule option. See how it says "Every day."
@@ -118,27 +130,15 @@ So, make sure you set the Start and End times that fit with your schedule.
 
 Recommendation to Slack: Where you put the "Every day" option in that setting, add the times as well (e.g., "Every day 8 a.m. - 11 p.m."). That way, it's clear to users what they might need to change. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 5\. Enable Slack notifications in the Watch app
 
 We're almost done configuring notifications. Open the Watch app and scroll down to Notifications. Then scroll down to Slack and make sure it's turned on.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##   
 
 Screenshot by David Gewirtz/ZDNET
 
 There. You've set up notifications. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  6\. Use the Watch to get Slack notifications
 
@@ -179,14 +179,16 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/ed-how-to-create-impactful-video-elements-cardsannotations-for-2024/"><u>[Updated] How to Create Impactful Video Elements Cards/Annotations for 2024</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-metaverse-visibility-your-step-by-step-avatar-design/"><u>[Updated] Metaverse Visibility Your Step-by-Step Avatar Design</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/1725286346607-winxvideo-ai/"><u>如何利用Winxvideo AI教學與指南: 進行影片編輯、拍攝和壓縮程序</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/dvd-playback-enjoy-movies-without-downloading-software/"><u>DVD Playback - Enjoy Movies Without Downloading Software</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-old-call-logs-from-your-honor-70-lite-5g-by-fonelab-android-recover-call-logs/"><u>How to recover old call logs from your Honor 70 Lite 5G?</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-open-your-iphone-12-pro-max-without-a-home-button-by-drfone-ios/"><u>In 2024, How To Open Your iPhone 12 Pro Max Without a Home Button</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/ultimate-guide-to-winx-mediatrans-top-app-for-seamless-iphone-and-ipad-data-transfer-between-device-and-pc/"><u>Ultimate Guide to WinX MediaTrans: Top App for Seamless iPhone and iPad Data Transfer Between Device & PC</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/unlock-your-samsung-galaxy-s24plus-phone-with-ease-the-3-best-lock-screen-removal-tools-by-drfone-android/"><u>Unlock Your Samsung Galaxy S24+ Phone with Ease The 3 Best Lock Screen Removal Tools</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/winxvideo-ai-winxvideo-ai-how-to-guide-for-video-frame-interpolation/"><u>Winxvideo AIを活用した効果的な動画フレーム補完法 : Winxvideo AI How-To Guide for Video Frame Interpolation</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-youtube-streams-to-local-files-audio-guide/"><u>[New] 2024 Approved From YouTube Streams to Local Files Audio Guide</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-locate-your-youtube-fanbase/"><u>[New] 2024 Approved How to Locate Your YouTube Fanbase</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-5-excellent-video-conference-devices-for-professionals/"><u>[New] 5 Excellent Video Conference Devices for Professionals</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-discover-the-leading-free-screen-recording-tools-for-mac-os/"><u>[New] In 2024, Discover the Leading Free Screen Recording Tools for Mac OS</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-hiding-youtube-playback-tips-for-ios-and-android/"><u>[New] In 2024, Hiding YouTube Playback Tips for iOS and Android</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-youtube-live-pro-tips-outfitting-with-excellent-webcams/"><u>[New] In 2024, YouTube Live Pro Tips Outfitting with Excellent Webcams</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-gaining-traction-effective-seo-techniques-for-youtube-videos/"><u>[Updated] In 2024, Gaining Traction Effective SEO Techniques for YouTube Videos</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-unveiling-top-10-destinations-for-high-end-vectors/"><u>2024 Approved Unveiling Top 10 Destinations for High-End Vectors</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/comprehensive-guide-your-shorts-hidden-thumbnails/"><u>Comprehensive Guide Your Shorts' Hidden Thumbnails</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-in-2024-s-top-free-video-compressor-options-for-windows-10/"><u>Updated In 2024, S Top Free Video Compressor Options for Windows 10</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/windows-cannot-retrieve-printer-drivers/"><u>Windows Cannot Retrieve Printer Drivers</u></a></li>
 </ul></div>
 

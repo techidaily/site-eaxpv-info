@@ -1,7 +1,7 @@
 ---
 title: IPhone Models Supported by iOS N° 18 Upgrade – Identifying the Latest and Older iPhone Versions Affected
-date: 2024-10-26T11:53:19.745Z
-updated: 2024-11-02T01:35:59.353Z
+date: 2024-12-07T00:35:07.354Z
+updated: 2024-12-07T23:04:10.515Z
 tags:
   - apple
 categories:
@@ -59,6 +59,10 @@ Aside from the inferior Photos app navigation, videos in the Photos app no longe
 
 "The UX is a huge downgrade. It's so bad that I had to submit feedback to Apple via the feedback app in the beta. Never did one of those when it wasn't a technical bug, just pure user experience frustration," another [Redditor said](https://www.reddit.com/r/apple/comments/1e2jtq5/comment/ld1wsjg/?utm%5Fsource=share&utm%5Fmedium=web3x&utm%5Fname=web3xcss&utm%5Fterm=1&utm%5Fcontent=share%5Fbutton).
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to navigate the iOS 18 Photos app
 
 Maria Diaz/ZDNET
@@ -105,29 +109,22 @@ I hope a future version of iOS 18 will bring back the Camera Roll or at least to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-flavorful-follows-top-food-vloggers-to-track/"><u>[New] 2024 Approved Flavorful Follows Top Food Vloggers to Track</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/new-expert-tips-on-figma-seamless-bg-erasure-techniques/"><u>[New] Expert Tips on Figma Seamless BG Erasure Techniques</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-free-film-and-image-repository-highlights/"><u>[New] In 2024, Free Film and Image Repository Highlights</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-frame-to-firm-selecting-your-mcn-partner/"><u>[New] In 2024, From Frame to Firm Selecting Your MCN Partner</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-harness-youtubes-power-with-these-top-7-affordable-easy-to-use-tag-extractor-tools/"><u>[New] In 2024, Harness YouTube's Power with These Top 7 Affordable, Easy-to-Use Tag Extractor Tools</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-in-2024-harnessing-lightrooms-power-for-spectacular-hdr-results/"><u>[New] In 2024, Harnessing Lightroom's Power for Spectacular HDR Results</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-high-paying-creator-status-on-youtube/"><u>[Updated] 2024 Approved High-Paying Creator Status on YouTube</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-boost-your-youtube-revenue-from-mobile-a-comprehensive-guide/"><u>[Updated] 2024 Approved How to Boost Your YouTube Revenue From Mobile - A Comprehensive Guide</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-flip-flop-your-watching-anchoring-yourself-at-the-end-of-queue/"><u>[Updated] In 2024, Flip-Flop Your Watching Anchoring Yourself at the End of Queue</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-does-youtube-count-views-its-not-as-simple-as-you-think/"><u>[Updated] In 2024, How Does YouTube Count Views? It's Not as Simple as You Think</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-unveiling-the-mysteries-of-metaverse-persona-designs/"><u>2024 Approved Unveiling the Mysteries of Metaverse Persona Designs</u></a></li>
-<li><a href="https://android-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-nokia-c110-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Nokia C110</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/competitor-cameras-rising-the-ultimate-guide-to-substitutes-for-samsungs-gear-360/"><u>Competitor Cameras Rising The Ultimate Guide to Substitutes for Samsung's Gear 360</u></a></li>
-<li><a href="https://fox-info.techidaily.com/dynamic-panzoid-assembly-resources-for-2024/"><u>Dynamic Panzoid Assembly Resources for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-your-devices-connected-with-nexiqs-usb-link-driver-download-free/"><u>Get Your Devices Connected with NEXIQ's USB-Link Driver [Download Free]</u></a></li>
-<li><a href="https://extra-information.techidaily.com/in-2024-1-general-trivia-challenge-web-series/"><u>In 2024, 1 General Trivia Challenge Web Series</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ardized-youtube-images-made-accessible-3-easy-ways-to-download/"><u>Standardized YouTube Images Made Accessible 3 Easy Ways to Download</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-frame-rate-dilemma-30-vs-60-fps-in-video-production/"><u>[New] Frame Rate Dilemma 30 Vs. 60 FPS in Video Production</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-green-screen-journey-begins-on-yt-ideas-take-flight-for-2024/"><u>[New] Green Screen Journey Begins on YT, Ideas Take Flight for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-how-to-increase-youtube-traffic-by-a-million-safely-done-for-2024/"><u>[New] How to Increase YouTube Traffic by a Million Safely Done for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-mediacollector-for-fb-groups/"><u>[New] MediaCollector for Fb Groups</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-foremost-guide-to-youtube-equipment-for-rookies/"><u>[Updated] 2024 Approved Foremost Guide to YouTube Equipment for Rookies</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-beginners-guide-how-to-create-a-youtube-channel-and-make-money-for-2024/"><u>[Updated] Beginners’ Guide How To Create a YouTube Channel and Make Money for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-guide-the-ultimate-list-of-video-converters-for-2024/"><u>[Updated] Guide The Ultimate List of Video Converters for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-guide-youtube-to-mp4-ensuring-data-security-for-2024/"><u>[Updated] Guide YouTube to MP4 - Ensuring Data Security for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-flashflicker-artist/"><u>[Updated] In 2024, FlashFlicker Artist</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-animate-and-make-your-own-effects/"><u>[Updated] In 2024, How to Animate and Make Your Own Effects</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-joke-makers-haven-get-it-today/"><u>2024 Approved Joke Makers' Haven - Get It Today</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/1719818320933-boost-graphics-card-functionality-update-gtx-1060/"><u>Boost Graphics Card Functionality, Update GTX 1060!</u></a></li>
+<li><a href="https://extra-information.techidaily.com/crafting-transitional-beats-with-cross-sound-blending/"><u>Crafting Transitional Beats with Cross-Sound Blending</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/from-words-to-whispers-penning-poetic-masterpieces-with-the-help-of-chaturbate-gpt/"><u>From Words to Whispers: Penning Poetic Masterpieces with the Help of Chaturbate GPT</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/installing-llama-2-on-your-machine-the-ultimate-tutorial/"><u>Installing Llama 2 on Your Machine – The Ultimate Tutorial</u></a></li>
+<li><a href="https://blog-min.techidaily.com/transferring-your-dvd-collection-step-by-step-guide-to-moving-content-from-dvds-to-ipads/"><u>Transferring Your DVD Collection: Step-by-Step Guide to Moving Content From DVDs to iPads</u></a></li>
+<li><a href="https://location-social.techidaily.com/why-your-whatsapp-location-is-not-updating-and-how-to-fix-on-honor-magic-5-drfone-by-drfone-virtual-android/"><u>Why Your WhatsApp Location is Not Updating and How to Fix On Honor Magic 5 | Dr.fone</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 

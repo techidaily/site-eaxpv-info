@@ -1,7 +1,7 @@
 ---
 title: "IPad's Latest Calculator App: So Sophisticated, You'll Want the Apple Pencil – Discover How"
-date: 2024-11-27T16:01:11.665Z
-updated: 2024-11-28T17:08:33.671Z
+date: 2024-12-06T21:10:05.474Z
+updated: 2024-12-07T19:02:42.234Z
 tags:
   - apple
 categories:
@@ -23,7 +23,7 @@ Adrian Kingsley-Hughes/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -43,7 +43,7 @@ What I really need is a dedicated travel kit for charging my gadgets, which incl
 [ZDNET RECOMMENDS ESR 3-in-1 Qi2 wireless travel charger This set is built for the road, and the foldable, compact design and included travel bag means it easily slips into a backpack or suitcase. View at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FESR-Charging-Station-Certified-Multiple%2Fdp%2FB0CW2J9XB8%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cd405c3b3-9fde-429f-ae82-f128bd45456e%7Cdtp&dtb=1)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ESR 3-in-1 wireless travel charger features
@@ -82,7 +82,7 @@ In fact, it's the perfect kit for someone who is all-in with Apple gear.
 I've carried out all my usual tests on this charger, including safety tests and thermal checks, and it passed all of them with flying colors, which I would expect from a company such as ESR, which has a track record for making excellent charging tools.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -121,20 +121,21 @@ One of the standout features is the carry case, which has designated spots for e
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/new-2024-approved-transform-your-footage-with-the-ideal-dimension-proportion/"><u>[New] 2024 Approved Transform Your Footage with the Ideal Dimension Proportion</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-streamlined-methods-for-saving-videos-on-desktops-tablets-and-phones/"><u>[Updated] 2024 Approved Streamlined Methods for Saving Videos on Desktops, Tablets & Phones</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-mastering-the-art-of-play-navigating-switch-pro-and-steam-games-for-2024/"><u>[Updated] Mastering the Art of Play Navigating Switch Pro and Steam Games for 2024</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-seeking-the-best-ps2-games-try-these-5-android-emulators-for-2024/"><u>[Updated] Seeking the Best PS2 Games? Try These 5 Android Emulators for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/1-solve-silent-playback-restoring-audio-in-reddit-app-for-feeds-gifs-and-video-content/"><u>1. Solve Silent Playback: Restoring Audio in Reddit App for Feeds, GIFs, and Video Content</u></a></li>
-<li><a href="https://extra-information.techidaily.com/2024-approved-changing-video-pace-on-your-instagram-feed/"><u>2024 Approved Changing Video Pace on Your Instagram Feed</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/dvd-windows-10-t17252908042183/"><u>免費DVD上色軟件 高效便利 - Windows 10版本特別釋出,點選報名直接獎賞!</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/best-free-dvd-playback-programs-compatible-with-windows-1111-a-comprehensive-list/"><u>Best Free DVD Playback Programs Compatible with Windows 11/11: A Comprehensive List</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/fuhren-sie-ihre-dvds-nahtlos-in-live-streams-uber-nas-um-erleben-sie-qualitat-bei-synologyqnap/"><u>Führen Sie Ihre DVDs Nahtlos in Live-Streams Über NAS Um, Erleben Sie Qualität Bei Synology/QNAP</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/guida-facile-alla-conversione-di-dvd-in-formato-mp4-senza-costi-compatibile-con-windows-e-macos/"><u>Guida Facile Alla Conversione Di DVD in Formato MP4 Senza Costi, Compatibile Con Windows E macOS</u></a></li>
-<li><a href="https://change-location.techidaily.com/home-button-not-working-on-oneplus-nord-ce-3-5g-here-are-real-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Home Button Not Working on OnePlus Nord CE 3 5G? Here Are Real Fixes | Dr.fone</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-detailed-guide-of-ispoofer-for-pogo-installation-on-realme-11-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Detailed guide of ispoofer for pogo installation On Realme 11 5G | Dr.fone</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-open-gallery-timeless-visuals-no-rights-to-claim/"><u>In 2024, Open Gallery Timeless Visuals No Rights to Claim</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-unlock-iphone-photography-top-angles-for-stunning-images/"><u>In 2024, Unlock iPhone Photography Top Angles for Stunning Images</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/optional-a-ruler-or-measuring-device-for-analyzing-fringe-spacing/"><u>Optional: A Ruler or Measuring Device for Analyzing Fringe Spacing</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-getting-started-with-youtube-tv-a-must-read-article/"><u>[New] 2024 Approved Getting Started with YouTube TV A Must-Read Article</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-harness-the-power-of-imagery-top-7-free-thumbnail-makers/"><u>[New] In 2024, Harness the Power of Imagery Top 7 Free Thumbnail Makers</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-maximizing-harvest-valheims-prime-planting-choices/"><u>[New] Maximizing Harvest Valheim's Prime Planting Choices</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-camera-cutting-edge-an-in-depth-look-at-ion-air-pro-3/"><u>[Updated] Camera Cutting-Edge An In-Depth Look at ION Air Pro 3</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-make-a-thumbnail-for-your-youtube-free-easily-for-2024/"><u>[Updated] How to Make a Thumbnail for Your YouTube Free Easily for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-going-against-the-tide-of-tradition-innovative-techniques-for-yt-rewinds/"><u>[Updated] In 2024, Going Against the Tide of Tradition Innovative Techniques for YT Rewinds</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-optimize-youtube-tagstitledescription-for-more-views/"><u>[Updated] In 2024, How to Optimize YouTube Tags/Title/Description for More Views</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-top-picks-7-best-live-streaming-apps-to-upgrade-your-youtube-presence-iosandroid/"><u>[Updated] Top Picks 7 Best Live Streaming Apps to Upgrade Your YouTube Presence (iOS/Android)</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-top-picks-for-zero-cost-film-and-photography-resources/"><u>[Updated] Top Picks for Zero-Cost Film and Photography Resources</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-futures-palette-the-best-sci-fi-films-crafting-virtual-worlds/"><u>2024 Approved Future's Palette The Best Sci-Fi Films Crafting Virtual Worlds</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-premier-converters-top-8-streamline-your-subtitles-to-srt/"><u>2024 Approved Premier Converters Top 8 Streamline Your Subtitles to SRT</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/adjusting-mypower-configurations-a-step-by-step-guide-with-yl-software/"><u>Adjusting MyPower Configurations: A Step-by-Step Guide with YL Software</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discovering-the-essentials-with-toms-hardware-explorations/"><u>Discovering the Essentials with Tom's Hardware Explorations</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-here-are-some-reliable-ways-to-get-pokemon-go-friend-codes-for-xiaomi-redmi-12-drfone-by-drfone-virtual-android/"><u>In 2024, Here Are Some Reliable Ways to Get Pokemon Go Friend Codes For Xiaomi Redmi 12 | Dr.fone</u></a></li>
+<li><a href="https://article-helps.techidaily.com/premier-iphone-x8-series-gif-apps-reviewed-for-2024/"><u>Premier iPhone X/8 Series GIF Apps Reviewed for 2024</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/speedy-strategies-for-seamlessly-handling-your-iphones-address-book/"><u>Speedy Strategies for Seamlessly Handling Your iPhone's Address Book</u></a></li>
 </ul></div>
 
