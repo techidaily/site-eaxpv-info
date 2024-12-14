@@ -1,7 +1,7 @@
 ---
 title: Navigating the Latest in PC Components with Tom - A Comprehensive Guide
-date: 2024-08-09T12:17:51.269Z
-updated: 2024-08-10T12:17:51.269Z
+date: 2024-12-09T18:10:06.175Z
+updated: 2024-12-14T00:31:11.904Z
 tags:
   - desktop
 categories:
@@ -15,9 +15,6 @@ Lenovo has launched a new series of gaming desktops powered by laptop CPUs. PCs 
 
  With an MoDT platform, if you want to change your CPU you would have to buy a complete new mainboard / CPU / cooler bundle. Mobile CPUs aren’t socketed but are[soldered](https://www.tomshardware.com/best-picks/best-soldering-irons) to the board, so the average tech enthusiast isn’t going to be able to swap or upgrade the CPU. Thus it is very important to consider this spec very carefully before committing.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
 ![Lenovo Legion 7000K gaming PCs](https://cdn.mos.cms.futurecdn.net/KiWmBjf3WBxdHs7uNFYu2U-320-80.jpg)
 
  (Image credit: Lenovo)
@@ -30,9 +27,6 @@ Lenovo has launched a new series of gaming desktops powered by laptop CPUs. PCs 
 
  As with other MoDT platforms, we aren’t sure if the[cooling system](https://www.tomshardware.com/reviews/best-cpu-coolers,4181.html) is easy to change or upgrade, as the mounts won’t likely be the same as in a desktop PC. Lenovo seems to indicate its CPU cooler is good for up to 190W. If the CPU cooling fan is standard, we guess it could be changed or upgraded.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Lenovo Legion 7000K gaming PCs](https://cdn.mos.cms.futurecdn.net/KHmtZBvJU6LcChAReYSDBU-320-80.jpg)
 
  (Image credit: Lenovo)
@@ -42,8 +36,9 @@ Lenovo has launched a new series of gaming desktops powered by laptop CPUs. PCs 
  Lastly, the new Legion systems come with a standard 32GB DDR5-5600 dual-channel RAM and 1TB[PCIe Gen4 storage](https://www.tomshardware.com/reviews/best-ssds,3891.html) . Again, upgrades shouldn’t be a problem in the future with SODIMMs presumably used for RAM, and two M.2 slots and two SATA ports available for storage.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -62,8 +57,6 @@ Lenovo has launched a new series of gaming desktops powered by laptop CPUs. PCs 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -71,4 +64,19 @@ Lenovo has launched a new series of gaming desktops powered by laptop CPUs. PCs 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-snippets-to-stars-the-essence-of-video-musical-success/"><u>[New] 2024 Approved From Snippets to Stars The Essence of Video Musical Success</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-getting-started-with-stylish-mac-made-youtube-vids/"><u>[New] 2024 Approved Getting Started with Stylish Mac-Made YouTube Vids</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-make-the-most-of-your-youtube-watches-gif-magic-for-devices/"><u>[New] 2024 Approved How to Make the Most of Your YouTube Watches GIF Magic for Devices</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-flix-fortune-hashtags-for-high-impact-low-length-video-content/"><u>[New] In 2024, Flix Fortune Hashtags for High Impact, Low-Length Video Content</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-monetize-youtube-video-the-ultimate-guide-to-ad-revenue/"><u>[Updated] 2024 Approved Monetize YouTube Video | The Ultimate Guide to Ad Revenue</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/1-best-manycam-alternatives-top-virtual-camera-options-for-streamers-and-gamers/"><u>1. Best ManyCam Alternatives: Top Virtual Camera Options for Streamers and Gamers</u></a></li>
+<li><a href="https://facebook.techidaily.com/are-facebook-messenger-secret-conversations-really-secure/"><u>Are Facebook Messenger Secret Conversations Really Secure?</u></a></li>
+<li><a href="https://driver-download.techidaily.com/download-the-new-canon-mx922-driver-to-enhance-windows-printing-experience/"><u>Download the New Canon MX922 Driver to Enhance Windows Printing Experience</u></a></li>
+<li><a href="https://solve-info.techidaily.com/elevate-user-experience-with-the-precision-of-cookiebot-technology-integration/"><u>Elevate User Experience with the Precision of Cookiebot Technology Integration</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-samsung-galaxy-s23-tactical-edition-location-on-skout-drfone-by-drfone-virtual-android/"><u>How to Change Samsung Galaxy S23 Tactical Edition Location on Skout | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/master-the-galaxy-without-glitches-eliminating-stellaris-crashes-effectively/"><u>Master the Galaxy Without Glitches: Eliminating Stellaris Crashes Effectively</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-definition-quest-mastering-win11s-lexicon/"><u>Quick Definition Quest: Mastering Win11's Lexicon</u></a></li>
+</ul></div>
 

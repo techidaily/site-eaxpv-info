@@ -1,7 +1,7 @@
 ---
 title: "Discover the Clean Convenience: Experience Apple AirPlay in Selected Hotels – A Detailed Guide"
-date: 2024-12-03T16:06:08.021Z
-updated: 2024-12-07T18:36:59.622Z
+date: 2024-12-07T17:12:26.768Z
+updated: 2024-12-13T23:05:37.616Z
 tags:
   - apple
 categories:
@@ -32,6 +32,10 @@ Before you get started using Apple Pay in stores and online, here's what you nee
 
 **What you need:** iPhone, banking information
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Set up Apple Pay in the Wallet app
 
 Before using Apple Pay as your contactless payment form, you need to set it up by adding your credit or debit cards to your iPhone. You can set up Apple Pay from your [iPhone's settings](https://www.zdnet.com/article/dont-change-five-these-iphone-settings/) or simply by going to the Wallet app and adding your cards there. 
@@ -39,10 +43,6 @@ Before using Apple Pay as your contactless payment form, you need to set it up b
 Tap on the Wallet app to open it.
 
 Screenshot by Maria Diaz/ZDNET
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Tap on the Add Card button and enter Apple Pay info
 
@@ -65,6 +65,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
  Subscribe
 
 [See all](https://www.zdnet.com/newsletters/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. During check-out, double-click the right-side button of your iPhone
 
@@ -96,10 +100,6 @@ Apple
 
 That's it! Apple Pay is as easy as apple pie. (Sorry, I had to.) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## FAQ
 
 ## How do I set up Apple Pay from my iPhone Settings?
@@ -111,9 +111,17 @@ To set up Apple Pay, you go to your iPhone's Settings and follow these steps:
 
 Once you add your card to your Wallet, you can edit your settings to suit your needs. You can choose to enable Apple Cash; enable the double-click side button to work as a shortcut for Apple Pay' add Express Transit Cards to pay for transit automatically without a passcode or Face ID; edit your transaction information like default card, shipping address, and contact info; and toggle payments on your Mac on and off. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Where can I use Apple Pay to pay in stores and online?
 
 You can use Apple Pay with an iPhone or Apple Watch at checkout wherever there is a payment terminal with NFC. Most retailers have them at the checkout counter, with some exceptions. Just look for the NFC symbol on the card reader or an Apple Pay logo. Some banks even support Apple Pay at NFC-enabled ATMs so you can make withdrawals or access your account. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What is NFC?
 
@@ -129,10 +137,6 @@ On top of being more secure, using Apple Pay online is more convenient as you do
 
 To use Apple Pay online, choose Apple Pay at checkout from your iPhone or other Apple device, if it's available. Next, you'll be prompted either to enter your passcode or use Face ID to authorize the payment. Then you'll be able to check out as usual with your Apple Pay information already filled in, so you won't need to sign in again or enter your card information. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What is Apple Cash?
 
 [Apple Cash](https://www.zdnet.com/article/how-to-use-apple-cash-family-to-help-kids-develop-good-money-habits/) is a digital card in your Apple Wallet that you can use to send or receive money through the Messages app. Similar to [Venmo](https://www.zdnet.com/article/paypal-vs-venmo/) or [Cash App](https://www.zdnet.com/finance/what-is-cash-app-and-how-does-it-work-a-comprehensive-guide/), you can use Apple Cash to send a friend money to reimburse them for a meal, for example, and that friend can check out with their accumulated Apple Cash at merchants that support Apple Pay.
@@ -140,10 +144,6 @@ To use Apple Pay online, choose Apple Pay at checkout from your iPhone or other 
 **Also: [Have you used Cash App in the last 6 years? You might be eligible for $2,500](https://www.zdnet.com/article/have-you-used-cash-app-within-the-past-six-years-you-might-be-eligible-for-2500/)**
 
 Some services from Apple offer rewards, like cash back on its credit cards, which also translate into Apple Cash. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to use Apple Pay on your Apple Watch
 
@@ -160,7 +160,7 @@ In order to use Apple Pay for contactless payments with your Apple Watch, you ne
 5. Select Transit Card to add an eligible transportation payment card.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Is Apple Pay secure?
@@ -197,22 +197,24 @@ Using Apple Pay or [Google Pay](https://www.zdnet.com/finance/google-pay-vs-sams
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-first-rate-screen-recorders-for-youtube-enthusiasts/"><u>[New] In 2024, First-Rate Screen Recorders for YouTube Enthusiasts</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-free-custom-minecraft-gif-templates/"><u>[New] In 2024, Free Custom Minecraft GIF Templates</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-harnessing-the-potential-of-youtube-shorts-advertising/"><u>[New] In 2024, Harnessing the Potential of YouTube Shorts Advertising</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-8-free-online-courses-for-beginner-youtube-creators/"><u>[Updated] 2024 Approved 8 Free Online Courses for Beginner YouTube Creators</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-free-high-quality-edits-explore-these-9-cloud-apps/"><u>[Updated] 2024 Approved Free, High-Quality Edits Explore These 9 Cloud Apps</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-cutting-edge-screen-shifting-for-editors/"><u>[Updated] Cutting-Edge Screen Shifting for Editors</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-fast-track-to-1000-subscribers-in-youtube-landscape-for-2024/"><u>[Updated] Fast-Track To 1,000 Subscribers in Youtube Landscape for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-financially-flourishing-online-media-personality-for-2024/"><u>[Updated] Financially Flourishing Online Media Personality for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-first-steps-toward-monetary-success-on-youtube/"><u>[Updated] In 2024, First Steps Toward Monetary Success on YouTube</u></a></li>
-<li><a href="https://extra-information.techidaily.com/2024-approved-comprehensive-guide-to-vsco-camera-app/"><u>2024 Approved Comprehensive Guide to VSCO Camera App</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210405723-9781087951379-addiction-in-the-vedic-astrology-chart/"><u>Addiction in the Vedic Astrology Chart | Free Book</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/climb-the-fame-hierarchy-on-instagram-discovering-9-game-changing-tips/"><u>Climb the Fame Hierarchy on Instagram Discovering #9 Game-Changing Tips</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/compare-and-contrast-apples-cutting-edge-airpods-4-models-with-in-depth-analysis/"><u>Compare & Contrast Apple's Cutting-Edge AirPods 4 Models with In-Depth Analysis</u></a></li>
-<li><a href="https://program-issues.techidaily.com/expert-tips-to-resolve-freezing-and-stuttering-in-the-thrilling-world-of-dying-light/"><u>Expert Tips to Resolve Freezing and Stuttering in the Thrilling World of Dying Light</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-best-anti-tracker-software-for-honor-70-lite-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Best Anti Tracker Software For Honor 70 Lite 5G | Dr.fone</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/sh-pure-content-how-to-block-youtube-ads-effectively/"><u>Unleash Pure Content How to Block YouTube Ads Effectively</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/1722709000262-why-the-alienware-aurora-r11-reigns-supreme-in-2nnd-anniversary-pc-review/"><u>Why the Alienware Aurora R11 Reigns Supreme in 2Nnd-Anniversary PC Review</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-football-film-study-premier-insights-infographic/"><u>[New] 2024 Approved Football Film Study Premier Insights Infographic</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-free-fast-and-reliable-download-your-favorite-youtube-content/"><u>[New] 2024 Approved Free, Fast and Reliable Download Your Favorite YouTube Content</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-individual-to-institutional-growth-in-youtube-space/"><u>[New] 2024 Approved From Individual to Institutional Growth in YouTube Space</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-harness-the-power-of-editing-for-fashion-hauls-for-2024/"><u>[New] Harness the Power of Editing for Fashion Hauls for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-how-to-optimally-apply-a-creative-commons-license-for-2024/"><u>[New] How to Optimally Apply a Creative Commons License for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-harnessing-imovies-potential-for-youtube-broadcasting/"><u>[New] In 2024, Harnessing iMovie's Potential for YouTube Broadcasting</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-add-emojis-on-youtube-comments/"><u>[New] In 2024, How to Add Emojis on YouTube Comments</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ustained-engagement-determining-the-ideal-frequency-for-your-youtube-channel/"><u>[New] Sustained Engagement Determining the Ideal Frequency for Your YouTube Channel</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-guided-approach-to-saving-exact-youtube-segments/"><u>[Updated] 2024 Approved Guided Approach to Saving Exact YouTube Segments</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-authenticate-your-yt-account-a-hint-list/"><u>[Updated] 2024 Approved How to Authenticate Your YT Account? A Hint List</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-free-uploads-more-views-youtubes-easily-overlooked-hacks-for-2024/"><u>[Updated] Free Uploads, More Views YouTube's Easily Overlooked Hacks for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-quick-conversion-at-no-expense-fb-videos-to-mp4-and-hd-now/"><u>2024 Approved Quick Conversion at No Expense - FB Videos to MP4 & HD Now</u></a></li>
+<li><a href="https://fake-location.techidaily.com/complete-tutorial-to-use-gps-joystick-to-fake-gps-location-on-vivo-v29-drfone-by-drfone-virtual-android/"><u>Complete Tutorial to Use GPS Joystick to Fake GPS Location On Vivo V29 | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/expert-hardware-analysis-and-comparisons-by-tom/"><u>Expert Hardware Analysis and Comparisons by Tom</u></a></li>
+<li><a href="https://article-helps.techidaily.com/find-a-project-partner-collaborating-with-someone-on-a-shared-task-can-help-boost-motivation-and-accountability-sharing-your-progress-challenges-and-success476/"><u>Find a Project Partner - Collaborating with Someone on a Shared Task Can Help Boost Motivation and Accountability. Sharing Your Progress, Challenges, and Successes Will Provide Encouragement and Support when You Need It Most.</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/hisense-40-inch-40h5590f-hd-smart-tv-evaluation-an-ideal-choice-for-your-wallet/"><u>Hisense 40-Inch 40H5590F HD Smart TV Evaluation – An Ideal Choice for Your Wallet</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-boosting-viewer-interest-with-optimal-video-thumbnail-sizes/"><u>In 2024, Boosting Viewer Interest with Optimal Video Thumbnail Sizes</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/joining-forces-a-guide-on-linking-up-several-bluetooth-soundboxes/"><u>Joining Forces: A Guide on Linking Up Several Bluetooth Soundboxes</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/mac-users-ultimate-tutorial-how-to-convert-and-save-songs-from-cds/"><u>Mac Users' Ultimate Tutorial: How to Convert and Save Songs From CDs</u></a></li>
 </ul></div>
 

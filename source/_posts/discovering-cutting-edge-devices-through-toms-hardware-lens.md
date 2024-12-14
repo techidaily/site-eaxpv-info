@@ -1,7 +1,7 @@
 ---
 title: Discovering Cutting-Edge Devices Through Tom's Hardware Lens
-date: 2024-08-09T12:17:48.988Z
-updated: 2024-08-10T12:17:48.988Z
+date: 2024-12-11T22:41:38.416Z
+updated: 2024-12-13T23:27:30.924Z
 tags:
   - desktop
 categories:
@@ -15,10 +15,6 @@ Lenovo has launched a new series of gaming desktops powered by laptop CPUs. PCs 
 
  With an MoDT platform, if you want to change your CPU you would have to buy a complete new mainboard / CPU / cooler bundle. Mobile CPUs aren’t socketed but are[soldered](https://www.tomshardware.com/best-picks/best-soldering-irons) to the board, so the average tech enthusiast isn’t going to be able to swap or upgrade the CPU. Thus it is very important to consider this spec very carefully before committing.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Lenovo Legion 7000K gaming PCs](https://cdn.mos.cms.futurecdn.net/KiWmBjf3WBxdHs7uNFYu2U-320-80.jpg)
 
  (Image credit: Lenovo)
@@ -31,9 +27,6 @@ Lenovo has launched a new series of gaming desktops powered by laptop CPUs. PCs 
 
  As with other MoDT platforms, we aren’t sure if the[cooling system](https://www.tomshardware.com/reviews/best-cpu-coolers,4181.html) is easy to change or upgrade, as the mounts won’t likely be the same as in a desktop PC. Lenovo seems to indicate its CPU cooler is good for up to 190W. If the CPU cooling fan is standard, we guess it could be changed or upgraded.
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Lenovo Legion 7000K gaming PCs](https://cdn.mos.cms.futurecdn.net/KHmtZBvJU6LcChAReYSDBU-320-80.jpg)
 
  (Image credit: Lenovo)
@@ -43,8 +36,9 @@ Lenovo has launched a new series of gaming desktops powered by laptop CPUs. PCs 
  Lastly, the new Legion systems come with a standard 32GB DDR5-5600 dual-channel RAM and 1TB[PCIe Gen4 storage](https://www.tomshardware.com/reviews/best-ssds,3891.html) . Again, upgrades shouldn’t be a problem in the future with SODIMMs presumably used for RAM, and two M.2 slots and two SATA ports available for storage.
 
 <!-- affiliate ads begin -->
-<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -63,8 +57,6 @@ Lenovo has launched a new series of gaming desktops powered by laptop CPUs. PCs 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -72,4 +64,19 @@ Lenovo has launched a new series of gaming desktops powered by laptop CPUs. PCs 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-free-to-fortune-unlocking-youtubes-earnings-at-the-500-subscriber-level/"><u>[New] 2024 Approved From Free to Fortune Unlocking YouTube's Earnings at the 500 Subscriber Level</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-how-to-upload-shorts-video-on-youtube-in-2024/"><u>[New] How to Upload Shorts Video on YouTube, In 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-concrete-jungles-to-eco-havens-rethinking-urban-living/"><u>[New] In 2024, From Concrete Jungles to Eco Havens Rethinking Urban Living</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-2024-approved-captivating-concepts-explore-14-innovative-text-movements/"><u>[Updated] 2024 Approved Captivating Concepts Explore 14 Innovative Text Movements</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-examining-the-efficiency-of-screenrecorderelite-for-2024/"><u>[Updated] Examining the Efficiency of ScreenRecorderElite for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-guide-to-supercharged-video-engagement-with-youtube-notes-for-2024/"><u>[Updated] Guide to Supercharged Video Engagement with YouTube Notes for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-securely-extract-and-convert-youtube-audios-as-mp3-for-2024/"><u>[Updated] How To Securely Extract and Convert YouTube Audios as MP3 for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-in-2024-epic-meme-designs-the-10-list-of-choice/"><u>[Updated] In 2024, Epic Meme Designs The #10 List of Choice</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-photodirector-masterclass-review-for-2024/"><u>[Updated] PhotoDirector Masterclass Review for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-icy-images-a-detailed-look-at-monitoring-summer-snacks/"><u>2024 Approved Icy Images A Detailed Look at Monitoring Summer Snacks</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-zooming-in-enhance-your-tiktok-videos/"><u>2024 Approved Zooming In Enhance Your TikTok Videos</u></a></li>
+<li><a href="https://discover-help.techidaily.com/itunescd/"><u>ITunesから曲をCDへ記録・コピーする詳細ガイド</u></a></li>
+</ul></div>
 

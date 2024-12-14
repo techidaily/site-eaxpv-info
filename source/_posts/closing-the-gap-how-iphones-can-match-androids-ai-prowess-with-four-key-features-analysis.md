@@ -1,7 +1,7 @@
 ---
 title: "Closing the Gap: How iPhones Can Match Android's AI Prowess with Four Key Features | Analysis"
-date: 2024-12-05T21:01:14.009Z
-updated: 2024-12-07T20:24:56.647Z
+date: 2024-12-09T19:12:57.578Z
+updated: 2024-12-13T16:08:16.347Z
 tags:
   - apple
 categories:
@@ -41,7 +41,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Generative AI for a context-aware Siri
@@ -55,7 +55,7 @@ If Apple can give Siri generative AI, iPhone users could ask the voice assistant
 The biggest challenge for Apple will be running large language models (LLMs) on-device, as one would expect it to do after its long-standing focus on consumer privacy. On-device processing means questions and responses won't have to be sent to remote cloud servers, minimizing data exposure.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Contextual search through image gallery
@@ -69,7 +69,7 @@ Apple already uses AI for facial recognition to create Memories and organize pho
 Other AI upgrades to photo galleries that could benefit smartphone users include finding and suggesting duplicate photos to free up storage, integrating AI voice assistants to search for photos with voice commands, recommending AI enhancements, and applying edits to photos. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Personalized text generation
@@ -81,7 +81,7 @@ ChatGPT became popular for its ability to generate text and have conversations t
 This is another instance where Apple trails behind competitors, as AI text generation is available in the [Google Pixel 8](https://www.kqzyfj.com/click-9041660-15823334-1717160402000?sid=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) and the Samsung [Galaxy S24 lineup](https://shop-links.co/link/?url=https%3A%2F%2Fwww.samsung.com%2Fus%2Fsmartphones%2Fgalaxy-s24%2Fbuy%2Fgalaxy-s24-256gb-unlocked-sm-s921ulbexaa%2F&publisher_slug=itechdaily19598&exclusive=1) of smartphones, as well as Microsoft 365, Gmail, Google Docs, Sheets, and more. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. AI-powered photo and video editing
@@ -126,17 +126,20 @@ It would be surprising to see Apple incorporate AI video features such as real-t
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-chasing-likes-and-loads-jake-pauls-youtube-ambition/"><u>[New] In 2024, Chasing Likes and Loads Jake Paul's YouTube Ambition</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-fresh-to-famous-elevating-your-channels-views-and-youtube-subs/"><u>[Updated] 2024 Approved From Fresh to Famous Elevating Your Channels Views & Youtube Subs</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-free-minecraft-youtube-banners-with-templates-for-2024/"><u>[Updated] Free Minecraft YouTube Banners with Templates for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-free-to-mp3-journey-top-10-online-converters-for-2024/"><u>[Updated] Free-to-Mp3 Journey Top 10 Online Converters for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-high-end-hardware-unveiled-by-gaming-influencers/"><u>[Updated] In 2024, High-End Hardware Unveiled by Gaming Influencers</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-quickly-transform-sluggish-videos-on-android/"><u>[Updated] Quickly Transform Sluggish Videos on Android</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-the-roadmap-to-creating-unforgettable-facebook-cover-videos-for-2024/"><u>[Updated] The Roadmap to Creating Unforgettable Facebook Cover Videos for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/avoiding-winerror-740-easy-to-follow-tips-for-windows-users/"><u>Avoiding WinError 740: Easy-to-Follow Tips for Windows Users</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/bypassing-errors-in-facebook-story-postings-and-viewing/"><u>Bypassing Errors in Facebook Story Postings & Viewing</u></a></li>
-<li><a href="https://win11.techidaily.com/navigating-your-gear-usage-a-guide-to-windows-widgets/"><u>Navigating Your Gear Usage: A Guide to Windows Widgets</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/seamless-webp-to-jpg-conversion-techniques/"><u>Seamless WebP to JPG Conversion Techniques</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/top-6-artificial-intelligence-notetakers-for-superior-note-management/"><u>Top 6 Artificial Intelligence Notetakers for Superior Note Management</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-guerrilla-marketing-for-youtube-upping-video-traffic-for-2024/"><u>[New] Guerrilla Marketing for YouTube Upping Video Traffic for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-apex-titles-for-hd-video-recording-technologies/"><u>[New] In 2024, Apex Titles for HD Video Recording Technologies</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-free-video-embedding-for-dynamic-online-articles/"><u>[New] In 2024, Free Video Embedding for Dynamic Online Articles</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-interpreting-the-functionality-behind-blue-icons-in-chat-apps/"><u>[New] Interpreting the Functionality Behind Blue Icons in Chat Apps</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-hasty-methods-for-mixed-up-youtube-playback-sequence-for-2024/"><u>[Updated] Hasty Methods for Mixed-Up YouTube Playback Sequence for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-history-buffs-favorite-youtube-history-channels-for-2024/"><u>[Updated] History Buffs' Favorite YouTube History Channels for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-go-frame-by-frame-on-youtube-video-5-methods-for-2024/"><u>[Updated] How to Go Frame by Frame on YouTube Video? [5 Methods] for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-peek-behind-the-curtain-of-hidden-youtube-videos-for-2024/"><u>[Updated] How to Peek Behind the Curtain of Hidden YouTube Videos for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-harnessing-youtubes-power-for-personal-image-amplification/"><u>[Updated] In 2024, Harnessing YouTube's Power for Personal Image Amplification</u></a></li>
+<li><a href="https://os-tips.techidaily.com/how-to-sell-your-aged-iphone-with-ease-and-boost-its-resale-value-ultimate-tutorial/"><u>How To Sell Your Aged iPhone with Ease & Boost Its Resale Value - Ultimate Tutorial</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-15-pro-to-other-iphone-15-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 15 Pro To Other iPhone 15 devices? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-xiaomi-13t-to-any-ios-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Xiaomi 13T to Any iOS Devices | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/how-to-capturing-and-saving-instagrams-transient-media/"><u>How-To Capturing and Saving Instagram's Transient Media</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-oppo-reno-10-proplus-5g-phone-with-broken-screen-by-drfone-android/"><u>In 2024, How to Unlock Oppo Reno 10 Pro+ 5G Phone with Broken Screen</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-moment-of-glory-snapshots-in-win-os/"><u>In 2024, Moment of Glory Snapshots in Win OS</u></a></li>
 </ul></div>
 

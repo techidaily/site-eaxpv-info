@@ -1,7 +1,7 @@
 ---
 title: Expert Reviews and Advice on Tech - The Tom's Hardware Collection
-date: 2024-08-09T12:17:32.344Z
-updated: 2024-08-10T12:17:32.344Z
+date: 2024-12-09T20:08:54.627Z
+updated: 2024-12-13T19:21:25.335Z
 tags:
   - desktop
 categories:
@@ -15,9 +15,6 @@ Lenovo has launched a new series of gaming desktops powered by laptop CPUs. PCs 
 
  With an MoDT platform, if you want to change your CPU you would have to buy a complete new mainboard / CPU / cooler bundle. Mobile CPUs aren’t socketed but are[soldered](https://www.tomshardware.com/best-picks/best-soldering-irons) to the board, so the average tech enthusiast isn’t going to be able to swap or upgrade the CPU. Thus it is very important to consider this spec very carefully before committing.
 
-<!-- affiliate ads begin -->
-<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Lenovo Legion 7000K gaming PCs](https://cdn.mos.cms.futurecdn.net/KiWmBjf3WBxdHs7uNFYu2U-320-80.jpg)
 
  (Image credit: Lenovo)
@@ -30,9 +27,6 @@ Lenovo has launched a new series of gaming desktops powered by laptop CPUs. PCs 
 
  As with other MoDT platforms, we aren’t sure if the[cooling system](https://www.tomshardware.com/reviews/best-cpu-coolers,4181.html) is easy to change or upgrade, as the mounts won’t likely be the same as in a desktop PC. Lenovo seems to indicate its CPU cooler is good for up to 190W. If the CPU cooling fan is standard, we guess it could be changed or upgraded.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
-<!-- affiliate ads end -->
 ![Lenovo Legion 7000K gaming PCs](https://cdn.mos.cms.futurecdn.net/KHmtZBvJU6LcChAReYSDBU-320-80.jpg)
 
  (Image credit: Lenovo)
@@ -42,8 +36,9 @@ Lenovo has launched a new series of gaming desktops powered by laptop CPUs. PCs 
  Lastly, the new Legion systems come with a standard 32GB DDR5-5600 dual-channel RAM and 1TB[PCIe Gen4 storage](https://www.tomshardware.com/reviews/best-ssds,3891.html) . Again, upgrades shouldn’t be a problem in the future with SODIMMs presumably used for RAM, and two M.2 slots and two SATA ports available for storage.
 
 <!-- affiliate ads begin -->
-<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -62,8 +57,6 @@ Lenovo has launched a new series of gaming desktops powered by laptop CPUs. PCs 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -71,4 +64,18 @@ Lenovo has launched a new series of gaming desktops powered by laptop CPUs. PCs 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-high-level-behavior-tips-for-youtube-users/"><u>[New] 2024 Approved High-Level Behavior Tips for YouTube Users</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-how-much-does-youtube-pay-for-1-million-views-for-2024/"><u>[New] How Much Does YouTube Pay for 1 Million Views for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-harnessing-the-power-of-asynchronous-programming-in-javascript/"><u>[New] In 2024, Harnessing the Power of Asynchronous Programming in JavaScript</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-resolve-safaris-live-streaming-stumbling-blocks/"><u>[New] Resolve Safari's Live-Streaming Stumbling Blocks</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-unmatched-setups-worlds-leading-4k-dslr-stands/"><u>[New] Unmatched Setups World's Leading 4K DSLR Stands</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-harmonize-body-and-mind-through-these-top-10-yogis-videos/"><u>[Updated] 2024 Approved Harmonize Body and Mind Through These Top 10 Yogis' Videos</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-free-techniques-for-turning-youtube-watching-into-a-screenshot/"><u>[Updated] In 2024, Free Techniques for Turning YouTube Watching Into a Screenshot</u></a></li>
+<li><a href="https://fake-location.techidaily.com/complete-tutorial-to-use-vpna-to-fake-gps-location-on-infinix-hot-40i-drfone-by-drfone-virtual-android/"><u>Complete Tutorial to Use VPNa to Fake GPS Location On Infinix Hot 40i | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-easy-ways-to-manage-your-sony-xperia-1-v-location-settings-drfone-by-drfone-virtual/"><u>In 2024, Easy Ways to Manage Your Sony Xperia 1 V Location Settings | Dr.fone</u></a></li>
+<li><a href="https://fox-info.techidaily.com/in-2024-explore-the-best-photo-enhancement-apps-for-android-and-iphone/"><u>In 2024, Explore the Best Photo Enhancement Apps for Android and iPhone</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/is-walmart-plus-worth-it-4-reasons-why-you-should-get-a-membership/"><u>Is Walmart Plus Worth It? 4 Reasons Why You Should Get a Membership</u></a></li>
+</ul></div>
 

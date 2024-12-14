@@ -1,7 +1,7 @@
 ---
 title: Tech Giant Apple Hit with 2-Billion Dollar Fee by European Union Over Unfair App Store Practices
-date: 2024-12-06T16:11:17.859Z
-updated: 2024-12-07T19:57:29.439Z
+date: 2024-12-10T21:50:47.935Z
+updated: 2024-12-13T19:25:04.225Z
 tags:
   - apple
 categories:
@@ -25,13 +25,13 @@ In the past, moving from one face to another on an Apple Watch was easy. You'd s
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to swap faces on your Apple Watch
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Run watchOS 10
@@ -41,7 +41,7 @@ If you're still running watchOS 9 or earlier, the older method of switching watc
 screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Switch watch faces
@@ -60,10 +60,6 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3\. Update to watchOS 10.2
 
 Apple must have realized that it ticked off Watch owners by making the new face changing process so clumsy. That's why it fixed the issue with the latest 10.2 update. For this, open the Watch app on your iPhone, head to General, select Software Update, and then install the latest version.
@@ -71,6 +67,10 @@ Apple must have realized that it ticked off Watch owners by making the new face 
 Altefnatively, you can update the OS directly from your watch. For that, open the Settings app on the watch, tap General and then Software Updates, and allow the new version to be installed.
 
 screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Change the method for switching faces
 
@@ -81,7 +81,7 @@ screenshot by Lance Whitney/ZDNET
 **Also: [The best smartwatches you can buy: Apple, Samsung, Google, and more compared](https://www.zdnet.com/article/best-smartwatch/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Switch watch faces by swiping
@@ -120,22 +120,21 @@ screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-explosive-entertainment-for-little-ones/"><u>[New] 2024 Approved Explosive Entertainment for Little Ones</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-harmonize-your-preferences-how-to-create-an-engaging-youtube-playlist/"><u>[New] 2024 Approved Harmonize Your Preferences How to Create an Engaging YouTube Playlist</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-how-frequent-uploads-can-skyro-cookie-sales-on-your-youtube-channel-for-2024/"><u>[New] How Frequent Uploads Can Skyro Cookie Sales on Your YouTube Channel for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-gain-traction-on-youtube-surpass-10000-viewer-count-for-affiliate-rewards/"><u>[New] In 2024, Gain Traction on YouTube - Surpass 10,000 Viewer Count for Affiliate Rewards</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/erfecting-your-youtube-presence-a-video-upload-manual/"><u>[New] Perfecting Your YouTube Presence A Video Upload Manual</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-going-against-the-tide-of-tradition-innovative-techniques-for-yt-rewinds/"><u>[Updated] 2024 Approved Going Against the Tide of Tradition Innovative Techniques for YT Rewinds</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-hacking-the-process-instant-deletion-on-youtube-for-2024/"><u>[Updated] Hacking the Process Instant Deletion on Youtube for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-keep-your-audience-engaged-top-6-strategies-for-higher-youtube-stickiness-for-2024/"><u>[Updated] How To Keep Your Audience Engaged Top 6 Strategies for Higher YouTube Stickiness for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-guidelines-for-authoritative-life-lesson-videos/"><u>[Updated] In 2024, Guidelines for Authoritative Life Lesson Videos</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-live-without-the-convenience-of-youtube-shorts/"><u>[Updated] In 2024, How To Live Without the Convenience of YouTube Shorts</u></a></li>
-<li><a href="https://solve-help.techidaily.com/1-5-methoden-wie-man-echtzeit-sms-auf-dem-iphone-speichert-und-sicher-ablage/"><u>1. [5 Methoden] Wie Man Echtzeit-SMS Auf Dem iPhone Speichert Und Sicher Ablage</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/chatgpt-powered-solutions-for-holistic-healthcare/"><u>ChatGPT-Powered Solutions for Holistic Healthcare</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/hastening-vimeo-media-transmission/"><u>Hastening Vimeo Media Transmission</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-bypass-android-lock-screen-using-emergency-call-on-itel-p55plus-by-drfone-android/"><u>In 2024, How to Bypass Android Lock Screen Using Emergency Call On Itel P55+?</u></a></li>
-<li><a href="https://windows11.techidaily.com/six-simple-steps-for-briefly-pausing-windows-11s-safety-measures/"><u>Six Simple Steps for Briefly Pausing Windows 11'S Safety Measures</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/soil-composition/"><u>Soil Composition</u></a></li>
-<li><a href="https://techtrends.techidaily.com/1723808144069-the-role-of-a-video-card-understanding-its-purpose-and-operation/"><u>The Role of a Video Card: Understanding Its Purpose and Operation</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-guide-to-modify-comment-accessibility-on-youtube/"><u>[New] 2024 Approved Guide to Modify Comment Accessibility on YouTube</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-efficiently-delete-unwanted-video-feedback/"><u>[New] 2024 Approved How to Efficiently Delete Unwanted Video Feedback</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-2024-approved-in-depth-review-mastering-facetunes-complete-features/"><u>[New] 2024 Approved In-Depth Review Mastering Facetune's Complete Features</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-gear-up-essential-asmr-microphones-to-consider-for-2024/"><u>[New] Gear Up Essential ASMR Microphones to Consider for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-elevate-your-asmr-sessions-with-these-microphones/"><u>[Updated] 2024 Approved Elevate Your ASMR Sessions with These Microphones</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-font-selection-wonders-enhancing-youtube-video-thumbnails/"><u>[Updated] 2024 Approved Font Selection Wonders Enhancing YouTube Video Thumbnails</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-giggles-in-a-gigabyte-10-hilarious-video-concepts-to-share-online/"><u>[Updated] 2024 Approved Giggles in a Gigabyte 10 Hilarious Video Concepts to Share Online</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-harmonious-histories-exploring-musical-legends-with-these-15-video-documentaries-for-2024/"><u>[Updated] Harmonious Histories Exploring Musical Legends with These 15 Video Documentaries for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-add-chapters-to-youtube-videos-for-2024/"><u>[Updated] How to Add Chapters to YouTube Videos for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-stop-real-time-footage-gathering-quickstep-guide/"><u>2024 Approved Stop Real-Time Footage Gathering QuickStep Guide</u></a></li>
+<li><a href="https://howto.techidaily.com/4-ways-to-fix-android-blue-screen-of-death-on-lava-blaze-2-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Ways to Fix Android Blue Screen of Death On Lava Blaze 2 Pro | Dr.fone</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/347591-9781101215975-as-a-man-thinketh/"><u>As a Man Thinketh | Free Book</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-gaining-heavy-followers-and-verification-status-a-quick-guide-with-top-6-insights/"><u>In 2024, Gaining Heavy Followers & Verification Status A Quick Guide with Top 6 Insights</u></a></li>
+<li><a href="https://games-able.techidaily.com/max-out-savings-with-xbox-series-xs-promos/"><u>Max Out Savings with Xbox Series X|S Promos</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-fix-guide-for-disrupted-google-nearby-share-on-desktop/"><u>Quick Fix Guide for Disrupted Google Nearby Share on Desktop</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-10-most-popular-news-aggregators-our-picks/"><u>Top 10 Most Popular News Aggregators : Our Picks</u></a></li>
 </ul></div>
 

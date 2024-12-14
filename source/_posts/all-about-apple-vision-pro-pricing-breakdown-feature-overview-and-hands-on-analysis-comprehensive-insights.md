@@ -1,7 +1,7 @@
 ---
 title: "All About Apple Vision Pro: Pricing Breakdown, Feature Overview & Hands-On Analysis - Comprehensive Insights"
-date: 2024-12-02T22:51:45.652Z
-updated: 2024-12-07T18:12:49.764Z
+date: 2024-12-07T20:31:21.528Z
+updated: 2024-12-13T18:30:28.194Z
 tags:
   - apple
 categories:
@@ -39,7 +39,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Apple Intelligence
@@ -56,10 +56,6 @@ Apple's approach to AI is markedly different from that of its competitors, howev
 
 This lets Apple disengage from the chaotic rat race to a degree, positioning itself as the careful, more ethical actor when it comes to AI, particularly in light of [recent debilitating security concerns](https://www.zdnet.com/article/after-brutal-critiques-microsoft-recall-will-get-these-major-privacy-and-security-changes/) from Microsoft's Recall feature, which is delaying the release of a host of its new [Copilot+ PCs](https://www.zdnet.com/article/every-copilot-pc-microsoft-just-announced-to-take-on-apples-m3-macbooks/).
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2\. Continuity
 
 Screenshot by Nina Raemont
@@ -73,7 +69,7 @@ The app also streamlines your devices by bringing your iPhone's notifications st
 Alternatively, the new standby mode on the iPhone displays a host of at-a-glance (but un-interactable) data like a clock and calendar while you're using the Continuity app on the Mac. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Siri 2.0
@@ -89,7 +85,7 @@ During the WWDC keynote, Apple showed off Siri's new look as an ever-present AI 
 The new Siri also comes with on-screen awareness, allowing the AI to respond to what you're looking at on the screen without requiring the user to provide specific context with each prompt. This also allows Siri to take in-app actions in a way that wasn't possible before. In MacOS Sequoia, Siri's integration with OpenAI's LLM propels the virtual assistant to the top players in the field alongside [ChatGPT-4o](https://www.zdnet.com/article/how-to-use-chatgpt-plus-from-gpt-4o-to-interactive-tables/) and [Google's Gemini](https://www.zdnet.com/article/what-is-google-gemini/). 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. AI-fueled productivity apps
@@ -115,7 +111,7 @@ Safari will see a host of improvements powered by AI functionality, including an
 Apple demoed Safari's machine learning capability to automatically detect relevant information on a webpage, including things like quick links, directions, and quick summaries with logistical information like phone numbers and addresses. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6\. Standalone Passwords app
@@ -127,6 +123,10 @@ Aligning with Apple's positioning of its AI features as secure and trustworthy, 
 **Also: [Forget LastPass: Apple unveils 'Passwords' manager app at WWDC 2024](https://www.zdnet.com/article/forget-lastpass-apple-unveils-passwords-manager-app-at-wwdc-2024/)**
 
 This standalone app is an extension of the existing iCloud Keychain, and seeks to simplify password storage by employing Face ID and Touch ID alongside character-string passwords. Much of it is designed to work automatically and seamlessly in an effort to solve what is a huge UX headache that everyone has experienced at one point or another. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 7\. Gaming
 
@@ -162,22 +162,21 @@ Apple wants to create a "unified gaming platform" across the iPhone, iPad, and M
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-raw-to-refined-mastering-the-art-of-pc-video-editing-on-windows/"><u>[New] 2024 Approved From Raw to Refined Mastering the Art of PC Video Editing on Windows</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-global-scoreboard-the-premier-six-of-video-downloads/"><u>[New] 2024 Approved Global Scoreboard The Premier Six of Video Downloads</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-use-a-tripod-for-vlogging/"><u>[New] 2024 Approved How To Use a Tripod for Vlogging</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-high-quality-video-capture-for-beginner-creators/"><u>[New] In 2024, High-Quality Video Capture for Beginner Creators</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-instant-srt-to-txt-efficient-conversion-methods-revealed/"><u>[New] Instant SRT to TXT Efficient Conversion Methods Revealed</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-free-and-secure-3-ways-to-extract-youtube-music-content-for-2024/"><u>[Updated] Free and Secure 3 Ways to Extract YouTube Music Content for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-from-clicks-to-cash-the-systematic-triple-pathway-for-youtube-revenue-tracking-for-2024/"><u>[Updated] From Clicks to Cash The Systematic Triple Pathway for YouTube Revenue Tracking for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-giggles-galore-celebrating-the-funniest-web-content-creators-for-2024/"><u>[Updated] Giggles Galore Celebrating the Funniest Web Content Creators for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-novice-to-narrative-youtube-seo-strategies/"><u>[Updated] In 2024, From Novice to Narrative YouTube SEO Strategies</u></a></li>
-<li><a href="https://fox-http.techidaily.com/2024-approved-quick-recovery-methods-for-erased-reddit-topics/"><u>2024 Approved Quick Recovery Methods for Erased Reddit Topics</u></a></li>
-<li><a href="https://win-dash.techidaily.com/download-latest-hp-laserjet-m506-printer-drivers-step-by-step-guide/"><u>Download Latest HP LaserJet M506 Printer Drivers: Step-by-Step Guide</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-i-transferred-messages-from-oneplus-nord-3-5g-to-iphone-12xs-max-in-seconds-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How I Transferred Messages from OnePlus Nord 3 5G to iPhone 12/XS (Max) in Seconds | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-google-ar-stickers-explained-with-comparative-alternatives/"><u>In 2024, Google AR Stickers Explained with Comparative Alternatives</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/in-2024-inside-out-how-to-react-on-twitter-vids/"><u>In 2024, Inside Out How to React on Twitter Vids</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/struggling-with-windows-11-upgrade-heres-what-you-can-do-instead/"><u>Struggling with Windows 11 Upgrade? Here’s What You Can Do Instead</u></a></li>
-<li><a href="https://techidaily.com/three-solutions-to-hard-reset-huawei-nova-y91-drfone-by-drfone-reset-android-reset-android/"><u>Three Solutions to Hard Reset Huawei Nova Y91? | Dr.fone</u></a></li>
-<li><a href="https://facebook.techidaily.com/understanding-the-new-layout-of-your-favorite-platform/"><u>Understanding the New Layout of Your Favorite Platform</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-exploring-skypes-best-recording-options-of-2023/"><u>[New] 2024 Approved Exploring Skype's Best Recording Options of 2023</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-fresh-inspirations-for-streaming-topics/"><u>[New] 2024 Approved Fresh Inspirations for Streaming Topics</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-dull-scenes-to-dynamic-sports-highlights/"><u>[New] 2024 Approved From Dull Scenes to Dynamic Sports Highlights</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-2024-approved-vanguard-video-workshop-titlewright/"><u>[New] 2024 Approved Vanguard Video Workshop Titlewright</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-from-interest-to-action-formulating-video-topics-with-google-trends-for-2024/"><u>[New] From Interest to Action Formulating Video Topics with Google Trends for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-fringe-to-mainstream-highlighting-top-10-gender-balanced-youtubers/"><u>[New] In 2024, From Fringe to Mainstream Highlighting Top 10 Gender-Balanced YouTubers</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-harmonizing-youtube-content-a-guide-to-blending-files/"><u>[New] In 2024, Harmonizing YouTube Content A Guide to Blending Files</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-unveiling-the-key-to-thriving-in-online-communities-like-reddit-for-2024/"><u>[New] Unveiling the Key to Thriving in Online Communities Like Reddit for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-expert-tips-for-fixing-non-displaying-shorts-thumbnails/"><u>[Updated] 2024 Approved Expert Tips for Fixing Non-Displaying Shorts Thumbnails</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-quickly-and-easily-share-a-youtube-playlist-for-2024/"><u>[Updated] How to Quickly And Easily Share A YouTube Playlist for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-use-chroma-keying-in-video-making/"><u>[Updated] In 2024, How to Use Chroma Keying in Video Making</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-simplified-social-syncing-from-instagram-to-facebook/"><u>2024 Approved Simplified Social Syncing From Instagram To Facebook</u></a></li>
+<li><a href="https://facebook.techidaily.com/avoiding-group-leave-friction-the-facebook-way/"><u>Avoiding Group Leave Friction: The Facebook Way</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/comprehensive-guide-to-removing-computer-viruses-expert-advice-from-yl-software-experts/"><u>Comprehensive Guide to Removing Computer Viruses - Expert Advice From YL Software Experts</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/in-2024-smooth-video-transfer-facebook-integration-with-whatsapp/"><u>In 2024, Smooth Video Transfer Facebook Integration with WhatsApp</u></a></li>
+<li><a href="https://win-hot.techidaily.com/transferring-iphone-video-content-seamlessly-onto-your-windows-11-pc/"><u>Transferring iPhone Video Content Seamlessly Onto Your Windows 11 PC</u></a></li>
 </ul></div>
 

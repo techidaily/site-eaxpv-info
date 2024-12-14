@@ -1,7 +1,7 @@
 ---
 title: "Navigating Apple's New Frontier: Smartwatch Showdown - Series Nine Vs. Ultra Version | ZDNET Insights"
-date: 2024-11-30T22:28:23.043Z
-updated: 2024-12-08T00:13:10.755Z
+date: 2024-12-08T18:00:49.256Z
+updated: 2024-12-13T19:34:05.130Z
 tags:
   - apple
 categories:
@@ -31,7 +31,7 @@ And then there's the Apple Watch Series 8 and the Apple Watch Ultra. The watches
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Specifications
@@ -63,7 +63,7 @@ The 49mm housing is also the biggest Apple Watch made to date, and with double t
 With a new design comes new bands, as well. There are [three completely new watchband designs](https://www.zdnet.com/article/new-apple-watch-ultra-bands-work-with-other-apple-watch-models-too/), each one designed for different activities such as outdoor adventures, endurance training and water sports. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 2\. You ride, hike or dive… a lot
@@ -87,16 +87,12 @@ There's even an 86-decibel siren built into the watch should you need emergency 
 [Apple Watch Ultra $799 at Apple](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-watch%2Fapple-watch-ultra&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  You should buy the Apple Watch Series 8 if…
 
 Jason Hiner/ZDNET
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 1\. You want a traditional Apple Watch design
 
@@ -119,7 +115,7 @@ For $399 you can get a [41mm Apple Watch Series 8](https://apple.sjv.io/c/159047
 Still, those prices are more affordable than the Ultra's price tag and the Series 8 is sure to last a few years, or at least until Apple stops providing software updates to it. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 3\. Don't need all of the extreme outdoor features
@@ -133,6 +129,10 @@ The Series 8 is water resistant, as well, and can be used while swimming or even
 **More: [The best Apple Watch models of 2022](https://www.zdnet.com/article/best-apple-watch/)**
 
 [Apple Watch Series 8 $399 at Apple](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-watch%2Fapple-watch&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Alternatives to consider
 
@@ -170,24 +170,18 @@ Open to other Apple Watch prospects? Consider the also-new Apple Watch SE.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-novice-to-pro-the-complete-creator-hub-guide/"><u>[New] 2024 Approved From Novice to Pro The Complete Creator Hub Guide</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-sound-to-words-a-free-guide-to-youtube-transcribing-mastery/"><u>[New] 2024 Approved From Sound to Words A FREE Guide to YouTube Transcribing Mastery</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-harmonizing-horizons-easy-steps-for-sharing-soundtracks/"><u>[New] 2024 Approved Harmonizing Horizons Easy Steps for Sharing Soundtracks</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-fixing-obscured-content-on-youtube-platform-for-2024/"><u>[New] Fixing Obscured Content on YouTube Platform for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-from-zero-to-hero-boosting-youtube-view-count-quickly-for-2024/"><u>[New] From Zero to Hero Boosting YouTube View Count Quickly for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-convert-youtube-shorts-to-mp4/"><u>[New] In 2024, How to Convert YouTube Shorts to Mp4</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-finding-premium-free-music-without-breaking-copyrights/"><u>[Updated] 2024 Approved Finding Premium, Free Music Without Breaking Copyrights</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-scribbles-to-spectacle-personalized-effect-crafting/"><u>[Updated] 2024 Approved From Scribbles to Spectacle Personalized Effect Crafting</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-from-concept-to-creation-crafting-youtube-video-splits-for-2024/"><u>[Updated] From Concept to Creation Crafting YouTube Video Splits for 2024</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/t-youtube-video-capture-guide/"><u>Direct YouTube Video Capture Guide</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/empower-your-slide-shows-a-guide-to-adding-speech-to-text-functionality/"><u>Empower Your Slide Shows A Guide to Adding Speech-to-Text Functionality</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/fixing-the-unresponsive-drag-and-drop-feature-on-a-windows-machine/"><u>Fixing the Unresponsive Drag & Drop Feature on a Windows Machine</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-lock-apps-on-samsung-galaxy-a14-4g-to-protect-your-individual-information-by-drfone-android/"><u>In 2024, How to Lock Apps on Samsung Galaxy A14 4G to Protect Your Individual Information</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/leading-picks-unlimited-photo-sharing-platforms-for-2024/"><u>Leading Picks Unlimited Photo Sharing Platforms for 2024</u></a></li>
-<li><a href="https://discover-advanced.techidaily.com/manual-control-over-windows-11-updates-steps-and-guidelines-by-expert-software-house-yl/"><u>Manual Control Over Windows 11 Updates: Steps and Guidelines by Expert Software House YL</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/multi-photo-uploads-made-easy-a-step-by-step-guide-for-facebook/"><u>Multi-Photo Uploads Made Easy: A Step-by-Step Guide for Facebook</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/pattern-locks-are-unsafe-secure-your-nokia-c02-phone-now-with-these-tips-by-drfone-android/"><u>Pattern Locks Are Unsafe Secure Your Nokia C02 Phone Now with These Tips</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/step-up-your-slide-shows-with-these-top-10-free-resources-for-2024/"><u>Step Up Your Slide Shows with These Top 10 Free Resources for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-tips-for-dealing-with-missing-fftd2xxdll-file-problems/"><u>Troubleshooting Tips for Dealing with Missing fFtd2xx.dll File Problems</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-make-your-shorts-image-visible-again/"><u>[New] 2024 Approved How to Make Your Shorts' Image Visible Again</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-from-obscurity-to-stardom-trendsetting-tactics-for-videos-for-2024/"><u>[New] From Obscurity to Stardom Trendsetting Tactics for Videos for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-craft-eye-catching-youtubes-end-titles/"><u>[New] In 2024, How to Craft Eye-Catching YouTubes End Titles</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-quick-skill-enhancing-images-in-windows-11-for-2024/"><u>[New] Quick Skill Enhancing Images in Windows 11 for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-tailored-approach-boosting-fans-via-page-ranking-for-2024/"><u>[New] Tailored Approach Boosting Fans via Page Ranking for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-freeze-non-picked-youtube-video-suggestions/"><u>[Updated] 2024 Approved Freeze Non-Picked YouTube Video Suggestions</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-from-filming-to-fame-discovering-the-top-10-ladies-on-youtube-for-2024/"><u>[Updated] From Filming to Fame Discovering the Top 10 Ladies on YouTube for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-ultimate-guide-pcs-hd-color-videography/"><u>[Updated] Ultimate Guide PC's HD Color Videography</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/aviutl-youtubevimeo/"><u>AviUtlでビデオ解像度調整ガイド - YouTube、Vimeo用</u></a></li>
+<li><a href="https://win-online.techidaily.com/comment-creer-une-image-disque-de-demarrage-pour-une-cle-usb-sous-windows-7/"><u>Comment Créer Une Image Disque De Démarrage Pour Une Clé USB Sous Windows 7</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-all-you-need-to-know-about-mega-greninja-for-oppo-a78-5g-drfone-by-drfone-virtual-android/"><u>In 2024, All You Need To Know About Mega Greninja For Oppo A78 5G | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-apply-these-techniques-to-improve-how-to-detect-fake-gps-location-on-realme-12plus-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Apply These Techniques to Improve How to Detect Fake GPS Location On Realme 12+ 5G | Dr.fone</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/masterclass-in-making-memories-expert-tips-for-snapchat-edits-for-2024/"><u>Masterclass in Making Memories Expert Tips for Snapchat Edits for 2024</u></a></li>
 </ul></div>
 

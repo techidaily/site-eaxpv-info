@@ -1,7 +1,7 @@
 ---
 title: Discover What Waits in Vision Pro's Travel Mode - A Must-Read Guide for Newcomers
-date: 2024-12-04T00:15:41.476Z
-updated: 2024-12-07T18:33:14.441Z
+date: 2024-12-07T19:30:41.126Z
+updated: 2024-12-13T16:37:15.711Z
 tags:
   - apple
 categories:
@@ -41,7 +41,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Airplane Mode
@@ -63,6 +63,10 @@ Screenshot by David Gewirtz/ZDNET
 You can also turn on Airplane Mode directly from the Settings panel. Open Settings from the main dashboard and flip the toggle on. 
 
 Screenshot by David Gewirtz/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Travel Mode
 
@@ -95,16 +99,12 @@ As mentioned above, Travel Mode and Airplane Mode are independent settings. That
 Screenshot by David Gewirtz/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Planes, trains, automobiles - and boats
 
 While I have no intention of taking my Vision Pro out and about, I have had a chance to review the experiences shared by others online. Here are some thoughts for each of the vehicle types you're likely to be traveling in -- _as a passenger_. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ###  Airplanes
 
@@ -116,10 +116,6 @@ You'll need to account for where the battery goes, where your [travel case](http
 
 That said, as long as you have enough battery power (or [spare batteries](https://www.apple.com/shop/product/MW283LL/A/apple-vision-pro-battery)), your experience on a plane should be fairly straightforward as this was a use case Apple clearly designed for. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ###  Trains
 
 ZDNET's [Matthew Miller has used the Vision Pro while commuting](https://www.zdnet.com/article/i-used-the-apple-vision-pro-for-my-8-hour-work-day-and-it-left-me-wanting-more/) by train in the Seattle area. He, too, found the cramped quarters a bit of a challenge, because moving your arms is a bit tough when there's a good chance you'll whack the person sitting in the seat next to you. 
@@ -127,6 +123,10 @@ ZDNET's [Matthew Miller has used the Vision Pro while commuting](https://www.zdn
 **Also: [I used the Apple Vision Pro for my 8-hour work day, and it left me wanting more](https://www.zdnet.com/article/i-used-the-apple-vision-pro-for-my-8-hour-work-day-and-it-left-me-wanting-more/)**
 
 He also found that the lenses tended to fog up. While not necessarily a deal-killer, lens issues can be a serious problem when using the device, especially in a humid environment. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ###  Automobiles
 
@@ -137,10 +137,6 @@ Highway travel, particularly on long stretches of the national highway system in
 **Also: [Connected cars, powered by AI, will make up 95% of all vehicles on the road by 2030](https://www.zdnet.com/article/connected-cars-powered-by-ai-will-make-up-95-of-all-vehicles-on-the-road-by-2030/)**
 
 Travel mode will certainly help, but expect it to blink in and out depending on what's going on outside the vehicle. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ###  Shipboard travel
 
@@ -155,6 +151,10 @@ I've been on ships in rough seas, and here's the thing: You don't want to be wat
 I've also lived through devastating earthquakes. The [Loma Prieta earthquake](https://en.wikipedia.org/wiki/1989%5FLoma%5FPrieta%5Fearthquake) had a magnitude of 6.9, lasted approximately 15 seconds, and destroyed much of the San Francisco area. Sailing on rough seas is like being in a quake as large or larger than the Loma Prieta quake, but doing it for three, six, 12, or even 24 _hours_. 
 
 If you're sailing and the vessel is rolling or heaving, give up on the entertainment, and do your best not to hurl your lunch. In fact, try not to eat any lunch. Just hang in there until it's over. There will be time to watch _Avatar: The Way of Water_ in 3D another day, when the seas are calm and so is your stomach lining. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Situational awareness
 
@@ -211,21 +211,20 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-sunrise-to-starry-nights-top-animated-youtubers-for-daily-joy/"><u>[New] 2024 Approved From Sunrise to Starry Nights - Top Animated YouTubers for Daily Joy</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-loop-youtube-videos-on-tv/"><u>[New] In 2024, How to Loop YouTube Videos on TV</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-fostering-fandoms-top-three-storytelling-techniques-for-2024/"><u>[Updated] Fostering Fandoms Top Three Storytelling Techniques for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-hashtag-mastery-pathway-to-6-figure-youtube-impact-for-2024/"><u>[Updated] Hashtag Mastery Pathway to 6-Figure Youtube Impact for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-how-much-does-youtube-pay-for-1-million-views-for-2024/"><u>[Updated] How Much Does YouTube Pay for 1 Million Views for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-find-8-digital-hubs-offering-free-green-screen-elements-and-scenes/"><u>[Updated] In 2024, Find 8 Digital Hubs Offering Free Green-Screen Elements & Scenes</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-grassroots-video-marketing-strategies/"><u>[Updated] In 2024, Grassroots Video Marketing Strategies</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-precision-in-online-viewing-a-zoomers-handbook/"><u>[Updated] Precision in Online Viewing A Zoomer's Handbook</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-riding-through-the-year-motorcycles-no-1-helmet-cameras-guide/"><u>[Updated] Riding Through the Year - Motorcycle's No. 1 Helmet Cameras Guide</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/2024-approved-converting-tiktok-audio-into-desired-mobile-ringtones/"><u>2024 Approved Converting TikTok Audio Into Desired Mobile Ringtones</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/2024-approved-ultimate-list-the-7-most-immersive-global-conflict-sims/"><u>2024 Approved Ultimate List The 7 Most Immersive Global Conflict Sims</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/discover-the-finest-free-video-player-options-for-pcmobile-tech-users/"><u>Discover the Finest Free Video Player Options for PC/Mobile Tech Users</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-any-oneplus-open-phone-password-using-emergency-call-by-drfone-android/"><u>In 2024, How To Unlock Any OnePlus Open Phone Password Using Emergency Call</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-ultimate-aquatic-enhancements-for-gopro-footage/"><u>In 2024, Ultimate Aquatic Enhancements for GoPro Footage</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/powerful-insights-unlocking-full-potential-with-mobizen-screen-recording-for-2024/"><u>Powerful Insights Unlocking Full Potential with Mobizen Screen Recording for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/premium-audio-exploration-top-gpodc-picks/"><u>Premium Audio Exploration Top GPodC Picks</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-pinpoint-premium-video-keywords-on-youtube/"><u>[New] 2024 Approved How to Pinpoint Premium Video Keywords on YouTube</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-best-laughs-in-layout-designer/"><u>[New] Best Laughs in Layout Designer</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-fast-paced-favorites-leading-background-music-in-yt-shorts-for-2024/"><u>[New] Fast-Paced Favorites Leading Background Music in YT Shorts for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-framing-the-perfect-frame-talking-head-shot-essentials-for-2024/"><u>[New] Framing the Perfect Frame Talking-Head Shot Essentials for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-harness-youtubes-potential-with-these-top-5-video-marketing-techniques/"><u>[New] In 2024, Harness YouTube’s Potential with These #Top 5 Video Marketing Techniques</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-seconds-in-a-snapshot-20mb-videography/"><u>[New] Seconds in a Snapshot 20MB Videography</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-hits-at-hyperspeed-the-fast-track-to-100-million-views-on-youtube-in-24/"><u>[Updated] 2024 Approved Hits at Hyperspeed The Fast Track to 100 Million Views on YouTube in '24</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-global-streaming-giants-face-off-facebook-live-youtube-live-periscope-for-2024/"><u>[Updated] Global Streaming Giants' Face-Off Facebook Live, YouTube Live, Periscope for 2024</u></a></li>
+<li><a href="https://discover-blog.techidaily.com/dvd6e/"><u>【総合評価】安心できるDVDコピーソフト6品種を見せてくだe〜無料も有料もご用意！</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-a-decade-in-review-top-8-free-online-srt-translators/"><u>2024 Approved A Decade in Review Top 8 Free Online SRT Translators</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-laptop-techniques-for-instantaneous-video-communication-through-whatsapp-web/"><u>2024 Approved Laptop Techniques for Instantaneous Video Communication Through WhatsApp Web</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-reset-gmail-password-on-xiaomi-14-devices-by-drfone-android/"><u>In 2024, How to Reset Gmail Password on Xiaomi 14 Devices</u></a></li>
+<li><a href="https://extra-support.techidaily.com/sculpting-soundscapes-advanced-techniques-for-flawless-transition-sequences-audacity-for-2024/"><u>Sculpting Soundscapes Advanced Techniques for Flawless Transition Sequences (Audacity) for 2024</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/96292646-9781473676701-taurus/"><u>Taurus | Free Book</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-cartoon-video-creation-made-easy-top-10-tools-for-beginners-for-2024/"><u>Updated Cartoon Video Creation Made Easy Top 10 Tools for Beginners for 2024</u></a></li>
 </ul></div>
 

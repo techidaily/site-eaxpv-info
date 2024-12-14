@@ -1,7 +1,7 @@
 ---
 title: Enhance Productivity by Setting Up Custom Alerts on Your Mac - A Guide for macOS Monterey Users | ZDNET
-date: 2024-11-30T18:20:03.301Z
-updated: 2024-12-07T22:07:47.985Z
+date: 2024-12-10T00:06:09.330Z
+updated: 2024-12-13T17:21:57.268Z
 tags:
   - apple
 categories:
@@ -26,10 +26,14 @@ So, how do you create this custom Flow? Let me show you. All you'll need to make
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Create a custom Focus
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 1\. Open System Preferences
@@ -37,7 +41,7 @@ So, how do you create this custom Flow? Let me show you. All you'll need to make
 Click on the Apple menu in the top left corner of your desktop. From the resulting pop-up menu, click System Preferences.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 2\. Access Notifications & Focus
@@ -48,10 +52,6 @@ In the System Preferences window (**Figure 1**), click Notifications & Focus.
 
 Image: Jack Wallen
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 3\. Open the Focus tab
 
 Once Notifications & Focus is opened, click the Focus tab (**Figure 2**).
@@ -61,7 +61,7 @@ Once Notifications & Focus is opened, click the Focus tab (**Figure 2**).
 Image: Jack Wallen
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 4\. Create the new Focus
@@ -80,6 +80,10 @@ Image: Jack Wallen
 
 After naming and selecting a color/icon, click Add to save the new Focus.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 5\. Allowing specific notifications
 
 The next thing to do is to specific contacts or apps that will be allowed when this Focus is enabled. To do that, click + under Allowed Notifications From (**Figure 5**).
@@ -93,10 +97,6 @@ From the pop-up list, select the contact(s) you want to be allowed to interrupt 
 **Figure 6:** Adding contacts to a Focus in macOS Monterey.
 
 Image: Jack Wallen
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 6\. Set the Focus to be enabled
 
@@ -140,20 +140,21 @@ Use this new Focus feature wisely, and it will help you be more productive while
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-how-to-craft-standout-videos-mastery-of-youtube-thumbnail-dimensions-for-2024/"><u>[New] How to Craft Standout Videos Mastery of YouTube Thumbnail Dimensions for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-high-earning-video-visionaries/"><u>[New] In 2024, High Earning Video Visionaries</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/n-2024-multimedia-text-producer/"><u>[New] In 2024, Multimedia Text Producer</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/n-2024-the-roadmap-to-establishing-your-unique-flair/"><u>[New] In 2024, The Roadmap to Establishing Your Unique Flair</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-boring-to-breathtaking-the-transformation-of-channel-titles/"><u>[Updated] 2024 Approved From Boring to Breathtaking The Transformation of Channel Titles</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-selfie-snaps-to-skincare-specials-establishing-your-youtube-brand/"><u>[Updated] 2024 Approved From Selfie Snaps to Skincare Specials Establishing Your YouTube Brand</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-harmonize-your-hours-synchronized-video-playback-across-platforms/"><u>[Updated] 2024 Approved Harmonize Your Hours Synchronized Video Playback Across Platforms</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-force-youtube-cc-to-stay-on-and-get-more-views/"><u>[Updated] 2024 Approved How to Force YouTube CC to Stay On and Get More Views</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-essential-guide-to-aiseesofts-screencasting-features/"><u>[Updated] In 2024, Essential Guide to Aiseesoft's Screencasting Features</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-the-hottest-youtube-to-mp3-software-picks-top-10-for-2024/"><u>[Updated] The Hottest YouTube-to-MP3 Software Picks (Top 10) for 2024</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/download-epson-ds-530-printer-driver-for-windows-10-x64-compatibility-guide-and-installation/"><u>Download Epson DS-530 Printer Driver for Windows 10 X64: Compatibility Guide & Installation</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/avorites-best-learning-yt-channels/"><u>Edu-Favorites Best Learning YT Channels</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-what-legendaries-are-in-pokemon-platinum-on-apple-iphone-8-drfone-by-drfone-virtual-ios/"><u>In 2024, What Legendaries Are In Pokemon Platinum On Apple iPhone 8? | Dr.fone</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/transform-your-broadcasts-with-manycam-the-leading-tool-for-live-video-software-and-online-webcams/"><u>Transform Your Broadcasts with ManyCam: The Leading Tool for Live Video Software and Online Webcams</u></a></li>
-<li><a href="https://discover-exclusive.techidaily.com/youtube-mrlvlc-troubleshooting-guide/"><u>YouTube MRLを開くためのVLC Troubleshooting Guide</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-zero-to-hero-in-youtubing-equipment-essentials/"><u>[New] 2024 Approved From Zero to Hero in YouTubing Equipment Essentials</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-audience-wow-factor-best-stream-cameras-for-your-twitch-channel-for-2024/"><u>[New] Audience Wow Factor Best Stream Cameras for Your Twitch Channel for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-flutter-freedom-for-videos-the-best-tools-to-flv-to-youtubes/"><u>[New] In 2024, Flutter Freedom for Videos The Best Tools to Flv-to-YouTubes</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-fueling-inspiration-crafting-engaging-channel-content/"><u>[New] In 2024, Fueling Inspiration Crafting Engaging Channel Content</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-use-creative-commons-copyright-licenses-complete-guide/"><u>[New] In 2024, How to Use Creative Commons Copyright Licenses [Complete Guide]</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-join-the-fun-best-gratuitous-meme-tools-available/"><u>[New] Join the Fun Best Gratuitous Meme Tools Available</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-perfecti-the-ultimate-guide-to-iphone-slideshows-xr-i/"><u>[Updated] 2024 Approved Perfecti The Ultimate Guide to iPhone Slideshows (XR-I)</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-behind-the-scenes-unpacking-instagram-stories-for-2024/"><u>[Updated] Behind the Scenes Unpacking Instagram Stories for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-fresh-topics-to-cover-in-your-vlogs-for-2024/"><u>[Updated] Fresh Topics to Cover in Your Vlogs for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-gamer-tested-streaming-software-picks-for-2024/"><u>[Updated] Gamer-Tested Streaming Software Picks for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-growth-strategies-for-youtube-videos-6-effortless-approaches-for-2024/"><u>[Updated] Growth Strategies for YouTube Videos 6 Effortless Approaches for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-instagrams-backward-glimpse-reverse-video-tips-for-2024/"><u>[Updated] Instagram's Backward Glimpse Reverse Video Tips for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/app-wont-open-on-your-nokia-c22-here-are-all-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>App Wont Open on Your Nokia C22? Here Are All Fixes | Dr.fone</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/elevating-video-quality-incorporating-bb-and-lc-elements-in-fb/"><u>Elevating Video Quality Incorporating BB and LC Elements in FB</u></a></li>
+<li><a href="https://games-able.techidaily.com/surviving-xboxs-subscription-spike-tips-inside/"><u>Surviving Xbox's Subscription Spike - Tips Inside</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/top-5-exceptional-tools-that-replace-video-downloadhelper/"><u>Top 5 Exceptional Tools That Replace Video DownloadHelper</u></a></li>
 </ul></div>
 

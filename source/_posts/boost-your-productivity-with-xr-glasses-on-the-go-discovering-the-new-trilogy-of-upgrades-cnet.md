@@ -1,7 +1,7 @@
 ---
 title: "Boost Your Productivity with XR Glasses On-the-Go: Discovering the New Trilogy of Upgrades | CNET"
-date: 2024-11-30T17:41:32.795Z
-updated: 2024-12-07T22:36:10.468Z
+date: 2024-12-11T23:27:18.584Z
+updated: 2024-12-13T17:06:48.854Z
 tags:
   - apple
 categories:
@@ -21,7 +21,7 @@ Matthew Miller/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -85,7 +85,7 @@ Along with the [Viture Pro XR glasses](https://buy.geni.us/Proxy.ashx?TSID=36825
 Lastly, Viture announced a new limited-edition controller in partnership with 8BitDo. You can connect this new controller, with a classic XBox-style controller layout, via Bluetooth to your gaming device, including the Nintendo Switch. The smokey translucent design looks cool and matches the Viture ecosystem. The 8BitDo controller also serves as a companion to the Viture Neckband, but I have yet to try out the Neckband, so I cannot share my experiences with that accessory.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -122,19 +122,22 @@ The [Viture Pro XR glasses](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-game-testers-and-beta-gamers-online/"><u>[New] 2024 Approved Game Testers & Beta Gamers Online</u></a></li>
-<li><a href="https://article-posts.techidaily.com/new-in-2024-dissecting-podcasters-income-streams/"><u>[New] In 2024, Dissecting Podcasters' Income Streams</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-make-a-thumbnail-for-your-youtube-free-easily/"><u>[New] In 2024, How to Make a Thumbnail for Your YouTube Free Easily</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-make-video-thumbnails-for-youtube/"><u>[New] In 2024, How to Make Video Thumbnails for YouTube</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-views-to-revenue-simplifying-the-process-with-a-3-step-framework-for-monitoring-youtube-income/"><u>[Updated] 2024 Approved From Views to Revenue Simplifying the Process with a 3-Step Framework for Monitoring YouTube Income</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-grab-free-video-profile-backgrounds/"><u>[Updated] In 2024, Grab Free Video Profile Backgrounds</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-photo-your-desktop-windows-edition/"><u>[Updated] Photo Your Desktop Windows Edition</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/approved-the-editors-edge-advanced-tactics-for-youtube-video-spins-guide/"><u>2024 Approved The Editor's Edge Advanced Tactics for YouTube Video Spins (Guide)</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/comprehensive-analysis-of-the-blueant-soundblade-impressive-clarity-and-powerful-output/"><u>Comprehensive Analysis of the BlueAnt SoundBlade - Impressive Clarity & Powerful Output</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/expert-review-why-the-x-chair-x4-deserves-to-be-on-every-professionals-shortlist/"><u>Expert Review: Why the X-Chair X4 Deserves to Be on Every Professional's Shortlist</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/1666483-9781118727904-mindfulness-at-work-for-dummies/"><u>Mindfulness at Work For Dummies | Free Book</u></a></li>
-<li><a href="https://article-helps.techidaily.com/shoot-the-worlds-hustle-and-bustle-iphone-tips-for-shutter-speed-blurs/"><u>Shoot the World's Hustle and Bustle IPhone Tips for Shutter Speed Blurs</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/top-10-password-cracking-tools-for-poco-f5-5g-by-drfone-android/"><u>Top 10 Password Cracking Tools For Poco F5 5G</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/trouble-final-fantasy-xiv-update-verification-process/"><u>Trouble Final Fantasy XIV Update Verification Process</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-first-to-last-your-guide-to-youtube-video-looping-101/"><u>[New] 2024 Approved From First to Last Your Guide to YouTube Video Looping 101</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-free-image-savers-optimizing-video-graphics-for-2024/"><u>[New] FREE Image Savers Optimizing Video Graphics for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-practical-methods-for-capturing-vimeo-media/"><u>[New] In 2024, Practical Methods for Capturing Vimeo Media</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-launch-your-first-sporty-video-channel-on-apple-systems/"><u>[Updated] 2024 Approved How to Launch Your First Sporty Video Channel on Apple Systems</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-from-beginners-to-pros-choosing-webcams-for-youtube-live-for-2024/"><u>[Updated] From Beginners to Pros Choosing Webcams for YouTube Live for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-from-streams-to-statements-decoding-the-3-step-process-for-calculating-youtube-earnings-for-2024/"><u>[Updated] From Streams to Statements Decoding the 3-Step Process for Calculating YouTube Earnings for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-activate-or-deactivate-video-commenting-in-youtube-for-2024/"><u>[Updated] How To Activate or Deactivate Video Commenting in YouTube for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-sculpt-the-perfect-youtube-moniker-tips-and-tricks-for-2024/"><u>[Updated] How to Sculpt the Perfect YouTube Moniker Tips & Tricks for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-sony-vegas-transforms-ordinary-footage-into-youtube-stardom/"><u>[Updated] In 2024, How Sony Vegas Transforms Ordinary Footage Into YouTube Stardom</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-choosing-between-obs-and-streamlabs-for-broadcast-excellence/"><u>2024 Approved Choosing Between OBS and Streamlabs for Broadcast Excellence</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/advanced-gadget-analysis-by-toms-computing-hub/"><u>Advanced Gadget Analysis by Tom's Computing Hub</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/1142781-9780857010056-chen/"><u>Chen | Free Book</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-do-you-remove-restricted-mode-on-iphone-15-plus-drfone-by-drfone-ios/"><u>In 2024, How Do You Remove Restricted Mode on iPhone 15 Plus | Dr.fone</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/24-revamp-your-channels-image-amplify-your-subscription-count/"><u>In 2024, Revamp Your Channel's Image, Amplify Your Subscription Count</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/in-2024-unpacking-magix-video-editor-features/"><u>In 2024, Unpacking MAGIX Video Editor Features</u></a></li>
+<li><a href="https://win-manuals.techidaily.com/move-startpartition-to-a-new-hard-drive-on-windows-7-three-effective-methods/"><u>Move Startpartition to a New Hard Drive on Windows 7 - Three Effective Methods</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/uniting-content-creators-microphones-that-speak-to-every-yt-style-and-genre-for-2024/"><u>Uniting Content Creators Microphones That Speak to Every YT Style and Genre for 2024</u></a></li>
 </ul></div>
 

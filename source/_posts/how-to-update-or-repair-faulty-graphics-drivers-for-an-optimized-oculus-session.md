@@ -1,7 +1,7 @@
 ---
 title: How to Update or Repair Faulty Graphics Drivers for an Optimized Oculus Session
-date: 2024-08-09T12:18:01.114Z
-updated: 2024-08-10T12:18:01.114Z
+date: 2024-12-08T19:02:20.022Z
+updated: 2024-12-13T19:01:55.384Z
 tags:
   - win11
   - win10
@@ -15,12 +15,13 @@ thumbnail: https://thmb.techidaily.com/91b7cfb4d96e2456602f29985eb790b38dbd8c0fc
 
 ## Forza Horizon 5 Update Errors? Here’s How to Correct Your Graphics Driver Woes
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/forza-horizon-5-code-FH301.jpg)
 
  Forza Horizon 5 is finally here. However, some players reported that they were unable to launch the game and got the message saying that “**Please update your graphics driver…(Code: FH301)** ”. If you’re facing the same error, don’t worry. Here we’ll tell you how to update your graphics driver easily and quickly.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Three ways to update your graphics driver
 
@@ -28,31 +29,35 @@ thumbnail: https://thmb.techidaily.com/91b7cfb4d96e2456602f29985eb790b38dbd8c0fc
 2. **[Update graphics driver automatically (Recommended)](https://www.drivereasy.com/knowledge/forza-horizon-5-update-graphics-driver/#Method2)**
 3. **[Update graphics driver manually](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Method 1: Update graphics driver via Device Manager
 
  You can update your graphics driver via Device Manager. To do so, follow the instructions below:
 
 1. Right-click the**Start** button and then select**Device Manager** .  
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/start-device-manager.jpg)
 2. In Device Manager, double-click**Display adapters** to expand it.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/display-adapter.jpg)
 3. Right-click your**graphics card** and select**Update driver** .  
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/graphics-update-driver.jpg)
 4. Select**Search automatically for drivers** . Windows will automatically search for the latest driver for your graphics card and then install it.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/search-automatically-for-drivers.jpg)
 5. Once the process is complete, restart your computer.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If Windows doesn’t find a new driver, you can try looking for one from your graphics card manufacturer’s website or by using a third-party driver updater.
 
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 ### Method 2: Update graphics driver automatically (Recommended)
 
  If you don’t have the time, patience or computer skills to update your graphics driver manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -70,20 +75,19 @@ thumbnail: https://thmb.techidaily.com/91b7cfb4d96e2456602f29985eb790b38dbd8c0fc
 
  After installing the latest graphics driver, restart your PC for the changes to take effect. Now you should be able to launch Forza Horizon 5.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Method 3: Update your graphics driver manually
 
  You can also go to your graphics card manufacturer’s website to download and update your graphics driver. It takes time and computer skills to update your graphics driver this way. If you’re a tech-savvy user, you can try the following steps to download and install the latest graphics driver on your own.
 
 1. According to the graphics card you have, go to **[NVIDIA](https://tools.techidaily.com/drivereasy/download/)**  ,[**AMD**](https://www.amd.com/en/support) or **[Intel](https://downloadcenter.intel.com/product/80939/Graphics)**  website.
 2. Select the**type of your graphics card** and your**operating system** . Once you locate the correct one, select the latest version to**download** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/nvidia-driver.jpg)
 3. Once downloaded,**double-click** on the downloaded file and follow the on-screen instructions to install the driver.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. **Restart** your PC and check if you can launch Forza horizon 5.
 
 ---
@@ -99,8 +103,6 @@ thumbnail: https://thmb.techidaily.com/91b7cfb4d96e2456602f29985eb790b38dbd8c0fc
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -108,4 +110,24 @@ thumbnail: https://thmb.techidaily.com/91b7cfb4d96e2456602f29985eb790b38dbd8c0fc
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-how-to-effectively-reduce-your-youtube-video-lengths-for-2024/"><u>[New] How To Effectively Reduce Your YouTube Video Lengths for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-video-to-music-youtube-to-mp3-on-macos/"><u>[New] In 2024, From Video to Music YouTube to MP3 on MacOS</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-in-2024-transform-your-photos-using-adobes-power/"><u>[New] In 2024, Transform Your Photos Using Adobe's Power</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/cale-up-channel-followers-faster-and-cheaper-for-2024/"><u>[New] Scale Up Channel Followers Faster and Cheaper for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-hobbies-to-hearts-youtubes-path-to-fame/"><u>[Updated] 2024 Approved From Hobbies to Hearts YouTube's Path to Fame</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-gamer-income-tactics/"><u>[Updated] 2024 Approved Gamer Income Tactics</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-filmmaking-simplified-create-an-inviting-youtube-subscription-button-in-filmora-for-2024/"><u>[Updated] Filmmaking Simplified Create an Inviting YouTube Subscription Button in Filmora for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-flexibility-in-viewing-with-youtube-tv-options-for-2024/"><u>[Updated] Flexibility in Viewing with YouTube TV Options for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-harmonize-body-and-mind-through-these-top-10-yogis-videos-for-2024/"><u>[Updated] Harmonize Body and Mind Through These Top 10 Yogis' Videos for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-ideation-to-implementation-a-comprehensive-approach-for-quality-edu-videos/"><u>[Updated] In 2024, From Ideation to Implementation A Comprehensive Approach for Quality Edu-Videos</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-laughter-and-tears-connected-10-memes-that-resonate-on-ig/"><u>[Updated] Laughter and Tears Connected 10 Memes That Resonate On IG</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-trendsetters-on-twitternet-top-10-threads-ranking-for-2024/"><u>[Updated] Trendsetters on Twitternet Top 10 Threads Ranking for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-tuneful-texts-musical-infusion-on-whatsapp/"><u>[Updated] Tuneful Texts Musical Infusion on WhatsApp</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/1-effective-solutions-to-stop-recurring-file-appearances-in-windows-11/"><u>1. Effective Solutions to Stop Recurring File Appearances in Windows 11</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-hidden-havens-of-hand-drawn-harmony-techniques/"><u>2024 Approved Hidden Havens of Hand-Drawn Harmony Techniques</u></a></li>
+<li><a href="https://fox-that.techidaily.com/step-by-step-instructions-for-direct-iphone-restoration/"><u>Step-by-Step Instructions for Direct iPhone Restoration</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-rise-of-conversational-agents-unpacking-the-appeal-of-artifice-intelligence-chatbots/"><u>The Rise of Conversational Agents: Unpacking the Appeal of Artifice Intelligence Chatbots</u></a></li>
+</ul></div>
 

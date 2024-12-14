@@ -1,7 +1,7 @@
 ---
 title: Buy One Nomad Case for Your iPhone & Grab a Second FREE Today – Limited Time Deal on ZDNet!
-date: 2024-12-01T17:30:56.272Z
-updated: 2024-12-07T16:34:24.533Z
+date: 2024-12-10T20:45:20.453Z
+updated: 2024-12-13T21:36:35.827Z
 tags:
   - apple
 categories:
@@ -48,7 +48,7 @@ ZDNET's Kerry Wan went hands-on with the [iPad 10th Gen](https://buy.geni.us/Pro
 If you're looking to snag the 10th Gen iPad, which Wan says stacks up pretty well against the more expensive iPad Air, be sure to jump on this [sweet deal](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FApple-2022-10-9-inch-iPad-Wi-Fi%2Fdp%2FB0BJLXMVMV%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C0d6032e1-d089-490f-9c8e-0eda836790a7%7Cdtp&dtb=1) while it lasts. Plus, if you want to shop even more [Prime Day Apple deals that are still live](https://www.zdnet.com/article/best-prime-day-apple-deals-still-available-2024/), we've got you covered.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -85,20 +85,22 @@ Deals are subject to sell out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-fixed-youtube-shorts-just-watch-and-enjoy/"><u>[New] 2024 Approved Fixed YouTube Shorts - Just Watch and Enjoy</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-fusing-genres-a-youtube-music-strategy/"><u>[New] 2024 Approved Fusing Genres A YouTube Music Strategy</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-free-mcb-theme-images-templates-and-more/"><u>[Updated] 2024 Approved Free MCB Theme Images, Templates & More</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-foundations-first-what-to-invest-in-for-youtubing/"><u>[Updated] In 2024, Foundations First What To Invest In for YouTubing</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-viewing-voids-to-viral-videos-the-top-ten-reasons-and-cures-for-zero-traffic/"><u>[Updated] In 2024, From Viewing Voids to Viral Videos The Top Ten Reasons & Cures for Zero Traffic</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-gamings-finest-top-10-gpu-picks-for-clear-online-broadcasts/"><u>[Updated] In 2024, Gaming's Finest Top 10 GPU Picks for Clear Online Broadcasts</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-blur-faces-or-objects-in-youtube-videos/"><u>[Updated] In 2024, How to Blur Faces or Objects in YouTube Videos</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/2024-approved-a-guide-to-peak-performance-posting-times-for-insta-success/"><u>2024 Approved A Guide to Peak Performance Posting Times for Insta Success</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/captivating-titles-easily-achievable/"><u>Captivating Titles, Easily Achievable</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-can-oneplus-ace-2vmirror-share-to-pc-drfone-by-drfone-android/"><u>How Can OnePlus Ace 2VMirror Share to PC? | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-apple-iphone-14-pro-backup-password-never-set-but-still-asking-heres-the-fix-drfone-by-drfone-ios/"><u>In 2024, Apple iPhone 14 Pro Backup Password Never Set But Still Asking? Heres the Fix | Dr.fone</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-professional-cine-tools-discover-the-top-15-luts-for-action-cams/"><u>In 2024, Professional Cine Tools Discover the Top 15 LUTs for Action Cams</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-things-you-should-know-when-unlocking-total-wireless-of-apple-iphone-14-plus-drfone-by-drfone-ios/"><u>In 2024, Things You Should Know When Unlocking Total Wireless Of Apple iPhone 14 Plus | Dr.fone</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/1726027826258-pc/"><u>PCで動画ファイル拡張子を変更するための効果的なガイド</u></a></li>
-<li><a href="https://article-helps.techidaily.com/superior-engine-picks-elevating-your-quadcopters-capabilities/"><u>Superior Engine Picks Elevating Your Quadcopter's Capabilities</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-free-youtube-download-methods-without-apps/"><u>[New] 2024 Approved Free YouTube Download Methods Without Apps</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-harnessing-the-power-of-post-production-colors/"><u>[New] Harnessing the Power of Post-Production Colors</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-how-to-perfectly-capture-audio-remotely/"><u>[New] How to Perfectly Capture Audio Remotely</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-startup-to-success-skyrocketing-youtube-subs/"><u>[New] In 2024, From Startup to Success Skyrocketing Youtube Subs</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-gain-unlimited-stock-videos-through-essential-4-youtube-sources/"><u>[New] In 2024, Gain Unlimited Stock Videos Through Essential 4 YouTube Sources</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-tricks-for-speedy-vimeo-streams-for-2024/"><u>[New] Tricks for Speedy Vimeo Streams for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-custom-your-youtube-channel-url-super-easy/"><u>[Updated] 2024 Approved How to Custom Your YouTube Channel URL – Super Easy</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-secure-extraction-converting-youtube-to-trusted-mp4/"><u>[Updated] 2024 Approved Secure Extraction Converting YouTube to Trusted MP4</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-from-boring-to-breathtaking-the-transformation-of-channel-titles-for-2024/"><u>[Updated] From Boring to Breathtaking The Transformation of Channel Titles for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-giggles-in-a-gigabyte-10-hilarious-video-concepts-to-share-online-for-2024/"><u>[Updated] Giggles in a Gigabyte 10 Hilarious Video Concepts to Share Online for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-connecting-live-streamers-easily-share-from-twitch-to-fb/"><u>[Updated] In 2024, Connecting Live Streamers Easily Share From Twitch to FB</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-finding-legal-music-a-producers-manual/"><u>[Updated] In 2024, Finding Legal Music A Producer's Manual</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-go-viral-on-youtube-with-minimal-effort/"><u>[Updated] In 2024, How to Go Viral on YouTube with Minimal Effort</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-screen-recorder-showdown-apoyser-vs-emerging-alternatives-review/"><u>[Updated] In 2024, Screen Recorder Showdown Apoyser Vs Emerging Alternatives Review</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/dance-the-viral-dance-mix-in-some-tiktok-flavor-for-insta-success-for-2024/"><u>Dance the Viral Dance Mix in Some TikTok Flavor for Insta Success for 2024</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/forgot-iphone-passcode-again-unlock-iphone-11-without-passcode-now-drfone-by-drfone-ios/"><u>Forgot iPhone Passcode Again? Unlock iPhone 11 Without Passcode Now | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-asus-rog-phone-8-pro-by-drfone-android/"><u>In 2024, AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your Asus ROG Phone 8 Pro</u></a></li>
 </ul></div>
 

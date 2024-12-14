@@ -1,7 +1,7 @@
 ---
 title: "Augmented Intelligence at Play: Apple Embraces Change with Siri, Taking Inspiration Cues From Microsoft and Bing Synergy"
-date: 2024-12-01T16:59:35.287Z
-updated: 2024-12-07T19:46:41.830Z
+date: 2024-12-12T20:54:01.334Z
+updated: 2024-12-13T23:21:01.259Z
 tags:
   - apple
 categories:
@@ -45,7 +45,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Hey Siri, let's talk about Microsoft
@@ -77,7 +77,7 @@ Microsoft, on the other hand, is a strong brand -- one that's become both more i
 Meanwhile, Siri connotes the phrase "You cannot be Sirious." 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Hey Siri, say goodbye
@@ -126,20 +126,22 @@ This replacement should have a new name -- Cuper or Cooky anyone? -- that'll mak
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-first-time-streamers-unite-learn-obs-and-broadcast-to-youtube/"><u>[New] 2024 Approved First-Time Streamers Unite Learn OBS & Broadcast to Youtube</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/024-approved-navigating-youtubes-revenue-mechanisms/"><u>[New] 2024 Approved Navigating YouTube's Revenue Mechanisms</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/new-deciphering-the-world-of-augmented-reality-stickers-googles-role-for-2024/"><u>[New] Deciphering the World of Augmented Reality Stickers Google's Role for 2024</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-essential-techniques-in-capturing-live-sports-on-camera/"><u>[New] Essential Techniques in Capturing Live Sports on Camera</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-no-one-watching-to-huge-engagement-10-proven-ways-to-increase-video-popularity/"><u>[Updated] 2024 Approved From No One Watching to Huge Engagement 10 Proven Ways to Increase Video Popularity</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-harnessing-success-with-freefire-hashtag-tips/"><u>[Updated] 2024 Approved Harnessing Success with FreeFire Hashtag Tips</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-seamlessly-upload-videos-onto-youtubes-platform/"><u>[Updated] 2024 Approved How to Seamlessly Upload Videos Onto YouTube's Platform</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-faster-adjustment-of-youtube-videos-for-mac-pixels-for-2024/"><u>[Updated] Faster Adjustment of YouTube Videos for Mac Pixels for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-live-stream-to-youtube-with-wirecast-for-2024/"><u>[Updated] How to Live Stream to Youtube with Wirecast for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-good-to-great-elevate-reactions-in-youtube-videos-with-these-3-strategies/"><u>[Updated] In 2024, From Good to Great Elevate Reactions in YouTube Videos with These 3 Strategies</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-the-science-behind-the-best-sized-videos-for-your-instagram-story/"><u>2024 Approved The Science Behind the Best-Sized Videos for Your Instagram Story</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-mouse-driver-for-windows-7-solved/"><u>Download Mouse Driver for Windows 7 [Solved]</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/elevate-your-gaming-a-step-by-step-approach-to-fixing-slow-minecraft-loads-on-top-tier-pcs-2024-edition/"><u>Elevate Your Gaming: A Step-by-Step Approach to Fixing Slow Minecraft Loads on Top-Tier PCs - 2024 Edition</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-turn-off-google-location-to-stop-tracking-you-on-oneplus-ace-2v-drfone-by-drfone-virtual-android/"><u>How to Turn Off Google Location to Stop Tracking You on OnePlus Ace 2V | Dr.fone</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/mastering-selection-of-top-free-srt-translators-key-insights-revealed/"><u>Mastering Selection of Top Free SRT Translators – Key Insights Revealed</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-conference-call-to-youtube-stream-how-to-broadcast-google-meet/"><u>[New] 2024 Approved From Conference Call to YouTube Stream - How To Broadcast Google Meet</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-harmonizing-your-music-a-youtube-playlist-journey/"><u>[New] 2024 Approved Harmonizing Your Music A YouTube Playlist Journey</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-captivate-audiences-and-gain-traction-with-youtube-shorts/"><u>[New] 2024 Approved How to Captivate Audiences and Gain Traction with YouTube Shorts</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-final-goodbye-to-youtubes-minis-a-step-by-step-process-for-2024/"><u>[New] Final Goodbye to YouTube's Minis A Step-by-Step Process for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-gain-free-photo-footage-via-essential-4-youtube-picks-for-2024/"><u>[New] Gain Free Photo Footage via Essential 4 YouTube Picks for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-free-youtube-extractors-a-comprehensible-guide-for-beginners/"><u>[New] In 2024, Free YouTube Extractors A Comprehensible Guide for Beginners</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-gear-up-essential-asmr-microphones-to-consider/"><u>[New] In 2024, Gear Up Essential ASMR Microphones to Consider</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-ultimate-profit-prodigy-in-the-digital-age/"><u>[New] In 2024, Ultimate Profit Prodigy in the Digital Age</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-graph-gems-2017s-statistical-youtube-surprises/"><u>[Updated] 2024 Approved Graph Gems 2017'S Statistical YouTube Surprises</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-hacking-back-photo-viewing-in-windows-11-easily/"><u>[Updated] Hacking Back Photo Viewing in Windows 11 Easily</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/5-ways-to-reset-itel-p55plus-without-volume-buttons-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Reset Itel P55+ Without Volume Buttons | Dr.fone</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/assessing-the-merits-why-choose-apple-vision-pro/"><u>Assessing the Merits: Why Choose Apple Vision Pro</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-asus-rog-phone-7-to-laptop-without-usb-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Asus ROG Phone 7 to Laptop Without USB | Dr.fone</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/innovative-personalization-made-easy-the-cookiebot-advantage-for-seo-success/"><u>Innovative Personalization Made Easy: The Cookiebot Advantage for SEO Success</u></a></li>
+<li><a href="https://fox-access.techidaily.com/instant-best-picture-viewer-pro/"><u>Instant Best Picture Viewer Pro</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/speaking-and-listening-to-create-better-decks-for-2024/"><u>Speaking and Listening to Create Better Decks for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/transforming-srt-files-into-text-a-speedy-expertise-guide-for-2024/"><u>Transforming SRT Files Into Text A Speedy Expertise Guide for 2024</u></a></li>
 </ul></div>
 

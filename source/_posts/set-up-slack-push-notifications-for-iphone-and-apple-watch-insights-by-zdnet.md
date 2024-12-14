@@ -1,7 +1,7 @@
 ---
 title: Set Up Slack Push Notifications for iPhone and Apple Watch | Insights by ZDNet
-date: 2024-12-01T23:10:26.669Z
-updated: 2024-12-07T20:22:44.264Z
+date: 2024-12-06T17:56:51.177Z
+updated: 2024-12-14T00:07:15.849Z
 tags:
   - apple
 categories:
@@ -45,12 +45,16 @@ Here's how.
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to enable Slack notifications on your Apple Watch
 
 **What you'll need:** Have the latest versions of iOS and watchOS installed on your iPhone and Apple Watch, respectively. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 1\. Install the Slack app on your iPhone
 
@@ -58,17 +62,9 @@ There is no dedicated Slack app for the Apple Watch, but there is an iPhone app.
 
 Once it's installed, go ahead and log into your various Slack channels. Get those setup and working as you like before configuring the app for notifications.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2\. Set up Slack notifications in the system settings
 
 Let's make sure iOS is set up to allow Slack notifications. Go to the main Settings app and on the main settings screen, scroll all the way down to Slack. It's a long scroll past many other apps. Tap into Slack.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##   
 
@@ -81,12 +77,16 @@ Now, back out to the top of the Settings app and tap the red Notifications icon.
 Screenshot by David Gewirtz/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Set up Slack notifications in the Slack app
 
 Next, open the Slack app. Tap your profile image in the upper right corner of the screen. Then tap Notifications.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##   
 
@@ -105,10 +105,6 @@ Next, tap Notify Me on Mobile. This will give you a few options.
 Screenshot by David Gewirtz/ZDNET
 
 Set it to "Always, even when I'm active". That way, you'll always get notifications, no matter what you're doing (unless you have Do Not Disturb turned on).
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4\. Set your notification schedule
 
@@ -139,6 +135,10 @@ We're almost done configuring notifications. Open the Watch app and scroll down 
 Screenshot by David Gewirtz/ZDNET
 
 There. You've set up notifications. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  6\. Use the Watch to get Slack notifications
 
@@ -179,16 +179,20 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-youtube-streams-to-local-files-audio-guide/"><u>[New] 2024 Approved From YouTube Streams to Local Files Audio Guide</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-locate-your-youtube-fanbase/"><u>[New] 2024 Approved How to Locate Your YouTube Fanbase</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-5-excellent-video-conference-devices-for-professionals/"><u>[New] 5 Excellent Video Conference Devices for Professionals</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-discover-the-leading-free-screen-recording-tools-for-mac-os/"><u>[New] In 2024, Discover the Leading Free Screen Recording Tools for Mac OS</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-hiding-youtube-playback-tips-for-ios-and-android/"><u>[New] In 2024, Hiding YouTube Playback Tips for iOS and Android</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/n-2024-youtube-live-pro-tips-outfitting-with-excellent-webcams/"><u>[New] In 2024, YouTube Live Pro Tips Outfitting with Excellent Webcams</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-gaining-traction-effective-seo-techniques-for-youtube-videos/"><u>[Updated] In 2024, Gaining Traction Effective SEO Techniques for YouTube Videos</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-unveiling-top-10-destinations-for-high-end-vectors/"><u>2024 Approved Unveiling Top 10 Destinations for High-End Vectors</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/comprehensive-guide-your-shorts-hidden-thumbnails/"><u>Comprehensive Guide Your Shorts' Hidden Thumbnails</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/updated-in-2024-s-top-free-video-compressor-options-for-windows-10/"><u>Updated In 2024, S Top Free Video Compressor Options for Windows 10</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/windows-cannot-retrieve-printer-drivers/"><u>Windows Cannot Retrieve Printer Drivers</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-framecraft-videocutter/"><u>[New] 2024 Approved FrameCraft VideoCutter</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-streaming-video-how-to-get-youtube-thumbnail-files-onlineos-wise/"><u>[New] 2024 Approved From Streaming Video How to Get YouTube Thumbnail Files Online/OS-Wise</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-boost-engagement-top-8-youtube-video-trackers-unveiled/"><u>[New] In 2024, Boost Engagement - Top 8 YouTube Video Trackers Unveiled</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-gain-more-followers-masterful-youtube-marketing-techniques/"><u>[New] In 2024, Gain More Followers Masterful YouTube Marketing Techniques</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-get-more-from-tiny-screens-top-6-youtube-shorts-downloader-apps/"><u>[New] In 2024, Get More From Tiny Screens Top 6 YouTube Shorts Downloader Apps</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-can-you-make-outstanding-youtube-outro/"><u>[New] In 2024, How Can You Make Outstanding YouTube Outro?</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-freedom-from-popups-discover-the-top-7-android-adblock-apps-for-2024/"><u>[Updated] Freedom From Popups? Discover the Top 7 Android AdBlock Apps for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-promote-your-youtube-channel-with-high-impact-showcase-techniques-for-2024/"><u>[Updated] How to Promote Your YouTube Channel with High-Impact Showcase Techniques for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-embrace-the-world-of-video-design-in-xp/"><u>[Updated] In 2024, Embrace the World of Video Design in XP</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-pinnacle-of-video-quality-the-best-5-low-speed-recorders/"><u>2024 Approved Pinnacle of Video Quality The Best 5 Low-Speed Recorders</u></a></li>
+<li><a href="https://article-helps.techidaily.com/a-step-by-step-journey-clearing-images-with-picsart/"><u>A Step-By-Step Journey Clearing Images with Picsart</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-vivo-y27s-phone-without-any-data-loss-by-drfone-android/"><u>How to Unlock Vivo Y27s Phone without Any Data Loss</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/in-2024-high-fidelity-mp4-streamer-to-facebook/"><u>In 2024, High-Fidelity MP4 Streamer to Facebook</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/picture-perfection-at-a-click-endless-free-space-plus-charged-cloud-haven/"><u>Picture Perfection at a Click Endless Free Space + Charged Cloud Haven</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/unbeatable-price-drop-on-asus-notebook-at-just-99-exclusive-flash-deal-from-best-buy/"><u>Unbeatable Price Drop on ASUS Notebook at Just $99 - Exclusive Flash Deal From Best Buy</u></a></li>
 </ul></div>
 
