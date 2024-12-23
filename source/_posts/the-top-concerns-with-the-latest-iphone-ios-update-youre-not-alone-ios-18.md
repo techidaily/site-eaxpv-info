@@ -1,7 +1,7 @@
 ---
 title: The Top Concerns with the Latest iPhone iOS Update – You’re Not Alone (iOS 18)
-date: 2024-12-11T22:28:41.009Z
-updated: 2024-12-13T21:24:51.285Z
+date: 2024-12-18T01:54:18.265Z
+updated: 2024-12-23T00:33:05.856Z
 tags:
   - apple
 categories:
@@ -60,7 +60,7 @@ Aside from the inferior Photos app navigation, videos in the Photos app no longe
 "The UX is a huge downgrade. It's so bad that I had to submit feedback to Apple via the feedback app in the beta. Never did one of those when it wasn't a technical bug, just pure user experience frustration," another [Redditor said](https://www.reddit.com/r/apple/comments/1e2jtq5/comment/ld1wsjg/?utm%5Fsource=share&utm%5Fmedium=web3x&utm%5Fname=web3xcss&utm%5Fterm=1&utm%5Fcontent=share%5Fbutton).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to navigate the iOS 18 Photos app
@@ -109,18 +109,17 @@ I hope a future version of iOS 18 will bring back the Camera Roll or at least to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-growing-engagement-ethically-youtube-success-stories/"><u>[New] 2024 Approved Growing Engagement Ethically YouTube Success Stories</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/1716069189711-updated-2024-approved-top-offline-mobile-world-choose-the-ultimate-game-for-fun/"><u>[Updated] 2024 Approved Top Offline Mobile World - Choose the Ultimate Game for Fun!</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-foremost-frame-openers-identifying-the-most-effective-16-youtube-intros-for-2024/"><u>[Updated] Foremost Frame Openers Identifying the Most Effective 16 YouTube Intros for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-post-youtube-videos-as-instagram-stories-for-2024/"><u>[Updated] How to Post YouTube Videos as Instagram Stories for 2024</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-in-2024-expert-picks-optimal-vr-for-drone-pilots/"><u>[Updated] In 2024, Expert Picks Optimal VR for Drone Pilots</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-generating-an-auto-subscribe-link-for-youtube/"><u>[Updated] In 2024, Generating an Auto-Subscribe Link for YouTube</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-guide-for-social-media-savvy-content-sharers/"><u>[Updated] In 2024, Guide for Social Media Savvy Content Sharers</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/2024-approved-livestream-leaders-clash/"><u>2024 Approved LiveStream Leaders Clash</u></a></li>
-<li><a href="https://article-files.techidaily.com/2024-approved-microsoft-unveils-hololens-the-augmented-reality-evolution/"><u>2024 Approved Microsoft Unveils HoloLens The Augmented Reality Evolution</u></a></li>
-<li><a href="https://fake-location.techidaily.com/can-life360-track-or-see-text-messages-what-can-you-do-with-life360-on-vivo-y02t-drfone-by-drfone-virtual-android/"><u>Can Life360 Track Or See Text Messages? What Can You Do with Life360 On Vivo Y02T? | Dr.fone</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-10-fake-gps-location-apps-on-android-of-your-samsung-galaxy-f14-5g-drfone-by-drfone-virtual/"><u>In 2024, 10 Fake GPS Location Apps on Android Of your Samsung Galaxy F14 5G | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-remove-forgotten-pin-of-your-nokia-by-drfone-android/"><u>In 2024, How to Remove Forgotten PIN Of Your Nokia</u></a></li>
-<li><a href="https://video-capture.techidaily.com/secure-whole-page-scene-for-2024/"><u>Secure Whole-Page Scene for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-2024-approved-humor-harvesters-making-memes-without-a-price-tag/"><u>[New] 2024 Approved Humor Harvesters Making Memes Without a Price Tag</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-from-zero-to-hero-amplifying-youtube-influence-via-famebit-partnerships-for-2024/"><u>[New] From Zero to Hero Amplifying YouTube Influence via FameBit Partnerships for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-crafting-captivating-edu-vids-on-youtube-a-step-by-step-guide/"><u>[New] In 2024, Crafting Captivating Edu-Vids on YouTube A Step-by-Step Guide</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-uncovering-youtube-dialogues/"><u>[New] Uncovering YouTube Dialogues</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-strategies-for-capturing-every-detail-in-your-vr-games/"><u>[Updated] 2024 Approved Strategies for Capturing Every Detail in Your VR Games</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-in-2024-ideal-photo-and-video-shows-on-latest-iphone-models-xr-ios12/"><u>[Updated] In 2024, Ideal Photo & Video Shows on Latest iPhone Models (XR-iOS12)</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-irecorder-testing-a-comprehensive-review/"><u>[Updated] In 2024, IRecorder Testing A Comprehensive Review</u></a></li>
+<li><a href="https://os-tips.techidaily.com/how-to-respond-when-an-unattended-apple-airtag-is-tracking-alongside-you-whats-next/"><u>How to Respond When an Unattended Apple AirTag Is Tracking Alongside You – What's Next?</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/mastering-the-art-of-srt-files-an-all-inclusive-guide-to-subtitles/"><u>Mastering the Art of SRT Files An All-Inclusive Guide to Subtitles</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solution-found-eliminating-frequent-disruptions-in-beat-saber-gameplay/"><u>Solution Found: Eliminating Frequent Disruptions in Beat Saber Gameplay</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/the-ultimate-guide-to-channel-evolution-via-studio-for-2024/"><u>The Ultimate Guide to Channel Evolution via Studio for 2024</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/unveiling-the-hisense-50h8f-premium-picture-quality-in-an-economic-package/"><u>Unveiling the Hisense 50H8F: Premium Picture Quality in an Economic Package</u></a></li>
 </ul></div>
 

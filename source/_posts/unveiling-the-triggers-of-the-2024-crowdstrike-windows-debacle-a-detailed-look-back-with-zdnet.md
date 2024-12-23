@@ -1,7 +1,7 @@
 ---
 title: "Unveiling the Triggers of the 2024 CrowdStrike-Windows Debacle: A Detailed Look Back with ZDNET"
-date: 2024-12-10T23:57:57.993Z
-updated: 2024-12-13T18:50:11.949Z
+date: 2024-12-20T01:05:19.161Z
+updated: 2024-12-23T00:55:41.548Z
 tags:
   - apple
 categories:
@@ -33,7 +33,7 @@ In this case, the trusted software developer is a firm called CrowdStrike Holdin
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What happened?
@@ -55,7 +55,7 @@ Repairing the damage from a flaw like this is a painfully tedious process that r
 If you know anyone whose job involves administering Windows PCs in a corporate network that uses the CrowdStrike code, you can be confident they are very busy right now, and will be for days to come.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## We've seen this movie before
@@ -95,7 +95,7 @@ In the You Can't Make This Up Department… CrowdStrike's founder and CEO, Georg
 What makes the 2024 sequel so much worse is that it also affected Windows-based servers running in the cloud, on Microsoft Azure and on AWS. Just as with the many laptops and desktop PCs that were bricked by this faulty update, the cloud-based servers require time-consuming manual interventions to recover.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## CrowdStrike's QA failed
@@ -125,7 +125,7 @@ As part of its initial response, CrowdStrike says it plans to take additional me
 Meanwhile, the United States House of Representatives Homeland Security Committee plans to call CrowdStrike's CEO up for hearings on what went wrong, and CrowdStrike's Chief Security Officer, Shawn Henry, [posted an apology on LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7220983915421806592/), admitting "On Friday, we failed you. ... The confidence we built in drips over the years was lost in buckets within hours, and it was a gut punch."
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How much fault should Microsoft shoulder?
@@ -176,24 +176,17 @@ Nonetheless, this incident, which caused many billions of dollars' worth of dama
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-find-the-perfect-free-video-editor-app-for-iphones-and-ipads/"><u>[New] 2024 Approved Find the Perfect Free Video Editor App for iPhones & iPads</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-growth-by-numbers-tapping-into-youtube-analytics-power/"><u>[New] 2024 Approved Growth by Numbers Tapping Into YouTube Analytics Power</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-guide-eradicating-pending-videos-on-your-youtube-queue/"><u>[New] 2024 Approved Guide Eradicating Pending Videos on Your YouTube Queue</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-search-patterns-to-screenplay-crafting-videos-from-google-data/"><u>[New] In 2024, From Search Patterns to Screenplay Crafting Videos From Google Data</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-make-a-cool-intro-for-youtube-plusfree-templates/"><u>[New] In 2024, How to Make a Cool Intro for YouTube? [+Free Templates]</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-fraudulent-fronts-navigating-the-minefield-of-fake-youtube-viewers/"><u>[Updated] 2024 Approved Fraudulent Fronts Navigating the Minefield of Fake YouTube Viewers</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-flickering-camera-lights-to-financial-highlights/"><u>[Updated] 2024 Approved From Flickering Camera Lights to Financial Highlights</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-perfect-playlist-placement-techniques-for-youtube/"><u>[Updated] 2024 Approved Perfect Playlist Placement Techniques for YouTube</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-find-your-perfect-match-top-8-mirrorless-cameras-for-live-streams/"><u>[Updated] In 2024, Find Your Perfect Match Top 8 Mirrorless Cameras For Live Streams</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-fresh-vlog-discussion-ideas-each-day/"><u>[Updated] In 2024, Fresh Vlog Discussion Ideas Each Day</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-youtube-mastery-tips-for-producing-cutting-edge-videos/"><u>[Updated] YouTube Mastery Tips for Producing Cutting-Edge Videos</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/2024-approved-beatmatching-your-vids-syncing-music-seamlessly-on-facebook/"><u>2024 Approved Beatmatching Your Vids Syncing Music Seamlessly on Facebook</u></a></li>
-<li><a href="https://fox-making.techidaily.com/windows-11windowsold/"><u>摆脱Windows 11中的'Windows.old'文件夹：三种删除方法</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/best-free-public-domain-pubg-screen-shots-for-2024/"><u>Best Free Public Domain PUBG Screen Shots for 2024</u></a></li>
-<li><a href="https://location-social.techidaily.com/change-location-on-yik-yak-for-your-poco-x5-pro-to-enjoy-more-fun-drfone-by-drfone-virtual-android/"><u>Change Location on Yik Yak For your Poco X5 Pro to Enjoy More Fun | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-stream-anything-from-vivo-t2-5g-to-apple-tv-drfone-by-drfone-android/"><u>How To Stream Anything From Vivo T2 5G to Apple TV | Dr.fone</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/introducing-loongson-powered-dtx-boards-and-pcs-in-the-us-market-for-only-373-begin-your-high-performance-journey-today/"><u>Introducing Loongson Powered DTX Boards and PCs in the US Market for Only $373, Begin Your High-Performance Journey Today!</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/top-strategies-for-converting-aax-audio-files-to-mp3-format-on-macos-this-year/"><u>Top Strategies for Converting AAX Audio Files to MP3 Format on macOS This Year</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/unveiling-the-full-potential-of-powerdirector-24/"><u>Unveiling the Full Potential of PowerDirector '24</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-from-the-ground-up-building-a-new-dynamic-youtube-chanel/"><u>[Updated] 2024 Approved From the Ground Up Building a New, Dynamic YouTube Chanel</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-graph-gems-2017s-statistical-youtube-surprises/"><u>[Updated] Graph Gems 2017'S Statistical YouTube Surprises</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-easy-audio-extraction-methods-from-online-videos/"><u>[Updated] In 2024, Easy Audio Extraction Methods From Online Videos</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-maximizing-channel-visibility-banner-size-and-art-dimensions-explained/"><u>[Updated] Maximizing Channel Visibility Banner Size and Art Dimensions Explained</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-easy-ways-to-copy-contacts-from-itel-a60s-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Easy Ways to Copy Contacts from Itel A60s to iPhone 14 and 15 | Dr.fone</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/behind-the-scenes-10-movies-that-rely-on-final-cut-pro-for-editing-for-2024/"><u>Behind the Scenes 10 Movies That Rely on Final Cut Pro for Editing for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/dying-light-performance-optimized-overcoming-common-fps-issues/"><u>Dying Light Performance Optimized: Overcoming Common FPS Issues</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-exclusive-choices-to-replace-traditional-fbx-recorder-games/"><u>In 2024, Exclusive Choices to Replace Traditional FBX Recorder Games</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-vivo-x100-phone-frp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your Vivo X100 Phone FRP Lock</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/list-of-ipad-devices-with-integrated-gps-technology/"><u>List of iPad Devices with Integrated GPS Technology</u></a></li>
+<li><a href="https://discover-great.techidaily.com/mastering-power-management-with-yl-software-step-by-step-setup-instructions/"><u>Mastering Power Management with YL Software: Step-by-Step Setup Instructions</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/your-step-by-step-guide-to-building-a-profitable-channel-for-2024/"><u>Your Step-by-Step Guide to Building a Profitable Channel for 2024</u></a></li>
 </ul></div>
 

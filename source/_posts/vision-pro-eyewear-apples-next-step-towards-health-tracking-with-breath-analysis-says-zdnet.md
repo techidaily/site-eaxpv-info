@@ -1,7 +1,7 @@
 ---
 title: "Vision Pro Eyewear: Apple's Next Step Towards Health Tracking with Breath Analysis, Says ZDNet"
-date: 2024-12-11T18:59:42.256Z
-updated: 2024-12-13T16:54:23.289Z
+date: 2024-12-17T22:38:25.490Z
+updated: 2024-12-23T02:46:38.512Z
 tags:
   - apple
 categories:
@@ -31,10 +31,6 @@ To continue this conversation, I'm going to ask you to hold two competing though
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  How could Meta possibly beat Apple?
 
 Good, better, best. What does this mean? How can a $500 device from Meta (Facebook, believe it or not) beat Apple's offering?
@@ -60,7 +56,7 @@ During this time, the company focused on providing viable mixed reality and VR e
 Essentially, Meta's focus has been on finding the sweet spot for AR and VR devices using current technology and baking that into its products. In the Quest 3, it has introduced a truly great device at a reasonably affordable price.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  That old Apple magic
@@ -90,6 +86,10 @@ Bloomberg's Gurman believes Apple is more willing to kill products now than it h
 
 His inference is that it's possible Apple will lose patience with the slow progress of the Vision Pro and kill it off, although he says his sources claim the company is more focused on introducing a cost-cut Vision device that off-loads the processing to a tethered iPhone or Mac. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Think different?
 
 For Apple to be able to move forward with the Vision Pro, it must answer one simple question: Why should I buy this thing? 
@@ -110,10 +110,6 @@ The virtual Mac screen the Vision Pro now offers doesn't add much. But being abl
 
 There are always reasons for delays. It's certainly possible the company hit technical hurdles. But perhaps it could have moved resources over from circus sideshow projects like converting 2D photos into 3D photos -- a feature _no one_ will use as a justification to buy a Vision Pro -- into something that could and will provide real, tangible value and even a justification for the high purchase price. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  A Vision for the rest of us
 
 Right now, the Quest 3 is the [spatial computing](https://www.zdnet.com/article/what-is-spatial-computing-and-how-does-it-work/) headset for the rest of us. While head-mounted displays are still a challenging sell, the Quest 3 offers enough compelling value ([especially as a theatre-sized Netflix player](https://www.zdnet.com/article/netflix-is-now-meta-quest-3s-killer-app-thanks-to-these-two-new-modes/)) to make it the mainstream, easy-to-adopt solution. 
@@ -129,7 +125,7 @@ In other words, for the Vision to be successful, it has to stop fooling around a
 So what, beyond shipping useful software like the ultra-wide Mac display, needs to factor into that probably elusive Apple mindset change? Three things. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Give the Vision a controller
@@ -143,7 +139,7 @@ The eye tracking and hand gestures interface that are the primary means of opera
 You can see this in action with the [Puzzling Places game](https://www.meta.com/experiences/3931148300302917/). On the Quest 3, the game provides a much richer interface than on the Vision Pro. That's because it's much easier to navigate objects in the 3D space using the Quest controllers. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Stay away from cable tethering
@@ -177,6 +173,10 @@ Think about that. If the Quest 3 is sold for $500, retailers like Amazon are lik
 **Also: [Who's afraid of VR? I was - until I tried Meta Quest 3](https://www.zdnet.com/article/whos-afraid-of-vr-i-was-until-i-tried-meta-quest-3/)**
 
 Apple, by contrast, is making a fairly predictable margin on the Vision Pro, which is why the price is so high by comparison. Apple does have some cost-cutting options (display, chips, assembly, structure, and lenses), but if Facebook is competing at a loss, that puts Apple into the uncomfortable position of also taking a per-unit COGS loss or pricing well higher than the current market leader. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Looking towards the future
 
@@ -227,22 +227,24 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-finding-the-perfect-phrases-for-gamers-videos/"><u>[New] 2024 Approved Finding the Perfect Phrases for Gamers' Videos</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-discover-popular-tiktok-background-images/"><u>[New] Discover Popular TikTok Background Images</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-from-selfie-snaps-to-skincare-specials-establishing-your-youtube-brand-for-2024/"><u>[New] From Selfie Snaps to Skincare Specials Establishing Your YouTube Brand for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-harnessing-online-platforms-beyond-youtube-to-30plus-communities-for-2024/"><u>[New] Harnessing Online Platforms Beyond YouTube to 30+ Communities for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-first-steps-in-youtube-tech-a-comprehensive-list/"><u>[New] In 2024, First Steps in YouTube Tech A Comprehensive List</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-garner-over-a-thousand-viewers-swiftly/"><u>[New] In 2024, Garner Over a Thousand Viewers Swiftly</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-flashflicker-artist/"><u>[Updated] 2024 Approved FlashFlicker Artist</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-free-end-credits-maker-the-1-video-closers-guide/"><u>[Updated] 2024 Approved Free End Credits Maker - The #1 Video Closers Guide</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-retain-video-engagement-sustained-use-of-youtubes-cc-license/"><u>[Updated] In 2024, How to Retain Video Engagement Sustained Use of YouTube's CC License</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-unlock-the-power-of-product-placements-a-comprehensive-guide-for-youtubers/"><u>[Updated] Unlock the Power of Product Placements A Comprehensive Guide for YouTubers</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/book-lovers-rejoice-the-incredible-features-of-the-2018-amazon-kindle-paperwhite-unveiled-in-review/"><u>Book Lovers Rejoice: The Incredible Features of the 2018 Amazon Kindle Paperwhite Unveiled in Review</u></a></li>
-<li><a href="https://fake-location.techidaily.com/complete-tutorial-to-use-gps-joystick-to-fake-gps-location-on-oneplus-open-drfone-by-drfone-virtual-android/"><u>Complete Tutorial to Use GPS Joystick to Fake GPS Location On OnePlus Open | Dr.fone</u></a></li>
-<li><a href="https://android-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-motorola-moto-e13withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Motorola Moto E13with/without a PC</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/ice-warriors-unleashed-at-2022-games/"><u>Ice Warriors Unleashed at 2022 Games</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/in-2024-ace-gaming-the-top-4k-tvs-on-market/"><u>In 2024, Ace Gaming The Top 4K TVs on Market</u></a></li>
-<li><a href="https://facebook.techidaily.com/maximizing-impact-on-social-networks/"><u>Maximizing Impact on Social Networks</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/unlock-professional-video-quality-with-obs-studios-lut-functionalities-for-2024/"><u>Unlock Professional Video Quality with OBS Studio's LUT Functionalities for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-blurring-the-line-secure-video-content-with-smoother-images/"><u>[New] 2024 Approved Blurring the Line Secure Video Content with Smoother Images</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-achieve-the-perfect-look-youtubes-guide-to-video-aspect-ratios-for-2024/"><u>[New] Achieve the Perfect Look YouTube's Guide to Video Aspect Ratios for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-captivating-audiences-on-a-shoestring-budget-youtube-shorts-success-tips-for-2024/"><u>[New] Captivating Audiences on a Shoestring Budget – YouTube Shorts Success Tips for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-a-20-second-symphony-understanding-musics-compact-formats-for-2024/"><u>[Updated] A 20-Second Symphony Understanding Music's Compact Formats for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-ideal-10-virtual-photo-backdrop-modifiers/"><u>[Updated] Ideal 10 Virtual Photo Backdrop Modifiers</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-achieve-unprecedented-image-quality-via-av1-on-youtube/"><u>[Updated] In 2024, Achieve Unprecedented Image Quality via AV1 on YouTube</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-pioneer-the-future-of-youtube-content-with-tubebuddy/"><u>[Updated] Pioneer the Future of YouTube Content with TubeBuddy</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-the-ultimate-streaming-showdown-fb-live-yt-live-tweetspaces/"><u>[Updated] The Ultimate Streaming Showdown FB Live, YT Live, TweetSpaces</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/achieve-professional-grade-aesthetics-top-10-insta-grid-makers-for-2024/"><u>Achieve Professional-Grade Aesthetics Top 10 Insta Grid Makers for 2024</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/breaking-down-barriers-with-shared-youtube-curations-for-2024/"><u>Breaking Down Barriers with Shared YouTube Curations for 2024</u></a></li>
+<li><a href="https://techidaily.com/complete-tutorial-for-infinix-gt-10-pro-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Complete Tutorial for Infinix GT 10 Pro Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-and-installation-guide-brother-mfc-7860dw-printer-driver-on-windows/"><u>Download & Installation Guide: Brother MFC-7860DW Printer Driver on Windows</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-google-frp-lock-from-realme-11-pro-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock from Realme 11 Pro Devices</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-honor-magic-v2-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Honor Magic V2 Phones with/without a PC</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/perfect-pair-merging-your-youtube-video-library-for-2024/"><u>Perfect Pair Merging Your YouTube Video Library for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/streaming-star-status-buttons-and-growth-accolades-for-2024/"><u>Streaming Star Status - Buttons & Growth Accolades for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-performance-in-depth-insights-on-the-asus-rog-swift-oled-pg32ucdp/"><u>Unveiling the Performance: In-Depth Insights on the Asus ROG Swift OLED PG32UCDP</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/what-is-the-best-pokemon-for-pokemon-pvp-ranking-on-apple-iphone-se-drfone-by-drfone-virtual-ios/"><u>What is the best Pokemon for pokemon pvp ranking On Apple iPhone SE? | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/what-pokemon-evolve-with-a-dawn-stone-for-honor-magic-5-drfone-by-drfone-virtual-android/"><u>What Pokémon Evolve with A Dawn Stone For Honor Magic 5? | Dr.fone</u></a></li>
 </ul></div>
 

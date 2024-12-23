@@ -1,7 +1,7 @@
 ---
 title: "Mastering the Convenience of Apple Pay: Tips for Using It In-Store and On-the-Go – A Comprehensive Guide by ZDNet"
-date: 2024-12-11T20:54:28.217Z
-updated: 2024-12-13T23:11:09.083Z
+date: 2024-12-21T20:05:24.691Z
+updated: 2024-12-23T01:04:58.398Z
 tags:
   - apple
 categories:
@@ -37,7 +37,7 @@ Apple was expected to focus on incorporating AI into its apps to simplify users'
 Apple Intelligence focuses on broad-appeal AI features rather than advanced image and video generation. To do this, the company developed in-house AI models and partnered with OpenAI to power a chatbot that will integrate [ChatGPT](https://www.zdnet.com/article/what-is-chatgpt-and-why-does-it-matter-heres-everything-you-need-to-know/) into iOS, iPadOS, and MacOS.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What does Apple Intelligence do?
@@ -60,7 +60,7 @@ Aside from these AI features, iOS 18 will include new customizable icons and int
 **Also: [Forget LastPass: Apple unveils 'Passwords' manager app at WWDC 2024](https://www.zdnet.com/article/forget-lastpass-apple-unveils-passwords-manager-app-at-wwdc-2024/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Is Siri getting an Apple Intelligence makeover?
@@ -80,7 +80,7 @@ The voice assistant will also be able to perform hundreds of new actions across 
 Apple is also upgrading Siri to understand text, allowing users to type or speak to Siri as needed. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What's new in Apple's photo editing & search?
@@ -120,7 +120,7 @@ In the Notes app, for example, a new tool called Image Wand will let you circle 
 Image Playground will be available in beta this fall, and some features will be released over the next year.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Is ChatGPT coming to iPhone, iPad, and Mac?
@@ -134,10 +134,6 @@ When users make a Siri request that the voice assistant determines would be bett
 **Also: [Apple finally gave us the iPad app we've waited 14 years for at WWDC 2024](https://www.zdnet.com/article/apple-finally-gave-us-the-ipad-app-weve-waited-14-years-for-at-wwdc-2024/)**
 
 Apple says its ChatGPT integration has privacy protections in place, with obscured IP addresses and no request storage by OpenAI. ChatGPT on iPhone, iPad, and Mac will be free to use, provided the device is compatible with the latest operating system. [Paying ChatGPT users](https://www.zdnet.com/article/chatgpt-vs-chatgpt-plus-is-a-paid-subscription-still-worth-it/) will get access to additional Plus features.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Will Apple Intelligence be processed on-device or in the cloud?
 
@@ -169,6 +165,10 @@ The company is striving to keep the AI features secure through several mechanism
 * **Independent code review:** With Private Cloud Compute, Apple explained that the code is available for independent experts to inspect and verify it meets privacy standards.
 * **Data encryption:** Apple encrypts all data sent to and from its servers as another layer of security.
 * **Ability to opt out:** Perhaps most importantly, users can opt-in for Apple Intelligence features, which will be introduced as beta versions as Apple works to improve its AI capabilities over time.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What are the technical requirements for Apple Intelligence?
 
@@ -210,24 +210,20 @@ While these AI features may help drive sales of new iPhones and Macs, as a curre
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-preserve-your-favorite-tracks-from-youtube-safely-and-for-free/"><u>[New] 2024 Approved How to Preserve Your Favorite Tracks From YouTube Safely & for Free</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-get-free-green-screen-effects-from-4-youtube-channels-for-2024/"><u>[New] Get Free Green Screen Effects From 4 YouTube Channels for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-get-noticed-on-youtube-the-ultimate-list-of-freefire-tag-tips-for-2024/"><u>[New] Get Noticed on YouTube The Ultimate List of FreeFire Tag Tips for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-how-to-safeguard-your-videos-in-the-age-of-youtube-for-2024/"><u>[New] How to Safeguard Your Videos in the Age of YouTube for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-finding-prominent-comment-spotlights/"><u>[New] In 2024, Finding Prominent Comment Spotlights</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-raw-to-refined-mastering-the-art-of-pc-video-editing-on-windows/"><u>[New] In 2024, From Raw to Refined Mastering the Art of PC Video Editing on Windows</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-live-stream-to-youtube-with-wirecast/"><u>[New] In 2024, How to Live Stream to Youtube with Wirecast?</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-free-to-profitable-unlocking-youtubes-monetization-at-500plus/"><u>[Updated] 2024 Approved From Free to Profitable Unlocking YouTube's Monetization at 500+</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-turning-your-youtube-views-into-a-screen-capture-made-simple-and-free/"><u>[Updated] 2024 Approved Turning Your YouTube Views Into a Screen Capture Made Simple and Free</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-game-masters-and-youtube-earning-strategies/"><u>[Updated] In 2024, Game Masters & YouTube Earning Strategies</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-in-2024-haptic-feedback-in-e-commerce-trials/"><u>[Updated] In 2024, Haptic Feedback in E-Commerce Trials</u></a></li>
-<li><a href="https://howto.techidaily.com/bricked-your-itel-a60-heres-a-full-solution-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Bricked Your Itel A60? Heres A Full Solution | Dr.fone</u></a></li>
-<li><a href="https://dvd-bd.techidaily.com/in-depth-analysis-dvd-empire-and-comparable-online-dvd-retailers/"><u>In-Depth Analysis: DVD Empire & Comparable Online DVD Retailers</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-edit-like-a-pro-top-android-video-editor-apps-for-chromebook/"><u>New Edit Like a Pro Top Android Video Editor Apps for Chromebook</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/next-gen-smartphone-alert-the-anticipated-samsung-galaxy-z-fold-n7-with-expected-launch-date-pricing-and-rumored-features/"><u>Next-Gen Smartphone Alert: The Anticipated Samsung Galaxy Z Fold N°7 with Expected Launch Date, Pricing & Rumored Features</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/step-by-step-guide-setting-up-your-oculus-questquest-n-account/"><u>Step-by-Step Guide: Setting Up Your Oculus Quest/Quest N Account</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/771947-9781780990842-the-good-remembering/"><u>The Good Remembering | Free Book</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/ultimate-troubleshooting-how-to-stop-windows-7-from-crashing-complete-manual/"><u>Ultimate Troubleshooting: How to Stop Windows 7 From Crashing (Complete Manual)</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/visual-excellence-debate-av1-vs-vp9-showcase/"><u>Visual Excellence Debate Av1 vs VP9 Showcase</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-illuminating-imagery-mastering-three-key-insta-hits/"><u>[Updated] 2024 Approved Illuminating Imagery Mastering Three Key Insta Hits</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-clip-curator-platform/"><u>[Updated] In 2024, Clip Curator Platform</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/1-seamless-youtube-integration-transform-your-vlc-experience-with-our-top-video-converter/"><u>1. Seamless YouTube Integration: Transform Your VLC Experience with Our Top Video Converter</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-pick-of-the-crop-dji-action-vs-gopro-360-and-instax360/"><u>2024 Approved Pick of the Crop DJi Action Vs. GoPro 360 and InstaX360</u></a></li>
+<li><a href="https://win-web.techidaily.com/boost-your-parties-with-a-premium-karaoke-selection-over-60-tracks-added-to-party-tyme-for-subscribers/"><u>Boost Your Parties with a Premium Karaoke Selection! Over 60 Tracks Added to Party Tyme for Subscribers.</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/discover-the-best-free-tools-for-converting-youtube-videos-into-high-quality-mp4-files/"><u>Discover the Best Free Tools for Converting YouTube Videos Into High-Quality MP4 Files</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/eine-geschutzte-oder-nicht-geschutzte-dvd-fur-einen-mac-kopieren-anleitung-zur-beibehaltung-der-originalqualitat/"><u>Eine Geschützte Oder Nicht Geschützte DVD Für Einen Mac Kopieren - Anleitung Zur Beibehaltung Der Originalqualität</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/how-to-transform-high-definition-footage-from-h264-to-h265-maximize-space-maintain-superior-quality/"><u>How to Transform High-Definition Footage From H.264 To H.265 - Maximize Space, Maintain Superior Quality</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-easy-guide-to-oppo-a18-frp-bypass-with-best-methods-by-drfone-android/"><u>In 2024, Easy Guide to Oppo A18 FRP Bypass With Best Methods</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-what-is-fake-gps-location-pro-and-is-it-good-on-realme-11-pro-drfone-by-drfone-virtual-android/"><u>In 2024, What is Fake GPS Location Pro and Is It Good On Realme 11 Pro? | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/nintendo-switch-starter-pack-essentials-understanding-included-items-and-accessories/"><u>Nintendo Switch Starter Pack Essentials: Understanding Included Items & Accessories</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/the-ultimate-guide-to-oppo-a79-5g-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/"><u>The Ultimate Guide to Oppo A79 5G Pattern Lock Screen Everything You Need to Know</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/troubleshooting-resolving-missing-movie-titles-in-handbrake-interface/"><u>Troubleshooting: Resolving Missing Movie Titles in Handbrake Interface</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/ultimate-guide-top-17-youtube-video-audio-extraction-apps-for-perfect-mp3-conversion/"><u>Ultimate Guide: Top 17 YouTube Video Audio Extraction Apps for Perfect MP3 Conversion</u></a></li>
+<li><a href="https://fox-where.techidaily.com/understanding-incompatibility-issues-with-scanners-tips-from-yl-computing/"><u>Understanding Incompatibility Issues with Scanners - Tips From YL Computing</u></a></li>
 </ul></div>
 

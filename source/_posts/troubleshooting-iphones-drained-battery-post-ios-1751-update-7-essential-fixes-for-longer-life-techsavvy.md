@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting iPhone's Drained Battery Post-iOS 17.5.1 Update: 7 Essential Fixes for Longer Life | TechSavvy"
-date: 2024-12-09T20:37:30.656Z
-updated: 2024-12-13T22:46:07.016Z
+date: 2024-12-22T00:35:40.174Z
+updated: 2024-12-22T21:57:33.011Z
 tags:
   - apple
 categories:
@@ -31,7 +31,7 @@ If you want to follow along, you'll need to install the iOS 18 public beta on an
 ## How to customize your iPhone's new Control Center with iOS 18
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Access Control Center
@@ -39,6 +39,10 @@ If you want to follow along, you'll need to install the iOS 18 public beta on an
 To display Control Center, swipe down from the top-right corner of the screen. You'll notice that Control Center is now separated into three different screens. The first screen displays the core controls, the second screen shows the audio player and related settings, and the third has connectivity options. Swipe up or down to move from one screen to another, or tap one of the three icons on the right to jump to a specific one.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Move the available controls
 
@@ -48,6 +52,10 @@ Screenshot by Lance Whitney/ZDNET
 
 **Also: [Every iPhone model that can be updated to Apple's iOS 18 (and which ones can't)](https://www.zdnet.com/article/every-iphone-model-that-can-be-updated-to-apples-ios-18-and-which-ones-cant/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Resize a control
 
 After tapping the plus icon, some controls sport a gray curved handle in the lower-right corner. This means you can resize the control's icon. Drag the handle and move it up, down, or diagonally. Release it when the icon is the size you wish.
@@ -55,7 +63,7 @@ After tapping the plus icon, some controls sport a gray curved handle in the low
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Delete a control
@@ -65,7 +73,7 @@ Next, you can directly delete a control you don't need or want. With the icons i
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Add a control to an existing screen
@@ -76,19 +84,11 @@ Screenshot by Lance Whitney/ZDNET
 
 **Also: [I did not expect this iOS 18 feature announced at WWDC to be my favorite (and it's not AI)](https://www.zdnet.com/article/i-did-not-expect-this-ios-18-feature-announced-at-wwdc-to-be-my-favorite-and-its-not-ai/)**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 6\. Add a control to a new screen
 
 If the current screens are already filled with icons, you can set up additional screens to hold more controls. Swipe down to the last screen, which shouldn't have any free space. Tap the plus icon and then tap "Add a Control." Again, browse or search for the control you wish to add. Tap that control, and it should appear in a new screen. You can continue adding more controls to the new screen this way. You can create as many as 15 screens, though you'll probably want to stop before you reach that number.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 7\. Power down from Control Center
 
@@ -126,22 +126,19 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-2024-approved-amplify-your-sounds-mac-studio-guide/"><u>[New] 2024 Approved Amplify Your Sounds Mac Studio Guide</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-gaming-for-everyone-accessible-channels/"><u>[New] 2024 Approved Gaming for Everyone Accessible Channels</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-activate-or-deactivate-video-commenting-in-youtube/"><u>[New] 2024 Approved How To Activate or Deactivate Video Commenting in YouTube</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-create-animated-bouncing-text/"><u>[New] 2024 Approved How to Create Animated Bouncing Text</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-expert-tips-for-photo-hdr-mastery-in-photoshop/"><u>[New] Expert Tips for Photo-HDR Mastery in Photoshop</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-mi-11s-screen-recording-elevate-your-digital-storytelling/"><u>[New] In 2024, Mi 11'S Screen Recording Elevate Your Digital Storytelling</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-flavor-forge-30-epicurean-titles-that-resonate/"><u>[Updated] 2024 Approved Flavor Forge 30 Epicurean Titles That Resonate</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-videos-to-vault-ajays-revenue-journey-on-youtube/"><u>[Updated] 2024 Approved From Videos to Vault AJay’s Revenue Journey on YouTube</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-guide-to-livecasting-google-meet-on-youtube/"><u>[Updated] 2024 Approved Guide to Livecasting Google Meet on YouTube</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-unlocking-youtubes-full-potential-advanced-banner-strategies/"><u>[Updated] 2024 Approved Unlocking YouTube's Full Potential Advanced Banner Strategies</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-free-fast-and-reliable-download-your-favorite-youtube-content-for-2024/"><u>[Updated] Free, Fast and Reliable Download Your Favorite YouTube Content for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-high-quality-freely-accessible-music-websites-listed-here/"><u>[Updated] In 2024, High-Quality, Freely Accessible Music Websites Listed Here</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-simplifying-the-complex-an-in-depth-review-of-vida-app/"><u>[Updated] Simplifying the Complex An In-Depth Review of Vida App</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/conversione-gratuita-dal-video-wmv-al-formato-flv-su-internet-scambia-video-convertitore-rapido-online-di-movavi/"><u>Conversione Gratuita Dal Video WMV Al Formato FLV Su Internet - Scambia Video Convertitore Rapido Online Di Movavi</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/1722898608787-efficient-steps-unfriending-more-than-one-person-on-snapchat/"><u>Efficient Steps: Unfriending More than One Person on Snapchat</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/razer-blade-stealth-laptop-unveiled-revolutionizing-ultrabooks-with-exceptional-performance/"><u>Razer Blade Stealth Laptop Unveiled: Revolutionizing Ultrabooks with Exceptional Performance</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/simplified-guide-to-connecting-zoom-and-gmail-services-for-2024/"><u>Simplified Guide to Connecting Zoom and Gmail Services for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/pex-chart-analyst-master-video-popularity/"><u>[New] Apex Chart Analyst Master Video Popularity</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-unlocking-every-participants-placement-in-google-meet/"><u>[Updated] 2024 Approved Unlocking Every Participant’s Placement in Google Meet</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/windowsmacios/"><u>穩固移動攝像機錄製的運行方法：Windows、Mac、安卓和iOS</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/apples-intriguing-gaming-update-unveiling-the-mysterious-new-game-mode/"><u>Apple's Intriguing Gaming Update: Unveiling the Mysterious New Game Mode</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/comprehensive-solutions-why-isnt-my-discord-push-to-talk-functioning-properly/"><u>Comprehensive Solutions: Why Isn't My Discord Push-to-Talk Functioning Properly?</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/crafting-irresistible-profile-videos/"><u>Crafting Irresistible Profile Videos</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/dive-into-gaming-tecno-x-geekoms-liquid-cooled-case-with-intel-core-i9-and-nvidia-rtx-gpu/"><u>Dive Into Gaming: Tecno X Geekom's Liquid-Cooled Case with Intel Core I9 & NVIDIA RTX GPU</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/entry-level-gamers-rejoice-discover-the-1629-asus-rog-nuc-with-powerful-core-ultra-cpu-and-rtx-gpu/"><u>Entry-Level Gamers Rejoice: Discover the $1,629 Asus ROG NUC with Powerful Core Ultra CPU and RTX GPU!</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/expert-review-how-the-eufy-t8200-video-doorbell-works-without-membership-costs/"><u>Expert Review: How the Eufy T8200 Video Doorbell Works Without Membership Costs</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-revive-your-bricked-honor-x50-in-minutes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Revive Your Bricked Honor X50 in Minutes | Dr.fone</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/24-the-ultimate-guide-to-swift-youtube-discussion-management/"><u>In 2024, The Ultimate Guide to Swift Youtube Discussion Management</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-unlocking-sims-4-memories-key-methods-to-document-gameplay-success/"><u>In 2024, Unlocking Sims 4 Memories Key Methods to Document Gameplay Success</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/quick-fix-solutions-resolving-issues-with-non-loading-minecraft-gameplay/"><u>Quick-Fix Solutions: Resolving Issues with Non-Loading Minecraft Gameplay</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/troubleshooting-guide-for-persistent-rocket-league-crashes-2024-edition/"><u>Troubleshooting Guide for Persistent Rocket League Crashes - 2024 Edition</u></a></li>
 </ul></div>
 

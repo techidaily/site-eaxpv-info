@@ -1,7 +1,7 @@
 ---
 title: Unlocking Apple's Stealthy Smart Radio Technology Within Macs and iPads
-date: 2024-12-08T19:07:42.175Z
-updated: 2024-12-14T00:28:52.302Z
+date: 2024-12-18T20:59:40.781Z
+updated: 2024-12-22T17:22:55.034Z
 tags:
   - apple
 categories:
@@ -27,6 +27,10 @@ When Apple launched the iPhone 15 lineup last fall, [it announced](https://www.a
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## iPads with a Thread radio:
 
@@ -62,10 +66,6 @@ Since the iPad and Mac run Apple's Home app, they could function as Thread borde
 
 The best way to determine if your device has a Thread radio built-in is to look for evidence of Thread testing in the device's [FCC reports](https://fcc.report/). 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Find your device's model number or FCC ID
 
 Most Apple devices, except iPhones, have this printed on the back. If you can't find this number on the device, go to Settings, General, select About**,** and look for the model number.
@@ -74,17 +74,21 @@ You can also look for your [iPad](https://support.apple.com/en-us/108043), [MacB
 
 **Also: [The M4 iPad Pro's true potential will be realized at WWDC, and AI will have a lot to do with it](https://www.zdnet.com/article/the-m4-ipad-pros-true-potential-will-be-realized-at-wwdc-and-ai-will-have-a-lot-to-do-with-it/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Access the Apple FCC database
 
 You can access the Apple FCC database by clicking [FCC.Report/company/Apple](https://fcc.report/company/apple). This will bring up a complete list of the company's FCC reports, from the first one in 1981 through today.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3\. Search for your device's model number or FCC ID
 
 Search for your device's model number or FCC ID by performing a quick **Find** using _Ctrl F_ or _cmd F_.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Click on the device's report
 
@@ -125,7 +129,7 @@ Thread creates a self-healing mesh network, so having more border routers in a s
 For example, if you have a Thread smart lock and temperature sensor and a Wi-Fi smart thermostat, a Thread border router like the HomePod mini connects the smart lock and sensor to the Wi-Fi network and enables communication between the sensor and thermostat. It also would allow you to control all three devices through a single app -- in this case, Apple Home -- even if you're not home.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Why would Apple give some iPads and Macs Thread radios and not all?
@@ -135,10 +139,6 @@ No Thread protocol information was found for the [11-inch M2 Wi-Fi iPad Air](htt
 **Also: [Google Home pro tip: How to use Gemini to broadcast messages between your Nest devices](https://www.zdnet.com/home-and-office/smart-home/google-home-pro-tip-how-to-use-gemini-to-broadcast-messages-between-your-nest-devices/)**
 
 While Apple hasn't explicitly confirmed this information, the company may have used tri-band radio chips in the iPads and Macs with Thread radios. These integrated circuits support three different frequency bands for wireless communication, combining Wi-Fi, Bluetooth, and Thread into a single chip to make it more energy-efficient and compact. The multi-protocol support helps future-proof devices by supporting emerging wireless protocols.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Will iPads and Macs be Thread border routers?
 
@@ -161,7 +161,7 @@ Giving newer iPads Thread support would bring back its smart home hub functional
 If users want to keep an older iPad as a smart home hub, it cannot have iOS 16 and will work only with basic HomeKit functionality, as new features and enhancements introduced after iOS 16 won't be supported.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Would Thread replace Bluetooth for Apple peripherals?
@@ -204,18 +204,22 @@ The Apple Watch primarily uses Bluetooth to connect to the iPhone, but when Blue
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-newcomer-to-pro-a-step-by-step-creator-hub-guidebook/"><u>[New] 2024 Approved From Newcomer to Pro A Step-by-Step Creator Hub Guidebook</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/new-detailed-guide-to-optimal-full-screen-displaying-for-2024/"><u>[New] Detailed Guide to Optimal Full Screen Displaying for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-instant-title-insertion-for-your-videos-on-windows-photos/"><u>[New] Instant Title Insertion for Your Videos on Windows Photos</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/new-snap-snip-and-compile-instantaneous-google-image-art-for-2024/"><u>[New] Snap, Snip & Compile Instantaneous Google Image Art for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-frame-by-frame-mastery-in-youtube-no-cost-required/"><u>[Updated] 2024 Approved Frame by Frame Mastery in YouTube - No Cost Required</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-zero-to-cool-video-star-your-mac-youtube-journey-starts-here/"><u>[Updated] In 2024, From Zero to Cool Video Star Your Mac Youtube Journey Starts Here</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-fullscreen-partnership-how-to-choose-an-mcn/"><u>[Updated] In 2024, Fullscreen Partnership How to Choose An MCN</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-high-definition-hardware-unveiled-by-gamers/"><u>[Updated] In 2024, High-Definition Hardware Unveiled by Gamers</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-income-accumulation-with-cosmetic-videos/"><u>[Updated] Income Accumulation with Cosmetic Videos</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/2024-approved-list-of-the-top-software-for-audio-speed-changing-mobile-and-desktop/"><u>2024 Approved List of the Top Software for Audio Speed Changing (Mobile and Desktop)</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-safe-no-cost-methods-for-youtube-tracks-extraction/"><u>2024 Approved Safe, No-Cost Methods for YouTube Tracks Extraction</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-sharefake-gps-on-uber-for-asus-rog-phone-7-drfone-by-drfone-virtual-android/"><u>In 2024, How to share/fake gps on Uber for Asus ROG Phone 7 | Dr.fone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-steps-for-non-responsive-g2000-mikrofone-auf-kotion/"><u>Troubleshooting Steps for Non-Responsive G2000 Mikrofone Auf Kotion</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-examining-the-financial-success-strategies-of-t-series-on-youtube/"><u>[New] 2024 Approved Examining the Financial Success Strategies of T-Series on YouTube</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-2024-approved-ideal-steadicams-for-capturing-quality-uav-visuals/"><u>[New] 2024 Approved Ideal Steadicams for Capturing Quality UAV Visuals</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-average-earnings-per-view-whats-the-income-for-youtubers-per-ad-playback/"><u>[New] In 2024, Average Earnings Per View What's the Income for YouTubers per Ad Playback?</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-engaging-audiences-triad-of-effective-storytelling/"><u>[New] In 2024, Engaging Audiences Triad of Effective Storytelling</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-revolutionize-your-teams-productivity-with-these-tools-for-2024/"><u>[New] Revolutionize Your Team's Productivity with These Tools for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-7-best-online-youtube-tag-extractors/"><u>[Updated] 2024 Approved 7 Best Online YouTube Tag Extractors</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-crafting-dynamic-youtube-content-as-animated-gifs-without-downloads/"><u>[Updated] 2024 Approved Crafting Dynamic YouTube Content as Animated GIFs Without Downloads</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-easy-to-use-zoom-camera-for-instant-sharing/"><u>[Updated] 2024 Approved Easy-to-Use Zoom Camera for Instant Sharing</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-first-steps-in-the-digital-dollar-youtube-earning-hacks/"><u>[Updated] 2024 Approved First Steps in the Digital Dollar - YouTube Earning Hacks</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-things-about-asmr-video-you-should-know/"><u>[Updated] 2024 Approved Things About ASMR Video You Should Know</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-efficiency-at-play-reducing-youtube-video-length/"><u>[Updated] In 2024, Efficiency at Play Reducing YouTube Video Length</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-personalizing-public-vs-private-settings-on-youtube/"><u>[Updated] Personalizing Public vs Private Settings on YouTube</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ace-your-academics-with-ease-best-multi-tasking-2-in-1-laptops-reviewed-by-zdnet/"><u>Ace Your Academics with Ease: Best Multi-Tasking 2-in-1 Laptops Reviewed by ZDNET</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-10-best-spy-watches-for-your-realme-gt-neo-5-se-drfone-by-drfone-virtual-android/"><u>In 2024, Top 10 Best Spy Watches For your Realme GT Neo 5 SE | Dr.fone</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/in-depth-analysis-of-the-samsung-galaxy-tab-s4-the-ultimate-portable-android-device/"><u>In-Depth Analysis of the Samsung Galaxy Tab S4 - The Ultimate Portable Android Device</u></a></li>
+<li><a href="https://win-bits.techidaily.com/revive-your-aging-pc-with-these-5-free-fixes-times-running-out-in-windows-10-zdnet/"><u>Revive Your Aging PC with These 5 FREE Fixes - Time's Running Out in Windows 10! | ZDNet</u></a></li>
+<li><a href="https://win-tips.techidaily.com/vmware-vcenter-revival-procedure-comprehensive-steps-for-system-reboot-using-previous-snapshots/"><u>VMware vCenter Revival Procedure: Comprehensive Steps for System Reboot Using Previous Snapshots</u></a></li>
 </ul></div>
 

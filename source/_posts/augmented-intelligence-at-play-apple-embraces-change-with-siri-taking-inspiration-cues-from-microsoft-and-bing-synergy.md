@@ -1,7 +1,7 @@
 ---
 title: "Augmented Intelligence at Play: Apple Embraces Change with Siri, Taking Inspiration Cues From Microsoft and Bing Synergy"
-date: 2024-12-12T20:54:01.334Z
-updated: 2024-12-13T23:21:01.259Z
+date: 2024-12-17T21:00:12.494Z
+updated: 2024-12-22T23:40:41.320Z
 tags:
   - apple
 categories:
@@ -45,7 +45,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Hey Siri, let's talk about Microsoft
@@ -77,7 +77,7 @@ Microsoft, on the other hand, is a strong brand -- one that's become both more i
 Meanwhile, Siri connotes the phrase "You cannot be Sirious." 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Hey Siri, say goodbye
@@ -126,22 +126,16 @@ This replacement should have a new name -- Cuper or Cooky anyone? -- that'll mak
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-conference-call-to-youtube-stream-how-to-broadcast-google-meet/"><u>[New] 2024 Approved From Conference Call to YouTube Stream - How To Broadcast Google Meet</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-harmonizing-your-music-a-youtube-playlist-journey/"><u>[New] 2024 Approved Harmonizing Your Music A YouTube Playlist Journey</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-captivate-audiences-and-gain-traction-with-youtube-shorts/"><u>[New] 2024 Approved How to Captivate Audiences and Gain Traction with YouTube Shorts</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-final-goodbye-to-youtubes-minis-a-step-by-step-process-for-2024/"><u>[New] Final Goodbye to YouTube's Minis A Step-by-Step Process for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-gain-free-photo-footage-via-essential-4-youtube-picks-for-2024/"><u>[New] Gain Free Photo Footage via Essential 4 YouTube Picks for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-free-youtube-extractors-a-comprehensible-guide-for-beginners/"><u>[New] In 2024, Free YouTube Extractors A Comprehensible Guide for Beginners</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-gear-up-essential-asmr-microphones-to-consider/"><u>[New] In 2024, Gear Up Essential ASMR Microphones to Consider</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/n-2024-ultimate-profit-prodigy-in-the-digital-age/"><u>[New] In 2024, Ultimate Profit Prodigy in the Digital Age</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-graph-gems-2017s-statistical-youtube-surprises/"><u>[Updated] 2024 Approved Graph Gems 2017'S Statistical YouTube Surprises</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-hacking-back-photo-viewing-in-windows-11-easily/"><u>[Updated] Hacking Back Photo Viewing in Windows 11 Easily</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/5-ways-to-reset-itel-p55plus-without-volume-buttons-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Reset Itel P55+ Without Volume Buttons | Dr.fone</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/assessing-the-merits-why-choose-apple-vision-pro/"><u>Assessing the Merits: Why Choose Apple Vision Pro</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-asus-rog-phone-7-to-laptop-without-usb-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Asus ROG Phone 7 to Laptop Without USB | Dr.fone</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/innovative-personalization-made-easy-the-cookiebot-advantage-for-seo-success/"><u>Innovative Personalization Made Easy: The Cookiebot Advantage for SEO Success</u></a></li>
-<li><a href="https://fox-access.techidaily.com/instant-best-picture-viewer-pro/"><u>Instant Best Picture Viewer Pro</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/speaking-and-listening-to-create-better-decks-for-2024/"><u>Speaking and Listening to Create Better Decks for 2024</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/transforming-srt-files-into-text-a-speedy-expertise-guide-for-2024/"><u>Transforming SRT Files Into Text A Speedy Expertise Guide for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-in-2024-2023s-leading-social-media-film-downloads-no-8/"><u>[New] In 2024, 2023'S Leading Social Media Film Downloads - No. 8</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-interactive-learning-landscapes-with-vr/"><u>[New] Interactive Learning Landscapes with VR</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-accelerate-artistic-edits-with-windows-11/"><u>[Updated] 2024 Approved Accelerate Artistic Edits with Windows 11</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-take-your-online-presence-to-new-heights-with-youtube-edits-in-sony-vegas/"><u>2024 Approved Take Your Online Presence to New Heights with YouTube Edits in Sony Vegas</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/5-most-effective-methods-to-unlock-iphone-se-in-lost-mode-by-drfone-ios/"><u>5 Most Effective Methods to Unlock iPhone SE in Lost Mode</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-videos-from-vivo-v27-pro-to-ipad-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Videos from Vivo V27 Pro to iPad | Dr.fone</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/macxdvd-honors-iphones-decade-of-innovation-with-special-anniversary-giveaway-contest/"><u>MacXDVD Honors iPhone's Decade of Innovation with Special Anniversary Giveaway Contest!</u></a></li>
+<li><a href="https://fake-location.techidaily.com/prevent-cross-site-tracking-on-vivo-y28-5g-and-browser-drfone-by-drfone-virtual-android/"><u>Prevent Cross-Site Tracking on Vivo Y28 5G and Browser | Dr.fone</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/solving-handbrake-errors-guide-on-fixing-no-valid-source-issues/"><u>Solving Handbrake Errors: Guide on Fixing 'No Valid Source' Issues</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/step-by-step-solution-resolving-apple-tv-youtubers-difficulties/"><u>Step-by-Step Solution: Resolving Apple TV YouTubers' Difficulties</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/ultimate-guide-high-quality-video-compression-techniques-for-fraps-footage-with-visual-examples/"><u>Ultimate Guide: High-Quality Video Compression Techniques for Fraps Footage with Visual Examples</u></a></li>
 </ul></div>
 

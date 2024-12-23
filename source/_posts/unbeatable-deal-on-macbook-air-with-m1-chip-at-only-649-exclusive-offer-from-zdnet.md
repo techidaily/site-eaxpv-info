@@ -1,7 +1,7 @@
 ---
 title: Unbeatable Deal on MacBook Air with M1 Chip at Only $649 - Exclusive Offer From ZDNet
-date: 2024-12-06T18:33:19.121Z
-updated: 2024-12-13T16:29:07.061Z
+date: 2024-12-20T02:49:19.669Z
+updated: 2024-12-22T16:48:07.109Z
 tags:
   - apple
 categories:
@@ -42,7 +42,7 @@ At $649, this is the lowest price for the M1 version of the MacBook Air that we'
 The [M1 MacBook Air](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fmacbook-air-13-3-laptop-apple-m1-chip-8gb-memory-256gb-ssd-space-gray-space-gray%2F5721600.p%3FskuId%3D5721600&publisher_slug=itechdaily19598&exclusive=1) first retailed for $999 when it was released, but Apple sells refurbished versions for $799, making these deals even better than anything Apple is offering. The [M1 MacBook Air](https://goto.walmart.com/c/5597632/565706/9383?sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FApple-MacBook-Air-13-3-inch-Laptop-Silver-M1-Chip-8GB-RAM-256GB-storage%2F609040889&subId1=zd-__COM_CLICK_ID__-dtp) is available in three different colors: gold, space gray, and silver. Snag these savings while you can. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -81,24 +81,20 @@ However, deals are subject to sell out or expire at any time, though ZDNET remai
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-8-fastest-growing-youtube-channel/"><u>[New] 2024 Approved 8 Fastest-Growing YouTube Channel</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-collect-premium-audio-for-video-editors/"><u>[New] In 2024, Collect Premium Audio for Video Editors</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-vlogs-to-viral-jake-pauls-online-empire-expansion/"><u>[New] In 2024, From Vlogs to Viral Jake Paul’s Online Empire Expansion</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-fostering-resilience-in-the-face-of-cyber-haters/"><u>[Updated] 2024 Approved Fostering Resilience in the Face of Cyber Haters</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-good-to-great-elevate-reactions-in-youtube-videos-with-these-3-strategies/"><u>[Updated] 2024 Approved From Good to Great Elevate Reactions in YouTube Videos with These 3 Strategies</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-transform-your-youtube-vids-a-guide-to-softened-screens/"><u>[Updated] 2024 Approved How to Transform Your Youtube Vids A Guide to Softened Screens</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-guide-to-modify-comment-accessibility-on-youtube-for-2024/"><u>[Updated] Guide to Modify Comment Accessibility on YouTube for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-watch-deleted-youtube-videos-online-in-2-ways-for-2024/"><u>[Updated] How to Watch Deleted YouTube Videos Online in 2 Ways for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-gamers-path-to-earnings-on-youtube/"><u>[Updated] In 2024, Gamer's Path to Earnings on YouTube</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-efficiently-delete-unwanted-video-feedback/"><u>[Updated] In 2024, How to Efficiently Delete Unwanted Video Feedback</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-ultimate-voice-changer-for-valorant-gamers-free-to-use/"><u>2024 Approved Ultimate Voice Changer for Valorant Gamers – Free to Use</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/comment-optimiser-le-nettoyage-du-disque-pour-economiser-de-lespace-vital-guide-complet-pour-la-maintenance-de-votre-pc/"><u>Comment Optimiser Le Nettoyage Du Disque Pour Économiser De L'espace Vital : Guide Complet Pour La Maintenance De Votre PC</u></a></li>
-<li><a href="https://article-files.techidaily.com/essential-directories-unencumbered-visuals-galore/"><u>Essential Directories Unencumbered Visuals Galore</u></a></li>
-<li><a href="https://win11.techidaily.com/fixing-zerodxgierordevicehung-in-win11-systems/"><u>Fixing ZeroDXGIErorDeviceHung in Win11 Systems</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/mastering-macoss-network-configurations-establishing-diverse-connection-points-for-greater-flexibility-the-digital-journalist/"><u>Mastering macOS's Network Configurations: Establishing Diverse Connection Points for Greater Flexibility | The Digital Journalist</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/passos-facilmente-compreensiveis-na-transformacao-de-video-no-vlc-para-mp4-melhores-dicas/"><u>Passos Facilmente Compreensíveis Na Transformação De Vídeo No VLC Para MP4 - Melhores Dicas</u></a></li>
-<li><a href="https://common-error.techidaily.com/solved-how-to-restore-audio-in-forza-horizon-4-enjoy-full-volume/"><u>Solved! How to Restore Audio in Forza Horizon 4 – Enjoy Full Volume</u></a></li>
-<li><a href="https://discover-awesome.techidaily.com/top-free-tools-for-easy-pdf-to-epub-conversion-improve-your-digital-reading-experience/"><u>Top Free Tools for Easy PDF to ePUB Conversion – Improve Your Digital Reading Experience!</u></a></li>
-<li><a href="https://games-able.techidaily.com/ultimate-connectors-ideal-for-ps5-devices/"><u>Ultimate Connectors: Ideal for PS5 Devices</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-discover-the-visionaries-behind-video-content-six-intriguing-youtube-categorization-challenges/"><u>[New] 2024 Approved Discover the Visionaries Behind Video Content Six Intriguing YouTube Categorization Challenges</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-go-frame-by-frame-on-youtube-video-5-methods/"><u>[New] 2024 Approved How to Go Frame by Frame on YouTube Video? [5 Methods]</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-affordable-subscriber-boost-buy-and-sell-youtube-views-for-2024/"><u>[New] Affordable Subscriber Boost Buy & Sell YouTube Views for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-discover-dynamic-channels-advanced-youtube-naming-guides/"><u>[New] In 2024, Discover Dynamic Channels Advanced YouTube Naming Guides</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-maximizing-income-mastering-short-video-markets/"><u>[New] Maximizing Income Mastering Short Video Markets</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-instagram-insights-boosting-your-follower-count/"><u>[Updated] 2024 Approved Instagram Insights Boosting Your Follower Count</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-find-your-perfect-vlog-title-best-free-name-generators-for-2024/"><u>[Updated] Find Your Perfect Vlog Title - Best Free Name Generators for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-the-producers-playbook-strategies-to-win-over-youtube-viewers/"><u>[Updated] The Producer's Playbook Strategies to Win Over YouTube Viewers</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/bypass-icloud-locks-on-your-iphoneipad-with-premium-crack-programs-expert-reviews-and-comparisons/"><u>Bypass iCloud Locks on Your iPhone/iPad with Premium Crack Programs - Expert Reviews & Comparisons</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/controlling-data-retention-how-not-to-let-chatgpt-save-interactions/"><u>Controlling Data Retention: How Not to Let ChatGPT Save Interactions</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/failed-to-play-mkv-movies-on-nova-y91-by-aiseesoft-video-converter-play-mkv-on-android/"><u>Failed to play MKV movies on Nova Y91</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-cant-take-screenshot-due-to-security-policy-on-motorola-edge-2023-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Cant Take Screenshot Due to Security Policy on Motorola Edge 2023 | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-old-messages-from-your-nokia-130-music-by-fonelab-android-recover-messages/"><u>How to recover old messages from your Nokia 130 Music</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/in-2024-whats-your-youtube-revenue-breakdown-per-branded-playlist/"><u>In 2024, What's Your Youtube Revenue Breakdown per Branded Playlist?</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/understanding-the-basics-of-bitcoins-lightning-network-a-comprehensive-guide/"><u>Understanding the Basics of Bitcoin's Lightning Network: A Comprehensive Guide</u></a></li>
 </ul></div>
 

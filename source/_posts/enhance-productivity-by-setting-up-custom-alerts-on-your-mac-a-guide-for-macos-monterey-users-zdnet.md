@@ -1,7 +1,7 @@
 ---
 title: Enhance Productivity by Setting Up Custom Alerts on Your Mac - A Guide for macOS Monterey Users | ZDNET
-date: 2024-12-10T00:06:09.330Z
-updated: 2024-12-13T17:21:57.268Z
+date: 2024-12-21T22:17:54.470Z
+updated: 2024-12-23T02:59:42.175Z
 tags:
   - apple
 categories:
@@ -27,21 +27,17 @@ So, how do you create this custom Flow? Let me show you. All you'll need to make
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Create a custom Focus
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 1\. Open System Preferences
 
 Click on the Apple menu in the top left corner of your desktop. From the resulting pop-up menu, click System Preferences.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 2\. Access Notifications & Focus
@@ -52,6 +48,10 @@ In the System Preferences window (**Figure 1**), click Notifications & Focus.
 
 Image: Jack Wallen
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 3\. Open the Focus tab
 
 Once Notifications & Focus is opened, click the Focus tab (**Figure 2**).
@@ -61,7 +61,7 @@ Once Notifications & Focus is opened, click the Focus tab (**Figure 2**).
 Image: Jack Wallen
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 4\. Create the new Focus
@@ -80,10 +80,6 @@ Image: Jack Wallen
 
 After naming and selecting a color/icon, click Add to save the new Focus.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 5\. Allowing specific notifications
 
 The next thing to do is to specific contacts or apps that will be allowed when this Focus is enabled. To do that, click + under Allowed Notifications From (**Figure 5**).
@@ -97,6 +93,10 @@ From the pop-up list, select the contact(s) you want to be allowed to interrupt 
 **Figure 6:** Adding contacts to a Focus in macOS Monterey.
 
 Image: Jack Wallen
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 6\. Set the Focus to be enabled
 
@@ -140,21 +140,22 @@ Use this new Focus feature wisely, and it will help you be more productive while
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-zero-to-hero-in-youtubing-equipment-essentials/"><u>[New] 2024 Approved From Zero to Hero in YouTubing Equipment Essentials</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-audience-wow-factor-best-stream-cameras-for-your-twitch-channel-for-2024/"><u>[New] Audience Wow Factor Best Stream Cameras for Your Twitch Channel for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-flutter-freedom-for-videos-the-best-tools-to-flv-to-youtubes/"><u>[New] In 2024, Flutter Freedom for Videos The Best Tools to Flv-to-YouTubes</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-fueling-inspiration-crafting-engaging-channel-content/"><u>[New] In 2024, Fueling Inspiration Crafting Engaging Channel Content</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-use-creative-commons-copyright-licenses-complete-guide/"><u>[New] In 2024, How to Use Creative Commons Copyright Licenses [Complete Guide]</u></a></li>
-<li><a href="https://article-posts.techidaily.com/new-join-the-fun-best-gratuitous-meme-tools-available/"><u>[New] Join the Fun Best Gratuitous Meme Tools Available</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-perfecti-the-ultimate-guide-to-iphone-slideshows-xr-i/"><u>[Updated] 2024 Approved Perfecti The Ultimate Guide to iPhone Slideshows (XR-I)</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-behind-the-scenes-unpacking-instagram-stories-for-2024/"><u>[Updated] Behind the Scenes Unpacking Instagram Stories for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-fresh-topics-to-cover-in-your-vlogs-for-2024/"><u>[Updated] Fresh Topics to Cover in Your Vlogs for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-gamer-tested-streaming-software-picks-for-2024/"><u>[Updated] Gamer-Tested Streaming Software Picks for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-growth-strategies-for-youtube-videos-6-effortless-approaches-for-2024/"><u>[Updated] Growth Strategies for YouTube Videos 6 Effortless Approaches for 2024</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-instagrams-backward-glimpse-reverse-video-tips-for-2024/"><u>[Updated] Instagram's Backward Glimpse Reverse Video Tips for 2024</u></a></li>
-<li><a href="https://howto.techidaily.com/app-wont-open-on-your-nokia-c22-here-are-all-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>App Wont Open on Your Nokia C22? Here Are All Fixes | Dr.fone</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/elevating-video-quality-incorporating-bb-and-lc-elements-in-fb/"><u>Elevating Video Quality Incorporating BB and LC Elements in FB</u></a></li>
-<li><a href="https://games-able.techidaily.com/surviving-xboxs-subscription-spike-tips-inside/"><u>Surviving Xbox's Subscription Spike - Tips Inside</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/top-5-exceptional-tools-that-replace-video-downloadhelper/"><u>Top 5 Exceptional Tools That Replace Video DownloadHelper</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-a-comprehensible-guide-to-saving-hulu-programs-on-multiple-devices/"><u>[New] 2024 Approved A Comprehensible Guide to Saving Hulu Programs on Multiple Devices</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-from-speech-to-text-a-complete-free-workshop-on-youtube-transcription-for-2024/"><u>[New] From Speech to Text A Complete, FREE Workshop on YouTube Transcription for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-growth-hacks-for-youtubers-short-form-content-boosting-view-counts-effectively-for-2024/"><u>[New] Growth Hacks for YouTuber's Short Form Content Boosting View Counts Effectively for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-creating-your-own-path-on-youtube-a-course-guide/"><u>[New] In 2024, Creating Your Own Path on YouTube A Course Guide</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-enhance-content-reach-and-impact-social-blades-role-in-youtube-analytics/"><u>[New] In 2024, Enhance Content Reach and Impact - Social Blade's Role in YouTube Analytics</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-creator-to-business-transforming-your-youtube-experience/"><u>[New] In 2024, From Creator to Business Transforming Your YouTube Experience</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-convenient-method-to-design-original-shorts-thumbnails/"><u>[Updated] 2024 Approved Convenient Method to Design Original Shorts Thumbnails</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-efficiently-achieving-color-background-separation/"><u>[Updated] 2024 Approved Efficiently Achieving Color Background Separation</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-discovering-the-future-of-broadcast-roku-and-facebook-live-for-2024/"><u>[Updated] Discovering the Future of Broadcast Roku & Facebook LIVE for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-from-good-to-great-videos-the-20-essential-shortcuts-for-success-for-2024/"><u>[Updated] From Good to Great Videos The 20 Essential Shortcuts for Success for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-leaders-in-the-evolution-of-vr-experiences/"><u>2024 Approved Leaders in the Evolution of VR Experiences</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/easy-access-luxury-free-access-to-your-dreamset-of-50-banners-in-2024/"><u>Easy-Access Luxury - Free Access to Your Dreamset of 50 Banners, In 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-android-gallery-without-backup-on-pixel-7a-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to recover deleted photos from Android Gallery without backup on Pixel 7a</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/spotify-keeps-crashing-a-complete-list-of-fixes-you-can-use-on-xiaomi-14-ultra-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Spotify Keeps Crashing A Complete List of Fixes You Can Use on Xiaomi 14 Ultra | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/whats-next-for-tech-enthusiasts-rumors-about-the-google-pixel-9-release-schedule-and-cost-estimates/"><u>What's Next for Tech Enthusiasts? Rumors About the Google Pixel 9 - Release Schedule and Cost Estimates</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-family-shield-rejuvenation-5-repair-pathways/"><u>Windows Family Shield Rejuvenation: 5 Repair Pathways</u></a></li>
+<li><a href="https://discover-docs.techidaily.com/windows-file-protection-essentials-mastering-file-encryption-with-yl-software-techniques/"><u>Windows File Protection Essentials: Mastering File Encryption with YL Software Techniques</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: AI Breakthroughs Set to Amplify Capabilities of M4 iPad Pro Announced for Worldwide Developers Conference Showcase | Tech Analysis by ZDNET
-date: 2024-12-12T16:45:36.060Z
-updated: 2024-12-13T17:33:48.020Z
+date: 2024-12-19T21:58:22.199Z
+updated: 2024-12-22T17:14:59.558Z
 tags:
   - apple
 categories:
@@ -31,7 +31,7 @@ Did they improve the overall quality of life and usability of Apple's most quixo
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Turn 2D images into spatial photos
@@ -52,10 +52,6 @@ And here's another feature that I can't imagine any users clamoring for. Now, if
 
 So, yeah, if Grandma Sadie in Seattle has a Vision Pro, Cousin Marty in Miami has a Vision Pro, and you have a Vision Pro in Yuma, you can all stand around the virtual photo screen and ooh and ah over pictures of baby Alice. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3\. Gestures for opening Home View and Control Center
 
 While it's easy enough to open Vision Pro's home view (the field of app icons) by pressing the Digital Crown on the top of the unit, getting to Control Center is a pain. VisionOS puts a tiny little arrow waaay up at the top of the viewing space, and you have to glance at it and tap your fingers together to get it to open. 
@@ -65,7 +61,7 @@ In VisionOS 2, there are gestures. Holding your hand palm up and tapping fingers
 Unlike the previous two features, this _is_ a quality of life improvement. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Mac virtual display improvements
@@ -77,7 +73,7 @@ Screenshot by David Gewirtz/ZDNET
 On the other hand, Apple "later this year" will enable you to create displays with more resolutions. The most interesting is the full wrap-around display, which will be the equivalent of two 4K monitors. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Choo-choo train mode
@@ -117,6 +113,10 @@ One of the truly breathtaking experiences of the Vision Pro is what Apple calls 
 Apple is opening up the format for third-party creators to create immersive video. The approach is to use cameras and DaVinci Resolve Studio from [Blackmagic Design](https://www.blackmagicdesign.com/). There's no doubt that Blackmagic makes excellent gear and that DaVinci Resolve is a fine application. It's just a little surprising that Apple didn't bake this capability into its own high-end video production tool, Final Cut Pro.
 
 Even so, I think this is great. Those immersive videos are fantastic. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Other new features
 
@@ -171,16 +171,24 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-harness-the-power-of-youtubes-movie-maker-for-professionals/"><u>[New] 2024 Approved Harness the Power of YouTube's Movie Maker for Professionals</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-growing-engagement-ethically-youtube-success-stories-for-2024/"><u>[New] Growing Engagement Ethically YouTube Success Stories for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-precision-in-motion-apowersofts-pc-screen-recorder-review-for-2024/"><u>[New] Precision in Motion Apowersoft's PC Screen Recorder Review for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-finding-superior-hashtags-for-your-youtube-content-for-2024/"><u>[Updated] Finding Superior Hashtags for Your YouTube Content for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-gain-unlimited-stock-videos-through-essential-4-youtube-sources-for-2024/"><u>[Updated] Gain Unlimited Stock Videos Through Essential 4 YouTube Sources for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-optimize-video-quality-on-youtube-with-size-settings/"><u>[Updated] In 2024, How to Optimize Video Quality on YouTube with Size Settings</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-zoom-and-google-meet-visual-clarity-your-step-by-step-guide-to-cleaner-participation-for-2024/"><u>[Updated] Zoom & Google Meet Visual Clarity Your Step-by-Step Guide to Cleaner Participation for 2024</u></a></li>
-<li><a href="https://fox-access.techidaily.com/2024-approved-tailoring-your-linkedin-url/"><u>2024 Approved Tailoring Your LinkedIn URL</u></a></li>
-<li><a href="https://article-helps.techidaily.com/complete-user-experience-with-vsco-camera-app/"><u>Complete User Experience with VSCO Camera App</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-3-facts-you-need-to-know-about-screen-mirroring-honor-play-40c-drfone-by-drfone-android/"><u>In 2024, 3 Facts You Need to Know about Screen Mirroring Honor Play 40C | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/repair-damaged-unplayable-video-files-of-xiaomi-13t-pro-on-windows-by-stellar-video-repair-mobile-video-repair/"><u>Repair damaged, unplayable video files of Xiaomi 13T Pro on Windows</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-2024-approved-augment-your-cams-with-top-accessory-picks/"><u>[New] 2024 Approved Augment Your Cams with Top Accessory Picks</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-top-7-essential-metaverse-tech-for-your-arsenal/"><u>[New] Top 7 Essential Metaverse Tech for Your Arsenal</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-2024-approved-chinese-vr-headset-marketplace-wonders/"><u>[Updated] 2024 Approved Chinese VR Headset Marketplace Wonders</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-pro-tips-optimal-videography-with-these-top-12-portable-cams-for-2024/"><u>[Updated] Pro Tips Optimal Videography with These Top 12 Portable Cams for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/descargar-y-convertir-sus-archivos-a-formato-digital-de-forma-gratuita-con-la-herramienta-de-linea-de-comandos-de-movavi/"><u>Descargar Y Convertir Sus Archivos a Formato Digital De Forma Gratuita Con La Herramienta De Línea De Comandos De Movavi</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/download-high-quality-maleficent-full-movie-disney-in-hd-format-on-your-mac/"><u>Download High-Quality Maleficent Full Movie (Disney) in HD Format on Your Mac</u></a></li>
+<li><a href="https://win-answers.techidaily.com/expert-strategies-for-stabilizing-and-correcting-armored-core-fires-of-rubicon-crashes-on-personal-computers/"><u>Expert Strategies for Stabilizing and Correcting Armored Core: Fires of Rubicon Crashes on Personal Computers</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/fixing-not-found-how-to-restore-the-missing-wmvcoredll-component/"><u>Fixing 'Not Found': How to Restore the Missing wmvcore.dll Component</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/free-watch-now-the-ultimate-selection-of-10-iconic-hollywood-horror-flicks/"><u>Free Watch Now! The Ultimate Selection of 10 Iconic Hollywood Horror Flicks</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/hassle-free-diy-motherboard-kits-for-seamless-personal-computing-endeavors/"><u>Hassle-Free DIY Motherboard Kits for Seamless Personal Computing Endeavors</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-combat-the-low-memory-problem-in-roblox-while-using-your-iphone/"><u>How to Combat the 'Low Memory' Problem in Roblox While Using Your iPhone</u></a></li>
+<li><a href="https://android-location.techidaily.com/how-to-fake-gps-on-android-without-mock-location-for-your-vivo-x-fold-2-drfone-by-drfone-virtual/"><u>How to Fake GPS on Android without Mock Location For your Vivo X Fold 2 | Dr.fone</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/overcome-iphone-xxsxr-wireless-power-woes-expert-guidelines-to-restore-efficient-charging/"><u>Overcome iPhone X/XS/XR Wireless Power Woes: Expert Guidelines to Restore Efficient Charging</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/solving-common-youtube-issues-effective-strategies-and-hacks/"><u>Solving Common YouTube Issues: Effective Strategies & Hacks</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/top-iso-format-converters-easy-guide-to-change-iso-files-into-popular-video-formats/"><u>Top ISO Format Converters: Easy Guide to Change ISO Files Into Popular Video Formats</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/top-spirited-supporters-a-visual-journey-of-the-most-passionate-fifa-qatar-world-cup-enthusiasts/"><u>Top Spirited Supporters: A Visual Journey of the Most Passionate FIFA Qatar World Cup Enthusiasts</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/understanding-the-difference-a-closer-look-at-apples-prores-4444-xq-and-prores-4444/"><u>Understanding the Difference: A Closer Look at Apple's ProRes 4444 XQ and ProRes 4444</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/wsdcfdmmcom/"><u>wsdcfファイルを効果的に使用するためのDMM.comでのトラブルシューティングガイド</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/iuocueodnuodmplusoduplusocvplusodluodhplusodkoocpoocuewvvuwnoobruacgoawsowlleeuuplusodgoocpuodsplusodreodvoodgoodvdrjgqrjg5xjg6njgqtjg7plho3nljjgyzlj6og73jg16/"><u>スマホ・タブデバイス対応の最新動画ダウンローダー:オフライン再生が可能なベストアプリ推薦</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Two Effective Methods for Updating Applications on macOS Explained
-date: 2024-12-13T00:12:05.136Z
-updated: 2024-12-13T21:33:18.641Z
+date: 2024-12-19T16:02:57.320Z
+updated: 2024-12-22T18:35:09.324Z
 tags:
   - apple
 categories:
@@ -30,16 +30,12 @@ Let me show you both approaches.
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to update MacOS apps from the App Store
 
 **What you'll need:** The only things you'll need are an Apple device (a MacBook or iMac) and a valid user account on the machine. That's it. Let's get to the updates.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Open the App Store
@@ -60,6 +56,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Update your apps
 
 When the App Store opens, you can either update the apps individually (by clicking the Update button associated with the app in question) or update them all at once (by clicking Update All). During the update process, you might be prompted to close an app (or even a related app) if it's blocking the update from continuing. Should that be the case, close the app in question, return to the App Store, and click Continue from the pop-up warning.
@@ -70,20 +70,20 @@ Screenshot by Jack Wallen/ZDNET
 
 Once the update is completed, close the App Store and you're done.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to update MacOS apps from the command line
 
 This is a bit more complicated, for two reasons: first, you have to find out what apps are available for updating, and, second -- as with Linux -- the app names are case-sensitive.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 1\. Open the Terminal app
 
 To run commands, you must first open the terminal app, which can be done from the Launchpad. Click the Launchpad icon in your Dock and then type _terminal_. Click the launcher to open the Terminal app.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Check for available updates
@@ -99,7 +99,7 @@ You will be prompted for your sudo password (which is your MacOS user password).
 The -l option stands for _list_. This will print out any available app updates and, if required, it will inform you if a restart is needed to complete any recent OS updates. If you see such a warning, make sure to do the reboot to complete the process.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Update the apps
@@ -144,22 +144,24 @@ This is about as simple a method as you'll find to help keep your MacOS machines
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-from-idea-to-impact-advanced-editing-techniques-for-youtube-creators-for-2024/"><u>[New] From Idea to Impact Advanced Editing Techniques for YouTube Creators for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-high-paying-creator-status-on-youtube-for-2024/"><u>[New] High-Paying Creator Status on YouTube for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-flipping-frames-innovative-techniques-for-backward-viewing-on-yt/"><u>[Updated] 2024 Approved Flipping Frames Innovative Techniques for Backward Viewing on YT</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-first-rate-screen-recorders-for-youtube-enthusiasts-for-2024/"><u>[Updated] First-Rate Screen Recorders for YouTube Enthusiasts for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-first-time-streamers-unite-learn-obs-and-broadcast-to-youtube/"><u>[Updated] In 2024, First-Time Streamers Unite Learn OBS & Broadcast to Youtube</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-gaming-history-told-by-top-video-makers/"><u>[Updated] In 2024, Gaming History Told by Top Video Makers</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-harnessing-powerful-tools-for-effective-youtubers-seo/"><u>[Updated] In 2024, Harnessing Powerful Tools for Effective YouTubers' SEO</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-spark-interest-with-unique-channel-names/"><u>[Updated] In 2024, How to Spark Interest With Unique Channel Names</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/capturing-youtube-captions-3-easy-methods-of-srt-extraction-for-2024/"><u>Capturing YouTube Captions 3 Easy Methods of SRT Extraction for 2024</u></a></li>
-<li><a href="https://video-capture.techidaily.com/effective-techniques-for-splitting-videos-into-separate-segments/"><u>Effective Techniques for Splitting Videos Into Separate Segments</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-cast-samsung-galaxy-a24-to-computer-for-iphone-and-android-drfone-by-drfone-android/"><u>How to Cast Samsung Galaxy A24 to Computer for iPhone and Android? | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-9-best-phone-monitoring-apps-for-nokia-c110-drfone-by-drfone-virtual-android/"><u>In 2024, 9 Best Phone Monitoring Apps for Nokia C110 | Dr.fone</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-apple-id-locked-for-security-reasons-on-apple-iphone-12-mini-find-the-best-solution-here-by-drfone-ios/"><u>In 2024, Apple ID Locked for Security Reasons On Apple iPhone 12 mini? Find the Best Solution Here</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-apply-these-techniques-to-improve-how-to-detect-fake-gps-location-on-oppo-reno-8t-drfone-by-drfone-virtual-android/"><u>In 2024, Apply These Techniques to Improve How to Detect Fake GPS Location On Oppo Reno 8T | Dr.fone</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/innovative-5-bot-therapy-tools-for-mental-health-support/"><u>Innovative 5 Bot Therapy Tools for Mental Health Support</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-wevideo-the-simple-way-to-create-professional-looking-videos-for-2024/"><u>New WeVideo The Simple Way to Create Professional-Looking Videos for 2024</u></a></li>
-<li><a href="https://discover-forum.techidaily.com/trasforma-gratuitamente-le-traccia-wma-in-qualita-superiore-wav-usando-movavis-online-converter-tool/"><u>Trasforma Gratuitamente Le Traccia WMA in Qualità Superiore WAV Usando Movavi's Online Converter Tool</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-building-your-asmr-empire-key-concepts-and-best-practices-for-2024/"><u>[New] Building Your ASMR Empire Key Concepts and Best Practices for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-dissecting-youtube-copyright-vs-creative-commons-ethos-for-2024/"><u>[New] Dissecting YouTube Copyright Vs. Creative Commons Ethos for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-elevating-audience-excitement-with-top-ideas/"><u>[New] In 2024, Elevating Audience Excitement with Top Ideas</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-mastering-timeliness-using-current-events-to-your-advantage/"><u>[New] Mastering Timeliness Using Current Events to Your Advantage</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-maximize-engagement-the-ultimate-list-of-youtube-growth-tactics/"><u>[New] Maximize Engagement The Ultimate List of YouTube Growth Tactics</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-youtube-for-educators-maximizing-its-classroom-potential/"><u>[New] YouTube for Educators Maximizing Its Classroom Potential</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-boost-your-channel-game-essential-video-editing-advice/"><u>[Updated] 2024 Approved Boost Your Channel Game Essential Video Editing Advice</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-amplify-your-channel-effortless-tactics-for-more-views-for-2024/"><u>[Updated] Amplify Your Channel Effortless Tactics for More Views for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-beam-it-up-15-must-haves-for-your-youtube-live-stream-for-2024/"><u>[Updated] Beam It Up! 15 Must-Haves for Your YouTube Live Stream for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-expert-pick-mics-for-youtube-entrepreneurs-for-2024/"><u>[Updated] Expert Pick Mics for YouTube Entrepreneurs for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-unveiling-the-top-rated-srt-translators-for-zero-cost/"><u>[Updated] In 2024, Unveiling the Top-Rated SRT Translators for Zero Cost</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-record-your-mac-in-hd-no-fee/"><u>[Updated] Record Your Mac in HD No Fee</u></a></li>
+<li><a href="https://article-files.techidaily.com/exclusive-top-8-gear-in-the-vr-sphere/"><u>Exclusive Top 8 Gear in the VR Sphere</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-tecno-spark-10-5g-location-on-skout-drfone-by-drfone-virtual-android/"><u>How to Change Tecno Spark 10 5G Location on Skout | Dr.fone</u></a></li>
+<li><a href="https://fox-info.techidaily.com/in-2024-a-new-dimension-understanding-the-innovations-in-hp-envy-27-monitor/"><u>In 2024, A New Dimension Understanding the Innovations in HP Envy 27 Monitor</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/in-2024-crafting-a-scintillating-trailer-tale/"><u>In 2024, Crafting A Scintillating Trailer Tale</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-top-picks-hd-cameras-under-100-for-extreme-sports/"><u>In 2024, Top Picks HD Cameras Under $100 for Extreme Sports</u></a></li>
+<li><a href="https://win-forum.techidaily.com/the-ultimate-walkthrough-to-a-clean-windows-11-setup-beginner-friendly/"><u>The Ultimate Walkthrough to a Clean Windows 11 Setup - Beginner Friendly</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/top-80s-filters-and-effects-for-professional-videos/"><u>Top 80S Filters & Effects for Professional Videos</u></a></li>
 </ul></div>
 

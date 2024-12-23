@@ -1,7 +1,7 @@
 ---
 title: Overcome Your Portable Charger Woes with the Affordable $20 Anker Power Bank - Insights From ZDNet
-date: 2024-12-11T21:53:45.844Z
-updated: 2024-12-13T19:55:05.628Z
+date: 2024-12-21T00:45:46.147Z
+updated: 2024-12-23T02:28:23.677Z
 tags:
   - apple
 categories:
@@ -21,7 +21,7 @@ Sabrina Ortiz/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 
@@ -41,10 +41,6 @@ To Android users and new (or incoming) iPhone users who are looking to add a USB
 **Also:** [**I tested a 9,000,000mAh battery pack from eBay - here's my buying advice**](https://www.zdnet.com/article/i-tested-a-9000000mah-battery-pack-from-ebay-heres-my-buying-advice/)
 
 See, I have quibbles with many portable chargers. Those include forgetting a wire, not knowing where to hold the charger while it's charging my phone, and feeling like it takes forever to increase the battery percentage at all. This charger addresses all of the issues and more. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 
 Lipstick-sized charger
@@ -72,7 +68,7 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Impressive charging power for its size
@@ -84,7 +80,7 @@ The 22.5W Power Bank packs 5,000mAh capacity, which is enough to charge an [iPho
 Although it might not seem like a tremendous boost, remember that this portable charger is meant to get you out of a pinch. If your phone died on you while you were out, getting a quarter of your battery back in under 30 minutes would be a lifesaver. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Charging the power bank is hassle-free
@@ -100,12 +96,16 @@ Sabrina Ortiz/ZDNET
 The charger comes in five colors: blue, black, white, green, and pink, matching every iPhone 15 color besides the yellow, which the white could be paired with instead.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
 
 If you are searching for a new portable charger for your new iPhone or just because you are due for an upgrade, the [Anker Nano 22.5W Power Bank](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0C6XK77HJ%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C2488b094-9450-45fb-96b8-b3bc91f52db2%7Cdtp&dtb=1) is a good choice because it won't break the bank and will get the job done. The fun color options, effectiveness, size, and low price point even make it a good choice for gifting.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## When will this deal expire?
 
@@ -141,20 +141,22 @@ Deals are subject to sell-out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-playtime-to-profits-ryan-kajis-youtube-cash-crusade/"><u>[New] 2024 Approved From Playtime to Profits Ryan Kaji's YouTube Cash Crusade</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-content-creation-to-revenue-recognition-the-systematic-3-step-formula-for-youtube-income-examination/"><u>[New] In 2024, From Content Creation to Revenue Recognition The Systematic 3-Step Formula for YouTube Income Examination</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ising-above-the-crowd-trending-techniques-for-youtubers/"><u>[New] Rising Above the Crowd Trending Techniques for YouTubers</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-harness-freedom-with-top-rated-android-editing-apps-for-2024/"><u>[Updated] Harness Freedom with Top-Rated Android Editing Apps for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-keep-unwanted-content-away-from-your-computer-and-phone-for-2024/"><u>[Updated] How to Keep Unwanted Content Away From Your Computer and Phone for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-filmoras-blueprint-for-stellar-youtube-trailers/"><u>[Updated] In 2024, Filmora's Blueprint for Stellar YouTube Trailers</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-clicks-to-cash-the-systematic-triple-pathway-for-youtube-revenue-tracking/"><u>[Updated] In 2024, From Clicks to Cash The Systematic Triple Pathway for YouTube Revenue Tracking</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-grand-selection-of-incredibly-affordable-footage/"><u>[Updated] In 2024, Grand Selection of Incredibly Affordable Footage</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/beginning-your-first-community-support-blitz-on-facebook-for-2024/"><u>Beginning Your First Community Support Blitz on Facebook for 2024</u></a></li>
-<li><a href="https://driver-download.techidaily.com/easy-instructions-for-refreshing-logitech-m310-driver-on-windows-and-mac/"><u>Easy Instructions for Refreshing Logitech M310 Driver on Windows and Mac</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/in-2024-pcandroid-friendly-methods-to-post-videos-on-facebook-successfully/"><u>In 2024, PC/Android-Friendly Methods to Post Videos on Facebook Successfully</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/personalizing-your-profile-with-fb-slideshow-content/"><u>Personalizing Your Profile with FB Slideshow Content</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-windows-11-audio-issues-a-comprehensive-guide/"><u>Troubleshooting Windows 11 Audio Issues: A Comprehensive Guide</u></a></li>
-<li><a href="https://fake-location.techidaily.com/what-is-geo-blocking-and-how-to-bypass-it-on-samsung-galaxy-a24-drfone-by-drfone-virtual-android/"><u>What is Geo-Blocking and How to Bypass it On Samsung Galaxy A24? | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/why-your-oppo-a78-screen-might-be-unresponsive-and-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Your Oppo A78 Screen Might be Unresponsive and How to Fix It | Dr.fone</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-4-secrets-for-adding-online-vids-seamlessly-in-ppt/"><u>[New] 2024 Approved 4 Secrets for Adding Online Vids Seamlessly in PPT</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-digital-dreams-unite-conference-for-2024/"><u>[New] Digital Dreams Unite Conference for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-discover-how-asmr-boosts-well-being/"><u>[New] Discover How ASMR Boosts Well-Being</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-elevate-your-content-uploading-numerous-photos-and-videos-to-instagram-for-2024/"><u>[New] Elevate Your Content Uploading Numerous Photos and Videos to Instagram for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-end-screen-creation-made-simple-free-templates-and-guides-for-2024/"><u>[New] End Screen Creation Made Simple - Free Templates & Guides for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-essential-tactics-for-youtube-success-in-25-ways-for-2024/"><u>[New] Essential Tactics for YouTube Success in 25 Ways for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-make-your-youtube-animated-subscribe-button-easily-with-filmora/"><u>[New] In 2024, How to Make Your YouTube Animated Subscribe Button Easily With Filmora</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-in-2024-understanding-optimal-frames-per-second-in-cinema-slow-mo/"><u>[New] In 2024, Understanding Optimal Frames Per Second in Cinema Slow-Mo</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-mastering-the-social-maze-avoiding-the-ban-on-fb/"><u>[New] Mastering the Social Maze Avoiding the Ban on FB</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/2024-approved-a-beginners-guide-to-embedding-youtube-playlists-in-code/"><u>2024 Approved A Beginner's Guide to Embedding YouTube Playlists in Code</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-getting-the-pokemon-go-gps-signal-not-found-11-error-in-tecno-spark-20-proplus-drfone-by-drfone-virtual/"><u>In 2024, Getting the Pokemon Go GPS Signal Not Found 11 Error in Tecno Spark 20 Pro+ | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-sim-card-on-itel-online-without-jailbreak-by-drfone-android/"><u>In 2024, How to Unlock SIM Card on Itel online without jailbreak</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/in-2024-youngest-millionaire-on-youtube-ryans-unprecedented-wealth-accumulation/"><u>In 2024, Youngest Millionaire on YouTube Ryan's Unprecedented Wealth Accumulation</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/top-ranked-graphics-cards-for-optimal-online-streaming-quality-for-2024/"><u>Top-Ranked Graphics Cards for Optimal Online Streaming Quality for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/troubleshooting-guide-resolving-windows-10-usb-recognition-issues/"><u>Troubleshooting Guide: Resolving Windows 10 USB Recognition Issues</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/understanding-youtube-lives-image-language-for-2024/"><u>Understanding YouTube Live's Image Language for 2024</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/upgrading-your-computers-startup-system-transitioning-from-bios-to-uefi/"><u>Upgrading Your Computer's Startup System: Transitioning From BIOS to UEFI</u></a></li>
 </ul></div>
 

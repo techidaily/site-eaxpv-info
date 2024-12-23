@@ -1,7 +1,7 @@
 ---
 title: "ZDNet Review: IPhone 14 Strikes a Perfect Balance - Just What We Needed"
-date: 2024-12-12T23:20:25.988Z
-updated: 2024-12-13T22:48:07.229Z
+date: 2024-12-17T23:56:43.248Z
+updated: 2024-12-22T22:06:39.018Z
 tags:
   - apple
 categories:
@@ -46,7 +46,7 @@ How and why did I come to those conclusions? Let's dig in.
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Specifications
@@ -65,7 +65,7 @@ How and why did I come to those conclusions? Let's dig in.
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Familiar design, with one exception
@@ -86,16 +86,12 @@ The side of the iPhone no longer has a SIM card slot.
 
 Jason Cipriani/ZDNET
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Performance and battery life
 
 If you visit [Apple's comparison tool](https://www.apple.com/iphone/compare/?modelList=iphone13,iphone14,iphone14plus), pitting the [iPhone 13 against the iPhone 14](https://www.zdnet.com/article/iphone-13-vs-iphone-14/), you'll notice that the phones use the same A15 Bionic processor. This is the first time Apple has used the previous-generation processor in a new iPhone model, with the iPhone maker relying on the already solid performance the A15 Bionic brought to the iPhone 13\. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -118,10 +114,6 @@ I'm intrigued to see what battery life is like on the [iPhone 14 Plus](https://w
 
 Jason Cipriani/ZDNET
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Camera upgrades
 
 The biggest changes Apple made to the iPhone 14 all have to do with the camera. Apple calls the iPhone 14's camera system an "advanced dual-camera system," thanks in part to some hardware upgrades but also because of some [iOS camera software features](https://www.zdnet.com/article/ios-16-has-a-hidden-photoshop-like-feature-where-to-find-it-and-how-to-use-it-and-why-youre-going-to-love-it/) that are new this year. 
@@ -140,6 +132,10 @@ Jason Cipriani/ZDNET
 
 The above photo hasn't been edited other than cropping the image in order to publish it. All of the color and saturation settings have remained untouched. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Safety first
 
 You can expect more features to be enabled on the iPhone 14 in future. The new [Emergency SOS via Satellite](https://www.zdnet.com/article/how-the-apple-iphone-14-connects-to-satellites-during-emergencies/) feature, for example, isn't available yet. That's supposed to go live in November and will remain a free service for the next two years. Pricing after that isn't yet known. [Garmin offers a similar service](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://www.garmin.com/en-US/p/837461) on stand-alone devices with price plans starting at $15 a month, but I imagine Apple will figure out a way to bundle it into its [Apple One](https://www.zdnet.com/article/verizons-new-unlimited-plan-comes-with-a-built-in-apple-one-subscription/) plans. 
@@ -149,6 +145,10 @@ The new emergency communication feature comes alongside a dedicated [crash detec
 [Buy the Apple iPhone 14 View now at Apple](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fiphone-14%2F&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
 
 **Also:** [**The iPhone 14 Pro packs a lot more innovation for the same price as last year**](https://www.zdnet.com/article/iphone-14-pro-packs-a-lot-more-innovation-for-the-same-price-as-last-year/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Bottom line
 
@@ -186,21 +186,16 @@ As I said at the top, the iPhone 14 is a great phone, and for someone who is com
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-giggles-guidebook-planning-7-funny-video-frameworks/"><u>[New] 2024 Approved Giggles Guidebook Planning 7 Funny Video Frameworks</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/new-2024-approved-revolutionizing-slow-mo-top-8-video-speeders/"><u>[New] 2024 Approved Revolutionizing Slow Mo Top 8 Video Speeders</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-30-best-freefire-tagshashtags-for-youtube/"><u>[New] In 2024, 30 Best FreeFire Tags/Hashtags For YouTube</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-use-a-tripod-for-vlogging/"><u>[New] In 2024, How To Use a Tripod for Vlogging</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-from-novice-to-pro-a-complete-exploration-of-zd-software-recording-features/"><u>[Updated] 2024 Approved From Novice to Pro A Complete Exploration of ZD Software Recording Features</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-funnies-in-a-flash-top-10-quick-and-quirky-video-concepts-for-youtubers/"><u>[Updated] 2024 Approved Funnies in a Flash Top 10 Quick & Quirky Video Concepts for YouTubers</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-streamline-video-analytics-a-guide-to-youtube-statistics-with-social-blade/"><u>[Updated] 2024 Approved Streamline Video Analytics A Guide to YouTube Statistics with Social Blade</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-free-frameworks-amplify-your-youtube-vision-for-2024/"><u>[Updated] Free Frameworks Amplify Your YouTube Vision for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-novice-to-vlogger-professional-video-making-on-mobile-devices/"><u>[Updated] In 2024, From Novice to Vlogger Professional Video Making on Mobile Devices</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-hacking-the-process-instant-deletion-on-youtube/"><u>[Updated] In 2024, Hacking the Process Instant Deletion on Youtube</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/2024-approved-streamlined-techniques-for-saving-slideshows/"><u>2024 Approved Streamlined Techniques for Saving Slideshows</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/cookiebot-enabled-site-management/"><u>Cookiebot-Enabled Site Management</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/discover-the-ultimate-replacement-for-getflv-on-macwindows-choose-allavsoft/"><u>Discover the Ultimate Replacement for GetFLV on Mac/Windows – Choose Allavsoft!</u></a></li>
-<li><a href="https://network-issues.techidaily.com/fixing-flicker-and-pulse-on-win7-display/"><u>Fixing Flicker and Pulse on Win7 Display</u></a></li>
-<li><a href="https://techidaily.com/how-to-easily-hard-reset-my-realme-gt-5-240w-drfone-by-drfone-reset-android-reset-android/"><u>How to Easily Hard reset my Realme GT 5 (240W) | Dr.fone</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/in-2024-masterful-screenshots-made-simple-top-10-free-mac-apps/"><u>In 2024, Masterful Screenshots Made Simple – Top 10 FREE Mac Apps</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-social-media-sensations-tiktoks-top-10-tweets/"><u>[New] 2024 Approved Social Media Sensations TikTok's Top 10 Tweets</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-curated-selection-5-superior-android-ps2-game-emulators-for-2024/"><u>[New] Curated Selection 5 Superior Android PS2 Game Emulators for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-master-guide-convert-youtube-videos-seamlessly-to-mpeg/"><u>[Updated] Master Guide Convert YouTube Videos Seamlessly to MPEG</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-transform-your-set-design-top-8-sites-providing-free-green-screen-footage-and-backdrop/"><u>[Updated] Transform Your Set Design Top 8 Sites Providing Free Green Screen Footage & Backdrop</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/demystifying-and-repairing-error-code-tfla0002-during-examinations/"><u>Demystifying and Repairing Error Code TFLA0002 During Examinations</u></a></li>
+<li><a href="https://win-blog.techidaily.com/fix-crashing-and-stuttering-problems-for-a-smoother-experience-with-serious-sam-4-on-pc/"><u>Fix Crashing and Stuttering Problems for a Smoother Experience with Serious Sam 4 on PC</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/fortnite-access-denied-heres-how-you-can-regain-entry-successfully/"><u>Fortnite Access Denied? Here’s How You Can Regain Entry Successfully</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-unlock-your-vivo-v29-phone-with-ease-the-3-best-lock-screen-removal-tools-by-drfone-android/"><u>In 2024, Unlock Your Vivo V29 Phone with Ease The 3 Best Lock Screen Removal Tools</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/reigniting-classic-fun-an-intimate-look-at-spyros-new-journey-and-its-priceless-worth/"><u>Reigniting Classic Fun - An Intimate Look at Spyro’s New Journey and Its Priceless Worth</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/toms-authoritative-guide-to-modern-computing-and-hardware/"><u>Tom's Authoritative Guide to Modern Computing and Hardware</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/top-5-features-of-the-msi-codex-r2-for-casual-gamers-an-seo-optimized-pc-guide/"><u>Top 5 Features of the MSI Codex R2 for Casual Gamers - An SEO-Optimized PC Guide</u></a></li>
 </ul></div>
 

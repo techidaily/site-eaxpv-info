@@ -1,7 +1,7 @@
 ---
 title: "Magic at Your Fingertips: Apple's Cutting-Edge On-Device AI Image Tool Outshines DALL-E | InnovationHub"
-date: 2024-12-09T21:43:34.569Z
-updated: 2024-12-13T21:00:52.348Z
+date: 2024-12-15T19:47:53.632Z
+updated: 2024-12-22T21:07:40.873Z
 tags:
   - apple
 categories:
@@ -39,7 +39,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Apple Intelligence (AI)
@@ -73,7 +73,7 @@ Jason Hiner/ZDNET
 * The ChatGPT integration will be coming to iOS 18, iPadOS 18, and MacOS Sequoia later this year.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## iOS 18
@@ -94,10 +94,6 @@ Adam Breeden/ZDNET
 * The **Safari app** was upgraded to include key information about a webpage. You can read more about the Safari upgrades under the MacOS section of this article.
 * The **Calendar app** can now pull from the Reminders app for a more seamless schedule overview.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## WatchOS 11
 
 Adam Breeden/ZDNET
@@ -113,7 +109,7 @@ Adam Breeden/ZDNET
 * Another notable change is that the **double tap gesture** can be used to scroll through apps.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## iPadOS 18
@@ -126,6 +122,10 @@ Adam Breeden/ZDNET
 * Handwriting in Notes also got an upgrade with **Smart** **Script**, which refines users' writing to make it more legible while keeping the authenticity of the user's handwriting style. The feature can also match copied and pasted text to the user's handwriting. Typed text was also enhanced, with five new highlight colors and the ability to toggle sections under headings or subheadings.
 * iPadOS 18 supports **screen-sharing via SharePlay** and the same Control Center customizations, Photos app upgrades, Safari updates, and emoji Tapbacks found in **iOS 18.**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## MacOS 15 (Sequoia)
 
 Adam Breeden/ZDNET
@@ -136,6 +136,10 @@ Adam Breeden/ZDNET
 * **Video meetings** are also getting an upgrade, with new backgrounds and a preview experience that allows you to see what you are about to share before sharing it. This feature works with popular video conferencing applications such as FaceTime and Zoom.
 * The **AI summarization** tool will live in Safari to help users process content like web pages and articles more efficiently. Safari will also assist users in discovering more helpful information about a page they are browsing when relevant, such as directions.
 * Apple also launched a new **Viewer experience**, which does for video what Reader does for text.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## VisionOS 2
 
@@ -161,10 +165,6 @@ Jason Hiner/ZDNET
 * AirPods Pro are getting **Voice Isolation** to enhance call quality in noisier environments.
 * With the new **Siri Interactions**, users can now **nod or shake their head** "yes" or "no" when responding to Siri.
 * Apple is also releasing a **Personalized Spatial Audio API** for game developers to build around the AirPods' audio technology.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## tvOS 18
 
@@ -210,16 +210,24 @@ Screenshot by Nina Raemont/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-noworrycapture-quick-and-easy-win11-recordings/"><u>[New] 2024 Approved NoWorryCapture - Quick and Easy Win11 Recordings</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-11-free-youtube-playlist-downloadersonlinepcandroidios/"><u>[Updated] 2024 Approved 11 FREE YouTube Playlist Downloaders[Online/PC/Android/iOS)</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-make-a-cool-youtube-video-intro-in-imovie-step-by-step/"><u>[Updated] 2024 Approved How to Make a Cool YouTube Video Intro in iMovie (Step-by-Step)</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-financial-fortitude-for-youtubers-beyond-basic-earnings-for-2024/"><u>[Updated] Financial Fortitude for YouTubers Beyond Basic Earnings for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-11-free-youtube-audio-rippers-to-download-audio-from-youtube/"><u>[Updated] In 2024, 11 FREE YouTube Audio Rippers to Download Audio From YouTube</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-natural-setups-comprehensive-free-screen-templates-for-cinephiles/"><u>[Updated] In 2024, Natural Setups Comprehensive Free Screen Templates for Cinephiles</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-trend-analysis-through-infographics/"><u>[Updated] Trend Analysis Through Infographics</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-unlocking-instagrams-top-spot-in-minutes/"><u>2024 Approved Unlocking Instagram's Top Spot in Minutes</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-change-motorola-g24-power-location-on-skout-drfone-by-drfone-virtual-android/"><u>How to Change Motorola G24 Power Location on Skout | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-forgotten-the-voicemail-password-of-tecno-spark-20-proplus-try-these-fixes-by-drfone-android/"><u>In 2024, Forgotten The Voicemail Password Of Tecno Spark 20 Pro+? Try These Fixes</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-proven-pathways-to-promoting-in-vr-lands/"><u>In 2024, Proven Pathways to Promoting in VR Lands</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-drive-subscriptions-upward-through-effective-youtube-branding/"><u>[New] 2024 Approved Drive Subscriptions Upward Through Effective YouTube Branding</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/024-approved-youtube-ad-elimination-techniques-for-chrome-and-safari-users/"><u>[New] 2024 Approved YouTube Ad Elimination Techniques for Chrome & Safari Users</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-deciphering-slug-lines-in-scriptwriting-for-2024/"><u>[New] Deciphering Slug Lines in Scriptwriting for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-farm-frontier-favorites-similar-titles-galore/"><u>[New] Farm Frontier Favorites Similar Titles Galore</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-masterclass-the-elite-group-of-top-10-free-artistic-youtube-platforms/"><u>[New] Masterclass The Elite Group of Top 10 Free Artistic YouTube Platforms</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/diving-deep-into-the-excellence-of-microsoft-surface-laptop-4/"><u>Diving Deep Into the Excellence of Microsoft Surface Laptop 4</u></a></li>
+<li><a href="https://network-issues.techidaily.com/epic-slow-spells-on-purchase/"><u>Epic Slow Spells on Purchase</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/get-gaming-powerhouse-at-bargain-prices-ark-ai-accelerator-pcie-card-for-deskmate-x6-600-available-only-in-china-193/"><u>Get Gaming Powerhouse at Bargain Prices - ARK AI Accelerator PCIe Card for DeskMate X6 600, Available Only in China ($193)</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/grab-the-deal-before-its-gone-premium-custom-built-pc-with-msi-aegis-r2-rtx-4070-and-core-i7-14700kf-for-under-1600-exceptional-value/"><u>Grab the Deal Before It's Gone! - Premium Custom Built PC with MSI Aegis R2 (RTX 4070 & Core I7-14700KF) for Under $1,600 – Exceptional Value</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-oneplus-nord-n30-5g-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from OnePlus Nord N30 5G to Samsung Phone | Dr.fone</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/in-2024-crafting-solo-beats-methods-to-distill-music-into-single-element-projects/"><u>In 2024, Crafting Solo Beats Methods to Distill Music Into Single Element Projects</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-everything-you-need-to-know-about-lock-screen-settings-on-your-infinix-hot-40i-by-drfone-android/"><u>In 2024, Everything You Need to Know about Lock Screen Settings on your Infinix Hot 40i</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/navigating-pc-world-with-tom-comprehensive-reviews-and-advice/"><u>Navigating PC World with Tom - Comprehensive Reviews & Advice</u></a></li>
+<li><a href="https://common-error.techidaily.com/restoring-engine-roars-in-forza-horizon-4-a-step-by-step-guide-to-fixing-sound-failures/"><u>Restoring Engine Roars in Forza Horizon 4: A Step-by-Step Guide to Fixing Sound Failures</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/step-by-step-solution-dealing-with-video-card-glitches-in-sims-4/"><u>Step-by-Step Solution: Dealing with Video Card Glitches in Sims #4</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/tackling-the-violation-of-security-protocol-warning-in-online-games/"><u>Tackling the 'Violation of Security Protocol' Warning in Online Games</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/troubleshooting-guide-to-address-assassins-creed-valhalla-pc-game-freezes-and-crashes/"><u>Troubleshooting Guide to Address Assassin's Creed Valhalla PC Game Freezes and Crashes</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/unpacking-the-corsair-i500s-performance-a-detailed-analysis-of-a-modern-minimalist-pc/"><u>Unpacking the Corsair I500's Performance - A Detailed Analysis of a Modern, Minimalist PC</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/unveiling-top-tier-electronics-a-deep-dive-with-toms-hardware-knowledge/"><u>Unveiling Top-Tier Electronics: A Deep Dive with Tom's Hardware Knowledge</u></a></li>
 </ul></div>
 

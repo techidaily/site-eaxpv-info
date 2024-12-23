@@ -1,7 +1,7 @@
 ---
 title: "IPad's Latest Calculator App: So Sophisticated, You'll Want the Apple Pencil – Discover How"
-date: 2024-12-07T22:24:53.199Z
-updated: 2024-12-13T23:56:02.571Z
+date: 2024-12-17T16:27:22.857Z
+updated: 2024-12-23T00:23:38.660Z
 tags:
   - apple
 categories:
@@ -23,7 +23,7 @@ Adrian Kingsley-Hughes/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -43,7 +43,7 @@ What I really need is a dedicated travel kit for charging my gadgets, which incl
 [ZDNET RECOMMENDS ESR 3-in-1 Qi2 wireless travel charger This set is built for the road, and the foldable, compact design and included travel bag means it easily slips into a backpack or suitcase. View at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FESR-Charging-Station-Certified-Multiple%2Fdp%2FB0CW2J9XB8%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cd405c3b3-9fde-429f-ae82-f128bd45456e%7Cdtp&dtb=1)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ESR 3-in-1 wireless travel charger features
@@ -82,7 +82,7 @@ In fact, it's the perfect kit for someone who is all-in with Apple gear.
 I've carried out all my usual tests on this charger, including safety tests and thermal checks, and it passed all of them with flying colors, which I would expect from a company such as ESR, which has a track record for making excellent charging tools.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -121,19 +121,18 @@ One of the standout features is the carry case, which has designated spots for e
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-finding-the-highlighted-online-discourse/"><u>[New] 2024 Approved Finding the Highlighted Online Discourse</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-from-idea-to-screen-smartphone-video-creation-tips-for-2024/"><u>[New] From Idea to Screen Smartphone Video Creation Tips for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-how-does-youtube-pay-you-in-2024/"><u>[New] How Does YouTube Pay You, In 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-flavor-leaders-must-watch-culinary-youtube-stars/"><u>[New] In 2024, Flavor Leaders Must-Watch Culinary YouTube Stars</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-swipe-up-for-a-dose-of-self-reflection-curated-instagramcaptions/"><u>[New] Swipe up for a Dose of Self-Reflection - Curated #InstagramCaptions</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-harness-the-power-of-youtube-video-for-stunning-gif-masterpieces-for-2024/"><u>[Updated] Harness the Power of YouTube Video for Stunning GIF Masterpieces for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-go-live-in-style-a-detailed-guide-to-youtubes-full-sphere-videos/"><u>[Updated] In 2024, Go Live in Style A Detailed Guide to YouTube's Full-Sphere Videos</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-smart-guide-top-picks-for-6-fb-lite-videos/"><u>[Updated] Smart Guide Top Picks for 6 FB Lite Videos</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/from-boredom-to-chuckles-generating-funny-memes/"><u>From Boredom to Chuckles Generating Funny Memes</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-after-switching-from-realme-narzo-60-pro-5g-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data After Switching From Realme Narzo 60 Pro 5G to Latest Samsung | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-complete-tutorial-to-use-vpna-to-fake-gps-location-on-apple-iphone-6-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, Complete Tutorial to Use VPNa to Fake GPS Location On Apple iPhone 6 Plus | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-here-are-some-pro-tips-for-pokemon-go-pvp-battles-on-vivo-y27s-drfone-by-drfone-virtual-android/"><u>In 2024, Here are Some Pro Tips for Pokemon Go PvP Battles On Vivo Y27s | Dr.fone</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-guide-for-persistent-elex-ii-pc-crashes-expert-tips/"><u>Troubleshooting Guide for Persistent Elex II PC Crashes – Expert Tips</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/trustworthy-tips-from-chatgpt-how-to-fact-check/"><u>Trustworthy Tips From ChatGPT: How to Fact-Check</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-digital-dominion-rise-as-a-youtube-guru-for-2024/"><u>[New] Digital Dominion Rise as a YouTube Guru for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-craft-standout-names-for-your-youtube-channel/"><u>[New] In 2024, How to Craft Standout Names for Your YouTube Channel</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-unlinking-from-youtube-shorts-the-complete-process/"><u>[New] Unlinking From YouTube Shorts - The Complete Process</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-boosting-visuals-mastering-youtubes-video-enhancement-tools/"><u>[Updated] 2024 Approved Boosting Visuals Mastering YouTube's Video Enhancement Tools</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-from-script-to-spectacle-independent-effect-innovation-for-2024/"><u>[Updated] From Script to Spectacle Independent Effect Innovation for 2024</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-safe-mp3-extraction-three-methods-for-youtube-audio-conversion/"><u>2024 Approved Safe MP3 Extraction Three Methods for YouTube Audio Conversion</u></a></li>
+<li><a href="https://location-fake.techidaily.com/5-hassle-free-solutions-to-fake-location-on-find-my-friends-of-huawei-p60-drfone-by-drfone-virtual-android/"><u>5 Hassle-Free Solutions to Fake Location on Find My Friends Of Huawei P60 | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/easiest-guide-how-to-clone-motorola-moto-e13-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Easiest Guide How to Clone Motorola Moto E13 Phone? | Dr.fone</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/enhancing-stories-through-animations-with-movie-maker/"><u>Enhancing Stories Through Animations with Movie Maker</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-what-does-jailbreaking-iphone-6s-plus-i-do-get-answers-here-by-drfone-ios/"><u>In 2024, What Does Jailbreaking iPhone 6s Plus i Do? Get Answers here</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/nixing-the-green-glow-youtubes-mac-solution-manual-for-2024/"><u>Nixing the Green Glow YouTube's Mac Solution Manual for 2024</u></a></li>
+<li><a href="https://win-forum.techidaily.com/resolving-the-plan-gone-awry-message-on-your-windows-11-device/"><u>Resolving the 'Plan Gone Awry' Message on Your Windows 11 Device</u></a></li>
+<li><a href="https://extra-support.techidaily.com/srgb-vs-rgb-decoding-color-standards-for-devices-for-2024/"><u>Srgb vs Rgb Decoding Color Standards for Devices for 2024</u></a></li>
 </ul></div>
 

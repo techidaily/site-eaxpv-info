@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  Beauty Blogging Beginnings  Crafting a Captivating YouTube Channel\""
-date: 2024-08-16T18:25:12.426Z
-updated: 2024-08-17T18:25:12.426Z
+date: 2024-12-16T19:03:51.356Z
+updated: 2024-12-22T20:47:59.913Z
 tags:
   - ai video
   - ai youtube
@@ -18,9 +18,6 @@ thumbnail: https://thmb.techidaily.com/a0ea0929e49147a7aa2982696f1085c4ea3dc3044
 
 # How To Be A Beauty Guru on YouTube: Beauty Vlogger Set Up
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 ##### Richard Bennett
@@ -30,27 +27,20 @@ thumbnail: https://thmb.techidaily.com/a0ea0929e49147a7aa2982696f1085c4ea3dc3044
 Beauty Vlogs are some of the most popular channels on YouTube. These vlogs are all about aesthetics, so it is important that the videos themselves are beautiful. When you are giving out tips on makeup or hair you want to use a setup that will make your results look their very best.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## YouTube Beauty Vlogger Set Up
 
 It’s easy to put together your own Beauty Vlog setup. There are four main elements; lighting, beauty supplies, backgrounds, and audio. Here are some tips on building your beauty guru set:
 
 #### 1\. Light It Up
 
-<!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![beauty vlog01](https://images.wondershare.com/filmora/article-images/beauty-vlog01.JPG)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Beauty Vlogs need to have great lighting so that everyone can clearly see what you are doing and how amazing it looks. Make sure you have even light over your whole face by ‘front lighting’ your vlog. Front lighting means having a light source right in front of you.
 
@@ -80,18 +70,17 @@ You have a lot to say, so make sure people can hear you. Most cameras do not hav
 
 If you do not have access to an external mic then you may be able to get by without one for a while using software. Make sure there is no background noise competing with your voice, and download a free audio editing program called Audacity from Audacityteam.org. Using Audacity you will be able to improve a mediocre audio recording from your camera and make it usable. This is a popular option among YouTube gamers who record both video and audio from their webcams, but there is no reason it should not be useful for beauty gurus too.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Richard Bennett
 
 Richard Bennett is a writer and a lover of all things video.
 
 Follow @Richard Bennett
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -100,5 +89,26 @@ Follow @Richard Bennett
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-free-and-easy-building-attractive-youtube-intros-without-expense/"><u>[New] 2024 Approved Free & Easy Building Attractive YouTube Intros without Expense</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-free-online-video-editors-for-youtube-for-2024/"><u>[New] Free Online Video Editors for YouTube for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-how-to-seamlessly-reorganize-video-playlists-on-yt-for-2024/"><u>[New] How to Seamlessly Reorganize Video Playlists on YT for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-discover-the-top-10-iosandroid-vr-games/"><u>[New] In 2024, Discover the Top 10 iOS/Android VR Games</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-free-film-resource-highlights-where-to-start-your-search/"><u>[New] In 2024, Free Film Resource Highlights Where to Start Your Search</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-guidelines-for-effective-use-of-cc-licenses/"><u>[New] In 2024, Guidelines for Effective Use of CC Licenses</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-get-paid-on-youtube-from-adsense-to-your-bank-account/"><u>[New] In 2024, How To Get Paid on YouTube - From AdSense to Your Bank Account</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-safely-capture-your-favorite-youtube-audio-for-free/"><u>[New] In 2024, How to Safely Capture Your Favorite YouTube Audio for Free</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-financial-outcomes-dailymotion-versus-youtube-earning-potential-for-2024/"><u>[Updated] Financial Outcomes Dailymotion versus YouTube Earning Potential for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-find-your-way-the-insider-guide-to-youtube-video-management-hub-for-2024/"><u>[Updated] Find Your Way The Insider Guide to YouTube Video Management Hub for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-digital-cinematographer-hub/"><u>[Updated] In 2024, Digital Cinematographer Hub</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-instantly-design-custom-coverage-for-your-short-videos/"><u>[Updated] In 2024, How To Instantly Design Custom Coverage For Your Short Videos</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/approved-visionary-voices-triumph-online/"><u>2024 Approved Visionary Voices Triumph Online</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-the-newest-nvidia-geforce-rtx-2080-drivers-compatible-with-windows-11-7-and-8/"><u>Download the Newest NVIDIA GeForce RTX 2080 Drivers Compatible with Windows 11, 7 & 8</u></a></li>
+<li><a href="https://win-able.techidaily.com/easy-steps-transforming-bmp-images-into-gif-format-quickly/"><u>Easy Steps: Transforming BMP Images Into GIF Format Quickly</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/harmonious-integration-of-geforce-7025-on-win11/"><u>Harmonious Integration of GeForce 7025 on Win11</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/in-2024-discover-the-ace-of-virtual-worlds-top-oculus-headsets/"><u>In 2024, Discover the Ace of Virtual Worlds Top Oculus Headsets</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/protecting-your-crypto-assets-comprehensive-tips-from-yl-softwares-tech-experts/"><u>Protecting Your Crypto Assets: Comprehensive Tips From YL Software's Tech Experts</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshoot-steamvr-problems-with-these-quicker-solutions/"><u>Troubleshoot SteamVR Problems with These Quicker Solutions</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: AirPods Pro 3 Unveiled as Smart Fitness Partners with Heart Monitoring Features | Expert Analysis at ZDNET
-date: 2024-12-09T17:52:54.957Z
-updated: 2024-12-13T23:52:19.315Z
+date: 2024-12-17T17:41:57.164Z
+updated: 2024-12-23T03:45:55.214Z
 tags:
   - apple
 categories:
@@ -41,7 +41,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Apple Watch
@@ -75,7 +75,7 @@ For example, the Apple Watch's thermometer, which is currently only [used for fe
 The company is also reportedly seeking health regulatory approval to interpret blood oxygen data. Right now, the Watch shows users oxygen blood data without telling them what it means. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## AirPods
@@ -91,7 +91,7 @@ According to the report, if all goes to plan, AirPods will be able to double as 
 Additionally, the AirPods will be able to perform hearing tests that are typically performed in an audiologist's office, which will make it simpler for users to access care without leaving their homes. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Vision Pro
@@ -140,20 +140,20 @@ Lastly, a headset version of Fitness+ might appear, so long as Apple can figure 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-beginners-guide-how-to-create-a-youtube-channel-and-make-money-for-2024/"><u>[New] Beginners’ Guide How To Create a YouTube Channel and Make Money for 2024</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-giggle-in-the-virtual-realm-how-to-create-your-own-hilarious-memes/"><u>[New] Giggle in the Virtual Realm How to Create Your Own Hilarious Memes</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-from-novice-to-notable-top-course-recommendations-for-youtubers-for-2024/"><u>[Updated] From Novice to Notable Top Course Recommendations for YouTubers for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-gaining-traction-on-youtube-the-successful-sponsorship-roadmap-by-famebit-for-2024/"><u>[Updated] Gaining Traction on YouTube The Successful Sponsorship Roadmap by FameBit for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-game-changing-screens-and-tvs-discover-the-best-for-your-xbox-series-x/"><u>[Updated] Game-Changing Screens & TVs - Discover the Best For Your Xbox Series X</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-harnessing-youtubes-power-for-personal-image-amplification-for-2024/"><u>[Updated] Harnessing YouTube's Power for Personal Image Amplification for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-finding-the-balance-adding-videos-to-text-on-a-budget/"><u>[Updated] In 2024, Finding the Balance Adding Videos to Text on a Budget</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-zero-to-hero-your-first-time-streaming-to-youtube/"><u>[Updated] In 2024, From Zero to Hero Your First Time Streaming to Youtube</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-guide-to-excellent-voice-recorders-for-macs/"><u>2024 Approved Guide to Excellent Voice Recorders for Macs</u></a></li>
-<li><a href="https://win-latest.techidaily.com/discover-who-facilitated-peace-the-signatories-of-the-1895-treaty-marking-japans-victory-over-china/"><u>Discover Who Facilitated Peace: The Signatories of the 1895 Treaty Marking Japan's Victory Over China</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-fix-steam-error-code-80/"><u>How to Fix Steam Error Code 80</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-honor-get-deleted-pictures-back-with-ease-and-safety-by-fonelab-android-recover-pictures/"><u>How to Honor Get Deleted Pictures Back with Ease and Safety?</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-detect-and-stop-mspy-from-spying-on-your-huawei-p60-drfone-by-drfone-virtual-android/"><u>In 2024, How to Detect and Stop mSpy from Spying on Your Huawei P60 | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/reinstall-your-drivers-with-device-manager-in-windows-11-by-drivereasy-guide/"><u>Reinstall your drivers with Device Manager in Windows 11</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/the-best-android-unlock-software-for-xiaomi-redmi-note-12r-device-top-5-picks-to-remove-android-locks-by-drfone-android/"><u>The Best Android Unlock Software For Xiaomi Redmi Note 12R Device Top 5 Picks to Remove Android Locks</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-2024-approved-from-novice-to-master-the-ultimate-periscope-handbook/"><u>[New] 2024 Approved From Novice to Master The Ultimate Periscope Handbook</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-fcps-ultimate-effect-upgrade-the-best-10-plugins/"><u>[Updated] 2024 Approved FCP’s Ultimate Effect Upgrade The Best 10 Plugins</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-2024-approved-sprint-through-photo-composition-googles-easy-way/"><u>[Updated] 2024 Approved Sprint Through Photo Composition - Google's Easy Way</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-realizing-potential-in-presentations-leveraging-webcams/"><u>[Updated] In 2024, Realizing Potential in Presentations Leveraging Webcams</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-unraveling-revenue-how-much-do-creators-make-on-youtube-adverts-for-2024/"><u>[Updated] Unraveling Revenue How Much Do Creators Make on Youtube Adverts for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/2024-pp/"><u>2024対応 - 今すぐ安心で無料音楽ダウンロード手順と最新スマホ用ダウンローダppガイド</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/comment-utiliser-les-applications-premium-pour-transformer-vos-extraits-youtube-en-fichiers-wav/"><u>Comment Utiliser Les Applications Premium Pour Transformer Vos Extraits YouTube en Fichiers WAV ?</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/comprehensive-troubleshooting-steps-rectifying-the-itunes-mystery-error-13014/"><u>Comprehensive Troubleshooting Steps: Rectifying the iTunes Mystery Error 13014</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/enjoy-bulk-mac-movie-conversion-at-zero-cost-premium-dvd-ripper-without-limits-or-marks/"><u>Enjoy Bulk Mac Movie Conversion at Zero Cost: Premium DVD Ripper without Limits or Marks</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/expert-guide-bypassing-copy-protection-on-dvds-with-dvdfab-and-comparable-solutions/"><u>Expert Guide: Bypassing Copy Protection on DVDs with DVDFab and Comparable Solutions</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/get-back-in-action-with-your-overwatch-game-solutions-to-rendering-device-has-been-lost-errors/"><u>Get Back in Action with Your Overwatch Game – Solutions to 'Rendering Device Has Been Lost' Errors</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/step-by-step-guide-converting-mkv-files-to-mpeg-format-using-your-imac/"><u>Step-by-Step Guide: Converting MKV Files to MPEG Format Using Your iMac</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/title-understanding-the-discrepancy-between-mpeg-4-and-mp4-formats-in-multimedia-content/"><u>Title: Understanding the Discrepancy Between MPEG-4 & MP4 Formats in Multimedia Content</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/unravel-the-secrets-to-sequential-video-viewing-no-charges-for-2024/"><u>Unravel the Secrets to Sequential Video Viewing (No Charges) for 2024</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-in-2024-how-to-create-a-dvd-from-your-favorite-videos-on-windows-and-mac/"><u>Updated In 2024, How to Create a DVD From Your Favorite Videos on Windows and Mac</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Energy Efficiency Improvements Across Various Sectors (Industry, Transportation, Buildings) Lower Overall Energy Consumption and Associated Emissions.
-date: 2024-12-10T23:43:10.236Z
-updated: 2024-12-13T17:16:03.754Z
+date: 2024-12-16T03:41:17.383Z
+updated: 2024-12-23T03:37:55.147Z
 tags:
   - apple
 categories:
@@ -39,7 +39,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Apple Intelligence (AI)
@@ -65,7 +65,7 @@ Maria Diaz/ZDNET
 * Apple Intelligence is free on iOS 18, iPadOS 18, and MacOS Sequoia, and will be available to try in English only this summer.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Partnership with OpenAI
@@ -108,6 +108,10 @@ Adam Breeden/ZDNET
 * **Check In** is available on Apple Watch, even during workouts, to help users stay safe. **Translate** is also coming to Apple Watch so users can translate text right from their wrists.
 * Another notable change is that the **double tap gesture** can be used to scroll through apps.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## iPadOS 18
 
 Adam Breeden/ZDNET
@@ -117,6 +121,10 @@ Adam Breeden/ZDNET
 * In a long-awaited release, iPads will now have a **[calculator app](https://www.zdnet.com/article/after-14-years-apple-expected-to-unveil-the-ipad-app-weve-all-been-waiting-for-at-wwdc/)** for the first time, complete with the same interface as the one currently found on iPhones. Plus, users can use it with the Apple Pencil through a new **Math Notes** experience, which allows users to write expressions that the calculator app will solve for them once they type the equal sign, in their own handwriting,
 * Handwriting in Notes also got an upgrade with **Smart** **Script**, which refines users' writing to make it more legible while keeping the authenticity of the user's handwriting style. The feature can also match copied and pasted text to the user's handwriting. Typed text was also enhanced, with five new highlight colors and the ability to toggle sections under headings or subheadings.
 * iPadOS 18 supports **screen-sharing via SharePlay** and the same Control Center customizations, Photos app upgrades, Safari updates, and emoji Tapbacks found in **iOS 18.**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## MacOS 15 (Sequoia)
 
@@ -128,10 +136,6 @@ Adam Breeden/ZDNET
 * **Video meetings** are also getting an upgrade, with new backgrounds and a preview experience that allows you to see what you are about to share before sharing it. This feature works with popular video conferencing applications such as FaceTime and Zoom.
 * The **AI summarization** tool will live in Safari to help users process content like web pages and articles more efficiently. Safari will also assist users in discovering more helpful information about a page they are browsing when relevant, such as directions.
 * Apple also launched a new **Viewer experience**, which does for video what Reader does for text.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## VisionOS 2
 
@@ -151,7 +155,7 @@ Jason Hiner/ZDNET
 * Apple is also making the Vision Pro available in more countries starting June 28\. You can see the full list [here](https://www.apple.com/newsroom/2024/06/apple-vision-pro-arrives-in-new-countries-and-regions-beginning-june-28/).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## AirPods
@@ -161,10 +165,6 @@ Jason Hiner/ZDNET
 * AirPods Pro are getting **Voice Isolation** to enhance call quality in noisier environments.
 * With the new **Siri Interactions**, users can now **nod or shake their head** "yes" or "no" when responding to Siri.
 * Apple is also releasing a **Personalized Spatial Audio API** for game developers to build around the AirPods' audio technology.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## tvOS 18
 
@@ -210,22 +210,24 @@ Screenshot by Nina Raemont/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-free-tribe-50-branding-banners-ready-to-unleash/"><u>[New] 2024 Approved Free Tribe 50 Branding Banners Ready to Unleash</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/new-a-step-by-step-roadmap-for-lasting-tiktok-account-loss/"><u>[New] A Step-by-Step Roadmap for Lasting TikTok Account Loss</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-giggles-in-a-gigabyte-10-hilarious-video-concepts-to-share-online-for-2024/"><u>[New] Giggles in a Gigabyte 10 Hilarious Video Concepts to Share Online for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-gaming-history-told-by-top-video-makers/"><u>[New] In 2024, Gaming History Told by Top Video Makers</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-launch-a-creative-vision-start-xps-moviemaker-suite/"><u>[New] Launch a Creative Vision, Start Xp’s Moviemaker Suite</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-faster-insights-slower-pace-balancing-youtube-playback-rate/"><u>[Updated] 2024 Approved Faster Insights, Slower Pace Balancing YouTube Playback Rate</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-transferring-youtube-shorts-from-pcandroid-or-ios/"><u>[Updated] 2024 Approved How-To Transferring YouTube Shorts From PC/Android or iOS</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-fixed-youtube-shorts-lacking-in-sight-for-2024/"><u>[Updated] Fixed YouTube Shorts Lacking in Sight for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-find-your-digital-companion-the-top-6-youtube-personality-puzzles/"><u>[Updated] In 2024, Find Your Digital Companion The Top 6 YouTube Personality Puzzles</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-hot-list-todays-youtube-sensations/"><u>[Updated] In 2024, Hot List Today's YouTube Sensations</u></a></li>
-<li><a href="https://fox-place.techidaily.com/dealing-with-audio-malfunctions-on-your-desktop-effective-solutions-by-yl-software-experts/"><u>Dealing with Audio Malfunctions on Your Desktop: Effective Solutions by YL Software Experts</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-sim-card-on-honor-x9a-online-without-jailbreak-by-drfone-android/"><u>How to Unlock SIM Card on Honor X9a online without jailbreak</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-8-solutions-to-fix-find-my-friends-location-not-available-on-htc-u23-drfone-by-drfone-virtual-android/"><u>In 2024, 8 Solutions to Fix Find My Friends Location Not Available On HTC U23 | Dr.fone</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/in-2024-the-cheapest-cloud-storage-service-for-mass-file/"><u>In 2024, The Cheapest Cloud Storage Service for Mass File</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/step-by-step-strategies-for-discord-video-streamers-for-2024/"><u>Step-By-Step Strategies for Discord Video Streamers for 2024</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/top-10-animation-software-for-bringing-photos-to-life/"><u>Top 10 Animation Software for Bringing Photos to Life</u></a></li>
-<li><a href="https://solve-hot.techidaily.com/1726030257633-vlc/"><u>VLCメディアプレーヤーによる動画編集: 簡単な切り取りとカット手順</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-in-2024-the-freshest-top-15-books-echoing-through-booktoks-halls/"><u>[New] In 2024, The Freshest Top 15 Books Echoing Through BookTok's Halls</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-understanding-youtubers-income-average-ad-revenues-per-play/"><u>[Updated] In 2024, Understanding Youtuber's Income Average Ad Revenues per Play?</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-securing-your-youtube-profile-a-guide/"><u>[Updated] Securing Your YouTube Profile A Guide</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-unleashing-fun-kinemaster-reviewed-for-android-devices/"><u>[Updated] Unleashing Fun KineMaster Reviewed for Android Devices</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/effortless-pdf-navigation-on-kindle-top-strategies-and-tips-revealed/"><u>Effortless PDF Navigation on Kindle: Top Strategies and Tips Revealed!</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/eliminate-pdf-drm-protection-unlocking-secure-files-with-easy-drm-extraction-tools/"><u>Eliminate PDF DRM Protection: Unlocking Secure Files with Easy DRM Extraction Tools</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/essential-edtech-software-revolutionize-study-habits-with-high-ranking-teaching-apps/"><u>Essential EdTech Software: Revolutionize Study Habits with High-Ranking Teaching Apps</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/essential-insights-mastering-the-kindle-kfx-format-for-effective-e-book-management/"><u>Essential Insights: Mastering the Kindle KFX Format for Effective E-Book Management</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/expert-guide-effective-strategies-to-secure-your-nook-books-a-2023-approach/"><u>Expert Guide: Effective Strategies to Secure Your Nook Books - A 2023 Approach</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/exploring-how-parallel-processes-enhance-efficiency-in-computing-systems/"><u>Exploring How Parallel Processes Enhance Efficiency in Computing Systems</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/find-answers-ask-any-question-and-receive-insights/"><u>Find Answers: Ask Any Question & Receive Insights</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/get-the-best-free-online-pdf-to-epub-converters-for-hassle-free-downloads-and-usage/"><u>Get the Best Free Online PDF-to-ePub Converters for Hassle-Free Downloads and Usage</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/guarantee-ebook-accessibility-remove-digital-rights-management-for-smooth-pc-reading-experience/"><u>Guarantee eBook Accessibility: Remove Digital Rights Management for Smooth PC Reading Experience</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-data-from-dead-iphone-8-plus-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to recover data from dead iPhone 8 Plus | Stellar</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/in-depth-review-the-stunning-oled-display-and-gameplay-experience-on-viewsonic-xg272-2k/"><u>In-Depth Review: The Stunning OLED Display and Gameplay Experience on ViewSonic XG272-2K</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/innovative-angles-shooting-vertical-smartphone-panos/"><u>Innovative Angles Shooting Vertical Smartphone Panos</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/resolved-issue-overcome-maplestory-starting-problems/"><u>Resolved Issue: Overcome MapleStory Starting Problems</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/your-guide-to-cost-free-android-screenshots-for-2024/"><u>Your Guide to Cost-Free Android Screenshots for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/your-nintendo-switch-wont-connect-to-the-internet-heres-what-to-do/"><u>Your Nintendo Switch Won't Connect to the Internet? Here's What to Do</u></a></li>
 </ul></div>
 

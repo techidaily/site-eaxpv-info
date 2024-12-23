@@ -1,7 +1,7 @@
 ---
 title: Unplanned Spending Alert! Navigating the Appeal of Apple's Discounted $17 USB-C EarPods on Prime Day – A Firsthand Account by a Savvy Shopper Exclusive
-date: 2024-12-10T23:31:16.574Z
-updated: 2024-12-13T20:54:19.312Z
+date: 2024-12-20T21:29:03.421Z
+updated: 2024-12-22T21:51:39.662Z
 tags:
   - apple
 categories:
@@ -32,7 +32,7 @@ Secondly, the microphone quality on Apple's wired EarPods is some of the best I'
 It should come as no surprise that I quickly bought another pair of USB-C [Apple EarPods](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FApple-EarPods-Headphones-Built-Control%2Fdp%2FB0CHXC5ZDX%3Fth%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ca6dc8bba-2259-4841-91ea-e1c02f1a6381%7Cdtp&dtb=1) when they finally went on sale this morning. You can bet I'll be bringing them along for more plane rides and commutes throughout the summer.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -71,14 +71,24 @@ Deals are subject to sell out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-hints.techidaily.com/new-cinematic-blackout-mastery-in-premiere/"><u>[New] Cinematic Blackout Mastery in Premiere</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/rofessional-youtubers-guide-studio-vs-next-generation-beta-for-2024/"><u>[New] Professional YouTuber's Guide Studio Vs. Next Generation Beta for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-gastronomic-genius-ideal-culinary-network-name-strategies-for-2024/"><u>[Updated] Gastronomic Genius Ideal Culinary Network Name Strategies for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-make-shorts-into-compact-mp4-files-for-2024/"><u>[Updated] How to Make Shorts Into Compact MP4 Files for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-stream-google-meet-to-youtube-step-by-step-guide-for-2024/"><u>[Updated] How To Stream Google Meet to YouTube [Step-by-Step Guide] for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-grandview-alliance-how-to-settle-on-a-cms/"><u>[Updated] In 2024, Grandview Alliance How to Settle on a CMS</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/online-jest-builder-for-2024/"><u>Online Jest Builder for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/overcoming-system-restore-challenges-in-windows-10-a-step-by-step-guide/"><u>Overcoming System Restore Challenges in Windows 10 - A Step-by-Step Guide</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/two-system-sync-fixes-remedying-the-absence-of-audio-on-your-dual-computer-setup/"><u>Two-System Sync Fixes: Remedying the Absence of Audio on Your Dual Computer Setup</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-enshrine-your-elite-playthroughs-in-galaxy-cases/"><u>[New] 2024 Approved Enshrine Your Elite Playthroughs in Galaxy Cases</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-mastering-aspect-ratios-for-youtube-videos-shorts-and-ads-guide/"><u>[New] 2024 Approved Mastering Aspect Ratios for YouTube Videos, Shorts & Ads Guide</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-elevate-your-content-youtube-thumbnail-artistry-on-mac-for-2024/"><u>[New] Elevate Your Content YouTube Thumbnail Artistry on Mac for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/aximizing-earnings-on-youtube-universal-device-accessibility-for-2024/"><u>[New] Maximizing Earnings on YouTube Universal Device Accessibility for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-what-is-a-parody-and-how-to-make-a-parody-video-for-2024/"><u>[New] What Is a Parody and How to Make a Parody Video for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-celebrating-matrimony-the-best-wedding-movies-from-youtube-to-vimeo/"><u>[Updated] 2024 Approved Celebrating Matrimony The Best Wedding Movies From YouTube to Vimeo</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-7-comedy-youtube-video-ideas-that-only-funny-people-are-allowed-to-try-for-2024/"><u>[Updated] 7 Comedy YouTube Video Ideas That Only Funny People Are Allowed to Try for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-leveraging-famebit-strategies-for-effective-youtube-sponsors/"><u>[Updated] Leveraging FameBit Strategies for Effective YouTube Sponsors</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-organizing-information-mastery-seamless-integration-of-chapters-in-youtube-videos/"><u>[Updated] Organizing Information Mastery Seamless Integration of Chapters in YouTube Videos</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-sharpen-your-content-for-unlimited-youtube-exposure/"><u>[Updated] Sharpen Your Content for Unlimited YouTube Exposure</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-youtube-content-management-for-instagram-profiles/"><u>[Updated] YouTube Content Management for Instagram Profiles</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-integrating-linktree-a-step-by-step-approach-to-tiktok-bio-enhancement/"><u>2024 Approved Integrating Linktree A Step-by-Step Approach to TikTok Bio Enhancement</u></a></li>
+<li><a href="https://howto.techidaily.com/8-solutions-to-solve-youtube-app-crashing-on-vivo-y36-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Solutions to Solve YouTube App Crashing on Vivo Y36 | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-can-i-bypass-a-forgotten-phone-password-of-htc-u23-by-drfone-android/"><u>In 2024, Can I Bypass a Forgotten Phone Password Of HTC U23?</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-methods-to-change-gps-location-on-honor-magic-6-drfone-by-drfone-virtual-android/"><u>In 2024, Methods to Change GPS Location On Honor Magic 6 | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/revive-your-phone-and-enhance-productivity-with-multiple-displays-plus-transcribe-songs-effortlessly-on-the-abbyy-platform/"><u>Revive Your Phone & Enhance Productivity with Multiple Displays + Transcribe Songs Effortlessly on the ABBYY Platform</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ltimate-guide-to-engaging-viewers-and-boosting-traffic-on-youtube/"><u>The Ultimate Guide to Engaging Viewers and Boosting Traffic on YouTube</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/understanding-youtubes-legal-framework-vs-cc-for-2024/"><u>Understanding YouTube's Legal Framework Vs. CC for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/winning-strategies-for-three-column-widget-configuration-on-win11/"><u>Winning Strategies for Three-Column Widget Configuration on Win11</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Act Now: Save Big with Our Top Choice of Nomad iPhone Cases - BOGO Offer on ZDNet"
-date: 2024-12-08T21:48:27.982Z
-updated: 2024-12-13T23:17:56.298Z
+date: 2024-12-16T20:16:33.127Z
+updated: 2024-12-22T23:01:07.482Z
 tags:
   - apple
 categories:
@@ -29,7 +29,7 @@ But even with all the [Apple Intelligence](https://www.zdnet.com/article/what-is
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. We need a clearer Apple Intelligence timeline
@@ -43,7 +43,7 @@ If you're looking to the iPhone 16 to get all the flashy AI features Apple showe
 Most of the more attractive features of Apple Intelligence that Apple showcased during [WWDC](https://www.zdnet.com/article/everything-apple-will-announce-at-wwdc-today-apple-intelligence-siri-ios-18-more/)in June are supposedly coming later in 2025, which is hardly a convincing factor to fork over more money for a new phone in September 2024\. If you're looking for features like Genmoji, Image Playground, and the [ChatGPT](https://www.zdnet.com/article/what-is-chatgpt-and-why-does-it-matter-heres-everything-you-need-to-know/) integration with Siri, you'll have to wait a few months.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Uncertainty around on-device performance
@@ -57,7 +57,7 @@ Many unknowns surround how Apple Intelligence features will perform on the [iPho
 Apple Intelligence requires at least 8GB of RAM and an A17 or M1 Apple silicon processor or newer. While the iPhone 16 lineup is expected to run on an A18 Bionic chip and between 8GB and 12GB of RAM across the four different models, concerns about how much strain the CPU will endure are valid. The new [AI capabilities can also overheat the iPhone and drain its battery quicker](https://www.zdnet.com/article/why-you-shouldnt-buy-the-iphone-16-for-apple-intelligence/), potentially reducing the device's lifecycle.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. The iPhone 16 is not enough of an upgrade on its own
@@ -79,7 +79,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 But, the iPhone 16's Apple Intelligence features (when they arrive) are undoubtedly modest compared to [ChatGPT with GPT-4o](https://www.zdnet.com/article/how-to-use-chatgpt/) and other AI tools available now. Other tools available now can do most of what Apple Intelligence promises; the difference is that the latter will run on-device and be personalized to the individual user. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. The iPhone 16 Pro is the same price as its predecessor… But is it worth it?
@@ -124,24 +124,20 @@ My Apple Intelligence-incompatible, lightning port-charging iPhone 14 Pro Max st
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-drive-audience-participation-through-custom-stories-queries/"><u>[New] Drive Audience Participation Through Custom Stories Queries</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-harness-the-power-of-youtube-video-for-stunning-gif-masterpieces/"><u>[New] In 2024, Harness the Power of YouTube Video for Stunning GIF Masterpieces</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-vision-to-visual-impact-youtube-trailers-via-filmora/"><u>[Updated] 2024 Approved From Vision to Visual Impact YouTube Trailers via Filmora</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-glamour-unleashed-comprehensive-youtube-guide-to-elegance-for-2024/"><u>[Updated] Glamour Unleashed Comprehensive YouTube Guide to Elegance for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-make-your-youtube-animated-subscribe-button-easily-with-filmora-for-2024/"><u>[Updated] How to Make Your YouTube Animated Subscribe Button Easily With Filmora for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-beginner-to-expert-choose-studio-or-beta/"><u>[Updated] In 2024, From Beginner to Expert Choose Studio or Beta</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-glam-rific-guide-to-hauls-and-hair-care/"><u>[Updated] In 2024, Glam-Rific Guide to Hauls and Hair Care</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-many-viewers-equates-to-profit-decoding-youtubes-earnings-formula/"><u>[Updated] In 2024, How Many Viewers Equates to Profit? Decoding YouTube's Earnings Formula</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-in-2024-ideal-titles-superior-blu-ray-players-for-free-and-paid-users/"><u>[Updated] In 2024, Ideal Titles Superior Blu-Ray Players for Free and Paid Users</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-transform-your-youtube-experience-with-bespoeid-shorts-thumbnails/"><u>[Updated] Transform Your YouTube Experience with Bespoeid Shorts Thumbnails</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-turning-pics-into-time-capsules-with-videos/"><u>[Updated] Turning Pics Into Time Capsules With Videos</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-unbeatable-video-popularity-tracker-in-youtube-arena/"><u>[Updated] Unbeatable Video Popularity Tracker in YouTube Arena</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/approved-top-12-video-grabber-online-to-download-any-video-you-like/"><u>2024 Approved Top 12 Video Grabber Online to Download Any Video You Like</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/augment-slides-with-sonic-enhancements/"><u>Augment Slides with Sonic Enhancements</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/bypassing-google-account-with-vnrom-bypass-for-poco-c55-by-drfone-android/"><u>Bypassing Google Account With vnROM Bypass For Poco C55</u></a></li>
-<li><a href="https://win-dash.techidaily.com/easy-tutorial-unlocking-the-power-of-group-policies-in-windows-11/"><u>Easy Tutorial: Unlocking the Power of Group Policies in Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/the-purely-in-os-cloning-methodology/"><u>The Purely In-OS Cloning Methodology</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/tune-into-unparalleled-music-video-watching-best-android-vids-for-you/"><u>Tune Into Unparalleled Music Video Watching Best Android Vids for You</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/unlock-creative-possibilities-create-images-with-ai-using-microsofts-bing-and-dall-e-3-at-no-cost/"><u>Unlock Creative Possibilities: Create Images with AI Using Microsoft's Bing and DALL-E 3 at No Cost</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-discover-variety-50-complimentary-youtube-banners-available-for-2024/"><u>[New] Discover Variety – 50 Complimentary YouTube Banners Available for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-how-to-watch-multiple-youtube-videos-at-one-time-for-2024/"><u>[New] How To Watch Multiple YouTube Videos at One Time for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-advanced-techniques-for-quieter-video-calls-on-skype/"><u>[New] In 2024, Advanced Techniques for Quieter Video Calls on Skype</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-direct-transition-from-youtube-to-instagram-reels/"><u>[Updated] 2024 Approved Direct Transition From YouTube to Instagram Reels</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-engaging-viewers-with-unique-square-videography-techniques/"><u>[Updated] Engaging Viewers with Unique Square Videography Techniques</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-harmonic-hits-top-rated-dj-template-downloads-for-2024/"><u>[Updated] Harmonic Hits Top-Rated DJ Template Downloads for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-step-by-step-techniques-for-recording-team-conversations/"><u>[Updated] In 2024, Step-by-Step Techniques for Recording Team Conversations</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-streamline-your-media-save-vimeo-to-mp4/"><u>[Updated] Streamline Your Media Save Vimeo to MP4</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-expert-techniques-for-navigating-popular-and-trending-youtube-reactions/"><u>2024 Approved Expert Techniques for Navigating Popular and Trending YouTube Reactions</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/2024-approved-youtube-shorts-profits-and-content-creator-payments/"><u>2024 Approved YouTube Shorts Profits & Content Creator Payments</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/optimal-video-techniques-to-dominate-freefire-vlogs-for-2024/"><u>Optimal Video Techniques to Dominate FreeFire Vlogs for 2024</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/seamless-guide-to-duplicating-your-hard-drive-on-windows-11-both-64-bit-and-32-bit/"><u>Seamless Guide to Duplicating Your Hard Drive on Windows 11 (Both 64-Bit and 32-Bit)</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/securing-stipends-by-scrutinizing-subscriptions-on-streaming-services-for-2024/"><u>Securing Stipends by Scrutinizing Subscriptions on Streaming Services for 2024</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-bring-your-ideas-to-life-top-cartoon-video-makers-for-mobile-for-2024/"><u>Updated Bring Your Ideas to Life Top Cartoon Video Makers for Mobile for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/wealthiest-webcast-wonders-for-2024/"><u>Wealthiest Webcast Wonders for 2024</u></a></li>
 </ul></div>
 

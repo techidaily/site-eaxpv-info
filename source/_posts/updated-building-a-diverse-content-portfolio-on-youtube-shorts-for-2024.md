@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Building a Diverse Content Portfolio on YouTube Shorts for 2024"
-date: 2024-08-20T12:56:43.687Z
-updated: 2024-08-21T12:56:43.687Z
+date: 2024-12-18T17:05:32.278Z
+updated: 2024-12-22T18:58:36.961Z
 tags:
   - ai video
   - ai youtube
@@ -30,18 +30,6 @@ Thus, the trend of vertical video exploded during the pandemic.
 
 **YouTube Shorts** is an infant feature that allows creators to upload short-form vertical videos to the platform, adding various TikTok-like enhancements, from colorful text to images to different music additions.
 
-<!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="1080" height="1620" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![filmora](https://images.wondershare.com/filmora/youtube-shortsu-fund.jpg)
 
 **YouTube Shorts F** **und** is identical related to YouTube Shorts. This is quite an interesting concept to study as it's associated with the vast platform.
@@ -55,6 +43,10 @@ Here we are going to introduce you how to make money on YouTube Shorts and some 
 * [**Part 3: How to Claim Bonus Payment from YouTube Shorts Fund?**](#part3)
 * [**Part 4: FAQs about YouTube Shorts Fund**](#part4)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 1: What's YouTube Shorts Fund?
 
 The **YouTube Shorts Fund** is a part of the YouTube Shorts monetization scheme. It's a $100M fund distributed throughout 2021 - 2022.
@@ -67,6 +59,10 @@ However, this YouTube Shorts Fund is generally not limited to just the YouTube P
 
 Moreover, YouTube kept sharing additional details as they got closer to the same concept.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### The Future of Monetization on Shorts
 
 As discussed earlier, the YouTube Shorts Fund is the first step in their journey to build YouTube Shorts, a monetization model.
@@ -76,8 +72,9 @@ Even YouTube is excited to begin rewarding creators for their contributions via 
 All in all, YouTube has helped an entire generation of artists and creators turn their creativity into businesses with the YouTube Shorts Fund. YouTube has paid $30 billion-plus money to artists, creators, artists, and media companies over the last three years. They remain deeply committed to supporting the next generation of mobile creators while introducing the YouTube Shorts Fund.
 
 <!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Part 2: How to Join/Apply for YouTube Shorts Fund?
 
 First, know that every creator on the platform is eligible to know the YouTube Shorts fund eligibility.
@@ -102,9 +99,6 @@ The best way you can create is to keep uploading excellent content. You can use 
 
 The YouTube Shorts Fund is an ideal opportunity for creators of all sizes to activate YouTube Shorts monetization.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Part 3: How to Claim Bonus Payment from YouTube Shorts Fund?
 
 To know how to claim YouTube Shorts Fund or bonus, you’re required to go through the following two steps:
@@ -119,8 +113,9 @@ It is worth defining that channels creating and publishing non-original content,
 In addition to the YouTube Shorts Fund, YouTube provides numerous other methods in which creators can earn more revenues from their YouTube content and build their businesses on the platform. These consist of merchandise, ads, YouTube BrandConnect, and channel memberships, among others.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Part 4: FAQs about YouTube Shorts Fund
 
 Here are some common questions about YouTube Shorts Fund for your reference.
@@ -147,9 +142,6 @@ A common reason behind this is that you do not hold the viewer's attention. The 
 
 Videos up to 60 seconds will show a trim editor. For videos longer than 60 seconds, you need to hit the **Edit** button into a Short video size to trim your video up to 60 seconds or less.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Conclusion
 
 If you have already created a short-form vertical video or have a YouTube channel, try Shorts out. It could be an excellent manner to activate YouTube Shorts fund monetization or build an income stream for your channel and a new subscriber base.
@@ -158,18 +150,17 @@ If you've never used YouTube before, that's an even great reason to give YouTube
 
 Most people probably wouldn't get attracted if any other company launched a new short-form vertical video platform. But because Shorts comes from a platform like YouTube — which has a long history of a massive audience, creator-friendly scenarios, and the power of Google backing it up — the new platform is a must-try for any video creator and creative individual. And, the addition of $100 million YouTube Shorts fund in financial support is a lot of delicious icing on the cake.
 
-<!-- affiliate ads begin -->
-<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Shanoon Cox
 
 Shanoon Cox is a writer and a lover of all things video.
 
 Follow @Shanoon Cox
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -178,5 +169,22 @@ Follow @Shanoon Cox
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-force-youtube-cc-to-stay-on-and-get-more-views/"><u>[New] 2024 Approved How to Force YouTube CC to Stay On and Get More Views</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-the-path-to-profitable-partnership-with-your-audience/"><u>[New] The Path to Profitable Partnership with Your Audience</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-unlock-youtubes-best-viewing-experience-with-ratios/"><u>[New] Unlock YouTube's Best Viewing Experience with Ratios</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-enhance-your-videos-effective-titles-and-keywords-on-youtube-for-2024/"><u>[Updated] Enhance Your Videos Effective Titles and Keywords on YouTube for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-from-raw-to-refined-your-guide-to-youtube-video-edits-for-2024/"><u>[Updated] From Raw to Refined Your Guide to YouTube Video Edits for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-navigating-through-non-displaying-thumbnails-on-your-shorts/"><u>[Updated] Navigating Through Non-Displaying Thumbnails on Your Shorts</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-unlock-the-potential-of-your-videos-with-profitable-advertising/"><u>[Updated] Unlock the Potential of Your Videos with Profitable Advertising</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/2024-approved-video-earnings-explored-in-depth-look-at-dm-and-yo/"><u>2024 Approved Video Earnings Explored In-Depth Look at Dm & Yo</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/2024s-top-rated-ipad-air-protectors-reviewed-by-professionals-zdnet-insight/"><u>2024'S Top-Rated iPad Air Protectors Reviewed by Professionals - ZDNet Insight</u></a></li>
+<li><a href="https://win-docs.techidaily.com/3usbwindows-10/"><u>3個有效的方式：如何在可啟動USB上將Windows 10複製</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/4-easy-ways-for-your-honor-x7b-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>4 Easy Ways for Your Honor X7b Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-the-best-8-vpn-hardware-devices-reviewed-on-sony-xperia-1-v-drfone-by-drfone-virtual-android/"><u>In 2024, The Best 8 VPN Hardware Devices Reviewed On Sony Xperia 1 V | Dr.fone</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/in-2024-ultimate-guide-to-vimeo-extractors-top-10-web-tools-reviewed/"><u>In 2024, Ultimate Guide to Vimeo Extractors Top 10 Web Tools Reviewed</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/top-6-strategies-to-rescue-an-error-ridden-email-blast-expert-advice-from-massmail-solutions/"><u>Top 6 Strategies to Rescue an Error-Ridden Email Blast: Expert Advice From Massmail Solutions</u></a></li>
+<li><a href="https://fake-location.techidaily.com/will-ispoofer-update-on-oppo-a78-5g-drfone-by-drfone-virtual-android/"><u>Will iSpoofer update On Oppo A78 5G | Dr.fone</u></a></li>
+</ul></div>
 

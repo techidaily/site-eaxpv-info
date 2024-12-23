@@ -1,7 +1,7 @@
 ---
 title: "Master Your iPad: Insider Tips & Key Settings Every Apple User Should Understand - ZDNet Explore"
-date: 2024-12-09T18:09:51.542Z
-updated: 2024-12-13T18:00:50.658Z
+date: 2024-12-20T01:23:02.335Z
+updated: 2024-12-22T22:28:55.122Z
 tags:
   - apple
 categories:
@@ -28,10 +28,6 @@ Never fear, dear reader. I've uncovered 10 settings you should adjust on your iP
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Customize your lock screen
 
 Max Buondonno/ZDNET
@@ -39,10 +35,6 @@ Max Buondonno/ZDNET
 In iPadOS 17, Apple added the ability to customize your iPad's lock screen, and it's one of the easiest ways to help the tablet reflect your personal style. You can alter the font, the wallpaper, and even add a few widgets to keep important information available at a glance. Personally, I have a nice serif font on my iPad with a weather widget and my to-do list, as well as an ocean background from Nomad (because I can't go a day without looking at the water).
 
 **How to:** Wake up your iPad, unlock it, then press and hold on the lock screen. If you've used an iPhone in the past, you know exactly what to do next. Tap the "Customize" button and begin tweaking the lock screen to your liking.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Configure your focus settings
 
@@ -63,7 +55,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 **How to**: Go to Settings > Focus on your iPad, and you'll find various options to set up a Focus mode for work, personal, fitness, mindfulness, and more. The interface will guide you through setting up your notification settings, which contacts can ping you, and more. Plus, once you've set it up, it'll sync automatically with your iPhone, Apple Watch, and Mac.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Turn on Stage Manager when you need more multitasking chops
@@ -77,10 +69,6 @@ You can customize the size of the window, bring up secondary apps in the same vi
 **Also:** [**The best iPad models: Expert tested**](https://www.zdnet.com/article/best-ipad/)
 
 **How to**: Swipe down on the top-right corner to access Control Center, then tap the Stage Manager button to activate it (it looks like a rectangle with three smaller rectangles next to it). Alternatively, you can go to Settings > Multitasking & Gestures and turn on Stage Manager from there. When you're done using it, you can choose either option to turn it off.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4\. Save your eyes at night with Night Shift
 
@@ -100,11 +88,19 @@ That's where Low Power Mode comes in. With Low Power Mode, your iPad will limit 
 
 **How to**: Swipe down from the top right corner to access Control Center, then tap the battery button to enable it. Your battery meter will then turn yellow, indicating that Low Power Mode is on. To disable it, follow the same steps.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 6\. Hide your notifications from prying eyes
 
 Sometimes, you just want to keep the contents of your iPad's notifications to yourself, whether for work reasons or if you're planning a surprise party for someone and they see the email confirming the delivery of their birthday cake. On the iPad, it's easy to lock away your notifications and only make them visible once you've used your fingerprint or face to log in.
 
 **How to**: Go to Settings > Notifications > Show Previews and change it from "Always" to "When Unlocked."
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 7\. Split or float your keyboard
 
@@ -120,6 +116,10 @@ If that's your bag, you can also shrink your keyboard and have it float on top o
 
 **How to float**: Open an app where the keyboard will pop up. Then, take two fingers and pinch the keyboard. This will cause it to shrink to iPhone-size. You can then drag it around the screen by touching and holding the gray bar on the bottom. When you want it to return to its normal size, just pinch outward on the keyboard.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 8\. Make sure your screen is refreshing as fast as possible
 
 Every iPad Pro since 2018 has supported what Apple calls ProMotion, which increases your display's refresh rate and makes everything -- scrolling, animations, multitasking, and more -- look smoother. It's one of those features that you don't realize you want until you have it, and then you can never go back. 
@@ -129,7 +129,7 @@ Of course, while the feature is enabled out of the box, there's always a chance 
 **How to**: Head over to Settings > Accessibility > Motion and ensure that "Limit Refresh Rate" _isn't_ enabled. If it is, your iPad's screen will remain locked to 60Hz, and who even uses 60Hz screens anymore?
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 9\. Tweak the Control Center
@@ -180,20 +180,21 @@ Using the TrueDepth cameras, Attention Awareness can keep tabs on when you're lo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-fine-tuning-focus-on-youtube-threads/"><u>[New] 2024 Approved Fine-Tuning Focus on YouTube Threads</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-say-no-to-youtube-ads-chrome-firefox-android-and-ios-tips/"><u>[New] 2024 Approved How to Say No to YouTube Ads Chrome, Firefox, Android & iOS Tips</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-the-art-of-crafting-an-engaging-facebook-biography-in-under-157-characters/"><u>[New] 2024 Approved The Art of Crafting an Engaging Facebook Biography in Under 157 Characters</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/new-conquer-chrome-multitasking-learn-to-utilize-pip-effectively/"><u>[New] Conquer Chrome Multitasking Learn to Utilize PIP Effectively</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-expert-gaming-techniques-mastering-switch-pro-controller-on-steam-for-2024/"><u>[New] Expert Gaming Techniques Mastering Switch Pro Controller on Steam for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-green-tech-enhance-ctas-with-eco-gear/"><u>[Updated] 2024 Approved Green Tech Enhance CTAs with Eco Gear</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-guiding-you-through-youtubes-view-limitations/"><u>[Updated] 2024 Approved Guiding You Through YouTube's View Limitations</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-use-chroma-keying-in-video-making/"><u>[Updated] 2024 Approved How to Use Chroma Keying in Video Making</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-from-beat-to-buzz-creating-impact-in-10-seconds-on-youtube-for-2024/"><u>[Updated] From Beat to Buzz Creating Impact in 10 Seconds on YouTube for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-how-to-remove-red-eye-from-photos-on-iphone-free/"><u>[Updated] How to Remove Red Eye From Photos on iPhone [Free]</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-freezing-points-to-inviting-landscapes/"><u>[Updated] In 2024, From Freezing Points to Inviting Landscapes</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/bypass-activation-lock-on-iphone-15-pro-4-easy-ways-by-drfone-ios/"><u>Bypass Activation Lock On iPhone 15 Pro - 4 Easy Ways</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/new-recording-voice-overs-like-a-pro-top-tips-for-final-cut-pro-users-for-2024/"><u>New Recording Voice Overs Like a Pro Top Tips for Final Cut Pro Users for 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/resolving-stubborn-freezes-tips-for-a-smooth-chrome-experience-on-windows-10/"><u>Resolving Stubborn Freezes: Tips for a Smooth Chrome Experience on Windows 10</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/step-by-step-fix-google-meet-mic-not-working-in-windows-1110-environments/"><u>Step-by-Step Fix: Google Meet Mic Not Working in Windows 11/10 Environments</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-boosting-youtube-traffic-perfecting-titles-and-tags-for-max-views/"><u>[New] In 2024, Boosting YouTube Traffic Perfecting Titles & Tags for Max Views</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-unveiling-the-best-10-video-call-apps-for-iphone-and-android-users/"><u>[New] In 2024, Unveiling the Best 10 Video Call Apps for iPhone and Android Users</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-seamless-cuts-with-m1-the-future-of-video-editing-unveiled-for-2024/"><u>[New] Seamless Cuts with M1 The Future of Video Editing Unveiled for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-unveiling-the-secrets-to-effective-macbook-air-screen-capture/"><u>[Updated] 2024 Approved Unveiling the Secrets to Effective MacBook Air Screen Capture</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-an-in-depth-look-at-video-apps-for-iphone-and-android-users-for-2024/"><u>[Updated] An In-Depth Look at Video Apps for iPhone & Android Users for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-crafting-intriguing-youtube-intros-without-spending-for-2024/"><u>[Updated] Crafting Intriguing YouTube Intros Without Spending for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-effortless-music-extraction-choose-the-right-apps-for-youtube-and-mp3/"><u>[Updated] In 2024, Effortless Music Extraction Choose the Right Apps for YouTube & MP3</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/2024-approved-youtubes-top-5-apps-that-trim-your-long-video-links-down/"><u>2024 Approved Youtube’s Top 5 Apps That Trim Your Long Video Links Down</u></a></li>
+<li><a href="https://dvd-bd.techidaily.com/4k-720p1080p/"><u>免費提供的最好4K影片转换工具 - 可高清转720P/1080P和相反</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/cookiebot-driven-solutions-enhance-your-websites-engagement/"><u>Cookiebot-Driven Solutions Enhance Your Website's Engagement</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/1722711118624-gather-primary-and-secondary-data/"><u>Gather Primary and Secondary Data:</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-bypass-android-lock-screen-using-emergency-call-on-motorola-by-drfone-android/"><u>In 2024, How to Bypass Android Lock Screen Using Emergency Call On Motorola?</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-to-use-pokemon-go-joystick-on-honor-x50iplus-drfone-by-drfone-virtual-android/"><u>In 2024, How to use Pokemon Go Joystick on Honor X50i+? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-photos-from-honor-play-7t-by-fonelab-android-recover-photos/"><u>Possible solutions to restore deleted photos from Honor Play 7T.</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/tactics-to-expose-youtubes-well-guarded-videotapes-for-2024/"><u>Tactics to Expose YouTube's Well-Guarded Videotapes for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/top-4-free-tools-for-youtube-audio-conversion-to-wav-for-2024/"><u>Top 4 Free Tools for YouTube Audio Conversion to WAV for 2024</u></a></li>
 </ul></div>
 

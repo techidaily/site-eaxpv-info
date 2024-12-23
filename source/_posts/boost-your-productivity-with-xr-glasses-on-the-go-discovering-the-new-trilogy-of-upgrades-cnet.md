@@ -1,7 +1,7 @@
 ---
 title: "Boost Your Productivity with XR Glasses On-the-Go: Discovering the New Trilogy of Upgrades | CNET"
-date: 2024-12-11T23:27:18.584Z
-updated: 2024-12-13T17:06:48.854Z
+date: 2024-12-16T17:18:31.168Z
+updated: 2024-12-22T19:33:33.177Z
 tags:
   - apple
 categories:
@@ -21,7 +21,7 @@ Matthew Miller/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -85,7 +85,7 @@ Along with the [Viture Pro XR glasses](https://buy.geni.us/Proxy.ashx?TSID=36825
 Lastly, Viture announced a new limited-edition controller in partnership with 8BitDo. You can connect this new controller, with a classic XBox-style controller layout, via Bluetooth to your gaming device, including the Nintendo Switch. The smokey translucent design looks cool and matches the Viture ecosystem. The 8BitDo controller also serves as a companion to the Viture Neckband, but I have yet to try out the Neckband, so I cannot share my experiences with that accessory.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -122,22 +122,24 @@ The [Viture Pro XR glasses](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-first-to-last-your-guide-to-youtube-video-looping-101/"><u>[New] 2024 Approved From First to Last Your Guide to YouTube Video Looping 101</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-free-image-savers-optimizing-video-graphics-for-2024/"><u>[New] FREE Image Savers Optimizing Video Graphics for 2024</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-practical-methods-for-capturing-vimeo-media/"><u>[New] In 2024, Practical Methods for Capturing Vimeo Media</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-launch-your-first-sporty-video-channel-on-apple-systems/"><u>[Updated] 2024 Approved How to Launch Your First Sporty Video Channel on Apple Systems</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-from-beginners-to-pros-choosing-webcams-for-youtube-live-for-2024/"><u>[Updated] From Beginners to Pros Choosing Webcams for YouTube Live for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-from-streams-to-statements-decoding-the-3-step-process-for-calculating-youtube-earnings-for-2024/"><u>[Updated] From Streams to Statements Decoding the 3-Step Process for Calculating YouTube Earnings for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-activate-or-deactivate-video-commenting-in-youtube-for-2024/"><u>[Updated] How To Activate or Deactivate Video Commenting in YouTube for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-sculpt-the-perfect-youtube-moniker-tips-and-tricks-for-2024/"><u>[Updated] How to Sculpt the Perfect YouTube Moniker Tips & Tricks for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-sony-vegas-transforms-ordinary-footage-into-youtube-stardom/"><u>[Updated] In 2024, How Sony Vegas Transforms Ordinary Footage Into YouTube Stardom</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-choosing-between-obs-and-streamlabs-for-broadcast-excellence/"><u>2024 Approved Choosing Between OBS and Streamlabs for Broadcast Excellence</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/advanced-gadget-analysis-by-toms-computing-hub/"><u>Advanced Gadget Analysis by Tom's Computing Hub</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/1142781-9780857010056-chen/"><u>Chen | Free Book</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-do-you-remove-restricted-mode-on-iphone-15-plus-drfone-by-drfone-ios/"><u>In 2024, How Do You Remove Restricted Mode on iPhone 15 Plus | Dr.fone</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/24-revamp-your-channels-image-amplify-your-subscription-count/"><u>In 2024, Revamp Your Channel's Image, Amplify Your Subscription Count</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/in-2024-unpacking-magix-video-editor-features/"><u>In 2024, Unpacking MAGIX Video Editor Features</u></a></li>
-<li><a href="https://win-manuals.techidaily.com/move-startpartition-to-a-new-hard-drive-on-windows-7-three-effective-methods/"><u>Move Startpartition to a New Hard Drive on Windows 7 - Three Effective Methods</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/uniting-content-creators-microphones-that-speak-to-every-yt-style-and-genre-for-2024/"><u>Uniting Content Creators Microphones That Speak to Every YT Style and Genre for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-charisma-in-characters-two-ways-to-enliven-text/"><u>[New] 2024 Approved Charisma in Characters Two Ways to Enliven Text</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-chuckling-challenge-brainstroming-7-humorous-youtube-videos-for-2024/"><u>[New] Chuckling Challenge Brainstroming 7 Humorous YouTube Videos for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-get-back-to-pure-content-how-to-block-youtube-ads-on-all-devices/"><u>[New] In 2024, Get Back to Pure Content How to Block YouTube Ads on All Devices</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-learning-leaders-most-influential-edu-tutorials-yt/"><u>[New] Learning Leaders Most Influential Edu Tutorials YT</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-sky-high-explorations-made-simple-a-compreenasive-review-of-dji-sparks-miniature-drone-design/"><u>[New] Sky High Explorations Made Simple A Compreenasive Review of DJI Spark's Miniature Drone Design</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-the-ultimate-guide-to-likes-strategies-for-captivating-tiktok-unboxers-for-2024/"><u>[New] The Ultimate Guide to Likes Strategies for Captivating TikTok Unboxers for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-graph-gala-2017-an-illuminated-expedition-into-yt-data/"><u>[Updated] 2024 Approved Graph Gala 2017 An Illuminated Expedition Into YT Data</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-exclusive-resource-hub-downloadable-templates-for-youtubers-for-2024/"><u>[Updated] Exclusive Resource Hub - Downloadable Templates for YouTubers for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-creating-stunning-instagram-profile-screenshots/"><u>[Updated] In 2024, Creating Stunning Instagram Profile Screenshots</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-screen-it-right-best-free-apps-for-mac-and-windows-recording/"><u>[Updated] Screen It Right! Best Free Apps for Mac and Windows Recording</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-standardized-youtube-images-made-accessible-3-easy-ways-to-download/"><u>[Updated] Standardized YouTube Images Made Accessible 3 Easy Ways to Download</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-the-steps-to-ensure-continuous-auto-play-for-fb-content-for-2024/"><u>[Updated] The Steps to Ensure Continuous Auto-Play for FB Content for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-youtube-subscriber-chart-the-5-most-subscribed-youtube-channels/"><u>[Updated] YouTube Subscriber Chart - The 5 Most Subscribed YouTube Channels</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/2024-approved-easily-enable-offline-access-to-youtube-on-iphoneipad/"><u>2024 Approved Easily Enable Offline Access to YouTube on iPhone/iPad</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/2024-approved-video-creator-hub/"><u>2024 Approved Video Creator Hub</u></a></li>
+<li><a href="https://fake-location.techidaily.com/fake-the-location-to-get-around-the-mlb-blackouts-on-infinix-note-30-vip-drfone-by-drfone-virtual-android/"><u>Fake the Location to Get Around the MLB Blackouts on Infinix Note 30 VIP | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-revive-your-bricked-poco-c50-in-minutes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Revive Your Bricked Poco C50 in Minutes | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-ispoofer-is-not-working-on-vivo-y36-fixed-drfone-by-drfone-virtual-android/"><u>In 2024, iSpoofer is not working On Vivo Y36? Fixed | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solving-charging-issues-for-windows-surface-pcs-quick-tips-and-tricks/"><u>Solving Charging Issues for Windows Surface PCs – Quick Tips & Tricks</u></a></li>
 </ul></div>
 

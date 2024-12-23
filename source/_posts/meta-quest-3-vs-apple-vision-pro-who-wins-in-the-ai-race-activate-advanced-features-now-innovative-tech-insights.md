@@ -1,7 +1,7 @@
 ---
 title: "Meta Quest 3 Vs. Apple Vision Pro: Who Wins in the AI Race? Activate Advanced Features Now | Innovative Tech Insights"
-date: 2024-12-09T16:15:49.610Z
-updated: 2024-12-14T00:47:10.349Z
+date: 2024-12-17T02:57:19.427Z
+updated: 2024-12-22T18:02:01.075Z
 tags:
   - apple
 categories:
@@ -37,7 +37,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The cost of GPU processing
@@ -49,7 +49,7 @@ Advanced AI features require substantial computational power, typically provided
 Even [major AI service providers](https://www.zdnet.com/article/best-ai-chatbot/) such as OpenAI, Microsoft, and Google encounter challenges in offering dependable and quick access to LLM and Generative AI models to the general public without downtime and overcommitting resources. The shortage and cost of GPU-enabled servers make these issues worse. To maintain the rapid response times expected by its customers, Apple will need to invest substantially in servers, data centers, and edge infrastructure -- an infrastructure level it likely does not currently possess.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Apple's approach to Private Cloud Compute (PCC)
@@ -61,7 +61,7 @@ For the initial rollout of Apple Intelligence, the company has chosen a hybrid a
 Apple is currently focused on rolling out its [Generative AI services](https://www.zdnet.com/article/apple-unveils-on-device-ai-image-generator-for-iphone-ipad-and-mac/) to high-end devices as part of the initial phase of Apple Intelligence deployment. This allows Apple to enhance its AI capabilities and infrastructure before expanding to a wider range of devices. To bring Apple Intelligence to the rest of its ecosystem, the company will likely deploy AI-accelerated server appliances at the edge, enabling less capable devices to benefit from advanced AI features. However, this infrastructure is not yet ready for large-scale deployment, as Apple's shift towards AI development is still recent.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The challenges of edge computing
@@ -75,7 +75,7 @@ While NVIDIA is a major player in the GPU server space, others include tradition
 As reported by _The Register_, Apple is [developing its own AI servers](https://www.theregister.com/2024/06/11/apple%5Fbuilt%5Fai%5Fcloud%5Fservers%5Fos/), which are expected to be more cost-effective and better integrated with its ecosystem. These servers are currently being tested in data centers for foundation model use, and a broader rollout is anticipated in 2025\. This phased approach ensures Apple can maintain high privacy, security, and user experience standards while gradually expanding its AI capabilities across its device lineup.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Broader implications for IoT and other devices
@@ -120,20 +120,20 @@ As Apple continues developing its AI infrastructure, including potential edge co
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-flv-video-unification-techniques/"><u>[New] 2024 Approved FLV Video Unification Techniques</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-captivate-audience-attention-with-your-yt-shorts/"><u>[New] 2024 Approved How to Captivate Audience Attention with Your YT Shorts</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/new-best-online-radio-stations-worldwide/"><u>[New] Best Online Radio Stations Worldwide</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/new-comparing-nikon-d7500-and-mirrorless-rivals/"><u>[New] Comparing Nikon D7500 and Mirrorless Rivals</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-harnessing-youtube-statistics-to-increase-subscribers/"><u>[New] In 2024, Harnessing YouTube Statistics to Increase Subscribers</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-instantly-design-custom-coverage-for-your-short-videos/"><u>[New] In 2024, How To Instantly Design Custom Coverage For Your Short Videos</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-transcribe-a-youtube-video-for-free/"><u>[New] In 2024, How to Transcribe a YouTube Video for FREE</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-free-windows-programs-expertly-record-live-shows/"><u>[Updated] 2024 Approved Free Windows Programs Expertly Record Live Shows</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-host-smart-and-cheap-your-guide-to-youtube-seminars/"><u>[Updated] 2024 Approved Host Smart and Cheap Your Guide to Youtube Seminars</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-detailed-guide-to-screen-record-skype-via-obs/"><u>[Updated] Detailed Guide to Screen Record Skype via OBS</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/must-watch-10-unique-igtv-content-formats-for-brands/"><u>Must-Watch 10 Unique IGTV Content Formats for Brands</u></a></li>
-<li><a href="https://win-comparisons.techidaily.com/next-gen-law-practice-boost-how-microsoft-copilot-enhances-singapores-legal-tech-infrastructure-zdnet/"><u>Next-Gen Law Practice Boost: How Microsoft Copilot Enhances Singapore's Legal Tech Infrastructure | ZDNet</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/playstation-5-slim-coming-soon-check-out-latest-news-price-forecasts-and-release-schedule-insights/"><u>PlayStation 5 Slim Coming Soon? Check Out Latest News, Price Forecasts & Release Schedule Insights</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/ultimate-solutions-how-to-restore-audio-on-your-toshiba-laptop/"><u>Ultimate Solutions: How to Restore Audio on Your Toshiba Laptop</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/unparalleled-narratives-yt-channels-worth-watching-in-23-for-2024/"><u>Unparalleled Narratives YT Channels Worth Watching in '23 for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-best-video-apps-review-youtube-iphones-and-androids/"><u>[New] 2024 Approved Best Video Apps Review YouTube iPhones & Androids</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-easy-ways-to-make-a-great-educational-video-for-youtube/"><u>[New] 2024 Approved Easy Ways to Make a Great Educational Video for YouTube</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-get-started-with-youtube-video-ad-building-without-spending/"><u>[New] 2024 Approved Get Started with YouTube Video Ad Building Without Spending</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-effortless-income-estimations-for-youtubers-for-2024/"><u>[New] Effortless Income Estimations for YouTubers for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-pixels-musical-ensemble-unveiled-online/"><u>[New] Pixel's Musical Ensemble Unveiled Online</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-soundscapes-in-stories-instagram-video-techniques/"><u>[New] Soundscapes in Stories Instagram Video Techniques</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-taking-the-first-step-on-youtube-account-setup/"><u>[Updated] Taking The First Step on YouTube Account Setup</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-tips-for-effective-youtube-end-screen-usage/"><u>[Updated] Tips for Effective YouTube End Screen Usage</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2024-approved-top-10-viral-music-videos-on-social-media/"><u>2024 Approved Top 10 Viral Music Videos on Social Media</u></a></li>
+<li><a href="https://driver-download.techidaily.com/download-and-update-your-surface-device-drivers-with-simple-steps/"><u>Download & Update Your Surface Device Drivers with Simple Steps</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-ultimate-guide-to-online-portals-for-text-artistry/"><u>In 2024, Ultimate Guide to Online Portals for Text Artistry</u></a></li>
+<li><a href="https://ai-video.techidaily.com/new-2024-approved-unlocking-global-audiences-top-video-language-converters/"><u>New 2024 Approved Unlocking Global Audiences Top Video Language Converters</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-ultimate-viewing-guide-watching-x-men-films-chronologically/"><u>The Ultimate Viewing Guide: Watching X-Men Films Chronologically</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tips-to-extract-cortana-data-on-a-windows-system/"><u>Tips to Extract Cortana Data on a Windows System</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/youtube-unearthing-the-obscured-videotapes-for-2024/"><u>YouTube Unearthing the Obscured Videotapes for 2024</u></a></li>
 </ul></div>
 

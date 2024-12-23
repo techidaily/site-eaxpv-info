@@ -1,7 +1,7 @@
 ---
 title: Discover the Latest Innovations! Uncover New Developments in iPhone, iPad, and Mac Tech Including Artificial Intelligence Coming This Fall as Reported by ZDNET
-date: 2024-12-11T19:09:50.946Z
-updated: 2024-12-13T19:29:47.147Z
+date: 2024-12-18T01:51:01.196Z
+updated: 2024-12-22T19:17:30.994Z
 tags:
   - apple
 categories:
@@ -38,10 +38,6 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Apple Intelligence (AI)
 
 Maria Diaz/ZDNET
@@ -64,10 +60,6 @@ Maria Diaz/ZDNET
 * In the Notes app, users can **record and transcribe audio**, which Apple Intelligence will generate a text summary of. This experience is also available in the Notes phone app.
 * Apple Intelligence is free on iOS 18, iPadOS 18, and MacOS Sequoia, and will be available to try in English only this summer.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Partnership with OpenAI
 
 Jason Hiner/ZDNET
@@ -75,6 +67,10 @@ Jason Hiner/ZDNET
 * Apple also confirmed its partnership with OpenAI by integrating [ChatGPT](https://www.zdnet.com/article/what-is-chatgpt-and-why-does-it-matter-heres-everything-you-need-to-know/) with Siri. With a user's permission, Siri can send a request to ChatGPT for help. For example, if you ask Siri for assistance on a task it deems better for ChatGPT, Siri will suggest you use the chatbot instead and forward your request. ChatGPT's writing capabilities can also be leveraged within certain writing tasks.
 * Users can access ChatGPT via this integration for free, and OpenAI will not log their data. ChatGPT Plus users can connect their subscriptions to access more advanced features, in which case OpenAI's data usage policies apply.
 * The ChatGPT integration will be coming to iOS 18, iPadOS 18, and MacOS Sequoia later this year.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## iOS 18
 
@@ -108,6 +104,10 @@ Adam Breeden/ZDNET
 * **Check In** is available on Apple Watch, even during workouts, to help users stay safe. **Translate** is also coming to Apple Watch so users can translate text right from their wrists.
 * Another notable change is that the **double tap gesture** can be used to scroll through apps.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## iPadOS 18
 
 Adam Breeden/ZDNET
@@ -119,7 +119,7 @@ Adam Breeden/ZDNET
 * iPadOS 18 supports **screen-sharing via SharePlay** and the same Control Center customizations, Photos app upgrades, Safari updates, and emoji Tapbacks found in **iOS 18.**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## MacOS 15 (Sequoia)
@@ -132,10 +132,6 @@ Adam Breeden/ZDNET
 * **Video meetings** are also getting an upgrade, with new backgrounds and a preview experience that allows you to see what you are about to share before sharing it. This feature works with popular video conferencing applications such as FaceTime and Zoom.
 * The **AI summarization** tool will live in Safari to help users process content like web pages and articles more efficiently. Safari will also assist users in discovering more helpful information about a page they are browsing when relevant, such as directions.
 * Apple also launched a new **Viewer experience**, which does for video what Reader does for text.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## VisionOS 2
 
@@ -154,6 +150,10 @@ Jason Hiner/ZDNET
 * Users can **cast content** from their iPhone, iPad, or Mac to the Vision Pro using AirPlay.
 * Apple is also making the Vision Pro available in more countries starting June 28\. You can see the full list [here](https://www.apple.com/newsroom/2024/06/apple-vision-pro-arrives-in-new-countries-and-regions-beginning-june-28/).
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## AirPods
 
 Jason Hiner/ZDNET
@@ -163,7 +163,7 @@ Jason Hiner/ZDNET
 * Apple is also releasing a **Personalized Spatial Audio API** for game developers to build around the AirPods' audio technology.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## tvOS 18
@@ -210,24 +210,18 @@ Screenshot by Nina Raemont/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-essential-8-websites-fusing-impressive-3d-and-opulent-texts/"><u>[New] 2024 Approved Essential 8 Websites Fusing Impressive 3D & Opulent Texts</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-finding-the-middle-ground-working-and-youtube/"><u>[New] 2024 Approved Finding the Middle Ground Working & YouTube</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-instagram-glimpses-identifying-who-sees-your-pics/"><u>[New] 2024 Approved Instagram Glimpses Identifying Who Sees Your Pics</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-from-scripts-to-screen-making-youtube-splits-for-2024/"><u>[New] From Scripts to Screen Making YouTube Splits for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-hacks-for-preventing-youtube-short-failures/"><u>[New] In 2024, Hacks for Preventing YouTube Short Failures</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-convert-youtube-to-mp3-without-compromising-security-3-tips/"><u>[New] In 2024, How to Convert YouTube to MP3 Without Compromising Security - 3 Tips</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-2024-approved-discover-the-leading-livestream-service-sites/"><u>[Updated] 2024 Approved Discover the Leading Livestream Service Sites</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-filmmakers-lounge-app/"><u>[Updated] 2024 Approved Filmmaker's Lounge App</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-growth-in-focus-building-a-foundation-of-youtube-backlinks/"><u>[Updated] 2024 Approved Growth in Focus Building a Foundation of YouTube Backlinks</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-hash-tags-that-catapult-you-to-6k-views-on-youtube/"><u>[Updated] 2024 Approved Hash Tags That Catapult You to 6K Views on YouTube</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-make-a-great-educational-video-for-youtube/"><u>[Updated] 2024 Approved How to Make a Great Educational Video for YouTube?</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-profit-from-youtube-shorts-key-requirements-and-possible-returns/"><u>[Updated] 2024 Approved How to Profit From YouTube Shorts Key Requirements & Possible Returns</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-smoothly-view-youtube-videos-without-borders/"><u>[Updated] In 2024, How to Smoothly View YouTube Videos without Borders?</u></a></li>
-<li><a href="https://fox-access.techidaily.com/2024-approved-discover-comprehensive-free-graphics-websites-today/"><u>2024 Approved Discover Comprehensive Free Graphics Websites Today</u></a></li>
-<li><a href="https://blog-min.techidaily.com/4-ways-to-transfer-music-from-motorola-moto-g84-5g-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>4 Ways to Transfer Music from Motorola Moto G84 5G to iPhone | Dr.fone</u></a></li>
-<li><a href="https://fox-links.techidaily.com/expertise-unlocked-converting-text-formats-to-voice-ready-srt/"><u>Expertise Unlocked Converting Text Formats to Voice-Ready SRT</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/securing-premium-image-on-zoom-via-strategic-filters-for-2024/"><u>Securing Premium Image on Zoom via Strategic Filters for 2024</u></a></li>
-<li><a href="https://location-social.techidaily.com/simple-and-effective-ways-to-change-your-country-on-youtube-app-of-your-xiaomi-redmi-13c-drfone-by-drfone-virtual-android/"><u>Simple and Effective Ways to Change Your Country on YouTube App Of your Xiaomi Redmi 13C | Dr.fone</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-the-best-of-both-worlds-top-10-free-and-paid-fcpx-plugins-for-every-editor/"><u>Updated The Best of Both Worlds Top 10 Free and Paid FCPX Plugins for Every Editor</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-how-to-add-timestamps-youtube-video-for-2024/"><u>[New] How to Add Timestamps YouTube Video for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-how-to-captivate-audience-attention-with-your-yt-shorts-for-2024/"><u>[New] How to Captivate Audience Attention with Your YT Shorts for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-in-2024-a-review-10-most-effective-methods-for-live-cricket-streaming/"><u>[New] In 2024, A Review 10 Most Effective Methods for Live Cricket Streaming</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-the-alchemy-of-animation-in-snapchat-videos/"><u>[New] In 2024, The Alchemy of Animation in Snapchat Videos</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-essential-tips-for-smooth-youtube-content-trimming/"><u>[Updated] In 2024, Essential Tips for Smooth YouTube Content Trimming</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-navigate-to-sites-where-you-can-procure-sponsorships-on-youtube/"><u>[Updated] Navigate to Sites Where You Can Procure Sponsorships on Youtube</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-revolutionizing-viewer-retention-on-youtube-with-these-powerful-strategies/"><u>[Updated] Revolutionizing Viewer Retention on YouTube with These Powerful Strategies</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-snap-and-share-pcmac-video-recording-for-youtube/"><u>[Updated] Snap & Share PC/Mac Video Recording for YouTube</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/cixin-p1-china-unveils-high-performance-45-teraops-ai-chip-meeting-industry-standards-begins-rollout/"><u>Cixin P1: China Unveils High-Performance, 45 TeraOps AI Chip Meeting Industry Standards – Begins Rollout</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/elevate-your-media-projects-the-cutting-edge-montage-tools-of-today-for-2024/"><u>Elevate Your Media Projects The Cutting-Edge Montage Tools of Today for 2024</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-use-device-manager-to-update-your-drivers-in-windows-10-and-7-by-drivereasy-guide/"><u>How to use Device Manager to update your drivers in Windows 10 and 7</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-evolution-of-language-models-introducing-palm-2-by-google/"><u>The Evolution of Language Models: Introducing PaLM 2 by Google</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-steps-to-stop-assassins-creed-odyssey-from-freezing-2024-edition/"><u>Troubleshooting Steps to Stop Assassin's Creed Odyssey From Freezing: 2024 Edition</u></a></li>
 </ul></div>
 

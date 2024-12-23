@@ -1,7 +1,7 @@
 ---
 title: 7 Instead of Jumping to Series 10 - Insights From ZDNet
-date: 2024-12-10T21:05:05.170Z
-updated: 2024-12-13T17:35:41.291Z
+date: 2024-12-17T01:40:34.851Z
+updated: 2024-12-22T17:36:35.377Z
 tags:
   - apple
 categories:
@@ -30,16 +30,12 @@ Here are the top reasons why we are (or aren't) upgrading to the iPhone 16 in th
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Here's why ZDNET editors will be upgrading to the iPhone 16
 
 Kerry Wan/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 1\. The camera
@@ -54,6 +50,10 @@ The Camera Control uses [Apple's Visual Intelligence](https://www.zdnet.com/arti
 
 "I have the biggest one-sided beef in the world with the iPhone 14\. I can give you material for years. Primarily because the camera is the worst thing I ever experienced on an iPhone. Even the base iPhone 16 model looks way better," Ortiz says.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 2\. Trade-in deals and carrier offers
 
 I told you we're really all just like you. Some ZDNET tech experts are ready to jump to the new iPhone 16 thanks to great carrier and trade-in offers on the models and are even more enthusiastic if they're ready for an upgrade. 
@@ -65,10 +65,6 @@ ZDNET contributor Ed Bott is planning to upgrade his iPhone 12 Pro Max for a new
 And if you're looking to change carriers, like managing editor Alison DeNisco Rayome, some of the trade-in offers make it hard to resist. "I still have the 13, and the trade-in deals are making it worth it for me to upgrade to the 16 (plus we want to switch carriers, so even better)," she says. 
 
 Verizon and T-Mobile have [similar offers](https://www.zdnet.com/article/how-to-preorder-the-new-iphone-16-and-get-one-free/) right now, and they're pretty sweet. At T-Mobile, new and existing customers can get a free iPhone 16 Pro with a trade-in on the Go5G Next plan, or up to $1,000 off on any iPhone 16 model. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 3\. For work
 
@@ -92,12 +88,16 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 ZDNET's Jason Perlow is bumping up for similar reasons. "I am upgrading from my 15 Pro Max to a 16 Pro Max because I am on the iPhone Upgrade Program, and as I cover developments with Apple, it is a business expense and \[ultimately\] it's trading one loan payment for another. No other reason, although the camera improvements seem nice. I debated skipping, but there wasn't much of a downside," he says. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Here's why ZDNET editors won't be upgrading to the iPhone 16
 
 Jason Hiner/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 1\. The Apple Intelligence features aren't perfect
@@ -111,7 +111,7 @@ Essentially, this is Apple's first iPhone marketed with an AI push, and like eve
 Jason Perlow is on the same page. "Let's not diminish the product for what it is: the iPhone 16 is undeniably great hardware. But unless you're using a old phone -- like my colleague [David Gewirtz's iPhone 12](https://www.zdnet.com/article/6-reasons-why-ios-18-makes-the-iphone-16-a-must-upgrade-for-me/), which is four generations behind -- you should strongly consider skipping this generation. Why? Because Apple Intelligence, while promising, is still in its infancy," Perlow wrote in one of his [recent pieces](https://www.zdnet.com/article/the-iphone-16-is-undeniably-great-hardware-but-you-should-still-probably-skip-it/). 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 2\. Not compelled enough to upgrade
@@ -168,14 +168,24 @@ The [iPhone 16 Pro](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&pa
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-2024-approved-earnings-enigma-the-revenue-of-a-youtuber/"><u>[New] 2024 Approved Earnings Enigma The Revenue of a YouTuber</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-graph-gala-2017-an-illuminated-expedition-into-yt-data/"><u>[New] 2024 Approved Graph Gala 2017 An Illuminated Expedition Into YT Data</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-conference-call-to-online-showcase-google-meet-on-youtube/"><u>[Updated] 2024 Approved From Conference Call to Online Showcase Google Meet on YouTube</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-hidden-to-highlighted-your-2-ways-to-see-yts-past-videos/"><u>[Updated] 2024 Approved From Hidden to Highlighted Your 2 Ways to See YT's Past Videos</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-in-search-of-perfection-the-top-10-live-streamers/"><u>[Updated] 2024 Approved In Search of Perfection The Top 10 Live Streamers</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-hashtag-mastery-enhancing-freefire-gameplay-videos-for-2024/"><u>[Updated] Hashtag Mastery Enhancing FreeFire Gameplay Videos for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/apple-integrates-advanced-image-recognition-in-iphone-16-mirroring-google-lens-functionality/"><u>Apple Integrates Advanced Image Recognition in iPhone 16, Mirroring Google Lens Functionality</u></a></li>
-<li><a href="https://games-able.techidaily.com/demystifying-deceptive-digital-game-hype-trailers/"><u>Demystifying Deceptive Digital Game Hype Trailers</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-mastering-photopeas-background-erase-technique/"><u>In 2024, Mastering Photopea's Background Erase Technique</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-globally-renowned-earning-content-creator-for-2024/"><u>[New] Globally Renowned Earning Content Creator for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-a-step-by-step-approach-to-mastering-free-youtube-video-transcription/"><u>[New] In 2024, A Step-by-Step Approach to Mastering Free YouTube Video Transcription</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-crafting-effective-youtube-thumbnails-and-banners/"><u>[New] In 2024, Crafting Effective YouTube Thumbnails & Banners</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-in-2024-superior-screen-quality-10-in-4ks/"><u>[New] In 2024, Superior Screen Quality – #10 in 4Ks</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-are-you-violating-copyright-by-screenrecording-youtube/"><u>[Updated] 2024 Approved Are You Violating Copyright by ScreenRecording YouTube?</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-dive-into-youtubes-best-practices-for-playlist-design/"><u>[Updated] 2024 Approved Dive Into Youtube's Best Practices for Playlist Design</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-making-every-minute-count-youtube-length-reduction-techniques/"><u>[Updated] Making Every Minute Count YouTube Length Reduction Techniques</u></a></li>
+<li><a href="https://win-latest.techidaily.com/1-how-to-transfer-sms-from-android-phone-to-windows-desktop-effortlessly/"><u>1. How to Transfer SMS From Android Phone to Windows Desktop Effortlessly</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-insights-into-whatsapp-sound-calls/"><u>2024 Approved Insights Into WhatsApp Sound Calls</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/30fps-versus-60fps-best-choice-for-clear-video-capture/"><u>30Fps versus 60Fps - Best Choice for Clear Video Capture</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/1728505350282-aomei-backupper/"><u>完美水印技巧：利用AOMEI Backupper處理映像檔進行注解</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/asus-notebook-drivers-free-download-and-update-instructions/"><u>ASUS Notebook Drivers: Free Download and Update Instructions</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/effective-strategies-for-handling-sporadic-misidentified-results-by-copernic/"><u>Effective Strategies for Handling Sporadic Misidentified Results by Copernic</u></a></li>
+<li><a href="https://article-posts.techidaily.com/in-2024-elevating-video-resolution-in-youtube/"><u>In 2024, Elevating Video Resolution in YouTube</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-send-and-fake-live-location-on-facebook-messenger-of-your-oppo-find-n3-drfone-by-drfone-virtual-android/"><u>In 2024, How to Send and Fake Live Location on Facebook Messenger Of your Oppo Find N3 | Dr.fone</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/ranking-10-must-see-history-youtube-channels-for-learners-for-2024/"><u>Ranking 10 Must-See History YouTube Channels for Learners for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/the-definitive-guide-to-youtubes-algorithmic-secrets-for-rankings-for-2024/"><u>The Definitive Guide to YouTube's Algorithmic Secrets for Rankings for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/the-insiders-trick-for-automatic-and-smooth-youtube-video-replays-for-2024/"><u>The Insider's Trick for Automatic and Smooth YouTube Video Replays for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/why-isnt-assassins-creed-valhalla-out-yet-answered/"><u>Why Isn't Assassin's Creed: Valhalla Out Yet? [Answered]</u></a></li>
 </ul></div>
 

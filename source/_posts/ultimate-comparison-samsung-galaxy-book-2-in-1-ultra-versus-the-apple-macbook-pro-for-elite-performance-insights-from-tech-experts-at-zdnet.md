@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Comparison: Samsung Galaxy Book 2-in-1 Ultra Versus the Apple MacBook Pro for Elite Performance - Insights From Tech Experts at ZDNet"
-date: 2024-12-10T22:27:30.270Z
-updated: 2024-12-14T00:33:17.858Z
+date: 2024-12-15T22:57:22.304Z
+updated: 2024-12-23T01:18:31.225Z
 tags:
   - apple
 categories:
@@ -43,17 +43,21 @@ We'll compare the specs of the [Galaxy Book 3 Ultra](https://shop-links.co/link/
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  You should buy Samsung's Galaxy Book 3 Ultra if...
 
 There are definitely some strong MacBook Pro vibes informing Samsung's aesthetic for this device.
 
 Samsung
 
-###  1\. You're committed to Samsung's ecosystem
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+###  1\. You're committed to Samsung's ecosystem
 
 ### Samsung Unpacked
 
@@ -66,7 +70,7 @@ Samsung realized this and included benefits like the options to use a [Galaxy Ta
 If you've already got a Galaxy smartphone or tablet, there are definitely practical benefits to functionality that you'll receive by opting for this model. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ###  2\. You expect to do any gaming
@@ -83,10 +87,6 @@ The other factor is Apple's switch to its own silicon. When Apple was using Inte
 
 [Buy Samsung's Galaxy Book 3 Ultra $2,199 at Samsung](https://shop-links.co/link/?url=https%3A%2F%2Fwww.samsung.com%2Fus%2Fcomputing%2Fgalaxy-book3-ultra%2Fbuy%2F&publisher_slug=itechdaily19598&exclusive=1)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  You should buy Apple's 16-inch M2-gen MacBook Pro if...
 
 The most recent, M2 Pro or Max-powered refresh of the venerable 16-inch MacBook Pro.
@@ -96,10 +96,6 @@ Apple
 ###  1\. You, or your family, are committed to Apple's ecosystem
 
 This is the other side of the coin. Apple was among the first, and might still be the best, at giving you reasons to stay locked into its ecosystem. On an individual level, this includes things like the ability to share screens and inputs across devices and tricks like [Continuity Camera, which lets you use your iPhone as an advanced webcam](https://www.zdnet.com/article/macos-ventura-how-to-use-your-iphone-as-a-webcam-with-continuity-camera/), or Apple's excellent cross-device messaging. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### See also
 
@@ -120,6 +116,10 @@ It's an issue that can chafe at times, but it's also one that has led many, myse
 
 Apple's M1 generation of chips was already more than enough power for most photo editors, and even a large chunk of video editors, including those working in 4K+ formats. Now, with the advent of M2 Pro and M2 Max options, the 16-inch MacBook Pro is like an entire production studio unto itself, especially when combined with the ample variety of RAM and storage configurations now available for both chips and a full-fledged HDMI port, as well as three DisplayPort-capable Thunderbolt ports. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ###  3\. You need a ton of RAM or storage
 
 The maximum amount of memory and storage you can configure a Galaxy Book 3 Ultra with are 32GB and 1TB, respectively. While these are plenty for the average user, a content creator might fill that storage quickly with 8K video, while the RAM limitation might strain processing times within their workflow. The MacBook Pro, however, can be configured with as much as 96GB of RAM and 8TB of storage. That's triple the memory and eight times the storage of its competitor. Of course, such a maxed-out beast would be expensive, but the option remains for the most demanding laptop users who actually need all of that memory and space. 
@@ -129,7 +129,7 @@ The maximum amount of memory and storage you can configure a Galaxy Book 3 Ultra
 [Buy the 16-inch Apple MacBook Pro $2,499 at Apple](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-mac%2Fmacbook-pro%2F16-inch&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Alternatives to consider
@@ -185,22 +185,24 @@ Absolutely must have a 16-inch laptop? Lenovo's ThinkPad Z16 is among the most p
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-essential-review-best-dynamic-capture-devices-for-2024/"><u>[New] Essential Review Best Dynamic Capture Devices for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-how-to-custom-your-youtube-channel-url-super-easy-for-2024/"><u>[New] How to Custom Your YouTube Channel URL – Super Easy for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-guide-to-make-your-shorts-thumbnail-pop-up/"><u>[New] In 2024, Guide to Make Your Shorts' Thumbnail Pop Up</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-fullscreen-partnership-how-to-choose-an-mcn/"><u>[Updated] 2024 Approved Fullscreen Partnership How to Choose An MCN</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-light-your-youtube-video/"><u>[Updated] 2024 Approved How To Light Your YouTube Video</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-from-youtube-streams-to-local-files-audio-guide-for-2024/"><u>[Updated] From YouTube Streams to Local Files Audio Guide for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-guide-to-idevice-based-youtube-content-sharing-for-2024/"><u>[Updated] Guide to iDevice-Based YouTube Content Sharing for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-harnessing-your-creative-potential-an-exhaustive-tutorial-for-youtube-video-submission-for-2024/"><u>[Updated] Harnessing Your Creative Potential An Exhaustive Tutorial for YouTube Video Submission for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-global-gross-earnings-of-youtube-luminaries/"><u>[Updated] In 2024, Global Gross Earnings of YouTube Luminaries</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-streamlined-techniques-for-discovering-highly-engaged-youtube-remarks/"><u>[Updated] Streamlined Techniques for Discovering Highly Engaged YouTube Remarks</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/bandicam-screen-recorder-review/"><u>Bandicam Screen Recorder Review</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/best-action-camera-gear-reviewed-by-hunters-for-2024/"><u>Best Action Camera Gear Reviewed by Hunters for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/conquering-export-errors-for-srt-in-premiere-pro-for-2024/"><u>Conquering Export Errors for SRT in Premiere Pro for 2024</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ting-fundamentals-a-comprehensive-online-course-by-youtube-experts/"><u>Directing Fundamentals A Comprehensive Online Course by YouTube Experts</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-eradicate-the-0x80072af9-error-on-pc/"><u>How to Eradicate the 0X80072AF9 Error on PC</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-cast-nokia-c02-to-computer-for-iphone-and-android-drfone-by-drfone-android/"><u>In 2024, How to Cast Nokia C02 to Computer for iPhone and Android? | Dr.fone</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/stunning-hd-wallpapers-and-backdrop-collections-spidermans-no-way-home-series-by-yl-software/"><u>Stunning HD Wallpapers & Backdrop Collections: Spiderman's 'No Way Home' Series by YL Software</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-channeling-creativity-get-green-screen-tips-from-youtube/"><u>[New] 2024 Approved Channeling Creativity Get Green Screen Tips From YouTube</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-2024-approved-exploring-the-best-converters-for-tiktok-graphics/"><u>[New] 2024 Approved Exploring the Best Converters for TikTok Graphics</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-diy-split-screen-video-tutorials-for-youtube-enthusiasts/"><u>[New] In 2024, DIY Split-Screen Video Tutorials for YouTube Enthusiasts</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-virality-to-value-ajays-playbook-for-profitable-content-creation/"><u>[New] In 2024, From Virality to Value Ajay’s Playbook for Profitable Content Creation</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-the-path-to-popularity-making-videos-go-viral/"><u>[New] The Path to Popularity Making Videos Go Viral</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-youtube-monetization-carryminati-ajey-nagar-youtube-income/"><u>[New] YouTube Monetization CarryMinati (Ajey Nagar) YouTube Income</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-youtube-soundwaves-flow-into-imovie-effortlessly/"><u>[New] YouTube Soundwaves Flow Into iMovie Effortlessly</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-channel-transformation-optimal-video-concepts-to-elevate-creativity/"><u>[Updated] 2024 Approved Channel Transformation Optimal Video Concepts to Elevate Creativity</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-aesthetic-alignment-for-online-glamour-content/"><u>[Updated] In 2024, Aesthetic Alignment for Online Glamour Content</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-elevate-your-daily-blog-key-practices-and-avoidance-tactics/"><u>[Updated] In 2024, Elevate Your Daily Blog Key Practices and Avoidance Tactics</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-formulating-final-fact-finding-flourishes/"><u>[Updated] In 2024, Formulating Final Fact-Finding Flourishes</u></a></li>
+<li><a href="https://fake-location.techidaily.com/best-10-mock-location-apps-worth-trying-on-samsung-galaxy-a25-5g-drfone-by-drfone-virtual-android/"><u>Best 10 Mock Location Apps Worth Trying On Samsung Galaxy A25 5G | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/early-warning-signs-of-rogue-chatgpt-services/"><u>Early Warning Signs of Rogue ChatGPT Services</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/full-guide-to-unlock-your-oneplus-11r-by-drfone-android/"><u>Full Guide to Unlock Your OnePlus 11R</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-your-samsung-galaxy-a24-location-on-life360-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>How to Change Your Samsung Galaxy A24 Location on life360 Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/live-the-microsoft-surface-and-windows-innovation-showcase-key-insights-and-anticipated-highlights-techzone/"><u>Live the Microsoft Surface & Windows Innovation Showcase: Key Insights & Anticipated Highlights | TechZone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/solving-the-issue-of-wrongly-identified-faces-within-apple-photos-application/"><u>Solving the Issue of Wrongly Identified Faces Within Apple Photos Application</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/super-bowl-ad-battles-overshadowed-by-apples-most-captivating-campaign-of-weekend-as-reported/"><u>Super Bowl Ad Battles Overshadowed by Apple's Most Captivating Campaign of Weekend, As Reported</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/unbiased-review-vn-video-editor-pros-features-and-performance-for-2024/"><u>Unbiased Review VN Video Editor Pros Features and Performance for 2024</u></a></li>
 </ul></div>
 
