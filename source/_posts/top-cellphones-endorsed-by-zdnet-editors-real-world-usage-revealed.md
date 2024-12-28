@@ -1,7 +1,7 @@
 ---
 title: "Top Cellphones Endorsed by ZDNet Editors: Real-World Usage Revealed"
-date: 2024-12-19T22:07:47.460Z
-updated: 2024-12-22T19:30:10.005Z
+date: 2024-12-27T16:14:02.622Z
+updated: 2024-12-28T16:24:05.573Z
 tags:
   - apple
 categories:
@@ -17,6 +17,10 @@ Curious about the favorite devices and phone buying habits of _ZDNet's_ tech rep
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
 
@@ -48,6 +52,10 @@ Cons
 
 ## iPhone 12 Pro
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Jason Cipriani and Simon Bisson
 
 **Jason Cipriani:** I've almost always used an iPhone as my daily driver, but the iPhone 12 lineup has solidified it for me. The camera with improved portrait mode thanks to the Lidar sensor and HDR video is truly impressive. And MagSafe, which I thought was a gimmick, has turned into a very useful feature for me. Between the Shortcuts app and HomeKit devices around the house, there's not much I can't do from my phone. 
@@ -72,10 +80,6 @@ Cons
 
 ## Samsung Galaxy S21 Ultra
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Steven J. Vaughan-Nichols and Charlie Osborne
 
 **Steven J. Vaughan-Nichols:** My Pixel 3 was starting to show its age, so I decided that since I was going to upgrade my phone, why not go for the gusto and get the top-of-the-line Samsung? So far, I'm glad I did. I love the 6.8-inch 120Hz Quad HD screen. The five cameras backed by a 108MP sensor and 10x optical zoom are insanely good. It also has 5G, which, at this point, isn't really that important on Verizon since I don't live next to a Verizon 5G UWB tower. What does matter to me is that it works well with my Samsung Galaxy Watch 3\. Samsung claimed early on that its watch would work well with other Android phones. It does but it doesn't come with all the health features. My only problem is the price: It lists for $1,199\. I didn't that pay that much, but I still paid a lot.
@@ -98,14 +102,10 @@ Pros
 Cons 
 * Long battery life Strong performance The camera is very impressive
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## iPhone 12 Pro Max
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Matthew Miller
@@ -172,7 +172,15 @@ Cons
 
 Show Expert Take Show less 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Ulefone Armor 9
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Adrian Kingsley-Hughes
 
@@ -187,10 +195,6 @@ Pros
 
 Cons 
 * Strong battery life Good performance More affordable
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Google Pixel 2
 
@@ -224,6 +228,10 @@ Pros
 Cons 
 * Excellent photo quality Cool color options Long battery life Loud stereo speakers Wireless charging support
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## iPhone XR
 
 ### Damian Radcliffe, Angelica Mari, and Sean Portnoy
@@ -246,13 +254,21 @@ Cons
 
 Show Expert Take Show less 
 
-###   
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ###   
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+###   
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## iPhone X
 
@@ -282,14 +298,10 @@ I've always used iPhones. Started with the iPhone 3, and never strayed. I refuse
 
 Show Expert Take Show less 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## iPhone 7 Plus
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Tiernan Ray
@@ -322,15 +334,7 @@ Yes, I am indeed still clinging to the phone that made me love phablets, upgrade
 
 Show less 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Samsung Galaxy Note 8
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Charles McLellan
 
@@ -339,10 +343,6 @@ I've been using Samsung's Note 8 for several years now, despite having seen all 
 **Next phone or dream phone?** A 2021 flagship-class phone with an integrated thermal camera. A thermal camera is a great tool for jobs around the house/office and for seeking out wildlife after dark
 
 Show Expert Take Show less 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ###   
 
@@ -376,18 +376,21 @@ Show Expert Take Show less
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-enriching-listening-activities-for-the-modern-ear-podder-for-2024/"><u>[New] Enriching Listening Activities for the Modern Ear-Podder for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-everything-uncovered-about-the-world-of-yt-shorts-for-2024/"><u>[New] Everything Uncovered About the World of YT Shorts for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-youth-voices-channeling-lifes-milestinasubscriber-channel-for-impactful-personal-storytelling/"><u>[New] Youth Voices Channeling Life's Milestinasubscriber Channel for Impactful Personal Storytelling</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-the-best-laptops-for-video-editing-you-should-know/"><u>[Updated] 2024 Approved The Best Laptops For Video Editing You Should Know</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-in-2024-inside-the-magic-box-how-does-vr-function/"><u>[Updated] In 2024, Inside the Magic Box How Does VR Function?</u></a></li>
-<li><a href="https://article-helps.techidaily.com/become-a-spotify-ad-expert-in-no-time/"><u>Become a Spotify Ad Expert in No Time</u></a></li>
-<li><a href="https://os-tips.techidaily.com/date-set-apples-anticipated-iphone-15-reveal-is-officially-scheduled-for-insert-event-date/"><u>Date Set! Apple's Anticipated iPhone 15 Reveal Is Officially Scheduled for [Insert Event Date]</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/discover-apples-steeply-discounted-m2-mac-mini-at-just-479-insider-details-zdnet/"><u>Discover Apple's Steeply Discounted M2 Mac Mini at Just $479 - Insider Details [ZDNet]</u></a></li>
-<li><a href="https://common-error.techidaily.com/guide-to-resolving-the-windows-1n-10-update-issue-error-code-0x800f0922-fixes/"><u>Guide to Resolving the Windows 1N 10 Update Issue - Error Code 0X800f0922 Fixes</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/how-to-resolve-file-size-exceeds-drive-capacity-on-your-external-memory-device/"><u>How to Resolve 'File Size Exceeds Drive Capacity' On Your External Memory Device</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/japanese-amusement-facility-opens-children-engage-in-hands-on-learning-with-authentic-computer-hardware-components/"><u>Japanese Amusement Facility Opens: Children Engage in Hands-On Learning with Authentic Computer Hardware Components</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/premium-gadgets-to-save-livestreamed-vids-on-youtube-for-2024/"><u>Premium Gadgets to Save Livestreamed Vids on YouTube for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unveiling-the-secret-workplace-advantage-why-this-years-most-impressive-dual-purpose-gadget-deserves-attention/"><u>Unveiling the Secret Workplace Advantage: Why This Year's Most Impressive Dual-Purpose Gadget Deserves Attention</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-2024-approved-a-closer-look-ffmpeg-for-pristine-audio-extraction/"><u>[Updated] 2024 Approved A Closer Look FFmpeg for Pristine Audio Extraction</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-digital-arcade-over-a-hundred-game-channels/"><u>[Updated] Digital Arcade Over a Hundred Game Channels</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/2-topa-metoder-att-omvandla-mp3-into-en-iphones-rengoringsteknik/"><u>2 Topa Metoder Att Omvandla MP3 Into En iPhones Rengöringsteknik</u></a></li>
+<li><a href="https://howto.techidaily.com/best-methods-for-vivo-y56-5g-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Best Methods for Vivo Y56 5G Wont Turn On | Dr.fone</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/convert-your-videos-effortlessly-from-flv-to-swf-with-movavis-free-online-tool/"><u>Convert Your Videos Effortlessly From FLV to SWF with Movavi's Free Online Tool</u></a></li>
+<li><a href="https://win11.techidaily.com/counteracting-read-only-fixes-for-corrupted-file-directories/"><u>Counteracting Read-Only: Fixes for Corrupted File Directories</u></a></li>
+<li><a href="https://driver-download.techidaily.com/1722962307882-direct-download-link-for-qualcomm-atheros-top-rated-bluetooth-3e-ar3011-drivers-available/"><u>Direct Download Link for Qualcomm Atheros - Top-Rated Bluetooth 3.e AR3011 Drivers Available!</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-cant-take-screenshot-due-to-security-policy-on-samsung-galaxy-a05s-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Cant Take Screenshot Due to Security Policy on Samsung Galaxy A05s | Dr.fone</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/free-online-swf-to-mpeg-converter-by-movavi-no-download-required/"><u>Free Online SWF to MPEG Converter by Movavi - No Download Required</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/gratuit-gebaseerd-afbeeldingsovertuigen-naar-m4a-of-m4p-formaten-movavi-converter/"><u>Gratuit Gebaseerd Afbeeldingsovertuigen Naar M4A of M4P Formaten - Movavi Converter</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/jpg-vers-limage-tiff-convertir-en-ligne-gratuit-conversion-rapide-avec-mouvavi/"><u>JPG Vers L'image TIFF Convertir en Ligne Gratuit : Conversion Rapide Avec Mouvavi</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/konverteren-van-vob-naar-mp3-met-online-tool-gratis-movavicom/"><u>Konverteren Van VOB Naar MP3 Met Online Tool - gratis-movavi.com</u></a></li>
+<li><a href="https://common-error.techidaily.com/solving-aoc-usb-monitor-malfunction-errors-in-windows-11-step-by-step-guide/"><u>Solving AOC USB Monitor Malfunction Errors in Windows 11 - Step-by-Step Guide</u></a></li>
+<li><a href="https://fox-that.techidaily.com/solving-the-problem-why-isnt-my-iphone-syncing-email/"><u>Solving the Problem: Why Isn't My iPhone Syncing Email?</u></a></li>
+<li><a href="https://driver-error.techidaily.com/step-by-step-guide-updating-and-downloading-drivers-for-your-hp-envy-20/"><u>Step-by-Step Guide: Updating and Downloading Drivers for Your HP Envy 20</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/top-25-excellent-and-complimentary-ip-camera-applications-including-movavi/"><u>Top 25 Excellent and Complimentary IP Camera Applications, Including Movavi</u></a></li>
 </ul></div>
 

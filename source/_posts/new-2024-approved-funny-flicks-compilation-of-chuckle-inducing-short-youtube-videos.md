@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  Funny Flicks  Compilation of Chuckle-Inducing Short YouTube Videos\""
-date: 2024-08-20T13:03:46.308Z
-updated: 2024-08-21T13:03:46.308Z
+date: 2024-12-23T16:26:15.507Z
+updated: 2024-12-28T16:47:09.668Z
 tags:
   - ai video
   - ai youtube
@@ -26,9 +26,6 @@ thumbnail: https://thmb.techidaily.com/d44947af2d23263a61b2bb19233d3717a7fd17839
 
 YouTube is a well-known brand for videos globally. This time, it comes with its extension feature with YouTube Shorts. It is a short video version of 15 to 60 seconds duration using a short camera present in the YouTube application and your smartphone. So, you can use YouTube Shorts ideas for watching and creating those funny and interesting short videos right from your mobile camera with ease.
 
-<!-- affiliate ads begin -->
-<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![filmora](https://images.wondershare.com/filmora/youtube-shorts-ideas-1.jpg)
 
 That sounds great, doesn’t it? Let’s move ahead to get a good grab over some funny, engaging, and eye-catching ideas to have YouTube Shorts videos here. No need for a lengthy tutorial to become the real YouTube Shorts champion with the following tips. Let’s roll on, guys!
@@ -43,9 +40,6 @@ Then the right platform with a plethora of pictures is covered hereunder the fol
 
 Yeah! The first idea looks so catchy. Everyone holds some dreams. And if you have such beautiful dreams that you would like to share with your loved ones. Then YouTube Shorts ideas are the right platform full of views, likes, and lovers from around the world. Just give a thrust to it.
 
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![filmora](https://images.wondershare.com/filmora/youtube-shorts-ideas-2.jpg)
 
 Also, you can discuss different sorts of dreams that the human genre has been dreaming of for years. You can even add a flavor of future dreams that will open up the space of excellent speculation one can think of.
@@ -72,6 +66,10 @@ Life is indeed full of surprises, events, and glory. Then, why not tailor some o
 
 ![filmora](https://images.wondershare.com/filmora/youtube-shorts-ideas-5.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 You need to keep your judging eyes open to catch all the moments, and you can also note it down to make a series so as not to miss any exciting experience.
 
 Living every moment creates a wonder. Let others also make a part of this journey and inspire them to build your YouTube shorts ideas.
@@ -80,9 +78,6 @@ Living every moment creates a wonder. Let others also make a part of this journe
 
 If experimenting with chemicals or anything that surrounds you makes you out of the world, then there is the chance that you can come out as YouTube Shorts ideas Star. By just showing how one chemical, when mixed with another, creates something new and marvelous to see, look or feel.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![filmora](https://images.wondershare.com/filmora/youtube-shorts-ideas-6.jpg)
 
 Just review all your collection of experiments you did and combine them under YouTube Shorts Channel ideas. And make a big bust with such chemical/physical experiments.
@@ -91,9 +86,6 @@ Just review all your collection of experiments you did and combine them under Yo
 
 Competition creates a zeal to lead, and if you add some flavor to it. Then, people will love to take part in it. So, waiting for what? Just come out with YouTube Shorts funny Video Competition ideas to grab the audience to watch the videos and become active participants.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
-<!-- affiliate ads end -->
 ![filmora](https://images.wondershare.com/filmora/youtube-shorts-ideas-7.jpg)
 
 Funny competition can vary from a weird hairstyle, odd season festival celebration, or anything that you think of interesting, different, and eye-catching.
@@ -102,9 +94,6 @@ Funny competition can vary from a weird hairstyle, odd season festival celebrati
 
 The dripping sound of water, raindrops, flowing trees, and blowing air make some distinct sound. So, look around to find your inspiration to make some quirky sound, whether the musical instrument or can create your kind of instrument such as tumbler, glass, bowl, etc. And see the natural flow of music that resides all around us.
 
-<!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![filmora](https://images.wondershare.com/filmora/youtube-shorts-ideas-8.jpg)
 
 Just give it a try and dance with the music you create with all the worldwide listeners of YouTube Shorts Channel with this idea.
@@ -115,6 +104,10 @@ Kids love cartoons, but the hidden fact is that everyone enjoys watching cartoon
 
 ![filmora](https://images.wondershare.com/filmora/youtube-shorts-ideas-9.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Mixing some comedy flavor to life will add more fun and enjoyment to all those seeking funny moments to reflect their days. Come on; show up your humor with this unique style.
 
 #### Idea 9: Funny act with pets
@@ -123,20 +116,25 @@ Pets are the favorite of those who own them. They are excellent; they play, danc
 
 ![filmora](https://images.wondershare.com/filmora/youtube-shorts-ideas-10.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 You will be surprised to see how much fun-loving these cute pets are—so, geared up to capture the funny acts of pets through YouTube Shorts ideas. It will bring a smile to everyone’s face.
 
 #### Idea 10: Talent showcase
 
 Everybody holds some unique talent. You just need to identify it. If you have some talent, then showcasing talent ideas for YouTube Shorts will apt you. The whole world is waiting to see something unique that only you can do. So, shred your shyness and let the world see how talented you are.
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![filmora](https://images.wondershare.com/filmora/youtube-shorts-ideas-11.jpg)
 
 Here, you got to know about the top 10 funny ideas for YouTube Shorts videos. Choose the one that fits you and start creating YouTube Shorts Channel with these ideas.
 
 Wait, there is much more than these best YouTube Shorts ideas. Yes, you heard that right! The following paragraph will lead you to get some important tips, with the help of which you can raise YouTube Short Videos views. So, without waiting anymore, move on to the next paragraph to get a glimpse of it.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 2: Tips to Get More Views for Your YouTube Shorts Videos
 
@@ -182,9 +180,6 @@ Then, indeed, this guide is the pathway. You will get different funny YouTube Sh
 
 Thus, start utilizing these powerful ideas and tips and head towards your YouTube Shorts journey.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
 Shanoon Cox
@@ -193,12 +188,15 @@ Shanoon Cox is a writer and a lover of all things video.
 
 Follow @Shanoon Cox
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Text That Moves: Two Fascinating Techniques Revealed
 
@@ -212,9 +210,6 @@ Follow @Shanoon Cox
 
 Earlier, you learned how to have a **[bounce text effect in Adobe After Effects](https://tools.techidaily.com/wondershare/filmora/download/)**. However, because AE is a complex application and has a steep learning curve, this section explains the two alternative ways to get the same effect on your existing video footage.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
-<!-- affiliate ads end -->
 ## Method 1: How to Create Bouncing Text in Filmora Video Editor?
 
 When talking about [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/), the application is populated with several presets for texts and titles, animations, effects, filters, and much more.
@@ -241,15 +236,27 @@ Go to **Effects** from the standard toolbar, expand the **Filters** category fro
 
 ![Shake filters in Filmora9](https://images.wondershare.com/filmora/article-images/shake-filter.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 You can customize the default effect by double-clicking the shake filter in the timeline, using the sliders in the upper-left area of the interface to make necessary adjustments, and then clicking **OK** to save the changes and to get back to the previous interface.
 
 ![Mild Shake filters adjust](https://images.wondershare.com/filmora/article-images/mild-shake-filter-adjust.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 4: Export the Final Output**
 
 Click **EXPORT** from the top of the interface, go to the **Local** tab in the **Export** box, choose your preferred output format from the list in the left, make required customizations from the right pane, and click **EXPORT** from the bottom-right corner to export the video.
 
 ![Filmora9 Export Options](https://images.wondershare.com/filmora/article-images/export-filmora9-video.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Now, you can add the bouncing text video and the background video to the timeline, and then place the bouncing text video above the background video track.
 
@@ -269,9 +276,6 @@ Some most trusted websites to generate **bounce text** are listed below:
 
 Website: <https://engfto.com/index/create%5Fanimated%5Fbouncing%5Ftext/0-26>
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Create Animated Bouncing Text with ENGFTO](https://images.wondershare.com/filmora/article-images/engfto-create-animated-bouncing-text.jpg)
 
 You can follow the instructions given below to use Engfto to generate bouncing text for your footages:
@@ -300,6 +304,10 @@ Launch your favorite web browser and go to <https://loading.io/animation/text/>.
 
 ![Create Animated Bouncing Text with Loading.io](https://images.wondershare.com/filmora/article-images/create-bouncing-text-with-loadingio.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Use the options available on the webpage to type your text, and change its font, color, background, transparency level etc. Select **Bounce** (or any of its variants) from the **Animation** drop-down list, and adjust the speed using the **Speed** slider.
 
 **Step 3: Obtain the Text**
@@ -312,9 +320,6 @@ Click your preferred option from next to the **Download As** section to download
 
 Generating **bounce text** effect is much simpler when you use Wondershare Filmora or any of the online solutions as explained in Method 2\. While the former gives you more flexibility when it comes to customizations, the latter doesn’t require any app to be installed on your PC. In addition, many times the web apps offer their services for free, and therefore they are preferred by the novice users who are not much into post-production processes.
 
-<!-- affiliate ads begin -->
-<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
 
 Liza Brown
@@ -323,7 +328,6 @@ Liza Brown is a writer and a lover of all things video.
 
 Follow @Liza Brown
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -331,8 +335,24 @@ Follow @Liza Brown
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/authentic-platinum-edition-dvd-ripping-tool-effortlessly-transform-your-dvd-media-into-mp4-h264hevc-format-in-half-an-hour-or-less/"><u>[Authentic] Platinum Edition DVD Ripping Tool – Effortlessly Transform Your DVD Media Into MP4 (H.264/HEVC) Format in Half an Hour Or Less</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-9-key-platforms-for-high-quality-livestreaming-for-2024/"><u>[New] 9 Key Platforms for High-Quality Livestreaming for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/n-2024-cutting-edge-method-quick-erasure-of-youtube-comments/"><u>[New] In 2024, Cutting-Edge Method Quick Erasure of Youtube Comments</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-blending-photography-and-sonic-artistry/"><u>[Updated] Blending Photography & Sonic Artistry</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/44cm44k544oe44ox44op44kz44os44kv44k344on44oz77ya44oi44oq44kk44or44gl44kj44or44k944kz44oz44g444cb6lplusf6ycf44gq44oa44km44oz44ot44o844oj5oml6acg44cn/"><u>「スマプラコレクション：モバイルからパソコンへ、迅速なダウンロード手順」</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/1-logiciel-officiel-winx-mediatrans-solution-incontournable-pour-transfert-et-gestion-de-contenu-apple-ios-vers-windows-photos-videos-and-plus/"><u>1. Logiciel Officiel WinX MediaTrans : Solution Incontournable Pour Transfert Et Gestion De Contenu Apple iOS Vers Windows - Photos, Vidéos & Plus</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/best-15-video-player-apps-compatible-with-windows-10-8-7-and-macos-top-picks/"><u>Best 15 Video Player Apps Compatible with Windows 10, 8, 7 & macOS: Top Picks</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/easy-ways-to-record-a-powerpoint-presentation-for-2024/"><u>Easy Ways to Record a PowerPoint Presentation for 2024</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-forgot-pattern-lock-heres-how-you-can-unlock-poco-f5-pro-5g-pattern-lock-screen-by-drfone-android/"><u>In 2024, Forgot Pattern Lock? Heres How You Can Unlock Poco F5 Pro 5G Pattern Lock Screen</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-google-pixel-8-pattern-lock-if-forgotten-6-ways-by-drfone-android/"><u>In 2024, How to Unlock Google Pixel 8 Pattern Lock if Forgotten? 6 Ways</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ing-vitality-into-text-an-animated-adventure-for-2024/"><u>Infusing Vitality Into Text An Animated Adventure for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/optimal-methods-for-converting-alice-in-wonderland-from-dvd-to-mp4-format/"><u>Optimal Methods for Converting Alice in Wonderland From DVD to MP4 Format</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/reset-and-refresh-your-macbook-pro-with-these-simple-steps/"><u>Reset and Refresh Your MacBook Pro with These Simple Steps</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/seamless-transition-expert-guide-on-converting-1080p-videos-to-hd-720p-format-without-compromising-clarity/"><u>Seamless Transition: Expert Guide on Converting 1080P Videos to HD 720P Format Without Compromising Clarity</u></a></li>
+<li><a href="https://driver-install.techidaily.com/swift-driver-transformation-radeon-hd-4800/"><u>Swift Driver Transformation: Radeon HD 4800</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/transform-videos-and-audios-swiftly-with-winxvideo-ai-experience-ultra-speed-with-gpu-enhancement/"><u>Transform Videos and Audios Swiftly with Winxvideo AI - Experience Ultra-Speed with GPU Enhancement</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/ultimate-guide-to-choosing-a-reliable-screen-recorder-for-your-windows-10-8-or-7-computer/"><u>Ultimate Guide to Choosing a Reliable Screen Recorder for Your Windows 10, 8, or 7 Computer</u></a></li>
+</ul></div>
 

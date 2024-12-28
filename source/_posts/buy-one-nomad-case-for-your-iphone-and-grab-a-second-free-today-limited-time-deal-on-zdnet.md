@@ -1,7 +1,7 @@
 ---
 title: Buy One Nomad Case for Your iPhone & Grab a Second FREE Today – Limited Time Deal on ZDNet!
-date: 2024-12-18T22:26:37.671Z
-updated: 2024-12-22T22:28:48.762Z
+date: 2024-12-22T16:13:12.130Z
+updated: 2024-12-28T17:07:33.571Z
 tags:
   - apple
 categories:
@@ -48,7 +48,7 @@ ZDNET's Kerry Wan went hands-on with the [iPad 10th Gen](https://buy.geni.us/Pro
 If you're looking to snag the 10th Gen iPad, which Wan says stacks up pretty well against the more expensive iPad Air, be sure to jump on this [sweet deal](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FApple-2022-10-9-inch-iPad-Wi-Fi%2Fdp%2FB0BJLXMVMV%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C0d6032e1-d089-490f-9c8e-0eda836790a7%7Cdtp&dtb=1) while it lasts. Plus, if you want to shop even more [Prime Day Apple deals that are still live](https://www.zdnet.com/article/best-prime-day-apple-deals-still-available-2024/), we've got you covered.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -85,19 +85,20 @@ Deals are subject to sell out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/astering-youtube-streaming-a-guide-for-gamers/"><u>[New] Mastering YouTube Streaming A Guide for Gamers</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-no-barriers-only-creativity-learn-cost-free-background-substitution-with-4-youtube-pros/"><u>[New] No Barriers, Only Creativity Learn Cost-Free Background Substitution with 4 YouTube Pros</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-the-ultimate-guide-to-fostering-viewer-commitment-in-youtube-videos/"><u>[New] The Ultimate Guide to Fostering Viewer Commitment in YouTube Videos</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-turn-mundane-games-into-epic-scenes/"><u>[Updated] 2024 Approved How to Turn Mundane Games Into Epic Scenes</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-best-free-downloaders-download-youtube-thumbnail-for-freeonlinewinmac-for-2024/"><u>[Updated] Best Free Downloaders Download YouTube Thumbnail for Free [Online/Win/Mac] for 2024</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-optimal-video-formats-to-skyrocket-your-youtube-popularity/"><u>2024 Approved Optimal Video Formats to Skyrocket Your YouTube Popularity</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/best-realme-narzo-n55-pattern-lock-removal-tools-remove-android-pattern-lock-without-losing-data-by-drfone-android/"><u>Best Realme Narzo N55 Pattern Lock Removal Tools Remove Android Pattern Lock Without Losing Data</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-google-frp-lock-on-xiaomi-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock on Xiaomi Devices</u></a></li>
-<li><a href="https://video-capture.techidaily.com/in-2024-solutions-to-stop-blank-spots-in-obs-media/"><u>In 2024, Solutions to Stop Blank Spots in OBS Media</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/in-2024-unlock-mysteries-select-top-puzzle-houses/"><u>In 2024, Unlock Mysteries Select Top Puzzle Houses</u></a></li>
-<li><a href="https://article-helps.techidaily.com/superior-5-camera-background-modification-utilities/"><u>Superior 5 Camera Background Modification Utilities</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/the-8-best-authentic-youtube-growth-tactics-for-2024/"><u>The 8 Best Authentic Youtube Growth Tactics for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/the-art-of-youtube-management-by-studio-techniques-for-2024/"><u>The Art of YouTube Management by Studio Techniques for 2024</u></a></li>
-<li><a href="https://change-location.techidaily.com/which-pokemon-can-evolve-with-a-moon-stone-for-vivo-s17-pro-drfone-by-drfone-virtual-android/"><u>Which Pokémon can Evolve with a Moon Stone For Vivo S17 Pro? | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-what-does-the-blue-marker-on-fb-chat-reveal/"><u>[New] What Does the Blue Marker on FB Chat Reveal?</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-quick-and-easy-way-to-record-iphone-screens/"><u>[Updated] 2024 Approved Quick & Easy Way to Record iPhone Screens</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/affordable-flight-experience-with-the-syma-x5c-remote-controlled-quadcopter-a-detailed-analysis/"><u>Affordable Flight Experience with the SYMA X5C Remote Controlled Quadcopter - A Detailed Analysis</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/conversion-sin-costo-de-audio-wav-a-formato-m4a-usando-movavi-en-linea/"><u>Conversión Sin Costo De Audio WAV a Formato M4A Usando Movavi en Línea</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/descargar-convertidor-de-mkv-a-formato-aac-sin-coste-conversion-en-vivo/"><u>Descargar Convertidor De MKV a Formato AAC Sin Coste - Conversión en Vivo</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/discover-the-latest-video-stabilizers-in-202email-protected-a-comprehensive-guide-to-both-gratis-and-premium-software-solutions/"><u>Discover the Latest Video Stabilizers in 202([Email Protected])! A Comprehensive Guide to Both Gratis and Premium Software Solutions</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/edit-and-enhance-images-with-ease-using-movavis-advanced-photo-correction-suite/"><u>Edit and Enhance Images with Ease Using Movavi's Advanced Photo-Correction Suite</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/gratis-omzetten-van-snd-folders-naar-veilige-online-toestand-movavi/"><u>Gratis Omzetten Van SND Folders Naar Veilige Online Toestand - Movavi</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/gratuit-konverteren-van-aiff-naar-m4a-ladder-online-en-meteen/"><u>Gratuit Konverteren Van AIFF Naar M4A-Ladder - Online en Meteen</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/guide-to-mirror-your-samsung-galaxy-z-flip-5-to-other-android-devices-drfone-by-drfone-android/"><u>Guide to Mirror Your Samsung Galaxy Z Flip 5 to Other Android devices | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-frp-from-nubia-red-magic-9-proplus-by-drfone-android/"><u>How to Bypass FRP from Nubia Red Magic 9 Pro+?</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/how-to-make-a-photo-video-with-pixiz-for-2024/"><u>How to Make a Photo Video with Pixiz for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/samsung-galaxy-a34-5g-bootloop-problem-how-to-fix-it-without-data-loss-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Samsung Galaxy A34 5G Bootloop Problem, How to Fix it Without Data Loss | Dr.fone</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/section-3a-next-concept-carpal-tunnel-syndrome-and-nerve-entrapment/"><u>Section 3A: Next Concept - Carpal Tunnel Syndrome and Nerve Entrapment</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/the-ultimate-guide-to-poco-c50-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/"><u>The Ultimate Guide to Poco C50 Pattern Lock Screen Everything You Need to Know</u></a></li>
 </ul></div>
 

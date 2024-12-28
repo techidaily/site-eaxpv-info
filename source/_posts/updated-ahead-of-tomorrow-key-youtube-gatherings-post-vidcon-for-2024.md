@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Ahead of Tomorrow  Key Youtube Gatherings (Post-VidCon) for 2024\""
-date: 2024-08-20T13:00:22.915Z
-updated: 2024-08-21T13:00:22.915Z
+date: 2024-12-22T16:06:58.749Z
+updated: 2024-12-28T16:54:28.004Z
 tags:
   - ai video
   - ai youtube
@@ -18,9 +18,6 @@ thumbnail: https://thmb.techidaily.com/578092e9e17a69c476b3082e47519b7819155a500
 
 # Beyond VidCon - A Guide to the Most Important YouTube Events
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 ##### Richard Bennett
@@ -45,6 +42,10 @@ Want to be a youtube creator too? Go and get **Wondershare Filmora**, the video 
 
 [![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://download.wondershare.com/filmora9-mac%5Ffull718.zip)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 #### 1. ** VidCon
 
 **VidCon US:** June (Anaheim, California)
@@ -53,9 +54,6 @@ Want to be a youtube creator too? Go and get **Wondershare Filmora**, the video 
 
 **VidCon Australia:** August/September
 
-<!-- affiliate ads begin -->
-<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
-<!-- affiliate ads end -->
 ![VidCon-On-Spot](https://images.wondershare.com/filmora/VidCon-On-Spot.jpg)
 
 In 2017 over 30,000 YouTube enthusiasts – from fans to A-list creators – attended VidCon US, and that was thousands of more people than attended in 2016\. It’s hard to imagine that this event – the biggest convention for YouTube and online video – will do anything but grow over the next few years.
@@ -84,9 +82,6 @@ You have a two-week window (usually the first half of May) to submit your choice
 
 **Washington DC:** September
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Playlistlive](https://images.wondershare.com/filmora/Playlistlive.jpg)
 
 Playlist Live is a YouTube event for creators and their supporters that has a particular focus on music. Where VidCon is advertised using images of sunshine, crowded convention halls, and speakers, Playlist Live is advertised with images of city skylines, concerts, and fireworks.
@@ -121,10 +116,11 @@ There is also business **Passes** with Merch and Deluxe (Business Deluxe can cos
 
 **London, UK:** November
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![beautycon-festivals](https://images.wondershare.com/filmora/beautycon-festivals.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Beautycon is an event meant to highlight innovators in the fields of Beauty, Makeup, and Lifestyle. They bring together online creators, fans, celebrities, and brands for two-day festivals full of fun, panel discussions, shopping, and free samples.
 
@@ -148,10 +144,11 @@ The final type of pass, the **Two-Day Beauty Insider** ($1999) pass, has everyth
 
 These events are customized to the wherever festival is visiting, so you’re always sure to see the big and rising YouTube stars from your region. Generally, these events include performances and activities as well as a Meet & Greet.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![youtube-fanfest](https://images.wondershare.com/filmora/youtube-fanfest.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 There is not a steady annual schedule for FanFests, but it has visited these cities in the past: Manila, Mumbai, Seoul, Toronto, Sao Paulo, Jakarta, Tokyo, Jeddah, Bangkok, Ho Chi Minh City, Hong Kong, and Washington, DC.
 
@@ -163,10 +160,11 @@ There is not a steady annual schedule for FanFests, but it has visited these cit
 
 Sydney, Australia: February
 
-<!-- affiliate ads begin -->
-<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![rtx](https://images.wondershare.com/filmora/rtx.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Brought to you by the creators behind Rooster Teeth, RTX is a celebration of internet culture and gaming. It includes exhibitors, live events, panels, and activities targeting gamers. Partners include Twitch and multiple gaming companies.
 
@@ -206,6 +204,10 @@ For VIP access, you can buy a **Deluxe** pass for $125-$150 AUD.
 
 ![summer-in-the-city](https://images.wondershare.com/filmora/summer-in-the-city.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 This is the largest online video festival in the UK. It features discussion panels, workshops, and live performances targeted at creators, fans of online video, and industry professionals. YouTubers might hang out on the show floor meeting fans, and there are also Meet and Greet sessions for top creators. All ticket holders can submit online ballots for a chance at Meet and Greet access.
 
 Summer in the City even has its own awards show, SitC, to honor the best in online content. Previous winners include Dodie, Tomska, Jack & Dean, and Nathan Zed.
@@ -236,8 +238,6 @@ Richard Bennett is a writer and a lover of all things video.
 
 Follow @Richard Bennett
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -245,5 +245,24 @@ Follow @Richard Bennett
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-pivotal-elements-in-designing-effective-product-praise-videos/"><u>2024 Approved Pivotal Elements in Designing Effective Product Praise Videos</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/ai-image-creation-not-every-picture-is-generated-by-artificial-intelligence/"><u>AI Image Creation: Not Every Picture Is Generated By Artificial Intelligence</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/ai-techniques-for-generating-elegant-qr-code-designs-complete-tutorial/"><u>AI Techniques for Generating Elegant QR Code Designs - Complete Tutorial</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/comprehensive-review-of-lenovo-ideapad-130s-confronting-power-boundaries-and-surprising-ease-of-use/"><u>Comprehensive Review of Lenovo IdeaPad 130S: Confronting Power Boundaries and Surprising Ease-of-Use</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/experience-free-ai-artistry-dall-e-integrated-into-bing-search-platform/"><u>Experience Free AI Artistry - DALL-E Integrated Into Bing Search Platform</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/how-to-prevent-vr-sickness-sharing-experience-from-countless-roller-coaster-and-flight-simulations/"><u>How to Prevent VR Sickness: Sharing Experience From Countless Roller Coaster and Flight Simulations</u></a></li>
+<li><a href="https://video-capture.techidaily.com/in-2024-top-five-mac-screen-seize-techniques-char-limit-156/"><u>In 2024, Top Five Mac Screen Seize Techniques (Char Limit 156)</u></a></li>
+<li><a href="https://driver-download.techidaily.com/intel-optane-drive-for-windows-a-complete-guide-to-downloading-and-updating-the-essential-drivers/"><u>Intel Optane Drive for Windows - A Complete Guide to Downloading and Updating the Essential Drivers</u></a></li>
+<li><a href="https://games-able.techidaily.com/mastering-psp-transform-into-nintendo-ds-simulator/"><u>Mastering PSP: Transform Into Nintendo DS Simulator</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/mastering-the-art-of-ai-assisted-slides-crafting-engaging-powerpoint-presentations-with-chatgpt-and-midjourney/"><u>Mastering the Art of AI-Assisted Slides: Crafting Engaging PowerPoint Presentations with ChatGPT & MidJourney</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/soft-sonata-reducing-volume-in-os-for-2024/"><u>Soft Sonata Reducing Volume in OS for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/step-by-step-guide-using-googles-gemini-ai-feature-on-your-iphone/"><u>Step-by-Step Guide: Using Google's Gemini AI Feature on Your iPhone</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/the-hidden-dangers-in-assuming-artificaminds-around-us-navigating-ai-recognition-pitfalls/"><u>The Hidden Dangers in Assuming Artificaminds Around Us - Navigating AI Recognition Pitfalls</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/top-8k-video-codecs-optimal-choice-for-ultra-high-definition-4320p-resolution/"><u>Top 8K Video Codecs: Optimal Choice for Ultra-High Definition 4320P Resolution</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/understanding-intellectual-property-who-holds-the-rights-to-artificial-intelligence-generated-works/"><u>Understanding Intellectual Property: Who Holds the Rights to Artificial Intelligence-Generated Works?</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/why-skepticism-persists-questioning-gemini-ais-ability-to-handle-duties/"><u>Why Skepticism Persists: Questioning Gemini AI's Ability to Handle Duties</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/top-rangovye-agentstva-po-seo-v-maname-bahrejn-masterstvo-i-uspeh-s-pomoshyu-seo-powersuite/"><u>Топ-Ранговые Агентства По SEO В Манаме, Бахрейн: Мастерство И Успех С Помощью SEO PowerSuite</u></a></li>
+</ul></div>
 

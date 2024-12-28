@@ -1,7 +1,7 @@
 ---
 title: Apple to Refresh Cost-Effective Watch SE? Unveiling Upcoming Improvements and New Specs | ZDNET
-date: 2024-12-01T16:28:28.432Z
-updated: 2024-12-07T21:56:49.240Z
+date: 2024-12-23T16:10:42.922Z
+updated: 2024-12-28T17:02:05.137Z
 tags:
   - apple
 categories:
@@ -34,10 +34,6 @@ For now, here are the new AI-powered skills you can expect next month with [iOS 
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Writing tools
 
 Jason Hiner/ZDNET
@@ -45,7 +41,7 @@ Jason Hiner/ZDNET
 Using Apple Intelligence, you'll be able to fine-tune your writing in Mail, Notes, Pages, and any supported third-party app. Like other AI-powered editing tools, Apple Intelligence will be able to rewrite, proofread, and summarize your text.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Photo features
@@ -69,12 +65,16 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Notification assistance
 
 Instead of having to read all the notifications that appear on your screen, you'll be able to browse through AI-generated summaries of them. Plus, a new Focus mode will display only the notifications that need your immediate attention.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Mail assistance
 
@@ -99,14 +99,10 @@ Beyond using your voice to chat with Siri, you'll also be able to type your requ
 Those are a fair number of AI-powered features and upgrades, but Apple Intelligence has more in store for the months and years ahead. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What will come later
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Image playground
 
@@ -115,6 +111,10 @@ Using the AI-powered [Image Playground](https://www.zdnet.com/article/what-is-ap
 ### Image wand
 
 The [image wand](https://www.zdnet.com/article/forget-dall-e-apples-new-ai-image-generator-runs-on-device-and-works-like-magic/) will attempt to turn rough sketches into full images. When you circle an empty area on a virtual canvas or other screen, the image wand will generate an image based on the surrounding area.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Genmoji
 
@@ -158,19 +158,20 @@ The big question, though, is not so much when the new AI features will arrive bu
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-novice-to-notable-top-course-recommendations-for-youtubers/"><u>[New] 2024 Approved From Novice to Notable Top Course Recommendations for YouTubers</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-football-vids-premier-insights-into-youtube-tracks-for-2024/"><u>[New] Football Vids Premier Insights Into YouTube Tracks for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-how-to-harness-youtubes-creative-commons-in-video-making-for-2024/"><u>[New] How to Harness YouTube's Creative Commons in Video Making for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-blur-faces-or-objects-in-youtube-videos/"><u>[New] In 2024, How to Blur Faces or Objects in YouTube Videos</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/napshots-of-sound-characters-short-musical-roles/"><u>[New] Snapshots of Sound Characters Short Musical Roles</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-fast-revenues-forecasting-toolkit-for-vids/"><u>[Updated] 2024 Approved Fast Revenues Forecasting Toolkit for Vids</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-hidden-pitfalls-investing-in-fraudulent-subscribers/"><u>[Updated] 2024 Approved Hidden Pitfalls Investing in Fraudulent Subscribers</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-srt-file-open-srt-file-on-windows-or-mac/"><u>[Updated] 2024 Approved SRT File Open SRT File on Windows or Mac</u></a></li>
-<li><a href="https://some-tips.techidaily.com/caixun-4k-ultra-hd-smart-tv-75-inch-review-affordable-quality-unveiled/"><u>Caixun 4K Ultra HD Smart TV - 75 Inch Review: Affordable Quality Unveiled</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/comprehensive-tutorial-determining-your-videos-bitrate-on-pc-and-mac-systems/"><u>Comprehensive Tutorial: Determining Your Video's Bitrate on PC & Mac Systems</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/t-tips-for-embedding-time-stamp-data-on-youtube-videos-desktopmobile-for-2024/"><u>Expert Tips for Embedding Time Stamp Data on YouTube Videos (Desktop/Mobile) for 2024</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-10-easy-to-use-frp-bypass-tools-for-unlocking-google-accounts-on-oppo-reno-9a-by-drfone-android/"><u>In 2024, 10 Easy-to-Use FRP Bypass Tools for Unlocking Google Accounts On Oppo Reno 9A</u></a></li>
-<li><a href="https://program-issues.techidaily.com/resolved-how-to-fix-the-black-screen-problem-in-fallout-4/"><u>Resolved: How to Fix the Black Screen Problem in Fallout 4</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/the-students-guide-to-productive-use-of-chatgpt/"><u>The Student's Guide to Productive Use of ChatGPT</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-novice-to-expert-mastering-video-identity-on-youtube/"><u>[New] 2024 Approved From Novice to Expert Mastering Video Identity on YouTube</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-how-to-verify-your-youtube-account-in-2024/"><u>[New] How to Verify Your YouTube Account, In 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-passion-to-prominence-the-creators-quest/"><u>[New] In 2024, From Passion to Prominence The Creator's Quest</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-confirm-your-youtube-account-securely/"><u>[New] In 2024, How to Confirm Your YouTube Account Securely?</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-harnessing-the-power-of-color-difference-keying-methods/"><u>[Updated] 2024 Approved Harnessing the Power of Color Difference Keying Methods</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-free-youtube-spotlight-with-two-key-approaches/"><u>[Updated] In 2024, Free YouTube Spotlight with Two Key Approaches</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-game-jams-and-indie-project-highlights/"><u>[Updated] In 2024, Game Jams and Indie Project Highlights</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-premier-20-unrestricted-pubg-montage-samples/"><u>[Updated] In 2024, Premier 20 Unrestricted PUBG Montage Samples</u></a></li>
+<li><a href="https://location-fake.techidaily.com/3-ways-to-fake-gps-without-root-on-itel-a70-drfone-by-drfone-virtual-android/"><u>3 Ways to Fake GPS Without Root On Itel A70 | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-evaluating-vegaspros-progressive-changes-2019/"><u>In 2024, Evaluating VegasPro's Progressive Changes (2019)</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-revamp-your-tone-7-premier-vocal-modification-tools/"><u>In 2024, Revamp Your Tone 7 Premier Vocal Modification Tools</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-stabilizing-snapshots-preventing-blurry-results/"><u>In 2024, Stabilizing Snapshots Preventing Blurry Results</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/mastering-the-art-of-screen-snapping-on-playstation-4-systems/"><u>Mastering the Art of Screen Snapping on PlayStation 4 Systems</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/whispering-through-screens-a-private-story-journey/"><u>Whispering Through Screens A Private Story Journey</u></a></li>
+<li><a href="https://solve-help.techidaily.com/iuocquodleodquodmeodquodhuocopluss9vpluseuqoawueazltog6kmv5l6h44go5yplusj44kz44of44cb5a6j5ywo5ocn44cb44oa44km44oz44ot44o844oj5lin5yplusv5pmc44gu6kej5rg6562w3/"><u>オフリベリティ使用方法: 評価と口コミ、安全性、ダウンロード不可時の解決策を紹介</u></a></li>
 </ul></div>
 

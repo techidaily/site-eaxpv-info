@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  Fast Track  A Step by Step Guide for Swiftly Deleting Comments on YouTube\""
-date: 2024-08-20T13:02:03.595Z
-updated: 2024-08-21T13:02:03.595Z
+date: 2024-12-27T16:29:53.534Z
+updated: 2024-12-28T17:27:13.949Z
 tags:
   - ai video
   - ai youtube
@@ -48,8 +48,9 @@ In this section, we will tell you how you can do it from your desktop.
 You also have the option to report the comment or [hide the user from your channel](https://tools.techidaily.com/wondershare/filmora/download/).
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Delete All YouTube Comments from Mobile?
 
 The steps to deleting someone else’s YouTube comments from your mobile are similar to those from your desktop.
@@ -86,9 +87,6 @@ If it is your video where the comment to be removed is, you can go to My Channel
 1. Once you locate the video, you need to find the comment you want to delete. On the YouTube app, you may need to scroll down for a while to do this.
 2. When you reach it, click on the three vertical dots at the bottom corner of your comment. You should see an option called Delete. Click on that. You need to confirm once more that you want to delete it, and the process will be complete.
 
-<!-- affiliate ads begin -->
-<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Delete Other People’s Comments on Others’ Channels
 
 Did you see a hate comment on your favorite creator’s video? Sadly, you cannot delete the comment. But, you can report it, and YouTube will hide or take it down.
@@ -107,10 +105,11 @@ To find your History from your desktop, you need to click on the three horizonta
 2. Once you find your target comment, click on the three vertical dots that appear on its right side. You will find the Report option from the pop-up menu. Click on that.
 3. When you tap Report, another dialogue box will appear. From the list of options, choose the most appropriate option, tap on Report at the lower right corner of the pop-up, and complete the process. YouTube will do the rest.
 
-<!-- affiliate ads begin -->
-<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Report YouTube comments](https://images.wondershare.com/filmora/article-images/report-youtube-comment.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Delete All Your Posted YouTube Comments?
 
@@ -119,17 +118,15 @@ You can also delete all comments you ever posted on any YouTube video by hiding 
 1. You need to go to YouTube from your desktop and sign in to your account.
 2. Next, you can either click on the profile icon at the top right corner or the three horizontal lines beside the YouTube logo on your homepage. From the list of options, click Settings.
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![YouTube Settings](https://images.wondershare.com/filmora/article-images/two-ways-settings-youtube-channel.jpg)
 
 1. YouTube will direct you to the Settings page of your account. Choose Advanced Settings from the list on your left. You can also access it from [here](https://www.youtube.com/account%5Fadvanced).
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![YouTube Advanced  Settings](https://images.wondershare.com/filmora/article-images/youtube-advanced-settings.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 1. Scroll down and select Delete Channel. Clicking it will not delete your account. When you click on Delete Channel, you will get two choices – ‘I want to hide my channel’ and ‘I want to permanently delete my content’. Select the first.
 
@@ -138,8 +135,9 @@ You can also delete all comments you ever posted on any YouTube video by hiding 
 1. YouTube will now show you what will happen when you hide your channel. Check all the boxes to confirm that you understand, and then tap on Hide My Channel. YouTube will now delete all comments made by your account.
 
 <!-- affiliate ads begin -->
-<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Final Thoughts
 
 YouTube can be an unsafe place with unwanted comments everywhere. In this blog, we tried to show how you can get rid of comments on your and on others’ YouTube accounts. The next time you see an offensive comment or post something mistakenly, don’t forget to try our tips and make YouTube a safe platform again.
@@ -152,12 +150,15 @@ Richard Bennett is a writer and a lover of all things video.
 
 Follow @Richard Bennett
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Unlocking the Full Potential: Innovative Techniques for Youtube End Screen Designs
 
@@ -165,8 +166,26 @@ Follow @Richard Bennett
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-the-secrets-to-flawless-hdr-image-creation-and-merging-in-lightroom/"><u>[New] 2024 Approved The Secrets to Flawless HDR Image Creation and Merging in Lightroom</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-streamline-video-capture-macbook-webcam-tips/"><u>[New] Streamline Video Capture MacBook Webcam Tips</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-mastery-of-text-effects-best-practices-in-ae/"><u>[Updated] 2024 Approved Mastery of Text Effects Best Practices in AE</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-unveil-the-secrets-of-successful-fb-strategies-in-these-top-15-insight-tools/"><u>[Updated] In 2024, Unveil the Secrets of Successful FB Strategies in These Top 15 Insight Tools</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-the-leading-edge-in-creating-stunning-facebook-cover-photos-top-11-sites-reviewed/"><u>2024 Approved The Leading Edge in Creating Stunning Facebook Cover Photos - Top 11 Sites Reviewed</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/9-ideal-video-format-changers-reliable-and-rapid-programs-compatible-with-windows-1110-operating-systems/"><u>9 Ideal Video Format Changers: Reliable and Rapid Programs Compatible with Windows 11/10 Operating Systems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/1726222742531-movaviwavogg/"><u>線上免費Movavi音效格式轉換：如何由wav改為ogg</u></a></li>
+<li><a href="https://win-latest.techidaily.com/best-5-complimentary-auto-sync-tools-for-your-windows-computer/"><u>Best 5 Complimentary Auto-Sync Tools for Your Windows Computer</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/best-no-cost-software-for-transforming-videos-into-mp4avihevc-h265-comprehensive-guide-and-comparisons/"><u>Best No-Cost Software for Transforming Videos Into MP4/AVI/HEVC (H.265): Comprehensive Guide and Comparisons</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/bringing-the-past-into-focus-techniques-for-upscaling-vhs-videos-to-hd-and-beyond/"><u>Bringing the Past Into Focus: Techniques for Upscaling VHS Videos to HD and Beyond</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/comment-contourner-le-codage-regional-de-votre-dvd-et-effectuer-une-conversion-sans-zone-sur-windows-10-8-ou-7/"><u>Comment Contourner Le Codage Regional De Votre DVD Et Effectuer Une Conversion Sans Zone Sur Windows 10, 8 Ou 7</u></a></li>
+<li><a href="https://program-issues.techidaily.com/effective-ways-to-troubleshoot-non-loading-twitch-broadcasts-7-fixed-tips/"><u>Effective Ways to Troubleshoot Non-Loading Twitch Broadcasts (7 Fixed Tips)</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/exploring-the-iphone-1n-14s-limitations-current-news-unique-aspects-pricing-details-and-detailed-specs-revealed/"><u>Exploring the iPhone 1N-14's Limitations: Current News, Unique Aspects, Pricing Details and Detailed Specs Revealed</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/mkv-compression-guide-dejouez-ces-erreurs-communes-et-repensez-vos-strategies/"><u>MKV Compression Guide - Déjouez Ces Erreurs Communes Et Repensez Vos Stratégies !</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/must-watch-top-rated-films-on-netflix-in-stunning-4k-quality/"><u>Must-Watch Top-Rated Films on Netflix in Stunning 4K Quality</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/top-5-premium-4k-uhd-video-players-fur-mac-und-pc-testberichte-und-downloads/"><u>Top 5 Premium 4K-UHD Video Players Für Mac Und PC - Testberichte Und Downloads</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/ultimate-tricks-for-crisp-video-stability-on-any-platform-including-mobile-and-desktop/"><u>Ultimate Tricks for Crisp Video Stability on Any Platform, Including Mobile & Desktop</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/uncovering-the-mystery-of-wows-abrupt-stoppage-error-132-on-win11/"><u>Uncovering the Mystery of WoW’s Abrupt Stoppage (Error 132) on Win11</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/winx-hd-video-converter-deluxe-keygen-free-software-activation/"><u>WinX HD Video Converter Deluxe Keygen - Free Software Activation</u></a></li>
+</ul></div>
 

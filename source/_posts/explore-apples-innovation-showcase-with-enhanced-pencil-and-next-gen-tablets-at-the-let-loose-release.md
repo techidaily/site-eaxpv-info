@@ -1,7 +1,7 @@
 ---
 title: Explore Apple's Innovation Showcase with Enhanced Pencil and Next-Gen Tablets at the 'Let Loose' Release
-date: 2024-12-21T16:45:53.164Z
-updated: 2024-12-22T22:23:58.510Z
+date: 2024-12-25T17:40:41.401Z
+updated: 2024-12-28T16:35:01.040Z
 tags:
   - apple
 categories:
@@ -26,11 +26,19 @@ Tim Cook kicked off the event by speaking about how the Apple Vision Pro has bee
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Everything announced at Apple's 'Let Loose' event
 
 Apple's "Let Loose" was a virtual product launch event that took place on May 7, at 7 am PT/10 am ET. It lasted about 35 minutes and was live-streamed on [Apple.com](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2F&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp), [YouTube](https://www.youtube.com/watch?v=f1J38FlDKxo), and via the Apple TV app. 
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 1\. iPad Pro, now with OLED displays and M4
 
@@ -69,7 +77,7 @@ Unlike the M4-equipped iPad Pro, the iPad Air comes with an M2 chip, making it a
 The new iPad Air is available in Blue, Purple, Starlight, and Space Gray, with [prices starting at $599](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-ipad%2Fipad-air&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) for the 11-inch iPad Air, and $799 for the 13-inch model.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Apple Pencil Pro
@@ -88,10 +96,6 @@ Apple
 
 The Apple Pencil Pro costs $129 and supports Apple's Find My service, letting you track the location of the accessory should you drop or misplace it. You can purchase the [Apple Pencil Pro](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fproduct%2FMX2D3AM%2FA%2Fapple-pencil-pro&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) today, and it will start shipping next week.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4\. Magic Keyboard
 
 Apple
@@ -99,7 +103,7 @@ Apple
 The iPad event also included a new, more durable Magic Keyboard, featuring a larger trackpad and a function row along the top. The Magic Keyboard's new look and upgraded aluminum construction is meant to make the iPad Pro look and feel more like a laptop, rather than a tablet with an optional keyboard case.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Why would Apple host an event before WWDC?
@@ -107,7 +111,7 @@ The iPad event also included a new, more durable Magic Keyboard, featuring a lar
 Although Apple is hosting its [Worldwide Developers Conference (WWDC)](https://www.zdnet.com/article/apple-confirms-wwdc-2024-for-june-10-will-ai-steal-the-show/) on June 10, that event is reserved for new iOS, iPadOS, visionOS, and macOS announcements, plus Apple's new AI strategy. The Let Loose event was focused on the latest hardware offerings, with the [OLED iPad Pro](https://www.zdnet.com/article/7-ipad-pro-features-that-would-make-me-instantly-upgrade-to-apples-next-model/) being the main star.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Did the Let Loose event cover iPadOS 17.5 or iPadOS 18?
@@ -121,10 +125,6 @@ Apple unveiled new versions of Final Cut Pro 2 and Logic Pro 2 for iPadOS. Apple
 Logic Pro 2 introduces Session Players, an AI-created Bass and Keyboard player available alongside the Drummer feature. The ChromaGlow feature adds sound effects to tracks. Logic Pro 2 also offers a Stem Splitter feature that can split recordings into voice, bass, drums, and other instruments.
 
 iOS 17.5 doesn't have many exciting new features outside of the European Union, where iPhone users can now [download apps directly from websites](https://www.zdnet.com/article/apple-to-let-eu-users-download-apps-from-the-web-with-ios-17-5-beta-2-how-it-works/). The new devices are expected to ship with iPadOS 17.5, but these features are available for iPadOS 17.4.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How do I watch Apple's Let Loose event?
 
@@ -160,17 +160,20 @@ The Apple Let Loose event was a pre-recorded video but is still available for st
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://network-issues.techidaily.com/fix-dxgkrnlsys-triggering-winos-bsod-error/"><u>[Fix]: dxgkrnl.sys Triggering WinOS BSOD Error</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-decoding-the-mystery-insider-knowledge-on-story-watchers/"><u>[New] 2024 Approved Decoding the Mystery Insider Knowledge on Story Watchers</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-craft-your-story-with-immersive-youtube-video-editing-tips/"><u>[New] In 2024, Craft Your Story with Immersive YouTube Video Editing Tips</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-streamlining-your-editing-workflow-with-final-cut-pro-tips/"><u>[New] Streamlining Your Editing Workflow with Final Cut Pro Tips</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-transform-your-videos-simple-steps-to-include-youtube-subtitlescc/"><u>[New] Transform Your Videos Simple Steps to Include YouTube Subtitles/CC</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-how-sony-vegas-transforms-ordinary-footage-into-youtube-stardom/"><u>[Updated] How Sony Vegas Transforms Ordinary Footage Into YouTube Stardom</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-legal-means-to-elevate-your-youtube-popularity-by-one-million/"><u>[Updated] Legal Means to Elevate Your YouTube Popularity by One Million</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/2024-approved-unbeatable-youtube-video-titling-assistant/"><u>2024 Approved Unbeatable YouTube Video Titling Assistant</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/2024-approved-vocal-variations-a-curated-list-of-the-best-15-youtube-vocals-tutorials/"><u>2024 Approved Vocal Variations A Curated List of the Best 15 YouTube Vocals Tutorials</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-sign-a-pdf-v20-document-with-digital-signature-software-by-ldigisigner-sign-a-pdf-sign-a-pdf/"><u>How to sign a PDF v2.0 document with digital signature software</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-in-2024-end-your-struggles-with-choppy-playback-on-davinci-resolve-read-this-guide-to-find-effective-fixes-and-reliable-davinci-resolve-slow-playback-al/"><u>New In 2024, End Your Struggles with Choppy Playback on DaVinci Resolve. Read This Guide to Find Effective Fixes and Reliable DaVinci Resolve Slow Playback Alternatives</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/top-rated-vpns-for-macos-users-comprehensive-reviews-and-comparisons-techradar/"><u>Top-Rated VPNs for macOS Users: Comprehensive Reviews & Comparisons - TechRadar</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-speedy-accurate-transcripts-at-your-fingertips-with-5-best-zoom-software-options/"><u>[New] In 2024, Speedy, Accurate Transcripts at Your Fingertips with 5 Best Zoom Software Options</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-step-by-step-method-for-selecting-tiktok-screenshots/"><u>[New] Step-by-Step Method for Selecting TikTok Screenshots</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-expertise-for-selective-zooming-in-online-conferencing-google-meet/"><u>2024 Approved Expertise for Selective Zooming in Online Conferencing (Google Meet)</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/aiffwma/"><u>AIFFからWMAへの無料オンライン音声ファイル変換ツール - モヴァビ</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/descargar-y-convertir-archivos-3gp-a-formatos-webm-sin-costo-con-movavi/"><u>Descargar Y Convertir Archivos 3GP a Formatos WebM Sin Costo Con Movavi</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/enhancing-claims-management-with-abbyys-digital-expertise-at-ecclesia-gruppe-an-seo-optimized-approach-to-insurance-services/"><u>Enhancing Claims Management with ABBYY's Digital Expertise at Ecclesia Gruppe – An SEO-Optimized Approach to Insurance Services</u></a></li>
+<li><a href="https://discover-forum.techidaily.com/fixing-a-malfunctioning-keyboard-solutions-for-sticky-non-responsive-keys-expert-advice-from-yl-computing/"><u>Fixing a Malfunctioning Keyboard: Solutions for Sticky, Non-Responsive Keys - Expert Advice From YL Computing</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/gif-a-jpeg-free-online-conversion-service-movavi/"><u>GIF a JPEG Free Online Conversion Service - Movavi</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/gratis-convertir-imagenes-de-formato-tiff-a-jpg-online-con-eficiencia-usando-movavi/"><u>Gratis Convertir Imágenes De Formato TIFF a JPG Online Con Eficiência - Usando Movavi</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/guide-facile-pour-convertir-un-dvd-en-fichier-avi-avec-movavi-video-converter/"><u>Guide Facile Pour Convertir Un DVD en Fichier AVI Avec Movavi Video Converter</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-show-wi-fi-password-on-samsung-galaxy-z-fold-5-by-drfone-android/"><u>How to Show Wi-Fi Password on Samsung Galaxy Z Fold 5</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/meme-generator-zombodroid/"><u>MEME Generator Zombodroid</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/top-free-disc-writing-applications-ideal-software-for-burning-dvds-cds-and-blu-rays-on-windows-pc/"><u>Top Free Disc Writing Applications: Ideal Software for Burning DVDs, CDs & Blu-Rays on Windows PC</u></a></li>
+<li><a href="https://some-tips.techidaily.com/understanding-google-one-a-comprehensive-review-of-benefits-and-value/"><u>Understanding Google One: A Comprehensive Review of Benefits & Value</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/vob-mp4/"><u>무료로 이동하기: VOB를 MP4로 쉽게 변환하는 가상화 방법</u></a></li>
 </ul></div>
 

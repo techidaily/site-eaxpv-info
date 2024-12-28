@@ -1,7 +1,7 @@
 ---
 title: "[Updated] YouTube's Best Practices for Maximum Impact Thumbnails"
-date: 2024-08-20T12:59:48.347Z
-updated: 2024-08-21T12:59:48.347Z
+date: 2024-12-22T17:28:28.397Z
+updated: 2024-12-28T16:47:10.529Z
 tags:
   - ai video
   - ai youtube
@@ -33,8 +33,9 @@ So you may be wondering what the best **youtube thumbnail size** is, and how to 
 * [**Part 3:** **Q&A-- About Creating YouTube Thumbnails**](#part3)
 
 <!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## **Part 1: The Ultimate Guide of Youtube Thumbnail Size**
 
 Every content creator needs to select the right youtube thumbnail size for any given video.
@@ -65,14 +66,15 @@ YouTube makes it very simple and easy for any content creator to publish custom 
 
 * Upload your desired video to YouTube in the Upload section.
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![change thumbnail size](https://images.wondershare.com/filmora/article-images/upload-thumbnail-image1.jpg)
 
 * When your upload to the YouTube is completed a section will appear at the down portion of the browser screen showing **Video Thumbnails**. Here YouTube automatically creates some thumbnail images from your uploaded video and shows them here. These are the screenshots from your video, and you can select any one of them to be your thumbnail.
 
 ![set video thumbnail](https://images.wondershare.com/filmora/article-images/video-thumbnail2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 * You will be able to see a button right next to the image – **Custom thumbnail**. Click on the button and you can upload a set of images of your choice as the thumbnail of your video.
 * Once done you can see the custom image just uploaded as the thumbnail of your video.
@@ -90,18 +92,20 @@ To change the thumbnail on an already uploaded video you need to follow these st
 * Sign in to YouTube Studio associated with your YouTube channel.
 * From the menu go to **Videos** and then select the video you want to upload a custom thumbnail to via its title or thumbnail
 
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![upload thumbnail image](https://images.wondershare.com/filmora/article-images/change-thumbnail5.jpg)
 
 * Now in the thumbnail section if you already haven’t uploaded a custom thumbnail, click **Custom thumbnail**.
 * Select your intended thumbnail file and click **Save**.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![best thumbnail size](https://images.wondershare.com/filmora/article-images/change-thumbnail6.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 3: Q&A-- About YouTube Thumbnail Images
 
@@ -110,9 +114,6 @@ You may want to know:
 * [**Question 1:** **How do I make my youtube thumbnail less than 2mb?**](#question1)
 * [**Question 2:** **How can I create an attractive youtube thumbnail?**](#question2)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 1\. How do I make my youtube thumbnail less than 2mb?
 
 YouTube will not allow you to upload a custom thumbnail image if it is bigger than the 2MB limit. So, you need to make sure the file size is below the limit to be able to successfully upload a custom thumbnail. To reduce the image size you can follow the steps below:
@@ -132,10 +133,11 @@ Wondershare Filmora is an outstanding tool if you want to make a perfect thumbna
 
 Let's see how you can create your thumbnail using Wondershare Filmora:
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 **[![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #### 2\. Try Wondershare PixStudio>>
 
@@ -161,8 +163,6 @@ Richard Bennett is a writer and a lover of all things video.
 
 Follow @Richard Bennett
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -170,5 +170,24 @@ Follow @Richard Bennett
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-posts.techidaily.com/updated-determining-the-right-price-point-for-youtubers/"><u>[Updated] Determining the Right Price Point for YouTubers</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/3-best-tools-to-hard-reset-samsung-galaxy-a15-4g-drfone-by-drfone-reset-android-reset-android/"><u>3 Best Tools to Hard Reset Samsung Galaxy A15 4G | Dr.fone</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/icloud/"><u>初心者用iCloud写真ダウンロード方法：５つのステップバイステップ・チュートリアル</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/convert-videos-to-apple-tv-format-at-no-cost-with-macx-top-free-video-converter-for-mac-users/"><u>Convert Videos to Apple TV Format at No Cost with MacX: Top Free Video Converter for Mac Users</u></a></li>
+<li><a href="https://extra-information.techidaily.com/exploring-the-world-of-book-trailers-with-top-5-picks/"><u>Exploring the World of Book Trailers with Top 5 Picks</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/first-ever-free-macxdvd-hosts-2016-thanksgiving-promotion-get-your-exclusive-copy-of-the-latest-macx-video-converter-pro-version-60/"><u>First-Ever Free MacXDVD Hosts 2016 Thanksgiving Promotion: Get Your Exclusive Copy of the Latest MacX Video Converter Pro Version 6.0!</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/halloween-horror-or-great-treat-score-20k-free-ipad-and-iphone-video-converters-with-the-macxdvd-trick-or-treating-giveaway/"><u>Halloween Horror or Great Treat? Score 20K Free iPad & iPhone Video Converters with the MacXDVD Trick-or-Treating Giveaway!</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-8-safe-and-effective-methods-to-unlock-your-iphone-8-without-a-passcode-by-drfone-ios/"><u>In 2024, 8 Safe and Effective Methods to Unlock Your iPhone 8 Without a Passcode</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-how-do-you-get-sun-stone-evolutions-in-pokemon-for-apple-iphone-13-pro-drfone-by-drfone-virtual-ios/"><u>In 2024, How Do You Get Sun Stone Evolutions in Pokémon For Apple iPhone 13 Pro? | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-reset-the-security-questions-of-your-apple-id-on-your-apple-iphone-15-pro-by-drfone-ios/"><u>In 2024, How To Reset the Security Questions of Your Apple ID On Your Apple iPhone 15 Pro</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/leading-mp4-unpacker-applications-simplify-high-quality-video-decompression/"><u>Leading MP4 Unpacker Applications: Simplify High-Quality Video Decompression</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/macx-dvd-video-converter-pro-pack/"><u>MacX DVD Video Converter Pro Packの理解 - 日本語設定、操作手順、ライセンス権利解説</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/revive-your-iphones-photography-skills-fixing-the-focus-problem/"><u>Revive Your iPhone's Photography Skills: Fixing the Focus Problem</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/solved-move-from-infinix-note-30-vip-racing-edition-to-ios-not-working-problems-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Solved Move from Infinix Note 30 VIP Racing Edition to iOS not Working Problems | Dr.fone</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/step-by-step-guide-transferring-your-dvd-collection-onto-icloud/"><u>Step-by-Step Guide: Transferring Your DVD Collection Onto iCloud</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-next-wave-of-risks-in-generative-ai-tech/"><u>The Next Wave of Risks in Generative AI Tech</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/top-rated-macx-pro-ultimate-free-mobile-video-transformer-seamlessly-adapt-videos-for-your-smartphone/"><u>Top Rated MacX Pro: Ultimate Free Mobile Video Transformer - Seamlessly Adapt Videos for Your Smartphone</u></a></li>
+</ul></div>
 

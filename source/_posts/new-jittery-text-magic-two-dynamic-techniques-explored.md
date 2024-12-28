@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Jittery Text Magic  Two Dynamic Techniques Explored\""
-date: 2024-08-20T13:01:36.522Z
-updated: 2024-08-21T13:01:36.522Z
+date: 2024-12-24T16:36:59.157Z
+updated: 2024-12-28T17:14:36.506Z
 tags:
   - ai video
   - ai youtube
@@ -27,17 +27,9 @@ thumbnail: https://thmb.techidaily.com/1acb8c811dd75a749590a9459a8ce73dd17ec95c9
 Earlier, you learned how to have a **[bounce text effect in Adobe After Effects](https://tools.techidaily.com/wondershare/filmora/download/)**. However, because AE is a complex application and has a steep learning curve, this section explains the two alternative ways to get the same effect on your existing video footage.
 
 <!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Method 1: How to Create Bouncing Text in Filmora Video Editor?
 
 When talking about [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/), the application is populated with several presets for texts and titles, animations, effects, filters, and much more.
@@ -64,20 +56,18 @@ Go to **Effects** from the standard toolbar, expand the **Filters** category fro
 
 ![Shake filters in Filmora9](https://images.wondershare.com/filmora/article-images/shake-filter.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 You can customize the default effect by double-clicking the shake filter in the timeline, using the sliders in the upper-left area of the interface to make necessary adjustments, and then clicking **OK** to save the changes and to get back to the previous interface.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![Mild Shake filters adjust](https://images.wondershare.com/filmora/article-images/mild-shake-filter-adjust.jpg)
 
 **Step 4: Export the Final Output**
 
 Click **EXPORT** from the top of the interface, go to the **Local** tab in the **Export** box, choose your preferred output format from the list in the left, make required customizations from the right pane, and click **EXPORT** from the bottom-right corner to export the video.
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Filmora9 Export Options](https://images.wondershare.com/filmora/article-images/export-filmora9-video.jpg)
 
 Now, you can add the bouncing text video and the background video to the timeline, and then place the bouncing text video above the background video track.
@@ -86,14 +76,12 @@ Double click the text track, go to the **Chroma Key** effect, select the **Color
 
 As explained before, Wondeshare Filmora makes the entire process of creating and adding **bounce text** effect pretty simple. With all the pre-build templates, and the versatility of the options that can be used to customize those presets, you can come up with the effects that are usually obtained when you start generating them from the scratch.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 [![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Method 2: Generate Animated Bouncing Texts Online
 
 If you don’t want any heavy and resource-intensive app on your PC merely for some special text effects, you can try any of the online solutions instead. The benefit of using any such web app is that all the processing is done on site’s server, and it is only a web browser and an Internet connection that you need to have at your side.
@@ -105,6 +93,10 @@ Some most trusted websites to generate **bounce text** are listed below:
 Website: <https://engfto.com/index/create%5Fanimated%5Fbouncing%5Ftext/0-26>
 
 ![Create Animated Bouncing Text with ENGFTO](https://images.wondershare.com/filmora/article-images/engfto-create-animated-bouncing-text.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 You can follow the instructions given below to use Engfto to generate bouncing text for your footages:
 
@@ -130,10 +122,11 @@ Launch your favorite web browser and go to <https://loading.io/animation/text/>.
 
 **Step 2: Customize the Text and Choose Animation Effect**
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![Create Animated Bouncing Text with Loading.io](https://images.wondershare.com/filmora/article-images/create-bouncing-text-with-loadingio.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Use the options available on the webpage to type your text, and change its font, color, background, transparency level etc. Select **Bounce** (or any of its variants) from the **Animation** drop-down list, and adjust the speed using the **Speed** slider.
 
@@ -155,8 +148,6 @@ Liza Brown is a writer and a lover of all things video.
 
 Follow @Liza Brown
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -164,5 +155,23 @@ Follow @Liza Brown
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-friendly.techidaily.com/updated-accelerating-fb-video-optimal-speeds-unveiled/"><u>[Updated] Accelerating FB Video Optimal Speeds Unveiled</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/1-ultimate-xyz-ripper-pro-app-professional-dvd-extraction-and-hd-video-upgrader-with-smartphone-sync-feature/"><u>1. Ultimate XYZ Ripper Pro App - Professional DVD Extraction & HD Video Upgrader with Smartphone Sync Feature</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-kinetic-gameplay-reimagined-a-comprehensive-analysis-of-kinemaster-on-android/"><u>2024 Approved Kinetic Gameplay Reimagined A Comprehensive Analysis of KineMaster on Android</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-mastering-minecrafts-geometric-forms-circular-and-spherical-creation/"><u>2024 Approved Mastering Minecraft's Geometric Forms Circular & Spherical Creation</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-quick-cash-on-reddit-here-are-13-ways-for-new-users/"><u>2024 Approved Quick Cash on Reddit? Here Are 13 Ways for New Users</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-quick-steps-to-record-movies-on-your-tech-devices/"><u>2024 Approved Quick Steps to Record Movies on Your Tech Devices</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/can-handbrake-handle-and-convert-av1-video-format/"><u>Can HandBrake Handle and Convert AV1 Video Format?</u></a></li>
+<li><a href="https://common-error.techidaily.com/corsair-keyboard-revamp-fixes-and-tips-for-restoring-backlight-functionality/"><u>Corsair Keyboard Revamp: Fixes and Tips for Restoring Backlight Functionality</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-nokia-c12-location-by-number-drfone-by-drfone-virtual-android/"><u>How to Track Nokia C12 Location by Number | Dr.fone</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/mastering-dvd-decryption-remove-copy-protection-with-winxdvd-for-pc-and-mac-users/"><u>Mastering DVD Decryption: Remove Copy Protection with WinXDVD for PC & Mac Users</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/optimize-your-pcs-performance-reducing-high-cpu-load-while-watching-videos-on-windows-11/"><u>Optimize Your PC's Performance: Reducing High CPU Load While Watching Videos on Windows 11</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/soluciones-profesionales-de-apoyo-tecnico-en-linea-para-la-herramienta-ripper-y-convertidor-de-video-winx-dvd-software/"><u>Soluciones Profesionales De Apoyo Técnico en Línea Para La Herramienta Ripper Y Convertidor De Video WinX DVD Software</u></a></li>
+<li><a href="https://article-files.techidaily.com/the-decades-guide-to-superior-social-media-management-smm/"><u>The Decade's Guide to Superior Social Media Management (SMM)</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/top-3-free-dvd-ripping-tools-for-windows-11-convert-your-dvds-to-mp4aviwmv-without-hassle/"><u>Top 3 Free DVD Ripping Tools for Windows 11: Convert Your DVDs to MP4/AVI/WMV Without Hassle</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/troubleshooting-a-noisy-dvd-player-effective-tips-for-quiet-operation-when-watching-movies/"><u>Troubleshooting a Noisy DVD Player: Effective Tips for Quiet Operation When Watching Movies</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-s-top-rated-free-music-recording-programs-a-comprehensive-list-for-2024/"><u>Updated S Top-Rated Free Music Recording Programs A Comprehensive List for 2024</u></a></li>
+</ul></div>
 

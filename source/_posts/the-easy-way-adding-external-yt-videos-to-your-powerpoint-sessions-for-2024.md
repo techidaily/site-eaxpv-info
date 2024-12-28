@@ -1,7 +1,7 @@
 ---
 title: "\"The Easy Way  Adding External YT Videos to Your PowerPoint Sessions for 2024\""
-date: 2024-08-20T13:01:01.766Z
-updated: 2024-08-21T13:01:01.766Z
+date: 2024-12-26T16:43:37.559Z
+updated: 2024-12-28T16:18:53.077Z
 tags:
   - ai video
   - ai youtube
@@ -30,15 +30,16 @@ When talking about PowerPoint, it is an efficient and powerful tool to prepare a
 
 That said, here you will learn a couple of methods to **embed YouTube video in PowerPoint**.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Insert YouTube Video into PowerPoint? (4 Methods)
 
 After understanding the benefits of have a video embedded to your presentation, it is now time to learn **how to add YouTube video to PowerPoint**.
 
 The four most used methods of getting this done are discussed in detailed in the following sections:
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Method 1: Using YouTube Video’s URL
 
 Because every YouTube video has a URL (Uniform Resource Locator) that is unique for that particular clip, PowerPoint allows you to use it to embed the footage to any of its slides. The process is simple, and you can follow the steps given below to get this done:
@@ -49,10 +50,11 @@ Open your default web browser, go to the YouTube video you want to embed to Powe
 
 **Step 2: Add URL to PowerPoint**
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![embed YouTube video to PowerPoint](https://images.wondershare.com/filmora/article-images/embed-youtube-video-via-url.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Launch PowerPoint if it is not already open, go to the slide you want to embed the YouTube video to, click **Insert** from menu bar present above the Ribbon, click **Video** from the **Media** section at the right end of the Ribbon, click **Online Video** from the list that appears, in the **Enter the URL for the online video** field on the **Online Video** box, paste the URL that you copied earlier, and click **Insert** to **insert YouTube video into PowerPoint**.
 
@@ -70,10 +72,11 @@ Unlike PowerPoint 2019 that accepts URLs and embed codes in a single URL field, 
 
 Go to the YouTube video you want to embed to your PowerPoint slide, click the **SHARE** icon from the left area under the video player, click the **Embed** icon in the **Share** box, and click **COPY** from the bottom-right corner of the **Embed Video** box that appears next.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![embed YouTube video code to PowerPoint](https://images.wondershare.com/filmora/article-images/embed-youtube-video-in-powerpoint-via-embed-code.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 2: Get to the PowerPoint’s Insert Video Box**
 
@@ -84,8 +87,9 @@ Launch MS PowerPoint 2016, click **Insert** from the menu bar at the top, from t
 Paste the embed code you copied earlier in the **Paste embed code here** field present next to the **From a Video Embed Code** option, and press **Enter** to **embed YouTube video in PowerPoint**.
 
 <!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Method 3: Insert YouTube Video into PowerPoint by Searching Names (For Microsoft PowerPoint 2016)
 
 Microsoft Office 2016 has another lucrative feature that allows users to **embed YouTube video in PowerPoint** by searching its name. You can follow the steps given below to find the videos published on YouTube, and insert them to your presentation:
@@ -119,17 +123,9 @@ Click the **Video** icon from the **Media** section of the Ribbon, click **Video
 Grab any of the six handles of the video you inserted, and drag it inward to decrease the size of the frame. It is advisable to use the corner handle and drag them diagonally to maintain proper aspect ratio of the player’s frame. Next, right-click anywhere inside the frame, click **Format Video** from the context menu, and use the options that appear in the right pane to make necessary adjustments to the clip like color correction, manage brightness and contrast, etc.
 
 <!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="1080" height="1620" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## YouTube Embedding Supported PowerPoint Version Checklist
 
 Depending on the version of Microsoft Office you are using, you may or may not be able to embed a YouTube video in PowerPoint. Also, if your version of PowerPoint allows you to do so, the interface and the options may vary from those you see on your friends’ computer or in some online tutorials.
@@ -167,18 +163,6 @@ YouTube videos that you embed to your PowerPoint presentations can’t be played
 
 Although the above sections explain **how to embed a YouTube video in PowerPoint**, the process to do so may vary in different versions of Microsoft Office. Also, depending on what edition of the program you are using, embedding YouTube videos may or may not be supported according to the availability of the add-ins or updates that Microsoft has rolled out for that particular built of the app.
 
-<!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 Richard Bennett
@@ -187,8 +171,6 @@ Richard Bennett is a writer and a lover of all things video.
 
 Follow @Richard Bennett
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -196,5 +178,26 @@ Follow @Richard Bennett
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-all-about-kinemaster-androids-ultimate-gaming-companion/"><u>[New] In 2024, All About KineMaster Android's Ultimate Gaming Companion</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-top-tips-acquiring-high-quality-backdrop-visuals/"><u>[Updated] 2024 Approved Top Tips Acquiring High-Quality Backdrop Visuals</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-in-2024-score-selection-service-enhancing-media-pieces/"><u>[Updated] In 2024, Score Selection Service Enhancing Media Pieces</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-masterclass-from-yis-4k-to-thrilling-cinematography/"><u>2024 Approved Masterclass From Yi's 4K to Thrilling Cinematography</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/autophagy/"><u>Autophagy</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/capture-the-light-filmographys-five-essential-camera-techniques-of-24/"><u>Capture the Light Filmography's Five Essential Camera Techniques of '24</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/consumer-groups-sue-t-mobile-for-misleading-price-protection-promise-a-closer-look-at-the-allegations/"><u>Consumer Groups Sue T-Mobile for Misleading Price Protection Promise: A Closer Look at the Allegations</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/effective-solutions-every-time-your-iphone-loses-wi-fi-connection/"><u>Effective Solutions Every Time Your iPhone Loses Wi-Fi Connection</u></a></li>
+<li><a href="https://win-forum.techidaily.com/efficiently-auto-emphasize-peak-points-on-your-excel-charts-mining-data-extremes/"><u>Efficiently Auto-Emphasize Peak Points on Your Excel Charts - Mining Data Extremes</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/embracing-change-how-the-unique-benefits-of-the-oura-ring-make-it-a-must-have-despite-disliking-subscriptions/"><u>Embracing Change: How the Unique Benefits of the Oura Ring Make It a Must-Have Despite Disliking Subscriptions</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-move-contacts-from-realme-narzo-n55-to-iphone-131415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways to Move Contacts From Realme Narzo N55 to iPhone (13/14/15) | Dr.fone</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/introducing-the-elite-of-smartwatches-the-all-new-luxurious-galaxy-watch-ultra-by-samsung/"><u>Introducing the Elite of Smartwatches: The All-New, Luxurious Galaxy Watch Ultra by Samsung</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/meet-the-new-era-in-mobile-tech-samsung-introduces-galaxy-z-flip-sixth-gen-folding-smartphone/"><u>Meet the New Era in Mobile Tech: Samsung Introduces Galaxy Z Flip ˈSixth-Gen Folding Smartphone</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-undetected-external-monitors-in-windows-7-solved/"><u>Troubleshooting Undetected External Monitors in Windows 7 - Solved!</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/unveiling-why-acquiring-a-new-iphone-is-not-recommended-at-this-moment/"><u>Unveiling Why Acquiring a New iPhone Is Not Recommended at This Moment</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/verbesserung-bis-zur-perfektion-masterclass-mit-winxvideo-zum-aufnehmen-editieren-komprimieren-und-konvertieren-von-videos/"><u>Verbesserung Bis Zur Perfektion - Masterclass Mit Winxvideo Zum Aufnehmen, Editieren, Komprimieren Und Konvertieren Von Videos</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/why-is-my-iphone-heating-up-uncover-the-causes-and-remedies-for-an-overheated-device/"><u>Why Is My iPhone Heating Up? Uncover the Causes & Remedies for an Overheated Device</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/why-use-iphone-reflection-instead-of-running-apps-on-a-mac-a-smart-alternative/"><u>Why Use iPhone Reflection Instead of Running Apps on a Mac - A Smart Alternative</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/windows-inspired-chromeos-update-arrives-bringing-new-functionality-to-chromebooks-as-reported/"><u>Windows-Inspired ChromeOS Update Arrives, Bringing New Functionality to Chromebooks as Reported</u></a></li>
+</ul></div>
 

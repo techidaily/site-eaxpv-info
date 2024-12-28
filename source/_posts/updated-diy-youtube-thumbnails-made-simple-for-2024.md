@@ -1,7 +1,7 @@
 ---
 title: "[Updated] DIY YouTube Thumbnails Made Simple for 2024"
-date: 2024-08-20T13:02:31.420Z
-updated: 2024-08-21T13:02:31.420Z
+date: 2024-12-27T17:22:40.771Z
+updated: 2024-12-28T16:09:01.053Z
 tags:
   - ai video
   - ai youtube
@@ -45,32 +45,18 @@ With time, Filmora brings new and advanced features for its users to equip them 
 
 **Step 02:** Make sure that the aspect ratio of your project is 16:9\. To do that, click on a screen-shaped icon below the preview screen and select "Change Project Aspect Ratio."
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![ai-portrait-thumbnail-step2](https://images.wondershare.com/filmora/article-images/ai-portrait-thumbnail-step2.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 03:** Change the Aspect Ratio to 16:9 if it is not set to it already. 16:9 aspect ratio is the standard size of Youtube thumbnails that represents the best possible results.
 
-<!-- affiliate ads begin -->
-<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![ai-portrait-thumbnail-step3](https://images.wondershare.com/filmora/article-images/ai-portrait-thumbnail-step4.png)
 
 **Step 04:** Choose a background of your choice for your thumbnail. You can choose a background from the sample colors provided by Filmora.
 
-<!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![ai-portrait-thumbnail-step4](https://images.wondershare.com/filmora/article-images/ai-portrait-thumbnail-step4.png)
 
 **Step 05:** If you want to use your custom background, you can import it into the Filmora by clicking import or dragging and dropping it in the media section.
@@ -79,18 +65,27 @@ With time, Filmora brings new and advanced features for its users to equip them 
 
 **Step 06:** Import your video the same way into the media folder of Filmora and drag it into the timeline and place it above your background.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![ai-portrait-thumbnail-step6](https://images.wondershare.com/filmora/article-images/ai-portrait-thumbnail-step6.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 07:** Select your footage, go to the Effects tab and click on AI Portraits. It will open up all the effects related to AI Portraits. These AI Portrait features help you separate the human from a background without using a green screen or anything else.
 
 ![ai-portrait-thumbnail-step7](https://images.wondershare.com/filmora/article-images/ai-portrait-thumbnail-step11.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 08:** Double click on any of these effects to see how they will look like on your footage.
 
 ![ai-portrait-thumbnail-step8](https://images.wondershare.com/filmora/article-images/ai-portrait-thumbnail-step8.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 09:** To make a thumbnail for your Youtube, we have to remove the background of your footage first. To do that we have to apply Human Segmentation to the footage first. It will separate the human from the footage. Drag and drop the Human Segmentation effect into the footage in the timeline. Once you drop it into the footage, it will ask you to purchase this feature to export the footage. Since we are not trying to export the footage, we are only creating a thumbnail, click on "Try It". Once the background is removed, you can add other effects as well. Drag and drop the "Human Border" into the footage. It creates an outline around the human in your footage.
 
@@ -102,16 +97,14 @@ With time, Filmora brings new and advanced features for its users to equip them 
 
 **Step 11:** Now it is time to add a title into your thumbnail to highlight what the video is all about. Go to the Titles, and select lower thirds. You can also select any of the titles types which best suits your needs. Drop the title into the timeline above the footage and adjust it accordingly. Now double click on the header to edit and rename it.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![ai-portrait-thumbnail-step11](https://images.wondershare.com/filmora/article-images/ai-portrait-thumbnail-step11.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 12:** Once you are satisfied with the final results, click on the Camera icon below the preview screen or press "Ctrl+Alt+S" to take the screenshot.
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![ai-portrait-thumbnail-step12](https://images.wondershare.com/filmora/article-images/ai-portrait-thumbnail-step12.png)
 
 #### Conclusion
@@ -130,8 +123,6 @@ Shanoon Cox is a writer and a lover of all things video.
 
 Follow @Shanoon Cox
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -139,5 +130,21 @@ Follow @Shanoon Cox
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-skills.techidaily.com/new-the-subscriber-sequence-strategizing-success-on-youtube/"><u>[New] The Subscriber Sequence Strategizing Success on YouTube</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-mastering-the-transition-moving-your-snapchat-savings-home/"><u>[Updated] In 2024, Mastering the Transition Moving Your Snapchat Savings Home</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-unlocking-the-power-of-visuals-zooms-filter-guide/"><u>[Updated] Unlocking the Power of Visuals Zoom's Filter Guide</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/a-complete-guide-to-digitizing-your-dvd-collection-across-desktop-laptop-and-smartphones/"><u>A Complete Guide to Digitizing Your DVD Collection Across Desktop, Laptop & Smartphones</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/guia-paso-a-paso-para-transferir-archivos-iso-a-un-disco-dvd-en-windows-11/"><u>Guía Paso a Paso Para Transferir Archivos ISO a Un Disco DVD en Windows 11</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-top-5-oppo-a38-bypass-frp-tools-for-pc-that-actually-work-by-drfone-android/"><u>In 2024, Top 5 Oppo A38 Bypass FRP Tools for PC That Actually Work</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/must-have-samsung-smart-tv-apps-a-comprehensive-list-for-ultimate-entertainment/"><u>Must-Have Samsung Smart TV Apps : A Comprehensive List for Ultimate Entertainment</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolved-fixing-the-windows-cannot-reach-system-event-notification-service-error/"><u>Resolved: Fixing the 'Windows Cannot Reach System Event Notification Service' Error</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/review-of-the-romer-portable-charge-up-searchlight-a-reliable-and-high-powered-nighttime-beacon/"><u>Review of the Romer Portable Charge-Up Searchlight: A Reliable & High-Powered Nighttime Beacon</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/start-making-money-today-top-13-easy-methods-for-newbies/"><u>Start Making Money Today! Top 13 Easy Methods for Newbies</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/step-by-step-companion-effortless-dvd-conversion-using-winx-dvd-ripper-suite-on-your-mac-device/"><u>Step-by-Step Companion: Effortless DVD Conversion Using WinX DVD Ripper Suite on Your Mac Device</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/troubleshooting-davinci-resolve-webm-export-issues-effective-solutions-uncovered/"><u>Troubleshooting DaVinci Resolve WebM Export Issues - Effective Solutions Uncovered</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/ultimate-guide-to-choosing-a-quality-mkv-splitter-for-seamless-cutting-without-re-encryption/"><u>Ultimate Guide to Choosing a Quality MKV Splitter for Seamless Cutting Without Re-Encryption</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/1725287329930-xmedia-recode6/"><u>XMedia Recodeでエンコーディングを失敗した場合、解決策として実行すべき6つのステップ</u></a></li>
+</ul></div>
 

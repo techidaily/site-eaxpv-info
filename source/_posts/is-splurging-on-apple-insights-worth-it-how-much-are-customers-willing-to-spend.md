@@ -1,7 +1,7 @@
 ---
 title: Is Splurging on Apple Insights Worth It? How Much Are Customers Willing to Spend?
-date: 2024-12-03T17:08:19.705Z
-updated: 2024-12-07T19:15:50.753Z
+date: 2024-12-24T16:19:44.265Z
+updated: 2024-12-28T17:10:14.694Z
 tags:
   - apple
 categories:
@@ -29,7 +29,7 @@ If anything, the latest iOS 18.1 betas with Apple Intelligence features have bee
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The annual upgrade ritual
@@ -37,10 +37,6 @@ If anything, the latest iOS 18.1 betas with Apple Intelligence features have bee
 Every year, my wife and I eagerly await the release of the new iPhones. Being part of [Apple's Upgrade Program](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fiphone%2Fiphone-upgrade-program&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp), we return our devices, reset our loan with Citizens Bank, and acquire the latest model. Over the past few years, I have opted for the [Pro Max](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fiphone-15-pro%2F&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp), and my wife has chosen the [base model](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fiphone-15%2F&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp). The expected annual improvements have been incremental but appreciated. 
 
 Despite the buzz around the [iPhone 16's new features](https://www.zdnet.com/article/im-an-android-user-but-these-three-iphone-16-features-would-win-me-over/) and the integration of Apple Intelligence, however, several concerns dampen my enthusiasm for upgrading this year.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Apple Intelligence: A significant, yet incomplete, leap forward
 
@@ -67,7 +63,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## New hardware leaks: what to expect from the iPhone 16
@@ -86,6 +82,10 @@ Interestingly, despite these hardware upgrades, Apple appears to be keeping pric
 
 Despite these upgrades, the iPhone 16 may still face challenges due to design cycles that didn't fully account for the scope of Apple Intelligence's capabilities. As a result, users may experience suboptimal performance and a less seamless user experience, especially as more AI features roll out in subsequent updates.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Why you shouldn't buy the iPhone 16 for Apple Intelligence
 
 Besides memory concerns, AI processing demands a lot of power and additional computing resources. Without significant advancements in battery and power management technology, users might have to charge their phones more often. This can lead to increased battery drain, reduced battery lifespan, and potential performance issues. The extra processing power needed to run on-device LLMs could strain the CPU, causing the device to heat up and affecting its overall performance and reliability.
@@ -95,7 +95,7 @@ Besides memory concerns, AI processing demands a lot of power and additional com
 For these reasons, I see the iPhone 16 (and potentially even the iPhone 17) as a transitional product in Apple's journey toward on-device AI. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How Apple Intelligence will likely evolve
@@ -115,7 +115,7 @@ Enterprises may also employ a mobile device management solution to facilitate ac
 Imagine your iPhone using the unused processing power of your Mac or iPad, all equipped with on-device LLMs, to tackle complex AI tasks. This would increase the accessibility of AI features across Apple's product range.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## I'm still optimistic
@@ -158,22 +158,15 @@ _This article was originally published on June 28, 2024, and updated on August 2
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-zero-to-hero-creating-an-online-gaming-empire/"><u>[New] 2024 Approved From Zero to Hero Creating an Online Gaming Empire</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-become-a-travel-vlogger-guide-of-travel-vlogging/"><u>[New] 2024 Approved How To Become A Travel Vlogger | Guide of Travel Vlogging</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-live-stream-to-youtube-with-wirecast/"><u>[New] 2024 Approved How to Live Stream to Youtube with Wirecast?</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-from-clicks-to-cash-the-journey-of-youtubes-ajay-nagar-for-2024/"><u>[New] From Clicks to Cash The Journey of YouTube's Ajay Nagar for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-get-free-youtube-music-anytime-with-these-high-performing-splitters-for-2024/"><u>[New] Get Free YouTube Music Anytime With These High-Performing Splitters for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-how-to-edit-youtube-videos-ultimate-guide-for-2024/"><u>[New] How To Edit YouTube Videos [Ultimate Guide] for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-fiscal-footprint-of-mr-beast/"><u>[New] In 2024, Fiscal Footprint of Mr. Beast</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-global-viewership-kings-youtubes-viral-royalty/"><u>[New] In 2024, Global Viewership Kings YouTube's Viral Royalty</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/bypassing-google-account-with-vnrom-bypass-for-itel-by-drfone-android/"><u>Bypassing Google Account With vnROM Bypass For Itel</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/capturing-classroom-dynamics-easily/"><u>Capturing Classroom Dynamics Easily</u></a></li>
-<li><a href="https://article-files.techidaily.com/crafting-a-cinematic-short-blending-images-and-melodies-for-2024/"><u>Crafting a Cinematic Short Blending Images and Melodies for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/cutting-edge-methods-for-capturing-audio-in-audacity/"><u>Cutting-Edge Methods for Capturing Audio in Audacity</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-6-ways-to-transfer-contacts-from-motorola-moto-g04-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 6 Ways To Transfer Contacts From Motorola Moto G04 to iPhone | Dr.fone</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/in-2024-mastering-facebook-live-capturing-your-broadcasts/"><u>In 2024, Mastering Facebook Live Capturing Your Broadcasts</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/social-media-savvy-instagrams-best-tips-for-gif-uploads-and-posting/"><u>Social Media Savvy Instagram's Best Tips for GIF Uploads and Posting</u></a></li>
-<li><a href="https://some-tips.techidaily.com/strategies-for-lengthening-gopros-electric-life-for-2024/"><u>Strategies for Lengthening GoPro's Electric Life for 2024</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/zdnet-exposes-the-4-worst-times-to-invest-in-apple-products-wait-before-you-buy/"><u>ZDNet Exposes the 4 Worst Times to Invest in Apple Products - Wait Before You Buy!</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-cloud-savings-guide-comparing-costs-and-top-deals/"><u>[New] Cloud Savings Guide Comparing Costs & Top Deals</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-giggles-in-the-garage-ingenious-funny-video-concepts-for-youtubers/"><u>[Updated] 2024 Approved Giggles in the Garage Ingenious Funny Video Concepts for YouTubers</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-get-people-to-subscribe-to-your-youtube-channel/"><u>[Updated] 2024 Approved How to Get People to Subscribe to Your YouTube Channel</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-smartphones-and-tablets-leading-gb-gameplayers/"><u>[Updated] 2024 Approved Smartphones & Tablets Leading GB Gameplayers</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-highlighting-youtubes-creme-de-la-creme-makeup-influencers-for-2024/"><u>[Updated] Highlighting YouTube's Crème De La Crème Makeup Influencers for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-first-foray-into-fashionable-mac-made-videos-for-youtube/"><u>[Updated] In 2024, First Foray Into Fashionable Mac-Made Videos for YouTube</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-sound-symphony-for-social-media-stardom-on-insta-reels/"><u>[Updated] Sound Symphony for Social Media Stardom on Insta Reels</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/3-methods-to-mirror-honor-x50iplus-to-roku-drfone-by-drfone-android/"><u>3 Methods to Mirror Honor X50i+ to Roku | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-nokia-c12-plus-to-any-ios-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Nokia C12 Plus to Any iOS Devices | Dr.fone</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/h-of-zest-elevate-with-elite-yoga-videos/"><u>Zenith of Zest Elevate with Elite Yoga Videos</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  Easy, Effective Strategy  Immediate Clearance of Unwanted YouTube Comments\""
-date: 2024-08-20T13:05:14.529Z
-updated: 2024-08-21T13:05:14.529Z
+date: 2024-12-23T16:57:15.160Z
+updated: 2024-12-28T16:36:06.900Z
 tags:
   - ai video
   - ai youtube
@@ -18,9 +18,6 @@ thumbnail: https://thmb.techidaily.com/fbf47cff7f90b38c5c4bfba881d1b7d8a9950edbb
 
 # Deleting YouTube Comments
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 ##### Richard Bennett
@@ -39,9 +36,6 @@ So how do you delete all YouTube comments? In this how-to blog, we will show you
 * [part 4: Delete Other People's Comments on Others' Channels](#part4)
 * [Part 5: Delete All Your Posted YouTube Comments](#part5)
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Delete YouTube Comments from Desktop?
 
 In this section, we will tell you how you can do it from your desktop.
@@ -63,9 +57,6 @@ The steps to deleting someone else’s YouTube comments from your mobile are sim
 4. Once you reach the target comment, click on the three vertical dots at the bottom corner. There should be an option called Remove. Tap on it.
 5. This will create another dialog box on the mobile app where you have to click on Remove again to delete the comment.
 
-<!-- affiliate ads begin -->
-<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How Do You Delete Your Comments from YouTube?
 
 Have you accidentally posted something on a YouTuber’s channel? Are you anxious because you cannot find the comment and delete it?
@@ -77,6 +68,10 @@ Fear not. Read on to know how to **delete all comments you posted on someone els
 3. Once there, you need to access your Comment History page. To do this, you can click on the three horizontal lines at the top left corner of your YouTube homepage. Click on History. On the page that opens, click Comments from the panel on the right. It will direct you to your Comment History page. You can also access the YouTube comment history from [here](https://www.youtube.com/feed/history/comment%5Fhistory).
 1. When you reach the Comment History page, you will be able to find all comments you have ever posted. Scroll down to the comment you want to delete.
 2. Click on the three vertical dots that you see beside the target comment. You will find a Delete option. Tap on it, and confirm that you want to delete the comment. That completes the process. No more embarrassing comments!
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How Do You Delete Your Comments from Your Phone?
 
@@ -92,9 +87,6 @@ If it is your video where the comment to be removed is, you can go to My Channel
 1. Once you locate the video, you need to find the comment you want to delete. On the YouTube app, you may need to scroll down for a while to do this.
 2. When you reach it, click on the three vertical dots at the bottom corner of your comment. You should see an option called Delete. Click on that. You need to confirm once more that you want to delete it, and the process will be complete.
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
-<!-- affiliate ads end -->
 ## Delete Other People’s Comments on Others’ Channels
 
 Did you see a hate comment on your favorite creator’s video? Sadly, you cannot delete the comment. But, you can report it, and YouTube will hide or take it down.
@@ -116,8 +108,9 @@ To find your History from your desktop, you need to click on the three horizonta
 ![Report YouTube comments](https://images.wondershare.com/filmora/article-images/report-youtube-comment.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Delete All Your Posted YouTube Comments?
 
 You can also delete all comments you ever posted on any YouTube video by hiding your channel. When you do this, you can hide your video content temporarily. But it will irreversibly erase all your comments throughout YouTube. If you are curious, read on to know how you can do it.
@@ -127,16 +120,21 @@ You can also delete all comments you ever posted on any YouTube video by hiding 
 
 ![YouTube Settings](https://images.wondershare.com/filmora/article-images/two-ways-settings-youtube-channel.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 1. YouTube will direct you to the Settings page of your account. Choose Advanced Settings from the list on your left. You can also access it from [here](https://www.youtube.com/account%5Fadvanced).
 
 ![YouTube Advanced  Settings](https://images.wondershare.com/filmora/article-images/youtube-advanced-settings.jpg)
 
 1. Scroll down and select Delete Channel. Clicking it will not delete your account. When you click on Delete Channel, you will get two choices – ‘I want to hide my channel’ and ‘I want to permanently delete my content’. Select the first.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![YouTube Settings](https://images.wondershare.com/filmora/article-images/remove-youtube-content.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 1. YouTube will now show you what will happen when you hide your channel. Check all the boxes to confirm that you understand, and then tap on Hide My Channel. YouTube will now delete all comments made by your account.
 
@@ -146,13 +144,15 @@ YouTube can be an unsafe place with unwanted comments everywhere. In this blog, 
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Richard Bennett
 
 Richard Bennett is a writer and a lover of all things video.
 
 Follow @Richard Bennett
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -161,5 +161,22 @@ Follow @Richard Bennett
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-helps.techidaily.com/new-2024-approved-unveiling-the-elite-after-effects-plugins-compendium/"><u>[New] 2024 Approved Unveiling the Elite After Effects Plugins Compendium</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-audio-mastery-top-strategies-for-win10-users/"><u>[New] Audio Mastery Top Strategies for Win10 Users</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-quick-start-setting-up-and-using-obs-on-a-mac-computer-for-2024/"><u>[New] Quick Start Setting Up and Using OBS on a Mac Computer for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-leading-economical-screen-snapper-kit/"><u>[Updated] 2024 Approved Leading Economical Screen Snapper Kit</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/comparative-analysis-of-the-6-leading-programs-to-rip-and-decrypt-drm-protected-disney-and-sony-dvds/"><u>Comparative Analysis of the 6 Leading Programs to Rip & Decrypt DRM-Protected Disney & Sony DVDs</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/effizientes-dvd-video-konvertierungsprogramm-der-firma-digiarty-software-eine-umfassende-einfuhrung/"><u>Effizientes DVD-Video Konvertierungsprogramm Der Firma Digiarty Software: Eine Umfassende Einführung</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/effortless-video-capturing-on-win11-os/"><u>Effortless Video Capturing on Win11 OS</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/eliminate-unwanted-echos-in-discord-calls-on-windowsmac-expert-tips-and-tricks/"><u>Eliminate Unwanted Echos in Discord Calls on Windows/Mac: Expert Tips and Tricks</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/gerer-les-transferts-en-ligne-facilement-apprenez-a-utiliser-winx-dvd-ripper-and-video-converter-logiciel/"><u>Gérer Les Transferts en Ligne Facilement: Apprenez À Utiliser WinX DVD Ripper & Vidéo Converter Logiciel</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-pc-screen-to-realme-11-proplus-phones-drfone-by-drfone-android/"><u>In 2024, How to Mirror PC Screen to Realme 11 Pro+ Phones? | Dr.fone</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/pcts/"><u>PC上でTSファイルを見やすくリプレース方法 - 使い心地良しガイド!</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/telechargement-gratuit-du-convertisseur-video-en-mp3-extraction-audio-facile-de-votre-video/"><u>Téléchargement Gratuit Du Convertisseur Vidéo en MP3 : Extraction Audio Facile De Votre Vidéo</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/top-ranked-hevc-h265-video-encoders-for-mac-optimized-hq-conversion/"><u>Top-Ranked HEVC (H.265) Video Encoders for Mac : Optimized HQ Conversion</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-tier-audio-experience-the-ultimate-non-vizio-non-jbl-soundbar-reviewed-on-zdnet/"><u>Top-Tier Audio Experience: The Ultimate Non-Vizio, Non-JBL Soundbar Reviewed on ZDNet</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/1725284231995-ai/"><u>ウィンクスビデオAI:揺らぎがなくなる画像安定化ソフトウェア</u></a></li>
+</ul></div>
 

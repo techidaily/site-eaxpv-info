@@ -1,7 +1,7 @@
 ---
 title: Enhance Productivity by Setting Up Custom Alerts on Your Mac - A Guide for macOS Monterey Users | ZDNET
-date: 2024-12-21T22:17:54.470Z
-updated: 2024-12-23T02:59:42.175Z
+date: 2024-12-27T16:14:36.417Z
+updated: 2024-12-28T17:10:20.248Z
 tags:
   - apple
 categories:
@@ -26,18 +26,18 @@ So, how do you create this custom Flow? Let me show you. All you'll need to make
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Create a custom Focus
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 1\. Open System Preferences
 
 Click on the Apple menu in the top left corner of your desktop. From the resulting pop-up menu, click System Preferences.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 2\. Access Notifications & Focus
@@ -48,10 +48,6 @@ In the System Preferences window (**Figure 1**), click Notifications & Focus.
 
 Image: Jack Wallen
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 3\. Open the Focus tab
 
 Once Notifications & Focus is opened, click the Focus tab (**Figure 2**).
@@ -61,7 +57,7 @@ Once Notifications & Focus is opened, click the Focus tab (**Figure 2**).
 Image: Jack Wallen
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 4\. Create the new Focus
@@ -80,6 +76,10 @@ Image: Jack Wallen
 
 After naming and selecting a color/icon, click Add to save the new Focus.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 5\. Allowing specific notifications
 
 The next thing to do is to specific contacts or apps that will be allowed when this Focus is enabled. To do that, click + under Allowed Notifications From (**Figure 5**).
@@ -95,7 +95,7 @@ From the pop-up list, select the contact(s) you want to be allowed to interrupt 
 Image: Jack Wallen
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 6\. Set the Focus to be enabled
@@ -140,22 +140,20 @@ Use this new Focus feature wisely, and it will help you be more productive while
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-a-comprehensible-guide-to-saving-hulu-programs-on-multiple-devices/"><u>[New] 2024 Approved A Comprehensible Guide to Saving Hulu Programs on Multiple Devices</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-from-speech-to-text-a-complete-free-workshop-on-youtube-transcription-for-2024/"><u>[New] From Speech to Text A Complete, FREE Workshop on YouTube Transcription for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-growth-hacks-for-youtubers-short-form-content-boosting-view-counts-effectively-for-2024/"><u>[New] Growth Hacks for YouTuber's Short Form Content Boosting View Counts Effectively for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-creating-your-own-path-on-youtube-a-course-guide/"><u>[New] In 2024, Creating Your Own Path on YouTube A Course Guide</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-enhance-content-reach-and-impact-social-blades-role-in-youtube-analytics/"><u>[New] In 2024, Enhance Content Reach and Impact - Social Blade's Role in YouTube Analytics</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-creator-to-business-transforming-your-youtube-experience/"><u>[New] In 2024, From Creator to Business Transforming Your YouTube Experience</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-convenient-method-to-design-original-shorts-thumbnails/"><u>[Updated] 2024 Approved Convenient Method to Design Original Shorts Thumbnails</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-efficiently-achieving-color-background-separation/"><u>[Updated] 2024 Approved Efficiently Achieving Color Background Separation</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-discovering-the-future-of-broadcast-roku-and-facebook-live-for-2024/"><u>[Updated] Discovering the Future of Broadcast Roku & Facebook LIVE for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-from-good-to-great-videos-the-20-essential-shortcuts-for-success-for-2024/"><u>[Updated] From Good to Great Videos The 20 Essential Shortcuts for Success for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-leaders-in-the-evolution-of-vr-experiences/"><u>2024 Approved Leaders in the Evolution of VR Experiences</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/easy-access-luxury-free-access-to-your-dreamset-of-50-banners-in-2024/"><u>Easy-Access Luxury - Free Access to Your Dreamset of 50 Banners, In 2024</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-android-gallery-without-backup-on-pixel-7a-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to recover deleted photos from Android Gallery without backup on Pixel 7a</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/spotify-keeps-crashing-a-complete-list-of-fixes-you-can-use-on-xiaomi-14-ultra-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Spotify Keeps Crashing A Complete List of Fixes You Can Use on Xiaomi 14 Ultra | Dr.fone</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/whats-next-for-tech-enthusiasts-rumors-about-the-google-pixel-9-release-schedule-and-cost-estimates/"><u>What's Next for Tech Enthusiasts? Rumors About the Google Pixel 9 - Release Schedule and Cost Estimates</u></a></li>
-<li><a href="https://win11.techidaily.com/windows-family-shield-rejuvenation-5-repair-pathways/"><u>Windows Family Shield Rejuvenation: 5 Repair Pathways</u></a></li>
-<li><a href="https://discover-docs.techidaily.com/windows-file-protection-essentials-mastering-file-encryption-with-yl-software-techniques/"><u>Windows File Protection Essentials: Mastering File Encryption with YL Software Techniques</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-ace-windows-10-tricks-to-save-time-and-energy/"><u>[New] Ace Windows 10 Tricks to Save Time & Energy</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-how-sourav-joshi-mastered-youtube-earnings-by-2024/"><u>[Updated] How Sourav Joshi Mastered YouTube Earnings by 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-mastering-tags-a-must-read-before-uploading-for-2024/"><u>[Updated] Mastering Tags A Must-Read Before Uploading for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-iphone-photo-perfection-implement-these-10-composition-tenets/"><u>2024 Approved IPhone Photo Perfection Implement These 10 Composition Tenets</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/1726225117222-vob-wmv-movavi/"><u>網路移動平台無限制自由式 VOB 到 WMV 格式改造 - 利用 Movavi 工具</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/convertidor-gratuito-de-audio-wav-a-formato-flac-online-movavi/"><u>Convertidor Gratuito De Audio WAV a Formato FLAC Online - Movavi</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/descargar-y-convertir-archivos-aac-a-formato-mp3-gratuito-con-el-mejor-servicio-online/"><u>Descargar Y Convertir Archivos AAC a Formato MP3 Gratuito Con El Mejor Servicio Online</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/discover-the-features-of-the-latest-cycwagen-electric-bike-a-hands-on-review/"><u>Discover the Features of the Latest CycWagen Electric Bike - A Hands-On Review</u></a></li>
+<li><a href="https://extra-information.techidaily.com/essential-zooid-creation-samples/"><u>Essential Zooid Creation Samples</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/free-online-converter-change-swf-files-into-webm-format-with-ease/"><u>Free Online Converter: Change SWF Files Into WebM Format with Ease</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/gratuit-online-om-avi-files-naar-m4a-format-te-verwerpen-movavi/"><u>Gratuit Online Om Avi-Files Naar M4a-Format Te Verwerpen - Movavi</u></a></li>
+<li><a href="https://fox-http.techidaily.com/in-2024-shutter-societys-top-six-elite-4k-dslr-picks/"><u>In 2024, Shutter Society's Top Six Elite 4K DSLR Picks</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/ricodifica-mp2-nel-formato-wmv-senza-costo-su-internet-scopri-il-metodo-di-conversione-rapida-di-movavi/"><u>Ricodifica MP2 Nel Formato WMV Senza Costo Su Internet: Scopri Il Metodo Di Conversione Rapida Di Movavi</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/the-updated-method-to-bypass-xiaomi-14-ultra-frp-by-drfone-android/"><u>The Updated Method to Bypass Xiaomi 14 Ultra FRP</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/transforma-tus-ficheros-de-video-mkv-a-formato-vob-en-linea-sin-coste-usando-la-solucion-de-movavi/"><u>Transforma Tus Ficheros De Video MKV a Formato VOB en Línea Sin Coste Usando La Solución De Movavi</u></a></li>
 </ul></div>
 

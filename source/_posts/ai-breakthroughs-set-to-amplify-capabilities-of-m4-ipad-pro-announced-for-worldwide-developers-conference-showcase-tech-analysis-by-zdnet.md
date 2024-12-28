@@ -1,7 +1,7 @@
 ---
 title: AI Breakthroughs Set to Amplify Capabilities of M4 iPad Pro Announced for Worldwide Developers Conference Showcase | Tech Analysis by ZDNET
-date: 2024-12-19T21:58:22.199Z
-updated: 2024-12-22T17:14:59.558Z
+date: 2024-12-24T16:00:16.203Z
+updated: 2024-12-28T16:36:24.703Z
 tags:
   - apple
 categories:
@@ -30,10 +30,6 @@ Did they improve the overall quality of life and usability of Apple's most quixo
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Turn 2D images into spatial photos
 
 I've never been terribly impressed by Apple's implementation of spatial photos, which are photos that have a 3D feel to them. The little square box and the fairly minimal lens separation of the [iPhone 15 Pro](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-iphone%2Fiphone-15-pro&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) resulted in something that seems more novelty than noteworthy. 
@@ -46,11 +42,19 @@ Now, here's the thing. I tried watching a couple of Marvel 3D movies via Disney+
 
 I'm guessing that Apple's 3Difying of a 2D image will be at about the same level. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Watch those images together using SharePlay in the Photos app
 
 And here's another feature that I can't imagine any users clamoring for. Now, if you have multiple Vision Pro users, they can all see and discuss the same image together while using the Photos app. 
 
 So, yeah, if Grandma Sadie in Seattle has a Vision Pro, Cousin Marty in Miami has a Vision Pro, and you have a Vision Pro in Yuma, you can all stand around the virtual photo screen and ooh and ah over pictures of baby Alice. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Gestures for opening Home View and Control Center
 
@@ -61,7 +65,7 @@ In VisionOS 2, there are gestures. Holding your hand palm up and tapping fingers
 Unlike the previous two features, this _is_ a quality of life improvement. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Mac virtual display improvements
@@ -71,10 +75,6 @@ The Mac virtual display feature of the Vision Pro has been nice, but limited. In
 Screenshot by David Gewirtz/ZDNET
 
 On the other hand, Apple "later this year" will enable you to create displays with more resolutions. The most interesting is the full wrap-around display, which will be the equivalent of two 4K monitors. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 5\. Choo-choo train mode
 
@@ -100,10 +100,6 @@ Screenshot by David Gewirtz/ZDNET
 
 This allows more commercial and prosumer projects where the photographer or videographer needs more control over the complex range of settings available in a more traditional camera. Those videos can then be edited in Final Cut Pro, Apple's only mention of Final Cut during WWDC. There's also a new Vimeo app for VisionOS, that will allow spatial videos to be shared. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 8\. Third-party immersive video workflow
 
 One of the truly breathtaking experiences of the Vision Pro is what Apple calls Immersive video. This is a very big step beyond the typical 3D video we've seen in movies and TV shows. The entire experience wraps around you 180 degrees. When it's done right, it's astonishing. 
@@ -115,7 +111,7 @@ Apple is opening up the format for third-party creators to create immersive vide
 Even so, I think this is great. Those immersive videos are fantastic. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Other new features
@@ -126,6 +122,10 @@ Apple didn't cover all the new features during its announcement. At the end of t
 * **Keyboard breakthrough:** This was another feature I felt it was important for Apple to introduce, and apparently it will be available. No mention was made of it, so we have no idea if it's limited solely to Apple's own keyboards (but that's probably the case).
 * **Bora Bora environment:** I wanted to see more environments and we get…one. Personally, I think all the work on spatial photos and spatial videos could have been replaced with the ability for third parties to create 3D environments, but Apple didn't go there. But hey, Bora Bora, right?
 * **Rearrangeable Home View:** This was also not described but I'm guessing this means you can move around the Home icons.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  What do you think?
 
@@ -171,24 +171,20 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-2024-approved-augment-your-cams-with-top-accessory-picks/"><u>[New] 2024 Approved Augment Your Cams with Top Accessory Picks</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-top-7-essential-metaverse-tech-for-your-arsenal/"><u>[New] Top 7 Essential Metaverse Tech for Your Arsenal</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-2024-approved-chinese-vr-headset-marketplace-wonders/"><u>[Updated] 2024 Approved Chinese VR Headset Marketplace Wonders</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-pro-tips-optimal-videography-with-these-top-12-portable-cams-for-2024/"><u>[Updated] Pro Tips Optimal Videography with These Top 12 Portable Cams for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/descargar-y-convertir-sus-archivos-a-formato-digital-de-forma-gratuita-con-la-herramienta-de-linea-de-comandos-de-movavi/"><u>Descargar Y Convertir Sus Archivos a Formato Digital De Forma Gratuita Con La Herramienta De Línea De Comandos De Movavi</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/download-high-quality-maleficent-full-movie-disney-in-hd-format-on-your-mac/"><u>Download High-Quality Maleficent Full Movie (Disney) in HD Format on Your Mac</u></a></li>
-<li><a href="https://win-answers.techidaily.com/expert-strategies-for-stabilizing-and-correcting-armored-core-fires-of-rubicon-crashes-on-personal-computers/"><u>Expert Strategies for Stabilizing and Correcting Armored Core: Fires of Rubicon Crashes on Personal Computers</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/fixing-not-found-how-to-restore-the-missing-wmvcoredll-component/"><u>Fixing 'Not Found': How to Restore the Missing wmvcore.dll Component</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/free-watch-now-the-ultimate-selection-of-10-iconic-hollywood-horror-flicks/"><u>Free Watch Now! The Ultimate Selection of 10 Iconic Hollywood Horror Flicks</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/hassle-free-diy-motherboard-kits-for-seamless-personal-computing-endeavors/"><u>Hassle-Free DIY Motherboard Kits for Seamless Personal Computing Endeavors</u></a></li>
-<li><a href="https://fox-that.techidaily.com/how-to-combat-the-low-memory-problem-in-roblox-while-using-your-iphone/"><u>How to Combat the 'Low Memory' Problem in Roblox While Using Your iPhone</u></a></li>
-<li><a href="https://android-location.techidaily.com/how-to-fake-gps-on-android-without-mock-location-for-your-vivo-x-fold-2-drfone-by-drfone-virtual/"><u>How to Fake GPS on Android without Mock Location For your Vivo X Fold 2 | Dr.fone</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/overcome-iphone-xxsxr-wireless-power-woes-expert-guidelines-to-restore-efficient-charging/"><u>Overcome iPhone X/XS/XR Wireless Power Woes: Expert Guidelines to Restore Efficient Charging</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/solving-common-youtube-issues-effective-strategies-and-hacks/"><u>Solving Common YouTube Issues: Effective Strategies & Hacks</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/top-iso-format-converters-easy-guide-to-change-iso-files-into-popular-video-formats/"><u>Top ISO Format Converters: Easy Guide to Change ISO Files Into Popular Video Formats</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/top-spirited-supporters-a-visual-journey-of-the-most-passionate-fifa-qatar-world-cup-enthusiasts/"><u>Top Spirited Supporters: A Visual Journey of the Most Passionate FIFA Qatar World Cup Enthusiasts</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/understanding-the-difference-a-closer-look-at-apples-prores-4444-xq-and-prores-4444/"><u>Understanding the Difference: A Closer Look at Apple's ProRes 4444 XQ and ProRes 4444</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/wsdcfdmmcom/"><u>wsdcfファイルを効果的に使用するためのDMM.comでのトラブルシューティングガイド</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/iuocueodnuodmplusoduplusocvplusodluodhplusodkoocpoocuewvvuwnoobruacgoawsowlleeuuplusodgoocpuodsplusodreodvoodgoodvdrjgqrjg5xjg6njgqtjg7plho3nljjgyzlj6og73jg16/"><u>スマホ・タブデバイス対応の最新動画ダウンローダー:オフライン再生が可能なベストアプリ推薦</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-ultimate-vr-showdown-scoring-the-best-oculus-models-for-2024/"><u>[New] Ultimate VR Showdown Scoring the Best Oculus Models for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-2024-approved-ideal-iphone-photo-apps-for-slide-shows-xr-to-x/"><u>[Updated] 2024 Approved Ideal iPhone Photo Apps for Slide Shows (XR to X)</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-taking-command-of-zoom-breakout-sessions/"><u>[Updated] 2024 Approved Taking Command of Zoom Breakout Sessions</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-deciphering-instagrams-video-limit-rules-for-2024/"><u>[Updated] Deciphering Instagram's Video Limit Rules for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-mastering-footage-select-best-gimbals-and-handhelds-guide/"><u>[Updated] Mastering Footage Select Best Gimbals & Handhelds Guide</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/ai-revolutionized-communication-how-siri-is-now-apples-primary-search-engine-inspired-by-bing-insights-for-tomorrow/"><u>AI Revolutionized Communication: How Siri Is Now Apple's Primary Search Engine, Inspired by Bing | Insights for Tomorrow</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/apple-discontinues-new-ios-beta-following-iphone-malfunction-incidents-insights-from-zdnet/"><u>Apple Discontinues New iOS Beta Following iPhone Malfunction Incidents – Insights From ZDNet</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/comprehensive-guide-and-strategies-for-fifa-world-cup-2018-in-russia-enhancing-your-game/"><u>Comprehensive Guide & Strategies for FIFA World Cup 2018 in Russia - Enhancing Your Game</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/comprehensive-guide-to-leading-compact-tablets-of-2nplusd-endorsed-by-industry-experts-zdnet/"><u>Comprehensive Guide to Leading Compact Tablets of 2N+d, Endorsed by Industry Experts | ZDNET</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/energy-efficiency-improvements-across-various-sectors-industry-transportation-buildings-lower-overall-energy-consumption-and-associated-emissions/"><u>Energy Efficiency Improvements Across Various Sectors (Industry, Transportation, Buildings) Lower Overall Energy Consumption and Associated Emissions.</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/latest-and-greatest-mp3-audio-gadgets-featured/"><u>Latest and Greatest MP3 Audio Gadgets - Featured</u></a></li>
+<li><a href="https://howto.techidaily.com/super-easy-ways-to-deal-with-vivo-y17s-unresponsive-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Super Easy Ways To Deal with Vivo Y17s Unresponsive Screen | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-4-reasons-why-sticking-with-my-iphone-14-beats-switching-to-the-iphone-16-pro-insights-from-tech-analyst-at-zdnet/"><u>Top 4 Reasons Why Sticking with My iPhone 14 Beats Switching to the iPhone 16 Pro - Insights From Tech Analyst at ZDNet</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/1727792522252-top-rated-smartwatches-comprehensive-analysis-by-tech-experts-zdnet/"><u>Top-Rated Smartwatches : Comprehensive Analysis by Tech Experts | ZDNet</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/ultimate-guide-to-the-finest-airtag-wallets-of-2024-expert-opinions/"><u>Ultimate Guide to the Finest AirTag Wallets of 2024: Expert Opinions</u></a></li>
 </ul></div>
 

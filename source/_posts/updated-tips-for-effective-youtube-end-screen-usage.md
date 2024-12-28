@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Tips for Effective YouTube End Screen Usage"
-date: 2024-08-20T13:02:53.869Z
-updated: 2024-08-21T13:02:53.869Z
+date: 2024-12-24T16:26:36.840Z
+updated: 2024-12-28T16:55:48.820Z
 tags:
   - ai video
   - ai youtube
@@ -18,9 +18,6 @@ thumbnail: https://thmb.techidaily.com/0e3820d1cc459c1675907e5894236de62a8218335
 
 # How to Add YouTube End Screen and Cards Effectively
 
-<!-- affiliate ads begin -->
-<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 ##### Richard Bennett
@@ -36,15 +33,17 @@ The traditional annotation’s features are replaced by its successor YouTube Ca
 [Wondershare Filmstock Gaming Video Editing Skils](https://images.wondershare.com/filmora/article-images/learn-gaming-video-editing-skills-banner.png)](https://filmstock.wondershare.com/creative-theme-game?source%5Fchannel=seo%5Farticle&spm=rs.filmora%5Fweb)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Part 1: Why You Need to Add End Screens and Cards to Videos
 
 There are several reasons that make the YouTube end screen and cards a great tool when added to the videos. The new channel builtin features, donation choices, embedded polls and more are some of the best interactive and powerful features of YouTube end screen that’s when added to the video can drive in users to your channel. It is a strong tool to build viewership of your channel. When you use YouTube end screen at the end of the video, it helps in directing the users to other channels, playlists, and videos and also helps in promoting crowdfunding campaigns, merchandise and website. The YouTube end screen is a part of the video and to have an end screen on your video, it must be around 25seconds long.
 
 <!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Part 2: How To Use Youtube End Screen
 
 Do you wish to add YouTube end screen to your video? Just follow the steps and get going.
@@ -64,9 +63,6 @@ Do you wish to add YouTube end screen to your video? Just follow the steps and g
 
 **Link**\- This element helps in sending the users directly to your website. Although, Google has restricted other link addition in the video. In order to add, you must have an Adsense account and permit monetization.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
-<!-- affiliate ads end -->
 ## Part 3: How To Use Youtube Cards
 
 YouTube Cards is more interactive. Users can add images and other linkes. Here are the steps.
@@ -77,8 +73,9 @@ YouTube Cards is more interactive. Users can add images and other linkes. Here a
 * Click “create” button. Select the timeline. In the end, apply.
 
 <!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### The types of YouTube cards
 
 * **Video or playlist**: links to other videos/the complete palylist on YouTube related or non-related to that specific videolinks to further purchase websites or specific product.
@@ -96,22 +93,25 @@ YouTube Cards is more interactive. Users can add images and other linkes. Here a
 
  **4.** The end of your video is always a great place to link viewers to another of your videos, whether you use a card or an end screen. If somebody liked your video enough to watch until the end they’ll probably welcome a chance to consume similar content.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Conclusion
 
 Now, that you are aware how to add YouTube end screen to your video, make use of the amazing features of YouTube end screen and cards and let driving in traffic to your site be easy and fruitful.
 
-<!-- affiliate ads begin -->
-<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Richard Bennett
 
 Richard Bennett is a writer and a lover of all things video.
 
 Follow @Richard Bennett
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -120,5 +120,24 @@ Follow @Richard Bennett
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-elevate-entertainment-a-thousand-gaming-channels/"><u>[New] 2024 Approved Elevate Entertainment A Thousand Gaming Channels</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-what-makes-youtube-and-dailymention-stand-out/"><u>[New] 2024 Approved What Makes YouTube and DailyMention Stand Out?</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-apowersofts-capabilities-tested-against-market-contenders/"><u>[New] In 2024, Apowersoft's Capabilities Tested Against Market Contenders</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/2024-approved-expressive-artistry-on-snapchat-simplified-lenses-methods/"><u>2024 Approved Expressive Artistry on Snapchat Simplified Lenses Methods</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/approved-score-your-youtube-content-with-these-free-sounds/"><u>2024 Approved Score Your YouTube Content With These Free Sounds</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/create-professional-discs-with-no-cost-using-winx-dvd-burner-made-for-windows-1110-enthusiasts/"><u>Create Professional Discs with No Cost Using WinX DVD Burner Made For Windows 11/10 Enthusiasts</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/discover-the-leading-spots-in-your-area-to-exchange-and-acquire-secondhand-dvds-ranked/"><u>Discover the Leading Spots in Your Area to Exchange and Acquire Secondhand DVDs - Ranked!</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/download-hevc-codec-extension-for-videos-at-no-cost/"><u>Download Hevc Codec Extension for Videos at No Cost</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/high-viewers-the-best-of-youtube-now/"><u>Hour-High Viewers The Best of YouTube Now</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/24-superstar-creators-the-highest-paid-ones/"><u>In 2024, Superstar Creators The Highest Paid Ones</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/iphone-picture-transfer-tutorial-how-to-move-images-from-iphone-to-computer-without-using-itunes/"><u>IPhone Picture Transfer Tutorial: How to Move Images From iPhone to Computer without Using iTunes</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/maximize-value-top-7-strategies-for-enjoying-the-full-benefits-of-disneyplus/"><u>Maximize Value: Top 7 Strategies for Enjoying the Full Benefits of Disney+</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/preserving-dvd-integrity-a-step-by-step-tutorial-on-copying-to-single-mpeg-2-format-with-original-soundtrack-and-visual-content/"><u>Preserving DVD Integrity: A Step-by-Step Tutorial on Copying to Single MPEG-2 Format With Original Soundtrack and Visual Content</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/rip-un-dvd-audio-avec-fidelite-la-solution-dextraction-audionumerique-gratuite-et-de-haute-qualite/"><u>Rip Un DVD Audio Avec Fidélité : La Solution D'extraction Audionumérique Gratuite Et De Haute Qualité</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/top-video-file-types-compatible-with-windows-10-mobile-optimal-choices/"><u>Top Video File Types Compatible with Windows 10 Mobile: Optimal Choices</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-persistent-crashes-in-darkest-dungeon-s-gt-mkii-on-your-gaming-rig/"><u>Troubleshooting Persistent Crashes in Darkest Dungeon ˈs Gt MkII on Your Gaming Rig</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/digiarty6dvd/"><u>オンライン資料集: Digiartyのソフトウェア専門ブログと6ページにわたるDVDコピー知恵</u></a></li>
+</ul></div>
 

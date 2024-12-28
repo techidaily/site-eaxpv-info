@@ -1,7 +1,7 @@
 ---
 title: "Meta Quest 3 Vs. Apple Vision Pro: Who Wins in the AI Race? Activate Advanced Features Now | Innovative Tech Insights"
-date: 2024-12-17T02:57:19.427Z
-updated: 2024-12-22T18:02:01.075Z
+date: 2024-12-26T16:44:53.616Z
+updated: 2024-12-28T16:42:03.755Z
 tags:
   - apple
 categories:
@@ -37,7 +37,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The cost of GPU processing
@@ -49,7 +49,7 @@ Advanced AI features require substantial computational power, typically provided
 Even [major AI service providers](https://www.zdnet.com/article/best-ai-chatbot/) such as OpenAI, Microsoft, and Google encounter challenges in offering dependable and quick access to LLM and Generative AI models to the general public without downtime and overcommitting resources. The shortage and cost of GPU-enabled servers make these issues worse. To maintain the rapid response times expected by its customers, Apple will need to invest substantially in servers, data centers, and edge infrastructure -- an infrastructure level it likely does not currently possess.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Apple's approach to Private Cloud Compute (PCC)
@@ -61,7 +61,7 @@ For the initial rollout of Apple Intelligence, the company has chosen a hybrid a
 Apple is currently focused on rolling out its [Generative AI services](https://www.zdnet.com/article/apple-unveils-on-device-ai-image-generator-for-iphone-ipad-and-mac/) to high-end devices as part of the initial phase of Apple Intelligence deployment. This allows Apple to enhance its AI capabilities and infrastructure before expanding to a wider range of devices. To bring Apple Intelligence to the rest of its ecosystem, the company will likely deploy AI-accelerated server appliances at the edge, enabling less capable devices to benefit from advanced AI features. However, this infrastructure is not yet ready for large-scale deployment, as Apple's shift towards AI development is still recent.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The challenges of edge computing
@@ -75,7 +75,7 @@ While NVIDIA is a major player in the GPU server space, others include tradition
 As reported by _The Register_, Apple is [developing its own AI servers](https://www.theregister.com/2024/06/11/apple%5Fbuilt%5Fai%5Fcloud%5Fservers%5Fos/), which are expected to be more cost-effective and better integrated with its ecosystem. These servers are currently being tested in data centers for foundation model use, and a broader rollout is anticipated in 2025\. This phased approach ensures Apple can maintain high privacy, security, and user experience standards while gradually expanding its AI capabilities across its device lineup.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Broader implications for IoT and other devices
@@ -120,20 +120,21 @@ As Apple continues developing its AI infrastructure, including potential edge co
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-best-video-apps-review-youtube-iphones-and-androids/"><u>[New] 2024 Approved Best Video Apps Review YouTube iPhones & Androids</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-easy-ways-to-make-a-great-educational-video-for-youtube/"><u>[New] 2024 Approved Easy Ways to Make a Great Educational Video for YouTube</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-get-started-with-youtube-video-ad-building-without-spending/"><u>[New] 2024 Approved Get Started with YouTube Video Ad Building Without Spending</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-effortless-income-estimations-for-youtubers-for-2024/"><u>[New] Effortless Income Estimations for YouTubers for 2024</u></a></li>
-<li><a href="https://article-tips.techidaily.com/new-pixels-musical-ensemble-unveiled-online/"><u>[New] Pixel's Musical Ensemble Unveiled Online</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-soundscapes-in-stories-instagram-video-techniques/"><u>[New] Soundscapes in Stories Instagram Video Techniques</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-taking-the-first-step-on-youtube-account-setup/"><u>[Updated] Taking The First Step on YouTube Account Setup</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-tips-for-effective-youtube-end-screen-usage/"><u>[Updated] Tips for Effective YouTube End Screen Usage</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/2024-approved-top-10-viral-music-videos-on-social-media/"><u>2024 Approved Top 10 Viral Music Videos on Social Media</u></a></li>
-<li><a href="https://driver-download.techidaily.com/download-and-update-your-surface-device-drivers-with-simple-steps/"><u>Download & Update Your Surface Device Drivers with Simple Steps</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-ultimate-guide-to-online-portals-for-text-artistry/"><u>In 2024, Ultimate Guide to Online Portals for Text Artistry</u></a></li>
-<li><a href="https://ai-video.techidaily.com/new-2024-approved-unlocking-global-audiences-top-video-language-converters/"><u>New 2024 Approved Unlocking Global Audiences Top Video Language Converters</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/the-ultimate-viewing-guide-watching-x-men-films-chronologically/"><u>The Ultimate Viewing Guide: Watching X-Men Films Chronologically</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/tips-to-extract-cortana-data-on-a-windows-system/"><u>Tips to Extract Cortana Data on a Windows System</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/youtube-unearthing-the-obscured-videotapes-for-2024/"><u>YouTube Unearthing the Obscured Videotapes for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-in-2024-windows-10s-finest-film-and-multimedia-editing-apps-guide/"><u>[Updated] In 2024, Windows 10'S Finest Film and Multimedia Editing Apps Guide</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/ape-a-portata-di-mano-il-convertitore-online-esclusivo-e-gratuito-di-movavi/"><u>APE a Portata Di Mano: Il Convertitore OnLine Esclusivo E Gratuito Di Movavi</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/comment-transformer-vos-videos-wmv-en-aac-rapidement-et-gratuitement-sur-le-site-web-de-movavi-une-solution-parfaite-pour-tous-les-utilisateurs/"><u>Comment Transformer Vos Vidéos WMV en AAC Rapidement Et Gratuitement Sur Le Site Web De Movavi : Une Solution Parfaite Pour Tous Les Utilisateurs</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/easy-tutorial-for-activating-icloud-on-iphone-se-2022-safe-and-legal-by-drfone-ios/"><u>Easy Tutorial for Activating iCloud on iPhone SE (2022) Safe and Legal</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-achieve-balance-in-visuals-through-aspect-choices/"><u>In 2024, Achieve Balance in Visuals Through Aspect Choices</u></a></li>
+<li><a href="https://fox-info.techidaily.com/in-2024-from-concept-to-creation-making-a-dynamic-podcast-teaser/"><u>In 2024, From Concept to Creation Making a Dynamic Podcast Teaser</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-reset-gmail-password-on-honor-devices-by-drfone-android/"><u>In 2024, How to Reset Gmail Password on Honor Devices</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-use-special-features-virtual-location-on-realme-12-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How To Use Special Features - Virtual Location On Realme 12 Pro 5G? | Dr.fone</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/les-meilleurs-outils-de-creation-de-diapositives-pour-2024-faciles-et-gratuits-avec-movavi/"><u>Les Meilleurs Outils De Création De Diapositives Pour 2024 : Faciles Et Gratuits Avec Movavi</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/online-mp4-to-wav-video-transcoder-by-movavi-fast-free-easy-uploads/"><u>Online MP4 to WAV Video Transcoder by Movavi: Fast, Free, Easy Uploads!</u></a></li>
+<li><a href="https://windows11.techidaily.com/repairing-filesystem-issues-with-ease-on-windows-11/"><u>Repairing Filesystem Issues with Ease on Windows 11</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/step-by-step-shortcut-for-easy-mac-screen-recording/"><u>Step-by-Step Shortcut for Easy Mac Screen Recording</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/transformer-un-fichier-ape-en-mp4-gratuitement-en-ligne-guide-detaille-avec-movavi/"><u>Transformer Un Fichier APE en MP4 Gratuitement en Ligne : Guide Détaillé Avec Movavi</u></a></li>
+<li><a href="https://win-trending.techidaily.com/wie-kan-jij-een-ontwekte-gegooid-foto-herstellen-aan-jouw-iphone-na-30-dagen/"><u>Wie Kan Jij Een Ontwekte Gegooid Foto Herstellen Aan Jouw iPhone Na 30 Dagen?</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/zelfsnipperend-bmp-naar-png-bewerking-online-en-kostenloos-movavi-grafics-converter/"><u>Zelfsnipperend BMP Naar PNG Bewerking Online en Kostenloos – Movavi Grafics Converter</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/mkvavi-movavi/"><u>무료 MKV/AVI 형식 전환기 - 웹에서 사용하는 동작으로 Movavi를 탐구합시다</u></a></li>
 </ul></div>
 

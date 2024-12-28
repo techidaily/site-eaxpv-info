@@ -1,7 +1,7 @@
 ---
 title: "Augmented Intelligence at Play: Apple Embraces Change with Siri, Taking Inspiration Cues From Microsoft and Bing Synergy"
-date: 2024-12-17T21:00:12.494Z
-updated: 2024-12-22T23:40:41.320Z
+date: 2024-12-27T16:06:17.189Z
+updated: 2024-12-28T17:36:40.442Z
 tags:
   - apple
 categories:
@@ -45,7 +45,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Hey Siri, let's talk about Microsoft
@@ -77,7 +77,7 @@ Microsoft, on the other hand, is a strong brand -- one that's become both more i
 Meanwhile, Siri connotes the phrase "You cannot be Sirious." 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Hey Siri, say goodbye
@@ -126,16 +126,17 @@ This replacement should have a new name -- Cuper or Cooky anyone? -- that'll mak
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-in-2024-2023s-leading-social-media-film-downloads-no-8/"><u>[New] In 2024, 2023'S Leading Social Media Film Downloads - No. 8</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-interactive-learning-landscapes-with-vr/"><u>[New] Interactive Learning Landscapes with VR</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-accelerate-artistic-edits-with-windows-11/"><u>[Updated] 2024 Approved Accelerate Artistic Edits with Windows 11</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-take-your-online-presence-to-new-heights-with-youtube-edits-in-sony-vegas/"><u>2024 Approved Take Your Online Presence to New Heights with YouTube Edits in Sony Vegas</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/5-most-effective-methods-to-unlock-iphone-se-in-lost-mode-by-drfone-ios/"><u>5 Most Effective Methods to Unlock iPhone SE in Lost Mode</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-videos-from-vivo-v27-pro-to-ipad-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Videos from Vivo V27 Pro to iPad | Dr.fone</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/macxdvd-honors-iphones-decade-of-innovation-with-special-anniversary-giveaway-contest/"><u>MacXDVD Honors iPhone's Decade of Innovation with Special Anniversary Giveaway Contest!</u></a></li>
-<li><a href="https://fake-location.techidaily.com/prevent-cross-site-tracking-on-vivo-y28-5g-and-browser-drfone-by-drfone-virtual-android/"><u>Prevent Cross-Site Tracking on Vivo Y28 5G and Browser | Dr.fone</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/solving-handbrake-errors-guide-on-fixing-no-valid-source-issues/"><u>Solving Handbrake Errors: Guide on Fixing 'No Valid Source' Issues</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/step-by-step-solution-resolving-apple-tv-youtubers-difficulties/"><u>Step-by-Step Solution: Resolving Apple TV YouTubers' Difficulties</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/ultimate-guide-high-quality-video-compression-techniques-for-fraps-footage-with-visual-examples/"><u>Ultimate Guide: High-Quality Video Compression Techniques for Fraps Footage with Visual Examples</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-unleash-popularity-potential-climb-a-million-followers-by-months-end/"><u>[New] 2024 Approved Unleash Popularity Potential Climb a Million Followers by Month's End</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-historical-insights-the-most-relevant-youtube-channels-for-learners/"><u>[Updated] 2024 Approved Historical Insights - The Most Relevant YouTube Channels for Learners</u></a></li>
+<li><a href="https://some-tips.techidaily.com/encountered-liquid-damage-on-iphone-charger-end-explore-solution-strategies/"><u>Encountered Liquid Damage on iPhone Charger End? Explore Solution Strategies</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/exclusive-insights-apples-next-move-with-a-secure-operating-system-for-ai-and-data-center-mastery-unveiled-details/"><u>Exclusive Insights: Apple's Next Move with a Secure Operating System for AI & Data Center Mastery - Unveiled Details</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/get-ready-personalized-gpt-shops-opened-by-openai/"><u>Get Ready: Personalized GPT Shops Opened by OpenAI</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-the-ultimate-guide-how-to-bypass-swipe-screen-to-unlock-on-honor-magic-6-lite-device-by-drfone-android/"><u>In 2024, The Ultimate Guide How to Bypass Swipe Screen to Unlock on Honor Magic 6 Lite Device</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/mac-mini-meets-mac-studio-a-comprehensive-comparison-of-apples-latest-innovations-is-the-new-m2-chip-superior-to-m1/"><u>Mac Mini Meets Mac Studio: A Comprehensive Comparison of Apple's Latest Innovations - Is the New M2 Chip Superior to M1?</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ring-youtube-the-ultimate-guide-to-video-trimming/"><u>Mastering YouTube The Ultimate Guide to Video Trimming</u></a></li>
+<li><a href="https://games-able.techidaily.com/struggle-your-way-through-frustrating-fiddly-games/"><u>Struggle Your Way Through Frustrating Fiddly Games</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-insights-in-depth-reviews-and-analysis-of-the-latest-hardware/"><u>Tom's Tech Insights: In-Depth Reviews and Analysis of the Latest Hardware</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/ultimate-guide-to-the-safest-and-stylish-iphone-16-16-pro-cases-of-2024-in-depth-analysis-from-industry-gurus/"><u>Ultimate Guide to the Safest & Stylish iPhone 16 / 16 Pro Cases of 2024: In-Depth Analysis From Industry Gurus</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/unveiling-the-lifesaving-message-alert-update-in-ios-18-discover-whats-more-than-just-ai/"><u>Unveiling the Lifesaving Message Alert Update in iOS 18: Discover What’s More Than Just AI!</u></a></li>
 </ul></div>
 

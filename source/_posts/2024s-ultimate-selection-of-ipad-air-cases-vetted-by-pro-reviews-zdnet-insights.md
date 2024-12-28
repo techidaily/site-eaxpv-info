@@ -1,7 +1,7 @@
 ---
 title: 2024'S Ultimate Selection of iPad Air Cases Vetted by Pro Reviews | ZDNET Insights
-date: 2024-11-30T20:28:18.242Z
-updated: 2024-12-07T23:32:22.914Z
+date: 2024-12-22T17:34:19.716Z
+updated: 2024-12-28T17:03:53.523Z
 tags:
   - apple
 categories:
@@ -22,10 +22,6 @@ The display sizes of small tablets can range from six to 10 inches, with eight i
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What is the best small tablet right now?
 
 Based on our extensive hands-on testing with various tablets of all sizes, our pick for the best small tablet is the [iPad Mini](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2F2021-Apple-iPad-Mini-Wi-Fi%2Fdp%2FB09G9FW785%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C369026fc-8906-4d8d-97bc-ba3c3cb5d6f8%7Cdtp&dtb=1), thanks to its 8.3-inch Liquid Retina display and weight of just under 1 pound. We also included compact-sized tablets from Amazon, Samsung, and other brands for those looking for something more compact and easy to carry. 
@@ -45,15 +41,7 @@ Cons
 * Cellular connectivity is additional cost
 * Expensive
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Apple iPad Mini 6th Generation
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Best small tablet overall
 
@@ -89,7 +77,7 @@ Cons
 ## Amazon Fire 7 Tablet
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Best budget small tablet
@@ -122,10 +110,14 @@ Cons
 * Expensive
 * Some complaints of lag
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Boox Tab Mini C
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Best small tablet for note-taking
@@ -187,6 +179,10 @@ Cons
 
 ## Samsung Galaxy Tab A7 Lite
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Best Samsung small tablet
 
 [Samsung's tablet lineup](https://www.zdnet.com/article/best-samsung-tablet/) spans price, capability, and screen size. The Galaxy Tab A7 Lite is a small Android tablet that combines affordability and usefulness. Its 8.7-inch screen features a 1340x800 display, making it worthy of streaming, working, and more.
@@ -198,6 +194,10 @@ In addition, you can expand your storage beyond the 32GB or 64GB allotted. The t
 **Samsung Galaxy Tab A7 Lite tech specs: Display**: 8.7-inch, 1340x800 display | **Processor**: MediaTek MT8768N | **Storage**: 32GB or 64GB | **Colors**: Gray | **Cameras**: 2MP front and 8MP rear | **Weight**: 0.81lbs | **Dimensions**: 8.37 x 4.91 x 0.31 inches | **Connections**: 3.5mm headphone jack, USB-C | **Battery:** 10 to 12 hours
 
 Show Expert Take Show less 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What is the best small tablet?
 
@@ -232,10 +232,6 @@ We know there are a lot of tablets and tablet sizes to choose from, but ultimate
 * **Battery life:** A device's battery life is important no matter its size, so we considered devices that can last you all day.
 * **Price:** Tablets vary in price range from affordable to expensive depending on brand and purpose, so we made sure to choose tablets at various price points to accommodate different budgets.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How we test tablets
 
 The ZDNET team chose all of the tablets included in this list based on their performance when [tested in the real world](https://www.zdnet.com/article/how-we-test-tablets-at-zdnet-in-2024/). When we test tablets, we typically follow the same routine for each one to see which performs best.
@@ -255,7 +251,7 @@ The smallest tablet screen size on the market is 6 to 7 inches. Anything smaller
 It's why you want to consider your primary uses when considering which small tablet is right for you. To demonstrate, if you travel often, one with a smaller screen will be perfect for carrying/using on an airplane. If your aim is to read more e-books or draw, you'll want one with a larger screen. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What brand of tablet is best?
@@ -275,6 +271,10 @@ Their lightweight body and compact design make them perfect traveling companions
 ## What is the smallest iPad?
 
 The smallest [iPad](https://www.zdnet.com/article/best-ipad/) is the iPad Mini which has a screen size of 8.3 inches. It's also lightweight at just under one pound. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Are there alternative small tablets worth considering?
 
@@ -322,16 +322,20 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-fuse-melodies-into-your-youtube-digital-realm/"><u>[New] 2024 Approved Fuse Melodies Into Your Youtube Digital Realm</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-hiding-youtube-playback-tips-for-ios-and-android/"><u>[New] 2024 Approved Hiding YouTube Playback Tips for iOS and Android</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-fifa-video-highlights-top-youtube-data-infographics-for-2024/"><u>[New] FIFA Video Highlights Top YouTube Data Infographics for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-get-free-stock-footage-from-these-4-youtube-channels/"><u>[Updated] 2024 Approved Get Free Stock Footage From These 4 YouTube Channels</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-faithful-frequencies-free-christian-music-downloads/"><u>[Updated] Faithful Frequencies Free Christian Music Downloads</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-from-zero-to-hero-boosting-youtube-view-count-quickly-for-2024/"><u>[Updated] From Zero to Hero Boosting YouTube View Count Quickly for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-in-2024-integrating-diverse-iphone-media-formats-together/"><u>[Updated] In 2024, Integrating Diverse iPhone Media Formats Together</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/gain-free-photo-footage-via-essential-4-youtube-picks-for-2024/"><u>Gain Free Photo Footage via Essential 4 YouTube Picks for 2024</u></a></li>
-<li><a href="https://extra-information.techidaily.com/how-to-create-a-negative-like-image-look/"><u>How to Create a Negative-Like Image Look</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/quick-start-to-watching-netflix-on-kodi-an-easy-installation-guide-for-beginners-and-pros-alike/"><u>Quick Start to Watching Netflix on Kodi: An Easy Installation Guide for Beginners and Pros Alike</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/title-compatibility-check-the-complete-list-of-tvs-that-play-nice-with-amazon-prime-video/"><u>Title: Compatibility Check: The Complete List of TVs That Play Nice with Amazon Prime Video</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-novice-to-money-maker-on-youtube/"><u>[New] 2024 Approved From Novice to Money-Maker on YouTube</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-first-offset-guide-affordable-channel-buys-to-monetize-for-2024/"><u>[New] First Offset Guide Affordable Channel Buys to Monetize for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-high-end-audio-for-youtubes-best-gamers-for-2024/"><u>[New] High-End Audio for YouTube's Best Gamers for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-ideas-in-images-top-20-photos-to-fire-up-creativity/"><u>[New] Ideas in Images Top 20 Photos to Fire Up Creativity</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-the-essential-toolkit-choosing-the-best-lens-technology-in-4k-for-2024/"><u>[New] The Essential Toolkit Choosing the Best Lens Technology in 4K for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-sculpt-the-perfect-youtube-moniker-tips-and-tricks/"><u>[Updated] 2024 Approved How to Sculpt the Perfect YouTube Moniker Tips & Tricks</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-from-humble-beginnings-surging-subscribers-and-views-in-youtube-world-for-2024/"><u>[Updated] From Humble Beginnings Surging Subscribers & Views in Youtube World for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-guide-to-incorited-visuals-in-text-without-cost-for-2024/"><u>[Updated] Guide to Incorited Visuals in Text Without Cost for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-how-to-record-hulu-on-all-platforms-winmacmobile-for-2024/"><u>[Updated] How To Record Hulu On All Platforms - Win/Mac/Mobile for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-be-a-beauty-guru-on-youtube-beauty-vlogger-set-up/"><u>[Updated] In 2024, How To Be A Beauty Guru on YouTube Beauty Vlogger Set Up</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/comparing-cloud-space-charges-methods-and-results-for-2024/"><u>Comparing Cloud Space Charges Methods and Results for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/effective-solutions-to-correct-the-driver-power-state-malfunction-on-your-pc/"><u>Effective Solutions to Correct the Driver Power State Malfunction on Your PC</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/experience-unboxed-a-first-look-at-the-new-samsung-galaxy-budsplus/"><u>Experience Unboxed: A First Look at the New Samsung Galaxy Buds+</u></a></li>
+<li><a href="https://driver-download.techidaily.com/1722977327775-latest-drivers-for-intel-wi-fi-ac-95cu-adapter-downloaded-easy-heres-how/"><u>Latest Drivers for Intel Wi-Fi AC 95Cu Adapter Downloaded Easy – Here's How!</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/the-10-best-tools-to-bypass-icloud-activation-lock-from-iphone-15-plus-you-should-try-out-by-drfone-ios/"><u>The 10 Best Tools to Bypass iCloud Activation Lock From iPhone 15 Plus You Should Try Out</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Ideal Defenders for iPhone SE - The Best Case Selection of 2022 | Engadget Insights
-date: 2024-11-30T22:36:10.334Z
-updated: 2024-12-07T18:43:47.717Z
+date: 2024-12-24T16:18:13.252Z
+updated: 2024-12-28T16:42:16.578Z
 tags:
   - apple
 categories:
@@ -23,7 +23,7 @@ It's no secret that iPhones aren't the most rugged devices, sometimes yielding s
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What is the best iPhone 16 case right now?
@@ -45,11 +45,11 @@ Pros
 Cons 
 * Only available for iPhone 16 Pro models
 
-## Nomad Sport Case
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+## Nomad Sport Case
 
 ### Best iPhone 16 case overall
 
@@ -78,10 +78,6 @@ Cons
 
 ## Torras 360-degree OStand
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Best kickstand iPhone 16 case
 
 Torras cases have always been a ZDNET favorite: Hiner called the Ostand case for the iPhone 15 "the most versatile and innovative of the bunch." The newest version fit for the iPhone 16 follows in its footsteps. 
@@ -109,7 +105,7 @@ Cons
 ## Pitaka Ultra Slim case
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Best thin iPhone 16 case
@@ -136,6 +132,10 @@ Pros
 Cons 
 * Low drop protection
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Smartish Gripmunk case
 
 ### Best cheap iPhone 16 case
@@ -161,6 +161,10 @@ Pros
 
 Cons 
 * Pricier
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Mous Limitless 6.0
 
@@ -217,11 +221,11 @@ Cons
 * Not too much protection
 * Pricey for low protection
 
-## Moft Snap Case Movas
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+## Moft Snap Case Movas
 
 ### Best vegan-leather iPhone 16 case
 
@@ -249,7 +253,15 @@ Cons
 * Unsure on sustainability
 * Only for Pro models
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Nomad Modern Leather Case
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Best leather case for iPhone 16
 
@@ -274,10 +286,6 @@ Our pick for the best iPhone 16 case is the Nomad Sport case for its sleek desig
 | Latercase for iPhone 16    | $60       | No                  | Yes         |
 | Incase Icon case           | $60       | Yes                 | Yes         |
 | Nomad Modern Leather case  | $70       | Yes                 | Yes         |
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Which is the right iPhone 16 case for you?
 
@@ -315,7 +323,7 @@ However, if you stray from the list, the best options are those with a solid bum
 Unfortunately, there isn't such a thing as the best phone case brand. Many sources point to Spigen and Otterbox as the most popular phone case brands with the most units sold. That, however, does not necessarily mean they are the best brands. It is ultimately up to you and your lived experience and opinion.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What case material is best for iPhone?
@@ -323,24 +331,16 @@ Unfortunately, there isn't such a thing as the best phone case brand. Many sourc
 Materials like plastic or polycarbonate usually offer the best price and durability. Other cases made from leather or metal can be pricier and may not offer the best protection.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When is the iPhone 16 available?
 
 The iPhone 16 is available for preorder now, and will arrive in stores on September 20.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What is the best phone case to avoid overheating?
 
 If your phone has the problem of overheating, it may be best to look into specialty cases called heat dissipation cases. These cases are made of heat-wicking material that regulates heat and allows airflow to cool your phone down.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## What is the best iPhone for a 16 year old?
 
@@ -392,21 +392,18 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-neuroscience-insights-enhance-effective-corporate-governance/"><u>[New] 2024 Approved How Neuroscience Insights Enhance Effective Corporate Governance</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-loop-videos-on-iphone/"><u>[New] 2024 Approved How to Loop Videos on iPhone?</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-hitch-youtube-sounds-into-imovie-tracks-swiftly-for-2024/"><u>[New] Hitch YouTube Sounds Into iMovie Tracks Swiftly for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-how-to-promote-youtube-videos-without-paying-for-2024/"><u>[New] How to Promote YouTube Videos (Without Paying) for 2024</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/n-2024-how-to-find-and-change-your-youtube-channel-url-super-easy/"><u>[New] In 2024, How to Find and Change Your YouTube Channel URL – Super Easy</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-gaming-streams-best-recording-programs/"><u>[Updated] 2024 Approved Gaming Streams Best Recording Programs</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-blur-background-of-your-youtube-video-2-easy-ways/"><u>[Updated] 2024 Approved How to Blur Background of Your YouTube Video - 2 Easy Ways</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-ensuring-profitability-in-youtube-with-correct-monetization/"><u>[Updated] Ensuring Profitability in YouTube with Correct Monetization</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-getting-the-most-out-of-your-youtube-videos-thumbnails-extraction-for-2024/"><u>[Updated] Getting the Most Out of Your Youtube Videos Thumbnails Extraction for 2024</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-how-to-share-tiktok-videos-to-facebook/"><u>[Updated] In 2024, How to Share TikTok Videos to Facebook?</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/enhancing-cbt-practices-via-ai-driven-dialogue/"><u>Enhancing CBT Practices via AI-Driven Dialogue</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-unlock-motorola-moto-g73-5g-phone-password-without-factory-reset-by-drfone-android/"><u>How to Unlock Motorola Moto G73 5G Phone Password Without Factory Reset?</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/in-2024-ideal-methods-for-streaming-and-archiving-sports-events/"><u>In 2024, Ideal Methods for Streaming and Archiving Sports Events</u></a></li>
-<li><a href="https://facebook.techidaily.com/mending-the-social-web-after-an-exclusion/"><u>Mending the Social Web After an Exclusion</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/new-best-slow-mo-video-players-top-picks/"><u>New Best Slow-Mo Video Players Top Picks</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/spotify-group-listening-sessions-connect-and-groove-with-your-budds/"><u>Spotify Group Listening Sessions: Connect and Groove With Your Budds</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-boldly-step-up-claim-your-set-of-50-exquisite-cost-free-youtube-promo-materials/"><u>[New] 2024 Approved Boldly Step Up Claim Your Set of 50 Exquisite, Cost-Free YouTube Promo Materials</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-going-pro-with-gs-effects-exclusive-free-lessons-from-4-premier-video-channels/"><u>[New] 2024 Approved Going Pro with GS Effects Exclusive Free Lessons From 4 Premier Video Channels</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-hacking-youtube-success-peak-audience-engagement-timing/"><u>[New] 2024 Approved Hacking YouTube Success Peak Audience Engagement Timing</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-vlogventures-in-cosmetics-how-to-create-your-fashion-forward-channel/"><u>[New] 2024 Approved Vlogventures in Cosmetics How to Create Your Fashion-Forward Channel</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-cutting-edge-webcam-utilization-at-home-for-2024/"><u>[New] Cutting-Edge Webcam Utilization at Home for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-footage-to-frame-crafting-youtube-thumbnails-on-mobile-devices/"><u>[Updated] 2024 Approved From Footage to Frame Crafting YouTube Thumbnails on Mobile Devices</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-create-a-sports-highlight-video/"><u>[Updated] 2024 Approved How to Create a Sports Highlight Video</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-formulating-a-channels-automatic-subscribe-purl/"><u>[Updated] In 2024, Formulating a Channel’s Automatic Subscribe PURL</u></a></li>
+<li><a href="https://techtrends.techidaily.com/deciphering-ussd-codes-a-comprehensive-guide-to-unstructured-supplementary-service-data/"><u>Deciphering USSD Codes: A Comprehensive Guide to Unstructured Supplementary Service Data</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easy-steps-to-download-newest-canon-mg2520-driver-version-for-your-windows-device/"><u>Easy Steps to Download Newest Canon MG2520 Driver Version for Your Windows Device</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/experts-weigh-in-on-the-samsung-galaxy-tab-s-5e-a-versatile-feature-packed-tablet-review/"><u>Experts Weigh In on the Samsung Galaxy Tab S 5E – A Versatile, Feature-Packed Tablet Review</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-flash-dead-xiaomi-14-pro-safely-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Flash Dead Xiaomi 14 Pro Safely | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/streaming-espn-live-football-games-tips-for-lg-smart-tv-users/"><u>Streaming ESPN Live Football Games – Tips for LG Smart TV Users</u></a></li>
 </ul></div>
 

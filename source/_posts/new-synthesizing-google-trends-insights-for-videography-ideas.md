@@ -1,7 +1,7 @@
 ---
 title: "[New] Synthesizing Google Trends Insights for Videography Ideas"
-date: 2024-08-20T13:01:48.114Z
-updated: 2024-08-21T13:01:48.114Z
+date: 2024-12-25T17:38:11.468Z
+updated: 2024-12-28T16:50:54.025Z
 tags:
   - ai video
   - ai youtube
@@ -34,12 +34,13 @@ Google Trends, of course!
 
 Google Trends is a completely free tool you can use to determine what’s trending on YouTube or in Google’s search engine. Here’s how you can use Google Trends to figure out what’s trending in your niche and make a video before there’s tons of competition.
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 1: Seeing The Big Picture
 
 ![Google Trends YouTube Ideas](https://images.wondershare.com/filmora/article-images/how-to-use-google-trends-to-come-up-with-video-seeing-big-picture.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 _You’ll need to be signed into your Google account to use Google Trends._
 
@@ -49,6 +50,10 @@ Unless you do news or political commentary on your channel these probably aren�
 
 To get information more relevant to your channel you’re going to have to do some filtering.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 2: Getting Results That Matter to You
 
 In the Google Trend home page, scroll down to the 'Recently Trending' section and click on 'More Trending Searches'.
@@ -57,9 +62,6 @@ Then click from 'Daily Search Trends' to 'Realtime Search Trends'.
 
 On top you will see two drop-down menus, one is for the category and one is for location.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![Google Trends Video Ideas](https://images.wondershare.com/filmora/article-images/google-trends-video-ideas.jpg)
 
 Under **All categories** select the general theme your channel falls under.
@@ -74,9 +76,6 @@ Once you have narrowed down your results you can just scroll through and pick ou
 
 For example, if you have a gaming channel and you’re looking for a non-gameplay topic to make a video on, you would look under Sci/Tech. If I look under that category today (May 29, 2017) and specify that I want topics trending in the United States then these are my top 5 results:
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Google Trends Category YouTube Video Ideas](https://images.wondershare.com/filmora/article-images/google-trends-categories.jpg)
 
 The first two happen to be about gaming. If you, as a gamer, had any strong reaction to either of these topics – whether it’s that you feel like you’re knowledgeable about them, or that you’re excited by something that’s coming up, or that something made you groan – then that would be a sign that you should make a video. Capitalizing on a trend while also covering a topic you have a lot to say about is always a good move.
@@ -84,6 +83,10 @@ The first two happen to be about gaming. If you, as a gamer, had any strong reac
 Having something to say doesn’t have to mean having a strong opinion. If you just find something interesting and want to pass the information along to your viewers then that’s great too.
 
 Clicking on these results will give you more specific data including how often the topic has been searched recently and links to recent news articles. These can give you a better idea of why it is trending and help you come up with what you want to say.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 3: Battle of the Keywords
 
@@ -93,10 +96,11 @@ A [keyword is a word or short phrase](https://www.filmora.io/community-blog/the-
 
 Once you have a keyword in mind, type it into the Explore bar at the top of your page in Google Trends.
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Google Trends Keywords YouTube Video](https://images.wondershare.com/filmora/article-images/explore-topic-in-google-trends.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 What happens after you click **enter** is pretty much magic. Say I want to make a video on how to use Filmora. The first thing I’ll type into that Explore bar is ‘Filmora’.
 
@@ -110,9 +114,6 @@ There, now I can see how the popularity of Filmora as a search term has spiked o
 
 Next, what other words do I want to include in my video title? Is this a review, a tutorial, or a how-to? By clicking on my search term Filmora, I can edit it to read ‘filmora review’. Then I can click **\+ Compare** and type in ‘filmora tutorial’ and ‘how to use Filmora’. Google Trends will create a chart comparing the popularity of those 3 terms.
 
-<!-- affiliate ads begin -->
-<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Google Trends Filmora Keywords](https://images.wondershare.com/filmora/article-images/google-trends-search-term-comparison.jpg)
 
 _I also ‘zoomed out’ to 90 days – if I’d only looked at how they compared over the last week my results could have been skewed._
@@ -139,18 +140,17 @@ As one of the most widely used video editing software among YouTubers, Filmora p
 
 [![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Richard Bennett
 
 Richard Bennett is a writer and a lover of all things video.
 
 Follow @Richard Bennett
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -159,5 +159,26 @@ Follow @Richard Bennett
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-does-the-sub4sub-strategy-improve-content-consumption-for-2024/"><u>[New] Does the Sub4Sub Strategy Improve Content Consumption for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/2024-top-5/"><u>2024 最佳無價直播節目管理軟件 TOP 5 品牌列表</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/approved-audio-aesthetics-high-quality-dj-template-videos-downloaded/"><u>2024 Approved Audio Aesthetics High-Quality DJ Template Videos Downloaded</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-best-8-3d-gold-text-effect-websites/"><u>2024 Approved Best 8 3D Gold Text Effect Websites</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/facebookpc/"><u>高解像度・ダウンロードガイド：Facebook動画のPC、スマホ、タブレットへ保存方法</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/211316193-9788090910904-brides-of-the-gods/"><u>Brides of the Gods | Free Book</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/convert-avi-to-mp3-at-no-cost-a-step-by-step-guide-to-enhance-audio-quality/"><u>Convert AVI to MP3 at No Cost - A Step-by-Step Guide to Enhance Audio Quality</u></a></li>
+<li><a href="https://win-dash.techidaily.com/1722976915062-download-and-update-your-windows-with-newest-fingerprint-drivers-heres-how/"><u>Download & Update Your Windows with Newest Fingerprint Drivers - Here's How</u></a></li>
+<li><a href="https://facebook.techidaily.com/ending-facial-id-at-meta-but-why-uncover-the-story/"><u>Ending Facial ID at Meta, But Why? Uncover The Story.</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/guide-absolument-optimal-pour-la-compression-mp4-en-2023-techniques-dencodage-video/"><u>Guide Absolument Optimal Pour La Compression MP4 en 2023 : Techniques D'Encodage Vidéo</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/in-2024-mac-video-editing-made-easy-vn-video-editor-and-its-alternatives/"><u>In 2024, Mac Video Editing Made Easy VN Video Editor and Its Alternatives</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/install-classic-video-editing-program-how-to-secure-microsofts-windows-live-movie-maker-on-latest-os-versions-windows-781011/"><u>Install Classic Video Editing Program: How to Secure Microsoft's Windows Live Movie Maker on Latest OS Versions (Windows 7/8/10/11)</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/resolving-the-wrong-region-code-in-your-dvd-player-a-step-by-step-guide/"><u>Resolving the 'Wrong Region' Code in Your DVD Player: A Step-by-Step Guide</u></a></li>
+<li><a href="https://some-tips.techidaily.com/revolutionizing-assistive-technology-apple-unveils-eye-control-capabilities-for-ios-devices-learn-how-on-zdnet/"><u>Revolutionizing Assistive Technology: Apple Unveils Eye-Control Capabilities for iOS Devices - Learn How on ZDNet</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/step-by-step-guide-moving-high-definition-4k-videos-from-your-iphone-onto-a-windows-11-machine/"><u>Step-by-Step Guide: Moving High-Definition 4K Videos From Your iPhone Onto a Windows 11 Machine</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-ranking-mac-software-selections-featured/"><u>Top-Ranking Mac Software Selections - Featured</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/ultimate-guide-to-free-and-easy-to-use-video-splitter-software-on-windows-10-for-streamlined-movie-clipping/"><u>Ultimate Guide to Free & Easy-to-Use Video Splitter Software on Windows 10 for Streamlined Movie Clipping</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/ultimate-list-of-12-no-cost-ai-video-optimizers-for-your-computer-compatible-with-windows-and-macos/"><u>Ultimate List of 12 No-Cost AI Video Optimizers for Your Computer – Compatible with Windows & macOS</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/1728506277096-samsung-ssd/"><u>クランプとしてSamsung SSDをコピーする方法 - 新しいドライブが必要なく</u></a></li>
+</ul></div>
 

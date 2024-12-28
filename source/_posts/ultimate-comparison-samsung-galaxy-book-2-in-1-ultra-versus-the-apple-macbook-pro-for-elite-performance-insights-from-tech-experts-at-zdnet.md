@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Comparison: Samsung Galaxy Book 2-in-1 Ultra Versus the Apple MacBook Pro for Elite Performance - Insights From Tech Experts at ZDNet"
-date: 2024-12-15T22:57:22.304Z
-updated: 2024-12-23T01:18:31.225Z
+date: 2024-12-24T16:05:12.290Z
+updated: 2024-12-28T16:38:11.128Z
 tags:
   - apple
 categories:
@@ -26,6 +26,10 @@ We'll compare the specs of the [Galaxy Book 3 Ultra](https://shop-links.co/link/
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Specifications
 
 | **Samsung Galaxy Book 3 Ultra** | **Apple M2-gen MacBook Pro (16-inch)**                                                                                                                                                                                                                                                                                                                                                                                                                           |                                                                                                                                                                                                   |
@@ -43,10 +47,6 @@ We'll compare the specs of the [Galaxy Book 3 Ultra](https://shop-links.co/link/
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  You should buy Samsung's Galaxy Book 3 Ultra if...
 
 There are definitely some strong MacBook Pro vibes informing Samsung's aesthetic for this device.
@@ -54,7 +54,7 @@ There are definitely some strong MacBook Pro vibes informing Samsung's aesthetic
 Samsung
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ###  1\. You're committed to Samsung's ecosystem
@@ -70,7 +70,7 @@ Samsung realized this and included benefits like the options to use a [Galaxy Ta
 If you've already got a Galaxy smartphone or tablet, there are definitely practical benefits to functionality that you'll receive by opting for this model. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ###  2\. You expect to do any gaming
@@ -93,9 +93,17 @@ The most recent, M2 Pro or Max-powered refresh of the venerable 16-inch MacBook 
 
 Apple
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ###  1\. You, or your family, are committed to Apple's ecosystem
 
 This is the other side of the coin. Apple was among the first, and might still be the best, at giving you reasons to stay locked into its ecosystem. On an individual level, this includes things like the ability to share screens and inputs across devices and tricks like [Continuity Camera, which lets you use your iPhone as an advanced webcam](https://www.zdnet.com/article/macos-ventura-how-to-use-your-iphone-as-a-webcam-with-continuity-camera/), or Apple's excellent cross-device messaging. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### See also
 
@@ -116,10 +124,6 @@ It's an issue that can chafe at times, but it's also one that has led many, myse
 
 Apple's M1 generation of chips was already more than enough power for most photo editors, and even a large chunk of video editors, including those working in 4K+ formats. Now, with the advent of M2 Pro and M2 Max options, the 16-inch MacBook Pro is like an entire production studio unto itself, especially when combined with the ample variety of RAM and storage configurations now available for both chips and a full-fledged HDMI port, as well as three DisplayPort-capable Thunderbolt ports. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ###  3\. You need a ton of RAM or storage
 
 The maximum amount of memory and storage you can configure a Galaxy Book 3 Ultra with are 32GB and 1TB, respectively. While these are plenty for the average user, a content creator might fill that storage quickly with 8K video, while the RAM limitation might strain processing times within their workflow. The MacBook Pro, however, can be configured with as much as 96GB of RAM and 8TB of storage. That's triple the memory and eight times the storage of its competitor. Of course, such a maxed-out beast would be expensive, but the option remains for the most demanding laptop users who actually need all of that memory and space. 
@@ -127,10 +131,6 @@ The maximum amount of memory and storage you can configure a Galaxy Book 3 Ultra
 **Also: [Apple's new MacBook Pro with M2 Pro chip is a compelling package](https://www.zdnet.com/article/apples-new-macbook-pro-with-m2-pro-chip-is-a-compelling-package/)**
 
 [Buy the 16-inch Apple MacBook Pro $2,499 at Apple](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-mac%2Fmacbook-pro%2F16-inch&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Alternatives to consider
 
@@ -185,24 +185,24 @@ Absolutely must have a 16-inch laptop? Lenovo's ThinkPad Z16 is among the most p
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-channeling-creativity-get-green-screen-tips-from-youtube/"><u>[New] 2024 Approved Channeling Creativity Get Green Screen Tips From YouTube</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/new-2024-approved-exploring-the-best-converters-for-tiktok-graphics/"><u>[New] 2024 Approved Exploring the Best Converters for TikTok Graphics</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-diy-split-screen-video-tutorials-for-youtube-enthusiasts/"><u>[New] In 2024, DIY Split-Screen Video Tutorials for YouTube Enthusiasts</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-virality-to-value-ajays-playbook-for-profitable-content-creation/"><u>[New] In 2024, From Virality to Value Ajay’s Playbook for Profitable Content Creation</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-the-path-to-popularity-making-videos-go-viral/"><u>[New] The Path to Popularity Making Videos Go Viral</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-youtube-monetization-carryminati-ajey-nagar-youtube-income/"><u>[New] YouTube Monetization CarryMinati (Ajey Nagar) YouTube Income</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-youtube-soundwaves-flow-into-imovie-effortlessly/"><u>[New] YouTube Soundwaves Flow Into iMovie Effortlessly</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-channel-transformation-optimal-video-concepts-to-elevate-creativity/"><u>[Updated] 2024 Approved Channel Transformation Optimal Video Concepts to Elevate Creativity</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-aesthetic-alignment-for-online-glamour-content/"><u>[Updated] In 2024, Aesthetic Alignment for Online Glamour Content</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-elevate-your-daily-blog-key-practices-and-avoidance-tactics/"><u>[Updated] In 2024, Elevate Your Daily Blog Key Practices and Avoidance Tactics</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-formulating-final-fact-finding-flourishes/"><u>[Updated] In 2024, Formulating Final Fact-Finding Flourishes</u></a></li>
-<li><a href="https://fake-location.techidaily.com/best-10-mock-location-apps-worth-trying-on-samsung-galaxy-a25-5g-drfone-by-drfone-virtual-android/"><u>Best 10 Mock Location Apps Worth Trying On Samsung Galaxy A25 5G | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/early-warning-signs-of-rogue-chatgpt-services/"><u>Early Warning Signs of Rogue ChatGPT Services</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/full-guide-to-unlock-your-oneplus-11r-by-drfone-android/"><u>Full Guide to Unlock Your OnePlus 11R</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-change-your-samsung-galaxy-a24-location-on-life360-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>How to Change Your Samsung Galaxy A24 Location on life360 Without Anyone Knowing? | Dr.fone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/live-the-microsoft-surface-and-windows-innovation-showcase-key-insights-and-anticipated-highlights-techzone/"><u>Live the Microsoft Surface & Windows Innovation Showcase: Key Insights & Anticipated Highlights | TechZone</u></a></li>
-<li><a href="https://fox-that.techidaily.com/solving-the-issue-of-wrongly-identified-faces-within-apple-photos-application/"><u>Solving the Issue of Wrongly Identified Faces Within Apple Photos Application</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/super-bowl-ad-battles-overshadowed-by-apples-most-captivating-campaign-of-weekend-as-reported/"><u>Super Bowl Ad Battles Overshadowed by Apple's Most Captivating Campaign of Weekend, As Reported</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/unbiased-review-vn-video-editor-pros-features-and-performance-for-2024/"><u>Unbiased Review VN Video Editor Pros Features and Performance for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-2024-approved-boxed-bliss-reinventing-the-art-of-first-contacts/"><u>[New] 2024 Approved Boxed Bliss Reinventing the Art of First Contacts</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-the-ultimate-plan-for-profit-from-instagram-content/"><u>[New] In 2024, The Ultimate Plan for Profit From Instagram Content</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-gain-listener-traffic-advanced-techniques-in-podcast-seo/"><u>[Updated] Gain Listener Traffic Advanced Techniques in Podcast SEO</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-whispering-winds-down-best-voices-for-sleep/"><u>[Updated] In 2024, Whispering Winds Down Best Voices for Sleep</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-mirrorless-evolution-overshadowing-traditional-dslr-videography-for-2024/"><u>[Updated] Mirrorless Evolution Overshadowing Traditional DSLR Videography for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-unlocking-true-tints-and-shades-in-photos/"><u>[Updated] Unlocking True Tints and Shades in Photos</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/ig-reels-app/"><u>最佳 IG Reels 制作工具 - App选择指南</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/acquistare-il-pacchetto-movavi-pro-per-le-aziende-la-soluzione-di-editing-video-migliore/"><u>Acquistare Il Pacchetto Movavi Pro per Le Aziende: La Soluzione Di Editing Video Migliore</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/comparacoes-diretas-entre-intel-i5-e-intel-i7-para-jogos-qual-e-a-escolha-certa/"><u>Comparações Diretas Entre Intel I5 E Intel I7 Para Jogos – Qual É a Escolha Certa?</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/conversion-mp4mpeg-vers-avi-toute-la-determination-pour-une-conversion-facile-et-gratuite-sur-internet-decouvrez-les-services-de-movavi/"><u>Conversion MP4/MPEG Vers AVI – Toute La Détermination Pour Une Conversion Facile Et Gratuite Sur Internet – Découvrez Les Services De Movavi !</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/explore-private-and-smart-chatting-utilize-duckduckgos-ai-tools-and-chatgpt-features-for-secure-communication/"><u>Explore Private and Smart Chatting: Utilize DuckDuckGo’s AI Tools & ChatGPT Features for Secure Communication</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/gratis-online-converter-de-arquivos-caf-para-mp4-com-o-software-de-edicao-de-video-da-movavi/"><u>Gratis Online Converter De Arquivos CAF Para MP4 Com O Software De Edição De Vídeo Da Movavi</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-realme-12-5g-to-other-android-devices-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Realme 12 5G to Other Android Devices Devices? | Dr.fone</u></a></li>
+<li><a href="https://article-posts.techidaily.com/in-2024-incorporating-seconds-and-minutes-on-youtube-clips/"><u>In 2024, Incorporating Seconds and Minutes on YouTube Clips</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/online-mp4-en-naar-mpeg-bewerkt-veranderen-voor-gratis-expertiseverlend-movavi/"><u>Online MP4-En Naar MPEG Bewerkt Veranderen Voor Gratis - Expertiseverlend Movavi</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/quick-and-easy-m4a-to-wav-file-conversion-get-started-with-movavis-free-service-now/"><u>Quick and Easy M4A to WAV File Conversion - Get Started With Movavi's Free Service Now!</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/trier-gratuitement-un-fichier-mxf-au-format-gif-en-ligne-guide-de-convertisseurs-movavi/"><u>Trier Gratuitement Un Fichier MXF Au Format GIF en Ligne : Guide De Convertisseurs - Movavi</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-steps-battlefront-ii-pc-gaming-stability-issues/"><u>Troubleshooting Steps: Battlefront II PC Gaming Stability Issues</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/1726223161773-wmaaac-movavi/"><u>WMA/AAC 오픈 소스에서 무료 변환: Movavi의 속삭임</u></a></li>
 </ul></div>
 

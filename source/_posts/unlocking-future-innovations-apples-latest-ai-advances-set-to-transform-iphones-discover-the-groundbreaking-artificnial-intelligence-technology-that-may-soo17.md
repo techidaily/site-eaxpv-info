@@ -1,7 +1,7 @@
 ---
 title: "Unlocking Future Innovations: Apple's Latest AI Advances Set to Transform iPhones - Discover the Groundbreaking Artificnial Intelligence Technology that May Soon Elevate Your iPhone Experience, as Unveiled by Apple Research."
-date: 2024-11-30T20:10:51.658Z
-updated: 2024-12-07T23:23:39.267Z
+date: 2024-12-27T17:30:55.720Z
+updated: 2024-12-28T17:01:31.831Z
 tags:
   - apple
 categories:
@@ -38,6 +38,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Apple Intelligence (AI)
 
 Maria Diaz/ZDNET
@@ -59,6 +63,10 @@ Maria Diaz/ZDNET
 * Apple Intelligence will also upgrade the Photos app with a new **clean-up tool** that removes unwanted objects. **Search in videos** allows users to easily find specific snippets of content, and users can create **Memories** on-demand, using text to edit and organize photos into movies.
 * In the Notes app, users can **record and transcribe audio**, which Apple Intelligence will generate a text summary of. This experience is also available in the Notes phone app.
 * Apple Intelligence is free on iOS 18, iPadOS 18, and MacOS Sequoia, and will be available to try in English only this summer.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Partnership with OpenAI
 
@@ -86,10 +94,6 @@ Adam Breeden/ZDNET
 * The **Safari app** was upgraded to include key information about a webpage. You can read more about the Safari upgrades under the MacOS section of this article.
 * The **Calendar app** can now pull from the Reminders app for a more seamless schedule overview.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## WatchOS 11
 
 Adam Breeden/ZDNET
@@ -105,7 +109,7 @@ Adam Breeden/ZDNET
 * Another notable change is that the **double tap gesture** can be used to scroll through apps.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## iPadOS 18
@@ -119,7 +123,7 @@ Adam Breeden/ZDNET
 * iPadOS 18 supports **screen-sharing via SharePlay** and the same Control Center customizations, Photos app upgrades, Safari updates, and emoji Tapbacks found in **iOS 18.**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## MacOS 15 (Sequoia)
@@ -150,10 +154,6 @@ Jason Hiner/ZDNET
 * Users can **cast content** from their iPhone, iPad, or Mac to the Vision Pro using AirPlay.
 * Apple is also making the Vision Pro available in more countries starting June 28\. You can see the full list [here](https://www.apple.com/newsroom/2024/06/apple-vision-pro-arrives-in-new-countries-and-regions-beginning-june-28/).
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## AirPods
 
 Jason Hiner/ZDNET
@@ -163,7 +163,7 @@ Jason Hiner/ZDNET
 * Apple is also releasing a **Personalized Spatial Audio API** for game developers to build around the AirPods' audio technology.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## tvOS 18
@@ -210,20 +210,18 @@ Screenshot by Nina Raemont/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-bite-sized-video-knowledge-now/"><u>[New] 2024 Approved Bite-Sized Video Knowledge Now</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-finding-your-custom-scored-youtube-tunes/"><u>[New] 2024 Approved Finding Your Custom-Scored YouTube Tunes</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-historical-discoveries-at-your-screen-10-best-educational-youtubers-for-2024/"><u>[New] Historical Discoveries at Your Screen - 10 Best Educational YouTubers for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-how-much-do-youtube-clips-pay-per-view-in-2024/"><u>[New] How Much Do YouTube Clips Pay Per View, In 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-game-on-steps-for-crafting-an-influential-online-gamers-channel/"><u>[New] In 2024, Game On Steps for Crafting an Influential Online Gamers' Channel</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/new-in-2024-no-charge-fb-visual-storyteller-pro-software/"><u>[New] In 2024, No-Charge FB Visual Storyteller Pro Software</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ptimizing-your-yt-ad-revenue-with-effective-monetization-audits-for-2024/"><u>[New] Optimizing Your YT Ad Revenue with Effective Monetization Audits for 2024</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/new-the-artisans-touch-skillfully-applying-face-centric-motion-blur-using-picsart/"><u>[New] The Artisan’s Touch Skillfully Applying Face-Centric Motion Blur Using Picsart</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-flavorful-frontier-groundbrenant-title-strategies-for-food-networks-for-2024/"><u>[Updated] Flavorful Frontier Groundbrenant Title Strategies for Food Networks for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-game-masters-youtube-money-hacks-for-2024/"><u>[Updated] Game Masters YouTube Money Hacks for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-game-changing-screens-and-tvs-discover-the-best-for-your-xbox-series-x/"><u>[Updated] Game-Changing Screens & TVs - Discover the Best For Your Xbox Series X</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-getting-the-most-out-of-live-sports-on-youtube-tv/"><u>[Updated] In 2024, Getting the Most Out of Live Sports on YouTube TV</u></a></li>
-<li><a href="https://driver-download.techidaily.com/1722969832557-compatible-with-gigabyte-audiotool-obtain-free-audio-drivers-now/"><u>Compatible with Gigabyte Audiotool: Obtain Free Audio Drivers Now!</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-fix-oem-unlock-missing-on-infinix-note-30-vip-by-drfone-android/"><u>In 2024, How To Fix OEM Unlock Missing on Infinix Note 30 VIP?</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-set-your-preferred-job-location-on-linkedin-app-of-your-apple-iphone-15-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, Set Your Preferred Job Location on LinkedIn App of your Apple iPhone 15 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-essential-checklist-for-integrating-subtitle-track-into-mp4s/"><u>[New] 2024 Approved Essential Checklist for Integrating Subtitle Track Into MP4s</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-gratis-design-elements-for-youtube-channel-for-2024/"><u>[New] Gratis Design Elements for YouTube Channel for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-hack-your-channels-identity-with-these-11-budget-tools-for-2024/"><u>[Updated] Hack Your Channel's Identity with These 11 Budget Tools for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-fixed-video-short-display-for-you/"><u>[Updated] In 2024, Fixed Video Short Display for You</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-hobby-to-hustle-making-money-with-videos/"><u>[Updated] In 2024, From Hobby to Hustle Making Money with Videos</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-make-a-cool-youtube-video-intro-in-imovie-step-by-step/"><u>[Updated] In 2024, How to Make a Cool YouTube Video Intro in iMovie (Step-by-Step)</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-make-every-minute-count-for-view-growth-with-youtube-shorts/"><u>[Updated] In 2024, How to Make Every Minute Count for View Growth with YouTube Shorts</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/approved-block-automated-youtube-content-triggers/"><u>2024 Approved Block Automated YouTube Content Triggers</u></a></li>
+<li><a href="https://fake-location.techidaily.com/best-10-mock-location-apps-worth-trying-on-infinix-smart-8-pro-drfone-by-drfone-virtual-android/"><u>Best 10 Mock Location Apps Worth Trying On Infinix Smart 8 Pro | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-the-issue-counter-strike-2-microphone-troubleshooting-guide/"><u>Fixing the Issue: Counter-Strike 2 Microphone Troubleshooting Guide</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-spy-on-text-messages-from-computer-and-motorola-g24-power-drfone-by-drfone-virtual-android/"><u>How to Spy on Text Messages from Computer & Motorola G24 Power | Dr.fone</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/in-2024-healthcare-marketing-mastering-fb-ad-strategies/"><u>In 2024, Healthcare Marketing Mastering FB Ad Strategies</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/ultimate-5-ps1-emulation-tools-for-modern-pcs/"><u>Ultimate 5 PS1 Emulation Tools for Modern PCs</u></a></li>
 </ul></div>
 

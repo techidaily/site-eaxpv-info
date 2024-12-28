@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Guide: What to Do When Your iPhone Shows Signs of Moisture?"
-date: 2024-12-18T17:29:48.215Z
-updated: 2024-12-22T20:44:49.885Z
+date: 2024-12-25T16:19:49.859Z
+updated: 2024-12-28T16:40:53.723Z
 tags:
   - apple
 categories:
@@ -60,7 +60,7 @@ Aside from the inferior Photos app navigation, videos in the Photos app no longe
 "The UX is a huge downgrade. It's so bad that I had to submit feedback to Apple via the feedback app in the beta. Never did one of those when it wasn't a technical bug, just pure user experience frustration," another [Redditor said](https://www.reddit.com/r/apple/comments/1e2jtq5/comment/ld1wsjg/?utm%5Fsource=share&utm%5Fmedium=web3x&utm%5Fname=web3xcss&utm%5Fterm=1&utm%5Fcontent=share%5Fbutton).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to navigate the iOS 18 Photos app
@@ -109,19 +109,19 @@ I hope a future version of iOS 18 will bring back the Camera Roll or at least to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-lessons.techidaily.com/new-cloud-space-costs-analyzing-and-top-tier-savings-guide/"><u>[New] Cloud Space Costs Analyzing & Top-Tier Savings Guide</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-direct-link-between-spotify-and-youtube-the-top-tools-for-music-sharing-for-2024/"><u>[New] Direct Link Between Spotify and YouTube The Top Tools for Music Sharing for 2024</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-in-2024-crisp-capture-leaders-the-ultimate-list-of-premium-4k-phone-cameras/"><u>[New] In 2024, Crisp Capture Leaders The Ultimate List of Premium 4K Phone Cameras</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-newfrontiersincameratech/"><u>[New] In 2024, NewFrontiersInCameraTech</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-beauty-blogging-beginnings-crafting-a-captivating-youtube-channel/"><u>[Updated] 2024 Approved Beauty Blogging Beginnings Crafting a Captivating YouTube Channel</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-concept-to-creation-crafting-youtube-video-splits/"><u>[Updated] 2024 Approved From Concept to Creation Crafting YouTube Video Splits</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-collect-free-image-resources-via-top-4-online-stock-hubs/"><u>[Updated] In 2024, Collect Free Image Resources Via Top 4 Online Stock Hubs</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-profitability-playbook-the-ultimate-duo-of-dm-and-yo/"><u>[Updated] Profitability Playbook The Ultimate Duo of Dm & Yo</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-quick-paced-fortnite-visual-artistry/"><u>[Updated] Quick-Paced Fortnite Visual Artistry</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/96370983-9780876048108-blueprint-for-holistic-healing/"><u>Blueprint for Holistic Healing | Free Book</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-apple-iphone-15-to-other-iphone-drfone-by-drfone-ios/"><u>How to Mirror Apple iPhone 15 to Other iPhone? | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-extreme-sports-gopro-vs-star-sj7-comparison/"><u>In 2024, Extreme Sports GoPro Vs Star SJ7 Comparison</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/solving-common-issues-with-your-scanning-device-a-troubleshooting-guide-by-yl-software-experts/"><u>Solving Common Issues with Your Scanning Device: A Troubleshooting Guide by YL Software Experts</u></a></li>
-<li><a href="https://windows11.techidaily.com/the-ultimate-guide-to-optimizing-win-11s-taskbar/"><u>The Ultimate Guide to Optimizing Win 11'S Taskbar</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-adv-screen-recorder-full-review-for-2024/"><u>[New] ADV Screen Recorder Full Review for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-the-modern-marketers-guide-to-video-sharing-exploring-igtv-and-youtube/"><u>[New] In 2024, The Modern Marketer's Guide to Video Sharing Exploring IGTV & YouTube</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-pushing-boundaries-camera-capabilities-in-ios-11/"><u>[New] Pushing Boundaries Camera Capabilities in iOS 11</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-exclusive-guide-to-premium-win-11-webcam-systems/"><u>[Updated] In 2024, Exclusive Guide to Premium Win 11 Webcam Systems</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-grandest-gatherings-a-chronicle-of-the-most-voted-posts-top-10/"><u>[Updated] The Grandest Gatherings A Chronicle of the Most Voted Posts (Top 10)</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/1424572-9781780284552-angel-healing/"><u>Angel Healing | Free Book</u></a></li>
+<li><a href="https://win-answers.techidaily.com/beat-the-warzone-bug-a-step-by-step-solution-to-defeating-memory-error-0-1cuh82-on-your-gaming-systems/"><u>Beat The Warzone Bug - A Step-by-Step Solution to Defeating Memory Error 0-1Cuh82 on Your Gaming Systems</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/convertir-videos-mpeg-au-format-vob-sur-internet-pour-rien-service-de-conversion-video-express-avec-movavi/"><u>Convertir Vidéos MPEG Au Format VOB Sur Internet Pour Rien - Service De Conversion Vidéo Express Avec Movavi</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/free-online-tool-by-movavi-seamlessly-convert-pcx-files-into-bmp-format/"><u>Free Online Tool by Movavi - Seamlessly Convert PCX Files Into BMP Format</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-3utools-virtual-location-not-working-on-itel-a60-fix-now-drfone-by-drfone-virtual-android/"><u>In 2024, 3uTools Virtual Location Not Working On Itel A60? Fix Now | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/mastering-security-concerns-as-cloud-technology-takes-center-stage-insights-from-zdnet/"><u>Mastering Security Concerns as Cloud Technology Takes Center Stage - Insights From ZDNet</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/movavi-online-downloadador-de-imagens-jpeg-livre-e-gratuito-para-pdfs-do-formato-ppm/"><u>Movavi Online: Downloadador De Imagens JPEG Livre E Gratuito Para PDFs Do Formato PPM</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/movavi-wmvmpeg/"><u>Movavi의 인터넷 루트에서 WMV/MPEG 비디오를 쉽게 모니터링 가능한 다이제스트로 변환하기</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/tecnicas-eficientes-de-alteracao-do-tamanho-em-multiplicidade-como-usar-o-redimensionador-de-fotos-para-otimizacao-rapida-e-simultanea/"><u>Técnicas Eficientes De Alteração Do Tamanho Em Multiplicidade: Como Usar O Redimensionador De Fotos Para Otimização Rápida E Simultânea</u></a></li>
 </ul></div>
 

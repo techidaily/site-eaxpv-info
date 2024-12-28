@@ -1,7 +1,7 @@
 ---
 title: Upgrading to iPhone 16 Pro - Is It Worth Leaving Behind the iPhone ˈ|ZDNET Expert Review
-date: 2024-12-03T17:56:51.942Z
-updated: 2024-12-07T22:34:19.699Z
+date: 2024-12-22T17:09:07.348Z
+updated: 2024-12-28T16:53:30.740Z
 tags:
   - apple
 categories:
@@ -26,10 +26,6 @@ As an iPhone 14 Pro Max user, I'm not convinced that the new AI-enabled [iPhone 
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Specifications
 
 | **Features**       | **iPhone 16 Pro**            | **iPhone 14 Pro**            |             |                        |         |             |
@@ -45,12 +41,16 @@ As an iPhone 14 Pro Max user, I'm not convinced that the new AI-enabled [iPhone 
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## You should buy the iPhone 16 Pro if…
 
 Jason Hiner/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 1\. You want Apple Intelligence
@@ -69,6 +69,10 @@ Apple has thinned out the iPhone 16 Pro's bezels to the bare minimum and stretch
 
 The larger smartphone also means that the iPhone 16 Pro has a larger battery than the 14 Pro, at 3,355 mAh compared to 3,200 mAh. But even without the welcome battery upgrade, the new Pro models support faster charging than ever. The iPhone 16 Pro supports 40W wired charging and 20W of MagSafe charging, so if you find the iPhone 14 Pro's charging slow, it could be time to upgrade.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 3\. You love taking beautiful photos
 
 The iPhone 16 Pro features some of the best camera enhancements, including the improved ultrawide camera. The UW camera moved to align with a larger, improved Sony sensor, so it's going from a measly 12MP to 48MP. 
@@ -79,16 +83,12 @@ If you love taking photos with your smartphone, the camera upgrades alone may be
 
 [Pre-order the iPhone 16 Pro View now at Apple](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-iphone%2Fiphone-16-pro&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## You should buy (or keep) the iPhone 14 Pro if…
 
 Kerry Wan/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 1\. You'd rather wait for bigger upgrades
@@ -100,7 +100,7 @@ Even with the Apple Intelligence features, the iPhone 16 seems to be an incremen
 [Rumors](https://9to5mac.com/2024/07/12/iphone-16-new-features-worth-the-wait/) suggest the iPhone 17 may feature more dramatic design and functionality updates, making it a worthwhile jump. Besides, upgrading after two generations can be costly, which brings me to my next point. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 2\. You just finished paying it off
@@ -147,22 +147,22 @@ As an iPhone 14 Pro Max user, I'm still pretty happy with how my iPhone performs
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-make-a-cool-intro-for-youtube-plusfree-templates/"><u>[New] 2024 Approved How to Make a Cool Intro for YouTube? [+Free Templates]</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-from-songs-to-symphony-building-a-cohesive-youtube-playlist-on-webapp-for-2024/"><u>[New] From Songs to Symphony Building a Cohesive YouTube Playlist on Web/App for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-hunters-choice-top-5-ultimate-shot-recording-gear/"><u>[New] Hunters' Choice Top 5 Ultimate Shot-Recording Gear</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-obscurity-to-stardom-trendsetting-tactics-for-videos/"><u>[New] In 2024, From Obscurity to Stardom Trendsetting Tactics for Videos</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-flv-to-youtubes-master-the-art-of-video-transformation-with-these-top-tools/"><u>[Updated] 2024 Approved Flv to Youtubes Master the Art of Video Transformation with These Top Tools</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-free-method-to-record-your-youtube-watching-experience/"><u>[Updated] 2024 Approved Free Method to Record Your YouTube Watching Experience</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-explore-the-best-30-no-cost-sites-bringing-high-end-illustration-to-life/"><u>[Updated] Explore the Best 30 No-Cost Sites Bringing High-End Illustration to Life</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-animate-and-make-your-own-effects-for-2024/"><u>[Updated] How to Animate and Make Your Own Effects for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-gain-momentum-with-these-strategies-for-trending-youtubers/"><u>[Updated] In 2024, Gain Momentum with These Strategies for Trending YouTubers</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-use-a-tripod-for-vlogging/"><u>[Updated] In 2024, How To Use a Tripod for Vlogging</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-the-ultimate-drone-accessory-guide-10-must-haves-revealed/"><u>[Updated] The Ultimate Drone Accessory Guide - 10 Must-Haves Revealed</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-top-tricks-in-sports-video-production/"><u>[Updated] Top Tricks in Sports Video Production</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-illuminating-photography-with-dynamic-mosaic-creations/"><u>2024 Approved Illuminating Photography with Dynamic Mosaic Creations</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/enhancing-your-laptops-soundscape-elevating-system-volume-on-win10-systems/"><u>Enhancing Your Laptop's Soundscape: Elevating System Volume on Win10 Systems</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/how-to-change-your-sim-pin-code-on-your-vivo-y78t-phone-by-drfone-android/"><u>How To Change Your SIM PIN Code on Your Vivo Y78t Phone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-does-airplane-mode-turn-off-gps-location-on-honor-100-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Does Airplane Mode Turn off GPS Location On Honor 100 Pro? | Dr.fone</u></a></li>
-<li><a href="https://win-help.techidaily.com/solving-the-issue-of-iphones-invisible-on-your-windows-11-8-or-7-computer-a-step-by-step-guide/"><u>Solving the Issue of iPhones Invisible on Your Windows 11, 8 or 7 Computer: A Step-by-Step Guide</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-filmmakers-pathway-youtube-trailer-creation-with-filmora-for-2024/"><u>[New] Filmmaker's Pathway YouTube Trailer Creation with Filmora for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-unveiling-the-art-of-screencasting-orderly-tutorial-series/"><u>[New] In 2024, Unveiling the Art of Screencasting Orderly Tutorial Series</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-beginner-to-expert-choose-studio-or-beta/"><u>[Updated] 2024 Approved From Beginner to Expert Choose Studio or Beta</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-from-gym-goer-to-broadcayer-set-up-a-sports-vlog-on-macos-for-2024/"><u>[Updated] From Gym Goer to Broadcayer Set Up a Sports Vlog on macOS for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-how-does-t-series-generate-revenue-for-2024/"><u>[Updated] How Does T-Series Generate Revenue for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-how-much-wealth-awaits-one-million-youtube-followers-for-2024/"><u>[Updated] How Much Wealth Awaits One Million YouTube Followers for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-get-hd-quality-quickly-enable-av1-in-youtube-settings/"><u>[Updated] In 2024, Get HD Quality Quickly Enable AV1 in YouTube Settings</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-use-youtube-enhancements/"><u>[Updated] In 2024, How to Use YouTube Enhancements</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-what-is-a-parody-and-how-to-make-a-parody-video/"><u>[Updated] In 2024, What Is a Parody and How to Make a Parody Video</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-motion-magic-quick-photography-tricks-for-samsung-users-for-2024/"><u>[Updated] Motion Magic Quick Photography Tricks for Samsung Users for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-transform-your-live-streaming-best-practices-in-obs-studio/"><u>[Updated] Transform Your Live Streaming Best Practices in OBS Studio</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-eradicating-unwanted-bg-elements-effortlessly-with-figma/"><u>2024 Approved Eradicating Unwanted BG Elements Effortlessly with Figma</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-understanding-the-role-and-impact-of-b-roll-in-editing/"><u>2024 Approved Understanding the Role and Impact of B Roll in Editing</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-remove-a-previously-synced-google-account-from-your-tecno-spark-10-5g-by-drfone-android/"><u>How to Remove a Previously Synced Google Account from Your Tecno Spark 10 5G</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/mastery-over-airwaves-recording-techniques-for-live-sounds-for-2024/"><u>Mastery Over Airwaves Recording Techniques for Live Sounds for 2024</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/ultimate-guide-to-get-the-meltan-box-pokemon-go-for-motorola-moto-g23-drfone-by-drfone-virtual-android/"><u>Ultimate guide to get the meltan box pokemon go For Motorola Moto G23 | Dr.fone</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/unveiling-secrets-to-effective-snapchat-pins-for-2024/"><u>Unveiling Secrets to Effective Snapchat Pins for 2024</u></a></li>
 </ul></div>
 

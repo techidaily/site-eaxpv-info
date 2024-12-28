@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Guide to Rapid or Slowdown  YouTube's Playback Adjustments for 2024\""
-date: 2024-08-20T13:01:40.276Z
-updated: 2024-08-21T13:01:40.276Z
+date: 2024-12-26T17:21:51.980Z
+updated: 2024-12-28T17:24:26.749Z
 tags:
   - ai video
   - ai youtube
@@ -80,9 +80,17 @@ Then you will see a list containing the preset speed provided by YouTube.
 
 ![change youtube video speed mobile](https://images.wondershare.com/filmora/article-images/change-youtube-video-speed-mobile.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 1 is the average speed. Any value below than 1 will slow down the video, while any value above it will increase it.
 
 Once done, close the menu, and the video will resume from where it stopped.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 4: How YouTube's Playback Speed Controls Work?
 
@@ -107,6 +115,10 @@ Also, you can slow down a tutorial or the video you are watching if you feel the
 04 [How YouTube's Playback Speed Controls Work?](#part4)
 
 05 [How to Change a YouTube Video's Speed Online](#part5)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 1: How to Change YouTube's Playback Speed on Computer
 
@@ -154,18 +166,6 @@ At the top right corner, select the vertically aligned three dots. This will bri
 
 Then you will see a list containing the preset speed provided by YouTube.
 
-<!-- affiliate ads begin -->
-<span id="1997795">
-					<video width="250" height="250" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![change youtube video speed mobile](https://images.wondershare.com/filmora/article-images/change-youtube-video-speed-mobile.jpg)
 
 1 is the average speed. Any value below than 1 will slow down the video, while any value above it will increase it.
@@ -197,8 +197,9 @@ Also, you can slow down a tutorial or the video you are watching if you feel the
 05 [How to Change a YouTube Video's Speed Online](#part5)
 
 <!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Part 1: How to Change YouTube's Playback Speed on Computer
 
 To **fast-forward YouTube** playback videos or slow it down on the computer, you must follow the proper steps. Changing **YouTube's playback speed** on a computer is not a complex thing to do. You can achieve it if you follow the steps we will show you.
@@ -209,9 +210,6 @@ To start, at the bottom right corner of your YouTube video, click the **gear whe
 
 Select **playback speed,** and you will see a list of speeds from 0.25x, 0.5x, 0.75x, normal, 1.25x, 1.5x, 1.75 x to 2.0x.
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![change youtube video playback speed option](https://images.wondershare.com/filmora/article-images/change-youtube-video-playback-speed-option.jpg)
 
 These are preset speeds. If they are not suitable for you, you will have to select a custom speed, but they must be in the same range of 0.25x to 2.0x.
@@ -246,11 +244,12 @@ At the top right corner, select the vertically aligned three dots. This will bri
 
 ![youtube playback speed option mobile](https://images.wondershare.com/filmora/article-images/youtube-playback-speed-option-mobile.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Then you will see a list containing the preset speed provided by YouTube.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![change youtube video speed mobile](https://images.wondershare.com/filmora/article-images/change-youtube-video-speed-mobile.jpg)
 
 1 is the average speed. Any value below than 1 will slow down the video, while any value above it will increase it.
@@ -293,15 +292,16 @@ Select **playback speed,** and you will see a list of speeds from 0.25x, 0.5x, 0
 
 ![change youtube video playback speed option](https://images.wondershare.com/filmora/article-images/change-youtube-video-playback-speed-option.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 These are preset speeds. If they are not suitable for you, you will have to select a custom speed, but they must be in the same range of 0.25x to 2.0x.
 
 To do this, go back to playback speed. Select **custom** in the top-right side of the pop-up menu**,** then adjust the speed using a slider that you will see there.
 
 **Related**: [How to Make a YouTube Video](https://tools.techidaily.com/wondershare/filmora/download/).
 
-<!-- affiliate ads begin -->
-<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
-<!-- affiliate ads end -->
 ## Part 2: How to Change Video Speed with Keyboard Shortcuts on YouTube
 
 If you are watching a YouTube Video on your computer and want to adjust the playback speed, you can change the speed with keyboard shortcuts.
@@ -316,9 +316,6 @@ Changing the playback speed using these keyboard shortcuts increases by 0.25 inc
 
 The best thing about this method of changing the speed is that you can do it while watching the movie or while paused.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 3: How to Change YouTube's Video Playback Speed on Mobile
 
 If you'd like to know **how to speed up YouTube videos** on your Android, iPhone, or iPad, here's it.
@@ -329,25 +326,20 @@ Then tap the video once, and it will bring up the toolbar.
 
 At the top right corner, select the vertically aligned three dots. This will bring out a menu for you—select playback speed.
 
-<!-- affiliate ads begin -->
-<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![youtube playback speed option mobile](https://images.wondershare.com/filmora/article-images/youtube-playback-speed-option-mobile.jpg)
 
 Then you will see a list containing the preset speed provided by YouTube.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![change youtube video speed mobile](https://images.wondershare.com/filmora/article-images/change-youtube-video-speed-mobile.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 1 is the average speed. Any value below than 1 will slow down the video, while any value above it will increase it.
 
 Once done, close the menu, and the video will resume from where it stopped.
 
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 ## Part 4: How YouTube's Playback Speed Controls Work?
 
 YouTube has an added feature known as 'playback speed.' This feature allows you to select a speed from 0.25x to 2x the normal speed. With this **YouTube's speed control**, 1 is the normal speed, with 0.25 being one-quarter (1/4th) of the actual speed and slowing the video. In the same vein, 2x is twice the average speed, increasing the video speed.
@@ -377,8 +369,9 @@ Also, you can slow down a tutorial or the video you are watching if you feel the
      data-ad-slot="1223367746"></ins>
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Essential Techniques for YouTube End Screen Designs
 
 # How to Add YouTube End Screen and Cards Effectively
@@ -397,9 +390,6 @@ The traditional annotation’s features are replaced by its successor YouTube Ca
 
 [Wondershare Filmstock Gaming Video Editing Skils](https://images.wondershare.com/filmora/article-images/learn-gaming-video-editing-skills-banner.png)](https://filmstock.wondershare.com/creative-theme-game?source%5Fchannel=seo%5Farticle&spm=rs.filmora%5Fweb)
 
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Part 1: Why You Need to Add End Screens and Cards to Videos
 
 There are several reasons that make the YouTube end screen and cards a great tool when added to the videos. The new channel builtin features, donation choices, embedded polls and more are some of the best interactive and powerful features of YouTube end screen that’s when added to the video can drive in users to your channel. It is a strong tool to build viewership of your channel. When you use YouTube end screen at the end of the video, it helps in directing the users to other channels, playlists, and videos and also helps in promoting crowdfunding campaigns, merchandise and website. The YouTube end screen is a part of the video and to have an end screen on your video, it must be around 25seconds long.
@@ -439,6 +429,10 @@ YouTube Cards is more interactive. Users can add images and other linkes. Here a
 * **Poll**: Encourage viewers to participate in a poll (vote)
 * **Link**: links to a website which compliments whatever content is in the video.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 4 Tips for Using YouTube Cards
 
 **1\.** You might be used to pointing to the part of your screen where you intend to put an annotation, but when you use YouTube Cards they might switch locations depending on what device a viewer is watching on.
@@ -450,15 +444,13 @@ YouTube Cards is more interactive. Users can add images and other linkes. Here a
  **4.** The end of your video is always a great place to link viewers to another of your videos, whether you use a card or an end screen. If somebody liked your video enough to watch until the end they’ll probably welcome a chance to consume similar content.
 
 <!-- affiliate ads begin -->
-<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Conclusion
 
 Now, that you are aware how to add YouTube end screen to your video, make use of the amazing features of YouTube end screen and cards and let driving in traffic to your site be easy and fruitful.
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 Richard Bennett
@@ -467,7 +459,6 @@ Richard Bennett is a writer and a lover of all things video.
 
 Follow @Richard Bennett
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -475,8 +466,20 @@ Follow @Richard Bennett
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-glue.techidaily.com/updated-in-2024-5-pro-photoshop-tricks-that-newbies-must-know/"><u>[Updated] In 2024, 5 Pro Photoshop Tricks That Newbies Must Know</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-blocking-facebooks-advertising-overload-in-real-time/"><u>[Updated] In 2024, Blocking Facebook's Advertising Overload in Real Time</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-oculus-rift-vs-htc-vive-vs-playstation-vr-whats-the-best-for-gaming/"><u>[Updated] Oculus Rift vs HTC Vive vs PlayStation VR What’s the Best for Gaming?</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/2024nosub/"><u>2024年最新のNosubダウンロードガイド：安全にフリーアニメを入手する方法</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/gpu-winx-hd-deluxe/"><u>優化GPU功能的 WinX HD 高畫質影片轉換 - Deluxe版: 大小調整及影片修改</u></a></li>
+<li><a href="https://fake-location.techidaily.com/can-life360-track-or-see-text-messages-what-can-you-do-with-life360-on-oppo-find-x6-drfone-by-drfone-virtual-android/"><u>Can Life360 Track Or See Text Messages? What Can You Do with Life360 On Oppo Find X6? | Dr.fone</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/deinterlacieren-von-videodateien-mit-handbrake-eine-umfassende-detaillierte-anleitungsreihe/"><u>Deinterlacieren Von Videodateien Mit Handbrake - Eine Umfassende, Detaillierte Anleitungsreihe</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/effortless-snapchat-setup-for-mac-enthusiasts/"><u>Effortless Snapchat Setup for Mac Enthusiasts</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/how-to-convert-mkv-files-to-mp4-on-ios-and-android-devices-without-cost/"><u>How to Convert MKV Files to MP4 on iOS and Android Devices Without Cost</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-whatsapp-from-iphone-xs-to-other-iphone-14-pro-max-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From iPhone XS to other iPhone 14 Pro Max devices? | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-futures-best-on-display-premium-video-cameras-in-2-written-by-michael-a-risley/"><u>In 2024, Future's Best on Display Premium Video Cameras in 2 Written by Michael A. Risley</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-rotate-your-videos-with-ease-a-comprehensive-tutorial/"><u>New Rotate Your Videos with Ease A Comprehensive Tutorial</u></a></li>
+<li><a href="https://blog-min.techidaily.com/quick-and-easy-winx-dvd-ripper-pro-copy-your-entire-dvd-library-under-five-minutes/"><u>Quick and Easy WinX DVD Ripper Pro: Copy Your Entire DVD Library Under Five Minutes</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Steps for Controlling Video Comment Settings in YouTube"
-date: 2024-08-20T13:06:36.831Z
-updated: 2024-08-21T13:06:36.831Z
+date: 2024-12-23T16:54:19.935Z
+updated: 2024-12-28T16:47:49.818Z
 tags:
   - ai video
   - ai youtube
@@ -31,8 +31,9 @@ As a brand, it is imperative to thoroughly read all the comments that your YouTu
 Keeping all these points in mind, the following sections explain **how to enable comments on YouTube** and **how to turn off comments on YouTube**. Here you will also get to know what other types of security and privacy options are there that you can use to filter the comments posted by the disturbing elements.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Part 1: How to Turn on or Turn off Comments for YouTube Channel
 
 If you don’t want any comments on any of the videos that you publish, you must learn **how to disable comments on the YouTube** channel. The process of doing so is explained below:
@@ -43,14 +44,19 @@ Use your favorite web browser to go to YouTube and sign in to your Google accoun
 
 ![Find YouTube Studio options](https://images.wondershare.com/filmora/article-images/find-youtube-studio-option.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 #### Step 2: Go to Channel’s Advanced Settings
 
 From the bottom of the left pane, click the **Settings** icon, click **Channel** from the **Settings** box that comes up next, and go to **Advanced settings** from the right window.
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![YouTube Channel Advanced Settings](https://images.wondershare.com/filmora/article-images/youtube-channel-advanced-settings.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #### Step 3: Turn Off Comments
 
@@ -62,9 +68,6 @@ To turn on comments on **all the videos on your YouTube channel**, you can follo
 
 Use the method explained above to get to the channel’s **Advanced settings** box. Select the **No, set this channel as not made for kids. I never upload content that’s made for kids** radio button. Click **SAVE** to save the changes.
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Turn on YouTube Channel Comments](https://images.wondershare.com/filmora/article-images/turn-on-channel-comments-advanced-settings.jpg)
 
 #### 2\. Define Acceptable Comment Types
@@ -73,14 +76,19 @@ Click the **Settings** icon from the bottom of the left pane one more time. On t
 
 ![Set up YouTube video  Comments visibility](https://images.wondershare.com/filmora/article-images/set-up-youtube-comments-visibilities.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 #### 3\. Set Comment Allowance for Videos
 
 Back on the **YouTube Studio** page, click **Content** from the left pane. From the right section, check the **Video** box at the top of the list to select all the videos the channel has. Click **Edit** from the column header, and click **Comments** from the menu that comes up. From the **New value** drop-down list, choose your preferred allowance option for the comments, click **UPDATE VIDEOS** from the upper-right area, check the **I understand the implications of this action** box, and click **UPDATE VIDEOS** to allow comments on all the videos of the channel.
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Turn on or off YouTube content commnets settings](https://images.wondershare.com/filmora/article-images/turn-on-off-channel-content-comments-settings.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #### **Additional Info about Comments Options**
 
@@ -102,9 +110,6 @@ Selecting this option holds all the comments from all the users, and waits for y
 
 When this option is selected, no one can post a comment to the video(s) whatsoever.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 2: Turn on or Turn off Comments for Specific Videos
 
 As you might have noticed, any video that is marked as ‘Made for kids’ doesn’t allow users to post comments. You can exploit this feature to enable or disable commenting on specific YouTube videos as well.
@@ -123,9 +128,6 @@ Hover the mouse over the target video in the right window, and click the **Detai
 
 From under the **Audience** section in the right window of the **Video details** page, select the **No, it’s not made for kids** radio button. Next, click **SHOW MORE**, scroll down to the **Comments and ratings** section, and choose your preferred privacy option from the **Comment visibility** drop-down list. Click **SAVE** from the upper-right area to save the changes.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Turn on or turn off comments for specific youtube video](https://images.wondershare.com/filmora/article-images/turn-on-off-comments-for-specific-youtube-video.jpg)
 
 **Note:** To learn **how to disable comments on YouTube** for specific video, you can repeat the above steps, and choose the **Yes, it’s made for kids** radio button from the **Audience** section when you are on the **Video details** page.
@@ -166,8 +168,6 @@ Liza Brown is a writer and a lover of all things video.
 
 Follow @Liza Brown
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -175,5 +175,21 @@ Follow @Liza Brown
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-http.techidaily.com/new-earning-equation-finns-financial-frequency/"><u>[New] Earning Equation Finn's Financial Frequency</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/unes-takeover-transitioning-tracks-to-youtube/"><u>[New] Tunes Takeover Transitioning Tracks to YouTube</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-detailed-explanation-of-youtubes-operation-after-a-video-goes-live/"><u>[Updated] In 2024, Detailed Explanation of YouTube's Operation After a Video Goes Live</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-muting-mastery-keeping-your-meeting-focus-on-google-go-for-2024/"><u>[Updated] Muting Mastery Keeping Your Meeting Focus on Google Go for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/best-free-dvd-ripping-tools-fur-windows-11-die-top-3-im-jahr-2023-vergleichen/"><u>Best FREE DVD Ripping Tools Für Windows 11: Die TOP-3 Im Jahr 2023 Vergleichen</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/comprehensive-review-of-top-ranking-mkv-video-players-for-multiplatform-use-in-macos-win-11-ios-and-android-devices/"><u>Comprehensive Review of Top-Ranking MKV Video Players for Multiplatform Use in macOS, Win 11, iOS & Android Devices</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/exploring-alternatives-to-the-iphone-16-is-there-a-better-choice/"><u>Exploring Alternatives to the iPhone 16 - Is There a Better Choice?</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/guide-recording-with-obs-as-mp4-instead-of-mkv/"><u>Guide: Recording with OBS as MP4 Instead of MKV</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/master-your-media-library-winxdvd-official-software-featuring-advanced-dvd-extraction-ai-video-optimization-and-seamless-device-transfer-compatibility/"><u>Master Your Media Library: WinXDVD Official Software Featuring Advanced DVD Extraction, AI Video Optimization and Seamless Device Transfer Compatibility</u></a></li>
+<li><a href="https://win11.techidaily.com/preventing-automatic-start-of-spotify-in-windows/"><u>Preventing Automatic Start of Spotify in Windows</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/reduzca-el-tamano-de-archivos-de-video-hd-4k-y-8k-en-un-90-facil-e-inteligente/"><u>Reduzca El Tamaño De Archivos De Vídeo HD, 4K Y 8K en Un 90%, Fácil E Inteligente</u></a></li>
+<li><a href="https://some-tips.techidaily.com/samsung-galaxy-versus-apple-ultra-smartwatch-showdown-expert-analysis-and-buying-guide/"><u>Samsung Galaxy Versus Apple: Ultra-Smartwatch Showdown | Expert Analysis and Buying Guide</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-recover-deleted-contacts-on-samsung-galaxy-a25-5g-without-backup-by-fonelab-android-recover-contacts/"><u>The way to recover deleted contacts on Samsung Galaxy A25 5G without backup.</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/toutes-les-techniques-faciles-et-libres-pour-reparer-un-fichier-video-mp4-corrompu-sur-windowsmac-os-x/"><u>Toutes Les Techniques Faciles Et Libres Pour Réparer Un Fichier Vidéo MP4 Corrompu Sur Windows/Mac OS X</u></a></li>
+</ul></div>
 

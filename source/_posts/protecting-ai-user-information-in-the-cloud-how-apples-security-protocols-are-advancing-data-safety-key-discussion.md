@@ -1,7 +1,7 @@
 ---
 title: "Protecting AI User Information in the Cloud: How Apple's Security Protocols Are Advancing Data Safety (Key Discussion)"
-date: 2024-12-05T18:39:07.228Z
-updated: 2024-12-07T20:17:36.168Z
+date: 2024-12-26T16:34:34.382Z
+updated: 2024-12-28T17:46:42.790Z
 tags:
   - apple
 categories:
@@ -49,7 +49,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## A trained charm offensive
@@ -83,7 +83,7 @@ She began to play a demonstration video that, dare I confess, is quite moving.
 The fact that someone else can see (a digital version of) your eyes is a touchingly humane feature, even if imperfect. But the simple gesturing and the apparent power of that gesturing is, even on video, quite something.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Suddenly, it's all business
@@ -125,7 +125,7 @@ I asked if she thought this would become the new way of living, where people wan
 (Well, not quite all the apps. Netflix and YouTube [aren't there](https://www.zdnet.com/article/what-apps-will-be-on-apple-vision-pro-not-these-two-major-ones/).)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Was I sold? Not quite yet
@@ -191,24 +191,21 @@ I asked the female store employee whether she'd be able to try one on before the
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-hashtag-mastery-enhancing-freefire-gameplay-videos-for-2024/"><u>[New] Hashtag Mastery Enhancing FreeFire Gameplay Videos for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-how-big-should-a-good-thumbnail-be-youtubes-ultimate-guide-for-2024/"><u>[New] How Big Should a Good Thumbnail Be? YouTube's Ultimate Guide for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-in-2024-enhance-discord-conversations-a-recorders-insight/"><u>[New] In 2024, Enhance Discord Conversations A Recorder's Insight</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-hastened-steps-for-clear-background-filming-success/"><u>[New] In 2024, Hastened Steps for Clear Background Filming Success</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/new-in-2024-step-by-step-setting-up-a-channel-for-streaming/"><u>[New] In 2024, Step-by-Step Setting up a Channel for Streaming</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-game-masters-top-ten-female-gaming-influencers/"><u>[Updated] 2024 Approved Game Masters Top Ten Female Gaming Influencers</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-harnessing-hdr-in-post-top-4-youtube-guides-with-complimentary-green-screen-effects/"><u>[Updated] 2024 Approved Harnessing HDR in Post Top 4 YouTube Guides with Complimentary Green Screen Effects</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-harnessing-online-revenue-multiplatform-studio-use/"><u>[Updated] 2024 Approved Harnessing Online Revenue Multiplatform Studio Use</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-haute-makeup-techniques-step-by-step-youtube-guide-for-2024/"><u>[Updated] Haute Makeup Techniques Step-by-Step YouTube Guide for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-add-timestamps-youtube-video-for-2024/"><u>[Updated] How to Add Timestamps YouTube Video for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-fixed-youtube-shorts-lacking-in-sight/"><u>[Updated] In 2024, Fixed YouTube Shorts Lacking in Sight</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-messages-from-motorola-razr-40-ultra-by-fonelab-android-recover-messages/"><u>Easy steps to recover deleted messages from Motorola Razr 40 Ultra</u></a></li>
-<li><a href="https://win-dash.techidaily.com/free-installation-of-nvidias-3d-vision-drivers-on-windows-systems/"><u>Free Installation of Nvidia's 3D Vision Drivers on Windows Systems</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-unlock-itel-a70-bootloader-easily-by-drfone-android/"><u>How to Unlock Itel A70 Bootloader Easily</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-why-your-whatsapp-location-is-not-updating-and-how-to-fix-on-oneplus-nord-n30-se-drfone-by-drfone-virtual-android/"><u>In 2024, Why Your WhatsApp Location is Not Updating and How to Fix On OnePlus Nord N30 SE | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/mastering-voice-commands-instructions-for-activating-siris-reading-feature/"><u>Mastering Voice Commands: Instructions for Activating Siri's Reading Feature</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/ps5-faceoff-examining-differences-between-ps5-slim-and-original-model/"><u>PS5 Faceoff: Examining Differences Between PS5 Slim & Original Model</u></a></li>
-<li><a href="https://win-blog.techidaily.com/solving-common-sounds-issues-in-halo-infinite-a-step-by-step-guide/"><u>Solving Common Sounds Issues in Halo Infinite: A Step-by-Step Guide</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/top-5-engine-picks-for-peak-performance-quadcopters/"><u>Top 5 Engine Picks for Peak Performance Quadcopters</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-2023-best-8-private-video-downloaders/"><u>[New] In 2024, 2023 | Best 8 Private Video Downloaders</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-gentle-request-for-a-greater-genuine-community/"><u>[New] In 2024, Gentle Request for a Greater, Genuine Community</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-10-unlicensed-sounds-to-help-you-reach-zen-state/"><u>[Updated] 10 Unlicensed Sounds to Help You Reach Zen State</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-elevate-vlogging-effective-use-of-jump-cuts/"><u>[Updated] 2024 Approved Elevate Vlogging Effective Use of Jump Cuts</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-shuffle-youtube-playlist/"><u>[Updated] 2024 Approved How to Shuffle YouTube Playlist</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-free-aesthetic-essentials-for-youtube-artistry-for-2024/"><u>[Updated] Free Aesthetic Essentials for YouTube Artistry for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-streamline-the-integration-of-youtube-playlists-into-a-sites-layout-for-2024/"><u>[Updated] How To Streamline the Integration of YouTube Playlists Into a Site's Layout for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-in-2024-cultivating-connection-not-compulsion-in-subscriptions/"><u>[Updated] In 2024, Cultivating Connection, Not Compulsion in Subscriptions</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-grasping-youtube-seo-a-guide-to-keyword-discovery/"><u>[Updated] In 2024, Grasping YouTube SEO A Guide to Keyword Discovery</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-secure-is-subforsup-to-expand-your-youtube-community-safely/"><u>[Updated] In 2024, How Secure Is Subforsup to Expand Your YouTube Community Safely?</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-safeguard-your-videos-in-the-age-of-youtube/"><u>[Updated] In 2024, How to Safeguard Your Videos in the Age of YouTube</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-perfecting-your-images-the-art-of-curving/"><u>[Updated] Perfecting Your Images The Art of Curving</u></a></li>
+<li><a href="https://discover-hacks.techidaily.com/comprehensive-synchronization-of-sql-databases-between-azure-sql-and-sql-server/"><u>Comprehensive Synchronization of SQL Databases Between Azure SQL & SQL Server</u></a></li>
+<li><a href="https://win-exceptional.techidaily.com/estrategias-expertas-para-rescatar-informacion-de-un-disco-roto/"><u>Estrategias Expertas Para Rescatar Información De Un Disco Roto</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/top-2-secrets-to-convert-instagram-videos-into-premium-mp4/"><u>Top 2 Secrets to Convert Instagram Videos Into Premium MP4</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/tracing-sentimental-codes-in-artificayer-emotion-interaction/"><u>Tracing Sentimental Codes in Artificayer-Emotion Interaction</u></a></li>
 </ul></div>
 

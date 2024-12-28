@@ -1,7 +1,7 @@
 ---
 title: "Apple Watch Ultra 2: My Ideal Smartwatch with an Extra $100 Off This Labor Day - A Review"
-date: 2024-12-03T23:12:03.544Z
-updated: 2024-12-07T18:43:59.113Z
+date: 2024-12-21T17:34:19.770Z
+updated: 2024-12-28T16:56:54.090Z
 tags:
   - apple
 categories:
@@ -21,7 +21,7 @@ Matthew Miller/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### What's the deal?
@@ -33,7 +33,7 @@ Matthew Miller/ZDNET
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Why is this deal ZDNET recommended?
@@ -97,7 +97,7 @@ Finally, as much as I enjoy the Apple Watch Ultra 2 for its long battery life, b
 I now frequently use the Reflect and Breathe utilities, which have slowly but surely reduced my stress, proving to be a welcome addition to my Apple Watch use. (Of course, you only need an [Apple Watch](https://www.zdnet.com/article/best-apple-watch/) running on watchOS 10 to use the Mindfulness app. I just like using it on the larger display of the Ultra!)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -111,7 +111,7 @@ If you don't have an Apple Watch Ultra but are interested in buying one, the Ult
 For me, the Boost Flashlight is a welcome addition, as well as the faster processor supporting Siri on board. Apple's move to carbon-free products is also a nice move for the environment and is something we can all support.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -148,16 +148,19 @@ Deals are subject to sell-out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-lessons.techidaily.com/new-avoiding-misdated-memories-with-exact-times/"><u>[New] Avoiding Misdated Memories with Exact Times</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-increase-video-engagement-with-customizable-youtube-thumbnails/"><u>[New] In 2024, How to Increase Video Engagement with Customizable YouTube Thumbnails</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-highlighting-youtubes-creme-de-la-creme-makeup-influencers/"><u>[Updated] 2024 Approved Highlighting YouTube's Crème De La Crème Makeup Influencers</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-flipping-the-script-mobile-filmmaking-and-youtube-thumbnail-tricks/"><u>[Updated] In 2024, Flipping the Script Mobile Filmmaking & YouTube Thumbnail Tricks</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-how-to-use-filters-on-instagram-2023/"><u>[Updated] In 2024, How to Use Filters on Instagram 2023?</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-step-by-step-guide-to-find-youtube-hidden-videos/"><u>[Updated] In 2024, Step-By-Step Guide to Find YouTube Hidden Videos</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-unlocking-freenocams-webcam-capturing-capabilities/"><u>[Updated] In 2024, Unlocking FreenoCam's Webcam Capturing Capabilities</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/1725288811227-dvd-2024/"><u>DVD全ディスクタイトル統合貼り付けガイド - 2024年の最新手順</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-5-solutions-for-vivo-v27e-unlock-without-password-by-drfone-android/"><u>In 2024, 5 Solutions For Vivo V27e Unlock Without Password</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/in-2024-substituting-periscope-6-premium-video-apps-for-iphones-and-ipads/"><u>In 2024, Substituting Periscope 6 Premium Video Apps for iPhones & iPads</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/spyware-detection-and-removal-on-smartphones-expert-tips-for-a-secure-device/"><u>Spyware Detection & Removal on Smartphones: Expert Tips for a Secure Device</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-convert-spoken-words-into-text-effortlessly-using-ms-word/"><u>[New] Convert Spoken Words Into Text Effortlessly Using MS Word</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-fast-lanes-for-jumbled-youtube-playlist-arrangement-for-2024/"><u>[New] Fast Lanes for Jumbled YouTube Playlist Arrangement for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-flash-fixing-fame-is-it-youtubes-shorts-or-tiktok-for-quick-content-conquest-for-2024/"><u>[New] Flash-Fixing Fame Is It YouTubes Shorts or TikTok for Quick Content Conquest for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-finding-the-perfect-dj-template-video-download-for-your-events/"><u>[New] In 2024, Finding the Perfect DJ Template Video Download for Your Events</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-mastering-asmr-the-ultimate-list-of-mics/"><u>[New] Mastering ASMR - The Ultimate List of Mics</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-fuel-the-drive-best-video-ideas-for-channels-success/"><u>[Updated] 2024 Approved Fuel the Drive Best Video Ideas for Channels' Success</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-guerrilla-mic-guide-top-chip-selection-on-a-shoestring/"><u>[Updated] In 2024, Guerrilla Mic Guide Top Chip Selection on a Shoestring</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-historical-insights-the-most-relevant-youtube-channels-for-learners/"><u>[Updated] In 2024, Historical Insights - The Most Relevant YouTube Channels for Learners</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/command-line-magic-opening-srt-for-windows-macos/"><u>Command Line Magic Opening SRT for Windows, MacOS</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/tor-elite-selective-learning-yt-channels/"><u>Educator Elite Selective Learning YT Channels</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-do-you-get-sun-stone-evolutions-in-pokemon-for-nokia-105-classic-drfone-by-drfone-virtual-android/"><u>How Do You Get Sun Stone Evolutions in Pokémon For Nokia 105 Classic? | Dr.fone</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/mastering-full-rotation-shoots-9-must-follow-rules-for-2024/"><u>Mastering Full-Rotation Shoots 9 Must-Follow Rules for 2024</u></a></li>
+<li><a href="https://win-dash.techidaily.com/the-swift-way-to-revitalize-your-dell-g7-laptop-by-refreshing-its-drivers/"><u>The Swift Way to Revitalize Your Dell G7 Laptop by Refreshing Its Drivers</u></a></li>
+<li><a href="https://howto.techidaily.com/why-your-realme-narzo-n55-screen-might-be-unresponsive-and-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Your Realme Narzo N55 Screen Might be Unresponsive and How to Fix It | Dr.fone</u></a></li>
 </ul></div>
 

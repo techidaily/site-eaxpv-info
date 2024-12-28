@@ -1,7 +1,7 @@
 ---
 title: "Mastering MacOS Monterey: Building Personalized Focusing Modes for Enhanced Productivity | Insights From ZDNet"
-date: 2024-12-06T22:43:17.310Z
-updated: 2024-12-07T18:56:13.851Z
+date: 2024-12-27T16:46:47.944Z
+updated: 2024-12-28T17:51:29.225Z
 tags:
   - apple
 categories:
@@ -26,23 +26,15 @@ So, how do you create this custom Flow? Let me show you. All you'll need to make
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Create a custom Focus
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 1\. Open System Preferences
 
 Click on the Apple menu in the top left corner of your desktop. From the resulting pop-up menu, click System Preferences.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 2\. Access Notifications & Focus
 
@@ -51,6 +43,10 @@ In the System Preferences window (**Figure 1**), click Notifications & Focus.
 **Figure 1:** The Notifications & Focus entry in System Preferences.
 
 Image: Jack Wallen
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 3\. Open the Focus tab
 
@@ -61,7 +57,7 @@ Once Notifications & Focus is opened, click the Focus tab (**Figure 2**).
 Image: Jack Wallen
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 4\. Create the new Focus
@@ -80,6 +76,10 @@ Image: Jack Wallen
 
 After naming and selecting a color/icon, click Add to save the new Focus.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 5\. Allowing specific notifications
 
 The next thing to do is to specific contacts or apps that will be allowed when this Focus is enabled. To do that, click + under Allowed Notifications From (**Figure 5**).
@@ -95,7 +95,7 @@ From the pop-up list, select the contact(s) you want to be allowed to interrupt 
 Image: Jack Wallen
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 6\. Set the Focus to be enabled
@@ -140,18 +140,18 @@ Use this new Focus feature wisely, and it will help you be more productive while
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-add-text-to-youtube-video-before-or-after-uploading/"><u>[New] 2024 Approved How to Add Text to YouTube Video Before or After Uploading</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-secrets-of-professional-rl-broadcasts/"><u>[New] 2024 Approved Secrets of Professional RL Broadcasts</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-decoding-the-science-of-captivating-time-lapses-using-gopro/"><u>[New] Decoding the Science of Captivating Time-Lapses Using GoPro</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-finding-your-custom-scored-youtube-tunes-for-2024/"><u>[New] Finding Your Custom-Scored YouTube Tunes for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-fast-forwarding-fundamentals-a-novices-guide-to-snapchat/"><u>[Updated] Fast Forwarding Fundamentals A Novice's Guide to Snapchat</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-gain-unlimited-stock-videos-through-essential-4-youtube-sources/"><u>[Updated] In 2024, Gain Unlimited Stock Videos Through Essential 4 YouTube Sources</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-transform-your-youtube-presence-effortlessly/"><u>[Updated] Transform Your YouTube Presence Effortlessly</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-premium-visual-enhancer-cutting-edge-conversion/"><u>2024 Approved Premium Visual Enhancer Cutting-Edge Conversion</u></a></li>
-<li><a href="https://extra-information.techidaily.com/bridging-beats-with-logic-pro-x-fade-techniques/"><u>Bridging Beats with Logic Pro X Fade Techniques</u></a></li>
-<li><a href="https://article-tips.techidaily.com/lut-techniques-for-professional-color-grading-and-correction-for-2024/"><u>LUT Techniques for Professional Color Grading and Correction for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/mastering-chatgpt-prompts-a-guide-to-bypassing-6-critical-mistakes/"><u>Mastering ChatGPT Prompts: A Guide to Bypassing 6 Critical Mistakes</u></a></li>
-<li><a href="https://win11.techidaily.com/steps-to-overcome-windows-expiry-notification-issue/"><u>Steps to Overcome Windows Expiry Notification Issue</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/updated-vn-video-editor-for-mac-a-comprehensive-guide-and-alternative-options/"><u>Updated VN Video Editor for Mac A Comprehensive Guide and Alternative Options</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-fast-track-a-step-by-step-guide-for-swiftly-deleting-comments-on-youtube/"><u>[New] 2024 Approved Fast Track A Step by Step Guide for Swiftly Deleting Comments on YouTube</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-first-steps-on-the-path-equipment-for-beginners-for-2024/"><u>[New] First Steps on the Path Equipment for Beginners for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-from-digital-avatars-to-internet-stardom-becoming-a-vtuber-in-2024/"><u>[New] From Digital Avatars to Internet Stardom – Becoming a Vtuber, In 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-in-2024-exclusive-guide-365-days-of-no-cost-text-files/"><u>[New] In 2024, Exclusive Guide 365 Days of No-Cost Text Files</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-harmonizing-visuals-and-soundtracks-with-youtubes-video-editor/"><u>[New] In 2024, Harmonizing Visuals & Soundtracks with YouTube's Video Editor</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/exploring-the-impact-of-apples-tandem-oled-technology-in-the-next-generation-ipads-insights/"><u>Exploring the Impact of Apple's Tandem OLED Technology in the Next Generation iPads: Insights</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/get-your-hands-on-ios-16-early-access-the-ultimate-guide-to-downloading-iphones-newest-update/"><u>Get Your Hands on iOS 16 Early Access – The Ultimate Guide to Downloading iPhone’s Newest Update</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-a-vivo-s18e-phone-that-is-locked-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset a Vivo S18e Phone That Is Locked | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-solved-move-from-realme-c53-to-ios-not-working-problems-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Solved Move from Realme C53 to iOS not Working Problems | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/premium-selection-for-mac-and-windows-no-cost-4k-players-for-2024/"><u>Premium Selection for Mac & Windows No-Cost 4K Players for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/project-prowess-with-powerful-key-combinations/"><u>Project Prowess with Powerful Key Combinations</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/xbox-fanatics-manual-perfect-your-screenshot-skills/"><u>Xbox Fanatics' Manual Perfect Your Screenshot Skills</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/tsdvd/"><u>ビデオ・TSフォルダーを簡単にDVDへ書き込む方法 - 無料ツール</u></a></li>
 </ul></div>
 

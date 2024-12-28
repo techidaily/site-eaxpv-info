@@ -1,7 +1,7 @@
 ---
 title: "Essential Guide: When & How to Successfully Reboot Your AirPods - Tips From ZDNet"
-date: 2024-12-19T02:12:04.915Z
-updated: 2024-12-23T02:59:55.173Z
+date: 2024-12-27T16:04:05.577Z
+updated: 2024-12-28T16:55:45.996Z
 tags:
   - apple
 categories:
@@ -24,6 +24,10 @@ Before I take you through both the tools and my "process," let me point out that
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### See also
 
 [The 6 best to-do list apps: Get organized What is the best to-do list app? Any.do! But ZDNet reviewed all the top picks to help you organize and liberate your life.  Read now](https://www.zdnet.com/article/best-to-do-list-app/)
@@ -31,10 +35,6 @@ Before I take you through both the tools and my "process," let me point out that
 Today, I coordinate with teams, rather than manage them. I have students rather than employees. I research projects rather than launch products. My daily productivity flow reflects the changes in career as I've evolved from founder to advisor, manager to professor, and publisher to columnist. 
 
 I use a tremendous number of tools for my projects, and they often change from project to project. But what I'm going to discuss here are the tools I use on a daily basis to manage my "flow". 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## What do I mean by my flow?
 
@@ -49,7 +49,7 @@ That whole process is my flow. Over my many various iterations, I've managed to 
 The other half of my day is project time. This is when I work on everything from academic papers to the presentations, white papers, and webcasts I do for ZDNet to developing code to most of the projects I write about for DIY-IT. I tend to work on projects in the late afternoon and the late evening, with a break in the early evening for family time and lunch or dinner. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Changes due to the pandemic
@@ -67,7 +67,7 @@ In any case, what that means is that instead of my escalating ranking of phones,
 Now that you understand how my working environment has changed and how I structure my work day, let's discuss the tools I use in my daily flow. It all starts with Gmail... 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## First morning Gmail
@@ -86,6 +86,10 @@ The boy
 
 The way I have Gmail set up, only the most important messages show up on my watch. Same with Slack notifications. Basically, unless there's something urgent from one of my editors, I can start my day in peace. If there's nothing urgent, I hit the snooze button. After repeating this ritual two or three times, I get up, do my morning necessaries, and zombie-walk to the coffee maker. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **ZDNET** Recommends
 
 [The best smartwatches Apple, Samsung, and others battle for your wrist.  Read now](https://www.zdnet.com/article/best-smartwatch/)
@@ -95,10 +99,6 @@ Once I have coffee in hand, I navigate [the puppy's](https://www.zdnet.com/artic
 At this point, I tend to take note of what's in my inbox, but I neither process it, nor respond to it. I want to let the coffee take hold. 
 
 I also take a quick look at my calendar and my to-do list to make sure I know what's on deck for the day. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Daily must-reads with Pocket
 
@@ -165,6 +165,10 @@ Now, to be fair, I have a slight email fetish, so I do check back in to my inbox
 
 In fact, now that I have email notifications integrated into my watch, I'm finding I'm actually breaking myself of the habit, because unless I hear the notification tone, I don't have any important emails coming in. I have actually gone a few hours without checking my email inbox, which is something of a record for me. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Managing my daily teaching opportunities
 
 As it turns out, supporting users is a lot like teaching online students.
@@ -187,10 +191,6 @@ By the way, this is also a great way to think about users, which I initially was
 * [Want a programming job? Learn these three languages](https://www.zdnet.com/article/want-a-programming-job-learn-these-three-languages/)
 
 Here's another little trick I use: I get a lot of feature requests (which I call "cool feature ideas") from the plugin users. The go into [the bug tracking system I manage in Notion](https://www.zdnet.com/article/notion-app-review/).
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## To-doing my to-do list
 
@@ -229,7 +229,7 @@ That, by the way, is the entire key to keeping your to-do list under control. If
 I've also set up Notion pages for each 3D printer, and for managing and tracking my reviews and video projects. It's great as a catch-all for lots of details, but unlike previous catch-alls like Evernote, Notion allows you to assign some structure and layout to the stuff you're working with. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Blocking out time for my projects
@@ -275,24 +275,20 @@ _You can follow my day-to-day project updates on social media. Be sure to follow
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-amplify-audience-connection-best-creative-reacting-techniques/"><u>[New] 2024 Approved Amplify Audience Connection Best Creative Reacting Techniques</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-cultivating-eco-diversity-in-metropolitan-land-use-for-2024/"><u>[New] Cultivating Eco-Diversity in Metropolitan Land Use for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-dive-into-design-get-a-complimentary-set-of-50-banner-pieces/"><u>[New] In 2024, Dive Into Design Get a Complimentary Set of 50 Banner Pieces</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-highlighted-viewer-insights-unveiled/"><u>[New] In 2024, Highlighted Viewer Insights Unveiled</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/new-in-2024-unveiling-the-top-5-facebook-video-downloaders-today/"><u>[New] In 2024, Unveiling the Top 5 Facebook Video Downloaders Today</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-no-more-hidden-shorts-just-visible-ones/"><u>[New] No More Hidden Shorts, Just Visible Ones</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-video-sharing-giants-clash-vimeo-vs-youtube/"><u>[New] Video Sharing Giants Clash Vimeo vs YouTube</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-2024-approved-achieving-seamless-gaming-with-switch-pro-and-steam/"><u>[Updated] 2024 Approved Achieving Seamless Gaming with Switch Pro & Steam</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-mediacollector-for-fb-groups/"><u>[Updated] 2024 Approved MediaCollector for Fb Groups</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-best-recording-equipment-for-creating-youtube-masterpieces/"><u>[Updated] In 2024, Best Recording Equipment For Creating YouTube Masterpieces</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/6-solutions-to-unlock-zte-phones-if-you-forgot-password-pin-pattern-by-drfone-android/"><u>6 Solutions to Unlock ZTE Phones If You Forgot Password, PIN, Pattern</u></a></li>
-<li><a href="https://solve-manuals.techidaily.com/1728461471606-windows-11/"><u>失敗したWindows 11のバックアップを修正する簡単な手順：最新のテクニック</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/how-does-auto-gpt-compare-to-chatgpt-an-in-depth-comparison/"><u>How Does Auto-GPT Compare to ChatGPT? An In-Depth Comparison</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-full-guide-on-mirroring-your-vivo-x-fold-2-to-your-pcmac-drfone-by-drfone-android/"><u>In 2024, Full Guide on Mirroring Your Vivo X Fold 2 to Your PC/Mac | Dr.fone</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-unleash-the-beats-try-these-free-web-scanners/"><u>In 2024, Unleash the Beats Try These Free Web Scanners</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/in-2024-youtube-growth-strategy-attracting-million-strong-fans/"><u>In 2024, Youtube Growth Strategy Attracting Million-Strong Fans</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/mastering-the-art-of-hashtag-usage-a-primer-for-gamers-yt/"><u>Mastering the Art of Hashtag Usage A Primer for Gamers YT</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/redefining-efficiency-the-latest-in-windows-10-tech/"><u>Redefining Efficiency The Latest in Windows 10 Tech</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/tastemakers-playbook-recipes-for-attractive-channel-names-for-2024/"><u>Tastemakers' Playbook Recipes for Attractive Channel Names for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solved-dell-wireless-keyboard-not-working/"><u>[SOLVED] Dell Wireless Keyboard Not Working</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-augment-your-audibility-the-leading-android-tools-for-voice-recording-change/"><u>[Updated] In 2024, Augment Your Audibility The Leading Android Tools for Voice Recording Change</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/webpgif-movavi/"><u>無料在線WEBP轉化成GIF - 使用Movavi專家技術</u></a></li>
+<li><a href="https://blog-min.techidaily.com/easy-guide-to-mastering-mts-and-m2ts-video-editing-discover-the-best-techniques/"><u>Easy Guide to Mastering MTS & M2TS Video Editing: Discover the Best Techniques</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/easy-tips-and-tricks-how-to-download-and-convert-facebook-videos-as-mp4-files/"><u>Easy Tips and Tricks: How to Download & Convert Facebook Videos as MP4 Files</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-social-media-shifts-yearly-data-visualization-guide/"><u>In 2024, Social Media Shifts Yearly Data Visualization Guide</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ize-impact-aspect-ratio-expertise-for-youtube-experts/"><u>Maximize Impact Aspect Ratio Expertise for YouTube Experts</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/movavi-mp4gif/"><u>Movavi MP4至GIF自由下載 - 線上無限瀏覽及轉化功能</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/movavirw2/"><u>Movaviで簡単なRW2ファイルを無料に変換する方法</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solution-found-how-to-accelerate-download-rates-in-utorrent/"><u>Solution Found: How to Accelerate Download Rates in uTorrent</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/transformar-audio-em-video-ferramenta-livre-do-movavi-para-converter-mp3-e-ogv-on-line/"><u>Transformar Áudio Em Video: Ferramenta Livre Do Movavi Para Converter Mp3 E Ogv On-Line</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-in-2024-unraveling-the-process-of-stripping-beat-tracks-from-online-compositions/"><u>Updated In 2024, Unraveling the Process of Stripping Beat Tracks From Online Compositions</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/veelvoudige-musiekuploaden-vanaf-flashdrive-instructie-windows-and-mac-gratis/"><u>Veelvoudige Musiekuploaden Vanaf Flashdrive | Instructie Windows & Mac | Gratis</u></a></li>
+<li><a href="https://win-updates.techidaily.com/1728497641223-windows/"><u>Windowsサーバーにおけるバックアップミスを解消する専門的なガイド</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/1726226183503-movmkv-movavi/"><u>オンライン無料MOV/MKVフォーマット変換ツール | 動画コンバーター - Movavi</u></a></li>
 </ul></div>
 

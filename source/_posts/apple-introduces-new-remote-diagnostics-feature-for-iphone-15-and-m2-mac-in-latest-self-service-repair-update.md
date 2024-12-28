@@ -1,7 +1,7 @@
 ---
 title: Apple Introduces New Remote Diagnostics Feature for iPhone 15 & M2 Mac in Latest Self-Service Repair Update
-date: 2024-12-01T23:14:04.582Z
-updated: 2024-12-07T21:35:34.958Z
+date: 2024-12-27T17:45:58.301Z
+updated: 2024-12-28T17:01:36.017Z
 tags:
   - apple
 categories:
@@ -26,34 +26,34 @@ While the official iOS 18 general release is today, users have already been able
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to install iOS 18
 
 Jason Hiner/ZDNET
 
 **What you need:** An iPhone running iOS 16.5 or later. Since not all iPhones are compatible with iOS 18, you'll also need a model [newer than the iPhone X](https://www.zdnet.com/article/best-iphone/).
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Go to General in your iPhone Settings
 
 Go to your iPhone's Settings and select General. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2\. Go to Software Update in Settings
 
 Within General, tap on Software Update. This will show you if the iOS 18 update is available for you to download.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. Download and install
 
 When you tap on Software Update, your iPhone will check for the latest version of iOS available. Then, you'll be able to Download and Install the new update. Your iPhone will begin the download immediately.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Enter your passcode and follow steps to install
@@ -64,19 +64,23 @@ After installing the latest iOS update, your iPhone will restart.
 
 ## FAQs
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### When is Apple Intelligence coming out?
 
 Apple Intelligence, featuring the company's AI tools, will begin to roll out for compatible iPhones over the next few weeks, with more features to join in the coming months. This slew of AI features will be available on the iPhone 16 lineup and the iPhones 15 Pro and Pro Max.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### When was iOS 18 released?
 
 Apple released the iOS 18 developer beta during WWDC 2024 in June, and the public beta version was released on July 15\. The general release of iOS 18 is September 16.
 
 **Also: [The best iOS 18 features that will make updating your iPhone worthwhile](https://www.zdnet.com/article/the-best-ios-18-features-that-will-make-updating-your-iphone-worthwhile/)**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Can you still download the iOS 18 public beta?
 
@@ -112,10 +116,6 @@ If you can't see this option, go to your **Settings,** select **Privacy & Securi
 **Also: [How to use and customize your iPhone's new Control Center with iOS 18](https://www.zdnet.com/article/how-to-use-and-customize-your-iphones-new-control-center-with-ios-18/)**
 
 If you aren't already a member of the Apple Developer Program, you can sign up to become one in the app. An annual membership costs $99.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### What is in iOS 18 beta 3?
 
@@ -161,21 +161,16 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-flawless-footage-with-best-stabilizer-brands-for-2024/"><u>[New] Flawless Footage with Best Stabilizer Brands for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-free-tools-and-tricks-creating-compelling-youtube-video-ads-for-2024/"><u>[New] Free Tools and Tricks Creating Compelling YouTube Video Ads for 2024</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/new-how-much-could-you-make-on-youtube-snippets/"><u>[New] How Much Could You Make on YouTube Snippets?</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-how-to-get-paid-to-review-products-on-youtube-for-2024/"><u>[New] How to Get Paid to Review Products on YouTube for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-guide-to-equipment-selection-for-youtube-creators/"><u>[New] In 2024, Guide to Equipment Selection for YouTube Creators</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-hack-your-way-to-speedy-youtube-video-processing/"><u>[New] In 2024, Hack Your Way to Speedy YouTube Video Processing</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-do-youtube-channels-get-paid-regularly/"><u>[New] In 2024, How Do YouTube Channels Get Paid Regularly?</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-navigating-color-change-pro-methods-uncovered/"><u>[New] Navigating Color Change Pro Methods Uncovered</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-youtubes-realm-to-igtvs-domain-3-ways/"><u>[Updated] 2024 Approved From YouTube's Realm to IGTV's Domain (3 Ways)</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-streamline-and-enhance-with-these-key-zoom-setup-steps/"><u>2024 Approved Streamline & Enhance with These Key Zoom Setup Steps</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/decoding-the-role-of-shap-in-machine-learning-clarity/"><u>Decoding the Role of SHAP in Machine Learning Clarity</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/enhancing-your-code-with-microsoft-copilot-on-a-mac/"><u>Enhancing Your Code with Microsoft Copilot on a Mac</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/in-2024-top-10-drones-for-dynamic-cinematic-creations/"><u>In 2024, Top 10 Drones for Dynamic Cinematic Creations</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-ultimate-guide-to-catch-the-regional-located-pokemon-for-honor-magic-6-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate Guide to Catch the Regional-Located Pokemon For Honor Magic 6 Pro | Dr.fone</u></a></li>
-<li><a href="https://discover-exceptional.techidaily.com/step-by-step-tutorial-retrieving-deleted-files-from-your-personal-git-database/"><u>Step-by-Step Tutorial: Retrieving Deleted Files From Your Personal Git Database</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/unveiling-the-latest-contender-for-most-affordable-windows-laptop-of-2024-lenovos-revolutionary-749-thinkbook-explained/"><u>Unveiling the Latest Contender for Most Affordable Windows Laptop of 2024 - Lenovo's Revolutionary $749 ThinkBook Explained!</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-embed-a-youtube-video-in-powerpoint/"><u>[New] 2024 Approved How to Embed a YouTube Video in PowerPoint</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-framefixer-editor/"><u>[Updated] 2024 Approved FrameFixer Editor</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-historical-explorations-10-must-see-educational-channels-on-yt/"><u>[Updated] 2024 Approved Historical Explorations - 10 Must-See Educational Channels on YT</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-make-a-thumbnail-for-your-youtube-free-easily/"><u>[Updated] 2024 Approved How to Make a Thumbnail for Your YouTube Free Easily</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-from-twitch-to-youtube-master-stream-sharing-techniques-for-2024/"><u>[Updated] From Twitch to YouTube Master Stream Sharing Techniques for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-solo-shots-showmanship-elevate-your-youtube-persona/"><u>[Updated] Solo Shots Showmanship Elevate Your YouTube Persona</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-streamlining-your-path-to-personal-youtube-soundscape/"><u>2024 Approved Streamlining Your Path to Personal Youtube Soundscape</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-rootjunky-apk-to-bypass-google-frp-lock-for-oppo-a18-by-drfone-android/"><u>In 2024, Rootjunky APK To Bypass Google FRP Lock For Oppo A18</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-ultimate-guide-to-top-8-laptop-skins-and-backdrops/"><u>In 2024, The Ultimate Guide to Top 8 Laptop Skins & Backdrops</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/innovative-techniques-for-superior-recordings-with-audacity/"><u>Innovative Techniques for Superior Recordings with Audacity</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/understanding-pc-performance-the-impact-of-memory-speeds-and-latency/"><u>Understanding PC Performance: The Impact of Memory Speeds & Latency</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Download the New iOS 18 Update on Your iPhone: Compatible Models and Step-by-Step Guide"
-date: 2024-12-04T19:09:20.997Z
-updated: 2024-12-07T18:30:27.320Z
+date: 2024-12-25T16:15:12.748Z
+updated: 2024-12-28T17:02:30.738Z
 tags:
   - apple
 categories:
@@ -40,13 +40,13 @@ Go to your iPhone's Settings and select General.
 
 Within General, tap on Software Update. This will show you if the iOS 18 update is available for you to download.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3\. Download and install
 
 When you tap on Software Update, your iPhone will check for the latest version of iOS available. Then, you'll be able to Download and Install the new update. Your iPhone will begin the download immediately.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Enter your passcode and follow steps to install
 
@@ -55,7 +55,7 @@ Enter your passcode, if necessary, to authorize the installation of the new iOS 
 After installing the latest iOS update, your iPhone will restart.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## FAQs
@@ -64,10 +64,6 @@ After installing the latest iOS update, your iPhone will restart.
 
 Apple Intelligence, featuring the company's AI tools, will begin to roll out for compatible iPhones over the next few weeks, with more features to join in the coming months. This slew of AI features will be available on the iPhone 16 lineup and the iPhones 15 Pro and Pro Max.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### When was iOS 18 released?
 
 Apple released the iOS 18 developer beta during WWDC 2024 in June, and the public beta version was released on July 15\. The general release of iOS 18 is September 16.
@@ -75,7 +71,7 @@ Apple released the iOS 18 developer beta during WWDC 2024 in June, and the publi
 **Also: [The best iOS 18 features that will make updating your iPhone worthwhile](https://www.zdnet.com/article/the-best-ios-18-features-that-will-make-updating-your-iphone-worthwhile/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Can you still download the iOS 18 public beta?
@@ -98,7 +94,7 @@ You'll need an iPhone running iOS 16.5 or later. Since not all iPhones are compa
 Screenshot: Maria Diaz/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### How to download the iOS 18 developer beta?
@@ -116,6 +112,10 @@ If you can't see this option, go to your **Settings,** select **Privacy & Securi
 **Also: [How to use and customize your iPhone's new Control Center with iOS 18](https://www.zdnet.com/article/how-to-use-and-customize-your-iphones-new-control-center-with-ios-18/)**
 
 If you aren't already a member of the Apple Developer Program, you can sign up to become one in the app. An annual membership costs $99.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### What is in iOS 18 beta 3?
 
@@ -161,19 +161,16 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-create-a-youtube-channel-today/"><u>[New] 2024 Approved How to Create A YouTube Channel Today</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-fullview-pacts-the-art-of-media-company-selection/"><u>[New] In 2024, FullView Pacts The Art of Media Company Selection</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-leading-edge-in-mobile-chats-discover-the-top-1-cookie-haven-by-lilys-bakery-for-2024/"><u>[New] Leading Edge in Mobile Chats Discover the Top 1 Cookie Haven by Lily's Bakery for 2024</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-maximizing-reach-twitch-streams-via-facebook-for-2024/"><u>[New] Maximizing Reach Twitch Streams via Facebook for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-mastering-obs-and-zoom-simplified-integration-guide/"><u>[Updated] 2024 Approved Mastering OBS & Zoom Simplified Integration Guide</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-mastering-video-cropping-and-export-for-instagram-posts/"><u>[Updated] 2024 Approved Mastering Video Cropping & Export for Instagram Posts</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-unlock-instagram-videos-on-pc-and-mac-with-free-conversion-software/"><u>[Updated] 2024 Approved Unlock Instagram Videos on PC & Mac with Free Conversion Software</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-unveiling-the-secret-behind-successful-youtube-thumbnails/"><u>[Updated] 2024 Approved Unveiling The Secret Behind Successful YouTube Thumbnails</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-from-playtime-to-profits-ryan-kajis-youtube-cash-crusade-for-2024/"><u>[Updated] From Playtime to Profits Ryan Kaji's YouTube Cash Crusade for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-create-a-playlist-on-youtube-for-2024/"><u>[Updated] How to Create a Playlist on YouTube for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-loop-videos-on-iphone/"><u>[Updated] In 2024, How to Loop Videos on iPhone?</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/avoid-jams-explore-the-ultimate-list-of-favorite-traffic-apps-for-smooth-driving/"><u>Avoid Jams: Explore the Ultimate List of Favorite Traffic Apps for Smooth Driving</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/enriching-insta-videos-employ-three-dynamic-description-techniques-for-2024/"><u>Enriching Insta Videos Employ Three Dynamic Description Techniques for 2024</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/voices-of-satisfaction-for-mac-users/"><u>Voices of Satisfaction for Mac Users</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-fixing-non-appearing-thumbnails-in-youtube-shorts-for-2024/"><u>[Updated] Fixing Non-Appearing Thumbnails in YouTube Shorts for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-growth-in-focus-building-a-foundation-of-youtube-backlinks-for-2024/"><u>[Updated] Growth in Focus Building a Foundation of YouTube Backlinks for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-harness-the-full-potential-of-your-youtube-content-using-wmm-for-2024/"><u>[Updated] Harness the Full Potential of Your YouTube Content Using WMM for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-guide-to-secure-and-cost-free-youtube-music-extraction/"><u>[Updated] In 2024, Guide to Secure and Cost-Free YouTube Music Extraction</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-is-av1-really-outdo-cooking-vp9/"><u>2024 Approved Is AV1 Really Outdo Cooking VP9?</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-to-use-ispoofer-on-oppo-reno-9a-drfone-by-drfone-virtual-android/"><u>How to use iSpoofer on Oppo Reno 9A? | Dr.fone</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-bulk-posting-made-easy-a-comprehensive-instagram-tutorial/"><u>In 2024, Bulk Posting Made Easy A Comprehensive Instagram Tutorial</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-google-chrome-from-tracking-your-location-on-apple-iphone-13-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Stop Google Chrome from Tracking Your Location On Apple iPhone 13 Pro Max? | Dr.fone</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/in-2024-step-by-step-to-stunning-snaps-with-snapseed/"><u>In 2024, Step-by-Step to Stunning Snaps with Snapseed</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-the-complete-guide-to-lenovo-frp-bypass-everything-you-need-to-know-by-drfone-android/"><u>In 2024, The Complete Guide to Lenovo FRP Bypass Everything You Need to Know</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/simple-strategies-for-setting-up-auto-run-applications-on-your-computer/"><u>Simple Strategies for Setting Up Auto-Run Applications on Your Computer</u></a></li>
 </ul></div>
 

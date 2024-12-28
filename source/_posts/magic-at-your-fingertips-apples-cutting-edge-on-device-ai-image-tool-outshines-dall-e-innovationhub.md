@@ -1,7 +1,7 @@
 ---
 title: "Magic at Your Fingertips: Apple's Cutting-Edge On-Device AI Image Tool Outshines DALL-E | InnovationHub"
-date: 2024-12-15T19:47:53.632Z
-updated: 2024-12-22T21:07:40.873Z
+date: 2024-12-25T17:08:12.198Z
+updated: 2024-12-28T17:41:38.867Z
 tags:
   - apple
 categories:
@@ -38,10 +38,6 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Apple Intelligence (AI)
 
 Maria Diaz/ZDNET
@@ -73,7 +69,7 @@ Jason Hiner/ZDNET
 * The ChatGPT integration will be coming to iOS 18, iPadOS 18, and MacOS Sequoia later this year.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## iOS 18
@@ -94,6 +90,10 @@ Adam Breeden/ZDNET
 * The **Safari app** was upgraded to include key information about a webpage. You can read more about the Safari upgrades under the MacOS section of this article.
 * The **Calendar app** can now pull from the Reminders app for a more seamless schedule overview.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## WatchOS 11
 
 Adam Breeden/ZDNET
@@ -108,10 +108,6 @@ Adam Breeden/ZDNET
 * **Check In** is available on Apple Watch, even during workouts, to help users stay safe. **Translate** is also coming to Apple Watch so users can translate text right from their wrists.
 * Another notable change is that the **double tap gesture** can be used to scroll through apps.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## iPadOS 18
 
 Adam Breeden/ZDNET
@@ -121,10 +117,6 @@ Adam Breeden/ZDNET
 * In a long-awaited release, iPads will now have a **[calculator app](https://www.zdnet.com/article/after-14-years-apple-expected-to-unveil-the-ipad-app-weve-all-been-waiting-for-at-wwdc/)** for the first time, complete with the same interface as the one currently found on iPhones. Plus, users can use it with the Apple Pencil through a new **Math Notes** experience, which allows users to write expressions that the calculator app will solve for them once they type the equal sign, in their own handwriting,
 * Handwriting in Notes also got an upgrade with **Smart** **Script**, which refines users' writing to make it more legible while keeping the authenticity of the user's handwriting style. The feature can also match copied and pasted text to the user's handwriting. Typed text was also enhanced, with five new highlight colors and the ability to toggle sections under headings or subheadings.
 * iPadOS 18 supports **screen-sharing via SharePlay** and the same Control Center customizations, Photos app upgrades, Safari updates, and emoji Tapbacks found in **iOS 18.**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## MacOS 15 (Sequoia)
 
@@ -138,7 +130,7 @@ Adam Breeden/ZDNET
 * Apple also launched a new **Viewer experience**, which does for video what Reader does for text.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## VisionOS 2
@@ -158,6 +150,10 @@ Jason Hiner/ZDNET
 * Users can **cast content** from their iPhone, iPad, or Mac to the Vision Pro using AirPlay.
 * Apple is also making the Vision Pro available in more countries starting June 28\. You can see the full list [here](https://www.apple.com/newsroom/2024/06/apple-vision-pro-arrives-in-new-countries-and-regions-beginning-june-28/).
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## AirPods
 
 Jason Hiner/ZDNET
@@ -165,6 +161,10 @@ Jason Hiner/ZDNET
 * AirPods Pro are getting **Voice Isolation** to enhance call quality in noisier environments.
 * With the new **Siri Interactions**, users can now **nod or shake their head** "yes" or "no" when responding to Siri.
 * Apple is also releasing a **Personalized Spatial Audio API** for game developers to build around the AirPods' audio technology.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## tvOS 18
 
@@ -210,24 +210,17 @@ Screenshot by Nina Raemont/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/024-approved-drive-subscriptions-upward-through-effective-youtube-branding/"><u>[New] 2024 Approved Drive Subscriptions Upward Through Effective YouTube Branding</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/024-approved-youtube-ad-elimination-techniques-for-chrome-and-safari-users/"><u>[New] 2024 Approved YouTube Ad Elimination Techniques for Chrome & Safari Users</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-deciphering-slug-lines-in-scriptwriting-for-2024/"><u>[New] Deciphering Slug Lines in Scriptwriting for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-farm-frontier-favorites-similar-titles-galore/"><u>[New] Farm Frontier Favorites Similar Titles Galore</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-masterclass-the-elite-group-of-top-10-free-artistic-youtube-platforms/"><u>[New] Masterclass The Elite Group of Top 10 Free Artistic YouTube Platforms</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/diving-deep-into-the-excellence-of-microsoft-surface-laptop-4/"><u>Diving Deep Into the Excellence of Microsoft Surface Laptop 4</u></a></li>
-<li><a href="https://network-issues.techidaily.com/epic-slow-spells-on-purchase/"><u>Epic Slow Spells on Purchase</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/get-gaming-powerhouse-at-bargain-prices-ark-ai-accelerator-pcie-card-for-deskmate-x6-600-available-only-in-china-193/"><u>Get Gaming Powerhouse at Bargain Prices - ARK AI Accelerator PCIe Card for DeskMate X6 600, Available Only in China ($193)</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/grab-the-deal-before-its-gone-premium-custom-built-pc-with-msi-aegis-r2-rtx-4070-and-core-i7-14700kf-for-under-1600-exceptional-value/"><u>Grab the Deal Before It's Gone! - Premium Custom Built PC with MSI Aegis R2 (RTX 4070 & Core I7-14700KF) for Under $1,600 – Exceptional Value</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-oneplus-nord-n30-5g-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from OnePlus Nord N30 5G to Samsung Phone | Dr.fone</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/in-2024-crafting-solo-beats-methods-to-distill-music-into-single-element-projects/"><u>In 2024, Crafting Solo Beats Methods to Distill Music Into Single Element Projects</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-everything-you-need-to-know-about-lock-screen-settings-on-your-infinix-hot-40i-by-drfone-android/"><u>In 2024, Everything You Need to Know about Lock Screen Settings on your Infinix Hot 40i</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/navigating-pc-world-with-tom-comprehensive-reviews-and-advice/"><u>Navigating PC World with Tom - Comprehensive Reviews & Advice</u></a></li>
-<li><a href="https://common-error.techidaily.com/restoring-engine-roars-in-forza-horizon-4-a-step-by-step-guide-to-fixing-sound-failures/"><u>Restoring Engine Roars in Forza Horizon 4: A Step-by-Step Guide to Fixing Sound Failures</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/step-by-step-solution-dealing-with-video-card-glitches-in-sims-4/"><u>Step-by-Step Solution: Dealing with Video Card Glitches in Sims #4</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/tackling-the-violation-of-security-protocol-warning-in-online-games/"><u>Tackling the 'Violation of Security Protocol' Warning in Online Games</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/troubleshooting-guide-to-address-assassins-creed-valhalla-pc-game-freezes-and-crashes/"><u>Troubleshooting Guide to Address Assassin's Creed Valhalla PC Game Freezes and Crashes</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/unpacking-the-corsair-i500s-performance-a-detailed-analysis-of-a-modern-minimalist-pc/"><u>Unpacking the Corsair I500's Performance - A Detailed Analysis of a Modern, Minimalist PC</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/unveiling-top-tier-electronics-a-deep-dive-with-toms-hardware-knowledge/"><u>Unveiling Top-Tier Electronics: A Deep Dive with Tom's Hardware Knowledge</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-instant-reddit-archives-retrieval-with-ease/"><u>[New] Instant Reddit Archives Retrieval with Ease</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-optimizing-video-playback-for-engaged-audiences/"><u>[Updated] 2024 Approved Optimizing Video Playback for Engaged Audiences</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-capturing-your-digital-world/"><u>2024 Approved Capturing Your Digital World</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/google-collages-how-to-achieve-it-in-a-blink-of-an-eye/"><u>Google Collages How to Achieve It in A Blink of an Eye</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/immediate-purchase-top-3-apple-innovations-unveiled-at-wwdc-available-for-pre-order-find-out-where/"><u>Immediate Purchase: Top 3 Apple Innovations Unveiled at WWDC, Available for Pre-Order - Find Out Where!</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-rootjunky-apk-to-bypass-google-frp-lock-for-realme-gt-neo-5-by-drfone-android/"><u>In 2024, Rootjunky APK To Bypass Google FRP Lock For Realme GT Neo 5</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/my-top-pick-in-travel-accessories-the-ultimate-3-in-1-magsafe-charger-supports-qi-charging-a-game-changer/"><u>My Top Pick in Travel Accessories: The Ultimate 3-in-1 MagSafe Charger Supports Qi Charging, a Game Changer!</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/resolving-iphone-power-drain-issues-after-ios-cuetinado-1751-upgrade-top-7-fixes-revealed-zdnet/"><u>Resolving iPhone Power Drain Issues After iOS Cuetinado 17.5.1 Upgrade - Top 7 Fixes Revealed | ZDNET</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/the-blueprint-for-success-livestreaming-ultra-wide-video-content-on-youtube-for-2024/"><u>The Blueprint for Success Livestreaming Ultra-Wide Video Content on YouTube for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/the-sunset-of-apples-bnpl-feature-discovering-new-financing-options-on-the-horizon-for-apple-users/"><u>The Sunset of Apple's BNPL Feature: Discovering New Financing Options on the Horizon for Apple Users</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/top-7-unbeatable-black-friday-bargains-on-apple-airpods-find-your-perfect-fit/"><u>Top 7 Unbeatable Black Friday Bargains on Apple AirPods - Find Your Perfect Fit</u></a></li>
+<li><a href="https://win-lab.techidaily.com/unveiling-history-the-reign-of-qin-chinas-premier-ruler-a-detailed-analysis-from-yl-computing-and-yl-software/"><u>Unveiling History: The Reign of Qin, China’s Premier Ruler – A Detailed Analysis From YL Computing & YL Software</u></a></li>
 </ul></div>
 

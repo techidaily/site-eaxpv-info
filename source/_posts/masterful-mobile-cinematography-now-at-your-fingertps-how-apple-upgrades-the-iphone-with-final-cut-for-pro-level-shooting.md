@@ -1,7 +1,7 @@
 ---
 title: "Masterful Mobile Cinematography Now at Your Fingertps: How Apple Upgrades the iPhone with Final Cut for Pro-Level Shooting"
-date: 2024-12-02T22:11:59.998Z
-updated: 2024-12-07T22:06:48.237Z
+date: 2024-12-23T17:15:20.780Z
+updated: 2024-12-28T16:56:07.935Z
 tags:
   - apple
 categories:
@@ -25,7 +25,7 @@ Ever since, those attributes have defined all smartphones, save for one common s
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### SPECIAL FEATURE
@@ -60,10 +60,6 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 Another phone -- and my personal device for four years -- was the [Palm Treo 600](https://www.zdnet.com/article/treo-600-debuts-with-new-improvements-and-old-design-flaws/), released in 2003\. This device did a lot, including supporting a camera capable of taking 640x480 resolution images. The Treo didn't have Wi-Fi or Bluetooth, limiting its connectivity to a cable connected to the computer for image downloads. Its big claim to fame was that it could run any of the thousands of PalmOS apps that were available for download. Installing those apps, however, also involved connecting a cable to a computer.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2008: The birth of the modern smartphone
 
 Released on June 29, 2007, [the iPhone](https://web.archive.org/web/20070629165202/http://www.apple.com/iphone) was explosive. Many of us remember the lines of people waiting to get their first phone. I sat those lines out, happy with my Treo. While the first iPhone had nearly all of the characteristics of a modern smartphone, including a 2.0MP rear-facing camera, the only apps it allowed were crude customized web pages. My Treo had far better native PalmOS apps.
@@ -85,7 +81,7 @@ Over in the Android world, its first phone was the HTC Dream, also marketed as t
 With the iPhone 3 and the App Store, along with the first Android phone, it's fair to say that 2008 was the first year of the modern smartphone era.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2010: Smartphones meet narcism, a match made in heaven
@@ -107,10 +103,6 @@ Then there's the [Samsung Galaxy S23](https://shop-links.co/link/?url=https%3A%2
 Many smartphones today capture 8K video directly into phone storage. These include the [Samsung Galaxy S23](https://www.zdnet.com/article/samsung-galaxy-s23-plus-review/) (8K was supported as far back as the [S20](https://www.zdnet.com/article/galaxy-s20-s20-plus-s20-ultra-prices-specs-release-date-and-more-you-need-to-know/)), the [Asus ZenFone 9](https://www.zdnet.com/article/asus-zenfone-9-review/), the [OnePlus 11](https://www.zdnet.com/article/oneplus-11-review/), and the [iPhone 15 Pro Max](https://www.zdnet.com/article/iphone-15-pro-max-50-photos-that-show-what-the-new-camera-system-can-do/) can all record 8K video directly into the device.
 
 Over time, all the increases in storage capacity, processor speed, battery life, and display resolution were accompanied by improvements to the software inside the phones, with vendors adding all sorts of smarts to their camera applications.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2017: The start of the AI/ML smartphone era
 
@@ -139,7 +131,7 @@ I asked Bob Caniglia, Blackmagic's director of sales operations, about smartphon
 Let's now explore the power that machine learning brings to smartphones. Specifically, I'll talk about the machine learning magic incorporated into flagship phones like the iPhone 15 Pro Max, the Google Pixel 8, the Samsung Galaxy S23, and the OnePlus 11.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 1\. Image quality
@@ -176,6 +168,10 @@ This technique pits a "generator" algorithm against a "discriminator" algorithm 
 
 **Also: [Generative AI: Just don't call it an 'artist'](https://www.zdnet.com/article/generative-ai-just-dont-call-it-an-artist-say-scholars-in-science-magazine/)** 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 3\. Quality-of-life enhancements
 
 Smartphone cameras are not only taking better and better pictures and videos, but they're also becoming easier to use at the same time. Here are a few quality-of-life enhancements that make smartphone cameras more helpful to their users. 
@@ -197,6 +193,10 @@ Predictive algorithms and object detection models are often used for real-time t
 One thing that's important to note: [Generative AI](https://www.zdnet.com/article/generative-ai-filled-us-with-wonder-in-2023-but-all-magic-comes-with-a-price/) is something that occurs _outside_ of the camera.
 
 As Blackmagic Design's Caniglia said, "There's been an incredible evolution of smartphone camera capabilities in comparison to just a couple of years ago. AI machine learning, especially with the new iPhone 15, has been a big driver. A huge part of that is because Apple has focused on developing technologies that do more with the actual information captured by the camera's sensor rather than a focus on creations of "faux images" via generational AI."
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Looking to the future
 
@@ -254,20 +254,24 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/n-2024-fan-favorite-films-reimagined-7-replacements/"><u>[New] In 2024, Fan-Favorite Films Reimagined - #7 Replacements</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-free-yourself-with-top-4-applications-for-youtube-to-wav-conversion/"><u>[New] In 2024, Free Yourself with Top 4 Applications for YouTube-to-WAV Conversion</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-in-depth-guide-to-full-transcription-and-archiving-of-fb-messages/"><u>[New] In-Depth Guide to Full Transcription & Archiving of FB Messages</u></a></li>
-<li><a href="https://fox-info.techidaily.com/new-luminous-layers-the-graders-path-to-perfection-for-2024/"><u>[New] Luminous Layers The Grader's Path to Perfection for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-free-explore-youtubes-9-premium-full-length-christmas-flicks/"><u>[Updated] 2024 Approved Free Explore YouTube's 9 Premium Full-Length Christmas Flicks</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-average-to-exceptional-discover-the-finest-free-intra-designs/"><u>[Updated] 2024 Approved From Average to Exceptional Discover the Finest Free Intra Designs</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-often-to-post-a-guide-to-youtube-video-upload-patterns-for-success/"><u>[Updated] 2024 Approved How Often to Post A Guide to YouTube Video Upload Patterns for Success</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-optimize-your-channels-with-youtubes-featured-spotlight/"><u>[Updated] 2024 Approved How to Optimize Your Channels with YouTube’s Featured Spotlight</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-financial-flourishing-yielding-higher-returns-with-mobile-youtube-content-for-2024/"><u>[Updated] Financial Flourishing Yielding Higher Returns with Mobile YouTube Content for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/bring-life-to-pixels-add-motion-blur/"><u>Bring Life to Pixels Add Motion Blur</u></a></li>
-<li><a href="https://techidaily.com/how-to-install-the-latest-iosipados-beta-version-on-apple-iphone-14-plus-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Install the Latest iOS/iPadOS Beta Version on Apple iPhone 14 Plus? | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-8-best-apps-for-screen-mirroring-motorola-moto-g23-pc-drfone-by-drfone-android/"><u>In 2024, 8 Best Apps for Screen Mirroring Motorola Moto G23 PC | Dr.fone</u></a></li>
-<li><a href="https://win-tips.techidaily.com/multiply-both-sides-of-the-first-equation-by-5-the-coefficient-of-y-in-the-second-equation/"><u>Multiply Both Sides of the First Equation by 5 (the Coefficient of Y in the Second Equation):</u></a></li>
-<li><a href="https://fox-access.techidaily.com/navigating-the-m1-space-apples-lightest-or-heaviest-model-in-2024/"><u>Navigating the M1 Space Apple's Lightest or Heaviest Model, In 2024</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210265736-9782017140689-suis-ton-ame-elle-connait-le-chemin/"><u>Suis ton âme, elle connait le chemin | Free Book</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-passive-to-active-a-3-step-framework-to-evaluate-your-youtube-financials/"><u>[New] 2024 Approved From Passive to Active A 3-Step Framework to Evaluate Your YouTube Financials</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-get-rid-of-youtube-ads-with-ease-on-chrome-firefox-ios-android/"><u>[New] In 2024, Get Rid of YouTube Ads with Ease on Chrome, Firefox, iOS, Android</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-hitting-the-high-notes-of-youtube-editing-audio-addition-secrets-revealed/"><u>[New] In 2024, Hitting the High Notes of YouTube Editing Audio Addition Secrets Revealed</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-satirize-a-guide-to-parody-production/"><u>[New] In 2024, How to Satirize A Guide to Parody Production</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-perfect-every-post-automated-mac-methods-for-instagram-video-sizing/"><u>[New] In 2024, Perfect Every Post Automated Mac Methods for Instagram Video Sizing</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-streamlining-video-workflow-capture-save-refine-using-adobe-connect/"><u>[New] In 2024, Streamlining Video Workflow Capture, Save, Refine Using Adobe Connect</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-minuscule-cinematic-design/"><u>[New] Minuscule Cinematic Design</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-gourmet-guides-leading-food-vloggers-online/"><u>[Updated] 2024 Approved Gourmet Guides Leading Food Vloggers Online</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-gourmet-gurus-who-you-should-subscribe-to/"><u>[Updated] 2024 Approved Gourmet Gurus Who You Should Subscribe To</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-harnessing-youtubes-power-for-personal-image-amplification/"><u>[Updated] 2024 Approved Harnessing YouTube's Power for Personal Image Amplification</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-fresh-inspirations-for-streaming-topics-for-2024/"><u>[Updated] Fresh Inspirations for Streaming Topics for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-how-to-create-time-travel-teleportation-effects/"><u>[Updated] How to Create Time Travel Teleportation Effects</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-ideas-to-action-how-to-transform-photos-into-engaging-mobile-videos/"><u>[Updated] In 2024, From Ideas to Action How to Transform Photos Into Engaging Mobile Videos</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-depth-app-investigation-via-az-screen-recorder-for-2024/"><u>[Updated] In-Depth App Investigation via AZ Screen Recorder for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/how-to-efficiently-rip-a-dvd-and-save-it-on-your-laptop-top-6-strategies/"><u>How to Efficiently Rip a DVD and Save It on Your Laptop - Top 6 Strategies</u></a></li>
+<li><a href="https://fox-http.techidaily.com/in-2024-createwinfx-movies/"><u>In 2024, CreateWinFX Movies</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/iphone-video-converter-for-mac-how-to-convert-hd-videos-to-iphoneipad-compatible-format-on-your-mac/"><u>IPhone Video Converter for Mac - How to Convert HD Videos to iPhone/iPad Compatible Format on Your Mac</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/step-by-step-tutorial-how-to-bypass-honor-70-lite-5g-frp-by-drfone-android/"><u>Step-by-Step Tutorial How To Bypass Honor 70 Lite 5G FRP</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/top-ranking-portable-ssds-in-the-market-year-2024-edition/"><u>Top-Ranking Portable SSDs in the Market - Year 2024 Edition</u></a></li>
 </ul></div>
 

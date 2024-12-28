@@ -1,7 +1,7 @@
 ---
 title: "Boost Your Productivity with XR Glasses On-the-Go: Discovering the New Trilogy of Upgrades | CNET"
-date: 2024-12-16T17:18:31.168Z
-updated: 2024-12-22T19:33:33.177Z
+date: 2024-12-23T17:29:50.534Z
+updated: 2024-12-28T16:19:43.452Z
 tags:
   - apple
 categories:
@@ -21,7 +21,7 @@ Matthew Miller/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -85,7 +85,7 @@ Along with the [Viture Pro XR glasses](https://buy.geni.us/Proxy.ashx?TSID=36825
 Lastly, Viture announced a new limited-edition controller in partnership with 8BitDo. You can connect this new controller, with a classic XBox-style controller layout, via Bluetooth to your gaming device, including the Nintendo Switch. The smokey translucent design looks cool and matches the Viture ecosystem. The 8BitDo controller also serves as a companion to the Viture Neckband, but I have yet to try out the Neckband, so I cannot share my experiences with that accessory.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -122,24 +122,20 @@ The [Viture Pro XR glasses](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-charisma-in-characters-two-ways-to-enliven-text/"><u>[New] 2024 Approved Charisma in Characters Two Ways to Enliven Text</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-chuckling-challenge-brainstroming-7-humorous-youtube-videos-for-2024/"><u>[New] Chuckling Challenge Brainstroming 7 Humorous YouTube Videos for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-get-back-to-pure-content-how-to-block-youtube-ads-on-all-devices/"><u>[New] In 2024, Get Back to Pure Content How to Block YouTube Ads on All Devices</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-learning-leaders-most-influential-edu-tutorials-yt/"><u>[New] Learning Leaders Most Influential Edu Tutorials YT</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-sky-high-explorations-made-simple-a-compreenasive-review-of-dji-sparks-miniature-drone-design/"><u>[New] Sky High Explorations Made Simple A Compreenasive Review of DJI Spark's Miniature Drone Design</u></a></li>
-<li><a href="https://fox-info.techidaily.com/new-the-ultimate-guide-to-likes-strategies-for-captivating-tiktok-unboxers-for-2024/"><u>[New] The Ultimate Guide to Likes Strategies for Captivating TikTok Unboxers for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-graph-gala-2017-an-illuminated-expedition-into-yt-data/"><u>[Updated] 2024 Approved Graph Gala 2017 An Illuminated Expedition Into YT Data</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-exclusive-resource-hub-downloadable-templates-for-youtubers-for-2024/"><u>[Updated] Exclusive Resource Hub - Downloadable Templates for YouTubers for 2024</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-creating-stunning-instagram-profile-screenshots/"><u>[Updated] In 2024, Creating Stunning Instagram Profile Screenshots</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-screen-it-right-best-free-apps-for-mac-and-windows-recording/"><u>[Updated] Screen It Right! Best Free Apps for Mac and Windows Recording</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-standardized-youtube-images-made-accessible-3-easy-ways-to-download/"><u>[Updated] Standardized YouTube Images Made Accessible 3 Easy Ways to Download</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-the-steps-to-ensure-continuous-auto-play-for-fb-content-for-2024/"><u>[Updated] The Steps to Ensure Continuous Auto-Play for FB Content for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-youtube-subscriber-chart-the-5-most-subscribed-youtube-channels/"><u>[Updated] YouTube Subscriber Chart - The 5 Most Subscribed YouTube Channels</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/2024-approved-easily-enable-offline-access-to-youtube-on-iphoneipad/"><u>2024 Approved Easily Enable Offline Access to YouTube on iPhone/iPad</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/2024-approved-video-creator-hub/"><u>2024 Approved Video Creator Hub</u></a></li>
-<li><a href="https://fake-location.techidaily.com/fake-the-location-to-get-around-the-mlb-blackouts-on-infinix-note-30-vip-drfone-by-drfone-virtual-android/"><u>Fake the Location to Get Around the MLB Blackouts on Infinix Note 30 VIP | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-revive-your-bricked-poco-c50-in-minutes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Revive Your Bricked Poco C50 in Minutes | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-ispoofer-is-not-working-on-vivo-y36-fixed-drfone-by-drfone-virtual-android/"><u>In 2024, iSpoofer is not working On Vivo Y36? Fixed | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solving-charging-issues-for-windows-surface-pcs-quick-tips-and-tricks/"><u>Solving Charging Issues for Windows Surface PCs – Quick Tips & Tricks</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/he-ultimate-guide-to-channel-evolution-via-studio/"><u>[New] The Ultimate Guide to Channel Evolution via Studio</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-mastering-3d-luts-complete-guide/"><u>2024 Approved Mastering 3D LUTs Complete Guide</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/conversione-gratuita-dei-file-audio-mpeg-a-formato-aiff-online-usando-movavi-ottenere-la-massima-qualita-senza-costi-aggiuntivi/"><u>Conversione Gratuita Dei File Audio MPEG a Formato AIFF Online Usando Movavi - Ottenere La Massima Qualità Senza Costi Aggiuntivi</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/convertir-gratuitement-un-fichier-webm-en-format-mpeg-avec-movavi/"><u>Convertir Gratuitement Un Fichier WebM en Format MPEG Avec Movavi</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/download-the-no-cost-movavi-tool-to-transform-m4r-files-into-wav-format-directly-online/"><u>Download the No-Cost Movavi Tool to Transform M4R Files Into WAV Format Directly Online!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easy-steps-to-download-and-install-printer-drivers-for-your-epson-perfection-v500/"><u>Easy Steps to Download & Install Printer Drivers for Your Epson Perfection V500</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-my-spouse-from-spying-on-my-itel-p55-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop My Spouse from Spying on My Itel P55 | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-ideal-cameras-boosting-podcast-clarity/"><u>In 2024, Ideal Cameras Boosting Podcast Clarity</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-top-5-oppo-find-x6-pro-bypass-frp-tools-for-pc-that-actually-work-by-drfone-android/"><u>In 2024, Top 5 Oppo Find X6 Pro Bypass FRP Tools for PC That Actually Work</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-ultimate-guide-to-catch-the-regional-located-pokemon-for-infinix-smart-8-hd-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate Guide to Catch the Regional-Located Pokemon For Infinix Smart 8 HD | Dr.fone</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/in-depth-look-at-the-samsung-galaxy-tab-a-202n-notably-absent-core-component-reviewed/"><u>In-Depth Look at the Samsung Galaxy Tab A (202N): Notably Absent Core Component Reviewed</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/montaggio-foto-perfetto-scopri-i-5-metodi-migliori-per-unire-fotografie-nel-mese-di-settemb/"><u>Montaggio Foto Perfetto - Scopri I 5 Metodi Migliori per Unire Fotografie Nel Mese Di Settemb</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/webm-m4v-internet/"><u>WEBM 및 M4V를 원격 Internet에서 제공하는 가장 좋은 무료 변환 도구</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/wi-fi-amv-movavi/"><u>무료 Wi-Fi 안내용 AMV 편집 - Movavi의 방법</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/1726224933249-movm4v-movavi/"><u>オンラインで簡単にMovとM4Vを変換: 無料ソフトウェア - MOVAVI</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Pixel 9 Pro XL vs iPhone 15 Pro Photography Battle Reveals Unexpected Victor | TechSpot
-date: 2024-12-01T22:53:21.770Z
-updated: 2024-12-07T21:03:29.129Z
+date: 2024-12-26T16:52:21.976Z
+updated: 2024-12-28T16:25:19.980Z
 tags:
   - apple
 categories:
@@ -21,10 +21,6 @@ It's no secret that iPhones aren't the most rugged devices, sometimes yielding s
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## What is the best iPhone 16 case right now?
 
@@ -46,14 +42,10 @@ Cons
 * Only available for iPhone 16 Pro models
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Nomad Sport Case
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Best iPhone 16 case overall
 
@@ -79,6 +71,10 @@ Pros
 Cons 
 * Kickstand durability
 * Not many color options
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Torras 360-degree OStand
 
@@ -132,15 +128,7 @@ Pros
 Cons 
 * Low drop protection
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Smartish Gripmunk case
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Best cheap iPhone 16 case
 
@@ -194,6 +182,10 @@ Cons
 * No camera protection
 
 ## Incase Icon
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Best stylish iPhone 16 case
 
@@ -249,6 +241,10 @@ Cons
 * Unsure on sustainability
 * Only for Pro models
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Nomad Modern Leather Case
 
 ### Best leather case for iPhone 16
@@ -262,6 +258,10 @@ That being said, leather is not everybody's thing. But, if you are in the market
 **Nomad Modern Leather case features:** 8 feet drop protection | Sustainably sourced leather | MagSafe and magnetic back
 
 Show Expert Take Show less 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What is the best iPhone 16 case?
 
@@ -287,10 +287,6 @@ The best iPhone 16 case option for you differs depending on your needs. For one,
 | Incase Icon case                | A unique and stylish case with protection and MagSafe capabilities.                                     |
 | Nomad Modern Leather case       | A person who prefers leather cases. This one also protects and comes worn in.                           |
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Factors to consider when choosing the best iPhone 16 case
 
 We kept in mind the most important factors when choosing the best iPhone 16 cases. The most relevant aspects are:
@@ -299,6 +295,10 @@ We kept in mind the most important factors when choosing the best iPhone 16 case
 * **Style:** iPhone cases go beyond just protecting the device. Like most people, you may want a phone case that matches your personal style and is pleasing to the eye.
 * **Cost:** iPhones are expensive, and spending a lot on a phone case just adds to the bill. Therefore, we consider price an important factor in our selections.
 * **Special Features:** Many cases have added features like MagSafe capabilities and a kickstand. We include these products to appease those who may prefer wireless charging or other necessary features.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How did we choose these iPhone 16 cases?
 
@@ -311,7 +311,7 @@ On this list, the Nomad Sport case and the Torras Ostand MagSafe Case are the mo
 However, if you stray from the list, the best options are those with a solid bumper and durable material. Before purchasing a case, make sure to check its drop protection and other safety features.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What is the best phone case brand?
@@ -319,7 +319,7 @@ However, if you stray from the list, the best options are those with a solid bum
 Unfortunately, there isn't such a thing as the best phone case brand. Many sources point to Spigen and Otterbox as the most popular phone case brands with the most units sold. That, however, does not necessarily mean they are the best brands. It is ultimately up to you and your lived experience and opinion.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What case material is best for iPhone?
@@ -327,7 +327,7 @@ Unfortunately, there isn't such a thing as the best phone case brand. Many sourc
 Materials like plastic or polycarbonate usually offer the best price and durability. Other cases made from leather or metal can be pricier and may not offer the best protection.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When is the iPhone 16 available?
@@ -338,13 +338,13 @@ The iPhone 16 is available for preorder now, and will arrive in stores on Septem
 
 If your phone has the problem of overheating, it may be best to look into specialty cases called heat dissipation cases. These cases are made of heat-wicking material that regulates heat and allows airflow to cool your phone down.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What is the best iPhone for a 16 year old?
 
 This is a good question, and if we had to chime in, we would say something more durable. A study by tech protection service Asurion in 2013 that [3 out of 10 teenagers have dropped](https://www.prnewswire.com/news-releases/3-out-of-10-teens-damaged-cell-phones-in-the-last-18-months-mainly-at-school-218494391.html#:~:text=A%20back%2Dto%2Dschool%20survey,most%20accidents%20happening%20at%20school.) and/or damaged their cell phones in the past 18 months. Ten years later, many phones are even less durable. Therefore, that number may be higher, especially if teenagers have more phones than ever. To prevent damage to your teen's phone, it may be wise to invest in a durable case that protects the device.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Are there alternative iPhone 16 cases worth considering?
 
@@ -392,16 +392,21 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/new-expertly-convert-your-content-to-stellar-hd-with-top-tools-for-2024/"><u>[New] Expertly Convert Your Content to Stellar HD with Top Tools for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-guide-to-supercharged-video-engagement-with-youtube-notes-for-2024/"><u>[New] Guide to Supercharged Video Engagement with YouTube Notes for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-shots-to-screens-the-importance-of-camera-lenses-in-vlogs/"><u>[New] In 2024, From Shots to Screens The Importance of Camera Lenses in Vlogs</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-green-up-your-cta-game-subscribe-and-screen/"><u>[New] In 2024, Green Up Your CTA Game Subscribe & Screen</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/astering-the-art-of-youtube-teaser-videos-for-2024/"><u>[New] Mastering the Art of YouTube Teaser Videos for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-guidelines-for-effective-use-of-cc-licenses-for-2024/"><u>[Updated] Guidelines for Effective Use of CC Licenses for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-footage-to-frame-crafting-youtube-thumbnails-on-mobile-devices/"><u>[Updated] In 2024, From Footage to Frame Crafting YouTube Thumbnails on Mobile Devices</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-changeadd-location-filters-on-snapchat-for-your-motorola-moto-g34-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change/Add Location Filters on Snapchat For your Motorola Moto G34 5G | Dr.fone</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-ultimate-guide-to-get-the-meltan-box-pokemon-go-for-poco-x6-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate guide to get the meltan box pokemon go For Poco X6 Pro | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/troubleshooting-vcompdll-errors-effective-solutions-for-windows-users/"><u>Troubleshooting 'vcomp.dll' Errors: Effective Solutions for Windows Users</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/troubleshooting-guide-repairing-your-non-functional-macbook-pro-keyboard/"><u>Troubleshooting Guide: Repairing Your Non-Functional MacBook Pro Keyboard</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-harnessing-ambiance-with-thoughtful-lighting/"><u>[New] 2024 Approved Harnessing Ambiance with Thoughtful Lighting</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-football-film-study-premier-insights-infographic-for-2024/"><u>[New] Football Film Study Premier Insights Infographic for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-from-basics-to-breakthroughs-the-ultimate-strategy-for-youtube-advertising-success-for-2024/"><u>[New] From Basics to Breakthroughs The Ultimate Strategy for YouTube Advertising Success for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-how-to-make-collab-videos-and-grow-your-channel-for-2024/"><u>[New] How to Make Collab Videos and Grow Your Channel for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-how-to-watch-deleted-youtube-videos-online-in-2-ways-for-2024/"><u>[New] How to Watch Deleted YouTube Videos Online in 2 Ways for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-the-djs-guide-to-elevating-visual-narratives-with-soundtracks-fb/"><u>[Updated] 2024 Approved The DJ's Guide to Elevating Visual Narratives with Soundtracks (FB)</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-get-unlimited-echoes-for-online-content-makers/"><u>[Updated] In 2024, Get Unlimited Echoes for Online Content Makers</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-often-can-creators-expect-to-be-paid-by-youtube/"><u>[Updated] In 2024, How Often Can Creators Expect to Be Paid by YouTube?</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-streamline-your-yt-content-with-background-softening-tricks-for-2024/"><u>[Updated] Streamline Your YT Content with Background Softening Tricks for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-peeking-into-apeaksofts-2023-screen-recording-features/"><u>2024 Approved Peeking Into Apeaksoft’s 2023 Screen Recording Features</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-top-11-windows-11-secrets-unveiled/"><u>2024 Approved Top 11 Windows 11 Secrets Unveiled</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/making-the-most-of-your-ppt-on-google-meet-devices-included/"><u>Making the Most of Your PPT on Google Meet Devices Included</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/mastering-the-exchange-a-comprehensive-guide-to-fb-media-download-for-2024/"><u>Mastering the Exchange A Comprehensive Guide to FB Media Download for 2024</u></a></li>
+<li><a href="https://discover-hacks.techidaily.com/quality-comic-graphics-and-wide-screen-illustrations-download-funny-wallpaper-pics-with-ylcomputings-yl-engine/"><u>Quality Comic Graphics & Wide Screen Illustrations - Download Funny Wallpaper Pics with Ylcomputing's YL Engine</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-10-telegram-spy-tools-on-vivo-v30-pro-for-parents-drfone-by-drfone-virtual-android/"><u>Top 10 Telegram Spy Tools On Vivo V30 Pro for Parents | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/top-7-skype-hacker-to-hack-any-skype-account-on-your-samsung-galaxy-s21-fe-5g-2023-drfone-by-drfone-virtual-android/"><u>Top 7 Skype Hacker to Hack Any Skype Account On your Samsung Galaxy S21 FE 5G (2023) | Dr.fone</u></a></li>
 </ul></div>
 

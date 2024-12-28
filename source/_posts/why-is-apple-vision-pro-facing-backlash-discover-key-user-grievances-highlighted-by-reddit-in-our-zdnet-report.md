@@ -1,7 +1,7 @@
 ---
 title: Why Is Apple Vision Pro Facing Backlash? Discover Key User Grievances Highlighted by Reddit in Our ZDNet Report
-date: 2024-12-05T17:29:12.368Z
-updated: 2024-12-08T00:09:18.797Z
+date: 2024-12-25T16:04:21.087Z
+updated: 2024-12-28T16:36:40.473Z
 tags:
   - apple
 categories:
@@ -27,7 +27,7 @@ It's unclear what percentage of [Vision Pro](https://www.zdnet.com/article/meet-
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. It's a light seal problem
@@ -41,7 +41,7 @@ Apple has different sizes of light seals, and your initial scan may have landed 
 The problem isn't as simple as sizing up or down; the AVP light seal is available in N and W variants, 11-14, 21-26, and 33-36, and the numbers don't follow a size pattern like clothing. Each number fits a different face type, with variations to how far your cheeks or forehead protrude forward and how deep the light seal is, so if fit is an issue, it's worth trying out a few sizes. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. The eye strain is real and there's no way around it
@@ -50,6 +50,10 @@ One might think that using your eyes and fingers to navigate a digital world wou
 
 Eye tracking on the AVP can be [exhausting](https://www.reddit.com/r/VisionPro/comments/1aixzwz/my%5Fonly%5Fcomplaint%5Feye%5Fstrain/), causing [eye soreness and fatigue](https://www.reddit.com/r/VisionPro/comments/1aqvsd8/love%5Fmy%5Favp%5Fbut%5Feye%5Fstrain%5Fis%5Freal%5Fand%5Fi%5Fthink/). Eye fatigue could be an issue that improves as the wearer's body becomes accustomed to the AVP, but it is a big reasons why some users are [considering returning](https://www.reddit.com/r/VisionPro/comments/1aiy4w7/anyone%5Fhaving%5Fbad%5Feye%5Fstrain%5F1015%5Fminutes%5Fafter/) the device.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. The Vision Pro is too heavy to wear for long periods
 
 The Vision Pro weighs between 21.2 and 22.9 ounces; that's a lot of weight to wear on your face. For reference, a 12.9-inch iPad Pro weighs 24 ounces, three iPhone 15 Pro Maxes stacked on top of each other weigh 23.4 ounces, and a bunch of five 7-inch bananas weighs 17.3 ounces.
@@ -57,6 +61,10 @@ The Vision Pro weighs between 21.2 and 22.9 ounces; that's a lot of weight to we
 **Also: [I used the Apple Vision Pro for my 8-hour work day, and it left me wanting more](https://www.zdnet.com/article/i-used-the-apple-vision-pro-for-my-8-hour-work-day-and-it-left-me-wanting-more/)**
 
 Some users come up with [3D-printed modifications](https://www.reddit.com/r/VisionPro/comments/1anq3k9/almost%5Freturned%5Fit%5Fthis%5Fmod%5Fchanged%5Feverything/) to distribute the weight better; others report they can't wear it for the [length of a movie](https://www.reddit.com/r/VisionPro/comments/1any318/well%5Fafter%5Fa%5Fweek%5Fi%5Fhave%5Freturned%5Fthe%5Fvision%5Fpro/). If you want to return it, don't wait until you enter the [last stage of Vision Pro grief](https://www.reddit.com/r/VisionPro/comments/1ar2jtr/stages%5Fof%5Fvision%5Fpro%5Fgrief/) or you may miss your return window.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. The technology is just not there yet
 
@@ -68,10 +76,6 @@ Thankfully for Apple, the Vision Pro doesn't have as long of a road to travel as
 
 Complaints about poor text rendering for smaller text, especially compared to the Apple ecosystem's Retina Displays, and stuttering during standard computational tasks are common -- which is problematic for a device marketed for productivity and work. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 5\. The world of spatial computing is too lonely
 
 I can imagine putting on the AVP to watch a 3D movie or spatial video, being blown away by the technology, and exclaiming to my husband, "Oh, wow, are you seeing this?!" Only to be met by a confused look. 
@@ -81,7 +85,7 @@ Using the Apple Vision Pro can be a beautiful experience for the wearer, but eve
 > Using the Apple Vision Pro is like putting on a pair of headphones. Once it's on, you're isolated, immersed, lonely. I'd like to be an optimist about it, thinking that this will only be a short-term phenomenon, as 1) With time, virtual reality headsets will eventually be accepted as a piece of apparel, 2) In social environments, we'll learn how to physically communicate with each other, even with the face barrier, and 3) There will be more meaningful ways to connect with people in VR. Bringing FaceTime to Vision Pro is just the beginning.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6\. It's just too expensive
@@ -91,10 +95,6 @@ We know the Vision Pro was not marketed for the Americans struggling to afford g
 **Also: [Don't buy an Apple Vision Pro headset without this crucial accessory](https://www.zdnet.com/article/dont-buy-an-apple-vision-pro-headset-without-this-crucial-accessory-applecare-coverage/)**
 
 But $3,500 is a lot of money for a [VR headset](https://www.zdnet.com/article/best-vr-headset/) (and that's before accessories), even for enthusiastic early adopters. As the hype wears off for the AVP, many who spent over $4,000 on it (after accessories, AppleCare+, and taxes) are left [struggling to justify the cost](https://www.reddit.com/r/VisionPro/comments/1anit76/a%5Fpart%5Fof%5Fme%5Fwants%5Fto%5Freturn%5Fit%5Fand%5Fsee%5Fif%5Fi/). 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 7\. 'I just wanted to try it out'
 
@@ -134,21 +134,17 @@ Apple's generous return policy enables this: The company lets you return any dev
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-freefire-gaming-guide-maximizing-video-impact/"><u>[New] 2024 Approved FreeFire Gaming Guide Maximizing Video Impact</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-simplify-your-workflow-converting-spoken-language-to-text-in-word/"><u>[New] 2024 Approved Simplify Your Workflow Converting Spoken Language to Text in Word</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-from-youtube-to-tiktok-crafting-the-perfect-cross-platform-strategy-for-2024/"><u>[New] From YouTube to TikTok Crafting the Perfect Cross-Platform Strategy for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-effortlessly-eradicate-unwanted-youtube-post-comments/"><u>[New] In 2024, How to Effortlessly Eradicate Unwanted Youtube Post-Comments</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-perfecting-obs-broadcasts-for-facebook-audience/"><u>[New] In 2024, Perfecting OBS Broadcasts for Facebook Audience</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-hashtag-wisdom-jumpstart-your-6-figure-youtube-rank/"><u>[Updated] 2024 Approved Hashtag Wisdom Jumpstart Your 6-Figure Youtube Rank</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-fixing-popular-youtube-short-snafus-for-2024/"><u>[Updated] Fixing Popular YouTube Short Snafus for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-go-frame-by-frame-on-youtube-video-5-free-methods-for-2024/"><u>[Updated] How to Go Frame by Frame on YouTube Video [5 Free Methods] for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-selfie-snaps-to-skincare-specials-establishing-your-youtube-brand/"><u>[Updated] In 2024, From Selfie Snaps to Skincare Specials Establishing Your YouTube Brand</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/7-ways-to-lock-apps-on-iphone-15-pro-max-and-ipad-securely-by-drfone-ios/"><u>7 Ways to Lock Apps on iPhone 15 Pro Max and iPad Securely</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/best-ways-on-how-to-unlockbypassswiperemove-itel-p40plus-fingerprint-lock-by-drfone-android/"><u>Best Ways on How to Unlock/Bypass/Swipe/Remove Itel P40+ Fingerprint Lock</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/cant-view-hevc-h265-content-on-samsung-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>Can’t view HEVC H.265 content on Samsung</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/elevating-intelligence-discovering-this-years-top-5-technological-frontiers/"><u>Elevating Intelligence: Discovering This Year's Top 5 Technological Frontiers</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-full-guide-to-catch-100-iv-pokemon-using-a-map-on-nokia-105-classic-drfone-by-drfone-virtual-android/"><u>In 2024, Full Guide to Catch 100 IV Pokémon Using a Map On Nokia 105 Classic | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/list-of-pokemon-go-joysticks-on-motorola-razr-40-drfone-by-drfone-virtual-android/"><u>List of Pokémon Go Joysticks On Motorola Razr 40 | Dr.fone</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/tips-for-dimming-windows-and-mac-music-volume/"><u>Tips for Dimming Windows & Mac Music Volume</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-harness-youtube-opportunities-via-strategic-creator-studio-application-for-2024/"><u>[New] Harness YouTube Opportunities via Strategic Creator Studio Application for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-free-youtube-image-saver-compilation/"><u>[Updated] 2024 Approved Free YouTube Image Saver Compilation</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-craft-top-quality-youtube-thumbnails-fast/"><u>[Updated] 2024 Approved How To Craft Top Quality YouTube Thumbnails Fast</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-from-dreamer-to-doer-sign-up-for-a-youtube-channel-for-2024/"><u>[Updated] From Dreamer To Doer Sign Up for a YouTube Channel for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/a-complete-guide-on-using-w11s-automated-hdr-feature/"><u>A Complete Guide on Using W11's Automated HDR Feature</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/echoes-of-excellence-best-anime-intros-ever/"><u>Echoes of Excellence Best Anime Intros Ever</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-bypass-activation-lock-from-iphone-13-pro-or-ipad-by-drfone-ios/"><u>In 2024, How to Bypass Activation Lock from iPhone 13 Pro or iPad?</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/24-resetting-your-youtube-reputation/"><u>In 2024, Resetting Your YouTube Reputation</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/209983484-9781734815504-standing/"><u>STANDING | Free Book</u></a></li>
+<li><a href="https://howto.techidaily.com/top-10-fixes-for-phone-keep-disconnecting-from-wi-fi-on-samsung-galaxy-f15-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 10 Fixes for Phone Keep Disconnecting from Wi-Fi On Samsung Galaxy F15 5G | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/transforming-talks-with-overlooked-gpt-capabilities/"><u>Transforming Talks with Overlooked GPT Capabilities</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-11-h2-update-rolls-out-more-options/"><u>Windows 11 H2 Update Rolls Out More Options</u></a></li>
 </ul></div>
 

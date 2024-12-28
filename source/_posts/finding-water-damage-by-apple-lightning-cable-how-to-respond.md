@@ -1,7 +1,7 @@
 ---
 title: Finding Water Damage by Apple Lightning Cable - How to Respond?
-date: 2024-12-02T18:46:00.614Z
-updated: 2024-12-07T23:35:44.065Z
+date: 2024-12-24T16:26:02.916Z
+updated: 2024-12-28T16:07:32.341Z
 tags:
   - apple
 categories:
@@ -27,7 +27,7 @@ Below, you'll find the best sales and discounts on Apple products, including Mac
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Best Apple deals of July 2024
@@ -129,10 +129,6 @@ If you are willing to trade in an older device, you can save on the 11-inch and 
 
 [View now at Best Buy](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fapple%2Fnew-ipad-pro-m4%2Fpcmcat1715092665904.c%3Fid%3Dpcmcat1715092665904&publisher_slug=itechdaily19598&exclusive=1) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  More Apple deals
 
 [Walmart: Save up to $1,200 on the new iPhone 15 series View now at Walmart](https://goto.walmart.com/c/5597632/565706/9383?sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fshop%2Fcol%2Fnew-iphone&subId1=zd-__COM_CLICK_ID__-dtp)
@@ -180,26 +176,30 @@ If you are willing to trade in an older device, you can save on the 11-inch and 
 [Apple Lightning to 3.5 mm headphone jack adapter deal for $8 (save $2) $8 at Walmart](https://goto.walmart.com/c/159047/565706/9383?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FApple-Lightning-to-3-5-mm-Headphone-Jack-Adapter%2F54738078%3Fathbdg%3DL1103&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Can I buy an iPhone without a plan?
 
 Yes, but you must ensure that your new iPhone is not locked to a specific carrier. You can buy unlocked iPhones, both new and pre-owned, from sources including Apple itself, Amazon, Best Buy, and Walmart.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What is the cheapest Apple product?
 
 Apple's AirTag, a tracking device that connects to your account and allows you to find lost objects such as your keys, is Apple's cheapest product. Typically, a single AirTag retails for $29, whereas you can also purchase four-packs for around $99 outside of sales and promotions. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Is there a monthly fee for Apple iPads?
 
 This depends on the type of iPad you decide to purchase. If you opt for a Wi-Fi-only iPad -- regardless of whether you have bought a classic iPad, iPad mini, or iPad Pro -- then there will be no monthly fee or subscription. 
 
 However, if you choose an iPad with Wi-Fi and cellular connectivity, then you will need to pay for a mobile data plan to take advantage of the iPad's cellular features. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How did we choose these Apple deals?
 
@@ -213,10 +213,6 @@ Factors influencing our recommendations include:
 * **Use cases**: We have included a range of Apple devices on sale suitable for different uses, including work, study, entertainment, and sports.
 * **Variety**: Here at ZDNET, we want to provide you with various products and accessories in the Apple ecosystem. We've selected deals spanning laptops and smartphones to smartwatches and more.
 * **Availability**: If we come across a great Apple deal but only a few units are in stock unless it is a stellar saving you only see once in a blue moon, we will discount it and select a product with better stock levels instead.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## What are the best deals right now?
 
@@ -238,6 +234,10 @@ ZDNET has been scouring the sale to find the best deals by category:
 * [The best iPhone deals](https://www.zdnet.com/article/iphone-deals/)
 * [The best TV deals](https://www.zdnet.com/home-and-office/home-entertainment/tv-deals/)
 * [The best deals under $30](https://www.zdnet.com/home-and-office/deals-under-30/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## When will these deals expire?
 
@@ -283,16 +283,22 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-how-to-broadcast-your-online-meeting-via-youtube-google-meet-steps-for-2024/"><u>[New] How To Broadcast Your Online Meeting via YouTube - Google Meet Steps for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-how-to-download-youtube-tunes-without-risk-for-free-for-2024/"><u>[New] How to Download YouTube Tunes Without Risk for Free for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-beginner-to-expert-choose-studio-or-beta/"><u>[New] In 2024, From Beginner to Expert Choose Studio or Beta</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-going-against-gravity-innovative-ways-to-rewind-youtube-content/"><u>[New] In 2024, Going Against Gravity Innovative Ways to Rewind YouTube Content</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-the-composers-handbook-to-instagram-and-music-rights/"><u>[New] The Composer's Handbook to Instagram and Music Rights</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-flourishing-on-a-beauty-youtube-channel-for-2024/"><u>[Updated] Flourishing on a Beauty YouTube Channel for 2024</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/approved-youtubes-best-music-video-reactions-2023-list/"><u>2024 Approved YouTube's Best Music Video Reactions, 2023 List</u></a></li>
-<li><a href="https://win-blog.techidaily.com/conquer-gaming-hurdles-effective-fixes-for-tales-of-arise-crashing-problems/"><u>Conquer Gaming Hurdles: Effective Fixes for 'Tales of Arise' Crashing Problems</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-can-i-catch-the-regional-pokemon-without-traveling-on-honor-magic5-ultimate-drfone-by-drfone-virtual-android/"><u>In 2024, How Can I Catch the Regional Pokémon without Traveling On Honor Magic5 Ultimate | Dr.fone</u></a></li>
-<li><a href="https://driver-install.techidaily.com/lenovo-g580-one-step-driver-updates/"><u>Lenovo G580: One-Step Driver Updates</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/talent-in-cocktails-chatgpts-evaluation/"><u>Talent in Cocktails: ChatGPT's Evaluation</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-elevating-live-play-with-professional-gear-lists-for-2024/"><u>[New] Elevating Live Play with Professional Gear Lists for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-how-to-loop-youtube-videos-on-tv-for-2024/"><u>[New] How to Loop YouTube Videos on TV for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-how-to-use-a-tripod-for-vlogging-for-2024/"><u>[New] How To Use a Tripod for Vlogging for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-best-ios-tools-for-psp-gaming-top-5/"><u>[New] In 2024, Best iOS Tools for PSP Gaming, Top 5</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-gaming-channel-evolution-best-14-video-ideas-on-youtube/"><u>[New] In 2024, Gaming Channel Evolution Best 14 Video Ideas on YouTube</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-convert-youtube-to-mp3-in-3-ways-safe/"><u>[New] In 2024, How to Convert YouTube to MP3 in 3 Ways [Safe]</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-autoplay-youtube-on-mobile-no-distractions/"><u>[Updated] 2024 Approved AutoPlay YouTube on Mobile, No Distractions</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-flavorful-friends-top-gastronomy-guides-online/"><u>[Updated] 2024 Approved Flavorful Friends Top Gastronomy Guides Online</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-free-mp3s-galore-10-no-cost-online-tools/"><u>[Updated] 2024 Approved Free Mp3s Galore 10 No-Cost Online Tools</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-enhance-post-strategy-with-these-top-8-ios-and-android-planners/"><u>[Updated] Enhance Post Strategy with These Top 8 iOS & Android Planners</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-flipping-scripts-generating-parody-content-for-2024/"><u>[Updated] Flipping Scripts Generating Parody Content for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-script-to-screen-methods-of-inserting-dialogue-into-online-videos/"><u>[Updated] In 2024, From Script to Screen Methods of Inserting Dialogue Into Online Videos</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/best-of-breed-exceptional-webcam-supports/"><u>Best Of Breed Exceptional Webcam Supports</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/here-are-some-pro-tips-for-pokemon-go-pvp-battles-on-honor-magic-vs-2-drfone-by-drfone-virtual-android/"><u>Here are Some Pro Tips for Pokemon Go PvP Battles On Honor Magic Vs 2 | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-ways-to-stop-parent-tracking-your-infinix-smart-8-plus-drfone-by-drfone-virtual-android/"><u>In 2024, Ways to stop parent tracking your Infinix Smart 8 Plus | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-rated-best-buy-offers-for-june-2024-insights-and-tips-from-zdnet/"><u>Top-Rated Best Buy Offers for June 2024 - Insights & Tips From ZDNet</u></a></li>
+<li><a href="https://win-online.techidaily.com/cddvdseotop6/"><u>ディスクに保存する際、CDとDVD用のベストSEOソリューションTOP6!</u></a></li>
 </ul></div>
 

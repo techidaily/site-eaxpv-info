@@ -1,7 +1,7 @@
 ---
 title: "Sifting Commentary on YouTube for 2024"
-date: 2024-08-20T13:06:09.411Z
-updated: 2024-08-21T13:06:09.411Z
+date: 2024-12-22T17:12:55.995Z
+updated: 2024-12-28T17:11:41.649Z
 tags:
   - ai video
   - ai youtube
@@ -18,9 +18,6 @@ thumbnail: https://thmb.techidaily.com/b38051c9d12a2b8d1315fdc2f1d84dde69fd749e0
 
 # How to Search Comments on YouTube Quickly?
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 ##### Richard Bennett
@@ -34,9 +31,6 @@ Are you trying to search for something on a document or a web page? You know how
 
 So, if you want to search YouTube comments quickly, what can you do? We will show you in this blog.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 1: Using the Built-in YouTube Studio Feature to Search Comments
 
 How does the built-in YouTube Studio Feature make searching comments on YouTube easier?
@@ -63,16 +57,14 @@ Besides the comment search feature, the YouTube Studio also has some in-built se
 
 **Response status:** Filter the comments to which you have responded or haven’t responded to.
 
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![YouTube Studio comment filter](https://images.wondershare.com/filmora/article-images/youtube-studio-comment-filter-search.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 You can combine these additional filters to narrow your comments search for YouTube.
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 2: Using YCS – YouTube Comment Search Extension
 
 You can use the YouTube Comment Search browser extension supported by Google Chrome to help you search YouTube comments effortlessly. To use it, follow these steps below.
@@ -83,10 +75,15 @@ You can use the YouTube Comment Search browser extension supported by Google Chr
 4. Tap on ‘Load comments’ and wait till the extension loads all the comments on the video.
 5. Now type your keywords, press Enter, and YCS will show all comments having the keyword you typed.
 
-<!-- affiliate ads begin -->
-<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![YouTube Comment Search Extension](https://images.wondershare.com/filmora/article-images/search-comment-from-specific-user-with-ycs-extension.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 3: Using Comments Search for YouTube Extension
 
@@ -115,8 +112,9 @@ This mode allows you to enter special commands to carry out an advanced search. 
 3. ‘:creator’ to get comments made by the creator
 
 <!-- affiliate ads begin -->
-<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Part 4: How Do You Search Comments You Have Posted on YouTube?
 
 Did you post a comment on your favorite celebrity’s video? Do you think it may be embarrassing and want to delete it now but cannot find it now amidst so many comments? It is where you can make use of YouTube’s Comment History feature.
@@ -158,13 +156,15 @@ Find feedback or questions. Report offensive comments. If you are a regular YouT
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Richard Bennett
 
 Richard Bennett is a writer and a lover of all things video.
 
 Follow @Richard Bennett
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -173,5 +173,20 @@ Follow @Richard Bennett
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/new-laughter-and-tears-connected-10-memes-that-resonate-on-ig-for-2024/"><u>[New] Laughter and Tears Connected 10 Memes That Resonate On IG for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-top-6-free-audio-apps-convert-youtube-hits-to-your-android-device/"><u>[Updated] In 2024, Top 6 Free Audio Apps - Convert YouTube Hits to Your Android Device</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/effective-strategies-for-dealing-with-hang-ups-in-windows-10/"><u>Effective Strategies for Dealing with Hang-Ups in Windows 10</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/effortless-movie-file-division-tips-for-cutting-mp4s-across-pc-and-mac-environments/"><u>Effortless Movie File Division: Tips for Cutting MP4s Across PC & Mac Environments</u></a></li>
+<li><a href="https://change-location.techidaily.com/honor-magic-vs-2-screen-unresponsive-heres-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Honor Magic Vs 2 Screen Unresponsive? Heres How to Fix It | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-google-frp-lock-on-tecno-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock on Tecno Devices</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/iscrivi-a-winxvideo-ai-pacchetto-completo-e-aggiornamento-gratuito-per-gli-utenti-ufficiali/"><u>Iscrivi a WinxVideo AI: Pacchetto Completo E Aggiornamento Gratuito per Gli Utenti Ufficiali</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/kostenlos-konvertiere-hevc-zu-h264-unter-windows-und-macos-losung-fur-hd/"><u>Kostenlos Konvertiere HEVC Zu H.264 Unter Windows Und macOS - Lösung Für HD</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/1725288723500-mac-dvdmac-osdvdmp4/"><u>Mac电脑专业版 DVD转移工具：高效率解锁和转换Mac OS上加密的DVD到MP4或设备</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/metodos-verificados-para-resgatar-discos-de-video-com-direitos-autorais-no-windows-11-and-macos/"><u>Métodos Verificados Para Resgatar Discos De Vídeo Com Direitos Autorais No Windows 11 & macOS</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/resize-your-videos-perfectly-for-free-with-the-best-mp4-shrinker-software-guide/"><u>Resize Your Videos Perfectly for Free with the Best MP4 Shrinker Software Guide</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/top-imei-unlokers-for-your-honor-100-phone-by-drfone-android/"><u>Top IMEI Unlokers for Your Honor 100 Phone</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/shing-revenue-with-review-videos-of-household-items/"><u>Unleashing Revenue with Review Videos of Household Items</u></a></li>
+</ul></div>
 

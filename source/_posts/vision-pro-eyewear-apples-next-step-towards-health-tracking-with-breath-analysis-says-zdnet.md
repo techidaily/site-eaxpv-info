@@ -1,7 +1,7 @@
 ---
 title: "Vision Pro Eyewear: Apple's Next Step Towards Health Tracking with Breath Analysis, Says ZDNet"
-date: 2024-12-17T22:38:25.490Z
-updated: 2024-12-23T02:46:38.512Z
+date: 2024-12-22T17:19:30.415Z
+updated: 2024-12-28T16:47:07.459Z
 tags:
   - apple
 categories:
@@ -56,7 +56,7 @@ During this time, the company focused on providing viable mixed reality and VR e
 Essentially, Meta's focus has been on finding the sweet spot for AR and VR devices using current technology and baking that into its products. In the Quest 3, it has introduced a truly great device at a reasonably affordable price.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  That old Apple magic
@@ -85,10 +85,6 @@ But that means that Apple has to stay the course. It can't lose patience, even i
 Bloomberg's Gurman believes Apple is more willing to kill products now than it has been in the past. His examples are Apple's [termination of its self-driving car program](https://www.zdnet.com/article/apple-just-killed-its-electric-car-project-shifting-focus-to-generative-ai/), killing off [a project to develop microLED screens](https://www.bloomberg.com/news/articles/2024-03-22/apple-scraps-plan-to-design-display-for-watch-in-house-cuts-jobs), and shutting down the [Pay Later finance program](https://www.zdnet.com/article/apple-kills-off-its-apple-pay-later-service-but-has-another-option-in-the-works/) before it got off the ground. 
 
 His inference is that it's possible Apple will lose patience with the slow progress of the Vision Pro and kill it off, although he says his sources claim the company is more focused on introducing a cost-cut Vision device that off-loads the processing to a tethered iPhone or Mac. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Think different?
 
@@ -125,7 +121,7 @@ In other words, for the Vision to be successful, it has to stop fooling around a
 So what, beyond shipping useful software like the ultra-wide Mac display, needs to factor into that probably elusive Apple mindset change? Three things. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Give the Vision a controller
@@ -139,7 +135,7 @@ The eye tracking and hand gestures interface that are the primary means of opera
 You can see this in action with the [Puzzling Places game](https://www.meta.com/experiences/3931148300302917/). On the Quest 3, the game provides a much richer interface than on the Vision Pro. That's because it's much easier to navigate objects in the 3D space using the Quest controllers. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Stay away from cable tethering
@@ -153,6 +149,10 @@ Just the absence of the Vision Pro battery and its tether to manage makes the Qu
 The idea that a future Vision device might need to be physically tethered to an iPhone to work would be a joy killer, especially when the Quest 3 doesn't have such an annoyance. 
 
 There might be one compromise, which is to wirelessly offload some processing to an iPhone, similar to the symbiotic relationship the Apple Watch has with the iPhone. That could work. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Make a tough margin decision
 
@@ -175,7 +175,7 @@ Think about that. If the Quest 3 is sold for $500, retailers like Amazon are lik
 Apple, by contrast, is making a fairly predictable margin on the Vision Pro, which is why the price is so high by comparison. Apple does have some cost-cutting options (display, chips, assembly, structure, and lenses), but if Facebook is competing at a loss, that puts Apple into the uncomfortable position of also taking a per-unit COGS loss or pricing well higher than the current market leader. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Looking towards the future
@@ -227,24 +227,20 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-blurring-the-line-secure-video-content-with-smoother-images/"><u>[New] 2024 Approved Blurring the Line Secure Video Content with Smoother Images</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-achieve-the-perfect-look-youtubes-guide-to-video-aspect-ratios-for-2024/"><u>[New] Achieve the Perfect Look YouTube's Guide to Video Aspect Ratios for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-captivating-audiences-on-a-shoestring-budget-youtube-shorts-success-tips-for-2024/"><u>[New] Captivating Audiences on a Shoestring Budget – YouTube Shorts Success Tips for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-a-20-second-symphony-understanding-musics-compact-formats-for-2024/"><u>[Updated] A 20-Second Symphony Understanding Music's Compact Formats for 2024</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-ideal-10-virtual-photo-backdrop-modifiers/"><u>[Updated] Ideal 10 Virtual Photo Backdrop Modifiers</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-achieve-unprecedented-image-quality-via-av1-on-youtube/"><u>[Updated] In 2024, Achieve Unprecedented Image Quality via AV1 on YouTube</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-pioneer-the-future-of-youtube-content-with-tubebuddy/"><u>[Updated] Pioneer the Future of YouTube Content with TubeBuddy</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-the-ultimate-streaming-showdown-fb-live-yt-live-tweetspaces/"><u>[Updated] The Ultimate Streaming Showdown FB Live, YT Live, TweetSpaces</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/achieve-professional-grade-aesthetics-top-10-insta-grid-makers-for-2024/"><u>Achieve Professional-Grade Aesthetics Top 10 Insta Grid Makers for 2024</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/breaking-down-barriers-with-shared-youtube-curations-for-2024/"><u>Breaking Down Barriers with Shared YouTube Curations for 2024</u></a></li>
-<li><a href="https://techidaily.com/complete-tutorial-for-infinix-gt-10-pro-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Complete Tutorial for Infinix GT 10 Pro Hard Reset | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-and-installation-guide-brother-mfc-7860dw-printer-driver-on-windows/"><u>Download & Installation Guide: Brother MFC-7860DW Printer Driver on Windows</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-google-frp-lock-from-realme-11-pro-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock from Realme 11 Pro Devices</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-honor-magic-v2-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Honor Magic V2 Phones with/without a PC</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/perfect-pair-merging-your-youtube-video-library-for-2024/"><u>Perfect Pair Merging Your YouTube Video Library for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/streaming-star-status-buttons-and-growth-accolades-for-2024/"><u>Streaming Star Status - Buttons & Growth Accolades for 2024</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-performance-in-depth-insights-on-the-asus-rog-swift-oled-pg32ucdp/"><u>Unveiling the Performance: In-Depth Insights on the Asus ROG Swift OLED PG32UCDP</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/what-is-the-best-pokemon-for-pokemon-pvp-ranking-on-apple-iphone-se-drfone-by-drfone-virtual-ios/"><u>What is the best Pokemon for pokemon pvp ranking On Apple iPhone SE? | Dr.fone</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/what-pokemon-evolve-with-a-dawn-stone-for-honor-magic-5-drfone-by-drfone-virtual-android/"><u>What Pokémon Evolve with A Dawn Stone For Honor Magic 5? | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/common-causes-of-systolic-dysfunction-include-ischemic-heart-disease-and-dilated-cardiomyopathies-which-can-damage-the-myocardial-tissue/"><u>Common Causes of Systolic Dysfunction Include Ischemic Heart Disease and Dilated Cardiomyopathies, Which Can Damage the Myocardial Tissue.</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/compreendendo-o-formato-de-video-m4v-e-tecnicas-para-abertura-do-mp4/"><u>Compreendendo O Formato De Vídeo M4V E Técnicas Para Abertura Do MP4</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/enhancing-your-content-with-music-and-dynamic-effects-in-slide-shows-for-pc-and-mac-users/"><u>Enhancing Your Content with Music and Dynamic Effects in Slide Shows for PC & Mac Users</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/ensuring-reliable-video-experience-on-pcs-and-smartphones-across-windowsmacandroidiphone-platforms/"><u>Ensuring Reliable Video Experience on PCs and Smartphones Across Windows/Mac/Android/iPhone Platforms</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/expert-analysis-comprehensive-camstudio-recorder/"><u>Expert Analysis Comprehensive CamStudio Recorder</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/gratuito-online-converter-de-audio-para-mp3-wav-e-m4a-software-livre-e-gratuito-de-movavi/"><u>Gratuito Online: Converter De Audio Para MP3, WAV E M4A - Software Livre E Gratuito De Movavi</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/guia-rapido-e-facil-converter-arquivos-ts-em-mp4-com-o-movavi/"><u>Guia Rápido E Fácil: Converter Arquivos TS Em MP4 Com O Movavi</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/la-excelencia-en-herramientas-de-copia-de-seguridad-y-respaldo-sin-coste-para-windows-con-aomei-backupper-como-la-opcion-predilecta/"><u>La Excelencia en Herramientas De Cópia De Seguridad Y Respaldo Sin Coste Para Windows, Con AOMEI Backupper Como La Opción Predilecta</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/resolved-step-by-step-oculus-setup-tips-for-windows-1110-users/"><u>Resolved: Step-by-Step Oculus Setup Tips for Windows 11/10 Users</u></a></li>
+<li><a href="https://win-blog.techidaily.com/resolving-persistent-game-crash-issues-a-step-by-step-fix-for-frontier-on-pcs/"><u>Resolving Persistent Game Crash Issues - A Step-by-Step Fix for Frontier on PCs.</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/techniques-gratuites-pour-convertir-des-fichiers-ape-au-format-aac-guides-de-conversion-en-ligne-par-movavi/"><u>Techniques Gratuites Pour Convertir Des Fichiers APE Au Format AAC - Guides De Conversion en Ligne Par Movavi</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/tecnicas-avanzadas-para-mejorar-videos-oscuros-en-2024-dos-metodos-innovadores/"><u>Técnicas Avanzadas Para Mejorar Videos Oscuros en 2024 - Dos Métodos Innovadores</u></a></li>
+<li><a href="https://win-forum.techidaily.com/the-ultimate-trick-to-clean-up-persistent-folders-using-revo-uninstaller-on-windows-1nk-and-11/"><u>The Ultimate Trick to Clean Up Persistent Folders Using Revo Uninstaller on Windows 1Nk & 11</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/the-ultimate-tutorial-for-retrieving-accidentally-deleted-data-on-windows/"><u>The Ultimate Tutorial for Retrieving Accidentally Deleted Data on Windows</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/transformez-votre-fichier-wav-en-video-mp4-facilement-et-sans-frais-avec-movavi/"><u>Transformez Votre Fichier WAV en Vidéo MP4 Facilement Et Sans Frais - Avec Movavi</u></a></li>
 </ul></div>
 

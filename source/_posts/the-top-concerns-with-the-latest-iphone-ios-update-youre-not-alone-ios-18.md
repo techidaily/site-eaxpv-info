@@ -1,7 +1,7 @@
 ---
 title: The Top Concerns with the Latest iPhone iOS Update – You’re Not Alone (iOS 18)
-date: 2024-12-18T01:54:18.265Z
-updated: 2024-12-23T00:33:05.856Z
+date: 2024-12-21T17:05:06.157Z
+updated: 2024-12-28T16:26:41.992Z
 tags:
   - apple
 categories:
@@ -60,7 +60,7 @@ Aside from the inferior Photos app navigation, videos in the Photos app no longe
 "The UX is a huge downgrade. It's so bad that I had to submit feedback to Apple via the feedback app in the beta. Never did one of those when it wasn't a technical bug, just pure user experience frustration," another [Redditor said](https://www.reddit.com/r/apple/comments/1e2jtq5/comment/ld1wsjg/?utm%5Fsource=share&utm%5Fmedium=web3x&utm%5Fname=web3xcss&utm%5Fterm=1&utm%5Fcontent=share%5Fbutton).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to navigate the iOS 18 Photos app
@@ -109,17 +109,18 @@ I hope a future version of iOS 18 will bring back the Camera Roll or at least to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-2024-approved-humor-harvesters-making-memes-without-a-price-tag/"><u>[New] 2024 Approved Humor Harvesters Making Memes Without a Price Tag</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-from-zero-to-hero-amplifying-youtube-influence-via-famebit-partnerships-for-2024/"><u>[New] From Zero to Hero Amplifying YouTube Influence via FameBit Partnerships for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-crafting-captivating-edu-vids-on-youtube-a-step-by-step-guide/"><u>[New] In 2024, Crafting Captivating Edu-Vids on YouTube A Step-by-Step Guide</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-uncovering-youtube-dialogues/"><u>[New] Uncovering YouTube Dialogues</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-strategies-for-capturing-every-detail-in-your-vr-games/"><u>[Updated] 2024 Approved Strategies for Capturing Every Detail in Your VR Games</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-in-2024-ideal-photo-and-video-shows-on-latest-iphone-models-xr-ios12/"><u>[Updated] In 2024, Ideal Photo & Video Shows on Latest iPhone Models (XR-iOS12)</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-irecorder-testing-a-comprehensive-review/"><u>[Updated] In 2024, IRecorder Testing A Comprehensive Review</u></a></li>
-<li><a href="https://os-tips.techidaily.com/how-to-respond-when-an-unattended-apple-airtag-is-tracking-alongside-you-whats-next/"><u>How to Respond When an Unattended Apple AirTag Is Tracking Alongside You – What's Next?</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/mastering-the-art-of-srt-files-an-all-inclusive-guide-to-subtitles/"><u>Mastering the Art of SRT Files An All-Inclusive Guide to Subtitles</u></a></li>
-<li><a href="https://program-issues.techidaily.com/solution-found-eliminating-frequent-disruptions-in-beat-saber-gameplay/"><u>Solution Found: Eliminating Frequent Disruptions in Beat Saber Gameplay</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/the-ultimate-guide-to-channel-evolution-via-studio-for-2024/"><u>The Ultimate Guide to Channel Evolution via Studio for 2024</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/unveiling-the-hisense-50h8f-premium-picture-quality-in-an-economic-package/"><u>Unveiling the Hisense 50H8F: Premium Picture Quality in an Economic Package</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-bandicam-reconnaissance-a-comprehensive-review-of-its-features/"><u>[New] In 2024, Bandicam Reconnaissance A Comprehensive Review of Its Features</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-integrating-obs-for-youtube-and-twitch-streaming/"><u>[New] In 2024, Integrating OBS for YouTube & Twitch Streaming</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-depth-look-mycam-cams-performance/"><u>[Updated] In-Depth Look MyCam Cam's Performance</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-through-the-lens-sage-advice-for-improving-your-edits/"><u>[Updated] Through the Lens Sage Advice for Improving Your Edits</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/4-routes-to-confirm-gpt-functionality-now/"><u>4 Routes to Confirm GPT Functionality Now</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/conversione-libera-sul-web-da-m1v-a-mp4-con-movavi-il-tuo-guida-completa-per-la-modifica-video/"><u>Conversione Libera Sul Web Da M1V a MP4 Con Movavi: Il Tuo Guida Completa per La Modifica Video</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/est-ce-que-capter-une-conversation-implique-des-risques-legaux-si-on-na-pas-la-consentement/"><u>Est-Ce Que Capter Une Conversation Implique Des Risques Légaux Si On N'A Pas La Consentement?</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/guia-paso-a-paso-para-convertir-gratuitamente-musica-wav-a-mpeg-usando-servicios-en-linea-soluciones-recomendadas/"><u>Guía Paso a Paso Para Convertir Gratuitamente Música WAV a MPEG Usando Servicios en Línea: Soluciones Recomendadas</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-lost-data-on-iphone-6s-plus-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How To Recover Lost Data on iPhone 6s Plus? | Dr.fone</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-score-your-youtube-content-with-these-free-sounds/"><u>In 2024, Score Your YouTube Content With These Free Sounds</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/m4vwav-movavi/"><u>M4VとWAVファイルを無料で簡単に変換 - Movavi</u></a></li>
+<li><a href="https://techtrends.techidaily.com/revolutionary-tricks-to-juice-up-your-mobile-device-sans-charger/"><u>Revolutionary Tricks to Juice Up Your Mobile Device Sans Charger</u></a></li>
+<li><a href="https://article-posts.techidaily.com/the-ultimate-dji-phantom-4-extension-kit-list/"><u>The Ultimate DJI Phantom 4 Extension Kit List</u></a></li>
 </ul></div>
 

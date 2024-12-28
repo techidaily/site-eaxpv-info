@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Foundations First  What To Invest In for YouTubing for 2024\""
-date: 2024-08-20T13:04:01.890Z
-updated: 2024-08-21T13:04:01.890Z
+date: 2024-12-24T16:41:56.640Z
+updated: 2024-12-28T16:56:47.899Z
 tags:
   - ai video
   - ai youtube
@@ -61,8 +61,9 @@ Again, most YouTube video makers have a limited budget at their disposal, so pro
 If you’re not ready to invest in a shotgun mic, you can also find very inexpensive (often under $20) LAV mics. These small microphones can be pinned to your shirt, which allows them to record very clear dialogue because they’re so close to your mouth.
 
 <!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Lights for YouTube
 
 **The short version:** You need as much light as you can get. Lighting kits can be affordable on Amazon, but you can also achieve a great look using daylight/windows and 'daylight' lightbulbs.
@@ -75,9 +76,6 @@ If you have the budget available to get some lighting equipment, you can find so
 
 Another useful piece of lighting equipment to have is a reflector. A reflector is usually a piece of white, silver, or gold fabric stretched over a frame. You can use it to bounce light from one light source back towards yourself (this is a great way to fill shadows cast by your main light). Reflectors tend to be inexpensive, but you can also use white cardboard or tinfoil in place of purchasing a reflector.
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Tripods and Camera Stands
 
 **The short version:** You need something to hold your camera. If you mostly film in your own home that can be a desk or a stack of books, but if you make a lot of videos while you're on the go you probably need a tripod or gimbal. Heavier cameras need heavier tripods.
@@ -88,12 +86,17 @@ When you are choosing a tripod, pay attention to how much it weighs. If the came
 
 Even if you are using a phone or a webcam to record YouTube videos, you should consider mounting the device on a stable stand. It is possible to find mini tripods ideal for smartphones for as little as $10\. These tripods are small enough to carry in your pocket, so you will be prepared to start making a video no matter where your adventures take you. If you are using a web camera, you should attach it to the stand so that it won’t move accidentally after you touch the surface it is placed on.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Smartphone Camera Gear
 
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Smartphone Camera Gear](https://images.wondershare.com/filmora/article-images/smartphone-camera-gear.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **The short version:** There's a lot of gear out there designed with smartphone photos and videos in mind, including clip-on lenses, tripod mounts, phone-mounted LED lights, and inexpensive microphones that plug into the audio jack.
 
@@ -103,16 +106,14 @@ On the flip side, smartphone cameras typically perform poorly in low light. It i
 
 Another common downside of smartphone cameras is that most of them use digital zoom, which is vastly inferior to optical zoom. If you intend to shoot anything that’s further away than a few feet, you need a clip-on lens that goes on top of the built-in camera. This inexpensive device will give you a lot of freedom to work in space, and allow you to make spectacular shots even without high-end YouTube equipment.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Equipment with Easy-to-Use Video Editor
 
-<!-- affiliate ads begin -->
-<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 Richard Bennett
@@ -121,7 +122,6 @@ Richard Bennett is a writer and a lover of all things video.
 
 Follow @Richard Bennett
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -129,16 +129,35 @@ Follow @Richard Bennett
      data-ad-slot="1223367746"></ins>
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Skyrocketing Your YouTube Business: The FameBit Approach to Sponsorships
 
 # How to Find YouTube Sponsorships by Using FameBit
 
 ![](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-http.techidaily.com/new-2024-approved-the-ultimate-list-of-6-best-nft-platforms-for-artists/"><u>[New] 2024 Approved The Ultimate List of 6 Best NFT Platforms for Artists</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-crafting-comedy-the-art-of-parody-videos-for-2024/"><u>[Updated] Crafting Comedy The Art of Parody Videos for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-perfecting-virtual-sessions-best-free-and-paid-zoom-transcribing-tools/"><u>[Updated] Perfecting Virtual Sessions Best Free & Paid Zoom Transcribing Tools</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-ultimate-iphone-x-handbook-for-users/"><u>[Updated] The Ultimate iPhone X Handbook for Users</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/assessing-your-pcs-ability-to-handle-diverse-audio-visual-formats-with-yl-software-solutions/"><u>Assessing Your PC's Ability to Handle Diverse Audio-Visual Formats with YL Software Solutions</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/bards-next-gen-ai-seven-innovations-unveiled-by-google-io-2023/"><u>Bard's Next-Gen AI: Seven Innovations Unveiled by Google I/O 2023</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/choosing-the-right-video-codec-handbrakes-h264-vs-mpeg-4-for-dvd-conversion/"><u>Choosing the Right Video Codec: Handbrake's H.264 Vs MPEG-4 for DVD Conversion</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/comment-diminuer-vos-videos-en-quality-et-taille-sans-logo-ni-perte-visuelle-top-10-solutions/"><u>Comment Diminuer Vos Vidéos en Quality Et Taille Sans Logo Ni Perte Visuelle: Top 10 Solutions</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/comparing-the-advantages-mpeg-2-against-mpeg-cd-in-digital-video-encoding/"><u>Comparing the Advantages: MPEG-2 Against MPEG-CD in Digital Video Encoding</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/delete-gmail-account-withwithout-password-on-infinix-note-30-pro-by-drfone-android/"><u>Delete Gmail Account With/Without Password On Infinix Note 30 Pro</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/expert-evaluation-a-thorough-guide-on-using-winx-for-seamless-iphone-data-transfer/"><u>Expert Evaluation: A Thorough Guide on Using WinX for Seamless iPhone Data Transfer</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-without-jailbreak-on-realme-v30t-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location without Jailbreak On Realme V30T | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-fix-an-unresponsive-email-on-your-apple-device/"><u>How To Fix an Unresponsive Email on Your Apple Device</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/rip-and-transfer-your-dvds-onto-multimedia-server-platforms-like-plex-nas-and-roku-using-a-dvd-ripper-tool/"><u>Rip and Transfer Your DVDs Onto Multimedia Server Platforms Like Plex, NAS, and Roku Using a DVD Ripper Tool</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210918911-9798988778257-runes/"><u>RUNES | Free Book</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/top-12-free-ai-powered-video-improvement-tools-available-online-for-pc-and-mac-users/"><u>Top 12 Free AI-Powered Video Improvement Tools Available Online for PC & Mac Users</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/trouble-with-your-xbox-one-discs-here-are-12-troubleshooting-steps-to-fix-it-now/"><u>Trouble With Your Xbox One Discs? Here Are 12 Troubleshooting Steps to Fix It Now!</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/winx-dvd-and-video-converter-tech-assistance-portal/"><u>WinX DVD & Video Converter Tech Assistance Portal - 線上資料回答與技術支援</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/1725287435561-dvd/"><u>オープンソースリポジトリで使える安全なDVDバックアップ手段</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: The Ultimate Selection of 2023'S Most Essential iPad Enhancers as Reviewed by Experts at ZDNET
-date: 2024-12-04T00:27:22.339Z
-updated: 2024-12-07T20:33:08.058Z
+date: 2024-12-23T16:51:12.819Z
+updated: 2024-12-28T16:29:32.655Z
 tags:
   - apple
 categories:
@@ -41,7 +41,15 @@ Cons
 * Cellular connectivity is additional cost
 * Expensive
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Apple iPad Mini 6th Generation
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Best small tablet overall
 
@@ -108,10 +116,6 @@ Cons
 
 ## Boox Tab Mini C
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Best small tablet for note-taking
 
 Boox is an e-reader and drawing tablet with a vivid color display, so your e-book's illustrations will pop as you read, and so will your color-coordinated notes. Speaking of which, the note-taking templates on the Tab Mini C are handy. Whether you're a student taking Cornell-style notes, a desk job employee making an hourly plan for your day, a musician crafting a piece of sheet music, or a historian drafting a timeline, the Tab Mini C offers a template for that. 
@@ -139,11 +143,11 @@ Cons
 * Web browser functionality could be better
 * No warm light option
 
-## Amazon Kindle 11th generation
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+## Amazon Kindle 11th generation
 
 ### Best small tablet for reading
 
@@ -173,15 +177,7 @@ Pros
 Cons 
 * Performance could be better
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Samsung Galaxy Tab A7 Lite
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Best Samsung small tablet
 
@@ -196,7 +192,7 @@ In addition, you can expand your storage beyond the 32GB or 64GB allotted. The t
 Show Expert Take Show less 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What is the best small tablet?
@@ -211,10 +207,6 @@ The best small tablet is the iPad Mini because of its sharp display and impressi
 | Amazon Kindle          | $100      | 6 inches            | 300ppi glare-free |
 | Samsung Galaxy A7 Lite | $100      | 8.7 inches          | 1340x800 pixels   |
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Which small tablet is right for you?
 
 It really depends on what size tablet you're looking for, which operating system you prefer, and how much money you're willing to spend. Below, we've broken down the best small tablets to help make your decision easier. 
@@ -227,6 +219,10 @@ It really depends on what size tablet you're looking for, which operating system
 | Amazon Kindle                               | A small and portable tablet designed for reading with dark mode and six weeks of battery life. Its 300ppi is the same display as the Kindle Paperwhite and the Kindle Oasis.                                                                                                             |
 | Samsung Galaxy A7 Lite                      | A small Samsung tablet with expandable storage and an exceptional battery life. The tablet allows for up to 1TB of expandable storage.                                                                                                                                                   |
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Factors to consider when choosing the best small tablets:
 
 We know there are a lot of tablets and tablet sizes to choose from, but ultimately, these were the determining factors in our top picks. 
@@ -235,6 +231,10 @@ We know there are a lot of tablets and tablet sizes to choose from, but ultimate
 * **Display:** Small tablets shouldn't have to compromise on an already smaller display, so we also considered display resolution.
 * **Battery life:** A device's battery life is important no matter its size, so we considered devices that can last you all day.
 * **Price:** Tablets vary in price range from affordable to expensive depending on brand and purpose, so we made sure to choose tablets at various price points to accommodate different budgets.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How we test tablets
 
@@ -247,10 +247,6 @@ We also compare the display's performance with what the manufacturer promised, t
 * **Camera and audio:** For cameras, we evaluate features like resolution, aperture, low-light performance, autofocus accuracy, dynamic range, color accuracy, image quality, sharpness, and video quality. For audio, we look at the sound quality and overall listening experience, including audio clarity at different volumes, stereo separation of left and right audio channels, maximum volume level in various environments, and if there is perceived distortion.
 
 For a deeper look into our testing process, check out our comprehensive [tablet testing methodology](https://www.zdnet.com/article/how-we-test-tablets-at-zdnet-in-2024/). 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## What is the smallest tablet screen size?
 
@@ -275,6 +271,10 @@ Their lightweight body and compact design make them perfect traveling companions
 ## What is the smallest iPad?
 
 The smallest [iPad](https://www.zdnet.com/article/best-ipad/) is the iPad Mini which has a screen size of 8.3 inches. It's also lightweight at just under one pound. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Are there alternative small tablets worth considering?
 
@@ -322,19 +322,22 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-boring-to-breathtaking-the-transformation-of-channel-titles/"><u>[New] 2024 Approved From Boring to Breathtaking The Transformation of Channel Titles</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-best-5-video-editing-platforms-that-dont-feature-in-youtoo-for-2024/"><u>[New] Best 5 Video Editing Platforms That Don't Feature in YouToo for 2024</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-cutting-edge-photography-techniques-harnessing-lut-capabilities-for-2024/"><u>[New] Cutting-Edge Photography Techniques Harnessing LUT Capabilities for 2024</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/new-enhancing-connectivity-ios-photo-library-and-snapchat-merge-for-2024/"><u>[New] Enhancing Connectivity IOS Photo Library & Snapchat Merge for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-from-youtube-to-avi-perfect-conversion-tools-revealed-for-2024/"><u>[New] From YouTube to AVI Perfect Conversion Tools Revealed for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-how-to-fix-youtube-shorts-thumbnail-not-showing-problem-for-2024/"><u>[New] How to Fix YouTube Shorts Thumbnail Not Showing Problem for 2024</u></a></li>
-<li><a href="https://fox-info.techidaily.com/new-in-2024-journeys-best-tools-top-10-vr-peripherals-guide/"><u>[New] In 2024, Journey's Best Tools Top 10 VR Peripherals Guide</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-hand-held-balance-for-sharp-images/"><u>[Updated] 2024 Approved Hand-Held Balance for Sharp Images</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-a-practical-handbook-for-recording-virtual-play-battles/"><u>[Updated] A Practical Handbook for Recording Virtual Play Battles</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-high-revenue-streaming-star-across-the-globe-for-2024/"><u>[Updated] High Revenue Streaming Star Across the Globe for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-highlighting-the-top-video-creation-apps-iphone-android-for-2024/"><u>[Updated] Highlighting the Top Video Creation Apps (iPhone, Android) for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-novice-guide-to-earning-on-periscope-live-streaming/"><u>2024 Approved Novice Guide to Earning on Periscope Live Streaming</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/nces-in-motion-analyzers/"><u>Audiences in Motion Analyzers</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-top-4-sim-location-trackers-to-easily-find-your-lost-sony-xperia-1-v-device-by-drfone-android/"><u>In 2024, Top 4 SIM Location Trackers To Easily Find Your Lost Sony Xperia 1 V Device</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-camera-to-chrome-youtube-shorts-video-upload-guide/"><u>[New] 2024 Approved From Camera to Chrome YouTube Shorts Video Upload Guide</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-2024-approved-windows-11-redefined-a-features-breakdown/"><u>[New] 2024 Approved Windows 11 Redefined A Features Breakdown</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-how-to-download-youtube-thumbnail-in-3-ways-onlinewinmac-for-2024/"><u>[New] How to Download YouTube Thumbnail in 3 Ways [Online/Win/Mac] for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-boring-to-breathtaking-the-transformation-of-channel-titles/"><u>[New] In 2024, From Boring to Breathtaking The Transformation of Channel Titles</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-graphic-portrayal-of-future-social-momentum/"><u>[New] In 2024, Graphic Portrayal of Future Social Momentum</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-in-2024-wit-waves-the-top-10-jokes/"><u>[New] In 2024, Wit Waves The Top 10 Jokes</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-freed-images-public-domain-canvas/"><u>[Updated] 2024 Approved Freed Images Public Domain Canvas</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-create-a-youtube-auto-subscribe-link/"><u>[Updated] 2024 Approved How to Create a YouTube Auto-Subscribe Link</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-from-video-to-audio-quickly-create-mp3-from-youtube-on-mac-for-2024/"><u>[Updated] From Video to Audio Quickly Create MP3 From YouTube on Mac for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-gain-ground-by-generating-earnings-on-your-youtube-channel-like-ajay-for-2024/"><u>[Updated] Gain Ground by Generating Earnings on Your Youtube Channel Like Ajay for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-watch-deleted-youtube-videos-online-in-2-ways/"><u>[Updated] In 2024, How to Watch Deleted YouTube Videos Online in 2 Ways</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-trusted-recommendations-the-ultimate-10-for-real-time-tennis-and-rugby-viewing/"><u>[Updated] Trusted Recommendations The Ultimate 10 for Real-Time Tennis and Rugby Viewing</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/a-deep-dive-into-the-latency-of-chatgpt-4-and-gpt-35/"><u>A Deep Dive Into the Latency of ChatGPT-4 and GPT-3.5</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/androids-5-prime-photo-tools-ultimate-editing-companion-for-2024/"><u>Android's 5 Prime Photo Tools Ultimate Editing Companion for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-remove-asus-rog-phone-7-pin-by-drfone-android-unlock-android-unlock/"><u>How to remove Asus ROG Phone 7 PIN</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-samsung-galaxy-f15-5g-phone-frp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your Samsung Galaxy F15 5G Phone FRP Lock</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/the-best-ispoofer-alternative-to-try-on-apple-iphone-6-drfone-by-drfone-virtual-ios/"><u>The Best iSpoofer Alternative to Try On Apple iPhone 6 | Dr.fone</u></a></li>
 </ul></div>
 

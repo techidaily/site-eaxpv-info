@@ -1,7 +1,7 @@
 ---
 title: "Exciting Upgrades for iPhone 16: Thinner Bezels and New-Age Spatial Video Abilities, as Reported"
-date: 2024-12-11T23:48:34.102Z
-updated: 2024-12-13T20:10:35.121Z
+date: 2024-12-23T16:09:12.370Z
+updated: 2024-12-28T17:14:45.464Z
 tags:
   - apple
 categories:
@@ -40,6 +40,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Which iPhone models will get iOS 18?
 
 According to Apple, these iPhone models can get iOS 18 now that it's become widely available:
@@ -77,7 +81,7 @@ According to Apple, these iPhone models can get iOS 18 now that it's become wide
 Notably, the once-popular iPhone X model is not on the list. Older devices like the iPhone 8 series also didn't make the cut this year. As for what's to come, Apple's new [iPhone 16](https://www.zdnet.com/article/every-iphone-16-model-compared-which-iphone-should-you-buy-today/) lineup will launch with iOS 18 out of the box.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## iOS 18 beta vs full release: What's the difference?
@@ -93,7 +97,7 @@ The general release will have ironed out most of these bugs and problems using t
 One example of this process is when Apple released the iOS 17 beta version in 2023\. The early beta version featured the "End" button during a call that had moved from the center to the right, which was a big change for iPhone users. Disapproving feedback from beta testers resulted in [Apple moving the "End" button back to the center of the screen](https://www.zdnet.com/article/apple-moved-iphones-end-call-button-again-is-this-spot-less-weird/), where users had been accustomed to.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When was iOS 18 released?
@@ -104,10 +108,6 @@ Apple typically releases its new operating systems for public beta access a few 
 
 Apple released iOS 18 out of beta on September 16, a week after its ["Glowtime" event](https://www.zdnet.com/article/everything-we-expect-at-apples-iphone-16-event-ai-features-airpods-apple-watch-series-10-more/). The Apple Intelligence features will be available in stages for qualifying devices and are expected to roll out gradually over the coming months.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What is a software beta?
 
 A software beta is a version of a program or operating system initially released to a limited group of users to gather feedback and iron out bugs. The beta release lets a developer or company test its software program or system to emulate real-world use before a general release. 
@@ -115,10 +115,6 @@ A software beta is a version of a program or operating system initially released
 **Also: [We've used every iPhone 16 model and here's our best buying advice for 2024](https://www.zdnet.com/article/iphone-16-pro-max-buying-advice-2024/)**
 
 The beta phase follows alpha testing, where software is developed and tested internally within the company. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Which iPhone models will get Apple Intelligence?
 
@@ -128,12 +124,16 @@ While many iPhone models support iOS 18, very few will support Apple Intelligenc
 
 Apple Intelligence will be part of iOS 18, iPadOS18, and macOS Sequoia, but will be released over time.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Which iPhone models will no longer be supported?
 
 iOS 18 will not be supported in the iPhone X, iPhone 8, or earlier models. The new iOS version will only be available for iPhones sporting an A12 Bionic chip or newer.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What should you do with your outdated iPhone?
@@ -176,19 +176,20 @@ If you're looking to maintain or obtain a service provider, you can check your i
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-craft-top-quality-youtube-thumbnails-fast/"><u>[New] 2024 Approved How To Craft Top Quality YouTube Thumbnails Fast</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-2024-approved-prime-screen-capturing-software-for-mac-users/"><u>[New] 2024 Approved Prime Screen Capturing Software for Mac Users</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/new-unlock-facebook-potential-with-effective-engagement-strategies-for-2024/"><u>[New] Unlock Facebook Potential with Effective Engagement Strategies for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-hobbyist-to-pro-optimal-cameras-for-youtubing/"><u>[Updated] 2024 Approved From Hobbyist to Pro Optimal Cameras For YouTubing</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-create-a-channel-that-dominates-the-business-world/"><u>[Updated] 2024 Approved How to Create a Channel that Dominates the Business World</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-from-template-to-tutorial-gamers-channel-design-for-2024/"><u>[Updated] From Template to Tutorial Gamers' Channel Design for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-humble-beginnings-to-sponsored-success-channels-blueprint/"><u>[Updated] In 2024, From Humble Beginnings to Sponsored Success Channels' Blueprint</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-gratis-design-elements-for-youtube-channel/"><u>[Updated] In 2024, Gratis Design Elements for YouTube Channel</u></a></li>
-<li><a href="https://blog-min.techidaily.com/best-3-software-to-transfer-files-tofrom-your-nokia-g42-5g-via-a-usb-cable-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Best 3 Software to Transfer Files to/from Your Nokia G42 5G via a USB Cable | Dr.fone</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/capture-clarity-with-leading-photo-gridding-services/"><u>Capture Clarity with Leading Photo Gridding Services</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/complete-solutions-for-restoring-deleted-data-on-a-toshiba-canvio-usb-hard-disk/"><u>Complete Solutions for Restoring Deleted Data on a Toshiba Canvio USB Hard Disk</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-migrate-android-data-from-tecno-spark-go-2023-to-new-android-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Migrate Android Data From Tecno Spark Go (2023) to New Android Phone? | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-5-car-locator-apps-for-xiaomi-redmi-note-13-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Top 5 Car Locator Apps for Xiaomi Redmi Note 13 5G | Dr.fone</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/magix-music-maker-2024-a-step-forward-in-audio-production/"><u>Magix Music Maker 2024 A Step Forward in Audio Production</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-excellence-in-motion-best-4k-cameras-unveiled/"><u>[New] 2024 Approved Excellence in Motion Best 4K Cameras Unveiled</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-smart-tips-for-gif-lovers-iphone-edition/"><u>[New] 2024 Approved Smart Tips for GIF Lovers IPhone Edition</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-in-2024-how-to-avoid-common-mistakes-in-nighttime-photography/"><u>[New] In 2024, How to Avoid Common Mistakes in Nighttime Photography</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-the-ultimate-collection-of-favorite-ig-after-effects-plugins/"><u>[New] In 2024, The Ultimate Collection of Favorite IG After Effects Plugins</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/1-top-bargains-at-best-buy-in-june-2024-exclusive-offers-unveiled-insights-from-zdnet/"><u>1. Top Bargains at Best Buy in June 2024: Exclusive Offers Unveiled - Insights From ZDNet</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/adding-your-californian-drivers-license-to-digital-wallets-step-by-step-tutorial-for-apple-and-google-services-zdnet-insights/"><u>Adding Your Californian Driver's License to Digital Wallets: Step-by-Step Tutorial for Apple & Google Services | ZDNET Insights</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/apples-innovative-vision-introducing-camera-equipped-airpods-expected-in-2026-insights/"><u>Apple's Innovative Vision: Introducing Camera-Equipped AirPods Expected in 2026 - Insights</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/ausdom-m06-wireless-headphones-review-solid-connectivity/"><u>Ausdom M06 Wireless Headphones Review: Solid Connectivity</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/how-does-the-new-iphone-14-stack-up-a-balanced-review-by-tech-experts-at-zdnet/"><u>How Does the New iPhone 14 Stack Up? A Balanced Review by Tech Experts at ZDNET</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-10-best-fake-gps-location-spoofers-for-htc-u23-pro-drfone-by-drfone-virtual-android/"><u>In 2024, 10 Best Fake GPS Location Spoofers for HTC U23 Pro | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-hacks-to-do-pokemon-go-trainer-battles-for-infinix-hot-40i-drfone-by-drfone-virtual-android/"><u>In 2024, Hacks to do pokemon go trainer battles For Infinix Hot 40i | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/iphone-is-disabled-here-is-the-way-to-unlock-disabled-iphone-6s-plus-by-drfone-ios/"><u>iPhone Is Disabled? Here Is The Way To Unlock Disabled iPhone 6s Plus</u></a></li>
+<li><a href="https://techtrends.techidaily.com/organized-anime-enthusiasts-dream-dragon-ball-order-viewing-guide/"><u>Organized Anime Enthusiast's Dream: Dragon Ball Order Viewing Guide</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/pre-order-apple-vision-pro-now-launching-in-store-on-feb-2-exciting-news-from-zdnet/"><u>Pre-Order Apple Vision Pro Now! Launching In-Store on Feb 2 - Exciting News From ZDNet</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/ultimate-comparison-samsung-galaxy-book-2-in-1-ultra-versus-the-apple-macbook-pro-for-elite-performance-insights-from-tech-experts-at-zdnet/"><u>Ultimate Comparison: Samsung Galaxy Book 2-in-1 Ultra Versus the Apple MacBook Pro for Elite Performance - Insights From Tech Experts at ZDNet</u></a></li>
 </ul></div>
 

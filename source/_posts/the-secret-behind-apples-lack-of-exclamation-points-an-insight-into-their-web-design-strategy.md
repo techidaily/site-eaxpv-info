@@ -1,7 +1,7 @@
 ---
 title: "The Secret Behind Apple's Lack of Exclamation Points: An Insight Into Their Web Design Strategy"
-date: 2024-12-06T17:22:39.487Z
-updated: 2024-12-07T17:43:19.485Z
+date: 2024-12-22T17:36:51.496Z
+updated: 2024-12-28T16:03:56.296Z
 tags:
   - apple
 categories:
@@ -51,7 +51,7 @@ Please, then, let me emphasize one little thing about this alleged genius -- it 
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Explaining the exclaiming
@@ -73,7 +73,7 @@ Yet no need for an exclamation point because, presumably, you already get the po
 But some tech companies still insist that their wares deserve some sort of exclamatory explanatory. It's a truly interesting phenomenon.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The big startup exclamatory experiment
@@ -133,7 +133,7 @@ Screenshot by Chris Matyszczyk/ZDNET
 Oh!
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The majority knows it's serious
@@ -155,7 +155,7 @@ I'm sure the management is excited about its product. I'm sure the product offer
 I'm equally sure that the lack of an exclamation point makes the products seem more, well, serious and important.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Sell, don't shout
@@ -212,18 +212,20 @@ It worked for Apple. (I'm not sure the opposite worked quite so well for Yahoo!)
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-much-income-arises-from-each-snapshot-video/"><u>[New] 2024 Approved How Much Income Arises From Each Snapshot (Video)</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-trim-youtube-videos-like-a-pro/"><u>[New] 2024 Approved How to Trim YouTube Videos Like a Pro</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-financial-flourishing-yielding-higher-returns-with-mobile-youtube-content-for-2024/"><u>[New] Financial Flourishing Yielding Higher Returns with Mobile YouTube Content for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-harmonize-your-imovie-projects-with-youtubes-melodies-for-2024/"><u>[New] Harmonize Your iMovie Projects With YouTube's Melodies for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-fast-track-video-scaling-for-perfect-mac-display/"><u>[New] In 2024, Fast-Track Video Scaling for Perfect Mac Display</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-10plus-must-use-free-youtube-intro-maker-sites/"><u>[Updated] 2024 Approved 10+ Must-Use Free YouTube Intro Maker Sites</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-elevate-your-video-presentation-with-these-7-free-makers-for-2024/"><u>[Updated] Elevate Your Video Presentation with These 7 Free Makers for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-from-frame-to-firm-selecting-your-mcn-partner-for-2024/"><u>[Updated] From Frame to Firm Selecting Your MCN Partner for 2024</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-the-leading-edge-in-online-advertising-fb-insights-for-2024/"><u>[Updated] The Leading Edge in Online Advertising FB Insights for 2024</u></a></li>
-<li><a href="https://techidaily.com/how-to-hard-reset-lava-yuva-2-without-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Hard Reset Lava Yuva 2 Without Password | Dr.fone</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/24-smile-and-watch-your-guide-to-the-top-15-funny-youtubers/"><u>In 2024, Smile and Watch Your Guide to the Top 15 Funny YouTubers</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/stream-to-success-obs-youtube-broadcast-basics/"><u>Stream to Success OBS Youtube Broadcast Basics</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/wonderfox-dvdmovmkv/"><u>WonderFox DVD変換プロマニュアル：MOVをMKVに転記するテクニック</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-guide-to-amplifying-your-video-presence-with-seo-tips/"><u>[New] 2024 Approved Guide to Amplifying Your Video Presence with SEO Tips</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-hone-your-livestream-skills-on-youtubes-premier-platform/"><u>[New] 2024 Approved Hone Your Livestream Skills on YouTube's Premier Platform</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-outsmart-youtube-sanctions/"><u>[New] 2024 Approved How to Outsmart Youtube Sanctions</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-sculpt-perfect-images-on-youtube-with-right-dimensions/"><u>[New] 2024 Approved How to Sculpt Perfect Images on YouTube with Right Dimensions</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-budget-devices-superior-obs-setup-guide-for-2024/"><u>[New] Budget Devices - Superior OBS Setup Guide for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-enhancing-your-multimedia-interaction-with-vlc-mac-for-2024/"><u>[New] Enhancing Your Multimedia Interaction with VLC (Mac) for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-from-frames-to-fun-youtube-gifs-creation-made-simple-for-2024/"><u>[New] From Frames to Fun YouTube GIFs Creation Made Simple for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-capturing-attention-the-power-of-these-top-10-tags/"><u>[New] In 2024, Capturing Attention The Power of These Top 10 Tags</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-make-youtube-animated-subscribe-button-easily-in-filmora/"><u>[New] In 2024, How to Make YouTube Animated Subscribe Button Easily in Filmora</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-anonymous-story-consumption-navigating-through-instagram-stories-on-desktopmobile-free/"><u>[Updated] Anonymous Story Consumption Navigating Through Instagram Stories on Desktop/Mobile [Free]</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-how-to-make-highlights-on-instagram/"><u>[Updated] In 2024, How to Make Highlights on Instagram</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-here-are-some-of-the-best-pokemon-discord-servers-to-join-on-apple-iphone-13-pro-drfone-by-drfone-virtual-ios/"><u>In 2024, Here are Some of the Best Pokemon Discord Servers to Join On Apple iPhone 13 Pro | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-prank-your-friends-easy-ways-to-fake-and-share-google-maps-location-on-xiaomi-civi-3-drfone-by-drfone-virtual-android/"><u>In 2024, Prank Your Friends! Easy Ways to Fake and Share Google Maps Location On Xiaomi Civi 3 | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reasons-for-vivo-v30-lite-5g-stuck-on-boot-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Vivo V30 Lite 5G Stuck on Boot Screen and Ways To Fix Them | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/top-notch-apps-to-refine-your-iphone-and-android-gopro-videos-for-2024/"><u>Top-Notch Apps to Refine Your iPhone & Android GoPro Videos for 2024</u></a></li>
 </ul></div>
 

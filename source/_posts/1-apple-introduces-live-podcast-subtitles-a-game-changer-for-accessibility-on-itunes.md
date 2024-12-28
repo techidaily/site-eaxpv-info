@@ -1,7 +1,7 @@
 ---
 title: "1. Apple Introduces Live Podcast Subtitles: A Game-Changer for Accessibility on iTunes"
-date: 2024-12-02T21:29:58.229Z
-updated: 2024-12-07T17:51:43.714Z
+date: 2024-12-27T17:36:05.958Z
+updated: 2024-12-28T17:31:52.423Z
 tags:
   - apple
 categories:
@@ -31,7 +31,7 @@ Read on for a look at some of the new accessibility features coming to Apple har
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### New eye-tracking features
@@ -48,12 +48,16 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Apple Music haptics
 
 For those who are deaf or hard of hearing, Apple plans to offer a Taptic Engine feature in Apple Music. When turned on, the feature will use a series of taps, vibrations, and other tactile responses to sync to a song's audio. Apple says the feature will work "across millions of songs in the Apple Music catalog."
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Addressing motion sickness
@@ -65,7 +69,7 @@ Motion sickness in cars can often be the result of a disconnect between what you
 "Using sensors built into iPhone and iPad, Vehicle Motion Cues recognizes when a user is in a moving vehicle and responds accordingly," Apple said. "The feature can be set to show automatically on iPhone, or can be turned on and off in Control Center."
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Understanding speech
@@ -74,10 +78,6 @@ A new feature called Voice Shortcuts will let you "assign custom utterances" tha
 
 Another feature, Listen for Atypical Speech, will use machine learning to understand your speech patterns and your requests on-device, Apple said. The feature "gives users an option for enhancing speech recognition for a wider range of speech," the company said.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### New CarPlay features
 
 Apple's in-car CarPlay software is also getting new accessibility features, including the ability for you to navigate CarPlay and engage with apps using only your voice. A new Sound Recognition feature will display alerts on CarPlay's screen when car horns or sirens go off, and Color Filters will make CarPlay easier to use for colorblind users.
@@ -85,7 +85,7 @@ Apple's in-car CarPlay software is also getting new accessibility features, incl
 **Also: [iOS and Android owners will now be alerted if an unknown tracker is moving with them](https://www.zdnet.com/article/ios-and-android-owners-will-now-be-alerted-if-an-unknown-tracker-is-moving-with-them/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Some other updates
@@ -122,18 +122,22 @@ Beyond those updates, Apple said that it's launching a range of smaller upgrades
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/024-approved-decoding-the-economic-riches-of-mr-beast/"><u>[New] 2024 Approved Decoding the Economic Riches of Mr. Beast</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-passive-watchers-to-profit-youtube-monetization/"><u>[New] 2024 Approved From Passive Watchers To Profit YouTube Monetization</u></a></li>
-<li><a href="https://article-posts.techidaily.com/new-2024-approved-projector-vs-tv-showdown-which-prevails-in-4k-clarity/"><u>[New] 2024 Approved Projector vs TV Showdown Which Prevails in 4K Clarity?</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-groan-inducing-humor-in-hits-for-2024/"><u>[New] Groan-Inducing Humor in Hits for 2024</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-the-definitive-handbook-to-reacting-on-youtube-tweets/"><u>[New] The Definitive Handbook to Reacting on YouTube Tweets</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-a-deep-dive-into-irecorder-tech/"><u>[Updated] 2024 Approved A Deep Dive Into iRecorder Tech</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-top-12-affordable-high-quality-video-apps-recommended-for-pc-and-android-devices/"><u>[Updated] 2024 Approved Top 12 Affordable, High-Quality Video Apps Recommended for PC & Android Devices</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-ftp-to-feed-the-complete-guide-to-uploading-to-youtube/"><u>[Updated] In 2024, From FTP to Feed The Complete Guide to Uploading to YouTube</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-novice-to-vlogger-your-guide-to-creating-a-youtube-chanel/"><u>[Updated] In 2024, From Novice to Vlogger Your Guide to Creating a YouTube Chanel</u></a></li>
-<li><a href="https://fox-that.techidaily.com/12-ways-to-fix-an-iphone-flashlight-that-isnt-working/"><u>12 Ways to Fix an iPhone Flashlight That Isn’t Working</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-a-step-by-step-guide-to-finding-your-apple-id-on-your-apple-iphone-12-by-drfone-ios/"><u>In 2024, A Step-by-Step Guide to Finding Your Apple ID On Your Apple iPhone 12</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-fix-oem-unlock-missing-on-realme-gt-neo-5-by-drfone-android/"><u>In 2024, How To Fix OEM Unlock Missing on Realme GT Neo 5?</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/new-in-2024-blur-your-video-for-free-no-software-required/"><u>New In 2024, Blur Your Video for Free No Software Required</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-harnessing-the-power-of-filmora-for-youtube-video-promotions/"><u>[New] 2024 Approved Harnessing the Power of Filmora for YouTube Video Promotions</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-filming-to-fame-discovering-the-top-10-ladies-on-youtube/"><u>[New] In 2024, From Filming to Fame Discovering the Top 10 Ladies on YouTube</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-maximizing-revenue-how-to-monetize-youtube-channel-on-mobile/"><u>[New] In 2024, Maximizing Revenue How to Monetize YouTube Channel on Mobile</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-fortnite-thumbnail-blitz-a-30-second-guide/"><u>[Updated] 2024 Approved Fortnite Thumbnail Blitz A 30-Second Guide</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-selfie-to-sensation-vloggers-choice-of-top-9-camera-accessories/"><u>[Updated] 2024 Approved From Selfie to Sensation Vloggers' Choice of Top 9 Camera Accessories</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-fresh-alternative-films-to-dive-into-7-favorites/"><u>[Updated] In 2024, Fresh Alternative Films to Dive Into, #7 Favorites</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-effortlessly-eradicate-unwanted-youtube-feedback/"><u>[Updated] In 2024, How to Effortlessly Eradicate Unwanted YouTube Feedback</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-upload-your-music-to-youtube/"><u>[Updated] In 2024, How to Upload Your Music to YouTube</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-the-prime-listening-guide-to-youtube-standards/"><u>[Updated] The Prime Listening Guide to YouTube Standards</u></a></li>
+<li><a href="https://location-fake.techidaily.com/11-best-location-changers-for-tecno-camon-20-drfone-by-drfone-virtual-android/"><u>11 Best Location Changers for Tecno Camon 20 | Dr.fone</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-expert-advice-youtube-to-mpeg-compression-guide/"><u>2024 Approved Expert Advice YouTube to MPEG Compression Guide</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/ai-security-alert-unpacking-the-workings-and-dangers-of-prompt-injection-attacks/"><u>AI Security Alert: Unpacking the Workings & Dangers of Prompt Injection Attacks</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-oppo-a2-mirror-screen-to-pc-drfone-by-drfone-android/"><u>In 2024, How Oppo A2 Mirror Screen to PC? | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-list-of-pokemon-go-joysticks-on-oneplus-ace-2v-drfone-by-drfone-virtual-android/"><u>In 2024, List of Pokémon Go Joysticks On OnePlus Ace 2V | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723000108719-instant-fixes-for-your-division-2-crash-woes-a-step-by-step-guide/"><u>Instant Fixes for Your Division 2 Crash Woes - A Step-by-Step Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-guide-correcting-bad-image-glitches-in-modern-windows-os/"><u>Step-by-Step Guide: Correcting 'Bad Image' Glitches in Modern Windows OS</u></a></li>
+<li><a href="https://howto.techidaily.com/top-4-android-system-repair-software-for-lava-blaze-pro-5g-bricked-devices-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 4 Android System Repair Software for Lava Blaze Pro 5G Bricked Devices | Dr.fone</u></a></li>
 </ul></div>
 

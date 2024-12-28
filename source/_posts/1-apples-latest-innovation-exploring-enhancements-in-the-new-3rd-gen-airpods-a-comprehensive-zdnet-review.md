@@ -1,7 +1,7 @@
 ---
 title: "1. Apple's Latest Innovation: Exploring Enhancements in the New 3Rd Gen AirPods - A Comprehensive ZDNet Review"
-date: 2024-12-20T19:35:10.283Z
-updated: 2024-12-23T00:14:57.535Z
+date: 2024-12-25T16:50:37.266Z
+updated: 2024-12-28T17:04:44.981Z
 tags:
   - apple
 categories:
@@ -22,10 +22,6 @@ During [WWDC](https://www.zdnet.com/article/apple-wwdc-2024-recap-every-new-feat
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What is Apple Intelligence?
 
 Apple
@@ -39,6 +35,10 @@ While we weren't expecting the company to unveil a slew of [flashy generative AI
 Apple was expected to focus on incorporating AI into its apps to simplify users' daily tasks, categorizing such AI features under the name "Apple Intelligence." We didn't miss the wordplay.
 
 Apple Intelligence focuses on broad-appeal AI features rather than advanced image and video generation. To do this, the company developed in-house AI models and partnered with OpenAI to power a chatbot that will integrate [ChatGPT](https://www.zdnet.com/article/what-is-chatgpt-and-why-does-it-matter-heres-everything-you-need-to-know/) into iOS, iPadOS, and MacOS.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What does Apple Intelligence do?
 
@@ -59,6 +59,10 @@ Aside from these AI features, iOS 18 will include new customizable icons and int
 
 **Also: [Forget LastPass: Apple unveils 'Passwords' manager app at WWDC 2024](https://www.zdnet.com/article/forget-lastpass-apple-unveils-passwords-manager-app-at-wwdc-2024/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Is Siri getting an Apple Intelligence makeover?
 
 Apple
@@ -75,10 +79,6 @@ The voice assistant will also be able to perform hundreds of new actions across 
 
 Apple is also upgrading Siri to understand text, allowing users to type or speak to Siri as needed. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What's new in Apple's photo editing & search?
 
 Apple
@@ -90,10 +90,6 @@ Like the Google Pixel's Magic Eraser, Apple is giving its devices a new, AI-powe
 Apple is adding natural language photo and video search to its Photos app. This will let users enter a prompt to search for a picture, video, or even a segment of a video. Users can say, "Find a photo of that starfish we found at the beach last summer," and have their iPhone pull up a photo without having to scroll through thousands of photos to find the one.
 
 In Photos, users will also be able to give a text prompt to create Memory videos. These will be compilations of videos and photos following a description, with music suggestions from Apple Music. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How does systemwide AI text generation work?
 
@@ -108,7 +104,7 @@ The same feature can help users make major edits to text, such as changing the t
 Apple devices will also get AI upgrades for recordings and transcriptions in Voice Memos and Phone, as users can quickly transcribe voice notes with AI.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What is Image Playground?
@@ -134,6 +130,10 @@ When users make a Siri request that the voice assistant determines would be bett
 **Also: [Apple finally gave us the iPad app we've waited 14 years for at WWDC 2024](https://www.zdnet.com/article/apple-finally-gave-us-the-ipad-app-weve-waited-14-years-for-at-wwdc-2024/)**
 
 Apple says its ChatGPT integration has privacy protections in place, with obscured IP addresses and no request storage by OpenAI. ChatGPT on iPhone, iPad, and Mac will be free to use, provided the device is compatible with the latest operating system. [Paying ChatGPT users](https://www.zdnet.com/article/chatgpt-vs-chatgpt-plus-is-a-paid-subscription-still-worth-it/) will get access to additional Plus features.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Will Apple Intelligence be processed on-device or in the cloud?
 
@@ -167,7 +167,7 @@ The company is striving to keep the AI features secure through several mechanism
 * **Ability to opt out:** Perhaps most importantly, users can opt-in for Apple Intelligence features, which will be introduced as beta versions as Apple works to improve its AI capabilities over time.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What are the technical requirements for Apple Intelligence?
@@ -210,17 +210,24 @@ While these AI features may help drive sales of new iPhones and Macs, as a curre
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-exploring-successful-strategies-to-elevate-audience-numbers-on-youtube-shorts-for-2024/"><u>[New] Exploring Successful Strategies to Elevate Audience Numbers on YouTube Shorts for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-achieve-impact-innovative-imovie-techniques-for-youtube-startups/"><u>[New] In 2024, Achieve Impact Innovative iMovie Techniques for YouTube Startups</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-the-ultimate-directory-of-freely-licensed-sound-sources/"><u>[New] The Ultimate Directory of Freely Licensed Sound Sources</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/new-visualize-your-vision-embrace-win11s-movie-maker-capabilities/"><u>[New] Visualize Your Vision Embrace Win11's Movie Maker Capabilities</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-a-streamlined-system-for-scrutinizing-youtube-subscriber-profits-3-step-guide/"><u>[Updated] 2024 Approved A Streamlined System for Scrutinizing YouTube Subscriber Profits 3-Step Guide</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-easy-and-inexpensive-techniques-for-youtube-cards/"><u>[Updated] 2024 Approved Easy and Inexpensive Techniques for YouTube Cards</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-effortless-free-extraction-of-youtube-desktops-for-2024/"><u>[Updated] Effortless Free Extraction of YouTube Desktops for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-the-ultimate-playbook-youtube-gaming-success/"><u>[Updated] The Ultimate Playbook YouTube Gaming Success</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-additional-tips-about-sinnoh-stone-for-vivo-x100-drfone-by-drfone-virtual-android/"><u>In 2024, Additional Tips About Sinnoh Stone For Vivo X100 | Dr.fone</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-is-gsm-flasher-adb-legit-full-review-to-bypass-your-ztefrp-lock-by-drfone-android/"><u>In 2024, Is GSM Flasher ADB Legit? Full Review To Bypass Your ZTEFRP Lock</u></a></li>
-<li><a href="https://discover-guides.techidaily.com/optimierte-datensicherungsstrategie-mit-dem-wbadmin-tool-in-microsoft-windows-systemen/"><u>Optimierte Datensicherungsstrategie Mit Dem WBAdmin Tool in Microsoft Windows Systemen</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/updated-2024-approved-ditch-pinnacle-studio-top-mac-video-editing-software-you-need-to-know/"><u>Updated 2024 Approved Ditch Pinnacle Studio Top Mac Video Editing Software You Need to Know</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-mastering-lenovo-screenshots-in-minutes-for-2024/"><u>[New] Mastering Lenovo Screenshots in Minutes for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-2024-approved-apowersoft-picks-the-ultimate-pc-screen-capture-solution/"><u>[Updated] 2024 Approved Apowersoft Picks The Ultimate PC Screen Capture Solution</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-innovative-approaches-to-achieve-stunning-gopro-time-lapse/"><u>[Updated] 2024 Approved Innovative Approaches to Achieve Stunning GoPro Time Lapse</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-reimagining-action-recording-with-intova-edge-x/"><u>[Updated] 2024 Approved Reimagining Action Recording with Intova Edge X</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-immersive-entertainment-showdown-google-cardboard-and-samsung-gear/"><u>[Updated] Immersive Entertainment Showdown Google Cardboard & Samsung Gear</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-fabricate-funny-images-on-giphy/"><u>2024 Approved Fabricate Funny Images on Giphy</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-premium-screen-snapshot-tool-for-android-all-ages/"><u>2024 Approved Premium Screen Snapshot Tool for Android, All Ages</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/como-playar-mp4-file-en-un-browser-con-conversion-al-formato-webm/"><u>Como Playar Mp4 File en Un Browser Con Conversión Al Formato WebM</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/conversion-gratuit-de-fichiers-ogg-vers-flac-avec-movavi-faitez-le-vous-meme/"><u>Conversion Gratuit De Fichiers OGG Vers FLAC Avec Movavi - Faitez-Le Vous Même !</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/descargar-e-instalar-el-mejor-conversor-de-video-free-online-convertir-mkv-a-mpeg-con-moviemkv/"><u>Descargar E Instalar El Mejor Conversor De Video Free Online: Convertir MKV a MPEG Con MovieMKV</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/elevate-professionalism-in-resume-crafting-chatgpt-techniques/"><u>Elevate Professionalism in Resume Crafting (ChatGPT Techniques)</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/24-the-blueprint-to-establishing-a-distinctive-marketing-persona/"><u>In 2024, The Blueprint to Establishing a Distinctive Marketing Persona</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/mettre-votre-photo-en-ligne-gratuitement-convertissez-vos-images-au-format-mpe-avec-movavi/"><u>Mettre Votre Photo en Ligne Gratuitement: Convertissez Vos Images Au Format MPE Avec Movavi</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/step-by-step-guide-convert-wma-audio-to-wav-using-a-no-cost-tool/"><u>Step-by-Step Guide: Convert WMA Audio to WAV Using a No-Cost Tool</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/top-final-cut-pro-x-alternatives-on-pc-best-options-for-windows-users/"><u>Top Final Cut Pro X Alternatives on PC: Best Options for Windows Users</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/transformez-gratuitement-vos-audios-m4r-a-laide-de-moveaveer-en-versions-compatibles-web/"><u>Transformez Gratuitement Vos Audios .m4r À L'aide De Moveaveer en Versions Compatibles Web</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/transformez-vos-fichiers-ogg-en-mp3-en-ligne-sans-frais-movavi/"><u>Transformez Vos Fichiers OGG en MP3 en Ligne Sans Frais - Movavi</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unveiling-the-secrets-behind-my-budget-friendly-surface-pro-ebyte-valuable-lessons-from-a-windows-specialist-zdnet/"><u>Unveiling the Secrets Behind My Budget-Friendly Surface Pro Ebyte: Valuable Lessons From a Windows Specialist | ZDNET</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/m4vvob/"><u>オンラインでのただ今、完全無償でM4V/VOBフォーマットを変換: ムヴァビ - 手軽に動画コンバート!</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Expert Analysis: IPhone 15 Unveiled - Top Picks for Seasoned Tech Enthusiasts | ZDNet"
-date: 2024-12-04T23:39:24.666Z
-updated: 2024-12-07T20:20:58.645Z
+date: 2024-12-27T17:41:52.619Z
+updated: 2024-12-28T17:51:12.180Z
 tags:
   - apple
 categories:
@@ -39,10 +39,6 @@ _This review was originally published on May 22, 2023, and was updated on Septem
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## ZDNET's buying advice
 
 Months of testing have proved that Apple's standard [iPhone 15 and iPhone 15 Plus](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-iphone%2Fiphone-15%3F&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) bear more "Pro" features than ever before, including a Dynamic Island for more seamless multitasking, a 48MP camera system that -- when paired with the A16 Bionic chip -- consistently produces eye-catching imagery, and a new satin-finished design that left me with no envy for more expensive iPhone models.
@@ -50,7 +46,7 @@ Months of testing have proved that Apple's standard [iPhone 15 and iPhone 15 Plu
 If you don't see yourself shooting videos in ProRAW, requiring the extra Action button, or drooling over the 5X zoom camera on the [iPhone 15 Pro Max](https://www.zdnet.com/article/iphone-15-pro-review/), you'll be plenty comfortable with the $799 iPhone 15 and $899 iPhone 15 Plus. Between the two, buy the former if you want one of the most compact (yet capable) handsets on the market, and buy the latter if you want a more affordable big-screen iPhone and the best battery life of all the models in the latest lineup.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Specifications
@@ -68,15 +64,15 @@ If you don't see yourself shooting videos in ProRAW, requiring the extra Action 
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How I tested the iPhone 15 and iPhone 15 Plus
 
 Whenever I review [the latest iPhones](https://www.zdnet.com/article/best-iphone/), I spend a few weeks testing them, but this time, I went longer. I spent about half of the year using both units. I had my Mint Mobile eSIM installed on the smaller iPhone 15 for the first three months and then transferred to the iPhone 15 Plus for the other half. A good part of my long-term evaluation process includes testing cellular connectivity (read: using the devices in crowded areas, on top of buildings, in subways, and more), day-to-day performance, and taking more photos than a standard free subscription to iCloud can contain.
 
 The difference between the two latest iPhone handsets mainly boils down to display size and battery life; unlike the Pro models, there's no camera hardware discrepancy, which means the general user experience of the two is pleasantly similar. That made my life as a phone reviewer a little easier -- and makes the list below all the more applicable to both iPhone models.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What are the iPhone 15's best features?
 
@@ -133,7 +129,7 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Should I upgrade from my older iPhone?
@@ -163,12 +159,16 @@ Is this Apple's way of splitting up the non-Pro and Pro models? Probably. I don'
 **An Action button:** Given how many iPhone 14 Pro features Apple carried over to the iPhone 15, I have my fingers crossed that Apple will replace the alert slider with the Action button this year. Over the course of testing the latest iPhones, I've used the alert slider less than a dozen times. An Action button would give the iPhone much more functionality.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Final thought
 
 It's easy to call the standard iPhone model the "Best iPhone for most people." That's been the case since Apple introduced a Pro variant with the iPhone 11 series, and still holds true with the [iPhone 15](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-iphone%2Fiphone-15&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp). Only now, I'm finding myself recommending the non-Pro iPhone to more users than ever before, including folks I've known to be more demanding of their tech. Apple's made just enough feature upgrades (and a few compromises that may be imperceivable to some) to help the latest iPhone model stand out, even when stacked against the generation before it.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Alternatives to consider
 
@@ -204,17 +204,20 @@ It's easy to call the standard iPhone model the "Best iPhone for most people." T
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-facebooks-most-popular-video-gems-uncovered/"><u>[New] 2024 Approved Facebook's Most Popular Video Gems Uncovered</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-script-to-screenplay-expert-video-editing-insights/"><u>[New] 2024 Approved From Script to Screenplay Expert Video Editing Insights</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-first-steps-in-youtube-tech-a-comprehensive-list-for-2024/"><u>[New] First Steps in YouTube Tech A Comprehensive List for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-novice-to-pro-youtube-gamers-broadcasting-journey/"><u>[New] In 2024, From Novice to Pro YouTube Gamers' Broadcasting Journey</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-trim-youtube-videos-like-a-pro/"><u>[New] In 2024, How to Trim YouTube Videos Like a Pro</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-roundabout-viewpoint-versus-threefold-imaging/"><u>[New] Roundabout Viewpoint Versus Threefold Imaging</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-step-by-step-guide-to-personalize-and-change-video-covers-on-facebook/"><u>[Updated] 2024 Approved Step-by-Step Guide to Personalize and Change Video Covers on Facebook</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-from-couch-to-camera-earning-through-personal-vlogging-for-2024/"><u>[Updated] From Couch-to-Camera Earning Through Personal Vlogging for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-in-2024-embrace-xps-film-editor-installation-guide/"><u>[Updated] In 2024, Embrace XP's Film Editor Installation Guide</u></a></li>
-<li><a href="https://article-posts.techidaily.com/2024-approved-breathing-life-into-images-mastering-face-motion-blur-in-picsart/"><u>2024 Approved Breathing Life Into Images Mastering Face Motion Blur in Picsart</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-the-updated-method-to-bypass-poco-c55-frp-by-drfone-android/"><u>In 2024, The Updated Method to Bypass Poco C55 FRP</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/new-2024-approved-best-free-online-montage-track-collections/"><u>New 2024 Approved Best Free Online Montage Track Collections</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-youtube-to-insta-a-video-posting-guide/"><u>[New] 2024 Approved From YouTube to Insta A Video Posting Guide</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-hyper-clear-playtime-best-ultra-hd-hdmi-21-gaming-screens/"><u>[New] In 2024, Hyper-Clear Playtime Best Ultra HD (HDMI 2.1) Gaming Screens</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-craft-engaging-trailers-that-drive-channels-sales/"><u>[Updated] 2024 Approved How to Craft Engaging Trailers that Drive Channels' Sales</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-create-engaging-visual-hooks-a-guide-to-video-thumbnail-making/"><u>[Updated] 2024 Approved How to Create Engaging Visual Hooks A Guide to Video Thumbnail Making</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-charting-a-course-through-yts-creative-space-for-2024/"><u>[Updated] Charting a Course Through YT's Creative Space for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-finding-the-central-node-of-youtube-video-management-for-2024/"><u>[Updated] Finding the Central Node of YouTube Video Management for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-full-vision-media-the-smart-mcn-selection-process-for-2024/"><u>[Updated] Full Vision Media The Smart MCN Selection Process for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-first-to-last-your-guide-to-youtube-video-looping-101/"><u>[Updated] In 2024, From First to Last Your Guide to YouTube Video Looping 101</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-future-earning-potential-in-gaming-videos/"><u>[Updated] In 2024, Future Earning Potential in Gaming Videos</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-in-2024-the-ultimate-guide-to-stellar-tiktok-content-through-template-utilization/"><u>[Updated] In 2024, The Ultimate Guide to Stellar TikTok Content Through Template Utilization</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/deciphering-the-disparity-between-echo-pop-and-echo-dot-devices/"><u>Deciphering the Disparity Between Echo Pop and Echo Dot Devices</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/enhancing-pc-speaker-volume-a-guide-for-windows-users/"><u>Enhancing PC Speaker Volume: A Guide for Windows Users</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-app-not-available-in-your-country-play-store-problem-on-honor-magic-v2-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix App Not Available in Your Country Play Store Problem on Honor Magic V2 | Dr.fone</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/in-2024-a-compreenas-guide-to-leveraging-ps-background-erasure-for-professional-results/"><u>In 2024, A Compreenas Guide to Leveraging PS Background Erasure for Professional Results</u></a></li>
+<li><a href="https://games-able.techidaily.com/unwired-playtime-explore-idle-games/"><u>Unwired Playtime: Explore Idle Games</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Discover the Latest Innovations! Uncover New Developments in iPhone, iPad, and Mac Tech Including Artificial Intelligence Coming This Fall as Reported by ZDNET
-date: 2024-12-18T01:51:01.196Z
-updated: 2024-12-22T19:17:30.994Z
+date: 2024-12-23T16:57:55.495Z
+updated: 2024-12-28T16:34:05.167Z
 tags:
   - apple
 categories:
@@ -38,6 +38,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Apple Intelligence (AI)
 
 Maria Diaz/ZDNET
@@ -68,10 +72,6 @@ Jason Hiner/ZDNET
 * Users can access ChatGPT via this integration for free, and OpenAI will not log their data. ChatGPT Plus users can connect their subscriptions to access more advanced features, in which case OpenAI's data usage policies apply.
 * The ChatGPT integration will be coming to iOS 18, iPadOS 18, and MacOS Sequoia later this year.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## iOS 18
 
 Adam Breeden/ZDNET
@@ -90,6 +90,10 @@ Adam Breeden/ZDNET
 * The **Safari app** was upgraded to include key information about a webpage. You can read more about the Safari upgrades under the MacOS section of this article.
 * The **Calendar app** can now pull from the Reminders app for a more seamless schedule overview.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## WatchOS 11
 
 Adam Breeden/ZDNET
@@ -104,10 +108,6 @@ Adam Breeden/ZDNET
 * **Check In** is available on Apple Watch, even during workouts, to help users stay safe. **Translate** is also coming to Apple Watch so users can translate text right from their wrists.
 * Another notable change is that the **double tap gesture** can be used to scroll through apps.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## iPadOS 18
 
 Adam Breeden/ZDNET
@@ -119,7 +119,7 @@ Adam Breeden/ZDNET
 * iPadOS 18 supports **screen-sharing via SharePlay** and the same Control Center customizations, Photos app upgrades, Safari updates, and emoji Tapbacks found in **iOS 18.**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## MacOS 15 (Sequoia)
@@ -132,6 +132,10 @@ Adam Breeden/ZDNET
 * **Video meetings** are also getting an upgrade, with new backgrounds and a preview experience that allows you to see what you are about to share before sharing it. This feature works with popular video conferencing applications such as FaceTime and Zoom.
 * The **AI summarization** tool will live in Safari to help users process content like web pages and articles more efficiently. Safari will also assist users in discovering more helpful information about a page they are browsing when relevant, such as directions.
 * Apple also launched a new **Viewer experience**, which does for video what Reader does for text.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## VisionOS 2
 
@@ -150,10 +154,6 @@ Jason Hiner/ZDNET
 * Users can **cast content** from their iPhone, iPad, or Mac to the Vision Pro using AirPlay.
 * Apple is also making the Vision Pro available in more countries starting June 28\. You can see the full list [here](https://www.apple.com/newsroom/2024/06/apple-vision-pro-arrives-in-new-countries-and-regions-beginning-june-28/).
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## AirPods
 
 Jason Hiner/ZDNET
@@ -163,7 +163,7 @@ Jason Hiner/ZDNET
 * Apple is also releasing a **Personalized Spatial Audio API** for game developers to build around the AirPods' audio technology.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## tvOS 18
@@ -210,18 +210,20 @@ Screenshot by Nina Raemont/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-how-to-add-timestamps-youtube-video-for-2024/"><u>[New] How to Add Timestamps YouTube Video for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-how-to-captivate-audience-attention-with-your-yt-shorts-for-2024/"><u>[New] How to Captivate Audience Attention with Your YT Shorts for 2024</u></a></li>
-<li><a href="https://article-tips.techidaily.com/new-in-2024-a-review-10-most-effective-methods-for-live-cricket-streaming/"><u>[New] In 2024, A Review 10 Most Effective Methods for Live Cricket Streaming</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-the-alchemy-of-animation-in-snapchat-videos/"><u>[New] In 2024, The Alchemy of Animation in Snapchat Videos</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-essential-tips-for-smooth-youtube-content-trimming/"><u>[Updated] In 2024, Essential Tips for Smooth YouTube Content Trimming</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-navigate-to-sites-where-you-can-procure-sponsorships-on-youtube/"><u>[Updated] Navigate to Sites Where You Can Procure Sponsorships on Youtube</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-revolutionizing-viewer-retention-on-youtube-with-these-powerful-strategies/"><u>[Updated] Revolutionizing Viewer Retention on YouTube with These Powerful Strategies</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-snap-and-share-pcmac-video-recording-for-youtube/"><u>[Updated] Snap & Share PC/Mac Video Recording for YouTube</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/cixin-p1-china-unveils-high-performance-45-teraops-ai-chip-meeting-industry-standards-begins-rollout/"><u>Cixin P1: China Unveils High-Performance, 45 TeraOps AI Chip Meeting Industry Standards – Begins Rollout</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/elevate-your-media-projects-the-cutting-edge-montage-tools-of-today-for-2024/"><u>Elevate Your Media Projects The Cutting-Edge Montage Tools of Today for 2024</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-use-device-manager-to-update-your-drivers-in-windows-10-and-7-by-drivereasy-guide/"><u>How to use Device Manager to update your drivers in Windows 10 and 7</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-evolution-of-language-models-introducing-palm-2-by-google/"><u>The Evolution of Language Models: Introducing PaLM 2 by Google</u></a></li>
-<li><a href="https://win-blog.techidaily.com/troubleshooting-steps-to-stop-assassins-creed-odyssey-from-freezing-2024-edition/"><u>Troubleshooting Steps to Stop Assassin's Creed Odyssey From Freezing: 2024 Edition</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/024-approved-globes-biggest-video-content-mogul/"><u>[New] 2024 Approved Globe’s Biggest Video Content Mogul</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-advanced-guide-to-using-luts-for-professional-image-editors/"><u>2024 Approved Advanced Guide to Using LUTs for Professional Image Editors</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-record-gameplay-with-obs-studio/"><u>2024 Approved Record Gameplay with OBS Studio</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/convertidor-rapido-de-imagenes-cr2-a-jpeg-metodo-sencillo-y-eficiente/"><u>Convertidor Rápido De Imágenes CR2 a JPEG: Método Sencillo Y Eficiente</u></a></li>
+<li><a href="https://android-frp.techidaily.com/easy-guide-to-samsung-galaxy-s23-tactical-edition-frp-bypass-with-best-methods-by-drfone-android/"><u>Easy Guide to Samsung Galaxy S23 Tactical Edition FRP Bypass With Best Methods</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/free-online-converter-transform-avi-files-into-high-quality-flac-audio/"><u>Free Online Converter: Transform AVI Files Into High-Quality FLAC Audio</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/gratis-online-swf-to-avi-konvertierung-mit-movavi/"><u>Gratis Online SWF to AVI Konvertierung - Mit Movavi</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/1726227175474-h264-h264/"><u>H.264 코덱 소개: 이해를 깊이 어울리기 위한 H264 형식, 영상 파일 열기 및 재생에 대한 지침</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-change-spotify-location-after-moving-to-another-country-on-apple-iphone-14-pro-drfone-by-drfone-virtual-ios/"><u>How to Change Spotify Location After Moving to Another Country On Apple iPhone 14 Pro | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-change-country-on-app-store-for-apple-iphone-7-with-7-methods-by-drfone-ios/"><u>In 2024, How To Change Country on App Store for Apple iPhone 7 With 7 Methods</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/mastering-track-trimming-techniques-for-different-environments-internet-personal-computer-smartphone/"><u>Mastering Track Trimming Techniques for Different Environments: Internet, Personal Computer, Smartphone</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/movavimovvob/"><u>Movaviで簡単にフリーオンラインMOV/VOBコンバート - 家計簿</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/1728482892657-page-unavailable-http-404-error-encountered/"><u>Page Unavailable – HTTP 404 Error Encountered</u></a></li>
+<li><a href="https://video-capture.techidaily.com/the-future-of-wireless-connectivity-asus-zenwifi-xt8-ax6600-rigorously-tested-and-reviewed/"><u>The Future of Wireless Connectivity: ASUS ZenWiFi XT8 (AX6600) Rigorously Tested and Reviewed</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/ts-files-to-vob-format-fast-and-easy-conversion-at-no-cost/"><u>TS Files to VOB Format: Fast & Easy Conversion at No Cost</u></a></li>
 </ul></div>
 

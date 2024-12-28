@@ -1,7 +1,7 @@
 ---
 title: "Master Your iPad: Insider Tips & Key Settings Every Apple User Should Understand - ZDNet Explore"
-date: 2024-12-20T01:23:02.335Z
-updated: 2024-12-22T22:28:55.122Z
+date: 2024-12-21T17:44:41.087Z
+updated: 2024-12-28T16:12:16.661Z
 tags:
   - apple
 categories:
@@ -36,6 +36,10 @@ In iPadOS 17, Apple added the ability to customize your iPad's lock screen, and 
 
 **How to:** Wake up your iPad, unlock it, then press and hold on the lock screen. If you've used an iPhone in the past, you know exactly what to do next. Tap the "Customize" button and begin tweaking the lock screen to your liking.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Configure your focus settings
 
 I kid you not: The Focus settings that Apple rolled out a few years ago might be some of my most-used settings of all time. For those unfamiliar, Focus modes are basically fancy Do Not Disturb profiles that can be enabled manually, automatically at a certain time of day, or even when you travel somewhere. They allow you to control which notifications you see, who can contact you, and more. It's helpful when you want certain notifications while at work and others while you're relaxing at home. 
@@ -55,7 +59,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 **How to**: Go to Settings > Focus on your iPad, and you'll find various options to set up a Focus mode for work, personal, fitness, mindfulness, and more. The interface will guide you through setting up your notification settings, which contacts can ping you, and more. Plus, once you've set it up, it'll sync automatically with your iPhone, Apple Watch, and Mac.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Turn on Stage Manager when you need more multitasking chops
@@ -70,6 +74,10 @@ You can customize the size of the window, bring up secondary apps in the same vi
 
 **How to**: Swipe down on the top-right corner to access Control Center, then tap the Stage Manager button to activate it (it looks like a rectangle with three smaller rectangles next to it). Alternatively, you can go to Settings > Multitasking & Gestures and turn on Stage Manager from there. When you're done using it, you can choose either option to turn it off.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4\. Save your eyes at night with Night Shift
 
 Yes, I realize this setting doesn't _actually_ protect your eyesight in the long run, nor is it a life-changing hack that everyone should use. But Night Shift on the iPad does make staring at your screen a bit easier when it's dark out, especially if you have to spend a lot of time staring at a text field (like me). I've felt less eye strain while using the setting at night; it helps to relax my mind a bit since all the colors are much warmer. It's worth giving a shot if you like to use your iPad at night.
@@ -77,6 +85,10 @@ Yes, I realize this setting doesn't _actually_ protect your eyesight in the long
 **Also:** [**What iPad Pro's Tandem OLED tells us about future device screens**](https://www.zdnet.com/article/what-ipad-pros-tandem-oled-tells-us-about-future-device-screens/)
 
 **How to**: Head to Settings > Display & Brightness > Night Shift. From there, you can manually turn it on, schedule it to turn on during certain times, and adjust how warm you want your display to turn.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Low Power Mode can quickly become your best friend
 
@@ -88,19 +100,11 @@ That's where Low Power Mode comes in. With Low Power Mode, your iPad will limit 
 
 **How to**: Swipe down from the top right corner to access Control Center, then tap the battery button to enable it. Your battery meter will then turn yellow, indicating that Low Power Mode is on. To disable it, follow the same steps.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 6\. Hide your notifications from prying eyes
 
 Sometimes, you just want to keep the contents of your iPad's notifications to yourself, whether for work reasons or if you're planning a surprise party for someone and they see the email confirming the delivery of their birthday cake. On the iPad, it's easy to lock away your notifications and only make them visible once you've used your fingerprint or face to log in.
 
 **How to**: Go to Settings > Notifications > Show Previews and change it from "Always" to "When Unlocked."
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 7\. Split or float your keyboard
 
@@ -117,7 +121,7 @@ If that's your bag, you can also shrink your keyboard and have it float on top o
 **How to float**: Open an app where the keyboard will pop up. Then, take two fingers and pinch the keyboard. This will cause it to shrink to iPhone-size. You can then drag it around the screen by touching and holding the gray bar on the bottom. When you want it to return to its normal size, just pinch outward on the keyboard.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 8\. Make sure your screen is refreshing as fast as possible
@@ -127,10 +131,6 @@ Every iPad Pro since 2018 has supported what Apple calls ProMotion, which increa
 Of course, while the feature is enabled out of the box, there's always a chance you aren't taking advantage of it on your iPad Pro, and I wouldn't be doing my due diligence if I didn't ask you to check the setting.
 
 **How to**: Head over to Settings > Accessibility > Motion and ensure that "Limit Refresh Rate" _isn't_ enabled. If it is, your iPad's screen will remain locked to 60Hz, and who even uses 60Hz screens anymore?
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 9\. Tweak the Control Center
 
@@ -180,21 +180,24 @@ Using the TrueDepth cameras, Attention Awareness can keep tabs on when you're lo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-boosting-youtube-traffic-perfecting-titles-and-tags-for-max-views/"><u>[New] In 2024, Boosting YouTube Traffic Perfecting Titles & Tags for Max Views</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-unveiling-the-best-10-video-call-apps-for-iphone-and-android-users/"><u>[New] In 2024, Unveiling the Best 10 Video Call Apps for iPhone and Android Users</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/new-seamless-cuts-with-m1-the-future-of-video-editing-unveiled-for-2024/"><u>[New] Seamless Cuts with M1 The Future of Video Editing Unveiled for 2024</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-unveiling-the-secrets-to-effective-macbook-air-screen-capture/"><u>[Updated] 2024 Approved Unveiling the Secrets to Effective MacBook Air Screen Capture</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-an-in-depth-look-at-video-apps-for-iphone-and-android-users-for-2024/"><u>[Updated] An In-Depth Look at Video Apps for iPhone & Android Users for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-crafting-intriguing-youtube-intros-without-spending-for-2024/"><u>[Updated] Crafting Intriguing YouTube Intros Without Spending for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-effortless-music-extraction-choose-the-right-apps-for-youtube-and-mp3/"><u>[Updated] In 2024, Effortless Music Extraction Choose the Right Apps for YouTube & MP3</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/2024-approved-youtubes-top-5-apps-that-trim-your-long-video-links-down/"><u>2024 Approved Youtube’s Top 5 Apps That Trim Your Long Video Links Down</u></a></li>
-<li><a href="https://dvd-bd.techidaily.com/4k-720p1080p/"><u>免費提供的最好4K影片转换工具 - 可高清转720P/1080P和相反</u></a></li>
-<li><a href="https://solve-helper.techidaily.com/cookiebot-driven-solutions-enhance-your-websites-engagement/"><u>Cookiebot-Driven Solutions Enhance Your Website's Engagement</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/1722711118624-gather-primary-and-secondary-data/"><u>Gather Primary and Secondary Data:</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-bypass-android-lock-screen-using-emergency-call-on-motorola-by-drfone-android/"><u>In 2024, How to Bypass Android Lock Screen Using Emergency Call On Motorola?</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-to-use-pokemon-go-joystick-on-honor-x50iplus-drfone-by-drfone-virtual-android/"><u>In 2024, How to use Pokemon Go Joystick on Honor X50i+? | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-photos-from-honor-play-7t-by-fonelab-android-recover-photos/"><u>Possible solutions to restore deleted photos from Honor Play 7T.</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/tactics-to-expose-youtubes-well-guarded-videotapes-for-2024/"><u>Tactics to Expose YouTube's Well-Guarded Videotapes for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/top-4-free-tools-for-youtube-audio-conversion-to-wav-for-2024/"><u>Top 4 Free Tools for YouTube Audio Conversion to WAV for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-how-to-post-youtube-videos-as-instagram-stories/"><u>[New] 2024 Approved How to Post YouTube Videos as Instagram Stories</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-snapchat-screen-recording-via-mobile-devices-a-guide/"><u>[New] In 2024, Snapchat Screen Recording via Mobile Devices A Guide</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-2024-approved-sizzling-skills-7-keys-for-scrumptious-video-cooking/"><u>[Updated] 2024 Approved Sizzling Skills 7 Keys for Scrumptious Video Cooking</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/vobwav-movavi/"><u>特定非営利目的でVOBからWAVへ -無料オンラインコンバーター：Movavi</u></a></li>
+<li><a href="https://win-community.techidaily.com/accelerating-pc-management-how-to-swiftly-open-the-control-panel-in-windows-10-with-yl-computing-techniques/"><u>Accelerating PC Management: How to Swiftly Open the Control Panel in Windows 10 with YL Computing Techniques</u></a></li>
+<li><a href="https://fox-that.techidaily.com/airpod-lost-11-methods-to-retrieve-them-through-apples-find-my-service/"><u>AirPod Lost? 11 Methods to Retrieve Them Through Apple's Find My Service</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-messages-files-on-realme-narzo-60x-5g-by-fonelab-android-recover-messages/"><u>Complete guide for recovering messages files on Realme Narzo 60x 5G</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/convertis-gratuits-de-fichier-mpeg-a-fichier-flash-flv-en-ligne-movavi/"><u>Convertis Gratuits De Fichier MPEG À Fichier Flash (FLV) en Ligne - Movavi</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/descargar-la-herramienta-gratuita-para-cambiar-de-mp4-a-wmv-online-sin-problemas/"><u>Descargar La Herramienta Gratuita Para Cambiar De MP4 a WMV Online Sin Problemas</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/easily-turn-videos-right-side-up-on-android-phones-with-movavi-clips-complete-tutorial/"><u>Easily Turn Videos Right Side Up on Android Phones with Movavi Clips - Complete Tutorial</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-on-xiaomi-13t-pro-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location on Xiaomi 13T Pro | Dr.fone</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/i-piu-efficienti-e-gratuiti-convertitori-multimediali-video-per-mac-selezione-del-mese-a-settembre-202n/"><u>I Più Efficienti E Gratuiti Convertitori Multimediali Video per Mac: Selezione Del Mese a Settembre 202N</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-sonic-sequencing-for-improved-imovie-projects/"><u>In 2024, Sonic Sequencing for Improved iMovie Projects</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-the-6-best-sim-unlock-services-that-actually-work-on-your-vivo-device-by-drfone-android/"><u>In 2024, The 6 Best SIM Unlock Services That Actually Work On Your Vivo Device</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/movavis-ultimate-picks-the-best-sites-to-download-your-favorite-tv-shows-top-8/"><u>Movavi's Ultimate Picks: The Best Sites to Download Your Favorite TV Shows (Top 8)</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/ritrasforma-i-tuoi-file-audio-gsm-gratuitamente-online-con-la-tecnologia-avanzata-della-conversione-da-gsm-a-mp3-di-movavi/"><u>Ritrasforma I Tuoi File Audio GSM Gratuitamente Online Con La Tecnologia Avanzata Della Conversione Da GSM a MP3 Di Movavi</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/the-ultimate-guide-to-enhancing-reels-with-harmonious-tunes/"><u>The Ultimate Guide to Enhancing Reels with Harmonious Tunes</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/top-12-mp4-recording-devices-ideal-choices-compatible-with-all-your-gadgets-by-movavi/"><u>Top 12 MP4 Recording Devices: Ideal Choices Compatible with All Your Gadgets by Movavi</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/transformez-votre-fichier-voc-en-mp3-sans-frais-avec-notre-solution-en-ligne-simple-et-efficace/"><u>Transformez Votre Fichier VOC en MP3 Sans Frais Avec Notre Solution en Ligne Simple Et Efficace!</u></a></li>
 </ul></div>
 

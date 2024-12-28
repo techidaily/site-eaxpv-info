@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting iPhone's Drained Battery Post-iOS 17.5.1 Update: 7 Essential Fixes for Longer Life | TechSavvy"
-date: 2024-12-22T00:35:40.174Z
-updated: 2024-12-22T21:57:33.011Z
+date: 2024-12-27T17:11:15.476Z
+updated: 2024-12-28T17:33:55.043Z
 tags:
   - apple
 categories:
@@ -31,7 +31,7 @@ If you want to follow along, you'll need to install the iOS 18 public beta on an
 ## How to customize your iPhone's new Control Center with iOS 18
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Access Control Center
@@ -39,10 +39,6 @@ If you want to follow along, you'll need to install the iOS 18 public beta on an
 To display Control Center, swipe down from the top-right corner of the screen. You'll notice that Control Center is now separated into three different screens. The first screen displays the core controls, the second screen shows the audio player and related settings, and the third has connectivity options. Swipe up or down to move from one screen to another, or tap one of the three icons on the right to jump to a specific one.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Move the available controls
 
@@ -53,7 +49,7 @@ Screenshot by Lance Whitney/ZDNET
 **Also: [Every iPhone model that can be updated to Apple's iOS 18 (and which ones can't)](https://www.zdnet.com/article/every-iphone-model-that-can-be-updated-to-apples-ios-18-and-which-ones-cant/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Resize a control
@@ -63,7 +59,7 @@ After tapping the plus icon, some controls sport a gray curved handle in the low
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Delete a control
@@ -73,7 +69,7 @@ Next, you can directly delete a control you don't need or want. With the icons i
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Add a control to an existing screen
@@ -83,6 +79,10 @@ You can easily add a control to any screen that has available space. Pick a scre
 Screenshot by Lance Whitney/ZDNET
 
 **Also: [I did not expect this iOS 18 feature announced at WWDC to be my favorite (and it's not AI)](https://www.zdnet.com/article/i-did-not-expect-this-ios-18-feature-announced-at-wwdc-to-be-my-favorite-and-its-not-ai/)**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. Add a control to a new screen
 
@@ -126,19 +126,17 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/pex-chart-analyst-master-video-popularity/"><u>[New] Apex Chart Analyst Master Video Popularity</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-unlocking-every-participants-placement-in-google-meet/"><u>[Updated] 2024 Approved Unlocking Every Participant’s Placement in Google Meet</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/windowsmacios/"><u>穩固移動攝像機錄製的運行方法：Windows、Mac、安卓和iOS</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/apples-intriguing-gaming-update-unveiling-the-mysterious-new-game-mode/"><u>Apple's Intriguing Gaming Update: Unveiling the Mysterious New Game Mode</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/comprehensive-solutions-why-isnt-my-discord-push-to-talk-functioning-properly/"><u>Comprehensive Solutions: Why Isn't My Discord Push-to-Talk Functioning Properly?</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/crafting-irresistible-profile-videos/"><u>Crafting Irresistible Profile Videos</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/dive-into-gaming-tecno-x-geekoms-liquid-cooled-case-with-intel-core-i9-and-nvidia-rtx-gpu/"><u>Dive Into Gaming: Tecno X Geekom's Liquid-Cooled Case with Intel Core I9 & NVIDIA RTX GPU</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/entry-level-gamers-rejoice-discover-the-1629-asus-rog-nuc-with-powerful-core-ultra-cpu-and-rtx-gpu/"><u>Entry-Level Gamers Rejoice: Discover the $1,629 Asus ROG NUC with Powerful Core Ultra CPU and RTX GPU!</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/expert-review-how-the-eufy-t8200-video-doorbell-works-without-membership-costs/"><u>Expert Review: How the Eufy T8200 Video Doorbell Works Without Membership Costs</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-revive-your-bricked-honor-x50-in-minutes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Revive Your Bricked Honor X50 in Minutes | Dr.fone</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/24-the-ultimate-guide-to-swift-youtube-discussion-management/"><u>In 2024, The Ultimate Guide to Swift Youtube Discussion Management</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-unlocking-sims-4-memories-key-methods-to-document-gameplay-success/"><u>In 2024, Unlocking Sims 4 Memories Key Methods to Document Gameplay Success</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/quick-fix-solutions-resolving-issues-with-non-loading-minecraft-gameplay/"><u>Quick-Fix Solutions: Resolving Issues with Non-Loading Minecraft Gameplay</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/troubleshooting-guide-for-persistent-rocket-league-crashes-2024-edition/"><u>Troubleshooting Guide for Persistent Rocket League Crashes - 2024 Edition</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-bridging-music-sections-advanced-audacity-techniques/"><u>[New] In 2024, Bridging Music Sections Advanced Audacity Techniques</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-zoom-basics-for-non-experts-setting-up-your-first-meeting/"><u>[New] Zoom Basics for Non-Experts Setting Up Your First Meeting</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/2023s-premier-apple-application-lineup-reviewed-by-zdnet-the-ultimate-selection/"><u>2023'S Premier Apple Application Lineup Reviewed by ZDNet: The Ultimate Selection</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-repair-a-corrupt-bios-memory-and-eliminate-cmos-checksum-mistakes/"><u>How to Repair a Corrupt BIOS Memory and Eliminate CMOS Checksum Mistakes</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-best-free-mov-file-joining-solutions/"><u>In 2024, Best Free MOV File Joining Solutions</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/navigating-hurdles-in-conversation-with-chatgpt-remedies-to-prevalent-problems/"><u>Navigating Hurdles in Conversation with ChatGPT: Remedies to Prevalent Problems</u></a></li>
+<li><a href="https://facebook.techidaily.com/streamline-your-feed-top-10-fb-app-tweaks-for-users/"><u>Streamline Your Feed: Top 10 FB App Tweaks for Users</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/the-allure-of-the-new-ipad-air-discover-4-undeniable-reasons-from-apple-that-make-it-worth-your-attention-zdnet/"><u>The Allure of the New iPad Air: Discover 4 Undeniable Reasons From Apple that Make It Worth Your Attention | ZDNET</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/tips-and-tricks-for-setting-up-your-itel-a70-phone-pattern-lock-by-drfone-android/"><u>Tips and Tricks for Setting Up your Itel A70 Phone Pattern Lock</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/top-10-microsoft-enterprise-solutions-for-ios-2022-best-picks-by-zdnet/"><u>Top 10 Microsoft Enterprise Solutions for iOS - 2022 Best Picks by ZDNet</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/top-rated-mini-tablets-comprehensive-reviews-and-performance-testing-by-tech-experts/"><u>Top Rated Mini Tablets : Comprehensive Reviews & Performance Testing by Tech Experts</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-high-tech-secrets-at-toms-gear-and-hardware-insights/"><u>Unveiling High-Tech Secrets at Tom's Gear & Hardware Insights</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  Finding the Balance  Adding Videos to Text on a Budget\""
-date: 2024-08-20T13:04:40.363Z
-updated: 2024-08-21T13:04:40.363Z
+date: 2024-12-27T17:13:07.963Z
+updated: 2024-12-28T16:30:02.729Z
 tags:
   - ai video
   - ai youtube
@@ -38,42 +38,42 @@ You should start by creating a new slide and adding a textbox to it. Proceed to 
 
 Head over to the Insert tab, select Rectangle from the Shapes menu, and create a rectangular shape over the entire slide. Right-click on the slide and choose the Send to Back option from the menu. In this manner, you will position the rectangle you created behind the textbox.
 
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Add video to text - Powerpoint- insert shape](https://images.wondershare.com/filmora/article-images/insert-rectangle-shape.jpg)
 
 The next step you will have to take is to create the cut-out of the text within the rectangle. Select both the text and shape you placed in the background before clicking on the Format tab that is located near the end of PowerPoint’s ribbon.
 
 Find the Insert Shape option and choose Subtract from the Merge Shapes drop-down menu. The shape of the text in the textbox will be applied to the object in the background, which enables you to add a video to that text.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Add video to text - Powerpoint- substract](https://images.wondershare.com/filmora/article-images/subtract-from-merge-shapes.jpg)
 
 Click on the Insert tab, and then choose the Video option from the Media menu. You can [insert a video](https://tools.techidaily.com/wondershare/filmora/download/) that is stored on a local hard drive or the Internet to PowerPoint. The video will cover the entire slide, so you must right-click on it and select the Send to Back option.
 
 You can then fine-tune the video playback settings from the Playback tab. Preview the results before you move on to the next slide in your presentation, and make necessary adjustments if you don’t like how the video merged with the text.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 2: Adding Video to Text in Filmora
 
 Besides presentation software, you can also use video editing software products to add a video to text. Filmora lets you add a video to text in just a few simple steps. You can first make a text video with animation first, and then use the picture in picture feature to add the video to text. Here are the detailed information about how to add a video to text in Filmora.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 [![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 You should start by creating a new project in Filmora and importing the video you want to add to the text into the project. Click on the Titles tab, and choose the title that matches the visual style of your project.
 
 ![Add video to text - Filmora9](https://images.wondershare.com/filmora/article-images/add-title-effects.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Set the preferred duration of the title by dragging one of its ends to the left or right after you place it on the timeline, and then double-click on it to customize it. Click on the Advanced button once the Text tab opens and insert the text into the Input Text box.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Add video to text - Filmora9 Advanced Editing](https://images.wondershare.com/filmora/article-images/make-text-video-advanced-text-edit.jpg)
 
 Proceed to select a font and adjust the text size before deciding if you want to [animate the text](https://tools.techidaily.com/wondershare/filmora/download/). When done, you should export the title as a video file, and then import it back into your project.
@@ -81,6 +81,10 @@ Proceed to select a font and adjust the text size before deciding if you want to
 Now it’s time to add the text video and the background video to the project media library, and then place the two videos one above the other. Since we’re adding video to text, the text video should be placed above the background video.
 
 ![Add video to text - Filmora9 Compositing](https://images.wondershare.com/filmora/article-images/compositing-video-9.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Click on the video that contains text to gain access to the Video tab of the Editor panel and then expand the Compositing menu. Change the Blending Mode to Multiply, and the text in the overlaying video should be filled with the parts of the footage from the video below it.
 
@@ -92,9 +96,6 @@ There are so many different ways to create visually striking content, and adding
 
 Merging text with video is equally easy in PowerPoint and Filmora, so you just have to choose which software better suits your needs and select the materials that fit the style of your project. Learning how to add a video to text won’t take too much of your time, as this process can be completed in just a few quick steps. Which software are you using to add a video to text? Leave a comment below and let us know.
 
-<!-- affiliate ads begin -->
-
-<!-- affiliate ads end -->
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
 
 Liza Brown
@@ -102,7 +103,6 @@ Liza Brown
 Liza Brown is a writer and a lover of all things video.
 
 Follow @Liza Brown
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -124,6 +124,10 @@ _“Every accomplishment starts with a decision to try.”_ – A Vintage Though
 
 ![Vintage Videos](https://images.wondershare.com/filmora/article-images/vintage-videos.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Vintage videos** are ultimately the retro videos you have ever imagined. The look is highly inspirational in itself. The vintage effect in photography and videos results in a must-see look that everyone wants to capture all day long. The meaning of vintage is 'the time when something of quality was produced.' When something is called retro, it means old, recognized, and essential. Vintage also resembles love apart from videos and photos. All in all, it's a positive and result-oriented thing to carry on in your videos. And this is what we want to mention in this post relating to the creation of vintage videos.
 
 Here are some [vintage-style video ideas](https://tools.techidaily.com/wondershare/filmora/download/) for you to have a look at.
@@ -132,9 +136,6 @@ Here are some [vintage-style video ideas](https://tools.techidaily.com/wondersha
 * [Part 2: How to Create a Stunning Vintage Video?](#part2)
 * [Part 3: Tips to Make Your Vintage Videos Stand Out](#part3)
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## What to Consider When Shooting a Vintage Video?
 
 Vintage videos are kind of old school vibes and must be shooting accordingly by keeping in mind the following points. These are a sort of expert tips given by photographers based on their practical experience. First of all, you have to understand that a video can be made vintage, but you can't change the actual environment of shooting. Some editing always involves there in every project out there. Still, the tips given below will help you a lot in creating a retro look.
@@ -158,6 +159,10 @@ Lots of black points in the video are not ideal for a vintage effect. The suitab
 #### Reduce Saturation levels
 
 Bringing down the saturation levels is another tip to create a vintage effect. The old videos are also absent in bright colors. Don't go too crazy about reduction as 20%-30% saturation level is more than enough.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Create a Stunning Vintage Video?
 
@@ -185,14 +190,19 @@ The second step is to apply the Black & White filters. Go to the **Effects** tab
 
 **Step 3:** Add the Sun Kissed or Sepia Tone Rise Filters to the video clip
 
-<!-- affiliate ads begin -->
-<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Vintage Videos](https://images.wondershare.com/filmora/article-images/vintage-videos-3.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 There are various other categories of filters you can apply, such as Retro, Sun Kissed, and Sepia Tone, etc. The features of Filmora also present several subcategories such as Faux Film or Shake.
 
 ![Vintage Videos](https://images.wondershare.com/filmora/article-images/vintage-videos-4.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 On the other hand, the subcategory of Sepia Tone features Sun-Kissed & Rise Filters to stimulate sepia-tinted texture and recreate the old visual style. The Sun Kissed filter presents brown and red colors to give that warm image atmosphere.
 
@@ -202,9 +212,6 @@ On the other hand, the subcategory of Sepia Tone features Sun-Kissed & Rise Filt
 
 Now, you need to desaturate the video clip with Ash & Willow filters. We have typed Ash in the Search bar, and you can see the filter below. These filters are essential to desaturate the video with preset contrast, brightness, or exposure values.
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Vintage Videos](https://images.wondershare.com/filmora/article-images/vintage-videos-6.png)
 
 Then, we have combined the black & white filter with an overlay of Film Reel Horizontal. It will help you sell the effect and make the video look more authentic. However, the only application of Black & White or Ash & Willow filters is not going to make any creative thing in terms of vintage videos. You have to mix overlays with features such as Random Dust or Film Reel Horizontal.
@@ -213,14 +220,8 @@ Then, we have combined the black & white filter with an overlay of Film Reel Hor
 
 You can also access the Advanced color correction Tab of Filmora from the Color button. It also features Preset and Adjusts Tabs to desaturate footage. The Preset presents a variety of options, including Black & White and Old Film. You just need to right-click the particular preset and select the Apply option.
 
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Vintage Videos](https://images.wondershare.com/filmora/article-images/filmora9-advance-color-correction.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Tips to Make Your Vintage Videos Stand Out
 
 Following the helpful tips would assist you in creating awesome retro videos.
@@ -231,6 +232,10 @@ Following the helpful tips would assist you in creating awesome retro videos.
 * Add overlays and respective filters to recreate a required vintage look. You must add things that dust, scratch, and grain the heck out from the video that you have created.
 * Lower the frame rate or FPS to create an excellent vintage look. You can make it to 18 or 14 FPS depending upon the aesthetic requirements.
 * Keep an eye on black and white filters you have used. It's because more of a black and white can ruin the actual vintage experience.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Conclusion
 
@@ -246,7 +251,6 @@ Richard Bennett is a writer and a lover of all things video.
 
 Follow @Richard Bennett
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -254,8 +258,21 @@ Follow @Richard Bennett
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-glue.techidaily.com/new-capturing-impactful-voice-top-tips-for-podcasting-interviews-on-idevices-for-2024/"><u>[New] Capturing Impactful Voice Top Tips for Podcasting Interviews on iDevices for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-building-on-your-content-a-guide-to-stellar-videography-closures/"><u>[Updated] 2024 Approved Building on Your Content A Guide to Stellar Videography Closures</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-capture-every-moment-top-budget-friendly-cam-recorders-for-2024/"><u>[Updated] Capture Every Moment Top Budget-Friendly Cam Recorders for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-handsonguide-to-yourwebcamrecord/"><u>2024 Approved HandsOnGuide to YourWebcamRecord</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/m4vmkv-movavi/"><u>不付錢，在线直接将M4V转换成MKV - 使用Movavi 工具快速切換</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/ai-powered-video-enhancement-scaling-stabilizing-converting-and-editing-advanced-video-and-image-improvement/"><u>AI-Powered Video Enhancement: Scaling, Stabilizing, Converting & Editing - Advanced Video and Image Improvement</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/bypass-dvd-region-locking-on-your-windows-computer-convert-dvds-without-restrictions-on-win-1087/"><u>Bypass DVD Region Locking on Your Windows Computer - Convert DVDs Without Restrictions on Win 10/8/7</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/create-professional-quality-dvds-with-winx-dvd-author-top-rated-free-software-for-windows-11-users/"><u>Create Professional-Quality DVDs with WinX DVD Author: Top-Rated Free Software for Windows 11 Users</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-reset-your-xiaomi-redmi-12-lock-screen-password-by-drfone-android/"><u>How to Reset your Xiaomi Redmi 12 Lock Screen Password</u></a></li>
+<li><a href="https://driver-download.techidaily.com/how-to-update-your-brother-mfc-j480dw-printer-drivers-on-windows-systems/"><u>How to Update Your Brother MFC-J480DW Printer Drivers on Windows Systems</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-pokemon-go-cooldown-chart-on-nokia-c22-drfone-by-drfone-virtual-android/"><u>In 2024, Pokémon Go Cooldown Chart On Nokia C22 | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-snap-spectacularly-with-top-10-sticker-enhancing-phone-apps/"><u>In 2024, Snap Spectacularly with Top 10 Sticker-Enhancing Phone Apps</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/licencia-final-del-usuario-para-software-digiart-en-windows-xdvd-acuerdo/"><u>Licencia Final Del Usuario Para Software DigiArt en Windows XDVD - Acuerdo</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/winxvideo-intellienhancer-amplifica-la-calidad-de-tus-imagenes-y-videos-con-edicion-avanzada-estabilizacion-perfecta-conversion-eficiente-y-grabacion-profes150/"><u>Winxvideo IntelliEnhancer: Amplifica La Calidad De Tus Imágenes Y Videos Con Edición Avanzada, Estabilización Perfecta, Conversión Eficiente Y Grabación Profesional</u></a></li>
+</ul></div>
 

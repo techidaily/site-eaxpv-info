@@ -1,7 +1,7 @@
 ---
 title: "Insider's Picks: Which Smartphones Do Our Editors Really Rely On? Analysis"
-date: 2024-12-03T18:31:48.669Z
-updated: 2024-12-07T17:42:17.428Z
+date: 2024-12-23T16:35:34.022Z
+updated: 2024-12-28T17:20:44.197Z
 tags:
   - apple
 categories:
@@ -49,7 +49,7 @@ Cons
 ## iPhone 12 Pro
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Jason Cipriani and Simon Bisson
@@ -76,10 +76,6 @@ Cons
 
 ## Samsung Galaxy S21 Ultra
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Steven J. Vaughan-Nichols and Charlie Osborne
 
 **Steven J. Vaughan-Nichols:** My Pixel 3 was starting to show its age, so I decided that since I was going to upgrade my phone, why not go for the gusto and get the top-of-the-line Samsung? So far, I'm glad I did. I love the 6.8-inch 120Hz Quad HD screen. The five cameras backed by a 108MP sensor and 10x optical zoom are insanely good. It also has 5G, which, at this point, isn't really that important on Verizon since I don't live next to a Verizon 5G UWB tower. What does matter to me is that it works well with my Samsung Galaxy Watch 3\. Samsung claimed early on that its watch would work well with other Android phones. It does but it doesn't come with all the health features. My only problem is the price: It lists for $1,199\. I didn't that pay that much, but I still paid a lot.
@@ -104,6 +100,10 @@ Cons
 
 ## iPhone 12 Pro Max
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Matthew Miller
 
 **Matthew Miller:** After a couple years of favoring the smaller iPhone X and XS, I made the leap to the big iPhone 12 Pro Max. As a phone reviewer, I usually move my SIM along every month or so, but it's now been four months with this phone serving as my daily driver, and not even the best Samsung S21 Ultra can knock it from my hands. The built quality is fantastic, the cameras let me capture content to my heart's delight, and regular updates keep it running perfectly for me. The addition of 5G and move to Qualcomm was the icing on the cake that set the bar for all other phones.
@@ -112,7 +112,15 @@ Cons
 
 Show Expert Take Show less 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## iPhone SE (2020)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Greg Nichols, Aimee Chanthadavong, and David Grober
 
@@ -159,13 +167,13 @@ Cons
 * Fast performance New camera features Strong battery life
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## iPhone 11 Pro
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Ed Bott
@@ -177,6 +185,10 @@ Cons
 Show Expert Take Show less 
 
 ## Ulefone Armor 9
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Adrian Kingsley-Hughes
 
@@ -224,10 +236,6 @@ Pros
 Cons 
 * Excellent photo quality Cool color options Long battery life Loud stereo speakers Wireless charging support
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## iPhone XR
 
 ### Damian Radcliffe, Angelica Mari, and Sean Portnoy
@@ -256,15 +264,15 @@ Show Expert Take Show less
 
 ## iPhone X
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Robin Harris
 
 I have a Moment wide-angle lens and case, which gives me the tech I need for landscape photography. There's a lot of landscape where I live, and picturing it never gets old. I keep looking at the newer iPhones each year, but things like a wider lens and low-light performance aren't hot buttons. I haven't used my Canon DSLR in years. 
 
 **Next phone or dream phone?** iPhone 13 or 14 Pro Max. Folding iPhone? I like a big screen as long as it will fit in a shirt pocket, and Moment makes a case for it. Not sure I'd be up for the extra fiddling a folding iPhone would require, but it would likely replace my iPad Mini. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ###   
 
@@ -278,10 +286,6 @@ Cons
 
 ## iPhone XS Max
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Asha Barbaschow
 
 I've always used iPhones. Started with the iPhone 3, and never strayed. I refuse to use a case, so I'm onto phone No. 2 after shattering my first XS Max like a disco ball. The screen size is great. I had the first Max iteration and probably won't ever be able to have a smaller screen again as a result.
@@ -290,14 +294,10 @@ I've always used iPhones. Started with the iPhone 3, and never strayed. I refuse
 
 Show Expert Take Show less 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## iPhone 7 Plus
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Tiernan Ray
@@ -320,10 +320,6 @@ Purchased in 2016, I've had no reason to upgrade in four years. The thing does a
 
 **Next phone or dream phone?** I have no idea. I get overwhelmed by the amount of choice. It'll be an iPhone I guess. I'm used to them.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Lumia 1520
 
 ### Mary Branscombe
@@ -343,6 +339,10 @@ I've been using Samsung's Note 8 for several years now, despite having seen all 
 **Next phone or dream phone?** A 2021 flagship-class phone with an integrated thermal camera. A thermal camera is a great tool for jobs around the house/office and for seeking out wildlife after dark
 
 Show Expert Take Show less 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ###   
 
@@ -376,22 +376,14 @@ Show Expert Take Show less
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-safely-capture-your-favorite-youtube-audio-for-free/"><u>[New] 2024 Approved How to Safely Capture Your Favorite YouTube Audio for Free</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-from-casual-follower-to-dedicated-subscriber-inspirational-journey-for-2024/"><u>[New] From Casual Follower to Dedicated Subscriber Inspirational Journey for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-from-search-patterns-to-screenplay-crafting-videos-from-google-data-for-2024/"><u>[New] From Search Patterns to Screenplay Crafting Videos From Google Data for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-how-much-money-can-you-score-with-youtube-short-videos-for-2024/"><u>[New] How Much Money Can You Score with YouTube Short Videos for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-video-lessons-to-visual-gigs-youtube-videos-converted-seamlessly/"><u>[New] In 2024, From Video Lessons to Visual Gigs YouTube Videos Converted Seamlessly</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-graph-gala-2017-an-illuminated-expedition-into-yt-data/"><u>[New] In 2024, Graph Gala 2017 An Illuminated Expedition Into YT Data</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-guide-to-incorited-visuals-in-text-without-cost/"><u>[Updated] 2024 Approved Guide to Incorited Visuals in Text Without Cost</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-gamified-design-making-your-youtube-banner-unforgettable/"><u>[Updated] In 2024, Gamified Design Making Your YouTube Banner Unforgettable</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/2024-approved-esports-news-and-analysis-from-top-vloggers/"><u>2024 Approved Esports News and Analysis From Top Vloggers</u></a></li>
-<li><a href="https://extra-information.techidaily.com/exclusive-insights-into-windows-superior-video-players/"><u>Exclusive Insights Into Window's Superior Video Players</u></a></li>
-<li><a href="https://win-answers.techidaily.com/fix-how-to-resolve-msi-afterburners-failure-to-recognize-your-graphics-card-in-windows-11/"><u>Fix: How to Resolve MSI Afterburner's Failure to Recognize Your Graphics Card in Windows 11</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-check-if-your-oneplus-ace-2-is-unlocked-by-drfone-android/"><u>In 2024, How To Check if Your OnePlus Ace 2 Is Unlocked</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-mastering-selective-sharpening-photo-editing-techniques/"><u>In 2024, Mastering Selective Sharpening Photo Editing Techniques</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/in-2024-unlocking-potential-the-best-non-vimeo-editors-listed/"><u>In 2024, Unlocking Potential The Best Non-Vimeo Editors Listed</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/kickstart-your-ai-journey-with-insights-from-9-community-guides/"><u>Kickstart Your AI Journey with Insights From 9 Community Guides</u></a></li>
-<li><a href="https://discover-cloud.techidaily.com/the-ultimate-guide-to-the-top-5-iphone-photography-management-tools/"><u>The Ultimate Guide to the Top 5 iPhone Photography Management Tools</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-recover-deleted-pictures-on-nokia-c12-without-backup-by-fonelab-android-recover-pictures/"><u>The way to recover deleted pictures on Nokia C12 without backup.</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-from-airwaves-to-iphone-essential-knowledge-on-podcast-downloads/"><u>[New] From Airwaves to iPhone Essential Knowledge on Podcast Downloads</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-funding-fantasies-or-fiscal-facts-for-2024/"><u>[New] Funding Fantasies or Fiscal Facts for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-break-through-bot-barriers-rising-from-the-crowd/"><u>[New] In 2024, Break Through Bot Barriers Rising From the Crowd</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-windows-best-calling-solutions-7-1-ranked-for-2024/"><u>[New] Windows' Best Calling Solutions, #7-#1 Ranked for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-free-youtube-earning-predictors-for-2024/"><u>[Updated] Free YouTube Earning Predictors for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-hourly-hitlist-the-leading-youtube-videos-by-watch-time-for-2024/"><u>[Updated] Hourly Hitlist The Leading YouTube Videos by Watch Time for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-expert-insights-into-youtube-thumbnail-design/"><u>[Updated] In 2024, Expert Insights Into YouTube Thumbnail Design</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-find-happiness-in-everyday-life-via-youtubes-anime-hubs/"><u>[Updated] In 2024, Find Happiness in Everyday Life via YouTube's Anime Hubs</u></a></li>
+<li><a href="https://fox-info.techidaily.com/advanced-techniques-sending-subtitles-to-instagram-linkedin/"><u>Advanced Techniques Sending Subtitles to Instagram, LinkedIn</u></a></li>
 </ul></div>
 

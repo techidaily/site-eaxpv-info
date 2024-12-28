@@ -1,7 +1,7 @@
 ---
 title: "Download IOS 18: Complete Guide to Installation & Compatible iPhone Models - Detailed Tutorial by ZDNET"
-date: 2024-12-02T17:54:20.506Z
-updated: 2024-12-07T21:13:58.049Z
+date: 2024-12-23T17:27:46.271Z
+updated: 2024-12-28T17:20:12.098Z
 tags:
   - apple
 categories:
@@ -27,7 +27,7 @@ While the official iOS 18 general release is today, users have already been able
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to install iOS 18
@@ -35,6 +35,10 @@ While the official iOS 18 general release is today, users have already been able
 Jason Hiner/ZDNET
 
 **What you need:** An iPhone running iOS 16.5 or later. Since not all iPhones are compatible with iOS 18, you'll also need a model [newer than the iPhone X](https://www.zdnet.com/article/best-iphone/).
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 1\. Go to General in your iPhone Settings
 
@@ -49,7 +53,7 @@ Within General, tap on Software Update. This will show you if the iOS 18 update 
 When you tap on Software Update, your iPhone will check for the latest version of iOS available. Then, you'll be able to Download and Install the new update. Your iPhone will begin the download immediately.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Enter your passcode and follow steps to install
@@ -64,15 +68,15 @@ After installing the latest iOS update, your iPhone will restart.
 
 Apple Intelligence, featuring the company's AI tools, will begin to roll out for compatible iPhones over the next few weeks, with more features to join in the coming months. This slew of AI features will be available on the iPhone 16 lineup and the iPhones 15 Pro and Pro Max.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### When was iOS 18 released?
 
 Apple released the iOS 18 developer beta during WWDC 2024 in June, and the public beta version was released on July 15\. The general release of iOS 18 is September 16.
 
 **Also: [The best iOS 18 features that will make updating your iPhone worthwhile](https://www.zdnet.com/article/the-best-ios-18-features-that-will-make-updating-your-iphone-worthwhile/)**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Can you still download the iOS 18 public beta?
 
@@ -83,7 +87,7 @@ You can always be part of the Apple Beta program to get the latest beta versions
 * You should go into the experience to test new features and share feedback to improve iOS, which is why beta versions are released.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### How do I install the iOS 18 beta version?
@@ -96,10 +100,6 @@ You'll need an iPhone running iOS 16.5 or later. Since not all iPhones are compa
 4. Select iOS 18 Public Beta. Then you'll begin receiving automatic software updates to the latest beta version of iOS 18\. Apple currently has four beta versions of iOS: iOS 18 public beta, iOS 18 developer beta, iOS 17 public beta, and iOS 17 developer beta. These four options will soon be reduced to just the two iOS 18 variants. Once you do this, return to the previous page. If an update is available now, your iPhone will prompt you to download and install it.
 
 Screenshot: Maria Diaz/ZDNET
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### How to download the iOS 18 developer beta?
 
@@ -161,15 +161,20 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-script-to-spectacle-independent-effect-innovation/"><u>[New] In 2024, From Script to Spectacle Independent Effect Innovation</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-harmonic-hits-top-rated-dj-template-downloads/"><u>[New] In 2024, Harmonic Hits Top-Rated DJ Template Downloads</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-virtual-playstation-revival-on-android-try-the-5-best-emulators-here/"><u>[New] Virtual PlayStation Revival on Android? Try the 5 Best Emulators Here</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-film-substitutes-to-stream-top-7-picks-for-2024/"><u>[Updated] Film Substitutes to Stream - Top 7 Picks for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-concept-to-screen-channel-yt-for-pioneering-filmmaking-techniques/"><u>[Updated] In 2024, From Concept to Screen Channel YT for Pioneering Filmmaking Techniques</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-cardboard-contrast-google-to-samsung-gear-headset/"><u>2024 Approved Cardboard Contrast Google to Samsung Gear Headset</u></a></li>
-<li><a href="https://os-tips.techidaily.com/comprehensive-analysis-unveiling-the-features-and-capabilities-of-wondershares-dr-fone-data-eraser-for-ios/"><u>Comprehensive Analysis: Unveiling the Features and Capabilities of Wondershare's Dr. Fone Data Eraser for iOS</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/how-to-fix-a-504-gateway-timeout-error/"><u>How to Fix a 504 Gateway Timeout Error</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/money-smart-sports-photography-innovation-on-a-dime-for-2024/"><u>Money-Smart Sports Photography - Innovation on a Dime for 2024</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/overcooked-2-review/"><u>Overcooked! 2 Review</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-2024-approved-exploring-latest-wins-windows-10-enhancements/"><u>[New] 2024 Approved Exploring Latest Wins Windows 10 Enhancements</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-boring-to-buzzing-three-tactics-for-youtube-reaction-mastery/"><u>[New] 2024 Approved From Boring to Buzzing Three Tactics for YouTube Reaction Mastery</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-how-to-skip-the-slip-ups-the-8-must-avoid-mistakes-for-new-youtube-stars-for-2024/"><u>[New] How to Skip the Slip-Ups The 8 Must-Avoid Mistakes for New YouTube Stars for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-much-do-you-earn-when-a-million-watch-youtube/"><u>[New] In 2024, How Much Do You Earn When a Million Watch Youtube?</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-solutions-to-uninterrupted-facebook-live-problems/"><u>[New] In 2024, Solutions to Uninterrupted Facebook Live Problems</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-cutting-edge-methods-for-incorrante-audio-in-videos/"><u>[Updated] 2024 Approved Cutting-Edge Methods for Incorrante Audio in Videos</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-gif-editor-how-to-make-animated-gif-images-online-from-youtube-video/"><u>[Updated] 2024 Approved GIF Editor How to Make Animated GIF Images Online From YouTube Video</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-echoenthusiast-auditory-review-exploration-for-2024/"><u>[Updated] EchoEnthusiast Auditory Review Exploration for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-get-premium-minecraft-channel-graphics-for-2024/"><u>[Updated] Get Premium Minecraft Channel Graphics for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-football-film-breakdown-premier-insights-on-youtube/"><u>[Updated] In 2024, Football Film Breakdown Premier Insights on YouTube</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/a-step-by-step-approach-to-movie-recording-on-multiple-os-for-2024/"><u>A Step-by-Step Approach to Movie Recording on Multiple OS for 2024</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-to-bypass-frp-on-lava-by-drfone-android/"><u>How to Bypass FRP on Lava?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-why-apple-account-disabled-on-your-iphone-8-how-to-fix-by-drfone-ios/"><u>In 2024, Why Apple Account Disabled On your iPhone 8? How to Fix</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ize-engagement-a-comprehensive-thumbnail-guidebook/"><u>Maximize Engagement A Comprehensive Thumbnail Guidebook</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/seamless-webp-to-jpg-conversion-techniques/"><u>Seamless WebP to JPG Conversion Techniques</u></a></li>
 </ul></div>
 

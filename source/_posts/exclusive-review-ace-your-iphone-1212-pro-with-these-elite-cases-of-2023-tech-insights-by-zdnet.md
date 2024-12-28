@@ -1,7 +1,7 @@
 ---
 title: "Exclusive Review: Ace Your iPhone 12/12 Pro with These Elite Cases of 2023 | Tech Insights by ZDNET"
-date: 2024-12-01T19:18:51.308Z
-updated: 2024-12-07T20:15:37.137Z
+date: 2024-12-21T16:00:20.667Z
+updated: 2024-12-28T17:48:38.194Z
 tags:
   - apple
 categories:
@@ -41,11 +41,11 @@ Pros
 Cons 
 * Only available for iPhone 16 Pro models
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Nomad Sport Case
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Best iPhone 16 case overall
 
@@ -74,10 +74,6 @@ Cons
 
 ## Torras 360-degree OStand
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Best kickstand iPhone 16 case
 
 Torras cases have always been a ZDNET favorite: Hiner called the Ostand case for the iPhone 15 "the most versatile and innovative of the bunch." The newest version fit for the iPhone 16 follows in its footsteps. 
@@ -102,14 +98,10 @@ Cons
 * Minimal drop protection
 * Heftier price
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Pitaka Ultra Slim case
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Best thin iPhone 16 case
@@ -137,10 +129,14 @@ Cons
 * Low drop protection
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Smartish Gripmunk case
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Best cheap iPhone 16 case
 
@@ -169,7 +165,7 @@ Cons
 ## Mous Limitless 6.0
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Best protective iPhone 16 case
@@ -197,11 +193,11 @@ Cons
 * Pricier
 * No camera protection
 
-## Incase Icon
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+## Incase Icon
 
 ### Best stylish iPhone 16 case
 
@@ -228,10 +224,6 @@ Pros
 Cons 
 * Not too much protection
 * Pricey for low protection
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Moft Snap Case Movas
 
@@ -261,7 +253,15 @@ Cons
 * Unsure on sustainability
 * Only for Pro models
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Nomad Modern Leather Case
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Best leather case for iPhone 16
 
@@ -276,7 +276,7 @@ That being said, leather is not everybody's thing. But, if you are in the market
 Show Expert Take Show less 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What is the best iPhone 16 case?
@@ -322,13 +322,13 @@ On this list, the Nomad Sport case and the Torras Ostand MagSafe Case are the mo
 
 However, if you stray from the list, the best options are those with a solid bumper and durable material. Before purchasing a case, make sure to check its drop protection and other safety features.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What is the best phone case brand?
 
 Unfortunately, there isn't such a thing as the best phone case brand. Many sources point to Spigen and Otterbox as the most popular phone case brands with the most units sold. That, however, does not necessarily mean they are the best brands. It is ultimately up to you and your lived experience and opinion.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## What case material is best for iPhone?
 
@@ -392,17 +392,19 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-fresh-bgm-leading-lines-in-the-realm-of-yt-shorts-for-2024/"><u>[New] Fresh BGM Leading Lines in the Realm of YT Shorts for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-global-gross-earnings-of-youtube-luminaries-for-2024/"><u>[New] Global Gross Earnings of YouTube Luminaries for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-achieve-excellence-in-google-meet-hostparticipant-at-no-cost/"><u>[Updated] Achieve Excellence in Google Meet (Host/Participant) at No Cost</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-high-quality-cinematography-made-easy-with-ois-technology/"><u>[Updated] High Quality Cinematography Made Easy With OIS Technology</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-make-every-minute-count-for-view-growth-with-youtube-shorts-for-2024/"><u>[Updated] How to Make Every Minute Count for View Growth with YouTube Shorts for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-script-to-screenplay-expert-video-editing-insights/"><u>[Updated] In 2024, From Script to Screenplay Expert Video Editing Insights</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-struggling-youtuber-to-industry-leader-the-hub-of-creator-studios-wisdom/"><u>[Updated] In 2024, From Struggling Youtuber to Industry Leader The Hub of Creator Studio's Wisdom</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/2024-approved-chromatic-choices-discover-the-best-5-screens-today/"><u>2024 Approved Chromatic Choices Discover the Best 5 Screens Today</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/cing-clicks-youtube-thumbnail-sizes-explored/"><u>Enhancing Clicks YouTube Thumbnail Sizes Explored</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/24-the-ultimate-tutorial-for-professional-looking-youtube-channels/"><u>In 2024, The Ultimate Tutorial for Professional-Looking YouTube Channels</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/key-croatian-expressions-for-an-unforgettable-journey-to-croatia/"><u>Key Croatian Expressions for an Unforgettable Journey to Croatia</u></a></li>
-<li><a href="https://fox-that.techidaily.com/resolving-common-iphone-12-glitches-a-complete-guide/"><u>Resolving Common iPhone 12 Glitches: A Complete Guide</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-2024-approved-apply-photo-motion-blur-in-adobe-photoshop/"><u>[New] 2024 Approved Apply Photo Motion Blur in Adobe Photoshop</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-mastering-the-art-of-tagging-instas-top-25-must-use-tags/"><u>[New] 2024 Approved Mastering the Art of Tagging Insta's Top 25 Must-Use Tags</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-frame-it-right-essential-composition-rules-for-youtube-filmmaking/"><u>[Updated] 2024 Approved Frame It Right Essential Composition Rules for YouTube Filmmaking</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-harnessing-youtubes-power-for-profit-mastering-short-video-earnings/"><u>[Updated] 2024 Approved Harnessing YouTube's Power for Profit Mastering Short Video Earnings</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-getting-started-with-pro-level-youtube-tech-for-2024/"><u>[Updated] Getting Started with Pro-Level YouTube Tech for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-create-impactful-online-ads-on-a-limited-budget-for-2024/"><u>[Updated] How to Create Impactful Online Ads on a Limited Budget for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-build-youtube-backlinks-for-your-channel/"><u>[Updated] In 2024, How to Build YouTube Backlinks for Your Channel</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-perfecting-pics-on-pc-our-top-5-snipping-apps-unveiled/"><u>[Updated] Perfecting Pics on PC Our Top 5 Snipping Apps Unveiled</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-mastering-zip-to-srt-transform-subtitled-content-swiftly/"><u>2024 Approved Mastering Zip-to-Srt Transform Subtitled Content Swiftly</u></a></li>
+<li><a href="https://fake-location.techidaily.com/fake-the-location-to-get-around-the-mlb-blackouts-on-motorola-moto-g-stylus-2023-drfone-by-drfone-virtual-android/"><u>Fake the Location to Get Around the MLB Blackouts on Motorola Moto G Stylus (2023) | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/google-pixel-fold-adb-format-tool-for-pc-vs-other-unlocking-tools-which-one-is-the-best-by-drfone-android/"><u>Google Pixel Fold ADB Format Tool for PC vs. Other Unlocking Tools Which One is the Best?</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-a-comprehensive-guide-to-icloud-unlock-from-iphone-x-online-by-drfone-ios/"><u>In 2024, A Comprehensive Guide to iCloud Unlock From iPhone X Online</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/in-2024-leveraging-snapchat-for-professional-networking-and-sales/"><u>In 2024, Leveraging Snapchat for Professional Networking & Sales</u></a></li>
+<li><a href="https://techidaily.com/your-complete-guide-to-reset-oppo-a78-5g-drfone-by-drfone-reset-android-reset-android/"><u>Your Complete Guide To Reset Oppo A78 5G | Dr.fone</u></a></li>
 </ul></div>
 

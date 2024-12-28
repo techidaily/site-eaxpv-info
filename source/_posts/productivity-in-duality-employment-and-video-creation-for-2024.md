@@ -1,7 +1,7 @@
 ---
 title: "\"Productivity in Duality  Employment & Video Creation for 2024\""
-date: 2024-08-20T12:59:54.106Z
-updated: 2024-08-21T12:59:54.106Z
+date: 2024-12-24T16:27:09.270Z
+updated: 2024-12-28T17:24:00.598Z
 tags:
   - ai video
   - ai youtube
@@ -18,9 +18,6 @@ thumbnail: https://thmb.techidaily.com/e7a938c8213dc5d370405bab4afa736e010a188d2
 
 # How to balance YouTube with a Full-Time Job
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 ##### Richard Bennett
@@ -45,27 +42,33 @@ So, to save you and your viewers some of the same struggles, here are 5 tips I r
 
 [5. Be creative! Create audios (audio-only videos)](#createaudio)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1. Don’t force yourself to post on specific days
 
 I know what you’re thinking - “What?! That’s insane.” The first piece of advice I received about YouTube was to create a schedule of days to post so your viewers look forward to videos. That just doesn’t work for me. Whenever I became too busy with work, I couldn’t stick to my typical Tuesday or Thursday schedule. I think it’s best to focus on how many times you can post in a week rather than a specific day. I try to post at least once a week and that’s my goal. You can always increase as your workload gets lighter or you when you are able to do YouTube full-time.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 2. Keep track of all your ideas in one notebook planner
 
 A notebook planner is essential for keeping my life organized and on track. When I first started my channel, I had a separate planner just for my YouTube videos – this didn’t work cause I never looked at it. It worked best when I kept track of my entire life, including YouTube, in one planner since I look at it every day. Then I could also see which days I wanted to post a video or see what topics worked best around specific holidays and such.
 
-<!-- affiliate ads begin -->
-<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 3. Check the weather forecast in advance
 
 When starting a YouTube channel, many YouTubers like myself don’t have the money to afford all the fancy lighting you see other creators using. [I use natural light](https://tools.techidaily.com/wondershare/filmora/download/), which means I have to make sure it’s going to be a sunny day or at least bright enough for my videos to be clear. I check the forecast for the week on Sunday evenings so I can plan out my best days to film, this keeps my video shooting schedule productive.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4. Create 3-5 videos in advance
 
 This week I am on PTO (paid time off) which has given me a lot more time to film videos I can post for next month. Life happens and it can set you back on filming. If you happen to get a major break in your workweek, use the opportunity to film a bunch of videos, edit them, and have them waiting in your pocket. I filmed three videos in one day – I planned and set-up the night before, which made filming much smoother. Trust me, this tip works wonders!
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5. Be creative! Create audios (audio-only videos)
 
@@ -74,22 +77,21 @@ In the event that life gets too crazy, it’s perfectly fine to do just audio. M
 I hope these tips can help you on your journey with YouTube while still working a full-time job.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Make a YouTube Video with Wondershare Filmora
 
 Wondershare Filmora is one application that people prefer over any other video editing application due to its easy-to-use editing tools and social media aimed settings. This application can help any beginner with a desire to shoot a movie, achieve his dream even without the availability of high-tech cameras or equipment in his hand. The features like video stabilization feature and lens correction allow removing the major defects that occur while capturing a video. A large number of filters in the application can be used to give the cinematic effect whether it be a short video or a long movie.
 
 Just try it and create your own YouTube video!
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 [![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 Richard Bennett
@@ -98,8 +100,6 @@ Richard Bennett is a writer and a lover of all things video.
 
 Follow @Richard Bennett
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -107,5 +107,22 @@ Follow @Richard Bennett
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-master-the-art-of-browsing-and-playing-fb-videos-via-appletv/"><u>[New] 2024 Approved Master the Art of Browsing and Playing FB Videos via AppleTV</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-screens-on-record-unveiling-the-leading-screencap-software/"><u>[New] In 2024, Screens on Record Unveiling The Leading Screencap Software</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-vivid-twitter-visuals-the-journey-to-full-hd-viewing/"><u>[Updated] In 2024, Vivid Twitter Visuals The Journey to Full HD Viewing</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/20-popular-tiktok-country-songs-to-take-a-relax-and-dance-to-for-2024/"><u>20 Popular TikTok Country Songs to Take a Relax and Dance To for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/decoding-apple-prores-codecs-comparing-4444-xq-with/"><u>Decoding Apple ProRes Codecs - Comparing 4444 XQ With</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/easy-steps-to-secure-your-data-enabling-icloud-backups-for-iphone-ipad-and-ipod-touch/"><u>Easy Steps to Secure Your Data: Enabling iCloud Backups for iPhone, iPad & iPod Touch</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/in-2024-editing-mastery-in-fcp-5-advanced-techniques-to-transform-your-videos/"><u>In 2024, Editing Mastery in FCP 5 Advanced Techniques to Transform Your Videos</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-prevent-cross-site-tracking-on-apple-iphone-11-and-browser-drfone-by-drfone-virtual-ios/"><u>In 2024, Prevent Cross-Site Tracking on Apple iPhone 11 and Browser | Dr.fone</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/learn-to-transfer-your-dvd-collection-to-mkv-files-for-free-a-step-by-step-handbrake-walkthrough/"><u>Learn to Transfer Your DVD Collection to MKV Files for Free - A Step-by-Step HandBrake Walkthrough</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/overcoming-apple-sync-issues-a-guide-to-resolving-itunes-and-music-transfers-for-ios-devices/"><u>Overcoming Apple Sync Issues: A Guide to Resolving ITunes & Music Transfers for iOS Devices.</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/phantom-replay-masterclass-for-2024/"><u>Phantom Replay Masterclass for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/quick-and-easy-methods-to-convert-and-watch-dvd-content-on-amazon-kindle-fire-hd-anytime-anywhere/"><u>Quick & Easy Methods to Convert and Watch DVD Content on Amazon Kindle Fire HD Anytime, Anywhere</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/section-3c-qanda-on-inflammation-and-repair/"><u>Section 3C: Q&A on Inflammation and Repair</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/the-speakers-guide-to-captivating-visual-storytelling-for-2024/"><u>The Speaker's Guide to Captivating Visual Storytelling for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/ultimate-guide-top-strategies-to-resolve-iphone-cannot-be-activated-issue/"><u>Ultimate Guide: Top Strategies to Resolve 'iPhone Cannot Be Activated' Issue</u></a></li>
+</ul></div>
 
