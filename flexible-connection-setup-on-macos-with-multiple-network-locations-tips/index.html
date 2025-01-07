@@ -27,8 +27,8 @@
 <meta property="og:description" content="Flexible Connection Setup on macOS with Multiple Network Locations - Tips Apple I connect to a lot of different networks. At home, I have three different LANs to choose from, which I use depending on">
 <meta property="og:locale" content="en_US">
 <meta property="og:image" content="https://www.zdnet.com/a/img/resize/f9b803b11abf24ef89a80e3eab2b456c1d35293a/2022/07/11/47775a46-83d9-4a0e-a1e0-bac36bb3c798/macos-ventura-apple-hero.jpg?auto=webp&width=1280">
-<meta property="article:published_time" content="2024-12-21T09:09:51.562Z">
-<meta property="article:modified_time" content="2024-12-28T09:37:07.092Z">
+<meta property="article:published_time" content="2025-01-04T12:25:02.745Z">
+<meta property="article:modified_time" content="2025-01-06T11:48:36.005Z">
 <meta property="article:author" content="Jeffrey">
 <meta property="article:tag" content="apple">
 <meta name="twitter:card" content="summary">
@@ -713,15 +713,15 @@
                         <div class="article-meta-info">
     <span class="article-date article-meta-item">
         <i class="fa-regular fa-pen-fancy"></i>&nbsp;
-        <span class="desktop">2024-12-21 17:09:51</span>
-        <span class="mobile">2024-12-21 17:09:51</span>
+        <span class="desktop">2025-01-04 20:25:02</span>
+        <span class="mobile">2025-01-04 20:25:02</span>
         <span class="hover-info">Created</span>
     </span>
     
         <span class="article-date article-meta-item">
             <i class="fa-regular fa-wrench"></i>&nbsp;
-            <span class="desktop">2024-12-28 17:37:07</span>
-            <span class="mobile">2024-12-28 17:37:07</span>
+            <span class="desktop">2025-01-06 19:48:36</span>
+            <span class="mobile">2025-01-06 19:48:36</span>
             <span class="hover-info">Updated</span>
         </span>
     
@@ -783,42 +783,42 @@
 <p> Disclaimer: This post includes affiliate links</p>
 <p> If you click on a link and make a purchase, I may receive a commission at no extra cost to you.</p>
 </blockquote>
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 <h3 id="ZDNET-Recommends"><a href="#ZDNET-Recommends" class="headerlink" title="ZDNET Recommends"></a><strong>ZDNET</strong> Recommends</h3><p><a class="link"   target="_blank" rel="noopener" href="https://www.zdnet.com/article/best-mac/" >The best Macs Apple’s Mac lineup can be confusing as the company transitions from Intel processors to its own Apple Silicon processors. But we’re here to help.  Read now <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></p>
 <p>For the general-purpose network, I can just have MacOS accept an IP address from the DHCP server. However, for the container network, I prefer assigning a static IP address.</p>
 <p>Is this possible?</p>
 <p>It certainly is. With the help of MacOS Network Locations, you can assign specific configurations for specific networks (or locations) and even define a particular network you want to connect to within a location.</p>
 <p>Let me show you how it works.</p>
 <p><strong>Also:</strong> <a target="_blank" rel="noopener" href="https://www.zdnet.com/article/how-to-manage-ssh-connections-on-macos-with-termius/"><strong>How to manage SSH connections on MacOS with Termius</strong></a> </p>
+<h2 id="How-to-create-different-network-locations-in-MacOS"><a href="#How-to-create-different-network-locations-in-MacOS" class="headerlink" title="How to create different network locations in MacOS"></a>How to create different network locations in MacOS</h2><h2 id="Requirements"><a href="#Requirements" class="headerlink" title="Requirements"></a>Requirements</h2><p>The only thing you’ll need is a device running an updated version of MacOS. This feature works with both wired and wireless connections.</p>
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<h2 id="How-to-create-different-network-locations-in-MacOS"><a href="#How-to-create-different-network-locations-in-MacOS" class="headerlink" title="How to create different network locations in MacOS"></a>How to create different network locations in MacOS</h2><!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<h2 id="Requirements"><a href="#Requirements" class="headerlink" title="Requirements"></a>Requirements</h2><p>The only thing you’ll need is a device running an updated version of MacOS. This feature works with both wired and wireless connections.</p>
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <h2 id="1-Open-System-Preferences"><a href="#1-Open-System-Preferences" class="headerlink" title="1. Open System Preferences"></a>1. Open System Preferences</h2><p>Click the Apple menu at the top right of your display and select System Preferences from the menu.</p>
+<h2 id="2-Open-Network"><a href="#2-Open-Network" class="headerlink" title="2. Open Network"></a>2. Open Network</h2><p>From within System Preferences, click the Network icon to open the Network section.</p>
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
-<h2 id="2-Open-Network"><a href="#2-Open-Network" class="headerlink" title="2. Open Network"></a>2. Open Network</h2><p>From within System Preferences, click the Network icon to open the Network section.</p>
 <h2 id="3-Create-a-new-network-location"><a href="#3-Create-a-new-network-location" class="headerlink" title="3. Create a new network location"></a>3. Create a new network location</h2><p>From the Location drop-down, select Edit Locations. In the resulting pop-up, click + (the plus sign). You will be prompted to name the location, so type a new name and hit Enter on your keyboard, and then click Done.</p>
 <p>Creating a new Network Location in MacOS Monterey.</p>
 <p>Image: Jack Wallen</p>
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <h2 id="4-Configure-the-new-location"><a href="#4-Configure-the-new-location" class="headerlink" title="4. Configure the new location"></a>4. Configure the new location</h2><p>Make sure to select the new location you created from the Location drop-down. Click Advanced to open the location configuration window, where you can configure the location to meet your specific needs. For example, you can select the network to be used and then configure that network for a static IP address using the Cloudflare DNS servers.</p>
 <p>Configuring a network for the new location in MacOS.</p>
 <p>Image: Jack Wallen</p>
 <p>Once you’ve configured the location exactly how you need it, click Apply to save everything.</p>
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 <h2 id="Switching-to-a-different-Network-Location"><a href="#Switching-to-a-different-Network-Location" class="headerlink" title="Switching to a different Network Location"></a>Switching to a different Network Location</h2><p>After you’ve created all of the network locations you need, MacOS makes it very easy to switch between them. All you have to do is click the Apple menu &gt; Location &gt; [Location name] (select the name of the location you want to use).</p>
 <p>Switching between network locations is a few mouse clicks away.</p>
 <p>Image: Jack Wallen</p>
@@ -847,17 +847,20 @@
      data-full-width-responsive="true"></ins></p>
 <p><span class="atpl-alsoreadstyle">Also read:</span></p>
 <div><ul>
-<li><a target="_blank" rel="noopener" href="https://facebook-videos.techidaily.com/new-2024-approved-everything-about-facebook-live-split-screen-you-should-know/"><u>[New] 2024 Approved Everything About Facebook Live Split Screen You Should Know</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-free-custom-minecraft-gif-templates/"><u>[New] 2024 Approved Free Custom Minecraft GIF Templates</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-turn-a-minute-into-millions-maximizing-viewership-for-youtubers/"><u>[New] 2024 Approved How to Turn a Minute Into Millions Maximizing Viewership for YouTubers</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-hit-the-floor-with-optimal-posting-hours-for-2024/"><u>[New] Hit the Floor with Optimal Posting Hours for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-groan-inducing-humor-in-hits/"><u>[New] In 2024, Groan-Inducing Humor in Hits</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-guide-free-youtube-downloads-without-programs/"><u>[New] In 2024, Guide Free YouTube Downloads Without Programs</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://extra-resources.techidaily.com/updated-celebrating-artistry-top-20-anime-melodies/"><u>[Updated] Celebrating Artistry Top 20 Anime Melodies</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://bypass-frp.techidaily.com/a-quick-guide-to-vivo-s18-pro-frp-bypass-instantly-by-drfone-android/"><u>A Quick Guide to Vivo S18 Pro FRP Bypass Instantly</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://visual-screen-recording.techidaily.com/in-2024-groundbreaking-filmmakers-first-work-insight-and-alternate-films/"><u>In 2024, Groundbreaking Filmmaker's First Work Insight & Alternate Films</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://tech-recovery.techidaily.com/kostenlos-konvertierung-von-3gp-zu-mpeg-via-web-profi-losung-mit-movavi/"><u>Kostenlos Konvertierung Von 3GP Zu MPEG via Web - Profi-Lösung Mit Movavi</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://tech-recovery.techidaily.com/set-up-an-apple-vision-pro-with-vpn-a-step-by-step-guide-and-benefits/"><u>Set Up an Apple Vision Pro with VPN: A Step-by-Step Guide & Benefits</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-chat-room-to-screen-step-by-step-google-meet-youtube-streams/"><u>[New] In 2024, From Chat Room to Screen Step-by-Step Google Meet YouTube Streams</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-restrict-viewership-of-your-youtube-content/"><u>[Updated] 2024 Approved How to Restrict Viewership of Your YouTube Content</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://vp-tips.techidaily.com/updated-2024-approved-unlock-hdri-magic-compreranial-sdr-to-high-dynamic-range-upgrade/"><u>[Updated] 2024 Approved Unlock HDRI Magic Compreranial SDR to High Dynamic Range Upgrade</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-recover-hidden-shorts-thumbnails-in-videos-for-2024/"><u>[Updated] How to Recover Hidden Shorts' Thumbnails in Videos for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-transform-brainstorms-into-youtube-channel-names-for-2024/"><u>[Updated] How To Transform Brainstorms Into YouTube Channel Names for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-follow-the-flow-of-forum-fancies/"><u>[Updated] In 2024, Follow the Flow of Forum Fancies</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-blur-background-of-your-youtube-video/"><u>[Updated] In 2024, How to Blur Background of Your YouTube Video</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://facebook-clips.techidaily.com/updated-secrets-for-striking-fb-video-promos-for-2024/"><u>[Updated] Secrets for Striking FB Video Promos for 2024</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://sound-issues.techidaily.com/audio-dilemma-resolved-reactivating-sound-on-windows-during-zoom-sessions/"><u>Audio Dilemma Resolved: Reactivating Sound on Windows During Zoom Sessions</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://win11-tips.techidaily.com/breaking-the-mold-reinventing-yourself-with-a-new-username-in-windows-11/"><u>Breaking the Mold: Reinventing Yourself with a New UserName in Windows 11</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://extra-hints.techidaily.com/how-to-fix-one-airpod-not-working/"><u>How to Fix One Airpod Not Working?</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://hardware-updates.techidaily.com/how-to-repair-a-non-functional-igfxem-chipset-issue-successfully/"><u>How To Repair A Non-Functional igfxEM Chipset Issue Successfully</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://extra-tips.techidaily.com/synchronizing-airwaves-for-audience-gain/"><u>Synchronizing Airwaves for Audience Gain</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://tech-hub.techidaily.com/unlocking-new-possibilities-how-access-to-chatgpt-and-whisper-apis-transforms-the-business-landscape/"><u>Unlocking New Possibilities: How Access to ChatGPT & Whisper APIs Transforms the Business Landscape</u></a></li>
 </ul></div>
 
 
@@ -870,11 +873,11 @@
         <li><strong>Title:</strong> Flexible Connection Setup on macOS with Multiple Network Locations - Tips</li>
         <li><strong>Author:</strong> Jeffrey</li>
         <li><strong>Created at
-                :</strong> 2024-12-21 17:09:51</li>
+                :</strong> 2025-01-04 20:25:02</li>
         
             <li>
                 <strong>Updated at
-                    :</strong> 2024-12-28 17:37:07
+                    :</strong> 2025-01-06 19:48:36
             </li>
         
         <li>
@@ -914,13 +917,13 @@
                     <div class="article-prev border-border-color shadow-redefine-flat shadow-shadow-color-2 rounded-medium px-4 py-2 hover:shadow-redefine-flat-hover hover:shadow-shadow-color-2">
                         <a class="prev"
                         rel="prev"
-                        href="/new-ultimate-gaming-queens-top-10-female-youtubers/"
+                        href="/updated-expert-recommendations-top-15-no-cost-audiosite-collections/"
                         >
                             <span class="left arrow-icon flex justify-center items-center">
                                 <i class="fa-solid fa-chevron-left"></i>
                             </span>
                             <span class="title flex justify-center items-center">
-                                <span class="post-nav-title-item">[New] Ultimate Gaming Queens Top 10 Female YouTubers</span>
+                                <span class="post-nav-title-item">[Updated] Expert Recommendations Top 15 No-Cost Audiosite Collections</span>
                                 <span class="post-nav-item">Prev posts</span>
                             </span>
                         </a>
@@ -930,10 +933,10 @@
                     <div class="article-next border-border-color shadow-redefine-flat shadow-shadow-color-2 rounded-medium px-4 py-2 hover:shadow-redefine-flat-hover hover:shadow-shadow-color-2">
                         <a class="next"
                         rel="next"
-                        href="/step-by-step-tutorial-on-switching-whatsapp-platforms-from-android-to-ios-devices/"
+                        href="/new-2024-approved-behind-the-scenes-what-does-an-unlisted-video-mean/"
                         >
                             <span class="title flex justify-center items-center">
-                                <span class="post-nav-title-item">Step-by-Step Tutorial on Switching WhatsApp Platforms From Android to iOS Devices</span>
+                                <span class="post-nav-title-item">[New] 2024 Approved Behind the Scenes What Does an &#39;Unlisted&#39; Video Mean?</span>
                                 <span class="post-nav-item">Next posts</span>
                             </span>
                             <span class="right arrow-icon flex justify-center items-center">
@@ -997,7 +1000,7 @@
               <span>2017</span>
               -
             
-            2024 Jeffrey.&nbsp;&nbsp; All Rights Reserved.
+            2025 Jeffrey.&nbsp;&nbsp; All Rights Reserved.
             
         </div>
         
