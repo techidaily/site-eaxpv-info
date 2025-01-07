@@ -1,7 +1,7 @@
 ---
 title: Enhancing Teamwork with Apple Pages Through iCloud Integration - Tips and Tricks
-date: 2024-12-23T17:38:47.370Z
-updated: 2024-12-28T16:18:16.673Z
+date: 2025-01-01T03:04:55.008Z
+updated: 2025-01-06T22:59:33.686Z
 tags:
   - apple
 categories:
@@ -27,19 +27,23 @@ I use Apple Pages when collaborating on fiction with my editor and publisher. No
 
 Let me show you how easy it is to use the Collaboration feature found in Apple Pages. Not only is the app free, but the feature is also built in (so you don't have to install any extra software). 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Requirements
 
 The only things you'll need to make this work are a running instance of MacOS (which includes the iWork office suite), and an [iCloud](https://www.icloud.com/) account. Without an iCloud account, you cannot use the collaboration feature. So, before you continue, make sure you have an iCloud account and can log in to it.
 
 I'll be demonstrating on a [MacBook Pro](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fmacbook-pro%2F&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) running MacOS Monterey.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Enable iCloud Collaboration
 
 Before you can collaborate on a Pages document, you must first enable iCloud Collaboration. To do that, follow these steps.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 1\. Open System Preferences
 
@@ -48,10 +52,6 @@ Open System Preferences by clicking the Apple button in the top left corner of y
 **Figure 1**: Access to iCloud Drive options is found here.
 
 Image: Jack Wallen
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Enable Pages for iCloud Drive
 
@@ -62,10 +62,14 @@ In the next window (**Figure 2**), click the check box for Pages and then click 
 Image: Jack Wallen
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Enable the Collaboration feature
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 1\. Open an Apple Pages document
 
@@ -84,7 +88,7 @@ Click Collaborate and you'll be informed the document must be moved to iCloud be
 Image: Jack Wallen
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 3\. Enable Track Changes
@@ -104,10 +108,6 @@ Image: Jack Wallen
 Make sure to configure both the Who Can Access and Permission options. Here, you also decide how to share the document with your collaborators. Choose Email, Messages, Copy Link, AirDrop, or Twitter. 
 
 Depending on the sharing method you choose, you'll either open Apple Mail, Messages, AirDrop, or Twitter, or you'll copy the link to the file to your clipboard. Make your selection and click Share, at which point the document will be activated for sharing. Whoever is the recipient of the link will then be able to access the file either from within iCloud (if Pages isn't available on their OS) or directly from within Apple Pages.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Stop sharing
 
@@ -149,18 +149,24 @@ And that's all there is to collaborating with Apple Pages. This is a great featu
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-highest-quality-capture-software-showdown-for-2024/"><u>[New] Highest Quality Capture Software Showdown for 2024</u></a></li>
-<li><a href="https://fox-links.techidaily.com/new-prime-video-technology-hunt-our-top-10-choices-2024/"><u>[New] Prime Video Technology Hunt – Our Top 10 Choices, 2024</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-mastering-video-spin-perfecting-instagram-posts/"><u>[Updated] Mastering Video Spin Perfecting Instagram Posts</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/approved-boosting-views-mastering-hashtags-in-freefire-vids/"><u>2024 Approved Boosting Views Mastering Hashtags in FreeFire Vids</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/mpeg-mjpeg-movavi/"><u>免費線上 MPEG 至 MJPEG 格式轉換 - 使用 Movavi 工具</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/converse-with-confidence-chatgpt-for-android/"><u>Converse with Confidence: ChatGPT for Android</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/download-oracle-e-learning-content-access-video-tutorials-and-online-courses/"><u>Download Oracle E-Learning Content: Access Video Tutorials & Online Courses</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/free-online-converter-mp4-to-oggvorbis-movavi/"><u>Free Online Converter: MP4 to OGG/Vorbis - Movavi</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/24-highest-rated-smartphone-camera-and-recording-apps-iphone-vs-android/"><u>In 2024, Highest Rated Smartphone Camera & Recording Apps IPhone vs Android</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/movavi-mp3-m4b/"><u>Movavi MP3 から M4Bへの変換 - 無料で使えるオンラインツール</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/passos-simples-para-fabricar-um-meme-viral-com-video-no-ano-novo-de-2024/"><u>Passos Simples Para Fabricar Um Meme Viral Com Video No Ano Novo De 2024</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/slimsky-saver-big-files-low-costs/"><u>SlimSky Saver - Big Files, Low Costs</u></a></li>
-<li><a href="https://techidaily.com/what-you-need-to-know-to-improve-your-realme-12-proplus-5g-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>What You Need To Know To Improve Your Realme 12 Pro+ 5G Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-finding-your-niche-making-money-with-video-content/"><u>[New] 2024 Approved Finding Your Niche Making Money with Video Content</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-loop-a-video-on-iphone/"><u>[New] 2024 Approved How to Loop A Video on iPhone?</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-stream-google-meet-to-youtube-step-by-step-guide/"><u>[New] 2024 Approved How To Stream Google Meet to YouTube [Step-by-Step Guide]</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-gear-up-for-greatness-choosing-webcams-for-youtube-excellence-for-2024/"><u>[New] Gear Up for Greatness Choosing Webcams for YouTube Excellence for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-freeframe-studio-gameplay-capture-made-simple-in-24/"><u>[New] In 2024, FreeFrame Studio Gameplay Capture Made Simple in '24</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-successfully-integrate-high-definition-videos-on-youtube-platform/"><u>[New] In 2024, How To Successfully Integrate High-Definition Videos on Youtube Platform</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-camera-enthusiasts-spotlight-5-leading-slow-motion-tech/"><u>[Updated] Camera Enthusiasts' Spotlight 5 Leading Slow Motion Tech</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-flavorful-frames-stepwise-food-film-making-for-2024/"><u>[Updated] Flavorful Frames Stepwise Food Film-Making for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-editing-desk-to-youtube-post-production-processes/"><u>[Updated] In 2024, From Editing Desk to YouTube Post-Production Processes</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-hot-takes-dailys-most-popular-video-tracks/"><u>[Updated] In 2024, Hot Takes Daily's Most Popular Video Tracks</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-execute-flawless-wirecast-broadcasts-on-youtube/"><u>[Updated] In 2024, How to Execute Flawless WireCast Broadcasts on YouTube</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-solo-stardom-in-the-podcast-universe/"><u>[Updated] Solo Stardom in the Podcast Universe</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-haven-for-harmonious-hits-download-classics-now/"><u>2024 Approved Haven for Harmonious Hits Download Classics Now</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/best-oppo-reno-11-pro-5g-pattern-lock-removal-tools-remove-android-pattern-lock-without-losing-data-by-drfone-android/"><u>Best Oppo Reno 11 Pro 5G Pattern Lock Removal Tools Remove Android Pattern Lock Without Losing Data</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/from-idea-to-implementation-guiding-vendors-in-youtube-sponsorships-for-2024/"><u>From Idea to Implementation Guiding Vendors in Youtube Sponsorships for 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-4-methods-to-turn-off-life-360-on-motorola-moto-g-stylus-2023-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Methods to Turn off Life 360 On Motorola Moto G Stylus (2023) without Anyone Knowing | Dr.fone</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-2024-approved-generate-faces-for-free-best-online-tools/"><u>New 2024 Approved Generate Faces for Free Best Online Tools</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/rw2jpegmovavi/"><u>RW2到JPEG無條件免費轉換器：Movavi 網上直接使用方法</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/step-by-step-implementing-auto-captions-in-reels-for-2024/"><u>Step-by-Step Implementing Auto Captions in Reels for 2024</u></a></li>
 </ul></div>
 

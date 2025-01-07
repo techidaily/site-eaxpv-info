@@ -1,7 +1,7 @@
 ---
 title: Is Splurging on Apple Insights Worth It? How Much Are Customers Willing to Spend?
-date: 2024-12-24T16:19:44.265Z
-updated: 2024-12-28T17:10:14.694Z
+date: 2024-12-31T21:09:06.312Z
+updated: 2025-01-06T18:32:43.227Z
 tags:
   - apple
 categories:
@@ -28,15 +28,15 @@ If anything, the latest iOS 18.1 betas with Apple Intelligence features have bee
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## The annual upgrade ritual
 
 Every year, my wife and I eagerly await the release of the new iPhones. Being part of [Apple's Upgrade Program](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fiphone%2Fiphone-upgrade-program&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp), we return our devices, reset our loan with Citizens Bank, and acquire the latest model. Over the past few years, I have opted for the [Pro Max](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fiphone-15-pro%2F&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp), and my wife has chosen the [base model](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fiphone-15%2F&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp). The expected annual improvements have been incremental but appreciated. 
 
 Despite the buzz around the [iPhone 16's new features](https://www.zdnet.com/article/im-an-android-user-but-these-three-iphone-16-features-would-win-me-over/) and the integration of Apple Intelligence, however, several concerns dampen my enthusiasm for upgrading this year.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Apple Intelligence: A significant, yet incomplete, leap forward
 
@@ -63,7 +63,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## New hardware leaks: what to expect from the iPhone 16
@@ -83,7 +83,7 @@ Interestingly, despite these hardware upgrades, Apple appears to be keeping pric
 Despite these upgrades, the iPhone 16 may still face challenges due to design cycles that didn't fully account for the scope of Apple Intelligence's capabilities. As a result, users may experience suboptimal performance and a less seamless user experience, especially as more AI features roll out in subsequent updates.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Why you shouldn't buy the iPhone 16 for Apple Intelligence
@@ -95,7 +95,7 @@ Besides memory concerns, AI processing demands a lot of power and additional com
 For these reasons, I see the iPhone 16 (and potentially even the iPhone 17) as a transitional product in Apple's journey toward on-device AI. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How Apple Intelligence will likely evolve
@@ -115,7 +115,7 @@ Enterprises may also employ a mobile device management solution to facilitate ac
 Imagine your iPhone using the unused processing power of your Mac or iPad, all equipped with on-device LLMs, to tackle complex AI tasks. This would increase the accessibility of AI features across Apple's product range.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## I'm still optimistic
@@ -158,15 +158,24 @@ _This article was originally published on June 28, 2024, and updated on August 2
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-lessons.techidaily.com/new-cloud-savings-guide-comparing-costs-and-top-deals/"><u>[New] Cloud Savings Guide Comparing Costs & Top Deals</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-giggles-in-the-garage-ingenious-funny-video-concepts-for-youtubers/"><u>[Updated] 2024 Approved Giggles in the Garage Ingenious Funny Video Concepts for YouTubers</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-get-people-to-subscribe-to-your-youtube-channel/"><u>[Updated] 2024 Approved How to Get People to Subscribe to Your YouTube Channel</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-smartphones-and-tablets-leading-gb-gameplayers/"><u>[Updated] 2024 Approved Smartphones & Tablets Leading GB Gameplayers</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-highlighting-youtubes-creme-de-la-creme-makeup-influencers-for-2024/"><u>[Updated] Highlighting YouTube's Crème De La Crème Makeup Influencers for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-first-foray-into-fashionable-mac-made-videos-for-youtube/"><u>[Updated] In 2024, First Foray Into Fashionable Mac-Made Videos for YouTube</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-sound-symphony-for-social-media-stardom-on-insta-reels/"><u>[Updated] Sound Symphony for Social Media Stardom on Insta Reels</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/3-methods-to-mirror-honor-x50iplus-to-roku-drfone-by-drfone-android/"><u>3 Methods to Mirror Honor X50i+ to Roku | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-nokia-c12-plus-to-any-ios-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Nokia C12 Plus to Any iOS Devices | Dr.fone</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/h-of-zest-elevate-with-elite-yoga-videos/"><u>Zenith of Zest Elevate with Elite Yoga Videos</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-fast-paced-artistry-expert-valorant-thumbnails-in-a-blink/"><u>[New] 2024 Approved Fast-Paced Artistry Expert Valorant Thumbnails in a Blink</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-edit-youtube-channel-description/"><u>[New] 2024 Approved How to Edit YouTube Channel Description</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-the-zoomers-guide-to-instagram-story-clarity/"><u>[New] 2024 Approved The Zoomer’s Guide to Instagram Story Clarity</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-from-filming-to-sharing-a-youtube-video-edition-for-2024/"><u>[New] From Filming to Sharing A YouTube Video Edition for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-going-against-the-tide-of-tradition-innovative-techniques-for-yt-rewinds-for-2024/"><u>[New] Going Against the Tide of Tradition Innovative Techniques for YT Rewinds for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-how-to-create-a-sports-highlight-video-for-2024/"><u>[New] How to Create a Sports Highlight Video for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-gym-goer-to-broadcayer-set-up-a-sports-vlog-on-macos/"><u>[New] In 2024, From Gym Goer to Broadcayer Set Up a Sports Vlog on macOS</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-free-youtube-sound-ripper-collection-top-17-extractors-revealed/"><u>[Updated] 2024 Approved Free YouTube Sound Ripper Collection Top 17 Extractors Revealed</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-harmonize-your-youtube-presence-with-these-ideal-microphones-for-various-channels-for-2024/"><u>[Updated] Harmonize Your YouTube Presence With These Ideal Microphones for Various Channels for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-recover-hidden-shorts-thumbnails-in-videos/"><u>[Updated] In 2024, How to Recover Hidden Shorts' Thumbnails in Videos</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-through-the-viewfinder-top-10-must-have-lenses/"><u>[Updated] Through The Viewfinder Top 10 Must-Have Lenses</u></a></li>
+<li><a href="https://howto.techidaily.com/9-solutions-to-fix-process-system-isnt-responding-error-on-xiaomi-13t-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Process System Isnt Responding Error on Xiaomi 13T Pro | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-and-install-the-epson-es-400-scandriver-on-windows-a-step-by-step-guide/"><u>Download & Install the Epson ES-400 ScanDriver on Windows: A Step-by-Step Guide</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/enhancing-minecraft-through-optimal-ram-assignment/"><u>Enhancing Minecraft Through Optimal RAM Assignment</u></a></li>
+<li><a href="https://driver-download.techidaily.com/how-to-successfully-update-or-freshly-install-the-latest-startech-usb-to-vga-drivers/"><u>How To Successfully Update Or Freshly Install The Latest StarTech USB-To-VGA Drivers</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/size-matters-less-with-apple-vision-pros-mini-case-a-major-space-saver-innovate-electronics-blog/"><u>Size Matters Less with Apple Vision Pro's Mini-Case - A Major Space Saver! | Innovate Electronics Blog</u></a></li>
+<li><a href="https://howto.techidaily.com/top-10-fixes-for-phone-keep-disconnecting-from-wi-fi-on-vivo-v30-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 10 Fixes for Phone Keep Disconnecting from Wi-Fi On Vivo V30 | Dr.fone</u></a></li>
+<li><a href="https://win-forum.techidaily.com/ultimate-tips-for-running-windows-11-on-incompatible-cpu-systems/"><u>Ultimate Tips for Running Windows 11 on Incompatible CPU Systems</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/wrist-worn-tech-showdown-determining-your-ideal-companion-between-google-pixel-watch-and-apple-watch-series-9/"><u>Wrist-Worn Tech Showdown: Determining Your Ideal Companion Between Google Pixel Watch and Apple Watch Series 9</u></a></li>
 </ul></div>
 

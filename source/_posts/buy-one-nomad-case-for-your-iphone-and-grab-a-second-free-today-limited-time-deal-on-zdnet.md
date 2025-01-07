@@ -1,7 +1,7 @@
 ---
 title: Buy One Nomad Case for Your iPhone & Grab a Second FREE Today – Limited Time Deal on ZDNet!
-date: 2024-12-22T16:13:12.130Z
-updated: 2024-12-28T17:07:33.571Z
+date: 2024-12-30T18:26:02.354Z
+updated: 2025-01-06T17:59:42.045Z
 tags:
   - apple
 categories:
@@ -48,7 +48,7 @@ ZDNET's Kerry Wan went hands-on with the [iPad 10th Gen](https://buy.geni.us/Pro
 If you're looking to snag the 10th Gen iPad, which Wan says stacks up pretty well against the more expensive iPad Air, be sure to jump on this [sweet deal](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FApple-2022-10-9-inch-iPad-Wi-Fi%2Fdp%2FB0BJLXMVMV%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C0d6032e1-d089-490f-9c8e-0eda836790a7%7Cdtp&dtb=1) while it lasts. Plus, if you want to shop even more [Prime Day Apple deals that are still live](https://www.zdnet.com/article/best-prime-day-apple-deals-still-available-2024/), we've got you covered.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -85,20 +85,19 @@ Deals are subject to sell out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-what-does-the-blue-marker-on-fb-chat-reveal/"><u>[New] What Does the Blue Marker on FB Chat Reveal?</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-quick-and-easy-way-to-record-iphone-screens/"><u>[Updated] 2024 Approved Quick & Easy Way to Record iPhone Screens</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/affordable-flight-experience-with-the-syma-x5c-remote-controlled-quadcopter-a-detailed-analysis/"><u>Affordable Flight Experience with the SYMA X5C Remote Controlled Quadcopter - A Detailed Analysis</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/conversion-sin-costo-de-audio-wav-a-formato-m4a-usando-movavi-en-linea/"><u>Conversión Sin Costo De Audio WAV a Formato M4A Usando Movavi en Línea</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/descargar-convertidor-de-mkv-a-formato-aac-sin-coste-conversion-en-vivo/"><u>Descargar Convertidor De MKV a Formato AAC Sin Coste - Conversión en Vivo</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/discover-the-latest-video-stabilizers-in-202email-protected-a-comprehensive-guide-to-both-gratis-and-premium-software-solutions/"><u>Discover the Latest Video Stabilizers in 202([Email Protected])! A Comprehensive Guide to Both Gratis and Premium Software Solutions</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/edit-and-enhance-images-with-ease-using-movavis-advanced-photo-correction-suite/"><u>Edit and Enhance Images with Ease Using Movavi's Advanced Photo-Correction Suite</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/gratis-omzetten-van-snd-folders-naar-veilige-online-toestand-movavi/"><u>Gratis Omzetten Van SND Folders Naar Veilige Online Toestand - Movavi</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/gratuit-konverteren-van-aiff-naar-m4a-ladder-online-en-meteen/"><u>Gratuit Konverteren Van AIFF Naar M4A-Ladder - Online en Meteen</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/guide-to-mirror-your-samsung-galaxy-z-flip-5-to-other-android-devices-drfone-by-drfone-android/"><u>Guide to Mirror Your Samsung Galaxy Z Flip 5 to Other Android devices | Dr.fone</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-frp-from-nubia-red-magic-9-proplus-by-drfone-android/"><u>How to Bypass FRP from Nubia Red Magic 9 Pro+?</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/how-to-make-a-photo-video-with-pixiz-for-2024/"><u>How to Make a Photo Video with Pixiz for 2024</u></a></li>
-<li><a href="https://howto.techidaily.com/samsung-galaxy-a34-5g-bootloop-problem-how-to-fix-it-without-data-loss-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Samsung Galaxy A34 5G Bootloop Problem, How to Fix it Without Data Loss | Dr.fone</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/section-3a-next-concept-carpal-tunnel-syndrome-and-nerve-entrapment/"><u>Section 3A: Next Concept - Carpal Tunnel Syndrome and Nerve Entrapment</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/the-ultimate-guide-to-poco-c50-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/"><u>The Ultimate Guide to Poco C50 Pattern Lock Screen Everything You Need to Know</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-zero-to-hero-amplifying-youtube-influence-via-famebit-partnerships/"><u>[New] 2024 Approved From Zero to Hero Amplifying YouTube Influence via FameBit Partnerships</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-be-a-beauty-guru-on-youtube-beauty-vlogger-set-up/"><u>[New] In 2024, How To Be A Beauty Guru on YouTube Beauty Vlogger Set Up</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-unbelievable-examination-and-replacement-ideas/"><u>[New] Unbelievable Examination & Replacement Ideas</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-unveiling-the-secrets-to-a-successful-fb-giveaway-for-2024/"><u>[New] Unveiling the Secrets to a Successful FB Giveaway for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-filmmaking-mastery-youtube-trailer-design-with-filmora/"><u>[Updated] 2024 Approved Filmmaking Mastery YouTube Trailer Design with Filmora</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-film-swapping-ideas-best-replacements-1-7/"><u>[Updated] In 2024, Film Swapping Ideas Best Replacements #1-7</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-harnessing-the-power-of-filmora-for-youtube-video-promotions/"><u>[Updated] In 2024, Harnessing the Power of Filmora for YouTube Video Promotions</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-see-your-subscribers-on-youtube/"><u>[Updated] In 2024, How to See Your Subscribers on YouTube</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-unlock-the-power-8-best-no-cost-software-for-videographers-and-editors/"><u>[Updated] In 2024, Unlock the Power 8 Best No-Cost Software for Videographers & Editors</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/elevate-your-photography-with-polarrs-complete-features-for-2024/"><u>Elevate Your Photography with Polarr's Complete Features for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/enhance-facebook-visibility-uploading-panoramic-content-on-mobile/"><u>Enhance Facebook Visibility Uploading Panoramic Content on Mobile</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/how-do-ai-chatbots-work-and-why-theyre-trending/"><u>How Do AI Chatbots Work and Why They're Trending</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-why-your-whatsapp-live-location-is-not-updating-and-how-to-fix-on-your-apple-iphone-15-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, Why Your WhatsApp Live Location is Not Updating and How to Fix on your Apple iPhone 15 Plus | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/top-ranked-avcam-video-editor-from-dvd-to-avi-ideal-choice-for-windows-11-users/"><u>Top-Ranked AVCam Video Editor From DVD to AVI: Ideal Choice for Windows 11 Users</u></a></li>
 </ul></div>
 

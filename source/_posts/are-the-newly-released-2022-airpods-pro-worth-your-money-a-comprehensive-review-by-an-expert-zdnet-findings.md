@@ -1,7 +1,7 @@
 ---
 title: Are the Newly Released 2022 AirPods Pro Worth Your Money? A Comprehensive Review by an Expert | ZDNET Findings
-date: 2024-11-30T23:14:47.409Z
-updated: 2024-12-07T17:56:12.988Z
+date: 2025-01-01T00:39:35.620Z
+updated: 2025-01-07T02:18:23.073Z
 tags:
   - apple
 categories:
@@ -24,10 +24,6 @@ After hands-on testing the Logitech MX Keys S Wireless Keyboard and being blown 
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## The best keyboards of 2024
 
 Show less 
@@ -45,15 +41,7 @@ Cons
 * Limited customization
 * Only one height setting
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Logitech MX Keys S Wireless Keyboard
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Best keyboard overall
 
@@ -115,7 +103,15 @@ Cons
 * Pricey
 * Oversized
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Corsair K100 RGB Keyboard
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Best gaming keyboard
 
@@ -144,6 +140,10 @@ Cons
 
 ## Microsoft Sculpt Ergonomic Desktop Keyboard
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Best ergonomic keyboard
 
 **Microsoft Sculpt Ergonomic Desktop Keyboard specs: Type:** Split-design **| Wired/Wireless:** Wireless **| Number of keys:** 104 **| Dimensions:** 8.86 x 21.06 x 1.77 inches
@@ -171,11 +171,11 @@ Cons
 * Not Mac-compatible
 * Restricted to linear switches
 
-## Razer Pro Type Ultra Keyboard
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+## Razer Pro Type Ultra Keyboard
 
 ### Best quiet keyboard
 
@@ -205,10 +205,6 @@ To see how it compares, here is a look at the best keyboards.
 | Microsoft Sculpt Ergonomic Desktop Keyboard | $93      | Split design | 104                |
 | Razer Pro Type Ultra Keyboard               | $160     | Mechanical   | 104                |
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Which is the best keyboard for you?
 
 It can be a little tricky differentiating between the different keyboards, even when you have a list of best keyboards from which to choose. To make the decision a little easier, here are some additional considerations to help you find the best keyboard for you.
@@ -220,10 +216,6 @@ It can be a little tricky differentiating between the different keyboards, even 
 | Corsair K100 RGB Keyboard                   | The best keyboard for gaming. You can count on this keyboard to be a helping hand during your next gaming session.              |
 | Microsoft Sculpt Ergonomic Desktop Keyboard | The most comfortable keyboard. The ergonomic design makes this best keyboard a winning pick when comfort is your priority.      |
 | Razer Pro Type Ultra Keyboard               | A whisper-quiet keyboard. This best keyboard won't compete for sound when you are gaming or listening to your favorite content. |
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How did I choose these best keyboards?
 
@@ -253,12 +245,16 @@ Buzzetta adds, "Wired keyboards are slightly more responsive and are the best wh
 
 When picking between a wired or wireless keyboard, it's really up to you, says Rosenfeld. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How much do the best keyboards cost?
 
 The cost of keyboards can really run the gamut based on factors like manufacturer, size, type, and features. However, we found that the best keyboards that you can buy range in cost from $83 to $185, depending on the brand and model that you choose. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Are there alternative best keyboards worth considering?
@@ -266,6 +262,10 @@ The cost of keyboards can really run the gamut based on factors like manufacture
 Logitech is one of the best keyboard manufacturers that you can choose from for your new keyboard. We found many top-rated models that users love, including these models, that may also be a great fit for you.
 
 [Best wireless keyboard alternative Logitech G915 TKL Save yourself a headache by skipping the fuss of wires. This best wireless keyboard keeps things neat. View at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FLogitech-Tenkeyless-Lightspeed-Mechanical-LIGHTSYNC%2Fdp%2FB085RLZ1C4%3Fth%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ca02ea832-b0c3-430b-ade0-a5f9869fe91c%7Cdtp&dtb=1)[Best compact alternative Logitech MX Keys Mini If space is an issue, this best keyboard won't take up a lot of room. Users love its easy, compact design. View at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FLogitech-Minimalist-Illuminated-Bluetooth-Compatible%2Fdp%2FB098JPSVKY%3Fth%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ca02ea832-b0c3-430b-ade0-a5f9869fe91c%7Cdtp&dtb=1)[Best mechanical alternative Logitech MX Mechanical Keyboard If you are looking for a mechanical keyboard, Logitech makes that, too. This best mechanical keyboard comes highly recommended. View at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FLogitech-Mechanical-Illuminated-Performance-Bluetooth%2Fdp%2FB09LJWWX4Y%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ca02ea832-b0c3-430b-ade0-a5f9869fe91c%7Cdtp&dtb=1)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Meet the experts
 
@@ -318,18 +318,21 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-2024-approved-navigating-macos-to-optimize-mixer-streams/"><u>[New] 2024 Approved Navigating MacOS to Optimize Mixer Streams</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-from-chaos-to-order-youtube-playlists-unveiled-for-2024/"><u>[New] From Chaos to Order YouTube Playlists Unveiled for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-how-to-insert-youtube-links-for-an-engaging-ppt-experience-for-2024/"><u>[New] How to Insert YouTube Links for an Engaging PPT Experience for 2024</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-public-domain-zen-soundscape-for-2024/"><u>[New] Public Domain Zen Soundscape for 2024</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-dji-mavic-pro-review/"><u>[Updated] DJI Mavic Pro Review</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-global-youtube-elite-earnings-leader-for-2024/"><u>[Updated] Global YouTube Elite Earnings Leader for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-cosmetics-confidentials-building-a-beauty-channel-on-youtube/"><u>[Updated] In 2024, Cosmetics Confidentials Building a Beauty Channel on YouTube</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-five-cozy-seasons-ideal-backgrounds-to-warm-up-videos/"><u>[Updated] In 2024, Five Cozy Seasons Ideal Backgrounds to Warm Up Videos</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-growth-hurdle-cleared-500-subscribers-win/"><u>[Updated] In 2024, Growth Hurdle Cleared 500 Subscribers Win</u></a></li>
-<li><a href="https://discover-forum.techidaily.com/6-efectivas-tacticas-para-rescatar-documentos-borrados-de-la-papelera-de-reciclaje-en-tu-pc/"><u>6 Efectivas Tácticas Para Rescatar Documentos Borrados De La Papelera De Reciclaje en Tu PC</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/exploring-the-features-of-the-mobvoi-ticwatch-pro-3-the-power-behind-gps-precision-and-extended-battery-via-dual-displays/"><u>Exploring the Features of the Mobvoi TicWatch Pro 3 - The Power Behind GPS Precision and Extended Battery via Dual Displays</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/memetic-mastery-crafting-joy-via-adobe/"><u>Memetic Mastery Crafting Joy via Adobe</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-what-is-hdri-everything-you-need-to-know-about-hdri/"><u>New 2024 Approved What Is HDRI? Everything You Need to Know About HDRI</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-how-to-make-your-videos-a-youtube-hit-top-tips-and-strategies-for-2024/"><u>[New] How To Make Your Videos a YouTube Hit Top Tips and Strategies for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-frames-to-fun-youtube-gifs-creation-made-simple/"><u>[New] In 2024, From Frames to Fun YouTube GIFs Creation Made Simple</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-execute-flawless-wirecast-broadcasts-on-youtube/"><u>[New] In 2024, How to Execute Flawless WireCast Broadcasts on YouTube</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-dreamer-to-doer-sign-up-for-a-youtube-channel/"><u>[Updated] 2024 Approved From Dreamer To Doer Sign Up for a YouTube Channel</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-novice-to-viewer-keeper-top-10-basic-yet-captivating-video-ideas/"><u>[Updated] 2024 Approved From Novice to Viewer-Keeper Top 10 Basic Yet Captivating Video Ideas</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-make-your-youtube-animated-subscribe-button-easily-with-filmora/"><u>[Updated] 2024 Approved How to Make Your YouTube Animated Subscribe Button Easily With Filmora</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-extract-thumbnails-from-youtube-on-windowsmac-and-browsers-for-2024/"><u>[Updated] How to Extract Thumbnails From Youtube on Windows/Mac and Browsers for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-simplifying-your-system-switch-from-sierra-to-os-x-1010/"><u>2024 Approved Simplifying Your System Switch From Sierra to OS X 10.10</u></a></li>
+<li><a href="https://games-able.techidaily.com/debunking-the-hype-in-pretend-console-promos/"><u>Debunking the Hype in Pretend Console Promos</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/easy-methods-how-to-transfer-pictures-from-apple-iphone-8-plus-to-pc-drfone-by-drfone-transfer-from-ios/"><u>Easy Methods How To Transfer Pictures From Apple iPhone 8 Plus to PC | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/foremost-top-5-lightweight-video-capturers-guide/"><u>Foremost Top 5 Lightweight Video Capturers Guide</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-resolve-the-recurring-freezing-and-crashing-problem-with-warzone-version-20-on-desktop/"><u>How to Resolve the Recurring Freezing and Crashing Problem with Warzone Version 2.0 on Desktop</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-exclusive-hd-benefits-turn-on-av1-in-youtube-settings/"><u>In 2024, Exclusive HD Benefits Turn On AV1 in YouTube Settings</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/incorporating-seconds-and-minutes-on-youtube-clips/"><u>Incorporating Seconds and Minutes on YouTube Clips</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/optimizing-your-gpu-a-step-by-step-guide-to-customize-graphics-performance-expert-tips-from-yl-software/"><u>Optimizing Your GPU: A Step-by-Step Guide to Customize Graphics Performance - Expert Tips From YL Software</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/viral-video-potential-analyzing-dslr-and-mirrorless-cameras/"><u>Viral Video Potential Analyzing DSLR and Mirrorless Cameras</u></a></li>
 </ul></div>
 

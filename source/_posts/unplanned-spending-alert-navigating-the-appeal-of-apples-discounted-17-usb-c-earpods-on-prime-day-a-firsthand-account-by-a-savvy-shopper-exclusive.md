@@ -1,7 +1,7 @@
 ---
 title: Unplanned Spending Alert! Navigating the Appeal of Apple's Discounted $17 USB-C EarPods on Prime Day – A Firsthand Account by a Savvy Shopper Exclusive
-date: 2024-12-21T16:54:35.835Z
-updated: 2024-12-28T16:51:51.244Z
+date: 2025-01-04T17:29:41.257Z
+updated: 2025-01-07T05:43:17.586Z
 tags:
   - apple
 categories:
@@ -32,7 +32,7 @@ Secondly, the microphone quality on Apple's wired EarPods is some of the best I'
 It should come as no surprise that I quickly bought another pair of USB-C [Apple EarPods](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FApple-EarPods-Headphones-Built-Control%2Fdp%2FB0CHXC5ZDX%3Fth%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ca6dc8bba-2259-4841-91ea-e1c02f1a6381%7Cdtp&dtb=1) when they finally went on sale this morning. You can bet I'll be bringing them along for more plane rides and commutes throughout the summer.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -71,20 +71,20 @@ Deals are subject to sell out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-2024-approved-elite-cyber-retailers-for-perfectly-tailored-presents/"><u>[New] 2024 Approved Elite Cyber Retailers for Perfectly Tailored Presents</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-must-know-windows-11-tips-and-tricks/"><u>[New] Must-Know Windows 11 Tips and Tricks</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-revolutionize-your-multimedia-creation-with-top-10-screen-recorders-for-mac/"><u>[New] Revolutionize Your Multimedia Creation with Top 10 Screen Recorders for Mac</u></a></li>
-<li><a href="https://games-able.techidaily.com/affordable-wired-vs-wireless-gaming-tools-guide/"><u>Affordable Wired vs Wireless Gaming Tools Guide</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/convertisseur-gratuit-en-ligne-pour-transferer-des-fichiers-webm-en-format-m4v-movavi/"><u>Convertisseur Gratuit en Ligne Pour Transférer Des Fichiers Webm en Format M4V - Movavi</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/effortless-audio-transformation-get-your-voc-to-mp3-for-free-using-movavis-online-tool/"><u>Effortless Audio Transformation: Get Your VOC to MP3 for Free Using Movavi's Online Tool!</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/enhanced-targeting-through-advanced-cookiebot-solutions/"><u>Enhanced Targeting Through Advanced Cookiebot Solutions</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/guia-simple-para-transferir-archivos-cr2-sin-costo-utilizar-el-servicio-en-linea-de-movavi/"><u>Guía Simple Para Transferir Archivos CR2 Sin Costo: Utilizar El Servicio en Línea De Movavi</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-quickly-fix-bluetooth-not-working-on-honor-magic-6-lite-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Quickly Fix Bluetooth Not Working on Honor Magic 6 Lite | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-reset-your-nokia-c32-lock-screen-password-by-drfone-android/"><u>In 2024, How to Reset your Nokia C32 Lock Screen Password</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-realme-11-proplusfrp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your Realme 11 Pro+FRP Lock</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/toutes-les-etapes-pour-changer-un-fichier-tga-en-jpg-sur-movavi-sans-frais/"><u>Toutes Les Étapes Pour Changer Un Fichier TGA en JPG Sur Movavi, Sans Frais</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/transformez-gratuitement-votre-fichier-mkv-en-format-mjpeg-sur-linternet-avec-moveave-conversion-video/"><u>Transformez Gratuitement Votre Fichier MKV en Format MJPEG Sur L'Internet Avec Moveave - Conversion Vidéo</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/trasforma-i-tuoi-file-swf-in-gif-senza-costi-conversione-gratuita-online-con-movavi/"><u>Trasforma I Tuoi File SWF in GIF Senza Costi - Conversione Gratuita Online Con Movavi</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/troubleshooting-audio-problems-in-flat-panel-videos-using-movavi-software/"><u>Troubleshooting Audio Problems in Flat Panel Videos Using Movavi Software</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-how-to-upload-shorts-video-on-youtube-for-2024/"><u>[New] How to Upload Shorts Video on YouTube for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-in-2024-unveiling-top-techniques-for-vhs-image-transformation/"><u>[New] In 2024, Unveiling Top Techniques for VHS Image Transformation</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-isolated-viewers-to-shared-experiences-online/"><u>[Updated] 2024 Approved From Isolated Viewers to Shared Experiences Online</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-game-masters-top-ten-female-gaming-influencers/"><u>[Updated] 2024 Approved Game Masters Top Ten Female Gaming Influencers</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-game-recording-mastery-utilizing-gameye-and-more/"><u>[Updated] 2024 Approved Game Recording Mastery Utilizing GamEye and More</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-harnessing-hdr-in-post-top-4-youtube-guides-with-complimentary-green-screen-effects/"><u>[Updated] 2024 Approved Harnessing HDR in Post Top 4 YouTube Guides with Complimentary Green Screen Effects</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-harnessing-online-revenue-multiplatform-studio-use/"><u>[Updated] 2024 Approved Harnessing Online Revenue Multiplatform Studio Use</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-hitching-your-video-trailers-to-youtube-success/"><u>[Updated] 2024 Approved Hitching Your Video Trailers to YouTube Success</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-youtube-channel-harmony-matching-your-narrative-with-the-right-mic/"><u>[Updated] YouTube Channel Harmony Matching Your Narrative With the Right Mic</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-advanced-archiving-preserving-full-fbm-call-history/"><u>2024 Approved Advanced Archiving Preserving Full FBM Call History</u></a></li>
+<li><a href="https://common-error.techidaily.com/fix-dx11-version-compatibility-glitches-on-wwe-2k-battlegrounds-game-console/"><u>Fix DX11 Version Compatibility Glitches on WWE 2K Battlegrounds Game Console</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-catch-or-beat-sleeping-snorlax-on-pokemon-go-for-poco-x6-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Catch or Beat Sleeping Snorlax on Pokemon Go For Poco X6 Pro | Dr.fone</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/24-enhance-brand-recognition-inserting-watermarklogo-in-youtube-videos/"><u>In 2024, Enhance Brand Recognition Inserting Watermark/Logo in Youtube Videos</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-google-play-location-on-zte-blade-a73-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Google Play Location On ZTE Blade A73 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/the-ultimate-path-to-perfected-morphvox-control/"><u>The Ultimate Path to Perfected MorphVOX Control</u></a></li>
 </ul></div>
 

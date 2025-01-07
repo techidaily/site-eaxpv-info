@@ -1,7 +1,7 @@
 ---
 title: Beware! IPhone and iPad Bricking Incidents Linked to iOS 18 Upgrade | Stay Informed Before Installation
-date: 2024-12-27T16:45:11.880Z
-updated: 2024-12-28T17:27:43.114Z
+date: 2025-01-04T02:33:59.263Z
+updated: 2025-01-07T03:50:34.214Z
 tags:
   - apple
 categories:
@@ -46,7 +46,7 @@ To help you make this decision, we've broken down all of the most important deta
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  You should buy the iPhone 16 if...
@@ -61,10 +61,6 @@ Apple is rolling out [multiple AI features to the iPhone 16](https://www.zdnet.c
 
 There is more to the AI features beyond Siri. Apple Intelligence will be able to summarize notifications and Priority Messages in the Mail app. Like Siri, the feature will be able to understand context. [Apple Intelligence](https://www.zdnet.com/article/what-is-apple-intelligence-everything-to-know-about-ai-features-coming-to-iphones-macs-and-ipads/) will gain additional features later in the year like the ability to create custom emojis and perform multiple actions across apps.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ###  2\. You want a better photography experience
 
 The [iPhone 16](https://www.zdnet.com/article/every-iphone-16-model-compared-which-new-iphone-should-you-buy/) is seeing a new camera array. On the back will be a 48MP Fusion camera serving as the main lens. It'll have a 2x Telephoto option for up-close photography. Apple states it'll be like having "two cameras in one." Alongside it will be a 12MP Ultra Wide lens with an autofocus function that can enable "macro photography." It can also take in "2.6x times more light \[than before\] for higher image quality." 
@@ -74,7 +70,7 @@ The [iPhone 16](https://www.zdnet.com/article/every-iphone-16-model-compared-whi
 On the side below the [Power Button is the new Camera Control](https://www.zdnet.com/article/every-iphone-16-model-features-a-new-camera-button-heres-what-it-can-do/). It's a tactile switch with a special sensor that can perform unique actions with a light touch. For example, pressing it quickly launches the Camera app for taking quick snapshots or recording a video. It even introduces a preview feature to help you frame the shot. And if that wasn't enough, it'll work with third-party apps.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ###  3\. You want "next-level performance"
@@ -96,7 +92,7 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  You should buy the iPhone 15 if...
@@ -111,6 +107,10 @@ All of the bells and whistles on the iPhone 16 are certainly nice, but are they 
 
 Sometimes, it's best to wait until all the bugs have been ironed out. Plus, there's a lot of uncertainty surrounding the chipset. Early impressions indicate the A18 can handle all the AI features, but can it? Or will we see a performance drop once it launches? 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ###  2\. You're on a budget
 
 With the release of a new model, older phones often see a price drop, and that is exactly what we're getting here. Apple has cut the price of the iPhone 15 by about $100 off its digital storefront to entice new adopters. 
@@ -120,7 +120,7 @@ It wouldn't be a bad pick-up, either. The camera system of the previous generati
 [Buy the iPhone 15 $729.99 at Best Buy](https://shop-links.co/link/?url=https%3A%2F%2Fbestbuy.7tiv.net%2Fc%2F376373%2F633495%2F10014%3Fprodsku%3D6417992%26u%3Dhttp%253A%252F%252Fwww.bestbuy.com%252Fsite%252F-%252F6417992.p%253Fcmp%253DRMX&publisher_slug=itechdaily19598&exclusive=1)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Alternatives to consider
@@ -157,17 +157,20 @@ It wouldn't be a bad pick-up, either. The camera system of the previous generati
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-mystery-methods-for-innovative-illustration/"><u>[New] Mystery Methods for Innovative Illustration</u></a></li>
-<li><a href="https://windows11.techidaily.com/6-methods-for-reviving-windows-command-line-interface/"><u>6 Methods for Reviving Windows' Command Line Interface</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/act-now-save-big-with-our-top-choice-of-nomad-iphone-cases-bogo-offer-on-zdnet/"><u>Act Now: Save Big with Our Top Choice of Nomad iPhone Cases - BOGO Offer on ZDNet</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/cookiebot-driven-personalization-enhancing-user-experience-online/"><u>Cookiebot-Driven Personalization: Enhancing User Experience Online</u></a></li>
-<li><a href="https://program-issues.techidaily.com/eliminating-crash-issues-a-users-guide-to-stabilizing-the-wallpaper-engine-on-modern-windows-versions/"><u>Eliminating Crash Issues: A User's Guide to Stabilizing the Wallpaper Engine on Modern Windows Versions</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-the-best-android-unlock-software-for-vivo-y78t-device-top-5-picks-to-remove-android-locks-by-drfone-android/"><u>In 2024, The Best Android Unlock Software For Vivo Y78t Device Top 5 Picks to Remove Android Locks</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/new-make-a-movie-on-your-mac-a-comprehensive-guide-for-2024/"><u>New Make a Movie on Your Mac A Comprehensive Guide for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/public-private-personal-ai-understanding-distinctions/"><u>Public, Private, Personal AI: Understanding Distinctions</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/shop-the-latest-mac-ipad-and-iphone-unveiled-at-wwdc-availability-and-preorders-explained/"><u>Shop the Latest Mac, iPad & iPhone Unveiled at WWDC: Availability and Preorders Explained</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/ultra-fast-and-sleek-the-revolutionary-magsafe-battery-pack-that-defies-the-brick-reputation/"><u>Ultra-Fast and Sleek: The Revolutionary MagSafe Battery Pack That Defies the 'Brick' Reputation</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/unmissable-savings-premier-laptop-bargains-for-july-24-revealed-techbargains/"><u>Unmissable Savings: Premier Laptop Bargains for July '24 Revealed | TechBargains</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/why-does-the-pokemon-go-battle-league-not-available-on-realme-12-proplus-5g-drfone-by-drfone-virtual-android/"><u>Why does the pokemon go battle league not available On Realme 12 Pro+ 5G | Dr.fone</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-smoothly-view-youtube-videos-without-borders/"><u>[New] 2024 Approved How to Smoothly View YouTube Videos without Borders?</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-master-8-android-video-call-apps-for-collaborative-sessions/"><u>[New] Master 8 Android Video Call Apps for Collaborative Sessions</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-convert-youtube-to-mp3-without-compromising-security-3-tips/"><u>[Updated] 2024 Approved How to Convert YouTube to MP3 Without Compromising Security - 3 Tips</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-discover-the-most-popular-screen-recorders-free-version/"><u>[Updated] Discover the Most Popular Screen Recorders - Free Version</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-finding-the-highlighted-online-discourse-for-2024/"><u>[Updated] Finding the Highlighted Online Discourse for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-haute-couture-at-home-makeup-tools-and-techniques-for-2024/"><u>[Updated] Haute Couture at Home Makeup, Tools & Techniques for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-how-big-should-a-good-thumbnail-be-youtubes-ultimate-guide-for-2024/"><u>[Updated] How Big Should a Good Thumbnail Be? YouTube's Ultimate Guide for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-embed-a-youtube-video-in-powerpoint-for-2024/"><u>[Updated] How to Embed a YouTube Video in PowerPoint for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-novice-to-money-maker-on-youtube/"><u>[Updated] In 2024, From Novice to Money-Maker on YouTube</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-groundbreaking-tools-for-analyzing-computer-sounds-and-mics/"><u>2024 Approved Groundbreaking Tools for Analyzing Computer Sounds & Mics</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/asus-laptop-sound-not-working-solved/"><u>ASUS Laptop Sound Not Working [SOLVED]</u></a></li>
+<li><a href="https://win-dash.techidaily.com/easy-guide-for-fresh-installation-of-intel-raid-controller-software-on-various-windows-versions/"><u>Easy Guide for Fresh Installation of Intel RAID Controller Software on Various Windows Versions</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/essential-guide-to-high-quality-fee-free-luts/"><u>Essential Guide to High-Quality, Fee-Free LUTs</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-oppo-reno-8t-5g-to-new-android-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos from Oppo Reno 8T 5G to New Android? | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/say-hello-to-banner-creativity-with-our-curated-set-of-50-free-youtube-pieces-for-2024/"><u>Say Hello to Banner Creativity with Our Curated Set of 50 Free YouTube Pieces for 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Unveiling the Triggers of the 2024 CrowdStrike-Windows Debacle: A Detailed Look Back"
-date: 2024-12-24T17:32:57.708Z
-updated: 2024-12-28T17:19:48.960Z
+date: 2024-12-30T21:18:01.918Z
+updated: 2025-01-07T03:30:21.734Z
 tags:
   - apple
 categories:
@@ -33,7 +33,7 @@ In this case, the trusted software developer is a firm called CrowdStrike Holdin
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What happened?
@@ -55,7 +55,7 @@ Repairing the damage from a flaw like this is a painfully tedious process that r
 If you know anyone whose job involves administering Windows PCs in a corporate network that uses the CrowdStrike code, you can be confident they are very busy right now, and will be for days to come.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## We've seen this movie before
@@ -95,7 +95,7 @@ In the You Can't Make This Up Department… CrowdStrike's founder and CEO, Georg
 What makes the 2024 sequel so much worse is that it also affected Windows-based servers running in the cloud, on Microsoft Azure and on AWS. Just as with the many laptops and desktop PCs that were bricked by this faulty update, the cloud-based servers require time-consuming manual interventions to recover.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## CrowdStrike's QA failed
@@ -125,7 +125,7 @@ As part of its initial response, CrowdStrike says it plans to take additional me
 Meanwhile, the United States House of Representatives Homeland Security Committee plans to call CrowdStrike's CEO up for hearings on what went wrong, and CrowdStrike's Chief Security Officer, Shawn Henry, [posted an apology on LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7220983915421806592/), admitting "On Friday, we failed you. ... The confidence we built in drips over the years was lost in buckets within hours, and it was a gut punch."
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How much fault should Microsoft shoulder?
@@ -176,14 +176,16 @@ Nonetheless, this incident, which caused many billions of dollars' worth of dama
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-formatting-youtubes-auto-subscribe-page-easily/"><u>[New] 2024 Approved Formatting YouTube's Auto-Subscribe Page Easily</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-financial-insights-for-vids-how-much-do-youtubers-earn-per-sponsorship/"><u>[New] In 2024, Financial Insights for Vids How Much Do YouTubers Earn Per Sponsorship?</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-guide-for-effortless-youtube-playlist-downloads/"><u>[Updated] 2024 Approved How-To Guide for Effortless YouTube Playlist Downloads</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-get-rid-of-youtube-ads-with-ease-on-chrome-firefox-ios-android-for-2024/"><u>[Updated] Get Rid of YouTube Ads with Ease on Chrome, Firefox, iOS, Android for 2024</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-infusing-your-reels-with-soundscape-elements/"><u>2024 Approved Infusing Your Reels with Soundscape Elements</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/amazons-quality-soundbass-at-an-affordable-price-review-revealed/"><u>Amazon's Quality Soundbass at an Affordable Price - Review Revealed</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/comprehensive-eero-pro-mesh-network-review-ultimate-wireless-solution-for-whole-house-connectivity/"><u>Comprehensive Eero Pro Mesh Network Review: Ultimate Wireless Solution for Whole House Connectivity</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-explore-the-finest-iosdesktop-video-to-file-converters/"><u>In 2024, Explore the Finest iOS/Desktop Video to File Converters</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/the-allure-of-timeless-style-with-smart-functionality-in-the-withings-move-evaluation/"><u>The Allure of Timeless Style with Smart Functionality in the Withings Move Evaluation</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-finding-storylines-with-google-trends-analysis-techniques/"><u>[New] 2024 Approved Finding Storylines with Google Trends Analysis Techniques</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-free-youtube-subtitled-content-download-without-paying-for-2024/"><u>[New] Free YouTube Subtitled Content Download Without Paying for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-from-concept-to-cut-tape-imovie-steps-for-optimizing-youtube-edits-for-2024/"><u>[Updated] From Concept to Cut-Tape IMovie Steps for Optimizing YouTube Edits for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-how-much-do-youtube-clips-pay-per-view-for-2024/"><u>[Updated] How Much Do YouTube Clips Pay Per View for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-full-scope-understanding-online-performance-artists/"><u>[Updated] In 2024, Full Scope Understanding Online Performance Artists</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/approved-how-to-vlog-confidently-like-popular-youtubers/"><u>2024 Approved How to Vlog Confidently Like Popular YouTubers?</u></a></li>
+<li><a href="https://discover-exceptional.techidaily.com/hoe-snel-kunt-u-data-terugkaatsen-op-een-buitenlands-harde-schijf-na-het-verliezen-van-een-partitie-huidige-tips-voor-de-beste-seo-prestaties/"><u>Hoe Snel Kunt U Data Terugkaatsen Op Een Buitenlands Harde Schijf Na Het Verliezen Van Een Partitie? - Huidige Tips Voor De Beste SEO-Prestaties</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/ipogo-will-be-the-new-ispoofer-on-itel-p40plus-drfone-by-drfone-virtual-android/"><u>iPogo will be the new iSpoofer On Itel P40+? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-contacts-from-agni-2-5g-by-fonelab-android-recover-contacts/"><u>Possible solutions to restore deleted contacts from Agni 2 5G.</u></a></li>
+<li><a href="https://windows11.techidaily.com/1719340671976-run-a-zero-cost-locally-accessible-gpt-on-your-pc-use-gpt4all/"><u>Run a Zero-Cost, Locally Accessible GPT on Your PC – Use GPT4All</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-2024-approved-discover-the-best-digital-stores-for-authentic-wildlife-audio/"><u>Updated 2024 Approved Discover the Best Digital Stores for Authentic Wildlife Audio</u></a></li>
 </ul></div>
 

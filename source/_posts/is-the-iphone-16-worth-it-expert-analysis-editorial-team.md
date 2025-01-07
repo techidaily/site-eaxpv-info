@@ -1,7 +1,7 @@
 ---
 title: Is the iPhone 16 Worth It? Expert Analysis Editorial Team
-date: 2024-12-26T16:34:53.353Z
-updated: 2024-12-28T17:10:48.621Z
+date: 2025-01-01T22:33:24.178Z
+updated: 2025-01-06T20:11:58.512Z
 tags:
   - apple
 categories:
@@ -30,16 +30,12 @@ Here are the top reasons why we are (or aren't) upgrading to the iPhone 16 in th
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Here's why ZDNET editors will be upgrading to the iPhone 16
 
 Kerry Wan/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 1\. The camera
@@ -55,7 +51,7 @@ The Camera Control uses [Apple's Visual Intelligence](https://www.zdnet.com/arti
 "I have the biggest one-sided beef in the world with the iPhone 14\. I can give you material for years. Primarily because the camera is the worst thing I ever experienced on an iPhone. Even the base iPhone 16 model looks way better," Ortiz says.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 2\. Trade-in deals and carrier offers
@@ -69,6 +65,10 @@ ZDNET contributor Ed Bott is planning to upgrade his iPhone 12 Pro Max for a new
 And if you're looking to change carriers, like managing editor Alison DeNisco Rayome, some of the trade-in offers make it hard to resist. "I still have the 13, and the trade-in deals are making it worth it for me to upgrade to the 16 (plus we want to switch carriers, so even better)," she says. 
 
 Verizon and T-Mobile have [similar offers](https://www.zdnet.com/article/how-to-preorder-the-new-iphone-16-and-get-one-free/) right now, and they're pretty sweet. At T-Mobile, new and existing customers can get a free iPhone 16 Pro with a trade-in on the Go5G Next plan, or up to $1,000 off on any iPhone 16 model. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 3\. For work
 
@@ -96,6 +96,10 @@ ZDNET's Jason Perlow is bumping up for similar reasons. "I am upgrading from my 
 
 Jason Hiner/ZDNET
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 1\. The Apple Intelligence features aren't perfect
 
 Apple's biggest flexes over the last few months have been their Apple Intelligence and AI features, [which the iPhone 16 is the guinea pig for](https://www.zdnet.com/article/apple-delivers-on-hardware-upgrades-but-punts-apple-intelligence-rollout/). While some of these new AI features are undeniably cool, like the new Camera Control, enhanced Siri features, and more, the features are still limited to the iPhone 15 Pro and above and rolling out only in beta over the next few weeks. 
@@ -106,6 +110,10 @@ Essentially, this is Apple's first iPhone marketed with an AI push, and like eve
 
 Jason Perlow is on the same page. "Let's not diminish the product for what it is: the iPhone 16 is undeniably great hardware. But unless you're using a old phone -- like my colleague [David Gewirtz's iPhone 12](https://www.zdnet.com/article/6-reasons-why-ios-18-makes-the-iphone-16-a-must-upgrade-for-me/), which is four generations behind -- you should strongly consider skipping this generation. Why? Because Apple Intelligence, while promising, is still in its infancy," Perlow wrote in one of his [recent pieces](https://www.zdnet.com/article/the-iphone-16-is-undeniably-great-hardware-but-you-should-still-probably-skip-it/). 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 2\. Not compelled enough to upgrade
 
 As reviews editor Kyle Kucharski says, it's never a good idea to blindly update your mobile tech every year without thinking. You've got to have at least one good reason to payout for a new model when the one you have is working perfectly fine. 
@@ -114,19 +122,11 @@ As reviews editor Kyle Kucharski says, it's never a good idea to blindly update 
 
 Staff writer Maria Diaz thinks the same. "I have the iPhone 14 Pro Max and am still happy with it. It performs just as well as when I got it. I wish the camera were better (but the BlackMagic app helps a lot with this) and I would like the convenience of a USB-C port, but it's still working well enough that I don't feel compelled at all to get an iPhone 16\. I'm holding out for next year, at least," Diaz says. Kucharski is on the same page. "I still have the 12, and the bottom line: it still works fine," he says. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 3\. Expense and hassle
 
 Sometimes it's the most obvious factors that influence our choices. The expense and hassle of coordinating a new phone may not be in some people's budgets just yet (literally and figuratively). I'm in this department. It would be really cool to have that shiny, beautiful, and gloriously pink iPhone 16, but my iPhone 14 Pro works completely fine (even though its battery grinds my gears), and I have no good reason to upgrade beyond wanting a pink phone. It would be an added expense on both my wallet and my time (setting up a new phone is not a one-day process; change my mind). Plus, I usually keep my phones until they crap out anyway, so an upgrade right now is just not in the cards. 
 
 ZDNET's Adrian Kingsley-Hughes is still on the fence, but we agree on one thing. "It's a ton of money," he says.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to preorder the iPhone 16
 
@@ -168,24 +168,22 @@ The [iPhone 16 Pro](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&pa
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-2024-approved-enhance-footage-quality-with-premium-handheld-stabilizers/"><u>[New] 2024 Approved Enhance Footage Quality with Premium Handheld Stabilizers</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-2024-approved-essential-cloud-hookups-for-android/"><u>[Updated] 2024 Approved Essential Cloud Hookups for Android</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/aac-to-wav-conversion-en-online-gratis-movavi/"><u>AAC to WAV Conversion en Online Gratis - Movavi</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/free-online-jpeg-converter-convert-mef-to-jpg-with-movavi/"><u>Free Online JPEG Converter - Convert MEF to JPG with Movavi</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-quickly-fix-bluetooth-not-working-on-samsung-galaxy-a14-4g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Quickly Fix Bluetooth Not Working on Samsung Galaxy A14 4G | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-reasons-why-pokemon-gps-does-not-work-on-vivo-s17-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Reasons why Pokémon GPS does not Work On Vivo S17 Pro? | Dr.fone</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/ios-vs-android-a-detailed-look-at-app-store-features-against-google-play/"><u>IOS Vs. Android: A Detailed Look at App Store Features Against Google Play</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/mastering-multiplayer-connecting-your-nintendo-switch-to-a-flatscreen-display/"><u>Mastering Multiplayer: Connecting Your Nintendo Switch to a Flatscreen Display</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/movavis-no-cost-online-tool-for-bmp-and-gif-file-conversion-simple-fast-and-reliable/"><u>Movavi's No-Cost Online Tool for BMP and GIF File Conversion - Simple, Fast & Reliable</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/online-free-conversion-transforming-mp4m4a-files-into-aac-format-with-ease-using-movavi/"><u>Online Free Conversion: Transforming MP4/M4A Files Into AAC Format with Ease Using Movavi</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/professionele-online-lusmaatrix-3g2-in-mpeg-konverteren-gratis-bij-movavi/"><u>Professionele Online Lusmaatrix: 3G2 in MPEG Konverteren Gratis Bij Movavi</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/riconverti-i-tuoi-gif-in-formato-png-senza-costi-su-movavi-servizio-di-conversione-on-the-go/"><u>Riconverti I Tuoi GIF in Formato PNG Senza Costi Su Movavi - Servizio Di Conversione on the Go</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/step-by-step-guide-to-mastering-kinemaster-plus-10-best-video-editors-online/"><u>Step-by-Step Guide to Mastering KineMaster + 10 Best Video Editors Online</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/the-best-android-unlock-software-for-infinix-note-30-vip-racing-edition-device-top-5-picks-to-remove-android-locks-by-drfone-android/"><u>The Best Android Unlock Software For Infinix Note 30 VIP Racing Edition Device Top 5 Picks to Remove Android Locks</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/the-efficient-use-of-slug-lines-in-content-writing/"><u>The Efficient Use of Slug Lines in Content Writing</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/top-11-profesjonelle-video-editing-tools-2024-optimert-for-nyttark/"><u>Top 11 Profesjonelle Video Editing Tools 2024 - Optimert For Nyttark</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/transformation-facile-et-gratuite-de-votre-fichier-aiff-en-m4r-en-ligne-explorez-les-solutions-de-movavi/"><u>Transformation Facile Et Gratuite De Votre Fichier AIFF en M4R en Ligne - Explorez Les Solutions De Movavi</u></a></li>
-<li><a href="https://games-able.techidaily.com/unpacking-the-distinctions-between-steam-and-gog/"><u>Unpacking the Distinctions Between Steam and GOG</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/wmv-webm-movavi/"><u>WMV, WEBM 영상 무료 변환: 온라인에서 제공하는 속임수를 효과적으로 사용하기 - Movavi</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-11-free-youtube-playlist-downloadersonlinepcandroidios/"><u>[New] 2024 Approved 11 FREE YouTube Playlist Downloaders[Online/PC/Android/iOS)</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-generating-wealth-with-makeup-channels/"><u>[New] 2024 Approved Generating Wealth with Makeup Channels</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-swiftly-excise-your-youtube-comment-spam/"><u>[New] 2024 Approved How to Swiftly Excise Your Youtube Comment Spam</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-fifa-visuals-key-youtube-video-trends/"><u>[New] In 2024, FIFA Visuals Key YouTube Video Trends</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-embed-a-youtube-playlist-on-a-website/"><u>[New] In 2024, How To Embed A YouTube Playlist On a Website</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-frequent-uploads-can-skyro-cookie-sales-on-your-youtube-channel/"><u>[Updated] 2024 Approved How Frequent Uploads Can Skyro Cookie Sales on Your YouTube Channel</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-fast-track-channel-growth-to-partner-status-aim-for-10000-views/"><u>[Updated] In 2024, Fast-Track Channel Growth to Partner Status – Aim for 10,000 Views</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-filmora-tutorials-simple-steps-to-a-dynamic-youtube-subscribe-button/"><u>[Updated] In 2024, Filmora Tutorials Simple Steps to a Dynamic YouTube Subscribe Button</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-highhurdle-slowmomenttape/"><u>[Updated] In 2024, HighHurdle SlowMomentTape</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/approved-from-childhood-to-cash-flow-young-kajis-youtube-economic-surge/"><u>2024 Approved From Childhood to Cash Flow Young Kaji’s YouTube Economic Surge</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/breezing-through-apex-no-downtime-now/"><u>Breezing Through Apex: No Downtime Now!</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/debunking-ai-myths-inadequate-cryptocurrency-expertise/"><u>Debunking AI Myths: Inadequate Cryptocurrency Expertise</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/expert-opinion-on-the-google-pixel-5-affordable-elite-experience-unveiled/"><u>Expert Opinion on the Google Pixel 5: Affordable Elite Experience Unveiled</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-factory-unlock-your-telstra-iphone-11-pro-max-by-drfone-ios/"><u>How To Factory Unlock Your Telstra iPhone 11 Pro Max</u></a></li>
+<li><a href="https://fox-http.techidaily.com/in-2024-the-top-picks-for-hd-video-playback-on-your-android-device/"><u>In 2024, The Top Picks for HD Video Playback on Your Android Device</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/in-2024-weaving-music-threads-of-youtube-in-videos/"><u>In 2024, Weaving Music Threads of YouTube in Videos</u></a></li>
+<li><a href="https://video-capture.techidaily.com/screen-capture-showdown-is-obs-superior-to-twitch-studio-for-2024/"><u>Screen Capture Showdown Is OBS Superior to Twitch Studio for 2024</u></a></li>
 </ul></div>
 

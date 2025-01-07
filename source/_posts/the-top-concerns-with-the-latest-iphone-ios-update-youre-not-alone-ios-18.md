@@ -1,7 +1,7 @@
 ---
 title: The Top Concerns with the Latest iPhone iOS Update – You’re Not Alone (iOS 18)
-date: 2024-12-21T17:05:06.157Z
-updated: 2024-12-28T16:26:41.992Z
+date: 2025-01-03T20:00:30.628Z
+updated: 2025-01-07T04:03:37.928Z
 tags:
   - apple
 categories:
@@ -60,7 +60,7 @@ Aside from the inferior Photos app navigation, videos in the Photos app no longe
 "The UX is a huge downgrade. It's so bad that I had to submit feedback to Apple via the feedback app in the beta. Never did one of those when it wasn't a technical bug, just pure user experience frustration," another [Redditor said](https://www.reddit.com/r/apple/comments/1e2jtq5/comment/ld1wsjg/?utm%5Fsource=share&utm%5Fmedium=web3x&utm%5Fname=web3xcss&utm%5Fterm=1&utm%5Fcontent=share%5Fbutton).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to navigate the iOS 18 Photos app
@@ -109,18 +109,18 @@ I hope a future version of iOS 18 will bring back the Camera Roll or at least to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-bandicam-reconnaissance-a-comprehensive-review-of-its-features/"><u>[New] In 2024, Bandicam Reconnaissance A Comprehensive Review of Its Features</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-in-2024-integrating-obs-for-youtube-and-twitch-streaming/"><u>[New] In 2024, Integrating OBS for YouTube & Twitch Streaming</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-in-depth-look-mycam-cams-performance/"><u>[Updated] In-Depth Look MyCam Cam's Performance</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-through-the-lens-sage-advice-for-improving-your-edits/"><u>[Updated] Through the Lens Sage Advice for Improving Your Edits</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/4-routes-to-confirm-gpt-functionality-now/"><u>4 Routes to Confirm GPT Functionality Now</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/conversione-libera-sul-web-da-m1v-a-mp4-con-movavi-il-tuo-guida-completa-per-la-modifica-video/"><u>Conversione Libera Sul Web Da M1V a MP4 Con Movavi: Il Tuo Guida Completa per La Modifica Video</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/est-ce-que-capter-une-conversation-implique-des-risques-legaux-si-on-na-pas-la-consentement/"><u>Est-Ce Que Capter Une Conversation Implique Des Risques Légaux Si On N'A Pas La Consentement?</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/guia-paso-a-paso-para-convertir-gratuitamente-musica-wav-a-mpeg-usando-servicios-en-linea-soluciones-recomendadas/"><u>Guía Paso a Paso Para Convertir Gratuitamente Música WAV a MPEG Usando Servicios en Línea: Soluciones Recomendadas</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-lost-data-on-iphone-6s-plus-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How To Recover Lost Data on iPhone 6s Plus? | Dr.fone</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/24-score-your-youtube-content-with-these-free-sounds/"><u>In 2024, Score Your YouTube Content With These Free Sounds</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/m4vwav-movavi/"><u>M4VとWAVファイルを無料で簡単に変換 - Movavi</u></a></li>
-<li><a href="https://techtrends.techidaily.com/revolutionary-tricks-to-juice-up-your-mobile-device-sans-charger/"><u>Revolutionary Tricks to Juice Up Your Mobile Device Sans Charger</u></a></li>
-<li><a href="https://article-posts.techidaily.com/the-ultimate-dji-phantom-4-extension-kit-list/"><u>The Ultimate DJI Phantom 4 Extension Kit List</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-copyright-concerns-with-recording-youtube-content/"><u>[New] 2024 Approved Copyright Concerns with Recording YouTube Content</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-the-2023-shift-in-facebooks-video-presentation-style/"><u>[New] 2024 Approved The 2023 Shift in Facebook’s Video Presentation Style</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-connecting-the-dots-televisions-meet-facebook-lives/"><u>[New] In 2024, Connecting the Dots Televisions Meet Facebook Lives</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-youtube-ad-revenue-how-much-do-youtubers-make-per-ad-in-2024/"><u>[New] YouTube Ad Revenue How Much Do YouTubers Make Per Ad, In 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-free-explore-youtubes-9-premium-full-length-christmas-flicks/"><u>[Updated] 2024 Approved Free Explore YouTube's 9 Premium Full-Length Christmas Flicks</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-average-to-exceptional-discover-the-finest-free-intra-designs/"><u>[Updated] 2024 Approved From Average to Exceptional Discover the Finest Free Intra Designs</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-often-to-post-a-guide-to-youtube-video-upload-patterns-for-success/"><u>[Updated] 2024 Approved How Often to Post A Guide to YouTube Video Upload Patterns for Success</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1-tailoring-your-microsoft-excel-a-step-by-step-guide-to-modifying-the-status-bar/"><u>1. Tailoring Your Microsoft Excel: A Step-by-Step Guide to Modifying the Status Bar</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-advanced-3d-shaping-crafting-perfect-mc-circles-and-spheres/"><u>2024 Approved Advanced 3D Shaping Crafting Perfect MC Circles & Spheres</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/2024-approved-the-best-virtualdub-replacements-for-video-editing/"><u>2024 Approved The Best Virtualdub Replacements for Video Editing</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-change-lock-screen-wallpaper-on-oppo-a79-5g-by-drfone-android/"><u>How to Change Lock Screen Wallpaper on Oppo A79 5G</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-vivo-y27-5g-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Vivo Y27 5G to Other Android Devices? | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/secure-and-speedy-x230-lenovo-driver-downloads-enhance-your-device-effortlessly/"><u>Secure and Speedy X230 Lenovo Driver Downloads - Enhance Your Device Effortlessly</u></a></li>
 </ul></div>
 

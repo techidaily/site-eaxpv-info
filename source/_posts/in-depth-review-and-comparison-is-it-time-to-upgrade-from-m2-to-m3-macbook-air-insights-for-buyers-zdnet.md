@@ -1,7 +1,7 @@
 ---
 title: "In-Depth Review & Comparison: Is It Time to Upgrade From M2 to M3 MacBook Air? Insights for Buyers | ZDNET"
-date: 2024-12-21T17:05:38.306Z
-updated: 2024-12-28T17:31:50.627Z
+date: 2025-01-02T07:17:33.920Z
+updated: 2025-01-07T00:14:34.812Z
 tags:
   - apple
 categories:
@@ -24,10 +24,6 @@ Apple has wrapped up its [year of iPad releases](https://www.zdnet.com/article/b
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Apple
 
 * [Every iPhone model that will be updated to Apple's iOS 18 (and which ones can't)](https://www.zdnet.com/article/every-iphone-model-that-can-be-updated-to-apples-ios-18-and-which-ones-cant/)
@@ -40,6 +36,10 @@ In the newest iPad Air 5 lives the company's tried-and-true [M1 processor](https
 But if pricing impacts your buying decision, then the similarly-designed iPad Air 4 is just as worthy of your consideration and can be had for noticeably less money. Read on to learn more about what the defining features are for both models and why you should pick one over the other.
 
 **Also: [The best iPad Air cases](https://www.zdnet.com/article/best-ipad-air-case/)**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Specifications
 
@@ -85,7 +85,7 @@ You will, of course, need to be under a 5G data plan, have the appropriate nano-
 [Apple iPad Air (2022) $499.97 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0DD2F93LD%2Fref%3Dasc%5Fdf%5FB0DD2F93LD1726743600000%3Fcreative%3D395261%26creativeASIN%3DB0DD2F93LD%26linkCode%3Dasn%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cc2f96935-50b5-4c02-9352-a589939a7557%7Cdtp&dtb=1)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## You should buy the iPad Air 4 (2020) if...
@@ -93,7 +93,7 @@ You will, of course, need to be under a 5G data plan, have the appropriate nano-
 Image: Apple
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 1\. Price comes before anything else
@@ -105,22 +105,22 @@ With the release of the new iPad Air, most third-party retailers have since mark
 ## FAQ
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Should I get the iPad Air 4 (2020) or the iPad Air 5 (2022)?
 
 You should buy the iPad Air 5 (2022) if you're looking to upgrade to the Apple M1 chip, you want a better front camera and FaceTime experience, or you want to upgrade to a 5G iPad. You should get the iPad Air 4 (2020) if the price comes before anything else. Many retailers are lowering their prices of the older iPad 4 model to clear inventory, making the 2020 model the more cost-effective iPad of the two.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Does the Apple Pencil (1st Gen) work with the iPad Air?
 
 The 1st-gen Apple Pencil is not compatible with either of the two iPad Air models mentioned in this article. Instead, you'll have to buy Apple's 2nd-gen stylus, which uses USB-C for charging and pairing, for the newer tablets.
 
 Our [guide to finding the right Apple Pencil and how to pair it](https://www.zdnet.com/article/how-to-pair-and-charge-your-apple-pencil/) breaks down the full list of compatible devices.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## What's the best alternative to the iPad Air?
 
@@ -162,18 +162,22 @@ If you're still on the fence, below are the best alternatives to the iPad Air.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/5-premium-free-music-websites-every-videographer-needs-for-2024/"><u>[New] 15 Premium, Free Music Websites Every Videographer Needs for 2024</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/new-rapid-training-image-transformation-for-dynamic-youtube-desktop-thumbnails/"><u>[New] Rapid Training Image Transformation for Dynamic YouTube Desktop Thumbnails</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-expedite-your-file-format-journey-from-srt-to-txt/"><u>[Updated] 2024 Approved Expedite Your File Format Journey From SRT to TXT</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-perfecting-visual-output-integrating-luts-into-ae-projects/"><u>[Updated] Perfecting Visual Output Integrating LUTs Into AE Projects</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/1-from-dysfunctional-to-dynamic-my-journey-of-fixing-the-apple-vision-pro-issues-discover-the-steps/"><u>1. From Dysfunctional to Dynamic: My Journey of Fixing the Apple Vision Pro Issues – Discover The Steps!</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/capturing-audio-and-video-the-ultimate-guide-to-screen-recording-on-all-devices/"><u>Capturing Audio & Video: The Ultimate Guide to Screen Recording on All Devices</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/descubre-las-tecnicas-clave-para-realizar-un-time-lapse-fotografico-con-exito-en-3-formas-unicas/"><u>Descubre Las Técnicas Clave Para Realizar Un Time-Lapse Fotográfico Con Éxito en 3 Formas Únicas</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/te-your-content-pc-video-editing-for-effective-youtube-presentations/"><u>Elevate Your Content PC Video Editing for Effective YouTube Presentations</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-simplifying-vfx-with-magix-video-pro-x/"><u>In 2024, Simplifying VFX with Magix Video Pro X</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/riporta-i-tuoi-video-wtv-ad-avi-senza-spese-utilizzando-il-servizio-di-conversione-online-piu-veloce/"><u>Riporta I Tuoi Video WTV Ad AVI Senza Spese Utilizzando Il Servizio Di Conversione Online Più Veloce!</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/the-complete-hands-free-navigation-manual-for-2024/"><u>The Complete Hands-Free Navigation Manual for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/tutoriel-rapide-creer-un-photomontage-sur-mesure-en-quelques-clics-chez-movavi/"><u>Tutoriel Rapide: Créer Un Photomontage Sur Mesure en Quelques Clics Chez Movavi</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/dng/"><u>영구화가 있는 DNG 파일 전환기 - 인터넷을 통한 공급원 무료</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-hobby-to-hustle-making-money-with-videos/"><u>[New] 2024 Approved From Hobby to Hustle Making Money with Videos</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-green-filming-gurus-on-yt-transform-your-set-with-greenscreens/"><u>[New] 2024 Approved Green Filming Gurus on YT Transform Your Set with Greenscreens</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-guide-free-youtube-downloads-without-programs/"><u>[New] 2024 Approved Guide Free YouTube Downloads Without Programs</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/1717721242402-new-2024-approved-how-to-record-good-audio-without-a-microphone/"><u>[New] 2024 Approved How to Record Good Audio Without a Microphone?</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-fifa-video-highlights-top-youtube-data-infographics/"><u>[New] In 2024, FIFA Video Highlights Top YouTube Data Infographics</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-unlock-your-true-instagram-potential-followers-guide/"><u>[New] In 2024, Unlock Your True Instagram Potential - Followers Guide</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-2024-approved-guide-to-reinventing-facebook-video-coverages-step-by-step/"><u>[Updated] 2024 Approved Guide to Reinventing Facebook Video Coverages Step-by-Step</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-high-revenue-streaming-star-across-the-globe/"><u>[Updated] 2024 Approved High Revenue Streaming Star Across the Globe</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-precise-preservation-how-to-capture-windows/"><u>[Updated] 2024 Approved Precise Preservation How to Capture Windows</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-from-selfie-snaps-to-skincare-specials-establishing-your-youtube-brand-for-2024/"><u>[Updated] From Selfie Snaps to Skincare Specials Establishing Your YouTube Brand for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-render-and-upload-youtube-videos-faster/"><u>[Updated] In 2024, How to Render and Upload YouTube Videos Faster?</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-in-2024-the-framework-for-seamless-video-storytelling/"><u>[Updated] In 2024, The Framework for Seamless Video Storytelling</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/did-your-apple-iphone-xr-passcode-change-itself-unlock-it-now-by-drfone-ios/"><u>Did Your Apple iPhone XR Passcode Change Itself? Unlock It Now</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-can-you-unlock-iphone-xs-max-after-forgetting-the-passcode-by-drfone-ios/"><u>In 2024, Can You Unlock iPhone XS Max After Forgetting the Passcode?</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/network-locked-sim-card-inserted-on-your-oppo-reno-10-pro-5g-phone-unlock-it-now-by-drfone-android/"><u>Network Locked SIM Card Inserted On Your Oppo Reno 10 Pro 5G Phone? Unlock It Now</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/pledges-to-self-steps-to-fruition/"><u>Pledges to Self: Steps to Fruition</u></a></li>
+<li><a href="https://fox-links.techidaily.com/transforming-digital-art-with-free-versatile-lut-tools-for-2024/"><u>Transforming Digital Art with Free, Versatile LUT Tools for 2024</u></a></li>
 </ul></div>
 

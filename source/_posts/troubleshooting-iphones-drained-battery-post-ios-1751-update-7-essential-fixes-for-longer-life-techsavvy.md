@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting iPhone's Drained Battery Post-iOS 17.5.1 Update: 7 Essential Fixes for Longer Life | TechSavvy"
-date: 2024-12-27T17:11:15.476Z
-updated: 2024-12-28T17:33:55.043Z
+date: 2025-01-05T18:23:20.832Z
+updated: 2025-01-06T21:52:23.743Z
 tags:
   - apple
 categories:
@@ -31,7 +31,7 @@ If you want to follow along, you'll need to install the iOS 18 public beta on an
 ## How to customize your iPhone's new Control Center with iOS 18
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Access Control Center
@@ -39,6 +39,10 @@ If you want to follow along, you'll need to install the iOS 18 public beta on an
 To display Control Center, swipe down from the top-right corner of the screen. You'll notice that Control Center is now separated into three different screens. The first screen displays the core controls, the second screen shows the audio player and related settings, and the third has connectivity options. Swipe up or down to move from one screen to another, or tap one of the three icons on the right to jump to a specific one.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Move the available controls
 
@@ -49,7 +53,7 @@ Screenshot by Lance Whitney/ZDNET
 **Also: [Every iPhone model that can be updated to Apple's iOS 18 (and which ones can't)](https://www.zdnet.com/article/every-iphone-model-that-can-be-updated-to-apples-ios-18-and-which-ones-cant/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Resize a control
@@ -58,10 +62,6 @@ After tapping the plus icon, some controls sport a gray curved handle in the low
 
 Screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4\. Delete a control
 
 Next, you can directly delete a control you don't need or want. With the icons in edit mode, tap the minus sign for the icon you want to remove. When the icon is deleted, the surrounding icons should move to fill up the gap.
@@ -69,7 +69,7 @@ Next, you can directly delete a control you don't need or want. With the icons i
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Add a control to an existing screen
@@ -80,15 +80,15 @@ Screenshot by Lance Whitney/ZDNET
 
 **Also: [I did not expect this iOS 18 feature announced at WWDC to be my favorite (and it's not AI)](https://www.zdnet.com/article/i-did-not-expect-this-ios-18-feature-announced-at-wwdc-to-be-my-favorite-and-its-not-ai/)**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 6\. Add a control to a new screen
 
 If the current screens are already filled with icons, you can set up additional screens to hold more controls. Swipe down to the last screen, which shouldn't have any free space. Tap the plus icon and then tap "Add a Control." Again, browse or search for the control you wish to add. Tap that control, and it should appear in a new screen. You can continue adding more controls to the new screen this way. You can create as many as 15 screens, though you'll probably want to stop before you reach that number.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 7\. Power down from Control Center
 
@@ -126,17 +126,18 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-in-2024-bridging-music-sections-advanced-audacity-techniques/"><u>[New] In 2024, Bridging Music Sections Advanced Audacity Techniques</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-zoom-basics-for-non-experts-setting-up-your-first-meeting/"><u>[New] Zoom Basics for Non-Experts Setting Up Your First Meeting</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/2023s-premier-apple-application-lineup-reviewed-by-zdnet-the-ultimate-selection/"><u>2023'S Premier Apple Application Lineup Reviewed by ZDNet: The Ultimate Selection</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/how-to-repair-a-corrupt-bios-memory-and-eliminate-cmos-checksum-mistakes/"><u>How to Repair a Corrupt BIOS Memory and Eliminate CMOS Checksum Mistakes</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-best-free-mov-file-joining-solutions/"><u>In 2024, Best Free MOV File Joining Solutions</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/navigating-hurdles-in-conversation-with-chatgpt-remedies-to-prevalent-problems/"><u>Navigating Hurdles in Conversation with ChatGPT: Remedies to Prevalent Problems</u></a></li>
-<li><a href="https://facebook.techidaily.com/streamline-your-feed-top-10-fb-app-tweaks-for-users/"><u>Streamline Your Feed: Top 10 FB App Tweaks for Users</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/the-allure-of-the-new-ipad-air-discover-4-undeniable-reasons-from-apple-that-make-it-worth-your-attention-zdnet/"><u>The Allure of the New iPad Air: Discover 4 Undeniable Reasons From Apple that Make It Worth Your Attention | ZDNET</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/tips-and-tricks-for-setting-up-your-itel-a70-phone-pattern-lock-by-drfone-android/"><u>Tips and Tricks for Setting Up your Itel A70 Phone Pattern Lock</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/top-10-microsoft-enterprise-solutions-for-ios-2022-best-picks-by-zdnet/"><u>Top 10 Microsoft Enterprise Solutions for iOS - 2022 Best Picks by ZDNet</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/top-rated-mini-tablets-comprehensive-reviews-and-performance-testing-by-tech-experts/"><u>Top Rated Mini Tablets : Comprehensive Reviews & Performance Testing by Tech Experts</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unveiling-high-tech-secrets-at-toms-gear-and-hardware-insights/"><u>Unveiling High-Tech Secrets at Tom's Gear & Hardware Insights</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-guaranteed-safe-approaches-for-turning-youtube-songs-into-mp3-files-for-2024/"><u>[New] Guaranteed Safe Approaches for Turning YouTube Songs Into MP3 Files for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-harmonize-your-listens-the-complete-path-to-youtube-playlist-making-webmobile-for-2024/"><u>[New] Harmonize Your Listens The Complete Path to YouTube Playlist Making (Web/Mobile) for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-in-2024-cross-platform-filmography-syncing-smartphones-and-systems/"><u>[New] In 2024, Cross-Platform Filmography Syncing Smartphones and Systems</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-flavorful-follows-top-food-vloggers-to-track/"><u>[New] In 2024, Flavorful Follows Top Food Vloggers to Track</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-step-by-step-guide-to-find-youtube-hidden-videos/"><u>[New] In 2024, Step-By-Step Guide to Find YouTube Hidden Videos</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-photos-come-alive-with-accompanied-melodies/"><u>[New] Photos Come Alive with Accompanied Melodies</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-fitness-through-yoga-youtube-channel-hits-list-for-2024/"><u>[Updated] Fitness Through Yoga YouTube Channel Hits List for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-first-steps-in-the-digital-dollar-youtube-earning-hacks/"><u>[Updated] In 2024, First Steps in the Digital Dollar - YouTube Earning Hacks</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-mastering-the-art-with-sony-fdr-x1000v-action-footage/"><u>[Updated] Mastering the Art with Sony FDR-X1000V Action Footage</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-maximize-your-iphone-xs-selfie-potential-top-free-apps/"><u>2024 Approved Maximize Your iPhone X's Selfie Potential - Top Free Apps</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/editing-and-digitally-signing-pdf-documents-with-your-android-device-a-comprehensive-guide/"><u>Editing & Digitally Signing PDF Documents with Your Android Device: A Comprehensive Guide</u></a></li>
+<li><a href="https://win-dash.techidaily.com/freshest-driver-update-available-for-rtx-2080-users-running-windows-11-7-or-8/"><u>Freshest Driver Update Available for RTX 2080 Users Running Windows 11, 7, or 8</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-in-2024-fcp-in-the-spotlight-10-acclaimed-movies/"><u>New In 2024, FCP in the Spotlight 10 Acclaimed Movies</u></a></li>
 </ul></div>
 

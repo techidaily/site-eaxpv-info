@@ -1,7 +1,7 @@
 ---
 title: "Meta Quest 3 Vs. Apple Vision Pro: Who Wins in the AI Race? Activate Advanced Features Now | Innovative Tech Insights"
-date: 2024-12-26T16:44:53.616Z
-updated: 2024-12-28T16:42:03.755Z
+date: 2025-01-05T21:14:40.637Z
+updated: 2025-01-06T22:04:31.160Z
 tags:
   - apple
 categories:
@@ -37,7 +37,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The cost of GPU processing
@@ -49,7 +49,7 @@ Advanced AI features require substantial computational power, typically provided
 Even [major AI service providers](https://www.zdnet.com/article/best-ai-chatbot/) such as OpenAI, Microsoft, and Google encounter challenges in offering dependable and quick access to LLM and Generative AI models to the general public without downtime and overcommitting resources. The shortage and cost of GPU-enabled servers make these issues worse. To maintain the rapid response times expected by its customers, Apple will need to invest substantially in servers, data centers, and edge infrastructure -- an infrastructure level it likely does not currently possess.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Apple's approach to Private Cloud Compute (PCC)
@@ -61,7 +61,7 @@ For the initial rollout of Apple Intelligence, the company has chosen a hybrid a
 Apple is currently focused on rolling out its [Generative AI services](https://www.zdnet.com/article/apple-unveils-on-device-ai-image-generator-for-iphone-ipad-and-mac/) to high-end devices as part of the initial phase of Apple Intelligence deployment. This allows Apple to enhance its AI capabilities and infrastructure before expanding to a wider range of devices. To bring Apple Intelligence to the rest of its ecosystem, the company will likely deploy AI-accelerated server appliances at the edge, enabling less capable devices to benefit from advanced AI features. However, this infrastructure is not yet ready for large-scale deployment, as Apple's shift towards AI development is still recent.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The challenges of edge computing
@@ -75,7 +75,7 @@ While NVIDIA is a major player in the GPU server space, others include tradition
 As reported by _The Register_, Apple is [developing its own AI servers](https://www.theregister.com/2024/06/11/apple%5Fbuilt%5Fai%5Fcloud%5Fservers%5Fos/), which are expected to be more cost-effective and better integrated with its ecosystem. These servers are currently being tested in data centers for foundation model use, and a broader rollout is anticipated in 2025\. This phased approach ensures Apple can maintain high privacy, security, and user experience standards while gradually expanding its AI capabilities across its device lineup.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Broader implications for IoT and other devices
@@ -120,21 +120,18 @@ As Apple continues developing its AI infrastructure, including potential edge co
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/updated-in-2024-windows-10s-finest-film-and-multimedia-editing-apps-guide/"><u>[Updated] In 2024, Windows 10'S Finest Film and Multimedia Editing Apps Guide</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/ape-a-portata-di-mano-il-convertitore-online-esclusivo-e-gratuito-di-movavi/"><u>APE a Portata Di Mano: Il Convertitore OnLine Esclusivo E Gratuito Di Movavi</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/comment-transformer-vos-videos-wmv-en-aac-rapidement-et-gratuitement-sur-le-site-web-de-movavi-une-solution-parfaite-pour-tous-les-utilisateurs/"><u>Comment Transformer Vos Vidéos WMV en AAC Rapidement Et Gratuitement Sur Le Site Web De Movavi : Une Solution Parfaite Pour Tous Les Utilisateurs</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/easy-tutorial-for-activating-icloud-on-iphone-se-2022-safe-and-legal-by-drfone-ios/"><u>Easy Tutorial for Activating iCloud on iPhone SE (2022) Safe and Legal</u></a></li>
-<li><a href="https://extra-information.techidaily.com/in-2024-achieve-balance-in-visuals-through-aspect-choices/"><u>In 2024, Achieve Balance in Visuals Through Aspect Choices</u></a></li>
-<li><a href="https://fox-info.techidaily.com/in-2024-from-concept-to-creation-making-a-dynamic-podcast-teaser/"><u>In 2024, From Concept to Creation Making a Dynamic Podcast Teaser</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-reset-gmail-password-on-honor-devices-by-drfone-android/"><u>In 2024, How to Reset Gmail Password on Honor Devices</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-use-special-features-virtual-location-on-realme-12-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How To Use Special Features - Virtual Location On Realme 12 Pro 5G? | Dr.fone</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/les-meilleurs-outils-de-creation-de-diapositives-pour-2024-faciles-et-gratuits-avec-movavi/"><u>Les Meilleurs Outils De Création De Diapositives Pour 2024 : Faciles Et Gratuits Avec Movavi</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/online-mp4-to-wav-video-transcoder-by-movavi-fast-free-easy-uploads/"><u>Online MP4 to WAV Video Transcoder by Movavi: Fast, Free, Easy Uploads!</u></a></li>
-<li><a href="https://windows11.techidaily.com/repairing-filesystem-issues-with-ease-on-windows-11/"><u>Repairing Filesystem Issues with Ease on Windows 11</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/step-by-step-shortcut-for-easy-mac-screen-recording/"><u>Step-by-Step Shortcut for Easy Mac Screen Recording</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/transformer-un-fichier-ape-en-mp4-gratuitement-en-ligne-guide-detaille-avec-movavi/"><u>Transformer Un Fichier APE en MP4 Gratuitement en Ligne : Guide Détaillé Avec Movavi</u></a></li>
-<li><a href="https://win-trending.techidaily.com/wie-kan-jij-een-ontwekte-gegooid-foto-herstellen-aan-jouw-iphone-na-30-dagen/"><u>Wie Kan Jij Een Ontwekte Gegooid Foto Herstellen Aan Jouw iPhone Na 30 Dagen?</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/zelfsnipperend-bmp-naar-png-bewerking-online-en-kostenloos-movavi-grafics-converter/"><u>Zelfsnipperend BMP Naar PNG Bewerking Online en Kostenloos – Movavi Grafics Converter</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/mkvavi-movavi/"><u>무료 MKV/AVI 형식 전환기 - 웹에서 사용하는 동작으로 Movavi를 탐구합시다</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-maintain-youtube-session-in-the-background/"><u>[New] 2024 Approved How to Maintain YouTube Session in the Background</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-for-social-media-savants-distinguishing-between-igtv-and-youtube/"><u>[New] In 2024, For Social Media Savants Distinguishing Between IGTV & YouTube</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/teps-for-inspirational-daily-living-visual-stories-for-2024/"><u>[New] Steps for Inspirational Daily Living Visual Stories for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-building-a-successful-livestream-empire-youtube-edition/"><u>[Updated] 2024 Approved Building a Successful Livestream Empire YouTube Edition</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-zero-to-hundred-hundreders-yt-success-story/"><u>[Updated] In 2024, From Zero to Hundred Hundreders YT Success Story</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-make-profitable-youtube-ads-for-free/"><u>[Updated] In 2024, How To Make Profitable YouTube Ads for Free?</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/enhancing-user-experience-a-quick-how-to-for-youtube-cc-and-subtitles-for-2024/"><u>Enhancing User Experience A Quick How-To for YouTube CC & Subtitles for 2024</u></a></li>
+<li><a href="https://techidaily.com/how-to-install-the-latest-ios-beta-version-on-apple-iphone-x-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Install the Latest iOS Beta Version on Apple iPhone X? | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/spotlight-on-mobile-games-most-captivating-traits/"><u>Spotlight on Mobile Games' Most Captivating Traits</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-review-expert-insights-into-cutting-edge-hardware/"><u>Tom's Tech Review: Expert Insights Into Cutting-Edge Hardware</u></a></li>
+<li><a href="https://video-capture.techidaily.com/tune-tracker-next-gen-audio-for-2024/"><u>Tune Tracker Next-Gen Audio for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/virtualdub-for-mac-easily-edit-video-in-mac/"><u>VirtualDub for Mac Easily Edit Video in Mac</u></a></li>
+<li><a href="https://techidaily.com/your-complete-guide-to-reset-infinix-note-30-5g-drfone-by-drfone-reset-android-reset-android/"><u>Your Complete Guide To Reset Infinix Note 30 5G | Dr.fone</u></a></li>
 </ul></div>
 

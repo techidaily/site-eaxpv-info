@@ -1,7 +1,7 @@
 ---
 title: Unbeatable Deal on MacBook Air with M1 Chip at Only $649 - Exclusive Offer From ZDNet
-date: 2024-12-25T17:28:53.105Z
-updated: 2024-12-28T16:32:32.495Z
+date: 2024-12-31T21:20:01.745Z
+updated: 2025-01-07T03:40:30.787Z
 tags:
   - apple
 categories:
@@ -42,7 +42,7 @@ At $649, this is the lowest price for the M1 version of the MacBook Air that we'
 The [M1 MacBook Air](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fmacbook-air-13-3-laptop-apple-m1-chip-8gb-memory-256gb-ssd-space-gray-space-gray%2F5721600.p%3FskuId%3D5721600&publisher_slug=itechdaily19598&exclusive=1) first retailed for $999 when it was released, but Apple sells refurbished versions for $799, making these deals even better than anything Apple is offering. The [M1 MacBook Air](https://goto.walmart.com/c/5597632/565706/9383?sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FApple-MacBook-Air-13-3-inch-Laptop-Silver-M1-Chip-8GB-RAM-256GB-storage%2F609040889&subId1=zd-__COM_CLICK_ID__-dtp) is available in three different colors: gold, space gray, and silver. Snag these savings while you can. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -81,17 +81,15 @@ However, deals are subject to sell out or expire at any time, though ZDNET remai
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-virtual-world-warfare-understanding-meta-and-omniverse-differences/"><u>[New] 2024 Approved Virtual World Warfare Understanding Meta and Omniverse Differences</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-instagram-edge-techniques-for-effective-video-cropping-and-exporting/"><u>[Updated] Instagram Edge Techniques for Effective Video Cropping and Exporting</u></a></li>
-<li><a href="https://win11.techidaily.com/clean-slate-for-steam-game-accomplishments/"><u>Clean Slate for Steam Game Accomplishments</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/como-cambiar-vob-a-video-hd-libremente-en-la-web-sin-costes-la-facil-solucion-de-movavi/"><u>Cómo Cambiar VOB a Video HD Libremente en La Web Sin Costes: La Fácil Solución De Movavi</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/cr2-ad-image-png-trasforma-il-tuo-raw-fotografico-online-e-ingrandisci-le-tue-foto-con-movavi-partecipare-gratis/"><u>CR2 Ad Image PNG: Trasforma Il Tuo Raw Fotografico Online E Ingrandisci Le Tue Foto Con Movavi - Partecipare Gratis!</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/exploring-the-achievements-and-impacts-of-jonathan-ojedas-career-journey/"><u>Exploring the Achievements and Impacts of Jonathan Ojeda's Career Journey</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/yourself-from-cash-for-sound-the-best-18-audio-crackers-on-youtube/"><u>Free Yourself From Cash for Sound The Best 18 Audio Crackers on YouTube</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-from-infinix-note-30-vip-racing-edition-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock from Infinix Note 30 VIP Racing Edition Phones with/without a PC</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-realme-c55-phone-without-pin-by-drfone-android/"><u>How to Unlock Realme C55 Phone without PIN</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/transform-aifc-files-to-aiff-format-for-free-using-movavis-online-tool/"><u>Transform AIFC Files to AIFF Format for Free - Using Movavi's Online Tool</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/what-is-a-sim-network-unlock-pin-get-your-sony-xperia-1-v-phone-network-ready-by-drfone-android/"><u>What Is a SIM Network Unlock PIN? Get Your Sony Xperia 1 V Phone Network-Ready</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/1726226709138-jpeg-moviavi/"><u>オンラインで利用可能なJPEG形式に自動変換: MoviAVIのフリーツール</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-how-to-save-money-with-the-right-youtube-tv-plan-for-2024/"><u>[New] How to Save Money with the Right YouTube TV Plan for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-seamless-rotation-a-cameras-360-journey/"><u>[New] In 2024, Seamless Rotation A Camera's 360 Journey</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-watch-deleted-youtube-videos-online-in-2-ways/"><u>[Updated] 2024 Approved How to Watch Deleted YouTube Videos Online in 2 Ways</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-game-development-behind-the-scenes-for-2024/"><u>[Updated] Game Development Behind-the-Scenes for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-guiding-imovie-content-from-home-studio-to-youtube-hub/"><u>[Updated] In 2024, Guiding iMovie Content From Home Studio to YouTube Hub</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-mastery-of-video-sharing-a-guide-to-utilizing-zoom-on-the-youtube-platform/"><u>[Updated] Mastery of Video Sharing A Guide to Utilizing Zoom on the YouTube Platform</u></a></li>
+<li><a href="https://video-capture.techidaily.com/1726028065656-asfavi/"><u>ASFからAVIへの効果的な変換手順</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/get-ready-for-action-dive-into-a-vibrant-new-season-of-fortnite-review-and-strategy/"><u>Get Ready for Action! Dive Into a Vibrant New Season of Fortnite Review and Strategy.</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/step-by-step-guide-modifying-your-kindle-fires-physical-keyboard/"><u>Step-by-Step Guide: Modifying Your Kindle Fire's Physical Keyboard</u></a></li>
+<li><a href="https://facebook.techidaily.com/symbolic-savvy-on-social-media-a-look-at-facebooks-emoji-ecosystem/"><u>Symbolic Savvy on Social Media - A Look at Facebook’s Emoji Ecosystem</u></a></li>
 </ul></div>
 

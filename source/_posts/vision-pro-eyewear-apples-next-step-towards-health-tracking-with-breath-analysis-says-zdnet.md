@@ -1,7 +1,7 @@
 ---
 title: "Vision Pro Eyewear: Apple's Next Step Towards Health Tracking with Breath Analysis, Says ZDNet"
-date: 2024-12-22T17:19:30.415Z
-updated: 2024-12-28T16:47:07.459Z
+date: 2024-12-31T21:41:24.073Z
+updated: 2025-01-07T06:10:02.995Z
 tags:
   - apple
 categories:
@@ -55,10 +55,6 @@ During this time, the company focused on providing viable mixed reality and VR e
 
 Essentially, Meta's focus has been on finding the sweet spot for AR and VR devices using current technology and baking that into its products. In the Quest 3, it has introduced a truly great device at a reasonably affordable price.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  That old Apple magic
 
 Apple, on the other hand, has a problem. It no longer has Steve Jobs to ruthlessly remove features and capabilities added by over-enthusiastic engineers and designers. Instead, Apple sometimes has a myopic focus on being special, on producing something "magic." 
@@ -86,6 +82,10 @@ Bloomberg's Gurman believes Apple is more willing to kill products now than it h
 
 His inference is that it's possible Apple will lose patience with the slow progress of the Vision Pro and kill it off, although he says his sources claim the company is more focused on introducing a cost-cut Vision device that off-loads the processing to a tethered iPhone or Mac. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Think different?
 
 For Apple to be able to move forward with the Vision Pro, it must answer one simple question: Why should I buy this thing? 
@@ -106,6 +106,10 @@ The virtual Mac screen the Vision Pro now offers doesn't add much. But being abl
 
 There are always reasons for delays. It's certainly possible the company hit technical hurdles. But perhaps it could have moved resources over from circus sideshow projects like converting 2D photos into 3D photos -- a feature _no one_ will use as a justification to buy a Vision Pro -- into something that could and will provide real, tangible value and even a justification for the high purchase price. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  A Vision for the rest of us
 
 Right now, the Quest 3 is the [spatial computing](https://www.zdnet.com/article/what-is-spatial-computing-and-how-does-it-work/) headset for the rest of us. While head-mounted displays are still a challenging sell, the Quest 3 offers enough compelling value ([especially as a theatre-sized Netflix player](https://www.zdnet.com/article/netflix-is-now-meta-quest-3s-killer-app-thanks-to-these-two-new-modes/)) to make it the mainstream, easy-to-adopt solution. 
@@ -121,7 +125,7 @@ In other words, for the Vision to be successful, it has to stop fooling around a
 So what, beyond shipping useful software like the ultra-wide Mac display, needs to factor into that probably elusive Apple mindset change? Three things. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Give the Vision a controller
@@ -133,10 +137,6 @@ The eye tracking and hand gestures interface that are the primary means of opera
 **Also: [I watched my favorite TV show on Apple Vision Pro and it was glorious, strange, and tiring](https://www.zdnet.com/article/i-watched-my-favorite-tv-show-on-apple-vision-pro-and-it-was-glorious-strange-and-tiring/)**
 
 You can see this in action with the [Puzzling Places game](https://www.meta.com/experiences/3931148300302917/). On the Quest 3, the game provides a much richer interface than on the Vision Pro. That's because it's much easier to navigate objects in the 3D space using the Quest controllers. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Stay away from cable tethering
 
@@ -151,7 +151,7 @@ The idea that a future Vision device might need to be physically tethered to an 
 There might be one compromise, which is to wirelessly offload some processing to an iPhone, similar to the symbiotic relationship the Apple Watch has with the iPhone. That could work. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Make a tough margin decision
@@ -175,7 +175,7 @@ Think about that. If the Quest 3 is sold for $500, retailers like Amazon are lik
 Apple, by contrast, is making a fairly predictable margin on the Vision Pro, which is why the price is so high by comparison. Apple does have some cost-cutting options (display, chips, assembly, structure, and lenses), but if Facebook is competing at a loss, that puts Apple into the uncomfortable position of also taking a per-unit COGS loss or pricing well higher than the current market leader. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Looking towards the future
@@ -227,20 +227,24 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/common-causes-of-systolic-dysfunction-include-ischemic-heart-disease-and-dilated-cardiomyopathies-which-can-damage-the-myocardial-tissue/"><u>Common Causes of Systolic Dysfunction Include Ischemic Heart Disease and Dilated Cardiomyopathies, Which Can Damage the Myocardial Tissue.</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/compreendendo-o-formato-de-video-m4v-e-tecnicas-para-abertura-do-mp4/"><u>Compreendendo O Formato De Vídeo M4V E Técnicas Para Abertura Do MP4</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/enhancing-your-content-with-music-and-dynamic-effects-in-slide-shows-for-pc-and-mac-users/"><u>Enhancing Your Content with Music and Dynamic Effects in Slide Shows for PC & Mac Users</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/ensuring-reliable-video-experience-on-pcs-and-smartphones-across-windowsmacandroidiphone-platforms/"><u>Ensuring Reliable Video Experience on PCs and Smartphones Across Windows/Mac/Android/iPhone Platforms</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/expert-analysis-comprehensive-camstudio-recorder/"><u>Expert Analysis Comprehensive CamStudio Recorder</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/gratuito-online-converter-de-audio-para-mp3-wav-e-m4a-software-livre-e-gratuito-de-movavi/"><u>Gratuito Online: Converter De Audio Para MP3, WAV E M4A - Software Livre E Gratuito De Movavi</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/guia-rapido-e-facil-converter-arquivos-ts-em-mp4-com-o-movavi/"><u>Guia Rápido E Fácil: Converter Arquivos TS Em MP4 Com O Movavi</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/la-excelencia-en-herramientas-de-copia-de-seguridad-y-respaldo-sin-coste-para-windows-con-aomei-backupper-como-la-opcion-predilecta/"><u>La Excelencia en Herramientas De Cópia De Seguridad Y Respaldo Sin Coste Para Windows, Con AOMEI Backupper Como La Opción Predilecta</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/resolved-step-by-step-oculus-setup-tips-for-windows-1110-users/"><u>Resolved: Step-by-Step Oculus Setup Tips for Windows 11/10 Users</u></a></li>
-<li><a href="https://win-blog.techidaily.com/resolving-persistent-game-crash-issues-a-step-by-step-fix-for-frontier-on-pcs/"><u>Resolving Persistent Game Crash Issues - A Step-by-Step Fix for Frontier on PCs.</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/techniques-gratuites-pour-convertir-des-fichiers-ape-au-format-aac-guides-de-conversion-en-ligne-par-movavi/"><u>Techniques Gratuites Pour Convertir Des Fichiers APE Au Format AAC - Guides De Conversion en Ligne Par Movavi</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/tecnicas-avanzadas-para-mejorar-videos-oscuros-en-2024-dos-metodos-innovadores/"><u>Técnicas Avanzadas Para Mejorar Videos Oscuros en 2024 - Dos Métodos Innovadores</u></a></li>
-<li><a href="https://win-forum.techidaily.com/the-ultimate-trick-to-clean-up-persistent-folders-using-revo-uninstaller-on-windows-1nk-and-11/"><u>The Ultimate Trick to Clean Up Persistent Folders Using Revo Uninstaller on Windows 1Nk & 11</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/the-ultimate-tutorial-for-retrieving-accidentally-deleted-data-on-windows/"><u>The Ultimate Tutorial for Retrieving Accidentally Deleted Data on Windows</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/transformez-votre-fichier-wav-en-video-mp4-facilement-et-sans-frais-avec-movavi/"><u>Transformez Votre Fichier WAV en Vidéo MP4 Facilement Et Sans Frais - Avec Movavi</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-fiscally-flourishing-through-film-reviewing-retail-relics/"><u>[New] 2024 Approved Fiscally Flourishing Through Film Reviewing Retail Relics</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-from-making-dreams-real-steps-towards-becoming-a-vtuber-for-2024/"><u>[New] From Making Dreams Real Steps Towards Becoming a VTuber for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-hitting-high-notes-enhance-your-youtube-content-with-music-edits-for-2024/"><u>[New] Hitting High Notes Enhance Your YouTube Content with Music Edits for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-in-2024-brainy-brigade-top-11-quiz-channels/"><u>[New] In 2024, Brainy Brigade Top 11 Quiz Channels</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-first-steps-in-the-youtubian-economy-building-a-brand-boosting-bank-balance/"><u>[New] In 2024, First Steps in the Youtubian Economy Building a Brand, Boosting Bank Balance</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-flashflicker-artist/"><u>[New] In 2024, FlashFlicker Artist</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-frameworks-producing-uplifting-life-journey-broadcasts/"><u>[New] In 2024, Frameworks Producing Uplifting Life Journey Broadcasts</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-webinar-recording-a-step-by-step-masterclass-guide/"><u>[New] In 2024, Webinar Recording A Step-by-Step Masterclass Guide</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-fostering-collaborations-building-partnerships-to-promote-videos/"><u>[Updated] 2024 Approved Fostering Collaborations Building Partnerships to Promote Videos</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-hiding-youtube-playback-tips-for-ios-and-android-for-2024/"><u>[Updated] Hiding YouTube Playback Tips for iOS and Android for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-flavorful-faves-top-online-chefs-and-culinary-stars/"><u>[Updated] In 2024, Flavorful Faves Top Online Chefs & Culinary Stars</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-premium-vfx-setup-options/"><u>2024 Approved Premium VFX Setup Options</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/ignite-social-success-discover-the-10-most-powerful-igtv-video-ideas-for-brands/"><u>Ignite Social Success Discover the 10 Most Powerful IGTV Video Ideas for Brands</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-edit-and-send-fake-location-on-telegram-for-your-honor-x50iplus-in-3-ways-drfone-by-drfone-virtual-android/"><u>In 2024, Edit and Send Fake Location on Telegram For your Honor X50i+ in 3 Ways | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-spy-on-text-messages-from-computer-and-vivo-y56-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Spy on Text Messages from Computer & Vivo Y56 5G | Dr.fone</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/2543812-9781780289915-john-the-baptist-and-the-last-gnostics/"><u>John the Baptist and the Last Gnostics | Free Book</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/reconstructing-ripped-realities-using-backups/"><u>Reconstructing Ripped Realities: Using Backups</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/ultimate-guide-to-fixing-wi-fi-issues-on-microsoft-surface-pro/"><u>Ultimate Guide to Fixing Wi-Fi Issues on Microsoft Surface Pro</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-in-2024-say-goodbye-to-format-issues-stream-any-video-to-chromecast-seamlessly/"><u>Updated In 2024, Say Goodbye to Format Issues Stream Any Video to Chromecast Seamlessly</u></a></li>
 </ul></div>
 

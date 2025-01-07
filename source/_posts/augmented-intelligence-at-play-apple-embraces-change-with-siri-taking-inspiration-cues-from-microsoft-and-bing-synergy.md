@@ -1,7 +1,7 @@
 ---
 title: "Augmented Intelligence at Play: Apple Embraces Change with Siri, Taking Inspiration Cues From Microsoft and Bing Synergy"
-date: 2024-12-27T16:06:17.189Z
-updated: 2024-12-28T17:36:40.442Z
+date: 2024-12-31T20:49:53.854Z
+updated: 2025-01-07T03:29:39.633Z
 tags:
   - apple
 categories:
@@ -45,7 +45,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Hey Siri, let's talk about Microsoft
@@ -77,7 +77,7 @@ Microsoft, on the other hand, is a strong brand -- one that's become both more i
 Meanwhile, Siri connotes the phrase "You cannot be Sirious." 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Hey Siri, say goodbye
@@ -126,17 +126,17 @@ This replacement should have a new name -- Cuper or Cooky anyone? -- that'll mak
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-unleash-popularity-potential-climb-a-million-followers-by-months-end/"><u>[New] 2024 Approved Unleash Popularity Potential Climb a Million Followers by Month's End</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-historical-insights-the-most-relevant-youtube-channels-for-learners/"><u>[Updated] 2024 Approved Historical Insights - The Most Relevant YouTube Channels for Learners</u></a></li>
-<li><a href="https://some-tips.techidaily.com/encountered-liquid-damage-on-iphone-charger-end-explore-solution-strategies/"><u>Encountered Liquid Damage on iPhone Charger End? Explore Solution Strategies</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/exclusive-insights-apples-next-move-with-a-secure-operating-system-for-ai-and-data-center-mastery-unveiled-details/"><u>Exclusive Insights: Apple's Next Move with a Secure Operating System for AI & Data Center Mastery - Unveiled Details</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/get-ready-personalized-gpt-shops-opened-by-openai/"><u>Get Ready: Personalized GPT Shops Opened by OpenAI</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-the-ultimate-guide-how-to-bypass-swipe-screen-to-unlock-on-honor-magic-6-lite-device-by-drfone-android/"><u>In 2024, The Ultimate Guide How to Bypass Swipe Screen to Unlock on Honor Magic 6 Lite Device</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/mac-mini-meets-mac-studio-a-comprehensive-comparison-of-apples-latest-innovations-is-the-new-m2-chip-superior-to-m1/"><u>Mac Mini Meets Mac Studio: A Comprehensive Comparison of Apple's Latest Innovations - Is the New M2 Chip Superior to M1?</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ring-youtube-the-ultimate-guide-to-video-trimming/"><u>Mastering YouTube The Ultimate Guide to Video Trimming</u></a></li>
-<li><a href="https://games-able.techidaily.com/struggle-your-way-through-frustrating-fiddly-games/"><u>Struggle Your Way Through Frustrating Fiddly Games</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/toms-tech-insights-in-depth-reviews-and-analysis-of-the-latest-hardware/"><u>Tom's Tech Insights: In-Depth Reviews and Analysis of the Latest Hardware</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/ultimate-guide-to-the-safest-and-stylish-iphone-16-16-pro-cases-of-2024-in-depth-analysis-from-industry-gurus/"><u>Ultimate Guide to the Safest & Stylish iPhone 16 / 16 Pro Cases of 2024: In-Depth Analysis From Industry Gurus</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/unveiling-the-lifesaving-message-alert-update-in-ios-18-discover-whats-more-than-just-ai/"><u>Unveiling the Lifesaving Message Alert Update in iOS 18: Discover What’s More Than Just AI!</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-globes-biggest-video-content-mogul/"><u>[New] 2024 Approved Globe’s Biggest Video Content Mogul</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-going-pro-with-gs-effects-exclusive-free-lessons-from-4-premier-video-channels-for-2024/"><u>[New] Going Pro with GS Effects Exclusive Free Lessons From 4 Premier Video Channels for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-how-to-tackle-missing-thumbnails-on-youtube-shorts-for-2024/"><u>[New] How to Tackle Missing Thumbnails on YouTube Shorts for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-selfies-to-subscribers-jake-pauls-online-odyssey/"><u>[Updated] 2024 Approved From Selfies to Subscribers Jake Paul’s Online Odyssey</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-no-money-no-problem-heres-your-list-of-vfx-pages/"><u>[Updated] No Money, No Problem! Here's Your List of VFX Pages</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-probing-into-youtubes-decision-making-for-prominent-remarks/"><u>[Updated] Probing Into YouTube's Decision-Making for Prominent Remarks</u></a></li>
+<li><a href="https://os-tips.techidaily.com/blur-photos-fast-on-iphone-simple-steps-for-selective-image-privacy/"><u>Blur Photos Fast on iPhone - Simple Steps for Selective Image Privacy</u></a></li>
+<li><a href="https://solve-lab.techidaily.com/converting-and-transferring-encrypted-itunes-video-content-for-use-on-kindle-firestick-and-kobo-devices/"><u>Converting and Transferring Encrypted iTunes Video Content for Use on Kindle Firestick & Kobo Devices</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/elite-methods-to-broadcast-and-record-sporting-events/"><u>Elite Methods to Broadcast and Record Sporting Events</u></a></li>
+<li><a href="https://fake-location.techidaily.com/ispoofer-is-not-working-on-poco-x6-pro-fixed-drfone-by-drfone-virtual-android/"><u>iSpoofer is not working On Poco X6 Pro? Fixed | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reasons-for-nubia-z50-ultra-stuck-on-boot-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Nubia Z50 Ultra Stuck on Boot Screen and Ways To Fix Them | Dr.fone</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/share-wisdom-top-strategies-for-video-sharing-on-instagram-for-2024/"><u>Share Wisdom Top Strategies for Video Sharing on Instagram for 2024</u></a></li>
 </ul></div>
 

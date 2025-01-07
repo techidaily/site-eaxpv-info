@@ -1,7 +1,7 @@
 ---
 title: Apple's Revolutionary Move to Embrace Third-Party NFC Applications on iPhone, Boosting Convenience and Usability - Detailed Benefits Explained | Digital Innovations Blog
-date: 2024-12-26T16:27:39.621Z
-updated: 2024-12-28T17:12:32.494Z
+date: 2024-12-31T21:34:08.687Z
+updated: 2025-01-06T21:36:07.764Z
 tags:
   - apple
 categories:
@@ -38,10 +38,6 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Apple Intelligence (AI)
 
 Maria Diaz/ZDNET
@@ -64,6 +60,10 @@ Maria Diaz/ZDNET
 * In the Notes app, users can **record and transcribe audio**, which Apple Intelligence will generate a text summary of. This experience is also available in the Notes phone app.
 * Apple Intelligence is free on iOS 18, iPadOS 18, and MacOS Sequoia, and will be available to try in English only this summer.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Partnership with OpenAI
 
 Jason Hiner/ZDNET
@@ -71,10 +71,6 @@ Jason Hiner/ZDNET
 * Apple also confirmed its partnership with OpenAI by integrating [ChatGPT](https://www.zdnet.com/article/what-is-chatgpt-and-why-does-it-matter-heres-everything-you-need-to-know/) with Siri. With a user's permission, Siri can send a request to ChatGPT for help. For example, if you ask Siri for assistance on a task it deems better for ChatGPT, Siri will suggest you use the chatbot instead and forward your request. ChatGPT's writing capabilities can also be leveraged within certain writing tasks.
 * Users can access ChatGPT via this integration for free, and OpenAI will not log their data. ChatGPT Plus users can connect their subscriptions to access more advanced features, in which case OpenAI's data usage policies apply.
 * The ChatGPT integration will be coming to iOS 18, iPadOS 18, and MacOS Sequoia later this year.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## iOS 18
 
@@ -94,6 +90,10 @@ Adam Breeden/ZDNET
 * The **Safari app** was upgraded to include key information about a webpage. You can read more about the Safari upgrades under the MacOS section of this article.
 * The **Calendar app** can now pull from the Reminders app for a more seamless schedule overview.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## WatchOS 11
 
 Adam Breeden/ZDNET
@@ -108,10 +108,6 @@ Adam Breeden/ZDNET
 * **Check In** is available on Apple Watch, even during workouts, to help users stay safe. **Translate** is also coming to Apple Watch so users can translate text right from their wrists.
 * Another notable change is that the **double tap gesture** can be used to scroll through apps.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## iPadOS 18
 
 Adam Breeden/ZDNET
@@ -123,7 +119,7 @@ Adam Breeden/ZDNET
 * iPadOS 18 supports **screen-sharing via SharePlay** and the same Control Center customizations, Photos app upgrades, Safari updates, and emoji Tapbacks found in **iOS 18.**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## MacOS 15 (Sequoia)
@@ -155,7 +151,7 @@ Jason Hiner/ZDNET
 * Apple is also making the Vision Pro available in more countries starting June 28\. You can see the full list [here](https://www.apple.com/newsroom/2024/06/apple-vision-pro-arrives-in-new-countries-and-regions-beginning-june-28/).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## AirPods
@@ -165,6 +161,10 @@ Jason Hiner/ZDNET
 * AirPods Pro are getting **Voice Isolation** to enhance call quality in noisier environments.
 * With the new **Siri Interactions**, users can now **nod or shake their head** "yes" or "no" when responding to Siri.
 * Apple is also releasing a **Personalized Spatial Audio API** for game developers to build around the AirPods' audio technology.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## tvOS 18
 
@@ -210,18 +210,20 @@ Screenshot by Nina Raemont/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/updated-in-2024-no-displayed-video-fixing-camera-issue-with-sony-a6400/"><u>[Updated] In 2024, No Displayed Video Fixing Camera Issue with Sony A6400</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/ve-jpgpng/"><u>線上無限制的影像格式革新者 – 提�ve JPG、PNG到所需形式</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/converter-livre-online-transforme-imagens-jpeg-em-png-gratuito-com-o-movavi/"><u>Converter Livre Online: Transforme Imagens JPEG Em PNG Gratuito Com O Movavi</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/easy-guide-how-to-bypass-tecno-spark-10-4g-frp-android-10111213-by-drfone-android/"><u>Easy Guide How To Bypass Tecno Spark 10 4G FRP Android 10/11/12/13</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/free-online-conversion-transforming-vob-files-into-mp4-format-on-windows-and-mac-with-movavi/"><u>Free Online Conversion: Transforming VOB Files Into MP4 Format on Windows & Mac with Movavi</u></a></li>
-<li><a href="https://driver-download.techidaily.com/how-to-successfully-install-and-update-intel-optane-drivers-on-your-windows-pc/"><u>How to Successfully Install and Update Intel Optane Drivers on Your Windows PC</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/in-2024-crack-your-smile-with-these-laughing-and-tearful-ig-meme-pages/"><u>In 2024, Crack Your Smile with These Laughing & Tearful IG Meme Pages</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-the-ultimate-guide-to-gopro-karma-performance/"><u>In 2024, The Ultimate Guide to GoPro Karma Performance</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/maximizing-online-privacy-the-ultimate-guide-to-using-opera-vpn-insights-from-zdnet/"><u>Maximizing Online Privacy: The Ultimate Guide to Using Opera VPN | Insights From ZDNet</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/top-16-free-video-editors-dual-screen-options-for-enhanced-creativity/"><u>Top 16 Free Video Editors: Dual-Screen Options for Enhanced Creativity</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/transforming-videos-into-ipod-format-effortlessly-using-the-movavi-solution/"><u>Transforming Videos Into iPod Format Effortlessly Using the Movavi Solution</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/standing-youtubes-revenue-model-one-million-viewer-focus-for-2024/"><u>Understanding YouTube's Revenue Model One Million Viewer Focus for 2024</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-in-2024-explore-whispered-complaint-samples/"><u>Updated In 2024, Explore Whispered Complaint Samples</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-a-comprehensive-dive-into-creating-inspiring-slow-mo-videos-on-ig/"><u>[New] 2024 Approved A Comprehensive Dive Into Creating Inspiring Slow Mo Videos on IG</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-flip-it-right-youtube-video-retrospectives-with-tips/"><u>[New] 2024 Approved Flip It Right YouTube Video Retrospectives (With Tips!)</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-harmonizing-your-tunes-step-by-step-playlist-crafting-for-web-and-mobile-users-for-2024/"><u>[New] Harmonizing Your Tunes Step-by-Step Playlist Crafting for Web & Mobile Users for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-fostering-connection-through-respectful-engagement/"><u>[New] In 2024, Fostering Connection Through Respectful Engagement</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-free-mp3s-galore-10-no-cost-online-tools/"><u>[New] In 2024, Free Mp3s Galore 10 No-Cost Online Tools</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-quick-start-installing-vrecorder-effortlessly/"><u>[New] In 2024, Quick Start Installing VRecorder Effortlessly</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-precision-planning-of-collaborative-slack-plus-filmora-meetings/"><u>[New] Precision Planning of Collaborative Slack + Filmora Meetings</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-succeed-youtubes-powerful-business-channel-list/"><u>[Updated] 2024 Approved How to Succeed YouTube's Powerful Business Channel List</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-gain-more-followers-masterful-youtube-marketing-techniques-for-2024/"><u>[Updated] Gain More Followers Masterful YouTube Marketing Techniques for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-greatest-of-all-time-reddits-favorite-threads/"><u>[Updated] In 2024, Greatest of All Time Reddit's Favorite Threads</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-recovering-from-a-youtube-penalty/"><u>2024 Approved Recovering From a Youtube Penalty</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/fix-lonely-beats-airpod-solution-for-2024/"><u>Fix Lonely Beats Airpod Solution for 2024</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-listing-from-the-tail-reordering-videos-in-a-reverse-sequence/"><u>In 2024, Listing From the Tail Reordering Videos in a Reverse Sequence</u></a></li>
+<li><a href="https://win-special.techidaily.com/troubleshooting-your-computers-sound-card-problems-with-tips-from-yl-software-experts/"><u>Troubleshooting Your Computer's Sound Card Problems with Tips From YL Software Experts</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/unleash-your-inner-author-a-step-by-step-guide-to-modifying-epubs-for-free-with-sigil/"><u>Unleash Your Inner Author: A Step-by-Step Guide to Modifying EPUBs for Free with Sigil</u></a></li>
 </ul></div>
 

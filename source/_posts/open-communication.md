@@ -1,7 +1,7 @@
 ---
 title: Open Communication
-date: 2024-12-21T16:57:09.745Z
-updated: 2024-12-28T17:40:57.962Z
+date: 2025-01-02T16:44:49.518Z
+updated: 2025-01-07T03:45:16.508Z
 tags:
   - apple
 categories:
@@ -26,6 +26,10 @@ New with the latest version of watchOS is a feature called Check In. Accessible 
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to check in with a friend or family member from your Apple Watch
 
 **What you'll need**: To use Check In, you have to be running watchOS 11 or higher on your Apple Watch, which requires iOS 18 or higher on your iPhone. [These Apple Watch models](https://www.zdnet.com/article/every-apple-watch-that-will-get-watchos-11-and-which-models-wont-be-supported/) can run watchOS 11.
@@ -41,7 +45,7 @@ Screenshot by Lance Whitney/ZDNET
 **Also: [I was on the fence with the Apple Watch 10, but these 3 features changed my mind](https://www.zdnet.com/article/i-was-on-the-fence-with-the-apple-watch-10-but-these-3-features-changed-my-mind/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Send the default Check In through the Messages app
@@ -66,15 +70,15 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4\. View the actual Check in alert
 
 When the timer is up to indicate that you should have reached your destination, you'll be prompted to stop the Check In to confirm that you've arrived. You can add more time or cancel the Check In. Otherwise, the recipient will receive your Check In notification. If the confirmation isn't sent, more time will be added. After that, the recipient will be informed that you haven't yet checked in. They can then try to contact you by text or phone call to find out why you haven't yet arrived.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 5\. Change the time for a Check In
 
@@ -86,10 +90,6 @@ If you still wish to use a timer for the Check In option but change the amount o
 
 Screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 6\. Send a customized Check In through the Messages app
 
 To further customize the Check In, tap the Edit button at the Check In screen. Tap Check In. You can now set a notification to be sent when you've arrived at your destination, after the timer ends, or when a workout ends. Tap the option for "When I arrive."
@@ -97,7 +97,7 @@ To further customize the Check In, tap the Edit button at the Check In screen. T
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 7\. Add a destination and send the text
@@ -108,15 +108,15 @@ Screenshot by Lance Whitney/ZDNET
 
 **Also: [Your Apple Watch is getting an upgrade - here are the best features in WatchOS 11](https://www.zdnet.com/article/your-apple-watch-is-getting-an-upgrade-here-are-the-best-features-in-watchos-11/)**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 8\. Set a Check In for a workout in the Messages app
 
 Maybe you're working out at the gym or at home and want to let someone know when you've finished. You can do this a couple of ways. In the Messages app on your watch, start or continue a conversation with the recipient. Tap the Add icon, select Check In, and then tap Edit. Tap the option for Check In and change it to "When workout ends." Start your workout. When you're done, swipe the screen to the right and tap End. The other person will then receive the notification.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 9\. Set a Check In for a workout in the Workout app
 
@@ -154,19 +154,22 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-support.techidaily.com/new-jumpstart-your-photo-editing-skills-with-these-must-have-pixlr-tips/"><u>[New] Jumpstart Your Photo-Editing Skills with These Must-Have Pixlr Tips</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-vocal-innovation-at-your-fingertips-with-pubg-hacks/"><u>[New] Vocal Innovation at Your Fingertips with PUBG Hacks</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-youtubes-image-files-made-simple-online-desktop-and-terminal-steps/"><u>[New] Youtube’s Image Files Made Simple Online, Desktop & Terminal Steps</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/nombre-del-servicio-transforma-tu-midi-a-wav-sin-costo-en-linea/"><u>[Nombre Del Servicio] - Transforma Tu Midi a Wav Sin Costo en Línea</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-instagram-story-hacks-your-path-to-prominence/"><u>[Updated] 2024 Approved Instagram Story Hacks Your Path to Prominence</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-maximizing-income-with-youtube-adsense-for-2024/"><u>[Updated] Maximizing Income with YouTube AdSense for 2024</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/2024-approved-leading-the-charge-in-online-healthcare-promotions-and-ads/"><u>2024 Approved Leading the Charge in Online Healthcare Promotions & Ads</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/convert-mp4-files-to-aac-format-at-no-cost-using-movavis-web-service/"><u>Convert MP4 Files to AAC Format at No Cost Using Movavi's Web Service</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/discover-the-elite-creators-of-birthday-videos-on-line-for-202n4-ranking-of-top-9-directors/"><u>Discover The Elite Creators of Birthday Videos On-Line for 202N4! Ranking of Top 9 Directors</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/free-online-converter-from-mpeg-to-mp4-movavi/"><u>Free Online Converter From MPEG to MP4 - Movavi</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/free-online-converter-mp4-to-gsw-adobe-flash-by-movavi/"><u>Free Online Converter: MP4 to GSW (Adobe Flash) by Movavi</u></a></li>
-<li><a href="https://change-location.techidaily.com/guide-how-to-unbrick-a-bricked-samsung-galaxy-a05s-phone-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Guide How To Unbrick a Bricked Samsung Galaxy A05s Phone | Dr.fone</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/is-the-era-of-dual-screen-laptops-upon-us-with-lenovos-yoga-book-9i-innovation-insights-from-tech-experts/"><u>Is the Era of Dual-Screen Laptops Upon Us with Lenovo's Yoga Book 9I Innovation? Insights From Tech Experts</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/1726221976784-wmvasf-movavi/"><u>WMV/ASF 무료 이동 오프스 변환 - Movavi</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-harnessing-monetization-potential-with-youtube-ad-strategies/"><u>[New] 2024 Approved Harnessing Monetization Potential with YouTube Ad Strategies</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-generate-interest-making-your-own-youtube-intros-for-2024/"><u>[New] Generate Interest Making Your Own YouTube Intros for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-how-much-do-you-earn-when-a-million-watch-youtube-in-2024/"><u>[New] How Much Do You Earn When a Million Watch Youtube, In 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-frame-it-right-essential-composition-rules-for-youtube-filmmaking/"><u>[New] In 2024, Frame It Right Essential Composition Rules for YouTube Filmmaking</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-stir-to-screen-masterful-cooking-videos/"><u>[New] In 2024, From Stir to Screen Masterful Cooking Videos</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-go-beyond-screens-how-to-watch-360-videos-and-vr-via-android/"><u>[Updated] 2024 Approved Go Beyond Screens How to Watch 360 Videos & VR via Android</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-a-step-by-step-approach-to-choosing-superior-fpv-drone-propellers/"><u>[Updated] A Step-by-Step Approach to Choosing Superior FPV Drone Propellers</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-finding-your-video-complement-the-process-of-collaborative-pairing-for-2024/"><u>[Updated] Finding Your Video Complement The Process of Collaborative Pairing for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-block-youtube-ads-on-chromefirefoxandroidiphone-for-2024/"><u>[Updated] How to Block YouTube Ads on Chrome/Firefox/Android/iPhone for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-fusing-genres-a-youtube-music-strategy/"><u>[Updated] In 2024, Fusing Genres A YouTube Music Strategy</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-the-loom-chronicles-crafting-visual-stories-for-2024/"><u>[Updated] The Loom Chronicles Crafting Visual Stories for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-sky-drones-their-genres/"><u>2024 Approved Sky Drones Their Genres</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-unwinding-utopia-premier-idle-games/"><u>2024 Approved Unwinding Utopia Premier Idle Games</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/discover-new-movie-experiences-top-7-swaps-for-2024/"><u>Discover New Movie Experiences - Top 7 Swaps for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-the-non-functional-mic-in-your-dota-2-game-ultimate-solutions/"><u>Fixing the Non-Functional Mic in Your Dota 2 Game – Ultimate Solutions!</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/in-2024-aspect-ratios-unveiled-a-complete-youtube-manual/"><u>In 2024, Aspect Ratios Unveiled A Complete YOUTUBE Manual</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/in-2024-total-environmental-immersion-in-media-creation/"><u>In 2024, Total Environmental Immersion in Media Creation</u></a></li>
 </ul></div>
 

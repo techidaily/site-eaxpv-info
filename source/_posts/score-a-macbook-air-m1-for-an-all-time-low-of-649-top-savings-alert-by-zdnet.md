@@ -1,7 +1,7 @@
 ---
 title: Score a MacBook Air M1 for an All-Time Low of $649 - Top Savings Alert by ZDNET
-date: 2024-12-24T17:15:32.161Z
-updated: 2024-12-28T17:32:38.434Z
+date: 2025-01-04T16:01:41.878Z
+updated: 2025-01-07T05:14:36.531Z
 tags:
   - apple
 categories:
@@ -42,7 +42,7 @@ At $649, this is the lowest price for the M1 version of the MacBook Air that we'
 The [M1 MacBook Air](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fmacbook-air-13-3-laptop-apple-m1-chip-8gb-memory-256gb-ssd-space-gray-space-gray%2F5721600.p%3FskuId%3D5721600&publisher_slug=itechdaily19598&exclusive=1) first retailed for $999 when it was released, but Apple sells refurbished versions for $799, making these deals even better than anything Apple is offering. The [M1 MacBook Air](https://goto.walmart.com/c/5597632/565706/9383?sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FApple-MacBook-Air-13-3-inch-Laptop-Silver-M1-Chip-8GB-RAM-256GB-storage%2F609040889&subId1=zd-__COM_CLICK_ID__-dtp) is available in three different colors: gold, space gray, and silver. Snag these savings while you can. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -81,16 +81,16 @@ However, deals are subject to sell out or expire at any time, though ZDNET remai
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-streamers-to-millionaires-the-monetization-blueprint/"><u>[New] 2024 Approved From Streamers to Millionaires The Monetization Blueprint</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-game-developers-top-recording-tools-for-2024/"><u>[New] Game Developers' Top Recording Tools for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-make-youtube-banners-and-thumbnails/"><u>[New] In 2024, How to Make YouTube Banners and Thumbnails</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-formulating-a-seamless-subscription-hyperlink-to-youtube-for-2024/"><u>[Updated] Formulating a Seamless Subscription Hyperlink to YouTube for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-run-a-sports-youtube-chain-on-macos/"><u>[Updated] In 2024, How to Run a Sports YouTube Chain on MacOS</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/discover-the-superior-qualities-of-an-alternative-to-macbooks-with-this-powerful-asus-laptop-zdnet-review/"><u>Discover the Superior Qualities of an Alternative to MacBooks with This Powerful Asus Laptop (ZDNet Review)</u></a></li>
-<li><a href="https://win-trending.techidaily.com/gratis-download-fur-wiederherstellungssystemsoftware-aomei-backupper-systemimages-sichern-und-wiederherstellen/"><u>Gratis Download Für Wiederherstellungssystemsoftware: AOMEI Backupper – Systemimages Sichern Und Wiederherstellen</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/oppo-k11-5g-bootloop-problem-how-to-fix-it-without-data-loss-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Oppo K11 5G Bootloop Problem, How to Fix it Without Data Loss | Dr.fone</u></a></li>
-<li><a href="https://win-bits.techidaily.com/recognizing-defective-computer-parts-a-guide-by-professionals-at-yl-computing-and-software-solutions/"><u>Recognizing Defective Computer Parts: A Guide by Professionals at YL Computing & Software Solutions</u></a></li>
-<li><a href="https://techidaily.com/undeleted-lost-videos-from-xiaomi-mix-fold-3-by-fonelab-android-recover-video/"><u>Undeleted lost videos from Xiaomi Mix Fold 3</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/1725286270538-iso/"><u>スマホでISO画像再生のコツ：高品質に保つテクニック</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-harnessing-youtubes-power-for-profit-mastering-short-video-earnings/"><u>[New] In 2024, Harnessing YouTube's Power for Profit Mastering Short Video Earnings</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-the-ultimate-list-for-fbs-most-popular-song-videos-for-2024/"><u>[New] The Ultimate List for FB's Most Popular Song Videos for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-often-do-youtubers-receive-income/"><u>[Updated] 2024 Approved How Often Do YouTubers Receive Income?</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-youtube-shorts-showing-up-after-fix/"><u>[Updated] 2024 Approved YouTube Shorts Showing Up After Fix</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-funding-fantasies-or-fiscal-facts-for-2024/"><u>[Updated] Funding Fantasies or Fiscal Facts for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-formatting-youtubes-auto-subscribe-page-easily/"><u>[Updated] In 2024, Formatting YouTube's Auto-Subscribe Page Easily</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-spectacular-8-cam-enhancers-for-improved-video-feeds/"><u>[Updated] Spectacular 8 Cam Enhancers for Improved Video Feeds</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/bites-to-blocks-top-10-video-editing-principles-for-2024/"><u>From Bites to Blocks Top 10 Video Editing Principles for 2024</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-fix-icloud-lock-on-your-iphone-12-pro-max-and-ipad-by-drfone-ios/"><u>How to fix iCloud lock on your iPhone 12 Pro Max and iPad</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/navigating-through-film-workflow-choosing-between-hdr-and-sdr/"><u>Navigating Through Film Workflow Choosing Between HDR & SDR</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/tackling-frame-loss-best-practices-for-obs-users-for-2024/"><u>Tackling Frame Loss Best Practices for OBS Users for 2024</u></a></li>
 </ul></div>
 

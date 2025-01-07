@@ -1,7 +1,7 @@
 ---
 title: "Navigating Apple's New Frontier: Smartwatch Showdown - Series Nine Vs. Ultra Version | ZDNET Insights"
-date: 2024-12-22T17:45:53.307Z
-updated: 2024-12-28T16:26:01.161Z
+date: 2024-12-31T03:13:01.100Z
+updated: 2025-01-06T17:26:59.500Z
 tags:
   - apple
 categories:
@@ -30,10 +30,6 @@ And then there's the Apple Watch Series 8 and the Apple Watch Ultra. The watches
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Specifications
 
 | |  Apple Watch Ultra | Apple Watch Series 8                                                            |                                                                         |
@@ -49,7 +45,7 @@ And then there's the Apple Watch Series 8 and the Apple Watch Ultra. The watches
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  You should buy the Apple Watch Ultra if…
@@ -67,7 +63,7 @@ The 49mm housing is also the biggest Apple Watch made to date, and with double t
 With a new design comes new bands, as well. There are [three completely new watchband designs](https://www.zdnet.com/article/new-apple-watch-ultra-bands-work-with-other-apple-watch-models-too/), each one designed for different activities such as outdoor adventures, endurance training and water sports. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 2\. You ride, hike or dive… a lot
@@ -77,6 +73,10 @@ Speaking of outdoor activities, the Ultra is specifically made for extreme fitne
 Apple touts 36 hours of battery life for the Ultra during normal use, or 60 hours when you activate low power mode. The Ultra is compatible with two different GPS frequencies, L1 and L5, which should provide [accurate and precise location information](https://www.zdnet.com/article/what-is-l5-precision-dual-frequency-gps-why-is-apple-using-it-and-do-you-need-it) regardless of your surroundings. The new compass app will track your route during a hike or bike ride, and then provide waypoints for you to find your way back -- should you get lost. 
 
 Every Apple Watch Ultra comes with LTE capabilities, so as long as you pay your wireless carrier for an additional plan (usually around $10 a month), your watch will always be connected, even if you leave your iPhone behind. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 3\. You need a ruggedized watch
 
@@ -89,10 +89,6 @@ There's even an 86-decibel siren built into the watch should you need emergency 
 **More: [Apple Watch Ultra: Price, release date, and features](https://www.zdnet.com/article/apple-watch-ultra-price-release-date-features-colors-everything-you-need-to-know/)**
 
 [Apple Watch Ultra $799 at Apple](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-watch%2Fapple-watch-ultra&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  You should buy the Apple Watch Series 8 if…
 
@@ -109,7 +105,7 @@ The Series 8 is available in four aluminum colors this year. There's Starlight, 
 **See also:** [**New Apple Watch Ultra bands work with other Apple Watch models, too**](https://www.zdnet.com/article/new-apple-watch-ultra-bands-work-with-other-apple-watch-models-too/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 2\. You're not ready to pay $799 for a watch
@@ -121,6 +117,10 @@ The Series 8 [starts at $399](https://apple.sjv.io/c/159047/435031/7613?&sharedI
 For $399 you can get a [41mm Apple Watch Series 8](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-watch%2Fapple-watch&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp), or for $429 you can pick up a [45mm Apple Watch Series 8](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-watch%2Fapple-watch&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp). Both of those prices are for an aluminum body and lack cellular connectivity. If you want to add cellular capabilities, you'll pay a $100 premium -- bringing the total to $499 and $529, respectively. 
 
 Still, those prices are more affordable than the Ultra's price tag and the Series 8 is sure to last a few years, or at least until Apple stops providing software updates to it. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 3\. Don't need all of the extreme outdoor features
 
@@ -170,21 +170,17 @@ Open to other Apple Watch prospects? Consider the also-new Apple Watch SE.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/convert-your-files-at-no-cost-quickly-change-rmvb-to-m4v-using-movavis-online-tool/"><u>Convert Your Files at No Cost - Quickly Change RMVB to M4V Using Movavi's Online Tool</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/creazione-di-uno-studio-cinematografico-stop-motion-il-tuo-percorso-dettagliato-passo-dopo-passo-movavi/"><u>Creazione Di Uno Studio Cinematografico Stop Motion: Il Tuo Percorso Dettagliato Passo Dopo Passo - Movavi</u></a></li>
-<li><a href="https://discover-deluxe.techidaily.com/demystifying-vmware-vsphere-infrastructure-a-beginners-overview-of-its-key-networking-elements/"><u>Demystifying VMware vSphere Infrastructure: A Beginner's Overview of Its Key Networking Elements</u></a></li>
-<li><a href="https://fake-location.techidaily.com/does-life360-notify-when-you-log-out-on-vivo-y27-5g-drfone-by-drfone-virtual-android/"><u>Does Life360 Notify When You Log Out On Vivo Y27 5G? | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/everything-you-need-to-know-about-lock-screen-settings-on-your-samsung-galaxy-a25-5g-by-drfone-android/"><u>Everything You Need to Know about Lock Screen Settings on your Samsung Galaxy A25 5G</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/free-online-amv-to-mp3-converter-by-movavi/"><u>Free Online AMV to MP3 Converter by Movavi</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-track-vivo-x-fold-2-location-by-number-drfone-by-drfone-virtual-android/"><u>How to Track Vivo X Fold 2 Location by Number | Dr.fone</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/in-2024-crafting-visual-magic-advanced-tips-for-stunning-edits/"><u>In 2024, Crafting Visual Magic Advanced Tips for Stunning Edits</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/in-2024-effortless-extraction-of-facebook-hd-vids/"><u>In 2024, Effortless Extraction of Facebook HD Vids</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-remove-the-two-factor-authentication-on-iphone-13-pro-by-drfone-ios/"><u>In 2024, How To Remove the Two Factor Authentication On iPhone 13 Pro</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/konvertereen-m4v-naar-mpeg-vrij-bekijkbaar-en-kostenloos-movavi/"><u>Konvertereen M4V Naar MPEG Vrij Bekijkbaar en Kostenloos - Movavi</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/movavi-prodotto-mov-da-file-mp4mpeg-4-gratuito-e-online-trasformazione-facile/"><u>Movavi Prodotto MOV Da File MP4/MPEG-4 Gratuito E Online: Trasformazione Facile</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/online-konvertoren-3gpp-naar-mp4-zonder-kostprijzen-met-movavis-hulpbronnen/"><u>Online Konvertoren: 3GPP Naar MP4 Zonder Kostprijzen Met Movavi's Hulpbronnen</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/the-top-platform-trio-which-one-triumphs-vimeo-youtube-dailymotion-for-2024/"><u>The Top Platform Trio Which One Triumphs – Vimeo, YouTube, Dailymotion for 2024</u></a></li>
-<li><a href="https://extra-information.techidaily.com/top-20-must-have-tools-and-effects-for-your-tiktok-edits/"><u>Top 20 Must-Have Tools & Effects for Your TikTok Edits</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/trasforma-file-png-in-formato-bmp-senza-costi-con-la-guida-di-conversione-online-facile-movavi/"><u>Trasforma File PNG in Formato BMP Senza Costi Con La Guida Di Conversione Online Facile – Movavi</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-flavor-forge-30-epicurean-titles-that-resonate-for-2024/"><u>[New] Flavor Forge 30 Epicurean Titles That Resonate for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-grow-your-streams-money-potential-anywhere-on-devices-for-2024/"><u>[New] Grow Your Stream's Money Potential Anywhere on Devices for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-capture-movies-with-ease-cross-platform-techniques-and-tips/"><u>[New] In 2024, Capture Movies with Ease Cross-Platform Techniques & Tips</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-conceptualization-to-production-a-guide-to-making-mukbang/"><u>[New] In 2024, From Conceptualization to Production A Guide to Making Mukbang</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-get-content-ready-faster-with-this-list-of-easy-editors/"><u>[Updated] 2024 Approved Get Content Ready Faster With This List of Easy Editors</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-amazons-premier-titles-social-media-sensation-winners/"><u>[Updated] In 2024, Amazon’s Premier Titles Social Media Sensation Winners</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-gamers-galaxy-100plus-spaces-of-play/"><u>[Updated] In 2024, Gamer's Galaxy 100+ Spaces of Play</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-your-ultimate-manual-for-downloading-youtube-playlists/"><u>[Updated] Your Ultimate Manual for Downloading YouTube Playlists</u></a></li>
+<li><a href="https://win11.techidaily.com/from-emulator-to-operating-system-windows-for-steam-deck/"><u>From Emulator to Operating System: Windows for Steam Deck</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-improvements-in-windows-11s-share-options-by-microsoft/"><u>New Improvements in Windows 11'S Share Options by Microsoft</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-recover-deleted-pictures-on-x8b-without-backup-by-fonelab-android-recover-pictures/"><u>The way to recover deleted pictures on X8b without backup.</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/top-4-revolutionary-health-innovations-unveiled-by-apple-a-deep-dive/"><u>Top 4 Revolutionary Health Innovations Unveiled by Apple: A Deep Dive</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "IPad's Latest Calculator App: So Sophisticated, You'll Want the Apple Pencil – Discover How"
-date: 2024-12-25T16:01:57.641Z
-updated: 2024-12-28T17:42:46.856Z
+date: 2025-01-04T02:19:08.841Z
+updated: 2025-01-06T19:50:00.890Z
 tags:
   - apple
 categories:
@@ -23,7 +23,7 @@ Adrian Kingsley-Hughes/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -43,7 +43,7 @@ What I really need is a dedicated travel kit for charging my gadgets, which incl
 [ZDNET RECOMMENDS ESR 3-in-1 Qi2 wireless travel charger This set is built for the road, and the foldable, compact design and included travel bag means it easily slips into a backpack or suitcase. View at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FESR-Charging-Station-Certified-Multiple%2Fdp%2FB0CW2J9XB8%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cd405c3b3-9fde-429f-ae82-f128bd45456e%7Cdtp&dtb=1)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ESR 3-in-1 wireless travel charger features
@@ -82,7 +82,7 @@ In fact, it's the perfect kit for someone who is all-in with Apple gear.
 I've carried out all my usual tests on this charger, including safety tests and thermal checks, and it passed all of them with flying colors, which I would expect from a company such as ESR, which has a track record for making excellent charging tools.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -121,17 +121,21 @@ One of the standout features is the carry case, which has designated spots for e
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-in-2024-cinemagraphy-central-filmo-faqs/"><u>[New] In 2024, Cinemagraphy Central Filmo FAQs</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-optimizing-your-youtube-video-presentation/"><u>[Updated] Optimizing Your YouTube Video Presentation</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/2024-approved-top-gaming-choice-the-inescapable-magic-of-our-12-tycoons/"><u>2024 Approved Top Gaming Choice The Inescapable Magic of Our #12 Tycoons</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/detecting-and-removing-malware-a-comprehensive-guide-for-windows-users-yl-computing/"><u>Detecting & Removing Malware: A Comprehensive Guide for Windows Users - YL Computing</u></a></li>
-<li><a href="https://driver-install.techidaily.com/direct-driver-update-via-ddu-2024-insights/"><u>Direct Driver Update via DDU - 2024 Insights</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/gratuit-online-converter-gsm-naar-mp4-veel-vrienden-van-movavi/"><u>Gratuit Online Converter: GSM Naar MP4 - Veel Vrienden Van Movavi</u></a></li>
-<li><a href="https://article-posts.techidaily.com/in-2024-high-fidelity-videos-our-selection-of-the-three-finest-phones/"><u>In 2024, High Fidelity Videos Our Selection of the Three Finest Phones</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/online-m4b-aac-movavi/"><u>Online 무료 주식 M4B 클린 이동을 위한 AAC 전환 도구 - Movavi</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/the-beginners-guide-to-syncing-your-chats-setting-up-and-using-whatsapp-on-macos-computers/"><u>The Beginner's Guide to Syncing Your Chats: Setting Up and Using WhatsApp on macOS Computers</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/top-18-video-editing-tools-for-gaming-footage-simplify-and-enhance-your-gameplay-clips/"><u>Top 18 Video Editing Tools for Gaming Footage: Simplify and Enhance Your Gameplay Clips</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/trasforma-file-asf-a-formato-mpeg-online-e-gratuito-con-movavi/"><u>Trasforma File ASF a Formato MPEG Online E Gratuito Con Movavi</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/webm-to-m4v-file-transformation-made-simple-with-our-free-online-tools-by-movavi/"><u>WebM to M4V File Transformation Made Simple with Our Free Online Tools by Movavi</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-final-goodbye-to-youtubes-minis-a-step-by-step-process/"><u>[New] 2024 Approved Final Goodbye to YouTube's Minis A Step-by-Step Process</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-from-penniless-to-partnered-a-small-channels-journey-for-2024/"><u>[New] From Penniless to Partnered A Small Channel's Journey for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-game-modders-and-tutorial-content-leaders-for-2024/"><u>[New] Game Modders & Tutorial Content Leaders for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-giggles-guidebook-planning-7-funny-video-frameworks-for-2024/"><u>[New] Giggles Guidebook Planning 7 Funny Video Frameworks for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-effective-color-difference-filters-in-film-making/"><u>[New] In 2024, Effective Color Difference Filters in Film-Making</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-funny-flicks-compilation-of-chuckle-inducing-short-youtube-videos/"><u>[New] In 2024, Funny Flicks Compilation of Chuckle-Inducing Short YouTube Videos</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-start-a-successful-youtube-gaming-channel/"><u>[New] In 2024, How to Start a Successful YouTube Gaming Channel</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/rime-8-edits-suites-on-linux-os-for-2024/"><u>[New] Prime 8 Edits Suites on Linux OS for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-unlocking-the-secrets-of-successful-igtv-posts/"><u>[New] Unlocking the Secrets of Successful IGTV Posts</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-make-fortnite-thumbnail-for-free-and-easy/"><u>[Updated] 2024 Approved How to Make Fortnite Thumbnail for Free and Easy</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-mirrorless-evolution-overshadowing-traditional-dslr-videography/"><u>[Updated] In 2024, Mirrorless Evolution Overshadowing Traditional DSLR Videography</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1723004505445-how-to-boost-your-utorrent-download-speeds-expert-tips/"><u>How to Boost Your uTorrent Download Speeds - Expert Tips</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-samsung-galaxy-a14-5g-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Samsung Galaxy A14 5G to Samsung Phone | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-uplifting-movies-a-top-10-list-of-inspiration/"><u>In 2024, Uplifting Movies A Top 10 List of Inspiration</u></a></li>
+<li><a href="https://facebook.techidaily.com/unveiling-facebooks-latest-social-space-design/"><u>Unveiling Facebook's Latest Social Space Design</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/windows-file-glance-fast-assessment-technique/"><u>Window's File Glance Fast Assessment Technique</u></a></li>
 </ul></div>
 

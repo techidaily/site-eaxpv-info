@@ -1,7 +1,7 @@
 ---
 title: Two Effective Methods for Updating Applications on macOS Explained
-date: 2024-12-24T17:12:28.252Z
-updated: 2024-12-28T16:36:26.069Z
+date: 2025-01-02T20:59:54.676Z
+updated: 2025-01-07T05:00:12.967Z
 tags:
   - apple
 categories:
@@ -31,16 +31,12 @@ Let me show you both approaches.
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to update MacOS apps from the App Store
 
 **What you'll need:** The only things you'll need are an Apple device (a MacBook or iMac) and a valid user account on the machine. That's it. Let's get to the updates.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 1\. Open the App Store
 
@@ -61,7 +57,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Update your apps
@@ -74,17 +70,21 @@ Screenshot by Jack Wallen/ZDNET
 
 Once the update is completed, close the App Store and you're done.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to update MacOS apps from the command line
 
 This is a bit more complicated, for two reasons: first, you have to find out what apps are available for updating, and, second -- as with Linux -- the app names are case-sensitive.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Open the Terminal app
 
 To run commands, you must first open the terminal app, which can be done from the Launchpad. Click the Launchpad icon in your Dock and then type _terminal_. Click the launcher to open the Terminal app.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Check for available updates
 
@@ -99,7 +99,7 @@ You will be prompted for your sudo password (which is your MacOS user password).
 The -l option stands for _list_. This will print out any available app updates and, if required, it will inform you if a restart is needed to complete any recent OS updates. If you see such a warning, make sure to do the reboot to complete the process.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Update the apps
@@ -144,22 +144,18 @@ This is about as simple a method as you'll find to help keep your MacOS machines
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-guidance.techidaily.com/new-skip-unwanted-podcast-advice-on-the-spotify-app/"><u>[New] Skip Unwanted Podcast Advice on the Spotify App</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ltimate-livestream-setup-reviews-on-the-top-livestream-tools-and-devices/"><u>[New] Ultimate Livestream Setup Reviews on the Top Livestream Tools and Devices</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-pinnacle-of-video-quality-3-key-transcoder-strategies/"><u>[Updated] 2024 Approved Pinnacle of Video Quality 3 Key Transcoder Strategies</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-decoding-mycam-cams-video-quality-and-recording-speed-for-2024/"><u>[Updated] Decoding MyCam Cam’s Video Quality and Recording Speed for 2024</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/2024-approved-time-saving-photo-enhancement-adding-dates-to-pictures/"><u>2024 Approved Time-Saving Photo Enhancement Adding Dates to Pictures</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/1726225550323-3gpp-gif-movavi/"><u>3GPP GIF 이미지를 원격으로 무료로 바꾸기 - Movavi 도구</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/chatgpt-to-the-rescue-explore-7-incredible-ways-it-boosts-workday-efficiency-and-output/"><u>ChatGPT to the Rescue! Explore 7 Incredible Ways It Boosts Workday Efficiency and Output</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/in-depth-analysis-of-the-affordable-oneplus/"><u>In-Depth Analysis of the Affordable OnePlus</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/movavi-tutorial-mastering-the-conversion-of-dat-file-formats/"><u>Movavi Tutorial: Mastering the Conversion of DAT File Formats</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/navigating-movaviss-legal-framework-for-lump-sum-and-return-of-capital-payments-in-pensions/"><u>Navigating Movavis's Legal Framework for Lump Sum and Return of Capital Payments in Pensions</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/new-in-2024-best-text-motion-tracking-software/"><u>New In 2024, Best Text Motion Tracking Software</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/online-konvertierung-von-swf-zu-mpeg-kostenlos-mit-dem-movavi-video-editor/"><u>Online Konvertierung Von SWF Zu MPEG - Kostenlos Mit Dem Movavi Video Editor</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/online-vervanging-m4a-in-m4b-gratuite-oplossingen-met-movavi/"><u>Online Vervanging M4A in M4B: Gratuite Oplossingen Met Movavi</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/top-17-gratuite-e-piu-efficaci-metodi-online-per-convertire-i-gif-in-formato-mp4/"><u>Top 17 Gratuite E Più Efficaci Metodi Online per Convertire I GIF in Formato MP4</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/trasforma-i-tuoi-file-aiff-in-formato-wmv-online-gratuito-con-movavi/"><u>Trasforma I Tuoi File AIFF in Formato WMV Online Gratuito Con Movavi</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/understanding-openais-shap-e-and-its-functionality-in-ml-transparency/"><u>Understanding OpenAI's SHAP-E and Its Functionality in ML Transparency</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/pgm-movavi/"><u>모바일/컴퓨터 사이트에서의 PGM 무료 데이터 매개 변환 기능 – Movavi</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-chat-room-to-screen-step-by-step-google-meet-youtube-streams/"><u>[New] 2024 Approved From Chat Room to Screen Step-by-Step Google Meet YouTube Streams</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-raw-footage-to-polished-highlights/"><u>[New] 2024 Approved From Raw Footage to Polished Highlights</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-harness-the-power-of-yt-green-screens-for-imaginative-projects/"><u>[New] 2024 Approved Harness the Power of YT Green Screens for Imaginative Projects</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-fostering-fandoms-top-three-storytelling-techniques-for-2024/"><u>[New] Fostering Fandoms Top Three Storytelling Techniques for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/aunching-into-youtube-success-a-starter-guide-for-profit-for-2024/"><u>[New] Launching Into Youtube Success A Starter Guide for Profit for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-hitching-your-video-trailers-to-youtube-success-for-2024/"><u>[Updated] Hitching Your Video Trailers to YouTube Success for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-filming-to-sharing-a-youtube-video-edition/"><u>[Updated] In 2024, From Filming to Sharing A YouTube Video Edition</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/humble-beginnings-surging-subscribers-and-views-in-youtube-world/"><u>From Humble Beginnings Surging Subscribers & Views in Youtube World</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-apps-from-xiaomi-civi-3-disney-100th-anniversary-edition-to-another-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Apps from Xiaomi Civi 3 Disney 100th Anniversary Edition to Another | Dr.fone</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/in-2024-building-a-visual-story-on-facebook-with-slideshows/"><u>In 2024, Building a Visual Story on Facebook with Slideshows</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-tactical-co-creation-youtube-and-brand-joint-efforts/"><u>In 2024, Tactical Co-Creation YouTube and Brand Joint Efforts</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-top-8-instagram-story-filters/"><u>In 2024, Top 8 Instagram Story Filters</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/unleashing-your-iphone-the-top-techniques-for-skyline-pics/"><u>Unleashing Your iPhone The Top Techniques for Skyline Pics</u></a></li>
 </ul></div>
 

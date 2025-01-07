@@ -1,7 +1,7 @@
 ---
 title: "Upgrade Security with macOS 14.4.1: A Safer Path to Enhancing Your Mac Experience"
-date: 2024-12-23T16:30:52.856Z
-updated: 2024-12-28T16:22:25.550Z
+date: 2025-01-04T16:33:15.512Z
+updated: 2025-01-06T20:46:56.606Z
 tags:
   - apple
 categories:
@@ -38,6 +38,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Apple Intelligence
 
 Screenshot by Nina Raemont
@@ -52,6 +56,10 @@ Apple's approach to AI is markedly different from that of its competitors, howev
 
 This lets Apple disengage from the chaotic rat race to a degree, positioning itself as the careful, more ethical actor when it comes to AI, particularly in light of [recent debilitating security concerns](https://www.zdnet.com/article/after-brutal-critiques-microsoft-recall-will-get-these-major-privacy-and-security-changes/) from Microsoft's Recall feature, which is delaying the release of a host of its new [Copilot+ PCs](https://www.zdnet.com/article/every-copilot-pc-microsoft-just-announced-to-take-on-apples-m3-macbooks/).
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Continuity
 
 Screenshot by Nina Raemont
@@ -65,7 +73,7 @@ The app also streamlines your devices by bringing your iPhone's notifications st
 Alternatively, the new standby mode on the iPhone displays a host of at-a-glance (but un-interactable) data like a clock and calendar while you're using the Continuity app on the Mac. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Siri 2.0
@@ -80,10 +88,6 @@ During the WWDC keynote, Apple showed off Siri's new look as an ever-present AI 
 
 The new Siri also comes with on-screen awareness, allowing the AI to respond to what you're looking at on the screen without requiring the user to provide specific context with each prompt. This also allows Siri to take in-app actions in a way that wasn't possible before. In MacOS Sequoia, Siri's integration with OpenAI's LLM propels the virtual assistant to the top players in the field alongside [ChatGPT-4o](https://www.zdnet.com/article/how-to-use-chatgpt-plus-from-gpt-4o-to-interactive-tables/) and [Google's Gemini](https://www.zdnet.com/article/what-is-google-gemini/). 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4\. AI-fueled productivity apps
 
 Screenshot by Nina Raemont
@@ -97,7 +101,7 @@ Apple Intelligence has been integrated across all of the big productivity apps i
 * **Notes:** Voice functionality is coming to the Notes app, with the ability to add voice memos directly embedded into your notes. AI will also support audio transcription and transcripts of audio recordings. You can record and transcribe audio, and when your recording is finished, the AI will create a summary on its own.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. New and improved Safari
@@ -110,10 +114,6 @@ Safari will see a host of improvements powered by AI functionality, including an
 
 Apple demoed Safari's machine learning capability to automatically detect relevant information on a webpage, including things like quick links, directions, and quick summaries with logistical information like phone numbers and addresses. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 6\. Standalone Passwords app
 
 Screenshot by Nina Raemont
@@ -125,7 +125,7 @@ Aligning with Apple's positioning of its AI features as secure and trustworthy, 
 This standalone app is an extension of the existing iCloud Keychain, and seeks to simplify password storage by employing Face ID and Touch ID alongside character-string passwords. Much of it is designed to work automatically and seamlessly in an effort to solve what is a huge UX headache that everyone has experienced at one point or another. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 7\. Gaming
@@ -162,24 +162,15 @@ Apple wants to create a "unified gaming platform" across the iPhone, iPad, and M
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-maximizing-b-roll-effective-techniques-for-enhancing-videos-for-2024/"><u>[New] Maximizing B-Roll Effective Techniques for Enhancing Videos for 2024</u></a></li>
-<li><a href="https://fox-links.techidaily.com/new-the-art-of-high-quality-sound-recording-via-audacity-for-2024/"><u>[New] The Art of High-Quality Sound Recording via Audacity for 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-10-best-online-video-call-free-to-use/"><u>[Updated] 10 Best Online Video Call (Free to Use)</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/1-how-to-handle-liquid-found-in-iphone-charger-port-expert-advice-and-solutions/"><u>1. How to Handle Liquid Found in iPhone Charger Port: Expert Advice and Solutions</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/comparing-ipads-why-the-air-model-might-just-outshine-your-expectations-over-the-pro-version-techsavvy-reviews/"><u>Comparing IPads: Why The Air Model Might Just Outshine Your Expectations Over the Pro Version | TechSavvy Reviews</u></a></li>
-<li><a href="https://techtrends.techidaily.com/decoding-the-trend-whats-behind-the-worldwide-shift-to-electric-vehicles/"><u>Decoding the Trend: What's Behind the Worldwide Shift to Electric Vehicles</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/essential-guide-when-and-how-to-successfully-reboot-your-airpods-tips-from-zdnet/"><u>Essential Guide: When & How to Successfully Reboot Your AirPods - Tips From ZDNet</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/exploring-apples-choice-no-more-exclamation-marks-discover-the-reasoning/"><u>Exploring Apple's Choice: No More Exclamation Marks – Discover the Reasoning</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-unlock-a-disable-iphone-12-pro-without-a-computer-by-drfone-ios-unlock-ios-unlock/"><u>How to unlock a disable iPhone 12 Pro without a computer</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-obs-or-streamlabs-determining-the-superior-livestream-software/"><u>In 2024, OBS or Streamlabs? Determining the Superior Livestream Software</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/premier-10-royale-arena-games-for-2024/"><u>Premier 10 Royale Arena Games for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/revolutionize-your-iphone-16-charging-experience-with-the-new-esr-qi2-magsafe-charger-cooler-and-quicker-than-ever/"><u>Revolutionize Your iPhone 16 Charging Experience with the New ESR Qi2 MagSafe Charger – Cooler and Quicker than Ever</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/stellar-launches-the-first-ever-software-to-repair-corrupted-quickbooks-file-news-of-stellar/"><u>Stellar Launches the First Ever Software to Repair Corrupted QuickBooks File - News of Stellar</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/synergizing-fitness-tracking-how-combining-whoop-and-apple-watch-benefits-elite-athletes-insights/"><u>Synergizing Fitness Tracking: How Combining Whoop and Apple Watch Benefits Elite Athletes - Insights</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/the-future-is-now-for-biz-integrating-newly-available-apis/"><u>The Future Is Now for Biz: Integrating Newly Available APIs</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/the-prospect-of-premium-apple-analytics-are-consumers-willing-to-pay-up-to-20-monthly/"><u>The Prospect of Premium Apple Analytics: Are Consumers Willing to Pay Up to $20 Monthly?</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/top-rated-nomad-cases-ensuring-safety-and-style-for-your-apple-iphone-13-enhanced-with-magsafe-connectivity-robust-impact-resistance-elegant-aesthetics-and-187/"><u>Top-Rated Nomad Cases Ensuring Safety and Style for Your Apple iPhone 13: Enhanced with MagSafe Connectivity, Robust Impact Resistance, Elegant Aesthetics & Exceptional Material Quality 'S Best Picks</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/troubleshooting-fluid-found-in-usb-c-port-on-iphones-2-effective-solutions-revealed/"><u>Troubleshooting 'Fluid Found in USB-C Port on iPhones': 2 Effective Solutions Revealed</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/upgrade-your-smartwatch-game-advanced-tricks-for-apple-watch-owners-zdnet/"><u>Upgrade Your Smartwatch Game: Advanced Tricks for Apple Watch Owners | ZDNet</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-giggles-in-a-gigabyte-10-hilarious-video-concepts-to-share-online/"><u>[New] In 2024, Giggles in a Gigabyte 10 Hilarious Video Concepts to Share Online</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-fortune-awaits-in-marketing-unveil-the-full-set-of-our-50-free-youtube-ads/"><u>[Updated] 2024 Approved Fortune Awaits in Marketing! Unveil the Full Set of Our 50 Free YouTube Ads</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-novice-to-vlogger-the-top-10-editing-techniques/"><u>[Updated] 2024 Approved From Novice to Vlogger The Top 10 Editing Techniques</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-capturecrafter-chronicles-your-2023-software-digest/"><u>[Updated] CaptureCrafter Chronicles Your 2023 Software Digest</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-global-content-makers-conference/"><u>[Updated] In 2024, Global Content Makers' Conference</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-innovative-techniques-crafting-unique-boomerangs-on-snapchat/"><u>[Updated] In 2024, Innovative Techniques Crafting Unique Boomerangs on Snapchat</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/all-about-factory-reset-what-is-it-and-what-it-does-to-your-infinix-smart-7-hd-drfone-by-drfone-reset-android-reset-android/"><u>All About Factory Reset, What Is It and What It Does to Your Infinix Smart 7 HD? | Dr.fone</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/complete-guide-to-repairing-and-fixing-malfunctioning-mpeg-videos/"><u>Complete Guide to Repairing and Fixing Malfunctioning MPEG Videos</u></a></li>
+<li><a href="https://fox-info.techidaily.com/in-2024-scrutinizing-hero5s-performance-throughout-day/"><u>In 2024, Scrutinizing Hero5's Performance Throughout Day</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-tutorial-clearing-out-entire-inbox-using-the-gmail-mobile-app/"><u>Step-by-Step Tutorial: Clearing Out Entire Inbox Using the Gmail Mobile App</u></a></li>
 </ul></div>
 

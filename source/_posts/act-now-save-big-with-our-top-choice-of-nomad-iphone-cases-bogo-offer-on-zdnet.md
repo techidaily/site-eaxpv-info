@@ -1,7 +1,7 @@
 ---
 title: "Act Now: Save Big with Our Top Choice of Nomad iPhone Cases - BOGO Offer on ZDNet"
-date: 2024-12-27T16:35:27.992Z
-updated: 2024-12-28T17:14:10.360Z
+date: 2025-01-03T22:30:18.939Z
+updated: 2025-01-06T21:16:52.654Z
 tags:
   - apple
 categories:
@@ -29,7 +29,7 @@ But even with all the [Apple Intelligence](https://www.zdnet.com/article/what-is
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. We need a clearer Apple Intelligence timeline
@@ -43,7 +43,7 @@ If you're looking to the iPhone 16 to get all the flashy AI features Apple showe
 Most of the more attractive features of Apple Intelligence that Apple showcased during [WWDC](https://www.zdnet.com/article/everything-apple-will-announce-at-wwdc-today-apple-intelligence-siri-ios-18-more/)in June are supposedly coming later in 2025, which is hardly a convincing factor to fork over more money for a new phone in September 2024\. If you're looking for features like Genmoji, Image Playground, and the [ChatGPT](https://www.zdnet.com/article/what-is-chatgpt-and-why-does-it-matter-heres-everything-you-need-to-know/) integration with Siri, you'll have to wait a few months.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Uncertainty around on-device performance
@@ -57,7 +57,7 @@ Many unknowns surround how Apple Intelligence features will perform on the [iPho
 Apple Intelligence requires at least 8GB of RAM and an A17 or M1 Apple silicon processor or newer. While the iPhone 16 lineup is expected to run on an A18 Bionic chip and between 8GB and 12GB of RAM across the four different models, concerns about how much strain the CPU will endure are valid. The new [AI capabilities can also overheat the iPhone and drain its battery quicker](https://www.zdnet.com/article/why-you-shouldnt-buy-the-iphone-16-for-apple-intelligence/), potentially reducing the device's lifecycle.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. The iPhone 16 is not enough of an upgrade on its own
@@ -79,7 +79,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 But, the iPhone 16's Apple Intelligence features (when they arrive) are undoubtedly modest compared to [ChatGPT with GPT-4o](https://www.zdnet.com/article/how-to-use-chatgpt/) and other AI tools available now. Other tools available now can do most of what Apple Intelligence promises; the difference is that the latter will run on-device and be personalized to the individual user. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. The iPhone 16 Pro is the same price as its predecessor… But is it worth it?
@@ -124,24 +124,21 @@ My Apple Intelligence-incompatible, lightning port-charging iPhone 14 Pro Max st
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-all-inclusive-screen-recorder-azs-app-analysis/"><u>[New] In 2024, All-Inclusive Screen Recorder - AZ's App Analysis</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-adding-time-bound-elements-to-your-obs-productions/"><u>[Updated] 2024 Approved Adding Time-Bound Elements to Your OBS Productions</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-savvy-screenshot-tactics-for-netflix-on-mac-a-complete-guide-of-six-ways/"><u>[Updated] Savvy Screenshot Tactics for Netflix on Mac - A Complete Guide of Six Ways</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-the-updated-list-of-tiktok-competitors-for-the-savvy-user/"><u>[Updated] The Updated List of TikTok Competitors for the Savvy User</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/movaviwavmp4/"><u>「Movaviで簡単なWAVからMP4への無料変換」</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/2024-approved-spring-screens-a-deep-dive-into-desktop-capturing-pro/"><u>2024 Approved Spring Screens A Deep Dive Into Desktop Capturing Pro</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/2024-approved-sync-zoom-meetings-with-ios-and-android-calendars/"><u>2024 Approved Sync Zoom Meetings with iOS and Android Calendars</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/1726227205909-mp3-3gp-movavi/"><u>免費在線 MP3 到 3GP 格式專用 Movavi 音頻切換器</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/convertir-archivo-raw-cr2-en-formato-foto-libre-jpeg-utilizando-imageio-gratuito/"><u>Convertir Archivo RAW CR2 en Formato Foto Libre JPEG Utilizando Image.io Gratuito</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/convertissez-votre-fichier-swf-en-flv-sans-frais-service-video-de-qualite-superieure-avec-movavi/"><u>Convertissez Votre Fichier SWF en FLV Sans Frais - Service Vidéo De Qualité Supérieure Avec MOVAVI</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/forbedret-vaebnelse-tydelige-betingelser-ved-movavi-rabatskud-for-brugere/"><u>Forbedret Væbnelse - Tydelige Betingelser Ved Movavi Rabatskud for Brugere</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/gratis-konverteren-van-wma-naar-swf-online-tool-von-movavi/"><u>Gratis Konverteren Van WMA Naar SWF: Online Tool Von Movavi</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/gratis-mp3-versie-naar-m2ts-konverteren-via-web-duurzaam-meesterig/"><u>Gratis MP3-Versie Naar M2TS Konverteren Via Web - Duurzaam Meesterig</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/gratis-online-omwandelen-van-mp3-naar-wma-expertise-movavi/"><u>Gratis Online Omwandelen Van MP3 Naar WMA - Expertise Movavi</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-successfully-bypass-icloud-activation-lock-on-iphone-15-plus-by-drfone-ios/"><u>In 2024, How to Successfully Bypass iCloud Activation Lock on iPhone 15 Plus</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/procedural-guide-constructing-timer-circuits-for-broadcasts/"><u>Procedural Guide Constructing Timer Circuits for Broadcasts</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/1722900617475-solutions-for-sudden-failures-in-car-radio-performance/"><u>Solutions for Sudden Failures in Car Radio Performance</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/swiftly-tweak-your-stories-frame-rates-on-instagram-for-2024/"><u>Swiftly Tweak Your Stories' Frame Rates on Instagram for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/transformar-seus-arquivos-ogv-em-formatos-mov-gratuitamente-a-melhor-ferramenta-on-line-do-movavi-disponivel-agora/"><u>Transformar Seus Arquivos OGV Em Formatos MOV Gratuitamente - A Melhor Ferramenta On-Line Do Movavi Disponível Agora!</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-idea-to-impact-advanced-editing-techniques-for-youtube-creators/"><u>[New] 2024 Approved From Idea to Impact Advanced Editing Techniques for YouTube Creators</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-choose-from-the-finest-7-android-browsers-without-ads-for-2024/"><u>[New] Choose From the Finest 7 Android Browsers Without Ads for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-how-much-could-you-make-on-youtube-snippets-in-2024/"><u>[New] How Much Could You Make on YouTube Snippets, In 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-focus-on-the-essentials-the-compreenas-for-removing-youtube-channels/"><u>[New] In 2024, Focus on the Essentials The Compreenas for Removing Youtube Channels</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-unleashing-iphones-customization-altering-ringtone-sounds/"><u>[New] Unleashing iPhone's Customization Altering Ringtone Sounds</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-game-on-the-leading-12-youtube-videographers-for-opening-tutorials-freepaid/"><u>[Updated] 2024 Approved Game On The Leading 12 YouTube Videographers for Opening Tutorials (Free/Paid)</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-free-online-tools-for-youtube-channel-starters-for-2024/"><u>[Updated] Free Online Tools for YouTube Channel Starters for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-historical-wisdom-on-youtube-for-students/"><u>[Updated] In 2024, Historical Wisdom on YouTube for Students</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-transform-your-content-game-with-creator-studio-insight/"><u>[Updated] Transform Your Content Game with Creator Studio Insight</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/2024-approved-fb-slideshow-101-a-beginners-guide/"><u>2024 Approved FB Slideshow 101 A Beginner's Guide</u></a></li>
+<li><a href="https://howto.techidaily.com/calls-on-itel-a70-go-straight-to-voicemail-12-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Calls on Itel A70 Go Straight to Voicemail? 12 Fixes | Dr.fone</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/exploring-the-xbox-series-s-exceptional-capabilities-encased-in-minimalist-style/"><u>Exploring the Xbox Series S: Exceptional Capabilities Encased in Minimalist Style</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-nubia-z50s-pro-to-outlook-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Nubia Z50S Pro to Outlook | Dr.fone</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/reset-and-refresh-fixing-common-issues-in-final-cut-pro-x-for-2024/"><u>Reset and Refresh Fixing Common Issues in Final Cut Pro X for 2024</u></a></li>
+<li><a href="https://discover-helper.techidaily.com/tailoring-your-computers-energy-consumption-with-control-panel-settings-expert-advice-from-yl-software/"><u>Tailoring Your Computer's Energy Consumption with Control Panel Settings - Expert Advice From YL Software</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-web-based-music-slicer-and-combiner-application/"><u>Updated Web-Based Music Slicer & Combiner Application</u></a></li>
 </ul></div>
 

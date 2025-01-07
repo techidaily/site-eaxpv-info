@@ -1,7 +1,7 @@
 ---
 title: "ZDNet Reveals: Boosting Your Apple Watch's Capabilities with Minimal Hassle"
-date: 2024-12-24T16:30:59.292Z
-updated: 2024-12-28T16:22:45.957Z
+date: 2025-01-06T04:09:12.065Z
+updated: 2025-01-07T04:08:09.321Z
 tags:
   - apple
 categories:
@@ -37,7 +37,7 @@ Even with a healthy battery life in my device, I'm not sure when the problem ori
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Turn off the always-on display
@@ -55,7 +55,7 @@ I don't recommend using Low Power Mode all day since it limits the functionality
 **Also:** [**Apple Watch Ultra 2 vs. Watch Ultra: Is it time to upgrade?**](https://www.zdnet.com/article/apple-watch-ultra-2-vs-ultra/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Disable cellular connectivity
@@ -65,6 +65,10 @@ If you have an Apple Watch with cellular connectivity, it's best to not use your
 **How to:** Open Settings > Cellular on your watch and toggle off "Cellular." Then, when you want to turn it back on, flick the switch again. It's worth noting that airplane mode will essentially do the same thing, but it also turns off Wi-Fi which you need for certain things, so manually disabling cellular data will save some steps.
 
 Jason Hiner/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Turn off background app refresh
 
@@ -84,15 +88,15 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 [See all](https://www.zdnet.com/newsletters/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 5\. Turn off irregular heart rate notifications
 
 With some of the newest Apple Watches, Apple includes a feature that can alert you when your heart rate is beating in irregular intervals and alert you when it may be atrial fibrillation. While that's nice to have for tracking your health over time, it means the heart rate sensor is constantly on collecting your heart rate, which isn't good for battery life.
 
 **How to:** Visit Settings > Heart > Irregular Rhythm Notifications and flick the feature off.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. Reduce the amount of notifications you get
 
@@ -102,10 +106,6 @@ When a notification comes in, it not only plays a "ding!" to alert you, it also 
 
 **Also:** [**Your Apple Watch is getting an upgrade - here are the best features in WatchOS 11**](https://www.zdnet.com/article/your-apple-watch-is-getting-an-upgrade-here-are-the-best-features-in-watchos-11/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 7\. Turn off Siri
 
 Ah, Siri. Many people swear by the voice assistant and use it daily to do things like check the weather, start a timer (or two), play some music, or start a workout. But if you're like me (and, presumably, many others), you don't touch Siri at all on your Apple Watch, and it's just sitting there wasting your battery, constantly listening to hear that magical phrase "Hey, Siri." In other words, you should turn it off.
@@ -114,15 +114,15 @@ Ah, Siri. Many people swear by the voice assistant and use it daily to do things
 
 Adrian Kingsley-Hughes/ZDNET
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 8\. Factory reset your Apple Watch (a.k.a. the last resort)
 
 I've heard from many folks who have faced issues with battery life on the Apple Watch that it's best to do a complete factory reset. Full disclosure: it's not going to work for everyone, but if you've exhausted every option on your Apple Watch to extend battery life, the battery is still healthy, and you don't want to upgrade, your best bet is to reset it and start from scratch. That way, you can set up your watch and, along the way, spot the app or service that drains your battery the most. It may also help clean up some of the system bloat in watchOS 10 that's led to poor efficiency on your watch.
 
 **How to:** Go to Settings > General > Reset on your Apple Watch, then choose "Erase All Content and Settings." You won't have to disable Find My or get rid of your cellular plan since you'll be setting it up with your iPhone again, but if you want to get rid of absolutely everything, make sure you disable Find My and dump your cellular plan during the process.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How we test smartwatches
 
@@ -165,24 +165,18 @@ For a deeper look at our testing process, check out our comprehensive [smartwatc
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/updated-easy-youtube-introduction-design-tips-and-tricks-for-2024/"><u>[Updated] Easy YouTube Introduction Design Tips and Tricks for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-in-2024-quick-learn-to-speed-up-videos-on-snapchat/"><u>[Updated] In 2024, Quick Learn to Speed Up Videos on Snapchat</u></a></li>
-<li><a href="https://fox-http.techidaily.com/2024-approved-clear-photography-archives-legal-purchase-tactics/"><u>2024 Approved Clear Photography Archives Legal Purchase Tactics</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/como-conversion-de-archivos-3gp-en-mp3-libre-de-recursos-utilizando-movavi-online/"><u>Cómo Conversión De Archivos 3GP en MP3 Libre De Recursos Utilizando Movavi Online</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/convert-ogg-audio-tracks-to-mp3-format-for-free-with-movavis-web-based-tool/"><u>Convert OGG Audio Tracks to MP3 Format for Free with Movavi's Web-Based Tool</u></a></li>
-<li><a href="https://win-help.techidaily.com/expert-guide-to-fixing-outlook-not-opening-effective-strategies-inside/"><u>Expert Guide to Fixing 'Outlook Not Opening' – Effective Strategies Inside</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/free-online-webm-format-converter-with-aac-audio-movavi/"><u>Free Online Webm Format Converter with AAC Audio - Movavi</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/gratuit-verbeteren-van-m4a-naar-vob-professioneel-online-converter-via-movavi/"><u>Gratuit Verbeteren Van M4A Naar VOB - Professioneel Online Converter via Movavi</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/guia-gratuita-para-convertir-videos-mp4-a-formatos-m2ts-usando-movavi-en-linea/"><u>Guía Gratuita Para Convertir Videos MP4 a Formatos M2TS Usando Movavi en Línea</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-find-ispoofer-pro-activation-key-on-nokia-c12-plus-drfone-by-drfone-virtual-android/"><u>How to Find iSpoofer Pro Activation Key On Nokia C12 Plus? | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-stream-anything-from-nokia-xr21-to-apple-tv-drfone-by-drfone-android/"><u>How To Stream Anything From Nokia XR21 to Apple TV | Dr.fone</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/in-2024-crafting-engaging-sims-4-gameplay-videos/"><u>In 2024, Crafting Engaging Sims 4 Gameplay Videos</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/no-cost-media-transformation-quickly-switch-between-mpeg-and-asf-formats-with-movavis-online-tool/"><u>No-Cost Media Transformation: Quickly Switch Between MPEG & ASF Formats with Movavi's Online Tool!</u></a></li>
-<li><a href="https://facebook.techidaily.com/social-media-monitoring-the-key-to-reducing-deceptive-advertising/"><u>Social Media Monitoring: The Key to Reducing Deceptive Advertising</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210474223-9781922691323-the-test-of-time/"><u>The Test of Time | Free Book</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/top-15-gratis-odstranovani-pozadi-programy-movavi-vyhodny-vyber/"><u>Top 15 Gratis Odstraňování Pozadi Programy Movavi: Výhodný Výběr</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/transformation-arw-en-jpg-un-guide-simple-de-4-etapes-adapte-a-windows-et-mac/"><u>Transformation ARW en JPG : Un Guide Simple De 4 Étapes Adapté À Windows Et Mac</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/trasforma-i-tuoi-file-swf-in-formato-mp4-gratuitamente-online-con-convertiswf-movavi/"><u>Trasforma I Tuoi File SWF in Formato MP4 Gratuitamente Online Con ConvertiSWF - Movavi</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/utilizing-windows-11s-mspc-toolbar-effectively/"><u>Utilizing Windows 11'S MSPC Toolbar Effectively</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-8-free-online-courses-for-beginner-youtube-creators/"><u>[New] 2024 Approved 8 Free Online Courses for Beginner YouTube Creators</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-the-dual-platform-dance-posting-vids-with-twitter-and-tumblr/"><u>[New] 2024 Approved The Dual-Platform Dance Posting Vids with Twitter & Tumblr</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-how-to-respond-to-a-youtube-copyright-claim-best-practices-for-2024/"><u>[New] How to Respond to a YouTube Copyright Claim Best Practices for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-passive-to-active-earnings-unlocking-youtube-with-500plus-fans/"><u>[New] In 2024, From Passive to Active Earnings Unlocking Youtube with 500+ Fans</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-filters-to-feeds-optimizing-your-360-video-for-youtube-publishing/"><u>[Updated] 2024 Approved From Filters to Feeds Optimizing Your 360 Video for YouTube Publishing</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-passive-watchers-to-profit-youtube-monetization/"><u>[Updated] 2024 Approved From Passive Watchers To Profit YouTube Monetization</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-android-recording-at-your-fingertips-explore-our-top-8-free-choices-for-2024/"><u>[Updated] Android Recording at Your Fingertips – Explore Our Top 8 Free Choices for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-fundamental-codex-for-online-video-communities-for-2024/"><u>[Updated] Fundamental Codex for Online Video Communities for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/efficient-presentation-recording-with-a-webcam-on-handy-guide-for-2024/"><u>Efficient Presentation Recording with a Webcam on Handy Guide for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-windows-10-how-to-prevent-fallout-3-from-crashing/"><u>Fixing Windows 10: How to Prevent Fallout 3 From Crashing</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-vivo-y100i-power-5g-by-drfone-android/"><u>In 2024, AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your Vivo Y100i Power 5G</u></a></li>
+<li><a href="https://fox-links.techidaily.com/jest-sculptor-undead-funnybots/"><u>Jest Sculptor Undead Funnybots</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/monetized-channel-blueprint-for-online-creators/"><u>Your Monetized Channel Blueprint for Online Creators</u></a></li>
 </ul></div>
 

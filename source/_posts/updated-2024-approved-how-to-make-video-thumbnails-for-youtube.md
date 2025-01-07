@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  How to Make Video Thumbnails for YouTube\""
-date: 2024-08-20T13:09:54.807Z
-updated: 2024-08-21T13:09:54.807Z
+date: 2024-12-30T21:14:07.089Z
+updated: 2025-01-07T05:34:02.699Z
 tags:
   - ai video
   - ai youtube
@@ -18,9 +18,6 @@ thumbnail: https://thmb.techidaily.com/c196f6b4394e95f28b75708e950be08411857a7cc
 
 # How to Make Video Thumbnails for YouTube
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 ##### Richard Bennett
@@ -41,6 +38,10 @@ Here are 5 easy tips for creating thumbnails that get views.
 
  _Contest now closed._
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Edit Your Videos Before Creating Video Thumbnails
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
@@ -54,8 +55,13 @@ An example of a standard layout could be you in the middle of the screen wearing
 ![Consistent Layout](https://images.wondershare.com/filmora/article-images/consistent-layout.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **2\. Use Your Face**
 
 People feel automatically connected and drawn into images that make eye contact. This makes thumbnails which feature faces more click-able than thumbnails which don’t, in most genres (i.e. if you make food videos then this may not apply – featuring the food might be more important than featuring your face). [Check out more tips like this here](https://tools.techidaily.com/wondershare/filmora/download/).
@@ -63,8 +69,9 @@ People feel automatically connected and drawn into images that make eye contact.
 Also, if somebody recognizes you in your thumbnail from a previous video of yours, that will go a long way towards making them click.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 3\. Use Graphics/Emojis that are On Topic
 
 Anybody can take a screenshot of themselves in their video and use it as a thumbnail. To make your thumbnails look polished, consider using small images (like emojis or hearts) to stand out. This will add color and personality to your thumbnail.
@@ -87,9 +94,6 @@ A good rule for text is to use only 1-3 words. That way they won’t clutter you
 
 Use these tips to make video thumbnails for YouTube, and tell us what kind of results you get!
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 Richard Bennett
@@ -98,12 +102,15 @@ Richard Bennett is a writer and a lover of all things video.
 
 Follow @Richard Bennett
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## First Offset Guide: Affordable Channel Buys to Monetize
 
@@ -113,10 +120,15 @@ Building a following on a YouTube channel to monetize it can be difficult. It is
 
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) [Learn More](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Wondershare Filmora 12](https://images.wondershare.com/filmora/banner/filmora-latest-product-box.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Part 1\. Top 10 Sites to Buy Monetized YouTube Channels**
 
@@ -137,9 +149,6 @@ Investing in a pre-existing, monetized YouTube channel is a great idea. It saves
 
 This is one of the best options available to buy monetize YouTube channel. They offer precious monetized YouTube channel packages. Your new channel will be ready for monetization with more than 4,000 watch time hours and a 1,000+ subscriber base.
 
-<!-- affiliate ads begin -->
-<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![useviral](https://images.wondershare.com/filmora/article-images/2023/where-to-buy-a-monetized-youtube-channel-a-complete-guide-1.JPG)
 
 To get your monetized channel, you will be required to fill out a brief questionnaire. Explain your ideal market and video production needs to allow the UseViral team to understand what you are looking for. They let you know what you are paying for any extras.
@@ -148,9 +157,6 @@ To get your monetized channel, you will be required to fill out a brief question
 
 **Customer Rating**: 9.5/10
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### **2\.** **SlidesMedia**
 
 This is a well-known social media growth strategist that allows you to buy a monetized YouTube channel. The site stands out for offering assistance with growing the YouTube channel and other social media platforms.
@@ -175,9 +181,6 @@ With a proven track record, AudienceGain stands out for offering quality custome
 
 **Customer Rating**: 9.5/10
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### **4\.** **Fameswap**
 
 This is a flexible marketplace for selling and buying monetized YouTube channels. The site stands out for being selective in the kind of channels it features.
@@ -190,9 +193,6 @@ Fameswap offers a safe method of communication between vendors and buyers throug
 
 **Customer Rating**: 8.5/10
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### **5\.** **Eazy Viral**
 
 Another excellent choice is to buy a monetized YouTube channel. It allows you to choose from numerous channel types. Users also specify the number of subscribers and watch times they want.
@@ -223,22 +223,20 @@ This platform allows you to buy YouTube channels that have not yet made money. Y
 
 ![123accs](https://images.wondershare.com/filmora/article-images/2023/where-to-buy-a-monetized-youtube-channel-a-complete-guide-7.JPG)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 123accs offers new and affordable PVA accounts. Therefore, you can use the service to buy a monetized YouTube channel. Available options include 5 PVA accounts, 25 UK followers, 10 US follower accounts, and more.
 
 **Price:** Custom Pricing
 
 **Customer Rating**: 8/10
 
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### **8\.** **PlayerUp**
 
 PlayerUp offers monetized YouTube channels for sale in its marketplace. The platform offers authentic and affordable channels that users can rely on.
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![playerup](https://images.wondershare.com/filmora/article-images/2023/where-to-buy-a-monetized-youtube-channel-a-complete-guide-8.JPG)
 
 The high quality of the videos posted in the channels under sale will make them stand out in marketing campaigns. This is also a great platform for buying branded content and advanced filters.
@@ -263,9 +261,6 @@ Trustiu stands out for its affordable prices and a wide selection of choices. Us
 
 This social media marketplace allows you to buy monetized YouTube channels in a matter of few steps. Choose channels in entertainment of lifestyle niches.
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![accs market](https://images.wondershare.com/filmora/article-images/2023/where-to-buy-a-monetized-youtube-channel-a-complete-guide-10.JPG)
 
 Accs market offers an affordable option for any type of video genre for sellers. From TV shows to movies, Accs Market has something for you.
@@ -280,18 +275,6 @@ In addition to buying a monetized YouTube channel, you will need to create quali
 
 Wondershare offers a wide range of features that make video editing fun and easy. From automation tools to video enhancement, you can do a lot to your video on the same platform. The most useful features for YouTube monetization include:
 
-<!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 1\. **AI Copywriting**
 
 This feature integrates the ChatGPT API, allowing you to get inspiration through AI-generating scripts. You can also generate text during video editing, as well as YouTube Titles and Descriptions.
@@ -304,9 +287,6 @@ The auto-synchronization feature allows you to effortlessly match your audio wit
 
 ![ai auto synchronization](https://images.wondershare.com/filmora/article-images/2023/where-to-buy-a-monetized-youtube-channel-a-complete-guide-12.JPG)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
-<!-- affiliate ads end -->
 ### 3\. **Auto Reframe**
 
 With the rise of YouTube Shorts, reframing your videos is now more of a necessity than an option. You need to appeal to both YouTube viewers and those who consume content in the vertical orientation. The Filmora Auto Reframe feature allows you to automatically resize your videos with no editing skills needed. To use this feature:
@@ -323,22 +303,20 @@ Define the aspect ratio in the dialogue box that opens. A widescreen has an aspe
 
 ![auto reframe 2](https://images.wondershare.com/filmora/article-images/2023/where-to-buy-a-monetized-youtube-channel-a-complete-guide-14.JPG)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##### Step 3Analyze and Auto Reframe the Video
 
 After adjusting the settings, tap on the Analysis option. This will prompt Filmora to analyze your video for completion. The video will be automatically reframed to your specified aspect ratio and speed.
 
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 ![auto reframe 3](https://images.wondershare.com/filmora/article-images/2023/where-to-buy-a-monetized-youtube-channel-a-complete-guide-15.JPG)
 
 ##### Step 4Preview and Export the Reframed Video
 
 You can now preview the final video to make sure it runs as desired. Make any changes if necessary, and export the reframed video in MP4 format, ready for uploading to YouTube.
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![auto reframe 4](https://images.wondershare.com/filmora/article-images/2023/where-to-buy-a-monetized-youtube-channel-a-complete-guide-16.JPG)
 
 ## **Conclusion**
@@ -349,6 +327,9 @@ The first step to running a successful channel is to be accepted into the YouTub
 
 ![Wondershare Filmora 12](https://images.wondershare.com/filmora/banner/filmora-latest-product-box.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -357,8 +338,22 @@ The first step to running a successful channel is to be accepted into the YouTub
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-hobby-to-career-the-transition-to-youtube-gaming/"><u>[New] 2024 Approved From Hobby to Career The Transition to YouTube Gaming</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-gaming-channel-evolution-best-14-video-ideas-on-youtube-for-2024/"><u>[New] Gaming Channel Evolution Best 14 Video Ideas on YouTube for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-gastronomy-gurus-the-elite-of-food-vlogs-for-2024/"><u>[New] Gastronomy Gurus The Elite of Food Vlogs for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/iggles-in-a-gigabyte-10-hilarious-video-concepts-to-share-online/"><u>[New] Giggles in a Gigabyte 10 Hilarious Video Concepts to Share Online</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-how-to-quickly-clip-and-save-your-favorite-youtube-sections-for-2024/"><u>[New] How to Quickly Clip and Save Your Favorite YouTube Sections for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-mastery-techniques-for-embedding-social-media-live-videos/"><u>[New] Mastery Techniques for Embedding Social Media Live Videos</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-beef-to-brilliance-jake-pauls-youtube-transformation/"><u>[Updated] 2024 Approved From Beef to Brilliance Jake Paul’s Youtube Transformation</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-one-off-to-firm-follower-an-ethical-approach/"><u>[Updated] 2024 Approved From One-Off to Firm Follower An Ethical Approach</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-high-staking-homes-expert-snapshots/"><u>[Updated] HIGH-STAKING HOMES Expert Snapshots</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-achieve-professional-quality-on-yt-with-simple-blurring/"><u>[Updated] In 2024, Achieve Professional Quality on YT with Simple Blurring</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-gamer-income-tactics/"><u>[Updated] In 2024, Gamer Income Tactics</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-remove-apple-iphone-8-plus-device-from-icloud-by-drfone-ios/"><u>How to Remove Apple iPhone 8 Plus Device from iCloud</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-apple-iphone-se-apples-new-iphone-drfone-by-drfone-ios/"><u>How to Unlock Apple iPhone SE, Apples New iPhone | Dr.fone</u></a></li>
+<li><a href="https://fox-http.techidaily.com/in-2024-co-marketing-brands-and-youtubes-dynamic-duo/"><u>In 2024, Co-Marketing Brands and YouTube's Dynamic Duo</u></a></li>
+<li><a href="https://win-guides.techidaily.com/understanding-todays-crypto-valuation-a-comprehensive-guide-by-yl-computing/"><u>Understanding Today's Crypto Valuation: A Comprehensive Guide by YL Computing</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Top Savings: Unveiling the Most Competitive AT&T Offers in May 2024 - Insights"
-date: 2024-12-21T17:00:44.987Z
-updated: 2024-12-28T17:25:12.656Z
+date: 2025-01-01T16:59:50.444Z
+updated: 2025-01-07T02:37:04.765Z
 tags:
   - apple
 categories:
@@ -86,7 +86,7 @@ While the Series 8 isn't the latest and greatest Apple Watch, it's still a great
 [View now at Walmart](https://goto.walmart.com/c/5597632/565706/9383?sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FApple-Watch-Series-8-GPS-Cellular-45mm-Midnight-Aluminum-Case-Sport-Band-S-M-Fitness-Tracker-Blood-Oxygen-ECG-Apps-Always-On-Retina-Display%2F1490655580%3F&subId1=zd-__COM_CLICK_ID__-dtp) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Best refurbished Apple Watch deals of July 2024
@@ -95,25 +95,33 @@ While the Series 8 isn't the latest and greatest Apple Watch, it's still a great
 * [Apple Watch SE](https://goto.walmart.com/c/5597632/565706/9383?sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FRestored-Apple-Watch-SE-40mm-GPS-Cellular-Gold-Aluminum-Case-Starlight-Sport-Band%2F5031506033%3F&subId1=zd-__COM_CLICK_ID__-dtp) (40mm, Pink Sport Band, Restored): $124 (save $21)
 * [Apple Watch SE](https://goto.walmart.com/c/5597632/565706/9383?sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FApple-Watch-SE-GPS-Cellular-44mm-Gold-Aluminum-Case-with-Starlight-Sport-Band-Used%2F1620367883%3F&subId1=zd-__COM_CLICK_ID__-dtp) (44mm, GPS, Starlight Sport Band, Used): $125 (save $35)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How did we choose these deals?
 
 ZDNET only writes about deals we want to buy -- devices and products we desire, need, or would recommend. Our experts looked for deals that were at least 20% off (or are hardly ever on sale), using established price comparison tools and trackers to determine whether the deal is actually on sale and how frequently it drops. 
 
 We also looked over customer reviews to find out what matters to real people who already own and use the deals we're recommending. Our recommendations may also be based on our own testing -- in addition to extensive research and comparison shopping. The goal is to deliver the most accurate advice to help you shop smarter. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What is the best Apple watch?
 
 ZDNET's top pick for the [best Apple watch](https://www.zdnet.com/article/best-apple-watch/) is the Apple Watch Ultra 2 since it is lauded by athletes and members of the press as the best Apple Watch ever made thanks to its rugged durability, large and bright display, long battery life, water resistance, and more. It's no surprise it became the flagship model as soon as the Ultra was released last year. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Do Apple Watches track my AFib?
 
 Yes, your Apple Watch, as long as it is a Series 6 or newer, can track your AFib, or irregular heartbeat. In fact, The US Food and Drug Administration (FDA) has recently [awarded](https://content.govdelivery.com/accounts/USFDA/bulletins/399d551) medical device development tool (MDDT) status to the Apple Watch's atrial fibrillation (AFib) history tracker. The feature is first piece of digital health technology to earn MDDT status, the FDA said in a statement.
 
 **Also:** [**Your Apple Watch's AFib history could soon be used in clinical studies**](https://www.zdnet.com/article/your-apple-watchs-afib-history-could-soon-be-used-in-clinical-studies/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Apple Watch SE vs Series 8: Which is the better buy?
 
@@ -123,10 +131,6 @@ However, if you want to get in at the lowest price or you're buying a watch for 
 
 **Also**: [**Watch Series 8 vs Series 9: Should you upgrade?**](https://www.zdnet.com/article/apple-watch-series-9-vs-apple-watch-series-8/) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What is the newest Apple Watch?
 
 Apple has a lengthy lineup of its flagship tech wearable, with several iterations over the last few years. The two newest watch releases come in the Apple Watch Series 9 and the Apple Watch Ultra 2, which were released in September 2023\. The Apple Watch SE (2nd Gen) remains the most up-to-date base model. With multiple models available, both old and new, you'll be sure to find a watch that fits your needs and your price point. 
@@ -135,15 +139,15 @@ Apple has a lengthy lineup of its flagship tech wearable, with several iteration
 
 Apple's newest releases, the Watch Series 9 and the Watch Ultra 2 both feature the new finger tap capability. Apple formally refers to this as the "double tap gesture," and with it users can easily control either watch with just one hand and without touching the display. Users can tap the index finger and thumb of their watch hand together twice to quickly perform many of the most common actions.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What are the different Apple Watch bands available?
 
 Apple offers several band options that are included with their watches, some dependent on the model purchased. The most frequent band options, often included with new Apple watches, like the Series 9, are the Sport Band and Sport Loop, available in several colors such as Midnight, Starlight, White, Red, Pink, and more. 
 
 Other band options include the Ocean Band, Alpine Loop, Milanese Loop, Trail Loop, Solo Loop, Braided Solo Loop, and more. Apple and other retailers offer tons of bands made of differing materials in a multitude of colors and designs as well. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Are there any alternative smartwatches worth considering?
 
@@ -156,10 +160,6 @@ Similarly to turning in an older cell-phone to receive monetary credit towards p
 When participating in a trade-in offer, you are providing your previously used item to the retailer in exchange for a predetermined amount of cash back that can be directly applied to your next item purchase of the same product. Eligible trade-in items and the cash back offered for each product is decided by each individual retailer and is often determined by factors such as age, condition, and functionality of the item being presented for trade-in. Apple recently decided to even bump up the amount they offer for trade-ins as well, too. 
 
 **Also:** [**Apple is paying more for your used Apple watches**](https://www.zdnet.com/article/apple-is-now-paying-more-for-your-used-apple-watches-and-ipads/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## When will these deals expire?
 
@@ -205,24 +205,24 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-raw-to-masterpiece-the-premier-free-mobile-editors-for-android/"><u>[New] 2024 Approved From Raw to Masterpiece The Premier Free Mobile Editors for Android</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-guidelines-to-frame-your-youtube-creation-flow/"><u>[New] 2024 Approved Guidelines to Frame Your YouTube Creation Flow</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-crafting-compelling-videos-youtubes-best-thumbnail-practices-for-2024/"><u>[New] Crafting Compelling Videos YouTube's Best Thumbnail Practices for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-free-tools-for-effortless-video-image-retrieval/"><u>[New] In 2024, Free Tools for Effortless Video Image Retrieval</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-gamer-guides-and-tips-best-streamers/"><u>[New] In 2024, Gamer Guides and Tips Best Streamers</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-innovative-solutions-exceeding-standard-fbx-recorders/"><u>[New] In 2024, Innovative Solutions Exceeding Standard FBX Recorders</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-idea-to-impact-top-8-online-courses-for-new-creators/"><u>[Updated] 2024 Approved From Idea to Impact Top 8 Online Courses for New Creators</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-from-individualist-to-institutional-influence-in-the-youtube-universe-for-2024/"><u>[Updated] From Individualist to Institutional Influence in the YouTube Universe for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-hiring-heroes-the-most-motivating-vids-of-the-year-1-10-for-2024/"><u>[Updated] Hiring Heroes The Most Motivating Vids of the Year #1-10 for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-future-fortunes-for-virtual-game-masters/"><u>[Updated] In 2024, Future Fortunes for Virtual Game Masters</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-the-ultimate-list-of-top-15-affordable-photo-enhancement-tools/"><u>[Updated] The Ultimate List of Top 15 Affordable Photo Enhancement Tools</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-transform-your-on-screen-identity-into-a-brand-on-youtube/"><u>[Updated] Transform Your On-Screen Identity Into a Brand on YouTube</u></a></li>
-<li><a href="https://discover-comparisons.techidaily.com/comment-transferer-des-donnees-de-samsung-sans-modifier-le-disque-source/"><u>Comment Transférer Des Données De Samsung Sans Modifier Le Disque Source ?</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723208806869-fix-windows-update-error-8007000e-fast-a-step-by-step-guide/"><u>Fix Windows Update Error 8007000E Fast: A Step-by-Step Guide!</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-lost-data-on-iphone-13-pro-max-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How To Recover Lost Data on iPhone 13 Pro Max? | Dr.fone</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-tailored-thumbnails-elevating-your-video-visibility-on-youtube/"><u>In 2024, Tailored Thumbnails Elevating Your Video Visibility on YouTube</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/maximizing-quality-in-ppt-recordings-for-2024/"><u>Maximizing Quality in PPT Recordings for 2024</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/network-locked-sim-card-inserted-on-your-oneplus-ace-3-phone-unlock-it-now-by-drfone-android/"><u>Network Locked SIM Card Inserted On Your OnePlus Ace 3 Phone? Unlock It Now</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/revive-your-apple-watch-top-six-solutions-for-troubled-pairing/"><u>Revive Your Apple Watch: Top Six Solutions for Troubled Pairing</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-breakthrough-techniques-for-outstanding-youtube-openers-technique-1plus2/"><u>[New] 2024 Approved Breakthrough Techniques for Outstanding YouTube Openers (Technique 1+2)</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-going-against-the-tide-of-tradition-innovative-techniques-for-yt-rewinds/"><u>[New] 2024 Approved Going Against the Tide of Tradition Innovative Techniques for YT Rewinds</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-from-individualist-to-institutional-influence-in-the-youtube-universe-for-2024/"><u>[New] From Individualist to Institutional Influence in the YouTube Universe for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-video-to-audio-quickly-create-mp3-from-youtube-on-mac/"><u>[New] In 2024, From Video to Audio Quickly Create MP3 From YouTube on Mac</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-harness-the-power-of-playback-speed-control-in-youtube/"><u>[New] In 2024, Harness the Power of Playback Speed Control in YouTube</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-does-t-series-generate-revenue/"><u>[New] In 2024, How Does T-Series Generate Revenue?</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-harnessing-monetization-potential-with-youtube-ad-strategies-for-2024/"><u>[Updated] Harnessing Monetization Potential with YouTube Ad Strategies for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-bypass-a-youtube-strike-and-keep-creating-videos-for-2024/"><u>[Updated] How to Bypass a YouTube Strike and Keep Creating Videos for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-lens-to-legacy-building-a-lasting-career-in-travel-blogging/"><u>[Updated] In 2024, From Lens to Legacy Building a Lasting Career in Travel Blogging</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-guide-clearing-up-youtube-watchlater-stored-list/"><u>[Updated] In 2024, Guide Clearing Up YouTube Watchlater Stored List</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-prime-construction-tips-for-mc-community-abodes-for-2024/"><u>[Updated] Prime Construction Tips for MC Community Abodes for 2024</u></a></li>
+<li><a href="https://win-hot.techidaily.com/pcos/"><u>簡単でわかりやすいガイド！ノート型PCからデスクトップOSへの変更手順</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/best-8-no-cost-substitutes-to-freemake-video-converter-hassle-free-downloads/"><u>Best 8 No-Cost Substitutes to Freemake Video Converter: Hassle-Free Downloads!</u></a></li>
+<li><a href="https://solve-lab.techidaily.com/falling-in-love-with-apples-latest-creation-the-luxurious-yet-costly-ipad-pro-m4/"><u>Falling in Love with Apple's Latest Creation - The Luxurious Yet Costly iPad Pro (M4)</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-do-oppo-a59-5g-screen-sharing-drfone-by-drfone-android/"><u>How To Do Oppo A59 5G Screen Sharing | Dr.fone</u></a></li>
+<li><a href="https://win-brilliant.techidaily.com/i-tre-codici-pecchiatori-ottimizzati-gratis-per-dispositivi-ssd-in-sistema-operativo-windows/"><u>I Tre Codici Pecchiatori Ottimizzati Gratis per Dispositivi SSD in Sistema Operativo Windows</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-maximize-your-consoles-potential-top-monitors-explored/"><u>In 2024, Maximize Your Console's Potential - Top Monitors Explored</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/in-2024-youtubes-income-leap-at-500-subs-count/"><u>In 2024, YouTube's Income Leap at 500 Subs Count</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/in-depth-analysis-of-moto-g-power-superior-battery-life-meets-striking-aesthetics/"><u>In-Depth Analysis of Moto G Power: Superior Battery Life Meets Striking Aesthetics</u></a></li>
 </ul></div>
 

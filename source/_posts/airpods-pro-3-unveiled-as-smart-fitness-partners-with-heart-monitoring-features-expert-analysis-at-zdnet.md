@@ -1,7 +1,7 @@
 ---
 title: AirPods Pro 3 Unveiled as Smart Fitness Partners with Heart Monitoring Features | Expert Analysis at ZDNET
-date: 2024-12-24T17:39:31.253Z
-updated: 2024-12-28T16:32:18.421Z
+date: 2024-12-30T20:10:44.735Z
+updated: 2025-01-07T01:41:57.610Z
 tags:
   - apple
 categories:
@@ -41,7 +41,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Apple Watch
@@ -75,7 +75,7 @@ For example, the Apple Watch's thermometer, which is currently only [used for fe
 The company is also reportedly seeking health regulatory approval to interpret blood oxygen data. Right now, the Watch shows users oxygen blood data without telling them what it means. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## AirPods
@@ -91,7 +91,7 @@ According to the report, if all goes to plan, AirPods will be able to double as 
 Additionally, the AirPods will be able to perform hearing tests that are typically performed in an audiologist's office, which will make it simpler for users to access care without leaving their homes. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Vision Pro
@@ -140,24 +140,22 @@ Lastly, a headset version of Fitness+ might appear, so long as Apple can figure 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-guidance.techidaily.com/new-ultimate-clearer-eliminate-backgrounds-effectively/"><u>[New] Ultimate Clearer Eliminate Backgrounds Effectively</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-ioss-top-5-ps2-simulators/"><u>[Updated] In 2024, IOS's Top 5 PS2 Simulators</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/experts-choice-for-ultimate-defense-the-premier-iphone-16pro-cases-of-2am-where-the-moon-is-just-rising-and-the-night-is-still-fresh-it-offers-a-serene-sett196/"><u>Experts' Choice for Ultimate Defense: The Premier iPhone 16/Pro Cases of 2Am, Where the Moon Is Just Rising and the Night Is Still Fresh. It Offers a Serene Setting Conducive to Relaxation or Quiet Study, with Minimal Distractions From the Outside World.</u></a></li>
-<li><a href="https://common-error.techidaily.com/fixing-windows-speaker-distortion-issue-a-comprehensive-guide/"><u>Fixing Window's Speaker Distortion Issue: A Comprehensive Guide</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-optimize-your-pc-cutting-down-high-gpu-usage-from-desktop-window-manager-windows-10-and-11/"><u>How to Optimize Your PC: Cutting Down High GPU Usage From Desktop Window Manager (Windows 10 & 11)</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-oppo-reno-10-pro-5g-phone-without-password-by-drfone-android/"><u>In 2024, How To Unlock Oppo Reno 10 Pro 5G Phone Without Password?</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/in-2024-proven-tactics-increasing-your-instagram-video-traffic/"><u>In 2024, Proven Tactics Increasing Your Instagram Video Traffic</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/in-2024-stand-out-strategy-carving-a-niche-on-tiktoks-map/"><u>In 2024, Stand Out Strategy Carving a Niche on TikTok's Map</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/maximize-your-apple-watchs-battery-endurance-with-these-simple-adjustments-insider-tips-from-zdnet/"><u>Maximize Your Apple Watch's Battery Endurance with These Simple Adjustments - Insider Tips From ZDNet</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/meta-quest-3-leaps-into-the-future-with-early-ai-integration-beating-apples-vision-pro-setup-guide-inside-zdnet-insights/"><u>Meta Quest 3 Leaps Into the Future with Early AI Integration Beating Apple's Vision Pro - Setup Guide Inside | ZDNET Insights</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/new-in-2024-top-voice-cloning-apps-for-android-and-ios-devices/"><u>New In 2024, Top Voice Cloning Apps for Android & iOS Devices</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/step-by-step-guide-gmail-plus-outlook-in-one-window-windows/"><u>Step-by-Step Guide: Gmail + Outlook in One Window, Windows</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/the-smart-choice-why-skipping-the-iphone-16-makes-sense-for-tech-savvy-consumers-insights-from-zdnet/"><u>The Smart Choice: Why Skipping the iPhone 16 Makes Sense for Tech-Savvy Consumers - Insights From ZDNet</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/top-cellphone-bargains-in-march-2024-insider-tips-by-zdnet/"><u>Top Cellphone Bargains in March 2024 - Insider Tips by ZDNet</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/top-rated-budget-friendly-notebook-bargains-in-july-2024-explore-the-latest-offers-on-zdnet/"><u>Top Rated Budget-Friendly Notebook Bargains in July 2024 - Explore the Latest Offers on ZDNet</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/ultimate-guide-to-2024s-finest-ipad-air-shellings-pro-reviews/"><u>Ultimate Guide to 2024'S Finest iPad Air Shellings - Pro Reviews</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/uncovering-the-secrets-of-airtag-tracking-a-comprehensive-guide/"><u>Uncovering the Secrets of AirTag Tracking – A Comprehensive Guide</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/unlock-the-potential-of-chatgpt-learn-about-7-impactful-prompting-approaches/"><u>Unlock the Potential of ChatGPT: Learn About 7 Impactful Prompting Approaches</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/unveiling-the-triggers-of-the-2024-crowdstrike-windows-debacle-a-detailed-look-back/"><u>Unveiling the Triggers of the 2024 CrowdStrike-Windows Debacle: A Detailed Look Back</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-free-video-embedding-for-dynamic-online-articles/"><u>[New] 2024 Approved Free Video Embedding for Dynamic Online Articles</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-live-demos-to-online-sharing-mastering-idevice-screenshots-for-video-content/"><u>[New] 2024 Approved From Live Demos to Online Sharing Mastering iDevice Screenshots for Video Content</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-2024-approved-pro-level-scripting-solutions-in-ae/"><u>[New] 2024 Approved Pro-Level Scripting Solutions in AE</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-harness-the-power-of-gs-for-clear-video-ctas-for-2024/"><u>[New] Harness the Power of GS for Clear Video CTAs for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-how-to-acquire-standardized-thumbnails-from-youtube-online-and-desktop-options-for-2024/"><u>[New] How To Acquire Standardized Thumbnails From Youtube Online & Desktop Options for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-gain-yt-prompts-prowess-with-environmentally-friendly-methods/"><u>[New] In 2024, Gain YT Prompts Prowess with Environmentally Friendly Methods</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-exploring-animated-selfies-snapchats-fun-face-filters-explained/"><u>[Updated] 2024 Approved Exploring Animated Selfies Snapchat's Fun Face Filters Explained</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-football-video-analysis-top-youtube-infographics/"><u>[Updated] 2024 Approved Football Video Analysis Top YouTube Infographics</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-raw-to-refined-youtube-thumbnail-creation-for-mobile-users/"><u>[Updated] In 2024, From Raw to Refined YouTube Thumbnail Creation for Mobile Users</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-fix-youtube-video-black-screen/"><u>[Updated] In 2024, How to Fix YouTube Video Black Screen</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/-unwanted-interrucier-top-7-selective-android-adblockers-reviewed/"><u>Avoid Unwanted Interrucier Top 7 Selective Android AdBlockers Reviewed</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/dji-phantom-3-performance-analysis/"><u>DJI Phantom 3 Performance Analysis</u></a></li>
+<li><a href="https://common-error.techidaily.com/effective-solutions-for-logitech-g930-earbuds-disconnection-problems/"><u>Effective Solutions for Logitech G930 Earbuds Disconnection Problems</u></a></li>
+<li><a href="https://games-able.techidaily.com/evaluating-the-price-tag-on-ea-play/"><u>Evaluating the Price Tag on EA Play</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-the-efficient-hosts-guide-to-online-meeting-planning/"><u>In 2024, The Efficient Host's Guide to Online Meeting Planning</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/the-artisans-path-to-memetic-fame-via-gifs-for-2024/"><u>The Artisan's Path to Memetic Fame via GIFs for 2024</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-vn-video-editor-for-pc-a-brief-review/"><u>Updated VN Video Editor For PC - A Brief Review</u></a></li>
 </ul></div>
 

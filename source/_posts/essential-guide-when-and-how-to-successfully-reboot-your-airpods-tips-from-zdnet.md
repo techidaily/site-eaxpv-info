@@ -1,7 +1,7 @@
 ---
 title: "Essential Guide: When & How to Successfully Reboot Your AirPods - Tips From ZDNet"
-date: 2024-12-27T16:04:05.577Z
-updated: 2024-12-28T16:55:45.996Z
+date: 2025-01-03T07:07:46.902Z
+updated: 2025-01-07T00:45:45.279Z
 tags:
   - apple
 categories:
@@ -25,7 +25,7 @@ Before I take you through both the tools and my "process," let me point out that
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### See also
@@ -49,7 +49,7 @@ That whole process is my flow. Over my many various iterations, I've managed to 
 The other half of my day is project time. This is when I work on everything from academic papers to the presentations, white papers, and webcasts I do for ZDNet to developing code to most of the projects I write about for DIY-IT. I tend to work on projects in the late afternoon and the late evening, with a break in the early evening for family time and lunch or dinner. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Changes due to the pandemic
@@ -66,10 +66,6 @@ In any case, what that means is that instead of my escalating ranking of phones,
 
 Now that you understand how my working environment has changed and how I structure my work day, let's discuss the tools I use in my daily flow. It all starts with Gmail... 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## First morning Gmail
 
 It's been quite a while since [I made the switch from Outlook to Gmail](https://www.zdnet.com/article/why-i-bit-the-bullet-and-finally-switched-from-outlook-to-gmail/), and I have to tell you, my productivity has improved tremendously, and after more than half a decade of use, I don't regret the move one bit. Having the exact same email interface on all my machines, with tight integration into my iPhone, iPad, and computers, has made all the difference. 
@@ -85,10 +81,6 @@ Actually, scratch that. I no longer take my iPhone to bed with me. Instead, I we
 The boy
 
 The way I have Gmail set up, only the most important messages show up on my watch. Same with Slack notifications. Basically, unless there's something urgent from one of my editors, I can start my day in peace. If there's nothing urgent, I hit the snooze button. After repeating this ritual two or three times, I get up, do my morning necessaries, and zombie-walk to the coffee maker. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
 
@@ -143,6 +135,10 @@ I'm relatively holistic about my morning reading process. I do it until I'm bore
 
 The key point to all of this is that ever since I moved to this Pocket-read-post-archive cycle for my daily reading, my productivity and flexibility has gone up tremendously. I'm getting more done, and the quality of the process is far more pleasant. I'm no longer tied to my desktop browser, because all of these tools work on all my devices. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Connecting and scheduling
 
 Assuming there's nothing on fire that I've had to handle first thing, at some point during the morning, I'll switch from reading to communicating. I'll switch out of Pocket and into Gmail and work my way through my email. 
@@ -166,7 +162,7 @@ Now, to be fair, I have a slight email fetish, so I do check back in to my inbox
 In fact, now that I have email notifications integrated into my watch, I'm finding I'm actually breaking myself of the habit, because unless I hear the notification tone, I don't have any important emails coming in. I have actually gone a few hours without checking my email inbox, which is something of a record for me. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Managing my daily teaching opportunities
@@ -182,6 +178,10 @@ Help Scout also has great team features, but I'm a programming army of one.
 I just think of those users like more of my students. If any questions show up in my inbox, I go into the ticketing system and answer questions. I'm not assigning users letter grades, but otherwise the process is pretty much the same. 
 
 By the way, this is also a great way to think about users, which I initially was a bit unhappy about adding to my daily workload. But the reframe is this: I'm an educator and these are more people in need of assistance while they're learning to use these plugins. So, rather than thinking about providing user support as an added workload, I think of the users as more of my students and their questions as simply more teaching opportunities. It's also a great way to keep up on what people are doing out there, and gives me a much more "on the street" dialog with users, which is invaluable as a tech journalist.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Featured
 
@@ -229,7 +229,7 @@ That, by the way, is the entire key to keeping your to-do list under control. If
 I've also set up Notion pages for each 3D printer, and for managing and tracking my reviews and video projects. It's great as a catch-all for lots of details, but unlike previous catch-alls like Evernote, Notion allows you to assign some structure and layout to the stuff you're working with. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Blocking out time for my projects
@@ -275,20 +275,16 @@ _You can follow my day-to-day project updates on social media. Be sure to follow
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://win-howtos.techidaily.com/solved-dell-wireless-keyboard-not-working/"><u>[SOLVED] Dell Wireless Keyboard Not Working</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-augment-your-audibility-the-leading-android-tools-for-voice-recording-change/"><u>[Updated] In 2024, Augment Your Audibility The Leading Android Tools for Voice Recording Change</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/webpgif-movavi/"><u>無料在線WEBP轉化成GIF - 使用Movavi專家技術</u></a></li>
-<li><a href="https://blog-min.techidaily.com/easy-guide-to-mastering-mts-and-m2ts-video-editing-discover-the-best-techniques/"><u>Easy Guide to Mastering MTS & M2TS Video Editing: Discover the Best Techniques</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/easy-tips-and-tricks-how-to-download-and-convert-facebook-videos-as-mp4-files/"><u>Easy Tips and Tricks: How to Download & Convert Facebook Videos as MP4 Files</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-social-media-shifts-yearly-data-visualization-guide/"><u>In 2024, Social Media Shifts Yearly Data Visualization Guide</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ize-impact-aspect-ratio-expertise-for-youtube-experts/"><u>Maximize Impact Aspect Ratio Expertise for YouTube Experts</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/movavi-mp4gif/"><u>Movavi MP4至GIF自由下載 - 線上無限瀏覽及轉化功能</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/movavirw2/"><u>Movaviで簡単なRW2ファイルを無料に変換する方法</u></a></li>
-<li><a href="https://program-issues.techidaily.com/solution-found-how-to-accelerate-download-rates-in-utorrent/"><u>Solution Found: How to Accelerate Download Rates in uTorrent</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/transformar-audio-em-video-ferramenta-livre-do-movavi-para-converter-mp3-e-ogv-on-line/"><u>Transformar Áudio Em Video: Ferramenta Livre Do Movavi Para Converter Mp3 E Ogv On-Line</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/updated-in-2024-unraveling-the-process-of-stripping-beat-tracks-from-online-compositions/"><u>Updated In 2024, Unraveling the Process of Stripping Beat Tracks From Online Compositions</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/veelvoudige-musiekuploaden-vanaf-flashdrive-instructie-windows-and-mac-gratis/"><u>Veelvoudige Musiekuploaden Vanaf Flashdrive | Instructie Windows & Mac | Gratis</u></a></li>
-<li><a href="https://win-updates.techidaily.com/1728497641223-windows/"><u>Windowsサーバーにおけるバックアップミスを解消する専門的なガイド</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/1726226183503-movmkv-movavi/"><u>オンライン無料MOV/MKVフォーマット変換ツール | 動画コンバーター - Movavi</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-viewers-to-profits-an-authoritative-guide-on-youtube-revenue-and-popularity-analysis/"><u>[New] 2024 Approved From Viewers to Profits An Authoritative Guide on YouTube Revenue and Popularity Analysis</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-streamlining-meetings-integrate-slack-and-filmora-effortlessly/"><u>[New] 2024 Approved Streamlining Meetings Integrate Slack & Filmora Effortlessly</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/uide-to-swiftly-eliminate-unwanted-youtube-comments/"><u>[New] Guide to Swiftly Eliminate Unwanted YouTube Comments</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-flavorful-frontier-groundbrenant-title-strategies-for-food-networks/"><u>[New] In 2024, Flavorful Frontier Groundbrenant Title Strategies for Food Networks</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-flavorful-faves-top-online-chefs-and-culinary-stars/"><u>[Updated] 2024 Approved Flavorful Faves Top Online Chefs & Culinary Stars</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-for-students-discover-the-top-10-historical-youtube-channels-now/"><u>[Updated] 2024 Approved For Students, Discover the Top 10 Historical YouTube Channels Now</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-echo-generator-blueprint-for-2024/"><u>[Updated] Echo Generator Blueprint for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-insights-into-the-world-of-touch-and-movement-detection/"><u>2024 Approved Insights Into the World of Touch and Movement Detection</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/is-fake-gps-location-spoofer-a-good-choice-on-apple-iphone-x-drfone-by-drfone-virtual-ios/"><u>Is Fake GPS Location Spoofer a Good Choice On Apple iPhone X? | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/premium-accelerated-photo-browser-for-windows-for-2024/"><u>Premium Accelerated Photo Browser for Windows for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/unlocking-apowersofts-zero-cost-screen-recording-for-2024/"><u>Unlocking Apowersoft's Zero-Cost Screen Recording for 2024</u></a></li>
 </ul></div>
 

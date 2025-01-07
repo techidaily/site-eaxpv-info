@@ -1,7 +1,7 @@
 ---
 title: "Discover iPhone 12'S Latest Feature: Improved Qi Charging that Works without MagSafe | ZDNET News"
-date: 2024-12-21T16:40:20.615Z
-updated: 2024-12-28T17:32:19.734Z
+date: 2025-01-05T04:41:05.086Z
+updated: 2025-01-07T00:10:18.609Z
 tags:
   - apple
 categories:
@@ -27,7 +27,7 @@ But which features will actually have the most impact on iPhone enthusiasts? Wha
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. The 5x zoom comes to the Pro
@@ -35,7 +35,7 @@ But which features will actually have the most impact on iPhone enthusiasts? Wha
 When Apple first released the [iPhone 15](https://www.zdnet.com/article/iphone-15-plus-review/) series, it only gave the 5x tetraprism zoom lens to the Max Pro. This time around, both the 16 Pro and the 16 Pro Max are getting the high-end zoom capability. This choice means the camera is essentially the same on the 16 Pro and 16 Pro Max, leaving other features to differentiate the two models. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. The camera control
@@ -53,7 +53,7 @@ The camera control button is available on all iPhone 16 models, but it's when pa
 [Not everyone is a fan](https://www.zdnet.com/article/i-want-to-be-excited-about-the-iphone-16s-new-camera-button-but-cant-for-now/) of the new camera button, however, as this shift from software to hardware will likely come with usability growing pains and mistakenly-accessed features.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Siri's much-needed makeover
@@ -71,7 +71,7 @@ Well, the time has finally come. Apple unveiled a ton of new functionality for S
 Beyond Siri, we have [Visual Intelligence](https://www.zdnet.com/article/apple-adds-visual-intelligence-its-answer-to-google-lens-to-the-iphone-16-camera/), which allows multi-modal AI via the camera, similar to what we've seen across other AI models this year. Apple Intelligence will start with a live beta in October in the US, with additional countries in December, and additional languages next year. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Upgraded chipset for the AI age
@@ -87,7 +87,7 @@ The 3mm technology has smaller, more efficient transistors, and constitutes a bi
 Even with AI's demanding memory requirements, having this much memory on the iPhone is a bonus for overall performance, particularly multitasking and starting up apps. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. The biggest iPhones yet
@@ -124,24 +124,24 @@ The iPhone 16 Pro and Pro Max are the largest iPhones ever, with 6.3 and 6.9-inc
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-exclusive-list-best-4k-laptops-for-playing-games/"><u>[New] Exclusive List Best 4K Laptops for Playing Games</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-from-idea-to-execution-an-essential-guide-to-youtube-shorts-template-design-for-2024/"><u>[New] From Idea to Execution An Essential Guide to YouTube Shorts Template Design for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-from-selfies-to-subscribers-jake-pauls-online-odyssey-for-2024/"><u>[New] From Selfies to Subscribers Jake Paul’s Online Odyssey for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-basics-to-breakthroughs-the-ultimate-strategy-for-youtube-advertising-success/"><u>[New] In 2024, From Basics to Breakthroughs The Ultimate Strategy for YouTube Advertising Success</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-authenticate-your-yt-account-a-hint-list/"><u>[New] In 2024, How to Authenticate Your YT Account? A Hint List</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-prime-time-action-film-transcription/"><u>[New] In 2024, Prime Time Action Film Transcription</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-fresh-face-finds-budget-friendly-platforms-to-purchase/"><u>[Updated] 2024 Approved Fresh Face Finds Budget-Friendly Platforms to Purchase</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-editing-to-sharing-using-premiere-with-youtube/"><u>[Updated] 2024 Approved From Editing to Sharing Using Premiere with YouTube</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-run-a-sports-youtube-chain-on-macos-for-2024/"><u>[Updated] How to Run a Sports YouTube Chain on MacOS for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-boring-to-breathtaking-the-transformation-of-channel-titles/"><u>[Updated] In 2024, From Boring to Breathtaking The Transformation of Channel Titles</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-scripts-to-screens-your-ultimate-youtube-production-plan/"><u>[Updated] In 2024, From Scripts to Screens Your Ultimate YouTube Production Plan</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-in-depth-review-dji-phantom-4-in-action/"><u>2024 Approved In Depth Review DJI Phantom 4 in Action</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/full-tutorial-to-bypass-your-oppo-face-lock-by-drfone-android/"><u>Full Tutorial to Bypass Your Oppo Face Lock?</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-tips-and-tricks-for-setting-up-your-realme-gt-neo-5-se-phone-pattern-lock-by-drfone-android/"><u>In 2024, Tips and Tricks for Setting Up your Realme GT Neo 5 SE Phone Pattern Lock</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/jetzt-12-strategien-zum-konvertieren-von-videoobjektdateien-in-hochwertiges-mp4-was-sie-uber-den-neuesten-stand-wissen-mussen/"><u>Jetzt: 12 Strategien Zum Konvertieren Von Videoobjektdateien in Hochwertiges MP4 - Was Sie Über Den Neuesten Stand Wissen Müssen</u></a></li>
-<li><a href="https://article-posts.techidaily.com/master-class-review-of-dji-inspire-2-for-2024/"><u>Master Class Review of DJI Inspire 2 for 2024</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/optimizing-performance-solutions-for-euro-truck-simulator-2-bugs-and-pc-crashes/"><u>Optimizing Performance: Solutions for Euro Truck Simulator 2 Bugs and PC Crashes</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolving-valorants-perpetual-launch-loop-issue/"><u>Resolving Valorant's Perpetual Launch Loop Issue</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/unleash-the-power-of-your-pc-with-ultimate-guide-how-to-harness-infinite-riches-in-dragonia/"><u>Unleash the Power of Your PC with Ultimate Guide: How to Harness Infinite Riches in Dragonia</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-2024-approved-the-importance-of-accurate-slug-line-writing-in-screenplays/"><u>[New] 2024 Approved The Importance of Accurate Slug Line Writing in Screenplays</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-from-good-to-great-transformative-tactics-with-studio-for-2024/"><u>[New] From Good to Great Transformative Tactics with Studio for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-from-novice-to-pro-youtube-gamers-broadcasting-journey-for-2024/"><u>[New] From Novice to Pro YouTube Gamers' Broadcasting Journey for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-from-raw-footage-to-polished-perfection-an-essential-youtube-video-editing-guide-for-2024/"><u>[New] From Raw Footage to Polished Perfection An Essential Youtube Video Editing Guide for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-guidelines-to-affirm-your-youtube-status-for-2024/"><u>[New] Guidelines to Affirm Your YouTube Status for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-storyboard-to-screenplay-a-youtube-video-writers-journey/"><u>[New] In 2024, From Storyboard to Screenplay A YouTube Video Writer's Journey</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-perfect-settings-for-live-broadcasts/"><u>[New] Perfect Settings for Live Broadcasts</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-passive-to-profitable-youtube-revenue-techniques/"><u>[Updated] 2024 Approved From Passive to Profitable YouTube Revenue Techniques</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-high-quality-audio-collections-a-youtube-creators-guidebook/"><u>[Updated] 2024 Approved High-Quality Audio Collections A YouTube Creator's Guidebook</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-google-cardboard-vs-samsung-gear-vr/"><u>[Updated] Google Cardboard Vs. Samsung Gear VR</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-hidden-treasures-on-youtube-understanding-unlisted-footage-for-2024/"><u>[Updated] Hidden Treasures on YouTube Understanding 'Unlisted' Footage for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-gamers-quest-1000plus-game-adventures-unfolded/"><u>[Updated] In 2024, Gamer's Quest 1,000+ Game Adventures Unfolded</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-potplayer-plus-windows-media-counterpart-for-2024/"><u>[Updated] PotPlayer Plus Windows Media Counterpart for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-step-by-step-instagram-videos-that-wow-viewers/"><u>[Updated] Step-by-Step Instagram Videos that Wow Viewers</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/apple-iphone-6s-plus-asking-for-passcode-after-ios-1714-update-what-to-do-drfone-by-drfone-ios/"><u>Apple iPhone 6s Plus Asking for Passcode after iOS 17/14 Update, What to Do? | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-everything-to-know-about-apple-id-password-requirements-for-apple-iphone-14-by-drfone-ios/"><u>In 2024, Everything To Know About Apple ID Password Requirements For Apple iPhone 14</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tailoring-your-tech-timetable-avoiding-unscheduled-surprises-with-windows-11-settings/"><u>Tailoring Your Tech Timetable: Avoiding Unscheduled Surprises with Windows 11 Settings</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/twitch-account-disposal-a-detailed-tutorial/"><u>Twitch Account Disposal: A Detailed Tutorial</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/unova-stone-pokemon-go-evolution-list-and-how-catch-them-for-realme-gt-neo-5-se-drfone-by-drfone-virtual-android/"><u>Unova Stone Pokémon Go Evolution List and How Catch Them For Realme GT Neo 5 SE | Dr.fone</u></a></li>
 </ul></div>
 

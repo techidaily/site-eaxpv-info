@@ -1,7 +1,7 @@
 ---
 title: What You Need To Know About The Next Generation AirPods & How to Secure Yours Early!
-date: 2024-12-21T16:51:17.217Z
-updated: 2024-12-28T17:48:56.308Z
+date: 2024-12-30T21:40:40.065Z
+updated: 2025-01-06T23:45:40.287Z
 tags:
   - apple
 categories:
@@ -39,7 +39,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Camera Control button
@@ -51,7 +51,7 @@ The iPhone 16 receives a substantial update to its camera system. The device pos
 The button acts as a camera shortcut of sorts. Pushing it takes a photo, but the button also supports gesture controls. Swiping on the button with your thumb or finger lets you zoom in or out, while a double light-press presents you with various shooting modes, zoom lengths, photographic styles, and more. It's a fun and intuitive way to take photos. The best part about the button is that it's a great way to introduce more people to photography.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Siri 2.0 is arriving very soon
@@ -67,7 +67,7 @@ The new Siri can engage in more natural conversations. Users no longer need to c
 Everything mentioned so far is just the tip of the iceberg. It's been reported that next year Siri will be able to find and act on items on-device based on your context. For example, you could ask the AI what time your mom's flight is landing and Siri will pull together information from texts and emails, and then present this insight to you in a brief response.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. A new AI-powered chipset
@@ -114,16 +114,19 @@ Besides Apple Intelilgence, the A18 chipset should enable faster processing spee
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/n-2024-30-tips-and-tricks-to-take-your-youtube-shorts-templates-to-the-next-level/"><u>[New] In 2024, 30 Tips & Tricks to Take Your YouTube Shorts Templates to the Next Level</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/new-in-2024-from-beats-to-broadcast-a-compreesive-guide-to-editing-your-podcast/"><u>[New] In 2024, From Beats to Broadcast A Compreesive Guide to Editing Your Podcast</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-hobbies-to-hearts-youtubes-path-to-fame/"><u>[New] In 2024, From Hobbies to Hearts YouTube's Path to Fame</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-extract-youtube-media-directly/"><u>[New] In 2024, How to Extract YouTube Media Directly</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-notrace-remover-ultimate-background-cleanse/"><u>[New] NoTrace Remover Ultimate Background Cleanse</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-enhance-your-vlogs-pacing-using-jump-cuts/"><u>[Updated] 2024 Approved How to Enhance Your Vlog's Pacing Using Jump Cuts</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-use-youtube-analytics-to-grow-your-channel/"><u>[Updated] 2024 Approved How to Use YouTube Analytics to Grow Your Channel?</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-how-can-you-make-outstanding-youtube-outro-for-2024/"><u>[Updated] How Can You Make Outstanding YouTube Outro for 2024</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-how-to-make-animation-with-windows-movie-maker/"><u>[Updated] How to Make Animation with Windows Movie Maker</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/decoding-the-new-era-of-video-editing-with-vivacut/"><u>Decoding the New Era of Video Editing with VivaCut</u></a></li>
-<li><a href="https://extra-support.techidaily.com/spectral-photography-takes-a-quantum-leap-with-blade-4k-for-2024/"><u>Spectral Photography Takes a Quantum Leap with Blade 4K for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-fiscally-flourishing-through-film-reviewing-retail-relics-for-2024/"><u>[New] Fiscally Flourishing Through Film Reviewing Retail Relics for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-frameworks-for-compelling-youtube-content-layouts-for-2024/"><u>[New] Frameworks for Compelling YouTube Content Layouts for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/1717717666129-new-how-to-make-collab-videos-and-grow-your-channel-for-2024/"><u>[New] How to Make Collab Videos And Grow Your Channel for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-one-off-to-firm-follower-an-ethical-approach/"><u>[New] In 2024, From One-Off to Firm Follower An Ethical Approach</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-most-popular-vr-game-experiences-on-oculus/"><u>[New] The Most Popular VR Game Experiences on Oculus</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-watcher-to-writer-how-to-set-up-a-sports-channel-on-macos/"><u>[Updated] 2024 Approved From Watcher to Writer How to Set Up a Sports Channel on macOS</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-free-profile-imagery-for-youtubers-for-2024/"><u>[Updated] Free Profile Imagery for YouTubers for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/decoding-freeaudmagic-a-thorough-examination-of-2024-tech/"><u>Decoding FreeAudMagic A Thorough Examination of 2024 Tech</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/engineering-a-memorable-trailer-narrative-for-2024/"><u>Engineering a Memorable Trailer Narrative for 2024</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/guide-to-resolving-windows-tntries-cannot-boot-from-cd-or-dvd-error-4-methods/"><u>Guide to Resolving Windows ˈtɛntriəs 'Cannot Boot From CD or DVD' Error (4 Methods)</u></a></li>
+<li><a href="https://extra-information.techidaily.com/how-to-make-gmail-meetings-work-zipping-up-zoom-integrations/"><u>How to Make Gmail Meetings Work Zipping Up Zoom Integrations</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/24-enjoy-uninterrupted-viewing-top-20-youtube-download-apps/"><u>In 2024, Enjoy Uninterrupted Viewing Top 20 YouTube Download Apps</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-hasty-photographers-guide-to-google-collage-magic/"><u>In 2024, The Hasty Photographer's Guide to Google Collage Magic</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/successful-fix-for-the-elder-scrolls-online-starting-problems/"><u>Successful Fix for 'The Elder Scrolls Online' Starting Problems</u></a></li>
 </ul></div>
 

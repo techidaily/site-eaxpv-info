@@ -1,7 +1,7 @@
 ---
 title: "How to Upgrade to iOS N18: Installation Guide & Eligible iPhones | Latest Update Covered"
-date: 2024-12-27T16:13:32.354Z
-updated: 2024-12-28T17:47:56.847Z
+date: 2025-01-04T01:13:02.599Z
+updated: 2025-01-06T18:56:59.833Z
 tags:
   - apple
 categories:
@@ -27,7 +27,7 @@ While the official iOS 18 general release is today, users have already been able
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to install iOS 18
@@ -41,30 +41,26 @@ Jason Hiner/ZDNET
 Go to your iPhone's Settings and select General. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Go to Software Update in Settings
 
 Within General, tap on Software Update. This will show you if the iOS 18 update is available for you to download.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3\. Download and install
 
 When you tap on Software Update, your iPhone will check for the latest version of iOS available. Then, you'll be able to Download and Install the new update. Your iPhone will begin the download immediately.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Enter your passcode and follow steps to install
 
 Enter your passcode, if necessary, to authorize the installation of the new iOS on your iPhone, and follow the prompts to complete the installation.
 
 After installing the latest iOS update, your iPhone will restart.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## FAQs
 
@@ -98,7 +94,7 @@ You'll need an iPhone running iOS 16.5 or later. Since not all iPhones are compa
 Screenshot: Maria Diaz/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### How to download the iOS 18 developer beta?
@@ -116,6 +112,10 @@ If you can't see this option, go to your **Settings,** select **Privacy & Securi
 **Also: [How to use and customize your iPhone's new Control Center with iOS 18](https://www.zdnet.com/article/how-to-use-and-customize-your-iphones-new-control-center-with-ios-18/)**
 
 If you aren't already a member of the Apple Developer Program, you can sign up to become one in the app. An annual membership costs $99.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### What is in iOS 18 beta 3?
 
@@ -161,18 +161,22 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-enhance-your-podcasts-production-with-top-audio-devices/"><u>[New] Enhance Your Podcast's Production with Top Audio Devices</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/new-eye-on-video-the-premier-cameras-excellence/"><u>[New] Eye on Video The Premier Cameras Excellence</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/avoid-monetization-mishaps-essential-youtube-checks-for-2024/"><u>Avoid Monetization Mishaps Essential YouTube Checks for 2024</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/effortless-setup-of-wacom-intuos-pro-software-with-windows-10-compatibility/"><u>Effortless Setup of Wacom Intuos Pro Software with Windows 10 Compatibility</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/enhancing-imessage-security-apples-proactive-measures-against-emerging-cyber-risks/"><u>Enhancing iMessage Security: Apple's Proactive Measures Against Emerging Cyber Risks</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/essential-ipad-enhancements-the-ultimate-guide-to-accessories-featured/"><u>Essential iPad Enhancements : The Ultimate Guide to Accessories, Featured</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/forgot-iphone-passcode-again-unlock-iphone-13-pro-without-passcode-now-by-drfone-ios/"><u>Forgot iPhone Passcode Again? Unlock iPhone 13 Pro Without Passcode Now</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-frp-from-oneplus-ace-3-by-drfone-android/"><u>In 2024, How to Bypass FRP from OnePlus Ace 3?</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/ipads-latest-calculator-app-so-sophisticated-youll-want-the-apple-pencil-discover-how/"><u>IPad's Latest Calculator App: So Sophisticated, You'll Want the Apple Pencil – Discover How</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/open-communication/"><u>Open Communication</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/revolutionary-new-messaging-feature-arrives-on-iphones-with-ios-18-the-lifesaver-thats-not-ai-explained/"><u>Revolutionary New Messaging Feature Arrives on iPhones with iOS 18: The Lifesaver That's Not AI, Explained</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/secure-your-discounted-apple-watch-series-10-now-exclusive-pre-order-offer-starting-at-just-99-with-best-buy-detailed-guide-zdnet/"><u>Secure Your Discounted Apple Watch Series 10 Now: Exclusive Pre-Order Offer Starting At Just $99 with Best Buy – Detailed Guide | ZDNet</u></a></li>
-<li><a href="https://location-social.techidaily.com/simple-and-effective-ways-to-change-your-country-on-youtube-app-of-your-honor-magic-v2-drfone-by-drfone-virtual-android/"><u>Simple and Effective Ways to Change Your Country on YouTube App Of your Honor Magic V2 | Dr.fone</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-efficient-zooming-strategies-for-youtube-videos/"><u>[New] Efficient Zooming Strategies for YouTube Videos</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-harmonic-haven-best-dj-template-selections-for-2024/"><u>[New] Harmonic Haven Best DJ Template Selections for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-history-enthusiasts-guide-to-inspiring-youtube-channels/"><u>[New] In 2024, History Enthusiasts' Guide to Inspiring YouTube Channels</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-make-money-on-youtube-without-ads/"><u>[New] In 2024, How to Make Money on YouTube Without Ads</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-decoding-the-best-screen-recorder-bandicam-and-camtasia/"><u>[Updated] 2024 Approved Decoding the Best Screen Recorder Bandicam & Camtasia</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-use-creative-commons-copyright-licenses/"><u>[Updated] 2024 Approved How to Use Creative Commons Copyright Licenses?</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-fullframe-alliance-how-to-choose-your-mcn-strategically-for-2024/"><u>[Updated] FullFrame Alliance How to Choose Your MCN Strategically for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-fast-track-video-scaling-for-perfect-mac-display/"><u>[Updated] In 2024, Fast-Track Video Scaling for Perfect Mac Display</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-average-to-exceptional-discover-the-finest-free-intra-designs/"><u>[Updated] In 2024, From Average to Exceptional Discover the Finest Free Intra Designs</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-gourmet-guide-producing-culinary-content/"><u>[Updated] In 2024, Gourmet Guide Producing Culinary Content</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-the-ultimate-strategy-map-for-skyrocketing-your-fb-page-status/"><u>[Updated] In 2024, The Ultimate Strategy Map for Skyrocketing Your FB Page Status</u></a></li>
+<li><a href="https://techidaily.com/complete-tutorial-for-asus-rog-phone-7-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Complete Tutorial for Asus ROG Phone 7 Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/defending-chatbots-against-model-reconstruction/"><u>Defending Chatbots Against Model Reconstruction</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/exclusive-discover-the-ultimate-list-of-top-dell-deals-for-black-friday-and-cyber-monday-across-platforms-such-as-best-buy-and-amazon-gizmodo/"><u>Exclusive: Discover the Ultimate List of Top Dell Deals for Black Friday and Cyber Monday Across Platforms Such as Best Buy & Amazon | Gizmodo</u></a></li>
+<li><a href="https://android-location.techidaily.com/for-people-wanting-to-mock-gps-on-honor-play-7t-devices-drfone-by-drfone-virtual/"><u>For People Wanting to Mock GPS on Honor Play 7T Devices | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/hatch-humorous-habits/"><u>Hatch Humorous Habits</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-how-to-execute-a-budget-friendly-youtube-seminar/"><u>In 2024, How to Execute a Budget-Friendly Youtube Seminar</u></a></li>
 </ul></div>
 

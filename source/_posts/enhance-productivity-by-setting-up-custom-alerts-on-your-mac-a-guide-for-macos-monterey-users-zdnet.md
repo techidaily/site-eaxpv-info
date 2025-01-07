@@ -1,7 +1,7 @@
 ---
 title: Enhance Productivity by Setting Up Custom Alerts on Your Mac - A Guide for macOS Monterey Users | ZDNET
-date: 2024-12-27T16:14:36.417Z
-updated: 2024-12-28T17:10:20.248Z
+date: 2025-01-04T06:43:22.320Z
+updated: 2025-01-07T03:17:15.765Z
 tags:
   - apple
 categories:
@@ -26,10 +26,14 @@ So, how do you create this custom Flow? Let me show you. All you'll need to make
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Create a custom Focus
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 1\. Open System Preferences
@@ -37,7 +41,7 @@ So, how do you create this custom Flow? Let me show you. All you'll need to make
 Click on the Apple menu in the top left corner of your desktop. From the resulting pop-up menu, click System Preferences.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 2\. Access Notifications & Focus
@@ -57,7 +61,7 @@ Once Notifications & Focus is opened, click the Focus tab (**Figure 2**).
 Image: Jack Wallen
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 4\. Create the new Focus
@@ -77,7 +81,7 @@ Image: Jack Wallen
 After naming and selecting a color/icon, click Add to save the new Focus.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 5\. Allowing specific notifications
@@ -93,10 +97,6 @@ From the pop-up list, select the contact(s) you want to be allowed to interrupt 
 **Figure 6:** Adding contacts to a Focus in macOS Monterey.
 
 Image: Jack Wallen
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 6\. Set the Focus to be enabled
 
@@ -140,20 +140,20 @@ Use this new Focus feature wisely, and it will help you be more productive while
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-hints.techidaily.com/new-ace-windows-10-tricks-to-save-time-and-energy/"><u>[New] Ace Windows 10 Tricks to Save Time & Energy</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-how-sourav-joshi-mastered-youtube-earnings-by-2024/"><u>[Updated] How Sourav Joshi Mastered YouTube Earnings by 2024</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-mastering-tags-a-must-read-before-uploading-for-2024/"><u>[Updated] Mastering Tags A Must-Read Before Uploading for 2024</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/2024-approved-iphone-photo-perfection-implement-these-10-composition-tenets/"><u>2024 Approved IPhone Photo Perfection Implement These 10 Composition Tenets</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/1726225117222-vob-wmv-movavi/"><u>網路移動平台無限制自由式 VOB 到 WMV 格式改造 - 利用 Movavi 工具</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/convertidor-gratuito-de-audio-wav-a-formato-flac-online-movavi/"><u>Convertidor Gratuito De Audio WAV a Formato FLAC Online - Movavi</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/descargar-y-convertir-archivos-aac-a-formato-mp3-gratuito-con-el-mejor-servicio-online/"><u>Descargar Y Convertir Archivos AAC a Formato MP3 Gratuito Con El Mejor Servicio Online</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/discover-the-features-of-the-latest-cycwagen-electric-bike-a-hands-on-review/"><u>Discover the Features of the Latest CycWagen Electric Bike - A Hands-On Review</u></a></li>
-<li><a href="https://extra-information.techidaily.com/essential-zooid-creation-samples/"><u>Essential Zooid Creation Samples</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/free-online-converter-change-swf-files-into-webm-format-with-ease/"><u>Free Online Converter: Change SWF Files Into WebM Format with Ease</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/gratuit-online-om-avi-files-naar-m4a-format-te-verwerpen-movavi/"><u>Gratuit Online Om Avi-Files Naar M4a-Format Te Verwerpen - Movavi</u></a></li>
-<li><a href="https://fox-http.techidaily.com/in-2024-shutter-societys-top-six-elite-4k-dslr-picks/"><u>In 2024, Shutter Society's Top Six Elite 4K DSLR Picks</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/ricodifica-mp2-nel-formato-wmv-senza-costo-su-internet-scopri-il-metodo-di-conversione-rapida-di-movavi/"><u>Ricodifica MP2 Nel Formato WMV Senza Costo Su Internet: Scopri Il Metodo Di Conversione Rapida Di Movavi</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/the-updated-method-to-bypass-xiaomi-14-ultra-frp-by-drfone-android/"><u>The Updated Method to Bypass Xiaomi 14 Ultra FRP</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/transforma-tus-ficheros-de-video-mkv-a-formato-vob-en-linea-sin-coste-usando-la-solucion-de-movavi/"><u>Transforma Tus Ficheros De Video MKV a Formato VOB en Línea Sin Coste Usando La Solución De Movavi</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-flipping-currencies-through-cosmetics-content/"><u>[New] 2024 Approved Flipping Currencies Through Cosmetics Content</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-step-by-step-guide-to-find-youtube-hidden-videos/"><u>[New] 2024 Approved Step-By-Step Guide to Find YouTube Hidden Videos</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-gain-yt-prompts-prowess-with-environmentally-friendly-methods-for-2024/"><u>[New] Gain YT Prompts Prowess with Environmentally Friendly Methods for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-6-ways-to-increase-audience-retention-on-youtube-filmora/"><u>[New] In 2024, 6 Ways To Increase Audience Retention on YouTube - Filmora</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-much-money-does-mr-beast-make/"><u>[New] In 2024, How Much Money Does Mr. Beast Make</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-expertly-select-the-fastest-5-chrome-plugins-for-fb-video-downloads/"><u>[Updated] 2024 Approved Expertly Select The Fastest 5 Chrome Plugins for FB Video Downloads</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-avoid-and-reverse-strikes-on-your-youtube-channel/"><u>[Updated] 2024 Approved How to Avoid and Reverse Strikes on Your YouTube Channel</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-gamer-centric-streaming-tool-selection/"><u>[Updated] In 2024, Gamer-Centric Streaming Tool Selection</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/expert-evaluation-of-vsdc-features-and-best-competitor-software/"><u>Expert Evaluation of VSDC Features and Best Competitor Software</u></a></li>
+<li><a href="https://fox-that.techidaily.com/handling-final-text-row-inaccessible-problems-on-iphones-successfully/"><u>Handling 'Final Text Row Inaccessible' Problems on iPhones Successfully</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-fix-error-495-while-downloadupdating-android-apps-on-infinix-note-30-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Error 495 While Download/Updating Android Apps On Infinix Note 30 Pro | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-change-your-sim-pin-code-on-your-oppo-a2-phone-by-drfone-android/"><u>In 2024, How To Change Your SIM PIN Code on Your Oppo A2 Phone</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-in-2024-this-article-lists-10-cool-plugins-for-final-cut-pro-they-range-in-price-but-each-creates-effects-you-just-cant-get-any-other-way/"><u>New In 2024, This Article Lists 10 Cool Plugins for Final Cut Pro. They Range in Price, but Each Creates Effects You Just Cant Get Any Other Way</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/top-15-apps-to-hack-wifi-password-on-vivo-y78plus-by-drfone-android/"><u>Top 15 Apps To Hack WiFi Password On Vivo Y78+</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/unlock-iphone-se-2022-without-passcode-easily-drfone-by-drfone-ios/"><u>Unlock iPhone SE (2022) Without Passcode Easily | Dr.fone</u></a></li>
 </ul></div>
 

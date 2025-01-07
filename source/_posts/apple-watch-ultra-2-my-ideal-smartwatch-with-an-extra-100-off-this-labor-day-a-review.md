@@ -1,7 +1,7 @@
 ---
 title: "Apple Watch Ultra 2: My Ideal Smartwatch with an Extra $100 Off This Labor Day - A Review"
-date: 2024-12-21T17:34:19.770Z
-updated: 2024-12-28T16:56:54.090Z
+date: 2025-01-05T02:40:59.648Z
+updated: 2025-01-07T02:45:33.530Z
 tags:
   - apple
 categories:
@@ -21,7 +21,7 @@ Matthew Miller/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### What's the deal?
@@ -33,7 +33,7 @@ Matthew Miller/ZDNET
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Why is this deal ZDNET recommended?
@@ -97,7 +97,7 @@ Finally, as much as I enjoy the Apple Watch Ultra 2 for its long battery life, b
 I now frequently use the Reflect and Breathe utilities, which have slowly but surely reduced my stress, proving to be a welcome addition to my Apple Watch use. (Of course, you only need an [Apple Watch](https://www.zdnet.com/article/best-apple-watch/) running on watchOS 10 to use the Mindfulness app. I just like using it on the larger display of the Ultra!)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -111,7 +111,7 @@ If you don't have an Apple Watch Ultra but are interested in buying one, the Ult
 For me, the Boost Flashlight is a welcome addition, as well as the faster processor supporting Siri on board. Apple's move to carbon-free products is also a nice move for the environment and is something we can all support.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -148,19 +148,24 @@ Deals are subject to sell-out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-hints.techidaily.com/new-convert-spoken-words-into-text-effortlessly-using-ms-word/"><u>[New] Convert Spoken Words Into Text Effortlessly Using MS Word</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-fast-lanes-for-jumbled-youtube-playlist-arrangement-for-2024/"><u>[New] Fast Lanes for Jumbled YouTube Playlist Arrangement for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-flash-fixing-fame-is-it-youtubes-shorts-or-tiktok-for-quick-content-conquest-for-2024/"><u>[New] Flash-Fixing Fame Is It YouTubes Shorts or TikTok for Quick Content Conquest for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-finding-the-perfect-dj-template-video-download-for-your-events/"><u>[New] In 2024, Finding the Perfect DJ Template Video Download for Your Events</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-mastering-asmr-the-ultimate-list-of-mics/"><u>[New] Mastering ASMR - The Ultimate List of Mics</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-fuel-the-drive-best-video-ideas-for-channels-success/"><u>[Updated] 2024 Approved Fuel the Drive Best Video Ideas for Channels' Success</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-guerrilla-mic-guide-top-chip-selection-on-a-shoestring/"><u>[Updated] In 2024, Guerrilla Mic Guide Top Chip Selection on a Shoestring</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-historical-insights-the-most-relevant-youtube-channels-for-learners/"><u>[Updated] In 2024, Historical Insights - The Most Relevant YouTube Channels for Learners</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/command-line-magic-opening-srt-for-windows-macos/"><u>Command Line Magic Opening SRT for Windows, MacOS</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/tor-elite-selective-learning-yt-channels/"><u>Educator Elite Selective Learning YT Channels</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/how-do-you-get-sun-stone-evolutions-in-pokemon-for-nokia-105-classic-drfone-by-drfone-virtual-android/"><u>How Do You Get Sun Stone Evolutions in Pokémon For Nokia 105 Classic? | Dr.fone</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/mastering-full-rotation-shoots-9-must-follow-rules-for-2024/"><u>Mastering Full-Rotation Shoots 9 Must-Follow Rules for 2024</u></a></li>
-<li><a href="https://win-dash.techidaily.com/the-swift-way-to-revitalize-your-dell-g7-laptop-by-refreshing-its-drivers/"><u>The Swift Way to Revitalize Your Dell G7 Laptop by Refreshing Its Drivers</u></a></li>
-<li><a href="https://howto.techidaily.com/why-your-realme-narzo-n55-screen-might-be-unresponsive-and-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Your Realme Narzo N55 Screen Might be Unresponsive and How to Fix It | Dr.fone</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-100plus-gaming-channel-names-for-every-gamer-filmora/"><u>[New] 2024 Approved 100+ Gaming Channel Names for Every Gamer - Filmora</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-high-ranking-videos-youtubes-everlasting-classics/"><u>[New] 2024 Approved High-Ranking Videos YouTube’s Everlasting Classics</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-free-endings-that-wow-ranked-for-you-top-6-for-2024/"><u>[New] Free Endings That Wow - Ranked for You (Top 6) for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-from-ordinary-to-outstanding-crafting-unique-shorts-thumbnails-for-2024/"><u>[New] From Ordinary to Outstanding Crafting Unique Shorts Thumbnails for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-make-thumbnails-for-youtube-with-mobile-phones/"><u>[New] In 2024, How to Make Thumbnails for YouTube With Mobile Phones</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-free-yourself-from-video-edges-on-youtube/"><u>[Updated] 2024 Approved Free Yourself From Video Edges on YouTube</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-high-fidelity-game-recording-tools/"><u>[Updated] 2024 Approved High Fidelity Game Recording Tools</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-mastering-the-art-of-finding-cost-effective-graphics/"><u>[Updated] 2024 Approved Mastering the Art of Finding Cost-Effective Graphics</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-finding-opportunities-where-youtube-collaborations-thrive-for-2024/"><u>[Updated] Finding Opportunities Where YouTube Collaborations Thrive for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-make-youtube-banners-and-thumbnails/"><u>[Updated] In 2024, How to Make YouTube Banners and Thumbnails</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-stepwise-discovery-of-covert-youtube-archives/"><u>[Updated] Stepwise Discovery of Covert YouTube Archives</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-the-art-of-screenshot-beauty-top-10-sticker-enhancing-apps-for-smartphones/"><u>2024 Approved The Art of Screenshot Beauty Top 10 Sticker-Enhancing Apps for Smartphones</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/download-and-update-amd-vega-64-graphics-card-drivers-on-windows-solved/"><u>Download & Update AMD Vega 64 Graphics Card Drivers on Windows - Solved</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-your-honor-magic-v2-location-on-life360-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>How to Change Your Honor Magic V2 Location on life360 Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-iphone-8-ios-system-issues-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair iPhone 8 iOS System Issues? | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-reset-a-honor-play-8t-phone-that-is-locked-by-drfone-android/"><u>How to Reset a Honor Play 8T Phone that is Locked?</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/solving-audio-codec-unsupported-on-your-samsung-television-a-step-by-step-guide/"><u>Solving 'Audio Codec Unsupported' On Your Samsung Television: A Step-by-Step Guide</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/the-top-free-mov-video-rotation-apps-for-2024/"><u>The Top Free MOV Video Rotation Apps for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-rated-miniature-computers-comprehensive-testing-and-reviews-by-tech-experts-pcmag/"><u>Top-Rated Miniature Computers : Comprehensive Testing & Reviews by Tech Experts | PCMag</u></a></li>
 </ul></div>
 

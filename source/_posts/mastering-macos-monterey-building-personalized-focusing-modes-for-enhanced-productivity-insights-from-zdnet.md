@@ -1,7 +1,7 @@
 ---
 title: "Mastering MacOS Monterey: Building Personalized Focusing Modes for Enhanced Productivity | Insights From ZDNet"
-date: 2024-12-27T16:46:47.944Z
-updated: 2024-12-28T17:51:29.225Z
+date: 2025-01-01T23:31:10.961Z
+updated: 2025-01-06T17:57:30.209Z
 tags:
   - apple
 categories:
@@ -26,15 +26,19 @@ So, how do you create this custom Flow? Let me show you. All you'll need to make
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-## Create a custom Focus
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+## Create a custom Focus
 
 ### 1\. Open System Preferences
 
 Click on the Apple menu in the top left corner of your desktop. From the resulting pop-up menu, click System Preferences.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 2\. Access Notifications & Focus
 
@@ -45,7 +49,7 @@ In the System Preferences window (**Figure 1**), click Notifications & Focus.
 Image: Jack Wallen
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 3\. Open the Focus tab
@@ -57,7 +61,7 @@ Once Notifications & Focus is opened, click the Focus tab (**Figure 2**).
 Image: Jack Wallen
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 4\. Create the new Focus
@@ -77,7 +81,7 @@ Image: Jack Wallen
 After naming and selecting a color/icon, click Add to save the new Focus.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 5\. Allowing specific notifications
@@ -93,10 +97,6 @@ From the pop-up list, select the contact(s) you want to be allowed to interrupt 
 **Figure 6:** Adding contacts to a Focus in macOS Monterey.
 
 Image: Jack Wallen
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 6\. Set the Focus to be enabled
 
@@ -140,18 +140,20 @@ Use this new Focus feature wisely, and it will help you be more productive while
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-fast-track-a-step-by-step-guide-for-swiftly-deleting-comments-on-youtube/"><u>[New] 2024 Approved Fast Track A Step by Step Guide for Swiftly Deleting Comments on YouTube</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-first-steps-on-the-path-equipment-for-beginners-for-2024/"><u>[New] First Steps on the Path Equipment for Beginners for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-from-digital-avatars-to-internet-stardom-becoming-a-vtuber-in-2024/"><u>[New] From Digital Avatars to Internet Stardom – Becoming a Vtuber, In 2024</u></a></li>
-<li><a href="https://fox-links.techidaily.com/new-in-2024-exclusive-guide-365-days-of-no-cost-text-files/"><u>[New] In 2024, Exclusive Guide 365 Days of No-Cost Text Files</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-harmonizing-visuals-and-soundtracks-with-youtubes-video-editor/"><u>[New] In 2024, Harmonizing Visuals & Soundtracks with YouTube's Video Editor</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/exploring-the-impact-of-apples-tandem-oled-technology-in-the-next-generation-ipads-insights/"><u>Exploring the Impact of Apple's Tandem OLED Technology in the Next Generation iPads: Insights</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/get-your-hands-on-ios-16-early-access-the-ultimate-guide-to-downloading-iphones-newest-update/"><u>Get Your Hands on iOS 16 Early Access – The Ultimate Guide to Downloading iPhone’s Newest Update</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-a-vivo-s18e-phone-that-is-locked-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset a Vivo S18e Phone That Is Locked | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-solved-move-from-realme-c53-to-ios-not-working-problems-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Solved Move from Realme C53 to iOS not Working Problems | Dr.fone</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/premium-selection-for-mac-and-windows-no-cost-4k-players-for-2024/"><u>Premium Selection for Mac & Windows No-Cost 4K Players for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/project-prowess-with-powerful-key-combinations/"><u>Project Prowess with Powerful Key Combinations</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/xbox-fanatics-manual-perfect-your-screenshot-skills/"><u>Xbox Fanatics' Manual Perfect Your Screenshot Skills</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/tsdvd/"><u>ビデオ・TSフォルダーを簡単にDVDへ書き込む方法 - 無料ツール</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-elevating-sims-4-chronicles-advanced-techniques-for-precise-game-recording/"><u>[New] 2024 Approved Elevating Sims 4 Chronicles Advanced Techniques for Precise Game Recording</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-shave-seconds-off-your-youtube-video-submission/"><u>[New] 2024 Approved How to Shave Seconds Off Your YouTube Video Submission</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-how-does-youtube-work-after-a-video-is-uploaded/"><u>[New] How Does YouTube Work After a Video Is Uploaded</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-save-money-with-the-right-youtube-tv-plan/"><u>[New] In 2024, How to Save Money with the Right YouTube TV Plan</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/nveiling-video-magic-mastering-your-youtube-studio-for-2024/"><u>[New] Unveiling Video Magic Mastering Your YouTube Studio for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-grandview-alliance-how-to-settle-on-a-cms-for-2024/"><u>[Updated] Grandview Alliance How to Settle on a CMS for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-clear-black-boards-in-your-youtube-videos-for-2024/"><u>[Updated] How to Clear Black Boards in Your YouTube Videos for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-11-useful-youtube-seo-tips-to-help-rank-your-video-high/"><u>[Updated] In 2024, 11 Useful YouTube SEO Tips to Help Rank Your Video High</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-filmoras-secrets-to-captivating-youtube-trailers/"><u>[Updated] In 2024, Filmora's Secrets to Captivating YouTube Trailers</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-the-ground-up-building-a-new-dynamic-youtube-chanel/"><u>[Updated] In 2024, From the Ground Up Building a New, Dynamic YouTube Chanel</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-go-frame-by-frame-on-youtube-video-5-methods/"><u>[Updated] In 2024, How to Go Frame by Frame on YouTube Video? [5 Methods]</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/creating-captivating-iphone-lengthened-photos-for-2024/"><u>Creating Captivating iPhone Lengthened Photos for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/solving-the-mystery-repairing-msvbvm50dll-file-missing-error-on-your-pc/"><u>Solving the Mystery: Repairing 'Msvbvm50.dll' File Missing Error on Your PC</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/streamline-your-social-media-mastering-automatic-video-playback/"><u>Streamline Your Social Media Mastering Automatic Video Playback</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ultimate-performance-meets-exceptional-visuals-in-highly-versatile-laptops-an-in-depth-review-gadget-specialist/"><u>Ultimate Performance Meets Exceptional Visuals in Highly Versatile Laptops - An In-Depth Review Gadget Specialist</u></a></li>
 </ul></div>
 

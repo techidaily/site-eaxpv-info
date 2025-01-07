@@ -1,7 +1,7 @@
 ---
 title: "Boost Your Productivity with XR Glasses On-the-Go: Discovering the New Trilogy of Upgrades | CNET"
-date: 2024-12-23T17:29:50.534Z
-updated: 2024-12-28T16:19:43.452Z
+date: 2025-01-02T02:48:22.011Z
+updated: 2025-01-07T03:04:51.710Z
 tags:
   - apple
 categories:
@@ -21,7 +21,7 @@ Matthew Miller/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -85,7 +85,7 @@ Along with the [Viture Pro XR glasses](https://buy.geni.us/Proxy.ashx?TSID=36825
 Lastly, Viture announced a new limited-edition controller in partnership with 8BitDo. You can connect this new controller, with a classic XBox-style controller layout, via Bluetooth to your gaming device, including the Nintendo Switch. The smokey translucent design looks cool and matches the Viture ecosystem. The 8BitDo controller also serves as a companion to the Viture Neckband, but I have yet to try out the Neckband, so I cannot share my experiences with that accessory.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -122,20 +122,21 @@ The [Viture Pro XR glasses](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/he-ultimate-guide-to-channel-evolution-via-studio/"><u>[New] The Ultimate Guide to Channel Evolution via Studio</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/2024-approved-mastering-3d-luts-complete-guide/"><u>2024 Approved Mastering 3D LUTs Complete Guide</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/conversione-gratuita-dei-file-audio-mpeg-a-formato-aiff-online-usando-movavi-ottenere-la-massima-qualita-senza-costi-aggiuntivi/"><u>Conversione Gratuita Dei File Audio MPEG a Formato AIFF Online Usando Movavi - Ottenere La Massima Qualità Senza Costi Aggiuntivi</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/convertir-gratuitement-un-fichier-webm-en-format-mpeg-avec-movavi/"><u>Convertir Gratuitement Un Fichier WebM en Format MPEG Avec Movavi</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/download-the-no-cost-movavi-tool-to-transform-m4r-files-into-wav-format-directly-online/"><u>Download the No-Cost Movavi Tool to Transform M4R Files Into WAV Format Directly Online!</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/easy-steps-to-download-and-install-printer-drivers-for-your-epson-perfection-v500/"><u>Easy Steps to Download & Install Printer Drivers for Your Epson Perfection V500</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-my-spouse-from-spying-on-my-itel-p55-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop My Spouse from Spying on My Itel P55 | Dr.fone</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-ideal-cameras-boosting-podcast-clarity/"><u>In 2024, Ideal Cameras Boosting Podcast Clarity</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-top-5-oppo-find-x6-pro-bypass-frp-tools-for-pc-that-actually-work-by-drfone-android/"><u>In 2024, Top 5 Oppo Find X6 Pro Bypass FRP Tools for PC That Actually Work</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-ultimate-guide-to-catch-the-regional-located-pokemon-for-infinix-smart-8-hd-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate Guide to Catch the Regional-Located Pokemon For Infinix Smart 8 HD | Dr.fone</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/in-depth-look-at-the-samsung-galaxy-tab-a-202n-notably-absent-core-component-reviewed/"><u>In-Depth Look at the Samsung Galaxy Tab A (202N): Notably Absent Core Component Reviewed</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/montaggio-foto-perfetto-scopri-i-5-metodi-migliori-per-unire-fotografie-nel-mese-di-settemb/"><u>Montaggio Foto Perfetto - Scopri I 5 Metodi Migliori per Unire Fotografie Nel Mese Di Settemb</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/webm-m4v-internet/"><u>WEBM 및 M4V를 원격 Internet에서 제공하는 가장 좋은 무료 변환 도구</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/wi-fi-amv-movavi/"><u>무료 Wi-Fi 안내용 AMV 편집 - Movavi의 방법</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/1726224933249-movm4v-movavi/"><u>オンラインで簡単にMovとM4Vを変換: 無料ソフトウェア - MOVAVI</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-raw-footage-to-riveting-content-the-ultimate-guide-to-yt-video-edits/"><u>[New] 2024 Approved From Raw Footage to Riveting Content The Ultimate Guide to YT Video Edits</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-football-film-breakdown-premier-insights-on-youtube-for-2024/"><u>[New] Football Film Breakdown Premier Insights on YouTube for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-dorm-room-to-mainstream-trending-short-hashtags/"><u>[New] In 2024, From Dorm Room to Mainstream Trending Short Hashtags</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-game-masters-top-ten-female-gaming-influencers/"><u>[New] In 2024, Game Masters Top Ten Female Gaming Influencers</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-store-complete-online-interface/"><u>[New] Store Complete Online Interface</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-flip-the-script-on-classic-films-7-list/"><u>[Updated] 2024 Approved Flip the Script on Classic Films, #7 List</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-free-audio-treasures-to-amplify-youtube-for-2024/"><u>[Updated] Free Audio Treasures to Amplify YouTube for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-from-phone-ideas-to-online-presence-simple-youtube-channel-creation-tips-for-2024/"><u>[Updated] From Phone Ideas to Online Presence Simple YouTube Channel Creation Tips for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-advanced-techniques-sending-subtitles-to-instagram-linkedin/"><u>2024 Approved Advanced Techniques Sending Subtitles to Instagram, LinkedIn</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/e-smoothly-incorporate-online-videos-soundtracks/"><u>IMovie Smoothly Incorporate Online Videos' Soundtracks</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/46830741-investing-5-yields-hundreds-of-new-viewers-now/"><u>Investing $5 Yields Hundreds of New Viewers Now!</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/save-money-save-time-the-best-22-audio-crackers-for-youtube-downloads-for-2024/"><u>Save Money, Save Time The Best 22 Audio Crackers for YouTube Downloads for 2024</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/top-15-apps-to-hack-wifi-password-on-poco-x5-by-drfone-android/"><u>Top 15 Apps To Hack WiFi Password On Poco X5</u></a></li>
+<li><a href="https://win-blog.techidaily.com/top-free-collage-template-websites-les-meilleures-options-en-francais/"><u>Top Free Collage Template Websites - Les Meilleures Options en Français</u></a></li>
+<li><a href="https://techtrends.techidaily.com/troubleshooting-and-solutions-for-missing-d3d9dll-files/"><u>Troubleshooting and Solutions for 'Missing' d3d9.dll Files</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/winning-back-gone-data-proven-strategies-for-windows/"><u>Winning Back Gone Data: Proven Strategies for Windows</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Tech Giant Apple Hit with 2-Billion Dollar Fee by European Union Over Unfair App Store Practices
-date: 2024-12-21T16:07:42.900Z
-updated: 2024-12-28T17:07:18.795Z
+date: 2025-01-01T07:02:27.337Z
+updated: 2025-01-06T17:53:26.691Z
 tags:
   - apple
 categories:
@@ -25,20 +25,20 @@ In the past, moving from one face to another on an Apple Watch was easy. You'd s
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to swap faces on your Apple Watch
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 1\. Run watchOS 10
 
 If you're still running watchOS 9 or earlier, the older method of switching watch faces is still the norm. Just swipe left or right. If you already updated to watchOS 10 to gain all the latest features, such as new watch faces, fitness routines, and Health app tools, then the newer method is in effect.
 
 screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Switch watch faces
 
@@ -57,7 +57,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Update to watchOS 10.2
@@ -69,7 +69,7 @@ Altefnatively, you can update the OS directly from your watch. For that, open th
 screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Change the method for switching faces
@@ -81,7 +81,7 @@ screenshot by Lance Whitney/ZDNET
 **Also: [The best smartwatches you can buy: Apple, Samsung, Google, and more compared](https://www.zdnet.com/article/best-smartwatch/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Switch watch faces by swiping
@@ -120,19 +120,22 @@ screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/024-approved-directly-download-youtube-videos/"><u>[New] 2024 Approved Directly Download YouTube Videos</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-merge-worlds-easily-linking-instagram-and-facebook-accounts/"><u>[New] In 2024, Merge Worlds Easily Linking Instagram & Facebook Accounts</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-mastering-audio-prime-9-mic-recording-solutions-for-2024/"><u>[New] Mastering Audio Prime 9 Mic Recording Solutions for 2024</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-top-strategies-for-capturing-discords-real-time-broadcasts/"><u>[New] Top Strategies for Capturing Discord's Real-Time Broadcasts</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-quick-and-easy-guide-enhance-youtube-shorts-with-new-images/"><u>2024 Approved Quick & Easy Guide Enhance YouTube Shorts with New Images</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/create-a-soundtracked-slideshow-on-your-mac-for-dynamic-presentations/"><u>Create a Soundtracked Slideshow on Your Mac for Dynamic Presentations</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/fixing-error-messages-when-msvcr71dll-is-nowhere-to-be-found/"><u>Fixing Error Messages: When MSVCR71.DLL Is Nowhere to Be Found</u></a></li>
-<li><a href="https://android-location.techidaily.com/how-to-fake-gps-on-android-without-mock-location-for-your-oppo-reno-10-pro-5g-drfone-by-drfone-virtual/"><u>How to Fake GPS on Android without Mock Location For your Oppo Reno 10 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/in-2024-straightforward-stories-essence/"><u>In 2024, Straightforward Stories' Essence</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/in-the-era-of-intelligent-assistants-determining-if-chatgpt-or-bing-chat-reigns-supreme-in-generative-ai/"><u>In the Era of Intelligent Assistants: Determining if ChatGPT or Bing Chat Reigns Supreme in Generative AI</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/movavi-video-editing-202-section-1-problem-theme-nerve-injury-in-the-wrist-and-hand/"><u>Movavi – รายงาน Video Editing 202 # Section 1: Problem Theme - Nerve Injury in the Wrist and Hand</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/movavid-free-online-wmv-to-avi-video-conversion-tool-effortlessly-upgrade-your-files-today/"><u>MovaVid Free Online WMV to AVI Video Conversion Tool - Effortlessly Upgrade Your Files Today!</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/transformer-des-fichiers-m4a-en-video-obv-gratuite-ligne-de-conversion-en-ligne-movavi/"><u>Transformer Des Fichiers M4A en Vidéo OBV Gratuite - Ligne De Conversion en Ligne - Movavi</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/pgmmoveavi/"><u>オンラインで簡単に変換! 無料Pgmファイル用MoveAVIツール</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-script-to-spectacle-independent-effect-innovation/"><u>[New] 2024 Approved From Script to Spectacle Independent Effect Innovation</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-harness-the-full-potential-of-video-tags-in-youtube/"><u>[New] 2024 Approved Harness the Full Potential of Video Tags in YouTube</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-free-templates-for-dynamic-youtube-channel-closures/"><u>[New] In 2024, Free Templates for Dynamic YouTube Channel Closures</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-hobbyist-to-pro-optimal-cameras-for-youtubing/"><u>[New] In 2024, From Hobbyist to Pro Optimal Cameras For YouTubing</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-halt-autoplay-youtube-recommendations/"><u>[New] In 2024, Halt Autoplay YouTube Recommendations</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-get-people-to-subscribe-by-asking-the-right-way/"><u>[New] In 2024, How to Get People to Subscribe by Asking the Right Way</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-in-2024-tackling-disruptions-in-video-transmissions-for-messenger-users-iosandroid/"><u>[New] In 2024, Tackling Disruptions in Video Transmissions for Messenger Users iOS/Android</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-case-study-how-to-grow-on-youtube-to-have-millions-of-subs/"><u>[Updated] 2024 Approved Case Study How to Grow on YouTube to Have Millions of Subs</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-high-end-sound-pumping-tools-pcs-and-smartphones/"><u>[Updated] 2024 Approved High-End Sound Pumping Tools PCs & Smartphones</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-creating-videography-magic-from-photos-and-beats/"><u>2024 Approved Creating Videography Magic From Photos & Beats</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-step-up-your-streams-advanced-practices-for-capturing-vr-playtimes/"><u>2024 Approved Step Up Your Streams Advanced Practices for Capturing VR Playtimes</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-data-from-iphone-11-pro-max-to-others-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone 11 Pro Max To Others devices? | Dr.fone</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/perfecting-video-conferencing-with-snap-functionality-for-2024/"><u>Perfecting Video Conferencing with Snap Functionality for 2024</u></a></li>
+<li><a href="https://change-location.techidaily.com/preparation-to-beat-giovani-in-pokemon-go-for-xiaomi-redmi-note-12-5g-drfone-by-drfone-virtual-android/"><u>Preparation to Beat Giovani in Pokemon Go For Xiaomi Redmi Note 12 5G | Dr.fone</u></a></li>
+<li><a href="https://os-tips.techidaily.com/top-6-strategies-for-transferring-your-iphone-snapshots-to-a-mac/"><u>Top 6 Strategies for Transferring Your iPhone Snapshots to a Mac</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/uncovering-computer-secrets-with-toms-hardware-experts/"><u>Uncovering Computer Secrets with Tom's Hardware Experts</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/ways-to-trade-pokemon-go-from-far-away-on-tecno-phantom-v-flip-drfone-by-drfone-virtual-android/"><u>Ways to trade pokemon go from far away On Tecno Phantom V Flip? | Dr.fone</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Exciting Update for iOS Coders! Major AI Upgrade Now Available at No Cost on Popular Programming Platforms | ZDNET
-date: 2024-12-22T16:48:37.235Z
-updated: 2024-12-28T16:56:44.078Z
+date: 2025-01-01T02:36:32.708Z
+updated: 2025-01-06T21:19:11.369Z
 tags:
   - apple
 categories:
@@ -28,10 +28,6 @@ But if you have the M1 MacBook Pro, the question of upgrading becomes a little t
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Specifications
 
 | **M1 MacBook Pro** | **M3 MacBook Pro**                                                                                                     |                                                                                                                        |
@@ -50,13 +46,13 @@ But if you have the M1 MacBook Pro, the question of upgrading becomes a little t
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  You should buy the M1 MacBook Pro if...
 
 Jason Cipriani/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ###  1\. You need more battery life
 
@@ -65,6 +61,10 @@ While you might expect the newest device to have the [better battery life](https
 **Also: [MacBook Pro vs MacBook Air: How to decide which Apple laptop to buy](https://www.zdnet.com/article/macbook-air-vs-macbook-pro-how-to-decide-which-apple-laptop-to-buy/)**
 
 Now, it's worth noting that most people do use their MacBooks plugged in, and going more than half a day without access to an outlet is pretty rare. But, in the event that you often find yourself in situations where a power supply isn't readily available and you work very long days, the M1 should be your choice. This is, of course, by Apple's numbers.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ###  2\. You're doing mostly web-based work or don't need the absolute fastest option
 
@@ -82,11 +82,19 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ###  3\. You prefer a smaller overall size and touch bar
 
 The M1 and M2 versions of the MacBook Pro had a 13-inch option, but that choice is missing from the M3\. So, if you prefer a smaller layout for your MacBook, you'll want to look to the M1\. Perhaps the bigger loss here, though, is the [touch bar](https://www.zdnet.com/article/apple-finally-admits-it-made-a-mistake-and-backtracks-on-three-foolish-macbook-pro-design-decisions/), which is no longer available on any M3 model. While most people weren't fans of the touch bar, which was essentially an OLED strip of buttons that changed depending on context, it still had its core users. Are you one of them?
 
 [Buy the M1 MacBook Pro View now at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FApple-MacBook-14-inch-10%E2%80%91core-16%E2%80%91core%2Fdp%2FB09JQWSQK7%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C545604e4-c461-4ca6-b9d9-7557b5a9d949%7Cdtp&dtb=1)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  You should buy the M3 MacBook Pro if...
 
@@ -94,17 +102,9 @@ Buy a MacBook Pro with an M3 Pro chip on sale now.
 
 Jason Hiner/ZDNET
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ###  1\. You're working outside or in other very bright environments
 
 One of the biggest differences between the M1 and the M3 is the overall brightness. For SDR content, the M1 tops out at 500 nits while the M3 triples that with 1,600 nits. In a standard office environment, the former would be just fine. But in a sunny outdoor environment or a very bright indoor setting, this is going to be a noticeable difference. There are some third-party apps that let you increase the screen brightness of the M1, but if you want the best brightness, you'll need to get the newest device.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ###  2\. You're doing very intensive or time-sensitive tasks
 
@@ -114,15 +114,15 @@ While there's very little the M3 can do that the M1 just can't, the biggest diff
 
 If you're working in a very fast-paced environment (say, live sports or entertainment) and seconds make the difference, it might be worth springing for the M3\. Of course, you'll likely only notice the performance difference when dealing with high-end graphics and video. But power users will be right at home with the M3.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ###  3\. You want a new-conditioned laptop
 
 It's been almost three years since Apple launched its M1-powered systems, so the chances of you finding one in brand-new condition today are rare. Instead, the fresher MacBook Pro with M3 chip is guaranteed to be available at your local Apple store, third-party retailers, and more. You can also expect [better deals on the M3 model](https://www.zdnet.com/article/buy-a-new-macbook-pro-with-m3-pro-chip-for-200-off-right-now/) going into the holiday shopping season. For the M1, it's buying a second-hand device or keeping your fingers crossed that somewhere on the internet is still selling one in pristine condition.
 
 [Buy the MacBook Pro M3 View now at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FApple-MacBook-Laptop-8%E2%80%91core-10%E2%80%91core%2Fdp%2FB0CM5KC8X7%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C545604e4-c461-4ca6-b9d9-7557b5a9d949%7Cdtp&dtb=1)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Alternatives to consider
 
@@ -158,21 +158,22 @@ It's been almost three years since Apple launched its M1-powered systems, so the
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-2024-approved-redirect-saved-image-to-custom-folder-on-mac/"><u>[New] 2024 Approved Redirect Saved Image to Custom Folder on Mac</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/n-2024-instructions-removing-videos-from-youtubes-watchlater/"><u>[New] In 2024, Instructions Removing Videos From YouTube's Watchlater</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-expert-selection-the-top-11-kid-friendly-waterproof-camcorders/"><u>[Updated] Expert Selection The Top 11 Kid-Friendly, Waterproof Camcorders</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-unlocking-seamless-communication-with-top-tier-free-and-paid-zoom-applications-for-2024/"><u>[Updated] Unlocking Seamless Communication with Top-Tier Free & Paid Zoom Applications for 2024</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/2024-approved-the-undercover-upsell-simple-image-saving/"><u>2024 Approved The Undercover Upsell Simple Image Saving</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/apples-audio-evolution-deciding-whether-to-go-big-or-small-with-homepod-vs-homepod-mini/"><u>Apple's Audio Evolution: Deciding Whether to Go Big or Small with HomePod vs HomePod Mini</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/choosing-the-perfect-smartwatch-a-comprehensive-guide-comparing-apple-watch-ultra-and-series-ebro-8-find-your-best-match/"><u>Choosing the Perfect Smartwatch: A Comprehensive Guide Comparing Apple Watch Ultra and Series Ebro 8 - Find Your Best Match!</u></a></li>
-<li><a href="https://fox-that.techidaily.com/easily-combine-identical-personal-photographs-with-your-iphone-or-mac-software/"><u>Easily Combine Identical Personal Photographs With Your iPhone or Mac Software</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/essential-ai-enhancements-for-iphone-emulating-androids-prowess-with-four-must-have-ios-18-features-analysis/"><u>Essential AI Enhancements for iPhone: Emulating Android's Prowess with Four Must-Have iOS 18 Features | Analysis</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-fake-snapchat-location-without-jailbreak-on-apple-iphone-14-pro-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Fake Snapchat Location without Jailbreak On Apple iPhone 14 Pro | Dr.fone</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/mastering-energy-saving-a-guide-to-enable-and-utilize-low-power-mode-on-macos-monterey/"><u>Mastering Energy Saving: A Guide to Enable and Utilize Low Power Mode on macOS Monterey</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/my-72-hours-of-testing-apple-vision-pro-uncovered-three-key-learnings-you-need-to-know-analysis-on-zdnet/"><u>My 72 Hours of Testing Apple Vision Pro Uncovered Three Key Learnings You Need to Know | Analysis on ZDNET</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-feature-alert-listen-and-read-with-ease-on-apple-podcasts-via-innovative-closed-captioning-technology-tech-news/"><u>New Feature Alert! Listen & Read with Ease on Apple Podcasts via Innovative Closed Captioning Technology | Tech News</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/the-best-ispoofer-alternative-to-try-on-lava-yuva-2-pro-drfone-by-drfone-virtual-android/"><u>The Best iSpoofer Alternative to Try On Lava Yuva 2 Pro | Dr.fone</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/top-rated-iphone-16-and-16-pro-protective-covers-2024s-ultimate-guide-by-tech-experts-zdnet/"><u>Top-Rated iPhone 16 & 16 Pro Protective Covers - 2024'S Ultimate Guide by Tech Experts | ZDNet</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-2024-approved-pixel-percussion-finding-sound-cues-from-button-presses/"><u>Updated 2024 Approved Pixel Percussion Finding Sound Cues From Button Presses</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-engage-audiences-flawlessly-with-live-screenshares-for-2024/"><u>[New] Engage Audiences Flawlessly with Live Screenshares for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-free-7-best-apps-to-go-live-on-youtube-from-iphone-or-android-for-2024/"><u>[New] FREE 7 Best Apps to Go Live on YouTube From iPhone or Android for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-free-tools-and-tricks-creating-compelling-youtube-video-ads/"><u>[New] In 2024, Free Tools and Tricks Creating Compelling YouTube Video Ads</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-captivate-and-expand-your-online-following-with-viral-youtube-shorts/"><u>[New] In 2024, How to Captivate and Expand Your Online Following with Viral YouTube Shorts</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-navigating-the-invisible-aspects-of-social-media-success/"><u>[New] Navigating the Invisible Aspects of Social Media Success</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-photos-to-feeds-selecting-the-best-9-gear-upgrades/"><u>[Updated] 2024 Approved From Photos to Feeds Selecting the Best 9 Gear Upgrades</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-future-of-cosmetics-youtube-gurus-on-the-rise/"><u>[Updated] 2024 Approved Future of Cosmetics YouTube Gurus on the Rise</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-guiding-you-through-youtubes-security-settings-for-2024/"><u>[Updated] Guiding You Through YouTube's Security Settings for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-how-to-create-insta-highlight-cover-photos-a-complete-guide-for-2024/"><u>[Updated] How to Create Insta Highlight Cover Photos A Complete Guide for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-experts-choice-best-practices-for-vimeo-video-download/"><u>[Updated] In 2024, Expert's Choice Best Practices for Vimeo Video Download</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-script-to-screen-building-a-youtube-trailer-in-filmora/"><u>[Updated] In 2024, From Script to Screen Building a YouTube Trailer in Filmora</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-enhance-clarity-of-online-video-content/"><u>[Updated] In 2024, How to Enhance Clarity of Online Video Content</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/beatsource-masterclass-crafting-perfect-party-mixes-with-curated-playlists/"><u>BeatSource Masterclass: Crafting Perfect Party Mixes with Curated Playlists</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/easy-steps-on-how-to-create-a-new-apple-id-account-on-apple-iphone-12-mini-by-drfone-ios/"><u>Easy Steps on How To Create a New Apple ID Account On Apple iPhone 12 mini</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/essential-routines-for-easy-webinar-saves-on-windows-platform-for-2024/"><u>Essential Routines for Easy Webinar Saves on Windows Platform for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/optimiser-handbrake-les-parametres-parfaits-pour-la-qualite-constante-lors-de-lencodage-de-dvd-blu-ray-et-contenus-en-4k/"><u>Optimiser HandBrake: Les Paramètres Parfaits Pour La Qualité Constante Lors De L'encodage De DVD, Blu-Ray Et Contenus en 4K</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/unpacking-the-sequencing-of-a-20mb-file-for-2024/"><u>Unpacking the Sequencing of a 20MB File for 2024</u></a></li>
 </ul></div>
 

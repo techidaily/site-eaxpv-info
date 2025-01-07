@@ -1,7 +1,7 @@
 ---
 title: "1. Apple Introduces Live Podcast Subtitles: A Game-Changer for Accessibility on iTunes"
-date: 2024-12-27T17:36:05.958Z
-updated: 2024-12-28T17:31:52.423Z
+date: 2024-12-30T20:29:21.723Z
+updated: 2025-01-07T08:00:37.531Z
 tags:
   - apple
 categories:
@@ -31,7 +31,7 @@ Read on for a look at some of the new accessibility features coming to Apple har
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### New eye-tracking features
@@ -49,7 +49,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Apple Music haptics
@@ -57,7 +57,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 For those who are deaf or hard of hearing, Apple plans to offer a Taptic Engine feature in Apple Music. When turned on, the feature will use a series of taps, vibrations, and other tactile responses to sync to a song's audio. Apple says the feature will work "across millions of songs in the Apple Music catalog."
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Addressing motion sickness
@@ -68,15 +68,15 @@ Motion sickness in cars can often be the result of a disconnect between what you
 
 "Using sensors built into iPhone and iPad, Vehicle Motion Cues recognizes when a user is in a moving vehicle and responds accordingly," Apple said. "The feature can be set to show automatically on iPhone, or can be turned on and off in Control Center."
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Understanding speech
 
 A new feature called Voice Shortcuts will let you "assign custom utterances" that Apple's virtual personal assistant Siri will save. When Siri hears those utterances, it'll perform whatever action was assigned to it, including launching apps or engaging in more complex tasks on the device.
 
 Another feature, Listen for Atypical Speech, will use machine learning to understand your speech patterns and your requests on-device, Apple said. The feature "gives users an option for enhancing speech recognition for a wider range of speech," the company said.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### New CarPlay features
 
@@ -85,7 +85,7 @@ Apple's in-car CarPlay software is also getting new accessibility features, incl
 **Also: [iOS and Android owners will now be alerted if an unknown tracker is moving with them](https://www.zdnet.com/article/ios-and-android-owners-will-now-be-alerted-if-an-unknown-tracker-is-moving-with-them/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Some other updates
@@ -122,22 +122,17 @@ Beyond those updates, Apple said that it's launching a range of smaller upgrades
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-harnessing-the-power-of-filmora-for-youtube-video-promotions/"><u>[New] 2024 Approved Harnessing the Power of Filmora for YouTube Video Promotions</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-filming-to-fame-discovering-the-top-10-ladies-on-youtube/"><u>[New] In 2024, From Filming to Fame Discovering the Top 10 Ladies on YouTube</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-maximizing-revenue-how-to-monetize-youtube-channel-on-mobile/"><u>[New] In 2024, Maximizing Revenue How to Monetize YouTube Channel on Mobile</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-fortnite-thumbnail-blitz-a-30-second-guide/"><u>[Updated] 2024 Approved Fortnite Thumbnail Blitz A 30-Second Guide</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-selfie-to-sensation-vloggers-choice-of-top-9-camera-accessories/"><u>[Updated] 2024 Approved From Selfie to Sensation Vloggers' Choice of Top 9 Camera Accessories</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-fresh-alternative-films-to-dive-into-7-favorites/"><u>[Updated] In 2024, Fresh Alternative Films to Dive Into, #7 Favorites</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-effortlessly-eradicate-unwanted-youtube-feedback/"><u>[Updated] In 2024, How to Effortlessly Eradicate Unwanted YouTube Feedback</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-upload-your-music-to-youtube/"><u>[Updated] In 2024, How to Upload Your Music to YouTube</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-the-prime-listening-guide-to-youtube-standards/"><u>[Updated] The Prime Listening Guide to YouTube Standards</u></a></li>
-<li><a href="https://location-fake.techidaily.com/11-best-location-changers-for-tecno-camon-20-drfone-by-drfone-virtual-android/"><u>11 Best Location Changers for Tecno Camon 20 | Dr.fone</u></a></li>
-<li><a href="https://article-files.techidaily.com/2024-approved-expert-advice-youtube-to-mpeg-compression-guide/"><u>2024 Approved Expert Advice YouTube to MPEG Compression Guide</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/ai-security-alert-unpacking-the-workings-and-dangers-of-prompt-injection-attacks/"><u>AI Security Alert: Unpacking the Workings & Dangers of Prompt Injection Attacks</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-oppo-a2-mirror-screen-to-pc-drfone-by-drfone-android/"><u>In 2024, How Oppo A2 Mirror Screen to PC? | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-list-of-pokemon-go-joysticks-on-oneplus-ace-2v-drfone-by-drfone-virtual-android/"><u>In 2024, List of Pokémon Go Joysticks On OnePlus Ace 2V | Dr.fone</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1723000108719-instant-fixes-for-your-division-2-crash-woes-a-step-by-step-guide/"><u>Instant Fixes for Your Division 2 Crash Woes - A Step-by-Step Guide</u></a></li>
-<li><a href="https://common-error.techidaily.com/step-by-step-guide-correcting-bad-image-glitches-in-modern-windows-os/"><u>Step-by-Step Guide: Correcting 'Bad Image' Glitches in Modern Windows OS</u></a></li>
-<li><a href="https://howto.techidaily.com/top-4-android-system-repair-software-for-lava-blaze-pro-5g-bricked-devices-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 4 Android System Repair Software for Lava Blaze Pro 5G Bricked Devices | Dr.fone</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-2024-approved-mastering-the-art-of-attracting-more-youtube-admirers/"><u>[New] 2024 Approved Mastering the Art of Attracting More YouTube Admirers</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-from-script-to-screen-the-compreeved-guide-to-youtube-video-edits-for-2024/"><u>[New] From Script to Screen The Compreeved Guide to YouTube Video Edits for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-which-is-better-video-editor-for-iphone-cameo-or-filmorago/"><u>[New] In 2024, Which Is Better Video Editor for iPhone? Cameo or FilmoraGo?</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-financial-forecasts-in-focus-select-stock-youtube-channels-for-2024/"><u>[Updated] Financial Forecasts in Focus Select Stock YouTube Channels for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-8-free-online-video-editors-for-youtube/"><u>[Updated] In 2024, 8 Free Online Video Editors for YouTube</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-novice-to-pro-how-to-evade-the-most-critical-8-mistakes-on-youtube/"><u>[Updated] In 2024, From Novice to Pro How to Evade the Most Critical 8 Mistakes on YouTube</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-in-2024-unveiling-the-top-watermarking-tools-in-photography/"><u>[Updated] In 2024, Unveiling the Top Watermarking Tools in Photography</u></a></li>
+<li><a href="https://win-dash.techidaily.com/easy-guide-downloading-and-installing-asus-touchpad-drivers-on-windows-11/"><u>Easy Guide: Downloading and Installing ASUS Touchpad Drivers on Windows 11</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-two-ways-to-track-my-boyfriends-samsung-galaxy-s24plus-without-him-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, Two Ways to Track My Boyfriends Samsung Galaxy S24+ without Him Knowing | Dr.fone</u></a></li>
+<li><a href="https://fox-info.techidaily.com/mastering-the-art-of-system-enhancements-for-2024/"><u>Mastering the Art of System Enhancements for 2024</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/the-6-best-sim-unlock-services-that-actually-work-on-your-honor-magic-5-pro-device-by-drfone-android/"><u>The 6 Best SIM Unlock Services That Actually Work On Your Honor Magic 5 Pro Device</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/top-6-video-downloaders-preserve-your-linkedin-media-masterfully-for-2024/"><u>Top 6 Video Downloaders Preserve Your LinkedIn Media Masterfully for 2024</u></a></li>
 </ul></div>
 

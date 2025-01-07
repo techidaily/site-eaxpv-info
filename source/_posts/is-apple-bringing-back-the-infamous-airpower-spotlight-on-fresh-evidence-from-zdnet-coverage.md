@@ -1,7 +1,7 @@
 ---
 title: Is Apple Bringing Back The Infamous AirPower? Spotlight on Fresh Evidence From ZDNet Coverage
-date: 2024-12-27T16:24:12.246Z
-updated: 2024-12-28T17:34:13.179Z
+date: 2025-01-05T05:44:21.029Z
+updated: 2025-01-06T21:36:41.424Z
 tags:
   - apple
 categories:
@@ -31,7 +31,7 @@ How do you tell the difference?
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How free and low-cost phone offers work
@@ -45,6 +45,10 @@ If you trade your phone for a newer model or switch carriers before the promo pe
 You might be offered a higher-than-expected trade-in value for your current phone, again offered as a series of monthly credits. To qualify for the deal, you might have to add a new line of service or change to a new plan, but you can occasionally find upgrade deals for your current device. And, of course, these deals are only for "well-qualified" customers. If you have so-so credit scores, you might not be able to take advantage of the deal.
 
 In my experience, carriers go out of their way to make these deals complicated, and you need to look carefully to see if there are any hidden gotchas. Here are seven questions to ask up front to make sure you don't encounter an unpleasant surprise later.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Do I need to add a line to qualify?
 
@@ -61,16 +65,12 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Does my existing plan qualify?
 
 The most attractive upgrade offers are typically only available if you sign up for one of the carrier's premium plans. If you're currently on a low-cost legacy plan from the same carrier or a competitor, be sure to find out how much your monthly payment for mobile service will increase. The difference might be enough to wipe out any savings from the promo credits.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Will my new phone be locked to this carrier?
 
@@ -78,12 +78,16 @@ The carrier is offering that phone at a discount because they want to lock you i
 
 **Also: [The best iPhone deals of 2024: Free iPhone 15s, free iPads, cheap accessories](https://www.zdnet.com/article/iphone-deals/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How many months does the payment agreement last?
 
 T-Mobile still offers 24-month payment plans, but rivals Verizon and AT&T now apply device credits over 36 months. If you're absolutely certain you'll keep your new phone for the full three years, that might be a good deal, but you'll pay dearly if you need to replace it before the agreement ends.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What happens if I want to pay off the device early?
@@ -93,10 +97,6 @@ At any time during the agreement, you can pay the remaining balance and ask for 
 **Also: [T-Mobile tops speed tests among the three major US carriers - here's how](https://www.zdnet.com/home-and-office/networking/t-mobile-tops-speed-tests-among-the-three-major-us-carriers-heres-how/)**
 
 As an inducement for you to switch, some carriers will offer to reimburse you for your device payoff. Check the terms and conditions carefully before you accept that offer. If you decide to move to a new carrier, don't cancel your line at the old carrier until you've successfully ported your number over; if you do that move in the wrong order you risk losing your current phone number. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Can I get a better deal on the phone somewhere else?
 
@@ -140,21 +140,22 @@ The exception to that rule is usually when a new smartphone model comes out; dur
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-video-recordings.techidaily.com/updated-affordable-video-editing-solutions-mac-os-on-tiktok/"><u>[Updated] Affordable Video Editing Solutions (Mac OS) on TikTok</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-step-by-step-guide-to-screencasting-youtube-content-for-free/"><u>[Updated] Step-by-Step Guide to Screencasting YouTube Content For Free</u></a></li>
-<li><a href="https://android-location.techidaily.com/10-fake-gps-location-apps-on-android-of-your-lava-blaze-curve-5g-drfone-by-drfone-virtual/"><u>10 Fake GPS Location Apps on Android Of your Lava Blaze Curve 5G | Dr.fone</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/conversion-libre-de-fichier-flv-vers-mp3-via-convertisseur-audio-en-ligne-flvmp3/"><u>Conversion Libre De Fichier FLV Vers MP3 via Convertisseur-Audio En Ligne - Flvmp3</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/download-the-latest-asus-mousepad-software-compatible-with-windows/"><u>Download the Latest ASUS Mousepad Software Compatible with Windows</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/gratis-transformation-of-avi-video-to-ogg-expertise-by-movavi/"><u>Gratis Transformation of AVI Video to OGG - Expertise by Movavi</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/gratuit-online-converting-nef-bilders-naar-bmp-formaat-movavi/"><u>Gratuit Online: Converting NEF Bilders Naar BMP Formaat - Movavi</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/guia-completa-conversion-gratuita-y-de-pago-de-archivos-mxf-a-movqt-sin-perdida-de-calidad/"><u>Guía Completa: Conversión Gratuita Y De Pago De Archivos MXF a MOV/QT Sin Pérdida De Calidad</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/in-2024-video-frame-techniques-applying-letterboxing-and-black-bars-to-fb-media/"><u>In 2024, Video Frame Techniques Applying Letterboxing & Black Bars to FB Media</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/las-6-metodos-mas-efectivos-para-conversion-de-video-a-formato-mp4-en-una-mac/"><u>Las 6 Métodos Más Efectivos Para Conversión De Video a Formato MP4 en Una Mac</u></a></li>
-<li><a href="https://review-topics.techidaily.com/recover-your-contacts-after-magic-6-lite-has-been-deleted-by-fonelab-android-recover-contacts/"><u>Recover your contacts after Magic 6 Lite has been deleted.</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/1722969546314-revamp-your-sound-fast-fix-with-updated-acer-audio-drivers/"><u>Revamp Your Sound: Fast Fix with Updated Acer Audio Drivers</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/top-desktop-replacements-for-inshot-discover-the-most-effective-video-editing-software/"><u>Top Desktop Replacements for InShot: Discover the Most Effective Video Editing Software</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/trasforma-i-tuoi-video-wmv-in-mpeg-senza-costi-con-la-soluzione-online-di-convertire-gratis-metodo-rapido-e-facile-di-movavi/"><u>Trasforma I Tuoi Video WMV in MPEG Senza Costi Con La Soluzione Online Di Convertire Gratis - Metodo Rapido E Facile Di Movavi</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-clear-channel-conductor-innovative-approaches-to-standardize-sound-amplitude-in-videos/"><u>Updated Clear Channel Conductor Innovative Approaches to Standardize Sound Amplitude in Videos</u></a></li>
-<li><a href="https://howto.techidaily.com/what-to-do-if-your-samsung-galaxy-s23plus-auto-does-not-work-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do if Your Samsung Galaxy S23+ Auto Does Not Work | Dr.fone</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-fading-to-flourishing-top-strategies-for-overcoming-zero-views/"><u>[New] 2024 Approved From Fading to Flourishing Top Strategies for Overcoming Zero Views</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-streamlining-the-process-of-youtube-data-interpretation/"><u>[New] 2024 Approved Streamlining the Process of YouTube Data Interpretation</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-fun-flicks-online-must-see-comedy-streaming-stations-for-2024/"><u>[New] Fun Flicks Online Must-See Comedy Streaming Stations for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-growth-gamble-buying-popularity-or-authentic-audience-expansion-for-2024/"><u>[New] Growth Gamble Buying Popularity or Authentic Audience Expansion for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-hidden-pitfalls-investing-in-fraudulent-subscribers/"><u>[New] In 2024, Hidden Pitfalls Investing in Fraudulent Subscribers</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-step-by-step-how-to-master-zoom-in-windows-10/"><u>[New] Step-by-Step How to Master Zoom in Windows 10</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-first-steps-in-youtube-tech-a-comprehensive-list/"><u>[Updated] 2024 Approved First Steps in YouTube Tech A Comprehensive List</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-gain-command-over-youtubes-video-playback-speed/"><u>[Updated] 2024 Approved Gain Command Over YouTube's Video Playback Speed</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-google-meet-go-live-your-youtube-broadcast-companion/"><u>[Updated] 2024 Approved Google Meet Go Live - Your YouTube Broadcast Companion</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-download-youtube-tunes-without-risk-for-free/"><u>[Updated] 2024 Approved How to Download YouTube Tunes Without Risk for Free</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-immersive-gameplay-capturing-with-camrecorder-pro/"><u>[Updated] Immersive Gameplay Capturing with CamRecorder Pro</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/beginner-friendly-linux-systems-ranked-and-analyzed-expert-insights-and-detailed-reviews-spotlight/"><u>Beginner-Friendly Linux Systems Ranked & Analyzed: Expert Insights and Detailed Reviews – Spotlight</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-the-issue-resolve-windows-update-error-code-0x8007001f/"><u>Fixing the Issue: Resolve Windows Update Error Code 0X8007001F</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/free-video-stabilization-made-easy-top-10-online-tools-for-2024/"><u>Free Video Stabilization Made Easy Top 10 Online Tools for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-expert-tips-to-enhance-your-iphone-memo-making-skills/"><u>In 2024, Expert Tips to Enhance Your iPhone Memo-Making Skills</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-and-where-to-find-a-shiny-stone-pokemon-for-poco-c51-drfone-by-drfone-virtual-android/"><u>In 2024, How and Where to Find a Shiny Stone Pokémon For Poco C51? | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-latest-guide-on-ipad-23-and-apple-iphone-11-icloud-activation-lock-bypass-by-drfone-ios/"><u>In 2024, Latest Guide on iPad 2/3 and Apple iPhone 11 iCloud Activation Lock Bypass</u></a></li>
 </ul></div>
 

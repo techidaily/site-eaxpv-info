@@ -1,7 +1,7 @@
 ---
 title: Unlocking Apple's Stealthy Smart Radio Technology Within Macs and iPads
-date: 2024-12-27T17:26:24.012Z
-updated: 2024-12-28T17:45:16.479Z
+date: 2025-01-02T17:33:26.377Z
+updated: 2025-01-06T17:20:50.716Z
 tags:
   - apple
 categories:
@@ -29,7 +29,7 @@ When Apple launched the iPhone 15 lineup last fall, [it announced](https://www.a
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## iPads with a Thread radio:
@@ -66,10 +66,6 @@ Since the iPad and Mac run Apple's Home app, they could function as Thread borde
 
 The best way to determine if your device has a Thread radio built-in is to look for evidence of Thread testing in the device's [FCC reports](https://fcc.report/). 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Find your device's model number or FCC ID
 
 Most Apple devices, except iPhones, have this printed on the back. If you can't find this number on the device, go to Settings, General, select About**,** and look for the model number.
@@ -82,6 +78,10 @@ You can also look for your [iPad](https://support.apple.com/en-us/108043), [MacB
 
 You can access the Apple FCC database by clicking [FCC.Report/company/Apple](https://fcc.report/company/apple). This will bring up a complete list of the company's FCC reports, from the first one in 1981 through today.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Search for your device's model number or FCC ID
 
 Search for your device's model number or FCC ID by performing a quick **Find** using _Ctrl F_ or _cmd F_.
@@ -91,6 +91,10 @@ Search for your device's model number or FCC ID by performing a quick **Find** u
 Clicking on the device's report will bring up a list of all the reports created for the device available through the FCC.
 
 **Also: [iPad Air (2024) review: Apple's M2 tablet is even better than my $1,200 Android](https://www.zdnet.com/article/ipad-air-2024-review/)**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Find the Thread testing report
 
@@ -108,6 +112,10 @@ Thread is a low-energy wireless communication protocol for smart home devices cr
 
 Thread was created as an energy-efficient and secure protocol to connect battery-powered devices, like smart home sensors, smart locks, room thermometers, lights, thermostats, and security systems. The IP-based protocol allows for easy integration with smart home ecosystems, which is Matter's main goal.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What is a Thread border router?
 
 The HomePod mini is an Apple Thread border router.
@@ -124,10 +132,6 @@ Thread creates a self-healing mesh network, so having more border routers in a s
 
 For example, if you have a Thread smart lock and temperature sensor and a Wi-Fi smart thermostat, a Thread border router like the HomePod mini connects the smart lock and sensor to the Wi-Fi network and enables communication between the sensor and thermostat. It also would allow you to control all three devices through a single app -- in this case, Apple Home -- even if you're not home.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Why would Apple give some iPads and Macs Thread radios and not all?
 
 No Thread protocol information was found for the [11-inch M2 Wi-Fi iPad Air](https://fcc.report/FCC-ID/BCGA2902/) or the [13-inch M3 Macbook Air](https://fcc.report/FCC-ID/BCGA3113/). This doesn't guarantee that a Thread radio isn't included in these devices, but Apple likely used a simpler chip for these starter models.
@@ -136,10 +140,6 @@ No Thread protocol information was found for the [11-inch M2 Wi-Fi iPad Air](htt
 
 While Apple hasn't explicitly confirmed this information, the company may have used tri-band radio chips in the iPads and Macs with Thread radios. These integrated circuits support three different frequency bands for wireless communication, combining Wi-Fi, Bluetooth, and Thread into a single chip to make it more energy-efficient and compact. The multi-protocol support helps future-proof devices by supporting emerging wireless protocols.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Will iPads and Macs be Thread border routers?
 
 It's unclear whether iPads and Macs will eventually function as Thread border routers because Apple hasn't announced or confirmed this functionality. However, future software updates could enable this capability to enhance smart home ecosystems and improve the performance of a smart home network, especially as the Matter standard becomes more widely adopted in the Apple ecosystem.
@@ -147,10 +147,6 @@ It's unclear whether iPads and Macs will eventually function as Thread border ro
 **Also: [Govee's new smart outdoor lights brighten your home in three colorful ways](https://www.zdnet.com/home-and-office/smart-home/govees-new-smart-outdoor-lights-brighten-your-home-in-three-colorful-ways/)**
 
 The new iPads and Macs with Thread radios have the necessary hardware to act as Thread border routers, but Apple needs to enable this functionality. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Is the iPad a smart home hub?
 
@@ -163,6 +159,10 @@ Apple opted to offer the smart home hub feature only to dedicated devices like t
 Giving newer iPads Thread support would bring back its smart home hub functionality and make iPads a more robust option for the smart home than before. 
 
 If users want to keep an older iPad as a smart home hub, it cannot have iOS 16 and will work only with basic HomeKit functionality, as new features and enhancements introduced after iOS 16 won't be supported.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Would Thread replace Bluetooth for Apple peripherals?
 
@@ -204,18 +204,14 @@ The Apple Watch primarily uses Bluetooth to connect to the iPhone, but when Blue
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-guidelines-for-successful-twilight-photo-shoots/"><u>[New] In 2024, Guidelines for Successful Twilight Photo Shoots</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-rehabilitating-faulty-obs-camera-connection/"><u>[New] Rehabilitating Faulty OBS Camera Connection</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-ideal-top-7-video-software-for-apple-devices-for-2024/"><u>[Updated] Ideal Top 7 Video Software for Apple Devices for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-quadcopters-unveiled-their-intricate-workings-revealed/"><u>[Updated] Quadcopters Unveiled Their Intricate Workings Revealed</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/2024-approved-the-veritable-value-of-voice-podcasters-earnings-analysis/"><u>2024 Approved The Veritable Value of Voice Podcasters’ Earnings Analysis</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/comprehensive-evaluation-of-the-gigabyte-b760m-ds3h-ax-board-budget-friendly-entry-level-with-triple-monitor-support/"><u>Comprehensive Evaluation of the Gigabyte B760M DS3H AX Board - Budget-Friendly Entry Level with Triple Monitor Support</u></a></li>
-<li><a href="https://win-able.techidaily.com/cyberpunk-2077-performance-issues-solved-no-more-lag-or-stutter/"><u>Cyberpunk 2077 Performance Issues: Solved - No More Lag or Stutter</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/estrategias-eficientes-para-obter-som-de-clipes-em-streaming-online/"><u>Estratégias Eficientes Para Obter Som De Clipes Em Streaming Online</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/gratuit-m4r-naar-mp3-konverteren-vrijetijdige-online-conversie-oplossing/"><u>Gratuit M4R Naar MP3 Konverteren - Vrijetijdige Online Conversie Oplossing</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-enable-usb-debugging-on-a-locked-realme-narzo-n55-phone-by-drfone-android/"><u>In 2024, How To Enable USB Debugging on a Locked Realme Narzo N55 Phone</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/professionele-speichermodule-voor-uw-gopro-de-beste-geheugenkaartensamenvatting-met-hogere-geschwindigheid/"><u>Professionele Speichermodule Voor Uw GoPro: De Beste Geheugenkaartensamenvatting Met Hogere Geschwindigheid</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/step-by-step-tutorial-mastering-the-art-of-screen-recording-for-any-pc-or-mac/"><u>Step-by-Step Tutorial: Mastering the Art of Screen Recording for Any PC or Mac</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/transfert-gratuite-de-fichiers-convertissez-vos-videos-m4v-en-format-avi-via-lediteur-en-ligne-movavi/"><u>Transfert Gratuite De Fichiers: Convertissez Vos Vidéos M4V en Format AVI via L'éditeur en Ligne Movavi!</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-how-to-use-creative-commons-copyright-licenses-for-2024/"><u>[New] How to Use Creative Commons Copyright Licenses for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-fifa-highlights-and-trends-charting-on-youtube/"><u>[New] In 2024, FIFA Highlights & Trends Charting on YouTube</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-playtime-to-peak-time-top-gaming-women-in-the-digital-space/"><u>[New] In 2024, From Playtime to Peak Time Top Gaming Women in the Digital Space</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-instagrams-edge-infusing-artistry-with-slow-motion-for-2024/"><u>[New] Instagram's Edge Infusing Artistry with Slow Motion for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-elite-watchlist-top-10-advanced-video-capture-programs-for-2024/"><u>[Updated] Elite Watchlist Top 10 Advanced Video Capture Programs for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-use-google-trends-to-come-up-with-video-ideas-easy-guide/"><u>[Updated] In 2024, How to Use Google Trends to Come up with Video Ideas [Easy Guide]</u></a></li>
+<li><a href="https://common-error.techidaily.com/getting-the-function-fn-buttons-back-on-your-dell-device-lets-resolve-that-today/"><u>Getting the Function (Fn) Buttons Back on Your Dell Device? Let's Resolve That Today</u></a></li>
+<li><a href="https://media-tips.techidaily.com/in-depth-analysis-of-twistedwave-insights-into-its-strengths-weaknesses-outstanding-features-and-usage-scenarios/"><u>In-Depth Analysis of TwistedWave: Insights Into Its Strengths, Weaknesses, Outstanding Features & Usage Scenarios</u></a></li>
+<li><a href="https://driver-download.techidaily.com/step-by-step-guide-installing-your-nexiq-usb-connection-driver-today/"><u>Step-by-Step Guide: Installing Your Nexiq USB Connection Driver Today</u></a></li>
 </ul></div>
 
