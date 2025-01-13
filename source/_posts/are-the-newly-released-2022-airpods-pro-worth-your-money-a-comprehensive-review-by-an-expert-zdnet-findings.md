@@ -1,7 +1,7 @@
 ---
 title: Are the Newly Released 2022 AirPods Pro Worth Your Money? A Comprehensive Review by an Expert | ZDNET Findings
-date: 2025-01-01T00:39:35.620Z
-updated: 2025-01-07T02:18:23.073Z
+date: 2025-01-12T19:49:53.996Z
+updated: 2025-01-13T19:52:47.368Z
 tags:
   - apple
 categories:
@@ -43,6 +43,10 @@ Cons
 
 ## Logitech MX Keys S Wireless Keyboard
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Best keyboard overall
 
 **Logitech MX Keys S Wireless Keyboard specs: Type:** Full size **| Wired/Wireless:** Wireless **| Number of keys:** 104 **| Dimensions:** 17.8 x 5.83 x 1.73 inches
@@ -74,6 +78,10 @@ Cons
 * Lacks number pad
 * Restricted compatibility
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Apple Magic Keyboard
 
 ### Best keyboard for Mac users
@@ -103,15 +111,7 @@ Cons
 * Pricey
 * Oversized
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Corsair K100 RGB Keyboard
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Best gaming keyboard
 
@@ -138,11 +138,11 @@ Cons
 * Can feel awkward
 * Lacks backlighting
 
-## Microsoft Sculpt Ergonomic Desktop Keyboard
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+## Microsoft Sculpt Ergonomic Desktop Keyboard
 
 ### Best ergonomic keyboard
 
@@ -172,7 +172,7 @@ Cons
 * Restricted to linear switches
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Razer Pro Type Ultra Keyboard
@@ -237,6 +237,10 @@ There are a few different types of keyboard sizes from which to choose.
 
 Buzzetta agrees, saying it's up to user preference, "You want to take into consideration the size of your hands, the size of your desk space, and what you're comfortable with. It's like a car," he explains, "You really gotta test drive it to get the complete feel."
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Should I buy a wired or wireless keyboard?
 
 Rosenfeld offers his advice, saying, "Wireless keyboards give you more freedom and help keep your desk clutter-free. But some folks might like the stability and reliability of a wired connection better."
@@ -246,7 +250,7 @@ Buzzetta adds, "Wired keyboards are slightly more responsive and are the best wh
 When picking between a wired or wireless keyboard, it's really up to you, says Rosenfeld. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How much do the best keyboards cost?
@@ -254,7 +258,7 @@ When picking between a wired or wireless keyboard, it's really up to you, says R
 The cost of keyboards can really run the gamut based on factors like manufacturer, size, type, and features. However, we found that the best keyboards that you can buy range in cost from $83 to $185, depending on the brand and model that you choose. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Are there alternative best keyboards worth considering?
@@ -262,10 +266,6 @@ The cost of keyboards can really run the gamut based on factors like manufacture
 Logitech is one of the best keyboard manufacturers that you can choose from for your new keyboard. We found many top-rated models that users love, including these models, that may also be a great fit for you.
 
 [Best wireless keyboard alternative Logitech G915 TKL Save yourself a headache by skipping the fuss of wires. This best wireless keyboard keeps things neat. View at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FLogitech-Tenkeyless-Lightspeed-Mechanical-LIGHTSYNC%2Fdp%2FB085RLZ1C4%3Fth%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ca02ea832-b0c3-430b-ade0-a5f9869fe91c%7Cdtp&dtb=1)[Best compact alternative Logitech MX Keys Mini If space is an issue, this best keyboard won't take up a lot of room. Users love its easy, compact design. View at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FLogitech-Minimalist-Illuminated-Bluetooth-Compatible%2Fdp%2FB098JPSVKY%3Fth%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ca02ea832-b0c3-430b-ade0-a5f9869fe91c%7Cdtp&dtb=1)[Best mechanical alternative Logitech MX Mechanical Keyboard If you are looking for a mechanical keyboard, Logitech makes that, too. This best mechanical keyboard comes highly recommended. View at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FLogitech-Mechanical-Illuminated-Performance-Bluetooth%2Fdp%2FB09LJWWX4Y%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ca02ea832-b0c3-430b-ade0-a5f9869fe91c%7Cdtp&dtb=1)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Meet the experts
 
@@ -318,21 +318,24 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-how-to-make-your-videos-a-youtube-hit-top-tips-and-strategies-for-2024/"><u>[New] How To Make Your Videos a YouTube Hit Top Tips and Strategies for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-frames-to-fun-youtube-gifs-creation-made-simple/"><u>[New] In 2024, From Frames to Fun YouTube GIFs Creation Made Simple</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-execute-flawless-wirecast-broadcasts-on-youtube/"><u>[New] In 2024, How to Execute Flawless WireCast Broadcasts on YouTube</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-dreamer-to-doer-sign-up-for-a-youtube-channel/"><u>[Updated] 2024 Approved From Dreamer To Doer Sign Up for a YouTube Channel</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-novice-to-viewer-keeper-top-10-basic-yet-captivating-video-ideas/"><u>[Updated] 2024 Approved From Novice to Viewer-Keeper Top 10 Basic Yet Captivating Video Ideas</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-make-your-youtube-animated-subscribe-button-easily-with-filmora/"><u>[Updated] 2024 Approved How to Make Your YouTube Animated Subscribe Button Easily With Filmora</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-extract-thumbnails-from-youtube-on-windowsmac-and-browsers-for-2024/"><u>[Updated] How to Extract Thumbnails From Youtube on Windows/Mac and Browsers for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-simplifying-your-system-switch-from-sierra-to-os-x-1010/"><u>2024 Approved Simplifying Your System Switch From Sierra to OS X 10.10</u></a></li>
-<li><a href="https://games-able.techidaily.com/debunking-the-hype-in-pretend-console-promos/"><u>Debunking the Hype in Pretend Console Promos</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/easy-methods-how-to-transfer-pictures-from-apple-iphone-8-plus-to-pc-drfone-by-drfone-transfer-from-ios/"><u>Easy Methods How To Transfer Pictures From Apple iPhone 8 Plus to PC | Dr.fone</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/foremost-top-5-lightweight-video-capturers-guide/"><u>Foremost Top 5 Lightweight Video Capturers Guide</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/how-to-resolve-the-recurring-freezing-and-crashing-problem-with-warzone-version-20-on-desktop/"><u>How to Resolve the Recurring Freezing and Crashing Problem with Warzone Version 2.0 on Desktop</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-exclusive-hd-benefits-turn-on-av1-in-youtube-settings/"><u>In 2024, Exclusive HD Benefits Turn On AV1 in YouTube Settings</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/incorporating-seconds-and-minutes-on-youtube-clips/"><u>Incorporating Seconds and Minutes on YouTube Clips</u></a></li>
-<li><a href="https://win-bytes.techidaily.com/optimizing-your-gpu-a-step-by-step-guide-to-customize-graphics-performance-expert-tips-from-yl-software/"><u>Optimizing Your GPU: A Step-by-Step Guide to Customize Graphics Performance - Expert Tips From YL Software</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/viral-video-potential-analyzing-dslr-and-mirrorless-cameras/"><u>Viral Video Potential Analyzing DSLR and Mirrorless Cameras</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-comprehensive-instructions-for-disposing-of-video-downloads/"><u>[New] 2024 Approved Comprehensive Instructions for Disposing of Video Downloads</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-essential-thumbnail-strategies-for-amplifying-viewership-on-youtube/"><u>[New] 2024 Approved Essential Thumbnail Strategies for Amplifying Viewership on YouTube</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-transforming-viewers-experience-obs-strategies-on-youtube-and-twitch/"><u>[New] 2024 Approved Transforming Viewers' Experience OBS Strategies on YouTube & Twitch</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-how-much-wealth-can-you-generate-on-youtube-using-cpm-in-2024/"><u>[New] How Much Wealth Can You Generate on YouTube Using CPM, In 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-the-creators-guide-to-mastering-youtube-aspect-ratios/"><u>[New] The Creator's Guide to Mastering YOUTUBE Aspect Ratios</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-understanding-the-transformations-in-vegaspro-19/"><u>[New] Understanding the Transformations in VegasPro '19</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-enlightenment-streams-foremost-ed-resources-online/"><u>[Updated] 2024 Approved Enlightenment Streams Foremost Ed Resources Online</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-aim-for-affluence-enroll-now-in-youtubes-partner-programme/"><u>[Updated] In 2024, Aim for Affluence Enroll Now in YouTube's Partner Programme</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-from-sideways-to-symmetry-a-guide-to-flipping-images-and-spreading-engagement/"><u>[Updated] In 2024, From Sideways to Symmetry A Guide to Flipping Images and Spreading Engagement</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-sculpt-perfect-images-on-youtube-with-right-dimensions/"><u>[Updated] In 2024, How to Sculpt Perfect Images on YouTube with Right Dimensions</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-mastering-photo-frames-leading-software-reviews/"><u>[Updated] Mastering Photo Frames Leading Software Reviews</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-maximizing-profits-from-short-youtube-videos/"><u>[Updated] Maximizing Profits From Short YouTube Videos</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-mastering-youtube-brand-identity-increasing-subscriber-count/"><u>2024 Approved Mastering YouTube Brand Identity Increasing Subscriber Count</u></a></li>
+<li><a href="https://howto.techidaily.com/6-solutions-to-fix-error-505-in-google-play-store-on-vivo-y100-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Solutions to Fix Error 505 in Google Play Store on Vivo Y100 5G | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/effective-strategies-for-managing-affiliate-reviews-and-feedback/"><u>Effective Strategies for Managing Affiliate Reviews and Feedback</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/filmmakers-choice-best-windows-software-for-pro-videos/"><u>Filmmaker's Choice Best Windows Software For Pro Videos</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-upgrade-iphone-xr-without-losing-any-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Upgrade iPhone XR without Losing Any Data? | Dr.fone</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/premier-mac-recording-software-top-5-innovations-revealed-for-2024/"><u>Premier Mac Recording Software Top 5 Innovations Revealed for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/youtubing-upstarts-the-ideal-gadgets-list-for-2024/"><u>YouTubing Upstarts The Ideal Gadgets List for 2024</u></a></li>
 </ul></div>
 

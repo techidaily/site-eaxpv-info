@@ -1,7 +1,7 @@
 ---
 title: Tech Giant Apple Hit with 2-Billion Dollar Fee by European Union Over Unfair App Store Practices
-date: 2025-01-01T07:02:27.337Z
-updated: 2025-01-06T17:53:26.691Z
+date: 2025-01-09T17:38:22.068Z
+updated: 2025-01-13T18:20:15.897Z
 tags:
   - apple
 categories:
@@ -25,7 +25,7 @@ In the past, moving from one face to another on an Apple Watch was easy. You'd s
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to swap faces on your Apple Watch
@@ -37,7 +37,7 @@ If you're still running watchOS 9 or earlier, the older method of switching watc
 screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Switch watch faces
@@ -57,7 +57,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Update to watchOS 10.2
@@ -69,7 +69,7 @@ Altefnatively, you can update the OS directly from your watch. For that, open th
 screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Change the method for switching faces
@@ -81,7 +81,7 @@ screenshot by Lance Whitney/ZDNET
 **Also: [The best smartwatches you can buy: Apple, Samsung, Google, and more compared](https://www.zdnet.com/article/best-smartwatch/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Switch watch faces by swiping
@@ -120,22 +120,24 @@ screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-script-to-spectacle-independent-effect-innovation/"><u>[New] 2024 Approved From Script to Spectacle Independent Effect Innovation</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-harness-the-full-potential-of-video-tags-in-youtube/"><u>[New] 2024 Approved Harness the Full Potential of Video Tags in YouTube</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-free-templates-for-dynamic-youtube-channel-closures/"><u>[New] In 2024, Free Templates for Dynamic YouTube Channel Closures</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-hobbyist-to-pro-optimal-cameras-for-youtubing/"><u>[New] In 2024, From Hobbyist to Pro Optimal Cameras For YouTubing</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-halt-autoplay-youtube-recommendations/"><u>[New] In 2024, Halt Autoplay YouTube Recommendations</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-get-people-to-subscribe-by-asking-the-right-way/"><u>[New] In 2024, How to Get People to Subscribe by Asking the Right Way</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/new-in-2024-tackling-disruptions-in-video-transmissions-for-messenger-users-iosandroid/"><u>[New] In 2024, Tackling Disruptions in Video Transmissions for Messenger Users iOS/Android</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-case-study-how-to-grow-on-youtube-to-have-millions-of-subs/"><u>[Updated] 2024 Approved Case Study How to Grow on YouTube to Have Millions of Subs</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-high-end-sound-pumping-tools-pcs-and-smartphones/"><u>[Updated] 2024 Approved High-End Sound Pumping Tools PCs & Smartphones</u></a></li>
-<li><a href="https://article-helps.techidaily.com/2024-approved-creating-videography-magic-from-photos-and-beats/"><u>2024 Approved Creating Videography Magic From Photos & Beats</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/2024-approved-step-up-your-streams-advanced-practices-for-capturing-vr-playtimes/"><u>2024 Approved Step Up Your Streams Advanced Practices for Capturing VR Playtimes</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-transfer-data-from-iphone-11-pro-max-to-others-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone 11 Pro Max To Others devices? | Dr.fone</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/perfecting-video-conferencing-with-snap-functionality-for-2024/"><u>Perfecting Video Conferencing with Snap Functionality for 2024</u></a></li>
-<li><a href="https://change-location.techidaily.com/preparation-to-beat-giovani-in-pokemon-go-for-xiaomi-redmi-note-12-5g-drfone-by-drfone-virtual-android/"><u>Preparation to Beat Giovani in Pokemon Go For Xiaomi Redmi Note 12 5G | Dr.fone</u></a></li>
-<li><a href="https://os-tips.techidaily.com/top-6-strategies-for-transferring-your-iphone-snapshots-to-a-mac/"><u>Top 6 Strategies for Transferring Your iPhone Snapshots to a Mac</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/uncovering-computer-secrets-with-toms-hardware-experts/"><u>Uncovering Computer Secrets with Tom's Hardware Experts</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/ways-to-trade-pokemon-go-from-far-away-on-tecno-phantom-v-flip-drfone-by-drfone-virtual-android/"><u>Ways to trade pokemon go from far away On Tecno Phantom V Flip? | Dr.fone</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-historical-insights-the-most-relevant-youtube-channels-for-learners/"><u>[New] 2024 Approved Historical Insights - The Most Relevant YouTube Channels for Learners</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-from-bland-to-brilliant-transform-your-youtube-channels-image-for-2024/"><u>[New] From Bland to Brilliant Transform Your YouTube Channels' Image for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-sony-vegas-transforms-ordinary-footage-into-youtube-stardom/"><u>[New] In 2024, How Sony Vegas Transforms Ordinary Footage Into YouTube Stardom</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-free-10-best-intro-maker-apps-for-iphone-and-android/"><u>[Updated] 2024 Approved FREE 10 Best Intro Maker Apps for iPhone and Android</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-genres-to-gems-building-a-personalized-youtube-music-mix-onlinemobile/"><u>[Updated] 2024 Approved From Genres to Gems Building a Personalized YouTube Music Mix Online/Mobile</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-beyond-the-basics-streamlabs-competitors-analyzed/"><u>[Updated] Beyond the Basics Streamlabs Competitors Analyzed</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-hitting-high-notes-enhance-your-youtube-content-with-music-edits-for-2024/"><u>[Updated] Hitting High Notes Enhance Your YouTube Content with Music Edits for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-fringe-to-mainstream-highlighting-top-10-gender-balanced-youtubers/"><u>[Updated] In 2024, From Fringe to Mainstream Highlighting Top 10 Gender-Balanced YouTubers</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-create-video-ads-for-free-in-youtube-video-builder/"><u>[Updated] In 2024, How to Create Video Ads for Free in YouTube Video Builder</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-create-youtube-channel-in-mobile-personal-and-business/"><u>[Updated] In 2024, How to Create YouTube Channel in Mobile [Personal & Business]</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-professional-video-quality-at-your-fingertips-ois-powered-choices/"><u>[Updated] Professional Video Quality at Your Fingertips OIS-Powered Choices</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1149-off-shop-the-newly-discounted-m3-macbook-air-laptop-16gb-memory-and-13-inch-screen/"><u>$1,149 OFF! Shop the Newly Discounted M3 MacBook Air Laptop - 16GB Memory & 13-Inch Screen</u></a></li>
+<li><a href="https://win-exceptional.techidaily.com/deskrec-per-pc-impara-come-registrare-facilmente-il-tuo-schermo-con-movavi/"><u>Deskrec per PC: Impara Come Registrare Facilmente Il Tuo Schermo Con Movavi!</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/how-can-filmora-create-an-audio-visualizer-project-for-a-song-all-steps-from-launching-the-app-to-editing-the-text-are-detailed-here-for-2024/"><u>How Can Filmora Create an Audio Visualizer Project for a Song? All Steps, From Launching the App to Editing the Text, Are Detailed Here for 2024</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-poco-c65-to-any-ios-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Poco C65 to Any iOS Devices | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/imaginarium-collagecraft-cutting-edge-assembler/"><u>Imaginarium CollageCraft Cutting-Edge Assembler</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-optimizing-class-engagement-with-visual-media-usage/"><u>In 2024, Optimizing Class Engagement with Visual Media Usage</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/premium-mobile-apps-for-slow-motion-video-iosandroid-for-2024/"><u>Premium Mobile Apps for Slow Motion Video iOS/Android for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/the-art-of-video-filming-across-various-computing-platforms/"><u>The Art of Video Filming Across Various Computing Platforms</u></a></li>
 </ul></div>
 

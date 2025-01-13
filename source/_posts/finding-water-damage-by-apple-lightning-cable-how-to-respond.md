@@ -1,7 +1,7 @@
 ---
 title: Finding Water Damage by Apple Lightning Cable - How to Respond?
-date: 2025-01-04T04:41:17.534Z
-updated: 2025-01-07T04:09:59.412Z
+date: 2025-01-09T16:15:56.180Z
+updated: 2025-01-13T16:51:51.496Z
 tags:
   - apple
 categories:
@@ -25,6 +25,10 @@ Below, you'll find the best sales and discounts on Apple products, including Mac
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Best Apple deals of July 2024
 
@@ -125,10 +129,6 @@ If you are willing to trade in an older device, you can save on the 11-inch and 
 
 [View now at Best Buy](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fapple%2Fnew-ipad-pro-m4%2Fpcmcat1715092665904.c%3Fid%3Dpcmcat1715092665904&publisher_slug=itechdaily19598&exclusive=1) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  More Apple deals
 
 [Walmart: Save up to $1,200 on the new iPhone 15 series View now at Walmart](https://goto.walmart.com/c/5597632/565706/9383?sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fshop%2Fcol%2Fnew-iphone&subId1=zd-__COM_CLICK_ID__-dtp)
@@ -175,20 +175,20 @@ If you are willing to trade in an older device, you can save on the 11-inch and 
 
 [Apple Lightning to 3.5 mm headphone jack adapter deal for $8 (save $2) $8 at Walmart](https://goto.walmart.com/c/159047/565706/9383?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FApple-Lightning-to-3-5-mm-Headphone-Jack-Adapter%2F54738078%3Fathbdg%3DL1103&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Can I buy an iPhone without a plan?
 
 Yes, but you must ensure that your new iPhone is not locked to a specific carrier. You can buy unlocked iPhones, both new and pre-owned, from sources including Apple itself, Amazon, Best Buy, and Walmart.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What is the cheapest Apple product?
 
 Apple's AirTag, a tracking device that connects to your account and allows you to find lost objects such as your keys, is Apple's cheapest product. Typically, a single AirTag retails for $29, whereas you can also purchase four-packs for around $99 outside of sales and promotions. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Is there a monthly fee for Apple iPads?
@@ -211,7 +211,7 @@ Factors influencing our recommendations include:
 * **Availability**: If we come across a great Apple deal but only a few units are in stock unless it is a stellar saving you only see once in a blue moon, we will discount it and select a product with better stock levels instead.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What are the best deals right now?
@@ -236,7 +236,7 @@ ZDNET has been scouring the sale to find the best deals by category:
 * [The best deals under $30](https://www.zdnet.com/home-and-office/deals-under-30/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will these deals expire?
@@ -283,21 +283,24 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-global-viewer-count-triumphs-play-button-honors-for-2024/"><u>[New] Global Viewer Count Triumphs Play Button Honors for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-novice-to-viewer-keeper-top-10-basic-yet-captivating-video-ideas/"><u>[New] In 2024, From Novice to Viewer-Keeper Top 10 Basic Yet Captivating Video Ideas</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-fusion-of-youtube-beats-and-imovie-editing-magic/"><u>[Updated] 2024 Approved Fusion of YouTube Beats and iMovie Editing Magic</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-often-can-creators-expect-to-be-paid-by-youtube/"><u>[Updated] 2024 Approved How Often Can Creators Expect to Be Paid by YouTube?</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-from-video-views-to-vault-closure-income-insights-for-youtubers-for-2024/"><u>[Updated] From Video Views to Vault Closure Income Insights for Youtubers for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-camera-roll-to-youtube-the-ultimate-uploading-guide/"><u>[Updated] In 2024, From Camera Roll to YouTube The Ultimate Uploading Guide</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-harnessing-the-power-of-targeted-video-appeal/"><u>[Updated] In 2024, Harnessing the Power of Targeted Video Appeal</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-sail-through-smooth-sharing-with-instagram-troubleshooting/"><u>[Updated] Sail Through Smooth Sharing with Instagram Troubleshooting</u></a></li>
-<li><a href="https://location-fake.techidaily.com/4-methods-to-turn-off-life-360-on-vivo-y28-5g-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>4 Methods to Turn off Life 360 On Vivo Y28 5G without Anyone Knowing | Dr.fone</u></a></li>
-<li><a href="https://win-forum.techidaily.com/a-comprehensive-guide-to-overcoming-full-storage-capacity-in-windows-10-environments/"><u>A Comprehensive Guide to Overcoming Full Storage Capacity in Windows 10 Environments</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/expert-advice-on-correcting-coredll-not-found-problem/"><u>Expert Advice on Correcting Core.dll Not Found Problem</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-motorola-moto-g73-5g-location-by-number-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Motorola Moto G73 5G Location by Number | Dr.fone</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-perfecting-the-art-of-zooming-expert-strategies-for-snapchat-users/"><u>In 2024, Perfecting the Art of Zooming Expert Strategies for Snapchat Users</u></a></li>
-<li><a href="https://win-blog.techidaily.com/1723008478914-resolved-fix-your-microsoft-flight-simulator-2amstuckatupdatescreen-woes-today/"><u>Resolved: Fix Your Microsoft Flight Simulator 2amstuckatUpdateScreen Woes Today</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/sim-unlock-oppo-reno-9a-phones-without-code-2-ways-to-remove-android-sim-lock-by-drfone-android/"><u>Sim Unlock Oppo Reno 9A Phones without Code 2 Ways to Remove Android Sim Lock</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/be-tv-demystified-your-complete-reference/"><u>YouTube TV Demystified Your Complete Reference</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/se-mueven-los-archivos-borrados-de-una-memoria-usb-directamente-al-recycle-bin/"><u>¿Se Mueven Los Archivos Borrados De Una Memoria USB Directamente Al Recycle Bin?</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-creating-engaging-youtube-trailers-in-filmora/"><u>[New] 2024 Approved Creating Engaging YouTube Trailers in Filmora</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-creative-channel-titling-techniques-for-growth/"><u>[New] 2024 Approved Creative Channel Titling Techniques for Growth</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-harness-high-quality-banners-free-for-content-developers/"><u>[New] 2024 Approved Harness High-Quality Banners – Free for Content Developers</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-high-end-audio-for-youtubes-best-gamers/"><u>[New] 2024 Approved High-End Audio for YouTube's Best Gamers</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-unleashing-potential-views-best-keyword-resources-ranked/"><u>[New] Unleashing Potential Views Best Keyword Resources Ranked</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-constructive-communication-leads-to-more-subscribers/"><u>[Updated] 2024 Approved Constructive Communication Leads to More Subscribers</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-direct-webcam-streaming-with-vlc-for-2024/"><u>[Updated] Direct Webcam Streaming with VLC for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-elevating-your-videos-visual-impact-youtubthumbnail-design-on-macos-for-2024/"><u>[Updated] Elevating Your Video's Visual Impact YoutubThumbnail Design on macOS for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-fast-track-to-youtube-partner-level-achieve-10k-views-for-2024/"><u>[Updated] Fast Track to YouTube Partner Level - Achieve 10K Views for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-foundations-first-what-to-invest-in-for-youtubing-for-2024/"><u>[Updated] Foundations First What To Invest In for YouTubing for 2024</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/expert-review-of-the-smart-and-sophisticated-ring-video-doorbell-pro-system/"><u>Expert Review of the Smart and Sophisticated Ring Video Doorbell Pro System</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/fix-windows-media-player-silent-playback-step-by-step-guide/"><u>Fix Windows Media Player Silent Playback - Step-by-Step Guide</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-disabled-apple-iphone-xs-how-to-unlock-a-disabled-apple-iphone-xs-drfone-by-drfone-ios/"><u>In 2024, Disabled Apple iPhone XS How to Unlock a Disabled Apple iPhone XS? | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-life360-circle-everything-you-need-to-know-on-realme-12plus-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Life360 Circle Everything You Need to Know On Realme 12+ 5G | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/in-2024-maximize-content-impact-three-methods-for-effective-ig-captioning/"><u>In 2024, Maximize Content Impact Three Methods for Effective IG Captioning</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-sim-unlock-realme-12plus-5g-phones-without-code-2-ways-to-remove-android-sim-lock-by-drfone-android/"><u>In 2024, Sim Unlock Realme 12+ 5G Phones without Code 2 Ways to Remove Android Sim Lock</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/unmatched-download-experience-with-our-top-tools-list-for-2024/"><u>Unmatched Download Experience with Our Top Tools List for 2024</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/ways-to-trade-pokemon-go-from-far-away-on-oppo-find-n3-flip-drfone-by-drfone-virtual-android/"><u>Ways to trade pokemon go from far away On Oppo Find N3 Flip? | Dr.fone</u></a></li>
 </ul></div>
 

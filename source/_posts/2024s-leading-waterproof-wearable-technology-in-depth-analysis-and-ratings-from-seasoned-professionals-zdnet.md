@@ -1,7 +1,7 @@
 ---
 title: "2024'S Leading Waterproof Wearable Technology: In-Depth Analysis and Ratings From Seasoned Professionals | ZDNet"
-date: 2025-01-01T05:11:13.223Z
-updated: 2025-01-06T19:54:47.492Z
+date: 2025-01-06T17:53:22.606Z
+updated: 2025-01-13T18:18:46.339Z
 tags:
   - apple
 categories:
@@ -42,6 +42,10 @@ Cons
 * Too big for small wrists
 * Double the price of the base Apple Watch Series 9
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Apple Watch Ultra 2
 
 ### Best Apple Watch overall
@@ -75,7 +79,7 @@ Cons
 * Not as durable as the Ultra 2
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Apple Watch Series 9
@@ -110,6 +114,10 @@ Cons
 * Not as durable as other Apple Watch models
 * Cellular connection requires a monthly fee
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Apple Watch SE (2nd generation)
 
 ### Best Apple Watch for kids and first-time buyers
@@ -142,10 +150,6 @@ Cons
 * Shorter battery life than the Series 8 or Series 9
 * Display isn't as bright as the Series 9
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Apple Watch Series 7
 
 ### Best Apple Watch for unique colors
@@ -176,14 +180,10 @@ Cons
 * Same features as regular Series 9
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Apple Watch Hermès
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Best Apple Watch for dressing up
 
@@ -254,37 +254,41 @@ Finally, the Apple Watch 10 has a new jet black finish, along with "updated" ros
 
 The Apple Watch 10 costs $399 and is available Friday, September 20\. You can [preorder here](https://www.apple.com/shop/buy-watch/apple-watch). 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Do you need an iPhone to use an Apple Watch?
 
 Yes, you need an iPhone to set up an Apple Watch. However, with all the models on this list, you can use the [Family Setup](https://support.apple.com/en-us/HT211768) option to have one iPhone set up watches for multiple members in your Apple family group -- even if they don't have an iPhone. You cannot use an iPad, a Mac, or a non-Apple smartphone to set up an Apple Watch.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What does the Apple Watch do?
 
 Fundamentally, all Apple Watches can track your steps and fitness data, display notifications from your iPhone, show basic information like weather, start timers, send and receive text messages, answer phone calls, and download useful apps. The latest versions have additional features and functionality, including sleep tracking, advanced health monitoring, car crash detection, and international emergency calling. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Are older versions of the Apple Watch still worth buying?
 
 Yes, many older Apple Watch are available to buy refurbished at places like [BackMarket](https://www.backmarket.com/en-us/l/apple-watch/38fd0158-d500-43d2-817c-738859e3e7dd) and are still some of the best smartwatches on the market. Just keep in mind that Apple releases a new Apple Watch each year, so a refurbished model that is already dated could end up being four or five generations behind the latest innovations during the time you own it.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## What are some features to look for in the best Apple Watch models?
 
 The most important features to look for in the best Apple Watch models include advanced health sensors (ECG, blood oxygen, wrist temperature, etc.), connectivity options (is cellular included or extra, if you want the watch to work when an iPhone isn't nearby), battery life, and durability (water resistance, dust resistance, and a crystal face to resist cracking).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Which is the best Apple Watch for fitness tracking?
 
 The best Apple Watch for fitness tracking is the Apple Watch Series 9 or the Apple Watch Ultra 2, which both come equipped with the widest variety of health sensors, including ECG, sleep tracking, heart and breathing functions, wrist temperature, and more.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What is the difference between the Apple Watch Series 9, Series 8, and Series 7?
 
@@ -302,10 +306,6 @@ While it's not made specifically with kids in mind, the Apple Watch SE is an exc
 
 In addition, you can use Apple's Family Setup to check your kid's location, set up shared contacts, implement parental controls like screen time usage, and more. Your child doesn't even need their own iPhone to have an Apple Watch -- they can [pair it up with yours](https://www.zdnet.com/article/how-to-pair-and-unpair-apple-watch/), so you're fully in control. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Does Apple Watch work with Android?
 
 You cannot use an Android phone to set up and pair with an Apple Watch, and there are no good workarounds for that. However, if you have an Android phone, there are several smartwatches you can choose from that offer most of the same features as an Apple Watch. The ones below are smartwatches that ZDNET has reviewed and rated well in our testing. 
@@ -319,7 +319,7 @@ Apple is one of those brands that rarely puts its products on sale, so the best 
 However, sometimes random deals pop up, so be sure to check out our [best Apple deals](https://www.zdnet.com/article/apple-deals/) roundup that we update frequently. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Other Apple Watch alternatives we have tested:
@@ -368,24 +368,16 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-grassroots-video-marketing-strategies/"><u>[New] 2024 Approved Grassroots Video Marketing Strategies</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-harmonize-your-imovie-projects-with-youtubes-melodies/"><u>[New] 2024 Approved Harmonize Your iMovie Projects With YouTube's Melodies</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-guide-youtube-to-mp4-ensuring-data-security/"><u>[New] In 2024, Guide YouTube to MP4 - Ensuring Data Security</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/op-tiers-of-technology-youtube-gamers-showcase/"><u>[New] Top Tiers of Technology YouTube Gamer's Showcase</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-channel-expansion-sharing-your-show-across-30-platforms/"><u>[Updated] 2024 Approved Channel Expansion Sharing Your Show Across 30 Platforms</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-hashtag-heroes-the-ultimate-list-for-popularizing-your-youtube-snippets/"><u>[Updated] 2024 Approved Hashtag Heroes The Ultimate List for Popularizing Your YouTube Snippets</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-free-tools-and-tricks-creating-compelling-youtube-video-ads-for-2024/"><u>[Updated] Free Tools and Tricks Creating Compelling YouTube Video Ads for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-from-vids-to-dollars-navigating-youtubes-monetization-landscape-for-2024/"><u>[Updated] From Vids to Dollars Navigating YouTube's Monetization Landscape for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-get-premium-banners-no-cost-just-click-for-2024/"><u>[Updated] Get Premium Banners - No Cost, Just Click for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-high-performance-gpu-picks-for-quality-video-streaming-for-2024/"><u>[Updated] High-Performance GPU Picks for Quality Video Streaming for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-convert-youtube-videos-to-gifs/"><u>[Updated] In 2024, How to Convert YouTube Videos to GIFs</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-superior-audience-experiences/"><u>[Updated] Superior Audience Experiences</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-the-sideways-surprise-decoding-instagram-video-strange-behavior-for-2024/"><u>[Updated] The Sideways Surprise Decoding Instagram Video Strange Behavior for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/discovering-lgs-revolutionary-17-inch-gram-pro-a-game-changer-in-lightweight-laptops/"><u>Discovering LG's Revolutionary 17-Inch Gram Pro - A Game-Changer in Lightweight Laptops</u></a></li>
-<li><a href="https://android-frp.techidaily.com/easy-guide-how-to-bypass-sony-xperia-1-v-frp-android-10111213-by-drfone-android/"><u>Easy Guide How To Bypass Sony Xperia 1 V FRP Android 10/11/12/13</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/effortless-methods-to-cancel-your-subscription-with-paramountplus/"><u>Effortless Methods to Cancel Your Subscription with Paramount+</u></a></li>
-<li><a href="https://ios-location-track.techidaily.com/how-to-track-whatsapp-messages-on-apple-iphone-8-without-them-knowing-drfone-by-drfone-virtual-ios/"><u>How to Track WhatsApp Messages on Apple iPhone 8 Without Them Knowing? | Dr.fone</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/in-2024-efficient-techniques-to-snap-up-twitter-gifs/"><u>In 2024, Efficient Techniques to Snap Up Twitter Gifs</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/up-to-date-nvidia-driver-downloads-geforce-rtx-3080-ti-for-all-win-versions/"><u>Up-to-Date NVIDIA Driver Downloads: GeForce RTX 3080 Ti for All Win Versions</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-guard-against-gimmicky-validations-instagrams-hidden-hazard/"><u>[New] 2024 Approved Guard Against Gimmicky Validations Instagram's Hidden Hazard</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-vimeo-record-how-to-use-vimeo-record-to-capture-screen-and-webcam/"><u>[New] 2024 Approved Vimeo Record How to Use Vimeo Record to Capture Screen and Webcam</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-enhance-listening-pleasure-constructing-a-youtube-playlist/"><u>[New] In 2024, Enhance Listening Pleasure Constructing a YouTube Playlist</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-amplify-your-voice-on-youtube-mastery-through-tubebuddy-for-2024/"><u>[Updated] Amplify Your Voice on YouTube - Mastery Through TubeBuddy for 2024</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/updated-in-2024-a-taste-of-trending-the-foodie-world-of-tiktok/"><u>[Updated] In 2024, A Taste of Trending The Foodie World of TikTok</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-best-8-mirrorless-cameras-to-elevate-your-vlogging-game/"><u>[Updated] In 2024, Best 8 Mirrorless Cameras to Elevate Your Vlogging Game</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-professional-3d-creation-software-for-video-startups/"><u>[Updated] Professional 3D Creation Software for Video Startups</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-text-trends-top-10-modern-effects/"><u>2024 Approved Text Trends Top 10 Modern Effects</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-streamline-your-recordings-zooms-leading-transcription-apps-reviewed/"><u>In 2024, Streamline Your Recordings Zoom's Leading Transcription Apps Reviewed</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-from-video-to-live-photo-best-conversion-apps-and-methods/"><u>Updated 2024 Approved From Video to Live Photo Best Conversion Apps and Methods</u></a></li>
+<li><a href="https://apple-account.techidaily.com/your-account-has-been-disabled-in-the-app-store-and-itunes-from-iphone-13-mini-by-drfone-ios/"><u>Your Account Has Been Disabled in the App Store and iTunes From iPhone 13 mini?</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Top Rated Mini Tablets of 2024 - Comprehensive Reviews & Ratings by Tech Experts
-date: 2024-12-31T19:38:40.813Z
-updated: 2025-01-07T04:13:41.431Z
+date: 2025-01-11T19:29:52.831Z
+updated: 2025-01-13T18:33:10.652Z
 tags:
   - apple
 categories:
@@ -22,13 +22,13 @@ The display sizes of small tablets can range from six to 10 inches, with eight i
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What is the best small tablet right now?
 
 Based on our extensive hands-on testing with various tablets of all sizes, our pick for the best small tablet is the [iPad Mini](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2F2021-Apple-iPad-Mini-Wi-Fi%2Fdp%2FB09G9FW785%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C670d8984-efab-4cf8-bea7-9e0da0f62bd1%7Cdtp&dtb=1), thanks to its 8.3-inch Liquid Retina display and weight of just under 1 pound. We also included compact-sized tablets from Amazon, Samsung, and other brands for those looking for something more compact and easy to carry. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## The best small tablets of 2024
 
@@ -44,10 +44,6 @@ Pros
 Cons 
 * Cellular connectivity is additional cost
 * Expensive
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Apple iPad Mini 6th Generation
 
@@ -83,7 +79,7 @@ Cons
 * Cameras aren't as great as other options
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Amazon Fire 7 Tablet
@@ -118,10 +114,14 @@ Cons
 * Expensive
 * Some complaints of lag
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Boox Tab Mini C
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Best small tablet for note-taking
@@ -152,6 +152,10 @@ Cons
 * No warm light option
 
 ## Amazon Kindle 11th generation
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Best small tablet for reading
 
@@ -208,7 +212,7 @@ The best small tablet is the iPad Mini because of its sharp display and impressi
 | Samsung Galaxy A7 Lite | $100      | 8.7 inches          | 1340x800 pixels   |
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Which small tablet is right for you?
@@ -222,10 +226,6 @@ It really depends on what size tablet you're looking for, which operating system
 | Boox Tab Mini C                             | The best close-to-high-end tablet that functions as an e-reader, note-taker, illustrator, and web-surfer. With a vivid display, long-lasting battery life, and customizable settings for the ultimate user experience, this tablet is the stylish and sleek deskside companion you need. |
 | Amazon Kindle                               | A small and portable tablet designed for reading with dark mode and six weeks of battery life. Its 300ppi is the same display as the Kindle Paperwhite and the Kindle Oasis.                                                                                                             |
 | Samsung Galaxy A7 Lite                      | A small Samsung tablet with expandable storage and an exceptional battery life. The tablet allows for up to 1TB of expandable storage.                                                                                                                                                   |
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Factors to consider when choosing the best small tablets:
 
@@ -248,10 +248,6 @@ We also compare the display's performance with what the manufacturer promised, t
 
 For a deeper look into our testing process, check out our comprehensive [tablet testing methodology](https://www.zdnet.com/article/how-we-test-tablets-at-zdnet-in-2024/). 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What is the smallest tablet screen size?
 
 The smallest tablet screen size on the market is 6 to 7 inches. Anything smaller would be more similar to a smartphone.
@@ -271,6 +267,10 @@ Meanwhile, with Samsung devices, you can implement Samsung Flow. Download the ap
 Yes, they can be. Small Android tablets allow you to do everything you would normally do, like reading e-books and video calling, without the higher price tags. 
 
 Their lightweight body and compact design make them perfect traveling companions. So, if you're searching for the best Android tablet with great battery life and lightweight design, the minis are an enticing choice. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What is the smallest iPad?
 
@@ -322,17 +322,24 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/024-approved-unveiling-the-mechanisms-that-govern-youtube-after-a-video-is-live/"><u>[New] 2024 Approved Unveiling the Mechanisms That Govern YouTube After a Video Is Live</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-fixed-youtube-shorts-lacking-in-sight-for-2024/"><u>[New] Fixed YouTube Shorts Lacking in Sight for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-harnessing-youtubes-true-potential-in-studio-for-2024/"><u>[New] Harnessing YouTube's True Potential in Studio for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-high-performance-gpu-picks-for-quality-video-streaming/"><u>[New] In 2024, High-Performance GPU Picks for Quality Video Streaming</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-make-fortnite-thumbnail-for-free-and-easy-for-2024/"><u>[Updated] How to Make Fortnite Thumbnail for Free and Easy for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/boost-engagement-with-these-premier-html5-players/"><u>Boost Engagement with These Premier HTML5 Players</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/effortless-integration-how-to-include-programming-snippets-in-word-files/"><u>Effortless Integration: How to Include Programming Snippets in Word Files</u></a></li>
-<li><a href="https://media-tips.techidaily.com/how-to-transform-your-hevc-footage-into-mov-files-without-compromising-quality-ideal-for-pc-internet-streaming-and-mobiles/"><u>How to Transform Your HEVC Footage Into MOV Files Without Compromising Quality - Ideal for PC, Internet Streaming & Mobiles</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-high-definition-siri-pronunciation-engine-windowsmac-integration-for-2024/"><u>New High-Definition Siri Pronunciation Engine – Windows/Mac Integration for 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/solving-pc-instability-with-spellbreak-fixes-for-unwanted-game-shutdowns/"><u>Solving PC Instability with Spellbreak – Fixes for Unwanted Game Shutdowns</u></a></li>
-<li><a href="https://location-social.techidaily.com/top-7-skype-hacker-to-hack-any-skype-account-on-your-realme-narzo-60x-5g-drfone-by-drfone-virtual-android/"><u>Top 7 Skype Hacker to Hack Any Skype Account On your Realme Narzo 60x 5G | Dr.fone</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-get-started-with-cartoon-videos-top-10-beginner-friendly-tools-for-2024/"><u>Updated Get Started with Cartoon Videos Top 10 Beginner-Friendly Tools for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-enhance-visibility-a-comprehensive-guide-to-video-tagging/"><u>[New] 2024 Approved Enhance Visibility A Comprehensive Guide to Video Tagging</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-freshest-beats-newly-trending-music-for-youtube-short-videos/"><u>[New] 2024 Approved Freshest Beats Newly Trending Music for YouTube Short Videos</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-at-the-helm-of-augmented-perception-tools/"><u>[New] At the Helm of Augmented Perception Tools</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-earning-strategies-for-successful-youtube-shorts-must-haves-earnings-prospects/"><u>[New] In 2024, Earning Strategies for Successful Youtube Shorts Must-Haves, Earnings Prospects</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-pioneering-visual-communication-with-premiere-written-by-jane-smith-expert-in-digital-artistry-for-2024/"><u>[New] Pioneering Visual Communication with Premiere' Written by Jane Smith, Expert in Digital Artistry for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-the-art-of-lyric-videos-using-lyric-video-maker-software/"><u>[New] The Art of Lyric Videos Using Lyric Video Maker Software</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-trimming-tips-select-the-top-5-url-shrinkers-for-youtube/"><u>[New] Trimming Tips Select the Top 5 URL Shrinkers for YouTube</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-comprehensive-guide-to-advanced-fcp-features/"><u>[Updated] Comprehensive Guide to Advanced FCP Features</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-direct-transition-from-youtube-to-instagram-reels-for-2024/"><u>[Updated] Direct Transition From YouTube to Instagram Reels for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-how-to-improve-youtube-video-quality-and-clarity/"><u>[Updated] How to Improve YouTube Video Quality and Clarity</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-yules-magic-unfolds-access-nine-premium-whole-film-holiday-movies-for-free/"><u>[Updated] Yule's Magic Unfolds Access Nine Premium, Whole-Film Holiday Movies for Free</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/great-value-and-features-our-top-choice-of-sony-bravia-tv-at-a-discounted-price-techradar/"><u>Great Value and Features: Our Top Choice of Sony Bravia TV at a Discounted Price | TechRadar</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-the-most-useful-tips-for-pokemon-go-ultra-league-on-vivo-v27-pro-drfone-by-drfone-virtual-android/"><u>In 2024, The Most Useful Tips for Pokemon Go Ultra League On Vivo V27 Pro | Dr.fone</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-fade-in-fade-out-exploring-two-essential-audio-techniques-in-final-cut-pro-for-2024/"><u>New Fade In, Fade Out Exploring Two Essential Audio Techniques in Final Cut Pro for 2024</u></a></li>
+<li><a href="https://solve-popular.techidaily.com/restoring-default-configuration-a-guide-to-reinitializing-your-windows-vga-drivers-expert-tips-by-techgenius/"><u>Restoring Default Configuration: A Guide to Reinitializing Your Windows VGA Drivers - Expert Tips by TechGenius</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/smb-video-marketing-success-factors-for-2024/"><u>SMB Video Marketing Success Factors for 2024</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/sonic-exploration-sonys-aural-leap-forward/"><u>Sonic Exploration: Sony's Aural Leap Forward</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/to-use-or-not-to-use-local-llm-heres-why/"><u>To Use or Not to Use Local LLM? Here's Why</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/unleash-creativity-unlimited-samples-of-50-youtube-banners-for-free-in-2024/"><u>Unleash Creativity Unlimited Samples of 50 YouTube Banners for Free, In 2024</u></a></li>
 </ul></div>
 

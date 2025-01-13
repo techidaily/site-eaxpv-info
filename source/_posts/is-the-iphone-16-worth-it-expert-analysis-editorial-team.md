@@ -1,7 +1,7 @@
 ---
 title: Is the iPhone 16 Worth It? Expert Analysis Editorial Team
-date: 2025-01-01T22:33:24.178Z
-updated: 2025-01-06T20:11:58.512Z
+date: 2025-01-11T18:41:45.159Z
+updated: 2025-01-13T16:30:33.921Z
 tags:
   - apple
 categories:
@@ -30,13 +30,13 @@ Here are the top reasons why we are (or aren't) upgrading to the iPhone 16 in th
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Here's why ZDNET editors will be upgrading to the iPhone 16
 
 Kerry Wan/ZDNET
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 1\. The camera
 
@@ -49,10 +49,6 @@ The Camera Control uses [Apple's Visual Intelligence](https://www.zdnet.com/arti
 **Also:** [**I want to be excited about the iPhone 16's new camera button, but can't (for now)**](https://www.zdnet.com/article/i-want-to-be-excited-about-the-iphone-16s-new-camera-button-but-cant-for-now/)
 
 "I have the biggest one-sided beef in the world with the iPhone 14\. I can give you material for years. Primarily because the camera is the worst thing I ever experienced on an iPhone. Even the base iPhone 16 model looks way better," Ortiz says.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 2\. Trade-in deals and carrier offers
 
@@ -67,7 +63,7 @@ And if you're looking to change carriers, like managing editor Alison DeNisco Ra
 Verizon and T-Mobile have [similar offers](https://www.zdnet.com/article/how-to-preorder-the-new-iphone-16-and-get-one-free/) right now, and they're pretty sweet. At T-Mobile, new and existing customers can get a free iPhone 16 Pro with a trade-in on the Go5G Next plan, or up to $1,000 off on any iPhone 16 model. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 3\. For work
@@ -92,13 +88,13 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 ZDNET's Jason Perlow is bumping up for similar reasons. "I am upgrading from my 15 Pro Max to a 16 Pro Max because I am on the iPhone Upgrade Program, and as I cover developments with Apple, it is a business expense and \[ultimately\] it's trading one loan payment for another. No other reason, although the camera improvements seem nice. I debated skipping, but there wasn't much of a downside," he says. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Here's why ZDNET editors won't be upgrading to the iPhone 16
 
 Jason Hiner/ZDNET
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 1\. The Apple Intelligence features aren't perfect
 
@@ -111,7 +107,7 @@ Essentially, this is Apple's first iPhone marketed with an AI push, and like eve
 Jason Perlow is on the same page. "Let's not diminish the product for what it is: the iPhone 16 is undeniably great hardware. But unless you're using a old phone -- like my colleague [David Gewirtz's iPhone 12](https://www.zdnet.com/article/6-reasons-why-ios-18-makes-the-iphone-16-a-must-upgrade-for-me/), which is four generations behind -- you should strongly consider skipping this generation. Why? Because Apple Intelligence, while promising, is still in its infancy," Perlow wrote in one of his [recent pieces](https://www.zdnet.com/article/the-iphone-16-is-undeniably-great-hardware-but-you-should-still-probably-skip-it/). 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 2\. Not compelled enough to upgrade
@@ -121,6 +117,10 @@ As reviews editor Kyle Kucharski says, it's never a good idea to blindly update 
 **Also: [The 7 best iOS 18 features that will make updating your iPhone worthwhile](https://www.zdnet.com/article/the-7-best-ios-18-features-that-will-make-updating-your-iphone-worthwhile/)**
 
 Staff writer Maria Diaz thinks the same. "I have the iPhone 14 Pro Max and am still happy with it. It performs just as well as when I got it. I wish the camera were better (but the BlackMagic app helps a lot with this) and I would like the convenience of a USB-C port, but it's still working well enough that I don't feel compelled at all to get an iPhone 16\. I'm holding out for next year, at least," Diaz says. Kucharski is on the same page. "I still have the 12, and the bottom line: it still works fine," he says. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 3\. Expense and hassle
 
@@ -168,22 +168,20 @@ The [iPhone 16 Pro](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&pa
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-11-free-youtube-playlist-downloadersonlinepcandroidios/"><u>[New] 2024 Approved 11 FREE YouTube Playlist Downloaders[Online/PC/Android/iOS)</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-generating-wealth-with-makeup-channels/"><u>[New] 2024 Approved Generating Wealth with Makeup Channels</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-swiftly-excise-your-youtube-comment-spam/"><u>[New] 2024 Approved How to Swiftly Excise Your Youtube Comment Spam</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-fifa-visuals-key-youtube-video-trends/"><u>[New] In 2024, FIFA Visuals Key YouTube Video Trends</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-embed-a-youtube-playlist-on-a-website/"><u>[New] In 2024, How To Embed A YouTube Playlist On a Website</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-frequent-uploads-can-skyro-cookie-sales-on-your-youtube-channel/"><u>[Updated] 2024 Approved How Frequent Uploads Can Skyro Cookie Sales on Your YouTube Channel</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-fast-track-channel-growth-to-partner-status-aim-for-10000-views/"><u>[Updated] In 2024, Fast-Track Channel Growth to Partner Status – Aim for 10,000 Views</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-filmora-tutorials-simple-steps-to-a-dynamic-youtube-subscribe-button/"><u>[Updated] In 2024, Filmora Tutorials Simple Steps to a Dynamic YouTube Subscribe Button</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-highhurdle-slowmomenttape/"><u>[Updated] In 2024, HighHurdle SlowMomentTape</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/approved-from-childhood-to-cash-flow-young-kajis-youtube-economic-surge/"><u>2024 Approved From Childhood to Cash Flow Young Kaji’s YouTube Economic Surge</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/breezing-through-apex-no-downtime-now/"><u>Breezing Through Apex: No Downtime Now!</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/debunking-ai-myths-inadequate-cryptocurrency-expertise/"><u>Debunking AI Myths: Inadequate Cryptocurrency Expertise</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/expert-opinion-on-the-google-pixel-5-affordable-elite-experience-unveiled/"><u>Expert Opinion on the Google Pixel 5: Affordable Elite Experience Unveiled</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/how-to-factory-unlock-your-telstra-iphone-11-pro-max-by-drfone-ios/"><u>How To Factory Unlock Your Telstra iPhone 11 Pro Max</u></a></li>
-<li><a href="https://fox-http.techidaily.com/in-2024-the-top-picks-for-hd-video-playback-on-your-android-device/"><u>In 2024, The Top Picks for HD Video Playback on Your Android Device</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/in-2024-weaving-music-threads-of-youtube-in-videos/"><u>In 2024, Weaving Music Threads of YouTube in Videos</u></a></li>
-<li><a href="https://video-capture.techidaily.com/screen-capture-showdown-is-obs-superior-to-twitch-studio-for-2024/"><u>Screen Capture Showdown Is OBS Superior to Twitch Studio for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-eye-catching-youtube-most-followed-channels/"><u>[New] 2024 Approved Eye-Catching YouTube Most Followed Channels</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-filmora-tutorials-simple-steps-to-a-dynamic-youtube-subscribe-button/"><u>[New] 2024 Approved Filmora Tutorials Simple Steps to a Dynamic YouTube Subscribe Button</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-add-video-to-text-for-free/"><u>[New] 2024 Approved How to Add Video to Text for Free</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-run-a-sports-youtube-chain-on-macos/"><u>[New] 2024 Approved How to Run a Sports YouTube Chain on MacOS</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-flavorful-friends-top-gastronomy-guides-online/"><u>[New] In 2024, Flavorful Friends Top Gastronomy Guides Online</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-get-started-signing-up-for-a-youtube-channel/"><u>[New] In 2024, How to Get Started Signing Up for a YouTube Channel</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-becoming-a-billionaire-on-the-blockchain-non-ad-profits-on-youtube-for-2024/"><u>[Updated] Becoming a Billionaire on the Blockchain Non-Ad Profits on YouTube for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-font-selection-wonders-enhancing-youtube-video-thumbnails/"><u>[Updated] In 2024, Font Selection Wonders Enhancing YouTube Video Thumbnails</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-block-youtube-ads-on-chromefirefoxandroidiphone/"><u>[Updated] In 2024, How to Block YouTube Ads on Chrome/Firefox/Android/iPhone</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-ultimate-10-best-apps-for-real-time-soccer-and-match-broadcasting/"><u>[Updated] Ultimate 10 Best Apps for Real-Time Soccer and Match Broadcasting</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/conjuring-chrono-displacement-with-digital-magic-for-2024/"><u>Conjuring Chrono-Displacement with Digital Magic for 2024</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/creators-uniting-for-marvels-digital-future-for-2024/"><u>Creators Uniting for Marvel's Digital Future for 2024</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/dissecting-godfall-for-playstation-5-the-promising-debut-that-ends-in-narrative-confusion/"><u>Dissecting Godfall for PlayStation 5 - The Promising Debut that Ends in Narrative Confusion</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ifying-causes-for-disappearing-youtube-shorts-thumbnails/"><u>Identifying Causes for Disappearing YouTube Shorts Thumbnails</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/ultimate-karaoke-experience-add-69-new-hits-to-your-party-tyme-playlist-start-your-monthly-subscription/"><u>Ultimate Karaoke Experience: Add 69 New Hits to Your Party Tyme Playlist - Start Your Monthly Subscription!</u></a></li>
 </ul></div>
 

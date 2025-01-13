@@ -1,7 +1,7 @@
 ---
 title: "IPad's Latest Calculator App: So Sophisticated, You'll Want the Apple Pencil – Discover How"
-date: 2025-01-04T02:19:08.841Z
-updated: 2025-01-06T19:50:00.890Z
+date: 2025-01-07T18:13:28.596Z
+updated: 2025-01-13T19:19:43.499Z
 tags:
   - apple
 categories:
@@ -23,7 +23,7 @@ Adrian Kingsley-Hughes/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -43,7 +43,7 @@ What I really need is a dedicated travel kit for charging my gadgets, which incl
 [ZDNET RECOMMENDS ESR 3-in-1 Qi2 wireless travel charger This set is built for the road, and the foldable, compact design and included travel bag means it easily slips into a backpack or suitcase. View at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FESR-Charging-Station-Certified-Multiple%2Fdp%2FB0CW2J9XB8%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cd405c3b3-9fde-429f-ae82-f128bd45456e%7Cdtp&dtb=1)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ESR 3-in-1 wireless travel charger features
@@ -82,7 +82,7 @@ In fact, it's the perfect kit for someone who is all-in with Apple gear.
 I've carried out all my usual tests on this charger, including safety tests and thermal checks, and it passed all of them with flying colors, which I would expect from a company such as ESR, which has a track record for making excellent charging tools.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -121,21 +121,18 @@ One of the standout features is the carry case, which has designated spots for e
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-final-goodbye-to-youtubes-minis-a-step-by-step-process/"><u>[New] 2024 Approved Final Goodbye to YouTube's Minis A Step-by-Step Process</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-from-penniless-to-partnered-a-small-channels-journey-for-2024/"><u>[New] From Penniless to Partnered A Small Channel's Journey for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-game-modders-and-tutorial-content-leaders-for-2024/"><u>[New] Game Modders & Tutorial Content Leaders for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-giggles-guidebook-planning-7-funny-video-frameworks-for-2024/"><u>[New] Giggles Guidebook Planning 7 Funny Video Frameworks for 2024</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/n-2024-effective-color-difference-filters-in-film-making/"><u>[New] In 2024, Effective Color Difference Filters in Film-Making</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-funny-flicks-compilation-of-chuckle-inducing-short-youtube-videos/"><u>[New] In 2024, Funny Flicks Compilation of Chuckle-Inducing Short YouTube Videos</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-start-a-successful-youtube-gaming-channel/"><u>[New] In 2024, How to Start a Successful YouTube Gaming Channel</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/rime-8-edits-suites-on-linux-os-for-2024/"><u>[New] Prime 8 Edits Suites on Linux OS for 2024</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-unlocking-the-secrets-of-successful-igtv-posts/"><u>[New] Unlocking the Secrets of Successful IGTV Posts</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-make-fortnite-thumbnail-for-free-and-easy/"><u>[Updated] 2024 Approved How to Make Fortnite Thumbnail for Free and Easy</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-mirrorless-evolution-overshadowing-traditional-dslr-videography/"><u>[Updated] In 2024, Mirrorless Evolution Overshadowing Traditional DSLR Videography</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/1723004505445-how-to-boost-your-utorrent-download-speeds-expert-tips/"><u>How to Boost Your uTorrent Download Speeds - Expert Tips</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-samsung-galaxy-a14-5g-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Samsung Galaxy A14 5G to Samsung Phone | Dr.fone</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-uplifting-movies-a-top-10-list-of-inspiration/"><u>In 2024, Uplifting Movies A Top 10 List of Inspiration</u></a></li>
-<li><a href="https://facebook.techidaily.com/unveiling-facebooks-latest-social-space-design/"><u>Unveiling Facebook's Latest Social Space Design</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/windows-file-glance-fast-assessment-technique/"><u>Window's File Glance Fast Assessment Technique</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-free-youtube-revenue-predictor-tools/"><u>[New] In 2024, Free YouTube Revenue Predictor Tools</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-in-2024-narratives-before-night-an-analysis-of-storytelling-videos/"><u>[New] In 2024, Narratives Before Night An Analysis of Storytelling Videos</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-fresh-funds-finds-economical-monetization-platforms-for-beginners/"><u>[Updated] 2024 Approved Fresh Funds Finds Economical Monetization Platforms for Beginners</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-beginners-to-pros-choosing-webcams-for-youtube-live/"><u>[Updated] 2024 Approved From Beginners to Pros Choosing Webcams for YouTube Live</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-setup-a-mac-studio-for-sports-content/"><u>[Updated] In 2024, How to Setup a Mac Studio for Sports Content</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-the-symbiotic-relationship-between-cities-and-ecology/"><u>[Updated] In 2024, The Symbiotic Relationship Between Cities and Ecology</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/approved-youtubes-rapid-rise-top-10-in-a-flash/"><u>2024 Approved Youtube's Rapid Rise Top 10 in a Flash</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/affordable-speedster-compact-sandisk-flash-drive-with-lightning-quick-data-transfer-tech-insight/"><u>Affordable Speedster: Compact SanDisk Flash Drive with Lightning Quick Data Transfer | Tech Insight</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/compact-and-portable-model-0-the-flamingo-pc-case-with-folding-design-for-mini-itx-systems/"><u>Compact & Portable Model 0: The Flamingo PC Case with Folding Design for Mini-ITX Systems</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/dynamic-interactions-key-to-enhancing-page-visibility/"><u>Dynamic Interactions Key to Enhancing Page Visibility</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unlock-entertainment-6-amazing-no-cost-movies-websites-for-kids/"><u>Unlock Entertainment: 6 Amazing No-Cost Movies Websites for Kids</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unraveling-periscopes-mystique-is-it-free-and-how-to-signup-for-2024/"><u>Unraveling Periscope's Mystique Is It Free and How to Signup for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/why-does-my-infinix-smart-7-hd-keep-turning-off-by-itself-6-fixes-are-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Does My Infinix Smart 7 HD Keep Turning Off By Itself? 6 Fixes Are Here | Dr.fone</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "The Sunset of Apple's BNPL Feature: Discovering New Financing Options on the Horizon for Apple Users"
-date: 2024-12-02T21:31:55.771Z
-updated: 2024-12-07T21:53:49.261Z
+date: 2025-01-11T17:33:36.977Z
+updated: 2025-01-13T18:44:26.516Z
 tags:
   - apple
 categories:
@@ -21,7 +21,7 @@ Matthew Miller/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ###  ZDNET's key takeaways
@@ -84,7 +84,7 @@ My biggest challenge now is memorizing all the shortcuts I've created, but the a
 Clicks is available for the two iPhone 14 Pro models and all four models of the iPhone 15\. Availability of the various colors varies, so check back on the website if you don't see the one you want. I would love to hear which shortcuts you created and find the most useful, so leave a comment below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  ZDNET's buying advice
@@ -123,24 +123,20 @@ If you miss the physical keyboard on devices like the Blackberry, this accessory
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-novice-to-money-maker-on-youtube/"><u>[New] In 2024, From Novice to Money-Maker on YouTube</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/kyrocketing-your-presence-on-youtube-with-live-games-for-2024/"><u>[New] Skyrocketing Your Presence on YouTube with Live Games for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-what-are-youtube-tags-and-how-can-you-find-great-tags-for-your-videos-in-2024/"><u>[New] What Are YouTube Tags and How Can You Find Great Tags For Your Videos, In 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-11-fitness-youtube-video-ideas-to-keep-you-and-your-viewers-moving-for-2024/"><u>[Updated] 11 Fitness YouTube Video Ideas to Keep You and Your Viewers Moving for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-end-your-youtube-void-top-10-insights-on-igniting-video-interest/"><u>[Updated] 2024 Approved How To End Your Youtube Void Top 10 Insights on Igniting Video Interest</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-design-youtube-introductory-videos-two-pathways-for-2024/"><u>[Updated] How to Design YouTube Introductory Videos Two Pathways for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-finding-the-perfect-phrases-for-gamers-videos/"><u>[Updated] In 2024, Finding the Perfect Phrases for Gamers' Videos</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-free-and-secure-3-ways-to-extract-youtube-music-content/"><u>[Updated] In 2024, Free and Secure 3 Ways to Extract YouTube Music Content</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-zero-to-hero-steps-to-construct-your-channels-backlinks/"><u>[Updated] In 2024, From Zero to Hero Steps to Construct Your Channel's Backlinks</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-produce-compelling-haul-content-on-a-budget/"><u>[Updated] In 2024, How to Produce Compelling Haul Content on a Budget</u></a></li>
-<li><a href="https://location-fake.techidaily.com/a-detailed-guide-on-faking-your-location-in-mozilla-firefox-on-oppo-k11-5g-drfone-by-drfone-virtual-android/"><u>A Detailed Guide on Faking Your Location in Mozilla Firefox On Oppo K11 5G | Dr.fone</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/a-guide-to-writing-successful-vlogging-scripts/"><u>A Guide to Writing Successful Vlogging Scripts</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/techniques-for-snagging-youtube-songs-and-commentary-for-2024/"><u>Easy Techniques for Snagging YouTube Songs and Commentary for 2024</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/how-to-remove-the-activation-lock-on-your-ipad-and-apple-iphone-6-without-apple-account-by-drfone-ios/"><u>How to Remove the Activation Lock On your iPad and Apple iPhone 6 without Apple Account</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-seamless-facebook-videos-on-browsers-today/"><u>In 2024, Seamless Facebook Videos on Browsers Today</u></a></li>
-<li><a href="https://win-dash.techidaily.com/install-corsairs-top-tier-icue-software-on-windows-1110-download-today/"><u>Install Corsair's Top-Tier iCUE Software on Windows 11/10 - Download Today</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210063477-9781623175733-missing-witches/"><u>Missing Witches | Free Book</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ct-asmr-recording-top-mic-choices-unveiled-for-2024/"><u>Perfect ASMR Recording Top Mic Choices Unveiled for 2024</u></a></li>
-<li><a href="https://solve-helper.techidaily.com/revolutionizing-workflow-with-abbyy-top-picks-and-findings-by-nelsonhall-research-specialists/"><u>Revolutionizing Workflow with ABBYY: Top Picks & Findings by NelsonHall Research Specialists</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-how-to-create-impactful-valorant-thumbnails-a-compreayers-guide-for-2024/"><u>[New] How to Create Impactful Valorant Thumbnails A Compreayer's Guide for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ey-strategies-for-adding-timestamps-in-youtube-content/"><u>[New] Key Strategies for Adding Timestamps in YouTube Content</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-discover-the-joy-of-animated-journeys-youtubes-best-for-everyday-for-2024/"><u>[Updated] Discover the Joy of Animated Journeys YouTube's Best for Everyday for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-fixed-video-short-display-for-you/"><u>[Updated] Fixed Video Short Display for You</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-get-more-viewers-with-social-media-marketing-for-youtube-for-2024/"><u>[Updated] Get More Viewers with Social Media Marketing for YouTube for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-instagrams-sequential-visual-showcase/"><u>[Updated] In 2024, Instagram's Sequential Visual Showcase</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-income-maximizing-techno-gaming-tactics/"><u>[Updated] Income Maximizing Techno-Gaming Tactics</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-sharpen-content-edge-with-studios-advanced-features/"><u>[Updated] Sharpen Content Edge with Studio's Advanced Features</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatgpt-your-blueprint-for-effective-professional-practice/"><u>ChatGPT: Your Blueprint for Effective Professional Practice</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-your-logitech-audio-drivers-here-supported-for-windows-10-7-and-8-systems/"><u>Get Your Logitech Audio Drivers Here – Supported for Windows 10, 7 and 8 Systems</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-oneplus-nord-ce-3-5g-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from OnePlus Nord CE 3 5G to Other Android Devices? | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-all-you-need-to-know-about-mega-greninja-for-realme-12plus-5g-drfone-by-drfone-virtual-android/"><u>In 2024, All You Need To Know About Mega Greninja For Realme 12+ 5G | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-techniques-solving-naraka-point-aeons-game-latency-problems/"><u>Troubleshooting Techniques: Solving Naraka Point Aeon's Game Latency Problems</u></a></li>
+<li><a href="https://location-social.techidaily.com/why-your-whatsapp-live-location-is-not-updating-and-how-to-fix-on-your-apple-iphone-6-drfone-by-drfone-virtual-ios/"><u>Why Your WhatsApp Live Location is Not Updating and How to Fix on your Apple iPhone 6 | Dr.fone</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/your-journey-through-the-maze-of-uploading-videos-on-youtube-for-2024/"><u>Your Journey Through the Maze of Uploading Videos on YouTube for 2024</u></a></li>
 </ul></div>
 

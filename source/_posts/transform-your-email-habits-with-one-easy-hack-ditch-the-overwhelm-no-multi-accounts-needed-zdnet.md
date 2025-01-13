@@ -1,7 +1,7 @@
 ---
 title: Transform Your Email Habits with One Easy Hack - Ditch the Overwhelm, No Multi-Accounts Needed | ZDNET
-date: 2024-12-05T22:48:56.594Z
-updated: 2024-12-08T00:46:49.989Z
+date: 2025-01-09T19:52:24.018Z
+updated: 2025-01-13T17:12:22.658Z
 tags:
   - apple
 categories:
@@ -33,7 +33,7 @@ It all works thanks to _aliases,_ a feature that's built into most modern email 
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The magic of email aliases
@@ -65,7 +65,7 @@ Don't confuse aliases with forwarded accounts, which allow you to send and recei
 The following instructions apply to personal accounts you manage yourself. If you have a commercial email account (through Microsoft 365 or Google Workspace, for example), you can have aliases for your account using your organization's custom domain, but you'll need an administrator's help to set up those aliases.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to create an alias using Gmail
@@ -77,7 +77,7 @@ Although it's the world's most popular email service, Gmail's implementation of 
 The problem with this sort of alias is that it doesn't keep an unscrupulous sender from seeing your primary address, so be cautious when using it with untrusted correspondents.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to create an alias using Outlook.com
@@ -91,7 +91,7 @@ To get started, go to <https://account.microsoft.com>, sign in with your Microso
 You can add new aliases at any time (up to the limit of 10) or remove an existing alias from the Account Aliases page described earlier.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to create an alias using your Apple ID
@@ -105,7 +105,7 @@ The one catch is that each alias uses an auto-generated name that can be less th
 To create an iCloud alias on an iOS device, open Settings, tap your account name, then tap iCloud > Hide My Email. (On a MacBook, use the Apple menu to open System Settings, where you'll find the Hide My Email option.) Tap Create New Address and follow the prompts to add a label and an optional note. Use the Forward To button to select where you want to receive email sent to that alias.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Other alias options
@@ -146,24 +146,17 @@ You can also use privacy add-ins that include email-masking features. [NordPass 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-2024-approved-from-jarring-cuts-to-elegant-edits-unlocking-inshots-transition-secrets/"><u>[New] 2024 Approved From Jarring Cuts to Elegant Edits Unlocking Inshot's Transition Secrets</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-make-money-on-youtube/"><u>[New] 2024 Approved How To Make Money on YouTube</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-financial-magnitude-in-mr-beasts-realm-for-2024/"><u>[New] Financial Magnitude in Mr. Beast's Realm for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-binge-worthy-music-reaction-videos-on-youtube/"><u>[New] In 2024, How to Binge-Worthy Music Reaction Videos on YouTube</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/n-2024-vloggers-guide-to-choosing-camera-essentials-the-top-9-accessories/"><u>[New] In 2024, Vloggers' Guide to Choosing Camera Essentials - The Top 9 Accessories</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-the-creators-guide-to-the-top-9-affordable-video-editing-apps/"><u>[New] The Creator's Guide to the Top 9 Affordable Video Editing Apps</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-fresh-footage-frequent-flows-dos-and-donts-for-streamlining-video-content/"><u>[Updated] 2024 Approved Fresh Footage, Frequent Flows Do's & Don'ts for Streamlining Video Content</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-double-down-on-your-youtube-success-in-a-month/"><u>[Updated] 2024 Approved How to Double Down on Your YouTube Success in a Month</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-make-good-youtube-banner-dos-and-donts/"><u>[Updated] 2024 Approved How To Make Good YouTube Banner - Dos and Don’ts</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-quickly-clip-and-save-your-favorite-youtube-sections/"><u>[Updated] 2024 Approved How to Quickly Clip and Save Your Favorite YouTube Sections</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-google-account-integration-for-private-youtube-video-sharing-for-2024/"><u>[Updated] Google Account Integration for Private YouTube Video Sharing for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-size-your-videos-youtubes-best-practices-unveiled/"><u>[Updated] In 2024, How to Size Your Videos YouTube's Best Practices Unveiled</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-removing-borders-quick-and-effective-image-retouch-methods/"><u>2024 Approved Removing Borders Quick & Effective Image Retouch Methods</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/2024-approved-the-complete-lowdown-on-using-showmores-recorder/"><u>2024 Approved The Complete Lowdown on Using ShowMore's Recorder</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/expert-advice-5-proven-methods-to-document-minecraft-on-apple-devices-for-2024/"><u>Expert Advice 5 Proven Methods to Document Minecraft on Apple Devices for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/expert-advice-on-creating-impactful-hdr-portraits/"><u>Expert Advice on Creating Impactful HDR Portraits</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-fix-unfortunately-contacts-has-stopped-error-on-xiaomi-redmi-a2-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Unfortunately, Contacts Has Stopped Error on Xiaomi Redmi A2 | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-solved-move-from-vivo-y78-5g-to-ios-not-working-problems-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Solved Move from Vivo Y78 5G to iOS not Working Problems | Dr.fone</u></a></li>
-<li><a href="https://extra-support.techidaily.com/optimal-zero-dollar-valorant-sound-manipulator-alert-for-2024/"><u>Optimal Zero Dollar Valorant Sound Manipulator Alert for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-unlocking-webcam-potential-in-modern-tech/"><u>[New] In 2024, Unlocking Webcam Potential in Modern Tech</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-juggling-jargons-an-experts-guide-to-multiple-youtube-views/"><u>[New] Juggling Jargons An Expert's Guide to Multiple YouTube Views</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-perfecting-your-pics-for-maximum-youtube-views/"><u>[New] Perfecting Your Pics for Maximum YouTube Views</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-transform-your-imagery-with-ar-and-accessible-luts-for-2024/"><u>[New] Transform Your Imagery with AR & Accessible LUTs for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-beginners-guide-to-budget-friendly-webinars-using-youtube/"><u>[Updated] 2024 Approved Beginner's Guide to Budget-Friendly Webinars Using YouTube</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-simplified-customization-for-your-youtube-channel-url/"><u>[Updated] Simplified Customization for Your YouTube Channel URL</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-youtube-loop-mastery-unlock-the-art-of-endless-viewing/"><u>[Updated] YouTube Loop Mastery Unlock the Art of Endless Viewing</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-top-8-free-sites-for-accessing-3d-text-psd-images/"><u>2024 Approved Top 8 Free Sites for Accessing 3D Text PSD Images</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-factory-unlock-your-telstra-apple-iphone-se-by-drfone-ios/"><u>How To Factory Unlock Your Telstra Apple iPhone SE</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-recover-from-the-infamous-502-error-on-your-website/"><u>How to Recover From the Infamous 502 Error on Your Website</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/solving-upgrade-option-not-accessible-error-on-windows-10-a-comprehensive-guide/"><u>Solving 'Upgrade Option Not Accessible' Error on Windows 10: A Comprehensive Guide</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/the-essential-guide-to-speedy-windows-inspecting/"><u>The Essential Guide to Speedy Windows Inspecting</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Exciting Update for iOS Coders! Major AI Upgrade Now Available at No Cost on Popular Programming Platforms | ZDNET
-date: 2025-01-01T02:36:32.708Z
-updated: 2025-01-06T21:19:11.369Z
+date: 2025-01-10T17:10:07.268Z
+updated: 2025-01-13T18:25:29.784Z
 tags:
   - apple
 categories:
@@ -28,6 +28,10 @@ But if you have the M1 MacBook Pro, the question of upgrading becomes a little t
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Specifications
 
 | **M1 MacBook Pro** | **M3 MacBook Pro**                                                                                                     |                                                                                                                        |
@@ -50,10 +54,6 @@ But if you have the M1 MacBook Pro, the question of upgrading becomes a little t
 
 Jason Cipriani/ZDNET
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ###  1\. You need more battery life
 
 While you might expect the newest device to have the [better battery life](https://www.zdnet.com/article/how-to-make-your-macbook-battery-last-all-day/), the extra processing power does take a toll. In terms of pure battery life, the M1 beats the M3 by a decent margin. For general use, the M1 has up to 17 hours while the M3 only makes it to 12\. Solely on streaming, the gap lessens a little at 20 hours compared to 18\. 
@@ -61,10 +61,6 @@ While you might expect the newest device to have the [better battery life](https
 **Also: [MacBook Pro vs MacBook Air: How to decide which Apple laptop to buy](https://www.zdnet.com/article/macbook-air-vs-macbook-pro-how-to-decide-which-apple-laptop-to-buy/)**
 
 Now, it's worth noting that most people do use their MacBooks plugged in, and going more than half a day without access to an outlet is pretty rare. But, in the event that you often find yourself in situations where a power supply isn't readily available and you work very long days, the M1 should be your choice. This is, of course, by Apple's numbers.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ###  2\. You're doing mostly web-based work or don't need the absolute fastest option
 
@@ -83,7 +79,7 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ###  3\. You prefer a smaller overall size and touch bar
@@ -93,7 +89,7 @@ The M1 and M2 versions of the MacBook Pro had a 13-inch option, but that choice 
 [Buy the M1 MacBook Pro View now at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FApple-MacBook-14-inch-10%E2%80%91core-16%E2%80%91core%2Fdp%2FB09JQWSQK7%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C545604e4-c461-4ca6-b9d9-7557b5a9d949%7Cdtp&dtb=1)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  You should buy the M3 MacBook Pro if...
@@ -105,6 +101,10 @@ Jason Hiner/ZDNET
 ###  1\. You're working outside or in other very bright environments
 
 One of the biggest differences between the M1 and the M3 is the overall brightness. For SDR content, the M1 tops out at 500 nits while the M3 triples that with 1,600 nits. In a standard office environment, the former would be just fine. But in a sunny outdoor environment or a very bright indoor setting, this is going to be a noticeable difference. There are some third-party apps that let you increase the screen brightness of the M1, but if you want the best brightness, you'll need to get the newest device.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ###  2\. You're doing very intensive or time-sensitive tasks
 
@@ -121,7 +121,7 @@ It's been almost three years since Apple launched its M1-powered systems, so the
 [Buy the MacBook Pro M3 View now at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FApple-MacBook-Laptop-8%E2%80%91core-10%E2%80%91core%2Fdp%2FB0CM5KC8X7%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C545604e4-c461-4ca6-b9d9-7557b5a9d949%7Cdtp&dtb=1)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Alternatives to consider
@@ -158,22 +158,15 @@ It's been almost three years since Apple launched its M1-powered systems, so the
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-engage-audiences-flawlessly-with-live-screenshares-for-2024/"><u>[New] Engage Audiences Flawlessly with Live Screenshares for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-free-7-best-apps-to-go-live-on-youtube-from-iphone-or-android-for-2024/"><u>[New] FREE 7 Best Apps to Go Live on YouTube From iPhone or Android for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-free-tools-and-tricks-creating-compelling-youtube-video-ads/"><u>[New] In 2024, Free Tools and Tricks Creating Compelling YouTube Video Ads</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-captivate-and-expand-your-online-following-with-viral-youtube-shorts/"><u>[New] In 2024, How to Captivate and Expand Your Online Following with Viral YouTube Shorts</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-navigating-the-invisible-aspects-of-social-media-success/"><u>[New] Navigating the Invisible Aspects of Social Media Success</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-photos-to-feeds-selecting-the-best-9-gear-upgrades/"><u>[Updated] 2024 Approved From Photos to Feeds Selecting the Best 9 Gear Upgrades</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-future-of-cosmetics-youtube-gurus-on-the-rise/"><u>[Updated] 2024 Approved Future of Cosmetics YouTube Gurus on the Rise</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-guiding-you-through-youtubes-security-settings-for-2024/"><u>[Updated] Guiding You Through YouTube's Security Settings for 2024</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-how-to-create-insta-highlight-cover-photos-a-complete-guide-for-2024/"><u>[Updated] How to Create Insta Highlight Cover Photos A Complete Guide for 2024</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-experts-choice-best-practices-for-vimeo-video-download/"><u>[Updated] In 2024, Expert's Choice Best Practices for Vimeo Video Download</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-script-to-screen-building-a-youtube-trailer-in-filmora/"><u>[Updated] In 2024, From Script to Screen Building a YouTube Trailer in Filmora</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-enhance-clarity-of-online-video-content/"><u>[Updated] In 2024, How to Enhance Clarity of Online Video Content</u></a></li>
-<li><a href="https://win-bytes.techidaily.com/beatsource-masterclass-crafting-perfect-party-mixes-with-curated-playlists/"><u>BeatSource Masterclass: Crafting Perfect Party Mixes with Curated Playlists</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/easy-steps-on-how-to-create-a-new-apple-id-account-on-apple-iphone-12-mini-by-drfone-ios/"><u>Easy Steps on How To Create a New Apple ID Account On Apple iPhone 12 mini</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/essential-routines-for-easy-webinar-saves-on-windows-platform-for-2024/"><u>Essential Routines for Easy Webinar Saves on Windows Platform for 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/optimiser-handbrake-les-parametres-parfaits-pour-la-qualite-constante-lors-de-lencodage-de-dvd-blu-ray-et-contenus-en-4k/"><u>Optimiser HandBrake: Les Paramètres Parfaits Pour La Qualité Constante Lors De L'encodage De DVD, Blu-Ray Et Contenus en 4K</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/unpacking-the-sequencing-of-a-20mb-file-for-2024/"><u>Unpacking the Sequencing of a 20MB File for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-force-youtube-cc-to-stay-on-and-get-more-views/"><u>[New] 2024 Approved How to Force YouTube CC to Stay On and Get More Views</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-digital-discussion-documentary/"><u>[New] In 2024, Digital Discussion Documentary</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/new-tiktoks-top-10-game-streaming-stars/"><u>[New] TikTok's Top 10 Game Streaming Stars</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-unlock-youtubes-best-viewing-experience-with-ratios/"><u>[New] Unlock YouTube's Best Viewing Experience with Ratios</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-enhance-your-videos-effective-titles-and-keywords-on-youtube-for-2024/"><u>[Updated] Enhance Your Videos Effective Titles and Keywords on YouTube for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/2024-approved-video-earnings-explored-in-depth-look-at-dm-and-yo/"><u>2024 Approved Video Earnings Explored In-Depth Look at Dm & Yo</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/expert-opinion-on-slomo-recording-softwares-latest-version/"><u>Expert Opinion on SloMo Recording Software's Latest Version</u></a></li>
+<li><a href="https://network-issues.techidaily.com/ignite-wifi-speeds-on-windows-xp7-networks/"><u>Ignite WiFi Speeds on Windows XP/7 Networks</u></a></li>
+<li><a href="https://techtrends.techidaily.com/resolving-the-opengl32dll-error-a-comprehensive-guide/"><u>Resolving the OpenGL32.dll Error: A Comprehensive Guide</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/tiktok-profile-boost-smartly-insert-linktree-into-about-section/"><u>TikTok Profile Boost Smartly Insert Linktree Into About Section</u></a></li>
 </ul></div>
 

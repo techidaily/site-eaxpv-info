@@ -1,7 +1,7 @@
 ---
 title: Explore Apple's Innovation Showcase with Enhanced Pencil and Next-Gen Tablets at the 'Let Loose' Release
-date: 2025-01-01T06:51:56.810Z
-updated: 2025-01-06T22:02:43.552Z
+date: 2025-01-08T19:00:59.880Z
+updated: 2025-01-13T17:11:02.669Z
 tags:
   - apple
 categories:
@@ -27,7 +27,7 @@ Tim Cook kicked off the event by speaking about how the Apple Vision Pro has bee
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Everything announced at Apple's 'Let Loose' event
@@ -37,7 +37,7 @@ Apple's "Let Loose" was a virtual product launch event that took place on May 7,
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. iPad Pro, now with OLED displays and M4
@@ -59,6 +59,10 @@ Apple
 Like previous generations, Apple is making the latest iPad Pro available in 11-inch and 13-inch sizes. This iPad Pro is the thinnest Apple product ever, the company says. The 11-inch model is 5.3mm thick, while the 13-inch model is 5.1mm thick, making it thinner than even the iPod Nano.
 
 The iPad Pro starts at $999 for the 11-inch model and $1,299 for the 13-inch model. It's available in Silver and Space Black, with storage sizes ranging from 256GB to 2TB. You can [available to preorder now](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-ipad%2Fipad-pro&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp), with orders shipping next week.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. iPad Air gets a new, larger size
 
@@ -92,10 +96,6 @@ Apple
 
 The Apple Pencil Pro costs $129 and supports Apple's Find My service, letting you track the location of the accessory should you drop or misplace it. You can purchase the [Apple Pencil Pro](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fproduct%2FMX2D3AM%2FA%2Fapple-pencil-pro&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) today, and it will start shipping next week.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4\. Magic Keyboard
 
 Apple
@@ -107,7 +107,7 @@ The iPad event also included a new, more durable Magic Keyboard, featuring a lar
 Although Apple is hosting its [Worldwide Developers Conference (WWDC)](https://www.zdnet.com/article/apple-confirms-wwdc-2024-for-june-10-will-ai-steal-the-show/) on June 10, that event is reserved for new iOS, iPadOS, visionOS, and macOS announcements, plus Apple's new AI strategy. The Let Loose event was focused on the latest hardware offerings, with the [OLED iPad Pro](https://www.zdnet.com/article/7-ipad-pro-features-that-would-make-me-instantly-upgrade-to-apples-next-model/) being the main star.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Did the Let Loose event cover iPadOS 17.5 or iPadOS 18?
@@ -123,7 +123,7 @@ Logic Pro 2 introduces Session Players, an AI-created Bass and Keyboard player a
 iOS 17.5 doesn't have many exciting new features outside of the European Union, where iPhone users can now [download apps directly from websites](https://www.zdnet.com/article/apple-to-let-eu-users-download-apps-from-the-web-with-ios-17-5-beta-2-how-it-works/). The new devices are expected to ship with iPadOS 17.5, but these features are available for iPadOS 17.4.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How do I watch Apple's Let Loose event?
@@ -160,22 +160,20 @@ The Apple Let Loose event was a pre-recorded video but is still available for st
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-views-to-valuables-the-ultimate-video-income-play/"><u>[New] 2024 Approved From Views to Valuables The Ultimate Video Income Play</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-fifa-highlights-and-trends-charting-on-youtube-for-2024/"><u>[New] FIFA Highlights & Trends Charting on YouTube for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-gaining-traction-effective-seo-techniques-for-youtube-videos-for-2024/"><u>[New] Gaining Traction Effective SEO Techniques for YouTube Videos for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-raw-to-refined-tailoring-youtube-videos-with-premiere-pro/"><u>[New] In 2024, From Raw to Refined Tailoring YouTube Videos with Premiere Pro</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-frosty-yet-warm-choosing-the-best-winter-backdrops/"><u>[New] In 2024, Frosty Yet Warm Choosing the Best Winter Backdrops</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-get-hd-quality-quickly-enable-av1-in-youtube-settings/"><u>[Updated] 2024 Approved Get HD Quality Quickly Enable AV1 in YouTube Settings</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-2024-approved-navigating-windows-10-like-a-tech-wizard/"><u>[Updated] 2024 Approved Navigating Windows 10 Like a Tech Wizard</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-scripts-to-subscribers-mastering-the-production-of-engaging-educational-videos-for-youtube/"><u>[Updated] In 2024, From Scripts to Subscribers Mastering the Production of Engaging Educational Videos for YouTube</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-giggles-galore-celebrating-the-funniest-web-content-creators/"><u>[Updated] In 2024, Giggles Galore Celebrating the Funniest Web Content Creators</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/approved-youtube-live-excellence-a-comprehensive-tutorial/"><u>2024 Approved YouTube Live Excellence A Comprehensive Tutorial</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/how-to-see-someones-location-on-apple-iphone-14-plus-drfone-by-drfone-virtual-ios/"><u>How to See Someones Location on Apple iPhone 14 Plus | Dr.fone</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/limited-time-deal-get-dex3-before-end-of-month-and-claim-two-premium-karaoke-music-packs-at-no-extra-cost/"><u>Limited Time Deal - Get DEX3 Before End Of Month & Claim Two Premium Karaoke Music Packs at No Extra Cost!</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/movavi-full-video-library-catalog/"><u>Movavi - Full Video Library Catalog</u></a></li>
-<li><a href="https://blog-min.techidaily.com/step-by-step-guide-converting-dailymotion-videos-into-mp4-format-with-free-tools/"><u>Step-by-Step Guide: Converting Dailymotion Videos Into MP4 Format with Free Tools</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/1719335028418-stop-early-window-11-edge-tabs-now/"><u>Stop Early Window 11 Edge Tabs Now</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/top-5-video-editing-tools-compatible-with-windows-7-enhancing-your-media-creations/"><u>Top 5 Video Editing Tools Compatible with Windows 7: Enhancing Your Media Creations</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-your-non-charging-surface-device-issues-and-fixes/"><u>Troubleshooting Your Non-Charging Surface Device - Issues and Fixes</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-handy-tips-downloading-youtube-like-content-via-android/"><u>[New] 2024 Approved Handy Tips Downloading YouTube-Like Content via Android</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-create-and-build-a-youtube-channel-today/"><u>[New] 2024 Approved How to Create and Build A YouTube Channel Today</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-from-device-capture-to-viral-content-youtubes-upload-guide-for-2024/"><u>[New] From Device Capture to Viral Content YouTube's Upload Guide for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-free-end-credits-excellence-top-6-tutorials/"><u>[Updated] 2024 Approved Free End Credits Excellence Top 6 Tutorials</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-frequent-monetization-is-it-real-on-youtube/"><u>[Updated] 2024 Approved Frequent Monetization Is It Real on YouTube?</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-simple-routines-for-capturing-and-saving-vimeo-videos/"><u>[Updated] 2024 Approved Simple Routines for Capturing and Saving Vimeo Videos</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-football-video-analysis-top-youtube-infographics-for-2024/"><u>[Updated] Football Video Analysis Top YouTube Infographics for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-freeze-non-picked-youtube-video-suggestions-for-2024/"><u>[Updated] Freeze Non-Picked YouTube Video Suggestions for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-overcoming-srt-transfer-issues-from-premiere-for-2024/"><u>[Updated] Overcoming SRT Transfer Issues From Premiere for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-ultimate-playbook-a-guide-to-efficiently-posting-srt-files-online/"><u>2024 Approved The Ultimate Playbook A Guide to Efficiently Posting SRT Files Online</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/5pel5pys5byp5yid6kmj6aoplus44kk44gu5bcc6zaa5oof5acx6zug5litic0g5pya6ygp44gq5o6y5ye65pyf6zat44go5a6j5ywo44gr5lplusd566h/"><u>日本式初詣飾りの専門情報集中 - 最適な掲出期間と安全に保管</u></a></li>
+<li><a href="https://win-blog.techidaily.com/complete-guide-to-fixing-the-persistent-pauses-addressing-deathloops-crash-issues-on-ps5-and-pc/"><u>Complete Guide to Fixing the Persistent Pauses: Addressing Deathloop's Crash Issues on PS5 & PC</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/experience-ultimate-wireless-speed-with-netgear-nighthawk-rax120-the-fastest-routers-reviewed/"><u>Experience Ultimate Wireless Speed with Netgear Nighthawk RAX120 - The Fastest Routers Reviewed !</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/free-online-conversion-of-3gp-files-to-wma-movavi/"><u>Free Online Conversion of 3GP Files to WMA - Movavi</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/winning-over-windows-a-guide-to-resolving-shadowplay-recording-errors/"><u>Winning Over Windows: A Guide to Resolving Shadowplay Recording Errors</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Augmented Intelligence at Play: Apple Embraces Change with Siri, Taking Inspiration Cues From Microsoft and Bing Synergy"
-date: 2024-12-31T20:49:53.854Z
-updated: 2025-01-07T03:29:39.633Z
+date: 2025-01-11T17:11:17.587Z
+updated: 2025-01-13T16:11:10.229Z
 tags:
   - apple
 categories:
@@ -45,7 +45,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Hey Siri, let's talk about Microsoft
@@ -77,7 +77,7 @@ Microsoft, on the other hand, is a strong brand -- one that's become both more i
 Meanwhile, Siri connotes the phrase "You cannot be Sirious." 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Hey Siri, say goodbye
@@ -126,17 +126,20 @@ This replacement should have a new name -- Cuper or Cooky anyone? -- that'll mak
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-globes-biggest-video-content-mogul/"><u>[New] 2024 Approved Globe’s Biggest Video Content Mogul</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-going-pro-with-gs-effects-exclusive-free-lessons-from-4-premier-video-channels-for-2024/"><u>[New] Going Pro with GS Effects Exclusive Free Lessons From 4 Premier Video Channels for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-how-to-tackle-missing-thumbnails-on-youtube-shorts-for-2024/"><u>[New] How to Tackle Missing Thumbnails on YouTube Shorts for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-selfies-to-subscribers-jake-pauls-online-odyssey/"><u>[Updated] 2024 Approved From Selfies to Subscribers Jake Paul’s Online Odyssey</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-no-money-no-problem-heres-your-list-of-vfx-pages/"><u>[Updated] No Money, No Problem! Here's Your List of VFX Pages</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-probing-into-youtubes-decision-making-for-prominent-remarks/"><u>[Updated] Probing Into YouTube's Decision-Making for Prominent Remarks</u></a></li>
-<li><a href="https://os-tips.techidaily.com/blur-photos-fast-on-iphone-simple-steps-for-selective-image-privacy/"><u>Blur Photos Fast on iPhone - Simple Steps for Selective Image Privacy</u></a></li>
-<li><a href="https://solve-lab.techidaily.com/converting-and-transferring-encrypted-itunes-video-content-for-use-on-kindle-firestick-and-kobo-devices/"><u>Converting and Transferring Encrypted iTunes Video Content for Use on Kindle Firestick & Kobo Devices</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/elite-methods-to-broadcast-and-record-sporting-events/"><u>Elite Methods to Broadcast and Record Sporting Events</u></a></li>
-<li><a href="https://fake-location.techidaily.com/ispoofer-is-not-working-on-poco-x6-pro-fixed-drfone-by-drfone-virtual-android/"><u>iSpoofer is not working On Poco X6 Pro? Fixed | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/reasons-for-nubia-z50-ultra-stuck-on-boot-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Nubia Z50 Ultra Stuck on Boot Screen and Ways To Fix Them | Dr.fone</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/share-wisdom-top-strategies-for-video-sharing-on-instagram-for-2024/"><u>Share Wisdom Top Strategies for Video Sharing on Instagram for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-craft-channels-with-flair-unveiling-10-innovative-design-platforms/"><u>[New] In 2024, Craft Channels with Flair Unveiling 10 Innovative Design Platforms</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-enhance-branding-the-ultimate-guide-to-custom-urls-for-youtube/"><u>[New] In 2024, Enhance Branding The Ultimate Guide to Custom URLs for YouTube</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-unlock-flawless-selfies-with-these-top-iphone-free-tools/"><u>[New] Unlock Flawless Selfies with These Top iPhone Free Tools</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-achieving-depth-in-indoor-vlogging-lighting/"><u>[Updated] 2024 Approved Achieving Depth in Indoor Vlogging Lighting</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-pro-editor-picks-craft-the-perfect-instagram-reel-masterpiece/"><u>[Updated] 2024 Approved Pro Editor Picks - Craft the Perfect Instagram Reel Masterpiece</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-gratis-design-elements-for-youtube-channel/"><u>[Updated] Gratis Design Elements for YouTube Channel</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-what-are-youtube-tags-and-how-can-you-find-great-tags-for-your-videos/"><u>[Updated] In 2024, What Are YouTube Tags and How Can You Find Great Tags For Your Videos?</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-stand-out-with-a-signature-style-a-guide-to-youtube-branding-mastery/"><u>[Updated] Stand Out with a Signature Style A Guide to YouTube Branding Mastery</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-the-great-livestream-debate-facebook-vs-youtube-live-and-twitter-periscope/"><u>[Updated] The Great Livestream Debate FACEbook Vs. YOUTube Live & Twitter Periscope</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/how-to-post-tweets-on-facebook-for-2024/"><u>How to Post Tweets on Facebook for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-ideal-shops-for-unique-crafted-gift-enclosures/"><u>In 2024, Ideal Shops for Unique, Crafted Gift Enclosures</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/streamlined-qanda-guide-for-attractive-podcasts/"><u>Streamlined Q&A Guide for Attractive Podcasts</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/the-beginners-guide-to-efficient-zoom-meeting-recordings/"><u>The Beginner's Guide to Efficient Zoom Meeting Recordings</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/unlock-the-power-of-filmora-for-effective-avi-to-gif-conversion-for-2024/"><u>Unlock the Power of Filmora for Effective AVI-to-GIF Conversion for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/unveiling-the-iphone-xs-pro-max-in-depth-review-on-benefits-drawbacks-specifications-and-enhancing-your-experience/"><u>Unveiling the iPhone XS (Pro Max): In-Depth Review on Benefits, Drawbacks, Specifications & Enhancing Your Experience</u></a></li>
 </ul></div>
 

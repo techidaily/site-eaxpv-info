@@ -1,7 +1,7 @@
 ---
 title: Energy Efficiency Improvements Across Various Sectors (Industry, Transportation, Buildings) Lower Overall Energy Consumption and Associated Emissions.
-date: 2025-01-04T07:03:41.780Z
-updated: 2025-01-06T16:45:09.453Z
+date: 2025-01-07T17:30:00.047Z
+updated: 2025-01-13T16:46:20.397Z
 tags:
   - apple
 categories:
@@ -38,10 +38,6 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Apple Intelligence (AI)
 
 Maria Diaz/ZDNET
@@ -64,6 +60,10 @@ Maria Diaz/ZDNET
 * In the Notes app, users can **record and transcribe audio**, which Apple Intelligence will generate a text summary of. This experience is also available in the Notes phone app.
 * Apple Intelligence is free on iOS 18, iPadOS 18, and MacOS Sequoia, and will be available to try in English only this summer.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Partnership with OpenAI
 
 Jason Hiner/ZDNET
@@ -71,6 +71,10 @@ Jason Hiner/ZDNET
 * Apple also confirmed its partnership with OpenAI by integrating [ChatGPT](https://www.zdnet.com/article/what-is-chatgpt-and-why-does-it-matter-heres-everything-you-need-to-know/) with Siri. With a user's permission, Siri can send a request to ChatGPT for help. For example, if you ask Siri for assistance on a task it deems better for ChatGPT, Siri will suggest you use the chatbot instead and forward your request. ChatGPT's writing capabilities can also be leveraged within certain writing tasks.
 * Users can access ChatGPT via this integration for free, and OpenAI will not log their data. ChatGPT Plus users can connect their subscriptions to access more advanced features, in which case OpenAI's data usage policies apply.
 * The ChatGPT integration will be coming to iOS 18, iPadOS 18, and MacOS Sequoia later this year.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## iOS 18
 
@@ -91,7 +95,7 @@ Adam Breeden/ZDNET
 * The **Calendar app** can now pull from the Reminders app for a more seamless schedule overview.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## WatchOS 11
@@ -109,7 +113,7 @@ Adam Breeden/ZDNET
 * Another notable change is that the **double tap gesture** can be used to scroll through apps.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## iPadOS 18
@@ -151,7 +155,7 @@ Jason Hiner/ZDNET
 * Apple is also making the Vision Pro available in more countries starting June 28\. You can see the full list [here](https://www.apple.com/newsroom/2024/06/apple-vision-pro-arrives-in-new-countries-and-regions-beginning-june-28/).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## AirPods
@@ -161,10 +165,6 @@ Jason Hiner/ZDNET
 * AirPods Pro are getting **Voice Isolation** to enhance call quality in noisier environments.
 * With the new **Siri Interactions**, users can now **nod or shake their head** "yes" or "no" when responding to Siri.
 * Apple is also releasing a **Personalized Spatial Audio API** for game developers to build around the AirPods' audio technology.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## tvOS 18
 
@@ -210,18 +210,21 @@ Screenshot by Nina Raemont/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-the-ultimate-guide-to-integrating-snap-photos-in-teams/"><u>[New] 2024 Approved The Ultimate Guide to Integrating Snap Photos in Teams</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-football-inscriptions-premier-fifa-youtube-insights-for-2024/"><u>[New] Football Inscriptions Premier FIFA YouTube Insights for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-from-solo-streamer-to-global-content-powerhouse-for-2024/"><u>[New] From Solo Streamer to Global Content Powerhouse for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-gain-profit-power-the-secret-of-successful-youtube-marketing-and-500plus/"><u>[New] In 2024, Gain Profit Power The Secret of Successful Youtube Marketing & 500+</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-gourmet-giants-culinary-stars-you-must-subscribe-to/"><u>[New] In 2024, Gourmet Giants Culinary Stars You Must Subscribe To</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-top-30-drawing-and-sketchpad-apps-for-windows-users-reviewed/"><u>[New] Top 30 Drawing and Sketchpad Apps for Windows Users Reviewed</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-designing-custom-youtube-music-sequences/"><u>[Updated] 2024 Approved Designing Custom YouTube Music Sequences</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-globally-renowned-earning-content-creator/"><u>[Updated] 2024 Approved Globally Renowned Earning Content Creator</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-audio-to-words-on-youtube-a-comprehensible-free-guide/"><u>[Updated] In 2024, From Audio to Words on YouTube A Comprehensible Free Guide</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-mastering-gear-vr-a-comprehensive-phone-compatibility-list-2023/"><u>[Updated] Mastering Gear VR A Comprehensive Phone Compatibility List 2023</u></a></li>
-<li><a href="https://android-location.techidaily.com/3-effective-methods-to-fake-gps-location-on-android-for-your-xiaomi-redmi-a2plus-drfone-by-drfone-virtual/"><u>3 Effective Methods to Fake GPS location on Android For your Xiaomi Redmi A2+ | Dr.fone</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/understanding-ussd-unpacking-the-essentials-of-unstructured-supplementary-service-data/"><u>Understanding USSD: Unpacking the Essentials of Unstructured Supplementary Service Data</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/unveiling-the-huawei-p20-pro-impressive-camera-features-combined-with-a-superior-phone-experience/"><u>Unveiling the Huawei P20 Pro: Impressive Camera Features Combined with a Superior Phone Experience</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-epic-encounters-a-selection-of-supreme-7-total-war-conflicts/"><u>[New] 2024 Approved Epic Encounters A Selection of Supreme 7 Total War Conflicts</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-from-novice-to-pro-youtube-shorts-guide-for-2024/"><u>[New] From Novice to Pro YouTube Shorts Guide for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-webinar-technology-hacks-with-no-financial-cost/"><u>[New] In 2024, Webinar Technology Hacks with No Financial Cost</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-create-youtube-intros-and-end-cards-free-and-easy/"><u>[Updated] 2024 Approved How to Create YouTube Intros & End Cards - Free and Easy</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-mastering-igtv-followers-essential-techniques-to-grow-your-audience/"><u>[Updated] 2024 Approved Mastering IGTV Followers Essential Techniques to Grow Your Audience</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-adobe-premiere-tips-youtube-video-uploads-for-2024/"><u>[Updated] Adobe Premiere Tips YouTube Video Uploads for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-best-budget-edits-8-no-charge-video-editing-software-for-2024/"><u>[Updated] Best Budget Edits 8 No-Charge Video Editing Software for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-from-concept-to-classroom-a-guide-to-creating-engaging-edu-videos-on-youtube-for-2024/"><u>[Updated] From Concept to Classroom A Guide to Creating Engaging Edu-Videos on YouTube for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-getting-started-with-your-new-youtube-premium-account/"><u>[Updated] In 2024, Getting Started with Your New YouTube Premium Account</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/classic-meets-modern-in-the-latest-ratchet-and-clank-overhaul-a-comprehensive-review/"><u>Classic Meets Modern in the Latest Ratchet & Clank Overhaul – A Comprehensive Review</u></a></li>
+<li><a href="https://fake-location.techidaily.com/fixing-foneazy-mockgo-not-working-on-vivo-s18e-drfone-by-drfone-virtual-android/"><u>Fixing Foneazy MockGo Not Working On Vivo S18e | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-fix-geforce-experiences-unable-to-retrieve-settings-error-in-windows-10-and-11/"><u>How to Fix GeForce Experience’s “Unable to Retrieve Settings” Error in Windows 10 & 11</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-flash-dead-tecno-spark-10-4g-safely-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Flash Dead Tecno Spark 10 4G Safely | Dr.fone</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-the-new-era-of-youtube-branding-best-titles-for-video-content-creators-limit-it-to-156-characters/"><u>In 2024, The New Era of YouTube Branding Best Titles for Video Content Creators (Limit It to 156 Characters)</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/tips-for-inserting-captions-in-youtube-videos-for-2024/"><u>Tips for Inserting Captions in YouTube Videos for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/troubleshooting-dark-screens-on-streams/"><u>Troubleshooting Dark Screens on Streams</u></a></li>
 </ul></div>
 

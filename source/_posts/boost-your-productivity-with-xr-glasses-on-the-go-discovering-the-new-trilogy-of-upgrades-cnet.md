@@ -1,7 +1,7 @@
 ---
 title: "Boost Your Productivity with XR Glasses On-the-Go: Discovering the New Trilogy of Upgrades | CNET"
-date: 2025-01-02T02:48:22.011Z
-updated: 2025-01-07T03:04:51.710Z
+date: 2025-01-07T17:15:18.689Z
+updated: 2025-01-13T16:45:33.529Z
 tags:
   - apple
 categories:
@@ -21,7 +21,7 @@ Matthew Miller/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -85,7 +85,7 @@ Along with the [Viture Pro XR glasses](https://buy.geni.us/Proxy.ashx?TSID=36825
 Lastly, Viture announced a new limited-edition controller in partnership with 8BitDo. You can connect this new controller, with a classic XBox-style controller layout, via Bluetooth to your gaming device, including the Nintendo Switch. The smokey translucent design looks cool and matches the Viture ecosystem. The 8BitDo controller also serves as a companion to the Viture Neckband, but I have yet to try out the Neckband, so I cannot share my experiences with that accessory.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -122,21 +122,20 @@ The [Viture Pro XR glasses](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-raw-footage-to-riveting-content-the-ultimate-guide-to-yt-video-edits/"><u>[New] 2024 Approved From Raw Footage to Riveting Content The Ultimate Guide to YT Video Edits</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-football-film-breakdown-premier-insights-on-youtube-for-2024/"><u>[New] Football Film Breakdown Premier Insights on YouTube for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-dorm-room-to-mainstream-trending-short-hashtags/"><u>[New] In 2024, From Dorm Room to Mainstream Trending Short Hashtags</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-game-masters-top-ten-female-gaming-influencers/"><u>[New] In 2024, Game Masters Top Ten Female Gaming Influencers</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-store-complete-online-interface/"><u>[New] Store Complete Online Interface</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-flip-the-script-on-classic-films-7-list/"><u>[Updated] 2024 Approved Flip the Script on Classic Films, #7 List</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-free-audio-treasures-to-amplify-youtube-for-2024/"><u>[Updated] Free Audio Treasures to Amplify YouTube for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-from-phone-ideas-to-online-presence-simple-youtube-channel-creation-tips-for-2024/"><u>[Updated] From Phone Ideas to Online Presence Simple YouTube Channel Creation Tips for 2024</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/2024-approved-advanced-techniques-sending-subtitles-to-instagram-linkedin/"><u>2024 Approved Advanced Techniques Sending Subtitles to Instagram, LinkedIn</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/e-smoothly-incorporate-online-videos-soundtracks/"><u>IMovie Smoothly Incorporate Online Videos' Soundtracks</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/46830741-investing-5-yields-hundreds-of-new-viewers-now/"><u>Investing $5 Yields Hundreds of New Viewers Now!</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/save-money-save-time-the-best-22-audio-crackers-for-youtube-downloads-for-2024/"><u>Save Money, Save Time The Best 22 Audio Crackers for YouTube Downloads for 2024</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/top-15-apps-to-hack-wifi-password-on-poco-x5-by-drfone-android/"><u>Top 15 Apps To Hack WiFi Password On Poco X5</u></a></li>
-<li><a href="https://win-blog.techidaily.com/top-free-collage-template-websites-les-meilleures-options-en-francais/"><u>Top Free Collage Template Websites - Les Meilleures Options en Français</u></a></li>
-<li><a href="https://techtrends.techidaily.com/troubleshooting-and-solutions-for-missing-d3d9dll-files/"><u>Troubleshooting and Solutions for 'Missing' d3d9.dll Files</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/winning-back-gone-data-proven-strategies-for-windows/"><u>Winning Back Gone Data: Proven Strategies for Windows</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-novice-to-vlogger-professional-video-making-on-mobile-devices/"><u>[New] 2024 Approved From Novice to Vlogger Professional Video Making on Mobile Devices</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-gastronomy-gurus-the-elite-of-food-vlogs/"><u>[New] 2024 Approved Gastronomy Gurus The Elite of Food Vlogs</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-generating-attention-grabbing-video-teasers/"><u>[New] 2024 Approved Generating Attention-Grabbing Video Teasers</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-creator-to-earnings-successful-youtube-short-strategies/"><u>[New] In 2024, From Creator to Earnings Successful YouTube Short Strategies</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-loop-a-youtube-video-the-ultimate-guide/"><u>[New] In 2024, How to Loop a YouTube Video The Ultimate Guide</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-freefire-gaming-guide-maximizing-video-impact/"><u>[Updated] FreeFire Gaming Guide Maximizing Video Impact</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-how-to-remove-background-noise-from-skype-video-calls/"><u>[Updated] How to Remove Background Noise From Skype Video Calls</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-captivate-audiences-and-gain-traction-with-youtube-shorts/"><u>[Updated] In 2024, How to Captivate Audiences and Gain Traction with YouTube Shorts</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/cookiebot-enabled-enhancing-user-experience-through-smart-tracking/"><u>Cookiebot-Enabled: Enhancing User Experience Through Smart Tracking</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/distinguishing-features-of-signal-and-whatsapp-which-is-better/"><u>Distinguishing Features of Signal and WhatsApp – Which Is Better?</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/diy-troubleshooting-for-driverpowerstatefailure-problems-on-your-pc/"><u>DIY Troubleshooting for DRIVER_POWER_STATE_FAILURE Problems on Your PC</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-the-complete-guide-to-asus-frp-bypass-everything-you-need-to-know-by-drfone-android/"><u>In 2024, The Complete Guide to Asus FRP Bypass Everything You Need to Know</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/is-there-an-onoff-function-for-annotations-in-flipbuilder-output-ebooks/"><u>Is There an On/Off Function for Annotations in FlipBuilder Output Ebooks?</u></a></li>
+<li><a href="https://driver-install.techidaily.com/tackling-deskjet-driver-failures-os-fixes/"><u>Tackling Deskjet Driver Failures, OS Fixes</u></a></li>
+<li><a href="https://article-files.techidaily.com/top-10-methods-for-effective-youtube-transcoding-for-2024/"><u>Top 10 Methods for Effective YouTube Transcoding for 2024</u></a></li>
 </ul></div>
 

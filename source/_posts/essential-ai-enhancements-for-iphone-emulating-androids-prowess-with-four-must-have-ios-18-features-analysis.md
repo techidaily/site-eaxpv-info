@@ -1,7 +1,7 @@
 ---
 title: "Essential AI Enhancements for iPhone: Emulating Android's Prowess with Four Must-Have iOS 18 Features | Analysis"
-date: 2024-12-01T17:25:05.715Z
-updated: 2024-12-07T22:59:34.052Z
+date: 2025-01-06T17:06:01.942Z
+updated: 2025-01-13T20:10:36.437Z
 tags:
   - apple
 categories:
@@ -28,10 +28,6 @@ Never fear, dear reader. I've uncovered 10 settings you should adjust on your iP
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Customize your lock screen
 
 Max Buondonno/ZDNET
@@ -39,6 +35,10 @@ Max Buondonno/ZDNET
 In iPadOS 17, Apple added the ability to customize your iPad's lock screen, and it's one of the easiest ways to help the tablet reflect your personal style. You can alter the font, the wallpaper, and even add a few widgets to keep important information available at a glance. Personally, I have a nice serif font on my iPad with a weather widget and my to-do list, as well as an ocean background from Nomad (because I can't go a day without looking at the water).
 
 **How to:** Wake up your iPad, unlock it, then press and hold on the lock screen. If you've used an iPhone in the past, you know exactly what to do next. Tap the "Customize" button and begin tweaking the lock screen to your liking.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Configure your focus settings
 
@@ -59,7 +59,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 **How to**: Go to Settings > Focus on your iPad, and you'll find various options to set up a Focus mode for work, personal, fitness, mindfulness, and more. The interface will guide you through setting up your notification settings, which contacts can ping you, and more. Plus, once you've set it up, it'll sync automatically with your iPhone, Apple Watch, and Mac.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Turn on Stage Manager when you need more multitasking chops
@@ -73,6 +73,10 @@ You can customize the size of the window, bring up secondary apps in the same vi
 **Also:** [**The best iPad models: Expert tested**](https://www.zdnet.com/article/best-ipad/)
 
 **How to**: Swipe down on the top-right corner to access Control Center, then tap the Stage Manager button to activate it (it looks like a rectangle with three smaller rectangles next to it). Alternatively, you can go to Settings > Multitasking & Gestures and turn on Stage Manager from there. When you're done using it, you can choose either option to turn it off.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Save your eyes at night with Night Shift
 
@@ -92,19 +96,11 @@ That's where Low Power Mode comes in. With Low Power Mode, your iPad will limit 
 
 **How to**: Swipe down from the top right corner to access Control Center, then tap the battery button to enable it. Your battery meter will then turn yellow, indicating that Low Power Mode is on. To disable it, follow the same steps.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 6\. Hide your notifications from prying eyes
 
 Sometimes, you just want to keep the contents of your iPad's notifications to yourself, whether for work reasons or if you're planning a surprise party for someone and they see the email confirming the delivery of their birthday cake. On the iPad, it's easy to lock away your notifications and only make them visible once you've used your fingerprint or face to log in.
 
 **How to**: Go to Settings > Notifications > Show Previews and change it from "Always" to "When Unlocked."
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 7\. Split or float your keyboard
 
@@ -120,10 +116,6 @@ If that's your bag, you can also shrink your keyboard and have it float on top o
 
 **How to float**: Open an app where the keyboard will pop up. Then, take two fingers and pinch the keyboard. This will cause it to shrink to iPhone-size. You can then drag it around the screen by touching and holding the gray bar on the bottom. When you want it to return to its normal size, just pinch outward on the keyboard.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 8\. Make sure your screen is refreshing as fast as possible
 
 Every iPad Pro since 2018 has supported what Apple calls ProMotion, which increases your display's refresh rate and makes everything -- scrolling, animations, multitasking, and more -- look smoother. It's one of those features that you don't realize you want until you have it, and then you can never go back. 
@@ -132,6 +124,10 @@ Of course, while the feature is enabled out of the box, there's always a chance 
 
 **How to**: Head over to Settings > Accessibility > Motion and ensure that "Limit Refresh Rate" _isn't_ enabled. If it is, your iPad's screen will remain locked to 60Hz, and who even uses 60Hz screens anymore?
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 9\. Tweak the Control Center
 
 Max Buondonno/ZDNET
@@ -139,6 +135,10 @@ Max Buondonno/ZDNET
 I've always felt like the Control Center is slightly underrated for all the stuff it can do. Not only does it give you quick access to your Wi-Fi and Bluetooth settings, but you can customize it to your heart's delight with all sorts of life-simplifying shortcuts, from easy access to Shazam to starting a screen recording with the touch of a button. It can become a life-changing feature if you use it the right way.
 
 **How to:** Go to Settings > Control Center on your iPad, and you'll find all the controls you can add and remove. To add a new one, tap the green plus icon and it'll move to the "Included Controls" section. From there, you can rearrange which controls are presented first by dragging the three-line button to the right and sliding up or down the list. If you want to remove a control, tap the red minus button and it'll go back to "More Controls."
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 10\. Attention Awareness will keep the screen awake while you use it
 
@@ -180,22 +180,15 @@ Using the TrueDepth cameras, Attention Awareness can keep tabs on when you're lo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-much-could-you-make-on-youtube-snippets/"><u>[New] 2024 Approved How Much Could You Make on YouTube Snippets?</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-from-novice-to-vlogger-professional-video-making-on-mobile-devices-for-2024/"><u>[New] From Novice to Vlogger Professional Video Making on Mobile Devices for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-vlogger-to-earnest-by-year-end-following-sourav-joshis-examples/"><u>[New] In 2024, From Vlogger to Earnest by Year End - Following Sourav Joshi's Examples</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-loop-videos-on-iphone/"><u>[New] In 2024, How to Loop Videos on iPhone?</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-create-animated-bouncing-text/"><u>[Updated] 2024 Approved How to Create Animated Bouncing Text</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-free-to-paid-the-transition-to-youtubes-elite-service/"><u>[Updated] In 2024, From Free to Paid The Transition to YouTube's Elite Service</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-video-to-music-youtube-to-mp3-on-macos/"><u>[Updated] In 2024, From Video to Music YouTube to MP3 on MacOS</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-watcher-to-writer-how-to-set-up-a-sports-channel-on-macos/"><u>[Updated] In 2024, From Watcher to Writer How to Set Up a Sports Channel on macOS</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-high-tech-5-live-screen-recorders/"><u>[Updated] In 2024, High-Tech 5 Live Screen Recorders</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/exploring-the-differences-between-nlp-and-ml-in-artificnial-intelligence/"><u>Exploring the Differences Between NLP and ML in Artificnial Intelligence</u></a></li>
-<li><a href="https://techtrends.techidaily.com/how-to-enjoy-the-conjuring-saga-best-viewing-order-and-essential-tips/"><u>How To Enjoy The 'Conjuring' Saga: Best Viewing Order & Essential Tips</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-oneplus-nord-ce-3-5g-to-outlook-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from OnePlus Nord CE 3 5G to Outlook | Dr.fone</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/integrating-whatsapp-into-your-twitter-video-sharing-routine/"><u>Integrating WhatsApp Into Your Twitter Video Sharing Routine</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1722969060661-latest-supported-drivers-for-intel-iris-plus-655-on-windows-1011-install-now/"><u>Latest Supported Drivers for Intel Iris Plus (655) on Windows 10/11 - Install Now</u></a></li>
-<li><a href="https://driver-download.techidaily.com/realteks-new-bluetooth-drivers-download-options-for-windows-1110-users/"><u>Realtek's New Bluetooth Drivers: Download Options for Windows 11/10 Users</u></a></li>
-<li><a href="https://driver-download.techidaily.com/resolving-connectivity-errors-for-your-asus-pce-ac56-wireless-card-in-various-versions-of-windows-issue-solved/"><u>Resolving Connectivity Errors for Your ASUS PCE-AC56 Wireless Card in Various Versions of Windows [ISSUE SOLVED]</u></a></li>
-<li><a href="https://discover-docs.techidaily.com/strategie-personalizzate-di-supporto-tecnico-online-esclusive-per-lutilizzo-di-winx-dvd-ripper-e-winxvideo-ai/"><u>Strategie Personalizzate Di Supporto Tecnico Online Esclusive per L'Utilizzo Di WinX DVD Ripper E WinxVideo AI</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-concurrent-capture-masterclass-webcam-and-desktop/"><u>[New] In 2024, Concurrent Capture Masterclass Webcam & Desktop</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-enjoy-your-favorite-songs-anytime-convert-youtube-to-mp3-now/"><u>[New] In 2024, Enjoy Your Favorite Songs Anytime Convert YouTube to MP3 Now</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-ultimate-5-mobile-photo-editing-iphone-x87-background-switch/"><u>[New] Ultimate 5 Mobile Photo Editing IPhone X/8/7 Background Switch</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-football-film-breakdown-premier-insights-on-youtube/"><u>[Updated] Football Film Breakdown Premier Insights on YouTube</u></a></li>
+<li><a href="https://driver-download.techidaily.com/get-the-newest-canon-d530-drivers-and-updates-your-definitive-resource/"><u>Get the Newest Canon D530 Drivers & Updates – Your Definitive Resource</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-mastering-the-art-of-system-enhancements/"><u>In 2024, Mastering the Art of System Enhancements</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-the-6-best-sim-unlock-services-that-actually-work-on-your-honor-100-device-by-drfone-android/"><u>In 2024, The 6 Best SIM Unlock Services That Actually Work On Your Honor 100 Device</u></a></li>
+<li><a href="https://video-capture.techidaily.com/mastery-of-mobile-and-desktop-calendar-integration-with-zoom-for-2024/"><u>Mastery of Mobile and Desktop Calendar Integration with Zoom for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/subscribe-bonanza-thousands-acquired-for-just-5-for-2024/"><u>Subscribe Bonanza Thousands Acquired for Just $5 for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/unearthing-popular-user-generated-speeches-for-2024/"><u>Unearthing Popular User-Generated Speeches for 2024</u></a></li>
 </ul></div>
 

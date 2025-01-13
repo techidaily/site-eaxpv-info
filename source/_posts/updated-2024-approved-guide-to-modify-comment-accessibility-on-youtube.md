@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  Guide to Modify Comment Accessibility on YouTube\""
-date: 2024-08-20T13:14:51.305Z
-updated: 2024-08-21T13:14:51.305Z
+date: 2025-01-08T18:59:16.197Z
+updated: 2025-01-13T16:35:39.407Z
 tags:
   - ai video
   - ai youtube
@@ -38,9 +38,6 @@ If you don’t want any comments on any of the videos that you publish, you must
 
 Use your favorite web browser to go to YouTube and sign in to your Google account. Click your profile picture from the top-right corner of the webpage, and click **YouTube Studio** from the menu that appears.
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Find YouTube Studio options](https://images.wondershare.com/filmora/article-images/find-youtube-studio-option.jpg)
 
 #### Step 2: Go to Channel’s Advanced Settings
@@ -59,9 +56,6 @@ To turn on comments on **all the videos on your YouTube channel**, you can follo
 
 Use the method explained above to get to the channel’s **Advanced settings** box. Select the **No, set this channel as not made for kids. I never upload content that’s made for kids** radio button. Click **SAVE** to save the changes.
 
-<!-- affiliate ads begin -->
-<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Turn on YouTube Channel Comments](https://images.wondershare.com/filmora/article-images/turn-on-channel-comments-advanced-settings.jpg)
 
 #### 2\. Define Acceptable Comment Types
@@ -70,13 +64,14 @@ Click the **Settings** icon from the bottom of the left pane one more time. On t
 
 ![Set up YouTube video  Comments visibility](https://images.wondershare.com/filmora/article-images/set-up-youtube-comments-visibilities.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 #### 3\. Set Comment Allowance for Videos
 
 Back on the **YouTube Studio** page, click **Content** from the left pane. From the right section, check the **Video** box at the top of the list to select all the videos the channel has. Click **Edit** from the column header, and click **Comments** from the menu that comes up. From the **New value** drop-down list, choose your preferred allowance option for the comments, click **UPDATE VIDEOS** from the upper-right area, check the **I understand the implications of this action** box, and click **UPDATE VIDEOS** to allow comments on all the videos of the channel.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Turn on or off YouTube content commnets settings](https://images.wondershare.com/filmora/article-images/turn-on-off-channel-content-comments-settings.jpg)
 
 #### **Additional Info about Comments Options**
@@ -99,9 +94,6 @@ Selecting this option holds all the comments from all the users, and waits for y
 
 When this option is selected, no one can post a comment to the video(s) whatsoever.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ## Part 2: Turn on or Turn off Comments for Specific Videos
 
 As you might have noticed, any video that is marked as ‘Made for kids’ doesn’t allow users to post comments. You can exploit this feature to enable or disable commenting on specific YouTube videos as well.
@@ -122,7 +114,15 @@ From under the **Audience** section in the right window of the **Video details**
 
 ![Turn on or turn off comments for specific youtube video](https://images.wondershare.com/filmora/article-images/turn-on-off-comments-for-specific-youtube-video.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Note:** To learn **how to disable comments on YouTube** for specific video, you can repeat the above steps, and choose the **Yes, it’s made for kids** radio button from the **Audience** section when you are on the **Video details** page.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## FAQs About YouTube Comments
 
@@ -138,10 +138,11 @@ At the time of this writing, YouTube doesn’t allow anyone to post a comment on
 
 You can go to **YouTube Studio** \> **Settings** \> **Community**, and on the **Automated Filters** tab in the right window, add the words to block in the **Blocked words** field. You can add multiple words by separating them with commas. To block the comments with links, check the **Block links** box. Click **SAVE** to save the changes.
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Block YouTube   commnets](https://images.wondershare.com/filmora/article-images/block-users-youtube-comment.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #### 4\. If I turn comments off and back on again, will the old comments come back?
 
@@ -163,12 +164,15 @@ Liza Brown is a writer and a lover of all things video.
 
 Follow @Liza Brown
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Leaders in Virtual Marvel Universe Creation
 
@@ -186,18 +190,6 @@ When watching this intro, you may get excited and want to make your intro if you
 
 ---
 
-<!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Top 4 Marvel Online Intro Makers:**
 
 This article will share the top 4 online marvel intro makers that you can use to create your own intros similar to Marvel's intro easily. So, let's get started with our main topic.
@@ -208,17 +200,22 @@ Price: $8.38 for 1080p version/ $6.98 for 720p version
 
  ![introchamp1](https://images.wondershare.com/filmora/article-images/introchamp1.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Intro champ is a website that allows you to create video intros in just a few minutes. It is one of the best online intro maker websites out there. If you want to make Marvel's Intro video, then you can create it using this website. Just click the title to the website, and you will see the screen displayed in the above picture. You will see a search bar on the top right side of your screen. Type "Modern Marvel" in this search bar and hit the enter button. You will see a Marvel intro template that you can use to create your video.![introchamp2](https://images.wondershare.com/filmora/article-images/introchamp2.png)
 
 Creating your video is a straightforward process. You need to enter your desired text displayed in two different fields and click on the Save & Preview button. It allows you to try the intro video to have an idea how it will look like. There will be a watermark on the video. If you want to remove that watermark, you need to purchase this template. The 1080p version will cost you around $8.38, and the 780p version will cost around $6.98.![introchamp3](https://images.wondershare.com/filmora/article-images/introchamp3.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #### **2\.** **Videohive.com**
 
 Price: from $10 to $20 ![videohive1](https://images.wondershare.com/filmora/article-images/videohive1.png)
 
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
-<!-- affiliate ads end -->
 The third website that can help you to create online Marvel's intro videos is Video Hive. It is a website where you can find stock images and stock videos. Just search Marvel Intro in the search bar of the website, and it will display different stock videos that you can use to create intros. ![videohive2](https://images.wondershare.com/filmora/article-images/videohive2.png)
 
 Every stock video has a different price, and you may need to hire a video editor online to create your intro video using this template. It is a bit expensive option, but the results are more convincing at the same time.
@@ -229,11 +226,12 @@ Price: $13 for 1080p version/ $9 for 720p version
 
  ![tubearsenal1](https://images.wondershare.com/filmora/article-images/tubearsenal1.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Tube Arsenal is also one of the best and premium intro makers online. It is effortless to use, and you don't need to download any software or effects because everything here is online. You also don't need to have any prior experience because it is easy to use platform. ![tubearsenal2](https://images.wondershare.com/filmora/article-images/tubearsenal2.png)
 
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 This website contains thousands of intro video templates that you can customize according to your videos' needs and use. If you want to create Marvel's intro video, then all you have to do is search "Marvel Intro" in the search bar and select "Comix Intro Template" from the results.![tubearsenal3](https://images.wondershare.com/filmora/article-images/tubearsenal3.png)
 
 Click on the customize now button, and it will take you to a page where you will find plenty of customization options. You can add your desired text and choose the color of your text. You can also customize the background color and choose a custom music track played with your intro.
@@ -248,9 +246,6 @@ Many intro maker programs and websites are available online. The websites are ea
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 Richard Bennett
@@ -259,7 +254,6 @@ Richard Bennett is a writer and a lover of all things video.
 
 Follow @Richard Bennett
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -267,8 +261,23 @@ Follow @Richard Bennett
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-from-videos-to-vibrant-gifs-youtube-conversion-techniques-for-2024/"><u>[New] From Videos to Vibrant GIFs YouTube Conversion Techniques for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-how-to-get-just-the-essentials-from-youtube-videos-for-2024/"><u>[New] How to Get Just the Essentials From YouTube Videos for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-chat-room-to-global-stage-broadcast-google-meet-on-youtube/"><u>[New] In 2024, From Chat Room to Global Stage Broadcast Google Meet on YouTube</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-conference-call-to-youtube-stream-how-to-broadcast-google-meet/"><u>[New] In 2024, From Conference Call to YouTube Stream - How To Broadcast Google Meet</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-footage-to-fame-premiere-pro-edition-tricks-for-youtube/"><u>[New] In 2024, From Footage to Fame Premiere Pro Edition Tricks for YouTube</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-streamline-your-zoom-meetings-screen-sharing-essentials/"><u>[New] In 2024, Streamline Your Zoom Meetings Screen Sharing Essentials</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-much-money-does-mr-beast-make/"><u>[Updated] 2024 Approved How Much Money Does Mr. Beast Make</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-navigating-zoom-rooms-with-ease-newcomers/"><u>[Updated] 2024 Approved Navigating Zoom Rooms with Ease, Newcomers</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-hourly-high-stakes-views-yts-1-to-10-rankings-for-2024/"><u>[Updated] Hourly High-Stakes Views YT's #1 to #10 Rankings for 2024</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/2024-approved-how-to-stay-ahead-of-the-curve-in-tiktok-world/"><u>2024 Approved How to Stay Ahead of the Curve in TikTok World</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/2024-approved-perfect-your-snapchat-boomerangs-quickly/"><u>2024 Approved Perfect Your Snapchat Boomerangs Quickly</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ai-at-your-fingertips-setting-up-auto-gpt-on-ubuntu/"><u>AI at Your Fingertips: Setting up Auto-GPT on Ubuntu</u></a></li>
+<li><a href="https://extra-information.techidaily.com/explore-the-best-10-vectors-online-archives/"><u>Explore the Best 10 Vectors Online Archives</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/95782704-9781594778452-fusion-of-the-eight-psychic-channels/"><u>Fusion of the Eight Psychic Channels | Free Book</u></a></li>
+<li><a href="https://win11.techidaily.com/tips-to-prevent-file-explorer-crashes-on-windows-11/"><u>Tips to Prevent File Explorer Crashes on Windows 11</u></a></li>
+<li><a href="https://solve-news.techidaily.com/top-handbrake-preferences-to-maximize-video-quality-on-xbox-one-x-and-s-models/"><u>Top HandBrake Preferences to Maximize Video Quality on Xbox One X and S Models</u></a></li>
+</ul></div>
 

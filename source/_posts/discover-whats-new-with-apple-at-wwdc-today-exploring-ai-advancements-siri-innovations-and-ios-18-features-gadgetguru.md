@@ -1,7 +1,7 @@
 ---
 title: Discover What's New with Apple at WWDC Today - Exploring AI Advancements, Siri Innovations, and iOS 18 Features | GadgetGuru
-date: 2024-12-05T21:43:36.857Z
-updated: 2024-12-07T20:06:53.680Z
+date: 2025-01-07T19:23:45.130Z
+updated: 2025-01-13T18:01:33.935Z
 tags:
   - apple
 categories:
@@ -31,7 +31,7 @@ Here's a look at what's new for the 6th generation iPad Air.
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. A bigger screen option
@@ -39,7 +39,7 @@ Here's a look at what's new for the 6th generation iPad Air.
 First up, [Apple is introducing](https://www.apple.com/ipad-air/) an all-new bigger size. While previous versions of the [iPad Air](https://www.zdnet.com/article/best-ipad/) only had a single size to choose from, this year's edition has an 11-inch size and a 13-inch size – the larger one giving you 30% more screen to work with. It makes the iPad slightly less portable, but the added real estate will certainly be worth the tradeoff for some.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. An M2 chip for enhanced performance
@@ -61,7 +61,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. New placement for the front camera
@@ -69,7 +69,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 It may seem minor, but the front-facing camera of the latest iPad Air is in a new spot. It's now on the landscape edge, moved from the portrait edge. Previously, you had to use the iPad in portrait mode on a video call as moving it to landscape mode distorted the picture. Now, video calls will look exactly as they do on a laptop.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Bigger base storage
@@ -110,19 +110,22 @@ The iPad Air 6 will begin shipping next week at a starting price of [$599 for th
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-flv-to-youtube-stardom-top-10-video-conversion-tools-reviewed/"><u>[New] 2024 Approved From FLV to YouTube Stardom Top 10 Video Conversion Tools Reviewed</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-free-and-uncomplicated-youtube-image-extractor-tools-reviewed-for-2024/"><u>[New] Free and Uncomplicated YouTube Image Extractor Tools Reviewed for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-free-high-quality-youtube-banner-samples-inside-for-2024/"><u>[New] Free High-Quality YouTube Banner Samples Inside for 2024</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-maximize-engagement-auto-resized-videos-from-mac-for-instagram/"><u>[New] Maximize Engagement Auto-Resized Videos From Mac for Instagram</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-high-ranking-videos-youtubes-everlasting-classics/"><u>[Updated] 2024 Approved High-Ranking Videos YouTube’s Everlasting Classics</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-from-newbie-to-pro-your-complete-guide-to-creator-studio-for-2024/"><u>[Updated] From Newbie to Pro Your Complete Guide to Creator Studio for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-basics-to-blockbusters-building-an-audience-on-gaming-channels/"><u>[Updated] In 2024, From Basics to Blockbusters Building an Audience on Gaming Channels</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/comprehensive-guide-installing-and-updating-epson-ds-510-printer-driver-for-windows-users/"><u>Comprehensive Guide: Installing and Updating Epson DS-510 Printer Driver for Windows Users</u></a></li>
-<li><a href="https://win-answers.techidaily.com/disco-elysium-stable-launch-no-more-issues-on-your-pc/"><u>Disco Elysium Stable Launch: No More Issues On Your PC</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210167612-9781643506692-dreams-and-symbols/"><u>Dreams and Symbols | Free Book</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/how-can-i-get-more-stardust-in-pokemon-go-on-infinix-note-30-pro-drfone-by-drfone-virtual-android/"><u>How can I get more stardust in pokemon go On Infinix Note 30 Pro? | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-stop-google-chrome-from-tracking-your-location-on-samsung-galaxy-f04-drfone-by-drfone-virtual-android/"><u>How to Stop Google Chrome from Tracking Your Location On Samsung Galaxy F04? | Dr.fone</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-rhythm-discoverers-toolkit-all-free-and-online/"><u>In 2024, Rhythm Discoverer’s Toolkit – All FREE & Online</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/top-15-activities-for-podcast-enthusiasts/"><u>Top 15 Activities for Podcast Enthusiasts</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-cultivating-commitment-gentle-subscription-strategies/"><u>[New] 2024 Approved Cultivating Commitment Gentle Subscription Strategies</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-apple-and-google-devices-best-mobile-editing-apps-for-2024/"><u>[New] Apple & Google Devices Best Mobile Editing Apps for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-finalizing-account-deletion-on-instagram-method-and-tips/"><u>[New] Finalizing Account Deletion on Instagram Method and Tips</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-craft-standout-videos-with-professional-free-banner-samples/"><u>[New] In 2024, Craft Standout Videos with Professional, Free Banner Samples</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-explore-the-10-most-influential-makeup-personalities-online/"><u>[New] In 2024, Explore the 10 Most Influential Makeup Personalities Online</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-unlock-creative-communication-get-free-voice-effects-today/"><u>[New] Unlock Creative Communication - Get FREE Voice Effects Today</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-virtual-reality-vanguard-leading-pc-headsets-to-watch/"><u>[New] Virtual Reality Vanguard Leading PC Headsets to Watch</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-advanced-techniques-using-jump-cuts-effectively/"><u>[Updated] 2024 Approved Advanced Techniques Using Jump Cuts Effectively</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-in-2024-cutting-edge-commerce-vrs-role-in-modernizing-industries/"><u>[Updated] In 2024, Cutting-Edge Commerce VR's Role in Modernizing Industries</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-unlocking-the-power-of-visuals-zooms-filter-guide/"><u>[Updated] Unlocking the Power of Visuals Zoom's Filter Guide</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-influencer-integration-amplifying-engagement-through-collaborations/"><u>2024 Approved Influencer Integration Amplifying Engagement Through Collaborations</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-master-the-art-of-vlogging-starting-kit-and-tools/"><u>2024 Approved Master the Art of Vlogging Starting Kit & Tools</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/in-2024-feast-your-eyes-on-9-whole-film-winter-wonders-no-charge/"><u>In 2024, Feast Your Eyes on 9 Whole-Film Winter Wonders No Charge!</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-network-locked-sim-card-inserted-on-your-honor-90-pro-phone-unlock-it-now-by-drfone-android/"><u>In 2024, Network Locked SIM Card Inserted On Your Honor 90 Pro Phone? Unlock It Now</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/in-2024-vloggers-fears-decoded-combat-strategies-for-everyone/"><u>In 2024, Vloggers' Fears Decoded Combat Strategies for Everyone</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/swift-channels-growth-optimizing-viewership-with-collaborative-videos-for-2024/"><u>Swift Channels Growth Optimizing Viewership with Collaborative Videos for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/transcribe-without-breaking-the-bank-learn-how-with-our-free-guide-for-2024/"><u>Transcribe Without Breaking the Bank Learn How with Our Free Guide for 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Future-Proofing Assistants: How Apple Plans to Enhance Siri by 2025 - Insights From ZDNet"
-date: 2025-01-03T04:33:01.430Z
-updated: 2025-01-07T01:59:43.606Z
+date: 2025-01-07T19:07:03.814Z
+updated: 2025-01-13T16:10:52.526Z
 tags:
   - apple
 categories:
@@ -34,6 +34,10 @@ more buying choices
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## ZDNET's buying advice
 
 I'll say it: The new [iPad Pro](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FApple-iPad-Pro-11-Inch-Landscape%2Fdp%2FB0D3J9XDMQ%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cfbf10d9a-7cb8-49d5-8606-c235946e0be8%7Cdtp&dtb=1) is Apple's most advanced piece of hardware in 2024, besting the [Vision Pro](https://www.zdnet.com/article/apple-vision-pro-review/) and likely any [new AirPods](https://www.zdnet.com/article/two-new-airpods-models-expected-this-fall-heres-everything-we-know-so-far/) and [iPhone 16 models](https://www.zdnet.com/article/iphone-16-reports-spatial-video-and-ultra-thin-bezels-coming-to-all-models/) to come. From the moment you pick up the ultra-thin slab of glass and aluminum to when you discover finer details in darker scenes thanks to the Tandem OLED display, such burdenless design choices make Apple's premium iPad model a justifiable option for those willing to spend the money.
@@ -41,7 +45,7 @@ I'll say it: The new [iPad Pro](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5F
 With configurations ranging from $999 to $2,599, keep in mind that the higher storage tiers (1TB and 2TB) also come with double the RAM (16GB vs. 8GB) and an extra CPU core. It's a subtle, under-the-hood difference that's easy to miss, especially when cross-shopping [between iPad models](https://www.zdnet.com/article/best-ipad/). If you can use the greater compute, have an offline-heavy workflow, and/or want the most future-proofed iPad on the market, it's worth the upcharge. Otherwise, the base 11- or 13-inch model will serve you just fine, as they have for me.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Specifications
@@ -59,7 +63,7 @@ With configurations ranging from $999 to $2,599, keep in mind that the higher st
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How I tested the iPad Pro (2024)
@@ -67,6 +71,10 @@ With configurations ranging from $999 to $2,599, keep in mind that the higher st
 Over the past week and a half, I've used (or attempted to use) the 11-inch iPad Pro as my primary computer for work and as a secondary, entertainment-only device. When it wasn't paired to a Wi-Fi connection 90% of the time, it ran off my phone's T-Mobile hotspot. While Apple sells an [LTE version](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FApple-iPad-Pro-11-Inch-Landscape%2Fdp%2FB0D3J9XDMQ%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cfbf10d9a-7cb8-49d5-8606-c235946e0be8%7Cdtp&dtb=1) of the iPad Pro, my primary testing grounds for the device have been at home, a local café, and my work office -- nowhere adventurous enough to justify the always-connected upgrade.
 
 I also paired the iPad with Apple's revamped [Magic Keyboard](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fproduct%2FMWR03LL%2FA%2Fmagic-keyboard-for-ipad-pro-11%25E2%2580%2591inch-m4-us-english-white&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp). The $299 starting price gave me pause when I first checked out the accessory, but the thinner, lighter aluminum form factor, larger trackpad, and a new row of function keys this year make the keyboard case more essential than ever for the full iPad experience.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  What are the best features of the iPad Pro (2024)?
 
@@ -106,10 +114,6 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 [See all](https://www.zdnet.com/newsletters/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  What I'd like to see in the next model
 
 **More flexible software:** The limitations of iPadOS remain with every generation of iPad reviewed; I can talk all day about how lovely it'd be to have native apps that give me something remotely close to their desktop counterparts or how every iPadOS update feels like another small step towards an ever-distant [touchscreen MacBook dream](https://www.zdnet.com/article/touchscreen-macbook-4-reasons-why-we-love-the-idea-and-4-reasons-why-we-dont/).
@@ -128,10 +132,6 @@ I'm also aware that Apple sells iPads like no other tablet maker, generating an 
 
 Of course, slimming down the iPad Pro means Apple likely won't move towards adding ports. Given how essential the Magic Keyboard is to the iPad, however, it could be even more so with the additional I/O.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Final thought
 
 Apple's tablet lineup is ultimately (and has always been) confined by an operating system that promotes flexibility and ease of use over high-power multitasking. That balance may shift come WWDC, should the company pitch a more ambitious, AI-driven version of iPadOS.
@@ -139,7 +139,7 @@ Apple's tablet lineup is ultimately (and has always been) confined by an operati
 Regardless, the future of the iPad shouldn't be a dealbreaker because the [iPad Pro](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FApple-iPad-Pro-11-Inch-Landscape%2Fdp%2FB0D3J9XDMQ%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cfbf10d9a-7cb8-49d5-8606-c235946e0be8%7Cdtp&dtb=1) is, for all intents and purposes, an iPad -- a tablet you carry around for getting certain tasks done and for consuming content. For many, being the [best tablet](https://www.zdnet.com/article/best-tablet/) on the market -- not the [best laptop or PC](https://www.zdnet.com/article/best-laptop/) \-- is more than enough.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Alternatives to consider
@@ -176,24 +176,19 @@ Regardless, the future of the iPad shouldn't be a dealbreaker because the [iPad 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/rom-zero-to-viral-video-top-10-user-friendly-youtube-concepts/"><u>[New] From Zero to Viral Video Top 10 User-Friendly YouTube Concepts</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-flv-file-symphony-creating-a-single-youtube-playlist/"><u>[New] In 2024, FLV File Symphony Creating a Single YouTube Playlist</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/new-pinpointing-personalities-pinning-friends-on-snapchat-for-2024/"><u>[New] Pinpointing Personalities Pinning Friends on Snapchat for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-flex-your-viewing-muscles-handling-multiple-youtube-videos/"><u>[Updated] 2024 Approved Flex Your Viewing Muscles Handling Multiple YouTube Videos</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-bare-walls-to-full-screens-10-fixes-for-no-video-views/"><u>[Updated] 2024 Approved From Bare Walls to Full Screens 10 Fixes for No Video Views</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/updated-crafting-youtube-entrance-videos-with-the-top-tools/"><u>[Updated] Crafting YouTube Entrance Videos with the Top Tools</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-future-of-cosmetics-youtube-gurus-on-the-rise-for-2024/"><u>[Updated] Future of Cosmetics YouTube Gurus on the Rise for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-create-endless-video-on-iphone-for-2024/"><u>[Updated] How-To Create Endless Video on iPhone for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-zeroes-to-heroes-amplifying-your-youtube-following/"><u>[Updated] In 2024, From Zeroes to Heroes Amplifying Your Youtube Following</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-get-smart-with-your-youtube-thumbnails-using-a-mac/"><u>[Updated] In 2024, Get Smart with Your YouTube Thumbnails, Using a Mac</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-guide-to-simplified-gs-yt-cta-implementation/"><u>[Updated] In 2024, Guide to Simplified GS-YT CTA Implementation</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-high-quality-game-capture-apps-reviewed/"><u>[Updated] In 2024, High-Quality Game Capture Apps Reviewed</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-the-editors-edge-secrets-to-professional-photo-refining/"><u>[Updated] The Editor's Edge Secrets to Professional Photo Refining</u></a></li>
-<li><a href="https://fox-access.techidaily.com/easy-and-free-ways-to-transfer-photos-and-videos-from-an-iphone-to-a-pc-for-2024/"><u>Easy and Free Ways to Transfer Photos and Videos From an iPhone to a PC for 2024</u></a></li>
-<li><a href="https://techidaily.com/how-to-repair-ios-system-of-apple-iphone-14-plus-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair iOS System of Apple iPhone 14 Plus? | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-unlock-tecno-pova-6-pro-5g-pattern-lock-if-forgotten-6-ways-by-drfone-android/"><u>How to Unlock Tecno Pova 6 Pro 5G Pattern Lock if Forgotten? 6 Ways</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/overwhelmed-at-work-discover-how-the-pomodoro-approach-enhances-efficiency-featured-on-zdnet/"><u>Overwhelmed at Work? Discover How the Pomodoro Approach Enhances Efficiency | Featured on ZDNet</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/unbeatable-bike-sims-showcase/"><u>Unbeatable Bike Sims Showcase</u></a></li>
-<li><a href="https://common-error.techidaily.com/understanding-msdia80dll-importance-and-tips-on-retaining-this-system-file/"><u>Understanding msdia80.dll: Importance & Tips on Retaining This System File</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-follow-your-favorites-top-6-mobile-apps-for-downloading-youtube-beats/"><u>[New] 2024 Approved Follow Your Favorites Top 6 Mobile Apps for Downloading YouTube Beats</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-wearable-wonder-apply-applewatch-to-openmac/"><u>[New] 2024 Approved Wearable Wonder Apply AppleWatch to OpenMac</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-exclusive-list-of-premium-online-and-desktop-gif-makers-for-2024/"><u>[New] Exclusive List of Premium Online & Desktop GIF Makers for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-in-2024-virtual-frontiers-notable-vr-creators/"><u>[New] In 2024, Virtual Frontiers Notable VR Creators</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-convert-srt-fastly-a-compreenas-the-minute-blueprint-2023/"><u>[Updated] Convert SRT Fastly A Compreenas-the-Minute Blueprint 2023</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-from-dreamer-to-doer-sign-up-for-a-youtube-channel/"><u>[Updated] In 2024, From Dreamer To Doer Sign Up for a YouTube Channel</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-mastering-personalized-youtube-channel-urls-simple-steps-guide/"><u>[Updated] Mastering Personalized YouTube Channel URLs Simple Steps Guide</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-simplify-creating-youtube-thumbnails-now/"><u>[Updated] Simplify Creating YouTube Thumbnails Now</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-sparkling-ideas-creating-engaging-fb-ad-videos-for-2024/"><u>[Updated] Sparkling Ideas Creating Engaging FB Ad Videos for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-unlocking-youtube-potential-expert-tips-for-wirecast-streaming/"><u>[Updated] Unlocking YouTube Potential Expert Tips for WireCast Streaming</u></a></li>
+<li><a href="https://blog-min.techidaily.com/bandicam-test-rapport-detaille-cout-comparatif-et-attributs-uniques-screentoshare-review/"><u>Bandicam Test-Rapport Détaillé : Coût Comparatif Et Attributs Uniques - ScreenToShare Review</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/chatgpt-plus-an-in-depth-guide-to-its-potential-and-pitfalls/"><u>ChatGPT Plus: An In-Depth Guide to Its Potential and Pitfalls</u></a></li>
+<li><a href="https://win-blog.techidaily.com/correcting-missteps-in-ryzen-master-driver-setup-processes/"><u>Correcting Missteps in Ryzen Master Driver Setup Processes</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/in-2024-top-7-digital-tools-for-seamless-audio-cutting-and-editing/"><u>In 2024, Top 7 Digital Tools for Seamless Audio Cutting and Editing</u></a></li>
 </ul></div>
 

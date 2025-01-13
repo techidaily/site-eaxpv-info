@@ -1,7 +1,7 @@
 ---
 title: "Unveiling at the Let Loose Event: The New M4 iPad Pro and 13-Inch iPad Air Revealed with Upgraded Apple Pencil - Full Recap on ZDNet"
-date: 2024-12-30T23:06:59.790Z
-updated: 2025-01-06T16:12:08.454Z
+date: 2025-01-06T18:45:12.310Z
+updated: 2025-01-13T19:34:07.562Z
 tags:
   - apple
 categories:
@@ -27,7 +27,7 @@ Tim Cook kicked off the event by speaking about how the Apple Vision Pro has bee
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Everything announced at Apple's 'Let Loose' event
@@ -35,6 +35,10 @@ Tim Cook kicked off the event by speaking about how the Apple Vision Pro has bee
 Apple's "Let Loose" was a virtual product launch event that took place on May 7, at 7 am PT/10 am ET. It lasted about 35 minutes and was live-streamed on [Apple.com](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2F&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp), [YouTube](https://www.youtube.com/watch?v=f1J38FlDKxo), and via the Apple TV app. 
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 1\. iPad Pro, now with OLED displays and M4
 
@@ -57,7 +61,7 @@ Like previous generations, Apple is making the latest iPad Pro available in 11-i
 The iPad Pro starts at $999 for the 11-inch model and $1,299 for the 13-inch model. It's available in Silver and Space Black, with storage sizes ranging from 256GB to 2TB. You can [available to preorder now](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-ipad%2Fipad-pro&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp), with orders shipping next week.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. iPad Air gets a new, larger size
@@ -76,10 +80,6 @@ Unlike the M4-equipped iPad Pro, the iPad Air comes with an M2 chip, making it a
 
 The new iPad Air is available in Blue, Purple, Starlight, and Space Gray, with [prices starting at $599](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-ipad%2Fipad-air&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) for the 11-inch iPad Air, and $799 for the 13-inch model.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3\. Apple Pencil Pro
 
 Apple
@@ -97,7 +97,7 @@ Apple
 The Apple Pencil Pro costs $129 and supports Apple's Find My service, letting you track the location of the accessory should you drop or misplace it. You can purchase the [Apple Pencil Pro](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fproduct%2FMX2D3AM%2FA%2Fapple-pencil-pro&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) today, and it will start shipping next week.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Magic Keyboard
@@ -107,7 +107,7 @@ Apple
 The iPad event also included a new, more durable Magic Keyboard, featuring a larger trackpad and a function row along the top. The Magic Keyboard's new look and upgraded aluminum construction is meant to make the iPad Pro look and feel more like a laptop, rather than a tablet with an optional keyboard case.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Why would Apple host an event before WWDC?
@@ -160,18 +160,21 @@ The Apple Let Loose event was a pre-recorded video but is still available for st
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-delete-comments-from-youtube-with-minimal-hassle/"><u>[New] 2024 Approved How to Delete Comments From YouTube with Minimal Hassle</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-execute-flawless-wirecast-broadcasts-on-youtube/"><u>[New] 2024 Approved How to Execute Flawless WireCast Broadcasts on YouTube</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-find-your-vfx-match-top-8-sites-for-free-high-quality-green-screen-footage/"><u>[New] In 2024, Find Your VFX Match - Top 8 Sites for FREE High Quality Green Screen Footage</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-forget-youtube-try-these-top-5-video-editor-options/"><u>[New] In 2024, Forget Youtube? Try These Top 5 Video Editor Options</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-content-maker-to-cash-magnet-youtubes-guide-to-ad-revenue/"><u>[New] In 2024, From Content Maker to Cash Magnet Youtube's Guide to Ad Revenue</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/eight-outstanding-choices-for-private-video-communication/"><u>Eight Outstanding Choices for Private Video Communication</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-itel-p40-bootloader-easily-by-drfone-android/"><u>In 2024, How to Unlock Itel P40 Bootloader Easily</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/in-2024-twitch-facebook-collaboration-for-content-distribution/"><u>In 2024, Twitch-Facebook Collaboration for Content Distribution</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-what-does-enter-puk-code-mean-and-why-did-the-sim-get-puk-blocked-on-oppo-a58-4g-device-by-drfone-android/"><u>In 2024, What Does Enter PUK Code Mean And Why Did The Sim Get PUK Blocked On Oppo A58 4G Device</u></a></li>
-<li><a href="https://techtrends.techidaily.com/les-meilleurs-outils-videoprojecteurs-gratuits-de-2024-top-5-classes/"><u>Les Meilleurs Outils Videoprojecteurs Gratuits De 2024: Top 5 Classés</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/resolving-compatibility-installing-idt-hd-sound-card-drivers-in-windows-11/"><u>Resolving Compatibility: Installing IDT HD Sound Card Drivers in Windows 11</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/total-clarification-googles-podcast-application-simplified-for-2024/"><u>Total Clarification Google's Podcast Application Simplified for 2024</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/1728468754783-aomei-backupper/"><u>ユニバーサルリカバリープロセスをAOMEI Backupperで実行する方法</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-free-youtube-intro-steps-and-template-guide/"><u>[New] 2024 Approved Free YouTube Intro Steps and Template Guide</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-vision-to-reality-personal-animation-mastery/"><u>[New] 2024 Approved From Vision to Reality Personal Animation Mastery</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/harting-new-heights-with-popular-youtube-content/"><u>[New] Charting New Heights with Popular YouTube Content</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-harmonize-your-youtube-presence-with-these-ideal-microphones-for-various-channels-for-2024/"><u>[New] Harmonize Your YouTube Presence With These Ideal Microphones for Various Channels for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-shopping-lists-to-viral-hauls-video-making-insights/"><u>[New] In 2024, From Shopping Lists to Viral Hauls Video Making Insights</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-delete-youtube-comments-effortlessly/"><u>[Updated] 2024 Approved How to Delete YouTube Comments Effortlessly?</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-safely-capture-your-favorite-youtube-audio-for-free/"><u>[Updated] 2024 Approved How to Safely Capture Your Favorite YouTube Audio for Free</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-how-to-delete-facebook-story-for-2024/"><u>[Updated] How to Delete Facebook Story for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-foster-viewer-connection-easy-anime-subscribe-buttons-for-youtube-creators/"><u>[Updated] In 2024, Foster Viewer Connection Easy Anime Subscribe Buttons for YouTube Creators</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-xbox-game-recording-techniques-for-gamers-for-2024/"><u>[Updated] Xbox Game Recording Techniques for Gamers for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-top-10-hashtag-trackers-on-facebook-twitter-and-instagram-networks/"><u>2024 Approved Top 10 Hashtag Trackers on Facebook, Twitter & Instagram Networks</u></a></li>
+<li><a href="https://fake-location.techidaily.com/complete-tutorial-to-use-gps-joystick-to-fake-gps-location-on-oneplus-nord-n30-5g-drfone-by-drfone-virtual-android/"><u>Complete Tutorial to Use GPS Joystick to Fake GPS Location On OnePlus Nord N30 5G | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/discover-the-ultimate-7-ai-tools-revolutionizing-presentation-creation/"><u>Discover the Ultimate 7 AI Tools Revolutionizing Presentation Creation</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/mastering-creativity-top-10-yt-reaction-hacks-for-2024/"><u>Mastering Creativity Top 10 YT Reaction Hacks for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/movavis-no-cost-toolkit-for-transforming-dts-audio-tracks-to-aac/"><u>Movavi's No-Cost Toolkit for Transforming DTS Audio Tracks to AAC</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/which-digital-versatile-disk-dvd-player-supports-various-video-file-types/"><u>Which Digital Versatile Disk (DVD) Player Supports Various Video File Types?</u></a></li>
 </ul></div>
 

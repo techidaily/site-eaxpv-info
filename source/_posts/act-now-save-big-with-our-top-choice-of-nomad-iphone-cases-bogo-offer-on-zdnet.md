@@ -1,7 +1,7 @@
 ---
 title: "Act Now: Save Big with Our Top Choice of Nomad iPhone Cases - BOGO Offer on ZDNet"
-date: 2025-01-03T22:30:18.939Z
-updated: 2025-01-06T21:16:52.654Z
+date: 2025-01-06T19:19:49.249Z
+updated: 2025-01-13T17:11:59.262Z
 tags:
   - apple
 categories:
@@ -29,7 +29,7 @@ But even with all the [Apple Intelligence](https://www.zdnet.com/article/what-is
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. We need a clearer Apple Intelligence timeline
@@ -43,7 +43,7 @@ If you're looking to the iPhone 16 to get all the flashy AI features Apple showe
 Most of the more attractive features of Apple Intelligence that Apple showcased during [WWDC](https://www.zdnet.com/article/everything-apple-will-announce-at-wwdc-today-apple-intelligence-siri-ios-18-more/)in June are supposedly coming later in 2025, which is hardly a convincing factor to fork over more money for a new phone in September 2024\. If you're looking for features like Genmoji, Image Playground, and the [ChatGPT](https://www.zdnet.com/article/what-is-chatgpt-and-why-does-it-matter-heres-everything-you-need-to-know/) integration with Siri, you'll have to wait a few months.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Uncertainty around on-device performance
@@ -57,7 +57,7 @@ Many unknowns surround how Apple Intelligence features will perform on the [iPho
 Apple Intelligence requires at least 8GB of RAM and an A17 or M1 Apple silicon processor or newer. While the iPhone 16 lineup is expected to run on an A18 Bionic chip and between 8GB and 12GB of RAM across the four different models, concerns about how much strain the CPU will endure are valid. The new [AI capabilities can also overheat the iPhone and drain its battery quicker](https://www.zdnet.com/article/why-you-shouldnt-buy-the-iphone-16-for-apple-intelligence/), potentially reducing the device's lifecycle.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. The iPhone 16 is not enough of an upgrade on its own
@@ -79,7 +79,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 But, the iPhone 16's Apple Intelligence features (when they arrive) are undoubtedly modest compared to [ChatGPT with GPT-4o](https://www.zdnet.com/article/how-to-use-chatgpt/) and other AI tools available now. Other tools available now can do most of what Apple Intelligence promises; the difference is that the latter will run on-device and be personalized to the individual user. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. The iPhone 16 Pro is the same price as its predecessor… But is it worth it?
@@ -124,21 +124,16 @@ My Apple Intelligence-incompatible, lightning port-charging iPhone 14 Pro Max st
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-idea-to-impact-advanced-editing-techniques-for-youtube-creators/"><u>[New] 2024 Approved From Idea to Impact Advanced Editing Techniques for YouTube Creators</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-choose-from-the-finest-7-android-browsers-without-ads-for-2024/"><u>[New] Choose From the Finest 7 Android Browsers Without Ads for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-how-much-could-you-make-on-youtube-snippets-in-2024/"><u>[New] How Much Could You Make on YouTube Snippets, In 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-focus-on-the-essentials-the-compreenas-for-removing-youtube-channels/"><u>[New] In 2024, Focus on the Essentials The Compreenas for Removing Youtube Channels</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/new-unleashing-iphones-customization-altering-ringtone-sounds/"><u>[New] Unleashing iPhone's Customization Altering Ringtone Sounds</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-game-on-the-leading-12-youtube-videographers-for-opening-tutorials-freepaid/"><u>[Updated] 2024 Approved Game On The Leading 12 YouTube Videographers for Opening Tutorials (Free/Paid)</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-free-online-tools-for-youtube-channel-starters-for-2024/"><u>[Updated] Free Online Tools for YouTube Channel Starters for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-historical-wisdom-on-youtube-for-students/"><u>[Updated] In 2024, Historical Wisdom on YouTube for Students</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-transform-your-content-game-with-creator-studio-insight/"><u>[Updated] Transform Your Content Game with Creator Studio Insight</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/2024-approved-fb-slideshow-101-a-beginners-guide/"><u>2024 Approved FB Slideshow 101 A Beginner's Guide</u></a></li>
-<li><a href="https://howto.techidaily.com/calls-on-itel-a70-go-straight-to-voicemail-12-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Calls on Itel A70 Go Straight to Voicemail? 12 Fixes | Dr.fone</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/exploring-the-xbox-series-s-exceptional-capabilities-encased-in-minimalist-style/"><u>Exploring the Xbox Series S: Exceptional Capabilities Encased in Minimalist Style</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-nubia-z50s-pro-to-outlook-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Nubia Z50S Pro to Outlook | Dr.fone</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/reset-and-refresh-fixing-common-issues-in-final-cut-pro-x-for-2024/"><u>Reset and Refresh Fixing Common Issues in Final Cut Pro X for 2024</u></a></li>
-<li><a href="https://discover-helper.techidaily.com/tailoring-your-computers-energy-consumption-with-control-panel-settings-expert-advice-from-yl-software/"><u>Tailoring Your Computer's Energy Consumption with Control Panel Settings - Expert Advice From YL Software</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-web-based-music-slicer-and-combiner-application/"><u>Updated Web-Based Music Slicer & Combiner Application</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-casino-contestant-commentary/"><u>[New] 2024 Approved CASINO CONTESTANT COMMENTARY</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-exploring-differences-between-igtv-and-youtube-for-effective-posts/"><u>[New] 2024 Approved Exploring Differences Between IGTV and YouTube for Effective Posts</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-filters-to-feeds-optimizing-your-360-video-for-youtube-publishing/"><u>[New] 2024 Approved From Filters to Feeds Optimizing Your 360 Video for YouTube Publishing</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-formulating-an-easy-to-use-youtube-subscriber-link-for-2024/"><u>[New] Formulating an Easy-to-Use YouTube Subscriber Link for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-coloredge-clarity-redefined-examining-eizos-4kcg318-display/"><u>[Updated] 2024 Approved ColorEdge Clarity Redefined – Examining EIZO’s 4KCG318 Display</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-video-lessons-to-vivid-engaging-gifs-no-download-needed/"><u>[Updated] 2024 Approved From Video Lessons to Vivid, Engaging GIFs – No Download Needed</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-from-passive-to-active-earnings-unlocking-youtube-with-500plus-fans-for-2024/"><u>[Updated] From Passive to Active Earnings Unlocking Youtube with 500+ Fans for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-zero-to-hero-amplifying-youtube-influence-via-famebit-partnerships/"><u>[Updated] In 2024, From Zero to Hero Amplifying YouTube Influence via FameBit Partnerships</u></a></li>
+<li><a href="https://win-dash.techidaily.com/download-and-update-microsoft-drivers-made-simple-for-windows-users-windows-1087/"><u>Download & Update Microsoft Drivers Made Simple for Windows Users (Windows 10/8/7)</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/effortless-time-lapse-videos-with-samsung-tech/"><u>Effortless Time-Lapse Videos with Samsung Tech</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/silver-winners-prime-dvd-software-for-sierra-os-for-2024/"><u>Silver Winners Prime Dvd Software for Sierra OS for 2024</u></a></li>
 </ul></div>
 

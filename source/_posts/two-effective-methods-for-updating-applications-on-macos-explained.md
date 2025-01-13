@@ -1,7 +1,7 @@
 ---
 title: Two Effective Methods for Updating Applications on macOS Explained
-date: 2025-01-02T20:59:54.676Z
-updated: 2025-01-07T05:00:12.967Z
+date: 2025-01-09T16:41:04.519Z
+updated: 2025-01-13T18:04:32.639Z
 tags:
   - apple
 categories:
@@ -31,12 +31,16 @@ Let me show you both approaches.
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to update MacOS apps from the App Store
 
 **What you'll need:** The only things you'll need are an Apple device (a MacBook or iMac) and a valid user account on the machine. That's it. Let's get to the updates.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 1\. Open the App Store
 
@@ -56,10 +60,6 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2\. Update your apps
 
 When the App Store opens, you can either update the apps individually (by clicking the Update button associated with the app in question) or update them all at once (by clicking Update All). During the update process, you might be prompted to close an app (or even a related app) if it's blocking the update from continuing. Should that be the case, close the app in question, return to the App Store, and click Continue from the pop-up warning.
@@ -70,12 +70,16 @@ Screenshot by Jack Wallen/ZDNET
 
 Once the update is completed, close the App Store and you're done.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to update MacOS apps from the command line
 
 This is a bit more complicated, for two reasons: first, you have to find out what apps are available for updating, and, second -- as with Linux -- the app names are case-sensitive.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Open the Terminal app
@@ -83,7 +87,7 @@ This is a bit more complicated, for two reasons: first, you have to find out wha
 To run commands, you must first open the terminal app, which can be done from the Launchpad. Click the Launchpad icon in your Dock and then type _terminal_. Click the launcher to open the Terminal app.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Check for available updates
@@ -97,10 +101,6 @@ You will be prompted for your sudo password (which is your MacOS user password).
 **Also: [How to update every Apple device (iPhone, iPad, Apple Watch, Mac, more)](https://www.zdnet.com/article/how-to-update-every-apple-device/)**
 
 The -l option stands for _list_. This will print out any available app updates and, if required, it will inform you if a restart is needed to complete any recent OS updates. If you see such a warning, make sure to do the reboot to complete the process.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. Update the apps
 
@@ -144,18 +144,20 @@ This is about as simple a method as you'll find to help keep your MacOS machines
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-chat-room-to-screen-step-by-step-google-meet-youtube-streams/"><u>[New] 2024 Approved From Chat Room to Screen Step-by-Step Google Meet YouTube Streams</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-raw-footage-to-polished-highlights/"><u>[New] 2024 Approved From Raw Footage to Polished Highlights</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-harness-the-power-of-yt-green-screens-for-imaginative-projects/"><u>[New] 2024 Approved Harness the Power of YT Green Screens for Imaginative Projects</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-fostering-fandoms-top-three-storytelling-techniques-for-2024/"><u>[New] Fostering Fandoms Top Three Storytelling Techniques for 2024</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/aunching-into-youtube-success-a-starter-guide-for-profit-for-2024/"><u>[New] Launching Into Youtube Success A Starter Guide for Profit for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-hitching-your-video-trailers-to-youtube-success-for-2024/"><u>[Updated] Hitching Your Video Trailers to YouTube Success for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-filming-to-sharing-a-youtube-video-edition/"><u>[Updated] In 2024, From Filming to Sharing A YouTube Video Edition</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/humble-beginnings-surging-subscribers-and-views-in-youtube-world/"><u>From Humble Beginnings Surging Subscribers & Views in Youtube World</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-transfer-apps-from-xiaomi-civi-3-disney-100th-anniversary-edition-to-another-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Apps from Xiaomi Civi 3 Disney 100th Anniversary Edition to Another | Dr.fone</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/in-2024-building-a-visual-story-on-facebook-with-slideshows/"><u>In 2024, Building a Visual Story on Facebook with Slideshows</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-tactical-co-creation-youtube-and-brand-joint-efforts/"><u>In 2024, Tactical Co-Creation YouTube and Brand Joint Efforts</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-top-8-instagram-story-filters/"><u>In 2024, Top 8 Instagram Story Filters</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/unleashing-your-iphone-the-top-techniques-for-skyline-pics/"><u>Unleashing Your iPhone The Top Techniques for Skyline Pics</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-hitting-high-notes-enhance-your-youtube-content-with-music-edits/"><u>[New] 2024 Approved Hitting High Notes Enhance Your YouTube Content with Music Edits</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-convert-youtube-videos-to-gifs/"><u>[New] 2024 Approved How to Convert YouTube Videos to GIFs</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-guardians-of-the-most-watched-youtube-edition-for-2024/"><u>[New] Guardians of the Most Watched YouTube Edition for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-audio-to-action-mp3-to-youtube-conversion-journey/"><u>[New] In 2024, From Audio to Action MP3-to-YouTube Conversion Journey</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-gain-profit-power-the-secret-of-successful-youtube-marketing-and-500plus/"><u>[Updated] 2024 Approved Gain Profit Power The Secret of Successful Youtube Marketing & 500+</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-first-timers-manual-for-cool-mac-crafted-youtube-clips/"><u>[Updated] In 2024, First-Timer's Manual for Cool, Mac-Crafted YouTube Clips</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-ios-slide-show-tools-tailored-for-high-end-models/"><u>[Updated] IOS Slide Show Tools Tailored for High-End Models</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-top-11-youtube-video-rippers-to-download-youtube-videos-for-2024/"><u>[Updated] Top 11 YouTube Video Rippers to Download YouTube Videos for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/from-text-to-talk-elevate-your-android-experience-with-chatgpt/"><u>From Text to Talk: Elevate Your Android Experience with ChatGPT</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-ultimate-guide-to-zooming-in-on-effective-win11-meetings/"><u>In 2024, Ultimate Guide to Zooming In on Effective Win11 Meetings</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ring-youtube-earnings-a-comprehensive-viewer-count-analysis-for-2024/"><u>Mastering YouTube Earnings A Comprehensive Viewer Count Analysis for 2024</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/new-in-2024-the-best-text-voice-generators-for-all-platforms/"><u>New In 2024, The Best Text Voice Generators for All Platforms</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/rainbow-six-siege-update-a-guide-to-fixing-malfunctioning-voice-chat-features/"><u>Rainbow Six Siege Update : A Guide to Fixing Malfunctioning Voice Chat Features</u></a></li>
+<li><a href="https://discover-comparisons.techidaily.com/step-by-step-guide-booting-into-windows-11-from-a-portable-usb-drive/"><u>Step-by-Step Guide: Booting Into Windows 11 From a Portable USB Drive</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/96316589-9781401933197-the-western-guide-to-feng-shui-room-by-room/"><u>The Western Guide to Feng Shui: Room by Room | Free Book</u></a></li>
 </ul></div>
 

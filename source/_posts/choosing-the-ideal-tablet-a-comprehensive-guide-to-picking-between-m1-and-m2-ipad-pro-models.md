@@ -1,7 +1,7 @@
 ---
 title: "Choosing the Ideal Tablet: A Comprehensive Guide to Picking Between M1 and M2 iPad Pro Models"
-date: 2024-12-01T20:35:56.022Z
-updated: 2024-12-07T21:02:59.657Z
+date: 2025-01-10T18:56:51.256Z
+updated: 2025-01-13T18:57:03.828Z
 tags:
   - apple
 categories:
@@ -26,10 +26,6 @@ Tablets run the gamut in terms of everything they can do (and all the prices the
 
 ZDNET went hands-on with the following tablets, with our pick for the best note-taking tablet overall being the [iPad Air](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fapple-10-9-inch-ipad-air-latest-model-5th-generation-with-wi-fi-64gb-purple%2F4909101.p&publisher_slug=itechdaily19598&exclusive=1), thanks to its lightweight build and compatibility with the second-generation Apple Pencil. But we also included tablets from Boox, Amazon, and more to take digital notes on this back-to-school season. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## The best note-taking tablets of 2024
 
 Show less 
@@ -44,6 +40,10 @@ Pros
 Cons 
 * Only compatible with iOS
 * Camera cannot be used with other apps
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Apple iPad Air (5th generation)
 
@@ -76,11 +76,11 @@ Cons
 * Screen lags when browsing web or watching videos
 * Speaker could be better
 
-## Boox Note Air 3 C
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+## Boox Note Air 3 C
 
 ### Best lightweight note-taking tablet
 
@@ -111,14 +111,10 @@ Cons
 * Premium Pen upgrade will cost you more
 * Does not support note-taking on magazines or newspapers
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Amazon Kindle Scribe
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Best note-taking tablet for reading
@@ -152,7 +148,7 @@ Cons
 ## Samsung Galaxy Tab S9
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Best note-taking tablet for Android users
@@ -187,7 +183,7 @@ Cons
 ## Amazon Fire Max 11
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Best budget note-taking tablet
@@ -221,7 +217,7 @@ The best note-taking tablet is the iPad Air based on price, ratings, display, fe
  \*Lowest price at the time of writing. Please note that prices may vary based on retailer and available promotions, sales, or discounts.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Which note-taking tablet is right for you?
@@ -266,6 +262,10 @@ Using a stylus is totally up to you, but it can definitely help with functionali
 ## What are the best note-taking apps?
 
 The [best note-taking apps](https://www.zdnet.com/article/best-note-taking-app-for-ipad/) let you digitize your notes and to-dos while keeping them all in one place or syncing them to a cloud. Our favorites are Notability, Evernote, GoodNotes 5, and even Apple's free Notes app is a worthy choice.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Does the Apple Pencil convert handwriting to text?
 
@@ -321,20 +321,15 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-flip-it-right-youtube-video-retrospectives-with-tips/"><u>[New] 2024 Approved Flip It Right YouTube Video Retrospectives (With Tips!)</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-flix-fortune-hashtags-for-high-impact-low-length-video-content/"><u>[New] 2024 Approved Flix Fortune Hashtags for High Impact, Low-Length Video Content</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-harmonizing-your-tunes-step-by-step-playlist-crafting-for-web-and-mobile-users-for-2024/"><u>[New] Harmonizing Your Tunes Step-by-Step Playlist Crafting for Web & Mobile Users for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-fostering-connection-through-respectful-engagement/"><u>[New] In 2024, Fostering Connection Through Respectful Engagement</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-free-mp3s-galore-10-no-cost-online-tools/"><u>[New] In 2024, Free Mp3s Galore 10 No-Cost Online Tools</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-mastering-vimeo-recording-techniques/"><u>[New] Mastering Vimeo Recording Techniques</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-gain-more-followers-masterful-youtube-marketing-techniques-for-2024/"><u>[Updated] Gain More Followers Masterful YouTube Marketing Techniques for 2024</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-youtube-artistry-designing-channels-visual-assets-bannersicons/"><u>[Updated] In 2024, YouTube Artistry Designing Channels' Visual Assets (Banners/Icons)</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-strategies-for-enthralling-vlog-content-flow/"><u>[Updated] Strategies for Enthralling Vlog Content Flow</u></a></li>
-<li><a href="https://blog-min.techidaily.com/5-techniques-to-transfer-data-from-honor-magic-v2-to-iphone-15141312-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Techniques to Transfer Data from Honor Magic V2 to iPhone 15/14/13/12 | Dr.fone</u></a></li>
-<li><a href="https://solve-news.techidaily.com/easy-video-editing-with-movavi-master-the-basics-of-montage/"><u>Easy Video Editing with Movavi: Master the Basics of Montage</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/gamble-for-peace-10-chill-out-choices/"><u>Gamble for Peace 10 Chill-Out Choices</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/kids-choice-awards-highlight-arrival-of-nickwatch-in-the-usa/"><u>Kids' Choice Awards Highlight Arrival of NickWatch in the USA</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/premiere-rush-too-expensive-check-out-these-4-affordable-alternatives/"><u>Premiere Rush Too Expensive? Check Out These 4 Affordable Alternatives</u></a></li>
-<li><a href="https://fox-http.techidaily.com/unlocking-creative-potential-installing-windows-movie-maker-on-w11/"><u>Unlocking Creative Potential Installing Windows Movie Maker on W11</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-control-youtube-audio-mobiledesktop-approach/"><u>[New] In 2024, Control YouTube Audio Mobile/Desktop Approach</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-sustainable-traffic-growth-ethical-video-marketing-tips/"><u>[New] Sustainable Traffic Growth Ethical Video Marketing Tips</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/new-the-casual-entrants-handbook-for-tiktok-lives/"><u>[New] The Casual Entrant's Handbook for TikTok Lives</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-strategies-to-avoid-copyright-strikes-on-youtube-videos/"><u>[Updated] Strategies to Avoid Copyright Strikes on YouTube Videos</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/finding-your-dream-phone-cover-tips-and-tricks-for-an-ideal-match/"><u>Finding Your Dream Phone Cover: Tips and Tricks for an Ideal Match</u></a></li>
+<li><a href="https://techidaily.com/how-to-get-out-of-recovery-or-dfu-mode-on-apple-iphone-15-pro-max-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Get Out of Recovery or DFU Mode on Apple iPhone 15 Pro Max? | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unlock-the-hidden-potential-of-windows-11-with-these-tips/"><u>In 2024, Unlock the Hidden Potential of Windows 11 with These Tips</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/safety-goggles-to-protect-your-eyes-from-laser-exposure/"><u>Safety Goggles to Protect Your Eyes From Laser Exposure</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/the-ultimate-guide-to-get-the-rare-candy-on-pokemon-go-fire-red-on-realme-gt-5-pro-drfone-by-drfone-virtual-android/"><u>The Ultimate Guide to Get the Rare Candy on Pokemon Go Fire Red On Realme GT 5 Pro | Dr.fone</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/unleash-your-creative-vision-a-guide-to-android-editors-for-2024/"><u>Unleash Your Creative Vision A Guide to Android Editors for 2024</u></a></li>
 </ul></div>
 

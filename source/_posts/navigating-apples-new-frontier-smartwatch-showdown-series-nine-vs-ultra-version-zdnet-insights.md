@@ -1,7 +1,7 @@
 ---
 title: "Navigating Apple's New Frontier: Smartwatch Showdown - Series Nine Vs. Ultra Version | ZDNET Insights"
-date: 2024-12-31T03:13:01.100Z
-updated: 2025-01-06T17:26:59.500Z
+date: 2025-01-08T18:08:12.115Z
+updated: 2025-01-13T16:30:51.596Z
 tags:
   - apple
 categories:
@@ -30,6 +30,10 @@ And then there's the Apple Watch Series 8 and the Apple Watch Ultra. The watches
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Specifications
 
 | |  Apple Watch Ultra | Apple Watch Series 8                                                            |                                                                         |
@@ -44,13 +48,13 @@ And then there's the Apple Watch Series 8 and the Apple Watch Ultra. The watches
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  You should buy the Apple Watch Ultra if…
 
 Jason Hiner/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 1\. You're ready for a new Apple Watch design
 
@@ -63,7 +67,7 @@ The 49mm housing is also the biggest Apple Watch made to date, and with double t
 With a new design comes new bands, as well. There are [three completely new watchband designs](https://www.zdnet.com/article/new-apple-watch-ultra-bands-work-with-other-apple-watch-models-too/), each one designed for different activities such as outdoor adventures, endurance training and water sports. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 2\. You ride, hike or dive… a lot
@@ -73,10 +77,6 @@ Speaking of outdoor activities, the Ultra is specifically made for extreme fitne
 Apple touts 36 hours of battery life for the Ultra during normal use, or 60 hours when you activate low power mode. The Ultra is compatible with two different GPS frequencies, L1 and L5, which should provide [accurate and precise location information](https://www.zdnet.com/article/what-is-l5-precision-dual-frequency-gps-why-is-apple-using-it-and-do-you-need-it) regardless of your surroundings. The new compass app will track your route during a hike or bike ride, and then provide waypoints for you to find your way back -- should you get lost. 
 
 Every Apple Watch Ultra comes with LTE capabilities, so as long as you pay your wireless carrier for an additional plan (usually around $10 a month), your watch will always be connected, even if you leave your iPhone behind. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 3\. You need a ruggedized watch
 
@@ -104,10 +104,6 @@ The Series 8 is available in four aluminum colors this year. There's Starlight, 
 
 **See also:** [**New Apple Watch Ultra bands work with other Apple Watch models, too**](https://www.zdnet.com/article/new-apple-watch-ultra-bands-work-with-other-apple-watch-models-too/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 2\. You're not ready to pay $799 for a watch
 
 The Apple Watch SE is the most affordable watch in Apple's lineup, with models [starting at $249](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-watch%2Fapple-watch-se&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp). However, it lacks some of the key health features that the Series 8 and Ultra have -- such as ECG and blood oxygen level monitoring. 
@@ -119,7 +115,7 @@ For $399 you can get a [41mm Apple Watch Series 8](https://apple.sjv.io/c/159047
 Still, those prices are more affordable than the Ultra's price tag and the Series 8 is sure to last a few years, or at least until Apple stops providing software updates to it. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 3\. Don't need all of the extreme outdoor features
@@ -133,6 +129,10 @@ The Series 8 is water resistant, as well, and can be used while swimming or even
 **More: [The best Apple Watch models of 2022](https://www.zdnet.com/article/best-apple-watch/)**
 
 [Apple Watch Series 8 $399 at Apple](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-watch%2Fapple-watch&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Alternatives to consider
 
@@ -170,17 +170,18 @@ Open to other Apple Watch prospects? Consider the also-new Apple Watch SE.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-flavor-forge-30-epicurean-titles-that-resonate-for-2024/"><u>[New] Flavor Forge 30 Epicurean Titles That Resonate for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-grow-your-streams-money-potential-anywhere-on-devices-for-2024/"><u>[New] Grow Your Stream's Money Potential Anywhere on Devices for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-capture-movies-with-ease-cross-platform-techniques-and-tips/"><u>[New] In 2024, Capture Movies with Ease Cross-Platform Techniques & Tips</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-conceptualization-to-production-a-guide-to-making-mukbang/"><u>[New] In 2024, From Conceptualization to Production A Guide to Making Mukbang</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-get-content-ready-faster-with-this-list-of-easy-editors/"><u>[Updated] 2024 Approved Get Content Ready Faster With This List of Easy Editors</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-amazons-premier-titles-social-media-sensation-winners/"><u>[Updated] In 2024, Amazon’s Premier Titles Social Media Sensation Winners</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-gamers-galaxy-100plus-spaces-of-play/"><u>[Updated] In 2024, Gamer's Galaxy 100+ Spaces of Play</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-your-ultimate-manual-for-downloading-youtube-playlists/"><u>[Updated] Your Ultimate Manual for Downloading YouTube Playlists</u></a></li>
-<li><a href="https://win11.techidaily.com/from-emulator-to-operating-system-windows-for-steam-deck/"><u>From Emulator to Operating System: Windows for Steam Deck</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-improvements-in-windows-11s-share-options-by-microsoft/"><u>New Improvements in Windows 11'S Share Options by Microsoft</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-recover-deleted-pictures-on-x8b-without-backup-by-fonelab-android-recover-pictures/"><u>The way to recover deleted pictures on X8b without backup.</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/top-4-revolutionary-health-innovations-unveiled-by-apple-a-deep-dive/"><u>Top 4 Revolutionary Health Innovations Unveiled by Apple: A Deep Dive</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-gaining-clarity-on-your-youtube-audiences-behavior/"><u>[New] 2024 Approved Gaining Clarity on Your YouTube Audience's Behavior</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-hitch-youtube-sounds-into-imovie-tracks-swiftly/"><u>[New] 2024 Approved Hitch YouTube Sounds Into iMovie Tracks Swiftly</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-fostering-connection-through-respectful-engagement-for-2024/"><u>[New] Fostering Connection Through Respectful Engagement for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-crafting-professional-captions-with-top-online-aids-and-platforms/"><u>[Updated] Crafting Professional Captions with Top Online Aids and Platforms</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-game-changing-streaming-apps-for-gamers-for-2024/"><u>[Updated] Game-Changing Streaming Apps for Gamers for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-magnify-memories-unaltered-resolution-for-2024/"><u>[Updated] Magnify Memories Unaltered Resolution for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-top-8-mobile-mosaics-best-blend-of-affordable-and-premium-android-videomosaic-apps-for-2024/"><u>[Updated] Top 8 Mobile Mosaics Best Blend of Affordable and Premium Android Videomosaic Apps for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-10-innovative-video-call-platforms-azoom-not-necessary/"><u>2024 Approved 10 Innovative Video Call Platforms Azoom Not Necessary?</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/chucklechisel-app-for-2024/"><u>ChuckleChisel App for 2024</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/classical-harmony-at-your-fingertips-discover-how-your-library-access-transforms-you-into-netflixs-premier-music-enthusiast/"><u>Classical Harmony at Your Fingertips: Discover How Your Library Access Transforms You Into Netflix's Premier Music Enthusiast</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fixing-window-woes-what-to-do-if-the-last-usb-attached-is-not-detected/"><u>Fixing Window Woes: What to Do If the Last USB Attached Is Not Detected</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/gamers-blueprint-optimal-laptop-configurations/"><u>Gamer's Blueprint: Optimal Laptop Configurations</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/la-cle-pour-une-transition-sans-encombre-vers-le-grand-pouvoir-des-disques-durs-version-gratuite/"><u>La Clé Pour Une Transition Sans Encombre Vers Le Grand Pouvoir Des Disques Durs - Version Gratuite</u></a></li>
 </ul></div>
 

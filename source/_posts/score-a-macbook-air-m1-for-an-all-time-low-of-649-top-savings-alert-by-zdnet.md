@@ -1,7 +1,7 @@
 ---
 title: Score a MacBook Air M1 for an All-Time Low of $649 - Top Savings Alert by ZDNET
-date: 2025-01-04T16:01:41.878Z
-updated: 2025-01-07T05:14:36.531Z
+date: 2025-01-07T18:58:08.454Z
+updated: 2025-01-13T19:59:28.760Z
 tags:
   - apple
 categories:
@@ -42,7 +42,7 @@ At $649, this is the lowest price for the M1 version of the MacBook Air that we'
 The [M1 MacBook Air](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fmacbook-air-13-3-laptop-apple-m1-chip-8gb-memory-256gb-ssd-space-gray-space-gray%2F5721600.p%3FskuId%3D5721600&publisher_slug=itechdaily19598&exclusive=1) first retailed for $999 when it was released, but Apple sells refurbished versions for $799, making these deals even better than anything Apple is offering. The [M1 MacBook Air](https://goto.walmart.com/c/5597632/565706/9383?sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FApple-MacBook-Air-13-3-inch-Laptop-Silver-M1-Chip-8GB-RAM-256GB-storage%2F609040889&subId1=zd-__COM_CLICK_ID__-dtp) is available in three different colors: gold, space gray, and silver. Snag these savings while you can. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -81,16 +81,24 @@ However, deals are subject to sell out or expire at any time, though ZDNET remai
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-harnessing-youtubes-power-for-profit-mastering-short-video-earnings/"><u>[New] In 2024, Harnessing YouTube's Power for Profit Mastering Short Video Earnings</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/new-the-ultimate-list-for-fbs-most-popular-song-videos-for-2024/"><u>[New] The Ultimate List for FB's Most Popular Song Videos for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-often-do-youtubers-receive-income/"><u>[Updated] 2024 Approved How Often Do YouTubers Receive Income?</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-youtube-shorts-showing-up-after-fix/"><u>[Updated] 2024 Approved YouTube Shorts Showing Up After Fix</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-funding-fantasies-or-fiscal-facts-for-2024/"><u>[Updated] Funding Fantasies or Fiscal Facts for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-formatting-youtubes-auto-subscribe-page-easily/"><u>[Updated] In 2024, Formatting YouTube's Auto-Subscribe Page Easily</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-spectacular-8-cam-enhancers-for-improved-video-feeds/"><u>[Updated] Spectacular 8 Cam Enhancers for Improved Video Feeds</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/bites-to-blocks-top-10-video-editing-principles-for-2024/"><u>From Bites to Blocks Top 10 Video Editing Principles for 2024</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/how-to-fix-icloud-lock-on-your-iphone-12-pro-max-and-ipad-by-drfone-ios/"><u>How to fix iCloud lock on your iPhone 12 Pro Max and iPad</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/navigating-through-film-workflow-choosing-between-hdr-and-sdr/"><u>Navigating Through Film Workflow Choosing Between HDR & SDR</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/tackling-frame-loss-best-practices-for-obs-users-for-2024/"><u>Tackling Frame Loss Best Practices for OBS Users for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-a-step-by-step-guide-to-edit-youtube-videos-in-finalcut/"><u>[New] 2024 Approved A Step-by-Step Guide to Edit YouTube Videos in FinalCut</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-efficiently-convert-youtube-to-desktop-format/"><u>[New] 2024 Approved Efficiently Convert YouTube to Desktop Format</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-crafting-seamless-image-transfers-across-operating-systems/"><u>[New] Crafting Seamless Image Transfers Across Operating Systems</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-cutting-edge-identifying-the-best-10-free-online-art-schools-on-youtube-for-2024/"><u>[New] Cutting Edge Identifying the Best 10 Free Online Art Schools on YouTube for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-does-paying-regularly-for-youtube-premium-give-you-more-than-just-an-ad-free-view/"><u>[New] In 2024, Does Paying Regularly For YouTube Premium Give You More Than Just An Ad-Free View?</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-youtube-unleashed-a-creators-guide-to-greatness/"><u>[New] YouTube Unleashed A Creator's Guide to Greatness</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-ensuring-profitability-in-youtube-with-correct-monetization-for-2024/"><u>[Updated] Ensuring Profitability in YouTube with Correct Monetization for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-unraveling-the-new-dimensions-of-vegaspro-19/"><u>[Updated] Unraveling the New Dimensions of VegasPro '19</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-champions-list-best-call-alert-tunes-for-iphones/"><u>2024 Approved Champion's List Best Call Alert Tunes for iPhones</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-from-blurry-beginnings-transforming-your-videography-with-instagram-techniques/"><u>2024 Approved From Blurry Beginnings Transforming Your Videography with Instagram Techniques</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/2024-approved-visual-ventures-partnership-playbook/"><u>2024 Approved Visual Ventures Partnership Playbook</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/aufgabenplane-effektiv-organisieren-und-kopieren-sie-die-entsprechende-datei-ins-netzlaufwerk-in-windows-10/"><u>Aufgabenpläne Effektiv Organisieren Und Kopieren Sie Die Entsprechende Datei Ins Netzlaufwerk in Windows 10</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/beyond-blockbuster-horizons-favorite-films/"><u>Beyond Blockbuster Horizons Favorite Films</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/elevating-your-podcasts-online-presence-via-seo-for-2024/"><u>Elevating Your Podcast's Online Presence via SEO for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/expert-advice-on-flawless-ipad-screen-captures-for-2024/"><u>Expert Advice on Flawless iPad Screen Captures for 2024</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-here-are-some-reliable-ways-to-get-pokemon-go-friend-codes-for-oppo-reno-10-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Here Are Some Reliable Ways to Get Pokemon Go Friend Codes For Oppo Reno 10 5G | Dr.fone</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/in-2024-your-essential-guide-to-mobile-asmr-sounds/"><u>In 2024, Your Essential Guide to Mobile ASMR Sounds</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/in-2024-youtube-shorts-revenue-sharing-how-much-do-creators-get-paid/"><u>In 2024, YouTube Shorts Revenue Sharing How Much Do Creators Get Paid?</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/prime-7-dslr-options-elevating-professional-social-media-coverage-for-2024/"><u>Prime 7 DSLR Options Elevating Professional Social Media Coverage for 2024</u></a></li>
 </ul></div>
 

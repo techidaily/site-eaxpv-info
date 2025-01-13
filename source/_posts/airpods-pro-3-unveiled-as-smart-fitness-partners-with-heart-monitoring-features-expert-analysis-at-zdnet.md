@@ -1,7 +1,7 @@
 ---
 title: AirPods Pro 3 Unveiled as Smart Fitness Partners with Heart Monitoring Features | Expert Analysis at ZDNET
-date: 2024-12-30T20:10:44.735Z
-updated: 2025-01-07T01:41:57.610Z
+date: 2025-01-06T16:58:59.222Z
+updated: 2025-01-13T17:32:00.523Z
 tags:
   - apple
 categories:
@@ -41,7 +41,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Apple Watch
@@ -75,7 +75,7 @@ For example, the Apple Watch's thermometer, which is currently only [used for fe
 The company is also reportedly seeking health regulatory approval to interpret blood oxygen data. Right now, the Watch shows users oxygen blood data without telling them what it means. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## AirPods
@@ -91,7 +91,7 @@ According to the report, if all goes to plan, AirPods will be able to double as 
 Additionally, the AirPods will be able to perform hearing tests that are typically performed in an audiologist's office, which will make it simpler for users to access care without leaving their homes. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Vision Pro
@@ -140,22 +140,22 @@ Lastly, a headset version of Fitness+ might appear, so long as Apple can figure 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-free-video-embedding-for-dynamic-online-articles/"><u>[New] 2024 Approved Free Video Embedding for Dynamic Online Articles</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-live-demos-to-online-sharing-mastering-idevice-screenshots-for-video-content/"><u>[New] 2024 Approved From Live Demos to Online Sharing Mastering iDevice Screenshots for Video Content</u></a></li>
-<li><a href="https://article-posts.techidaily.com/new-2024-approved-pro-level-scripting-solutions-in-ae/"><u>[New] 2024 Approved Pro-Level Scripting Solutions in AE</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-harness-the-power-of-gs-for-clear-video-ctas-for-2024/"><u>[New] Harness the Power of GS for Clear Video CTAs for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-how-to-acquire-standardized-thumbnails-from-youtube-online-and-desktop-options-for-2024/"><u>[New] How To Acquire Standardized Thumbnails From Youtube Online & Desktop Options for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-gain-yt-prompts-prowess-with-environmentally-friendly-methods/"><u>[New] In 2024, Gain YT Prompts Prowess with Environmentally Friendly Methods</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-exploring-animated-selfies-snapchats-fun-face-filters-explained/"><u>[Updated] 2024 Approved Exploring Animated Selfies Snapchat's Fun Face Filters Explained</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-football-video-analysis-top-youtube-infographics/"><u>[Updated] 2024 Approved Football Video Analysis Top YouTube Infographics</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-raw-to-refined-youtube-thumbnail-creation-for-mobile-users/"><u>[Updated] In 2024, From Raw to Refined YouTube Thumbnail Creation for Mobile Users</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-fix-youtube-video-black-screen/"><u>[Updated] In 2024, How to Fix YouTube Video Black Screen</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/-unwanted-interrucier-top-7-selective-android-adblockers-reviewed/"><u>Avoid Unwanted Interrucier Top 7 Selective Android AdBlockers Reviewed</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/dji-phantom-3-performance-analysis/"><u>DJI Phantom 3 Performance Analysis</u></a></li>
-<li><a href="https://common-error.techidaily.com/effective-solutions-for-logitech-g930-earbuds-disconnection-problems/"><u>Effective Solutions for Logitech G930 Earbuds Disconnection Problems</u></a></li>
-<li><a href="https://games-able.techidaily.com/evaluating-the-price-tag-on-ea-play/"><u>Evaluating the Price Tag on EA Play</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/in-2024-the-efficient-hosts-guide-to-online-meeting-planning/"><u>In 2024, The Efficient Host's Guide to Online Meeting Planning</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/the-artisans-path-to-memetic-fame-via-gifs-for-2024/"><u>The Artisan's Path to Memetic Fame via GIFs for 2024</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-vn-video-editor-for-pc-a-brief-review/"><u>Updated VN Video Editor For PC - A Brief Review</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-amplify-views-effortlessly-discovering-the-best-20-youtube-techniques/"><u>[New] 2024 Approved Amplify Views Effortlessly Discovering the Best 20 YouTube Techniques</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-can-a-brief-subscribe-boost-your-content-viewing/"><u>[New] 2024 Approved Can a Brief Subscribe Boost Your Content Viewing?</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-elevate-your-youtube-channel-perfecting-video-scriptwriting-skills/"><u>[New] 2024 Approved Elevate Your YouTube Channel Perfecting Video Scriptwriting Skills</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-flavorful-funnels-catchy-recipe-channels-that-work/"><u>[New] 2024 Approved Flavorful Funnels Catchy Recipe Channels That Work</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-decoding-unlisted-videos-a-deep-dive-into-youtube-secrecy-for-2024/"><u>[New] Decoding Unlisted Videos A Deep Dive Into YouTube Secrecy for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-ghastly-graphics-maker-for-2024/"><u>[New] Ghastly Graphics Maker for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-inspiring-ideas-gratis-graphics-for-your-channel/"><u>[New] Inspiring Ideas Gratis Graphics for Your Channel</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-efficiently-shifting-videos-youtube-to-dailymotion-strategy/"><u>[Updated] In 2024, Efficiently Shifting Videos YouTube to Dailymotion Strategy</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-fix-the-youtube-shorts-not-showing-up-issue/"><u>[Updated] In 2024, How to Fix the YouTube Shorts Not Showing Up Issue?</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-professional-capturer-snappy-windows-snap/"><u>2024 Approved Professional Capturer Snappy Windows Snap</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-ultimate-guide-to-free-video-editing-and-effects-sites/"><u>2024 Approved The Ultimate Guide to Free Video Editing and Effects Sites</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/discover-the-6-finest-journaling-tools-for-on-the-go-note-taking/"><u>Discover the 6 Finest Journaling Tools for On-the-Go Note Taking</u></a></li>
+<li><a href="https://win-dash.techidaily.com/how-to-get-the-latest-thunderbolt-g2-connectivity-software-from-hewlett-packard/"><u>How to Get the Latest Thunderbolt G2 Connectivity Software From Hewlett-Packard</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-navigating-content-size-on-igtv-top-5-expert-tips-to-consider/"><u>In 2024, Navigating Content Size on IGTV Top 5 Expert Tips to Consider</u></a></li>
+<li><a href="https://article-tips.techidaily.com/melodic-messaging-audio-enhancements-for-status-for-2024/"><u>Melodic Messaging Audio Enhancements for Status for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/trouble-free-solution-to-the-ashen-error-fast-and-effective-fixes-revealed/"><u>Trouble-Free Solution to the Ashen Error – Fast and Effective Fixes Revealed</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-complete-silence-solutions-for-a-quiet-laptop/"><u>Troubleshooting Complete Silence: Solutions for a Quiet Laptop</u></a></li>
 </ul></div>
 

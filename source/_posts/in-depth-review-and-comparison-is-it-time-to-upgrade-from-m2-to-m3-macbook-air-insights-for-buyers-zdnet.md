@@ -1,7 +1,7 @@
 ---
 title: "In-Depth Review & Comparison: Is It Time to Upgrade From M2 to M3 MacBook Air? Insights for Buyers | ZDNET"
-date: 2025-01-02T07:17:33.920Z
-updated: 2025-01-07T00:14:34.812Z
+date: 2025-01-10T17:43:20.684Z
+updated: 2025-01-13T16:03:14.529Z
 tags:
   - apple
 categories:
@@ -38,7 +38,7 @@ But if pricing impacts your buying decision, then the similarly-designed iPad Ai
 **Also: [The best iPad Air cases](https://www.zdnet.com/article/best-ipad-air-case/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Specifications
@@ -68,6 +68,10 @@ The saying you can't teach an old dog new tricks doesn't really apply to the iPa
 
 That's a significant step up, considering both iPads start on equal footing with 8GB of RAM. While the iPad Air 5 didn't get Apple's newer [M2 chip](https://www.zdnet.com/article/everything-you-need-to-know-about-the-apple-m2-chip/), the M1 is still a powerhouse for graphics-intensive apps, such as video editors, 3D racing games, augmented reality, and general multitasking.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 2\. You want a better front camera and FaceTime experience
 
 Camera performance isn't typically the key selling point for tablets, let alone iPads. But with the iPad Air 5, Apple does emphasize its new and improved front-facing camera.
@@ -85,16 +89,12 @@ You will, of course, need to be under a 5G data plan, have the appropriate nano-
 [Apple iPad Air (2022) $499.97 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0DD2F93LD%2Fref%3Dasc%5Fdf%5FB0DD2F93LD1726743600000%3Fcreative%3D395261%26creativeASIN%3DB0DD2F93LD%26linkCode%3Dasn%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cc2f96935-50b5-4c02-9352-a589939a7557%7Cdtp&dtb=1)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## You should buy the iPad Air 4 (2020) if...
 
 Image: Apple
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 1\. Price comes before anything else
 
@@ -102,18 +102,18 @@ With the release of the new iPad Air, most third-party retailers have since mark
 
 [Apple iPad Air (2020) $421.79 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB08J66ZMY7%3FlinkCode%3Dogi%26th%3D1%26psc%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cc2f96935-50b5-4c02-9352-a589939a7557%7Cdtp&dtb=1)
 
-## FAQ
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+## FAQ
 
 ## Should I get the iPad Air 4 (2020) or the iPad Air 5 (2022)?
 
 You should buy the iPad Air 5 (2022) if you're looking to upgrade to the Apple M1 chip, you want a better front camera and FaceTime experience, or you want to upgrade to a 5G iPad. You should get the iPad Air 4 (2020) if the price comes before anything else. Many retailers are lowering their prices of the older iPad 4 model to clear inventory, making the 2020 model the more cost-effective iPad of the two.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Does the Apple Pencil (1st Gen) work with the iPad Air?
@@ -162,22 +162,18 @@ If you're still on the fence, below are the best alternatives to the iPad Air.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-hobby-to-hustle-making-money-with-videos/"><u>[New] 2024 Approved From Hobby to Hustle Making Money with Videos</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-green-filming-gurus-on-yt-transform-your-set-with-greenscreens/"><u>[New] 2024 Approved Green Filming Gurus on YT Transform Your Set with Greenscreens</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-guide-free-youtube-downloads-without-programs/"><u>[New] 2024 Approved Guide Free YouTube Downloads Without Programs</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/1717721242402-new-2024-approved-how-to-record-good-audio-without-a-microphone/"><u>[New] 2024 Approved How to Record Good Audio Without a Microphone?</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-fifa-video-highlights-top-youtube-data-infographics/"><u>[New] In 2024, FIFA Video Highlights Top YouTube Data Infographics</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-unlock-your-true-instagram-potential-followers-guide/"><u>[New] In 2024, Unlock Your True Instagram Potential - Followers Guide</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-2024-approved-guide-to-reinventing-facebook-video-coverages-step-by-step/"><u>[Updated] 2024 Approved Guide to Reinventing Facebook Video Coverages Step-by-Step</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-high-revenue-streaming-star-across-the-globe/"><u>[Updated] 2024 Approved High Revenue Streaming Star Across the Globe</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-precise-preservation-how-to-capture-windows/"><u>[Updated] 2024 Approved Precise Preservation How to Capture Windows</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-from-selfie-snaps-to-skincare-specials-establishing-your-youtube-brand-for-2024/"><u>[Updated] From Selfie Snaps to Skincare Specials Establishing Your YouTube Brand for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-render-and-upload-youtube-videos-faster/"><u>[Updated] In 2024, How to Render and Upload YouTube Videos Faster?</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-in-2024-the-framework-for-seamless-video-storytelling/"><u>[Updated] In 2024, The Framework for Seamless Video Storytelling</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/did-your-apple-iphone-xr-passcode-change-itself-unlock-it-now-by-drfone-ios/"><u>Did Your Apple iPhone XR Passcode Change Itself? Unlock It Now</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-can-you-unlock-iphone-xs-max-after-forgetting-the-passcode-by-drfone-ios/"><u>In 2024, Can You Unlock iPhone XS Max After Forgetting the Passcode?</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/network-locked-sim-card-inserted-on-your-oppo-reno-10-pro-5g-phone-unlock-it-now-by-drfone-android/"><u>Network Locked SIM Card Inserted On Your Oppo Reno 10 Pro 5G Phone? Unlock It Now</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/pledges-to-self-steps-to-fruition/"><u>Pledges to Self: Steps to Fruition</u></a></li>
-<li><a href="https://fox-links.techidaily.com/transforming-digital-art-with-free-versatile-lut-tools-for-2024/"><u>Transforming Digital Art with Free, Versatile LUT Tools for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-fresh-alternative-films-to-dive-into-7-favorites/"><u>[New] 2024 Approved Fresh Alternative Films to Dive Into, #7 Favorites</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-foster-viewer-connection-easy-anime-subscribe-buttons-for-youtube-creators-for-2024/"><u>[New] Foster Viewer Connection Easy Anime Subscribe Buttons for YouTube Creators for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-formulating-final-fact-finding-flourishes/"><u>[New] In 2024, Formulating Final Fact-Finding Flourishes</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-a-beginners-pathway-building-a-simple-youtube-signup/"><u>[Updated] 2024 Approved A Beginner’s Pathway Building a Simple YouTube Signup</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-from-black-and-white-to-color-classic-video-transition-tips-for-2024/"><u>[Updated] From Black-and-White to Color Classic Video Transition Tips for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-in-2024-elevating-your-presence-a-guide-to-discord-broadcasts/"><u>[Updated] In 2024, Elevating Your Presence A Guide to Discord Broadcasts</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-free-method-to-record-your-youtube-watching-experience/"><u>[Updated] In 2024, Free Method to Record Your YouTube Watching Experience</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-craft-standout-names-for-your-youtube-channel/"><u>[Updated] In 2024, How to Craft Standout Names for Your YouTube Channel</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-win-10s-top-10-video-cam-applications/"><u>[Updated] In 2024, Win 10'S Top 10 Video Cam Applications</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-reset-apple-id-and-apple-password-on-iphone-7-plus-by-drfone-ios/"><u>How to Reset Apple ID and Apple Password On iPhone 7 Plus</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-oneplus-ace-2-pro-to-other-android-devices-using-bluetooth-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from OnePlus Ace 2 Pro to Other Android Devices Using Bluetooth? | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-meizu-21-phone-without-any-data-loss-by-drfone-android/"><u>In 2024, How to Unlock Meizu 21 Phone without Any Data Loss</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-where-is-the-best-place-to-catch-dratini-on-vivo-s17-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Where Is the Best Place to Catch Dratini On Vivo S17 Pro | Dr.fone</u></a></li>
 </ul></div>
 

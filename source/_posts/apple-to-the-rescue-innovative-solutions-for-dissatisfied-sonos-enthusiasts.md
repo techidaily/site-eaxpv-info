@@ -1,7 +1,7 @@
 ---
 title: Apple to the Rescue? Innovative Solutions for Dissatisfied Sonos Enthusiasts
-date: 2025-01-06T06:02:28.573Z
-updated: 2025-01-06T19:53:09.829Z
+date: 2025-01-09T18:13:05.891Z
+updated: 2025-01-13T19:49:56.595Z
 tags:
   - apple
 categories:
@@ -39,7 +39,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Reputation botched by a software rollout
@@ -65,7 +65,7 @@ The Sonos S2 firmware, which requires additional memory and relies more on cloud
 It's not hard to imagine that [Play:3, Play:1, Play:5 Gen2, and Sub Gen1 speakers](https://support.sonos.com/en-us/article/sonos-app-version-compatibility) that have been in the wild for more than 10 years will become obsolete in the next year or so when Sonos introduces a revised S2 or S3 firmware. These speakers will likely need to be run [on legacy networks and controlled separately](https://support.sonos.com/en-us/article/set-up-separate-s1-and-s2-sonos-systems), like the S1 components were when Sonos initially rolled out S2 in August 2020.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## A lack of competitors
@@ -77,6 +77,10 @@ While many users like myself are looking for a clear migration path to a competi
 For Apple (or Amazon or Google) to truly compete with Sonos, the companies will need to support Dolby Digital 5.1 and [Dolby Atmos](https://www.dolby.com/technologies/dolby-atmos/). This would require the development of a full range of components, such as a soundbar/center channel, subwoofer, and rear surrounds, in addition to the existing left and right HomePod speakers for stereo and simulated surround (spatial audio).
 
 Here's an idea, Apple: Either buy Sonos outright and take over software development, or independently develop HomePod into a true home entertainment solution.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Why Apple should do it
 
@@ -96,16 +100,12 @@ A set-top box, whether an updated Apple TV or a centralized processor unit for A
 
 Imagine an AI processor with built-in [Apple Foundation Model LLM](https://www.zdnet.com/article/apple-builds-a-slimmed-down-ai-model-using-stanford-google-innovations/) and [ChatGPT](https://www.zdnet.com/article/what-is-chatgpt-and-why-does-it-matter-heres-everything-you-need-to-know/) integration that offers dynamic playlists tailored to your real-time preferences, activities, and moods. This AI could provide context-aware music suggestions based on your current activity, location in your home, or time of day, seamlessly enhancing your environment whether you're working out, hosting a party, or relaxing.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Interactive music discovery
 
 With interactive music discovery, you could converse with Siri to explore new music, uncover interesting facts about songs and artists, and receive personalized insights and trivia while listening. Customized listening sessions would adapt to your feedback, setting goals like discovering new artists and curating sessions to meet those objectives.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Social and collaborative features
@@ -123,7 +123,7 @@ The AI's adaptive learning capabilities could continuously refine music recommen
 **Also: [LG TVs are getting a free audio upgrade that Apple users will absolutely love](https://www.zdnet.com/home-and-office/home-entertainment/lg-tvs-are-getting-a-free-audio-upgrade-that-apple-users-will-absolutely-love/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Is Sonos cooked, and can Apple step in?
@@ -160,20 +160,24 @@ The recent missteps by Sonos have left a void in the multiroom audio market, pre
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-boring-to-breathtaking-the-transformation-of-channel-titles/"><u>[New] 2024 Approved From Boring to Breathtaking The Transformation of Channel Titles</u></a></li>
-<li><a href="https://article-tips.techidaily.com/new-2024-approved-spectacular-8-ultimate-vr-play-tools/"><u>[New] 2024 Approved Spectacular 8 Ultimate VR Play Tools</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-from-youtube-to-avi-perfect-conversion-tools-revealed-for-2024/"><u>[New] From YouTube to AVI Perfect Conversion Tools Revealed for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-hidden-gems-to-youtube-sensations-the-top-reasons-for-zero-views/"><u>[New] In 2024, From Hidden Gems to YouTube Sensations The Top Reasons for Zero Views</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-unveiling-hidden-potential-a-deep-dive-into-background-eraser-in-ps/"><u>[New] Unveiling Hidden Potential A Deep Dive Into Background Eraser in PS</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/outube-profile-picture-templates-free-downloads/"><u>[New] YouTube Profile Picture Templates – Free Downloads</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-from-live-to-digital-preserving-your-skype-talks-for-2024/"><u>[Updated] From Live to Digital Preserving Your Skype Talks for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-high-revenue-streaming-star-across-the-globe-for-2024/"><u>[Updated] High Revenue Streaming Star Across the Globe for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-dull-scenes-to-dynamic-sports-highlights/"><u>[Updated] In 2024, From Dull Scenes to Dynamic Sports Highlights</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-obscurity-to-stardom-trendsetting-tactics-for-videos/"><u>[Updated] In 2024, From Obscurity to Stardom Trendsetting Tactics for Videos</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-transform-your-short-form-video-content-top-strategies-revealed/"><u>[Updated] Transform Your Short-Form Video Content - Top Strategies Revealed</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-inside-magixs-acid-pro-and-its-competitors/"><u>2024 Approved Inside Magix's ACID Pro and Its Competitors</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/addressing-how-to-open-excel-files-in-notepad-correctly/"><u>Addressing: How to Open Excel Files in Notepad Correctly</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/can-professionals-help-you-rotate-photos-sideways-on-flipbuildercom/"><u>Can Professionals Help You Rotate Photos Sideways on FlipBuilder.com?</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/download-intel-nvme-drivers-fast-and-simple-installation-guide/"><u>Download Intel NVME Drivers - Fast & Simple Installation Guide</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-formulating-engaging-content-excerpts-for-streaming/"><u>[New] 2024 Approved Formulating Engaging Content Excerpts for Streaming</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-2024-approved-pro-level-scripting-solutions-in-ae/"><u>[New] 2024 Approved Pro-Level Scripting Solutions in AE</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-from-playtime-to-profits-ryan-kajis-youtube-cash-crusade-for-2024/"><u>[New] From Playtime to Profits Ryan Kaji's YouTube Cash Crusade for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-zero-to-hero-amplifying-youtube-influence-via-famebit-partnerships/"><u>[New] In 2024, From Zero to Hero Amplifying YouTube Influence via FameBit Partnerships</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-tackle-missing-thumbnails-on-youtube-shorts/"><u>[New] In 2024, How to Tackle Missing Thumbnails on YouTube Shorts</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-engaging-your-audience-with-optimal-video-concepts/"><u>[Updated] 2024 Approved Engaging Your Audience with Optimal Video Concepts</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-stream-viewer-unraveler/"><u>[Updated] 2024 Approved Stream Viewer Unraveler</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-behind-the-screencast-scenes-industry-secrets-revealed-for-2024/"><u>[Updated] Behind the Screencast Scenes Industry Secrets Revealed for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-historical-highlights-topping-the-list-of-learning-yt-sources-for-2024/"><u>[Updated] Historical Highlights Topping the List of Learning YT Sources for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-free-frameworks-amplify-your-youtube-vision/"><u>[Updated] In 2024, Free Frameworks Amplify Your YouTube Vision</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-live-demos-to-online-sharing-mastering-idevice-screenshots-for-video-content/"><u>[Updated] In 2024, From Live Demos to Online Sharing Mastering iDevice Screenshots for Video Content</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-stream-to-screen-how-to-download-youtube-on-iphoneipad/"><u>[Updated] In 2024, From Stream to Screen How to Download Youtube on iPhone/iPad</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-high-income-content-makers/"><u>[Updated] In 2024, High-Income Content Makers</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-visual-storytelling-through-photomosaics-for-2024/"><u>[Updated] Visual Storytelling Through Photomosaics for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/2024-approved-how-to-create-awesome-instagram-videos-templates-and-tips/"><u>2024 Approved How To Create Awesome Instagram Videos [Templates & Tips]</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-unveiling-the-magic-behind-film-plots/"><u>2024 Approved Unveiling the Magic Behind Film Plots</u></a></li>
+<li><a href="https://win-great.techidaily.com/guide-complet-pour-retrouver-des-clips-sms-perdus-techniques-modernes/"><u>Guide Complet Pour Retrouver Des Clips SMS Perdus - Techniques Modernes</u></a></li>
+<li><a href="https://common-error.techidaily.com/repairing-an-unresponsive-hp-laptop-webcam-when-using-windows-11-best-practices/"><u>Repairing an Unresponsive HP Laptop Webcam When Using Windows 11 - Best Practices</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-rated-touchscreen-laptop-picks-in-depth-reviews-and-comparisons-techradar/"><u>Top-Rated Touchscreen Laptop Picks: In-Depth Reviews & Comparisons | TechRadar</u></a></li>
 </ul></div>
 

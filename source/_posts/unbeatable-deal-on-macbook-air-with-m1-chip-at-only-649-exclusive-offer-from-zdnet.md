@@ -1,7 +1,7 @@
 ---
 title: Unbeatable Deal on MacBook Air with M1 Chip at Only $649 - Exclusive Offer From ZDNet
-date: 2024-12-31T21:20:01.745Z
-updated: 2025-01-07T03:40:30.787Z
+date: 2025-01-12T18:20:38.760Z
+updated: 2025-01-13T16:18:13.839Z
 tags:
   - apple
 categories:
@@ -42,7 +42,7 @@ At $649, this is the lowest price for the M1 version of the MacBook Air that we'
 The [M1 MacBook Air](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fmacbook-air-13-3-laptop-apple-m1-chip-8gb-memory-256gb-ssd-space-gray-space-gray%2F5721600.p%3FskuId%3D5721600&publisher_slug=itechdaily19598&exclusive=1) first retailed for $999 when it was released, but Apple sells refurbished versions for $799, making these deals even better than anything Apple is offering. The [M1 MacBook Air](https://goto.walmart.com/c/5597632/565706/9383?sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FApple-MacBook-Air-13-3-inch-Laptop-Silver-M1-Chip-8GB-RAM-256GB-storage%2F609040889&subId1=zd-__COM_CLICK_ID__-dtp) is available in three different colors: gold, space gray, and silver. Snag these savings while you can. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -81,15 +81,14 @@ However, deals are subject to sell out or expire at any time, though ZDNET remai
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-how-to-save-money-with-the-right-youtube-tv-plan-for-2024/"><u>[New] How to Save Money with the Right YouTube TV Plan for 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-in-2024-seamless-rotation-a-cameras-360-journey/"><u>[New] In 2024, Seamless Rotation A Camera's 360 Journey</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-watch-deleted-youtube-videos-online-in-2-ways/"><u>[Updated] 2024 Approved How to Watch Deleted YouTube Videos Online in 2 Ways</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-game-development-behind-the-scenes-for-2024/"><u>[Updated] Game Development Behind-the-Scenes for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-guiding-imovie-content-from-home-studio-to-youtube-hub/"><u>[Updated] In 2024, Guiding iMovie Content From Home Studio to YouTube Hub</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-mastery-of-video-sharing-a-guide-to-utilizing-zoom-on-the-youtube-platform/"><u>[Updated] Mastery of Video Sharing A Guide to Utilizing Zoom on the YouTube Platform</u></a></li>
-<li><a href="https://video-capture.techidaily.com/1726028065656-asfavi/"><u>ASFからAVIへの効果的な変換手順</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/get-ready-for-action-dive-into-a-vibrant-new-season-of-fortnite-review-and-strategy/"><u>Get Ready for Action! Dive Into a Vibrant New Season of Fortnite Review and Strategy.</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/step-by-step-guide-modifying-your-kindle-fires-physical-keyboard/"><u>Step-by-Step Guide: Modifying Your Kindle Fire's Physical Keyboard</u></a></li>
-<li><a href="https://facebook.techidaily.com/symbolic-savvy-on-social-media-a-look-at-facebooks-emoji-ecosystem/"><u>Symbolic Savvy on Social Media - A Look at Facebook’s Emoji Ecosystem</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-scripts-to-subscribers-mastering-the-production-of-engaging-educational-videos-for-youtube/"><u>[New] 2024 Approved From Scripts to Subscribers Mastering the Production of Engaging Educational Videos for YouTube</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-2024-approved-prioritizing-elements-what-to-consider-with-a-new-4k-camera-lens/"><u>[New] 2024 Approved Prioritizing Elements What to Consider with a New 4K Camera Lens</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-seamlessly-upload-videos-onto-youtubes-platform/"><u>[New] In 2024, How to Seamlessly Upload Videos Onto YouTube's Platform</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-modify-twitter-clip-visuals/"><u>[New] Modify Twitter Clip Visuals</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-from-static-to-dynamic-traffic-youtube-backlinks-explained-for-2024/"><u>[Updated] From Static to Dynamic Traffic YouTube Backlinks Explained for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-go-viral-on-youtube-with-minimal-effort-for-2024/"><u>[Updated] How to Go Viral on YouTube with Minimal Effort for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/chrome-stalling-or-freezing-on-windows-11-heres-how-to-smoothly-resolve-it/"><u>Chrome Stalling or Freezing on Windows 11? Here's How to Smoothly Resolve It</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/clear-views-combating-fog-in-gopro-photos-for-2024/"><u>Clear Views Combating Fog in GoPro Photos for 2024</u></a></li>
+<li><a href="https://meme-emoji.techidaily.com/new-the-essential-guide-to-emoji-memoji-animoji-and-bitmoji/"><u>New The Essential Guide to Emoji, Memoji, Animoji, and Bitmoji</u></a></li>
 </ul></div>
 

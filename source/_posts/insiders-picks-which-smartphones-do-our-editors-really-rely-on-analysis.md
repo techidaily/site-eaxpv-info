@@ -1,7 +1,7 @@
 ---
 title: "Insider's Picks: Which Smartphones Do Our Editors Really Rely On? Analysis"
-date: 2024-12-30T19:30:16.213Z
-updated: 2025-01-07T06:41:09.833Z
+date: 2025-01-10T18:17:27.204Z
+updated: 2025-01-13T16:25:46.540Z
 tags:
   - apple
 categories:
@@ -17,10 +17,6 @@ Curious about the favorite devices and phone buying habits of _ZDNet's_ tech rep
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
 
@@ -51,6 +47,10 @@ Cons
 * New design Cameras are impressive Performance Battery life
 
 ## iPhone 12 Pro
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Jason Cipriani and Simon Bisson
 
@@ -99,7 +99,7 @@ Cons
 * Long battery life Strong performance The camera is very impressive
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## iPhone 12 Pro Max
@@ -115,7 +115,7 @@ Show Expert Take Show less
 ## iPhone SE (2020)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Greg Nichols, Aimee Chanthadavong, and David Grober
@@ -162,14 +162,10 @@ Pros
 Cons 
 * Fast performance New camera features Strong battery life
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## iPhone 11 Pro
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Ed Bott
@@ -196,11 +192,11 @@ Pros
 Cons 
 * Strong battery life Good performance More affordable
 
-## Google Pixel 2
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+## Google Pixel 2
 
 ### Tony Baer
 
@@ -217,7 +213,7 @@ Show less
 [View now at Huawei P40 Pro](https://consumer.huawei.com/en/phones/p40-pro/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Huawei P20 Pro
@@ -260,13 +256,17 @@ Show Expert Take Show less
 
 ###   
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ###   
 
-## iPhone X
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+## iPhone X
 
 ### Robin Harris
 
@@ -284,11 +284,11 @@ Pros
 Cons 
 * Best smartphone display Worthwhile camera improvements Battery life is solid
 
-## iPhone XS Max
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+## iPhone XS Max
 
 ### Asha Barbaschow
 
@@ -308,10 +308,6 @@ Purchased in 2016, I've had no reason to upgrade in four years. The thing does a
 
 ## iPhone 6s Plus
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### David Gewirtz and Iliana Meir
 
 **David Gewirtz:** I am still using my iPhone 6s Plus from 2015\. For those keeping track, that's almost six years old. But it's the best phone I've ever used (with the Palm Treo running a close second). I haven't wanted to give it up because I use the headphone adapter while filming and to be sure I have a set of earbuds that never run out of battery power. Sure, the new iPhones seem nice, but I don't have a single complaint about this one, so why spend thousands of dollars when this thing hasn't failed me once?
@@ -323,6 +319,10 @@ Purchased in 2016, I've had no reason to upgrade in four years. The thing does a
 **Iliana Meir:** Bought it in 2016 and it hasn't broken despite a few drops and accidents. I only use it for essential stuff: Check mails, calls, Instagram, Maps, so I haven't felt the need to upgrade. The camera feels outdated (but I have a few professional cameras for work and never use the iPhone for that) and storage capacity (64GB) is no longer enough, so I might change at the end of 2021.
 
 **Next phone or dream phone?** I have no idea. I get overwhelmed by the amount of choice. It'll be an iPhone I guess. I'm used to them.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Lumia 1520
 
@@ -376,22 +376,24 @@ Show Expert Take Show less
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-2024-approved-3dr-alone-unpackaging-a-single-user-review/"><u>[New] 2024 Approved '3DR' Alone Unpackaging a Single User Review</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-convert-youtubes-audios-to-mp3-safely-step-by-step-guide/"><u>[New] 2024 Approved How To Convert YouTube's Audios to MP3 Safely - Step-by-Step Guide</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-from-making-dreams-real-steps-towards-becoming-a-vtuber-in-2024/"><u>[New] From Making Dreams Real Steps Towards Becoming a VTuber, In 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-green-walls-in-grey-buildings-a-step-towards-eco-cities/"><u>[New] In 2024, Green Walls in Grey Buildings A Step Towards Eco-Cities</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-make-youtube-video-the-ultimate-guide/"><u>[New] In 2024, How to Make YouTube Video The Ultimate Guide</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-add-timestamps-on-youtube-video-link/"><u>[Updated] 2024 Approved How to Add Timestamps on YouTube Video Link?</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-fiscally-flourishing-through-film-reviewing-retail-relics-for-2024/"><u>[Updated] Fiscally Flourishing Through Film Reviewing Retail Relics for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-from-humble-beginnings-to-prodigy-carryminatis-earnings-ajey-for-2024/"><u>[Updated] From Humble Beginnings to Prodigy CarryMinati's Earnings (Ajey) for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-free-aesthetic-essentials-for-youtube-artistry/"><u>[Updated] In 2024, Free Aesthetic Essentials for YouTube Artistry</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/2024-approved-expert-tips-finding-the-best-text-design-resources/"><u>2024 Approved Expert Tips Finding the Best Text Design Resources</u></a></li>
-<li><a href="https://article-posts.techidaily.com/2024-approved-exploring-the-art-of-audio-mixdowns-via-crossfade/"><u>2024 Approved Exploring the Art of Audio Mixdowns via Crossfade</u></a></li>
-<li><a href="https://fox-links.techidaily.com/2024-approved-snap-up-humor-kapwings-meme-mastery-tool/"><u>2024 Approved Snap Up Humor - Kapwing’s Meme Mastery Tool</u></a></li>
-<li><a href="https://program-issues.techidaily.com/guide-solving-the-corsair-icue-connectivity-problems-on-windows-11-pcs/"><u>Guide: Solving the Corsair iCUE Connectivity Problems on Windows 11 PCs</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-fix-androidprocessmedia-has-stopped-on-vivo-y27-4g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Android.Process.Media Has Stopped on Vivo Y27 4G | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-fix-lenovo-keyboard-issues-when-it-stops-responding/"><u>How to Fix Lenovo Keyboard Issues When It Stops Responding</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-on-nokia-c12-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock on Nokia C12 Devices</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/no-phone-needed-register-for-online-applications-efficiently/"><u>No Phone Needed: Register for Online Applications Efficiently</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixed-letter-not-working-on-keyboard-win-1011/"><u>[FIXED] Letter Not Working On Keyboard Win 10/11</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-broadcast-strategies-share-twitch-videos-on-fb/"><u>[New] Broadcast Strategies Share Twitch Videos on FB</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-gopro-hero5-premium-showdown-black-edition/"><u>[New] GoPro Hero5 Premium Showdown Black Edition</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-earning-strategies-with-youtubes-adsense-payout-per-k-viewers/"><u>[New] In 2024, Earning Strategies with Youtube's AdSense Payout per K Viewers</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-integrating-youtube-tracks-into-imovie-projects-easily/"><u>[New] Integrating YouTube Tracks Into iMovie Projects Easily</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-mastering-youtube-traffic-for-new-content-creators/"><u>[New] Mastering YouTube Traffic for New Content Creators</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-elevate-your-watchlist-experience-with-youtubes-av1-settings-for-2024/"><u>[Updated] Elevate Your Watchlist Experience with YouTube's AV1 Settings for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-detailed-guidance-on-crafting-dynamic-yt-profiles/"><u>[Updated] In 2024, Detailed Guidance on Crafting Dynamic YT Profiles</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-discovering-income-monetization-through-youtube-sponsored-videos/"><u>[Updated] In 2024, Discovering Income Monetization Through YouTube Sponsored Videos?</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-creation-to-consumption-igtv-vs-youtube-explained-for-you/"><u>[Updated] In 2024, From Creation to Consumption IGTV Vs. YouTube Explained for You</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-much-can-you-earn-on-youtube-via-ad-revenue/"><u>[Updated] In 2024, How Much Can You Earn on YouTube via Ad Revenue?</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-live-techniques-lowering-volume-gradually/"><u>[Updated] Live Techniques Lowering Volume Gradually</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-youtube-policies-versus-creative-commons-a-comparative-study/"><u>[Updated] Youtube Policies Versus Creative Commons A Comparative Study</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/formulating-fascinating-film-moments-for-2024/"><u>Formulating Fascinating Film Moments for 2024</u></a></li>
+<li><a href="https://win-best.techidaily.com/free-web-based-converter-transform-opus-to-wma-using-moveai/"><u>Free Web-Based Converter: Transform Opus to WMA Using Move.ai</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-can-we-unlock-our-infinix-note-30-vip-racing-edition-phone-screen-by-drfone-android/"><u>In 2024, How Can We Unlock Our Infinix Note 30 VIP Racing Edition Phone Screen?</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-step-into-the-world-of-precise-editing-tiktok-number-modification/"><u>In 2024, Step Into the World of Precise Editing TikTok Number Modification</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/newbies-navigation-to-net-worth-on-periscope-for-2024/"><u>Newbie's Navigation to Net Worth on Periscope for 2024</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/the-complete-guide-to-tecno-camon-20-premier-5g-frp-bypass-everything-you-need-to-know-by-drfone-android/"><u>The Complete Guide to Tecno Camon 20 Premier 5G FRP Bypass Everything You Need to Know</u></a></li>
 </ul></div>
 

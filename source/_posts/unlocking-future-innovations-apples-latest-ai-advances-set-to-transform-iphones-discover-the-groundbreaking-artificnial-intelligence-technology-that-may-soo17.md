@@ -1,7 +1,7 @@
 ---
 title: "Unlocking Future Innovations: Apple's Latest AI Advances Set to Transform iPhones - Discover the Groundbreaking Artificnial Intelligence Technology that May Soon Elevate Your iPhone Experience, as Unveiled by Apple Research."
-date: 2024-12-30T18:35:26.605Z
-updated: 2025-01-06T21:16:50.220Z
+date: 2025-01-08T18:35:44.191Z
+updated: 2025-01-13T18:09:38.430Z
 tags:
   - apple
 categories:
@@ -38,10 +38,6 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Apple Intelligence (AI)
 
 Maria Diaz/ZDNET
@@ -65,7 +61,7 @@ Maria Diaz/ZDNET
 * Apple Intelligence is free on iOS 18, iPadOS 18, and MacOS Sequoia, and will be available to try in English only this summer.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Partnership with OpenAI
@@ -75,6 +71,10 @@ Jason Hiner/ZDNET
 * Apple also confirmed its partnership with OpenAI by integrating [ChatGPT](https://www.zdnet.com/article/what-is-chatgpt-and-why-does-it-matter-heres-everything-you-need-to-know/) with Siri. With a user's permission, Siri can send a request to ChatGPT for help. For example, if you ask Siri for assistance on a task it deems better for ChatGPT, Siri will suggest you use the chatbot instead and forward your request. ChatGPT's writing capabilities can also be leveraged within certain writing tasks.
 * Users can access ChatGPT via this integration for free, and OpenAI will not log their data. ChatGPT Plus users can connect their subscriptions to access more advanced features, in which case OpenAI's data usage policies apply.
 * The ChatGPT integration will be coming to iOS 18, iPadOS 18, and MacOS Sequoia later this year.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## iOS 18
 
@@ -93,6 +93,10 @@ Adam Breeden/ZDNET
 * The Messages app now supports [**Rich Communication Services (RCS).**](https://www.zdnet.com/article/apple-is-finally-adding-rcs-to-the-iphone-and-i-couldnt-be-more-excited/)
 * The **Safari app** was upgraded to include key information about a webpage. You can read more about the Safari upgrades under the MacOS section of this article.
 * The **Calendar app** can now pull from the Reminders app for a more seamless schedule overview.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## WatchOS 11
 
@@ -130,7 +134,7 @@ Adam Breeden/ZDNET
 * Apple also launched a new **Viewer experience**, which does for video what Reader does for text.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## VisionOS 2
@@ -151,7 +155,7 @@ Jason Hiner/ZDNET
 * Apple is also making the Vision Pro available in more countries starting June 28\. You can see the full list [here](https://www.apple.com/newsroom/2024/06/apple-vision-pro-arrives-in-new-countries-and-regions-beginning-june-28/).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## AirPods
@@ -161,10 +165,6 @@ Jason Hiner/ZDNET
 * AirPods Pro are getting **Voice Isolation** to enhance call quality in noisier environments.
 * With the new **Siri Interactions**, users can now **nod or shake their head** "yes" or "no" when responding to Siri.
 * Apple is also releasing a **Personalized Spatial Audio API** for game developers to build around the AirPods' audio technology.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## tvOS 18
 
@@ -210,22 +210,18 @@ Screenshot by Nina Raemont/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-no-cash-to-youtube-wealth-unlocking-earnings-at-the-500-subs-level/"><u>[New] In 2024, From No Cash to YouTube Wealth Unlocking Earnings at the 500 Subs Level</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-oven-to-screen-cooking-videos-unveiled/"><u>[New] In 2024, From Oven to Screen Cooking Videos Unveiled</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-viewer-to-video-voyager-building-strong-backlinks-in-youtube/"><u>[New] In 2024, From Viewer to Video Voyager Building Strong Backlinks in YouTube</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/new-in-2024-optimizing-your-fb-video-ads-20-best-tips-for-success/"><u>[New] In 2024, Optimizing Your FB Video Ads 20 Best Tips for Success</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-why-instagrams-videos-are-tilted-a-bug-a-glitch/"><u>[New] Why Instagram's Videos Are Tilted - A Bug, a Glitch?</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-conference-call-to-youtube-stream-how-to-broadcast-google-meet/"><u>[Updated] 2024 Approved From Conference Call to YouTube Stream - How To Broadcast Google Meet</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-high-quality-youtube-images-download-without-any-cost/"><u>[Updated] 2024 Approved High-Quality YouTube Images Download Without Any Cost</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-hashtag-wisdom-jumpstart-your-6-figure-youtube-rank-for-2024/"><u>[Updated] Hashtag Wisdom Jumpstart Your 6-Figure Youtube Rank for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-hollywood-hacks-a-filmmakers-guide-to-cinematic-excellence/"><u>[Updated] Hollywood Hacks A Filmmaker’s Guide to Cinematic Excellence</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-free-traffic-on-youtube-tips-that-actually-work/"><u>[Updated] In 2024, Free Traffic on YouTube Tips That Actually Work</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-get-hooked-easy-ways-to-loop-any-youtube-video/"><u>[Updated] In 2024, Get Hooked Easy Ways to Loop Any YouTube Video</u></a></li>
-<li><a href="https://fake-location.techidaily.com/dose-life360-notify-me-when-someone-checks-my-location-on-motorola-moto-g-stylus-2023-drfone-by-drfone-virtual-android/"><u>Dose Life360 Notify Me When Someone Checks My Location On Motorola Moto G Stylus (2023)? | Dr.fone</u></a></li>
-<li><a href="https://win-dash.techidaily.com/download-and-install-the-latest-hp-laserjet-p1606dn-printer-drivers-on-your-windows-pc/"><u>Download and Install the Latest HP LaserJet P1606dn Printer Drivers on Your Windows PC</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/in-2024-crafting-excellent-canon-temp-video-series/"><u>In 2024, Crafting Excellent Canon Temp Video Series</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-poco-m6-pro-5g-to-mac-drfone-by-drfone-android/"><u>In 2024, How to Mirror Poco M6 Pro 5G to Mac? | Dr.fone</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-top-8-best-free-srt-translators-online-tips-to-choose/"><u>In 2024, Top 8 Best Free SRT Translators Online (Tips to Choose)</u></a></li>
-<li><a href="https://fox-info.techidaily.com/in-2024-ultimate-list-of-text-tools-and-plugins/"><u>In 2024, Ultimate List of Text Tools & Plugins</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-boosting-audience-size-a-comprehensive-guide-to-youtube-shorts-success/"><u>[New] 2024 Approved Boosting Audience Size A Comprehensive Guide to YouTube Shorts Success</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-expert-strategies-for-tackling-copyright-claims-on-youtube/"><u>[New] 2024 Approved Expert Strategies for Tackling Copyright Claims on YouTube</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-evaluating-the-financial-returns-for-makers-on-youtube-shorts/"><u>[New] In 2024, Evaluating the Financial Returns for Maker's on YouTube Shorts</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-5-innovative-strategies-for-crafting-youtube-titles-and-tags/"><u>[Updated] 2024 Approved 5 Innovative Strategies for Crafting YouTube Titles & Tags</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-crafting-visuals-the-science-of-youtube-banners-and-thumbnails-for-2024/"><u>[Updated] Crafting Visuals The Science of YouTube Banners & Thumbnails for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-in-2024-awesome-atmosphere-discotheme-essentials-by-betterdiscord/"><u>[Updated] In 2024, Awesome Atmosphere DiscoTheme Essentials by BetterDiscord</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-she-shares-we-watch-top-female-content-creators-on-youtube/"><u>[Updated] She Shares, We Watch Top Female Content Creators on YouTube</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-unveiling-the-simple-nature-of-storytelling/"><u>2024 Approved Unveiling the Simple Nature of Storytelling</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-infinix-hot-40i-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Infinix Hot 40i</u></a></li>
+<li><a href="https://android-location.techidaily.com/fake-android-location-without-rooting-for-your-realme-v30-drfone-by-drfone-virtual/"><u>Fake Android Location without Rooting For Your Realme V30 | Dr.fone</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/latin-phrases-the-50-most-cool-and-classy-expressions/"><u>Latin Phrases: The 50 Most Cool and Classy Expressions</u></a></li>
+<li><a href="https://fake-location.techidaily.com/prank-your-friends-easy-ways-to-fake-and-share-google-maps-location-on-lava-blaze-2-pro-drfone-by-drfone-virtual-android/"><u>Prank Your Friends! Easy Ways to Fake and Share Google Maps Location On Lava Blaze 2 Pro | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/ultimate-guide-to-free-pptp-vpn-for-beginners-on-realme-v30t-drfone-by-drfone-virtual-android/"><u>Ultimate Guide to Free PPTP VPN For Beginners On Realme V30T | Dr.fone</u></a></li>
 </ul></div>
 

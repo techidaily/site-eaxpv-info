@@ -1,7 +1,7 @@
 ---
 title: "Comparing the M1 and M3 MacBook Pro Models: Is It Time for an Upgrade?"
-date: 2024-12-30T19:33:46.458Z
-updated: 2025-01-06T23:11:24.658Z
+date: 2025-01-09T18:44:11.141Z
+updated: 2025-01-13T16:19:50.524Z
 tags:
   - apple
 categories:
@@ -29,7 +29,7 @@ But if you have the M1 MacBook Pro, the question of upgrading becomes a little t
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Specifications
@@ -78,15 +78,15 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ###  3\. You prefer a smaller overall size and touch bar
 
 The M1 and M2 versions of the MacBook Pro had a 13-inch option, but that choice is missing from the M3\. So, if you prefer a smaller layout for your MacBook, you'll want to look to the M1\. Perhaps the bigger loss here, though, is the [touch bar](https://www.zdnet.com/article/apple-finally-admits-it-made-a-mistake-and-backtracks-on-three-foolish-macbook-pro-design-decisions/), which is no longer available on any M3 model. While most people weren't fans of the touch bar, which was essentially an OLED strip of buttons that changed depending on context, it still had its core users. Are you one of them?
 
 [Buy the M1 MacBook Pro View now at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FApple-MacBook-14-inch-10%E2%80%91core-16%E2%80%91core%2Fdp%2FB09JQWSQK7%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C3f20bb47-6e6c-4077-aad9-a19f341ca9fd%7Cdtp&dtb=1)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  You should buy the M3 MacBook Pro if...
 
@@ -95,7 +95,7 @@ Buy a MacBook Pro with an M3 Pro chip on sale now.
 Jason Hiner/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ###  1\. You're working outside or in other very bright environments
@@ -103,7 +103,7 @@ Jason Hiner/ZDNET
 One of the biggest differences between the M1 and the M3 is the overall brightness. For SDR content, the M1 tops out at 500 nits while the M3 triples that with 1,600 nits. In a standard office environment, the former would be just fine. But in a sunny outdoor environment or a very bright indoor setting, this is going to be a noticeable difference. There are some third-party apps that let you increase the screen brightness of the M1, but if you want the best brightness, you'll need to get the newest device.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ###  2\. You're doing very intensive or time-sensitive tasks
@@ -121,7 +121,7 @@ It's been almost three years since Apple launched its M1-powered systems, so the
 [Buy the MacBook Pro M3 View now at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FApple-MacBook-Laptop-8%E2%80%91core-10%E2%80%91core%2Fdp%2FB0CM5KC8X7%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C3f20bb47-6e6c-4077-aad9-a19f341ca9fd%7Cdtp&dtb=1)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Alternatives to consider
@@ -158,22 +158,16 @@ It's been almost three years since Apple launched its M1-powered systems, so the
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-fb-share-strategies-for-your-youtube-content/"><u>[New] 2024 Approved FB Share Strategies for Your YouTube Content</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-find-your-way-the-insider-guide-to-youtube-video-management-hub/"><u>[New] 2024 Approved Find Your Way The Insider Guide to YouTube Video Management Hub</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-free-end-credits-excellence-top-6-tutorials/"><u>[New] 2024 Approved Free End Credits Excellence Top 6 Tutorials</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-instantly-design-custom-coverage-for-your-short-videos/"><u>[New] 2024 Approved How To Instantly Design Custom Coverage For Your Short Videos</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-the-ultimate-guide-to-instagrams-square-videos-using-imovie/"><u>[New] 2024 Approved The Ultimate Guide to Instagram's Square Videos Using iMovie</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-concealed-chronicle-watchers-5-premier-application-choices/"><u>[New] Concealed Chronicle Watchers 5 Premier Application Choices</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-find-your-digital-companion-the-top-6-youtube-personality-puzzles-for-2024/"><u>[New] Find Your Digital Companion The Top 6 YouTube Personality Puzzles for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-twitchs-stage-to-youtube-writers-guide-to-cross-platform-content/"><u>[New] In 2024, From Twitch's Stage to YouTube’ Writers Guide to Cross-Platform Content</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-clear-the-clutter-blurring-backgrounds-for-engaging-yt/"><u>[New] In 2024, How to Clear the Clutter Blurring Backgrounds for Engaging YT</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-snip-and-save-from-youtube-the-ultimate-guide/"><u>[Updated] In 2024, How to Snip and Save From YouTube The Ultimate Guide</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/enhancing-visuals-through-effective-music-addition-techniques-in-premiere-pro/"><u>Enhancing Visuals Through Effective Music Addition Techniques in Premiere Pro</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-samsung-galaxy-a25-5g-to-any-ios-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Samsung Galaxy A25 5G to Any iOS Devices | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-unlock-tecno-pop-8-phone-pattern-lock-without-factory-reset-by-drfone-android/"><u>How to Unlock Tecno Pop 8 Phone Pattern Lock without Factory Reset</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-bypass-activation-lock-on-apple-watch-or-iphone-15-plus-by-drfone-ios/"><u>In 2024, How To Bypass Activation Lock On Apple Watch Or iPhone 15 Plus?</u></a></li>
-<li><a href="https://article-tips.techidaily.com/in-2024-unparalleled-capturing-the-best-camcorders/"><u>In 2024, Unparalleled Capturing The Best Camcorders</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/96317120-9781401943813-the-numerology-guidebook/"><u>The Numerology Guidebook | Free Book</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/top-10-most-effective-gpt-3-conversational-starters/"><u>Top 10 Most Effective GPT-3 Conversational Starters</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-free-youtube-artwork-hacks-snag-high-res-thumbnails-now/"><u>[New] 2024 Approved Free YouTube Artwork Hacks - Snag High-Res Thumbnails Now</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-channel-connectivity-made-simple-easy-to-use-youtube-buttons-for-2024/"><u>[New] Channel Connectivity Made Simple Easy-to-Use YouTube Buttons for 2024</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/new-creating-heartfelt-youtube-journeys/"><u>[New] Creating Heartfelt YouTube Journeys</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-jokes-in-jams-best-funny-video-concepts-under-five-minutes/"><u>[Updated] Jokes in Jams Best Funny Video Concepts Under Five Minutes</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-harnessing-the-potential-of-youtube-shorts-advertising/"><u>2024 Approved Harnessing the Potential of YouTube Shorts Advertising</u></a></li>
+<li><a href="https://location-fake.techidaily.com/a-detailed-guide-on-faking-your-location-in-mozilla-firefox-on-xiaomi-14-pro-drfone-by-drfone-virtual-android/"><u>A Detailed Guide on Faking Your Location in Mozilla Firefox On Xiaomi 14 Pro | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/android-safe-mode-how-to-turn-off-safe-mode-on-samsung-galaxy-f04-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Safe Mode - How to Turn off Safe Mode on Samsung Galaxy F04? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-lost-data-from-iphone-7-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How To Recover Lost Data from iPhone 7? | Dr.fone</u></a></li>
+<li><a href="https://discover-great.techidaily.com/solving-issues-with-scrambling-errors-in-handbrake-dvd-conversions/"><u>Solving Issues with Scrambling Errors in HandBrake DVD Conversions</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/the-art-of-thumbnail-and-banner-design-for-videos-for-2024/"><u>The Art of Thumbnail and Banner Design for Videos for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/unlock-youtube-monetization-a-focus-on-short-video-profits-for-2024/"><u>Unlock YouTube Monetization A Focus on Short Video Profits for 2024</u></a></li>
 </ul></div>
 

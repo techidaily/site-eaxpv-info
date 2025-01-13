@@ -1,7 +1,7 @@
 ---
 title: "Secure Your iPhone From Being Located via Journal App: A Step-by-Step Guide | Tech Insights by ZDNET"
-date: 2025-01-03T18:23:43.846Z
-updated: 2025-01-06T16:39:57.139Z
+date: 2025-01-11T18:51:06.293Z
+updated: 2025-01-13T18:06:10.765Z
 tags:
   - apple
 categories:
@@ -25,7 +25,7 @@ Using a computer to back up your phone won't cost you a monthly iCloud membershi
 ## Here's how to back up your iPhone with iCloud
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Step 1: Go to settings and tap on your name at the top
@@ -33,6 +33,10 @@ Using a computer to back up your phone won't cost you a monthly iCloud membershi
 Image: Maria Diaz / ZDNet
 
 This option gives you access to your Apple ID, iCloud, and Purchases settings. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Step 2: Tap on iCloud
 
@@ -50,25 +54,25 @@ Tap on the toggle to enable iCloud backups, and **Back Up Now** will appear, sel
 
 5GB is not enough for a lot of us, especially if you've never backed up your iPhone. But you can choose what gets backed up to reduce the amount of data to upload to iCloud or buy more storage. If you're still over the limit and don't want to pay for a membership, then you can back up to a computer.
 
-## Here's how to back up your iPhone on a Mac
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+## Here's how to back up your iPhone on a Mac
 
 ### Step 1: Connect your iPhone to the computer
 
 Image: Maria Diaz / ZDNet
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Step 2: Open Finder to find your iPhone in Locations
 
 Image: Maria Diaz / ZDNet
 
 Gone are the days when iTunes was the go-to to get data out of your iPhone. Open **Finder** to view your iPhone in **Locations,** and there will be a snapshot of the current storage information, current iOS and any updates, and backup options.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Step 3: Select Back up to this Mac and click on Back Up Now
 
@@ -89,21 +93,17 @@ Here are the [different plans iCloud offers](https://apple.sjv.io/c/159047/43503
 * iCloud+: 200GB of storage $2.99
 * iCloud+: 2TB of storage $9.99
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Is it better to back up iPhone on a computer or iCloud?
 
 Both options have their pros and cons, but I personally prefer a cloud service backup. I like having my photos and videos easily accessible through an app on my phone without occupying storage space. This beats having to get into a computer to find an old photo every time I want one. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Do I need to back up iPhone apps?
 
 Your purchased apps don't need to be backed up; that information is associated with your Apple ID, so they can be easily downloaded when you want them again. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Is there another cloud service aside from iCloud?
 
@@ -141,22 +141,19 @@ There are a lot of cloud options, but it's important to make sure you're giving 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-financial-fortitude-for-youtubers-beyond-basic-earnings/"><u>[New] 2024 Approved Financial Fortitude for YouTubers Beyond Basic Earnings</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-photo-perfection-at-your-fingertips-top-10-stickers-on-iphones-and-androids/"><u>[New] 2024 Approved Photo Perfection at Your Fingertips Top 10 Stickers on iPhones & Androids</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-fresh-footage-frequent-flows-dos-and-donts-for-streamlining-video-content/"><u>[New] In 2024, Fresh Footage, Frequent Flows Do's & Don'ts for Streamlining Video Content</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-flash-vids-unpacked-whats-inside/"><u>[Updated] 2024 Approved Flash Vids Unpacked What's Inside?</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-watch-list-to-download-youtube-playlist-in-minutes/"><u>[Updated] 2024 Approved From Watch List to Download YouTube Playlist in Minutes</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-easy-steps-to-decode-your-facebook-data-for-2024/"><u>[Updated] Easy Steps to Decode Your Facebook Data for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-estimate-income-from-youtube-video-snippets-for-2024/"><u>[Updated] How to Estimate Income From YouTube Video Snippets for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-verify-your-youtube-account-for-2024/"><u>[Updated] How to Verify Your YouTube Account for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-flawless-soundscapes-in-the-world-of-social-media-videos/"><u>[Updated] In 2024, Flawless Soundscapes in the World of Social Media Videos</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-data-to-drama-utilizing-google-trends-in-video-planning/"><u>[Updated] In 2024, From Data to Drama Utilizing Google Trends in Video Planning</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/102plus-vital-croatian-phrases-your-language-lifeline-in-croatia/"><u>102+ Vital Croatian Phrases: Your Language Lifeline in Croatia</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/2024-approved-add-flair-with-gifs-on-snapchat-a-comprehensive-walkthrough/"><u>2024 Approved Add Flair with GIFs on Snapchat – A Comprehensive Walkthrough</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/reviving-your-unresponsive-gaming-keyboard-fixes-for-no-light-up-on-razer-devices/"><u>Reviving Your Unresponsive Gaming Keyboard: Fixes for No Light-Up on Razer Devices</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/swaying-symbols-dynamic-animation-for-text-effects-for-2024/"><u>Swaying Symbols Dynamic Animation for Text Effects for 2024</u></a></li>
-<li><a href="https://discover-community.techidaily.com/troubleshooting-an-offline-printer-expert-advice-from-yl-computings-guide/"><u>Troubleshooting an Offline Printer: Expert Advice From YL Computing's Guide</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/unmissable-benq-offers-during-prime-day-high-quality-monitors-and-projectors/"><u>Unmissable BenQ Offers During Prime Day - High-Quality Monitors & Projectors</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/unveiling-lenovos-upgraded-thinkpad-x1-in-depth-analysis-and-news-coverage/"><u>Unveiling Lenovo's Upgraded ThinkPad X1: In-Depth Analysis and News Coverage</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-boosting-channels-growth-strategies-for-effective-trailers-for-2024/"><u>[New] Boosting Channels' Growth Strategies for Effective Trailers for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-enhancing-video-quality-with-right-lighting-for-2024/"><u>[New] Enhancing Video Quality with Right Lighting for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-expressiveness-enhancing-youtube-comments-via-emojis-for-2024/"><u>[New] Expressiveness Enhancing YouTube Comments via Emojis for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-creation-to-consumption-igtv-vs-youtube-explained-for-you/"><u>[New] In 2024, From Creation to Consumption IGTV Vs. YouTube Explained for You</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-mastering-closer-video-in-google-meet-sessions/"><u>[New] Mastering Closer Video in Google Meet Sessions</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-crafting-a-pro-sports-youtube-feed-on-macos-for-2024/"><u>[Updated] Crafting a Pro Sports YouTube Feed on MacOS for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-streaming-services-face-off-facebook-youtube-and-spaces/"><u>[Updated] Streaming Services Face-Off FACEbook, YOUTube, & Spaces</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-the-beginners-blueprint-to-building-top-10-easy-to-create-biz-youtubes-for-2024/"><u>[Updated] The Beginner's Blueprint to Building Top 10 Easy-to-Create Biz YouTubes for 2024</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-hidefake-snapchat-location-on-your-samsung-galaxy-a05s-drfone-by-drfone-virtual-android/"><u>How to Hide/Fake Snapchat Location on Your Samsung Galaxy A05s | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-corrupt-mp4-and-avi-files-of-vivo-y100-with-video-repair-utility-on-mac-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair corrupt MP4 and AVI files of Vivo Y100 with Video Repair Utility on Mac?</u></a></li>
+<li><a href="https://fox-info.techidaily.com/how-to-transfer-videos-and-photos-from-a-pc-to-an-iphone-for-2024/"><u>How to Transfer Videos and Photos From a PC to an iPhone for 2024</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-unlocking-the-power-of-smart-lock-a-beginners-guide-for-nokia-c300-users-by-drfone-android/"><u>In 2024, Unlocking the Power of Smart Lock A Beginners Guide for Nokia C300 Users</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/mobile-app-for-removing-watermarks-from-online-videos/"><u>Mobile App for Removing Watermarks From Online Videos</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/top-rated-mini-tablet-reviews-of-2024-in-depth-analysis-by-tech-experts/"><u>Top-Rated Mini Tablet Reviews of 2024 - In Depth Analysis by Tech Experts</u></a></li>
 </ul></div>
 

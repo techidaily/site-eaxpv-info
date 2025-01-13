@@ -1,7 +1,7 @@
 ---
 title: Pixel 9 Pro XL vs iPhone 15 Pro Photography Battle Reveals Unexpected Victor | TechSpot
-date: 2025-01-06T00:53:28.921Z
-updated: 2025-01-06T20:36:35.493Z
+date: 2025-01-12T18:31:23.992Z
+updated: 2025-01-13T18:15:40.430Z
 tags:
   - apple
 categories:
@@ -22,12 +22,16 @@ It's no secret that iPhones aren't the most rugged devices, sometimes yielding s
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What is the best iPhone 16 case right now?
 
 Our pick for the best iPhone 16 case right now is the [Nomad Sport Case](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fstores%2FNOMAD%2Fpage%2F6927BCAB-A05E-40FA-ADA7-1E37C46F23E5%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ca1266d9a-4c56-49fb-a7a2-ebc61239e716%7Cdtp&dtb=1) case. This brand has been a longtime ZDNET favorite for its sleek form factor, [MagSafe capabilities](https://www.zdnet.com/article/best-magsafe-wallets/), and drop protection without a bulky form factor. Keep reading for more of our iPhone 16 case picks.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The best iPhone 16 cases of 2024
@@ -44,10 +48,6 @@ Pros
 
 Cons 
 * Only available for iPhone 16 Pro models
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Nomad Sport Case
 
@@ -79,7 +79,7 @@ Cons
 ## Torras 360-degree OStand
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Best kickstand iPhone 16 case
@@ -106,11 +106,11 @@ Cons
 * Minimal drop protection
 * Heftier price
 
-## Pitaka Ultra Slim case
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+## Pitaka Ultra Slim case
 
 ### Best thin iPhone 16 case
 
@@ -136,11 +136,11 @@ Pros
 Cons 
 * Low drop protection
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Smartish Gripmunk case
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Best cheap iPhone 16 case
 
@@ -165,10 +165,6 @@ Pros
 
 Cons 
 * Pricier
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Mous Limitless 6.0
 
@@ -199,10 +195,6 @@ Cons
 
 ## Incase Icon
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Best stylish iPhone 16 case
 
 Incase makes great laptop cases, and its designs for iPhone are no different. To best summarize this case, Reddit users describe the Incase Icon as "awesome" and "sexy." 
@@ -230,10 +222,14 @@ Cons
 * Pricey for low protection
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Moft Snap Case Movas
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Best vegan-leather iPhone 16 case
 
@@ -300,7 +296,7 @@ The best iPhone 16 case option for you differs depending on your needs. For one,
 | Nomad Modern Leather case       | A person who prefers leather cases. This one also protects and comes worn in.                           |
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Factors to consider when choosing the best iPhone 16 case
@@ -315,6 +311,10 @@ We kept in mind the most important factors when choosing the best iPhone 16 case
 ## How did we choose these iPhone 16 cases?
 
 To choose these iPhone 16 cases, we performed extensive research over every corner of the internet, like Reddit forums and customer reviews, to find the best picks at the time of this writing. When we can't test a product, we rely on opinions from real people over company promises. We also receive recommendations  experts like reviews editor Kerry Wan and editor-in-chief Jason Hiner, who have years of experience in the tech journalism field. Our picks are meant to leave the reader happy and their device healthy. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What iPhone case is most protective?
 
@@ -339,7 +339,7 @@ The iPhone 16 is available for preorder now, and will arrive in stores on Septem
 If your phone has the problem of overheating, it may be best to look into specialty cases called heat dissipation cases. These cases are made of heat-wicking material that regulates heat and allows airflow to cool your phone down.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What is the best iPhone for a 16 year old?
@@ -392,18 +392,19 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-hitting-the-high-notes-of-youtube-editing-audio-addition-secrets-revealed/"><u>[New] 2024 Approved Hitting the High Notes of YouTube Editing Audio Addition Secrets Revealed</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-demystifying-income-for-t-series-on-youtube-for-2024/"><u>[New] Demystifying Income for T-Series on YouTube for 2024</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-conceptualists-engineering-marvel-online-worlds/"><u>[New] In 2024, Conceptualists Engineering Marvel Online Worlds</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-zero-to-hero-crafting-an-authoritative-online-self/"><u>[New] In 2024, From Zero to Hero Crafting an Authoritative Online Self</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-elevate-your-youtube-videos-popularity-through-persistent-cc-licensing/"><u>[Updated] 2024 Approved How to Elevate Your YouTube Video's Popularity Through Persistent CC Licensing</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-from-genres-to-gems-building-a-personalized-youtube-music-mix-onlinemobile-for-2024/"><u>[Updated] From Genres to Gems Building a Personalized YouTube Music Mix Online/Mobile for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-basic-to-breakthrough-a-youtube-live-thumbnail-journey/"><u>[Updated] In 2024, From Basic to Breakthrough A YouTube Live Thumbnail Journey</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-top-10-best-flvto-alternatives-youtube-converter-you-can-try-for-2024/"><u>[Updated] Top 10 Best Flvto Alternatives YouTube Converter You Can Try for 2024</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/comprehensive-analysis-of-the-google-nest-hello-exploring-features-like-facial-recognition-and-package-alerts/"><u>Comprehensive Analysis of the Google Nest Hello: Exploring Features Like Facial Recognition & Package Alerts</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/everything-you-need-to-know-about-lock-screen-settings-on-your-infinix-note-30-by-drfone-android/"><u>Everything You Need to Know about Lock Screen Settings on your Infinix Note 30</u></a></li>
-<li><a href="https://some-tips.techidaily.com/exploring-doubts-on-apples-upcoming-arvr-headset-feature-insights-by-zdnet/"><u>Exploring Doubts on Apple’s Upcoming AR/VR Headset Feature - Insights by ZDnet</u></a></li>
-<li><a href="https://discover-docs.techidaily.com/fixing-loud-pops-and-cracks-expert-guide-to-solving-irritating-sound-issues-yl-computing/"><u>Fixing Loud Pops and Cracks: Expert Guide to Solving Irritating Sound Issues - YL Computing</u></a></li>
-<li><a href="https://win-exceptional.techidaily.com/preservation-des-historiques-de-fichiers-avec-two-options-sur-microsoft-onedrive/"><u>Préservation Des Historiques De Fichiers Avec Two Options Sur Microsoft OneDrive</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-crafting-a-youtube-future-scaling-up-or-staying-independent/"><u>[New] 2024 Approved Crafting a YouTube Future Scaling Up or Staying Independent?</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-innovative-iphone-macro-tactics-for-professional-results/"><u>[New] 2024 Approved Innovative iPhone Macro Tactics for Professional Results</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-beating-the-blues-of-overly-green-a-mac-video-editors-handbook-for-2024/"><u>[New] Beating the Blues of Overly Green A Mac Video Editor's Handbook for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-editmaster-insights-extensive-coverage-for-2024/"><u>[New] EditMaster Insights – Extensive Coverage for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-beginners-guide-to-budget-friendly-webinars-using-youtube/"><u>[Updated] In 2024, Beginner's Guide to Budget-Friendly Webinars Using YouTube</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-diy-split-screen-video-tutorials-for-youtube-enthusiasts/"><u>[Updated] In 2024, DIY Split-Screen Video Tutorials for YouTube Enthusiasts</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-swift-stylizing-boost-your-digital-artistry-on-pc-photos-editor/"><u>[Updated] In 2024, Swift Stylizing Boost Your Digital Artistry on PC Photos Editor</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/are-addons-compromising-gpt-platform-integrity/"><u>Are Addons Compromising GPT Platform Integrity?</u></a></li>
+<li><a href="https://games-able.techidaily.com/get-the-most-out-of-your-steam-decks-gaming-world/"><u>Get the Most Out of Your Steam Deck's Gaming World</u></a></li>
+<li><a href="https://fox-place.techidaily.com/guide-pratique-les-deux-solutions-rapides-pour-optimiser-les-performances-de-votre-ssd-sous-windows-11/"><u>Guide Pratique: Les Deux Solutions Rapides Pour Optimiser Les Performances De Votre SSD Sous Windows 11</u></a></li>
+<li><a href="https://games-able.techidaily.com/seamless-integration-of-steam-images-in-workflows/"><u>Seamless Integration of Steam Images in Workflows</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/streamline-your-coding-process-with-chatgpt-in-vs-code/"><u>Streamline Your Coding Process with ChatGPT in VS Code</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/ultimate-guide-on-realme-gt-neo-5-se-frp-bypass-by-drfone-android/"><u>Ultimate Guide on Realme GT Neo 5 SE FRP Bypass</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/unlocking-potential-creating-your-youtube-identity-for-2024/"><u>Unlocking Potential Creating Your YouTube Identity for 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: 2024'S Ultimate Selection of iPad Air Cases Vetted by Pro Reviews | ZDNET Insights
-date: 2025-01-04T16:40:04.554Z
-updated: 2025-01-06T16:03:13.749Z
+date: 2025-01-10T18:27:47.662Z
+updated: 2025-01-13T18:07:04.029Z
 tags:
   - apple
 categories:
@@ -26,10 +26,6 @@ The display sizes of small tablets can range from six to 10 inches, with eight i
 
 Based on our extensive hands-on testing with various tablets of all sizes, our pick for the best small tablet is the [iPad Mini](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2F2021-Apple-iPad-Mini-Wi-Fi%2Fdp%2FB09G9FW785%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C369026fc-8906-4d8d-97bc-ba3c3cb5d6f8%7Cdtp&dtb=1), thanks to its 8.3-inch Liquid Retina display and weight of just under 1 pound. We also included compact-sized tablets from Amazon, Samsung, and other brands for those looking for something more compact and easy to carry. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## The best small tablets of 2024
 
 Show less 
@@ -46,14 +42,10 @@ Cons
 * Expensive
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Apple iPad Mini 6th Generation
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Best small tablet overall
 
@@ -86,11 +78,11 @@ Cons
 * Performance is slightly slow
 * Cameras aren't as great as other options
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Amazon Fire 7 Tablet
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Best budget small tablet
 
@@ -121,6 +113,10 @@ Pros
 Cons 
 * Expensive
 * Some complaints of lag
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Boox Tab Mini C
 
@@ -181,6 +177,10 @@ Pros
 Cons 
 * Performance could be better
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Samsung Galaxy Tab A7 Lite
 
 ### Best Samsung small tablet
@@ -228,10 +228,6 @@ We know there are a lot of tablets and tablet sizes to choose from, but ultimate
 * **Battery life:** A device's battery life is important no matter its size, so we considered devices that can last you all day.
 * **Price:** Tablets vary in price range from affordable to expensive depending on brand and purpose, so we made sure to choose tablets at various price points to accommodate different budgets.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How we test tablets
 
 The ZDNET team chose all of the tablets included in this list based on their performance when [tested in the real world](https://www.zdnet.com/article/how-we-test-tablets-at-zdnet-in-2024/). When we test tablets, we typically follow the same routine for each one to see which performs best.
@@ -251,7 +247,7 @@ The smallest tablet screen size on the market is 6 to 7 inches. Anything smaller
 It's why you want to consider your primary uses when considering which small tablet is right for you. To demonstrate, if you travel often, one with a smaller screen will be perfect for carrying/using on an airplane. If your aim is to read more e-books or draw, you'll want one with a larger screen. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What brand of tablet is best?
@@ -263,7 +259,7 @@ Keep in mind in certain cases (Apple, Samsung), you can pair your other devices 
 Meanwhile, with Samsung devices, you can implement Samsung Flow. Download the app on your phone and tablet. You can connect your tablet to your phone via Bluetooth or Wi-Fi. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Are mini Android tablets worth it?
@@ -275,6 +271,10 @@ Their lightweight body and compact design make them perfect traveling companions
 ## What is the smallest iPad?
 
 The smallest [iPad](https://www.zdnet.com/article/best-ipad/) is the iPad Mini which has a screen size of 8.3 inches. It's also lightweight at just under one pound. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Are there alternative small tablets worth considering?
 
@@ -322,24 +322,21 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-hands-on-tips-for-masterful-video-edits-with-youtube-studio/"><u>[New] 2024 Approved Hands-On Tips for Masterful Video Edits with YouTube Studio</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-screen-moments-a-compreenasive-recorder-roundup/"><u>[New] 2024 Approved Screen Moments A Compreenasive Recorder Roundup</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-exclusive-list-of-affordable-video-conferencing-apps-a-business-and-education-edition/"><u>[New] Exclusive List of Affordable Video Conferencing Apps A Business & Education Edition</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-framefusion-creator-for-2024/"><u>[New] FrameFusion Creator for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-get-smart-with-your-youtube-thumbnails-using-a-mac/"><u>[New] In 2024, Get Smart with Your YouTube Thumbnails, Using a Mac</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-in-2024-swift-practices-efficient-recording-of-online-meetings/"><u>[New] In 2024, Swift Practices Efficient Recording of Online Meetings</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-full-time-careers-meet-video-content-a-harmonious-mix/"><u>[Updated] 2024 Approved Full-Time Careers Meet Video Content A Harmonious Mix</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-gamers-picks-best-recording-software/"><u>[Updated] 2024 Approved Gamers' Picks Best Recording Software</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-harmonizing-hit-hits-building-the-perfect-youtube-soundtrack/"><u>[Updated] 2024 Approved Harmonizing Hit Hits Building the Perfect YouTube Soundtrack</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-hand-held-balance-for-sharp-images-for-2024/"><u>[Updated] Hand-Held Balance for Sharp Images for 2024</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-harmonys-choice-top-10-songs-that-say-yes-for-2024/"><u>[Updated] Harmony's Choice Top 10 Songs That Say 'Yes!' For 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-get-people-to-subscribe-by-asking-the-right-way-for-2024/"><u>[Updated] How to Get People to Subscribe by Asking the Right Way for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-views-to-revenue-simplifying-the-process-with-a-3-step-framework-for-monitoring-youtube-income/"><u>[Updated] In 2024, From Views to Revenue Simplifying the Process with a 3-Step Framework for Monitoring YouTube Income</u></a></li>
-<li><a href="https://blog-min.techidaily.com/6-ways-to-transfer-contacts-from-oppo-reno-9a-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>6 Ways To Transfer Contacts From Oppo Reno 9A to iPhone | Dr.fone</u></a></li>
-<li><a href="https://win-forum.techidaily.com/clear-out-unnecessary-files-in-windows-11-for-more-free-space-a-user-guide/"><u>Clear Out Unnecessary Files in Windows 11 for More Free Space - A User Guide</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/deciphering-devices-with-tom-top-hardware-analysis/"><u>Deciphering Devices with Tom - Top Hardware Analysis</u></a></li>
-<li><a href="https://win-blog.techidaily.com/expert-guide-resolving-your-sea-of-thieves-sudden-crashes/"><u>Expert Guide: Resolving Your Sea of Thieves Sudden Crashes</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/the-updated-method-to-bypass-vivo-x100-pro-frp-by-drfone-android/"><u>The Updated Method to Bypass Vivo X100 Pro FRP</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-tips-solving-issues-with-your-corsair-virtuosity-mic/"><u>Troubleshooting Tips: Solving Issues with Your Corsair Virtuosity Mic</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-download-unlimited-mcb-visual-elements/"><u>[New] 2024 Approved Download Unlimited MCB Visual Elements</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-blurred-lines-the-art-of-anonymizing-youtube-content-for-2024/"><u>[New] Blurred Lines The Art of Anonymizing YouTube Content for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-elevate-video-performance-following-the-path-of-stars-for-2024/"><u>[New] Elevate Video Performance Following the Path of Stars for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-ephemeral-echoes-of-facebook-for-2024/"><u>[New] Ephemeral Echoes of Facebook for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-mastery-guide-securely-archiving-snapchat-media-on-devices/"><u>[New] Mastery Guide Securely Archiving Snapchat Media on Devices</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-breaking-down-tseries-income-strategy-on-youtube-platform/"><u>[Updated] 2024 Approved Breaking Down TSeries' Income Strategy on YouTube Platform</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-launching-a-youtube-series-focused-on-product-quality-insights/"><u>[Updated] Launching a YouTube Series Focused on Product Quality Insights</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-masterclass-8-selecting-top-live-stream-cameras/"><u>[Updated] Masterclass 8 Selecting Top Live Stream Cameras</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-multi-view-magic-is-splitcam-prime/"><u>[Updated] Multi-View Magic Is SplitCam Prime?</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-secrets-of-finding-exclusive-youtube-design-archives/"><u>[Updated] Secrets of Finding Exclusive YouTube Design Archives</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-securing-a-slot-in-youtube-finding-your-market/"><u>[Updated] Securing a Slot in YouTube Finding Your Market</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-streamers-picks-top-5-noise-canceling-headsets/"><u>[Updated] Streamer's Picks Top 5 Noise-Canceling Headsets</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-unlock-the-value-of-viewership-a-clear-concise-guide-to-evaluating-youtube-earnings/"><u>[Updated] Unlock the Value of Viewership A Clear, Concise Guide to Evaluating YouTube Earnings</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/dissecting-dialogue-dynamics-bard-meets-bing-chatbot/"><u>Dissecting Dialogue Dynamics: Bard Meets Bing Chatbot</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-ways-to-find-unlocking-codes-for-poco-c55-phones-by-drfone-android/"><u>In 2024, Ways To Find Unlocking Codes For Poco C55 Phones</u></a></li>
+<li><a href="https://video-capture.techidaily.com/tech-gurus-rate-them-all-unveiling-apeaksofts-screen-recording-capabilities-for-2024/"><u>Tech Gurus Rate Them All Unveiling Apeaksoft’s Screen Recording Capabilities for 2024</u></a></li>
 </ul></div>
 

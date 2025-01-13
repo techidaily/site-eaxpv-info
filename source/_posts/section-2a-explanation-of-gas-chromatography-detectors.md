@@ -1,7 +1,7 @@
 ---
 title: "Section 2A: Explanation of Gas Chromatography Detectors"
-date: 2025-01-04T22:06:31.114Z
-updated: 2025-01-07T02:13:12.775Z
+date: 2025-01-12T16:48:49.063Z
+updated: 2025-01-13T20:07:34.365Z
 tags:
   - apple
 categories:
@@ -24,11 +24,19 @@ That's why we've gone hands-on with iPad Air cases from brands like Casetify, Lo
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What is the best iPad Air case right now?
 
 The [Zugu iPad Air case](https://www.zugucase.com/collections/ipad-cases/products/ipad-air-4th-gen-alpha-case?) is currently our top pick for the best iPad Air case overall, thanks to its multiple stand configurations, solid protection and security, fair price, top features, and excellent warranty. But there is a sea of iPad cases to choose from -- that's why we went hands-on and dove deep into expert research to find the best iPad Air cases for you. See the best iPad Air cases and covers to not only protect your tablet, but also help with [productivity](https://www.zdnet.com/article/best-ipad-keyboard/), functionality, and even add a bit of flare below. 
 
 **Also:** [**The best note-taking apps for iPad: Digitize your notes**](https://www.zdnet.com/article/best-note-taking-app-for-ipad/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## The best iPad Air cases of 2024
 
@@ -53,10 +61,6 @@ Cons
 * Less color options for 13-inch
 
 ## Zugu iPad Air Case
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Best iPad Air case overall
 
@@ -90,10 +94,6 @@ Pros
 Cons 
 * Stand configurations could be more comfortable
 * Folio front feels a bit flimsy
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Burga iPad Air Case
 
@@ -130,7 +130,15 @@ Cons
 * Not the most protective
 * A bit pricey
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Moft Snap Float Folio Case
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Best versatile iPad Air case
 
@@ -162,15 +170,7 @@ Cons
 * Still pricey
 * Limited color options
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Logitech Combo Touch Keyboard Case
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Best iPad Air case with a keyboard
 
@@ -206,10 +206,6 @@ Cons
 
 ## OtterBox Defender Series Pro Case
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Best iPad Air case for durability
 
 Some people use their iPads to scroll on the couch, but others need a tablet in the field. Whether you work in construction, utilities, or another boots-on-the-ground industry, you might want your iPad Air to be able to venture out with you. Enter the OtterBox Defender Series Pro Case. 
@@ -238,11 +234,11 @@ Cons
 * Expensive
 * Limited drop protection
 
-## Apple Smart Folio
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+## Apple Smart Folio
 
 ### Best iPad Air case for Apple lovers
 
@@ -293,7 +289,7 @@ Finding the right iPad Air case for you can be a challenge. Here's how all our t
 | Apple Smart Folio Case                  | The best overall iPad Air case. This option comes straight from Apple, brings a perfect fit, and saves battery via an automatic wake/sleep function.                             |
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Factors to consider when choosing an iPad Air case:
@@ -310,7 +306,7 @@ If you're in the market for an iPad Air case, here's a few factors to keep in mi
 We chose these iPad Air case options after extensive research into the product category and by going hands-on with some of these products. We looked at renowned brands and reviews (both good and bad) and noted the top-rated iPad Air cases for different wants and needs. Ultimately, factors like cost, compatibility, use case, size, and practicality guided our top picks. We additionally consider ease of use, function, design, and other direct features to help ensure we recommend the best to you. We also looked for the top nice-to-have features, such as Apple Pencil charging capabilities, keyboards, and multiple stand configurations.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What are the new iPad models?
@@ -327,10 +323,6 @@ No, the newest 2024 iPad Air is not the same display size as the previous iterat
 
 This means that if you purchase a new iPad Air, you will need a new case designed for the 11-inch or 13-inch size, or one that stipulates it is compatible with your model. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Will iPad Air 10.9-inch cases fit the iPad Air 11-inch model?
 
 The answer is yes and no -- it will depend and vary from brand to brand. Since the launch of the new iPads this year, I've noticed several brands have cases that will work in tandem with both the iPad Air 10.9 and iPad Air 11, while others have separated the two. 
@@ -340,6 +332,10 @@ If you already have a 10.9-inch case, it won't hurt to try it on your iPad Air 1
 ## Are the iPad (2022) and the iPad Air (2022) the same size?
 
 The 2022 iPad and iPad Air iterations do both offer a 10.9-inch screen display, as well as similar Liquid Retina displays. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What are the iPad Air sizes?
 
@@ -368,7 +364,7 @@ The trick here is confirming that you're buying a case designed to fit the gener
 Just be sure not to accidentally purchase cases designed for other iPad models and display sizes. Reading the specs and features before finalizing your purchase can help avoid any unnecessary or incorrect purchases. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Will the case make my iPad Air waterproof?
@@ -380,6 +376,10 @@ It's also worth noting that Apple doesn't build in the same level of water resis
 ## Where can I find iPad Air cases?
 
 Most major retailers like Best Buy, Walmart, and Amazon have several iPad Air cases for sale in-store and online. If you're looking for more bespoke brands, such as Casetify, you may have to look directly at those individual retailers' sites to see their iPad Air case offerings. But don't fret -- starting your search at ZDNET is always a good decision. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Are there alternative iPad Air cases to consider?
 
@@ -443,19 +443,24 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-raw-to-refined-tailoring-youtube-videos-with-premiere-pro/"><u>[New] 2024 Approved From Raw to Refined Tailoring YouTube Videos with Premiere Pro</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-2024-approved-thankful-views-complete-outro-template-library/"><u>[New] 2024 Approved Thankful Views Complete Outro Template Library</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-freeing-up-youtube-footage-borderless-exploration/"><u>[New] In 2024, Freeing Up YouTube Footage Borderless Exploration</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-phone-pics-to-professional-videos-selecting-the-top-9-enhancers/"><u>[New] In 2024, From Phone Pics to Professional Videos Selecting the Top 9 Enhancers</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-host-a-webinar-on-youtube-for-free/"><u>[New] In 2024, How to Host a Webinar on YouTube for Free</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-freely-accessible-cutting-edge-video-editor-tools/"><u>[Updated] 2024 Approved Freely Accessible Cutting Edge Video Editor Tools</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-enhance-your-vlogs-pacing-using-jump-cuts/"><u>[Updated] In 2024, How to Enhance Your Vlog's Pacing Using Jump Cuts</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-navigating-to-your-own-custom-arranged-music-library-on-youtube/"><u>[Updated] Navigating to Your Own Custom-Arranged Music Library on Youtube</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-professional-grade-handguns-for-ultimate-video-stability/"><u>[Updated] Professional Grade Handguns for Ultimate Video Stability</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-refine-and-revamp-your-youtube-clips-using-wm-maker-for-2024/"><u>[Updated] Refine and Revamp Your YouTube Clips Using WM Maker for 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/can-you-talk-to-friends-via-messenger-without-having-a-facebook-profile/"><u>Can You Talk to Friends Via Messenger Without Having a Facebook Profile?</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-sound-in-sight-mixing-music-into-microsofts-presentation-tool/"><u>In 2024, Sound in Sight Mixing Music Into Microsoft's Presentation Tool</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/team-enhancement-through-multilingual-software-exploration/"><u>Team Enhancement Through Multilingual Software Exploration</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/unveiling-ai-potential-in-microsofts-bing/"><u>Unveiling AI Potential in Microsoft's Bing</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-novice-to-viewer-keeper-top-10-basic-yet-captivating-video-ideas/"><u>[New] 2024 Approved From Novice to Viewer-Keeper Top 10 Basic Yet Captivating Video Ideas</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-gain-massive-viewership-with-a-small-financial-investment/"><u>[New] 2024 Approved Gain Massive Viewership with a Small Financial Investment</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-gamers-dream-gear-youtube-collection/"><u>[New] 2024 Approved Gamers' Dream Gear YouTube Collection</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-harnessing-video-magic-channel-creation-wizardry/"><u>[New] In 2024, Harnessing Video Magic Channel Creation Wizardry</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-identifying-instagram-disconnects/"><u>[New] In 2024, Identifying Instagram Disconnects</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-top-5-hd-cameras-for-big-game-capture/"><u>[New] In 2024, Top 5 HD Cameras for Big Game Capture</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-much-money-can-you-make-via-youtube-ad-revenue-and-cpm-rates/"><u>[Updated] 2024 Approved How Much Money Can You Make via YouTube Ad Revenue and CPM Rates?</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-maintain-youtube-session-in-the-background/"><u>[Updated] 2024 Approved How to Maintain YouTube Session in the Background</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-crafting-a-youtube-future-scaling-up-or-staying-independent-for-2024/"><u>[Updated] Crafting a YouTube Future Scaling Up or Staying Independent for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-flavorful-footage-kitchen-film-making-101/"><u>[Updated] In 2024, Flavorful Footage Kitchen Film-Making 101</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-creator-to-kingmaker-ajays-youtube-revenue-revolution/"><u>[Updated] In 2024, From Creator to Kingmaker Ajay’s YouTube Revenue Revolution</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-convert-youtube-to-igtv-videos-3-ways/"><u>[Updated] In 2024, How to Convert YouTube to IGTV Videos? [3 Ways]</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-the-evolution-of-camera-features-for-dynamic-range-mastery/"><u>[Updated] The Evolution of Camera Features for Dynamic Range Mastery</u></a></li>
+<li><a href="https://extra-information.techidaily.com/charming-calls-verify-if-vocal-alteration-apps-are-real-then-find-others-for-2024/"><u>Charming Calls Verify if Vocal Alteration Apps Are Real, Then Find Others for 2024</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-fake-android-location-without-rooting-for-your-tecno-spark-10-5g-drfone-by-drfone-virtual/"><u>In 2024, Fake Android Location without Rooting For Your Tecno Spark 10 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-revolutionary-subtitle-software-choose-the-leading-10-web-apps/"><u>In 2024, Revolutionary Subtitle Software - Choose the Leading 10 Web Apps</u></a></li>
+<li><a href="https://driver-download.techidaily.com/1722967531716-resolved-troubleshooting-when-your-igfxem-module-wont-start-expert-advice-here/"><u>Resolved: Troubleshooting When Your iGFXem Module Won't Start - Expert Advice Here</u></a></li>
+<li><a href="https://techidaily.com/simple-ways-to-get-lost-messages-back-from-xiaomi-13t-pro-by-fonelab-android-recover-messages/"><u>Simple ways to get lost messages back from Xiaomi 13T Pro</u></a></li>
+<li><a href="https://techidaily.com/top-ways-to-unlock-iphone-15-screen-lock-by-drfone-ios-unlock-ios-unlock/"><u>Top ways to unlock iPhone 15 screen lock</u></a></li>
 </ul></div>
 

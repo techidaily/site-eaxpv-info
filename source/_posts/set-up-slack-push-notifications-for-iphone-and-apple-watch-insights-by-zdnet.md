@@ -1,7 +1,7 @@
 ---
 title: Set Up Slack Push Notifications for iPhone and Apple Watch | Insights by ZDNet
-date: 2025-01-03T18:09:36.106Z
-updated: 2025-01-07T01:38:24.549Z
+date: 2025-01-06T18:16:58.198Z
+updated: 2025-01-13T19:37:02.267Z
 tags:
   - apple
 categories:
@@ -44,9 +44,17 @@ Here's how.
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to enable Slack notifications on your Apple Watch
 
 **What you'll need:** Have the latest versions of iOS and watchOS installed on your iPhone and Apple Watch, respectively. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 1\. Install the Slack app on your iPhone
 
@@ -59,7 +67,7 @@ Once it's installed, go ahead and log into your various Slack channels. Get thos
 Let's make sure iOS is set up to allow Slack notifications. Go to the main Settings app and on the main settings screen, scroll all the way down to Slack. It's a long scroll past many other apps. Tap into Slack.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##   
@@ -73,12 +81,16 @@ Now, back out to the top of the Settings app and tap the red Notifications icon.
 Screenshot by David Gewirtz/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Set up Slack notifications in the Slack app
 
 Next, open the Slack app. Tap your profile image in the upper right corner of the screen. Then tap Notifications.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##   
 
@@ -97,10 +109,6 @@ Next, tap Notify Me on Mobile. This will give you a few options.
 Screenshot by David Gewirtz/ZDNET
 
 Set it to "Always, even when I'm active". That way, you'll always get notifications, no matter what you're doing (unless you have Do Not Disturb turned on).
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4\. Set your notification schedule
 
@@ -122,10 +130,6 @@ So, make sure you set the Start and End times that fit with your schedule.
 
 Recommendation to Slack: Where you put the "Every day" option in that setting, add the times as well (e.g., "Every day 8 a.m. - 11 p.m."). That way, it's clear to users what they might need to change. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 5\. Enable Slack notifications in the Watch app
 
 We're almost done configuring notifications. Open the Watch app and scroll down to Notifications. Then scroll down to Slack and make sure it's turned on.
@@ -135,10 +139,6 @@ We're almost done configuring notifications. Open the Watch app and scroll down 
 Screenshot by David Gewirtz/ZDNET
 
 There. You've set up notifications. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  6\. Use the Watch to get Slack notifications
 
@@ -179,15 +179,24 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-finding-your-custom-scored-youtube-tunes/"><u>[New] 2024 Approved Finding Your Custom-Scored YouTube Tunes</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-filmoras-recipe-for-captivating-youtube-trailers-for-2024/"><u>[New] Filmora’s Recipe for Captivating YouTube Trailers for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-the-loom-chronicles-crafting-visual-stories/"><u>[New] The Loom Chronicles Crafting Visual Stories</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-game-masters-youtube-money-hacks-for-2024/"><u>[Updated] Game Masters YouTube Money Hacks for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-getting-the-most-out-of-live-sports-on-youtube-tv/"><u>[Updated] In 2024, Getting the Most Out of Live Sports on YouTube TV</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/a-complete-guide-to-oem-unlocking-on-itel-by-drfone-android/"><u>A Complete Guide To OEM Unlocking on Itel</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/innovative-ways-to-boost-your-snapchat-engagement-for-2024/"><u>Innovative Ways to Boost Your Snapchat Engagement for 2024</u></a></li>
-<li><a href="https://discover-alternatives.techidaily.com/navigating-abbyys-compliance-with-online-privacy-regulations-the-companys-cookie-use-guidelangs/"><u>Navigating ABBYY's Compliance with Online Privacy Regulations: The Company’s Cookie Use Guidelangs</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/perfect-size-crafting-engaging-thumbnails/"><u>Perfect Size Crafting Engaging Thumbnails</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/transfer-your-apple-iphone-12-pro-apps-to-new-iphone-drfone-by-drfone-transfer-from-ios/"><u>Transfer your Apple iPhone 12 Pro Apps to New iPhone | Dr.fone</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-novice-to-content-creator-your-youtube-journey-begins/"><u>[New] 2024 Approved From Novice to Content Creator Your YouTube Journey Begins</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-template-to-tutorial-gamers-channel-design/"><u>[New] 2024 Approved From Template to Tutorial Gamers' Channel Design</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-superior-hd-visual-capture-and-recorders/"><u>[New] 2024 Approved Superior HD Visual Capture and Recorders</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-a-beginners-journey-into-gameplay-capturing-with-obs-for-2024/"><u>[New] A Beginner's Journey Into Gameplay Capturing with OBS for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-9-best-free-and-easy-editing-apps-you-should-know/"><u>[New] In 2024, 9 Best Free and Easy Editing Apps You Should Know</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-vision-to-reality-personal-animation-mastery/"><u>[New] In 2024, From Vision to Reality Personal Animation Mastery</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-is-screening-youtube-footage-illegal/"><u>[Updated] 2024 Approved Is Screening YouTube Footage Illegal?</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-from-blank-canvas-to-biggest-hit-mastering-youtube-thumbnail-sizes-for-2024/"><u>[Updated] From Blank Canvas to Biggest Hit Mastering YouTube Thumbnail Sizes for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-how-often-do-youtubers-receive-income-in-2024/"><u>[Updated] How Often Do YouTubers Receive Income, In 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-create-impactful-video-elements-cardsannotations-for-2024/"><u>[Updated] How to Create Impactful Video Elements Cards/Annotations for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-flawless-playlist-integration-techniques-in-web-development/"><u>[Updated] In 2024, Flawless Playlist Integration Techniques in Web Development</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-legally-convert-youtube-videos-to-mp4-format/"><u>[Updated] In 2024, How to Legally Convert YouTube Videos to MP4 Format</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-economical-choice-for-superior-asmr-sound-experiencing/"><u>2024 Approved Economical Choice for Superior ASMR Sound Experiencing</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1721431165441-chatgpt-at-your-fingertips-android-app-now/"><u>ChatGPT at Your Fingertips - Android App Now</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-oppo-a78-pictures-an-easy-method-explained-by-fonelab-android-recover-pictures/"><u>How to Restore Deleted Oppo A78 Pictures An Easy Method Explained.</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-the-editors-edge-exploring-the-best-of-youtube-video-tools/"><u>In 2024, The Editor's Edge Exploring the Best of YouTube Video Tools</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/play-store-stuck-on-downloading-of-vivo-y200-7-ways-to-resolve-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Stuck on Downloading Of Vivo Y200? 7 Ways to Resolve | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/premier-pick-top-10-apps-to-catch-football-and-tennis-in-the-moment/"><u>Premier Pick Top 10 Apps to Catch Football and Tennis in the Moment</u></a></li>
+<li><a href="https://extra-information.techidaily.com/the-mighty-flyers-best-drones-for-maximum-load/"><u>The Mighty Flyers Best Drones for Maximum Load</u></a></li>
 </ul></div>
 

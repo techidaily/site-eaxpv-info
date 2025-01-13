@@ -1,7 +1,7 @@
 ---
 title: Upgrading to iPhone 16 Pro - Is It Worth Leaving Behind the iPhone ˈ|ZDNET Expert Review
-date: 2025-01-06T03:59:45.726Z
-updated: 2025-01-06T17:35:17.969Z
+date: 2025-01-07T16:22:47.093Z
+updated: 2025-01-13T19:27:19.664Z
 tags:
   - apple
 categories:
@@ -27,7 +27,7 @@ As an iPhone 14 Pro Max user, I'm not convinced that the new AI-enabled [iPhone 
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Specifications
@@ -45,9 +45,17 @@ As an iPhone 14 Pro Max user, I'm not convinced that the new AI-enabled [iPhone 
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## You should buy the iPhone 16 Pro if…
 
 Jason Hiner/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 1\. You want Apple Intelligence
 
@@ -56,10 +64,6 @@ Apple's artificial intelligence push, aptly named Apple Intelligence, will be av
 **Also: [iPhone 16 Pro hands-on: My 3 favorite things about this ridiculously overpowered supercomputer](https://www.zdnet.com/article/iphone-16-pro-hands-on/)**
 
 To run smoothly, the Apple Intelligence features require an A17 chip or newer and at least 8GB of RAM, but the iPhone 14 Pro has the A16 chip and only 6GB of RAM. The iPhone 16 Pro features an A18 Pro chip and 8GB of RAM, making it a good device to run Apple's AI features. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 2\. You'd like to get your hands on the bigger screen
 
@@ -70,7 +74,7 @@ Apple has thinned out the iPhone 16 Pro's bezels to the bare minimum and stretch
 The larger smartphone also means that the iPhone 16 Pro has a larger battery than the 14 Pro, at 3,355 mAh compared to 3,200 mAh. But even without the welcome battery upgrade, the new Pro models support faster charging than ever. The iPhone 16 Pro supports 40W wired charging and 20W of MagSafe charging, so if you find the iPhone 14 Pro's charging slow, it could be time to upgrade.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 3\. You love taking beautiful photos
@@ -83,16 +87,12 @@ If you love taking photos with your smartphone, the camera upgrades alone may be
 
 [Pre-order the iPhone 16 Pro View now at Apple](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-iphone%2Fiphone-16-pro&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## You should buy (or keep) the iPhone 14 Pro if…
 
 Kerry Wan/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 1\. You'd rather wait for bigger upgrades
@@ -147,19 +147,14 @@ As an iPhone 14 Pro Max user, I'm still pretty happy with how my iPhone performs
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-fullscape-synergy-the-smart-mcn-picking-game-for-2024/"><u>[New] FullScape Synergy The Smart MCN Picking Game for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-harnessing-youtubes-power-for-maximum-earnings-via-adsense-for-2024/"><u>[New] Harnessing YouTube's Power for Maximum Earnings via AdSense for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-fine-tuning-focus-on-youtube-threads/"><u>[New] In 2024, Fine-Tuning Focus on YouTube Threads</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-in-2024-heres-what-you-dont-know-about-instagram-story-viewer/"><u>[New] In 2024, Here's What You Don't Know About Instagram Story Viewer</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-fast-track-to-short-video-treasure-troves-free-access/"><u>[Updated] 2024 Approved Fast Track to Short Video Treasure Troves (Free Access)</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-ultimate-non-timebound-screen-recording-selection/"><u>[Updated] 2024 Approved Ultimate Non-Timebound Screen Recording Selection</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-harness-youtubes-power-with-these-top-7-affordable-easy-to-use-tag-extractor-tools/"><u>[Updated] In 2024, Harness YouTube's Power with These Top 7 Affordable, Easy-to-Use Tag Extractor Tools</u></a></li>
-<li><a href="https://article-tips.techidaily.com/2024-approved-ultimate-list-of-public-domain-picture-banks/"><u>2024 Approved Ultimate List of Public Domain Picture Banks</u></a></li>
-<li><a href="https://extra-information.techidaily.com/dynamic-book-summary-vids/"><u>Dynamic Book Summary Vids</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-toontech-full-evaluation-and-how-to-guide-24/"><u>In 2024, ToonTech Full Evaluation & How-To Guide '24</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/mastering-automated-code-through-non-chatgpt-applications/"><u>Mastering Automated Code Through Non-ChatGPT Applications</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-rotate-resize-and-refine-top-10-online-video-editors/"><u>New In 2024, Rotate, Resize, and Refine Top 10 Online Video Editors</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/ultimate-tutorial-downloading-and-extracting-audio-from-vids-on-social-platforms/"><u>Ultimate Tutorial Downloading and Extracting Audio From Vids on Social Platforms</u></a></li>
-<li><a href="https://fake-location.techidaily.com/wondering-the-best-alternative-to-hola-on-vivo-y27-5g-here-is-the-answer-drfone-by-drfone-virtual-android/"><u>Wondering the Best Alternative to Hola On Vivo Y27 5G? Here Is the Answer | Dr.fone</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-direct-download-of-youtube-videos/"><u>[New] 2024 Approved Direct Download of YouTube Videos</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-master-the-art-of-file-conversion-selecting-best-free-tools-for-instagram-videos-windowsosx/"><u>[New] Master the Art of File Conversion Selecting Best Free Tools for Instagram Videos [Windows/OSX]</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-the-essential-guide-to-youtube-edits-with-premiere-pro/"><u>[New] The Essential Guide to YouTube Edits with Premiere Pro</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-spoofing-success-the-path-to-parody-proficiency/"><u>[Updated] Spoofing Success The Path to Parody Proficiency</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-transforming-your-facebook-history-a-look-back-video-guide/"><u>2024 Approved Transforming Your Facebook History A Look Back Video Guide</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/3-methods-to-mirror-realme-c53-to-roku-drfone-by-drfone-android/"><u>3 Methods to Mirror Realme C53 to Roku | Dr.fone</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/optimizing-your-live-broadcasts-with-obs-and-zoom/"><u>Optimizing Your Live Broadcasts with OBS & Zoom</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/ultimate-freefire-tag-collection-enhance-your-youtube-channels-for-2024/"><u>Ultimate FreeFire Tag Collection Enhance Your YouTube Channels for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/unveiling-the-world-of-virtual-performing-artists-for-2024/"><u>Unveiling the World of Virtual Performing Artists for 2024</u></a></li>
 </ul></div>
 

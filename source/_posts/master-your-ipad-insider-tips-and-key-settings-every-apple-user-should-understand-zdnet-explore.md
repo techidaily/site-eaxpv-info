@@ -1,7 +1,7 @@
 ---
 title: "Master Your iPad: Insider Tips & Key Settings Every Apple User Should Understand - ZDNet Explore"
-date: 2025-01-05T19:44:32.451Z
-updated: 2025-01-06T20:54:26.915Z
+date: 2025-01-06T19:37:20.908Z
+updated: 2025-01-13T19:46:05.799Z
 tags:
   - apple
 categories:
@@ -29,7 +29,7 @@ Never fear, dear reader. I've uncovered 10 settings you should adjust on your iP
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Customize your lock screen
@@ -58,10 +58,6 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 **How to**: Go to Settings > Focus on your iPad, and you'll find various options to set up a Focus mode for work, personal, fitness, mindfulness, and more. The interface will guide you through setting up your notification settings, which contacts can ping you, and more. Plus, once you've set it up, it'll sync automatically with your iPhone, Apple Watch, and Mac.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3\. Turn on Stage Manager when you need more multitasking chops
 
 Max Buondonno/ZDNET
@@ -74,6 +70,10 @@ You can customize the size of the window, bring up secondary apps in the same vi
 
 **How to**: Swipe down on the top-right corner to access Control Center, then tap the Stage Manager button to activate it (it looks like a rectangle with three smaller rectangles next to it). Alternatively, you can go to Settings > Multitasking & Gestures and turn on Stage Manager from there. When you're done using it, you can choose either option to turn it off.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4\. Save your eyes at night with Night Shift
 
 Yes, I realize this setting doesn't _actually_ protect your eyesight in the long run, nor is it a life-changing hack that everyone should use. But Night Shift on the iPad does make staring at your screen a bit easier when it's dark out, especially if you have to spend a lot of time staring at a text field (like me). I've felt less eye strain while using the setting at night; it helps to relax my mind a bit since all the colors are much warmer. It's worth giving a shot if you like to use your iPad at night.
@@ -83,7 +83,7 @@ Yes, I realize this setting doesn't _actually_ protect your eyesight in the long
 **How to**: Head to Settings > Display & Brightness > Night Shift. From there, you can manually turn it on, schedule it to turn on during certain times, and adjust how warm you want your display to turn.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Low Power Mode can quickly become your best friend
@@ -103,7 +103,7 @@ Sometimes, you just want to keep the contents of your iPad's notifications to yo
 **How to**: Go to Settings > Notifications > Show Previews and change it from "Always" to "When Unlocked."
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 7\. Split or float your keyboard
@@ -120,6 +120,10 @@ If that's your bag, you can also shrink your keyboard and have it float on top o
 
 **How to float**: Open an app where the keyboard will pop up. Then, take two fingers and pinch the keyboard. This will cause it to shrink to iPhone-size. You can then drag it around the screen by touching and holding the gray bar on the bottom. When you want it to return to its normal size, just pinch outward on the keyboard.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 8\. Make sure your screen is refreshing as fast as possible
 
 Every iPad Pro since 2018 has supported what Apple calls ProMotion, which increases your display's refresh rate and makes everything -- scrolling, animations, multitasking, and more -- look smoother. It's one of those features that you don't realize you want until you have it, and then you can never go back. 
@@ -127,10 +131,6 @@ Every iPad Pro since 2018 has supported what Apple calls ProMotion, which increa
 Of course, while the feature is enabled out of the box, there's always a chance you aren't taking advantage of it on your iPad Pro, and I wouldn't be doing my due diligence if I didn't ask you to check the setting.
 
 **How to**: Head over to Settings > Accessibility > Motion and ensure that "Limit Refresh Rate" _isn't_ enabled. If it is, your iPad's screen will remain locked to 60Hz, and who even uses 60Hz screens anymore?
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 9\. Tweak the Control Center
 
@@ -180,22 +180,20 @@ Using the TrueDepth cameras, Attention Awareness can keep tabs on when you're lo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-chaos-to-order-youtube-playlists-unveiled/"><u>[New] 2024 Approved From Chaos to Order YouTube Playlists Unveiled</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-view-youtube-statistics/"><u>[New] 2024 Approved How to View YouTube Statistics?</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-gain-currency-with-500-youtube-followers-for-2024/"><u>[New] Gain Currency with 500 YouTube Followers for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-harness-the-power-of-youtube-videos-to-create-stunning-gifs-online-for-2024/"><u>[New] Harness the Power of Youtube Videos to Create Stunning Gifs Online for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-focusing-attention-with-eye-catching-intros-in-imovie/"><u>[Updated] 2024 Approved Focusing Attention with Eye-Catching Intros in iMovie</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-free-thumbnail-downloader-solutions-online-for-2024/"><u>[Updated] Free Thumbnail Downloader Solutions Online for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-passive-watchers-to-profit-youtube-monetization/"><u>[Updated] In 2024, From Passive Watchers To Profit YouTube Monetization</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-unbeatable-freefire-gaming-hashtag-and-strategy-insights/"><u>[Updated] Unbeatable FreeFire Gaming Hashtag & Strategy Insights</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/1725290177657-pc/"><u>「【手軽】ダンボールをギフティにしてくれたツール：PC用ソフト、オンラインサービス、モバイルアプリで学ぶ方法！」</u></a></li>
-<li><a href="https://android-frp.techidaily.com/about-sony-frp-bypass-by-drfone-android/"><u>About Sony FRP Bypass</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/best-poco-c50-pattern-lock-removal-tools-remove-android-pattern-lock-without-losing-data-by-drfone-android/"><u>Best Poco C50 Pattern Lock Removal Tools Remove Android Pattern Lock Without Losing Data</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/blackview-minipc-size-upgrade-speed-downgrade/"><u>Blackview MiniPC: Size Upgrade, Speed Downgrade</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/bypass-icloud-activation-lock-with-imei-code-on-your-iphone-14-pro-max-by-drfone-ios/"><u>Bypass iCloud Activation Lock with IMEI Code On your iPhone 14 Pro Max</u></a></li>
-<li><a href="https://win11.techidaily.com/bypassing-windows-11-security-warning-glitches/"><u>Bypassing Windows 11 Security Warning Glitches</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/effortless-link-up-a-users-guide-to-connecting-oculus-quest-2-and-phones/"><u>Effortless Link-Up: A User's Guide to Connecting Oculus Quest 2 and Phones</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-inside-insights-proclaiming-rights-to-free-clip-art-legally/"><u>In 2024, Inside Insights Proclaiming Rights to Free Clip Art Legally</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/things-you-should-know-when-unlocking-total-wireless-of-iphone-12-pro-drfone-by-drfone-ios/"><u>Things You Should Know When Unlocking Total Wireless Of iPhone 12 Pro | Dr.fone</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-make-a-youtube-reaction-video/"><u>[New] 2024 Approved How to Make a YouTube Reaction Video?</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-in-2024-dji-drone-prospectus-phantom-3-edition/"><u>[New] In 2024, DJI Drone Prospectus Phantom 3 Edition</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-googles-goldmine-a-simplified-three-step-blueprint-for-calculating-subscriber-earning-potential/"><u>[New] In 2024, Google's Goldmine A Simplified Three-Step Blueprint for Calculating Subscriber Earning Potential</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-historical-insights-top-educational-yt-creators/"><u>[New] In 2024, Historical Insights Top Educational YT Creators</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-finding-hashtags-that-amplify-to-6k-views/"><u>[Updated] 2024 Approved Finding #Hashtags That Amplify to 6K Views</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-rip-audio-from-youtube-in-3-ways-free-and-safe/"><u>[Updated] 2024 Approved How to Rip Audio From YouTube in 3 Ways [Free and Safe]</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-embracing-total-perspectives-in-filmmaking/"><u>[Updated] Embracing Total Perspectives in Filmmaking</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-from-shorts-to-mp4-a-step-by-step-tutorial-for-2024/"><u>[Updated] From Shorts to MP4 A Step-by-Step Tutorial for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-filmmaker-tips-youtube-trailers-using-filmora/"><u>[Updated] In 2024, Filmmaker Tips YouTube Trailers Using Filmora</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-streamlining-webcam-recording-on-macbook-pro/"><u>[Updated] Streamlining Webcam Recording on MacBook Pro</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/beste-gratis-videoklipsprogrammaen-2024-top-19-keurmerkvolle-kieswijzern-voor-heerlijkheid-en-effektiviteit/"><u>Beste Gratis Videoklipsprogrammaën 2024: Top 19 Keurmerkvolle Kieswijzern Voor Heerlijkheid en Effektiviteit</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-delete-gmail-account-withwithout-password-on-vivo-v29e-by-drfone-android/"><u>In 2024, Delete Gmail Account With/Without Password On Vivo V29e</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-life360-learn-how-everything-works-on-samsung-galaxy-m14-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Life360 Learn How Everything Works On Samsung Galaxy M14 5G | Dr.fone</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/in-depth-review-of-the-blueear-bluetooth-cap-combining-trendiness-and-reliable-acoustics/"><u>In-Depth Review of the Blueear Bluetooth Cap: Combining Trendiness & Reliable Acoustics</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-ranking-smart-home-innovations-in-2eightyfour-comprehensive-reviews-by-tech-gurus-zdnet/"><u>Top-Ranking Smart Home Innovations in 2Eightyfour: Comprehensive Reviews by Tech Gurus | ZDNET</u></a></li>
 </ul></div>
 

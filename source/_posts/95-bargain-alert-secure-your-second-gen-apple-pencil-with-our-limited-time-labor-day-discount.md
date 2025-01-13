@@ -1,7 +1,7 @@
 ---
 title: $95 Bargain Alert! Secure Your Second-Gen Apple Pencil with Our Limited Time Labor Day Discount
-date: 2024-11-30T22:40:52.755Z
-updated: 2024-12-07T18:40:10.666Z
+date: 2025-01-12T19:50:44.647Z
+updated: 2025-01-13T16:23:58.648Z
 tags:
   - apple
 categories:
@@ -34,7 +34,7 @@ By using the Apple Pencil with your iPad (specifically, the iPad Pro 2022 model)
 Get the [Apple Pencil (2nd Gen)](https://goto.walmart.com/c/5597632/565706/9383?sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FApple-Pencil-2nd-Generation-Pixel-Perfect-Precision-Industry-Leading-Low-Latency-Perfect-Note-Taking-Drawing-Signing-documents-Attaches-Charges-Pairs%2F949679706&subId1=zd-__COM_CLICK_ID__-dtp) with $35 in savings right now if you want to upgrade your iPad stylus. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -71,24 +71,18 @@ Deals are subject to sell-out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-2024-approved-detailed-video-capture-using-videoleap-tools/"><u>[New] 2024 Approved Detailed Video Capture Using Videoleap Tools</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-saving-strategies-securing-your-mov-on-windows-pcs/"><u>[New] 2024 Approved Saving Strategies Securing Your .mov On Windows PCs</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-guidance-to-youtube-music-mix-for-2024/"><u>[New] Guidance to YouTube Music Mix for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-enhance-call-clarity-choose-from-the-best-10-free-recorders/"><u>[New] In 2024, Enhance Call Clarity Choose From the Best 10 Free Recorders</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-first-steps-in-filmmaking-essentials-for-new-youtube-talents/"><u>[Updated] 2024 Approved First Steps in Filmmaking Essentials for New YouTube Talents</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-game-masters-youtube-money-hacks/"><u>[Updated] 2024 Approved Game Masters YouTube Money Hacks</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-getting-your-foot-in-the-channels-door-must-haves-for-2024/"><u>[Updated] Getting Your Foot in the Channel's Door Must-Haves for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-captivate-audiences-and-gain-traction-with-youtube-shorts-for-2024/"><u>[Updated] How to Captivate Audiences and Gain Traction with YouTube Shorts for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-gain-massive-audience-on-youtube-in-minutes-2-ways/"><u>[Updated] In 2024, Gain Massive Audience on YouTube in Minutes (2 Ways)</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-global-youtube-rich-list-pinnacle/"><u>[Updated] In 2024, Global YouTube Rich List Pinnacle</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-guide-to-producing-effective-youtube-promo-videos/"><u>[Updated] In 2024, Guide to Producing Effective YouTube Promo Videos</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-completely-erase-youtube-shorts-footprint/"><u>[Updated] In 2024, How To Completely Erase YouTube Shorts Footprint</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/a-list-14-animation-illustration-cases-for-2024/"><u>A-List 14 Animation Illustration Cases for 2024</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/apple-ipad-102-inch-8th-generation-review/"><u>Apple iPad 10.2-Inch (8Th Generation) Review</u></a></li>
-<li><a href="https://article-helps.techidaily.com/audience-enhancement-with-audition-fades/"><u>Audience Enhancement with Audition Fades</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/bypass-iphone-xs-activation-lock-with-a-professional-tool-by-drfone-ios-unlock-ios-unlock/"><u>Bypass iPhone XS activation lock with a professional tool</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/how-to-bypass-icloud-lock-from-iphone-14-plus-by-drfone-ios/"><u>How to Bypass iCloud Lock from iPhone 14 Plus</u></a></li>
-<li><a href="https://win-blog.techidaily.com/steps-to-stop-geometry-dash-from-freezing-a-common-error-misconception/"><u>Steps to Stop 'Geometry Dash' From Freezing – A Common Error Misconception</u></a></li>
-<li><a href="https://win-updates.techidaily.com/top-10-reliable-and-user-friendly-image-editors-for-transparency-web-and-apps/"><u>Top 10 Reliable and User-Friendly Image Editors for Transparency (Web & Apps)</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-in-2024-comprehensive-step-by-step-srt-mp4-enhancement/"><u>[New] In 2024, Comprehensive Step-by-Step SRT MP4 Enhancement</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-in-2024-instagram-music-lawfare-summary/"><u>[New] In 2024, Instagram Music Lawfare Summary</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-mastering-adobe-illustrator-adding-smooth-motion-blurs/"><u>[New] Mastering Adobe Illustrator Adding Smooth Motion Blurs</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-social-broadcast-battleground-fb-live-yt-live-twitvision/"><u>[Updated] Social Broadcast Battleground FB Live, YT Live, TwitVision</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-transforming-digital-art-with-free-versatile-lut-tools-for-2024/"><u>[Updated] Transforming Digital Art with Free, Versatile LUT Tools for 2024</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/1719579662069-accelerated-norwegian-proficiency-minutes-only/"><u>Accelerated Norwegian Proficiency, Minutes Only!</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-heartfelt-cheers-access-to-free-and-paid-otu-ideas/"><u>In 2024, Heartfelt Cheers Access to Free & Paid OTU Ideas</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/in-2024-youtube-comment-management-turn-it-on-or-off/"><u>In 2024, YouTube Comment Management Turn It On or Off</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/in-2024-youtube-gold-strategies-for-financial-flourishing/"><u>In 2024, YouTube Gold Strategies for Financial Flourishing</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/professionals-picks-the-top-5-drones-to-invest-in-for-2024/"><u>Professional's Picks The Top 5 Drones to Invest In for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/skyrocket-to-youtube-partner-status-with-10k-vistas-goal-for-2024/"><u>Skyrocket to YouTube Partner Status with 10K Vistas Goal for 2024</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/upgrade-your-editing-software-transition-from-imovie-to-windows-video-editor/"><u>Upgrade Your Editing Software : Transition From iMovie to Windows Video Editor</u></a></li>
+<li><a href="https://techtrends.techidaily.com/voice-message-basics-for-ios-devices-getting-started-with-iphone/"><u>Voice Message Basics for iOS Devices: Getting Started with iPhone</u></a></li>
 </ul></div>
 

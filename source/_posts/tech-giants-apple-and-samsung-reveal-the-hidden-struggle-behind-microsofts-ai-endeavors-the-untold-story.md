@@ -1,7 +1,7 @@
 ---
 title: Tech Giants Apple & Samsung Reveal the Hidden Struggle Behind Microsoft's AI Endeavors - The Untold Story
-date: 2024-12-30T21:04:04.379Z
-updated: 2025-01-07T08:04:09.659Z
+date: 2025-01-11T18:58:55.928Z
+updated: 2025-01-13T17:58:14.094Z
 tags:
   - apple
 categories:
@@ -71,24 +71,26 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-film-visionarys-hub-the-definitive-15-luts-for-gopro-cinematic-use/"><u>[New] Film Visionary's Hub The Definitive 15 LUTs for GOPRO Cinematic Use</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-foremost-news-channels-on-youtube-to-watch-daily-for-2024/"><u>[New] Foremost News Channels on YouTube to Watch Daily for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-frontier-makers-of-harmonized-audio-visual-experiences-for-2024/"><u>[New] Frontier Makers of Harmonized Audio-Visual Experiences for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-how-to-render-and-upload-your-youtube-video-faster-for-2024/"><u>[New] How to Render and Upload Your YouTube Video Faster for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-enhance-channel-appeal-with-free-professional-banner-designs/"><u>[New] In 2024, Enhance Channel Appeal with Free, Professional Banner Designs</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-financial-flourishing-in-youtube-content-markets/"><u>[New] In 2024, Financial Flourishing in YouTube Content Markets</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-goovision-xtreme-cam-high-res-screen-capturer/"><u>[New] In 2024, GooVision Xtreme Cam High-Res Screen Capturer</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-filmoras-recipe-for-captivating-youtube-trailers/"><u>[Updated] 2024 Approved Filmora’s Recipe for Captivating YouTube Trailers</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-re-watch-lost-youtube-scenes-online-simple-steps/"><u>[Updated] 2024 Approved How to Re-Watch Lost YouTube Scenes Online Simple Steps</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-dji-spark-review-best-mini-drone-with-gesture-control-for-taking-selfie/"><u>[Updated] DJI Spark Review Best Mini Drone with Gesture Control for Taking Selfie</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-from-footage-to-frame-crafting-youtube-thumbnails-on-mobile-devices-for-2024/"><u>[Updated] From Footage to Frame Crafting YouTube Thumbnails on Mobile Devices for 2024</u></a></li>
-<li><a href="https://extra-information.techidaily.com/achieve-viral-fame-crafting-engaging-instagram-unboxing-videos/"><u>Achieve Viral Fame Crafting Engaging Instagram Unboxing Videos</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-detect-and-remove-spyware-on-sony-xperia-1-v-drfone-by-drfone-virtual-android/"><u>In 2024, How to Detect and Remove Spyware on Sony Xperia 1 V? | Dr.fone</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/in-2024-ultimate-beginners-guide-to-convenient-game-edit-software/"><u>In 2024, Ultimate Beginner's Guide to Convenient Game Edit Software</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/troubleshooting-outlook-on-windows-10-how-to-fix-and-re-enable-the-program/"><u>Troubleshooting Outlook on Windows 10: How to Fix and Re-Enable the Program</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-customizable-mcb-visuals-for-youtube-banners/"><u>[New] 2024 Approved Customizable MCB Visuals for YouTube Banners</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-enhance-info-blocks-templates-for-youtube-titles/"><u>[New] 2024 Approved Enhance Info Blocks Templates for YouTube Titles</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-4-ways-to-set-up-your-talking-head-shots-for-youtube-for-2024/"><u>[New] 4 Ways To Set Up Your Talking-Head Shots For YouTube for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-captivating-your-network-streamlining-content-via-wirecast-to-facebook-for-2024/"><u>[New] Captivating Your Network Streamlining Content via Wirecast to Facebook for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-10-superior-youtube-mp3-extractors/"><u>[New] In 2024, 10 Superior YouTube Mp3 Extractors</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-the-podcasters-guide-to-seamless-streaming-setup-for-2024/"><u>[New] The Podcaster’s Guide to Seamless Streaming Setup for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-decoding-youtubes-revenue-model-for-video-clips-for-2024/"><u>[Updated] Decoding YouTube's Revenue Model for Video Clips for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-edit-youtube-channel-description-for-2024/"><u>[Updated] How to Edit YouTube Channel Description for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-re-watch-lost-youtube-scenes-online-simple-steps/"><u>[Updated] How to Re-Watch Lost YouTube Scenes Online Simple Steps</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-complete-guide-to-aspect-ratios-about-youtube-videosshortsads/"><u>[Updated] In 2024, Complete Guide to Aspect Ratios About YouTube Videos/Shorts/Ads</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-professional-recordings-ensuring-flawless-gameplay-footage-of-roblox-on-macs/"><u>[Updated] In 2024, Professional Recordings Ensuring Flawless Gameplay Footage of Roblox on Macs</u></a></li>
+<li><a href="https://games-able.techidaily.com/discover-amd-graphics-mastery-with-in-depth-look-at-radeon-xt-rx-7800-7700/"><u>Discover AMD Graphics Mastery with In-Depth Look at Radeon XT (RX 7800, 7700)</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/elevate-study-habits-mastering-notes-with-chatgpt/"><u>Elevate Study Habits - Mastering Notes with ChatGPT</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-fix-unfortunately-contacts-has-stopped-error-on-zte-nubia-flip-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Unfortunately, Contacts Has Stopped Error on ZTE Nubia Flip 5G | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-oppo-a59-5g-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Oppo A59 5G to Samsung Phone | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-pokemon-go-cooldown-chart-on-lava-agni-2-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Pokémon Go Cooldown Chart On Lava Agni 2 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/irresistible-topic-titler-machine-for-2024/"><u>Irresistible Topic Titler Machine for 2024</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 

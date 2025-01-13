@@ -1,7 +1,7 @@
 ---
 title: "Mastering MacOS Monterey: Building Personalized Focusing Modes for Enhanced Productivity | Insights From ZDNet"
-date: 2025-01-01T23:31:10.961Z
-updated: 2025-01-06T17:57:30.209Z
+date: 2025-01-07T17:04:55.321Z
+updated: 2025-01-13T18:16:13.280Z
 tags:
   - apple
 categories:
@@ -27,7 +27,7 @@ So, how do you create this custom Flow? Let me show you. All you'll need to make
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Create a custom Focus
@@ -37,7 +37,7 @@ So, how do you create this custom Flow? Let me show you. All you'll need to make
 Click on the Apple menu in the top left corner of your desktop. From the resulting pop-up menu, click System Preferences.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 2\. Access Notifications & Focus
@@ -48,10 +48,6 @@ In the System Preferences window (**Figure 1**), click Notifications & Focus.
 
 Image: Jack Wallen
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 3\. Open the Focus tab
 
 Once Notifications & Focus is opened, click the Focus tab (**Figure 2**).
@@ -61,7 +57,7 @@ Once Notifications & Focus is opened, click the Focus tab (**Figure 2**).
 Image: Jack Wallen
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 4\. Create the new Focus
@@ -81,7 +77,7 @@ Image: Jack Wallen
 After naming and selecting a color/icon, click Add to save the new Focus.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 5\. Allowing specific notifications
@@ -97,6 +93,10 @@ From the pop-up list, select the contact(s) you want to be allowed to interrupt 
 **Figure 6:** Adding contacts to a Focus in macOS Monterey.
 
 Image: Jack Wallen
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 6\. Set the Focus to be enabled
 
@@ -140,20 +140,18 @@ Use this new Focus feature wisely, and it will help you be more productive while
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-elevating-sims-4-chronicles-advanced-techniques-for-precise-game-recording/"><u>[New] 2024 Approved Elevating Sims 4 Chronicles Advanced Techniques for Precise Game Recording</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-shave-seconds-off-your-youtube-video-submission/"><u>[New] 2024 Approved How to Shave Seconds Off Your YouTube Video Submission</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/new-how-does-youtube-work-after-a-video-is-uploaded/"><u>[New] How Does YouTube Work After a Video Is Uploaded</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-save-money-with-the-right-youtube-tv-plan/"><u>[New] In 2024, How to Save Money with the Right YouTube TV Plan</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/nveiling-video-magic-mastering-your-youtube-studio-for-2024/"><u>[New] Unveiling Video Magic Mastering Your YouTube Studio for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-grandview-alliance-how-to-settle-on-a-cms-for-2024/"><u>[Updated] Grandview Alliance How to Settle on a CMS for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-clear-black-boards-in-your-youtube-videos-for-2024/"><u>[Updated] How to Clear Black Boards in Your YouTube Videos for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-11-useful-youtube-seo-tips-to-help-rank-your-video-high/"><u>[Updated] In 2024, 11 Useful YouTube SEO Tips to Help Rank Your Video High</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-filmoras-secrets-to-captivating-youtube-trailers/"><u>[Updated] In 2024, Filmora's Secrets to Captivating YouTube Trailers</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-the-ground-up-building-a-new-dynamic-youtube-chanel/"><u>[Updated] In 2024, From the Ground Up Building a New, Dynamic YouTube Chanel</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-go-frame-by-frame-on-youtube-video-5-methods/"><u>[Updated] In 2024, How to Go Frame by Frame on YouTube Video? [5 Methods]</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/creating-captivating-iphone-lengthened-photos-for-2024/"><u>Creating Captivating iPhone Lengthened Photos for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/solving-the-mystery-repairing-msvbvm50dll-file-missing-error-on-your-pc/"><u>Solving the Mystery: Repairing 'Msvbvm50.dll' File Missing Error on Your PC</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/streamline-your-social-media-mastering-automatic-video-playback/"><u>Streamline Your Social Media Mastering Automatic Video Playback</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/ultimate-performance-meets-exceptional-visuals-in-highly-versatile-laptops-an-in-depth-review-gadget-specialist/"><u>Ultimate Performance Meets Exceptional Visuals in Highly Versatile Laptops - An In-Depth Review Gadget Specialist</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-esports-news-and-analysis-from-top-vloggers/"><u>[New] 2024 Approved Esports News and Analysis From Top Vloggers</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-the-counterplay-creative-ways-to-watch-youtube-in-reverse/"><u>[New] The Counterplay Creative Ways to Watch YouTube in Reverse</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-outro-aesthetics-selecting-templates-any-budget/"><u>[Updated] 2024 Approved Outro Aesthetics Selecting Templates, Any Budget</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-discover-the-most-reliable-royalty-free-audio-libraries-for-2024/"><u>[Updated] Discover the Most Reliable Royalty-Free Audio Libraries for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-essential-websites-for-youtube-preview-creation-tools/"><u>[Updated] In 2024, Essential Websites for YouTube Preview Creation Tools</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-depth-appraisal-does-inshot-rule-in-video-edits/"><u>[Updated] In-Depth Appraisal Does InShot Rule in Video Edits?</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/comprehensive-review-mastering-the-giant-amongst-rc-trucks-galaxy-ford-f150-edition/"><u>Comprehensive Review: Mastering the Giant Amongst RC Trucks, Galaxy Ford F150 Edition</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/209636304-9781633411586-herbal-magick/"><u>Herbal Magick | Free Book</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-can-i-catch-the-regional-pokemon-without-traveling-on-infinix-hot-40-drfone-by-drfone-virtual-android/"><u>How Can I Catch the Regional Pokémon without Traveling On Infinix Hot 40 | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-a-quick-guide-to-oneplus-12r-frp-bypass-instantly-by-drfone-android/"><u>In 2024, A Quick Guide to OnePlus 12R FRP Bypass Instantly</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/the-ultimate-conversion-guide-youtube-to-igtv-for-2024/"><u>The Ultimate Conversion Guide YouTube to IGTV for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-rated-vpn-apps-for-apple-devices-comprehensive-reviews-and-comparisons-by-experts/"><u>Top-Rated VPN Apps for Apple Devices: Comprehensive Reviews & Comparisons by Experts</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/tutorial-purging-your-youtube-download-history-for-2024/"><u>Tutorial Purging Your YouTube Download History for 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Essential Guide: When & How to Successfully Reboot Your AirPods - Tips From ZDNet"
-date: 2025-01-03T07:07:46.902Z
-updated: 2025-01-07T00:45:45.279Z
+date: 2025-01-09T19:42:19.031Z
+updated: 2025-01-13T19:55:35.885Z
 tags:
   - apple
 categories:
@@ -24,10 +24,6 @@ Before I take you through both the tools and my "process," let me point out that
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### See also
 
 [The 6 best to-do list apps: Get organized What is the best to-do list app? Any.do! But ZDNet reviewed all the top picks to help you organize and liberate your life.  Read now](https://www.zdnet.com/article/best-to-do-list-app/)
@@ -49,7 +45,7 @@ That whole process is my flow. Over my many various iterations, I've managed to 
 The other half of my day is project time. This is when I work on everything from academic papers to the presentations, white papers, and webcasts I do for ZDNet to developing code to most of the projects I write about for DIY-IT. I tend to work on projects in the late afternoon and the late evening, with a break in the early evening for family time and lunch or dinner. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Changes due to the pandemic
@@ -61,6 +57,10 @@ The last time I updated this guide was in early 2019\. Obviously, a few things h
 Now, [mostly I'm home](https://www.zdnet.com/article/whats-inside-gewirtzs-home-office-20-years-of-refinement-and-evolution/). If I'm out, it's a dedicated out-and-back with a specific purpose. There is no meandering, browsing, or schmoozing. Yes, I know other people may feel comfortable going back to the pre-pandemic normal, but I have reasons for playing it a bit more safe than most might.
 
 In any case, what that means is that instead of my escalating ranking of phones, tablets, Chromebooks and laptops, I just carry my [iPhone 12 Pro Max](https://www.zdnet.com/article/dont-buy-that-expensive-new-iphone-13-how-used-iphones-can-deliver-huge-savings/). It will keep me up to speed until I get back home and can pick up where I left off.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Tools for my daily flow
 
@@ -81,6 +81,10 @@ Actually, scratch that. I no longer take my iPhone to bed with me. Instead, I we
 The boy
 
 The way I have Gmail set up, only the most important messages show up on my watch. Same with Slack notifications. Basically, unless there's something urgent from one of my editors, I can start my day in peace. If there's nothing urgent, I hit the snooze button. After repeating this ritual two or three times, I get up, do my morning necessaries, and zombie-walk to the coffee maker. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
 
@@ -107,6 +111,10 @@ The nice part about this is I can easily do this while drinking coffee. I can ge
 By this point, I'm somewhere between 30 and 60 minutes into my day, I've had one or two cups of coffee, and I have a pretty solid feel for both what's going on in my own various domains as well as what's going on in the rest of the world. It's a very good, very quick way to come up to speed while waking up.
 
 Depending on the importance and urgency of the messages in my Gmail inbox, I'll either go straight into my morning email cycle or begin my morning reading. I prefer to do morning reading before email, so I'll discuss that next. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## The Pocket-read-post-archive cycle
 
@@ -135,10 +143,6 @@ I'm relatively holistic about my morning reading process. I do it until I'm bore
 
 The key point to all of this is that ever since I moved to this Pocket-read-post-archive cycle for my daily reading, my productivity and flexibility has gone up tremendously. I'm getting more done, and the quality of the process is far more pleasant. I'm no longer tied to my desktop browser, because all of these tools work on all my devices. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Connecting and scheduling
 
 Assuming there's nothing on fire that I've had to handle first thing, at some point during the morning, I'll switch from reading to communicating. I'll switch out of Pocket and into Gmail and work my way through my email. 
@@ -162,7 +166,7 @@ Now, to be fair, I have a slight email fetish, so I do check back in to my inbox
 In fact, now that I have email notifications integrated into my watch, I'm finding I'm actually breaking myself of the habit, because unless I hear the notification tone, I don't have any important emails coming in. I have actually gone a few hours without checking my email inbox, which is something of a record for me. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Managing my daily teaching opportunities
@@ -178,10 +182,6 @@ Help Scout also has great team features, but I'm a programming army of one.
 I just think of those users like more of my students. If any questions show up in my inbox, I go into the ticketing system and answer questions. I'm not assigning users letter grades, but otherwise the process is pretty much the same. 
 
 By the way, this is also a great way to think about users, which I initially was a bit unhappy about adding to my daily workload. But the reframe is this: I'm an educator and these are more people in need of assistance while they're learning to use these plugins. So, rather than thinking about providing user support as an added workload, I think of the users as more of my students and their questions as simply more teaching opportunities. It's also a great way to keep up on what people are doing out there, and gives me a much more "on the street" dialog with users, which is invaluable as a tech journalist.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Featured
 
@@ -222,15 +222,15 @@ I've set up a bunch of Notion pages and all the items that "should be on the lis
 
 That, by the way, is the entire key to keeping your to-do list under control. If you actually intend to do an item within a reasonably short period of time, put it on your to-do list. If you expect to do it someday, it's not a to-do list item, not an actionable item, and you should write them on another list somewhere. I use Trello for that. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **ZDNET** Recommends
 
 [The best 3D printers If you're in the market for a 3D printer, you'll find one here that fits your needs.  Read now](https://www.zdnet.com/article/best-3d-printer/)
 
 I've also set up Notion pages for each 3D printer, and for managing and tracking my reviews and video projects. It's great as a catch-all for lots of details, but unlike previous catch-alls like Evernote, Notion allows you to assign some structure and layout to the stuff you're working with. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Blocking out time for my projects
 
@@ -275,16 +275,18 @@ _You can follow my day-to-day project updates on social media. Be sure to follow
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-viewers-to-profits-an-authoritative-guide-on-youtube-revenue-and-popularity-analysis/"><u>[New] 2024 Approved From Viewers to Profits An Authoritative Guide on YouTube Revenue and Popularity Analysis</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-streamlining-meetings-integrate-slack-and-filmora-effortlessly/"><u>[New] 2024 Approved Streamlining Meetings Integrate Slack & Filmora Effortlessly</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/uide-to-swiftly-eliminate-unwanted-youtube-comments/"><u>[New] Guide to Swiftly Eliminate Unwanted YouTube Comments</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-flavorful-frontier-groundbrenant-title-strategies-for-food-networks/"><u>[New] In 2024, Flavorful Frontier Groundbrenant Title Strategies for Food Networks</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-flavorful-faves-top-online-chefs-and-culinary-stars/"><u>[Updated] 2024 Approved Flavorful Faves Top Online Chefs & Culinary Stars</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-for-students-discover-the-top-10-historical-youtube-channels-now/"><u>[Updated] 2024 Approved For Students, Discover the Top 10 Historical YouTube Channels Now</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-echo-generator-blueprint-for-2024/"><u>[Updated] Echo Generator Blueprint for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-insights-into-the-world-of-touch-and-movement-detection/"><u>2024 Approved Insights Into the World of Touch and Movement Detection</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/is-fake-gps-location-spoofer-a-good-choice-on-apple-iphone-x-drfone-by-drfone-virtual-ios/"><u>Is Fake GPS Location Spoofer a Good Choice On Apple iPhone X? | Dr.fone</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/premium-accelerated-photo-browser-for-windows-for-2024/"><u>Premium Accelerated Photo Browser for Windows for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/unlocking-apowersofts-zero-cost-screen-recording-for-2024/"><u>Unlocking Apowersoft's Zero-Cost Screen Recording for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-finalizing-your-video-with-a-bold-statement/"><u>[New] 2024 Approved Finalizing Your Video with a Bold Statement</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-seamlessly-reorganize-video-playlists-on-yt/"><u>[New] 2024 Approved How to Seamlessly Reorganize Video Playlists on YT</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-simplified-protocol-effortless-video-conversion-and-dvd-making/"><u>[New] Simplified Protocol Effortless Video Conversion and DVD Making</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-unlocking-the-full-potential-of-high-dynamic-range-photos-using-lightroom-for-2024/"><u>[New] Unlocking the Full Potential of High Dynamic Range Photos Using Lightroom for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-historical-highlights-topping-the-list-of-learning-yt-sources/"><u>[Updated] 2024 Approved Historical Highlights Topping the List of Learning YT Sources</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-free-yourself-with-top-4-applications-for-youtube-to-wav-conversion-for-2024/"><u>[Updated] Free Yourself with Top 4 Applications for YouTube-to-WAV Conversion for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-fundamental-equipment-for-channel-foundations/"><u>[Updated] In 2024, Fundamental Equipment for Channel Foundations</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-navigate-your-gaming-world-with-steams-switch-controller/"><u>[Updated] Navigate Your Gaming World with Steam's Switch Controller</u></a></li>
+<li><a href="https://fox-info.techidaily.com/dji-spark-and-you-a-comprehensive-review-of-portable-aerial-tech/"><u>DJI Spark and You A Comprehensive Review of Portable Aerial Tech</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/error-code-31-woes-comprehensive-guide-to-troubleshoot-and-repair-it-on-windows/"><u>Error Code 31 Woes? Comprehensive Guide to Troubleshoot and Repair It on Windows</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-move-contacts-from-infinix-smart-8-pro-to-iphone-131415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways to Move Contacts From Infinix Smart 8 Pro to iPhone (13/14/15) | Dr.fone</u></a></li>
+<li><a href="https://facebook.techidaily.com/perfecting-facebook-profile-altering-significant-personal-date/"><u>Perfecting Facebook Profile: Altering Significant Personal Date</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/say-hello-to-premium-entertainment-on-a-budget-the-impressive-lg-24lh4830-smart-tv/"><u>Say Hello to Premium Entertainment on a Budget: The Impressive LG 24LH4830 Smart TV</u></a></li>
 </ul></div>
 

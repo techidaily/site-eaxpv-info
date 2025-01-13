@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Epic Battle Royale Thumbnails, Done Fast for 2024"
-date: 2024-08-20T13:14:13.679Z
-updated: 2024-08-21T13:14:13.679Z
+date: 2025-01-11T18:24:43.735Z
+updated: 2025-01-13T17:40:02.080Z
 tags:
   - ai video
   - ai youtube
@@ -18,9 +18,6 @@ thumbnail: https://thmb.techidaily.com/de7e32da454b1a64d1a9e174bd2f0af6c1c09ee74
 
 # How to Make Fortnite Thumbnail for Free and Easy in 2024
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
 ##### Ollie Mattison
@@ -39,16 +36,10 @@ Filmora has recently introduced a new feature named AI Portrait that uses Artifi
 
 **Step 02:** If you are using a console, the game will only store 10 recent gameplays, but if you are using a PC, it will store 100 recent gameplays in this section. From all these gameplays, select the one that you want to use for the Thumbnail. Once you choose gameplay, you can control everything in it. The angle, speed, and camera mode.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![make-fortnite-thumbnail-step2](https://images.wondershare.com/filmora/article-images/make-fortnite-thumbnail-step2.jpg)
 
 **Step 03:** For creating a perfect thumbnail, select "Drone Free Camera" mode from the camera mode located on the bottom right corner of the screen. It will allow us to change the angle the way we want. Choose an angle of your choice and take the screenshot.
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![make-fortnite-thumbnail-step3](https://images.wondershare.com/filmora/article-images/make-fortnite-thumbnail-step3.jpg)
 
 **Step 04:** Open Filmora X, make sure to select the 16:9 screen ratio. Import the screenshot using the import button.
@@ -69,16 +60,10 @@ Filmora has recently introduced a new feature named AI Portrait that uses Artifi
 
 **Step 08:** It will remove the background of the screenshot.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![make-fortnite-thumbnail-step8](https://images.wondershare.com/filmora/article-images/make-fortnite-thumbnail-step8.jpg)
 
 **Step 09:** To add a background, go to the media and navigate to "Sample Color." Drag a color of your choice and drop it below the screenshot.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![make-fortnite-thumbnail-step9](https://images.wondershare.com/filmora/article-images/make-fortnite-thumbnail-step9.jpg)
 
 **Step 10:** To add titles in the Thumbnail, go to the Titles tab. Here you can find several categories of titles. Find your preferred title and drop it above all the layers. You can choose titles, lower thirds, and other texts depending upon your need and requirement.
@@ -95,9 +80,6 @@ Filmora has recently introduced a new feature named AI Portrait that uses Artifi
 
 **Step 13:** To access the directory where this screenshot is saved, right-click on the screenshot and click on "Reveal in Explorer." It will open the folder that contains all the screenshots you take through Filmora. Your Fortnite Thumbnail is ready to be used on your Youtube videos.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![make-fortnite-thumbnail-step13](https://images.wondershare.com/filmora/article-images/make-fortnite-thumbnail-step13.jpg)
 
 #### Conclusion
@@ -112,8 +94,6 @@ Ollie Mattison is a writer and a lover of all things video.
 
 Follow @Ollie Mattison
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -121,5 +101,30 @@ Follow @Ollie Mattison
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-fierce-femininity-top-10-ladies-whove-captured-youtube-audiences/"><u>[New] 2024 Approved Fierce Femininity Top 10 Ladies Who've Captured YouTube Audiences</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-flashglimpse-crafter/"><u>[Updated] 2024 Approved FlashGlimpse Crafter</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-vision-to-reality-personal-animation-mastery/"><u>[Updated] 2024 Approved From Vision to Reality Personal Animation Mastery</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-female-gamers-faction-yts-10-stars-for-2024/"><u>[Updated] Female Gamers Faction YT's #10 Stars for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-from-visionary-to-victory-channel-command-school-for-2024/"><u>[Updated] From Visionary to Victory Channel Command School for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-freely-accessible-cutting-edge-video-editor-tools/"><u>[Updated] In 2024, Freely Accessible Cutting Edge Video Editor Tools</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-graphicgrind-studio/"><u>[Updated] In 2024, GraphicGrind Studio</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-guaranteed-safe-approaches-for-turning-youtube-songs-into-mp3-files/"><u>[Updated] In 2024, Guaranteed Safe Approaches for Turning YouTube Songs Into MP3 Files</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-do-youtube-channels-get-paid-regularly/"><u>[Updated] In 2024, How Do YouTube Channels Get Paid Regularly?</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/2024-approved-unlocking-the-power-of-pages-top-10-social-media-optimization-tactics/"><u>2024 Approved Unlocking the Power of Pages Top 10 Social Media Optimization Tactics</u></a></li>
+<li><a href="https://techtrends.techidaily.com/1726225637559-pngtiff-movavi/"><u>在线无成本将PNG图片转换为TIFF - 使用Movavi编辑工具</u></a></li>
+<li><a href="https://win-able.techidaily.com/common-problems-and-solutions-for-non-functional-windows-11-spotlight-images/"><u>Common Problems and Solutions for Non-Functional Windows 11 Spotlight Images</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/diy-tips-for-instant-custom-youtube-shorts-coverage/"><u>DIY Tips for Instant Custom YouTube Shorts Coverage</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/fine-tuning-frames-a-comprehensible-approach-to-iphone-editing/"><u>Fine-Tuning Frames A Comprehensible Approach to iPhone Editing</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-tecno-spark-go-2024-phone-password-without-factory-reset-by-drfone-android/"><u>How to Unlock Tecno Spark Go (2024) Phone Password Without Factory Reset?</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-a-quick-guide-to-poco-c55-frp-bypass-instantly-by-drfone-android/"><u>In 2024, A Quick Guide to Poco C55 FRP Bypass Instantly</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-fabric-of-future-cutting-edge-vr-technology/"><u>In 2024, The Fabric of Future Cutting-Edge VR Technology</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/quick-fixes-for-why-is-my-nokia-c12-pro-black-and-white-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Quick Fixes for Why Is My Nokia C12 Pro Black and White | Dr.fone</u></a></li>
+<li><a href="https://win-bits.techidaily.com/schutz-ihrer-windows-11-daten-secure-upload-auf-onedrive-mittels-freeware-die-zwei-besten-wege-dargestellt/"><u>Schutz Ihrer Windows-11-Daten: Secure Upload Auf OneDrive Mittels Freeware – Die Zwei Besten Wege Dargestellt</u></a></li>
+</ul></div>
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 

@@ -1,7 +1,7 @@
 ---
 title: "Download the New iOS 18 Update on Your iPhone: Compatible Models and Step-by-Step Guide"
-date: 2025-01-05T03:51:48.747Z
-updated: 2025-01-07T06:17:28.251Z
+date: 2025-01-06T18:02:09.478Z
+updated: 2025-01-13T17:32:27.141Z
 tags:
   - apple
 categories:
@@ -36,21 +36,17 @@ Jason Hiner/ZDNET
 
 Go to your iPhone's Settings and select General. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2\. Go to Software Update in Settings
 
 Within General, tap on Software Update. This will show you if the iOS 18 update is available for you to download.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3\. Download and install
 
 When you tap on Software Update, your iPhone will check for the latest version of iOS available. Then, you'll be able to Download and Install the new update. Your iPhone will begin the download immediately.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Enter your passcode and follow steps to install
 
@@ -59,7 +55,7 @@ Enter your passcode, if necessary, to authorize the installation of the new iOS 
 After installing the latest iOS update, your iPhone will restart.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## FAQs
@@ -75,7 +71,7 @@ Apple released the iOS 18 developer beta during WWDC 2024 in June, and the publi
 **Also: [The best iOS 18 features that will make updating your iPhone worthwhile](https://www.zdnet.com/article/the-best-ios-18-features-that-will-make-updating-your-iphone-worthwhile/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Can you still download the iOS 18 public beta?
@@ -97,6 +93,10 @@ You'll need an iPhone running iOS 16.5 or later. Since not all iPhones are compa
 
 Screenshot: Maria Diaz/ZDNET
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### How to download the iOS 18 developer beta?
 
 To download the iOS 18 developer beta version, navigate to your settings to install the iOS 18 developer beta if your device runs iOS 16.4 and is used with an Apple ID enrolled in the Apple Developer Program:
@@ -114,7 +114,7 @@ If you can't see this option, go to your **Settings,** select **Privacy & Securi
 If you aren't already a member of the Apple Developer Program, you can sign up to become one in the app. An annual membership costs $99.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### What is in iOS 18 beta 3?
@@ -161,21 +161,18 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://program-issues.techidaily.com/fixed-dark-souls-3-crashing-issues/"><u>[Fixed] Dark Souls 3 Crashing Issues</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-first-steps-in-the-youtubian-economy-building-a-brand-boosting-bank-balance/"><u>[New] 2024 Approved First Steps in the Youtubian Economy Building a Brand, Boosting Bank Balance</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-how-to-create-engaging-visual-hooks-a-guide-to-video-thumbnail-making-for-2024/"><u>[New] How to Create Engaging Visual Hooks A Guide to Video Thumbnail Making for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-how-to-outsmart-youtube-sanctions-for-2024/"><u>[New] How to Outsmart Youtube Sanctions for 2024</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-in-2024-complete-guide-to-cleaning-up-figma-canvases/"><u>[New] In 2024, Complete Guide to Cleaning Up Figma Canvases</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-bites-to-blocks-top-10-video-editing-principles/"><u>[New] In 2024, From Bites to Blocks Top 10 Video Editing Principles</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-gamers-dream-gear-youtube-collection/"><u>[New] In 2024, Gamers' Dream Gear YouTube Collection</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-transforming-your-ad-strategy-with-animation-for-max-roi-for-2024/"><u>[New] Transforming Your Ad Strategy with Animation for Max ROI for 2024</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-cultivate-creativity-inspiration-driven-video-titles/"><u>[Updated] 2024 Approved Cultivate Creativity Inspiration-Driven Video Titles</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-dorm-room-to-mainstream-trending-short-hashtags/"><u>[Updated] 2024 Approved From Dorm Room to Mainstream Trending Short Hashtags</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-digital-training-footage-for-2024/"><u>[Updated] Digital Training Footage for 2024</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-high-definition-videography-unveiled-by-yi-for-2024/"><u>[Updated] High Definition Videography Unveiled by Yi for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-monetize-like-a-pro-how-to-use-youtube-studio-on-any-device-for-2024/"><u>[Updated] Monetize Like a Pro How to Use Youtube Studio on Any Device for 2024</u></a></li>
-<li><a href="https://fox-links.techidaily.com/in-2024-the-metaverse-and-omniverse-a-detailed-breakdown/"><u>In 2024, The Metaverse & Omniverse A Detailed Breakdown</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/perfect-picture-playback-superior-4k-panels-for-editing/"><u>Perfect Picture Playback Superior 4K Panels for Editing</u></a></li>
-<li><a href="https://driver-download.techidaily.com/speedy-setup-how-to-update-your-windows-nkeyboard-drivers-easily/"><u>Speedy Setup: How to Update Your Windows nKeyboard Drivers Easily</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-step-by-step-guide-to-find-youtube-hidden-videos-for-2024/"><u>[New] Step-By-Step Guide to Find YouTube Hidden Videos for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-views-for-livelihood-mastering-youtubes-true-numbers/"><u>[New] Views for Livelihood Mastering YouTube's True Numbers</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-demystifying-photo-editing-a-snapseed-introduction/"><u>[Updated] 2024 Approved Demystifying Photo Editing A Snapseed Introduction</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-captivating-videos-start-here-these-7-royalty-free-audios-for-2024/"><u>[Updated] Captivating Videos Start Here These 7 Royalty-Free Audios for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-cutting-edge-techniques-for-capturing-ps4-games-in-obs/"><u>[Updated] In 2024, Cutting-Edge Techniques for Capturing PS4 Games in OBS</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-unlock-channels-success-key-equipment-insights/"><u>[Updated] In 2024, Unlock Channels Success Key Equipment Insights</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-professional-video-tweaks-with-these-top-8-free-editing-apps/"><u>[Updated] Professional Video Tweaks with These Top 8 Free Editing Apps</u></a></li>
+<li><a href="https://win-answers.techidaily.com/defeat-the-challenge-of-continuous-hunger-malfunctions-on-your-desktop-computer/"><u>Defeat the Challenge of Continuous Hunger Malfunctions on Your Desktop Computer</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/frosty-frontiers-highlighting-the-2022-olympic-games/"><u>Frosty Frontiers Highlighting the 2022 Olympic Games</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/mastering-podcast-release-schedules-for-2024/"><u>Mastering Podcast Release Schedules for 2024</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-final-cut-pro-color-matching-secrets-expert-tips-for-a-cohesive-look-for-2024/"><u>New Final Cut Pro Color Matching Secrets Expert Tips for a Cohesive Look for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/perfect-pixels-selecting-best-cameras-for-yt-for-2024/"><u>Perfect Pixels Selecting Best Cameras For YT for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/steps-to-overcome-constant-freezing-and-crashes-in-darkest-dungeon-2-on-windows/"><u>Steps to Overcome Constant Freezing and Crashes in Darkest Dungeon 2 on Windows</u></a></li>
 </ul></div>
 

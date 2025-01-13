@@ -1,7 +1,7 @@
 ---
 title: "Unlocking Storage: A Step-by-Step Guide to Clear Your iPhone Memory & Save GBs | Tech Insights"
-date: 2025-01-05T07:10:06.671Z
-updated: 2025-01-07T05:34:15.878Z
+date: 2025-01-09T16:12:03.232Z
+updated: 2025-01-13T16:38:30.932Z
 tags:
   - apple
 categories:
@@ -29,13 +29,13 @@ If you want to follow along, you'll need to install the iOS 18 public beta on an
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to customize your iPhone's new Control Center with iOS 18
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Access Control Center
@@ -43,10 +43,6 @@ If you want to follow along, you'll need to install the iOS 18 public beta on an
 To display Control Center, swipe down from the top-right corner of the screen. You'll notice that Control Center is now separated into three different screens. The first screen displays the core controls, the second screen shows the audio player and related settings, and the third has connectivity options. Swipe up or down to move from one screen to another, or tap one of the three icons on the right to jump to a specific one.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Move the available controls
 
@@ -56,15 +52,15 @@ Screenshot by Lance Whitney/ZDNET
 
 **Also: [Every iPhone model that can be updated to Apple's iOS 18 (and which ones can't)](https://www.zdnet.com/article/every-iphone-model-that-can-be-updated-to-apples-ios-18-and-which-ones-cant/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Resize a control
 
 After tapping the plus icon, some controls sport a gray curved handle in the lower-right corner. This means you can resize the control's icon. Drag the handle and move it up, down, or diagonally. Release it when the icon is the size you wish.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4\. Delete a control
 
@@ -81,7 +77,7 @@ Screenshot by Lance Whitney/ZDNET
 **Also: [I did not expect this iOS 18 feature announced at WWDC to be my favorite (and it's not AI)](https://www.zdnet.com/article/i-did-not-expect-this-ios-18-feature-announced-at-wwdc-to-be-my-favorite-and-its-not-ai/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6\. Add a control to a new screen
@@ -89,6 +85,10 @@ Screenshot by Lance Whitney/ZDNET
 If the current screens are already filled with icons, you can set up additional screens to hold more controls. Swipe down to the last screen, which shouldn't have any free space. Tap the plus icon and then tap "Add a Control." Again, browse or search for the control you wish to add. Tap that control, and it should appear in a new screen. You can continue adding more controls to the new screen this way. You can create as many as 15 screens, though you'll probably want to stop before you reach that number.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 7\. Power down from Control Center
 
@@ -126,19 +126,18 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-add-chapters-to-youtube-videos/"><u>[New] 2024 Approved How to Add Chapters to YouTube Videos</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-vision-to-value-an-all-inclusive-guide-on-analyzing-views-clicks-and-monetization/"><u>[New] In 2024, From Vision to Value An All-Inclusive Guide on Analyzing Views, Clicks, & Monetization</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-safely-increase-your-youtube-fanbase-to-one-million/"><u>[New] In 2024, How to Safely Increase Your YouTube Fanbase To One Million</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-unlocking-the-potential-of-instagrams-live-video-features/"><u>[New] In 2024, Unlocking the Potential of Instagram’s Live Video Features</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-deciphering-user-insights-in-youtube-comments/"><u>[Updated] 2024 Approved Deciphering User Insights in YouTube Comments</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-from-flat-to-fantastic-3d-text-creation-tips/"><u>[Updated] From Flat to Fantastic 3D Text Creation Tips</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-full-time-careers-meet-video-content-a-harmonious-mix-for-2024/"><u>[Updated] Full-Time Careers Meet Video Content A Harmonious Mix for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-getting-the-most-out-of-your-youtube-videos-thumbnails-extraction/"><u>[Updated] In 2024, Getting the Most Out of Your Youtube Videos Thumbnails Extraction</u></a></li>
-<li><a href="https://location-social.techidaily.com/3-things-you-must-know-about-fake-snapchat-location-on-xiaomi-civi-3-disney-100th-anniversary-edition-drfone-by-drfone-virtual-android/"><u>3 Things You Must Know about Fake Snapchat Location On Xiaomi Civi 3 Disney 100th Anniversary Edition | Dr.fone</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/1726027695825-aacmp3/"><u>AACファイルをMP3に高速無損転送方法：最適化された手順</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/digital-decision-making-choosing-the-best-cropping-tool/"><u>Digital Decision Making Choosing the Best Cropping Tool</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/easily-update-to-the-latest-logitech-audio-drivers-on-windows-operating-systems-win10win7win8/"><u>Easily Update to the Latest Logitech Audio Drivers on Windows Operating Systems (Win10/Win7/Win8)</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-does-life360-notify-when-you-log-out-on-oppo-find-x7-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, Does Life360 Notify When You Log Out On Oppo Find X7 Ultra? | Dr.fone</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-master-list-17-pro-rated-software-for-image-perfection/"><u>In 2024, Master List 17 Pro-Rated Software for Image Perfection</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-getting-started-on-youtube-setting-up-and-generating-income/"><u>[New] 2024 Approved Getting Started on YouTube Setting Up & Generating Income</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-dissecting-wirecast-a-comprehensive-breakdown-and-comparisons-for-2024/"><u>[New] Dissecting WireCast A Comprehensive Breakdown & Comparisons for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-viewer-payouts-for-video-engagement/"><u>[New] Viewer Payouts for Video Engagement</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-elevate-your-online-presence-mastering-youtube-edits-in-premiere-for-2024/"><u>[Updated] Elevate Your Online Presence Mastering YouTube Edits in Premiere for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-enhance-productions-no-cost-sounds-available/"><u>[Updated] Enhance Productions No-Cost Sounds Available!</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-adobes-toolset-perfecting-your-youtube-uploads/"><u>[Updated] In 2024, Adobe's Toolset Perfecting Your YouTube Uploads</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-scaling-up-instagram-videos-mobile-and-desktop-approaches/"><u>[Updated] In 2024, Scaling Up Instagram Videos Mobile & Desktop Approaches</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-innovative-design-crafting-youtubes-efficient-subscribe-page/"><u>[Updated] Innovative Design Crafting YouTube's Efficient Subscribe Page</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/drone-giants-competing-dji-mavic-meets-karma/"><u>Drone Giants Competing DJi Mavic Meets Karma</u></a></li>
+<li><a href="https://win-forum.techidaily.com/easy-methods-for-deleting-your-pcs-crash-dumps-on-windows-11/"><u>Easy Methods for Deleting Your PC's Crash Dumps on Windows 11</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-navigating-the-subreddit-landscape-a-step-by-step-approach/"><u>In 2024, Navigating the Subreddit Landscape A Step-by-Step Approach</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/reasons-why-pokemon-gps-does-not-work-on-nubia-red-magic-9-proplus-drfone-by-drfone-virtual-android/"><u>Reasons why Pokémon GPS does not Work On Nubia Red Magic 9 Pro+? | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-your-windows-11-copy-and-paste-malfunction-easily/"><u>Resolving Your Windows 11 'Copy & Paste' Malfunction Easily</u></a></li>
 </ul></div>
 

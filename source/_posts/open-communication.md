@@ -1,7 +1,7 @@
 ---
 title: Open Communication
-date: 2025-01-02T16:44:49.518Z
-updated: 2025-01-07T03:45:16.508Z
+date: 2025-01-08T17:52:40.314Z
+updated: 2025-01-13T16:00:53.027Z
 tags:
   - apple
 categories:
@@ -27,7 +27,7 @@ New with the latest version of watchOS is a feature called Check In. Accessible 
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to check in with a friend or family member from your Apple Watch
@@ -43,10 +43,6 @@ To update watchOS, open the Watch app on your iPhone. Go to General, select Soft
 Screenshot by Lance Whitney/ZDNET
 
 **Also: [I was on the fence with the Apple Watch 10, but these 3 features changed my mind](https://www.zdnet.com/article/i-was-on-the-fence-with-the-apple-watch-10-but-these-3-features-changed-my-mind/)**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Send the default Check In through the Messages app
 
@@ -71,7 +67,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. View the actual Check in alert
@@ -90,15 +86,15 @@ If you still wish to use a timer for the Check In option but change the amount o
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 6\. Send a customized Check In through the Messages app
 
 To further customize the Check In, tap the Edit button at the Check In screen. Tap Check In. You can now set a notification to be sent when you've arrived at your destination, after the timer ends, or when a workout ends. Tap the option for "When I arrive."
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 7\. Add a destination and send the text
 
@@ -108,6 +104,10 @@ Screenshot by Lance Whitney/ZDNET
 
 **Also: [Your Apple Watch is getting an upgrade - here are the best features in WatchOS 11](https://www.zdnet.com/article/your-apple-watch-is-getting-an-upgrade-here-are-the-best-features-in-watchos-11/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 8\. Set a Check In for a workout in the Messages app
 
 Maybe you're working out at the gym or at home and want to let someone know when you've finished. You can do this a couple of ways. In the Messages app on your watch, start or continue a conversation with the recipient. Tap the Add icon, select Check In, and then tap Edit. Tap the option for Check In and change it to "When workout ends." Start your workout. When you're done, swipe the screen to the right and tap End. The other person will then receive the notification.
@@ -115,7 +115,7 @@ Maybe you're working out at the gym or at home and want to let someone know when
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 9\. Set a Check In for a workout in the Workout app
@@ -154,22 +154,20 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-harnessing-monetization-potential-with-youtube-ad-strategies/"><u>[New] 2024 Approved Harnessing Monetization Potential with YouTube Ad Strategies</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-generate-interest-making-your-own-youtube-intros-for-2024/"><u>[New] Generate Interest Making Your Own YouTube Intros for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-how-much-do-you-earn-when-a-million-watch-youtube-in-2024/"><u>[New] How Much Do You Earn When a Million Watch Youtube, In 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-frame-it-right-essential-composition-rules-for-youtube-filmmaking/"><u>[New] In 2024, Frame It Right Essential Composition Rules for YouTube Filmmaking</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-stir-to-screen-masterful-cooking-videos/"><u>[New] In 2024, From Stir to Screen Masterful Cooking Videos</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-2024-approved-go-beyond-screens-how-to-watch-360-videos-and-vr-via-android/"><u>[Updated] 2024 Approved Go Beyond Screens How to Watch 360 Videos & VR via Android</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-a-step-by-step-approach-to-choosing-superior-fpv-drone-propellers/"><u>[Updated] A Step-by-Step Approach to Choosing Superior FPV Drone Propellers</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-finding-your-video-complement-the-process-of-collaborative-pairing-for-2024/"><u>[Updated] Finding Your Video Complement The Process of Collaborative Pairing for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-block-youtube-ads-on-chromefirefoxandroidiphone-for-2024/"><u>[Updated] How to Block YouTube Ads on Chrome/Firefox/Android/iPhone for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-fusing-genres-a-youtube-music-strategy/"><u>[Updated] In 2024, Fusing Genres A YouTube Music Strategy</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-the-loom-chronicles-crafting-visual-stories-for-2024/"><u>[Updated] The Loom Chronicles Crafting Visual Stories for 2024</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/2024-approved-sky-drones-their-genres/"><u>2024 Approved Sky Drones Their Genres</u></a></li>
-<li><a href="https://video-capture.techidaily.com/2024-approved-unwinding-utopia-premier-idle-games/"><u>2024 Approved Unwinding Utopia Premier Idle Games</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/discover-new-movie-experiences-top-7-swaps-for-2024/"><u>Discover New Movie Experiences - Top 7 Swaps for 2024</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fixing-the-non-functional-mic-in-your-dota-2-game-ultimate-solutions/"><u>Fixing the Non-Functional Mic in Your Dota 2 Game – Ultimate Solutions!</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/in-2024-aspect-ratios-unveiled-a-complete-youtube-manual/"><u>In 2024, Aspect Ratios Unveiled A Complete YOUTUBE Manual</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/in-2024-total-environmental-immersion-in-media-creation/"><u>In 2024, Total Environmental Immersion in Media Creation</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-fuse-melodies-into-your-youtube-digital-realm-for-2024/"><u>[New] Fuse Melodies Into Your Youtube Digital Realm for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-shorts-to-mp4-a-step-by-step-tutorial/"><u>[New] In 2024, From Shorts to MP4 A Step-by-Step Tutorial</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-find-your-perfect-match-top-8-mirrorless-cameras-for-live-streams-for-2024/"><u>[Updated] Find Your Perfect Match Top 8 Mirrorless Cameras For Live Streams for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-foremost-news-channels-on-youtube-to-watch-daily-for-2024/"><u>[Updated] Foremost News Channels on YouTube to Watch Daily for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-convert-your-fb-video-into-singable-songs-mp3/"><u>[Updated] In 2024, Convert Your FB Video Into Singable Songs (MP3)</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-filmmaking-simplified-create-an-inviting-youtube-subscription-button-in-filmora/"><u>[Updated] In 2024, Filmmaking Simplified Create an Inviting YouTube Subscription Button in Filmora</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-growth-hacks-for-youtubers-short-form-content-boosting-view-counts-effectively/"><u>[Updated] In 2024, Growth Hacks for YouTuber's Short Form Content Boosting View Counts Effectively</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-twice-as-nice-sequential-video-playback-via-television-setup/"><u>[Updated] Twice as Nice Sequential Video Playback via Television Setup</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/2024-approved-the-blueprint-to-perpetual-snapstreaks/"><u>2024 Approved The Blueprint to Perpetual Snapstreaks</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/comprehensive-tutorial-on-installing-latest-drivers-for-acer-nitro-5-laptop/"><u>Comprehensive Tutorial on Installing Latest Drivers for Acer Nitro 5 Laptop</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/enhance-your-clip-creation-with-inshot-tools-for-2024/"><u>Enhance Your Clip Creation with Inshot Tools for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-install-epson-xp-245-driver-on-windows-7810-step-by-step-download-tutorials/"><u>How to Install Epson Xp-245 Driver on Windows 7/8/10: Step by Step Download Tutorials</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-simplifying-your-system-switch-from-sierra-to-os-x-1010/"><u>In 2024, Simplifying Your System Switch From Sierra to OS X 10.10</u></a></li>
+<li><a href="https://fox-info.techidaily.com/in-2024-swift-searches-for-abandoned-reddit-discussions/"><u>In 2024, Swift Searches for Abandoned Reddit Discussions</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-tutorial-disabling-windows-10s-auto-updating-feature/"><u>Step-by-Step Tutorial: Disabling Windows 10'S Auto-Updating Feature</u></a></li>
 </ul></div>
 

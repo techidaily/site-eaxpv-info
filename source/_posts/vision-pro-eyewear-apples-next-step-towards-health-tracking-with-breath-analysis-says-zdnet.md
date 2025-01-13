@@ -1,7 +1,7 @@
 ---
 title: "Vision Pro Eyewear: Apple's Next Step Towards Health Tracking with Breath Analysis, Says ZDNet"
-date: 2024-12-31T21:41:24.073Z
-updated: 2025-01-07T06:10:02.995Z
+date: 2025-01-09T18:36:07.775Z
+updated: 2025-01-13T16:36:30.301Z
 tags:
   - apple
 categories:
@@ -31,6 +31,10 @@ To continue this conversation, I'm going to ask you to hold two competing though
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  How could Meta possibly beat Apple?
 
 Good, better, best. What does this mean? How can a $500 device from Meta (Facebook, believe it or not) beat Apple's offering?
@@ -54,6 +58,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 During this time, the company focused on providing viable mixed reality and VR experiences, adding capabilities, better visuals, better cameras, improving the headsets overall, and constantly pushing to make the price viable for consumers. 
 
 Essentially, Meta's focus has been on finding the sweet spot for AR and VR devices using current technology and baking that into its products. In the Quest 3, it has introduced a truly great device at a reasonably affordable price.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  That old Apple magic
 
@@ -82,10 +90,6 @@ Bloomberg's Gurman believes Apple is more willing to kill products now than it h
 
 His inference is that it's possible Apple will lose patience with the slow progress of the Vision Pro and kill it off, although he says his sources claim the company is more focused on introducing a cost-cut Vision device that off-loads the processing to a tethered iPhone or Mac. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Think different?
 
 For Apple to be able to move forward with the Vision Pro, it must answer one simple question: Why should I buy this thing? 
@@ -107,7 +111,7 @@ The virtual Mac screen the Vision Pro now offers doesn't add much. But being abl
 There are always reasons for delays. It's certainly possible the company hit technical hurdles. But perhaps it could have moved resources over from circus sideshow projects like converting 2D photos into 3D photos -- a feature _no one_ will use as a justification to buy a Vision Pro -- into something that could and will provide real, tangible value and even a justification for the high purchase price. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  A Vision for the rest of us
@@ -123,10 +127,6 @@ It's not like Apple can't get there from here. To do so will require a mindset c
 In other words, for the Vision to be successful, it has to stop fooling around and showing off. It has to get real. It needs to provide a product that won't, as the Times' Roose says, sit "on a shelf collecting dust." 
 
 So what, beyond shipping useful software like the ultra-wide Mac display, needs to factor into that probably elusive Apple mindset change? Three things. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 1\. Give the Vision a controller
 
@@ -151,7 +151,7 @@ The idea that a future Vision device might need to be physically tethered to an 
 There might be one compromise, which is to wirelessly offload some processing to an iPhone, similar to the symbiotic relationship the Apple Watch has with the iPhone. That could work. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Make a tough margin decision
@@ -175,7 +175,7 @@ Think about that. If the Quest 3 is sold for $500, retailers like Amazon are lik
 Apple, by contrast, is making a fairly predictable margin on the Vision Pro, which is why the price is so high by comparison. Apple does have some cost-cutting options (display, chips, assembly, structure, and lenses), but if Facebook is competing at a loss, that puts Apple into the uncomfortable position of also taking a per-unit COGS loss or pricing well higher than the current market leader. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Looking towards the future
@@ -227,24 +227,22 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-fiscally-flourishing-through-film-reviewing-retail-relics/"><u>[New] 2024 Approved Fiscally Flourishing Through Film Reviewing Retail Relics</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-from-making-dreams-real-steps-towards-becoming-a-vtuber-for-2024/"><u>[New] From Making Dreams Real Steps Towards Becoming a VTuber for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-hitting-high-notes-enhance-your-youtube-content-with-music-edits-for-2024/"><u>[New] Hitting High Notes Enhance Your YouTube Content with Music Edits for 2024</u></a></li>
-<li><a href="https://fox-http.techidaily.com/new-in-2024-brainy-brigade-top-11-quiz-channels/"><u>[New] In 2024, Brainy Brigade Top 11 Quiz Channels</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-first-steps-in-the-youtubian-economy-building-a-brand-boosting-bank-balance/"><u>[New] In 2024, First Steps in the Youtubian Economy Building a Brand, Boosting Bank Balance</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-flashflicker-artist/"><u>[New] In 2024, FlashFlicker Artist</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-frameworks-producing-uplifting-life-journey-broadcasts/"><u>[New] In 2024, Frameworks Producing Uplifting Life Journey Broadcasts</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-webinar-recording-a-step-by-step-masterclass-guide/"><u>[New] In 2024, Webinar Recording A Step-by-Step Masterclass Guide</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-fostering-collaborations-building-partnerships-to-promote-videos/"><u>[Updated] 2024 Approved Fostering Collaborations Building Partnerships to Promote Videos</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-hiding-youtube-playback-tips-for-ios-and-android-for-2024/"><u>[Updated] Hiding YouTube Playback Tips for iOS and Android for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-flavorful-faves-top-online-chefs-and-culinary-stars/"><u>[Updated] In 2024, Flavorful Faves Top Online Chefs & Culinary Stars</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-premium-vfx-setup-options/"><u>2024 Approved Premium VFX Setup Options</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/ignite-social-success-discover-the-10-most-powerful-igtv-video-ideas-for-brands/"><u>Ignite Social Success Discover the 10 Most Powerful IGTV Video Ideas for Brands</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-edit-and-send-fake-location-on-telegram-for-your-honor-x50iplus-in-3-ways-drfone-by-drfone-virtual-android/"><u>In 2024, Edit and Send Fake Location on Telegram For your Honor X50i+ in 3 Ways | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-spy-on-text-messages-from-computer-and-vivo-y56-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Spy on Text Messages from Computer & Vivo Y56 5G | Dr.fone</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/2543812-9781780289915-john-the-baptist-and-the-last-gnostics/"><u>John the Baptist and the Last Gnostics | Free Book</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/reconstructing-ripped-realities-using-backups/"><u>Reconstructing Ripped Realities: Using Backups</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/ultimate-guide-to-fixing-wi-fi-issues-on-microsoft-surface-pro/"><u>Ultimate Guide to Fixing Wi-Fi Issues on Microsoft Surface Pro</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-in-2024-say-goodbye-to-format-issues-stream-any-video-to-chromecast-seamlessly/"><u>Updated In 2024, Say Goodbye to Format Issues Stream Any Video to Chromecast Seamlessly</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-re-watch-lost-youtube-scenes-online-simple-steps/"><u>[New] 2024 Approved How to Re-Watch Lost YouTube Scenes Online Simple Steps</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-high-quality-sound-adjustment-apps-for-content-casters/"><u>[New] In 2024, High-Quality Sound Adjustment Apps for Content Casters</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-leave-a-lasting-impression-with-your-video-ending/"><u>[New] In 2024, How to Leave a Lasting Impression with Your Video Ending</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-fraudulent-fronts-navigating-the-minefield-of-fake-youtube-viewers-for-2024/"><u>[Updated] Fraudulent Fronts Navigating the Minefield of Fake YouTube Viewers for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-guide-incorporating-youtube-videos-in-google-slides-for-2024/"><u>[Updated] Guide Incorporating YouTube Videos in Google Slides for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-how-many-viewers-equates-to-profit-decoding-youtubes-earnings-formula-for-2024/"><u>[Updated] How Many Viewers Equates to Profit? Decoding YouTube's Earnings Formula for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-tailor-youtube-thumbnails-for-maximum-impact-for-2024/"><u>[Updated] How to Tailor YouTube Thumbnails for Maximum Impact for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-post-youtube-videos-as-instagram-stories/"><u>[Updated] In 2024, How to Post YouTube Videos as Instagram Stories</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-navigating-the-needle-speed-of-videos-in-snapchat/"><u>[Updated] In 2024, Navigating the Needle-Speed of Videos in Snapchat</u></a></li>
+<li><a href="https://discover-community.techidaily.com/adjusting-screen-brightness-and-contrast-a-comprehensive-guide-by-yl-computing/"><u>Adjusting Screen Brightness & Contrast: A Comprehensive Guide by YL Computing</u></a></li>
+<li><a href="https://apple-account.techidaily.com/apple-id-locked-for-security-reasons-on-iphone-11-pro-max-find-the-best-solution-here-by-drfone-ios/"><u>Apple ID Locked for Security Reasons On iPhone 11 Pro Max? Find the Best Solution Here</u></a></li>
+<li><a href="https://extra-information.techidaily.com/best-practices-for-getting-high-quality-pictures-without-spending-money-for-2024/"><u>Best Practices for Getting High Quality Pictures Without Spending Money for 2024</u></a></li>
+<li><a href="https://discover-deluxe.techidaily.com/cracking-the-code-expert-strategies-for-identifying-and-resolving-cryptic-hardware-issues-in-windows-10-systems/"><u>Cracking the Code: Expert Strategies for Identifying and Resolving Cryptic Hardware Issues in Windows 10 Systems</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/vering-whos-watching-your-videos/"><u>Discovering Who's Watching Your Videos</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/entering-the-virtual-realm-google-meet-for-2024/"><u>Entering the Virtual Realm Google Meet for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/mastering-twitter-uploading-videos-compliance-for-2024/"><u>Mastering Twitter Uploading Videos Compliance for 2024</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210685435-9781591434245-the-mystery-of-doggerland/"><u>The Mystery of Doggerland | Free Book</u></a></li>
 </ul></div>
 

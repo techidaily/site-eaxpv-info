@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting iPhone's Drained Battery Post-iOS 17.5.1 Update: 7 Essential Fixes for Longer Life | TechSavvy"
-date: 2025-01-05T18:23:20.832Z
-updated: 2025-01-06T21:52:23.743Z
+date: 2025-01-11T17:48:59.406Z
+updated: 2025-01-13T16:40:31.913Z
 tags:
   - apple
 categories:
@@ -31,7 +31,7 @@ If you want to follow along, you'll need to install the iOS 18 public beta on an
 ## How to customize your iPhone's new Control Center with iOS 18
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Access Control Center
@@ -41,7 +41,7 @@ To display Control Center, swipe down from the top-right corner of the screen. Y
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Move the available controls
@@ -53,7 +53,7 @@ Screenshot by Lance Whitney/ZDNET
 **Also: [Every iPhone model that can be updated to Apple's iOS 18 (and which ones can't)](https://www.zdnet.com/article/every-iphone-model-that-can-be-updated-to-apples-ios-18-and-which-ones-cant/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Resize a control
@@ -62,15 +62,15 @@ After tapping the plus icon, some controls sport a gray curved handle in the low
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4\. Delete a control
 
 Next, you can directly delete a control you don't need or want. With the icons in edit mode, tap the minus sign for the icon you want to remove. When the icon is deleted, the surrounding icons should move to fill up the gap.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 5\. Add a control to an existing screen
 
@@ -87,7 +87,7 @@ If the current screens are already filled with icons, you can set up additional 
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 7\. Power down from Control Center
@@ -126,18 +126,14 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-guaranteed-safe-approaches-for-turning-youtube-songs-into-mp3-files-for-2024/"><u>[New] Guaranteed Safe Approaches for Turning YouTube Songs Into MP3 Files for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-harmonize-your-listens-the-complete-path-to-youtube-playlist-making-webmobile-for-2024/"><u>[New] Harmonize Your Listens The Complete Path to YouTube Playlist Making (Web/Mobile) for 2024</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-in-2024-cross-platform-filmography-syncing-smartphones-and-systems/"><u>[New] In 2024, Cross-Platform Filmography Syncing Smartphones and Systems</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-flavorful-follows-top-food-vloggers-to-track/"><u>[New] In 2024, Flavorful Follows Top Food Vloggers to Track</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-step-by-step-guide-to-find-youtube-hidden-videos/"><u>[New] In 2024, Step-By-Step Guide to Find YouTube Hidden Videos</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-photos-come-alive-with-accompanied-melodies/"><u>[New] Photos Come Alive with Accompanied Melodies</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-fitness-through-yoga-youtube-channel-hits-list-for-2024/"><u>[Updated] Fitness Through Yoga YouTube Channel Hits List for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-first-steps-in-the-digital-dollar-youtube-earning-hacks/"><u>[Updated] In 2024, First Steps in the Digital Dollar - YouTube Earning Hacks</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-mastering-the-art-with-sony-fdr-x1000v-action-footage/"><u>[Updated] Mastering the Art with Sony FDR-X1000V Action Footage</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-maximize-your-iphone-xs-selfie-potential-top-free-apps/"><u>2024 Approved Maximize Your iPhone X's Selfie Potential - Top Free Apps</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/editing-and-digitally-signing-pdf-documents-with-your-android-device-a-comprehensive-guide/"><u>Editing & Digitally Signing PDF Documents with Your Android Device: A Comprehensive Guide</u></a></li>
-<li><a href="https://win-dash.techidaily.com/freshest-driver-update-available-for-rtx-2080-users-running-windows-11-7-or-8/"><u>Freshest Driver Update Available for RTX 2080 Users Running Windows 11, 7, or 8</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/new-in-2024-fcp-in-the-spotlight-10-acclaimed-movies/"><u>New In 2024, FCP in the Spotlight 10 Acclaimed Movies</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-follow-the-flow-of-forum-fancies/"><u>[New] 2024 Approved Follow the Flow of Forum Fancies</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-secure-youtube-channels-audible-content/"><u>[New] 2024 Approved How to Secure YouTube Channels' Audible Content</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-cross-platform-content-transfer-youtube-meets-facebook-for-2024/"><u>[New] Cross-Platform Content Transfer YouTube Meets Facebook for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-cultivate-creativity-youtubes-top-inspirational-videos-for-2024/"><u>[Updated] Cultivate Creativity YouTube's Top Inspirational Videos for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-free-youtube-sound-ripper-collection-top-17-extractors-revealed/"><u>[Updated] Free YouTube Sound Ripper Collection Top 17 Extractors Revealed</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-and-install-latest-thunderbolt-3-drivers-for-windows-10-8-and-7/"><u>Download & Install Latest Thunderbolt 3 Drivers for Windows 10, 8, & 7</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-photos-from-nokia-130-music-by-fonelab-android-recover-photos/"><u>How to Rescue Lost Photos from Nokia 130 Music?</u></a></li>
+<li><a href="https://fox-info.techidaily.com/in-2024-top-5-easy-android-image-fixes/"><u>In 2024, Top 5 Easy Android Image Fixes</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/the-experts-guide-to-360-video-conversion-and-youtube-sharing-for-2024/"><u>The Expert's Guide to 360 Video Conversion and YouTube Sharing for 2024</u></a></li>
 </ul></div>
 

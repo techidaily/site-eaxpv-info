@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Maximize Your YouTube Impact  Mastering the Art of Influential Channels' Branding\""
-date: 2024-08-20T13:16:46.006Z
-updated: 2024-08-21T13:16:46.006Z
+date: 2025-01-07T16:51:26.830Z
+updated: 2025-01-13T17:47:51.471Z
 tags:
   - ai video
   - ai youtube
@@ -28,16 +28,10 @@ thumbnail: https://www.lifewire.com/thmb/fiE92Oaxlcmib5fU1IKpQazcl_8=/210x138/fi
 
 Epic Meal Time. Michelle Phan. Peter McKinnon. When you think of each of these YouTube creators, what comes to mind? The feelings and thoughts you have are vastly different because each one of these channels has its own unique branding.
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  ![Epic Meal Time](https://images.wondershare.com/filmora/article-images/epic-meal-time.png)
 
 _Epic Meal Time’s YouTube brand is in-your-face and intense. It pumps you full of adrenaline and increases your heart rate._
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Michelle Phan](https://images.wondershare.com/filmora/article-images/michelle-phan-youtube-channel.png)
 
 _Michelle Phan’s YouTube brand is calm, whimsical, and aspirational._
@@ -46,11 +40,19 @@ _Michelle Phan’s YouTube brand is calm, whimsical, and aspirational._
 
 They have different branding because they want to reflect different feelings for different audiences.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Bad Branding Causes Mistrust
 
 When a branding element does not align with the message or the tone does not match with the material, then the audience is not going to trust what you offer. Without trust, you won’t be able to get the advocacy that is essential for a YouTube channel to grow.
 
 Imagine Michelle Phan using the aggressive colors of Epic Meal Time or vice versa. Pretty weird, huh?
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What is YouTube Branding?
 
@@ -75,6 +77,10 @@ Here are notable elements of your channel’s branding:
 \- Catchphrase
 
 \- Style of video
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Start Branding Your YouTube Channel?
 
@@ -158,6 +164,10 @@ The power of good branding is that your viewers will be able to spot your brand 
 
 ![Create Video Thumbnails](https://images.wondershare.com/filmora/article-images/create-video-thumbnails.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 _Epic Meal Time thumbnails standing out amongst other loud thumbnails._
 
  Once you have the feeling you want to evoke, test out different thumbnails. Go incognito, search up your videos, and see how the visuals appear beside your competitions. Do they all have the same style or is your far more impressive?
@@ -184,25 +194,16 @@ Want more resources for creating your channel’s visual elements? Yes? Well, we
 
 \- [Free Youtube Banners](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
 ## How to Make Your Visuals Consistent?
 
 When a viewer finds your video and considers it pretty interesting, they will then go into your channel page to learn more. Here is where they make their decision: subscribe or not subscribe?
 
 Consistent branding affirms the viewer that they are in the right place. Peter McKinnon’s brand is built upon his amazing photography, it only makes sense that his visual elements are awesome.
 
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Peter McKinnon](https://images.wondershare.com/filmora/article-images/peter-mckinnon.png)
 
 _Peter McKinnon is best known for his photography and cinematography, and his branding amplifies that._
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## But Branding Is Not Designing, It’s A Feeling
 
 Don’t get too caught up with a design.
@@ -210,6 +211,10 @@ Don’t get too caught up with a design.
 Look at PewDiePie’s branding. You can argue that it is inconsistent and the design is not professional, but actually, his branding is spot on, because he is making you feel a certain way.
 
 ![Pew Die Pie Channel](https://images.wondershare.com/filmora/article-images/pew-die-pie-channel.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 _PewDiePie’s brand highlights its upbeat and unpredictable personality._
 
@@ -223,18 +228,6 @@ The humor in PewDiePie’s brand is consistent, even though his thumbnails don�
 
 _Philip DeFranco supplies commentary on current events with a satirical flair. Like a news broadcast, his branding and video format are consistent, while the daily news is different._
 
-<!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Inserting A Watermark
 
 The main point of a watermark is to let the viewers know when they are watching your video that it is in fact your video.
@@ -253,14 +246,8 @@ When a viewer lands on their video, the watermark gives the viewer another way t
 
 Want to set up your subscription watermark? Here is a quick tutorial:
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ##  
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Coming Up With A Catchphrase
 
 A catchphrase can be your greeting or sign off, but it doesn’t have to be an original line, it can simply be the way you say “hello.”
@@ -279,13 +266,15 @@ Got more questions about branding your YouTube channel? Let us know in the comme
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Shanoon Cox
 
 Shanoon Cox is a writer and a lover of all things video.
 
 Follow @Shanoon Cox
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -294,5 +283,24 @@ Follow @Shanoon Cox
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-cracking-the-code-calculating-your-income-from-youtubes-cpm/"><u>[New] 2024 Approved Cracking the Code Calculating Your Income From YouTube's CPM</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-find-the-perfect-free-video-editor-app-for-iphones-and-ipads/"><u>[New] 2024 Approved Find the Perfect Free Video Editor App for iPhones & iPads</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-growth-by-numbers-tapping-into-youtube-analytics-power/"><u>[New] 2024 Approved Growth by Numbers Tapping Into YouTube Analytics Power</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-guide-eradicating-pending-videos-on-your-youtube-queue/"><u>[New] 2024 Approved Guide Eradicating Pending Videos on Your YouTube Queue</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-financial-face-off-comparing-dailymotion-and-youtube-profitability-for-2024/"><u>[New] Financial Face-Off Comparing Dailymotion & YouTube Profitability for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-selfies-to-subscribers-jake-pauls-online-odyssey/"><u>[New] In 2024, From Selfies to Subscribers Jake Paul’s Online Odyssey</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-mastery-manual-downloading-hd-videos-on-todays-digital-landscapes/"><u>[New] In 2024, Mastery Manual Downloading HD Videos on Today's Digital Landscapes</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/tarting-stronger-must-have-tech-for-creators/"><u>[New] Starting Stronger Must-Have Tech for Creators</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-fraudulent-fronts-navigating-the-minefield-of-fake-youtube-viewers/"><u>[Updated] 2024 Approved Fraudulent Fronts Navigating the Minefield of Fake YouTube Viewers</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-live-without-the-temptation-of-youtube-shorts/"><u>[Updated] 2024 Approved How To Live Without the Temptation of YouTube Shorts</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-filmmakers-choice-selecting-perfect-lenses-for-youtube-creation/"><u>[Updated] In 2024, Filmmaker's Choice Selecting Perfect Lenses for YouTube Creation</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/updated-in-2024-tiktok-gaming-top-10-gaming-tiktokers/"><u>[Updated] In 2024, Tiktok Gaming | Top 10 Gaming Tiktokers</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-excellent-choices-comprehensive-paid-and-free-macpc-video-decoders/"><u>2024 Approved Excellent Choices Comprehensive Paid & FREE Mac/PC Video Decoders</u></a></li>
+<li><a href="https://win-popular.techidaily.com/best-reliable-backup-software-solutions-for-various-windows-server-versions-2012-through-2022/"><u>Best Reliable Backup Software Solutions for Various Windows Server Versions - 2012 Through 2022</u></a></li>
+<li><a href="https://facebook.techidaily.com/legitimacy-test-on-facebooks-safety-mail-service-is-securityfb-valid/"><u>Legitimacy Test on Facebook's Safety Mail Service: Is @Security@fb Valid?</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/navigating-online-public-opinion-for-video-content-concepts/"><u>Navigating Online Public Opinion for Video Content Concepts</u></a></li>
+<li><a href="https://solve-hot.techidaily.com/understanding-frequent-reasons-behind-windows-registry-issues-insights-by-yl-computing/"><u>Understanding Frequent Reasons Behind Windows Registry Issues - Insights by YL Computing</u></a></li>
+</ul></div>
 

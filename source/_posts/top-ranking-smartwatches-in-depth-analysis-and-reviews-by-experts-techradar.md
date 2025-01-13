@@ -1,7 +1,7 @@
 ---
 title: Top-Ranking Smartwatches - In Depth Analysis & Reviews by Experts | TechRadar
-date: 2025-01-04T06:22:16.132Z
-updated: 2025-01-07T02:26:55.256Z
+date: 2025-01-08T17:33:02.354Z
+updated: 2025-01-13T16:24:22.282Z
 tags:
   - apple
 categories:
@@ -26,6 +26,10 @@ At ZDNET, we've tested all of the best smartwatches on the market, testing their
 
 Based on both our [hands-on testing](https://www.zdnet.com/article/how-we-test-smartwatches-at-zdnet-in-2024/) and insights from experts, we named the [Apple Watch Ultra 2](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-watch%2Fapple-watch-ultra&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) the best smartwatch overall due to its new processor, long battery life, storage capacity, high-quality titanium materials, [sleep-tracking capabilities](https://www.zdnet.com/article/how-to-sleep-better-with-the-apple-watch/), women's wellness features, and advanced workout metric feature suite. If you're not an Apple user, read on to see how watches from [Samsung](https://www.zdnet.com/article/best-android-smartwatch/) (including its newest [Galaxy Watch Ultra](https://www.zdnet.com/article/the-galaxy-watch-ultra-convinced-me-to-replace-my-apple-watch-in-less-than-a-week-heres-why/)), Google (including its newest [Pixel Watch 3](https://www.zdnet.com/article/hands-on-with-the-pixel-watch-3-the-three-features-google-got-right/)), [Garmin,](https://www.zdnet.com/article/best-garmin-watch/) Withings, and Amazfit compare, to find the best smartwatch for your needs and your wrist. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  The best smartwatches of 2024
 
 Show less 
@@ -43,11 +47,11 @@ Cons
 * No offline mapping
 * May be too large for small wrists
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Apple Watch Ultra 2
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Best smartwatch overall
 
@@ -108,15 +112,7 @@ Pros
 Cons 
 * Not built for rugged adventures
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Google Pixel Watch 3
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Best Google smartwatch
 
@@ -149,10 +145,14 @@ Cons
 * Blood pressure certification taking much longer than advertised
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Samsung Galaxy Watch Ultra
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Best Samsung smartwatch for outdoor adventurers
 
@@ -367,6 +367,10 @@ However, finding the best smartwatch for you can be more complicated, especially
 | Amazfit Balance               | An affordable smartwatch that punches far above its price. Its powerful smartphone application provides access to a wealth of health/fitness data while supporting calls and Amazon Alexa.                                                       |
 | Withings ScanWatch 2          | A hybrid watch that looks like a standard watch with analog hands, but underneath this elegant exterior is the power of the Withings health and wellness ecosystem.                                                                              |
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Factors to consider when buying a smartwatch
 
 Smartwatches serve as companions to our smartphones, and there are several things to consider as you explore the many options available to you. Several factors will help you quickly narrow down available candidates, so let's take a closer look and help you select the best smartwatch for you.
@@ -388,14 +392,10 @@ All of the smartwatches included in this list were chosen based on how they perf
 For a deeper look into our testing process, check out our comprehensive [smartwatch testing methodology](https://www.zdnet.com/article/how-we-test-smartwatches-at-zdnet-in-2024/).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## FAQs
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Are there any smartwatches I should avoid?
 
@@ -419,10 +419,6 @@ Google Wear OS watches used to work with both Android and iPhone devices, but th
 
 Garmin, Amazfit, and Withings watches work flawlessly with both Android and iPhone devices.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Can I text from a smartwatch?
 
 You absolutely can! However, most of their screens are too small to type on, so you'll compose messages with speech-to-text or other dictation functions or choose from several generic, auto-generated responses. 
@@ -436,7 +432,7 @@ While you can leave your iPhone at home while you run, go to the store, or strol
 After initial setup, a cellular-enabled Samsung Galaxy Watch or Google Pixel Watch can act as a stand-alone mobile device. With the latest Galaxy Watch 7, Watch Ultra, or Pixel Watch 3 running Wear OS, many more apps can be used on the go, so you can leave the phone behind in most cases.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What are the hot new features in the latest smartwatches?
@@ -453,10 +449,6 @@ People also regularly have video calls with family and friends, not just coworke
 
 In addition, as AI continues to integrate into our lives, having this technology available in our watches should help provide data faster and more accurately than simple web search queries that we may carry out with Siri or Google Assistant.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What's the best smartwatch for health monitoring?
 
 All smartwatches today integrate advanced heart rate sensors, temperature sensors, blood oxygen sensors, and more, as our health data is tracked 24/7\. Samsung led the way with its smartwatch health monitoring, which includes body composition, advanced sleep tracking, ECG, blood oxygen, running power, and even blood pressure measurements.
@@ -464,6 +456,10 @@ All smartwatches today integrate advanced heart rate sensors, temperature sensor
 Google acquired Fitbit, and now the Fitbit ecosystem is deeply incorporated into the Pixel Watch experience. This includes helpful insights, personalized running workouts based on your sleep, activity, and lifestyle, and more practical and helpful feedback to optimize your health and wellness.
 
 Apple has advanced its health monitoring technology, and the upcoming watchOS 11 will bring even more capability with detailed data measurements in its Vitals application. Training Load will also be coming with this next version of the operating system, challenging the likes of Garmin, Coros, and Polar with this advanced fitness metric.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Can smartwatches monitor blood sugar?
 
@@ -477,6 +473,10 @@ There are a [few models out there](https://www.healthline.com/health/best-blood-
 
 Samsung provides blood pressure monitoring via its Galaxy Watch models in countries outside the US, with rumors that Apple may launch watches supporting this functionality in 2024.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Should I choose a smartwatch based on compatibility?
 
 Eric Potter, USA weightlifting Level 1 Coach and Performance Coach at [Future](https://www.future.co/) Fitness, encourages people to choose a smartwatch based on compatibility, recommending an Apple Watch for iPhone users and a Samsung Galaxy Watch for Android fans. He notes that both smartwatches can track steps, heart rate, and exercise, but there are also crucial differences.
@@ -484,7 +484,7 @@ Eric Potter, USA weightlifting Level 1 Coach and Performance Coach at [Future](h
 "The Apple Watch has a larger interface allowing for easier viewing," he said. "On the other hand, the Samsung Galaxy Watch is cheaper than the Apple Watch, and the battery life tends to last longer."
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Are there alternative smartwatches worth considering?
@@ -543,24 +543,24 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-endorsements-on-screen-shaping-perceptions/"><u>[New] 2024 Approved Endorsements on Screen Shaping Perceptions</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-financial-magnitude-in-mr-beasts-realm/"><u>[New] 2024 Approved Financial Magnitude in Mr. Beast's Realm</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-giggles-galore-curated-hits-of-hilarious-youtubers/"><u>[New] 2024 Approved Giggles Galore Curated Hits of Hilarious YouTubers</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-guide-to-producing-impactful-lifestyle-motivational-content/"><u>[New] 2024 Approved Guide to Producing Impactful Lifestyle Motivational Content</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-convert-youtube-tracks-to-mp3-safely-the-3-best-ways/"><u>[New] 2024 Approved How To Convert YouTube Tracks to MP3 Safely - The 3 Best Ways</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-ideal-devices-for-capturing-stellar-videos-on-the-move/"><u>[New] Ideal Devices for Capturing Stellar Videos on the Move</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-global-earning-maestro-of-video-content/"><u>[New] In 2024, Global Earning Maestro of Video Content</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-harnessing-success-with-freefire-hashtag-tips/"><u>[New] In 2024, Harnessing Success with FreeFire Hashtag Tips</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-hidden-details-you-need-to-know-about-youtube-tv-service/"><u>[New] In 2024, Hidden Details You Need to Know About YouTube TV Service</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/new-perfecting-youtube-videos-through-enhancement-tips/"><u>[New] Perfecting YouTube Videos Through Enhancement Tips</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-transforming-ideas-into-videos-top-30-strategies/"><u>[New] Transforming Ideas Into Videos Top 30 Strategies</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-hack-the-youtube-timeline-increase-or-decrease-sound-for-2024/"><u>[Updated] Hack the YouTube Timeline Increase or Decrease Sound for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-giggles-galore-7-entertaining-video-sets-for-chuckleheads/"><u>[Updated] In 2024, Giggles Galore 7 Entertaining Video Sets for Chuckleheads</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-step-by-step-srt-addition-to-mp4s-for-next-level-audio/"><u>2024 Approved Step-by-Step SRT Addition to MP4s for Next-Level Audio</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/convert-wav-files-to-aiff-for-free-with-movavis-web-service/"><u>Convert WAV Files to AIFF for Free with Movavi's Web Service</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/efficient-techniques-to-snap-up-twitter-gifs/"><u>Efficient Techniques to Snap Up Twitter Gifs</u></a></li>
-<li><a href="https://fox-access.techidaily.com/in-2024-a-deep-dive-into-cutting-edge-vr-technology/"><u>In 2024, A Deep Dive Into Cutting-Edge VR Technology</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/in-2024-critical-selection-of-best-screen-recorders-android/"><u>In 2024, Critical Selection of Best Screen Recorders (Android)</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/e-your-contents-signature-adding-watermarks-and-logo-to-youtube-videos/"><u>Secure Your Content's Signature Adding Watermarks & Logo to Youtube Videos</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/nhance-audio-quality-get-high-quality-fx/"><u>[New] Enhance Audio Quality, Get High-Quality FX!</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-2024-approved-peek-behind-ustreams-curtain-and-more/"><u>[Updated] 2024 Approved Peek Behind Ustream's Curtain and More</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-a-beginners-guide-to-embedding-youtube-playlists-in-code-for-2024/"><u>[Updated] A Beginner's Guide to Embedding YouTube Playlists in Code for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-fast-track-to-1000-fans-through-captivating-content-for-2024/"><u>[Updated] Fast-Track To 1,000 Fans Through Captivating Content for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-quality-video-sharing-leading-alternative-converters-from-flv-to-yt/"><u>[Updated] Quality Video Sharing Leading Alternative Converters From FLV to YT</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-reel-in-riches-a-guide-to-earning-on-youtube-shorts/"><u>[Updated] Reel In Riches A Guide to Earning on YouTube Shorts</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-unlock-50-exclusive-youtube-banner-free-gifts/"><u>[Updated] Unlock 50 Exclusive YouTube Banner Free Gifts</u></a></li>
+<li><a href="https://location-fake.techidaily.com/3-ways-to-fake-gps-without-root-on-honor-x9b-drfone-by-drfone-virtual-android/"><u>3 Ways to Fake GPS Without Root On Honor X9b | Dr.fone</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/affordable-excellence-in-webcams-a-detailed-look-at-logitechs-c615/"><u>Affordable Excellence in Webcams - A Detailed Look at Logitech's C615</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/android-unlock-code-sim-unlock-your-tecno-spark-20-phone-and-remove-locked-screen-by-drfone-android/"><u>Android Unlock Code Sim Unlock Your Tecno Spark 20 Phone and Remove Locked Screen</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/expert-advice-navigating-chat-features-within-mozilla-thunderbird/"><u>Expert Advice: Navigating Chat Features Within Mozilla Thunderbird</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-11-to-other-iphone-14-pro-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 11 to other iPhone 14 Pro devices? | Dr.fone</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-excellence-in-detail-a-curated-list-of-8k-cameras/"><u>In 2024, Excellence in Detail A Curated List of 8K Cameras</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/overcoming-lameencdll-file-challenges-in-audacity-expert-tips-and-solutions/"><u>Overcoming lame_enc.dll File Challenges in Audacity - Expert Tips and Solutions</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/quick-growth-on-youtube-mastering-the-art-of-video-outros-for-2024/"><u>Quick Growth on YouTube Mastering the Art of Video Outros for 2024</u></a></li>
+<li><a href="https://techidaily.com/simple-ways-to-get-lost-messages-back-from-motorola-moto-g14-by-fonelab-android-recover-messages/"><u>Simple ways to get lost messages back from Motorola Moto G14</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/subscription-made-simple-building-a-user-friendly-button-for-channels-for-2024/"><u>Subscription Made Simple Building a User-Friendly Button for Channels for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/unraveling-the-secrets-of-viral-content-creation-for-2024/"><u>Unraveling the Secrets of Viral Content Creation for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/your-story-your-stage-youtube-video-mastery-for-2024/"><u>Your Story, Your Stage YouTube Video Mastery for 2024</u></a></li>
 </ul></div>
 

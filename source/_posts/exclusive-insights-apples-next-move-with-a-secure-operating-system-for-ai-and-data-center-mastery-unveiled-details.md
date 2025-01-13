@@ -1,7 +1,7 @@
 ---
 title: "Exclusive Insights: Apple's Next Move with a Secure Operating System for AI & Data Center Mastery - Unveiled Details"
-date: 2025-01-04T22:34:46.285Z
-updated: 2025-01-06T18:33:23.318Z
+date: 2025-01-12T19:01:02.306Z
+updated: 2025-01-13T17:12:14.000Z
 tags:
   - apple
 categories:
@@ -58,6 +58,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Security and privacy implications
 
   
@@ -76,7 +80,7 @@ Sideloading could circumvent iOS's privacy controls, allowing apps to access and
 But there is a potential positive side. Allowing sideloading could ensure that Apple's privacy and security practices are not used anti-competitively. This could help maintain genuine user protection, which is crucial to maintaining user trust and safeguarding the platform's integrity.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## App Store changes
@@ -88,10 +92,6 @@ Following antitrust actions, Apple's market dynamics could shift in several ways
 * **Reduction in App Store fees:** Antitrust rulings may require Apple to reduce its upfront commission and yearly subscription fee, which could negatively impact its revenue. However, this may lead to lower app prices for consumers and increased developer earnings.
 * **Competitive app marketplace:** If iOS is opened to third-party app stores, it could break Apple's monopoly on app distribution and create a more competitive environment where different app marketplaces fight for developer and consumer attention.
 * **Innovative business models:** If Apple's control is broken, it could encourage innovation as developers will have the freedom to explore new app functionalities and business models. They can experiment with alternative monetization strategies beyond the traditional app purchase or subscription model, such as enhanced in-app advertising, freemium models, or blockchain-based transactions.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Apple ecosystem transformation
 
@@ -117,7 +117,7 @@ With a requirement for sideloading and allowing third-party app stores and a nee
 * **Access to open-source app repositories:** Users might be able to download apps from open-source repositories, offering a wider selection of apps and potentially fostering a community-driven app development ecosystem on Apple devices.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Regulatory and industry-wide impact
@@ -131,7 +131,7 @@ Apple, of course, is not giving up the fight. Its response to the DOJ lawsuit, i
 As Apple navigates these legal and market challenges, it must maintain its hallmark of a secure, user-friendly environment while potentially opening up access to more apps and services. This lawsuit's implications are profound, and it will be interesting to see how it unfolds and affects the tech industry in the coming years.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Previous coverage
@@ -170,24 +170,18 @@ As Apple navigates these legal and market challenges, it must maintain its hallm
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-fbs-top-songs-on-screen-a-step-by-step-vlog-series-for-2024/"><u>[New] FB's Top Songs on Screen A Step-by-Step Vlog Series for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-historical-wisdom-on-youtube-for-students-for-2024/"><u>[New] Historical Wisdom on YouTube for Students for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-how-to-craft-powerful-tags-for-maximum-youtube-engagement-for-2024/"><u>[New] How to Craft Powerful Tags for Maximum Youtube Engagement for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-formulating-an-easy-to-use-youtube-subscriber-link/"><u>[New] In 2024, Formulating an Easy-to-Use YouTube Subscriber Link</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-fresh-start-strategy-budget-channels-to-purchase/"><u>[Updated] 2024 Approved Fresh Start Strategy Budget Channels to Purchase</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-novice-to-notable-top-course-recommendations-for-youtubers/"><u>[Updated] 2024 Approved From Novice to Notable Top Course Recommendations for YouTubers</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-global-youtube-rich-list-pinnacle/"><u>[Updated] 2024 Approved Global YouTube Rich List Pinnacle</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-save-money-with-the-right-youtube-tv-plan/"><u>[Updated] 2024 Approved How to Save Money with the Right YouTube TV Plan</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-expert-tips-to-soften-sound-tracks-in-logic-pro/"><u>[Updated] Expert Tips to Soften Sound Tracks in Logic Pro</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-from-words-to-voices-scriptwriting-for-successful-podcasts/"><u>[Updated] From Words to Voices Scriptwriting for Successful Podcasts</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-diving-deep-into-instagrams-new-features/"><u>[Updated] In 2024, Diving Deep Into Instagram's New Features</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-individualist-to-institutional-influence-in-the-youtube-universe/"><u>[Updated] In 2024, From Individualist to Institutional Influence in the YouTube Universe</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-haul-vlogging-101-a-step-by-step-guide/"><u>[Updated] In 2024, Haul Vlogging 101 A Step-by-Step Guide</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/apple-grants-green-light-on-refurbished-components-for-specific-iphone-fixes-zdnet/"><u>Apple Grants Green Light on Refurbished Components for Specific iPhone Fixes - ZDNet</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/bypassing-blunders-effective-strategies-to-prevent-errors-while-utilizing-champtgpt/"><u>Bypassing Blunders: Effective Strategies to Prevent Errors While Utilizing ChamptGPT</u></a></li>
-<li><a href="https://solve-info.techidaily.com/driven-by-cookiebot-enhancing-your-websites-visitor-tracking/"><u>Driven by Cookiebot: Enhancing Your Website's Visitor Tracking</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/effective-ways-to-reduce-starfields-excessive-cpu-utilization-in-2n4/"><u>Effective Ways to Reduce Starfield's Excessive CPU Utilization in 2N4</u></a></li>
-<li><a href="https://fox-that.techidaily.com/effortless-ways-to-get-your-imessage-up-and-running-again-on-ios-gadgets/"><u>Effortless Ways to Get Your iMessage Up & Running Again on iOS Gadgets</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/integrating-textual-descriptions-into-videos-on-photos-windows-11/"><u>Integrating Textual Descriptions Into Videos on Photos (Windows 11)</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-hitching-your-video-trailers-to-youtube-success/"><u>[New] 2024 Approved Hitching Your Video Trailers to YouTube Success</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-accelerate-with-these-key-windows-10-tricks/"><u>[New] Accelerate with These Key Windows 10 Tricks</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-foremost-video-starters-the-leading-16-youtube-openers-for-2024/"><u>[New] Foremost Video Starters The Leading 16 YouTube Openers for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-getting-the-most-out-of-your-youtube-videos-thumbnails-extraction-for-2024/"><u>[New] Getting the Most Out of Your Youtube Videos Thumbnails Extraction for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-getting-your-foot-in-the-channels-door-must-haves/"><u>[New] In 2024, Getting Your Foot in the Channel's Door Must-Haves</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-streamlined-video-tools-for-twitter-sharing/"><u>[New] Streamlined Video Tools for Twitter Sharing</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-beyond-the-boundaries-limitations-in-vr/"><u>[Updated] Beyond the Boundaries Limitations in VR</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-effortlessly-erase-photo-borders-with-photopea/"><u>[Updated] Effortlessly Erase Photo Borders with Photopea</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-from-script-to-screen-crafting-your-unique-youtube-tale-for-2024/"><u>[Updated] From Script to Screen Crafting Your Unique YouTube Tale for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/augmented-reality-computing-just-got-bigger-purchase-the-newest-100-inch-ar-laptop-display-sans-separate-monitor/"><u>Augmented Reality Computing Just Got Bigger: Purchase the Newest 100-Inch AR Laptop Display , Sans Separate Monitor!</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/24-deciphering-digital-dominance-a-detailed-examination-of-youtube-engagement-metrics/"><u>In 2024, Deciphering Digital Dominance A Detailed Examination of YouTube Engagement Metrics</u></a></li>
+<li><a href="https://facebook.techidaily.com/navigating-through-your-entire-facebook-experience/"><u>Navigating Through Your Entire Facebook Experience</u></a></li>
+<li><a href="https://some-tips.techidaily.com/organizing-chaos-taming-linux-and-open-source-documentation-woes-with-effective-strategies/"><u>Organizing Chaos: Taming Linux & Open Source Documentation Woes with Effective Strategies</u></a></li>
 </ul></div>
 
